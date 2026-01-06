@@ -41,19 +41,6 @@
         <button id="guessBtn">Guess</button>
       </div>
 
-      <div class="hints">
-        <div class="hintLine" id="hintLine">No hints used.</div>
-        <div class="hintBtns">
-          <button id="hintSector">Sector</button>
-          <button id="hintIndustry">Industry</button>
-          <button id="hintLogo">Logo</button>
-        </div>
-      </div>
-
-      <div class="logoWrap" id="logoWrap" style="display:none;">
-        <img id="logoImg" alt="Company logo" />
-      </div>
-
       <div class="notice" id="notice" style="display:none;"></div>
 
       <div class="cardHead" style="margin-top:14px;">
@@ -61,6 +48,25 @@
         <div class="pill" id="latest">No guesses yet</div>
       </div>
       <div class="grid" id="cluesGrid"></div>
+
+      <!-- Hints (moved below Clues) -->
+<div class="hintPanel">
+  <div class="hintHeader">
+    <div class="hintTitle">Hints</div>
+    <div class="hintSub" id="hintLine">No hints used.</div>
+  </div>
+
+  <div class="hintActions">
+    <button class="hintPill" id="hintSector">Sector</button>
+    <button class="hintPill" id="hintIndustry">Industry</button>
+    <button class="hintPill" id="hintLogo">Logo</button>
+  </div>
+
+  <div class="logoWrap" id="logoWrap" style="display:none;">
+    <img id="logoImg" alt="Company logo" />
+  </div>
+</div>
+
 
       <div class="reveal" id="reveal" style="display:none;"></div>
     </section>

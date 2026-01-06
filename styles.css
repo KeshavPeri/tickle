@@ -173,3 +173,77 @@ input{
 #tickerBoxes .box.flip {
   animation: flipIn 420ms ease;
 }
+
+/* Hints panel (Optional style) */
+.hintPanel{
+  margin-top:12px;
+  border:1px solid var(--border);
+  background:rgba(255,255,255,.04);
+  border-radius:16px;
+  padding:12px;
+}
+
+.hintHeader{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:10px;
+  margin-bottom:10px;
+}
+
+.hintTitle{
+  font-weight:700;
+  font-size:12px;
+  color:rgba(255,255,255,.88);
+}
+
+.hintSub{
+  font-size:12px;
+  color:var(--muted);
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+
+.hintActions{
+  display:flex;
+  gap:10px;
+  flex-wrap:wrap;
+}
+
+.hintPill{
+  border:1px solid var(--border);
+  background:transparent;
+  color:rgba(255,255,255,.82);
+  border-radius:999px;
+  padding:8px 12px;
+  cursor:pointer;
+  font-size:12px;
+}
+
+.hintPill:disabled{
+  opacity:.5;
+  cursor:not-allowed;
+}
+
+/* Keep your existing logoWrap styles if already present.
+   If not, ensure these exist: */
+.logoWrap{
+  margin-top:10px;
+  border:1px solid var(--border);
+  border-radius:14px;
+  padding:10px;
+  display:flex;
+  justify-content:center;
+  background:rgba(0,0,0,.10);
+}
+.logoWrap img{
+  width:72px;
+  height:72px;
+  object-fit:contain;
+  filter: blur(16px);
+  opacity:.95;
+  transition: filter 240ms ease, opacity 240ms ease;
+}
+.logoWrap img.stage2{ filter: blur(8px); }
+.logoWrap img.stage3{ filter: blur(0px); opacity: 1; }
