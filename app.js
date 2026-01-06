@@ -37,6 +37,31 @@ function renderTickerBoxes(n){
   }
 }
 
+function fillTickerBoxes(ticker){
+  const boxes = $("tickerBoxes").querySelectorAll(".box");
+  const letters = String(ticker || "").split("");
+
+  boxes.forEach((b) => {
+    b.classList.remove("flip");
+  });
+
+  letters.forEach((ch, i) => {
+    const box = boxes[i];
+    if (!box) return;
+
+    // Stagger each flip like Wordle
+    setTimeout(() => {
+      box.classList.add("flip");
+      // Swap the letter mid-flip
+      setTimeout(() => {
+        box.textContent = ch;
+      }, 210);
+    }, i * 120);
+  });
+}
+
+
+
 function populateDatalist(){
   const dl = $("stocklist");
   dl.innerHTML = "";
@@ -369,6 +394,7 @@ async function init(){
     renderClues(sel);
 
     const win = sel.ticker === ANSWER.ticker;
+    if (win) fillTickerBoxes(ANSWER.ticker);
     if(win || tries >= maxTries) reveal(win);
 
     $("search").value = "";
@@ -388,11 +414,28 @@ async function init(){
     $("hintIndustry").disabled = true;
   });
   let logoStage = 0;
-  $("hintLogo").addEventListener("click", () => {
-    logoStage = Math.min(3, logoStage + 1);
-    $("hintLine").textContent = logoStage === 1 ? "Logo: blurred" : logoStage === 2 ? "Logo: clearer" : "Logo: full";
-    if(logoStage === 3) $("hintLogo").disabled = true;
-  });
+$("hintLogo").addEventListener("click", () => {
+  logoStage = Math.min(3, logoStage + 1);
+
+  const wrap = $("logoWrap");
+  const img = $("logoImg");
+
+  wrap.style.display = "flex";
+  img.src = `./assets/logos/${ANSWER.ticker}.png`;
+
+  img.classList.remove("stage2", "stage3");
+
+  if (logoStage === 1) {
+    $("hintLine").textContent = "Logo: blurred";
+  } else if (logoStage === 2) {
+    img.classList.add("stage2");
+    $("hintLine").textContent = "Logo: clearer";
+  } else if (logoStage === 3) {
+    img.classList.add("stage3");
+    $("hintLine").textContent = "Logo: full";
+    $("hintLogo").disabled = true;
+  }
+});
 }
 
 init().catch(err => {

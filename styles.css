@@ -107,6 +107,10 @@ input{
 .k{font-size:11px; color:var(--muted)}
 .v{display:flex; justify-content:space-between; gap:8px; margin-top:6px}
 .badge{font-size:11px; color:var(--muted)}
+.badge.good { color: rgba(46,204,113,.95); }
+.badge.yellow { color: rgba(241,196,15,.95); }
+.badge.orange { color: rgba(230,126,34,.95); }
+.badge.bad { color: rgba(231,76,60,.95); }
 #history{display:flex; flex-direction:column; gap:10px; margin-top:10px}
 .row{border:1px solid var(--border); border-radius:14px; padding:10px}
 .rowTop{display:flex; justify-content:space-between; gap:10px; align-items:center}
@@ -125,4 +129,47 @@ input{
   border:1px solid var(--border);
   border-radius:14px;
   padding:12px;
+}
+.logoWrap{
+  margin-top:10px;
+  border:1px solid var(--border);
+  border-radius:14px;
+  padding:10px;
+  display:flex;
+  justify-content:center;
+  background:rgba(0,0,0,.10);
+}
+
+.logoWrap img{
+  width:72px;
+  height:72px;
+  object-fit:contain;
+  filter: blur(16px);
+  opacity:.95;
+  transition: filter 240ms ease, opacity 240ms ease;
+}
+
+.logoWrap img.stage2{
+  filter: blur(8px);
+}
+
+.logoWrap img.stage3{
+  filter: blur(0px);
+  opacity: 1;
+}
+/* Wordle-style flip */
+@keyframes flipIn {
+  0%   { transform: rotateX(0deg);   opacity: 1; }
+  49%  { transform: rotateX(90deg);  opacity: 0.6; }
+  50%  { transform: rotateX(-90deg); opacity: 0.6; }
+  100% { transform: rotateX(0deg);   opacity: 1; }
+}
+
+#tickerBoxes .box {
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+}
+
+#tickerBoxes .box.flip {
+  animation: flipIn 420ms ease;
 }
