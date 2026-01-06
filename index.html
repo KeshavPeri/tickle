@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>TICKle</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="brand">TICKle</div>
+    <div class="meta">
+      <span id="attempts">0 / 6</span>
+      <span id="timer">0:00</span>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <div class="cardHead">
+        <h2>Chart</h2>
+        <div class="seg">
+          <button class="active" data-tf="6m">6M</button>
+          <button data-tf="1m">1M</button>
+          <button data-tf="1y">1Y</button>
+        </div>
+      </div>
+
+      <div class="chartWrap">
+        <canvas id="chart" width="900" height="320"></canvas>
+      </div>
+
+      <div class="tickerBoxes" id="tickerBoxes"></div>
+
+      <div class="guessRow">
+        <div class="field">
+          <input id="search" list="stocklist" placeholder="Search: AAPL, Apple, NVDA…" autocomplete="off" />
+          <datalist id="stocklist"></datalist>
+          <div class="subtle">Pick from dropdown: <span class="mono">TICKER — Company</span></div>
+        </div>
+        <button id="guessBtn">Guess</button>
+      </div>
+
+      <div class="hints">
+        <div class="hintLine" id="hintLine">No hints used.</div>
+        <div class="hintBtns">
+          <button id="hintSector">Sector</button>
+          <button id="hintIndustry">Industry</button>
+          <button id="hintLogo">Logo</button>
+        </div>
+      </div>
+
+      <div class="notice" id="notice" style="display:none;"></div>
+
+      <div class="cardHead" style="margin-top:14px;">
+        <h2>Clues</h2>
+        <div class="pill" id="latest">No guesses yet</div>
+      </div>
+      <div class="grid" id="cluesGrid"></div>
+
+      <div class="reveal" id="reveal" style="display:none;"></div>
+    </section>
+
+    <section class="card">
+      <div class="cardHead">
+        <h2>Guesses</h2>
+        <div class="pill">History</div>
+      </div>
+      <div id="history"></div>
+    </section>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>
