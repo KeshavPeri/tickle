@@ -165,19 +165,51 @@ function letterFeedback(guess, answer){
   return res;
 }
 
-function compareNum(a,b){
-  const eps = Math.abs(b) * 0.10;
-  if(Math.abs(a-b) <= eps) return {state:"mid", arrow:""};
-  return {state:"bad", arrow: a < b ? "⬆︎" : "⬇︎"};
+function compareNum(guess, answer){
+  if (
+    typeof guess !== "number" ||
+    typeof answer !== "number" ||
+    answer === 0
+  ) {
+    return { cls: "bad", arrow: "" };
+  }
+
+  const diffPct = Math.abs((guess - answer) / answer) * 100;
+
+  let cls = "bad";
+  if (diffPct <= 5) cls = "good";
+  else if (diffPct <= 12) cls = "yellow";
+  else if (diffPct <= 25) cls = "orange";
+
+  const arrow =
+    cls === "good"
+      ? ""
+      : guess < answer
+        ? "⬆︎"
+        : "⬇︎";
+
+  return { cls, arrow };
 }
+
+
+function badgeHtml(cls, arrow=""){
+  const label =
+    cls === "good" ? "match" :
+    cls === "yellow" ? "near" :
+    cls === "orange" ? "far" : "off";
+
+  return `<span class="badge ${cls}">${arrow ? `${arrow} ` : ""}${label}</span>`;
+}
+
 function compareCat(a,b){
   return (String(a).toLowerCase() === String(b).toLowerCase()) ? "good" : "bad";
 }
 
+
 function cell(k,v,badge){
   const d = document.createElement("div");
   d.className = "cell";
-  d.innerHTML = `<div class="k">${k}</div><div class="v"><div>${v}</div><div class="badge">${badge||""}</div></div>`;
+  d.innerHTML = `<div class="k">${k}</div><div class="v"><div>${v}</div>${badge || ""}</div>`;
   return d;
 }
 
@@ -185,25 +217,55 @@ function renderClues(latest){
   const grid = $("cluesGrid");
   grid.innerHTML = "";
 
+  // Empty state
   if(!latest){
-    ["Sector","Industry","Market cap","Last close","1Y return","Dividend"].forEach(k => {
-      grid.appendChild(cell(k,"—",""));
-    });
+    grid.appendChild(cell("Sector","—",""));
+    grid.appendChild(cell("Industry","—",""));
+    grid.appendChild(cell("Market cap","—",""));
+    grid.appendChild(cell("Last close","—",""));
+    grid.appendChild(cell("1Y return","—",""));
+    grid.appendChild(cell("Dividend","—",""));
     return;
   }
 
   $("latest").textContent = `Latest: ${latest.ticker}`;
 
-  const answerStock = ANSWER;
-  const mcapC = compareNum(latest.marketCapB, answerStock.marketCapB);
+  const sectorCls = compareCat(latest.sector, ANSWER.sector);
+  const industryCls = compareCat(latest.industry, ANSWER.industry);
+  const divCls = compareCat(latest.dividend, ANSWER.dividend);
 
-  grid.appendChild(cell("Sector", latest.sector, compareCat(latest.sector, answerStock.sector)));
-  grid.appendChild(cell("Industry", latest.industry, compareCat(latest.industry, answerStock.industry)));
-  grid.appendChild(cell("Market cap", `~$${latest.marketCapB}B`, `${mcapC.state} ${mcapC.arrow}`));
-  grid.appendChild(cell("Last close", `$${SNAP.lastClose.toFixed(2)}`, ""));
-  grid.appendChild(cell("1Y return", `${SNAP.oneYearReturn.toFixed(1)}%`, ""));
-  grid.appendChild(cell("Dividend", latest.dividend ? "Yes":"No", compareCat(latest.dividend, answerStock.dividend)));
+  const mcap = compareNum(latest.marketCapB, ANSWER.marketCapB);
+  const close = compareNum(latest.lastClose, ANSWER.lastClose);
+  const ret = compareNum(latest.oneYearReturn, ANSWER.oneYearReturn);
+
+  grid.appendChild(cell("Sector", latest.sector, badgeHtml(sectorCls)));
+  grid.appendChild(cell("Industry", latest.industry, badgeHtml(industryCls)));
+
+  grid.appendChild(cell(
+    "Market cap",
+    `~$${Number(latest.marketCapB).toFixed(0)}B`,
+    badgeHtml(mcap.cls, mcap.arrow)
+  ));
+
+  grid.appendChild(cell(
+    "Last close",
+    `$${Number(latest.lastClose).toFixed(2)}`,
+    badgeHtml(close.cls, close.arrow)
+  ));
+
+  grid.appendChild(cell(
+    "1Y return",
+    `${Number(latest.oneYearReturn).toFixed(1)}%`,
+    badgeHtml(ret.cls, ret.arrow)
+  ));
+
+  grid.appendChild(cell(
+    "Dividend",
+    latest.dividend ? "Yes" : "No",
+    badgeHtml(divCls)
+  ));
 }
+
 
 function addHistoryRow(stock){
   const wrap = document.createElement("div");
