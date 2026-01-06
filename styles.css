@@ -226,6 +226,28 @@ input{
   cursor:not-allowed;
 }
 
+.hintOut{
+  display:flex;
+  gap:8px;
+  flex-wrap:wrap;
+  justify-content:flex-end;
+}
+
+.hintChip{
+  font-size:12px;
+  border:1px solid var(--border);
+  border-radius:999px;
+  padding:6px 10px;
+  color:rgba(255,255,255,.82);
+  background:rgba(255,255,255,.04);
+}
+
+.hintChipMuted{
+  color: var(--muted);
+  background: transparent;
+}
+
+
 /* Keep your existing logoWrap styles if already present.
    If not, ensure these exist: */
 .logoWrap{

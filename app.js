@@ -28,6 +28,7 @@ function todayKey(){
 
 function renderTickerBoxes(n){
   const el = $("tickerBoxes");
+  if (!el) return;
   el.innerHTML = "";
   for(let i=0;i<n;i++){
     const b = document.createElement("div");
@@ -38,12 +39,13 @@ function renderTickerBoxes(n){
 }
 
 function fillTickerBoxes(ticker){
-  const boxes = $("tickerBoxes").querySelectorAll(".box");
+  const el = $("tickerBoxes");
+  if (!el) return;
+
+  const boxes = el.querySelectorAll(".box");
   const letters = String(ticker || "").split("");
 
-  boxes.forEach((b) => {
-    b.classList.remove("flip");
-  });
+  boxes.forEach((b) => b.classList.remove("flip"));
 
   letters.forEach((ch, i) => {
     const box = boxes[i];
@@ -60,10 +62,9 @@ function fillTickerBoxes(ticker){
   });
 }
 
-
-
 function populateDatalist(){
   const dl = $("stocklist");
+  if (!dl) return;
   dl.innerHTML = "";
   STOCKS.forEach(s => {
     const opt = document.createElement("option");
@@ -87,6 +88,7 @@ function parseSelection(txt){
 
 function setNotice(msg){
   const el = $("notice");
+  if(!el) return;
   if(!msg){
     el.style.display = "none";
     el.textContent = "";
@@ -97,7 +99,8 @@ function setNotice(msg){
 }
 
 function updateMeta(){
-  $("attempts").textContent = `${tries} / 6`;
+  const el = $("attempts");
+  if (el) el.textContent = `${tries} / 6`;
 }
 
 function startTimer(){
@@ -107,7 +110,8 @@ function startTimer(){
     const s = Math.floor((Date.now() - startedAt)/1000);
     const mm = Math.floor(s/60);
     const ss = String(s%60).padStart(2,"0");
-    $("timer").textContent = `${mm}:${ss}`;
+    const t = $("timer");
+    if (t) t.textContent = `${mm}:${ss}`;
   }, 250);
 }
 
@@ -118,6 +122,7 @@ function stopTimer(){
 
 function drawChart(){
   const canvas = $("chart");
+  if (!canvas || !SNAP) return;
   const ctx = canvas.getContext("2d");
   ctx.clearRect(0,0,canvas.width,canvas.height);
 
@@ -216,7 +221,6 @@ function compareNum(guess, answer){
   return { cls, arrow };
 }
 
-
 function badgeHtml(cls, arrow=""){
   const label =
     cls === "good" ? "match" :
@@ -230,7 +234,6 @@ function compareCat(a,b){
   return (String(a).toLowerCase() === String(b).toLowerCase()) ? "good" : "bad";
 }
 
-
 function cell(k,v,badge){
   const d = document.createElement("div");
   d.className = "cell";
@@ -240,9 +243,9 @@ function cell(k,v,badge){
 
 function renderClues(latest){
   const grid = $("cluesGrid");
+  if (!grid) return;
   grid.innerHTML = "";
 
-  // Empty state
   if(!latest){
     grid.appendChild(cell("Sector","—",""));
     grid.appendChild(cell("Industry","—",""));
@@ -253,7 +256,8 @@ function renderClues(latest){
     return;
   }
 
-  $("latest").textContent = `Latest: ${latest.ticker}`;
+  const latestEl = $("latest");
+  if (latestEl) latestEl.textContent = `Latest: ${latest.ticker}`;
 
   const sectorCls = compareCat(latest.sector, ANSWER.sector);
   const industryCls = compareCat(latest.industry, ANSWER.industry);
@@ -291,6 +295,39 @@ function renderClues(latest){
   ));
 }
 
+/**
+ * Hint chips: requires index.html to have:
+ * <div class="hintOut" id="hintOut">
+ *   <span class="hintChip hintChipMuted" id="hintDefault">No hints used.</span>
+ * </div>
+ *
+ * If you still have a single hintLine instead, this will safely no-op chips and update hintLine instead.
+ */
+function setHintChip(id, text){
+  const out = $("hintOut");
+  const hintLine = $("hintLine");
+
+  if (!out){
+    // fallback to old single-line setup
+    if (hintLine) hintLine.textContent = text;
+    return;
+  }
+
+  const def = $("hintDefault");
+  if (def) def.remove();
+
+  let chip = document.getElementById(id);
+  if (!chip){
+    chip = document.createElement("span");
+    chip.className = "hintChip";
+    chip.id = id;
+    out.appendChild(chip);
+  }
+  chip.textContent = text;
+
+  // also update hintLine if it exists (harmless)
+  if (hintLine) hintLine.textContent = text;
+}
 
 function addHistoryRow(stock){
   const wrap = document.createElement("div");
@@ -317,12 +354,14 @@ function addHistoryRow(stock){
   top.appendChild(tiles);
   wrap.appendChild(top);
 
-  $("history").prepend(wrap);
+  const hist = $("history");
+  if (hist) hist.prepend(wrap);
 }
 
 function reveal(win){
   stopTimer();
   const el = $("reveal");
+  if (!el) return;
   el.style.display = "block";
   el.innerHTML = `
     <div style="font-weight:700;margin-bottom:6px;">Revealed</div>
@@ -330,17 +369,17 @@ function reveal(win){
       ${win ? `Solved in ${tries} tries.` : `Out of tries.`} Answer: ${ANSWER.ticker} — ${ANSWER.name}
     </div>
     <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px;">
-      <div class="pill">Last close: $${SNAP.lastClose.toFixed(2)}</div>
+      <div class="pill">Last close: $${Number(SNAP?.lastClose ?? 0).toFixed(2)}</div>
       <div class="pill">Market cap: ~$${ANSWER.marketCapB}B</div>
       <div class="pill">1Y target: —</div>
       <div class="pill">Outlook: —</div>
     </div>
     <div style="font-size:12px;color:rgba(255,255,255,.75);margin-bottom:10px;">
-      <span style="font-weight:700;color:rgba(255,255,255,.92);">Today’s insight:</span> ${SNAP.insight || "—"}
+      <span style="font-weight:700;color:rgba(255,255,255,.92);">Today’s insight:</span> ${SNAP?.insight || "—"}
     </div>
     <div style="border-top:1px solid rgba(255,255,255,.12);padding-top:10px;">
       <div style="font-weight:700;font-size:12px;margin-bottom:8px;">Top news</div>
-      ${(SNAP.topNews||[]).slice(0,3).map(n =>
+      ${(SNAP?.topNews||[]).slice(0,3).map(n =>
         `<div style="margin-bottom:8px;">
            <div style="font-size:12px;">${n.headline}</div>
            <div style="font-size:11px;color:rgba(255,255,255,.55);">${n.source} • ${n.when}</div>
@@ -358,7 +397,20 @@ async function init(){
   const todaysTicker = DAILY[key] || STOCKS[0].ticker;
   ANSWER = STOCKS.find(s => s.ticker === todaysTicker) || STOCKS[0];
 
-  SNAP = await loadJSON(`./data/snapshots/${ANSWER.ticker}.json`);
+  // Snapshot fallback so the app never goes blank if a file is missing
+  try {
+    SNAP = await loadJSON(`./data/snapshots/${ANSWER.ticker}.json`);
+  } catch (e) {
+    SNAP = {
+      "1m": [100,101,100,102],
+      "6m": [95,96,97,98,99,100],
+      "1y": [80,82,85,90,95,100],
+      "lastClose": ANSWER.lastClose ?? 0,
+      "oneYearReturn": ANSWER.oneYearReturn ?? 0,
+      "topNews": [],
+      "insight": "Snapshot missing for this ticker."
+    };
+  }
 
   populateDatalist();
   renderTickerBoxes(ANSWER.ticker.length);
@@ -375,10 +427,10 @@ async function init(){
     });
   });
 
-  $("guessBtn").addEventListener("click", () => {
+  $("guessBtn")?.addEventListener("click", () => {
     if(tries >= maxTries) return;
 
-    const sel = parseSelection($("search").value);
+    const sel = parseSelection($("search")?.value);
     if(!sel) return setNotice("Pick a stock from the dropdown.");
 
     if(sel.ticker.length !== ANSWER.ticker.length) return setNotice("Wrong ticker length for today.");
@@ -397,45 +449,47 @@ async function init(){
     if (win) fillTickerBoxes(ANSWER.ticker);
     if(win || tries >= maxTries) reveal(win);
 
-    $("search").value = "";
+    if ($("search")) $("search").value = "";
   });
 
-  $("search").addEventListener("keydown", (e) => {
-    if(e.key === "Enter") $("guessBtn").click();
+  $("search")?.addEventListener("keydown", (e) => {
+    if(e.key === "Enter") $("guessBtn")?.click();
   });
 
-  // hints
-  $("hintSector").addEventListener("click", () => {
-    $("hintLine").textContent = `Sector: ${ANSWER.sector}`;
+  // hints (persist as chips)
+  $("hintSector")?.addEventListener("click", () => {
+    setHintChip("hintChipSector", `Sector: ${ANSWER.sector}`);
     $("hintSector").disabled = true;
   });
-  $("hintIndustry").addEventListener("click", () => {
-    $("hintLine").textContent = `Industry: ${ANSWER.industry}`;
+
+  $("hintIndustry")?.addEventListener("click", () => {
+    setHintChip("hintChipIndustry", `Industry: ${ANSWER.industry}`);
     $("hintIndustry").disabled = true;
   });
+
   let logoStage = 0;
-$("hintLogo").addEventListener("click", () => {
-  logoStage = Math.min(3, logoStage + 1);
+  $("hintLogo")?.addEventListener("click", () => {
+    logoStage = Math.min(3, logoStage + 1);
 
-  const wrap = $("logoWrap");
-  const img = $("logoImg");
+    const wrap = $("logoWrap");
+    const img = $("logoImg");
+    if (!wrap || !img) return;
 
-  wrap.style.display = "flex";
-  img.src = `./assets/logos/${ANSWER.ticker}.png`;
+    wrap.style.display = "flex";
+    img.src = `./assets/logos/${ANSWER.ticker}.png`;
+    img.classList.remove("stage2", "stage3");
 
-  img.classList.remove("stage2", "stage3");
-
-  if (logoStage === 1) {
-    $("hintLine").textContent = "Logo: blurred";
-  } else if (logoStage === 2) {
-    img.classList.add("stage2");
-    $("hintLine").textContent = "Logo: clearer";
-  } else if (logoStage === 3) {
-    img.classList.add("stage3");
-    $("hintLine").textContent = "Logo: full";
-    $("hintLogo").disabled = true;
-  }
-});
+    if (logoStage === 1) {
+      setHintChip("hintChipLogo", "Logo: blurred");
+    } else if (logoStage === 2) {
+      img.classList.add("stage2");
+      setHintChip("hintChipLogo", "Logo: clearer");
+    } else if (logoStage === 3) {
+      img.classList.add("stage3");
+      setHintChip("hintChipLogo", "Logo: full");
+      $("hintLogo").disabled = true;
+    }
+  });
 }
 
 init().catch(err => {
