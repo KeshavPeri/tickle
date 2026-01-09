@@ -1,33 +1,45 @@
-import fs from "node:fs";
-import path from "node:path";
+name: Daily TICKle update
 
-function readJson(p){ return JSON.parse(fs.readFileSync(p, "utf8")); }
-function assert(cond, msg){ if(!cond) throw new Error(msg); }
+on:
+  schedule:
+    - cron: "10 1 * * *"   # 01:10 UTC daily (adjust later)
+  workflow_dispatch: {}
 
-function main(){
-  assert(fs.existsSync("data/stocks.json"), "Missing data/stocks.json");
-  assert(fs.existsSync("data/daily.json"), "Missing data/daily.json");
+permissions:
+  contents: write
 
-  const stocks = readJson("data/stocks.json");
-  const daily = readJson("data/daily.json");
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-  assert(Array.isArray(stocks) && stocks.length > 0, "stocks.json empty");
-  const tickers = new Set(stocks.map(s => s.ticker));
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
-  for(const [date, t] of Object.entries(daily)){
-    assert(tickers.has(t), `daily.json has unknown ticker ${t} on ${date}`);
-  }
+      - name: Run updater
+        env:
+          ALPHAVANTAGE_KEY: ${{ secrets.ALPHAVANTAGE_KEY }}
+          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+        run: |
+          node scripts/update_daily.mjs
 
-  for(const t of new Set(Object.values(daily))){
-    const p = path.join("data", "snapshots", `${t}.json`);
-    assert(fs.existsSync(p), `Missing snapshot: ${p}`);
-    const snap = readJson(p);
-    assert(Array.isArray(snap["6m"]), `Snapshot ${t} missing 6m array`);
-    assert(typeof snap.lastClose === "number", `Snapshot ${t} missing lastClose`);
-  }
+      - name: Validate outputs
+        run: |
+          node scripts/validate_data.mjs
 
-  console.log("Validation OK");
-}
-
-main();
-
+      - name: Commit and push if changed
+        run: |
+          git config user.name "tickle-bot"
+          git config user.email "tickle-bot@users.noreply.github.com"
+          git add data assets
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily update: $(date -u +%F)"
+            git push
+          fi
