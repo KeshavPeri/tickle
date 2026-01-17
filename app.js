@@ -1,7 +1,8 @@
 let STOCKS = [];
 let DAILY = {};
 let ANSWER = null;
-let SNAP = null;
+let SNAP = null;              // answer snapshot
+let ANSWER_STATS = null;      // dynamic baseline for comparisons
 
 let tries = 0;
 const maxTries = 6;
@@ -10,19 +11,45 @@ let timerInt = null;
 let tf = "6m";
 let guesses = new Set();
 
+// snapshot cache (so we don't refetch same ticker twice)
+const SNAP_CACHE = new Map();
+
 const $ = (id) => document.getElementById(id);
 
-// Cache-busting helper (fixes GitHub Pages stale JSON + stale logos)
+// Cache-busting helper (fixes GitHub Pages stale JSON)
 function withBust(url){
   const u = String(url);
   const sep = u.includes("?") ? "&" : "?";
   return `${u}${sep}v=${Date.now()}`;
 }
 
+function normTf(x){
+  const t = String(x || "").trim().toLowerCase();
+  if (t === "1m" || t === "1mo" || t === "1month" || t === "1-month") return "1m";
+  if (t === "6m" || t === "6mo" || t === "6month" || t === "6-month") return "6m";
+  if (t === "1y" || t === "1yr" || t === "1year" || t === "1-year") return "1y";
+  if (t === "1m" || t === "6m" || t === "1y") return t;
+  return "6m";
+}
+
 async function loadJSON(path){
   const res = await fetch(withBust(path), { cache: "no-store" });
   if(!res.ok) throw new Error(`Failed to load ${path} (${res.status})`);
   return await res.json();
+}
+
+async function loadSnapshot(ticker){
+  const t = String(ticker || "").toUpperCase();
+  if (!t) return null;
+  if (SNAP_CACHE.has(t)) return SNAP_CACHE.get(t);
+
+  try{
+    const snap = await loadJSON(`./data/snapshots/${t}.json`);
+    SNAP_CACHE.set(t, snap);
+    return snap;
+  }catch{
+    return null;
+  }
 }
 
 function todayKey(){
@@ -60,9 +87,7 @@ function fillTickerBoxes(ticker){
 
     setTimeout(() => {
       box.classList.add("flip");
-      setTimeout(() => {
-        box.textContent = ch;
-      }, 210);
+      setTimeout(() => { box.textContent = ch; }, 210);
     }, i * 120);
   });
 }
@@ -125,16 +150,39 @@ function stopTimer(){
   timerInt = null;
 }
 
+function resizeCanvasToDisplaySize(canvas){
+  const dpr = window.devicePixelRatio || 1;
+  const rect = canvas.getBoundingClientRect();
+  const displayW = Math.max(1, Math.round(rect.width * dpr));
+  const displayH = Math.max(1, Math.round(rect.height * dpr));
+  if (canvas.width !== displayW || canvas.height !== displayH) {
+    canvas.width = displayW;
+    canvas.height = displayH;
+    return true;
+  }
+  return false;
+}
+
+function getChartSeries(){
+  if (!SNAP) return [];
+  const key = normTf(tf);
+  const series = SNAP[key] || SNAP[key.toUpperCase()] || [];
+  return Array.isArray(series) ? series.map(Number).filter(v => Number.isFinite(v)) : [];
+}
+
 function drawChart(){
   const canvas = $("chart");
   if (!canvas || !SNAP) return;
+
+  resizeCanvasToDisplaySize(canvas);
+
   const ctx = canvas.getContext("2d");
   ctx.clearRect(0,0,canvas.width,canvas.height);
 
   ctx.fillStyle = "rgba(255,255,255,.02)";
   ctx.fillRect(0,0,canvas.width,canvas.height);
 
-  const data = SNAP?.[tf] || [];
+  const data = getChartSeries();
   if(data.length < 2) return;
 
   const pad = {l:34, r:16, t:18, b:26};
@@ -202,6 +250,8 @@ function compareNum(guess, answer){
   if (
     typeof guess !== "number" ||
     typeof answer !== "number" ||
+    !Number.isFinite(guess) ||
+    !Number.isFinite(answer) ||
     answer === 0
   ) {
     return { cls: "bad", arrow: "" };
@@ -244,6 +294,8 @@ function cell(k,v,badge){
   return d;
 }
 
+// IMPORTANT: renderClues expects `latest` to already include dynamic fields:
+// latest.lastClose, latest.oneYearReturn (from snapshots)
 function renderClues(latest){
   const grid = $("cluesGrid");
   if (!grid) return;
@@ -266,28 +318,27 @@ function renderClues(latest){
   const industryCls = compareCat(latest.industry, ANSWER.industry);
   const divCls = compareCat(latest.dividend, ANSWER.dividend);
 
-  const mcap = compareNum(latest.marketCapB, ANSWER.marketCapB);
-  const close = compareNum(latest.lastClose, ANSWER.lastClose);
-  const ret = compareNum(latest.oneYearReturn, ANSWER.oneYearReturn);
+  // Market cap: not available via Stooq + cannot call Finnhub from frontend without exposing key
+  // So show as — for now (we’ll enrich backend later)
+  const mcapBadge = `<span class="badge bad">—</span>`;
+
+  const close = compareNum(Number(latest.lastClose), Number(ANSWER_STATS?.lastClose));
+  const ret = compareNum(Number(latest.oneYearReturn), Number(ANSWER_STATS?.oneYearReturn));
 
   grid.appendChild(cell("Sector", latest.sector, badgeHtml(sectorCls)));
   grid.appendChild(cell("Industry", latest.industry, badgeHtml(industryCls)));
 
-  grid.appendChild(cell(
-    "Market cap",
-    `~$${Number(latest.marketCapB).toFixed(0)}B`,
-    badgeHtml(mcap.cls, mcap.arrow)
-  ));
+  grid.appendChild(cell("Market cap", "—", mcapBadge));
 
   grid.appendChild(cell(
     "Last close",
-    `$${Number(latest.lastClose).toFixed(2)}`,
+    latest.lastClose ? `$${Number(latest.lastClose).toFixed(2)}` : "—",
     badgeHtml(close.cls, close.arrow)
   ));
 
   grid.appendChild(cell(
     "1Y return",
-    `${Number(latest.oneYearReturn).toFixed(1)}%`,
+    (latest.oneYearReturn === 0 || latest.oneYearReturn) ? `${Number(latest.oneYearReturn).toFixed(1)}%` : "—",
     badgeHtml(ret.cls, ret.arrow)
   ));
 
@@ -354,6 +405,7 @@ function reveal(win){
   stopTimer();
   const el = $("reveal");
   if (!el) return;
+
   el.style.display = "block";
   el.innerHTML = `
     <div style="font-weight:700;margin-bottom:6px;">Revealed</div>
@@ -362,9 +414,8 @@ function reveal(win){
     </div>
     <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px;">
       <div class="pill">Last close: $${Number(SNAP?.lastClose ?? 0).toFixed(2)}</div>
-      <div class="pill">Market cap: ~$${ANSWER.marketCapB}B</div>
-      <div class="pill">1Y target: —</div>
-      <div class="pill">Outlook: —</div>
+      <div class="pill">1Y return: ${Number(SNAP?.oneYearReturn ?? 0).toFixed(1)}%</div>
+      <div class="pill">Market cap: —</div>
     </div>
     <div style="font-size:12px;color:rgba(255,255,255,.75);margin-bottom:10px;">
       <span style="font-weight:700;color:rgba(255,255,255,.92);">Today’s insight:</span> ${SNAP?.insight || "—"}
@@ -385,10 +436,8 @@ function setLogoSrcForAnswer(){
   const img = $("logoImg");
   if (!img) return;
 
-  // Bust cache for logo too (GitHub Pages can be sticky)
   img.src = withBust(`./assets/logos/${ANSWER.ticker}.png`);
 
-  // Graceful fallback: if logo missing, show a simple lettermark using an inline SVG
   img.onerror = () => {
     const svg = `
       <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
@@ -410,40 +459,45 @@ async function init(){
   const todaysTicker = DAILY[key] || STOCKS[0].ticker;
   ANSWER = STOCKS.find(s => s.ticker === todaysTicker) || STOCKS[0];
 
-  try {
-    SNAP = await loadJSON(`./data/snapshots/${ANSWER.ticker}.json`);
-  } catch (e) {
+  SNAP = await loadSnapshot(ANSWER.ticker);
+  if (!SNAP){
+    // Should be rare now that backend is stable, but keep app alive.
     SNAP = {
-      "1m": [100,101,100,102],
-      "6m": [95,96,97,98,99,100],
-      "1y": [80,82,85,90,95,100],
-      "lastClose": ANSWER.lastClose ?? 0,
-      "oneYearReturn": ANSWER.oneYearReturn ?? 0,
-      "topNews": [],
-      "insight": "Snapshot missing for this ticker."
+      "1m": [100,101,100,102,101,103,102,104],
+      "6m": [95,96,97,98,99,100,99,101,100,102],
+      "1y": [80,82,85,84,88,90,92,91,95,100],
+      lastClose: 0,
+      oneYearReturn: 0,
+      topNews: [],
+      insight: "Snapshot missing for this ticker."
     };
   }
+
+  ANSWER_STATS = {
+    lastClose: Number(SNAP.lastClose ?? 0),
+    oneYearReturn: Number(SNAP.oneYearReturn ?? 0),
+  };
 
   populateDatalist();
   renderTickerBoxes(ANSWER.ticker.length);
   renderClues(null);
   updateMeta();
 
-  // Ensure the logo element has a valid src + fallback
   setLogoSrcForAnswer();
 
+  tf = normTf(tf);
   drawChart();
 
   document.querySelectorAll(".seg button").forEach(btn => {
     btn.addEventListener("click", () => {
       document.querySelectorAll(".seg button").forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
-      tf = btn.dataset.tf;
+      tf = normTf(btn.dataset.tf);
       drawChart();
     });
   });
 
-  $("guessBtn")?.addEventListener("click", () => {
+  $("guessBtn")?.addEventListener("click", async () => {
     if(tries >= maxTries) return;
 
     const sel = parseSelection($("search")?.value);
@@ -459,7 +513,18 @@ async function init(){
     updateMeta();
 
     addHistoryRow(sel);
-    renderClues(sel);
+
+    // ✅ NEW: load snapshot for the guessed ticker to get real dynamic numbers
+    const gsnap = await loadSnapshot(sel.ticker);
+
+    const latestForClues = {
+      ...sel,
+      lastClose: Number(gsnap?.lastClose ?? NaN),
+      oneYearReturn: Number(gsnap?.oneYearReturn ?? NaN),
+      // marketCap stays blank for now
+    };
+
+    renderClues(latestForClues);
 
     const win = sel.ticker === ANSWER.ticker;
     if (win) fillTickerBoxes(ANSWER.ticker);
@@ -491,23 +556,16 @@ async function init(){
     if (!wrap || !img) return;
 
     wrap.style.display = "flex";
-
-    // Always ensure src is set with cache busting and fallback
     setLogoSrcForAnswer();
 
     img.classList.remove("stage2", "stage3");
 
-    if (logoStage === 1) {
-      setHintChip("hintChipLogo", "Logo: blurred");
-    } else if (logoStage === 2) {
-      img.classList.add("stage2");
-      setHintChip("hintChipLogo", "Logo: clearer");
-    } else if (logoStage === 3) {
-      img.classList.add("stage3");
-      setHintChip("hintChipLogo", "Logo: full");
-      $("hintLogo").disabled = true;
-    }
+    if (logoStage === 1) setHintChip("hintChipLogo", "Logo: blurred");
+    else if (logoStage === 2) { img.classList.add("stage2"); setHintChip("hintChipLogo", "Logo: clearer"); }
+    else if (logoStage === 3) { img.classList.add("stage3"); setHintChip("hintChipLogo", "Logo: full"); $("hintLogo").disabled = true; }
   });
+
+  window.addEventListener("resize", () => drawChart());
 }
 
 init().catch(err => {
