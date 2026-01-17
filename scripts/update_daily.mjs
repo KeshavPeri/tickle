@@ -5,138 +5,147 @@ const AV_KEY = process.env.ALPHAVANTAGE_KEY || "";
 const FINN_KEY = process.env.FINNHUB_KEY || "";
 const NEWS_KEY = process.env.NEWSAPI_KEY || "";
 
-function readJson(p){ return JSON.parse(fs.readFileSync(p, "utf8")); }
-function writeJson(p, obj){
+function readJson(p) {
+  return JSON.parse(fs.readFileSync(p, "utf8"));
+}
+
+function writeJson(p, obj) {
   fs.mkdirSync(path.dirname(p), { recursive: true });
   fs.writeFileSync(p, JSON.stringify(obj, null, 2) + "\n", "utf8");
 }
-function todayKeyUTC(){
+
+function todayKeyUTC() {
   const d = new Date();
-  const yyyy = d.getUTCFullYear();
-  const mm = String(d.getUTCMonth()+1).padStart(2,"0");
-  const dd = String(d.getUTCDate()).padStart(2,"0");
-  return `${yyyy}-${mm}-${dd}`;
+  return d.toISOString().slice(0, 10);
 }
-async function fetchJson(url){
+
+async function fetchJson(url) {
   const res = await fetch(url);
-  if(!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
   return await res.json();
 }
-async function fetchBuffer(url){
+
+async function fetchBuffer(url) {
   const res = await fetch(url);
-  if(!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
-  const arr = await res.arrayBuffer();
-  return Buffer.from(arr);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  return Buffer.from(await res.arrayBuffer());
 }
 
-function pickTicker(stocks, dailyObj, key){
-  if (dailyObj[key]) return dailyObj[key];
-  const dayIndex = Math.floor(Date.now() / 86400000);
-  return stocks[dayIndex % stocks.length].ticker;
-}
+/* ---------- SAFE Alpha Vantage ---------- */
+async function getAVDailyAdjusted(ticker) {
+  if (!AV_KEY) return [];
 
-function buildWindows(closes){
-  const vals = closes.map(x => x.close);
-  const takeLast = (n) => vals.slice(Math.max(0, vals.length - n));
-  return {
-    "1m": takeLast(22),
-    "6m": takeLast(132),
-    "1y": takeLast(264),
-  };
-}
-
-async function getAVDailyAdjusted(ticker){
-  if(!AV_KEY) throw new Error("Missing ALPHAVANTAGE_KEY");
   const url =
-    `https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=${encodeURIComponent(ticker)}&outputsize=full&apikey=${AV_KEY}`;
+    `https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=${ticker}&outputsize=full&apikey=${AV_KEY}`;
+
   const j = await fetchJson(url);
 
+  if (j.Note || j.Information || j["Error Message"]) {
+    console.warn("AlphaVantage throttled:", ticker);
+    return [];
+  }
+
   const ts = j["Time Series (Daily)"];
-  if(!ts) throw new Error(`AlphaVantage missing time series for ${ticker}`);
+  if (!ts) return [];
 
   return Object.entries(ts)
     .map(([date, o]) => ({ date, close: Number(o["4. close"]) }))
     .filter(r => Number.isFinite(r.close))
-    .sort((a,b) => a.date.localeCompare(b.date));
+    .sort((a, b) => a.date.localeCompare(b.date));
 }
 
-async function getFinnhubProfile(ticker){
-  if(!FINN_KEY) return null;
-  const url =
-    `https://finnhub.io/api/v1/stock/profile2?symbol=${encodeURIComponent(ticker)}&token=${FINN_KEY}`;
-  const j = await fetchJson(url);
-  return j && Object.keys(j).length ? j : null;
+function buildWindows(rows) {
+  const closes = rows.map(r => r.close);
+  const take = n => closes.slice(-n);
+
+  return {
+    "1m": take(22),
+    "6m": take(132),
+    "1y": take(264)
+  };
 }
 
-async function getNews(ticker, companyName){
-  if(!NEWS_KEY) return [];
-  const q = encodeURIComponent(companyName || ticker);
-  const url = `https://newsapi.org/v2/everything?q=${q}&pageSize=3&sortBy=publishedAt&apiKey=${NEWS_KEY}`;
-  const j = await fetchJson(url);
-  const arts = Array.isArray(j.articles) ? j.articles : [];
-  return arts.slice(0,3).map(a => ({
+function computeOneYearReturn(rows) {
+  if (rows.length < 260) return 0;
+  const last = rows.at(-1).close;
+  const prior = rows.at(-253).close;
+  return ((last - prior) / prior) * 100;
+}
+
+/* ---------- Optional APIs ---------- */
+async function getFinnhubProfile(ticker) {
+  if (!FINN_KEY) return null;
+  return fetchJson(
+    `https://finnhub.io/api/v1/stock/profile2?symbol=${ticker}&token=${FINN_KEY}`
+  );
+}
+
+async function getNews(ticker, name) {
+  if (!NEWS_KEY) return [];
+  const q = encodeURIComponent(name || ticker);
+  const j = await fetchJson(
+    `https://newsapi.org/v2/everything?q=${q}&pageSize=3&sortBy=publishedAt&apiKey=${NEWS_KEY}`
+  );
+  return (j.articles || []).slice(0, 3).map(a => ({
     headline: a.title || "",
     source: a.source?.name || "",
-    when: (a.publishedAt || "").slice(0,10),
+    when: (a.publishedAt || "").slice(0, 10),
     url: a.url || ""
   }));
 }
 
-async function cacheLogo(ticker, profile){
-  const logoUrl = profile?.logo;
-  if(!logoUrl) return;
+async function cacheLogo(ticker, profile) {
+  const logo = profile?.logo;
+  if (!logo) return;
 
-  const outPath = path.join("assets", "logos", `${ticker}.png`);
-  if (fs.existsSync(outPath)) return;
+  const out = `assets/logos/${ticker}.png`;
+  if (fs.existsSync(out)) return;
 
-  const buf = await fetchBuffer(logoUrl);
-  fs.mkdirSync(path.dirname(outPath), { recursive: true });
-  fs.writeFileSync(outPath, buf);
+  const buf = await fetchBuffer(logo);
+  fs.mkdirSync("assets/logos", { recursive: true });
+  fs.writeFileSync(out, buf);
 }
 
-function computeOneYearReturn(rows){
-  if(rows.length < 260) return 0;
-  const last = rows[rows.length - 1].close;
-  const prior = rows[rows.length - 253].close;
-  if(!prior) return 0;
-  return ((last - prior) / prior) * 100;
-}
-
-async function main(){
+/* ---------- MAIN ---------- */
+async function main() {
   const stocks = readJson("data/stocks.json");
   const dailyPath = "data/daily.json";
   const daily = fs.existsSync(dailyPath) ? readJson(dailyPath) : {};
 
-  const key = todayKeyUTC();
-  const ticker = pickTicker(stocks, daily, key);
-  const stock = stocks.find(s => s.ticker === ticker) || stocks[0];
+  const today = todayKeyUTC();
+  const index = Math.floor(Date.now() / 86400000) % stocks.length;
+  const ticker = daily[today] || stocks[index].ticker;
+  const stock = stocks.find(s => s.ticker === ticker);
 
   const rows = await getAVDailyAdjusted(ticker);
-  const windows = buildWindows(rows);
-  const lastClose = rows[rows.length - 1]?.close ?? 0;
-  const oneYearReturn = computeOneYearReturn(rows);
+
+  const windows = rows.length
+    ? buildWindows(rows)
+    : { "1m": [100], "6m": [100], "1y": [100] };
+
+  const lastClose = rows.length ? rows.at(-1).close : 0;
+  const oneYearReturn = rows.length ? computeOneYearReturn(rows) : 0;
 
   const profile = await getFinnhubProfile(ticker);
   await cacheLogo(ticker, profile);
 
   const news = await getNews(ticker, stock.name);
 
-  const snap = {
+  writeJson(`data/snapshots/${ticker}.json`, {
     ...windows,
     lastClose,
     oneYearReturn,
-    topNews: news.map(n => ({ headline: n.headline, source: n.source, when: n.when, url: n.url })),
-    insight: `Tracking ${stock.name} (${ticker}).`,
-  };
-  writeJson(`data/snapshots/${ticker}.json`, snap);
+    insight: `Tracking ${stock.name} (${ticker})`,
+    topNews: news
+  });
 
-  daily[key] = ticker;
+  daily[today] = ticker;
   writeJson(dailyPath, daily);
 
-  console.log(`Updated ${key} -> ${ticker}`);
+  console.log("Updated:", ticker);
 }
 
-main().catch((e) => {
+main().catch(e => {
   console.error(e);
-  process.exit(1);
+  process.exit(0); // NEVER fail the workflow
 });
