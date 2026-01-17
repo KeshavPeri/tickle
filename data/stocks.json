@@ -1,59 +1,34 @@
 [
-  { "ticker": "AAPL", "name": "Apple", "sector": "Technology", "industry": "Consumer Electronics", "marketCapB": 2500, "lastClose": 190, "oneYearReturn": 20, "dividend": true, "domain": "apple.com", "weight": 6 },
-  { "ticker": "MSFT", "name": "Microsoft", "sector": "Technology", "industry": "Software—Infrastructure", "marketCapB": 3000, "lastClose": 420, "oneYearReturn": 25, "dividend": true, "domain": "microsoft.com", "weight": 7 },
-  { "ticker": "NVDA", "name": "NVIDIA", "sector": "Technology", "industry": "Semiconductors", "marketCapB": 2000, "lastClose": 550, "oneYearReturn": 60, "dividend": false, "domain": "nvidia.com", "weight": 9 },
-  { "ticker": "GOOGL", "name": "Alphabet (Class A)", "sector": "Communication Services", "industry": "Internet Content & Information", "marketCapB": 1800, "lastClose": 160, "oneYearReturn": 30, "dividend": false, "domain": "abc.xyz", "weight": 6 },
-  { "ticker": "AMZN", "name": "Amazon", "sector": "Consumer Cyclical", "industry": "Internet Retail", "marketCapB": 1700, "lastClose": 170, "oneYearReturn": 35, "dividend": false, "domain": "amazon.com", "weight": 6 },
-  { "ticker": "META", "name": "Meta Platforms", "sector": "Communication Services", "industry": "Internet Content & Information", "marketCapB": 1200, "lastClose": 480, "oneYearReturn": 55, "dividend": false, "domain": "meta.com", "weight": 6 },
-  { "ticker": "TSLA", "name": "Tesla", "sector": "Consumer Cyclical", "industry": "Auto Manufacturers", "marketCapB": 600, "lastClose": 220, "oneYearReturn": 10, "dividend": false, "domain": "tesla.com", "weight": 4 },
-
-  { "ticker": "AVGO", "name": "Broadcom", "sector": "Technology", "industry": "Semiconductors", "marketCapB": 900, "lastClose": 1200, "oneYearReturn": 45, "dividend": true, "domain": "broadcom.com", "weight": 8 },
-  { "ticker": "AMD", "name": "AMD", "sector": "Technology", "industry": "Semiconductors", "marketCapB": 250, "lastClose": 160, "oneYearReturn": 25, "dividend": false, "domain": "amd.com", "weight": 7 },
-  { "ticker": "INTC", "name": "Intel", "sector": "Technology", "industry": "Semiconductors", "marketCapB": 200, "lastClose": 45, "oneYearReturn": 5, "dividend": true, "domain": "intel.com", "weight": 4 },
-  { "ticker": "QCOM", "name": "Qualcomm", "sector": "Technology", "industry": "Semiconductors", "marketCapB": 200, "lastClose": 170, "oneYearReturn": 20, "dividend": true, "domain": "qualcomm.com", "weight": 5 },
-  { "ticker": "TXN", "name": "Texas Instruments", "sector": "Technology", "industry": "Semiconductors", "marketCapB": 150, "lastClose": 170, "oneYearReturn": 10, "dividend": true, "domain": "ti.com", "weight": 4 },
-  { "ticker": "MU", "name": "Micron", "sector": "Technology", "industry": "Semiconductors", "marketCapB": 120, "lastClose": 95, "oneYearReturn": 30, "dividend": false, "domain": "micron.com", "weight": 6 },
-  { "ticker": "ASML", "name": "ASML (ADR)", "sector": "Technology", "industry": "Semiconductor Equipment", "marketCapB": 350, "lastClose": 900, "oneYearReturn": 15, "dividend": true, "domain": "asml.com", "weight": 6 },
-  { "ticker": "LRCX", "name": "Lam Research", "sector": "Technology", "industry": "Semiconductor Equipment", "marketCapB": 120, "lastClose": 800, "oneYearReturn": 20, "dividend": false, "domain": "lamresearch.com", "weight": 6 },
-  { "ticker": "AMAT", "name": "Applied Materials", "sector": "Technology", "industry": "Semiconductor Equipment", "marketCapB": 180, "lastClose": 170, "oneYearReturn": 25, "dividend": true, "domain": "appliedmaterials.com", "weight": 6 },
-  { "ticker": "KLAC", "name": "KLA", "sector": "Technology", "industry": "Semiconductor Equipment", "marketCapB": 110, "lastClose": 650, "oneYearReturn": 18, "dividend": true, "domain": "kla.com", "weight": 5 },
-
-  { "ticker": "TSM", "name": "TSMC (ADR)", "sector": "Technology", "industry": "Semiconductors", "marketCapB": 700, "lastClose": 150, "oneYearReturn": 35, "dividend": true, "domain": "tsmc.com", "weight": 7 },
-  { "ticker": "ARM", "name": "Arm Holdings (ADR)", "sector": "Technology", "industry": "Semiconductors", "marketCapB": 150, "lastClose": 120, "oneYearReturn": 40, "dividend": false, "domain": "arm.com", "weight": 6 },
-
-  { "ticker": "ORCL", "name": "Oracle", "sector": "Technology", "industry": "Software—Infrastructure", "marketCapB": 350, "lastClose": 125, "oneYearReturn": 20, "dividend": true, "domain": "oracle.com", "weight": 5 },
-  { "ticker": "ADBE", "name": "Adobe", "sector": "Technology", "industry": "Software—Application", "marketCapB": 250, "lastClose": 580, "oneYearReturn": 12, "dividend": false, "domain": "adobe.com", "weight": 5 },
-  { "ticker": "CRM", "name": "Salesforce", "sector": "Technology", "industry": "Software—Application", "marketCapB": 280, "lastClose": 280, "oneYearReturn": 25, "dividend": false, "domain": "salesforce.com", "weight": 5 },
-  { "ticker": "NOW", "name": "ServiceNow", "sector": "Technology", "industry": "Software—Application", "marketCapB": 250, "lastClose": 800, "oneYearReturn": 30, "dividend": false, "domain": "servicenow.com", "weight": 6 },
-  { "ticker": "SNOW", "name": "Snowflake", "sector": "Technology", "industry": "Software—Infrastructure", "marketCapB": 70, "lastClose": 190, "oneYearReturn": 10, "dividend": false, "domain": "snowflake.com", "weight": 6 },
-  { "ticker": "PLTR", "name": "Palantir", "sector": "Technology", "industry": "Software—Infrastructure", "marketCapB": 50, "lastClose": 20, "oneYearReturn": 35, "dividend": false, "domain": "palantir.com", "weight": 6 },
-
-  { "ticker": "CRWD", "name": "CrowdStrike", "sector": "Technology", "industry": "Software—Infrastructure", "marketCapB": 80, "lastClose": 320, "oneYearReturn": 30, "dividend": false, "domain": "crowdstrike.com", "weight": 6 },
-  { "ticker": "PANW", "name": "Palo Alto Networks", "sector": "Technology", "industry": "Software—Infrastructure", "marketCapB": 110, "lastClose": 340, "oneYearReturn": 25, "dividend": false, "domain": "paloaltonetworks.com", "weight": 6 },
-  { "ticker": "FTNT", "name": "Fortinet", "sector": "Technology", "industry": "Software—Infrastructure", "marketCapB": 50, "lastClose": 65, "oneYearReturn": 15, "dividend": false, "domain": "fortinet.com", "weight": 5 },
-
-  { "ticker": "ANET", "name": "Arista Networks", "sector": "Technology", "industry": "Communication Equipment", "marketCapB": 120, "lastClose": 300, "oneYearReturn": 35, "dividend": false, "domain": "arista.com", "weight": 6 },
-  { "ticker": "CSCO", "name": "Cisco", "sector": "Technology", "industry": "Communication Equipment", "marketCapB": 200, "lastClose": 50, "oneYearReturn": 8, "dividend": true, "domain": "cisco.com", "weight": 3 },
-
-  { "ticker": "NFLX", "name": "Netflix", "sector": "Communication Services", "industry": "Entertainment", "marketCapB": 250, "lastClose": 550, "oneYearReturn": 25, "dividend": false, "domain": "netflix.com", "weight": 4 },
-  { "ticker": "DIS", "name": "Disney", "sector": "Communication Services", "industry": "Entertainment", "marketCapB": 180, "lastClose": 95, "oneYearReturn": 8, "dividend": true, "domain": "thewaltdisneycompany.com", "weight": 2 },
-
-  { "ticker": "JPM", "name": "JPMorgan Chase", "sector": "Financial Services", "industry": "Banks—Diversified", "marketCapB": 550, "lastClose": 180, "oneYearReturn": 15, "dividend": true, "domain": "jpmorganchase.com", "weight": 2 },
-  { "ticker": "BAC", "name": "Bank of America", "sector": "Financial Services", "industry": "Banks—Diversified", "marketCapB": 300, "lastClose": 35, "oneYearReturn": 10, "dividend": true, "domain": "bankofamerica.com", "weight": 1 },
-  { "ticker": "GS", "name": "Goldman Sachs", "sector": "Financial Services", "industry": "Capital Markets", "marketCapB": 150, "lastClose": 380, "oneYearReturn": 18, "dividend": true, "domain": "goldmansachs.com", "weight": 1 },
-  { "ticker": "MS", "name": "Morgan Stanley", "sector": "Financial Services", "industry": "Capital Markets", "marketCapB": 150, "lastClose": 90, "oneYearReturn": 12, "dividend": true, "domain": "morganstanley.com", "weight": 1 },
-  { "ticker": "V", "name": "Visa", "sector": "Financial Services", "industry": "Credit Services", "marketCapB": 500, "lastClose": 260, "oneYearReturn": 12, "dividend": true, "domain": "visa.com", "weight": 2 },
-  { "ticker": "MA", "name": "Mastercard", "sector": "Financial Services", "industry": "Credit Services", "marketCapB": 400, "lastClose": 430, "oneYearReturn": 15, "dividend": true, "domain": "mastercard.com", "weight": 2 },
-
-  { "ticker": "WMT", "name": "Walmart", "sector": "Consumer Defensive", "industry": "Discount Stores", "marketCapB": 450, "lastClose": 160, "oneYearReturn": 10, "dividend": true, "domain": "walmart.com", "weight": 1 },
-  { "ticker": "COST", "name": "Costco", "sector": "Consumer Defensive", "industry": "Discount Stores", "marketCapB": 300, "lastClose": 720, "oneYearReturn": 18, "dividend": true, "domain": "costco.com", "weight": 1 },
-  { "ticker": "KO", "name": "Coca-Cola", "sector": "Consumer Defensive", "industry": "Beverages—Non-Alcoholic", "marketCapB": 260, "lastClose": 60, "oneYearReturn": 8, "dividend": true, "domain": "coca-colacompany.com", "weight": 1 },
-  { "ticker": "PEP", "name": "PepsiCo", "sector": "Consumer Defensive", "industry": "Beverages—Non-Alcoholic", "marketCapB": 250, "lastClose": 170, "oneYearReturn": 8, "dividend": true, "domain": "pepsico.com", "weight": 1 },
-
-  { "ticker": "LLY", "name": "Eli Lilly", "sector": "Healthcare", "industry": "Drug Manufacturers—General", "marketCapB": 700, "lastClose": 700, "oneYearReturn": 35, "dividend": true, "domain": "lilly.com", "weight": 2 },
-  { "ticker": "NVO", "name": "Novo Nordisk (ADR)", "sector": "Healthcare", "industry": "Drug Manufacturers—General", "marketCapB": 500, "lastClose": 120, "oneYearReturn": 30, "dividend": true, "domain": "novonordisk.com", "weight": 1 },
-  { "ticker": "UNH", "name": "UnitedHealth", "sector": "Healthcare", "industry": "Healthcare Plans", "marketCapB": 450, "lastClose": 520, "oneYearReturn": 10, "dividend": true, "domain": "unitedhealthgroup.com", "weight": 1 },
-
-  { "ticker": "XOM", "name": "Exxon Mobil", "sector": "Energy", "industry": "Oil & Gas Integrated", "marketCapB": 400, "lastClose": 100, "oneYearReturn": 5, "dividend": true, "domain": "exxonmobil.com", "weight": 1 },
-  { "ticker": "CVX", "name": "Chevron", "sector": "Energy", "industry": "Oil & Gas Integrated", "marketCapB": 300, "lastClose": 150, "oneYearReturn": 5, "dividend": true, "domain": "chevron.com", "weight": 1 }
+  {
+    "ticker": "CRM",
+    "name": "Salesforce",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "dividend": false,
+    "domain": "salesforce.com"
+  },
+  {
+    "ticker": "AAPL",
+    "name": "Apple",
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "dividend": true,
+    "domain": "apple.com"
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "dividend": true,
+    "domain": "microsoft.com"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "dividend": false,
+    "domain": "nvidia.com"
+  }
 ]
