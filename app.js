@@ -2,7 +2,7 @@ let STOCKS = [];
 let DAILY = {};
 let ANSWER = null;
 let SNAP = null;              // answer snapshot
-let ANSWER_STATS = null;      // dynamic baseline for comparisons
+let ANSWER_STATS = null;      // baseline dynamic numbers for comparisons
 
 let tries = 0;
 const maxTries = 6;
@@ -11,24 +11,29 @@ let timerInt = null;
 let tf = "6m";
 let guesses = new Set();
 
-// snapshot cache (so we don't refetch same ticker twice)
+// snapshot cache so we don't refetch the same ticker
 const SNAP_CACHE = new Map();
 
 const $ = (id) => document.getElementById(id);
 
-// Cache-busting helper (fixes GitHub Pages stale JSON)
+// Cache-busting helper (helps with GitHub Pages caching)
 function withBust(url){
   const u = String(url);
   const sep = u.includes("?") ? "&" : "?";
   return `${u}${sep}v=${Date.now()}`;
 }
 
+// Normalize TF values (accepts 1M/6M/1Y too)
 function normTf(x){
   const t = String(x || "").trim().toLowerCase();
   if (t === "1m" || t === "1mo" || t === "1month" || t === "1-month") return "1m";
   if (t === "6m" || t === "6mo" || t === "6month" || t === "6-month") return "6m";
   if (t === "1y" || t === "1yr" || t === "1year" || t === "1-year") return "1y";
   if (t === "1m" || t === "6m" || t === "1y") return t;
+  // handle common UI casing like "1M"
+  if (t === "1m") return "1m";
+  if (t === "6m") return "6m";
+  if (t === "1y") return "1y";
   return "6m";
 }
 
@@ -41,6 +46,7 @@ async function loadJSON(path){
 async function loadSnapshot(ticker){
   const t = String(ticker || "").toUpperCase();
   if (!t) return null;
+
   if (SNAP_CACHE.has(t)) return SNAP_CACHE.get(t);
 
   try{
@@ -85,9 +91,14 @@ function fillTickerBoxes(ticker){
     const box = boxes[i];
     if (!box) return;
 
+    // stagger like Wordle
     setTimeout(() => {
       box.classList.add("flip");
-      setTimeout(() => { box.textContent = ch; }, 210);
+      setTimeout(() => {
+        box.textContent = ch;
+        // Optional: fill solved letters green if you have CSS for .solved
+        // box.classList.add("solved");
+      }, 210);
     }, i * 120);
   });
 }
@@ -193,6 +204,7 @@ function drawChart(){
   const max = Math.max(...data);
   const range = (max - min) || 1;
 
+  // grid
   ctx.save();
   ctx.globalAlpha = 0.18;
   ctx.strokeStyle = "rgba(255,255,255,.35)";
@@ -206,6 +218,7 @@ function drawChart(){
   }
   ctx.restore();
 
+  // line
   ctx.save();
   ctx.strokeStyle = "rgba(255,255,255,.82)";
   ctx.lineWidth = 5;
@@ -294,8 +307,12 @@ function cell(k,v,badge){
   return d;
 }
 
-// IMPORTANT: renderClues expects `latest` to already include dynamic fields:
-// latest.lastClose, latest.oneYearReturn (from snapshots)
+/**
+ * IMPORTANT:
+ * - Sector/Industry/Dividend come from STOCKS.json (static).
+ * - lastClose/oneYearReturn come ONLY from snapshots.
+ * - Market cap is shown as — for now (backend enrichment later).
+ */
 function renderClues(latest){
   const grid = $("cluesGrid");
   if (!grid) return;
@@ -318,12 +335,11 @@ function renderClues(latest){
   const industryCls = compareCat(latest.industry, ANSWER.industry);
   const divCls = compareCat(latest.dividend, ANSWER.dividend);
 
-  // Market cap: not available via Stooq + cannot call Finnhub from frontend without exposing key
-  // So show as — for now (we’ll enrich backend later)
+  // Market cap placeholder (backend later)
   const mcapBadge = `<span class="badge bad">—</span>`;
 
   const close = compareNum(Number(latest.lastClose), Number(ANSWER_STATS?.lastClose));
-  const ret = compareNum(Number(latest.oneYearReturn), Number(ANSWER_STATS?.oneYearReturn));
+  const ret   = compareNum(Number(latest.oneYearReturn), Number(ANSWER_STATS?.oneYearReturn));
 
   grid.appendChild(cell("Sector", latest.sector, badgeHtml(sectorCls)));
   grid.appendChild(cell("Industry", latest.industry, badgeHtml(industryCls)));
@@ -332,13 +348,13 @@ function renderClues(latest){
 
   grid.appendChild(cell(
     "Last close",
-    latest.lastClose ? `$${Number(latest.lastClose).toFixed(2)}` : "—",
+    Number.isFinite(latest.lastClose) ? `$${latest.lastClose.toFixed(2)}` : "—",
     badgeHtml(close.cls, close.arrow)
   ));
 
   grid.appendChild(cell(
     "1Y return",
-    (latest.oneYearReturn === 0 || latest.oneYearReturn) ? `${Number(latest.oneYearReturn).toFixed(1)}%` : "—",
+    Number.isFinite(latest.oneYearReturn) ? `${latest.oneYearReturn.toFixed(1)}%` : "—",
     badgeHtml(ret.cls, ret.arrow)
   ));
 
@@ -349,6 +365,10 @@ function renderClues(latest){
   ));
 }
 
+/**
+ * Hint chips:
+ * If hintOut doesn't exist, falls back to hintLine.
+ */
 function setHintChip(id, text){
   const out = $("hintOut");
   const hintLine = $("hintLine");
@@ -416,6 +436,8 @@ function reveal(win){
       <div class="pill">Last close: $${Number(SNAP?.lastClose ?? 0).toFixed(2)}</div>
       <div class="pill">1Y return: ${Number(SNAP?.oneYearReturn ?? 0).toFixed(1)}%</div>
       <div class="pill">Market cap: —</div>
+      <div class="pill">1Y target: —</div>
+      <div class="pill">Outlook: —</div>
     </div>
     <div style="font-size:12px;color:rgba(255,255,255,.75);margin-bottom:10px;">
       <span style="font-weight:700;color:rgba(255,255,255,.92);">Today’s insight:</span> ${SNAP?.insight || "—"}
@@ -459,9 +481,10 @@ async function init(){
   const todaysTicker = DAILY[key] || STOCKS[0].ticker;
   ANSWER = STOCKS.find(s => s.ticker === todaysTicker) || STOCKS[0];
 
+  // Answer snapshot (real numbers)
   SNAP = await loadSnapshot(ANSWER.ticker);
   if (!SNAP){
-    // Should be rare now that backend is stable, but keep app alive.
+    // keep app alive if snapshot missing
     SNAP = {
       "1m": [100,101,100,102,101,103,102,104],
       "6m": [95,96,97,98,99,100,99,101,100,102],
@@ -488,6 +511,7 @@ async function init(){
   tf = normTf(tf);
   drawChart();
 
+  // timeframe toggles
   document.querySelectorAll(".seg button").forEach(btn => {
     btn.addEventListener("click", () => {
       document.querySelectorAll(".seg button").forEach(b => b.classList.remove("active"));
@@ -497,6 +521,7 @@ async function init(){
     });
   });
 
+  // guess handling (IMPORTANT: do NOT spread sel into clue object)
   $("guessBtn")?.addEventListener("click", async () => {
     if(tries >= maxTries) return;
 
@@ -514,14 +539,18 @@ async function init(){
 
     addHistoryRow(sel);
 
-    // ✅ NEW: load snapshot for the guessed ticker to get real dynamic numbers
+    // Load real dynamic numbers for the guessed ticker
     const gsnap = await loadSnapshot(sel.ticker);
 
+    // Build clues object explicitly so placeholder numbers in stocks.json can never leak in
     const latestForClues = {
-      ...sel,
-      lastClose: Number(gsnap?.lastClose ?? NaN),
-      oneYearReturn: Number(gsnap?.oneYearReturn ?? NaN),
-      // marketCap stays blank for now
+      ticker: sel.ticker,
+      name: sel.name,
+      sector: sel.sector,
+      industry: sel.industry,
+      dividend: sel.dividend,
+      lastClose: Number(gsnap?.lastClose),
+      oneYearReturn: Number(gsnap?.oneYearReturn),
     };
 
     renderClues(latestForClues);
@@ -537,6 +566,7 @@ async function init(){
     if(e.key === "Enter") $("guessBtn")?.click();
   });
 
+  // hints
   $("hintSector")?.addEventListener("click", () => {
     setHintChip("hintChipSector", `Sector: ${ANSWER.sector}`);
     $("hintSector").disabled = true;
@@ -560,9 +590,16 @@ async function init(){
 
     img.classList.remove("stage2", "stage3");
 
-    if (logoStage === 1) setHintChip("hintChipLogo", "Logo: blurred");
-    else if (logoStage === 2) { img.classList.add("stage2"); setHintChip("hintChipLogo", "Logo: clearer"); }
-    else if (logoStage === 3) { img.classList.add("stage3"); setHintChip("hintChipLogo", "Logo: full"); $("hintLogo").disabled = true; }
+    if (logoStage === 1) {
+      setHintChip("hintChipLogo", "Logo: blurred");
+    } else if (logoStage === 2) {
+      img.classList.add("stage2");
+      setHintChip("hintChipLogo", "Logo: clearer");
+    } else if (logoStage === 3) {
+      img.classList.add("stage3");
+      setHintChip("hintChipLogo", "Logo: full");
+      $("hintLogo").disabled = true;
+    }
   });
 
   window.addEventListener("resize", () => drawChart());
