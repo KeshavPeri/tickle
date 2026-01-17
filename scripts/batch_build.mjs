@@ -28,6 +28,8 @@ function last(arr){ return arr && arr.length ? arr[arr.length - 1] : 0; }
 function calcReturn(first, lastv){ return first ? ((lastv-first)/first)*100 : 0; }
 function sliceLastN(arr, n){ return arr.length <= n ? arr.slice() : arr.slice(arr.length - n); }
 
+function todayKeyUTC(){ return new Date().toISOString().slice(0,10); }
+
 async function getStooqDailyCloses(ticker){
   const candidates = [`${ticker.toLowerCase()}.us`, ticker.toLowerCase()];
   let csv = "";
@@ -43,6 +45,7 @@ async function getStooqDailyCloses(ticker){
   if(!csv || !csv.includes("Date,Open,High,Low,Close")){
     throw new Error(`Stooq: no CSV for ${ticker}`);
   }
+
   const lines = csv.trim().split("\n");
   if(lines.length < 5) throw new Error(`Stooq: too few rows for ${ticker}`);
 
@@ -93,19 +96,23 @@ async function cacheLogo(ticker, profile, stock){
   }
 }
 
-function snapshotIsFresh(p){
+// ✅ Freshness based on embedded snapshot date (not filesystem mtime)
+function snapshotIsFreshByBuiltDate(p){
   if(!fs.existsSync(p)) return false;
-  const st = fs.statSync(p);
-  const ageHours = (Date.now() - st.mtimeMs) / 36e5;
-  return ageHours < 24; // refresh daily
+  try{
+    const j = JSON.parse(fs.readFileSync(p, "utf8"));
+    const builtDateUTC = j?.builtDateUTC;
+    return builtDateUTC === todayKeyUTC();
+  }catch{
+    return false;
+  }
 }
 
 async function buildOne(stock){
   const ticker = stock.ticker;
   const snapPath = `data/snapshots/${ticker}.json`;
 
-  // If fresh, skip (saves time)
-  if(snapshotIsFresh(snapPath)) return { ticker, skipped: true };
+  if(snapshotIsFreshByBuiltDate(snapPath)) return { ticker, skipped: true };
 
   const { closes, symbolUsed } = await getStooqDailyCloses(ticker);
   const w1m = sliceLastN(closes, 22);
@@ -119,6 +126,8 @@ async function buildOne(stock){
   await cacheLogo(ticker, profile, stock);
 
   const snap = {
+    builtAt: new Date().toISOString(),
+    builtDateUTC: todayKeyUTC(),
     source: "stooq",
     normalized: false,
     symbolUsed,
@@ -139,7 +148,6 @@ async function main(){
   const stocks = readJson("data/stocks.json");
   if(!Array.isArray(stocks) || stocks.length === 0) throw new Error("stocks.json empty");
 
-  // Simple concurrency limiter
   const concurrency = 6;
   let idx = 0;
   let done = 0;
