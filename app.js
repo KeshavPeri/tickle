@@ -12,8 +12,15 @@ let guesses = new Set();
 
 const $ = (id) => document.getElementById(id);
 
+// Cache-busting helper (fixes GitHub Pages stale JSON + stale logos)
+function withBust(url){
+  const u = String(url);
+  const sep = u.includes("?") ? "&" : "?";
+  return `${u}${sep}v=${Date.now()}`;
+}
+
 async function loadJSON(path){
-  const res = await fetch(path);
+  const res = await fetch(withBust(path), { cache: "no-store" });
   if(!res.ok) throw new Error(`Failed to load ${path} (${res.status})`);
   return await res.json();
 }
@@ -51,10 +58,8 @@ function fillTickerBoxes(ticker){
     const box = boxes[i];
     if (!box) return;
 
-    // Stagger each flip like Wordle
     setTimeout(() => {
       box.classList.add("flip");
-      // Swap the letter mid-flip
       setTimeout(() => {
         box.textContent = ch;
       }, 210);
@@ -140,7 +145,6 @@ function drawChart(){
   const max = Math.max(...data);
   const range = (max - min) || 1;
 
-  // grid lines
   ctx.save();
   ctx.globalAlpha = 0.18;
   ctx.strokeStyle = "rgba(255,255,255,.35)";
@@ -154,7 +158,6 @@ function drawChart(){
   }
   ctx.restore();
 
-  // line
   ctx.save();
   ctx.strokeStyle = "rgba(255,255,255,.82)";
   ctx.lineWidth = 5;
@@ -295,20 +298,11 @@ function renderClues(latest){
   ));
 }
 
-/**
- * Hint chips: requires index.html to have:
- * <div class="hintOut" id="hintOut">
- *   <span class="hintChip hintChipMuted" id="hintDefault">No hints used.</span>
- * </div>
- *
- * If you still have a single hintLine instead, this will safely no-op chips and update hintLine instead.
- */
 function setHintChip(id, text){
   const out = $("hintOut");
   const hintLine = $("hintLine");
 
   if (!out){
-    // fallback to old single-line setup
     if (hintLine) hintLine.textContent = text;
     return;
   }
@@ -324,8 +318,6 @@ function setHintChip(id, text){
     out.appendChild(chip);
   }
   chip.textContent = text;
-
-  // also update hintLine if it exists (harmless)
   if (hintLine) hintLine.textContent = text;
 }
 
@@ -389,6 +381,27 @@ function reveal(win){
   `;
 }
 
+function setLogoSrcForAnswer(){
+  const img = $("logoImg");
+  if (!img) return;
+
+  // Bust cache for logo too (GitHub Pages can be sticky)
+  img.src = withBust(`./assets/logos/${ANSWER.ticker}.png`);
+
+  // Graceful fallback: if logo missing, show a simple lettermark using an inline SVG
+  img.onerror = () => {
+    const svg = `
+      <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
+        <rect width="100%" height="100%" rx="24" ry="24" fill="rgba(255,255,255,0.10)"/>
+        <text x="50%" y="54%" text-anchor="middle" dominant-baseline="middle"
+              font-family="ui-sans-serif, -apple-system, system-ui" font-size="40"
+              fill="rgba(255,255,255,0.85)" font-weight="700">${ANSWER.ticker}</text>
+      </svg>
+    `.trim();
+    img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svg);
+  };
+}
+
 async function init(){
   STOCKS = await loadJSON("./data/stocks.json");
   DAILY = await loadJSON("./data/daily.json");
@@ -397,7 +410,6 @@ async function init(){
   const todaysTicker = DAILY[key] || STOCKS[0].ticker;
   ANSWER = STOCKS.find(s => s.ticker === todaysTicker) || STOCKS[0];
 
-  // Snapshot fallback so the app never goes blank if a file is missing
   try {
     SNAP = await loadJSON(`./data/snapshots/${ANSWER.ticker}.json`);
   } catch (e) {
@@ -416,6 +428,10 @@ async function init(){
   renderTickerBoxes(ANSWER.ticker.length);
   renderClues(null);
   updateMeta();
+
+  // Ensure the logo element has a valid src + fallback
+  setLogoSrcForAnswer();
+
   drawChart();
 
   document.querySelectorAll(".seg button").forEach(btn => {
@@ -456,7 +472,6 @@ async function init(){
     if(e.key === "Enter") $("guessBtn")?.click();
   });
 
-  // hints (persist as chips)
   $("hintSector")?.addEventListener("click", () => {
     setHintChip("hintChipSector", `Sector: ${ANSWER.sector}`);
     $("hintSector").disabled = true;
@@ -476,7 +491,10 @@ async function init(){
     if (!wrap || !img) return;
 
     wrap.style.display = "flex";
-    img.src = `./assets/logos/${ANSWER.ticker}.png`;
+
+    // Always ensure src is set with cache busting and fallback
+    setLogoSrcForAnswer();
+
     img.classList.remove("stage2", "stage3");
 
     if (logoStage === 1) {
