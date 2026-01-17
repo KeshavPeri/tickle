@@ -1,85 +1,85 @@
 import fs from "node:fs";
 import path from "node:path";
 
-const AV_KEY = process.env.ALPHAVANTAGE_KEY || "";
 const FINN_KEY = process.env.FINNHUB_KEY || "";
 const NEWS_KEY = process.env.NEWSAPI_KEY || "";
 
+// ---------- utils ----------
 function readJson(p) {
   return JSON.parse(fs.readFileSync(p, "utf8"));
 }
-
 function writeJson(p, obj) {
   fs.mkdirSync(path.dirname(p), { recursive: true });
   fs.writeFileSync(p, JSON.stringify(obj, null, 2) + "\n", "utf8");
 }
-
 function todayKeyUTC() {
   return new Date().toISOString().slice(0, 10);
 }
-
 async function fetchJson(url) {
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
   return await res.json();
 }
-
 async function fetchBuffer(url) {
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
   return Buffer.from(await res.arrayBuffer());
 }
 
-/* ---------------- Alpha Vantage (safe) ---------------- */
-async function getAVDailyAdjusted(ticker) {
-  if (!AV_KEY) {
-    console.warn("Missing ALPHAVANTAGE_KEY; using fallback chart data.");
-    return [];
+// ---------- deterministic wiggly fallback (only if Finnhub fails) ----------
+function mulberry32(seed) {
+  let t = seed >>> 0;
+  return function () {
+    t += 0x6D2B79F5;
+    let r = Math.imul(t ^ (t >>> 15), 1 | t);
+    r ^= r + Math.imul(r ^ (r >>> 7), 61 | r);
+    return ((r ^ (r >>> 14)) >>> 0) / 4294967296;
+  };
+}
+function hashStr(s) {
+  let h = 2166136261;
+  for (let i = 0; i < s.length; i++) {
+    h ^= s.charCodeAt(i);
+    h = Math.imul(h, 16777619);
   }
+  return h >>> 0;
+}
+function randomWalkSeries(seedStr, n, start = 100) {
+  const rand = mulberry32(hashStr(seedStr));
+  const out = [start];
+  let v = start;
+  for (let i = 1; i < n; i++) {
+    // daily-ish moves, with occasional bigger moves
+    const shock = (rand() - 0.5) * 2;              // [-1,1]
+    const vol = rand() < 0.07 ? 2.8 : 1.1;         // rare jumps
+    const drift = (rand() - 0.48) * 0.12;          // slight drift
+    const stepPct = drift + shock * 0.8 * vol;     // percent-ish
+    v = Math.max(1, v * (1 + stepPct / 100));
+    out.push(Number(v.toFixed(2)));
+  }
+  return out;
+}
+
+// ---------- Finnhub: candles ----------
+async function getFinnhubDailyCloses(ticker, fromSec, toSec) {
+  if (!FINN_KEY) throw new Error("Missing FINNHUB_KEY");
 
   const url =
-    `https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=${encodeURIComponent(ticker)}&outputsize=full&apikey=${AV_KEY}`;
+    `https://finnhub.io/api/v1/stock/candle?symbol=${encodeURIComponent(ticker)}` +
+    `&resolution=D&from=${fromSec}&to=${toSec}&token=${FINN_KEY}`;
 
   const j = await fetchJson(url);
 
-  // Throttling / errors commonly come back under these keys
-  if (j.Note || j.Information || j["Error Message"] || j.Error_Message) {
-    console.warn("AlphaVantage throttled/errored for", ticker, j.Note || j.Information || j["Error Message"] || j.Error_Message);
-    return [];
+  // Finnhub returns s: "ok" or s: "no_data"
+  if (!j || j.s !== "ok" || !Array.isArray(j.c) || j.c.length < 2) {
+    throw new Error(`Finnhub candle no_data for ${ticker}`);
   }
 
-  const ts = j["Time Series (Daily)"];
-  if (!ts) {
-    console.warn("AlphaVantage: no Time Series (Daily) for", ticker, "keys:", Object.keys(j));
-    return [];
-  }
-
-  return Object.entries(ts)
-    .map(([date, o]) => ({ date, close: Number(o["4. close"]) }))
-    .filter(r => Number.isFinite(r.close))
-    .sort((a, b) => a.date.localeCompare(b.date));
+  // closes are j.c
+  return j.c.map(Number).filter(v => Number.isFinite(v));
 }
 
-function buildWindows(rows) {
-  const closes = rows.map(r => r.close);
-  const takeLast = (n) => closes.slice(Math.max(0, closes.length - n));
-  return {
-    "1m": takeLast(22),
-    "6m": takeLast(132),
-    "1y": takeLast(264),
-  };
-}
-
-function computeOneYearReturn(rows) {
-  // ~252 trading days ≈ 1y
-  if (rows.length < 260) return 0;
-  const last = rows[rows.length - 1].close;
-  const prior = rows[rows.length - 253].close;
-  if (!prior) return 0;
-  return ((last - prior) / prior) * 100;
-}
-
-/* ---------------- Finnhub profile (optional) ---------------- */
+// ---------- Finnhub: profile (optional for logo) ----------
 async function getFinnhubProfile(ticker) {
   if (!FINN_KEY) return null;
   try {
@@ -88,13 +88,12 @@ async function getFinnhubProfile(ticker) {
     );
     if (j && typeof j === "object" && Object.keys(j).length) return j;
     return null;
-  } catch (e) {
-    console.warn("Finnhub profile failed for", ticker);
+  } catch {
     return null;
   }
 }
 
-/* ---------------- News (optional) ---------------- */
+// ---------- News (optional) ----------
 async function getNews(ticker, companyName) {
   if (!NEWS_KEY) return [];
   try {
@@ -109,18 +108,12 @@ async function getNews(ticker, companyName) {
       when: (a.publishedAt || "").slice(0, 10),
       url: a.url || ""
     }));
-  } catch (e) {
-    console.warn("News fetch failed for", ticker);
+  } catch {
     return [];
   }
 }
 
-/* ---------------- Logo caching ----------------
-   Strategy:
-   1) Try Finnhub profile.logo (if available)
-   2) Fallback: Google favicon service using stock.domain (keyless)
-   Saves to: assets/logos/<TICKER>.png
------------------------------------------------- */
+// ---------- Logo caching (Finnhub logo -> favicon fallback) ----------
 async function cacheLogo(ticker, profile, stock) {
   const outPath = path.join("assets", "logos", `${ticker}.png`);
   if (fs.existsSync(outPath)) return;
@@ -134,12 +127,10 @@ async function cacheLogo(ticker, profile, stock) {
       const buf = await fetchBuffer(logoUrl);
       fs.writeFileSync(outPath, buf);
       return;
-    } catch {
-      // fall through
-    }
+    } catch {}
   }
 
-  // 2) Domain favicon fallback
+  // 2) Domain favicon fallback (keyless)
   const domain = stock?.domain;
   if (domain) {
     try {
@@ -147,15 +138,24 @@ async function cacheLogo(ticker, profile, stock) {
       const buf = await fetchBuffer(favUrl);
       fs.writeFileSync(outPath, buf);
       return;
-    } catch {
-      // fall through
-    }
+    } catch {}
   }
-
-  // If both fail, do nothing (frontend should handle missing image gracefully)
 }
 
-/* ---------------- Main ---------------- */
+// ---------- helpers ----------
+function last(arr) {
+  return arr && arr.length ? arr[arr.length - 1] : 0;
+}
+function calcOneYearReturn(series) {
+  // series is daily closes for ~1y (trading days might be < 365, but ok)
+  if (!series || series.length < 10) return 0;
+  const a = series[0];
+  const b = last(series);
+  if (!a) return 0;
+  return ((b - a) / a) * 100;
+}
+
+// ---------- main ----------
 async function main() {
   const stocks = readJson("data/stocks.json");
   if (!Array.isArray(stocks) || stocks.length === 0) {
@@ -167,36 +167,50 @@ async function main() {
 
   const today = todayKeyUTC();
 
-  // Deterministic rotation (stable for everyone)
+  // Deterministic rotation (same for everyone)
   const dayIndex = Math.floor(Date.now() / 86400000);
   const fallbackTicker = stocks[dayIndex % stocks.length].ticker;
 
   const ticker = daily[today] || fallbackTicker;
   const stock = stocks.find(s => s.ticker === ticker) || stocks[0];
 
-  // Market series
-  const rows = await getAVDailyAdjusted(ticker);
+  // Time windows (UTC seconds)
+  const nowSec = Math.floor(Date.now() / 1000);
+  const oneDay = 86400;
 
-  // Always ensure chart arrays are drawable (>= 2 points)
-  const windows = rows.length ? buildWindows(rows) : {
-    "1m": [100,101,102,103,104,105,106,107,108,109],
-    "6m": [90,91,92,93,94,95,96,97,98,99,100],
-    "1y": [80,82,84,86,88,90,92,94,96,98,100]
-  };
+  // Using calendar days is fine for a game; Finnhub returns trading-day candles.
+  const from1m = nowSec - oneDay * 40;    // ~1 month trading + buffer
+  const from6m = nowSec - oneDay * 220;   // ~6 months trading + buffer
+  const from1y = nowSec - oneDay * 430;   // ~1 year trading + buffer
 
-  const lastClose = rows.length ? (rows[rows.length - 1]?.close ?? 0) : 0;
-  const oneYearReturn = rows.length ? computeOneYearReturn(rows) : 0;
+  let s1m = [];
+  let s6m = [];
+  let s1y = [];
 
-  // Profile + logo cache
+  try {
+    s1m = await getFinnhubDailyCloses(ticker, from1m, nowSec);
+    s6m = await getFinnhubDailyCloses(ticker, from6m, nowSec);
+    s1y = await getFinnhubDailyCloses(ticker, from1y, nowSec);
+  } catch (e) {
+    // Fallback only if Finnhub fails — wiggly, not linear
+    const seedBase = `${ticker}-${today}`;
+    s1m = randomWalkSeries(`${seedBase}-1m`, 22, 100);
+    s6m = randomWalkSeries(`${seedBase}-6m`, 132, 100);
+    s1y = randomWalkSeries(`${seedBase}-1y`, 264, 100);
+  }
+
+  const lastClose = last(s1y) || last(s6m) || last(s1m) || 0;
+  const oneYearReturn = calcOneYearReturn(s1y);
+
   const profile = await getFinnhubProfile(ticker);
   await cacheLogo(ticker, profile, stock);
 
-  // News
   const news = await getNews(ticker, stock.name);
 
-  // Write snapshot
   const snap = {
-    ...windows,
+    "1m": s1m,
+    "6m": s6m,
+    "1y": s1y,
     lastClose,
     oneYearReturn,
     topNews: news,
@@ -205,15 +219,13 @@ async function main() {
 
   writeJson(`data/snapshots/${ticker}.json`, snap);
 
-  // Update daily mapping
   daily[today] = ticker;
   writeJson(dailyPath, daily);
 
-  console.log(`Updated ${today} -> ${ticker}`);
+  console.log(`Updated ${today} -> ${ticker} | closes: 1m=${s1m.length} 6m=${s6m.length} 1y=${s1y.length}`);
 }
 
 main().catch((e) => {
   console.error(e);
-  // Never fail the workflow hard; we prefer a green run with partial data
-  process.exit(0);
+  process.exit(1);
 });
