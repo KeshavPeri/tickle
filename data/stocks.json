@@ -1,34 +1,3602 @@
 [
   {
-    "ticker": "CRM",
-    "name": "Salesforce",
-    "sector": "Technology",
-    "industry": "Software - Application",
+    "ticker": "A",
+    "name": "Agilent Technologies",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools &amp; Services",
     "dividend": false,
-    "domain": "salesforce.com"
+    "domain": "",
+    "tier": "C"
   },
   {
     "ticker": "AAPL",
-    "name": "Apple",
-    "sector": "Technology",
+    "name": "Apple Inc.",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage &amp; Peripherals",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "ABBV",
+    "name": "AbbVie",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ABNB",
+    "name": "Airbnb",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts &amp; Cruise Lines",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "ABT",
+    "name": "Abbott Laboratories",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ACGL",
+    "name": "Arch Capital Group",
+    "sector": "Financials",
+    "industry": "Property &amp; Casualty Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ACN",
+    "name": "Accenture",
+    "sector": "Information Technology",
+    "industry": "IT Consulting &amp; Other Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "ADM",
+    "name": "Archer Daniels Midland",
+    "sector": "Consumer Staples",
+    "industry": "Agricultural Products &amp; Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ADP",
+    "name": "Automatic Data Processing",
+    "sector": "Industrials",
+    "industry": "Human Resource &amp; Employment Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "ADSK",
+    "name": "Autodesk",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "AEE",
+    "name": "Ameren",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AEP",
+    "name": "American Electric Power",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AES",
+    "name": "AES Corporation",
+    "sector": "Utilities",
+    "industry": "Independent Power Producers &amp; Energy Traders",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AFL",
+    "name": "Aflac",
+    "sector": "Financials",
+    "industry": "Life &amp; Health Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AIG",
+    "name": "American International Group",
+    "sector": "Financials",
+    "industry": "Multi-line Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AIZ",
+    "name": "Assurant",
+    "sector": "Financials",
+    "industry": "Multi-line Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher &amp; Co.",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AKAM",
+    "name": "Akamai Technologies",
+    "sector": "Information Technology",
+    "industry": "Internet Services &amp; Infrastructure",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "ALB",
+    "name": "Albemarle Corporation",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ALGN",
+    "name": "Align Technology",
+    "sector": "Health Care",
+    "industry": "Health Care Supplies",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ALL",
+    "name": "Allstate",
+    "sector": "Financials",
+    "industry": "Property &amp; Casualty Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ALLE",
+    "name": "Allegion",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Materials &amp; Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "AMCR",
+    "name": "Amcor",
+    "sector": "Materials",
+    "industry": "Paper &amp; Plastic Packaging Products &amp; Materials",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "AME",
+    "name": "Ametek",
+    "sector": "Industrials",
+    "industry": "Electrical Components &amp; Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AMGN",
+    "name": "Amgen",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AMP",
+    "name": "Ameriprise Financial",
+    "sector": "Financials",
+    "industry": "Asset Management &amp; Custody Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AMT",
+    "name": "American Tower",
+    "sector": "Real Estate",
+    "industry": "Telecom Tower REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon",
+    "sector": "Consumer Discretionary",
+    "industry": "Broadline Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "ANET",
+    "name": "Arista Networks",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "AON",
+    "name": "Aon plc",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AOS",
+    "name": "A. O. Smith",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "APA",
+    "name": "APA Corporation",
+    "sector": "Energy",
+    "industry": "Oil &amp; Gas Exploration &amp; Production",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "APD",
+    "name": "Air Products",
+    "sector": "Materials",
+    "industry": "Industrial Gases",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "APH",
+    "name": "Amphenol",
+    "sector": "Information Technology",
+    "industry": "Electronic Components",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "APO",
+    "name": "Apollo Global Management",
+    "sector": "Financials",
+    "industry": "Asset Management &amp; Custody Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "APP",
+    "name": "AppLovin",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "APTV",
+    "name": "Aptiv",
+    "sector": "Consumer Discretionary",
+    "industry": "Automotive Parts &amp; Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ARE",
+    "name": "Alexandria Real Estate Equities",
+    "sector": "Real Estate",
+    "industry": "Office REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ARES",
+    "name": "Ares Management",
+    "sector": "Financials",
+    "industry": "Asset Management &amp; Custody Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ATO",
+    "name": "Atmos Energy",
+    "sector": "Utilities",
+    "industry": "Gas Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AVB",
+    "name": "AvalonBay Communities",
+    "sector": "Real Estate",
+    "industry": "Multi-Family Residential REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "AVY",
+    "name": "Avery Dennison",
+    "sector": "Materials",
+    "industry": "Paper &amp; Plastic Packaging Products &amp; Materials",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AWK",
+    "name": "American Water Works",
+    "sector": "Utilities",
+    "industry": "Water Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AXON",
+    "name": "Axon Enterprise",
+    "sector": "Industrials",
+    "industry": "Aerospace &amp; Defense",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AXP",
+    "name": "American Express",
+    "sector": "Financials",
+    "industry": "Consumer Finance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "AZO",
+    "name": "AutoZone",
+    "sector": "Consumer Discretionary",
+    "industry": "Automotive Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "BA",
+    "name": "Boeing",
+    "sector": "Industrials",
+    "industry": "Aerospace &amp; Defense",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BAC",
+    "name": "Bank of America",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BALL",
+    "name": "Ball Corporation",
+    "sector": "Materials",
+    "industry": "Metal, Glass &amp; Plastic Containers",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "BAX",
+    "name": "Baxter International",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BBY",
+    "name": "Best Buy",
+    "sector": "Consumer Discretionary",
+    "industry": "Computer &amp; Electronics Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "BDX",
+    "name": "Becton Dickinson",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BEN",
+    "name": "Franklin Resources",
+    "sector": "Financials",
+    "industry": "Asset Management &amp; Custody Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BG",
+    "name": "Bunge Global",
+    "sector": "Consumer Staples",
+    "industry": "Agricultural Products &amp; Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BIIB",
+    "name": "Biogen",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BK",
+    "name": "BNY Mellon",
+    "sector": "Financials",
+    "industry": "Asset Management &amp; Custody Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BKNG",
+    "name": "Booking Holdings",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts &amp; Cruise Lines",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BKR",
+    "name": "Baker Hughes",
+    "sector": "Energy",
+    "industry": "Oil &amp; Gas Equipment &amp; Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BLDR",
+    "name": "Builders FirstSource",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BLK",
+    "name": "BlackRock",
+    "sector": "Financials",
+    "industry": "Asset Management &amp; Custody Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BMY",
+    "name": "Bristol Myers Squibb",
+    "sector": "Health Care",
+    "industry": "Pharmaceuticals",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BR",
+    "name": "Broadridge Financial Solutions",
+    "sector": "Industrials",
+    "industry": "Data Processing &amp; Outsourced Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "BRO",
+    "name": "Brown &amp; Brown",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BSX",
+    "name": "Boston Scientific",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BX",
+    "name": "Blackstone Inc.",
+    "sector": "Financials",
+    "industry": "Asset Management &amp; Custody Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "BXP",
+    "name": "BXP, Inc.",
+    "sector": "Real Estate",
+    "industry": "Office REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "C",
+    "name": "Citigroup",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CAG",
+    "name": "Conagra Brands",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods &amp; Meats",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CAH",
+    "name": "Cardinal Health",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CARR",
+    "name": "Carrier Global",
+    "sector": "Industrials",
+    "industry": "Building Products",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc.",
+    "sector": "Industrials",
+    "industry": "Construction Machinery &amp; Heavy Transportation Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CB",
+    "name": "Chubb Limited",
+    "sector": "Financials",
+    "industry": "Property &amp; Casualty Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CBOE",
+    "name": "Cboe Global Markets",
+    "sector": "Financials",
+    "industry": "Financial Exchanges &amp; Data",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "CBRE",
+    "name": "CBRE Group",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CCI",
+    "name": "Crown Castle",
+    "sector": "Real Estate",
+    "industry": "Telecom Tower REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CCL",
+    "name": "Carnival",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts &amp; Cruise Lines",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CDNS",
+    "name": "Cadence Design Systems",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "CDW",
+    "name": "CDW Corporation",
+    "sector": "Information Technology",
+    "industry": "Technology Distributors",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "CEG",
+    "name": "Constellation Energy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CF",
+    "name": "CF Industries",
+    "sector": "Materials",
+    "industry": "Fertilizers &amp; Agricultural Chemicals",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CFG",
+    "name": "Citizens Financial Group",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CHD",
+    "name": "Church &amp; Dwight",
+    "sector": "Consumer Staples",
+    "industry": "Household Products",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CHRW",
+    "name": "C.H. Robinson",
+    "sector": "Industrials",
+    "industry": "Air Freight &amp; Logistics",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "CHTR",
+    "name": "Charter Communications",
+    "sector": "Communication Services",
+    "industry": "Cable &amp; Satellite",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CI",
+    "name": "Cigna",
+    "sector": "Health Care",
+    "industry": "Health Care Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CINF",
+    "name": "Cincinnati Financial",
+    "sector": "Financials",
+    "industry": "Property &amp; Casualty Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CL",
+    "name": "Colgate-Palmolive",
+    "sector": "Consumer Staples",
+    "industry": "Household Products",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CLX",
+    "name": "Clorox",
+    "sector": "Consumer Staples",
+    "industry": "Household Products",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CMCSA",
+    "name": "Comcast",
+    "sector": "Communication Services",
+    "industry": "Cable &amp; Satellite",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CME",
+    "name": "CME Group",
+    "sector": "Financials",
+    "industry": "Financial Exchanges &amp; Data",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "CMI",
+    "name": "Cummins",
+    "sector": "Industrials",
+    "industry": "Construction Machinery &amp; Heavy Transportation Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CMS",
+    "name": "CMS Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CNC",
+    "name": "Centene Corporation",
+    "sector": "Health Care",
+    "industry": "Managed Health Care",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CNP",
+    "name": "CenterPoint Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "COF",
+    "name": "Capital One",
+    "sector": "Financials",
+    "industry": "Consumer Finance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "COIN",
+    "name": "Coinbase",
+    "sector": "Financials",
+    "industry": "Financial Exchanges &amp; Data",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "COO",
+    "name": "Cooper Companies (The)",
+    "sector": "Health Care",
+    "industry": "Health Care Supplies",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "sector": "Energy",
+    "industry": "Oil &amp; Gas Exploration &amp; Production",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "COR",
+    "name": "Cencora",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco",
+    "sector": "Consumer Staples",
+    "industry": "Consumer Staples Merchandise Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "CPAY",
+    "name": "Corpay",
+    "sector": "Financials",
+    "industry": "Transaction &amp; Payment Processing Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CPB",
+    "name": "Campbell's Company (The)",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods &amp; Meats",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CPRT",
+    "name": "Copart",
+    "sector": "Industrials",
+    "industry": "Diversified Support Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CPT",
+    "name": "Camden Property Trust",
+    "sector": "Real Estate",
+    "industry": "Multi-Family Residential REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CRH",
+    "name": "CRH plc",
+    "sector": "Materials",
+    "industry": "Construction Materials",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CRL",
+    "name": "Charles River Laboratories",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools &amp; Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CRM",
+    "name": "Salesforce",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "CSCO",
+    "name": "Cisco",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "CSGP",
+    "name": "CoStar Group",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CSX",
+    "name": "CSX Corporation",
+    "sector": "Industrials",
+    "industry": "Rail Transportation",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "CTAS",
+    "name": "Cintas",
+    "sector": "Industrials",
+    "industry": "Diversified Support Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CTRA",
+    "name": "Coterra",
+    "sector": "Energy",
+    "industry": "Oil &amp; Gas Exploration &amp; Production",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CTSH",
+    "name": "Cognizant",
+    "sector": "Information Technology",
+    "industry": "IT Consulting &amp; Other Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "CTVA",
+    "name": "Corteva",
+    "sector": "Materials",
+    "industry": "Fertilizers &amp; Agricultural Chemicals",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CVNA",
+    "name": "Carvana",
+    "sector": "Consumer Discretionary",
+    "industry": "Automotive Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "CVS",
+    "name": "CVS Health",
+    "sector": "Health Care",
+    "industry": "Health Care Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "CVX",
+    "name": "Chevron Corporation",
+    "sector": "Energy",
+    "industry": "Integrated Oil &amp; Gas",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "D",
+    "name": "Dominion Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DAL",
+    "name": "Delta Air Lines",
+    "sector": "Industrials",
+    "industry": "Passenger Airlines",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "DASH",
+    "name": "DoorDash",
+    "sector": "Consumer Discretionary",
+    "industry": "Specialized Consumer Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DAY",
+    "name": "Dayforce",
+    "sector": "Industrials",
+    "industry": "Human Resource &amp; Employment Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DD",
+    "name": "DuPont",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DDOG",
+    "name": "Datadog",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "DE",
+    "name": "Deere &amp; Company",
+    "sector": "Industrials",
+    "industry": "Agricultural &amp; Farm Machinery",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DECK",
+    "name": "Deckers Brands",
+    "sector": "Consumer Discretionary",
+    "industry": "Footwear",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DELL",
+    "name": "Dell Technologies",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage &amp; Peripherals",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "DG",
+    "name": "Dollar General",
+    "sector": "Consumer Staples",
+    "industry": "Consumer Staples Merchandise Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "DGX",
+    "name": "Quest Diagnostics",
+    "sector": "Health Care",
+    "industry": "Health Care Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DHI",
+    "name": "D. R. Horton",
+    "sector": "Consumer Discretionary",
+    "industry": "Homebuilding",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DHR",
+    "name": "Danaher Corporation",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools &amp; Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DIS",
+    "name": "Walt Disney Company (The)",
+    "sector": "Communication Services",
+    "industry": "Movies &amp; Entertainment",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "DLR",
+    "name": "Digital Realty",
+    "sector": "Real Estate",
+    "industry": "Data Center REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "DLTR",
+    "name": "Dollar Tree",
+    "sector": "Consumer Staples",
+    "industry": "Consumer Staples Merchandise Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "DOC",
+    "name": "Healthpeak Properties",
+    "sector": "Real Estate",
+    "industry": "Health Care REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DOV",
+    "name": "Dover Corporation",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery &amp; Supplies &amp; Components",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DOW",
+    "name": "Dow Inc.",
+    "sector": "Materials",
+    "industry": "Commodity Chemicals",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DPZ",
+    "name": "Domino's",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DRI",
+    "name": "Darden Restaurants",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DTE",
+    "name": "DTE Energy",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DUK",
+    "name": "Duke Energy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DVA",
+    "name": "DaVita",
+    "sector": "Health Care",
+    "industry": "Health Care Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DVN",
+    "name": "Devon Energy",
+    "sector": "Energy",
+    "industry": "Oil &amp; Gas Exploration &amp; Production",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "DXCM",
+    "name": "Dexcom",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EA",
+    "name": "Electronic Arts",
+    "sector": "Communication Services",
+    "industry": "Interactive Home Entertainment",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "EBAY",
+    "name": "eBay Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Broadline Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "ECL",
+    "name": "Ecolab",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ED",
+    "name": "Consolidated Edison",
+    "sector": "Utilities",
+    "industry": "Multi-Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EFX",
+    "name": "Equifax",
+    "sector": "Industrials",
+    "industry": "Research &amp; Consulting Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EG",
+    "name": "Everest Group",
+    "sector": "Financials",
+    "industry": "Reinsurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EIX",
+    "name": "Edison International",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EL",
+    "name": "Estée Lauder Companies (The)",
+    "sector": "Consumer Staples",
+    "industry": "Personal Care Products",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ELV",
+    "name": "Elevance Health",
+    "sector": "Health Care",
+    "industry": "Managed Health Care",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EME",
+    "name": "Emcor",
+    "sector": "Industrials",
+    "industry": "Construction &amp; Engineering",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EMR",
+    "name": "Emerson Electric",
+    "sector": "Industrials",
+    "industry": "Electrical Components &amp; Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EOG",
+    "name": "EOG Resources",
+    "sector": "Energy",
+    "industry": "Oil &amp; Gas Exploration &amp; Production",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EPAM",
+    "name": "EPAM Systems",
+    "sector": "Information Technology",
+    "industry": "IT Consulting &amp; Other Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "EQIX",
+    "name": "Equinix",
+    "sector": "Real Estate",
+    "industry": "Data Center REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "EQR",
+    "name": "Equity Residential",
+    "sector": "Real Estate",
+    "industry": "Multi-Family Residential REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EQT",
+    "name": "EQT Corporation",
+    "sector": "Energy",
+    "industry": "Oil &amp; Gas Exploration &amp; Production",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ERIE",
+    "name": "Erie Indemnity",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ES",
+    "name": "Eversource Energy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ESS",
+    "name": "Essex Property Trust",
+    "sector": "Real Estate",
+    "industry": "Multi-Family Residential REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ETN",
+    "name": "Eaton Corporation",
+    "sector": "Industrials",
+    "industry": "Electrical Components &amp; Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ETR",
+    "name": "Entergy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EVRG",
+    "name": "Evergy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EW",
+    "name": "Edwards Lifesciences",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EXC",
+    "name": "Exelon",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EXE",
+    "name": "Expand Energy",
+    "sector": "Energy",
+    "industry": "Oil &amp; Gas Exploration &amp; Production",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EXPD",
+    "name": "Expeditors International",
+    "sector": "Industrials",
+    "industry": "Air Freight &amp; Logistics",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "EXPE",
+    "name": "Expedia Group",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts &amp; Cruise Lines",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "EXR",
+    "name": "Extra Space Storage",
+    "sector": "Real Estate",
+    "industry": "Self-Storage REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "F",
+    "name": "Ford Motor Company",
+    "sector": "Consumer Discretionary",
+    "industry": "Automobile Manufacturers",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "FANG",
+    "name": "Diamondback Energy",
+    "sector": "Energy",
+    "industry": "Oil &amp; Gas Exploration &amp; Production",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal",
+    "sector": "Industrials",
+    "industry": "Trading Companies &amp; Distributors",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "FCX",
+    "name": "Freeport-McMoRan",
+    "sector": "Materials",
+    "industry": "Copper",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "FDS",
+    "name": "FactSet",
+    "sector": "Financials",
+    "industry": "Financial Exchanges &amp; Data",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "FDX",
+    "name": "FedEx",
+    "sector": "Industrials",
+    "industry": "Air Freight &amp; Logistics",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "FE",
+    "name": "FirstEnergy",
+    "sector": "Utilities",
+    "industry": "Electric Utilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "FFIV",
+    "name": "F5, Inc.",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "FICO",
+    "name": "Fair Isaac",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "FIS",
+    "name": "Fidelity National Information Services",
+    "sector": "Financials",
+    "industry": "Transaction &amp; Payment Processing Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "FISV",
+    "name": "Fiserv",
+    "sector": "Financials",
+    "industry": "Transaction &amp; Payment Processing Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "FITB",
+    "name": "Fifth Third Bancorp",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "FIX",
+    "name": "Comfort Systems USA",
+    "sector": "Industrials",
+    "industry": "Construction &amp; Engineering",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "FOX",
+    "name": "Fox Corporation (Class B)",
+    "sector": "Communication Services",
+    "industry": "Broadcasting",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "FOXA",
+    "name": "Fox Corporation (Class A)",
+    "sector": "Communication Services",
+    "industry": "Broadcasting",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "FRT",
+    "name": "Federal Realty Investment Trust",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "FSLR",
+    "name": "First Solar",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "FTNT",
+    "name": "Fortinet",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "FTV",
+    "name": "Fortive",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery &amp; Supplies &amp; Components",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "GD",
+    "name": "General Dynamics",
+    "sector": "Industrials",
+    "industry": "Aerospace &amp; Defense",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "GDDY",
+    "name": "GoDaddy",
+    "sector": "Information Technology",
+    "industry": "Internet Services &amp; Infrastructure",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "GE",
+    "name": "GE Aerospace",
+    "sector": "Industrials",
+    "industry": "Aerospace &amp; Defense",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "GEHC",
+    "name": "GE HealthCare",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "GEN",
+    "name": "Gen Digital",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "GEV",
+    "name": "GE Vernova",
+    "sector": "Industrials",
+    "industry": "Heavy Electrical Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "GILD",
+    "name": "Gilead Sciences",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "GIS",
+    "name": "General Mills",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods &amp; Meats",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "GL",
+    "name": "Globe Life",
+    "sector": "Financials",
+    "industry": "Life &amp; Health Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "GLW",
+    "name": "Corning Inc.",
+    "sector": "Information Technology",
+    "industry": "Electronic Components",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "GM",
+    "name": "General Motors",
+    "sector": "Consumer Discretionary",
+    "industry": "Automobile Manufacturers",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "GNRC",
+    "name": "Generac",
+    "sector": "Industrials",
+    "industry": "Electrical Components &amp; Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "GOOG",
+    "name": "Alphabet Inc. (Class C)",
+    "sector": "Communication Services",
+    "industry": "Interactive Media &amp; Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc. (Class A)",
+    "sector": "Communication Services",
+    "industry": "Interactive Media &amp; Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "GPC",
+    "name": "Genuine Parts Company",
+    "sector": "Consumer Discretionary",
+    "industry": "Distributors",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "GPN",
+    "name": "Global Payments",
+    "sector": "Financials",
+    "industry": "Transaction &amp; Payment Processing Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "GRMN",
+    "name": "Garmin",
+    "sector": "Consumer Discretionary",
     "industry": "Consumer Electronics",
-    "dividend": true,
-    "domain": "apple.com"
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "GS",
+    "name": "Goldman Sachs",
+    "sector": "Financials",
+    "industry": "Investment Banking &amp; Brokerage",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "GWW",
+    "name": "W. W. Grainger",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery &amp; Supplies &amp; Components",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "HAL",
+    "name": "Halliburton",
+    "sector": "Energy",
+    "industry": "Oil &amp; Gas Equipment &amp; Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HAS",
+    "name": "Hasbro",
+    "sector": "Consumer Discretionary",
+    "industry": "Leisure Products",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HBAN",
+    "name": "Huntington Bancshares",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HCA",
+    "name": "HCA Healthcare",
+    "sector": "Health Care",
+    "industry": "Health Care Facilities",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HD",
+    "name": "Home Depot (The)",
+    "sector": "Consumer Discretionary",
+    "industry": "Home Improvement Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "HIG",
+    "name": "Hartford (The)",
+    "sector": "Financials",
+    "industry": "Property &amp; Casualty Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HII",
+    "name": "Huntington Ingalls Industries",
+    "sector": "Industrials",
+    "industry": "Aerospace &amp; Defense",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HLT",
+    "name": "Hilton Worldwide",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts &amp; Cruise Lines",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HOLX",
+    "name": "Hologic",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HON",
+    "name": "Honeywell",
+    "sector": "Industrials",
+    "industry": "Industrial Conglomerates",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HOOD",
+    "name": "Robinhood Markets",
+    "sector": "Financials",
+    "industry": "Investment Banking &amp; Brokerage",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage &amp; Peripherals",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage &amp; Peripherals",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "HRL",
+    "name": "Hormel Foods",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods &amp; Meats",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HSIC",
+    "name": "Henry Schein",
+    "sector": "Health Care",
+    "industry": "Health Care Distributors",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HST",
+    "name": "Host Hotels &amp; Resorts",
+    "sector": "Real Estate",
+    "industry": "Hotel &amp; Resort REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HSY",
+    "name": "Hershey Company (The)",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods &amp; Meats",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HUBB",
+    "name": "Hubbell Incorporated",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery &amp; Supplies &amp; Components",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HUM",
+    "name": "Humana",
+    "sector": "Health Care",
+    "industry": "Managed Health Care",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "HWM",
+    "name": "Howmet Aerospace",
+    "sector": "Industrials",
+    "industry": "Aerospace &amp; Defense",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "IBKR",
+    "name": "Interactive Brokers",
+    "sector": "Financials",
+    "industry": "Investment Banking &amp; Brokerage",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "IBM",
+    "name": "IBM",
+    "sector": "Information Technology",
+    "industry": "IT Consulting &amp; Other Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "ICE",
+    "name": "Intercontinental Exchange",
+    "sector": "Financials",
+    "industry": "Financial Exchanges &amp; Data",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "IDXX",
+    "name": "Idexx Laboratories",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "IEX",
+    "name": "IDEX Corporation",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery &amp; Supplies &amp; Components",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "IFF",
+    "name": "International Flavors &amp; Fragrances",
+    "sector": "Materials",
+    "industry": "Specialty Chemicals",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "INCY",
+    "name": "Incyte",
+    "sector": "Health Care",
+    "industry": "Biotechnology",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "INTU",
+    "name": "Intuit",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "INVH",
+    "name": "Invitation Homes",
+    "sector": "Real Estate",
+    "industry": "Single-Family Residential REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "IP",
+    "name": "International Paper",
+    "sector": "Materials",
+    "industry": "Paper &amp; Plastic Packaging Products &amp; Materials",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "IQV",
+    "name": "IQVIA",
+    "sector": "Health Care",
+    "industry": "Life Sciences Tools &amp; Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "IR",
+    "name": "Ingersoll Rand",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery &amp; Supplies &amp; Components",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "IRM",
+    "name": "Iron Mountain",
+    "sector": "Real Estate",
+    "industry": "Other Specialized REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical",
+    "sector": "Health Care",
+    "industry": "Health Care Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "IT",
+    "name": "Gartner",
+    "sector": "Information Technology",
+    "industry": "IT Consulting &amp; Other Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "ITW",
+    "name": "Illinois Tool Works",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery &amp; Supplies &amp; Components",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "IVZ",
+    "name": "Invesco",
+    "sector": "Financials",
+    "industry": "Asset Management &amp; Custody Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "J",
+    "name": "Jacobs Solutions",
+    "sector": "Industrials",
+    "industry": "Construction &amp; Engineering",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "JBHT",
+    "name": "J.B. Hunt",
+    "sector": "Industrials",
+    "industry": "Cargo Ground Transportation",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "JBL",
+    "name": "Jabil",
+    "sector": "Information Technology",
+    "industry": "Electronic Manufacturing Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "JKHY",
+    "name": "Jack Henry &amp; Associates",
+    "sector": "Financials",
+    "industry": "Transaction &amp; Payment Processing Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper",
+    "sector": "Consumer Staples",
+    "industry": "Soft Drinks &amp; Non-alcoholic Beverages",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "KEY",
+    "name": "KeyCorp",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "KEYS",
+    "name": "Keysight Technologies",
+    "sector": "Information Technology",
+    "industry": "Electronic Equipment &amp; Instruments",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "KHC",
+    "name": "Kraft Heinz",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods &amp; Meats",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "KIM",
+    "name": "Kimco Realty",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "KKR",
+    "name": "KKR &amp; Co.",
+    "sector": "Financials",
+    "industry": "Asset Management &amp; Custody Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA Corporation",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Materials &amp; Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "KMB",
+    "name": "Kimberly-Clark",
+    "sector": "Consumer Staples",
+    "industry": "Household Products",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "KO",
+    "name": "Coca-Cola Company (The)",
+    "sector": "Consumer Staples",
+    "industry": "Soft Drinks &amp; Non-alcoholic Beverages",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "KR",
+    "name": "Kroger",
+    "sector": "Consumer Staples",
+    "industry": "Food Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "KVUE",
+    "name": "Kenvue",
+    "sector": "Consumer Staples",
+    "industry": "Personal Care Products",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "L",
+    "name": "Loews Corporation",
+    "sector": "Financials",
+    "industry": "Multi-line Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "LEN",
+    "name": "Lennar",
+    "sector": "Consumer Discretionary",
+    "industry": "Homebuilding",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "LOW",
+    "name": "Lowe's",
+    "sector": "Consumer Discretionary",
+    "industry": "Home Improvement Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Materials &amp; Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "LULU",
+    "name": "Lululemon Athletica",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories &amp; Luxury Goods",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "LUV",
+    "name": "Southwest Airlines",
+    "sector": "Industrials",
+    "industry": "Passenger Airlines",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "LVS",
+    "name": "Las Vegas Sands",
+    "sector": "Consumer Discretionary",
+    "industry": "Casinos &amp; Gaming",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "LW",
+    "name": "Lamb Weston",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods &amp; Meats",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "LYV",
+    "name": "Live Nation Entertainment",
+    "sector": "Communication Services",
+    "industry": "Movies &amp; Entertainment",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "MA",
+    "name": "Mastercard",
+    "sector": "Financials",
+    "industry": "Transaction &amp; Payment Processing Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "MAR",
+    "name": "Marriott International",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts &amp; Cruise Lines",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "MCD",
+    "name": "McDonald's",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "MCHP",
+    "name": "Microchip Technology",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "MCO",
+    "name": "Moody's Corporation",
+    "sector": "Financials",
+    "industry": "Financial Exchanges &amp; Data",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "MDLZ",
+    "name": "Mondelez International",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods &amp; Meats",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "MET",
+    "name": "MetLife",
+    "sector": "Financials",
+    "industry": "Life &amp; Health Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms",
+    "sector": "Communication Services",
+    "industry": "Interactive Media &amp; Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "MGM",
+    "name": "MGM Resorts",
+    "sector": "Consumer Discretionary",
+    "industry": "Casinos &amp; Gaming",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "MKC",
+    "name": "McCormick &amp; Company",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods &amp; Meats",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "MNST",
+    "name": "Monster Beverage",
+    "sector": "Consumer Staples",
+    "industry": "Soft Drinks &amp; Non-alcoholic Beverages",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "MO",
+    "name": "Altria",
+    "sector": "Consumer Staples",
+    "industry": "Tobacco",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "MOS",
+    "name": "Mosaic Company (The)",
+    "sector": "Materials",
+    "industry": "Fertilizers &amp; Agricultural Chemicals",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "MRSH",
+    "name": "Marsh McLennan",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "sector": "Financials",
+    "industry": "Investment Banking &amp; Brokerage",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "MSCI",
+    "name": "MSCI Inc.",
+    "sector": "Financials",
+    "industry": "Financial Exchanges &amp; Data",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
   },
   {
     "ticker": "MSFT",
     "name": "Microsoft",
-    "sector": "Technology",
-    "industry": "Software - Infrastructure",
-    "dividend": true,
-    "domain": "microsoft.com"
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "MSI",
+    "name": "Motorola Solutions",
+    "sector": "Information Technology",
+    "industry": "Communications Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "MTB",
+    "name": "M&amp;T Bank",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "MTCH",
+    "name": "Match Group",
+    "sector": "Communication Services",
+    "industry": "Interactive Media &amp; Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "NCLH",
+    "name": "Norwegian Cruise Line Holdings",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts &amp; Cruise Lines",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "NDAQ",
+    "name": "Nasdaq, Inc.",
+    "sector": "Financials",
+    "industry": "Financial Exchanges &amp; Data",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix",
+    "sector": "Communication Services",
+    "industry": "Movies &amp; Entertainment",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "NKE",
+    "name": "Nike, Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories &amp; Luxury Goods",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "NOW",
+    "name": "ServiceNow",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "NSC",
+    "name": "Norfolk Southern",
+    "sector": "Industrials",
+    "industry": "Rail Transportation",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "NTAP",
+    "name": "NetApp",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage &amp; Peripherals",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "NTRS",
+    "name": "Northern Trust",
+    "sector": "Financials",
+    "industry": "Asset Management &amp; Custody Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
   },
   {
     "ticker": "NVDA",
-    "name": "NVIDIA",
-    "sector": "Technology",
+    "name": "Nvidia",
+    "sector": "Information Technology",
     "industry": "Semiconductors",
     "dividend": false,
-    "domain": "nvidia.com"
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "NVR",
+    "name": "NVR, Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Homebuilding",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "NWS",
+    "name": "News Corp (Class B)",
+    "sector": "Communication Services",
+    "industry": "Publishing",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "NWSA",
+    "name": "News Corp (Class A)",
+    "sector": "Communication Services",
+    "industry": "Publishing",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "O",
+    "name": "Realty Income",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "OMC",
+    "name": "Omnicom Group",
+    "sector": "Communication Services",
+    "industry": "Advertising",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ON",
+    "name": "ON Semiconductor",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "ORLY",
+    "name": "O’Reilly Automotive",
+    "sector": "Consumer Discretionary",
+    "industry": "Automotive Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks",
+    "sector": "Information Technology",
+    "industry": "Systems Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo",
+    "sector": "Consumer Staples",
+    "industry": "Soft Drinks &amp; Non-alcoholic Beverages",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "PFG",
+    "name": "Principal Financial Group",
+    "sector": "Financials",
+    "industry": "Life &amp; Health Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "PG",
+    "name": "Procter &amp; Gamble",
+    "sector": "Consumer Staples",
+    "industry": "Personal Care Products",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "PGR",
+    "name": "Progressive Corporation",
+    "sector": "Financials",
+    "industry": "Property &amp; Casualty Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "PHM",
+    "name": "PulteGroup",
+    "sector": "Consumer Discretionary",
+    "industry": "Homebuilding",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "PM",
+    "name": "Philip Morris International",
+    "sector": "Consumer Staples",
+    "industry": "Tobacco",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "PNC",
+    "name": "PNC Financial Services",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "PNR",
+    "name": "Pentair",
+    "sector": "Industrials",
+    "industry": "Industrial Machinery &amp; Supplies &amp; Components",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "POOL",
+    "name": "Pool Corporation",
+    "sector": "Consumer Discretionary",
+    "industry": "Distributors",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "PRU",
+    "name": "Prudential Financial",
+    "sector": "Financials",
+    "industry": "Life &amp; Health Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "PSKY",
+    "name": "Paramount Skydance Corporation",
+    "sector": "Communication Services",
+    "industry": "Movies &amp; Entertainment",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "PYPL",
+    "name": "PayPal",
+    "sector": "Financials",
+    "industry": "Transaction &amp; Payment Processing Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "Q",
+    "name": "Qnity Electronics",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Materials &amp; Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "QCOM",
+    "name": "Qualcomm",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "RCL",
+    "name": "Royal Caribbean Group",
+    "sector": "Consumer Discretionary",
+    "industry": "Hotels, Resorts &amp; Cruise Lines",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "REG",
+    "name": "Regency Centers",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "RF",
+    "name": "Regions Financial Corporation",
+    "sector": "Financials",
+    "industry": "Regional Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "RJF",
+    "name": "Raymond James Financial",
+    "sector": "Financials",
+    "industry": "Investment Banking &amp; Brokerage",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "RL",
+    "name": "Ralph Lauren Corporation",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories &amp; Luxury Goods",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ROP",
+    "name": "Roper Technologies",
+    "sector": "Information Technology",
+    "industry": "Electronic Equipment &amp; Instruments",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "ROST",
+    "name": "Ross Stores",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "SBUX",
+    "name": "Starbucks",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "SCHW",
+    "name": "Charles Schwab Corporation",
+    "sector": "Financials",
+    "industry": "Investment Banking &amp; Brokerage",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "SJM",
+    "name": "J.M. Smucker Company (The)",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods &amp; Meats",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "SMCI",
+    "name": "Supermicro",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage &amp; Peripherals",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "SNDK",
+    "name": "Sandisk",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage &amp; Peripherals",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "SNPS",
+    "name": "Synopsys",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "SPG",
+    "name": "Simon Property Group",
+    "sector": "Real Estate",
+    "industry": "Retail REITs",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "SPGI",
+    "name": "S&amp;P Global",
+    "sector": "Financials",
+    "industry": "Financial Exchanges &amp; Data",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "STT",
+    "name": "State Street Corporation",
+    "sector": "Financials",
+    "industry": "Asset Management &amp; Custody Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "STX",
+    "name": "Seagate Technology",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage &amp; Peripherals",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "STZ",
+    "name": "Constellation Brands",
+    "sector": "Consumer Staples",
+    "industry": "Distillers &amp; Vintners",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "SWKS",
+    "name": "Skyworks Solutions",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "SYF",
+    "name": "Synchrony Financial",
+    "sector": "Financials",
+    "industry": "Consumer Finance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "SYY",
+    "name": "Sysco",
+    "sector": "Consumer Staples",
+    "industry": "Food Distributors",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "T",
+    "name": "AT&amp;T",
+    "sector": "Communication Services",
+    "industry": "Integrated Telecommunication Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "TAP",
+    "name": "Molson Coors Beverage Company",
+    "sector": "Consumer Staples",
+    "industry": "Brewers",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "TDY",
+    "name": "Teledyne Technologies",
+    "sector": "Information Technology",
+    "industry": "Electronic Equipment &amp; Instruments",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "TEL",
+    "name": "TE Connectivity",
+    "sector": "Information Technology",
+    "industry": "Electronic Manufacturing Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "TER",
+    "name": "Teradyne",
+    "sector": "Information Technology",
+    "industry": "Semiconductor Materials &amp; Equipment",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "TFC",
+    "name": "Truist Financial",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "TGT",
+    "name": "Target Corporation",
+    "sector": "Consumer Staples",
+    "industry": "Consumer Staples Merchandise Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "TJX",
+    "name": "TJX Companies",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "TKO",
+    "name": "TKO Group Holdings",
+    "sector": "Communication Services",
+    "industry": "Movies &amp; Entertainment",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "TMUS",
+    "name": "T-Mobile US",
+    "sector": "Communication Services",
+    "industry": "Wireless Telecommunication Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "TPR",
+    "name": "Tapestry, Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Apparel, Accessories &amp; Luxury Goods",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "TRMB",
+    "name": "Trimble Inc.",
+    "sector": "Information Technology",
+    "industry": "Electronic Equipment &amp; Instruments",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "TROW",
+    "name": "T. Rowe Price",
+    "sector": "Financials",
+    "industry": "Asset Management &amp; Custody Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "TRV",
+    "name": "Travelers Companies (The)",
+    "sector": "Financials",
+    "industry": "Property &amp; Casualty Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "TSCO",
+    "name": "Tractor Supply",
+    "sector": "Consumer Discretionary",
+    "industry": "Other Specialty Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla, Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Automobile Manufacturers",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "TSN",
+    "name": "Tyson Foods",
+    "sector": "Consumer Staples",
+    "industry": "Packaged Foods &amp; Meats",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "TTD",
+    "name": "Trade Desk (The)",
+    "sector": "Communication Services",
+    "industry": "Advertising",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive",
+    "sector": "Communication Services",
+    "industry": "Interactive Home Entertainment",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas Instruments",
+    "sector": "Information Technology",
+    "industry": "Semiconductors",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "TYL",
+    "name": "Tyler Technologies",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "UAL",
+    "name": "United Airlines Holdings",
+    "sector": "Industrials",
+    "industry": "Passenger Airlines",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "UBER",
+    "name": "Uber",
+    "sector": "Industrials",
+    "industry": "Passenger Ground Transportation",
+    "dividend": false,
+    "domain": "",
+    "tier": "A"
+  },
+  {
+    "ticker": "ULTA",
+    "name": "Ulta Beauty",
+    "sector": "Consumer Discretionary",
+    "industry": "Other Specialty Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "UNP",
+    "name": "Union Pacific Corporation",
+    "sector": "Industrials",
+    "industry": "Rail Transportation",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "UPS",
+    "name": "United Parcel Service",
+    "sector": "Industrials",
+    "industry": "Air Freight &amp; Logistics",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "USB",
+    "name": "U.S. Bancorp",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "V",
+    "name": "Visa Inc.",
+    "sector": "Financials",
+    "industry": "Transaction &amp; Payment Processing Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "VRSK",
+    "name": "Verisk Analytics",
+    "sector": "Industrials",
+    "industry": "Research &amp; Consulting Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "VRSN",
+    "name": "Verisign",
+    "sector": "Information Technology",
+    "industry": "Internet Services &amp; Infrastructure",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "VZ",
+    "name": "Verizon",
+    "sector": "Communication Services",
+    "industry": "Integrated Telecommunication Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "WBD",
+    "name": "Warner Bros. Discovery",
+    "sector": "Communication Services",
+    "industry": "Broadcasting",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "sector": "Information Technology",
+    "industry": "Application Software",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "WDC",
+    "name": "Western Digital",
+    "sector": "Information Technology",
+    "industry": "Technology Hardware, Storage &amp; Peripherals",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "WFC",
+    "name": "Wells Fargo",
+    "sector": "Financials",
+    "industry": "Diversified Banks",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "WMT",
+    "name": "Walmart",
+    "sector": "Consumer Staples",
+    "industry": "Consumer Staples Merchandise Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "WRB",
+    "name": "W. R. Berkley Corporation",
+    "sector": "Financials",
+    "industry": "Property &amp; Casualty Insurance",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "WSM",
+    "name": "Williams-Sonoma, Inc.",
+    "sector": "Consumer Discretionary",
+    "industry": "Homefurnishing Retail",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
+  },
+  {
+    "ticker": "WTW",
+    "name": "Willis Towers Watson",
+    "sector": "Financials",
+    "industry": "Insurance Brokers",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "WYNN",
+    "name": "Wynn Resorts",
+    "sector": "Consumer Discretionary",
+    "industry": "Casinos &amp; Gaming",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "XYZ",
+    "name": "Block, Inc.",
+    "sector": "Financials",
+    "industry": "Transaction &amp; Payment Processing Services",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "YUM",
+    "name": "Yum! Brands",
+    "sector": "Consumer Discretionary",
+    "industry": "Restaurants",
+    "dividend": false,
+    "domain": "",
+    "tier": "C"
+  },
+  {
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies",
+    "sector": "Information Technology",
+    "industry": "Electronic Equipment &amp; Instruments",
+    "dividend": false,
+    "domain": "",
+    "tier": "B"
   }
 ]
