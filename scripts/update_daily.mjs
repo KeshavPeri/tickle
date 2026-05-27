@@ -12,18 +12,22 @@ function writeJson(p, obj){
 }
 function todayKeyUTC(){ return new Date().toISOString().slice(0,10); }
 
-async function fetchText(url){
-  const res = await fetch(url, { headers: { "User-Agent": "tickle-bot" }});
-  if(!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
-  return await res.text();
-}
-async function fetchJson(url){
-  const res = await fetch(url);
+async function fetchJson(url, opts = {}){
+  const res = await fetch(url, {
+    headers: {
+      "User-Agent": "Mozilla/5.0 (compatible; tickle-bot/1.0)",
+      "Accept": "application/json",
+      ...opts.headers,
+    },
+    ...opts,
+  });
   if(!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
   return await res.json();
 }
 async function fetchBuffer(url){
-  const res = await fetch(url);
+  const res = await fetch(url, {
+    headers: { "User-Agent": "Mozilla/5.0 (compatible; tickle-bot/1.0)" }
+  });
   if(!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
   return Buffer.from(await res.arrayBuffer());
 }
@@ -34,44 +38,27 @@ function calcReturn(first, lastv){
   return ((lastv - first) / first) * 100;
 }
 
-// ---------- Stooq daily closes (FREE) ----------
-// Stooq uses lowercase tickers and often needs ".us" suffix for US stocks.
-async function getStooqDailyCloses(ticker){
-  // Try a couple of common symbol formats
-  const candidates = [
-    `${ticker.toLowerCase()}.us`,
-    ticker.toLowerCase()
-  ];
+// ---------- Yahoo Finance daily closes (FREE, no key) ----------
+// Replaces Stooq which blocks GitHub Actions IP ranges entirely.
+async function getYahooFinanceCloses(ticker){
+  // Yahoo uses hyphens for dots: BRK.B -> BRK-B
+  const sym = ticker.replace(/\./g, "-");
+  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(sym)}?interval=1d&range=1y&includePrePost=false`;
 
-  let csv = "";
-  let used = "";
-  for(const sym of candidates){
-    const url = `https://stooq.com/q/d/l/?s=${encodeURIComponent(sym)}&i=d`;
-    try {
-      csv = await fetchText(url);
-      used = sym;
-      if (csv && csv.includes("Date,Open,High,Low,Close")) break;
-    } catch {}
-  }
+  const data = await fetchJson(url);
+  const result = data?.chart?.result?.[0];
+  if(!result) throw new Error(`Yahoo Finance: no result for ${ticker}`);
 
-  if(!csv || !csv.includes("Date,Open,High,Low,Close")){
-    throw new Error(`Stooq: no CSV header for ${ticker}`);
-  }
+  const rawCloses = result.indicators?.quote?.[0]?.close ?? [];
+  // Filter out null/NaN values Yahoo sometimes returns for non-trading days
+  const closes = rawCloses.map(Number).filter(v => Number.isFinite(v) && v > 0);
 
-  // Parse CSV (Date,Open,High,Low,Close,Volume)
-  const lines = csv.trim().split("\n");
-  if(lines.length < 5) throw new Error(`Stooq: too few rows for ${ticker}`);
+  if(closes.length < 10) throw new Error(`Yahoo Finance: too few closes for ${ticker} (got ${closes.length})`);
 
-  const closes = [];
-  for(let i=1;i<lines.length;i++){
-    const cols = lines[i].split(",");
-    const close = Number(cols[4]);
-    if(Number.isFinite(close) && close > 0) closes.push(close);
-  }
+  // Extract market cap from meta
+  const marketCap = result.meta?.marketCap ?? null;
 
-  if(closes.length < 10) throw new Error(`Stooq: too few close values for ${ticker}`);
-
-  return { closes, symbolUsed: used };
+  return { closes, marketCap };
 }
 
 // ---------- Finnhub profile (optional for logo) ----------
@@ -108,14 +95,14 @@ async function getNews(ticker, companyName){
   }
 }
 
-// ---------- Logo caching (Finnhub logo -> favicon fallback) ----------
+// ---------- Logo caching ----------
 async function cacheLogo(ticker, profile, stock){
   const outPath = path.join("assets","logos",`${ticker}.png`);
   if(fs.existsSync(outPath)) return;
 
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
 
-  // 1) Finnhub logo
+  // 1) Finnhub logo (needs FINNHUB_KEY)
   const logoUrl = profile?.logo;
   if(logoUrl){
     try{
@@ -125,7 +112,7 @@ async function cacheLogo(ticker, profile, stock){
     }catch{}
   }
 
-  // 2) Domain favicon fallback (keyless)
+  // 2) Domain favicon via Google (keyless)
   const domain = stock?.domain;
   if(domain){
     try{
@@ -144,7 +131,6 @@ function sliceLastN(arr, n){
 }
 
 function buildWindowsFromCloses(closes){
-  // Approx trading-day counts
   const w1m = sliceLastN(closes, 22);
   const w6m = sliceLastN(closes, 132);
   const w1y = sliceLastN(closes, 264);
@@ -168,8 +154,10 @@ async function main(){
   const ticker = daily[today] || fallbackTicker;
   const stock = stocks.find(s => s.ticker === ticker) || stocks[0];
 
-  // ----- REAL DATA: Stooq -----
-  const { closes, symbolUsed } = await getStooqDailyCloses(ticker);
+  console.log(`Fetching data for ${today} -> ${ticker} (${stock.name})`);
+
+  // ----- REAL DATA: Yahoo Finance -----
+  const { closes, marketCap } = await getYahooFinanceCloses(ticker);
   const { w1m, w6m, w1y } = buildWindowsFromCloses(closes);
 
   const lastClose = last(w1y) || last(w6m) || last(w1m) || 0;
@@ -182,14 +170,15 @@ async function main(){
   const news = await getNews(ticker, stock.name);
 
   const snap = {
-    source: "stooq",
-    normalized: false,
-    symbolUsed,
+    builtAt: new Date().toISOString(),
+    builtDateUTC: today,
+    source: "yahoo-finance",
     "1m": w1m,
     "6m": w6m,
     "1y": w1y,
     lastClose,
     oneYearReturn,
+    marketCap,
     topNews: news,
     insight: `Tracking ${stock.name} (${ticker}).`
   };
@@ -199,7 +188,7 @@ async function main(){
   daily[today] = ticker;
   writeJson(dailyPath, daily);
 
-  console.log(`Updated ${today} -> ${ticker} | source=stooq (${symbolUsed}) | 1m=${w1m.length} 6m=${w6m.length} 1y=${w1y.length}`);
+  console.log(`✅ Updated ${today} -> ${ticker} | source=yahoo-finance | 1m=${w1m.length} 6m=${w6m.length} 1y=${w1y.length} | lastClose=${lastClose.toFixed(2)} | mktCap=${marketCap ? (marketCap/1e9).toFixed(1)+"B" : "n/a"}`);
 }
 
 main().catch(e => {

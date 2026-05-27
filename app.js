@@ -85,7 +85,7 @@ function fillTickerBoxes(ticker){
   const boxes = el.querySelectorAll(".box");
   const letters = String(ticker || "").split("");
 
-  boxes.forEach((b) => b.classList.remove("flip"));
+  boxes.forEach((b) => b.classList.remove("flip", "solved"));
 
   letters.forEach((ch, i) => {
     const box = boxes[i];
@@ -96,8 +96,7 @@ function fillTickerBoxes(ticker){
       box.classList.add("flip");
       setTimeout(() => {
         box.textContent = ch;
-        // Optional: fill solved letters green if you have CSS for .solved
-        // box.classList.add("solved");
+        box.classList.add("solved"); // turns box green on win
       }, 210);
     }, i * 120);
   });
@@ -307,12 +306,16 @@ function cell(k,v,badge){
   return d;
 }
 
-/**
- * IMPORTANT:
- * - Sector/Industry/Dividend come from STOCKS.json (static).
- * - lastClose/oneYearReturn come ONLY from snapshots.
- * - Market cap is shown as — for now (backend enrichment later).
- */
+// Compare market caps by tier: Mega (>200B), Large (10-200B), Mid (2-10B), Small (<2B)
+function mcapTier(mc){
+  if(!mc || !Number.isFinite(mc) || mc <= 0) return null;
+  if(mc >= 200e9) return "mega";
+  if(mc >= 10e9)  return "large";
+  if(mc >= 2e9)   return "mid";
+  return "small";
+}
+const MCAP_TIER_LABEL = { mega: "Mega", large: "Large", mid: "Mid", small: "Small" };
+
 function renderClues(latest){
   const grid = $("cluesGrid");
   if (!grid) return;
@@ -331,30 +334,41 @@ function renderClues(latest){
   const latestEl = $("latest");
   if (latestEl) latestEl.textContent = `Latest: ${latest.ticker}`;
 
-  const sectorCls = compareCat(latest.sector, ANSWER.sector);
+  const sectorCls   = compareCat(latest.sector, ANSWER.sector);
   const industryCls = compareCat(latest.industry, ANSWER.industry);
-  const divCls = compareCat(latest.dividend, ANSWER.dividend);
+  const divCls      = compareCat(latest.dividend, ANSWER.dividend);
 
-  // Market cap placeholder (backend later)
-  const mcapBadge = `<span class="badge bad">—</span>`;
-
-  const close = compareNum(Number(latest.lastClose), Number(ANSWER_STATS?.lastClose));
+  const close = compareNum(Number(latest.lastClose),     Number(ANSWER_STATS?.lastClose));
   const ret   = compareNum(Number(latest.oneYearReturn), Number(ANSWER_STATS?.oneYearReturn));
 
-  grid.appendChild(cell("Sector", latest.sector, badgeHtml(sectorCls)));
-  grid.appendChild(cell("Industry", latest.industry, badgeHtml(industryCls)));
+  // Market cap comparison by tier
+  const guessTier  = mcapTier(latest.marketCap);
+  const answerTier = mcapTier(ANSWER_STATS?.marketCap);
+  let mcapDisplay, mcapBadge;
+  if(guessTier && answerTier){
+    const tierMatch = guessTier === answerTier ? "good" : "bad";
+    mcapDisplay = MCAP_TIER_LABEL[guessTier];
+    mcapBadge   = badgeHtml(tierMatch);
+  } else {
+    mcapDisplay = latest.marketCap ? formatMarketCap(latest.marketCap) : "—";
+    mcapBadge   = `<span class="badge bad" style="opacity:.5;">—</span>`;
+  }
 
-  grid.appendChild(cell("Market cap", "—", mcapBadge));
+  grid.appendChild(cell("Sector",   latest.sector,   badgeHtml(sectorCls)));
+  grid.appendChild(cell("Industry", latest.industry, badgeHtml(industryCls)));
+  grid.appendChild(cell("Market cap", mcapDisplay, mcapBadge));
 
   grid.appendChild(cell(
     "Last close",
-    Number.isFinite(latest.lastClose) ? `$${latest.lastClose.toFixed(2)}` : "—",
+    Number.isFinite(latest.lastClose) && latest.lastClose > 0
+      ? `$${latest.lastClose.toFixed(2)}` : "—",
     badgeHtml(close.cls, close.arrow)
   ));
 
   grid.appendChild(cell(
     "1Y return",
-    Number.isFinite(latest.oneYearReturn) ? `${latest.oneYearReturn.toFixed(1)}%` : "—",
+    Number.isFinite(latest.oneYearReturn)
+      ? `${latest.oneYearReturn.toFixed(1)}%` : "—",
     badgeHtml(ret.cls, ret.arrow)
   ));
 
@@ -421,56 +435,130 @@ function addHistoryRow(stock){
   if (hist) hist.prepend(wrap);
 }
 
+function formatMarketCap(mc){
+  if(!mc || !Number.isFinite(mc)) return null;
+  if(mc >= 1e12) return `$${(mc/1e12).toFixed(2)}T`;
+  if(mc >= 1e9)  return `$${(mc/1e9).toFixed(1)}B`;
+  if(mc >= 1e6)  return `$${(mc/1e6).toFixed(0)}M`;
+  return `$${mc.toFixed(0)}`;
+}
+
+// Build a Wordle-style emoji share string from the guess history
+function buildShareText(){
+  const histEl = $("history");
+  if(!histEl) return "";
+  const rows = [...histEl.querySelectorAll(".row")].reverse(); // history prepends, so reverse
+  const lines = rows.map(row => {
+    return [...row.querySelectorAll(".tile")].map(t => {
+      if(t.classList.contains("good")) return "🟩";
+      if(t.classList.contains("mid"))  return "🟨";
+      return "⬛";
+    }).join("");
+  });
+  const result = tries <= maxTries && rows.length > 0 ? `${tries}/${maxTries}` : "X/6";
+  return `TICKle ${result}\n${lines.join("\n")}`;
+}
+
 function reveal(win){
   stopTimer();
   const el = $("reveal");
   if (!el) return;
 
+  const mcStr = formatMarketCap(SNAP?.marketCap);
+  const lastClose = Number(SNAP?.lastClose ?? 0);
+  const oneYearReturn = Number(SNAP?.oneYearReturn ?? 0);
+
+  const statPills = [
+    `<div class="pill">Last close: ${lastClose > 0 ? "$" + lastClose.toFixed(2) : "—"}</div>`,
+    `<div class="pill">1Y return: ${Number.isFinite(oneYearReturn) ? oneYearReturn.toFixed(1) + "%" : "—"}</div>`,
+    mcStr ? `<div class="pill">Market cap: ${mcStr}</div>` : "",
+  ].filter(Boolean).join("");
+
+  const newsItems = (SNAP?.topNews || []).slice(0, 3).map(n => {
+    const headline = n.headline || "";
+    const meta = [n.source, n.when].filter(Boolean).join(" • ");
+    if(n.url){
+      return `<div style="margin-bottom:8px;">
+        <a href="${n.url}" target="_blank" rel="noopener noreferrer"
+           style="font-size:12px;color:rgba(255,255,255,.88);text-decoration:underline;text-underline-offset:2px;">${headline}</a>
+        <div style="font-size:11px;color:rgba(255,255,255,.45);margin-top:2px;">${meta}</div>
+      </div>`;
+    }
+    return `<div style="margin-bottom:8px;">
+      <div style="font-size:12px;">${headline}</div>
+      <div style="font-size:11px;color:rgba(255,255,255,.45);margin-top:2px;">${meta}</div>
+    </div>`;
+  }).join("");
+
+  const winBanner = win
+    ? `<div class="winBanner">🎉 Correct! Solved in ${tries} ${tries === 1 ? "try" : "tries"}.</div>`
+    : `<div class="loseBanner">Out of guesses.</div>`;
+
   el.style.display = "block";
   el.innerHTML = `
-    <div style="font-weight:700;margin-bottom:6px;">Revealed</div>
+    ${winBanner}
     <div style="color:rgba(255,255,255,.75);font-size:12px;margin-bottom:10px;">
-      ${win ? `Solved in ${tries} tries.` : `Out of tries.`} Answer: ${ANSWER.ticker} — ${ANSWER.name}
+      Answer: <strong style="color:rgba(255,255,255,.92);">${ANSWER.ticker}</strong> — ${ANSWER.name}
     </div>
-    <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px;">
-      <div class="pill">Last close: $${Number(SNAP?.lastClose ?? 0).toFixed(2)}</div>
-      <div class="pill">1Y return: ${Number(SNAP?.oneYearReturn ?? 0).toFixed(1)}%</div>
-      <div class="pill">Market cap: —</div>
-      <div class="pill">1Y target: —</div>
-      <div class="pill">Outlook: —</div>
-    </div>
-    <div style="font-size:12px;color:rgba(255,255,255,.75);margin-bottom:10px;">
-      <span style="font-weight:700;color:rgba(255,255,255,.92);">Today’s insight:</span> ${SNAP?.insight || "—"}
-    </div>
-    <div style="border-top:1px solid rgba(255,255,255,.12);padding-top:10px;">
-      <div style="font-weight:700;font-size:12px;margin-bottom:8px;">Top news</div>
-      ${(SNAP?.topNews||[]).slice(0,3).map(n =>
-        `<div style="margin-bottom:8px;">
-           <div style="font-size:12px;">${n.headline}</div>
-           <div style="font-size:11px;color:rgba(255,255,255,.55);">${n.source} • ${n.when}</div>
-         </div>`
-      ).join("")}
-    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px;">${statPills}</div>
+    ${newsItems ? `
+      <div style="border-top:1px solid rgba(255,255,255,.12);padding-top:10px;margin-bottom:10px;">
+        <div style="font-weight:700;font-size:12px;margin-bottom:8px;">Top news</div>
+        ${newsItems}
+      </div>` : ""}
+    <button id="shareBtn" class="shareBtn">📋 Copy results</button>
   `;
+
+  $("shareBtn")?.addEventListener("click", () => {
+    const text = buildShareText();
+    navigator.clipboard?.writeText(text).then(() => {
+      const btn = $("shareBtn");
+      if(btn){ btn.textContent = "✅ Copied!"; setTimeout(() => { btn.textContent = "📋 Copy results"; }, 2000); }
+    }).catch(() => {
+      prompt("Copy this:", text);
+    });
+  });
+}
+
+// Build a non-spoiler placeholder SVG using the company's first initial.
+// We deliberately do NOT show the ticker symbol here — that's the answer.
+function makeLogoPlaceholder(){
+  const initial = (ANSWER.name || ANSWER.ticker).charAt(0).toUpperCase();
+  // Pick a deterministic pastel colour from the initial's char code
+  const hue = (initial.charCodeAt(0) * 47) % 360;
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
+    <rect width="100%" height="100%" rx="24" ry="24" fill="hsl(${hue},55%,28%)"/>
+    <text x="50%" y="54%" text-anchor="middle" dominant-baseline="middle"
+          font-family="ui-sans-serif,-apple-system,system-ui" font-size="56"
+          fill="rgba(255,255,255,0.90)" font-weight="700">${initial}</text>
+  </svg>`.trim();
+  return "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svg);
 }
 
 function setLogoSrcForAnswer(){
   const img = $("logoImg");
   if (!img) return;
 
-  img.src = withBust(`./assets/logos/${ANSWER.ticker}.png`);
+  // Tier 1: locally cached PNG (populated by batch_build / Finnhub)
+  // Tier 2: Financial Modeling Prep free image CDN (no key required for logos)
+  // Tier 3: non-spoiler placeholder initial
+  const sources = [
+    withBust(`./assets/logos/${ANSWER.ticker}.png`),
+    `https://financialmodelingprep.com/image-stock/${ANSWER.ticker}.png`,
+  ];
+  let attempt = 0;
 
-  img.onerror = () => {
-    const svg = `
-      <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
-        <rect width="100%" height="100%" rx="24" ry="24" fill="rgba(255,255,255,0.10)"/>
-        <text x="50%" y="54%" text-anchor="middle" dominant-baseline="middle"
-              font-family="ui-sans-serif, -apple-system, system-ui" font-size="40"
-              fill="rgba(255,255,255,0.85)" font-weight="700">${ANSWER.ticker}</text>
-      </svg>
-    `.trim();
-    img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svg);
-  };
+  function tryNext(){
+    if(attempt < sources.length){
+      img.onerror = tryNext;
+      img.src = sources[attempt++];
+    } else {
+      img.onerror = null;
+      img.src = makeLogoPlaceholder();
+    }
+  }
+
+  tryNext();
 }
 
 async function init(){
@@ -499,6 +587,7 @@ async function init(){
   ANSWER_STATS = {
     lastClose: Number(SNAP.lastClose ?? 0),
     oneYearReturn: Number(SNAP.oneYearReturn ?? 0),
+    marketCap: SNAP.marketCap ?? null,
   };
 
   populateDatalist();
@@ -551,6 +640,7 @@ async function init(){
       dividend: sel.dividend,
       lastClose: Number(gsnap?.lastClose),
       oneYearReturn: Number(gsnap?.oneYearReturn),
+      marketCap: gsnap?.marketCap ?? null,
     };
 
     renderClues(latestForClues);
