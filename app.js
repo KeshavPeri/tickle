@@ -306,16 +306,6 @@ function cell(k,v,badge){
   return d;
 }
 
-// Compare market caps by tier: Mega (>200B), Large (10-200B), Mid (2-10B), Small (<2B)
-function mcapTier(mc){
-  if(!mc || !Number.isFinite(mc) || mc <= 0) return null;
-  if(mc >= 200e9) return "mega";
-  if(mc >= 10e9)  return "large";
-  if(mc >= 2e9)   return "mid";
-  return "small";
-}
-const MCAP_TIER_LABEL = { mega: "Mega", large: "Large", mid: "Mid", small: "Small" };
-
 function renderClues(latest){
   const grid = $("cluesGrid");
   if (!grid) return;
@@ -324,7 +314,6 @@ function renderClues(latest){
   if(!latest){
     grid.appendChild(cell("Sector","—",""));
     grid.appendChild(cell("Industry","—",""));
-    grid.appendChild(cell("Market cap","—",""));
     grid.appendChild(cell("Last close","—",""));
     grid.appendChild(cell("1Y return","—",""));
     grid.appendChild(cell("Dividend","—",""));
@@ -334,29 +323,15 @@ function renderClues(latest){
   const latestEl = $("latest");
   if (latestEl) latestEl.textContent = `Latest: ${latest.ticker}`;
 
-  const sectorCls   = compareCat(latest.sector, ANSWER.sector);
+  const sectorCls   = compareCat(latest.sector,   ANSWER.sector);
   const industryCls = compareCat(latest.industry, ANSWER.industry);
   const divCls      = compareCat(latest.dividend, ANSWER.dividend);
 
   const close = compareNum(Number(latest.lastClose),     Number(ANSWER_STATS?.lastClose));
   const ret   = compareNum(Number(latest.oneYearReturn), Number(ANSWER_STATS?.oneYearReturn));
 
-  // Market cap comparison by tier
-  const guessTier  = mcapTier(latest.marketCap);
-  const answerTier = mcapTier(ANSWER_STATS?.marketCap);
-  let mcapDisplay, mcapBadge;
-  if(guessTier && answerTier){
-    const tierMatch = guessTier === answerTier ? "good" : "bad";
-    mcapDisplay = MCAP_TIER_LABEL[guessTier];
-    mcapBadge   = badgeHtml(tierMatch);
-  } else {
-    mcapDisplay = latest.marketCap ? formatMarketCap(latest.marketCap) : "—";
-    mcapBadge   = `<span class="badge bad" style="opacity:.5;">—</span>`;
-  }
-
   grid.appendChild(cell("Sector",   latest.sector,   badgeHtml(sectorCls)));
   grid.appendChild(cell("Industry", latest.industry, badgeHtml(industryCls)));
-  grid.appendChild(cell("Market cap", mcapDisplay, mcapBadge));
 
   grid.appendChild(cell(
     "Last close",
@@ -435,14 +410,6 @@ function addHistoryRow(stock){
   if (hist) hist.prepend(wrap);
 }
 
-function formatMarketCap(mc){
-  if(!mc || !Number.isFinite(mc)) return null;
-  if(mc >= 1e12) return `$${(mc/1e12).toFixed(2)}T`;
-  if(mc >= 1e9)  return `$${(mc/1e9).toFixed(1)}B`;
-  if(mc >= 1e6)  return `$${(mc/1e6).toFixed(0)}M`;
-  return `$${mc.toFixed(0)}`;
-}
-
 // Build a Wordle-style emoji share string from the guess history
 function buildShareText(){
   const histEl = $("history");
@@ -464,15 +431,13 @@ function reveal(win){
   const el = $("reveal");
   if (!el) return;
 
-  const mcStr = formatMarketCap(SNAP?.marketCap);
   const lastClose = Number(SNAP?.lastClose ?? 0);
   const oneYearReturn = Number(SNAP?.oneYearReturn ?? 0);
 
   const statPills = [
     `<div class="pill">Last close: ${lastClose > 0 ? "$" + lastClose.toFixed(2) : "—"}</div>`,
     `<div class="pill">1Y return: ${Number.isFinite(oneYearReturn) ? oneYearReturn.toFixed(1) + "%" : "—"}</div>`,
-    mcStr ? `<div class="pill">Market cap: ${mcStr}</div>` : "",
-  ].filter(Boolean).join("");
+  ].join("");
 
   const newsItems = (SNAP?.topNews || []).slice(0, 3).map(n => {
     const headline = n.headline || "";
@@ -587,7 +552,6 @@ async function init(){
   ANSWER_STATS = {
     lastClose: Number(SNAP.lastClose ?? 0),
     oneYearReturn: Number(SNAP.oneYearReturn ?? 0),
-    marketCap: SNAP.marketCap ?? null,
   };
 
   populateDatalist();
@@ -640,7 +604,6 @@ async function init(){
       dividend: sel.dividend,
       lastClose: Number(gsnap?.lastClose),
       oneYearReturn: Number(gsnap?.oneYearReturn),
-      marketCap: gsnap?.marketCap ?? null,
     };
 
     renderClues(latestForClues);

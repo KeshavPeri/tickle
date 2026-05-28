@@ -104,6 +104,10 @@ input{
   border-radius:14px;
   padding:10px;
 }
+/* If the last cell lands alone in a row (odd position in a 2-col grid), span it full width */
+.grid .cell:last-child:nth-child(odd){
+  grid-column: 1 / -1;
+}
 .k{font-size:11px; color:var(--muted)}
 .v{display:flex; justify-content:space-between; gap:8px; margin-top:6px}
 .badge{font-size:11px; color:var(--muted)}
