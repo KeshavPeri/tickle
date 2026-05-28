@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-27T11:59:29.122Z",
-  "builtDateUTC": "2026-05-27",
+  "builtAt": "2026-05-28T05:49:52.054Z",
+  "builtDateUTC": "2026-05-28",
   "source": "yahoo-finance",
   "1m": [
-    66.87999725341797,
     66,
     67.80000305175781,
     68.19999694824219,
@@ -24,10 +23,10 @@
     73.33000183105469,
     73.70999908447266,
     73.9000015258789,
-    72.37000274658203
+    72.37000274658203,
+    72.11000061035156
   ],
   "6m": [
-    57.810001373291016,
     58.189998626708984,
     58.130001068115234,
     58.939998626708984,
@@ -158,10 +157,10 @@
     73.33000183105469,
     73.70999908447266,
     73.9000015258789,
-    72.37000274658203
+    72.37000274658203,
+    72.11000061035156
   ],
   "1y": [
-    59.619998931884766,
     59.47999954223633,
     59.47999954223633,
     60.61000061035156,
@@ -411,11 +410,31 @@
     73.33000183105469,
     73.70999908447266,
     73.9000015258789,
-    72.37000274658203
+    72.37000274658203,
+    72.11000061035156
   ],
-  "lastClose": 72.37000274658203,
-  "oneYearReturn": 21.38544790861874,
+  "lastClose": 72.11000061035156,
+  "oneYearReturn": 21.234030203962526,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "Jim Cramer on Altria Group: “I Think You Should Ring the Register in Half the Position” - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-08",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUWQ4Y0JkMzdXWEVpN3hpYTdqZkowYV9lanp3X3NEYXB3bndEczVyQVpBNkZsZ2JhSUx4UHQ4bnRDNFJabldSVEJJY0t4RjllcUw5SjJnOGJWM3hWQTQwUlFtTkNtM2xSN014ZkZPTnVEUTRNSThNMEtKQ3dDOV9VTmgyNGE4TS1EMURyZlVOVkVFcEF4RTdDNXZR?oc=5"
+    },
+    {
+      "headline": "Altria (NYSE: MO) amends annual report to add ABI audited financials - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkNKUFluZFlNdmJyLThsRWJ5TGN0cURadE9hVkVKMkp5QmxlRVdlYnlEbDYxY1NZU1F5RHI0eklFS3h5V2FrOUhSN2dpcFZGYm1ZTTVFdU1Fd2ZGYkRNaExMRDkyYm5Lc1AtY2x3dndtQTdWQnFqbzM2VDJzS3VpR09OeTNyOFExVmhvMUhONXhGVzR4ZjVfeTJHNHFNdTVRRDNXX2Q4SQ?oc=5"
+    },
+    {
+      "headline": "MO Stock Price, Quote & Chart | ALTRIA GROUP INC (NYSE:MO) - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-05-22",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9seUJUQnpvOGZaN013cjlXbV9zQ3V0TlprbFV6SUFieDBuVFFmcUpiclByQ2xvUUcwTGxpYU94UGVkck5TaXgzMTRScTY1QW5VLTllYzdWQXNXSFps?oc=5"
+    }
+  ],
   "insight": "Tracking Altria (MO)."
 }

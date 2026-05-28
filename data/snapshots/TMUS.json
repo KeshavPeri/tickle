@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-27T11:59:31.603Z",
-  "builtDateUTC": "2026-05-27",
+  "builtAt": "2026-05-28T05:50:00.618Z",
+  "builtDateUTC": "2026-05-28",
   "source": "yahoo-finance",
   "1m": [
-    189.8000030517578,
     182.75,
     186.72000122070312,
     198.1699981689453,
@@ -24,10 +23,10 @@
     190.16000366210938,
     190.89999389648438,
     191.47000122070312,
-    191.11000061035156
+    191.11000061035156,
+    190.80999755859375
   ],
   "6m": [
-    214.57000732421875,
     216.0800018310547,
     215.83999633789062,
     213.0800018310547,
@@ -158,10 +157,10 @@
     190.16000366210938,
     190.89999389648438,
     191.47000122070312,
-    191.11000061035156
+    191.11000061035156,
+    190.80999755859375
   ],
   "1y": [
-    243.36000061035156,
     241.50999450683594,
     239.3000030517578,
     242.1999969482422,
@@ -411,11 +410,31 @@
     190.16000366210938,
     190.89999389648438,
     191.47000122070312,
-    191.11000061035156
+    191.11000061035156,
+    190.80999755859375
   ],
-  "lastClose": 191.11000061035156,
-  "oneYearReturn": -21.470249781786652,
+  "lastClose": 190.80999755859375,
+  "oneYearReturn": -20.9929187617149,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "TMUS - T-Mobile US Inc Stock Price and Quote - Finviz",
+      "source": "Finviz",
+      "when": "2026-05-22",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TMGVKcGU4TVhVdW5hbWxEbV9ROGYxb2V4M0NIcm0wVEdiZ1MxczhueGFXczdiSXpfczNHel9yVFlzaDhzQ0E?oc=5"
+    },
+    {
+      "headline": "T-Mobile Joins Rivals On Satellite Venture With Shares Below Targets - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVpzdnEtR1NIcUdQeUVmSHRpc1ptZkZNNlJUcUFKdzBqMzFuTTBINTJUZmF3Z0tLY21XVjJKdElCLTNjYTdzeGl2U2JldVNvWV95VE9qN21LSTB3VUlJQnlvcjVleGxQeWxETmhBQUstSHdmZE1zTHdkX2F4MGY0dWlnYjIwM3lCT2ZUZEc3WFluZ2FrbWJGSXo2U3A?oc=5"
+    },
+    {
+      "headline": "Jon Freier Sells 4,799 Shares of T-Mobile US (NASDAQ:TMUS) Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-05-26",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU19uMTdiakdaeEJZbHM5RDk5TE1MczV1MEpUbG5kRE9Lck5SdWx5b3JMWnhkejY2bS1CdnFjeHlxbU5hNmUzZ2xOY1E1VThtYzB1WkVLeE53QkszdTZNUUszOGhHSFMzWFdFUm12N2lVb0pVcFBXUnA3T0o1RkJOd3BOWFNvY2xYT0NoQVlaQlZmS1FYUXlmOHRMS0xRaEh3c0U3NkhDeWRqUmRHSjZ5WWNxTEw?oc=5"
+    }
+  ],
   "insight": "Tracking T-Mobile US (TMUS)."
 }

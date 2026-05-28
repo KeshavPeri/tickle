@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-27T11:59:20.814Z",
-  "builtDateUTC": "2026-05-27",
+  "builtAt": "2026-05-28T05:49:24.396Z",
+  "builtDateUTC": "2026-05-28",
   "source": "yahoo-finance",
   "1m": [
-    232.44000244140625,
     231.3300018310547,
     230.72000122070312,
     224.11000061035156,
@@ -24,10 +23,10 @@
     222.1999969482422,
     219.61000061035156,
     219.02000427246094,
-    218.89999389648438
+    218.89999389648438,
+    224.3000030517578
   ],
   "6m": [
-    194.5800018310547,
     194.52000427246094,
     191.80999755859375,
     189.6300048828125,
@@ -158,10 +157,10 @@
     222.1999969482422,
     219.61000061035156,
     219.02000427246094,
-    218.89999389648438
+    218.89999389648438,
+    224.3000030517578
   ],
   "1y": [
-    201.02999877929688,
     201.5,
     208.17999267578125,
     207.32000732421875,
@@ -411,11 +410,31 @@
     222.1999969482422,
     219.61000061035156,
     219.02000427246094,
-    218.89999389648438
+    218.89999389648438,
+    224.3000030517578
   ],
-  "lastClose": 218.89999389648438,
-  "oneYearReturn": 8.889218139431161,
+  "lastClose": 224.3000030517578,
+  "oneYearReturn": 11.315137990946806,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "Boeing Hits a Key Milestone. The Stock Is Up. - Barron's",
+      "source": "Barron's",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uY3VFSl9YOVYyU2JMQS1wMGU3cEVIYk5JQ0cyMldlZ3A5TkF2UDFJZ0tLZFgyOG8tWHFURTdBbDVlLVhvQUYyQVh0MFRiblZnWWVqalUxdFhhUWFVNy05bW00R1JmUlhnWGlRdHFfZ2tiQWlFT2xz?oc=5"
+    },
+    {
+      "headline": "Is Boeing Running Into More Quality-Control Issues? Investigative Error Raises Questions. - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3dhd05uWTNLNUNCczZZUHI2S0pBTi1xOU1scVBSdEszV0RyWHJXYXp5cHM2WFBrZ3hkQ2lxX1E2Tm9WVlJKZ3hJeTFYQm9GaUZkdWRsUzVkTmprOFlMWEdrVTlMVjR0cG5vU2doOFU2SzloU2VxM09DTHluQWQ0ZktkYVN2Y2lvYTEyMjExQXhHLV9ublBfZGh2SHZDdHhVM0poSk8wQ3hFOURaa3lSaGhRQkVXQQ?oc=5"
+    },
+    {
+      "headline": "Midday Need to Know: Oil price falls, Boeing stock rises & more (SPY:NYSEARCA) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaUx2dV9RNGlfWFd2YnkzWXRVekdXS3VHbkJUZDdNLXl3UGxXRmN0UHJSLUVVRmhfRXhBYUoweTJVdjdkYWtWakF6Ym03M3RSTnJQcjIwTkpsV3VDU2s4YW9tcWEtOVdXSzVDTGZTSUxqVk5LczBFTXJIS01kb01ZeElYcFRJQkNmdV92ci1sOXByZlRBdG5OZWxkbV8yQQ?oc=5"
+    }
+  ],
   "insight": "Tracking Boeing (BA)."
 }

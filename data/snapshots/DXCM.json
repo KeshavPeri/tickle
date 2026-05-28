@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-27T11:59:24.108Z",
-  "builtDateUTC": "2026-05-27",
+  "builtAt": "2026-05-28T05:49:35.814Z",
+  "builtDateUTC": "2026-05-28",
   "source": "yahoo-finance",
   "1m": [
-    61.56999969482422,
     61.40999984741211,
     59.31999969482422,
     57.560001373291016,
@@ -24,10 +23,10 @@
     71.44000244140625,
     71.9000015258789,
     72.0999984741211,
-    72.01000213623047
+    72.01000213623047,
+    70.26000213623047
   ],
   "6m": [
-    59.720001220703125,
     58.060001373291016,
     58.4900016784668,
     60.16999816894531,
@@ -158,10 +157,10 @@
     71.44000244140625,
     71.9000015258789,
     72.0999984741211,
-    72.01000213623047
+    72.01000213623047,
+    70.26000213623047
   ],
   "1y": [
-    85.33000183105469,
     86.9800033569336,
     84.86000061035156,
     85.80000305175781,
@@ -411,11 +410,31 @@
     71.44000244140625,
     71.9000015258789,
     72.0999984741211,
-    72.01000213623047
+    72.01000213623047,
+    70.26000213623047
   ],
-  "lastClose": 72.01000213623047,
-  "oneYearReturn": -15.60998407242104,
+  "lastClose": 70.26000213623047,
+  "oneYearReturn": -19.222810502881284,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "DexCom Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ0VqZzNRUW5wNUM0dGliZi1nV3NtakxuWC1UM2tYQldjd0tOVUg5NjZFOElnZ2c3YnBndFJkalU5VVR2QVUwUWtHeVVhUDVDUzRfa25DUjhLTzQzLTdCMVFoTzdzRFAyWVB4RzZWdlRlNVRSYlVnUjZ3aXM2UmRhSkZRVFM0ZEp1VHJYYWN1RDBxbWJreS1YWENCbGg5Z3dCVmN5cGxrNFpzOGo0UU5iMDZGQjlwSFdTVjFQa25BdC1uMVZiblJNVQ?oc=5"
+    },
+    {
+      "headline": "Dexcom (NASDAQ: DXCM) EVP shares withheld to cover RSU tax obligations - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU2VYbDNWZW9kLV8xRmMxRUNwd1pYSm1NbVdIN0Z6VnFYVGJuc1k3U08weXZabGdyelhLdWl2TGd5Y2NfT0ZJZGRnRENWdFo2ZHdWbmhjNGd6SnZxQ2RZRmdDdmp2LTBIR0RYTnE5R2Y5NE1vTVRlbTZtVmtySTlKc1kwMGpwc250NkFiYUMtNE5SVG1WWWxfNk1objVGaXdGckMybGlBMA?oc=5"
+    },
+    {
+      "headline": "6-Day Rally Sends DexCom Stock Up 25% - Trefis",
+      "source": "Trefis",
+      "when": "2026-05-23",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQmtwcFpKZVZqUjRnYi1qclI3VFZnV0ZmOVVqQXdfRnFTakYxZjdSZllXUHdZbkIzQWJOajRuaDduNVczczNSLXhNS2hmNVBFNk5IdU02UzVRZGVOWmVwMERhdUZDa1VUUGg5VlBDcDlkcnE3Y1I5bGt4SWxTeW5fN0dxSUxtMjBEZ2JLeklqOEFpZUFUeFl3czJaQk5aZw?oc=5"
+    }
+  ],
   "insight": "Tracking Dexcom (DXCM)."
 }

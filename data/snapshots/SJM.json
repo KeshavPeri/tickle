@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-27T11:59:30.887Z",
-  "builtDateUTC": "2026-05-27",
+  "builtAt": "2026-05-28T05:49:58.162Z",
+  "builtDateUTC": "2026-05-28",
   "source": "yahoo-finance",
   "1m": [
-    96.06999969482422,
     95.33000183105469,
     98.05000305175781,
     96.80000305175781,
@@ -24,10 +23,10 @@
     100.4800033569336,
     101.91000366210938,
     103.36000061035156,
-    102.31999969482422
+    102.31999969482422,
+    102.9800033569336
   ],
   "6m": [
-    110.30000305175781,
     109.13999938964844,
     106.54000091552734,
     106.69000244140625,
@@ -158,10 +157,10 @@
     100.4800033569336,
     101.91000366210938,
     103.36000061035156,
-    102.31999969482422
+    102.31999969482422,
+    102.9800033569336
   ],
   "1y": [
-    113.93000030517578,
     110.94999694824219,
     112.47000122070312,
     112.61000061035156,
@@ -411,11 +410,31 @@
     100.4800033569336,
     101.91000366210938,
     103.36000061035156,
-    102.31999969482422
+    102.31999969482422,
+    102.9800033569336
   ],
-  "lastClose": 102.31999969482422,
-  "oneYearReturn": -10.19046833955299,
+  "lastClose": 102.9800033569336,
+  "oneYearReturn": -7.183410374519046,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "[8-K] J M SMUCKER Co Reports Material Event | SJM 8-K Filing - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-03-03",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2xEaWszMWF5dkI5RnN1bVR6YUdXQVdmd0dwYk12TkpNaXg0X2J0VHlHOHJZZW1EeXdreWFSanFJVHR5WHBNM2s5OUI2aW1faS1NazJzZU1ySUczR3NtMzJmWHg3UW80MG1rVVR1dVFLMTlfeXRCOHZaX21oQ3RGaEd3YXlZNEhDaWVtQUM1RmxLRlVvT3UxSjdhVmI2UV9WS0VlYw?oc=5"
+    },
+    {
+      "headline": "The J. M. Smucker Company (NYSE:SJM) is largely controlled by institutional shareholders who own 83% of the company - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2024-09-23",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NRENtZ3luV3R4Q2FKWXU1X1c3cnJkVktTblNTZTFJdXQ4Tk5GYmg1RFg2aUo0czlxRnk5bGxhM0J6NmpVWjYtVkNTdDR5ZG9nc1l3eDlvbnRmOHhsR3pza3Q4V2F4bUlVaUYxTUlpVGVMZHdYNVZRYkt3?oc=5"
+    },
+    {
+      "headline": "What Is The Ownership Structure Like For The J. M. Smucker Company (NYSE:SJM)? - Moomoo",
+      "source": "Moomoo",
+      "when": "2024-04-14",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ2JLYzktSWxfQmVQSTZnUENjXzFZVlRGWnV1VXp0U2V2b3haZnVPbVF4TGhITHp2XzdxYkFBeEszQnYxMzN6dG5ZZXNNR1YzMEIyd29IQ1JCZUswSmxkeHhaSmk1UW1PTmdPX1BwaEd5bTBNSDU0NDJKNG85U3FrMEJWNUNLcG5HTUhvNDF5QzdmcWQw?oc=5"
+    }
+  ],
   "insight": "Tracking J.M. Smucker Company (The) (SJM)."
 }

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-27T11:59:24.927Z",
-  "builtDateUTC": "2026-05-27",
+  "builtAt": "2026-05-28T05:49:38.356Z",
+  "builtDateUTC": "2026-05-28",
   "source": "yahoo-finance",
   "1m": [
-    113.63999938964844,
     113.44000244140625,
     113.16000366210938,
     114.66999816894531,
@@ -24,10 +23,10 @@
     111.93000030517578,
     112.2699966430664,
     112.4000015258789,
-    111.97000122070312
+    111.97000122070312,
+    111.51000213623047
   ],
   "6m": [
-    94.41999816894531,
     95.05000305175781,
     95.54000091552734,
     94.44000244140625,
@@ -158,10 +157,10 @@
     111.93000030517578,
     112.2699966430664,
     112.4000015258789,
-    111.97000122070312
+    111.97000122070312,
+    111.51000213623047
   ],
   "1y": [
-    82.77999877929688,
     81.80999755859375,
     82.36000061035156,
     83.27999877929688,
@@ -411,11 +410,31 @@
     111.93000030517578,
     112.2699966430664,
     112.4000015258789,
-    111.97000122070312
+    111.97000122070312,
+    111.51000213623047
   ],
-  "lastClose": 111.97000122070312,
-  "oneYearReturn": 35.262144082933496,
+  "lastClose": 111.51000213623047,
+  "oneYearReturn": 36.30363704187261,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "ENJ Stock Price, News & Analysis - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzNzVNWFpQTm84YVBuT19XQzNIeFhteTdEeEpaeHlOY1dFNXZkOHFuTWNLVU42bURDT3ZUZzluaWpUaTlvNkxYOHFxNHJJY2kxalE?oc=5"
+    },
+    {
+      "headline": "RKLB Stock BREAKING! (massive News!) Rocket Lab Entergy (iiOE1PQ4dt) - Mshale",
+      "source": "Mshale",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Fb09ZVm90WFhoR2NPWEVvZkN2TE11bzRBVk4yZ3NuQlNxajlyeVdHcmVWSVdJLXFCYlB1dTdxT2lQdlNGSXhlbmJjUW5DX3BsYk45dnN0ZEJ2SWM?oc=5"
+    },
+    {
+      "headline": "Entergy Corporation announces public offering of common stock with a forward component - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-05-05",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ0syQ19GbXNkVHhKM0stc2JQU1lUSDl5LUgtS0FTM29CcXY1REU4V25YaS1yOVdYN1Rvam5kcnlEeGN1bXd4N2huaHV5OFFRV2xoYmlrRlZqZzZvdmU1cl9fRDZfc1E0UnhIY2p1M2RsaTZDSmlwbkxGczBsN3dVV1pKYVNsTXBiNTdMMUF2UDktSDRNa0dJY0poay1GQ2xGMmxRbTJPSlVQWWlZSE9Mb1dsOEtpbnNNTkl0TFR0dm5HSFhSVXh1dm5VZzVIM0R2UVNpUW9vMW00UQ?oc=5"
+    }
+  ],
   "insight": "Tracking Entergy (ETR)."
 }

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-27T11:59:19.336Z",
-  "builtDateUTC": "2026-05-27",
+  "builtAt": "2026-05-28T05:49:18.930Z",
+  "builtDateUTC": "2026-05-28",
   "source": "yahoo-finance",
   "1m": [
-    245.44000244140625,
     239.30999755859375,
     243.1999969482422,
     243.57000732421875,
@@ -24,10 +23,10 @@
     253.3699951171875,
     244.10000610351562,
     244.75999450683594,
-    240.49000549316406
+    240.49000549316406,
+    238.24000549316406
   ],
   "6m": [
-    333.6000061035156,
     331.1099853515625,
     325.07000732421875,
     324.4700012207031,
@@ -158,10 +157,10 @@
     253.3699951171875,
     244.10000610351562,
     244.75999450683594,
-    240.49000549316406
+    240.49000549316406,
+    238.24000549316406
   ],
   "1y": [
-    413.1000061035156,
     412.2300109863281,
     413.3599853515625,
     415.0899963378906,
@@ -411,11 +410,31 @@
     253.3699951171875,
     244.10000610351562,
     244.75999450683594,
-    240.49000549316406
+    240.49000549316406,
+    238.24000549316406
   ],
-  "lastClose": 240.49000549316406,
-  "oneYearReturn": -41.78407118374589,
+  "lastClose": 238.24000549316406,
+  "oneYearReturn": -42.20702056040616,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "ADBE Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-05-25",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlQTJzVWhyWEJBbkVqNnBMU0RfU3lFY1dZQUFWazN6eU1hOC1pYVpKTlNRbVVwVjh0bUFuc0hHS0lkYmVlOHBBcmRpcU5TNnoz?oc=5"
+    },
+    {
+      "headline": "Adobe Stock Analysis: Why Analysts Priced it at $327 While TIKR Model Targets $392 - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVZDSkZQblhVczY3cldJZFFPVjlaSzhncEZ0WjhsTTBDOGtiY0pZSnFyWXVYZTUtV3J6N3BjT2lmNWNMYkdSb0FfU3NKWVVpU3p1dFNOc2ZDWGlIV2E0WW9XY01wZHJ3XzJtSUJDaVJ1eGFma19La2hyZXNYbEN2UXJhMHNyNnhsM0tPeWFZVHNEcjJPQmRBZkRYam9Ic0FHVTEwdDVRaEw?oc=5"
+    },
+    {
+      "headline": "Adobe: A Free Cash Flow Machine In Full Gear (NASDAQ:ADBE) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTS13NG9sLXlBdktVMjQ3UkJhWUlKTDNDMDJqOHc2QU1INW94eW9Sd3E1SmdqMU1XNkVMZHJZSEVVSnVDck5IZlBvRV9zT1VnMVJrVEhfRVdwWEZKV0FkUmpjelBBYjlWaFJIM0RxR2FyRkJIYUdnVVJXNzNlUC0wbVk5RGY0NG1aZDB4RUxVbElJQQ?oc=5"
+    }
+  ],
   "insight": "Tracking Adobe Inc. (ADBE)."
 }

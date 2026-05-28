@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-27T11:59:29.747Z",
-  "builtDateUTC": "2026-05-27",
+  "builtAt": "2026-05-28T05:49:54.263Z",
+  "builtDateUTC": "2026-05-28",
   "source": "yahoo-finance",
   "1m": [
-    30.239999771118164,
     30.549999237060547,
     30.139999389648438,
     30.25,
@@ -24,10 +23,10 @@
     29.700000762939453,
     30.079999923706055,
     29.68000030517578,
-    29.950000762939453
+    29.950000762939453,
+    30.469999313354492
   ],
   "6m": [
-    29.68000030517578,
     29.559999465942383,
     28.920000076293945,
     28.790000915527344,
@@ -158,10 +157,10 @@
     29.700000762939453,
     30.079999923706055,
     29.68000030517578,
-    29.950000762939453
+    29.950000762939453,
+    30.469999313354492
   ],
   "1y": [
-    32.560001373291016,
     32.900001525878906,
     32.900001525878906,
     32.720001220703125,
@@ -411,11 +410,31 @@
     29.700000762939453,
     30.079999923706055,
     29.68000030517578,
-    29.950000762939453
+    29.950000762939453,
+    30.469999313354492
   ],
-  "lastClose": 29.950000762939453,
-  "oneYearReturn": -8.015972052423031,
+  "lastClose": 30.469999313354492,
+  "oneYearReturn": -7.386024619521649,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "NWS Stock Price, Quote & Chart | NEWS CORP - CLASS B (NASDAQ:NWS) - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-05-22",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40SVNIdVNRaU5MYUM2VlJGanNJcHRaZ29OY2pfRnktTHBiNEZUMWdTNEhjUFhPblNoSkdLTEtXX0VaTE1heHhPR0l1VlY5dlZWd0pPT3FzMUl6eV9lMnc?oc=5"
+    },
+    {
+      "headline": "News Corp (Class B) stock (US65249B2088): earnings momentum and digital pivot in focus - AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMHNzRGg1WUp6Z3pfbGdxbWNvbEpXTUNOZFRMWF9MOEowUFNraGhoeFhPRXJaRDlMTUtUVklNemZtYmwySGNkU2N1MHU4MmJId2NFY0pScU9pcW9PQU5jN0g0dFBsQ25ldnI2VW9mN1hNTHh1YkRYREk1M2tHa3Y2aVVKZlpTUEx6dzJCU2lJcXV5SnZjX3lLTzA1akExUUJ6NTV0aWdvWUQ2SWlKaHBFM0RoV0pkQlhqY3VHRnJZR2lVV0E?oc=5"
+    },
+    {
+      "headline": "News Corp (NWS) reports $1B buy-back program and latest ASX share repurchases - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-05-11",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3QtQlB0NGlLeGJ5OGJMMG9FekFTZ1NCSnpzejc2cWlnbV9jWFBjWE5hYWJEdy1sREZzQ2k5OUVBTWhvNnllRENlUHJwcmR4ZDJ1UElnaVAxMlN2elMtUVRzS0hSQ0VhYmhnWm5TMWxpUUU3Mk1fLU5QdEhVQWFPRGRUbkFfRGxrZU9PTXN4eXpwOHlwRzNlNXpxak4yZw?oc=5"
+    }
+  ],
   "insight": "Tracking News Corp (Class B) (NWS)."
 }

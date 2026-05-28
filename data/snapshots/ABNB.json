@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-27T11:59:19.087Z",
-  "builtDateUTC": "2026-05-27",
+  "builtAt": "2026-05-28T05:49:18.455Z",
+  "builtDateUTC": "2026-05-28",
   "source": "yahoo-finance",
   "1m": [
-    142.82000732421875,
     141.05999755859375,
     139.0399932861328,
     140.27999877929688,
@@ -24,10 +23,10 @@
     135.5500030517578,
     134.25,
     132.35000610351562,
-    132.67999267578125
+    132.67999267578125,
+    132.10000610351562
   ],
   "6m": [
-    121.19000244140625,
     122.0199966430664,
     117.5999984741211,
     115.41999816894531,
@@ -158,10 +157,10 @@
     135.5500030517578,
     134.25,
     132.35000610351562,
-    132.67999267578125
+    132.67999267578125,
+    132.10000610351562
   ],
   "1y": [
-    129.39999389648438,
     128.6699981689453,
     128.36000061035156,
     129,
@@ -411,11 +410,31 @@
     135.5500030517578,
     134.25,
     132.35000610351562,
-    132.67999267578125
+    132.67999267578125,
+    132.10000610351562
   ],
-  "lastClose": 132.67999267578125,
-  "oneYearReturn": 2.5347750649206082,
+  "lastClose": 132.10000610351562,
+  "oneYearReturn": 2.665740252880605,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "Insider Selling: Airbnb (NASDAQ:ABNB) Director Sells 2,860 Shares of Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWGpyckc2clowSzJURG81NzNGWVhRMjRrMFNWOVhoYTVxUHdTVmMwWUFvbVVNZ0hRVXhwcGRQcURiNVVVS2xERXozY0hXTG9udVVpNE56VXBfUTRuVFliTU5PUVlVLTBhcFJrZV9uTkIxZm5nS01idVRJVnZLTDRqN0tlelc2Rms4eXhEcTduOHJKSVVvRXpldWNVVjdlYXZMZGFQZ3VGeXk4TkpSdEltWGtqWTA1UlNZNU1USlo1ZW0?oc=5"
+    },
+    {
+      "headline": "Airbnb (ABNB) director James Manyika receives 2,927 RSU award vesting 2027 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0RaY0Nnek01c3E3V3VnX2hNcnhJYkREclAxcG5SVHZxZjN4UFphWE1XbVJOdXpyN1VjOTk3QlhUNlhiRG5hZ2hwSkJuMGlLN1ZQSTVDbEFZZWg4TGJ6Uzh3LWQwVnRhLXc1bXI0N2hkT3ljeVl6SGVWTUpwR1lDdjU2YWZFOG84SG9JY204QXNhSWZxVjZ0b2o3QS1fcHI2b2pVSGR5SQ?oc=5"
+    },
+    {
+      "headline": "Airbnb director Joseph Gebbia sells $381,637 in ABNB stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ1BmaVNWTG5pMmRIdWVfZzR3NEFpQkNoZ1Bxc0RkNmF2N1JEa0RaRTN2Z2dnWDVYbTA0VzdlaUtVZWI2MXZ0aU56cVFlM0NNYTZac2EzbXUzb2JGNEp2QkdHTkNpNWU1bzRFR2NQUVhmdlBGZ0dPTmlrTUNCSm9oMzVfWS1aMzZXT1dyYUFGWTQzM0tMMEY0dlM4SzBwWTlTX09rdVFqcDBtd2xzOVdJNlB1dVAyeFI1Rnk4TU93?oc=5"
+    }
+  ],
   "insight": "Tracking Airbnb (ABNB)."
 }

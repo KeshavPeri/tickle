@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-27T11:59:24.184Z",
-  "builtDateUTC": "2026-05-27",
+  "builtAt": "2026-05-28T05:49:35.952Z",
+  "builtDateUTC": "2026-05-28",
   "source": "yahoo-finance",
   "1m": [
-    97.94000244140625,
     100.29000091552734,
     100.36000061035156,
     103.79000091552734,
@@ -24,10 +23,10 @@
     118.95999908447266,
     117.12999725341797,
     115.75,
-    115.30999755859375
+    115.30999755859375,
+    110.36000061035156
   ],
   "6m": [
-    84.43000030517578,
     83.8499984741211,
     82.16000366210938,
     81.83000183105469,
@@ -158,10 +157,10 @@
     118.95999908447266,
     117.12999725341797,
     115.75,
-    115.30999755859375
+    115.30999755859375,
+    110.36000061035156
   ],
   "1y": [
-    72.44000244140625,
     72.4000015258789,
     72.73999786376953,
     73.16999816894531,
@@ -411,11 +410,31 @@
     118.95999908447266,
     117.12999725341797,
     115.75,
-    115.30999755859375
+    115.30999755859375,
+    110.36000061035156
   ],
-  "lastClose": 115.30999755859375,
-  "oneYearReturn": 59.18000230861848,
+  "lastClose": 110.36000061035156,
+  "oneYearReturn": 52.430936856961395,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "eBay Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWi03djJxNGNLVGJMdG54MEl6UXMtRC1DLVBaVHNodGxpQUNTcnczM3JYeU1teHU0d1NsZDQ4NFg5WGx4SkYxTnNKbzhLdURrUy1PZ29JNDVORmdCa0NtRHl4U3B2dGdCYTEyME9rdC1aSnQ0Y3J6WEJLLXZqWXNuMTMxREltZkpKVkdBZmtTc0VYSHdtYXQ2bnIwNE9QYkNQWWdqNDFfZWo4Y215RnNLWGt6ZjhzVDd3eU0yRUJoeWdnMEtKMlEzS2Z4VU1PZU9mMDhtY0FGRDN2T2VzR2c?oc=5"
+    },
+    {
+      "headline": "eBay (NASDAQ: EBAY) CTO exercises 50K options and sells stock under plan - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTUN6c1p0YkhmX193SV9UM2ZRX2pULWdTZGRhM2VuZE1wTkZqQWdacmZDM2lOREFCX0Nxalh5R196bTBvYVJFLVJTUFFCRVctUDV4VnZQZHl4NXB5Q2tUX0Y4R3VHeklvWk8taGlHREZTXzlSNmpNZUwwOXZQaVNaT3h4bGFKQUFxMXJiUDJtWUtWQUFjamt6S1BYY21ZWU5oMGk4Rw?oc=5"
+    },
+    {
+      "headline": "eBay Inc (EBAY) Stock Down 4.3% but Still Overvalued -- GF Score: 82/100 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjRoSGRyTGs0TUxheUpwYlBzMWlBbEVwbDZGaFlpWGlxWFdLMk8wdk55ZU5fM0JfTm5QZy1ZNVN5WFNQc1FkMV80RldVcWtSZGJObG5fWnJEbjYxQkRub05NVVNlV2tZNFVmMHNCNk5ZeTdMek0wa1U0UFJvR0VHek1TQm85T2lEcjhTNHU2c1RQRlhLNUtNNG95ZVk1WnUwZEJBUw?oc=5"
+    }
+  ],
   "insight": "Tracking eBay Inc. (EBAY)."
 }

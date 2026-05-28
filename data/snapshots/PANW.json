@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-27T11:59:29.999Z",
-  "builtDateUTC": "2026-05-27",
+  "builtAt": "2026-05-28T05:49:55.153Z",
+  "builtDateUTC": "2026-05-28",
   "source": "yahoo-finance",
   "1m": [
-    178.5399932861328,
     182.89999389648438,
     180.99000549316406,
     181.5399932861328,
@@ -24,10 +23,10 @@
     246.66000366210938,
     252.9199981689453,
     260.5799865722656,
-    256.75
+    256.75,
+    248.47000122070312
   ],
   "6m": [
-    204.77000427246094,
     205.25,
     202.89999389648438,
     201,
@@ -158,10 +157,10 @@
     246.66000366210938,
     252.9199981689453,
     260.5799865722656,
-    256.75
+    256.75,
+    248.47000122070312
   ],
   "1y": [
-    187.4600067138672,
     187.8000030517578,
     185.82000732421875,
     192.4199981689453,
@@ -411,11 +410,31 @@
     246.66000366210938,
     252.9199981689453,
     260.5799865722656,
-    256.75
+    256.75,
+    248.47000122070312
   ],
-  "lastClose": 256.75,
-  "oneYearReturn": 36.962547105791366,
+  "lastClose": 248.47000122070312,
+  "oneYearReturn": 32.30564280247888,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "Okta and Palo Alto Networks Shares Plummet, What You Need To Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUjhYNG9LbmgwVlA1RFlNRDRIY19acHBLMWd5OUdDejh0WHJGVk13ZXp1dy1sTXlNN2doME5TVF9HT1VkRmtwZmUyWnZzYXhucnRpTVZFeUFYalhqNVJHWVBmeFNRUU41OGNsSE1wQ2JFRnpmanN6ZF8xZ1pnM2R2VUdEdlo1d0dwOXJLS3Y1Q3JlX2lRNkJVM01aMA?oc=5"
+    },
+    {
+      "headline": "Is the AI Security Rally Over? Analyzing the PANW and CRWD Pullback - Barron's",
+      "source": "Barron's",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0dBTDZlYlYtMENnOGhhMGlPRnlEN0t3R01QR1ZuOVdZMXdheklPWHAzVENQZFhlRzJpTGFVRzJfVVFWS1ZZTWF2cEprUlcxMHdkSW81dTI0RW9TYTBQQ09fWnJtRm9qcHFyZXJaZVhyUU1jSUc5UzZZZFM1Nmt5TGpNMkl6U2I5N2NMbzd5UkdGX09ONUJiemcyM0F3Zw?oc=5"
+    },
+    {
+      "headline": "Palo Alto Networks: AI Cybersecurity Seesaw (NASDAQ:PANW) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2NTM0ozSHlaSlJQLUFVdldjN1ZjYVQyQVZyOWlobWF6cjFMMkJkVGgyTUFqT3FmZVNXTEdmRHJxRkRfdUtrWWt0MEotMXQ0Q05xMDFlQklDT3hod0R6dlZuSWJQcGhOd21XNnJ2el9HTHRsNnNWRk5QX3BBZ0FIVmtRWWY4QTVNSWU0?oc=5"
+    }
+  ],
   "insight": "Tracking Palo Alto Networks (PANW)."
 }
