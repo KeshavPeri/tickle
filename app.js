@@ -189,7 +189,12 @@ function drawChart(){
   const ctx = canvas.getContext("2d");
   ctx.clearRect(0,0,canvas.width,canvas.height);
 
-  ctx.fillStyle = "rgba(255,255,255,.02)";
+  const style = getComputedStyle(document.documentElement);
+  const chartBg   = style.getPropertyValue("--chart-bg").trim();
+  const chartGrid = style.getPropertyValue("--chart-grid").trim();
+  const chartLine = style.getPropertyValue("--chart-line").trim();
+
+  ctx.fillStyle = chartBg;
   ctx.fillRect(0,0,canvas.width,canvas.height);
 
   const data = getChartSeries();
@@ -206,7 +211,7 @@ function drawChart(){
   // grid
   ctx.save();
   ctx.globalAlpha = 0.18;
-  ctx.strokeStyle = "rgba(255,255,255,.35)";
+  ctx.strokeStyle = chartGrid;
   ctx.lineWidth = 2;
   for(let i=1;i<=3;i++){
     const y = pad.t + (h*i/4);
@@ -219,7 +224,7 @@ function drawChart(){
 
   // line
   ctx.save();
-  ctx.strokeStyle = "rgba(255,255,255,.82)";
+  ctx.strokeStyle = chartLine;
   ctx.lineWidth = 5;
   ctx.lineJoin = "round";
   ctx.lineCap = "round";
@@ -445,13 +450,13 @@ function reveal(win){
     if(n.url){
       return `<div style="margin-bottom:8px;">
         <a href="${n.url}" target="_blank" rel="noopener noreferrer"
-           style="font-size:12px;color:rgba(255,255,255,.88);text-decoration:underline;text-underline-offset:2px;">${headline}</a>
-        <div style="font-size:11px;color:rgba(255,255,255,.45);margin-top:2px;">${meta}</div>
+           style="font-size:12px;color:var(--text);text-decoration:underline;text-underline-offset:2px;">${headline}</a>
+        <div style="font-size:11px;color:var(--muted);margin-top:2px;">${meta}</div>
       </div>`;
     }
     return `<div style="margin-bottom:8px;">
       <div style="font-size:12px;">${headline}</div>
-      <div style="font-size:11px;color:rgba(255,255,255,.45);margin-top:2px;">${meta}</div>
+      <div style="font-size:11px;color:var(--muted);margin-top:2px;">${meta}</div>
     </div>`;
   }).join("");
 
@@ -462,16 +467,16 @@ function reveal(win){
   el.style.display = "block";
   el.innerHTML = `
     ${winBanner}
-    <div style="color:rgba(255,255,255,.75);font-size:12px;margin-bottom:10px;">
-      Answer: <strong style="color:rgba(255,255,255,.92);">${ANSWER.ticker}</strong> — ${ANSWER.name}
+    <div style="color:var(--muted);font-size:12px;margin-bottom:10px;">
+      Answer: <strong style="color:var(--text);">${ANSWER.ticker}</strong> — ${ANSWER.name}
     </div>
     <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px;">${statPills}</div>
     ${newsItems ? `
-      <div style="border-top:1px solid rgba(255,255,255,.12);padding-top:10px;margin-bottom:10px;">
+      <div style="border-top:1px solid var(--border);padding-top:10px;margin-bottom:10px;">
         <div style="font-weight:700;font-size:12px;margin-bottom:8px;">Top news</div>
         ${newsItems}
       </div>` : ""}
-    <button id="shareBtn" class="shareBtn">📋 Copy results</button>
+    <button id="shareBtn" class="shareBtn">&#128203; Copy results</button>
   `;
 
   $("shareBtn")?.addEventListener("click", () => {
@@ -656,6 +661,19 @@ async function init(){
   });
 
   window.addEventListener("resize", () => drawChart());
+
+  // theme toggle
+  const toggleBtn = $("themeToggle");
+  function syncToggleIcon(){
+    if (toggleBtn) toggleBtn.textContent = document.documentElement.classList.contains("light") ? "☾" : "☀";
+  }
+  syncToggleIcon();
+  toggleBtn?.addEventListener("click", () => {
+    document.documentElement.classList.toggle("light");
+    localStorage.setItem("tickle-theme", document.documentElement.classList.contains("light") ? "light" : "dark");
+    syncToggleIcon();
+    drawChart();
+  });
 }
 
 init().catch(err => {

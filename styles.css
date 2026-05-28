@@ -4,8 +4,41 @@
   --border:rgba(255,255,255,.12);
   --text:rgba(255,255,255,.92);
   --muted:rgba(255,255,255,.62);
+  --chart-bg:rgba(255,255,255,.02);
+  --chart-grid:rgba(255,255,255,.35);
+  --chart-line:rgba(255,255,255,.82);
+  --btn-bg:rgba(255,255,255,.10);
+  --hint-panel-bg:rgba(255,255,255,.04);
+  --logo-wrap-bg:rgba(0,0,0,.10);
+  --tile-bad-bg:rgba(255,255,255,.05);
+  --tile-bad-color:rgba(255,255,255,.75);
+  --hint-title-color:rgba(255,255,255,.88);
+  --hint-chip-color:rgba(255,255,255,.82);
+  --hint-chip-bg:rgba(255,255,255,.04);
+  --share-btn-bg:rgba(255,255,255,.08);
+  --share-btn-hover:rgba(255,255,255,.14);
   --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial;
+}
+html.light{
+  --bg:#f5f5f7;
+  --panel:rgba(0,0,0,.04);
+  --border:rgba(0,0,0,.12);
+  --text:rgba(0,0,0,.88);
+  --muted:rgba(0,0,0,.52);
+  --chart-bg:rgba(0,0,0,.02);
+  --chart-grid:rgba(0,0,0,.22);
+  --chart-line:rgba(20,20,20,.75);
+  --btn-bg:rgba(0,0,0,.06);
+  --hint-panel-bg:rgba(0,0,0,.03);
+  --logo-wrap-bg:rgba(0,0,0,.05);
+  --tile-bad-bg:rgba(0,0,0,.04);
+  --tile-bad-color:rgba(0,0,0,.65);
+  --hint-title-color:rgba(0,0,0,.80);
+  --hint-chip-color:rgba(0,0,0,.72);
+  --hint-chip-bg:rgba(0,0,0,.04);
+  --share-btn-bg:rgba(0,0,0,.06);
+  --share-btn-hover:rgba(0,0,0,.10);
 }
 *{box-sizing:border-box}
 body{
@@ -62,7 +95,7 @@ input{
 #guessBtn{
   width:110px; border-radius:12px;
   border:1px solid var(--border);
-  background:rgba(255,255,255,.10);
+  background:var(--btn-bg);
   color:var(--text);
   cursor:pointer;
 }
@@ -127,7 +160,7 @@ input{
 }
 .tile.good{background:rgba(46,204,113,.18)}
 .tile.mid{background:rgba(241,196,15,.16)}
-.tile.bad{background:rgba(255,255,255,.05); color:rgba(255,255,255,.75)}
+.tile.bad{background:var(--tile-bad-bg); color:var(--tile-bad-color)}
 .reveal{
   margin-top:12px;
   border:1px solid var(--border);
@@ -141,7 +174,7 @@ input{
   padding:10px;
   display:flex;
   justify-content:center;
-  background:rgba(0,0,0,.10);
+  background:var(--logo-wrap-bg);
 }
 
 .logoWrap img{
@@ -207,7 +240,7 @@ input{
   gap: 6px;
   margin-top: 10px;
   border: 1px solid var(--border);
-  background: rgba(255,255,255,.08);
+  background: var(--share-btn-bg);
   color: var(--text);
   border-radius: 999px;
   padding: 8px 16px;
@@ -215,13 +248,13 @@ input{
   cursor: pointer;
   transition: background 150ms;
 }
-.shareBtn:hover { background: rgba(255,255,255,.14); }
+.shareBtn:hover { background: var(--share-btn-hover); }
 
 /* Hints panel (Optional style) */
 .hintPanel{
   margin-top:12px;
   border:1px solid var(--border);
-  background:rgba(255,255,255,.04);
+  background:var(--hint-panel-bg);
   border-radius:16px;
   padding:12px;
 }
@@ -237,7 +270,7 @@ input{
 .hintTitle{
   font-weight:700;
   font-size:12px;
-  color:rgba(255,255,255,.88);
+  color:var(--hint-title-color);
 }
 
 .hintSub{
@@ -257,7 +290,7 @@ input{
 .hintPill{
   border:1px solid var(--border);
   background:transparent;
-  color:rgba(255,255,255,.82);
+  color:var(--hint-chip-color);
   border-radius:999px;
   padding:8px 12px;
   cursor:pointer;
@@ -281,8 +314,8 @@ input{
   border:1px solid var(--border);
   border-radius:999px;
   padding:6px 10px;
-  color:rgba(255,255,255,.82);
-  background:rgba(255,255,255,.04);
+  color:var(--hint-chip-color);
+  background:var(--hint-chip-bg);
 }
 
 .hintChipMuted{
@@ -291,24 +324,17 @@ input{
 }
 
 
-/* Keep your existing logoWrap styles if already present.
-   If not, ensure these exist: */
-.logoWrap{
-  margin-top:10px;
+/* Theme toggle button */
+.themeToggle{
+  background:transparent;
   border:1px solid var(--border);
-  border-radius:14px;
-  padding:10px;
-  display:flex;
-  justify-content:center;
-  background:rgba(0,0,0,.10);
+  color:var(--muted);
+  border-radius:999px;
+  padding:4px 8px;
+  cursor:pointer;
+  font-size:14px;
+  line-height:1;
 }
-.logoWrap img{
-  width:72px;
-  height:72px;
-  object-fit:contain;
-  filter: blur(16px);
-  opacity:.95;
-  transition: filter 240ms ease, opacity 240ms ease;
-}
-.logoWrap img.stage2{ filter: blur(8px); }
-.logoWrap img.stage3{ filter: blur(0px); opacity: 1; }
+.themeToggle:hover{ color:var(--text); }
+
+body{ transition: background-color 180ms; }
