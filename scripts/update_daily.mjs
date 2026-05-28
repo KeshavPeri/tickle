@@ -2,7 +2,6 @@ import fs from "node:fs";
 import path from "node:path";
 
 const FINN_KEY = process.env.FINNHUB_KEY || "";
-const NEWS_KEY = process.env.NEWSAPI_KEY || "";
 
 // ---------- utils ----------
 function readJson(p){ return JSON.parse(fs.readFileSync(p, "utf8")); }
@@ -23,6 +22,13 @@ async function fetchJson(url, opts = {}){
   });
   if(!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
   return await res.json();
+}
+async function fetchText(url){
+  const res = await fetch(url, {
+    headers: { "User-Agent": "Mozilla/5.0 (compatible; tickle-bot/1.0)", "Accept": "*/*" }
+  });
+  if(!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+  return await res.text();
 }
 async function fetchBuffer(url){
   const res = await fetch(url, {
@@ -75,22 +81,37 @@ async function getFinnhubProfile(ticker){
   }
 }
 
-// ---------- News (optional) ----------
+// ---------- News via Google News RSS (free, no key) ----------
+function decodeHtml(s){
+  return s.replace(/&amp;/g,"&").replace(/&lt;/g,"<").replace(/&gt;/g,">")
+          .replace(/&#39;/g,"'").replace(/&quot;/g,'"').replace(/&#34;/g,'"');
+}
 async function getNews(ticker, companyName){
-  if(!NEWS_KEY) return [];
   try{
-    const q = encodeURIComponent(companyName || ticker);
-    const j = await fetchJson(
-      `https://newsapi.org/v2/everything?q=${q}&pageSize=3&sortBy=publishedAt&apiKey=${NEWS_KEY}`
-    );
-    const arts = Array.isArray(j.articles) ? j.articles : [];
-    return arts.slice(0,3).map(a => ({
-      headline: a.title || "",
-      source: a.source?.name || "",
-      when: (a.publishedAt || "").slice(0,10),
-      url: a.url || ""
-    }));
-  }catch{
+    const q = encodeURIComponent(`"${companyName}" stock`);
+    const url = `https://news.google.com/rss/search?q=${q}&hl=en-US&gl=US&ceid=US:en`;
+    const xml = await fetchText(url);
+
+    const items = [];
+    const itemRe = /<item>([\s\S]*?)<\/item>/g;
+    let m;
+    while((m = itemRe.exec(xml)) !== null && items.length < 3){
+      const block = m[1];
+      const title  = (/<title><!\[CDATA\[(.*?)\]\]><\/title>/.exec(block) ||
+                      /<title>(.*?)<\/title>/.exec(block))?.[1] || "";
+      const link   = (/<link>(.*?)<\/link>/.exec(block))?.[1] || "";
+      const pubDate= (/<pubDate>(.*?)<\/pubDate>/.exec(block))?.[1] || "";
+      const source = (/<source[^>]*>(.*?)<\/source>/.exec(block))?.[1] || "Google News";
+      if(title) items.push({
+        headline: decodeHtml(title),
+        source:   decodeHtml(source),
+        when:     pubDate ? new Date(pubDate).toISOString().slice(0,10) : "",
+        url:      link
+      });
+    }
+    return items;
+  }catch(e){
+    console.warn(`News fetch failed: ${e.message}`);
     return [];
   }
 }
@@ -168,6 +189,7 @@ async function main(){
   await cacheLogo(ticker, profile, stock);
 
   const news = await getNews(ticker, stock.name);
+  console.log(`  news: ${news.length} articles fetched`);
 
   const snap = {
     builtAt: new Date().toISOString(),

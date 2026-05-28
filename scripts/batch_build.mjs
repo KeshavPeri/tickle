@@ -9,6 +9,13 @@ function writeJson(p, obj){
   fs.writeFileSync(p, JSON.stringify(obj, null, 2) + "\n", "utf8");
 }
 
+async function fetchText(url){
+  const res = await fetch(url, {
+    headers: { "User-Agent": "Mozilla/5.0 (compatible; tickle-bot/1.0)", "Accept": "*/*" }
+  });
+  if(!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+  return await res.text();
+}
 async function fetchJson(url){
   const res = await fetch(url, {
     headers: {
@@ -25,6 +32,38 @@ async function fetchBuffer(url){
   });
   if(!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
   return Buffer.from(await res.arrayBuffer());
+}
+
+// ---------- News via Google News RSS (free, no key) ----------
+function decodeHtml(s){
+  return s.replace(/&amp;/g,"&").replace(/&lt;/g,"<").replace(/&gt;/g,">")
+          .replace(/&#39;/g,"'").replace(/&quot;/g,'"').replace(/&#34;/g,'"');
+}
+async function getNews(companyName){
+  try{
+    const q = encodeURIComponent(`"${companyName}" stock`);
+    const xml = await fetchText(`https://news.google.com/rss/search?q=${q}&hl=en-US&gl=US&ceid=US:en`);
+    const items = [];
+    const itemRe = /<item>([\s\S]*?)<\/item>/g;
+    let m;
+    while((m = itemRe.exec(xml)) !== null && items.length < 3){
+      const block = m[1];
+      const title  = (/<title><!\[CDATA\[(.*?)\]\]><\/title>/.exec(block) ||
+                      /<title>(.*?)<\/title>/.exec(block))?.[1] || "";
+      const link   = (/<link>(.*?)<\/link>/.exec(block))?.[1] || "";
+      const pubDate= (/<pubDate>(.*?)<\/pubDate>/.exec(block))?.[1] || "";
+      const source = (/<source[^>]*>(.*?)<\/source>/.exec(block))?.[1] || "Google News";
+      if(title) items.push({
+        headline: decodeHtml(title),
+        source:   decodeHtml(source),
+        when:     pubDate ? new Date(pubDate).toISOString().slice(0,10) : "",
+        url:      link
+      });
+    }
+    return items;
+  }catch{
+    return [];
+  }
 }
 
 function last(arr){ return arr && arr.length ? arr[arr.length - 1] : 0; }
@@ -119,6 +158,8 @@ async function buildOne(stock){
   const profile = await getFinnhubProfile(ticker);
   await cacheLogo(ticker, profile, stock);
 
+  const topNews = await getNews(stock.name);
+
   const snap = {
     builtAt: new Date().toISOString(),
     builtDateUTC: todayKeyUTC(),
@@ -129,7 +170,7 @@ async function buildOne(stock){
     lastClose,
     oneYearReturn,
     marketCap,
-    topNews: [],
+    topNews,
     insight: `Tracking ${stock.name} (${ticker}).`
   };
 
