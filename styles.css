@@ -99,18 +99,6 @@ input{
   color:var(--text);
   cursor:pointer;
 }
-.hints{display:flex; justify-content:space-between; align-items:center; gap:10px; margin-top:10px}
-.hintLine{font-size:12px; color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
-.hintBtns{display:flex; gap:8px}
-.hintBtns button{
-  border:1px solid var(--border);
-  background:transparent;
-  color:var(--muted);
-  border-radius:999px;
-  padding:6px 10px;
-  cursor:pointer;
-  font-size:12px;
-}
 .notice{
   margin-top:10px;
   border:1px solid var(--border);

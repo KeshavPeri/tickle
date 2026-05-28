@@ -22,10 +22,9 @@ jobs:
           node-version: "20"
 
       - name: Run daily updater
+        timeout-minutes: 10
         env:
-          ALPHAVANTAGE_KEY: ${{ secrets.ALPHAVANTAGE_KEY }}
           FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
-          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: |
           node scripts/update_daily.mjs
 

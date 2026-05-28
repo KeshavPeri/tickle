@@ -10,11 +10,15 @@ let startedAt = null;
 let timerInt = null;
 let tf = "6m";
 let guesses = new Set();
+let gameWon = false;
 
 // snapshot cache so we don't refetch the same ticker
 const SNAP_CACHE = new Map();
 
 const $ = (id) => document.getElementById(id);
+
+function esc(s){ return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
+function isSafeUrl(u){ try{ const p=new URL(u).protocol; return p==="http:"||p==="https:"; }catch{ return false; } }
 
 // Cache-busting helper (helps with GitHub Pages caching)
 function withBust(url){
@@ -29,11 +33,6 @@ function normTf(x){
   if (t === "1m" || t === "1mo" || t === "1month" || t === "1-month") return "1m";
   if (t === "6m" || t === "6mo" || t === "6month" || t === "6-month") return "6m";
   if (t === "1y" || t === "1yr" || t === "1year" || t === "1-year") return "1y";
-  if (t === "1m" || t === "6m" || t === "1y") return t;
-  // handle common UI casing like "1M"
-  if (t === "1m") return "1m";
-  if (t === "6m") return "6m";
-  if (t === "1y") return "1y";
   return "6m";
 }
 
@@ -59,11 +58,7 @@ async function loadSnapshot(ticker){
 }
 
 function todayKey(){
-  const d = new Date();
-  const yyyy = d.getFullYear();
-  const mm = String(d.getMonth()+1).padStart(2,"0");
-  const dd = String(d.getDate()).padStart(2,"0");
-  return `${yyyy}-${mm}-${dd}`;
+  return new Date().toISOString().slice(0,10);
 }
 
 function renderTickerBoxes(n){
@@ -140,7 +135,7 @@ function setNotice(msg){
 
 function updateMeta(){
   const el = $("attempts");
-  if (el) el.textContent = `${tries} / 6`;
+  if (el) el.textContent = `${tries} / ${maxTries}`;
 }
 
 function startTimer(){
@@ -365,12 +360,7 @@ function renderClues(latest){
  */
 function setHintChip(id, text){
   const out = $("hintOut");
-  const hintLine = $("hintLine");
-
-  if (!out){
-    if (hintLine) hintLine.textContent = text;
-    return;
-  }
+  if (!out) return;
 
   const def = $("hintDefault");
   if (def) def.remove();
@@ -383,7 +373,6 @@ function setHintChip(id, text){
     out.appendChild(chip);
   }
   chip.textContent = text;
-  if (hintLine) hintLine.textContent = text;
 }
 
 function addHistoryRow(stock){
@@ -427,11 +416,12 @@ function buildShareText(){
       return "⬛";
     }).join("");
   });
-  const result = tries <= maxTries && rows.length > 0 ? `${tries}/${maxTries}` : "X/6";
+  const result = gameWon ? `${tries}/${maxTries}` : "X/6";
   return `TICKle ${result}\n${lines.join("\n")}`;
 }
 
 function reveal(win){
+  gameWon = win;
   stopTimer();
   const el = $("reveal");
   if (!el) return;
@@ -445,11 +435,11 @@ function reveal(win){
   ].join("");
 
   const newsItems = (SNAP?.topNews || []).slice(0, 3).map(n => {
-    const headline = n.headline || "";
-    const meta = [n.source, n.when].filter(Boolean).join(" • ");
-    if(n.url){
+    const headline = esc(n.headline || "");
+    const meta = esc([n.source, n.when].filter(Boolean).join(" • "));
+    if(n.url && isSafeUrl(n.url)){
       return `<div style="margin-bottom:8px;">
-        <a href="${n.url}" target="_blank" rel="noopener noreferrer"
+        <a href="${esc(n.url)}" target="_blank" rel="noopener noreferrer"
            style="font-size:12px;color:var(--text);text-decoration:underline;text-underline-offset:2px;">${headline}</a>
         <div style="font-size:11px;color:var(--muted);margin-top:2px;">${meta}</div>
       </div>`;
@@ -461,14 +451,14 @@ function reveal(win){
   }).join("");
 
   const winBanner = win
-    ? `<div class="winBanner">🎉 Correct! Solved in ${tries} ${tries === 1 ? "try" : "tries"}.</div>`
+    ? `<div class="winBanner">&#127881; Correct! Solved in ${tries} ${tries === 1 ? "try" : "tries"}.</div>`
     : `<div class="loseBanner">Out of guesses.</div>`;
 
   el.style.display = "block";
   el.innerHTML = `
     ${winBanner}
     <div style="color:var(--muted);font-size:12px;margin-bottom:10px;">
-      Answer: <strong style="color:var(--text);">${ANSWER.ticker}</strong> — ${ANSWER.name}
+      Answer: <strong style="color:var(--text);">${esc(ANSWER.ticker)}</strong> — ${esc(ANSWER.name)}
     </div>
     <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px;">${statPills}</div>
     ${newsItems ? `

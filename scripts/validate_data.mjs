@@ -41,12 +41,16 @@ function main(){
       continue;
     }
     const snap = readJson(p);
-    assert(Array.isArray(snap["6m"]), `Snapshot ${t} missing 6m array`);
-    assert(typeof snap.lastClose === "number", `Snapshot ${t} missing lastClose`);
+    assert(Array.isArray(snap["1m"]) && snap["1m"].length > 0, `Snapshot ${t} missing/empty 1m array`);
+    assert(Array.isArray(snap["6m"]) && snap["6m"].length > 0, `Snapshot ${t} missing/empty 6m array`);
+    assert(Array.isArray(snap["1y"]) && snap["1y"].length > 0, `Snapshot ${t} missing/empty 1y array`);
+    assert(typeof snap.lastClose === "number" && Number.isFinite(snap.lastClose), `Snapshot ${t} missing lastClose`);
+    assert(typeof snap.oneYearReturn === "number" && Number.isFinite(snap.oneYearReturn), `Snapshot ${t} missing oneYearReturn`);
   }
 
   if(missing > 0){
     console.warn(`Validation: ${missing}/${checked} past-date snapshots missing — batch build needed.`);
+    process.exitCode = 1;
   } else {
     console.log(`Validation OK (${checked} snapshots verified, future dates skipped)`);
   }

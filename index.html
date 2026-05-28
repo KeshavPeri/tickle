@@ -4,6 +4,10 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>TICKle</title>
+  <meta name="description" content="Guess today's mystery stock from its price chart and clues. A daily Wordle-style game for investors." />
+  <meta property="og:title" content="TICKle" />
+  <meta property="og:description" content="Guess today's mystery stock from its price chart and clues." />
+  <meta property="og:type" content="website" />
   <link rel="stylesheet" href="./styles.css" />
   <script>if(localStorage.getItem("tickle-theme")==="light")document.documentElement.classList.add("light");</script>
 </head>
@@ -51,25 +55,23 @@
       </div>
       <div class="grid" id="cluesGrid"></div>
 
-      <!-- Hints (moved below Clues) -->
-<div class="hintPanel">
-  <div class="hintHeader">
-    <div class="hintTitle">Hints</div>
-    <div class="hintOut" id="hintOut">
-  <span class="hintChip hintChipMuted" id="hintDefault">No hints used.</span>
-</div>
-  </div>
-
-  <div class="hintActions">
-    <button class="hintPill" id="hintSector">Sector</button>
-    <button class="hintPill" id="hintIndustry">Industry</button>
-    <button class="hintPill" id="hintLogo">Logo</button>
-  </div>
-
-  <div class="logoWrap" id="logoWrap" style="display:none;">
-    <img id="logoImg" alt="Company logo" />
-  </div>
-</div>
+      <!-- Hints -->
+      <div class="hintPanel">
+        <div class="hintHeader">
+          <div class="hintTitle">Hints</div>
+          <div class="hintOut" id="hintOut">
+            <span class="hintChip hintChipMuted" id="hintDefault">No hints used.</span>
+          </div>
+        </div>
+        <div class="hintActions">
+          <button class="hintPill" id="hintSector">Sector</button>
+          <button class="hintPill" id="hintIndustry">Industry</button>
+          <button class="hintPill" id="hintLogo">Logo</button>
+        </div>
+        <div class="logoWrap" id="logoWrap" style="display:none;">
+          <img id="logoImg" alt="Company logo" />
+        </div>
+      </div>
 
 
       <div class="reveal" id="reveal" style="display:none;"></div>

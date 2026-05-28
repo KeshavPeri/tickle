@@ -59,7 +59,7 @@ async function getYahooFinanceCloses(ticker){
   // Filter out null/NaN values Yahoo sometimes returns for non-trading days
   const closes = rawCloses.map(Number).filter(v => Number.isFinite(v) && v > 0);
 
-  if(closes.length < 10) throw new Error(`Yahoo Finance: too few closes for ${ticker} (got ${closes.length})`);
+  if(closes.length < 50) throw new Error(`Yahoo Finance: too few closes for ${ticker} (got ${closes.length})`);
 
   // Extract market cap from meta
   const marketCap = result.meta?.marketCap ?? null;
