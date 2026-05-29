@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-28T05:49:39.675Z",
-  "builtDateUTC": "2026-05-28",
+  "builtAt": "2026-05-29T05:50:36.064Z",
+  "builtDateUTC": "2026-05-29",
   "source": "yahoo-finance",
   "1m": [
-    60.56999969482422,
     58.209999084472656,
     56.93000030517578,
     57.779998779296875,
@@ -24,10 +23,10 @@
     62.310001373291016,
     61.9900016784668,
     64.36000061035156,
-    63.630001068115234
+    63.630001068115234,
+    65.87000274658203
   ],
   "6m": [
-    40.15999984741211,
     39,
     40,
     41.25,
@@ -158,10 +157,10 @@
     62.310001373291016,
     61.9900016784668,
     64.36000061035156,
-    63.630001068115234
+    63.630001068115234,
+    65.87000274658203
   ],
   "1y": [
-    38.88999938964844,
     39.029998779296875,
     38.47999954223633,
     40.150001525878906,
@@ -411,12 +410,19 @@
     62.310001373291016,
     61.9900016784668,
     64.36000061035156,
-    63.630001068115234
+    63.630001068115234,
+    65.87000274658203
   ],
-  "lastClose": 63.630001068115234,
-  "oneYearReturn": 63.6153305907533,
+  "lastClose": 65.87000274658203,
+  "oneYearReturn": 68.76762697087811,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Reassessing Freeport McMoRan (FCX) Valuation After A Strong 1 Year Return Attracts Renewed Investor Attention - Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcVF5R09nQy05bXdQaW5adHpxc3REYmhBX1hPZEl5Z0hRVkN5aWtkXzUzYXFtSUVCRGQ0M2hid1RiSGtsZEd0MXBXMDZzZktSaU1XMUdTQXNZdFFXMHRUSlhYa00wMFJEczlwazF2VGhwRWw4RnpqbTBnZFZ6SlMzaVB6YV9MMS1OX1Q4NklscFVTWEo1dnc?oc=5"
+    },
     {
       "headline": "Dig For A Shiny Return From Metals Miner Freeport-McMoRan With This Strategy - Investor's Business Daily",
       "source": "Investor's Business Daily",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnMtMnhrSmcyNlJzTEFUZ2l1TktjSGVOMUREMnluZ2pMR1lZRE1kVnM5NXFBa3lsaVRKZW1wNENyUERPdk9LejRxM0paTlRnek9fVjVtYVlraEVGSGhwQVJwenJ4R1JkdnZZZ2FKR3RjeE1nTkxxdWVkRUhuTkwwNUg0TC1YeDB0eVNFdWkxaUhpM3I1bGI5YjVSRHJsRnowRUNPM2RIRjNSQ0ktUEF5Qg?oc=5"
     },
     {
-      "headline": "Barclays Initiates Coverage of Freeport-McMoRan (FCX) with Overweight Rating - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-25",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmxOeVRJTk40N1BneVVvR25xS2JjR2VYa3g1bHBYRVZjd2JPNE1VTDhOU2tEN1JFeWJVTGI5cDlYUUtYVmkzSmt0NTRqWTY1Yl9MNlZsOFlMdy15ZWR5SGlxcW5WV2ZlVVpLM0ExamFuVnBfUnNsd1hWZ1U2cjR1U2RXNk52U09zc1lKM1dZMFdGQllvS01OVjF0RG92YU5fMGhRY1JEVXZyeHpKaGc?oc=5"
-    },
-    {
-      "headline": "Swedbank AB Sells 730,599 Shares of Freeport-McMoRan Inc. $FCX - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-05-25",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWg2Q01Oek9rWmFmYkx1TXBDTDlINXBYY0drVVdORVhmRGRIc2hKbnBPT2tyUU1rVVlOc2VqSVBTeThLb0VNcFZ1cHRqOHNYcDJUNklyUThjalZYWnR3M0V3ejVGYVNoLU5QeVJ5TGVBRVBheHN3RmNSSlNFazctT1ljYk4yc3NBczBuTFZlU0pQS2lEQk5xSmNqSXZidUVpbElRN0E0M3dTalQ1Vy1TdEZiTW02R2VtRG5teg?oc=5"
+      "headline": "Freeport-McMoRan Inc. (FCX) is attracting investor attention: Here is what you should know - MSN",
+      "source": "MSN",
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRWNqRHRMVkNydTJOQjRTcVpxV3dyVnp3OTA3YmdXcWVfeFgxWHEzV244WFVWRWZtZUNZamNrVnhTcHFQckRnOVhUNWNjOFdLTmh2MHJSekdaUVBZT016dWltTVlqUjRQVkt6V2d5OExKczFrQ3dORllDSnJYRHp2RHhkQUhMMWpXZzd1OXR0enJDaHJWSlFhVlNlellCY2MtVHVqay1PWEYzd2trRHc3bEpxeUMtTUxOU1VDbjhoNVptOEw5eHRpT2h3OTU5OWQ4NjVCcW1vdw?oc=5"
     }
   ],
   "insight": "Tracking Freeport-McMoRan (FCX)."

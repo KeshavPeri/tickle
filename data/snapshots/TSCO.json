@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-28T05:50:01.248Z",
-  "builtDateUTC": "2026-05-28",
+  "builtAt": "2026-05-29T05:51:02.029Z",
+  "builtDateUTC": "2026-05-29",
   "source": "yahoo-finance",
   "1m": [
-    35.66999816894531,
     35.59000015258789,
     34.77000045776367,
     35.099998474121094,
@@ -24,10 +23,10 @@
     31.670000076293945,
     31.6200008392334,
     29.799999237060547,
-    30.670000076293945
+    30.670000076293945,
+    31.3700008392334
   ],
   "6m": [
-    55.41999816894531,
     53.68000030517578,
     53.529998779296875,
     52.540000915527344,
@@ -158,10 +157,10 @@
     31.670000076293945,
     31.6200008392334,
     29.799999237060547,
-    30.670000076293945
+    30.670000076293945,
+    31.3700008392334
   ],
   "1y": [
-    49.060001373291016,
     48.970001220703125,
     48.400001525878906,
     47.86000061035156,
@@ -411,12 +410,19 @@
     31.670000076293945,
     31.6200008392334,
     29.799999237060547,
-    30.670000076293945
+    30.670000076293945,
+    31.3700008392334
   ],
-  "lastClose": 30.670000076293945,
-  "oneYearReturn": -37.484714191241046,
+  "lastClose": 31.3700008392334,
+  "oneYearReturn": -35.94037153919643,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Tractor Supply stock looks for traction - Nashville Post",
+      "source": "Nashville Post",
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOTRSa2NNRGpBY05DWUJiSFBvTVpFZ3VHU2xwRE9mXzRBUEduRlE4ODU3NWpsY19tdm9xS0gyZVVrZ3VNWW9UR19MYzZZcEJ0ckdHV3dzZjlhbk8xM3dGMDVzR1VyMUNLTG5UZThNY0YyZjZmOUtLRkxYbGRhSk1KYjRGQ3M2VzVRR2lSTjBrVGI4cUk3MTFicmNNVEFMcWo1WkNfTkpPUHhUTFkxcTUyYXpCdWYwQ3p6aUFwejJVM3Y5YUZDMjVfY2IyejU4ODgyeVRkSlQ2Zw?oc=5"
+    },
     {
       "headline": "Tractor Supply Stock Testing Price Floor – Buy Now? - Trefis",
       "source": "Trefis",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkxBR290aE9BUno1dzh3NXRMeXFqd2Q1dzA0dFlWZzBhbEJSMUlCZG1vTWpRbFNvQ0FlUzdLOFhVMlE3TTd0WkwyWlNPY3c5dFByUlR0bXVoWnNKY2g0SVp3NUVseG9yZ1NqQVNIejZMbnlrYVhYVy0yOUxnampSRDdXczAxYUhrVTFRVmVKM01SUmt0eldINk9MRHpLOWpkbUlOeFJSa2JhRXdHemc?oc=5"
     },
     {
-      "headline": "King Luther Capital Management Corp Grows Stock Holdings in Tractor Supply Company $TSCO - MarketBeat",
+      "headline": "Tractor Supply Company $TSCO Stock Holdings Reduced by Legal & General Group Plc - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMHA0TGdCN0I3OWNqbDN6TjU5WExsLV9QRGFRS0ZQNEtQZTdOYWZjWWU5UFFtaWJnWXNva29RZEZzdnZKUmQzZGJQQW40VXhDcXkwbXBGR2d5Vy1LSUpBYkdPVlFhVEdnZjE1VGdWLVU4b09EUXZwc3Z5NzRYbDMya3hvclZudmQ4SW1jWGs1VllEM3dCbU8wNk0wdExsdk1PRjVLY1dIUlFoTTUxXzZHWGx4UEdWcWxEQnVXMXlRLVdyajllVV9EVDBud2tkUHpBNzVrek85RjZLeW8tNUdxRVF3?oc=5"
-    },
-    {
-      "headline": "Tractor Supply Company Raises Dividend; Expands Its Board of Directors With Appointment of Sonia Syngal - Tractor Supply",
-      "source": "Tractor Supply",
-      "when": "2026-02-11",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOdGdzSWN5MXpIS0dWQWRoYUNLemtYS2dNNzluckptem45MGhZSEx3dk4tOS1FQ3JhNjVmM3hobzhiemEwTWUzVVhEVF95ejJTd2pvVDhWMTJXdndoUUZCV3ZrV2loR1RlVTBOZ095U0UxV2IwYUQtTGEyLVFJSXhMTks1bzFMUUdiNjFzbVhuZ0JseTdJMUprSks0LWZNc0ZqQU94MzBEazNRV2ZPQTcxWHlSeWZJZ1lMcm4tb1VmRWtJQlZ4VERUZXB0VjFVNzQ0NXJES19XZFhjeV9rNUpyZTA3dGVOdjVIQVRBX1kwUWR0ZXp5R3E5d2NBVXlUX09WSXhtUVp0cE13SFVvUWlLNG9zLU5vOE92Vi1nZGR4dGJXa0lMSW5zTQ?oc=5"
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObW41Nkc5akJLbHhMVjBEWEpTdENOcV9hbG04dkh4ZG0wNTRZLUJNM19pOXBKZmNFeUR2VVNhUHJ3Ui15TExOVmZxZGpUZWxBTGs4REJqemFzOG54WnRES09BSm01elNLZ3FHclNleXRMMlhPNDFfeWJiVkZYQkljN0s0UHFJdWpwbkZsQXp4RUhRdGgyMlVYcGlEeTJZNmFTaEROU0p4djEtQjV6VEN2M05taDB4V0pTaktlM0tmc0liYUw5Umdodzh3ck5FMFdXWWRoeA?oc=5"
     }
   ],
   "insight": "Tracking Tractor Supply (TSCO)."

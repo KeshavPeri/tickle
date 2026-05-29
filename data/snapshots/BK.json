@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-28T05:49:25.582Z",
-  "builtDateUTC": "2026-05-28",
+  "builtAt": "2026-05-29T05:50:18.620Z",
+  "builtDateUTC": "2026-05-29",
   "source": "yahoo-finance",
   "1m": [
-    134.47000122070312,
     133.5399932861328,
     132.27000427246094,
     134.3699951171875,
@@ -24,10 +23,10 @@
     138.97999572753906,
     139.14999389648438,
     141.0500030517578,
-    139.74000549316406
+    139.74000549316406,
+    140.55999755859375
   ],
   "6m": [
-    110.4800033569336,
     106.7699966430664,
     107.5,
     107.51000213623047,
@@ -158,10 +157,10 @@
     138.97999572753906,
     139.14999389648438,
     141.0500030517578,
-    139.74000549316406
+    139.74000549316406,
+    140.55999755859375
   ],
   "1y": [
-    88.80000305175781,
     89.06999969482422,
     88.61000061035156,
     88.9800033569336,
@@ -411,18 +410,13 @@
     138.97999572753906,
     139.14999389648438,
     141.0500030517578,
-    139.74000549316406
+    139.74000549316406,
+    140.55999755859375
   ],
-  "lastClose": 139.74000549316406,
-  "oneYearReturn": 57.364865642758424,
+  "lastClose": 140.55999755859375,
+  "oneYearReturn": 57.80846305174241,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "BNY Mellon Municipal Bond Closed-End Funds Declare Distributions - Business Wire",
-      "source": "Business Wire",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUtfY212emJKVnlMa1FsUDZib3Y1R01raVpIa1Zkak5CQVRhV1Z1emJNWDhEY1hudFVtRi1LYmNhOGttVVVXSmdLa0dybVlZZ29KbXdEWjRmcmVuWWF2VE9pZWtEQlR1YkdZamFJeTFrTDFCWkc2aDZxVFJoTUtYSVF5Wk5QY1lyRXdEeVNQOUNKTm1GR0thci1EVVJBVHdHZmZua0dCcTJIdGZSNU5iZV9Td3hHT0w5QUd0dXd3?oc=5"
-    },
     {
       "headline": "Who Owns Bank of New York Mellon? - The Motley Fool",
       "source": "The Motley Fool",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRERzRU9Wb2JnM25lTllsRmdHS280UFBNQkxGMkZFRkpiVjA1NVFfVkhIM0JTOGdHUko1YTdPZEh6R1pSQk16blp5UDR6c09GVUowVlVORWdwMmFxRXFRdWpjRFF1bkxxVjFuVk5fYUpJMjljcVA2X3VMYVFsZXI1YVphcUFqZGFwVl95LWhB?oc=5"
     },
     {
-      "headline": "Press Release: BNY Mellon Municipal Bond Closed-End Funds Declare Distributions - Moomoo",
-      "source": "Moomoo",
+      "headline": "BNY Mellon Municipal Bond Closed-End Funds Declare Distributions - Business Wire",
+      "source": "Business Wire",
       "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNkNPUTMwR1pjTWxjQ0Q2MXhZeFdvUUczWEtrX3hxYTQ2ck9ZNG52UW5oZldvTjBUSThiSUV2c3psdXdBQlRxd0RFR25UcWdzWDE0OTZ2M3NJUTRwV0ZmUmFtZDlRLU9oVzRGdnZLcU9OT0NmX0hyOUE0cWVKXzNVWUVzRnVVM0t6M29KWGJMdzJtT3dtYXl3em5xTVI0RUY0Z2MwMHVOQVdLbU1KdUw4bWNSNVdnQ2FUTWIxa0pVNFJxUktZMkxrZXVBSTdma2U2VWZ0V3JvaGY?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUtfY212emJKVnlMa1FsUDZib3Y1R01raVpIa1Zkak5CQVRhV1Z1emJNWDhEY1hudFVtRi1LYmNhOGttVVVXSmdLa0dybVlZZ29KbXdEWjRmcmVuWWF2VE9pZWtEQlR1YkdZamFJeTFrTDFCWkc2aDZxVFJoTUtYSVF5Wk5QY1lyRXdEeVNQOUNKTm1GR0thci1EVVJBVHdHZmZua0dCcTJIdGZSNU5iZV9Td3hHT0w5QUd0dXd3?oc=5"
+    },
+    {
+      "headline": "BNY Mellon Small Cap Value Fund Q1 2026 Commentary (RUDAX) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ1EtTGhwbnpTMVFXV1otRlFha2l1WTN6TjhRalZZYVVwY19xV1JXSldNbzczdW5odmg3Y1hhSHNnMmZySnBIV3BIbkltLU1ZTjZ6UXMxX201SXdrWDhCTzAzSDFudEpZam1LQUZaT0lUUFl6b1BFbFEyX3ZESG1xNEVHV09ybURLWmxMSGJnRHpWZkMzeGc?oc=5"
     }
   ],
   "insight": "Tracking BNY Mellon (BK)."

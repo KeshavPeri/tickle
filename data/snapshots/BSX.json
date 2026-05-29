@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-28T05:49:26.632Z",
-  "builtDateUTC": "2026-05-28",
+  "builtAt": "2026-05-29T05:50:19.893Z",
+  "builtDateUTC": "2026-05-29",
   "source": "yahoo-finance",
   "1m": [
-    59.95000076293945,
     58.45000076293945,
     57.150001525878906,
     57.61000061035156,
@@ -24,10 +23,10 @@
     57.150001525878906,
     57.779998779296875,
     57.63999938964844,
-    50.459999084472656
+    50.459999084472656,
+    49.11000061035156
   ],
   "6m": [
-    102.69000244140625,
     101.76000213623047,
     99.22000122070312,
     97.01000213623047,
@@ -158,10 +157,10 @@
     57.150001525878906,
     57.779998779296875,
     57.63999938964844,
-    50.459999084472656
+    50.459999084472656,
+    49.11000061035156
   ],
   "1y": [
-    104.51000213623047,
     104.5,
     105.26000213623047,
     104.16999816894531,
@@ -411,18 +410,13 @@
     57.150001525878906,
     57.779998779296875,
     57.63999938964844,
-    50.459999084472656
+    50.459999084472656,
+    49.11000061035156
   ],
-  "lastClose": 50.459999084472656,
-  "oneYearReturn": -51.717540854417706,
+  "lastClose": 49.11000061035156,
+  "oneYearReturn": -53.00478410492674,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Stock Market Today, May 27: Boston Scientific Plunges After Reiterating Underwhelming Full Year Growth Guidance - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN2thOUQ5Z2kxcTZVS1VsbXBWeVJDSVgyWDFUQWVmblBwaE5JelhvcHp4aHViR01tdjA5R1pkRXpkNklwMWo3eE1IRjVnTTU4Sk56SS14ZXdQMXliLUNTZnpQV0NkbExRWWR5bkEtNnpoX3YteFhyd0JIZk50X18tVERURHg2R1N0ZTdtR19vZDFFc0tT?oc=5"
-    },
     {
       "headline": "Boston Scientific Is the Worst Performing S&P 500 Stock. Here’s Why. - Barron's",
       "source": "Barron's",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QQWpFM1J5SFFyZmpsTjQwSklWMmYtYUdVRTJPNkJmWEZiN01WSUE1ZVQ0OEEzY0E3U2ZYdEtPYUIxazRTbGp4dGJxMFdjS0VaMmJxSm1xaWtOX3owOTJ0S3NkXy1fTzktcWEyZnl6U0F0RTI5dENwZnRyVnhUcnc?oc=5"
     },
     {
-      "headline": "Boston Scientific hits two-year low after flagging weaker demand for heart device - Reuters",
-      "source": "Reuters",
+      "headline": "Boston Scientific Is Betting $1.5 Billion on a Massive Market -- and Wall Street Is Paying Attention - The Motley Fool",
+      "source": "The Motley Fool",
       "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQWNFQXV2ZVBOcGt3VlpDTFRUYnFoeWxQVEJVdkJWanVkeXl0SERVYXNpS0xkWmNlYmdvYjFiRWtSSUNrNUotQWhiQ2pWa2RzcTFYcVFtNWJDSUUzT1N5WDU3R0dTT2tQTmdIbmlhN0J0UlZQMjY1LWd0ZTZYMVZBZE9KYzZaZXRSUWljVG9CNXFxbzBScTJIZkRWZ0V2aW12ci1zOXRieFlkOEF5UzY4UXpMLTllWXFoMmszNWlidmdwMjRZU2htVU5TSzMtcHpCQnA0M3FyWEVmZl9aX1FOWXRn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmxhSF93UjNHOWlHZ2w5R0JuWGM3YU9BYUZHeGNrWWE2Tm84aE05ajdXeWtBb2JQX3drZ20yeUtTVTdEdjJKbkxSS0FuczdnZzQ0QW03LUd5eVJUZk44QTFyS2xOaWVsX0lWeERHQTZ6eVlZWjJ3b0o5LUtLRTVHUlRnUmZ0ak4tRXpKMjZMSEhYWlZTNzI1cw?oc=5"
+    },
+    {
+      "headline": "Boston Scientific Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYkJyTWRraFctOGxSSHY3a2FsNld3QnJUTjdkcUxzSFBfMGRTUVpxNFZWZ25Vbmxla1M3MnZMN1pWQWpSM1Q1VXFnYnd0RWhzaHFaMzhlazhfSFBSZndqNmRmSkhUUnZnRzFPeWtMNElURWNVU3hRUmttbzlTZENFRW0waW1abi1veGlxdTZHYnAyYVNtYjVKU204eDVNUm5lR2t0UE5DSVYzTWVOa3Jha0ZQaWd1SDFTUmhkZmVYTkl2RThwbnlCVXA1bWtEU1NMd2pNTFZVaEg?oc=5"
     }
   ],
   "insight": "Tracking Boston Scientific (BSX)."

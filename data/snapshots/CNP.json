@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-28T05:49:30.141Z",
-  "builtDateUTC": "2026-05-28",
+  "builtAt": "2026-05-29T05:50:24.109Z",
+  "builtDateUTC": "2026-05-29",
   "source": "yahoo-finance",
   "1m": [
-    42.88999938964844,
     43.130001068115234,
     42.81999969482422,
     43.650001525878906,
@@ -24,10 +23,10 @@
     42.470001220703125,
     42.83000183105469,
     42.93000030517578,
-    43.06999969482422
+    43.06999969482422,
+    42.220001220703125
   ],
   "6m": [
-    39.7400016784668,
     40.18000030517578,
     39.9900016784668,
     39.61000061035156,
@@ -158,10 +157,10 @@
     42.470001220703125,
     42.83000183105469,
     42.93000030517578,
-    43.06999969482422
+    43.06999969482422,
+    42.220001220703125
   ],
   "1y": [
-    37.18000030517578,
     37.11000061035156,
     37.2400016784668,
     37.45000076293945,
@@ -411,12 +410,19 @@
     42.470001220703125,
     42.83000183105469,
     42.93000030517578,
-    43.06999969482422
+    43.06999969482422,
+    42.220001220703125
   ],
-  "lastClose": 43.06999969482422,
-  "oneYearReturn": 15.841848685591586,
+  "lastClose": 42.220001220703125,
+  "oneYearReturn": 13.769874767736233,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Did CenterPoint’s Expanded ATM Equity Program and Shelf Filing Just Recast CNP’s Capital Structure Narrative? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbGZEeXlXd3lsWjNyWHhFSVhldE13Y0E4dWxoX3k4eUNLXy15dXlzaUVOXzQ3aVZnczZBVmZWNm0wODM4aEQzYm95enpHOXpuM0xfSm55MXQ4T0tHa1F4ZUVVQ19fc0pqajBuUURKUm02eC1GYlpkS2cxa0NkWWp3bmVQUDg1UUFZTEtXRk9mbWpKc3RWN0Y4UHpOTk9Yc0Y1OVlnSE5xNFNRTHdLT2FtdmhGbG9LQTg3amdWTDV2MHN3ZHpVamtXVG5WZ0VrZkw1YlN4N0V30gHWAUFVX3lxTE1sZkR5eVd3eWxaM3JYeEVJWGV0TXdjQTh1bGhfeTh5Q0tfLXl1eXNpRU5fNDdpVmdzNkFWZlY2bTA4MzhoRDNib3l6ekc5em4zTF9KbnkxdDhPS0drUXhlRVVDX19zSmpqMG5RREpSbTZ4LUZiWmRLZzFrQ2RZanduZVBQODVRQVlMS1dGT2ZtakpzdFY3RjhQek5OT1hzRjU5WWdITnE0U1FMd0tPYW12aEZsb0tBODdqZ1ZMNXYwc3dkelVqa1dUblZnRWtmTDViU3g3RXc?oc=5"
+    },
     {
       "headline": "Is Wall Street Bullish or Bearish on CenterPoint Energy Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNFNPbTVjQVZzbFYwbER2LTFMR2NER2dHa2tjQUFjR25VVWdYYUhBdVMwUTdrSm9LbWJZc3FfMF9DOS1fa3RER1lvSkdYdFgxS3RDRS1lVUY5b0Myd2hwbEtHUFM4SWo3bzhackVxbDlLcDRwMGJVc3FLY0dOa3JoYkxYSm9LVDRiejVhM19R?oc=5"
     },
     {
-      "headline": "A Look At CenterPoint Energy (CNP) Valuation After Its US$500 Million Equity Offering And New Shelf Registration - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-05-23",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdlpnTGlPcWpmbFh1Rk94dGJoeGpybUJvT0tnMzl6d09TckY0NVRuRmNFeDZJYWNvQkVkNUdfNnBQVFBrZlY0aTd1WXJic254US1zc3ZWRWwxRF9OdE9mdUl0bzBpMUFyTmUwVmVWVnhod3VXYnRWMVlZRXJKRmNFTDY2bWZmemJkaDl0NGc0SUQzM0wxSlgwbXNNZWpFSzR5Ui1jdlUwenE0eGFxcF90enhMS01NUDFEUEF2YndrcWkwYlhVYkJsRnNUS3hZSjln0gHWAUFVX3lxTE1xeEt1d250TnJrRlJraDZtUHN4Vmh3TEl1aHFuMTliTHRyNkdDaV95UVpCSEM2MG95T3hxeUJncDRRcko0VGFENXBJOHZSN2s5WHg2amYySzZaMFhsaVdfSkU2UHY5VjlMUnpiUTNYMDhnZW91ekt5aHktUW9EaGJERXVTc2VsTGZkWGMwN01FaEwtcy1EdnVhNTQwYURVNEF1ZmxkU05FR09xZVJBdkdHV3NRWDRobFhESU13WldOQ3lXSXU0R0RqRjdsTzdwWEYycjJ3T1E?oc=5"
-    },
-    {
-      "headline": "CenterPoint Energy Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-05-21",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRWRJbVA3Rmo3WGh6YXNVSWdkd0RQY0tMSktCalA4YXJrOEppQXpON2tBUzdtTTdhVTdJZkZuSmFMQVVoeTZsdmlsNlJpeWRSMnZDYlFJb2RlNWk3Zi00cVp0ODg1anFCQ1VQbnY4Ti0xcDBpdDR0VzJ5eDlRejdHTVp5aUVsMzR1ejNjajRhQ1VPT05WMmY5N3JGNG4wd1Nud1llaEZHLWc2ZXBZRFF6cGowZ0FyV0NlSDJkUVJwdDJ5anZWY08wMVBIUjd1U2s?oc=5"
+      "headline": "Jefferies lowers CenterPoint Energy stock price target on financing view - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-05-13",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN01OdkVOak9EVnVNMDV4d1pPNFpfdlp3bHVfVEVkWHRqdEFQb0tDZ0o4c2p3ZGRhUGxfOHBkTXBfT0RWQnNVbmZ6elpWWGlxMUdhQTl0U3VxaHpObDlaNkZpRXU4QW5wak1ZTVdnamphT0trV0F5SnAtRU4xLTJyZExEMDduRlV6MGNfX0sxZy1UM3I4M3VIaU1GaVJyUkF1bHA0NWJKR1BTNXlEWjNwMHNUNmtRd2hlMUlCQk9wTy1DUDlwNW40eXUweXE?oc=5"
     }
   ],
   "insight": "Tracking CenterPoint Energy (CNP)."
