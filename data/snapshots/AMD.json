@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:50:13.695Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:11:50.791Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    323.2099914550781,
     337.1099853515625,
     354.489990234375,
     360.5400085449219,
@@ -24,10 +23,10 @@
     467.510009765625,
     503.8900146484375,
     495.5400085449219,
-    518.0900268554688
+    518.0900268554688,
+    516.0999755859375
   ],
   "6m": [
-    240.52000427246094,
     230.2899932861328,
     223.5500030517578,
     206.02000427246094,
@@ -158,10 +157,10 @@
     467.510009765625,
     503.8900146484375,
     495.5400085449219,
-    518.0900268554688
+    518.0900268554688,
+    516.0999755859375
   ],
   "1y": [
-    113.02999877929688,
     110.7300033569336,
     114.62999725341797,
     117.30999755859375,
@@ -411,29 +410,30 @@
     467.510009765625,
     503.8900146484375,
     495.5400085449219,
-    518.0900268554688
+    518.0900268554688,
+    516.0999755859375
   ],
-  "lastClose": 518.0900268554688,
-  "oneYearReturn": 358.365064541047,
+  "lastClose": 516.0999755859375,
+  "oneYearReturn": 366.08864800835465,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "AMD Stock Investors Just Got Fantastic News From Nvidia's CEO Jensen Huang - Yahoo Finance",
+      "headline": "AMD Stock At $500: AI Upside, With One Big Caveat - Trefis",
+      "source": "Trefis",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOXzRrMXdrM3lXMmVSbTFhckpLWm1yMGFrR3ZHV2JhZE44ZTlPNDhoQWsxRkw0clZ3M0tYSjJPU2JOWUZwaHNGMHJ3ajAydUN0YmxxLW0yS0doQ2tLa3dpRnFxV2I3NXBFczhIX3lqRUVzTDV6bFYwZU9yMkF6QWhCcUdiZ25fNXdiNXEtTThsNnhkUERZREJ0am96SG5PNGtlbUFKaW9NQzRJQQ?oc=5"
+    },
+    {
+      "headline": "Nvidia has a $200 Billion Warning for AMD and Intel Stock Investors - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGRwT09JeUVXc0R5RFhFS1p0MEFqQmQySGZjYVA3SmpoS2VBYWdkX25HNDBsMmJUaEEzS2NUZ2FreERiZWl3UDY3VktVY1ZldmxrcW9INzR6enBIWHhrcU8wSGs5TEI3N0U2QkFIajF5djRFbmt6Ymd6REJWbkxvTEVrQ01uU2Y3b291YXlaYzk1WGVkN2ZVYg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbWFMZmFSbFMzMDZJMEphSG9wNUtyVkZxQ0dPelF0eXJiVjBGQXA1XzYzdmRqbEFqdXZiUy1hWjdqT3ZDNm92VVpQWlVmR3dDcjdGQkl6Vm5QWnYzX2RhWWN5WTVsWmt4clRRYnUtZk0xdzdOeFREZ1lsc0JMQTZ3TE9RT3BBb1lxZDhwR2FrdUN0bVVCeXdicExSSQ?oc=5"
     },
     {
-      "headline": "Cathie Wood sells $16M of surging semiconductor stock | AMD - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1NLS29JYTc2YVF5QTNRTWlqMThDNmRLaWhFTlo3V1Nlam1BX2VvdlZDU2VkRHA2c3NZSTdRYUpVckV6Z3hBR1h4ZUxUaTVDLTlUZXpQb1NXSDJXcnYyT1NXSW1lRmQ2bG1zUmMxSDZld09JVWNWQjRkTDdON0s4YlpVQU02T3owQUxWSkswSUlkUUlHWUNKOHhLMzNfSDlx?oc=5"
-    },
-    {
-      "headline": "AMD Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBndUxfbjJEeVZYMi1wd2lPajZ3LTVYZkF0NVZ2Q1RuNDBPWkhGN184UlFoQ09FdmNBdl8wNFYtMURTNUU0Qm14aWVwcXFuV28?oc=5"
+      "headline": "U.S. Stocks Move | Some Semiconductor Stocks Rally; Advanced Micro Devices (AMD.US) Up Over 6% - Moomoo",
+      "source": "Moomoo",
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGNZUDgwWVo5bWlRMldQOFJTZkxaRHhjNjhCRHRzX2lkRVdDZnlBSTRxNUp2LUQ4Vk53SXRHNHVSSmFKR2F1aHN4Z29kM29icl9YWGNYQnU3bXpVVmJsTVU3RjlzN3BkczI0WS1Ndm55aW9LbUJPWlNpekFSRjFDcFdKdWY4SjlLaEpoaTduWDlEbHZCUUxkTlpRNi1xQVBWcTY3V1R6TDZMRUtwUUd5Sg?oc=5"
     }
   ],
   "insight": "Tracking Advanced Micro Devices (AMD)."

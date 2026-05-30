@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:50:55.470Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:12:25.775Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    149.1699981689453,
     146.4600067138672,
     147.08999633789062,
     147.25999450683594,
@@ -24,10 +23,10 @@
     144.44000244140625,
     142.9600067138672,
     147.49000549316406,
-    145.91000366210938
+    145.91000366210938,
+    143.55999755859375
   ],
   "6m": [
-    145.82000732421875,
     146.99000549316406,
     146.99000549316406,
     148.19000244140625,
@@ -158,10 +157,10 @@
     144.44000244140625,
     142.9600067138672,
     147.49000549316406,
-    145.91000366210938
+    145.91000366210938,
+    143.55999755859375
   ],
   "1y": [
-    168.55999755859375,
     169.88999938964844,
     167.77999877929688,
     166.85000610351562,
@@ -411,12 +410,19 @@
     144.44000244140625,
     142.9600067138672,
     147.49000549316406,
-    145.91000366210938
+    145.91000366210938,
+    143.55999755859375
   ],
-  "lastClose": 145.91000366210938,
-  "oneYearReturn": -13.437348258510106,
+  "lastClose": 143.55999755859375,
+  "oneYearReturn": -15.498264715785853,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is Procter & Gamble Stock Underperforming the S&P 500? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTHhwdHpiU0JZMmRvVExoaWU3RzVqNFhJeU9FN0RZR0ZmTm9nN0dOSnIxcTREYlVWSjFwNWFKT19SWHg3SENvUGFWWGp4TXRaR1gtYUFqZUFzSUxpUHlEQkhPLW83azQ2eXlLby1URHhhTFBNMEVsYlNYREZSLWY5YTlLTmtwdTZKd0Y2eTd3UTkycFlGaVdnd01hWEZTbVJVV3d2U0Z3?oc=5"
+    },
     {
       "headline": "Procter & Gamble Stock Is Down 14% From Its 52-Week High: Here’s the Path to $176 by 2028 - TIKR.com",
       "source": "TIKR.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXRmZ1NCVXdvV2pBUXoyTzRFYS1UN195V0J0bnpzbmxGX1l0NnhKMExMYjVRYmkxSEpxb0VyOHRiLXNHMEx0QnhEMlVHVVcwelBNeWdPc0VMQ1hKeE1ZSjhxSTlGYWpTaDI4VU5GeEVvT1JWUWM2Q3F6dXdqaklOa2pjd1AxblpWaERuZFZfLUJaa2tEUVBRNF9hbDdNNHBxcEdEeUNXVGRzaU85NXc?oc=5"
     },
     {
-      "headline": "What Are Wall Street Analysts' Target Price for Procter & Gamble Stock? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-05",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2U3UU5EbV9BOVBaMnBuMk1LeUxkRjNWOFZpR1FOb2FNc3BUYVBYNHRwd0xKWE5PdHoxQzJFc1k3dlVBUU1OUWM1RXE4Z3M4SGZIUHZjN1doQXdvdklIVi1kNzNBQlViR244YVNWU1RTUWpOVGJkbkJmRGE5US1pS2puczZVemNDQ0h5LWdFZUE3elJncUlVbDNxZERsZ2c?oc=5"
-    },
-    {
-      "headline": "Procter & Gamble Stock Jumps on Strong Quarterly Earnings Results - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-05-04",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa0M3aEV6ZW9OelN5TjJ2eDZEc2R0STJQQ1ZLZkNhV3ZiUS1jLWVnSkNFR1Y3S0tnM0p2ZDZTTUo0MENIb1ZsempaNC1mX0JFMWdDcWZvNmljV1NrcmlCVi1VZ09iSnlDUWN4OTdtNFJ6UUhGSTZ2YWpLOWpqUDBnYlVlRk9HbFB3Y256VXA3U2l2TE9ReWxueWtB?oc=5"
+      "headline": "Procter & Gamble stock (US7427181091): shares ease after recent gains as investors eye valuation met - AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRXRNMEg5ZGZXTjVrT3dIdmJiV0Q4S2VZUllNYXpKVjlGekNwNEFSTlF2RGdsS2RycG90S3lyOTk5R2tXbUZJdmxHMkVtOS1nTUx4NnNKVHlQdWF3cFpPR1F2QkRHc1ZvLWRzX2lJXzRCeE9mX056X2N1QkJQV3l5My1qRWQ1Sm94ejgyY0ZtcTQ2NmVESVo5eWRWYVVmcGxjXzJ5VGRaQXNUN3R0MFMta0NocGx2cnVnVnR4SDExUGxUUlhudkE?oc=5"
     }
   ],
   "insight": "Tracking Procter &amp; Gamble (PG)."

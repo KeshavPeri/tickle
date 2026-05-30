@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:50:46.498Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:12:18.267Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    28.790000915527344,
     28.93000030517578,
     29.399999618530273,
     29.09000015258789,
@@ -24,10 +23,10 @@
     29.1200008392334,
     29.549999237060547,
     30.100000381469727,
-    30.040000915527344
+    30.040000915527344,
+    30.030000686645508
   ],
   "6m": [
-    26.959999084472656,
     27.420000076293945,
     26.889999389648438,
     27.209999084472656,
@@ -158,10 +157,10 @@
     29.1200008392334,
     29.549999237060547,
     30.100000381469727,
-    30.040000915527344
+    30.040000915527344,
+    30.030000686645508
   ],
   "1y": [
-    33.45000076293945,
     33.66999816894531,
     33.25,
     32.81999969482422,
@@ -411,12 +410,19 @@
     29.1200008392334,
     29.549999237060547,
     30.100000381469727,
-    30.040000915527344
+    30.040000915527344,
+    30.030000686645508
   ],
-  "lastClose": 30.040000915527344,
-  "oneYearReturn": -10.194319191735804,
+  "lastClose": 30.030000686645508,
+  "oneYearReturn": -10.810803921150985,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Execution Risks Loom as Keurig Dr Pepper Integrates JDE Peets and Plans for a Separation - Morningstar",
+      "source": "Morningstar",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOFN6VHN3NFRRcmc3YnpnQUkwb2FPT01ONU5BVDhRVE1xdEJDbzNPdmo2dHBsN2VrTXkxRUFRLWhIV0Fvc2hLTXNIN1lqd1d4WkNRRmpvSjE0UkRWUkh6X0ZWa04yVUdpVUdwZDYtMUJtVzdjRlVXQmoxLUNQNVloUk5LVlJEVGoyYTVBUUFtUXNvRHZ5MUtZcy1IRElqd0tNak9CQm5YN2pPYk91SnB5YzVvWEkxWVcwUWpWTFBROUZRUzJNc01UbExMd3VxZkVvSVhJdDM5SQ?oc=5"
+    },
     {
       "headline": "Here’s Why Keurig Dr Pepper Stock is Undervalued at $29. The Coffee Drag Is Temporary - TIKR.com",
       "source": "TIKR.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWS0zV1NPWXdKVUVnRlJhd2VlbzIxSTZadV8xR29weDBfR05ZMGFDeTRPLVVKVUI3OTRUVDV4TnV1cV9fZHBiZHM0YlZQTEtMRGdqZDJsRkstMGhudVFOeGRVZXUwYTNValFFbHkwNW0yMFFwdUFZUW1kVS0zYXh0UmxWeW1XalB0bVNEaHE5Y3NkdWxicU5VZjlZRUw4WTBkQW83dWdJaVFjbTg3?oc=5"
     },
     {
-      "headline": "Keurig Dr Pepper, Inc $KDP Shares Sold by King Luther Capital Management Corp - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRGJKODkxby11Qm5XRER0WENTRV9jT1MwNTFGV21saHRQSldmYlhkUTFQWE9XTkdMRGM0M1laam5jcG5RSE5xaDdFVElCNFVyQWVURTJyUlptRXNydUVkTVBVT3VFNXpMdG51MThUUlh0UGpreWg4TktnV3haak12aUFlNXN5eXRzcUdYd1NNQlBVeVJpNlY0bENXSWpvSW9ZNmI1dFM2N3FJVDNXMWFMRXJIak53R0VsbFdvNlpUNDFLcUg1ZzJVRmowb291MnRFMGc?oc=5"
-    },
-    {
-      "headline": "Keurig Dr Pepper (KDP) Declares Dividend of $0.23 per Share - Insider Monkey",
-      "source": "Insider Monkey",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVlBWM2NDSXZ0SUljZ21RUzlqaEs2cGNLX1hkbkszcmJPeEpYN29iVzlvU0p4NGluS0NNS2xzdnljMzVYSkVSeC1Mc0ppQWhpLWNNaXhUenZjTUozVEFHQnhVdmdRN01mdWJQUldBR2JjZURqS29DNmF3RHFGQ2FYRkt3cThESkJObW1FWnFHdm5Gc1pQUXBvMklYLURxRnJrd1HSAaoBQVVfeXFMT3l1N0JuMDg4SU1YSjV0Z3UxaE5oUEVaUWxjaDJaN1hta0t4WmFFZllaWE9TaFljcnR2VkFGUHJpZWZJNmthdlg5bGxpdHlqUkVrUlZ3MVlNYlJ5WTktXzlZTzNabzAtZy1xcXBaZzlTOHZ3cWhWOV9xQ0s5bC1nTU5MNF82aUpFb2dQMWJXaUdEaHVOMDNGR2VHSFhRUUdCSEpENGN4amFvM1E?oc=5"
+      "headline": "How The Keurig Dr Pepper (KDP) Investment Story Is Shifting With Mixed Analyst Targets - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-17",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEdodFBvTHNDR0QxbnU4eU1oVWxYWlQ0S1FRZnYyYWxhS1JWT3FCbkw2aDZNZ1MwNnZya0hMOFZlNy1sTHUycmlxdHpPeHJhaTZMSVRTcGlTQk9HbFE1WWZLMW9jMkE2VUJTdkhzT19FUWpuWFZIM1FraWFSX2lQUGNLZzdPRVBkMjk4SGhjOS1ndHRnTUJBdS1QMXY?oc=5"
     }
   ],
   "insight": "Tracking Keurig Dr Pepper (KDP)."

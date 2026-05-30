@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:51:02.170Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:12:31.828Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    376.0199890136719,
     372.79998779296875,
     381.6300048828125,
     390.82000732421875,
@@ -24,10 +23,10 @@
     426.010009765625,
     433.5899963378906,
     440.3599853515625,
-    442.1000061035156
+    442.1000061035156,
+    435.7900085449219
   ],
   "6m": [
-    408.9200134277344,
     401.25,
     403.989990234375,
     395.2300109863281,
@@ -158,10 +157,10 @@
     426.010009765625,
     433.5899963378906,
     440.3599853515625,
-    442.1000061035156
+    442.1000061035156,
+    435.7900085449219
   ],
   "1y": [
-    358.42999267578125,
     346.4599914550781,
     342.69000244140625,
     344.2699890136719,
@@ -411,12 +410,19 @@
     426.010009765625,
     433.5899963378906,
     440.3599853515625,
-    442.1000061035156
+    442.1000061035156,
+    435.7900085449219
   ],
-  "lastClose": 442.1000061035156,
-  "oneYearReturn": 23.343474356906928,
+  "lastClose": 435.7900085449219,
+  "oneYearReturn": 25.78364581568901,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Here’s Why Tesla (TSLA) Fell Sharply in Q1 - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMlNMSXFIc3lIQUdndXYyNjRvelNlSF9CYmlkSXN3VHBMWXhhbXpPSDlFaXJKdTgxTHJCR3c2dFZ3WExsWXZYb3JoN3R1WXNZWjVrd1hYVzJnV2dCdTNMVWZqUUp3LTh3dGpWbTkwajVkTXRhcWlHSXBpLUtfb2FrVHpHOXZxOVZmeGkyZDdMZlNZQzdsdVJ3?oc=5"
+    },
     {
       "headline": "Will Tesla Stock Hit $600 This Year? - 24/7 Wall St.",
       "source": "24/7 Wall St.",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNWlRMXlQcU03V0RBV2Q0RlpScDkyRjBtVmRiLU9wRDd2cjFkRFA0NlNTV1plTmI1ajh2N3RJUmxRNkNtdTl5NXFGUWVVdlV4SUl1a3pwcFUxTExvWFMyWXRJQ0tuOUdKQzlwZ1hhVk9KRUhwNndxNWgxWFVKQV94cXNJTkE?oc=5"
     },
     {
-      "headline": "TSLA Stock Gains As Tesla EV Registrations Soar In Europe — Ross Gerber Says 'High Gas Prices Work Their Magic' - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUZncHRhVlRQVmhVdTQ0QnFscDJuT2d4amg0dVdLbDM5TjNsWGhiNEVCb1FtLWdJR2g2Nm5QZEpWdHVlMzZOSEhrVUZjQlY5MF9udlJ0a3VLZm1LMVI1RUdUeUNRVXR6WTNtNlBEQ1o1am9nYzBaeTUtWWxOS1g3aHJ0dkhqMUJqSW01ZTh2SThsTVp6?oc=5"
-    },
-    {
-      "headline": "Rivian Stock Flashes Death Cross As Tesla Model Y Rival Nears Launch - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1JQS0xiR25hc0U3dVRIQnJrcGVfREp6bG5sOVpnVDQ3T0NDeWo3emZ1NS1CU2JPVDFrWjhtQTVMWnUxUi1udmplRmtaaUQ1RUJtcXRaeWVxTWRWZHFJZXBzY3V1N1dwZ2MwVWstRHA5YktzVmxrRk1NWVFHeDdOV3RMS25uVWV3RkRSQnhRaXBfSHpfTllQM3pfSk8wcksxUDdlYnNVZkkzMC1RWmFNejV4ZWxZdTE2RVl6V1pBcWprRDNsT21QZHNWQ2dNQQ?oc=5"
+      "headline": "TSLA Stock Slips After-Hours: Waymo's Massive Robotaxi Lead Casts New Shadow Over Tesla's FSD Push - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMU9XUWdfQ05IbC1DcVdnTjVtcldQazlLT1AycXdaNUFYT2pXSmw3TDhSY3N0OHRwV1Qzc09NTTdMaE8zYmFxQ0g3SUxQVEswMXlmRS1sdmt4Q0NJazluWWR6ay0wdmZYOHAxN2JRX282YjNENjN3alp5d1Q2b21feFFFUXRtSWdPUjZWTjRTbE15QkxfS0JqcW1kSjRjY1p6eTVxTjJMSmxTeEJDNWVfd2ZrVQ?oc=5"
     }
   ],
   "insight": "Tracking Tesla, Inc. (TSLA)."

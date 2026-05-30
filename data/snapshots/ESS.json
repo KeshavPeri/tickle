@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:50:33.747Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:12:07.559Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    267.8800048828125,
     264.9200134277344,
     263.2099914550781,
     263.3500061035156,
@@ -24,10 +23,10 @@
     276.70001220703125,
     277.25,
     276.8299865722656,
-    276.44000244140625
+    276.44000244140625,
+    272.6400146484375
   ],
   "6m": [
-    252.2899932861328,
     253.5800018310547,
     254.6300048828125,
     255.72999572753906,
@@ -158,10 +157,10 @@
     276.70001220703125,
     277.25,
     276.8299865722656,
-    276.44000244140625
+    276.44000244140625,
+    272.6400146484375
   ],
   "1y": [
-    282.0799865722656,
     283.8999938964844,
     284.6600036621094,
     280.8299865722656,
@@ -411,29 +410,30 @@
     276.70001220703125,
     277.25,
     276.8299865722656,
-    276.44000244140625
+    276.44000244140625,
+    272.6400146484375
   ],
-  "lastClose": 276.44000244140625,
-  "oneYearReturn": -1.9994272544445393,
+  "lastClose": 272.6400146484375,
+  "oneYearReturn": -3.9661780521744174,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Essex Property (ESS) Trust Gets Higher Price Target from Truist - Yahoo Finance",
+      "headline": "Essex Property Trust Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa1lrT1hzcTNGS3g5LU04azBJc0NXTXVBNUlnQ1JKWGVkTk9XNnpiYTRKRG1NWmh6UE9OWUdNalZ0T2RPTU02UU95UVd3MFhFM2NwNWRCVUV2MElDNFlnMFllZWZHMU1vYWlVenhMQ0o5U2dfNDBJbjhKel82UU5wZ0F1czdreWs2eXFwSmdXM0pIQkpJb2lMeGxzWVlJYWwzUnZDT09qYVpnS25BVEFYckQ1OGVGMVJ1SzM3ZC1ZZVRwcVk5ZEJzTHFpTXpBTWxTcXVqMzdTRHI5amNHT1lyZnVaMVRhTEYzVXQ3X1RUdw?oc=5"
+    },
+    {
+      "headline": "Essex Property Trust to Present at The 2026 Nareit REITweek Conference - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYU9lQ1hqcmxqdUJLNE5kVW5VS1ZfUDh6N3VLVzRtR1B6b3pHQzBQT1ZiTkdGSHJBTGxmMFhxRm5fN1o4c01BSi1TZkZmbXlaN0x2SFRnNmlPaEN0OTMtUG5YRF96SGZfMlRrV0xBTTdnTldoVW9wVTd0enBEc21ITWhvek5WZ192NUFRQlVpREFQVWlVUWYwQ1hB?oc=5"
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWGMxblRwQ0hmOHRLLXE1TU1rOHBYbXR1ZTJCZU9Dd0xwZGp2Y0gtV29vYkRZRmNrdUlCNGF2RVZHRkZuR0FXV1N1Skl4Nzk4SnFISjBzVEJIal96TzMwa1k2VU5LN204MXd4VVN6U0dHX3JxMFBqYTUxZWI1OHJvNkJzY3NHc292am4zbGZKTGx2LU9MRzBkUWJURk1RQVk?oc=5"
     },
     {
-      "headline": "Is Strong Q1 FFO And Reaffirmed Guidance Altering The Investment Case For Essex (ESS)? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQamZDX0ZhMzJYbUJFaFRhdG9qem9rcktuZ3AzUFVrRkV3eXRhZElNeXBNMlFOdkQ4M0ExekhwaVlxeUNNQTFrVTdEejRXUHVoVTFwb2xCbTNVNGI4cDRjWXhYM2tKRWl4dExJVWhsRXNjYmI5Mmg0bVVnNDl6VktCR1gyUWNSMTE4UEZJQm5HdlZNNGdaeEJndk95X01OTFZSME5iUFJTd204OVJabTFoSHFjR0J0dDRVMVphV1I2bE14OHYwdjZhTUgzdktjeDdnSzdhdzF2LWpjcmPSAdsBQVVfeXFMUGpmQ19GYTMyWG1CRWhUYXRvanpva3JLbmdwM1BVa0ZFd3l0YWRJTXlwTTJRTnZEODNBMXpIcGlZcXlDTUExa1U3RHo0V1B1aFUxcG9sQm0zVTRiOHA0Y1l4WDNrSkVpeHRMSVVobEVzY2JiOTJoNG1VZzQ5elZLQkdYMlFjUjExOFBGSUJuR3ZWTTRnWnhCZ3ZPeV9NTkxWUjBOYlBSU3dtODlSWm0xaEhxY0dCdHQ0VTFaYVdSNmxNeDh2MHY2YU1IM3ZLY3g3Z0s3YXcxdi1qY3Jj?oc=5"
-    },
-    {
-      "headline": "Truist Financial Remains a Hold on Essex Property (ESS) - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ01jcWJPN3JFbU9YcHJQQmphaW5RemVrREZkZ0hSTHAwVkhyZDdLLVBTTVFNRGlTRkpRUDRMU1BnVGtYTi1PSVhURXZPcGtUaGxubk45bXItYjdpQU1IM0EtTlNmSWNlWW8zcVA0bG9xOG5tZTlnN0Q2YWx6ZnI3RFBrdHdnWXFwMDlEdlo4UUlCTk9iaTJBVUNQS0dYSlpIdUJkaWdkODd3cE41dGhLSndKa1RVRGU5emtqalhPN2d1TzZpY3VLUGFOZTVKY1R3eTlFdjRn?oc=5"
+      "headline": "Essex Property Trust (ESS) director sells 600 shares, holds over 2,800 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVhRclJKa0YzcjZvRy1MU19ya1JSUUtLNHlXTFdjb1pyR0R1cmwzc1hJR0ZKM2I4eWl1MkNXNkVSZFI2RkZBZ2lQWkZNbUlvbXZmM2hKTDV2MkxjSmx0Wm5tX25Fcm05alc3ZXFFNWRsNGNMcnRqWGIxMC1GUHA5Z1ZCbTVPMEpMTFhXT2FuaVowLVYxM0c2UHY2UUoxaHAwZDVBNTNZcjdqUUFiY0hjZWI2QXVSUGxs?oc=5"
     }
   ],
   "insight": "Tracking Essex Property Trust (ESS)."

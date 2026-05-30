@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:50:15.184Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:11:52.046Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    303.3500061035156,
     302.5,
     300.04998779296875,
     301.07000732421875,
@@ -24,10 +23,10 @@
     289.4700012207031,
     289.6000061035156,
     285.7300109863281,
-    283.6499938964844
+    283.6499938964844,
+    278.6199951171875
   ],
   "6m": [
-    253.08999633789062,
     252.16000366210938,
     253.25,
     251.08999633789062,
@@ -158,10 +157,10 @@
     289.4700012207031,
     289.6000061035156,
     285.7300109863281,
-    283.6499938964844
+    283.6499938964844,
+    278.6199951171875
   ],
   "1y": [
-    273.1700134277344,
     278.9100036621094,
     278.70001220703125,
     283.2900085449219,
@@ -411,29 +410,30 @@
     289.4700012207031,
     289.6000061035156,
     285.7300109863281,
-    283.6499938964844
+    283.6499938964844,
+    278.6199951171875
   ],
-  "lastClose": 283.6499938964844,
-  "oneYearReturn": 3.836431509171639,
+  "lastClose": 278.6199951171875,
+  "oneYearReturn": -0.10397925535622278,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Air Products & Chemicals Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRFhwbjRvbGtCYVlIVGV2TE5wU3BXVE5pbEN0eF9NeF96QllpWFJWZC1ZUEZOSVFkbXVfaUpuTmdvQnhwUzRVVFlWaFkzOFFwN2lfR1hoN25DbEVXejJObWZNNXk3MEh4QmtLaWZ3MDliUTRCWHhMTFNhMWQ5UGg2NEt6bmFlSFJnd3R4N2M1dl9KRVJaU3JFVlA5ZWNkOFl1ZWp5bVgxXzZFVTBfWFN1eG9hZ3d0T1dGS1FnQVBib2lHVEl0MTdhRUdiWTJmZ1VyV01XUmc2NkVSUQ?oc=5"
+    },
+    {
+      "headline": "APD Stock Price, Quote & Chart | AIR PRODUCTS & CHEMICALS INC (NYSE:APD) - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sQ0lxYmI1SUFEeUx2bHFzN3kxalI2MlRkZ1RGdFp4cmNPajdsR2pwN0ZBRXlobzhwT085QUdFUXRIdDh6U2J6NnktMEF0TFpaT2RIUld1N3ZEd2ZVN1E?oc=5"
+    },
     {
       "headline": "Do Wall Street Analysts Like Air Products and Chemicals Stock? - Barchart.com",
       "source": "Barchart.com",
       "when": "2026-05-25",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEVGVElrOXVqdnpjZ1dlU1BtbTBCTlYzVHMzRTBuUUpaWXJ0cmcza1NiZW9VeUlVVk1ObF9JenFnM0M2aC1XVHVnNkRBT0kxTXZYQWdjS0pKUzFucThZWFI1ak9qLXhFZUJjczFMNndkalFOenB4d2RMVEpwYy01TGM2RzdkZEpfVHF6VVFabTRQakJiUGduYWZhZkRTNWxNclVxRlBDcjI?oc=5"
-    },
-    {
-      "headline": "Why Air Products and Chemicals (APD) is a Great Dividend Stock Right Now - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-25",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSGdiaGZ6eUJoV3F4T2ZoNEVvWGtUSlhCcDR5Um56SVEtbzA2S1A4TVRTS2ROMVlBcWswQmp4XzBZY0xYTHc5UDIxRlRhUWxob0Z3TEV2amZsdzRseW9qQjIyUG93VGllZkhmRlJuelR6SzhTYTgzQVJZYkRQTHdPY3J5VnozcTFxamRpLWRuaTBLaTA5LXJWS0VsUQ?oc=5"
-    },
-    {
-      "headline": "Air Products & Chemicals Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSFZvRkF2dWtVV29PQVRDWmtSbnVyaFVwckkyVnMwVHY0cTJQS3JZMVRzdWdCemFFSnMwTGNTcVBqNS05ZFZIamJjTEtoNWtRUy1nSl9qaEdiY3llc3Azc2NGYlA5SVBZWEMyamJzc3F2RGFMQjFSazZkV3pWak8xZVBJVXl4X084SGpURmpyZ2JETjBGdkhWNzRqZmtwaFgxVldqOXpSNE1ua0x3eXBSM2RSeklya01RTlpmc2VVcXRONXdCOE45aXBUSkZ1Z0dzNkMwbTJ3RS1RcGgySHBWQzNmZ2RqUzZrcXNadHpxcVJwZw?oc=5"
     }
   ],
   "insight": "Tracking Air Products (APD)."

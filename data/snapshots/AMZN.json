@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:50:14.253Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:11:51.432Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    259.70001220703125,
     263.0400085449219,
     265.05999755859375,
     268.260009765625,
@@ -24,10 +23,10 @@
     266.32000732421875,
     265.2900085449219,
     271.8500061035156,
-    274
+    274,
+    270.6400146484375
   ],
   "6m": [
-    232.8699951171875,
     222.5500030517578,
     222.69000244140625,
     217.13999938964844,
@@ -158,10 +157,10 @@
     266.32000732421875,
     265.2900085449219,
     271.8500061035156,
-    274
+    274,
+    270.6400146484375
   ],
   "1y": [
-    205.6999969482422,
     205.00999450683594,
     206.64999389648438,
     205.7100067138672,
@@ -411,29 +410,30 @@
     266.32000732421875,
     265.2900085449219,
     271.8500061035156,
-    274
+    274,
+    270.6400146484375
   ],
-  "lastClose": 274,
-  "oneYearReturn": 33.20369667722616,
+  "lastClose": 270.6400146484375,
+  "oneYearReturn": 32.01308321551765,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Amazon's dividends & stock splits: What you need to know - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORmMycXdDYnJzR1g4cFBhTThGcjk5YU5pbHJsM1lVTkxMWkQtaUM2Q1l6ai13RHBad2hISWJmd1dZR1pHWHR6ZmdhTzdwd1dTUWQyc3hrcmt1VmVyUTF0YWhkLXJJb2V0RVNCU3lqSzlCalVEMFZfSEE3RUQwUVRJOHR0WTFJeWc?oc=5"
-    },
-    {
-      "headline": "Snowflake stock soars on growing enterprise AI demand, AWS partnership - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMHA4X012QnJ1eG5HQUYwSWsyT0NuN01lSkFiaENYWDV5VXJ2UW5KLTRuS2Z2NV9rdGU4M2RHdm1jRmxpa0hzZ01mb2JXOUZfM0JOTTdwQzJfVVh2MXRaYUIzZVU0M29Ga3NzMmxSYkdLSE1tLXg3MUFUU1NGRV9WbjZmU09EMGY0OGlZMUxvSVQyYlM5cW5rWjlkR1Y0XzNic2FyLUdtTVFyYkI4eC1VTEpfS3UyV1FfUkd6THMwMVQ3ajVO?oc=5"
-    },
     {
       "headline": "Snowflake rockets 36% on earnings beat and plan to spend $6 billion on Amazon cloud - CNBC",
       "source": "CNBC",
       "when": "2026-05-27",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUDZVajJlNjVmNGZMY0ljLUhJUG9UdHNkVTVRa1dzTnRWaEhQWlFaVHBOMUJacXV6WkQ2MUNnckNHSjNoOXhzQkVuVEMtdG93eU1Xc3FaUTlrSVFDYjlOYUZqelpNLVBkZlVyTlZTQWxXQVVKMUtZNC1OaWFtUHfSAYQBQVVfeXFMT0xIYWt6QTE0RU5Wbk95WHY5eUI3RFk2VzBiOEM1cHRIZGVYc0hkZjlva09qZGhETUUtZVBaNUl5dEExdlViV3JLcXlVX2xXUFY4enpOZE4tR0tzbFBZRmRnTWtnanRkd05VMFRLeEdKZ0lLanR4NzJpZ0VNOV85TU5jS3VY?oc=5"
+    },
+    {
+      "headline": "Amazon's dividends & stock splits: What you need to know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUtNdzREMFNzRkZzeUxvcC1kTGtGNXhNSWN1YkJfb2pJemdCVzE2WVVZWEhjdEdnZHFoUndXTzRlSjdub253OUR1VWxPcUV3d3UzQUpLUGhIa1lEXzRrN0RVTm1Ca3U1VkpEdHJHVXJKQk9fTzhmeTlrOVJfMjRoMDJuNkVBdkl3SUZuWWllRGswa0pTTE12NjB0OWExZlZablE?oc=5"
+    },
+    {
+      "headline": "Amazon Chases $3 Trillion Market Cap As Prime Day 2026 Looms - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0RSQk5oUkwyQ080M3JzbEJzUkZtaWp6Wl9kaW1KMVRFVnkxVG9SZndmSnF0b0N1aWJabkNFS3ZoakNCYl9RbkxaUklLUXFZME44NTVzM3Zsb2lOckw2dXktZXRBMU1aT0JqU3hDNHlfZVFUNU1CMjhNaXM5T1VKNHo2NkM0ZGtwOXNCSndoaFhqbHFVYm4wSVlReFVGR3daenNDUA?oc=5"
     }
   ],
   "insight": "Tracking Amazon (AMZN)."

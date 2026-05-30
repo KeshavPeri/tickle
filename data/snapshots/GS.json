@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:50:40.347Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:12:13.101Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    926.5499877929688,
     905.5999755859375,
     923.77001953125,
     923.7100219726562,
@@ -24,10 +23,10 @@
     996.72998046875,
     994.52001953125,
     996.469970703125,
-    1008.3699951171875
+    1008.3699951171875,
+    1025.56005859375
   ],
   "6m": [
-    775.5599975585938,
     776.2999877929688,
     785.989990234375,
     773.7000122070312,
@@ -158,10 +157,10 @@
     996.72998046875,
     994.52001953125,
     996.469970703125,
-    1008.3699951171875
+    1008.3699951171875,
+    1025.56005859375
   ],
   "1y": [
-    604.8599853515625,
     600.4500122070312,
     598.719970703125,
     603.8300170898438,
@@ -411,29 +410,30 @@
     996.72998046875,
     994.52001953125,
     996.469970703125,
-    1008.3699951171875
+    1008.3699951171875,
+    1025.56005859375
   ],
-  "lastClose": 1008.3699951171875,
-  "oneYearReturn": 66.71130832552811,
+  "lastClose": 1025.56005859375,
+  "oneYearReturn": 70.79857402686564,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Goldman says this biotech stock will be a winner thanks to a one-of-a-kind treatment - CNBC",
-      "source": "CNBC",
-      "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZElmVTFGLS1USGhJT21DRlZ0YUVsSFFOeUJUM0h4U3VKYmV4RGpxMzdhZlBFcFU1aTRFaU9hSEszR2s2OS04aWRFMHF0Z3FOT3h5d1htdTAzQkpmazJKU3lmVFo0TDFtMGV5QnlMZk01TVpyYkNGTXdod0J1MGhweEFsVURCQTdXaUlFc2dFaHBpd3RVRml0MmdJQXpVdWtRY1ZIaHZ6VDg2ZFdkdC1XOFBRVTBkSjRjcC16Qnl3?oc=5"
-    },
-    {
-      "headline": "Jim Cramer Can’t Believe Goldman Sachs’ (GS) Current Valuation - Yahoo Finance",
+      "headline": "Goldman Sachs Sees Two Risks Facing the Stock Market—Here's What To Know - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGdYSHl5cng4RHI5RlVDaTBmdGdIblNYcUw3VEFNcFdDcDgwb0RwVUFkVnhKMDNscldzVzZxQTJOSlpHbTU4Qmp6OEVOYkowb0s1eWhlakpSeVZoTHFBcDJObFhMSGRYbFJNMzEzenQ1bXNITmxJN0RtRWtrQ2tVNjNiWmg1UTBjanktOF9Bazg5X1B5X2hEcA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVBMcVBZNUNkOFdtTVJjVkw4X2RvZ3RFUDVuWVF5RzJrTXdhRTZTaXBZTDNTMEJmdFBTY0lGM1dfaGtOV2ljWUo3NmZxTzJka1BUQmExQTRUX3k4OTNIS2xXd0FBSjhhd0Nfa1lDcHlwOGM0aVNoVFB2V3EtZGRyaDRoVmtxNmdLeW1fUVdXNjM3UmJMM0UzUQ?oc=5"
     },
     {
-      "headline": "Goldman Sachs Sees Two Risks Facing the Stock Market—Here's What To Know - Investopedia",
-      "source": "Investopedia",
+      "headline": "The S&P 500 Is Forecast to Climb as Earnings Growth Powers Stocks Higher - Goldman Sachs",
+      "source": "Goldman Sachs",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT21BbEYyM2ZUU1h5XzV5R2NBY1pOa056MUc5Q0xqbTFwYzg4cFFrMnk5bVBLcm4wQlhGb3lqTUJGYnlzLWRBZ0x5VXVJNWpHU0hIaEFxM2YtV1JJVHJxVTR4YUQtT3FzNXpWeTNYb29fTi1oQ295aDdyQXZlMjlXVmRMNkxBTTdtZjFKcHg5c1JKb0N5YTQzN0QtY2Y3YTF6R0R3bnpveHpjX25KRFBIVWJtbi1BTVE?oc=5"
+    },
+    {
+      "headline": "Goldman Traders See a Short Squeeze Brewing for Unloved Sectors - Bloomberg.com",
+      "source": "Bloomberg.com",
       "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaE9GWHVGeGkyRHJSRF9vek81M0hGdW8zMzhaandpdU1YLU5CRlBUUHgwczBzLWd1eW5jMXExMERadXI3NDB4cldUbTFpV21wRTVHZnE5Q2NDanRWbFdTRENqdzZXeHk1MnR4NTByYW9TQ0x0SjZNbVlpQjJxY0lKMGdmX1hVeldwdnJyVmRfdERDYThTNFB4c1Z1a1AxejNtMElPTm5rRWpQVFR1Qjdj?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS3VhZjNRaFFRNUF6TllvYmdtOEFlLV9Gam50VHg0cnNEMHUzOGhRTGpGUjgyRmdyb2ZibTdLOGVrbnBGOE5JcEZWbFdlNkpUYVhVbGpJY01reTd2MHBkMjdaUjJKSVZaX2M4LVIzTHdwajFWU0h5Z25wdXdsZ2dtMFMwQ2pOeGQwOHNmb0V0N0NoZUpDemx0MmhaMXlBNFBYMXlCZUlZSXY3OUgxSXNKZzhPa3k?oc=5"
     }
   ],
   "insight": "Tracking Goldman Sachs (GS)."

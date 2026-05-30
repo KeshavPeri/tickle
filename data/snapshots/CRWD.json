@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:50:26.025Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:12:01.087Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    454.989990234375,
     452.3800048828125,
     445.75,
     455.6400146484375,
@@ -24,10 +23,10 @@
     663.4600219726562,
     671.5499877929688,
     645.3599853515625,
-    671
+    671,
+    731
   ],
   "6m": [
-    529.780029296875,
     513.6699829101562,
     520.5900268554688,
     501.30999755859375,
@@ -158,10 +157,10 @@
     663.4600219726562,
     671.5499877929688,
     645.3599853515625,
-    671
+    671,
+    731
   ],
   "1y": [
-    458.80999755859375,
     471.3699951171875,
     479.1700134277344,
     488.760009765625,
@@ -411,12 +410,19 @@
     663.4600219726562,
     671.5499877929688,
     645.3599853515625,
-    671
+    671,
+    731
   ],
-  "lastClose": 671,
-  "oneYearReturn": 46.24790295994103,
+  "lastClose": 731,
+  "oneYearReturn": 55.079875166484825,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is the AI Security Rally Over? Analyzing the PANW and CRWD Pullback - Barron's",
+      "source": "Barron's",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0dBTDZlYlYtMENnOGhhMGlPRnlEN0t3R01QR1ZuOVdZMXdheklPWHAzVENQZFhlRzJpTGFVRzJfVVFWS1ZZTWF2cEprUlcxMHdkSW81dTI0RW9TYTBQQ09fWnJtRm9qcHFyZXJaZVhyUU1jSUc5UzZZZFM1Nmt5TGpNMkl6U2I5N2NMbzd5UkdGX09ONUJiemcyM0F3Zw?oc=5"
+    },
     {
       "headline": "Analysts Raise CrowdStrike (CRWD) Stock Price Targets Ahead of Q1 Earnings - TipRanks",
       "source": "TipRanks",
@@ -428,12 +434,6 @@
       "source": "Yahoo Finance",
       "when": "2026-05-29",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmt6dDJPalZ6Nk15RS1ZTzhseHVONjE1ZnJTZGdUc3hCNno3b2VZbFRacnZjdy1EQ1pfaEtfa3dOMnA4Q2dyV2xscmtmb1NlSnlpenQ5VVFGMnJoSEJBY2RmamlldkhzR25PemxvanpLZmtna3JHdzBvXzN2SXNocDVLRVN3Z2tSSmo3N2Utbm5lUzJmZVNGdHF6VGJpQjAx?oc=5"
-    },
-    {
-      "headline": "Is the AI Security Rally Over? Analyzing the PANW and CRWD Pullback - Barron's",
-      "source": "Barron's",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0dBTDZlYlYtMENnOGhhMGlPRnlEN0t3R01QR1ZuOVdZMXdheklPWHAzVENQZFhlRzJpTGFVRzJfVVFWS1ZZTWF2cEprUlcxMHdkSW81dTI0RW9TYTBQQ09fWnJtRm9qcHFyZXJaZVhyUU1jSUc5UzZZZFM1Nmt5TGpNMkl6U2I5N2NMbzd5UkdGX09ONUJiemcyM0F3Zw?oc=5"
     }
   ],
   "insight": "Tracking CrowdStrike (CRWD)."

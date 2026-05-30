@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:50:48.836Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:12:20.320Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    43.08000183105469,
     43.029998779296875,
     43.54999923706055,
     43.86000061035156,
@@ -24,10 +23,10 @@
     43.7599983215332,
     42.119998931884766,
     42.77000045776367,
-    43.529998779296875
+    43.529998779296875,
+    43.18000030517578
   ],
   "6m": [
-    56.25,
     56.18000030517578,
     56.04999923706055,
     55.59000015258789,
@@ -158,10 +157,10 @@
     43.7599983215332,
     42.119998931884766,
     42.77000045776367,
-    43.529998779296875
+    43.529998779296875,
+    43.18000030517578
   ],
   "1y": [
-    54.2400016784668,
     55.779998779296875,
     54.84000015258789,
     55.66999816894531,
@@ -411,29 +410,30 @@
     43.7599983215332,
     42.119998931884766,
     42.77000045776367,
-    43.529998779296875
+    43.529998779296875,
+    43.18000030517578
   ],
-  "lastClose": 43.529998779296875,
-  "oneYearReturn": -19.745579955285617,
+  "lastClose": 43.18000030517578,
+  "oneYearReturn": -22.58873924321,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Lamb Weston Holdings Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcGh2WmcyNUlkcU5kaGZXQlJjOGhwa2tZRHljYTN4UFJFa0x5WGpBUUtqOW96QU5sbkhoc2lRLXA4ZjhNLU1KMUlNQ29wNTJ0VU5yUEVLVGNxYTQ1aVNVbjZHR01UaXJGbDlEUVcwZWhHb2pLV0M1bDRQYjZSME5VNDN2bWlxRm9kNjNwRExMVXhFZl9QZkZpT0NnT05NZzlhYzZUSGpWcWFOOG9ORFdOY0dUeHlGbndnd1Nwd1RmdmpaMzQ5OERWQUpDeGFJRGNxZm5JZjk5bHlxcjFuQjVjS3ktMXdpdGxvVENEZnNZYXE?oc=5"
+      "headline": "Lamb Weston: The Market Is Still Missing The Turnaround Story - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-05-30",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkhXUVlOOEJVUVFWM0VFNkY4SjhZNnFadEszSlJSeTRvY04weGdnVWx1ZUNST0VBSGVkeXA0RU5ieEgyRTg5QmlMUHR5MWVxeFFpeWVrOXlMaGJFZlE4NlpQV1Bvb2tMbkhYYUt6ZHRTQzd3b3ZFWnZUU3ZURlJwMkZfVzQ1bVY1MEZoU3pfWGMyXzdKekVXajlaVThSb1djT29B?oc=5"
     },
     {
-      "headline": "Harbour Investments Inc. Increases Holdings in Lamb Weston $LW - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1NFQ2kyZWNDOUdrRW9EdkNScm0tYmRBRm5rSjNZeklvUXRsOHdlbG5xWnVac1ZJalA3NXdBSlhoeVVpR0o2Rm5NNHl0TWw1T1BHX05fOGppaXVfYWdzT05TQ3M1cmIxSzRJZENXMmsyeFdsTmRaU0tFamhYX0NPRmhFZzlZNUNDU2ZwaEdMdXRvZEV0US1CRy1tVC0tV2VrRUJmWUtPTllzcjR5MTl1OURvdVBCbElhSTlaWnlB?oc=5"
+      "headline": "Lamb Weston Holdings, Inc. Stockholders Should Contact - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQejlIcEF1UDg2V2VVVzZ6V3dZcXNGUDZ0ZWNtUWF6dmxja1VhcEIwMDIxRHNwZXFJc2xMNFM2VzZzYXd4RFYydlY3dkJLZ3lSLV9jLTFfWHdUTkdHOUowbnFNQ2s3SDRER3ZaN3hvdThJVVpZbkNTb2xXVHRGZVktbUctWWVrREZEVjNwZmZIV1o2WmI2d3FTNkZZZ2NfSVJmOGVqSUY1anpTRUs1WVItaEl3WWw2M1h4VkJSTUZBbUVUN2xuVUJva25IWjNwdl91dVE3TUdPbGlHT184Nzg3c2tNYXc2STF6LW9ZM3V3RTJNaGRQTWc5SjZ1WTgtQ2l6c2JMdHM3MTAzNk11Z0VNQTA1bFo5NGotM1Y0cnFJeWhoLVVpaDdmU3ZPSWFsUWFPVjJGWlp0NnJMR25XVFZPNEpuYmhxSE45S1ZLaW1Dc2VBZkg5eE1odGFkU0ZKWlpKcGg5Nm9lV05LUHVu?oc=5"
     },
     {
-      "headline": "Lamb Weston Stock To $27? - Trefis",
-      "source": "Trefis",
-      "when": "2026-04-02",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT1MwT3ZFT2VmZ0p1eWtOejRjZE10RVNNWU1wMDhqbFdfYXJleV9qN2o1MmhsckpCTWhrbFJIMkdDbGxDaEtuSEFfTklKNlREek9ZTEJNZ3RaYTJrT3BtdnB6bksxRk5NeVdjNE9ua1VMWWhzVmFTVlBaVE5rbkJGVzNGMm8xZ3JNSWtj?oc=5"
+      "headline": "Lamb Weston faces lawsuit over undisclosed ERP software issues causing $135M sales loss - Pluang",
+      "source": "Pluang",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblRRQnFHQzRiVm9feEdzaFB3a204WnJ3d3FEYzlpc2tVcWxEWElyRzJuQ29tbDh0Vjl6NWdOYmNERUhETFR6VmQ2OVkxUWNaX3lCTzhiRjBnaGhNSXRILXZKLTlNNFQzUnVWbTc1MWh2T0d0OE9rTlJXTjBGdU9JbExIeVREUGNPWDRHMw?oc=5"
     }
   ],
   "insight": "Tracking Lamb Weston (LW)."

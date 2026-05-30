@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:51:04.124Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:12:33.536Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    176.66000366210938,
     188.19000244140625,
     184.49000549316406,
     181.11000061035156,
@@ -24,10 +23,10 @@
     171.11000061035156,
     171.58999633789062,
     171.5,
-    172.82000732421875
+    172.82000732421875,
+    174.99000549316406
   ],
   "6m": [
-    219.10000610351562,
     222.9600067138672,
     224.8699951171875,
     221.8800048828125,
@@ -158,10 +157,10 @@
     171.11000061035156,
     171.58999633789062,
     171.5,
-    172.82000732421875
+    172.82000732421875,
+    174.99000549316406
   ],
   "1y": [
-    314.32000732421875,
     314.1400146484375,
     316.989990234375,
     317.510009765625,
@@ -411,12 +410,19 @@
     171.11000061035156,
     171.58999633789062,
     171.5,
-    172.82000732421875
+    172.82000732421875,
+    174.99000549316406
   ],
-  "lastClose": 172.82000732421875,
-  "oneYearReturn": -45.01781518923286,
+  "lastClose": 174.99000549316406,
+  "oneYearReturn": -44.29553787058931,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Verisk Analytics Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeWxDZVE1UmpKekxuSDR4WG1PdVF3QlpyNnJ2TUM1eTBCWjk5TnpmSmxTNURLSmVxSlRmWU1iRzhTeVROQ0R6U0VVQUJPYTN3ZjhtbFlOcW5zQ3BPeGM4OTVDZlgwaG9mREJKVmhHc3NHclRVLUMwWUNmWWp5dm1sR3pLeExyWFNFVG9VbzlYT3NteWUyWVBUNG1ZV2VaZGdBZEw5UExNT1YyMjFoUWpNY2M5cDJONGdHYUZOeVk0Z3ExbG1heGJadFNaMUo?oc=5"
+    },
     {
       "headline": "Time To Buy The Dip In Verisk Analytics Stock? - Trefis",
       "source": "Trefis",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTExIN2VQSmVrT3JSVkduQkpIMWJWQjdCTUgzemlUQWZGZjRBM1RNOUZ3MEJ4Rk9ZNzZyWE1DbjA5UENJVUFiZ29oQjVBVVpTdWhYaHRtVExJVFhyWWpUck5yeGd2TDJ2RGdMT1VDYWpjNjNjazVVNEZRbUs1S1ctakhjeGZRUXBhX3JGdnBOeHBJOU1FNEJDbUhMUWRFUUtQY2JOOVhSWklyM1k?oc=5"
     },
     {
-      "headline": "Is Verisk Analytics, Inc. (VRSK) A Good Stock To Buy Now? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-03",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSnlFcXk5czl5UWFENi00ZE02QWdnQWRiT3FUZjNfZ2p6N0hyb01MUWI0dW4yVG5ITXlpdEJFQkVqX1lfQjVGM2VTQjFvVEdnb0J3WjVia1UzRXptUUdmZjBSdmNZX2NSbGZ4TDNNeUhTbjNDYVZHaV8xbHh6QXBmTEdMampBSDZOSlFkeDd0eVYyZnFiOFZHRkRrOA?oc=5"
-    },
-    {
-      "headline": "Are Options Traders Betting on a Big Move in Verisk Analytics Stock? - Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMXNVUWgyZnNSSEpFRGw3N0pSaURWSTEyUlpWaEhwMExsMTJpZVZYdTItd1dSUUZRWnFwZlpORU9QSW5PdWFPcGZ2anRSMGd4S2xqSHlWcnczNzlxT0FMOE44TFdsOHpMZllxdThhVVQxWllIc0Z3Y1BFbTVvd0k4XzBFeXJ2aW16d0FaZ0o5dHhVZWFsODRqeTYxZ0ROejRwaVNNTEF4U0JYZ1dT?oc=5"
+      "headline": "Raymond James cuts Verisk Analytics stock price target on valuation - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-05-07",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONGRQdXphblhSbmNrVmx4ZG5xb3hQQ01weDlCQzBjVFRqSUQwak9CZkhxX05sYzh1R01ZM09GSHZSUVB1MFpOMVRTUjFBdmdFUk1aN0lPeXN3THJkdVZqdGJZS25IRFhVZzdEekxscWJGS2FybXc2Ym5RSmJGanZldjJManZXelNVNkpzS2t6WG9lMU5yQ2VrNDNEVzVyaFNkRzBzRWJEXzRGN0RvMmRhSUxlRHpIdjFkRkYySG03WWNzUUFpbmc?oc=5"
     }
   ],
   "insight": "Tracking Verisk Analytics (VRSK)."

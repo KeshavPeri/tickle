@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:50:51.106Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:12:21.926Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    67.80000305175781,
     68.19999694824219,
     72.6500015258789,
     74.55000305175781,
@@ -24,10 +23,10 @@
     73.9000015258789,
     72.37000274658203,
     72.11000061035156,
-    71.97000122070312
+    71.97000122070312,
+    69.58000183105469
   ],
   "6m": [
-    58.130001068115234,
     58.939998626708984,
     58.61000061035156,
     58.18000030517578,
@@ -158,10 +157,10 @@
     73.9000015258789,
     72.37000274658203,
     72.11000061035156,
-    71.97000122070312
+    71.97000122070312,
+    69.58000183105469
   ],
   "1y": [
-    59.47999954223633,
     60.61000061035156,
     60.630001068115234,
     60.369998931884766,
@@ -411,29 +410,30 @@
     73.9000015258789,
     72.37000274658203,
     72.11000061035156,
-    71.97000122070312
+    71.97000122070312,
+    69.58000183105469
   ],
-  "lastClose": 71.97000122070312,
-  "oneYearReturn": 20.998657993596208,
+  "lastClose": 69.58000183105469,
+  "oneYearReturn": 14.799539895023761,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Altria: I See A Path Toward A $100 Share Price Within 5 Years (NYSE:MO) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMENHbk00OFNtYlZrdmk2OWVLT29wUkQ2MzdkaEJnSVVCdzFiUTdzM1cwblJYbWxBWGVfNlFlY08wRzBUM0N1Z2FSVDl1a0NvUEpnS1FueDhmb1d2Nkp1NS03cVlNOUNFM19oT3NNV1l3MlcyYTZydjZFTXdFdXczVC03ajVyUEdVUmF0SWR0ZEJnSTRSVVBZNktuNVE5dEwxMlE?oc=5"
+    },
+    {
+      "headline": "Altria (MO) slides 3.1% as income stocks soften and regulatory headlines linger - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXJ0VVNTbC1iWWI5WENYQ3pvVy1lSDlLeGxrSnQ3ZmhfVVZIc2liR295Xy0wNG40QzViS3BrR0xfYUcwRU9lWlBaNFB1UHEzcHk1YmZBM3dVTEVnXy13c0pEQjMwUmRBNERDLXp5MmtCU3lfM2I4QjVwRF8tR2EzUlZLTjQ3T2hSOUJMZ0JhTGhiZkdXRldpVVgyMFZIcEJvQ1hCYzRHZnhRRmtLSkRpSzU4V2pZYW5mcnc?oc=5"
+    },
     {
       "headline": "Five-Year Tally: Altria Stock Delivers $43 Bil Gain - Trefis",
       "source": "Trefis",
       "when": "2026-05-28",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeUZ3VVZWRDJkZ2JOUEJoQVJaallYYWJMMl9QaUdrRkdoMlBBTjRtWE5NbGRHQ0NxSHpMcHhDVzd1U2xiRC1fbG03UkFweXl5WjZFQ2pDVmlxdFlBaFJ1YVpCdXNWejg4cnAwSzJFbnV5RkRDQkVJN0NjbFNyQ1lNV3BEVzJOVVI4UlFTTXowWHVhbmswQUNoQXNHRGNSY2I4RXY2NDA3dER3Y2gz?oc=5"
-    },
-    {
-      "headline": "Is It Time To Reassess Altria Group (MO) After Its Strong Multi Year Share Price Run? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc0Q1V3hPcGpKM2ZFT3VYcFpfeW11cjRFUVNKTkNtZlVCX0ZOZGVSMUVteUlqT1g5bDdwaHlhZ2pKMjF6a01QSEFybnJoYW1yY2JnYk1oX0tOTFRVQldySVpxMmE2ZGJpaXloZTl5SWJNamhGWG5lZjVjcmItci11dW90aWdnOUxLX3VBX0FsWGlwb1c4Zm9PQ1NrLWlHMm1YMVE0Tm9rSUhyUnRYeEpXTW5YcEluNjV1Um5ZY1dnckJGcGlQNkI5bFB4Mnphem04TUQ5VnYzN05zZ9IB3wFBVV95cUxOSVdUNXNsLXZidHNBRlJWYUJ3bVRKQnVuMUQyVHRCNjA4Z3hpeF9JT1NHR0Z0VG9Lb05iVy1oZThTZWxfTDRNeHVDMmgwUWZiNkt1LXlBSFdOUWVJNWRZNjBucjdoT25qc0VTV2YtUENqWE9qQWpUeElWcmVrMEFyYVIzNE90OGpBTEQ4VGp3dkJEQjRNOEkyM1JldzNxWl9IS1h2dWtpLTB0M2Rmbi1pVFh3THRRMlNFWWo4cGJPUWw5YjkwX0ZJZkRQZDZKVFVwMEc4NThjQjkyQ0hMdnJR?oc=5"
-    },
-    {
-      "headline": "Altria Smokes The Competition, Offering Value And A 5.9% Yield - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdjl4LWRIelJiMkdVZ1ZDUnJ2dDkyNEF0V1FuYVNhQlV5N0FFMzlLbkh4S0k2LVdPbmdoTllmNl90NzR1Z1kteHFxOXRxUHNuc09ibGNhd1NRMGRwS01JYWVZb08tdDhtTUlBUnFER0tzRVZyU05yV1pEYzhkdmtBXzRrcE0zNzZaYzJkVjRGUjI?oc=5"
     }
   ],
   "insight": "Tracking Altria (MO)."

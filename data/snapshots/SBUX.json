@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:50:58.369Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:12:28.505Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    97.27999877929688,
     105.5,
     105.33000183105469,
     105.9000015258789,
@@ -24,10 +23,10 @@
     103.11000061035156,
     101.41999816894531,
     102.0999984741211,
-    100.75
+    100.75,
+    99.16000366210938
   ],
   "6m": [
-    83.69000244140625,
     83.33000183105469,
     83.68000030517578,
     82.62000274658203,
@@ -158,10 +157,10 @@
     103.11000061035156,
     101.41999816894531,
     102.0999984741211,
-    100.75
+    100.75,
+    99.16000366210938
   ],
   "1y": [
-    84.05000305175781,
     83.94999694824219,
     85.19000244140625,
     86.5999984741211,
@@ -411,12 +410,19 @@
     103.11000061035156,
     101.41999816894531,
     102.0999984741211,
-    100.75
+    100.75,
+    99.16000366210938
   ],
-  "lastClose": 100.75,
-  "oneYearReturn": 19.869121168215027,
+  "lastClose": 99.16000366210938,
+  "oneYearReturn": 18.11793599378525,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Starbucks Corp. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZS1wTWdJd3Y3YmxtU2s5ejBLZExySTRWNTZXMndvWFhyUDV1R3FJMHRlTjNiMHdlaTJZTmE0TnRYanRya0JEdWNwbHp4V2VNOGtBNFRDd1M2bDRvZElld0NuSy1IZE9URVZ0X05wSEhUbHAxa2pZSzdEQUtkcmsxS09WQk9ORUZ3YkVzaGNVQTlrSHBLZ0E5SFN2elhwWDJoTUplcXV1S09QY0NxUExsVkpBYnpEOXZrVm9oTXJxWDIweC15V3JwVVVtbVlHTWRjNHV4LTZLOVhfSFhjNG5Lck9R?oc=5"
+    },
     {
       "headline": "Starbucks Stock is Up YTD – Thank a Kardashian - Barchart.com",
       "source": "Barchart.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcTUzSVQ1UmlVMFd6Qk14Y2NzSi04TmlRbHZha0NSM1dJaGcwcElNNlU2eUh2TFFwSmtBNm9HR3lwWDVrQnRNSXZjOXJGZ3VyR1NfaTlZUnhpdFBUNWgwR1BmeEU0ZlFDQlJIcTFsQU5GMVlJUVdtMk9PRkk4TFdRLWxnSHpzTXFYbkFGM3RRT2tOUQ?oc=5"
     },
     {
-      "headline": "Arm shares extend weekly rally to almost 50%, and Starbucks pulls the plug on an AI project - CNBC",
-      "source": "CNBC",
-      "when": "2026-05-22",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZlRJSmhpV3dINXBSblBFWS1kMjRHa1UtVG0zUzlXZ3NXOEM0ejRwZ1hxa1gzNWZmVHdmNk1yQkNEU2VrYnBwbVU3MGVpUWRuWlF6alFIdFVBVmdqZVZkOFlsMC0zSWc4aTNiSTRhSGlMNDhscmgtbEFPdWM1M3h0MGxQZTZGRFdObFRFZ091bXF2TG1JQ29NbmV2Q1FXaVNPN2dVLW1pNS15LWlkai05OW91WEpiMTAzeklUdEJ5NEFWMXVpSFdjZEN5dm4yUQ?oc=5"
-    },
-    {
-      "headline": "Why Is Starbucks (SBUX) Down 3.2% Since Last Earnings Report? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlM3MmIycC11d1JJZ1NrYkJCbE14QXlrNmgyblhDeXVybUk3Njc0YTl2V3FsUTROSC1xeUx1QUh2VEhEOGV2SWNUdU5UT2FBSWJHY2dVQUdKZmJ6NUZkT3NHQlZHM1pOYVdzREdpUUEzLTg0WXdsQmdmT29WcXgzbi1uMTVlWG8zSllsdU9peW5SLUFZ?oc=5"
+      "headline": "Starbucks gives SunPower 90% rating after 26 solar projects - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObXY2a0pqNTdwNTJUYXhWdHdVY0VHM0RJcWlmWDMyVl92MG1Mb3VOV2Q2SHF3X3M4cS1sdV95cXdGZ1NDSXRZM1pCWU9MRjFSbWZXbjdpV2J3elZUR05YYUgyTm1haHJFNDV4anUwdlBfUlFwV1VndEpPUmQ2WmNmR3Y1X3ZJaGtQREllblVXT1NwZTlpSG9wMg?oc=5"
     }
   ],
   "insight": "Tracking Starbucks (SBUX)."

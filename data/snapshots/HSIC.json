@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:50:42.549Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:12:14.934Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    76.12000274658203,
     73.80000305175781,
     74.58999633789062,
     73.93000030517578,
@@ -24,10 +23,10 @@
     74.20999908447266,
     73.9000015258789,
     75.66999816894531,
-    76.31999969482422
+    76.31999969482422,
+    76.58000183105469
   ],
   "6m": [
-    71.25,
     71.19999694824219,
     70.5999984741211,
     71.18000030517578,
@@ -158,10 +157,10 @@
     74.20999908447266,
     73.9000015258789,
     75.66999816894531,
-    76.31999969482422
+    76.31999969482422,
+    76.58000183105469
   ],
   "1y": [
-    71.9800033569336,
     69.98999786376953,
     69.55999755859375,
     70.56999969482422,
@@ -411,18 +410,13 @@
     74.20999908447266,
     73.9000015258789,
     75.66999816894531,
-    76.31999969482422
+    76.31999969482422,
+    76.58000183105469
   ],
-  "lastClose": 76.31999969482422,
-  "oneYearReturn": 6.029447256857578,
+  "lastClose": 76.58000183105469,
+  "oneYearReturn": 9.415636760144103,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Henry Schein (NASDAQ: HSIC) SVP files Form 3 on share and option holdings - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT1pVZEJBeVNKNWVJMUkySE95eXBoWUg5Zm1HNkNpNHV4NjBLSjJ5ZFQzOGVIRWR4RV83T0NiMGF6U1RKZ0w5b3JWcEYtdzJYbERmc1l4NHVhSHdvUEItRGQ2RklYeE1MaXFMVlFDaFVpZFpwSE5pNmlnMEEwT0NwdHV1SGdScDRoX2dsdjh4QkRNLXo1Z0lBVGNrUVBtMC1rTkFtWnZoRGVnQ2VZRmd2aTBPaURnZ3FwZjhxUHNTVXF6ZU1vcFE?oc=5"
-    },
     {
       "headline": "Here's Why Henry Schein (HSIC) is a Strong Momentum Stock - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZXc3MEJabncwalYzY1pjMmR3Q3dRXzVreGQ3SzlnVEROcEx6SF9HWkthX3pIdExFRWpNQVRjNzVDWXlsdU1vSmJRMXk0NFc2eVVmbDlqNGRZRmdad3N4M1FnVWkzY0F4cDF2R2laM01BekJwdkRBQkNLYmF0anRablB0dVhFVllKcndRZWtXWUQ4a2JVeGJJ?oc=5"
     },
     {
-      "headline": "Is This the Right Time to Keep HSIC Stock in Your Portfolio? - TradingView",
-      "source": "TradingView",
+      "headline": "Henry Schein (NASDAQ: HSIC) SVP files Form 3 on share and option holdings - Stock Titan",
+      "source": "Stock Titan",
       "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWms0aFR2b2ctRjF2aVhKUHpGTFlTNTZJejRXUEtDcFFvTWJJeDJnZmU0UjlvTm9Lc3VoaXQ3RVFiYy14R28zcTRuSkNDMjNWaHR4dVBKS1p4OWdNdXVyeGNaNzBkMC1GbzFzWUh2d0s5LS1OTFQ5Z09ldjhOSHFmY2dSWlFZY0IwTnN0ODR2TUVnUW5KZEtBdWs2UGh1V3Z4bGs1RXJpOWY5Ty1CMkRiZUlUUTZvdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT1pVZEJBeVNKNWVJMUkySE95eXBoWUg5Zm1HNkNpNHV4NjBLSjJ5ZFQzOGVIRWR4RV83T0NiMGF6U1RKZ0w5b3JWcEYtdzJYbERmc1l4NHVhSHdvUEItRGQ2RklYeE1MaXFMVlFDaFVpZFpwSE5pNmlnMEEwT0NwdHV1SGdScDRoX2dsdjh4QkRNLXo1Z0lBVGNrUVBtMC1rTkFtWnZoRGVnQ2VZRmd2aTBPaURnZ3FwZjhxUHNTVXF6ZU1vcFE?oc=5"
+    },
+    {
+      "headline": "Henry Schein Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUC01M1cwR2xqR1BtYVY1ekc4U3VfbU52TXBWTmk1UDlBV1pKV0dMMVdLeV9GYkEyU1gtN3AxcHVEY05zcmVYa0g5eHQ0QV9XTExjbDBHaXFZTF9vOGxHay1sU0NsYjhWS0x1MjlsQmY3alFQU1pWYUctN3VtQkNDT21uQnBDNDBOY1gzMTl5QWw5dGl4TExiZFZZYnFiQ0FGRHFEekNpeTBjMFRXTGpjUDRIQzRYQWF0R2xZQzYxd19Vbm9vVHJ5Qjh2QjdvczFJOXhjTHJFcFdKRVI5TlEw?oc=5"
     }
   ],
   "insight": "Tracking Henry Schein (HSIC)."

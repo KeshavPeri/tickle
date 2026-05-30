@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:50:58.884Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:12:28.998Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    1002.3499755859375,
     1064.2099609375,
     1096.510009765625,
     1187,
@@ -24,10 +23,10 @@
     1478.68994140625,
     1589.550048828125,
     1589.93994140625,
-    1641.6400146484375
+    1641.6400146484375,
+    1694.97998046875
   ],
   "6m": [
-    265.8800048828125,
     244.92999267578125,
     245.9600067138672,
     195.9600067138672,
@@ -158,10 +157,10 @@
     1478.68994140625,
     1589.550048828125,
     1589.93994140625,
-    1641.6400146484375
+    1641.6400146484375,
+    1694.97998046875
   ],
   "1y": [
-    38.599998474121094,
     37.689998626708984,
     37.33000183105469,
     38.63999938964844,
@@ -411,12 +410,19 @@
     1478.68994140625,
     1589.550048828125,
     1589.93994140625,
-    1641.6400146484375
+    1641.6400146484375,
+    1694.97998046875
   ],
-  "lastClose": 1641.6400146484375,
-  "oneYearReturn": 4152.953573946526,
+  "lastClose": 1694.97998046875,
+  "oneYearReturn": 4397.16116271653,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Micron and Sandisk aren't the only tech stocks booming — take a look at these 3 cybersecurity plays - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdUhNSzBBbVlFcmM5bzYySDhTNDJNeHI3MGR6N2FLdWxMNGItbklncHFUWFpyQzBEYmJseHpQc1h1VzRFN3RfUEhIVmxqTVlja25fTmoyRzl1cnhpR0RTRWxwT2ZnNnFvOVlxUUtadVIyczZYUU40LWgySVAtZzlob21XeE43S2djRE5hQnBHRGdrTXBISHVYQm5PRWlIaGJlTzYyU2RSSHdleDNyb0RUTG5uWlJrMmlmOE0wNXFXZ3VDdC1YMjJuZldjTkF3UGRxbXZnMGFRaXBuMEhMYll1Z0wwWE5lblJzMWRaWXA5LU9vWTg?oc=5"
+    },
     {
       "headline": "Micron, Sandisk Score Price-Target Hikes Amid Record Climbs - Investor's Business Daily",
       "source": "Investor's Business Daily",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeElPOVhIY2lwMUZLY0lQcXQtWmYwWWJHSnh5UF8xUzR6Q2ZRS0o3V2xJMmtHdk5JTlM1UkhJdmRiSVpPWnVYeWJtT25sVXB2NmxSMjlwbFZqQkQ2UHV5TERoTXByb0ctZTRkUHNVXzJkMm1YZlNueHFHOEZ5ZzY0N2dmVmJCUDR1N2Zia2p5cnlEQlJK?oc=5"
     },
     {
-      "headline": "Sandisk Stock’s 4,000% Rise Is Happening Too Fast to Keep Up With - Barron's",
-      "source": "Barron's",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tRXk2U2owdllOU1NpSWRXV05BN21iczJoVGQ4ZGROdS1wNzVRT2FEbGFOVE14YWdDa1BzMTd6UDJWbVctUVVlOWw1bFVyWk44ejBodGhRbHJOaUpxTHNGVmRfQ29DVUdmc2pyVzlzOEUwYkFyamRZakZaT19TUE0?oc=5"
-    },
-    {
-      "headline": "This memory stock is up 4,000% over the past year. Barclays says it can go even higher - CNBC",
-      "source": "CNBC",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWk5LckJ0Wi0xZmllZExXQy1CMHJvTUFtakRSaGFfN1hILUd0TFFzbmp4UEZzOHJ6RUoxV29xM0RZWlMtZUMxQlJqY0VZbjAtSkRWZE50X3lmZjhBbzlLRV9yblFDM0NhR1lNZ1IzaWg0eXpCSHh6X0RxSXdhaEtnbloyV2ZrMlNseENJeWk0aXhKbUNIdVlJa3lXTkJQU2RHN1AyZEU1TzkzQ3U2djNj?oc=5"
+      "headline": "U.S. Stocks Move | SanDisk (SNDK.US) Rises Nearly 6% as Barclays Sharply Raises Price Target to $2,300 - Moomoo",
+      "source": "Moomoo",
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNak5hdV83V0ttZmlUbG52UjZ0SUo4amVNN1VKcFhPUVhBbVFQdzdhSW5uUVNXUXAzV2VYVjBPMjNpa3NnQ25qaFZlZnc5T05keFlwaXFISVY4cml2REJQWkdzMlpXeHVXMC1Zd01WWVlCT1E1Mlp0ZDZwRWpHTWxTclFUc1hidXk3Q3pJUUd2Y0MwV0x5ZUJxbjMzX19mVmc?oc=5"
     }
   ],
   "insight": "Tracking Sandisk (SNDK)."

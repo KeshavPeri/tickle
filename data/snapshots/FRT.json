@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-05-29T05:50:37.760Z",
-  "builtDateUTC": "2026-05-29",
+  "builtAt": "2026-05-30T05:12:10.634Z",
+  "builtDateUTC": "2026-05-30",
   "source": "yahoo-finance",
   "1m": [
-    112.38999938964844,
     110.61000061035156,
     110.9000015258789,
     115.31999969482422,
@@ -24,10 +23,10 @@
     119.75,
     120.16000366210938,
     121.05999755859375,
-    121.0199966430664
+    121.0199966430664,
+    119.62999725341797
   ],
   "6m": [
-    96,
     96.75,
     96.16999816894531,
     96.26000213623047,
@@ -158,10 +157,10 @@
     119.75,
     120.16000366210938,
     121.05999755859375,
-    121.0199966430664
+    121.0199966430664,
+    119.62999725341797
   ],
   "1y": [
-    95.97000122070312,
     95.4800033569336,
     95.44000244140625,
     95.13999938964844,
@@ -411,17 +410,18 @@
     119.75,
     120.16000366210938,
     121.05999755859375,
-    121.0199966430664
+    121.0199966430664,
+    119.62999725341797
   ],
-  "lastClose": 121.0199966430664,
-  "oneYearReturn": 26.101901744020577,
+  "lastClose": 119.62999725341797,
+  "oneYearReturn": 25.293247850237577,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Federal Realty Investment Trust Stock Outlook: Is Wall Street Bullish or Bearish? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-05-25",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2JGWWZEZE5hTkd0NnJzSmVnbm5MaVRiWXNyRDA1NXhfellPT0pJajdTWGZHazVvRlNROXAwTkJTN1hUZW9nUzlPckNkOWtFQUpuSHBOc0RQYnc4anRkSk5EMnQwX1JnRlpzXzJpa1A1QUVMZFlRTEttUFEteUZRS2pyLUtRTHU1VU96bTJGd3IwZV9tUnNyV1R4dFBQWFlPelBzRlNUVDdqNGNkbUVDNEx1Ni1TZXZzcGV6cnA5VVg?oc=5"
+      "headline": "Here Are Friday’s Top Wall Street Analyst Research Calls: Best Buy, Cogent Communications, Dell Technologies, EPAM Systems, Federal Realty, Gap, Snowflake, Viper Energy, and More - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOZEVWSWgxMnF4djQxX3JfOUctMGdfSlQtNTdtSGstUnZDb3BzdVNzT1Y4RTBnSGtSamdJdlM2b2F5alkyQ1JXRlpIOXp2bVNDaEhiMnBUcjlDcjN4UWgtQkNaallDeFI1ZXpzX2phVHh1TlV6VmIxeWhHX3V1aGxhak0ySVB3b3U3d3d2V0hZVEVDYXViMll2clczLW1qMEo5alR0c1hwQkRtWjlzQVBiZnV1T1AwUXBNUWZlbUxrXzZTZlpEb3d0cDd5c1luR0VKLTNLMi1MNmRyUDRvaDczX0d2aE42SUJlSVRpWTJYR2dsX3ZVaDZUVUhpYXZ5dU5yZnM4X0pmd244WkQ3eXpOZVJaRVRKdDhIVEdTWlJyVzdYWjFvQ1dveFBSVTh5VThQYXdReloyQQ?oc=5"
     },
     {
       "headline": "Federal Realty Investment Trust Upgraded As Q1 Strengthens The Growth And Dividend Case - Seeking Alpha",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRnJPaEtXcXhRZktYNjVDMkNQb3FBbDBBUnpiM3FiWXE5VTYxQ3Z6ZndOM3hGT1RNV19tczQ0TU1pRjFnQm1ZTmZXam1aaFl4UVZiMFBPeGJXSlNUNjBKQjN4akRxRVJqUThZcF8zU0Nkelg1Zl9CUmpoeVc2THFjaVdmb2lHdWNDZ2p4Sl9XXzU0WlRYTHNnRmJXWWZWcVo1R0Y4SWEyVjljWGd0YndRa1JCc0ktYXFDckYwdWJHNktaT2p6VF9ZR3k0eG0xQQ?oc=5"
     },
     {
-      "headline": "Piper Sandler reiterates Federal Realty stock rating on earnings outlook - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRmlnUmt3UWh3N3UyLWpmemlDY3hMT0g2V0dhX0lTaDJhc0RxNGlXR3ltUzIzNm1TVVJta2MxcktDWFZ3bjRBajN5cTVMUlNTbm4tLUhVd1U3YzRyMFBLWEg3SlJWSDdWRGtwWEpPY2tWY2lLbjl4UjdHbDlDRjZBUjJWUEJWNFFiaGZ0dXRWX3V2OWxoWFc0di1CZVZNcUhmZmYweDE5ZDB0Z2ZmQnZSZ0ZsS29OTmdMRWFGZU5NMklXaE4tSWVUZGs4OHlvdldHWXlTUE5wQQ?oc=5"
+      "headline": "Federal Realty Investment Trust stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQakVHMmROdlkzdm9BQ1d1dkh2LXVUY3V0VDkteUJBa255RnlIWjRzTzg3ZXR2TURGM25ITjhZOHZ4eWcxbXhJVllsWFk4UVlXWHBLckFoM2M0eWRHeXE4OElCdWtxU2syY0JCVUVsc09Ob0ZJczA4WTUtLVdLMmNSak9uRmZMM0E5a3kwSU9pMXVZUXpCdG9saEdnay1BMzlIRWp5MUlhdkxxNnZ5ZEJJSzRrUC1SdHlUOHhJaDhFLTFUdWtXVVBrb1RYcExYeWVxU2lhSTc4ZDFGbmlBX1E1cA?oc=5"
     }
   ],
   "insight": "Tracking Federal Realty Investment Trust (FRT)."
