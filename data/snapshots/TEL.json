@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-01T06:29:08.741Z",
-  "builtDateUTC": "2026-06-01",
+  "builtAt": "2026-06-02T06:14:38.799Z",
+  "builtDateUTC": "2026-06-02",
   "source": "yahoo-finance",
   "1m": [
-    205.25,
     211.66000366210938,
     207.42999267578125,
     205.27999877929688,
@@ -24,10 +23,10 @@
     208.60000610351562,
     208.75,
     210.3300018310547,
-    213.41000366210938
+    213.41000366210938,
+    211.08999633789062
   ],
   "6m": [
-    231.5399932861328,
     233.0399932861328,
     214.49000549316406,
     218.92999267578125,
@@ -158,10 +157,10 @@
     208.60000610351562,
     208.75,
     210.3300018310547,
-    213.41000366210938
+    213.41000366210938,
+    211.08999633789062
   ],
   "1y": [
-    160.07000732421875,
     159.8699951171875,
     161.92999267578125,
     162.07000732421875,
@@ -411,12 +410,19 @@
     208.60000610351562,
     208.75,
     210.3300018310547,
-    213.41000366210938
+    213.41000366210938,
+    211.08999633789062
   ],
-  "lastClose": 213.41000366210938,
-  "oneYearReturn": 33.32291740941292,
+  "lastClose": 211.08999633789062,
+  "oneYearReturn": 32.038533048780025,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "TE Connectivity PLC stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeGMtVTlUZ3FESnM3RmFjRVFVRGRPelFTeFN5VzhMTnhLazN0WGZwMTROczg0ZFJEdWpBUzVSRXFBRVZMVEZaY0o3c2ZWSXBRSGs2VEgyMkxjdGx0b3RoWGFDMUhvbXQwY0lzZXRDWHJRMFVWRXhwYnFEY3hpb3VvVkpQXzBZRFpKSmVrUTNwNVRUZWtWak8yRVY4LXZQZHN1UkN2V0xiNVl0TlBka3Y3YWFlSm1MTkVDcmowclIzZTZ4S0Q1NU9Pc2hSNFNkcmNs?oc=5"
+    },
     {
       "headline": "Why TE Connectivity Stock Plummeted This Week - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVWpzMmNkUm5JeVRGZmh4a3hqN2tmYVZTQ3lEUGxNMnBCeGlRTXJVTlJuaE1SbDNfMDdMekJTazc5aEhFSF9pTVhKNVBRUVpGWFNDU0tBMHl5a1h5c0JQMjU5Q1pNOXhoQVRnRUVWV2JuY2QtUHJ4NHBVb0VtekpaWmdZeVBvUmFrdG1ZdUVnNWFpaWdxZHg1M2pBV09Xc01UcGc?oc=5"
     },
     {
-      "headline": "TEL Stock Price, Quote & Chart | TE CONNECTIVITY PLC (NYSE:TEL) - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0aGdIWVZneHBSLUN4dGt3UjVwUnpNZXlGNkNtc3VQREFYd0k1S0NNV2hXTUpnQXBWMENReWZaeHQxRTU5MUlXRVRsZmVIVkRTWkNTYkw5SG5PZkwtUnc?oc=5"
-    },
-    {
-      "headline": "TE Connectivity PLC stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOc1VtMmZBaXEtbmRLR0dxU3Y2ZTdtWTdNWHpYRDVXeWJlRDBnOVlGREFGVUdoNGNPWF9qaWYtbjlIZHpsTG8tTXByWkFuQnhnVVdFTEUtUmZEWXVSNWJGOVZGeTRhcHA3NGttcFR1Nnl1QU5MazlxYm1IeVNRZEh1enlLdWl5SkNKSXk3S2hQa0lQemdFVXR0T09CM0k0WF9kSmlQN1J2VElsc2JDeC1NMFVRMm5YRGFPUUVja3FWckw1VDFpYl9xRVFNc0hRZ0JXSUo1QS0zTko5Z1NUSklQeWVwdVU3b0R4eWRR?oc=5"
+      "headline": "Savant Capital LLC Sells 29,746 Shares of TE Connectivity Ltd. $TEL - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZURuWG44dEsxRXJEbVQ5OUdnYzZrQ0pNSUl0Q3d1bkRwTldaSThhS2JyZnk1c0NRQnR1aVR6TFRoX0tBZUk4dHVEWmJDOEtXbjVRakZ1MURqY2pBYlEwREF1ZEFlNUNzSjJHQjVKM0lCYlJ6M1VVMmtIdXhCOVpZdzZISVlWVmpMYUVGeTBOUEd3Sy1GX0lJVTFHSENncklsUWhhYjJmWEw0ZGVjckpsQ2NVOWt1dmFPalBhU2Uyd0cwUlU?oc=5"
     }
   ],
   "insight": "Tracking TE Connectivity (TEL)."

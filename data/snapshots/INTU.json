@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-01T06:28:54.521Z",
-  "builtDateUTC": "2026-06-01",
+  "builtAt": "2026-06-02T06:14:23.522Z",
+  "builtDateUTC": "2026-06-02",
   "source": "yahoo-finance",
   "1m": [
-    395.0799865722656,
     388.5,
     399.0400085449219,
     406.989990234375,
@@ -24,10 +23,10 @@
     304.3500061035156,
     307.7300109863281,
     313,
-    331.5299987792969
+    331.5299987792969,
+    353.760009765625
   ],
   "6m": [
-    649.72998046875,
     650.6199951171875,
     637.4400024414062,
     663.1500244140625,
@@ -158,10 +157,10 @@
     304.3500061035156,
     307.7300109863281,
     313,
-    331.5299987792969
+    331.5299987792969,
+    353.760009765625
   ],
   "1y": [
-    753.469970703125,
     764.989990234375,
     764.6599731445312,
     766.8099975585938,
@@ -411,29 +410,30 @@
     304.3500061035156,
     307.7300109863281,
     313,
-    331.5299987792969
+    331.5299987792969,
+    353.760009765625
   ],
-  "lastClose": 331.5299987792969,
-  "oneYearReturn": -55.99957374944633,
+  "lastClose": 353.760009765625,
+  "oneYearReturn": -53.756256384839595,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Intuit Inc. (INTU) A stock that could 10x by 2030 Amid Restructuring and TurboTax Hit? - Yahoo Finance",
+      "headline": "ServiceNow vs. Intuit: Which Technology Stock Is a Better Buy in 2026? - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMHJHQS1ZZjN2ellsRWJWWTRnSl9RdnhzRnBSRDI4eXE2WEJQNDk4N2xWajBmTTFldVBkazVCLVJBU1V4b1h2UkltQWtsQkFTQzZFc2ZwNUVMNExjVmVrVHhGSzFDeDJBTXU0NFROSEVMMDJxWlhDOWhXX3AxdVdycDR2ajUzUkZ5Yk9PbVp6VExpS0o5anpaYm0tYnZHVFR3QkV0azA4RDhXVm9OYmduWEI4NmwyQzc3QU1rUmlXWHpCcXFNV0NWTWR2aXB3MTk4MzNoVlZUcDc5SlZIWlNsME9vbURxU0U?oc=5"
+    },
+    {
+      "headline": "Intuit Inc. (INTU): Among The Most Oversold S&P 500 Stocks So Far in 2026 - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-05-30",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUh4Uk9ZclMzZTY4dGVpMExlOExHcURMbmp4OEwxMHVaZ2tlQnBtTy1vZFo5azkyMHFnNllPWHRwazVfOUpMcFkzdkdnakFidjEzUmZoUk9TaGpKRDVOdy1la3dGN3FzUXhSbnhfeFBBSUJlYTZicVFhZ2RpamNNRFVHVFkySXd3TXViWTlrTHpoQUF6bGpz?oc=5"
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLVN0R2xHdVZxU3lQZVlPM0l3aUNqT0ptNUhXLU8wekFJY0FYM19IN3k1cXNSa2p4WlJRa3BwemJ5c0U1R0w1MXJobXoxZWJSMGZOdDlZVkNRcDdKcXdOOG5vTEt3aHBBYUlIaWRwWDJBdkQ2d0IwZ1I4UjU3d0JaVUhqbTdzb2FCNVl1UEQzSldOZHpnZVE?oc=5"
     },
     {
-      "headline": "Intuit vs. PayPal: Which Fintech Stock Is the Better Buy Now? - TradingView",
-      "source": "TradingView",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT0FsTFFyNlRxN0EyZVRnLTFoRmNyQVRfRjltNXlRd3VBQmFpSFBtZnRKYnZFRF9oeVpTR3dubkI4ZzBjaG5kRW41VDFpTzhoWXhobl9uSjRLc2U0YVdodkF2dGdiTERMRWJnLXBnS3VPTzRNYVgzYjJOVzg5c3R5d3BOc1Q4SEdNMFFLMEdFSzVmTThFYlVnckxTdVEzMGNYb1hLUVk1MnpINjJNemdER05JOFA?oc=5"
-    },
-    {
-      "headline": "Intuit Inc. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQUNBZGJXeW5hZ2o1OHJrZ3gyTkZuQzFmeTl0SkNnVW9Wc2RzamFkVHNrZjZyd1A5MVdrWjJzd29HZ0h3c3otdE1jd2RZbGtQNUZ2V3NTZmZLWmx4Q1V5dmpvRnl3RDFVT3JTbTJORWUyYXpSVkl2ZDY3ODV0aEdTbnUzbDdRTk9oQ0NEQzNrWFpZSzB4WG85TkczMUJhcTdVTFhEVXJibjFTdkc4c3paQVpBWTFaS3R5eVY3elBJMmM2czhqYTdiV2prMnRHOElfeFY2Rlg1c1hkMjZ3bFJr?oc=5"
+      "headline": "Why Is Intuit Stock Crashing, and is it a Generational Buying Opportunity? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdwYURsd2dYbmtISFhUOFpfbVhicVJUVjVtYWdMNUcxLXRjYldINi0zMEkzSDlmU1JBS0hUQ1pzQ2JtbGxzR2lkUVFhOEtpRHNBS1VUa1N6SGRvRlBKVEo0dzlPcExBaHVuR040blhnalpPeVEtNjBNeGpseFRUWFdmNTEtWElFS242ZUNKTms0NUptTDdrNw?oc=5"
     }
   ],
   "insight": "Tracking Intuit (INTU)."

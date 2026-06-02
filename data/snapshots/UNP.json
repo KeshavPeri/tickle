@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-01T06:29:11.251Z",
-  "builtDateUTC": "2026-06-01",
+  "builtAt": "2026-06-02T06:14:41.695Z",
+  "builtDateUTC": "2026-06-02",
   "source": "yahoo-finance",
   "1m": [
-    264.7799987792969,
     269.4800109863281,
     266.32000732421875,
     263.4100036621094,
@@ -24,10 +23,10 @@
     271.1000061035156,
     279.3900146484375,
     267,
-    262.6400146484375
+    262.6400146484375,
+    263.5
   ],
   "6m": [
-    220.82000732421875,
     221.1699981689453,
     221.2100067138672,
     226.22000122070312,
@@ -158,10 +157,10 @@
     271.1000061035156,
     279.3900146484375,
     267,
-    262.6400146484375
+    262.6400146484375,
+    263.5
   ],
   "1y": [
-    221.66000366210938,
     218.88999938964844,
     221.77999877929688,
     220.8699951171875,
@@ -411,12 +410,19 @@
     271.1000061035156,
     279.3900146484375,
     267,
-    262.6400146484375
+    262.6400146484375,
+    263.5
   ],
-  "lastClose": 262.6400146484375,
-  "oneYearReturn": 18.487778719338376,
+  "lastClose": 263.5,
+  "oneYearReturn": 20.380099929070226,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "17,500 Shares in Union Pacific Corporation $UNP Bought by Monaco Asset Management SAM - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRzNZQzhEZlJ4UDIwNlc4VnlKV2V6VG1Kb2s0WldTMXU0OXY4SnJWc25Qa0lQcVJCQTBOcnUtdE9mcVhRWXhjYWZNV2JiTjUxYzNTZFNwd0taVm81Rkl4WVY5OFQxallkWlcyM1U0dkhNNmR6LVRWTUd1Yk5jcmJWamlMM3Q4aFZfMTZuMExzWkdMNS14Q016T2F5T2lZNkZGZEF0dU9nM0g2N09uUDJIWGk1ZkpwVEpQNTVLYjQwSVY3c1llblVxYXZBSnhLc1p0OGNnOXNIcUFZaU5F?oc=5"
+    },
     {
       "headline": "How Is Union Pacific’s Stock Performance Compared to Other Transportation Stocks? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTWpnYm5HeU9jd2ZTdUdFS2RVTUQwLTdHNVlWcllFOHJWaXVZNG4zSnNMaTdkZWV3ZkdVd3gwVjg4OFZjVU1KT1RVdUhaOF9wZzc3NllwTWtEdEdobXZVdkMxXzBUVTZSTGl5N1J5dUEtaG9xY1pwQzNEV0plQlcta2xGdzVFWW5lR1UzWU5UckpNeVNQSlFycURxMkRaZWxfRlJURWxReTM?oc=5"
     },
     {
-      "headline": "Nomura Asset Management Co. Ltd. Acquires 8,423 Shares of Union Pacific Corporation $UNP - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNXBqMHhXdHpOa0E4Z0J3MENVdDFzQ3BzaU1qTHhscWE2NFZKSGlrWXFLeS0yZGlhd3pCQ1dZN3RabC13VTA5V3FBaEkzX0FmSkhPTDBtdW4tcE5MSElnLTlGQ0tKVjlSa0dlNGJoX2c3WElVemFmd2dDMmVqYmx5ZU9XdEhvQnhhWV9GY0pvWlpleGZTX2FqNlVtN1Q3bFlmYnRvWkJnQXNRRktlQmF4LThrSjVZa241WlE3ckdJWUtpVzM1aGZsRnNpSEUtQ0lOdlZ3NFdieFBYVk1VSlE?oc=5"
-    },
-    {
-      "headline": "Union Pacific stock hits 52-week high at 276.44 USD - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR01ZdnlZcGd4bkQ1SmFYaGVLNU9KSHBTaWJaQzdQNkFmYjcxR1BDMGlQaFF0OUpEV2FoWW5oVDRJdXZnRW16bktqR0FRcWpvTjFnOWxJMVJsSVY4WGlUUTkxNTVBWnlGUlExM3ZXc0RHYk5ONDA4SEVjczlCZ1Jha2xRVkNnREhNbWYzT21PSFhIU3VUQnlSdVJ4VWRsWXk4eVlkSWhBZFFIZw?oc=5"
+      "headline": "Union Pacific Railroad Company - Britannica",
+      "source": "Britannica",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CcnR0eEE2MTdndEhIdV93Z0Y2TDdsNVRBeEplWkc3aDF5VnBseEF1ZHFBOEVmeDhQeVFFYUlHR1M0dEl3WU03Y1pZQVJ2YTBqUXY1cm1vV0J1ODgyT01SajdfWDg1M01LZmtvQmxLNno?oc=5"
     }
   ],
   "insight": "Tracking Union Pacific Corporation (UNP)."

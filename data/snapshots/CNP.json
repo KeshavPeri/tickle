@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-01T06:28:37.185Z",
-  "builtDateUTC": "2026-06-01",
+  "builtAt": "2026-06-02T06:14:04.124Z",
+  "builtDateUTC": "2026-06-02",
   "source": "yahoo-finance",
   "1m": [
-    42.81999969482422,
     43.650001525878906,
     43.349998474121094,
     43.31999969482422,
@@ -24,10 +23,10 @@
     42.93000030517578,
     43.06999969482422,
     42.220001220703125,
-    42.2599983215332
+    42.2599983215332,
+    41.290000915527344
   ],
   "6m": [
-    39.9900016784668,
     39.61000061035156,
     39.59000015258789,
     39.560001373291016,
@@ -158,10 +157,10 @@
     42.93000030517578,
     43.06999969482422,
     42.220001220703125,
-    42.2599983215332
+    42.2599983215332,
+    41.290000915527344
   ],
   "1y": [
-    37.2400016784668,
     37.45000076293945,
     37.439998626708984,
     37,
@@ -411,29 +410,30 @@
     42.93000030517578,
     43.06999969482422,
     42.220001220703125,
-    42.2599983215332
+    42.2599983215332,
+    41.290000915527344
   ],
-  "lastClose": 42.2599983215332,
-  "oneYearReturn": 13.480119271769816,
+  "lastClose": 41.290000915527344,
+  "oneYearReturn": 10.253671760637072,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CenterPoint Energy Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "headline": "CenterPoint Energy Inc. stock outperforms competitors despite losses on the day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVjJNS0t0c3NONDBzdHpBNW93LWhnTkxraTZQaGJONW1XaGNyUUs1T0Ntd2tTRmh5SGxqMlptLWpOS2FYTDhwNjZQXzlkYVlMeHFtRnVNRTNaZ1hDRXBpWVluc1ZFamlKZF9vM21aXzJPMC1xX3VUblM4Vko4MmNOQTB2a0dKNTBpcERUR1plclA1N0RBWUhBX3N2Z0xLcmZkU1JlbDdPWjhvQ3g5Ukg3aWgtVmlnWnVwSlF0amp0aVI0MmQ3S0Fkal9XVm90QXE5Nk5fRTdlSQ?oc=5"
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQzEwbE5aYW5hbjVwTXc5RlB5bGNTVDZoQlk4eEo1TUljaDZoU1lCU1JydmMwbEx5YWNQTjNldGUyY0RfN3dYVGtrWXpya216WFJvWFg0Q1R0Mk1VVERBS3NJaGVuSHlSdnVVSEY4blBOX1FZaHg2SjNkOGxucUZSM2ctamlfNHVPRjYxMVVvSHJqdWtKUFRMSWZXTHpFMU4tWjlLRUYyOHlwM2RXeWh1aTlBUVJseWl1ZjVKRlRXTDF2R0Rhb2UtcGVCck1KSmR2RnpzUG8yZ1JjZFZwdldWSnExQURyanZrMGJSVQ?oc=5"
+    },
+    {
+      "headline": "AI forecasts to speed power restoration for 7M CenterPoint customers - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUEF0VEhCTDdQZ2FWd3dQT2hxdTRiUV9iWjItbWlXbG9iT2tkNklUa3h6UkRsQk9qclZTbnFCUkhwOFNpZXgxUTZzT2F3ZlZ0cFhXdU12RnBWbjQzUFdpTDl1Z2NFNk1pcWhVRDhCVE5qa0xCdXpwNERRRnBjYmlEZnhUdEdQUGV4WVkxakZMNEhfQzZfZHZwQy1UNl9WeGpYdEFDOXRQVEVvdHB1MjdvdGcxUHhtZw?oc=5"
     },
     {
       "headline": "CNP Stock Price, Quote & Chart | CENTERPOINT ENERGY INC (NYSE:CNP) - ChartMill",
       "source": "ChartMill",
       "when": "2026-05-28",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWcEVYS2c4OXZKaXlObUQ2UkdGXzVHMDMwVkljakhXSEd3SjNmOUhkeFR2WWdoRzJJMHhjd245Ym1RUTBwTm5EZHI5RjRrZ0k4Y1dzR2pFaEl1T2E1YVE?oc=5"
-    },
-    {
-      "headline": "Ilmarinen Mutual Pension Insurance Co Takes $3.83 Million Position in CenterPoint Energy, Inc. $CNP - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-05-30",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUkNHMEZKMGZNVVY1ZTdVZ3JrOXdtRnBRYjBYcWZfWHBhQ1hwNGtLbDlVVXZiODJBeGl4NnhVYlB6NEtfTmhNT3JqeFZ3YmVCbVVXRFBTOHNOaDRZU2k1azVYR1lDbmU4aGc3NmdFN2VzM2J4X3ZxMTZsc0ZNaVNfRTZSckpXY0RieW5aT2JJQWhVeG5kMWgxb25DQ0pIcXlrODY4V3A5LTVsMzlyaTNNWWYyT2hsZWREQTF6eDUxRzByMFZYbF9Nd3V6Sm8tSWo4M19WcGNZOFhKMEIzeTRvT3ZYNW1oTjBnSnhr?oc=5"
     }
   ],
   "insight": "Tracking CenterPoint Energy (CNP)."

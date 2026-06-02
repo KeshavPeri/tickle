@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-01T06:28:39.811Z",
-  "builtDateUTC": "2026-06-01",
+  "builtAt": "2026-06-02T06:14:07.287Z",
+  "builtDateUTC": "2026-06-02",
   "source": "yahoo-finance",
   "1m": [
-    192.22000122070312,
     193.30999755859375,
     190.6300048828125,
     192.27999877929688,
@@ -24,10 +23,10 @@
     184.7100067138672,
     182.39999389648438,
     183.02999877929688,
-    182.4600067138672
+    182.4600067138672,
+    185.8300018310547
   ],
   "6m": [
-    153.6199951171875,
     151.6999969482422,
     150.30999755859375,
     149.97999572753906,
@@ -158,10 +157,10 @@
     184.7100067138672,
     182.39999389648438,
     183.02999877929688,
-    182.4600067138672
+    182.4600067138672,
+    185.8300018310547
   ],
   "1y": [
-    136.6999969482422,
     137.83999633789062,
     139.5500030517578,
     137.3699951171875,
@@ -411,12 +410,19 @@
     184.7100067138672,
     182.39999389648438,
     183.02999877929688,
-    182.4600067138672
+    182.4600067138672,
+    185.8300018310547
   ],
-  "lastClose": 182.4600067138672,
-  "oneYearReturn": 33.47477014425305,
+  "lastClose": 185.8300018310547,
+  "oneYearReturn": 34.81573329088385,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Chevron (NYSE:CVX) Stock Price Up 1.7% - Should You Buy? - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd1hkSDQtX3VqQmZHaU8wTS1EQ096YmhvVWtoSlB0OGRVWGZocTZKRkRPOEk3WTZqSlVCTjRWRFhOb0JzNmY1N3VHWEdyUVlrQWhNN1BhaUM0dWpaTEJWUEZqMVVYWl83MEYyS1M3bDNOR0w2a0N2eXdoNjlDV0JkWXMyeDVpMHFRWTJVYUYzbGJEN0lmTzdEU2MtY1doOWhiNTAwUg?oc=5"
+    },
     {
       "headline": "Chevron Corporation (CVX) A Top Oil Stock to Buy on US-Iran War Focused on Engine Protection - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU09kUk9idVcxUXI0eEdjRG9obUhzWlVnNVpEMTB1dkhPOHJPQm5RLUdpWDRyblFsLXpmVVZ2cXJzVmNRR2dmaTJwbG1xS2ZSazNqcjduck45Q2Q5SkZPVFdQX0ZEUjRacHU4di1pRm1OWWRWcm1PZGlnemxrVTZkdl9WOHRXZXJRSndfcWdmNjRkM3hfUHRVdWRqMUI?oc=5"
     },
     {
-      "headline": "Chevron Corporation (CVX) A Top Oil Stock to Buy on US-Iran War Focused on Engine Protection - Insider Monkey",
-      "source": "Insider Monkey",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZHA5TVVQTVgydTlXOVExYlA5d1A2VldDWXJOUUc5ZDdPYVJzblNJTzdBVDQ4UmZDdDhWdEJ2dDZCYkhzZVZ0Z2EyQUR2OTFKVjFxQXA2WnFGTXItYkl2ZWlWcTFEOEJCN1BzSHZRQTF0bjhTaU1SVzNqbllvNzd6N0NMajJJTlYtLU9mWkJXZm15QlR2UEQzQXpVM3BqN0NsMmhDR1VNcGpDOG1IS29LdmhDYkw3czJ3d2pndHBUVzhzSmVmdzBibWxMSVJqNXZabVZFZllGUdIB1wFBVV95cUxPZHA5TVVQTVgydTlXOVExYlA5d1A2VldDWXJOUUc5ZDdPYVJzblNJTzdBVDQ4UmZDdDhWdEJ2dDZCYkhzZVZ0Z2EyQUR2OTFKVjFxQXA2WnFGTXItYkl2ZWlWcTFEOEJCN1BzSHZRQTF0bjhTaU1SVzNqbllvNzd6N0NMajJJTlYtLU9mWkJXZm15QlR2UEQzQXpVM3BqN0NsMmhDR1VNcGpDOG1IS29LdmhDYkw3czJ3d2pndHBUVzhzSmVmdzBibWxMSVJqNXZabVZFZllGUQ?oc=5"
-    },
-    {
-      "headline": "Chevron (NYSE: CVX) awards 1,272 stock units to board director - Stock Titan",
+      "headline": "Chevron (CVX) director Marillyn Hewson awarded 1,272-share stock grant, holds 15,020 shares - Stock Titan",
       "source": "Stock Titan",
       "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeFNSbTM5X2NCMzAxNF81OXJHY1hkSFdRSHNKR2dpVGdNWDl0RWh6UU16M2Z5SGVrODdvVlpkU1Q4cXptbWdIZnBzS2g2UFF1YTN0UmgtdkZOT2ZYN21mbW1ta2xWOVJ5cHRXYkVldG1FTFBZeFhBZ0k5eS02YnkxX1AzVUtQUS1PNmNtNTEwajdDdHVrYmJ4bjl4VnBFX1c5VjlxSmR1bGk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNVBqQlU0VFlPbHQxbUlSbktHcC1SMkt4SE9FbkJWQUx0dV9lYS1vakM1VF9DcFZFcE05eVVOMVRqcXk5aWpQemhqZWU2MVhnMjZ2cmIzWXdUMmdmalRkWDVxWkVnNlBCTU9BOGhMcUkzZUMwV1ZZU2NfNDl5OVEzZkh6WjhUdHNSSENkNXR6S1hXNW01LVM4WGJkZWppeWxUOUQzc3Z0cW0?oc=5"
     }
   ],
   "insight": "Tracking Chevron Corporation (CVX)."

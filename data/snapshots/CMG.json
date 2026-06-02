@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-01T06:28:36.479Z",
-  "builtDateUTC": "2026-06-01",
+  "builtAt": "2026-06-02T06:14:03.536Z",
+  "builtDateUTC": "2026-06-02",
   "source": "yahoo-finance",
   "1m": [
-    32.9900016784668,
     33.9900016784668,
     32.97999954223633,
     31.979999542236328,
@@ -24,10 +23,10 @@
     32.310001373291016,
     32.689998626708984,
     32.41999816894531,
-    31.860000610351562
+    31.860000610351562,
+    30.549999237060547
   ],
   "6m": [
-    30.760000228881836,
     31,
     30.350000381469727,
     31.6299991607666,
@@ -158,10 +157,10 @@
     32.310001373291016,
     32.689998626708984,
     32.41999816894531,
-    31.860000610351562
+    31.860000610351562,
+    30.549999237060547
   ],
   "1y": [
-    50.08000183105469,
     49.84000015258789,
     50.06999969482422,
     52.15999984741211,
@@ -411,10 +410,11 @@
     32.310001373291016,
     32.689998626708984,
     32.41999816894531,
-    31.860000610351562
+    31.860000610351562,
+    30.549999237060547
   ],
-  "lastClose": 31.860000610351562,
-  "oneYearReturn": -36.38179024467382,
+  "lastClose": 30.549999237060547,
+  "oneYearReturn": -38.703854045886736,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSG5zTmtPQ2RYNnR2T3BZUFkxMElKZDZaSk5vdjcySlBib214VEV0MlVIZlpSNktUZkQxUFgwQ084dk16TlRLWlRBazhFUVp2aVVUTXQ4RXUyNHVMQnhaQXVvdk5UODVpaXRsZHJxTFJ3VHhVTFZpcDU4RDRBbDNGMnp5b01fUV9FeE0xOVdFWG42cFd5dmliLVR6dEZMUQ?oc=5"
     },
     {
+      "headline": "Eurizon Capital SGR S.p.A. Purchases New Position in Chipotle Mexican Grill, Inc. $CMG - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-05-31",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXpKSUN3eXhfZDMtcUVvc0dmZUMwZTNaTmtqUWstenZjemlWb1JkQURKZVZtNk9zb3daclJFcTFyczhaMWNXclhSaDhFc0JTQS1kOW1nVUhtYmQ1a3RvcURjYmFkdzdIYVZYUTBiTXl2YVNuemktbzc2cS12LWdVV1QyZFAxZDdtem05T1hpdEstLXV2VjdfQVk3bkJPZURIcEdISEpRQXZPRGZuYmtKN3BEc2I5aXllbnJLYnJoSTdyUFBEdDhma3JnVm81ZDVLYi1TTXhQajQ?oc=5"
+    },
+    {
       "headline": "Chipotle Mexican Grill Stock: Is Wall Street Bullish or Bearish? - Barchart.com",
       "source": "Barchart.com",
       "when": "2026-05-27",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3RrRnN3aDRXRTJLUWNGdlJtczdnMXM5OE1wdk1kSWdKZjVGNXFOT1pLNGllUjZvNnpNTzMwLUE0cDctbTB4ZDR3bGw5UFRMeUdEbDE3M0ZKaFVLZE1XMzQzcHN0WHV5TnN3QnZvNkN1ejFMMVZpQUg1bTY3VU5nbmZuRTZGcmQ0dnE3Tnlpb0hDZ1R3OWE5VlJ3aGNhNTVJTVhlaWM4Q2FSdw?oc=5"
-    },
-    {
-      "headline": "Assessing Chipotle Mexican Grill (CMG) Valuation As New Value Menu And Rewards Push Target Traffic And Loyalty - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaTBXWnBZT3I2SUk3eVFLRnVCc25hZ1JRTWlaWVlhb3pqcFpROUh5bERaWm1QaUVrOTV3YUZnUWNwS0JISVFQRTAyZzNxNEY1WG1ZZlVYNEVQRlNkaG5rSE5KWjJ4OW12N2JUTjByUjN5T0tGTnNaVlQ4TEVvT2VVdnBuTEdENk9ybzV4V3BlTnd2Y05GWE1MZ3FqcGpIY1I3WGNlUDlIUEhOVWswQ0ZCVTUxQ3FpUGRWenBZd2pGbF91bEJCRXJqMl9EWElGN3BmdGszVldZRDk2UUNlbjFr0gHkAUFVX3lxTFBaWGpoc1h1UnpkQ0pnYTVvYXk0cmh4Z3JZckRNRW95N1RBWDQ2TWdUZXNNbnZ2VF85WWRQVmRHTGdCZmNVRkVuU1dTRFBlUjFxQlpZX2N5RWFrWHdqcEF2eWxCeGFpNVRGWFV3QnVneFRvbmk1V2U5ZUp0TjhVX2JKcGVicFdwZHozOXlRaG9abmVPemgtaFlieHdMWjI0Ym1ieG9oUWIwNGFDSzJjd0gwVEM3R3cyQmUyNWdjSm5scHFObmlLVFdQMUF3Q01aLWNCZl80QllWWGJvRTBzQzhEUmlmaw?oc=5"
     }
   ],
   "insight": "Tracking Chipotle Mexican Grill (CMG)."

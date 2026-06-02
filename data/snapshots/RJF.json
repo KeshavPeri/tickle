@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-01T06:29:06.016Z",
-  "builtDateUTC": "2026-06-01",
+  "builtAt": "2026-06-02T06:14:36.340Z",
+  "builtDateUTC": "2026-06-02",
   "source": "yahoo-finance",
   "1m": [
-    155.5800018310547,
     158.32000732421875,
     156.1999969482422,
     156.80999755859375,
@@ -24,10 +23,10 @@
     152.1300048828125,
     145.39999389648438,
     142,
-    143.41000366210938
+    143.41000366210938,
+    145.82000732421875
   ],
   "6m": [
-    155.77999877929688,
     157.72000122070312,
     151.3300018310547,
     152.99000549316406,
@@ -158,10 +157,10 @@
     152.1300048828125,
     145.39999389648438,
     142,
-    143.41000366210938
+    143.41000366210938,
+    145.82000732421875
   ],
   "1y": [
-    146.97999572753906,
     145.4199981689453,
     146.08999633789062,
     145.39999389648438,
@@ -411,12 +410,19 @@
     152.1300048828125,
     145.39999389648438,
     142,
-    143.41000366210938
+    143.41000366210938,
+    145.82000732421875
   ],
-  "lastClose": 143.41000366210938,
-  "oneYearReturn": -2.4288965636163726,
+  "lastClose": 145.82000732421875,
+  "oneYearReturn": 0.2750716272246936,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Raymond James Financial Inc. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORVF6NVVtQnEzcTcxWl9TTGlXQ19JaUNZaUlCUnJ5Mm03UnI4UnZUN0xqRW9NYk85X0xEZU84SC0zZlJSNVdjbmhHcWE0bk5PMXBlRXhnMXp1cUxkS0duSlFvbEE2MXZFaXlUZkpHaGp3VTBZVzRaVkdvbGp0Mk1MMmRfU3VuaGFYZE5IWTY2YXgwUnY4QTBvc0RiT013cU9vcWJPenVYYTJiMzRsOUNzTUpjdTk4UWtMS3pkX3U2eF9SSjlQdnJjSXVqOF9RRXVBWmg5c0YxdTRsS2tMb2VGRnJvMDJWZU9idzdRaGd0ZXVvV3pNVHIyV2FCNHAwQUd3Q2ZxWEpnV3JhZVZ4bVE?oc=5"
+    },
     {
       "headline": "Raymond James Financial (RJF) Reports Record Client Assets of $1.87 Trillion - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0pwSFJBNDNuZDFzaGhwdlM2QTJ6NjRzNEoyd2RtckZFOG8tVnB1bGhYOTFGOVNDd3RKVU5La2lCZG5uR3VkalNVejk3WVhCWFR2NW4ycHJrT0drMmx2bE4wdS0xTTBCdnBvS0dZLUxpUTZ1dmxndE9BSDJ4MlpFYWZRaDYxQThPa1dXV1ppb0g1UldvMVlRYUlCVHpBRXZlUmc?oc=5"
     },
     {
-      "headline": "Kingsview Wealth Management LLC Buys 17,407 Shares of Raymond James Financial, Inc. $RJF - MarketBeat",
+      "headline": "National Pension Service Buys 13,273 Shares of Raymond James Financial, Inc. $RJF - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVpGaFEwUmpsbXJfSUp2SFR6YmNQS2xQUktvSWlVWl85VlpXMm51U1hjdVZWVFhTb3MyUXpaMzJINzlEXzhxNmlBeEF3NGFGWVF0cDZia3gtdEFLYmJYLU1IVi02bkJPSkxpcTRoNWFTaHNXcHl5ZHpBZ1gzOGJuWXlDQVh4b254TGsyX3RxQXFyUzZrSmNXN3I5bWtuZEdQdENoNUFGQm1PNVI3N3Z6V19sekxGdFJOTnptNGJXdkU3OHdvUWNEbUdrSURxVExnWmJmeXQ5M0hNbUp6TkE?oc=5"
-    },
-    {
-      "headline": "Is Raymond James Financial (RJF) Offering Value After Recent Share Price Pullback? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-05-30",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ0VMQjZSMWFtc2xqeFlvb1BDWHJ5TE45bDZRb2gzTS1UZ1ROMDF2WDZGNnV6blNHc2J6eTRDSzZiQlgzeHRieDJpQ29CRF9LbU1JejFzTEZDOGFZLWdPZEN4UkRzSE5oVXM0UUxuRzVnRWJ0Q0lqYlhjWUtfN2k4YlI1VF9JVE02RlV6ODV1ZVppZXd2a29US1RDMFAzcXdHYzVaQnBPaG9oNHJzVmtzblk2aHc4RFlmRFNmSEZCbWtMN2ctYnNHalN6dGU5SEplYnJVLXlwOWNzczRMRTl4bTR1UjVPd1V20gHuAUFVX3lxTE52dnFvakxEb0pUbG9rMno4TXR1dTF0SlBuTEFnYU1LWWMtUVpmNWxOM3FyUm1BeWpuNTZVMWtJS3lIdnZ6cUtOaDUyaU5YSE8yTDJVeF9pQkxOUi1LVlVHaURkWmZraFlScVNlZm94dE1veC16YUlrN3B3V1JXY0pzYVV5QkFpYTk5eU80RFZER1RHNGFCd0kxMXBpWWtFOGVWZWFFSGVQWG9YZndselM5eDUza3RKTVZrZXVrX1NuTnhicENyOTlIZGQxam9VTS1TekRaOFFvRTFpSWpEQ3QzVlZrYW03bjJjd1V5alE?oc=5"
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPckpGM2gyR1d6Q0V2ZHp3akdkRkpQWGlfckxtZUFVR3RQTWxVdDdtTzN2YzNIdlYwSGg3QUp5a0tJNDM0TmZrLWhSSy1zWXEzY0t2M1ZFTTRaUzl0cXBKOE1zREpLOXlhMDV2RTZVUGI3NHhTc2tFV0ljTkFZWGJWSFd1YmphZTFaMXJybElEODlLOE1vM2Z4NGxTd2tGQTdLb2Y0Zll6cFpvcjA0Z3ZQV0IyMFJ4RmVRMm1FV19JVlphWlBmNDlacF9CYTBXc2VGbFVEbw?oc=5"
     }
   ],
   "insight": "Tracking Raymond James Financial (RJF)."

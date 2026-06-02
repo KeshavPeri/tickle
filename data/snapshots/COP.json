@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-01T06:28:37.475Z",
-  "builtDateUTC": "2026-06-01",
+  "builtAt": "2026-06-02T06:14:04.675Z",
+  "builtDateUTC": "2026-06-02",
   "source": "yahoo-finance",
   "1m": [
-    128.25,
     125.77999877929688,
     123.19000244140625,
     124.91000366210938,
@@ -24,10 +23,10 @@
     116.56999969482422,
     115.12999725341797,
     114.98999786376953,
-    113.9800033569336
+    113.9800033569336,
+    115.58000183105469
   ],
   "6m": [
-    89.68000030517578,
     87.9800033569336,
     87.47000122070312,
     87.37000274658203,
@@ -158,10 +157,10 @@
     116.56999969482422,
     115.12999725341797,
     114.98999786376953,
-    113.9800033569336
+    113.9800033569336,
+    115.58000183105469
   ],
   "1y": [
-    85.3499984741211,
     86.72000122070312,
     87.91000366210938,
     85.94999694824219,
@@ -411,29 +410,30 @@
     116.56999969482422,
     115.12999725341797,
     114.98999786376953,
-    113.9800033569336
+    113.9800033569336,
+    115.58000183105469
   ],
-  "lastClose": 113.9800033569336,
-  "oneYearReturn": 33.544235963277,
+  "lastClose": 115.58000183105469,
+  "oneYearReturn": 33.27952053056667,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Barclays Raises PT on ConocoPhillips (COP) Stock - Yahoo Finance",
+      "headline": "ConocoPhillips stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQT1Z1REgydnBnMEJwT0o1TjlocERERHRKWWJVTlc4a01pM3lZLW5uMXlrb09PcTlSc1JQS1NUTjZxTi1LX3V2OS1GclRIb192RXowZUFtQmZUMUNFRnZuX2kxZVRoa1NVZWRlR0E5bnFsNFFQcHlkQlpqOHV6azFCZTZackpDNmJrUDJVd0xndUtZejZ3aDdJU3loWm1rd1V4YlFQc05JMXE0NWxLUllzcHZpaXFnSVBESk5sazktbnNWeUNqdlV3a2VoZG1ibF9JT1paRGNCckVwdVFjYUUyTFV3ak1jZE4wdHFONGgzMjBlTDB6aDFSdUh0bTA?oc=5"
+    },
+    {
+      "headline": "ConocoPhillips (COP) Is On Jim Cramer’s Radar When It Comes To Oil Stocks - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa0xtbnRUYUowaGRQVHM4T2lJQWFZdko3bjhtUmRXQlA2dF9jQThlR05EQW5QSXN4RVVucHM3bncwX1NwTldXWFFsVzI2ZjktQ3V0MHpWWXM4TjNEWWM3YXJVUnduOURxSEh0bnpYWUF5Qzg1OUZRczBPQWRlbmtPczY4MDJTRVBBckpFd2dGcGdtVHJFSTVuWm9kaGY2ZTlvYUQ5aQ?oc=5"
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQTVzeXUzSDloNXZwYmhHYTVxWnpheXR2UXdxZnphU2NfMVkxR1liODcwSnRqTTRmcGlta0dJRUFwQVRUSm0xRmRKcmpmTzdRS19UcnRKdVBRMFA0S2t6cElxN0xaSkh3TnNPQUhmT0lFbDlpMXpLeUpKbDVxTFI2YjBJNEhVY0JTdjE2c2JvVU1lMjBkbmhwQUw3RWlHdEt0eGc?oc=5"
     },
     {
       "headline": "Is ConocoPhillips Stock Underperforming the Nasdaq? - Barchart.com",
       "source": "Barchart.com",
       "when": "2026-05-31",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMVJkblloNXBremRueHBDTWU2ZjRtMUFhME5RdC0ySUhvWTVVSHZScHdfNjRTdnI3ZTdvSnFHb2ZzNHY1VUEtYXM0Z0lSVy1XYTFwZVNyOVV2QnRONFByNmxHQTdvYnBnNFItMy1URFpieEhjN0o3RXBQZ0FZM1FZVUtVcS01UVBZdVVOSXFjWU14Z01EZnU5NHN3?oc=5"
-    },
-    {
-      "headline": "ConocoPhillips Stock Trades 14% Below Its 52-Week High: Here’s the Path to $135 by 2028 - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0VBRTczR3NjVENrZTJRY1VkOVdyaDNRLUZxdm5CR1NlQW85cDJTX2o0MlJnVU0xZFpsR09DeUItazZ2RFNLUGpTNDlRakJTdzNSb2hwNG9pdFFXY29IaUdIb1laTnJPb0Q3VkI3VG54SU1Vd1FXSTJKV0ExMGlDYWZGNkRqaXNxNDFiUktrV29zNFJfTEVMaUdaV0JxMGp6TUFDb3VHblZveFJFNHc?oc=5"
     }
   ],
   "insight": "Tracking ConocoPhillips (COP)."

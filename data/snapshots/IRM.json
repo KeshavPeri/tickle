@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-01T06:28:54.988Z",
-  "builtDateUTC": "2026-06-01",
+  "builtAt": "2026-06-02T06:14:24.137Z",
+  "builtDateUTC": "2026-06-02",
   "source": "yahoo-finance",
   "1m": [
-    114.5199966430664,
     125.98999786376953,
     127.19000244140625,
     128.22000122070312,
@@ -24,10 +23,10 @@
     128.39999389648438,
     127.01000213623047,
     126.83000183105469,
-    128.25
+    128.25,
+    126.37999725341797
   ],
   "6m": [
-    89.27999877929688,
     86.69999694824219,
     83,
     85.0199966430664,
@@ -158,10 +157,10 @@
     128.39999389648438,
     127.01000213623047,
     126.83000183105469,
-    128.25
+    128.25,
+    126.37999725341797
   ],
   "1y": [
-    98.70999908447266,
     99.47000122070312,
     99.95999908447266,
     100.20999908447266,
@@ -411,29 +410,30 @@
     128.39999389648438,
     127.01000213623047,
     126.83000183105469,
-    128.25
+    128.25,
+    126.37999725341797
   ],
-  "lastClose": 128.25,
-  "oneYearReturn": 29.926047198367428,
+  "lastClose": 126.37999725341797,
+  "oneYearReturn": 27.053378609101646,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Geode Capital Management LLC Grows Stock Position in Iron Mountain Incorporated $IRM - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdzl0UElSNmRVZlhkX1dkcjBPejRuWHhXbVpKZlRmQkFRcHZYNExReW9Na21LMXNPYTJXalRQakFWajh1M0FWczNkOEpXa3AzMUFGdXRNV2pRN3pOT2xOeE5VMzZnd2JtZWFlUlV4NTkxSFV4dVZGLU1QZnpyaVpWS3gtTE04VDdVUm1QT2dMUlRLMjQtcjV0eVltN2l5S05oSDZvOVVJTTVtVUhSWHVON0NsXzZwVE5SMnFWQV9wSWJRb2stc09HQW5aN3VsWEN0cmh0alB6UXhHZGlz?oc=5"
-    },
-    {
-      "headline": "Iron Mountain Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "Iron Mountain Inc. stock outperforms competitors despite losses on the day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd18zNVpoR2s3QktRZF90eWh2TTRRWmU5eTY4dDM1aDBCTWltX053RDM1RG9yTUZQbnNZME1VcmpkWHFRd1duWmpqVDZnU2JWZXQ2REdaZ2lMMU8xdjl5bGpwOFdkeG9GTE9NaW9WdUFIYkVkVGxESjF0VzY5THFRVUpWcXdEdUVLSktuZEVIalpEdWJsT3VFRGNjYndGSkNCOHd4bTF4MTRueUFjaUhDNFRYUjRiMkhjR3lnQmlOemtEZE1aWGkzNA?oc=5"
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQmM4eUxyZjZla2thc05ISTlGUzhISzdyVUphVl9oTmxGOGtNYmhNYm9YZzVEZWo0ZFBITWZjWTdQMEU1eG53bExpdWVuRzVKNjF4SlhtWFFjVE1SX2UzSzVvY2xhZmUxNVpnQ2V1ZXNHdVNyV3lvRTBsVmo2OXpXYklReXdoVnJIdzhyNVhIWkd5YTFqV3k4M2RnV3ZKbjNabHo3eURZVW1valRHaV9CaHh2RzREMGU1NkxDd19NRWdsR3BqTEZtaERFOVk4VWNmcFlPTklqdFd0cXE1MHFvS0xtYXQyQQ?oc=5"
     },
     {
-      "headline": "A Look At Iron Mountain (IRM) Valuation After Recent Share Price Momentum - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY241bXcwOElCd0h1Sm0ydTQ5M3c5c1ZKV1VPbmlEVzIwREFQcmlrczcyTFM2NnRLNnN1OUdtb3ZLY1VKTTNyc1BPS3VfOU9vMEJBX0EzdDdEdDEtOGJtRnBLZjdQTTd3bVNjRGk1eHVNemNMdHBCanVRRUJJOEhZUVFfSE9qbjRDdFRhMElFV3F5YjVtdlFiSVB4X0JsN2xUVmg3WVdKRVVUWEJZeXZqZjJNZ09wZGw4YjNySkFFdzVlSDhQMmg5ZU1CLWLSAdIBQVVfeXFMTTktU3RGTDVobEx6elRwQ0dmZVJwVV80VDVFWnN4UU81TjRaNHA2UldKajhSWV9kYkZIZU5wZUF1bjRtQmlWeWtIb2dSWXZHN2ZtYlpnbU9aSnV4LTV6eWNPR2o0TWxVdW5TWE9KeHpfTXFXUGxVendNXzlUdGxEWkhMZmxhZ2xIOXE5WXRmNl9fMUtpb1lzTV9lN1VELXdjR2JMTi1oTlIwTV9EbE41ZUNic19EVTl6a3lyVlVpTHFPXzVWR2JiT2Z2YnBwQ2FpMFZB?oc=5"
+      "headline": "Texas Yale Capital Corp. Acquires 8,350 Shares of Iron Mountain Incorporated $IRM - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdlkwTmwtbTFaUElTOE1jQWFibVVWMng3SGdqUWppejV1dUJ5WmJEVmhhUTZwdlM5ZTVHdFlqcl9CdEJoM0lWZkJveTZhZHpYSnN1SlJpXzRheWV5Z2l3dWVxeUxmcXlIbDlPVnZmLTl1R2NzcWRWMzgtSERoaHphMks1ZnRQcFRYVHpaUDF0TXJjcDlWMmxvZHlrRUdNakdCSkg2dTgtZDhKekpBWEtGZ095SlFwR0hYcHZ6YlV3ZUxIVTM4eHFtd3dWbW5YdURMaTdmbUlR?oc=5"
+    },
+    {
+      "headline": "Iron Mountain Stock Up 29.3% in Three Months: Will the Momentum Last? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-03-11",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fRHc1Z0ZvYjlObk5oQ1FzU3JmTi11UXkzdGZvd05IMXN4Nml2dndEamNKai1ldldKeTB3U2xuU3Y2RHA1VmVlX2F4anVrZmxNcmJlV3hJY01tMUl2Ukg3MTNqTW1FcGlDUndlclBxN1BlNDYtSzlWMEJR?oc=5"
     }
   ],
   "insight": "Tracking Iron Mountain (IRM)."

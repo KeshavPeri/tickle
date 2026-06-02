@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-01T06:28:46.845Z",
-  "builtDateUTC": "2026-06-01",
+  "builtAt": "2026-06-02T06:14:15.255Z",
+  "builtDateUTC": "2026-06-02",
   "source": "yahoo-finance",
   "1m": [
-    232.32000732421875,
     227.5800018310547,
     227.5800018310547,
     224.44000244140625,
@@ -24,10 +23,10 @@
     230.9199981689453,
     235.72999572753906,
     238.89999389648438,
-    245.47000122070312
+    245.47000122070312,
+    270.8500061035156
   ],
   "6m": [
-    272.1099853515625,
     267.0199890136719,
     273.04998779296875,
     277.0199890136719,
@@ -158,10 +157,10 @@
     230.9199981689453,
     235.72999572753906,
     238.89999389648438,
-    245.47000122070312
+    245.47000122070312,
+    270.8500061035156
   ],
   "1y": [
-    458.260009765625,
     456.55999755859375,
     434.5199890136719,
     433.7900085449219,
@@ -411,29 +410,30 @@
     230.9199981689453,
     235.72999572753906,
     238.89999389648438,
-    245.47000122070312
+    245.47000122070312,
+    270.8500061035156
   ],
-  "lastClose": 245.47000122070312,
-  "oneYearReturn": -46.434339460201286,
+  "lastClose": 270.8500061035156,
+  "oneYearReturn": -40.6759226494092,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Here's Why FactSet Stock Is a Compelling Pick for You Right Now - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWZyd0FIdmtsVjVPb21LRmdxZkZQX2cwTUpMWmJXUDhlUEtuUmJ6NVAyeWJRQS02TVZjSVlDcjUwa3FkZndHNDBwYzlaSTRyVWR5V0ZWaHlYWEhFMWdvdFVOeEF0TkpaLVNYZHNwWDFWeElZNzlfYUFKVGlDbFhJZ0lNc3VuZTdpMmprWXU0SEUxUUNSYjEzbXZRWnZ3YUJ5?oc=5"
-    },
-    {
-      "headline": "As software stocks struggle, Snowflake shows an alternative - Axios",
-      "source": "Axios",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PdjgtQlBGdEUxZGtjMVZKZHprdWtQSnZLWTVlY1g4bVBKamsyTHIwMS0tT3pNYkg1MWNRRjZLZUdHMDM0WS10dHNMSmdMYmw2TlFwMlZ0QXlTTVZlamVrV2l6QU0zRFJCZ3cteXowRTBKWWNsS2c3WQ?oc=5"
-    },
-    {
       "headline": "FactSet Research Systems Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYWNRdU4wNmR3X1hjOFB0czNLdWRnbkxxakwxazJrb2FCMnRBVnV5NFEyaWtFMTFtbFdhSlpNd0dQTUsyNllCc3JyUDZNcmZZZnJzc1ladDFHd2t5cVhFVjZiWlhQc2Z1X180Y3NGYVY4VlZqZ2ozakp5a1U4ZThfc1lUNmRGdjhHd1R3VURxenkyZ0YxR0dIVFhpNVRQQl9QSi1JLW53Q2FMQTg3R3pjNk9MQ29PZUQxRTIzbXdBZFJSMDRmUkpjbDdlcVhFMmhLaENja3h1OA?oc=5"
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVEZrY0NRLXhOSEowTVlCWjE0SUZ2cDNxdWZyQl9ma3pLZ0dxMktSbjYxVHU4QlJyZ2FwUVl3ODZHUWF0YnlhMlduSVpGSGhUR09YSFhSX3NqaVdQWV9ybm95MlpuUnFVMG1sam41czVvWEtkUXRIbXpKcVVocGtwMWEwYzVrdmRMdGppZlhiZ1dKbUJDWThGd3dkMUZGMnpvVmVtN1lPSW5MQkZOWlZ2aU5WR3hOdFJpb1lrRE9WZTBLMUdSdU01Tm1WZnlxQlVnNG1fUERhdw?oc=5"
+    },
+    {
+      "headline": "FactSet Research Systems Inc. stock outperforms competitors on strong trading day - MSN",
+      "source": "MSN",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNajJSWVhnNmlkdlpZM3Bkc05kZG1tRTVKRXF6dFNPelR0anFmcTYySkMwdWRRalpYRkNSZmxob3U2WlBvT0hSZzRqYjdFQndjV3hDdzBmM1VRQXZGRkE2UDhnWDR6WnVBaEVxdFN1WjNONGJkcmtKdEFSN29BclBFcWMzQmJ5cFRVM1h4Nk9BSFhNUF80SkUzWTRoalBua3YtMk5mRmZlUURTcnVtcnc5ajBBbFgyVWVIeWVOdGdGeUs0dDczdW5zZzYzX2tOMzg?oc=5"
+    },
+    {
+      "headline": "FactSet stock hits 52-week high at 251.12 USD despite yearly decline - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzE5YUowZnphR21wU0xlREcwVVJDall2OERNOW1TaG9PWEhjb1ktMTd0TjRfOU93SDFMNUlJRVROdXFadENyejRqMHNVek1wOHhVVTlGVGx5UlhtR216dmg1Y09PTFh6cHBQWElGeXAxWWNvMG9rdHFnaTJuaTJfazVGZjB3bnRod3RxcUZFcENXMmhNN2thSFFuVkx2enJ4OWIzQlZFOC1vcm1OcDB6ZUp5YVFRMGY2TXQyWUo5SEc?oc=5"
     }
   ],
   "insight": "Tracking FactSet (FDS)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-01T06:28:25.380Z",
-  "builtDateUTC": "2026-06-01",
+  "builtAt": "2026-06-02T06:13:51.299Z",
+  "builtDateUTC": "2026-06-02",
   "source": "yahoo-finance",
   "1m": [
-    92.72000122070312,
     94.45999908447266,
     93.81999969482422,
     93.6500015258789,
@@ -24,10 +23,10 @@
     95.37000274658203,
     91.4000015258789,
     90.66999816894531,
-    89.33999633789062
+    89.33999633789062,
+    88.73999786376953
   ],
   "6m": [
-    91.79000091552734,
     91.16999816894531,
     91.87999725341797,
     92.45999908447266,
@@ -158,10 +157,10 @@
     95.37000274658203,
     91.4000015258789,
     90.66999816894531,
-    89.33999633789062
+    89.33999633789062,
+    88.73999786376953
   ],
   "1y": [
-    95.04000091552734,
     96.2699966430664,
     95.81999969482422,
     94.75,
@@ -411,10 +410,11 @@
     95.37000274658203,
     91.4000015258789,
     90.66999816894531,
-    89.33999633789062
+    89.33999633789062,
+    88.73999786376953
   ],
-  "lastClose": 89.33999633789062,
-  "oneYearReturn": -5.997479506237536,
+  "lastClose": 88.73999786376953,
+  "oneYearReturn": -7.821750329144946,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYjgydWZWN0xubmtEMlFSTGtTU2NyWjdQNGNJbFZveXM4RHM4XzUwMmJUWWZ1VkozaFhWY1RwQ3BOZGc4MUVkNUEyME5qYlE3Y0M0Q3QzcV80emFRbGlfajVKMEN4RGdtQjN5WVVaSGY1RTJWSFNfUVctYmVCWHhLNTFNMm1ORU5oUXI5QUlRYVBvVXJaa1pmbTBZNHZiV2FueVZKRGgwS0M?oc=5"
     },
     {
-      "headline": "National Pension Service Increases Stock Holdings in Arch Capital Group Ltd. $ACGL - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR21NOFJCV2RkY1g1aDVsMENCNEJIU1B2WFNIVVR1UzZ6QVE0RG5USURtQVJYbndoMS1YZVBFUEQ3OGVWLVJpZVlOTlVjUk5BZTZVMnAzekFRTzVzWW5xa0ZBb0xmUFhmQnBOX3U4Ui1UajVZWFAtMU1nRkpZZEpLRUVRdVh3dURpVHlhSEJUa2FIMjN5cFFyYy02aVIwbUx5SndpWWtNX1hORENTVDdkc0NGTGhic0VuR1NyNzRKUW90WGFiaHZBdkRueEZpekFGOVJSdmhFRkY?oc=5"
-    },
-    {
       "headline": "A Look At Arch Capital Group (ACGL) Valuation After Recent Share Price Weakness - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-05-29",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbTIxMXBBdGZkMGpPdnBfb0tkSUtMWEF4c0FycENIdi1hOVRmQW93WW9VYTJpOUY5VFA2a3JNR1JZTjJ0VDBLeFk3VVVlSlpsclJ3YmIyeUlRVElSc25kallNaGt0WGJPcmlzLWVPSU9YSjU3RklHZ3Y2cmt6Rk4tQXFQRVdsVi1FdmQ4UERfZ3gwYjRPVl9obG1fc3dTbnBTUnhpVkptTDMzSzhPRko3SWFDeWpGQXNEVExpX2RWRmNqTWYyRHQzdmIwOEtEVnlzblN2cUhNY9IB3AFBVV95cUxOVFdtR1hFTE5MWkY4VzByTVAwdFEybFlKbmpaS1hwNG8xT1pPcXJIZlhid25Oc2tWa0hDMzdyRndTRHdUWkUySHV0d05uYkh4QmtfdFY0MWNUaVp3SEtXdjdpZi1mOXpmaHBHRVhPa0MtSURfdGdrZTRBS3RCa1JnSWpZTUNFal91U0dyZlFHU3drcHI0SVNReVBVTjZhODBGdmlFVUZ6bDBoeDF4MzJoMkpwQWhfOXVxZmU1ajkxeHZSMlpOa2VCZHMyaTNJZ2lnNUFYR2ZpeXVyRTR5?oc=5"
+    },
+    {
+      "headline": "National Pension Service Increases Stock Holdings in Arch Capital Group Ltd. $ACGL - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-05-31",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR21NOFJCV2RkY1g1aDVsMENCNEJIU1B2WFNIVVR1UzZ6QVE0RG5USURtQVJYbndoMS1YZVBFUEQ3OGVWLVJpZVlOTlVjUk5BZTZVMnAzekFRTzVzWW5xa0ZBb0xmUFhmQnBOX3U4Ui1UajVZWFAtMU1nRkpZZEpLRUVRdVh3dURpVHlhSEJUa2FIMjN5cFFyYy02aVIwbUx5SndpWWtNX1hORENTVDdkc0NGTGhic0VuR1NyNzRKUW90WGFiaHZBdkRueEZpekFGOVJSdmhFRkY?oc=5"
     }
   ],
   "insight": "Tracking Arch Capital Group (ACGL)."

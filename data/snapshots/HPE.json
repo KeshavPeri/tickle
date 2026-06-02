@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-01T06:28:52.345Z",
-  "builtDateUTC": "2026-06-01",
+  "builtAt": "2026-06-02T06:14:21.252Z",
+  "builtDateUTC": "2026-06-02",
   "source": "yahoo-finance",
   "1m": [
-    28.299999237060547,
     28.770000457763672,
     28.56999969482422,
     28.709999084472656,
@@ -24,10 +23,10 @@
     38.060001373291016,
     37.20000076293945,
     38.209999084472656,
-    43.040000915527344
+    43.040000915527344,
+    47
   ],
   "6m": [
-    20.899999618530273,
     20.600000381469727,
     20.020000457763672,
     20.520000457763672,
@@ -158,10 +157,10 @@
     38.060001373291016,
     37.20000076293945,
     38.209999084472656,
-    43.040000915527344
+    43.040000915527344,
+    47
   ],
   "1y": [
-    17.280000686645508,
     17.34000015258789,
     17.690000534057617,
     17.84000015258789,
@@ -411,29 +410,30 @@
     38.060001373291016,
     37.20000076293945,
     38.209999084472656,
-    43.040000915527344
+    43.040000915527344,
+    47
   ],
-  "lastClose": 43.040000915527344,
-  "oneYearReturn": 149.07406947495042,
+  "lastClose": 47,
+  "oneYearReturn": 171.04959392393968,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Hewlett Packard Enterprise (HPE) Q1 Earnings: What To Expect - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObDVJWk9oT0JqX1AzZklDRGZyWVlvdnpNX0pGS1VNT0Z6ZUFJbWFHVVhPR003dUcxd292RmJXdVV2Mm94OUxkUW12UVF2VXEwM3lmMjFZeFRYd0FWUHlGUG5hN0VyWUdqRFpYQ1BSQ1dldENzY2h6LXZvcXY3d09rYllON3JuakQ4ak9tR0YydFJrb0swMURoN19IeXRjamc?oc=5"
+      "headline": "HPE skyrockets 30% on biggest earnings beat since 2018 - CNBC",
+      "source": "CNBC",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Cc2gxWlZ3d1QtRG9HYUdGQzBRNXVwNGdsbHJHeFB3cEt0WVZ5Vi1zM0duaHl1czRpbzVOMUpCbW5zRlByZktjenJhWU41eUFhT1RvMmE4ZWdaUDljTE1Ga0psZXVJVDZtbVHSAW9BVV95cUxNaElnSWJPdnl4Qm5kNEctX1dUSDZrekg4bjQ2RGFNYWdjeGZvWXRsUUVHa1R3clRmcFAyMmZLdFhsaFBOclpMdzJpdUtUSVp1c0ttZ0FySVNPa1dRNFN2MnYzRE4wdGZRbk93TjY1alU?oc=5"
     },
     {
-      "headline": "What To Do After Dell's Breakout Boosted Hewlett-Packard Enterprise Stock (NYSE:HPE) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmotWEdNUkwycTlBRHpjSFVxMUx0U2F4eHBnZFZCenFERV9UY1dSZGVPbnE4T3o4XzF6VEdsd2V5UjI2OF85ZktfWkEtdVd5d0NGTlozYURCZXdsMU1yZFlOamgtS2VvTlZJQXM1dkdwVU5veTg5MUtNMV9zY2tEc0pUcFNCTmZJME5KUTlUT1FnMl9XaXhJM0xEemtNWkh0ektSX0Z0S0dDYktUM3NMZXJ3?oc=5"
+      "headline": "HPE stock hits record high on Nvidia Vera CPU server launch - qz.com",
+      "source": "qz.com",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHhBS3RaWE1RUjFaakFmcDZRQTduOG5QRzMxZjJVVUVzbE5qek52WUdGeFBVLWt3MXNjYnBDOXB5ZmJzWjFJYTdsVmZqeldPT3RrRUN4cHhRZ2VyazJ1WHlvNllPSzU4SzZTNktqdXNhR21lZTlVZFRWOGl5ZkJqaA?oc=5"
     },
     {
-      "headline": "Stock Market Today, May 29: Hewlett Packard Enterprise Surges After Dell AI Server Results Spark Sector Rally - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeG9GdEx0bU4yMm5DNnJ5WjU0d0xUX0RGc29VckRsQ1phNmdYVHNSWER2dTRla1ZseU5EYklkX1dFZWw5WFhldEg3OHFDdUdZTVBnSmtUVm1hU1JQc05NRktiaDB5RXptTUF1QUlEbkpDVzJPQ3BWVE16QTdEcS1GTG9NUVhMMDRVSGJUTEItT0x5cm45NTQxdUpDcXFhb3RxZnBFdkxmU3lWbjQ4aEszWTV5eEFsaTZpN0hhdmxFTEhmR2RyOF9oTm5tRDdNQ1dDY1dCckE3OTFuLU0wTF9iZmVuUXVrUUdhbmFPMlZCT2JDLVQwUnlVTWljRFY?oc=5"
+      "headline": "Hewlett Packard Enterprise's stock jumps more than 20% on blockbuster quarter - CNBC",
+      "source": "CNBC",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOENwQWpTV05US05ENGt2bzJEYldwQVVDSTRXNGstMU50ZXNVSHZ3SHlVQWt4OUxYTjRKbVRqYVROOU5mcnE0emFsRS0yZlJTS0VRcHVJUElpVVB1NVFTT2ZlNnlNQnVyLTRCbW5wRXJsSngxT1pSQms0aEQ4WlRfU19kWXM3by1QY3JIRzBzYUI0eEpBdmtUY0J6QmNFcDFKMWZXSFFSX3dSanE1cUNOTDhBbEVHT284SzRfaEhtMkU4d3c?oc=5"
     }
   ],
   "insight": "Tracking Hewlett Packard Enterprise (HPE)."

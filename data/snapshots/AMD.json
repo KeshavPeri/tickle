@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-01T06:28:27.713Z",
-  "builtDateUTC": "2026-06-01",
+  "builtAt": "2026-06-02T06:13:54.005Z",
+  "builtDateUTC": "2026-06-02",
   "source": "yahoo-finance",
   "1m": [
-    337.1099853515625,
     354.489990234375,
     360.5400085449219,
     341.5400085449219,
@@ -24,10 +23,10 @@
     503.8900146484375,
     495.5400085449219,
     518.0900268554688,
-    516.0999755859375
+    516.0999755859375,
+    510.1300048828125
   ],
   "6m": [
-    230.2899932861328,
     223.5500030517578,
     206.02000427246094,
     203.77999877929688,
@@ -158,10 +157,10 @@
     503.8900146484375,
     495.5400085449219,
     518.0900268554688,
-    516.0999755859375
+    516.0999755859375,
+    510.1300048828125
   ],
   "1y": [
-    110.7300033569336,
     114.62999725341797,
     117.30999755859375,
     118.58000183105469,
@@ -411,29 +410,30 @@
     503.8900146484375,
     495.5400085449219,
     518.0900268554688,
-    516.0999755859375
+    516.0999755859375,
+    510.1300048828125
   ],
-  "lastClose": 516.0999755859375,
-  "oneYearReturn": 366.08864800835465,
+  "lastClose": 510.1300048828125,
+  "oneYearReturn": 345.02313278002083,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Advanced Micro Devices Inc. (AMD): Leopold Aschenbrenner Has a Bearish View on This Chip Stock - Yahoo Finance",
+      "headline": "What's Going On With AMD Stock Monday? - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczFDanJuSXB1Z3owY1dzSXViZ0diekdCQmZ6ZmZiSk5tQ081bHIwdXhrTFIxVnozVkZrcEdvTTF6emNVQ3hCdFVtV3A5UUxUMjNweklqRUtVeXNNUkxRNEVab0kwZlVTSkdfb0x5UHNsNkJCc09WNUNqTkd5WDB1Z2tnTjZTOXlKNnlWUGdCZU5fLV9ZSHc?oc=5"
+    },
+    {
+      "headline": "Advanced Micro Devices Inc (AMD) Starts Venice EPYC Processor Production Ramp - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVkNuc3I1OEQzeXJJeHZJRzFYZGdMX3pZT2xxVlpwRnR3LUd6cFhBYmJNcEU5aEM3eVhpd3JleFBsWjBvc2ZQbU5YcnNKeDJLa2tGMlI4ZHFLUFhRRXRscDBTdXhNRFhaUWZVenBzTlhjNTFmcWpvbE03U0dDUnBPSGJ5Skk0Nk43X2x6NFR5VDJlbkhEMFZTcXhzUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDB4YzJUenUyRzg3Y2hmY3BQVjlFQTJ1UmFlaGFTT2FkWktuLXpFTUROVlllRnk2RmNYZldzNEFRRFJSc3JSclB6R3hZWGIwQVNVdU44UEhtV1g3bEs1QmoxUjdhTUZFNUZkTzlITkdoNkN1N1pFamlWOERLallCLUthcjRtQ2JELS02VjZqeGhEbXpCMjJuMW1meVJ5Qy1m?oc=5"
     },
     {
-      "headline": "AMD: Ring, Ring - The Top Is Calling (Downgrade) (NASDAQ:AMD) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONnFMOUVycFB2MTZaYllQMU1EUUJ6U2V6TkNNeDZxOWlIS2RQT1dVTFRNeENsTTVIYm0tbnpqeTN5VFZobjBxQldnQk4tQzFXN085OENnUEpPbW9RX2pOSVVpX0dHdUswVUM5YnhJX25icXdMeGNOZTlhSWpTbXFHQ1JvX2VEY2dJZUo0?oc=5"
-    },
-    {
-      "headline": "Commonwealth of Pennsylvania Public School Empls Retrmt SYS Trims Stock Position in Advanced Micro Devices, Inc. $AMD - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdktqSHpvbWdQMmNuQ2RvQzBsMEpaSlZweFdqb1AwMXdsWEtQZFZjSF9zZ2s4VzZ3Zi1xcGFWNk9jd0tzNkRzNU1yRTdLNVo0T1c1U3p0UkpRMFd6Yjc0RW42SURmYm9mMmVBSWtsSTlBM3hydWN0X1l0QUhZVjM5ekxFajJDQXdNOWRXNml6NG9qbDlPSE9pNTBneXhtVHJzMDdXTkRraE1tS0VhR1F1V09QR1BfSUVqaHV0TUxOcE11YkFndkFWdG9OQV95dmh1N01KRjlNOHZudlZnSG9xWkZxUm9qVEZjeDJTeFNQcUhEdFRsR08taVlDR0JBZlo4TkRORjhR?oc=5"
+      "headline": "Cathie Wood’s ARK sells AMD stock, buys Nvidia and Cerebras - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0FMZ0ZlaDlZR0FXaloxYlgyakdsMV9VVXNpc0xfRm5mVGtvRmdVSDU1U1RxNjBSTWRWN0hTb29kRnJyQUN2SWE1VjNHa010VUl3NUJBZ1dHc2lGUlRWNDRKNlh6c3JqdWVFeXRRQnlLX0hlb2k5OUREOGI2RmN6OUIzOVByM1hUQnRMUGZVall4VkJUZk1rY2lxVmp1RnplSkcwMW4tN1QyQkkweVA4eEdCdnM?oc=5"
     }
   ],
   "insight": "Tracking Advanced Micro Devices (AMD)."
