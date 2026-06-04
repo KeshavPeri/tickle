@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-03T06:33:34.415Z",
-  "builtDateUTC": "2026-06-03",
+  "builtAt": "2026-06-04T06:19:39.052Z",
+  "builtDateUTC": "2026-06-04",
   "source": "yahoo-finance",
   "1m": [
-    61.029998779296875,
     61,
     61.040000915527344,
     61.73500061035156,
@@ -24,10 +23,10 @@
     62.86000061035156,
     62.34000015258789,
     62.689998626708984,
-    61.9900016784668
+    61.9900016784668,
+    62.029998779296875
   ],
   "6m": [
-    74.75,
     76.44999694824219,
     78.23999786376953,
     79.95999908447266,
@@ -158,10 +157,10 @@
     62.86000061035156,
     62.34000015258789,
     62.689998626708984,
-    61.9900016784668
+    61.9900016784668,
+    62.029998779296875
   ],
   "1y": [
-    71.16000366210938,
     71.12999725341797,
     71.55000305175781,
     71.62000274658203,
@@ -411,11 +410,31 @@
     62.86000061035156,
     62.34000015258789,
     62.689998626708984,
-    61.9900016784668
+    61.9900016784668,
+    62.029998779296875
   ],
-  "lastClose": 61.9900016784668,
-  "oneYearReturn": -12.886455187923683,
+  "lastClose": 62.029998779296875,
+  "oneYearReturn": -12.793475081547001,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "Evaluating GE HealthCare Technologies (GEHC) Valuation After Recent Share Price Weakness - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdUh6eU84S1R4YXdtQ002cXVrOXExQVlFLXdjY3VBT2t3OVRQdG85YjhVUWxlSS14VnJLTGhVa3EwQ0htUTVxVjVLczJWOVZIUk9hMklsTmJnU2pXSjlkdmIzdzF5TmE2U0J4M1RvemNyQWQ1cTQyQXZNX2NxRG03YUtwUno4WUZkbkdiUHNXSTQyQUdNN3ptYlpKZG1feGg4TUV5blJmWk5RUUk?oc=5"
+    },
+    {
+      "headline": "GEHC Stock Price, Quote & Chart | GE HEALTHCARE TECHNOLOGY (NASDAQ:GEHC) - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01TmZ6cjZkVGlKNGZIakU4YmtwZUZ0MzFyMzBTZldydGlQSVFQWi1Sc2o3ZkM4T0xHRWZ5cmpSS2lkVDY4bjRBM2hpNUh4RjBiai1xa1F4a3lqanpUSGNn?oc=5"
+    },
+    {
+      "headline": "GE HealthCare Technologies: Doing Some Bottom Fishing (NASDAQ:GEHC) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUpJLVhOMHJhd3I1X3dWWmlPRGVmYlZVZy1vNHlmQUc5OWdqZDFORFFHdnNjbHN2cExkUktyRUdFMGhJRFJGRmJTZC1qNXppTHpLQWlaejl0akRacnozYTZXMlNrODR6RUNXZlNzaURXYi1HY2FaaDhJdWJ0aTVKbjBtT3JObVlHbm5KUkRzUzBDWmkxNGYwSA?oc=5"
+    }
+  ],
   "insight": "Tracking GE HealthCare (GEHC)."
 }

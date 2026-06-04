@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-03T06:34:40.658Z",
-  "builtDateUTC": "2026-06-03",
+  "builtAt": "2026-06-04T06:19:43.255Z",
+  "builtDateUTC": "2026-06-04",
   "source": "yahoo-finance",
   "1m": [
-    80.45999908447266,
     81.72000122070312,
     83.91000366210938,
     87.04000091552734,
@@ -24,10 +23,10 @@
     83.11000061035156,
     86.97000122070312,
     88.69000244140625,
-    88.72000122070312
+    88.72000122070312,
+    87.1500015258789
   ],
   "6m": [
-    61.560001373291016,
     61.04999923706055,
     62.43000030517578,
     63.16999816894531,
@@ -158,10 +157,10 @@
     83.11000061035156,
     86.97000122070312,
     88.69000244140625,
-    88.72000122070312
+    88.72000122070312,
+    87.1500015258789
   ],
   "1y": [
-    51.977500915527344,
     51.50749969482422,
     51.70500183105469,
     52.95750045776367,
@@ -411,11 +410,31 @@
     83.11000061035156,
     86.97000122070312,
     88.69000244140625,
-    88.72000122070312
+    88.72000122070312,
+    87.1500015258789
   ],
-  "lastClose": 88.72000122070312,
-  "oneYearReturn": 70.6892398787869,
+  "lastClose": 87.1500015258789,
+  "oneYearReturn": 69.19866435418581,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "Interactive Brokers Group, Inc. (IBKR) Dips More Than Broader Market: What You Should Know - Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNXzkxSFlXQV9HUEpDd01rT2RZSTB1b3lZdjFxLTNVdXZLckVHaDRwNHdPdlFVVkllZVFVaXBLdVU4UmE4TEVYMFlWVmlVdVNGRG9rUVBvSmVKZVBiQjc5alRYcDkyTktYSkZYMHJHM0xiOEtpODdHUXoza3JGX3BKRjRRek5NV1ZZQnFV?oc=5"
+    },
+    {
+      "headline": "Interactive Brokers Integrates AI into Client Portfolios – Informed by Agentic Technology, Controlled by the Client - Business Wire",
+      "source": "Business Wire",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPemc4TlhWQWFQUU1aN2NVZndQRkktdlRkRHhrNGNBaGF3S3JyRzNCNVBlQmdQYVVEUFdBYlg0c1pGQlllSjh4S1FDbmN1NzVmUzV6NmVpV3N2ekdYeHFZWWFvZTcxRklycUx1by15MFA2N19YYkhmLUVtdFZtTWJ1dGsyVVlxZkRnMFdPQlNUdDZqanlqTDVSNVhsSGc5akRMZzZ5MDF0eFVRT0cwQW1Fa1dKQVJyV0cxdm5mSDQxQmQ5UTZfeXhXX2xOVC1XdG9QTlBUU25DNi1pbjR3SmlrVlZKdzRUelVUVDdIbDNjZUdwNXBkelVsd0xBTmI4Zw?oc=5"
+    },
+    {
+      "headline": "Interactive Brokers Is Winning From Market Volatility. Can It Keep Going? - AOL.com",
+      "source": "AOL.com",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeERoOVpPZDMyTzNKQlk3bXZRZGtYNWJGVV9kWWw2eWs1bHVvbEZrcGF1QXNreEJQbXgzTUViOWk5S3JsTWZQaW9lTnl1U2xGdmpzWmdIOU5EbTRQUXdYY1ZuMzU0RjE4dmtCSWRpd0F5R1VYOGc1N3ktRHh5b1luVDhkTXBRRjNEZGdKY1dBblR5cUE?oc=5"
+    }
+  ],
   "insight": "Tracking Interactive Brokers (IBKR)."
 }

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-03T06:28:10.579Z",
-  "builtDateUTC": "2026-06-03",
+  "builtAt": "2026-06-04T06:19:18.499Z",
+  "builtDateUTC": "2026-06-04",
   "source": "yahoo-finance",
   "1m": [
-    360.5400085449219,
     341.5400085449219,
     355.260009765625,
     421.3900146484375,
@@ -24,10 +23,10 @@
     518.0900268554688,
     516.0999755859375,
     510.1300048828125,
-    521.5399780273438
+    521.5399780273438,
+    542.52001953125
   ],
   "6m": [
-    206.02000427246094,
     203.77999877929688,
     215.0500030517578,
     206.1300048828125,
@@ -158,10 +157,10 @@
     518.0900268554688,
     516.0999755859375,
     510.1300048828125,
-    521.5399780273438
+    521.5399780273438,
+    542.52001953125
   ],
   "1y": [
-    117.30999755859375,
     118.58000183105469,
     115.69000244140625,
     116.19000244140625,
@@ -411,11 +410,31 @@
     518.0900268554688,
     516.0999755859375,
     510.1300048828125,
-    521.5399780273438
+    521.5399780273438,
+    542.52001953125
   ],
-  "lastClose": 521.5399780273438,
-  "oneYearReturn": 344.5827200421226,
+  "lastClose": 542.52001953125,
+  "oneYearReturn": 357.51392406301215,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "Why Advanced Micro Devices Could Be the Next $1 Trillion Stock - Barron's",
+      "source": "Barron's",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcG9SVXpaZ013WUtzQkJXRTVCenp4OVRQZ3lXMVRwamdRMHIySXJHMUlMTk80Ynk0ZlBGUWhFN0hOUWhrRVNhRWk1MWxQaFBfNVgtRVZEVi1ZeUNsNFk5Um52U0tCSlBGMFRLVHFyNExmUURaSk5DelVWaGc1cmF4NWRSYWRQVDVPcnBDY3hGSQ?oc=5"
+    },
+    {
+      "headline": "Cathie Wood’s ARK sells AMD stock, buys Nvidia and Cerebras - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0FMZ0ZlaDlZR0FXaloxYlgyakdsMV9VVXNpc0xfRm5mVGtvRmdVSDU1U1RxNjBSTWRWN0hTb29kRnJyQUN2SWE1VjNHa010VUl3NUJBZ1dHc2lGUlRWNDRKNlh6c3JqdWVFeXRRQnlLX0hlb2k5OUREOGI2RmN6OUIzOVByM1hUQnRMUGZVall4VkJUZk1rY2lxVmp1RnplSkcwMW4tN1QyQkkweVA4eEdCdnM?oc=5"
+    },
+    {
+      "headline": "AMD Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBndUxfbjJEeVZYMi1wd2lPajZ3LTVYZkF0NVZ2Q1RuNDBPWkhGN184UlFoQ09FdmNBdl8wNFYtMURTNUU0Qm14aWVwcXFuV28?oc=5"
+    }
+  ],
   "insight": "Tracking Advanced Micro Devices (AMD)."
 }

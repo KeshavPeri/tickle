@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-03T06:33:01.114Z",
-  "builtDateUTC": "2026-06-03",
+  "builtAt": "2026-06-04T06:19:36.951Z",
+  "builtDateUTC": "2026-06-04",
   "source": "yahoo-finance",
   "1m": [
-    227.5800018310547,
     224.44000244140625,
     219.4199981689453,
     211.7899932861328,
@@ -24,10 +23,10 @@
     238.89999389648438,
     245.47000122070312,
     270.8500061035156,
-    255.82000732421875
+    255.82000732421875,
+    253.44000244140625
   ],
   "6m": [
-    273.04998779296875,
     277.0199890136719,
     271.760009765625,
     278.7300109863281,
@@ -158,10 +157,10 @@
     238.89999389648438,
     245.47000122070312,
     270.8500061035156,
-    255.82000732421875
+    255.82000732421875,
+    253.44000244140625
   ],
   "1y": [
-    434.5199890136719,
     433.7900085449219,
     431.4800109863281,
     432.3500061035156,
@@ -411,11 +410,31 @@
     238.89999389648438,
     245.47000122070312,
     270.8500061035156,
-    255.82000732421875
+    255.82000732421875,
+    253.44000244140625
   ],
-  "lastClose": 255.82000732421875,
-  "oneYearReturn": -41.125836833211935,
+  "lastClose": 253.44000244140625,
+  "oneYearReturn": -41.57541726432806,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "How to join FactSet’s July 1 Q3 2026 earnings call - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGpHUTFvYjQyZ1R6YkV4cGF2RDlCcktuMWNtQnA5MnZVcDc3RjFkejZGaDVhWkp3aktoVHVYM1JXSDZucHlrWEtYZHA1WklwSVlxaGtucWN2VkhkMXJxWHdNaEJpWkVmLVNHNDdZNVRjOW1wclRUSGV0T0ctMWJmSjQwQm5CcXlQaGd5Vm9jOVlBVHRINEtfR3JLQmpZQk5lWHc?oc=5"
+    },
+    {
+      "headline": "FactSet stock hits 52-week high at 251.12 USD despite yearly decline - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzE5YUowZnphR21wU0xlREcwVVJDall2OERNOW1TaG9PWEhjb1ktMTd0TjRfOU93SDFMNUlJRVROdXFadENyejRqMHNVek1wOHhVVTlGVGx5UlhtR216dmg1Y09PTFh6cHBQWElGeXAxWWNvMG9rdHFnaTJuaTJfazVGZjB3bnRod3RxcUZFcENXMmhNN2thSFFuVkx2enJ4OWIzQlZFOC1vcm1OcDB6ZUp5YVFRMGY2TXQyWUo5SEc?oc=5"
+    },
+    {
+      "headline": "FactSet Research Systems Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVEZrY0NRLXhOSEowTVlCWjE0SUZ2cDNxdWZyQl9ma3pLZ0dxMktSbjYxVHU4QlJyZ2FwUVl3ODZHUWF0YnlhMlduSVpGSGhUR09YSFhSX3NqaVdQWV9ybm95MlpuUnFVMG1sam41czVvWEtkUXRIbXpKcVVocGtwMWEwYzVrdmRMdGppZlhiZ1dKbUJDWThGd3dkMUZGMnpvVmVtN1lPSW5MQkZOWlZ2aU5WR3hOdFJpb1lrRE9WZTBLMUdSdU01Tm1WZnlxQlVnNG1fUERhdw?oc=5"
+    }
+  ],
   "insight": "Tracking FactSet (FDS)."
 }

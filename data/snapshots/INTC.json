@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-03T06:34:57.613Z",
-  "builtDateUTC": "2026-06-03",
+  "builtAt": "2026-06-04T06:19:44.070Z",
+  "builtDateUTC": "2026-06-04",
   "source": "yahoo-finance",
   "1m": [
-    99.62000274658203,
     95.77999877929688,
     108.1500015258789,
     113.01000213623047,
@@ -24,10 +23,10 @@
     120.88999938964844,
     114.68000030517578,
     109.33000183105469,
-    107.93000030517578
+    107.93000030517578,
+    112.70999908447266
   ],
   "6m": [
-    33.619998931884766,
     34.5,
     35.790000915527344,
     35.83000183105469,
@@ -158,10 +157,10 @@
     120.88999938964844,
     114.68000030517578,
     109.33000183105469,
-    107.93000030517578
+    107.93000030517578,
+    112.70999908447266
   ],
   "1y": [
-    20.290000915527344,
     20.25,
     19.989999771118164,
     20.059999465942383,
@@ -411,11 +410,31 @@
     120.88999938964844,
     114.68000030517578,
     109.33000183105469,
-    107.93000030517578
+    107.93000030517578,
+    112.70999908447266
   ],
-  "lastClose": 107.93000030517578,
-  "oneYearReturn": 431.9368922382853,
+  "lastClose": 112.70999908447266,
+  "oneYearReturn": 456.59258807146995,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "Could Intel Chips Save the Economy? Intel Stock (NASDAQ:INTC) Surges - TipRanks",
+      "source": "TipRanks",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPemVfRnJnemFoeUVDal8tSHA2V0tTd3RPS2M0cUZlUy15VldYZkYwSWRlc0RZY0JrdjkwaVNUWDg5cEF0N0dBUFNYSGVEVzlob2d4R1g1Q1NNQVJPem5HSXVqOGRGNEpvQTdjNDlzVjBuT1ljLU9lTHVrNE4zZEcwNTk0X0pPMkVnODJ2VUJiX3FGRHZPZlhEeE13?oc=5"
+    },
+    {
+      "headline": "Intel Stock Has Surged on the AI Boom. Is it Still a Buy? - Morningstar",
+      "source": "Morningstar",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0p3cHZwb255bmpMM3JoYTZROVROTEk2X0tHNlF6VWQyVm9TcnpiZzZSV0g0WENiWUFlb3FZLTZMWUpWOERyT1AxTkJnOTJiV0ZwSmZZNEg2ZVNrZjlxQm9nN0FRQ19KNWo3RUZMaTJZZVA1MTBVbENlMkVqc29PeEU5RHNpdTJs?oc=5"
+    },
+    {
+      "headline": "Intel’s new CEO cut management layers in half. The stock is up nearly 500% - Fortune",
+      "source": "Fortune",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXItcENnNVJkRGNwekFjTHRlZHpGLUozQWVBUzN2cnFSUk1UaWw3MEJKQmFPV0NqOGhxMG9lWW1FSVdMSFFQMHlNMXQ3anJYYnhPTmsxWW9qM19LMUgwX0JTaTVMZ0dObzNzay00YzZubXhiZ3BoVGNGaGNjcE8za2ZScXM5S1dU?oc=5"
+    }
+  ],
   "insight": "Tracking Intel (INTC)."
 }

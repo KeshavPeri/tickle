@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-03T06:31:46.373Z",
-  "builtDateUTC": "2026-06-03",
+  "builtAt": "2026-06-04T06:19:32.125Z",
+  "builtDateUTC": "2026-06-04",
   "source": "yahoo-finance",
   "1m": [
-    40.290000915527344,
     40.58000183105469,
     40.79999923706055,
     38.5,
@@ -24,10 +23,10 @@
     34.77000045776367,
     33.75,
     34.689998626708984,
-    34.720001220703125
+    34.720001220703125,
+    35.400001525878906
   ],
   "6m": [
-    20.950000762939453,
     22.200000762939453,
     22.530000686645508,
     23.200000762939453,
@@ -158,10 +157,10 @@
     34.77000045776367,
     33.75,
     34.689998626708984,
-    34.720001220703125
+    34.720001220703125,
+    35.400001525878906
   ],
   "1y": [
-    27.790000915527344,
     28.280000686645508,
     28.18000030517578,
     28.549999237060547,
@@ -411,11 +410,31 @@
     34.77000045776367,
     33.75,
     34.689998626708984,
-    34.720001220703125
+    34.720001220703125,
+    35.400001525878906
   ],
-  "lastClose": 34.720001220703125,
-  "oneYearReturn": 24.937027984420553,
+  "lastClose": 35.400001525878906,
+  "oneYearReturn": 25.17680575091228,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "JPMorgan upgrades Dow stock rating on oil price impact - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUZhS1B1Yk02ZzBhNS1RaXZ2SktlVWZoSE9jX2xxMGJtMEN2SlpsYzRMMEUzanJVdUJmQXNSM1gxd0FvX3dKS1Z0YVBZMWEwUnFMMExJTGstR0R1SW1EWEVtb2tPMkdKQTgtei14YnFHUGwwRjAzNWRPR0laT1JKVkd0RWhIRnpPN2RXSkZVT1N4UWdVOGJfSmloTDdfTlhMbWtPc05qMWJEN3QtM0FRNTJDbXc?oc=5"
+    },
+    {
+      "headline": "Dow Inc. (DOW) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDZmS09DMnZoWmQ2QlNXdG42bGxrWHdzQzJNS09NdHJoYy02Q0JlcEJ0VFZodVRVZC1EWGJqajYwYWtVd3cxc25RVW5nSWphTzNUY2NnOXRRN0FiZl9CazZwSkdCSzhHd2Q2OHVlR29DS0pLWUdBa0dWamtiTlZZbkI2dnlhbV8yRFVBRExzVmpPUQ?oc=5"
+    },
+    {
+      "headline": "Dow Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMm9OSnZ6ektzTEhtcVd1VGNWR25qb3oyOTFuQVI2S0VNZk12a2xFalhpcjFmQ09MUUhIS3YyUjdaRDExWFpsMDV5NDJuSEdXRnVseFJud0FhaFo2SG1Jbm8zbUtqS2ttVC1qaS04V05TNHktTU93OXM1bF80c0tpSEI3a0dHZ25uUTJGUHd5b0k1WDJ0UXhrNE5FQ1RVZktPbTAtMjZOelNDTS10VFNJbm5FYnE0dUtNMEI0?oc=5"
+    }
+  ],
   "insight": "Tracking Dow Inc. (DOW)."
 }

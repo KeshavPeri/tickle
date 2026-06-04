@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-03T06:30:15.622Z",
-  "builtDateUTC": "2026-06-03",
+  "builtAt": "2026-06-04T06:19:26.616Z",
+  "builtDateUTC": "2026-06-04",
   "source": "yahoo-finance",
   "1m": [
-    27.190000534057617,
     27.06999969482422,
     26.459999084472656,
     26.440000534057617,
@@ -24,10 +23,10 @@
     25.15999984741211,
     24.8700008392334,
     25.049999237060547,
-    24.850000381469727
+    24.850000381469727,
+    23.520000457763672
   ],
   "6m": [
-    24.957826614379883,
     25.632614135742188,
     24.798500061035156,
     25.00468635559082,
@@ -158,10 +157,10 @@
     25.15999984741211,
     24.8700008392334,
     25.049999237060547,
-    24.850000381469727
+    24.850000381469727,
+    23.520000457763672
   ],
   "1y": [
-    32.48360061645508,
     32.27741241455078,
     32.07122802734375,
     32.521087646484375,
@@ -411,11 +410,31 @@
     25.15999984741211,
     24.8700008392334,
     25.049999237060547,
-    24.850000381469727
+    24.850000381469727,
+    23.520000457763672
   ],
-  "lastClose": 24.850000381469727,
-  "oneYearReturn": -23.499858667510004,
+  "lastClose": 23.520000457763672,
+  "oneYearReturn": -27.131703881068344,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "Offerpad, Comcast, and Sonos Shares Are Falling, What You Need To Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGJic1ZaV25XbUR0Z3F1Y0Q2d3UwQ045ZktMMVd2cldwUlk5aEFtWnNhRmdLSzhrbW5CVDVDaXVoWnlKaEpTVGhpSWNGUkRteVRnUzF0T0RfTkhZSnpLbGlYd0txcngwdUliRldhdEdqTnBwenFqRlIwNjRTYUQ2OFJQRlIySXZWYXRtWHh2R0I0M0l4Z05ESjVVTGlHODVKbzhUZA?oc=5"
+    },
+    {
+      "headline": "Comcast slides as investors digest upsized debt tender results and ongoing balance-sheet repositioning - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSkg5TFpuOFZ4U0xjbGl5Q04yQkY4bTdHUDlGLVpPY0FSZk9FOVl6Zk12a3dka2Nvc2x6ZWNROGVaeDZhZ0NjUGtCRTR3Z3BZc0VpN0E0TUlRUGJkd2dKeC1fVEF1dlR2dm5hY3RXUjR4V3RrWklmbVd2akxweDJON19nd0JzUXVKamZ1LXVjZGJaeklsZXZWUVAyeElpMklsWlNWQXhSOHN0djA3T0Ytd3gtdHdXQzJ4UGZrR0tOckRVcEUyRXR2NjYxSzdNUlhH?oc=5"
+    },
+    {
+      "headline": "CMCSA Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tWTRZLVJ5Yy1pTUFuYVRreW1HRk1ubGxzbkNLelNGaGxLSHBtdndDa052Szh3dzNVQ1p1QlpOcTlnQzVNQi1Pd3FId2JyVW16LUE?oc=5"
+    }
+  ],
   "insight": "Tracking Comcast (CMCSA)."
 }

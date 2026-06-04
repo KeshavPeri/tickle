@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-03T06:37:02.167Z",
-  "builtDateUTC": "2026-06-03",
+  "builtAt": "2026-06-04T06:19:51.728Z",
+  "builtDateUTC": "2026-06-04",
   "source": "yahoo-finance",
   "1m": [
-    198.4499969482422,
     198.47999572753906,
     196.5,
     207.8300018310547,
@@ -24,10 +23,10 @@
     214.25,
     211.13999938964844,
     224.36000061035156,
-    222.82000732421875
+    222.82000732421875,
+    214.75
   ],
   "6m": [
-    180.63999938964844,
     178.8800048828125,
     182.5500030517578,
     177.82000732421875,
@@ -158,10 +157,10 @@
     214.25,
     211.13999938964844,
     224.36000061035156,
-    222.82000732421875
+    222.82000732421875,
+    214.75
   ],
   "1y": [
-    141.22000122070312,
     141.9199981689453,
     139.99000549316406,
     141.72000122070312,
@@ -411,11 +410,31 @@
     214.25,
     211.13999938964844,
     224.36000061035156,
-    222.82000732421875
+    222.82000732421875,
+    214.75
   ],
-  "lastClose": 222.82000732421875,
-  "oneYearReturn": 57.78218764917622,
+  "lastClose": 214.75,
+  "oneYearReturn": 51.31764569525708,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "Marvell stock soars 32% as Nvidia's Huang says it could be the next trillion-dollar company - CNBC",
+      "source": "CNBC",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTMtR2pPU3JFdFNmZlA5NEw0YWM2aFFBZVdPNGYxX202dmdFTjVVdGZ4b3poZ2htaWh6eHhWMTFqRHBZdDR4VGE0ZTBPWDYzd05vOEQ4akVXbmZ5LTR2RF9DM1hTS1h5ZlNXUldiUXpod0IzU3BTMGlaVjIybUc0YmVCSzRFOVBBWU5jclVLS2l2bEZMSVl6b1NB0gGfAUFVX3lxTE5MUG1BMGkxV2dSR2ZPQ2ZHV0t1aTZqTlJqcmVJcHNfOEdxbzZCMzJIaEh2aVFZcHVGZzYyQUtaNTZISktWUVRGa0FGOTdneXphdHRFaWhacjhYQmdXZUo0TkxMSWNpZi1ZRzUtRkpKNGNnckczX3RaZS1oZU4yYVFIS3JSUFZxb1JDaExVcGUtZHc0dUtSOWtNaEdUXzI0cw?oc=5"
+    },
+    {
+      "headline": "Marvell Stock Just Had Its Best Day Ever. Why Nvidia CEO Says It Will Join the $1 Trillion Club. - Barron's",
+      "source": "Barron's",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3h2cUU0djdFYVhYLW9aWG1PS1pTMVpJMW5ka3J1a0s1MlpOdWh5djVCeS1hNVBVOE9nZDlzS1lZRk1wRFNlOU9PNFZ5MGlTNndmY0ZHZ3RRMkxUbFJ1T2R1N3lYTlFwMDBWMTFZQWplQjZQc1hibS15Y3VadGUwMEs0RThJTFEySWpieHhveklNUGg1YjZRWkR3?oc=5"
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang just perfectly explained the AI stock boom - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa0tQUHpVS0ZPeEtFX0dqcjc1c2JoWXcxNV9ZYkJYaHJrcVVjbWlZcTJ4TE9BSzVmTVRMU3BmSEJqaHoxaEgzdmx0R3FNcUJYNWVZMmYyd1hLWVp4VE8wUVRXYVdqcHlnMm9RNktZVXJQbTAtRDBMY3RxY1lnRk42ZnVtMXJjMzNDdHFQNWdPbHZiTm5iZzBvclFKeFJvcGtpbmxDbE1CMHY5MGFQRFloQm9nbzdjcWV5cXdyM2I0Uno?oc=5"
+    }
+  ],
   "insight": "Tracking Nvidia (NVDA)."
 }

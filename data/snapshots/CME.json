@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-03T06:30:16.596Z",
-  "builtDateUTC": "2026-06-03",
+  "builtAt": "2026-06-04T06:19:26.590Z",
+  "builtDateUTC": "2026-06-04",
   "source": "yahoo-finance",
   "1m": [
-    289.5400085449219,
     290.2900085449219,
     286.82000732421875,
     288.3399963378906,
@@ -24,10 +23,10 @@
     277.4200134277344,
     273.5400085449219,
     257.760009765625,
-    250.52999877929688
+    250.52999877929688,
+    252.63999938964844
   ],
   "6m": [
-    275.2200012207031,
     273.0899963378906,
     275.67999267578125,
     276.9800109863281,
@@ -158,10 +157,10 @@
     277.4200134277344,
     273.5400085449219,
     257.760009765625,
-    250.52999877929688
+    250.52999877929688,
+    252.63999938964844
   ],
   "1y": [
-    282.30999755859375,
     277.8800048828125,
     274.8999938964844,
     274.239990234375,
@@ -411,11 +410,31 @@
     277.4200134277344,
     273.5400085449219,
     257.760009765625,
-    250.52999877929688
+    250.52999877929688,
+    252.63999938964844
   ],
-  "lastClose": 250.52999877929688,
-  "oneYearReturn": -11.257128353274453,
+  "lastClose": 252.63999938964844,
+  "oneYearReturn": -9.083059252071148,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "U.S. Equity Index futures and options - CME Group",
+      "source": "CME Group",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjYjJYdEpVbURCSDBqdU9rUXdTMkxYTWdfMTd3eGROWmtuVXZON0EzMnpJZmRNNkN6MkVESTQxV2l0SUJXV0stbW9rQ2V6VTdlRnFOaHM1QXhhUnZ3VmJwTUNCeTFSdw?oc=5"
+    },
+    {
+      "headline": "CME Group Stock: Is CME Underperforming the Financial Sector? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUlIUjlONFlQdUJMZ25xQ19qQzNsVl9TY191eVc1YkdPQ3pqcUVjWlU2czhUX2tycVRZeEt2ZUdWMFgzVE50Q1hBSXB6b3dCbUlSeC13R2NqYUFDd1JickNBWmtna3BCRDh4Qk5LbHpBMUN3WXV4SW5qczZGdUdmQlltRFdsQlEzUVVQZGs4MXg3aENZZ0JNNnJlamFRSnNIYnc?oc=5"
+    },
+    {
+      "headline": "CME Stock Price, Quote & Chart | CME GROUP INC (NASDAQ:CME) - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fV0ZIRjJFMkluTV8xQUd3SEV5Q3VNR2Jrd0JGZ3hvZWhXaFc0U01XLTVjQ2M5aFF3RkhCMmVUNGN6enFQNXBieFFfd3gwdTE4WVFxYkVxRWFnNnM1ZUE?oc=5"
+    }
+  ],
   "insight": "Tracking CME Group (CME)."
 }

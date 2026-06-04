@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-03T06:36:50.010Z",
-  "builtDateUTC": "2026-06-03",
+  "builtAt": "2026-06-04T06:19:50.942Z",
+  "builtDateUTC": "2026-06-04",
   "source": "yahoo-finance",
   "1m": [
-    92.05999755859375,
     91.0199966430664,
     87.88999938964844,
     88.2699966430664,
@@ -24,10 +23,10 @@
     86.36000061035156,
     86.0199966430664,
     85.8499984741211,
-    83.33000183105469
+    83.33000183105469,
+    81.5199966430664
   ],
   "6m": [
-    105.66999816894531,
     104.30999755859375,
     106.97000122070312,
     104.4000015258789,
@@ -158,10 +157,10 @@
     86.36000061035156,
     86.0199966430664,
     85.8499984741211,
-    83.33000183105469
+    83.33000183105469,
+    81.5199966430664
   ],
   "1y": [
-    121.79399871826172,
     123.96600341796875,
     125.052001953125,
     124.14700317382812,
@@ -411,11 +410,31 @@
     86.36000061035156,
     86.0199966430664,
     85.8499984741211,
-    83.33000183105469
+    83.33000183105469,
+    81.5199966430664
   ],
-  "lastClose": 83.33000183105469,
-  "oneYearReturn": -31.581192252488023,
+  "lastClose": 81.5199966430664,
+  "oneYearReturn": -34.240038078657484,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "Netflix Stock Is on Pace for Its Longest Losing Streak Since 2022 - Barron's",
+      "source": "Barron's",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUDF4eW9WRm1kVFVfUG5USW03bmpMekV6T0JNdXlkTl8yOWJKWVlZRzgyejczMVA3bTBhNlVOVVAzSUJTNmZrOXFCTFg5ZGpUcU1vdXJyQ2hONUozcUZjN3Z0U19KemhIV2wzdE5QUVNJZ0JKR3ducHZkRFVBNHJwa3J3?oc=5"
+    },
+    {
+      "headline": "NFLX Stock Reverses Course Overnight: Retail Shrugs Off Outgoing Chairman’s Sale As ‘Routine’ - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObTE3dXVaWXJzcXVaVmtCVGRqUF9LS2tRdUsxUnhRV0w4Vko3RHo1SlRQOXBUVnZ0a3pMcGFTSHJyVWNnY3R4Z0Q3RS0zMVFTWkEtSVFqUXlyU3Q5Vk94dWM4dU43blp3cUlPenlkUWZoZ1BCRkUySWVZTVJRNzRjUjJ2Y1NsN1V4Z0xCT0pBLWlFWmEzdk5oZ0dFLV9DYVhoX3I0?oc=5"
+    },
+    {
+      "headline": "If You'd Invested $10,000 in Netflix Stock 10 Years Ago, Here's How Much You'd Have Today - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRTgtM1AzLS1GTmxfejd1VEp6ZWdTNjhXYm5QQm1qOHQ5UXpGR2gyWlhUUkFBWmZLR1RuWGxFcXVXUFdNQWNKWGM1Y2hYTFoyNGVpZ3BXNUFnaVVVRFVsdlctbTc0N2dLM0NnOHFFMVBsTHYyOXRzUzAtSEUtd1czTTZoU2tCTWhDREd4SmM5aVl1X05mWXFMUg?oc=5"
+    }
+  ],
   "insight": "Tracking Netflix (NFLX)."
 }

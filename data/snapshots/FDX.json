@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-03T06:33:07.421Z",
-  "builtDateUTC": "2026-06-03",
+  "builtAt": "2026-06-04T06:19:37.002Z",
+  "builtDateUTC": "2026-06-04",
   "source": "yahoo-finance",
   "1m": [
-    317.219970703125,
     288.3158874511719,
     292.3045959472656,
     303.94036865234375,
@@ -24,10 +23,10 @@
     331.5068359375,
     331.78887939453125,
     338.489990234375,
-    329
+    329,
+    324.4599914550781
   ],
   "6m": [
-    212.00643920898438,
     217.107177734375,
     215.13294982910156,
     220.6849365234375,
@@ -158,10 +157,10 @@
     331.5068359375,
     331.78887939453125,
     338.489990234375,
-    329
+    329,
+    324.4599914550781
   ],
   "1y": [
-    177.09912109375,
     176.38194274902344,
     174.64141845703125,
     176.96212768554688,
@@ -411,11 +410,31 @@
     331.5068359375,
     331.78887939453125,
     338.489990234375,
-    329
+    329,
+    324.4599914550781
   ],
-  "lastClose": 329,
-  "oneYearReturn": 85.77167292989503,
+  "lastClose": 324.4599914550781,
+  "oneYearReturn": 83.95306594210565,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "FedEx Freight Completes Spinoff, Joins S&P 500, Dow Jones Transports Indexes - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdUxZbmZtN0pSY0thZGU4MVI3TzByY1BNYVNsc0RCV1g0WFVxU1FhVF9CVGRndExDa3Y2X3VrTHRPNUNvOVJYbWNBQ1NxUXNucTIwTERjaVk3Rlc3a1pObWNHeFNSX0NaM3VRQU8yRlFYdVc1S01zTkJnSXRtaEl5RVlCdXpVeDlUMmhSTEFjaXF3NzVDQWRCWW1NM1p5XzBCRnQ5LUppeFhfcnZKMFE?oc=5"
+    },
+    {
+      "headline": "FedEx Completes Spin-Off of FedEx Freight - FedEx newsroom",
+      "source": "FedEx newsroom",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb09VcDZKa2tvekNsang2SGNKSllzQ0pXU25ZY2xabUlFU1hKTGFRSWJuZnRXdFM3T3BPSktzZkdqVkZPYkJoOXFVUl9ldXA3aFFZSEZuQUpUVmpDUVJvWnMwVlJfWGh0UURoN3dhZFh4T0ZKRzVaaEVlTXk2c21NUHRLdmlpM1UtMWtMUndNeUlTakFwbHNN?oc=5"
+    },
+    {
+      "headline": "Why FedEx Stock Just Dropped - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONTFYX0pkTEg2NlNPaW42UXp3bC1ISVd0YlZGUzRaOE5lc01MTVA1SWgtSXZjak52SHl3bjlYc1ZvVnF6eVVwc2Qyd1dkUUp4d1hEZHJIWF9zVVBXZ1MyQlJ3M0VCcllwd1RBX0V1OUpWZU85M1FBVzlseDROX0VFN1JKNmFtdGk4TkdMeEtkVmhYcVFqYWdUNw?oc=5"
+    }
+  ],
   "insight": "Tracking FedEx (FDX)."
 }

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-03T06:39:51.415Z",
-  "builtDateUTC": "2026-06-03",
+  "builtAt": "2026-06-04T06:20:01.568Z",
+  "builtDateUTC": "2026-06-04",
   "source": "yahoo-finance",
   "1m": [
-    71.80999755859375,
     71.9000015258789,
     71.25,
     70.83000183105469,
@@ -24,10 +23,10 @@
     74.3499984741211,
     75.72000122070312,
     76.0999984741211,
-    74.1500015258789
+    74.1500015258789,
+    69.80000305175781
   ],
   "6m": [
-    61.95000076293945,
     61.95000076293945,
     61.86000061035156,
     63.689998626708984,
@@ -158,10 +157,10 @@
     74.3499984741211,
     75.72000122070312,
     76.0999984741211,
-    74.1500015258789
+    74.1500015258789,
+    69.80000305175781
   ],
   "1y": [
-    63.5099983215332,
     63.86000061035156,
     63.599998474121094,
     64.98999786376953,
@@ -411,11 +410,31 @@
     74.3499984741211,
     75.72000122070312,
     76.0999984741211,
-    74.1500015258789
+    74.1500015258789,
+    69.80000305175781
   ],
-  "lastClose": 74.1500015258789,
-  "oneYearReturn": 16.753272690196543,
+  "lastClose": 69.80000305175781,
+  "oneYearReturn": 9.301600978129946,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "XYZ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5ckN4TVdpb2tVZnc3S3I0b0FBSmxfUUxEOUJRTG9WVUNGWU1sbXdWUFllRUQ5M1BxSE9QVUJaOVNkOGpaZzJubE5xWTM5a2s?oc=5"
+    },
+    {
+      "headline": "Block (XYZ) CFO Amrita Ahuja sells 11,076 shares under trading plan - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnVBS0dqLWtsQ1IzU1JnQS1QWkE3OVVoQWwxS0Z1YWQ2SDlOdG4taTBSUEZ0RG5OT09LYjBuaEMwSU82eUNnV1YxbmpwaVRHVW9IYTdiWGZUR3lXWE5LMWRSU09LZ3VTVUN4SWhuWmR4bGcyWV95WWVPVG1kOE9McndTdE90eG52RnJ1VmdPY0ZiRXFWN1Q4VWxEbFRCT2Rmd0NNVQ?oc=5"
+    },
+    {
+      "headline": "Where Does Block Inc (XYZ) Stock Belong? Evercore Puts It at $96 - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-13",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTMnJ6a0Z3VDFsdDBzTE1DcnRTZ0RZNEtpYjlxM2dGNnYtWVY0SWNud3V3R3FDMDRWczBKRkRxUENsWWZ0U08tbjhEVnhHMXdXeC0wZHBRUmZvMGR1eUkxdEE5Tjc2TnlUaXhmS0tXUWJ5ekFJVVhrLWZR?oc=5"
+    }
+  ],
   "insight": "Tracking Block, Inc. (XYZ)."
 }

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-03T06:30:33.220Z",
-  "builtDateUTC": "2026-06-03",
+  "builtAt": "2026-06-04T06:19:27.568Z",
+  "builtDateUTC": "2026-06-04",
   "source": "yahoo-finance",
   "1m": [
-    191.25,
     202.99000549316406,
     197.75,
     197.9600067138672,
@@ -24,10 +23,10 @@
     182.25,
     189.02999877929688,
     182.61000061035156,
-    173.99000549316406
+    173.99000549316406,
+    163.22000122070312
   ],
   "6m": [
-    238.16000366210938,
     240.41000366210938,
     255.97000122070312,
     254.1199951171875,
@@ -158,10 +157,10 @@
     182.25,
     189.02999877929688,
     182.61000061035156,
-    173.99000549316406
+    173.99000549316406,
+    163.22000122070312
   ],
   "1y": [
-    258.9100036621094,
     256,
     244.1999969482422,
     251.27000427246094,
@@ -411,11 +410,31 @@
     182.25,
     189.02999877929688,
     182.61000061035156,
-    173.99000549316406
+    173.99000549316406,
+    163.22000122070312
   ],
-  "lastClose": 173.99000549316406,
-  "oneYearReturn": -32.79904096705749,
+  "lastClose": 163.22000122070312,
+  "oneYearReturn": -36.24218702316284,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "Strategy Crashes 10%, Coinbase Falls 6% as Bitcoin Breaks $70,000 Floor in Day-Two Selloff - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTTRnLUU1dlA1Mlk1NkIyOW8yTjdaODJVQ2lkMnl3N3diaVFXM3ZpLTdzbkdaVW1ka2xPRFozdjljY3FOcFNVeHlLV0JmR0RuMXNwbnJ4RFVrd2l5X1pTNWkzR0VObzhxVUVwS21yb2M4MWJENlplLS1vbEJzUTBtWjZDNWFXeVZHV2RiZ3U0eEdsWnRWNllVYVNqMHo4bWNM?oc=5"
+    },
+    {
+      "headline": "Coinbase, Kalshi's New Crypto Futures Send These Stocks Sprawling - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHMwaHVsaVhIR2xZdXJpaVY2eGhmODRIaXVzSy1oX3BiSkhHUGhYYnQ1YlZtay1fQmpPTlVUTzdRbXJXeGhCNFI2enU5UjlkZ3Y4NEdoZ1RnaDNtUEVHcXRsTm1BU3pEc1FXdzdFSi1aNUdTLVh4V0JaRi03TlM1YnNBaWZKVldpTTRBU2dDWU1PYUN5UTlfdVNlOWdvbUZiOTBkU1NBdW40Q3ZyRXVsNENXbHVfeHdEZzBWWnhLRVkyX1dJaFozYmFQR0dTRGlKZkliTTBwZw?oc=5"
+    },
+    {
+      "headline": "CRCL, COIN Stocks Dip After Report Suggests Coinbase Is Mulling Entry Into New Stablecoin Platform Backed By Stripe, Visa, Mastercard - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPWkpqbDh3SXZqWTExTHY1VnBWcGZtTkVDYmtNMVRWcVBVenZQdmJ3LWJrR1pOcEZPVlUyU3dneXZzaUxNZ09idzRzT3ZrQ3ppcHlWZTNYU0Q3bHg1d1k0TE0zcTZiRHFFYmlsWTlRcmdheUdxWkc3Tm5Vd3RFMlRBVkxDbnJsSERBNGRQUmtJbXBzZUpwVTc5Y005dG1kUjFNSHc3aWtSZkl0SjV6bzdZLTl0a0M4Zk15bWVFV1M5alVHMnJPRWF6Njgydmd3cUgyLVlyUWMtenhmZEl4d19TU2k3SW40N2Y4YXRMZ0RRbHA2N1dYMHA3aVNKQnItNXEwd1lnc0pJNmVjNDZCYkVBOGUycnNzMjg2UVkw?oc=5"
+    }
+  ],
   "insight": "Tracking Coinbase (COIN)."
 }

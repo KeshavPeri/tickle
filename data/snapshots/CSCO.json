@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-03T06:30:54.409Z",
-  "builtDateUTC": "2026-06-03",
+  "builtAt": "2026-06-04T06:19:29.018Z",
+  "builtDateUTC": "2026-06-04",
   "source": "yahoo-finance",
   "1m": [
-    91.8499984741211,
     92.62999725341797,
     94.30000305175781,
     91.63999938964844,
@@ -24,10 +23,10 @@
     118.63999938964844,
     120.41999816894531,
     121.33000183105469,
-    128
+    128,
+    126.5
   ],
   "6m": [
-    75.44000244140625,
     76.0999984741211,
     76.23999786376953,
     76.31999969482422,
@@ -158,10 +157,10 @@
     118.63999938964844,
     120.41999816894531,
     121.33000183105469,
-    128
+    128,
+    126.5
   ],
   "1y": [
-    64.36000061035156,
     64.38999938964844,
     64.62000274658203,
     66.05999755859375,
@@ -411,11 +410,31 @@
     118.63999938964844,
     120.41999816894531,
     121.33000183105469,
-    128
+    128,
+    126.5
   ],
-  "lastClose": 128,
-  "oneYearReturn": 98.88129084233209,
+  "lastClose": 126.5,
+  "oneYearReturn": 96.45907935873748,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "Cisco CEO explains why the stock is at record highs: 'Infrastructure is definitely cool' - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTmYyVmlRSWdyRG95ZUZ3NzUtWU5Hb3NnMG1QT1VOY0p2dGZ1eE9YWUhRVEI4S3RFbHNsQmszX0hYZDAzSE9vMGpTaDhadERYckVPUTNMVldaNU9FSzdJZmpIRHJoVDl3ZlNrektNaFIxOFZSbWE3amRmcW5ic3ZVb09XVjZBckw4bEQ3cm5KLVppNHlIX05ORGxkSXJGMnRKbDBvRnVJOElTSVptVElPRmRPR0pyc3NGSUpSdWxkOV9SWFZia20wNjJLTDM4OFFZZDhCRXBaa3RpUGFiTGRtVnBCSQ?oc=5"
+    },
+    {
+      "headline": "Why is Cisco stock surging today? - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU184UndHUWJtUzJYTGprRXI3UTZyS19VTmo5RXZTT25LMExWalB4Y29MbXhsdUQ2dkdLdUp4X1hoMHEzUlRSZ3JxVFpJRTFZTkVxZjhOWG5BUTZFV3VQOG4xZ3hhTzJTcDlfMTNrSmxuVDc2MU1JRzNOMWJVNjlDTGxoYTJzek1CUTNtYmhvTzktMkxHQzlHUHlB?oc=5"
+    },
+    {
+      "headline": "Top Stock Reports for Broadcom, Cisco & Alibaba - Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSl9qTU1GVVhTemFGaXhRcGJlb2hiYzN4dHIySW0yRW9UR3VOZzh4VnpTbTZhY0F5bzdxVHAweGRmWTRQcU1QNkd2SWxQcjktVUVXYlNmLW5VLXB4VElQZVlEV1Fob0R6Y3NKRTU4Y29sbGZKR1JqZjZlcUEzOXhkQWRQRVYtM3BJS0xnVTA5WEN4aG8?oc=5"
+    }
+  ],
   "insight": "Tracking Cisco (CSCO)."
 }
