@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:48.427Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:21.066Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    68.8499984741211,
-    72.55999755859375,
     64.97000122070312,
     65.04000091552734,
     66.77999877929688,
@@ -24,11 +22,11 @@
     77.8499984741211,
     75.48999786376953,
     79.12000274658203,
-    80.66000366210938
+    80.66000366210938,
+    79.93000030517578,
+    73.56999969482422
   ],
   "6m": [
-    62.61000061035156,
-    63.04999923706055,
     63.5099983215332,
     65.33999633789062,
     65.94999694824219,
@@ -158,10 +156,11 @@
     77.8499984741211,
     75.48999786376953,
     79.12000274658203,
-    80.66000366210938
+    80.66000366210938,
+    79.93000030517578,
+    73.56999969482422
   ],
   "1y": [
-    70.79000091552734,
     71.58999633789062,
     73.16999816894531,
     74.94999694824219,
@@ -410,12 +409,20 @@
     77.8499984741211,
     75.48999786376953,
     79.12000274658203,
-    80.66000366210938
+    80.66000366210938,
+    79.93000030517578,
+    73.56999969482422
   ],
-  "lastClose": 80.66000366210938,
-  "oneYearReturn": 13.942650966143875,
+  "lastClose": 73.56999969482422,
+  "oneYearReturn": 2.7657542369304915,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Skyworks Solutions Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaExvQnJnNlVKU3VyRXdFX2N2TG8tVVdyeTFLU0xzM0lGcjBQakF4eXF6N01SUHo2VUYyZVcya21GUzdtTkFqUkRIYWVEaWxMXzZCcVMyVEFuWXc0UlJnUEVaaTVFRmtPV1BqOWotWFpWRTZVMmN1R0QxZ1FyTWsyNXBWTGREM3Z2Qm5KYl9ESFF1SHlib1pQZnozOTJmQ0J0bzV1R2pMalh6RmxYc1lSZF94Q2dUdjBadFNJR1JPRWJYTndXdl9EM1VuMUwtWktNRzh0bWFDazJMRXJxSURvRlhaNnNhMW9ucU5jTA?oc=5"
+    },
     {
       "headline": "Skyworks Solutions and Teradyne Stocks Trade Up, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTWVXUThWNUVhazlTdXQxNVVFdlJqY21JdFJBUXdlQ1Ewc1JiTm96X0toSVFLMnFlNUtCN3NJRm9wUTBLbUE1ZzBUeGtISTRWRXFLUXVyMV9IYmhWcnNGaTFUcTllYTBTMFA1dDYtR1MxQjM1X2VLT1RJaURsTE5KaV85RGZKdThXaEFIYm5hWDlMcnluMUxJanlGYlRCamgzMGRnM2lDdHM?oc=5"
     },
     {
-      "headline": "Skyworks Solutions Inc (SWKS) Stock Up 4.8% and Still Undervalued -- GF Score: 75/100 - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcUJTOF9pdklsMEZPMlFCNlF1SWpMZHZjcjZRUkpZUFlFMlZZd0tFR3hUS00wNS11Q3F1eUgzcTg3dUZUUUZEclJCSkdLWmdUX21LVGFWUTZIbGhRM1BrQmlSVkVNaVJqbTJpOHp3ektoRkdTZEdWRHRKMkxHR2M4VGc5TlVBTDhkVTV4Ni1NTHJLazBfWWx6QXlmN2FaOVZ5R1VycnpUVjJISDBxcU1tUkVmd1RJQ3BmVm41NmVuaGRGMExUV0E?oc=5"
-    },
-    {
-      "headline": "Skyworks Solutions Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaXVMa0pLQnplVFZuRnhOXzB5ZnV4LXp2RVJ3NmpYeXdLVTlVMWFJWkp5MjRPbW9MWTdkYVpLUXc0R3NIWkdFRVB4WS1iREJXS0dDYkxuekY5WE00SUdCMWowSVNCakNNN2VlRFFpSGdDWHByMzdlMmh3UWZBUlJTQWhRTC1FTWxkZG13cjU5YmxacnBOV2NHNllBYlVKUXhtZlZpNUU1LUJDR2NvN3R6M2IzTVp1RVFZejVkWTRSX3BuNnJRZEVHNTJmdkN2bnM?oc=5"
+      "headline": "This 16x Earnings Semiconductor Stock Has Overlooked AI Exposure - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZjRWNVhTUlBqZlM1UFRnZF8tLTlrUFJ2aUZ0dkdjZ3pCODJ5WGZ1LVN1a2VUOHZUYjhWRzcwY0pvenBoRXNvWlBQSFk4LXEwUkRPZ3VFWWNvdE1rUjc5bmVUWWFOdElLY2JxTzR3M2pqa2U1d25wNVRfbTdQUzd6OVZJUmZudlhhQ1M2ajcwMXphc2x6alJFaHZ4MnN0RkZJY0E2c3dXZTdRNUR6QUZVeURlWWtpN19oMmdqcDhCTzdRZXM?oc=5"
     }
   ],
   "insight": "Tracking Skyworks Solutions (SWKS)."

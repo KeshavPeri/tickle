@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:14.268Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:46.051Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    69.01000213623047,
-    67.77999877929688,
     66.66999816894531,
     63.529998779296875,
     63.88999938964844,
@@ -24,11 +22,11 @@
     63.880001068115234,
     62.970001220703125,
     64.54000091552734,
-    64.2699966430664
+    64.2699966430664,
+    66.11000061035156,
+    62.59000015258789
   ],
   "6m": [
-    48.880001068115234,
-    49.36000061035156,
     49.43000030517578,
     49.529998779296875,
     50.20000076293945,
@@ -158,10 +156,11 @@
     63.880001068115234,
     62.970001220703125,
     64.54000091552734,
-    64.2699966430664
+    64.2699966430664,
+    66.11000061035156,
+    62.59000015258789
   ],
   "1y": [
-    37.150001525878906,
     37.900001525878906,
     38.33000183105469,
     39.08000183105469,
@@ -410,29 +409,31 @@
     63.880001068115234,
     62.970001220703125,
     64.54000091552734,
-    64.2699966430664
+    64.2699966430664,
+    66.11000061035156,
+    62.59000015258789
   ],
-  "lastClose": 64.2699966430664,
-  "oneYearReturn": 73.0013297530972,
+  "lastClose": 62.59000015258789,
+  "oneYearReturn": 65.14511248726505,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Baker Hughes Co. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbW1rWXkyUjZHN1dEcUI0X01wbzRKaWhjRlpMbVNGN0U4MWpMbWhrTnVBck9wLWNVeVdxaUdkMXNWWG1meXZMQTRCdEh2X2xrdnZtT3FBbTFmdm5mRFpJcUFQV2N2SEVzSTY3Zk9CM0x2SzJGX2FYS1FGSk1WOWhKYVR5UHR1ZVVMenVoMmkzTktYeW5RRWNUcmE3NHIwcy10UVpBWUl1cURlLWJiWWN1azBVa0tIVENaT0RyMDZHZVhuTW1HU1RrY1JIVVA2UllydXZ2WEsyXzNKeW9CQlE?oc=5"
-    },
-    {
-      "headline": "This Baker Hughes Insider Reduced Their Stake By 100% - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLTlqblVzMEdnVXg5WWM1V01seTRWV21QRjA3R2FjdGN0cmFhVVcxM2NCMG9xeFF5T0YwZW1Na3F2aW95VWtWR0dJdm9QZ3g2dkl1WV8xY3ZQQ2tZWnlFanpIZFRsZFNFZV9NNUJja2dtdnlMSm1vaG81aDB0eHpLU3gtaFNaY0pZZW9B?oc=5"
+      "headline": "Prudential PLC Purchases 196,230 Shares of Baker Hughes Company $BKR - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVW1RczI3UXRVZDMxZ2NzMW4yYVlzVGhQdFFJV0duYVVhRGR3RDItNVdLUkNRb2hEbGdRSURHbC1WVVlEZkFqWnpJSTFBTi1oV1FMUFkxdGhUMEI4b1MzVUswNzhfRlZuSTNxdTBWckppMldmQ2dmcHhGRENxN3BxeklMN0RwUmtxWTVtTENreGJiX2dhZjJBOG9BRXZPdGE3M1Fxb2NmczFOM2hydHhOdlpFZC1jbHh3MkJjNHlJOFFjQ3c1RWc?oc=5"
     },
     {
       "headline": "Is It Too Late To Consider Baker Hughes (BKR) After A 75% One-Year Surge? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMGpaU2xmdU5YT0NDQTUyaVljczJ1VUlmWmVMV184OVk1cmlFaHJMNi1TYk9WX09XV2F5TGhIMVIxSDVNMjQtWV9obWNPVzktTmVTZTFLeVBqcVZPQTVsVE5kWXlMbVVoV0VOQ3p3UDhDQXY1T0dXc04tbEhPaDdQckVybkNxRFVQSE5wa2ctQ3VjZTlzUXEwdVNGenNZX3ZGcFNUWnZtS0tsMVA5RFZZMThMa0FOSl9nZGpXcnlDTUNsMHZkV0440gHMAUFVX3lxTE1aYnAyM2pkQjRTaDBPbGp4elZNQmwyZ1F5TFVOTmNjQ0dnVE9JejNXd1d6VUNmRXdFd3dRT1R6N2FReGNGT2d2bER6MmlEc0c3bWJKWUU3WlZIOVZJQURzaG9jdWFIOVlzcjNfeWRBZElfTjdKTUlYNWpWeVhpWk1ZUy0yV2NRd1FGNHJlUnl4NVdXM2JDcGNnRWE0a05QOHdCZ181QXdqQUpkNF9HZFBINFlVdmI4TlNrZS1BVkRwSEdNR2lQOEVkSEozZg?oc=5"
+    },
+    {
+      "headline": "Why Baker Hughes (BKR) Stock Is Nosediving - StockStory",
+      "source": "StockStory",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTFORDdNWTZxWVA3S1FDakhrOGhDR2FVM2VoclFWb05FclFGa09uaDFzUWZacjdvYTBxVnpVSEhMUW9ZVmdadmd0c0NiMjN6QTM5OVJCTGVMdDFOdHBhZ1FocXRDU1MyemZiY2dBcVFEZ0RlN0FXUHkxY2xOZmNjbTQtNVU4d3dTbHlaaG9sVmRISUlmLVZtRWhHRFplVUlSRi1V?oc=5"
     }
   ],
   "insight": "Tracking Baker Hughes (BKR)."

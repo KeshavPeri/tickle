@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:25.697Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:57.931Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    135.4600067138672,
-    138.3800048828125,
     147.99000549316406,
     141.08999633789062,
     141.30999755859375,
@@ -24,11 +22,11 @@
     143.82000732421875,
     141.64999389648438,
     142.02999877929688,
-    140.8800048828125
+    140.8800048828125,
+    142.05999755859375,
+    138.1199951171875
   ],
   "6m": [
-    128.22000122070312,
-    128.6199951171875,
     130.89999389648438,
     131.44000244140625,
     133.3800048828125,
@@ -158,10 +156,11 @@
     143.82000732421875,
     141.64999389648438,
     142.02999877929688,
-    140.8800048828125
+    140.8800048828125,
+    142.05999755859375,
+    138.1199951171875
   ],
   "1y": [
-    122.5,
     123.51000213623047,
     125.5999984741211,
     126.94000244140625,
@@ -410,29 +409,31 @@
     143.82000732421875,
     141.64999389648438,
     142.02999877929688,
-    140.8800048828125
+    140.8800048828125,
+    142.05999755859375,
+    138.1199951171875
   ],
-  "lastClose": 140.8800048828125,
-  "oneYearReturn": 15.004085618622447,
+  "lastClose": 138.1199951171875,
+  "oneYearReturn": 11.828995812697286,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Emerson Electric Stock Underperforming the S&P 500? - Barchart",
-      "source": "Barchart",
+      "headline": "Emerson Electric Co. (EMR) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLTk3LUFseFg4eVRCZG05WUhFWWd3YVNadmRtc2RfNWNBdERMaWdVaC1MeS1xaDZVRjZVX3J4RVBhekZIeDROVGp3elRoWHA0dy1fV2dsZUZPQ2ZQQXk1TzVMYUUzWjFtcEdaT0tGRDJ0TExNR01lU01aUFRlUWRnSzMzYTEwN2xFdnFz?oc=5"
+    },
+    {
+      "headline": "Is Emerson Electric Stock Underperforming the S&P 500? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXBDZFF2a2RTR0pZbnZfY1NjQkRsWFZkR3M5NjJlMHZZelQyZXlfWm4tQmJ3QmRxUExmMHFYMGFhMDliS21PVV90V21OY0FBYzBucHhSZVk5VEdyaVF5OURtMUVFbDBNcWV1NldmaU5sNVVTX1dCSkdWeDd1SnZ3dXJ4YnBYQ3FqSGlSUzFQNjEwUC1VWkhIeERRY2Y5Zw?oc=5"
     },
     {
-      "headline": "Emerson Electric Insiders Sell US$2.6m Of Stock, Possibly Signalling Caution - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzVJd0txWDBsZGRyNHF5djVPQmdfY29IUnRucjRsM2lHeXVBR2tDZ2tCdnBTdmtUdHpUSHdoTTR0UHpuNzRRVmVMQ2d4X2E3TE9EQlZuTFBWYTA1MVdQcldfS3pqTlZZbEVBYWZDVWoyNlh4aHZOQmdrWV9jLUIwZFRjQ3V1R0hfYjJ5WUJOWTIzM2NUNHZxOG5sbEtqdTQ?oc=5"
-    },
-    {
-      "headline": "Don't Ignore The Insider Selling In Emerson Electric - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdHI4a3hSYXppVUUweVFMZ29kYVZqeG1iYkU5bWdvX2lidWNCNWdaU1FtNzNuTEtXczBudjNja2hIMmM5S1hZbmduTU9sSXM1a1RWN2cwUHpsdFFGc2c4c1BKalBWWmliVkNnRFQxMm81bUZUZWZtNWpVTEgzSUh1aGxGcmdKUUhKaDAyYWhzUWtLM2R6Vzd6SkJScVNTbXpCczBzbTQ4TlhuaGRXcjhBbElobUotM3JabkRFbjd0T0FMWWRsd1h4Ml9R0gHPAUFVX3lxTFBPVXREb2xIcnRTZEZuZ2JEVUVpcFVlTGNDbnl1al9OakpDbDRQYjcxckJuMEp3eXU3MXk3a3JQMjAyY0cwR0tRMmwxZWtGVG13WUFqWEVjNFVyTkNXRnpXdWRhUHZMa2laT21pRnVwUTJzcG9wTkJfWHRYVndKTGZQVUNNVERlZ1ZGYVo2dkZVMHExb1lLb0xaYk1RSDNETnVBLXhaVVlQMDVsRWxfb05sWU95ZkdpaG5aV1BnNmluTDZUS3hJTjF2S0RBV2N3cw?oc=5"
+      "headline": "Emerson Electric Co. $EMR Shares Acquired by CIBC Asset Management Inc - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTFqTWhtS01JT0Y3c0lBZXAxQUxRRllGMk5VTlNyZ2Nfd0Y5MFpKWkFKSl92UEdfbi1nQzRDcUNtR21feHZRT3ZWb1paTGU2ZlRGbUliOGdZRWlUbUxKQWpXbUJXV0VvdHEzelVBWk1INjlrcENEdFdkY0kxRF83S215Ni1fMGpDX3hpM3gyQkpPOFkwZ2hYejRQOFBqRjZaZ25XRzlRZGZsbWlxWXZZVmpNWFl0b0pBVTBBdHlTckJITTFnTVZMWg?oc=5"
     }
   ],
   "insight": "Tracking Emerson Electric (EMR)."

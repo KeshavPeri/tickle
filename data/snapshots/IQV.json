@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:35.941Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:08.520Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    160.94000244140625,
-    176.4199981689453,
     176.47000122070312,
     178.63999938964844,
     178.7100067138672,
@@ -24,11 +22,11 @@
     182.2100067138672,
     186.82000732421875,
     180.63999938964844,
-    182.0500030517578
+    182.0500030517578,
+    186.8800048828125,
+    183.4499969482422
   ],
   "6m": [
-    224.89999389648438,
-    228.17999267578125,
     231.9199981689453,
     231.8000030517578,
     230.00999450683594,
@@ -158,10 +156,11 @@
     182.2100067138672,
     186.82000732421875,
     180.63999938964844,
-    182.0500030517578
+    182.0500030517578,
+    186.8800048828125,
+    183.4499969482422
   ],
   "1y": [
-    147.3699951171875,
     152.32000732421875,
     154.14999389648438,
     159.77000427246094,
@@ -410,29 +409,31 @@
     182.2100067138672,
     186.82000732421875,
     180.63999938964844,
-    182.0500030517578
+    182.0500030517578,
+    186.8800048828125,
+    183.4499969482422
   ],
-  "lastClose": 182.0500030517578,
-  "oneYearReturn": 23.532611171624886,
+  "lastClose": 183.4499969482422,
+  "oneYearReturn": 20.437229600286262,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "IQVIA Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "Barclays upgrades IQVIA stock rating on scale, execution strength - Investing.com",
+      "source": "Investing.com",
       "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaG9QZlEtckFBMWZ1Mk93Z0xWMm1OZk9pTnJVUnp2S2p0ejNOcHJSZFgtWkJfdXN3ZE1FSXFlaldyUDVsSFJpUG95UENHZmFvclZDcE5BVndGWW5NekYyUURja0dRSU02QTJ1UVo3NS1IOG5iUUFGb0lQZnlHTkZ6amQtalpabm9DSDZhOXNGRExtUDZrRWpUMDhSZ3FITnRORkZQMC1mbEVvTXl2dERCVHBtdlFkNThDaWtmQm9EeTBhMG03OGFhVk1sZXpzQ0NsZFRYeWJMazVsZXpjR09kck9B?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRW5sVFV2dVNhcUNEZU5NTXZTTjlwQnh1NlctWE9KS1Q0LU1fUVltS1pYZEZ0RVFSd1ZMaUpJdFUxVVo3VldBWDRDeUxPTFFBcEZRVnZhR0tEdjZNSGFtclBTNVdEWmpSZm03YUNOR3Fuc2hmM3Z5ZjFEU2gxZnRIbTVuRGJFd0doZlhETUwwVzNhUUxNeVQ2WUQwd3VZa1BNNlVFYTBiOUJlN2FfZGdNeXdqbF9YMEtZUnoxUnJ4UFA0QQ?oc=5"
+    },
+    {
+      "headline": "Here's Why IQVIA Holdings (IQV) is a Strong Value Stock - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXdmeUwyR0RUbFFOS2U3ZllmVU1QVm5ER0FaUXFKcjl0WkVaVEpFMjl5UDVtXzBrM1UwYzZCRk1PaDN3SVhvS2NLWVFsWkg1VU5zaFJVa3ptVEZ2cmlwQXVrUFV0SVhidDh2SFJ3VXBJRTN3UWRSeDhBdFRjakROcDVobW9jbU5Qam1PeGRTTWtnVTJ4VjJzLQ?oc=5"
     },
     {
       "headline": "IQVIA sets 4.625% rate on €950M notes to refinance debt - Stock Titan",
       "source": "Stock Titan",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOUU4dDc3OUpKYW5zaFcyQUxqRGNLU2N3a1RNVGN2MWFfTlhVNUNSV3M0c1VIY0JoX2ZWVW9YQlNSbzVIUlZ2S1pnVGktT1lqSHdpTHhTT1NSWnJ3ZDktX3dReEtUQmhUZ2l2UHRkdWJhR1FDSUNaTTdmYlNVTlpjTDZhVUJXbDA5QnFmaGpmdU8?oc=5"
-    },
-    {
-      "headline": "How IQVIA’s €950 Million Debt Refinancing and 2026 Outlook Update Will Impact IQVIA Holdings (IQV) Investors - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNODFPS0tnUWJabUx3cnhYNWYwZ1U1WXFoSGhRUVJyeUJnY1h4Ympod2k4Zzd6N29HVE1oQTROR0pKaUhOekxoN1hQMy03OHN0WnVSUno4cXhUNHJiZGJmSllvTmFvcVVvcHVCR2JBamFaeHdUcTc3SG5SX0ktcnY4ZWpFUml0ZlZkZVdKSVkwRE1hNGdVNFBxR3BCSzdiRk51ZjdIblg5Y3VsMkFrRFRBdWJrcDRyU2RZTmRKdDQ2a2dyTFBFQzU1bFd0ZUNGXzc0S3hzWUhZSXhnWG9zUXhRZ0l4NNIB4wFBVV95cUxNODFPS0tnUWJabUx3cnhYNWYwZ1U1WXFoSGhRUVJyeUJnY1h4Ympod2k4Zzd6N29HVE1oQTROR0pKaUhOekxoN1hQMy03OHN0WnVSUno4cXhUNHJiZGJmSllvTmFvcVVvcHVCR2JBamFaeHdUcTc3SG5SX0ktcnY4ZWpFUml0ZlZkZVdKSVkwRE1hNGdVNFBxR3BCSzdiRk51ZjdIblg5Y3VsMkFrRFRBdWJrcDRyU2RZTmRKdDQ2a2dyTFBFQzU1bFd0ZUNGXzc0S3hzWUhZSXhnWG9zUXhRZ0l4NA?oc=5"
     }
   ],
   "insight": "Tracking IQVIA (IQV)."

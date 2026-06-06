@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:28.475Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:00.717Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    46.779998779296875,
-    45.880001068115234,
     45.54999923706055,
     45.16999816894531,
     44.33000183105469,
@@ -24,11 +22,11 @@
     46.38999938964844,
     45.380001068115234,
     45.31999969482422,
-    45.540000915527344
+    45.540000915527344,
+    45.63999938964844,
+    46.41999816894531
   ],
   "6m": [
-    46.88999938964844,
-    47.34000015258789,
     46.91999816894531,
     47.36000061035156,
     47.720001220703125,
@@ -158,10 +156,11 @@
     46.38999938964844,
     45.380001068115234,
     45.31999969482422,
-    45.540000915527344
+    45.540000915527344,
+    45.63999938964844,
+    46.41999816894531
   ],
   "1y": [
-    40.72999954223633,
     40.650001525878906,
     39.81999969482422,
     40.11000061035156,
@@ -410,29 +409,31 @@
     46.38999938964844,
     45.380001068115234,
     45.31999969482422,
-    45.540000915527344
+    45.540000915527344,
+    45.63999938964844,
+    46.41999816894531
   ],
-  "lastClose": 45.540000915527344,
-  "oneYearReturn": 11.809480548368592,
+  "lastClose": 46.41999816894531,
+  "oneYearReturn": 14.194333152467578,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "FirstEnergy Stock: Is Wall Street Bullish or Bearish? - Barchart",
-      "source": "Barchart",
-      "when": "2026-05-14",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVM2UzFZdXV1RXNYeVpqekh2Y2Jvenk5ckVYaEc1TmJoSzhodzZNMzNNODlMM05zT2dpUmZtOGhZUHB4d2VHUjRTMWhndVl1MFFSaHpuOGprZkJhZTJqTTdDalpKdFllblR2U3RHbDBLV05POUJNb2h3YUNyYVJkR2N1ckpUODB0NFB2ZmtFQ2I0VFpEUmtkLU5ETQ?oc=5"
-    },
-    {
-      "headline": "Assessing FirstEnergy (FE) Valuation After Recent Share Price Weakness And Conflicting Fair Value Signals - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-16",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWRYclZEem5zSENNQzh1Z0w3dVZ6RUREUWh4UHNteGFjOEtQaUZTUXZwNVFFTXQzQmJNRUg2M3FQQW1Zd0VOZFZMU1RSVVpOMVFJVTJiTHhJVDRSbm5uWEhuUGtvVmVvVVo1R0xmYnhUMmFyVzFnTVlpSFV2azFwdmd2YThsTjRDT1dhVjQzNTFSWm1Oc3lETE55aWdQR0VnUGg3UHlDcWx3dw?oc=5"
-    },
-    {
-      "headline": "FirstEnergy Announces First Quarter 2026 Financial Results, Reaffirms Guidance and Capital Plan to Deliver Value to Customers, Communities and Investors - FirstEnergy",
+      "headline": "FirstEnergy Announces 2025 Financial Results, Affirms 2026 Guidance and Provides Long-Term Financial Outlook Focused on Delivering Value to Customers, Communities and Investors - FirstEnergy",
       "source": "FirstEnergy",
-      "when": "2026-04-28",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXlBUGRDNk5BYjQ2a1owOEtZcHJOb3lxbFJ2LVAtSkpSci1UUWFxRFVLS0pvLU1Pa2M1U09JbGc4R09QNDFRdjZRYkIxb1hfMXNNb2cyM1l3VkpaUW9rREFqYnpnTlc2YTZkZkV6VTZjbDhWbGNzV1RLYUppTGdoUUhTaHBMWFB2TnNPZ1lWb0Zkbk1fVEc3RkNwd0xyeUk?oc=5"
+      "when": "2026-02-17",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdmZ0RUxvdjZKblAzcnpFMjJwS0NBd1hucGJJaWNYc1hfZW43RkM0MGdUejdZLVczVzRzMEM0TjluSW5vcngwUDdXRW9qS1F3dXU4N0VFcVFNOEtfSnF0cjViM3YwdkpjeDBYWGNnVURzYWltM2ZGaXdrUXB2QllMLWVXb2pMUVhUMktwcDd0bG5uQVg2dk1maEt0VFNFN2M?oc=5"
+    },
+    {
+      "headline": "Assessing FirstEnergy (FE) Valuation As Recent Share Price Weakness Meets Grid Investment Growth Story - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-01",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ05OQXlTVDZDZzY2NjZjN2VZcVI3aVhvZGd2elBoeHNEbElLUjR3aG82dkZHOExLRUpRbzBkengtM3NjSHp4WGJMVWlDVkdHeUhfWFlNX3N1bXQ4LXZIdnZZNVYzaG5adGVneG4yTEItVGxjYnl1QzdfWl9BUkhOOTkyNy03WHpYX1NfREo5WlZuWmtDS2dZemVlcmcwQ2trX1V2dWtGWktIQQ?oc=5"
+    },
+    {
+      "headline": "FirstEnergy Corp. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUi1WMnE5SF9TVzhseXI3cGZMb1FubnlkY0xPclI0VmRKdU5mZlAtZENrdHFmcm1MUlpZOElrOTlqbkZGRWswS2E3RVJBTXBYbkxmRXRNcXNLM3ZYbC1VcmRzNzIyVEpfdVpJaVAwR1lPbXlqV0VzT211THQ1STJwbC1xS1NtT2E1TWN3c0h4MTg2RlhuUjlhVUgyczRRTHhDUDNiNzZGa2xGN25WUDdlSC1WcV9pa0ViX3ZQb3BaZnhBSTVjMS15SGdIUlY?oc=5"
     }
   ],
   "insight": "Tracking FirstEnergy (FE)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:53.604Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:26.116Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    103.44000244140625,
-    106.23999786376953,
     107.56999969482422,
     106.8499984741211,
     102.41999816894531,
@@ -24,11 +22,11 @@
     101.22000122070312,
     106.52999877929688,
     104.62000274658203,
-    104.94999694824219
+    104.94999694824219,
+    103.5999984741211,
+    104.4800033569336
   ],
   "6m": [
-    119.5999984741211,
-    123.23999786376953,
     127.47000122070312,
     129.4600067138672,
     128.67999267578125,
@@ -158,10 +156,11 @@
     101.22000122070312,
     106.52999877929688,
     104.62000274658203,
-    104.94999694824219
+    104.94999694824219,
+    103.5999984741211,
+    104.4800033569336
   ],
   "1y": [
-    83.23999786376953,
     83.30000305175781,
     84.69999694824219,
     86.66999816894531,
@@ -410,10 +409,12 @@
     101.22000122070312,
     106.52999877929688,
     104.62000274658203,
-    104.94999694824219
+    104.94999694824219,
+    103.5999984741211,
+    104.4800033569336
   ],
-  "lastClose": 104.94999694824219,
-  "oneYearReturn": 26.08121052574174,
+  "lastClose": 104.4800033569336,
+  "oneYearReturn": 25.426169903037998,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVByenJXMXRRZXFEdlpCWmhGVFR2WkNQTjNJU3VBT3lzMTRxZmNRWWh1Tm1wOGdlUTBZWXBBYjdEbC1CbHBMYUtrNXJtei0yVlhfSi1HTGdLUk9NWUpCU2pTbmdYUFhUMEsyaVB2Z294NmhES0tXYW9ENmFOVF9tbDBUZ1JIVjl6MG81X2FyZDVNV0tWUHlId2g2VHQwa1U?oc=5"
     },
     {
-      "headline": "MGM Resorts International vs. Wynn Resorts: Which Casino Stock Is a Better Buy in 2026? - AOL.com",
-      "source": "AOL.com",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUHRfSzUtZmNxTGktcDJDQWxFUWlacVg4RG5lWEg5ZmlVaTNQQm5QcWp5cnhoUHJUNWZXOHVfbkFoRkhlNUVJSnV0X0ZNdVBycjNqOVZ2cW83MXZzREFlaU1NdmFlQjBjX21KSmtEeW0wWEt1SjJGc29KaFFXQWJWNW5n?oc=5"
+      "headline": "[Form 4] WYNN RESORTS LTD Insider Trading Activity - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTlkbHdSS1JRckpwWWFyUEFMYlBrZnVrMGVQZmZJYmNsWGVneDNwUU4yYW5JMlhiYlNVYkFFMHczbk1xeEFhV25yNzV5M1JTZHc0ZTJOb2NnU25McnNta1lTa1ZmMzh6ek9uNDJQMnRVUW9MTjVXOTEzNFZoNlpET0QxQkZaY3lfQVc5RmpDS2p0N293N0FiMlhvMUQ2U1BGbTMzeGdPdXIyVG4zNnpJ?oc=5"
     },
     {
-      "headline": "Did Strong Q1 Results and Macau Dividends Just Shift Wynn Resorts' (WYNN) Investment Narrative? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOemZFbF9ETVRsXzVTSlhwT0ZCbWQ3T0tOS1hhNmY4MzN1MXNSUFJyallCZzc3X0w3dkVVenhjT2NIclFCZXFIb0NibTJ4S0J3Y3ZnTHctR3BqRS00WWR0al9KQTlucVJxWl82WlRBMEQxeDJvTWZWanM2X0R1OHFNelphdkFjRTNRV1Bsb2tRNWhQVXZCRGx5Ym5qUWN3bWxvbXZidVJZc0ZXa05WM2pPdWRMOXJVejlpRHc5dzhGdWJOTC1jLXhubUJtRWNfSkQ4eVN0U2RFSjN2cXZE0gHcAUFVX3lxTE56ZkVsX0RNVGxfNVNKWHBPRkJtZDdPS05LWGE2ZjgzM3Uxc1JQUnJqWUJnNzdfTDd2RVV6eGNPY0hyUUJlcUhvQ2JtMnhLQndjdmdMdy1HcGpFLTRZZHRqX0pBOW5xUnFaXzZaVEEwRDF4Mm9NZlZqczZfRHU4cU16WmF2QWNFM1FXUGxva1E1aFBVdkJEbHlibmpRY3dtbG9tdmJ1UllzRldrTlYzak91ZEw5clV6OWlEdzl3OEZ1Yk5MLWMteG5tQm1FY19KRDh5U3RTZEVKM3ZxdkQ?oc=5"
+      "headline": "Why is Wynn Resorts stock surging today? - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQm1CRlB2QzRIM05JVEFpSmxjaDVoRW1QSHVfRkxUVE1TRmZEVndWQ2h3Z0tObm5jNXd3TWtINUs0b2Y0YkwyVnl6Ymc2QVRWWHdKby1mNnZJTElyOU1FOGtjSnc2T1Zsd1NkLUlOMnF2bDBMcllfY0gzVVc4dkQ4YzVEdF9hX2sxUUNSQVU3eXlOVFFtUnZCX0c4ZmFXcndWRFNZ?oc=5"
     }
   ],
   "insight": "Tracking Wynn Resorts (WYNN)."

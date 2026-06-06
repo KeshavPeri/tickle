@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:23.960Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:56.094Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    146.72999572753906,
-    143.5,
     142.44000244140625,
     142,
     140.60000610351562,
@@ -24,11 +22,11 @@
     142.8699951171875,
     139.8300018310547,
     142.64999389648438,
-    141.80999755859375
+    141.80999755859375,
+    142.72999572753906,
+    145.77000427246094
   ],
   "6m": [
-    135.77000427246094,
-    136.07000732421875,
     136.07000732421875,
     136.77999877929688,
     137.02999877929688,
@@ -158,10 +156,11 @@
     142.8699951171875,
     139.8300018310547,
     142.64999389648438,
-    141.80999755859375
+    141.80999755859375,
+    142.72999572753906,
+    145.77000427246094
   ],
   "1y": [
-    132.6999969482422,
     133.85000610351562,
     133.89999389648438,
     134.8800048828125,
@@ -410,29 +409,31 @@
     142.8699951171875,
     139.8300018310547,
     142.64999389648438,
-    141.80999755859375
+    141.80999755859375,
+    142.72999572753906,
+    145.77000427246094
   ],
-  "lastClose": 141.80999755859375,
-  "oneYearReturn": 6.865109886856134,
+  "lastClose": 145.77000427246094,
+  "oneYearReturn": 8.905489447439201,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "DTE Energy Co. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRTBocFFTWVUwR0VxTkJnLXNxWXphU3RyWXA2bDl1M1ZYalI5ckh4MnN4amVEU2x6SENpcjR5Uk1mem5idFY3NzVaVmRSdkdZRGt5alNIZFhMWUdUMGxUU09OaGZEdHZyU3RqWWlpSTRFejJoVjU2TkRzZGlaeDJJOEgzN1hwUzktV3VLVEtTRWtyLWVVV3Y1R2E5d3FvamhqZ3BWSHpkQzBwQVVTTGRoX2l6YXRTRVQ4RWhfeGdSWGFYTTVSajlwVnJfWkZ1VHJSVWpXajZwem9XclhjZjRYQWlLRjlSWllEd2k0MnBRdTJuTnJ0VmNGSkp0Tmw?oc=5"
+      "headline": "PAM vs. DTE: Which Stock Is the Better Value Option? - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NMVhlaFJLTzg3VjdNcUFqV0dmX2tJalctd0pkTzZ4VFZoS0lxTHVRTDRreDNVNmFCVmtscTE4NmFrMTR1YjFEb3lxbFNTaEpxUU0yT3BETVpnVVNFcXNBUXBIU0Z5b1YxQTJicXhHQTJEcUh4ckV4RE10X3M?oc=5"
     },
     {
-      "headline": "DTE Energy Offers Steady Growth Prospects Amid Data Center Boom - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-05-21",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX0JmRlRBUkcwMFQ2bFdXMUFPaWtPdDBjdTNMTElYc3N5UE5CVTdIOFNZdHpVdzRINEo2WWo3LXd1a1ptdTJxQ2xtMmF2eWtKRE9TQ2UwYUZEMjBidXpWOHRsT2UwYkRidWRzcE5nTlowVnVRazZQX1pBRXQ0VHFtMGtmTDZKaUpnWHhyNWRqQ2VmaDY0YVBfdUNOU2l6Zw?oc=5"
+      "headline": "Should DTE’s Oracle-Backed Battery Buildout and Data Center Push Require Action From DTE Energy (DTE) Investors? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-06",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZndCY2Q1VzJxczFwdmwwcHJJSmV2c2xaOUlZekxjZ3ZpLTg1bE82eXpYb0dIYy1hNG9ONE9fbkJqTENORUxfVXhIQmVaYndycG5kNEhOQmJfWU9FRjhpbktuemlnNTUybjNGbTZOLURYTkJnaXh5WEFXdDQwMG9idWJyQW9pNmJyZVJfa0xGM2pGTkpoa0l0alZnR2VfRU9qdVZtR1I4Qlh4dUFLakpQTXN3NVctUEVTMHJPUy0wT242QUFKX3fSAcsBQVVfeXFMT2pCYVQxaWpxN2RtMi1ma3pkRl9nYVR0QXg5b1JKSnZ5ZkJjS2w1RWhRNEM0M2xoQkNXNWxETFd4UDh2WUNKa2prcHZuQ1p1dF9WNWw4SHVBN1BDNjRlbVEzcElaaWh2NlJlbFpTT3ZLTndvRXZiMncwZTg3ZlBwenFKeXpwY054VkhXcTN6MXlOUmZ0MFFHWWdNSG1FWGswVGE4NFFMZjRaQ0kzR0dCdHo5MXJScDVZR1ptQmhGbXdSUE9aSTVCWUFpRTA?oc=5"
     },
     {
-      "headline": "Is Wall Street Bullish or Bearish on DTE Energy Stock? - Barchart",
-      "source": "Barchart",
-      "when": "2026-05-21",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1k2blZVQnJVQlh1czBfd2ZreVJidU5Zdi0ybFQtNHQtM1Y0ek5ieW9sS0lmVzBYNWU2ZnhZeFNJZzRXVGdhSzd1U3lsd21odkhNeUthYklNQngySFd6MU14NjJzZmpFSmFaZmJHdTRWb19RZ29fRF9YX29zVHNsYVZ2NHJjSjQ4S2xBV1ZYdGh6ci11cjJMd1d6ckQzQQ?oc=5"
+      "headline": "DTE Energy (NYSE: DTB) outlines 2026 operating earnings guidance for investors - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLVJIa1dJSV81aXZaVzZpRC1fcTh1RlJITUtfV3lQS2pPQkFBNmp4Vmt0cWhOVWhfTWRUZExEMnFleS1LVWc4cENJYS1aWk4zckVaS3VWWHVTQjkwSV8tckJvVXlJU3FkYXlQNXNhQUZNYzNZZEJDZXA0SGhlYkZWenV3N1k4Tk4tYzNlN2Y5bXN4ei1NdGRjcnk4Y0xTTUhqeFM4?oc=5"
     }
   ],
   "insight": "Tracking DTE Energy (DTE)."

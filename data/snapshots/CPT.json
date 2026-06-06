@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:19.728Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:51.993Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    104.37999725341797,
-    104.7300033569336,
     104.80999755859375,
     104.06999969482422,
     103.7699966430664,
@@ -24,11 +22,11 @@
     106.55999755859375,
     106.08000183105469,
     106.0999984741211,
-    108.88999938964844
+    108.88999938964844,
+    112.01000213623047,
+    112.5999984741211
   ],
   "6m": [
-    105.2300033569336,
-    104.63999938964844,
     106.18000030517578,
     106.02999877929688,
     106.33999633789062,
@@ -158,10 +156,11 @@
     106.55999755859375,
     106.08000183105469,
     106.0999984741211,
-    108.88999938964844
+    108.88999938964844,
+    112.01000213623047,
+    112.5999984741211
   ],
   "1y": [
-    115.73999786376953,
     115.83000183105469,
     117.54000091552734,
     118.11000061035156,
@@ -410,29 +409,31 @@
     106.55999755859375,
     106.08000183105469,
     106.0999984741211,
-    108.88999938964844
+    108.88999938964844,
+    112.01000213623047,
+    112.5999984741211
   ],
-  "lastClose": 108.88999938964844,
-  "oneYearReturn": -5.918436668872077,
+  "lastClose": 112.5999984741211,
+  "oneYearReturn": -2.7885723093096,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Camden Property Trust stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdFkyLVhSUWxFNVVXMGpJbUVxRmVSdW1OLWp2ZlJYMDVTZ2VER2JPankwdUgwVVl6TWxrbzlGUmgyT0E0MWV4T05UVHRrRExDUkNCSlY2VlZONG9fd0NiUWd4SHRqVXVUc3RJdnJKOEhyWXBOQXpNaDdKNEZJSnNFdnd4SzlMNEY3MDZNOUI5NWhXTjQtYm96amtnR3ZlT09Nck14OS1BTVVCNmtab20xeHdNbjBHbDZxMlZzMUVTdy1zT3JBTUtRbWVXU001QQ?oc=5"
-    },
-    {
-      "headline": "Truist reiterates Buy on Camden Property Trust stock, $118 target - Investing.com",
+      "headline": "Camden Property Trust executive chairman sells $3.37m in shares - Investing.com",
       "source": "Investing.com",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1hxYTdsNzRzSWZvSnFQV3ZSdFRwdW5pRHc2V2xNQXU1QnhpNkRlb054OTNiQTcwTENFUzZ5LTdmbGQ3UFdMMWM4T3lkU1h4Z29XUkJaTlZNci16MFk4TW1yU0FWOTdrRkI0UnBuR0k1RUxBcGE1SkdPZ1oxU0J6OFBuVzBTNWhvT3RObDQyWS1ZU0pUbFJ1bkRzczR1X0Q1SmVaNDl5WlluVHhvVk4wd25RbWotWDZpSmdZOW9YTEw?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHU1SGFydk9fVWtOZHJnSVhTZWt6UzlzLU1jbGt3YXRjWDZjTTE1M3N3c25SX0E4Q0pMdFRmNVphOE9QM0FDdVlLRWV3TkZGNTVGa1U1aW1UX28tT2c0MmlXaEY1a2ltNXU2OTZUSFVLdzZ6bk11MUFpSmw5WGR6ZHdMNy1JS1RZbVJ3VlV5T0NpWWVqVmRTLURQdWNjMGZhbUZZWEhOMklLZTJlSEE0TE9tbEVIUUNFV2JrczRkRHg1M0p5dEVZWTA2RTlYRzQ?oc=5"
     },
     {
-      "headline": "Camden Property Trust (CPT) Valuation Check As Shares Show Mixed Returns And Earnings Pressure - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeUF5UjJfYW10TzBSYThmTjVjQVAwa05WZnhSdlhYVjRNQlZmVDd0ekRzcWM3NzIxdnpnUTRmQnJGUTRCTGpFZkZuWjRLNUN6VVA5UnlidnFuQm0wVVpsUEdUS1N2MjdxZGRMamxpY2JZMXFhR01IXzRrdFViT1ZBNmhsU1pUdm1BdWE4RWcxcU5oYzNWSDc0cFF5NHNVRnQ5Y3FqbmNKWHhiSE1vYWtHNWY2bHZocUI5MlN6cm4zbFByQXMwQTZSR3h1U3RtbXRJNzBBYmRzNNIB3AFBVV95cUxPOTJNWWhwQWZhREdKckhuamZpLUtFZ3hiOEFmY09iZEdVLWNzaldua2R6SDFWRnRrR0ZYeE5Vc1Btc1E2d1p3Mjl6djNRTld2WDZFbEJuMUdJNi1kalR5NVUzQWtfaFh4VG01NEp1VXozTDczVFE2bUVOR2dCVm1rMU5YUDJaRjJYNlFDbDJHODNqeXV6NWpvQUlMZGJKaDNicmVWZ0JZbWdQU0YweVpoTXg4Vmg2Y0szeXdaSGwtbDZzdFRRejlrUktUMWUxTjFmSHVBZDViejVuVWYt?oc=5"
+      "headline": "Camden Property Trust (CPT) chair sells 30,000 shares, retains large stake - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlJXeGwxVl8wMGpqMkl4OUxPc2tRMmpFdUl0ZDQwMno4TVp3NnJHaEc4eElPTHFhR3owVzR5UDZGWFRnNUVabWg5X1BaZnFmenUzczRORWhJVlRScUNNdEp4NUpNREU4WXFRcWZHYklKaURnci1scTdIX0FFVFZPSmxwV2JWTmU2NjBhNFNtUFhXTTg0WjVQdDl2Vk5UQ1FIb2Foakt4cXo3T3pYcVhJNFNmYm4?oc=5"
+    },
+    {
+      "headline": "Camden Property Trust(CPT.US) Officer Sells US$3.37 Million in Common Stock - Moomoo",
+      "source": "Moomoo",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ28xVXp3bUhtZVNvV2ZJOGV4UXZ6QVlZYTBSdUJRUG5kQlBVWWRhN0V0bVhJUHR3SkxMM1Exb1NBVDRIalhqdUZFNW5CQnUyd2pva3d3SGZHY1k5X3BCSXcwazdYRjNBajN2ekpNNE1hUmlXLTJTOGFXb2Q1QW1ZR2k1bHRVRERsb1VPbTBxLU9yYnJlZVQtYms5YTloZE5T?oc=5"
     }
   ],
   "insight": "Tracking Camden Property Trust (CPT)."

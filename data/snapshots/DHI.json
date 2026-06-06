@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:22.585Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:54.790Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    143.52999877929688,
-    146.47000122070312,
     149.1699981689453,
     145.97000122070312,
     147.6300048828125,
@@ -24,11 +22,11 @@
     147.08999633789062,
     146.97999572753906,
     147.91000366210938,
-    144.5
+    144.5,
+    146.41000366210938,
+    145.60000610351562
   ],
   "6m": [
-    146.7100067138672,
-    146.0800018310547,
     154.52999877929688,
     156.75999450683594,
     159.00999450683594,
@@ -158,10 +156,11 @@
     147.08999633789062,
     146.97999572753906,
     147.91000366210938,
-    144.5
+    144.5,
+    146.41000366210938,
+    145.60000610351562
   ],
   "1y": [
-    122.73999786376953,
     120.73999786376953,
     122.6500015258789,
     126.94000244140625,
@@ -410,12 +409,20 @@
     147.08999633789062,
     146.97999572753906,
     147.91000366210938,
-    144.5
+    144.5,
+    146.41000366210938,
+    145.60000610351562
   ],
-  "lastClose": 144.5,
-  "oneYearReturn": 17.728533904963996,
+  "lastClose": 145.60000610351562,
+  "oneYearReturn": 20.58970405796722,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is D.R. Horton Stock Underperforming the Dow? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3dCWGpaR0N5YXpabjhGU3IxSTFmVmdxTUprVDAwajFZU1JObVRmZHlHaFdOc0JrSHNqWlN1SEpjTUI0NmFKNDFzTWJpZmIwQ0RGYjNaYWIxdXhUMTZPekt0ejJZNDRObVhxUmZPSGkyNEtPSjVDOEFuR0FlVHl4WlRDRnhKZGlNODdQTWxUNFR5dnc1a1NyQmZQWXJqdw?oc=5"
+    },
     {
       "headline": "Seaport downgrades D.R. Horton stock rating on job market concerns - Investing.com",
       "source": "Investing.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb0VoaHRIOGctY3NON2djdEtzeXhyeUc2TWtJWTNGRGZHa1d5QTJhbk10NjdpYUR2RUFFSGhYdmRldEtrbmU5UzQxaXFXMTF1ZTBabnFORFFUNFJpbklrQWs4R0hPUVZJeTF6RmJZbzU5VVFoQnZsNGJrS3BOR0V5UHZKR2xrQ1RGNFN5clN4OXRHX1M4STgzR3FIWlhpWmJOVkVib3hwQ21RWnltV3hlb3VRWW5QWXZzRFlCSl9kODFrZw?oc=5"
     },
     {
-      "headline": "D.R. Horton Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "headline": "D.R. Horton Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaEFMY2hUay1fdVQ1c3VoQTRhR0RhN2U0djhrc3N1ZjJLd1dNSEs3a183Y0d5M1F1NU50Uk1mUXEwQk1ZY25vazIyOTluYnBZcV9ibExXMmNJWTFYOUpqVUN4MXl1MHMyRDU0QTlMWHdhVTVGajkzNkhXWTRJNGg4ZkFXWlZJVUw1ZHdXN1MzRlRKc3R6azFLdDBQRU5yeHl6RkNkNXhrYk9FdGtDZEFwQzRLNHhoLWhReU5TNGZFSE9idG9sS0x4R1kzcXpkQjNFTFpPay1tSlNLQjZfOUsyakNORjBSODRUak9wYklCUkJaaEJ2VUx2RldXdjBtVEU?oc=5"
-    },
-    {
-      "headline": "Lennar vs. D.R. Horton: Which Consumer Stock Is a Better Buy in 2026? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-05-30",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzRqSDUxeU1fSmY1QkduUWhsUFBCZXZBNXBMaXRpM3RGYW5EQy1TT3JJX1RkaEcybnF0MDB2NjZEN2t3cnVUWlVWVlhfUjkxbG54R0xxS25ZbGRFcU5qenRodDZYVlpEMzRlcFlGb05UUlNLY1l0aHhLNmtzcG1zZ2RWb2JsRmctbWNxNngxcmM5R2lVTU1QcmQ5ZGNkRGl2LTh0YmtEVHJLbFpJckVLRzJKYmFaUEVq?oc=5"
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZUdocF9ZdWNZLTk3XzItLWFqM0FoVE42NmFSNURzU3VkeFZIXzFVZkZwT015ZXNUSURBcFhrRDVkWGZ0a2VzeUxzaE5UbmRvWkRLYVU1U1NFdnlkTjNqVktDdjVvNERhWHVZTUhmcENwWThadnNUQ3pyaFNUbzZnUDNrNGNVeVhXMjJDeDFtUEFady1uUEpZa1lxOHh0RmFNWmUtOG5FRGZGZWVUbWxGWkdXVkVYNnVham9qREY3cG5jZHYtcW9XQmFWZk9ydw?oc=5"
     }
   ],
   "insight": "Tracking D. R. Horton (DHI)."

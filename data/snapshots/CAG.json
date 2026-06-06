@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:15.492Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:47.580Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    13.850000381469727,
-    14,
     14.069999694824219,
     14.359999656677246,
     14.130000114440918,
@@ -24,11 +22,11 @@
     13.279999732971191,
     13.109999656677246,
     12.859999656677246,
-    12.579999923706055
+    12.579999923706055,
+    12.680000305175781,
+    13.010000228881836
   ],
   "6m": [
-    17.770000457763672,
-    17.520000457763672,
     17.739999771118164,
     17.81999969482422,
     17.850000381469727,
@@ -158,10 +156,11 @@
     13.279999732971191,
     13.109999656677246,
     12.859999656677246,
-    12.579999923706055
+    12.579999923706055,
+    12.680000305175781,
+    13.010000228881836
   ],
   "1y": [
-    22.260000228881836,
     22.389999389648438,
     22.399999618530273,
     22.440000534057617,
@@ -410,29 +409,31 @@
     13.279999732971191,
     13.109999656677246,
     12.859999656677246,
-    12.579999923706055
+    12.579999923706055,
+    12.680000305175781,
+    13.010000228881836
   ],
-  "lastClose": 12.579999923706055,
-  "oneYearReturn": -43.48607459858066,
+  "lastClose": 13.010000228881836,
+  "oneYearReturn": -41.893699939550935,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Conagra Brands (CAG) Faces Mounting Challenges as Bernstein Cuts Rating and Price Target - Insider Monkey",
-      "source": "Insider Monkey",
+      "headline": "Insider Stock Buying Reaches US$796.1k On Conagra Brands - Moomoo",
+      "source": "Moomoo",
       "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTGI3aHptVTBVaWJrMzNKLVhVbWZEQWtRY2t1RzZDRGZsMkZxNDB0YnQxdWtDZmVucTZIdmdQVFFnVDAtSUlPa0JJVGxrX0c5bkVCdTB3dGdTaXhuVEtycE9TMTY1MkVEak4wZXBIWGNkcTFodDNPUUE0NmtTUVlocjNoTlJlcVpMc1Y2UmtYbGF0YUY2VjkzSkc0ZldVUUxvdXBCNTVGUWxnX180N2RnbUN5QjF5em13T1BxMDF1d1J5Skd1U2FsT1hQUFYyU0s4QVHSAdIBQVVfeXFMTkxiN2h6bVUwVWliazMzSi1YVW1mREFrUWNrdUc2Q0RmbDJGcTQwdGJ0MXVrQ2ZlbnE2SHZnUFRRZ1QwLUlJT2tCSVRsa19HOW5FQnUwd3RnU2l4blRLcnBPUzE2NTJFRGpOMGVwSFhjZHExaHQzT1FBNDZrU1FZaHIzaE5SZXFaTHNWNlJrWGxhdGFGNlY5M0pHNGZXVVFMb3VwQjU1RlFsZ19fNDdkZ21DeUIxeXptd09QcTAxdXdSeUpHdVNhbE9YUFBWMlNLOEFR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnJuZGhIRHlUUjRNdnBOa0tJTFpiRkFEYlRiOTFySGY1UWIydnpGYkZLbEtXblR3allFMjlFV19ST2kydXRQTkY2TjBPc0NoU1UtUWtNUHEwMG9oQ2ZkcVZxQ0hJSk9lVTFHUWlsZUZpTThBQ1FfRmNSNTRvcDkyaU5CTmttZlNoOThFRm0xSDhqR2RHd1lMNDJWd0h6ZTg?oc=5"
     },
     {
-      "headline": "BofA Trims Conagra Brands, Inc. (CAG)’s Price Target To $13, Keeps Underperform Rating - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSXBqS29Sd3dWaVRZRDJWUEZsZ3ZWVFM0dG5XUUhOQmJkYmJsdW5WOVhERFNhNHN5djR3YTdOYnYtZURmbFRnYWg1RUZUMXRNWkpFbDVEN1JOWjdjZnlnM2RQbFB4empZMkNtZXpxQm83TW1mUTNJVW91UzNFWngyeDh1cEhxMzdtWkpodnpzU3M3LTRiakcwQ2Rn?oc=5"
+      "headline": "Conagra Brands Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMmRocDN3LWRDcWhFdlB2OWFwNFJZVHlJZE1vazlfOHZabjhEblBJeUxJRTJGVlBYWS04WTQ4aDJ5enl1Z201WWMyREJQRkNhaXB3VjBGLXJWVHkybVlVNHpBN0k5TmNCTmM5M0x3LXV1b1UwLUFSR3QxekFPOE53ZWFNY2dLT3dNaV9LRzNPVTBsX2lSVkZZMndZN1F5QlI5OEstUWptMWdERU1ueHo4S1l5S2R5b2FFcGFEMDNhY1ZUeHYtalFaT2l2RFAzWEkzTzI0QWJXSzZjRmhZd2sxLVln?oc=5"
     },
     {
-      "headline": "Conagra Brands (NYSE:CAG) Rating Lowered to \"Strong Sell\" at Sanford C. Bernstein - MarketBeat",
+      "headline": "Conagra Brands (NYSE:CAG) Given New $13.00 Price Target at Morgan Stanley - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOXNtci1MNS03dUlxa0tUcFA2VjVzTXoyeEFuUk5pWFRjU2hkczhheXZIVDN1czhSQ3NKUWZLNlh0WEE2TGpHaG5WaFVtV0E1OVVkdVJFS1QwUkRxbUZiRnpVSmpFbDhWelpjLWlwVEgycFY2RDNWSFhhZkNJYXpRM3k1VUN6Q1I0engxWE1odndSejhsMDBZX0lnOVZhUEV0Y000alBqV1NoMG5Zd2tSVEFnTzhXeVZaelNWclB2N2s2YXZXTGFSQQ?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOEYyVWdDR1RmZlNqcE5JT0EydVN3RzAwSjNjYzQ5dko3UW05QkUwQVhVR3habnJjUV9RT3NkV2NITGtFRmxzelRIeEV0THEwNmtEbWhpWHFBaVVwWlI0cURhR2lDa1BVODR3Y3F6b2Nia3Bac1BOTVUyYi1NMks0Yk1HdThDdEtacTBNRGkydmNkaGNLV2J4aFlDdkhUVkJzbHNTRllCN25Wc2dqQkpDTWtWQ0tBck5kMnFNSWZ2WQ?oc=5"
     }
   ],
   "insight": "Tracking Conagra Brands (CAG)."

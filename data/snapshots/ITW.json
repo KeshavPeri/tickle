@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:36.592Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:08.983Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    251.64999389648438,
-    254.5500030517578,
     260.5199890136719,
     255.52999877929688,
     254.75999450683594,
@@ -24,11 +22,11 @@
     247.27999877929688,
     245.80999755859375,
     248.5800018310547,
-    250.25999450683594
+    250.25999450683594,
+    251.1199951171875,
+    252.72000122070312
   ],
   "6m": [
-    247.77000427246094,
-    242.52999877929688,
     248.35000610351562,
     248.99000549316406,
     249.27999877929688,
@@ -158,10 +156,11 @@
     247.27999877929688,
     245.80999755859375,
     248.5800018310547,
-    250.25999450683594
+    250.25999450683594,
+    251.1199951171875,
+    252.72000122070312
   ],
   "1y": [
-    246.11000061035156,
     247.55999755859375,
     247.27999877929688,
     249,
@@ -410,29 +409,31 @@
     247.27999877929688,
     245.80999755859375,
     248.5800018310547,
-    250.25999450683594
+    250.25999450683594,
+    251.1199951171875,
+    252.72000122070312
   ],
-  "lastClose": 250.25999450683594,
-  "oneYearReturn": 1.686235376942185,
+  "lastClose": 252.72000122070312,
+  "oneYearReturn": 2.0843446893668993,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Illinois Tool Works Stock Underperforming the S&P 500? - Barchart",
-      "source": "Barchart",
+      "headline": "Is Illinois Tool Works Stock Underperforming the S&P 500? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYVJqVUlNQ09SbWNMNHYwdGZ3SGdPZnozX1NrZXdWSGRzOE9MZ3NNTTFkZnk2ZGZQMjBmczBId1JfeHlZVkRDaXJ4V2RHczFoMV9OR3d3WUxyZVA1eFlOWTBlSXZBVHVBOWxNMklNMGZ4cEZVRXBYZmFmUWV2VUdWTmdTbjg3cmlrVUp3MDViLVhOZkhCeHBuelhnVVJEVlRvbmc?oc=5"
     },
     {
-      "headline": "Director Jennifer Scanlon buys Illinois Tool Works (ITW) shares in open market - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZHBSMXpFSzc4czVzbEgyMnA3ZjMwRmFMVk9mZkdrTENJLV9mTkNtbzFuVjB3bXlPMlpncTJ4d29SWEFSM19HaThFT1hScHBBZ19ZVktHZm90QmotQkVobTRoZTNqYkJUV0ZYY2hEODJBeVQ4ajdacXRhUWQ0RE1JaGMwNVVvM04xaDByYjMtaXpHOGNhUkljVjFObVI2eDBlUHkxSS00dElGZDE4RHY2dkpoSmZLaUU?oc=5"
+      "headline": "Illinois Tool Works Insider Ups Holding During Year - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOTJ3QnU2REVDb2o1ZEVkbm94X1R6c2dmZVk1cG85aGpRTW1tMkQ2aG5GUVJKckRPOTFDa3J5Z2FVQWo3aExKM19yY0ExX3JOQ2FYdnhkWmduNExUbFVqQzdRSGxURVVZZkIwaVdVMTd2V3dTeTh4aElLVGFPYXp2dlk3QTVzZGtrZlQ5SnFaaEY0dkRUbFVDWUFma1M?oc=5"
     },
     {
-      "headline": "Assessing Illinois Tool Works (ITW) Valuation As Recent Returns Present Mixed Signals - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOE9yNGRSOTZKbGU0dTdWNzc1aU1idS1kZGpFek1NdUlHUWkwUmkyaVhuWEtQdFZmNS1WQlNlbGk4U29vOExDaFh0Tjk2LUkwcnprZ3B5UDljd2VEZDFlUmlzZ0FJc3VlcTE1YlZUbUstM1NjWVMzMnNfR0FqVWFfNHF6V2ExV1RCUERiTWoyWFAzSi0xbE9RX05SUFBfdFBVTTZYVm5SbHVONlNaelRLNk1sTFBEb1lCMC1NSUlRcGtqTEJQOTNDWXZCX3RIaFJWcFJUUzNBY9IB3AFBVV95cUxPOC1CMXNIRlRFYXJWZVQ4cm9aeGoyNE9QUGVmNm5UTzZDQ0dSekhvazR5cGFxYkZab2o2MHNxWHVndllxSzNBTFRCY2s4ck9sa0VUQXBUN1dOVExuNEhQUy1TUDdwMGk5aUZZRThxYWtVVnVyRjd1RFREbENsNmpsNTliYkZXZW0xb0hzcVhEUEVkZWRYSVc2azAwRF9kdC1KaXd1Sk9ZWEFkRHBqVFhEemprdGpCMDd1TUU4WDN1SndmeVZTSEU0V1VzZ3cyc2ZWYlR4S1k5Zm9lS0RZ?oc=5"
+      "headline": "ILLINOIS TOOL WORKS (NYSE:ITW): A Top Dividend Stock with Strong Profitability and Sustainable Payouts - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUl85SjJiZ29BdXVOQ2Q3X3lTVHRFWDA4U1BPcVhtMlB4UVNORGpqMXR6by1LUzBQVXNPeWViU3YwVkMzYWpLNHBURFhORjFPVWNlbkg0UjVydzNROElKb0V3NFB4dE5Ja2xLZmM0bTN2ZXVtakEyMHFWeTRQSW9PWmRCREg2dTNrRkMwZ19EUjRZbk9WWlczdWF0alpfZWZPRjNVaTh6RGxsMFR0UkFSSnZDZ3pIRFNRRUFmWWhfNVhWM3Q2SVVQN1NEdXhIdEFrZDJFcDVlMXVGRDd5UF9zeURFNA?oc=5"
     }
   ],
   "insight": "Tracking Illinois Tool Works (ITW)."

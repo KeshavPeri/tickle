@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:26.266Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:58.559Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    59.08000183105469,
-    58.720001220703125,
     57.36000061035156,
     56.220001220703125,
     55.959999084472656,
@@ -24,11 +22,11 @@
     54.93000030517578,
     55.2599983215332,
     54.68000030517578,
-    54.470001220703125
+    54.470001220703125,
+    55.2400016784668,
+    53.75
   ],
   "6m": [
-    57.029998779296875,
-    57.540000915527344,
     56.7599983215332,
     59,
     60.86000061035156,
@@ -158,10 +156,11 @@
     54.93000030517578,
     55.2599983215332,
     54.68000030517578,
-    54.470001220703125
+    54.470001220703125,
+    55.2400016784668,
+    53.75
   ],
   "1y": [
-    55.33000183105469,
     56.38999938964844,
     54.900001525878906,
     53.72999954223633,
@@ -410,29 +409,31 @@
     54.93000030517578,
     55.2599983215332,
     54.68000030517578,
-    54.470001220703125
+    54.470001220703125,
+    55.2400016784668,
+    53.75
   ],
-  "lastClose": 54.470001220703125,
-  "oneYearReturn": -1.5543115523066473,
+  "lastClose": 53.75,
+  "oneYearReturn": -4.681680117437746,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "EQT Stock Price, Quote & Chart | EQT CORP (NYSE:EQT) - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TZUxmUkNMV2VQbG9UTHIxckRUbER6RlJsZUJHZHVNQlBzQ2ZZS2dxaF82bWxWemkyQTZPdjYxSVdGbUthNzdUZXY1Ym5IRTU2aHVOcVpNcWl1VzdWV1E?oc=5"
-    },
-    {
-      "headline": "EQT Corp (EQT) Is On Jim Cramer’s Radar When It Comes To Oil Stocks - Yahoo Finance",
+      "headline": "Why EQT Corporation (EQT) is a Top Growth Stock for the Long-Term - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXdSRUxMLXQ4b3FweFFDaXlYYXk5VjNmRUVpd1BBTk90bFZYRUx5cUVHRjhDVGU1SmxCUTZpRDNEVnBxY1VvZFhvM1MyRGRyM2EwbU16OWFZTWtVOVJ3YWw2NkNqNnY0bHN4ZWhBZ3VxblB5MjE2M2JEQTA2WUNhMU9mcW52ZlZvcTBtT1A1SXg3UQ?oc=5"
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFZJa21ub2sxaUE1S28wTnE2MjRVaVVwV2s2NlZSTndzRXcwV1BiYTB0YUhYdWVqczZzbXJvVHNCNDZJMm44X19UVW90OGhrZUVMNHRUcVZSQzdLc0hFNWltem5QTzJEMjJ6SjFTTkVsdGhIN0xmYTFrQmNTVGUtVHNtZTYyZTl1cWxEOUxmOThELXRxbjNN?oc=5"
     },
     {
       "headline": "Reaves W H & Co. Inc. Grows Stock Position in EQT Corporation $EQT - MarketBeat",
       "source": "MarketBeat",
       "when": "2026-06-01",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYVE2YUtFT1NFcTlYNWhqZjlBTjdkdW5YbjVJV1c3OUR6Z0lmMHIwQ096UHRnSV8zR0puTVkxWldpY0ozeWtUd2F3eVZQYnRvVkROOW9SRzNMdWhnbHZfeU9BY2Z1NlNSRkJyZVFWbkZWb3R3ZmZ0UzVyT2V2VWVUUFFVbXdvNldnRGh4QlBjeW1mZUhPdUU0Y2gwWUViNTVrWjZBU0RtQVlxSXRiaWo0UmFuRFY3dHMtdU1YU3V3dw?oc=5"
+    },
+    {
+      "headline": "Why EQT Corporation (EQT) is a top growth stock for the long term - MSN",
+      "source": "MSN",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNa0d5QndQSmc3X256UTJJa1dPYUR5aF9FTEtEU1czSnU5aXh1LXlnc2ZLWGxHY3BJNmZJRmlqY3lHTGRaY2lsSkpxajNYdWNBUXhwRFNFR1JoRUt6LXB2UFY0TjRnQ01KUmRGckZLM1EtT2FBYW16eXpmYnpEUVdOS0NFRmh0T21ld2lWdFh1V2pLNERRdVRGY1lhR2JGZ0lLY005b3ZwTGFVQXMtN2xjYUEzd1dGOFB3YUtYYk5uRDk1b1BpQXE0eW4yQWtiMmpqQ1Q1aEJuZEEyU3BJNHEtTHVyanJVOWtoRmVxcFItd3lvb2QzcG1TODRmcDJ3azFXSnRRdnRMbTJmQ0RhR25sUTVkQWlvbXRDN0NGV1FTZ0c5QXlrSDZoc2U4Wm9TVVpLZXFKMlFkZVh0OTlYb25OSW9Ccy1KWHpqdzJxWFVQcw?oc=5"
     }
   ],
   "insight": "Tracking EQT Corporation (EQT)."

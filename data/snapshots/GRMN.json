@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:31.668Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:04.278Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    238.60000610351562,
-    234.63999938964844,
     242.82000732421875,
     241.89999389648438,
     240.08999633789062,
@@ -24,11 +22,11 @@
     233.9199981689453,
     236.8000030517578,
     241.02999877929688,
-    237.94000244140625
+    237.94000244140625,
+    241.9600067138672,
+    236.57000732421875
   ],
   "6m": [
-    192.22999572753906,
-    192.39999389648438,
     192.92999267578125,
     194.7899932861328,
     195.32000732421875,
@@ -158,10 +156,11 @@
     233.9199981689453,
     236.8000030517578,
     241.02999877929688,
-    237.94000244140625
+    237.94000244140625,
+    241.9600067138672,
+    236.57000732421875
   ],
   "1y": [
-    205.47999572753906,
     207.4499969482422,
     208.2899932861328,
     210.1199951171875,
@@ -410,29 +409,31 @@
     233.9199981689453,
     236.8000030517578,
     241.02999877929688,
-    237.94000244140625
+    237.94000244140625,
+    241.9600067138672,
+    236.57000732421875
   ],
-  "lastClose": 237.94000244140625,
-  "oneYearReturn": 15.797161470116187,
+  "lastClose": 236.57000732421875,
+  "oneYearReturn": 14.037122585854686,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "How Garmin Ltd. (switzerland) (GRMN) Affects Rotational Strategy Timing - Stock Traders Daily",
-      "source": "Stock Traders Daily",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS0wzdVRqdFFLUlBVakdZUktoZThFVFVtU1lUUncxdU8zRUJYVmJrMEx6V09nNDIzWVM2RllxTW5Nd0d2bTVWUEE1Skp1UnpqTHM0XzlPR1RmUXBjUGJvMEpBek9fUG9fQVJjRXEycHNOallpVVlWUjVSUUFPRmRaeS1PT0lGbUltczl5LWtSYUpET2tKaWNDVkI5VVRoYmNteWN5dy15NDlwcC0tRUNILUZCMmF4NWhGcG1WTkhaSUxnNWZoaVZ2RHdWYUhjUG5OLWgtNU9TSHBzc2hZcVk5OQ?oc=5"
-    },
-    {
-      "headline": "Tigress Financial Raises its Price Target on Garmin (GRMN) - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGtFQzk0LWRSZTZSaHNOOWJBenJGV1Z0R0J0S1hDLWU2YXhwV0NZc2poRnlCWl9sbHlDeTEtc1Rrb3JxQjd2c0hWWS1DcUplZmxEWnNXeW5TSVR6a3k4Y0l5SmhvQl9CXzA5clNhdFE4UkZrTWVGcERsWlJrY1RGXzNna0Z4NndDM0llNG5JMkFja2tYY3g1X2U5bFRzenJJblN1YQ?oc=5"
-    },
-    {
-      "headline": "Garmin data: nearly 13% more indoor runs, 28.59-mile rides worldwide - Stock Titan",
+      "headline": "Shareholders approve $4.20-a-share Garmin payouts into 2027 - Stock Titan",
       "source": "Stock Titan",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTBCWl9TUktxbk1lM1VWWExXTUpCWjcyc0tFZ25Za3ByVloxUy15Y2FoZUR3NnpvTWI4VlRrcno0eDdfZkxRdktkbWpuV1B6cnFhUXJRV0Q1V1BWYW9hdHJQWWR6aU1mc1dOWUtfVXNwN2Nxd0NHMjJTc2lTSHFCLTFLXzJTTFp6RnlaY2lhcnBlV2RTZTBIdVZ3V2xSZGpzRXVzaS0xa2V1OENOTkRkcGhSVWNNZw?oc=5"
+    },
+    {
+      "headline": "Garmin Ltd. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObEx5ZWpveXBDa2sybjZkQ0NBQ1liMmN1YzF6SnM1XzlWNkhDQ1hEZzdfRkxOVllHZ0tOam1ucF9GZFJjU1RYVmhMMllQd09LRTZCRmtpeWkxeXRQQXZkNU5ubjVwdHc0NzNaNlF5NVZiQzBhQnFmYTZ0dDJrcXB0TGtWa01TaEhFSnYzcllYWHpjYnRXcVZ5YkU3MkNlTm1BU2YwSw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN0lxM0tnYkhUbHB3dERfNTFyN0RDVl80ZkFrOFJLazVvN215aWNweEsyZzI2dW9wLUQ5VjRDTzRCbDFFSjRLelJaekRJNmFGWUhvTW9ySzAtX0JlOFR1SjNJOEMtcTFjZUlXaFlZdDlpS2x4NHh0TTE5WDhVMlNpZ0dKVDNBVUZWRkRaTmJRalVKb1lSaV96ZjhzVnBYdERmUWxuRWJPU01RSTBOcDlGaFA4OEItblhDOHZJQjZqWWN4dFo2SVZaQlFNSnlOTmViX01EcTNPd0pGRnpI?oc=5"
+    },
+    {
+      "headline": "Garmin (GRMN) Rises Higher Than Market: Key Facts - Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPelItZHJlRnZNdS1jdURSZWJlWlFYd21tdU8xei1QWWhGUWZyWVM5dURfMkdCZm9MeERPeC1YNGJMcEd2YkYzblo4akM3amFMcl9yWk5fYS1mVjhyOHJPUTUyNjlHdXYtUTY0RUNfZnBQZUxnNEFXejQ1RzFiaXVqZnYzV3ZhUlU?oc=5"
     }
   ],
   "insight": "Tracking Garmin (GRMN)."

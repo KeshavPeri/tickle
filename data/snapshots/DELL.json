@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:22.298Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:54.602Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    211.63999938964844,
-    216.32000732421875,
     238.8000030517578,
     230.27000427246094,
     260.4599914550781,
@@ -24,11 +22,11 @@
     420.9100036621094,
     465.9599914550781,
     435.30999755859375,
-    421.0799865722656
+    421.0799865722656,
+    422.04998779296875,
+    394.3900146484375
   ],
   "6m": [
-    122.51000213623047,
-    127.22000122070312,
     125.91999816894531,
     133.25999450683594,
     133.35000610351562,
@@ -158,10 +156,11 @@
     420.9100036621094,
     465.9599914550781,
     435.30999755859375,
-    421.0799865722656
+    421.0799865722656,
+    422.04998779296875,
+    394.3900146484375
   ],
   "1y": [
-    111.81999969482422,
     113.75,
     114.22000122070312,
     113.25,
@@ -410,29 +409,31 @@
     420.9100036621094,
     465.9599914550781,
     435.30999755859375,
-    421.0799865722656
+    421.0799865722656,
+    422.04998779296875,
+    394.3900146484375
   ],
-  "lastClose": 421.0799865722656,
-  "oneYearReturn": 276.5694756943878,
+  "lastClose": 394.3900146484375,
+  "oneYearReturn": 246.71649639423077,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Dell Technologies (DELL) Board Member Sells $241.5 Million Worth of Company Stock - TipRanks",
-      "source": "TipRanks",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV3d1cUNjeVZIcmVhNExmTzk3ZGp4eFhKWnRUckZjTmxZanRVbkpNX1h2YTB1RjV1YWNobUtDdV9Cb2pMVWxYRzFKZ2g3MzloSVpEUGdqaDVnSXlDV3RFSXpHMEM5S1ZFMUh3V3RpUG1UV0xJRHpZVWk4QlpuY1NnZ0c1SWVTcG9lbnhsQ2dWekozdjZZaG5Wb196bE5mMEEzX0s3bGFSSmU3UUNY?oc=5"
-    },
-    {
-      "headline": "Jim Cramer Says “We Shouldn’t Have Been Scared of Dell” - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQajl1Yy0yNk1VaEJxZl85ZWZ2STVUU1NwbjAzTnlnNHgwdXVvNVRSWTVWRHNZZThZS1Y2ejhxcXZtNGY1QnRZWFFLQVZvVU9wVjZYd3pLQ3puVFB5Vm1BaVNnNVlTU0h2WmhuXy0xdGpaQVBvRDhtX05UX1BKSWVLaXBnVUp5Qk0tU2lmRjV0X29qZy1z?oc=5"
-    },
     {
       "headline": "Dell's Stock Rally Has Made CEO Michael Dell Richer Than Mark Zuckerberg and Jensen Huang - Investopedia",
       "source": "Investopedia",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXNSd3p6cG5PZm5fcVZaQkRWX2FiS0ZXZG0yNHVZeHdzeVRYYzM3UmVvVjNUSE1MTDlYWlVUSlpaZTlwd1dpM2JIQTV3R1ZXS05vdWVQOWpkZlFOZmYwalF3d1JKOG9rSURONEh6TEdkV0F1YktfRkw2d2ljSG9RMVcwa0h2NW9iZHlVZG5waFppWDZ6aTRYcUx0NmdLem5OaXZEbUxiMmtlUVB4WUZBenF5Tk82ZEdSb3VNZ2Z4MndJY0k?oc=5"
+    },
+    {
+      "headline": "The Zacks Analyst Blog Highlights Dell, Apple, Super Micro Computer and Hewlett - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTBYYWhWanFMc2R0cFg3NE9ucS01V0lIRlJYUXU3T0ltcmFSNnJHN1ZMdmJRdTkxbGZpWGtyOW5CeHI2OHBKVF83M0syTWR1dU13REhZaE9iTnp3RElZRURmZnhPR18xWWFpYVFWenRPV0xVUU9Vd1EzNzZTaTBWeWdDWTZhUkh3N2pyeDJQamxBQzlaSVpzZGRfZ2RjNjVw?oc=5"
+    },
+    {
+      "headline": "SA Asks: Is Dell Technologies stock overvalued? (DELL:NYSE) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNmNxQlQwSzkyYlEzdkhBTTJlcDFnTzBKS1NMQ0w1ZW5iN01VbG9WVkRneFhmYjlnbHlkTkJIcFpvaS1xSF91TWtEOFZlbjI3Tm9zaDlTU29zQkxaRDJ4RXkwa1c3QVNsX2Y3YjQydFE0X2prZ1VRQVRSZVhBMlkyQ0pIdFU3Y1NveDRZ?oc=5"
     }
   ],
   "insight": "Tracking Dell Technologies (DELL)."

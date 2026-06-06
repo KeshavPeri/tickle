@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:09.407Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:41.734Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    391.3800048828125,
-    410.82000732421875,
     428.6199951171875,
     410.6400146484375,
     435.44000244140625,
@@ -24,11 +22,11 @@
     450.05999755859375,
     458.1700134277344,
     490.04998779296875,
-    500.7699890136719
+    500.7699890136719,
+    501.70001220703125,
+    453.010009765625
   ],
   "6m": [
-    224.00999450683594,
-    230.91000366210938,
     242.4600067138672,
     249.97000122070312,
     252.25,
@@ -158,10 +156,11 @@
     450.05999755859375,
     458.1700134277344,
     490.04998779296875,
-    500.7699890136719
+    500.7699890136719,
+    501.70001220703125,
+    453.010009765625
   ],
   "1y": [
-    164.19000244140625,
     166.74000549316406,
     169.7899932861328,
     173.77000427246094,
@@ -410,12 +409,20 @@
     450.05999755859375,
     458.1700134277344,
     490.04998779296875,
-    500.7699890136719
+    500.7699890136719,
+    501.70001220703125,
+    453.010009765625
   ],
-  "lastClose": 500.7699890136719,
-  "oneYearReturn": 204.99420279403395,
+  "lastClose": 453.010009765625,
+  "oneYearReturn": 171.68645486472488,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Applied Materials, Lam Research, and Nova Stocks Trade Down, What You Need To Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-06",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX2RzdHFneUlTdkxfZjBvLTllYnM5QXhiM2hoRnBTdTZDeWQ0dHFfMjBxcTN1X0t6WmRsOEV4TGlCU3hUeUZtUlVtZkxOSldQWGcyTUtKUFNldlRkbGpPZFRWSkZsYWZfMVdval9rUmMtMkVHRmdVNFRGT2lLNng1QXFCX3RMcUZTVXNlalJ5YVpXUkxVRjNIOWViaGs0b3FPZmc?oc=5"
+    },
     {
       "headline": "Does Applied Materials Stock Deserve Its Epic Rally? - Forbes",
       "source": "Forbes",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHFjUm1XMk9TR0RTaTQxNV84YmRPNGNGOC1FWHdiZGlJc3pkZlQ2cWJaT21XaVJ5TmtqdE1OZjZsU3pPdjFmOV91Umhha3VKcExVNjBMWnNVOC1YZ3RxZ0N6SHoxUGdYbnpQcmZqNDBaMnZZMF91S0xKSWw0WTFOZ2J4Wm5LbXBteXRYNHhxTGd0Ylg2Q3hSY1A0dElVSHRrSU9XWE9JOHBqUGdvSUhB?oc=5"
     },
     {
-      "headline": "How The Applied Materials (AMAT) Narrative Is Evolving Without New Analyst Price Target Changes - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3Z3WUl0MXpodk9ldmlMRFJYOWdNcVpjYjZqNUpleF9TSUtjaXNPNG5UT3FTaTFDRUVoeFJ4Qy0xenFRNGFJRUN2dmNGZUxQRDdTa2dmbDQxQ2ViRjNsTm9HVklLekV0VlRlbHQ5eEhfeUlhb1hITTR4cDBhc0lCZXVLTFZ1akIwdmJaQmxrSExha1h2cDdBcElzdldMb01icXJlMWc3ams2dw?oc=5"
-    },
-    {
-      "headline": "Applied Materials: The AI Stock That Wins No Matter Which Chip Wins - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZkUxZGI1d2lmU2tFRnpUaFRKbGpRNFo4OFZib29hODJsZ2hmMVEwb3I2b0ZuZVZJMElSTFZrNl9nVnljTlRzR1FCa25NLWpwYk5EVlpnZUxPTVFLaUVPSFRacDlkQ3djYTlyTzBSWFZHZTQtNjQ3Q3hDVmRqQmdjZHpjMzlCaGI3XzZsaGxHRDFmSVFqVDBMQXp0UktyUFE3NVJjdWQ0bjRxeGM3TDlEM1V3R1M3VFo3Q2Y5eFFGMmRNTkZkSHc?oc=5"
+      "headline": "Applied Materials Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdjlKeFNIQXZnNHJua3NUS2g0cnNrX1pwaEtsNHRkSUJzM3VXT0hhQ1RzN3BQaTVMdEs1dDZCWEZTRVVLMzVTLUt4dWRtUEdSeENfLWlFeS1fSkFzU2R1M3BQZkZIYURidUlHdE91X1luV2tqS1BCVktaa0FHZ18xU2pOUWY3N1lnNFpLM2oySDVHOXp5TWJRdXV5WGE4b2FDSGUtWllCR2gwODhTSWI3S1Z5YmQ5djFORlZZaHRndXFaQnV3WFBsOVJ5YUQ3bW5WQkE0?oc=5"
     }
   ],
   "insight": "Tracking Applied Materials (AMAT)."

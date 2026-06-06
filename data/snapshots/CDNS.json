@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:16.397Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:48.571Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    349.510009765625,
-    353.6300048828125,
     354.8999938964844,
     356.8999938964844,
     362.70001220703125,
@@ -24,11 +22,11 @@
     374.92999267578125,
     414.1600036621094,
     416.3900146484375,
-    408
+    408,
+    411.67999267578125,
+    376.19000244140625
   ],
   "6m": [
-    300.5799865722656,
-    304.4700012207031,
     303.6600036621094,
     306.3500061035156,
     311.8399963378906,
@@ -158,10 +156,11 @@
     374.92999267578125,
     414.1600036621094,
     416.3900146484375,
-    408
+    408,
+    411.67999267578125,
+    376.19000244140625
   ],
   "1y": [
-    296.2900085449219,
     296.95001220703125,
     301.6600036621094,
     305.69000244140625,
@@ -410,29 +409,31 @@
     374.92999267578125,
     414.1600036621094,
     416.3900146484375,
-    408
+    408,
+    411.67999267578125,
+    376.19000244140625
   ],
-  "lastClose": 408,
-  "oneYearReturn": 37.70292221586718,
+  "lastClose": 376.19000244140625,
+  "oneYearReturn": 26.6846226559942,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Cadence Design Systems Stock: Is CDNS Underperforming the Technology Sector? - Barchart",
-      "source": "Barchart",
+      "headline": "Is Trending Stock Cadence Design Systems, Inc. (CDNS) a Buy Now? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUEkybFZHNV81Y2dHcWJ4aEQyZ3ctTm9HR1M1WVdpZHFaZTZ4dHB4c0xMYXZEU21iY094S1d4Rk9wVWNHd0pCVXRZV1BXcXRpZWtrTEpzMG5VNl80eHozMTNrLTkyRFNvODV4bXV5WTI1U2ZfX3QyM21jQXNtUkM4QzVaSUdtWWEzLVNuTHhfLURySnJXRkxzRDJtbEQwUFZvemRSVw?oc=5"
+    },
+    {
+      "headline": "Cadence Design Systems Stock: Is CDNS Underperforming the Technology Sector? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTE0wNkVaa3FpdU9IY09nYm1pMWhRRFdObjQyVksxSjJ1cENRX2I5QXU1WE5fQnVSVzNYLTh0eExNTVRLTVZHNnlTbUpnLURiVXhDVVpuWVVfSVp5UmMxTEN1a0FLdlI5NlR4azR6UHIyOW1qaE9ESE9Id3dlX0phQkdiZlQzeUdBRGg3WjFiVloydHBXbEtnVUZybzduNkJkdk1ZRmxZTnExZDduSEYwSERBMGtLeWdXcVE?oc=5"
     },
     {
-      "headline": "AI ‘Virtual Engineer’ Has Slashed Chip Production Time. The Stock Is Rising. - Barron's",
-      "source": "Barron's",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQklsWENFZjJfakl4ZndQazhCN3Z2NjZUaXdaY1ZPX3JNb0NmQnVVSUlfQVZ6dk5WektjSUIwQ3d6a0ZTUDg4cnR1YjBRUkNxd2ttaVczWExMc2VmNFhtR2YwTmlpT0dIVkFuZkltY0lva2J0T0NMc1pzTE1QbE5KZQ?oc=5"
-    },
-    {
-      "headline": "Traders Purchase High Volume of Put Options on Cadence Design Systems (NASDAQ:CDNS) - MarketBeat",
+      "headline": "Cadence Design Systems, Inc. $CDNS Stock Holdings Boosted by Harvest Fund Management Co. Ltd - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUThhYjhGbmxQN0lNeG9rdWZXME53TnlsMTFqRC0xYXItT3plYlFSd0JPVzdJSEZ6ZG44VzdpNnJaMHNpLWdfeWZHcUVZUEExXzlXSUJQalNzMnU1NlVfeE1fRDZjTFVUeGt5LXNnYi0yOE5ZOWY0ZGxoTkU5SGp0b1hDTTFhQ2FnTElINm5nUU13T0lmVjhkaU52YnMyeHJmVVFlM3l6dlZ1NXktRXN4YTAwakNhaFA5SWdvX0JmLVVzSFBSRzZuZy1TVmJ4ZVU?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMnZzNmhHUHNneE45TXpRaTF2cXZpeUEzLWVQRzR1QWpHNWtnQWtjZ001MnJPS3E5VlZSS2tkb3M5SElqbDEwcU9Zd0tzekdsZmFyUW1vWFVVbWxHdTVPU0F4YmJ3R3Vyd1hjWjJteXhReVZzOWNuemYwLVpUX3FrT29rX29DdndzWnc2cTl2WHA4OC1kdDJHQVFWQXIxRXkzZ09YNUxJcjI0WmlUM2ZjRWdxRXgyYmMtc1RkZjE4Zndwc3lfR0hkb0RjX0ViOGUyRmhILU9xWW1rdG5QQnlyS21uUQ?oc=5"
     }
   ],
   "insight": "Tracking Cadence Design Systems (CDNS)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:53.853Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:26.528Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    223.72999572753906,
-    228.38999938964844,
     229.75999450683594,
     228.6199951171875,
     226.02999877929688,
@@ -24,11 +22,11 @@
     243.6300048828125,
     249.9600067138672,
     254.44000244140625,
-    249.3000030517578
+    249.3000030517578,
+    245.47999572753906,
+    232.11000061035156
   ],
   "6m": [
-    240.9499969482422,
-    242.4499969482422,
     249.30999755859375,
     250.5,
     252.75,
@@ -158,10 +156,11 @@
     243.6300048828125,
     249.9600067138672,
     254.44000244140625,
-    249.3000030517578
+    249.3000030517578,
+    245.47999572753906,
+    232.11000061035156
   ],
   "1y": [
-    291.239990234375,
     295.3599853515625,
     298.6300048828125,
     299.55999755859375,
@@ -410,17 +409,19 @@
     243.6300048828125,
     249.9600067138672,
     254.44000244140625,
-    249.3000030517578
+    249.3000030517578,
+    245.47999572753906,
+    232.11000061035156
   ],
-  "lastClose": 249.3000030517578,
-  "oneYearReturn": -14.40049051947366,
+  "lastClose": 232.11000061035156,
+  "oneYearReturn": -21.41454085797216,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Zebra Technologies Corp. Cl A stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdS1VeW5LdTJ0b3dLUThlTm5TNURYUXVhTDd3MTZScDFyREI1VHZjaHlRZDJrcS1UdUtLbThGUFNEVGx2OFNJMVU1dzllZ0JMRG83Mk9CZDVRRlZ4WXZDSEZka0c3OWpCYnA4d3NzbGExbkRtYWI0c0JnNkEwVVdfRFFSdm9ncHhnU1ktRS1ZbXZiUEg0VFBuUE11RW9iOENtYmZwcWFrYzIwcGQyTXFZMmF0UkZpNkNlZTdpaFNLLVREX3FJcFdxa1YteVdXc2ZKV0JyMzB6ZHZkYkNzcFA2bUhwR3JVcTl3N3NDQnlvSkhXTzF6?oc=5"
+      "headline": "Why $ZBRA Stock Surged 11.4% Today | Zebra Technologies Q1 Earnings Beat | Stock Market May 12 Crocodiles (jZEdbuzYfN) - Mshale",
+      "source": "Mshale",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pSWNhU0M1RlpYS01XaUplVlhjak9EWkQxaDJoVVJpTV94TVhYNC1Fc0tUX1hpTW9nT1E4UHFydnV5QXR0anVRUms4LVFMaEpuTnc3TnZaSDBBSGs?oc=5"
     },
     {
       "headline": "Why Zebra Technologies (ZBRA) is a Top Growth Stock for the Long-Term - Yahoo Finance",
@@ -429,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYnpJZGxGWVRDaDRTUlNVTWMySkJQbVZqVlE5aUpxbkpDOHkya252Wjc2dVZSdHB4REd0WjFsbDR5X2FJeWVZRG5sNVFxSzBhS0RVZHZfVVlNNVV3Wmcya09HVThkU2FKZzJVSEhRZVd1bjZVVTV3R1RxOVZlY0Y5WXlMVWkzX0JwNlRzbUZZMGE4UFFKcUVvM2FyTVM?oc=5"
     },
     {
-      "headline": "Why $ZBRA Stock Surged 11.4% Today | Zebra Technologies Q1 Earnings Beat | Stock Market May 12 Crocodiles (jZEdbuzYfN) - Mshale",
-      "source": "Mshale",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pSWNhU0M1RlpYS01XaUplVlhjak9EWkQxaDJoVVJpTV94TVhYNC1Fc0tUX1hpTW9nT1E4UHFydnV5QXR0anVRUms4LVFMaEpuTnc3TnZaSDBBSGs?oc=5"
+      "headline": "Zebra Technologies Corp. Cl A stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLTFNQWVfaDYza25fY2JMdEFPMjJFb3BLcGJVbGNkRUNwdmxFblZCMEM2NDdiem43aTRQOG52OVpIS3VtV2t6VHRsSk1vWnNkamhtdkp3cHNpQVRaZmVEcHNvby1jY1A1X19SSHlyZDRScHdYdTBBR1pOY1hFWXNSNWVwMG5pc25VSlZteDZKQnZ0VkhrTldqQ0lGY0pLQk1CNEtyVHBiT01Yd2h5dHZRTlFsQU5reW13Q3FCZFlKVkZVeHNvMjdPbFRxcWwxbE1Xc1hxU21RRXZCTmJi?oc=5"
     }
   ],
   "insight": "Tracking Zebra Technologies (ZBRA)."

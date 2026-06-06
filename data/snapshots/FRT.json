@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:29.590Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:02.006Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    114.47000122070312,
-    115.29000091552734,
     116.7699966430664,
     115.66999816894531,
     115.68000030517578,
@@ -24,11 +22,11 @@
     119.62999725341797,
     118.76000213623047,
     119.31999969482422,
-    119.41999816894531
+    119.41999816894531,
+    120.80999755859375,
+    122.55999755859375
   ],
   "6m": [
-    97.97000122070312,
-    97.13999938964844,
     98.37999725341797,
     98.56999969482422,
     98.7300033569336,
@@ -158,10 +156,11 @@
     119.62999725341797,
     118.76000213623047,
     119.31999969482422,
-    119.41999816894531
+    119.41999816894531,
+    120.80999755859375,
+    122.55999755859375
   ],
   "1y": [
-    94.47000122070312,
     96.41999816894531,
     96.75,
     97.83999633789062,
@@ -410,29 +409,31 @@
     119.62999725341797,
     118.76000213623047,
     119.31999969482422,
-    119.41999816894531
+    119.41999816894531,
+    120.80999755859375,
+    122.55999755859375
   ],
-  "lastClose": 119.41999816894531,
-  "oneYearReturn": 26.410497116384484,
+  "lastClose": 122.55999755859375,
+  "oneYearReturn": 27.110557857350738,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "BofA Raises Target on Federal Realty Investment Trust (FRT) after Reviewing Market Conditions - Yahoo Finance",
+      "headline": "Why is Federal Realty Investment Trust stock climbing today? By Investing.com - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR044Z0hrRXYtOWpTOER3MVhsRmJudlFVa2VqaVo1T1pKQ1o4LWVHRU1HS2lDNkVIMkxTU2c2QUYtdmVDLVRQb2llVHNYbm92RWI0SFFfaGZOa2w3MVAwd2ZBSHJ1Z0UyY09uNHlWVk9QbVl6NjlFM014Vlh2SFpTZlltcjVNdC1zeVljdU1BekpJdmFOV1ZvM3JRSzNtdEZYS1prekFxRTBKcTVkZlk0QWlSbWduZmh6NU1wd2tB?oc=5"
+    },
+    {
+      "headline": "How The Federal Realty (FRT) Investment Story Is Evolving Without New Analyst Commentary - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2FBcXh0OWxWRDI2UzFqaWRYZlU0Z05LS1NGcVNCSklIaVJsd19TcGRLRUFZOC1GOEpEbWEzOGpwUFo3MHRjVzRmMWFQVFdxcFkzNVEyNXU5SnMzQUVmQ3kyMEJaak5XQU14b0duREVral9iZWpaaVFKNVZHWE9HbVF2ejV6ek5IX2dOdy1pUXZuU0FFMU5Dbnl2Z0I5UFE?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcC1wR1dlb3ZGVk1sYmtDalVPOWx5QjRxdjRvTnFDejFrZU1vdy03SGNjdlZ3ZVBUVWZKeVJqMTRSZXNkN3VnZjFnWm45ODVTcDJHczZnWDRTci1nWFRjLTdzdHNQV1M5Y1JvQmJnS2ZmYktFMzVOQjcwcDg4eTBQVVNIS3paVjhTNXRCN09TM0EzaFlZWUd5QUV1LUtaN09BVlE?oc=5"
     },
     {
-      "headline": "Director McEachin (FRT) shifts 1,339 Federal Realty shares into living trust - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQmxZRThGbEV3OXh1blU1X19FZmlRY0JhX1htY0dMTXprR3JXZ0d6VkJJd0gxUUhCVGtJTGpzdTcwMm1EVDdRQ2s3MjZZcENpOFF1VHQtUkw1WEJWb1dyTHpROW1qX2dCU1MyZHNYaHRESTF5ZjNnaGlRSkhveU1BTWNuRnVweFl1ZzZaZ3E4cTBQaHVod3pBX2dMV3NSQVh0YWV3dFBUWTBvWHY1YUp4Q2ROOWJONnhEOWdRU3FFSjQtZw?oc=5"
-    },
-    {
-      "headline": "Federal Realty Upgrades Highlight Affluent Market Focus And Growth Targets - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM1BDWDl4ZUVZS2pZOTFjSjA5azNONk9icU0zeW5VWFlvNFZJX1BZRlN1VFZCbndHYm1hcDdSZHZzTFl6Qm1sNmlxQU1ucEFMZ2hydnduMTN6YnZrVFNBeWhpYUQ3bldOSkYxa3pGVDFwTm9ya3YwU2c4VnRuQVZ2N3RIQk84R05LNFRUXzctU1JVLXJrR0FLVVZfdW9jdThYM2FxM0FQYzAxSnlvb25fbE1vX0hYUmYwa0ZncHllRm1MbkNPaFhuUWNmTjJZS2gzZC1wSU15Yy11a09faGRpblFjY9IB6AFBVV95cUxQUDBrR3kyd0tibWd1Tlp1Z1d1c20xZTZiVEczeERPRUo1bFgxV3Y4Zjl2LThYSVoyVG5saGp3c1o4UmN0UEktaEtVVEpoM3oxSS1jVkwxNHlYdWMtYUpla0ZrY25GNmNick1oTkYwNHVKVS1oNmZMX255VU1HUV8zOWtfcU5sUVJIaWxZYWlnWmRNX3l3YnMtYmUzcXNUZzduNHJkZ3RfeGpJOGQ4V2lYVnU2Zkxxbng5WjBlSXN5T0JJMnkzcDJ4SU41SzFxVTBWbG1xV3V5NHVMS1NCZlZJX3ZCaEZTRHFo?oc=5"
+      "headline": "Federal Realty Trust: Still Undervalued To Our Fair Value Target (NYSE:FRT) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUE9SdDZBSUVrV19raGprZ0J5Uk1oSm5vbkdLUERkYlhuMTR3VFVzQ21IQ3BJcGR3aHR4Mi1rNEZBcG1wTzc0TkVOVnlRX1FvakUwd1NyTmw1cHJUeU12OGNmV01qcW9xMFE0QXdXUXMtVnF5Wks2ckd5eTNCcDgtN2I4MUVuV2l2RDFtTHF3UjNzUjRtem84S0xiR3ZDZEhPeXNpQkRWWQ?oc=5"
     }
   ],
   "insight": "Tracking Federal Realty Investment Trust (FRT)."

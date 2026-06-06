@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:48.356Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:21.068Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    738.5399780273438,
-    771.010009765625,
     786.4199829101562,
     766.4400024414062,
     782.6400146484375,
@@ -24,11 +22,11 @@
     879.7999877929688,
     921.260009765625,
     926.6099853515625,
-    940.6900024414062
+    940.6900024414062,
+    925.989990234375,
+    847.469970703125
   ],
   "6m": [
-    237.49000549316406,
-    253.3800048828125,
     261.8900146484375,
     272.2799987792969,
     276.69000244140625,
@@ -158,10 +156,11 @@
     879.7999877929688,
     921.260009765625,
     926.6099853515625,
-    940.6900024414062
+    940.6900024414062,
+    925.989990234375,
+    847.469970703125
   ],
   "1y": [
-    127.69999694824219,
     126.97000122070312,
     130.1699981689453,
     127.98999786376953,
@@ -410,12 +409,20 @@
     879.7999877929688,
     921.260009765625,
     926.6099853515625,
-    940.6900024414062
+    940.6900024414062,
+    925.989990234375,
+    847.469970703125
   ],
-  "lastClose": 940.6900024414062,
-  "oneYearReturn": 636.6405833374258,
+  "lastClose": 847.469970703125,
+  "oneYearReturn": 567.4568500869957,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Seagate Technology stock jumps 7.5% on Morgan Stanley top pick - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTndMYjRfREpPUW9ZVWtrRVVZdXhUaDE0LVJRYy1FOGlTVWVqRWQ3S0VZaklJajZCSHJTaHNYVmdSbURUSUVVRUlOU3VUTWExS1pjbUNJNThKLU5KNWphRFVfakN4YzlVTXY2X0dXZ3ZrWUFjeEZCVlREM3p3X01CRy1WRmkzV0E4VjFDNDFnN3pGY2lwNUxpVHlzQ0ZyN3NUckRhTmlnOUU5N3ppX2s5TXhZS0xNZG15bUF2dnN1SQ?oc=5"
+    },
     {
       "headline": "Seagate Technology (STX): Best Future Tech Stocks to Buy According to Billionaires - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmhxS3dYQ1ZjQmFWT1ktekI0NnA4ZUZWbDFOaXBWbWVVMldZZFBKbW5mbTJvMkVrUHFHT0Q3ZlZBV2hyUV96S2xoYVFjdDgzd1JHcXBpb21YWnkwcE1NNWxiQTgyQmZPZzBoUVU0S080bDRWSXZjQVdaMW1PdDh0VFBtcWxYZTZZWlF0Sl9hbzBHWVpsNXZ4X3VuSE5LRWdp?oc=5"
     },
     {
-      "headline": "Why is Seagate Technology stock rallying today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNVdadHNKMzRodUVBQU1JdUNLU2hydjNWczhrc1NXeW9aNEphemNMNEpNQlpROVEzb1RYY1lWMm8yb0V0TXV0b1IzY3VuWFJlNkdvaFE2UWJqeU4zVXlBN0RDaTk2OXlUM21XNC1IRHpJOElIZktzZWxwdDZRT1pUUHpScUpoclRYZlgxX3RPTUs0UVNJWGdtM3p0bjRnMU1zMXFjc2NwS0xoRWhTdTctTXdVV0wyMGs?oc=5"
-    },
-    {
-      "headline": "Is It Too Late To Consider Seagate Technology Holdings (STX) After Its 222% Year-To-Date Surge? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWV9OczVySlFURjYxYjZBTzFoQm84UllPRGtNbmQ1Sy10RTZWM3g0ZFdMV2JXcWh0QVNFbzlZVWsyYV9oZDRzVVYzZkF3SW9wTHA1VlJWYm5TRTBIY3dWLTR6d0ZSUHdYbnVIUHJEZmhGelZqR2ltTzdaNDladzBkQms4eG8xNWN6OXVYNTZ4dkNiaktQc3BuVmV5T3dDZ0djdkZkclRBY25aM0tFUE5hdjhCTHJ3ZnBScWgxT3dHN0o3TmRSNURIWEdrME5WbzlhZ3l4MW1mREtCWVHSAeABQVVfeXFMTVpOXzNVTTZxaktOV09ocENndU10akgyMUdlaTl1WnRGdG5wV2YtVmpNRnZadFZ6OUJ4SVdfTF9iUmY0UWl3T0xELUY4Y0J1enNhbzFxRXEyT3I3OGkyN0ZyN3dwMkd2dHh3dWl4MnJrbThjSFM2RV9RTXp4eUEySzdPT05Gb3FBWUZTT3BteGtLcFdsNlo3M2t3VzljeEFtUTIxRmdrZmpvaWlkUlRGX3hzS0R5blR1OG93Z2VVWGxfeWx4eGprNmgtVHFERnFhZVNQNGYxSUQ2SGZHTXhpc1k?oc=5"
+      "headline": "Seagate Technology Holdings PLC Stock (STX) Moved Down by 7.70% on Jun 5: Drivers Behind the Movement - TradingKey",
+      "source": "TradingKey",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV3hTMjZ1SnZaN0ZnZlZFQm42TmNGaTNRdVAtUXRjTUlrc3BaZzlSM1FZMjRhdFNoRnN4NzNibHlkTUwyc0xCNjU1dDdCVDVGZWlKd2NpNVphYS11QUdPTThaYzVTbXRMdzRtYnZFTUpnZDFBZXdRQXZ3MlN1SWRiYjlabnF3UnEwbVE?oc=5"
     }
   ],
   "insight": "Tracking Seagate Technology (STX)."

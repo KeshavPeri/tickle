@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:17.788Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:49.726Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    85.37000274658203,
-    86.33000183105469,
     88.16000366210938,
     87.36000061035156,
     87.55000305175781,
@@ -24,11 +22,11 @@
     90.12999725341797,
     88.43000030517578,
     88.2699966430664,
-    84.87000274658203
+    84.87000274658203,
+    85.0999984741211,
+    88.58000183105469
   ],
   "6m": [
-    80.93000030517578,
-    79.18000030517578,
     79.81999969482422,
     80.04000091552734,
     80.38999938964844,
@@ -158,10 +156,11 @@
     90.12999725341797,
     88.43000030517578,
     88.2699966430664,
-    84.87000274658203
+    84.87000274658203,
+    85.0999984741211,
+    88.58000183105469
   ],
   "1y": [
-    90.1500015258789,
     90.23999786376953,
     90.87000274658203,
     91.94000244140625,
@@ -410,29 +409,31 @@
     90.12999725341797,
     88.43000030517578,
     88.2699966430664,
-    84.87000274658203
+    84.87000274658203,
+    85.0999984741211,
+    88.58000183105469
   ],
-  "lastClose": 84.87000274658203,
-  "oneYearReturn": -5.856903704855925,
+  "lastClose": 88.58000183105469,
+  "oneYearReturn": -1.8395346542681112,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Colgate-Palmolive Stock Underperforming the Dow? - Barchart",
-      "source": "Barchart",
+      "headline": "Is Colgate-Palmolive Stock Underperforming the Dow? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRHg4ZkFiNHZaUjA5ZHFOc0UzOThwN2s5VWN0cm1uSmRRaEc5TC1RNEZJY1g1ZGRfcEc5ZW52MWs3UndJWmpwa3FNenhETVBaUnhrLTAtQlZlUzdya3VTQTNCY05lNlpHZjVScFFtallhUXZpRmh0V1MyUFozd3JxU3ZieWxrak5OVDlUbnlCbWtDYnB1U0JjR2pB?oc=5"
     },
     {
-      "headline": "A Look At Colgate Palmolive (CL) Valuation After Mixed Recent Share Price Performance - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZS03eWIwM1FxWWFpdEtsR2hTN2VFVTVyaDVwR0hqeklYN1dsajFPQ0cyQi1mbTJNYTQ1RTRVdldvcDJTb2NVVFFnVnVXekJpdWVfbjFsN3Y1djVyblZNVXRBczJBR2F3SzlFR0Q4MXBsMGlOZWVwb1JZUDJDbW9EdlY5ckxodE94d28xM29xUFlTQkxwMjBFRkVIQ1hVNDllSFE?oc=5"
+      "headline": "Colgate-Palmolive shares rise after upbeat fundamentals stay in focus and recent leadership moves - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX0VINlFKQTJ4Slk5N2tseURhS0JFRS1yaDc5aWVKeGRma1lGc1o5bF9EZUxkNzFiZUlvZmtHOHA4ZDRZd3FxM0daSlFheVpKSEFWUW1qT2ZySGl0b2tTY0JqbVZ3QURReG1oZkUzcXRSN1hfb1VfOXp3eUpyN2hhUVJjUVRWNllmSVJWZXRSRkFLdVZEUHRrMVpjSlE5MVV1cVdSdDNxYndnVkltYjl6b1BycFpma3lLeER0a1B2Z0lKQ09OX0xOYndn?oc=5"
     },
     {
-      "headline": "Is Colgate-Palmolive (CL) Pricing Look Stretched After Recent Defensive Stock Interest - simplywall.st",
+      "headline": "Colgate-Palmolive (CL) Valuation Check After Key Leadership Changes In Global Oral Care And Marketing - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGl3NXg3d05aR3BZbVNaTkdpTE5XamNIOTkxeWtvZlMtNmN1T01razZHU2wySFVWRnFmdlJ2bm1HeE9OS0x4OTg2UEJNNmZObDRFNm85QXRtVU1kS0ZJbVhHXzRGX2NySVhFVDdxUG5BZ0xDeXh2UVpzMGVGUk9ycGg0RG1BZUljWUthM3pyUkdiMlFyZXM4dm1CUndTOEhnVm9jaUtaN096Rloza1QtbVdMdjdLYldrbUhUUUVoOGhlSngzdXF5WDVBZ2PSAdIBQVVfeXFMTWFVTnhXdV9vOVl1LUt2b2RSd2ZTXzlKT190ZWhQMFlJM3VULVN0cWtYWUpNWUNwWmRsQnZjWXIxaFF3NUJubngtOHNFaWpwc2s2SEpBdzBZdDlxa3d2R05jOHBHZDRwQ3M5THJfVzFoN09TTU9vVWxhcTdRUXpCZ1hHZnBWSENyMF8taWxzaU5nZVZMbm1NOG1EYnEtVEptb1dFWHpXY3Nhc1otYTJUZE1iRTE2VGE0TEpJelRyNVBzYWZOZDEwVjVVb3BKM1dqYWlR?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSWU4U2VTM0lBMkx5dnlZYjRocHZtMzJkbW1JTjhoamhDUjNPQVZBWGlMUUhDNWIybVpZVXhYMVUyVTA5Z3NqVzZ6aFVRVGpTc0tKTVJjN0Z3Z0xoT2hhTTdFN3p0czdvTElGbEY4TUo4bXVRejkxdzBYTGZwUFVqUjQzVmRGZGxSUnQ3c3NIXzlWYjJfZWxVOFNpdjBDTXF2b050MmZpZjNRQ2R5aGNVWDlpRk96RHVuM2NVenpmY1ZCY3RVTzZseGJJaER2d9IB0wFBVV95cUxNVllFREpna2VvYi1FdFczUWlyQXk0UTJXSmRMYlQ0ZzVxUU94bTRxWkxFY0gxSXVZWEtrNVoyV21YN2dIaXRjSjhHRFZDSEdhdXJSU25wMnNkRWlQZVdJcVppS0FxbmFwZDJDQkNERzkzM2ZQYzg5R01Zb2Q3bnFBc0N6a2lfTTUxX0lmLWg3M1RWYkl3NjRyRFIzdDRMcWVYSDR6UXUxbWRqZkZqNkZMOUdnVHh0QS1IWl9CRE91U3NlWWREVmdNQzE3WlUwMUtYa19r?oc=5"
     }
   ],
   "insight": "Tracking Colgate-Palmolive (CL)."

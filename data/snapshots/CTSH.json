@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:20.862Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:53.137Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    51.86000061035156,
-    51.869998931884766,
     51.33000183105469,
     51.939998626708984,
     51.68000030517578,
@@ -24,11 +22,11 @@
     55.7599983215332,
     57.15999984741211,
     55.13999938964844,
-    53.5099983215332
+    53.5099983215332,
+    53.400001525878906,
+    53.209999084472656
   ],
   "6m": [
-    75.9800033569336,
-    74.91999816894531,
     76.44999694824219,
     77.05000305175781,
     77.70999908447266,
@@ -158,10 +156,11 @@
     55.7599983215332,
     57.15999984741211,
     55.13999938964844,
-    53.5099983215332
+    53.5099983215332,
+    53.400001525878906,
+    53.209999084472656
   ],
   "1y": [
-    79.31999969482422,
     80.27999877929688,
     80.47000122070312,
     81.05000305175781,
@@ -410,17 +409,19 @@
     55.7599983215332,
     57.15999984741211,
     55.13999938964844,
-    53.5099983215332
+    53.5099983215332,
+    53.400001525878906,
+    53.209999084472656
   ],
-  "lastClose": 53.5099983215332,
-  "oneYearReturn": -32.53908405520981,
+  "lastClose": 53.209999084472656,
+  "oneYearReturn": -33.719481946236904,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "New Cognizant-ServiceNow system to govern enterprise AI at scale - Stock Titan",
+      "headline": "Cognizant builds 'Physical AI' backbone for factories, grids, hospitals - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTnRBWVl0cDVZRU9aR0x5anBLLWtUTEI0UkhxdEw0VmZvR1BrdDQtdWU2Tksyc2VBM2pEUTRvOS14aHZSeFdjbnUwTkxOSkkxc0dRb0NuaTd3NEJrNkFkT2sxSVpzZjl6eUhrSGtxS2xUSnUxRkpxbjJxRXR5NXEzRUdjakpoVGJZZ1hsb1JOa3ZQOWluQ0F6eEVMVXQtZDFjc3BjTGpoNm5KRUphc1ZRUmJPdXdYR0YwN0FESm1n?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVJ5U19QU3VoTklCOXBrcnJ0dTFYRkZrXzVrNHRaZTdKYldOcWd6TVFHb05YYVZORDFxZW0ydXFqdkhIeTY0N1NXUmc2bHZ0ZFMtVmdvUXZ3MG9DZTh1aDNaWTkyTTBCUkxlOXVVQVFBaW9OMlBmSVZFcmNxazZJQUd5Z3lDM0VTTmZ6X3hKSktYRDNqMF9sYkRMRElLLTVDNTg3aWVOOW5YTEd0TGc?oc=5"
     },
     {
       "headline": "Here's Why Cognizant (CTSH) is a Strong Momentum Stock - Yahoo Finance",
@@ -429,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTV3Yk5iZjlTcGtLemp6SGFjVkRBX3lTbnpRV0t2ZE83NTRFcC0xX3lpTDQ5U3V1dF9JNGFuX0pkSlpUQkdXbklQOGxRbXBsLUt6VFFfd1ptTW9zZkdCdGtIOF9YWEg3czBacGVxOWdOZFR6WE11YlBucm5TbUFGbzNXUUlrRTNteC1Nd3NYWDZwNmY0clNSdEpCb0s?oc=5"
     },
     {
-      "headline": "Cognizant Deepens AI And Security Ties As Valuation Lags Targets - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObjk4d29Vc2JUUVU2WnJiUEtpQU8xS2R6cFdzZ3ZHNkJaVGF5M09UbjR6TGtQejBTWTV6eVV0TFdoRERNemlVRHZ2ajcydGpSd3pSdGN2Yko3cVdmYW9tYXlrdjJpblE3SEFlRk9iVUJfWVNicEtwS2ZOVGx2NlpfVGRvdWFNZlpEMy14VHVVLV85bTEtRlA2T3dEWVNyanJ0T3ZtVnR6NHlkVWRIejRYdVk5cnREdHU1Rzh2NllLVlo0ZE5yTU4tc1dQQXcxSHRfckFlNFNwOXhKRi1aY0prTWNpZ9IB6AFBVV95cUxPYWd3cXN0ZzZlSVJqWkl5RExmMWJGSXktVVFCTnNTY0drTXhxR1Y0T3lLaUFGTVEwUEFKR1dncy1pSFFqUGR2Q3prMVpyeDBFUDBOU3Z3dUVRbHFMSEQ5YU1oRERmUEh5QVVNb2pJaFd3a0Fia2tfTVpIb3UzQnVPcGdQR0cxanllZUdLYUJIZ1dBN3I5UUc3c2ZZVXU3MjhMYkVnbkV6TXI4d2hreEM1Y0JBV3ppR1ZwQmJnbEhDalgwMkdud1oxQk9EVzBHS0dZSlNQbDc5VHhBekZwWWJqNkpWdm41SE9D?oc=5"
+      "headline": "Natixis Advisors LLC Cuts Stock Position in Cognizant Technology Solutions Corporation $CTSH - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTXZQaTRHSlh4X2tHY2hlWEdJSW4wejFLejhlU3A5bm9FRUV3YXRHR2p5RW5PU2Y4NHNxS2pWSmpUYmJVOXhaVmc2czA3MENTNV9QTGQzVlVOMU83SmVoajA1YTdkWGlWV09wSDhybEd1b2tjdFZ4S2NMM09DNlFhTmpmdHBBT2UxQV9lTjZhZ2VmMlV1d3NGa0JCNjNnRnVWX1gtXzVzV3BiMUpHbV80V1pCc0l6bHJDRl9Sblh1R2VEMWx1dm53R2hqeld3NXBlQTFndVdDUElvQXlEWW4wLXZfYmRjMEE?oc=5"
     }
   ],
   "insight": "Tracking Cognizant (CTSH)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:22.529Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:54.692Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    114.4800033569336,
-    117.01000213623047,
     116.37000274658203,
     116.47000122070312,
     113.29000091552734,
@@ -24,11 +22,11 @@
     110.61000061035156,
     109.93000030517578,
     106.2699966430664,
-    105.08999633789062
+    105.08999633789062,
+    103.5199966430664,
+    103.69999694824219
   ],
   "6m": [
-    101.69999694824219,
-    101.69000244140625,
     104.30999755859375,
     108.7699966430664,
     109.48999786376953,
@@ -158,10 +156,11 @@
     110.61000061035156,
     109.93000030517578,
     106.2699966430664,
-    105.08999633789062
+    105.08999633789062,
+    103.5199966430664,
+    103.69999694824219
   ],
   "1y": [
-    113.83999633789062,
     113.4800033569336,
     113.30999755859375,
     111.23999786376953,
@@ -410,29 +409,31 @@
     110.61000061035156,
     109.93000030517578,
     106.2699966430664,
-    105.08999633789062
+    105.08999633789062,
+    103.5199966430664,
+    103.69999694824219
   ],
-  "lastClose": 105.08999633789062,
-  "oneYearReturn": -7.686226529759331,
+  "lastClose": 103.69999694824219,
+  "oneYearReturn": -8.61826411648044,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Dollar General Stock Q1 2027 Earnings Result: EPS Beats, Guidance Rises, and Now the Margin Story Has to Prove Itself - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSlp2eVdsQ3dhOTJLSjBEVjc4UmtocXJZaVA4Y2xNSHhETHE5VTRFczdnYk1ON0JlWC03WmdHVUkzNTktR0tFeDh1RTFQdWU0S1RkNXhDRmZQalhJWlUzSHFKeHFuTXU3UVQwTjE1enNLZTRtajlVRjVoOVFVdXRydkNXOWg2cndZd29BTTlCNzVqMThuSzAyM1JoQVN3c212SE1zb0JMSVY2RXh2NjVhcFFmcUJjbTZscldReWZPNC0wUlRCbldlM29OWDZ0X3pmLS04U01fQQ?oc=5"
-    },
-    {
-      "headline": "Dollar General Is Winning Over Value-Seeking, Stressed Shoppers - WSJ",
-      "source": "WSJ",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONU10dXFjNmZWeGJ1c25HSzZkdVZ1a28zdE5qSWpILW1SeVFwQms2U3VOOEd4RC1qUDhCbnZpWW1IVUF6RUpEb09NS2p3ZnNkV1hJWm1nQUhUUmVMclFDdjBRZmx3UE1NZzhNb1FfaGczTFM4QUl5ZmtEMzFBdzdGYUpTU185Y2FmWVYtaFF3?oc=5"
+      "headline": "Dollar General’s Report Card Looks Great, So Why Did the Market Flinch? - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcTVIVldFYXBqZU9yNVlrVEF4bVJJQW94SUpYM1ZueDgyZW9kMjd4clU4bEdpZmZQcGJ2WXEtb2JoU3l6ZzZ1bXdGN3MwU1VlTnFQNTVvSi1pNi1hVkk2WmhiRXpiMVlfbzJjZ05zeXUzXzY4VXNXRUVsemwzdzNKYk95c2pleHJ5UWxWbGY4VkxkcTlidVZDSTJkSHdQNmZBbEdUSnVSU3Jid3Q3NVRMYUE5UlFyamExcFdueGJ3SkFxRTA2ZXc?oc=5"
     },
     {
       "headline": "Is Dollar General (DG) Offering Value After Recent Share Price Weakness? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWTJGaVh6V09hWENVWWNXQkFISDJQcTNmdmRhOXRqOVBGQ28tUWZJMkZJLU9fczRhRUZMYl9vZzhVX3VCeVFyUFhGQ3NMV2dRSDN1YVJyZVkyMllYNFE0a1NVOC1fOGdoSzQydUwwNU9RQ21xR1c3dGpncllNeFRYanNTaUdxYk5na3kwaERZdUd3QVF5cU5tVElidElGdw?oc=5"
+    },
+    {
+      "headline": "Dollar General Is Winning Over Value-Seeking, Stressed Shoppers - WSJ",
+      "source": "WSJ",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONU10dXFjNmZWeGJ1c25HSzZkdVZ1a28zdE5qSWpILW1SeVFwQms2U3VOOEd4RC1qUDhCbnZpWW1IVUF6RUpEb09NS2p3ZnNkV1hJWm1nQUhUUmVMclFDdjBRZmx3UE1NZzhNb1FfaGczTFM4QUl5ZmtEMzFBdzdGYUpTU185Y2FmWVYtaFF3?oc=5"
     }
   ],
   "insight": "Tracking Dollar General (DG)."

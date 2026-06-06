@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:25.429Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:57.721Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    910.260009765625,
-    933.27001953125,
     943.75,
     924.0599975585938,
     921.6400146484375,
@@ -24,11 +22,11 @@
     826.8200073242188,
     830.9500122070312,
     827.280029296875,
-    839.5399780273438
+    839.5399780273438,
+    845.4299926757812,
+    817.4400024414062
   ],
   "6m": [
-    581.5800170898438,
-    602.8400268554688,
     605.6099853515625,
     610.719970703125,
     615.0700073242188,
@@ -158,10 +156,11 @@
     826.8200073242188,
     830.9500122070312,
     827.280029296875,
-    839.5399780273438
+    839.5399780273438,
+    845.4299926757812,
+    817.4400024414062
   ],
   "1y": [
-    484.05999755859375,
     488.82000732421875,
     473.7900085449219,
     465.92999267578125,
@@ -410,12 +409,20 @@
     826.8200073242188,
     830.9500122070312,
     827.280029296875,
-    839.5399780273438
+    839.5399780273438,
+    845.4299926757812,
+    817.4400024414062
   ],
-  "lastClose": 839.5399780273438,
-  "oneYearReturn": 73.43717354494272,
+  "lastClose": 817.4400024414062,
+  "oneYearReturn": 67.22719819019689,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "EMCOR Group (NYSE: EME) director Carol P. Lowe awarded 304 RSU-linked shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHVCZmc4WU5iS09FdFBmUndHY3JMR3RPOERDWDhHRGc2M3Z0ZTY5cUc3WmV0dUtTWmpWaE9Bc2w0bGVXSXNxVEhQc2FHSFZheHd1a3QxcVVoRl9EUEl1X3JZbWdiWVN2NXZhV2Y2WXQzbUUwdHZPc3pDUFdBbmdDeWlhTEVxc3pwSlpxRTloZDhkT1lDZ3AxdWVtdDhPNW1LREx2b3BDNkdFV1J3?oc=5"
+    },
     {
       "headline": "EMCOR Rises 36% in 6 Months: Should Investors Buy the Stock Now? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQTVWd0FJeWRUSmhiSjh4cHFaZ1lzcnBSZHJXNHhtOGhhZ3RhZUlOWG5zUnFuMFlNeGtVYXZrTy11U3lFd0R6RlV1MHUtd1hOSUFtY0Z3NkdMNnpuLVdvWDJhN3hISkItS2dVZkdDeWJVNjg2N25GTUJtOGwwQklOTXB2V0xJbnFTbmVXelQ2Z1c2dw?oc=5"
     },
     {
-      "headline": "Assessing EMCOR Group (EME) Valuation After Recent Share Price Pullback And Backlog Driven Growth Story - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa09wWTc1Y2RuaHVHcXVMX01PWS1nX2NHeTYwM0o5LTFlVXh6blRqMVVnLU9nbkxuekxUdmEwU0lxM0pRRGRqbEg3NXE3UTBYcjJLaHJDX1pqdmFOYTFhYURQVUtxY1NFZ3JjTXBSX3I0MmVmNmxWMlpGWEd4WnFfQlpEZmdKRTZlcjBmVEIzMlkxVlhKUjJrTGNNamxDUWVPWnN5MS1ZVGs4aERpMkp1dkVDX0ZkQnZqRGFReW9nWE03bVZ6TzdvbzFfRHAtal8waUHSAdIBQVVfeXFMT2tPcFk3NWNkbmh1R3F1TF9NT1ktZ19jR3k2MDNKOS0xZVV4em5UajFVZy1PZ25MbnpMVHZhMFNJcTNKUURkamxINzVxN1EwWHIyS2hyQ19aanZhTmExYWFEUFVLcWNTRWdyY01wUl9yNDJlZjZsVjJaRlhHeFpxX0JaRGZnSkU2ZXIwZlRCMzJZMVZYSlIya0xjTWpsQ1FlT1pzeTEtWVRrOGhEaTJKdXZFQ19GZEJ2akRhUXlvZ1hNN21Wek83b28xX0RwLWpfMGlB?oc=5"
-    },
-    {
-      "headline": "EMCOR Group (EME) Starts Coverage With A Bold Call On Infrastructure Growth - Insider Monkey",
-      "source": "Insider Monkey",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZEY3UWJZSzg1Rjg2VzZJLTM3Tkl0eVFoVlpsb0xlT0lycXZOaWxCeFkzNmU3T3hnelEyTXZUWVg3RmZVajVRQ2I2WlBjMGNTMnd2LXNReXZiMXpjMGtOQS1YV0tfRUYzeXFVWVh6al9fZVNhekZYdThQVjBXZ1NtMl9xMnNuMnZsS09MZTJBZnloT1JrZ1J2UGQ1TzhJMVZQZmZQVl9idnVkQ0lVdWI5bzhEQ3pzM1ZfZFpCdW5nSjTSAcABQVVfeXFMTWRGN1FiWUs4NUY4Nlc2SS0zN05JdHlRaFZabG9MZU9JcnF2TmlsQnhZMzZlN094Z3pRMk12VFlYN0ZmVWo1UUNiNlpQYzBjUzJ3di1zUXl2YjF6YzBrTkEtWFdLX0VGM3lxVVlYempfX2VTYXpGWHU4UFYwV2dTbTJfcTJzbjJ2bEtPTGUyQWZ5aE9Sa2dSdlBkNU84STFWUGZmUFZfYnZ1ZENJVXViOW84REN6czNWX2RaQnVuZ0o0?oc=5"
+      "headline": "1 Industrials Stock for Long-Term Investors and 2 That Underwhelm - StockStory",
+      "source": "StockStory",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3F0WjNsdVNLVGF1bkNWNzcxYnVDbTgtV25LTGwxbWNTTld0Uk4zOG5HOUJXVGxXVFU1cUtqTjRWWFRYcEl2OGxTS3NLbnZId0dGeE9GS21GOThTTmRVanFHWjEtbnJ4Rks0ZWVtZ0ozaXdCTzJzbXJIUnEtRzZWV2s0X3VvUHk5dDNfeFU4QlNaTjBhTkdQZG96MGVrWU1PazY1MWxndUg2aEZyM1lxYUJocTdrRnBtbzdWc2hQa1AxQQ?oc=5"
     }
   ],
   "insight": "Tracking Emcor (EME)."

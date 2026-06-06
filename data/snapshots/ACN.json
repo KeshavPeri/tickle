@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:07.191Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:39.338Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    180.1199951171875,
-    179.00999450683594,
     174.57000732421875,
     180.19000244140625,
     180.4199981689453,
@@ -24,11 +22,11 @@
     187.07000732421875,
     196.58999633789062,
     186.22000122070312,
-    177.42999267578125
+    177.42999267578125,
+    178.86000061035156,
+    178.25
   ],
   "6m": [
-    251.85000610351562,
-    243.6199951171875,
     249.22999572753906,
     247.85000610351562,
     250,
@@ -158,10 +156,11 @@
     187.07000732421875,
     196.58999633789062,
     186.22000122070312,
-    177.42999267578125
+    177.42999267578125,
+    178.86000061035156,
+    178.25
   ],
   "1y": [
-    315.3800048828125,
     317.6499938964844,
     316.6199951171875,
     320.9200134277344,
@@ -410,29 +409,31 @@
     187.07000732421875,
     196.58999633789062,
     186.22000122070312,
-    177.42999267578125
+    177.42999267578125,
+    178.86000061035156,
+    178.25
   ],
-  "lastClose": 177.42999267578125,
-  "oneYearReturn": -43.74088720630533,
+  "lastClose": 178.25,
+  "oneYearReturn": -43.884777766409144,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Accenture (ACN) Receives a Buy from Wells Fargo - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQm44NFhCQUgtRzlNNHhiQUtRLVhzWktkZDdESGlTbEE1QXJOYkFQZ1FyWEpQVU9QUGNSVXA5dmVXOFVMcGtRN3JZWDBQZi1HeU5ael9DeVVFSTQ4akRFRGJLcm5nUk9LSXlLRTZTYktBaTZZT3B5cXJLOE5jenlpN1hyanJ4OE41TERYUjZCVi1jajVmMFh2cUZ1Wkl3Tl80a2o4X0syUTE1X05VR05tdzRoOGxDSVlRNmtUVC12SkVHbldQcW1ZTQ?oc=5"
+    },
+    {
+      "headline": "Accenture (ACN) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-20",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWh6akR4OUdha2hrLXJiNzNlOTN6Z2ZDUXlTNUthdnprUGNJMDJsNU9ORzZ5X1dHdXFGelptcHJBeWw0WnFZSnRSZXBqeEc5Tk9qV05IUXZTT0xsVHpmNDZxQl9KWG4zdHBvblRNVXVSNDdscUsyTFNqM0ZxeEhUOUc4NTd3Ym9YZ010NlBwN0xtRDFRWk1JUmNwWDZ1MmdvTlE?oc=5"
+    },
     {
       "headline": "Accenture Stock Is Cheap. AI Fears Are Overblown. - Barron's",
       "source": "Barron's",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMUNENlllQzZKSmNwTzN3OWFXVHBDY2VoVFk5d3J3ZVNPd2VGdlhiOXFla3NMSzl3cDJKWkRQa2FGbUEwZlJWY0RQODE5WmFsUExoSm9nT3dhTUJydEdlTUp3WGp2YWxBZWlQUVhhZ0JfbXBxbHBsV18xTExkamRubVNn?oc=5"
-    },
-    {
-      "headline": "Is Trending Stock Accenture PLC (ACN) a Buy Now? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHlEUUFtVkFlUElyY3I2NFF6Q0otclBlYk1QXzJjQlVfRXJfVU00emVjOTRYbkxBM3Ytb3BlNWlLOURnT1ByWUpCekhTOWlmalJvQ1p6Z2J4X2hxT0RqVVR6eW1vOHJfb1FQc3BsdDI0eTlRZEVpa19hcVlRSXp5dmFienNmd3g2czVOQXJORk9sdVdzcF9iTlYyS2RXdw?oc=5"
-    },
-    {
-      "headline": "Accenture Stock Pays Out $39 Bil - Investors Take Note - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWFBZzkzWWN1Mm1jMC1DTkkyVVdjTXBaN0dsQWg0eE5WWlR5bno4ZzNVYnBiM2wybEZCbVhUUGwxbmVWZ1NkcDRPWWFoRENZZ294TEsySjYycmhpT0Nad3ItNGFLREF0OHMzREdOOXlZUEhuaHRreDF0U2JHbGVoYVlDWDNVcHBzWmZ4R2t4R0pwd0c2Z2ptaWJReXpkYlRSSGoxUTY2UkhWSGNucG5BeE9GeUluMkFfNVZYeA?oc=5"
     }
   ],
   "insight": "Tracking Accenture (ACN)."

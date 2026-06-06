@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:33.149Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:05.404Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    311.3800048828125,
-    312.7699890136719,
     321.510009765625,
     320.29998779296875,
     316.7799987792969,
@@ -24,11 +22,11 @@
     327.6600036621094,
     332.6499938964844,
     332.8500061035156,
-    331.3699951171875
+    331.3699951171875,
+    338.1499938964844,
+    343.1000061035156
   ],
   "6m": [
-    274.4800109863281,
-    274.3299865722656,
     284.7300109863281,
     285.7699890136719,
     285.0299987792969,
@@ -158,10 +156,11 @@
     327.6600036621094,
     332.6499938964844,
     332.8500061035156,
-    331.3699951171875
+    331.3699951171875,
+    338.1499938964844,
+    343.1000061035156
   ],
   "1y": [
-    248.47000122070312,
     252.80999755859375,
     252.07000732421875,
     253.5399932861328,
@@ -410,29 +409,31 @@
     327.6600036621094,
     332.6499938964844,
     332.8500061035156,
-    331.3699951171875
+    331.3699951171875,
+    338.1499938964844,
+    343.1000061035156
   ],
-  "lastClose": 331.3699951171875,
-  "oneYearReturn": 33.364186215320444,
+  "lastClose": 343.1000061035156,
+  "oneYearReturn": 35.71457197771436,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Bank of New York Mellon Corp Sells 13,062 Shares of Hilton Worldwide Holdings Inc. $HLT - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYmdLQS1PTElZR2lBVG1JNnlYNmszRXBERi1YczdJc1AxUTFhbzUtN2lZYlNMNElNTjlha3BZc0lmeWhDLXgxZjV4VF9OSGxJLUxfb0FjS25XN2I4UnUtRFpNLURackxFNzl5SDdZcVhFTjdGY08tSUV4Q3JqTW05RGhpcHFNS1ZRU09YdDM3Z2lmNnFtbHlhTEo5R0dKbjkwMWFwODFnU2VTaS1yVG56c25JckRTOVl6QlFTbUN3TFAyUVgxZ1lCM1pLMGpVTERKMUFmdzA5Z0RfZkg2X0E?oc=5"
+    },
+    {
+      "headline": "Hilton Worldwide Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNDd3dXFZaEVSVEgySFJmaGctTGhIajgtcUtoWWNwQ0JhallocVhHOTJEaU92bW5mcVhiaGRwY2QxMzBYaXEyRkh6LXRDR20xdnZwMWRyQjZvM1NvWkxLUzlwNWN0TWY2T2RFREtndFViMlZKaW1vcTA5OEtzTlZzQzVpTmg4d3VBdkRnUTdVUDRBRHFHaDdJa1MxZERTaFNYTkJXay15YmhLMzJnSjBYRjdNay1URlF4SGRMWWt6NVcxLWRVdDJpQUxlVzA1RF9MSVJPYURzaFM?oc=5"
+    },
     {
       "headline": "Did Hilton’s New Undergraduate College‑Town Brand Just Shift Hilton Worldwide Holdings' (HLT) Investment Narrative? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-05",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS1pQZDhnREF0dFdMRkozTkhCaDdUbnM3RXBKc2RHUWx5em4xaWE5RkFZTHJfeFkxRjFBSXU0LWlEYnYtYVpLNWtlTF9tclUxdTlMcVAtX3FURGNLNzBnSlVkMnVCY2N3UkQ1U21JeGhEa2FpTFRnOGtWaHdUWWVRaEw3Zk9UU1NZeVlBNTBrLTlkb0s3M1VIVEZxRFVFV0JrYzhHZzlWa0ZOT18wS21SdGNTdjI0RkViMG14blhHbDMwczk3c1BpZjVrTlU2T2lGTVBlTUo4TjV5X1RLdEFzYnZfcWdlRnRXd1HSAeoBQVVfeXFMUEtaUGQ4Z0RBdHRXTEZKM05IQmg3VG5zN0VwSnNkR1FseXpuMWlhOUZBWUxyX3hZMUYxQUl1NC1pRGJ2LWFaSzVrZUxfbXJVMXU5THFQLV9xVERjSzcwZ0pVZDJ1QmNjd1JENVNtSXhoRGthaUxUZzhrVmh3VFllUWhMN2ZPVFNTWXlZQTUway05ZG9LNzNVSFRGcURVRVdCa2M4R2c5VmtGTk9fMEttUnRjU3YyNEZFYjBteG5YR2wzMHM5N3NQaWY1a05VNk9pRk1QZU1KOE41eV9US3RBc2J2X3FnZUZ0V3dR?oc=5"
-    },
-    {
-      "headline": "TD Asset Management Inc Cuts Stock Position in Hilton Worldwide Holdings Inc. $HLT - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcFA3bkxqVUdxTE5ncUVWSklQdFhfcWE0RTBrV1BKejMwNFF2RHRwRlNSNkFEUVVmNTZxUWRTRGIwLTZBQzZyc2lMTllfSzJHc0FRQUJHYUEwQWVsRWdyM3MzQ1BCdWFmdmpmWTllNVBfS2ExLUp3WjNsaElSMXFKTkdta0tPR21mbjhKc0pOdjZPVnpUTFRiWmo1ZDR2UU5nai1rNEpYRW9HR181NUdmWGdwY0FLeXZOYmVQY1Nnb0RMWlktc2xVckJWNDBJSXlhNjRVV21IRzI?oc=5"
-    },
-    {
-      "headline": "Analysts Have Conflicting Sentiments on These Consumer Cyclical Companies: Hilton Worldwide Holdings (HLT), Shake Shack (SHAK) and Victoria’s Secret (VSXY) - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQVlZFQ2tXRWs0RUNxUW5EdnozUkU2eTY1NnFlTE1rbkhRcEliRi1HSVBkMjIyOXJSQ2t1MXlkcGh5dDk3NkNIaHVCR2N0aWxnbE5Db2pUNFhnTTBHRllnUTZnUjFjMUJ5VlVqczIyMGN0ZEJnWUVrbVlFNDkwUzZESTJ6bE0tZlExbWs4Z3RyVWVaXzd3akc1Q0N6V0sydTUwUFhMd2otcEExUHcxOWFZcWJaU3ZhNEt3UU94VUJCSjFjeEVfVDZ2cHhUU2lyRkdZQWpiVTlJT0VFREdBNkRtUlNpbHlJZU9vZTFEVHlvSUprV0NETURXblJzUGZpekdIbmRqOEY0d2ZPd3NETElpcFRLNlRQTUFzOEZlZG9IVG1CS0dKRkFPTHlaaHlqTGxuNFl4bFVWZ0gtVkJPdjBqdkRYRkVaenEyZXZobEZ3RjNjRG8?oc=5"
     }
   ],
   "insight": "Tracking Hilton Worldwide (HLT)."

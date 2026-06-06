@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:08.139Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:40.366Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    134.66000366210938,
-    137.0399932861328,
     132.55999755859375,
     131.75999450683594,
     130.16000366210938,
@@ -24,11 +22,11 @@
     126.66999816894531,
     123.79000091552734,
     127.11000061035156,
-    126.30999755859375
+    126.30999755859375,
+    127.79000091552734,
+    129.13999938964844
   ],
   "6m": [
-    120.83999633789062,
-    122.04000091552734,
     121.58000183105469,
     122.72000122070312,
     123.7699966430664,
@@ -158,10 +156,11 @@
     126.66999816894531,
     123.79000091552734,
     127.11000061035156,
-    126.30999755859375
+    126.30999755859375,
+    127.79000091552734,
+    129.13999938964844
   ],
   "1y": [
-    101.7699966430664,
     101.79000091552734,
     101.41000366210938,
     101.87000274658203,
@@ -410,12 +409,20 @@
     126.66999816894531,
     123.79000091552734,
     127.11000061035156,
-    126.30999755859375
+    126.30999755859375,
+    127.79000091552734,
+    129.13999938964844
   ],
-  "lastClose": 126.30999755859375,
-  "oneYearReturn": 24.113198118297525,
+  "lastClose": 129.13999938964844,
+  "oneYearReturn": 26.869042369709856,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "American Electric Power Co. Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeTR0WmtQSmVBaThGS3ZqNXhNWVlfUDBNdFQ1ZEwxOHY1clQ2OUdMbTBLQ2g0UFBsdEs5TzBzVHlEejVyeUJTOFdsem9heEk2MVdRUnlJTDJuQnVydFp1MWNjRGxZOEJ5SWFuVHdDUjBVODFWcGIzM3dLc3VDMG5kQVB5dHdKUDA0b0lMNDBlR1BsZmotSWFIdW5JTlpuTXp5NVdwNjZnME82Xzlvenh0Y3BnbFUweUVXeFNGXzJHeEcwblhaX2NYek5qc1VXZEJSQjNyTDhtR2lyMVpKWTJTUlFIZTl4eGpPMWprT1MxTzlJUQ?oc=5"
+    },
     {
       "headline": "A Look At American Electric Power Company (AEP) Valuation After Expanded Capital Plan And Earnings Growth Outlook - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -427,12 +434,6 @@
       "source": "simplywall.st",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcUkyQWdEUEdFcUxBNEl0eENNNWFlLUJhSE5SbVdYbFZvd1hZNUtNd2NqUGpJUTYxakpTbTBaSFZjU0ItXy1zeFBTWWFteVBUZExsMlpfcFBGcEo0YUtPdjRkc0M5aFctY05JYlZ3aUphR1hVdkNQMHBQS0JtQ0R2ajNGSnk5YVk3el8xVjFMUGhDVUZNSTk2VndQYmtpQU1fQUYxMGtSRlRKZjg1NWNSR0Q3SmtWSmQ2eFE4ajcyemdkbnlxb2VZMXVNVjdFVHRCbTNOX01XWnNud9IB3wFBVV95cUxNaVJTWWJGck1OUVMyUmFvcWlSY1hHS3d5bTdXM01HUUhSMnhkd25QaHhjRnlvUlVDWVcxX3Jyb1QzbnRHbkxwTERNQTJDWF9aazY5cU40SHl2ZUJpejJRd3NGVUp4QzJvZHpTZXdFY3c4YTVkMU5HTFI4ZmFmZ0ZIMG1xdFVfY3A1RXAtTG0xd2RDTjM4Q1l6S1FfeFo4VnVxSE8wVmU3OU90Q0U4NENZdUYyeVI3WHJlX1NtMEpRVEpkeEU2c3QtdkxWSG1FSjJXcUcxbjMzdHpnaXdIcnpz?oc=5"
-    },
-    {
-      "headline": "American Electric Power Co. Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOXhaT2lJWXM2S0JDM3l3enRGZi1xT1NKcjBJN2V6QlNNSGhiSWZOSGd1b0FuZUVNdGItSzVNUk1URWtsMXFuMlN0eTFVZmY0LXhIekdmYnlCX3ZMekJJckNCMEltZGtwVGxRcTN6akNfZjhfdENtbXgyUzRPTllLSklvMUVVbFFqTnUwRzdVYzY3YU01VEdPSkxmZ3Z5OU5GczdaQ2dISW5KYmJjT1NjOVU1SUlCTzEzeUwwSGxCNEwxcmdPbFB2aS1wbTNXV1cta2ZxVERHSnoxQQ?oc=5"
     }
   ],
   "insight": "Tracking American Electric Power (AEP)."

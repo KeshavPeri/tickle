@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:24.771Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:56.979Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    255.58999633789062,
-    257.6499938964844,
     263.4200134277344,
     256.54998779296875,
     254.22000122070312,
@@ -24,11 +22,11 @@
     256,
     250.47000122070312,
     256.260009765625,
-    255.6699981689453
+    255.6699981689453,
+    254.3300018310547,
+    257.9700012207031
   ],
   "6m": [
-    267.07000732421875,
-    268.79998779296875,
     273.4599914550781,
     274.989990234375,
     275.1600036621094,
@@ -158,10 +156,11 @@
     256,
     250.47000122070312,
     256.260009765625,
-    255.6699981689453
+    255.6699981689453,
+    254.3300018310547,
+    257.9700012207031
   ],
   "1y": [
-    266.92999267578125,
     267.05999755859375,
     266.3500061035156,
     269.3699951171875,
@@ -410,29 +409,31 @@
     256,
     250.47000122070312,
     256.260009765625,
-    255.6699981689453
+    255.6699981689453,
+    254.3300018310547,
+    257.9700012207031
   ],
-  "lastClose": 255.6699981689453,
-  "oneYearReturn": -4.218332452626469,
+  "lastClose": 257.9700012207031,
+  "oneYearReturn": -3.403728158836762,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "The Market Is Missing the Bigger Picture on This Undervalued Stock - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjRFejR6UERrUTVETFR2T1ZfbGw3eDMtcFFTQ1RZZ0dfakpuQm9nRUQ2eHhGbWo2QzdyNlk1RjktbFM2cktjQ2FyMWc0eGJTc0RBeWZFcGI3RjdEUXJTeFVsaG1fYnc5UU9nMFVfdU83cVJnMC1QQm9sbkNBSHQ1UWdyMTRHU25uTGxhbTY4Qm9jZ3hLOUdmeVNXRlR2WUw2?oc=5"
+      "headline": "What Ecolab (ECL)'s Growth Conference Outlook and Water Market Backdrop Means For Shareholders - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-06",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGp0YzhJZ0Nwb1p5SW9UblZxTmNQamY0R0lHSkRqX3RPQUc0Tnd4VC11eTNGT0FPWWJxMU9VaXJFSWgzNXZLTkw3U19PLXUtcGJsQWdRU21obTNMWEIzcWo0dTZlRFJrdi1HZDRIRF9zWDFKeVVtbHY3TnplS0ljZGdaU1VXaDBYaGpsWm5mMkFpRldGUFprZm1vb29NSk9FWWowSmREWUltek55R2tJa0JKc1pkUTdLT29MTTJJelppUndm0gHEAUFVX3lxTFA0anRjOElnQ3BvWnlJb1RuVnFOY1BqZjRHSUdKRGpfdE9BRzROd3hULXV5M0ZPQU9ZYnExT1VpckVJaDM1dktOTDdTX08tdS1wYmxBZ1FTbWhtM0xYQjNxajR1NmVEUmt2LUdkNEhEX3NYMUp5VW1sdjdOemVLSWNkZ1pTVVdoMFhoamxabmYyQWlGV0ZQWmtmbW9vb01KT0VZajBKZERZSW16TnlHa0lrQkpzWmRRN0tPb0xNMkl6WmlSd2Y?oc=5"
     },
     {
-      "headline": "Is Ecolab Stock Underperforming the S&P 500? - Barchart",
-      "source": "Barchart",
+      "headline": "Ecolab Inc. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRHVVbmc4OGFYU1I3VmhCVjNSN29Tb1VaU1ltU0MtVGZXRDNDWTR0V2V0bWZTajFXR20xVkpNYVRPNlBWMTQtaWFmbUZqN1J0V0VxaEpwZkRIWkpNMWU3MVJwQkN6YVI3RGE3N0xXdkl0Nmc2aDVCWTFMSExoSkdiV0o4QmM2MUpJdWlaYXI2WUxES3Q2VXVYamJIeC1TVkgzWGw2clRQa2FPcnRCbkNEelcyU1hCZ2pjbmRIeGdBTUhveUZwc2hxTjlvZzJoUHdHT2c1blo2Z2FfQkpTcXVUcmFBQUhvS1BUNDlaV01aMVMxaFNZUzZv?oc=5"
+    },
+    {
+      "headline": "Is Ecolab Stock Underperforming the S&P 500? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUdUQ2VyXzFTdmV3ZVN6WnhHXzFTdUdQOUFUbnVJNm9KWWpJN1FWREYteDNOS3Z6TXE5WDRBb3JDLTJSaWZUUkZydm5NVlFjcUVVRU9HY2EtUzFsR09zS0JFXzM1Y3Z2aFhpVHFwaUsxdFdxNnd0SF9PNm4zWnZ1dUhYRG5EYjAyWnRuMXBNTlU?oc=5"
-    },
-    {
-      "headline": "Ecolab Debt Raise And Finance Leadership Shift Shape Investor Outlook - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-20",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeVkzY0VyLTJ6bVEyak9reFZpLUJibkt4M0NMMHZfUDRVU2VoajRKZ3dfYV95N0duUGFuV1NIdFV3UDJDV2dOMnZfVkh6eUp3aGxhMHNUOXFSbEQtc1VveU5WVlRBZDRtREtWbndCOWk2QWlQM2x1Rm5HUEZLdkRpX3BqYnNPemNBNnJVVmczcDdrOGFWMnJvaW5pLWIxMFlWQlNz?oc=5"
     }
   ],
   "insight": "Tracking Ecolab (ECL)."

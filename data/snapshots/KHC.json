@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:37.614Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:10.452Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    22.420000076293945,
-    22.540000915527344,
     23.06999969482422,
     23.639999389648438,
     23.959999084472656,
@@ -24,11 +22,11 @@
     24.010000228881836,
     23.6299991607666,
     23.329999923706055,
-    22.760000228881836
+    22.760000228881836,
+    22.469999313354492,
+    22.579999923706055
   ],
   "6m": [
-    25.290000915527344,
-    25.229999542236328,
     25.440000534057617,
     25.600000381469727,
     25.510000228881836,
@@ -158,10 +156,11 @@
     24.010000228881836,
     23.6299991607666,
     23.329999923706055,
-    22.760000228881836
+    22.760000228881836,
+    22.469999313354492,
+    22.579999923706055
   ],
   "1y": [
-    26.6200008392334,
     26.729999542236328,
     26.479999542236328,
     26.59000015258789,
@@ -410,18 +409,14 @@
     24.010000228881836,
     23.6299991607666,
     23.329999923706055,
-    22.760000228881836
+    22.760000228881836,
+    22.469999313354492,
+    22.579999923706055
   ],
-  "lastClose": 22.760000228881836,
-  "oneYearReturn": -14.50037749308622,
+  "lastClose": 22.579999923706055,
+  "oneYearReturn": -15.525625475499238,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Kraft Heinz (KHC) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOakFjdlM2VUI1T1h1aER2UHlERmpFSmI3dzkyTlhRb0tDc21aUF9hUUppTkx2SF9GZDdJZzV4bXE4X0FQcmlOeGV2WUtaeWRzVXF4dGVFNWpMbkh3UVV4WTlUbVU0OE01X2kzR21CcTlKZmpmOXp5UkQyNGZ0ZWdsVzRGUVhSeGRKY3paRDFHMklTQ050WWRV?oc=5"
-    },
     {
       "headline": "Bernstein downgrades Kraft Heinz stock rating on investment concerns By Investing.com - Investing.com",
       "source": "Investing.com",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTUZaV0VKMDNlTnNxYTlMd2NUY3hlME9HSWZxLThodkIzLWYwano4ZUMzcXBBeEx4Uy0xcTZIZjVxamtSOGRMVktNM3pVcVlSSFNMb3kyQmVtZ0ZvMDZPaVpsMGF5N241aFh5azhfZEp3bUJscGFnb28tOVBoeVdKLUxadWhoZG9Va01fMG5yazJMcXpuREw4c2NSaHhJYmVEMEhuTUVQU0tjZzU0c3ZIMWRGWGpTelp6SXlnS3Bkci1BSEpnaGk0?oc=5"
     },
     {
-      "headline": "Unusual Trading in Kraft Heinz Call Options After CEO Interview - Is KHC Stock a Buy? - Barchart",
-      "source": "Barchart",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU0JTc2NBS3RKOWtjeUxvdnJOd05fWUt4Zk5vRWpWMkdudHowaWRYbVNzYmlvLXA1NEp4WHdrc283RWYzcUpYeWtYdm1pRnNiSDBYbmVsWFR1bU5vaEJ1T3p6QVN2d1gwY1pnUG1kRFZ1VFJEbU12enRMV0Y2SjNNTkpBVVpnLUE5RXNUSk5qRlpCcVF3Qm96MnZQbHpycEZDRXotN0VBa3E3LTRLMVo0MktVeDZqN0hNT05ZdmVzemF4d1VF?oc=5"
+      "headline": "Kraft Heinz (KHC) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOakFjdlM2VUI1T1h1aER2UHlERmpFSmI3dzkyTlhRb0tDc21aUF9hUUppTkx2SF9GZDdJZzV4bXE4X0FQcmlOeGV2WUtaeWRzVXF4dGVFNWpMbkh3UVV4WTlUbVU0OE01X2kzR21CcTlKZmpmOXp5UkQyNGZ0ZWdsVzRGUVhSeGRKY3paRDFHMklTQ050WWRV?oc=5"
+    },
+    {
+      "headline": "Kraft Heinz Stock In Shambles: Down 9.8% With 5-Day Losing Streak - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVHZiQjdEWFFpMm5yam9mY1p5UEhVYVhKSy02Q0NlQnZLZmFkYkZpbkZPdXM5dzJ6cnhWOUl2dXBfRDJOZ0xGOVkzSHg5STJNaHZROURGdkx1MVRvT3hiVkFmRkowRHNhMGxPZDVEOUFRM3JSaVdYQXpzM09lZTc3ajBIOTlWUmVEZzNqTHNSZ0Rialp2ajBJS0c4NjVXX29LdmtLeDdpWEFON0dfdS1oeEwwamhCR0RTYVA1b01OdmJJRVp2UWxkbjRDc2E?oc=5"
     }
   ],
   "insight": "Tracking Kraft Heinz (KHC)."

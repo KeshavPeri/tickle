@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:28.337Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:00.676Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    288.3158874511719,
-    292.3045959472656,
     303.94036865234375,
     302.925048828125,
     305.0604248046875,
@@ -24,11 +22,11 @@
     331.78887939453125,
     338.489990234375,
     329,
-    324.4599914550781
+    324.4599914550781,
+    328,
+    331
   ],
   "6m": [
-    217.107177734375,
-    215.13294982910156,
     220.6849365234375,
     222.26429748535156,
     222.1434326171875,
@@ -158,10 +156,11 @@
     331.78887939453125,
     338.489990234375,
     329,
-    324.4599914550781
+    324.4599914550781,
+    328,
+    331
   ],
   "1y": [
-    174.64141845703125,
     176.96212768554688,
     179.0330352783203,
     183.69056701660156,
@@ -410,29 +409,31 @@
     331.78887939453125,
     338.489990234375,
     329,
-    324.4599914550781
+    324.4599914550781,
+    328,
+    331
   ],
-  "lastClose": 324.4599914550781,
-  "oneYearReturn": 85.7863926677326,
+  "lastClose": 331,
+  "oneYearReturn": 87.04567148298023,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Jim Cramer Says Newly Public FedEx Freight Stock Could Be a ‘True Winner’ - Barchart",
-      "source": "Barchart",
+      "headline": "Broadcom, Quantinuum, Strategy, FedEx Freight, and More Stocks That Explain Today’s Market - Barron's",
+      "source": "Barron's",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yTUt6bHpuWG1nWk5TcldLNUdLM09DYkV6MTctVlpRYjVOX19CcGFtbGdfMmMwUnc0VjBtMElDalE2WmZid0VabzBIQUE2ZkxXUVJQV2JSOVl4TGZ6RFZzcFVuYzQ?oc=5"
+    },
+    {
+      "headline": "Why Jim Cramer Says Newly Public FedEx Freight Stock Could Be a ‘True Winner’ - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWUtuUFdfOVpuMHlkS3dLc1lCY0FfbU00Y1laaU83V1VNT25vbzlybGJlaFFqbU9fYjBGdlRzNkFYVDlsQ3JhN3RsbTd4TnNuWmZhUTFsd3pQczZEQmNIbXlXdGJJUG1OTzN4OFZxWk1NcVRYTDZ6VzA3cTdYTlRIS0k3ZmIxcXZQM2FLOW5vaFdoaXdlSnV5c25qS3hOS2hDNkNRUW1EWC0taWh2anNXV0hfclkxYzZBRWpr?oc=5"
     },
     {
-      "headline": "We're giving newly spun FedEx Freight a buy rating and raising our price target on another - CNBC",
-      "source": "CNBC",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcFhSR3hwQXR5bS1xeEhxRmEzWDJjc3JKTlRIVlhzUGJyQXpaWWpZMzZ6YVgwZ1lGUHQ0dGdDbHlWQ3Q5cV81a0hKdThSZzl5NV9vVHpFV2dvMFVIUEx0TlpIM05NemJaN0hnYTd1cldfODV3T1l5WDNmZkJzUnRqUV8xX2tsOXFOMFV0c0xMeVdOSU92V3djUVRKYi1HT09VVk52QnRnNmZGYVJDV255bQ?oc=5"
-    },
-    {
-      "headline": "FedEx Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcUFEQ1JUZ1k1VUhlNThFajRoSXVRbjhLT21DQVFNRExsc2kxcTNSeG9YWW5melNvYlE1YmpOV2U5Q0xGRjV3XzlJbElQMmQ3bGJlTVdDMVkwOV9meHcwRXg5V29BajlWOGQzVFdIQjZ6eDQ0Vk9tLWdaWERQVDFPTWY1YXRBM1BUMmdFVHVESXZvaTdOZC1GeS1VYzAwN0RmWjZ4LWVuZ1pEYnFsbVhUTnU2R0xlSGw5VFp0LXA3OXdvdlQ2d1YxRw?oc=5"
+      "headline": "FDXF Surges As FedEx Freight Spin-Off Joins S&P 500 - StocksToTrade",
+      "source": "StocksToTrade",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObXIxUkhpX0pMSFN5Q3FjXzZIMXdWbHl1VjFfX0Q0bUF6UVJYVEE2OGtwWWtHNWM5UGxGOExOeDFMN0NZdVRkaGloaXhVSWhEbi1JdWdmQmcxY1N0X2pNOGpGOUNzUlloOFNObEdZZzFVeU1VSHRrUWhadTBQRUNmT1VVSVBxRTNQRGc?oc=5"
     }
   ],
   "insight": "Tracking FedEx (FDX)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:38.851Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:11.629Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    223.72000122070312,
-    225.22999572753906,
     233.3699951171875,
     230.8800048828125,
     229.1999969482422,
@@ -24,11 +22,11 @@
     214.36000061035156,
     207.6999969482422,
     206.63999938964844,
-    207.64999389648438
+    207.64999389648438,
+    207.52999877929688,
+    210.74000549316406
   ],
   "6m": [
-    234.2899932861328,
-    228.75999450683594,
     238.10000610351562,
     241.61000061035156,
     242.47999572753906,
@@ -158,10 +156,11 @@
     214.36000061035156,
     207.6999969482422,
     206.63999938964844,
-    207.64999389648438
+    207.64999389648438,
+    207.52999877929688,
+    210.74000549316406
   ],
   "1y": [
-    227.58999633789062,
     225.27000427246094,
     223.61000061035156,
     224.88999938964844,
@@ -410,17 +409,19 @@
     214.36000061035156,
     207.6999969482422,
     206.63999938964844,
-    207.64999389648438
+    207.64999389648438,
+    207.52999877929688,
+    210.74000549316406
   ],
-  "lastClose": 207.64999389648438,
-  "oneYearReturn": -8.76137034239519,
+  "lastClose": 210.74000549316406,
+  "oneYearReturn": -6.450037068283199,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Did Lowe's Stock Drop Despite Beating Q4 Estimates - Kavout",
-      "source": "Kavout",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT0pzTlg3NV9lN3JoUHpzNEdkVnVxMmNlN0N6ZzRFeUlNb3QtWGNNeU4yX3RHWWNXWjg0TDhROVBNOVRPTktlU0tld0JJTDBrSWlNbnhtaGgwTGtCeXVCVWhQU1I4a2ZESTNSSHNkcGxMa0xYR3JUOC1DYXhGeHNFeHJrS3dzeFZaclAyWERXYkZiYnM?oc=5"
+      "headline": "A Look At Lowe’s Companies (LOW) Valuation As Housing Market Concerns Pressure The Stock - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2JjQUZPNlo0Z3NySmNBb3lTeWpidHhyMWZCYk5RS3MwMHhDWm9CTVJqZWlnRG40SlQyMFdlU2g5eDJldzRESUd0TkpFQUxJcDlQampNY2didGExRXRfMThoRFNWTzE5Z1pXdkxDeVZxTTJuLV8xQ1FCY1NRUUJac2Z6VElwVkdNZG13cE9oMXF3ZkZfZDFvRE1NY0E0aWs?oc=5"
     },
     {
       "headline": "Lowe’s Wants to Help You Change Lightbulbs. How That Could Boost the Stock. - Barron's",
@@ -429,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVcxZERqcndJSUtLelM5THFoUHVmWlk0dEIyQjZvU0pmMGFRZzU4ZmZMaDUtdVFnc2xCUHNrcFVVV3Y2M3ZPSVowYzlUOHVwN2MxZjFFekE4T3JFN1dLU25Xdl9HZ2NEZEk5dXViYThiYjhaZTBBcWZ5ZGhfQkQxV29VUE8?oc=5"
     },
     {
-      "headline": "A Look At Lowe’s Companies (LOW) Valuation As Housing Market Concerns Pressure The Stock - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2JjQUZPNlo0Z3NySmNBb3lTeWpidHhyMWZCYk5RS3MwMHhDWm9CTVJqZWlnRG40SlQyMFdlU2g5eDJldzRESUd0TkpFQUxJcDlQampNY2didGExRXRfMThoRFNWTzE5Z1pXdkxDeVZxTTJuLV8xQ1FCY1NRUUJac2Z6VElwVkdNZG13cE9oMXF3ZkZfZDFvRE1NY0E0aWs?oc=5"
+      "headline": "Lowe's Subscription Push Links HomeCare Plus To Dividend And Cash Flow - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdnVuX2FzcmQyZ1doc1hnSTk4OHUwOHpnMC1aOHVBTXhncmtrNFRjSTQ1RW8xb2hLaXJKSjdyd2lhZjBuMVhNVTR6MkdON1dBZTRpbHBjS2E0TnNuS2lUdW1wME56RnpMNDRiMGhSS2MzWjkzbkZWenNCRFVjdTNMUlJRZ0ZGcko2TzMwWVZMMnBNOUFKbHpLb2RLWDhuRW9kLU1ibDJoM1M4eFd5V0pEWGNyVGxELTZoNENHUU4ySDAtc0RRaVBF0gHMAUFVX3lxTFBENWwxM1p5OVY4MFpzQ2hEcFhNclpsUW1YOWhjNlk4Tnp3TGRIYzNJYjg2VUxXTnFnWGliVXBnMGFQNXNXMEFuTXVRakE2dWV3blZkZHF6YWZ6NEdfYzNsUDVWTDAwN3RmZy03X3ZFLVpiRUR3Z1JqZnZ5M3VyYUQwLTZwUVN2cUcyUXpmV2NLSmlUQ0RpbGc2SkJCS1c4NUR6WlBpTG9PdV9WZVpOYi1PZHpwcHFVaE96ODltc3JqeTIzYjNpMXNaVFBLYg?oc=5"
     }
   ],
   "insight": "Tracking Lowe's (LOW)."

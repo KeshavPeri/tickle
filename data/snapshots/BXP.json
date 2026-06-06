@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:15.166Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:47.018Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    58.58000183105469,
-    58.529998779296875,
     59.84000015258789,
     59.459999084472656,
     59.43000030517578,
@@ -24,11 +22,11 @@
     60.0099983215332,
     59.130001068115234,
     61.209999084472656,
-    60.900001525878906
+    60.900001525878906,
+    62.04999923706055,
+    62.33000183105469
   ],
   "6m": [
-    70.04000091552734,
-    70.66000366210938,
     72.43000030517578,
     72.70999908447266,
     72.36000061035156,
@@ -158,10 +156,11 @@
     60.0099983215332,
     59.130001068115234,
     61.209999084472656,
-    60.900001525878906
+    60.900001525878906,
+    62.04999923706055,
+    62.33000183105469
   ],
   "1y": [
-    71.80999755859375,
     74.12000274658203,
     72.58000183105469,
     72.88999938964844,
@@ -410,12 +409,20 @@
     60.0099983215332,
     59.130001068115234,
     61.209999084472656,
-    60.900001525878906
+    60.900001525878906,
+    62.04999923706055,
+    62.33000183105469
   ],
-  "lastClose": 60.900001525878906,
-  "oneYearReturn": -15.192865065637656,
+  "lastClose": 62.33000183105469,
+  "oneYearReturn": -15.906638530273161,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "BXP Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSHkyaUt2REItQklwYUlickgxbWV5WUlvMVFtT0VEZU10OVp1dWFFT2NMZzVMaVBXckQ2YlBUSHJCV3NnNkx5WjljMnREeVhBWHRKR1h2X29tWXpxNmhmQlZXejBveW5DSDJyNTFTZXNGRUplTEJZOElPdXM2blNXWDJlY0g0Zld6Nnd3cVREQnZyaUN6OFBNSnBuQUZIcnVBUmtLTG9fX256TnFtcFl4WGttNUtKTmxNejhfdjViMzV0V0Rsa1dCUVBRV1ZHcnNUSko0?oc=5"
+    },
     {
       "headline": "BXP (BXP) CFO converts LTIP and OP units into 23,981 common shares - Stock Titan",
       "source": "Stock Titan",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRm0xeUZOTVhYSGg5SV9UWFUwaHZTLXVrU0MxR2E1aTd4WHJsYmZ6WHJER3JwU1pDUnJ0YS1lbGRUVW5YSHlnQ3NmcFJOXzM5VmFNejQyMlJpWEJUbTFmVWN5dUZfNXktc0hPZWVfRW44c24zQzNjLVJEVFBiZmpaeHJXb0pEcVI2dWloN2U1d1Z5cU5Yai1ocFQyMm1CM295Rmc?oc=5"
     },
     {
-      "headline": "BXP Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNVhLeXhoNVU2M3FHVnd4eUY2REFLWjlKNkNNblJESHNCZHZxdmZZSzVsOUwyTzFyTVM5WVBWUTlWNGZtUUMxY2pXeDVsTGc0bkFyaU1iOGtySFdRUFY4WXYta2w1QmY5RlpwMGZJT040TGM1bXBmUmhZdnFleHUxVWZUTV9BVXhiR24wTV9Tc19LUWlmWUo4cm43OHZzR0hOWXZIRTBFNjFfOXl2X1JnX2lKVldHdXVZb2ZB?oc=5"
-    },
-    {
-      "headline": "BXP Technical Analysis & Stock Price Forecast - Intellectia AI",
-      "source": "Intellectia AI",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MbG1LeDBNMUVZU1BkNnQ2RnBfdW1sV1lZNXRVQjNrSjRqM0s2V1FBSXBaNjVEeURpREluVUN4NVVSaXpNR3ZSdDQ0c3dIOEcxMFREY2hGRzY?oc=5"
+      "headline": "BXP Inc (BXP) Shares Surge 3.5% -- What GF Score of 71 Tells Inv - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb3hCSVhZZEoxTVZWOHF4R2ZkRTdpcmdwYjNNSENSUk4tMXNQd1dnOFdGdktQUktOWXBLSzZMMmxYQ3hFX2VkdWxlaWF5YUJtRi1QeVlRYVA5NkpNU214OHhaZ0x2WDk2RDhoTXJobmRsZlh3V3NpZGNRc1RQUFRjYVJsejI0aHhTQzNhcVlyck42WXZ3MkZud25QYW5TdlRETmlLT2FWZXBPajBocU1XcEdLYlk?oc=5"
     }
   ],
   "insight": "Tracking BXP, Inc. (BXP)."

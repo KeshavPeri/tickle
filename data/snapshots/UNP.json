@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:51.688Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:24.359Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    263.4100036621094,
-    264.010009765625,
     268.2300109863281,
     264.8900146484375,
     264.6499938964844,
@@ -24,11 +22,11 @@
     262.6400146484375,
     263.5,
     264.67999267578125,
-    262.1300048828125
+    262.1300048828125,
+    263.8999938964844,
+    272.32000732421875
   ],
   "6m": [
-    226.22000122070312,
-    224.5,
     229.1300048828125,
     230.66000366210938,
     231.8300018310547,
@@ -158,10 +156,11 @@
     262.6400146484375,
     263.5,
     264.67999267578125,
-    262.1300048828125
+    262.1300048828125,
+    263.8999938964844,
+    272.32000732421875
   ],
   "1y": [
-    220.64999389648438,
     223.42999267578125,
     224.13999938964844,
     226.60000610351562,
@@ -410,29 +409,31 @@
     262.6400146484375,
     263.5,
     264.67999267578125,
-    262.1300048828125
+    262.1300048828125,
+    263.8999938964844,
+    272.32000732421875
   ],
-  "lastClose": 262.1300048828125,
-  "oneYearReturn": 18.799008444925693,
+  "lastClose": 272.32000732421875,
+  "oneYearReturn": 21.88158092068762,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Eric Gehringer Sells 2,991 Shares of Union Pacific (NYSE:UNP) Stock - MarketBeat",
+      "headline": "Union Pacific Corp Stock (UNP) Closed Up by 3.21% on Jun 5: Key Drivers Unveiled - TradingKey",
+      "source": "TradingKey",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkhBU3hLc25CaW5SZ01JU0hTanVZeXhMT3dpTGFLLTFwcXNpVTZnUENwd2R5a2hWUUlHMVZ4cF9sSHhLWXkxb0hrSlpoTzdGQ2xhNDdpVGl6NFlZRW1DLUdXcmNyamI0RUtVYzBYal81dnZsNW9xbTM2SVpVeG1paWc4ZkF2QUNDQUE?oc=5"
+    },
+    {
+      "headline": "Prudential PLC Sells 43,540 Shares of Union Pacific Corporation $UNP - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnZHazNYYnBsdnBVdExLUjNYQk9FSmNvT0VfaGNpR1QzT2pxTjVTTGVpRnZrRVRySVp6QXNWNnBTRHYzSkJUWnhEeGxXMnNGVEZCaWQzSk9fbm92Yk13MGpVTi1GdzJ5aFJMNk0xYWw3emZXLWpnMGVNU3d3WVRqMm1rSVR3NVJpV0MwdWpOVGgtQlhqUnIwQTNIaHVOUkl5WTVBUlFfVDhUZ0VSM1dENjZDdjRwYkZ6?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjJiTFBJcS1Pcm5iYkpqVkRDUVNqRlF0YWNkdjNnOUUwMTZOal9KRzFYRDFKVzdEWGJHelRfVzJYY1NsX3QzUklkR19jSmFhdmtzR3F1RjVkQ2JWSnBqV3oxWGpocGRCRlYySEhsQ3EzdUtWSjRUdzA0LTVQUk5uaEZWNUZYejlwQUFwRGRJT29lS2d2QVU4SEd0eWxvTVo4U0dzcWUyVmxnblhUYm9Lb0RyOEpKYy1FNU0tcWszY0VDU1R3T1E?oc=5"
     },
     {
-      "headline": "How Is Union Pacific’s Stock Performance Compared to Other Transportation Stocks? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTWpnYm5HeU9jd2ZTdUdFS2RVTUQwLTdHNVlWcllFOHJWaXVZNG4zSnNMaTdkZWV3ZkdVd3gwVjg4OFZjVU1KT1RVdUhaOF9wZzc3NllwTWtEdEdobXZVdkMxXzBUVTZSTGl5N1J5dUEtaG9xY1pwQzNEV0plQlcta2xGdzVFWW5lR1UzWU5UckpNeVNQSlFycURxMkRaZWxfRlJURWxReTM?oc=5"
-    },
-    {
-      "headline": "Union Pacific (NYSE: UNP) EVP Gehringer sells 2,991 shares in open market - Stock Titan",
+      "headline": "From brakeman to CEO: Union Pacific leader Dick Davidson dies at 84 - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVEtYmo2Szk2aXNZY3lKMUNlS19lNHpBd2RDZWhnc2ljQkdzemtTOEZEQndvTGZyOUlXSERHMjQxdnlZRC1GS2VUdkVjZEVMS1hfRk5EZDBMQXZFUW5GQmcxLWlKS0pwVXpJRXQzSHZTTmJDVXcyZVBGSHRaNl9lTy1YQWFJMllfNURxS2FWMEQ2X0JtM2pHV1FGNDVTYmh4RVNIbTZ2RmdPU2RwMEhHcQ?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0ozUU1PUEFzQnExUVFlc1hCNlJHRkFFcDdfUGwxUW1YMVNIWlBPQ0lFWnZfckV6TV90MXh3Y2hOX1VGXzBtUDRIa2NLa2hncXRkd0FGNXFTelFaU2ZoVnVtY3hVYWI4cmRwdU5NZFAzVDBJWHhmLU1heFRGXzRBVUVZRXNtUTRiMWRUbE81a1B0Vjd5Q1BWaVZyUS1SdVkzMk55SUw0NGhLdS1GOXF4d1ZSSmY2R1lYOFE?oc=5"
     }
   ],
   "insight": "Tracking Union Pacific Corporation (UNP)."

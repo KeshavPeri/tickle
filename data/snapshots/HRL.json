@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:33.797Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:06.310Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    20.65999984741211,
-    20.93000030517578,
     20.700000762939453,
     20.75,
     20.440000534057617,
@@ -24,11 +22,11 @@
     23.229999542236328,
     23.350000381469727,
     23.350000381469727,
-    23.1299991607666
+    23.1299991607666,
+    23.290000915527344,
+    23.6200008392334
   ],
   "6m": [
-    22.690000534057617,
-    22.600000381469727,
     22.979999542236328,
     23.229999542236328,
     23.209999084472656,
@@ -158,10 +156,11 @@
     23.229999542236328,
     23.350000381469727,
     23.350000381469727,
-    23.1299991607666
+    23.1299991607666,
+    23.290000915527344,
+    23.6200008392334
   ],
   "1y": [
-    30.709999084472656,
     30.65999984741211,
     31.190000534057617,
     31.149999618530273,
@@ -410,29 +409,31 @@
     23.229999542236328,
     23.350000381469727,
     23.350000381469727,
-    23.1299991607666
+    23.1299991607666,
+    23.290000915527344,
+    23.6200008392334
   ],
-  "lastClose": 23.1299991607666,
-  "oneYearReturn": -24.682514326542567,
+  "lastClose": 23.6200008392334,
+  "oneYearReturn": -22.96151025184343,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Is It Time To Reconsider Hormel Foods (HRL) After Its Recent Share Price Rebound? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM25hY0NsM0owUXlxc0RNTnd4Vy1adnlyOGg2alBQbzA2Q2g5WF95YzRTZllXcndZN0ZMSUlkSWhSYTZwb0xoNkI2U25kRHBDNDVMbmtaWU12LTlYa3pQRjFSLXVLOU80OUpHREIxYjFmSGo1VkVCdnI0bE1ucnh0M1g5Y0Y2X2NBS0hGLTlqNVFPcjdRdDhmSUZycUxCbm9pR2IwYVJsdm9fRVRKbFZyLTZuc25GMTN3ZnNfaGk5TFJ0cmRkYW1rcmRCSWRGeTFfY3U0WXBoWULSAd4BQVVfeXFMUG9CQ1lkUEk3d0VkY29Ib0ZCeWJSMnIzaXJKYW02T09GaHVBUGQ5dThMNFdnUmxJMWtHZS05WkxwQjBHTHp3cXg5bGZCczVoRXRKNEVsQWswdGpoRVNxWXpjU0xGcUxLNXMyT0lISWJjZlk0RE5KNTJxUEd1bjkwN3VRM3JIZDNjOXRlZnZHa19XMEFWWmtwNDV6S2FDbXVISjVVeXF4YXYzSzU0b21ydFVvd24xTzktdDU1QmFNX2pjaGJlQ0dqOGxTbjlkeXVjdDRZNXhWTmJVWXlkeG5n?oc=5"
-    },
-    {
-      "headline": "Why Hormel Foods (HRL) is a top momentum stock for the long term - MSN",
-      "source": "MSN",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOE0zUGtIMVdLRTY5QmtWcDhMQVJKU25QbzJKWVBMRFZsUGRJaE5nOHcxbThQdnU3S1F1QlBSNUZuemZ3Tko2NnBGTlhGVVFHM3htTm82OU5Wc1hHZUQzTkswRTJSeWZCUnNfeE5oT0FpNE5iVG1yX1dBUk1SRHVDUzBhbjhWQlNET01KamdEZ0FYX3lRc2paeFNPQzBUMk0xa1F3S0tHcHdQZkYyRXIwVlBweUJNMVE?oc=5"
-    },
     {
       "headline": "Hormel Foods Sales Rise as Turnaround Strategy Progresses - WSJ",
       "source": "WSJ",
       "when": "2026-05-28",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44NktBVlRtT2I1QVFLVGkzcS0tV2JjNElaZ29fdWxVN3o5Yld6Wm9vSGc1dzBPMmhBalJRcW5yNURab1pUV2ZHRk5Ba3hDWkhkaU1rYmpUUFJEcW5PSmVVTXN5MFFRdGh5cU5RZXB1ZkVEVFV1clotcTl4WDZlVWs?oc=5"
+    },
+    {
+      "headline": "Why Hormel Foods (HRL) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNS1vaV95Njk3VTI3cjQxSG1qWW1zMkVMLXN3V2t2VDhubnBNZWFiekdTdWJvcTREejcyZm1LZFEtQk5aM3hmeFhSQmstMXkwaXp3bGMwS3c5V2xzR3YteDl1c1FrZ3RYenhDY1VWNVFwNzFFbjR6UjBZRGNfVTlBblhxRnhkWUR3LTFMTHJpQ2huUTg?oc=5"
+    },
+    {
+      "headline": "Is It Time To Reconsider Hormel Foods (HRL) After Its Recent Share Price Rebound? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM25hY0NsM0owUXlxc0RNTnd4Vy1adnlyOGg2alBQbzA2Q2g5WF95YzRTZllXcndZN0ZMSUlkSWhSYTZwb0xoNkI2U25kRHBDNDVMbmtaWU12LTlYa3pQRjFSLXVLOU80OUpHREIxYjFmSGo1VkVCdnI0bE1ucnh0M1g5Y0Y2X2NBS0hGLTlqNVFPcjdRdDhmSUZycUxCbm9pR2IwYVJsdm9fRVRKbFZyLTZuc25GMTN3ZnNfaGk5TFJ0cmRkYW1rcmRCSWRGeTFfY3U0WXBoWULSAd4BQVVfeXFMUG9CQ1lkUEk3d0VkY29Ib0ZCeWJSMnIzaXJKYW02T09GaHVBUGQ5dThMNFdnUmxJMWtHZS05WkxwQjBHTHp3cXg5bGZCczVoRXRKNEVsQWswdGpoRVNxWXpjU0xGcUxLNXMyT0lISWJjZlk0RE5KNTJxUEd1bjkwN3VRM3JIZDNjOXRlZnZHa19XMEFWWmtwNDV6S2FDbXVISjVVeXF4YXYzSzU0b21ydFVvd24xTzktdDU1QmFNX2pjaGJlQ0dqOGxTbjlkeXVjdDRZNXhWTmJVWXlkeG5n?oc=5"
     }
   ],
   "insight": "Tracking Hormel Foods (HRL)."

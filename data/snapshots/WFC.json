@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:52.922Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:25.728Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    79.18000030517578,
-    79.88999938964844,
     80.41999816894531,
     79.16000366210938,
     75.63999938964844,
@@ -24,11 +22,11 @@
     77.54000091552734,
     77.16999816894531,
     79.44000244140625,
-    78.68000030517578
+    78.68000030517578,
+    81.62000274658203,
+    81.94000244140625
   ],
   "6m": [
-    83.11000061035156,
-    84.66000366210938,
     85.0999984741211,
     85.55999755859375,
     85.8499984741211,
@@ -158,10 +156,11 @@
     77.54000091552734,
     77.16999816894531,
     79.44000244140625,
-    78.68000030517578
+    78.68000030517578,
+    81.62000274658203,
+    81.94000244140625
   ],
   "1y": [
-    74.9000015258789,
     76.33000183105469,
     76.45999908447266,
     75.44999694824219,
@@ -410,18 +409,14 @@
     77.54000091552734,
     77.16999816894531,
     79.44000244140625,
-    78.68000030517578
+    78.68000030517578,
+    81.62000274658203,
+    81.94000244140625
   ],
-  "lastClose": 78.68000030517578,
-  "oneYearReturn": 5.046727239372402,
+  "lastClose": 81.94000244140625,
+  "oneYearReturn": 7.349666547589609,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Wells Fargo reveals unexpected best days for stock market gains - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcHhHa2NvQzk4c2dMVFRKYlE1RkN5R2x4QW02SkktQXo0WGRjeFNvdWJzeldDdXRMSm1LZXBZakdva2hDSTRYN01ranJkVU1ybUVNN3FnR0s1NmZ1Tnc3T1NnTUZZQjEzVUNIalhtV21TYW9OcUQ1dl9GeFJOUVFWWkZacGZ1cU5mX1FrWjBKUEVoaTlrdGU0Y3d2UXBPeVJ0Tmd4NGpuT21BZw?oc=5"
-    },
     {
       "headline": "There's a great buying opportunity for this struggling bank stock, says Bank of America - CNBC",
       "source": "CNBC",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWUhhc2J5TW9kRmdXajVZQVR6RE5ZWXZ5RnlXcURFZW1HUHZTX1FObjdlSTdaM0Ewd1Q3YUs0eGlrX1o1aW16N1VFZGlrckhUWi1MRnh2UGh1VEh5a1NzVnpiRGdrZGluYnV5MGp5VnlEZHF0RDBpQ3ZWWmk0V2JqbmhSWWNWVFVqRzRWcmt6b3lXemh1M0ZZMkd4Q0Ruci01UGpUSDNyakpZOVM3bWdpMzc4TUlrTVhKbDhnZW5lN0I?oc=5"
     },
     {
-      "headline": "Oscar Health stock upgraded at Wells Fargo (OSCR:NYSE) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVWtaNXpXOFc2Um95NVdPYXBRMWdkdVhmdWZObXUtQjg5a2J4aldIc21hZTFfX3pqb0k2bVNfQzY5aDgydTktT3oydXBMS2diYWxkTml6V3BBQ05QcUhyc0g1eG4zcmdYbmRSYWpnT2RCYWhCWjFuT24wU255bS1UMU14TQ?oc=5"
+      "headline": "Does Wells Fargo’s (WFC) New Bond Issuance Mark a Turning Point in Its Post‑Regulatory Strategy? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNXzA2dVdMbUtNQm5jeVNwS1VRVVVqX0hSUGZFR0ZRV3NUeEJrV05Kci1jU0tFZnRqdE9vWW9kSnBvM2RseUxvcEdWOWNQRDlrWDJoMFR1RVVYMXM4ZXdaWWZVZUg5UGVLMmQ0Qy0wLWU5YUp5TVZtTTNwVnNPVTNOQmdkWmFnX3JmOVVKajV6WUFUUHYtTEUwQzhsVy1VYjhUdFk0TVJBWTkta200dm9HMi1FeGNvQnItbW1JWHBtME9vQdIBxwFBVV95cUxPQUY4cG13T2VfUm5zQVR6N1JfRVpCc2luQ1V2aU10SzROWElITG1TcG05cnNaX1F0MjZVZG5mdUJrUHBheE1vQ2d4YzhDZTlodXpwLVZNNlNrRVB6YWNteV81T0dEMFJGaHplQjFpV0lVS1VDT2ZqWUVrUU93TlRlWGt6SnRsY2xvX3EzRWozZjh3cmhzeVZrUG9FWWRFc09yTXRNQ1U2NG14MkRZSzNZalJFUWJrZjlIenVIYkNCOHJVenhodTQ4?oc=5"
+    },
+    {
+      "headline": "Is Wells Fargo Stock Underperforming the Dow? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-30",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONzVNX3VFclkzU2JBWGhhalZvVjZGLWY4RmtCQmhMTEl6NHgtNW9HQUxhclhxbS01akVGSUk0alhsNnIwTXdwNUJkb2l4TC1OR3kxR0czODJLbTNyUHZYcVF4LTlzSjBFb21mU01ROUMzZWFBWjgxRGtWd092NFhGMEZfaF9nVUhYRnp3M3pXTFd5eWpFSG83dUhvWEhKY2xaaVJ3Tw?oc=5"
     }
   ],
   "insight": "Tracking Wells Fargo (WFC)."

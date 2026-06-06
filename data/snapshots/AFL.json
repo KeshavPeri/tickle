@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:08.179Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:40.444Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    113.33000183105469,
-    114.45999908447266,
     113.4000015258789,
     113.5999984741211,
     113.0999984741211,
@@ -24,11 +22,11 @@
     112.41999816894531,
     112.11000061035156,
     113.62999725341797,
-    114.5
+    114.5,
+    115.29000091552734,
+    118.23999786376953
   ],
   "6m": [
-    110.9800033569336,
-    110.37999725341797,
     111.62999725341797,
     110.55000305175781,
     110.30999755859375,
@@ -158,10 +156,11 @@
     112.41999816894531,
     112.11000061035156,
     113.62999725341797,
-    114.5
+    114.5,
+    115.29000091552734,
+    118.23999786376953
   ],
   "1y": [
-    102.20999908447266,
     103.68000030517578,
     102.51000213623047,
     102.2699966430664,
@@ -410,29 +409,31 @@
     112.41999816894531,
     112.11000061035156,
     113.62999725341797,
-    114.5
+    114.5,
+    115.29000091552734,
+    118.23999786376953
   ],
-  "lastClose": 114.5,
-  "oneYearReturn": 12.024264774105053,
+  "lastClose": 118.23999786376953,
+  "oneYearReturn": 14.043207480456482,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Japan Post Holdings sells Aflac shares worth $2.2 million - Investing.com",
+      "headline": "Japan Post Holdings, 10% owner, sells $1.88m Aflac stock - Investing.com",
       "source": "Investing.com",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXdQUnlBVEFHdVo1MjdvMHpoNXhTU0hBNlpOQVd1Wmt4c2RwNDYyM0tBYmo5Ymd6ZlE5V3YyckthM04ySnV5MS0wcEpNampqUVRfOHdwRXp3U2dpX3kzOVJDR3N4eTBHQjBpSG1JT3N3ZWFXVENCZjcyZDIzdUZfdU5DV0FvRDQ4NElsYzVTRE1hWGxQMU9sUEJ4V2g3ZkdKSmxacDg4d21Ja0Z0WjVsLWxiemFDY2VwNkM1YQ?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHhad2ZmV09pV2U1ZWdYUk9hYVpESzVHNHpvQ0d6OHZxTlo4X0pJb254WTc4eUlmVVBYMVZIR2xtcHRYRE05dWtvOGFzQ1ZwdUowMjR3aUNCS0V2YmU0U0gxUWNsV1ZKYmpZTDMxUVZIRHpOTFR2Y2pfbFRTZnA1Vk1IU1lqZkdobGtqVVZDVWQ2ZTMwQkVDSm80NnA1b3NBQzB0VlVYMHZGemFKT2hZSDNBaXFUN3oxV21hdW81eV9LQQ?oc=5"
     },
     {
-      "headline": "Trust tied to Japan Post (NYSE: AFL) trims AFLAC stake by 9,750 shares - Stock Titan",
+      "headline": "Aflac Stock: Is AFL Outperforming the Financial Sector? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX3Boa2EwLThLdnZKTE9DUjlJbEZmamJBRWllb1NRVzh5b3pPd2tEdk92cnE3T2R3V09CcFVGejdkWkNJd2R6Nk8tUjQ2ZHpqNUU1VElBYVdPUzVzWTlQcE51dzFQZzBHb0dBWTVSWFJ6T21VT1hENExqRDZOVVNCV1ZQTV9MMU5YZUVxanl1MDFlcXc2VF91Q0F1UHloZw?oc=5"
+    },
+    {
+      "headline": "Japan Post (NYSE: AFL) linked entities sell 16,300 Aflac shares in open-market trades - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWG5tLW1kRWdNM0NqOHRPWXNxZVlXc1pmZ2xRcnZDRFpGMG9SOFAzRnd2bjc5ZlZEcXlpWG9RT2J1eV9KRnl6VTJ4SkE3NkFBaWI4SDdlc0Y3UDEwUUk2ck45MlFGanNpZ09vZi1pYWRDMFh6ZXpIb1JOUmJEV0w1WDJKeGxFWUJfNU1NOTNFWVJnRjd6amR4S3QtV1ZEY3FyeXN0cQ?oc=5"
-    },
-    {
-      "headline": "The Bull Case For Aflac (AFL) Could Change Following Q1 Earnings Beat And $1 Billion Payouts - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOWkxU0NLT05hbGR6SThESjJla3lwWFVzdTJiUEpWZlNJN3p2ZWZ6WVRXNFJJQUdNcVlqVG5mTnFnQk1jSnIxUkhPUHk4blM5LWxkTkpqNVQwS1gyLWFKSENMUzRBQU5pb0l0UGFTTmg4Q1d0MWk0XzNXajRqLTlUZU1xWDN0dEdELUZQM0ZTbHlwQkhrQlo3RU1mdVppemNSckprNVhZdzBhaGNLVXdZd0NTUWNGQ291VGtEWTFPeTZDRGRo0gHEAUFVX3lxTE05aTFTQ0tPTmFsZHpJOERKMmVreXBYVXN1MmJQSlZmU0k3enZlZnpZVFc0UklBR01xWWpUbmZOcWdCTWNKcjFSSE9QeThuUzktbGROSmo1VDBLWDItYUpIQ0xTNEFBTmlvSXRQYVNOaDhDV3QxaTRfM1dqNGotOVRlTXFYM3R0R0QtRlAzRlNseXBCSGtCWjdFTWZ1Wml6Y1JySms1WFl3MGFoY0tVd1l3Q1NRY0ZDb3VUa0RZMU95NkNEZGg?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXFmcDBlOVUzSnJIZ1RvN05KdTdGRkIzRG1iRmhoSThLRW85NTlCblRiMlJvNVlUdjZQZ0Vnbnk3MXNYYVJEZzhOZjVBLVNOWE5JQWphcndFTTY4UnBOd3VmczJ2NnVaVUlrU05JTHJ4ckxtTWZXSDNHNjlKWXBTUlRRLTFULVh2RTJJV210N3hxQzNPRzZWejY2bVhvbFEtTC1pOA?oc=5"
     }
   ],
   "insight": "Tracking Aflac (AFL)."

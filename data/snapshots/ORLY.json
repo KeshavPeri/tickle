@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:44.234Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:16.890Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    93.9800033569336,
-    95,
     94.77999877929688,
     94.58000183105469,
     92.95999908447266,
@@ -24,11 +22,11 @@
     86.87999725341797,
     86.63999938964844,
     86.2300033569336,
-    87.37999725341797
+    87.37999725341797,
+    88.4000015258789,
+    90.33000183105469
   ],
   "6m": [
-    100.43000030517578,
-    99,
     101.37999725341797,
     101.51000213623047,
     101.69999694824219,
@@ -158,10 +156,11 @@
     86.87999725341797,
     86.63999938964844,
     86.2300033569336,
-    87.37999725341797
+    87.37999725341797,
+    88.4000015258789,
+    90.33000183105469
   ],
   "1y": [
-    91.45333099365234,
     91.8479995727539,
     89.87333679199219,
     91.70999908447266,
@@ -410,12 +409,20 @@
     86.87999725341797,
     86.63999938964844,
     86.2300033569336,
-    87.37999725341797
+    87.37999725341797,
+    88.4000015258789,
+    90.33000183105469
   ],
-  "lastClose": 87.37999725341797,
-  "oneYearReturn": -4.454002599989606,
+  "lastClose": 90.33000183105469,
+  "oneYearReturn": -1.6527281473308457,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "O'Reilly Automotive Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYWJCN3FuWUFienpoOTZXaEE5M1BiZ0dESmE1dzhlcldhd3ZpR2tfWVVlTzFFRlVIXzQ1a1p5TmQxd2hybEdScmt4RW96a1FaQ0otVURoSUwxYXAyTEUwQVBMTmZJWUVOMVlQQUUyWmUyeWNKaHVPNlFqdzBYcERJbmoyWnhnTGljZy0yT2FOS1lwelA0M0lSYWZ4ZmtWYlQwWkV2NG5vN3pnYWFCeXE2MnpIM0J3OGpMTXhES3VKM0hhTEYzaHZKY0NnSWZzdHY2Vzh1T1BqSXJzTUVzN2drXzN1NUZFWDhO?oc=5"
+    },
     {
       "headline": "O'Reilly Automotive Stock: Is ORLY Underperforming the Consumer Discretionary Sector? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWNBQjJwa3FheTV4eUQ3dkxkMUVfNmwwZnVQa3htRWFnNTlRLURGRURpajVnVXZFdXJHdVNGQTU1LVBVaDljbnZ3M3BDdkc3VldPdVNRS3RVcEdfX2pGZDRUdkdqUWZrdmo5bEh3SzA0MXJFOU45NjBJRTd4ZzFpaW5mTXJIYXV5WThPeUg4Z0J0NmFmeUJEakZaRzJfcU9CSVdsUFVlN1lZYTJVRFBN?oc=5"
     },
     {
-      "headline": "Goldman Sachs Group Inc. Acquires 835,518 Shares of O'Reilly Automotive, Inc. $ORLY - MarketBeat",
+      "headline": "O'Reilly Automotive, Inc. $ORLY Stake Raised by Westfield Capital Management Co. LP - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd1o1b3VCcFlJM0JkNWxyMEJhWHRjS2JOSGVtNGdhRVN6RTU2RVczWGxleUtpRWw5VHFZcEZOcEFpcWFlSm9QLXE0TTJOMTlnUGFtLThBWWZLWU8zbHQ2bU9LOEtuTkZtUlZBSTFfdGJ4eGxnQXVqQVJGdzhwLUdTSDFtZGVWTG95THZqaC1iblFNd1dFTWlyU3JGTncyQVZRZngtcnhBeVppVC16QmtoTVV2WlNPZDhTQ1JBNnNydGpvNGVGc0dNWU1IWWdyQ2t1YS1LZw?oc=5"
-    },
-    {
-      "headline": "Is It Too Late To Consider O'Reilly Automotive (ORLY) After Its Strong Multi‑Year Run? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWGFlVTdROTNVRmRaajZzalQ1TDF1RUllR0RaS1U2d0RPRF9xeTExN2w0Tm1LRGhvMENzdXpHQmxiOV9KYXBxUldFaWcya3JzcV9xS3A2UXpzZm5YZzlJOXFBYVFJdmpZRzY0ejBFSTlTSnBxME9yWnZIak1VOTlZZE1BMWtOR3hrNUYyOEcyOFhMTXMyVks2bDFneDdpMVFlcy0w?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS2VLRFVmVVdwZUswdXEyTnN5VkppZjhjN1ZackNRZmgzSXZVUEJPLWpFbk1pVk9ISXVxN0RGeUVXQk9pcVI2RlJSUy02aE8xMDEyXzRGelBUMGhVMkhUMzNCX1Vsc05GTnVfTS1pck9lM3RRTHZRR2hhUXhuUGRvLUViT1dubzVEQnlNUFdDTmtBbkppdlYtUDQ3NFBtMDhJMnpzQl9wQU5aVnBjX2hYVVhPNWFlMUFtV21MQ3laRkNpVmh5UGh0dEk5RlktbHlQb1M0ZkN3?oc=5"
     }
   ],
   "insight": "Tracking O’Reilly Automotive (ORLY)."

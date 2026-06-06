@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:49.673Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:22.436Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    127.76000213623047,
-    128.82000732421875,
     130.19000244140625,
     125.87999725341797,
     125.25,
@@ -24,11 +22,11 @@
     127.06999969482422,
     123.70999908447266,
     123.18000030517578,
-    124.80000305175781
+    124.80000305175781,
+    123.8499984741211,
+    122.56999969482422
   ],
   "6m": [
-    87.62000274658203,
-    84.54000091552734,
     86.58000183105469,
     89.80000305175781,
     90.62000274658203,
@@ -158,10 +156,11 @@
     127.06999969482422,
     123.70999908447266,
     123.18000030517578,
-    124.80000305175781
+    124.80000305175781,
+    123.8499984741211,
+    122.56999969482422
   ],
   "1y": [
-    93.5199966430664,
     97.31999969482422,
     97.3499984741211,
     100.7699966430664,
@@ -410,29 +409,31 @@
     127.06999969482422,
     123.70999908447266,
     123.18000030517578,
-    124.80000305175781
+    124.80000305175781,
+    123.8499984741211,
+    122.56999969482422
   ],
-  "lastClose": 124.80000305175781,
-  "oneYearReturn": 33.44739898577671,
+  "lastClose": 122.56999969482422,
+  "oneYearReturn": 25.94533505875347,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "DA Davidson Raises PT on Target (TGT) Stock - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOHlWMEJTSkJpN3VLWnVZOXYwVFlNNHFJZURfWm9SRTJINnRKWnluMlZfS19TYWFJY09vTjFmdEF3RDNQSE5DMFdJUGg0Q05yRUtoaWdCU2dTeDFJWWRWZndyWW45alI5WmJkSEdXbUNxMTRRYzQwTzRodENjUVNJbC1NRHp3NFlKNzU4RDR2ZDZ0SzR5eExpTQ?oc=5"
-    },
-    {
-      "headline": "Target Corporation $TGT Shares Sold by Bridges Investment Management Inc. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWC1lRVdGOFF5VDZDS0preTF2STVFUWt3VnRZUmNuejE1TGFvOWotRTA1ZFV0d1U3QWxUYm1ENmY3OWY0cURUYnhOZ3N3dFpiYWN3bzk3ejJHUlZXZF96UUdrVG5Pa2hTS2tMSkExMmI4bWtJVjJ6czVKbXI2RnVqM2dPRExfelViSkRXU1BHcnBUdlNsTDBpZzl5V3JGel9BVzhPWjFnSWFzYnZpaWZjZ1EzM0Q0aVRRb2c0RmwwYWpIZmYtYUxpRElJVE4?oc=5"
+      "headline": "Is Trending Stock Target Corporation (TGT) a Buy Now? - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUkpoRWc4d3R1TVJka3I4TDg4VXRZYWdFYU96ZmI5QVI1OE1ZaHpRY0FTSXJ4bXRUcTlPTVlNRXN5ZXJxblJzeEFyZHVESHQyMjdNaWZVMXNTTWFWLW94cGlTX2VaeGtxSVlUaXZOZUE3eEFKeUJSeGJjOVpQalgxZlJ6dW5sOXFlUWx4WEpUZw?oc=5"
     },
     {
       "headline": "Target Corporation Reports First Quarter Earnings - PR Newswire",
       "source": "PR Newswire",
       "when": "2026-05-20",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGtueWZmdk5OQVBOb0tEYjN4cWZJbUM1WHNxS3JLcjdvSEF4Ml85M0FheUZMSm5FZHZTU0FubkVBNmx4WUhiaV82WHM1RFo0d0F1R29wMHF6clZiOURfY1VXbU5FczlkYzFmOWhqdUd0NWtSZEg5YWZhWU5FWm5za0VCTEExYXg1dkVEejBUQnA3X3dESmd6bHc4OURwM2stQ1pleG03aEQ?oc=5"
+    },
+    {
+      "headline": "Lido Advisors LLC Has $24.67 Million Stock Holdings in Target Corporation $TGT - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLW43ajQwbXJjMzdzZTJVcVRodVlIandRc19WcTd5WjZ3QkJCQy1lM19sYjJWS3M5UWFtckVGUEhaZ1RjTG96cTJxZXZrTkJOUFd2T3A5QVdBdnhiZ1k1NU5zMklyVGFuSHZ2b3V4QVhKLWhWNlJmYWJCZEdnX3lIdGppTHlqQjdrSmFSUi1mNDg3cERDdEpmS3h5cy1vazdmSjEzSDRhYU9XZXFYamxfUThEbkhNUEh0MU9BVUkwV29LRUpxUk04OXc1UTdSYURTNlE?oc=5"
     }
   ],
   "insight": "Tracking Target Corporation (TGT)."

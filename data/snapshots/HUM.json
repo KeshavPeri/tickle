@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:34.485Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:06.975Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    237.9600067138672,
-    239.52999877929688,
     246.3300018310547,
     247.1199951171875,
     274.9599914550781,
@@ -24,11 +22,11 @@
     305.4200134277344,
     328.30999755859375,
     320.8800048828125,
-    327.5400085449219
+    327.5400085449219,
+    349.79998779296875,
+    350.0799865722656
   ],
   "6m": [
-    227.10000610351562,
-    229.1999969482422,
     237.8800048828125,
     245.99000549316406,
     245.77000427246094,
@@ -158,10 +156,11 @@
     305.4200134277344,
     328.30999755859375,
     320.8800048828125,
-    327.5400085449219
+    327.5400085449219,
+    349.79998779296875,
+    350.0799865722656
   ],
   "1y": [
-    227.16000366210938,
     230.6999969482422,
     233.07000732421875,
     231.97999572753906,
@@ -410,29 +409,31 @@
     305.4200134277344,
     328.30999755859375,
     320.8800048828125,
-    327.5400085449219
+    327.5400085449219,
+    349.79998779296875,
+    350.0799865722656
   ],
-  "lastClose": 327.5400085449219,
-  "oneYearReturn": 44.18911923954861,
+  "lastClose": 350.0799865722656,
+  "oneYearReturn": 51.746853577465146,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Humana Jumps 6%, UnitedHealth Climbs 5%, Cigna Rises 4% as Analysts Cheer Softer Medical Cost Trends - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObnRPYkJXNDZueG1XMTNFbjd5Q2JnSGRnTE5QVUFOOG9tV2ZuZXo4MWNQa2V4d21zWVNLSjhNaDVyOUZaeUo3dXBsQXN1WHZKN285UDZWTk1KZm5DVDdhRTRLeFUtQTY2c19SUTRNdEdiRHFjam9Fdmc2WVZQVURWdXNCelZEOVlTdmtSR20wdlRzNWYxOU5hOWJULS1sbzRIRVdzSndUZ2QzUFJTZGpqYXpoYjI5SWNXTGdhc0VBaGhxU0hxNmJHemh3UWswWEE1dU1rY0lB?oc=5"
+      "headline": "Humana Stock Leads Health Insurance Rally as Wall Street Cheers Improving Margins and AI Efficiency Potential - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMWoyd01jaWtEQ25rbnhlMXFsc3ZOVEtncS1FT0FvSW9UdEFTb3c0clc4bXVqSjJUUlV1bjVGSVFJbC1hbzVQX1dVMmZHeEdiN2Y0N1VFSmtzSGxwUElFMjctcFZXbXMxTDE0UFQyTFgtalh3MWs4dnRWWnJNR25OM0pWc3J5dWphVGJZTlpTMFg3aHl3NU5BMjdTM3hUcjgzSTQ1alZjQ3NpeXZ4N2xEekR2Tzdfd1ZWWGx1eEIyS2RYVmNQdUZ0cUlWQWlFRkVhY0Znai1rT3NIQksy?oc=5"
     },
     {
-      "headline": "Humana Inc. Stock 12‑Month Price Target Raised to $283.54, Implies 13% Downside - TradingView",
-      "source": "TradingView",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWFQ3MzZRN0ZqYWhzZUotYWNkRnBVOURaWG12UmllRXVoQjZpbE5uNXpuMkx1VXhZdXh6di0wd2l1dUxMYTh3Qzl6VTNTWllpT2xPZUoxQjdlQjhXYkpFV1k3QnRBSWtmZGFzemE0TmZtZ2dsd0VpdEZRSWxENjRpUFJLTHloWE55XzdQNWZiNzQ3TFVFak1KeURoZEd4QUJlbG9JbklZSHFyNFVIb3dBMHJRQkxOVUVEbjBjcVgxSFZuMlZMQVpfOTJSa2dIaXJQdU5z?oc=5"
-    },
-    {
-      "headline": "Humana shares surge on 2027 Medicare rate boost; UNH, CVS rally - Investing.com",
+      "headline": "Bernstein raises Humana stock price target to $288 on MA rate outlook - Investing.com",
       "source": "Investing.com",
       "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVnE4T1FwWEQxM0FZVlJkcmVMTWxnS3ppQWYxODgyNGQyV2xRWjRWaml5SG1taG9EdUM3OEhDeGduYnlRdUlIN052alpnM2VYQ3ZPTDY5UDRFN1hoZ2JQcnh2aW1MUHM2T0lJM05DX3M1VjhDUVZKRDBLTThXOG50SUJEd1BZSkg2VlNIbXh3TzVESWRvWG1KMkdMWHpKRkQ2OWUyeFNEV3dlSlZhMWpTbGlTR29YNUV3ajdja1ZB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDZRUnhaTW42enFoWFh5dmc4bVJsN0FrZlBTaG1LVVRBQk83WXEwVXIxNWllbTMtckNsbnJyVDZNWWpNSnRtcXRTTHEzSzJad00xY00tLTJPNGxRX1g1eWp2YVVOUno5QWphZlUxSlJELXZvRF95QjFaOG5GdzRGTkVpdkhEQi1neXpOVGxuVmtDcDhkUUVEbEVjTDFzZEJOalhyaS1zMlBNZTlWcmxGbW5OVlBOQ3FMTldRczkzWk1KSFZ6Snhn?oc=5"
+    },
+    {
+      "headline": "Is Humana’s (HUM) Orlando Pharmacy Bet Quietly Redefining Its Efficiency Story? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0VlN1JIVGdkME9fWFJIeTBWNW5SUVMxYUFSdnVUbW9jT2tGdkk4a2duOWxCSGNjOVkxUVFQQndHd2pZdi1mV0x0a1lLZ1lyUTdkZTVzMFZ2Rm16TENNZnN3Uk5nVDBlNTBTSEtRSlgyUUMwbFF4MHJqMmFLM25Ga2Rrb21xSDBBalN0U0xkeFNPZHl5QTJaeld4ZG96ZHNZMGVFQ2dGaVBEa2dTMGo1OG9WaFpBUkY4MEp5TV80R2syd9IBxwFBVV95cUxOeEtxZnBnbk9mQk85ay04cUprNmIxZ0NCR0ZESDIwYXE1bmhLTnNNOVF3TGlxblk5TndkejlnU2xyTnpPaVBNOW41N0VHOTlpUEl5MnVidV9OZW1qcmVTeTRtX3BycDdrMnU1dkdjVGdjYVhnMjlEVXZ4S1hFakIxUkVZdlFTREVLX1ZoVE03SThScFFHUElxTUp0TnhSX1MyRDQ4TTlIUlFXRFluLXFTSG1TeUNEVzRqYUxFeTBtbkp1MTFqVFN3?oc=5"
     }
   ],
   "insight": "Tracking Humana (HUM)."

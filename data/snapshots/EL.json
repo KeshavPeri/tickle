@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:25.220Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:57.395Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    81.33000183105469,
-    82.8499984741211,
     86.66999816894531,
     85.29000091552734,
     86.19999694824219,
@@ -24,11 +22,11 @@
     88.94999694824219,
     85.58000183105469,
     83.41000366210938,
-    82.05000305175781
+    82.05000305175781,
+    82.9000015258789,
+    83.48999786376953
   ],
   "6m": [
-    89.9000015258789,
-    93.38999938964844,
     91.94000244140625,
     93.69999694824219,
     94.06999969482422,
@@ -158,10 +156,11 @@
     88.94999694824219,
     85.58000183105469,
     83.41000366210938,
-    82.05000305175781
+    82.05000305175781,
+    82.9000015258789,
+    83.48999786376953
   ],
   "1y": [
-    67.44999694824219,
     68.45999908447266,
     69,
     70.45999908447266,
@@ -410,23 +409,25 @@
     88.94999694824219,
     85.58000183105469,
     83.41000366210938,
-    82.05000305175781
+    82.05000305175781,
+    82.9000015258789,
+    83.48999786376953
   ],
-  "lastClose": 82.05000305175781,
-  "oneYearReturn": 21.64567348271187,
+  "lastClose": 83.48999786376953,
+  "oneYearReturn": 21.954424452666714,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Is Estée Lauder (EL) Share Rebound Signalling A Possible Valuation Opportunity Now - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-05-30",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbTY5dnQ1SGtnSE4yM0lmUnR4bW94T3d5a095Vm5IaERIZEdLb3hwMFpSVU9ZOERlZEl2Qm9KaGhrVFJlVFhaWHFRcXRSUkRsZjJnZnZkdFdNMmJ4bjNSWS0xalFKTUdmLXRrYmk1QXc3NUtYZkZGekFCbUprbk5Cb1k3RnhyeV9xMDlUXzlhSUhRUGpkai1zUGk0UHJFNDc0TTk2Zk1meXVLOE1yVzltSVdBX0MzNlhOOVBFY0Nfc1VEcjVGMkhSLU8tTHpJUkR0aGJiUtIB2gFBVV95cUxNemdpUTZScURxbFRLUUpyMzU5ZDRuV0dia0tjcGRCSFh1anBkeTVhc19kOE1pSjdrVThKT3hOUUI5Xy1VeUNFcVVZLVdpTHB3eW5FeU5nT2xKMjRsN1Q2SVByVVctbmxzMnVtRXE5NXlFZHc5WDZBWGlfbHphSW1abTFBenlKNFNvSDlrTnlqN0IzM1hjQUVsUHkyUkVOY1lPSXlIM0dIV3pqTkUzT3E3akhudjg2ZU9MSlYwNXo0R1FJdDNWeEs5NngtMlBsT1hhMFhHdDVBdno2QQ?oc=5"
-    },
     {
       "headline": "Is Estée Lauder (EL) Now Pricing In Too Much After Recent Share Price Swings - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-04-12",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPam1BLW01X1dmSDNLRU5Fb1VFZ1BKNEFWOWpMcGstMzdlTnZjcTFRN3F0eGQxY3ZmYy1RVGxDV1dRNWNKUXY3aFE4OUMySkpRSlJ2WUlabWFLTkFqb3dqbXhNRzBqNTY4ekdlTmM5NTBqRGtjOUlldkdpZXlOZFhhRU5HaHJiM3M2QkFwQw?oc=5"
+    },
+    {
+      "headline": "Is Estée Lauder (EL) Share Rebound Signalling A Possible Valuation Opportunity Now - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-05-30",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbTY5dnQ1SGtnSE4yM0lmUnR4bW94T3d5a095Vm5IaERIZEdLb3hwMFpSVU9ZOERlZEl2Qm9KaGhrVFJlVFhaWHFRcXRSUkRsZjJnZnZkdFdNMmJ4bjNSWS0xalFKTUdmLXRrYmk1QXc3NUtYZkZGekFCbUprbk5Cb1k3RnhyeV9xMDlUXzlhSUhRUGpkai1zUGk0UHJFNDc0TTk2Zk1meXVLOE1yVzltSVdBX0MzNlhOOVBFY0Nfc1VEcjVGMkhSLU8tTHpJUkR0aGJiUtIB2gFBVV95cUxNemdpUTZScURxbFRLUUpyMzU5ZDRuV0dia0tjcGRCSFh1anBkeTVhc19kOE1pSjdrVThKT3hOUUI5Xy1VeUNFcVVZLVdpTHB3eW5FeU5nT2xKMjRsN1Q2SVByVVctbmxzMnVtRXE5NXlFZHc5WDZBWGlfbHphSW1abTFBenlKNFNvSDlrTnlqN0IzM1hjQUVsUHkyUkVOY1lPSXlIM0dIV3pqTkUzT3E3akhudjg2ZU9MSlYwNXo0R1FJdDNWeEs5NngtMlBsT1hhMFhHdDVBdno2QQ?oc=5"
     },
     {
       "headline": "The Estée Lauder Companies Reports Fiscal 2026 First Quarter Results - The Estée Lauder Companies Inc.",

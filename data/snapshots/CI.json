@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:17.341Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:49.557Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    279.3500061035156,
-    275.6600036621094,
     281.9800109863281,
     284.0400085449219,
     288.05999755859375,
@@ -24,11 +22,11 @@
     277.3999938964844,
     274.19000244140625,
     272.7200012207031,
-    270.7300109863281
+    270.7300109863281,
+    280.67999267578125,
+    289.4800109863281
   ],
   "6m": [
-    278.0899963378906,
-    271.4700012207031,
     278.20001220703125,
     278.3500061035156,
     277.2799987792969,
@@ -158,10 +156,11 @@
     277.3999938964844,
     274.19000244140625,
     272.7200012207031,
-    270.7300109863281
+    270.7300109863281,
+    280.67999267578125,
+    289.4800109863281
   ],
   "1y": [
-    311.0199890136719,
     312.17999267578125,
     311.3999938964844,
     313.6199951171875,
@@ -410,29 +409,31 @@
     277.3999938964844,
     274.19000244140625,
     272.7200012207031,
-    270.7300109863281
+    270.7300109863281,
+    280.67999267578125,
+    289.4800109863281
   ],
-  "lastClose": 270.7300109863281,
-  "oneYearReturn": -12.954144251343497,
+  "lastClose": 289.4800109863281,
+  "oneYearReturn": -7.271440265881644,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Humana Jumps 6%, UnitedHealth Climbs 5%, Cigna Rises 4% as Analysts Cheer Softer Medical Cost Trends - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObnRPYkJXNDZueG1XMTNFbjd5Q2JnSGRnTE5QVUFOOG9tV2ZuZXo4MWNQa2V4d21zWVNLSjhNaDVyOUZaeUo3dXBsQXN1WHZKN285UDZWTk1KZm5DVDdhRTRLeFUtQTY2c19SUTRNdEdiRHFjam9Fdmc2WVZQVURWdXNCelZEOVlTdmtSR20wdlRzNWYxOU5hOWJULS1sbzRIRVdzSndUZ2QzUFJTZGpqYXpoYjI5SWNXTGdhc0VBaGhxU0hxNmJHemh3UWswWEE1dU1rY0lB?oc=5"
-    },
-    {
-      "headline": "Cigna Stock: Is CI Underperforming the Healthcare Sector? - Barchart",
-      "source": "Barchart",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa2NxZ215c29Ub0RkNjRWYTlwVmdkY2pNUFFiQWdrVTRKX3h4RkhjYlJvcHVPaXh5dVR5N3M0THVid1UwOUhVTzFRUjk3cWRDaXc3T3lWVzF0QWlWR1ZERl9ObEJEWWVzT1ViY2UyaUFVdzFuZ3dEUEQ3ZnRjYXpjVDB6a2g2TE1IUlpXQmpicnZEbUYxYjRrZUpwc0ZYUVpn?oc=5"
-    },
     {
       "headline": "Here's Why Investors Should Hold On to Cigna Stock for Now - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-05-15",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2J4ZlNnYTcyQ240ZVJpMExqM0NNckhrYjVQcWUwSkVObXgzSHZ5TWo5QnJDWmQtQTVzVVZOLUNrZDNYZFBVLVJoVGZybi1qMDJ6LWx4V3FScVFxaGVCUjc3cmhpcVU1STVMOE9ybWxrb2lpbmNFNXpOT3JTOUp5TWxkRF9lelJmd2p3ZDF4RjVYYWh4YW5kVnZJUQ?oc=5"
+    },
+    {
+      "headline": "Cigna Stock: Is CI Underperforming the Healthcare Sector? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa2NxZ215c29Ub0RkNjRWYTlwVmdkY2pNUFFiQWdrVTRKX3h4RkhjYlJvcHVPaXh5dVR5N3M0THVid1UwOUhVTzFRUjk3cWRDaXc3T3lWVzF0QWlWR1ZERl9ObEJEWWVzT1ViY2UyaUFVdzFuZ3dEUEQ3ZnRjYXpjVDB6a2g2TE1IUlpXQmpicnZEbUYxYjRrZUpwc0ZYUVpn?oc=5"
+    },
+    {
+      "headline": "Cigna Group stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZEc2cEhGcUo3VkdvU08teUlyalF1TmdFLWlwWm1CMTFWSjJWUzhOWURJU0x1Vzd0bHFIVXZ1M09GWnRRWVBSVTVrZU9rb2ZoU3lSOFlRS0diYVk4TlRCMTh1Z1ZmS1JHek5nbm03Y2hNWlktZ2wybjJIY1JESHpGSEktU2d0V1pibkNZdGxxUWhwb0YtS1lteDdaOUJCSzJEZlpqRlhNSW5idllYbXY0VW9EYXItc3ZTRjVrcmxFNVFicmtMMGtFRDNrc2tWWG15dmhHMk1vVHlEbzNNTU5TQTdrZnJYU05pVHpadXdZSFdINXJGQXQ4OFRwRQ?oc=5"
     }
   ],
   "insight": "Tracking Cigna (CI)."

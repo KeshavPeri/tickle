@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:15.025Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:47.117Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    123.08999633789062,
-    122.72000122070312,
     124.69000244140625,
     122.33000183105469,
     123.7699966430664,
@@ -24,11 +22,11 @@
     116.97000122070312,
     116.94000244140625,
     114.91000366210938,
-    110.27999877929688
+    110.27999877929688,
+    118.55000305175781,
+    115.3499984741211
   ],
   "6m": [
-    142.6699981689453,
-    141.4199981689453,
     143.42999267578125,
     144.9199981689453,
     146.4199981689453,
@@ -158,10 +156,11 @@
     116.97000122070312,
     116.94000244140625,
     114.91000366210938,
-    110.27999877929688
+    110.27999877929688,
+    118.55000305175781,
+    115.3499984741211
   ],
   "1y": [
-    137.75999450683594,
     140.4499969482422,
     139.97999572753906,
     142.9600067138672,
@@ -410,18 +409,14 @@
     116.97000122070312,
     116.94000244140625,
     114.91000366210938,
-    110.27999877929688
+    110.27999877929688,
+    118.55000305175781,
+    115.3499984741211
   ],
-  "lastClose": 110.27999877929688,
-  "oneYearReturn": -19.947732885671282,
+  "lastClose": 115.3499984741211,
+  "oneYearReturn": -17.871127817376028,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Blackstone (NYSE: BX) affiliates detail Liftoff Mobile Form 3 stake - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZlNNN3RGUHJVWTBEc3dKQ1FiRXZSbTljTXlNT093N1VkWGFXRzJzNnZ6c3ZvWkxLWmZucUJVdFEwY0lPSXEzV3hUWF9ndmczUmJ5WFFvMlljNW01OE5KWW9pZW5yUndQVHBydlBKMlNGc1JHZHlqR3lpRWM2dmhjZzZiczZHbEZxbVFKbmFLS2JNLUo1VUFwVDZfaVFDTzZIcVVjcWhmRU13Q29STWdGVUM5a3lKdGo1TkV3dG0xeEw?oc=5"
-    },
     {
       "headline": "Is Blackstone Inc. (BX) A Good Stock To Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMGxKZVQ4dGE5LXRnOEdPX29fSEdHbzJXN1c5S2xIZUp4WkdQQ1NWWVhGVk9OVDFUS0gtWDhDTGtMbHpDTk1nbkZfdXYxZ29mQmxnYTRxd0dkeHg5eTBYWFI1UTVIQmlKZjdpRzlVUlRNSmdYb3BrSU9mUkV6UkdqZlo2cDRqUU1OVTFPNTR6Y0FKM21ZMmxTVQ?oc=5"
     },
     {
-      "headline": "CIBC Asset Management Inc Purchases 72,675 Shares of Blackstone Inc. $BX - MarketBeat",
+      "headline": "J.W. Cole Advisors Inc. Has $10.01 Million Holdings in Blackstone Inc. $BX - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWWl2V2gzNV9kNXVGZmpFeDVOWXJfTk5FNVRHUHNCVzNwWmVfV3RzOThUOHlGSzJ6VW9QR2x3YzByVzJwbVQyclBUbi04LUQycEZoX0JINGduai00Q0lrUHhWbXRvcE5PZk9Ha29VSll3M2ZNVVBYWU1NXzA1RmNqc3J3dXpybzNuMXZVSGlRYW9DQVdRYm1JWkY2N3pvTEw1NWRtcXgzUndXUnBiZlBuZFd1NUswOTlIRnhDSDU4Sy1teldZalNvQUlB?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSlE3U0VDYl9JNnBqM2Nrd1Rob0MtbTdDaE0xZU5ZdnZyQkNkak9QVjFQblIySGRQNjhhMHJsM1MzYlUyZHZDdVlDRE9XVnV2dmhJRXBCZ1dfdE1QUnZJbzZGdk1WT0tMajkxVnpGMThFRmRLWkowWXFKWXczWlgtZjd6cThUSnJ0aFdkOUdya2V0YjZwSFphb0dNaFg4YTRMNGpETUN2RlRYQmh4dmVZT3FGS2R2UHZhUFQwRUR2Sk1hSTV6Sy1R?oc=5"
+    },
+    {
+      "headline": "BX Stock Chart | BLACKSTONE INC (NYSE:BX) - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ONjFuMGlmNWJaRVNnXzN2WnhEU1BBWjhHYmVES3lwOXRSeXZxWG1yVllRZFNEcXFtMmg2TGtMdTRRWWYwSkV4TkFlSXdmRXdJMUhpUVN3UEN2TVMxaHdDQURn?oc=5"
     }
   ],
   "insight": "Tracking Blackstone Inc. (BX)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:50.281Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:22.904Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    103.08000183105469,
-    104.11000061035156,
     106.12999725341797,
     103.58999633789062,
     105.33000183105469,
@@ -24,11 +22,11 @@
     104.52999877929688,
     103.91999816894531,
     104.30999755859375,
-    104.01000213623047
+    104.01000213623047,
+    106.95999908447266,
+    105.98999786376953
   ],
   "6m": [
-    100.30999755859375,
-    100.44999694824219,
     101.12999725341797,
     102.08999633789062,
     102.37999725341797,
@@ -158,10 +156,11 @@
     104.52999877929688,
     103.91999816894531,
     104.30999755859375,
-    104.01000213623047
+    104.01000213623047,
+    106.95999908447266,
+    105.98999786376953
   ],
   "1y": [
-    93.23999786376953,
     94.27999877929688,
     94.9800033569336,
     95.93000030517578,
@@ -410,29 +409,31 @@
     104.52999877929688,
     103.91999816894531,
     104.30999755859375,
-    104.01000213623047
+    104.01000213623047,
+    106.95999908447266,
+    105.98999786376953
   ],
-  "lastClose": 104.01000213623047,
-  "oneYearReturn": 11.55084139769791,
+  "lastClose": 105.98999786376953,
+  "oneYearReturn": 12.42044891396846,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is It Time To Reconsider T. Rowe Price Group (TROW) After Its Recent 20.9% Gain? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTWx0ZVV0OFZ2Uy1zTGdhdWtxZDJKTDMxVERCZVFjM2RmY3hQSlA1cy1nQUtRd3EtVmI2SnMzYVhjQXlYQVdpUWxtOXJ0YXU0RkFKMlpNMUFRRG5jUFBmU25YckFtdFVJNkx3a2ZhbXlURGRqM0ZVbEw2NF83VmEydWJ6Nk9UYkc2dXZrckZoRXpTWFEzZVFQWF9mcmg0VHBFNEVCZGxJYXV2LUdkSlZ3SHFqOGx6a3oyS3NuaGxka2d1bGdaT1Z0Z3BzYmVzOU1oODJWODJnQ0ZwZGNjQ1V1b1ZVOWpDUdIB6wFBVV95cUxOc2NRa1M3bE96X1lCUEJ1YVBsZ1dlLTd5TUpvWlRYX090TXpPZ09MQWlkc0VwOXh2UXZ4RE0tSVBiM1dOQWV0ZWJNSnNxU25BaXo3T0ZMUUZOcVZuNWRqX3k3VEhrRlg2VkFSMHBQU1Z3LWI4UHp0YXJQejFGS3UwM3VxU2NTOXFOOW9STjJqUjE5amc3RHpzQVhmVmtoeGhuWlFFb2pGR2hHQkVBb3phVkVQa1BkSkw1eFA0WGlYNzZtVEE4ZXIwVkdual9FTlVvUE9MZHAtXzZfa0J4Yjgxd1B4TFFzVVpWUEFr?oc=5"
+    },
+    {
+      "headline": "This Medalist Fund Focuses on Quality Stocks With Good Growth Prospects - Morningstar",
+      "source": "Morningstar",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFZGbFZOZk5BN3VSNHZ5UnZkNHhMdlNfU1U4UUVTaVEtVF9YcWluZlJVQ3VXVlVSMkFHZW9FazdzTmZkVG1VdjNsVlBhTFEtRDVHd1R1Y1BuWGwyX0d6b2k0S25MVUdiejc5Vmo2ejgwZllyZGRNMEN6cEp3eHdaT0xsWGJ5UmFZaG00NEM3enlCQjYxdkFiTjM0b1RfbEtIZ0dteHkyTU15X3BJVVFNTQ?oc=5"
+    },
     {
       "headline": "How The T. Rowe Price Group (TROW) Narrative Is Evolving With Mixed Analyst Targets - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWjd2X2xIOUExeGllaHRmM0hvSUNmME9tSzhVM1pSaEtqbUtpSHluV1VIQW9MTEdvb1ZrS3VIZVJxM1BTQkxtaThvWGtDLVllZVVxNUJyQUs2SkVxOEc4QzlibldrajdfbmxVZUYteUJSVzg5aWRmRmtieEYyNGJ4TDlwNDM2eWMtWUM0bHNBWWxuZw?oc=5"
-    },
-    {
-      "headline": "Have U.S. stocks become too expensive? - T. Rowe Price",
-      "source": "T. Rowe Price",
-      "when": "2026-05-20",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRWJWV0FPQlphU1M5eGZvZExpNllWaHBOejduMEE1ZFc4SXJtVGNzVG9SaEhMLVNKUUJFOWNmb2wzOE16Ni10Wnl5dFQ5YU45d0htaXZvb1BRS2Rnclczd0YxNXlvOE15bVotamNGdkVvWkp4TmtrQ19yX1F2N254U1lkSFhRTHgzWUE?oc=5"
-    },
-    {
-      "headline": "3 Value Stocks We Find Risky - StockStory",
-      "source": "StockStory",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZUhjSjctR2dqR2l5X2dyblZNNzRpcVI0RU92Y2ZsTkJIYS1LQ2dCdklZS0tHbWpWR0pRLXdrODhKY1Z6Z29hbWF0akk2XzFtT2g5WEVzRmpycGlCS3ZiZlctTHFwRlZDSk5oXzZkcFRJbEhoOVY3NkJpa2hXZFlvdGczVEhwUjJTYVYyOHNqN2pFaVFv?oc=5"
     }
   ],
   "insight": "Tracking T. Rowe Price (TROW)."

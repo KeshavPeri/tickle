@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:26.838Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:59.074Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    116.4000015258789,
-    117.36000061035156,
     112.95999908447266,
     112.0199966430664,
     111.58999633789062,
@@ -24,11 +22,11 @@
     109.05000305175781,
     104.97000122070312,
     107.5999984741211,
-    108.66000366210938
+    108.66000366210938,
+    109.27999877929688,
+    110.73999786376953
   ],
   "6m": [
-    93.69999694824219,
-    95.4800033569336,
     95.2699966430664,
     96.55000305175781,
     97.5199966430664,
@@ -158,10 +156,11 @@
     109.05000305175781,
     104.97000122070312,
     107.5999984741211,
-    108.66000366210938
+    108.66000366210938,
+    109.27999877929688,
+    110.73999786376953
   ],
   "1y": [
-    81.80000305175781,
     82.1500015258789,
     82.80999755859375,
     82.20999908447266,
@@ -410,29 +409,31 @@
     109.05000305175781,
     104.97000122070312,
     107.5999984741211,
-    108.66000366210938
+    108.66000366210938,
+    109.27999877929688,
+    110.73999786376953
   ],
-  "lastClose": 108.66000366210938,
-  "oneYearReturn": 32.836185340184244,
+  "lastClose": 110.73999786376953,
+  "oneYearReturn": 34.80218600955741,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Entergy shares fall 3.6% after pricing $2.2 billion equity offering - Investing.com",
+      "headline": "Entergy officer Haley Fisackerly sells $1.17m of common stock - Investing.com",
       "source": "Investing.com",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRUg1aV8xV0dpZC1FeWdMUWxjNnBTd2MwZkZ4LXl0Vi1WX2RiNnFNcklDT0V0Tm5lU3VxNFJYZ0NhelhaN2c0UzMteTRPYkd4dmlYUEdtbXhReGMxcW1iV1RmMktWSkxvbjJGN1h2VjlTd3RWMDlKWWpULVpsMVF0Y0s0YjdTZHFwVjkwS0NCbmktdWhVNHUzZGFSWkFma05HOEkzaTJtVjBKNzZkaTdicXRBaVA2empDNGFULVpjSmFPR2s?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUzVSclE0MGVGbU1MeHdmWjJfeEp5S18ySDdaWVZCMUszMFFSWUdqU3hYem9Edkp3WGV2Q0dubXZGVFV4VkloNmhEY2ViZ2FSNzBTQXJSMEtnUFV6WElWSlh6WDBRTG9tM2pjU0lTeHZJYjEyZXpWaV9Hdl9qNnNUeHdmOHZBQlk3UWpjRlRGRTNfMzEzV1BrUDJBSk82aWt0TmQ0TF96blZaQm5WMy01TUh6Z256WFhlVjlGcWxtalE3OWE5WVB5V0VOTEs?oc=5"
+    },
+    {
+      "headline": "Entergy (NYSE: ETR) officer sells 10,638 shares after option exercises - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0ZDVlpvSzFZN1liWmRQRmpPMFkwZVRUbHhGcDA3TmZfTWEwZGlrTEJVN1dvcjN0Y3FPYWo2RzhZTG1TOUhDam41WGpKR0VDMUlfUWFpWWxoZkZULWJiMzZhUFR6Vmd3QkFGYTd2T2VOaUJ3WTdWOUgyenB3U01vaVVzZ0R6VDdaOXRtWHc0Sk45MklRNXdBWERFZWFxWFJDQ1ZYYThqQ2JUbGZv?oc=5"
     },
     {
       "headline": "Are Wall Street Analysts Predicting Entergy Corporation Stock Will Climb or Sink? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-05-18",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORmptcnpRWGg0bnVUZ3pIeVBYQlRPajI4Z0VVN2RCUExyZDlzVlZmUzNfRDRlNFBGODhjMGEwcFhVUWloM1hRWmw4bVo1MW9wanR3WHBhTThQVkxHUXdtVlNUTG1NSHNXVVVxUGJ0YlExSWlNclo5UDFQWnlhTUZJa1ZBQk5FbURaV1V0ajY2TWR1OXpGMWQ4a09TQ3FZMHVHQnlaRDZPRQ?oc=5"
-    },
-    {
-      "headline": "Entergy to discuss long-term growth and strategy at June 9 Investor Day - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOFl5VG0wdDFvYmp2T3pMLWx0NEEwYzVtaDVJdFgwMDJSRUxnMEx6YjM3andGdnR4Q2FRMjh2THd5OV9la3l5LUVhRmpDem1vckJCZzdKUzctQ0ttQ0dmVC1fWG5GMzg1LXlTUDhsQkRabzlNaVhqLXYxTG54aG1Tc0h5QWxzVDBIT2NrUjNEVUJyd0t3aEpSSjdGb09WMnpw?oc=5"
     }
   ],
   "insight": "Tracking Entergy (ETR)."

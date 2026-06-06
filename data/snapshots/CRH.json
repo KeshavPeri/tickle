@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:19.774Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:52.008Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    110.80000305175781,
-    112.5,
     114.91000366210938,
     112.62999725341797,
     113.76000213623047,
@@ -24,11 +22,11 @@
     108.79000091552734,
     106.75,
     106.5199966430664,
-    105.88999938964844
+    105.88999938964844,
+    106.56999969482422,
+    105.05999755859375
   ],
   "6m": [
-    110.1500015258789,
-    112.63999938964844,
     116.2699966430664,
     119.66000366210938,
     119.95999908447266,
@@ -158,10 +156,11 @@
     108.79000091552734,
     106.75,
     106.5199966430664,
-    105.88999938964844
+    105.88999938964844,
+    106.56999969482422,
+    105.05999755859375
   ],
   "1y": [
-    92.80000305175781,
     92.54000091552734,
     93.18000030517578,
     92.9000015258789,
@@ -410,29 +409,31 @@
     108.79000091552734,
     106.75,
     106.5199966430664,
-    105.88999938964844
+    105.88999938964844,
+    106.56999969482422,
+    105.05999755859375
   ],
-  "lastClose": 105.88999938964844,
-  "oneYearReturn": 14.105599038170155,
+  "lastClose": 105.05999755859375,
+  "oneYearReturn": 13.529280872273763,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Are Wall Street Analysts Predicting CRH Stock Will Climb or Sink? - Yahoo Finance",
+      "headline": "Transatlantique Private Wealth LLC Has $2.55 Million Stock Holdings in Crh Plc $CRH - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaC1MUHkwLW5rVmdaYUJxdTRvcWFOVWh0ZGNaazROMjA3UVRKRllnUWc5YXV1V2ZVNG5UY0JjbjJjREFGN2VtNHpPcVFZUUMxWHJqZHZlZXE0Q3JvOWVTeEQ1QnVmd3NiTXp5MlJyakRKdUVxUUp4NUJfc28td3dGNldhSENqbGo5S2F4a19HeFFPTFkzWEtSSnhONlhMRUFSdURfTTlpaUtFYlNNLUkxVl85MkpvbUU0Vk11ZzdfN1RkcTFOVkFiSmhRZGJ5UHBNb0FKTDNVMjY?oc=5"
+    },
+    {
+      "headline": "CRH plc (CRH): 8 Best Basic Materials Stocks to Buy According to Hedge Funds - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-05-13",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWjRuZTdmcDM1TzEyUVVGeE9jaGZrVE55YnpmYVNYM1pzZjBBT3paT0NsNlRoT3BkcVYxaGd2NTh3aVRNY08yRUJ6aTR5OTFLclFzYkllVVZvTDZMRmZNTjNkOFNoQ3ZJR2k0TE1BY080Y29BeWZuY1BzNHJtLUpDdDlVcm0tRzFB?oc=5"
+      "when": "2026-05-10",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFJFZWpqNWVXR1RCUHNpMjZxVmYtOHhXNHhiTXp6dFZseFpSRWVtWVoxUC00V18yc0VrdkFETzZmVS1DdXJKN3lTRG1CSzBaVWlSd1A2Q25JNFlaZVNfUFpiOEJ5VTBrOXZKNGJLYUFWMGF0bzNIQ3dYUmNPS0l4VV8zVlVrclJuY01v?oc=5"
     },
     {
       "headline": "Understanding the Setup: (CRH) and Scalable Risk - Stock Traders Daily",
       "source": "Stock Traders Daily",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTzVuVy1ERnNkcDA3QUl3MnJDa3V5MjRkek5PWVpRLWpGUmQ0NEdINTZseldxdTJ1NHg5UFZiTWd2bmJhbW8wd0tXMGhpMlNPMUttSzQ2WEpOcjRXSEtSUFBFR1psSFcyVXd5RlV1Q3dLblVCQ2g0Q1AyRTBNN04yZTRXNHgwdHpmbnBrQ0tSdkRsYUVkS181MlVUVEdSM0R6a3d4bjlMNFI2ZTRqQklJZVJaamNTQ1BiUkxoMmtqcFd6b3M?oc=5"
-    },
-    {
-      "headline": "CRH slides as rising Treasury yields pressure materials stocks - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-05-19",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVBmcVlteXNDdzJOX0llVVk3TzNRNUgwYV9DMGFSZ0FPS3ZUQ004NENUTHczSXBMa2RtbVFtaVRsMnFjNkhXREtRSWFIb3pOdExlOWxiM09pSElvR2JLMXZHN1ZiTjJ0elREN1JVZ0FkRzJ1b0w4SWR4YlFwZXYxaHZxWEh4NWpGYUxxOURkRENtUFFKZjRob3BoYw?oc=5"
     }
   ],
   "insight": "Tracking CRH plc (CRH)."

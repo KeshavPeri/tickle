@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:35.697Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:08.474Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    31.200000762939453,
-    31.860000610351562,
     33.52000045776367,
     33.08000183105469,
     33.029998779296875,
@@ -24,11 +22,11 @@
     33.470001220703125,
     33.689998626708984,
     33.83000183105469,
-    33.400001525878906
+    33.400001525878906,
+    33.880001068115234,
+    33.61000061035156
   ],
   "6m": [
-    37.66999816894531,
-    37.59000015258789,
     39.130001068115234,
     39.36000061035156,
     39.47999954223633,
@@ -158,10 +156,11 @@
     33.470001220703125,
     33.689998626708984,
     33.83000183105469,
-    33.400001525878906
+    33.400001525878906,
+    33.880001068115234,
+    33.61000061035156
   ],
   "1y": [
-    47.099998474121094,
     47.349998474121094,
     48,
     47.619998931884766,
@@ -410,12 +409,20 @@
     33.470001220703125,
     33.689998626708984,
     33.83000183105469,
-    33.400001525878906
+    33.400001525878906,
+    33.880001068115234,
+    33.61000061035156
   ],
-  "lastClose": 33.400001525878906,
-  "oneYearReturn": -29.087043295276533,
+  "lastClose": 33.61000061035156,
+  "oneYearReturn": -29.01794784909879,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Winners And Losers Of Q1: International Paper (NYSE:IP) Vs The Rest Of The Industrial Packaging Stocks - StockStory",
+      "source": "StockStory",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVXFSbVJIREpQZWZ5R2NCMDFScGcxR0VrUEl6enY0Q2xqNVlzZkp1WkR1aXlKd1RrSkFuNF9SRWRPeXVxWDlVT09NdVFac0lSeUhueTlGRml1cklKVzBZOHZjQUQzWGZ5Y2NWaTk4T0ZmaExuSTZhUG9sankxdFVJR09iZ3VsV2RaU2hyZzFEY1U4ZWZLMmtfY2JmSWktQ2FMMnFmQW5XallKY0JkTks5Q3pQZ3lXU25SeVNFOWVRaVNYOWt2b2RYRlJrU2c3UVBCQ1Bmdi1YZU0tbF9RUFVOdVdMWDJhZ2lm?oc=5"
+    },
     {
       "headline": "Why International Paper spent $360M on a West Coast packaging business - Stock Titan",
       "source": "Stock Titan",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlppSVQ2c2ZvSmxrRFVhQmR1Y1FDZTNnZWFmb1Y2aUk1elJHbUZqWk52NDZOZndaRDE3X2JFWUY1NFNKcHoxOTFFOEV3UHlCemVWTDJnZzkzX2RyUEZ6bnBma3g5ZUxzUGJmTHBBM1I0eG5SUTVZNV9ZNjlWcUJmNFFIS3FWeUpUTUtPRGlHcnFUWjJTMXpyZ2FUOUozUGVWUTV4d0RPaWNVUDIzQzVCQk15X2k3dWF6?oc=5"
     },
     {
-      "headline": "International Paper Co. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONV9OUHVxY1F0R2VObEhPM0VFVmVtQ2hEU2k5MGhDbGFZUjNHQm4tV0p6ZjJOX3RENlJJMzd5VUFvMUlIQjFWbXJEMVppcjZ2TDE0YTlrSEtVVW96cFVWeFpKMmlkb0tVRGdoU2swT3JlQ21WM25Wa29zUUtOT2xtYmVaczg1cU9LYmhYV0xiZmN1MkR5SENJWVdYNVRXVkgwWmhBVzVFNjlNRmd0TjVqSmRXYzJlNUFPLWh2YVhxems4NWc2a3ByV0J0bnZjY241MGc1c1JfWlg1ODJFVXVER0FBelVBS1E?oc=5"
-    },
-    {
-      "headline": "AI Investing Insights - Official Homepage - Intellectia AI™ - Intellectia AI",
-      "source": "Intellectia AI",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QV2htdTljSFRQSjJ4aFZHTG9xTWhOamFpTkg0c2h6OWlRQ0R6dS1HOVUwSkRNcnRWei1lRVZ3eHBIQkd1LWhTWWh5Zk5mTkl3?oc=5"
+      "headline": "International Paper Stock 9-Day Winning Spree: Stock Climbs 17% - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTGI3bUpXZUo5d3dybGFvdVFOdVE0NnMxa1daMWpiZHNORk1jYjNoMFUtSEVnZ1hqbWtmdkpYUG9vZHlMSW1tOXBnazN5QWowN1BtdG1rYzNrZEFUc3dtcHhQM0ZtS05GT09CQWtKYkFpY2UyNWxXem1ybTljTnVpS01TYk9iOWZOamduZVRma0M2RTBjS0pabk90dHdnRDk2eWRkc2lqeTlSWk1wa1JLS01iQ3pPbTNfdGhmNms4M3k2bFlaTDJkSl9R?oc=5"
     }
   ],
   "insight": "Tracking International Paper (IP)."

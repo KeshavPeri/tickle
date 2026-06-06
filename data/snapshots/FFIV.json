@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:28.694Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:01.140Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    329.92999267578125,
-    339.8999938964844,
     341.0199890136719,
     345.0199890136719,
     354.0299987792969,
@@ -24,11 +22,11 @@
     383.45001220703125,
     395.6199951171875,
     409.1300048828125,
-    405.6600036621094
+    405.6600036621094,
+    408.6600036621094,
+    393.3500061035156
   ],
   "6m": [
-    234.2899932861328,
-    236.13999938964844,
     240.00999450683594,
     238.22000122070312,
     239.16000366210938,
@@ -158,10 +156,11 @@
     383.45001220703125,
     395.6199951171875,
     409.1300048828125,
-    405.6600036621094
+    405.6600036621094,
+    408.6600036621094,
+    393.3500061035156
   ],
   "1y": [
-    293.9599914550781,
     295.42999267578125,
     294.7300109863281,
     293.6600036621094,
@@ -410,29 +409,31 @@
     383.45001220703125,
     395.6199951171875,
     409.1300048828125,
-    405.6600036621094
+    405.6600036621094,
+    408.6600036621094,
+    393.3500061035156
   ],
-  "lastClose": 405.6600036621094,
-  "oneYearReturn": 37.998372381943966,
+  "lastClose": 393.3500061035156,
+  "oneYearReturn": 33.14491278994696,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Livforsakringsbolaget Skandia Omsesidigt Sells 3,600 Shares of F5, Inc. $FFIV - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb2FyTERBOHFjalZ6VXBTaHRkUmxSOW15RGtsV0Y4SkNYQkQtRktOcURyRGkzN3V5alRJX0dPQzVBX0F0aUE0aVdvTjNSN3cyUG9oemRsemlFWHZHbm01ckh3aVd2MjR2UVRJSlNJUlpraUo2YlJ3Tm9PaUFrX1I4dFNuTXlBWl96MGdsYzVmbTVYSXRkSlJhdGhvWmFYNjloOERaMjA0MzQzcTRQYmxRZXZ2eWlDc29nSGhqVS01WFlkcFZwY2E5MWpBcjMzR2c?oc=5"
+    },
     {
       "headline": "F5 Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONkR1cHJCUl9UOEVUSFdnamtRTk9nRXFkWlRuQm1xUjdLTUFoSWFJaC1qakRQRmhZN3hlVjJIMG8yNVE2OG9pVjZTaTg2bldkVU9DblN5ZnZlMFNic1Qyek5lUnFFUmNNUXY1SUtjWGlQanNDOGxLQXJXbUJKSTFVYjByWDRsLTBtVW51Z1Q4SFFRV2NydGlrTmk2ekJidWVPcU02WFl5VnNDdHYwVzhQODFJdUpvOFlnQkdtd3BySkwzcFJyNjRyU25rV19TN19jUGc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTmlQd3M3dVpfcnJFNkRGZVprVEFORGFYTnVSR0szdk1tc1RPbGF3c2h3Z3FPa3ZoMjUtZzNJMlRzcURSdWR6cWhQakxEYkkwb1ZHUXBPb1FxOVBVQnNENmlxSHJsWExmcWhKdFpoTlRlQjZFd2V6OV9qekw2MDZNc1NWd3VHX25XRERDVmtrdENNc2tKN3gyRXp0TERZS0V3enBvRlFxSzd3dkhKelY1am04UGxwclJKX2hzZE9YX3NHVzBMQndFRjlvZDJscFF3WlE?oc=5"
     },
     {
       "headline": "F5 CFO Werner Cooper sells $1m in company stock - Investing.com",
       "source": "Investing.com",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2w0MTJWdy1nS0UtQlJWVC1VVVFCeTJYeUk2Ty1xaVlIOFcwZHY4QzV5NVhqU0pRZkkwM2hMMDdMU1JSbnhvVFV4V0VXX3NXOWJKbGttbjA2Y0ItZElsZERKRHhBUWJ5X2NQd3F3aWJ1V2ZmOGFSRG1hbzg1UGtYdU9OeG1xUEx2ekZGOGRLSEtjeGdkc0xMaVR3Q3dkbDhqYUc3ei10ZXdqQzYxeUxXY2hxMllFYmFvWE5J?oc=5"
-    },
-    {
-      "headline": "F5, Inc. (NASDAQ:FFIV) Receives Average Recommendation of \"Hold\" from Analysts - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQTdhZXdHVk5ZTzR2cUJ1SGdmRGZqR0xVSDFvaFdMdWtKTk9UUkk1akxENWJGMTlwaVh5dXlMb3BGbENuNW84ZUhxQWNlYnJkYmtEZFY2cG9oZ2pfcEtoTWlmRHMzak9JTjZ6T080Y2hiLUVqRW9yYnZQV2sxZ0pDbWNlcFVSaWI2eWdnMlBjZlg4S0pWbEtnY29CWnF0bXV0MktsQlpHc3JuWVBYR1VuMVhudTlfeGFURWt6Mk8xRzJlM1U?oc=5"
     }
   ],
   "insight": "Tracking F5, Inc. (FFIV)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:15.249Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:47.328Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    125.62999725341797,
-    128.00999450683594,
     127.5999984741211,
     129.08999633789062,
     125.55000305175781,
@@ -24,11 +22,11 @@
     125.9000015258789,
     129.08999633789062,
     131.25999450683594,
-    129.92999267578125
+    129.92999267578125,
+    135.14999389648438,
+    132.47000122070312
   ],
   "6m": [
-    98.69999694824219,
-    99.69000244140625,
     101.16999816894531,
     102.5,
     103.5999984741211,
@@ -158,10 +156,11 @@
     125.9000015258789,
     129.08999633789062,
     131.25999450683594,
-    129.92999267578125
+    129.92999267578125,
+    135.14999389648438,
+    132.47000122070312
   ],
   "1y": [
-    76.66999816894531,
     78.26000213623047,
     78.16999816894531,
     78.02999877929688,
@@ -410,10 +409,12 @@
     125.9000015258789,
     129.08999633789062,
     131.25999450683594,
-    129.92999267578125
+    129.92999267578125,
+    135.14999389648438,
+    132.47000122070312
   ],
-  "lastClose": 129.92999267578125,
-  "oneYearReturn": 69.46653942716351,
+  "lastClose": 132.47000122070312,
+  "oneYearReturn": 69.2690999293701,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnlkMzBqV3hPWWJYZ3RjUDRGbGRFQy0tVC05eEJzOFAzVDFHSGJUN0ZPVGZDVXl4RWZ1bW9OdXlHQ29NX201UWEwbE41dmJadXJhV1JMbFNKT19ubWhsbjJRNjBVYzBIMERPM0RfVWZKUm8zOXBnN3ZQLUh1MndTd083eWVCVk1VdWhIbkp3NmR3TkpITTd2Z2RodnhtQ2JZRWIw?oc=5"
     },
     {
-      "headline": "EasyJet fleet alone could be worth double the share price, says Citi - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnprNjVXTUFJS3RPNVhsME1SOUtLZTFvNE1JNmo3X0doZWgwY0FPS1pseEhDN2otaFp0TEptSVlLS19MNjFtbTBIQWd3RHBIVEZZbC1oY2FqN2lZZEdQNk5BSVlkaDR1ODRLdmlMdXVwV0xzODc2YTNrdi04RkRpaUFTQU5IdUk?oc=5"
+      "headline": "Why Citigroup Stock Surged to a New Multi-Year High - TipRanks",
+      "source": "TipRanks",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONExSamhIckVndE5iWWxEdjhuNVBRcWM2S3FqQ2hNXzRCS2hyRWZZdFlsdHEwQm9MTHNHdXd4RlFybnVYWTZsRU5iWWF4SENLTGFMc2hpQk1PSmVCNEgzWWhRY1E1R0pFbmJQVGRoVnVBTVFpV2QtejZTcExUWXNkVjBlMW9tMmd5?oc=5"
     },
     {
-      "headline": "Citi’s Chew Sees US Tech Stocks at Risk From Bullish Positioning - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnRZeUFUcFIyUmdUTF9taUNCME9IVm9RQml0TEd6SnJmTWs4dWZCVkg2REFsNndhc3dTVEl4QUVuMkFLaTR4b090c0pkRU9xM3ZsdTVBdXpQMl9DYmhCZXZwUDlCU081SkFnMEFmNk95ZVJ0amVqUWZ2NHIxdjlFdEhfV3FKMUJhWEFmclhIallJQkZhR0lYbENUVlNWbXFNdHlTTS1zM3FXY3hvci0takZnNHFQUQ?oc=5"
+      "headline": "The stock market is at its frothiest since the global financial crisis, proclaims Citi. Why dip buyers shouldn’t bail yet. - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORHJQVWtRaGhKSmRTd21xZVdrMkJTeXdhNzN1NGpCVWJlQXZHYWhpMHpNd3Y4d0FmZDNPelM4UGxfQ3hKS1Ewb1Q3YzRPdEU4WlljemxJQll5bG4yWDdTcDVLS3BiMkZUM3NZM2tka1c3ZEg3UGN3SFpVaVM1ZDJRS0sxT1Q5RHB4cEpobVd0ZHBsSGZTTVRramUzdHhuZHgtNGxqbGZ2Q0FaYTdOYmxfMnFFY2U0cFFNdmhHMHlhVmtoNnBGbFNZMHQxWVJoYW0xM0ZkdGFWRHUxS2hZNm8tb2pLWExCQndDQTdTUG83VGF5Ujg?oc=5"
     }
   ],
   "insight": "Tracking Citigroup (C)."

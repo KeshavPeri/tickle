@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:18.864Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:51.000Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    202.99000549316406,
-    197.75,
     197.9600067138672,
     192.9600067138672,
     201.16000366210938,
@@ -24,11 +22,11 @@
     189.02999877929688,
     182.61000061035156,
     173.99000549316406,
-    163.22000122070312
+    163.22000122070312,
+    164.1300048828125,
+    152.39999389648438
   ],
   "6m": [
-    240.41000366210938,
-    255.97000122070312,
     254.1199951171875,
     264.9700012207031,
     272.82000732421875,
@@ -158,10 +156,11 @@
     189.02999877929688,
     182.61000061035156,
     173.99000549316406,
-    163.22000122070312
+    163.22000122070312,
+    164.1300048828125,
+    152.39999389648438
   ],
   "1y": [
-    244.1999969482422,
     251.27000427246094,
     256.6300048828125,
     254.94000244140625,
@@ -410,17 +409,19 @@
     189.02999877929688,
     182.61000061035156,
     173.99000549316406,
-    163.22000122070312
+    163.22000122070312,
+    164.1300048828125,
+    152.39999389648438
   ],
-  "lastClose": 163.22000122070312,
-  "oneYearReturn": -33.16134182618464,
+  "lastClose": 152.39999389648438,
+  "oneYearReturn": -39.34811505346588,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Coinbase, Kalshi's New Crypto Futures Send These Stocks Sprawling - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHMwaHVsaVhIR2xZdXJpaVY2eGhmODRIaXVzSy1oX3BiSkhHUGhYYnQ1YlZtay1fQmpPTlVUTzdRbXJXeGhCNFI2enU5UjlkZ3Y4NEdoZ1RnaDNtUEVHcXRsTm1BU3pEc1FXdzdFSi1aNUdTLVh4V0JaRi03TlM1YnNBaWZKVldpTTRBU2dDWU1PYUN5UTlfdVNlOWdvbUZiOTBkU1NBdW40Q3ZyRXVsNENXbHVfeHdEZzBWWnhLRVkyX1dJaFozYmFQR0dTRGlKZkliTTBwZw?oc=5"
+      "headline": "Baird turns bearish on Coinbase, sees Q2 revenue miss and valuation risk - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXpMd2tKdU1GN0NuaUJ3cXAyWXVBT1lmT2xzLXFGOHhhUDlFdU1rYVpXSU5fNXBLNGV2REtjbnlpTE15NUVWei1HXzh0ZzZZMlNLWExMbVd2NW9HcFQ2a01Zck85UURuc24wY1JkdVE2TkNJbC1oVGtnb1BncjNfYWpNcWRxUWg0TkFtUmF3NFF0ZUlvcEIycUM1Q2FXQ0k?oc=5"
     },
     {
       "headline": "Stocks making the biggest moves premarket: Broadcom, Micron, Petco, Coinbase and more - CNBC",
@@ -429,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMnBlcEtuSFNJRzZDcVJQejljVGtJaGFSY1ZvTTlYdkdtd1NsOW1mZUlhc1hVb0JvZzF1X2R6RWhkZlFVcXhYWDgyQzRsS1lTZVIxSG9yc1hJVUwwOW0tRWVMajRkV25paHZBdlFwTjluaTFxWEJrbWE2T3hmeW92U0FsX2pWQQ?oc=5"
     },
     {
-      "headline": "CRCL, COIN Stocks Dip After Report Suggests Coinbase Is Mulling Entry Into New Stablecoin Platform Backed By Stripe, Visa, Mastercard - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTHdxZGV2MGw2UUc3MEdQOTZTdGV6eU1SU3hSNVplNF9BRTJULVhxUG9YQkRrVGdSZEpwN2t2Ujl0VmI2dmxjalFGbVVwdXVhZTFDMDJCc1lXY0FxWnFoOVM4WXU3al9fdFRGeEtTcm1WdG5uSlNhX2E0X2V3TFR4Smk5WElhYTJKam9JYm9Qang4ZF9yZTBZ?oc=5"
+      "headline": "Bitcoin Weakness Is Hitting Strategy and Coinbase. What the Charts Say. - Barron's",
+      "source": "Barron's",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUnlfSzg3YWZvdml5OWxVcWRvNWxJOU5OX3NUU0ZqUTR2aXY1TU9ETi00VmZwcVEydHFlSzdjLUVySHBhX1FlMWllNXViVTRPVU5ubU4xTGxXeXNJSnVNRXFQd0Fqem9UM1ZjVXlESFhYUDRmLUxaT2FKRmpsN3NROVlSMDdvZzh6QVNEMDE1Rlg?oc=5"
     }
   ],
   "insight": "Tracking Coinbase (COIN)."

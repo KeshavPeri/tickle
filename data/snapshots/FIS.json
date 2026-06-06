@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:28.807Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:01.176Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    47.279998779296875,
-    46.61000061035156,
     45.970001220703125,
     47.25,
     43.4900016784668,
@@ -24,11 +22,11 @@
     42.9900016784668,
     43.599998474121094,
     42.52000045776367,
-    40.86000061035156
+    40.86000061035156,
+    41.47999954223633,
+    40.95000076293945
   ],
   "6m": [
-    64.06999969482422,
-    64.41000366210938,
     65.6500015258789,
     65.37999725341797,
     65.7699966430664,
@@ -158,10 +156,11 @@
     42.9900016784668,
     43.599998474121094,
     42.52000045776367,
-    40.86000061035156
+    40.86000061035156,
+    41.47999954223633,
+    40.95000076293945
   ],
   "1y": [
-    80.54000091552734,
     81.2300033569336,
     81.69000244140625,
     81.0999984741211,
@@ -410,18 +409,14 @@
     42.9900016784668,
     43.599998474121094,
     42.52000045776367,
-    40.86000061035156
+    40.86000061035156,
+    41.47999954223633,
+    40.95000076293945
   ],
-  "lastClose": 40.86000061035156,
-  "oneYearReturn": -49.26744456682252,
+  "lastClose": 40.95000076293945,
+  "oneYearReturn": -49.587591935703074,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Fidelity National Information Services Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONFh0YVJyV2VsTUNKMmE1d28wamhvMjNIc1RPUVQ0NEdFWnZwVHVZOC1aa2g0RFNlWXJvTVZOR1h2alpORkFFbUZTS1BHWHdRdlVNUW5mTmYxeFhReWhINDg5QkZxN3luSGJKd0RKM1BlZ19EdmY1NFdCQXpLX1B5TXNneE0yZ0JtS0kxTlNISHRtWU05c0hHamlBeVh4RElkMFVYRk5Cc0NQYkdadlgzaWxlWnVJWjhoUEI4UG1IcHN6b0lKRld1aUw3R0pvaWh3dWx2Zk4zdDFvdlBfNl9uNzFUVnlXRlJYb211VW9Va3hZdDN4bDVCbWZtRnFoZ0JvRTlvTjB2ZnlDejFv?oc=5"
-    },
     {
       "headline": "Truist Reiterates Hold on Fidelity National Information Services, Inc. (FIS), Cuts Price Target to $45 - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3IzSllQWkdlTTJsaDZKaTA2NVdEZmkycGdtQXEwTVZ0UjRMY3VmNFpTRTR3RlRzQ04yOFZzU1J1UV9neTFoNkVUV0N0VXV6ejA2ZndzeldsRnpOWlhGcl83VFpiM0lfc3JDXy1sOG1ReEROdzR4NWM4TUhlR2dQZk43ZFUxVzJYZmlWYzZYQ0U0U2dVd3ozNzVBc3FaN21RSlFEU0RPUWM?oc=5"
     },
     {
-      "headline": "Anchor Capital Advisors LLC Lowers Stock Holdings in Fidelity National Information Services, Inc. $FIS - MarketBeat",
-      "source": "MarketBeat",
+      "headline": "Fidelity National Information Services Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaVFnRUpsT3IyRFFjRmhTZEhVdzlHdFRhUmdfOHdpODVqS2tGUjBZMFY4Y0lXSExjUW5JNTJpUzVxeFlLWElHN3d3SGlNS1lraHRaUkh3eWQzQ3o2a3o5TlhmVkVVa2ZCMUdSVWFEd2VJT1cwSndqLTZUYWtfWTU0bmExRFFWVlZMNFBjNkFfOXdQSnlfcDhYUmxSandTQnBVVHBQQ01lY2ljVzJLZEhfb2FuN0x3YmF5NzhEWmkzVWRJYTJlQkxFcDQySXM5TThqZVlTa1huNGx2OFdadFJIcC1IaFZMNTNmX1hCRDNITTRGdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONFh0YVJyV2VsTUNKMmE1d28wamhvMjNIc1RPUVQ0NEdFWnZwVHVZOC1aa2g0RFNlWXJvTVZOR1h2alpORkFFbUZTS1BHWHdRdlVNUW5mTmYxeFhReWhINDg5QkZxN3luSGJKd0RKM1BlZ19EdmY1NFdCQXpLX1B5TXNneE0yZ0JtS0kxTlNISHRtWU05c0hHamlBeVh4RElkMFVYRk5Cc0NQYkdadlgzaWxlWnVJWjhoUEI4UG1IcHN6b0lKRld1aUw3R0pvaWh3dWx2Zk4zdDFvdlBfNl9uNzFUVnlXRlJYb211VW9Va3hZdDN4bDVCbWZtRnFoZ0JvRTlvTjB2ZnlDejFv?oc=5"
+    },
+    {
+      "headline": "Fidelity National Information Services, Inc. $FIS Shares Sold by Reinhart Partners LLC. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWW9OT2FqUnR6czQ2ejJ5TjZaUmdTekxRcWlWcktjM1FwTm8zNndqT1RVYUhKOFoxTFZLMnhkMXl0b3dJZ3lkYzNhdjA0ajI4Z1otLTRlX1hJb2lTVUNDMnJpZUpfa3owMVVEbWdsM2cxN1RkV1lyTG5QQUt0WUpTWWFRLVAzWGVSNnNLU3RfRkRhYlN0U0pSWHNLaTJpNWR1QUtIS3ZfQVJpSHVOSC03Q3loWFlxUjQ2Q1RFOXJrVjk3WkZMSkg3aVh2UW9JTXJCQmozZHloYm5CNW1R?oc=5"
     }
   ],
   "insight": "Tracking Fidelity National Information Services (FIS)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:06.698Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:38.803Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    138.86000061035156,
-    139.72999572753906,
     139.8800048828125,
     140.4600067138672,
     141.49000549316406,
@@ -24,11 +22,11 @@
     133.30999755859375,
     137.8699951171875,
     134.35000610351562,
-    133.58999633789062
+    133.58999633789062,
+    133.72000122070312,
+    133.5399932861328
   ],
   "6m": [
-    114.26000213623047,
-    114.41000366210938,
     118.55999755859375,
     116.73999786376953,
     116.98999786376953,
@@ -158,10 +156,11 @@
     133.30999755859375,
     137.8699951171875,
     134.35000610351562,
-    133.58999633789062
+    133.58999633789062,
+    133.72000122070312,
+    133.5399932861328
   ],
   "1y": [
-    137.2899932861328,
     140.63999938964844,
     139.00999450683594,
     138.55999755859375,
@@ -410,29 +409,31 @@
     133.30999755859375,
     137.8699951171875,
     134.35000610351562,
-    133.58999633789062
+    133.58999633789062,
+    133.72000122070312,
+    133.5399932861328
   ],
-  "lastClose": 133.58999633789062,
-  "oneYearReturn": -2.695023038227442,
+  "lastClose": 133.5399932861328,
+  "oneYearReturn": -5.048354759903539,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Airbnb CFO Elinor Mertz sells $1.01m in stock - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1FxNmY1Vi1mRUc2VE90WFViX21EZlZJZHRSSUx1THlhaTVweXF0YXRxWE04cUVsUnRYMXdobWNGMGpKU1hYWkxzSml2U2lXcGdCMXJpandsM0wyZXFRVnhLcTdnZUxIVjZoQ2l0Nkc0Z3V4ME1LRlB1cE83TXo5RGVvRE1PQ3NUWVdtckp5T2tBZU9WdEtBcHNQcmZqUFUxdDBFX25OSzVSalFjVUVuU3NET3BLY1E?oc=5"
+      "headline": "Airbnb, Comcast, and 4 More Stocks That Could Win at the World Cup - Barron's",
+      "source": "Barron's",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOUVRT2xJa2ZrTC1KX0VuSWJIb3F0dkRzNTI2VC1laDUtLTFGT1FHaGgyY1ZrN1lWWWJiZjR5WkdTWE90VEdRRmpQVk1JMXpsWklDMk1zSnlRd1NQbzd6bnlWLTc2REt5LUZpWXVwNENULTRzdGYwUE54NEFvRFY0czJRdXpuNHkwbEZ2RFJ0aGlGbWdQc3NfNm5ac3I4T3hQeWc?oc=5"
     },
     {
-      "headline": "Is It Time To Reassess Airbnb (ABNB) After Its Post Pandemic Share Price Surge - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMFQ0MU1LX0dwUFk1RTlidUlkY2VObnhWWVFzcGszSWZlalNvVm5jaTNRZ3U4SzJpX2xPaVA3VHBja2V4eVJsRXVnMkhXSUlJVEk2V2FlbjJld3hRWlFaWGEwbG9NRVVYc0pDeVpJbXdwODlrOXhITDVBdk1qcWdWcGMwN29hZ2RlRElzSXhJSUZ0bTJHMzFrZkxzWnZHOEFxeFFBTlAycDJJMkdTMXlXbDlQVXY2dk9SS2xNWXpSZ1UtZExjOGNFeWtPNmVxQm_SAdQBQVVfeXFMTWU5NlI5eXpBQTU1dkxCbjhuamJMSDVlRGk4U2RYNml0ZzhNclRHMG53OUt5V1dGUmZlM25sS1N3NFUxRmE4MXVjZS1ONjhELURuOFdMMWNLcFZyTm9qWW5iWk1VMklNOTFQdjVWRTBXRkQ0ZFVXRGlCamdsaHctQklyR083d1ZnZDRJUEtaa1hiaXo4UDN5dENBSnZMSHVNTVlQOFk1ZGgzU2ZmT3BoR2FDektKWkY3NF81cUt1czZjdWVfT0xycnAzU191dHA2b1VxVGY?oc=5"
+      "headline": "Is Airbnb Stock Underperforming the S&P 500? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUFtY0NuZEt3UHF6dWNPNndxS2FWeXBkTkhIVzVBMGxURTlRcGRUeWNHeUxZLU44TzljSHY0YUJJUDR2eWk2TlZZd2s4dXRpR1FwRFRyMWhMTkF5aE56c2FSY09pZzNyNVF3OUc3ZXlrR0FzYWVrRFlEcXJYdzZHOXgyV3Q3WHRlWkllX3VuWTI?oc=5"
     },
     {
-      "headline": "Airbnb (ABNB) CFO 10b5-1 sale leaves about 449K shares - Stock Titan",
+      "headline": "Brian Chesky (ABNB) files Form 144: multiple Class A share dispositions 05/27–06/04/2026 - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcDlrVHlmZVBCZjhJejFrcHhxOGZfU3ZNM2Q4NkRWTlZpOGtHVmFnblNFQ3Z2RkNRUkhJTnpkMDl1Y19SY3JpSURTbUNTbGVlV1hQc1JILUVfeFBqQXJtdThBVXhlcVlTaXVzdlpGX0R5ZDlLRVRtcTNDdF8zUENETHMyRHBwVEoyQ3VYbjg3ejJPdkQ1d1hXZXpydmtoRE5TM25JbW5oYw?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTENScEVBVEhKSVdGcGN5WERqX1dkLVB1dnhXR2ZyZ3JMWUV3UUV4anpiQlhWekxNVlFSUTRTYWxIOElmTlN3WU5xS1dLSXM1Szc3bW9XbTNJTFlHTUNKOWVEa0h5ek5uZWV2QV93M2xEanIyNmZ2Z3B3dzVtWnUxemd0RmlsUnhha28zRWhmX0k?oc=5"
     }
   ],
   "insight": "Tracking Airbnb (ABNB)."

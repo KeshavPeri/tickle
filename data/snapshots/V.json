@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:52.134Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:24.779Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    326.8500061035156,
-    322.0299987792969,
     318.79998779296875,
     321.2799987792969,
     318.7900085449219,
@@ -24,11 +22,11 @@
     326.3599853515625,
     322.7699890136719,
     317.32000732421875,
-    312.3999938964844
+    312.3999938964844,
+    320.17999267578125,
+    323.57000732421875
   ],
   "6m": [
-    327.9800109863281,
-    329.29998779296875,
     334.5299987792969,
     333.7900085449219,
     334.44000244140625,
@@ -158,10 +156,11 @@
     326.3599853515625,
     322.7699890136719,
     317.32000732421875,
-    312.3999938964844
+    312.3999938964844,
+    320.17999267578125,
+    323.57000732421875
   ],
   "1y": [
-    366.7699890136719,
     370.2200012207031,
     366.6600036621094,
     370.70001220703125,
@@ -410,29 +409,31 @@
     326.3599853515625,
     322.7699890136719,
     317.32000732421875,
-    312.3999938964844
+    312.3999938964844,
+    320.17999267578125,
+    323.57000732421875
   ],
-  "lastClose": 312.3999938964844,
-  "oneYearReturn": -14.824003257027876,
+  "lastClose": 323.57000732421875,
+  "oneYearReturn": -12.600614159869345,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Visa Inc Stock (V) Moved Up by 3.36% on Jun 4: Facts Behind the Movement - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSG5kRmEycDd4d3k3MnFzNVJsenY2d2tUaTBDbzZReTZMWmZjSGpKdWhNQ1A2Y2ZoUmRHUmtwWTlUenlmQTM4TWVxWkNfczI5TFg2bEg0R3VwSFA0VmZkNThDY3pkWnFHMFZSMlFhTkhuUmZ5SEVOckxLLVFOc1R1SmZ4Y0t4X2c?oc=5"
-    },
-    {
-      "headline": "Visa Inc. $V Shares Sold by State of Wyoming - MarketBeat",
+      "headline": "Prudential PLC Cuts Stock Position in Visa Inc. $V - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkRJdGY2ekJfOUowVkV1eUpNWDlLVk56X1VnRUQ0RWQxcEVYWk1FOE9feVp5eW5iWnJkRUVKZTItaXNZcFRnTTN3SnBNbkxyMVVtVVptRWE2QmxIWVVGeEVlWkhUVzlUdXhUMENHMk1hZmdvQ3FLNTB3WVoxOFRIcGQwTy1OU3NoMkNrdjFqRjlweWlselNTajZTa0gzVnh3T2ZWQ1Z3?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEpMTWFoLS1keWlwdmRTS0h2R19qOFpEdUlVQ2l4dzQ0aE55M1F1RDRQbEJzc1VmYjFDaUJ4UGhveU9rTEFwa2VEcC05anFGSzlxMWtSMjlxVVlPaDFfS0Y5OTZZdmlSYkFtLUJjaVctb3pjeno2ZkZLMXVJamdkNmw0UW9IVk1VLVZpcG94UGpua01jbjhtOXAyTTFwTEJUUnpWbzUzTXRQamZaQ1E?oc=5"
     },
     {
-      "headline": "Visa Inc. Cl A stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "headline": "Visa Inc. Cl A stock underperforms Wednesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbDk0WWhyc2JpOHRiUmFGbkRIRndfcjVEZ2djQ1VKbVZ2MGNud0F6LXVJc1ZBOFhZYk9EYXkwbVRncnZVOTRvLThMbl9BSUZ2Uy1LSGgxa3lpMWRWYjQ5d0gzREhSaklsTHpGbUxiMDdJTmdhR2tKMnZDSVlmdW1ta205Ukk0UFJNazMxbHIwSTgtcWtRVDlqOTRodktDcEdPeWg4TG9UcUZrQTlTbF8zY090MlY3WEV1ek50Y3hCUVU5VUdoLUtoUHZxamJVMVEyc2owMmp6SjRZMnNoOXFCazNB?oc=5"
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlE0Z215Ym92MGQ5YXZ2ZmFjR1dzYzJCT2VVNU1QdV9aXzI0c3ViRnJETEVvSllUdmo4ZkJEbF9rQmIyMEZncmVQVnRoMjVtNlhwZkVaZktmUGxzMjFkaURWOVJpbzRiTzltTEdsNVRmVzhqcWg2OFZaZG9JcWR5NXdDQy1fUmRBQ1NrSG5pR1RacTd5R21nNkpoenJfTDhSOG1EbzRyV2tyRDBUczNEWmJna2haUmJvLXNyNzV4Q1BXNHRpYUlOWGJCWjVLckV5NGdOa1Y4UDcxY282NU9sR2pLTnA?oc=5"
+    },
+    {
+      "headline": "Is Visa Inc. (V) A Good Stock To Buy Now? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-02",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSW5Wczd0dHZoTDFYcmVxY1gwMWFoLWtyLVV0MlU1QkpYMndOTnEySFFPUXNHaVZKOVZZSEswU0tJZ045V0Nza3VMUV9uS3ZEZlpXMXpyQ0xlTnhOQlVCRm1kbHpqOEdVc29aSjVMaFFRSG9lSV8taDB6T0pZaHc4dnpKMHNxeE41czVIVFlsSQ?oc=5"
     }
   ],
   "insight": "Tracking Visa Inc. (V)."

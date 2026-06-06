@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:36.072Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:08.868Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    128.22000122070312,
-    131.6999969482422,
     132.05999755859375,
     126.80999755859375,
     128.83999633789062,
@@ -24,11 +22,11 @@
     128.25,
     126.37999725341797,
     128.4600067138672,
-    127.94999694824219
+    127.94999694824219,
+    130.25,
+    124.66000366210938
   ],
   "6m": [
-    85.0199966430664,
-    84.7300033569336,
     85.66000366210938,
     86.22000122070312,
     86.3499984741211,
@@ -158,10 +156,11 @@
     128.25,
     126.37999725341797,
     128.4600067138672,
-    127.94999694824219
+    127.94999694824219,
+    130.25,
+    124.66000366210938
   ],
   "1y": [
-    101.27999877929688,
     102.20999908447266,
     101.22000122070312,
     101.05999755859375,
@@ -410,29 +409,31 @@
     128.25,
     126.37999725341797,
     128.4600067138672,
-    127.94999694824219
+    127.94999694824219,
+    130.25,
+    124.66000366210938
   ],
-  "lastClose": 127.94999694824219,
-  "oneYearReturn": 26.33293689809666,
+  "lastClose": 124.66000366210938,
+  "oneYearReturn": 21.964587397249314,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Iron Mountain Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHQ3TEN0S1RJZnBoTm15VU4tWHJOSGhGNkhseDN3VDFER0NwOU12dXZZbkRKcnJfcWptU1JPM2k5Q0FjN2dQazYtcFlPRnRsdTVYNC0zOEVKY091QzVmSnBqd0U4aHp0d1lDQUJLb2xqTkNRMXVrVXpkMkROeWNidDVaeXVUcGJFVUstd2QyU1NnMTZ0cmVTVGJKWVV4Q3YzQWlkZmRjMGxrb2FOVV9RaDEyR2NMSFFsRXBZVmxiVGVja0NvNHhtYUgzdzhVdENEUmNRVTVhbjhRQ3U4YmJPRDFxN3dZdw?oc=5"
+    },
+    {
+      "headline": "Is It Too Late To Consider Iron Mountain (IRM) After A 243% Five Year Run? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNckpTbUE2c3lMajBlWlNwUUF1bWV4RzNVOF9fd25IZ3ZPSjNRZ0tPYjgycVdCTjd2WDZJa1dCVmUtWTNIVjFpeGVLLVJub1JYZGl1MEt0Wks4SFdEdEZuX2pkZXBMWmVyVXhHTnNfa0cxZmRrRTB4YUlUN2w2bmtDU3NYT3BoWkh2ZTlOaEh1c3lzSWpocFNLUnlmZHZPaUJ2MGFpMnY1Y2dZQ2ZrbWdEOEFKcXJZMnpNUnlkX0dKRWlzZnZjMjVnNDJ4M2zSAdIBQVVfeXFMTWRkcE1fVWhCWDB2dy15RFByM195UHFVOFBjZlJRemVOa3dfZkp6TVdLMmhOb1dnd2cxU2d3dlBydG5pOTAxbExCMnM5UXdJcTRGRTdjWC1IVzNhRXZlMWwxUThQeTVvS2VWVE1CTmh0RlAxTHgxTlczQVFlZGJPVmVQcHQwZzk3dWtWWGplMmpjQmlwOUtBVElXMlZWbWloQnRBaS15RVVlc21zdzBiVDZTalRtVUNLNnRrb2U4c21yZUNSUXdwUV9TQ0hCeDFGeVNB?oc=5"
+    },
     {
       "headline": "Assessing Iron Mountain (IRM) Valuation After A Strong Multi‑Year Share Price Run - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQjFocW45Z3k2UTZrRFZsaTBsZ29pVUZpQTFKUVVzZlFjRG1FX0hXZkhfUGZjSFNEVGJja29VWWUzc2Y1ZERnOUtUeVFtNXU1Y25VdHFaTEFHR3NJbkhNYWV2N0d1UTlLWTEta2JxbVNpNTNvNUVwTXBBOE9LQkxKYjhDclpMMk1NeVVQNG84a3pkOVBidkFmWTR5a0xKS3pYNE5xOQ?oc=5"
-    },
-    {
-      "headline": "Iron Mountain Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWVUxX3hLRm4zVzVwS2w0eW91T1ZqOGQ4UkE5S3NpUGNhQnVXMFZISEd6U2EwbDJ5RXRQWGpFS2VKblFiOEFHeGlKbjdkU1JBNVVaQWpJeTVsWlI1THl3Ykd2MVJndEdlQ25PTU9WTXZFRU5hRU1Md3JwRFJWLXRrX2owcUJyc0pWNlpCR1hVbzRWTUJrUV9uX2MtbTB5Nk5lcjh5ckI3NXhUV20xQkk2cDZDN0l3VlpXY01LV2x2T19sTzBZWDZ2OW82RlRUWmZSUmIzRl9Gd09nWHRDMlpKOQ?oc=5"
-    },
-    {
-      "headline": "IRM Stock Price, Quote & Chart | IRON MOUNTAIN INC (NYSE:IRM) - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4RFozTk1tZmFxa2VvWExLZ2RFclBpWHh4OUhVVjdGc1ZEZDdWaGNwMmUyZGo5SXotZlpwMXliQnEtQ21nQ3h1LVpDbGx0cktBcGR5cUQ2RU1sSUtCYXc?oc=5"
     }
   ],
   "insight": "Tracking Iron Mountain (IRM)."

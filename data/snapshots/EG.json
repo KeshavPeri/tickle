@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:24.993Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:57.301Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    347.5199890136719,
-    349.67999267578125,
     351.8999938964844,
     351.7300109863281,
     351.5199890136719,
@@ -24,11 +22,11 @@
     324.0299987792969,
     324.8399963378906,
     320.7900085449219,
-    318.1199951171875
+    318.1199951171875,
+    319.5,
+    334.4100036621094
   ],
   "6m": [
-    311.3399963378906,
-    309.989990234375,
     314.0400085449219,
     312.0299987792969,
     314.2900085449219,
@@ -158,10 +156,11 @@
     324.0299987792969,
     324.8399963378906,
     320.7900085449219,
-    318.1199951171875
+    318.1199951171875,
+    319.5,
+    334.4100036621094
   ],
   "1y": [
-    343.82000732421875,
     346.17999267578125,
     340.6199951171875,
     336.2900085449219,
@@ -410,29 +409,31 @@
     324.0299987792969,
     324.8399963378906,
     320.7900085449219,
-    318.1199951171875
+    318.1199951171875,
+    319.5,
+    334.4100036621094
   ],
-  "lastClose": 318.1199951171875,
-  "oneYearReturn": -7.474844878005136,
+  "lastClose": 334.4100036621094,
+  "oneYearReturn": -3.3999622342979223,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Everest Group (EG) Valuation Check After Mixed Short Term Share Performance - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-06",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcG1KTlVZRU9rY0NIX0ZWS29GcTBlSGlYSDgtYnZYMXdaUEtPNHVOMThUUF9UUzZHTWpzVlZZVWk1U1R0eC14dkl4OGxvLUZZdnNlNFVXZmQyN0drWnNyS1NabS04TkVYWmhvdEZQVnhoOEQ2T2R5ZS16b1hramRBbjFpekhkTll6MmZUbE1ic0s5TGNxS0lQU2NYdEViUktxMVpZTmNjNk1Ea010SzJRVmpidVEySGlnSFZsZVlZRzVGU0N2YTMyMNIBzgFBVV95cUxPelNoX0g4bGktUWowbF8yRW1OZ1ZPZk9zc25TVzRUd1F2dTR6eUtRZGpkZVBlTzdmNGhzWFNOUVdWYVhrYWZfNG9RRUFJd0N6cXBJU2dQRXUxVGpoYjlhckxleGY4YkRlU2FwLUIyT3NjWGota25pdUxIWnlYaXdSUjRhZXpFaWZKMHJFdzlCZExTOGJXRFRpNTViaF9WejhObmpPdVA0SW1SX1VpNml6ckxlZ291U2dXNXI4VjhZaXlBcFFxWkNZaENJVzYxQQ?oc=5"
+    },
+    {
+      "headline": "Everest Group Ltd. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWWEyN2JsTnNhR3pWUjBUU0NfV19QRkpVOFFPSmtUY0F5R05QeldJMXBEajd5UWx2WEU1QTREYTVNcVlCQ183WFJwVjZrZnowQmEwa0pXQS1SeGlzcnFZNWpIRWNfazYzaVNRSlNFTTB5WFIxVXJBQVVGeXBpdmRoRm5MQUpSSTFjaVV3LUtRbVFpWC1KOTQtaF9PN19kR09meDhvUVBEVkotb3c0aEk0Um9Ield6NzRXeFd4cG56X3doTWdVM21WOXlqaWtYSjFQMmpsX0hBbFVqOVpXOElFXw?oc=5"
+    },
     {
       "headline": "Mizuho raises Everest Group stock price target to $388 on earnings - Investing.com",
       "source": "Investing.com",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRHAwcW5yenB1RWt2Uzh1ZkR4TnZMYjgxakxfLUI5cTlraklzLXdKSVVKZC1RZFg3ZFRBMWVKLWg1T1pFRmxHVW9mQkhWZy01eFhJc2Q4X0pNdXlDdzRUMDl5bnhhMjNkdmZiTGZYUHhxTl9sR0Z4eU5hZFVMRl9CM195b1ljSVZPakNmSEtXanVtbWY5WlhraVQ4SE9mT3ZlR2lWdlktNW9rcEUtVFVMUmVvOHduR2pzYzZ0V21zMldoZlU?oc=5"
-    },
-    {
-      "headline": "Everest Group Ltd. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWU4tQlRFMld4WDRxZ21tZS1uQWVUaGVUWkhWb0NQbVhIb0xVc0Q2a0RWZWFVeXFtck9FYzRwVFZEQzd4UjRJTHFfWUVwcm9na2xVcHY5ZGVjWlA1ZUtnYkhyWmlpVmlWWVh3VURkei1QSDA0bHVfdEhiZk1GNXQ0SnV2M2x5T3l3dWRUQmV5R0xDa0pqZV9zZjlpTDdZbFgwdF9JejhNRkdZci1nZmw4YW4xRUhUQ2lrRkxYMjM3REVvdHg3V1pLb0U3alRqQlozZGY5WTRJWEs3TzZaM29mUVlTY043ZXc?oc=5"
-    },
-    {
-      "headline": "Do Wall Street Analysts Like Everest Group Stock? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUXR3TGtsMVJfQmhveTEzeGhtTE9HYld0aXliNU03VE0xa05ieThxS0lYXzhSZDJfTm1wSVM4SkJhVXdmZ1FfQ3RvVnptM1NIMzBtY1pIdUFJNkhOdDY1SVg2bzcxR2htQXNqNzdkV3FnMVdIcndkbjdjZF9ONUlkTmFLZzE2WU1WOVIwUnlvS29oa2xHaXctQ0hfRk4ycERP?oc=5"
     }
   ],
   "insight": "Tracking Everest Group (EG)."

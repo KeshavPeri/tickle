@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:16.376Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:48.538Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    25.670000076293945,
-    25.770000457763672,
     27.520000457763672,
     27,
     26.3799991607666,
@@ -24,11 +22,11 @@
     28.059999465942383,
     27.510000228881836,
     27.639999389648438,
-    27.170000076293945
+    27.170000076293945,
+    27.850000381469727,
+    27.40999984741211
   ],
   "6m": [
-    26.559999465942383,
-    24.760000228881836,
     25.719999313354492,
     25.43000030517578,
     25.780000686645508,
@@ -158,10 +156,11 @@
     28.059999465942383,
     27.510000228881836,
     27.639999389648438,
-    27.170000076293945
+    27.170000076293945,
+    27.850000381469727,
+    27.40999984741211
   ],
   "1y": [
-    24.020000457763672,
     24.280000686645508,
     24.209999084472656,
     24.510000228881836,
@@ -410,17 +409,19 @@
     28.059999465942383,
     27.510000228881836,
     27.639999389648438,
-    27.170000076293945
+    27.170000076293945,
+    27.850000381469727,
+    27.40999984741211
   ],
-  "lastClose": 27.170000076293945,
-  "oneYearReturn": 13.11406976893766,
+  "lastClose": 27.40999984741211,
+  "oneYearReturn": 12.891264712723688,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Truist Lowers PT on Carnival Corporation (CCL) Stock - Yahoo Finance",
+      "headline": "Spotting Winners: Carnival (NYSE:CCL) And Consumer Discretionary - Travel and Vacation Providers Stocks In Q1 - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOejhPUFpvM2pQU3RGQ0VjV2diTklfb0hyX2NDRmdkd2hYSVBlc3UzT1BpdVNyUFhnbTV0T041YU1rX3dscXdISWR4X3kwbzIzQ0hIbGQ1bDVmWTZxUXRjOUc1bEZwOF9NTmdSZERHY3N1REtCSGZoTWFTdFhqR2NGT2t2SUFNTFhGc1BtR043RnplMXdFbmtIR29BUTNxbGFNMWxRYw?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3hWWmttZjRVWVVqemhPOEwyVFFlbEM2OHdnT284YXhyeGJ5bXRIOW1GaHlqTHVJbGdzY0NpblRaeFJ2Z2RyMmUySXVUdms4d3h2UWpkMUx2NExaekZyTTRsbEl3YlE1TzZDZDFBaXp4eXBOeS1iNURyLTVod29kenUwVThqbVNzRVM3Q1VubmxqR1dpMS1ycldfNmNaSTZT?oc=5"
     },
     {
       "headline": "Royal Caribbean Cruises vs. Carnival Corporation: Which Cruise Stock Is a Better Buy in 2026? - The Motley Fool",
@@ -429,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZnNzcXpicGk2czNVYnVCejRsZlhqeGdObjUydFhISUMzOEw3YXRIS1VqM1JZdnlVdWhNRDJ1UjU4ZHhCZGJHNlpyM3BRV0taOWlzMlJrTWMtRExaODZYRnF1RHEwQnpONlhaTHZCOTROSXFBOE5TNnVPTU9RRlJLM1gxUmhidzlER0lfUVFXNjhnZ3JGS2xYRFVJQTM2OHhJUnJlZloyakwtV0gycDkxbk9QM21NeWpRcHdBbmpITE56VS1CUTZxQm14ZUszUUJNazcta1hWY2hRbkE?oc=5"
     },
     {
-      "headline": "Global Chief Human Resources Officer Of Carnival Sold 65% Of Their Shares - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Freedom Broker initiates Carnival stock coverage with buy rating on strong demand - Investing.com",
+      "source": "Investing.com",
       "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbUpyb202RnlIaWlWTXVRa2M4Qk5lbmhDX19HMHFaQ2NJUUhoem1RWjVGbWkwcU5NbFVJNTMtYnFTdWdBMGtLYVZaZGVoTWJnbDJic0FHUnRXcWd5TTNjcmNEUjA5YnpMNVpKaThwelMxTGNMc3l0VnVmTGlhX2M5MFUtMWpQbEJuTUJqaFdCZWFHSE9fLTBVdmxpdmp3RC01bkRQUlJEYTBCNlFnajFtLTBybzRwTkh3VVN3TUlVOFB6Q2l5ZFpORFNuSkbSAdIBQVVfeXFMT1ZtZ0FqUEJvb1lHMXF4NHRhd0l4UUgzTFJmZmpVanBYMjRhcWVBbkhhV2drcThtZWdCMHJKTVUzSVBaNUlIeUR2c3NqYXphWHkwcGVBVXVpdUV4MEU1SW53eHZjRXk2ZEhqU1ZUUUprZDB1UC1aMnItbjZlaC0zTUc3NXU2bjNzaTlYMlZyakw5WGRxbHFtaWZuZGZoTWtQRExld0pWQlVXajJBa1E2NXl2bXp0MDNNd2E5ZzlQWmZEUmk5T3pzLU1mSWFfMjNvNzlB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSDdhWXNyQ1owYUdDaHVzUUxtUnRvWVpQa2xrcGRreURrMzg4aGdzc0l3a0RISUxOVGRGeU5Fejh0MVdMeVJaZWpSUVctNHh6eXpudGhfVFNHRDVLU1ZuMFZhYzhQY2RKODJuRG8xUWpqWDdUVGtyXzcwdk5yM2JXYk4xMWtGUWZVSE9lMl9lSUwxSDE4bDdJRUhKSDFUYVA0cjJLUnA3Y3FvNUVhUHNKUUVveTZub0VYdmxQaUFmRUxoY3lQcGU0S1pnMWd3VDRzejkzR0N3X0k?oc=5"
     }
   ],
   "insight": "Tracking Carnival (CCL)."

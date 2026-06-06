@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:12.367Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:43.997Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    416.5,
-    427.3599853515625,
     425.44000244140625,
     412.55999755859375,
     430,
@@ -24,11 +22,11 @@
     446.7699890136719,
     459.9700012207031,
     481.57000732421875,
-    479.2300109863281
+    479.2300109863281,
+    418.9100036621094,
+    385.7300109863281
   ],
   "6m": [
-    340.20001220703125,
-    377.9599914550781,
     385.0299987792969,
     397.57000732421875,
     402.9599914550781,
@@ -158,10 +156,11 @@
     446.7699890136719,
     459.9700012207031,
     481.57000732421875,
-    479.2300109863281
+    479.2300109863281,
+    418.9100036621094,
+    385.7300109863281
   ],
   "1y": [
-    259.92999267578125,
     246.92999267578125,
     244.27999877929688,
     244.6300048828125,
@@ -410,29 +409,31 @@
     446.7699890136719,
     459.9700012207031,
     481.57000732421875,
-    479.2300109863281
+    479.2300109863281,
+    418.9100036621094,
+    385.7300109863281
   ],
-  "lastClose": 479.2300109863281,
-  "oneYearReturn": 84.36887796326243,
+  "lastClose": 385.7300109863281,
+  "oneYearReturn": 56.21027110011343,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Broadcom stock plunges on weak software sales, unchanged AI chip forecast for the year - CNBC",
-      "source": "CNBC",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUWNtalczVVl2UEVtVFhSUF9QVnZVd2ZuU01aaFZaTGZuOWpNWW1Wc1Y3Q050V1ZiRWs3MVE0R3ZUd196Sno4LUZkWUJadnRHaWI5VHpLVGRwQTBTZkJuY2JZelp1VWQyUTlpYVJrVTd2YkdSblQwNzV6dmk0aknSAYQBQVVfeXFMTTBfUHNDN2g0eG9Gc3VON0cwRFlFRUhLcDBMbmNZUXVPcTFVWFNwWTZibW51MkFuS1BON0xTTXVHbFd6N21LekpLZVF5NFBobnJTTnJxa0VhdGxzV3hDS3RYc2RIWHJlMG1LR2xXUlYtSGhsbGx1Y3JsTm8wbk5UUXhOZGJU?oc=5"
-    },
-    {
-      "headline": "Broadcom, Micron and ARM sink, leading chip stocks lower - CNBC",
-      "source": "CNBC",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNldTeTRXZWRPdEthSGJ1YnFNNERrUnZYVDh4ejFqZ3FadXVxT0RMUndVNFZqX2Q0QWtRTW5UMHV4VnlfZVY1N1dkS1dHS3FRcXlZZERLNlJxejMxVVpwdW1semJUR0ozRTNMdFZlOHhtLWpOdGtoTnZ3NUtfX2ZOMGFUX3JELXBUQWtLNVln0gGTAUFVX3lxTE1LbTdmSkNlekdacDFnOVlpVkNaSkJicXQ4eG5LTFAzb1Z0X3VhZ0g3dlMyR1BSNUttZEk3bkdpUkNyOWlNb2U3VjhyZDFnS2FDQnUyRlJuRFNfQVY4S09sal9vanN4UW5KTFRYZ0p5R0VfampvSGtEVUE1VGpuNW40SGphY3J0UF9WeGFRemdYblROZw?oc=5"
-    },
-    {
-      "headline": "This Chip Stock Made a Comeback After Broadcom Earnings - WSJ",
+      "headline": "Broadcom Shares Slide Despite Jump in Revenue on AI Chip Demand - WSJ",
       "source": "WSJ",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUZyTm54LXhvU1BpcFBOODV5VmJqQXVING8tWVpBemVWRjR4czN2bXBHR3VUWjBnRTNEU3VQZFJwbE4xSnNqYVdEZTR5U2kwZHN0OExIZDFtQWhHY0Y2bTNOckdxRHFLbW9QVmc4WERJSGZCcmZyeVd0UFJVekl3UEp3emZXdzV0Wnl3MDBsbzBYdw?oc=5"
+    },
+    {
+      "headline": "Tech Stocks Fall. Why Broadcom, Google, AI IPOs May Have Triggered Sell-Off. - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT3ByeFkxMm04WXhDRVU2YTdDUVFaVXBndTFWbWtDcXdFWkNjU0lhdlBKWEMzekEwTzBqWmFBNGhfNzg1TldtZ2tkLWxFUS05YXpFMTJENXpzNUVnNzg5cmVPdGxsOWVHU2F4OUFHcFlia1NNY0h3dmc5dlg3MnRBWjhCc0w4ZnFJMWRTVFdB?oc=5"
+    },
+    {
+      "headline": "Why Nvidia Stock Is Riding the Chip Selloff Better Than Its Rivals - Barron's",
+      "source": "Barron's",
       "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaU5kZzN2RmdWbURhR256bHl4VXVsd2FEbWtYaWpDb0xta3ZZZ25pMWRvVmYxeG1abE1xbHNJaUZBbFo1T3JqZDlMaGZmcHNfNE93azZaVTJIclRrcEpIVW5FVW1xdTFIN3dXV3EwekdzM1FLeUU2dU5sX0xWdGYtNzUybVR3NzZ4SlhJU1BoSUxlR1ZuVFZyM0dUTlh6WE1kYXVSaG5GTzE1NXo0WTVFV3hXMHNGLXY2aEZwcUlmcEZ2NU9SQ200d0dwcm41Q1lhQ2p0ejFWY3k1S1gwblJSSTdn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NNUxsOXYtOFNDN1E1eDNPQjVlLWhOcHRNUmhVbnJOUWhaQVVMTVUzWjU4cVlKNmFuTURnckRDX3pZRktvVVdzOWczRlZUelNJM0QzdDFnSV90MlRyZUZiMlZ5UWRMX2NmZk1pazVnX2pnWW85UXZHVg?oc=5"
     }
   ],
   "insight": "Tracking Broadcom (AVGO)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:39.895Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:12.712Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    284.1000061035156,
-    285.1700134277344,
     284.1000061035156,
     283.70001220703125,
     275.75,
@@ -24,11 +22,11 @@
     279.20001220703125,
     276.1099853515625,
     276.3599853515625,
-    273.2900085449219
+    273.2900085449219,
+    272.7200012207031,
+    279.8399963378906
   ],
   "6m": [
-    309.3500061035156,
-    304.8999938964844,
     310.45001220703125,
     312.3999938964844,
     311.82000732421875,
@@ -158,10 +156,11 @@
     279.20001220703125,
     276.1099853515625,
     276.3599853515625,
-    273.2900085449219
+    273.2900085449219,
+    272.7200012207031,
+    279.8399963378906
   ],
   "1y": [
-    308.9800109863281,
     307.3599853515625,
     304.7799987792969,
     300.42999267578125,
@@ -410,29 +409,31 @@
     279.20001220703125,
     276.1099853515625,
     276.3599853515625,
-    273.2900085449219
+    273.2900085449219,
+    272.7200012207031,
+    279.8399963378906
   ],
-  "lastClose": 273.2900085449219,
-  "oneYearReturn": -11.550909823414266,
+  "lastClose": 279.8399963378906,
+  "oneYearReturn": -8.953666815865487,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is McDonald’s Stock Undervalued Stock Or Value Trap? - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUFJYUlIa2pfNURWcTY5ZzdzV2dFNlliY1Q5UnFwNDVFUzE4SnkzVXh3Zm9GZ0dQS3VmX0FlYnhWNVlDSW5Gd1VkZHBhRmRaV0ctR0UzZ2I1b0pxaDJKcDdRdWdDcUZ1cE95S2FFNGpWbEJzZmc1ai13WGJ1eU10WXo5Q3BWQkZYUU1tYWtVdjQ5N252RElGcmZQWEhWcGlBU2JDYWF4a3RYS2xwZm9r?oc=5"
-    },
-    {
-      "headline": "McDonald's Unveils Next Plan And World Cup Tie In As Shares Lag - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
+      "headline": "Assessing McDonald's (MCD) Valuation As Shares Weaken And Market Pricing Looks Divided - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWmZTTnFkZkYwbGlfT2sza24ybEhTSmVhTUdBYkhrMjJXT2s2TUdacjV5Z2pZUFhwdU0wOVduck1MR1N5cndiVkZFSkZlU1R0R0hBQlh5WUk4ME9nbDJRZlVwekpTQjF3U0tLeUFTTkRwRUJDTThaNWNUenM5YWtLclRReTAwcTV2NFE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdEFialhlcy1iR2VELW1oZ291MGd0UGdZeEVpeXlTTzJEN3BoTGd2LXliMkNFNFhrb25vRVNMRUdjTUl2Rl9HSEJMUVJwcVowV3JfM21zeGFLTnNwLVVjZ2M0eE1uRmoxTW4tbm8yMkVIRzMwazhXaGg3Z2FpZ25zdFRpaDc1ejZMUDVLZzl4LWN6Q2U1bS1JR2hJRzNISm5DZkxRTXdMdmI?oc=5"
     },
     {
-      "headline": "McDonald’s is testing wings, bigger chicken tenders and AI drive-thrus - Crain's Chicago Business",
-      "source": "Crain's Chicago Business",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOVZBUzhOYzR6MFBuYXAtQnNPN0hqbXE4T0dtQ0luNkVyaFRKYjhjb1QtQXhJcHlEQ2dUazFQcXZuVi1mTS1YSXFfNDJ2bHNaOUxqR1pXeEVIYk1rWDhxMGk5OGt3M21yOHpfSjd5cThsV3ZRQjh1cndndjJoXzdFVk5jWHNSSm9xd3lrekZJN3BTQms5?oc=5"
+      "headline": "Tigress Financial raises McDonald’s stock price target on growth strategy - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbGIxNFo0XzFmcDhSMG5USkxURi12b1Z1ZkdyV3ZldWN3Q3E4bE53TGRSTWowNTdtUGZKRUpHWlVRZXNEdmNMZFRYbmFqRXRGRnlSRTk4TjEtT0FjdFlxUFQ1MmFpUG5aRmFFV1J4QmFpZC1TMDRTZXVVYjJjYVVwVGswckRTMFdqU19rdU5kMkVOWGktNllzLUo4S3NzR1ZOV093WlJKenI0b1hlTWE3blRvZzMxTkxIN2xqQlp2WF9Bd0REVGlXOEtTeGE?oc=5"
+    },
+    {
+      "headline": "McDonald's Is Upgrading Its Menu. Should Investors Bite? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSEJpOFh0WGoydlFPbDRvcU1rVWdpdG9Ca2FCeHBueGVHbWlMVVRxemotNkNLZklud0xtMHN3VHN4UjVGWUVqZjhIQ2Q4aEZXN2NaVlZUc3hSTnJMYlFKR0FMeUJkVzhkaGtWYTNXX3BCTzZWWEV3ZnA4WWlYN0o2cGR5ZWp3dXlGZFRGRFFQUG9JZzNudFJEZA?oc=5"
     }
   ],
   "insight": "Tracking McDonald's (MCD)."

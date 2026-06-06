@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:38.114Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:10.841Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    95.6500015258789,
-    97.19999694824219,
     99.19000244140625,
     99.55999755859375,
     98.30999755859375,
@@ -24,11 +22,11 @@
     97.5999984741211,
     97.94999694824219,
     97.48999786376953,
-    94.76000213623047
+    94.76000213623047,
+    94.47000122070312,
+    99.04000091552734
   ],
   "6m": [
-    105.18000030517578,
-    105.02999877929688,
     106.01000213623047,
     108.29000091552734,
     109.12000274658203,
@@ -158,10 +156,11 @@
     97.5999984741211,
     97.94999694824219,
     97.48999786376953,
-    94.76000213623047
+    94.76000213623047,
+    94.47000122070312,
+    99.04000091552734
   ],
   "1y": [
-    135.3000030517578,
     133.5500030517578,
     132.69000244140625,
     133.0399932861328,
@@ -410,29 +409,31 @@
     97.5999984741211,
     97.94999694824219,
     97.48999786376953,
-    94.76000213623047
+    94.76000213623047,
+    94.47000122070312,
+    99.04000091552734
   ],
-  "lastClose": 94.76000213623047,
-  "oneYearReturn": -29.963045085829844,
+  "lastClose": 99.04000091552734,
+  "oneYearReturn": -25.84051018168527,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is It Time To Reassess Kimberly-Clark (KMB) After Its 28.5% Share Price Slide? - Yahoo Finance",
+      "headline": "Kimberly-Clark shares rise 3.9% as investors digest recent conference remarks and upcoming dividend date - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWXBqOWZoWFl4SEJBZmwzbmRhVUVIVExaT3FIRDlmeDY0UzhTcDJsN3oxdGttZHRKaFI2RHUxa3k0V2ZJZVYyQ0NuT3FRcEdObGFaZk9jd3F1UEhnVl9NREZHdlRLaEtCU0xTbGJUX0JuX3k3LUNWaVJneEtYWUl4SG5aWEJadzhzU0U3dHJtcnB5UHpRN3d5c3FQRUlzQkxuR3NodHdYR29VbUNhcjA3UmRCaF9xcXkzRXhjZDl2QklnTXN1YlA0MGZYalRxcVdUY0lxWXFB?oc=5"
+    },
+    {
+      "headline": "KMB Stock Holds Range As Kimberly-Clark Leans On Dividend Power - StocksToTrade",
+      "source": "StocksToTrade",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVE15YnVHbTJvbUwzZUdHRE1EeWJJcXVndUN6V0R6czRZTlNRRFZWWE1ac1ZHc3BoN2cwTWl4dTdoOHppT3lVQmtSVUMxS2dwU2sydHZHZzJvOWJ1eXVsMTNMeFozTzZlOHRCa2k0c1JuamY4NWRNZkhfNG9jV2tLQTNR?oc=5"
+    },
+    {
+      "headline": "Jim Cramer Says He Likes “Kimberly-Clark Because It’s Merging With Kenvue” - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkFsNmZuMTRYdFY4TFRJLWlnZy1QMmMxRHFMcmlITEJacUswN19PUGR6c0xTTVFDWnJrcEx5U014MzVwVWlrRHZSOFBDSzBQUjlkamI4RmlPNlgtUXpEZVd3OWlvVzBocnN1OVQxdFFvVVI0NzFINlVfbGx0QjRLNGdtU21hc25HVlJua2VUNzlrU0xmekpJSXNKZDZZQQ?oc=5"
-    },
-    {
-      "headline": "KMB Stock Price, Quote & Chart | KIMBERLY-CLARK CORP (NASDAQ:KMB) - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBUXI3N3NVTnZ4aERpZThUUG9RdXNQTFd1cHgxa092SFBCakZ5QzJqd0wxNnNCc1ZTTEd6SkhIelVUc3dWazh4YXljUVMxY0RmMkFDaG5WSUZtVUFXbkE?oc=5"
-    },
-    {
-      "headline": "Kimberly-Clark Corporation $KMB Stock Holdings Lessened by Intech Investment Management LLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORWN6WnVMTHhLNGIyUU8xb1BoRmRmMExlZ3pWWGQzeEZKa1drVXRONDlsNWl2b0k5VUoyN0JzOG84XzhuVWtaU1ltMlEzQUYzUUk5TFdFMjB0VURyMVlDLVRVelJuTGtfRHJNTEZOclhoMVdWZ0lOWGF3dmhGOHBUS3NxTHh4VmUtUzAxS1BNbXRMREtxdm1jRVZTTEhnUVZOTzR6V2x2cEFUZ2N3Q214bGFTSC1Ia3N2NU11d2VZZnJSZkV6Vmp6ZjJLZFl1UU9CU1pEMmlWY0cwYTdYdm93dV94UF81UQ?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2Q2OHlCOU9iYkhmbFRIYUN4NFpVMVU5V1RYMklPQ2pqZDc5R0RNWmZMdjVnZ0lWaG9rbEo5TjVCNVc4Qk1fTG9VR2F3YkJNZGlVRVN5NnNOTGZqNFpXMC1VbTdDcG1mRmJLZ1J5Njgxbmx1VUVHejVtZHNmVUNVbVowRTdEOUx0aXlOTHY2d05MazJMV0w4MG0yVQ?oc=5"
     }
   ],
   "insight": "Tracking Kimberly-Clark (KMB)."

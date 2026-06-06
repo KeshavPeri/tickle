@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:07.976Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:40.306Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    112.38999938964844,
-    111.63999938964844,
     109.58999633789062,
     108.7699966430664,
     109.06999969482422,
@@ -24,11 +22,11 @@
     107.97000122070312,
     105.08999633789062,
     106.77999877929688,
-    106.2300033569336
+    106.2300033569336,
+    106.98999786376953,
+    109.2699966430664
   ],
   "6m": [
-    104.52999877929688,
-    104.79000091552734,
     104.91999816894531,
     106.0199966430664,
     106.3499984741211,
@@ -158,10 +156,11 @@
     107.97000122070312,
     105.08999633789062,
     106.77999877929688,
-    106.2300033569336
+    106.2300033569336,
+    106.98999786376953,
+    109.2699966430664
   ],
   "1y": [
-    96.0199966430664,
     96.04000091552734,
     95.93000030517578,
     95.63999938964844,
@@ -410,18 +409,14 @@
     107.97000122070312,
     105.08999633789062,
     106.77999877929688,
-    106.2300033569336
+    106.2300033569336,
+    106.98999786376953,
+    109.2699966430664
   ],
-  "lastClose": 106.2300033569336,
-  "oneYearReturn": 10.63320878027176,
+  "lastClose": 109.2699966430664,
+  "oneYearReturn": 13.775505624136342,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Should JPMorgan’s Data Center-Focused Upgrade Reshape How Investors View Ameren’s (AEE) Grid Modernization Strategy? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTFRPdXFJaEpGdVhjeEdRem11c1dEZVlkRWlvc2Z6czVOR2ljd2NncmtsRGtaSkZnS0lRdG55eE5pc29ndFJzM1pzUGZFYWwtdjFHMndERkl3UFJicHN0NUF6SmJXRHBJRG5vOW9UTkx2dEk1amRpZGVXaVlfR2RCQlp0a2Z0c0VqSl9oNGZfd2h0Tlk1bmVBcW9XczZ1UWoweTQyS2ctdzBFNkhyZEl3V1RXRGI0MzFPbGNiMjdoSWrSAcYBQVVfeXFMUGVmVld2VWs5WEs1NE1ua18zbmhtX0VFcEtid1MydmFUMy1QeXFIOW1IR1E4MXk2bDd1TzgtZmViYUw1d2NxY1EtX2wxVV94SFdWNWc2SHFTVUJFNTNGRy15cFJ5Z1V3X183VWlDNTVaSGoyeldNZDBIRWpUdmVXZXVzUVZiMXZxdEQzekZiMktSWWI2XzRndGZDXzhXakdEdUVyZzdRVFRDSm5wMy1neDI1WUZNUy1fZjhSRmhyN1Vpd3F5SExR?oc=5"
-    },
     {
       "headline": "Ameren (NYSE: AEE) chair receives 3,705 restricted stock units as award - Stock Titan",
       "source": "Stock Titan",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeWxVQUtkbHRZWGNIWFFZTzNqLThCdGt6VWVoa3JpSkNrbEMxbjFUNHhOV1M3Q2Vma3MybFI1Tm9SZnFQeWpfbEo1TTZIdklsZjBWYW54d1RpM2EwNTRuWXJ4NGRRSTNMbGJDVDJPZS1mMzFNS2I4VFZsZGJTRDJpZ0pQWlhtdVpBem9vck83eUt1cVRhejAtQTgzd0xfNGtFTFRha0lhMA?oc=5"
     },
     {
-      "headline": "Ameren Corp. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+      "headline": "Should JPMorgan’s Data Center-Focused Upgrade Reshape How Investors View Ameren’s (AEE) Grid Modernization Strategy? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZWZWV3ZVazlYSzU0TW5rXzNuaG1fRUVwS2J3UzJ2YVQzLVB5cUg5bUhHUTgxeTZsN3VPOC1mZWJhTDV3Y3FjUS1fbDFVX3hIV1Y1ZzZIcVNVQkU1M0ZHLXlwUnlnVXdfXzdVaUM1NVpIajJ6V01kMEhFalR2ZVdldXNRVmIxdnF0RDN6RmIyS1JZYjZfNGd0ZkNfOFdqR0R1RXJnN1FUVENKbnAzLWd4MjVZRk1TLV9mOFJGaHI3VWl3cXlITFHSAcYBQVVfeXFMUGVmVld2VWs5WEs1NE1ua18zbmhtX0VFcEtid1MydmFUMy1QeXFIOW1IR1E4MXk2bDd1TzgtZmViYUw1d2NxY1EtX2wxVV94SFdWNWc2SHFTVUJFNTNGRy15cFJ5Z1V3X183VWlDNTVaSGoyeldNZDBIRWpUdmVXZXVzUVZiMXZxdEQzekZiMktSWWI2XzRndGZDXzhXakdEdUVyZzdRVFRDSm5wMy1neDI1WUZNUy1fZjhSRmhyN1Vpd3F5SExR?oc=5"
+    },
+    {
+      "headline": "Ameren Corp. stock outperforms competitors despite losses on the day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObWRtS2hoYUZOY3dlMHFKTjFjZ1UxV1ZlWndPR2c3WWVtWlQ5OTdsUWlhZ09VaE9kbW85SzI3bTc3TTZsenlCTXVxR2YzRU9vWnYwaHB3V1FwaGFjTThPaS1aUldTcVNxMnJFMUVJeE9GNkVpS1M0V2Zna3lEWGdJaGFpdlBwYlZMRDYwSkJudHo2c1BpYTR5VzU5Y1RpWjNMb3JzU3BUYVR2a09pN3h0TFJOS3lkSkMyOVlfaFBqdnNCbE5GbVhocWVkZTRDUWRpWHY4TE9kaUYyZ1NOS3pFb0ZPMjVxblV3Z1RXQ01zeGo3UFFCTjNvTlZn?oc=5"
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRy1jS0VmSDI5dS1iSDBBakZONlU3ZXlCSTRNb2kzT3gxcFNFaUJwSDV6NVlHNkhpTkVNdGVuMUM2U1VxY01obTJFbURmeE1hT2FnMERfbENkeWxlMFl1eWd4ZnF2d3RpeTNTLU81dy11ZnpuaFRUeGM1eUEyaXBhWm5KVWVfdUFyMnllSmM2VVlJYk91R3lVLUlnZFAwaVNpRXVFNUxZOW13ZDBOR2ZaWW1rR0lydnVic0NKNllwOEMxbnR2M0E?oc=5"
     }
   ],
   "insight": "Tracking Ameren (AEE)."

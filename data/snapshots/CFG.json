@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:16.845Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:49.023Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    63.560001373291016,
-    64.36000061035156,
     65.62000274658203,
     64.22000122070312,
     63.72999954223633,
@@ -24,11 +22,11 @@
     62.2599983215332,
     60.779998779296875,
     62.310001373291016,
-    61.529998779296875
+    61.529998779296875,
+    63.900001525878906,
+    63.97999954223633
   ],
   "6m": [
-    52.29999923706055,
-    52.790000915527344,
     54.189998626708984,
     53.97999954223633,
     54.099998474121094,
@@ -158,10 +156,11 @@
     62.2599983215332,
     60.779998779296875,
     62.310001373291016,
-    61.529998779296875
+    61.529998779296875,
+    63.900001525878906,
+    63.97999954223633
   ],
   "1y": [
-    40.27000045776367,
     41.369998931884766,
     41.349998474121094,
     41.970001220703125,
@@ -410,10 +409,12 @@
     62.2599983215332,
     60.779998779296875,
     62.310001373291016,
-    61.529998779296875
+    61.529998779296875,
+    63.900001525878906,
+    63.97999954223633
   ],
-  "lastClose": 61.529998779296875,
-  "oneYearReturn": 52.79363814219793,
+  "lastClose": 63.97999954223633,
+  "oneYearReturn": 54.65313317406334,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYmlhNnh2UlhjNVBEeXpJWV9RcWY4d3NJcnlrWjJYNE9hY2tJWWp6cDBFVkVXTHFCSzVaMGhEVEtoemY5QVQ0Z2FjQ3poUGIwM2ctX3phVWFGZUtNSktQWk9oWGFmTE8wWUhmTDNtNEE0dXA5cjR5UUN2RlJCSmVscjM5dUwwZjFuNUgzTEtNYXBFLUo0Q1lmRXRORXhDNi1fTlo0?oc=5"
     },
     {
+      "headline": "Citizens Financial Group Inc (CFG) Stock Up 3.9% but GF Value Sa - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMG96ZTZYMGZQc1A2d0NlOGtWYUhzREdIWk1kYXN5ZHZfZFpsQ2JCVllja3pOSTdjTS1wazMwNTBkT1VWeHdDWDlyRXIwUUNXMHgxVzVhcmVESjBnWkFTS0FZSlprLV9zcFVYdXl6bW56QzFwZ0ZHd2d2NzdIbEk0bDBNM2kzV1NPOGxBVV9WSFk0YmFvRnJ4VUhlYzV5Q2wzU2pWWTBWZ05YODlpUlNZOU9XS3VMUGJnbFJQbG84aUZLdEF1N1MwM29oeDNrV3RrUVNKWUl3?oc=5"
+    },
+    {
       "headline": "Citizens Financial Group Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQy1kd0VXSkdiY2FuWkU1R2N2c1lEM1BNanQxLVpHaV9Bb09iUmJaX3BqWV9XZHNYSlhycElDS2hWdXZZb2k1MnpZNkVlUnRoclhmMDlqNFFwQ2Y3dDhreUtWVDQ3aDJ1Sk15al9uN1d1dDh5TURpdnRtd28tM1JfTXQ4YVp3aTJmMzdadko1ajNXNy05SUNkUWZXVTgtVlJwT3hEWlRYX3BKa3B5cndLM3VCX0ZvNTlSeWZhdWNkSXg4RGg5U2hmM2RJeTB2MHRfVVY0dkUzN05RUl9QTGh2aDA2VHFtMU0zN3dNT0NiRQ?oc=5"
-    },
-    {
-      "headline": "Citizens Financial Group Inc (CFG) Stock Up 3.9% but GF Value Sa - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdGZNbWVWY1JhVURaQkhWU0psMTVzNEo2bmY0UjM0UnF1bDF3aE9va3Z1SE4xcFdjMFRPNmVvQmlLa3lJQXVLa3hUYWt4bnNYM3p0bmJFRW9Mbml6LTByM0V1QlhpeExZbE9VbGNobDJqOVpPZkY5Q0xlNmg5OWFhQ0QxcllYbTNKN29GX21HSmtscVFRcGJVVmpXOS1SYzdZOUVRekNjYldDVnVMTkJlSERiVjZvbGVRbHpWYndxbkRNRE91WkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmJlTmFRWVVwRXFZSEIzZE9ESnpmN1pPUUFLMEJWclRMVWhyM3pkRlNyalhCOWV4VzgyeDE2VWl2Z1gtME5ZXzdJYlBZaDZJNF92WncxX1dPa0VUS0x6aXNWNFZpdU5YMHY0SkRLVlhLejEtdVllX1pIaTNqUVVkaXhhR05QYkdXQzNnS2xaMlF3Mm1UUlliOFRuSlZYdFB1ZW51RERPcUNzN0dWR0hobVZCTTFBN2hQdmpGSXIxNjJUNUVQVmZIcm9wZnpMVVBaT1d0cUlINA?oc=5"
     }
   ],
   "insight": "Tracking Citizens Financial Group (CFG)."

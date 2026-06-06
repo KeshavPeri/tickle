@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:38.530Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:11.214Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    105.1500015258789,
-    106.19000244140625,
     105.29000091552734,
     104.41000366210938,
     104.5,
@@ -24,11 +22,11 @@
     103.55000305175781,
     103.83000183105469,
     104.93000030517578,
-    104.45999908447266
+    104.45999908447266,
+    105.0199966430664,
+    107.56999969482422
   ],
   "6m": [
-    106.4000015258789,
-    107.19999694824219,
     107.94999694824219,
     108.26000213623047,
     107.87000274658203,
@@ -158,10 +156,11 @@
     103.55000305175781,
     103.83000183105469,
     104.93000030517578,
-    104.45999908447266
+    104.45999908447266,
+    105.0199966430664,
+    107.56999969482422
   ],
   "1y": [
-    88.61000061035156,
     89.13999938964844,
     88.36000061035156,
     88.1500015258789,
@@ -410,12 +409,20 @@
     103.55000305175781,
     103.83000183105469,
     104.93000030517578,
-    104.45999908447266
+    104.45999908447266,
+    105.0199966430664,
+    107.56999969482422
   ],
-  "lastClose": 104.45999908447266,
-  "oneYearReturn": 17.887369783258382,
+  "lastClose": 107.56999969482422,
+  "oneYearReturn": 20.675342642324498,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Loews (L): Company Profile, Stock Price, News, Rankings - Fortune",
+      "source": "Fortune",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Ta3RfQ25SVmZKdjJtNkxtaXlFOC1YUXZzRTFNckhLcWE4YmhCUVpybV9KQ0U3MXRpT2NYTGdWUTBjU0ZVQ0t3RjdR?oc=5"
+    },
     {
       "headline": "Loews Corp (L) director Dino Robusto buys 5,000 shares in open market trade - Stock Titan",
       "source": "Stock Titan",
@@ -427,12 +434,6 @@
       "source": "Yahoo Finance",
       "when": "2025-12-05",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWlQtQzJDVnR3akZSVVlOM0F3SFRkRk9XUkNwelpUYWd0bThVVXFrRFdDdEFPTmNxd3FGMXh6RVI0N3F2ZVhWQWJZOTFNMEpnMTFsUkdwaXp0MUl5LWkwT215My1yb05hM3VFQ0VPN0l1b2tpS3JwOXdTdXBMVUotcS05aVNSdw?oc=5"
-    },
-    {
-      "headline": "Loews reports year-over-year drop in profit - Proactive financial news",
-      "source": "Proactive financial news",
-      "when": "2026-05-04",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMEExamtYRC1uWEVRclhkbUp1NHItWmM2T1A5aGZEQmV1Vkdwd3cyVHJ5UnF5Ny0yODlxemJUV2w4alB4N1Z2OGJwcldaNnJob1lFTGJhRldLOTE5MDZBRlRILTB1Z3BOSTVfVmg3V2d1cVk5SU1Jc0ZlYVo5Q1B4anhUd3QtbFQtckVEdU5EVGduUkJuRU5SM2NWeDJXM3MzdFVna2JOUms1NnNYT0NGTWh3bzI0bldMTzFackYzakxRU1dv?oc=5"
     }
   ],
   "insight": "Tracking Loews Corporation (L)."

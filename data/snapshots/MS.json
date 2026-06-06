@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:41.514Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:14.274Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    188.00999450683594,
-    189.25,
     193.35000610351562,
     190.1699981689453,
     193.08999633789062,
@@ -24,11 +22,11 @@
     208,
     211.00999450683594,
     214.97999572753906,
-    210.13999938964844
+    210.13999938964844,
+    218.27000427246094,
+    211.92999267578125
   ],
   "6m": [
-    158.1699981689453,
-    162.8300018310547,
     165.42999267578125,
     167.94000244140625,
     169.66000366210938,
@@ -158,10 +156,11 @@
     208,
     211.00999450683594,
     214.97999572753906,
-    210.13999938964844
+    210.13999938964844,
+    218.27000427246094,
+    211.92999267578125
   ],
   "1y": [
-    130.6199951171875,
     131.82000732421875,
     131.9499969482422,
     131.82000732421875,
@@ -410,29 +409,31 @@
     208,
     211.00999450683594,
     214.97999572753906,
-    210.13999938964844
+    210.13999938964844,
+    218.27000427246094,
+    211.92999267578125
   ],
-  "lastClose": 210.13999938964844,
-  "oneYearReturn": 60.87889086285641,
+  "lastClose": 211.92999267578125,
+  "oneYearReturn": 60.7722507210362,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Morgan Stanley makes bold new call on Micron stock - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3Etd2JIT3pfZDZnSmJlUGROSDEwWEhWblQ5c3FSbU4xVzFmRjhMNC1ZNm0yaEVjVFpUV0NxcmFDbnJPUE5ZSVJKcFVJWU1TN1JUUEJSeGk2VXpZMjdkbFJtWWRFQ1ZPbndSLTdjakJsUGUyNzIyOFJ4REdLUDFwT01McGtHa0hsNnFSaDAxUy16YmZvcktRd0puZw?oc=5"
+      "headline": "Morgan Stanley resets Nvidia stock forecast after key event - thestreet.com",
+      "source": "thestreet.com",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNekF2ZUdnYWRVakp5OUFtS0kxMkRFRi1ZQmxiRGwzTGpaZE90Zlo2VnpUa280Q1p3dTRxLXNFRndDZEdZdkJIb0hFZUhwTXhuQXNGTlhEdHJ6STF4MUxKR2kwOWJRRUc0YWZUME96ZmdEMmwxTlI5OWVDakNQeXlhbHVSNGJRV0hoQ2pseFdIelNod0taWHEta241eEk4QUFwT2Fpaw?oc=5"
     },
     {
-      "headline": "Morgan Stanley lifts MU and SNDK targets, sees 2-3 years of tight memory supply - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaDVVLTFfRVhPcENEMmZxM2ViVVR3UHdmTFFlQllyeW1pbjBYdy04NjlCd01SbWxnS0lVUUxNZ0kzTXpHX2FBd2VBaHVNWHVCWmFwNTVZcnliY1ZudmtOZlM0OTJOWGxaVzZrcnlrazF1MFJOMjZ3WnVtdGpvVnRtR3NPczN6RjN5cXZNS2dEYjhCNWhBdGJDM0RrY1lKcDI0aEUzcjhkWHcxQ2I5cU1paXZYeDlJSDQ0eGc5cjJwZmZiZ0lFQk93UXdHNFdEYVk?oc=5"
+      "headline": "Morgan Stanley says Ford stock has a secret weapon not fully priced in - Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
+      "when": "2026-06-06",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM3BXRExiamFaLWI1M1hNbE5WUGtQYWprckxpNG9xVkt2UFZtalhtN252MTRZUTZmSDhKYTBvcjZ6Z0M5ZnBOZ0hzQjgyQTdHcXRvald2eTF4S3d1dkNtWHhTa2FhZTA2bjNnSS1KYjcyeE9KaDNHTTJiSi1CbXhUNm1lUUttUQ?oc=5"
     },
     {
-      "headline": "SNDK Stock Hits Record High: Morgan Stanley Raises PT By 59%, Sees Further Upside Ahead - Stocktwits",
-      "source": "Stocktwits",
+      "headline": "Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents - CNBC",
+      "source": "CNBC",
       "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaFQ3NXpGeU00aFdGb3dKblIxeUF0d3dhOWg1dmVzazhiR1BBeU5hZ3FyLVE2ZUR2WkJCdTVEc0p6NTJGbktXdFZ0Zi1RNU93M3RzOGFRcW1TU2ttb3h3ZHdhTTE5WFpvOHVWVTJWQ0RoRXExM3U3bHdTMnA1VWhJeDVPTk5ZRFJsTEdJaGVxMjRlVTlzTERmTTl0anEzUG9vX2F3emxPZHh0Vy1nU3YxUzN1WURTQTFzeFphMXo5MUs4MXQ4MFY4eWoyVjJ3Qm50QVB2MUl6UFpCc3NlQkE3Y093?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbVRSNU9Kd2h4cERRWFM1ZXRadm9STTNVVzNYR1lZZlNta1JtZ3IzazVjYVZ0aU1McFVwVG9POUZ4a3ZIZjJQeEQtbWk2SnRjbS01eC0zNG9KbTgxaVVxcDIybkViaVlvZ3dPVU5yNFA2enRSMjBmXzRzNnE4NGhadlp2ejl4bHo4dEtJdUx4MNIBlAFBVV95cUxPczBOUFZORXJzMmloQzZGSTNld1NGcHlxLXFkVE5FX1VFNHNaQ1FTSDF0RldaTURtVXE3WGFXTXlic1owTS01aUJFandHSDNNaEhRZTRWcHBaa29EbU9tcC1kcmUzTnl3U1p4dU85dXZfWEJvZkY5b25Pd1hyVkg5OUVMbzhiTFBOUk1XNzd1a0s1X0di?oc=5"
     }
   ],
   "insight": "Tracking Morgan Stanley (MS)."

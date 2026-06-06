@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:51.250Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:23.889Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    280.8900146484375,
-    281,
     289.44000244140625,
     285.239990234375,
     287.79998779296875,
@@ -24,11 +22,11 @@
     305.67999267578125,
     293.20001220703125,
     308.1199951171875,
-    308.5899963378906
+    308.5899963378906,
+    305.3699951171875,
+    285.05999755859375
   ],
   "6m": [
-    159.39999389648438,
-    161.25999450683594,
     161.77000427246094,
     165.35000610351562,
     168.27000427246094,
@@ -158,10 +156,11 @@
     305.67999267578125,
     293.20001220703125,
     308.1199951171875,
-    308.5899963378906
+    308.5899963378906,
+    305.3699951171875,
+    285.05999755859375
   ],
   "1y": [
-    190.49000549316406,
     192.4199981689453,
     199.2100067138672,
     202.2899932861328,
@@ -410,29 +409,31 @@
     305.67999267578125,
     293.20001220703125,
     308.1199951171875,
-    308.5899963378906
+    308.5899963378906,
+    305.3699951171875,
+    285.05999755859375
   ],
-  "lastClose": 308.5899963378906,
-  "oneYearReturn": 61.997998550619336,
+  "lastClose": 285.05999755859375,
+  "oneYearReturn": 48.14468364577691,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Texas Instruments (TXN) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+      "headline": "A Look At Texas Instruments (TXN) Valuation After Recent Strong Share Price Momentum - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-06",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOellBd1RfSGFiRzZDbThBQlRNZFJvVXY2X0djU1lfZVZZX1BsUFpKLVVCUEZrS242R2dOeFhXNlVJSGRLUjVQRVoxdW9Zb25HWXNtS1pxQ2IxTnZQbVBkUG9Pako2OWVoQkVXMk1tREduVkRqWGxoeXpDOFVvZTNHMHhYMl94d25WTzJDTFBub1lHZ3owMndELVhHWXNhdXZyeEpIdDVyazd2ZTRPdDdwaDExVGhidWNWVHdrOU8tZTU0Y1RBUEtWRVNnZ1BkZHlHUlZMYy1oM1LSAd4BQVVfeXFMTW52T3ZtN0Q1MGVjQkdUdHd3alJkQjRTbjRSREI5WHJQcHIteUNhSGNMMGQ3Y01hYTNZaDRJMWRqTnd6Ylh0M2J4Uk81clpvVHFqdWtLOEsyUDUwWlpnNjVBaGJnb2t6TkdKeUN4bnh3NzRsaW84Vno4cEdXS0x3c2hWNE1RWFhxT0pVU2dCYkJLQ1NMampOUHc4VGtSek10V0Nzdnp6ODNwRjhUV0lmTTlzRXlZSzJaSWhiTTdFM2ZTeEp3REF2RmRhRE16X2M1SlR1SFVQMFNKOUkyQk13?oc=5"
+    },
+    {
+      "headline": "Photronics, Qorvo, and Texas Instruments Shares Are Falling, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaWJVeTV1VEZhbU41RXRoZnBWMnh6ZnpUMGYyd0pEb21jSmZYbWhiWTItb0c4dXMyRkx2NGRxcm9oTTVEcDRSREVfUVRFUnNHdjBIRVVEeWJhbW1mNENkdl82QWx6azVHRE8zQ05qUTBybVZIOHB4a3NHMnNZZTRqb1lrTlVWY2oycHlzZlRRWTF4OU5BLVdhYVZadlVYQQ?oc=5"
+      "when": "2026-06-06",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2N5ckc4ZlVsUVJ6aW9IUkpJdTdRNF84N2RkdmhRRkN5T2RVR1EyMUhucElrN0dPVE9WMUlwSV9IMGVUZXdiTk94SmJra1RwSldjVUp5OTlROXhRU3dhclY2amV4ZXpFcHhYVnZUUnpIZ1k1bEFlYUJGTldpUDY4ZTg1bUlVMFdPNVlBU01VTEU0YURvaWpyb19rSlBCZldLdHlnMy05b1l0dw?oc=5"
     },
     {
       "headline": "Texas Instruments stock hits all-time high at 287.98 USD - Investing.com",
       "source": "Investing.com",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLW9FXzdhSktOaUVwX29pbmZ5TnRkOW1XX1R4VC1qQjBDbDVsalp1V3JXSnliTTYtcXV3UjFEQ3MxN2hFNVE0MjhSOC1HbVN0TndKMEtBR1A4T2poU3JEQnBTRkVWV25faThYUVJpX3N6ay1aaGdLNGxrdDhVQUJIOUNmU2dtOWM0cmpCYTM2UFYycXoxd05SSTY3THBXRE5UY05BeFJ5VUVNSU9GUHBLbg?oc=5"
-    },
-    {
-      "headline": "Texas Instruments Stock’s Rally Is Asking One Big Question - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZlVBbjAxbEZ3XzhFV21JOGh1R0s2ZU1CUUttZ1hsMHpOWTZpakFfV0pHVTl6Nmp0U0dDMFB2RjRrYW4xa0xsbExHaF9zSmEwamVjSnJsVXJVRFNRYVk3bkZhRGVIc0NtY2l6WksyeTVRbW1mSTlnM0gzNlVzV2NyN1FHUmZfRmIxY0NYQlpHX3JhVXpJdVBodjlMUjV4dnViTUU4TTZtRzVXdXVyQy1Ma1ZPanJ1TDVB?oc=5"
     }
   ],
   "insight": "Tracking Texas Instruments (TXN)."

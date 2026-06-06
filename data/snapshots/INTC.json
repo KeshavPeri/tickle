@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:35.454Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:07.948Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    95.77999877929688,
-    108.1500015258789,
     113.01000213623047,
     109.62000274658203,
     124.91999816894531,
@@ -24,11 +22,11 @@
     114.68000030517578,
     109.33000183105469,
     107.93000030517578,
-    112.70999908447266
+    112.70999908447266,
+    111.77999877929688,
+    99.16999816894531
   ],
   "6m": [
-    34.5,
-    35.790000915527344,
     35.83000183105469,
     36.810001373291016,
     40.560001373291016,
@@ -158,10 +156,11 @@
     114.68000030517578,
     109.33000183105469,
     107.93000030517578,
-    112.70999908447266
+    112.70999908447266,
+    111.77999877929688,
+    99.16999816894531
   ],
   "1y": [
-    19.989999771118164,
     20.059999465942383,
     20.479999542236328,
     22.079999923706055,
@@ -410,29 +409,31 @@
     114.68000030517578,
     109.33000183105469,
     107.93000030517578,
-    112.70999908447266
+    112.70999908447266,
+    111.77999877929688,
+    99.16999816894531
   ],
-  "lastClose": 112.70999908447266,
-  "oneYearReturn": 463.8319178338244,
+  "lastClose": 99.16999816894531,
+  "oneYearReturn": 394.36690333573983,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Intel Lands AI Partnership With Apple Supplier Foxconn. Why the Stock Is Falling. -- Barrons.com - Moomoo",
-      "source": "Moomoo",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQWVCZGRua2RCdms0MVhDSkMwRVdWa0thTTNsQWxUVmVkLThmWncwMmd4b1hadkVYY1MyQnlBTkpLRXEwUFItMTFHbHhhNEc2dDdNRDdrVmVWLUdPbUszR3M3WDcyeXd2M0Itc2Q4WlBEMXkxQ2dvQmlfaUsweG1DNS1mT241MHctbkRNcGVHdXQyanJ6MVIwZjVXOVVnYi1wbVlQeFZ2cw?oc=5"
-    },
-    {
-      "headline": "Intel Stock Drops After It Scores AI Partnership With Apple Supplier Foxconn - Barron's",
+      "headline": "Broadcom and Intel Stocks Drop. The Chip Selloff Isn’t Done Yet. - Barron's",
       "source": "Barron's",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZWlNOTGhvdGZaejNZVW4wWk9aX2poN2YwTEdwXzJGTU83cXExUmhNeVFYdENaa3hGdWRrcEwxb0taako4QkpqdXdTN3ZFNjREWFhNM1RyTlJuaVdwcE94UkpadHY0T1ZaNmNtMjRTSjQ1d1kxeUpweEpn?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajg5VGdlckNoLTIxblRVeEtnZnU4SEhEWEFjcU42WXd5cWdxOEV4ZUZqV1BsaUFwZ0FiM3dSUURxcnJZQVVyQ0xGVmZEZUhha0NwZ0RRZWdlNTUyWkFSNUxacGJfUE1xZEF2SmQ2UmRYTkV2Nzc0N0M4UmF0TDMwS2R3?oc=5"
     },
     {
-      "headline": "Intel Stock Drops After It Scores AI Partnership With Apple Supplier Foxconn -- Barrons.com - 富途牛牛",
-      "source": "富途牛牛",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWhEcTlHTGNpaHRLUDctLVlQYXI4RlVzSmgyT0lVenl1OXBaVHhTNXdKdUVDNUU0aTQybFNKM1dOSDN2ZmxfcW5KWXRRQ1JoUS1tX0xSSFBWUXFvc2o0QmdvaW93UFRqNXJYbzlkcS1GWGsyaUtxa25xTkp0QmR2RHNJcWs1TmJxZnRiUTA4aGdjTmVDT01UU0ZnMjR4UHJyTXc?oc=5"
+      "headline": "Intel Stock (NASDAQ:INTC) Plummets as Intel Teams Up with Hitachi - TipRanks",
+      "source": "TipRanks",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnBEUnRieG9sYVRKWjVIb1MxcUFkMFhpRUhIRlN5ajF4amx1TzZxZXhZdUstd0pfcjZ2eHR4MVpqUFZ5N0w4Qm8xdC1EWW5IMXE3WmF0bGtKaHo1YnQ5R0xNQTY1Qk1fVUdMcXVtemItM0g2SWpSY25xS1VfM19Zckdodjg4MVJWNndFTnlBdFhpYUMxQmtR?oc=5"
+    },
+    {
+      "headline": "Why Nvidia, Intel, Marvell, and Other AI Stocks Plunged Today - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-06",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZl9zc2ZHd01HVnB2UmlXc1BFZ3JRZ3cwYkFobksyVUhGempUUUtOekdKTVNoSmYwQUtDRkVUNzJaREM3aW5wVkRzaVJfWkN2cHZ6SDBGdDY0TzhyeWZjellGM1VWeEN1VU1UMEFQSWVXTTNFX1NDXzNtT214Y0xVa3ljQmZ5SGdjOXdOU25Nc1VObHNMZVJPVXI4bw?oc=5"
     }
   ],
   "insight": "Tracking Intel (INTC)."

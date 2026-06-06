@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:49.715Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:22.412Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    154.63999938964844,
-    154.9600067138672,
     155.4499969482422,
     154.47999572753906,
     153.36000061035156,
@@ -24,11 +22,11 @@
     154.75,
     152.75,
     153.69000244140625,
-    157.89999389648438
+    157.89999389648438,
+    158.6300048828125,
+    160.7100067138672
   ],
   "6m": [
-    151.42999267578125,
-    148.86000061035156,
     152.38999938964844,
     153.1300048828125,
     151.9199981689453,
@@ -158,10 +156,11 @@
     154.75,
     152.75,
     153.69000244140625,
-    157.89999389648438
+    157.89999389648438,
+    158.6300048828125,
+    160.7100067138672
   ],
   "1y": [
-    127.37000274658203,
     128.4499969482422,
     126.3499984741211,
     126.04000091552734,
@@ -410,29 +409,31 @@
     154.75,
     152.75,
     153.69000244140625,
-    157.89999389648438
+    157.89999389648438,
+    158.6300048828125,
+    160.7100067138672
   ],
-  "lastClose": 157.89999389648438,
-  "oneYearReturn": 23.969530102504148,
+  "lastClose": 160.7100067138672,
+  "oneYearReturn": 25.11483887276688,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "How Is TJX Companies' Stock Performance Compared to Other Consumer Cyclical Stocks? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPek1XZDZnVnJ6LWQ0R3c2azFpb19BU1RneS1Cc3NFLWN2Mjl1STdjTVNJLWkwRS11aTFob2Mwd2QtUGxSSktFX3B1SVFsc2R5aFpZbTlsVTdGRGk5MC10LTBFOXBfV19BTkR0ZzRPM0kzNUgwaFFnUjFBZVlWbExsZVR5R2hUX3FacTZhNkNQSGZZYmktTDVFdGpXUTVpNE9aZnh4UkZzaWw?oc=5"
-    },
-    {
-      "headline": "Ernie Herrman reports sale of 29,549 TJX shares (NYSE: TJX) - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGxCMUFZTXZ4V2NrUTBqd0c4WkJIa2xPSkVLdW9hcFJHcllub0VnUlVDUHFYdGxITXMxcXd0VHJjbUlTWmdSNVJPT2pIV3d3UUxuTV9FQTVvU2ZvOXdDSWVPMi1mUzFlVGp2X2FNZmxEMVVLUFhfa3pWb0FkSWhRaThJMERoUjFtVDg2aTZhMnMxY2Rpb1VsNUxmdGY?oc=5"
-    },
-    {
-      "headline": "The TJX Companies, Inc. $TJX Shares Sold by TD Asset Management Inc - MarketBeat",
+      "headline": "Ernie Herrman Sells 28,000 Shares of TJX Companies (NYSE:TJX) Stock - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODhMNDEzQnFSZ3MyYVhMNmlCZEtqcUxGU0dCMkZ4cDdPbXpjdW9jX290ZW0xN0FzX2p3NHlzVkl3Y3ZmQndxeUtOemhTS1NhR3p5cXBJeXNjMGxIaldFM29veFVVd05CVV8tdTllbEdrdlZ2d0ZLcEJvSDR3QlFkRVdER0FqZHZpbXBzYW9LaEF5ZDd2eTI2SzNLcEdBUHA5X2gyNF8wSU11eTlUczZYcWhtdGZTV0ZTeVdpUjczZ0hsb00?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE5fNFJQVVgyOWpfRERrZmE3Mk56REdVd3c5SFJpY2dQeTV4NHlidnBZZTQ1N1FSOGNrY3JLY0h1RG9Kc2MxbDVwcWZwWjRkNTBZQmRqb0N4SDFoblRQanJZYVNjd1J6SElKTTg5elBYeF9TR0w4NTJuNGJNMUJ0NEswVS1pQ1EwZmJxNzQ3R3Z0ZTZtUXJQVXQydWlZSWFxNXNVUWJyZVhsNFVabnJ1NVlCRlhLeU9i?oc=5"
+    },
+    {
+      "headline": "A Look At TJX Companies (TJX) Valuation After Its Strong Fiscal Q1 2027 And Upgraded Guidance - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVjktUWtwaVpLb0YwSkFDM2dqY0ppX3dFdkRaYjdNRURHT3BubTYyUnV1bEVnVWdjN1hiZTBPbXlSSGlUUlhGZ3pGeVNmdVhCcjhkMEZaLW9VTEoxLXU3Q3l2SVB6bTExRURGWUVFdUNZcm5uWHBNdWpsMW9HUXdWSmNWVnpEcFkxRDlyM1lqdVRrUFRRQ2t5NG9QODNnUQ?oc=5"
+    },
+    {
+      "headline": "TJX Companies(TJX.US) Officer Sells US$10.69 Million in Common Stock - Moomoo",
+      "source": "Moomoo",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTNyRmVXVkRtclotcTlxR3FVOTJsTDF4Vmt0dVAyWmZmRXBnZVhjdDhiQ0RhTHFCdmVMWldETWVMOWdKRktLNHBSUHpvdEYtYVJZcnJIZi1BQ0RxSWZoNVlOTnptVHdaVHVCQ1RjZ3dKWTZJQ1dHRUE4eF9HQnpyUVo3VkdBZlJEUnpRRVNNb2k1NVhhaURnWU9hMA?oc=5"
     }
   ],
   "insight": "Tracking TJX Companies (TJX)."

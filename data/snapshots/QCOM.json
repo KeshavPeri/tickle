@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:46.364Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:19.299Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    168.3800048828125,
-    186.5500030517578,
     192.57000732421875,
     202.5500030517578,
     219.08999633789062,
@@ -24,11 +22,11 @@
     251.02000427246094,
     228.99000549316406,
     240.83999633789062,
-    250.00999450683594
+    250.00999450683594,
+    242.57000732421875,
+    215.94000244140625
   ],
   "6m": [
-    163.3000030517578,
-    165.05999755859375,
     163.3000030517578,
     165.13999938964844,
     168.08999633789062,
@@ -158,10 +156,11 @@
     251.02000427246094,
     228.99000549316406,
     240.83999633789062,
-    250.00999450683594
+    250.00999450683594,
+    242.57000732421875,
+    215.94000244140625
   ],
   "1y": [
-    147.55999755859375,
     149.24000549316406,
     155.41000366210938,
     159.1300048828125,
@@ -410,29 +409,31 @@
     251.02000427246094,
     228.99000549316406,
     240.83999633789062,
-    250.00999450683594
+    250.00999450683594,
+    242.57000732421875,
+    215.94000244140625
   ],
-  "lastClose": 250.00999450683594,
-  "oneYearReturn": 69.42938373766299,
+  "lastClose": 215.94000244140625,
+  "oneYearReturn": 44.69310807637124,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Super Micro, Qualcomm Among Tech Stocks Getting Hammered Today - WSJ",
+      "source": "WSJ",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ0hTNTZJd3ZDeXhVUXBreW9YVGZSVFc2VXNMcEpDQ1ludTB4M0FKVHpjV25DcE5vZUtJeGcwSGdNUU1ybEtfbE94UXNyWGNEenB3a1VZTUF2UHZOc1oxV2RzSm9UQzlXaVMyQXdXZFBMM3lONmFqOHdTRmdVdVVrY01ZUUNOanlGQW13dTRpYTRzOG5UTERfdExaVkFDS3hBU3hJRjdaSHdrdF8wUHlKS2x6dnVveV92aDYwMU5zMW9KcXNtVzNQMHo5ME1Zb3JTM0RkcktoZHlhZXJES0dQU3RfUmlWQVlnckpMVnpoUGFwQQ?oc=5"
+    },
+    {
+      "headline": "1 High-Flying Artificial Intelligence Stock You Might Want to Avoid Buying Right Now - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVTROaElUUUt1MFVqbkliMWFlMXRVM0hYWTlSOXpwdDNULVpndmV6U1otVmhta3AyMFNNMkFaQVZ2RDVMX1hEeGItcUpnSWJXY2pFNGNQNVBpYVA2WDVnM1B0NjdBbmhsVlFLSFEtNGJYc25RdUR5eElnZTBZX3ZDRVNUY1d4c2JXY2lQOG9ZOEEwNTlVLURIMHlJSUlXRy1uM3lrT0c5M2pIelUwbkVFT25Vd05PaktRWDcwSl9uc3BBcFhOTFBZ?oc=5"
+    },
     {
       "headline": "Why is Qualcomm stock rallying today? - Investing.com",
       "source": "Investing.com",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUhPajV1cXNWMHB2b0stZ3h1dHNtcnBDQnNBNXZzRXlSMXhYNkg3WTJpOUxPVjhnZmV6QzhKRmVhTFlUUTZNV2xQZUlNcFV3emFGc1dLMVEyUWRrNWZyaUkzaVZUd2pnUXFvZThmV25QVmwzNGd0MUlXa0g5b2tvQkIzSTJoU2owbHZuNEpZOGF3dm9fLWdrWTBFVVpMYkE?oc=5"
-    },
-    {
-      "headline": "Qualcomm stock under pressure as Nvidia unveils new product - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWdoSmcxUUlTSDBXY2RLU2lFZUxoeDJOc0o3MzZYVnJhOGJZTDJPajVmRDZ1MTFlamlfZ3o5QzQwYzU1NmdNMnh3MEtzU1lVV3YwR1N3MzB6UWJfT2pjZWUwV0dSYlZJZXM1d3lYZXpCQWo2RDVwazUyN3ZTRll6OXpCZFZmUC1HZVVBel85X3U4RVduNUZJeDJmVEtiME0?oc=5"
-    },
-    {
-      "headline": "Stocks to Watch Recap: Alphabet, Nvidia Qualcomm, MGM - WSJ",
-      "source": "WSJ",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaEFmWmd6TG45c0xmSjUyNjZZWEdvN1ZYNXpyYjJ3TFJEU3JXQW1fNjZIaG1XOWJDMEFnR1BTdGd5YkhUT1MyeDNnS081Umk0NUptVmRyMk1yRWZZSDU0dEo1MlduaXdlX01UYW5YeWE3Z0lKWk9oYlgxS21JUEdjc3lyQm9fRl9XVDlMbDVpM0daZWR1R0FDV3F4dGZybDlDTkp1V09mdHdpWkdXdEhZVzJBUnlJeERzZTVQM2RBSm4zNTdGMTR0bHpWZkk4el8zWlNZOHZBeU1ZYmZneHZB?oc=5"
     }
   ],
   "insight": "Tracking Qualcomm (QCOM)."

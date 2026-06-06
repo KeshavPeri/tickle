@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:46:45.723Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:03.843Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    379.6400146484375,
-    384.2699890136719,
     395.1400146484375,
     395.29998779296875,
     397.04998779296875,
@@ -24,11 +22,11 @@
     376.42999267578125,
     372.5799865722656,
     358.3900146484375,
-    355.67999267578125
+    355.67999267578125,
+    369.2699890136719,
+    365.760009765625
   ],
   "6m": [
-    299.6499938964844,
-    318.4700012207031,
     323.6400146484375,
     320.2799987792969,
     320.1199951171875,
@@ -158,10 +156,11 @@
     376.42999267578125,
     372.5799865722656,
     358.3900146484375,
-    355.67999267578125
+    355.67999267578125,
+    369.2699890136719,
+    365.760009765625
   ],
   "1y": [
-    169.80999755859375,
     174.9199981689453,
     177.6300048828125,
     180.00999450683594,
@@ -410,29 +409,31 @@
     376.42999267578125,
     372.5799865722656,
     358.3900146484375,
-    355.67999267578125
+    355.67999267578125,
+    369.2699890136719,
+    365.760009765625
   ],
-  "lastClose": 355.67999267578125,
-  "oneYearReturn": 109.45762781313991,
+  "lastClose": 365.760009765625,
+  "oneYearReturn": 109.10131122477952,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Alphabet plans to raise $80 billion from stock sales to fund AI build-out - CNBC",
-      "source": "CNBC",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObUREOEdlT2g4VjMwSGo0SklIaEZxa2FIWXZiQzByLTB0OUJyWlU0cllrS3FiX1pFVW0yZG1XYnBtV0lOUGltLUYyTmdKNnRiQXhob0tocDdkZ2JoeEhQUjlPYkJDRWNCNGtCa0JHQmROLUJrUFp6X2xEUVBEVGstT25MZ3c3MHJFVS1tZzlaaGVSVGlWLXhtRTZmNXpkZmxHOXpFddIBqgFBVV95cUxQN1lhbnJlekNsalFLMEJhM0lqMEpsOE5jZFBqTjFWdFkzU1NDaWdwb3B4WVgtY2RfdWNuX1lOT1VOajBnTVEzSFl1Qm56NGJtMjZrN0g3WkZ3WmVrYVJ2THcwZXJQMlhyZWRNV01rLXpMWEt4MUdIUzRfOWd6dHFZSDR4UkJDYU9BWUIxU2V0RHV1aS02VGgySElWTkxYUEpCTzUtTllITlUwdw?oc=5"
+      "headline": "Alphabet Stock Edges Lower Friday: What's Going On? - Alphabet (NASDAQ:GOOG), Alphabet (NASDAQ:GOOGL) - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUtYWTFyN3dVUjVzcGxlTVFwVUtyNEktZktUZEl1ZXlOcDZiZjhUMnNhblljR3JFaW03N0VZWWJLNDhzbmpKNGJZd2RIUHhEMDdCWW1aQzRGeEtDUDdlV1ZLRWVRdkpHLTY2ckpJR2Y3Q1pyelhzOGJ6NG8xcFRham43aW5KZWl4eG1NSFNYOVJRTW1BQU5Bc0dWM1hhRXlsUDMxYjgyTjJET3oxakE?oc=5"
+    },
+    {
+      "headline": "Google Stock Was Bought by Investors as Different as Cathie Wood’s ARK and Berkshire Hathaway - Barron's",
+      "source": "Barron's",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlFESXlQNTJFR1FSeFBTR1lEN1Fpa21sMDVCWHVhbEx3U1d1aFZPcVBrRGd1bXF2dmpkVVhnbnlRZzZubks3NHpLaW5ER1BMYVFEUm1DYVRSWmNEZW1JWWZIOUdOOGIyd3ZTbXk5VHFKSm1JNFBzREhheTJXVEVpTjJIb0VaNW1DQjlMWm5Ic21ueUR3VzVjZUFrMFNrYXdv?oc=5"
     },
     {
       "headline": "Berkshire Hathaway: Abel Commits $10 Billion to Alphabet's $80 Billion Capital Raise - Morningstar",
       "source": "Morningstar",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGNMVHFlTFJIcTAyVlBCdHpZalUxMkRyMC14MU9ZQU1Fa1h3djB6X2NFclVjTDFCMHB2anN4aWRYa1FWLWFLajIwLTJMbHU5anFPeVZValM3NFJZS1VtT3d4OFo1NVV5cWI2M20tYVZkMk5LY1BYUWhwRXZCSlBseW5sT1NXMXpkbGxmUGE1R3o0R04tVHZzS3ZHdHE3TXpTaWFyWS14MHlPNXlVeGpmVnlpZTVjWWc0U2x4Y2tR?oc=5"
-    },
-    {
-      "headline": "Alphabet Inc Class C Stock (GOOG) Moved Up by 3.32% on Jun 4: A Full Analysis - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdTB5WTkzSmU4ZjVUbmJlaDZqT254NmphTnNOdnVsXzA4MmlnRGkwdU9pUFhYQTJqSVFkT2hMOTU4N0F1eWk2aUJLdzN6Ukh5T3NwM3Q0MURfTEc2M1pDWVE4cVBVS2hRM3FoVFgzRTZGOXdFNUh6UXRLLVg4TVl2UUI2Smd6bHJQWFlz?oc=5"
     }
   ],
   "insight": "Tracking Alphabet Inc. (Class C) (GOOG)."

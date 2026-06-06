@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:16.443Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:48.586Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    135.3000030517578,
-    136.8000030517578,
     109,
     110.19999694824219,
     104.79000091552734,
@@ -24,11 +22,11 @@
     125.44999694824219,
     140.97999572753906,
     139.72000122070312,
-    137.3000030517578
+    137.3000030517578,
+    139.4499969482422,
+    133.0399932861328
   ],
   "6m": [
-    140.1999969482422,
-    141.9199981689453,
     143.22999572753906,
     144.39999389648438,
     144.22000122070312,
@@ -158,10 +156,11 @@
     125.44999694824219,
     140.97999572753906,
     139.72000122070312,
-    137.3000030517578
+    137.3000030517578,
+    139.4499969482422,
+    133.0399932861328
   ],
   "1y": [
-    175.8300018310547,
     178.24000549316406,
     177.42999267578125,
     178.72999572753906,
@@ -410,18 +409,14 @@
     125.44999694824219,
     140.97999572753906,
     139.72000122070312,
-    137.3000030517578
+    137.3000030517578,
+    139.4499969482422,
+    133.0399932861328
   ],
-  "lastClose": 137.3000030517578,
-  "oneYearReturn": -21.913210702413696,
+  "lastClose": 133.0399932861328,
+  "oneYearReturn": -25.35907249439845,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Why CDW (CDW) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVmp5SF9HWEJGVnBkZHpheVBzc1JzOTBDTXBlVk1PSEM4SVVxcWFuVW9WdzE3U291Tzk5X0JVN083clFiMk1JbXBaM0s2UWlGUW5qOWh2NWtMaHJHZFdGbjlrejlPMkE3ZnFENTY0anpJU012NWEtNnpDM3BVX1JGdFg0V1otMWVUTEl1STd1SWlfVTQ?oc=5"
-    },
     {
       "headline": "CDW Corporation Stock 12‑Month Price Target Cut to $142, Implies 2% Upside - TradingView",
       "source": "TradingView",
@@ -433,6 +428,12 @@
       "source": "Quiver Quantitative",
       "when": "2026-06-01",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeER0S0dCMkMtZTJjWGhNSDRZbmVGS2Z0cjhzZU52RG1CdHNvS0Fjem9lMlNmZGY0bGxGLWtrZXVTZHVRekRmQWtLdC1QYnVmRlp0YVVYSU84RXhtUnh1cTA5elA5dWpoZFVkSUF3Zk5EaGY5TndXYU9od0FaZE11Ni0zOWNIOWdfMFJZYnBFZ2k2Z3BaejFBSFNuVmVPRlZ6RWNLbGNTZmJuUk1NUENsYVNYZ2s?oc=5"
+    },
+    {
+      "headline": "Why CDW (CDW) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVmp5SF9HWEJGVnBkZHpheVBzc1JzOTBDTXBlVk1PSEM4SVVxcWFuVW9WdzE3U291Tzk5X0JVN083clFiMk1JbXBaM0s2UWlGUW5qOWh2NWtMaHJHZFdGbjlrejlPMkE3ZnFENTY0anpJU012NWEtNnpDM3BVX1JGdFg0V1otMWVUTEl1STd1SWlfVTQ?oc=5"
     }
   ],
   "insight": "Tracking CDW Corporation (CDW)."

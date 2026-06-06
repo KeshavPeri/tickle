@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:32.207Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:04.473Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    41.97999954223633,
-    41.720001220703125,
     40.400001525878906,
     39.119998931884766,
     39.83000183105469,
@@ -24,11 +22,11 @@
     38.849998474121094,
     39.349998474121094,
     40.130001068115234,
-    41.029998779296875
+    41.029998779296875,
+    41.220001220703125,
+    39.18000030517578
   ],
   "6m": [
-    25.81999969482422,
-    25.670000076293945,
     25.690000534057617,
     25.790000915527344,
     26.219999313354492,
@@ -158,10 +156,11 @@
     38.849998474121094,
     39.349998474121094,
     40.130001068115234,
-    41.029998779296875
+    41.029998779296875,
+    41.220001220703125,
+    39.18000030517578
   ],
   "1y": [
-    19.950000762939453,
     20.520000457763672,
     21,
     21.75,
@@ -410,12 +409,20 @@
     38.849998474121094,
     39.349998474121094,
     40.130001068115234,
-    41.029998779296875
+    41.029998779296875,
+    41.220001220703125,
+    39.18000030517578
   ],
-  "lastClose": 41.029998779296875,
-  "oneYearReturn": 105.66414641706245,
+  "lastClose": 39.18000030517578,
+  "oneYearReturn": 90.9356697424057,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Assessing Halliburton (HAL) Valuation As Shares Trade Near Analyst Targets And DCF Signals A Wider Discount - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXNuYkxLWXlZaU1WdlRjMENVM19pRFpGOEg4ckk3Y3RGTFJ5ZFdVWFJxc1lOYnVKSGN0ZVVzS01HTE1NcGZCMk8zRFBMZHRVSWc4b1hDS2xCNWlPWmxtV2VRaGd3LW9qQ1V4U1h4bTlFNk1KQ1RQbmpaUVVNTjFXMkk2T2V2WEU5MDVsQThHWktmdEdTSGlZbDJHUWFRWDc5Wk54THNBVXp3Vlk?oc=5"
+    },
     {
       "headline": "Halliburton (HAL) Valuation Check As Shares Trade Near Modest Estimated Discount - simplywall.st",
       "source": "simplywall.st",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdW5PNXMxWXAxT0Ribk10Zm1JN0UwR0M1SlBYYkhpd2x2ZkNnUVdod2tQWEgzTHBqZ2QwQWF3OTFHbEJjQXEwYVN4U21WaVpuUWNPc2RfV25NWmpmTHRIbktFQ0RKRTdtRkRYYlN2WEZkSU1BVTdIZnVkM01ZVV9JV0xSME9VMzdMRi16TDl2ZXVXZnFYTS1IRlZfelc0M2lCLVNsQkNENXMyY0M5LXNOZk1xbWF6WDdxZnJsQUp2V3Y3Z9IBxwFBVV95cUxNdTdwYU9WbG1GMnJnaXhsMl9GWngtQk42SkJ1U3FRRERMNnlpTlVXTzc3WXNZUmFOVk9aeXlhZFMxTi1lazRsTW1sZVUyY0Ftb2Nhb1JWSmpGaTQxWC12dmpPdkl4UEd4VFZwRFE0Y1U2cGZwTVNZcENUb25RekIwWUI4Q2VCTDdId3ZReWlXQ0lXT3pORWpJY2JzSVJnSXVtWF9hUzZHZUtEY3FOOEFPbk9oTGg2cTlXWElUTDRzZG9oN2FFNjZr?oc=5"
     },
     {
-      "headline": "Reflecting On Oilfield Services Stocks’ Q1 Earnings: Halliburton (NYSE:HAL) - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMF9qUXJZdFNzdmxHcmRjUkhRQnBpaVFTbFFfMnlMZ2I3cEZyOTloSkYxOUpkYThQZzZpejUzb09lQlBRZUZUN1B2VUhjQmwwb1JxbGMtNjlPbXplVnZFTzNBYmNWMUppeHYwREpHVHBvNm5RcjRPcFo3WWltQzRzUFZGNU9keERCWDBHYTMzNEJJWDVTTXB2cmt4NTl0bVBQNjdYVGlR?oc=5"
-    },
-    {
-      "headline": "Norges Bank Purchases New Position in Halliburton Company $HAL - MarketBeat",
+      "headline": "Total Wealth Planning & Management Inc. Invests $2.13 Million in Halliburton Company $HAL - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ19STFFXWFhPdkR2YzEtZTFBX2RVTVRYWEM5NTRDX0tRY2MwRll4OGFib0VIckpoSU02Qkx3NDM4R2JmV2JCVWJreEhNRzFDRjVlU2hLMnkxbzZYZmFqMkZWY2pjNkNSRlAyOWItendzdlFuWDJnUC1WUXQtQ3NjUGdhWHU2cTRBb2dSbVBORnhEV1hPTEZRTkJ0YzFkMUJYbjgyZjluSDNjcko4OS1CS0NWR1lhN09lUy1PVXJ3NA?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS0kzUmREVUZVeWJ5WFpPU2MwLS1yYV9LSXo5WFkyRmFOaUNNem9nbmRBNkU0WkhIMWtKa3hYUjR2VnVRajRILThpVFhfeG1wWjVzeHVoaldhTGlndUdWQVRvR0xSQjZuTk9yeWE5SFJzcGhKR3FldDRmRXAtQnNPQTd4b1FNYXljaVJDOEdxQ1Y0RnE3YXluRkpLMjhTODBqNnJVbzlmSXJvS0o5Q2xuZnl2cDFvWkRqRW1XRjJVcTExWXA5d01iYklURjBfaXNEZ2FpQ2p3T0liR1E1?oc=5"
     }
   ],
   "insight": "Tracking Halliburton (HAL)."

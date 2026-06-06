@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:19.237Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:51.381Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    303.6600036621094,
-    305.8999938964844,
     252.74000549316406,
     255.66000366210938,
     261.0799865722656,
@@ -24,11 +22,11 @@
     269.3599853515625,
     264.69000244140625,
     264.8399963378906,
-    263.6400146484375
+    263.6400146484375,
+    270.32000732421875,
+    275.0400085449219
   ],
   "6m": [
-    365.67999267578125,
-    372.2200012207031,
     374.75,
     368.5299987792969,
     368.92999267578125,
@@ -158,10 +156,11 @@
     269.3599853515625,
     264.69000244140625,
     264.8399963378906,
-    263.6400146484375
+    263.6400146484375,
+    270.32000732421875,
+    275.0400085449219
   ],
   "1y": [
-    288.4100036621094,
     288.94000244140625,
     283.95001220703125,
     284.239990234375,
@@ -410,12 +409,20 @@
     269.3599853515625,
     264.69000244140625,
     264.8399963378906,
-    263.6400146484375
+    263.6400146484375,
+    270.32000732421875,
+    275.0400085449219
   ],
-  "lastClose": 263.6400146484375,
-  "oneYearReturn": -8.588463887920993,
+  "lastClose": 275.0400085449219,
+  "oneYearReturn": -4.810685186902473,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Earnings Flash (COR) Cencora, Inc. Posts Q2 Adjusted EPS $4.75 per Share, vs. FactSet Est of $4.82 - marketscreener.com",
+      "source": "marketscreener.com",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORG5SNzcxV0hfSFJNS0VrMm5xQ3c1Nnp3cEJnaWNEQVFxdkNVcEFpZUxDMk5NaHBmaXVjWFJwVjBYVlRuZ3U4cnVPT1dBY1N4eFliNjVZQWhMbGdVcnlqXzFualdudmZHTlgxdXVtNWVBY2h2RURWVzhQUVM0SkxQMEptMHJiVnFoWGt2UWd3VU83Ukt6N01YQjl3dlhiR0k4ZVJ1bl9SR0R1c0lORE1uMkxvOTJ2cThTV1lvd1hZbjVSM2U2U1gzdVlDTTd3YThJYk0ybm5QV1NGbGc?oc=5"
+    },
     {
       "headline": "Earnings call transcript: Cencora Inc. Q2 2026 misses estimates, stock drops - Investing.com",
       "source": "Investing.com",
@@ -427,12 +434,6 @@
       "source": "Yahoo Finance",
       "when": "2026-05-06",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYVppeHphSXQ4OWFObkhWNEdKOHFQUmRPRzhMZm0ySWFYQmYxYUhzSlNHdGZxdWtGcF9sS0xnUnYzNnZXejZOSVJ6QWpnMk4yRkN6LU5ZZUFnVXFlV3o1WjJDbkZ6QkJ5c2ZYeENKY0EtbUNYTUlqNTVPMFpYMm04b0h0ZmI1c2VKVExYU3NfU2s4MEktM0lxV1RFZw?oc=5"
-    },
-    {
-      "headline": "Cencora Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM09GRjNEcXFOUHJZYjhvREJ5dnV1bXZLZUhLTXhqMXdNZngzVHk0eXVhNDFGRHdKQjhyN2JmU0VJUzBEYWV5eUNxN0hyTEtDUkJibHlYMEFsanJ4bm9xRlFkUkJUeUpoSnc2MjZPVEppQUNTVFU2TlJvdk1hQzlmTDB1ell0eXBxbUl0aGVpSzVwQmtuc2pzQThDLWNTQmx1UmpEQVBEMU05YnNORkc3bGpEMXVRSGdaT1YxbkRuUWRpeWZYeFE?oc=5"
     }
   ],
   "insight": "Tracking Cencora (COR)."

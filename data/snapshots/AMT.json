@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:10.031Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:42.145Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    180.8800048828125,
-    178.1199951171875,
     180.16000366210938,
     179.77000427246094,
     176.52999877929688,
@@ -24,11 +22,11 @@
     186.9600067138672,
     187.52999877929688,
     185.52999877929688,
-    182.24000549316406
+    182.24000549316406,
+    193.91000366210938,
+    194.1199951171875
   ],
   "6m": [
-    179.55999755859375,
-    179.57000732421875,
     179.75999450683594,
     181.24000549316406,
     181.27000427246094,
@@ -158,10 +156,11 @@
     186.9600067138672,
     187.52999877929688,
     185.52999877929688,
-    182.24000549316406
+    182.24000549316406,
+    193.91000366210938,
+    194.1199951171875
   ],
   "1y": [
-    216.22000122070312,
     212.5399932861328,
     212.8300018310547,
     214.61000061035156,
@@ -410,29 +409,31 @@
     186.9600067138672,
     187.52999877929688,
     185.52999877929688,
-    182.24000549316406
+    182.24000549316406,
+    193.91000366210938,
+    194.1199951171875
   ],
-  "lastClose": 182.24000549316406,
-  "oneYearReturn": -15.71547291448515,
+  "lastClose": 194.1199951171875,
+  "oneYearReturn": -8.666603345633552,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "American Tower REIT stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTFmTlV6TnVjeFpQMXRkNXR3WFZ4NlBmblRTNUlicEtSSVlIM1YxNkp3T19UTnk0TU5RaDZ6eGFpZGpGdUtJbGdGaVFXR3VJVE9xeXlfanBBRHlPenFNMmVWZm1FVm9LRzNBWWNvOV9EUmVZSm10YUN2R1pkb1lmYkI0YTlSTkpFN1BCYmJMZ0RsN0ZHbG83anJlaWhsRTBNRUllVkQ5VVpOZ25lMm9oR0ZsTnRSSFFKVk1IWmpRRXV2WWk2RWI0Vlhxbw?oc=5"
+      "headline": "Assessing American Tower’s Valuation After Recent Share Price Rebound - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2xHNzQzcXdTQTdzUTUtVEVQTWVNdWxjdW1MSVRJbjVyZk1VX2ZMam9NNllURDJ2aTE2RkswSTFvZE1Ebnc0bUVtcWQ3YXNRdjdhT3BETUNFYTlVYXQ4NmZvYzBFNEZoaGNlTldCQVRTRVV4Zm5xYkV6YzBEUURsR0txNnRWWTYzTV9qbnhWSjlaOXRCVU1ST1FUdVdUZ1p0bm82Y2U3aDVNQQ?oc=5"
     },
     {
-      "headline": "American Tower (NYSE: AMT) ends DISH deal and continues litigation - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVRValcyS3U5Rk14TmpfSV9mVnUxUXRyVGV4MHVaRENWUFFlb2szSTFOYTZhUWVQODA0T3NPZHNWQXd6dnRxTm5aajlGSnZLY0NXci1tM1J6RWZTbGtjcmQ4VkZYZFVIMU8xX1RMUlJJcW1jU0VYMS0tSkJ5Q1A1MVdPQy1KSTdGbGlEbGFxQnFLbG9tZnAtYlVJeFFmaHEyOXRCQ2U5VVVBa1RQQzdR?oc=5"
+      "headline": "American Tower (AMT) Valuation After DISH Termination And Recent Dividend And Balance Sheet Moves - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYlg5aWpGZUJoMFVLT2FOT2ZsczVRZ2d4QnZBTXZaM3owS25IVTdXSlZQVTV3eUkxaWsya1YxOTVsdTFNa3E1M09yazBqV1ZkQ21DV19BQWZsYkZocWhCRlNGeklwY2ZIWWJpaUlxMko4Wi04RWItNEhCRGMwLXJzbEVHNG5LRjdRNTIxNGIxcF9BMWdWVnQ0ckVtckQ5UFBwUUxacHRpeEpHRkd6dmlPTS1LdzFFdW1GbmtQLVlqY1UtT2EydzRrb0JlYVVYUdIB0wFBVV95cUxOSGVNalJXUUNKTkhkYlJBNkZLV1JvVnNEMVZLWUhaa29ERU0wTzBDb0RadTZpOE9yVVMxVE5zdEtZaXJ6YklhcUlaYXgtMmRqeXdzMjNVQkE0aDdIbGQzRzVOZHpoLWtVeVNjVkpxWVVkcVB6X044cUQ2d21TYmpjWFNUd0FvT254LTZ4VnpNM1JabFpLeVhhTjdrNUZuZG9OZ1ZBVS1nZ2gwdEZCa3VfdTFtRnBkYlZrUmZiaG81TUJveURHT1ZlWU14YWk3SVlhTnY4?oc=5"
     },
     {
-      "headline": "American Tower Stock: Is AMT Underperforming the Real Estate Sector? - Barchart",
-      "source": "Barchart",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHJBTHhSRVNjZ0YzdW42eGNaU3ZwZzg2blJlbmJOMnZVODQ5cS1YMG5MdWl1Um9vNjd6R29nOU9pamZkX01TX2paMlBBSVRKYnBNTlhPWWNZVnpwdGQ1cFBveWlVTUM0OEYyN3I0V0dKTVZJb2dodTNZZXdISXVyOF9yVExVMWZuYWNIQ3lJM1dRSU9zeHRjZ21yRXRXYjh6dnVQaVZULU1INU9wSHBZ?oc=5"
+      "headline": "AMT Stock Rallies 10.5% Year-to-Date: Will the Momentum Last? - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZDNZcThYOUI3SXpOWkoxNUpvaTdQS3I3MXdJRUMyME9tUGtBVU82am1DQ0RJbmI1RzFmbTZuYVZCTVJFSmVRc3ZaX3gwZlhPaGFNYVJnS3NoZXdTOUtoMzlWSnVXcWQzYVdjeE0tLWNkbUVTLUhfcnI1MTVLVmtlcDVaV2ZwbXdhSk1fdTU5bWlqcjRCLVRuOTZwSENSWlptTG94dFBaVFB4V2FNQU4wVzNXSTU?oc=5"
     }
   ],
   "insight": "Tracking American Tower (AMT)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:49.302Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:21.948Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    337.44000244140625,
-    357.1000061035156,
     382.4800109863281,
     354.1099853515625,
     359.7699890136719,
@@ -24,11 +22,11 @@
     374.30999755859375,
     369.4700012207031,
     392.6199951171875,
-    409.6700134277344
+    409.6700134277344,
+    406.8599853515625,
+    357.92999267578125
   ],
   "6m": [
-    158.91000366210938,
-    165.97000122070312,
     167.6699981689453,
     179.3800048828125,
     181.88999938964844,
@@ -158,10 +156,11 @@
     374.30999755859375,
     369.4700012207031,
     392.6199951171875,
-    409.6700134277344
+    409.6700134277344,
+    406.8599853515625,
+    357.92999267578125
   ],
   "1y": [
-    81.73999786376953,
     85.2300033569336,
     86.80000305175781,
     88.69999694824219,
@@ -410,29 +409,31 @@
     374.30999755859375,
     369.4700012207031,
     392.6199951171875,
-    409.6700134277344
+    409.6700134277344,
+    406.8599853515625,
+    357.92999267578125
   ],
-  "lastClose": 409.6700134277344,
-  "oneYearReturn": 401.1867190289182,
+  "lastClose": 357.92999267578125,
+  "oneYearReturn": 319.957736217387,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Q1 Earnings Highlights: Teradyne (NASDAQ:TER) Vs The Rest Of The Semiconductor Manufacturing Stocks - Yahoo Finance",
+      "headline": "Teradyne and Monolithic Power Systems Shares Plummet, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQzNEUzFZdU9kQ1lQRUZEN2tHSnI2UlBVUXBiME5saW9UMW1VQ3k5cmZGMjFCbk43bGx1Z3lub1hhbUNKSV9CZ2YzR2pydjRwdWdFbXdoRjhvaFJvdHlpMG4wc1pZZXRlbzlGOHNMRFBvWTcyRDNpY3lQWGg0VldqM0hLVG9EOEVvRnFzdXFvdXpoMERUeDRKQ2V3REJfUC1FS0IxS05B?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1F1enhmdHJYdWoySThlTDFkYnpOaEJicjdna0lhTzdBRm9LRFhTbFh1X2FpVVc3eEVTYW9kMEdqSHhpRkhtczRSRHEyNFNBc0RJUXRSV2dfNTZNUFVUU281My15dlZvaGM1eGJQV2R5Zmp2Z0RPZTVsWlpwWnVSeXFxQ2NUUmhLWW9pNExCNlZ5ZXNtZUk2ZGN6U3U5U0NmdFd0YlZLeW4?oc=5"
     },
     {
-      "headline": "BlackRock stake disclosed in Teradyne (NASDAQ: TER) — 10.1% ownership - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelVEaE9ZZVoxRVNTUnZSTzZtODVUc0dBMmtobkIwZXdiVGFaTXE1bmI0TVRGYXlFcVdsS3hFSFdCQktPMGNGaDBmbkdYZVlkT1kxQzQzMEJkSnJlSnJmNkkzLTdBTWpPenljT0Z1NTk1Wm1BLVBMYnk2UXFnMjdzTkkycG43bWF3ZlF1SGNPMXEyaEZDNVBtbkN4YmlnVlNVVVFRS1ZNQVRONlB0b0JYbVp3dzFQaTFwZ25Vb2JCVTNaLThC?oc=5"
+      "headline": "Why is Teradyne stock surging today? By Investing.com - Investing.com Australia",
+      "source": "Investing.com Australia",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONHpXaV9TeFFCclJybjRJVHh1RnZHaE9GLWlsaUhzd0FQUlZOcUpmeEs5OXY4b0N3ekkwbl9aM3NGTGdLU0dpUGltdzVuZ0gyYkVCYUVrNnBCT3h0dnVadHdCN0NJNnZ5V3hFSFM1blBGdzdYTW5LZmN1T0FKd2JUOENXaWJad2RGNWtxVU9qY1lVcnRqcGVhUU9aSUI?oc=5"
     },
     {
-      "headline": "Teradyne Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "Teradyne Inc. stock underperforms Friday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHN1MkpOMExfTkhNcWJwS3UxVlE1bUhmYktFRWhjSERCckxwWnNEblEyU0RCb1Qtd21QUlJON29RZ3o4OGM1M3diVTNuOERHSGx3VXZSSTZjODhFWnJPRk1fbl9TbTZ6REpyNWdEaV9kT0lKd0hzMThpQjBlWHh4MlRfSURDSWtWZEhGOXFsOVVQMHJFMTlRaEpMWlByTEpvZ0tSdUZxcVJJREd3TDdERlRMdVNwVjctWU85T015QWdJQQ?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFVUaWRyWi1GcndVa0JBOG1kY2gwdGNMYUVsWmhqSlZkVkNBM3pJTVk0eHBQbUNlbW1YVXVNcjh0X2VMSFhWLV9PY3JSNHVuTjhKSVBMT2RzMWI0aFZxbnE2Vkc0Skc2QU85OWszbjc0YXM0a2k3SVhVTEFnbWNVc1UyTmxDWDRRMEZhajYwWUdQWjZIYTJWWkNVUVh2dFEzRUFmMW5YeU1BMUF5VDBjX09UOEdFSTVmNW9qaXJDMUM2Rl9USmI0?oc=5"
     }
   ],
   "insight": "Tracking Teradyne (TER)."

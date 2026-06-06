@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:45.153Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:17.812Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    115.1500015258789,
-    117.97000122070312,
     120.0999984741211,
     116.81999969482422,
     117.55000305175781,
@@ -24,11 +22,11 @@
     118.18000030517578,
     117.69999694824219,
     117.7699966430664,
-    117.20999908447266
+    117.20999908447266,
+    118.22000122070312,
+    118.4000015258789
   ],
   "6m": [
-    120.31999969482422,
-    119.27999877929688,
     125.70999908447266,
     127.58999633789062,
     127.19000244140625,
@@ -158,10 +156,11 @@
     118.18000030517578,
     117.69999694824219,
     117.7699966430664,
-    117.20999908447266
+    117.20999908447266,
+    118.22000122070312,
+    118.4000015258789
   ],
   "1y": [
-    101.63999938964844,
     100.2300033569336,
     101.47000122070312,
     105.02999877929688,
@@ -410,12 +409,20 @@
     118.18000030517578,
     117.69999694824219,
     117.7699966430664,
-    117.20999908447266
+    117.20999908447266,
+    118.22000122070312,
+    118.4000015258789
   ],
-  "lastClose": 117.20999908447266,
-  "oneYearReturn": 15.318771928692032,
+  "lastClose": 118.4000015258789,
+  "oneYearReturn": 18.128302464721376,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is PulteGroup (PHM) One of the Best Real Estate Stocks to Buy Beyond REITs? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjFFWVR1M0JWaGNqVnlLQ0JmMnJteWRaVEJjMk5lX256cENkYzNJcF9aMzVuSUhzMTRTd2EtS3lqZVc1YVhqUS1pLW5NWHFmQVZyMFBrdzU2eWktaHplTE8yRGsxRnR4MUJqZ3dZa245dndPYVVYTGprZW9MTmpxbnpuM3A2REpVUVEySlVwRXdmN1JpcDhHUA?oc=5"
+    },
     {
       "headline": "Earnings call transcript: PulteGroup’s Q1 2026 results show revenue decline - Investing.com",
       "source": "Investing.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMGdreHRKdm8taTAxT0l3ZDVDaTROYWxOOHdjbTVvNUY3cmtVc21wU21md1J3RDdUTGV0dzhhbzBEQzgxY2E3N0pHTHNjVjN1c3hkQUM3dThFMmdaNFJ6U1ktM3FqTTU0dEVvSFJWZVpLcjQzOUg5b0xSM0hKLXRGckNzd3BCRnJPMnZkd1NWSFhfaTRPQWNweHM4Ny02a01VLTBmaXJER2pDdi1rcWFvajdDbnpjNHk0OGNUcjBQM2VGSkFYeU9yRA?oc=5"
     },
     {
-      "headline": "Here is What to Know Beyond Why PulteGroup, Inc. (PHM) is a Trending Stock - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTNJQnREOVpHeTlfbXY5d3BUOU5Ed0o2UzlrUERkRzFKb2hwM1hTazN4LW5VZElTbW56eU1hWTZqdFdjVUhYUFRsQ2RuR2kzNktmVUZOTWFKT3pySTFvZ18yUHJEcWNuNTdrZ0loY0dsNTRJYVJIbDRfVDJTZGhFX1lhUmR3Qm5Rb01kVlBoSEY2WVpLZWpvY3lwZw?oc=5"
-    },
-    {
-      "headline": "A Look At PulteGroup (PHM) Valuation As Views Split On Undervaluation And Risk - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWFOWXN4RXZFMEstTHF1VjBmb09nUGVIZUlFM0ljY3pDbnUxTl90NnZscTd4M1ZmYmFuaUppR3p2QWRibExOaUR2NTFWTkR1NXN3RUlkRlZ1WndIUG01RFlZOE1OQUdOUDU3UlJRYTBCbzhqV0V3X1kzMnMzLVluSUZ3dGVzZVJETUsyYk1HSTV4QXZFanhlaVc4Zk5yOC1oTHN3VThiR2JrZkhrNUc4Slc3MS1ad0wzSjdkS3o2eDR4WXg4R3cyUnVadktuVl9B0gHWAUFVX3lxTE90SXNiY0d4dFdjazlKOThBZ01hcVgtZkZHc3Q1eEdxNk95SlFYMzBSYkVEdXkyVGg0YXNINXBIRURXWFF1VGR2RnFiME1fU3NQNWhLNGhKam16ZkQ3NWVDNkQ5UUF4RFZ6U01TOEFlYXJ1SndLRUtFME5HVmZCa3FwNmw3NnlvVEFnazZwM282cGhLQ2wyZXNsb0RpZmFjNTNOUDNhZ2p1VElxTVlzcnd5UGlXWTBrdE1QdnJqbS1FTEtETlFHV1N0VkgzQkVXa1JFbFFmbHc?oc=5"
+      "headline": "PulteGroup (PHM) Receives a Buy from Bank of America Securities - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcy1SQkJsOVN4UmtBY3k1SGh2Ty1kR1FoeW45VkpnT1MwcndNWlg3dUJtdUJNT0tCejRlV0U1M3hndFlDcHVTM3NJT01LYlZjQThoLTFnakNBZGFoTzFsNklLcHBnVlkzM20xV3JsMkQ3anBlMEM3RTZqYU9HemNZYVNvUG9sSXFZMHJNZ25lWVFzUW1QTUFwNXNOS3Q2cnVGeDhvNmNabjdqT2Y1TXM2R0RheDRKX3R2eEh5dGZIcTc0ZEtNSnBNbmUwSjQ5czNQTmMwT3NtSjlLNHZmMVQwbA?oc=5"
     }
   ],
   "insight": "Tracking PulteGroup (PHM)."

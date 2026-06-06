@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:33.546Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:05.878Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    76.55000305175781,
-    77.02999877929688,
     79.05000305175781,
     76.27999877929688,
     77.02999877929688,
@@ -24,11 +22,11 @@
     94.30000305175781,
     90.7300033569336,
     88.16000366210938,
-    82.8499984741211
+    82.8499984741211,
+    88.33000183105469,
+    82.47000122070312
   ],
   "6m": [
-    107.30000305175781,
-    114.97000122070312,
     115.56999969482422,
     128.1999969482422,
     128.49000549316406,
@@ -158,10 +156,11 @@
     94.30000305175781,
     90.7300033569336,
     88.16000366210938,
-    82.8499984741211
+    82.8499984741211,
+    88.33000183105469,
+    82.47000122070312
   ],
   "1y": [
-    72.51000213623047,
     74.87999725341797,
     73.4000015258789,
     72.51000213623047,
@@ -410,29 +409,31 @@
     94.30000305175781,
     90.7300033569336,
     88.16000366210938,
-    82.8499984741211
+    82.8499984741211,
+    88.33000183105469,
+    82.47000122070312
   ],
-  "lastClose": 82.8499984741211,
-  "oneYearReturn": 14.260096584280923,
+  "lastClose": 82.47000122070312,
+  "oneYearReturn": 10.136223618703061,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Robinhood Is Opening the SpaceX IPO to Everyday Investors. What That Means for the Stock. - The Motley Fool",
-      "source": "The Motley Fool",
+      "headline": "Robinhood CEO launches bold agentic AI trading feature - thestreet.com",
+      "source": "thestreet.com",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMEVkRVY0cU1Sczdpb3FyTFM3Z1l4UzhpdmhCZzN3VmNpMkdueHNyejZDd2s1T21wSVFBYUNFNUFDVnR0U3ZTMWszWEF6YV8zbEJXeTlpNEdPMlRSM01NdHc2eUVzX09FMlpwN1dzYmRJbF9tRk5fNDh6cllSSUdmb3NQVEREczdrd19oVF80Z2ZLXzNITVZwREVPQXhKeS1TYUo0ZzZzdzJnZS1s?oc=5"
+    },
+    {
+      "headline": "Robinhood is making a move in prediction markets. Deutsche Bank thinks it could turn the stock around - CNBC",
+      "source": "CNBC",
       "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWsyWl9vTkpWbWxHQ2tLak96WEM4d3Z5dkR1aWtqekIzcHhCYVh4N2RySFZyX0ZlM0dGbEtJX0ptczZrMi1FcVl1eDJRYlNWNGdUU2c2QkR5UnlEemdZWVphRzZYQTFLWm9tZlg5SXdZTW9PX21ILVhQZHcxdnBsWElveHI1OEFsMWJQZkJGT05mTEpLVy10Yw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSUhLaVRLZ2w3SktlRTJsTzFDdW9pcy1nNThFSVgzOGJoSjNxVFJtWXc2WWs5NjNDTDZCNHhESDFUMzlyQ3NDOF9DSkF3Q1ozMzhkMjJRcDhCSWpNUnVDVmpaSEFPYk1TbWtZVll5TUdDZmVWWVg3VDB6eHNKNWxHbks5TFBPdjFhVWtJRHh4NmhKTmp6YWROc2lYaGhCRUxkSnRlNzRoOTl5Zw?oc=5"
     },
     {
-      "headline": "What to Know About the Demise of the Much-Hated ‘PDT’ Trading Rule - WSJ",
-      "source": "WSJ",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0FpRkN2N09UV042VTZkcUhYX2xSMnp5R2R2Smhkb0E3TEc2SVpHeDFPcGlPNFc5Wjdhc3VBZngwYzhaRkJpYl9ZWW1XdjFJTnZCWFVGQl9iTE5GdHVkRl9aVDhHS0VPNlBualNjWkRtSE5FaTY1VTYwTzJ5T0plbVFaYU5BRXB0UTNoWG81LXFkX05QdW10enk1cmkzODdCRUN0Q3RCLThEVVdS?oc=5"
-    },
-    {
-      "headline": "Robinhood stock rises 5% after launching FIFA World Cup trading - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVG45bzRqQzBGdnVDRXJTQ0V5MHlMNkNXUkVNVG5KbXV2QVVXcmJSWENrd08zWDhIREROeFNOOG02a2ZoTWs1amZOUkZrS1FkdnNlZ3dOdFpiZG5BOThXUkxVYUVIUWhmYWtlbm00VndsZlhjZFgxQzhyMm5icjZ4bWF3UzRJSUV4UW8xZGYzTlE0SDA5d1BSX1QxUWFzVmxqVWc?oc=5"
+      "headline": "Robinhood Is Opening the SpaceX IPO to Everyday Investors. What That Means for the Stock. - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnF4Y3FDYXhIUzN3T082ZjV6SHQ2X29tUGRUX1JhQ2ZHRlNYc1ZkS3Q2cGZDOEVxeGlWQ0ljR1FPMUhiOW9YazJkSk9vUnk1bFhUam5RSThXUy0tOUxoY2dKYUdNYmpSeFprU2xjaVc5dVEtSF9XNmZHeUEyS3lKazhLZVZzb1dBQmtzcXFDV2NvVTZHRnBlUV9wUGFUdW5jTzNDVw?oc=5"
     }
   ],
   "insight": "Tracking Robinhood Markets (HOOD)."

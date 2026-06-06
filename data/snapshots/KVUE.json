@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:38.331Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:11.182Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    17.149999618530273,
-    17.3700008392334,
     17.68000030517578,
     17.719999313354492,
     17.59000015258789,
@@ -24,11 +22,11 @@
     17.280000686645508,
     17.350000381469727,
     17.31999969482422,
-    16.829999923706055
+    16.829999923706055,
+    16.8799991607666,
+    17.709999084472656
   ],
   "6m": [
-    16.639999389648438,
-    16.760000228881836,
     17.030000686645508,
     17.219999313354492,
     17.350000381469727,
@@ -158,10 +156,11 @@
     17.280000686645508,
     17.350000381469727,
     17.31999969482422,
-    16.829999923706055
+    16.829999923706055,
+    16.8799991607666,
+    17.709999084472656
   ],
   "1y": [
-    21.649999618530273,
     21.729999542236328,
     21.299999237060547,
     21.520000457763672,
@@ -410,29 +409,31 @@
     17.280000686645508,
     17.350000381469727,
     17.31999969482422,
-    16.829999923706055
+    16.829999923706055,
+    16.8799991607666,
+    17.709999084472656
   ],
-  "lastClose": 16.829999923706055,
-  "oneYearReturn": -22.263278428415177,
+  "lastClose": 17.709999084472656,
+  "oneYearReturn": -18.499772399672846,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is It Time To Reassess Kenvue (KVUE) After Recent Share Price Weakness? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU3gwNGlqWjdDc3daYXVHbk5QVHFkSmo5c1FZcm9HNWlnR05nOWVDZVVndHY3RnBFbDAtWkFxdmpraUpudVMyUnlydks2NUFueDY0Vm90cjRsbmFGdVRzdHlaR0dlOTA4T2JZZjRlNURFMy1Yb1BwNDFCejlfM0xtLXA4eHhLM2lFcUExdzAwMVZXRUl3QmR2Ml9LZzZXYlVZNWM3Qm5ZTkEwWHZqNFIzdUZ5QWNjM0lfekI5VUJOaGHSAcYBQVVfeXFMTVgtWkhKNWctS1NDcFRJdERCVGRXVHhfb1FTOHJGaDU4SEJQTEs4bkFPZm1KNC1welVoU3hpUmZGcVBZQVowX0JabUdmSjVwa3VlUEFrQVFpUERzOXI2aFNmS2lHcnlwN1NOMnFraks3R0E0NTZLVDl4S25QTEllU3lVcnZKVE8tRGJfVklRYTBPVTNtcGJEVnpzWGtiUzRPbmIwNTRkcGtqMFY2X1ctQUM5WG1reU93VUxKLUVscVJMN2FzZlVR?oc=5"
+    },
+    {
+      "headline": "Kenvue beats first-quarter estimates amid pending acquisition by Kimberly-Clark - Reuters",
+      "source": "Reuters",
+      "when": "2026-05-07",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNnVtbWJlemVVcTNncFM2dm83OVNodkxrMnhWTWVqY0F6ck5WRWtvRV81LVl5cWJSM0c1TEpiYUpDRlNVUHRCMkZBd0pYYnU3VDh6TUpZc2Z3WllRR1AycENScGM3N0VYWHZEdEt3ejc5OENmczMtbTFTa0tmUXpmbVFhRTNhZkxxRDlLMm9oYUs5N2RyYndFUGZUZmsyRkpmVFVLTGlLQktCa21DTUhZbHFjM053QXhPb0FLOExqZloxLXR0YWZHdk1ZRGozQXVQTFdVdndzS0dZVjN4Qlg4Zzg1T2tmQQ?oc=5"
+    },
     {
       "headline": "Kenvue Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-04-28",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeHBiQndHejFjR3I3V2RNMEh1WnhseFkzZkdLdHZicnlUQVJWSmtwT25lcUdZTWxaRW9QZkVqcDdZQkVrNG1ieHF0eDdnek5LOW00Vkw1cmFUbVVRNGZ6aVUyZjQweDhHQmNPaVZ3VHZFcy1mMmEyeHc4ZlZNZGNxZFVVbzF4eGVsam5qTGZuV1YweXd3MVBoSXBrWWNDdw?oc=5"
-    },
-    {
-      "headline": "Kimberly-Clark to Acquire Kenvue, Creating a $32 Billion Global Health and Wellness Leader - Kenvue Investor Relations",
-      "source": "Kenvue Investor Relations",
-      "when": "2025-11-03",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQWctaTJQcFEzbWxDX0FLWEdjTDg2a3daMmlWaG1OeWRBRUhka1dwb0dJbHBzZk9HUHpaV3B0ZXRYZFVTc3hxOEVDdkFMZTZCY2Q3WlJ5aWJLdVpZWEVjQk95T1h1UFBfTlRlZEdOWXI2UlFlejFQOFFjT0xvQW9nbEFrS042VHo2VWZJODhVWHdIbUZNVzVWY1FBNWVGVDF2VmQwcW5zS2wwa2xGbkJiTEZOeDQ1ZFFMMHZjeW1WbVdUVVpnSTdqcEFINXR3ZjZNRFZSVVJQTmhvRmNfWVVENEduRVczZWwzMGFLTTNMQVloeU8wVXc?oc=5"
-    },
-    {
-      "headline": "A Look At Kenvue (KVUE) Valuation As Share Price Weakness Meets Mixed Undervaluation Signals - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOal9mLUxoV2kyWXpadTlEdGU3dnB5NWk5dDZ5bTRObTRiT2VaREdBbWw1UFVscWRnNU1NUjJKNTJCRE1xRUNHWFo0NjJXQzF5ZHVFYWYwaWlUeWNKQ0pvYm13RVpHRUNnQ2Z2dno2elhfNVYyOTFLTGtPaklyUWtqVDFVR2xhVEwwUV9idmlWQy1yemtRSFhKMDhVLWlrcnBZY1lhSl9fUDFSb1RWNkc4RlBJNjA2VVY1Wm9NR3lsa01pUdIBxwFBVV95cUxQR2VUblpwTWhiYVJCZ2QwZGpQWkZ0SFg1WlZoQU1PR281ZEpRV0dIeDRtUlZNbW5TbWpjVmFDaWQzUkZwVVhqaENIdVpmb2hBRWM5d1U0S3JKVlAyOVlhR20zLXFHYTRER2lacWpNLTNmSU1mZGZoWFl0akVZeUh4el91LTJsbjQ4c3huVGNVYmhzM2lmXzhBZVpWUnV4QUVBVVZpaWF5SVc2UTh2bzd5M19TSUJqdTZZUUViS05nMElDWlZvSkNZ?oc=5"
     }
   ],
   "insight": "Tracking Kenvue (KVUE)."

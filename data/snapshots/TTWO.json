@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:51.026Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:23.736Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    225.17999267578125,
-    223.11000061035156,
     222,
     223.5,
     220.4499969482422,
@@ -24,11 +22,11 @@
     224.16000366210938,
     226.97999572753906,
     222.3800048828125,
-    215.8000030517578
+    215.8000030517578,
+    216.64999389648438,
+    214.38999938964844
   ],
   "6m": [
-    235.47000122070312,
-    239.07000732421875,
     241.83999633789062,
     243.6300048828125,
     246.07000732421875,
@@ -158,10 +156,11 @@
     224.16000366210938,
     226.97999572753906,
     222.3800048828125,
-    215.8000030517578
+    215.8000030517578,
+    216.64999389648438,
+    214.38999938964844
   ],
   "1y": [
-    231.02999877929688,
     232.72000122070312,
     233.5,
     234.91000366210938,
@@ -410,18 +409,14 @@
     224.16000366210938,
     226.97999572753906,
     222.3800048828125,
-    215.8000030517578
+    215.8000030517578,
+    216.64999389648438,
+    214.38999938964844
   ],
-  "lastClose": 215.8000030517578,
-  "oneYearReturn": -6.592215646457363,
+  "lastClose": 214.38999938964844,
+  "oneYearReturn": -7.876418758554056,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Is It Time To Reassess Take-Two Interactive Software (TTWO) After Recent Share Price Pullback? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS2RmVjFRVHRoTEZlVXhWaGMwYXVRV0FHSGxtTGV3MHhTNF9hME0wajJMRDF5T2xBbEUtXzU2YUtGNlNGYVZ3amVXWWhjYTZETjl5ZndSeUs0UEZNdG9BeEp3NG0yNC1zYzJsTmxzVVZiTFVQSDlBcUp2UWMxVHNwN0EtYkl0RFN0X25RRkdBWnZTZ2x0R3BTaDFVdDlWN0NYd2Z3WU4wd0ZLYW5ZdWVLZjZKb0ZQa2w5VHNsSU11ckd0QkU2ZHdmVGhvcXFBdktuUHhseXBna1dDOWg0Y3VWWdIB5gFBVV95cUxOa3NVTVNnc0J4cXg0WkluMmQ3Wm5oM0xPT01XSTVNOXQtQ21PdjNMc1JHVXR3MDFvQlpOckZIY3UxLVNjSVZjbVcxVWpIa2xHUE9FcHRmOWRfa292RDhGSDExelNWWUtUbzJvSFhkTE1NRkx6bExnTHN1Nk8zT1Q4cDNST1R6NmRtbU1fZ3hOaGhfWTJZRHJFQWdLX24wOFJEVnltaERwOThsRGpGVmR0S2V2V21LWG9jbGwzenAxZGI1WEl2eVJvVC1aU1VPSTYzc3AtZmhJRlRJREJtamk0VUFkcWtNQQ?oc=5"
-    },
     {
       "headline": "Take-Two president Karl Slatoff sells $56.2m in company stock - Investing.com",
       "source": "Investing.com",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1RuQW1jVm5NMTdqVUl5d0Y3N2dIZFpRbjNSa1UzS1Bpb2w4MktIcElKQi1tT2FTN0FNM3MwQUJ5MEx1aUdCRTBQallfQ0l4cThaRkp2aE9WMHkySWhMclhiTWU0N085Qk1tYjRmNkN3NXh6cUJfS2hnRXRKMGJGS2NTcXNkNDlpdlNsZlBsNDFycFNlTWZlZVJiOUtSeEVEQUdIa3FMZnh5alYzRWxSQWdBM0hocHJFV0UwRnZQZjk?oc=5"
     },
     {
-      "headline": "A Look At Take Two Interactive Software’s Valuation As GTA VI Expectations Shape Market Debate - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUN0cFV3Q3NWdmlwRExiQ2dTSHNoR1VscGdRQlM2MTRtRzZhRGJZRXAzWUFoNnhMX2tsazlzdjN1VV9tVjZHUUQ3MWhmT3g2VXEzeVIyd1NsS0V5LTRtN21yZnhvMkVPbEFCWDktekM0QXotTEJUZF9nVmNZYVVnc2QwNk80QmxnOFkxeGZkdS0zUjBmMlliTzdMVm9NcmVvZm5xeEdlaw?oc=5"
+      "headline": "TD Asset Management Inc Sells 16,933 Shares of Take-Two Interactive Software, Inc. $TTWO - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPR2Z4VTdEV3pNNGcyRmxTMTVTVFNNM3VmSFh1Wk0zejlIOEdPVlpNLVN1MFFKUmw5ZEdkSWxKSE9qX2thLUtoQ0tUMG5Ybm1PZkk1QWlYY196NTFCX2cwd19xY29oSE9qaUtOM0s2MzJzLXRGaE55azRIaHRtZU5zalFTb0tQS1BibDNXRnNFVm1xS1g5blZUQnVDcG1yYlBHZUNkMGhrM3FEamdyUnpjR1Q5eWR5akVhS0NhbVN1MkhBSmNwMk5WVERPTmwxN0tpNjZjU2FKQVJwaVFpdnc?oc=5"
+    },
+    {
+      "headline": "Is It Time To Reassess Take-Two Interactive Software (TTWO) After Recent Share Price Pullback? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS2RmVjFRVHRoTEZlVXhWaGMwYXVRV0FHSGxtTGV3MHhTNF9hME0wajJMRDF5T2xBbEUtXzU2YUtGNlNGYVZ3amVXWWhjYTZETjl5ZndSeUs0UEZNdG9BeEp3NG0yNC1zYzJsTmxzVVZiTFVQSDlBcUp2UWMxVHNwN0EtYkl0RFN0X25RRkdBWnZTZ2x0R3BTaDFVdDlWN0NYd2Z3WU4wd0ZLYW5ZdWVLZjZKb0ZQa2w5VHNsSU11ckd0QkU2ZHdmVGhvcXFBdktuUHhseXBna1dDOWg0Y3VWWdIB5gFBVV95cUxOa3NVTVNnc0J4cXg0WkluMmQ3Wm5oM0xPT01XSTVNOXQtQ21PdjNMc1JHVXR3MDFvQlpOckZIY3UxLVNjSVZjbVcxVWpIa2xHUE9FcHRmOWRfa292RDhGSDExelNWWUtUbzJvSFhkTE1NRkx6bExnTHN1Nk8zT1Q4cDNST1R6NmRtbU1fZ3hOaGhfWTJZRHJFQWdLX24wOFJEVnltaERwOThsRGpGVmR0S2V2V21LWG9jbGwzenAxZGI1WEl2eVJvVC1aU1VPSTYzc3AtZmhJRlRJREJtamk0VUFkcWtNQQ?oc=5"
     }
   ],
   "insight": "Tracking Take-Two Interactive (TTWO)."

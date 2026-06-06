@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:34.407Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:06.875Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    239.6999969482422,
-    242.69000244140625,
     256.42999267578125,
     272.5400085449219,
     270.55999755859375,
@@ -24,11 +22,11 @@
     258.25,
     255.52000427246094,
     250.72000122070312,
-    248.6300048828125
+    248.6300048828125,
+    249.3300018310547,
+    251.89999389648438
   ],
   "6m": [
-    197.27999877929688,
-    200.1199951171875,
     203.67999267578125,
     204.6300048828125,
     204.58999633789062,
@@ -158,10 +156,11 @@
     258.25,
     255.52000427246094,
     250.72000122070312,
-    248.6300048828125
+    248.6300048828125,
+    249.3300018310547,
+    251.89999389648438
   ],
   "1y": [
-    175.00999450683594,
     175.3699951171875,
     172.8699951171875,
     168.6199951171875,
@@ -410,29 +409,31 @@
     258.25,
     255.52000427246094,
     250.72000122070312,
-    248.6300048828125
+    248.6300048828125,
+    249.3300018310547,
+    251.89999389648438
   ],
-  "lastClose": 248.6300048828125,
-  "oneYearReturn": 42.0661748967148,
+  "lastClose": 251.89999389648438,
+  "oneYearReturn": 43.63916343166756,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Howmet Aerospace Board Approves Common Stock Dividend - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-04-23",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ21DU2ZmM0VsaHlsWndVdmUwVUlvMlFWNnVUQlNsTTFGb1BUMDBMdF82ZmxUb2pmSE1wUDlyZlVnVkYwbks2eFZVa1otUVBQU3ZickpPUnBYTWgyVHVEaUhmNm10NmpNX3FoeEgwcEJ0dGNTalRnWmJYbVBPc1pMMk9SUXNkZEFDV0ZCS2xtemhnbmpCdWZaMk51MXZrVXRjMEt1VHM0cEhIN2JWVnc?oc=5"
+      "headline": "Possible Bearish Signals With Howmet Aerospace Insiders Disposing Stock - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOG53S2tUZTM3eTdDMXpRYk1iSWpFXzE3N1hjekp0d1BPZlpwNmRwa0NoOFVlQXFhYWhMMEhQc2k0bmpSdkVXa05WZXVwVTZNUWxUUHkwcEllSVA5TjR2eG01MElpdUk2bFdPVFRVLUNBSi1ubElGUi1GQnlNUEEzOGZUeGlLYmFtN2JBSkdqbXZ3bUVFczVMYmcyQTU5Y0FBMWxlRXJyRERsdw?oc=5"
     },
     {
-      "headline": "Howmet Aerospace Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWmlMT1dTTnM0bkRVUENRakpHdVdDck1SdVY2dTFHbDhQTUQxNXpOem5qUHpQSnFaODJSa2NaN2ZMM29pZFdDZ0Q1SElwMHpJWVB1XzZYT0stRWxOSm5QUHhxVXJrVVVkSkRJeThFS0F3elpRSjFMLS1qa0FQZGFsWk94Qm5DaFpZRF9WUW1IcmxQMGNwMUVrdXdJUF9OQ2lINThuLW1EQU9oZ0tMcnZSc2dpQUJCRVEwV1JKX256U0hsRUxBWDRNbTJsZU9FbFlBeHJ6SDZiQlgwRmpvdTA1RnFHNzFYOF9vTHI0?oc=5"
-    },
-    {
-      "headline": "Assessing Howmet Aerospace (HWM) Valuation After Guidance Beat Revenue Hike And Recent Acquisitions - simplywall.st",
+      "headline": "What Howmet Aerospace (HWM)'s Defense-Fueled Beat and Shelf Filing Means For Shareholders - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVzJSOEVqa19JSnFTV250U3prelM1ZVRuN0pwWEhmVTI1NHR6NlloZmJGYW5sN3lGNW1keVludF92cjhlcFJiN2ZiZy04Skgxbk1MNXhRQnMteTNyZUpWbHdJd2QxejA2c05uUXNfRDJ1cUVSMFRuVHFBTWM2OHJaaktKRVA1M24wRFliRWp1bU5Od1E2VkppNjVwWDZpcnhIM011NGJKc19pSi1wNXpBWVBhMmxhYkQxYk05ai1XX29jTkgyUWFxTHliWTlfd3pOaXFlcFdiQW7SAdgBQVVfeXFMTVcyUjhFamtfSUpxU1dudFN6a3pTNWVUbjdKcFhIZlUyNTR0ejZZaGZiRmFubDd5RjVtZHlZbnRfdnI4ZXBSYjdmYmctOEpIMW5NTDV4UUJzLXkzcmVKVmx3SXdkMXowNnNOblFzX0QydXFFUjBUblRxQU1jNjhyWmpLSkVQNTNuMERZYkVqdW1OTndRNlZKaTY1cFg2aXJ4SDNNdTRiSnNfaUotcDV6QVlQYTJsYWJEMWJNOWotV19vY05IMlFhcUx5Ylk5X3d6TmlxZXBXYkFu?oc=5"
+      "when": "2026-06-06",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQjZLODY0eUo5RW9jbjM0dEpYVTVHMWlrdkRjUlByMmpsMld2YkpUUDkxWHZZcVlFMm1fUUQ0UmtlcTJiZWpHVlJybWNMQ2dIeGd2S2syZl94eDVRb2VhTXgtb2dTN3lOYUJfUXBpWWxtVXlsVXhIUGExZUM5VndrM3gxRmVZM1FCNTgyRnhXeVBSU0tNWDZnU0V2SXRLdG1zeUhyY0d6UF9wM1FLbGFtallTR0hrQVd1WUI5dzlHYXZCWEx1TnF2aW9mdmhvRU5ZZWtR0gHYAUFVX3lxTE9UUUg4LVBvZVFHcWZEQlV0cXk4Q1p0b3ozcVBRczBBd0VqY2dSUHVlZXllcmZjNFdrdV9GSWZ5clRZZWJmS0NXMXdjVDVmTldXajV4RzlBdXk5Q244OVhVc3hnVzhIb1dGR0haYm9PN3dEc0xDTGdLUXRmVVBwZlZnaGFxUzRFYnNPd1VhUW9hdVhBOFM3LU1nVTdlWGx1Q0h4OHloYkFEdnBFUG1kNGU3aktmdDhiUnhNcklKTFNWUVJLTEw5Qml5cmJqSEYtRlZuQ0NZdDFCVw?oc=5"
+    },
+    {
+      "headline": "Howmet Aerospace Inc. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZmtjYXJNOHh6bnZzakdIWTBxX29mUDIwWmZ6VWIwUUEyTV9SVmVtaWltUi1QYlJOeFYtcmRFdmJJX1UtUFlMb0x3a01lMkZWUXdTeUNleEVuTDhHTXlFeWtQeEh1eWpXczhJbGxOS0VfaXpFMVdpbEJQUEFKR1ZPdl9DNlV5VWJMcVhMX1R5MklkQk02d1Y4YVhleXl5Q0FxaEdiVjRLc3JJWUtseWpIZm5yQUlEb05HS3NSN01yU2gtZ3UtZTlweTVPOXJBNFJBLVFTT1JPY1NyQ3BQaWZ1YjNTM3NmcjVoZTRPLQ?oc=5"
     }
   ],
   "insight": "Tracking Howmet Aerospace (HWM)."

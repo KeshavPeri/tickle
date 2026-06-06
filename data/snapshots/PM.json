@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:45.200Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:17.879Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    169.19000244140625,
-    169.4600067138672,
     170.52999877929688,
     171.11000061035156,
     170.99000549316406,
@@ -24,11 +22,11 @@
     177.3800048828125,
     172.66000366210938,
     173.66000366210938,
-    175.94000244140625
+    175.94000244140625,
+    174.99000549316406,
+    178.2899932861328
   ],
   "6m": [
-    155.24000549316406,
-    151.05999755859375,
     157.41000366210938,
     156.49000549316406,
     157.47999572753906,
@@ -158,10 +156,11 @@
     177.3800048828125,
     172.66000366210938,
     173.66000366210938,
-    175.94000244140625
+    175.94000244140625,
+    174.99000549316406,
+    178.2899932861328
   ],
   "1y": [
-    181.9600067138672,
     181.72999572753906,
     180.6300048828125,
     179.02999877929688,
@@ -410,29 +409,31 @@
     177.3800048828125,
     172.66000366210938,
     173.66000366210938,
-    175.94000244140625
+    175.94000244140625,
+    174.99000549316406,
+    178.2899932861328
   ],
-  "lastClose": 175.94000244140625,
-  "oneYearReturn": -3.308421658791988,
+  "lastClose": 178.2899932861328,
+  "oneYearReturn": -1.8929194531890685,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "PM Stock Price, Quote & Chart | PHILIP MORRIS INTERNATIONAL (NYSE:PM) - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWTFJtbFZPdU1rVUk0QXRmaGpYdWlfMjhFdU1CYVBkVkhZckZoTDl6Nkc5dXpvLWdGeVBSMk9lbWJuWjN4bkRCLVZhb2JObENldlBuVjhVdjFxWnBV?oc=5"
-    },
-    {
-      "headline": "Philip Morris Balances Zyn Ultra Growth With EU Illicit Trade Risks - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbEIwdjZSS0Joall1dlJjS1lKdVZuYjFNSVlKbTJ6cXF0cVdBcUFBYTBuUzNKQldNYnNFckdOVEJIYUw2WGYtd3lhWW1pSkFmU0ZTVmFBZEgyS2NVbk14bVJKWGNrRlR5Ykg5MnhtNEd1ZThBMzhXSW9VWjFzTXY2eE1sUDZvUUxFQmpUaXg2NTFrdXRhYW0wOVRBM3dERHRManpPLXRpNWZoRmdyaTlRaG9yejEwemJXTzZVN3Y4MEp2NVZNbFhPSHBlWW56cHBIMzBrcUNRbk03ZmZEamRwODItVHJKTXpaYUZj0gHwAUFVX3lxTE1uU2RwTXJfZDFvMUVFZVFhcmZhT05LYWswODZpakV0cElhMHJtQWJwRlU2cTJNcEt5ZjZ1OE14WWE3dGZtWHVNSC1IeXFHMjdjVURtSk14Qlg1YlllR1pVM0NZY2JYbEQ4cDYxQ2l1d04tckVPaFdfMmtraUtvclpwV2tTT3VBWWVjRWR1M2RpQnF1RTFDRmVaZFF3bXd0TnRSdjlYQTVuRXFhcE5STXZ3ckI1OFo3ZHVSa1Y2aVhuZndsdWluTktzcGtEcUtKWjQ0bHpxUUY2enl1TUkzek1ZSkxWQWlLUS1ibk9aLVFwRw?oc=5"
-    },
     {
       "headline": "Weighing Philip Morris International’s Valuation After Its Recent Share Price Strength - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-05-20",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXhrLV9HNl9QZzlvc2xMMzhTVXlDS1VzTUk3YVFnMzhUZG5jSnN6QmNsQ0sxcVhZSTk3OURUS3N2SFZ0MkhWdDM0bjJoQ3JsV0RPemFWNDRsaGNxejFFWDNlNkZDVHhsaGdKQ0VtLUtDcW8taGNxVHZuRDhSWm0yV2s0RHVGMkpTVmVUUW1QNEdFZi1BT2RrUkE4dGRnVEdrMHlYdXM1VnlVRXVZbHNuYQ?oc=5"
+    },
+    {
+      "headline": "A Look At Philip Morris International (PM) Valuation After Recent Share Price Moves - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRWo2YThrTGxmWkMtNktYYTZ5dmJnSVZMT1ZGdW1ickZWNnB4N3k1dkxxSy1vQTB1SEtMUGNUcFh6cEtDdjhzNG0teXdjTnpxNnkxM2w1N1hsUzJ3dE12Z1plZmFBQ1MxdmpERFFjLWhDT2VWZDNNdkxhV3FVNVp3d2YxbXZDNTB2R1p6eVBTalR5eU5aZUN4eUNfNTZKS1Uwc21TV1otdTRDSHIwVkdiRGRCRlJMVi1MTlR4MDVLSGlRYl9vM09mWEVtR3N2bEJVY0dJcnE2NjB2WFdBQkxLb25vNUtoQUV5MFFyUmNR0gHzAUFVX3lxTE5GckR0a3Rsb1VzMndFYkRkb1poaDk5SnVKMlRSZC1OZHpXM3k5RXJwNkJMdU1hQzZYaTRvNVlJNGJ3Q0NYV2VmNTNJc3V3N0FhZnllMVpfc3JYZG80TlpGNVJ0Nm9iZW5KN3cyT1lyaEtyVE9KOFNHSW5SQkd6b1V3clByemwwZXV0TkI0ME9KX1ZXWEtLUmljbkNLbWJtd2ZLZF8wdUVuclo2WmRTYkNDNWxkVmNwY2FVVEZYODlNME5vMFNWOTVaTmk1czBYXy1seV80QmtKVlFXa2F6elpabmF5ek1TS0pGaEZMaE01QnM2bw?oc=5"
+    },
+    {
+      "headline": "Altria and Philip Morris Are Both Dividend Giants, But Barchart Data Shows 1 Stock Is a Much Stronger Buy Here - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVkFCckRwRXRZQmxEcElhaWtib29RMUNWTWRHYXlzc2NrMXl3S3JWVVZDN3FycUppVzB5VUx1OXc3Y083a0k5MTctNG1Xd2VNNllmeks5OVJHX1AzbVFxWC1RX09vZlRvaWluaWhvbVl1Mkd1R3RGNWFCeEZVU3d5QlVFTTBIRHBDcmJsZFB4TWtXRGxfV3RwVGdmNmVOMnVIZmR1Q0lkNFFCVmJrQjZ5N19iWHFZQWR2RmR2VGNrNkdYSkdHZDdNUkNCNDJCeDNxNnpOeUtQX1lNV3RTQXRwTE83MHA3cmxK?oc=5"
     }
   ],
   "insight": "Tracking Philip Morris International (PM)."

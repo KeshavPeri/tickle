@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:35.600Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:08.006Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    406.989990234375,
-    398.32000732421875,
     388.54998779296875,
     406.7799987792969,
     396.30999755859375,
@@ -24,11 +22,11 @@
     331.5299987792969,
     353.760009765625,
     322.1400146484375,
-    311.44000244140625
+    311.44000244140625,
+    301.9800109863281,
+    296.760009765625
   ],
   "6m": [
-    663.1500244140625,
-    653.22998046875,
     648.0700073242188,
     629.1300048828125,
     634.0800170898438,
@@ -158,10 +156,11 @@
     331.5299987792969,
     353.760009765625,
     322.1400146484375,
-    311.44000244140625
+    311.44000244140625,
+    301.9800109863281,
+    296.760009765625
   ],
   "1y": [
-    766.6400146484375,
     771.5800170898438,
     764.3800048828125,
     762.0999755859375,
@@ -410,29 +409,31 @@
     331.5299987792969,
     353.760009765625,
     322.1400146484375,
-    311.44000244140625
+    311.44000244140625,
+    301.9800109863281,
+    296.760009765625
   ],
-  "lastClose": 311.44000244140625,
-  "oneYearReturn": -59.375978752658106,
+  "lastClose": 296.760009765625,
+  "oneYearReturn": -61.53866051574144,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "INTU Stock Drop: Intuit Investigated for Securities Fraud after Stock Plummets 20% on Pricing Issues - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcHlaS2JZUVg2eU56MkdteUg1UHBCVy1KaUNlbUxTSWNGWUowVWRESzhQVGd3d2RiWWx4eW4ydUttM05fMExENHVTdUhudF85WjE5dEJSOVR6ZEoxNDVaV3ZUNFhJNjYwZVdkalhmbVlTMUYwUXo4Qm1wQnRVWlllODd1THRBUjZ6WG1NS1pza0pwdjZqaHBwSlo2dURId2VuYlhVdTF1dExTZ0RpblB5dmhyRmtZVTJLQ0JkV0dVYkZLX3ZOZkR5aXNXdG5BWnY1cmxmVmRWTEJ3SGF3Q3ZiZjZ1eHIzb083WVE?oc=5"
-    },
-    {
-      "headline": "Why Is Intuit Stock Crashing, and is it a Generational Buying Opportunity? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdwYURsd2dYbmtISFhUOFpfbVhicVJUVjVtYWdMNUcxLXRjYldINi0zMEkzSDlmU1JBS0hUQ1pzQ2JtbGxzR2lkUVFhOEtpRHNBS1VUa1N6SGRvRlBKVEo0dzlPcExBaHVuR040blhnalpPeVEtNjBNeGpseFRUWFdmNTEtWElFS242ZUNKTms0NUptTDdrNw?oc=5"
-    },
-    {
-      "headline": "Zacks.com featured highlights include Adobe, H&R Block, Global-E Online, Autodesk and Intuit - Yahoo Finance",
+      "headline": "What Makes Intuit (INTU) a Strong Bet? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWNtQ2E1NHVvYUZ4X1gzZTVPai1JVE8wZDVaRWRqNEdBYm5DcHJXVV9ORG5VY0drWEMxcnFSQVZfRlpKeGtsMGZsYmdjb29UZEdqMzIxc0tiOF9tWFM5RHdRVEtsOU1QcEhWbzRyS29nYnVSdmwzcWJ6LWxQcTVaMXVCRmg5bzBMR3FtYzNzYWgwT3VIYUtaMW40LWszMWtQWnc?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWV6Nk9Wc200VVF5WDNBSkQzVUNGMG4wLVY0R3B0d3F6TTFIRU1MUFY2OHA1bHo5WjRodWJxbnMwZHYweFl5QWJBcjRNYzI4bWtPYWxZOWlLMktnbkN0ZWNuUGc0NWRfRkdjUXlWYnpydjQyd2RmYXVQbVpMcGc4WmFpZFpVMzRIc3IwMmNpc2xBWTNfNGZHcw?oc=5"
+    },
+    {
+      "headline": "How This Stock Became The S&P 500’s Worst Performer Of The Year - Forbes",
+      "source": "Forbes",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWtwNHBNbGZyd0syODBsU1p3SUF0Z1RJa2I5YmIzWExWOGlZNldvR0NKRjIzbDJWbDF6cmsxTHduYUFocW55OFFtTk1ROHh5RGh2VjlnWlBOa0tIQ3VER1h0Rm1HVUkyenNaelRvN0ZSNUY2NkVuMXdSVDFibDkyNzFJem1mckpjdlFfRHNheWFUMWQ0dmlHVFRYX3FDUHhydnVKTVE1RzdoOHFpaDFR?oc=5"
+    },
+    {
+      "headline": "Stocks making the biggest moves midday: Coherent, Victoria's Secret, Marvell, HPE, Generac, Intuit & more - CNBC",
+      "source": "CNBC",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1FyU0tpTGxjZDBjaUZ0bEtkOTdZeGZ1d3hmc2w0NGllc2thcnotaU1UUTQwLTlpYzJ6YzJoNUlQdXRwdUZZSmVKbGNGZ3NzZkFHN2NpUTk5TDdTZ0kzUW1oQVEzbmp6c3FWT1pPMTVtVVhHczBEYzVQOE1FWGlmY043NklIVi1BVThoQ1o3ZjdYUzFrNG5QMGFLekwzRWNB?oc=5"
     }
   ],
   "insight": "Tracking Intuit (INTU)."

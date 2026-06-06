@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:10.103Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:42.296Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    272.04998779296875,
-    273.54998779296875,
     274.989990234375,
     271.1700134277344,
     272.67999267578125,
@@ -24,11 +22,11 @@
     270.6400146484375,
     261.260009765625,
     256.5199890136719,
-    250.02000427246094
+    250.02000427246094,
+    253.7899932861328,
+    246.02999877929688
   ],
   "6m": [
-    220.69000244140625,
-    226.27999877929688,
     229.6699981689453,
     229.16000366210938,
     233.22000122070312,
@@ -158,10 +156,11 @@
     270.6400146484375,
     261.260009765625,
     256.5199890136719,
-    250.02000427246094
+    250.02000427246094,
+    253.7899932861328,
+    246.02999877929688
   ],
   "1y": [
-    207.91000366210938,
     213.57000732421875,
     216.97999572753906,
     217.61000061035156,
@@ -410,29 +409,31 @@
     270.6400146484375,
     261.260009765625,
     256.5199890136719,
-    250.02000427246094
+    250.02000427246094,
+    253.7899932861328,
+    246.02999877929688
   ],
-  "lastClose": 250.02000427246094,
-  "oneYearReturn": 20.253955975484363,
+  "lastClose": 246.02999877929688,
+  "oneYearReturn": 15.198759349106963,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "‘Following the Leader,’ Says Top Investor About Amazon Stock - TipRanks",
-      "source": "TipRanks",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanpxWEtCN1luU3lFcW1hb3lob1VQR3JGaGl2QkVaRDJaVXkwbnI2U21kb1JUTG4zSWxtZEN4MTlhUzNFbnNWc1dsR3pCNk5tdE9pX0FnZEJoZV9LMEgwSTA0TjJLSzhicEktb21xaWZ3NmF6OGh1RkNHRWVwbExfSlNCUkdieXNlVjk1ak9MVjU?oc=5"
+      "headline": "Amazon vs. Microsoft: Which Cloud Stock Wins for Patient Investors? - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDRoUnl1amwtb1Rkcy1ucGdxeFhySnZCSkljeFZXWWFLa1FFV19EQ2JBSmh3anhPOHhCUXZ6cDVYcWdqTXI5Zi1pZDNMd1UyNDNtVTNZOXg4TE1tSFc2NVVKSHVTTnVWbVZJa2lsckwtQ0VJdkNWSjJGZWRjdUpRaHBsc1FIODdEZ3dyVGNpQklZbVNJSTBMdnNtc2ZiZmR4N3VvVmd4TkFGb3ZI?oc=5"
     },
     {
-      "headline": "Amazon and Google Announce AI Deals. The Stocks Are Rising Above the Tech Turmoil. - Barron's",
-      "source": "Barron's",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOcU1hM3RNZWJWVFFnV2s0VktDd3BpZzlmV1g5VHVUQkFNOWVSU2NOc010Y2ZiM01uMFg0TUxDdWtacDYwb0ItbmhOc3FtYnVwTnVKbDhtLVUxMUNtTE9hV2E3NGNkbmJONG1KdmZrVXRXRnZlMS04X1hn?oc=5"
+      "headline": "Amazon, Microsoft fare better than most in tech stock sell-off spree - The Seattle Times",
+      "source": "The Seattle Times",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNjRqZTR4SFUydFQ5WFFzRURkSW84c2JsR3hTX20ycFk5bkt6M2hzb3ZGMU9FVEJtNDF2aldiQTR6V3BvaGFLa18zREJkSGtNXzltV3lvdlVMYkYyTnFGS2xnOUM2WE81MVVZRE5kU1NSU0FBNjBYYk93NDB2bTNteVZZY2dmbEF5SGhrQWtTVk9fNkR0d2o1aGpLMkxJYXMxTzA0M01TVmJWMVU5V2pWa25UMER0UQ?oc=5"
     },
     {
-      "headline": "Amazon engineers in Seattle slam employer for building AI data centers while laying off 30,000 staffers - CNBC",
-      "source": "CNBC",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPay1qWEZjMDZTY04xcHAzQVdJT1g2RkZOTmJDVGl6NXVGeTdhdEl1NlZac1FzSkNHWHFQazBybU40MWd6azlIWFpUTFB3c196a0Y4LVlFU0I5MElXSS1kTVRwY2M4d25kcUJCSEc4NGhSMmpzT3VvRzlxWW5CeFBfUDExUDBSdjhESlJ4RnA2VUZyYU5JcENMa1N4U1RuOGtpbVUwT3Z30gGrAUFVX3lxTFBUY2pnSXkzdHJRRmxXVmZxck9uQjhFcFZJTi0yekZDOWNpdjdtc3FRa0xTMkdDdW5uVlY3a0FXV2ZmUHpwWVlCNFFTcEl3WUpReDBfWGxqaFNzSTZPc2VzaEUzNVhkVjg0cFZTbXdNdEM2SVdHU3ZYcFdpblo1MlM1eVRrZFVIMVAtRnkxTWs5N2dpc3pqUzloUHJXRGlnZWJEeVZLZnRHaV9SNA?oc=5"
+      "headline": "The $200 Billion Reason Amazon Could Be an Overlooked AI Winner - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbHNsTHFFV2Z0UC1ha3hYQnR1UGJwekhEOW90SjBlMTgwWEoyeUVkRndSWmNOdGhZN2JDMDBBeHpBQlZVTTJXOS12MU9WWWlTU01nZUZGODY1bnRpN1ZOZTgzMFRIS0hxN3RsUHRrSzlFM25rcDdkVnRUbFJ0UGNrX0UzTFYxSEl6U1Nub045djhFWVJ0N1daQlNnSVc?oc=5"
     }
   ],
   "insight": "Tracking Amazon (AMZN)."

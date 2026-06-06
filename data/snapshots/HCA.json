@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:32.651Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:04.955Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    427.17999267578125,
-    428.7900085449219,
     429.45001220703125,
     429.0199890136719,
     435.19000244140625,
@@ -24,11 +22,11 @@
     378.5400085449219,
     370.9599914550781,
     367.3500061035156,
-    363.2300109863281
+    363.2300109863281,
+    361.8299865722656,
+    372.1300048828125
   ],
   "6m": [
-    491,
-    501.0400085449219,
     515.8499755859375,
     514.760009765625,
     508.2900085449219,
@@ -158,10 +156,11 @@
     378.5400085449219,
     370.9599914550781,
     367.3500061035156,
-    363.2300109863281
+    363.2300109863281,
+    361.8299865722656,
+    372.1300048828125
   ],
   "1y": [
-    381.5,
     384.3399963378906,
     373.010009765625,
     364.9200134277344,
@@ -410,29 +409,31 @@
     378.5400085449219,
     370.9599914550781,
     367.3500061035156,
-    363.2300109863281
+    363.2300109863281,
+    361.8299865722656,
+    372.1300048828125
   ],
-  "lastClose": 363.2300109863281,
-  "oneYearReturn": -4.788987945916611,
+  "lastClose": 372.1300048828125,
+  "oneYearReturn": -3.176872449242511,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Bernstein cuts HCA Healthcare stock price target on policy risks - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNak5pNTc4N3BuWE9zOFN6VUQzQkhVdmVyMkJUdGZzUVVtem9Vc3hqM2tpVE9la2FqS3ZPcU5Bb2pIbjB1aXN1eF9TUTgtd2JGQlM5c250R3R2a2VpVXJRckhTM3BQbDZZd3VBdmlzUFc2d0pGS2d3a2pQSDIwS3VrRTNYZjVLNkZYMk1nMGNGeFBDU0liejhzLU8zdEY1aGd0ZUotYlFLZXZncEwydTlxNVB5cDlfaFB5dHpIQmt4d3JKQQ?oc=5"
-    },
-    {
-      "headline": "Are Options Traders Betting on a Big Move in HCA Healthcare Stock? - Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOXJ5c2NhbVJxTHFCYTZFZk9xOUI4RERJX21qZmhVbkdBSGJnRTBFc3UycWhXVHhmMGw4UWV3V0FWeHBjSGgtTW54ODhNWEo1dk0xbnVTRWE0ejc2dWZLclF3VEpjRGpQV0MzcTNNZkpzRjNPdEFMMzJFVXZaMXJqTXhpNWN0RzlTRGpIbGhqMmdRY3FfSzF3ZVNSN0Vkd1A2dkdpblFwRzVGdw?oc=5"
-    },
     {
       "headline": "Is HCA Healthcare Stock Underperforming the S&P 500? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONUxRYVZXZlB2amdqMUVwZG1WSGdIREt6Z0ppeDNUa1pYS3hOQXpPYkNVLWNMam9XTUI4Q2E1a0FKdFk0OG5MN0lPUDBaU2phTU9scWRRSGROUG1kYzU1TVlJLTR3UWJwTWZkbG1Tcml3ZkV5a28tY1J5cVA4bUpBQThJY3NPMVMtME14RkpLR3VZN3dpYi1CNEpUVFIxTUtQeVZVbzZn?oc=5"
+    },
+    {
+      "headline": "HCA Healthcare Stock 8-Day Losing Spree: Stock Falls 8.2% - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdG8wMWhWZ2lpZjhDQ0Qwb2FGcEs5dldldGEyMHBJalFHVkNpa29CWmgyQ1Izdk5YcktqZ1pwWU04Y3V4UmtHR1lJZ29kUi1ESXhZbkxaSWFobTc4SjByMzl2dm9JMEtTT0lKR2dqMzJVWldjNTlLWEJFU2x5NnNRSUo3NjZDQkZ5VmNNUmV3Q3BKejhrLWd5UThuUHhGU2thc2dKMmVDNXJiMmhfMm1CZHRJMUFVMGo3R1BQNjFLbmVpRm8?oc=5"
+    },
+    {
+      "headline": "Bernstein cuts HCA Healthcare stock price target on policy risks - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNak5pNTc4N3BuWE9zOFN6VUQzQkhVdmVyMkJUdGZzUVVtem9Vc3hqM2tpVE9la2FqS3ZPcU5Bb2pIbjB1aXN1eF9TUTgtd2JGQlM5c250R3R2a2VpVXJRckhTM3BQbDZZd3VBdmlzUFc2d0pGS2d3a2pQSDIwS3VrRTNYZjVLNkZYMk1nMGNGeFBDU0liejhzLU8zdEY1aGd0ZUotYlFLZXZncEwydTlxNVB5cDlfaFB5dHpIQmt4d3JKQQ?oc=5"
     }
   ],
   "insight": "Tracking HCA Healthcare (HCA)."

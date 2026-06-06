@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:11.025Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:43.001Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    129.19000244140625,
-    130.3000030517578,
     129.52999877929688,
     127.79000091552734,
     133.1999969482422,
@@ -24,11 +22,11 @@
     128.7100067138672,
     128.22000122070312,
     128.75999450683594,
-    124.3499984741211
+    124.3499984741211,
+    128.41000366210938,
+    128.02999877929688
   ],
   "6m": [
-    130.02000427246094,
-    130.10000610351562,
     130.6199951171875,
     130.27000427246094,
     131.85000610351562,
@@ -158,10 +156,11 @@
     128.7100067138672,
     128.22000122070312,
     128.75999450683594,
-    124.3499984741211
+    124.3499984741211,
+    128.41000366210938,
+    128.02999877929688
   ],
   "1y": [
-    130.27999877929688,
     133.4499969482422,
     133.50999450683594,
     135.6199951171875,
@@ -410,29 +409,31 @@
     128.7100067138672,
     128.22000122070312,
     128.75999450683594,
-    124.3499984741211
+    124.3499984741211,
+    128.41000366210938,
+    128.02999877929688
   ],
-  "lastClose": 124.3499984741211,
-  "oneYearReturn": -4.551735002102358,
+  "lastClose": 128.02999877929688,
+  "oneYearReturn": -4.061444955332166,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JbUZ0TDZEenJVamdqNjJoempzRUEtaEFSTmJGRTV0Mk8xclZLWnVEenByVjhOTXgzbG9TWGhkcVMzRGp1SUUxbnN6c2N2OFk?oc=5"
-    },
-    {
-      "headline": "Piper Sandler Raises PT on Apollo Global Management (APO) Stock - Yahoo Finance",
+      "headline": "A Look At Apollo Global Management (APO) Valuation After AI Infrastructure Push And Revenue Growth - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHlJLUQ2YXB5d0s1MjMxMDdIWjBWSW42eUVWU21JV3BTTEFUSXRiaWJWZWMtb2VZMUNNVzl3cGJPd1Y5ZTZkRUg5VWlWUXEtdE5QV0ppVk9UbGZ2aU9LQ1kxUWwxZEc4R1RtOVlTekhleWM3cWtrOXYzLVB0X21ZbmhQR2VxZk5hXy1PRDliMnI5SzVtSlZ1WWxSNA?oc=5"
+      "when": "2026-06-06",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUZHVUlCT3VIaVBSTmw0bElMcDd2X3VTZ3A5M3R1WlNyRVBqcVRZZEVYWUc2bE5tdTBiUUhUbHpzNTNuUDJ1cTRaNzNkc2l5Y3hDWjQzcnhKbmhnbU9nVXpDb0I4WXdJU2F6MFBIa2hPTkt0Z1ZOc25aVHl5d2tuQTVpQUVQMGNtNUl3TDVBb3BWSVpreW9HSmMzX2lCb1U?oc=5"
     },
     {
-      "headline": "Apollo Global Management shares rise 3.3% after Q1 profit beat estimates - marketscreener.com",
-      "source": "marketscreener.com",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd282UWlVV3lRT2NHd0Q3U3hTT0ZwOWVQcXRuREtZZGxHdUJUb2NvU1FkLTZmMEZ2VHBPNmU5d2p6QkJHeTFzMmlqWEJjTEZHOUdxdFRjWUY5bC1vck5aRDdCNHQ1VWFoVTR3dFkyX1VDNVZYNnZfOTBvN3hYYXN0SmFZcXdiTDVWTmxwSXFLOTdQZDk3TWxYYWxndzZzaDlaeWFLMW4tTWt5WVhUV0xER2RSb2R4VG1GXzRrMlN2ZWlBUQ?oc=5"
+      "headline": "Livforsakringsbolaget Skandia Omsesidigt Has $3.62 Million Stock Position in Apollo Global Management Inc. $APO - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdEttQWN5VDNhY2R0RzA2MlROenZWT3BRWkZiM1EzM2V0TmFtaGZCYkVzc0VOUUZKclp2cEpvX0J1Qzk0bHVZX0dkNXJrQk93d2lhM3hyYXBTVmpadHVIaFJxNFZxOG1fQ01MZW1Ca3JtWG13NW1vVDFCbjFVZlhid2tEUzhuQ0FYbnFGRkJKT045dGlQXy02S2ZqU0hQZGZsNlJEN3JER2JSdWs0Vl83WnBubGJ4QmZ2SGxFUE5FZnlaakhrZ2ZDNGFUanBvSEdzajNJelN3ZndhVUY1YlBUWFZEVnJ3NDZCamtfNVE4SDlaaXJvR0dMOFZiWWw?oc=5"
+    },
+    {
+      "headline": "Apollo Global Management (APO) Up 0.5% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXVUdzlZQVU1SHQ3SllfTGtvSGdtM01ldFl5N3YzUkxTcWd0TjVLcUthQk5Zb0ZUMWs4dVNPZmR1MUlHMnJUVTRIa3Z1VkM5YzBjWEJtbUx6NVpnVnJQdktPbmVORi04eGdrQXk3aGxaeGpSRmZrTm1DVnlrT0ZyY3RUc010MzNKQU9uSlNaRDA2VzVudHlsQUNDNA?oc=5"
     }
   ],
   "insight": "Tracking Apollo Global Management (APO)."

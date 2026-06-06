@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:15.757Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:47.846Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    874.780029296875,
-    904.5900268554688,
     926.9299926757812,
     895.6900024414062,
     897.4500122070312,
@@ -24,11 +22,11 @@
     875.8699951171875,
     865.3599853515625,
     909.8099975585938,
-    926.1799926757812
+    926.1799926757812,
+    940.47998046875,
+    904.280029296875
   ],
   "6m": [
-    550.4299926757812,
-    559.5999755859375,
     566.6099853515625,
     573.72998046875,
     575.760009765625,
@@ -158,10 +156,11 @@
     875.8699951171875,
     865.3599853515625,
     909.8099975585938,
-    926.1799926757812
+    926.1799926757812,
+    940.47998046875,
+    904.280029296875
   ],
   "1y": [
-    348.9599914550781,
     353.3500061035156,
     358.07000732421875,
     358.57000732421875,
@@ -410,29 +409,31 @@
     875.8699951171875,
     865.3599853515625,
     909.8099975585938,
-    926.1799926757812
+    926.1799926757812,
+    940.47998046875,
+    904.280029296875
   ],
-  "lastClose": 926.1799926757812,
-  "oneYearReturn": 165.4115128825618,
+  "lastClose": 904.280029296875,
+  "oneYearReturn": 155.91623423715512,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Caterpillar Inc Stock (CAT) Moved Up by 4.33% on Jun 2: Key Drivers Unveiled - TradingKey",
+      "headline": "After a 160% AI-Fueled Rally, Can Caterpillar Stock Keep Climbing? - Morningstar",
+      "source": "Morningstar",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEd1Wk9vaE1Nd2pfOTNUNkVUNFZGNzBacTMzc1JTTWd1ZGtzeXppalV4TjliUHNTUWctNWlESGtoakRoOUlnVEtPZjYyZVozU1hrajNXVlBkRlFIZ3VYMHNsYlN2dGUtTGR4S0ExM3dMeE9oTzdPOW1CbFB2WkFzZVUyLWl3Z21qdTRRb29tNmxrVjF4VlA3YWFySDg?oc=5"
+    },
+    {
+      "headline": "Caterpillar group president Shurman sells $5.09m in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ3k1ZURrQl9ScDBUemhzU2lXMGdkYm5ZWTBZbHoyeFkwem1BZkFtV3NiUFNnS09OUnV2ektIZGRkQVhtSzlKckcyYUdmdndCcFdqcm56cmNRaFF4WXZ4Y0kzUFcxYlZwa3Bwa0JZNTdsTlFVd1kzYjd3akpmYUZOdjVocTJfMi1aeVZScHNJS1p3X1FsSkVHXzJWdF83cEwxdTlxeXpqUFRpakZlWU9jc2hlbEtOOHp0TEp2eQ?oc=5"
+    },
+    {
+      "headline": "Caterpillar Inc Stock (CAT) Moved Down by 3.68% on Jun 5: Facts Behind the Movement - TradingKey",
       "source": "TradingKey",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVjRMU0pPTmtXNDM4WHhRZVgxYVlnR01YUWVTZVZVV3A3X1k2NWlJLUUyVFhteFNVZGFsX011SEVEeEduYVJTdE9CZ0NUY0RHeDVaUXZEa1U1dE5ZaUgyOUt0Z0R0V1JhdEFUamZ0RXFobk9Eblc2N2ZzUjZWdGpRYnY0d0xnMkMxTVE?oc=5"
-    },
-    {
-      "headline": "Caterpillar Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQTFBdDVFTHRGZnJjOUtGT0RYUVdsd2VQYThhMUk2MW9oaExmVGNRdmJHVGV5M0F2U3dhSXc5LTd0LXVnRkdtV0dERmtDNTF1M2ZMdVk0bE5GaVJfdS1MUE02WEhvN2ZHZHdZTWlGNnNpV2paekN3azJxdC1NWVRubzFSMGJ2SHM4MEttUHRlNTg1alhCb2lnc204c3lPRGR4ZDRSTmc2ekFDdWRMSmtwYjNrajEtRmNaQ2VFRnFBOVpiamFLVmZicjZ2RQ?oc=5"
-    },
-    {
-      "headline": "Caterpillar Inc. (CAT) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-18",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRmttNGZES2VqRUg1YWN4V01rNExKamVNc3VyeW9VZ0xxcDZ6UUp3a0JpVVBmT2o4dUFPc25wZFBEMXd6S2ZDSDBYRGFpZVhGaS1PYmtkSlJQTzhQOURxUEJsTTRkZENwOVFRS25YMFdTSko5T1NMVXlYTmZzQUFTckR4a2VVcExBR1Jfc042NnNTdEYzcHdLWGNhYmFUYXIxa1BqSGh5aw?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2RlQ1V4ak9HNGw4UWs5d3I1dmc2d2hSY0cyM20zSVlQSWJSc1pIY3k5X1M5dmhSX0J5MmJhMlJMNFk5RDUtS0lCSjdOa2sycHZUNWZDdmN6dGt0UGN6MkR5dzhNNlV5UzdxNHk3ZEtROTFuQ1hsSkd4QThmOFY0ODBNMGNnclY4a1E?oc=5"
     }
   ],
   "insight": "Tracking Caterpillar Inc. (CAT)."

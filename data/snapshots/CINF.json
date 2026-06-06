@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:17.344Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:49.517Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    159.57000732421875,
-    160.35000610351562,
     160.42999267578125,
     162.0500030517578,
     161.5,
@@ -24,11 +22,11 @@
     157.4199981689453,
     156.8300018310547,
     158,
-    158.02000427246094
+    158.02000427246094,
+    160.66000366210938,
+    165.2899932861328
   ],
   "6m": [
-    166.02000427246094,
-    166.7100067138672,
     168.3800048828125,
     168.47999572753906,
     167.58999633789062,
@@ -158,10 +156,11 @@
     157.4199981689453,
     156.8300018310547,
     158,
-    158.02000427246094
+    158.02000427246094,
+    160.66000366210938,
+    165.2899932861328
   ],
   "1y": [
-    149.8699951171875,
     151.02999877929688,
     148.97000122070312,
     147.0500030517578,
@@ -410,18 +409,14 @@
     157.4199981689453,
     156.8300018310547,
     158,
-    158.02000427246094
+    158.02000427246094,
+    160.66000366210938,
+    165.2899932861328
   ],
-  "lastClose": 158.02000427246094,
-  "oneYearReturn": 5.438052592782645,
+  "lastClose": 165.2899932861328,
+  "oneYearReturn": 9.441829187639966,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Cincinnati Financial Corp. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaTJkVlp0cU8zalYwbTloaThsRHNnYlZabHpHQ3RWNUxOU194R3VmMGV6RXZQaERpdk4zUEc2VlR0US1NcllrclZaRnptWDdnck9KRldzdkxNazZwaXhUREk0cVYzUnktblVDbXBjTkd2MThQYlRqaWVvemJST0EtTy1jYmUzeVlCLVBOcTJjR1l4MzZCVVlWVjYzSWsxdDVjMUlKY3g3VEJOZHdFVExtVHpJYTZKMHNRR09vN0JTRXRXWUs1RWoyVDJTT2lNRU1yNXFr?oc=5"
-    },
     {
       "headline": "How The Investment Story Is Shifting For Cincinnati Financial (CINF) After Recent Analyst Revisions - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSlE3R0xZR2tJN0dfVTdkZGZLUDJFSE9oT1hUeE1QNHViOTN6ZkEySm1vY0pyVFExekNEUkhxaVdWa2VDU1NCaTBHOE12YmNMSjNFc2FWWmpUVE9DQjR0S2ZKa3k4bzl3S2ZxTk1sVXc3NWxnZmNBeEhoa1AxeXBNTXpINVRtTHdTZGYwcE8tVzBjVlkxZ1hXQmFXenNJa0VmWjBnNlFPSUtHNm9XV1JMTw?oc=5"
     },
     {
-      "headline": "Cincinnati Financial (CINF) SVP exercises options, boosts total share exposure - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVkZ6WHB6UWVGcm5PMm9fUEtVbVZNdlYtSUhQV2F4dDRTUm84dktBdU41dS1BcVFpUXd3VFFnRlBMRTFFa0hzd2xCMEItcGEtT3lUR29WMXZiR0RreW9mRWpoZXZIQU1TUjA2LTZmRnN0YnhMVHl2SldXaEYybndMdHpNdmJabzRhUlpXTU0zbEk3dktxdFZBRTdWRy1QOTVXN1FaaGc5R1JjU1hlVWUyZmt1eWlxVzZpTkpF?oc=5"
+      "headline": "Cincinnati Financial Outperforms Industry in a Year: Time to Hold? - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ0lId1J3NHBtSnFxMnlmSnc4NndNY0E1NWNYLUc5VTVRcWthWjB4Q2RBazgtX3hTNEJuWTNvUC1pX245ZTZFc3JpMEZsOGlnSHM1VXJCRFNINzFsc3pySnBBeTVzeXV1ZHdkaHpwb2JhYWJONHFvamRhT2dkRkZ2akJVTks1MG1LZHVyY1R0aWRiY2hTUjVmZktERnoxNnczZnlQMnQtaWQ3R0VUUkhzZnpQZG5DMU00eGNwVA?oc=5"
+    },
+    {
+      "headline": "Cincinnati Financial Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeEc1Ym9IZFpzNmVYNnpiMWZVSEtwQkRRQWZoNjAxOXd4eG5WdDJuRmZIX2Q0YWJxTzFSa2cyaVE1MFMzRmZIVmJCTmNkNndWODNYNXVKVGduU080S1p6TnN5a010dkVweS1ieTFGLXZDTVR3SWFLQTJwMjRXSlNpMDU4LVltV2JMZ2RIQnFWa2FJX0lxaHhOaDUwVzZidVNIX0YwUkd4dWpCVThZeHRqdnpOLXlrQWxURFY0YmJuVEtNVnV4a0JzejNXNUp3TGcxM3IzRWpSemtodHdNeEhFNV9SWFYteF9GakRj?oc=5"
     }
   ],
   "insight": "Tracking Cincinnati Financial (CINF)."

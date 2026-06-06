@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:07.633Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:39.956Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    247.5399932861328,
-    249.42999267578125,
     243.0800018310547,
     251.0399932861328,
     244.5,
@@ -24,11 +22,11 @@
     231.30999755859375,
     248.16000366210938,
     236.66000366210938,
-    229.60000610351562
+    229.60000610351562,
+    233.63999938964844,
+    229.9600067138672
   ],
   "6m": [
-    290.79998779296875,
-    289.8500061035156,
     294.42999267578125,
     301.3800048828125,
     303.3399963378906,
@@ -158,10 +156,11 @@
     231.30999755859375,
     248.16000366210938,
     236.66000366210938,
-    229.60000610351562
+    229.60000610351562,
+    233.63999938964844,
+    229.9600067138672
   ],
   "1y": [
-    298.2200012207031,
     297.8599853515625,
     297.2099914550781,
     297.5400085449219,
@@ -410,18 +409,14 @@
     231.30999755859375,
     248.16000366210938,
     236.66000366210938,
-    229.60000610351562
+    229.60000610351562,
+    233.63999938964844,
+    229.9600067138672
   ],
-  "lastClose": 229.60000610351562,
-  "oneYearReturn": -23.009856762224352,
+  "lastClose": 229.9600067138672,
+  "oneYearReturn": -22.79593835256298,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Autodesk Stock Is Falling. Investors Aren’t Sold on Its $3.6 Billion Deal. - Barron's",
-      "source": "Barron's",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1hIZXdIbXZMbXE1LW11Rk9Ud2NxbG0yZGlFTWpQZmhWX0N6ajN1clRnQ1hUOEphRWUxUnJLY1FyVDBKWXdKNUtQLXJFaFhiaGtMWlgyNG1FNm9LWFRfYzh0NV9Xb09IT3RsZ1gxMGpvWW1wbVp0V3dWZmJmUVFldGpvNDB5YjlydUxMeTc5Yw?oc=5"
-    },
     {
       "headline": "Is It Time To Consider Buying Autodesk, Inc. (NASDAQ:ADSK)? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaUhwOHo3c2tEWEZhd3lSTFZvUWFVVzlVdlRRR2JHd0p2UE40clNqck9KTzhObzhMdkFSV3pHcHRYbjcyTGd2SGo1eTYyanh2WUYyaUVLb2lVNlM5S3k1eFBKUjE2LXYwbDBMSEVFQVJabURDbF9URzlvME9IMFl3LWhfdTFaNEFfa2xXNWtjbHRycHlnd3lkdWYwbFZ6cHM?oc=5"
     },
     {
-      "headline": "Stifel reiterates Autodesk stock Buy rating after conference meetings - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc3JIMmJDU1JKNTBlZWVTc21YZUVWdHBLSUhKbHMyYjVLLWt4SlFrdE50QWNPWF9QQ1FGQUZGc19PTXo0NnY3ZXFaOERlcmVRSC1uczA4U3NNM1lpNDhrWTZKcFZXeElrMTRla1FWampVVnZPRkZ5V2VmdHFoRVZDcjRpSWJlUTBlMl9LeE55Q081cHM4UHE0NVZFTlBpaFItbEJmOG5XTk9MQy1kWk10V1lxNVd0OG1wMnZReXppZ2dWMGFGcjZaTDJ2SndDWHRQRkdn?oc=5"
+      "headline": "Autodesk Stock Is Falling. Investors Aren’t Sold on Its $3.6 Billion Deal. - Barron's",
+      "source": "Barron's",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1hIZXdIbXZMbXE1LW11Rk9Ud2NxbG0yZGlFTWpQZmhWX0N6ajN1clRnQ1hUOEphRWUxUnJLY1FyVDBKWXdKNUtQLXJFaFhiaGtMWlgyNG1FNm9LWFRfYzh0NV9Xb09IT3RsZ1gxMGpvWW1wbVp0V3dWZmJmUVFldGpvNDB5YjlydUxMeTc5Yw?oc=5"
+    },
+    {
+      "headline": "AUTODESK, INC. ANNOUNCES FISCAL 2027 FIRST QUARTER RESULTS - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTFldDFGTlA1YmxLR1ZwRy1fY0FyNzRfZTY2cVBDVmlPVnhqQ0kyNUFRbDREa0I2aUlWa0F2VGNXZVl4Y2JMOWJEVUJDTVNLQzBNUzBpWmh2NEltU2h0ajljZWRNU3QzNWlsOFNBdXAxXzlYT21Gakg4d2IzUHhJT0xuVmtwWXNzakdMb0tKM3RwSVVXOW1jOE1oMVdDWHFQb0U1N21zaDdFcVdsNUhwa2F3?oc=5"
     }
   ],
   "insight": "Tracking Autodesk (ADSK)."

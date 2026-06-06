@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:29.231Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:01.614Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    1891.949951171875,
-    1967.239990234375,
     2011.489990234375,
     1942.02001953125,
     1952.3699951171875,
@@ -24,11 +22,11 @@
     1828.2099609375,
     1787.8800048828125,
     1883.260009765625,
-    1850.0400390625
+    1850.0400390625,
+    1914.6500244140625,
+    1843.93994140625
   ],
   "6m": [
-    894.0800170898438,
-    945.0700073242188,
     957.0399780273438,
     970.9500122070312,
     976.9400024414062,
@@ -158,10 +156,11 @@
     1828.2099609375,
     1787.8800048828125,
     1883.260009765625,
-    1850.0400390625
+    1850.0400390625,
+    1914.6500244140625,
+    1843.93994140625
   ],
   "1y": [
-    499.1300048828125,
     510.5199890136719,
     501.3299865722656,
     487.7099914550781,
@@ -410,12 +409,20 @@
     1828.2099609375,
     1787.8800048828125,
     1883.260009765625,
-    1850.0400390625
+    1850.0400390625,
+    1914.6500244140625,
+    1843.93994140625
   ],
-  "lastClose": 1850.0400390625,
-  "oneYearReturn": 270.65294030898,
+  "lastClose": 1843.93994140625,
+  "oneYearReturn": 261.188588319285,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Comfort Systems USA Rides AI Data Center Wave To Record Results - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaHBVM2d5YnVVdV9GN3NqQ3NzanVRazFaNkRwV09pbHUzT093RU5oa05acEpsVXF3ZG9DLVpkTXJtcEsta0NIRURxb2dVMEJMREFRdm9BME1acWFuT0JKS3A5c21jOFdSQlR2VzRiZUdEYkxxei13Qk9zQWVSQVc5ckRYZlB2a1ZhQTlvZ0xLcllnYVhMRldOSWxiNlhvZ3daUlZpTHhIallSc0Z1cDhrZHA0TTd2OGpOd0JpQ1dGSWthN0FRMDlRb2ctX0J4bzVhVkhVZkZMMNIB3AFBVV95cUxQUlpjSWR6c0FSZDJGcDNObTBPOXlTZDMycHVjM0RNVEZ3emc4QmE1SllhdE1iaDd0SGZFemRnVDdyNVhPQ184OVB3U3JuY3NGNDJBRG0tb1ZEM21NWWhPNDYzd0RneXpwMjlicHNidXdaNUNBZVhKWVVFVUQ5THRmOHgyYjNQam5wdGV0RWxVa21SU3AwVHBaeWxsLXU1eGRkOEZnNFpKS3B6ZFpxNzNCdDYzekdadEdaWldMdEtVS3ZTZU14Z2dSWVcyXzBJNmZXWkVFRW04SUJ6YTZo?oc=5"
+    },
     {
       "headline": "Possible Bearish Signals With Comfort Systems USA Insiders Disposing Stock - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHpsWGJmbFFpSEYxb2xlcDVpNmk5QkFRTVdZd0dqa3NiUGJyYVMyTUEwLWNDZjloQTNPbW8xRnVXLTd0enRCYi1yUEw4VGJSd2ZrTTE3SXA5Nl9GZnBSRm10eTkxVTV6RXlzN2x0R0RiRU9rc2NpT1FkNTUtMkR0TjRDY3JTSVZiMXZYU0QwWnBMVUtlanlFWGtCUGdiM1lIa0hrZ1E2aXQ?oc=5"
     },
     {
-      "headline": "A Look At Comfort Systems USA (FIX) Valuation After Strong 90 Day Share Price Momentum - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Comfort Systems USA Shares Rise as Bullish Coverage and Strong Recent Fundamentals Keep Momentum Intact - Moomoo",
+      "source": "Moomoo",
       "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNWptRWZzM1E0R2JMZHRmQVBiOFh6TTRaeWFYaTJsODhKc3pwSVA1Rk93UTBaTVBMaldGMzFNWmdLYktPckY1WDlLM3FPZldHSjdMZUV1OUVweVlXSnZ3MHJLcEVjQUdZZmlHWWMySElPYVNfU1JieFRtOTNQcF91N00yeVctSGNjYWNRa19CTVliZzNOZTZ4UTFIV3FveG5qdmpJQzNvd3VGbmdnZ3lPT0lRb2c4U1hCcWV3R21nRkhXeWR6V2ZJTS12ZllDeDBpWXlxc1VB0gHbAUFVX3lxTE03aVVxNjN3MkJZU3NnTEMzblVGUEhFQ3RtWUdhTDRPdExfUVhSUHEybnVUZWJMc1NMQ0l0NzdOejFDeEpHeVR3bDRNS3dmdmJEMmMzVFhTcmtpelMtN1pRQ3NfZkxnU05MUG41eHhXejMtNnZadHd2cG9XVHltYVFIUnpEQ3ZzNDJCYk9WV0MyeFB6SG9oNmZtV0xiSVZWS1ZLRG4yNVRBUDNjTXRua05Sc0l3eWo1ODU0NExoQWFKMlg3WkRSbHlHWlpxZVZhT1lwVlpFejQ5ZXRfbw?oc=5"
-    },
-    {
-      "headline": "Comfort Systems USA: A High-Quality Way To Play AI Infrastructure - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUmYxN1ZRY045VjdTRWlGOHhvdlRpUVhHcEpId2VFOHpEN2g4cEk2ek1xOUdyNFNYYl8yaFVHQV9UWGF1V0UzY2Q4YWU0ZkdOYkRJVlUyVkZ4YUxjY3FVVlFhTEVoTEtXM0JfWHJpaEt1Wk8wUV9WczNUc3ZWZlRrSkpEYjRJTE1oR1hReGNYZVptQ3NNQ01PQWxDUHZPMDdkMmtJXzVmNk91dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaDJvajhfMVJjY1RkdTliaVEyWXFFN3JfZ2pjQTY3dExnUl9YeW5ic2dsNm53R1pOSnYxZUFYQUkwMW4wTjFNU2dpOFhUSV94Q0pZVThzZE9WWk5IZGdBS1RGRHlIUmxpbU1DZmtRaWNRQkNiNWFkYlN4UEppZklEY0RiWkRuV0JCRk45dWt4aHVNaFJHZE95TE5iVWRfR2pwMzIzRDlwaw?oc=5"
     }
   ],
   "insight": "Tracking Comfort Systems USA (FIX)."

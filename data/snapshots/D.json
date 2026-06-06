@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:21.607Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:53.685Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    62.95000076293945,
-    62.9900016784668,
     61.63999938964844,
     61.61000061035156,
     61.88999938964844,
@@ -24,11 +22,11 @@
     66.94000244140625,
     64.61000061035156,
     66.47000122070312,
-    65.45999908447266
+    65.45999908447266,
+    66.5,
+    66.9000015258789
   ],
   "6m": [
-    61.470001220703125,
-    61.599998474121094,
     61.540000915527344,
     62.540000915527344,
     62.77000045776367,
@@ -158,10 +156,11 @@
     66.94000244140625,
     64.61000061035156,
     66.47000122070312,
-    65.45999908447266
+    65.45999908447266,
+    66.5,
+    66.9000015258789
   ],
   "1y": [
-    56,
     55.77000045776367,
     55.66999816894531,
     55.61000061035156,
@@ -410,10 +409,12 @@
     66.94000244140625,
     64.61000061035156,
     66.47000122070312,
-    65.45999908447266
+    65.45999908447266,
+    66.5,
+    66.9000015258789
   ],
-  "lastClose": 65.45999908447266,
-  "oneYearReturn": 16.892855507986887,
+  "lastClose": 66.9000015258789,
+  "oneYearReturn": 19.956967862218907,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPU1BRVm5wa1A0WFQ3Uk9hZEdLZ0dzOW9fZjFURVZKRklab1UyT0VTekhJS3djN01BaVRQUGIxUFJUMURxSE1vZ3JiZ1FHSm1seW1TdWx5MnBQX3VXWkJyY2NhUk9kQVdzR1BHOFR4VXZUalBGWDloRFJXRExXQmFUQk5QWS1EUlJna3VrWWtqajhBMVh2LUc3V2hWT0I4RnlXNDZkUUlRTWZBbTJsZ01GV1F5ZTNpT2VzOHBtaE9Id1hvb05UdE56NnhTVDRuNUNYbVhpNHQ3bTl5TFZKSzYtMHk1QnhmQ1Mza2pFZ3FYdFBPQ2YwN1dRcWgyUWU2NkFEX1NaODdPOVh6RXYzT2s2SzdvZnRCVFhVNUtjS2M0d3JEM0RTeVpiR1otT0l1WkJyNXJhdEJScEFBRzZFQk15eFlCcFRTQWd3UGQtclhDZ3NiUVVyV096bS1EZHI?oc=5"
     },
     {
+      "headline": "A Look At Dominion Energy (D) Valuation After Recent Share Price Gains And Offshore Wind Investment Plans - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPczc5UUNqdUxsWmxMWUtHdnFZMHBMSHd3MWNGMDR5akFjLUFxQWJJSkhrNTctOTlSbmN5LV96dm9sVFJ4R3FDX2JmMXhlTm9ESDN4TGVySF9CeHlacXZkT1E4ZHZJMUktaVlTNktLOWQ2amVLVjNzSkVSODQyZjIyNmFXcVNIb3c3WlQ0SEg5aHVuOGpIWDJyOGtlNkV3TVp3MFdianAyT1FOLUJYZi1xQmpsV0Izcl9ROGwzLXp6SmVGMTNNZ3dObU9R0gHPAUFVX3lxTE9ocmhSYVFhUWtqTUFOT2RNZlRnT3J1YmRhQ1NCZE1jMVNweEZQOTZPR2lnYlhKMmRlSUdkaEtWaGxKVUZKWnVFWnpfQklPNzJ1dE5fMzJEYTVGTmxWZUlhQklvRWRxY1QwV1JlU0xYQmFlMXlGcVZ5SXVPbXFvX3c3VG5hV0hoTDVPZlFXX18yNVZUN2VkYi1RWkJaUzNtVHZYS1F6bGpYeFdfdFp6aDM0RWstREdNMlluUlROcDhSUjZtM2Z4ZVBPOVhqV2QwNA?oc=5"
+    },
+    {
       "headline": "Dominion Energy Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRnM0NjVTNTY2RzR6SGM1T09OanZ4UlVMc3pMUDl3ZlBYbWhtRWtxR01GUE0yZDF2RFhKcmE4YzE3MGcwM0toVHg0dVV6TDlzZXpDYlhzS3IwUXNvem05R1pmZmZoSUFST0JZTlhaNFl3X0dsZGZSRENIcGk2NGpVQ3IwX0dZVmdKWkJyWXdUV3BUOWtnYmVVazRuTTdMeHR4RWJienhVSHhndS1BLUNKNFk3R1gyOEZ1SkhLbnp2ZFRtbEtOWDA0NmRudFNGTUs1elhZLU9tajhCTkI5bkFDWjA3QQ?oc=5"
-    },
-    {
-      "headline": "Dominion Energy Stock: Analyst Estimates & Ratings - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-08",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTUZDc1FBUkdDakw2azFnT0FWV01PbmJva2JROHdMMzY3MldQYU5wQkd4WFV5aWZlLVl3OHdCV3NITnVGV3ptMVdlUk5oTExLM01xUGVxUWduNmZITEx0amQtSnNtOVUwOVVNRmxUVTFZSWg3V2hWY3lHYWdKUjZvenpMZmFRYk1KeDZzNjdHY29zZS1vaHY0Tjg0VkZjUjBlalRLdEZMZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVpwdjQ1bTZ1ZHFJMGJWTDNhTXJlbkY0Q2s3T0JyWHlKbUxMLVhqVE5ma0ZXYV84NE9uTVNseHF5azhpU3RUYTIxV2tnZjlGUFFMZlJqQVBzVnhGOTZvd19NWnJKSjF4cF9ZdEpUTnpZNXMxRFZTWFZwWTJSMmZOcjlnVGtKWFFpcFJ3cERiX1hYWkRyLUc3bExNYkdraXFzZDBhOFRLQW52NEs1RVBsMTFkWHRoS2JoakhIcGlqNloyeU5EVGFHbzJ3VQ?oc=5"
     }
   ],
   "insight": "Tracking Dominion Energy (D)."

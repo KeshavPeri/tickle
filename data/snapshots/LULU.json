@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:38.997Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:11.716Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    128.97999572753906,
-    130.2100067138672,
     132.0399932861328,
     133.58999633789062,
     131.17999267578125,
@@ -24,11 +22,11 @@
     131.17999267578125,
     132.08999633789062,
     126.47000122070312,
-    126.02999877929688
+    126.02999877929688,
+    124.91999816894531,
+    114.2300033569336
   ],
   "6m": [
-    168.17999267578125,
-    169.6699981689453,
     177.50999450683594,
     181.94000244140625,
     184.17999267578125,
@@ -158,10 +156,11 @@
     131.17999267578125,
     132.08999633789062,
     126.47000122070312,
-    126.02999877929688
+    126.02999877929688,
+    124.91999816894531,
+    114.2300033569336
   ],
   "1y": [
-    330.7799987792969,
     265.2699890136719,
     259.0400085449219,
     258.5,
@@ -410,29 +409,31 @@
     131.17999267578125,
     132.08999633789062,
     126.47000122070312,
-    126.02999877929688
+    126.02999877929688,
+    124.91999816894531,
+    114.2300033569336
   ],
-  "lastClose": 126.02999877929688,
-  "oneYearReturn": -61.899147698048495,
+  "lastClose": 114.2300033569336,
+  "oneYearReturn": -56.9382108463667,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "LULU Earnings: Lululemon’s Stock Drops 10% on Weak Guidance - TipRanks",
-      "source": "TipRanks",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVllpZTUzZmdab0YtSWo5ZVdfVXhaRWhZN01JY1JON1dGNl82Mm1nS0JsQ2RYUTJpUm0wd1lQOE9xalZ4a0J2YWliUHZZTjFpRWdhdkdIZXVXQm5QajlicDdyNnhjc3UwUnZ0MUU5S2NCUDlsUHgxMWxyd2QxbGtVQ0RlV2cwaDJzanQyTHRxUQ?oc=5"
-    },
-    {
-      "headline": "Is Lululemon Athletica a Buy After Its Latest Earnings Report? - The Motley Fool",
-      "source": "The Motley Fool",
+      "headline": "Is Lululemon Athletica a Buy After Its Latest Earnings Report? - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORC1Va2NaX19icDlkLTZCbks1RTVKOWhuRzVMVVpFT1A3dlY1ZFRRTzFoeXp1alJxcENHczlkZ1pwdG1JZV9vcGg5UFBnaXM5bV9YazMzd05oam1NQVVPMU1GLU1jVGdtSFJZVXU4UlZQTEFWYkZpNjhOOTRpckc3cTNVM3ZOZE1MZkI0QlYwVGZXVFRia3BDVA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFBNVEZjSUY5LXpmRjE3cHR6M1huYjhYQTBwMTI4YU96SkZoTDYwbTMwUjNJNFZ0dWYxeHlhRnZfS2k5VDBaanJaMGNyTE96cWRvLWpmREhXX0k0dXRlSE04MFp5cmprZER6ZjVRQWdtUU1sY1FhUGZCdzNNVUlkT2lWaEJyWFFQbmszX0VXNnl3Y2RXTXdRTURlTFdCakdreW1pRlM3UQ?oc=5"
     },
     {
-      "headline": "Lululemon stock slides after cutting full-year guidance on unspecified ’headwinds’ - Investing.com",
+      "headline": "Lululemon shares drop as forecast cut spotlights challenges for incoming CEO By Reuters - Investing.com",
       "source": "Investing.com",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2VBX0hqNHFXS3BieEkwM3NES3dHajZGYUFTZDVmLWVSYmlHb0FjRDlNb0JJc25hREdjUTItSkozUjc3OVRkSTd1UVR5QWR3N0I1MFVDSEpCMS1oUGt2aUJrT1NyLVN0TmNzX2xBdXAtMjBOcnQwNWRUMHBhRjFnSEJIM2tGRnZNaUNLZ3V6Ri1BT3R0VE5FbXFmTkNLLXBmdHRpVUNFMXNiZ3M?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnQ4emNVQ2lscndrS0lVaENHZzhfRVhkdmRaTVplMklLS1RLWlB4aEpRbWNwWTZjUC1jRUtTU1dNbGgxMWpneGNmQWF1dlB6bzJPSXMwNzBCZGlSel9nRkh0NWlDUUJodVlkazVST2FKWGpEYThHblpMbVJkZk1Oa0FTUTlZSUs5QWdDVHoxTEVSR3QwNktoNHBQcUpSSlpoR1VXdVBLMklkVmxqZkkwMjZRUVhGalJqRGc?oc=5"
+    },
+    {
+      "headline": "Lululemon Slashed Its Outlook. The Stock Is Plunging to Its Lowest Point Since 2018 - Investopedia",
+      "source": "Investopedia",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMkNCWlQ2VGw3c3ZYZjQzQjE4cUprQ293c0dISU1fQXczMmxmWUJxZFJlZS1BVUxaajFSNU9DV25EVHJEbzhQakt0UDY4UllLY0tJVFUwQ0V6dHZab1FsSUo5NjB5M2ZhRXJFRUwtUnZYa2NqZXRWTWNxZDNJc2tJM0hrYzE4cTdBUWJNeTloX1NpRDJNRkFFbHFMc2RId0lZZGdndGYzUHlCZW01VDBGdTJKVHhvR1NLTnFLQw?oc=5"
     }
   ],
   "insight": "Tracking Lululemon Athletica (LULU)."

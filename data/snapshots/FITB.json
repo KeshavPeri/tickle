@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:29.191Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:01.599Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    49.400001525878906,
-    50.29999923706055,
     50.84000015258789,
     49.66999816894531,
     49.33000183105469,
@@ -24,11 +22,11 @@
     49.93000030517578,
     48.560001373291016,
     50.310001373291016,
-    49.4900016784668
+    49.4900016784668,
+    51.79999923706055,
+    52.0099983215332
   ],
   "6m": [
-    42.41999816894531,
-    42.33000183105469,
     43.279998779296875,
     43.33000183105469,
     43.459999084472656,
@@ -158,10 +156,11 @@
     49.93000030517578,
     48.560001373291016,
     50.310001373291016,
-    49.4900016784668
+    49.4900016784668,
+    51.79999923706055,
+    52.0099983215332
   ],
   "1y": [
-    38.29999923706055,
     39.40999984741211,
     39.58000183105469,
     39.779998779296875,
@@ -410,18 +409,14 @@
     49.93000030517578,
     48.560001373291016,
     50.310001373291016,
-    49.4900016784668
+    49.4900016784668,
+    51.79999923706055,
+    52.0099983215332
   ],
-  "lastClose": 49.4900016784668,
-  "oneYearReturn": 29.216717139196113,
+  "lastClose": 52.0099983215332,
+  "oneYearReturn": 31.971577069032858,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Fifth Third Bancorp stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR09ncGZhclBhdWxqZlpyaXpWZWNqci1LVmlnOTV2dU5RMGVtUHExUEV5QzdkSXlkbXBiRFhOTE1BM0J1Q0hQTnFLNVVlb2RNSlZXaU9rWlk4LXJpVHhPLW83VG9pcTh4NnhjY2hpSEdJZjFjRFpIc2VXNTY4T1BTMUtHbmxCSzY0a1FzYkxZVi1rRnowYzhjZnM0UU85dkdURHdZWlFxMjQzZl93dHFLa3gtZV8wNEpsLUJrVk9ndlFSUXJZd3pzWGVFQkNreWRuQ05YUkFSdEw5YzhXek9Kek9rNA?oc=5"
-    },
     {
       "headline": "Fifth Third’s Big Bet Is On - MarketBeat",
       "source": "MarketBeat",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00U3VyaWxGaWF3eTQxVE5xeFZtanBrN21fems0U2RLM2Q1dTViTDFZX01idEhUWUF4U3JGdVFjZTNkT2FuTmlCbEdBQzVReFZuTHVFb3ZZUjV6SEE2TlhWNi05X29tc0wwN3dYUHlYY3R5Zw?oc=5"
     },
     {
-      "headline": "Fifth Third's new small-biz hub speeds payments and $100K loans - Stock Titan",
+      "headline": "AI payment agents and $25T volume: inside Fifth Third's Newline - Stock Titan",
       "source": "Stock Titan",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYXZTb0tYdG1ranQtZ1MxcjZoeUxXUldIZ1JfblNId1FUSEgyZUZrVng4YTBCNWNVWEVXYnRFMkVQZkwxZmhpMURMNXMwVEJZamxSXzVSTllWMFlERGdWRWRIcHNwQ19OZm9POXJPYlZnR2o3RG41Q1NOenJyN1lESFRodUc0MkxQVDR6STJUcFhoeHhDcV9VOHFicEpQUGFiSnZ1UUdkX2JqcjRtM3A3a2o1RWhFY2ZiRjY0?oc=5"
+    },
+    {
+      "headline": "Fifth Third Bancorp stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONDBWUE1ZTjJ2VkpfRHQ2QmV5ZHJ4LWNTOFNxVmRhdzEtMjhFZFh2Wmw1RHM0UzJoUFh5M3lrNU9pdy0yUC11NHZpLVhLWUIxOWhuWnFFQzFIVU5MNE1tZ0NLam1jRndyRVZBYTFOWWg5SG0wTTlQVFlDZUFZMUdGUVpJdktiVVFCVVpuUy1QZEtSZ1cwZ29EbWdrYlZFVVhtdEhOWGUwNnR2amRLal9FNWdBWnQ2Y1J3VkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTTdTdjlXZTB5cHF4QV9uMndfajFZckJrc0I0aHgtV1o1eERkLXl5N3BQN0V1akNHTGpVR0xiUFk3cnA2TVdpMVpPRkxDdjhDRGs5UkVrV2ZRNVlWeUhkeHJiQURXaldmWUhVVFJYclZPLTlmSnVDc0lLTXlOX1lDN0s3UVRyMGoxUC1QWHAxNnJXNjhiWURRT1dFUmFaQjQxS045aU1uX3lTemxmRThSQml4aV9YOThUUWJHX25RZDRlRVNfZGdOWVJaVQ?oc=5"
     }
   ],
   "insight": "Tracking Fifth Third Bancorp (FITB)."

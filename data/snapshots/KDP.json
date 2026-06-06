@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:37.455Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:09.989Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    28.8700008392334,
-    28.920000076293945,
     28.559999465942383,
     28.520000457763672,
     28.829999923706055,
@@ -24,11 +22,11 @@
     30.030000686645508,
     30.200000762939453,
     30.360000610351562,
-    30.549999237060547
+    30.549999237060547,
+    30.059999465942383,
+    30.530000686645508
   ],
   "6m": [
-    27.739999771118164,
-    27.360000610351562,
     27.049999237060547,
     27.68000030517578,
     27.899999618530273,
@@ -158,10 +156,11 @@
     30.030000686645508,
     30.200000762939453,
     30.360000610351562,
-    30.549999237060547
+    30.549999237060547,
+    30.059999465942383,
+    30.530000686645508
   ],
   "1y": [
-    32.560001373291016,
     32.77000045776367,
     32.970001220703125,
     32.95000076293945,
@@ -410,29 +409,31 @@
     30.030000686645508,
     30.200000762939453,
     30.360000610351562,
-    30.549999237060547
+    30.549999237060547,
+    30.059999465942383,
+    30.530000686645508
   ],
-  "lastClose": 30.549999237060547,
-  "oneYearReturn": -6.173224973753454,
+  "lastClose": 30.530000686645508,
+  "oneYearReturn": -6.835519499016292,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Keurig Dr Pepper Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUXlMelR6UllhVk5oUndySEpNYWdBelB5RWpOWHBhSUlNenY1WXF4dGo1Zkc0V05kcWpScEpoVEVNUzVTZGQ3b21rX3RKa1V1SWtxeGppWEw5UVZKRkhLR19EZmtRb2FiRVFHT0dHeDktbzNLNDFLakpfazIxYXpzMGZaal9tMXlMbGxybEVmMWZDZHRBd1FCOHJ6SlZmWHFBZ3lzV1BkdHdqZXpsNm9PZHpMYTBhY3hPYjV3cDl0U18zYkVFa0VYM3JfYjNXQkh4VmktM0l5UUY0SXBUeFRBVUJCVzRPWWU0VVE?oc=5"
+      "headline": "Keurig Dr Pepper stock hits 52-week low at 25.03 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUFFNXlSLU1qNTBTci1UMURzdlhqWVl2UDFtVVRpMzd2OFNVQW1veFlhQ3lrVTQxc2t4UDNsMUNERVhmQnBrS3BuVGpnN084ZGpUQkpxQ3BjbjFYNXg4ZmVRU1Y4emZ3SEtualYwTHVWdWh3MnZyVm91ejQ1Sjh0SG5RY01mWkJLUW5ldEp4RmxGLXAtRXMzMW5nYnVuZ01Fdmh1eHJwZzBENjg?oc=5"
+    },
+    {
+      "headline": "CIBC (CM) launches auto‑callable note on Keurig Dr Pepper with ≥10.10% coupon - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbFFaSGZ2VU1PYnhhNnJ6SUFFVm94R01CYm5ELUZxM2lRb3MwbGh5R2piZ2dEbXZjaVhnZGVFRVJGX3BURVVhaTRPb3FEUU4zQV9VUmNheDlsZmpSQ1c2Q1Rld1RVQk03TDZhZ0J0QW5pS1VPMTB4M3pTZndWSHFmaEV3dVdsaFdmOVBBVGFSOHpTS0JEZ3o4VFRVNnhsRk4xNGFXbU9GbTI4YkdxOUpjY3lvLVRWc1otRWE2NWo2ckxyWnNQ?oc=5"
     },
     {
       "headline": "Should Keurig Dr Pepper’s Rapid Energy Push Toward 10%+ Share Reshape How KDP Is Valued? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYXlKcW1uNElVWDNkV2R0TEFOUXVzRG5aQzdHZi1JOENFU2ZhM1lfUkhpd0hKQnFFek0xSklPM3pNelJSOGRVdk1DRUIwazgyRl94eWhzdkhTWnpBQmJ4WXE1ZEl2dDdxSFhWY0NrbXhpOFd0c3V0bDhUekZxVHhQS3poUHlGRkxySUVKYWRIMHdwOWxoeEtSa1Z4c3AyRjRkdzBPalJzay1zNERtYXhabFFzdEg2dC1kYXg1dmZjWW9qX0xpTlFpUS1hVUxWZ3FPckN3blhQLXItUGV3VFpnRjZRV1VjQdIB5gFBVV95cUxNYXlKcW1uNElVWDNkV2R0TEFOUXVzRG5aQzdHZi1JOENFU2ZhM1lfUkhpd0hKQnFFek0xSklPM3pNelJSOGRVdk1DRUIwazgyRl94eWhzdkhTWnpBQmJ4WXE1ZEl2dDdxSFhWY0NrbXhpOFd0c3V0bDhUekZxVHhQS3poUHlGRkxySUVKYWRIMHdwOWxoeEtSa1Z4c3AyRjRkdzBPalJzay1zNERtYXhabFFzdEg2dC1kYXg1dmZjWW9qX0xpTlFpUS1hVUxWZ3FPckN3blhQLXItUGV3VFpnRjZRV1VjQQ?oc=5"
-    },
-    {
-      "headline": "Anchor Capital Advisors LLC Raises Stock Position in Keurig Dr Pepper, Inc $KDP - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVzdZN0tsaTIycUR6T1BudWUyTjl3UGhUSzR4VjN5alJoaDVwRDE3VHI4a0hGSjdEUGhBQzQyQ0R3OE5heXluYmVyZ0tzejFFZngxOG1QMnVxRTVvYTRSN1JXd25rWTVfTy00LTJYUXZoRW1BQmJrd1JKYlJucE55MGV1MzV3NnN6SWV1Z2R5SnZIeHo4a181eURZUVZwdVVIX3YydXVKaVFvU3kxUXkzTU1acktyLXFmWWdkZndJejJDSThQT1JCTXh2RHBKWVdZd0Rsdg?oc=5"
     }
   ],
   "insight": "Tracking Keurig Dr Pepper (KDP)."

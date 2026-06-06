@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:25.773Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:57.979Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    141.61000061035156,
-    140.82000732421875,
     134.69000244140625,
     130.88999938964844,
     130.02999877929688,
@@ -24,11 +22,11 @@
     133.3800048828125,
     136.6199951171875,
     138.5800018310547,
-    141.5
+    141.5,
+    140.8800048828125,
+    137.77999877929688
   ],
   "6m": [
-    106.97000122070312,
-    106.58999633789062,
     105.47000122070312,
     106.19999694824219,
     107.8499984741211,
@@ -158,10 +156,11 @@
     133.3800048828125,
     136.6199951171875,
     138.5800018310547,
-    141.5
+    141.5,
+    140.8800048828125,
+    137.77999877929688
   ],
   "1y": [
-    111.02999877929688,
     114.05000305175781,
     114.33000183105469,
     117.87999725341797,
@@ -410,29 +409,31 @@
     133.3800048828125,
     136.6199951171875,
     138.5800018310547,
-    141.5
+    141.5,
+    140.8800048828125,
+    137.77999877929688
   ],
-  "lastClose": 141.5,
-  "oneYearReturn": 27.443034815546348,
+  "lastClose": 137.77999877929688,
+  "oneYearReturn": 20.806659441096194,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "EOG Resources Stock: Is EOG Underperforming the Energy Sector? - Yahoo Finance",
+      "headline": "Here's Why EOG Resources (EOG) is a Strong Momentum Stock - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1dBcnpEZmJrN0hzcHllWmxtR1FZbnkzWkN6ekt2dHp1aEt1ZnFPcU11RElwTnUzd0Qwak04T01yc3F6UUE1SHNVNzFna293SHJVLTBNUV9RYkdicDBZY0UxWXVzWUpCUXNCVDM4LWYzNmdiOGpWWjhRcVFJeEZtNFVvc2txRS1oZE5YMWJwanNuQzNiTldHQloyVHBuV0xBb0x0Qldhdw?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFZBeTVzNEV4YkxnMEg2cDF5NnNsWWJIR29OMEFnc2dzSUZ3alNCMjVYd1FLbERXUjdyblpoSjJwMS13bHc1M3FYclBhbnhiVUhBUzZpajMyb1dleDhma2pMeXZpaHp1THp3dTYzc1VTRXVsc2VueWxMeGswblJmd19Nb2k0N05fY0pSRlVHQWxUN242TmRn?oc=5"
     },
     {
-      "headline": "A Look At EOG Resources (EOG) Valuation After Mixed Reaction To Strong Q1 2026 Results - simplywall.st",
+      "headline": "How EOG’s Q1 Beat and 70% Cash Return Pledge Will Impact EOG Resources (EOG) Investors - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNzlpWUVoamlZSzN1dVh3VEZwc3BtanJQZzNNY25SZldvWnFCSzlHbmZ4YjltbURfZnFmaFpRSXVOdDRZa0piWE51LXppeENaV0ZQSFZ6ZlN2WC0xcTlYVXFoMk1tUXdzTXdQam5obTFTem9WQXh6cnZBOGgwdW5iZHpsMUZibWlzWW5wR0RuNW1uTFptdl80UTJSSlZMemowRVZTYnpVWGh5aXMzaE9FYnpNa1NySWdONER3UnIwMGtkMXJ6bHfSAcsBQVVfeXFMTzIySk9laWp1OUdsVFRCOE44T2J6TEtTeFl3Q3FxVnVMZm5BZ21wNTFxSHhfOUVuOHZ0Rl93UUNTVzk4S05la3Q3bmF3eU9faF9wck9kYVJwZy0yRUF2OHlRM0dOSUoyVFVNWDhheTdmd1ZFNXl4cEMtVW1JVUxmSk42bi0zYXhrb2hqTjFMaEZEcFRqdVBEeXRIUXpsTE80QVZwUGxrUjluMGI4Y2xVY1dHOVQ0RU56VlJNTkZuNmlJdEcyT2JFT0xMWDA?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcV9kb3pJZ09kMkxvX256OXNtMHdocjZwbUhmeHB5YkozQXZnend1MFczOEIzRTJlVU9qT3UzUGZZVWZRTFRxU2I3R092bnQ3YTdOOGZDdzBtUGJNV2dNUFFuZzl5NU5jQXdvdUx3djVaOWl4SVh1bUpOUlV3Tk5rM0w0UVB2N0gzbEZQZXZKY1ppNU1VeWI1ZmJQZTJSamhKVmNoWTRybm9BM1A4c21wSWNZT0cxb0h3Yk5ZbklrQUdYR3F3R1HSAcsBQVVfeXFMTW5qVFJjUUMxNHRpaF9nZmxtc0VGaW9YSDY3VWY1WXRvdm1IQ0dRR1VPZTV3Z1EwSWRfQXpvU1RFQlNUb2p4QUVBVEVBTTVLWVlSWGdWSTBwOVhHNVJRZmxZbnRtR3FBRXEyc25hNzl6YURCcmsxdnIwRFpuYUtPaFRlM1JoclhvMkNPYm1xT0hvT1FlUmJLMHpFT1lxN3VTR1dZR3pKV3JGaF9LZzVZeFBfMmpsamwxMVhVdE9xd09uZlA0U0pFMXdBYW8?oc=5"
     },
     {
-      "headline": "EOG Stock Price, Quote & Chart | EOG RESOURCES INC (NYSE:EOG) - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yZkhlTnp5N2hPUWtkbnJyOUNMaGZfOVQwamVScVhwMkRBNHpKOXdDYmJrX1VkeWtlTEtRUmY0VDRrU1dLVUtYaGRaRnNLNDlURW51czVxZnNrODFXcGc?oc=5"
+      "headline": "KeyCorp Issues Positive Outlook for EOG Resources Earnings - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN01BT1plZGJKNHdlUjZCa0FoWDJFeWhTRnNXMExQeGhQZGtXc0pjcHc2TVhmX0FXaHY4VnZPeDBDclAyOGhkaXpBRjRZZ1lFR3duMzlQOVllX2NXdHFRX1lYQUNFNUxZY3JKS1FwZWIyTnlJZHJoY2NYWjBRd04xaGpZOFNfbURDXzZJQ2UtNTEwcnpWXzBhNlQ0NkFlR25oRm15SWtIS0syemxZcUZzMXRn?oc=5"
     }
   ],
   "insight": "Tracking EOG Resources (EOG)."

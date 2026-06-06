@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:33.590Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:05.977Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    28.709999084472656,
-    30.040000915527344,
     30.3700008392334,
     29.700000762939453,
     31.350000381469727,
@@ -24,11 +22,11 @@
     43.040000915527344,
     47,
     56.150001525878906,
-    55.150001525878906
+    55.150001525878906,
+    53.689998626708984,
+    49.20000076293945
   ],
   "6m": [
-    20.520000457763672,
-    21.09000015258789,
     21.360000610351562,
     21.530000686645508,
     21.8700008392334,
@@ -158,10 +156,11 @@
     43.040000915527344,
     47,
     56.150001525878906,
-    55.150001525878906
+    55.150001525878906,
+    53.689998626708984,
+    49.20000076293945
   ],
   "1y": [
-    17.760000228881836,
     18.110000610351562,
     18.309999465942383,
     18.34000015258789,
@@ -410,29 +409,31 @@
     43.040000915527344,
     47,
     56.150001525878906,
-    55.150001525878906
+    55.150001525878906,
+    53.689998626708984,
+    49.20000076293945
   ],
-  "lastClose": 55.150001525878906,
-  "oneYearReturn": 210.5292838689965,
+  "lastClose": 49.20000076293945,
+  "oneYearReturn": 171.67310383643522,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "HPE skyrockets 30% on biggest earnings beat since 2018 - CNBC",
-      "source": "CNBC",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Cc2gxWlZ3d1QtRG9HYUdGQzBRNXVwNGdsbHJHeFB3cEt0WVZ5Vi1zM0duaHl1czRpbzVOMUpCbW5zRlByZktjenJhWU41eUFhT1RvMmE4ZWdaUDljTE1Ga0psZXVJVDZtbVHSAW9BVV95cUxNaElnSWJPdnl4Qm5kNEctX1dUSDZrekg4bjQ2RGFNYWdjeGZvWXRsUUVHa1R3clRmcFAyMmZLdFhsaFBOclpMdzJpdUtUSVp1c0ttZ0FySVNPa1dRNFN2MnYzRE4wdGZRbk93TjY1alU?oc=5"
-    },
-    {
-      "headline": "SA Asks: Is Hewlett Packard Enterprise stock now overvalued? (Update) (HPE:NYSE) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWlZzTjVTMF9meXNnRktNMWNjUThBMnBmLWZ3SXM4N3lIaGI4SEpXcmFuWERoWldhWW5XVzBVcEFZWHYxbkc5dWZJdHNOQlBaRFhvTWxsLUo1UUlnN0NHUzZyUzBIcVREMldfZmVIYzFkeTA5RDVSWk94enQ4bmF4V2dFc1Q0NHBOSW5IOVk2THl6Rk9udTR1LUZUcXI?oc=5"
-    },
-    {
-      "headline": "Stocks making big moves yesterday: Shopify, Hewlett Packard Enterprise, Flex, Fluence Energy, and Corning - Yahoo Finance",
+      "headline": "Super Micro and Hewlett Packard Enterprise Shares Are Falling, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWFlN0J1NWx0bFB0SWt6WnF0NHYyTTMweVd2UEVXRUVqVzBiUmJOTE9NTG9oYnljLUYxd3hUOEpGV2k2Vy1WUmc3R1RCU1RKZzNMRUdVOTh2TWpHTGE0Tkx0T0daLVdqUlY5NTh5Y09RWTlLaGpEZS12SmIza3I4b2s4YkJ6c2xoemk5R0FUS1FwQW1Qd3Q1b2tVcUJTMnM?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRW80NE5Zam9zeWZla2p4S3BLZm9BWEhpR0VTT3AtOVFFeDJtWEROdDFzUjQ1eEdlaW9Wc2RmUy1KdklnaXVzcFl3VFFlNldVZzhOa2ZRVXkzZjNuOVlwb0QyT2tNMzhfTDVKQW1sOGRvOG9SdkdiR0ljNUdVUHlnblVHVDJFWEE2RkZ2cE1PR2s3d042dXpBb29FVnhvV2dkSndmT2hn?oc=5"
+    },
+    {
+      "headline": "HPE’s AI Orders Double With One Major Catch - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQm1oekZVeHhIckMtT3VHUV9sTUk2bThkLTllcTBaR0J2UWFNNmtWeXdYbmIwNG5oejFybjFrYXdWTzZYSjBoUUw4SXBDSGFCVVZjMEQzeHNYaE5rUDA2dElhYmpPLWlJR3R3UGtfNlpjSE14cmZOUGZ5RnZBcXpXeDZTd2lSdWlBOU1xNThqWS1sQmFJVHczd1JSYmltMnhfOHNZOQ?oc=5"
+    },
+    {
+      "headline": "Hewlett Packard Enterprise Co. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMHRmRHkwS016c3E1dDVWTTVzN0xsUGpzWWJiam90cl80anRzc0FGRkR2Wng1NTc3WU44T3l1XzdFNks4TVhoazhLcDh0SXF0aUthRlBsd1JtN2Q4eEhuSUNLdWkybm50TUd0YURnaVhEaWFwTE1SZ09wZmJLN0lVRDNkTTc3Qm1lWjcxY0ZidWo1M2JKUmJaZURmSVJPVzFkSFFnU09CVkYwZ3hPVjJYQVA2dE9VakY4UzBKLVZyT2lKTHlVM29QR1I4c1EzUm8wNGVROFFqeUlOQll0QkR0VklNa3lZNXY1bktockRqRnRwcm5TWlE?oc=5"
     }
   ],
   "insight": "Tracking Hewlett Packard Enterprise (HPE)."

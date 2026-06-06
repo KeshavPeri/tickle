@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:39.974Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:12.581Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    95.30000305175781,
-    98.4800033569336,
     102.91999816894531,
     101.58000183105469,
     99.08999633789062,
@@ -24,11 +22,11 @@
     94.6500015258789,
     91.5199966430664,
     96.95999908447266,
-    96.55000305175781
+    96.55000305175781,
+    96.30000305175781,
+    88.33999633789062
   ],
   "6m": [
-    50.900001525878906,
-    51.25,
     51.83000183105469,
     52.56999969482422,
     53.58000183105469,
@@ -158,10 +156,11 @@
     94.6500015258789,
     91.5199966430664,
     96.95999908447266,
-    96.55000305175781
+    96.55000305175781,
+    96.30000305175781,
+    88.33999633789062
   ],
   "1y": [
-    64.37000274658203,
     65.25,
     68.05000305175781,
     69.58999633789062,
@@ -410,29 +409,31 @@
     94.6500015258789,
     91.5199966430664,
     96.95999908447266,
-    96.55000305175781
+    96.55000305175781,
+    96.30000305175781,
+    88.33999633789062
   ],
-  "lastClose": 96.55000305175781,
-  "oneYearReturn": 49.99223074739499,
+  "lastClose": 88.33999633789062,
+  "oneYearReturn": 35.38696756764847,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Microchip Technology (MCHP) Stock Is Up, What You Need To Know - Yahoo Finance",
+      "headline": "How Is Microchip Technology's Stock Performance Compared to Other Semiconductor Stocks? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3RNY0tGNW9wLWtXdlZ4bXBXc0VnZzhNRzRTMjZCUmVodVVLWTF3MWVIX3ZTd3Z5X1VhcUF0UkJxWnZwQk1QanhlM1NOVmw1d3VjMzZFTzc4dWdnZWtXVl9pUWhyWHMybXlxOG42Z0JqWTVZU1Zxc0dqV19ETkNHVDFWa1hPY19MOUx3X0tpMzhuRk5ua0Fpc090MS1mYWsxN0ZB?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3RMZWRLMkt2WXBKcHF4aWYtaTZyZVVyaDFidjBtSFp3Z1djVExZWXpZbEd5eGdocHl6ZlctQ3l3OUhqZHoteloxTERuZWp3V1JMSDlJb1pNLUlidmdQbGZZLVY4cjZta0J3bDNJRWpiZTJPVnRreGFJM001RF9kSTAxaHBheHN0bjVPd2hSR05PU3IxWXdHNWlqZF9xSGpzTXZfTmN4ZHZxZWhnT3dZMk05VQ?oc=5"
     },
     {
-      "headline": "U.S. export greenlight lets Armenian engineers build chips with Microchip - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHNmbnRtQXBKbG5FQWhrQUQ4WWVSZjVuV3FrS0VkMjNsSDlGeXoxd25OVGxSX2NwRWdCeFJKd3dsbllxWk1rQXFpb1VqenhXbUdzTi1weHJVY20waU0tYUktYXhlMmtqNjUwVmJGUDJoR1VyN3NCdWhmeUZvNm5yazJDd0lhMUNDQ2RqcjZjTk8yOWI2Y1ZNd0dKcWl3bWkzaFU1eWgxNUpFYlFqYjB4Z25zU1hXRjZaaTBhTEt4WQ?oc=5"
+      "headline": "Is It Too Late To Consider Microchip Technology (MCHP) After Its 48% Year To Date Surge? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM1dJLUNOYk5TbVRCNGZNXy0taXNYR0pnUUtieDJxTHlnWWRWbHg1dVV0TnRxT2RhMkxxSDhpSlhlaFBFbEFIWDJWSkF0MzhoZGpfdEpwcmt4X2FIVGU3c0JGNUkzRklDWFZFX3hfVVBxYXZpQzY3dU0yWjBlM3JSMmdSZmZZRWlPdW96YWRGQnlBZVZ1MmYxSllrMTU0MDU1YWVrZzZjOWlza1pSdmo1QmduOFN4S3NrQTJQdU9pN0tXQjRpTGdHUTdOZFBDQ1cxZHlLZnhJTnctN2plX0p3adIB5gFBVV95cUxQLXo3bm5MVGlHek9JUkFzS3NvZ3VrYzJOUUJlWkNTNDNteDZYZDJQVUVaYWFPLWJVUUdLai02Y3NkYXNuUzJTaHJCVUFwUWE5LVhZaUtVUlhMUG9OcGhkN0J2blo2Nnh3c3JTdEZvQ3V3a3VjeFdqS1BwSXlybjlucUprYzhCRE1vV0k5UVQ2VjJtU0FLWDdINklSOG5uVmQ4dWtORURBc19DYUpITThSZkxqcE5qTmpieWpQcktWZ0hzOE1FUG52VS1oQ2JidGVacGpLZlA0dTFjUkhJOUhzQ1NnR0RlQQ?oc=5"
     },
     {
-      "headline": "Microchip Technology stock jumps on data center growth outlook - Investing.com",
+      "headline": "Why is Microchip Technology stock surging after-hours today? - Investing.com",
       "source": "Investing.com",
       "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM09fdzVaR192X2VLbnNfYzlhenhvXzJXZDdRODUySFQ0NXAtOVFmak1Tc3ZvTVBmREZPeE5hQVFRZVg2TzVFTkNXZkNDc2lEbkYzdFB2UjVYNjVJMW5VZ3U0Vi1FTGZFSGh2amhqSEwzMlhCZUlCOVVNRTZmeTQ3aUhuYk16WE5fUmV1WWVMWW5tWGVSaUZSdXVYODZ2SGpVU1JzbjFIMnFKMnRYdkYxeTBjZFhwd1Z3SWo4Z1JNdTljUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ3pXam1ZeHh5VWpCbmstczV3Y3FJVnFCekNKd3Y2ZGRiNHlzQmswQTZPM0h3T19mTk9laW1lV0tCSkVaYWVrOXJCMFlLU1BWa056c0tJR0hTVldoSTdXVDRVOEVwSUNxZW8ta0s5SFYtM3QzSG1FVV9tb3cwZDMzZjBiTlJBaE5mWmRtRGpkd1ZCdXNKcUhtd011bzF4N1NHbkVDeDBLZjItcW5JY1ZVUXhsT3c2Q1BtLTIwYg?oc=5"
     }
   ],
   "insight": "Tracking Microchip Technology (MCHP)."

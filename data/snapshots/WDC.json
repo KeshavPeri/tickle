@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:52.784Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:25.254Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    442.3599853515625,
-    465.260009765625,
     483.1499938964844,
     463.9100036621094,
     480,
@@ -24,11 +22,11 @@
     531.2100219726562,
     546.2000122070312,
     563.0999755859375,
-    594.1099853515625
+    594.1099853515625,
+    575.5,
+    511.7200012207031
   ],
   "6m": [
-    139.19000244140625,
-    150.92999267578125,
     155.41000366210938,
     157.74000549316406,
     163.3300018310547,
@@ -158,10 +156,11 @@
     531.2100219726562,
     546.2000122070312,
     563.0999755859375,
-    594.1099853515625
+    594.1099853515625,
+    575.5,
+    511.7200012207031
   ],
   "1y": [
-    55.04999923706055,
     55.45000076293945,
     57.02000045776367,
     55.95000076293945,
@@ -410,29 +409,31 @@
     531.2100219726562,
     546.2000122070312,
     563.0999755859375,
-    594.1099853515625
+    594.1099853515625,
+    575.5,
+    511.7200012207031
   ],
-  "lastClose": 594.1099853515625,
-  "oneYearReturn": 979.2188802640311,
+  "lastClose": 511.7200012207031,
+  "oneYearReturn": 822.8494033902992,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Assessing Western Digital (WDC) Valuation After AI Storage Momentum And Strong Q3 Earnings - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
+      "headline": "Semtech, Impinj, and Western Digital Stocks Trade Down, What You Need To Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-06",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbTdQYVdfRnR3SDBXWVdmam5saHpLdTJlSlh5NzgtZW9lTFNvaW9QZmFxTDlwUk96aElidXppNnNacmowenk4d2t5VC1NUHJPUVNNZkdzRkoyUUtMdC1Eb3dPZDZGTU41bTE4VElUam5wdFpnYUR3WE5hUjA1a2VfdDdyTkFMYm8tNk9BMVpQaWVFUWpXUUUtU0lWd0pkNllaNFAtZw?oc=5"
+    },
+    {
+      "headline": "Western Digital Corp. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemZZR1NNWVQ5b3FGTjNEZTljZzR5c0piclVYa3ZpNFIwY2Z0b0g2M3cwS1pVWW9tdjNYT25RZ1pubHlNMENoREpiRVNKN1Vnemh2VnpOOTRxQS1HR25MNGd2OW1IbHN4d3NjM1JUVHlheDFlUlhmUUlQMFdNWGEyN1BnNy1XYXZfb1dMS3Z5V01Ddw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLXQ1SnVMSXhlUThyY3djVjY3VjVjdFlENl9IMmdNWkNtakJ2ekJiNWQxMzZ0eUlGTEloWTFYSzczS2tfc0xVSm92R05sSXRxT3VCQnVQYUxnS041NFpsd21YME1VVXk0azRETnlSdW5ZX3lnbHRmbm9IRk85WVUtU2lYeUptMll2NlJ2akQ5ZGNlRXIyY2Rnb0M0Rms5VTJQY21JTDFNTVVfaU1KVXVpdzBzZ3NVdERaaWJHdE5ONlI0NnV1ZUxHaEk1N0ZjZ0pncXc?oc=5"
     },
     {
       "headline": "Why is Western Digital stock surging today? - Investing.com",
       "source": "Investing.com",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDgzUUlBbjYxdDZ5Vk9TWkczQlZpRWFXRWxFcXdWT3BGQjRNWnB4ZnJSY0R5M3ZwaVJ1UWdrUUYtLTl3UlVXSUllYTZEWGFUQWRGSlBZdWU4Wjl2Y3VZdVpSV0pDcXFONlJvbnNRUW03Q2w0dF9Zc0ZMQkNhUlFNeUFkaTZCU0tVOWx5WlZRdWNfMWdtMFZSbWFlNnJTZGJYZ25NZ3Iwaw?oc=5"
-    },
-    {
-      "headline": "Western Digital: Not Worth 20x P/E Adjusting For The Sandisk Stake (NASDAQ:WDC) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR21qbGZSNWhUc0x0SnFjOGlnRVJ2T2FPUXo3WEZVWkFpV0JVX2gySGhjZTZSN3ZQMGhDVHVUZ0tLZ2QxbVljVDZXS2VkOEVCYTk3TmlDbHpaOHU2WWZFM2RIeDZXRGF1Wm1qaU5DVHdscDA2dkltYVlmOG93UDQtZkJuU2d4NGw0LVI1bEx2d2xxRkdvcTFZZlUtaVloOVFuZS1QY3YxdkhXYlU?oc=5"
     }
   ],
   "insight": "Tracking Western Digital (WDC)."

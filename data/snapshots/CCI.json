@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:16.203Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:48.256Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    90.18000030517578,
-    89.0999984741211,
     90.23999786376953,
     91.06999969482422,
     90.56999969482422,
@@ -24,11 +22,11 @@
     91.5,
     91.02999877929688,
     89.91999816894531,
-    88.62000274658203
+    88.62000274658203,
+    93.79000091552734,
+    94.48999786376953
   ],
   "6m": [
-    90.01000213623047,
-    89.0199966430664,
     89.4000015258789,
     90.55000305175781,
     91.27999877929688,
@@ -158,10 +156,11 @@
     91.5,
     91.02999877929688,
     89.91999816894531,
-    88.62000274658203
+    88.62000274658203,
+    93.79000091552734,
+    94.48999786376953
   ],
   "1y": [
-    100.27999877929688,
     98.94999694824219,
     99.0199966430664,
     99.88999938964844,
@@ -410,12 +409,20 @@
     91.5,
     91.02999877929688,
     89.91999816894531,
-    88.62000274658203
+    88.62000274658203,
+    93.79000091552734,
+    94.48999786376953
   ],
-  "lastClose": 88.62000274658203,
-  "oneYearReturn": -11.627439344486797,
+  "lastClose": 94.48999786376953,
+  "oneYearReturn": -4.507326146564259,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Crown Castle (CCI) Soars 5.8%: Is Further Upside Left in the Stock? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTdKUXZveEhiT0Z6dlNFZ1loN3VYLWd3SXpjc3pkZXhJTUV3S3ZRdFZvb1NWeWtmRjQxY1ZrUm80NFd5YXV1Z3lVekwyclNrS2lqWWNBMnZscEN1bmVHT2xMOVhxVGx6dWxWWFdTbUlaN2dGRkFITEZabEtBZGRNdDFNRWhPOUVHYUxReW9vMHBzTEk?oc=5"
+    },
     {
       "headline": "SBA Communications vs. Crown Castle: Which Real Estate Stock Is a Better Buy in 2026? - The Motley Fool",
       "source": "The Motley Fool",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcXpkTU1ERXVtNE0yVHBYcWdGYnRJbHN2djFhMzhYbDdXdzYxS3dOeXYxUWhOeGpTV1pjVUZrZUxzdG5ySENmYkRmbGZhdFpCbmNIaWVxQjJrOTVmNVNPVVg2X09hMHZqd3Z1QXZrZi0tdlRwWVk4dTRrWEc1dUt4OVJlSVdQOWlnY21ZXzhjU0tFbUlELVZKdU4zNFM4TkF4ZXZtZWVCLV9aYWg2Ui1TOTk2Sm81T241aFAzSDlFeTBOTnlhcUNOMmNRVGF4MDli?oc=5"
     },
     {
-      "headline": "Crown Castle Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYzRFRmdodTZxN1c1VXJPRmNPZ1Vfc0c3SmVXdVRhUUtSZHR5TXk0MXMwVV9vVF9sOGdrbjFacjNsWF9tMkgxLURaLVNISTZTV1lYc2p5UlhUZUhiSElzQy1KdWVZNGJ2ZGctdlZWTzRPVFd4QUVMRmlwSUdyWHZoRHlzV3FOT2JFcHV5YTdHcThKZ3FLT3ZBSER1VGpRNy1hUkMxbDFOZkt6dDBvRlAzdDNOMEdCWTJyUThUcVJUSFdnLTd4azhR?oc=5"
-    },
-    {
-      "headline": "Crown Castle Inc (CCI) Stock Up 5.8% but GF Value Says Overvalued -- GF Score: 62/100 - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHFSREJxNElSTWtIbWJqdGZMZnVLRFJaRk9SaTRRSmpaMDlzS1REQW5UdlJEemxCQTdHTk9vdHNUMjM2MERoYmZoT3V3V2MzYl93S1ZRaXYydG4tNDI1d3FFUnZNVXVqbVVKeXB2Vjd0ei1RQ2w5WVJ0MFNnWmV2OElwYkRsYWVVSlI2MGRhYjczaW1XNXVkRjF2Q0VMU3JsempFMTlmSnlRYUJYYm9sdU1vMzJmdw?oc=5"
+      "headline": "Crown Castle Reports Fourth Quarter and Full Year 2025 Results and Provides Outlook for Full Year 2026 - Crown Castle",
+      "source": "Crown Castle",
+      "when": "2026-02-04",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcko5VFV2emd1dHdsS2d6VGlHaWJBSmNpa0pLWDBRaFp0ZG9LYUEtMXRmR3VqTWh6NWlhR1M5dGdZb2hvalc5RDY2emFGaHNaYTduNUdsNGN4ZmNZdUpwekRTclpIQWNSRFhmUm5QbW1HZTNCcFU4T1RPc2RZNE5YTmE2UVlnU0NkaFFZMzU2VXNPSmhseFZ1eEZxcXhpeU5XOUotZ1IwNXM0cVo4MDFKY21HWWEzaDI4VGV3blo5TGh1WnBpX01hbFRn?oc=5"
     }
   ],
   "insight": "Tracking Crown Castle (CCI)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:16.872Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:49.018Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    125.88999938964844,
-    128.0399932861328,
     119.76000213623047,
     118.68000030517578,
     115.0199966430664,
@@ -24,11 +22,11 @@
     112.3499984741211,
     113.30000305175781,
     113.4800033569336,
-    116.5999984741211
+    116.5999984741211,
+    117.5199966430664,
+    113.48999786376953
   ],
   "6m": [
-    78.54000091552734,
-    77.66000366210938,
     77.68000030517578,
     78.41000366210938,
     78.69999694824219,
@@ -158,10 +156,11 @@
     112.3499984741211,
     113.30000305175781,
     113.4800033569336,
-    116.5999984741211
+    116.5999984741211,
+    117.5199966430664,
+    113.48999786376953
   ],
   "1y": [
-    92.27999877929688,
     92.13999938964844,
     92.8499984741211,
     92.12999725341797,
@@ -410,29 +409,31 @@
     112.3499984741211,
     113.30000305175781,
     113.4800033569336,
-    116.5999984741211
+    116.5999984741211,
+    117.5199966430664,
+    113.48999786376953
   ],
-  "lastClose": 116.5999984741211,
-  "oneYearReturn": 26.35457305649687,
+  "lastClose": 113.48999786376953,
+  "oneYearReturn": 23.171259621822486,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Assessing CF Industries (CF) Valuation As Fertilizer Supply Disruptions Support Earnings Expectations - Yahoo Finance",
+      "headline": "CF Industries Holdings (CF) Gained From The Strait Of Hormuz Closure - Yahoo Finance",
       "source": "Yahoo Finance",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYWtyRmdrSHVZeEllZmZpY0pQLW9WXzB3UjB1TlJYWnZuWnV2MWNDS214NXRsLWFLbExRdGYtZzFtTDM0UkNGWUtITDJ4TTVCbW9IOHhEc3FnRFVpYW94U3BsT0JNVU51eElTaFc4bTlTcnZCZkZGWVZrcnJ1STR4aEYyM0RjcE5mVk1qZXgxUzIzZEgyUGx4UC16QVludw?oc=5"
+    },
+    {
+      "headline": "CF Industries Profit Boost From Strait Closure And What Comes Next - simplywall.st",
+      "source": "simplywall.st",
       "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORVkyYThmYnhWU0Jsa3lvVTVIMVFuOXBPVFdNbjEwc1g3enZHQ0gycG8xdXZYRzdqR3F4bzRlUWR1QUxaSEZzVnViVzFaLUx2TjBPZXNwVjRGdnRiYWNSQzlISkpZVUl6N2t0ZGpoRFh2dl91LXU4a3o2RkVhbVhFd0hBYU5sYTBLSHlsSm9SLXhMblRwU0FNbXdyVlZqWUZiRF9R?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNm1lSzNMeXExVnNhTVN1dVRvRmpnLXZwQ1F2ODQ1WEtXd2F5UXVnQnVUc1I3RERoUEtVVlNLWjA3VXBIazV4cGVzczI2UVllcTA5WURfbmF0c2FfNmQ3bkpFRHFxSjlEd0FWazJJcGdBTFZuZ1pWT1A0cUNTbWRDa3cxYkY0WFlveElCM256dEtfcEpXdjRwZ3V0ZDNyV0FhMVVEc3hNVDhBbmtIVzl6YmR5Sk55TkFTSDJEamh2RGMyUHhVdUYtejYwRVdwckxaMk5pZdIB2gFBVV95cUxPcW5LbGM5Z0lkWWlMS2c4djdvdHYwTkFmWkp0R0dCUWc5UnQ4Um52cVRMeXN1WHNSQlNlMEhBWHFQNXNzdjhlWE53VGpmc1hnbV9XcUlRbGktZGNBM2N6OVRRbm81U0gtQjlSNHFhNXZqS2dIT3JZU1dVMm1ld1hLY0FJNUtiWFo2Vkg1V1gzaWFJaDdWQ3lKaWlPOGQ4SVhWQlV2aVJVV2ViUnduMGFDanpYbW5icFowQjZPMEEzWEN4Y3h4Qk1YRW5DNmR6SC1DN1R2WHliOEFQZw?oc=5"
     },
     {
       "headline": "Is CF Stock a Screaming Buy After a 50% Rally in 6 Months? - TradingView",
       "source": "TradingView",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUw1V2FFSFFTOWczdjVLZllCN1pNNHVUeXVBZGtrUkp6ZTR1N0RkaVlkSUhRRkZlOWxvbXdfRFd3c0xjVnBrZVNVbDBENjBOTnFId2ZfZDdxSDd5SkJscHBWak54aUVGZ0NJQ29ZLTAyazZScHVIdXdiV2puNFJNeHd6dVVEUzBaQ2RjYzZkX2VRaUtBRWVIWjVCY1h5ZXg3R1JzSTYzbWVBTEJTcjg5VXFn?oc=5"
-    },
-    {
-      "headline": "CF Industries Holdings (CF) Gained From The Strait Of Hormuz Closure - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYWtyRmdrSHVZeEllZmZpY0pQLW9WXzB3UjB1TlJYWnZuWnV2MWNDS214NXRsLWFLbExRdGYtZzFtTDM0UkNGWUtITDJ4TTVCbW9IOHhEc3FnRFVpYW94U3BsT0JNVU51eElTaFc4bTlTcnZCZkZGWVZrcnJ1STR4aEYyM0RjcE5mVk1qZXgxUzIzZEgyUGx4UC16QVludw?oc=5"
     }
   ],
   "insight": "Tracking CF Industries (CF)."

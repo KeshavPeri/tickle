@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:30.108Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:02.528Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    349.0799865722656,
-    349.1600036621094,
     347.2699890136719,
     347.760009765625,
     346.5299987792969,
@@ -24,11 +22,11 @@
     346.82000732421875,
     339.20001220703125,
     337.6099853515625,
-    337.0400085449219
+    337.0400085449219,
+    341.5,
+    346.44000244140625
   ],
   "6m": [
-    340.3399963378906,
-    338.1300048828125,
     341.07000732421875,
     340.0400085449219,
     341.6300048828125,
@@ -158,10 +156,11 @@
     346.82000732421875,
     339.20001220703125,
     337.6099853515625,
-    337.0400085449219
+    337.0400085449219,
+    341.5,
+    346.44000244140625
   ],
   "1y": [
-    274.4200134277344,
     276.4800109863281,
     277.30999755859375,
     277.3699951171875,
@@ -410,10 +409,12 @@
     346.82000732421875,
     339.20001220703125,
     337.6099853515625,
-    337.0400085449219
+    337.0400085449219,
+    341.5,
+    346.44000244140625
   ],
-  "lastClose": 337.0400085449219,
-  "oneYearReturn": 22.819033617487168,
+  "lastClose": 346.44000244140625,
+  "oneYearReturn": 25.30381534834995,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGt6UFJpRVMxdVNvYlRBUF9IakUyZk9ocjVjbmpDZ1RBNlNmc014UllpRzB4V19DamN0OVhvUVRfNEhJVVpkY0tUdjVzRFZuemlpT05oMWNjNmQzZEpObXhrMTBtTDhHeHJwdE83TmNGWVF6LVp5UWxRUldEeUxIMTZIZ0lZMV92Q2FCeGM4TGxFeGRPVW01T0ZNblNaUQ?oc=5"
     },
     {
-      "headline": "General Dynamics Stock: Is GD Underperforming the Industrial Sector? - Barchart",
-      "source": "Barchart",
+      "headline": "General Dynamics Stock: Is GD Underperforming the Industrial Sector? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEgwT2VPNHJPXzFGVVF3RWl6LU9OYl85d2pXS3ZIbFZLRVR5cUNJRmFZb1o0WENNRG1DZlVwZ0Q2N1BRX3ViNnE4NWx3dnZoOU9DdVRjQTZkVmh0ek1OTTRNUkVFUndmM2NveEh5WjMwODBoem9IMDNRN2Jfcnd5b3pSS2k4UDcycmZPUDB3ZlBGb1hzdlRkTXo1a2tMWnp1QjlNdU5hSVIyNUd3aFBn?oc=5"
     },
     {
-      "headline": "Why General Dynamics Stock Is Rising - AOL.com",
-      "source": "AOL.com",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdURfRXZlUjREQzdHdmo3TUV1N1pkN1V6amxOYkMyVy11bVZ5TThmYWd6N1psV1ZieFFOVlEtZmFRQktqT3JBc1JjUkdVa2ZXbGxiOWhKc2R6Y2dTTGNTaUhlWWxBb3YzaGVWQVhUXzlJcHRmWVBWZHFrOTFtRnJXUEpESQ?oc=5"
+      "headline": "Is It Time To Reconsider General Dynamics (GD) After Its Recent Share Price Pullback? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOVgzNnNoWDVpVUM1V2xfUWtoR3BwTHlxZHFibExjXzdFT1NhblMyN1REWGVCZjFWZUxTS0d6ZEItcld4S2pFMFA2NWlKbWtwQ3Q4emplV0xYeTdWMkI1MmtSTWxmbE1OVmM1M1VoemxGYlNzdGFETzJuek5CaWRYektwMzN5VW9CX0lpNkIySFVlZkM1SDBHd0R0WnN0blRMRGtudVdxRU01RldiNENCZlJ4Q3lSVzNmclEtclNRR193dVlYeng5NzRzMmZnSHZONGfSAdcBQVVfeXFMTm9KZjJ5ZDI2NDd1cFMxOWJZQTZpY2Jwem9DWVR0Mi1fY2JscldzTFlVUnpwQzJ0X3lKR1NqUEE0Y24xTzJSVlNBRXhzc1BXZkJCTVFkQkJqS1pua0pIV0EtbUQ1RERzREdSd292X19sYThNQ1hUcFVGaDlEYUNqNWlGNm9vV3p5cnFQUEVIOGJqZktLNVhvLVlEcTQwTXgwZDlNSE12c3k2RVZfZ2V3bFVtM1RpZUVHenI1QTh1cDR6aGZMU2F5NXFaX2x3QUtWM3JxLUo1ams?oc=5"
     }
   ],
   "insight": "Tracking General Dynamics (GD)."

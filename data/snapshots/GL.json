@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:30.998Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:03.395Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    152.64999389648438,
-    154.13999938964844,
     154.38999938964844,
     152.4499969482422,
     151.0800018310547,
@@ -24,11 +22,11 @@
     153.24000549316406,
     152.1199951171875,
     151.0500030517578,
-    151.1999969482422
+    151.1999969482422,
+    154.30999755859375,
+    159.17999267578125
   ],
   "6m": [
-    132.4199981689453,
-    133.27000427246094,
     135.3699951171875,
     134.8699951171875,
     134.72999572753906,
@@ -158,10 +156,11 @@
     153.24000549316406,
     152.1199951171875,
     151.0500030517578,
-    151.1999969482422
+    151.1999969482422,
+    154.30999755859375,
+    159.17999267578125
   ],
   "1y": [
-    119.7699966430664,
     121.69999694824219,
     120.66000366210938,
     120.08999633789062,
@@ -410,29 +409,31 @@
     153.24000549316406,
     152.1199951171875,
     151.0500030517578,
-    151.1999969482422
+    151.1999969482422,
+    154.30999755859375,
+    159.17999267578125
   ],
-  "lastClose": 151.1999969482422,
-  "oneYearReturn": 26.241964754196466,
+  "lastClose": 159.17999267578125,
+  "oneYearReturn": 30.79703916794586,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Globe Life Inc stock hits all-time high at 155.12 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHRwWE5WM1JLbEN6SnppMUpUeDdCSlFsaFZRcG9TQW1TeUVxYlpNZGZfQkkzLVNmU3ZrMkZjZTJoc3JCTzJkb3p3QlRKbFZwVXN4NGNIQ0NyQWtQZS1RdmFKS1N4VjRaX000YloySnB6ZHdBbUxVWjhvWHhTV1g0VlNCZDNENUNNY3lvUDI3SkhVUFVFaHBrYldCSVlBLWg4Vmg5THRndF9sTUZi?oc=5"
+    },
+    {
+      "headline": "Globe Life Inc. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYXFpMHJxLTRtWUNBSWNPTWpVb0ZzWUVCMGt0SDVzdWM0bkZZV0wzRWxLTnZOSFRIRWlqYUtyOFlxVVF4Q2lQYzA2TFR5YnZZZ1FkdGtKQ245OU9pZmoyNE1yRWtTaUpKa1lGT3VkajAzSGI0MGNUNTJNRzVkbHpITG1vV29CNlFqUWRLTmRFbWdxb1gwcG9EMkJ5ejRLb1dsMzZoTEt2UFlxM05keFJuMmZTcnBHR2RtY0t6bWtlTjZGY1RhWjgwYk9MalpqaHVwTkZ1RzVINTdGNjJEdTM3OXdUUEM?oc=5"
+    },
     {
       "headline": "Is Globe Life Stock Underperforming the Nasdaq? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-03-24",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVdRM2FFaVZETWxjbGdnUGdJbHlEdzd0Q19kT1BFNE5jOWwycHB6N0NHU0t3eGJaUzl6bkQ1Rk1sblBSQlN2YjVCMEdsc3M3cWZZVGlIZUsxU2dmN1ZCM2NMMmVOWXpNMmpPM0lLanozcDc3SU05TDUwRXY2cW45QjRjOXNUUTFsU29vQ1RnVFFtME1uSzBONU5EWjE0RU9Renp2NF9uaw?oc=5"
-    },
-    {
-      "headline": "Globe Life trades above 200-day SMA: Time to buy the stock? - MSN",
-      "source": "MSN",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRE1ic3ZzMlNDa1lNRTBHZWJYaTh5Z1FJVWpuVU5XRVdORGxCbEpuLUlVRm1DcUUzMjJsRlV3Z2ZPb1ZHUC05R3dPUDJ1NG5TQ202Mk9iaEd0SUhSaXhINTBzS1NrUURkM3Ewb0VfWGNsalh5T1RrdVJSeG9FMHlLME9sdHRnNXBROW9nVzZiNEl6bG5GNFBmOU1yT2pTQXlYb3hKTVl4bW9hb3Y0SThmMXE0THloVk9mamdVQ2dEdkZiYlhfb2xVdmN3?oc=5"
-    },
-    {
-      "headline": "Globe Life Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-05-19",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZzQtVVB2alU3Y29Eby1QVkhKVXhJbkZ3UUVHVU9MejFjWHloa2NGTXE5Qi1FbThzOHBEdXRGVWlzaDd0aEZvRWNXMG9ycVIxV0dQUHpySDFNakhxV29mUW9jUzdqUFJHZUhlQmtDOHlGajBpRWkyc3ZqTnNTQjJPQm15eTl2NFh5QWIzLXY0NnhVamhOUUNhUHRwTGVpWC1LRHZQNW5CVjVhMlNOSjhnZ1dxdUI5OVowdGlRNThXS3B6cGxJV1MxY2ZyZw?oc=5"
     }
   ],
   "insight": "Tracking Globe Life (GL)."

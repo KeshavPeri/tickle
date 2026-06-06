@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:23.183Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:29:55.336Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    198.50999450683594,
-    196.69000244140625,
     199.67999267578125,
     194.77999877929688,
     195.30999755859375,
@@ -24,11 +22,11 @@
     190,
     185,
     187.25999450683594,
-    183.5
+    183.5,
+    188.6999969482422,
+    186.7899932861328
   ],
   "6m": [
-    157.17999267578125,
-    159.00999450683594,
     157.3699951171875,
     158.91000366210938,
     160.1199951171875,
@@ -158,10 +156,11 @@
     190,
     185,
     187.25999450683594,
-    183.5
+    183.5,
+    188.6999969482422,
+    186.7899932861328
   ],
   "1y": [
-    175.91000366210938,
     176.83999633789062,
     176.67999267578125,
     177.69000244140625,
@@ -410,29 +409,31 @@
     190,
     185,
     187.25999450683594,
-    183.5
+    183.5,
+    188.6999969482422,
+    186.7899932861328
   ],
-  "lastClose": 183.5,
-  "oneYearReturn": 4.3147042123139325,
+  "lastClose": 186.7899932861328,
+  "oneYearReturn": 5.62655346883778,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Digital Realty Trust Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM2JmQTUtZW5tTmIwYlVSTnZmRlBNbk5ZLW03RVFHcEtMOGZpdGtJZGt0eUdZZEhwLU1pVzgwZlYzbGZzcU8xRG5VUTl6Um5PeFR5akY1OVNobE5DdmdFSC1nNXc1NVNsSzhKTzVOTjEwOHVCcVQ1cUtiSm8yWXk3bFZJNU4wVzJhRHU5SlM4VTBVMENsNWdjajdacllOMmVrSkpLb3I5QmU4T08zd21Yd0d1NURfdFZ4eUhPNVI2ZGtmQlktQ0EyVkpwRVVtMV9sckZtZGtkWEtONkVKRnhzQlBlSWxBQzNzMmc?oc=5"
-    },
-    {
-      "headline": "Stifel reiterates Digital Realty Trust stock rating on AI demand - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONEZzVzRRM3U2SHpZTTByaTBvQUhnOGtZeGdXSFNBaEhOeVdUaW9ORmtyTXlobkw4ZGtrc18yRy1Qdl9GajRra1hDVGo4RTVuSjAyMVo4cTZkZ3JNNWR0WDFvRmhtb18zVFRoYkFiaDR4ckZhVEJLZlg0ekpVbW84cFJlRUtIdjFkektJRzhIaXFCanNrVzQxekRqbnNERk9idkVyNkRNOGE0NWtaZ3p0WDI3cS1fV1hKYUpZRGI3Mm95dw?oc=5"
-    },
     {
       "headline": "Assessing Digital Realty (DLR) Valuation As Its New Innovation Lab Showcases AI And Quantum Capabilities - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYzdab3R5Vk9mY251OFhDYkxweHpacS0wWEhjbkFxTFN1R0NidUc0RmJ3Qlg0cVl6b1dRV1FrNVVzLWl1OEttOG5nR0NYd2RTSUJLWmRYb3hWYXBMUXk4M1dhVEZHVGJpX1dtemtGQTRqWHA4N3JKb3Foal9wQ1FscHZia1NvbmRHS0MwZFRCZFNUZWNUaUxBVDVsUkItQWxUY19ob1VB?oc=5"
+    },
+    {
+      "headline": "Stifel reiterates Digital Realty Trust stock rating on AI demand - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV1JnbkVnUEF1bXNrT05DekhoU2RKWVBVMURzZUlKUk1zeDFnNGVuYWU5cTdtYnJMSDVWU1ZHVVc3SWlzZ3FOWkZ5LTBaVTNhZGhRUTlPRi03M2RWbXhCXzhTTFlvSWlPLWxMRVp3cUZvUmZEcTVreXBTZVpOVmhiZERCVk5vUUFHRkN6S0kzajRaSWxWMnNBSS1GcEFObEFraDA3RWRkZERFY0J5ZktCSXRIV3B0NXBTQXJjTy11VUxodC1mNGlsQ1ZvWjA?oc=5"
+    },
+    {
+      "headline": "Deutsche Bank Hikes Digital Realty Trust Stock Price Target on Massive Data Center Lease Demand - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-05-19",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN0M2M3lyNVc2UFRwQVBmdk1tdlhkRGQyR0dsR0MxYXJjX3dpVGlvMURCUHZOaXhZMFRyeWdUVVZMa1ZaWTJ3RUN0Nm11aU5ydVR3RUJZdExaWkd1dWFzbXFqRzU2S3F3b29LR3poM01pTGZrVzNvMGxkWUdGN09qZVNDcEtlUUkwWVliSkFldUltamN5NmRFZkdGQ1AxQ1U4c2tiYmR0bDRvbWd2NFFUQWpQTGl5eUU2cDhFbVpiYTEyT3BScW8yN253?oc=5"
     }
   ],
   "insight": "Tracking Digital Realty (DLR)."

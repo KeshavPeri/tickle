@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:36.155Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:09.089Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    452.3500061035156,
-    451.3800048828125,
     451.7300109863281,
     453.489990234375,
     450.05999755859375,
@@ -24,11 +22,11 @@
     424.6400146484375,
     412.260009765625,
     402.29998779296875,
-    407.2900085449219
+    407.2900085449219,
+    418.82000732421875,
+    422.05999755859375
   ],
   "6m": [
-    561.6099853515625,
-    568.47998046875,
     578.8699951171875,
     574.22998046875,
     573.47998046875,
@@ -158,10 +156,11 @@
     424.6400146484375,
     412.260009765625,
     402.29998779296875,
-    407.2900085449219
+    407.2900085449219,
+    418.82000732421875,
+    422.05999755859375
   ],
   "1y": [
-    558.0599975585938,
     557.0800170898438,
     526.1500244140625,
     529.5999755859375,
@@ -410,29 +409,31 @@
     424.6400146484375,
     412.260009765625,
     402.29998779296875,
-    407.2900085449219
+    407.2900085449219,
+    418.82000732421875,
+    422.05999755859375
   ],
-  "lastClose": 407.2900085449219,
-  "oneYearReturn": -27.016806378034957,
+  "lastClose": 422.05999755859375,
+  "oneYearReturn": -24.237096178137456,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Intuitive Surgical Stock Has Been Hit Hard in 2026. Is It Finally Time to Buy? - Yahoo Finance",
+      "headline": "A New Robotics Giant Is Trying To Undercut Intuitive Surgical - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUFUMXBKZkVwTzhkTzFITk1jMEFpeGs1TWZxY3NNRWdrUzNoeHpCbkwtSDZ5WW9JYjZOdG9ybnJpUWI4UlpuSkppWWktcjM2Y2ZDd2k0Z0Fna1VWZzBITDYzem5FSWJ6TWMxQ3ZrblBQZzRmVUJfTlpHRTg5Y2Vxc25TUVUzUzNCOXdEMHB3RVRTWjdpNTRUelpQeFlxQktucTlv?oc=5"
+    },
+    {
+      "headline": "Is Intuitive Surgical (ISRG) Now Fairly Priced After This Year’s 25% Share Price Slide? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWhCaTBUbll0am1Hd1UyZEE4NTByNFVaZDROeE40SzJxS1JHUi1BaDdJVzhpR2J2ekRCTC1HQUFSUzlQZDRaZUx2bGNoUjVJLXpBbVdGaklWZ1ZZMmxwbGF6VDBZQ1N4RUUxeTc3WkQ5WjJtNFRSZlRrV0VUamRha0R3V1JHTVV4b3NCREk2X1dMc0JmalhYOWg0UENuaTA?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd3VUcnVlVUR5VzF3cVBRd1k0NGZzQjdCWE9aRGs4UHZSRUpidnJmTktQa3dmUEp6bko2aHNYVDhHYUhTOC16THBTY0JjUm9majAtSnhKc3hMLWVKTllhYXZ1UWdPNXBpdUUzSVpxWHVTckFIT3BHZFJwTXRIQVNna1FDUjVRdlBFN3ZfczdiT3d2SElVOUswejJUd0lWZ214?oc=5"
     },
     {
       "headline": "Intuitive Surgical Stock Has Been Hit Hard in 2026. Is It Finally Time to Buy? - The Motley Fool",
       "source": "The Motley Fool",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOUhJU2szVDdfMnMzWUVXMHdsTlBja3NGME1ERHRocm9pYXlENWRrM0Y0VlJ3d2dOcmp2TDBkV2J2OUQ2OXkyN2ZSbjRuWmtDUkRzMndsNXZmU2ZNS2tLVFB1RFhING9JZUtpTU5uZ3E0T3FkbUxPUnJyb2FzcXVWbktvUGJycUtGb1p4bE9CZ1dieWVSUHJpZA?oc=5"
-    },
-    {
-      "headline": "Why is Intuitive Surgical stock sliding to a new 52-week low today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOWVwb2tqV3AxVXNFSWE2Q1pFd05EMUloTlJuMzR3b3FHcXpSSklVR3N6eVRHOE5sSHIzc3V1dkRfUzNONGZfd1dFbkM2YmNhQmYxWG5OdEMtNFAxeF9obVUxV0pOeWJvSmtYUEdkVjRZUTFWVGtYM2NKUlJ3Mi11cXlUWW5tbVpCNy1yZVhhVy13VmVmRmRudmViMHBLbnhkVFFNeXZTQ2pBbHJzOUY2ME8tSlZLRnNXZHdZbHp4c3pzUlFyWlE?oc=5"
     }
   ],
   "insight": "Tracking Intuitive Surgical (ISRG)."

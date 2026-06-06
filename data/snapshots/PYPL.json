@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-05T05:58:46.106Z",
-  "builtDateUTC": "2026-06-05",
+  "builtAt": "2026-06-06T05:30:18.733Z",
+  "builtDateUTC": "2026-06-06",
   "source": "yahoo-finance",
   "1m": [
-    50.38999938964844,
-    46.4900016784668,
     46.27000045776367,
     46.220001220703125,
     45.369998931884766,
@@ -24,11 +22,11 @@
     44.75,
     45.189998626708984,
     44.529998779296875,
-    42.61000061035156
+    42.61000061035156,
+    42.75,
+    41.290000915527344
   ],
   "6m": [
-    60.56999969482422,
-    60.560001373291016,
     61.220001220703125,
     61.83000183105469,
     62.689998626708984,
@@ -158,10 +156,11 @@
     44.75,
     45.189998626708984,
     44.529998779296875,
-    42.61000061035156
+    42.61000061035156,
+    42.75,
+    41.290000915527344
   ],
   "1y": [
-    72.47000122070312,
     73.43000030517578,
     73.55000305175781,
     74.76000213623047,
@@ -410,18 +409,14 @@
     44.75,
     45.189998626708984,
     44.529998779296875,
-    42.61000061035156
+    42.61000061035156,
+    42.75,
+    41.290000915527344
   ],
-  "lastClose": 42.61000061035156,
-  "oneYearReturn": -41.203256668113866,
+  "lastClose": 41.290000915527344,
+  "oneYearReturn": -43.76957545427522,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Palantir, XAI, PayPal, and Robinhood stock analysis - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnFLMV94dDNiSG4weWNFT1ZObWtUMUxhb0FpVE5aVE9GTGNyUzFCVE5sT3U1VEdfc2NqX1hIQm1ubUZ3Qk1yU2Q5VUROeXBDTjdsWS1CRlBpeERNdTBEUVpBUnJ4V2dpQ3lLWUtKaU9VQldQb19GRlBwWWZ3Q2hvNGtiRkxWVHYyRHc?oc=5"
-    },
     {
       "headline": "Is PayPal the Ultimate Asymmetric Fintech Bet at 8x Earnings? - Trefis",
       "source": "Trefis",
@@ -433,6 +428,12 @@
       "source": "Yahoo Finance",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1hhLUp6UGg2Q1RkQk8wSG9vQXpWbTU1c3MzVTFhMnM4U2xNUHdJTmdEM0R0Y2s1N1laQmFRNUcwTEdTWlRUMWRwOVZVVmQ2cUlvZFQybjNZQmpZRW91VE1mbmpwcFN5QTNidW9UZlRmRXRubUVucWlBSTBHWHY3a0hEcnd3S1NXenFuYVU4YkRaazB2VmRTb1VnV0xpUVYxWmtEbUVJMktlNEt5?oc=5"
+    },
+    {
+      "headline": "PayPal Holdings Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUzhURVlXb0lrdEs3ZW9JSWlja2hhOXBhZ1FuNFFXdy1TVFNEZE5QMU10S2JGeUl3VzEtNHNNZjVNTWJFeTJCVnhtaXlWdlhYUzM5Z2VTbVFNRzRybmR0OHp6NzVva2FfM1MxNXhPQ0hpbFMxMEY5VGhubDRsNWdWRm5KREU5MVRZc1F5Vk90ZUhhX1JwbG1yNThnYW5UbTVXUXd5am5IOGNGeUZlbHNmaUlfMUFEUjlEZlBfMzZOZ3N5akhOX29PQ1Z3ZjNSNEpa?oc=5"
     }
   ],
   "insight": "Tracking PayPal (PYPL)."
