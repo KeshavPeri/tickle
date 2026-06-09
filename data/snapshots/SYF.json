@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-08T06:18:51.439Z",
-  "builtDateUTC": "2026-06-08",
+  "builtAt": "2026-06-09T05:45:27.863Z",
+  "builtDateUTC": "2026-06-09",
   "source": "yahoo-finance",
   "1m": [
-    75.1500015258789,
     74,
     73.13999938964844,
     70.27999877929688,
@@ -24,10 +23,10 @@
     70.97000122070312,
     68.72000122070312,
     70.77999877929688,
-    70.83999633789062
+    70.83999633789062,
+    70.55000305175781
   ],
   "6m": [
-    76.51000213623047,
     76.94999694824219,
     77.36000061035156,
     78.05000305175781,
@@ -158,10 +157,10 @@
     70.97000122070312,
     68.72000122070312,
     70.77999877929688,
-    70.83999633789062
+    70.83999633789062,
+    70.55000305175781
   ],
   "1y": [
-    59.220001220703125,
     60.83000183105469,
     60.7599983215332,
     61.790000915527344,
@@ -411,29 +410,30 @@
     70.97000122070312,
     68.72000122070312,
     70.77999877929688,
-    70.83999633789062
+    70.83999633789062,
+    70.55000305175781
   ],
-  "lastClose": 70.83999633789062,
-  "oneYearReturn": 19.621740759311546,
+  "lastClose": 70.55000305175781,
+  "oneYearReturn": 15.978959276869379,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Loop Capital Initiates Coverage of Synchrony Financial (SYF) Stock - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLXZCZVNqTy05Mm52bmFjNWZOWGE3N2NvTHJ0ajZUNkpEclJkNm8tNDFLU2k0VTNRM3pkY0JTb21MNzhDazZzOUppY2IxWG9TaDdFYmFQWEp1OUM2VnZXcG44UE4zUlFCWFNyOHZhUHd3dDhKajRocnJSYmJGZGs4ZWtydExHcWJxc1pyaW5TTVdzVGthOVJLWDhWOXM1SW81SFROZjRUeDRaQQ?oc=5"
+    },
+    {
+      "headline": "Loop Capital Initiates Coverage of Synchrony Financial (SYF) Stock - insidermonkey.com",
+      "source": "insidermonkey.com",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1RTTTVtWTNEZWlPcXctVU1wakltcFlkR1dQZDh5VHgtRHVCWGJwMVlsdEtBUUxXWENGdkpqY0lZUDVzbTVlYmZPMDF5Qi0zWlBFcXprMVFGandXYzk0S2x6R1pnUWJZVkphRXBTUmRNV3lMclF3bjR6Nko5d1Izd0tNMFBwcHBPQVhmei12bGdKc21XaXFQLWtTcWV4RXJlVl9OTG5Ld05Uc29f0gG0AUFVX3lxTE1vdGVfX3VkR0I2QXJRdGNMbURZNE1hMWxyUEZGY0FBX1RqWmM2cXFsY0ZsVWpWZjQ1d0ZkN1ZOeDdRWHJuTDFJWEpJNHdXeDhoc2pKWHFicnJPX3c1MlpZWnE1aUdIQ1E3TWUyR0p0aDVfVTY3cERJS2hCUWJ0ZE05SzFIUkFocGN4RFpBV28wbkJsUHpqc0NrcVZlSlN4dWNQR0ljYVRqVkdRV0tDY2c2VmxSQQ?oc=5"
+    },
     {
       "headline": "Synchrony Financial stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ1puNlFTd3d4Z2FjVVBtRG9peEk4Z2xtRklHUzFVR1JVay16NFBUMll0MHVJUWFqSlRTellISGRvUFNrZEVqdVVXS2hjSmRhZTFOamNjTzhmQ0FRYUZZRnp3bVdRSlNnWEJJT1huTThDVWhQOXgwY3lmdVBlNkZtQ3pZUWtENThhUzNudDlPMXlQc1JmNFEzbjBxR0JCb1ViZVI4UzZnaHlsY3FqX25SOW9jVVp3Qmc0UWw1MUJOeUdxVWxib0ZtNERlYw?oc=5"
-    },
-    {
-      "headline": "What Synchrony Financial (SYF)'s Perpetual Offering and CareCredit eCommerce Push Mean For Shareholders - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-06",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUWpJV0N1NWNiYXh5MXFMb3FBd2w3QjAtdGswakJWeTJBanJsR3Itc2VlQjR6LThOLVJmNHhDTGFVWjV0TE9WR1kxRWx0SklrckVmUkthdkFISFlieGJyUVMxU3RBQm5qemd2Mzl1X2ZtOVcydlVuWDcxZTgyNDNrVlg2dFhhZkM4Q2hyTjkxU2pKRklBS3dnaDhwZzluTHRiUzNNQmJfcmxHZmtPd2JUa1JLWWItWGtCdEFwdXkzeHVqNzgxTVJEb2tsT2hsRUljdW1kRENSSHR3alBtQzFWeWVEUdIB6AFBVV95cUxNSUszWktHZmpFR1NXM2lneWVlcmRzdUpOY3JHVW9YcWNKaE53b0l5RFpCemRUUmtvY01HUm1CQ0k1ekFfeExTaVIxQ3VEMDU5UXgxU2ZoWVBlWm5jdGNmM0ZqakJ3Zlppa00xSWxvbmU1UGdoTTJaZVJqeHV0bzdUS3VGR2w0b2V0dHpET0VBWUhYMHBmMjNRVnBVT3pVUVdWUjZLQjZ6X0czODZIZGZvRjdSQVIwSFFsbmxXMWhhYV80QWprRTZuaEJvQWVyUlBjenhQQWZpcjk1ZnNsbVNvMnN2V1g1aEx5?oc=5"
-    },
-    {
-      "headline": "Why Synchrony Financial (SYF) Shares Are Trading Lower Today - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-02-27",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDFpc0F4dE9RYnVRMFMxTURiOVUtTXZLRTZSWVpRdUZ1TFpONHVicU1HejBiVjZQZzVuTERWR2xNVUZKR3FIaEdtUldSRTZWX2l6bXd6YjlBLW45YlhFNnQycHdTY01GWVdJRzVQUkExQTEtSFdJcWdHR3c3bS1feHktaGQtVGc?oc=5"
     }
   ],
   "insight": "Tracking Synchrony Financial (SYF)."

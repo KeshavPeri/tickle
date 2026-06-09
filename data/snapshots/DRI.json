@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-08T06:18:23.821Z",
-  "builtDateUTC": "2026-06-08",
+  "builtAt": "2026-06-09T05:45:02.906Z",
+  "builtDateUTC": "2026-06-09",
   "source": "yahoo-finance",
   "1m": [
-    195.6999969482422,
     195.1699981689453,
     196.22999572753906,
     195.8000030517578,
@@ -24,10 +23,10 @@
     198.27000427246094,
     198.27000427246094,
     193.4600067138672,
-    198.1199951171875
+    198.1199951171875,
+    196
   ],
   "6m": [
-    179.27999877929688,
     180,
     179.5800018310547,
     173.94000244140625,
@@ -158,10 +157,10 @@
     198.27000427246094,
     198.27000427246094,
     193.4600067138672,
-    198.1199951171875
+    198.1199951171875,
+    196
   ],
   "1y": [
-    217.52999877929688,
     219.6999969482422,
     216.1999969482422,
     217.6699981689453,
@@ -411,29 +410,30 @@
     198.27000427246094,
     198.27000427246094,
     193.4600067138672,
-    198.1199951171875
+    198.1199951171875,
+    196
   ],
-  "lastClose": 198.1199951171875,
-  "oneYearReturn": -8.922908918784353,
+  "lastClose": 196,
+  "oneYearReturn": -10.787436175443156,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Commonwealth Equity Services LLC Has $5.64 Million Stock Position in Darden Restaurants, Inc. $DRI - MarketBeat",
+      "headline": "Darden Restaurants Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeVA2dTB5SzJMUWJENS1ya0Y4WEZSa1FfV2NESnhjMXBmVGt6d2ZfSThGTllLUDlrTzdMdEZlQVRFRGFmMWxOTFZGeXdrT3UxLThoZ0p3ZWJpSy1Dd1RWNElZNTVfQTVYejkzVlltM1VlMHdoaUFhNHF6LUFGeHEtaUxFMU85SEN6MFJyajVRd1lIc2pYWVpSaGZwRGd5aFR4TXB3Nkc3NWNWLXVwOHl6NkkzVE5Ici11M2hJY1FjYlRveUJJWTVoZlVISFpoTUkzQVM2M1FmZ1h3dGFfM2ZkZzI3RGF2YktWSWtqUw?oc=5"
+    },
+    {
+      "headline": "ING Groep NV Acquires Shares of 49,932 Darden Restaurants, Inc. $DRI - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-06-07",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEVOMTBEai1obkhVNzY3TVBwZnhDMTByZkM4c3JHUmsxTXhvYlpZdHVpUlJFUmJGS3VHZ0t2cmhpb0h2ekVrNnpremVlZ2dqVDBEUWU2YTZsNzBvUkQ5RlNzTkEyNUpzTl9uX20zYWlyWXBnbnlLQ1BHeTR0aDYyQ0F6ckVMNkc1WHdhemp2RmU2c00ydnVWLUh6VkxDNzFUaFlwSzc4UFMzOHFmU1NCanlONnNQb2NnSEZkMUR1YWw1V3gyZHlsRl9KcGszWklndi00NkdyWVBnSUNmQ1BOLUtrZG9wbGp6YXc?oc=5"
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYlZWYjNxNHhiT3FBdmhsendMdFFEeDZJcWd6cU1QSkNFLTlNbEJyVU12VzU2eFg1X1pILUdocE9rOWdzaWExdVVKOGRLQnRaeXpOTjVhSXZCY1NEOWhDZXVoY3QtT2lxcjA4b1U3ODJNOEVDUDNXWUFIaC1DNHRkMU92ZDZJd2loaHV3amhSTERfQndOU0RtWi1vWkJ1V3BlWWg0SGloVVRUOFNockN1Z1V1QktGa0pyWDcwVGM1SVR4MlU?oc=5"
     },
     {
       "headline": "Is It Time To Reconsider Darden Restaurants (DRI) After Recent Share Price Swings? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQejhRbmhaNWRocXJGVzl0bDBLM1dtUElZQWtOVXRXYXJoZnhJZHhSNjQyaE84Z2k0WnN5TE5jMTFrX3VCWTNnb2FtT2NVRWNBV0l5QmhzVXhLdVVSVTZYVU1CZHJYY3VaYTd3Y1I0amFNYlpicmZpUF9zTmk4bEZpRzFRejRJOVg4cFU1QmhqTFJDNEhSb1FOREJxR2U0SEUzZmY5QUU2eGlFXzFHX3FLMURHV3p4WTlwejdjS0o2b3dqTlBBLVVGR3daa3BvdC0zd1ZrMC1oQkFrajjSAeABQVVfeXFMTjItZ2Fmdkx6MTA1V24yTUZudEx2bEd5OVFmYWhZdjJkWXdWbmUxMWhMUVpjcWJaRDM5aS1EWXZsVWtTWFR4OGQxMkZNbU1OQTU3ajNoNEdjTVl6QlhLTEtMelFDQWtFWnZBbjBRMnllODV3bFJ3a2JDY1hmOVc5SXdYNjdJbFB4UEVDUmlpQjVhNnk5SnVidTV5VU5ldXZyUERzN3h3ZUpNa3pUZ2lkSS0yZWNSbm55eHJVMXR3UDIzU0tXdVhOaHhqdzVqNG8xSlQ0TVAxMzZoMl9YYWo1SEk?oc=5"
-    },
-    {
-      "headline": "Is Darden Restaurants (DRI) Stock Outpacing Its Retail-Wholesale Peers This Year? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTzNveGtNcmI5OWd3VVhJSHJoMjMyZVNlQlhFcGctRG83Y05RalowT2RRakRua3Rjb0VoM0dtcjZtemdfSlVnMkZhdzhmQUFqQ2hZQVp2WnRfVlVmNDFoZWh0dnFyQzFmNUdzZXh5bldhdElLSE10Qkk3RTEzc0dGOHF6VEZiaHZQMF85T0lONVZlUTZsOFVhQlhMUllCZC1uYmlVOVV3?oc=5"
     }
   ],
   "insight": "Tracking Darden Restaurants (DRI)."

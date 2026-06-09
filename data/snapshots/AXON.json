@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-08T06:18:10.862Z",
-  "builtDateUTC": "2026-06-08",
+  "builtAt": "2026-06-09T05:44:51.629Z",
+  "builtDateUTC": "2026-06-09",
   "source": "yahoo-finance",
   "1m": [
-    385.8599853515625,
     426.8900146484375,
     403.5400085449219,
     394.3599853515625,
@@ -24,10 +23,10 @@
     490.1199951171875,
     481.4800109863281,
     513.2000122070312,
-    486.1199951171875
+    486.1199951171875,
+    471.05999755859375
   ],
   "6m": [
-    528.8900146484375,
     533.1699829101562,
     540.1400146484375,
     533.2100219726562,
@@ -158,10 +157,10 @@
     490.1199951171875,
     481.4800109863281,
     513.2000122070312,
-    486.1199951171875
+    486.1199951171875,
+    471.05999755859375
   ],
   "1y": [
-    791.8499755859375,
     783.7999877929688,
     762.6599731445312,
     778.3599853515625,
@@ -411,29 +410,30 @@
     490.1199951171875,
     481.4800109863281,
     513.2000122070312,
-    486.1199951171875
+    486.1199951171875,
+    471.05999755859375
   ],
-  "lastClose": 486.1199951171875,
-  "oneYearReturn": -38.60958387256651,
+  "lastClose": 471.05999755859375,
+  "oneYearReturn": -39.900484193038984,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "AXON - Axon Enterprise Inc Stock Price and Quote - Finviz",
-      "source": "Finviz",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NMUZPeV83UVNqOWZ4N1FHd3M2Z2RLcFdlTDREbURtbFdNZEpYYWFhcnpHYnAzWUlQQlltUk1iNzhWeUZheHc?oc=5"
+      "headline": "Axon Enterprise(AXON.US) Officer Sells US$6.35 Million in Common Stock - Moomoo",
+      "source": "Moomoo",
+      "when": "2026-06-09",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUWVRRkJ2Q2dhbjFOeFFDbF9pT0hVR1U3ZXVlbkNWMERhWG1rd05OQTZTT2s5bkFYWTc3bHowVXNkdkV3Rm5hTWNLU2kwbXFCZlZGZHZySFBRUzI0VW9EUjRScGg0cHlaWENjODI4RmlPUFpYVkhRNG54dS1Ud215ZVJNY3pWNzQzVjhON29mdzNZbjJ4WXM1bzFXTWxKdw?oc=5"
     },
     {
-      "headline": "Axon Enterprise Stock Surges 7% As Strong Earnings and AI Growth Drive A Long-Awaited Rebound - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd1p5R21MQ29vbEl0WlRKZ1pQNHREVk9TdWJBallUMXFDUzhfeHBHQmx4cnNfUGhBTm9UTS14Rzl5WHBEM0JPbkdneThKZy03X1dGSDJHWmRCZmEyQTlXUjFBS0JTUnp5XzZ4RXVrY1VGckE2N3NOVzBwMjVyWWEtTkEyYVNFMEg3U1BMbzdBaDZ1MTdGV1VkNUFmMjJCM18wQk9jSnNvTmlNUDlGemNGY0pTY1JFV1NCdlpQUmdDTko4S1k?oc=5"
+      "headline": "Axon chief human officer sells $753,690 in Axon stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYndUcUZtRFQxaGZwbVJiZ29mRXJjNHU3RUN3MlZQMlcyM2Qwa2VycWJlZWttYVBPMXphMDBDb0tDNTFEd3pFanhQaGVZcXQzVmU3Y0pJMWhZWThoOU1UNEQxVDZJdV9aUjhmNm1kMkZsZzlHTnoyU1JEcGhxRF9XXzBuOHdCWUdmcklEeGIwUFltTktlODFNeUVCUXllNEtHd21kY0p3dXl5M2xfaERrMHZaQ0xXZ2c4SV9OUFVzWmNJQQ?oc=5"
     },
     {
-      "headline": "Why Axon Enterprise (AXON) Is Up 8.3% After Expanding Its Drone Ecosystem With Echodyne - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-07",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM3RuUFVOdDNjd2kzRDlsZlRUOU9aY0JlQ2lESW9hZnJCTmtuQkUtYnZHOUhRRVVRSk4xSVlvX0RkcndidmxLbHNDY3hjaVpiMzZuYXFVNnFDOW5mbWU0VWtfUnFnUFk3c2Z6QUJoaXR0bFhxeEhZdWkyRzA2R29IbWlCbVRobzc0bF96M0IxcF81SmwtSkltbGpaYmJXQTFUV1U0UjBkMlVQY2Z3eWducGNUaWw0UjVBdlpEQ0FaNUo1MVhBTFE5VTBtVWluWGswaUdLR9IB2gFBVV95cUxOM05oMlg3LTJkSU9Ga3lfbDBna2Q0TEQxTDF1RkFBd25oVVloTjZ0UGRRbDdwV05rc0FBVzJmQ2pQckFoQ084bFppZVRXRXdYM0Z3cFRLWXhCeWMyVmRYTkJBMVIyYTJTYVQ5YVkzS25lMXpGYzkyaDBsUjRoNUo3RE1yVUdDTmVIcDF5VDJDS0xmUXRkODJKbWs5WFR3bUgxSFlqMGpOd3RRc0U2R2VjV2ltcDRxdm4tTHJ0R0NjT3I2Q082WEhTNmFtQWhmaVZxeUJWd19kQTJ1UQ?oc=5"
+      "headline": "Axon Rises 23.3% in a Month: Should Investors Bet on the Stock Now? - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjNSSXVLeVd2VkdMOE5ROEdVNUZOTnl0M3JsYlduY05ZNGp3MERkTFBuSzNibVN2aVhtdjE3UHRXNU1sUUxtWnZDMFhLTzA1QU9JaWZVbnV3RTE4N2NSWFByRG9GVzdZa1E0bXlacW4yQVF1b0VOTVV5RDZSdkNzZGoxSDFqS3FmeVRSeXQ0OWpxZmJRQTdsQUdwc1VLcjdSTGdpVXdPZ0JFd3hwdlY3azZ0OVNLdk5tMnJYdw?oc=5"
     }
   ],
   "insight": "Tracking Axon Enterprise (AXON)."

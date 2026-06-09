@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-08T06:18:54.352Z",
-  "builtDateUTC": "2026-06-08",
+  "builtAt": "2026-06-09T05:45:30.384Z",
+  "builtDateUTC": "2026-06-09",
   "source": "yahoo-finance",
   "1m": [
-    289.44000244140625,
     285.239990234375,
     287.79998779296875,
     297.760009765625,
@@ -24,10 +23,10 @@
     308.1199951171875,
     308.5899963378906,
     305.3699951171875,
-    285.05999755859375
+    285.05999755859375,
+    290.8999938964844
   ],
   "6m": [
-    161.77000427246094,
     165.35000610351562,
     168.27000427246094,
     168.16000366210938,
@@ -158,10 +157,10 @@
     308.1199951171875,
     308.5899963378906,
     305.3699951171875,
-    285.05999755859375
+    285.05999755859375,
+    290.8999938964844
   ],
   "1y": [
-    192.4199981689453,
     199.2100067138672,
     202.2899932861328,
     199.69000244140625,
@@ -411,12 +410,19 @@
     308.1199951171875,
     308.5899963378906,
     305.3699951171875,
-    285.05999755859375
+    285.05999755859375,
+    290.8999938964844
   ],
-  "lastClose": 285.05999755859375,
-  "oneYearReturn": 48.14468364577691,
+  "lastClose": 290.8999938964844,
+  "oneYearReturn": 46.026797897916325,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Texas Instruments Stock Up 69% in Six Months: Should You Invest More? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdHhBWS1WSk83RklTcEJBTFlJX2V0SG9ENDhFT1JzQlozUFFPR0s5ajNzeVBsR3dsQzJReEU3NU8yeGhxbWREVnI2Tmc0bU5NRlBybnBtTW9FMDlrNWM2MXNmUnhCX1JWc3VKV3laa0daVHpfdHFnYVR3NmJsXzJhd01mUXhEbFdPQ2J5NVd0M3JpaXJYYWJOZ3NiZw?oc=5"
+    },
     {
       "headline": "Texas Instruments stock hits all-time high at 287.98 USD - Investing.com",
       "source": "Investing.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLW9FXzdhSktOaUVwX29pbmZ5TnRkOW1XX1R4VC1qQjBDbDVsalp1V3JXSnliTTYtcXV3UjFEQ3MxN2hFNVE0MjhSOC1HbVN0TndKMEtBR1A4T2poU3JEQnBTRkVWV25faThYUVJpX3N6ay1aaGdLNGxrdDhVQUJIOUNmU2dtOWM0cmpCYTM2UFYycXoxd05SSTY3THBXRE5UY05BeFJ5VUVNSU9GUHBLbg?oc=5"
     },
     {
-      "headline": "Texas Instruments (TXN) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaWJVeTV1VEZhbU41RXRoZnBWMnh6ZnpUMGYyd0pEb21jSmZYbWhiWTItb0c4dXMyRkx2NGRxcm9oTTVEcDRSREVfUVRFUnNHdjBIRVVEeWJhbW1mNENkdl82QWx6azVHRE8zQ05qUTBybVZIOHB4a3NHMnNZZTRqb1lrTlVWY2oycHlzZlRRWTF4OU5BLVdhYVZadlVYQQ?oc=5"
-    },
-    {
-      "headline": "Texas Instruments Stock’s Rally Is Asking One Big Question - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZlVBbjAxbEZ3XzhFV21JOGh1R0s2ZU1CUUttZ1hsMHpOWTZpakFfV0pHVTl6Nmp0U0dDMFB2RjRrYW4xa0xsbExHaF9zSmEwamVjSnJsVXJVRFNRYVk3bkZhRGVIc0NtY2l6WksyeTVRbW1mSTlnM0gzNlVzV2NyN1FHUmZfRmIxY0NYQlpHX3JhVXpJdVBodjlMUjV4dnViTUU4TTZtRzVXdXVyQy1Ma1ZPanJ1TDVB?oc=5"
+      "headline": "Texas Instruments and Universal Display Shares Skyrocket, What You Need To Know - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMEp3NkpqYlFoVHBTWDh3UFFwenlnelZSTFBOM2dvUmhYek1qNU5ESDZKWUVqQkRpdXE5OThOWHRURHdrc3Z5cmtJaW5Yb3J5OUFNYXpYOWJydm40VmZVZmpsSThyeXNrTTEwNzFXM05hdGxTeWNxR3lPREFYWk9xN0NfNjZUdlhpX29xQ3FBVmY1Y2d0ZXoyZWh2Z200OXFTX2NGTFhRcVFfdENhZDBSWkFtVTd6VzhwUGpoOElNRENnR2RESnJ6ODVvZDJ3a2V6YnJYd1F5UzhxOGZqbXN1clRmUmJQRGNJaENwMVkzNFVDRVB4?oc=5"
     }
   ],
   "insight": "Tracking Texas Instruments (TXN)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-08T06:18:28.376Z",
-  "builtDateUTC": "2026-06-08",
+  "builtAt": "2026-06-09T05:45:07.600Z",
+  "builtDateUTC": "2026-06-09",
   "source": "yahoo-finance",
   "1m": [
-    44.709999084472656,
     44.36000061035156,
     44.16999816894531,
     43.29999923706055,
@@ -24,10 +23,10 @@
     44.72999954223633,
     46.459999084472656,
     47.15999984741211,
-    46.790000915527344
+    46.790000915527344,
+    46
   ],
   "6m": [
-    40.09000015258789,
     40.29999923706055,
     40.400001525878906,
     40.150001525878906,
@@ -158,10 +157,10 @@
     44.72999954223633,
     46.459999084472656,
     47.15999984741211,
-    46.790000915527344
+    46.790000915527344,
+    46
   ],
   "1y": [
-    42.060001373291016,
     42.130001068115234,
     42.720001220703125,
     42.650001525878906,
@@ -411,29 +410,30 @@
     44.72999954223633,
     46.459999084472656,
     47.15999984741211,
-    46.790000915527344
+    46.790000915527344,
+    46
   ],
-  "lastClose": 46.790000915527344,
-  "oneYearReturn": 11.245837821679142,
+  "lastClose": 46,
+  "oneYearReturn": 9.185850543008062,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Fastenal (FAST) Valuation Check As Shares Move On Recent Price Action - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXNMZGp0dWZEOG8xR3NQaThlZWkxOWp5cDlNT2Z5aVdOZUh1d253aFl3a0wxcngzSm9XcnV4ODdJYUtmdnZFVW04S1hXMjgxX0xJTEhMcnFSWDQ3eFlFM3YwYWxZWEZxS1BsQkhfcmo3ckpNMFZ4dVkybE1vRlJaQ08zOXM4T1ExbjB0U253TFZHRFFwb25GbVlTQVBERXZ2SDVJ?oc=5"
+      "headline": "Fastenal Co. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNXo1LTBGZGpCTDFEQ1pIUkkzektMbzVjcmdvdUNjaGY1eWtBRHhXakNLSEZ0UGhwMWhWeXRHRDNiOXRlMFF0MzIzQ0JiVkFtOUZyVXJCdmV5d1pGd0FWa2NLbkE0bzJxOGpFLVlMdDFCX1NLcXF6dk9lQ2pFMV8wZEVuOWJCVUtmazhzTlhUUmpoQTRaNHA2VWZGT0w1R3V0M1NMaFdiRllyTFRWYS1QRlNna3lMSk9EdHhRMjllLXB4dlRzTmh5TGtvaXhORXNXb3dPS0VUYlRsOHRxWXc?oc=5"
     },
     {
-      "headline": "Natixis Advisors LLC Cuts Stock Holdings in Fastenal Company $FAST - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-07",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNTRaTEx2RmszcHRVdGFLYXp0bzBYOHo5MEFfN3JNQ19uR25WWU9IYWQ0bjRqLTctTXVtaTRrLVozckttaGRtM0VIRzMzekI4MHpzUElISV9Zd21mTDhYNEp4WXpJRVY3Wk1GWl9jTGxPWEVNWm42V01rV21vX1RWdDAwMHVtNUFQSDhWVVZCQzJscmNEUDBBaWVIUnUyeTdqbUdfSXkxVktqYmxkQVcwRWloNGRCRW5EeFdzYThKRmc0X0tP?oc=5"
+      "headline": "Fastenal (FAST) Valuation Check As Supply Chain Push And Q1 2026 Margins Support Investor Optimism - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUTNfa0JsWmpobDl3bVBMTDJ0MmZaQVlVeHROU0J2U2FRSTZ6X25JSTI0RVVJYl8zUWhDM3NnZFc2ZTZqNTNZQUVQa1RKWk5jVWtNTHluY3ZfWllteC1BZEEyRnhRT0VXRjh2ZGtZVU16Tno3OXVYLXgtaUVBczVpS1pJVzg0R3VrQnVDUnZ4Q1BNUmk3MHVaMFFCUnRHdVlUMlZPNkItYnhIM1ZRcVBHNGlpX1RjVVhGazE2c0doeXQ0U21aeVM2WEl5cDTSAdIBQVVfeXFMT0NLQmRXSmpvTkZXUXVFRkVzUWtFMmZEXzd4X2Z2el9GeFNKZXhmOUNTNVJFU3Q4dWxUVEtFRDViOFp0UGt2aW5yeDRXdndSRksyNVgtekVrZFo3cUl2aThMY1ZDZk5lOWU5MmFGQU9RT20tUjlDWFhhS2dIQmNjMlpkRGpuRExodVNsbmQ4VFRIMEsxcU1lMTlhVE9OQVhqM1lRTlNDX2JCWjk4Y3JGNmdHTWJQOFF4bjJaZHoxcWluQUV1MEc5Ym1TQ2NmUkNNMFJ3?oc=5"
     },
     {
-      "headline": "Fastenal Stock Near 52-Week Low While April Sales Accelerate: Is FAST Worth Buying at $44? - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-05-25",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbEtqY3ZrbmdoZzRLZ3c1NmJsRGZXckRoNDZQWUFLRzBPMTZkLXdMa1Y3a3ptZFdSQU9PdVRDcE85V3p4dE1ZZlhpNkljc3l5Qk9EczNzQkhONnBuQmljMXAySGMxZ2ZDMDVmeDhjR3BHaEFXeWdVZVNNY2MySzk4SGFmSTZXTnRqMkRPR3RqWEppN3ZYODJKVmUtNDN1em9CQlh5YVRDSy1uemNCZl96UHF5UQ?oc=5"
+      "headline": "Fastenal Co (FAST) Stock Price, Trades & News - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BYzVoaWdSay0zTm1oZzNzNGxtdjJ5cjc0TmRGb3c0TENUZ2Mxc1p2OGtLaWRXc0FjMW5QYlRoR1FacFpTYldXaWo5QVQzV2FUVkN3dnFtbw?oc=5"
     }
   ],
   "insight": "Tracking Fastenal (FAST)."

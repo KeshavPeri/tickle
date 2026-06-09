@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-08T06:18:19.697Z",
-  "builtDateUTC": "2026-06-08",
+  "builtAt": "2026-06-09T05:44:59.308Z",
+  "builtDateUTC": "2026-06-09",
   "source": "yahoo-finance",
   "1m": [
-    181.19000244140625,
     186.33999633789062,
     181.82000732421875,
     177.49000549316406,
@@ -24,10 +23,10 @@
     200.83999633789062,
     190.61000061035156,
     188.75,
-    185.66000366210938
+    185.66000366210938,
+    182.5500030517578
   ],
   "6m": [
-    234.1199951171875,
     228.14999389648438,
     230.5399932861328,
     232.8300018310547,
@@ -158,10 +157,10 @@
     200.83999633789062,
     190.61000061035156,
     188.75,
-    185.66000366210938
+    185.66000366210938,
+    182.5500030517578
   ],
   "1y": [
-    274.510009765625,
     272.25,
     268.2200012207031,
     265.9100036621094,
@@ -411,29 +410,30 @@
     200.83999633789062,
     190.61000061035156,
     188.75,
-    185.66000366210938
+    185.66000366210938,
+    182.5500030517578
   ],
-  "lastClose": 185.66000366210938,
-  "oneYearReturn": -32.366763667151965,
+  "lastClose": 182.5500030517578,
+  "oneYearReturn": -32.94765728126435,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Jim Cramer Details a Dramatic Trading Session for Salesforce - Yahoo Finance",
+      "headline": "Salesforce Stock Plummets 13% With 5-Day Losing Streak - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-09",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHBiOHZKOENfM05RZ2FKWjhocjMtS1ZKZWM5MV9aWHljS1pJNDBLcjBSR3V1Wk8yMndDdG9ScG5IU0hER01OcHhoRVVDQV9uT2dsOUNyZmhUOExtU0UxcTNvVlV6OTJYMkxZYVdONEdWTm4tY2VMeGdHS3FMLXNEWk02TVdSeWFjQ1VNUTFzZW5wS0s4TjB0Q1JKemZNbmRPTkNtQ05faG82X1dMTmd0ZGdCc25CMW9ydmhzcEJiYw?oc=5"
+    },
+    {
+      "headline": "Is Salesforce or ServiceNow a Better Stock to Buy Right Now? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVlqUE9pUlhsSk5KMG5fVlNBeDYwRzFiSG50ZzhqSDY1TU9xMjhSS2Z6aklwN3habmQ0Y25yVndMRGdKaEt1X0VKa2s1QllhUFNJZ1VFVzNIZXlFZVNNbmtoTm1nanlJNkcwN1pZaW1WZ2lKLVA0eXl3cGNFNHhLWkZoM1FVbExtR2M3NjhETC02STRZRzBnaGlLc1ZVbTUxUWc?oc=5"
-    },
-    {
-      "headline": "Is Salesforce or ServiceNow a Better Stock to Buy Right Now? - The Motley Fool",
-      "source": "The Motley Fool",
       "when": "2026-06-06",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVVOSUNLMVNSMnJ5TjB3NHFMbm80Z2NRRXRhZDlZOGJWOFBFTU1FQzRvSHZNVVJXU2JsVWF6NEpEcVNyOUp0ZkpxYWdSV1RTTkJJZlNmNVVndjBtQ19aR0pNUUp2ME54SGxyTlRXajZIM2ZGR0xpN0p5cjhCODRPZXhKdE9wcGdIQUdEQXB2VU9CdktxY3Nr?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1hIUW1QaVZGaEN6dXhfZUxOZjlKaEVwTXFheXZsWlBDVDE2WTdmczNIUUdRRjlIQjV3OG1DbE1ZUkdvQWhybzQtME9Uby1scHRGaktnT29VU2t6R3F3NFE2YnBadkhWa1JWXzVaNmdlZVJIaGQxOVRiTktRY1loSGZiWVhCa0d5Mk9qMENpNDFGeEg2V3kyU1kwRGhFSWlKSVY3MlpB?oc=5"
     },
     {
-      "headline": "Jim Cramer’s 15 Stock Calls, Including Salesforce and Cisco, and Possible Opportunities - Insider Monkey",
-      "source": "Insider Monkey",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkVPUVc3NWJoMldpTzNoUDlhaDBoNXVQb203d2NRbnAtNmgyWGVaTm5lY2JsX1RXQ1ViX0FNYS12NkRTaW5EdWFiU1dsM0FUdk9OVnFDR1ROaVg4OF9WdVFLdmh0RkJUQ2cySkxCUnF6dmNNaUJWRTBtMWEwYl95TVdzUmpVRVZrbmR4aC1uVlNrMk9zYTU3WGUybllQZk1yZThGa0liXzlOQmkxelNOV3gzc2h5dnl3b0x5TzRvVFp5YVJsZUtr0gHPAUFVX3lxTFBPVW1VQkpjR1FSdF9GVDMxdThpeWhMeVVlcWstNWZYOWltMTB5YlBjM0JxUHZDcms1aHEtZG9DTGExXy00N2pOQkJCNEs1STF2RlRuWTNVRG5teTF5S2c3REx6a2FLV3g1TngzMHJjeUVHMTR1Yk0xcEVWR1hnTjNSUjE1X2pUbmVCMXZWVkEzNV9IMkZ3U29pTmxvU3lJWF9fbkRHb2FfTVhVN2ZnZ01TaUVJa1VnYTdnNUxsb3M5MmRzWkZ3NmRkWldFUXVJNA?oc=5"
+      "headline": "Salesforce acquires M3ter; signals AI pricing model shift as stock falls - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDd6VUVseGlxUDhzSlQ3SXN5UTMtWUY3dVNnTWVyN2R4OVZmcUVQRF9reUR4VkgwRDNVOUE2RXpvM2J0MGd1Y3hZWmg5UVFjeVE1VFI1UGdvc2xFRjJVallaZGN5RzdHd2xvZExHSy02LVFTemNPWkhqMVhKYWlaMC1iM3BpeFc5WktSS1ZiT0N2dUtPcVY4R2I5ZG43ZDBreEk5d0FHOUtWT1ZPY1E?oc=5"
     }
   ],
   "insight": "Tracking Salesforce (CRM)."

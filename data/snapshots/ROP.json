@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-08T06:18:49.645Z",
-  "builtDateUTC": "2026-06-08",
+  "builtAt": "2026-06-09T05:45:26.132Z",
+  "builtDateUTC": "2026-06-09",
   "source": "yahoo-finance",
   "1m": [
-    350.260009765625,
     352.44000244140625,
     343.32000732421875,
     328.79998779296875,
@@ -24,10 +23,10 @@
     336.5,
     331.70001220703125,
     331.79998779296875,
-    332.17999267578125
+    332.17999267578125,
+    333.75
   ],
   "6m": [
-    446.4100036621094,
     446.0799865722656,
     446.2200012207031,
     443.5799865722656,
@@ -158,10 +157,10 @@
     336.5,
     331.70001220703125,
     331.79998779296875,
-    332.17999267578125
+    332.17999267578125,
+    333.75
   ],
   "1y": [
-    572.8699951171875,
     573.0800170898438,
     572.1799926757812,
     569.5599975585938,
@@ -411,18 +410,13 @@
     336.5,
     331.70001220703125,
     331.79998779296875,
-    332.17999267578125
+    332.17999267578125,
+    333.75
   ],
-  "lastClose": 332.17999267578125,
-  "oneYearReturn": -42.014768532635436,
+  "lastClose": 333.75,
+  "oneYearReturn": -41.7620593900979,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Is Roper Technologies (ROP) Offering An Opportunity After Its 41.6% Twelve-Month Share Price Decline - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-07",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTG40dlcwVUs3YmJHTFdsUTZndUVlNnpzRDd3dmNBUjlLVWNWUzhkeG5HdjlzOU4zSXRnLUJrNGJ6X21OR05DakVZTVhyanZPU1NHZlJPTFhVdEFIaEgyR1dIdmc0cno4SnZOVnlWejkwSmFUdUpwYjBQdGotM0gtVFBKY1hSS0p1WjcxeEhWdTc1TmxEanIyYkdCVjM3UTNyTEE4OVB4ZHV5RmRl?oc=5"
-    },
     {
       "headline": "Is Roper Technologies Stock Underperforming the Nasdaq? - Barchart.com",
       "source": "Barchart.com",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc3Z4UFZSbWhwSFlPdDhvZVFDbkJFY211UUppbmQ3bmVDVDdnc01XSUp5dXFoVGRKLUJLMFpycklKcHEtOHF3YXU2VWtpN1luTjdTWjlDOFpfMkd5NGF0aXI0N2tRUEpZT0wwNGNOemlfMmpWQW9SMXNGSi1ZQjdGZC1uTUYzN0t3MWdvekVab25QOXJfakxPSG91eXRrSWs?oc=5"
     },
     {
-      "headline": "WINTON GROUP Ltd Boosts Stock Position in Roper Technologies, Inc. $ROP - MarketBeat",
-      "source": "MarketBeat",
+      "headline": "Is Roper Technologies (ROP) Offering An Opportunity After Its 41.6% Twelve-Month Share Price Decline - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-06-07",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNkdzQXY1aTlmeEdpbkVDaWFQNUx3OUFEREMwM0I3UTAtV1hhQi1BNmcydmtPZjhaanU3X0xLTFZWNVVLM01NOC1EdXAyakFYRmRaMURBUlZkb0tuQUFoT3FYTXR2REZERG9ZdmpEQ2NId3pseldIQldYLXBUNlkxdHVYSzN2VFFBUWV3WmdKTTZzcGdmNDNvRnk0OTJkckQtVl9nTkowd05VZlJ0TGVGTTNwSzcwalVaTFk4Zkd5UHIyUlhmREtQSg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTG40dlcwVUs3YmJHTFdsUTZndUVlNnpzRDd3dmNBUjlLVWNWUzhkeG5HdjlzOU4zSXRnLUJrNGJ6X21OR05DakVZTVhyanZPU1NHZlJPTFhVdEFIaEgyR1dIdmc0cno4SnZOVnlWejkwSmFUdUpwYjBQdGotM0gtVFBKY1hSS0p1WjcxeEhWdTc1TmxEanIyYkdCVjM3UTNyTEE4OVB4ZHV5RmRl?oc=5"
+    },
+    {
+      "headline": "Is Roper Technologies (ROP) Now Offering Value After A 41.6% Twelve Month Share Price Fall - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-06",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ1I1cU0wVFlLMnMxVktiOHRyYS1yYjFERm13b2toSl9TTUZfSHlqRjVEN0RSUVpfMDBpUk1EYjR5UHVkVUFoc3hMbzlOX0E5d1p0SnJLLXhyS3U5UjVLeC0zeF95dnZxSzJFU1JGSE0xTDU2SWIwNlY2YmpQVkw0MlpDdV94THhJdTNuVTRVRXNGdl9Kb19fMDB2WDFsa2tPYW8wU2R4c0QwbGsxNDJORVhGdjI5WHplZzk4RlFpY2pDZkM3Q01Xanp6cFk2dkhyTmfSAdcBQVVfeXFMTjZ0cEw5WGhjUHJhVU1GejdzYmczNUlpSnpkREM1SkJjdkU2REsxVFg3U09Zbnd0RUtWWk1Yb1VmT2Y1VjJvcXNrclc5N2F0RUIyTzJLQ0hCdENINTNja1VqaTUxUGpkNWpRV3VLTWdIQlBrTmV2SS1ELUVHYXBSTnhhbUU1Slg3NTB4Y0liSWh0V0J6UmxqN2Y5aEFvdUFiQUQ2Q3RqamJQemdERDBrdWVrdkh4SHQtcDQ4N1NUc3cwazl1RVJvUzJSY2Y4Z2hBY2FVZUt3cHc?oc=5"
     }
   ],
   "insight": "Tracking Roper Technologies (ROP)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-08T06:18:30.388Z",
-  "builtDateUTC": "2026-06-08",
+  "builtAt": "2026-06-09T05:45:09.401Z",
+  "builtDateUTC": "2026-06-09",
   "source": "yahoo-finance",
   "1m": [
-    60.400001525878906,
     60.900001525878906,
     60.43000030517578,
     60.310001373291016,
@@ -24,10 +23,10 @@
     60.15999984741211,
     60.599998474121094,
     61.470001220703125,
-    61.279998779296875
+    61.279998779296875,
+    61.15999984741211
   ],
   "6m": [
-    53.279998779296875,
     53.22999954223633,
     53.47999954223633,
     52.77000045776367,
@@ -158,10 +157,10 @@
     60.15999984741211,
     60.599998474121094,
     61.470001220703125,
-    61.279998779296875
+    61.279998779296875,
+    61.15999984741211
   ],
   "1y": [
-    55.033912658691406,
     55.1695556640625,
     54.755088806152344,
     53.730220794677734,
@@ -411,12 +410,19 @@
     60.15999984741211,
     60.599998474121094,
     61.470001220703125,
-    61.279998779296875
+    61.279998779296875,
+    61.15999984741211
   ],
-  "lastClose": 61.279998779296875,
-  "oneYearReturn": 11.34952217434069,
+  "lastClose": 61.15999984741211,
+  "oneYearReturn": 10.858242578255512,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is It Time To Reassess Fortive (FTV) After Recent Share Price Strength - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmk5cDZEV0ZSX2VyZGs2WTFKSHFsVGk5SkxMdUE1OTI2Rnk4bnhYVU1HQmhNaFhCSXJrOVREdG13cjhic1ZEa2JmOUpzaEs3T1g2bmtPLXdLQnNzRU0tdFJzLWx5anZvaHN3d2M2YXJ4dGJXeGRWNlBsVC1BUHZ4OUVkMEdzYU55WDZEVzRTdVFVWl9nLUVSQUxRNDlvdw?oc=5"
+    },
     {
       "headline": "A Look At Fortive (FTV) Valuation As Shares Trade Near Estimated Fair Value Discount - simplywall.st",
       "source": "simplywall.st",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEVnM0tGcFhrbjZLS3BjNnZsOVM4cVlqaFZSdEltcnA2QW9qbnE4UnhIb0hYenJzZGxFWEVkWThKdHB6bXIxWnc0Y3RjcG04VDZIMHVWbUt2Smh0TkRRTmVwY2RSTUZIVDRrODFTN1lhTGJSalp2RnZORXJBdmpvajNNSXlSSnZIX19qZDUwWndJdVhRcmFYMTcwTUFKTGlMdWJ5UW1BbnZXVThNSVY5SVhYdGR3TnM5LUw1dDBCY0FmWlFVbDI00gHMAUFVX3lxTE56MVBxTHM1WHQtSlRIaWtBemRzUHAtUHRGRlU5ei1oeFNwYzc2R0RBLTlmSGpMT1JfZV8wWU1WTEhRemZSWHh1ZDcyc0I0RUpSSGU1WXRpY2ZMNUhKX3hjaGxUcEg2cC1xbXJxLXk0bnhfQmtyTEJJMlljaUhlWlduVFZsZTQ0NUFGa0Q3cHNObjVCWEl1UlJKNzRrWkpyR1lMOWYyZnJkZGRlM1lTSmJYM1RBcWJ3MDB4R3FCVC13LWRfbllCUHFXbGdqUA?oc=5"
     },
     {
-      "headline": "Natixis Advisors LLC Acquires 168,917 Shares of Fortive Corporation $FTV - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-06",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUGF1dDZRT29BOVFOWTdoN182RVpYRWFJRy14cWtDUE1sTU5ROEVSaUFmZkRfcnJPU3BfM2ZKa3hqbWcydUM0aFYtZWZpMTFoZ3RmdUFLNGUzWEFMUGxLcDBfQzFvaFBQVDJfbl9WTUlpZWZ4U0ZsY05Uc0UydTctS0pvRkxrVnFtR2dCQWdRX1Z3anpzZE5rWDlUZl96ZURiN082dXhZZDBJWDM0U2RTamk3YXVaMVQtd05NWWJGai1vcERRWVM2RkJKWQ?oc=5"
-    },
-    {
       "headline": "Fortive Corp. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb3BKc0VSS200bTRVNmR6TzVGT3MyUjc3ekY5TUNYOGdLQVdkSWVaQ1d4N2RGVmRlZnpnOVRvZnl2b0pTWlZPdHY5aXVDeFAzQU9KVldtOTBvMmotQUhTVVlzV3hXMVFsd0M1clhKUnphb3h0Y3h0Y1dkSnFyakFKYWdJRGt2TDFEdzdTSmtEaDhEc2hOemd5WUlaZTBrR0twQWJyMFRibkJjREptWS1nUndWdkpOVVNlVV94bmNYcVJKN1BINHpmSHJMbFBYRDBHQzZiQ251Sm5LQQ?oc=5"
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSGlqZ29PTGpJN2xLaXQtaVNyUVNPSF9oVnl0RlMtcmRnOVNaSGxaVGtTb3FTbmF5RU9mSjc1TFY4S1lLMm4xYjBfMV9kTmJJckNIUDdINUZaS2FMUnJmZXlucTltYzlaaVIwRHlyRjB5RXlvLWYwTEc0c2xHOXRPUFZYNUhZd2tJNEVXRzhIelg4R0tpY01LcHJyV3V3enFLd0llc0FiWGdpY21QbkNlOEhXM1NEeXlDSG9QXzMzbEpQN3NwNGtncUtvTW40X1U2aXZLbzQtblVlUQ?oc=5"
     }
   ],
   "insight": "Tracking Fortive (FTV)."

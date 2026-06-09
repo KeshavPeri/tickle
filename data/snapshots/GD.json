@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-08T06:18:30.773Z",
-  "builtDateUTC": "2026-06-08",
+  "builtAt": "2026-06-09T05:45:09.779Z",
+  "builtDateUTC": "2026-06-09",
   "source": "yahoo-finance",
   "1m": [
-    347.2699890136719,
     347.760009765625,
     346.5299987792969,
     344.0299987792969,
@@ -24,10 +23,10 @@
     337.6099853515625,
     337.0400085449219,
     341.5,
-    346.44000244140625
+    346.44000244140625,
+    340.8599853515625
   ],
   "6m": [
-    341.07000732421875,
     340.0400085449219,
     341.6300048828125,
     332.3800048828125,
@@ -158,10 +157,10 @@
     337.6099853515625,
     337.0400085449219,
     341.5,
-    346.44000244140625
+    346.44000244140625,
+    340.8599853515625
   ],
   "1y": [
-    276.4800109863281,
     277.30999755859375,
     277.3699951171875,
     275.8299865722656,
@@ -411,12 +410,19 @@
     337.6099853515625,
     337.0400085449219,
     341.5,
-    346.44000244140625
+    346.44000244140625,
+    340.8599853515625
   ],
-  "lastClose": 346.44000244140625,
-  "oneYearReturn": 25.30381534834995,
+  "lastClose": 340.8599853515625,
+  "oneYearReturn": 22.91658733996457,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "General Dynamics Corp. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObWt0TW9aVmVxaWo2czl1bWR5MGRSdmlsNDkxaEhyZ2FXUDdrX095MURBQThpWUV0cmJUY1lteExNdUZvWkFBcnpLTXFDV2c4dVhESUNnSmtGMUFRa0Uzdll3bU1pczR2bldyRm1tbFhDNGJkQWxISlZMWlhIRFNHSWcwMi1iYTg5NGpBUnl6NnJsZXN2V3phbVdfd0xTTEVOeHNXanZlSFUwYVhiOHhlWE5YUnlyZTZNWF8xd2JRM042cmhRVTN2a1dnSWt1b1NTelFBbzJ2UkFzbzJ5dlF1M19DNE00ZHBnSVNN?oc=5"
+    },
     {
       "headline": "Why General Dynamics (GD) Outpaced the Stock Market Today - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGt6UFJpRVMxdVNvYlRBUF9IakUyZk9ocjVjbmpDZ1RBNlNmc014UllpRzB4V19DamN0OVhvUVRfNEhJVVpkY0tUdjVzRFZuemlpT05oMWNjNmQzZEpObXhrMTBtTDhHeHJwdE83TmNGWVF6LVp5UWxRUldEeUxIMTZIZ0lZMV92Q2FCeGM4TGxFeGRPVW01T0ZNblNaUQ?oc=5"
     },
     {
-      "headline": "Los Angeles Capital Management LLC Sells 20,652 Shares of General Dynamics Corporation $GD - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-07",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc1h2OGJDRGNzeTJXcEhHU0VZME4td1dYcFMwOENXeHplT3FLMUVyRVpSWEhucEtTY2VKQ280RnJ4OXE4MGZKaFQ5NWJSN1cxRHdSMjcwLWRHM2pYNVJaSVNpbnFJRENqdEhnMVFqWFVodXVpQTA4Q2wwd0hKMzhUVWhRM0ZyOE04Q2Z1UEVFWUlvZVhJVWgtQVBjZmFKZFluTXU4NW5Cay1RVVFFVldqVjFzQ0tuaWlVeUtUc3dlVjBZZDhEVUpwMTdwMHNKWTBWTDRiamU0ckw4a01DaUNIRFZlbw?oc=5"
-    },
-    {
-      "headline": "Is It Time To Reconsider General Dynamics (GD) After Its Recent Share Price Pullback? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOVgzNnNoWDVpVUM1V2xfUWtoR3BwTHlxZHFibExjXzdFT1NhblMyN1REWGVCZjFWZUxTS0d6ZEItcld4S2pFMFA2NWlKbWtwQ3Q4emplV0xYeTdWMkI1MmtSTWxmbE1OVmM1M1VoemxGYlNzdGFETzJuek5CaWRYektwMzN5VW9CX0lpNkIySFVlZkM1SDBHd0R0WnN0blRMRGtudVdxRU01RldiNENCZlJ4Q3lSVzNmclEtclNRR193dVlYeng5NzRzMmZnSHZONGfSAdcBQVVfeXFMTm9KZjJ5ZDI2NDd1cFMxOWJZQTZpY2Jwem9DWVR0Mi1fY2JscldzTFlVUnpwQzJ0X3lKR1NqUEE0Y24xTzJSVlNBRXhzc1BXZkJCTVFkQkJqS1pua0pIV0EtbUQ1RERzREdSd292X19sYThNQ1hUcFVGaDlEYUNqNWlGNm9vV3p5cnFQUEVIOGJqZktLNVhvLVlEcTQwTXgwZDlNSE12c3k2RVZfZ2V3bFVtM1RpZUVHenI1QTh1cDR6aGZMU2F5NXFaX2x3QUtWM3JxLUo1ams?oc=5"
+      "headline": "General Dynamics Corporation (GD): Among the Best Aerospace and Defense Stocks to Buy According to Hedge Funds - insidermonkey.com",
+      "source": "insidermonkey.com",
+      "when": "2026-06-09",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUtOUy1ZcnZiUkRhRG5JM3RCcHlURFM4RV9BMThwenhJc2laTVdNSWxJS3A4bTVMd0h5RlF4clpGMXVWUG1qTTZmaWI5NjhLRnBaNk9LS0VHZXpZcUc0UE1uR05yOTZjT3lKS3FPcmdROTZ1UmVaX1dkd0tnd1hMRVZFbkVXVDlZcl82Mnp4eEtwNUdIbzQ4UEVETHNtSkR5R0lnSHVjQ3NfTWw3VS1HWXcwbTlxTVNPdS1jZ1VjVGJSbjZMS2N1eDNDOXNDczV2bEszWDA4b09UYnA1YXNZcEJwdWR2d9IB7gFBVV95cUxNSW0zYW53ZDBwQXpEc1VVdTl4b3J3Y056cnlXdGJoWFNhMEcwYzVwWTBhdERRNVV2eFFqX2lFdlFVWU1YY0xXUU9iQTNrd2RpYTZLa0RiSzFYQ3dZVjBSMUdPcWxlZ25zWkpycnZSUnlBWmcwMHNCWXBGclBzRlpuVTBIcG1yb3Z5Z1JFNDV3Q1lXNU1VWkpnY0J0bzZhMDZKVDBpdXRkR2Ftd0tOS1hRZG9vbi1IS2I0N3luZ1g5aVdzNXhvUmhZRjBxLVV5TWdyaUR1ZnQxVVc5TmxBdERRZEh3cXV1QzJsOEtQQjRB?oc=5"
     }
   ],
   "insight": "Tracking General Dynamics (GD)."
