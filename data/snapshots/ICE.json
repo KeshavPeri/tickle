@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-10T05:59:10.973Z",
-  "builtDateUTC": "2026-06-10",
+  "builtAt": "2026-06-11T06:17:10.982Z",
+  "builtDateUTC": "2026-06-11",
   "source": "yahoo-finance",
   "1m": [
-    156.11000061035156,
     155.82000732421875,
     157.82000732421875,
     155.80999755859375,
@@ -24,10 +23,10 @@
     138.4499969482422,
     142.05999755859375,
     141.5,
-    139.0500030517578
+    139.0500030517578,
+    141.55999755859375
   ],
   "6m": [
-    156.2899932861328,
     157.3000030517578,
     156.94000244140625,
     155.36000061035156,
@@ -158,10 +157,10 @@
     138.4499969482422,
     142.05999755859375,
     141.5,
-    139.0500030517578
+    139.0500030517578,
+    141.55999755859375
   ],
   "1y": [
-    175.52999877929688,
     177.5,
     179.0800018310547,
     178.44000244140625,
@@ -410,12 +409,19 @@
     138.4499969482422,
     142.05999755859375,
     141.5,
-    139.0500030517578
+    139.0500030517578,
+    141.55999755859375
   ],
-  "lastClose": 139.0500030517578,
-  "oneYearReturn": -20.782769886193233,
+  "lastClose": 141.55999755859375,
+  "oneYearReturn": -20.247888699383804,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Assessing Intercontinental Exchange (ICE) Valuation After Recent Share Price Weakness - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVphOVVuUm1MTk84ejhMOWJqazkzWWdkdUtHcUJGTWo1dEEwTUFhTzA0YUhyVk9vaU80QXBLVllNR0hmUGFtdFFDb0xPdEp5YjlZQXEzcFhNRUZiRFYzdDU1dU02MjVfLXBVSEtuUFB3bFRCVDhzTWtPMDdDNUhlVFJvOXd1M05ES3lDblNzeG9QWUNlOGVWTlBncVBualZjQkVhLVphc1I0YVJYREJjdFJCR1I?oc=5"
+    },
     {
       "headline": "Implied Volatility Surging for Intercontinental Exchange Stock Options - Zacks Investment Research",
       "source": "Zacks Investment Research",
@@ -423,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNnhleUk4UWNYQV9lVXk3c19RVGhCa2t4dTFFWTE5TjFyTHpyUVFRMncxXzc0aVJMREV0dGVKaGVfdjNhTDhaQ2xzZW9UZ29ieTAyM25JdlAzTUhBX3U3ekxNakI4V0F4bDlRMXU0bzJ4VVg3WEJRN1JaOTgxbnJkcG15RHN1ZVdqRXNWbENDM0dGcWE3bFhYQ19JWVRESWtOV1MwUEVJNUdaOFdFY3daLQ?oc=5"
     },
     {
-      "headline": "[144] Intercontinental Exchange, Inc. SEC Filing - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcU10ZWNMWENmUzJWS2tuX185dmlDeHEyQkpuY2hQZlFNUG1TWE5DUWFmajhwbmlxWmpXZldUX21SLTU2ZDVEYlhHMlU3cXBNeXkwVGphR0NnWTlOQlp2bGFicHVJbzREaDk2Y181M3pzNjNfR29MdmU2a203ZHpEZmQ1UzhCSkFDZzdBN2xDby1kNWNGRVpQWVFCNUhqWEdiNmE5dnViNEs?oc=5"
-    },
-    {
-      "headline": "7-Day Sell-Off Sends Intercontinental Exchange Stock Down -9.5% - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWmNsM2NZTmt6Z1djUmRUZS0zQnhGYmpnVjU1SkYzQW8wVFBMNTJ1OGF3WGttX0k0OWFBVlp1dkdHTmd5ZG15dEg2NTB0UUNzd2otWVNSMkxWOTV3YjIzY1ZKb3NGSGFjU1RORGZtMlZyMTlfRXU2T3BUeVl2NGNPSzFMUW5kXzR1TVBHSU5yUjlKVzItWkxDR0NBTUFlbENwVU1NelNWNjQtX2ptdXlFbzRJcldELTZHb2x4dVJ3?oc=5"
+      "headline": "3 Profitable Stocks We Find Risky - StockStory",
+      "source": "StockStory",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaV9ZaUQ0UzJ0dk12NzRuZjcxRHg0TFpvRXh0Zzc4U2RwNXhaM0dhaWU0WWRSTlZ2VFZwSWFfR3JqNEltZmFrVWN6QS1raTNRdGJCWHJxUFE0NXlYcC1mazFjSW9VR2ViclpKOEpReGp4OGRMUm9jUk9tZlpJVGpnRm1veWFibVVESGI0Q3dFS295bElsT2Fz?oc=5"
     }
   ],
   "insight": "Tracking Intercontinental Exchange (ICE)."

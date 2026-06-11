@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-10T05:58:50.633Z",
-  "builtDateUTC": "2026-06-10",
+  "builtAt": "2026-06-11T06:16:53.693Z",
+  "builtDateUTC": "2026-06-11",
   "source": "yahoo-finance",
   "1m": [
-    284.0400085449219,
     288.05999755859375,
     289.07000732421875,
     298.489990234375,
@@ -24,10 +23,10 @@
     270.7300109863281,
     280.67999267578125,
     289.4800109863281,
-    289.6099853515625
+    289.6099853515625,
+    295
   ],
   "6m": [
-    278.3500061035156,
     277.2799987792969,
     273.57000732421875,
     274.1000061035156,
@@ -158,10 +157,10 @@
     270.7300109863281,
     280.67999267578125,
     289.4800109863281,
-    289.6099853515625
+    289.6099853515625,
+    295
   ],
   "1y": [
-    313.6199951171875,
     310.20001220703125,
     315.3699951171875,
     317.3999938964844,
@@ -410,17 +409,18 @@
     270.7300109863281,
     280.67999267578125,
     289.4800109863281,
-    289.6099853515625
+    289.6099853515625,
+    295
   ],
-  "lastClose": 289.6099853515625,
-  "oneYearReturn": -7.655764982922533,
+  "lastClose": 295,
+  "oneYearReturn": -4.900068216917599,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Mizuho Sees Improved Regulatory Stability, Raises Cigna (CI) Price Objective - Insider Monkey",
-      "source": "Insider Monkey",
+      "headline": "Volatility surge has trader eyeing one 'stable' stock - CNBC",
+      "source": "CNBC",
       "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFotMFdFOXgyN1Rwdm9adTVwRWMwbmdxMnFqVVBHZDdibThLSW0wQTRoVHFfc3F1bnFMU3VhREg5dnVJZFNfOGNjN0wxazFmQjdsdUVWSDdrMDlqa1pKTlNHTHVmRkxMNTFIRGJGejVIVnp0dmtiS0NlbG1mdmIzVkhXcmxUaGZvai1iTG1SM0o3WnktUWpWSFJLRUxuQ2QtQnVzUHFuMlE0WG4yZ2F3bDlmN29nZllXODc1WktMeXLSAcABQVVfeXFMTVhaLTBXRTl4MjdUcHZvWnU1cEVjMG5ncTJxalVQR2Q3Ym04S0ltMEE0aFRxX3NxdW5xTFN1YURIOXZ1SWRTXzhjYzdMMWsxZkI3bHVFVkg3azA5amtaSk5TR0x1ZkZMTDUxSERiRno1SFZ6dHZrYktDZWxtZnZiM1ZIV3JsVGhmb2otYkxtUjNKN1p5LVFqVkhSS0VMbkNkLUJ1c1BxbjJRNFhuMmdhd2w5ZjdvZ2ZZVzg3NVpLTHly?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmhpYjJPMEtzdGZkMk9YWDNSa2VOa3RUSER4amFZVUlFcVBnNXJqY0FoVExOemozOUJ1RHU3dlpiS082X0xGWlRrSWdDbUstZ2cwRFlMX1JWbHlIbEctRlJVUko2V1FuLTcwT0tPSGZ3SmpWRDFVMXVzN3N6YWdTWTBrblkxX0o0bk5EOEMwWVJtUdIBlwFBVV95cUxNUmZJMW5Wb2FIcFdSUndCdXhqWjdNS0N5QlUzQ2ZGaEpBZkNwa3llajVaaGVELUVZcHZEVVl1V015OU9nSEEzdDFWa0V6SjdaNGszakF3NGhLY2dXMmRCbEJ5UWh4YlhWV0hQdjVPZF9LSFZta2o5ZzcwQ3VjVllndk1lY0tLOXI4UW9tUm52Ti1YOEFHMHUw?oc=5"
     },
     {
       "headline": "Here's Why Investors Should Hold On to Cigna Stock for Now - Yahoo Finance",
@@ -429,10 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2J4ZlNnYTcyQ240ZVJpMExqM0NNckhrYjVQcWUwSkVObXgzSHZ5TWo5QnJDWmQtQTVzVVZOLUNrZDNYZFBVLVJoVGZybi1qMDJ6LWx4V3FScVFxaGVCUjc3cmhpcVU1STVMOE9ybWxrb2lpbmNFNXpOT3JTOUp5TWxkRF9lelJmd2p3ZDF4RjVYYWh4YW5kVnZJUQ?oc=5"
     },
     {
-      "headline": "Cigna Group stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHlGd25RWWJVUUQ5Z0VFME1qYUJHRXpVY3NKSUlYTGNvNVdwVG9xcnZfVnBYeFlEYUFadF83NC1hZ3U3d29QWWw5LW40Tjh2RUd4b2lQeHVCVk5rQ1F4bjZHZGRXaXhiVHBXUlpudzBab3h3WW51OVN1SlluV0JtMXBDNGF6dUlIWXE3UnJtZGpqMkl0TEh5Q09uUUJTQ18zbVdXRUxwQjZtQUFVelN5N1RELU0yQTU1TVBvX3RON3Q?oc=5"
+      "headline": "Cigna Group stock (US1255231003): Why investors are watching health plan and benefits trends - AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZXFaWTBoeE9zRTZBZU04UnUxOTZTbWZlNWQ2MXltSHlvMENqWDdkT1cxVG5EMkl3WW9iRWdqM1RmNVE1eEQ1SnJ3Wnp0VTJzRzJTZ3RLbFYwbFlvbDFJc2l2QXdRTlZFa0pzUGJyRF93SktfR0laT2hpQXo2X0JIaW1ScW52RkFnVTVwWE1Hc3R4RlJmYkxNR3QzWk1kWU9vcERqam94a2pOUHZ6aWphUk92Q0dTZkU3OWZMYS1ZcnFsRWtoRkpj?oc=5"
     }
   ],
   "insight": "Tracking Cigna (CI)."

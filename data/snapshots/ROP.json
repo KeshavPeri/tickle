@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-10T05:59:25.183Z",
-  "builtDateUTC": "2026-06-10",
+  "builtAt": "2026-06-11T06:17:22.574Z",
+  "builtDateUTC": "2026-06-11",
   "source": "yahoo-finance",
   "1m": [
-    352.44000244140625,
     343.32000732421875,
     328.79998779296875,
     323.94000244140625,
@@ -24,10 +23,10 @@
     331.70001220703125,
     331.79998779296875,
     332.17999267578125,
-    333.75
+    333.75,
+    335.3699951171875
   ],
   "6m": [
-    446.0799865722656,
     446.2200012207031,
     443.5799865722656,
     444.1499938964844,
@@ -158,10 +157,10 @@
     331.70001220703125,
     331.79998779296875,
     332.17999267578125,
-    333.75
+    333.75,
+    335.3699951171875
   ],
   "1y": [
-    572.1799926757812,
     569.5599975585938,
     572.030029296875,
     560.75,
@@ -410,29 +409,30 @@
     331.70001220703125,
     331.79998779296875,
     332.17999267578125,
-    333.75
+    333.75,
+    335.3699951171875
   ],
-  "lastClose": 333.75,
-  "oneYearReturn": -41.670452607189404,
+  "lastClose": 335.3699951171875,
+  "oneYearReturn": -41.117705499904574,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Roper Technologies (ROP) Offering An Opportunity After Its 41.6% Twelve-Month Share Price Decline - Yahoo Finance",
+      "headline": "Roper Technologies (ROP): 10 Cheap NASDAQ Stocks to Buy Right Now - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-07",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTG40dlcwVUs3YmJHTFdsUTZndUVlNnpzRDd3dmNBUjlLVWNWUzhkeG5HdjlzOU4zSXRnLUJrNGJ6X21OR05DakVZTVhyanZPU1NHZlJPTFhVdEFIaEgyR1dIdmc0cno4SnZOVnlWejkwSmFUdUpwYjBQdGotM0gtVFBKY1hSS0p1WjcxeEhWdTc1TmxEanIyYkdCVjM3UTNyTEE4OVB4ZHV5RmRl?oc=5"
+      "when": "2026-05-25",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd1pNcUItbkxubXljUk9IaHZpV09pemZWOFhXaktlTUV0dEM4Wm04VGRqeHpNcTNMNnpzaUNJNk5OWkh4SWxxWjVaTU0zU2xhcEhOZzQ0SEJJQ2hxWXpiT215S19HOVQ4dUpxcjA4SHpQQmMzOThJN3RjdWRrWUxmdUZRWndKanp2TzNtWW0xWU5GSXNXRWptbmZTTGk?oc=5"
+    },
+    {
+      "headline": "Rep. Gilbert Ray Cisneros, Jr. Sells Roper Technologies, Inc. (NASDAQ:ROP) Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSXpORDhrcmNNM2lsSFpmdzhWSDlFYVQtQzh3aVhlZ1BqWl9sYjRFTmdEQTBFVTZMLUpBdU5pZm8yejZpRlAybGt2bW8xcHAyZWFlWmdsTjdSOHBFU01OTXRfWVN1aXpKWjZHeVVJVkZFTVRFY3BQc2x1dkN4Yk5rbmlkWXBTa2oyOHlVZ3hxSVVlUHZoTm9tcURqTndQTXlMMWotc0l3cFB1ZUl2RVk0dW9pZG1ZNWJ5Wmw2eFNqWTkxZk9P?oc=5"
     },
     {
       "headline": "Is Roper Technologies Stock Underperforming the Nasdaq? - Barchart",
       "source": "Barchart",
       "when": "2026-06-04",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc3Z4UFZSbWhwSFlPdDhvZVFDbkJFY211UUppbmQ3bmVDVDdnc01XSUp5dXFoVGRKLUJLMFpycklKcHEtOHF3YXU2VWtpN1luTjdTWjlDOFpfMkd5NGF0aXI0N2tRUEpZT0wwNGNOemlfMmpWQW9SMXNGSi1ZQjdGZC1uTUYzN0t3MWdvekVab25QOXJfakxPSG91eXRrSWs?oc=5"
-    },
-    {
-      "headline": "Franklin Resources Inc. Reduces Stock Position in Roper Technologies, Inc. $ROP - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMkI4cmRpZEN2YTgwa1lqS0xUUkVXelFQUEoySXpPbEFEbHdQdzV3cjI0ajZ4dklONHRMSDZFVU95aWtGd0g1VUM1cVVMNU5QSzZzS2xUQk01QnUzQnVwcmhMamZSNm1CdXlCWjlDdmk5ZHpDYk9jY1lNZ0xlX0ZkdmlVUHVaYWN2NlduMlJNU0lMMWVkRUowSDlsTWRpWE9KV0ZkUnBxYXlWSkpQWnU2NFhhZGJteEVOR21TT09QMTRNYWJlY0hNbWVtYWswQXZfX1E?oc=5"
     }
   ],
   "insight": "Tracking Roper Technologies (ROP)."

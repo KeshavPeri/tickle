@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-10T05:59:13.224Z",
-  "builtDateUTC": "2026-06-10",
+  "builtAt": "2026-06-11T06:17:12.749Z",
+  "builtDateUTC": "2026-06-11",
   "source": "yahoo-finance",
   "1m": [
-    122.76000213623047,
     118.43000030517578,
     117.0199966430664,
     114.1500015258789,
@@ -24,10 +23,10 @@
     121.27999877929688,
     123.56999969482422,
     122.55000305175781,
-    119.95999908447266
+    119.95999908447266,
+    125.44000244140625
   ],
   "6m": [
-    135.86000061035156,
     134.80999755859375,
     132.83999633789062,
     135.02000427246094,
@@ -158,10 +157,10 @@
     121.27999877929688,
     123.56999969482422,
     122.55000305175781,
-    119.95999908447266
+    119.95999908447266,
+    125.44000244140625
   ],
   "1y": [
-    127.47000122070312,
     127.05999755859375,
     127.61000061035156,
     125.88999938964844,
@@ -410,29 +409,30 @@
     121.27999877929688,
     123.56999969482422,
     122.55000305175781,
-    119.95999908447266
+    119.95999908447266,
+    125.44000244140625
   ],
-  "lastClose": 119.95999908447266,
-  "oneYearReturn": -5.8915839525470455,
+  "lastClose": 125.44000244140625,
+  "oneYearReturn": -1.2749843761333608,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Assessing Jacobs Solutions (J) Valuation As Share Momentum Softens And Backlog Growth Supports Outlook - simplywall.st",
+      "headline": "Is Jacobs Solutions Inc. (J) A Good Stock To Buy Now? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc0w1N2o0VFBDTFpGUXdJU2MxWHFjSVFVRnBhaGZrSVZnNEh2c2wzZUNXVV8xY1ZybnIzUXhPWmlLdTZhSG5WRFZITnoyakkxNjkwYUtYVWNrU1ZNdDhIMFJvdDBNUnpuUlpINmN4VzA3UDZldENvc1JERE1yTHFubUZ0UFNqem85eG82S3NhYmRwaC1XTUdR?oc=5"
+    },
+    {
+      "headline": "How Major UK Grid Cybersecurity Wins Could Impact Jacobs Solutions’ (J) Digital Infrastructure Narrative - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRnJMYWNUZ2V1RURWejRNY19pTUo5MHpZUTlndTdjWnhJUkt6ZDNoQXZFTm5QMGIxRXE4TVlmbHlRMUhpdUhNczJoa0RRTW1NSFBuUU1kYi1fcnVUcXdXYzB2ZmtMMWRXV2RiT1R3YWpEVzBtYjVzMXhCYW1EbGdRcVNsYnZselRlMjhJa1UyanBaMC1UcHZabVVVNDNnWUFEbHp6WnZJbXM0czViaWJOLUVrcFNkVnZfelZwczlXWGw2bU9ocUJZSHZ0MjlpTjBIR25aamhyWknSAd4BQVVfeXFMTnpFejhBMzhZSm5ZVVZNZTY2NF9GMGRBUnpxajhYMzk1MjhOUkloZTRfX2NweTB6bUxRREhNS25FWWxmTTdvZUZfQm9DRlp2eTFpcHQxaTVHRU9TWEdOdmFmbGQtUkpLTmJmckdzekhXaElwd1M3WVFqZ28tRGY2Y3FmdzI4VWRrdzhiaS1zZWRHOHdfeDdibm9ERTRVVUhnS21YRk1jTlA1ME9xLVJJRE9YODRIdzZYQm9tbi0zN3RfaFVibV9JbnhnRUs2SGE5c2Vib1BTNFVfSE1ZNnNB?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWDE5SkREdXFja3pYTjFiTFdYeEF6Y2J1TnhkdzVfbmhqN2JuOVhNaG5YRDZHNTJMaVhsbUtVYU43eng4aFdVQll4MGp0enVxQ1ljRVFxTFNXXzMtWHQ1SUxsRnI5WUFxRkd4VnRhU29tUGlCUUw3ekNuc1poVzlSSGZ6SlBHcWJzME50NGdkRFd4cHUwVjZrTWZuR1FmYWZfQUJaam5HdUdsUTB0RkE0RkEzUDh5Vk1ORmN5TTd1VUozYllKYWRycVFlejY4QzI3RVh4dTRDX3l1a0ZGV0HSAd4BQVVfeXFMTlgxOUpERHVxY2t6WE4xYkxXWHhBemNidU54ZHc1X25oajdibjlYTWhuWEQ2RzUyTGlYbG1LVWFON3p4OGhXVUJZeDBqdHp1cUNZY0VRcUxTV18zLVh0NUlMbEZyOVlBcUZHeFZ0YVNvbVBpQlFMN3pDbnNaaFc5UkhmekpQR3FiczBOdDRnZERXeHB1MFY2a01mbkdRZmFmX0FCWmpuR3VHbFEwdEZBNEZBM1A4eVZNTkZjeU03dVVKM2JZSmFkcnFRZXo2OEMyN0VYeHU0Q195dWtGRldB?oc=5"
     },
     {
       "headline": "Why Jacobs Solutions (J) Stock Is Nosediving - StockStory",
       "source": "StockStory",
       "when": "2026-05-06",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcUI0dHQ3N2JjQnRzUm5oSExzUFo1cGQ0Nktkd0UxUEdvdER1WFMzWlBCMjZQRmxoX0kwRFlmZEJxcFBqNkRwSWpNZlY2aC1VVU53UGs2U3JwU3BKRkp5Nk14X1pZM2ExVnVfajJBNDROY2ZESEdFZ2dJa0lqUzFFNnlKRDJvclRudlRTbEZXSHBreTBOV2NvWHNKZk4yUWdqaWRr?oc=5"
-    },
-    {
-      "headline": "Are Wall Street Analysts Predicting Jacobs Solutions’ Stock Will Climb or Sink? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-25",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVFNNbmFtdzJHWEN2VG1USmxoUEx6eGM4M2NQbFNoVXFyUFZwLVZpUWZDYWZZRXpDZ3dKUmxBTW8tdVRhNjRLeHA3M3FXRXlDTlhjQW1JS25CcDdlT0ZuOTNsVjgtcE5mZktTR3A1YjFuY2EyRWlZN2xJN3RyNFl6SHRySGxIRUlCUUpRVk9QemJyT1p4dHJRTmxDVEV4TXFWNFJzMnBn?oc=5"
     }
   ],
   "insight": "Tracking Jacobs Solutions (J)."

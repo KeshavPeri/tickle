@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-10T05:59:32.507Z",
-  "builtDateUTC": "2026-06-10",
+  "builtAt": "2026-06-11T06:17:29.008Z",
+  "builtDateUTC": "2026-06-11",
   "source": "yahoo-finance",
   "1m": [
-    258.07000732421875,
     256.3599853515625,
     249.72000122070312,
     251.44000244140625,
@@ -24,10 +23,10 @@
     250.97999572753906,
     258.5899963378906,
     263.5400085449219,
-    258.1199951171875
+    258.1199951171875,
+    261.1600036621094
   ],
   "6m": [
-    321.2300109863281,
     321,
     320.7900085449219,
     315.69000244140625,
@@ -158,10 +157,10 @@
     250.97999572753906,
     258.5899963378906,
     263.5400085449219,
-    258.1199951171875
+    258.1199951171875,
+    261.1600036621094
   ],
   "1y": [
-    296.8299865722656,
     295.9599914550781,
     301.1099853515625,
     296.3299865722656,
@@ -410,29 +409,30 @@
     250.97999572753906,
     258.5899963378906,
     263.5400085449219,
-    258.1199951171875
+    258.1199951171875,
+    261.1600036621094
   ],
-  "lastClose": 258.1199951171875,
-  "oneYearReturn": -13.041132367417962,
+  "lastClose": 261.1600036621094,
+  "oneYearReturn": -11.75834193732595,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12Z05kSFdzLVBRUVhiZTdkTUJNWkYzbEs4SkstTkZuMFRVOFJ5Ym5JZHFVMUhMbnhfN0pERkJkdjFFTzFtcncweGVnYXdPUkk?oc=5"
-    },
-    {
-      "headline": "WTW Stock Declines 21.4% YTD: What Should Investors Do Now? - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMV80T19uaVBNakszNUVRalpkYlRhc1IzbEJvRW5pcDc5b0ZkbjAwT2gyc2lwMFZMMEt5NG5BNDRtZW5zaVVEZ3JQUmk4bUpMN1RtS2xQYS11Z2JSZy1YN1A5cEdzSVF6ZlZvY1JYRk50ZW9sSWdONi0wZ3lsLTBhZTJqeEZPeGhHdnhaeW5ITlltbmJzSFV0aXUtRnFfY0kxRmNZLVpKZUV3Vlo0VXJhdWlzMkFWeXZ6cmtJeDNQR242eGIxOTQ3cDU0b3dhemZOSVZ2RUlkSmZwUQ?oc=5"
-    },
-    {
-      "headline": "Willis Towers Watson PLC stock outperforms competitors despite losses on the day - MarketWatch",
+      "headline": "Willis Towers Watson PLC stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
+      "when": "2026-06-09",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeW9FRW5Xd1dWZnBON2gzeW1QSzN0d21TR1Uyby1SWkpVY3pGc2kyQnJsaVc1azhXaEVWOEJPTU9DdjVrRE81SkpGZi12N3BTUDVVdFd3MElVT1YzaDR6aXFGTWlUS19qOU5wMG14Zzk5Ml9VOF9XQ21LN0JRV2VPYVRla0dreGFtbG5OZUxlcFdhaVA5WklSTlpGYWRPQ1JmNERObUg1bkRJaGM4TWJpVFpIYVJONm5YeV9UeEVPd0lyTXQtZ3JCVndCeXhNWmRZaGc?oc=5"
+    },
+    {
+      "headline": "UBS Sticks to Their Buy Rating for Willis Towers Watson (WTW) - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNjl0dVZxeUJYNjNGYnMzOXRCd2wzSjFmR25veUdweHdreHpUc1BhTlNGTTNSa3dseC1fcVMwOUMxbldpZkFSNzZyUUNPUGw4MG1FTktMQ1otNjlpRE5wMU03NGxVaWdHd2xQSDZkdkRQTFVXNDFyZFR3bEZBNTgtS0hoMGp3SUV2aXNPSHFIdHBTdkYydkRoOVR4ZjY1Q1FqbDREeFhGSGpNRktlSEYxanNQYm1iQm1td1hQZXVwV1hoZGlhUDRmNkExLWRlTEFwelBlY3JQaFZqRG8?oc=5"
+    },
+    {
+      "headline": "Why Willis Towers Watson Stock Was Sliding This Week - AOL.com",
+      "source": "AOL.com",
       "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ2JHaTRwZXl4bWxVODc0MW8xcktnY3dqZlJTc1RMUDZNQktSbVhOb3ZzcVBIOV9FbXhlVENUR0Zva2J6UC1HbG51ZFVIbk1ockh4R2pmTmdLb0ZBcWhlUjhla0poOE9rOHIyTEg4dTJoTDdrU0RoaHFsdUxaLUN1YndqY3ZEOWx0QUhVNUxHbHVBYzJSYnEzRENhaklhYWZvTFI4UzlYZEtvYXpDNG15YW1nN0I2b1N5SmRTUm5CU1VLTUxKYmQxMWxqNkFCTVowSUFONFN0RQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LdWpuLUhBanlVck5wREdWbzZ1TVl1aDgzbENCNXgyTDRGUWU4anhfR090Z2M1b0dkeVNGN25nTnIyUllvb2h3a091T2dzV2hGRF9OWGJkNk5uNkNwaHlPZ25FVmlacFlVT2NDcFR2bnFzaUVzTDRudV82TjZVM2c?oc=5"
     }
   ],
   "insight": "Tracking Willis Towers Watson (WTW)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-10T05:58:39.417Z",
-  "builtDateUTC": "2026-06-10",
+  "builtAt": "2026-06-11T06:16:43.958Z",
+  "builtDateUTC": "2026-06-11",
   "source": "yahoo-finance",
   "1m": [
-    256.510009765625,
     253.0399932861328,
     246.14999389648438,
     240.8300018310547,
@@ -24,10 +23,10 @@
     256.239990234375,
     258.4200134277344,
     251.44000244140625,
-    244.99000549316406
+    244.99000549316406,
+    237.8800048828125
   ],
   "6m": [
-    317.5199890136719,
     320.1300048828125,
     322.8500061035156,
     322.80999755859375,
@@ -158,10 +157,10 @@
     256.239990234375,
     258.4200134277344,
     251.44000244140625,
-    244.99000549316406
+    244.99000549316406,
+    237.8800048828125
   ],
   "1y": [
-    416.05999755859375,
     412.8399963378906,
     413.67999267578125,
     391.67999267578125,
@@ -410,12 +409,19 @@
     256.239990234375,
     258.4200134277344,
     251.44000244140625,
-    244.99000549316406
+    244.99000549316406,
+    237.8800048828125
   ],
-  "lastClose": 244.99000549316406,
-  "oneYearReturn": -41.11666419969583,
+  "lastClose": 237.8800048828125,
+  "oneYearReturn": -42.3796126845911,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Here's How Much Traders Are Expecting Adobe Stock to Move After Earnings - Investopedia",
+      "source": "Investopedia",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRDVWeW4yMWFicTlJeE1GX3h5YXRjZkZiQTlKeHBCNVktRkU3MEFHZ1pYQ0xNZXAxbmV1b25BQUsya1JvTW1qNFZodmtZRjlrV3preHdwSlBidVFvWHF4UGo0UFF5ZnV1dkkyUUk2MzBISV9Hdm82bmNiWnVvQ3o5S29EZTEydnV4emgwTmdocmFPVHhSSTA0MTF5SHNLNXVjTF8wM1VFellNUXF2SnFraEFzWUVPSzh4QmtHdV9LUkRXcHVP?oc=5"
+    },
     {
       "headline": "Should You Buy, Sell or Hold Adobe Stock Before Q2 Earnings? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOTdVVk9iaFBDUE9NZHBjaW5VODVaN19hQVc5TEhrXzBQbzJpMExwU0tRUkIzbldqZDdYRXBjVUJzSV9XRUtPeVNoVWpxNmZrMlNZYks3bmtYQjZMYU5aUl96c1FyMHFCWVd4ODgyOWdxVExhSFRtbUlWY2xqaGx1NVRPYmMzc2dNQ1lHcGhEVWhJQ3Y4?oc=5"
     },
     {
-      "headline": "Adobe: Buybacks Are The Only Answer In Upcoming Earnings (Rating Downgrade) (NASDAQ:ADBE) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVS1ZS3hJRWxBaVBSNkFNdjlNY2FZVDZ5V2l6NE5oejhNb2xrTm9rQ09pcmlOVURtRTFSVlRQczIyQ0FCTjg3QjVtdWRoY3pWWHRjUzJ1ajV3UEY5M1c5RWs0akpONWV6VHN3bmxKc3Jqd3Z0RXFzdWZYS05xblB0dVJzbTEzZ1dLTFd3c0lpa1BibFItSDg1bUVyN1hjMHZEc3pIMDh0ZVRlTWdYUndOalF0Zw?oc=5"
-    },
-    {
-      "headline": "Cheap Adobe stock has formed a risky pattern: will it crash after earnings? - TradingView",
-      "source": "TradingView",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORUxnZEh4VFA5djVmQmRhbGtuNmkxRURFYng3Wks0bnhYVkxpN3FUVUF1OUxPY3QwOVhkTFVsa0xOOFk1ODRfQndCS2RqSkZudUdodDY3bmhRTzdSNEc3a25sWElTMjlpcUZab2UxUkN3RWhRZFZoaWZjTlNvSjMxQmtuVjg1cUtMM3lydVQ1ajJ0d3RXc0pmNUdmam5Gd2N4NlNzeG9RbGExbUtYTndobEZ0UDZEeTBzMXBjdmpVVmJJQnBfQ1gtYlJn?oc=5"
+      "headline": "How Will Adobe Stock React To Its Upcoming Earnings? - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGZGQmFSMnpfOWhPNmdWZzJlY1BoRGF2M2xVc2hFODhDVTVnWlEzRDBBeFNSXzJUOHNTUlI2Zl9kd19TaWtYRG9pT3g0NWdYY1FXVDdGNW1LM3gwOFhFZXMtbnZGQkc0Z1EwMmVuLTRwV0FFQ012M1hRWHhsRXptb0ctZVF1T05RR1lLN2hOZUhRVERzQVJoNFB3b3AtZHQ2cnVuZV9ROG1BUEM3XzYtWm9kOFo?oc=5"
     }
   ],
   "insight": "Tracking Adobe Inc. (ADBE)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-10T05:59:15.502Z",
-  "builtDateUTC": "2026-06-10",
+  "builtAt": "2026-06-11T06:17:14.732Z",
+  "builtDateUTC": "2026-06-11",
   "source": "yahoo-finance",
   "1m": [
-    87.73999786376953,
     88.37999725341797,
     87.08999633789062,
     85.86000061035156,
@@ -24,10 +23,10 @@
     89.45999908447266,
     91.87999725341797,
     90.48999786376953,
-    90.73999786376953
+    90.73999786376953,
+    92.55999755859375
   ],
   "6m": [
-    131.27999877929688,
     131.3000030517578,
     130.22999572753906,
     129.72999572753906,
@@ -158,10 +157,10 @@
     89.45999908447266,
     91.87999725341797,
     90.48999786376953,
-    90.73999786376953
+    90.73999786376953,
+    92.55999755859375
   ],
   "1y": [
-    113.55000305175781,
     111.5,
     112.1500015258789,
     108.61000061035156,
@@ -410,29 +409,30 @@
     89.45999908447266,
     91.87999725341797,
     90.48999786376953,
-    90.73999786376953
+    90.73999786376953,
+    92.55999755859375
   ],
-  "lastClose": 90.73999786376953,
-  "oneYearReturn": -20.08807095988464,
+  "lastClose": 92.55999755859375,
+  "oneYearReturn": -16.98654927480381,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Lennar (LEN) Reports Q2: Everything You Need To Know Ahead Of Earnings - Yahoo Finance",
+      "headline": "The Home Builder Rally Left Lennar Behind. Watch Its Margins. - Barron's",
+      "source": "Barron's",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QQ0hBWnBqQkVzX21LeFVYSmFPdEVBWnU2RzdGQ1BicTJIM1RZT2lCMXVFVTdfdkFtS0RUS3hnTWtzX290Zkg4Z2VramI0cHdMX3FpMVg5aUdqVEZ5bWFoRjRiOFFqaUxQSjJTdW4wXzN3UEhhVmdLRg?oc=5"
+    },
+    {
+      "headline": "Lennar Corp. Cl A stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOXJISy1ibnBLZmZzRXhqNk5qX0U1aEwtUy1jTGtBaFBXMjQ0UmQxdzg2VDk5b0NZMUFfWHhkWHo4Z0h4ZW4wV01UR1RkOElmVVlsTmItdVRFZlFISTlBclhvYWh5MUczbWlTM3pHTWpGclh3dnd5TVRIT3ZmQVQ5WHRxMHZiYWk2ckxjYV82UU9kRGNheThRSU9lbkhaWHgyTUhKR1FSUjRrMFh4UDdfa1VHUUhJMEMyS2hpN3NhLWtRbDJZRFZFdFJhRGpNU0hsOHhPZ1pQS2lPbWgzYldsbGhOdVh4RmdV?oc=5"
+    },
+    {
+      "headline": "How Is Lennar's Stock Performance Compared to Other Consumer Cyclical Stocks? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGc2Qm5OMHpnYlhlbWJSZ1FkM25iYWIzVDVXQUZka3NtcjJVUGpBTHJmQlBYX0YxZ1ItRG00Y0h2NEJSWS1WZFJwZHRlTHl5QU43dmd4dlJ2NlZPTzlfcWZrdzJSZ3pNSnFDeTZCZ0ZaTnF5ZnlHVEZNUzVMRWgxQ0RZemVfd1l2YmtzR2pMVVVDOWNFeGZnX2drU2VGZw?oc=5"
-    },
-    {
-      "headline": "A Look At Lennar (LEN) Valuation As Analysts Turn More Bearish On Earnings Outlook - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMWZWRGNNZjRNNGtralhKMDdKS0hFdzZMZXJ6YlowRjdFMW90UU5JWnptWF9xMzVyMlRUZTJ1TTltaTlQZHJPRm14d1VYeXpWUFcwQVdEM0diR0drdDZndS02emlCMllfcUlJS2ltb2FQTHNqMXlLb1UzMWJOR2JkR3h0TDZ0cm4yaFpHRVpxQ1Bkb2d2dFBtbTVtZzRWYWkxZlE4b0ZjcTlEeWx5Y3NjVVV3bDAxYjd2cVJfdjYtNUhGUnBxMTFqQkZBZ9IB0AFBVV95cUxQODlaRHFRVzBfRGs4ajVqQ1ZReFJyVnpKdk5qMlU5Wnh0VjBfcXlfczY5TW53N0xnTVVQd0JIeTEyUDVCeE94bUR1QThDbVJEOVF6cGYyOF9Fc2JYNzVvSExMTzBhRHY5eU5kUnR4NFk2ZHJ0NHFybGhYOVlWWUlQYi1OSV8xQkwtbG1ZRTh0bU4tMERyeFhON0JLbS1mT2pNRXJlN19JbTVZWk1CSEk5UkM1Nm5CdlpZQkhnTVJPajNBaE1Pd2RKVkZzTG80Wl9B?oc=5"
-    },
-    {
-      "headline": "UBS (AMUB) preliminary autocallable notes tied to Lennar stock, $10 principal - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNGVqelhRN3dITC1fZF9hOWFrWjlsV3ZaakV2MHVIb291YTJFQklpRXdPeGxyLW1wNmhLakxzeGcxTVBKUWhlek5HVnYtdnROV3l3Q3BvNlNSU0pVRnFuM3pDVThIOVpCUFB5OTcxVVEwWVRESWx1cTVYeGVLVnF5WFluRWFYajJ4VHRaU0RTQWp3dDVScEExUktkU2E?oc=5"
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2o2M180S3pNWkUybExhNXh1aWx0cmVMc0ZmQVA3Q04tSUxOajBwMWRMNlV3ZGtUT0tuRXBmdEdlTjdrZWw4SnQ4c1VCYTFrVVZYN2h4NDlmaGVwTkpXN1l0Q2xkVDF4cGJkQlZxb1RoSlFHeXlBQ08yeEdKUldmNDI1d2pQQ1pnamNoMm9hdXRlTjFpSmFUMUVZRFgza1Y3QjFmTnRpaXU?oc=5"
     }
   ],
   "insight": "Tracking Lennar (LEN)."

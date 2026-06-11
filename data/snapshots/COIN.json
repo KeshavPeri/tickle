@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-10T05:58:52.143Z",
-  "builtDateUTC": "2026-06-10",
+  "builtAt": "2026-06-11T06:16:55.163Z",
+  "builtDateUTC": "2026-06-11",
   "source": "yahoo-finance",
   "1m": [
-    192.9600067138672,
     201.16000366210938,
     216.60000610351562,
     207.63999938964844,
@@ -24,10 +23,10 @@
     163.22000122070312,
     164.1300048828125,
     152.39999389648438,
-    162.11000061035156
+    162.11000061035156,
+    155.5
   ],
   "6m": [
-    264.9700012207031,
     272.82000732421875,
     259.8399963378906,
     263.260009765625,
@@ -158,10 +157,10 @@
     163.22000122070312,
     164.1300048828125,
     152.39999389648438,
-    162.11000061035156
+    162.11000061035156,
+    155.5
   ],
   "1y": [
-    254.94000244140625,
     250.67999267578125,
     241.0500030517578,
     242.7100067138672,
@@ -410,29 +409,30 @@
     163.22000122070312,
     164.1300048828125,
     152.39999389648438,
-    162.11000061035156
+    162.11000061035156,
+    155.5
   ],
-  "lastClose": 162.11000061035156,
-  "oneYearReturn": -36.41248958267745,
+  "lastClose": 155.5,
+  "oneYearReturn": -37.96872325542269,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Cathie Wood's ARK Invest Buys Coinbase And Circle Across Two Sessions, Loads Up On Alibaba And Meta - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-07",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVdkYjdKVHc0UlhJdU1iUWlSaUpXaHFOS2I1bXhsTlFFcHR6SWlSYVY1YUowMnUwX3VLVVhPS3hXY3BFN1JvRjlvN053MWxQaXQ2eFAtVTQ4MUpqWnhEYWdXVk5DV3Q5eFF5ZVNXZVhQcDRWZFdnTkptcDVocERGWk5ZYnllYVdaZl9XaHBPbWtfTk0xazJNSg?oc=5"
-    },
-    {
-      "headline": "Crypto stocks in focus as Bitcoin steadies after deep selloff (COIN:NASDAQ) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMG5zUjE4ZWZ6bHNzd2RpU1ltMl9OcGlRVHplclRfTm56UkY4YVp1SElERGpsSF9QZDBCZS1vZkMwbmJXdEZKNTExVmxlNnhXeWdOTUhDOE5VSTYtbmZCMTRMYVd0V3kyVjVKZEsyX3ZVUE5qdld3LWVlRlZWOUhhZDhOdmtLODdtVVVjYWJaSU9hRGxINGlYZTRmMzBHR1BC?oc=5"
-    },
-    {
-      "headline": "Why Coinbase (COIN) Stock Is Trading Up Today - Yahoo Finance",
+      "headline": "Strategy, Coinbase, Circle and Robinhood Lead Crypto Stocks Rally Amid Bitcoin Rebound - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFpYUnl4ZlB0bEpPY2wyWUxzX0tTczBRRHllekFMS0hYVlRQUmJJcVROdEIwb2Nza1R3NUJJQllDLWx5ZkZ3QUhvX19hZzd3cmlpZmRRdzRhaGhfalR1dkkxdXplbUYwWWpCNmRrT0N0Wl9rOGN4WUQyVkxseHpPOERxejhla2RLWUVqRXZQOGEtNUp1OGM3TXFpcmY?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZl9qUFhlajAzSVN0RWpvWk9qdWpBN0pDclRuTm5Hc01hNVNRdVp3NFo3VDY1ckZ2cDNQSTlTN3hFVGJSVkZ6b2JTMHQxWmVaOHZUendnVHZBMjlMckNtNThzeW1jcGFmdTRKUjdSWDktRHFxdTV5Q2JjdUNaYW5kNlNqOEpJM0tGYXlCdGJmV3BvZXBlekNsdGlTOFlPU0xJcFpORXNqRQ?oc=5"
+    },
+    {
+      "headline": "Bank of America offers blunt advice to U.S. stock traders - thestreet.com",
+      "source": "thestreet.com",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzU5WGhzVG5xclk5ajNuREZFWTFZRDNodVRBT1FrQnNUWTlDdnFyWGdpVXZXTk1iRGVVTHY3SVh3Mk1Gby00OVFGTGtRNk52NmZTRGRFckdfb3dZWnZmMDdSUkpQSC02cTEtYmZqRUVHYXZHY0hjV2R2a3lWbmxvN1hMQmF0NC1VdDctd3lra2tsX2FQeEUxLXp5Qjh4QQ?oc=5"
+    },
+    {
+      "headline": "Robinhood vs. Coinbase: Which Fintech Company Is the Better Buy? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1V3WlhvM1pKN0NCRFJsRE5WX3hrZjZFUUpDR3hnR3hTZFRkWWlOR01YWjZOUHVPOERfaHc4NnR1QlNXUGtFd3NabmJMTl9rQnJraFNEaWhOaUlCd1ZWS0dOeUlBYkVHVUpVV1NwTGpRa2RVN3YwVjh5NDExYWg1TC1GVURmMVNUcXB0ekhnVlFDLW5IeG5kSQ?oc=5"
     }
   ],
   "insight": "Tracking Coinbase (COIN)."

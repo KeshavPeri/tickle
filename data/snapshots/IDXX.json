@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-10T05:59:10.975Z",
-  "builtDateUTC": "2026-06-10",
+  "builtAt": "2026-06-11T06:17:11.004Z",
+  "builtDateUTC": "2026-06-11",
   "source": "yahoo-finance",
   "1m": [
-    572.2000122070312,
     560.1099853515625,
     532,
     533.9199829101562,
@@ -24,10 +23,10 @@
     560.72998046875,
     564.739990234375,
     562.1599731445312,
-    561.1699829101562
+    561.1699829101562,
+    578.8900146484375
   ],
   "6m": [
-    755.9600219726562,
     752.8800048828125,
     728.969970703125,
     732.72998046875,
@@ -158,10 +157,10 @@
     560.72998046875,
     564.739990234375,
     562.1599731445312,
-    561.1699829101562
+    561.1699829101562,
+    578.8900146484375
   ],
   "1y": [
-    525.9299926757812,
     524.1799926757812,
     526.9199829101562,
     522.7000122070312,
@@ -410,12 +409,19 @@
     560.72998046875,
     564.739990234375,
     562.1599731445312,
-    561.1699829101562
+    561.1699829101562,
+    578.8900146484375
   ],
-  "lastClose": 561.1699829101562,
-  "oneYearReturn": 6.7005097113940995,
+  "lastClose": 578.8900146484375,
+  "oneYearReturn": 10.437258715918942,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "IDEXX Laboratories Stock’s 63% Gross Margin Story: Here’s What the Numbers Say About a $909 Target - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOGttVTR4eDZPUHVncUNtSlVDeFE3YVktVXh2SUt2NlFvVHc5WnZhOUIxRXdORkQzazRMeDB1WlhJTVZOem41ZkFod3dISWQ5R2VQb2pQbmQtcXp2el94aXdoWVVRQlhoSTVRTGFnYUVqTi1vTUNwUl84eWkxVWR6UTBPWDBUYVN4UDJIRldEREYxV3NWUjQ1bE1RajJOc1oyVkR0b0VwbkY2RngxTzZVSWJjU1BFdHhGbDQw?oc=5"
+    },
     {
       "headline": "Is IDEXX Laboratories Stock Underperforming the Nasdaq? - Barchart",
       "source": "Barchart",
@@ -423,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1Y4VkMtdzktZlVDU3g4TjdSb2x3WEEzdXVZemMwNTg4bWhFb3pFVVdrMm9qeUlnQ0RQdmRwanVDVDV0aUhVWWJDd3lMSDU0d1BTSjRSR1gzTFBNWDFFc2xzN0l4VllEeWNQcE4xdVJsRHNLa0JfT0tCbjdsN3p1Zk9wU05ZZ0dlbUx6YkFoMWFJRVhtYkVkY29kdkc1Zkk?oc=5"
     },
     {
-      "headline": "Here's why Idexx Laboratories (IDXX) is a strong growth stock - MSN",
-      "source": "MSN",
+      "headline": "IDEXX Laboratories Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3kwUUNab1M0SU1VM29YZHRPb1ctMHl6Z3p4ejhkWDFOaVllQU1aSzMzbzdFOWozSlFkbTc1YnhUNTFyeUJzNHF2UzVvWHVVUzBQUDRmdjNlcjNkLXMzbkNqRkZSS25KeEJfZ2FfX0NpbnpYMkQ3ZEFVZlBacHZnV3Jha0RkOC1Sdm9scDljLXpXYmdwcUgwRmVGTjh1Tkt5d3RLc2dCOGpUY3B5RkJkQVk5cw?oc=5"
-    },
-    {
-      "headline": "A Look At Idexx Laboratories (IDXX) Valuation After Earnings Beat, Outlook Upgrade And Product Expansion - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNEluYUhkeEt6ZGVvREJCOHZvYWUwOUh3WWZhX2t6Mi1Oc092N0NKUzBPNHV5Y2dOOTdRcjlybTlMUHFYNF9CLXR4Ul9GaDFqM0ZXNHJZeTRQeVJoZEhRZjRkaFU0SzExaWxraHJFTlFFNmZwMVZlSlBPOVJteFZkbGtjR25SeS1weHlORGF2N2t0cmJ5Wkp3ZHJGMTYwT21YamNiY3lvdWpCS0o5cHNiS0oxWVh3UHREOGpld1JxWjFWZE1BbUllVzZOTHFObDY0MXBXYlRB0gHbAUFVX3lxTE5KbWRja2FFdWdEcVpTM2YtWHRBSVJhbEt0QmtFMkpqUUhJYm92WnhLdXdEanZCVmJ2WlhNbHY5d0E0XzFQQ2dtdWJEZXZZMDlBME1tOUg1Rk1VWEtOUlpkQmFFVFBGbmNBY1R6MDhDN3lLMFhUaXkwT1pQNGZuQ1F1Y1h3UWUxa29yOWNnc3lVU1owNDN0ZVBWekgyc1h5Qi00U2lWVnhRdUcwOUFMbHdHeFdscGZlcExFbWVpdVdNUXQ1cVVxX2EwNTVDY1BlZHZHTlFUTEszZEhTOA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUDNFVjlZUFZ6TkJOaTFKQ3J2LXRUczY4T3ZwbFBfNHZoWGFzei1aWVhtUVQ3dF9Rb2lCQ2RQcmZuLWNRVGhVV1FNejctMFpaRmF6eGxmRkJ1VW15bTNDT0R1WFR1azZKeEdfVkFRREhDdGYzX2k5OW5xMXJDT0dZSDdoeWNGLVQzMGxyd21MOUlRMUhZLXh0dDFyWm1sWGxFOEYtRWxvcTlRZ2RLcHNfeE5vc2ZLYjhqaGlmeWd2aXhfRnNIc0VOTnhuUXFQb1E?oc=5"
     }
   ],
   "insight": "Tracking Idexx Laboratories (IDXX)."

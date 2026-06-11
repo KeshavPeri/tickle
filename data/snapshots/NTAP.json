@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-10T05:59:20.627Z",
-  "builtDateUTC": "2026-06-10",
+  "builtAt": "2026-06-11T06:17:18.700Z",
+  "builtDateUTC": "2026-06-11",
   "source": "yahoo-finance",
   "1m": [
-    113,
     118,
     117.7300033569336,
     116.2300033569336,
@@ -24,10 +23,10 @@
     181.0800018310547,
     178.8699951171875,
     167.0399932861328,
-    170.30999755859375
+    170.30999755859375,
+    165
   ],
   "6m": [
-    109.25,
     111.55999755859375,
     112.2699966430664,
     115.83000183105469,
@@ -158,10 +157,10 @@
     181.0800018310547,
     178.8699951171875,
     167.0399932861328,
-    170.30999755859375
+    170.30999755859375,
+    165
   ],
   "1y": [
-    102.51000213623047,
     102.62999725341797,
     102.94000244140625,
     100.48999786376953,
@@ -410,12 +409,19 @@
     181.0800018310547,
     178.8699951171875,
     167.0399932861328,
-    170.30999755859375
+    170.30999755859375,
+    165
   ],
-  "lastClose": 170.30999755859375,
-  "oneYearReturn": 66.13988294748118,
+  "lastClose": 165,
+  "oneYearReturn": 60.77170848263359,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Assessing NetApp (NTAP) Valuation After Strong Q4 Results And New AI Partnerships With Cisco And NVIDIA - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeV9VcXlvaHlPZ0dYcnJhalB5MjdodUhKLWN6aWttZU5uWmdTOElTeE92bFhfQVhZM0tYS3JlcnNGdVpBSHJmenRIS3BrNHg4Z3B3cUVpbnpLSGY4NmZjSEprR2taeXA4Z2NwM2VjV05mS2dXTW53VnRzbUlZMmIybVdHRjZGOTVwWGVVLUpzX3dPWUJvLXVRd1RfNXMzVmlQN1JXdDUydEZkRENLVEljRWRzaVBwVS1QRXFuckVSd9IBxAFBVV95cUxNV3lZSF95bnFBVlVpRUwwQzJNYTlFc0FFb19ab2hpWVpiTjlGZEZWX3lIemM2THZncGplcUxUcGN6TkNiNk1tSmlLN2JMSUxvNjdtMHVHSV9Ja0ZjOE5kM1YxeGR2cm5WRFlsalNHcW9ScXBhU0YwSm9FRThCaTdOc1Zfb3FiUlJEMkFxYURsU0NnUk5yWWg4OERTMWRGdzB5SEhhNWtkb1R0am1pNnB3TDRHY0p1bGgtZU5WT1NEb2piM3JK?oc=5"
+    },
     {
       "headline": "Could You Ride Out a NetApp Stock Plunge - Trefis",
       "source": "Trefis",
@@ -423,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSk9hdlFhcVFtbXl0NzZsQmNoNEJUNHlpbXAxa2pqTHlyZTZ4d0t6WWFpa0dxcmdfLXRCcnFOTTk3cmo0TjA4czhJLWxqN19MQkQwakxlX1dLcFlGQUNrN19SVU0zNTdpSzNmWml6blEyRE5mYjBBWDlKY3dQMU54aUpSZmZVcVFhNnlpX1loR193UnR4OE4xS0xORUhjRmczVjhB?oc=5"
     },
     {
-      "headline": "NetApp Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNnh3TDhlNnZ4YUNTU2owbVlkUjZnUHU1T1Z2ZFdoZV9oTHBPbWR2RVBGVnp0MnNWdlpXVERDSDgweE9qQW9DbXE0V3k4dWlCSFRlSENBdnF4cDJYem9CcS1RdjNRazA0S0ozTU92aGdZNFZud1laUGJ0WVFyekVpUG95dklZT090Q295X25yLURqV1lISUtMNUpFZkpHV2lVYzBxRWxwb2M5Uk9Ob1FYcjFJOXFJOXlJT0lvbm5MNjNnZnkzV204RmdvcWJaMEJxT2tkT052b05LU0lw?oc=5"
-    },
-    {
-      "headline": "Is NetApp (NTAP) Turning Storage Into a Strategic AI and Security Control Plane? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2pDelNvLWZGcm5DWldnZ09GOUVBYm8zTkxMYWhkaXZ2bWYxOWdrdW81ejNWVWdROS13MWtjeTVYYl92dmdBdFFHMVpqU0dabG1SelBCRUdhZm5kLUl4ZFcxSWtVTDZPb3hVS2pXcHZHdnA5VUZ6Q29pYTAtV2tRMHBCeUZOa3htcks1cWxKLUhwUE1rNDZUakZwQmVXVy1jakhya2tmbjJTaXZKT3pCbm5RSTlqVFF4Mjl4eENn0gHDAUFVX3lxTE0yYkNyTGZZeU13Y2l4VExfUDlKdEZFbXBqaWtHZV85QTlmYjJSWmhBYnA5RG5sRThVZklYWHVFWlMwc0g3TlBqZW9yUVBZY0x4ZWdpTGMzNG0yWFVKeXNNenZGNG94UlFiMGpTMjlsOFk3bFFoYjNBMmpJYmZndzAySGhjam9pVDd5Q2dfWlh2ZTJXc2U1bUYtYW9lZjRLMnBVTmlVblBXa3ZWRDY2Vml3NWxZUjNSQ2Y2SFowQUdFTWJpTQ?oc=5"
+      "headline": "NetApp Stock Rallies Ahead Of Earnings As Data Storage Rival Everpure Chases Breakout - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMWt5ODFUdjdXRDBaeEdFVnpBMkc2a2FrRVl6bU5mRDRYS29jRy1TVHBpS2tGUm9VanMyR1VyckJBNnA3R3pJZVU5SWNMRG9MNEswNWFxTExKQ21keTVpYTRwZkZ5UmJET29XNW9HdGZKQ1RUd09IWXRXbHd6NlRHUFVXWVVRSWZQR3RkbFVKUkg3UmRP?oc=5"
     }
   ],
   "insight": "Tracking NetApp (NTAP)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-10T05:58:56.263Z",
-  "builtDateUTC": "2026-06-10",
+  "builtAt": "2026-06-11T06:16:58.083Z",
+  "builtDateUTC": "2026-06-11",
   "source": "yahoo-finance",
   "1m": [
-    171.35000610351562,
     163.92999267578125,
     157.3300018310547,
     155.19000244140625,
@@ -24,10 +23,10 @@
     154.5800018310547,
     160.07000732421875,
     156.8000030517578,
-    152.49000549316406
+    152.49000549316406,
+    155.6699981689453
   ],
   "6m": [
-    195.97999572753906,
     198.3699951171875,
     205.5800018310547,
     216.97999572753906,
@@ -158,10 +157,10 @@
     154.5800018310547,
     160.07000732421875,
     156.8000030517578,
-    152.49000549316406
+    152.49000549316406,
+    155.6699981689453
   ],
   "1y": [
-    214.97000122070312,
     217.8000030517578,
     216.60000610351562,
     218.9600067138672,
@@ -410,12 +409,19 @@
     154.5800018310547,
     160.07000732421875,
     156.8000030517578,
-    152.49000549316406
+    152.49000549316406,
+    155.6699981689453
   ],
-  "lastClose": 152.49000549316406,
-  "oneYearReturn": -29.06451847827491,
+  "lastClose": 155.6699981689453,
+  "oneYearReturn": -28.526172641075664,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Cathie Wood buys $4.3 million of tumbling tech stock - thestreet.com",
+      "source": "thestreet.com",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWtxaEFrWVBLUzlEWDNYblJaczJVS2tLTER3ems4ZjRZOWVYajdQS1oyU0xFT09EMG5uQ1VJSzJRSjlDb25YSUdfeHhUc0FjT1ptZVBUWnZfdkR0MEhjMEc4ZHNxYmN1cmZrdGZnSENINU0tbnhGOEhNMnhVY0ZFR25PX1VZWkJpNTlUQ2h4QkM?oc=5"
+    },
     {
       "headline": "DoorDash Stock Eyes Breakout Relief As Earnings Loom, Ad Growth in Focus - Stocktwits",
       "source": "Stocktwits",
@@ -423,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNERNWnFNaXY5WUFKcU9FTzgySnNSblFZRFBnemxyNXB5WVF2U1BMWGgwdGFveHZPSG9CTUcwWGpDcmJBY25tcXN4T2pXVHBWVVhTMXBPbEMzQWxrTDRNRUJfR3F6bHBiYkR2b0VDZGhOLThQN1ZCTXV0Q0hzRFFnQkRqRTJYa2FDcko4cnRBOTBXY2s5elZTNl9Xa0d3M2FDMGRuY3NjX0haTjNDdTZXcFpTYlpwa2k2eEtMZ2pKWGpFUHROV3lKUndqM0p6Skgy?oc=5"
     },
     {
-      "headline": "Should DoorDash’s Expanded Commerce Media And Dollar Tree Deal Require Action From DoorDash (DASH) Investors? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdndlcmhoWFJwVmpvUUs1NkJ5OERucjE3azJzRWhaM3Q2djZzd09BaldtWEN4WFlaU3pUZWU2QWRtcm1ydno4RHBWVHRTdUMwNkpaQk9pbnZqUVJfbXJ3OFI4blVXWktUM2RSXzNHVFhoNllFMUpMdVVhTEVaTE1JdWs5ejB0LV9hdzVES2RiSS1fS0NHLTJwTi14QzlYbUR0dHNranZqZ2g0NlZNTnpwNXFDTDFIQ1Q0alpLdEZVUTRDUUx3eEd1N2ZmcHZuamlweWfSAdcBQVVfeXFMTmd4N0VjQ1B5VHd2bDkySVNXcjlrX3dDU293dnAwbHRwTXVIMHVGWHBFZVhSN1RIbXpUOHJJS2Frc2JnMkZ1cDlCNnNkUzY0NW1RdmFWbjB1dFpxOTd5c25QbGdnOHFvQ0hsenU4aTQ2MWszWmJobkIyQzA1RkpKRVNpcnkzVG43dXhDSnFsVC1ka2FxNmZ3TC1tT0tyOGdDOG40b2FJMHYtc2h3Y0VpRE9wSUtMSllhbVlQVTBUaE9iaXBkbDlpVFFUSmh3bWpKNUVJeW52bm8?oc=5"
-    },
-    {
-      "headline": "Do Options Traders Know Something About DoorDash Stock We Don't? - TradingView",
-      "source": "TradingView",
+      "headline": "Do Options Traders Know Something About DoorDash Stock We Don't? - Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
       "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVUVzbk5POWNuVTVBRnpLcWFManV5QURnYUc2WmwtdXFlQ3VlVmVuS3d5MTdTMU5TSU9yb3dBTEJ0MEFZWkFYV3JRckREZmxmaDVyNS1jbkoyY0h1clJGX3lTZkx3R3Z5NXlqOXl2bDNWNGxkb015QW1wMVNpRUIzRGxGZ2lfTzZFak1KaUd2azVCcUVRaWdEU0RKMENPaXd2M3dZR3EzWnpITm14YVFMZzFpSkRiM2dpY0xV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW1TWjROalEzWTc3V0lUSWZyMDR4OHJKMlM1eGY4QzIxMER0eHVnTEE5VmU2djZTRXRfRmFvQS1RSnNsQWJ6cWR5dFdCT19fYXBHd1h5SFZOamZsZ0ljeVdZV09WYW56ZHhoWldSSVl6OTgxd3dtNkpNVkpET0c0MW1tQnh5dXZfSzktbGtwMmJIQQ?oc=5"
     }
   ],
   "insight": "Tracking DoorDash (DASH)."
