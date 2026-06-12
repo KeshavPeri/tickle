@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:45.432Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:21.350Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    147.7100067138672,
-    153.00999450683594,
     149.55999755859375,
     161.13999938964844,
     155.6699981689453,
@@ -24,11 +22,11 @@
     158.97999572753906,
     149.32000732421875,
     141.8699951171875,
-    137.80999755859375
+    137.80999755859375,
+    129.97000122070312,
+    132.4600067138672
   ],
   "6m": [
-    89.5199966430664,
-    87.70999908447266,
     86.83000183105469,
     87.97000122070312,
     86.5999984741211,
@@ -158,10 +156,11 @@
     158.97999572753906,
     149.32000732421875,
     141.8699951171875,
-    137.80999755859375
+    137.80999755859375,
+    129.97000122070312,
+    132.4600067138672
   ],
   "1y": [
-    78.19000244140625,
     78.51000213623047,
     77.02999877929688,
     79.98999786376953,
@@ -410,29 +409,31 @@
     158.97999572753906,
     149.32000732421875,
     141.8699951171875,
-    137.80999755859375
+    137.80999755859375,
+    129.97000122070312,
+    132.4600067138672
   ],
-  "lastClose": 137.80999755859375,
-  "oneYearReturn": 76.25015124134997,
+  "lastClose": 132.4600067138672,
+  "oneYearReturn": 68.71736480661754,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Akamai Technologies Stock 5-Day Losing Spree: Stock Falls 19% - Trefis",
+      "headline": "Akamai Technologies Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNU9nQTZoaXFkUXlEYmJYWkJOb3E1b0hoZ2xIS28tWUtKSUNFUFpJQTA5U3RLQzJUX01kLTBobG03RDFfQlZ1TFQtbWN6MmRpVy02dU1XOWJGRHktS3hrdU4xV2huWGgxQVMwUFpCUzFDOFVpM0tsM201NmZvdG5mSlpFYWJ4UGZMUnhJT2hIR01ZbGdsQVpGUEQ4TTg2S2lvdE93clBxbENDbFJtUFhuTFU4dF9wWVU4UXliLUw3WVpHbHdVaFJEZFBYRlQwLVk4WlEyc2pOY3BWUzVTWmRVZmZmanFKN2pi?oc=5"
+    },
+    {
+      "headline": "Akamai Technologies Stock In Shambles: Down -19% With 5-Day Losing Streak - Trefis",
       "source": "Trefis",
       "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUZxMUluY3l5bThjTlJOdW9Ka1FjQVdjREZjMGpOdjhjUlN0TWFZYVZaMDFqMXZNbFcyRDJ2enlvaTM0R0pQajBjSnZwQ2VsZ0RjZGViV040aENyZVJ0MkFsbTEzY1dUMnlqOXRZYllxYkZuRWFzS2R5RE9laWJWSWxGV1hwd0hBYjg5MkRPcklzR1I0dElUaUtBdmpIb3F4N2JmWVRzWVJpMmpSYXBDZjhZY1RHUE9nTWc3aHFzZlB5OWNkUjJaRzF3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWVNNNWZoLVl1aXFPZ2NiTVU0YnZMZzFDNzZxSGJNeHJUaFpHVlcyY01SVlhLNk9ublpRV0tzMk5zVXpBM0syamFDa3h2S2xEVG9jblM3cDZjVUpEUTh2N00zanlMeVpmb2V4ZUdxMWFDYi1neGlTSTRCcHhiVUNZRHhxT0FpbDRLWEF4eGhRcElxZVhQS203S3E3Y3dZbzlMb3FQSGlnZEdFSXVQNXFDaF9UbU95R1hDcnhrSjJ3YWVvU3dOMWktVXN2cw?oc=5"
     },
     {
       "headline": "Is Akamai Technologies, Inc. (AKAM) A Good Stock To Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-07",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOTZIOEVwRWNWemZqRnJsRFZpN1NqbkZRN3Bad2Raek1hVFhqWHlvWUhzOHVBYzRJbnFDYkJjY1Bta2tPVlUyVDBHWUdiWVBrVmNodjg3M2VPN3NUcW82S1pIM2FLOG5taUhnUzNpbGxaREw1Y2N0R1Q1NzlrbGpmbF9jZ2FHYVozQjdIVzVLbEVOa0pGa0Y1M3c4bmtjQWM?oc=5"
-    },
-    {
-      "headline": "Akamai Technologies Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNblNIMFd3RzZZYlg2SVdkdTF5cG4wajcxbzZFclM4TTZxZDNDbUtvdjlNUmkzYkhGZ3R5RHZlcjFfczRWS2xqeDZvc1FrSGhZcWJhRnNJYVpxY3ZPS1NCa1RPNnIydHl6a0h4a0k3MjJZeVhxSEFPMC13NUNiWTcyQVBuYk40YWk1SmpjRUsyWnM1WS1COGZHYy1NM2JhajZCbkdpT21ONmtSZ1doSG16bDBSRThrQUxNamp3dmdSUnRXd05UclhNOXFXQzd1VE5BOF8xS2NXamxWUktkeEdQV3lINkhzQUUyanJ5VFdWUVdIdw?oc=5"
     }
   ],
   "insight": "Tracking Akamai Technologies (AKAM)."

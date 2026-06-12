@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:22.026Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:06.007Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    219.08999633789062,
-    237.52999877929688,
     210.30999755859375,
     213.1699981689453,
     200.0800018310547,
@@ -24,11 +22,11 @@
     242.57000732421875,
     215.94000244140625,
     217.77000427246094,
-    205.4199981689453
+    205.4199981689453,
+    191.1999969482422,
+    202.9600067138672
   ],
   "6m": [
-    168.08999633789062,
-    168.0399932861328,
     170.6999969482422,
     175.07000732421875,
     174.35000610351562,
@@ -158,10 +156,11 @@
     242.57000732421875,
     215.94000244140625,
     217.77000427246094,
-    205.4199981689453
+    205.4199981689453,
+    191.1999969482422,
+    202.9600067138672
   ],
   "1y": [
-    159.47999572753906,
     158.6999969482422,
     154.72000122070312,
     156.8699951171875,
@@ -410,18 +409,14 @@
     242.57000732421875,
     215.94000244140625,
     217.77000427246094,
-    205.4199981689453
+    205.4199981689453,
+    191.1999969482422,
+    202.9600067138672
   ],
-  "lastClose": 205.4199981689453,
-  "oneYearReturn": 28.806122192210037,
+  "lastClose": 202.9600067138672,
+  "oneYearReturn": 27.8891056186093,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Qualcomm Stock Shines Now But Storms Hit Hard - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN1J6SVpZVHBYYVh6cWJ0N1ZmYm9BeFYtblJMMmRpUy13NW1lVjhLTnFPRUVzbjcwMy1nRVBtak1pQUR1ZWZXdlY1c3A5RkVPLVZuUkJrclFyekRqbGZEejNFNElDejg5SHlTekVJVjV2bkVYblhOYWlxY1hCTVpWaHRCc2ZwZXBNV29IRWU2bE1iS2FqejdwMWxDMzF1bE4yMVVoNlBjRHlQUQ?oc=5"
-    },
     {
       "headline": "Qualcomm Drops 8% on ByteDance ASIC Deal, Marvell Falls 10% as Custom-Silicon Stocks Slide - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmtOWUctSXNBaE9aWWNqaF82bzJ0VmNMY19rQkZSeHp4WjNoQzZiX09VNWo3NXNqc1lMVFczeFVDWU9JNFo3WVZLZFZJdDlnc0FwSmcteHlKNGtIbXdMRlBabFNlSVBNeFRGTDgzckI5cnZsU1R3eTdyN1NwWWJRdHNVNjE2djMyM0sxcUJaTk41Wlp3Qk44Wm1mTXU?oc=5"
     },
     {
-      "headline": "Super Micro, Qualcomm Among Tech Stocks Getting Hammered Today - WSJ",
-      "source": "WSJ",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ0hTNTZJd3ZDeXhVUXBreW9YVGZSVFc2VXNMcEpDQ1ludTB4M0FKVHpjV25DcE5vZUtJeGcwSGdNUU1ybEtfbE94UXNyWGNEenB3a1VZTUF2UHZOc1oxV2RzSm9UQzlXaVMyQXdXZFBMM3lONmFqOHdTRmdVdVVrY01ZUUNOanlGQW13dTRpYTRzOG5UTERfdExaVkFDS3hBU3hJRjdaSHdrdF8wUHlKS2x6dnVveV92aDYwMU5zMW9KcXNtVzNQMHo5ME1Zb3JTM0RkcktoZHlhZXJES0dQU3RfUmlWQVlnckpMVnpoUGFwQQ?oc=5"
+      "headline": "Jensen Huang Just Told Investors to Buy This Under-the-Radar Artificial Intelligence (AI) Chip Stock (Hint: It's Not Marvell) - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTdfRTExODQ1d0cwTHhlRzdWTmpmT09BdklpSXNVUUZWaDI0eTNHcDRaSkxfVnF0MVVlNFJQREdOUGE3X1ZqQmlPcTkxUG95dG1Ec2VEemFxaDFVSDY3ckVSVzg3RkJTc0tyQzRaMGxNc0gwLUlkdk1wNTNlTi05Y25aaEZQbnZGWHNKZlZkVEszNW1K?oc=5"
+    },
+    {
+      "headline": "U.S. Stocks Move | Chip Stocks Broadly Decline, Qualcomm (QCOM.US) Falls Over 5% - Moomoo",
+      "source": "Moomoo",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0ZzeUwxalAtWlhHZURUMGg5S3NxU1gtZUd2QnBfT3ZMZXRBUHV5TGk2MDRUcFdGdVhtakVXT0REaUJ4dUoxdEN6bEFyVVJGUEd0OUpWQU9udVdBQU9JUDdaazJBM3JUVFBWSGZBeUtOdzhmV0NFaU41ZXhVSGwyaW9YcUxyTHN6VWo1VWZyVUFfeE5peEF5c3I5bHhVOUNXWFdMUGZBb3FnUQ?oc=5"
     }
   ],
   "insight": "Tracking Qualcomm (QCOM)."

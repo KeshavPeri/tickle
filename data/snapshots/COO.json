@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:55.165Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:33.198Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    60,
-    58.97999954223633,
     59.95000076293945,
     59.470001220703125,
     60.380001068115234,
@@ -24,11 +22,11 @@
     62.02000045776367,
     67.33999633789062,
     66.79000091552734,
-    68.62000274658203
+    68.62000274658203,
+    67.69000244140625,
+    67.51000213623047
   ],
   "6m": [
-    77.93000030517578,
-    77.41000366210938,
     75.83999633789062,
     75.9800033569336,
     77.02999877929688,
@@ -158,10 +156,11 @@
     62.02000045776367,
     67.33999633789062,
     66.79000091552734,
-    68.62000274658203
+    68.62000274658203,
+    67.69000244140625,
+    67.51000213623047
   ],
   "1y": [
-    71.41999816894531,
     70.87999725341797,
     69.69999694824219,
     69.73999786376953,
@@ -410,18 +409,14 @@
     62.02000045776367,
     67.33999633789062,
     66.79000091552734,
-    68.62000274658203
+    68.62000274658203,
+    67.69000244140625,
+    67.51000213623047
   ],
-  "lastClose": 68.62000274658203,
-  "oneYearReturn": -3.920464147506474,
+  "lastClose": 67.51000213623047,
+  "oneYearReturn": -4.754507968078388,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Earnings call transcript: Cooper Companies beats Q2 2026 expectations, stock rises - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONFVIN05VUWc1Z19KdVZaVTBmRThxMGZTZ1huQ1REcVh3WkFVVlVzSVlIdXBUUm96R2FuYVRRSFB2U2tCUF9UcVNHdlZwTFBRUHdxOVhDSElLUmR0Y0JKX1pZTU4yZFdqbTF4RzlrUzh4WjM3QWgzWkltaEk0SzVUOGxPRDZVck91X2dYamttdmQxSzd5bFlOUXRMbkF6NzBkenZza1hmZ3dINVBUMXdpUW5lUS1odXB2dU11MGViZDNSSHgwMWIzamk5WUpITEw2WXc?oc=5"
-    },
     {
       "headline": "Cooper Companies (COO) Sees Stock Surge of 6.9% - GuruFocus",
       "source": "GuruFocus",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa0l1M1RMVDFNRzFkOFVvX2VlbUlLdThVLUstRE1oSUd0czV2OHNkbi1OTjBTWHlmT1VveG1JRFRmZ2FhR0FvM3ZoTzMxNXJlR3BEUlU2eThqX2FXUUdKaFFjemRFb0R0andRdEcyYVZtaVp0cGFWNXhKODlocjZZZ2wzYU43eWpVUDZsMDRraHI5R012WWpLVXVR?oc=5"
     },
     {
-      "headline": "Is Cooper Companies (COO) Share Price Slump Creating A Potential Opportunity? - Yahoo Finance",
+      "headline": "Is Cooper Companies (COO) Starting To Look Interesting After Its Recent Share Price Slide - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-05-14",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcGFiYmFnTi00M3FVNEFoYkh1azlzZ1ZXSHNHUTVwbEVIanN2WHJKeER2VUlfb0tIZFh4Q0xVa2J1bm9CQVRTTFpURG9qQlcxd254T1J3LXhLNm1jWldFeWE5Yi1fYkJFbk16UVFfc3o0amhtSzctXzVDTnR4a1Fjb0FGbjlTWWlXemRVZVF6ejAtVDctX0pwenptY2N0QQ?oc=5"
+      "when": "2026-04-08",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWmROMDRiVzAxeGphU3h1WVAwc00wS2V4QkRvNGItYXk1b0xrblYzQkFUUmQ1WmJLRnBvODhPcUpEakVlZ1lsaElwY3BHTWlWRjR2ZjBmV2Rib2NoN2xtdU94ZktwOXZTSk1ZNjd1dDlrbUdtS2UtOFdiTl9pZzAxZGc2Ul9iM1VlVFEyNFNOaTlKNnkySkZZVmpsWnB0QnZK?oc=5"
+    },
+    {
+      "headline": "Is Cooper Companies (COO) Now Attractive After Recent Share Price Weakness? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-04-21",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3VZV0ZNalVfX0Uwblk3TUphc2Q1dnEyVFd5bU9FbnFnOFN0WkxXVy04cXNJLVprWEtHVUp5OUtEMTE4MGQybDhWb2cxX19SdVJ5bnZqdjVxNTBpdzltRFdqTERwTU1TR01NUUdXa0tkLWVXQ0FBS3B1QTZNMTR5VnhnVXQtMkI5R09ob2NSc3VJMnRSdi1uV241WVhLc1JsOFpaOVZoYm9vWDZ2NUpIQV84VjBRNXdycFBsV01QX1JrcnducUVJalBkN2ZmN2JPN2fSAdcBQVVfeXFMUDl4SVgyV1pEYm1WSWxiNFpMOHJPZEZsWEw3R1NfckM4R0wteVloWUhQaVNfaEFwNnZsRWEwSS1MRzhfWjhUQjdmUzFMODVDaWRIXzVXUUlxQ1N6QzFhMi1VVkNYM29hSDRCclZMc05mcUtsbG92Ni1yTHdCX0pzQWR6T2ZkMlZuY2JrUHZpSDBEV0RmU3FqOU1scUxMZkdReExTRTVHQllNSUdhclBnVmNBOERhcWFTb1ZNNmx6a3lteUFEYUZTRkFSaHl6REJXekZFU29nMUE?oc=5"
     }
   ],
   "insight": "Tracking Cooper Companies (The) (COO)."

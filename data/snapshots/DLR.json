@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:59.302Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:38.495Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    195.30999755859375,
-    196.24000549316406,
     195.27000427246094,
     193.30999755859375,
     192.83999633789062,
@@ -24,11 +22,11 @@
     188.6999969482422,
     186.7899932861328,
     182.14999389648438,
-    184.92999267578125
+    184.92999267578125,
+    180.77999877929688,
+    182.83999633789062
   ],
   "6m": [
-    160.1199951171875,
-    156.38999938964844,
     156.5,
     159.69000244140625,
     161.02000427246094,
@@ -158,10 +156,11 @@
     188.6999969482422,
     186.7899932861328,
     182.14999389648438,
-    184.92999267578125
+    184.92999267578125,
+    180.77999877929688,
+    182.83999633789062
   ],
   "1y": [
-    175.83999633789062,
     176.52999877929688,
     174.47000122070312,
     176.05999755859375,
@@ -410,29 +409,31 @@
     188.6999969482422,
     186.7899932861328,
     182.14999389648438,
-    184.92999267578125
+    184.92999267578125,
+    180.77999877929688,
+    182.83999633789062
   ],
-  "lastClose": 184.92999267578125,
-  "oneYearReturn": 5.16947027252177,
+  "lastClose": 182.83999633789062,
+  "oneYearReturn": 3.5744619057538762,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Digital Realty Trust Inc (DLR) Teams Up With ePlus. The Focus Is AI - Yahoo Finance",
+      "headline": "Digital Realty Trust Stock: Is DLR Underperforming the Real Estate Sector? - Yahoo Finance",
       "source": "Yahoo Finance",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSW94dVI0NWFKNTVmcVpwSndHRXFrZ1FTanlVVlpqQkQxR3NiRVdZWF91a2o2RGswaTJIOTE3MFFVUWRBWFNJcUVqQ0NEak1YcnFQR1lqRUNiZHhKbnJRNG1XOWhuWGMxVVlVbHhoNm9VeDIxeUpieE5xdWZtUzJYdFZpMkt5LWVfUHN6VG5BS3RBVmMxLTlXQ1BySQ?oc=5"
+    },
+    {
+      "headline": "Digital Realty Trust Inc. stock rises Thursday, still underperforms market - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUC1sTHMxQUNpczBRQkhXak9jTkxyOHY4Q1hXaFF4SmhheE1SaW04bTFua2JKVVpMdW1qelhTZXJoREw5OUg5aHdBdnN0X1ZCaFJWdW5JOEx0SFVxWlhhMWkyTjZyMFZWejR4bEVqWnZrcVZjV28xd0tmblRpdzJXanJ2aDdtZHRaOG5uekRCV0FPVnpXcTlURnJ6bXZCQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRF8yZGp2U19VWDFGWkVWamppUm5QSm96TXQ3YXdqSHkxbVhMQ0pmR19BNnE2UjNqdHZvX0lCSzROX3ZCSGV4TGZOVk5zVFhMRHdwbGdVOTNsMndrc0FSVGdEWTF1SGU4UXY0blZBTEhteXJSX3FodzExQkVyMXFwMDlYdTJ5bk9jSERwMnR6alNKenl2MFBtTnVxU0FTbzZZQXZuTm1YM0kwcEFhek5QWldhN1Y2OEVQTlV1dFN2UHpjMHVSSWR6MzdQeF9DbGJTamZGTmdHb2c0VlREakg4dVRXRXE?oc=5"
     },
     {
-      "headline": "Digital Realty Trust Stock: Is DLR Underperforming the Real Estate Sector? - Barchart",
-      "source": "Barchart",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOekdJbVhmUDVJdFNwSzVqYlpEZFpsdHhwWU9nMzBmdHloOE1XUDA3M3BwYWNCSWkxVUctMVhGZUgzUU5TaXliTXN0N2x6RWZDeU1pRDRTQ3ZnVlhzY0d2VzJJS0tESUdOYjdnQUhuZlZnUm5MV2lkSDJOcEZqTlZzVXhsUE9Ya2FSMjNzN081Rml2Uk1rUUNSekVxdWVJMGplNU1xN1BCSlZHSnNuR09tMkVqNXBEck0?oc=5"
-    },
-    {
-      "headline": "DLR Stock Price, Quote & Chart - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wd0k4WFVkc2NtZzhzY0wtQmx1YTNKWXlwbElRd0lMczByUUY3TnpPOGtxbVlIdnpRSm9oQ2xEcmZ0TnctWl8xTkxIQkdhR0t2LXlzNFNtZktXemJfb0E?oc=5"
+      "headline": "A Look At Digital Realty (DLR) Valuation After Malaysia Data Center Launch And Broader AI Infrastructure Push - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbDBYRW1QbDJlRkhCMm1pV2VVd3VmY2dBazk4d0xfdmd2a2k4bjlPaC16b05GMDFkVTRrckFsdUVxeXdnVlJNUGYtV0FHM2U1TFNzN3J1d1Z0S3hjRlVac1lfR2hBdlNfVWZwOXdOSGpPV0w0bnM3VEhFQ01hbGZZTEk1cjhmSXVjOW9GeC1XZHhpSHlBRFRTUnZscEpQX1cxZFAwS3V4TXZLWDNBTlFLbjEwbXNHbk0xMUVRV2ZYem43OTI4cEtiVElGRTE3cjZjY3Y5dF9rcDFyYUnSAdsBQVVfeXFMTWwwWEVtUGwyZUZIQjJtaVdlVXd1ZmNnQWs5OHdMX3ZndmtpOG45T2gtem9ORjAxZFU0a3JBbHVFcXl3Z1ZSTVBmLVdBRzNlNUxTczdydXdWdEt4Y0ZVWnNZX0doQXZTX1VmcDl3TkhqT1dMNG5zN1RIRUNNYWxmWUxJNXI4Zkl1YzlvRngtV2R4aUh5QURUU1J2bHBKUF9XMWRQMEt1eE12S1gzQU5RS24xMG1zR25NMTFFUVdmWHpuNzkyOHBLYlRJRkUxN3I2Y2N2OXRfa3AxcmFJ?oc=5"
     }
   ],
   "insight": "Tracking Digital Realty (DLR)."

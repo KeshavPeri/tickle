@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:25.044Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:09.746Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    49.11000061035156,
-    47.970001220703125,
     47.790000915527344,
     46.540000915527344,
     47.130001068115234,
@@ -24,11 +22,11 @@
     49.18000030517578,
     49.20000076293945,
     48.83000183105469,
-    49.43000030517578
+    49.43000030517578,
+    49.7599983215332,
+    50.68000030517578
   ],
   "6m": [
-    46.5,
-    46.56999969482422,
     46.47999954223633,
     47.41999816894531,
     47.540000915527344,
@@ -158,10 +156,11 @@
     49.18000030517578,
     49.20000076293945,
     48.83000183105469,
-    49.43000030517578
+    49.43000030517578,
+    49.7599983215332,
+    50.68000030517578
   ],
   "1y": [
-    40.2599983215332,
     39.939998626708984,
     38.970001220703125,
     39.38999938964844,
@@ -410,29 +409,31 @@
     49.18000030517578,
     49.20000076293945,
     48.83000183105469,
-    49.43000030517578
+    49.43000030517578,
+    49.7599983215332,
+    50.68000030517578
   ],
-  "lastClose": 49.43000030517578,
-  "oneYearReturn": 22.77695570279736,
+  "lastClose": 50.68000030517578,
+  "oneYearReturn": 26.89034063031905,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Truist Financial (TFC) Still Attractive After Its Strong 1 Year Share Price Run? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYzBjdUFSWF96ME82amotYkdYMGRzaHRwN2RqME9oUjNEUkg0dXNJeWlGRFR6MTdhZndmZ3FxQVJndEFUMmEtLXJhYzhOaG9ISFpkc09hOUZ2YWtSSURpdHNpYVE0X08zSmlVYVFCWmN3LU1MYmoybW9TOGJZRHhwelRKR0VQQ2gwWGdfcXdrcnI0LU1PRDNXM3l0aDBFbm5adGM5YUh4OV94dzhVT0w4RDlGeVU4WWNTdEc5dGVqNmI2NmRrZTA00gHMAUFVX3lxTE1YcmZIUTMwMlV1dnU5RThZVzBYQy1QWkN0WEZmUGdmOTNlZGZmMnRpS250RmNlbnpqMERNWF83ZDBFRHdIblFqa0xtaC1jRXZ6dF9QaEtHLUJxZjB5cFNNaG5fNUkwRG1PMjNMMmd2TVBVMk12bVhWNE51UDZXN0NzWFc5cDhKeTUtajA1aVNEc3JPS2kyeXNVY1dNNTVIVmNTTlIxelBnV0dka0Y1ejY3QUEzUWVTTjY0QThmQzU4M0JXZURxbmxIYVRQXw?oc=5"
+      "headline": "Cloudflare (NYSE:NET) Stock Price Expected to Rise, Truist Financial Analyst Says - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSVVEUnJFd3BEeG54emR2b3JMUXgzTDd1UEtNYjBEZjVaRE1JRHJ1akl3OHJkMmo3S2w4R2VnSHc2XzQtVTk1Qi1OUlJCMXZLLU5vYzFDc0huQ2YycGlaMXJMT2FfTGo2WDJxUkZoRzdsakktMXpOZVBsTW1pMmNfVnpic2MzWjZJbGJULVZvNFBSeE1XTS1aUjNwc3lQZXRUeVBLa0Zya204R1FfQkNQNWQxLU5QQlAwZDdzZGhnRXpRY2k3a3hpQ0hMUQ?oc=5"
     },
     {
-      "headline": "Is Truist Financial Stock Outperforming the Dow? - Barchart",
-      "source": "Barchart",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTDRQZmVSTzI3S2dEWU14cVJtTV9RQmN0STQ5ZW9WaWxWdkNkdVhFU05QYmFLVEN1a0ZEN1BFWm9QSkVsOGVTRTNFeF9fNWd6NThwU3Nzd1ZwZkIxVFZEMlc3RVAwNVV0TUtYcnF2bUlOZVlZVWc1TzdGSUZDSEF2ZW0tdDVQOVVJSmRueFR6TEZycnNsVkE?oc=5"
+      "headline": "Truist-backed no-cost coaching to help 500 small business owners - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGpldVFhaXUwYWt6Mlc0U09MZzZuZ2lPUlViU3ZQZ0NOVGlFS01WZUFLbG9HWlNxNzE3VXJCdWhISTdRcjNHSXBYZXFJeFNJYVlldHNNWk92LVRoLWI1N19hQV96V0lhZjlEemVEQWhBUjJMNkdWOXpzdjdCN3FCcExpYjJkbG92bnl5ZUtpWHFON0tMTzNpWDhEQkxRZVdKb081UkoyNXg3MzA1dkIwYThHak5GNkF0dHc?oc=5"
     },
     {
-      "headline": "Truist Financial Adds Veteran Leader to Board - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMjBHVGQyWlIxZjB4RWxnQUpacEZvYkxYdE1OeVhRdDlpNjZkYkVSZ1lxSXNUS2ZtdFktdlk0LW5Tc2ZoMk1LTHVJU01XOEpEamRmLTVXUzlkUWRKNEs4MlR2ajNVWi1IcGtRbTlJUHo2aUxtTnRyT0NqaDFieFZreFMzbkNya2taRjIyWVFDWk1hQjRHbFRVU1ZEY1JYanRsUFhxa3l0U0FVRDMzNlQ2Z1pSYjQyaTFLV3JiNnU3RU9aRlc2YWRQUg?oc=5"
+      "headline": "Truist declares common and preferred stock dividends - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-04-28",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUXMwb1JmcG8ySkJaUXhIeGUtMGhIclVndWo3U0xIcmJ3cW13ODJtanZNQVg0R0VLbEJxWk1WWUNzeFM1OVZ2R3J6dGV2TklpZ1p3d05PR283VmJaTW5KejdlS3MtcDRtMDlmYzVsd0lVR3dkT2pDbnp6c2J5QUtjYTU3djZlOF9QNU40TkNod3RwM1FFNmkxS2NERDJvMUlWaHNoN3JjaEFNRlli?oc=5"
     }
   ],
   "insight": "Tracking Truist Financial (TFC)."

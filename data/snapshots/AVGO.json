@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:48.505Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:25.007Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    430,
-    428.42999267578125,
     419.29998779296875,
     416.7900085449219,
     439.7900085449219,
@@ -24,11 +22,11 @@
     418.9100036621094,
     385.7300109863281,
     396.6000061035156,
-    392.1600036621094
+    392.1600036621094,
+    372.1000061035156,
+    385.57000732421875
   ],
   "6m": [
-    402.9599914550781,
-    386.0799865722656,
     381.57000732421875,
     380.6099853515625,
     381.0299987792969,
@@ -158,10 +156,11 @@
     418.9100036621094,
     385.7300109863281,
     396.6000061035156,
-    392.1600036621094
+    392.1600036621094,
+    372.1000061035156,
+    385.57000732421875
   ],
   "1y": [
-    252.91000366210938,
     256.07000732421875,
     248.6999969482422,
     252.10000610351562,
@@ -410,29 +409,31 @@
     418.9100036621094,
     385.7300109863281,
     396.6000061035156,
-    392.1600036621094
+    392.1600036621094,
+    372.1000061035156,
+    385.57000732421875
   ],
-  "lastClose": 392.1600036621094,
-  "oneYearReturn": 55.05911113980275,
+  "lastClose": 385.57000732421875,
+  "oneYearReturn": 50.57210774240958,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Broadcom Stock Looks Like A Value (Growth) Trap (NASDAQ:AVGO) - Seeking Alpha",
-      "source": "Seeking Alpha",
+      "headline": "After Earnings, Is Broadcom Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "source": "Morningstar",
       "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa1Iya3JnbkFuaTlTWGFoMFZRbnJ6VXVIRTBNd1hRNU9tODFXemRxa19zbUFQM25RS25yMFNKVjExQ0oxTnZXR0RKTUJxM0ExZHphT0VZSzNLWXBGa3p5RWpOX0lRcjlrNEVSVk9Md21FV3NQNElRYWhhUEdrSVBMbldyQk9CQk0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMEx5bHN1YUhaNDNSNFpUX2JENVJIeFJoRnNvQUx0ODd4UmVKclh0aDBMMkx6YlM5ZEpZUlU1ZENpQXdaM25MNk5TcUM2VURYY3dtWFJJR2V4aWtEYzB6SlJ1c1d1WHhCeWt6VTJXeHNic1h0ZkJOS1pIaWdFcTg1NGx2WXZJNEs3bHdTVzM4OTVvMlJjemYxS3drNA?oc=5"
     },
     {
-      "headline": "Stock Market Today: Dow Jumps 875 Points, Broadcom Plunges; Ciena Slammed Yet Holds Its 50-Day - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVR4OEIzekJWLXE1b1E4ZkxiRVpveXN2TjJTR0RJNXR0ZWU5eWZhLVM2ZElzQ1dfZHl0RmEwZUdTaDNYTGVaSXhyR1BpallrQWdZMXcyZWRwZjBvLUJjR2dnc3lka3RkcUJTN2t3Tl96YmxkVEFDRENXazEwN3RzVkh6UlFDZEV1eWhtODhKd2U4VGFlRkdCZl9ENXRQcWdVTUdCaWIxVUNJVXQ4cTBGWnd3?oc=5"
+      "headline": "Stocks to Watch Recap: Hugo Boss, Broadcom, Super Micro - WSJ",
+      "source": "WSJ",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaHZxdzRqQWx0RUZib0VuUzBUc1UxemtvM1ZaVkJhY2V4clVHbXduaVRHT2N2RHhqX0s2a1R6Q2xBbUxCV2lwcmZkLXpsMkhSOEcycXRNU2V4V1dVSG9Xc1FUQ3RJQ3RKanhlWTAwZU5pZjV5NFgtSnRlN25hS0dmWEh0TDFUNHA4N2FpY0dXNU1kTEFwNFVNWGJuZ25TdUhqWGFuX282QXdKN0c2YlpmRW8tVS1XS1JXbmExUlRfTEl5WnhjRjVtaWhPTUNpTE9NWTlMQWRWc2g3MmQ1bjlMaUxMN3JMTmFV?oc=5"
     },
     {
-      "headline": "JPMorgan resets Broadcom stock price target - Yahoo Finance Australia",
-      "source": "Yahoo Finance Australia",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0pnM0RPa1dFM1I2ejlUY1Y1ZDEtWmxRZWZjOERORUZfQ2lnV2doM3NnT3RjMjRKNWhpY2xLOUV0dVQ0bkV5bXd3RENzVXpiYklTQmUtNnhPUkw0T1JoQkYtYWhkOUxYU29QUGltRVFNTjdwU3VPLUVZVndOYmp3aEM3VzRaeGJpS2pGbjZB?oc=5"
+      "headline": "Wall Street Just Put a Monster Target on Broadcom. Is the Stock Still Too Cheap? - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRTcxX000MXVWczlzZ0hGTDJrY2FFUEVGWDVVUlVXUFF2aERMVUtLWEVkNE00V3REV25BLVc2SXlYeVZtZlR3aTFRNDMyOUIyMFVWcS0tR3dDeVFTdUR2elI2Y3RnMWt5Z2J3TnZxbzI3WDA1M1Z6WmoybHFGbkxJUTctUzZ0M1JibVZ1UUVPYVNyS09pN3NmNWRNNU4yYTdfdG9yXzAweDJSLXJITVR5SWx2b0hDaXAtVE9NNm9Haw?oc=5"
     }
   ],
   "insight": "Tracking Broadcom (AVGO)."

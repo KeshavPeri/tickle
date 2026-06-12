@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:06.572Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:47.529Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    63.470001220703125,
-    61.70000076293945,
     62.290000915527344,
     61.88999938964844,
     62.66999816894531,
@@ -24,11 +22,11 @@
     63.810001373291016,
     64.66999816894531,
     64.66999816894531,
-    66.01000213623047
+    66.01000213623047,
+    63.7599983215332,
+    64.51000213623047
   ],
   "6m": [
-    79.98999786376953,
-    79.23999786376953,
     80.22000122070312,
     83.58999633789062,
     82.5199966430664,
@@ -158,10 +156,11 @@
     63.810001373291016,
     64.66999816894531,
     64.66999816894531,
-    66.01000213623047
+    66.01000213623047,
+    63.7599983215332,
+    64.51000213623047
   ],
   "1y": [
-    73.4000015258789,
     73.11000061035156,
     72.25,
     72.86000061035156,
@@ -410,12 +409,20 @@
     63.810001373291016,
     64.66999816894531,
     64.66999816894531,
-    66.01000213623047
+    66.01000213623047,
+    63.7599983215332,
+    64.51000213623047
   ],
-  "lastClose": 66.01000213623047,
-  "oneYearReturn": -10.068118850165035,
+  "lastClose": 64.51000213623047,
+  "oneYearReturn": -11.763094518294164,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "GE HealthCare Technologies Inc. stock rises Thursday, still underperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQjRKYkFsTkd6MGR2dUpqdGZCdHpxQ0RYSm15UVlGTEJkVVdXdWlsekxmdU9OTkp2MDRLUDdjWVZFWXBHdktFemQ3UDQ1akxiTnRVcHYxcFpnRXNEOGs1Q1VTS0hMNVcxMUR1UTNSV0U5ZTA4dnVuWjV0a2RPOHR4MEhCcTZGRkgwaXdEWk1Nem5Md2MyZy1qN2RGdGVON0k1VnkwZ1FNOXJpWnVUSnZjdkJHYWE3S2prY0doMktZWHNla2FmdnUxbHlEZ2h2N1F5V1F6TnZBN1VsNDBQeFZuR2Faa1V6RGdaNHZWNg?oc=5"
+    },
     {
       "headline": "Is GE HealthCare Stock Underperforming the S&P 500? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -426,13 +433,7 @@
       "headline": "Does GE HealthCare (GEHC) Have a Durable Edge in AI-Powered Imaging Workflows? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0VILXBFUWhmQVJfcEJRaHcwdnE0UnhNLWtnWmhPeUxlSUEzaHJ3LVdjNkhyVk5rTGxmOVBwQmdCZm9FLXp2VlZ3eHE0cmxUN2hPRzNKNjFpT0JKTW1hdkVwYm8tVDZsTkRtMmY4ekx4emJFbUhFV3BpcVA4RVFzX19UR2ozcGRNQnZ3MDJ2SUt5UXRHSXRwTXJET1BoMUhybzhoSWRzUFBESm5JYUkySnhFQXRpMWYtbHRDckoyNnB3SUxLXzZxQzRUU25fck02azhxU0p6SXBHbHdFZnpBMTlrUE43Z9IB5gFBVV95cUxPZ0VILXBFUWhmQVJfcEJRaHcwdnE0UnhNLWtnWmhPeUxlSUEzaHJ3LVdjNkhyVk5rTGxmOVBwQmdCZm9FLXp2VlZ3eHE0cmxUN2hPRzNKNjFpT0JKTW1hdkVwYm8tVDZsTkRtMmY4ekx4emJFbUhFV3BpcVA4RVFzX19UR2ozcGRNQnZ3MDJ2SUt5UXRHSXRwTXJET1BoMUhybzhoSWRzUFBESm5JYUkySnhFQXRpMWYtbHRDckoyNnB3SUxLXzZxQzRUU25fck02azhxU0p6SXBHbHdFZnpBMTlrUE43Zw?oc=5"
-    },
-    {
-      "headline": "GE HealthCare Technologies Inc. stock rises Tuesday, outperforms market - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSTZEb2YyODJBc1pocklpaHpXeEJOZ2JmbW9jOEMzMVNrMlFCdExxSWlqZTdyZmEwMV9nUW56MUJyLXI0UnpaSmQzT3NKeTdUb1hDcVFoUkJlcWpyQzNTTDNsZE5EUGs0bl9VSWVCMmNkamNQUFhmQ2UzeWJwS2FxRWhTeVJUdnVlcTk4bUt5cG4xbExpYmVjVFEwYXlWRW9zNDRWQlBWRVp5SjZGYzlLNUluUHJuUFFDTl9vblFDaHA2NmozemhwYg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS2hoQzJZWkdlQVh0MHhmOGpWSlBvUVdvVkJEUWhZNTZRZUh2VDI3M2k1R3Q2eXFtaExSN3kzSWh4c0ZranB6YUtHV2lRTUpoRlJiQjdrY091R2EtS0VvUG1nbmFJQUNaVnNYanBoMHVkcnBCNVY3Z0Q0TnJDWWJ2NDkwWmVGZ3NhZjBaSVQwWFExd0c2dlZlV2lDZEV5aTVDX1dpYXg4bG5MY2MwUlMzWHo0LTJncGs0bzg2Q2FpQUc4THFGRmU1Sm9IQ3lLUGJEazdUV2FMaDNSbUJqdDhZbNIB5gFBVV95cUxPZ0VILXBFUWhmQVJfcEJRaHcwdnE0UnhNLWtnWmhPeUxlSUEzaHJ3LVdjNkhyVk5rTGxmOVBwQmdCZm9FLXp2VlZ3eHE0cmxUN2hPRzNKNjFpT0JKTW1hdkVwYm8tVDZsTkRtMmY4ekx4emJFbUhFV3BpcVA4RVFzX19UR2ozcGRNQnZ3MDJ2SUt5UXRHSXRwTXJET1BoMUhybzhoSWRzUFBESm5JYUkySnhFQXRpMWYtbHRDckoyNnB3SUxLXzZxQzRUU25fck02azhxU0p6SXBHbHdFZnpBMTlrUE43Zw?oc=5"
     }
   ],
   "insight": "Tracking GE HealthCare (GEHC)."

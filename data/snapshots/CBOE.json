@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:52.337Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:29.863Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    348.55999755859375,
-    350.4800109863281,
     355.79998779296875,
     366.70001220703125,
     358.6700134277344,
@@ -24,11 +22,11 @@
     286.0299987792969,
     281.9100036621094,
     280.32000732421875,
-    290.6000061035156
+    290.6000061035156,
+    301.0799865722656,
+    295.8999938964844
   ],
   "6m": [
-    258.1700134277344,
-    255.27999877929688,
     254.35000610351562,
     253.89999389648438,
     254.9199981689453,
@@ -158,10 +156,11 @@
     286.0299987792969,
     281.9100036621094,
     280.32000732421875,
-    290.6000061035156
+    290.6000061035156,
+    301.0799865722656,
+    295.8999938964844
   ],
   "1y": [
-    222.88999938964844,
     226.3000030517578,
     225.80999755859375,
     224.49000549316406,
@@ -410,23 +409,25 @@
     286.0299987792969,
     281.9100036621094,
     280.32000732421875,
-    290.6000061035156
+    290.6000061035156,
+    301.0799865722656,
+    295.8999938964844
   ],
-  "lastClose": 290.6000061035156,
-  "oneYearReturn": 30.378216563901972,
+  "lastClose": 295.8999938964844,
+  "oneYearReturn": 30.755629653618747,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Jim Cramer on Cboe Global: “It Suddenly Became a Very Ugly Chart” - Yahoo Finance",
+      "headline": "Assessing Cboe Global Markets (CBOE) Valuation After Recent Pullback And Ongoing Earnings Growth Expectations - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmszSFJubDJjM0drVkwwUHNoWFVUVktQMnJVLVRkSEV2UUsxaG56RTNNa3BwLVlyaVhXdmlBYTdIZVdzQ19iaG1rVWZxeFUwRUtrM3h5R0lZT1NGWEFfaXhqYVpFT2VkUUZCcENDUndVSVJRelNKNzJjTUxLMHFfT2tvZ0VIclJXUHJRejNVWHZmQzlfbl9CUUpaa3M?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUHkwU1NiLTRFNEdVdU8wY29JZkVzWGNITnJpVV9yU3hrRk95SEtNZ0RSaVVaY1FzX3RrUU1ycUpkNGVibnZHemFnellKc2VRYVkwWEdaOVk1UHk3WDc1ZHBoWkp1aldoTmhZOV9ONTlscTRXRVo1R25RMmR3M21QSlE0MDEtZ0ZSMjY0b3ZCS243Z2p6SU5MU19fSHlwZlBf?oc=5"
     },
     {
-      "headline": "Are Cboe (CBOE) Technical Jitters Hinting At A Deeper Repricing Of Its Long-Term Narrative? - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Cboe Global Markets Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQnl0N0ZWZnJvdTZTeDh5aVlSd2tqcnRhQnlZdkNhVWtTNS1lcWR3bUhDOE1xMWtyNUpNTjREbGlRb2oxeS1vZk9ucGhqdGtwUjI0MEl3dkxSbEg1YS1FUVA1VHU0WUp5Uml6V01SdHlBbHJvRGlNV202V2FrUUZkTWV6alU5VlVubUdYZjctMXJQT0pRZVgwdjFTdFRxLVRBdnJfcXREelU4MDMxYUU4ckE1VG1fWF9oV2tpUjlzX09nT05lb29Fd1otbjFndWdFbHRBU09vblI1RnFQRXNSLWFIUFLSAeoBQVVfeXFMUE5fbWVnLWdwV19yUUl1SjRjVkJoRDNmcjBsSk04RnhrTW5mUWNxNDk2eEYwSWpDY1V6bVNLTURYMFY4X2lscV9NSXpkZVJfXzFfMUpRSFlzTURqQ1Jjcm1GT3hvNUxMMS1ndmk3MzR6ZngtdnR5RkFZcTlfcW1JR3N4ZHFGMi1NbWYwTUlWVk14UDhYTGZ6TS1odExPb1drWkU2SFBFVWVZb0p1ZUtBU2ZkeklzRXNqWldFa1ZGUXlkR041RTFrcC01NWZvczFtdnc5N2dGc2wxQlZ0OU1SRTFzdDdGU21FQnl3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaFhCSFNCSENsaVJZYVY2cG5oOU42bm1TVFI4X1JQZDNCc3lvS2dDcDJmZ3UzdlptMFdnanVEQzdKRHJGM29qNG9wSmRYY01NZjVFNjRLQlFDb3dsTDVIeUJTRHREdUdhaUkxTFNHNDg1aE9GX1FiZkZWTHRfS3cxRWp0SzZQWktEY09DTUtJQ2c2bElqWVg1Y2JMMlFXN0ZKRGVtMVp0TEhSOWFCUzdCS0Vldk1MUmg4emZ6a3Q0elVxZHNvMGRuYjNmaGJ2a0lXbXVndW1jUTBCWVBMTVpXa0UwckdaN1dGSEJFaDdaWGI?oc=5"
     },
     {
       "headline": "Cramer's lightning round: Buy CBOE Global Markets - CNBC",

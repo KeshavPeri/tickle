@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:08.320Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:49.286Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    240.08999633789062,
-    242.3800048828125,
     236.97000122070312,
     232.02000427246094,
     234.42999267578125,
@@ -24,11 +22,11 @@
     241.9600067138672,
     236.57000732421875,
     235.22999572753906,
-    237.85000610351562
+    237.85000610351562,
+    231.72000122070312,
+    238.5800018310547
   ],
   "6m": [
-    195.32000732421875,
-    196.8800048828125,
     197.17999267578125,
     199.4600067138672,
     202.08999633789062,
@@ -158,10 +156,11 @@
     241.9600067138672,
     236.57000732421875,
     235.22999572753906,
-    237.85000610351562
+    237.85000610351562,
+    231.72000122070312,
+    238.5800018310547
   ],
   "1y": [
-    209.1300048828125,
     208.38999938964844,
     201.32000732421875,
     203.9199981689453,
@@ -410,29 +409,31 @@
     241.9600067138672,
     236.57000732421875,
     235.22999572753906,
-    237.85000610351562
+    237.85000610351562,
+    231.72000122070312,
+    238.5800018310547
   ],
-  "lastClose": 237.85000610351562,
-  "oneYearReturn": 13.733084947230115,
+  "lastClose": 238.5800018310547,
+  "oneYearReturn": 14.487260679413346,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Is Garmin (GRMN) Down 5.9% Since Last Earnings Report? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGVrUkh4NENSRmRZbUxSR3RQRGNlRDRfMWFJOUJwS3ljRTd5VmhjREZPMC1YaUgwZnI2cWFiZUZRRG5ad3FzcHBwUDFmLXI3SkowTzNhVjBFWEk2NjJBcGFadlM3dk9jci1MemhUVTRCaHRkalh0X0NIWHdaQlYwSU5PUFhNbm9Jb25mTVNtSG8?oc=5"
+    },
+    {
+      "headline": "Garmin: Growth Still Can't Justify Absurd Valuation - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmdmU1dYbXB2VTlvSFlaSmhYMmFmc283RUR6ZXJIeEtaRUNvdkZGLTBSWTJndzhFUUlhR3FHcHV2OFpualVKeFJCNm1lRzZHTW5EM0pQUVJuZmdtZ3ZON28tZUY3aUZJTXFnVW9na09oRmQxOFN6OWx0ZFBtdEJwazhzZkRNS0IyUDdmcUxGVmJ2ZFU4MktGaVdsSWhaWXBMWkk3UjN4OHlreWxzT2lF?oc=5"
+    },
     {
       "headline": "Garmin (GRMN) Valuation Check As Catalyst R1 Launch And Record Q1 2026 Revenue Draw Attention - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXNoa0R0WUJ3TkZ4WUQzV3BZQ0hmZkJhQ2JmaE5MVlF0S2RVX0QxYmF3MXVYaDlHZ0ExQnF1VE10SXJkb3o5WGw2WTh5d3NIVkEzOGJkVnQzOW5XdmFsem1HOEJXSm5LSEdjVVpOdndobS1HdEs3anNTVU1wdEhKanlpRTY4RExDTVNwOU9SQ3lscDJhOG1uUHpzcEJxaGkzU3VtejRmSXBVM0JONFU1bThScl9mR3Z0OENqWHZiMkdPMkxrSTVoTU5xRHHSAdIBQVVfeXFMT0xrajZQZlBzZHFfUWZBbnF2bG9hR29RMllHUjlhRUdnVkRVczZrOXZnTENyeHYzRmVtX25wV0RNU3YzcXMweWQ0TWZRb2dyLVFEVDd1d2swV3VJd1NFS19GWkxJTEpyc2N1UktVbjNWWjVlNFR6cUtLX1p0Uko0SjhZV2p4cFRqb2Y3M2dIZmxSVzhWNTlvcmQ5NGZrTy14VTlWOUhTWmQ5enVwSV9NSzY3ZU5WOHA4UEllYW5wN2JLNXlUWFZ6NHI5OU1ISExBZ0ZB?oc=5"
-    },
-    {
-      "headline": "Garmin Stock Records Best Day In 10 Months: CEO Calls 2025 ‘Another Remarkable Year’ - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczlmZVY0U25uTDk3RE83dUEybUR3SUFJazdlQWVoMFBEaUpVR2p2SkhDbnNvcGRWMDl2ZlB3TXpEa2U1VTRnNU9GSTFWNFhaV0RhVE50QlVvUG5uMFhUdWRwbFExTnZJN2lVS2FPazh2X3Azb0wzQ3QtbTJ4bEhHcTdLdVU2ZTc1VXVqMVNpaXlwc0llY3RUVy1xWTVsWDVEM01jckpOX3I1NENsbkdtWldEaXVkclVCUFJETWlGc3hNS0d2aDc1bGp5b0tyZFplTHUwTWZDMnNkVzhOSXc?oc=5"
-    },
-    {
-      "headline": "Garmin shareholders approve quarterly dividend through March 2027 - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVFXNGpsZDNhUGRuTktiNDZRZTNreVZDYVhlRVhEbnhnOEhVck1oYVZiTzE5Z0FtLXNjRWhUQWZoOWVwbVRjRkI0b0dnazRSTW9MVmo3TWhha0ViWnJuRFowa1h4dlVjeFpRdlpiRFdGZjFTa25MUHNNV1ZlbmhKeklabzJ0U1Y4SkZ1WlBreWJSLWQ1LUhnMDRkVFJYa1YzWFhDVVlnR0N3TkdLaDhtVlBnYXBVWERsR1RUaGtn?oc=5"
     }
   ],
   "insight": "Tracking Garmin (GRMN)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:55.221Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:33.207Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    189.47999572753906,
-    183.92999267578125,
     183.7100067138672,
     181.5399932861328,
     185.7899932861328,
@@ -24,11 +22,11 @@
     183.1999969482422,
     180.6699981689453,
     180.38999938964844,
-    183.35000610351562
+    183.35000610351562,
+    177.6300048828125,
+    182.0399932861328
   ],
   "6m": [
-    219.07000732421875,
-    220.3699951171875,
     224,
     227.24000549316406,
     229.7100067138672,
@@ -158,10 +156,11 @@
     183.1999969482422,
     180.6699981689453,
     180.38999938964844,
-    183.35000610351562
+    183.35000610351562,
+    177.6300048828125,
+    182.0399932861328
   ],
   "1y": [
-    200.52999877929688,
     197.67999267578125,
     192.8300018310547,
     197.6199951171875,
@@ -410,18 +409,14 @@
     183.1999969482422,
     180.6699981689453,
     180.38999938964844,
-    183.35000610351562
+    183.35000610351562,
+    177.6300048828125,
+    182.0399932861328
   ],
-  "lastClose": 183.35000610351562,
-  "oneYearReturn": -8.56729306356279,
+  "lastClose": 182.0399932861328,
+  "oneYearReturn": -7.911776593041411,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "3 Reasons COF is Risky and 1 Stock to Buy Instead - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlBVU1htUW04SWI4YUFLMDFoOXhEZTlFLXdoUVM5djF5ZHhsZ2FkUy00Vmtxd1BIekt0WU5DQl8wdko2VzhSeDkwdFVJVUs0S2Zidmw1WWhYdDMxejY2MHJlb05CQTVYOEVOT016YnBRakpSemotMVo3R3Z6Z3RKSWtPZ2NfbXNUd0RvajRvUQ?oc=5"
-    },
     {
       "headline": "Capital One Stock at $188: Why Analysts Have Buy-or-Better Ratings and a $255 Target - TIKR.com",
       "source": "TIKR.com",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONHpKNUdFbkpxTXJRcmJ3ZGxoQk5WMFZGcVpMSUpsV2ZHcG1DZlJXdExTTVloVEU0ZmdSakNZS1VMRGdkZm1lNkRVQjNRVnhVVW9WWHM2MU11X0k1YkdfMTVnenhnODRrRmd3NzdzS1JobGhZc2NVSG1vMTMxZWhlMExST0xFZTdFVXhYSzFYdHlCUTc0c3MxdHpRVWd2UENsRzdHd2IyVm5aWU0?oc=5"
     },
     {
-      "headline": "Capital One Financial Corp (COF) Stock Down 3.1% but Still Overv - GuruFocus",
-      "source": "GuruFocus",
+      "headline": "Capital One Financial stock hits 52-week low at 174.95 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNejlYNERBSGtiZUtpQUJfZS1STVBWTTBmMnNrY05ZMVZycS11TmpCc0RzWnNnWWJpT0RLd3pVbzduUHpHMFhXZy1yVDIyMHRXc1c3S3hSd3hqcFBzSmt5SzY3dEZDT2ZoZERpNHMxaGdKbWZDWlV1OW5kblc2YTlfNHVhdWxnUlNuTF9yb0RUVG5TX2lZV1p4T2JzYy1BV2dqTmY0c2MxNngtQzlsVkUxWGhTMA?oc=5"
+    },
+    {
+      "headline": "3 Reasons COF is Risky and 1 Stock to Buy Instead - StockStory",
+      "source": "StockStory",
       "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0sxOC1yUVh2VXhaalpRUWJTNGhDSW5ON21yb1BnajA3eUhjSC0yWDQ3MVBzcjRvUUtDWlV5d3B3ZGRndE1tMzB2bThqVjVta0dvV3dOWnhKX1g0UlFrRTlORm00OGVpSkJ3dC0xMlR2c1NOcUNEYkxnV2ZqbmJzMnYwbWV0OGt6aURVZ1FYWHB2U1dTU1FaZHZwX2pzaXNLOVlGM1lXT2RWa1FIMkpPNUNTNHJkNFkyOXUw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTBCYW8yaVd1UjNPLUhoUGs3T3VuVnU1Yk4yVWJVaTUzSHVvNzV5SGJwMTFuNHlVY0dMc2pGcnhhWlh0Z3pkRHU4clhxcVhVTUJPUTBzemJmeFA0dTE0aF80RHhkbTBsdzN5bWE4ZmF0T2o5WXZWU09lbktRZ0JzbHVKQzhHWUVmckNzbk9fdmhtMVZ5NGJDMnV3SFpmamJKU05YMjBFQ0k4emY5?oc=5"
     }
   ],
   "insight": "Tracking Capital One (COF)."

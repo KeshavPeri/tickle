@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:43.858Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:19.344Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    93.80000305175781,
-    93.83000183105469,
     94.30999755859375,
     93.31999969482422,
     93.45999908447266,
@@ -24,11 +22,11 @@
     88.33999633789062,
     91.19000244140625,
     89.61000061035156,
-    90.41000366210938
+    90.41000366210938,
+    91.30999755859375,
+    91.12999725341797
   ],
   "6m": [
-    93.91999816894531,
-    93.16000366210938,
     92.69000244140625,
     92.72000122070312,
     92.38999938964844,
@@ -158,10 +156,11 @@
     88.33999633789062,
     91.19000244140625,
     89.61000061035156,
-    90.41000366210938
+    90.41000366210938,
+    91.30999755859375,
+    91.12999725341797
   ],
   "1y": [
-    89.38999938964844,
     91.91000366210938,
     90.98999786376953,
     91.13999938964844,
@@ -410,10 +409,12 @@
     88.33999633789062,
     91.19000244140625,
     89.61000061035156,
-    90.41000366210938
+    90.41000366210938,
+    91.30999755859375,
+    91.12999725341797
   ],
-  "lastClose": 90.41000366210938,
-  "oneYearReturn": 1.1410720208362102,
+  "lastClose": 91.12999725341797,
+  "oneYearReturn": -0.8486632331764012,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT1BVUUlpV3FkeWRiY3FaT1l0cW83UlNrWUNTSE05Rl9BczNpd0FReFh2ZnB0cXN6bl9mR3R5WElaRHo1dDR2LUpEdk5PQ2pTM29pUmQtaUtjVXNZZ3dheXB3RmVPNzh3aE4tWExncktLU2t0OXBfWnNCcUd1ejRkb1ZNY0pzWm5peGtNZ3NlUkxIUnVCZVdMcUlWUHp0bGZMelFZYw?oc=5"
     },
     {
+      "headline": "Arch Capital Group Ltd. Announces Leadership Transition - Business Wire",
+      "source": "Business Wire",
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWdLLVgyaEtoRWx6R0tPdzVXMWQxY0F0OXA5ZmZ1VklYU05MYzlQS3FNN2dZUkNkMXJpUWJQSGhmdFZ6WllYWVVCOWE4bTktQ3E0Z25uOFdEd2t0ZkEwRV9ScUtCaUZ1eEdSbmdOQ19mazQzMkRFWVNDYVQ1cnJkZU5EbDNfNlk1Z0pTd2tmTHcxVERPYko0eVpCR2NhVkV1cnMxa0FkWEkzdzNRSTBGY2RR?oc=5"
+    },
+    {
       "headline": "A Look At Arch Capital Group (ACGL) Valuation After $2 Billion Notes Issue And Leadership Reshuffle - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-06",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT1ZOU0UyR3VWTkNJcmFDLXVEelJFMFh0X2tNOFBZQ3FoNjhuSjEzVkJHelV3ejkzeGdIN21QMjNNUHhKYjNYTnpVdkxXUDlzUVFOOUJ2bGZ0QW1tUmhBS1BKZUVQa0NnUmUxQ21PQ2xkenctT0ZUd2tFZWNRS29LYkRmM1dBclE5QW80R2VJa09Vd0w0NHJYeHRFbkt6X2tSSlI0S0RSc0RpaTg1Zlc5a1JCRnkzVHQwWUludm1Sa3RmQnNiZWFqa0VmbmluZENOcVc40gHYAUFVX3lxTFB2U1g2M2JPMEwwSWNVak8xTkt0WGtuZS1Xd1lwY2ZDUHRteEJJVDRLRVRETWZwOUR1QWc0RHdMRE0yWThuYlZ4Zlc1MmtIU1Nub2pUR1djS0wxX0ZPSjEtRVRJRXhYcHJaM3NRMnBEV2JJWFlnN3NHeHk2VVNKV2hyaUtKdHBzbkd6dzdRYTNHM3BJdDFuSTFwR0ZTeFB0ZzM0MDhLWndUclQzb1pkNHdRc1hId1dFNFFMWEZKY2xrazloYmxTblY0T3dwMlF0NjJyczgyRGRDMg?oc=5"
-    },
-    {
-      "headline": "Arch Capital Group Ltd. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUVF4YUN6V1hYcWRPcThrekkydGtZaDhHUk83bTJYNnlFa3pCNHNMaEd0dzdvS2NzQTUwc0NJUWRCdW5ZQnROZ3pibzVhRjBzaFJnX25XdEV0ODFxNDNseVJtczFmOWU3cG14SUp0MXEzQ3hYTFpWak5RYVpWNlBsVlZuYzN5bXcycnAxaG1iWTVxajd3d3FZODBmT3hPaFFWZGY0Y3loTlRNWXU1R3c1RXBRVzcxRkNqdTNiYmpuQUs4UHBCZHlKWjhleUVaVlNHbUN2dXd2VXhBY05paWtpRHFsOXFhTVBYV2VMM2lRSk0xUmo0Q01nRzNBVVNHekZQSnBmaWN1QQ?oc=5"
     }
   ],
   "insight": "Tracking Arch Capital Group (ACGL)."

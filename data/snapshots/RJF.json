@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:22.479Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:06.659Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    154.3300018310547,
-    151.0399932861328,
     153.47999572753906,
     153.9600067138672,
     155.57000732421875,
@@ -24,11 +22,11 @@
     150.50999450683594,
     151.4499969482422,
     150.19000244140625,
-    151.3699951171875
+    151.3699951171875,
+    150.58999633789062,
+    150.4199981689453
   ],
   "6m": [
-    156.5399932861328,
-    155.8300018310547,
     155.63999938964844,
     158.7899932861328,
     162.60000610351562,
@@ -158,10 +156,11 @@
     150.50999450683594,
     151.4499969482422,
     150.19000244140625,
-    151.3699951171875
+    151.3699951171875,
+    150.58999633789062,
+    150.4199981689453
   ],
   "1y": [
-    147.72999572753906,
     148.61000061035156,
     145.6199951171875,
     148.5,
@@ -410,29 +409,31 @@
     150.50999450683594,
     151.4499969482422,
     150.19000244140625,
-    151.3699951171875
+    151.3699951171875,
+    150.58999633789062,
+    150.4199981689453
   ],
-  "lastClose": 151.3699951171875,
-  "oneYearReturn": 2.4639541697149645,
+  "lastClose": 150.4199981689453,
+  "oneYearReturn": 1.2179513835946199,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Phillips 66 (NYSE:PSX) Stock Price Expected to Rise, Raymond James Financial Analyst Says - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU1BDSmZ2OWwzOFFHeGIxSVpoYWVXUjdDazIxaGNTZkJZRmQ2U2w5TGwtMXI0eUpjSk5iY1ZVRHpfN3ZWX3c4YmdJQThWWVAzODlUa2J1eWVhNkdydFNlNTNFWEZhbmJ5aTZIZkpaRHJ5UG9nSjE0dWZVYURTYlItenBfRUw0UUxMQXo4YmVZWkxiQmV5WFk2YTVnSV9YR1Yzc2EySTY5S09WSDRlZXZlM2tfUHJ4YzFlb1dWMFYydU05elhkaW40SFo1dEl4Ukc1OUNQSUNR?oc=5"
-    },
-    {
-      "headline": "A Look At Raymond James Financial (RJF) Valuation After New Chief Architect Appointment - simplywall.st",
+      "headline": "The Bull Case For Raymond James Financial (RJF) Could Change Following New AI-Focused Chief Architect Hire - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPejc2a0lUdFV1Uk1FYTZaV0xpYUM0ZGtzemRVTEh0Wk1HQjJnM1NPZ3pySGdLak5iMnNUMUpuOWZMNFRmUzdGaE9fXzZxb0Y3dFdfVVdRWUVPQVBmV0dfcWt0QjZMZHRyYUdlT0pTMEFucEVLQ3E2TjRQNkU0bm9xLThVd3BIMVIwc1pjSXN2MnFvSGNlSFljWWUzczllVUpxN2NwLUw2VmJ2cE14eUVMNU5yZGtlakhtNERrdDBlS3h1TGdQS0FUSjVDaGwzZEY4QmVTNTVSazQ3OC1ka1ItT3JzTGg3dG4y0gHuAUFVX3lxTE1NX0pKMHI4QTI5UXlIYkZvMWNZazl3OS15YnFvMGw1VTV2SkxqZ0laeTZQczBwQjRXc2hXTjZFbzZ0THhTSFdGU3VYc0RLa1N1OXR4UmFpSnQ4blRCdEgtUzBiR0EzeVNDbVRqZHhJMHhXOFRrcGk4ejE3WFZlMk4zSGphX1paZkFaLV9CaWItQ3BfbHNtZVJVRVYwSXU5ZTVuemNoNkJTUGFJdXdlMlJiMGhZb00yLW9adUFiQThJQThOZDRqYmRhdjZmNHM5aHpUcVU5YmlXUFB2QndncU4ta0NFc3AtWVlqZFNYalE?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZmJVYkxtanFWc1R6M1dRSGFPZjZyQjlfUnNTN1Fva3VycGd2dThJb2tycEZGek1HQlB1TGk1SDM2cU9DcGlzUEEtMGNPQ3BFNzZJbzQyTWcwbXZaTDk5S29HOHpKcEh0cVFrc0EzMXNPZkJnc1VRLU02eHJsejl1TjVvZkVTMkprb2RPYzlwbTdHQUlUa29pOXhhUDRQSC1QcGN6R3R4NklFWGU0a2lfWkRBcGRRTVZBZ0NzOHQ0eWlwQ19LbkNPYnZFdkdvbWJndlF3T0MycFJFNzRqVVl6QW16NXhfZFpYS0lBeWZ6MnfSAfABQVVfeXFMTWZiVWJMbWpxVnNUejNXUUhhT2Y2ckI5X1JzUzdRb2t1cnBndnU4SW9rcnBGRnpNR0JQdUxpNUgzNnFPQ3Bpc1BBLTBjT0NwRTc2SW80Mk1nMG12Wkw5OUtvRzh6SnBIdHFRa3NBMzFzT2ZCZ3NVUS1NNnhybHo5dU41b2ZFUzJKa29kT2M5cG03R0FJVGtvaTl4YVA0UEgtUHBjekd0eDZJRVhlNGtpX1pEQXBkUU1WQWdDczh0NHlpcENfS25DT2J2RXZHb21iZ3ZRd09DMnBSRTc0alVZekFtejV4X2RaWEtJQXlmejJ3?oc=5"
     },
     {
-      "headline": "What Are Wall Street Analysts' Target Price for Raymond James Stock? - Yahoo Finance",
+      "headline": "Raymond James Financial, Inc. $RJF Shares Acquired by Franklin Resources Inc. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGZwWElKdTBwX0hMSVBXWGFWVjdvbzJMaEc2LUtScl9jSDlhMUFKbUU5bm51OHI2ekVkaGRFUzdMUENRV1VWMVlCdnpzOTRNdVVYYUdmdmlQdGdFV3NEMFFwbFVzRXdLR2lUcEIwSThFU2lDalVMcHRDc2NjbER3Und3ejNIbm1HYW45MFVmN0RvbVoxUk41VzRzWnNKcTBXSTVqemVUOGQydEp4bDhqdVl0Zjd1YlN4MkdSa3pLWWVoUm5ncTFGR2RhUkw4OE0?oc=5"
+    },
+    {
+      "headline": "Raymond James Financial (RJF) Reports Record Client Assets of $1.87 Trillion - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-05-25",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTS1NSmFmX0dzMnJTS2lRMWN5WGJMRmE5TkpRNkFzRmNnNE1NTS0xcS1UaTgxNnQ1S094aGFNMXcwbmRlNXBKMkZ0RkUtS2FnbUlRSm8yVTdWc25BVmZMUnlWYjNDLUh4WFQxVmpIdFhscjBPbWhyMkxhVUhmY0UyZWZjc2hGRFdTSnk0RXNoQ1BwdkdwZmthM3N2WURRYm8?oc=5"
+      "when": "2026-05-31",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0pwSFJBNDNuZDFzaGhwdlM2QTJ6NjRzNEoyd2RtckZFOG8tVnB1bGhYOTFGOVNDd3RKVU5La2lCZG5uR3VkalNVejk3WVhCWFR2NW4ycHJrT0drMmx2bE4wdS0xTTBCdnBvS0dZLUxpUTZ1dmxndE9BSDJ4MlpFYWZRaDYxQThPa1dXV1ppb0g1UldvMVlRYUlCVHpBRXZlUmc?oc=5"
     }
   ],
   "insight": "Tracking Raymond James Financial (RJF)."

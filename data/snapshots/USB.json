@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:27.487Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:12.673Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    55.529998779296875,
-    54.4900016784668,
     54.47999954223633,
     52.7400016784668,
     53.41999816894531,
@@ -24,11 +22,11 @@
     55.459999084472656,
     55.689998626708984,
     55.349998474121094,
-    56.02000045776367
+    56.02000045776367,
+    56.810001373291016,
+    57.630001068115234
   ],
   "6m": [
-    49.04999923706055,
-    49.40999984741211,
     49.68000030517578,
     50.93000030517578,
     51.369998931884766,
@@ -158,10 +156,11 @@
     55.459999084472656,
     55.689998626708984,
     55.349998474121094,
-    56.02000045776367
+    56.02000045776367,
+    56.810001373291016,
+    57.630001068115234
   ],
   "1y": [
-    44.20000076293945,
     44.15999984741211,
     42.9900016784668,
     43.150001525878906,
@@ -410,18 +409,14 @@
     55.459999084472656,
     55.689998626708984,
     55.349998474121094,
-    56.02000045776367
+    56.02000045776367,
+    56.810001373291016,
+    57.630001068115234
   ],
-  "lastClose": 56.02000045776367,
-  "oneYearReturn": 26.74208029592384,
+  "lastClose": 57.630001068115234,
+  "oneYearReturn": 30.502720260975053,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Slightly Decreasing Our Fair Value Estimate for U.S. Bancorp - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZmo1UlpSMVNnck9ZNVRUTWhGZWdrcHFzM3JDV3RHamlWcjBGZDRhWF9kSm9wNGk0Z3RzbWJ6X3lodWYwNGdROENodDlsa1dCWTRfVUtZa3dTemFnVWFUVE5tdzJMUW9HeC01SFd5M0llNk9oWUx0VDlYTkJER204TzRDcFZhUEtSNU9aTGFBMGxLaFlscnZuNnhoN0xreFVpeWdnM3hLRmc0bjQ3OVlR?oc=5"
-    },
     {
       "headline": "U.S. Bancorp stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNXBlWnRVZEk1eTQ3QlVtWUQtUmxDdFpmOTJYbllJVVZab1pXNjRBbmoxREV2UEtIVEQ4eTBhRU9vUmp5LTYxYkJ2cjNPUXdULWFHLWZ6QUlmZm9IX1R1YTdmWUNpUWlSTDBHbzlHcGE4Yk5KWXVxLXVrQXF4dVY1azl2NC13c01BZmJUaVU4c3BRb0dqTzFSVWhUNzZKN1lrLTBhd0F2TS11eXZxVHZORk5LSjhUTlFMX2Utc1BfNUU2WkwzOXdnTzY1d3VQU2gxLVpqNUlMaGFoNDQ3YlJLZGpB?oc=5"
     },
     {
-      "headline": "[424B2] US BANCORP DE Prospectus Supplement - Stock Titan",
-      "source": "Stock Titan",
+      "headline": "US Bancorp (USB) could be a great choice - MSN",
+      "source": "MSN",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnp4WE9rRVAtSFhBeXZrckY5SVNqdnFpTldBTTBSX2dNNmxrS0U0VFJPT25MMHFxMzFRYWhsa3B4NG1EVi1VTnF1WlNNSUNQVy1tajBDMHZ0MElndVpZeWFTWUV0T0NtbVNlVmtoYjJ2YjRIN0ZYb2tEVDhVbXNHa1lIcUVMVUFmXzFHWUhPTzhndVRKYUQw?oc=5"
+    },
+    {
+      "headline": "Slightly Decreasing Our Fair Value Estimate for U.S. Bancorp - Morningstar",
+      "source": "Morningstar",
       "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSW5rNTJlSjRoeDM4Y1FRTWNVSWlMTGRLdDg3V015ejZ2a04xNE1BSnRJSk0wUmFDT0FKZVhZMHVxMzRkQldUUTF6cHlzV0l2c2Z1QkI0WlpQaURZaDdFV29fWlBiUGhpcWtUU20zS0NBUW9DRzR4b3NMM3ZYdnQySFRUU05LcDdpVUp1YnBJaUV1eVBGdXNSQjNHRFhTYzNPRDJiLQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZmo1UlpSMVNnck9ZNVRUTWhGZWdrcHFzM3JDV3RHamlWcjBGZDRhWF9kSm9wNGk0Z3RzbWJ6X3lodWYwNGdROENodDlsa1dCWTRfVUtZa3dTemFnVWFUVE5tdzJMUW9HeC01SFd5M0llNk9oWUx0VDlYTkJER204TzRDcFZhUEtSNU9aTGFBMGxLaFlscnZuNnhoN0xreFVpeWdnM3hLRmc0bjQ3OVlR?oc=5"
     }
   ],
   "insight": "Tracking U.S. Bancorp (USB)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:13.413Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:55.706Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    360.29998779296875,
-    366.3599853515625,
     361.6499938964844,
     361.19000244140625,
     361.54998779296875,
@@ -24,11 +22,11 @@
     343.1099853515625,
     329.8299865722656,
     331.6000061035156,
-    331.42999267578125
+    331.42999267578125,
+    324,
+    340.0299987792969
   ],
   "6m": [
-    197.9499969482422,
-    197.5399932861328,
     201.39999389648438,
     206.61000061035156,
     209.07000732421875,
@@ -158,10 +156,11 @@
     343.1099853515625,
     329.8299865722656,
     331.6000061035156,
-    331.42999267578125
+    331.42999267578125,
+    324,
+    340.0299987792969
   ],
   "1y": [
-    162.5,
     162,
     158.19000244140625,
     162.27000427246094,
@@ -410,29 +409,31 @@
     343.1099853515625,
     329.8299865722656,
     331.6000061035156,
-    331.42999267578125
+    331.42999267578125,
+    324,
+    340.0299987792969
   ],
-  "lastClose": 331.42999267578125,
-  "oneYearReturn": 103.95691856971155,
+  "lastClose": 340.0299987792969,
+  "oneYearReturn": 109.89506097487461,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Keysight Technologies Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWS1sUzFac1RjS2JKcnQzY1FycFRpbmJqcGdXaU0xUk1jM21fS3ZVUTItSFJ2NGVGWDFTRHI3LXJ3WlRvX3FSR3J5OXg2UmZ3TFc1anR1MThDTnFsMEphalUxTkx5bnp1Ti1fcEZzX1lGWHFKblVqVDk0ZXhqeVpOVFpSbzJ1X2dvVnUxeWIxaWxYTjVQLWl5QXdvYVhXUVBmZjMwMDZOcjV6WHpkYnB4VEE2QktZUlVzbkZRcmRQOXQtdS11blBBZHFLd1R5TEJxUWtHUGxTdTdUZTRvVkF6V2IxRnhadHQ0R1I0?oc=5"
+    },
+    {
+      "headline": "A Look at Keysight Technologies Inc (KEYS) After 5.0% Gain -- GF Value $195.97 vs Price $340.03 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUNHVVB2cm40NFgzeXdGRG05Y19ld0Q5c1VCRWxtbWZLMUc3SVQzYmE3RHhoMHFuRGVwQlhBOUh0U0xuOVBfTVFIemFVVmtvdTZnVmtfX21WZVNRY3pNSGJvbldTbWFWdEdWTkMycXlNX0UtTy1PR1BXbmdsZjEzZTJFMnJ6dTFZSWo1NC04YjQxdTRiVFhiamJyOUVHblpzQzZJaFRILVhjd2Zsb29udjNCVE5rQWFVcXMzS0duMjQ?oc=5"
+    },
     {
       "headline": "Get Paid 14% To Wait For KEYS Stock To Go On Sale - Trefis",
       "source": "Trefis",
       "when": "2026-06-10",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTEZmZWpXRU55ZFFSamlaeG1JaHlyQzVhRjVPNktsOHFhZXpfYVVrU2dpZGNPdDFpOFBjaV9HbTN5Tk43QVU1SzdiZm9PZFAtNDUxZ1hobzBVQmxXSGtPODdWcDd6WUZCMGdJUGZmbFBWbFI1RUJuRkk3akhGa0tmekZxSUl5OG1QUU84Vk5HWXJ2al83ZkZXcF92dTY1OERfdkhYUDJVTDNfQVRodmc?oc=5"
-    },
-    {
-      "headline": "Impressive Earnings May Not Tell The Whole Story For Keysight Technologies (NYSE:KEYS) - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUGRTRWp4bkp0MUhRSXYtRHdTck9VLXNOZW9iYWZZU2NnYktTdnd6OWZldzlVbGhENUhSWE1tblMzMWx1RHlwT3o2S09WUkI4RWpabnBZTDhOYXUteF90RzNrWkg2RHdna3lSNy02b2plT1o2bE9WQm51bDdBck1JZ0hQcTdtU1BXQUZ6QmVtWWJRckQ0RDhROUo2VzZXQQ?oc=5"
-    },
-    {
-      "headline": "Keysight Technologies Stock Surges On Big Beat-And-Raise Report - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-05-19",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGs4TVdIZUtBVElYVUZXQ0tHdVVrWl9ZUG1TTngxcUlKU256OE5XTTk4N0VGa3JDa2hOOXBWdnVRT2F3TENvTVhCMEY4XzJSY20ybUNzTnlHdDVhenJPRFhYNlBGMVRDZDNnd3dnUkcwZlFaNHlNNGsxODR4cHZ6QzROY0paNnoyVXhOcGZkS3ZoRlpxcGJhTUJuY3VKYkxr?oc=5"
     }
   ],
   "insight": "Tracking Keysight Technologies (KEYS)."

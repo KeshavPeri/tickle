@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:56.499Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:34.992Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    181.82000732421875,
-    177.49000549316406,
     171.30999755859375,
     165.83999633789062,
     167.5800018310547,
@@ -24,11 +22,11 @@
     188.75,
     185.66000366210938,
     182.5500030517578,
-    175.35000610351562
+    175.35000610351562,
+    170.9199981689453,
+    166.4499969482422
   ],
   "6m": [
-    230.5399932861328,
-    232.8300018310547,
     234.7100067138672,
     238.72000122070312,
     247.4600067138672,
@@ -158,10 +156,11 @@
     188.75,
     185.66000366210938,
     182.5500030517578,
-    175.35000610351562
+    175.35000610351562,
+    170.9199981689453,
+    166.4499969482422
   ],
   "1y": [
-    265.9100036621094,
     266.9100036621094,
     258.3999938964844,
     263.8800048828125,
@@ -410,29 +409,31 @@
     188.75,
     185.66000366210938,
     182.5500030517578,
-    175.35000610351562
+    175.35000610351562,
+    170.9199981689453,
+    166.4499969482422
   ],
-  "lastClose": 175.35000610351562,
-  "oneYearReturn": -34.05663431664945,
+  "lastClose": 166.4499969482422,
+  "oneYearReturn": -37.63815718238983,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Salesforce Stock Slides 19% With A 7-Day Losing Spree - Trefis",
-      "source": "Trefis",
+      "headline": "Our Salesforce Stock Pick Has Flopped. We’re Moving On. - Barron's",
+      "source": "Barron's",
       "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMDg5VjJ3dldoMWNTb2xEY04zd0h5X1JpZl9iTlZrRDFNLS13TkZPcmNBRFZmbW5ydWhKbTB5SHkwcmlTUHJhWFM1VlgwNHVleXJ1SjE1TlVYU0JCOFlvMDNRYUtVYjQwMElEdlNVcWlXX0YwSnl4V1RXQXFYdmpKbWV4bzVUUVZuNTEweVZfSjhsOUhIN29kU0RFMHJwS1RkOTNmeVhLNklsVU1QUENORmN4cGg2M04tdFI3WVJn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1N6SC1EX3JScUNHRVU2RVM4Q2tiZGlnRW43UHd6TFpGQThTMFV2X2lKZjdNYkxXTE1GWUlGM1JLVlNvVlpkdGVqX053aGFsLW00dG5sUXlPMjU1WC02cEZMSUNwYk9WcnZVSkJwSnlKM1ZMWUhVcjVLbzBISVdZV0M4ZzE?oc=5"
     },
     {
-      "headline": "Salesforce cuts staff amid acquisition spree and $50 billion share buyback - The Register",
-      "source": "The Register",
+      "headline": "Oracle Plunges 10% After Earnings, Salesforce Slips Near 52-Week Lows as Cloud Stocks Slide - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWppUV83NXVvNERab0FXNDBNcUpNY1E5V05IUUxUQXdiWlVUdzRrSmlIMndOZWNpMjIycXQxUnhZa1BfRmR4V1EteFgzOGhnNWxOWHB1RmI2dWZaV2NNQV95MWc3VDhFd1BIQWgtZWR5WFNXRTZ1eFlUamhrdjNtOXhaQ0hWNXJZaU1XUUhSNXY3OGNRWTJvbjFoZXVwTnpmUjYxUA?oc=5"
+    },
+    {
+      "headline": "As Salesforce begins layoffs, here's the standard severance package the company offers employees - Business Insider",
+      "source": "Business Insider",
       "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWo3c2ZSX2lQTVNrakxaNEJudG4tdUlQWWZmNGRBQkduc3BEQ1ZNV3hEZDNGMnI0Y2hNMjNLNDVHdUpHY2lQRU9EREtueGl6MUVCeVZuMjBreUxHczNHQ2lDVE4ycVJYU0FGcW5OUXoyUFJudXhsYTh6Qnh5RlN6NktJd1NaWWI1V2NwYlIwTXNkNDQyLUdZdHU2MVpLd3VNdlQwTVhWYUZnOVFEN200YnI1bi1zdw?oc=5"
-    },
-    {
-      "headline": "Salesforce Trades Near 52-Week Low: Time to Hold the Stock or Exit? - Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWWNLdU5xRFlZNV9LLWxxYXB4bWRHc0pKeTN6STFEZWJ2dDdUWDB1RUZLb29Dd0xiVGhPdFVtZllQelFGYUZqdXlfRXJyX3JkcjMtS2tWclNOSDdhZkl5WU81N1ZLUDU0UVhtalJiNHZ3R0hnenhUVzVhNFllczg1eEdaOWcyUUZER0FXSG9STllwUlZDcVlqeU90bFpmdjFWTjdBal9kUmw0dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU1RLLU0xSUFqekFmQU1GTzNHanRHRlZCeHoySVVXRlROQVFXX19wYVZCT0Rxd0U3ZEVfR1BpaEFuSVdhNFEzSlE5VWlIZHB1Z1NiUDkwLVREZzZSam9tTWQyZk56MElZdEZ5T3ZwZ2dpa2FsNHloc0pXNVh1WVdIdlpGOHZuZGhmVTB1TjNfVmhheS1UMkpQMTQzenMyMV83enZBTlZKdS0tQQ?oc=5"
     }
   ],
   "insight": "Tracking Salesforce (CRM)."

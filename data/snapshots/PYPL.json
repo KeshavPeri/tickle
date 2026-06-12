@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:21.696Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:05.946Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    45.369998931884766,
-    45.06999969482422,
     45.439998626708984,
     45.22999954223633,
     45.040000915527344,
@@ -24,11 +22,11 @@
     42.75,
     41.290000915527344,
     41.2599983215332,
-    41.459999084472656
+    41.459999084472656,
+    40.70000076293945,
+    41.2400016784668
   ],
   "6m": [
-    62.689998626708984,
-    62.58000183105469,
     62.900001525878906,
     61.2400016784668,
     61.72999954223633,
@@ -158,10 +156,11 @@
     42.75,
     41.290000915527344,
     41.2599983215332,
-    41.459999084472656
+    41.459999084472656,
+    40.70000076293945,
+    41.2400016784668
   ],
   "1y": [
-    74.61000061035156,
     74.80999755859375,
     70.83000183105469,
     72.26000213623047,
@@ -410,29 +409,31 @@
     42.75,
     41.290000915527344,
     41.2599983215332,
-    41.459999084472656
+    41.459999084472656,
+    40.70000076293945,
+    41.2400016784668
   ],
-  "lastClose": 41.459999084472656,
-  "oneYearReturn": -44.431043097029004,
+  "lastClose": 41.2400016784668,
+  "oneYearReturn": -44.87367594663238,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "35,001 Shares in PayPal Holdings, Inc. $PYPL Acquired by Rule One Partners LLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2VNXzliYmd3S1dKQVFNWElwVGhXWUJPZkZlRUMzaHp1NG9mVXJ0d3VGbkhrNFNCaG5FbTlwRXZYOVZrVWM0WnUxbWxOU3hJeEpmTS1Ed215NzQ1ZWlQLThfN2U5TGRRWjhZRE5sZVRPaVQzYzZBdVpVbGRpSzc1TjgyMjZvT000NGF2cGd6OWxzOWZ1LVVmdEY2bkRTQS1lVlVib19XM1VvLU13V0JJV2c2aEpoaFBTb0lYR09JbGthTV9hYnZ3aWZHOHYtVnRM?oc=5"
-    },
-    {
-      "headline": "Where Will PayPal Stock Be in 5 Years? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-24",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVktBdjFpeWkteEtlQ3hkeEE3cFplbHZ0WTQ2V19IQmdhYWpEdDBfajNVWFBDR2tkZm9oX3VoZjBnYkNLU0w1dXV0Z2hWRi1ZcnU0YXBiSXZFcjhIbU1EbHk4X3hFNzFsV3JSU3lLY2xzY3d0R2JpSnZMbldXVV95YmNGazVOWEpHMjZ1a2ZwbWg4V2g2NXc?oc=5"
-    },
-    {
-      "headline": "PayPal Holdings Inc (NASDAQ:PYPL) Offers a Compelling Value Case as a Decent Value Stock - ChartMill",
-      "source": "ChartMill",
+      "headline": "PayPal: Goodbye Growth, Hello Deep Value (NASDAQ:PYPL) - Seeking Alpha",
+      "source": "Seeking Alpha",
       "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNVRnb2JKZFVWeko1ZGJIaElOMDBVMkdSWldVdnBNdGV6MDVta1FLQWMySjA1YzVLNU1XZU1JVjF2cW15MmI2TGtLa082cXNSUTNNWW9mYTNPQ2RyLW4zbkFoMjhPeFJsV3ZmWDZFQ2xnNXBQSXg5OUJ3UjgxX0EyX3V5bURSVnItRkNJRXRudnVJX2JRSnc2SHNIdy0yQlpLS2h0enoxWDJsMlVpcXU1TTItV1hTTXNSX3dLTGttSEhjQUhKMktuYVlBaEVaeXpsY3Bv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaS04WThkM1hlTkdZWjEzRWxuM25SRXYtYkVSbXBVVlEtZk5NRU9xSEdLX0RLTDAtUTI3RkwtSm1OOHpQNXBydnRpdFROdkJ4M2VsT3YzTEEwQkhTVjVpQkJLLUNDZlF6dE5wUTdtLWpiYWo4NDB4S1pFNlRobFFLVFlqYzZ5Zw?oc=5"
+    },
+    {
+      "headline": "PayPal Stock Analysis: The Comeback Is Near! Tyler Stephenson (LC6eR2mlee) - Mshale",
+      "source": "Mshale",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81aVU0b21CbmtMVGRXYXJzUHg4X0tpUGNHSzJCTXBkaE1feGlsbjU4LUd3MEFNdklCYVdFY2pfV25jZHUzbG5oemQ3d3p0ODJnWU02SUN1X0w4UVU?oc=5"
+    },
+    {
+      "headline": "Should You Buy, Sell, or Hold PayPal Stock? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-05-25",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdnkwbTk5WkdpZTc3RHRGMWMyWWY3aXJuSFNQMDZMSXgtTjJuU19xX29BQV9YQnJBeGZZcHZnd0ttVkh3anBqVDBpTXVkMUdDbG1yVzBjeHFsUnpHakVNRWV4MEh3SkRsaVBpWU9QSVFVRGlpZHU1V2VkY2NfQmF0TmlaZzJlTXNlLWFj?oc=5"
     }
   ],
   "insight": "Tracking PayPal (PYPL)."

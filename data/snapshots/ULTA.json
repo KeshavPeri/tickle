@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:27.244Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:12.231Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    521.5800170898438,
-    511.9800109863281,
     505.20001220703125,
     492.1499938964844,
     498.2799987792969,
@@ -24,11 +22,11 @@
     462.5199890136719,
     467.07000732421875,
     462.79998779296875,
-    477.8999938964844
+    477.8999938964844,
+    470.75,
+    476.4200134277344
   ],
   "6m": [
-    538.8300170898438,
-    547.6400146484375,
     548.0499877929688,
     544.52001953125,
     533.9500122070312,
@@ -158,10 +156,11 @@
     462.5199890136719,
     467.07000732421875,
     462.79998779296875,
-    477.8999938964844
+    477.8999938964844,
+    470.75,
+    476.4200134277344
   ],
   "1y": [
-    456.9700012207031,
     462.42999267578125,
     459.1700134277344,
     471.94000244140625,
@@ -410,12 +409,20 @@
     462.5199890136719,
     467.07000732421875,
     462.79998779296875,
-    477.8999938964844
+    477.8999938964844,
+    470.75,
+    476.4200134277344
   ],
-  "lastClose": 477.8999938964844,
-  "oneYearReturn": 4.5801677615316105,
+  "lastClose": 476.4200134277344,
+  "oneYearReturn": 3.0253272870563572,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Ulta Beauty (ULTA) director granted 404 restricted stock units in Form 4 filing - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzlscldqYW94TEVXdUFuc29FbmlRTjZWMnlqeUt6MHNmZ1BncUlsZDZtNXl4dFZQMGFuZy1LZWY0LThtS3Zia3N1NGRtSjAyQm92YkN6bnRQRjlQb3FoN3ZUcjNEeU5iZTJVSENGZU9MejJ6Q0ZsUWxmZEdfdENIM0lyMGNIY09HNzQwbHVBdkRUUlZMN0JnaXd0S1ZRWS10dU5YNEk2Y2pBV2s1N2c?oc=5"
+    },
     {
       "headline": "Ulta Beauty Earnings Were Ugly. We’re Pulling Our Recommendation. - Barron's",
       "source": "Barron's",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEMxd2pnWm9VRkVnRUR1QmdJUmkwWUx3dWlpSFNuaUlZMWFXQlFjZWYtNVlwTTJUY3BxdV9YTUlhaFU0c29fTW1fdUh4V2RPbWd6dko3SlJRaTJIZk5TcWZzN3cwekk0YXpWam9OVEZ3aFNIbHZiQzBnVzlldGJIdjRMbWJDaE4ybURUaFV5Rjhoalk3d2ptLTBCdEIxb01H?oc=5"
     },
     {
-      "headline": "The Bull Case For Ulta Beauty (ULTA) Could Change Following Strong Q1 Beat And Strategy Updates - Learn Why - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUGV0b1ZTc0lVM1ZXUWQtajBQMmprNU05cXlJTE4td1BQUDNzWTk3R1Zrd2gtcjA3YXJ5TmZ4YTZVc3hiNkpHRE1pTlJ2X2tWRWFrbVE5WVFxTVoyNUd4N3hNYjItX2VPbk14ZV9yTHdEdGJVTldva2R0LWRUZ3lCbXVvVkNKNTd1VXh1SnBnYm50dlVNM2RrTHVRdV9RRzluT0FGOENHQjBqaGxBM0VaczQ5VEo4YlFFVTRFZlFRUXVMc19IZl9v0gHMAUFVX3lxTE54bXFkbkFpVFppVUZiMER5VTVVN0VSanRlazVvNkp0NEFUM3EwMDV3dERLOHZrUk1qUHlGV1hOWmRfZ0llalc2dXFFYi1iUVVZa2tMZ3d5V3pvdk9fTEU2T3dWaEZSdVZ5Zm5RdmlFWk1TcTdWaE53QmpXaGZDMGpnZWVHVV8tTHdpYVp5Wl9feXRZc2hXTmR4NlI3U2lmelhOdWIxQjl2cENEVi1VTjFNSk9yVmt1Q1pNZUprRjRkVXJkbndFRXdITHZGOA?oc=5"
-    },
-    {
-      "headline": "With Strong Cash Flow, Ulta Beauty Stock Poised to Rise? - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-06",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdFZuSXM0WS16VkZkYUdtMFJ4OC1JdUd3bk9acWZpWDJSNTdtbDBDMDFlTWxvc1ZBZ0JNTWRXdmk5M3E5X292S3UxRmN0NnR3STJNSFNmWS1mbXlfajRGcW0zS1QtWjN2VnVHNjcyUWlUSU5xZmVhTXJhUkFocUJzREloekJhX0NlUnRLa20wc1VEbUZnT3lra2NqdmNaV2I2M2VSWUs4WDh4SXhwTDJfcC1MSnpsaU02d2RLWlJmSmxBU0k?oc=5"
+      "headline": "Ulta Beauty (ULTA) Announces Key Approvals at 2026 Annual Meetin - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTk1JSThxWksxcEg2ckdoQTBEUHctekNicGpnQXdWY2tLSnhrZTR1YWVGWml0U1c5d3ZJeXFMX2liRTQ5Q0Q0aUg2aVF5cE9wTi1IVFVkdzlWQml0ellUT2dSWXBWVG1GdWFjbTI4VlFaT05aOVFjc0F6Y08zVTBUd3VSX2pLcHgxQ2pVZTJocTlYOEdHLTZrN1Y4cHM1VEVncDd3cA?oc=5"
     }
   ],
   "insight": "Tracking Ulta Beauty (ULTA)."

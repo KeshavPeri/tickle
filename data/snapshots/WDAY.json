@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:28.095Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:13.612Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    127.83000183105469,
-    121.41999816894531,
     118.62000274658203,
     116.5,
     118.75,
@@ -24,11 +22,11 @@
     147.91000366210938,
     144.27999877929688,
     143.75999450683594,
-    140.22999572753906
+    140.22999572753906,
+    137.47000122070312,
+    130.52999877929688
   ],
   "6m": [
-    215.6199951171875,
-    213.35000610351562,
     213.05999755859375,
     214.83999633789062,
     216.6199951171875,
@@ -158,10 +156,11 @@
     147.91000366210938,
     144.27999877929688,
     143.75999450683594,
-    140.22999572753906
+    140.22999572753906,
+    137.47000122070312,
+    130.52999877929688
   ],
   "1y": [
-    251.36000061035156,
     250.69000244140625,
     244.5399932861328,
     245.64999389648438,
@@ -410,29 +409,31 @@
     147.91000366210938,
     144.27999877929688,
     143.75999450683594,
-    140.22999572753906
+    140.22999572753906,
+    137.47000122070312,
+    130.52999877929688
   ],
-  "lastClose": 140.22999572753906,
-  "oneYearReturn": -44.211491332338866,
+  "lastClose": 130.52999877929688,
+  "oneYearReturn": -47.931709478599714,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "WDAY News | WORKDAY INC-CLASS A (NASDAQ:WDAY) - ChartMill",
+      "headline": "Workday Inc (WDAY) Shares Fall 5.0% -- What GF Score of 71 Tells Investors - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzBULXRRZ21od0RDT1M4U0tkS1paNlZkMlM5cUU3MGJSVmt6a19ieEFHRFBZRV9PeC1wVjdtdnhnOUMyM0UxYnBHNWo3QjZYaGUySEk3ZkoyR041dkRnd3pYSEZndnJqRkNsa3dZYks5X0paM3VQVmhZYkdxOUg4cVJPM0JSaWY2bXVkejMzSVpPOUk2NExrLXZxbFRjY2dCRnlFckhJRjBCUQ?oc=5"
+    },
+    {
+      "headline": "David A. Duffield sells $14.87 million in Workday Class A stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0FSR2tyUl9XTno4YXVPOGZyTUZhaVdhSG4xT1ZXRDFvZDdoRmROUFdJMUhSRHk1LWxsM0ZyMlZwaFltTnpDSnhUdzRkUGlGVE9VWG9WODlCdHhqMmtPZzZPMTRyV0oySjU3TVBtLWtLM3FWTzZRcy1pbC1WT1d1cm9ZdEl1SWdNLThzcS1MWHpmNnpCVFJya0cwYlV4bkhRTTlwZ3BLNTc3TlZhbmFpMUJNMTZhcVc4UmV4aE1KY01RS0JwTWRaUFBDbG5kQQ?oc=5"
+    },
+    {
+      "headline": "Workday Inc-Class A (NASDAQ:WDAY): A GARP Play with Strong Growth and Reasonable Valuation - ChartMill",
       "source": "ChartMill",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByelM5X1FWQ2dEUk9BSnc4N2pZY21QYzlEcmxzZUM5eTZGNkFYZ2FidnVrWVl6cU1EczB5bVgybmpKNGQ0UXdkZmlFRkEtLVhIV1hFeGJ1Smt1c1k?oc=5"
-    },
-    {
-      "headline": "[Form 4] Workday, Inc. Insider Trading Activity - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX0ZCT0VIdVRqTEZ3Q29IeUJmS3A2eWMtY2ZCbkozMHFpZ0pxRXVSeEkySlV0b280b21wUUQ0REZkSmVTWkdMRmpOd1N5YWQ1SWhKcnE2ZlBtUWtmaHN3SHhQa3NPbjZqcHctUVc3XzkxZ3JjRnpub2RpcHJGWlNMWXoweEdndUxLck44R3FiT0RlUnQtRU9fYlZURDN1SHRscGc1UXJUaFc?oc=5"
-    },
-    {
-      "headline": "Needham Reduces PT on Workday (WDAY) Stock - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-24",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS21PeTFaTFJnUHNpdkEtUldqeVJwY1pEOGo5SnNzczBCQUdYN1M0QnJBcV9lbzVCTGtKQXBrN1JnLWlBaUw3MGdGOXVlMUxpWGI5SnF1OVFSYkZUelRrTnM2UTEzUXpjWTFIVzRSUlQyd281WDQxNlcyY2Judjd4MHFuYzZyWTdMd2ZBTHhHMmJHem1oREpVek56VUQ?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT0N0TkQxNFlGMjNncWJzTGxRTUJ3eF9mRjZKbXRBaHVXYVdQSkduU2xqMXQ1Ym91TUJnZ3U0TERTdkNvRnh0Y1RQRUxWR0lMYlJjbzJ6ald5WVNWYXctUXBwVTRqaG5wck13aG1wNktsQWRGZXVkWklxa1NPT0VNd0NydkNjRTk5QWtlbW9LYVphSUlZVFA1N0JiV2VzSDhQYTlYQVRkSmwzQndPUXFZcGpYYXhjdWFiRkE2b01HRXo3SkI2UjNjN0IwZ3k1cVROOTNsNQ?oc=5"
     }
   ],
   "insight": "Tracking Workday, Inc. (WDAY)."

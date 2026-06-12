@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:46.286Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:22.368Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    455.19000244140625,
-    458.7900085449219,
     448.2900085449219,
     445.5,
     449.70001220703125,
@@ -24,11 +22,11 @@
     523.2000122070312,
     466.3800048828125,
     490.3299865722656,
-    475.510009765625
+    475.510009765625,
+    452.3999938964844,
+    488.45001220703125
   ],
   "6m": [
-    217.52999877929688,
-    219.75999450683594,
     215.24000549316406,
     217.60000610351562,
     215.97999572753906,
@@ -158,10 +156,11 @@
     523.2000122070312,
     466.3800048828125,
     490.3299865722656,
-    475.510009765625
+    475.510009765625,
+    452.3999938964844,
+    488.45001220703125
   ],
   "1y": [
-    121.13999938964844,
     118.5,
     116.16000366210938,
     126.38999938964844,
@@ -410,29 +409,31 @@
     523.2000122070312,
     466.3800048828125,
     490.3299865722656,
-    475.510009765625
+    475.510009765625,
+    452.3999938964844,
+    488.45001220703125
   ],
-  "lastClose": 475.510009765625,
-  "oneYearReturn": 292.52931497559337,
+  "lastClose": 488.45001220703125,
+  "oneYearReturn": 312.19410312829643,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "AMD Just Hit 2030’s Earnings Target Two Years Early. Here’s What Happens Next - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnc2cnVVSEw0U2dJVG5QT2x6XzVySWtNT3ptajBOdGxBRzJhWUdHMlBoSHdnTE5ST2dHMlNQZXNmd25WWk4wR2NaOE1QanRpZjd0dEpYMGRoNWlQenZMWTEtUTdndnVSbXR4Tlh1TzMyc0dnbmZ3UDFNd1pla2ZrcEdqLWR4TFhWU1dQUHpTMDRneUY5dGo3T1dNalBBV3ZCbmRYbjJOSGZ5QjNJcUNQcW9XcUxfdzhWTlE?oc=5"
+      "headline": "Why AMD Stock Crushed it on Thursday - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdHRjN2ZqTldGUmMtaHI2R2FwcUJWSTNJNVVhS1ZPNnAzdC1JYmtuQWR5SFNfRG0xZXY2RmYyYXNEb19NZHpSVVVZVmR3Z3JidGlKaUZwc0RjNzhDbG9oTDRjcWI0S0lhbGVpbnFrdmJTOXViTlNndDMxalhWZS1BVVJaQmNxWm9nUnotSTFwQWV2WTlaT2tiTzJPdw?oc=5"
     },
     {
-      "headline": "AMD: Inventory Doesn’t Lie And Says Downgrade (NASDAQ:AMD) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVW9YbEZyTFRjc0VPQUFxUjZ3SVQ2Z3Z2Z1pkSlBnWTBIWEJCRmZMVVRDRC1kNXVNWVFNem4yQWlBWTJ5d09LRTZPd1lQLTlTNV9ZTmpLTlkzNkdiWmVtME9SQkZXWTJRUS12VktkdldzM3NRNTJiVVBmMDBnWFhBYS1DeE80aVNjSENMUw?oc=5"
+      "headline": "Advanced Micro Devices (NASDAQ:AMD) Stock Price Up 8% Following Analyst Upgrade - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOW53MWpJYm9FUlREYW81bjRhT2VIZGxpWVM4Z012a2VvXzlXY2h2Y0ZNM1czZUhnZDZueXRHRTg2YkNWYWNLVWFfMXNoRnZsdHR5SU5aTXRJUnFIZnFvdF9WaXk3eGpJenVyRlYtb0ZUZGExb0RDVGtyTlpLMzdKMEQ4NjhxUHVyMWVzcDhGNGxZN2dQRTRaVV9tNVQ1Y04xelBMel85NGdDX2hfajZFNGVFdlFTYW1HaV9Gdmh1V05YVklQV19vQQ?oc=5"
     },
     {
-      "headline": "AMD Stock And The Five-Billion Dollar Whisper - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXQ4YmpJVVBzSWtfNl90QjR6TmtsWnR0dTBQLVkwaDkwSWM1bkVleDNmVkl6TFFFNnlJbHF2QlpHdjlKbGlmZUwyWFd5c3VGVDNQVTFlSkFoRENNeTVCWWtXeWhUX2dldUNQZmpUM3RCRnZQSHpfZUdmS1dnSXd3VUZhdFlGLU0yT3Z1QUVhOTFVaHR0cTh5Tmlsa3BKbkRzU0toTUh2YXQ?oc=5"
+      "headline": "Why Advanced Micro Devices Stock Bounced Back Today - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOW5sYldoUTdwX21SV1pMYzhCMHRCLUV1Vy1ydzV3ZHdaOWhuRElrQ3VfbHZDR0Z0T1RGWFRvRWJlaGR0LUdhdV80dy0xNkUzVFpUWmpyc0w3bEVCbEtqRl9VRTQzNHJCQXlPSGVjek5iSUxKNC1XeU1hQWUtbUxBWmpNZENuWjlUcFRHakJ3UHBpMXJ2TkZ3WXFUQXh4UQ?oc=5"
     }
   ],
   "insight": "Tracking Advanced Micro Devices (AMD)."

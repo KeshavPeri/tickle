@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:56.406Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:34.360Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    177.6199951171875,
-    168.4600067138672,
     168.69000244140625,
     162.85000610351562,
     159.1199951171875,
@@ -24,11 +22,11 @@
     185.7899932861328,
     181.33999633789062,
     186.44000244140625,
-    189.85000610351562
+    189.85000610351562,
+    186.2899932861328,
+    188.05999755859375
   ],
   "6m": [
-    178.13999938964844,
-    176.08999633789062,
     174.75999450683594,
     184.6699981689453,
     184.0399932861328,
@@ -158,10 +156,11 @@
     185.7899932861328,
     181.33999633789062,
     186.44000244140625,
-    189.85000610351562
+    189.85000610351562,
+    186.2899932861328,
+    188.05999755859375
   ],
   "1y": [
-    151.11000061035156,
     151.88999938964844,
     149.4499969482422,
     151.02999877929688,
@@ -410,29 +409,31 @@
     185.7899932861328,
     181.33999633789062,
     186.44000244140625,
-    189.85000610351562
+    189.85000610351562,
+    186.2899932861328,
+    188.05999755859375
   ],
-  "lastClose": 189.85000610351562,
-  "oneYearReturn": 25.636956744549334,
+  "lastClose": 188.05999755859375,
+  "oneYearReturn": 23.813284820784826,
   "marketCap": null,
   "topNews": [
     {
       "headline": "Charles River Laboratories International Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQeV9SaHY0RTFxemVBTnE2RXQ0WmFNWGtrQUg3d19wNEpRNE0zcG5BN0h5YkpKNEFTbU5VYWtmYnJfMTBZcF9KWXNvYkhqUl9IRmkzS3Y4YlJ3ZUJnUzVuTkhkOFdtZURvU0dfSjhQdG5qY3FXbS1uZDZ0YU4tOVFrM0NqdkxPTkFGX1lIaE4tam1oTC16Y3VTMVB3QkZjZnR1SVB5dlRqbkhNN3YwU0FhU0taYzc4UWV4LTlzem9LZFktV0Zya3hfU0JGV3Q2U1dHbmJOOE5XdjRvRWRfNG1TZTVrT2hWTXBIUWdLYks2THdJb19LcjNzUVdIZ0dPQ1hoUFdvNEhXV3hiRlZiTXc?oc=5"
-    },
-    {
-      "headline": "Are Wall Street Analysts Bullish on Charles River Laboratories Stock? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZXhOem5tYVhvM3RFcE5hb29wZ3J2X3VXdXM1YXBrWjFFWUdNNWlwelNHTDhVclE2d2pzeDBMc2hEOGVsNmNZMzRKdjljai1ld052dEFaaE03QTVsODRXZFp4Wm9iNWxVUWJLX19nQVNWUDA5Z3VTeEJHcTJvZFZ1TjdOU3ZaeE5keU9abWFnYnBhVkgwNTdabE1FNXZZbWQ3cjVJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWmNxNXViOF9OX1ZyU3N5NUdiME9hTlQzdmI1U0kweUUtYlI5akJRaTNPYWhfWms4THlFbDdrX01MWVc0ZnBjR0tmVGlZOGFaaTBIR3hQMjVoMGxqSXN4NDFtalBKNnNfYXZxTnVza2RTUGNyQ2NhUHpKSzA0OWp2OTJSS1hTSU1USVlqZUpRbmM5MUhISnlRbjUtUjZ5Y2pzVWdKSXdYOXRUVXRtVmRfRUNtZDA2OS1LbjBqTGs5RTJ6UVdwbnRnYzhZWDRQcnRHNkk1SEV2MWFNSWFmdloydGhrNXY1a21ldU5Zdi10cU9Fd3dkMVE?oc=5"
     },
     {
       "headline": "Assessing Charles River Laboratories (CRL) Valuation After Recent Share Recovery And Conflicting Fair Value Signals - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-09",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOX2xRYzlsYXNnSllwNXhYdGNlemRnNnNSazJ4QkNDempZZW83WTJuUy05WUlUN000ZkRRZGJhQ1BoUmsxNFdEdFpPeUhiN1Uxb1FDalcyWmxQR0xpbEsyTGdvM1hMdDh4NFUzeTR2RnV0ejlWcmZndlRhOUtYZlhSbEgyQUNSYWJmZ21pazNBZVl0dEpmVVpmTmsxMlY2eW03MkpidFF1QXF4RGtFY1laWWhhZXhpYXYyQnpJSkpoaEtyQlE5Mkc1R2VNVlJPb3p2d2xfNC1kQjJiY3NZaTVrM2EyN0V0WUdhT0RoQkphUnZrRlRQNFpXUUdNOXZGT2U4OFNn0gGIAkFVX3lxTE1oS0hZQXNVS3pMMmtwazVJQ3dJeGhMNWxqTkhZU080MnVJZUdJek9WemdCdU8tUi1kSE9EWDVRcWdwdk9xLXRIQTRVTEtPMS1EWTZIQzZCdzNZWXZHUkZXVGxmUUV0RDVPRGt3c1ZLSXJ3Z1Byd19ZZ2ljd2Z5TE5mQ2szVVpMRUk1X1JSUG9ocG9aZkVYanpfTmFZTFBEOXJVVGhPeWdFSDgtcTI2QXJZdEdKdXVDUmxCM3lDbzJMZWN0MGw5b2c2WjNxUElFdnVXbC15MDRTTkJVVjNPaVNwMFBWamtKaG5qU2VhYkh3YVF2UHFiOVRRLTl0ZXFFc2h5ejVuUURMVA?oc=5"
+    },
+    {
+      "headline": "Are Wall Street Analysts Bullish on Charles River Laboratories Stock? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-26",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZXhOem5tYVhvM3RFcE5hb29wZ3J2X3VXdXM1YXBrWjFFWUdNNWlwelNHTDhVclE2d2pzeDBMc2hEOGVsNmNZMzRKdjljai1ld052dEFaaE03QTVsODRXZFp4Wm9iNWxVUWJLX19nQVNWUDA5Z3VTeEJHcTJvZFZ1TjdOU3ZaeE5keU9abWFnYnBhVkgwNTdabE1FNXZZbWQ3cjVJ?oc=5"
     }
   ],
   "insight": "Tracking Charles River Laboratories (CRL)."

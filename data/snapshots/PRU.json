@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:21.333Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:05.305Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    100.80999755859375,
-    101.12000274658203,
     102.58000183105469,
     102.37999725341797,
     103.19999694824219,
@@ -24,11 +22,11 @@
     103.31999969482422,
     104.62000274658203,
     103.72000122070312,
-    103.69999694824219
+    103.69999694824219,
+    105.16999816894531,
+    106.51000213623047
   ],
   "6m": [
-    108.25,
-    108.22000122070312,
     107.8499984741211,
     109.56999969482422,
     110.25,
@@ -158,10 +156,11 @@
     103.31999969482422,
     104.62000274658203,
     103.72000122070312,
-    103.69999694824219
+    103.69999694824219,
+    105.16999816894531,
+    106.51000213623047
   ],
   "1y": [
-    104.61000061035156,
     104.9000015258789,
     102.97000122070312,
     104.94000244140625,
@@ -410,29 +409,31 @@
     103.31999969482422,
     104.62000274658203,
     103.72000122070312,
-    103.69999694824219
+    103.69999694824219,
+    105.16999816894531,
+    106.51000213623047
   ],
-  "lastClose": 103.69999694824219,
-  "oneYearReturn": -0.8699012109740173,
+  "lastClose": 106.51000213623047,
+  "oneYearReturn": 1.534795602414147,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Prudential Financial Stock Underperforming the S&P 500? - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "AM Best rates Prudential’s 6.25% 2056 notes, cites $3.7B liquidity - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmVyODhualBVMGtkdm9LSWJpSlNYTGxDa1dHeFI2S2VqenNXUnBtTzhQS3ZfRVNhUzNtU0hnTVVPMUI5Sk02Y3NSMGI2ell0ZXhJS285cEtNSFVjQ3QwR0g4Zm43cV9ncnc3R2RqTnJQX09XQWpMQmZLbWNObXF1LWRuZ0ExTDF6QXpRTEVzUERsWkZsZ2xpemRLU3FKejRQODBaa1d6OTk1YURHa0RFblhuUmJXalZHZWVV?oc=5"
+    },
+    {
+      "headline": "Is Prudential Financial Stock Underperforming the S&P 500? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVlBPMFpDZkRSSHBTX2trM2dqSkFiSFlHaXhQTHNUVGtOT3d1dzFubmt5V0d1bkpyaWV4bFIzQUY3NFYzbFR2YlRtZVhUSm1odXFsaVJKZkdEd1JYS0xwbW9NVlNKaExKVnFaM2JHLTB1RmRUMmVvdDNnU0VBOFlNcjROZFFlSEdrOEFkMG1JVWpMYXZ0LU1BS3pDLW9JVWRhWlVTWjUtMktZa2ZOV1E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVk8ya2U5c1V4MEIyYTV2QWZXcTc0TG55TXZjM1V4MnhubTJhdGtfaDBWU1VXSzZZdEpNWlpxQ1RJblBCUVZYZ1NZMWJHX0lyMzdLUkdRSElZSGd2eGx5U3R2dzFKRHJUN0d2aEc0ci1kY0tHOUFzTGhwZmxhZURkQjVXazBBcGtDVnVEMjNvSDF5LVVKckY0eWwwUUpKLVBpcE00?oc=5"
     },
     {
-      "headline": "Prudential Financial (PRU) Valuation Check After Elevate Annuity Launch And New Fixed Income Issuance - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Argus downgrades Prudential Financial stock rating on Japan issues - Investing.com",
+      "source": "Investing.com",
       "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOanVHVGg3a0ZkNzI0YTdQaklzZkdIdG53Q2thbkF4aWt1c0ZSdmVXcUdUQlNaX3l2ZmxmZElwenIxZ05COHBUVGpGWWZhYlg1eXZaTTJWd3JIMUZTWnByT3J4ZVJSVWpMalJ0YWFXQWNtbkhRQW9ONmdWalcxSEZXQzNiMUJUemdfLXFUMEdEM1F4aThFcEZBRGFXWHQ5S1RRSzJYUTgyMExuSVRoYV9vSU02NjU0aUNMdmhHT2ZxNDMzWTk4OHlHaVZTTGQzQ0J1dHZn0gHYAUFVX3lxTE5fTjRzVW5NdC1Cb2VNWmNQRGhkdEJrR01XcXg2dGp1YkdkOERQcm84em5Fd1dLWmpMVDRYYXFOVGl6bjE0akdDX3hmWU9xeVcxOVRaRmJkbmw5Z3V2TGRDTUJLbmhPQVg1Y2VaNzRJd1RfMlRoMzNVaFd0azN5M2RWdXVTYzU1WlI2eUVic1lrUmRtdFl4TVlvS0tldWNhcDJlSlBmUGI0M0t4TnVRVGtzaDhFLVpWVlZEV2hjRXpfR0U3c1YwbkJlVUZINXhjTnJKZUlBb1h5Uw?oc=5"
-    },
-    {
-      "headline": "Argus downgrades Prudential Financial stock rating on Japan issues By Investing.com - Investing.com South Africa",
-      "source": "Investing.com South Africa",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNUV4ZW1PZ2p3OFdHZEZ2ZVd5OXhseV93YnZDbTVGNnRCREdPZE01MmVMUzRTM2huRG5PV2x2cHZZSHozRGpmYUJiQ3c1SzZDaWRKWGRKRGZ6SHdWck83Rm13NTFPYjNNdlJmRG90YVdKSFNveFlMV1pJMzNCSWp5MFl2Q0RUU2s3eE1pYmhPcDhFaF9ZTFdNNEh5ZkdFT2JuWWNZNUpKcDZ6ckFnQzFSTnNNU2lvcXF3RWh1amhHVnRBWV9vVEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYlNfTFppeEEzcXRkd0ZpZ2RGZDFPTWMzNGxwWTRDYnhkVU5taW8xQVJOd0RITDAwaFpyTE1OX0x3M3oyQmw0QjE0Q29nd21Dbk00aXRiVk1OX1FaWVdpVWtqZjlidmZVclZtUkI1cWk3ckNjeUk1b0t2eHR5UXdZeUtnYnB4U2c4OGZYbmtkWG1GWEliYkIxMGRQd0x2b3VPRFNfY1dPV212VzlsS1k4QWJrbmZ4N2hCSVpKZjJPN1F1YnZk?oc=5"
     }
   ],
   "insight": "Tracking Prudential Financial (PRU)."

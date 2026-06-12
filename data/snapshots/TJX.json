@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:25.339Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:10.217Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    153.36000061035156,
-    148.91000366210938,
     150.25999450683594,
     147.02999877929688,
     147.35000610351562,
@@ -24,11 +22,11 @@
     158.6300048828125,
     160.7100067138672,
     159.75,
-    164.8699951171875
+    164.8699951171875,
+    167.66000366210938,
+    168.33999633789062
   ],
   "6m": [
-    151.9199981689453,
-    151.1300048828125,
     150.02000427246094,
     150.05999755859375,
     150.3000030517578,
@@ -158,10 +156,11 @@
     158.6300048828125,
     160.7100067138672,
     159.75,
-    164.8699951171875
+    164.8699951171875,
+    167.66000366210938,
+    168.33999633789062
   ],
   "1y": [
-    124.52999877929688,
     124.45999908447266,
     123.91000366210938,
     124.2699966430664,
@@ -410,23 +409,25 @@
     158.6300048828125,
     160.7100067138672,
     159.75,
-    164.8699951171875
+    164.8699951171875,
+    167.66000366210938,
+    168.33999633789062
   ],
-  "lastClose": 164.8699951171875,
-  "oneYearReturn": 32.39379806739158,
+  "lastClose": 168.33999633789062,
+  "oneYearReturn": 35.25630529985464,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Carol Meyrowitz Sells 55,624 Shares of TJX Companies (NYSE:TJX) Stock - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZS1WWnotOHZqa3EyNGlYVmloM3NydnJ5elRtQmxRM2pWTWMwV2lpS1pUUHQzUFk2dXBhSWN2dkY2MUh4M3JMQ180b3VockQ2VnlsRXk0TUFOSWEzZEczSHlFNUtDcWs5OG01UWQxS2MtamNGSGFvWXFpeDBEWTVHbkVVRWUtS2RFWE9PQ2RJV2JMbTBBQUM5d2puV2cxZVpBOURKWEJXb0ljVUdvcnRoTXR5R1ExRmtOOW5R?oc=5"
+      "headline": "TJX Companies (TJX) Stock Valuation After 6% Comparable Sales Growth And Broad-Based Customer Demand - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMi1IZnFZbGdwcEtiZkV2S1haZ0RNdk1MOXZkMG4tR2c4MDl2Tlp6SE9hcERJemRwMDFKYTUxeHRuMnotc1lXSWE1QjI2V1FJZXBuN2F0RDZYakppaU5NWDNtbFFDUHExdXJXR1ZZYnR3by1rNHJaMlh6RTJPSERHaUdKWS1MVVdBWll4UGFhNlVQekZXTklBTlN4UUpWUi16UXk3Zjl3LUs2NXY1TkVhVmNGOEtzb2l0b1U0YmhrRGk4WGVvV0HSAcsBQVVfeXFMTi1IaGFGS0h0XzJ0eUdEZ01HUHlMZjVtdnhIV0szbGtvRE9BNWFUWTJGcTUtU1BwRHA3WDcxUWw5c2RyVF81NlBlNXI3dzJ0MVVLQjhjb0NuYWRRVU1qM1BQcW5ucVI1czYxc1FWUC00SldCRXBlbkp1NEtJeUJIcVdCRXVwSU9qSlRDdTdlYmhlZEpnTHQ4Sno4dDF5SzRLY1NzQUZ1X01GS2d6RklsLXFYNkoxWGF6REJVMXRQTXJqaUw3VDlkbGpNT2s?oc=5"
     },
     {
-      "headline": "The TJX Companies, Inc. Announces Quarterly Common Stock Dividend - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
+      "headline": "The TJX Companies, Inc. Announces Quarterly Common Stock Dividend - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNemVWOWpWY183bWdBNDlIRzF3UTlpYXc2QzJkWkd0UzhjeW93OVZUMXN4QV9aTlNJc2d1WnkxUFE4dGhELTlVcWxfTGJaOGxIajNMZGJVU3JlM3NFaGsxMm12OWFJbzQtV1BfZjFtMjRpY25zOThpbXdGUV9sT19hRE5XWmt6bmY4UkF0WG1Vaw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWJxOUJLbmRDNFNEalp3N3M0VG12RnVoME9NMUlMNjFGaWdBYl9WTEpkcEhJdmViS1ZQTnVlUlRVelJVS2x5eEdjYk9Dc0pjOG56aHBEVXp2Y2ZDZFN3dDVHSHhKUGsySnREYnUzTUJOQzRUZ1ZTcEJOY3EybFM1WXVOS2EtUjdTOWpvWVltNHlCa2ZNb2FnUjE0Yi1hWkVVZ0VFRg?oc=5"
     },
     {
       "headline": "Why TJX Companies Stock Climbed While the Market Sputtered Today - The Motley Fool",

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:47.556Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:23.978Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    128.02999877929688,
-    122.47000122070312,
     127.87000274658203,
     124.63999938964844,
     129.19000244140625,
@@ -24,11 +22,11 @@
     146.77000427246094,
     138.80999755859375,
     143.60000610351562,
-    154.07000732421875
+    154.07000732421875,
+    149.22000122070312,
+    152.4600067138672
   ],
   "6m": [
-    140.89999389648438,
-    139.22000122070312,
     141.49000549316406,
     138.64999389648438,
     139.4600067138672,
@@ -158,10 +156,11 @@
     146.77000427246094,
     138.80999755859375,
     143.60000610351562,
-    154.07000732421875
+    154.07000732421875,
+    149.22000122070312,
+    152.4600067138672
   ],
   "1y": [
-    93.06999969482422,
     94.5999984741211,
     92.48999786376953,
     93.37999725341797,
@@ -410,29 +409,31 @@
     146.77000427246094,
     138.80999755859375,
     143.60000610351562,
-    154.07000732421875
+    154.07000732421875,
+    149.22000122070312,
+    152.4600067138672
   ],
-  "lastClose": 154.07000732421875,
-  "oneYearReturn": 65.5420735246729,
+  "lastClose": 152.4600067138672,
+  "oneYearReturn": 61.162800394309045,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "AI Infrastructure Short-Circuits But Now Sparks Not One, But Two Buy Points - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUGx0LW9DTmhZSDVJRUJjMWotS2lSYmdtX3ZkTzdSOElZNnQ2NFNUQkFuZzNUVnM3R2h3OFJreXFuM1p6UFdLWUtCcnRFRmU0SDRHclp2WlVGMFpZUzhIZHZONXlHcU1wZlJueXFMOFhwMTZBSlJ3UlJLZ3lOWkl1WUVlVi1LMEUtSEpNX25GNGM3cWxKOURxUGRMMHJPNnItLVVfNHFWa01vQ0FXTFVyQ0p3WEhRa0ZBblp1Ui1aajk3TUE5NDF2RmJ0M1B4b0VBTTg1SVdTQW1iZw?oc=5"
+      "headline": "Amphenol Stock's AI Boom Adds More Market Horsepower, Not a Different Ride - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOTBEOG1iaHA1NG9rUjBLc2JMVTA3aW4yczlFZTRyVjc3VnBSUzRJQlJDWFZlNGxlcGhoNk5jVTkzRm9IOXN2WktGMTBlU1IxR0NJOF9KQ0xJTVNwSjk0TFRsMHprMFE5NDhVT2lYYkpycGVwOGVDLV82UU5FS0tXeE9IUzVzbmxOci16eG8yQXdxaHFXc3Vad293NWxGUWUyX19VZWkyN1hyR2k2Z216Uk5hNmpmRkdWTlhlVkRqajEtS0RXX2JSRWpDd0c0MHBMTWVjdFJtNW1XQQ?oc=5"
     },
     {
-      "headline": "Amphenol Corp. Cl A stock outperforms competitors despite losses on the day - MarketWatch",
+      "headline": "Amphenol Corp. Cl A stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWDFNVGJkckRaUVdpbGJzUngzRkZLTldMc2lESk14elVFMElNU25kNFFpNkNpMF9GYVQ2NG04cGZSZER5MVhjTllZNWJrSXhlMG90dC1UYm9LMHVTdVRLODJxWFI3YkJXYzROOFdrRnAwaHQ0R25MbHB2Q0dRNzE4bm1sc2dkaWJNc1Ata0VLd1RkanZMUU5EVlBKU3FlanNEUTVyekd1UmVfTlhCZUd0LThwdWx2RXRYOVAwWWVFdDRYVVFfQmtjUm93YWdYVTQ0V3AxNFgySTJWR2cxOTNNcGVScUQ0LVE?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNX2g0TU5PeHBvVVNKbXI0Y1N1LVg3aUd6NjlCSXpSMU9oVWNQOVJ0LWtueDVoX183Y0NrX0FMWEU3cmw3WFMxSjNGdThBbEk3d2xaaHo4Zk5kRzJvNEg5a01xeU10UzJ4RVRaYUVsSWoyZ0RNaEZDT1d4Wm82UlZoQmZHZFgtbEM5amhpZjV2bzI0enpRb1dMd2s4cGtpWUNzMnlSWFZZcm1WOW9uTjNQT1B2Vzk1aDJXcnlMQUdKeUczU0hHbGhSWnoyRG1pRWhabU5YRGxvVFlwU0xXY2pHZFlPUmNBZEZXZE5IcEtUbUdUd3hwUFZ4ejdwb3J3YjBTYzNRRg?oc=5"
     },
     {
-      "headline": "Amphenol Looks Pricey at 30X P/E, Yet Nearly Priceless: Buy or Wait? - TradingView",
-      "source": "TradingView",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeDVmN3lxU1hHbXAwWTVlMzJqMXZSZmpBX2c2dW84eFo3ZHA1TEpUQXl6WDZiNmpIVGt4aEhEUlpVOGM0WTJqb2xybUtCQ1Y5aTZlMEFaak53Y0ZLV1VRMEpMN0tkZ2RSN25Hc3M4R2s2SFpTUTBZYzNvQmVnU3Y0UGNLZmhZVXdfVnViMjFCcnFRLVVuV25EOUt2RmpHYUdmNEdMZVMzY3BUYWgtSHNTOXZscWkydU51OEs1UTNn?oc=5"
+      "headline": "Is It Too Late To Consider Amphenol (APH) After Its 61% One Year Surge? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSl9nV3RRalpOTk41Z1ZLcWlfSnJpTEI4MDdQVzNyMkJ6ek9fTnlDRXFJY2NVVTVPdXZUdFlodmhzMWZLT0FiNXNNZzRwVmVWSkVDbHk5ZXJ3d0h1eFB1WHU3MTFSVWRpMEVOZ2F4Wl9uZkI2S0dsTU4yd2pfQ0M5akh0d2I4T2pnWHYtRE51OWZkSXkwX1hHdTBxcm1MeXFRWkdIQWhVRzh3amtGajZYeG0tLTBKRnpzaTBEdNIBwgFBVV95cUxPMHdMVmdCbEplYjRSNHVFT3o1cHh2ODRGOHFmQ3FuSktYcmVIQkFMZGhwMlNnV2EyVVk3ZjZTdWQwTlQzSWlFNjBxYVhjQmdmN2NKTlB3VkVraTNMazUxdk93bzh0NUROM2MzeWg3WG90RzdjMHJpcWJ6d19YODNmNGpwLVdjamdaYThWMmtWcnRMMTFINTJwemJIcUJ5UVUteTFNTVhnZkxhOGFOVGxBVHNGVnJEcy1UYldrRDZxY2JFdw?oc=5"
     }
   ],
   "insight": "Tracking Amphenol (APH)."

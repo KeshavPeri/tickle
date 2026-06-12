@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:07.409Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:48.075Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    186.94000244140625,
-    207.38999938964844,
     198.24000549316406,
     206.50999450683594,
     208.27999877929688,
@@ -24,11 +22,11 @@
     197.6999969482422,
     177.5800018310547,
     187.5399932861328,
-    173.94000244140625
+    173.94000244140625,
+    168.1699981689453,
+    176.5500030517578
   ],
   "6m": [
-    84.19999694824219,
-    82.9000015258789,
     83.70999908447266,
     83.55000305175781,
     85.44999694824219,
@@ -158,10 +156,11 @@
     197.6999969482422,
     177.5800018310547,
     187.5399932861328,
-    173.94000244140625
+    173.94000244140625,
+    168.1699981689453,
+    176.5500030517578
   ],
   "1y": [
-    50.45000076293945,
     50.81999969482422,
     49.599998474121094,
     50.779998779296875,
@@ -410,29 +409,31 @@
     197.6999969482422,
     177.5800018310547,
     187.5399932861328,
-    173.94000244140625
+    173.94000244140625,
+    168.1699981689453,
+    176.5500030517578
   ],
-  "lastClose": 173.94000244140625,
-  "oneYearReturn": 244.7770065628671,
+  "lastClose": 176.5500030517578,
+  "oneYearReturn": 247.4026054937946,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Corning Inc Stock (GLW) Moved Down by 3.22% on Jun 10: Key Drivers Unveiled - TradingKey",
+      "headline": "A Look at Corning Inc (GLW) After 5.0% Gain -- GF Value $60.21 v - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNHFFSWc2cWlhMW5Kc2xiSjFpMlV0a2dGbXRPU29iNVliN3NPM3BhUXVvTmhZVy11UjU0NG55cHllVWQ2MXM3cVp6QTVnX3g1Z25VM2ZIbEs3WHpVUWJEcjU1RGwtRmhuUndnVEZEbVlnU2hhMlZHVl9oS1NUSVJ3WnJ1T2NnVlFPYjAtODN0dUEwbjd1eXIzcFJpOTZxZnZsWmJVS3BBR2tkdVk?oc=5"
+    },
+    {
+      "headline": "Corning Inc Stock (GLW) Moved Down by 7.90% on Jun 9: What Investors Need To Know - TradingKey",
       "source": "TradingKey",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbHVfbFkwTk5PcGNsNl9pb0hDS09zLVRvU2NURkQzYUhua2hfNTFmcGtHSUlvNTl5Rk1oSE1takZEbEVrWXNBS2w1Ty1UekhxTTZXNXpsMjZHazJTVUhvSXhiSFdabXFPY05mbnV3Y3NVaTFaR0dSdzlOSjBXX2VxeHR6Qm8wTEtwLXc?oc=5"
+      "when": "2026-06-09",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQWNicDYxUTQ0TElvRDRNeHlNbGw4SVRWVDYtVV84Y3dtSWF2RXh4akQ5NjdQV0tZdkdYUG9GbVhuMExaUUZXbDZyRU9PVm5zNHczT0JQQWtuelF3WDVvR3VlZThhNWxxY3Rob2phQVBpVnNrN1hUbHBaN2xZSEt5LVFENHdqN1h6b3c?oc=5"
     },
     {
       "headline": "Corning Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-08",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNm1wNmZnMHpPMWVKdDh6d0pQcWp2SVJzekNrRm5HWXM3YXRXS0tOZEo3N3lUVmdqc0pFb3NTZEVrM0JtTWxwNUwyd1BnUDcxSFdGZWtGZHJ0Smt2NThjWmZpTWVVNEdYRFFmQmhpMmJ4NWNINVJvQ25zWkFlQlQ0VzViRW1qOVphWmVOUGo0eENrelJKTlRLT2trWG9STFY0OVRjN180THdBYU9Wb05TbWI5X3RhMzVLTVc0emFSTEs?oc=5"
-    },
-    {
-      "headline": "GLW Stock On Track To Open At All-Time High – AI Data Centre Boom Spurs Price Target Hikes - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkRxaWpmVXBIVV9xbF9zVUR2QkgwQzItT2lndjNqT21wc0oyOWVkZXpNQUNuUnJyektYTFNJeG5CaWZuZkt5eVJVVk5zUnRjR3U5YmFCV1ZFdUNHSmNjMjZJM0R0UXdsSEdMeTcxSzhDaTlWSTE1Vnh0bHM5Ym8zeFBRLUtNNkN4aS00V0g2ZDlNYVFpeEtsN25lYlNHQVVxbFhicjhEYUNwUGFxMURtZW9B?oc=5"
     }
   ],
   "insight": "Tracking Corning Inc. (GLW)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:28.117Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:13.742Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    480,
-    515.8300170898438,
     488.739990234375,
     494.0899963378906,
     489.1499938964844,
@@ -24,11 +22,11 @@
     575.5,
     511.7200012207031,
     526.9299926757812,
-    517.719970703125
+    517.719970703125,
+    490.0899963378906,
+    529.2899780273438
   ],
   "6m": [
-    163.3300018310547,
-    163.5399932861328,
     159.99000549316406,
     155.58999633789062,
     161,
@@ -158,10 +156,11 @@
     575.5,
     511.7200012207031,
     526.9299926757812,
-    517.719970703125
+    517.719970703125,
+    490.0899963378906,
+    529.2899780273438
   ],
   "1y": [
-    55.66999816894531,
     55.779998779296875,
     55.70000076293945,
     57.40999984741211,
@@ -410,29 +409,31 @@
     575.5,
     511.7200012207031,
     526.9299926757812,
-    517.719970703125
+    517.719970703125,
+    490.0899963378906,
+    529.2899780273438
   ],
-  "lastClose": 517.719970703125,
-  "oneYearReturn": 829.9802186663758,
+  "lastClose": 529.2899780273438,
+  "oneYearReturn": 848.8884718724541,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Seagate, Western Digital Stocks Climb As Analysts Hike Price Targets - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObTJRNTdqM2dEZFB1cEtyLTZJT0tBU3ZTQWdMOE5kMDFJUFMxWnhvYWRpZmpjVEdrZDhtRjE0Q1M3WG1DNEhLWVhlcUsyTGV4dGZTWm9GOGFKd0ZaalV2X1BQc1B2eENxRjVqZXFERWVCbl9VekNvRDhMLVNvLWlOVTl5VS1MT2k5MmFIVmFXYzB6T2wzR3VVeUNYZmY5dThSanc?oc=5"
-    },
-    {
-      "headline": "Citi Raised the PT on Western Digital Corporation (WDC), Here’s What’s Driving the Bullish Sentiment - Yahoo Finance",
+      "headline": "SanDisk Jumps 14%, Western Digital Climbs 6% as Memory Stocks Rebound on SK Hynix’s Capacity Plan - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ1FfODNDZGF0LV82NjJ0ckVKZGR2eGxSZ0R3YVp5ZFJUaXV2RnlYQk0tY2cyZ2tPZTl2eDFQcG5INWNIeWQybGpTUFlWRXdReVVjU3htR0xVZ2NzRjA5OHdRYkxYOFVCVnZ0ZTZaVEh6VFAzU2V0cWFxcHdiTnNyR1JiV0lZSG1wWkxPS0RWUV9TNVpsSlUwMUxfWQ?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQnZvS1hYYjF0bzVxTEFyYnVnQ01LTi1JcWNMcDFHTGNnS2lJMmdRS0o5X29hUkxhRlpwdmNraGJXaldlUkdaUWhONUVPZlVpcE9fcUdnd012MDV5U1hlTGdRZnJaazVmWjg5cDYyNjhtOXFDdEsydWdCVnZ5cVd1bm92NURUY2stQy1oZ0RfaVM2SUFmaENlUEFtWlNYZw?oc=5"
     },
     {
-      "headline": "Up 981%, Is Western Digital Stock Still a Buy? - The Motley Fool",
+      "headline": "Western Digital Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMzBDTGRNc1BWTm1xV3JmUWFZa0czbHZrSmVNT3l1cWxVOWEtOFFCZVVmZjVKNklNZWYzMTN1YXk2bVNsaUVLbF9jS0Jsc3l2enR3QlM4MGtmWWk3SVRWYU12cGxDZzFyZjY2aHFIR0txUFN6ajFvQUQ5c2RaNVA4VkFkejdzZzJIaFBtTVl5aDJ3bFlnR25DVl92QldhTVByVjVJWW5Tc2k4WUtTR1FPWllPMTU1UWNodzVnakI2MXBzZloxa09mSWExTS0?oc=5"
+    },
+    {
+      "headline": "Better AI Memory Stock: Seagate or Western Digital? - The Motley Fool",
       "source": "The Motley Fool",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMzlrVnNyUmNLOS1aOUVRaVVTaTd6SVNlWld6TEh1NDdOZHR5eDFVZDRjUURGSU03SUFJMGJJdEM3eEdCak9QRzJsQ08yeng4LXJmWUJldFk0NG42bEFYZUlyMDl4SEMxQ3R1RGFSOEIzalN5aENpMURoTEZ0eHNaVlBhR1RST0V1dnp5UjMzbw?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHdkMldEWTBzYjhRNEprYTRtd0dnZTR5Y19PU0tkWUFUYnpnMmc5aXBLR2kzM3pqdmwyQ0RDU1pGOUd3Sk8yeXRobUNGdFhCRlg5dGZuNWVpa1pYOXVBSFRDRWZkYXlvd09BeDFSQ3Q3QjBYYXdVbVB1RXFxT19yYmlaWjFNNG1MbW9FN0ZucjBwQnBLX09n?oc=5"
     }
   ],
   "insight": "Tracking Western Digital (WDC)."

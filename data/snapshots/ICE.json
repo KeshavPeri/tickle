@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:10.982Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:52.520Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    155.82000732421875,
-    157.82000732421875,
     155.80999755859375,
     154.8000030517578,
     155.72000122070312,
@@ -24,11 +22,11 @@
     142.05999755859375,
     141.5,
     139.0500030517578,
-    141.55999755859375
+    141.55999755859375,
+    140.33999633789062,
+    138.97999572753906
   ],
   "6m": [
-    157.3000030517578,
-    156.94000244140625,
     155.36000061035156,
     156.85000610351562,
     159.11000061035156,
@@ -158,10 +156,11 @@
     142.05999755859375,
     141.5,
     139.0500030517578,
-    141.55999755859375
+    141.55999755859375,
+    140.33999633789062,
+    138.97999572753906
   ],
   "1y": [
-    177.5,
     179.0800018310547,
     178.44000244140625,
     179.8000030517578,
@@ -410,12 +409,20 @@
     142.05999755859375,
     141.5,
     139.0500030517578,
-    141.55999755859375
+    141.55999755859375,
+    140.33999633789062,
+    138.97999572753906
   ],
-  "lastClose": 141.55999755859375,
-  "oneYearReturn": -20.247888699383804,
+  "lastClose": 138.97999572753906,
+  "oneYearReturn": -22.39223011698774,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Intercontinental Exchange director sells $12,603 in company stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOTI1NGtieGtEcnc1QzFEeXRacjh3OTBiWllQcmtkanFLdzFvaHZDY0o0dnZwN3h1cEJSWWFnVmZaSFNtMFEtTHhDbHlHTmxzYnNEYTdCUjItc2x4aVZneTJkUXluRkhNU041eU8zSlRRbGZJZlRBSDcyN2pIMG5mMkppcUlUQmRud2EwOGJRZTFaM2RGRHFaSWpyZUhuOWQ5WmNXRTl5YUNHRENEVUcteTNLQS1PcnNHbWRBVThndy14Y3MxbzEw?oc=5"
+    },
     {
       "headline": "Assessing Intercontinental Exchange (ICE) Valuation After Recent Share Price Weakness - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVphOVVuUm1MTk84ejhMOWJqazkzWWdkdUtHcUJGTWo1dEEwTUFhTzA0YUhyVk9vaU80QXBLVllNR0hmUGFtdFFDb0xPdEp5YjlZQXEzcFhNRUZiRFYzdDU1dU02MjVfLXBVSEtuUFB3bFRCVDhzTWtPMDdDNUhlVFJvOXd1M05ES3lDblNzeG9QWUNlOGVWTlBncVBualZjQkVhLVphc1I0YVJYREJjdFJCR1I?oc=5"
     },
     {
-      "headline": "Implied Volatility Surging for Intercontinental Exchange Stock Options - Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNnhleUk4UWNYQV9lVXk3c19RVGhCa2t4dTFFWTE5TjFyTHpyUVFRMncxXzc0aVJMREV0dGVKaGVfdjNhTDhaQ2xzZW9UZ29ieTAyM25JdlAzTUhBX3U3ekxNakI4V0F4bDlRMXU0bzJ4VVg3WEJRN1JaOTgxbnJkcG15RHN1ZVdqRXNWbENDM0dGcWE3bFhYQ19JWVRESWtOV1MwUEVJNUdaOFdFY3daLQ?oc=5"
-    },
-    {
-      "headline": "3 Profitable Stocks We Find Risky - StockStory",
-      "source": "StockStory",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaV9ZaUQ0UzJ0dk12NzRuZjcxRHg0TFpvRXh0Zzc4U2RwNXhaM0dhaWU0WWRSTlZ2VFZwSWFfR3JqNEltZmFrVWN6QS1raTNRdGJCWHJxUFE0NXlYcC1mazFjSW9VR2ViclpKOEpReGp4OGRMUm9jUk9tZlpJVGpnRm1veWFibVVESGI0Q3dFS295bElsT2Fz?oc=5"
+      "headline": "Intercontinental Exchange (NYSE: ICE) director sells 91 shares under 10b5-1 plan - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTk3eURfRmNfZW45SXR1b2hmNGcwdVY5ZmhIS2JlVzlkRHY3c3c3bGRYbFlETGpUd19vaE5tM0h5VHhQNXBJQ2I0VGVOWlJFOU9PX1NEdXN2c25HOHoyMmN6YmcxZ3kyUW81LXZvZ09aclJFaUttOEVOd0l2bl9GR1BLZVh4ajREYnJxOUhrTWM0MVdaMEVxT2pBYTZhTHNIMklTczVfc1g3SUwyQXNXUDJ6eUhCY0NISS1WSXJHOA?oc=5"
     }
   ],
   "insight": "Tracking Intercontinental Exchange (ICE)."

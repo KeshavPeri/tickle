@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:24.872Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:09.582Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    359.7699890136719,
-    366.6400146484375,
     358.45001220703125,
     363.3800048828125,
     356.54998779296875,
@@ -24,11 +22,11 @@
     406.8599853515625,
     357.92999267578125,
     374.69000244140625,
-    369.2099914550781
+    369.2099914550781,
+    347.5899963378906,
+    381.3999938964844
   ],
   "6m": [
-    181.88999938964844,
-    179.6300048828125,
     189.94000244140625,
     195.0800018310547,
     198.6300048828125,
@@ -158,10 +156,11 @@
     406.8599853515625,
     357.92999267578125,
     374.69000244140625,
-    369.2099914550781
+    369.2099914550781,
+    347.5899963378906,
+    381.3999938964844
   ],
   "1y": [
-    86.79000091552734,
     85.91000366210938,
     83.08000183105469,
     87.68000030517578,
@@ -410,29 +409,31 @@
     406.8599853515625,
     357.92999267578125,
     374.69000244140625,
-    369.2099914550781
+    369.2099914550781,
+    347.5899963378906,
+    381.3999938964844
   ],
-  "lastClose": 369.2099914550781,
-  "oneYearReturn": 325.4061384495548,
+  "lastClose": 381.3999938964844,
+  "oneYearReturn": 343.95294801355124,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "onsemi, Teradyne, and Penguin Solutions Shares Are Falling, What You Need To Know - Yahoo Finance",
+      "headline": "Lam Research, Nova, and Teradyne Stocks Trade Up, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEV4ZkJ1ZmJRWHhpNzA3ckZrdl9ValJfMGwzSVByZXowUU12UFJYTWlpemNDRlR3TGFXZllFc3hTcHBhYjdkN21UX3pWZ0VTNFppeGJ1UWFLSVMtb0h0OWRmZjM1MHBVemFnREM2Zm05dUhTS09NYkhXVTR1OGRGTXpTd2g0emw0WUVJS1JCVElQSjQtdDYzdWZoc1NLUEdaM2lYcTF2LXU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWkF4d1dpX2Fqc1VxNG9wcmR2ZFR0NWNPajlQZHlGd3N4cmVYY0QtSUItSnVCc0otMGxkVkxLQUlqUE92VHgwZUlqS3FNSTUtUG9aV3ZsQ3JnZWJLSk1HcjN0YTVscFFySnJSMHhvTTctVGllN3dqQV9EYmU5ZDRpZl96ME9kcjZzLWN2VGpOWU9wQ0FROFJtdVFZUm9DUzA?oc=5"
+    },
+    {
+      "headline": "Teradyne Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN21wdlptN2lQRm9GSzljdjFyNk9DQkk0akdSWjFDSGJUVWdaWTJlV3k3V1p4bVBrM1VPdWlNUzdhMHh3Q3l2LVJCWHk4bXpPYjVJUFg3TURLRklnUm1kUENZWTVTU0JyTHYwVVRSek5qX0c3UjlfTkFkc21OZWRrak1zbm5rS2dHRXQ5NnMxamNfbk1OSGQwYnNScjRvSzh1ZUJ6X2FZWVBIUUpvVmVBRzJKakd0M1VzdXlpRjhhR0d5UQ?oc=5"
     },
     {
       "headline": "How Wide Is the Road Ahead for Teradyne Stock? - Trefis",
       "source": "Trefis",
       "when": "2026-06-10",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2xzTWRqaHRQeUxXTFNYOG9JS0hpam5VTXdRUEZjUmhOcWhDMmxfZUQxT0d6dEwxLVVqWU9PbE9sTkZBa3lGQW1icWUya0ZyY1loYmZnNGdhd0JyNU5NT3E4WWVROWdKdG5rclEyYVZ5Y1F3dnlQQ1FDRFpsMnBWVnZweTdhVXAwOEFFWXZCUi1wYzNnbUJIbmJ3dFJWM2R4V0J3bGx5b3E?oc=5"
-    },
-    {
-      "headline": "Teradyne Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbWdJeEZwNzZ5YWR2UVBVTlgwT0tJMXFOZjh5Z3hERnBtNWsxc0FGVXFDNUd4Q0dBbVlXZFphRkpVbUJFb2l5a0hMYWppZi1zWGlELWtub3ZjbWJnZjJRWmxVNlVWTjQ0OURyeHhxRWRmaThUaEVkdDZGem40SENSTjU3dTMyUmtQNnFlYVYzWHF1M19LalBTYWpJVndDVHZEbjZqdlA0M3hhQzFoTkI0eEh4OUpHQkEzY29ZS3Q0WUNCT3lhbV94TnF5aw?oc=5"
     }
   ],
   "insight": "Tracking Teradyne (TER)."

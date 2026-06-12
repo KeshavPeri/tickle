@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:06.477Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:47.149Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    346.5299987792969,
-    344.0299987792969,
     346.4599914550781,
     341.3599853515625,
     340.6199951171875,
@@ -24,11 +22,11 @@
     341.5,
     346.44000244140625,
     340.8599853515625,
-    345.67999267578125
+    345.67999267578125,
+    341.07000732421875,
+    358.8599853515625
   ],
   "6m": [
-    341.6300048828125,
-    332.3800048828125,
     335.79998779296875,
     338.0799865722656,
     341.70001220703125,
@@ -158,10 +156,11 @@
     341.5,
     346.44000244140625,
     340.8599853515625,
-    345.67999267578125
+    345.67999267578125,
+    341.07000732421875,
+    358.8599853515625
   ],
   "1y": [
-    275.8299865722656,
     279.92999267578125,
     283,
     279.2900085449219,
@@ -410,12 +409,20 @@
     341.5,
     346.44000244140625,
     340.8599853515625,
-    345.67999267578125
+    345.67999267578125,
+    341.07000732421875,
+    358.8599853515625
   ],
-  "lastClose": 345.67999267578125,
-  "oneYearReturn": 25.323572310443986,
+  "lastClose": 358.8599853515625,
+  "oneYearReturn": 28.19633291928066,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why is General Dynamics stock surging today? - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVRBYV90YnlQSnRiM0JZTW1UdTFyYnhiZnhFRDZqVVNCUWpGV2FDZGMwanpIX0tOTE9seGI3VTUwOERlTC1RNlJ4bHZSS2N6Q19FUmd6cUgwRTZ0cVNfaGxudFlUd2VEX2ZNSGVRN0lyb0lLaVpXRU9YZDg3UndyWUo3dnplLXVMNmRPV0g0cnFRaS1SWUFXWkkyQ3pKSllRYXpVMzdkc2xfR2pfY1d6V28xNA?oc=5"
+    },
     {
       "headline": "General Dynamics Corporation (GD): Among the Best Aerospace and Defense Stocks to Buy According to Hedge Funds - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSngxS09zS3BYRFF6QVlaY1FlTmxhZkh2LWl0eVRWWm5XVDN0R19MT1lzN1B6d2RuMkxZaEVNX1NuU0JfSmFhTWlrNUZ5Q1NzTVNSczBwZ1lwclgyWjNrRjlZMExuMXlrdkU2MUFCbXllVWNTQ2ZRMGxSY1VNNzllTml1RUkxb3NuYm9oT0tKMWo5OE5Qb1IteHlZU2RzWVZtclRHSQ?oc=5"
     },
     {
-      "headline": "General Dynamics Gains From Strong Orders and Defense Demand - TradingView",
-      "source": "TradingView",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlU4ZC1qS0ozbE1tYmJTSGsxRnppeC1pNlBfSXI5UXB2Qm56ODJtTU0zZjZEMzYyMVpCTmljby1jR2gwVlNFRkJiVzdlWG9vRHpnMlVrVTlNVzhNRk1TVTBseHRtRks0TXdrUVBvY085aE11VXBsLXREQVQ5ZEFMVUREb0s3MVk5RUVfZm5GcDN0eTFsLWZ4V3diRGh3TEcyTU1NczI5Z1lCNEZXZWVzNTBmQnRWYTg?oc=5"
-    },
-    {
-      "headline": "LPL Financial LLC Acquires 32,095 Shares of General Dynamics Corporation $GD - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNlZXY3dEQzFneFR1YkQyVkR5NmxpUGFVaC1IWlFKUWQ2QU9YOEZ1X0R2U2pVaGg2SUpiNkJxcTdqd09MbEVxbnNBeG1MMDFWZzE5UlVsX2tOeW5jMjg3ZllaeDVKRVZFbmNnOXRrN2hjNjJ1M1JMNUs1QWp5TUV6bTY1aWtFU0hoMVU5R3dHcEplVXBaa0tJUVNCdHZGbzV4UTBwb0laQ0JRZjA4Y2puYUdURFdTaktaLWpPSFhpNTlIVlNQc1REc3MwSjFXbXZq?oc=5"
+      "headline": "General Dynamics Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbzhDMnZxUnI1UnZmM0NZSVlSZldaVFB4dXF4OVhfSThxbV90Q2tTaUxXT2N2bFM2TkdjdVEwZlpKMVk3QnQ4UmJucmNYRnRQYjVGbi05bF9NYzhXMHpOcHVXS0FBWmk3dU9xdWRudER5eFlPQjYzZVBNU3A3UmIyNmk0RXNVZF9KTV9oVFNDZWhaT1hwT2FLUGcwR2NaRTMySm5IYW9uNXczbDY5alYzbDlKeUVwU3RkbUxzVkpkRTlMQ1NzX1puUmViR0FlYUV4NjFDS1ZITHhfRkdJd2hWb2V4RnlBZw?oc=5"
     }
   ],
   "insight": "Tracking General Dynamics (GD)."

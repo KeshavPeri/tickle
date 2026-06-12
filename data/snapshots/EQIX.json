@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:02.268Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:42.097Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    1072.0799560546875,
-    1086.219970703125,
     1080.6300048828125,
     1077.280029296875,
     1079.6800537109375,
@@ -24,11 +22,11 @@
     1089.1500244140625,
     1080.949951171875,
     1062.739990234375,
-    1059.8399658203125
+    1059.8399658203125,
+    1038.3299560546875,
+    1043.1800537109375
   ],
   "6m": [
-    753.3099975585938,
-    733.280029296875,
     727.3800048828125,
     732.719970703125,
     726.0900268554688,
@@ -158,10 +156,11 @@
     1089.1500244140625,
     1080.949951171875,
     1062.739990234375,
-    1059.8399658203125
+    1059.8399658203125,
+    1038.3299560546875,
+    1043.1800537109375
   ],
   "1y": [
-    893.7000122070312,
     896.4199829101562,
     892.6400146484375,
     888.1500244140625,
@@ -410,23 +409,25 @@
     1089.1500244140625,
     1080.949951171875,
     1062.739990234375,
-    1059.8399658203125
+    1059.8399658203125,
+    1038.3299560546875,
+    1043.1800537109375
   ],
-  "lastClose": 1059.8399658203125,
-  "oneYearReturn": 18.590125472079986,
+  "lastClose": 1043.1800537109375,
+  "oneYearReturn": 16.3717982194391,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "5 Reasons Why Equinix Stock Is a Solid Portfolio Pick Now - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
+      "headline": "5 Reasons Why Equinix Stock Is a Solid Portfolio Pick Now - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVE1TNmluNk5aZzk0WmZUTGRuMWQzUHdZdDFiT0p2QXFCTHhMbGNNMU4weUF2d1hHZWZuYl9xc2hLMFpfZlVEZU9qRHZxOEUwTlFITFVFOHRqcGROMl9OTFZ1SDNhYTBtaXF2X0I4Y3Z2NW5mb2JVU3dXWUIxWUVzd1J3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDBHSTNoWEhPZHJ3bmk3RmpnQ1hwUms1b0FiRVRfQWdaYVFNVTA2Z1NGX25mZ2lKQ1VQQWFCRndpUWY2SjdYV0ltRTdCZzZzaVpYRG9DY2o0OWtzWmVlSWlwc1k3UUxsZmJZaWhJcmpVOUdFRGRtRndBa2Z1TGtqMDlHLXFvVHh5Z0FaQnVYTEtGTF9RR3NZ?oc=5"
     },
     {
-      "headline": "Equinix Inc (EQIX) Added to Citi’s Focus List. Here’s What That Means - Insider Monkey",
-      "source": "Insider Monkey",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUpBVFA4WXR5cUtjWWNYcjFLQ1NYNDRlVktjVDJtcXdROWM3aGtjRXRVZ0x5dnNBVk1jWFdZeVZlWTRKQnR3SWNjY1Z0bVBqVTZYWWUwM3MyYXE2dXZpa0RjLVg4NGNWcUpZR2RNS3FFbTc0TzBtV0xvX0ctaUhFNTJJSmVzS3FCelpGLUFuS2gzMDdXeWw2blZ2S3JLdnhGcnJNN1ZnYVphQVFUdnZraEk2c0bSAbQBQVVfeXFMTUlKQVRQOFl0eXFLY1ljWHIxS0NTWDQ0ZVZLY1QybXF3UTljN2hrY0V0VWdMeXZzQVZNY1hXWXlWZVk0SkJ0d0ljY2NWdG1QalU2WFllMDNzMmFxNnV2aWtEYy1YODRjVnFKWUdkTUtxRW03NE8wbVdMb19HLWlIRTUySUplc0txQnpaRi1BbktoMzA3V3lsNm5WdktyS3Z4RnJyTTdWZ2FaYUFRVHZ2a2hJNnNG?oc=5"
+      "headline": "Equinix Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRWJPdEYzSUswc2M2WDNveUdBUkdLOWc3bHZmNEtzSmRRVVEzWUVlTGNtU0JrLUVxQW5UN3ljdzc3X1JCMFp2RzRRUzAxY05TV2tSSUc0YlMyQ3c0aW1pZnQxMnNKQWFhQkZ2UG5hSHVjdC1WYkx0X21CNzQ4bGdaMjJtRzhTV0hXOFh5UDMwUFRrdHNJa01NYXpreUdUVndWQjdsd0tBYjBuNXR0RlVIbkNVMFQ3aDA2WXVqSWRJd0l2WFVOQnNYWWd5ZERzbUhKeWtsMmFPWTI3R0ZXclR0MXRB?oc=5"
     },
     {
       "headline": "A Look At Equinix (EQIX) Valuation After Strong Year To Date Share Price Gains - simplywall.st",

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:29.049Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:14.941Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    151.9499969482422,
-    150.2899932861328,
     152.86000061035156,
     149.77000427246094,
     150.6300048828125,
@@ -24,11 +22,11 @@
     148.0800018310547,
     150.8699951171875,
     147.3699951171875,
-    151.6300048828125
+    151.6300048828125,
+    151.0800018310547,
+    153.27000427246094
   ],
   "6m": [
-    153.2100067138672,
-    150.63999938964844,
     147.6199951171875,
     148.52000427246094,
     145.86000061035156,
@@ -158,10 +156,11 @@
     148.0800018310547,
     150.8699951171875,
     147.3699951171875,
-    151.6300048828125
+    151.6300048828125,
+    151.0800018310547,
+    153.27000427246094
   ],
   "1y": [
-    143.41000366210938,
     143.97000122070312,
     144,
     141.94000244140625,
@@ -410,29 +409,31 @@
     148.0800018310547,
     150.8699951171875,
     147.3699951171875,
-    151.6300048828125
+    151.6300048828125,
+    151.0800018310547,
+    153.27000427246094
   ],
-  "lastClose": 151.6300048828125,
-  "oneYearReturn": 5.7318185696936474,
+  "lastClose": 153.27000427246094,
+  "oneYearReturn": 6.459681164759521,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Yum! Brands Stock: Is YUM Underperforming the Consumer Cyclical Sector? - Barchart",
-      "source": "Barchart",
+      "headline": "Q1 Earnings Outperformers: Yum! Brands (NYSE:YUM) And The Rest Of The Traditional Fast Food Stocks - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2QtanhUN2J5M0FrVVF0RlNRbXF2SXhPZy1SUGtmS05sYjRrX2hOY3o4VzAtX3ZSRmxYMmRnNXZpOF9UcDBoMk5kbzMyNEtEN1pQaVhtS3BLQTg5V1RfRGlyQnRBN1lSaWNwb0tWMVlMS19HM1otSnEyM1lVbXdwLTJPWmlhbXdSNHB6Z181VXRsYWxwaURvR29ocm1fUlc5ejVF?oc=5"
+    },
+    {
+      "headline": "KFC, Taco Bell, Pizza Hut operator to join NYSE investor event - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDl4NG1NMzhnNEtLYjJ4aE5kbUp2Mi03RVl5czMxdnVuZ1J3bjVhRGNLZDV4MS1OUjk3Q0FEOHJPLWxQdmd5b0lYS2ttSzQ4bW9JWDZZUS1fbEc4c1JaTEd5V1RNRzU1SFBNWEVuWDMwOW5KMldjR2xEQUhDLTB1TTR3cnRVQVIybFNaMm9Vcms0RGxOaE5Ic0ZKTHZORmFyRUlvNmZRY3pGRmt4cGhnVFZsMA?oc=5"
+    },
+    {
+      "headline": "Yum! Brands Stock: Is YUM Underperforming the Consumer Cyclical Sector? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-06-09",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZURHdmVCZ3hBZWU5dTBHRUJGUGg1YVAyMFI3QzF5ckpQeFZPVEg2bXNqRlhnSWg4a0RqNWFVcDQ5TVdTSUlleVpaanBhLVFWVnY4dWJtQ2hEXzhTLVlOSkVuc2RVZGQ5TE9uNjJWeTQ0SHp6NFA0NzFZcGRZdFpuaHV4NENoNTJJVmoyaHlJVlJFQy15X3N0S2p4WFRmVTgwQjdCTlQ3c1FUZzBaUXhRa3JB?oc=5"
-    },
-    {
-      "headline": "Yum! Brands, Inc. $YUM Shares Sold by Capital World Investors - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdzYtS1g0Nlh1RWZ1R3g3NWViMEVhUDNHN1p6WDZjR1ZvLVMzSXRwVUdGbi1EckZHdjYyZ1VCRV83UENDZFNMbTJnNE1zcVN1YVNQbEYtRjBudi10Z21rZk9xdHFxX01CNUFBWEc5LWY5OTRyaDhlWEE3N05jQ29mbzBZeTlMUXRzbGxGTHFaSm9iOVJXUHhFYXVnalFjdGtTeXR4NFdrM2UwRWhRUW4td3dVeHpSaHNqaHc?oc=5"
-    },
-    {
-      "headline": "Yum! Brands Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ0NCWU1WTExmVzlMU2hpVkZLUE8zWkF6THVEYmN5WW5sUVh0N1dFZGVMU05ub1oybU5YcGtwT1UwNml2QUh1OEVMbkFIODRmeWowQmI5ZkNiU0xPdE5qLS1NNzFnMUR6U0xIckZCN3d2bS10aDZndnpRS3l4NzRHUHgzMTA2MVdXbGg2aWJSTmI0VktaT3piS1NPZ2x0STlHN2lwb29GMWRiRXBiY0tNNF8tOElkQy1mRlAxYVJVYmNvM2hkS2U4Mjh1WjFfMXd2dU1QdHZ2RjJJcG5K?oc=5"
     }
   ],
   "insight": "Tracking Yum! Brands (YUM)."

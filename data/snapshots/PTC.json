@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:21.536Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:05.811Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    146.64999389648438,
-    145.9199981689453,
     144.22000122070312,
     140.80999755859375,
     139.85000610351562,
@@ -24,11 +22,11 @@
     138.7899932861328,
     137,
     136.07000732421875,
-    136.97000122070312
+    136.97000122070312,
+    135.0800018310547,
+    118.38999938964844
   ],
   "6m": [
-    175.42999267578125,
-    174.8800048828125,
     176.47999572753906,
     177.3699951171875,
     178.5,
@@ -158,10 +156,11 @@
     138.7899932861328,
     137,
     136.07000732421875,
-    136.97000122070312
+    136.97000122070312,
+    135.0800018310547,
+    118.38999938964844
   ],
   "1y": [
-    171,
     171.02000427246094,
     169.33999633789062,
     172.61000061035156,
@@ -410,29 +409,31 @@
     138.7899932861328,
     137,
     136.07000732421875,
-    136.97000122070312
+    136.97000122070312,
+    135.0800018310547,
+    118.38999938964844
   ],
-  "lastClose": 136.97000122070312,
-  "oneYearReturn": -19.90058408146016,
+  "lastClose": 118.38999938964844,
+  "oneYearReturn": -30.774180544964132,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "PTC Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "headline": "PTC Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNelpxYU1rYktrVlZaXzVMckdiTG53RHVHdDQ2d1ZaWXdzUXlEY0NKajBPSFp3TnlEakdUX2FKTF9iSnpQejBFVzFxa2lkZnlpRUp6eGFpLWNPN3l6WExITFRUNVJ1MDlTZmdHS2xwcjlSc3NlY1FXdVNQbVdPWlpYWFFQX3hHNU5jRG1LV25kZkh4VkVEOVA2eDYwS1ExX280SjZUaElfZzlUUzdDWmIxNzZ0Z2QyaXNDYmwxRWhNQjhiYjlQVzVVamRrX3J5akNUcUdqQ3BhSzRlcFhx?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTVRWbFF2SS0xRjlUMkxFTllxbFdDY000cWZPdzkwcEgxaFRaYVVvR0JkbFgyVlFCS0xLTF9VZnlaam1nYUFZMFZwTElpWTB5TXRLZThWZkdUWnNlUE1iZ192cEt0a0c5aXppZEVTYXdvQ3RhWjdGMmZUWjZhMFdFRWVRaHJFNlU1ZzZ4V2FKVkdfa2ZLTDkzaXJSXzRWZFV6azRLT0FtVjdSOEVHRThOcUZjUjFvdG1UMVBuWWh1M3lRS1U?oc=5"
+    },
+    {
+      "headline": "PTC Inc. stock underperforms Thursday when compared to competitors - MSN",
+      "source": "MSN",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkR1SlNKR2VRV0YtWTQ1b1c1RjR6eC12WGFHeUk3YkJQT0pzRU5vMTBtek5iSjFpRzhsVmcxX0phNDJVd0FTNGxuTkZTZ1Y0eWN1cHloZ2dUX3NiRkVxdkFOcmw0a09BdFNXdUlIZVpEckdPbHBrWTlTdkNUUWUtZlQyOE5oR3pid3lWeW1jaVA4NlIzOHVtT3E3Ql80WUYtYVBsb0NqQ3N4SUhDa0M1Nl9NM0NsQUdhNFIw?oc=5"
     },
     {
       "headline": "Do Wall Street Analysts Like PTC Inc. Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-05-19",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWRqUW1uclhLUlhaREp4a2dVdC1wcmIzVlVEZFBaLWhOSlAyREtmT0U5WUEtSjloR0JZMklFTUZ0WnM2WnRaVTFXZU44eXJnZnRvTHVGZjJEXy1HcHk4VWRobG1JcGd0Y2tyZnBCRWV0T1FrazhVdVREejBpSkgyN0JVMzI0U1NKYU8tT09yQXM4LUgwdmFHTg?oc=5"
-    },
-    {
-      "headline": "PTC INC (NASDAQ:PTC) Fits Peter Lynch's Growth-at-a-Reasonable-Price Stock Screen with Strong Fundamentals and a Low PEG Ratio - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-05-19",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNV21TTXhfRGEwRE5Ga2JFc29xajNjTG5TMEhjV0w5VG1rcXJoeWpoTS1jUVpKR3FxTGNBcy14Nzc3dngyTnJtQm5RYzBpN05DS2pIWEM1Z040dWpZakRwR1pkZnB1cE84alUzWTdNbkFuN0h5QnJPU2JzVkpGMXV0dlk5LS1nNnpVZzJ0RTFJX1RzdFpGRzJENzJCaXhPdTA4ZWtaMVJBWHg0dHF3ejNsTngzNTFvVFd4dXliRXI5Y3RFVDZ1M3FVQm0zT0pMM2k2Yk9md2ppU3kwWlJ2UjBIc1NpQmlqUXJ5a0JYWkIxVHRhdThKUmZhbG0yVlZPMFpqNlZJ?oc=5"
     }
   ],
   "insight": "Tracking PTC Inc. (PTC)."

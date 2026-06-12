@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:28.596Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:14.431Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    182.10000610351562,
-    176.10000610351562,
     175.38999938964844,
     172.05999755859375,
     173.64999389648438,
@@ -24,11 +22,11 @@
     208.08999633789062,
     204.97999572753906,
     202.49000549316406,
-    213.1699981689453
+    213.1699981689453,
+    206.94000244140625,
+    218.74000549316406
   ],
   "6m": [
-    180.00999450683594,
-    182.44000244140625,
     178.05999755859375,
     178.33999633789062,
     176.66000366210938,
@@ -158,10 +156,11 @@
     208.08999633789062,
     204.97999572753906,
     202.49000549316406,
-    213.1699981689453
+    213.1699981689453,
+    206.94000244140625,
+    218.74000549316406
   ],
   "1y": [
-    155.5800018310547,
     154.80999755859375,
     153.9600067138672,
     158.14999389648438,
@@ -410,12 +409,20 @@
     208.08999633789062,
     204.97999572753906,
     202.49000549316406,
-    213.1699981689453
+    213.1699981689453,
+    206.94000244140625,
+    218.74000549316406
   ],
-  "lastClose": 213.1699981689453,
-  "oneYearReturn": 37.01632321641696,
+  "lastClose": 218.74000549316406,
+  "oneYearReturn": 41.29578770284106,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Own Williams-Sonoma by July 17 to collect its $0.76 dividend - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGlPNHhsY1dBN3dYWmNvNHZNSVBUcFV5NDBmR2pJM244UHhXQk1Vak1SSEtkYXBFMTRWaVZ3RzVCY1JFS1dFel91UGtZTkxNQkZxbUFFT2pVQjRidTQtRjQzTkNoNElReFFkVzhmV2dSVlZKN0hRaHl5R0M2NllIOUR3cW95aThpMXg0bVRwTWVIczcwaGQ5S1Fnb1ZZZw?oc=5"
+    },
     {
       "headline": "Is Trending Stock Williams-Sonoma, Inc. (WSM) a Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTZVeWZvRVBDa0NWZzlCY2dqQ2c5YldpVC1MRm5zNkRDbm5TY1BqY0trN0FPYnlzTGtyZzh4Mk1hNUZTQ0pDQm90clBBbmNZMEhobVA2Uktfa0NvMzFidVNMODNZbk93TUtQRS15RC1sNHEtR0c2bnRuVy1iU1NUYTNPZkQxZlh3UGo5MzBPbUVDRkRPTjRhU0FhTlFOMHYt?oc=5"
     },
     {
-      "headline": "Williams-Sonoma (WSM) EVP Karalyn Yearout sells 522 shares under 10b5-1 plan - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbkdScEtCdHhwVkZsa1l0amlpdndEb0ZMVElmNHpVYzBEakhRRkprYkpPa0ptTkFCTVF0cDR4TC0yeWEtZUE0R3pMSzB3WFAyUVo5NWppell5U2J6bFg0UWozbFR6ZDZvUUwzMjB4ekVNbExLbWprcmpaMHpiemk4Y3FndS01UFQ3Mm1GUGNMazE2TlM0RzR1TGhzYzZhRHE1ZnFrM1p6bks3b0EtaHhydTlB?oc=5"
-    },
-    {
-      "headline": "Winnow Wealth LLC Cuts Position in Williams-Sonoma, Inc. $WSM - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQU03aXVIaENBN280Wi1EeWJ1ODExSkNlZnkwNG5UVWNja3BLXzZ5aHQyb2VZdUVDR2pPMUdFNjdSVDJ1Z0hOWVdXWXNQZEdvck5SVm1ab1Zhd3p5TU1CS1BzNFJrVVBTWHlhdGhWZDF4TjJyVUlHcHZmSkpuQ2stYVlVUWpiWUxQdnU4SlVlbGJMQ0dQQ2VLRDdzUWpCTndBX1JrVnVzY0RUd0l0ZTlJX09XMU5UWXBqejRj?oc=5"
+      "headline": "Is Williams-Sonoma Inc (WSM) Overvalued After 5.7% Rally? GF Val - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZGs0UW9OSXRBaEhNVVlRLWpNZGV6Q0NXVlBvbmNpdmNEb05WWGJDZjJrS1ZBbUhGV3haenIxX1R2N3drU1loMEpxbXVvN3I3aFhEU1gwYjNHbkZUM3A0ZFVyczloQ3BvZ2VXZW9MUmlLMVFDMm9sZWxOVld2YTRmUm1oYUxIRk9nQjVldENsLU1TSVZTWS10MXBYdG45TUtEWW1URmNiQnprM2toS2I0dVRnYV85dw?oc=5"
     }
   ],
   "insight": "Tracking Williams-Sonoma, Inc. (WSM)."

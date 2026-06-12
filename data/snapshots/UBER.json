@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:27.013Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:12.149Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    75.44999694824219,
-    76.1500015258789,
     76.36000061035156,
     74.69999694824219,
     74.69000244140625,
@@ -24,11 +22,11 @@
     72.20999908447266,
     70.70999908447266,
     70.05999755859375,
-    70.37999725341797
+    70.37999725341797,
+    68.61000061035156,
+    69.55000305175781
   ],
   "6m": [
-    87.54000091552734,
-    86.56999969482422,
     87.56999969482422,
     90.68000030517578,
     90.98999786376953,
@@ -158,10 +156,11 @@
     72.20999908447266,
     70.70999908447266,
     70.05999755859375,
-    70.37999725341797
+    70.37999725341797,
+    68.61000061035156,
+    69.55000305175781
   ],
   "1y": [
-    86.58000183105469,
     85.62000274658203,
     83.93000030517578,
     85.12000274658203,
@@ -410,10 +409,12 @@
     72.20999908447266,
     70.70999908447266,
     70.05999755859375,
-    70.37999725341797
+    70.37999725341797,
+    68.61000061035156,
+    69.55000305175781
   ],
-  "lastClose": 70.37999725341797,
-  "oneYearReturn": -18.71102360248053,
+  "lastClose": 69.55000305175781,
+  "oneYearReturn": -18.768978251949118,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWmx4bGdVUlNyM0QwTDFCNDhadXdXTXBQYTRJV2lkT3lrU2YzZk1HLUtLV1U4bjVTeXdldnZJUDBUSXA0YmZfTmQ0ZVoxOThsNVM2NkY4MHZ5ck5yUXN1VWFDMUZFQV83R1FRUzh6eXBzZTZ1WFZTR1EzVFo0bHgtYlpDLWR5NFljN2t1eHFTLUtXdw?oc=5"
     },
     {
-      "headline": "Why Aurora Innovation Stock Is Falling as Uber’s $479 Million Share Sale Tests the Driverless Truck Rally - TechStock²",
-      "source": "TechStock²",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTRrZTRWQWFkZklQNWpqUm4tRlVOZWEwNFM2ZXFGZmlzd0dkNzhFR2lpZ1NSZjRyak10TXBlTjEwdVl0TjdqVXBmbkxmOGthNnIySUFORDlfMF83X2t2R3FGRkdHOTJoOFpmUDJCcElIS1FyQ3VsVGRHNU1ybXVDazJnRUtUNWZ0ZjZlR3drT2RTdF94eVEyeVhybFR0bzdmZXdmZkU0LVFJVzhORVlxSE96cV9ZNFY1YlZ0RW44dXRzdw?oc=5"
+      "headline": "Uber’s Stake in Lucid Down Nearly 65% as Stock Extends Record Low - eletric-vehicles.com",
+      "source": "eletric-vehicles.com",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOC1JMUxKZlBtalppS3R3d200V09rZGRXd1hQYWlOd0dvcTdIT19XOUM4QjBBdERPYXd0MU14elpUeEozbjQ2TzR0Z2lWQWlJcGFzOTJzbkw0MzZfT3JtVDFBTTkycXNZWTVuUmh6eXZCZjBZSVFGZVBHN2NtZDhqcmtKalIyNVg0SzU2OFJMNVNEWTY2TVcyUU9tUHJoM25u?oc=5"
     },
     {
-      "headline": "Is Uber Stock A Value Trap Or A Growth Engine? - Forbes",
-      "source": "Forbes",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZUM4M1Vzc2RFbUFjUGlOc0lJOHhOZ0RTRGd6QWU5SDZpSWZKcXp6UWotOEhhaUhua3h5Z0RzRjh6Z1Yzb1p5WW45TC15N0Jvcl9yZ0MzWmFCbFh5c1R1TzNnMDlKUHhCR2Rqb0c1NXJ3U1RoTWlBbmhqNjNSX0xwVDRRUUctdDhuUmxDSGI5eTFlZXU0dnZjbml0M2xxY3lLLWQ4eDBFNA?oc=5"
+      "headline": "Uber: The Platform Is Maturing And Improving, But The Upside Is Only Beginning (NYSE:UBER) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHp1MGdkLTR0bjhRdWlDSTB1ZmdZSFpFQnYyd3dxTWxTS0k2VHNwT1duaGRBbDhIV0NrSzdzdnBlWUlybnprYXBYLTRyWkxFRGlvUnYyY1B6N2NkZXllUVhZSG5qMWtDcVZTclVlaGV6dFZGNkZWLUxiNXYwbVREV2xuTUdWWjZtaTZlQ3UzWTRXMTdrWXdON2p3NVVNX0FIZ0VOdDZYU3pJM3M4MnBDQ2lzUi1MVEVT?oc=5"
     }
   ],
   "insight": "Tracking Uber (UBER)."

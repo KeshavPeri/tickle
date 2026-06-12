@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:24.743Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:09.653Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    621.3800048828125,
-    632.5800170898438,
     632.1699829101562,
     635.9600219726562,
     638.5599975585938,
@@ -24,11 +22,11 @@
     618.5900268554688,
     602.27001953125,
     612.3800048828125,
-    619.260009765625
+    619.260009765625,
+    601.3499755859375,
+    623.72998046875
   ],
   "6m": [
-    499.5199890136719,
-    492.55999755859375,
     495.7200012207031,
     503.9599914550781,
     518,
@@ -158,10 +156,11 @@
     618.5900268554688,
     602.27001953125,
     612.3800048828125,
-    619.260009765625
+    619.260009765625,
+    601.3499755859375,
+    623.72998046875
   ],
   "1y": [
-    498.239990234375,
     494.95001220703125,
     487.4700012207031,
     488.6000061035156,
@@ -410,12 +409,20 @@
     618.5900268554688,
     602.27001953125,
     612.3800048828125,
-    619.260009765625
+    619.260009765625,
+    601.3499755859375,
+    623.72998046875
   ],
-  "lastClose": 619.260009765625,
-  "oneYearReturn": 24.2895034327376,
+  "lastClose": 623.72998046875,
+  "oneYearReturn": 26.018782722618006,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is Teledyne Technologies Inc (TDY) Overvalued After 3.7% Rally? - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVGEwdDRkS3EweXUwTmkzbWZWdk94US1LOW0tUHF6Tm9ybktwTGNOanVzMld2c0phTjBTRHJjX29HdGoyM1g3Wk9rcWEydExFSGVRdElEaWJiaWpVdS01aHpCYzNNQXF5U2VIR2JxdHNNclpkWDBNU0JWU2MtLWc0b2Vuc0wyYTVVejczLW9QSE1BeWY5QzE4RFZmTGI3NC1NaEZleHFtbkhXOUlYbjAyZ3RsSG1tdDV4SWMtYmx2RGhlWTZvbTdhQTAyU0JERkU?oc=5"
+    },
     {
       "headline": "Teledyne Technologies Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWnZOYWpKUjhoV21PU2R0a2pFTWY1cHhlV3F3U05yeF8zZ3loSzZHVDZUN3VtdWsxUm80QkxFNThPTnVCQXptVVlzRkgwX1dfX3hnN0phbDZoYlFtNnhyVHdjVXhCQUFXb2pWRWI0aGd3UTdzcmZHanJNNXNybkt1Y09TWTZRV2VRNUhBMkdnLXZGZ2t3UUtmTGJGc05BQ1AyelJITkRfYVcxbm1zOG1qZ1B1VnRHdmRkV1JZV3NMZUlvUmRVQVp6NmtMb0dxMVctdmVyVmxxTUE5eks4WlhGNmF1djhodGJYZXVYMXRkZm5MTlFx?oc=5"
     },
     {
-      "headline": "How The Teledyne Technologies (TDY) Story Is Shifting As Analysts Refresh Fair Value Assumptions - Yahoo Finance",
+      "headline": "Teledyne Technologies Stock Outlook: Is Wall Street Bullish or Bearish? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWFBXbGJFWDczTUdLc3VnT1F5a3BpQjM2QW5GcXVMVVIwRm1OVlFTVHBveHJsMTVKSUZLb3k4NVhPbmpFMDJCUzhILWtlczBKQ0t2N3VwSHpyMmNSWENVNVRVQ1drYTlEemxUQmN4bzNWYjF6b2cxYzVNbjkzZ2x3aS1IM1J5MzhnNDZHSXV2NU9uY3pWclVzVmU5cVU3WXJBNmtOb2dfcF8?oc=5"
-    },
-    {
-      "headline": "How Investors Are Reacting To Teledyne Technologies (TDY) Expanding Its High-Resolution NDAA-Compliant FLIR Portfolio - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTHozOVRNN0ZUN1BoSXY4TU9JZk5mWEE3WGVQZjNvSGotT0p2UldSd3FUSDctSTh2VjRQTEtkaGp3WXl3OTh5TXRzdFgyNklwMkU0YU0xRGZGSW9DODZXNjNsX203MWotaEUyOEtmcmxHaF9ETENvaFppLVZRazlEbk0wSklESHY0cF9GY0FUMDBDSHFUeGk1bEIyWFJNa1p4azhEU0lTMU84dVBuc2luV01vM0VDWWhtQXlnSE1PWDJGU0N2dUhHQ0EtNXV6QdIB0wFBVV95cUxOdWxMRjBUTEY3cEx2X1BLZ1NlRy11UVhjOWdLZnRfNi1Pc282MFNGQ0g0ejFyTzRtSVlSLU1SbjZtZU1hZ2hTT1NyUzZIcE0tYm8yV1VCaDNwell3VlhhT0Z4aW9CVXN6cUJJeGlaeDFHdVEwaklscFlHaE9NQ0xDSEF4Y1NsT2NYZThVS2dUSk9aZ0paUXRIdEF6cFRvTnZfeDVPWUhKRW9qZV9MaFcxaG9yaVRjVi1xbkctdDhZUG5oeFI0aUpQcVN3T1RsQXNFOFFZ?oc=5"
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVE5obnNUa2VpRmtyNVlNMS1VRTRUTHFMek1PSm9jTEo0UVRXVWc4WmZmcngxdzhLUF9qSWVnVXg1SGJ4TFpKZWxEYy1xV2ppQUl2QmdSUjJGN04yb1lPS0t6YjhTSzhBTXMtZVMwd1N3X2w4WHV2bnhZR0JNNmtOZEV4VlZhV0UyRDQwczdWMy0xMVBybTBCWFhFb2VjSFZTYTQ3QW9DZnI?oc=5"
     }
   ],
   "insight": "Tracking Teledyne Technologies (TDY)."

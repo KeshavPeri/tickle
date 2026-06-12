@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:51.651Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:28.893Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    125.55000305175781,
-    125.8499984741211,
     126.44000244140625,
     124.0999984741211,
     124.81999969482422,
@@ -24,11 +22,11 @@
     135.14999389648438,
     132.47000122070312,
     133.27999877929688,
-    134.72999572753906
+    134.72999572753906,
+    133.3800048828125,
+    138.07000732421875
   ],
   "6m": [
-    103.5999984741211,
-    102.68000030517578,
     103.19000244140625,
     106.72000122070312,
     107.79000091552734,
@@ -158,10 +156,11 @@
     135.14999389648438,
     132.47000122070312,
     133.27999877929688,
-    134.72999572753906
+    134.72999572753906,
+    133.3800048828125,
+    138.07000732421875
   ],
   "1y": [
-    78.37999725341797,
     78.2300033569336,
     76.36000061035156,
     78.06999969482422,
@@ -410,18 +409,14 @@
     135.14999389648438,
     132.47000122070312,
     133.27999877929688,
-    134.72999572753906
+    134.72999572753906,
+    133.3800048828125,
+    138.07000732421875
   ],
-  "lastClose": 134.72999572753906,
-  "oneYearReturn": 71.89334071029685,
+  "lastClose": 138.07000732421875,
+  "oneYearReturn": 76.49239601110344,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Citi Stock Hits 52-Week High Before Fading As Trump Lauds Bank's 'Big Comeback' In M&A — But Full Picture Has Changed Now - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZXNNcHc2RUdEZ0loRzJoTFpaVEpJOWo5QkxrZEwySm1mRG5GSkRRaHBTcWpzbmFWcVZSa1dyWXZGRHJFUEdHQU9sc0ZVY1NLN0JLV3FoSVBMcWVnWnVqTW0wZExaQkJhd2tnbVg2NWdXQjluVVRUckdKcmhKSFZXT0lwRFh0cF9IRXhSUTF3OS1uQQ?oc=5"
-    },
     {
       "headline": "Citigroup shares outperform down market after Trump endorsement - CNBC",
       "source": "CNBC",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczZfNENqeDlwTU1Kcm83eDdxUE9LZmd3cGF5cVEwV2NKbU1ibWkxNG9rYWppdVJ4RkZ5TU4xcDl1MVhqdDRaY2kyVXRVUV8yUDRDdVRMMlZieHdmMXJfWU45NV9vQi1BaUhvdVZCY3U4WWExYldrREJURUd4V0JhbnZuTjVRREN6VUNZVDlSZDZBYXJDRUJSQmlVVktuQ1g4OGfSAacBQVVfeXFMTjYzSnZoSEFmZXVXWnE4T3dQOWZEZ1JtM05ub0FEandZYWJXdzBCdXc0VUhIejRwTE1pVlFPOTlyVkZQcTFteVdYUDJaNTBmUFd6UVZkeWNZb19PVy1ERXRBR2JGVEpSd0JmZ2poMDlXWktmbnQzWDJvMjhETlIyZmxEazBLdHk1clJwTm1SMFpLTUVtVUM5VlhYSnVSZGliWEFLSHRtSFU?oc=5"
     },
     {
-      "headline": "Citi’s Chew Sees Aggressive Short-Selling Positions in US Stocks - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdHlrdU1HdmVYRkRuLWtRTklHODMxVGd0bEhObzUybDl5SmlOc0FYNndLajNQTFRlSU1aUzUtSnc3bFlOUDR0bTB1WldBVEZzZGJiQl9DX2UwRVlDYWt4OUppa280bVNFZ1ZicE5GdVhaV21SbGZJLW1XRC0zZnVKU1J1ajl2N3I4aldaNUM2RUsyVTV6aEJqQ09zNkZma1ZVRDRoUDZNak9rUkh1bzIzenp2TXU1dw?oc=5"
+      "headline": "Citigroup, IBD's Stock Of The Day, Breaks Out As Growth Sharply Accelerates - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWGhjRUVhWmRvLW9EMDlUcmZMcHR2b2plVUp0bFUzTzUweVpSYWpRYUdBVjJwd1pGODNMdXBhTkVpMHBId1ZxMmtWOFlvZ3hvbXN0eEJTZ3I2MUtDMUJxTnNTcjBWLWZFRjZZVjdHRnc4am1yNFlVa0hGdUdLZG1JcGw4R0lmMVdJcnkybjFhMno2a29vdWp5QTVwdjgwVl9IVWVQekxhMnA3cWRodHc?oc=5"
+    },
+    {
+      "headline": "Alibaba Shares Drop on China AI Infrastructure Spending Report, but Citi Sees Long-Term Benefits (BABA) - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQal9yMEpYczAwUmF4Ny04N3h5aDlQd2ppTnk4SnhSVXZIRk44QUVJY1dsMjF1ZXZFckZtS2pOU3ZrR2llOV8yeDRnWk5lNWZ5TnEwSE1SUzRLVFJLUlQ0cWlZckdxLVBfMkNwNXkzVmRWbld2cThqMVY0QUw0YUExa0hDWTVzV3ZOS0pvczhZa2pwcnZkX0tIaA?oc=5"
     }
   ],
   "insight": "Tracking Citigroup (C)."

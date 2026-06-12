@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:14.732Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:57.466Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    88.37999725341797,
-    87.08999633789062,
     85.86000061035156,
     84.97000122070312,
     85.25,
@@ -24,11 +22,11 @@
     91.87999725341797,
     90.48999786376953,
     90.73999786376953,
-    92.55999755859375
+    92.55999755859375,
+    89.8499984741211,
+    94.94999694824219
   ],
   "6m": [
-    131.3000030517578,
-    130.22999572753906,
     129.72999572753906,
     133.1300048828125,
     126.75,
@@ -158,10 +156,11 @@
     91.87999725341797,
     90.48999786376953,
     90.73999786376953,
-    92.55999755859375
+    92.55999755859375,
+    89.8499984741211,
+    94.94999694824219
   ],
   "1y": [
-    111.5,
     112.1500015258789,
     108.61000061035156,
     109.48999786376953,
@@ -410,29 +409,31 @@
     91.87999725341797,
     90.48999786376953,
     90.73999786376953,
-    92.55999755859375
+    92.55999755859375,
+    89.8499984741211,
+    94.94999694824219
   ],
-  "lastClose": 92.55999755859375,
-  "oneYearReturn": -16.98654927480381,
+  "lastClose": 94.94999694824219,
+  "oneYearReturn": -15.336606637198996,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "The Home Builder Rally Left Lennar Behind. Watch Its Margins. - Barron's",
+      "headline": "Builder Lennar Misses Revenue Estimates. The Housing Market Is Still in a Rut. - Barron's",
       "source": "Barron's",
       "when": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QQ0hBWnBqQkVzX21LeFVYSmFPdEVBWnU2RzdGQ1BicTJIM1RZT2lCMXVFVTdfdkFtS0RUS3hnTWtzX290Zkg4Z2VramI0cHdMX3FpMVg5aUdqVEZ5bWFoRjRiOFFqaUxQSjJTdW4wXzN3UEhhVmdLRg?oc=5"
     },
     {
-      "headline": "Lennar Corp. Cl A stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOXJISy1ibnBLZmZzRXhqNk5qX0U1aEwtUy1jTGtBaFBXMjQ0UmQxdzg2VDk5b0NZMUFfWHhkWHo4Z0h4ZW4wV01UR1RkOElmVVlsTmItdVRFZlFISTlBclhvYWh5MUczbWlTM3pHTWpGclh3dnd5TVRIT3ZmQVQ5WHRxMHZiYWk2ckxjYV82UU9kRGNheThRSU9lbkhaWHgyTUhKR1FSUjRrMFh4UDdfa1VHUUhJMEMyS2hpN3NhLWtRbDJZRFZFdFJhRGpNU0hsOHhPZ1pQS2lPbWgzYldsbGhOdVh4RmdV?oc=5"
+      "headline": "Lennar Corporation (LEN) Stock Falls on Q2 2026 Earnings - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd2lCMXhJVzBjMmR1bkdRcHZ0RUNMeTBOTFR6MTg3ZV9fRTc5R3BZM3ZfeFNOeDZrelE4TFFSa0VGY292eGJqZ1RRYjg5eXN5QUxUUzUxQWdNYVhoRFEwOUFrWUhwUjhoZTBSQ3VfM3VOMi03RVRFMGxxMDhWOHo3U25WTzM0WmZoSlo5TThKT0Rodm1LUnJzTw?oc=5"
     },
     {
-      "headline": "How Is Lennar's Stock Performance Compared to Other Consumer Cyclical Stocks? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2o2M180S3pNWkUybExhNXh1aWx0cmVMc0ZmQVA3Q04tSUxOajBwMWRMNlV3ZGtUT0tuRXBmdEdlTjdrZWw4SnQ4c1VCYTFrVVZYN2h4NDlmaGVwTkpXN1l0Q2xkVDF4cGJkQlZxb1RoSlFHeXlBQ08yeEdKUldmNDI1d2pQQ1pnamNoMm9hdXRlTjFpSmFUMUVZRFgza1Y3QjFmTnRpaXU?oc=5"
+      "headline": "Lennar shares lower on Q2 earnings results - CNBC",
+      "source": "CNBC",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQTM0UDJmNVJfbldNR2dNcUJUQWpkbGlhMk1Hc1RQc3ZDX2RXY2hHdG9yaFZQUEVIODQtcmY0QUVLTU9Jd2xDelhSX2Q0TVJzMkQ2ckQzZXRKZFJxQTBKUnRncWR5MW1lbkxIMVZmenlDa1ItcHd6OVJOQ25zekpWdFVxZ21NNHJodkUxRGZzMXIzb2N5bG9N?oc=5"
     }
   ],
   "insight": "Tracking Lennar (LEN)."

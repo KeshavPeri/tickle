@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:49.910Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:26.841Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    149.42999267578125,
-    143.14999389648438,
     147.50999450683594,
     144.17999267578125,
     144.47000122070312,
@@ -24,11 +22,11 @@
     149.55999755859375,
     151.16000366210938,
     149.99000549316406,
-    152.0399932861328
+    152.0399932861328,
+    147.7899932861328,
+    147.35000610351562
   ],
   "6m": [
-    152.5314483642578,
-    150.8018798828125,
     149.74057006835938,
     152.17767333984375,
     152.32704162597656,
@@ -158,10 +156,11 @@
     149.55999755859375,
     151.16000366210938,
     149.99000549316406,
-    152.0399932861328
+    152.0399932861328,
+    147.7899932861328,
+    147.35000610351562
   ],
   "1y": [
-    135.78616333007812,
     137.15408325195312,
     135.38522338867188,
     135.29873657226562,
@@ -410,12 +409,20 @@
     149.55999755859375,
     151.16000366210938,
     149.99000549316406,
-    152.0399932861328
+    152.0399932861328,
+    147.7899932861328,
+    147.35000610351562
   ],
-  "lastClose": 152.0399932861328,
-  "oneYearReturn": 11.970166589465958,
+  "lastClose": 147.35000610351562,
+  "oneYearReturn": 7.433918560654523,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Becton Dickinson EVP Michael Garrison sells $166,628 in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjdYV0JTbUFpTDVrOHpTeXNDSlhNWEQzZ1VIaXpSZy1FM0N4RXlmM2lKQ2Jka21BQklVU3BsY1p2RGdXY1lKRW5kQ3JheG9nLXkwYTE2M1pGTGk1WFpDUnQ4c3BvOGhFMG0xSFh3TjVicWxLaWZ2VFNtY1V0VUZUOUVuRXRWRkJTSVBrNXllWk9HVlBNLWpCMXM5WU5fcVRnRTNJWEJLdWZ0QnZFcDRRbHdOeVhqUkVkTlJDdVF5VEt2UQ?oc=5"
+    },
     {
       "headline": "A Look At Becton Dickinson’s Valuation After Its Earnings Beat And Upgraded Outlook - simplywall.st",
       "source": "simplywall.st",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnc4UDJBdVdldXlBclR4NkM4S2ItT01xbF9Za3hNdmhDb202TEFTdmt3cjNTeGRCOVA1LWowQVpIYmhtbFZ0X1Zyb1JrVlVtQ05tTG9XWU13ZUlLSS1WN0NVY3dNTjkxem1RQXRPaHlPZ1BneFkzU200T3A4YU40T0ZEeFZBeXhad0FVM0toSTRKendXS25KaHZHelVIb193d1VBQ2EzTmxnWmEycldLa1BYcnN6ODVibVcwVjlZUUhBMTk5eTdkRGtCQ0lZRGPSAdQBQVVfeXFMTVhIbzluQ0MyRU5wYmUzQzZnS0VwV3drQjVyeVdvaldmWXRJZ2VmZWhNS29QVm50ZWVNTC1iSUdEVENRS0RJMm9oZTBIcnNyVXNuc2lFbTFuWU9VWWgxcl83WENyeFdpcTg0c3Btall3X3NKeEc5a0UxTlZuR0lJTDFSV1FxOGtpWXVxWkRYU29XZ1IyNlZ2VzFDcVlGR3ZOaUt0NUg4NnNGMWU4WTNyQ04tZlUwalY4SUhNZmIzWUJBM3p6NG4xZU0zZEk1LXBIaUZ2VUY?oc=5"
     },
     {
-      "headline": "Jim Cramer on Becton, Dickinson: “I Think You Buy Some and Then You Wait” - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-06",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUx3dXBKd1J6VTJQaVpIU2JHM0JxY1Z6eXluN3NjS0Q2ZC1tM2VyZEZJRnlWQWMzWDRtbnRXS1lPRlZ0OURWY3FSWUg1aDcyRm1kQ0N0aUpYV1RZX0dDTHF4dzNKdUh3YWc4dkFYbW9Ib2dYLUZMZUNocDRTczVSa2JIZlNaZ1NXNDBpNXlKTm1fSXB0aUVMXzZtQUxPTVU?oc=5"
-    },
-    {
-      "headline": "Becton Dickinson & Co. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+      "headline": "Becton Dickinson & Co. stock underperforms Wednesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQckp5RjF1aUo0bW1JS0d4VFdYcXozUU04ZkozNzlEcENiODhKMHVLTW1GSVg4ZjEwcDljWFlSTmt1RktPRnc3OHZZUHFGUE5INjM2aC1Ec2dFalZCNndwaDRRLU42NzN6T21FS1FvS21mRVVzeHh0cmNDMHVYQkE2eDVLSDd0WVh4ZktfaXdqSVVzaGs3Wlc4Y3MzdVZFRWgyTlZ4ZmVlekRCWXJERms4ZzNZY3Z4TkJkSlZwQzBVZ2dCWnhJaUtESXBUbFdUbTBEQWtIVjdwa1ZGVWdKSnZCTjZKaUFwcVdGMXBVU1pqTU4wWElBZHpwai1SaEdiYUhkRzZabw?oc=5"
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQN2pULUdCYjFuNTQwS0ZiRmZ2VC1xVmRyOVRMZ0Q0T3A4Qy1mY3dLR05LdFNHMWhCZ0pNY2VCMVh5MWh1QjJPWTJhZG92R2FQcGlKZXFfR0FweVFMZmJHVEkwaGVveUJfLTRFUFpJRmF3Mmg2MkMzRTU2LXItM2xEYktSRUxmMEppQWZQNDNVaTRQcE9NOEJENlBUSVhfb292N1pKU0tQOWktNHY4bWJmUjVwT2ItUkZ0UjBiTzVXU2ozdlMxLXdEaTlmbnFBZVBYbjRSdGdndXRJSmkzTTFqRFNVcW52Q0NKckRlbg?oc=5"
     }
   ],
   "insight": "Tracking Becton Dickinson (BDX)."

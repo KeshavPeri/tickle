@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:10.956Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:52.429Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    229.75999450683594,
-    223.5500030517578,
     219.22000122070312,
     214.63999938964844,
     218.3699951171875,
@@ -24,11 +22,11 @@
     301.7699890136719,
     284.8399963378906,
     280.82000732421875,
-    277.489990234375
+    277.489990234375,
+    272.3599853515625,
+    274.8500061035156
   ],
   "6m": [
-    308.5799865722656,
-    305.6700134277344,
     301.7799987792969,
     302.6199951171875,
     307.989990234375,
@@ -158,10 +156,11 @@
     301.7699890136719,
     284.8399963378906,
     280.82000732421875,
-    277.489990234375
+    277.489990234375,
+    272.3599853515625,
+    274.8500061035156
   ],
   "1y": [
-    281.5199890136719,
     281.0299987792969,
     277.2200012207031,
     281.8299865722656,
@@ -410,29 +409,31 @@
     301.7699890136719,
     284.8399963378906,
     280.82000732421875,
-    277.489990234375
+    277.489990234375,
+    272.3599853515625,
+    274.8500061035156
   ],
-  "lastClose": 277.489990234375,
-  "oneYearReturn": -1.4315142570928276,
+  "lastClose": 274.8500061035156,
+  "oneYearReturn": -2.1990508851813444,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "International Business Machines Stock 6-Day Losing Spree: Stock Falls 17% - Trefis",
+      "headline": "Is the Turnaround at IBM Stock Finally Here to Stay? - Trefis",
       "source": "Trefis",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNWZ2b01ZbmhmRVpWZTdDRC1uZWZqdWZkeVBaU0dRc1F0LVd1dFVha2dZXzRlaFZVWTBfN0RCNXhBSFF2MTIwS0haaUV3Rm51c2RWMDJRcTUwU3BXOU8tTjJzVnJXZzZSOENNOUlQLXZQUHZYQUZrUHQ1NXRaZkJZa05DdzZDcjFYT0hUNFcwQmJyUjl0Q1JsNWpha1pkUkg2VmtQUzJXdkJzaENieFlLbnhfNjZ6QV8wMWVCZzBiSWJUdDdmR3lJMDhBOFpNVmx5QjVSQk1ZWjU?oc=5"
-    },
-    {
-      "headline": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award — is the stock still a 'very nice price'? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVRXZmROY0ZvR0VqZkl2dEdwZEJVN1k2Z1B2a0dJUXZhX0JEQ1RKeFNRY05tS0dsUDRzSGJBLUtXVXF4Sm9CVUZZVXJ3VU5FOHVfV0pNTEdnVWg1Nm1aakpRNG1EenNRSDEwNDB5UFhOLXY3cTk0UUlMSHpTYmtGdHZjZzJMNTJJTEs2RXRhRVJVdGJCaUhtaTdn?oc=5"
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0V0MkpKb3RlVHhCcE9vWE5lX2V5NkZjVF9XVUZuRnd1WEhUQkt3ZXFjblVWQ0F5ajRCaVRwWlBxeGRoQ252dmc4dU9WYWtDOWVfQXpKV2QydlBSb1dtNFVEUEtSeURtLU9EUmdUeS05YjNndW5YN1lfUzhVdlY1ajRueU5TckpKeUpKSkhzalRXTjk0ZUxXcV9ldGMwcWkwQlZpWllmNldBMnlvamFQanY4QVk3SEpzTGs4QnVR?oc=5"
     },
     {
       "headline": "Kyndryl showers execs with shares while staff ponder redundancy packages - The Register",
       "source": "The Register",
       "when": "2026-06-09",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmZpdjdHalJCTmhjT1RxRHV4MUhITklOOWlfcXF6UHNvZk1nV3I1NC1hdDZvenNma3NfQ21KaXFZamhYOTZKV0thTHJ3MGg2S2dneWtyMktQZzVXbGs3SHBBNXhOYmZ4Qng5bmQwRGZOclVQT01kUGthMVo4VlBsWEozcnRKS2FxeU1UcU1vdFZvclZPZFd3UkM4UE94MVQxVTdwR01NYTgyZkZRS2hJU1JkckN2US04MGZNanN4WWtzZk0xZHc?oc=5"
+    },
+    {
+      "headline": "Trump praised IBM's 'legend' CEO, government floated a $1B quantum award — is the stock still a 'very nice price'? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-09",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVRXZmROY0ZvR0VqZkl2dEdwZEJVN1k2Z1B2a0dJUXZhX0JEQ1RKeFNRY05tS0dsUDRzSGJBLUtXVXF4Sm9CVUZZVXJ3VU5FOHVfV0pNTEdnVWg1Nm1aakpRNG1EenNRSDEwNDB5UFhOLXY3cTk0UUlMSHpTYmtGdHZjZzJMNTJJTEs2RXRhRVJVdGJCaUhtaTdn?oc=5"
     }
   ],
   "insight": "Tracking IBM (IBM)."

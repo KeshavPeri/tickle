@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:46.612Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:23.372Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    465.55999755859375,
-    463.70001220703125,
     470.1199951171875,
     469.17999267578125,
     472.0400085449219,
@@ -24,11 +22,11 @@
     455.0899963378906,
     454.6600036621094,
     449.3800048828125,
-    449.19000244140625
+    449.19000244140625,
+    450.6199951171875,
+    450.3800048828125
   ],
   "6m": [
-    455.739990234375,
-    454.9100036621094,
     456.7900085449219,
     470.1099853515625,
     474.1099853515625,
@@ -158,10 +156,11 @@
     455.0899963378906,
     454.6600036621094,
     449.3800048828125,
-    449.19000244140625
+    449.19000244140625,
+    450.6199951171875,
+    450.3800048828125
   ],
   "1y": [
-    515.6500244140625,
     515.5499877929688,
     501.67999267578125,
     512.9099731445312,
@@ -410,29 +409,31 @@
     455.0899963378906,
     454.6600036621094,
     449.3800048828125,
-    449.19000244140625
+    449.19000244140625,
+    450.6199951171875,
+    450.3800048828125
   ],
-  "lastClose": 449.19000244140625,
-  "oneYearReturn": -12.888590870944947,
+  "lastClose": 450.3800048828125,
+  "oneYearReturn": -12.640865959311554,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Ameriprise Financial Stock Underperforming the Dow? - Barchart",
-      "source": "Barchart",
+      "headline": "Is Ameriprise Financial Stock Underperforming the Dow? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-06-09",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1hVQWtvQXUwczVENUN2ejFhVXlsc2ZXTHR6bU85S0VtM0ZTdE5GM0dwdnMtb05JVUdlREc1b3lETFFYc2IyR3F5eW1CVlh0Zk1rZ19DLUZtWnMyWkpyNEpVSDN0dWJSQWU5dGJwNjh0OUdPUjMydVpVMWhxRDhIWHdzQVJHTl9JQThid3BCdVBneHRicjRwNmdVZW80QQ?oc=5"
     },
     {
-      "headline": "Do Wall Street Analysts Like Ameriprise Financial Stock? - Yahoo Finance",
+      "headline": "Ameriprise Financial (AMP): Buy, Sell, or Hold Post Q1 Earnings? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkZ3WEQ5U1dCUngyUXM1VXl6OTh3SElzUnpqMjdOUlIzSUJrcWNWNGVHR1E4V1E3eUxZbV9xc3VSSzl2MWFkRFhvNFA2VDQ5dGRZVVVfTWc3c0lxR3hkWVZYTGptanFUNWptMUgxY2UzMzg5ejhGMnA2eFlVQnNxZV9STXp5SUFGYUxRUVNFREFfdnBCMUVkT2JzdG05bkQzd0Z3eUhRNjVXZw?oc=5"
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZvTTRlTDhEVEVYVExRSl9ZX1VObWVqVk9FTVl4R0wzQjA1d2pwOXlDY2ViZGNiT2M0Yk9jeUVtYVd3bHJPak5TQURXczVha1N1c0JQNm1SYXpYMzlXU25WZl9jWEJ2bzNYMHo2RWdPWGd2Q1dNcHh1OS1lMmtWaTE2MnJpUkhhN2FidzNDY3JpM1VMVXBFSkpoTEhqSmM?oc=5"
     },
     {
-      "headline": "Ameriprise Financial (AMP): Buy, Sell, or Hold Post Q1 Earnings? - StockStory",
-      "source": "StockStory",
-      "when": "2026-06-07",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ3BjaEVfUnYyVUFBb3RuRXp1UlBXWTJqdG5adzJXVTJUeC1ydGstM0tRMnhYVktsMVBoTTRSVVB2SGV6NHRybnJhUEdZd0cyeV94LTJnbnZWR2NwdWpoQTI2OEtGTWdCb2p6X0hJRmFSUGxEYmNHX2FiV3NudUFObXhFZm13d2FKOHlhSWpMdjRJTGxOZkloWVlONEZVZmI2Vy1IbmgxODJEWkNlSHF3eEVTVmI0VS1m?oc=5"
+      "headline": "One Ameriprise portfolio, hundreds of investments, wins tech honor - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLW80Q1NlaHVDNnJhcnRyUExxa1ZkdFpVMGk1UGVDS0ZJRVZ6MTc1c2c4V2dUY18yRU5PMUkzVWdkbV85SWdfSDZEdXBUbV9Gam1lZ2JaMXlTWm5kNFJIVkNKUFFjQldBNXlFUG04WlktcmRSOFRJbVlDNDdmdXJDbVhoMEJKSlhqTUltRHdqcjVpM2tmcFh3YlJSQTE5TnZiX3JrLU5wN1VzOFRyZEE5bTVVUDUxUHc?oc=5"
     }
   ],
   "insight": "Tracking Ameriprise Financial (AMP)."

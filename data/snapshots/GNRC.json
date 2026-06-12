@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:07.683Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:48.587Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    269.4100036621094,
-    271.3999938964844,
     269.5899963378906,
     267.25,
     276.489990234375,
@@ -24,11 +22,11 @@
     278.1400146484375,
     261.5400085449219,
     265.8900146484375,
-    260.989990234375
+    260.989990234375,
+    239.11000061035156,
+    257.3299865722656
   ],
   "6m": [
-    151.6300048828125,
-    149.22000122070312,
     155.30999755859375,
     159.1699981689453,
     163.24000549316406,
@@ -158,10 +156,11 @@
     278.1400146484375,
     261.5400085449219,
     265.8900146484375,
-    260.989990234375
+    260.989990234375,
+    239.11000061035156,
+    257.3299865722656
   ],
   "1y": [
-    129.77999877929688,
     128.38999938964844,
     124.72000122070312,
     126.31999969482422,
@@ -410,29 +409,31 @@
     278.1400146484375,
     261.5400085449219,
     265.8900146484375,
-    260.989990234375
+    260.989990234375,
+    239.11000061035156,
+    257.3299865722656
   ],
-  "lastClose": 260.989990234375,
-  "oneYearReturn": 101.10185906089666,
+  "lastClose": 257.3299865722656,
+  "oneYearReturn": 100.42837276702494,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Generac Holdings Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "headline": "Generac Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaHBPeDZYTGJzUVhjQ0I5UXFIdm1BdmZkd3h5aVJCUENHeFNEN3BCZ2hTR2Q2QzgzUlpwaldXNG5ZY2FvQWtJOFlhV0xQY1dGR0tMcV9jMTVMUklwLWRFMTVDQk5KUmoxM0VrRDVKMC1zdndlcWJveHFzZkRfUFlGcm0yYmNMci1KMkpkSWpvX3NyWW0tcjhqbVBIUUZhM3lycFZrbE9oc2tHTDJPdE1pOTVwclYyVEw5UE81VDNGLUNPWjViamt5bm5kYm9lSTZPbzg2U1RB?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeXp2RGNzRnh0YmVBbjA1dXdYcFk4d1hjY1k2bnNpbnozNTVyTTRLczYwRnlaeUk2N25sTzdFT2NvMnBZU1poYW1YeUM1NEVPRlFZc2RqZ3E5ZTlsdUJtTUVLSkxSUmtNQWIta2ZvMzZMMWxsX0NQZTZtWTE4UndoZFdkXzRHWWt6RzZUcVNQb2lzZzdMVkk3eGhVMDd2WkdBOEVLd3FvNlNwbnlUWUhkMU52Qy0zZU15NEVEUFpXRTk5Rm1iMC1iTDI1cmNCSEtmRXVxWnFDXzJOWUdoQ3JHV1hYYl8?oc=5"
+    },
+    {
+      "headline": "Generac Fell 8% After Signing a Hyperscale Data Center Deal. - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ1JyRjRFdkZBT3Q1UjR4RDluUGF1ZHhmVGtIdkdDdkJvTTRodHVjdDFhQU5fX2x6RGZrSFE0TjZCZnJzdHRtb255TmRVeVZJRWthWFNIZUI5VEdYUmNGTTdBc0JJOVdFT1pweXllcnVlWk9HYlpsejRpbldLcC02Q1NrdGVfWENZdk55ZA?oc=5"
     },
     {
       "headline": "Generac shares slide as investors digest recent data-center rally and product-recall headlines - Quiver Quantitative",
       "source": "Quiver Quantitative",
       "when": "2026-06-10",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZXlHYlRQelhpY2FvMEc5d0xydVlsMGQ0Qk5zdGpwa3lhR1NVSmJpSlZqemt3dDI3Z3dTbmJRMEFmcjNWYTE3YUhkVElCVnZJeU5yUjBJQWFndlBqTjdYc3V1OW92ZnI3bDdmdkJoUVhUTks5TWhmLV9sYmRLeUlvSUFVM09jdURkWnVMTUFlNDRyb2l2bVU0T1JjSDlqblJ5aW43cXJUcWR1Uk1XY0pwRnhTQ1lsVHcxMXlBWEFmVEx3bDlCRFE?oc=5"
-    },
-    {
-      "headline": "Analyst Upgrades AI Data Center Play On Potential Deals. Stock Crosses Buy Point. - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-05-22",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRaS0tUklIdHR6d1dmTm0xSHltOTRJUE1IMXp5dHVacXBURzd4UC1BM0hhQUZPSkU4c1ZSVk8zNlpWRkphMVpSUFlYQTBHNWxwaUM5RXp4TkxOdXNhNmRwaDhldHJQQlNTYkRYNllBREo?oc=5"
     }
   ],
   "insight": "Tracking Generac (GNRC)."

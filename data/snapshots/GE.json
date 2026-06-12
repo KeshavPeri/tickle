@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:06.609Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:47.125Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    297.1499938964844,
-    300.7699890136719,
     297.45001220703125,
     294.7099914550781,
     291.5400085449219,
@@ -24,11 +22,11 @@
     327.6499938964844,
     328,
     322.0400085449219,
-    330.44000244140625
+    330.44000244140625,
+    318.7099914550781,
+    332.760009765625
   ],
   "6m": [
-    298.45001220703125,
-    288.45001220703125,
     289.32000732421875,
     288.489990234375,
     291.8599853515625,
@@ -158,10 +156,11 @@
     327.6499938964844,
     328,
     322.0400085449219,
-    330.44000244140625
+    330.44000244140625,
+    318.7099914550781,
+    332.760009765625
   ],
   "1y": [
-    245.52000427246094,
     239.99000549316406,
     236.60000610351562,
     236.5399932861328,
@@ -410,29 +409,31 @@
     327.6499938964844,
     328,
     322.0400085449219,
-    330.44000244140625
+    330.44000244140625,
+    318.7099914550781,
+    332.760009765625
   ],
-  "lastClose": 330.44000244140625,
-  "oneYearReturn": 34.58781227239921,
+  "lastClose": 332.760009765625,
+  "oneYearReturn": 38.65577821952399,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Trending Stock GE Aerospace (GE) a Buy Now? - Yahoo Finance",
+      "headline": "GE Aerospace (GE) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1Qwc285TzRLV3d4c0dkdm5ZeC1lcTQ3cXZrbFluUmhIQ2xSUmtoQVdvZUFndzN0ZThnSWNvcWR3RVYxbGlJZkh1aFNtbVFzTHhsYlJKTXB4WFB1TjU3MzdzSmo4YXFFOWwwZUtmTTRmdUJITWJJN2pScnBSTzVUVHlfVkRReFYzY0Zack5OWnZTQ2o0S0NyalAtaw?oc=5"
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRVRabnFHOTVuc1RvZWZEX0VFTGIyS2RqMEV1c1pTa3ZnRnF5Mml6dlBUN0NkQXVfbEZDX0hva3oyVi1VTmkyU0FrRUlzSTR6em5fYkk4U0pYX2JkNFp6dTdDME9vRGhVQjhfaDNmVzRtYXNkQ2h0UllRSnpUZHFBYnFCbGpxZFdUVnBxeFpBNlRScV9OYzhn?oc=5"
     },
     {
-      "headline": "General Electric Co Stock (GE) Closed Down by 3.29% on Jun 10: A Full Analysis - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0hwQ3pJREFSZ0NoYU00bjBmMGlhcXZFZkNZOWNjOEwta3lmdEdpcGpydmNndFVuZ3Vla2FfY3NSeGZNY1hIckt1Zk00UzNHOFhnZmtmZFpiQUpmUFA0ZjZsbjEyaUh6a0l5QS02WUZFZkY3MnpIbGNWNy1OTFhfZ1YxNVlqeUR3?oc=5"
+      "headline": "GE Aerospace stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWWswaFZWbTZnRG5MUE5fVDVleWg2WnFMdWpUNi0xRTFONUVDMlFXdFdjSzBvWHU2Y0M5VUJ0TGtLeTNDbW5nSlNpcjZWTXI3aExfQnRadTRlMXVRQmg5clpXUzU2QWdmYWNWQTRqMVJkQ1JSRFE4eWNPbVRENXN1bjF5Y3RvUm9iT2EwMVlkTm1wSk1KVkpYbG1EMlVSOW81Z0I1YTBqc3IyX3dVSjJLMnJyNERPV051WE9NVFQ4Tm9IZVNwakpwTXZXWFcxUzJYeUxzWk8zaDZXa2otVl9keEhlU1dZalFPRzBSc1Z0bS1VUWFpblBhZDh4VlQ?oc=5"
     },
     {
-      "headline": "A Look at GE Aerospace (GE) After 3.5% Decline -- GF Value $246. - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVk9vQzRtMXpMNHNwb0dROXdYV00xNzNZSlVBbUd6NzNuZE5aREltOS1GR0xSYjF3Um5DNTlOS08xMXVaWGNvdTlMVzlWdUxWRlhZUkY5d2NPdzYwcDJGWVE2cUxLOTlOY3hvbG9PdUx5SS1jNmpQdDVrR01XOWhuM0NYVndPN1hBUE8zNEd6RFhaZGlhbVdJN1hHV2dDb0hKcTN4Q1dpaU9ENnBqRndkOQ?oc=5"
+      "headline": "A Triumph of Kindness: Remembering MiSci President and GE Archivist Chris Hunter - GE Aerospace",
+      "source": "GE Aerospace",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFmcEpiNzdHREYxbVJqM0c0SUxrcDEycVdja2d5bHZ2S0NNRFMwdk5sbGYtZGJSNlVYaDNaS0hlTWNfWjNjM0k1NmRkREVOY0g1WHNpSnVTVkNsUlpXbE1ldkQyWFhQY19JVzJlaTJ3aWZSYmVTVTVnS1pTV0tkNW5RQl9SeVNPdjNqSjczUno0TFN1NGlfbFFSN3lDU2JRUlU5azMtSFlyUnVCNFRhbFpuaUZhd3c?oc=5"
     }
   ],
   "insight": "Tracking GE Aerospace (GE)."

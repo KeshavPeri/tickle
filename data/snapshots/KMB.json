@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:14.229Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:56.640Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    98.30999755859375,
-    95.75,
     97.33999633789062,
     97.04000091552734,
     96.66999816894531,
@@ -24,11 +22,11 @@
     94.47000122070312,
     99.04000091552734,
     97.75,
-    100.5199966430664
+    100.5199966430664,
+    101.58000183105469,
+    101.54000091552734
   ],
   "6m": [
-    109.12000274658203,
-    108.54000091552734,
     106.94999694824219,
     106.12999725341797,
     104.94000244140625,
@@ -158,10 +156,11 @@
     94.47000122070312,
     99.04000091552734,
     97.75,
-    100.5199966430664
+    100.5199966430664,
+    101.58000183105469,
+    101.54000091552734
   ],
   "1y": [
-    132.85000610351562,
     133.88999938964844,
     130.83999633789062,
     130.6699981689453,
@@ -410,29 +409,31 @@
     94.47000122070312,
     99.04000091552734,
     97.75,
-    100.5199966430664
+    100.5199966430664,
+    101.58000183105469,
+    101.54000091552734
   ],
-  "lastClose": 100.5199966430664,
-  "oneYearReturn": -24.335722977128015,
+  "lastClose": 101.54000091552734,
+  "oneYearReturn": -24.161624185220663,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "How Portfolio Reshaping And Dividend Consistency At Kimberly-Clark (KMB) Has Changed Its Investment Story - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT1NKbXVkQ2VobTdJN1BWY24xN1NodXZIWVFfckVuc0RxWDE2MlA0UFZrNlNoQkxTa0FQZ0tBeGtyXzVESFEzcHE5WXJVdVpjWjJuNElJZTFZV0Fvc3paanNPQXpxLTdUWFJPWHN6N3pWT19nalA4Ujg1aVdTUl9yZlB1WEItQWdSX3RFMFZORV95ODZ3Y3MxMTRNeUQ2M0xFWWQ2SEN3aHkzRU10b1BsdEN6MHFwYUQybEMxQ0IyYzlVS0xMbWVaTm9ybEc2UdIB0wFBVV95cUxNY0ZMX290cXY4YlJJWU0xMzRWZVRMYkxWS0pKUk04dGNnY3NVY1BPcjBEZ0puaW1uVk1kc2hyMGRiRzJMS1JGWkk4UWR6NmlyTTI5eXpuYTUxWW5NcFpMalB2SktwRW50S0tJRGRuWlJIbU54Zi1QNFRySVFROVVpV000N25vWC1SRnN4UkVLR29ETzNqblVIZjNnZEsyQlA0aTRPdkJBa1Zwb0E4Q3FnYnRuY0lYdW1mZXowU1Jma1ZyeDd4MGhpME5VNFl2ZGotMlcw?oc=5"
+      "headline": "Kimberly-Clark Pull-Ups Learning Layer Aims To Support Earnings Growth - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEF4Mkt5SnBSU2dQaTlRMG05a01WVXhRYS1MSEhWakRHdTlQTlFjYzBzcGp6a1cyWjhDVjdtZU80VnhNcDEwRWxsM0dBODhTcEVMU0IxYm8zc09JWWhIclBVRkVfMzZJZWxLUVdjS0JCbEVlZS0wM01RZ1dKdEQzUGRpbkpleE9OZmlZRHVUOHdhNkJfMWtmSVlhWERPZw?oc=5"
     },
     {
-      "headline": "Kimberly-Clark Has Fallen 33%. Is KMB Stock Finally a Buy? - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-05-21",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTURUbmNab1pWZTZJZm1HNl9RMTZEVVAxVmtmUEpUQzMwRnpXVjd5SWVfa1MzQnMxLWh4TC15d09Ja0lxOU1FRmUyTG9ZTmVhTzMwYVNlTmxuSDd6M2J1ZUdGeDlYS1BYbDdjbk04Sjc3VUp3dVJJem1hb2FBM2RJY2syZzJrcFlS?oc=5"
+      "headline": "RBC Capital Sticks to Their Buy Rating for Kimberly Clark (KMB) - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONkljQTJqUGY5cHU4enUyeVpRdDRacXhaOUFPMkJKNVQ3WXV2N2t5N29iejhBaWY3N25mbDFYMU9oUHlCSjdPOERhVmFmeU5VNWhWel9leDhQNlJWS29VV0tCQ2J0cEtNNFBvQUNDWnJxOUg3OVBkeWJzVTA3azU1WFZqNUlpbFJ6MXpBYy1SOE1uS0k0RnlOX0JtTUFUZ0FGZmluaGRTeFdpakF2dEtLQXNlYTBzVUQxRFVIZDZPY29wX2hINmx1OHpLQVQ4UUNfaWVkWnFuUm1kNVpMc1E?oc=5"
     },
     {
-      "headline": "Kimberly-Clark Stock: Is KMB Underperforming the Consumer Staples Sector? - Barchart",
-      "source": "Barchart",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdjRudGlhR0k4Y0h3WER5eDkxQTJ5RFhNejZXbzdpRm4wWjNkNWxSU1kzWTd6NVNxTlhqVURLRmMyeFJYTjBqR1lpMXlLbnJ1UkEzYkZBdVh1bVpBTE8yeDFESktwTzVHVXlVeTZRTG5MT0FnQ1BxVG1MS3VVcE5fa0pNSFh3cTRqRDhLdXY3Nkgxc01wSXZ5YjFqdDJuMDdQSkxPek5vUG5GRG9zRGFGU21fQVoydw?oc=5"
+      "headline": "Inceptionr LLC Increases Holdings in Kimberly-Clark Corporation $KMB - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGJaY0pLcUlVS0ZtZTRaV3lPbzJEY1REVVBPM0trbWpvYUU3WC13emZwWGxCdXhHcWRvdTQ1WmlCTGd4NEE2OXQzbXVkNm90dXluMDU5ay1WWHd0YWYzM3Btbk11UG1XbThfeVpVRXVlYlVfZUZLb2R1Y1FyUklzeVRfZDQzTlNFSUF2MVFzbmx5NEpCQndvUlYxNzdRT0dueVVLLUM1WEttVzUtQXRXSDdlWkk4RFQ0c0tVSzZnNHREN1QxS19B?oc=5"
     }
   ],
   "insight": "Tracking Kimberly-Clark (KMB)."

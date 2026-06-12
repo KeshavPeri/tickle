@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:58.834Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:37.632Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    113.29000091552734,
-    104.62999725341797,
     102.9800033569336,
     101.75,
     105.05000305175781,
@@ -24,11 +22,11 @@
     103.5199966430664,
     103.69999694824219,
     106.81999969482422,
-    109.37999725341797
+    109.37999725341797,
+    109.95999908447266,
+    114.33999633789062
   ],
   "6m": [
-    109.48999786376953,
-    109.33999633789062,
     110.02999877929688,
     109.88999938964844,
     125.29000091552734,
@@ -158,10 +156,11 @@
     103.5199966430664,
     103.69999694824219,
     106.81999969482422,
-    109.37999725341797
+    109.37999725341797,
+    109.95999908447266,
+    114.33999633789062
   ],
   "1y": [
-    111.44999694824219,
     111.83999633789062,
     111.68000030517578,
     113.62999725341797,
@@ -410,29 +409,31 @@
     103.5199966430664,
     103.69999694824219,
     106.81999969482422,
-    109.37999725341797
+    109.37999725341797,
+    109.95999908447266,
+    114.33999633789062
   ],
-  "lastClose": 109.37999725341797,
-  "oneYearReturn": -1.8573349048950936,
+  "lastClose": 114.33999633789062,
+  "oneYearReturn": 2.2353362677579214,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "This is Why Dollar General Corporation (DG) is a Top Defensive Stock to Buy - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQVZuSGc4UDQ4T0w2eTM0c2tqczJtVzl2WnBKOW5rSldiQnZtUlJWZC1iejdCeTVxR3lzeDJMYUEyTkN6SXlwTzlUZ0FFRkU5cDJ1ZGxQQXc2Z0ZIVHNReU84bzBINnI1aDNCTU9KVlE0MTU5T2ZWbGlybW1ZSVFXb1V6VVNQNHM2QjRtRld3anF5REdjOXpHVWhKdjNnLTA?oc=5"
+    },
+    {
+      "headline": "Dollar General Stock: Is DG Underperforming the Consumer Defensive Sector? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQjEtSzZaVlIyQjhqR3dCSXg2VHVHTm54eE1QRjVQSkJpWWpDVTR6ZG0zb1cwZXNsdFIwRGtRblZGeDJ1X2dLYW9kVGJ0bjNQdm1KVGoxb1pqUEdUV09xZWRxSFNkMGl1NWVrYk5COE90X1FrX2x4VkhZbzFzNDQ2V2ZOTnpNZ1gzdC1nclUydGxGWDFMeUpkejJqZ3VIdFNyZWd1azVMWHRLQ2hMeXdFMW5BWVY3RXc?oc=5"
+    },
     {
       "headline": "How Will Dollar General Stock React To Its Upcoming Earnings? - Trefis",
       "source": "Trefis",
       "when": "2026-05-30",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVjlIY0p6U3o4N1pDb3gxS3hxa2JpSzdqbmJ6cVNQaXJrZi1TNW14dzY1aHJ4VTJHVFFEa2ltc1pWQUFQQm91RC1vUmlRWmpuTmRrYk5Bcno0eXBqZm1ickMydWdGNEhfQ0tXMW85Mm9aS0YxRjRNT3NQQk90YVNwTjdmSlczakVQLTdobDUxS05DTUVPZXYzV2s4QzExQTFEU19lRUNoNXN3YlBwblItRm8tUklwbHktSVB4UHVn?oc=5"
-    },
-    {
-      "headline": "What Dollar General (DG)'s Strong Q1 Beat, Guidance Hike and Dividend Move Means For Shareholders - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGdLUGY5X3pWeWlYMVBvMGYtRUZFMkhBX3RjYk5zVnk5eWNka3l1eFUtN2lVSE9lbWRvOTA5UU13dVFIY2l3NWFlLTFaQ1ptenlRTHZQYWVfb01pNkw0V1lwRE51M2t4REluZFNvZjViekxTMzF1a1VWNjdrazRHXzhWSEVlLUVmWkY4UDBLQW9YVW9NWmhr?oc=5"
-    },
-    {
-      "headline": "Want to Avoid the Whipsawing Tech Stocks? Dollar General and 7 Others to Buy. - Barron's",
-      "source": "Barron's",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTmlXSThONjdqdnBGZExQSFk5c3ZvMWtaUjE0NldVVGkwY28zTy12RkotREYwMEhjaGVSZkNERTlLU1k0Z3ZQcDZkeUhfcEl6TFRMeVNNX1djNHhrcmJUV2lNeGF3LVJHWDd2ZlhvU29BRTd3LWppeFltbnNHbm0yRmZoTmhEdw?oc=5"
     }
   ],
   "insight": "Tracking Dollar General (DG)."

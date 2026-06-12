@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:29.052Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:14.541Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    102.41999816894531,
-    99.37000274658203,
     97.25,
     96.20999908447266,
     95.43000030517578,
@@ -24,11 +22,11 @@
     103.5999984741211,
     104.4800033569336,
     104.83000183105469,
-    107.44000244140625
+    107.44000244140625,
+    105.26000213623047,
+    107.75
   ],
   "6m": [
-    128.67999267578125,
-    132.77000427246094,
     133.08999633789062,
     131.52999877929688,
     125.72000122070312,
@@ -158,10 +156,11 @@
     103.5999984741211,
     104.4800033569336,
     104.83000183105469,
-    107.44000244140625
+    107.44000244140625,
+    105.26000213623047,
+    107.75
   ],
   "1y": [
-    87.5199966430664,
     87.06999969482422,
     84.18000030517578,
     88.5999984741211,
@@ -410,29 +409,31 @@
     103.5999984741211,
     104.4800033569336,
     104.83000183105469,
-    107.44000244140625
+    107.44000244140625,
+    105.26000213623047,
+    107.75
   ],
-  "lastClose": 107.44000244140625,
-  "oneYearReturn": 22.760519381164723,
+  "lastClose": 107.75,
+  "oneYearReturn": 23.751005372295968,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Fertitta entities (NASDAQ: WYNN) sell call options on 550,000 Wynn shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXpDT29mcmhPMzNrdDlFajliVFgzdTdHMXZvWTRSZTlReDZZWFpURUYySGwxMkRsY19CbFU0UktQMlVwdE1adW9WOFBlUDRGcnNuN3lJd2NDWmFpRUE0U3hlTmJsWnAzQW8wMmc0OUo5TmQ5Tm5aaEIydnNCWkQzTUlEd0h1b3p2eVRHaU5RbUlkMnJ1cE02ZFdWclI5dnlIWE1kMGZJM2MwLV9ZOTNz?oc=5"
+    },
+    {
+      "headline": "Wynn Resorts Ltd. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeHNJNGVkd3BWOV9QRkRraS16R29ZVW5sUU9JdkwxWkJ3Z3NZR0M2NzREdDk0TDVNMHNLX1JrVVBZNWR6bTNnOS1SeGQtbUJTdnlSTnhoaWx6aDV2NkZzRnRIaW9mNWpUMzBOOWxKbE9xb2N1NlQxUW1LVXNLSUVFcGRWMS0wbU9fdVZRZGRRTDRjb0ZnTnoxQVVNekhEWW4yS0NycF9xTHhPSTV1X0lQSG9TbEJyaWdseTM2YVBHdmthUmZTSS1hQzZTYkZ4aUFp?oc=5"
+    },
     {
       "headline": "Wynn Resorts Stock: Analyst Estimates & Ratings - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-05-20",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeXhJOVVpSXBrVnA1QmtqV2ZJQktQclVNVThidDBoN2RsR2VxYnN0TTJNbExDcktDYlFCTFFhM3M3WmkzZl9UU1RMSVFVM054RGhYSjhTTHFEZjd3eFhfWW43Q2FWdzIzR1lIVEpmNl9oY3ZRb2ZhX1NKdVBCSW0ySG0wV3lKeFBMTEFaRGRBcTZjUjhOUlpzZkU3MFlrUDRpbUlB?oc=5"
-    },
-    {
-      "headline": "7-Day Sell-Off Sends Wynn Resorts Stock Down -11% - Trefis",
-      "source": "Trefis",
-      "when": "2026-05-16",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQlh4Y3RTbGpaN011QUZ5bl9rUTVSQ2haVFRta2JpN2lzd0dYQTRfaE5MV3JFa3h4eWhodDlVWDhOTFRRUEpabWdDY2pZWmlSb1pBZG8tVGUtd2VhZlc3c2R6N0cyNGtqejc4ZkV3dk9pdGxUN3FBRGFYLXN0RHFMOTVVaW5pVlFkYzRReGY0Yzdxb1l5LTRCRV93alFwUjVGTURGVk5uSjl4QVQy?oc=5"
-    },
-    {
-      "headline": "Why is Wynn Resorts stock surging today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQm1CRlB2QzRIM05JVEFpSmxjaDVoRW1QSHVfRkxUVE1TRmZEVndWQ2h3Z0tObm5jNXd3TWtINUs0b2Y0YkwyVnl6Ymc2QVRWWHdKby1mNnZJTElyOU1FOGtjSnc2T1Zsd1NkLUlOMnF2bDBMcllfY0gzVVc4dkQ4YzVEdF9hX2sxUUNSQVU3eXlOVFFtUnZCX0c4ZmFXcndWRFNZ?oc=5"
     }
   ],
   "insight": "Tracking Wynn Resorts (WYNN)."

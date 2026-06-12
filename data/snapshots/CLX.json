@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:54.200Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:32.185Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    92.16000366210938,
-    88.9000015258789,
     89.11000061035156,
     92,
     91.16999816894531,
@@ -24,11 +22,11 @@
     89.62999725341797,
     94.13999938964844,
     95.16000366210938,
-    98.4800033569336
+    98.4800033569336,
+    99.31999969482422,
+    98.30000305175781
   ],
   "6m": [
-    107.94000244140625,
-    106.41000366210938,
     105.88999938964844,
     105.16999816894531,
     105.0999984741211,
@@ -158,10 +156,11 @@
     89.62999725341797,
     94.13999938964844,
     95.16000366210938,
-    98.4800033569336
+    98.4800033569336,
+    99.31999969482422,
+    98.30000305175781
   ],
   "1y": [
-    126.26000213623047,
     127.27999877929688,
     123.06999969482422,
     123.93000030517578,
@@ -410,29 +409,31 @@
     89.62999725341797,
     94.13999938964844,
     95.16000366210938,
-    98.4800033569336
+    98.4800033569336,
+    99.31999969482422,
+    98.30000305175781
   ],
-  "lastClose": 98.4800033569336,
-  "oneYearReturn": -22.002216307048016,
+  "lastClose": 98.30000305175781,
+  "oneYearReturn": -22.76869579311537,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Clorox Co. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd04td3NaUGxJdjR1dFRYcDJPTFVRNXA5Qkx5am5VZmlFWVZaWlZWSXVwYnNxUVVjRHN2RkJLOURrX0F2S1J1bW9tZV9oWFRTVk5rcGoyOF9vTVVxTHhtX2JWSzM5YWpvR1E4VmxzQjJYdjVBcXRkSGJuYTAxWVo3OGhGV3NqQXAyajRIemtPRzA0b1pwbW15SXhFV0pOUlNlWHdxUlVVZjFaNjVnSXItaXF4S1Q2ZzdKdlg0dElYX3Z2Wlg1SDlOcTZ0cDE2eVVST0VVUHBRRkVpajBZTHc?oc=5"
+    },
+    {
+      "headline": "The Clorox Company: Investors Are Not Happy, More Pain Ahead (NYSE:CLX) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-05-30",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGVDSW9BOVJuckx5dU1hNjYwUXVQVVptb0JEUFJ5OGRrbTNId1NiYW9SaFljSzZMYmN3LUtjN29veUJfVGwtRGhaYnpzOXk4ZThQNjY5eHBaRmo3aGMyRkN4YmN6blNIVkVmbnY5S3JEcmRUVlBjeXFncUdwZ0tDWjI2LUNnOGNkWDk0bFozVXQ2MVV5eTEwakRsQVE5NS1T?oc=5"
+    },
     {
       "headline": "Is The Clorox Company (CLX) A Good Stock To Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-05-03",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSnhZbF9ZWENXQ2JDWEhGdEJ0VXM4YnV2Z3JqeU5qM0FPeVFmblVKOGZMa0FMLUQ1bzNzdTNxR3FWN0VwWXFqZVkxQlZVeTJKbFFfSlBkRjc5Z2ZDdkFNZHpuc3NiMmo4LWFVWHJSa2g5RnNOVTFMbkxGOHdPOE9iVEFfS0VXUEp3YlhQaDROZVhNc2JYcWZKRXRB?oc=5"
-    },
-    {
-      "headline": "Clorox (NYSE:CLX) Shares Unloaded Rep. Gilbert Ray Cisneros, Jr. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1RreXBjcE9Zb1FIdG1HZy12Q0o0TXpwSF9aM2hWeEZabEM5TV9hMzFjTGFKeUYzUjlRbWNLWThMZFN4cDZEaV8tNUJ2UUloMUd3aExkZzlvZk9CUzBnRnhkaWZDT2tUbkN4OHNqSDZvVUdydldQYmN2TE1LaDZZckpGU0NYY2hYNTBHQVpfTUhsaXp3RHlFbk5fNGl2Z1libndPaGdsTnlMby04TWlOSkln?oc=5"
-    },
-    {
-      "headline": "Why is Clorox stock sliding today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmxmVlh2aGw1ZktqSF94ZFZHckczOWNUSk9NUjFDTkZVbk9tUUpGbWxnSC03dzRwS2hwS1lsYV9XYnJGb1czYi15SzZQZDdsY3U4eHpaSk94YkFNWklXX0NXa3VOYkVMNm9RRXhTcnlhQVdGRWR1c3ZNUllNVzlPb2gxSloxSFh5WGg3TUkwcXROUi1PSm1nOTBGaw?oc=5"
     }
   ],
   "insight": "Tracking Clorox (CLX)."

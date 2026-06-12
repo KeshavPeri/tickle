@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:49.882Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:26.709Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    59.400001525878906,
-    57.619998931884766,
     57.20000076293945,
     55.52000045776367,
     56.68000030517578,
@@ -24,11 +22,11 @@
     70.98999786376953,
     71.54000091552734,
     74.16999816894531,
-    75.12000274658203
+    75.12000274658203,
+    75.63999938964844,
+    77.0999984741211
   ],
   "6m": [
-    79.27999877929688,
-    77.23999786376953,
     74.88999938964844,
     74.37999725341797,
     74.05999755859375,
@@ -158,10 +156,11 @@
     70.98999786376953,
     71.54000091552734,
     74.16999816894531,
-    75.12000274658203
+    75.12000274658203,
+    75.63999938964844,
+    77.0999984741211
   ],
   "1y": [
-    72.6500015258789,
     72.54000091552734,
     69.5999984741211,
     71.2300033569336,
@@ -410,18 +409,14 @@
     70.98999786376953,
     71.54000091552734,
     74.16999816894531,
-    75.12000274658203
+    75.12000274658203,
+    75.63999938964844,
+    77.0999984741211
   ],
-  "lastClose": 75.12000274658203,
-  "oneYearReturn": 3.3998639625950693,
+  "lastClose": 77.0999984741211,
+  "oneYearReturn": 6.286183486410287,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Best Buy Reports Q1 FY27 Results - Best Buy Corporate",
-      "source": "Best Buy Corporate",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CMVlXSTFmNlFVNlN5YThkMnZtY2VtYjhsR2J2QjBfVFg1aV83VEtoajFkVzRleUx0NjRiQ1pDUkVGa3lqanoySlYtSUpFU2YxQTNoQ3l1b1loY2pRa1REM19SRkdxX3VETGMwVUs4OWdlSmhUU213?oc=5"
-    },
     {
       "headline": "Best Buy stock climbs 15% on earnings beat as retailer aims to reinvigorate sales - CNBC",
       "source": "CNBC",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50eUpMdHRvVTBlRTByRjNrZTBvTlNTYnFaV2wwVkNyOXpLUVlHYnR1VUF1Y0YwWFhEOHE2ZHBHMW9KeVRsd0lWSWRDbGJrdEpPN0lYWUQ4WVpNeXVySWhjTVFCbDd5V0gxOHR2UlVqVUhILUM20gF6QVVfeXFMTVN1UTNZclo1ZXRwUUxpODFSSTZWLTg4c0dPWUxPT0xlSXpaN0NLZG52Uk15cDFvVDhIMV8xRDRFZHA4aVpwT2tlZjI4Mk5iM3BJd1RMY2x1Wkw4Zk5DNkktdHhoaC1TX2FvRFo2dVdXRG02M05Xc25CT2c?oc=5"
     },
     {
-      "headline": "Is the Vanguard Total Stock Market ETF the Best Buy for Long-Term Investors? - Yahoo Finance",
+      "headline": "Best Buy Reports Q1 FY27 Results - Best Buy Corporate",
+      "source": "Best Buy Corporate",
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CMVlXSTFmNlFVNlN5YThkMnZtY2VtYjhsR2J2QjBfVFg1aV83VEtoajFkVzRleUx0NjRiQ1pDUkVGa3lqanoySlYtSUpFU2YxQTNoQ3l1b1loY2pRa1REM19SRkdxX3VETGMwVUs4OWdlSmhUU213?oc=5"
+    },
+    {
+      "headline": "Best Buy stock gains as new gadgets and higher tax refunds boost sales - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMllWeV9MYmtJTlB5Z3J5cTB4cjhGVmVHdFZBM3BRUlRfTWxyRDh6NzFLdGdtUnpPSnVqajdrd1FwWWNRWFBZQy1SNjBPQ1N2LUxGYXkwaTkwZ2pOS09aeTNPME1oVERsUEhLM19hNHVTaDFpdHQ4LURMNVVNVHRDYkhFUFZwYzdiZjgzZE42bG1LbUplVGhpWWFmUmU?oc=5"
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaEJoWVphTXpnR2tSRTR1N0t1d2FsNDBiclJrdEdCSnNMdEhzQURydWl1WHNNWE5EaUVSa2dDdFQ1SEJnRW13alJ2cVpjZ2dtVW9rZUVEQ2E3TFhqN0oxb0REcmMxUldRc3VSVGp6eVBOUHJwLUFuLTAzWUJkODQ0ZFZsM0F0TVBHcHpBZWRnZE5ibWNRTHpvNE9nU3ZxRVBBVW5fc201M0FnRzh4NjhCSXZSRWZQWDJ2SXlZbVUzY0RkaG5LQXVPS2NITzkyckU?oc=5"
     }
   ],
   "insight": "Tracking Best Buy (BBY)."

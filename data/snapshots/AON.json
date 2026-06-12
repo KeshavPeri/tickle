@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:47.095Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:23.398Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    312.7900085449219,
-    312.07000732421875,
     316.3500061035156,
     310.8999938964844,
     315.4100036621094,
@@ -24,11 +22,11 @@
     322.239990234375,
     328.5299987792969,
     325.8500061035156,
-    331.5899963378906
+    331.5899963378906,
+    336.3299865722656,
+    335.1700134277344
   ],
   "6m": [
-    353.9200134277344,
-    351.1700134277344,
     345.70001220703125,
     344.45001220703125,
     347.7099914550781,
@@ -158,10 +156,11 @@
     322.239990234375,
     328.5299987792969,
     325.8500061035156,
-    331.5899963378906
+    331.5899963378906,
+    336.3299865722656,
+    335.1700134277344
   ],
   "1y": [
-    349.4800109863281,
     355.7799987792969,
     353,
     350.0400085449219,
@@ -410,12 +409,20 @@
     322.239990234375,
     328.5299987792969,
     325.8500061035156,
-    331.5899963378906
+    331.5899963378906,
+    336.3299865722656,
+    335.1700134277344
   ],
-  "lastClose": 331.5899963378906,
-  "oneYearReturn": -5.119038023933611,
+  "lastClose": 335.1700134277344,
+  "oneYearReturn": -5.792901630860822,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Should You Ignore AI Hype and Buy Aon Plc (AON)? - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YaDVUanJxdnFtYVc1c21RZ3hnaHN4N1JBcklYRk5uNm5ZNTBUS3ppckREbzd1ekM5NU1PTHNBdmJud1VoMHJjWC01ZUJwcVZRU0RJd2hfYUg3T2htRTNMbktKVFlXZnhFSTkteDBRNWFBSHhidGdUQ2J5NA?oc=5"
+    },
     {
       "headline": "Why Aon Stock at $331 Is Worth a Closer Look After Four Straight Beats - TIKR.com",
       "source": "TIKR.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUkxLUN1VGNHMVR1ZUE0dlFYdzR3YVoxdHkwY0hUbjUyVjhkVF9scVNLQTRqS2QzVEo1MEJjc2t6SDlvT09NdlpQR2kzNDZtOWlkUndGdi1IbWRRTjRUdDJ1UWFVX1ZPbkJQM1hwWTVaWUhyYW9mc0pzR3gzSUoteEFhRWc2TGpxM0tLbU5teVU4M2NwWlBaUm9EZw?oc=5"
     },
     {
-      "headline": "Aon PLC stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaTZUUWpvMnBONVUxQ29jM0lFbnFaOHdjLWpsbDJaUUFneXhoQ3NFNUwtY29VVlZibm1wWkJXUnN3eThlNzBlTW12eEFkUzdpd0RUVG5pNWlMTkxhLWoyY1FvT3lKdU0xTGlmbUh2ZGo3aTU4VUxMQ25EOE8xWUpKMk41QndMa21MT1N1WWl0dzVKVFhseUdpMXJ1c2hKemdSeGZJdFprQkY3TFRvc09tZERua3EwZ0c1TUp3UlVEMGxOOV9XbXhIZnZXMEJsSzgwV3JDajhHaklVbEJE?oc=5"
-    },
-    {
-      "headline": "Diamond Hill Capital Select Strategy Picked Aon plc (AON) Downplays AI Disruption Concerns - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGJaTWZqRW5OTjdpaVVtb1dEdzRxOTRTTzlENF94cFFaT2ZfTW95YkkwVFJTNU94YjVFeVJzTWpyN2kyQzhMQUFuUkpJTjZkUzI3S2sxNDBMX0kzZ2ZoZnVaT3Rzek1fSll2X2hqVFVRc2dLRER5VzlCSzVueFh0RUxRUU43eXhiQlhGYWFaZUpSMlpITWpNZVVTdGtNVll0ZmUw?oc=5"
+      "headline": "Should You Ignore AI Hype and Buy Aon Plc (AON)? - Insider Monkey",
+      "source": "Insider Monkey",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNG9LeU1GRkhydmxnMk5Lb0pNeDlPRGpnY2N2T2tPM2FXMnFmWDBPd05BU2FlcjVON0gtTlB2RGdhejQ1TEVxV3g5TmxXWnMwRHoxVjJWZ2g4bU5IdW11bnJwcnAzTjJzUDFiMWRoZS03NFF6SlVwNEswOVduRmJZV00zRHAwQzYxTW0xYldIZDM1ejZQNDh4ZzRUTdIBmwFBVV95cUxNNG9LeU1GRkhydmxnMk5Lb0pNeDlPRGpnY2N2T2tPM2FXMnFmWDBPd05BU2FlcjVON0gtTlB2RGdhejQ1TEVxV3g5TmxXWnMwRHoxVjJWZ2g4bU5IdW11bnJwcnAzTjJzUDFiMWRoZS03NFF6SlVwNEswOVduRmJZV00zRHAwQzYxTW0xYldIZDM1ejZQNDh4ZzRUTQ?oc=5"
     }
   ],
   "insight": "Tracking Aon plc (AON)."

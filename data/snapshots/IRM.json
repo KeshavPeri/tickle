@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:12.185Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:53.986Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    128.83999633789062,
-    129.9600067138672,
     126.20999908447266,
     126.12000274658203,
     127.75,
@@ -24,11 +22,11 @@
     130.25,
     124.66000366210938,
     123.5,
-    126.13999938964844
+    126.13999938964844,
+    123.36000061035156,
+    125.16999816894531
   ],
   "6m": [
-    86.3499984741211,
-    82.83000183105469,
     82.7699966430664,
     84.27999877929688,
     85.02999877929688,
@@ -158,10 +156,11 @@
     130.25,
     124.66000366210938,
     123.5,
-    126.13999938964844
+    126.13999938964844,
+    123.36000061035156,
+    125.16999816894531
   ],
   "1y": [
-    100.9800033569336,
     102.51000213623047,
     101.58999633789062,
     102.06999969482422,
@@ -410,10 +409,12 @@
     130.25,
     124.66000366210938,
     123.5,
-    126.13999938964844
+    126.13999938964844,
+    123.36000061035156,
+    125.16999816894531
   ],
-  "lastClose": 126.13999938964844,
-  "oneYearReturn": 24.915820158751544,
+  "lastClose": 125.16999816894531,
+  "oneYearReturn": 22.10515614134988,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMTVkRTd1Mnc0d1FmbWNfbUtKbHdDaEdSWmdQTXg5Yi1vNHJ2Sjd5cEpVRzBNdnNjaE9ZTlhqemJsQl9LS1pGUExELXplbW5WdVVqNzd1c2MxdE5Wc2tXQ0Q2ai1JNmFLU284TnpsZWJDNTJ0YS14NkpxZVR0UnBMd0luNmFOdVQ1dkVSRnRMaDA3R2dyTVVCTE1JYkxDZWFyRHc?oc=5"
     },
     {
-      "headline": "Iron Mountain Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "headline": "Iron Mountain Inc. stock rises Thursday, still underperforms market - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTzAtNEItdXRZUmdSX3BlODRmazAtN1Y5eTZzZXJNTVVyLS1XMFdMUTFpWGJVWWJqUlBjNnFwREZBblZWODZRZEhyTUQ5cHZsV1g2NDBJVTdtUVA1OGJ3QURlUDFfdXVEcnotTFdTSlphYTdlYURacnY1LUhpbVE4R1VJakxFcXhmLUlPdkU5SzlCTzYzbUdBeHJxZEprWlFwNkJQdzk2UEZMcmJBMDVsZ2tHWlpEazdTSkIwZUw3RGw3MTNFM1FuQ0VEUDJYQmJuNkdnMEM4Q203M2hrZ014WGNBNVRMTEVoT1E?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTllzUG5PSzR0eDVsZjRFc3pHWjNLWHFFMDQyMGRwOG1ZeUQ5c0lqcFZLR3FwOHZTRkRkNllmWG5wUzE3RGNlandUWnJjWDJPYkZQaXNuMW1xYXJkOFJXT0dWMnl0UGFYeGJBS0lydFZEeHozbExkWHBjcVpNcktiLS1Nc2lNZnFtYWJwYWNYWERoeXk3SjAyUnJEM3l0V1dUR0xNX3NqeG9zb29sSXhlbXg4V1pLcEJKWm5jWVVoa0xvcWhBVERuNkJEQ25rWTBxeVU3aFoyMnk5UkE?oc=5"
     },
     {
-      "headline": "Is It Too Late To Consider Iron Mountain (IRM) After A 243% Five Year Run? - simplywall.st",
+      "headline": "A Look At Iron Mountain (IRM) Valuation After Recent Share Price Momentum - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNckpTbUE2c3lMajBlWlNwUUF1bWV4RzNVOF9fd25IZ3ZPSjNRZ0tPYjgycVdCTjd2WDZJa1dCVmUtWTNIVjFpeGVLLVJub1JYZGl1MEt0Wks4SFdEdEZuX2pkZXBMWmVyVXhHTnNfa0cxZmRrRTB4YUlUN2w2bmtDU3NYT3BoWkh2ZTlOaEh1c3lzSWpocFNLUnlmZHZPaUJ2MGFpMnY1Y2dZQ2ZrbWdEOEFKcXJZMnpNUnlkX0dKRWlzZnZjMjVnNDJ4M2zSAdIBQVVfeXFMTWRkcE1fVWhCWDB2dy15RFByM195UHFVOFBjZlJRemVOa3dfZkp6TVdLMmhOb1dnd2cxU2d3dlBydG5pOTAxbExCMnM5UXdJcTRGRTdjWC1IVzNhRXZlMWwxUThQeTVvS2VWVE1CTmh0RlAxTHgxTlczQVFlZGJPVmVQcHQwZzk3dWtWWGplMmpjQmlwOUtBVElXMlZWbWloQnRBaS15RVVlc21zdzBiVDZTalRtVUNLNnRrb2U4c21yZUNSUXdwUV9TQ0hCeDFGeVNB?oc=5"
+      "when": "2026-05-26",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY241bXcwOElCd0h1Sm0ydTQ5M3c5c1ZKV1VPbmlEVzIwREFQcmlrczcyTFM2NnRLNnN1OUdtb3ZLY1VKTTNyc1BPS3VfOU9vMEJBX0EzdDdEdDEtOGJtRnBLZjdQTTd3bVNjRGk1eHVNemNMdHBCanVRRUJJOEhZUVFfSE9qbjRDdFRhMElFV3F5YjVtdlFiSVB4X0JsN2xUVmg3WVdKRVVUWEJZeXZqZjJNZ09wZGw4YjNySkFFdzVlSDhQMmg5ZU1CLWLSAdIBQVVfeXFMTTktU3RGTDVobEx6elRwQ0dmZVJwVV80VDVFWnN4UU81TjRaNHA2UldKajhSWV9kYkZIZU5wZUF1bjRtQmlWeWtIb2dSWXZHN2ZtYlpnbU9aSnV4LTV6eWNPR2o0TWxVdW5TWE9KeHpfTXFXUGxVendNXzlUdGxEWkhMZmxhZ2xIOXE5WXRmNl9fMUtpb1lzTV9lN1VELXdjR2JMTi1oTlIwTV9EbE41ZUNic19EVTl6a3lyVlVpTHFPXzVWR2JiT2Z2YnBwQ2FpMFZB?oc=5"
     }
   ],
   "insight": "Tracking Iron Mountain (IRM)."

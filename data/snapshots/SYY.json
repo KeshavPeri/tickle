@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:24.398Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:09.037Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    72.44000244140625,
-    72.56999969482422,
     72.9800033569336,
     73.19000244140625,
     73.05000305175781,
@@ -24,11 +22,11 @@
     74.3499984741211,
     76.29000091552734,
     76.4800033569336,
-    77.55000305175781
+    77.55000305175781,
+    78.54000091552734,
+    79.63999938964844
   ],
   "6m": [
-    76.19999694824219,
-    75.91000366210938,
     74.44000244140625,
     73.36000061035156,
     73.44000244140625,
@@ -158,10 +156,11 @@
     74.3499984741211,
     76.29000091552734,
     76.4800033569336,
-    77.55000305175781
+    77.55000305175781,
+    78.54000091552734,
+    79.63999938964844
   ],
   "1y": [
-    74.73999786376953,
     75.38999938964844,
     74.29000091552734,
     74.75,
@@ -410,10 +409,12 @@
     74.3499984741211,
     76.29000091552734,
     76.4800033569336,
-    77.55000305175781
+    77.55000305175781,
+    78.54000091552734,
+    79.63999938964844
   ],
-  "lastClose": 77.55000305175781,
-  "oneYearReturn": 3.759707343195471,
+  "lastClose": 79.63999938964844,
+  "oneYearReturn": 5.6373524796493815,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWWVaLVN4RjZQRUYxejl4Rk1GTzFwTzgxQzVBVlQzTTh1NUdqSmdHRVlHTUhBZDc4TktIX20tVjNNZ3RvTVdHQy0zcko5eG5hQkpGZGRzcXdxcjJRRlpQNE9WMXFEYTBDWXlucVdRWWNSdlVqTHhWalNEa2RWRlZLbDFtQTFXeWx3ZTMyaHR3Qmh0cTVheUExRlNwYzNpZGRm?oc=5"
     },
     {
-      "headline": "How Sysco’s New Fulfillment Spend and Pricing Tools Will Impact Sysco (SYY) Investors - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY29RaldaODhHZERFTy1PcldOb2hYZHdtR054RTNYMlZXdDJhVk1yQXZDc1djYmlNT1h0ODE0MnV0QXpnWlhRNGhSTkdwOVFjZy1CZUlXRE1mQllFTFpLaU44V3RIcGI2eWJOeVdac2xERS1MY3QwcERsMTl4QnFBOUdtVHNTd0xFTzhzRHhBRkdLRDlkSXlmS3FQSF9pUjlfdjZnUVNMVjZzRXZ5elp6NlBlUVBycEVxOW1RQkZhd3NzUFA0ckFQQ2dkSdIB0AFBVV95cUxOZ3FlWTN0WjlkTjdxMldvLWthVjR6VVFEZ3lxdVlScGRMU1F1eWxEZE4wTjVDY0s4RDVteU9LSm05cjNBYWdFNk9GVW94YmU4V1dEX21ISHdQdFozNmIxWXU0MDF1RGVVMDN4N2RfZXNCRG9hWHRUVnZYWXE2QVpQVF9RRjlJR3dXTUc5LVE4cWNCV0dsTDZLX0NVck5UdU9DYTFXVmt4V3REZ2Y3elpvRFpoVVp6cWdHNnFtU2pCbmRqQktJV19uQkw2Tnc3YnFD?oc=5"
-    },
-    {
       "headline": "SYSCO CORP (NYSE:SYY): A Reliable Dividend Stock for Steady Income - ChartMill",
       "source": "ChartMill",
       "when": "2026-06-10",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVM1WURQaXhheUVteXYzbTNnS0QyUzVzX3pRZnpmVi1ma2ZvS2RCNVFBRkVpRW9hMERIRHo0U1MzdzVMcXJGX2t1NEFQbWtwWDNnTHVlcXdMam1LdjYtb3ctLUFXcDZKSEZ5bkpVbkZES1d5eU1fZEt5d1NEcUt1MWpidklsV0QxU1dkcHBfNmZXbVFFRTczeXM5MnhZMC1nMXl5MHg0em55anJyNDEybXlQYw?oc=5"
+    },
+    {
+      "headline": "Sysco Corporation $SYY Shares Sold by Heartland Advisors Inc. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0JUQWNhbW4yblVQaF85VVMwbjNHYXFvejlWNmhYZWZ4cWVFVG5ITHdScWVDNzBaOE5PTkgwd0pacjNXWk9PZnp5cURnYmJseGtQUVhyZGY3WHY5dzJZQkRCVHJmYWR4cTNzVVVmdm5tdklQX21Qd0tGb3dlRUt2WnRfcUpQTnV6SFFucFdaeXpCR3pqX3BDQkQ2RXZWRWgzMHE5aEVOOXo5TjNZblZwZ3E1VEx2YldOWFJJeA?oc=5"
     }
   ],
   "insight": "Tracking Sysco (SYY)."

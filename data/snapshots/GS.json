@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:08.373Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:49.447Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    936.47998046875,
-    944.8599853515625,
     945.9000244140625,
     955.4199829101562,
     968.9600219726562,
@@ -24,11 +22,11 @@
     1092.6099853515625,
     1038.6800537109375,
     1045,
-    1032.010009765625
+    1032.010009765625,
+    1001.2899780273438,
+    1035.6400146484375
   ],
   "6m": [
-    826.0399780273438,
-    810.8599853515625,
     815.2100219726562,
     836.5700073242188,
     837.8300170898438,
@@ -158,10 +156,11 @@
     1092.6099853515625,
     1038.6800537109375,
     1045,
-    1032.010009765625
+    1032.010009765625,
+    1001.2899780273438,
+    1035.6400146484375
   ],
   "1y": [
-    624.1699829101562,
     625.1099853515625,
     613.5399780273438,
     627.8499755859375,
@@ -410,17 +409,19 @@
     1092.6099853515625,
     1038.6800537109375,
     1045,
-    1032.010009765625
+    1032.010009765625,
+    1001.2899780273438,
+    1035.6400146484375
   ],
-  "lastClose": 1032.010009765625,
-  "oneYearReturn": 65.34117916948495,
+  "lastClose": 1035.6400146484375,
+  "oneYearReturn": 65.67324773511535,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Goldman Sachs delivers clear message to stock market investors - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVRIcURFMTR5Znh2U0JaNlZwNWxSbzdsdWxXUm5YUFY0aW1SX1VCNHEyRVdZWVU1RjBJYUxNRHJFUEJZc05yZlpZY0FDQW5KZmJ0UUhBQnhtVjBkbkdseTZXYTdYYURyZkRnX1hzQ0EzbVRjWjhuYnNpWDRlLUNqS05waE9QSk44bEd3bkpLUzZ3eW0tMWxyaWxYeks0WlU?oc=5"
+      "headline": "As artificial-intelligence capital expenditures rise, so do the risks for AI stocks, Goldman Sachs tells investors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM1FOZkNWYzRkU1hDbjFSRXAyUGtXaEhlNHM3aWh6aE5uY0x2VUdscHVuNkctUjdxb04wblU5aU95dWNDRjBleFRLaUpfcFNSaWJESnBkcU1MRUhyTC0tQjNVa1paN0h3VW5ESXA3Y3h3RC1YRDdfRHlvUUktbUVZcF9MSDlRNlpUXzhMaXpfdWxJTGJ4eTBFSml2MW1haUlSSG0xem85RlNoWno5NWFsSFBVODhwUW1ERV96bHhkeEliSWcwZklXSXVnMWpSYUlvakl6emExMzdxOTk5bGZSaWhDR2pyYzAyTWVZ?oc=5"
     },
     {
       "headline": "MU Stock Slides 2% After-Hours As Goldman Sachs Doubles Price Target But Keeps Neutral Rating - Yahoo Finance",
@@ -429,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX0taZ1B4S0dLSHo3YUQ0RFFUd0J2QVNsVDdJcW5pQk9IQ0NEN1ZJSEZmeUd4Uy1TQzVVODVGUFd4Ung5S29KaHZxSmtBSnRSSnVZZXZVdGpkcjVwSUt2LU5ldHJlZThyejFpQ2NMbllkczg5UVd0dTFxNllvVl95LUg4R29EbEszcTEtOFJCczZRdw?oc=5"
     },
     {
-      "headline": "Goldman Sachs says the AI boom is bigger than investors think - Business Insider",
+      "headline": "5 charts from Goldman Sachs show how AI mania compares to 2000 and 2021 - Business Insider",
       "source": "Business Insider",
       "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQjVZeU8tQmZSVm55WUVSU2pPUnpIVFVXd09qeV9KWXpqNUV1TWEyY0ZNakVnZ2s4T2J4VHZycmNLelJuZHAyVzJJSTE0V25uUF9uTHRTVlMwQUlCOUFFSUNqWXVYd0Q0QW03ME1wUE5lUUdWMXpyWTlCckx6TzNvT3Z0U2RtQWU5M2VjTnRJb2EzMlFzd3RST18yWXNmWGVa?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZVRLdkVUTjFteVg3cGVuYmIzcFhxUFNpajFqU0VFSGZFODlNSEg1Tnh2dTBad0NjTlV3Zjg3UXNHRDAyZ3FidG92Q0hvMGNOUXVlQTlFczMzTHFmV29lMGE4eUZYeWQ5aWRsU1V3TnBGSUwzc24wWnVORW1jcmxXd1ozT3BVY2t1bU5vUGpmdw?oc=5"
     }
   ],
   "insight": "Tracking Goldman Sachs (GS)."

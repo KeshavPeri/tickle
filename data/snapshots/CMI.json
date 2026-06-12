@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:54.713Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:32.597Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    679.5499877929688,
-    702.6599731445312,
     704.5599975585938,
     709.5700073242188,
     716.4500122070312,
@@ -24,11 +22,11 @@
     678.0999755859375,
     651.219970703125,
     672.6799926757812,
-    669.22998046875
+    669.22998046875,
+    630.52001953125,
+    655.6900024414062
   ],
   "6m": [
-    497.9800109863281,
-    496.1499938964844,
     501.5,
     507.80999755859375,
     510.739990234375,
@@ -158,10 +156,11 @@
     678.0999755859375,
     651.219970703125,
     672.6799926757812,
-    669.22998046875
+    669.22998046875,
+    630.52001953125,
+    655.6900024414062
   ],
   "1y": [
-    323.5799865722656,
     324.739990234375,
     319.5299987792969,
     322.30999755859375,
@@ -410,29 +409,31 @@
     678.0999755859375,
     651.219970703125,
     672.6799926757812,
-    669.22998046875
+    669.22998046875,
+    630.52001953125,
+    655.6900024414062
   ],
-  "lastClose": 669.22998046875,
-  "oneYearReturn": 106.82057242106036,
+  "lastClose": 655.6900024414062,
+  "oneYearReturn": 101.91230589376265,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Cummins Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdl9ZLWhsT0hrWUs0REdEcUxaRzd1WXZERTM0N3NOYTR5VW00ZEJXWm5VMkpfZVJIV0JOWkRldHFVMk5yVXpqSFdpWFNlMzFjbUYzSTRXNWNHaHU0SzRiQ0JNbEtWclhySWtUeW5iR0xTN0NrVGZ3SlEyRWwzNUV5dW9ZazRSVmZkYTloTm9mRXp2TllKRndsc2dvUVNPYVkxb3FndXJmZWdNMkJwVE83aGJWd0FzUlhETEVmeE84YzlnX2ZpZ1d2NlZGb3V0clg3UDNsZEE5V05qX0JjWVprSGhWQkVTYkc1d3NmZWR2Uk5vUEpSVUZkX1NfVQ?oc=5"
+    },
+    {
+      "headline": "Cummins Delivered Strong Operating Results and Returned $519 Million to Shareholders in the First Quarter of 2026; Raises Full-year Outlook - Cummins",
+      "source": "Cummins",
+      "when": "2026-05-05",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNck5iYVRkX2lhMXhGcmZhWkNRZFdYdl9pU0JPN2hXWnNKWUNnRmdkbnVWbmJ4VnNfY1huaTNDQTBPcVdhb293RnduNzFuSWpySmw1N0lBRzEzZklsQjljOElKV0x2WG1GNTF2aHZFVlUxcWtOQ1dNdjdseFhOamxDNmZTN0pUemlLV2ZJcWZ5RzRDU3J3eFI1UVRhQk0xMWtCa2c?oc=5"
+    },
     {
       "headline": "Atkore, Cummins, and MasTec Shares Are Falling, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONm5NbERkaVRKUlBteUI1Q3o4SWNxYm4zeGhCREhtbFYzcXRudHJuZVBQbVRGU2NjRngwamZIaTVubUdXQlYtendIdTM4SzRnZTB4RXpUU1EzMzZHeHV4TnJCcWt0eVJoeC13S1lYVGo3SG9ZVUM5N3VucEhiaGczQmE5TktxQ1o4aHZIZGtpMWdXYVdTQ2RrT05xbG5ENHdNempR?oc=5"
-    },
-    {
-      "headline": "Atkore, Cummins, and MasTec Shares Are Falling, What You Need To Know - StockStory",
-      "source": "StockStory",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ3g1R19Rbzc2ZWxoSEN2ckdKVUpwNTNoVXk0X2FOdEp5NXdPVW5KbXRTR3daTmw3X2FlNzc4cjN4UUM5RzltZEhDZElUWFRyblV1REFLaGprTk1PcFVGd09UM1psc1EwR0hWc2Z3XzhqamVEQ0Jpc0pLTFNfeWNGWVpqTVVGV1ZCSHpOWXhscklDNWtGbEw1OFZMZk11VW1CRmRUUzBRVUxTOUJIU3cyVkxmYXlUSmdDN1EzTktqNXdqY2ZO?oc=5"
-    },
-    {
-      "headline": "1,000-HP, Sleeper, Compound-Turbo 6.7L Cummins Engine for LGND Supply Co. - Engine Builder Magazine",
-      "source": "Engine Builder Magazine",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUXZxb2Ytb0tnTVFWM2pWRWJqb1JnTjFjV2pIY1E1YzVuMi1DYmdrYmE4cVV2NGItbTZIX25mS1NRdGs1WVpnYTBKVGh6QmtQbzRyalJIcjFnRFV2U1BNU1FKVXlOWTQxdmw1OHEtSUN2TUdrWWN0NGtEWnNnZW1tbEstV3JPY2pjLTlHa1dnS1hmWlR5a2pJVVYtamFHN1VvYmRTb1d0RWlVbUdTdWlIMg?oc=5"
     }
   ],
   "insight": "Tracking Cummins (CMI)."

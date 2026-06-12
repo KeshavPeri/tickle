@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:18.170Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:01.360Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    88.91000366210938,
-    88.4800033569336,
     89.48999786376953,
     90.20999908447266,
     90.93000030517578,
@@ -24,11 +22,11 @@
     88.44999694824219,
     87.27999877929688,
     86.77999877929688,
-    87.5199966430664
+    87.5199966430664,
+    86.72000122070312,
+    86.73999786376953
   ],
   "6m": [
-    90.91999816894531,
-    89.36000061035156,
     88.51000213623047,
     88.31999969482422,
     90.29000091552734,
@@ -158,10 +156,11 @@
     88.44999694824219,
     87.27999877929688,
     86.77999877929688,
-    87.5199966430664
+    87.5199966430664,
+    86.72000122070312,
+    86.73999786376953
   ],
   "1y": [
-    86.79000091552734,
     86.9000015258789,
     85.58999633789062,
     86.68000030517578,
@@ -410,29 +409,31 @@
     88.44999694824219,
     87.27999877929688,
     86.77999877929688,
-    87.5199966430664
+    87.5199966430664,
+    86.72000122070312,
+    86.73999786376953
   ],
-  "lastClose": 87.5199966430664,
-  "oneYearReturn": 0.8411057954125003,
+  "lastClose": 86.73999786376953,
+  "oneYearReturn": -0.18412388872251717,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Nasdaq Announces Results from 2026 Annual Meeting of Shareholders - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRDdZODBXMnIxTjNDMkJZSzlOV3Q5c2dSSzVDbENXX0Q3WGkzeEV3blktemN6d0prTU42cFV3ZW1mRjJobEZxRC1yTEpRWnY2TGhpeUplT084YmdQWWZ0bnJlZGJNR2l3QXlUU1JxelBZQlh5SzZxUE1CUGJ5REVqYVJvcGhlMlVQMWxJbzltQjAxMWoxZlhsdVNJQkFEV01wbUdVMkJRRTFTek0?oc=5"
-    },
-    {
-      "headline": "Nasdaq, Inc. $NDAQ Shares Acquired by Motley Fool Asset Management LLC - MarketBeat",
+      "headline": "Nasdaq, Inc. $NDAQ Shares Sold by Los Angeles Capital Management LLC - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSEVCYmF4UzcyRkNyQ2RqaktScHFoX1ByX0lyM1FtVVd6SWM3S1VjcWNCLXdTOU1QQVY0bFZnenpuMlFTVnRHT2VwbUd4TV8tb0xXa2lQNTd3ckRCQUdxV1lmY0Z2cUs2aUVkUTdJTkxMdUZCZU9mUER2NDlBaDE5NTFtc25reXVRTUFiazJfNjJRTGQtQ09JbjJUZy1CQVlkQ3lyTGJkWGNabkcySzN0SFE2TXhZWW5FeWVoNGtkeVJfNWh4ai00?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQkNyS1g0b0wyN19OQnJzMnF0U2I3TW51TkNfd25YUmVycFpFVkV1UWotRVlRZTF5Sm9EMm1nWXJjV3RvVTNxVXc5Z19YY053ZWJQTVB6SV9jeWh2SF9pUlczblJ3d0p2X1gwMEJIUmZzSjhucUtIMEhHWmlyX1djdUNDclJPNGxjd3dnajRBdjFEaFhMZDJFM2Q3cDFMMEJidkNHY1lucTFIRzlJcmxsZXZiWlA0RWJCTTY1NWhqUFpfMnBL?oc=5"
     },
     {
       "headline": "Nasdaq, Inc. Stock Is Off Its Highs, Despite Strong Results - Short Put Plays Work Here - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-02-10",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYTHJOTVlTX0Zqajg0N2cteXV2bHRqX2dQcjZNYTRhQjZ1blRyaTVULWw4RFFUTktldXFaRklfUlBoOVEyeXdQM2l2T05rMXJiVVRqRzRPVEswVXFSaUlxTkI0VVlHblZSN3Nzd2U5MUFKbF93VU9kbk8zUDQ?oc=5"
+    },
+    {
+      "headline": "Nasdaq Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbzFQUXpVWWVaYWNybW1qdFFQa2dkOTh4aFpXZUE1SFRSQjJtNHUxNkZWRDFSdmF2ZWNSWl9GWTUxaVJRUnA3RFUwQ0NYSVRxZVZ1MDU2LVVWdDBzcjIxOHNNWWJaZGtsblRITzNDMVdWd2RhSDEtUmJFUmo1S1J1bTF0SmVZclU4dDZUMHpiQUR5TUFkMU9tajFCVHUtWXZXaXV1d2V1emFlcWFxdEJodG1iaUNjSDc1S1V2eUFlcw?oc=5"
     }
   ],
   "insight": "Tracking Nasdaq, Inc. (NDAQ)."

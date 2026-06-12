@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:13.758Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:56.162Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    23.959999084472656,
-    23.260000228881836,
     23.3700008392334,
     23.18000030517578,
     23.309999465942383,
@@ -24,11 +22,11 @@
     22.469999313354492,
     22.579999923706055,
     23.350000381469727,
-    23.43000030517578
+    23.43000030517578,
+    24.049999237060547,
+    24.219999313354492
   ],
   "6m": [
-    25.510000228881836,
-    25.3700008392334,
     24.959999084472656,
     25.030000686645508,
     24.59000015258789,
@@ -158,10 +156,11 @@
     22.469999313354492,
     22.579999923706055,
     23.350000381469727,
-    23.43000030517578
+    23.43000030517578,
+    24.049999237060547,
+    24.219999313354492
   ],
   "1y": [
-    26.420000076293945,
     26.459999084472656,
     26.079999923706055,
     25.790000915527344,
@@ -410,18 +409,14 @@
     22.469999313354492,
     22.579999923706055,
     23.350000381469727,
-    23.43000030517578
+    23.43000030517578,
+    24.049999237060547,
+    24.219999313354492
   ],
-  "lastClose": 23.43000030517578,
-  "oneYearReturn": -11.317183052550487,
+  "lastClose": 24.219999313354492,
+  "oneYearReturn": -8.465607893511411,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Is Kraft Heinz Company Stock Underperforming the Dow? - Barchart",
-      "source": "Barchart",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM1VtRjNnV1E5cWFGYjI2dTlmXzFLUWNWV0s3UWFLNk1qNTJtTUhIaEgzZnA1QklwSG5KMnk5VHpoZTZrNDIxNUotZ2J5cU9NYzlTZnhqRXAxaktBVVBQWGotWTdyUUZJRWVJNk0xckp4QXRwN0RhTk4zbTZuUHBtV2txdDJKTUNOOGo3VjVXbUNVYVdwNUFGNnNpSC0?oc=5"
-    },
     {
       "headline": "Kraft Heinz Stock’s Winning Streak Still Hot: Retail Bulls Bet On Dividend, Turnaround - Stocktwits",
       "source": "Stocktwits",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZFpFZGJoQjNoeGdWSTN0UFdFRkc2WUIxMm44bXhJTDJGN0FiQTFTczFxM3NoeEFMVll6bHFpbVJqOGVyVXRRUFUwN2MyOVotaFlvcGFHY2YyR1RfWGE5NzlFNnVxQ2xuNEhzUG9fdzJjZlY3MWNzQUZPTnpaMUM2WXB1elpkNDlGdGtyQ2xRV3dnUUhjZjAzZEo2NGFXc1Rfald2SFoyY0swU29ZRFdxaTBzQjV2TjdlNVptdFRITUpyMjYzNWloZ2pScjJrWlBudzdJNm43Vy0?oc=5"
     },
     {
-      "headline": "Kraft Heinz Co. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "Is Kraft Heinz Company Stock Underperforming the Dow? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdFE3WEpTRFNpUm9JLUdUM2w1M3Jhcl9fMnVfOWxjaHU0bnp5aXR4c05hMl80Z2dlVEFnQkc5YU1kX0xBVG9KaHFrMFp2S1J6NFJWY0drSTVWRDB3X3huZVRXRWNtX3lsaUNnSTFaMzJGMHNwNmRZa01sa3RSM2t4R3hFRzRfZnJBeDQ1VlZ1b3Z6b1ZYM1FJcEZRWERvX0dMQUpSWVhJSTBtSDh1SFRxTzI0YmhEOWY4VnprOWtOclVxM0hkaTRDd05vS3A3TTBEY29aakxZOE5HVHZrTVdTaGJWRk5iNjR6?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM1VtRjNnV1E5cWFGYjI2dTlmXzFLUWNWV0s3UWFLNk1qNTJtTUhIaEgzZnA1QklwSG5KMnk5VHpoZTZrNDIxNUotZ2J5cU9NYzlTZnhqRXAxaktBVVBQWGotWTdyUUZJRWVJNk0xckp4QXRwN0RhTk4zbTZuUHBtV2txdDJKTUNOOGo3VjVXbUNVYVdwNUFGNnNpSC0?oc=5"
+    },
+    {
+      "headline": "Kraft Heinz: Undervalued And Fighting For Market Share (NASDAQ:KHC) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaV9yX2FRQkNyTmNPdjl5T18tLWR3OC1UZ2lya29ydFB6b2dGVUplT1d3anhwclVrWEJfOFZtNWs4c1JBS3dCXzVfeF9URkJFNGdKMFdWbDgxbjE2WE1QeC1jc3ZaVFYyTmg2RjNJVWM0NE96NjgxMmNXeDJuVlBZaEdHbDNGRWxrTmZuNVRtcC1OS1NyTURnWnB3?oc=5"
     }
   ],
   "insight": "Tracking Kraft Heinz (KHC)."

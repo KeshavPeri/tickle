@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:59.687Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:38.911Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    36.869998931884766,
-    38.7599983215332,
     39.43000030517578,
     38.84000015258789,
     38.779998779296875,
@@ -24,11 +22,11 @@
     34.790000915527344,
     33.970001220703125,
     34.20000076293945,
-    33.220001220703125
+    33.220001220703125,
+    34.2400016784668,
+    33.630001068115234
   ],
   "6m": [
-    23.850000381469727,
-    23.84000015258789,
     23.860000610351562,
     23.760000228881836,
     22.8700008392334,
@@ -158,10 +156,11 @@
     34.790000915527344,
     33.970001220703125,
     34.20000076293945,
-    33.220001220703125
+    33.220001220703125,
+    34.2400016784668,
+    33.630001068115234
   ],
   "1y": [
-    30.68000030517578,
     30.139999389648438,
     29.899999618530273,
     30.56999969482422,
@@ -410,29 +409,31 @@
     34.790000915527344,
     33.970001220703125,
     34.20000076293945,
-    33.220001220703125
+    33.220001220703125,
+    34.2400016784668,
+    33.630001068115234
   ],
-  "lastClose": 33.220001220703125,
-  "oneYearReturn": 8.279012028232739,
+  "lastClose": 33.630001068115234,
+  "oneYearReturn": 11.579302419181321,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Dow Inc (DOW) Stock Up 3.1% and Still Undervalued -- GF Score: 6 - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVEx2d01CSVZkMGZ5NU94c0NKT3g1TWxMRFFJT3g2Z3Jhc0lFQ0tobEktMUlYOGJ1bl8tRmdCVGNycmh1NHZPZG5Ja3R1SHV3TFFxYzhYYllfV0xVVzJVLUM0bGJ6MjdJZ1c3aV9mR1JVN0JZLTcyU3UtTWI2QXZOYWMxM01uTXZWWDlFRUsyV2FsX1MxTU5nSHdFRWZPdmtK?oc=5"
-    },
-    {
-      "headline": "Jim Cramer Can’t Believe BofA Downgraded Dow Inc (DOW) - Yahoo Finance",
+      "headline": "Why Dow stock fell 10% on Friday - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-04-14",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkdubDJJTFptZndXY1BPMjR4YjUwc1RGeDNVOWU5aU1QMGFZSDZKYk16VHRJazdFV0ttcjk5Sm9wUjE3YVI0S2pGOG8xaHFuSWxCNmk1TEM4bHZsMnFXRnZFX1Y5cGtQNnQxZ29memFwUTE2VW5PSXZmR1FscWJYRVU3MzV3RFVUcC1vWkRHMGZtRU55?oc=5"
+      "when": "2026-04-17",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2s0THJTUm9wV1pUQ0RlUno3a3VKSk1JMTIyRzl2bFczaDQzWEhDekhFSHBTelFYV24zaXE4MWFScGpqaWZKcXhqZlg4WG8wNGZhczNzNU1PcHhWT3VCcEF1VTBzTWxzbmRGajBtanl2TFNqVnVSdnlxcmo2V0JJRVhTZzB2TFF5RGlfMTlHUjJOWlZGYU1jZ2tQMA?oc=5"
     },
     {
-      "headline": "Here's What Makes DOW Stock a Solid Investment Option Now - TradingView",
-      "source": "TradingView",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUEJZUnFGZ1NzdGxkbXlSSnIwRm5aZDdnQVlnanU5LW85Y1NNeGtTUmxqWTFFa3RDdXRyeUNIX09fdzllOVRpZDdRQWdpdEdDaHFWaGlWUkVpVHZrdlQ5V0M0NUxGc2ptZ1NhQnhKemRWRlFkbTRlZVRwMmZZOFkxOGZoMEEtdGU2WXJtOURhamx5eEExYVRtQ1dxSmppbUJkX1ZMY3pET3pVVnMyME9KVzZDMA?oc=5"
+      "headline": "Dow Inc. (DOW) stock sinks as market gains: What you should know - MSN",
+      "source": "MSN",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaW1FQ2dPTTY5Rmk0cDdoamltVk9LQkpXeWJGbkNKaGVpZWppN041X0FxVVp3MnBseGktQ0pvRkwtLUw5SGwzVWRpZW5DaXlQdDF1WmNBbXRxdENXUWs3NkQxOUdVTlhhN1RSZlhYdWVFazRfekxUVmR3SFlaMXdWNlhpX001S0dsbXNnNWdPcnNYcFN6WVNaWU5lV1ZPUWlqRnotaDhwYW5tbXVGSGlta3ZldkE?oc=5"
+    },
+    {
+      "headline": "Dow Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQejJSR3JCY0pEbHY1VWhmMTAyREFGOFhEakphUFE5d1J4dTJ2SmVFc3NtU0syMVpMX240ZEplYW5KYlRnSTdqUUxuX0ZaNVluR0xqdU1qbk0xLUZnYlRUTnJjZW96bmJMYlNtSHdyUUg1bVlTUzFfRm1UX2Fyb3hKbjZQT3VOcGdaek9mMXJkLWJJaW9OR2s3Z0Y0QV9nczRpT2hnSkMtZmtycDJYVXpQS0F2WklhU19IMjQ4?oc=5"
     }
   ],
   "insight": "Tracking Dow Inc. (DOW)."

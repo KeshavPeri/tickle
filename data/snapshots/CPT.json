@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:56.111Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:34.248Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    103.7699966430664,
-    104.91999816894531,
     105.2300033569336,
     105.3499984741211,
     103.98999786376953,
@@ -24,11 +22,11 @@
     112.01000213623047,
     112.5999984741211,
     112.97000122070312,
-    115.4000015258789
+    115.4000015258789,
+    115.30999755859375,
+    114.44000244140625
   ],
   "6m": [
-    106.33999633789062,
-    106.05999755859375,
     106,
     105.55999755859375,
     104.51000213623047,
@@ -158,10 +156,11 @@
     112.01000213623047,
     112.5999984741211,
     112.97000122070312,
-    115.4000015258789
+    115.4000015258789,
+    115.30999755859375,
+    114.44000244140625
   ],
   "1y": [
-    117.41999816894531,
     118.48999786376953,
     116.12000274658203,
     116.16000366210938,
@@ -410,12 +409,20 @@
     112.01000213623047,
     112.5999984741211,
     112.97000122070312,
-    115.4000015258789
+    115.4000015258789,
+    115.30999755859375,
+    114.44000244140625
   ],
-  "lastClose": 115.4000015258789,
-  "oneYearReturn": -1.7203173859362615,
+  "lastClose": 114.44000244140625,
+  "oneYearReturn": -3.418006156958199,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Truist raises Camden Property Trust stock price target on easing supply - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObDFGMUFyLWUwQjY4THpoQ0tubEZJMEtuekJzZzdmR0x3MGZBcHVhTGQzS3ExUlNiX0tIWkZhRHh3RlBlTXlXeWUxempnWGtCS2lXLXBKVk05MlZTYm5XakJ6TUpXTHVWaGp5eDlhVDRqVTJLcVljVGJLYURNbFNCWVo1VFpRWEtCZ042ZnQzY1hJZHZuQk5fZzk3LWRYTVlXR0M0ZEF5RkFtUE94bzdwQUZ3MTRoUjNYcWJpdHVkdWoxWlQ5S2kyaDNqSQ?oc=5"
+    },
     {
       "headline": "Camden Property Trust (CPT) Valuation Check After Recent Short Term Share Price Rebound - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbU1fQ2dlei1iMkN6cEU2aEMwSHNDTGxLbEJ3VDM4THVCaG1qQm5NQlItczBtQ2NMb2NSQV9XMGZPaEQ2TWdocnBqa18tWVI5Yy16a1EwWWVHNG5ITzhkN050SklFblZmUUEybm85WHI3WC1vbURqMU92a2U5Qk1tbnpXcXh0MzFaeFpFUFZiVmhYOGdVMWVYeUY4NGgyUURjdnc?oc=5"
     },
     {
-      "headline": "Camden Property Trust stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-04",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdFkyLVhSUWxFNVVXMGpJbUVxRmVSdW1OLWp2ZlJYMDVTZ2VER2JPankwdUgwVVl6TWxrbzlGUmgyT0E0MWV4T05UVHRrRExDUkNCSlY2VlZONG9fd0NiUWd4SHRqVXVUc3RJdnJKOEhyWXBOQXpNaDdKNEZJSnNFdnd4SzlMNEY3MDZNOUI5NWhXTjQtYm96amtnR3ZlT09Nck14OS1BTVVCNmtab20xeHdNbjBHbDZxMlZzMUVTdy1zT3JBTUtRbWVXU001QQ?oc=5"
-    },
-    {
-      "headline": "Camden Property Trust (CPT) chair sells 30,000 shares, retains large stake - Stock Titan",
+      "headline": "Camden Property Trust (CPT) appoints Kevin J. Necas Jr. as principal accounting officer - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlJXeGwxVl8wMGpqMkl4OUxPc2tRMmpFdUl0ZDQwMno4TVp3NnJHaEc4eElPTHFhR3owVzR5UDZGWFRnNUVabWg5X1BaZnFmenUzczRORWhJVlRScUNNdEp4NUpNREU4WXFRcWZHYklKaURnci1scTdIX0FFVFZPSmxwV2JWTmU2NjBhNFNtUFhXTTg0WjVQdDl2Vk5UQ1FIb2Foakt4cXo3T3pYcVhJNFNmYm4?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRW8yTFYtWWJtV3A0XzBLZEo3RnFlZjJ1bnpzLVJpV1dGV0x4T0FxOFQ2MEJqMjh2LUJLWHpBYW53emFKQjA3cXBNME1KczJDT0JVWE1vR0xBUGJ6UWotNHVRUUkxRzBIYWo1SDUtZTVJRFMzTE1DSjdoS0w4YWg0YUJOOWdMNUdPMWRDTTZLeFRzYWp3b2FrNkZRcWxEX3ZDS1FfbGU3SHRhXy05cmc?oc=5"
     }
   ],
   "insight": "Tracking Camden Property Trust (CPT)."

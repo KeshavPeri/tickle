@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:24.879Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:13:09.667Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    206.1999969482422,
-    206.1199951171875,
     213.72999572753906,
     207.66000366210938,
     206.69000244140625,
@@ -24,11 +22,11 @@
     220.75,
     212.64999389648438,
     205.61000061035156,
-    210.91000366210938
+    210.91000366210938,
+    202,
+    207.74000549316406
   ],
   "6m": [
-    226.14999389648438,
-    225.75,
     229.5500030517578,
     230.8000030517578,
     233.41000366210938,
@@ -158,10 +156,11 @@
     220.75,
     212.64999389648438,
     205.61000061035156,
-    210.91000366210938
+    210.91000366210938,
+    202,
+    207.74000549316406
   ],
   "1y": [
-    165.75,
     166,
     162.6199951171875,
     165.49000549316406,
@@ -410,12 +409,20 @@
     220.75,
     212.64999389648438,
     205.61000061035156,
-    210.91000366210938
+    210.91000366210938,
+    202,
+    207.74000549316406
   ],
-  "lastClose": 210.91000366210938,
-  "oneYearReturn": 27.245854396446077,
+  "lastClose": 207.74000549316406,
+  "oneYearReturn": 25.14458162238799,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "TE Connectivity (TEL) Is Down 5.9% After AI Data Center Revenue Outlook Jumps - Has The Bull Case Changed? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd2FUbmNUaEtiWVliSlpBbEdiT0IyVXV0aEhhNERGT2wtSWUzVjhXcEJpZXlPVVZMQ1RQazhmZmpEdUtISmcta1BOYWo2bGR6dmRMWlhfd0plSUlFTUE2N3hfR0hiSHFGUTBxM3FKOFF4VHBtNzNURldwbXN4T2xvREFEY0pUT0NaN25RbDdpTk1QbVF2U0E?oc=5"
+    },
     {
       "headline": "The Volatility Contract You Hold With TE Connectivity Stock - Trefis",
       "source": "Trefis",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1JOVHZYbkMzOHBZam5xaFQwOGZDTTA5Rnp3b0tfM0w4ajlYQWNLNFJKMDZCanBBdzVKNmt3bDNQcElUMWtZNWlwZDFBa3ZRZkZMbVpMT2V6a0duSmItRGVmS09yTmFJVkNJUm56bDRBaTRveHVyUkx1eFhkT0xuLVJGOU1YVTBuYmlnaUt0cVlTRHQzZVVobGlldl91d0NPV2JRWmpNOFpySG1xMk1yejFHb2xPdlhyYXM4?oc=5"
     },
     {
-      "headline": "Is TE Connectivity Stock Underperforming the Nasdaq? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUd3OXJkVURzRWpuQl9zTFJabG1KRGFscmFFbEdwRWh6M2xURWJfNDctTkFiSnJQTXBTVWl1NkdWSnJ3bUZvdnZVamlvaGRTSVJBejAxTmdqODg0ZDhtclR0UGw4M3hSY05wVUdTdGwwY1FDZ0FFUW9WSTNLdWJjajJWbjRNNE1xNEpVelVGb3RVems4Szd1TG1yWFlyZjZmOWVaWUF0MVpZTWJQN2c?oc=5"
-    },
-    {
-      "headline": "TE Connectivity declares quarterly dividend - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPelNhdldzUmluUDJmWkg0M0dOZWd0MlhPYnpSR0V2TnBPX3pZcTN1b2k2cnJ3MWRsQzRXQXRuR0ZHYlFTMDlXT19CaHI1ZklhUHRzQ045Y000YXgwNnBqRGVKQnFES1NteThoRzVkTTJtZFRsYmZuZVJIb3BJYVZhRGkxUDgzSjJ4QjdmQ1J6S3lvZw?oc=5"
+      "headline": "TE Connectivity PLC stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNLUNnM091TUl2Mzg0OENMZU5BOVY1TkFvLVJNUkE1a2tvenBDWGc3akxFTm9pRWxiRWtSamZmZTdQMTFXZmJzODd5SDh5MEF4bmw1TFIxcTN4VEZEaW1XT3VZYjRRcmFGR1FtUk9aczlkZHdEUXdtdkd0UXlIbFF4QjJ5X0pjRDBSZG93ck5jbGRyeWZNdVB4bmZXOEFxNkp0ZVZRNGstenR3ZEZIUEFwVFpBdjc4M200a0Y4NXFEZ25QZXpuTnVaYU5qa3ZlM284QWZoUmc4WnhiczZnRzlaSzlvVkJiOHdlM3pPaXE3UWFldjcwMmdlTkZveTBCS1dUX2M5WXhn?oc=5"
     }
   ],
   "insight": "Tracking TE Connectivity (TEL)."

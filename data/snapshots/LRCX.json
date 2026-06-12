@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:14.870Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:57.392Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    294.04998779296875,
-    296.04998779296875,
     289.239990234375,
     295.44000244140625,
     299.1499938964844,
@@ -24,11 +22,11 @@
     336.4100036621094,
     303.2799987792969,
     324.45001220703125,
-    327.1600036621094
+    327.1600036621094,
+    321.79998779296875,
+    362.5199890136719
   ],
   "6m": [
-    156,
-    154.7899932861328,
     158.19000244140625,
     159.75,
     157.08999633789062,
@@ -158,10 +156,11 @@
     336.4100036621094,
     303.2799987792969,
     324.45001220703125,
-    327.1600036621094
+    327.1600036621094,
+    321.79998779296875,
+    362.5199890136719
   ],
   "1y": [
-    90.94999694824219,
     91.66000366210938,
     89.5199966430664,
     93.41000366210938,
@@ -410,29 +409,31 @@
     336.4100036621094,
     303.2799987792969,
     324.45001220703125,
-    327.1600036621094
+    327.1600036621094,
+    321.79998779296875,
+    362.5199890136719
   ],
-  "lastClose": 327.1600036621094,
-  "oneYearReturn": 259.71414473855293,
+  "lastClose": 362.5199890136719,
+  "oneYearReturn": 295.5050998579997,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Lam Research Stock: A Critical Enabler Of AI Growth Reiterating Buy (NASDAQ:LRCX) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSVY3Vi1zbVFZejNkRlhoUjBqWGk3d2YtempwdGp0NVh4eHRDX3dRREpmOWpaWGkta09YN0hYZXExNW9ONE1QUHhkRzkxenk5aTF6aWI2c05aUmxuQmlXbTJHY1ZnemJEVXgxUThNSUVyOE4yWUFEYjJ5UTRzSGFBR0N2Uml5SFBydWozUE1kclBtUlNLVTdyVVhhbHFtNDRPZ0Y0?oc=5"
-    },
-    {
-      "headline": "Lam Research Corporation (LRCX) Among the Top Unstoppable Growth Stocks - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2Q1U2Zjb3RNeUZIS3J5WjNSUU1aMnRya0dkZ3lSMnFSdlJOb2IycjJFcUdjWmszUkRVTHFxcjYxS2FLRmZOLW1uR01lUDNuRWNuUXhRcFpLVGNWc0dzbjlFdk9EcEJ0c1ZvRVl5ZmFzZmtjaF9WeHI4ZXZNUG0tWU1adkhaRjBPaEFhcktZZnlhSWx0aTVXaUZBYUJpUnU5WlE?oc=5"
-    },
-    {
-      "headline": "The Wide Divide Priced Into Lam Research Stock - Trefis",
+      "headline": "Lam Research Stock and the Billion-Dollar Echo - Trefis",
       "source": "Trefis",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUDNNMDFPb19MYkptVW1nMjNFWlpfZjBwUkxFN1ptb2lYdkx0eUkzUENiX3FTNFQ0T2FIdFlMcmswX3A2VVMwVWhBV1FXUlE5dlRtT3lYbHk0Z05KalBYaHhqTTZ2ckx6WHNxOUc2MW9peEVWM3ZYMWI3bktTeFRVUmFJVkYwYWxmRXRvZW01ajFxVWRrYnJHaDFVbGZ3SzNXY3J1NTVuV0k3ME0?oc=5"
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFRZc0YwMVVlbVpFN1VXenpzWFZQTDhxT2JNdXhlWkM2dnM0THVSSXBqSjViMzdGZW1QVTJqd3NCUHVhaHFpZXVxRU1YaDdTR0FuREpQYTRPWEs4ZGxLQW1lZGkwUEs1MzgtWmtHSTRnNHUzVXpzWEJpNDF2MTBGdHVqS3NwWmFyb0hKWkdBckMxam1pc21wdW81VC1Pdkl3SDRiUnJXQlJiRTZXd0QzM0Z3NGtqQ2s?oc=5"
+    },
+    {
+      "headline": "Lam Research stock hits all-time high at 349.21 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOREtGMWFiZjJrMEFIZ3NqeWRFdEFYQ2JMbkZyLUxvdi1ZMURkZ253YmFzdV9tR3RKRU5Ld2Z0bXZRYUlkUmZ2ZGRBdk5MM213Y1M0aGh5dEkzcENyVDRyRGxtSl8xQlNOWVVCYnpCSFlQY3FwSXd4QTVwS3lLUEp6Ym53V2VHYnQ2MnZhWmQxS1lEMTlGYUFuNWhhWnJJWEcyamdQRU1zX1F0Zw?oc=5"
+    },
+    {
+      "headline": "Why Lam Research (LRCX) Stock Is Trading Up Today - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-09",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdmdhZl9sdUNNTXdpcjR0NGM1bVQycjk2Z2VlU0JJT0Zvbnl6SUtlZ3F6ai1peFh3UjlOSkM4UVZleUYyN0ZVNEZnSVQtZ240a1Z2S2dzN3NoYV83NjFaek56U1VyaklXcmJGMkNxem1QRUlIZVA0bXIteGtZRHVqOVFCRlhpYTJUQ0Vfekxac3duTFNRZ0t3?oc=5"
     }
   ],
   "insight": "Tracking Lam Research (LRCX)."

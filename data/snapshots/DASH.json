@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:58.083Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:36.837Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    163.92999267578125,
-    157.3300018310547,
     155.19000244140625,
     149.07000732421875,
     153.6999969482422,
@@ -24,11 +22,11 @@
     160.07000732421875,
     156.8000030517578,
     152.49000549316406,
-    155.6699981689453
+    155.6699981689453,
+    151,
+    154.58999633789062
   ],
   "6m": [
-    198.3699951171875,
-    205.5800018310547,
     216.97999572753906,
     222.47999572753906,
     221.19000244140625,
@@ -158,10 +156,11 @@
     160.07000732421875,
     156.8000030517578,
     152.49000549316406,
-    155.6699981689453
+    155.6699981689453,
+    151,
+    154.58999633789062
   ],
   "1y": [
-    217.8000030517578,
     216.60000610351562,
     218.9600067138672,
     221.72999572753906,
@@ -410,29 +409,31 @@
     160.07000732421875,
     156.8000030517578,
     152.49000549316406,
-    155.6699981689453
+    155.6699981689453,
+    151,
+    154.58999633789062
   ],
-  "lastClose": 155.6699981689453,
-  "oneYearReturn": -28.526172641075664,
+  "lastClose": 154.58999633789062,
+  "oneYearReturn": -28.628812566140788,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Cathie Wood buys $4.3 million of tumbling tech stock - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWtxaEFrWVBLUzlEWDNYblJaczJVS2tLTER3ems4ZjRZOWVYajdQS1oyU0xFT09EMG5uQ1VJSzJRSjlDb25YSUdfeHhUc0FjT1ptZVBUWnZfdkR0MEhjMEc4ZHNxYmN1cmZrdGZnSENINU0tbnhGOEhNMnhVY0ZFR25PX1VZWkJpNTlUQ2h4QkM?oc=5"
+      "headline": "Is DoorDash, Inc. (DASH) A Good Stock To Buy Now? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNejByTzVTdjZ6dVhrZDkwVl9TY0I2a0twOUhyNzlzbHlQTnQwcUFOUVdPZWxHdHpQTnlnUEhsLW9Sa1ZPeHB4STVZWWxPbDlJd2dSWjRmSTA3NzNSdTdzaEZDRUFkd3VDcVdjazVvMkFnUmNTc3dSY2xEQTd6T2Z5SmZmeTZFd1BPVlpRaEFOQlZTTEFKZHpBUg?oc=5"
     },
     {
-      "headline": "DoorDash Stock Eyes Breakout Relief As Earnings Loom, Ad Growth in Focus - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNERNWnFNaXY5WUFKcU9FTzgySnNSblFZRFBnemxyNXB5WVF2U1BMWGgwdGFveHZPSG9CTUcwWGpDcmJBY25tcXN4T2pXVHBWVVhTMXBPbEMzQWxrTDRNRUJfR3F6bHBiYkR2b0VDZGhOLThQN1ZCTXV0Q0hzRFFnQkRqRTJYa2FDcko4cnRBOTBXY2s5elZTNl9Xa0d3M2FDMGRuY3NjX0haTjNDdTZXcFpTYlpwa2k2eEtMZ2pKWGpFUHROV3lKUndqM0p6Skgy?oc=5"
+      "headline": "DoorDash rolls out AI chatbot can pick your dinner, stock your fridge and book a table - Los Angeles Times",
+      "source": "Los Angeles Times",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdlpKcGY1ZS1zUXhELWlIT0NpT1dBZnotblFIU1BiSzZ0NDlxaHlVZGJEMmI2OTJxSDlEMzZhZmZLY2x3aW9HekF1ejFwNk1kZkRON2l3Ti1KRmZhUDFLOFRVMEt1bkpFaDJmSzI5Z3VMcUtScmQ2VmtWQVJOdV9uUF84Sk1BaDBBT3lTbTJNbENZWTFERzFlV2JEVjdPWHFlRmtaMHR2TGlsT2kyTnZZRzNMN3QxTkxZeGdpeHVoNVRwTDJjYUhr?oc=5"
     },
     {
-      "headline": "Do Options Traders Know Something About DoorDash Stock We Don't? - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW1TWjROalEzWTc3V0lUSWZyMDR4OHJKMlM1eGY4QzIxMER0eHVnTEE5VmU2djZTRXRfRmFvQS1RSnNsQWJ6cWR5dFdCT19fYXBHd1h5SFZOamZsZ0ljeVdZV09WYW56ZHhoWldSSVl6OTgxd3dtNkpNVkpET0c0MW1tQnh5dXZfSzktbGtwMmJIQQ?oc=5"
+      "headline": "How Is DoorDash's Stock Performance Compared to Other Internet Stocks? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3hvY0J6bTB1UFVNRTNiSEEzY1llb3BUeWxNczB1bUR2c1NVU3pHbnNMZmpCOVQzT1hWT1ZTSGdlZWo2bm9sWXVNbC0teW1IcjBUd1MwTEt1REVYWFFCamlPTHlDc1MtQ1BxSkVHdUlwTnN5TXdBRnhNWjN6UU9CYlpYMnVMVDdBNC1rLWNMMm9nM1hxQjlzeElzZEZtVkhPRGNOWFdtWmx5N3VsTVphTHNFTQ?oc=5"
     }
   ],
   "insight": "Tracking DoorDash (DASH)."

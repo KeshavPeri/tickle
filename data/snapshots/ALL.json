@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:45.817Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:21.903Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    213.14999389648438,
-    213.8000030517578,
     215.47000122070312,
     215.5399932861328,
     216.4499969482422,
@@ -24,11 +22,11 @@
     210.83999633789062,
     221.00999450683594,
     215.02000427246094,
-    217.17999267578125
+    217.17999267578125,
+    223.33999633789062,
+    219.57000732421875
   ],
   "6m": [
-    212.97999572753906,
-    210,
     208.91000366210938,
     208.6199951171875,
     206.3699951171875,
@@ -158,10 +156,11 @@
     210.83999633789062,
     221.00999450683594,
     215.02000427246094,
-    217.17999267578125
+    217.17999267578125,
+    223.33999633789062,
+    219.57000732421875
   ],
   "1y": [
-    196.17999267578125,
     200.32000732421875,
     198.9199981689453,
     199.61000061035156,
@@ -410,18 +409,14 @@
     210.83999633789062,
     221.00999450683594,
     215.02000427246094,
-    217.17999267578125
+    217.17999267578125,
+    223.33999633789062,
+    219.57000732421875
   ],
-  "lastClose": 217.17999267578125,
-  "oneYearReturn": 10.704455491904238,
+  "lastClose": 219.57000732421875,
+  "oneYearReturn": 9.609624249286192,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Allstate Corp. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNlNtMXpGS05rUzQ0R1ZGZDdTZk9GSkg3SG5IN2V3b2s4TXQ5V2JSTUhmOHlVQ1U5dTJ3aTc3NnliRW1wSkZzQXVBUnJ2WWpwNnFTOTh1dmdQVGhFZ1NneGhzemtqWmZPOGlBTlVndFJqUU91dHJnLWp6V1lTNW8wSnZldGMxekU3eEhOM3NoWTNBeW8yNUl6enduc09lTDA1LTdNRjdEQ3dBVFQwU21jVWo5RWpKQTRpa0VEaWJZMGZwSU0?oc=5"
-    },
     {
       "headline": "Allstate (ALL) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWkp1ZDQ0S1N2VGhuSU01UGRCYTZLVWNFeFI3OURCOHpTcWU3YlFqc293LTBMcWpPNzVRZXZHQlFMSkNiVlM2VWNTUjRxVFZ4OEh5QkZpU2swWmstbGlYclRWU2ZFOUpMT0JpXzhZLUJBZ09NcmdUSjVRMWZvaDVIc1pkLTFCOTRmZ09FUjJUd1YxeUlQcGhPMUJ4RkRXVzA?oc=5"
     },
     {
-      "headline": "2 Reasons to Like ALL (and 1 Not So Much) - StockStory",
-      "source": "StockStory",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTGpUV1V5R2VDMW1DcnY2MGVRdV9zUG1VeXdIOWlraUhMM3RwM0NJWHlxTHdzYmQxd0ZKb01IZXBXTjAwTTkxVFJPVm1VQjEyODVVWXRCMGxTUDRPdGNORE9yWEZicWEtSjEtelJ3dGJvc011TFVNazVuMGs2TXRCX1ZFNE9oQjVFaWFwVDZjUHNoM3loWUY5c3RIQmxQZE0?oc=5"
+      "headline": "Illinois Municipal Retirement Fund Raises Stock Holdings in The Allstate Corporation $ALL - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYWY3NUdBYTJVS1ZHbzBjaWxRYk9HVms3TlR0SXdwR19vZHpfU2tidnNCYXd1NXpoMnpneEtxMGlCUndaZEdmR2RILWd0eDIxR1BXMlFhdDQtLVNKd0lUcnJ0a0NKU3RjTnNEM3FDZV9ma1dOdDZmYkx4aHJtZnJNM0FLcmpjSWlVQ3Baam0tTURSWVAzVzJWcWQ5SHdhRDFET2pSLVFxZVRZOUxGVHU0eUZYMnl0MVUtZTlWaUVLVjBBYWdpUXBfRl8wSEczR1VmemVFZHNJUXRndnlUU2hFZnhwbw?oc=5"
+    },
+    {
+      "headline": "How Is Allstate's Stock Performance Compared to Other Property & Casualty Insurance Stocks? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV1Z2TEpnNTV3RW1IMHFTOHJUbjJBRDlmUDJVNndnQXZhdVQtaEMxOWJwUW93SEtqeHpPYkdtbnZlWV90OG1wUWxxSmhNSjN5bUJsMEJrM1FkX25kUEQ2US1MWV90aXV5bEo3N3dCWmdVYjhXV28ydndISzc5SVN1dHg4Nkd3dnJ0REpMVnQxckxZcTNwa1ZHVGRpYkU2LVNPbENsWHdXRllEYzVOcGwySlhzeWVzR1YzQy0zT3FnNVJHZnN6LW1tUmJBOFc?oc=5"
     }
   ],
   "insight": "Tracking Allstate (ALL)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:53.621Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:31.017Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    171.38999938964844,
-    169.97999572753906,
     167.2100067138672,
     163.25999450683594,
     159.77999877929688,
@@ -24,11 +22,11 @@
     184.58999633789062,
     184.08999633789062,
     188.13999938964844,
-    191.64999389648438
+    191.64999389648438,
+    185,
+    191.11000061035156
   ],
   "6m": [
-    158.8699951171875,
-    160.32000732421875,
     159.6300048828125,
     159.5399932861328,
     158.0500030517578,
@@ -158,10 +156,11 @@
     184.58999633789062,
     184.08999633789062,
     188.13999938964844,
-    191.64999389648438
+    191.64999389648438,
+    185,
+    191.11000061035156
   ],
   "1y": [
-    94.58000183105469,
     95,
     93.54000091552734,
     93.86000061035156,
@@ -410,29 +409,31 @@
     184.58999633789062,
     184.08999633789062,
     188.13999938964844,
-    191.64999389648438
+    191.64999389648438,
+    185,
+    191.11000061035156
   ],
-  "lastClose": 191.64999389648438,
-  "oneYearReturn": 102.63268152481409,
+  "lastClose": 191.11000061035156,
+  "oneYearReturn": 101.16842169510691,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "C.H. Robinson Worldwide Inc (CHRW) Stock Down 3.5% but Still Ove - GuruFocus",
+      "headline": "C.H. Robinson Worldwide Inc (CHRW) Stock Up 3.3% but GF Value Sa - GuruFocus",
       "source": "GuruFocus",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbzZnQko2N3NqYU1WZXV3MFhYal9LNlpFa0VSeTBVdndlUkdBamUtaHBtUmI4cGx3ejVFbDh5WUloQm5Fekp4aEphYUZuLWFoOUZqUE02MVotamNqd3JPWG5panh3NE9rMTlBVTM4S1dkTWY2aVNIUW1SMGxMNjg5WjdzRldlME5ZbFd4ZHpNNHJvSGFrel9EY1NITVRDOXAycGMtM3ZPUXpFTjdRcXZhTWEwMzRZczJfcWRPZlNFaXl5NnRYZUxiUXczVQ?oc=5"
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMWJwYkFNUFpvaUpLdDZVNzR4Rk1BXzV1cHYtZnRXNmpJdG40OFBxOS1SaFlBRkhqV0h6UGxKWWptWGZ4emF2a3hqWG5wWGUzczR3Z3pNN1FEdzdzcFVpNzhrbldGbVhQeUJtUUJnUDZfX3RMX1JUcENGenBLcDR6WE5vZHAtYzlwM3BvR1JBenl0cFVBMHNtX1BfTHp0SmtMdEQ5Rkk0dUZsN21PdGtzR2NLRThONG9nNGdjU1FkTllJT3c?oc=5"
     },
     {
-      "headline": "UBS Boosts C.H. Robinson (CHRW) Price Target on Favorable Freight Trends - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tVms5dEhCdUQxeEZGcHk1MnVMZ3E3N3YySmVBalFvS0pvUHFBeUR5Uy1mYnRzd3hSYUowS1R4OU55ejFtcHpXaXVFUWxTWXoxNm5TNHRzNnQ5di0tcmNKUjZvUl85U1RSRjJpSjczNUNCRkdTVENnSnZUOUM?oc=5"
-    },
-    {
-      "headline": "C.H. Robinson Worldwide Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "C.H. Robinson Worldwide Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbFRVSDAycU1ad05oX3Z0VDNhOURfMlVUZHVtZUNWSHhmdmJwRG45S0wxY0REY3FIbl9acEhKZGNtNktZN1JMbTZWcFNKSl9pZGQ3S3RwQXdseWxUeEFXUGxpdk40bjFMSi01T2x5NEhFdHk3NWpVZWhZSXl1ZGdWcUZKUkN5S1RST0dBdEtMclJUa3pRZ2Ruek1QaHRHRDBFdzZ5V21vR1lNMG1qSHBITVk1dllxOHZjZlBnbHBtWXgwNlNVVUhGaVhzV0hJSFY1SmVpcW1SVnBtSVM5SjVQdkQ1dy1JeHNmUmtlNg?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNS1FFSl83c09sSjZvdEFTRjdxemhEOUpLZFhqYW9BTEZUZl9zWERzT3QzUGRSUU1KTWxrWXpFTEE3YkhmYUhwQUZVRkFJcGNrYUY5akRUTzBQQWF3dXNPUVlSa21fa3ZfWnRNMmZuTktMdUh5d204amtwZF9kRkJxWjNrNVh0blhGSHQ0ZlVhWFVNVzE0eW8yMUVLSi1BWHBxS2ZxZXFFaE96Ym8xOFJDN3JEdTNFR2NOSmdjTVdpcmJGQWI1M2pZX2h5ZWNtLVl6eXNoZUdlcDJ6TzVGNjJZTkJRaW1CX3dSVzhZRG5lUGRfX3VMMDFIMW4tRVQ1bi00dXFwYV9nX3ZYMXhIZWE4?oc=5"
+    },
+    {
+      "headline": "UBS Boosts C.H. Robinson (CHRW) Price Target on Favorable Freight Trends - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOanQ1WnVuVGFiZmkxd0tKdkx4U1BiUUNPWm9uN2N0TDBqQWloNll6dWo4WEktYTNTazQwZGtnbm81UXlXWENzSlRBSlY2QlFRNFRKVTd0bDl1LUkwV29YWWJreWxfb21aSjBpWTQtVm02M2oydDVpRlVORmRGZE1tSzJMeDh0V3RZUVBrMnNxNzFndw?oc=5"
     }
   ],
   "insight": "Tracking C.H. Robinson (CHRW)."

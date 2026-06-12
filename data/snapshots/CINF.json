@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:53.850Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:31.577Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    161.5,
-    163.3300018310547,
     163.7899932861328,
     163.25999450683594,
     165.30999755859375,
@@ -24,11 +22,11 @@
     160.66000366210938,
     165.2899932861328,
     162.25,
-    163.8300018310547
+    163.8300018310547,
+    166.42999267578125,
+    168.3000030517578
   ],
   "6m": [
-    167.58999633789062,
-    166.02999877929688,
     163.77000427246094,
     162.8300018310547,
     163.00999450683594,
@@ -158,10 +156,11 @@
     160.66000366210938,
     165.2899932861328,
     162.25,
-    163.8300018310547
+    163.8300018310547,
+    166.42999267578125,
+    168.3000030517578
   ],
   "1y": [
-    146.99000549316406,
     148.25,
     146.36000061035156,
     146.6999969482422,
@@ -410,29 +409,31 @@
     160.66000366210938,
     165.2899932861328,
     162.25,
-    163.8300018310547
+    163.8300018310547,
+    166.42999267578125,
+    168.3000030517578
   ],
-  "lastClose": 163.8300018310547,
-  "oneYearReturn": 11.456558751318497,
+  "lastClose": 168.3000030517578,
+  "oneYearReturn": 13.524453997813026,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "[Form 4] CINCINNATI FINANCIAL CORP Insider Trading Activity - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQei1Ua3NhelR4cjZyZnYtMTlQbW8zLUxNbE1US2RaallxZTZuS0kyLW9FNWZWNThRb05TbXBoX3E3ZFRVVC1HX3lZN1RhNzFBSWkwdG1FUVpMWVhVcFp3WmFWbTJYQjBudzVaTE9vODZpUGtWRTFZYkxiaF9SMmJGM2VjVHVEd3Jnd0FFZUVwd25VczFjZko5OXcxc0oyZ0h2NjQ3ZlBOSWx5S3REOXdJbXpWRy1Jajg3cTd3?oc=5"
-    },
-    {
-      "headline": "Cincinnati Financial Outperforms Industry in a Year: Time to Hold? - Yahoo Finance",
+      "headline": "Cincinnati Financial Stock: Analyst Estimates & Ratings - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbkdnQXBOUXk5RkF2LVlvcUV1bGF4Um9qQnBqLVpCdGpvU29QUmp1ME5ScU1UYXVKbEhSTWVCek1QaFNId0h4NlN3OGduTmJLTmxwRTNvYzh0NkQzTXFfbGJOb1M0NkRqUGF2LWYzZzF6a1ZBUUJrb256RXcyUVQtc3dzaEdwYVQ2Qzd6M3Nqcm52cFRldnNXaXdDMmxNT1I0TjNHV3p2X01WYUdGMG4zZw?oc=5"
+      "when": "2026-05-25",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnN5Vk9kSGtFYWxFaFEtQlNIczQ3ZWFPSUNKbEo3Z1RPdW13WS0wVUFtem9jRWszUHhhM2JKT1BodGtEUzJKRE9zamF6R2p5SFZZYUkzZGxkSUVOZlR0a3VTVkZkM0NLaU5vODhCRlVXcmNyWDFzVGl3a0tIRWZrTlg3WS1vZGwxa1JMNEgxUnFKVVpObjQ4VXNGU2RDcnd1MFRORUtnYjNvVHF3RGc?oc=5"
     },
     {
       "headline": "A Look At Cincinnati Financial (CINF) Valuation After Solid First Quarter 2026 Results - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-10",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM253c0E4YkY3RjhleEpraXdvbWlQQ3dnX0RRbmFJczBiTk85TnVhdzdnY2tUbXcyUmNMSnc2b2tMMjZEcHhVNkF2aXFHa09TZ0tLS2ZyeURaSkl4Mktzd3lMV0lYQTE1b3FBM2VyeWVpT1VveWRrR0JzbGd6clNDdU01VVhEQWdyTFRDay1jSVFpN25PZXZ6T1RhVHNIdTJoTndiZkdOdFdvUnVPZXd1d1JDTWxwanpiMWh4MVNGaW83Zkh0Unk1YTFya0JrMHZmZGtMak8wMNIB3AFBVV95cUxPcHZUVDZ3Tk81NHEtQ2xlanBpOTMzTGFjekZhazd2ODZWWmhsdEtYSVY2MTNkVGdJdHVLQzhDV2ZoOGs3MFlVR1pBT1hCQkk2SEV5OV9mMFFiVDRtQ3JDVUE0VUFBdGxoMzI5ZWlIR2pnVzFSa2ZpRDRrNmVCMGJoU0N6ZFhteWd5UlI0MlVEZlA3eWlybVhFeXZTdFNPQVEyUG1qTnRTaGp1NnN6WUE1Tk1xOVI0X1NxYU0yUldUQUN2UWl2a2ZzbVcwc0RUb0xRaDFpZnlfWHBhMzVR?oc=5"
+    },
+    {
+      "headline": "Cincinnati Financial Corp. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUWFPc0ZldDRsdHI2M2JvTjM5cGFWSGlJVjc5YUptSF9pSnlfTF9NZ3VFSnNZVHBaNVVhRWdhTktGdlRENTZYYTNGVmhkYmdlZHpENklUQWEzZF9UN2t5RFZOc2lpUEIxY2FVX2REUllRMklmWDdQa1FEZFhDNjFYb2FkRXRtNERyeV85dXpwQ0FvLXZobmZKTEhoUF8yVjBjZGQ2akhETEtkaDRlMXhpdHU5aDB2VTI2M21kY3dNTHFZbWhCZVZWVXBra0JycHJsX0diRHBoQXg?oc=5"
     }
   ],
   "insight": "Tracking Cincinnati Financial (CINF)."

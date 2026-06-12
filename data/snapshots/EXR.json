@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:04.089Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:43.993Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    143.3000030517578,
-    144.5800018310547,
     144.7899932861328,
     142.41000366210938,
     142.19000244140625,
@@ -24,11 +22,11 @@
     145.8699951171875,
     145.30999755859375,
     145,
-    148.22999572753906
+    148.22999572753906,
+    149.60000610351562,
+    150.25999450683594
   ],
   "6m": [
-    133.1699981689453,
-    131.94000244140625,
     132.52000427246094,
     132.24000549316406,
     131.08999633789062,
@@ -158,10 +156,11 @@
     145.8699951171875,
     145.30999755859375,
     145,
-    148.22999572753906
+    148.22999572753906,
+    149.60000610351562,
+    150.25999450683594
   ],
   "1y": [
-    150.27000427246094,
     150.50999450683594,
     149.60000610351562,
     148.97000122070312,
@@ -410,29 +409,31 @@
     145.8699951171875,
     145.30999755859375,
     145,
-    148.22999572753906
+    148.22999572753906,
+    149.60000610351562,
+    150.25999450683594
   ],
-  "lastClose": 148.22999572753906,
-  "oneYearReturn": -1.3575620462637696,
+  "lastClose": 150.25999450683594,
+  "oneYearReturn": -0.16610192620041944,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Extra Space Storage Rings Closing NYSE Bell to Mark Completion of Life Storage Merger - Nareit",
-      "source": "Nareit",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGxBUDdTNzhWUmJzVHdnNHpiY0FzeEh1U3pYUF95MmNMRUdYejhyZFVSOGhoLVFIc0QyZFloZTFFZFZhUEdmX3NVZHl6MmItYWpabXkyNEoxU1dTcTR3S25BNDRYZWhYUVNkR0daSGFENXNXY25PNVI0NVJ2c285TVp4RkkwaDZzZE5qY050YWVmRXJuUkktZEtVQjllVTlmMW1neHhTdUNVUEltcFRIc1h2bjU1Zw?oc=5"
-    },
-    {
-      "headline": "UBS Reaffirms Buy on Extra Space Storage (EXR) After PT Increase - Yahoo Finance",
+      "headline": "Is Extra Space Storage Stock Underperforming the S&P 500? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYWx0ekU0UU82d2M1aHVfelZBdlJldHlONVNVNm1DUmpRZVczWEpfbE1MMGtCWHg5MlFxRXk3dWxGWmFZMFBhcUUzc1VCRUw3Z21LOVJOY2NmbEtrNHlILTl5eVA2a2tNc0NnSHZ2NlE1UVNWTEdjbk1fWWJNUHpyWXAwazJvWkxCd245aVp3bnppMGRHTEMyd3ln?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcmVVV2tEVklwQnBFUno4MXJ4NUdiM1hmMXQybkRSbklBWXFMX1k0VXFuX0ItWmhjeXl6UklvSVVORlBpY3JRT1VHR1d6alNSNXp4N25kQk00c25oTEtYN19TMjRaaExSa3RFVGVJQ2I5aFNETElOZTE3dkZoYXoyRHhIRHFXMWp0R2c1b0dzbXJvQWZ5YXRsU3J5OGsyVmFEaXU5N2pSWW81dw?oc=5"
     },
     {
-      "headline": "Should Extra Space Storage Stock Be in Your Portfolio Pre-Q1 Earnings? - April 22, 2026 - Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "when": "2026-04-22",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUGRzTjM3TlFyNTBGWThKNzA0OVJSZndvV2EtWkpRWGhPcmxiWGpuN1FQS3pzbFVMdXVYSWNXdGRrMHZYUFo1TVdZZUdNWmFybHVLU0VKWmFoU3JNcW8yakhKM2l3cFljRHV1QkNNRlIzbEV6b2ZFbEotV1BMMjExNXUtTmlCOTZjQ3A2endnVG1peXdKbTFlTldsVHFZUGxfNktoRjZPdE5JTEIwUGFV?oc=5"
+      "headline": "EXR (NYSE) Form 144: Broker-noted proposed sale of restricted/performance shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEJaWEQwYWpCd1dMVFN5ZFFLSTYzZG9PQ2g5aUdzSUJ0aGxYZzVReGg1dEVhRFFNeExiQ0M1Q0RYNmdZbFpvRXZKRXQ0OTNOUHpoeVlLRDZLbFRRQXpTLUJmWGVsYnNZWS1pbjliN0ptem13cFNxVFAyYVZrVVpzdjE0STIzWkpzdXM3UXJGZlYwcFctVVJYV25ucVFqeUF2?oc=5"
+    },
+    {
+      "headline": "Extra Space Storage Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-09",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZF8tWHg1U3p5N1duRXNrY3hWU2llNzJId2Y0ZVFia3R2WjktVXg0d1hUa1VYdllnal8wQndnOWJGeTlQNTlRbnpLaDZIVkQtRDJJakJPS1NycE9VbnBaaW1GVXVENThtWTVldHZlQnNveU1BbWhxQ1ZRam1mbGNBS196R0dhcDcxM2xSV3hlQ2hEWG5yUzRwWXp1RDNhRGVPcHZLS2VLSkVPR000RGg1YkNwY2Z3UFJ0RzNFUkdNZnZlUGJCb0Rzd2UyMTNva1YzSEJZMDdpa2U1WUo4QUg4ZGQ5Um5NUGVJTEc4V0VNMzVEZw?oc=5"
     }
   ],
   "insight": "Tracking Extra Space Storage (EXR)."

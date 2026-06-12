@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:02.663Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:42.263Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    215.89999389648438,
-    217.08999633789062,
     218.5,
     212.66000366210938,
     213.30999755859375,
@@ -24,11 +22,11 @@
     219.50999450683594,
     227.22000122070312,
     223.74000549316406,
-    228.6199951171875
+    228.6199951171875,
+    231.97999572753906,
+    226.00999450683594
   ],
   "6m": [
-    295.489990234375,
-    293.760009765625,
     295.95001220703125,
     296.2099914550781,
     299.7799987792969,
@@ -158,10 +156,11 @@
     219.50999450683594,
     227.22000122070312,
     223.74000549316406,
-    228.6199951171875
+    228.6199951171875,
+    231.97999572753906,
+    226.00999450683594
   ],
   "1y": [
-    356.75,
     358.760009765625,
     356.760009765625,
     357.80999755859375,
@@ -410,12 +409,20 @@
     219.50999450683594,
     227.22000122070312,
     223.74000549316406,
-    228.6199951171875
+    228.6199951171875,
+    231.97999572753906,
+    226.00999450683594
   ],
-  "lastClose": 228.6199951171875,
-  "oneYearReturn": -35.91590886694114,
+  "lastClose": 226.00999450683594,
+  "oneYearReturn": -37.00245613927638,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "How Analyst Concerns on Growth Metrics Will Impact Erie Indemnity (ERIE) Investors - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOENiY241ZnI0OWN0emJMcUxHTkdGc2N1VFljZnpiZnNVV1pkZml1c2c3VmJvajhaOFYwUHU0TWU2V2V4S3NteTRzOEtLOXF6YVo1S0p0Q2paVjdhcjVDTDVKUG1GRloxZDkzLUxfTWUxaDMxTVBhenJoeVlGakFMbV9iVGsyOHFtS25jblpRS0JkQU1FSXBwc29xSkVTTzBKWmJhM0JfZmpDUktpZ1pDMXozT0szVXFPMGI5MHFHZHI0Qk5pSTdZVV90MkRXZEHSAdQBQVVfeXFMUDh6X01vQmZEd3QtLUpDUGVTNWZMZ1F2dnUwb0paeEp1dExxWkY2TXRSUXljSGltVUpibmI0c2VCaUFtRHpqY0ZqLUliTmFDSnVyTlJFZlNDbzBVNTJlTDFyanFEbGw0eHlNVC02RUtSZHRpbzkxOUdtall4Rk1PZFRBNW50UjBvUnFOekFIM1V6R2J0bDRrV3U4Tzc3SndFYnN3UXRqMXcyaUdTNXdNZTE5Y0ZjMTZjbU1aeC1yal9XZEJ5N3c3LXhDdkg4TlhKRWk3dko?oc=5"
+    },
     {
       "headline": "Elizabeth Ann Vorsheck Spends US$1.5m On Erie Indemnity Stock - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmRzYVRoa0g4WDV2emMxcmFEdllacnYzSS1pck5fNVBiRHJmSGkxTUVEREdlVUMyVmV3NDBHbnhZM3d4RXZ4X2dRYXV4NGk4QmJkb2RkOU9FRXJ6NWN5UXU4SjFmb2FjYXdEQVZ5d2lyZVhyMXdka3JubjZSVXR2cnV4d3JWel80Zk90aC1hdWZtS1RFNHJMaHJLV1UxQQ?oc=5"
     },
     {
-      "headline": "Elizabeth Ann Vorsheck Spends US$1.5m On Erie Indemnity Stock - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-07",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTmZTc2VrajJaTzZoWWk1RDN4VjBwamVvMUlVN1pGY29UdHBkZnRHQTIyOFRLSUxTTDR4TjFOMEJONDJiQzNBWFAzd2JOclVnMW9VV0JLYUdCS21kdjJ6VlctNDM2LXI0NDJmTl9RNko4RXJXR2ZWb00ySU5MRVo5RjUtMU5fUkM0cXNtRUJCcXhDUHJzZHlQUTV1SU9UU2gtdktVVGZjT05wdjRQX3pFQ3p1RTFRSG12bDJkU25PWnoteVZJRll1NVVUc3d5QdIB0wFBVV95cUxPZHNiQk9MOUxJMmpORWwwaUQ5SWk5REpFZmFTai1LRmhxN0ExYXRtTk1UYUt5U3dkUjl2bzFzb2hVYlZOc05WX3JaZ3l6aFZlSTdFdlJtY0hVaVJJT3dqLW81cHllbFYzRkNpdDFjRFBmUkx1Q3FsNWQ3eTd5NDYyeUdsNWpmdDZkeHRjd0huLUJSZm83aGNEbi02NC0tbHBiaTJfZmhNcnNXTXg4MFg0dkEwWG8yVmxTZFVFQ0NNcUNDNzZiZ3JGR2tNbmdoenBrWWc0?oc=5"
-    },
-    {
-      "headline": "Erie Indemnity Co. Cl A stock underperforms Monday when compared to competitors - MarketWatch",
+      "headline": "Erie Indemnity Co. Cl A stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdS1NS0xmTFZvTndTUU9vVzFXUGlmT1NUNXg1WFRCQUFyT25OR01KN1M5NzJnNjRIcFkxcWFTQzhBc2FfZlBNZE9yZDZRQ3pkZXZrQ3cxVUhhazZkYTN2ZHhpVGZMWWpST2lqd0tEa0o1VENWc0tYMHdKZlp1QURfOE1vWFdWekFlN2FCbkNQdmI4c0tMdUJfSHM4TG5MV3M5Q0VJT0p5bzh1bllFeHRhSzhyREVBLTZNdzZlZ2RNdWZGckdCYWsyUThCZTlaYV82eU9nRg?oc=5"
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTjNYSTd5aHFsLURuWEhTUnVLbGtYRHUwbUVrQWxBdDhHaVZHNTAtSEdtZzRxRjdWdkF1U1VBS0IxSHVfT3pnSmU3VWdIZjdMRGdEY1p2cVczV3pKbmJtZGgwRW9XV0tKbHhfRWg0d1BNU0RpZzFJRDlMdkNWTzdJaW96RElXcDg0WEZSbkU2N3JVOVF6d2tvX0FqM2dnVXhQV1ZNNDlHdFEzc3d2eEtVODdpVzF6SVNJMFV1aEZ2YWVBbFd6NF9VcHZobGlYb2dUdDVMRnN2cHpBVVNuLTUyNG9ZRW9yT2phTUxvbm5VT3lRTzA?oc=5"
     }
   ],
   "insight": "Tracking Erie Indemnity (ERIE)."

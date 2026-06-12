@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:15.270Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:58.018Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    41.310001373291016,
-    39.9900016784668,
     39.47999954223633,
     39.40999984741211,
     39.33000183105469,
@@ -24,11 +22,11 @@
     41.310001373291016,
     41.540000915527344,
     41.02000045776367,
-    43.16999816894531
+    43.16999816894531,
+    41.400001525878906,
+    44.290000915527344
   ],
   "6m": [
-    34.810001373291016,
-    34.77000045776367,
     35.43000030517578,
     35.68000030517578,
     35.810001373291016,
@@ -158,10 +156,11 @@
     41.310001373291016,
     41.540000915527344,
     41.02000045776367,
-    43.16999816894531
+    43.16999816894531,
+    41.400001525878906,
+    44.290000915527344
   ],
   "1y": [
-    33.4900016784668,
     32.58000183105469,
     31.729999542236328,
     32.20000076293945,
@@ -410,12 +409,20 @@
     41.310001373291016,
     41.540000915527344,
     41.02000045776367,
-    43.16999816894531
+    43.16999816894531,
+    41.400001525878906,
+    44.290000915527344
   ],
-  "lastClose": 43.16999816894531,
-  "oneYearReturn": 28.904138564742155,
+  "lastClose": 44.290000915527344,
+  "oneYearReturn": 35.9422910569357,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Southwest Airlines Co. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZXhjMlM5ZncxbjZJQjg2MFlIcVNNV3VtR2tsWFlLSTBZUUVpbzJuOERBOGNtbHRyRU52MmFRTWtWd3hMNFlCUk5zaVIzSnhJdHV4dHh2bDVFc3ZnTFdRNzh4elBFX1h5ZHctYXoxdWZpRjlYNWtkLU9fbHJlQWRKNmdtYlRXc2VYRGk0YXllZ01IeEs3TzFFMHJKYTktN2FoRmxOaDNVaUNoTTRMQ2ZyRTZBTmZLUGNQZFNraXNpY2ZLeDdRUDBCU2cxWWotOE9YUUdmaWVGYzdUM3IyTjVXVmtfSGJoQQ?oc=5"
+    },
     {
       "headline": "Southwest Airlines (LUV): The Most Undervalued Growth Stock to Buy Right Now - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYVlRUHhsakJheFo2ZU56TlBORXI5ODFrUnZlbVhubHNOS0NWWGVNal9tY00wdkpySEp4a0pCUEhSMFAwMU1QTE1XcDlyYWJtck9ZWDFBQ1pqLVA4SkN0eW1EeWhaQjBjTWNTYjRsWDBqOXdJczdPeFFUekF3ekYwRE5fZ294UXVsZlRRZklLbzdEUGJPVzB6MkZDbG9SMk02Tkd2dTJzVQ?oc=5"
     },
     {
-      "headline": "Southwest Airlines Co. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVncyN2pjZlN2NE45YWZpMlpRakxaa2ZPaEJNWTZUZDB5SzZHTUpsQ25YR0M2QS1rRjl4cmNFS3Zoei0yMzMxbTJadXp6MUVWYzh4NjJ5TjV2LXpCY2hLaDhkY0FkZ3g3QlV6dE1KOXU3by1vc2ItQ09pWFJidUZzdXdOdFFPajlna2FyallwYW4zdHN5eC1ZUWhPTy1qTk5Yd0xKY0h6cm1wdGFkR2g2YVR6WGFXNTh0TmdIdnNuWDN3dkpENVk3cWx0TEhkUQ?oc=5"
-    },
-    {
-      "headline": "How New Singapore Airlines Partnership and Pricing Push Will Impact Southwest Airlines (LUV) Investors - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU0V3U2haSVZzYmxEaGJzU3liSm81MGRueGYwUkJNbE5ySTdwcTFUNU56SnpPR0pmVGdJb0FuSVg3ZGZmQXVVRHg3N3ZTUDcxVmE4bi16bElQbzFHakdvSWtleXB1NHBNcTU5bkRKaGxwdEZpdlVTSVNQQmlSZGE3ME5NMFhlclNuc1d0M2NROVFZeXpyREQzYzFWeHNueF9VWGNvOHRuSjlFMmo3aF90dVl0ZWkzQ2JPYnVTYkxLNkdtcnA3dWswblh5QmRkckExSE1IbEw4NNIB3AFBVV95cUxPX2lfdkg2eUlPZGVDUnl0OFlodmNJT094WUE4bkRPSWpfUjJrNi01ZkF1RzlrblRxYkx3VVlzRjRnOWxOeHpkNlVONV82ZDFCTkZybUtMWVVXRE5DZ1l2OWZoMkxoYzhCLUVsZXItcnpXckJaSVVYOWQzVzhPTFRUXzZCc05GR3E3My1iVWVia1hxRG4ybzB2NWtVaDh4QXNSQnA3RUNYWkFIOURJQzhLMTBCNXpXTW91OGN4Q3RUWUJfb1E2am1VMzRGcHp4N1RscVB5V3FWRWx0ckFT?oc=5"
+      "headline": "A Look at Southwest Airlines Co (LUV) After 7.0% Gain -- GF Value $40.82 vs Price $44.29 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHphUmtHRDBNMTV1OWRSUDlYOU5IbVg5UGVLT3NWamRySVZxMEJxRk9BZXk3dVNlMXRoN05ocFlPR2Itemt1SHZuRU5pc2dSRUNiZVVhNTJlRnA2VGtubmoxOFNDR25VVjJtZ29VVzBQLTdCLV9pYnR6Qk9sZ0I4MEw2UUt5YzdrbzRBODRLa0MwLWdDbXI2T2M3cDB3MjZpbS14NVVITWVzbFZBY1htbVBjaDQzUE0?oc=5"
     }
   ],
   "insight": "Tracking Southwest Airlines (LUV)."

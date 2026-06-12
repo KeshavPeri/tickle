@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:17:04.844Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:44.847Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    305.0604248046875,
-    305.31829833984375,
     303.3199157714844,
     297.9049072265625,
     306.1885681152344,
@@ -24,11 +22,11 @@
     328,
     331,
     330.2200012207031,
-    331.760009765625
+    331.760009765625,
+    319.25,
+    338
   ],
   "6m": [
-    222.1434326171875,
-    220.2578582763672,
     217.8646240234375,
     217.92909240722656,
     220.82997131347656,
@@ -158,10 +156,11 @@
     328,
     331,
     330.2200012207031,
-    331.760009765625
+    331.760009765625,
+    319.25,
+    338
   ],
   "1y": [
-    180.49960327148438,
     181.30540466308594,
     180.80580139160156,
     182.73167419433594,
@@ -410,12 +409,20 @@
     328,
     331,
     330.2200012207031,
-    331.760009765625
+    331.760009765625,
+    319.25,
+    338
   ],
-  "lastClose": 331.760009765625,
-  "oneYearReturn": 83.80096341078053,
+  "lastClose": 338,
+  "oneYearReturn": 86.42577182301578,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "FedEx Stock: Time To Take Some Chips Off The Table (Rating Downgrade) (NYSE:FDX) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWVjWVFtTVNsN0RtUnlvMDR4ampWVkk1TmdMelFhbXl0WFRYX0o2cWJaek1RTkV2ZUlEQTBTMnRGNkh6Y0ZGSDJhbmRRS0lROXhfOHMxd2NZMGxCNFVGUHZLZ0pxVTZqR2VXRUs5Q0M0eDhLOFFBdzdqNnB5VlFXTWRJbTNXSGZYOVlmT0xZbFRnN1hDVk5GVw?oc=5"
+    },
     {
       "headline": "FedEx Completes Spin-Off of FedEx Freight - FedEx newsroom",
       "source": "FedEx newsroom",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb09VcDZKa2tvekNsang2SGNKSllzQ0pXU25ZY2xabUlFU1hKTGFRSWJuZnRXdFM3T3BPSktzZkdqVkZPYkJoOXFVUl9ldXA3aFFZSEZuQUpUVmpDUVJvWnMwVlJfWGh0UURoN3dhZFh4T0ZKRzVaaEVlTXk2c21NUHRLdmlpM1UtMWtMUndNeUlTakFwbHNN?oc=5"
     },
     {
-      "headline": "Amazon trucking expansion sparks freight stock sell-off - CNBC",
-      "source": "CNBC",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeFF3eExnenBldld3T3lmVVNEM0lXb2E5dDAwOVFyYk5sVXlZXzJCajdOdXNWUGFpT1k3RGxYMHB1ZEJhRnJOOVFwZ3ZFUmE4TzBwRDZiUDRSRDFHMVQ5TTduWTF1bkFCSkQyZEVNQjJ4V2Z2VU9iTk1uSXlEZVp4cTNrVy01UXNHamd2T9IBkgFBVV95cUxNNXRuS29hVFhSUEg2d1B1SFBidld2djhIVi1qU3JZWU5Sb1k5T3FKMFQ3dHB6MFJJOXRzemxZT1NQeUlRcHFTLXNydGlmQk51RktfMGp5STZwVVgtQk1lMVUzOF80ODZkeHhFOU9fczI3cncwd2s4UnNCNHc4X0tYbkJlRTZZam9HUXpiMHFiT1FMUQ?oc=5"
-    },
-    {
-      "headline": "Amazon LTL expansion hits Old Dominion, Saia, FedEx Freight stocks - qz.com",
-      "source": "qz.com",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rY0FrUlJkb3Q3cUl5WTVOM3JzUXduWDdCbVRZNG00cXpQMkt5MExwZ0I1S0diUTVMbUwxMTVpSUhsaHhkRS1nbzF1Ulo1OC1rZDl6SzNrMmo3RWIwVzl0NkhwRzB3SXJvRHJBWm91WVlFVXdFUGc?oc=5"
+      "headline": "FedEx Corporation (FDX) Rose on Earnings Beat - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEtnSzR2SGgySFJyQTNOOVFUNDFWRjdzamtpcklQM0wzS1ZqX3RVTEVZRjFmVTZYb3JIaXBFV0tMaE1fMFR1X2d3bnNJYmlicXFyU3JNMW1nMHJ0dzhnRkFRTzlRNDF6a29wcE42Q2hQUVlvb3BaZ3l6anVhS3p1MUpGbjhvbFVKMk5iOTZjOFlkTVJwTGd6bXhRd3VHYmFnZmc?oc=5"
     }
   ],
   "insight": "Tracking FedEx (FDX)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-11T06:16:47.538Z",
-  "builtDateUTC": "2026-06-11",
+  "builtAt": "2026-06-12T06:12:23.977Z",
+  "builtDateUTC": "2026-06-12",
   "source": "yahoo-finance",
   "1m": [
-    295.4100036621094,
-    304.5,
     303.6000061035156,
     306.20001220703125,
     299.8699951171875,
@@ -24,11 +22,11 @@
     282.8500061035156,
     282.3500061035156,
     276.7699890136719,
-    282.9800109863281
+    282.9800109863281,
+    276.510009765625,
+    278.1199951171875
   ],
   "6m": [
-    261.04998779296875,
-    260.8599853515625,
     256.7699890136719,
     260.3500061035156,
     261.6199951171875,
@@ -158,10 +156,11 @@
     282.8500061035156,
     282.3500061035156,
     276.7699890136719,
-    282.9800109863281
+    282.9800109863281,
+    276.510009765625,
+    278.1199951171875
   ],
   "1y": [
-    282.2099914550781,
     283.2799987792969,
     280.3699951171875,
     280.42999267578125,
@@ -410,29 +409,31 @@
     282.8500061035156,
     282.3500061035156,
     276.7699890136719,
-    282.9800109863281
+    282.9800109863281,
+    276.510009765625,
+    278.1199951171875
   ],
-  "lastClose": 282.9800109863281,
-  "oneYearReturn": 0.27285339093763833,
+  "lastClose": 278.1199951171875,
+  "oneYearReturn": -1.8215206454196324,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Air Products and Chemicals (APD) Rallied Amid Improved Demand - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVXpDRV9IX3BKX29jLW9lYlJ1VmxtRHdRYnNiVXc1S2tfM0dwRVVJcGcyb1hEQjJNU3R0NG50cmJVT3hSMDRWdTJWVU5RY1RFczh4YnlHcGVfV2FRaXJUV3pEcXBwXzVEWDZvLWk1dm1OUElVYmU0SmVSa3YxaUtjUFZlYnpNVlFlUXFucEZQM3FlN1EzVHQ5eDlKMkFqOUk2?oc=5"
-    },
-    {
-      "headline": "Air Products & Chemicals Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWThUNzhFbHpjaW1rQ3JhZjVFSkZQejIzWGl0ZEpISmt0X2NoTjNoVVJqMkpKNU4tYjVlbjV3eHVZaXItbkRrMFFXZU9mbzg5M2M2TzJfamJpOE5yRWtGSFI1eHFQamVNTnpDSEYzZ18zTjY1M1ozZkJGS04zLVpyTndDd29FdS1LZXFoMEhkRm5aOW1qeGJTTDZCM2xRRXBsUFhZZ21yNEkxRjJFZEx0MXlwakxrb01saDhTdzlWSWRyWXZGSmJvS2pneVk1UlZJemtUUTlSWWlKcndGb19mYjhsazk5UUoybHNqRldScTI0YWxBRGc?oc=5"
+      "headline": "Why You Should Add Air Products Stock to Your Portfolio Now - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORllrWlVwTlFXbkdMRGltSnpMQ0pVdXlxYm1qazJsOW9zb0pvc2pzQTY2dVBTS3hDQ2tmN25zWUV2cDNyNnJ0UGVpT3RldlpHX05HZUNmZWtBUV9TdldtZ000bEtXbUd5YzFrcDNpSjBDZUloR2k0c1g5eldqNEwzenlMaDhZWVVySGpXSDZjSUhlblpjbGNnVnctQ2pQdllNNTNWdXEtY1hsYXZRSWtEc09qRmVEQQ?oc=5"
     },
     {
       "headline": "Are Basic Materials Stocks Lagging Air Products and Chemicals (APD) This Year? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-10",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcndPMzB3SDBUajVNeVA4cFNMUDJ2Y3Y5SHItN056dEZ1YXEwaUpDb2FqNkdUWVBpQXdUWk1PMERFek1NSHpCdHY1VU9jM0RvdVVpOUpqc3lPSUpBQUxJeGpiLS1qRWxSaUFXQm5yM1JvZzJ2TFlTRG5BN3JaNDY4UFJvaE9QUUNWVThNSl9meGZ2c1k2S1VtcnN0cENLaGRq?oc=5"
+    },
+    {
+      "headline": "Did Air Products’ US$70 Million Missouri Membranes Expansion Just Shift APD’s Energy Transition Narrative? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQk1HcEN1VGtHekVFcnV5M0VsN2haS3d3azBrSVRLOXlZSDFPR3cza01ZNGphNGIxUmNvQU5NSWtNV1hwbzN5RThSUmFLV3ZrX2ZrdFAxTWFJeXJDQjBMUEJ1UGhJMkJ2eV91MUNHTERQLVdjdDdZNnVONmxZYWEwUXpxdk95UEI2am9naHZBRzdfR0dRVTU3YndYMkVRWjR0bkQ0ZWQ1d2FEdHctcEtoMUxlT040UVM0UGtjRmNMVFAyQnVJblYxVFFUNi1hVEJXSTl1RjFoOEZORFHSAeABQVVfeXFMUGFWQW9jSFhJOWluTk4wVWNFYmEwR00yODlWd2VEWkZ6aTNaR2hOYXJFSGdkd051Y3k1N3Fhd0RTTUZESF9PNVBzTFowVi1nV0ZWVEtja1pSaXgxSlBESDlTZ1gtbkNLYVFyM0JWTWZ2c3d1WDlEVG1rMjhyOTh6U2x6TGg0bjliYzZycVJuRGc4MzBLSmY4Vi1wSEJDbmU0M3Y1Y3hPSXpYdTBEaFZLZEJ6SFpFazRZR1NpSzZSd2xUbXhWQU1Vb05qOWVzeHB5bHludU9rYzFEVndfLWNEbjQ?oc=5"
     }
   ],
   "insight": "Tracking Air Products (APD)."
