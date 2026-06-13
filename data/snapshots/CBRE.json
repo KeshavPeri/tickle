@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-12T06:12:29.878Z",
-  "builtDateUTC": "2026-06-12",
+  "builtAt": "2026-06-13T05:56:29.852Z",
+  "builtDateUTC": "2026-06-13",
   "source": "yahoo-finance",
   "1m": [
-    144.05999755859375,
     140.64999389648438,
     132.4499969482422,
     129.9499969482422,
@@ -24,10 +23,10 @@
     131.7100067138672,
     136.10000610351562,
     134.05999755859375,
-    131.91000366210938
+    131.91000366210938,
+    133.41000366210938
   ],
   "6m": [
-    159.3300018310547,
     162.27999877929688,
     161.47000122070312,
     160.86000061035156,
@@ -158,10 +157,10 @@
     131.7100067138672,
     136.10000610351562,
     134.05999755859375,
-    131.91000366210938
+    131.91000366210938,
+    133.41000366210938
   ],
   "1y": [
-    135.52000427246094,
     132.97000122070312,
     134.10000610351562,
     132.25999450683594,
@@ -411,12 +410,19 @@
     131.7100067138672,
     136.10000610351562,
     134.05999755859375,
-    131.91000366210938
+    131.91000366210938,
+    133.41000366210938
   ],
-  "lastClose": 131.91000366210938,
-  "oneYearReturn": -2.663813825664963,
+  "lastClose": 133.41000366210938,
+  "oneYearReturn": 0.3309035401721442,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Unexpected Shift in Market Sentiment Weighed on CBRE Group (CBRE) - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTF2X2FfLXNKa2ZEVktta0tkS25zNDlXNG9tUTk1V1dBRy1PQl9UQV91QTByN3hhU0phTkdyY3BSczF2b1V4LUl1akd2b21Ra1BZMzJHdFRvdzg4ajUtUjJ6bGhJUjZ6SENhZjNUQ0NFWHd2REZIUktMYzdZbkFMWWxPeGZhXzFOUzNqY3B5U2Nqb0NHaHdoM1NnMERrcUVrQTBSLU9ORU85Zw?oc=5"
+    },
     {
       "headline": "CBRE Group Inc. Cl A stock underperforms Thursday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS1g0dmhMSVplQ1lqQXA2cEp0TzhvbzNPMnNNQ0NjNjh6alJLLU8yRk0xd3VGbVlHeVpvVGVFUnVUYWVZV2lnZWtXZHZ6TUpKdm9lYWl3b1htcllDMkJMX0U0NnkwUUFoU0J6RDB5clhnZDUwTTVZbjNOMWc3TVFZUGNXbXNZZUFJODBvdENBYWRwN1l5UDBaNWVmOTNJRXhXaXVQQW1PU01fYTloZ1lrS1FoVWY5akJxdmRnVWFjMGtvZnhid1ByWkhOS3RwVGhFQTAxejlZTHQwVFZyRzBHbTF2UHpDX3FoWXVZ?oc=5"
     },
     {
-      "headline": "CBRE Group Inc (CBRE) Stock Up 3.3% and Still Undervalued -- GF Score: 95/100 - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnpTV3hZNGZNd0p1ZTFaOHpHaVBsd1F5WVM0ZkFSUWNYYmZWQTROeGJXX3FwNjNCYkplTWN1b1ZRWGVmb1NEWUdSLXU2UTczTVNGS2NQQTNXM29KMVVCTG9icHpsMTlKLUJDZFdsWWJoemNHZ0xjOHREM1FyNWVjbWFmbks3VWZ6X3BLN2I0WDFnR3BxelBYNW8xcjR0aElibWpub2l3UXY2YzZIa1ViSXI0ZkF1NnBrbWJz?oc=5"
-    },
-    {
-      "headline": "Is CBRE Group (CBRE) One of the Most Undervalued Large Cap Stocks to Buy According to Analysts? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTk9zbjFtd0ZrY0kyckVEOVJQTl9ZTVNNSTNuSHVZU09jQTdCNlA3WlRpaS1FNmRGalVaV0JJRGdlcHJiOHhVSXB4WmFBTGc3VFNzMFRNdUxjdEJ5LWRwbF96T2RWU21HRkRBTDA5R25lRUhNWWF3UVlLUmk3TkhHSHBhYlBGWm1uYkh3TDdwemZ0bHM?oc=5"
+      "headline": "CBRE Promotion Highlights Growth Outlook And Undervalued Stock Opportunity - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdUNMeEpmZjlMWDVkcTNhZTUzbzBGelZxMDJfaXA1VGVaS1JRem1XTmhGeFNOTVU0Rlg5UTVMeDJhSTY0TUdNVTJSbHhLRHdsaWc2c19RakNFSVcycmctV0o0bVNmNlVGNjc5WWJJVlRkSHhMQS1RcndaeTFhdkVfb3RPUHM0X3lBdlFKWEZwZmdQR0Nkbm1GWHg0V0VkWmRtdk0xQ19NSnFQeTNmTG1VQ2p1SjZNd2JPZTRiZG5WMFlVM0tDWkF2aUpsUHBldm53M3h5TENrNlJ6cHF0ZWNhbXhWc2U1MHVMNkgzMHFB0gHzAUFVX3lxTE1JSUdHaEtIcTJNWVZOWWhYY0xrbER5dnA3Wk9COENBREtGVUFUMkxTNFVidVE5VjdtN2lRRU1hTXBjRmRHcmdTakN0UkxzRkhvZzIyRUU2UTRnd3NNb0NONjhNdDE0RldWTlR4UWttcDVoTHRxdE1GbXdzOTZIZnJnTzJodEliRVVMWjF1aU93U3VnSVIwT1l2R2VBOUUtUllMQjdqVGk5ZlZSWG1UR255Vml3ek41VWxSVWVLMy1uRVdfU2VfZHdENW1qRzRKcWg3UTFTOTVUeGhZQ09LaDJVTGdYOXBsdDJfbWo1UHp6ejd0UQ?oc=5"
     }
   ],
   "insight": "Tracking CBRE Group (CBRE)."

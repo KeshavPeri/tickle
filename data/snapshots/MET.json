@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-12T06:12:59.166Z",
-  "builtDateUTC": "2026-06-12",
+  "builtAt": "2026-06-13T05:56:59.228Z",
+  "builtDateUTC": "2026-06-13",
   "source": "yahoo-finance",
   "1m": [
-    78.63999938964844,
     78.08000183105469,
     79.18000030517578,
     79.77999877929688,
@@ -24,10 +23,10 @@
     84.37999725341797,
     85.56999969482422,
     86.12999725341797,
-    87.58000183105469
+    87.58000183105469,
+    88.83999633789062
   ],
   "6m": [
-    76.2699966430664,
     77.51000213623047,
     78.02999877929688,
     78.66000366210938,
@@ -158,10 +157,10 @@
     84.37999725341797,
     85.56999969482422,
     86.12999725341797,
-    87.58000183105469
+    87.58000183105469,
+    88.83999633789062
   ],
   "1y": [
-    78.98999786376953,
     77.3499984741211,
     78.4000015258789,
     77.8499984741211,
@@ -411,29 +410,30 @@
     84.37999725341797,
     85.56999969482422,
     86.12999725341797,
-    87.58000183105469
+    87.58000183105469,
+    88.83999633789062
   ],
-  "lastClose": 87.58000183105469,
-  "oneYearReturn": 10.874799594373894,
+  "lastClose": 88.83999633789062,
+  "oneYearReturn": 14.854554738761536,
   "marketCap": null,
   "topNews": [
     {
       "headline": "MetLife Inc. stock rises Thursday, still underperforms market - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc1A3Y1A2c3lxanduVl9tQzczM2M3VEEwamtEZTZMUjNhc2x4cHVGdTN2Wl9iSmd4ekR1MFNHZVlfZWU1UkdEblgtdzBzdW1YcnY0LVM0MjBHVG9aM0YzTDhjdVFScTI5Zk1USmdsT0w5MW5tMG5QWFd6a1VsRDVzSXVCaXpkdEl1blByUlhKZmg2eXJuTHZVYk5DSmF4RGNkQkJmdExJZHBuMlZYMGRad29iTk9zTGpQLUd5QWtLbksxSlVxekVKaG9VMEhNOXcyOXVV?oc=5"
-    },
-    {
-      "headline": "MetLife (NYSE: MET) director gains 678 shares via deferred stock plan - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcEVPYm9xeVdUS0JGcExzbnRfS1RLeXNsNTRnTEV2YU9RN0o1TUstRmwzUXFoMkwzYnY2bGs4bkl0ZUFhUFFvbmtHNGJ6Q0hhei1JZFRkRXZxZWQxT1g3MHFrclQ3d2JhYzhTaTByRkRpLWpMa1hnMGxRR2dNNWlpY2U1ZjAtWGpiRmYwNkdia0NYcW9UREN5TkJPcEFUd2JSZTBhZEZGcw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0lRbE1NZkZrQVVPaHpTOWNmN2FFRVIzTDVMNUpfNzFzMU5uZkl3MzhLazMtbHVVdjk0SHNqQzFSY3dacC1uRU9mMjc3UXhJMHJvaWZBS05pVWVqRF9QbXNVY3RLbU8xNGRNRG5RMTh3aVlIRUtLbi0zV1ZnQ2pEbkQ4V3hRYURzN0xBRmtQTExoYTRCSnVLcFFveUFobGpOMkpOZUpDQWdFOEd2X1ZyQTA5dVA0VHZDb0k0?oc=5"
     },
     {
       "headline": "Lincoln National vs. MetLife: Which Financial Stock Is a Better Buy in 2026? - The Motley Fool",
       "source": "The Motley Fool",
       "when": "2026-06-10",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0EwWlllUGl0NVozTnhLOG1ub2hrVG9CN0FFRlB0czluSjY2RlA0VDE0MzlZV0l1Mmh0Y0dnNXpVZElHd2dya3V1ZWlzMVBjaHVFeXFRVzFCQTViemdvQnd2dWU3UVJLUGV1LVF4SVpBWXVoSGxZc0QzR19XUl9HUjVYa2dGTGI5amZpYXpKWEZqUTExd2tvblNLa3VPZ3VTY0J5XzFKNDRLTVk2TjVKZUN0aUx0TXRqSGZoLTNaelo5cC1f?oc=5"
+    },
+    {
+      "headline": "Metlife Preferreds Update: Series A Drops From Hold To Sell; Others Stay Holds (MET.PR.A) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSDF5YkE4d2gyWW4tMVJfak1nRWM5LWhyV0hlaXJEa3dZLWN4Y09TUkFiT2loa25yNm9lT0otZU05UWZKWk1UNTktT2tra0hDRVhQaWJ2emFrTFJWM2VWQTB6emoyb2g3MW5WaGlZN3ZZalpsWHFreUZPOHU4T291LWw2R1VTM1hZdjhlSDYwRURiOC1pQVBfalJhWllaQTczNzZrX2VKaVlVT1h3aU9LNjJaMTVmTXB5?oc=5"
     }
   ],
   "insight": "Tracking MetLife (MET)."

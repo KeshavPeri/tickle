@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-12T06:12:50.434Z",
-  "builtDateUTC": "2026-06-12",
+  "builtAt": "2026-06-13T05:56:50.334Z",
+  "builtDateUTC": "2026-06-13",
   "source": "yahoo-finance",
   "1m": [
-    333.55999755859375,
     334.2200012207031,
     336.95001220703125,
     326.1700134277344,
@@ -24,10 +23,10 @@
     292.260009765625,
     297.5199890136719,
     289.1300048828125,
-    300.95001220703125
+    300.95001220703125,
+    297.67999267578125
   ],
   "6m": [
-    307.20001220703125,
     309.2300109863281,
     315.8800048828125,
     304.5799865722656,
@@ -158,10 +157,10 @@
     292.260009765625,
     297.5199890136719,
     289.1300048828125,
-    300.95001220703125
+    300.95001220703125,
+    297.67999267578125
   ],
   "1y": [
-    229.1199951171875,
     232.72999572753906,
     229.25999450683594,
     234.0800018310547,
@@ -411,29 +410,30 @@
     292.260009765625,
     297.5199890136719,
     289.1300048828125,
-    300.95001220703125
+    300.95001220703125,
+    297.67999267578125
   ],
-  "lastClose": 300.95001220703125,
-  "oneYearReturn": 31.350392205230715,
+  "lastClose": 297.67999267578125,
+  "oneYearReturn": 27.90787528062358,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Huntington Ingalls Industries Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORXpRY3pDZTlLQ3VLT1BWSWUtem8yWTdXdkczTEE4amdQZmd6aHRIRmtzWUVzQl9mNkRVUE5PVEdmRGVXdmV3QWlLeTUxaWVzSFdZN3JZN0FrZlQyS1RhZm52Q0h4ZkNkNXBYMzRCRFJxaXpJelU3dDJaYmI2VFdBTm1DTjREMnhsZm9hR3JSdm9wVFV5MFUxUndEM3JPaS1RX080cVpMY0tBcHVxSW5yZUQ5OVc1dWxsb3llODljcy1OLVZjdHVNOUZrdm9OYnMzcHhUcGM0RUxlc2ZrX3RCZ3E0TGo0YlVNcHdLalkteXdPVjJhVlFUQ2Z5d1BZUkpi?oc=5"
+    },
+    {
+      "headline": "ICICI Prudential Asset Management Co Ltd Has $9.87 Million Stock Holdings in Huntington Ingalls Industries, Inc. $HII - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQcFJwWXZSYWY5d1d4R2tobFdFeU54MnliakY3cHN5R1V6SzF3c3BvUGYxOVo1TlhoU2RsUEcydHZCb1FHbUw4VnhRbzNNT041dEd1RmlVdTlvSzU0X1RFMm96T2MzYzRhWkM3TzlGMVdHMjF1RC10SE10cF9vUWJzTTRBdVZsMkhiU3V5V2twMlVmMDVEQjdYMG92Q3g3MTlwdEg2UE1iOE9qcEpPSWJDckt5TFluMC13WWxTVEp5bmRMb3VlV1JIZDhJZlZZdHFoZjY2SzhCV3NuVTNJbm5fbXltekN3emFSVm1wNFV5RmhpLTF2OExSbFhIVWl4d1cyLXBJ?oc=5"
+    },
     {
       "headline": "Huntington Ingalls Industries, Inc. (NYSE:HII) Stock Goes Ex-Dividend In Just Four Days - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-05-24",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb09BWFA5TVhwT184VmhJZUZpMnQ3R05FMXJpMFJqSk5QR2t5dGlDT2tPWHlGSE0teW5ET1VMYlZrR05DUldSS1VLX0wwNTFBR2VUR09LRFE4UmsxQ3NPRkZsYk5vWENGb0Z3OUdoOGoyZjhGZDVDWWtmcUp1VHA2enFQVVd3N0RJMVdYV0tTNlpodVdCLVRkb1dNLVg3MS1vOHNZWVlB?oc=5"
-    },
-    {
-      "headline": "Los Angeles Capital Management LLC Cuts Stake in Huntington Ingalls Industries, Inc. $HII - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbWlXTUFrSU1OU0JHUGlFRFZoVHdsaE1RVENHdUdDNHdoYmJrWjFXdk9HVy1kdU1nX2pmb0cyQ09DN0F3VjNKREdXbi1iM2pkNW1fSmJxbm8zN3Z1OFJ5ZlJjdDNuMGwwLTFHRElHdEdwOElkZm5PNE0yQmhVM1d1azFpWmVLYmtkR0ZtRmpoNTRmWVYtd245VXBRVXljcWtUN0xmQmktUnBnWnJkNG9JZEo2TDY1R2tPNTJDcmg3VEdydVo3dFhORHBHWkozcFFxczV2cVBfX1prbzA5YU1ZQw?oc=5"
-    },
-    {
-      "headline": "Huntington Ingalls Industries Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWWRsNTBIa0g0MUVCMThYSlFRMnozeVVjdF8xMFZXX3JYOE9CaFVpWkJoSmtoMGpsWldXd2pqR3RWbzFYZk5VbnZyNFR4VFpfUnBGQ0NRVkNhWmhBcGNhai1aWWlTNWctZE1lWFBRVGR2MzhCUUlKcUtnZ19SX3ZOczNPUDFkNnRVQTY4Y1JvUHR6U0wwQlNZLUV6THlGRmpYb0QyOFluUXhUVWVScldFSjhrc29YbnQ5NmtGVkdrc1RzQkRWcTFRYWptM1U4eUtIblV4QjhoRTlfNGFYUmNtM0FWbTJ1b3M?oc=5"
     }
   ],
   "insight": "Tracking Huntington Ingalls Industries (HII)."

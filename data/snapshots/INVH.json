@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-12T06:12:53.461Z",
-  "builtDateUTC": "2026-06-12",
+  "builtAt": "2026-06-13T05:56:53.221Z",
+  "builtDateUTC": "2026-06-13",
   "source": "yahoo-finance",
   "1m": [
-    28.459999084472656,
     28.459999084472656,
     28.479999542236328,
     27.93000030517578,
@@ -24,10 +23,10 @@
     29.3799991607666,
     29.799999237060547,
     29.709999084472656,
-    29.450000762939453
+    29.450000762939453,
+    29.68000030517578
   ],
   "6m": [
-    27.899999618530273,
     27.65999984741211,
     27.3799991607666,
     27.139999389648438,
@@ -158,10 +157,10 @@
     29.3799991607666,
     29.799999237060547,
     29.709999084472656,
-    29.450000762939453
+    29.450000762939453,
+    29.68000030517578
   ],
   "1y": [
-    33.72999954223633,
     33.540000915527344,
     33.380001068115234,
     33.529998779296875,
@@ -411,12 +410,19 @@
     29.3799991607666,
     29.799999237060547,
     29.709999084472656,
-    29.450000762939453
+    29.450000762939453,
+    29.68000030517578
   ],
-  "lastClose": 29.450000762939453,
-  "oneYearReturn": -12.688997442580776,
+  "lastClose": 29.68000030517578,
+  "oneYearReturn": -11.508647897992677,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Invitation Homes Announces Cash Dividend - Business Wire",
+      "source": "Business Wire",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUlBrd1I1cUF1c0NxeHhCVmN0MTNTTV9YaHREQktNcWUtVHZ5SW9CZ0IxVTVycDNrdGRRaTFFVHVWMXR4S1lSTkxnek52Vmh3bEZZN0FwLUZjSldkQmZGZnVxamw4ZVZsUWp0a1IySU1DVk80Qzl6WnozY2E0ZHBUQ3lieFQxU0VpWjJiZjAxLU9iclNZd2tiZ3lad01UZw?oc=5"
+    },
     {
       "headline": "5 Reasons Invitation Homes Stock Looks Worth Buying Now - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDlEV1laNGdmUWVhdjV0aDZNOUhhRzRxdFBtZzRXZl94U0VhcWZDTDAxRl80ZUs2ZG84WlcxMlJ6UkF3VU1lTTJod0RIaVl4aWRXWWJNVG9CX09kS0hBYmhTWnR6NTRHcTRpUGJqbzNQcXk3QWpEeGJUUVNsUjJWRHlpOGlTLUtrVWhLdnltMWtRYnVScDVoZ1VaS1JwZw?oc=5"
     },
     {
-      "headline": "Invitation Homes Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUGlpVEV5blFGWGtWenduWE9kcEpGcnFMTlloZmNuNmpQSkhFUXc3aXRSMTBPR3U5N3Azb192RDh6Q3NfaGZoM3Vudld6cW1ta3lBOTlaSVR3b3FGVmIzQVh0dEQ4eXV5UkR6WllPUFRfSlY5MmJLV0xfMlljNEFlSVVaVlhiNkJQQlVnZlRob05GdUNuUl81cXVLZ0wyOHdVXzRuT0ZLY19vLUhtNFBmXzF2d3c1X0JyOVBMeWFLUWhxRGNtNWI2bk9Hekk2OFh3NTZCT3E4c29KNGtCNGZjWDQ1RnM4ckVGcWc?oc=5"
-    },
-    {
-      "headline": "How Slower Apartment Construction and Buybacks Could Shape Invitation Homes' (INVH) Resilience Narrative - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ1R0eEFIRmpGLXdzSHhDNm9wb09QNFkzWF85TXZNLWE2UVZPQ0w0dDFrY19Ud192bG9BN0ZKZWxqSUJlaUVyQkd4S1d1b1JBVlhjNGRFd0JmcDlsU2xoUUxWaU1QTUFTQ2RaVFlVNmp1OUFZd1B3YXF6ZlNoRGwxbnZQZldQa2N5V2JLWW5RMUx3YzNfVWc2VGFSRzFwWjdLS3N1SURRWlpaZ09ZMlNSV0lnSWdFVVUtWVNRMGFQNlBqNkxKRnJkNUVFRHVid0JyWlHSAdcBQVVfeXFMTUJzMXZxMFU4UVExLXZvT3lNWlJ4UjBISEJ2RTVGNkdEMzRDcGFHQjMyYkVkMlItRmxzWEVvbDlrc3lSejdINjVsd3lXeDJLUWpIQ0ZQQ1BLeXFRNW1wbnJXUnBsMVhUeTdveE9pR3hpUmUwWS15NkxBT3FSMDVLYVMzWmJQWUhjZTZEMDZHS05RNmdWb2NfU0ZEaklRczNzT3Z2bGVNSlc2S01ydVV0ZWdNUVFyckxmLXc2bHVmeVZTUmlUVHpoM2N6MnRRN2s3alBfdE5JT3M?oc=5"
+      "headline": "Invitation Homes declares $0.30 quarterly dividend - Investing.com UK",
+      "source": "Investing.com UK",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLWk4c05SRm1ISTlja1VzQmxqcHBRN1NoTXdjc3hxa3dWZ0FvZjRvT294UjRYbjlCTms2VU9TUFRodnVBZ3E4VmpXcmp6Q2lpakRoT0xtVndDdTBlMjF6MV9OSHFFbTVDb0w4Z2hSZlpYT0ZIZkVuWGFaYzludmtkX01zTjdPSXQ0TG5SUW1IeGp0NkF1aHhBd1Y0UTd2VlFGNWhFbXZUaUhQemtTa0xpR1lTN3dlMXZ3cm9rU3BR?oc=5"
     }
   ],
   "insight": "Tracking Invitation Homes (INVH)."

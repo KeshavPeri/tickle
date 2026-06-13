@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-12T06:12:20.256Z",
-  "builtDateUTC": "2026-06-12",
+  "builtAt": "2026-06-13T05:56:20.203Z",
+  "builtDateUTC": "2026-06-13",
   "source": "yahoo-finance",
   "1m": [
-    213.80999755859375,
     208.6300048828125,
     208.3699951171875,
     214.47999572753906,
@@ -24,10 +23,10 @@
     229.0800018310547,
     231.1699981689453,
     231.10000610351562,
-    225.77000427246094
+    225.77000427246094,
+    226.2100067138672
   ],
   "6m": [
-    257.17999267578125,
     260.2200012207031,
     259.3999938964844,
     261.6300048828125,
@@ -158,10 +157,10 @@
     229.0800018310547,
     231.1699981689453,
     231.10000610351562,
-    225.77000427246094
+    225.77000427246094,
+    226.2100067138672
   ],
   "1y": [
-    309.75,
     306.82000732421875,
     307.9100036621094,
     307.6199951171875,
@@ -411,12 +410,19 @@
     229.0800018310547,
     231.1699981689453,
     231.10000610351562,
-    225.77000427246094
+    225.77000427246094,
+    226.2100067138672
   ],
-  "lastClose": 225.77000427246094,
-  "oneYearReturn": -27.1121858684549,
+  "lastClose": 226.2100067138672,
+  "oneYearReturn": -26.272732770379747,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Automatic Data Processing, Inc. (NASDAQ:ADP) Could Be Worth Watching - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ3BfLTdMV19yb1hBSGhGUk9Wdl83dEI3LVZwUFhjUy0waXN1MmwxN1Y4bnZtNkM5bFk1OXBvUnFqWWVUSTc1TC1ydDE4RVFLNFVWTVpCQXh4LVZNLW51d0NQWG9aYmM4UW9aaE1IWXRVcnVkUmlRcTBObEZlTUdIa2h0U3owZnRrWmYzWVhkNFhWc2JreXJXaVNGNXVQS00?oc=5"
+    },
     {
       "headline": "Is Automatic Data Processing, Inc. (ADP) A Good Stock To Buy Now? - Insider Monkey",
       "source": "Insider Monkey",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ29oNnFJRGhXbXFsOVd2Z01PQTMtQUNrYTdLdzJ4ZEZvcjNhcFBxZFctWG5yNGhVbWw3blc2bUVRWGdwaEtBanBmcGhHazVSMmVLRjhQREt4ejhDMENPTzJKT3ZXejZCM0pRYVVBWTJSZmRDR0FWZWNudFFENkx3RlJIcXhLUGRXU2oyUDZyVGs0cEU2MDNhVXhXRGd4WFZMMUw1R0lyMNIBrwFBVV95cUxNamhYaWJZNV8tWXBCMHJwcXV1X1lMRE5ia19EcGNuY0pFLUdfSV94UWJXZjBqc2tPNXBVa25SNHZtdExLcE1xTEpfc3Fzb0RMU1BuSnVKNm1xQ2lfWGRaRDVqQ0JuVXA3Z09CeFRmM0RHVXRGdzdIX3JIUFVDbHM0bE9aWnA2ejVVdFMyMmVWbEpfTXpxNmFKNDhFV2hCdTNkZmZraExiVkpJSlhlQ1ZZ?oc=5"
     },
     {
-      "headline": "Automatic Data Processing Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "headline": "Automatic Data Processing Inc. stock underperforms Monday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSk5yNGxwVzdzbUg0N1JISmlfejVTbzF3WUdCZE1DU0U4UllBVThWS1l4SDZFLU5tRGhnLWdwalM2UXcwb0ZPdTR0LTd6anJneHFDMHhHSGxrWHhzOXBvVnFtN3lfLTBDak5XVnh5cGxXYlZiMHA4RURaOTBDdmFzdjAzX3JBRDZDS0t3UWo1N0tQLUdvcUtEN3RNSTlhYmp4MlpXZzBwWWFBQWIzTndJTkJGRlM4Yl9TSkNFVDkxRlB2czBrYmE3SHI1Q3NUdUxfU2VlcDRITGVYTy1abWE4Wk9yd1VGRnJMd1lPdVN1c2pLOE5RX2c?oc=5"
-    },
-    {
-      "headline": "Possible Bearish Signals With Automatic Data Processing Insiders Disposing Stock - Yahoo Finance",
-      "source": "Yahoo Finance",
       "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMU44X0lncjIwQVI0Zm5kdUxELWZSSHRiSWRxWW1aN1c3U0RRUnFRM0hfMkJ4bDJudkNOS0JoUDJaTkx3TzdhUXJSQUlSVHVaWkdsOGFhdl9pejgyOEZVMWlJejR0bjlBVVBQNjVSbGVPREVKNDIxdlU0WTc0WlpvS1hYM2t0ZG05S0MxRTlIbElYWlowSjF4RnFtdTVhOHFKeFEzd2M5cw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVHF6X0tXWUxGNU03UUJMR0RUcUJHZnlwbl9tbzFIWjNQSEpOcFNVekljMUxHbkYwQXg4V1RHRWNjbjIyTjZrMzZza0RFdEVkYVpEU1ZMN0Z4QnAyaWVHSjdOS2g4VmlGdF93S1YwWGlJd0ZlNUVMQzVFc2NJUGVLUTZMSnQySDdNdGk0c2I1MWgtNjducWF6cDdCNFRhMHB4OXAxR3FaOGxxZnhSU1YxV3Y5SkwtZW9KTGg3Q0Nla3NrQlo1aGMxX2VxWTd4RDZxNkhhLTNnanpSQ3hIZHBlc2owNkhlaWRmTkNIc3VuUmpYdk5UVlE?oc=5"
     }
   ],
   "insight": "Tracking Automatic Data Processing (ADP)."

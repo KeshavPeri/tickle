@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-12T06:13:03.307Z",
-  "builtDateUTC": "2026-06-12",
+  "builtAt": "2026-06-13T05:57:03.243Z",
+  "builtDateUTC": "2026-06-13",
   "source": "yahoo-finance",
   "1m": [
-    76.04000091552734,
     74.23999786376953,
     71.58000183105469,
     70.83000183105469,
@@ -24,10 +23,10 @@
     75.06999969482422,
     75.62999725341797,
     73.9800033569336,
-    75.58999633789062
+    75.58999633789062,
+    76.68000030517578
   ],
   "6m": [
-    72.47000122070312,
     71,
     70.16999816894531,
     73.44000244140625,
@@ -158,10 +157,10 @@
     75.06999969482422,
     75.62999725341797,
     73.9800033569336,
-    75.58999633789062
+    75.58999633789062,
+    76.68000030517578
   ],
   "1y": [
-    71.19000244140625,
     69.4800033569336,
     70.66000366210938,
     69.22000122070312,
@@ -411,17 +410,18 @@
     75.06999969482422,
     75.62999725341797,
     73.9800033569336,
-    75.58999633789062
+    75.58999633789062,
+    76.68000030517578
   ],
-  "lastClose": 75.58999633789062,
-  "oneYearReturn": 6.1806345632672794,
+  "lastClose": 76.68000030517578,
+  "oneYearReturn": 10.362689407561291,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Omnicom Group Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "headline": "Omnicom Group Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSEpueDlpTEVKeUxMRlFncktNWU1sU2ViVXZoWTJMY1JaSlNYcmFPaTNVclNoc0pZM0JXYWdrQldsYXl3YWFQd1pGdWFWODZZclNKOVk0aUh0R01tV1p0VWJiYVdqYmZLRk9iWDFndGhXRW9jcW13Ml8xMUFFTVBXT2VHcVRMVW0ycEttQWlEZTVsRjN2YkR2WVRIaVFEWEFuSGFHa1NTcFlXLUxyVEI2cUY5UU5mRWlyeE9tT19nRUtISDZfWjVKYllvNkZOdw?oc=5"
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN1ZUUFg2VnVXdmlYY1VWQS1hWDV2bk9LRWN2eTZfOVg1M2tuYlplaTdPa0JCdWxhdWdEMWJwWFpqdDhtSk1SNTRZek5hc19uellwTWFhSVp6ZWMzU0FvS1ZTb1FkTlVhbTJVSExncExfX0h0czBxLTMyUG1aTUxOQW0tSGdYTTVnRHg4aVJTc1hTY1MyZDRuTndVRzlIb0xNT3l2aWE4M1BIVmMwbS1LQkc3LXZfUEdwTzFZb3dfYkt4N1k0bjNIalZhdUhSU0I1eEFHenh2Smh3V3podnp6Zw?oc=5"
     },
     {
       "headline": "Why Omnicom Group (OMC) Stock Is Trading Up Today - Yahoo Finance",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91cmp2OVUzZC11SDZKT2lubGZKZjhqakdJVnUtVEY2aS1kYlVRdTU5dHM2UGFmOUZVUWtJOVN4TzZVLVNfZjZqdHNIdDdvTmJyUVlJN29HZGVOYmRGTXRUdXROd1lkQkVvQk9jLXpIcl8zSGpnVHM0ZUd5YWw5Zw?oc=5"
     },
     {
-      "headline": "Did Undervaluation Claims and Insider Selling Just Recast Omnicom Group's (OMC) Risk‑Reward Narrative? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdWNyZi0wZUhJeFRQUUdpdzV5dzVOYnpKNVFqNEl5cmFzaDBhR3V4MW96OUNXM2xOSjhOMlJFbFJlUFJuTDl3WWRxdGY5cHFhemdVQVNkaG5zYlJGWVlJU3ZpVjcxODhrUDNvdGxMRDNtLVU4NmZYTlZvQlZvS0hFUGNqNXh6NXEzRXBRLTJBRHVSbVlHSWVTYWhIUXBnS3RrMjRVcnRndUlvZkFPaUJRRkFFdmJiejI3VXhLRkVyelEyTjhW0gHKAUFVX3lxTE9tX0R5N3RWMnlMSTUzYzJXd0E4cW92dnRRUWV3UkEwNE5meTNtVEJfbEQ0eFNYa3pTUkpUdkNpa25ROTVDQXFTdTRFUHdPbFVBZ1daaUJucXkydU5QMGl4MUJvVDREWlRDZHo2Z1doNDFCYjdoR01QbEY2anIzcVdxTW1Tc0R6TlltOXBNSGVQbG1iMndOUjdIREhKYnJ1eExoT0JzUk12MmhaYk9qODRTMEprcWl3NVdJZlc3MmVCTlF0N0JwSk1kSGc?oc=5"
+      "headline": "Omnicom Group (OMC) Stock Is Up, What You Need To Know - StockStory",
+      "source": "StockStory",
+      "when": "2025-12-10",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWJyaGhUTVZ3b2R3bzl2b1VYZmFBMGNhTE80WHkyR3lUZHpUZ0hmVW12a0daNVNiUVNkR2ZFVFpxdmZZb01WNE1kRVBTUFBnOGstV0NheWhfQUp5M0xvSWhGQzJqakp1anNrbldnRllSUjNTT0JsSmhXODhGY1dYV0k2Rnl2bEYzX1dGZHA2VjYwNHpmc3pKdDF2VWJNWWgtRDU0MDh5QVZmLV8wVzFFeTJ3?oc=5"
     }
   ],
   "insight": "Tracking Omnicom Group (OMC)."

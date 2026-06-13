@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-12T06:12:36.930Z",
-  "builtDateUTC": "2026-06-12",
+  "builtAt": "2026-06-13T05:56:37.096Z",
+  "builtDateUTC": "2026-06-13",
   "source": "yahoo-finance",
   "1m": [
-    50.540000915527344,
     51.15999984741211,
     50.599998474121094,
     49.310001373291016,
@@ -24,10 +23,10 @@
     46.9900016784668,
     47.060001373291016,
     45.060001373291016,
-    46.84000015258789
+    46.84000015258789,
+    48.2599983215332
   ],
   "6m": [
-    39.52000045776367,
     39.65999984741211,
     39.81999969482422,
     40.5099983215332,
@@ -158,10 +157,10 @@
     46.9900016784668,
     47.060001373291016,
     45.060001373291016,
-    46.84000015258789
+    46.84000015258789,
+    48.2599983215332
   ],
   "1y": [
-    28.635982513427734,
     27.97907829284668,
     28.44351577758789,
     28.092050552368164,
@@ -411,12 +410,19 @@
     46.9900016784668,
     47.060001373291016,
     45.060001373291016,
-    46.84000015258789
+    46.84000015258789,
+    48.2599983215332
   ],
-  "lastClose": 46.84000015258789,
-  "oneYearReturn": 63.57043146895375,
+  "lastClose": 48.2599983215332,
+  "oneYearReturn": 72.48601907615978,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "DuPont de Nemours (DD) Stock Valuation Gap After Recent Pullback And PFAS Litigation Risks - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORExIeFpYSTNlU3VGZU1iaEhSVDZTYzJiMzFOVUd6YTlETThPMDV4X3VfampuQVd6RGxYNkoxdjE1Nm1Ua0ZsTzRLRXVZZzdBX2NxOGotaHIydFk0TjgxMV8tQ1I0eXI1RVBuVlY3U25qMFJxWFNiQmlzTlM5SkNGSVphVE5DN1lrcTltS2xBaW1SM1RpTjc5OGJ3YjE2Ukk?oc=5"
+    },
     {
       "headline": "DuPont Plans Reverse Stock Split, Backs Guidance - WSJ",
       "source": "WSJ",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZzVGcl9VWGJGY1BxS2NYOE55aklBWkV3YUV0T25QWHVJLTJxNkQtZWVkQ3VxM0hORHpKVldlR184cS1jU1hXVjZ1NlFxY2RGUHV5QmZZUVJIUkYzc3JRNzRUTHBOcWp2aVdaYWNneXNuNDE0UUk1R3dSbk82dFVwRzVrR2h4cUdrTWhnN1JSdG40Vlk4VEVN?oc=5"
     },
     {
-      "headline": "DuPont de Nemours Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLWJLY2FJVk5xZTFNenFMUHJ5SFktVW93RDJvbmI3QkRnaVFIU0xDV0xOemhRZHFFemZRaUdZQlB0MzFWTC1Ta2tQSEk3OUdibnU4NzZqLVBsS1BfVlkxTGdQeHNwSUc3S0ZrUm82Z0lpdnRkSjFHY2djLVY1LTdXQTh4bVRZZ19UeGFhQXRucUFCOVlBRVl4VjY1VmRWUnlfTDc4ZEZKejU3Vk9RYllzcTBEZ3E2ZjFzRGZ4RF9HOXFpV1ozcFU0UmI3dXN4TFZfMFpBOVBtQXVmcnBOVFp6QmxIYWlHZw?oc=5"
-    },
-    {
-      "headline": "DuPont de Nemours Inc (DD) Shares Surge 4.0% -- What GF Score of 73 Tells Investors - GuruFocus",
-      "source": "GuruFocus",
+      "headline": "DuPont Achieves Renewable Power Milestone in US Healthcare Sites - Zacks Investment Research",
+      "source": "Zacks Investment Research",
       "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUZvQkNyUlc5OFF6LVh6ZGVWVFl6VXd0WVg3MlVaN3BuWW5hVXFiNFNKX0J2aW5LYm9ZaFY1VG5JdU50VXp3b0ZJV0lQWWhBcHJaT0ZXNmMwekVaNEZ3T2V4cWtFbThwV2xiYWVuaEZ1OGVFci1xMzZnUzBaR0tVWmRDZm1XWVZMdFdTQllUdXJGaGlHaEZfamRlYmYxVDRXTlZnRDhTaVR2aTgzZ2RmXzRGUWJnUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZVFaVHNJeXAyQm5ManQ5b2JUMTZXeklDeGhIRjA5Wm1SX1U4V1JiQnNId3pfektiOGhyLWs1cEYtRXpMZGNXWmtLM3ZSWjZCSUxxWkNHdTJwQm9JT0thS2FjLVhJcndXUlFmVEF4Z2ZrTmxfSmlpNUYyVnJuazJrR2ZkYTZLalp4VTAxRnE3UVZ0VU0tcFl1RGJSRjhERXRVc05nRzR2bGJrS0liZnJBd1Ntdlc2eS1XdW1QNHhhN3Z0RmJQMVJackVDa0tjLThtVnhSSnVhenBRbHFiSGIwUll3dnJaM3I0UlE1ZTFnUWRZcjZ3ODVJLXNNbHJsVmM?oc=5"
     }
   ],
   "insight": "Tracking DuPont (DD)."

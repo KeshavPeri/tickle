@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-12T06:13:07.452Z",
-  "builtDateUTC": "2026-06-12",
+  "builtAt": "2026-06-13T05:57:07.409Z",
+  "builtDateUTC": "2026-06-13",
   "source": "yahoo-finance",
   "1m": [
-    90.18000030517578,
     91.16999816894531,
     89.44000244140625,
     90.87999725341797,
@@ -24,10 +23,10 @@
     88.08000183105469,
     88.7699966430664,
     89.2699966430664,
-    88.69999694824219
+    88.69999694824219,
+    91.0999984741211
   ],
   "6m": [
-    92.06999969482422,
     93.98999786376953,
     95.02999877929688,
     93.81999969482422,
@@ -158,10 +157,10 @@
     88.08000183105469,
     88.7699966430664,
     89.2699966430664,
-    88.69999694824219
+    88.69999694824219,
+    91.0999984741211
   ],
   "1y": [
-    88.5,
     87.36000061035156,
     88.97000122070312,
     88.95999908447266,
@@ -411,29 +410,30 @@
     88.08000183105469,
     88.7699966430664,
     89.2699966430664,
-    88.69999694824219
+    88.69999694824219,
+    91.0999984741211
   ],
-  "lastClose": 88.69999694824219,
-  "oneYearReturn": 0.2259852522510593,
+  "lastClose": 91.0999984741211,
+  "oneYearReturn": 4.2811330559061,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "The Charles Schwab Corporation (SCHW): A Deep Value Stock to Invest in Now amid Cryptocurrency Focus - Yahoo Finance",
+      "headline": "Charles Schwab's core net new assets rise 49% Y/Y in May (SCHW:NYSE) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXpMSWJIWWZocVBvVzU4dVdqcUZoay04SmJXS0tEazAzbUVDV0loYnhOMThkQTJmdjFKZXZabUtxR2FMZXNjd2lVdHZaTERvR0RUNE96dEk2Vzg0ZUFVQm1Ec3lMc1hURlZDMHRrWkJWNGhYYlkwTjNMVDNWVUlrV25XTlg2OWd2QmZFbWJtRzZoWU5NODAyenpOLXBMSEJGMEs1NFJYTmVHMTU0Q1pBYjVHclA?oc=5"
+    },
+    {
+      "headline": "Charles Schwab (SCHW) Stock Is Up, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORHFsYXUwaG9NY0xkbmU1OUVzX01vX2UzMTZKbmRSMDZuaE03Y3FEQTVaaE5zR0s0YWozcUhvell6aXZMaXdRc3o5a0RVZU5NZGRScUl0bWtjRGREdzJxNEN2OWkwQ1UwSFNfemNmU1BQUXF6cHNsRncwX0VtTXB5bTM3eGFGQUtwYjl4bVhTNm1CbnA3c1JYdVl5VnVqaVhkcFA4?oc=5"
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDVCcmFVV2k5ZTFpYnphRVNveFhzcWhlMml2T0ptM1YwZmdIQV96Qkw5dU9TTnkzWWZXTmVYcGI2R2hHTDVBbTNXVEVOZENwMUJDZEFVamhQb2dZQWRRODhVX05DVmtkOXJRMkhKblFqdkJ1TDI0anJ5MVdVd0NtQi16MENxa1VhSDlZcnlXS2VnT2tzUEd1Uk1yWQ?oc=5"
     },
     {
-      "headline": "Top 5 Large Cap Value Stocks to Buy Now - Insider Monkey",
-      "source": "Insider Monkey",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZVVob1hwQmZyTlNxLUFES3U5WFlQYk1DbzYxRmVrNUxiYUZoQ2hIX3V4a01tdU8yVmxEbGJCUElMQ3lQck1TdmhQeVNWYXNyaU8td1lnVGY4VVRKczJwSW1vSkh4R1l6Y2JxekpMdG9tRmJpSkk4MjczVkRkVFE4OEI3N3ZlSVk1YXZNbg?oc=5"
-    },
-    {
-      "headline": "Charles Schwab (SCHW) Foundation Launches Financial Literacy Grant Program - Insider Monkey",
-      "source": "Insider Monkey",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZlZfRms4dkd0VTVQOENEWHZHNWloOXY3X2FEWEJUVGpDeHZIeTJRc1J4Nl9YSVRWZ1NtUkxSem5lT2twZjZkTHdYWnBPS0pmc1BMaUJIa25GZEJNT1lXeUF2Mm9EXzhwWW9BZ190UXA0SjBtSGJOOXpDdHBuQV9jcllxRnJ6cWxJcE9PM09vV01NcVM1TDRUM1NWN25uc0lTSXVUWDhhVnV3a2JIdDZwaS00a0t5VmfSAb8BQVVfeXFMTnJhSHBjV3ZibDhzeXJGb2tlQ09lOFpYUzVtWUJtclAzUnZ0Nkdmd1d0TE9CcFAycjZHSHo5d2FpN2FBSV9YQmh2cG9VakhGMVNzR0ZxOHF4NXlHY25FVjRpSkpXMTlTZ3pPbTZQa2RMV2QxUjVkRGEyX2FlZm5za050d19sTDBFNDFEMS1hNFV2bG5YRGd4b0ZIVkRnczRQaDZwcVdxNjBrYmlzak1PcC1KVVBpSnNMdVgwMUlEYUU?oc=5"
+      "headline": "Charles Schwab Corp Stock (SCHW) Moved Up by 3.71% on Jun 12: Drivers Behind the Movement - TradingKey",
+      "source": "TradingKey",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONmJEeDViblduQS1hUVdlTDlZY2RFaWh5TUxIVm9tMnAxZllmLWZFMGdYcWZ3X2FNbXJpNkttZnZnYUFYdUdBUm1rNE1sdUJZMzJxNHVuWHAwQ0hudFY4X2wwcVRVbS1TNlFyb0Q4LWhxUGw4Q08tRHlVYV9wanA1OE5mM1hNLXRvRXh3?oc=5"
     }
   ],
   "insight": "Tracking Charles Schwab Corporation (SCHW)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-12T06:12:40.823Z",
-  "builtDateUTC": "2026-06-12",
+  "builtAt": "2026-06-13T05:56:40.626Z",
+  "builtDateUTC": "2026-06-13",
   "source": "yahoo-finance",
   "1m": [
-    106.9000015258789,
     106.16000366210938,
     107.12999725341797,
     105.36000061035156,
@@ -24,10 +23,10 @@
     104.30999755859375,
     106.4000015258789,
     107.5999984741211,
-    106.83999633789062
+    106.83999633789062,
+    107.73999786376953
   ],
   "6m": [
-    96.87000274658203,
     96.44999694824219,
     96.22000122070312,
     96.5999984741211,
@@ -158,10 +157,10 @@
     104.30999755859375,
     106.4000015258789,
     107.5999984741211,
-    106.83999633789062
+    106.83999633789062,
+    107.73999786376953
   ],
   "1y": [
-    103.76000213623047,
     103.95999908447266,
     101.62999725341797,
     101.3499984741211,
@@ -411,12 +410,19 @@
     104.30999755859375,
     106.4000015258789,
     107.5999984741211,
-    106.83999633789062
+    106.83999633789062,
+    107.73999786376953
   ],
-  "lastClose": 106.83999633789062,
-  "oneYearReturn": 2.968382939715358,
+  "lastClose": 107.73999786376953,
+  "oneYearReturn": 3.6360127092973893,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Consolidated Edison: A Steady Dividend King, Solid Valuation Ahead Of Summer - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-13",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWFiejNsQUwxUGlvSVp6dEcwSE1UZ29sR3Z3SXh0eGo2dDJzbV9semYwd0lYd0lNQlpXa0p3Rk9KSUwtZ05vYW91VmdrakMyY1l2Wmx4elp2ckVNT3p6ZUxJb1JQYzdnanlnWWJaSmJScFFnLVdCSjhCWVFwY3FVM045X25qa2s0X2ZBZmpqX1JPa0t6Z1JwcW1PX3FIb0NsLTRpR3VZZE5ldkFfazB3S3lNVQ?oc=5"
+    },
     {
       "headline": "Is Consolidated Edison Stock Underperforming the S&P 500? - Barchart.com",
       "source": "Barchart.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVhKdDhldHBnUDk5TUNCZ3RybGpMRXlFUzJXSlFNMXBSdmVyb3BhcEpjQ3RVVmU1TFNBbXhKazZiaUNyXzdLY09FRFByRTFaU19PbDJzTGZqQ19CSVliSy1PVXplZWQ2a3o5WEh5c0N5Y3hXaXVfZHhHVXpubkJiYmpJWGRMN3RsOHM0eGEweW05UnFkTnJqYkpmNXFVX1AxZ2c?oc=5"
     },
     {
-      "headline": "Assessing Consolidated Edison (ED) Valuation As Shares Trade Near Estimated Fair Value - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSjJYa0dPUktyVUZ6SUZZYUtPYTFHQS1oa1RvNHNVWDVtLXdDSURKSFY0dFh0Q1FwSTFDN3pXUDNwZUFRNk4wMnBRSG1iU1YwWU8xdERmalBCalRyTTZyYzdKc2hCRGtFZjRlOS1vU0JFTEMzYTJJQUZ0NGdPVF9DejJTSzVlY3J1cHZTNkJ1bkVFZnlOTGtPOFhieXRLY0dLWXlHYUFndmc2ZzluRHpyRk43cWdhZ3NTR1hXc3RPVkdzM1ZEcFh2UWhkeWFxRzRoVUhLd1dR0gHWAUFVX3lxTE5KMlhrR09SS3JVRnpJRllhS09hMUdBLWhrVG80c1VYNW0td0NJREpIVjR0WHRDUXBJMUM3eldQM3BlQVE2TjAycFFIbWJTVjBZTzF0RGZqUEJqVHJNNnJjN0pzaEJEa0VmNGU5LW9TQkVMQzNhMklBRnQ0Z09UX0N6MlNLNWVjcnVwdlM2QnVuRUVmeU5Ma084WGJ5dEtjR0tZeUdhQWd2ZzZnOW5EenJGTjdxZ2Fnc1NHWFdzdE9WR3MzVkRwWHZRaGR5YXFHNGhVSEt3V1E?oc=5"
-    },
-    {
       "headline": "Consolidated Edison Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQm1OYWlFZi1sN0hrRW5hTDc4aUZQTmJ1S3c0NVhXSFBzZGlOZHRRX3B3d3N0dXZmWXdXRS1BM3ZaQlN6dkJ2TTdGeGx5MlFqVjY3NjhvNm9nVFpKa21EcHRWT2h0SUJyem5qSFFxNWkzZ1NIWWkwSWRJWUZ4RGh0U2R5djV4ZkRyOTZ3SlZHVFRoNTFLR3gyczhwcHNodHVScDU1TnAtSmtoQU9sMmY4WFU0NTN4YlZBX2NxR3VISlNhNG1nMFVfaVkxN0EtTTJKR3NKT2NmZGtpM0pXX3NxR1Bkc252Vnlr?oc=5"
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWTZlZmRQcTBpUW1MX0FfSktsOVphVGxIcXZGcVpuNEFVVmdiQzhDWHVjN2RiWkFMOV9HTThRdFpRX3lHVzJOWTBQb3FSc09TNTNZUjFoeXpWSm15dHF6dWxLQTh5TnVtMTdjbmQxeTgzQVVBZVlfblBzeEZfZ054eTdFYlNoVkEwVGtaZ3lOXzFxbUg3XzhQRXZ2QTZ5MlY1RGFYaG5XX2J2OEQ2dmE3NzIxYlFIazJNRzBwbjVwell2N2h3ZFktcE1uSGNyUXdKMnVsSVBKUVA2cTRLRTJvdGhkdFpDM1VU?oc=5"
     }
   ],
   "insight": "Tracking Consolidated Edison (ED)."

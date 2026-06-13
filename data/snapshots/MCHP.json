@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-12T06:12:58.919Z",
-  "builtDateUTC": "2026-06-12",
+  "builtAt": "2026-06-13T05:56:58.685Z",
+  "builtDateUTC": "2026-06-13",
   "source": "yahoo-finance",
   "1m": [
-    97.69999694824219,
     96.70999908447266,
     97.04000091552734,
     93.8499984741211,
@@ -24,10 +23,10 @@
     91.37000274658203,
     91.47000122070312,
     87.91000366210938,
-    92.94000244140625
+    92.94000244140625,
+    95.23999786376953
   ],
   "6m": [
-    56.709999084472656,
     63.61000061035156,
     64.72000122070312,
     65.80999755859375,
@@ -158,10 +157,10 @@
     91.37000274658203,
     91.47000122070312,
     87.91000366210938,
-    92.94000244140625
+    92.94000244140625,
+    95.23999786376953
   ],
   "1y": [
-    67.93000030517578,
     65.7300033569336,
     68.19000244140625,
     67.69000244140625,
@@ -411,12 +410,19 @@
     91.37000274658203,
     91.47000122070312,
     87.91000366210938,
-    92.94000244140625
+    92.94000244140625,
+    95.23999786376953
   ],
-  "lastClose": 92.94000244140625,
-  "oneYearReturn": 36.81731491811121,
+  "lastClose": 95.23999786376953,
+  "oneYearReturn": 44.89577514029299,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Microchip Technology Seeing Early Signs Of The Upswing - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVHJFUHNhVWlRV2RLcnFiVDJWVmpOeHg5U3p0VGJnNU9iQUphaXp5QVU2RTdjejR3RU14T2xYQUlIMWJqYWFCejZJRkxDc0tydHRTNnNFR3hrVGgxd1ZTTUc1U0IwTFpHUjk0eGRGSzBfTE0zcWZ1U1VTSFJGM0dmdWhodjR6LVdVcTRmaDdjaHV0TDBqc1RoYkJtSQ?oc=5"
+    },
     {
       "headline": "Cramer's lightning round: Buy Microchip Technology - CNBC",
       "source": "CNBC",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSzZuaExmZmUwYmNGU3I3RlZhSmxwVW8ycWEtZUtpVHIwUURJbFpMX25GS3pGNlo4M0hMYURnc24yNkRIYnQ0RTZvdmN3cTlmSzlWZnh4aGRoalhqOXo5QlFTUjBDRXRSdWxjV3JPMTREZ1BOblBZSGttRmRUZXVFRDNmeWY4T3RlMHo3ZHVn0gGTAUFVX3lxTE1CXzRhRUMtXy1xR2tBNHNjWkxoT2Y1UTg2ZGx1OUxvMUQzWExsTHNmckJPeFppdGlfa0NEVUEzUDV5VDZTcDZSeVBmNE5jQVBlbFBrNlhaRFIxZk9JQzZ5Y00zRXVvVVA1R1ZsWmFQYjRIdDBWLXhuWnBINEtYYVVyeW5KaFFBSmNVQk5HejZNU2dhSQ?oc=5"
     },
     {
-      "headline": "Microchip Technology stock rises on France facility certification - Investing.com",
-      "source": "Investing.com",
+      "headline": "Seagate, Entegris, and Microchip Technology Stocks Trade Down, What You Need To Know - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdjhlWGdTd2swUm03Y2NnRVNMcnFEMkFpUjlsdlVUdVFvX2tvTGhydFlaLXRlUW5ZdG5TWV9pVWMteHo1eEVfWnNJSmx6U1lfQUg0dW5xVmlDUklrMEZ4dXdrMkNFTWFjSGZoUEFjTGNONlE1QllvOGVGQVhuSmxrb3RMRWo3Z1UwanNzMXVpcVhPY3RZMmgzeVlFM0tDTFFzYm9RZ0g1bHo4RHNQVUU5N01MVWk2MG1VSnN6NzNBZm1KWmxGYUE?oc=5"
-    },
-    {
-      "headline": "Assessing Microchip Technology (MCHP) Valuation After A Recent Pullback In The Share Price - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaGViWnJ3RDlWZmJlQUthRXVKNnF6T19KOWVoWXJnRDdOSzFtMzRYYk5HMThHOG9ncGhqbzA1eWhNUnkwVDhxZE5vbm5DQVREOVNyT1Jja0NCYlNWQmRwSHFEZ0pVNDBDbUNua2o3MUZyUl84anJFNXVMOUJMMDBPOEg2bU1TanJhSUZzejFLam1UbUZqMHh5WlBkOVRPS3EybHBEVzdtcklZck5mQlJPclV1TVROemlLUjEzd1NHeUpOeXU4NEFkbUxtalpROVlVUzdwZDByVm5RMEt3cmfSAeMBQVVfeXFMTzNSb1U5RFJ4U2s5UzZ4ak5pSFlmazlzdVZGcjQ0RS1LV2M1VUxCa2lkWWdWcTNXNHF1OFdjTGtLTUN0WVE0cFhuZDBaVnFsUjVkYU1DNG15cXNSUzBYSHF5bUl0SGVkNWVsRHhrTWhUS05sVUw2d1poVVBiVGx6NnFKYWdVZzJBam1uNDd3RFZVbmh2ZkNtOUtGYnBkZmowUmprMjJITl91aG5lQXVWV05JZEk4N3NkSHlUeXVzWllCUXNFSG1yYmoxOExNZkVGWlRISmwzVGhXWmtWR1NOdlNmQXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUxWX2lLTW5WV1dLSFB6UlV1SDFBdU1taEpLdWlQYUp4REVZbmliSmtsa1NuYzJnVVF3UmhyZThhNzdGeFhIOUFndDE2ZldBVllwbEtWck12WVZtblIyV1AwN3FCMndPeU1lRV90c0VFN3p0RVRXdl9ZR2ZPLXJ4QUtuaVVkak9CQ1lWdlFhRUFaYUNQOFN0azJaRE9Xb2V5QTBPT1lYdlBQc0dDMlE?oc=5"
     }
   ],
   "insight": "Tracking Microchip Technology (MCHP)."
