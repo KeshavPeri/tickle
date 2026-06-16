@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-15T06:56:14.409Z",
-  "builtDateUTC": "2026-06-15",
+  "builtAt": "2026-06-16T07:01:02.397Z",
+  "builtDateUTC": "2026-06-16",
   "source": "yahoo-finance",
   "1m": [
-    71.38999938964844,
     71.81999969482422,
     70.3499984741211,
     69.97000122070312,
@@ -24,10 +23,10 @@
     73.91000366210938,
     70.4800033569336,
     73.19999694824219,
-    74
+    74,
+    76.7699966430664
   ],
   "6m": [
-    79.75,
     79.98999786376953,
     79.86000061035156,
     79.30999755859375,
@@ -158,10 +157,10 @@
     73.91000366210938,
     70.4800033569336,
     73.19999694824219,
-    74
+    74,
+    76.7699966430664
   ],
   "1y": [
-    80.5,
     81.61000061035156,
     80.63999938964844,
     80.79000091552734,
@@ -411,29 +410,30 @@
     73.91000366210938,
     70.4800033569336,
     73.19999694824219,
-    74
+    74,
+    76.7699966430664
   ],
-  "lastClose": 74,
-  "oneYearReturn": -8.074534161490684,
+  "lastClose": 76.7699966430664,
+  "oneYearReturn": -5.930650571115473,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Ingersoll Rand Inc. (IR) A Good Stock To Buy Now? - Yahoo Finance",
+      "headline": "Ingersoll Rand Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSDFGVzdQQTdaNWtqcWNleHpkeEwwdElRbHFzeHV4aVRlVG1BaGw4a0xLenJQZEx2WWNfdzhsZnBzRHB1YzJZT2hzQkJqTHNOQ1BGV1FhUzh3TWFiZVlaQWVtbnJFZnN0Ykk4OVBxNE9sZGVseTFNdzFvMDhsRWV3VWxQanFFSUJGRDdCc2U2TlpjRkhGTmllNnRGVlJtYV80b3lhVXlqazQweGRuTDBpUHViTS1XNmRtT29lRVItSlFXYWZSekprWEZWMHphRTFmeWF3YXNWTXpfRk42c0pWdWpB?oc=5"
+    },
+    {
+      "headline": "Ingersoll Rand Is Slightly More Interesting Now (Rating Upgrade) (NYSE:IR) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeElkS3VyRnFwUGZYdzRJTzl0NDZySkdnRzNFSDdFMjVQS3A2dVAwZVpYNjMzdGhhRDRPeGxuX21mLTJ6QnQ2NEpxMmotLWV0OFV5WVJ0VDdPN21NZjNUZ3JwRjRUX0RxSWlkbk5Ha2pUQ25NQlctSV90WTFJWkVxOGRTa3NCNjJycVI4SEJXVGxPTDVpeTFuU0J2OHJSQkhFckw2alBfa3lmZw?oc=5"
+    },
+    {
+      "headline": "How Is Ingersoll Rand's Stock Performance Compared to Other Industrial Stocks - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWdRMFNRa3FZcXY5UjJhSUhWR2t0dW1Cei1qUms4TDh2am1vaVpSVVhQbXN4c3IzUlAybjhfbHd4a2FJb0hnOXJCZmZuRjFKRE85b05PZldTcDdBT3ZPNnkzeTAxS0xmWUdCX210QnFIYTFLdW5XQVU1ZTFRUHVqZXdnU3YzanhVdzJmRWpXaHNXQzFFX2c?oc=5"
-    },
-    {
-      "headline": "Ingersoll Rand (IR) Stock Revalued As Recurring Revenue Model Reduces Cyclical Risk - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-13",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGYwVlhKMGhDRU95aFY3bUFQYWxiQkpGNnRuY09ZSWNpWG9faDc3ZTl0T1ZRM0F3ZkpjWnhRTDI2WWQ3TElGNkpZSjNxNmVySDVvLTBZQ2tXRldmUGxFOVJ0UHdCOU9KRkkyTVA5UnlaNWRxb1d1OVNCMThnWGY2ZHFVQUlJSE9VM210b2VfVnFibEwzNjBSLVhiWGJrdWtReWJQWGhfUG5VOEpQVDhSLUI0M1VsYV91OWZOWEtRaVNIemtBSHBFRTNTeUl5QdIB0wFBVV95cUxNVHljQUIta1p0WHQwS3lXR3dzMHpLU3ZKWFhWSVFWb1hYeHQ1MHFjdFdIemFQR1VGZjhhbFNfdzhWd29jTjYyREt1bWNidGJzb3otcjY0Q2w3dGpoLUppUWpjN0ZUeHU1empySTFXY2I4U2dLV2FKNzFNMEQtbm5PZjZER1pJblZGVF9Jc0RqY19RV3JYMGNBOE5nQTVSNE9mR1RaUXR2NDRlRnlJNU1FQzdERS1naHR5bFlVR05KeS1LLTNzZHRhck5yUjdKR0F1ZE4w?oc=5"
-    },
-    {
-      "headline": "Ingersoll Rand Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNX2YyLVdacERMeXVZbHFkUlpHUjRmcU90VFlqQk5xeV94QVJQV0JhSUU3Rk01S0tUNmpHWWZxMFROZllSOXFTRjVFMVRpYmQtVjlaRFU3WTg2OEROR1RrMERkc0xjRjZCTTJDT1J4NDdRUzVRVVJWUndiSU0yUEpMeHJkQ1duWk1FdWpDOXhNN2c4Q0F3UkxvMktkelhYYjBpbmRHcnZENzhidk1PQTBuN3NvY1QtQnN2VFRpaFlHNU1tN2pYRVo5LXdPbFQ2czFhM24yWmliM2kzZkNIUWlVN1kwMXQ3NjByQ3lr?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDg2X3V1enNhbzBQQUdaaU9VdXpzSWtBSl9nWEpmRld6Szg5LThNWktWVkYtdlFmUmlSY3FtVFkxZlBQVm44WmE3eUJodWZVUGgzTnppeUNySlRBSXB6ZjBvNjVUbi1mVjljY3gxVXhuVG5WWXdscXRhX1l3M1pUR0V5LXc4N19rOHZmUGlXZkExZVdTMnZidndGYzU1d3FfUE9DX1VTaUZWcG8?oc=5"
     }
   ],
   "insight": "Tracking Ingersoll Rand (IR)."
