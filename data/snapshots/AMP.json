@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:31.693Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:33.979Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    469.17999267578125,
-    472.0400085449219,
     470.3800048828125,
     471.17999267578125,
     463.760009765625,
@@ -24,11 +22,11 @@
     449.19000244140625,
     450.6199951171875,
     450.3800048828125,
-    459.1300048828125
+    459.1300048828125,
+    459.8800048828125,
+    471.3299865722656
   ],
   "6m": [
-    470.1099853515625,
-    474.1099853515625,
     477.05999755859375,
     476.7300109863281,
     478.2099914550781,
@@ -158,10 +156,11 @@
     449.19000244140625,
     450.6199951171875,
     450.3800048828125,
-    459.1300048828125
+    459.1300048828125,
+    459.8800048828125,
+    471.3299865722656
   ],
   "1y": [
-    512.9099731445312,
     506.739990234375,
     506.42999267578125,
     510.3500061035156,
@@ -410,12 +409,20 @@
     449.19000244140625,
     450.6199951171875,
     450.3800048828125,
-    459.1300048828125
+    459.1300048828125,
+    459.8800048828125,
+    471.3299865722656
   ],
-  "lastClose": 459.1300048828125,
-  "oneYearReturn": -10.485264681442304,
+  "lastClose": 471.3299865722656,
+  "oneYearReturn": -6.987805254077482,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Ameriprise Financial Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWnhVejdxWlRkMmFTVWF3WWJ3STllN1M4MF9JWlltTm54QUp3VUF1WTlaU3oyX2dMQjgxZEtFSVBHaDd2ekllNGphRWlnMFVPSFhlOVBaRENHdjJnOVQwTW1PYVUxUWtYYXg0UHJfV21DRWZZUWtzRUFOYVVZaUg2NjdhS0QwakJuNkNPaG5hWFg1RWdlb19MNzVnUEVBUVEtRWZIaDJLVjNuYnhtQ2E5V3BmalhxVlpxMWQ5eFVjUkFsRmx0Y1NLVS1jVXpJQkx5b0E?oc=5"
+    },
     {
       "headline": "Do Wall Street Analysts Like Ameriprise Financial Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkZ3WEQ5U1dCUngyUXM1VXl6OTh3SElzUnpqMjdOUlIzSUJrcWNWNGVHR1E4V1E3eUxZbV9xc3VSSzl2MWFkRFhvNFA2VDQ5dGRZVVVfTWc3c0lxR3hkWVZYTGptanFUNWptMUgxY2UzMzg5ejhGMnA2eFlVQnNxZV9STXp5SUFGYUxRUVNFREFfdnBCMUVkT2JzdG05bkQzd0Z3eUhRNjVXZw?oc=5"
     },
     {
-      "headline": "Ameriprise Financial (AMP) Q1 2026 Earnings: Strong EPS Beat Drives Positive Stock Reaction - Forward Guidance Trends - The League of Women Voters of Texas",
-      "source": "The League of Women Voters of Texas",
-      "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWdxUG0yNGpYSW5rR2tpZTBqRXgzWXBxdlJhbk9NZ3gtV1oxcHZuZ1pEMUJJN0N4Z2hUU18zbXZoVnNWS3loZFhLbzhtX3ZDNnRuYkVzUWhzdXZQRS1HQmk2N3VyUHVWT1lVaTJjREVDS044LW5abGViVUxNcGNGa0pfX3RxaUNESlFOaFBLY3oyOWQ1eGdxVnp5YXlxbjJBTnZXemxmN0RWQ3NRX2xiRm9GNHJOaHppV2dNWnVCTy11MXdvUjRzYQ?oc=5"
-    },
-    {
-      "headline": "Ameriprise (NYSE: AMP) HR chief details stock, options and phantom units - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYTlpR01feEhRWXN1VnhqYWhyX25pT0VYWTVzdzRVak5CblV1MFR2WV9ZVC1NaTBfREdiZVdKMG5OdVI3aE1vQWNDQnhmWE4tV1lYZFpmZ3kwcVNoNnh4cmdVUllRU1o2aFloOFVwSGpUVmhTblRoU2MtOFNocE1QbDRMb0hNbGJxWjZMdDJJVENLbGJETmJWRnpONnlmR29fcWdNZWlzeGpSUHBlY3pYT3RiTWhoTEZaOERHZ0NydC1BcEoxUDU3UHBR?oc=5"
+      "headline": "Ameriprise Financial: Recurring Revenues, High ROE And Still Moderate Valuation (NYSE:AMP) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmVhbjczOWF4eWxFY3hOTkhDc3l6OGwwUURCb0dXMmFpUWxNemFQNEVOdGt0LTlSQzdVSkVjU3Yzb3VuZm93YmZEWVloci1hQmZPUWtnS3cxZm5BTVlwMXVxYTB6QkRiSG4tWDFSZkF3OGgtX0hUZmNMRkhDM3VVbF90aHMyM1RONzZVVmpKRFRmTFI3RzVvRmdZLTZTb25vd0NwenRFY2lTZEJNNFpCQjlQRjNnN0dEckQ5NXlrMzFMQQ?oc=5"
     }
   ],
   "insight": "Tracking Ameriprise Financial (AMP)."

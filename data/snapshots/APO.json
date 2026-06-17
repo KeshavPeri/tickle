@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:33.117Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:35.177Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    131.60000610351562,
-    135.52000427246094,
     135.3800048828125,
     134.07000732421875,
     131.14999389648438,
@@ -24,11 +22,11 @@
     132.6999969482422,
     131.13999938964844,
     133.91000366210938,
-    133.8800048828125
+    133.8800048828125,
+    136.11000061035156,
+    138.47999572753906
   ],
   "6m": [
-    134.5,
-    136.75,
     138.1300048828125,
     137.3800048828125,
     143.88999938964844,
@@ -158,10 +156,11 @@
     132.6999969482422,
     131.13999938964844,
     133.91000366210938,
-    133.8800048828125
+    133.8800048828125,
+    136.11000061035156,
+    138.47999572753906
   ],
   "1y": [
-    134.10000610351562,
     132.36000061035156,
     133.08999633789062,
     134.52000427246094,
@@ -410,29 +409,31 @@
     132.6999969482422,
     131.13999938964844,
     133.91000366210938,
-    133.8800048828125
+    133.8800048828125,
+    136.11000061035156,
+    138.47999572753906
   ],
-  "lastClose": 133.8800048828125,
-  "oneYearReturn": -0.16405757694992182,
+  "lastClose": 138.47999572753906,
+  "oneYearReturn": 4.623749689457821,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Senator Investment Group LP Boosts Holdings in Apollo Global Management Inc. $APO - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY1hGVEtyMW1IQmM4SGs4ZWdfTjRIMUFnMGdlSTNjRi1sRnAwWm9NY0hIQnJ2U0IwbjJSU0ZSczZZZi1zQ1BPMEJjb0dQR1VHZGdJVWVhNS0wQ0V4OWxQellKbWljWG1oZzZHTXhUdF9TbXVVTExseDdJYUNwd0hLRGtSbnZpNjBXX3B2TFBXUzJERlg2SVdjdDBQRkRJbTRMbU5oaldUd3haVVpraFVsZC12SzdaMWJuUnFXYXNFazlNOUFMajRJQXdQLVYzYzRFOHRPbzFzTQ?oc=5"
+    },
+    {
+      "headline": "Piper Sandler Raises PT on Apollo Global Management (APO) Stock - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-31",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHlJLUQ2YXB5d0s1MjMxMDdIWjBWSW42eUVWU21JV3BTTEFUSXRiaWJWZWMtb2VZMUNNVzl3cGJPd1Y5ZTZkRUg5VWlWUXEtdE5QV0ppVk9UbGZ2aU9LQ1kxUWwxZEc4R1RtOVlTekhleWM3cWtrOXYzLVB0X21ZbmhQR2VxZk5hXy1PRDliMnI5SzVtSlZ1WWxSNA?oc=5"
+    },
     {
       "headline": "Tech Dominance Is Pushing Single-Stock Risk to Records - Apollo Global Management",
       "source": "Apollo Global Management",
       "when": "2026-06-10",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXdUTUFMODBuWlExRHhYWGw4QmFPSHB4eDAtZXNxcVZabko0NkpjSlBNNVZucVYwQTYyc000amNyNi1KWGI0OVlPUmhyeTZDQ2xwajVhb3JtT2FqQmhyYTdiOC0tOFBEWEZrYTU2MXdKSVdZNTRwWmJsU2diVlc1ZVdJMnRvVHNwM1F1c1oxMXdJQjREZ2YzMk9RTFJIakpmdmc?oc=5"
-    },
-    {
-      "headline": "Apollo Global Management Inc. $APO Stake Boosted by Mariner LLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVEQ3WXVFbGZ2Uk91REphcjZlWVhLUkFBV2dkZ29jNmEwU1JXeTI5VWpOTV9WdDJENVFhNUtfNkg2aXNIVnJXNTdhdENvRTZQZVhMVkxXTGgyMEJFS2VfUzdJZTBzRkp6Qml1eWVKNUEycEp4ajk3TmNuaVpiLXU0UXJIWVMzc2loa0REUjF5U0JjOTEwQUVIdkNlWm4yNk1VLXhEal82c25FV3Z1LWVTdUNiT004SjdzbERySWw3cw?oc=5"
-    },
-    {
-      "headline": "Apollo Global Management's assets and fees surge, with strong dividend growth and positive 2026 outlook. - Pluang",
-      "source": "Pluang",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkdULXBvMkdzSWJLMEpaQ0JXN2pZblRzbjM3b3A1cFhkVzFUdlNjSWxkMEc1SU1DRGZsdDhsV1BPeEx1TmdWNlpaMDhWZy01ZmIzSlNZWUE2cU1nT2ZKYmJldGdYUjBUcVpXLVhFbVFtakI5dXdUX2hELWk2UlBPYlhxUWlBcW8?oc=5"
     }
   ],
   "insight": "Tracking Apollo Global Management (APO)."

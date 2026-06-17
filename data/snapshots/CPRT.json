@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:43.085Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:43.953Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    32.939998626708984,
-    32.650001525878906,
     32.29999923706055,
     33.439998626708984,
     33.119998931884766,
@@ -24,11 +22,11 @@
     31.309999465942383,
     31.360000610351562,
     31.059999465942383,
-    30.75
+    30.75,
+    30.299999237060547,
+    30.739999771118164
   ],
   "6m": [
-    38.849998474121094,
-    38.79999923706055,
     38.720001220703125,
     38.40999984741211,
     38.439998626708984,
@@ -158,10 +156,11 @@
     31.309999465942383,
     31.360000610351562,
     31.059999465942383,
-    30.75
+    30.75,
+    30.299999237060547,
+    30.739999771118164
   ],
   "1y": [
-    48.38999938964844,
     48,
     47.880001068115234,
     47.970001220703125,
@@ -410,12 +409,20 @@
     31.309999465942383,
     31.360000610351562,
     31.059999465942383,
-    30.75
+    30.75,
+    30.299999237060547,
+    30.739999771118164
   ],
-  "lastClose": 30.75,
-  "oneYearReturn": -36.45381196971451,
+  "lastClose": 30.739999771118164,
+  "oneYearReturn": -35.95833381017049,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Copart Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb25mX0JRS2hFMHlUYzVoNWJMNmhqc0dRbmdSSW00R0NFODdfa01NUG1ObDIwM09CV3owazJSTmE2dWFiSHg3ZGVieXZsYUdaV29HbXhrQ045QnpHYjVnb29DdXhLdDVua0otbzNDcHRvVEc5andTNHU5MVlYOF9HdFBBbllqMjFpTkFKdnAxU2JuNG1WSHNvVTFneFdsRW9ONmt1cHNyVC12SWJRNl9LMWVETHJ0b1g3S3I5MFRndTJSNEhWOEJNVnRXNUluMlZnWFhSeGRHajFTeVpCd3JDUGxvaF9fclotNlMzSXdnYWQwSGs2Sk9IWQ?oc=5"
+    },
     {
       "headline": "Copart Stock’s Operating Income Grew 3% While U.S. Insurance Units Fell: Here’s What the Gap Reveals - TIKR.com",
       "source": "TIKR.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV3BLaUVlTTNSMjVBak1OUmtIT25veHEwWS1ER3Y0TWFFUTVkZW1MUlZUVFRqdjdYamQ5MF9uMVNsWTBpTEkzbHdnX3Y5bUF2YVRfY0xncjlqbURUQnc4bWxZelRqM29vTHd3YU9IMjdPUDRwU3hCUzFQbEVEbnpfVk1FbnhsazZQMjBPc2FRVlp5S1pVT3dZdlFUYklFY1BJZkxWbGFoOFdpZl9mWS1hMWR2N2hCZERFc0hjY3p3?oc=5"
     },
     {
-      "headline": "Assessing Copart (CPRT) Valuation After A Muted Reaction To Its Latest Earnings Beat - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQW9RVXlmbWpkTWE5TkFQbm5NQmkweTZtZl9wMWxzUVlEeWRQbm0wUVkwWDU0UVR1dW0wMU5ESTNOaTJLTkVpejJtTXNtZFA4aEFGWFR3WEJObmpubW1vdUNDcmRhUnNnU3dHVm9JcDZDaHhicVJKRUJHZXB5dXZMX281bDAwLTl0VzF2akY2OXcta3htenpfOXZ3MVI5RmY1QnhQQmdaYTJYU1ZteHRSUU1NUVBDRngyVkRxSmJ2ekpZNlc4V1dyN2VWZHNReU5VTUHSAdcBQVVfeXFMUDhNeWVLS2UxT3lIYW1NdjhYR0Y0bkx1Y3laN2hjdi1yX3IxcVpkQWgwcEd6YWJtbkZkZ0xYazQ4Q1p3YzQ1SDBSWG81QWNYVGw3djhhejRvTEd0QlZFV3RJejZUdDQtTkwwVEFITDVTZmQ0X3FJOG9fZkZna3FyNV9xMEhiOWVLWEw2eUp4UFVmRVg3c3E2amNCWDgweUt2eGdBTTV3SjBrbUp3dG5Lc0pKZHVHSzZ0MXA0bC11Z050RjhIUmdQQ1NxQ18tcGMwS1lHRzc3YWM?oc=5"
-    },
-    {
-      "headline": "Copart stock slides ahead of Q3 as lawsuit allegations cast shadow on corporate culture - Financial Regulation News -",
-      "source": "Financial Regulation News -",
-      "when": "2026-05-05",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2p0a3liRm5VVWFlXy1YZ0R2X21jQ2lMZGc0SUd1NEEtNjBEUHVHQl9oZkk4VHBaRVUxT2tuNE81VEJfNWh1cW1YMWs3cnBJaTQ5a2NvR2hLM3RJTkdpVnhQMFcyaF9LWk5QbUJKX2hjVkV4UHJZYmJBSTkyeFlaZGl4RHpSX05RS3VRZFN2a1Z1ZGRIOXAyMENTbUVIWGJQM1pfd2h2aHRnSHFrTWJ4VzdFRTRhazky?oc=5"
+      "headline": "Is It Time To Revisit Copart (CPRT) After A 36% One Year Share Price Decline - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmx1eVozRzl6akVseVlwWXhCSW5UejhjcXFNYnY0MVZWeUN4VG5yM1FobzFQdFZmeV92NG9CelRmM3VxNVFyY0k3dmZPNDN3NVkzSTNCNEhQNF9VOVd3WXVCRUZxUFROZFdMLTc0UTFOWWlvcThaV0dlOV9ieHp5RGVKdUJhaHk1eGdQVWQ3VDRtQlNUajQw?oc=5"
     }
   ],
   "insight": "Tracking Copart (CPRT)."

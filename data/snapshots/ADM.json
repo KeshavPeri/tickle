@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:28.843Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:31.546Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    82.88999938964844,
-    81.41000366210938,
     80.4000015258789,
     80.91000366210938,
     79.38999938964844,
@@ -24,11 +22,11 @@
     80.12000274658203,
     81.27999877929688,
     78.9000015258789,
-    80.23999786376953
+    80.23999786376953,
+    79.2699966430664,
+    78.0199966430664
   ],
   "6m": [
-    59.79999923706055,
-    59.36000061035156,
     59.0099983215332,
     57.939998626708984,
     58.06999969482422,
@@ -158,10 +156,11 @@
     80.12000274658203,
     81.27999877929688,
     78.9000015258789,
-    80.23999786376953
+    80.23999786376953,
+    79.2699966430664,
+    78.0199966430664
   ],
   "1y": [
-    54.15999984741211,
     54.099998474121094,
     53.9900016784668,
     53.61000061035156,
@@ -410,12 +409,20 @@
     80.12000274658203,
     81.27999877929688,
     78.9000015258789,
-    80.23999786376953
+    80.23999786376953,
+    79.2699966430664,
+    78.0199966430664
   ],
-  "lastClose": 80.23999786376953,
-  "oneYearReturn": 48.153615380048024,
+  "lastClose": 78.0199966430664,
+  "oneYearReturn": 44.21441560740065,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is Archer-Daniels-Midland Stock Outperforming the S&P 500? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-13",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTEw4RXNuUjRhNW1jdm44VlM1dE1MdUNfVE9VZ0ZyV25mWk5vQ0J1YWdVTkNLZjNkV01rcUFqSk1ERnR0aUx6SEtvOHdnYVhVb0VwUFRqTzVJVmZ3dFdvUk5IaU9BVHZZanpoVjZTRFA1dE5ENWlSaDJkakZfZlcyRDZBYVluZXBURVVvVjZKR0lKTlNWX3RsMi1FZFlqY3Zja21XSnFVcUZUWHc?oc=5"
+    },
     {
       "headline": "UBS raises Archer Daniels Midland stock price target on strong ag services - Investing.com",
       "source": "Investing.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVlRoZ3VQZHFIaUJobl9fczU1WFIxbXN1SWhfYWxUV1lubGIxVXF1OEROcWtRT2JCNTdYSzFneUd2dmFxd1Nidmp5SmhvYXZ1YUxocDJ3WFRkdVo2MnhFSWoxbkFSQ29PVjJNQUlpd1NNOTFFSnhKRENtdkNab1lPT2h0YVF3RmpES3pMMF9zaENITm56SjNsNTlIVUE4YVo2Q0tBOVJmWXNYTGc3ay1nTkdWSmJyRUFCZGFydVFfS2g5R0pGVXdSYWhNOWM2X0E?oc=5"
     },
     {
-      "headline": "Is Archer Daniels Midland (ADM) Outperforming Other Consumer Staples Stocks This Year? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZFlwSndBQ0pWTXppaEhKaDE4VFRIZWUtMlU3eU5ZUWZxQ0kzM1BfaEF2ZFA0Z0RTclVFQ05uTjdSZW1RLWpJN2RHbHp3YnV3MzBKRTZHQ29xOXpyeDMtUk0xbmRzSTVEMHp3LUZ5dnNhRm1OVU13eGt4eTRLdExMXzJmOERITGl4YU9nYTcwajc1RFl5STdIUEJBdXZUdGhDdFItZnJmWGo?oc=5"
-    },
-    {
-      "headline": "Is Archer-Daniels-Midland Stock Outperforming the S&P 500? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-06-13",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTS00VGtQSTQxTExyWnpqVUhLREpyYnprZ1cwX0dCcFVjMDZtekRoSHZQbGx0djQ1UzNuWWV6U3V6d3JoWGJiY1RhX0d6ZmFMUk9GMjhyV19NRkI2RDdvckI2S1FDVF9Vb3pKUnI2YjUxYlN4clc0OG96NDhhSDk4SW1QWWxPNzNvd2tNbERVdGktYzdXVjlDZFJiZ3BlTUJxVWF3?oc=5"
+      "headline": "Archer Daniels Midland Co. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOM2tzU09YZnBXMWhwU1VKOG5XVERnVEh1YU9zbVc2aWVOMERCMmc5bklpMzFjRzZnMS1IdkpidFZxWGpFVjJMUDdHUFpsNWZadWhMaVV5b2wxTFdaZEZWLTd6OGVNNUNNVkNHVk5pZWNXNU1oeE84U2tZUDVuTGFfS0hTaGpuUW9qQmo5VThjV1d3UVZZQ3hpZldwei14WEdpYXBlSlBDT2NsXzFvX0lpdFRkbmlObmhjT0FacWdrZTQ1RXJmN0FJbjNOUy1ueTdscFlwek43Q2RwY3lRTEpwYmQxTkZCUkZqZEdGbVVEOFRWdw?oc=5"
     }
   ],
   "insight": "Tracking Archer Daniels Midland (ADM)."

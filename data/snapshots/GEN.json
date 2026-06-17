@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:56.294Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:55.434Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    23.290000915527344,
-    23.18000030517578,
     23.450000762939453,
     24.34000015258789,
     24.31999969482422,
@@ -24,11 +22,11 @@
     24.969999313354492,
     24.6200008392334,
     23.940000534057617,
-    24.31999969482422
+    24.31999969482422,
+    24.40999984741211,
+    24.56999969482422
   ],
   "6m": [
-    27.190000534057617,
-    27.059999465942383,
     27.09000015258789,
     26.84000015258789,
     27.139999389648438,
@@ -158,10 +156,11 @@
     24.969999313354492,
     24.6200008392334,
     23.940000534057617,
-    24.31999969482422
+    24.31999969482422,
+    24.40999984741211,
+    24.56999969482422
   ],
   "1y": [
-    30.020000457763672,
     29.770000457763672,
     29.360000610351562,
     29.030000686645508,
@@ -410,12 +409,20 @@
     24.969999313354492,
     24.6200008392334,
     23.940000534057617,
-    24.31999969482422
+    24.31999969482422,
+    24.40999984741211,
+    24.56999969482422
   ],
-  "lastClose": 24.31999969482422,
-  "oneYearReturn": -18.98734402405826,
+  "lastClose": 24.56999969482422,
+  "oneYearReturn": -17.46725120248815,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Gen Digital Inc. (NASDAQ:GEN) Receives Average Recommendation of \"Hold\" from Analysts - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNWgzUGVjZFVaVWEzWDgzQm45REViZnF2UEI0OEJyemxpd0UxNldfX1VhLUExRF9iYVBteEtpNTRHS3BNQmdRc1lDbDJJdUdZcHQtZS0weFRZWlFra1FxeDU4bTR5eVJxcUt1VEEwZ3FCLWk5Y1NKUGZORm1JWG45bjE3ZHRBTE9YTUdDa0ZBMURnSXkzaXF4ZFIzSU1udFpyN2J3VTZzNHZiWkdWZkl5RmNtbTBRRUVHSG5LQUhBZGRfNVd4T0xsNk5YSjZEdw?oc=5"
+    },
     {
       "headline": "Have Gen Digital Insiders Been Selling Stock? - simplywall.st",
       "source": "simplywall.st",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1BUelQzVTc3RmgyX3hKbVRVT1NOWVNaaDhpelpCYzBETnFaaEEzVTNrTHl2cWk4c3VYcnYzOHRXa1lOX1RsQ0c1REs1R3J0SzhuQmNPWUZsVDVIREZPR1lodGNUR21Kckl1aTdubmFwdm1kejkxRXItZW93ejg2NEVBUUQ4UFE1RE1HWUh1bWlESHdSYk9iLUx3RFFmbmJ6UGdwS3FvVmVSeWVvX2UtQ0plMNIBuAFBVV95cUxQOEZZTThpZU5Yc1NtMnBzdUFHVVBqWG9oQTNpNGtkWDlmaFZUa2liX2RRWGJGN1owS29oMFBZWmIxTzhCb1hQcjcwQWxzUV9KLXNsNDJiUWJUbG9vaHJablhEOTFDbmxoUHZnVG02N2RfQXNqR1JGS3JWNXNxQUExZk9uMGhReTFIU1E3UHlqMkY3UU9KWXZZdEJjNXVsdWJ0YUtmZHpMcVJvZGlqaUY0R3F0WGNuSTFu?oc=5"
     },
     {
-      "headline": "Boston Partners Acquires 1,954,712 Shares of Gen Digital Inc. $GEN - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-13",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeUZmR2d2dmxCc05WRDdwS2gycDZGekpOa1ltbVBxZ3lSMTVFUXRwMVM4TUNVUUhxUlljd2lIYXJubXYxbURZVTlObjhpR2JFSEVmc3ZTNEpLWWxXMUlHeDJwODhsbEJWYlEyMXo3UWpuUGVxcVI3RVhDUldfVG5nSDlfcjBVS1hVWWdUWVlaSnhZOHVSQ0hVWXA5UU9NTDZtU196NW5iRnFZeUVkc0RZdy13aXllVGxteEZqZkktRVQ?oc=5"
-    },
-    {
-      "headline": "Gen Digital Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUkVfbU9GdE9QMS16RDBQQmlXTHJ1RjBmdTFwUnlfV3JEc015ZlBhM2JaWlJ4TVVpcmJPaEFobkxCcEZLWUJOTVZ1Y3IxTlctamcwUnpDNVhpUllUb1pPTFRjaWh0bEowVmt1STlmeC1DWmFLR1hpVmt4MnBOeEZpaS1GRFhldzZETFNvcVgtUTdBc3Qyd0dVNnZCRFpQeHZBQ0pfc01zUlh4emtoSjN3eENjMXJOZVZ5Zm5vOE9udlBaaFA2cnc?oc=5"
+      "headline": "Gen Digital (GEN) Receives a Hold from Wells Fargo - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR1czODJHMkxwVVBUZTVZclNpbGtWeFVRWFo1eENvTHltUl83Um1mQW1sMWFjTUFEZkk3WkZkWTl2UkNHZWc2eFU1VThQSGxmV1MxaDJTNEVOSUdzeEVicFRfTnhhSkllTWpncDBSSDB3a1Q2RzFZbkNmeHNjcEZRSFc4LXpYM2VtOHZycVpkZHZKSTBNbGdYRU1QT3dRaUQ4b3JzdFlSbTJDUlhWS2tFVzZwY3d1X0VwS3ljT05ET3UxN1ZrN1ZwbA?oc=5"
     }
   ],
   "insight": "Tracking Gen Digital (GEN)."

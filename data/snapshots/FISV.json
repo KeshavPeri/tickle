@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:54.260Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:53.741Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    52.369998931884766,
-    53.459999084472656,
     55.33000183105469,
     56.65999984741211,
     56.029998779296875,
@@ -24,11 +22,11 @@
     54.029998779296875,
     53.279998779296875,
     53.060001373291016,
-    53.779998779296875
+    53.779998779296875,
+    47.90999984741211,
+    49.83000183105469
   ],
   "6m": [
-    66.94999694824219,
-    66.05999755859375,
     66.27999877929688,
     65.7300033569336,
     66.20999908447266,
@@ -158,10 +156,11 @@
     54.029998779296875,
     53.279998779296875,
     53.060001373291016,
-    53.779998779296875
+    53.779998779296875,
+    47.90999984741211,
+    49.83000183105469
   ],
   "1y": [
-    164.88999938964844,
     163.44000244140625,
     161.36000061035156,
     163.3800048828125,
@@ -409,29 +408,31 @@
     54.029998779296875,
     53.279998779296875,
     53.060001373291016,
-    53.779998779296875
+    53.779998779296875,
+    47.90999984741211,
+    49.83000183105469
   ],
-  "lastClose": 53.779998779296875,
-  "oneYearReturn": -67.38431743685656,
+  "lastClose": 49.83000183105469,
+  "oneYearReturn": -69.51174676534963,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Michael Burry touts Fiserv stock after CEO exit extends slump (FISV:NASDAQ) - Seeking Alpha",
-      "source": "Seeking Alpha",
+      "headline": "FISV Stock Rebounds: Fiserv Launches $2.75B Debt Tender Offer A Day After CEO Exit Shook Investors - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYjFIU0M4a2d5VnNKUUd5UTZMMURLcHpmdjRMX0h5azhRZG92SHFlN3UwQVU0V1NhX0xSWVlzWFh4Y2ZJZWptemdjTnBzamFLWHQ0V21YOWRlenh0b25rWGF6aV80X1laV2d5QUprLWJWNmNmOUxEUnNLVGpMMHBzTmplMnRUd0tOcmlXTHRxckZIMk1YT3hwbjNYT1lXLVQ0c1E?oc=5"
+    },
+    {
+      "headline": "Fiserv Shares Slide as CEO Mike Lyons Departs for Truist Leadership Role (FISV) - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTXl4cFlya01XMGF2Mmt4ZTd2MWI2cEllWXNucHNGQUVQUWZ3WlhRWFAxb3g1SjItMVNkeGtacXJWMElLXzhCbHhqS3BCNlFVUEdpby1LdEFPaEstNUlfMTdIREk3alVQeXJTak5HSkRlNzJ3QnlPdnpJcXNDT2NxN2dGc21OalhDY2YzRUZHeENpOUthNHc5TUdRWVozWm8t?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd3VrZkt3UVJySlhkTFhMV1FCYkY1M3g5ck10MXd3X3FWSnl3SVVzYlhVRjZyLWxEOXZPMkx0aVRHcENvTTRFQVFNc0wyd0FjYWZHVk94TkR1MW9vRnJTVl9MRFhVSHRmQkFadkJLVi1SSnhMTUFWbk9hWGNPMVpuYkF1UE4zLU5keG11Q2k0T2lSMW5WX2JmQw?oc=5"
     },
     {
       "headline": "Truist names Fiserv CEO as next leader of Charlotte bank - The Business Journals",
       "source": "The Business Journals",
       "when": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkxfWTRUdkNzZXE1ajBKLVdDUUFRUWxQd1dhYUhzZ0VtYWdHWmxiMm9mMjNOa1RRemFQd0NxQS12dWRGbjV2VTZtekY5Rzc4dV9LSExpZXVlTlB5ZVA1UHQybEduZldUNnBza240dEZuWlZJN3Z5cmJmcE1iaE0ydzdMWnYtMDgySkJsZWJobFRSN3o3c3haa01HVVVCRTdIcmF5OG9ENndWR0k?oc=5"
-    },
-    {
-      "headline": "Fiserv Announces Leadership Transition - Fiserv",
-      "source": "Fiserv",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWlIcFA5WnVfcGdjc0NoVUN5UGpJME5xV05KbktfMHJlb3RMd1FxRVZPdWlwZDVNYndjMVpHTWZva0dZb2ZzWlFGRnFSVmpZMmVPSDAyNk1ReW9wRU5xRC03QXVLTDZNdWd4TlhHeUp2RHN5amtPOUZiSHg4OWY2c3ptX2Ewd0dxSndDNHZwb3MyTlo1THlIVlU1SllJME10VVh0TQ?oc=5"
     }
   ],
   "insight": "Tracking Fiserv (FISV)."

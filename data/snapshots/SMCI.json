@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:15.967Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:13.490Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    32,
-    33.029998779296875,
     31.040000915527344,
     30.850000381469727,
     30.559999465942383,
@@ -24,11 +22,11 @@
     40.63999938964844,
     29.270000457763672,
     31.969999313354492,
-    30.459999084472656
+    30.459999084472656,
+    30.850000381469727,
+    29.219999313354492
   ],
   "6m": [
-    33.68000030517578,
-    34.22999954223633,
     34.689998626708984,
     35.369998931884766,
     35.02000045776367,
@@ -158,10 +156,11 @@
     40.63999938964844,
     29.270000457763672,
     31.969999313354492,
-    30.459999084472656
+    30.459999084472656,
+    30.850000381469727,
+    29.219999313354492
   ],
   "1y": [
-    43.689998626708984,
     43.11000061035156,
     44.470001220703125,
     45.31999969482422,
@@ -410,12 +409,20 @@
     40.63999938964844,
     29.270000457763672,
     31.969999313354492,
-    30.459999084472656
+    30.459999084472656,
+    30.850000381469727,
+    29.219999313354492
   ],
-  "lastClose": 30.459999084472656,
-  "oneYearReturn": -30.281528858067848,
+  "lastClose": 29.219999313354492,
+  "oneYearReturn": -32.21990512721498,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Stay Away from Super Micro Computer Stock. It’s Hostage to Its Own Mistakes. - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTWxQRlV2OGNjREJGTFFlRlhrU3Q5bnZZeFk3VjZqend6WFdTcHF6LUptMEw2dDlBWGJiQkl2X2lTbGZHRGd6ZGVFYk1FeUlfX1pxTXF5QXFHUERCUUZSQ2k2Rkp2RDB0ZTI1SkpLVWFPTXZzS3lDTEZPTEozWW1jS21JRkFQNVdyelQ0NFRTcEE1MUNDNkg4T014TQ?oc=5"
+    },
     {
       "headline": "Supermicro Stock Is Down 30% in Days. Investor Skepticism Is Justified. - Barchart.com",
       "source": "Barchart.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ1JuNU9SQTZXdktnRkV6NkV4RlplVHpsYUZDX2huUlMwR3duSzdOZjBCLTNyUGh5MzhseWpobFpvRUlPRkJ5cEMwWTlOYTJDTDE3R2ZHUkdsVzRid2JNOW1mSDYzLXVmVVBNWXhSeHBJVTU1X2wxWnN4WG5IaG1FZkY4TXFPNzVKWnNabzJfRTNNaGJqVTlTQ2RzSm5HcV9WUUMyZ2ltZDY4cmhiSko5WU1B?oc=5"
     },
     {
-      "headline": "Super Micro Computer Stock In The Spotlight As $7 Billion Capital Raise Officially Closes - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRkF4YnRQdWRmcHR0U0F6RU41OFo4d04yRmJlOHBlQWNpU2NSQWctRm4yNU5wYmNmTS1la1ZqRWJNUThJeUNyeGJaX0hXdkp1Z3pFUWRwc3V3SVhLVHdnZVlnNmxQMWNTQUYzUmxKQVhHRU1BMGRRa0RvNGZuWlhYT2gyTl93blBmcVZTbklLUTRGa3FUeDhNamJ6cjdrRzh2d1I2Z1FLVkVPRk5xbEJoN0YyNnRfNm1mdFNKRWRSdUR1RGlKX2ROWlFzX1lDcWI5OHpkWll6MEtoaFkyanJPQkljTQ?oc=5"
-    },
-    {
-      "headline": "Supermicro Computer stock sinks on $7 billion equity raise - Yahoo Finance",
+      "headline": "Why Super Micro (SMCI) Stock Is Up Today - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRDVkUXpqNDdmdXI3WjZmUF9JTDZUeFB1T3lrT3NacUxheTBHWGVvaXRGbHFlbHFJbk9FaHhqcFR0MWV4bHNyeXl3eW91WS1mMUM3WHRWcDc1TzZxTHI1d3BqQV9qM2JxSzFoamZEdGZJUktzTzZkUTJWVlVGOVREODY4OXFUdE5oX2gyazdfeVJ3SUl3Xzk2MDlEdmt1OUZMWVpXTTU0aEFtVllEbVg1VUl4ZU94elVUWUZhSHVB?oc=5"
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3g4MHVlQkZsLTlrNVNGLVpxb2h5QUFKTEJZTmhtV0VGNXBsZ0M3NkJyNVJOTEJSVmozSk01R09kN3E0enBWT2NFektWN1lGNW5oYU5ZbndaZlBtUXFUUE5fbVZqd2pNQnpIeDI4ZVp0NmlkYkJ1NUtEWVBkMmJzeWlHa0M0OGI5XzFxbnBwOEpqanZOVXc?oc=5"
     }
   ],
   "insight": "Tracking Supermicro (SMCI)."

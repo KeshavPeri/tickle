@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:22.188Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:18.971Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    494.0899963378906,
-    489.1499938964844,
     482.0199890136719,
     458.67999267578125,
     455.79998779296875,
@@ -24,11 +22,11 @@
     517.719970703125,
     490.0899963378906,
     529.2899780273438,
-    562.9299926757812
+    562.9299926757812,
+    653.530029296875,
+    681.0800170898438
   ],
   "6m": [
-    155.58999633789062,
-    161,
     168.88999938964844,
     169.77999877929688,
     169.5399932861328,
@@ -158,10 +156,11 @@
     517.719970703125,
     490.0899963378906,
     529.2899780273438,
-    562.9299926757812
+    562.9299926757812,
+    653.530029296875,
+    681.0800170898438
   ],
   "1y": [
-    57.40999984741211,
     58.56999969482422,
     59.189998626708984,
     59.290000915527344,
@@ -410,29 +409,31 @@
     517.719970703125,
     490.0899963378906,
     529.2899780273438,
-    562.9299926757812
+    562.9299926757812,
+    653.530029296875,
+    681.0800170898438
   ],
-  "lastClose": 562.9299926757812,
-  "oneYearReturn": 880.5434491760526,
+  "lastClose": 681.0800170898438,
+  "oneYearReturn": 1062.8479095758476,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Western Digital, Seagate Stocks Keep Soaring. Why They’re Morgan Stanley’s Top Picks. - Barron's",
-      "source": "Barron's",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXhuOW9vQThaWU5pa3JnQ0ZVLWM4X3NhTjd6bGI3U1dNSDNOT1JQWkJ3Q0ZHTkhWUnRuT09Ua0pjc1o3cDgycG84cHAxaGo3bG11X2NoUkdEWHR5NXpzNXl5dFhWLWRiTUtJQXV2ZGwxNk13bEJzWW94Z2JmVGd3aGxtaGwydXdTTjhyakltVEQ5SmRndjdvZDNMRnhCRFp3M3VmVDhB?oc=5"
+      "headline": "Western Digital stock jumps as AI trade reignites - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLTJuQ2NCeEJqOUQzamc3SWlTaWhGUDVUczdscVJ1cERmSzNKSHZ2Z0ZhX1JkWTJ3b2oyNUdIR25GTnB3UzNGcmc4UjJfakUwcjhsMmFhdC1zdnJvdV9vODNRWFJnZUVmSzJFT3RYOTBHLVRybl9lVDJxelp4ZGtneUtnSXdVVzZQRVE1MzBIRDFJYi1DNm56ODZRYmRSQ2Z4NlhYRVMwMC1hdw?oc=5"
     },
     {
-      "headline": "SpaceX, Western Digital, Micron, and More Stocks That Explain Today's Market -- Barrons.com - 富途牛牛",
-      "source": "富途牛牛",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZGpIU2dzdFdZWE1paVlhYUp3QkJzTDlZUS1LZHVsLU0zaWdKMUliOFlEY3VXTVhBYV9URnR6MDJtMS1BQnZEZDBVSVgzTHhrRmxjVXo4bmoxc24zZklJcGxrdXo1Z242YjZoSlVWeUhQZFg4NmRRTndZTGZmMXg1X2xoTkNPSFlqcGttQ21OY3JKXzNzYnRZc2swUmlUYWNPWHllQ210Q00?oc=5"
+      "headline": "Dear Western Digital Stock Fans, Mark Your Calendars for June 22 - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNUwzTDBzaU92NVhsNTJfSDg2Y04wSTRKaDZ4czZEeFJsYUE3S0hWQ29YaFdpWWNYWjN3cEYxbllZWmExMjU2c0ZKQWhGbFpUVXRtTnZOQ0RSQWhiZExfTXJVREJaZlN6ZFdtZ2hNcHo0ejVWR3BpQktQOVJQTmFWTmY2U2cxR2lUUWlSdDgzU2pwVUdxS2tQTHJNVDkzdmhXemZ5RFN4ck9ySkU?oc=5"
     },
     {
-      "headline": "What's Going On With The Jump In Western Digital Stock? - Western Digital (NASDAQ:WDC) - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWVqQWVWMGZ0TkVhb1djNlBmeThxcDJXRWJaYXVfeFIwX3pVUllSdkJzblE4X2daT0NnUEJrN0ROQ2U0eUhLQjcyeV9kUXBMMDBJS3FvcDhJQlRqYmlLQ2kwaGdXTDJWRFBZZmVsRnJMZjF2WFAzVFQzblY3Rms0RFgtMFlGN1laTXpjNVJ1b1lPRFBXcFRzMUZhNzZ2YVN0eG1ZMDVFNTBJN05nai01d1prTkk?oc=5"
+      "headline": "Western Digital Corporation stock price up 4.22% on Tuesday - StockInvest.us",
+      "source": "StockInvest.us",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHIxNUx3OXhrZDFxVDItSmxScU8yd0xMOFZVQnd2dk5wcTE2UjAzcDVNRDNDU1BXZEJySVhqQ0NyRWlXS0pTcHdYLURfTlJnakljQmdNUUcwZ0w0WlltUWd5alNDeUhBemJNd2gtUktiOW05Q1JYYnBTQWpSSDhjY0hVWV9hTE5WNGFINVhpaHRVX0FHb3R0blNRSWJwdGZhb0kzMg?oc=5"
     }
   ],
   "insight": "Tracking Western Digital (WDC)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:11.486Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:09.135Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    298.4100036621094,
-    294.1700134277344,
     291.5,
     291.67999267578125,
     294.2799987792969,
@@ -24,11 +22,11 @@
     297.4100036621094,
     285.55999755859375,
     302.54998779296875,
-    304.8599853515625
+    304.8599853515625,
+    315.8800048828125,
+    302.8900146484375
   ],
   "6m": [
-    227.55999755859375,
-    226.16000366210938,
     227.9499969482422,
     229.00999450683594,
     228.0500030517578,
@@ -158,10 +156,11 @@
     297.4100036621094,
     285.55999755859375,
     302.54998779296875,
-    304.8599853515625
+    304.8599853515625,
+    315.8800048828125,
+    302.8900146484375
   ],
   "1y": [
-    217.52999877929688,
     212.8300018310547,
     211.4499969482422,
     209,
@@ -410,12 +409,20 @@
     297.4100036621094,
     285.55999755859375,
     302.54998779296875,
-    304.8599853515625
+    304.8599853515625,
+    315.8800048828125,
+    302.8900146484375
   ],
-  "lastClose": 304.8599853515625,
-  "oneYearReturn": 40.14618078533136,
+  "lastClose": 302.8900146484375,
+  "oneYearReturn": 42.315468703924935,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "NXP Semiconductors N.V. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaklYMVNwMmRfdENWcGZtXzBCZHhQX3R1dkRZR01aaUg4TGJhM0doSDZFbTNwdnprSDlQRzNGYjE0aUF4a3JsalZuV2p4aUNSZDczdzhQQUJnVXhLNzFTVHZremQyTzhRWjEwZkRpVWxKbERLRUU4c0gwNERpdzJyeDRVNU9wd1EzbkEtVXV6OVZMZHhiTXZXV3BkSWVXREhyODFqVFB0N1RLdk9zalV6MGxMbnJaTVk4c2NNWDhzZkdNVXVYUUg4aXFKVVBsdHhhb0hwNm9B?oc=5"
+    },
     {
       "headline": "NXP Semiconductors and Texas Instruments Stocks Trade Up, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGdHeUZja1dfb3dUQlpmaXVEZDU4VE81ZGFEYy1Tb29EUmJHLVA4eEtOWnN3N0xoR19qOXZtZUl1S0dOMUJyUEpySzlyc3Q2Q04zell3QS10ZWlPSzhtRHl5a1Z5VFk0NUlfNEJVcjhpVkx5SExtRUVWdVp5alZFTUZqOG5kWXNGS2doS1E4cmpKNy1Ud3hEMUx6NllPZ1QtLVVSNWtCRzVvSTg3?oc=5"
     },
     {
-      "headline": "NXP Semiconductors N.V. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMjFQR0VfbHlObG91VnNMVE0yLVFudEt1R2JoT0V1bUtEbEZqVWJOeWg0NnFJZ3REeFFTaUNnWmctQ2RzNmI0SHBwZEVqaUxZZ2JNWm9oeHI2WWU2dGtBX19qNjFiM29LRUoybkhxaHU2eGRQQkRvR0hnaGNrVHhpRF9YbTdiQVhXM25Pc1MxUmV2VDUzQkhaYUN5M2U5TVpiNWtvb3c2d1lXcUllMFJjaGhQZ0Nobk1aRjFBZWZPVGc4QmZyR0JZaFFqUGtVaW5oRjNoSlpuMlRsOTBQN1NVSjIzQWJnMm1zUlhlZVNJZXZlWTBDSkxuY3diNE5SZnVZOU1lREptTQ?oc=5"
-    },
-    {
       "headline": "NXP Semiconductors NV (NXPI) Stock Up 3.6% but GF Value Says Ove - GuruFocus",
       "source": "GuruFocus",
       "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLUVjLVhTa0tBNk5FVXYwNW01Y0hLQmZyeC1GbzVOTDdTX3hTeUlkR1d2bW9DZFE2QmN4TmxDZlVCcWFORFBfbnVwLVZpdE5QUlhRaFVoWXJlcVRneU5najNza25hNzhFaEdVS2t1NkZvRWw1anFKMTI5VmNQQXRfUEJDLVRqNVFkdjJEc3R6LVpjYW9XTVpSMW5QY0stQ01lNGh1Wjh2NTVjMkdoRXVxUUo1dThyXzk3RjdMU3R3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUXRrVmVzaThLRjBrRU1mQml4eUgtYnFnYTM1cDVFYzc4UWZkQUY1QzhLNjNiTTQ0Um9aYWVPbnpKVW1uZ0p0d1J5VUlQM1NUUXlqSUpVbG1QS1NqMXJCN0RaUVgzLWZoRTRTd0JJb0J1T0RoODBhM2p4ck8yS3RaTmxpcHFVaUpfV0RpTUVWVkZvMWZ4cmFxdG5neXU4Q3BuZjJTYVgzYWZKckRCakMzWkwxdmY1SkwtZW93RElzRDJidzdkc0hxay1ReFc0QQ?oc=5"
     }
   ],
   "insight": "Tracking NXP Semiconductors (NXPI)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:28.446Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:31.209Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    236.07000732421875,
-    237.00999450683594,
     247.60000610351562,
     255.63999938964844,
     254.99000549316406,
@@ -24,11 +22,11 @@
     237.8800048828125,
     233.3800048828125,
     218.8000030517578,
-    204.02000427246094
+    204.02000427246094,
+    206.36000061035156,
+    207.32000732421875
   ],
   "6m": [
-    326.7799987792969,
-    328.7300109863281,
     346.260009765625,
     339.1199951171875,
     344.32000732421875,
@@ -158,10 +156,11 @@
     237.8800048828125,
     233.3800048828125,
     218.8000030517578,
-    204.02000427246094
+    204.02000427246094,
+    206.36000061035156,
+    207.32000732421875
   ],
   "1y": [
-    401.7300109863281,
     382.67999267578125,
     378.0400085449219,
     376.9200134277344,
@@ -410,12 +409,20 @@
     237.8800048828125,
     233.3800048828125,
     218.8000030517578,
-    204.02000427246094
+    204.02000427246094,
+    206.36000061035156,
+    207.32000732421875
   ],
-  "lastClose": 204.02000427246094,
-  "oneYearReturn": -49.214646978563856,
+  "lastClose": 207.32000732421875,
+  "oneYearReturn": -45.82418435973294,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Adobe Stock Is Selling Off Back to 2019 Lows. What Bulls Need to Turn Things Around. - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUGZrblFwelVhU3VCTWY5YVczUTdDSjdZaU4zY0hnX241c1Vub1dpVnNQWFl5ZENZbFBwQTYxNm1tZzZQM29jNnpWYm9kSndDU08yMzY2b2dUdFFPdHpEZlpfa3FhbXF0NFplN3hDaFlDOWdPVEZMdkZvMzVPZVpwSTR0ejlWQkt5VllySHhJM2JGQ2QxZjQtdGVRcWJHaXJjTENBcnhkZUpNZ3JDU285Y1VkLVhwVnBoNlhVLThCRzZoTVZz?oc=5"
+    },
     {
       "headline": "Should You Buy The Dip In Adobe Stock? - Trefis",
       "source": "Trefis",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDY0UFJiSHBFcUJuRHNEbmVDdlNpNGJiTjNBWmFGOGVFS2NLMDBUVG1TcTNwYXR2SWs3RGpRbVJNTDVYR1BuMDdzN1M4VmIwMXhPRGlZcTVocWl6S2JmQWdoZXM4UGxTLU5zcjYyRFNUU0lhR1lmTmxLRDhsMVBGQThoSlA2SUhzb0xCcUJ5ZUNJelhub1FwXzA1aGtROVE?oc=5"
     },
     {
-      "headline": "Is Adobe Inc. (ADBE) A Good Stock To Buy Now? - Yahoo Finance",
+      "headline": "Adobe (ADBE) Price Target Cut as TD Cowen Flags Slowing Spend and Weak AI Credit Demand - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-13",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjExanVBMFh1ZjJOVklONXZBLXEyeEJEU3Z5R3lzdTFMVU9aZEZBMENKejlka2Z1ZTVwNlRRV283b25sWmFvSWlGdFkyblI3Zkg3MFNDNXd2M1Zoc0NDR29iZFd1SEJHZ1ZDZ3ZnbXo2bEhEXzdQYlZQQU42UzlEQThzNGVOSzdlTGdTa0JmNzhjbUtm?oc=5"
-    },
-    {
-      "headline": "Adobe: The AI Discount Is Not Yet Fully Priced (NASDAQ:ADBE) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN01nWk5VUS0yUm1WVW9PNEVtR3REUTBjOHJlc001Vnp6TEpSSlNnTnlYcC1GWmhtTXdLVV9jYTNxTGFmZ1I1WmdFNmhvc0YtUVRicmZTWktMbFp1eGd0RHY0Sm54Tmt0V1hCb2NwcFY3RS0ycnFTZUpYcm5rT2trNnBnRUgyTFBQdzRqWGtBSQ?oc=5"
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXcwNGhRYVU2RVRIMzc3elZRSDdvamtQbVp2dVVHY3J6VFV5aXJ6ZlNHLXJXcm9tM2ktRmxBX2EzR3FxX004cDRjc3dPaEFMZ3lYMUdrRTRqTXF5LU9qNUtIT0xwcVpsMjR6MzdFQnpKRHpIeVZ2dGF5UDJITnpVOVJobDVZYzQxZGM2STg5ZFdfalRlbWkw?oc=5"
     }
   ],
   "insight": "Tracking Adobe Inc. (ADBE)."

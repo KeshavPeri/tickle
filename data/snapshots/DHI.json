@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:46.778Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:47.083Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    140.72999572753906,
-    139.36000061035156,
     135.38999938964844,
     137.49000549316406,
     134.72000122070312,
@@ -24,11 +22,11 @@
     151.07000732421875,
     146.7100067138672,
     154.42999267578125,
-    154.08999633789062
+    154.08999633789062,
+    155.08999633789062,
+    156.3300018310547
   ],
   "6m": [
-    165,
-    160.72999572753906,
     158.6199951171875,
     152.42999267578125,
     149.35000610351562,
@@ -158,10 +156,11 @@
     151.07000732421875,
     146.7100067138672,
     154.42999267578125,
-    154.08999633789062
+    154.08999633789062,
+    155.08999633789062,
+    156.3300018310547
   ],
   "1y": [
-    123.6500015258789,
     119.91999816894531,
     121.27999877929688,
     124.19999694824219,
@@ -410,12 +409,20 @@
     151.07000732421875,
     146.7100067138672,
     154.42999267578125,
-    154.08999633789062
+    154.08999633789062,
+    155.08999633789062,
+    156.3300018310547
   ],
-  "lastClose": 154.08999633789062,
-  "oneYearReturn": 24.617868529213794,
+  "lastClose": 156.3300018310547,
+  "oneYearReturn": 30.36191145601449,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "D.R. Horton Stock And Two Mortgage Plays Facing Rate Heat - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb3NDaE5weFdUVktwUi1SMFFWS1AwV21JdHNIallFODZaaTI2elpOaVVQNmxJcXhXN2hpbWY1blB0WlQ3UGVVSjA1TC1mdWJfdmIyc3VobU1vT1A3MmdVYXRRM0d6QWZoV0tpWHdFMFhZdU1uS19MS2h3QjRlQVAzVVpQeHhQS0F4aFpFOUdDNmlkSGxQbldZSkNyOEhkWWE3bDBLMXBwMjA4a0drbkFQUUxwcEVvVlNwNGZ3NmVrQUZHWUpVVDM5TdIBzgFBVV95cUxORW83SjJUU3hscXRkcG5ieUVmcUdoWGJXVHdmNkVfai1waGZNR3o4WkNEM1FpTk50bm45cGU2c21kM2F2emZwWjBtc0dlR180a0pQS3JkR3ZIT2lkQWxhRldmRGVJaE16N1ZRMnhxUVBiQTNVVTUtRGFrRTQyNmdNODJlbmNhQk9FVjdTd0szTjVVbXNDSUt3QkgzYTVwWUpWUndwRjZiaGN3NWVHV1Q3RzJtazFCdGlvajRNbW9oMEhlQllHRjNmM1JBQ3piZw?oc=5"
+    },
     {
       "headline": "D.R. Horton (DHI) Stock Valuation After Cost-Shielding Contracts And Grass-Based Panel Supply Moves - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2trYWRlc2ctcG5pdHBQMGcxVm5WOXNHYWZ3MVkyTjFid3Z6YVd0VEl2NllBbUVLUGZhQkRZOU1ueUF0R2VIZmN6UlJZc250YVREUms0Xzg0ZlB3SGpqZ2w1WnhOb1FnYjlvTlNqeWZKQ1JYTDl1XzAxVjc5YTNQQUZiLWtmbmt4MUpxR3d3?oc=5"
     },
     {
-      "headline": "D.R. Horton (DHI) Sees Stock Rise Amid Easing Rate Hike Expectat - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnJNT0RBRk14WVl0czE5NnFfal9UUWZjbFVYbXF4d3NaMEVNYVBTNXZEWnNLRkUyZzQ1ek8xMG1Dc0ctRjItUld1S1dZYTAxaDN5MW8zdGpsekpfVWFzd0JHclhmekpiNDhGYTF4TlVTbGxLMkNQZTFRQk5mc2NLTXpDOENNNUZqODh0amZyZEhmUnY4bzdkMEtNSjRwaXpJWTcwQTRn?oc=5"
-    },
-    {
-      "headline": "D.R. Horton (DHI) Stock And Valuation After Big Grass Based Materials Order - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSlM5VzRqNGNVTVduS2U0dFdTekhVWGlHUDRYaENMaDBWOEZEMVFwak9jQWZrZFNHT0JRS2d0QUMtM0F3ZHNtN0szYnhXSF93dlRpSUFTaFlTSjg0dlQwa1JSX0NnQklBYVhFbVdKNjdHWlBBX3d5aHpZdEJoT0xpV1RFaWlPQXB1VzhsdmNnS0RreW50dEY4MlNGREVCamw5XzA4akZscUgyZTlEMlR3a2ZnY2pheExJejN5d2d5RFRlTUtzS0tIYzU2MjhpLVnSAdQBQVVfeXFMTzBvR2g1NHl5MGtvcy1sZXZuOEtrUWQ2M1N0ZjRCQVBMZ2Mxc0pxbXhmRi1NRV9qbjFHeGRpZUJYMFIyMHJuclJON0JUSVh6V29MWVUyTnBLR3hpZ21jWXVTTVUtcDdxM1B0akFJcjN3UFRMcEZZY3VfUWhZZGh0S180QmUyeVFQYXIxVTVuYWRSRGIwYjNsZkQyOUFOSTZyVGFvU2lRY3JGMElIdjdxOEJDREZELUZFMHQ1UzBJNGREWjRRN2RpQVZBQXRyY1JhZ3BHVkE?oc=5"
+      "headline": "D.R. Horton: Too Expensive Given Lingering Macro Headwinds (NYSE:DHI) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeWRyemktX1QxVjAtM0pZaFRnQmpyckFRMDNndURUTl9KOTkzVXp2azFpdU1kdnM0eHpMTDc0YzNXU0NQRjdiMUEwazJ1bjFlTnY3WTc3WEwzd2dfUFN1UEo3QzNla1owRDF3NWszZ2VnMmpwTy1DVjFNQk9yTDdPTjhhelUyX2RRb05ZS1YxYUdzUl9jbmMyd2VzZ2g?oc=5"
     }
   ],
   "insight": "Tracking D. R. Horton (DHI)."

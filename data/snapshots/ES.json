@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:51.438Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:51.190Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    68.25,
-    68.80999755859375,
     67.16999816894531,
     68.08000183105469,
     68.80999755859375,
@@ -24,11 +22,11 @@
     69.41000366210938,
     69.18000030517578,
     68.43000030517578,
-    68.69000244140625
+    68.69000244140625,
+    69.26000213623047,
+    69.79000091552734
   ],
   "6m": [
-    65.97000122070312,
-    67.05999755859375,
     66.73999786376953,
     66.69999694824219,
     67.83000183105469,
@@ -158,10 +156,11 @@
     69.41000366210938,
     69.18000030517578,
     68.43000030517578,
-    68.69000244140625
+    68.69000244140625,
+    69.26000213623047,
+    69.79000091552734
   ],
   "1y": [
-    64.36000061035156,
     63.20000076293945,
     62.400001525878906,
     62.52000045776367,
@@ -410,12 +409,20 @@
     69.41000366210938,
     69.18000030517578,
     68.43000030517578,
-    68.69000244140625
+    68.69000244140625,
+    69.26000213623047,
+    69.79000091552734
   ],
-  "lastClose": 68.69000244140625,
-  "oneYearReturn": 6.7277840117954515,
+  "lastClose": 69.79000091552734,
+  "oneYearReturn": 10.427215305434416,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Eversource Energy (ES) Stock Could Be 4.6% Undervalued After Connecticut Regulatory Petition - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVWxOMjYzdFRvdGliVm5pUVJxRHBJaks1dDBWYlM2ZzRXYTIxc3FrdVZjX1Q0TnB6LUtsUlVnQ1UtRlB5dDR2Z3lobXNKVjRYMmZJdmtBUnN3YnJmRmh6OHBEdmdFQ19KNFplU2RYek5vd2ROSTJ5bWRzeEY4UmprWDFjaHNHRllYMU4zdXd0WTlxZ3AyQXdWdWdWUjZLaXVpamhDd1pQM0lUY1pDakdpTThlMkpTNVlRd0xoZU8zbjdqLW9Jc1c1WmxXRjZBd9IB0wFBVV95cUxQaEZKbVdzUHhtOVZaLVppbG4wOXJ4UzNybHhXczdDTnFGeGwxU1RkZG9CQ0xlaW1FeWtDdHdteFpEVzV4dXlUXzZyUlFjb1pyNlhUSEhpNUJlY0lOV0UxT0dwWkZaSl9SYlViUHIyTzQxblZ4ZDNyYUhfbmlCeU5TWGpNOVpVbkltcjdkMi12UHZWa2dxbU5lOVJxX3FCX2hRVzZ6Qi1PSGJBOHdfQk5NSUlMejhIVXdSWEMtN1ZjQ2lYdnZkZVczdjlvQXRCUDlOOWdJ?oc=5"
+    },
     {
       "headline": "Argus downgrades Eversource Energy stock rating on FERC decision - Investing.com",
       "source": "Investing.com",
@@ -426,13 +433,7 @@
       "headline": "Eversource Energy stock underperforms Thursday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcEJCLXBuUTUzUE1yYUVNT0t5anB0U2x0MWhpSGt3ZE9rT1hPMUliS0pyRWwyTzhaYlRKUmtRVnNBNnRzeXJQSVdpX1REZGxfWHJQOUNHTjYwczFvandwZ0E5RHM3NUFFLTFIMzJxR2lMMC03dGh0dDRkUXExYVpPR1JFY3VCQTZGUE9xYXZrMkZpM2RLMnQwWlRDdGNsQ3ZzYVdleWp0REhpWE5jQ0hDbnlJWTZlUWhCREhxWXV3bVpXN0l1dzU0VjlxX19NSDRZMmlFeHpqeVpSZlZVN3lqZTlaZXZzNG5N?oc=5"
-    },
-    {
-      "headline": "How Investors May Respond To Eversource Energy (ES) After Court-Backed Cuts To Allowed Returns - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX0tMYXhqc0s1Vm9BZXNYalRjVHJyR1J5NkFnV3ZSVTFSeU1zU1JRcGpWU2ZuV0lhLU9nV1g3R28xYUdYZkI0SnFjdC0za3JXcDhxU2l2MWlzTThBRFNWZm5YdWlSWTNrd05xemV0ZzlpOVJtT1U3SnI2bnlBRElreklfcUU4Zjl0eEhoTE9LX3hEYm51NUVBM0kxZ3g2aVJEa2I0UUVmOF81SkYySmVvejFsZG5DSkZGQkFIYkhSVmJsWDdxY1lHY2FlamRsZ9IB0wFBVV95cUxOeTNUMzc1Q1V4eW9vZGhtUnQ2cTdqQnFoZjRSbWlKOTFvQ051ODFBd3VOT0VsdmhwYjdMeVNjbDBvWi1mRkYzemk2ajhSU1RzSG5ySndNUVZnS3A3N0psdFRpUVFMeUtlSmZBNDJqdmtIdkl0cTBycjlrdFhDWUp1QURVV1FCeDBQLWx6OWpUX3lvRmRmeHNvMmN1MTJqdXVpWS0zYXFnaXEwand6alhTU3RjZ0MxMnhUalFQRmFxLUJoeER3Q2xkdXlMWjNNUkRqa1Zj?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUEFPWmtodUhrYnAwT3E1dWhweVdCNDl0UnFGNVRUeEU0R3FNRUx2UnFpRGhhcDFsdE0tdUFINmE4eWZSTnN3RWRWczMxTms1aWYySkdJNFNJZzRrYmlybnRmNUpLdm1PQnNwS052V1BIcE5uUHVLR0RzdFpuYXNXVVN5dUZ4c2ZqZGtvaEZ2QUpuOGhnNDhHdlJ1T2ZLckdPZWpVQzh1bHhhTjRWcDRfdUtoQmtCOFluQ3NkaG45akFGTU1DSjdvcUZUdTlMVTZ0?oc=5"
     }
   ],
   "insight": "Tracking Eversource Energy (ES)."

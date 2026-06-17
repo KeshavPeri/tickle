@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:38.551Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:40.109Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    902.2999877929688,
-    920.219970703125,
     888.3099975585938,
     863.9500122070312,
     860.1500244140625,
@@ -24,11 +22,11 @@
     914.7000122070312,
     856.1599731445312,
     897.6300048828125,
-    910.5700073242188
+    910.5700073242188,
+    933.9299926757812,
+    945.4600219726562
   ],
   "6m": [
-    591.489990234375,
-    599.1500244140625,
     603.1699829101562,
     596.5,
     594.3599853515625,
@@ -158,10 +156,11 @@
     914.7000122070312,
     856.1599731445312,
     897.6300048828125,
-    910.5700073242188
+    910.5700073242188,
+    933.9299926757812,
+    945.4600219726562
   ],
   "1y": [
-    362.44000244140625,
     357.67999267578125,
     359.79998779296875,
     360.5199890136719,
@@ -410,29 +409,31 @@
     914.7000122070312,
     856.1599731445312,
     897.6300048828125,
-    910.5700073242188
+    910.5700073242188,
+    933.9299926757812,
+    945.4600219726562
   ],
-  "lastClose": 910.5700073242188,
-  "oneYearReturn": 151.23330791043844,
+  "lastClose": 945.4600219726562,
+  "oneYearReturn": 164.33125736212696,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Caterpillar’s Revenue Hit $17.4 Billion in Q1: What the Income Statement Reveals for Investors - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTS1BZVBxVko2N0Y5eFhTV2xid0tjUWJsdmZ2dXM2bmx6SVloOG9OMGVHSC1kVDNlM3F1RThtWVJ3S05ZRUtVNkVnTElBNURKcVBnUXRxc0Z5dXhIcHViaFlfQVFoR2lQSU9CMXphOVFMejFVOEw0RU4tTVVKSE5ReTRQclRlcTZzNG5CYXNRdTQwZGZSWTlwU01xRlJ2NUdXdXdTNGRDdGtqSThwU0xPc3JzSldPaTV2?oc=5"
-    },
-    {
-      "headline": "Is Caterpillar Inc. (CAT) A Good Stock To Buy Now? - Yahoo Finance",
+      "headline": "Caterpillar Gains 51% YTD: Time to Buy, Sell or Hold the Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMHRHRXhndTZoc1FlVW1mM0dYVDVKSi1SOTVGMG1qVE03TUlKeWN0c0syanlSOGsxSzlnYWZIam1RYzg4M2hxWHF6ekZZQjZsWGpGLWhtQjZGRENkTXJjREx1UEJheVdpbHIxV1M5WS1yN0RWRThwRFU3VHU0amRRSllGdVRyUHg5TEliTjZEZTkxdkFDcDVxRGJvRQ?oc=5"
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa3d6WFdBTnJTbzVpZGtYaDNTQXBCOXhmM1c3dFZ2N0V6NUlPajYweUg0X0pCeWhzU05CNWV3Z2xBLVItejFzdGZzU2tOb294elc1WGZvYl9rUmhNTEQ4TTMtVGtrMi00M05WRDRoT0Z2QnpPeHVPMWlXUmlnVkNIRTJHaTN0QzAxdUVaWDRmZE9ESjFBUHh6ZVZB?oc=5"
     },
     {
-      "headline": "Caterpillar Stock: A World-Class Industrial At A World-Class Price Tag (NYSE:CAT) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzdkLTNHNmFPbzFEUGVHZGZ4ZWVPUHU1d3l1UHlGS3ZEZHg3N3FBMDl4aTRQZEN2RE1IbGJYcjBvYVF3M1RYUWN1WW81bG8yNlRkbmw3NXZnRUo3cFdqM1AwSUZwWmFWS1RPaXpoVlJVZC1YSVFRTC00cTRZSHRndTQwZUM1cmd5WUhfMzM3NHN2TG56U1VKZGZWRlVFQ3ppYWgtLUE4MA?oc=5"
+      "headline": "Trump Just Gave Caterpillar Stock a Boost. What to Know. - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc2c3Rk42eERLeHpYazc1TEJSV2xxamY0RW5qUFNCVmRST2pKZlk4SmRTeER0WTVSbWM0dVlhM0RoX1J3V0M0SWY5X3IxLWdYSnZPSS00OEhLNU5wdHNkVVlnWE4tcTlNc0J4V1N4a3JMd29FbXN4YVQxN0hOX3g4N1EyZm1iX2k4ckhGbFRpV1BiWDNmZXdmVS1SMTNiN0k?oc=5"
+    },
+    {
+      "headline": "Caterpillar Inc. Maintains Dividend - Caterpillar Inc",
+      "source": "Caterpillar Inc",
+      "when": "2026-04-08",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHBIYVhCbVBYYl9GT29WSlZTZWZlNGFUY0w3UVFuSjJ0OC1YNnF1Y2NqNWhOZ0pVV1BpX3Q4NWlDSGpSNzEzcm9CZmREdkY5Z1RYZ3BBa1BJcTBBSXcwRWxBOTdvRkU5bHF6THJiSmhFUjJteGxvY1QtTkZlTG1aQUVRQlQxdExUSmRuT2VPMFBidS1QR2lPcGs5cnE?oc=5"
     }
   ],
   "insight": "Tracking Caterpillar Inc. (CAT)."

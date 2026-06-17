@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:48.895Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:48.789Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    200.17999267578125,
-    200.77999877929688,
     200.63999938964844,
     201.0500030517578,
     201.6999969482422,
@@ -24,11 +22,11 @@
     202.47999572753906,
     203.1999969482422,
     203.0500030517578,
-    203.27000427246094
+    203.27000427246094,
+    203.1199951171875,
+    203.02000427246094
   ],
   "6m": [
-    203.2100067138672,
-    203.44000244140625,
     203.9199981689453,
     203.52999877929688,
     203.82000732421875,
@@ -158,10 +156,11 @@
     202.47999572753906,
     203.1999969482422,
     203.0500030517578,
-    203.27000427246094
+    203.27000427246094,
+    203.1199951171875,
+    203.02000427246094
   ],
   "1y": [
-    151.10000610351562,
     150.3300018310547,
     151,
     150.55999755859375,
@@ -410,10 +409,12 @@
     202.47999572753906,
     203.1999969482422,
     203.0500030517578,
-    203.27000427246094
+    203.27000427246094,
+    203.1199951171875,
+    203.02000427246094
   ],
-  "lastClose": 203.27000427246094,
-  "oneYearReturn": 34.52680083494151,
+  "lastClose": 203.02000427246094,
+  "oneYearReturn": 35.04955883697842,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWm81ZHFvcEFfNTMxcEFUUzVqTTlybEF2WkNoejZ1OFdOaEJFek5aa29pMUhfRVhCbFBTZ1pEbmQtcFlycE5lQndIZFNqeDJkSzF1eGNMUlRJSUExdGZlQXZGNzRZTkNlT2ZHYzQwSGFKY3loY2FzV05CeVM4Wjh2UEZvRGJlMWVjcE9Ha2EySzh5UWxQOTMwMHdVcHNGZy1aTmhMcGoycw?oc=5"
     },
     {
-      "headline": "Brands move into EA games: 120M players, 1B matches a month - Stock Titan",
+      "headline": "[Form 4] ELECTRONIC ARTS INC. Insider Trading Activity - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUU9TcDltRmkzWTk2OFBUQ2kzNFJXcEQwM29HV2RJMUNFQmhsTXl6ZkZ3TTktYWVIZTI2Y3BsUlRrRGl6Q0dMWlREal80d0hhYk12M2YzVzlQaGlqVzU4Sy15YnNIMFZfcDhQMkJXeVhsZHBNc3o2WEhOQmlHV09NTzVORGtJRDJuRGt6Um5GVllLSXNlNTJPM2xFOC0tVzhCLVhNeWFQV3ptd0Q1UDQxOTcxOHNWSmlLOHJXNw?oc=5"
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFY0R1Y1ZGQ0WE53UEhsYXl2c3o0UHpUUkJOZkFMX3p3UVU2MldWMnI2dF9VVUNnYmtvMXdfVGFRZjl1SVU1WmFsUXpCU1BJeDA0UmZHdkZNU3psSGNBOEx6Si16c3Z3NVdwR2ZjaXc0NXBDYTVXWllXX2I4M2JOaG5yc1Y4WlZVdmNxNWFoZmNmZVdCWm9yRGdzMnVFWFdVeWI3SXpGQXhCblBZNnhKTA?oc=5"
     },
     {
-      "headline": "Electronic Arts (EA) Stock After 36% One-Year Rally Is It Time To Reassess? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMFJ3OWxEa1UtR01EcGliOUNiVWhSSExpREU2bjZUQ0JVX25mWFVSb3o3dVJ6SWVlVnd0eGt4VmVUdUNfaE5GRmFQLWNZSU15MWcxSVNWRWlOR3RFaXdGbjhSWktFTms3Nkl4ek5jSW9WcnB4QldiOW9XQ0QwdlY5UkFtOTZDYWdYakhvTzlNS0JLa0dRbmRwaDh2cFRRTVAzb29mUXVqc29pakdvZlFBc241eHo4ZC1pQ0NCU1p6NXlqelZRUVpv0gHMAUFVX3lxTE0xQXNnMVczQUpMRTYxWjJ5cEZBb2psSWVwQkYySDF1UWhMOHhQWVpoRHJZYXlIMl9lbGczemtBYnhmR1pyd1ByWnFrZHJWb0xjNlhoakJONnNza01yZ2RNcFAwOTJmUEYzcXVTMC1Nc0ZlcU9UVlI2Q0oxekZUSzNEVG0teHZISEM0bTlvbXVvLVVmYnY2Q0RTeGs0bkc4V0dIWUg5MWRGOG9JTTlNR0tybHF5THhnYUJWb3UzMDVMMFlKdm1WQUZfU1RaTA?oc=5"
+      "headline": "3 Profitable Stocks We Keep Off Our Radar - StockStory",
+      "source": "StockStory",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUxISkgtZGFEaTNVbjFfcldOblB1ZGdfUy1CVmZka1ZxenlydnlWNmVyY0Nsb3RvR3dhN0xDSVNFSkVvNlFVb3VwcGJ0eEU2VFhGRlI0aXluRmlEMkUxNTNTSG9qWFBSZlZTYTNPNHlvZTJaQ3VrXzV2SmRhdXpjWUo4Ykc1OFNQUkphQWxyYkpVcG5lOHdjZWhKY0E5am0ycVpv?oc=5"
     }
   ],
   "insight": "Tracking Electronic Arts (EA)."

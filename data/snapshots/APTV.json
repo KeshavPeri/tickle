@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:33.261Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:35.452Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    54.209999084472656,
-    57.560001373291016,
     54.34000015258789,
     53.0099983215332,
     52.56999969482422,
@@ -24,11 +22,11 @@
     68.4800033569336,
     65.19999694824219,
     67.95999908447266,
-    68.05000305175781
+    68.05000305175781,
+    66.62000274658203,
+    65.68000030517578
   ],
   "6m": [
-    78.08999633789062,
-    76.44000244140625,
     76.37000274658203,
     77.08000183105469,
     76.3499984741211,
@@ -158,10 +156,11 @@
     68.4800033569336,
     65.19999694824219,
     67.95999908447266,
-    68.05000305175781
+    68.05000305175781,
+    66.62000274658203,
+    65.68000030517578
   ],
   "1y": [
-    69.18000030517578,
     67.5999984741211,
     67.66000366210938,
     67.05000305175781,
@@ -410,12 +409,20 @@
     68.4800033569336,
     65.19999694824219,
     67.95999908447266,
-    68.05000305175781
+    68.05000305175781,
+    66.62000274658203,
+    65.68000030517578
   ],
-  "lastClose": 68.05000305175781,
-  "oneYearReturn": -1.6334160862000267,
+  "lastClose": 65.68000030517578,
+  "oneYearReturn": -2.840234041840007,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Aptiv PLC stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN2VWS3MtdEFVSWVBeWphcS1hRlZ1NVJIV2pIQlVjM0ZfWW5SUm1MaWNNZVVVNnBZUVhMQXBaWjNpbkNtbGJzaWdrWVZpc242NDJ6VGk4VVhRM0FNMmtoQXIxNGp3bkQ2dnlIUlp2d1pNdEFCNTdDQVZHVDBuMmRDXzYzUFNOQUo4M1Awa3VQUWNKLWNyZ21qVDN6TWhTWGZhenVoMDR6VzFCSzBZd2ROMHk4ZVVpb3k5bXZlSC05eTN5dXBXYlR6OERHV0REZTlWczdpUTVtRFdhdUNF?oc=5"
+    },
     {
       "headline": "Aptiv PLC (APTV) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNnZna01ReWgwU1FsV00tNUdnOHhxLUN5dWRlUXpFVnBsSjYwa0xQcU5XX2psYTVFQlBZVG1GM0NnVDVkUk13akowLVVqdnpHd0RKSkhVSlRLV2JyeF9zRTNlVVl6MVp4MnZ3VUdUVE0yX3JZbnJySG1XTXpvaGtHZ1F4SF9RX3A5dktoVTVibkpJUzNHWVM2NW93?oc=5"
     },
     {
-      "headline": "Is Aptiv Stock Underperforming the S&P 500? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSThfei01RUVkM0FUYngyejJNczY1dG9oVENoMjZzd3Q0bW5JTVpKWmtIcWpaRWFMdGMtRWp6ZVhNa2NFaFc4aC1GVGZyd1Rzdk11Ny1Wc1ZXdkJtYld4by05YlMzUGI5LTJWZVd5RWRPa3h5THc0ZjlxcVNtWkwtNUR3QWo4S1lWWElsWUhLWQ?oc=5"
-    },
-    {
-      "headline": "Aptiv PLC stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT3dBS3F5SHY3VUI3RXIwUnlfanI5bHR2YVBZbGMtNzBjOVc5d19uWHBqRHU0Ui1kRVdqVGp6ODVBWHVFUTlqdnc5RVkwNGxXUV8yajZnNWhUeDJTNkZzaThhaDB0bUNHZUJ1UFlFaFNQMnN1R2pwR0lXLXh2MnRPUEZQNWIzWHVsWG5HbDFTYWZxazRuWHlwTDhyYUFhNWVGNXZwYWpuZGNKcy1uY0t1cFM1ajJ2d3lWWk1PSEtHdEhrVVdnd1M0ZGlpQ3FsVy1wdWdNWWhVZk0wdFk?oc=5"
+      "headline": "Aptiv (APTV) EVP Louissaint sells 3,000 shares under Rule 10b5-1 plan - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVFnaVdPTHgtZ0JTOEJCU19GS0ltTGtYclE0a21XR2t0bHZGa3k3bHd6bGRON19QS1FBSjBUSTFkV1BheXVIQW95ZUNDQlJXSHFWQU9pcm4waF83RTZPTy1pNXhCRDBQZThjdVY2QllSa0pSM2NqbFNYUXVfS2lhRElta05fOXhubkg4ekdTbDg1Wmx5UHlMZ05FcHhzSjBoS1dOV1FR?oc=5"
     }
   ],
   "insight": "Tracking Aptiv (APTV)."

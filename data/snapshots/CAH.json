@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:38.288Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:39.766Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    186.35000610351562,
-    194.3800048828125,
     195.1999969482422,
     199.77000427246094,
     200.3699951171875,
@@ -24,11 +22,11 @@
     212.6699981689453,
     216.3000030517578,
     221.16000366210938,
-    223.85000610351562
+    223.85000610351562,
+    226.39999389648438,
+    227.72000122070312
   ],
   "6m": [
-    199.7100067138672,
-    199.19000244140625,
     198.8300018310547,
     198.8800048828125,
     198,
@@ -158,10 +156,11 @@
     212.6699981689453,
     216.3000030517578,
     221.16000366210938,
-    223.85000610351562
+    223.85000610351562,
+    226.39999389648438,
+    227.72000122070312
   ],
   "1y": [
-    162.41000366210938,
     164.91000366210938,
     165.39999389648438,
     163.39999389648438,
@@ -410,29 +409,31 @@
     212.6699981689453,
     216.3000030517578,
     221.16000366210938,
-    223.85000610351562
+    223.85000610351562,
+    226.39999389648438,
+    227.72000122070312
   ],
-  "lastClose": 223.85000610351562,
-  "oneYearReturn": 37.83018352073367,
+  "lastClose": 227.72000122070312,
+  "oneYearReturn": 38.08743930858654,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Cardinal Health Stock: Is CAH Outperforming the Healthcare Sector? - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Cardinal Health (CAH) Stock Could Be 7.2% Undervalued After Guidance Raise - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV21sTUFDTFIyODh3dGdWOUs5MWhEVkg2amdiT2I1S1U4cGZRYVZLS0dOdC01dFR1YTBGYkxFdDMzcWJVUllkYmtJTTYwWnVzSEdRUTFVSm56LUdoZjdDU0tLNXR4cHBNSlpYS05mbUJJNVhubEpYamVGMmRLNjJiQzhRR3VwTFVIMVNrbkNVa0oxQ003VkxTWk5IWVVrd2RVblo1eHdYQ24ybGZrZGc3M2l3NG1BVXMtUENsSERQLU1TMkpWc1Nrb3llcW45Z9IB0wFBVV95cUxQWktDaE8yUFdJbS1ldGhKRFlEZjU2c2dVR0xwVDhsS2wtY2lXUHZ0SWtpbEItek1NRE96TzVlcDFHOTA0OWZEaEZza3ptbFluRzNaRW43MVpZS3NPMUxoYmJ1YjJmREVmVWxBSW1pa0lqeTFKbElob1ZXT3NIMzJjZGV0MTJNRmx4TDNSNUMzeXJ4OUlJa0M4empqTm5hZmpWZFZsQXRTNjZlTmxjU1dJVXZmd0VXeHBuR1BZZFRfMFVudmtuVVdGSEhwY2ZyR082VU5N?oc=5"
+    },
+    {
+      "headline": "Cardinal Health Stock: Is CAH Outperforming the Healthcare Sector? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTk1KU3lCOWJwRGVQeTQ2V0xLYWhoNDBVa2oxcUlzUEc4S1F2TWRHYnZVQURsZGRadjlpQnhVZS03NWgyWDBYUlR4N1F3cE9iaFVEMzhVb2lCb2xmTFJIeS1ocDEzazlCdkdWc1NIVVkyQjZaakNqOWtPRzlWWVBCNDI5MzdyNkZyTzYteVdKZ0Z1X2hoeGhqX1ptd2xBc3FCMXVJVE9Pdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEF0b2tTQjR3QXpGTnhuSEEwQWxCM1M4Q3dxZkUzbXFGcHBSRjJST2FXREtjNFYtV2dKRWFydk9OTzAwZW5GcGVrNmRDOTVJNmlRbEJSNEtwaWZVZXhKbTdVU3prTE41OXJMaWY4cFNrU2pYUzJSakdzc3Z5VmFSSTJUVEM1SXJHTWt1dEhhMTdvVEtGcGtwZ0tDX3NUM3RyWVEwd0M1cTFjQ3V1?oc=5"
     },
     {
       "headline": "Cardinal Health Stock Rockets 11% With 5-Day Winning Streak - Trefis",
       "source": "Trefis",
       "when": "2026-06-16",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdV9FYjBaMzBkUzhyTk4tQ1FXelFQLTlyMjhtMWVKeWpLanJiRVNnejZMR3RtanBnNEl2eFpBejQ5amhvb0NDdnRVbWlnemJ3aklnYmJXQUxjSnljWXBTanFZYVBQQ1F4TWp5WHdqa01GZkFxV1BFNklQWmF2NXNHYlJHdHpHSHF1bUVvOS1jbS10ekZpSE8yT3RoVG1lOHJGZTJWM0QyRkp3cl92ZnNIOUJoWGVyY25NSGJSOHlVc0VZdkpaN3c?oc=5"
-    },
-    {
-      "headline": "Cardinal Health Inc. stock rises Monday, still underperforms market - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNS14VldFUlgwbUZEbE9HRnhzQjhNaDlLQjd4ODF5MU1Tc2hUdkhXMXZBMkd2dHhfM0dwbElmUElMbHY4SnRYdXhiZGxRMmhJWXl0OGVVS0t1VkxBS1d2dldIWE13UGRCd2dKaEVxazg4ZFhFYmhITGxLM0ZpdDZ6ZnlrNks5VXlqY3MwMWgtTGZ4d1l1TmIwejZqdkZ1bGJxdURGVllxN3MtNXVTckpIOTh5T2JyYXJjTU9oU2ktMFBmSjg2R0ZXeXNaZ2FyMTRMZHJfWERVRVpMb3M?oc=5"
     }
   ],
   "insight": "Tracking Cardinal Health (CAH)."

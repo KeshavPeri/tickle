@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:05.135Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:03.566Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    66.23999786376953,
-    66.79000091552734,
     66.0199966430664,
     68.31999969482422,
     70.5999984741211,
@@ -24,11 +22,11 @@
     62.9900016784668,
     64.45999908447266,
     64.12000274658203,
-    64.70999908447266
+    64.70999908447266,
+    64.05999755859375,
+    64.12999725341797
   ],
   "6m": [
-    66.19999694824219,
-    63.13999938964844,
     62.709999084472656,
     63.380001068115234,
     62.900001525878906,
@@ -158,10 +156,11 @@
     62.9900016784668,
     64.45999908447266,
     64.12000274658203,
-    64.70999908447266
+    64.70999908447266,
+    64.05999755859375,
+    64.12999725341797
   ],
   "1y": [
-    66.01000213623047,
     65.94999694824219,
     65.5199966430664,
     71.97000122070312,
@@ -410,29 +409,31 @@
     62.9900016784668,
     64.45999908447266,
     64.12000274658203,
-    64.70999908447266
+    64.70999908447266,
+    64.05999755859375,
+    64.12999725341797
   ],
-  "lastClose": 64.70999908447266,
-  "oneYearReturn": -1.9694031354140624,
+  "lastClose": 64.12999725341797,
+  "oneYearReturn": -2.759666078912121,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Kroger Earnings: What To Look For From KR - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOHlzYWFoLWFfcDAySWNCX1h1XzRKN1B4MW01Qm9JWE9UUV9jcXlxRjA4anV4cjJXZGJnbURianVGUGR2dFBkTVgyVDJqTlZtcl9hbHFuT21EZzZZdmE4QWF2TjRpX1NILWdwNG9mSmV4M2wzTkVZX2JKb183a05MOXJVYmlodHVabnl3eWRBdy1lek9UWGRUNUhPaWxkQWxDSDlN?oc=5"
+    },
+    {
+      "headline": "Shop at Kroger in Columbus? Be ready for new digital price tags - The Columbus Dispatch",
+      "source": "The Columbus Dispatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUDczZFJVMEs4aldNd2FZSXh4NmpYSy0wX1ptaUFfZ3VXNUZNZDhoMWxBRDFRZUZoNzE4Rnp3S0dkUm1GR3lORGJLa3N0aDVHaHpEWFdzNjFlTzc2NWJPbDFXeXhjM2xiUWNpT0tVYkV0LTNUM3NBWDhjOUtZckJFREtOUzM4eDJXcmpRLW5SRk9MVWhRbjhya29DVldlQVBqeHNnVy1taUh1VG12YnhmMWxTcGl0MDdJaEJOVmlR?oc=5"
+    },
     {
       "headline": "Options Bulls Target Kroger Stock Before Earnings - Schaeffer's Investment Research",
       "source": "Schaeffer's Investment Research",
       "when": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlFnUHNQSWFmRG9fRG5ZVnVZWVBJQjd6aDRLYTdFNTFLU2wzbldmdThvOGt3T3h4N3ZHczdCM3ltUzdNMWI3MDd4WlE2LTYyLVVDSHRwZXVnOTNoY3RkS1VRbk5kRmNnZTdwNS1pZnpwbkZZYlNmWWNrMTd1bS1sTEdwVC10enN4MzZ6a1BHNGNGcDhFZUNOZndDZ1V3M2tHd3pVOHhzcmt3RFAweUQzNFRn?oc=5"
-    },
-    {
-      "headline": "Here’s Why The Kroger Co. (KR) is a Defensive Stock to Buy Amid Geopolitical Tensions - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX0VoSHJ5Y1lNRHFYYWdveFFnQWtvVFhwWjV6ZGItTS0xd3NrajdjeUt4WTV2YW5qNTU3NTNtaEZlSXBLZ096Y0MzSjF5N0dSTG42UHI5QW43MFBsb195VEtDZTlpSG5WYUxMQlk5ZmJwZnBQMlZsaVY0ZHdYazJhckR4eWl5aDR1MFpPcW91YVVTUncwZlE?oc=5"
-    },
-    {
-      "headline": "Kroger's Board of Directors Approves Additional $2.0 Billion Share Repurchase Authorization - Kroger",
-      "source": "Kroger",
-      "when": "2025-12-23",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYkE4QWtIUEJESjN0MVB4NXpxeEZjUlRjc3Zlb3BOQXNWNFJXS19WSWwyOWhKVnJ4MWNXN1hMVi1HdXVKMklBbEU2a2pJaXY1YjV3TTdSb0JJbTRzNDN5MHlYVjg0NWgyNDJZQWpsY2ZjVHFNd0MxeGV1NmRNNkRIcWNRWlBVS2w0QmRfbmR3Y1d2QWZrYm5PWmFzS2hJX0Q2SVh3Tzk4Q18yRzN4UE9QWHI4WlVWeXZScmdMZWgxODRtU1pUMDV6STFrVVYxRW9xV2N3bEV1N29EWHQ4UkFUbQ?oc=5"
     }
   ],
   "insight": "Tracking Kroger (KR)."

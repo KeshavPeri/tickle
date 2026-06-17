@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:58.557Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:57.444Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    94.01000213623047,
-    95.6500015258789,
     95.25,
     93.72000122070312,
     97.18000030517578,
@@ -24,11 +22,11 @@
     84.26000213623047,
     82.29000091552734,
     83.7699966430664,
-    83.9000015258789
+    83.9000015258789,
+    84.98999786376953,
+    84.95999908447266
   ],
   "6m": [
-    82.47000122070312,
-    81.8499984741211,
     81.0999984741211,
     81.12999725341797,
     79.86000061035156,
@@ -158,10 +156,11 @@
     84.26000213623047,
     82.29000091552734,
     83.7699966430664,
-    83.9000015258789
+    83.9000015258789,
+    84.98999786376953,
+    84.95999908447266
   ],
   "1y": [
-    69.7699966430664,
     67.5,
     67.93000030517578,
     68.62999725341797,
@@ -410,29 +409,31 @@
     84.26000213623047,
     82.29000091552734,
     83.7699966430664,
-    83.9000015258789
+    83.9000015258789,
+    84.98999786376953,
+    84.95999908447266
   ],
-  "lastClose": 83.9000015258789,
-  "oneYearReturn": 20.252265390092592,
+  "lastClose": 84.95999908447266,
+  "oneYearReturn": 25.86666531032986,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Hasbro Stock Up 24% in a Year, Earnings Estimates Rise: Buy or Hold? - Yahoo Finance",
+      "headline": "Tonies (DB:TNIE) Stock Could Be 17.7% Undervalued After Hasbro Partnership - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSEJjempRT0c1QzJGN1ItYmR1V2JXOEF5TnBfRTBpeEJGdV9qZzRESXlrbmxQbE9sUVAzM182N05tMkNaTjBrUDV3WVVqVUk0ZFBNVjZTMFExZ3E3UExjRTZ6M0JoX2NHTXdLSk1nRl9qTW1LT1NTaFNHTzh3ZXd5UFUzYV9TV25WdExRamVjQVpEVGRfVi1Kc19vaXJQSUo1?oc=5"
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkdQQU9ZUFBwSmVIN0pHVmowc002RExPbXhEd0dnSzhEUHZwX1ZZMFpDcThvbnFQN3d3R3d4ZDhmaU91R1c5MWJ1RjFrWTU2T2F2OXlkdU1leXlBNTJhYVJnb29GU0Vhak94V29NUzZramVOejhhLVdMZnRMYU1rX3ZRNFNrSWJFeHRyMG4wRnI5Tng3X1E?oc=5"
     },
     {
-      "headline": "Hasbro Inc. stock rises Monday, still underperforms market - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVGNPbGJWSFdWQmFuaTlDMG45OFUzV3V3WnRySHdsWVlFTkpZNG4xQklLSjJtWjFWOGxYNjFLeEVLazZrcC1JZFd2U1h4cndTekhUSUZWY1JlcVRGWDdhY2Z5SlI4ck9BeHlqZjFrbEtZY2NIOW9ldXZObU41UkRTNE9XRmhjRnM5UE5oVGl6Z0U3Q1E4R2M2UDVIRHpUd2xqUFdocTBaeDRVMC1QVWJlZF9YYTMwNDRweE1LSHY5U2M4MUJlb1kzWkRmZFBibUk?oc=5"
+      "headline": "Hasbro (HAS) Stock After Sixth Wall AI Push Is The Undervaluation Story Still Intact - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-13",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR0pLSU1QUHFranVnSDZZS2NyN0M3WjJLQUxBMG5KVXBoRDkxajl6UXVibFdQekpZN0diTmd6cTVuNHo5N3NLVHdFeGJTRjJKZmxIZjJrZEhsM09ZUXhidHFxUlM5SndCazN5LWd1ajV2RmphN096SHF1WFdqNGxJRnJ2dDhGQmU1QUEtUmNyMU9Xa19ZN0ZZSW9DWDVqWVpVWFRRNzg1VGV2X0t0eUNLb1lRcE5OcVBzaGtGUWxheWRlVF9yUVVveVRZSk1Fd9IB0wFBVV95cUxNVk9tU2NETFlaZDVvQXdRZ3NzOVBmR3JEM0piR09VX1pvb1JaQ3ZJU2VRQ3owS3NYX3pSTEQ2WjlIUmFvZkphU0ZjM3czMElCUHBHanV4cEJlSGVaX3gybTdGanBTeHNIdXYtVDZMTFpsZC0zWGhRMUtIbk5NbWJVS3NRZmh1dmZHanBwVjlIZGNFZ0w1S1hDUnp1ZWNFU1dYc2lfWHMwWEVjSmhMVUdLUURUMVJ4YWVGQnhRekY0UHhtUi1KelhfR0dSNEM0MXIzV01n?oc=5"
     },
     {
-      "headline": "Director at Hasbro (HAS) receives 2,224-share stock grant - Stock Titan",
+      "headline": "Hasbro (HAS) investors elect full 2026 board, approve pay and KPMG audit - Stock Titan",
       "source": "Stock Titan",
       "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUTZycDd3WUpmbkpXWTd4RV85VVNpcHVOVlhqdUJFaldHYjZ5ZlJ2MTZQY1N0WkVha0NFaG43THBxN0RXLTN5eHBMYkN4RTV2V0hvME85Z2pOQ2NVWW9qcElNR21fYkRtMmhLWEVkN1NIMXpEbW02RDFLakxUQkdDTEY4STVfN3dqNzJUME5GTmx3aHlQSFh4MkJHdG5QeS1PWkFKd2V3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHo0S1JjRnlvNFN1Rk5PNE5jNC1JZzJGaTJHSEstTENNUUxoSE9MeVpISFlVR3FfcVlEeGtkaWVLMzZSOE1nZ1lwOW53bnNRZ0ZDcU5kaVNkTlRzWEl1OWlhS3RZUWVXSm8yVUo5VE04MjdmQTVoSVRSeFl0ZWp4XzVWSDBfSHV0VGFYTjVSeUlFZkxnQ0hXR2tJamtMWFk?oc=5"
     }
   ],
   "insight": "Tracking Hasbro (HAS)."

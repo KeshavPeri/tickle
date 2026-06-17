@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:37.961Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:39.546Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    124.0999984741211,
-    124.81999969482422,
     123.41999816894531,
     122.41000366210938,
     119.97000122070312,
@@ -24,11 +22,11 @@
     134.72999572753906,
     133.3800048828125,
     138.07000732421875,
-    139.8300018310547
+    139.8300018310547,
+    141.2100067138672,
+    142.99000549316406
   ],
   "6m": [
-    106.72000122070312,
-    107.79000091552734,
     108.87999725341797,
     108.91999816894531,
     109.43000030517578,
@@ -158,10 +156,11 @@
     134.72999572753906,
     133.3800048828125,
     138.07000732421875,
-    139.8300018310547
+    139.8300018310547,
+    141.2100067138672,
+    142.99000549316406
   ],
   "1y": [
-    78.06999969482422,
     77.36000061035156,
     78.3499984741211,
     78.44999694824219,
@@ -410,29 +409,31 @@
     134.72999572753906,
     133.3800048828125,
     138.07000732421875,
-    139.8300018310547
+    139.8300018310547,
+    141.2100067138672,
+    142.99000549316406
   ],
-  "lastClose": 139.8300018310547,
-  "oneYearReturn": 79.10849542417118,
+  "lastClose": 142.99000549316406,
+  "oneYearReturn": 84.83713077172666,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Citi Calls AMD a Rising Force in the GPU Market, Upgrades Shares to Buy - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbE5RNF80T3JFeWVGeDBZWDhMeW4tRUZaaERVUzlTbGt2Vk5ObnVSX3J3RjJvNTVaSmJtQS00a1QwUTNucmNUbEszSmRkVjZhOWxXNHJFdDgwTGtHeTA0UE1hek1aRzU3VHVJVUM4RzlJMGJBamkzdDVtM2dkby13V2hZdFZPUG8zUUVGaFdzMGJ3SlZlYjc0?oc=5"
+      "headline": "Citigroup shares outperform down market after Trump endorsement - CNBC",
+      "source": "CNBC",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczZfNENqeDlwTU1Kcm83eDdxUE9LZmd3cGF5cVEwV2NKbU1ibWkxNG9rYWppdVJ4RkZ5TU4xcDl1MVhqdDRaY2kyVXRVUV8yUDRDdVRMMlZieHdmMXJfWU45NV9vQi1BaUhvdVZCY3U4WWExYldrREJURUd4V0JhbnZuTjVRREN6VUNZVDlSZDZBYXJDRUJSQmlVVktuQ1g4OGfSAacBQVVfeXFMTjYzSnZoSEFmZXVXWnE4T3dQOWZEZ1JtM05ub0FEandZYWJXdzBCdXc0VUhIejRwTE1pVlFPOTlyVkZQcTFteVdYUDJaNTBmUFd6UVZkeWNZb19PVy1ERXRBR2JGVEpSd0JmZ2poMDlXWktmbnQzWDJvMjhETlIyZmxEazBLdHk1clJwTm1SMFpLTUVtVUM5VlhYSnVSZGliWEFLSHRtSFU?oc=5"
     },
     {
-      "headline": "Bullish Spread Targets Citigroup Stock Momentum With Limited Risk - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXhKRGNfbC03R0dpTW5Mb1dKeU5nUGxiaXR5elNpdWpZY1NtWGdFQmZ1bDEtWVRXb0lET2hTcDBieElmOFNERjdSbENERGRUZEgxWDZUWktkM1hxU051WFZmNTg2RGktRWFPXzNWbE56ZWZnRTRKZE5uNkVaSW5JTjJwSy1Oa2FLYkRVWFR0Zzg1SjNyU1R3TEJwZ2gyRXBfblBFZTVqdERTdw?oc=5"
-    },
-    {
-      "headline": "Tata Consumer stock gains 2% as Citi bullish on strong growth momentum; check target price, upside - TradingView",
-      "source": "TradingView",
+      "headline": "Citigroup Stock (C) Opinions on Recent Highs and Tokenization Plans - Quiver Quantitative",
+      "source": "Quiver Quantitative",
       "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb3llSW1NbjU4TS1OV3FZSE4ySlVRTDdWTWlQdHNXa3BfcUhPTnZuQ0VNMHhpMTNzOC1zcURXWFk3Vl9tcmIwbUF0amJPTEpYRXpwN2JtUnNXNEtyUlAyU1J2enNucktFeVRLTmZHUkFCTm5QSEoxcWRLZmVVa0NJZ1hOMWFXNzRNbnJHUUpyNmI0YzdqUTlPOUU2NlUzWF9ZdHBneG5IM19qY2xoTHFKWlphVllwZVJUOUhLRFdVVWhGSFV2aXFGc2dneG1ULWVmbmNaTGpmeTMyTjlVTFhiM1NuLUxWNTJTZC1ORWlNQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWTdHVHJJb21ZMEdvREEzRmhlUXIwWFItQldJZGtIM20xUFYyUHZyLVFERUkxd0g0LU4yYklpT3BRd0R4R2gwbVoyd1FQcnVJOVdYWm13NDRvLUlxLWNxdDROWkxBN2FEOTBtREY5Z1JnM2NnS3dpcDgtZUwxVlFyRHFsVk9fYUJpM1J2OVZPMG5SWFVMeTUybjFWbHl1bEZDODM1V2JZaw?oc=5"
+    },
+    {
+      "headline": "Citigroup Stock at Multi-Year High: Why Investors Should Stay Invested - Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmREVVJ5bFFfT215OUlKaXFCX1JEdkIwV0FUUnpmVFVwR0dOSDFOUHEydXpacC1VVjk1ejZfbG1Nb3lqVzVrcmltaVVrUVZKRm9LX3VtMDFzM3dyc2E4LWtyZExNWGlCOGRtMUJMOTBnX3d5Yk13akpTVDVRQnl3VDZnYmhKTlRlODEyLU1XZExveDRtTUdCVGt0cjBKSkV2Snk4RkRfblZPajJPQ2Vv?oc=5"
     }
   ],
   "insight": "Tracking Citigroup (C)."

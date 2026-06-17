@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:40.411Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:41.600Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    163.25999450683594,
-    165.30999755859375,
     166.4199981689453,
     167.64999389648438,
     167.85000610351562,
@@ -24,11 +22,11 @@
     163.8300018310547,
     166.42999267578125,
     168.3000030517578,
-    169.00999450683594
+    169.00999450683594,
+    169.33999633789062,
+    171.7899932861328
   ],
   "6m": [
-    162.8300018310547,
-    163.00999450683594,
     162.3000030517578,
     161.3000030517578,
     161.49000549316406,
@@ -158,10 +156,11 @@
     163.8300018310547,
     166.42999267578125,
     168.3000030517578,
-    169.00999450683594
+    169.00999450683594,
+    169.33999633789062,
+    171.7899932861328
   ],
   "1y": [
-    146.6999969482422,
     145.27000427246094,
     145.6999969482422,
     145.44000244140625,
@@ -410,29 +409,31 @@
     163.8300018310547,
     166.42999267578125,
     168.3000030517578,
-    169.00999450683594
+    169.00999450683594,
+    169.33999633789062,
+    171.7899932861328
   ],
-  "lastClose": 169.00999450683594,
-  "oneYearReturn": 15.207905945945607,
+  "lastClose": 171.7899932861328,
+  "oneYearReturn": 18.25565377139547,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is Cincinnati Financial Stock Underperforming the S&P 500? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOV9hNXMyTWFGS01IS3RYSU5iWDM2TU1hT0wtcVJnRDcwbHR2bTYzLXYzVUZ0YlZ5QlJfWV9iRlBiQ0cyalpWdUdYaHR6NTB2TlhpT2pVUXZtcVhXNmdzYlBhMVlzTGZzVVAxUFZ1VThZNXJTYnl4MU5RQUdFdkdDQ3htaHJ2SEI3TW1LdHFMeThmdnJPbGZ3YjFnbTBXa1pFRUIw?oc=5"
+    },
+    {
+      "headline": "Cincinnati Financial Stock On Fire: Up 5.9% With 6-Day Winning Streak - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSXNQMmw0aW1sN0JIVE5TdmdXQl80WGNtdWV3MXBtZEQ0eXFmSzhJb0NqZkZDVnZwTEFFRVBGY2VjYTR0SUNsRjU5Vk53QUl4ZjRCVUNJcFcyc2Mtemk4ckZvNUx2LWFpeXhNMVpudTNMa3otb2NCaXJ6bzJnUFdoQmRScnFBYkllMm5CNGNMeU1zZ2NFSVZzeHRMMnlzVERuZWN2OTRzdWhLZmZXUnBqblFwdXhMZ0N1S2N1cHg2VE8yVkttWlhISlpSSms4WWotckZJ?oc=5"
+    },
     {
       "headline": "Why Cincinnati Financial (CINF) is a Great Dividend Stock Right Now - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2NJV0c2ZVNwSm5qMnJWOGoxbVFBeUZoS0RLLTVHVVdZcG4xMldjYVloV01velhTaGRQaFNuQW9hWHc4a1Q3SEdJUm9Qb3ZVSXRRUWRJRHVqQlJGSGlmNk9uOERnTml5aXhDSkNYX2JlZDBBa2dlVmdQTFNYTWtwbW5lMzJlNmFrcnRfZzA4bS1MOVJWa0VkYkJ2UTJfVExQQmc?oc=5"
-    },
-    {
-      "headline": "Cincinnati Financial Corp. stock rises Thursday, still underperforms market - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX0YwWFoyOWhCSl90a2oxMHRoTXJ3ZVh2NWgzM3FpQ0hzRzlEWC05T1RCR0tyV1FCcDRMc1lLT1ZJeGRZd0twTUtYNEFQYXFSVEN3VE14Njk4R2diMmk4cVA3SldXbUpKM3BfT0tra3JGWUZIOHAxUHlrTnQ5aV9iU3dBTHJucXV6MXNuQ0pkbGlUQ2VYeHVhMUlTNmFqMUhDSEoxVzRab2VIdDBMS0ZkbFp3bjRZd1lFTU8zdnV1dzFVdl9VSnF5WHdwUkU1QQ?oc=5"
-    },
-    {
-      "headline": "Cincinnati Financial Corporation Declares Regular Quarterly Cash Dividend - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-05-04",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYXlFY21DR3hwTGRVSHRMMUtXbUpGVWRROHFaOTA3RjdGOVBPZmNIc2JrVlhHVUZkdEZkQmhxbzhPQ3A2WUk4X1JqRjdoeHpLMzZHWDNFWG9rZy1XT2dZUGs2bUJlUWw4LTBPOHdSLTBmSXNWNWZ6d0FkZ011NkFUOTN2OENCbl9XVTQ5aGRZbW1ZVXZZOEpMZDRnZ2NnWXc1T05SUW1MMnJUYktVNlFxUVR2anhNMVFjQXdNVDJpcm5lMnZTcjlWQw?oc=5"
     }
   ],
   "insight": "Tracking Cincinnati Financial (CINF)."

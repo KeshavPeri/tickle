@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:05.740Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:04.262Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    220.4499969482422,
-    223.61000061035156,
     218.4199981689453,
     218.02000427246094,
     218.3699951171875,
@@ -24,11 +22,11 @@
     217.3699951171875,
     216.19000244140625,
     221.0500030517578,
-    220.77999877929688
+    220.77999877929688,
+    220.19000244140625,
+    224.02000427246094
   ],
   "6m": [
-    246.94000244140625,
-    246.1699981689453,
     248.47000122070312,
     244.82000732421875,
     242.6699981689453,
@@ -158,10 +156,11 @@
     217.3699951171875,
     216.19000244140625,
     221.0500030517578,
-    220.77999877929688
+    220.77999877929688,
+    220.19000244140625,
+    224.02000427246094
   ],
   "1y": [
-    216.0800018310547,
     211.9199981689453,
     210.8300018310547,
     212.75,
@@ -410,29 +409,31 @@
     217.3699951171875,
     216.19000244140625,
     221.0500030517578,
-    220.77999877929688
+    220.77999877929688,
+    220.19000244140625,
+    224.02000427246094
   ],
-  "lastClose": 220.77999877929688,
-  "oneYearReturn": 2.1751188950456175,
+  "lastClose": 224.02000427246094,
+  "oneYearReturn": 5.7097047036916955,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is the Options Market Predicting a Spike in Lowe's Stock? - TradingView",
-      "source": "TradingView",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWXJ5am5RMU1nYVg5dm93SG1IczlMR041MFdZazNqTmxhOW1FUFRIMmxPTDFGcUcta2pRd19zWGU5SDhRZkpCTVNyMzZGNGJDc2Eta2FzZEhlVWYwUjJJLUVlbDBMWnVDMUpGT2MtWWNUSU14N200Q2VrRGJwaGRRbG5Kc0VSR3NaUkxQaUhuRk5qRTA1QTBpUnhPcDU1aXYzVEkwUG90MlpjODNSTDFVUVZ3?oc=5"
-    },
-    {
-      "headline": "Lowe's Stock In Focus As Home Improvement Demand Returns - Kalkine Media",
-      "source": "Kalkine Media",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa2l5eDNnWGRKZlVmRWljTF9VdDFBOTExM3FfdGdPeVpjdDdXeUZiMzBacjdyUXlXZ01EaVZtZjJoT3ZydWtjeUNvZlBBQ0Jzd0luZk1zcm9YN0tHdGU1c3BoR0xIN1lLZmJVSHBNclNpZTBBVVBNaFpXR1lQUlIyNl9KZV9xcHZSalc2cXc5TDJKOGQ3ZnhJa3J2dXdiQQ?oc=5"
-    },
-    {
-      "headline": "Lowe's CEO and CFO appear in June 18 online chat with Oppenheimer - Stock Titan",
+      "headline": "Lowe's (NYSE: LOW) EVP withholds 9,768 shares to cover RSU taxes - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHh4dWdsQ2VBOVJsYXNGUmlQUWVMcUlaUzF2UUUtekdOYjZwR3ZFODFrN20yMVN6ZnVVX3BHLWl2dGdYN3dtQ0ctbnNBZWpWNktQeVY2SHFSVWgzQ3FaekVBdE9BZGUyY0hMbnBQQmFHREx2ejVwZEZodWk5YVpIMjd0YkNpTHk0ZmNlM2laNkp2Q1JRQ3ZfQnJQZ1lLOGtHcmVyMXhFZTFFYVdGVFdhWEQ3SG9IWjRtRlhCS2xaSQ?oc=5"
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3V4Y05mQS12QXlCLTN4TkxNVUdPNDFkQVhXQ2tHWnVSWnIxdDhzNnlXQThJd3A1TDE2Y01nc3VtN2Z0WExVQ29Fc1B2TWcxa1ZDZXFWbEdzVGhRMU0yRTJRb0FnOG1MNEtpdlJHMkVoc0lDei1tc2JBZFQ4eEFyTkpNTDBwVl9adTJYeG5fZncxQkVPbGR4b0VTSzFDWExzdFhWQVpXa0l5SFZtZzRBS0NR?oc=5"
+    },
+    {
+      "headline": "Lowe's Cos. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYkF3RWNqTWRIbjBnQVVSc19YX1VfRXR3UzhEY25STUZCY04zRUhuaHhJSVlsV05VZlpZekZHTUlBaWNwZldnVF8tTUtMVTR3N19XcF9PVHdYXzI1MkN4V0ZmVnBrX3A0aF82THRLM1JOcGNPMXFqM0hxLWxaX1ZwLV9NLXRid2ltbkhPLS1HOFg4dkFWZl9nSGNwUXE3ME81TmwwVHNRZUpPZEU3QTREc09GMTJMUEc0M2hMSjY2WF8xazltdjBBNVB5d1lrckVKQ3U2dkctMA?oc=5"
+    },
+    {
+      "headline": "Home Depot or Lowe’s: 1 Has Raised Its Dividend for 50+ Years. The Other Pays More Now - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTTJ6OFQwdWN1NGN1ZWptcXUwZV9zNG5tWTZmbktqWGhYSzJFVHdncGo4VmR3NXEyaVIyS2h4ZTBaZFYwb3NyUzlEb3FSb2J6aWp5VUdrdVNRNlVzWVRtYVdhY0ZKZUd6a1NQX1dmWkx4WkpfM01QU1V5dnJjS295TVhTSFB0ODB0eEtZN1VOZk10eGc?oc=5"
     }
   ],
   "insight": "Tracking Lowe's (LOW)."

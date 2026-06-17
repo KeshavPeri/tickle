@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:06.292Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:04.530Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    39.40999984741211,
-    39.33000183105469,
     38.5,
     38.36000061035156,
     37.349998474121094,
@@ -24,11 +22,11 @@
     43.16999816894531,
     41.400001525878906,
     44.290000915527344,
-    45.470001220703125
+    45.470001220703125,
+    46.08000183105469,
+    47.43000030517578
   ],
   "6m": [
-    35.68000030517578,
-    35.810001373291016,
     37.849998474121094,
     37.95000076293945,
     38.150001525878906,
@@ -158,10 +156,11 @@
     43.16999816894531,
     41.400001525878906,
     44.290000915527344,
-    45.470001220703125
+    45.470001220703125,
+    46.08000183105469,
+    47.43000030517578
   ],
   "1y": [
-    32.20000076293945,
     31.440000534057617,
     31.15999984741211,
     31.389999389648438,
@@ -410,29 +409,31 @@
     43.16999816894531,
     41.400001525878906,
     44.290000915527344,
-    45.470001220703125
+    45.470001220703125,
+    46.08000183105469,
+    47.43000030517578
   ],
-  "lastClose": 45.470001220703125,
-  "oneYearReturn": 41.2111805694016,
+  "lastClose": 47.43000030517578,
+  "oneYearReturn": 50.85877703404259,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "United Airlines, Delta Stocks Head for Record Highs in Iran Peace Rally - Barron's",
-      "source": "Barron's",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeER4a0NIMHhWOHB3OGpvR3hEREpWbTNJVlBoTDJsMnY4Y3hfMVRobms4dWFLN0pZeDhiMVZ0Z190S3RtVWRhUzlWWGE5Q1E4WEcxQ3NwZGRUd2c5VlFTMHFPY1F6UURaM0VEc2RxOHppSnZTOW5kM0w5eng1LUFPZllyXzVpd3dCX0ljZXBn?oc=5"
+      "headline": "Plain White T's play 'Hey There Delilah' on Southwest flight - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd3dlcnNxZm9QNGRKeWNpSXIxZUJnZWllVng2WGk3SEs0YUYySmkzZmEybUxNVERVNEZNMzhrQnIxMWM3ZzNWNEVyQnRfcGdPX3N1WldXLUxhcmJnSDBKLWZ0UV90Mi1ON1hMWjVudHJjam1MS2JZY25GcE5GenFhOHJJUGE4eFlYaDNkV21OOXp1cWtNNDRwRjVqOEdKZXcwMFRoMXNsb2RnanVOOERmWGZn?oc=5"
     },
     {
-      "headline": "Southwest Airlines (LUV) Stock Valuation After Recent Rebound And Premium P/E Multiple - simplywall.st",
+      "headline": "Southwest Airlines Co. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdk5KWnJiOWIzdlRNTWs5NEw1VHh2UlQ3cnZBZkZTY3V2bGVXbVJHTFhEcFJaYnVDdHM5T2trbmJuQmVGRF9MaC1qeEdQRTJIbk1KcWpsMG5jRkhxY2NkUjhfcWRmdmF5RDhZREU5ME02OEljM3BBSjhWTWJTM014Q0lGM0NyWkxBSkdSbVltWklydVhQcVZOb2pqTWIwODVtQmU3RndfQmdiVkF0ckNpRlRqT1hfS3RoLTBPTi01c0pMLU9iSDhEcjlTbjg2S0ZjNjk0QUdJUjFyd2RLOXRrTVZ5QUVYZw?oc=5"
+    },
+    {
+      "headline": "Is Southwest (LUV) Turning Domestic Scale Into Global Pricing Power With Its Singapore Airlines Tie-Up? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeXhhNlZLQlBQaXR5WHVrbHdzUzJjWGJRaWFKTnRjOHFKRWU2RzJWTEhhVk1Oa21lTUFpOC1mSkJmMXdJYUJxS1ptVzBQdV9RUHBqYTZHamdRUDFQZE1qTmlMVzNiZkl3ZzNSV2VpcTZsUTB3RW5pZVVGTmVnblFIS2cyOWhzR0VKakRDZG51QkVCM3lXNEtkN2Vsa0N3dWh1Znd5RTBGcEJwTFNxMnJObGxrN2MwdEFrQmhtSzgxQ2NrdGN4STZTU1paUmZjcUtvRGxFYTNB0gHbAUFVX3lxTFBHb2E5bzlMWDU0a0sxdFZWSE9uSkFNWUlYY0pDMkg3LTdxTGVJMDN0cHZwX0haakxnRF9VbXJNQ2dvTVZ3X3g3bS14WUFYbGM1TXNvM0pMd0E3OGw1bDl3Q0hpdE9vNGo5dUx4Tmc0QmloS1pFTS1SOVUxdWFxVmZQWGNxNnB3YkpCMG84aEl4S2JfMVBocWdsQWNMYzBjYjhKbnEyekM5SXRxQ1YyOG4xRjdUTDVZc3U2UHBhOVphOEJKTWpubG1wU2c5MzBUallXVWV1QmpNU2Zjaw?oc=5"
-    },
-    {
-      "headline": "Is Southwest Airlines (LUV) The Best Airline Stock in Billionaire Paul Singer’s Portfolio? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzhZZlRiWjZEWXNqckZEeF90b3ZnRWpORkdNSEZLb1llMEtxclZHeEpMbkJUUHFBUlo5MjhkYXBWMmo3WXJuV2l2LUVKdUZtdVBsekt4UzNTYWFZQTNuSktfc2RGUklFWXItemNGNDNfQ0pmRFN1ZmxTNzVOY2syeHhwTWNUVTZmX0VwaTJ2ZjFBRmpKM2hmanJCdjZXeVhHX3c?oc=5"
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMjdiZXZmaEV5MDlUUVJmc1lZQXotUV9EZmZ4ZFdyUDdmRFFhdGxINXZrcS1vVTBGMi1WS0JReWl0NUc3TlJuM3pjSFlROFdIMFZuelNLalppa1Ewb1k2ZUhiNzBLWk5zWlF2MG13QW1nMFVZQVpWZWpJb1VOSVJ3WldPcEZGTTZVNnZDXy1ua0xUdDJ5Rzh0SFJXOUxMSXE3aVQzVXNGbnhpcV8wYlFCRmlKUzJVZkNLcDJPQm1waUVxRUxhMzlsS1dlRVZ6aXpOQ2JudjJB0gHbAUFVX3lxTFA3NlpRRWsteHNJWVk2N0RMM012S1QtSmJ4SDBYTEg2N2VfQ29RaldFWVNtbWl3bDE3RVA3R0FoR1N6LVpoMzZ4Y2tsSE9DMl9MdXRVeGxnOVB2aDJqTDFZU2V4SzBaYk1oN0hpV1VRd3BwT3Jvc25rdEJJVW9ZM0ttWktBVnRWTV9EcS1tRUNUMHZOOWhGblQzRTJxS1g3YkE5WGdURnB2QnpNSDRIcE42OXd1cUo4QTJtazQzV0RROUhjc3BWQUhGbmFNeDVYM1Vnd2l4NnBITUlZcw?oc=5"
     }
   ],
   "insight": "Tracking Southwest Airlines (LUV)."

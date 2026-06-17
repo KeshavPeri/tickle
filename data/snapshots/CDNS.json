@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:39.244Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:40.603Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    354.54998779296875,
-    352.8399963378906,
     347.239990234375,
     345.989990234375,
     338.1199951171875,
@@ -24,11 +22,11 @@
     390.8999938964844,
     385.1300048828125,
     383.739990234375,
-    384.9599914550781
+    384.9599914550781,
+    394.5,
+    387.8500061035156
   ],
   "6m": [
-    336.1099853515625,
-    337.29998779296875,
     337.5299987792969,
     337.2900085449219,
     335.07000732421875,
@@ -158,10 +156,11 @@
     390.8999938964844,
     385.1300048828125,
     383.739990234375,
-    384.9599914550781
+    384.9599914550781,
+    394.5,
+    387.8500061035156
   ],
   "1y": [
-    300.80999755859375,
     299,
     296.8399963378906,
     295.3999938964844,
@@ -410,29 +409,31 @@
     390.8999938964844,
     385.1300048828125,
     383.739990234375,
-    384.9599914550781
+    384.9599914550781,
+    394.5,
+    387.8500061035156
   ],
-  "lastClose": 384.9599914550781,
-  "oneYearReturn": 27.97446713189547,
+  "lastClose": 387.8500061035156,
+  "oneYearReturn": 29.715721104854726,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Cadence Design Systems (CDNS) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
+      "headline": "Cadence Design Systems Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOXpGYU1OVlNOSjNwNllucW0wclNZR0h1MW1KLUhSa0Q3NlRNSS1oZk81ZEtqLWdJQ2xHbkV0c1E3TkFIM0N2YjNIbkxCeHdGV3MzbmpyRzlXbjNKb3VNU1hRcXU0cXBlNjVJblZRd2NPTzA0ZXBPd0dNaE0yT2VLNXV4SlhVbzBPbnV3QXhxbC1vYjd4eGpDTFdDYXZxN1ZCdjRXRmttb1Q1RDcwcTcxUHN2Yk9Oc0xXb0dyTmdMT3RzQWxNaHdXOW5kVmxzZG0zRlNQa1hDYXlYNXc?oc=5"
+    },
+    {
+      "headline": "Why Wall Street Loves Cadence Design Systems Stock Here - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTVxWU95UWJHUW1xVFBCQ3lZcEdIT0ZMWnNsRDIxbm1HeHZMeWtick8wS1YtRVNOY1lUZ2VfejZtTVVrdmZ5cW5nLXFPV2tPR1dlVWhBenBHUm5SYjB1TUZJWWdyTElFU2VFeGhQX01mR1VJcU1KYnY1czRuUnJUQUtmVnB4X1JSWWw1X3AwQkZ0dVVXVTI2SGliaFp6bGs?oc=5"
+      "when": "2026-06-14",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFB4cXVmTThBa3owdXJSRmFEV0ZaYWs2V0hkQlFRcEVuOTI0YWg2dlE0LUJXWERHODZjU2kyY044a2JKWlRpYXRGOWk4VjhkU3BnUjRXWnV2NjluSWhfZDZ4NURiNW00UW1BdlhuSURYYUYxSlYyQ0QwNklKM3UyaFpJdFdCcTFMaVlsQ2FITFQ5elZQVE1vbGd3?oc=5"
     },
     {
       "headline": "Cadence Design Systems (NASDAQ:CDNS): A Strong Growth Stock with a Solid Technical Setup - ChartMill",
       "source": "ChartMill",
       "when": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaEhIbnlmZlZGMzEyVkstaWQ3RzlqLXZLaE5zTkdTdUg3YW44NGpVdDNSakZkc1Z6bW5xdUdsb0Y4ZkJwdUNKZ0Noa1VZTWE1RkNzeUFXU2ZYTzFBdEJ5dUxfR2xNa3VwY0pGTVpyVElzS3lkZ2lOamk5Vm5tb1E5ZWg3dkI0V0dGVVZCdDJ5d1BVYmNEaE8tUjFNeHVMdHJvaE9xbkhmN2JYTVJzN1R6b0xLS3J4SjkzSmNPSE9fRDBwbHdnekoxN1V2VTlxTWVFLUE?oc=5"
-    },
-    {
-      "headline": "Why Wall Street Loves Cadence Design Systems Stock Here - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-06-14",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT3Ayc2hNOHYxSFJOdnZnUkNqVUx4UGpudWhzTHRFSEhKYTZacTRoaFVsZjRBeG84RnNSOVdSNVZ0ME00ak9udXZ3a0lxanExYVozZE1sNGNpOUVfQUI1Y3RGV0t0czZOU2xwU3BvQ3pNSndPdnVRWlhCajNYajJiZFBuYm9RRjJ6QzNHeDZzMjc2YThFWVREb0hpRUdpSjky?oc=5"
     }
   ],
   "insight": "Tracking Cadence Design Systems (CDNS)."

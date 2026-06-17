@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:00.620Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:59.382Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    304.8500061035156,
-    301.3500061035156,
     305.1199951171875,
     306,
     310.54998779296875,
@@ -24,11 +22,11 @@
     363.17999267578125,
     364.4599914550781,
     368.69000244140625,
-    379.2200012207031
+    379.2200012207031,
+    380.260009765625,
+    369.489990234375
   ],
   "6m": [
-    256.9200134277344,
-    253.02000427246094,
     257.8500061035156,
     256.3900146484375,
     250.38999938964844,
@@ -158,10 +156,11 @@
     363.17999267578125,
     364.4599914550781,
     368.69000244140625,
-    379.2200012207031
+    379.2200012207031,
+    380.260009765625,
+    369.489990234375
   ],
   "1y": [
-    235.38999938964844,
     241.4499969482422,
     243.39999389648438,
     239.6199951171875,
@@ -410,18 +409,14 @@
     363.17999267578125,
     364.4599914550781,
     368.69000244140625,
-    379.2200012207031
+    379.2200012207031,
+    380.260009765625,
+    369.489990234375
   ],
-  "lastClose": 379.2200012207031,
-  "oneYearReturn": 61.10285152470236,
+  "lastClose": 369.489990234375,
+  "oneYearReturn": 53.029610645876204,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Humana Stock Surges 19%, With A 9-Day Winning Spree - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRjgwcUtQZm42TjBZTG12Y2lQYkt0VjM2M09oYzcwYTJGQXVUOXlVWktaMENGYXlWVElTWU5tMnUxS3ZnbmlwVXBXZHNac09TcU1uMlVKOVJHeGx2MWV5cFpER3Y2OXU5Q19lVi1FVk5CZVBfU2k2LWk4cVRjZERCMnBRTnZxUzlkZkhoVUVrdUE4d2dCZDN6Qk1vd1ZtS2VvbUFzR01mdHFxN3NuLUFUMEV5bUlpVVcwX2c?oc=5"
-    },
     {
       "headline": "Jim Cramer on Humana: “This Is a Textbook Safety Stock” - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN0tpQTZ1Q29QRFVmcXgyekxyUGlGeDN0LTVBb08xSnZFbnVLNVFfc2h3Qk9yTmp1cUZES1NIWV9yOW56NXU0TExUZjNFamdTVGlHdG5UVXlLQUNBb29adUhPU2J1NWJmMi1SYXZMZl9KdTJrNmFnVjFLdHVpdFZSSGFrMnB2WkhpdHVBTEpMaHo3UVdGOS1DR3ZibG5iZlE?oc=5"
     },
     {
-      "headline": "Cantor Fitzgerald reiterates Humana stock rating on Illinois Medicaid win - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlJEWWhZdXlQQlB1cXByWl9qeTFPZmZQTWhKU0Z2bGdlZGtMVVY4N2hEU0NFRW5RZzI5bmUzZlJzMG5TU3RvUDRiRlc2cU4zVVh5TGx4emRId29pcl9ENjNWM1dyMmVPMGNPY2h4dTRDMFlycklzRnY2STJuX0JMemRUUV9IU1dkbXQwaTJkS2dUVnNPdFRVTlQxbjVzRlBjZGZsZGF1djFXem5LQ1ZWRXZGMXdPQjhYckZNRkdSRmFCYzZTcWNwSUFSQmRqZw?oc=5"
+      "headline": "Humana (HUM) Stock Could Be 78.6% Overvalued After Its Recent Rally - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRzltb1JtMFFuR3prVTI3eXFhVklNWnJ1MllNczhLZkt4bk1uTzFha2lMQUVKRlBOY0IzVGJGdFlvaGh0STFpbkEwQjFhakVlbGxLemJfV25CWjA4dWRlMXFEa1hMNnh6SkhEN1BHTDFzMHNIYVpTNmFPUXJtaXNwRVFDaDFZYkd5dWtaNENaY3ZGQXZOUHdPSzczUEVSZ3JrOURtZ0k1Z3MxWGJDdVFvYjJWd1ZCeUlvLXNLRS0xZTkzd9IBxwFBVV95cUxQbmJRUGdWZlROT2ktWGR1Tll2TlVsR0o1dnZVRktuTG9kT2pHdVpTT2RXUUtBZW1URGlSay1HLW1KTVNONjRDLWtJQ2dORmNBdmRvSWtGTjJ1dkRrckx1a0E5VERVbndnMGl2VWdoUmVGVXNWS2JSR2pDV1ExWmFEenlrUC1xa2NyVXNqc1pWODdDSGRMaF9tVjBuS3doVG5VWXhoVGg3Wl9DLUlkcklIWkQ1R0hTYnJiVmwyMjhNbHBiVVdkRF9z?oc=5"
+    },
+    {
+      "headline": "Humana Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdk5UZVJnaEU3eFZfazhDMEhvQkdYSWprQkIxYTdkc284OUdOOEx5c01EeHNOX2dFVFZfOTZzZDZQeWFVcFlXNFVPejBOOW9Cb2hvVURmM3VkMHNFQmszVGJkY3B6eEFlSkl1SnhPbmN4dk5scDZ6N1pyWkJIbTdRS19NTktzU2c1R0huVkh2MElJUmRLb3pGUS1wUzY3VHZOQm1CV001YV9FRG0ya1BFQjhZZmlWU1c4MnBaOTVIUjB6cTJsUXFuVEFhUTNWZHFJWmY1aWQ4S2tGQ0JwUkE?oc=5"
     }
   ],
   "insight": "Tracking Humana (HUM)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:13.409Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:11.137Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    209.86000061035156,
-    213.4499969482422,
     212.83999633789062,
     213.72000122070312,
     213.27000427246094,
@@ -24,11 +22,11 @@
     232.17999267578125,
     232.63999938964844,
     233.94000244140625,
-    237.66000366210938
+    237.66000366210938,
+    230.55999755859375,
+    234.69000244140625
   ],
   "6m": [
-    198,
-    198.27000427246094,
     197.86000061035156,
     197.64999389648438,
     202.14999389648438,
@@ -158,10 +156,11 @@
     232.17999267578125,
     232.63999938964844,
     233.94000244140625,
-    237.66000366210938
+    237.66000366210938,
+    230.55999755859375,
+    234.69000244140625
   ],
   "1y": [
-    175.13999938964844,
     173.1999969482422,
     175.27000427246094,
     177.38999938964844,
@@ -410,10 +409,12 @@
     232.17999267578125,
     232.63999938964844,
     233.94000244140625,
-    237.66000366210938
+    237.66000366210938,
+    230.55999755859375,
+    234.69000244140625
   ],
-  "lastClose": 237.66000366210938,
-  "oneYearReturn": 35.69715912432289,
+  "lastClose": 234.69000244140625,
+  "oneYearReturn": 35.50231326594035,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVjZKT2ZNTmxHa1ZGX09MeTZSTXdVLWF0T1ktQTFUQmpuQm10T0JRaE9lNmE5ZzNXZVVmX0NYSndEWlQzWnpsYmNCa0puUDcweHFWTWY1Z1J4bU9ZS2dxY3RDTFQ5NGdsRHhvOV9zcG8zUkd3NHpNN21raXdqNHIwWWYzOG9sSGw5M3AyU0h2Zl9iUmRRVmlFQkc3ME1YUQ?oc=5"
     },
     {
-      "headline": "PNC Financial Services Group Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "headline": "PNC Financial Services Group Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd24yS3VHNTg4NTkzNFRielBscEJWY3lmU19qNWg0S1lqc2lSTGV3Z0VBUG9sd25BMVh0b3dfaG5sQmo3Rm1uazM1MEJPZnpaQXluNTVjOVQxU215cHA4czlZSUpfMEUzU3pQbm5qWVhiLVpXdWJjV3J1YVNBUWdoSUF2T1phd1Zocjg5V0lvSTBna3d2VXJNUkVVaXk1TThBUWF1eno5dGE4RFVULWRTbEFGcDNiYjVIbXA1YV9XVjZiVC1WWDhCUlZVaF91c3dpaTVGaS1YS3NoS3puSERuZkRUUk0yUmh0bWZ0Vy0wS1Bzek1JU09EcnZn?oc=5"
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOX2liOE50di1tOHB6aVRMLThoX1hMemd0SVpfVk1raEtwZ01IVl8weHZ3OXFfOHhWZEhlVFlaRWVobm1ZUGo3c25rcmdhU2M3azg0b0J0T0M1U3ZpRDdJa19leklDOXdacXJaREFmX3ZnQ0JzN3MtSEpRLWxNcV9oUGx2SXFsNGR1cF81NEpqMGRjZ2l6Vnpub1dtZ2JRX2RvQ0JrakxHa2RVS0ZhQjE4Nnk2eHNVSl9lQW45TXZZeUFfSUdTWHpOVFVSR1V2ZVdXU3ViS2dJZHJoSi1xQWpyQ2FsdWVLWlY2OVQtc3lDMDF3VDBxUXBaVGhQTmJRdkRDU3llS1JmTXkzOFVUbHZ0Y0tOekNOUQ?oc=5"
     },
     {
-      "headline": "A Look At PNC Financial Services Group’s (PNC) Valuation After Earnings Beat And Favorable Court Ruling - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNjA5emxxVlNpNk1zSzFMci1iY2MxYS1GMnlBYnFiMEtObmc5WUk5UFB0S0h0a2tfZTVJbUNvTFdRcWdqOEdzYU5GcC1hNEV2Zkd3SEcwMGZ5bG4wUU5VUmt4eTRSNldZMGdtXzBCU2VVNUhtZVY3UnNPbnZSeGx6VHJPejk4OGNVODdLU2dPVUZNSnVsLVppSE1nOEVFNURrMnMtSUtqcHJ6RF9QUFFTTTdQVm1mM2RWTk1vYU13X1Vvc0JFYUlPUEtiX2I0Z1hXUks4SkFmUdIB3AFBVV95cUxQV0VxV2JyeUFoYV9JeklEZkN0Z1VNVElfZ2UxLTdzblZzTnQwcENlb0thMVBpYzlidURwRkIySjZHcTA3VDBBc1N5VWdZV2xVcG52QU9oSjZIZmhmWHpXMTgwX2FzbjJSRFY4eFl1dUQ4c2c3VnR5TTluamVrQ1Y4VUZMT2JDbWJwQmJnSHhBTUQ1aWpTakxvS3BtUWRycnl3djRxYmM5aFU5S3puTk53RThNdHZ2NmhGc21FemVrSkZHaV9PZnBMMmxUVjYxbkU5bmE1WE1lcWcyRjhx?oc=5"
+      "headline": "PNC (NYSE: PNC) EVP Duane sells 1,500 common shares in market - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVR0dnlzZEE3RFY4YlUyX0NybHQ2S0xUQWNVRll1MXlpMlBFY0Z4SncyalA1WTVJanRTekNqMlpBdDk0d1RRUDVCS1VzME9ScmVOQW5DWEZNZWtRdm5Zb3NqUUNCZXZna2VwSXlOM2QybGVwLTYtRk5wWFhEdGVSQzk0Nk5Hc2p5Y3l2S0hMNUxTZ0FTMzFNUkh6dXJaV2tFc1plOG9iSG1XSkctUUo5UkNGbFljN09hQjFKS2ZlT0hPNjA?oc=5"
     }
   ],
   "insight": "Tracking PNC Financial Services (PNC)."

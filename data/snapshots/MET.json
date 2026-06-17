@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:07.738Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:05.924Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    78.08000183105469,
-    79.18000030517578,
     79.77999877929688,
     81.41000366210938,
     81.06999969482422,
@@ -24,11 +22,11 @@
     85.56999969482422,
     86.12999725341797,
     87.58000183105469,
-    88.83999633789062
+    88.83999633789062,
+    87.66000366210938,
+    87.4000015258789
   ],
   "6m": [
-    77.51000213623047,
-    78.02999877929688,
     78.66000366210938,
     78.08000183105469,
     77.81999969482422,
@@ -158,10 +156,11 @@
     85.56999969482422,
     86.12999725341797,
     87.58000183105469,
-    88.83999633789062
+    88.83999633789062,
+    87.66000366210938,
+    87.4000015258789
   ],
   "1y": [
-    78.4000015258789,
     77.8499984741211,
     78.55000305175781,
     79.20999908447266,
@@ -410,12 +409,20 @@
     85.56999969482422,
     86.12999725341797,
     87.58000183105469,
-    88.83999633789062
+    88.83999633789062,
+    87.66000366210938,
+    87.4000015258789
   ],
-  "lastClose": 88.83999633789062,
-  "oneYearReturn": 13.316319654108172,
+  "lastClose": 87.4000015258789,
+  "oneYearReturn": 12.26718463576133,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "MetLife (MET) Stock Could Be 47% Below Fair Value After New Settlement Product - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2F4MlJiSmV6QjlLZURJNUE0V2JvNzdYcmo0V01RajVMRG5RaEtpU0xYbV94WFAtVGtZYVBCcHM5U3JTeVpBQnQ0QXVrWUR0T0VVQVdxRFB4U1hFRy1jVnBhZmo2Qjd5NmN4MFFWdWxER0k4WDJqYk4tdllEWGMxQnkwUjZ5Y0hNRHl4dnZmUndPOS1BekFMWGRqTGYzSkZlNUV5ZldYeFkxU1Y4ek0zenhhVFFURDM5OVZ5akpNcmY2UdIBxwFBVV95cUxNM2dYQ0p1Zzl3UGZFRU80MXVXTkNYOHNmYzRVWDdoM2NSUDh6cF9Vbzc2cmJSRkhJLVVpZ1JRZDlWMlFLRWc3cFpSWnBXUGFvRTV5MFJmV2xwWFhHaXJvUVk2ejdUVzdBd3FvZW5HNFhCOERTSjNNZ1dybGtyTHp6WGRUX2Z6M2pmUEplOE5Tb0lvOUIxUGF3dTdsNWdCeEVueWtPbWtwWi1QMm93d0ZfSlpUSjNEZlNqTEtKODhVZFRDY3lOR3JB?oc=5"
+    },
     {
       "headline": "MetLife (MET) Stock And The Valuation Puzzle After Strong Multi‑Year Gains - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -426,13 +433,7 @@
       "headline": "MetLife Inc. stock outperforms competitors despite losses on the day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeEpiS3loZkxyREVoZEUyejZMVzRRbGhHdm1oTmh0b0Y0VEthUDJWaFV1bVNPcEpjVnFfYUdGSkFRbEFxYy1BVDVrTTBwTzY2MG9Obng0c1BZMGltSlpYQWZzY0RTVFRGRWFZZzhVd3hrRkRCQlVOUnNmTWtfZnBVZzlPSFpXV1NvWW9sc1dRb3lnWEZEZUdwVmowSVFpTXdlY0FzZXFTRDBIRU1RTmxPU0M2cFZ5eTFDUmdIenhJVVdWYmNJaV9RQXpUZ2ROR2x6cEFoa0N3a2xLb0lyOWc?oc=5"
-    },
-    {
-      "headline": "Uber tells World Cup fans to skip ride shares, take NJ Transit - NJ.com",
-      "source": "NJ.com",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUFSS1haNVFWZU1ZSXB0OEc0bDFWMlA3V0xyQkcyd0p0bzFuVk9ZZkJUTXpyTU5tRTdJVUYtZFJ1aVZ1OTVvLThnVWVrc3I5elZEbE9IT2Y1WThwZzNhb1VhRlF2MmRHZ2gyRXg2b1NFQU5hYWpQWTdMSWtzSkVoRWFsYkl5V0lpUlF5bEpoSnY0ZWVHb1Z6Wlc2NFpYY0XSAbMBQVVfeXFMTTlnTnB2d2pjWmZFN2pFNXB3ckd3UXFyaDFRWTJiN092ZFE5eG9GZUFlZklnbzd1XzVZVFVCY19fZE1HY2xDZzc0YW1tMGNvSUNZZW14MHJuWEkwUm9yNzd2czJ3UG9BYVNRcG1LM3VLdFJnVXRldFhid1VMSzhxSThZOTZJSXQ4cE1SeUlyZzJzUzl1NFF5N2NWeVVLb1MzQlNNTHUtbDE5dnIxZ0o0anplOW8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMXpjVXhUZlZkbFRHUDczUkZvZ2N2VlpXX0VmQWE3a1dyaU44RXBSZHpWYmh2OWt2V3JZVjFhOVJwZHYxLW9CMVZ5NldSNW9jRlFaNnVWV2lOcjFuUElqbDFXS3VBX2VFX2VNbzhXSjl4bG5lTTVQNlU3aUVSQWlNUk1zbWNNX0x0RVZoSEFKcXB4VXBtNFhRVnYwTE9NLWNlZnBLZjFjeExUWGtGaG9LelFwV2ctOHlvdkYtVGZlTE5rLVBpalE?oc=5"
     }
   ],
   "insight": "Tracking MetLife (MET)."

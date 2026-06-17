@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:04.207Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:02.468Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    20.75,
-    21.079999923706055,
     21.040000915527344,
     21.06999969482422,
     20.920000076293945,
@@ -24,11 +22,11 @@
     22.100000381469727,
     21.979999542236328,
     22.329999923706055,
-    22.700000762939453
+    22.700000762939453,
+    22.420000076293945,
+    22.75
   ],
   "6m": [
-    18.75,
-    19.110000610351562,
     19.260000228881836,
     19.389999389648438,
     19.979999542236328,
@@ -158,10 +156,11 @@
     22.100000381469727,
     21.979999542236328,
     22.329999923706055,
-    22.700000762939453
+    22.700000762939453,
+    22.420000076293945,
+    22.75
   ],
   "1y": [
-    15.930000305175781,
     15.729999542236328,
     16.010000228881836,
     16.15999984741211,
@@ -410,29 +409,31 @@
     22.100000381469727,
     21.979999542236328,
     22.329999923706055,
-    22.700000762939453
+    22.700000762939453,
+    22.420000076293945,
+    22.75
   ],
-  "lastClose": 22.700000762939453,
-  "oneYearReturn": 42.49843269346358,
+  "lastClose": 22.75,
+  "oneYearReturn": 44.62810338242159,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Bank of Nova Scotia (KEY) transfers 277,182 KeyCorp shares back to issuer - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjR6NEZoVVZIalo2UmctelJGdjljZWhvV3FPUHlKSk80NldJYk1vN3RQVTNyOExnbmRxbU1aYWFDWERyWnVTVG55eWw0OTVCeFJsWFRqS29xV0Q3ZzN1ZDd1bGFsaFhXZVplX1RnZW1wcmVNaC01WFZ3aFk4Qmo2S3ZlWXA4WDVGUElONHhBVzJrbUk4ejdqZEFsYmNtNjdNcEFNM3BLaw?oc=5"
+    },
+    {
+      "headline": "KeyCorp stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaFlhczFFb25DWC1oRzZfOUtvVU9ZeTVpNXdPdE8tbjBuS2xDM2oxYmE1ZjhybzJtRUh0a1Y2MjMyMXcwMzhCbFNtSXFhR3M3Z1ZfNWZBam45bVAzMGpraDlENHUzd2tOTmpIS3FMcFEzaHBCeUh0NGlHSklaUndEVHRYYU1HTHVfSFViNEh1VmRpR0NWNEE5OHFEWXZYb3dqeXdBUFZ3bUI3MVlnLXd1X2NQZzZFOS15cDRlUFRvUmZRTWJNVF8wQUN4d1A3TE1DNnFSSUJxLVo?oc=5"
+    },
     {
       "headline": "Regional Banks Stocks Q1 In Review: KeyCorp (NYSE:KEY) Vs Peers - StockStory",
       "source": "StockStory",
       "when": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWDNOZVprRHozSEt6aXJBcHYtOGNuODhtZzdvTndGdW1kYlcyX2M2R1pTZ1c2VjQ3bTdETzBUdE44emc5UmNud0s3M1FManItendYdFlubUxJazUtUE5ZckVsbGZRWjdNTzhqNjg0NlZKbzg1X2VNZmZObXIxdEhOazNfbmtwY3dBdzdtc3lsTk41eHVjSkNYV1o2RFpVUE13a2k0c2dsVGljOGpHcy1TeE5kQ0ttdw?oc=5"
-    },
-    {
-      "headline": "KeyCorp stock rises Thursday, still underperforms market - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSEU4dkFYYnR6SENVdlRqbFpnNklLbGRXODBEbUdGSVEzX3F1eDBRUmVJWmhEcnpMd21tanZTWFlSZ1NqVTV4RUc5Qng2NWNvN0NualBrelE4bzhUQ21GcG9DSTU4M0VqWGRWYzZaSTNlRHF6dDVzb2RuZjB6ZXVqUmczYmNhMS14Q1ZpNVdINTRTQ1Q5Y1Zna2ZJRlozUnptTWZoRl8tNnlGcnRLaENidlB0MW0yWVh2NzZITjIzdTVHSjVaa2ZGeWdpQ3Nidw?oc=5"
-    },
-    {
-      "headline": "KeyCorp Analyst Recommendations & Stock Picks - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbmJ0bVpmWXZGeW1leDVPMWg1Y2NOZ3NIbDZldzlIaWl3M0xKbldydFh0R2Q5Nm91SkJMRlhSNUUwbjRMdUphQ3dXS2M1V0d2d3RIZVFTclVsN2tCSFFtSFRXMkVPRXN6UTZua0Z4VUhDenNFSV9KeHN6ZGhmNFJvMQ?oc=5"
     }
   ],
   "insight": "Tracking KeyCorp (KEY)."

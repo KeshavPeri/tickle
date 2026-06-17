@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:40.990Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:42.217Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    297.1300048828125,
-    297.70001220703125,
     298.8599853515625,
     305.1199951171875,
     302.3699951171875,
@@ -24,11 +22,11 @@
     255.94000244140625,
     263.79998779296875,
     262.17999267578125,
-    269.5299987792969
+    269.5299987792969,
+    266.0799865722656,
+    261.6000061035156
   ],
   "6m": [
-    274.3399963378906,
-    273.19000244140625,
     270.8699951171875,
     270.4200134277344,
     270.1199951171875,
@@ -158,10 +156,11 @@
     255.94000244140625,
     263.79998779296875,
     262.17999267578125,
-    269.5299987792969
+    269.5299987792969,
+    266.0799865722656,
+    261.6000061035156
   ],
   "1y": [
-    267.510009765625,
     269.70001220703125,
     272.1000061035156,
     273.989990234375,
@@ -410,29 +409,31 @@
     255.94000244140625,
     263.79998779296875,
     262.17999267578125,
-    269.5299987792969
+    269.5299987792969,
+    266.0799865722656,
+    261.6000061035156
   ],
-  "lastClose": 269.5299987792969,
-  "oneYearReturn": 0.7551078239807396,
+  "lastClose": 261.6000061035156,
+  "oneYearReturn": -3.0033391682970243,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Piper Sandler reiterates CME Group stock rating on perp concerns By Investing.com - Investing.com Nigeria",
-      "source": "Investing.com Nigeria",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVm1tTEZGWFVoYXNRVG9zR2ZBUUtpR0xSYk9UeEk2dElKd3NSRmdYNmYzV2trRVJWb0pkMWlobFRlSU02Ql9OSFVHVEozbFktOGpJaWR6V2RkVlRhMGc4dUxVTjlhSlhZclpyYzV4aFdqSkh1VUVKV1ZkM3gyMGd1cVgzbGVoR25WaUFrZzEzbEUyMlRrLUJpNVFkR0xMZy1iNEVQcm1WWmpqSS0yR2VCZHhiVjFNdHlKMC1wTHdHRWJvMXM?oc=5"
-    },
-    {
-      "headline": "Chicago SRW Wheat - CME Group",
+      "headline": "Why U.S. Equity Benchmarks are Moving Together and Drifting Apart - CME Group",
       "source": "CME Group",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RV2pNcElyMDA2cWoteUpYX2ZsQko4N1R0TTljZmJGbV9YVnZXdW1TYlNZR3NBOUM2SmdSOXVsREJ3UXRDUHY1TzhQLWlySy1jSUZ0LWpCLTFMSUZFR0wyRjFTcXhQWUpa?oc=5"
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOTzNOXzZqU0ltTUJ5UThRc2pYOW5EemNVaE9vX0tpTUtpS3BIZ19yUjQ1cW1wd1djcFlwbWJXZ2R4dXVSMVJXZUFsb2t2U19kdkhPTUtrRjlPVkxIQzlIZmJpVTFaLWlaNHBQS2Qtd2dpMm9nNkRSeWRvVGF5Q2E3elV1OHhjWk9FOWZTMGhuUFEtOUg2dm5fUklEN012TklvdzlWT1h0aTBELWRNN2xISFFOdmtsTi1YVVBUR1E1cVBmZmlsU19WT0tZbExPcDJfUjNrM1diWFhzd0VuUFhIM200ZXZCYllmS3VUR1ljNko2MnQwSGxnN0lySTRORTE2N3VXNExLMnRfTFFLUEFQTmFoM3p5TmZM?oc=5"
     },
     {
-      "headline": "CME Group (CME) Stock After Recent Pullback Is The Current Price Still Reasonable - simplywall.st",
+      "headline": "CME Group Inc. Cl A stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZlJFSmZNQlJENllleFpqd00xWG5GbDJOTHJjOGNTazY3T042dnpjakVZdmpUVkFSMjBubkpITUFFd1hGNlZzYWpibExKTFdwQXRtX1d1Snc3dXQtdjRRMFNHWTQwWTdKUGhqeHpranFPOGdhaHFxWDRNZEFiQ1d1M3h3c3lEVEZ3M016NURxaTZYWFAxa0ZBV3dnOUpYbWNOY193aEhoN0s3WC1CSEJDSjhZanh6aUE1dmlzb1hFaVR4dGJ4TFJPNUpiTFlQQm55SHEzY0d2emt4dk1DanBuMjM3akpCemFP?oc=5"
+    },
+    {
+      "headline": "Will 24/7 Micro WTI and Gold Futures Expansion Change CME Group's (CME) Investment Narrative - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPT004ek9RMzhCUVBlTk91QUpYY2hVc1RPOHZOVk9rbjFWM3JTeXpFS3BkS3kyTjBuNWtRV1lUREp6cmJ3NjRsNHAzb0Rud3ZSb1lKSHFVZVd0MXR4T0N3TTlVaHp0MThfV0dHUmlCZjh2OVBxLXZvcjc0WkJQbUczVDl3NjUtOEI1cEY3ak82M2ZkSkR2WGRWTzJYNWZCbUllWHRFd2c0aFFqMWZteUhUM2xYM1R6SHl6WFdrdFNlQTdXY2NoNktaeWczMlc1cng0RFZ6VExISWvSAd4BQVVfeXFMT0tIX3JkNk1DSHdRNTZqQTBTajQxWGExbTZ4djVJeHNDZWpfZ04zMTNSb3pOcGozMnMxQmpJdXl3MUkzWGQtNEx3WUNOTmJRd1h1MG9VaEg5b0RmcWlTM2liWWdvbWxrM1BMcUJOYXpic3Z5LUJ0X0pLQlVjTTJ3Y2ZiYzY2bkNnWDNibzNrY3Buc0xGaTlvSEdxUzg2c2V3d2xFcS1NVTM5VXR6dF9vWmhRR0JTdldKMC1zUm1rTE5CTnVvcXJsUE5na09uM192TDAyaVZtMURRY0t3RnJ3?oc=5"
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeDctcHRfVFRzd2p2WVV4eWE0RWZiRE9ncWJHdVE2c0FpS1B1WnhfTGljMXhDb29fYUdHcTdGTVF4ODVEeFZaVEhPeFliTDhsUUJTRWQ1Z0VUSlB1a2NEUW5WeEdYcHdtcWhCRXFBU0FFY2dMVEtwRTRYaEQxbVlhT09teUc1YnRkYmZ5ME9aTGJQTnlYRG14TEVaSlcydDlwWHFkWmZ0QzUtbjFLVWdxRzZHeTl5Z2pnRTEtYzVkdzhBYmxqeENjUllocnhHQndVNUlLYy1NY0Q4R3pFcmfSAd4BQVVfeXFMTXg3LXB0X1RUc3dqdllVeHlhNEVmYkRPZ3FiR3VRNnNBaUtQdVp4X0xpYzF4Q29vX2FHR3E3Rk1ReDg1RHhWWlRIT3hZYkw4bFFCU0VkNWdFVEpQdWtjRFFuVnhHWHB3bXFoQkVxQVNBRWNnTFRLcEU0WGhEMW1ZYU9PbXlHNWJ0ZGJmeTBPWkxiUE55WERteExFWkpXMnQ5cFhxZFpmdEM1LW4xS1VncUc2R3k5eWdqZ0UxLWM1ZHc4QWJsanhDY1JZaHJ4R0J3VTVJS2MtTWNEOEd6RXJn?oc=5"
     }
   ],
   "insight": "Tracking CME Group (CME)."

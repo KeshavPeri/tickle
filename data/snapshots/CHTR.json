@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:40.226Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:41.624Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    143.05999755859375,
-    148,
     140.3300018310547,
     141.2100067138672,
     142.5,
@@ -24,11 +22,11 @@
     135.3699951171875,
     137.7899932861328,
     139.13999938964844,
-    145.82000732421875
+    145.82000732421875,
+    143.7100067138672,
+    141.77999877929688
   ],
   "6m": [
-    199.9600067138672,
-    199.97999572753906,
     205.10000610351562,
     204.64999389648438,
     205.1300048828125,
@@ -158,10 +156,11 @@
     135.3699951171875,
     137.7899932861328,
     139.13999938964844,
-    145.82000732421875
+    145.82000732421875,
+    143.7100067138672,
+    141.77999877929688
   ],
   "1y": [
-    375.2300109863281,
     373.6199951171875,
     377.42999267578125,
     386.3699951171875,
@@ -410,29 +409,31 @@
     135.3699951171875,
     137.7899932861328,
     139.13999938964844,
-    145.82000732421875
+    145.82000732421875,
+    143.7100067138672,
+    141.77999877929688
   ],
-  "lastClose": 145.82000732421875,
-  "oneYearReturn": -61.13850090484051,
+  "lastClose": 141.77999877929688,
+  "oneYearReturn": -62.05235248856877,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Charter Communications Inc. Cl A stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOC1nVERWemUtTVUyaEkyalRUY3hVczloUVlWWE5McFpKX1poOTFDRFBZZmN5Qlk2MkhrRnBGY0R0S0NRREo4eXVsME9tVmtUTTd0SFlKR3o2N2w0X2VLMFUtb1gxbTJMUlRLRGRrUzRNajBVSFVMQ1BRNWhReTl4cldtQ1UzMlVLc2Z6elZIZFdROC1YOW1KRUpYS0d2ZGx0UUJFYjdMdXM1X01nbEVjQ1lUblBhLV94Wm1BZWxnU2FrT2k2MGN2LUVQckZKeWdvcEU3ak1Tc1NFb0h0RWRGVGoxMXFtbnZCVEtJUHVPNTVvcGVRTkVpcw?oc=5"
+    },
+    {
+      "headline": "Charter Communications (CHTR) Valuation Check After A Steep One Year Share Price Decline - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3RSV09IZFpCUDRxdXJLU2c5cXlGZG9ueWlzeDk5aXoyRTRybXpoT2Zhb25oU3ozQnVQV2ZKRXFqblllT3NrTGdEQlhIdW1USXNIMHkwODhOWEYteEJMMENFWnNGd2xkbGNPOVlrOG5zSk13VEN6QzhBVkhLLTBiV19pYllKVG1qTHBIS2liOUR6V29ueTBib1ZVaFlzc2ZWcmFyV1NDd1FlVjBI?oc=5"
+    },
     {
       "headline": "Charter Communications (CHTR) Stock Valuation After US$7b Fiber Expansion And Bundled Connectivity Push - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-16",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV1FTTkc0U1ppU1pNaFpTd2hUeGZ5QklxUy1pZDd5SlFhODVoQUpqTGtVc0UxT1VIYmo2X3g2QUFRdTZ5ODRLT0tiSVE5VVp5ZzJNSlQ3ZzI0VmdqUUJwOVBnMU42c3EwSFdxQjg1Y1ZpUXpJTW9aM3pnakdjRFdKQkJoN21KZndTMHR5aWVVTmxRMWwyNUNNVnppQ29kMXhERjU0MXNVUHNnNm1ETzVtN08yZk9CcGphZjVPWjlsX1J2WkFrcEg1bGxGUWtndkFRcmlZStIB2gFBVV95cUxOai12SmhZbWlYclRyemZfWnUtLU5SbnpxOUN1MENiaHN4em5LS2QzcXBVaTdSN0dQZzhHNGluOUtOclBJajd6a2NJZS1YWGhrMEYtVm44TmJrSGhIR2J0NllDemllQ3RzdUI5ZWNJWlZQeWVtVEd6amp3cWNLRmpSRmVReF9ERGJaWjZ5Y01fcGp6d3VncDhaWFA0ZlpZV1I1NmpqRVZyVmNVcm9qNVlxRDZ4M202NkhVWjFjdWR5SEZ5cXlJUjZ6WjRSRG1MazFhclFRU3d4dUNWZw?oc=5"
-    },
-    {
-      "headline": "Charter Communications Inc. Cl A stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZWhVWVFHWHJaaFNKeHZQd1JaYUk0RUd5QzkwMXZZSElUQnFwdFZzMm5IcjdsUHlTdnM1VEFYRGtHbkNxQk1PZnRwMkNMbkxJUFVrRmZsbktTcUJEYUhZRktrdFdNN3gxa1RBTjlVdG81RHpHY2ZQRzFiMi0tb21WdXFYSjBPZ0U4YmdYM2pNYTdDN0JFZkRtRmxRcGhBMklFVGc4c1VWSDhVY2JlSTBTSDZzd2laREhYNWllWXFsSnJpMVhqTTZxOHNwM1Voc3d6NG1paC1ZLWNjRWpURm5NWEh1RWZCdTJQOWdkeDFXVXYwQ0NaeGU1Wg?oc=5"
-    },
-    {
-      "headline": "Why is Bernstein Cautious While Charter Communications, Inc. (CHTR) Could 10x by 2030? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-30",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZHRZZDduRGN1YXdCUGZRUEppdEs1Tmc1bTRGMVk4a0xGNW54ZlZDc3djQjlUUFRUaUdlRGdRbXNwX25SekJtcHp4eVg4VUk2RzN4YkJHN1dvZEJOT2Q3NDdYRGJZZnBfSVhQZ1NuSVlEcTExX00zUUlEdDYzODNhWTlxSXZidGhHMFZXeVZ3dHNCZmIwQ0s3SWduaHBib0NYdncw?oc=5"
     }
   ],
   "insight": "Tracking Charter Communications (CHTR)."

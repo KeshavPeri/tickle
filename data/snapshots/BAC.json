@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:35.419Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:37.054Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    49.84000015258789,
-    49.849998474121094,
     49.77000045776367,
     50.689998626708984,
     50.70000076293945,
@@ -24,11 +22,11 @@
     54.41999816894531,
     54.540000915527344,
     55.15999984741211,
-    56.02000045776367
+    56.02000045776367,
+    55.869998931884766,
+    56.84000015258789
   ],
   "6m": [
-    54.09000015258789,
-    54.15999984741211,
     53.95000076293945,
     53.900001525878906,
     53.540000915527344,
@@ -158,10 +156,11 @@
     54.41999816894531,
     54.540000915527344,
     55.15999984741211,
-    56.02000045776367
+    56.02000045776367,
+    55.869998931884766,
+    56.84000015258789
   ],
   "1y": [
-    44.40999984741211,
     44.22999954223633,
     45.060001373291016,
     45.5,
@@ -410,29 +409,31 @@
     54.41999816894531,
     54.540000915527344,
     55.15999984741211,
-    56.02000045776367
+    56.02000045776367,
+    55.869998931884766,
+    56.84000015258789
   ],
-  "lastClose": 56.02000045776367,
-  "oneYearReturn": 26.142762103675416,
+  "lastClose": 56.84000015258789,
+  "oneYearReturn": 28.510062719557478,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Bank of America warns stock market may face a 1994-style shock - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-13",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ3NNWTVhaUtWTGtwNHFLSlo5NGF1VTFuUFNxdC1LR2lRUThYRjZsczJLalVObURGOEphUHh6NjVSMlBDRFF1cVI5Qmg3NlE1ZnZVSFRkVGxCcDJjMXlHZXpPdUthb3NyV05GbTVoak9hQTljSmE2bFhFOGFaWWRrYUx5VlJPajlMNWpjcDlOOW9ZMlo5NzNYa05GYjQ?oc=5"
+    },
+    {
+      "headline": "Bank of America Declares Preferred Stock Dividends Payable in July and August 2026 - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3pLb0xmdk1JWlczOVVmLWZLRUhzY3M2YmI1STNtQTA4T3poY1QwUDkxWE1xRDFxSmdsUWNsVjdkM2k0Q1RPVERlSG1fNmNXRm4xTUVLblZ2YVA3QV9CMUZ4Q3l1Wm5aUGhuSzdUNnoydkpKeXNaS0hpOWhJLUcyWlBybGRvcjF4X0JNUkc0ODJYVGZST0tlZ1BLY3NRb19pRlBQZEhabDVLMjBYZkpCRDBjY2sxSEJlaE5hSXBTSnBIV19Ec182VXB2NW9KNXRKYWQwTg?oc=5"
+    },
     {
       "headline": "Bank Of America (BAC) Stock Valuation Check After Strong Recent Returns - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-16",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaWRGUGNrNDRLeVZKNGVuTTJHT1htT29hM1BoNFdDM0RpbWNQay0wV05uNGhJbW9LUEZJMXowMmZ1U1ZCOTNlRktTR08xZDZncElJaFBfZGYzeWJ1NVJ5dnVkRmJGcktGNWpHRVVjalpOclUxaWxkVm5jM3hZNmdrcUNWWURwZUFRSlFCV0c4WWpZQXhSRElRVFlac0xiaGo5Y25leFNwZVota3pGb1UwSXJESDFCTDR6anNwRDQteW1tZFNRRXVv0gHMAUFVX3lxTFBCcmVHTy1JbmE4T2E3OUhBaVpEUW9ZMEFLUGE2eUdEMWtwbGxfUFpSY0FRREJTWl9NLTlUMWh4VjBtSWczUDFaVDFPRjl0QWhNeTMycm5xeGtJczg0SkluQ1ktQlVfcDdwWVJNMHUtYVdoeW14Q2lyaVZUdWZMR2c2TEhMX3htTVU4N3FhR3hWWmhNWHk5eG1la1Z3QS1QbVdFUHR2VWpaZ2N2T0NOVFhScHdGWlB0RnY1N0RFSkRaaUI5WG1kd2VPUHZpNw?oc=5"
-    },
-    {
-      "headline": "Bank Of America (BAC) Stock Valuation After Strong Q1 Results And Upgraded Markets Revenue Outlook - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0dQTHloRENNSWJ6eURBUFk0ZXYweVZ3MmlOcW11X1lEM3dJSy1wQWNvTUV3Ykt6dll4QXMxREJaTzFsWlVNSFpSSEJlX3oyb2RTSkh6T0RzcnJLLVB4TEFORFpBU0JaUHdEb2ozbVYyakJOdFRGTzY2NjFvZzFUcm5BQmhPTjJkeDd5bjE1Z2R3Sm9Uc1RwZC1mUktpUQ?oc=5"
-    },
-    {
-      "headline": "Bank of America told investors to ‘take profits.’ Then the Nasdaq fell 7% - Fortune",
-      "source": "Fortune",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nX1I0TVdLcFBkeExleVhrV2FuMjJTRlhFNVFUSVJ3QmRHWHA4aUVkcXFrSS03UkI2S25TU0xaUmcwazBzSWZtYTFTZUpVcE5LT3pNMWcyRkQ2bjFSTGFRUndPQk40bDdHOWs2Z280ZUdmVjVWZ2hwVmFnazZ6a1E?oc=5"
     }
   ],
   "insight": "Tracking Bank of America (BAC)."

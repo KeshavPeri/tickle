@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:08.766Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:06.855Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    159.13999938964844,
-    160.02000427246094,
     161.0500030517578,
     165.97999572753906,
     166.07000732421875,
@@ -24,11 +22,11 @@
     165.52000427246094,
     167.14999389648438,
     168.14999389648438,
-    168.67999267578125
+    168.67999267578125,
+    166.19000244140625,
+    166.77999877929688
   ],
   "6m": [
-    183.8699951171875,
-    183.1999969482422,
     181.82000732421875,
     181.60000610351562,
     181.25999450683594,
@@ -158,10 +156,11 @@
     165.52000427246094,
     167.14999389648438,
     168.14999389648438,
-    168.67999267578125
+    168.67999267578125,
+    166.19000244140625,
+    166.77999877929688
   ],
   "1y": [
-    216.6300048828125,
     216.02999877929688,
     214.32000732421875,
     216.2100067138672,
@@ -410,29 +409,31 @@
     165.52000427246094,
     167.14999389648438,
     168.14999389648438,
-    168.67999267578125
+    168.67999267578125,
+    166.19000244140625,
+    166.77999877929688
   ],
-  "lastClose": 168.67999267578125,
-  "oneYearReturn": -22.134520207840154,
+  "lastClose": 166.77999877929688,
+  "oneYearReturn": -22.797759699251475,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "How Is Marsh & McLennan’s Stock Performance Compared to Other Insurance Stocks? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3YtamlxUDNjX3JtY2hrNGliVjdpdl9YSjFBX3RFUkNKXzNkTTlidzRwRjdlamVrcElvWlVuSHVaaVA0M20yRVQwT3lGVmRfZEpsNk84aEZ0UExIVkRLWktpZDF1ek9VRVNZUlZaeHdCSTF3WXV3Tk9qaHA0c3VPcjBUMHpEQnpKZm9WLVljMV8zOVlYY3hnQk9qbzdmREYyUkFzRE9uMExnQQ?oc=5"
+    },
+    {
+      "headline": "Marsh & McLennan Companies (MRSH) Stock Could Be 41% Below Fair Value After New $4.25b Credit Deal - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRkRRUl9sb041a3NoRFl3blBUWE9QNjJWWnRvZ0NVRWNkcTYzSFN0Z2hmX0hhRklzeDRCNTYxY2lBcjE2eV9SMXlQZzF5Xy1VOWZWMWpSSThDaGRHb1pLNHhfTmYyZGExX3YxUHViR2pWaHJVZ0VoMF9fYmxhTnRGMnE1NFVDUU4yRmxvVWExU2ZHYXZoWUgwNHc0UGV3RHBUR1N1NGRYUWNrLVZadmg4NmdwMHJTYkVGT1Azcy1rb29GckZtOUoxZ1FrcmFDR0FIa2wwTzZaby15UdIB3wFBVV95cUxOS0sxWFFQMXpyZ2JabHVNYnVoUG0xeFMxWHYtc295aTV4Tzg2TkxNVndtRWdPb0JvR21DSjEtZWlza2R0TFFDcFpiNEMzNlVwOTY0b0RaR0ZLLVpfVlFkR0RpQzdCT3NaZWxZcndwdnozS0tCdlh2cDFVVUlTWGhxbXhnbWRNQzRhUXU2b0tMMFRCazRzODVxbGstenBsWUhpVWlDdmJQNndWaWJMX2I1MDF1YXAzbDhWZGE0b3lHLXZacFBMdXJSc3U2dUpOWHZ2VENwaWZCWm9URUVYSXlr?oc=5"
+    },
     {
       "headline": "Historical Stock Price Lookup | Marsh Investor Relations - Marsh",
       "source": "Marsh",
       "when": "2026-01-09",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT200YmJ1dUVLVkNsdGZwb2hlcXFwSm9yRkw5YnJDZGJjRDZ6WHhsMGZ0Ynh1S2h0Um15VGVoS0lROG11dDF1Z003b0NlaU1tQjhyMzNWRHZDTDJJN0ZpdkhVQ0JBbjgzWDEyVTdsdFZtTW9pd01YM3pQUE1hbkNrbWlwTEJ1RWRmcGlKUHp2TkdQbGJnUVRBSFQ0ZFpleWM?oc=5"
-    },
-    {
-      "headline": "How The Marsh & McLennan (MRSH) Investment Story Is Shifting With Mixed Analyst Signals - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-04-18",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbHYyU1UtYWdLMFlrdXl0bnM1WlYzeFRQZkhEcllQRW5ibGEzbUJJTlhiZkhfNlFZXzI3YUtvX0pzMS1mY053enpBNE9nV29LVFd1cmNCZEF3ZEpsR0VBblczcDhqTnZCc3Y5T0dNbk5pRHNUZEN4bXczbFNKdGp1SXhKd2lObTVMS19RMzB5T3RIZjFVZ2xBUHJ4c0VUT3BhM2JV?oc=5"
-    },
-    {
-      "headline": "How Marsh & McLennan’s Expanded US$4.25 Billion Credit Facility Will Impact Marsh & McLennan (MRSH) Investors - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-14",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNERKSGhtZmxtUkZZbzl3MlR5ekpiNXdfQ25zbFZvcEZxbllndzFZbVNoQk5lMHU1VG1JVk0tRzQxVkZRYmhfQVVkSlFsMXRmNHJ3cko3UDBRamlLUzVsWVFVTXVYNVpGaVA3NEtsbmJwSG9aTDFPOHp2LWJlM1R4amVvSHBZbnphaVMxYmx4aDVPV3BINHl2X05fYlAwWFM5TzdZdVpfMU1jc09aWDFna3RJNmxmRmR6a2t3Y2JUZ052WVVqN3ljNDlfVUswcjF1OFM1Sk9tT3Jlek1HenVV0gHfAUFVX3lxTE00REpIaG1mbG1SRllvOXcyVHl6SmI1d19DbnNsVm9wRnFuWWd3MVltU2hCTmUwdTVUbUlWTS1HNDFWRlFiaF9BVWRKUWwxdGY0cndySjdQMFFqaUtTNWxZUVVNdVg1WkZpUDc0S2xuYnBIb1pMMU84enYtYmUzVHhqZW9IcFluemFpUzFibHhoNU9XcEg0eXZfTl9iUDBYUzlPN1l1Wl8xTWNzT1pYMWdrdEk2bGZGZHpra3djYlRnTnZZVWo3eWM0OV9VSzByMXU4UzVKT21PcmV6TUd6dVU?oc=5"
     }
   ],
   "insight": "Tracking Marsh McLennan (MRSH)."

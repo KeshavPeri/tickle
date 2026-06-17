@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:21.066Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:18.010Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    52.7400016784668,
-    53.41999816894531,
     53.119998931884766,
     53.45000076293945,
     53.29999923706055,
@@ -24,11 +22,11 @@
     56.02000045776367,
     56.810001373291016,
     57.630001068115234,
-    58.939998626708984
+    58.939998626708984,
+    57.790000915527344,
+    58.88999938964844
   ],
   "6m": [
-    50.93000030517578,
-    51.369998931884766,
     51.2599983215332,
     51.40999984741211,
     51.56999969482422,
@@ -158,10 +156,11 @@
     56.02000045776367,
     56.810001373291016,
     57.630001068115234,
-    58.939998626708984
+    58.939998626708984,
+    57.790000915527344,
+    58.88999938964844
   ],
   "1y": [
-    43.150001525878906,
     42.689998626708984,
     43.27000045776367,
     43.290000915527344,
@@ -410,29 +409,31 @@
     56.02000045776367,
     56.810001373291016,
     57.630001068115234,
-    58.939998626708984
+    58.939998626708984,
+    57.790000915527344,
+    58.88999938964844
   ],
-  "lastClose": 58.939998626708984,
-  "oneYearReturn": 36.59327124556447,
+  "lastClose": 58.88999938964844,
+  "oneYearReturn": 37.94800019694526,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "U.S. Bancorp stock underperforms Monday when compared to competitors - MarketWatch",
+      "headline": "U.S. Bancorp Announces Quarterly Dividends - Business Wire",
+      "source": "Business Wire",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVNFZ1E5WldsdnlpU201d1hvUFB1RldrSEY1d3lUQmE5d25FaHdRR1VQeFhJeDl3b3NjanllaUZlYTdGaFNHZzQ1ZmltUmVuRE1lbEdZT1V3ZDl6VXNSSXRkRjRoVTBKSkFMWEV6SHdUQV9iX3ZGSzduWG16c2NyQzZEY01aUlBmUTEtSnRBdFRYc0JjTXR1ZlZfWk1URVZP?oc=5"
+    },
+    {
+      "headline": "U.S. Bancorp to pay $0.52 per share dividend July 15 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjVsQjZlS0NFMU9LbDd6QmRrcUZnbnFZVE5ZbXk5MmhyeHZqYjk2aHczLXRfeDJiVG1LWE1QbFJDajgzNTJZbWlTOFRPRlEyZ01jeFFaNGNITGhuN2RmNzJoTjFGUnZ5LVV4aFdFZ3JDRVJFMjFZT1gtTzByTUVMdHNDZzg5WVJVR1MyN0pn?oc=5"
+    },
+    {
+      "headline": "U.S. Bancorp stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNm05MmxyMzBzSWNDR0VfNE1uaV9GMG90ZkhEWVFPVTIxZ19mSk5mbm1IOUZicEJPbUFSYTBDcGh2blI5YURjVVBuUVBlQmQtb0RNNU9DOVZVN2tSRDY5YVFnUXpHMkxhcjJmRUpOa0EtTkp5TXJTdDIxVDBNdnhkRHpJaDNxbGp1VzRaNWtYM3gyQm5xN0dsX2xfRUY2dGVuX0JFOWxsaklLcDFQQy1xbnJ4dUpDclhTaHhrSXV1QVY3UlJ2ZVVRLURZeUYtWFp5eDltNFFyYXRwc0Z2Z2c?oc=5"
-    },
-    {
-      "headline": "Do U.S. Bancorp’s (USB) New Long-Dated Notes Quietly Redefine Its Funding and Earnings Mix? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmRBQXhPWWZqR3Z2aXBsRUU0VU5saU50UnNYOU1WVDBRN18yQkRVLUoxZkEwbWx6ZGlJVlRySjlWRHg5Qkw5eHhQd0tJT3ZCNHVuVUdSaDNqbVl4Zkx4QkZJdVFWa19tdmtoNDA2YW1UN01lSUF6aGM5b24xX0V6SmtBTUJfSjBDRXE4dl94VWt0YTFLNy1VZGVqamFkNF92WElhdEZGM293aVBWMlRxSTYwUnhPaUVCa2RvVVBwaw?oc=5"
-    },
-    {
-      "headline": "U.S. Bancorp: Positive Operating Leverage And Growing Buybacks Can Push Shares Higher - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-13",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdEozalBmVHZ3VmRMUXE0T3NZQ2FocUdndEZYVkdRak9MbUlkXzN2Wjk1YlVVcVk0WWM1LXl6WlAwMEE1aFZWU2ktM1k5Mm9UX3MtRlJPRHgtaklUMF9MdTNtMXVuLUxRTFFMTkN4enF4cUI5ejkzMEJENFl5V3JyNnlaWFlJYUJSZlgxSzZqUDRlb1d3TXAwQUVpYTQ5eU9VakFvT3hubnc5dVp4SFM5ZXlYamQ4UUVYYjBBTHBmS0Q?oc=5"
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd0RDd2hOLXY2UzJWbFFKb1pvSGlNd184UWVYVG1Ca1lvNUFYMnRpa20wN2RCZnVPamxFUGpXZllMOHJocTBZV2I4Qnh4LUhZN0FKSGF1NDl1MWRyUG8tcEpJeFRLYjVWZ2VPTHUxTGVyWGpLaHdkaUhVSnpldEppQlpUWk5CRWpIbG9fdWJGZGpQRnRNVmlxOWZmTVJkbE5uWV9tYks3MkZqMkZ0QzMxUTJCS0xPT0I4MHJQSmU2LWM?oc=5"
     }
   ],
   "insight": "Tracking U.S. Bancorp (USB)."

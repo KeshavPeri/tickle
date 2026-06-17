@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:43.515Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:44.329Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    162.85000610351562,
-    159.1199951171875,
     150.85000610351562,
     149.92999267578125,
     152.42999267578125,
@@ -24,11 +22,11 @@
     189.85000610351562,
     186.2899932861328,
     188.05999755859375,
-    187.50999450683594
+    187.50999450683594,
+    188.47000122070312,
+    184.7899932861328
   ],
   "6m": [
-    184.6699981689453,
-    184.0399932861328,
     184.30999755859375,
     187.1199951171875,
     185.99000549316406,
@@ -158,10 +156,11 @@
     189.85000610351562,
     186.2899932861328,
     188.05999755859375,
-    187.50999450683594
+    187.50999450683594,
+    188.47000122070312,
+    184.7899932861328
   ],
   "1y": [
-    151.02999877929688,
     145.0500030517578,
     145.2899932861328,
     147.4499969482422,
@@ -410,29 +409,31 @@
     189.85000610351562,
     186.2899932861328,
     188.05999755859375,
-    187.50999450683594
+    187.50999450683594,
+    188.47000122070312,
+    184.7899932861328
   ],
-  "lastClose": 187.50999450683594,
-  "oneYearReturn": 24.154138927623247,
+  "lastClose": 184.7899932861328,
+  "oneYearReturn": 27.397441846447034,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Charles River Laboratories International Inc. stock outperforms competitors on strong trading day - MSN",
-      "source": "MSN",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNSS1FTnpGUlNZbDNGYTVKVU1OMV93NjExUjFuSXZzeDBvcE1Tb3U2UEZrRFZSb050WXpxYm8zeko3YnN3ZTFUNnQ5MU1wTXFUX2dZbllGX2F2a040akZQcEJvaG1RRE9OQWtULXB2R2tXSHVDSUJQbkZYWTVGMTdIbkwtUmc3V2pnSm5xUHhBLWp5eDFSaU1WTmdFdFlMQlRZU25mdkZnTnRTNHpEcFNlWVBJVzMwUUlaeXpkUktlcWkwaWkxejY2MEdhVGlLLWtacUdlSVJ2LWpySzFLd1B0alNhcUpXNzZ5NHFKWVRCQ2lyLUNNVm94TWV6dDV3ZlVER3RqdWVxOUhRZWtpblFkT1ZyNy00ZHpaYmYtaV9ZVmJ3WVpKcDBnZmRoWTFEVXlPLUx5R2o0TFN6bnNCQjR4QXVkU0FpdDV5MlpBV2NveFkyV1FGalhFdzVwZkU2WXFYeXctaVpvUlN0bVNSanQyUW5ySXhfYnd3T05n?oc=5"
-    },
-    {
-      "headline": "Top Charles River Laboratories International (CRL) Competitors 2026 - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LbmxXME5USExiY1VMQWxKMTkyTXZFMnpOMEd3bWY4QXZrTGcyTm83RmtTaW44Y3FhOWdFZ3JqeDlLeHduQ2xwYkxwM0dHSUV5SERMdk9lUG1oRGhOUGxYRjR4d0hHdUMwRmFCeXZBSzB3QUNmWlZqS0ZVZnk?oc=5"
-    },
     {
       "headline": "Are Wall Street Analysts Bullish on Charles River Laboratories Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-05-26",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZXhOem5tYVhvM3RFcE5hb29wZ3J2X3VXdXM1YXBrWjFFWUdNNWlwelNHTDhVclE2d2pzeDBMc2hEOGVsNmNZMzRKdjljai1ld052dEFaaE03QTVsODRXZFp4Wm9iNWxVUWJLX19nQVNWUDA5Z3VTeEJHcTJvZFZ1TjdOU3ZaeE5keU9abWFnYnBhVkgwNTdabE1FNXZZbWQ3cjVJ?oc=5"
+    },
+    {
+      "headline": "Charles River Laboratories International Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWmNxNXViOF9OX1ZyU3N5NUdiME9hTlQzdmI1U0kweUUtYlI5akJRaTNPYWhfWms4THlFbDdrX01MWVc0ZnBjR0tmVGlZOGFaaTBIR3hQMjVoMGxqSXN4NDFtalBKNnNfYXZxTnVza2RTUGNyQ2NhUHpKSzA0OWp2OTJSS1hTSU1USVlqZUpRbmM5MUhISnlRbjUtUjZ5Y2pzVWdKSXdYOXRUVXRtVmRfRUNtZDA2OS1LbjBqTGs5RTJ6UVdwbnRnYzhZWDRQcnRHNkk1SEV2MWFNSWFmdloydGhrNXY1a21ldU5Zdi10cU9Fd3dkMVE?oc=5"
+    },
+    {
+      "headline": "NeoGenomics and Charles River Laboratories Shares Plummet, What You Need To Know - StockStory",
+      "source": "StockStory",
+      "when": "2026-05-13",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcE1FQmlVb184ZkE4MWVvYnJkTzhsSDBtZGtLR09TTlhqTEtFNl9abWdTZlFFSFpTZE9vZ1phXzBxQUlSTnRkeTJpWVhoOWxpbGNlbTU2SmtYNkpIcG5GeDdGa0JYYU05RHFFalJGNVJtZXVLNFhrZVNwcVZIRUxlaC1WUWN6WlluMHgtM1NfVl9NXzhOZUpxbWE0X2E3NzNKZXNWQjNma0xveTU3dDRrWTBzVG9FenoxWF9ZbGpBWlhNcXJDZXdfY19IS180bEE2WDgycVAyNA?oc=5"
     }
   ],
   "insight": "Tracking Charles River Laboratories (CRL)."

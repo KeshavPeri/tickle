@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:47.629Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:47.739Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    19.549999237060547,
-    19.559999465942383,
     19.360000610351562,
     19.489999771118164,
     19.299999237060547,
@@ -24,11 +22,11 @@
     20.5,
     20.469999313354492,
     20.5,
-    20.690000534057617
+    20.690000534057617,
+    20.43000030517578,
+    20.09000015258789
   ],
   "6m": [
-    17.290000915527344,
-    17.18000030517578,
     17.020000457763672,
     16.739999771118164,
     16.489999771118164,
@@ -158,10 +156,11 @@
     20.5,
     20.469999313354492,
     20.5,
-    20.690000534057617
+    20.690000534057617,
+    20.43000030517578,
+    20.09000015258789
   ],
   "1y": [
-    17.139999389648438,
     17.010000228881836,
     17.049999237060547,
     17.100000381469727,
@@ -410,18 +409,14 @@
     20.5,
     20.469999313354492,
     20.5,
-    20.690000534057617
+    20.690000534057617,
+    20.43000030517578,
+    20.09000015258789
   ],
-  "lastClose": 20.690000534057617,
-  "oneYearReturn": 20.711792711924915,
+  "lastClose": 20.09000015258789,
+  "oneYearReturn": 18.106995192606888,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Healthpeak Properties Announces Dates of Second Quarter 2026 Earnings Release, Conference Call, and Webcast - Business Wire",
-      "source": "Business Wire",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWGFYR0FHNElwb0FRV1NONTYxYmNrLXlvQ045Q09XT1gxR1kyNUYwRWVhRUlNVW1KeFVQSDhoMXU2a3hhdjJRT2h2ZmljME9VTmt5VWJ5YU5CazNpSkYzNTRuNnhQSUgyNnVYSXFSajhfR2pjYVRzc2ZUalJFZXJrZng2NlJwNmdCa0dyREVsdmJ4bjVPaUZuOV9FeFoxT1dYaGQ1c2RCOURNcFFod0lIcmNwSEdJbXdQb0wyaEhXNnVvZm5TVm9fbm8wZkxLV2VyTVZ3YXo2RjFKQ2FjVnZETnpMZ0pULU9tbFpHUkR0blI3eU1i?oc=5"
-    },
     {
       "headline": "HCP Changes Name to Healthpeak Properties - Nareit",
       "source": "Nareit",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTdTSGNIbG1DSU5BSGg1WXBaT1VNc3Z1b2o1R1N4Wk1pQmEwdndxUnE3WWo2aU9tNm9Gak85VUNPWUNBQVIzSE9HaFU5Rzc3RlVYSjdzUjdKRW8zQWhfTk5xaDJZaXhPS3F2ZDdaMG5LV0pqbkVtZkN4dEU4SUhhdXR4XzExZUxmbkIyRWdjbHdtMlk?oc=5"
     },
     {
-      "headline": "Jim Cramer Highlights Healthpeak Properties and Its Strong Dividend Yield - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
+      "headline": "Healthpeak Properties (DOC) Receives Market Perform Rating from Raymond James - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUVTTTZUck9mR0QxQjN1Wk42TkFQbDd0RTlwQmFJalJPM1VIVElXc3M4UC0wVU9nMVFOU0huOU9rTEhsRDBYa0xRQkg4bElWRzJ2Z1pVb3dfMnN5UXFSMmxGOG5XQzNobFZUei1hRkd4dmpFVHVMbGNkeXpIbWtoMXJWT2Qxb2VhZDJHMGMxLU83QUJPR1R0TWtUODNkWTNxNFV3aC13TktNSGJiMzVwZkFlRlE?oc=5"
+    },
+    {
+      "headline": "Jim Cramer Highlights Healthpeak Properties and Its Strong Dividend Yield - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV2FnYWJHQ3kxc2RaR09GajVMS1RBMHRfZXBZS21JWWhVU3ZuRXBlVUpNRll4azJqMU9td2J3SDBRX3JWQ3V5NmFQNDU2NE1iU2V3eVFvcnlwUFhLRkwxZUJKNlliVG5iaDBKeGIzTEZvRjY1djRSdkhwMktDWkN4RmVSNVhNc0QyZUNGZFJqdlRwYlBFUWFv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYUljNlpocWczUENoWFN6SXJLS1hhb1diTnFhOWh5d1BLYXgzaEJ2cmo4dTdZQTltNjFEVUdVRkFieWh1Nlk1ZW5PZ3dJRTFhTGJ3NmpKMXBMbjYzWndRcjZDYnk0YnVocTdxZUgzY3VuSGNKd3ZFZC1rYnBiYnd6cnliVHVvWTZsbG4zRHF2MU5NNm5uQlp6dDAxOGEwZlAyaWRZZ2VJVDAwamc2?oc=5"
     }
   ],
   "insight": "Tracking Healthpeak Properties (DOC)."

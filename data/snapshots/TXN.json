@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:20.491Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:17.354Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    306.3399963378906,
-    308.1700134277344,
     302.7300109863281,
     300.6000061035156,
     302.30999755859375,
@@ -24,11 +22,11 @@
     288.6300048828125,
     282.010009765625,
     297.1000061035156,
-    301.1199951171875
+    301.1199951171875,
+    313.3399963378906,
+    305.7099914550781
   ],
   "6m": [
-    182.60000610351562,
-    180.1199951171875,
     182.5399932861328,
     180.94000244140625,
     179.52000427246094,
@@ -158,10 +156,11 @@
     288.6300048828125,
     282.010009765625,
     297.1000061035156,
-    301.1199951171875
+    301.1199951171875,
+    313.3399963378906,
+    305.7099914550781
   ],
   "1y": [
-    199.22000122070312,
     197.69000244140625,
     198.35000610351562,
     198.1999969482422,
@@ -410,29 +409,31 @@
     288.6300048828125,
     282.010009765625,
     297.1000061035156,
-    301.1199951171875
+    301.1199951171875,
+    313.3399963378906,
+    305.7099914550781
   ],
-  "lastClose": 301.1199951171875,
-  "oneYearReturn": 51.149479606515946,
+  "lastClose": 305.7099914550781,
+  "oneYearReturn": 54.641098527826735,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "NXP Semiconductors and Texas Instruments Stocks Trade Up, What You Need To Know - Yahoo Finance",
+      "headline": "Texas Instruments Stock and the Industrial Recovery Hiding in Plain Sight - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSXR5Mk5KXzZMUHlzNjNWb280VVljaWN5UnlySzk5b0RMd3BJeENQSFlwdzBQY2pKdi1OMlBQYUpiTmxzS0pOaUZUdlhDa3pvZFh5U3pRV0UzNVg3UkJzcnc2azZkN1p1QlZObTZ1WUg0UEF2ZTJHMnVNcnBNWmkwSE1NczBhX2h5RUlnaGpLTTlqaDY5WXpQd2tQUkViVG1XcjdxenNBb1V4amMwUmlESThOYUhHVGhNbTZpbmxfQ25kUWlCUWlQbUJWcDZFYlZrWmw3aHh3dnB0dw?oc=5"
+    },
+    {
+      "headline": "Texas Instruments Stock's Rally Is Asking One Big Question - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGdHeUZja1dfb3dUQlpmaXVEZDU4VE81ZGFEYy1Tb29EUmJHLVA4eEtOWnN3N0xoR19qOXZtZUl1S0dOMUJyUEpySzlyc3Q2Q04zell3QS10ZWlPSzhtRHl5a1Z5VFk0NUlfNEJVcjhpVkx5SExtRUVWdVp5alZFTUZqOG5kWXNGS2doS1E4cmpKNy1Ud3hEMUx6NllPZ1QtLVVSNWtCRzVvSTg3?oc=5"
+      "when": "2026-06-03",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb05ENkJVSnlaUTFuaWJNVW5jT0hRalJJOFZjYmFNNmNUSlR4WGpIVUp4YXQ5OW9rRVgzYkMzNDFuZHBubjNSeGEwdkVFWjNiclBHaEVTM2dwUEpBNnVrcjd6eGdiX3N1OXo0VzFSdi1GY0drM1NqNk1KN1UtSFFRNzI1VkRwNE5KeU5lQm0tTHRuNFN2X09RS3kxTmVrRGNVd1ozYg?oc=5"
     },
     {
-      "headline": "Texas Instruments Inc Stock (TXN) Moved Up by 3.85% on Jun 15: Drivers Behind the Movement - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNk9VSVdNWVN4c2wybXAzbzYxdWhBbTREOFgzN2tZZ1NCc2J1WjA3eFFQV21TUl9nVEtvYVZvMzdfb1MtdzFFX0s0azIwNnQyV3ZNMXVVU001OXFjRVJwYjhsbWZaTmxOZ3NWZmtNbjdsMF9hZ2hfM2lZLUl1NkJTUE9rQS1yUTF0cVE?oc=5"
-    },
-    {
-      "headline": "Texas Instruments (TXN) Stock After 67% YTD Surge Is The Current Price Justified - simplywall.st",
+      "headline": "Texas Instruments (TXN) Stock Valuation After Sector Rebound And Growing AI And EV Battery Monitor Demand - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZEtHbVR4aFFmMk12Q051Zlh2MXZyVlFVb1pwRFl2Z2loY0d6OU1ONTNXRDF4TFJfWkxQMXNldy1fSVNqaFBXR0ExTXE3aHI5Rlp6dV9pRFFVYThERFRFVzA0SnV6VVVGc3VnNVo0YVNpVzV4YUdOWXNLZXBiekIzTXFlbWFfVWhoY0lxUDIwam1TZnJXbU0yRjBJMDlydjlncF9aNEZfaEJrVmJReTR1UjZXTm1DUFVCbjIwZTNJand6clBDcUpMNlRMRmtIR0szdnBJV1R3RDnSAd4BQVVfeXFMTjJCQUdGTEZXWkpabUc1TlE2UTc2ZkpvaTF2SjByYWF4R2hsV29YNWpHT1AwRWFNTFBuVkJraVdqV2JSMnNfakExVEx5cE00Rk45ZjlJTHdPZi1YWEhsY2UyRGN6MGRLWC1Fb1R1LUtDWUxPNWU0ZjRpeWphamZPcEFfRC1TbHU5U1FDQ25UbWxTSzhmWHprUU85d29ndjhaNVBVMEd3QnRQaVo2Y1hJSzV6VU9GQy1xWHNoMjc2cmlHaE5IczM3X3hWYXZiLXBWdWNod3E1SnluYUNJN3VB?oc=5"
+      "when": "2026-06-13",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakQ4ZUdoZUdBd2xoaVQzdnI0eTZ1dWFCQ1B0aFo3OFV2eXhUVEgyZ24tVGFyVnpwUnVrS2pjU0tNZkdNank1bDV3MDBvX01vQ0Z5TDluRWhPc3REWkFCVko0eEFZeFJJa01EdXY5RGhKVmpWYjB3UWRxaWhBLTlwa3I0YTVrMk42NEpxZ1RKYTdlQTRoZFB0Rm1KcVVEdVZVVEVlUEw1SURWcEZzLWJMSGxLc05KTGlncWdabEhBcXJKUWRUQjA5RXlEM25oNVVCSng0NTBZUXDSAd4BQVVfeXFMTWwxOHhhM1hkOFYzOG1XRXhIc1NpNkNhUFNEaGZDM1p1enl5blVMcTM5N1ktN0ZDRGp1OVhnMzZhMHV4WDNKSTRjakwyZ1kyVjZ0MUVyeTNSNU9SMDZ3RmctRXNKangtVnJ6QVVCNEw1MDhiNEEtaW9jRnQzTFFURWQ5UUxKX3N2bHZ5RWpDemRITlduWi1kaDdRcXRGMElsT21uVWNCWFdVMFV2ZVBDcTBGbWxJR3ZFdUpteVF5cUdlak1DMm5KNWRjdVdaaURGWVVCaEpYaHFsNElFbmN3?oc=5"
     }
   ],
   "insight": "Tracking Texas Instruments (TXN)."

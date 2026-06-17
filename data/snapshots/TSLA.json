@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:19.683Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:16.782Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    445.2699890136719,
-    443.29998779296875,
     422.239990234375,
     409.989990234375,
     404.1099853515625,
@@ -24,11 +22,11 @@
     396.67999267578125,
     381.5899963378906,
     399.1499938964844,
-    406.42999267578125
+    406.42999267578125,
+    411.1499938964844,
+    404.6600036621094
   ],
   "6m": [
-    446.739990234375,
-    454.5299987792969,
     455,
     439.5799865722656,
     445.1700134277344,
@@ -158,10 +156,11 @@
     396.67999267578125,
     381.5899963378906,
     399.1499938964844,
-    406.42999267578125
+    406.42999267578125,
+    411.1499938964844,
+    404.6600036621094
   ],
   "1y": [
-    329.1300048828125,
     316.3500061035156,
     322.04998779296875,
     322.1600036621094,
@@ -410,29 +409,31 @@
     396.67999267578125,
     381.5899963378906,
     399.1499938964844,
-    406.42999267578125
+    406.42999267578125,
+    411.1499938964844,
+    404.6600036621094
   ],
-  "lastClose": 406.42999267578125,
-  "oneYearReturn": 23.486156426391933,
+  "lastClose": 404.6600036621094,
+  "oneYearReturn": 27.915282394430257,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Tesla: The Battery Moat Is Becoming Thinner (NASDAQ:TSLA) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEY4cGdibFdlYWlFMkY5R29kXzhJU2ZKY1AwVjlVaDNId09TaVh3N0V0dklDeUdrQTY1elByR2dtT0RBSHJSdG01QkdOdEhZcEZpdm9tbV9mNUtCZ0psT0tmSkFmVEVzd2RNZmxqSXhiVW1yU0NOTjNxQXZhMEt6bmpYUXJaLVp3Ujhv?oc=5"
+      "headline": "Is Tesla, Inc. (TSLA) A Good Stock To Buy Now? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZzNISXNZSnlvQU9WSjZoLWVjamdyTXlIVTJ4MUhIWHdnZGUxQlRyNFZLM1ZPYTQyM0FZbThpTC1sclYyTkdvaERRX0NRSkNOakVmN3Z2QnY1NmhqY2RLbGFFbDVnZTV6U20wZWkxVVI5emZvVjR1LWZYOG9aMnFjVEcwRUdUbnVFTjVhSlRPUnA0QlRW?oc=5"
     },
     {
-      "headline": "Why Is Tesla Stock Surging On Monday? - Benzinga",
+      "headline": "Tesla: The SpaceX Optionality (NASDAQ:TSLA) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tMUJXMWJ6UjJwZUY3MHRiaG5sd3N0UTRIR1k1OXZMN0hhOURWUXl4emFPanJZMUtWVldNZGVBd1Nhb2wwTU41OWV5VGJXbWJNT0gtMzhmYmxDNFBtVmJLdEh4TmZQZVI0RE9wenN3Qm9iMGQzWGJkLQ?oc=5"
+    },
+    {
+      "headline": "Why Is Tesla Stock Surging On Monday? - Tesla (NASDAQ:TSLA) - Benzinga",
       "source": "Benzinga",
       "when": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQczU4QzdXZ2xrYW1RX0p6ODkyVTVlMk82ZzZrZXdUTmVkRVZaeF85WmdWSlFXZlNkX1hkSHNFSkJRU2prT2FEdlc0N3ZBOUxtalFQanVMdmRTRkZIMU44cUR6QklWTHVRVmNfdEtUbmF4YzNhb2VzNWprdUE0dF9JV19NcVlWUnYxbEN4RlBONVR4N3FPZXVQdUxMUkFDSlFNWW1uQVRzbUp3azkxNng3VHhzQlhDUHZjYkV4eE5aTFhGZzFEdG9ENUh5YXJoX0VjOXc2T0NWal9CaUhoNDRqN1pyZ2RRNXQzRHBkeDBjX0h6TGFrckFuV0xlMjJRbFNVOTJBaEw0b1RCaXBTcjZ0b191cWlLYTF4S3ZORThIRVJCVXJsZ3hERmRrRHRyOTA5?oc=5"
-    },
-    {
-      "headline": "What Does the SpaceX Launch Mean for Tesla Stock? One Top Investor Explains - TipRanks",
-      "source": "TipRanks",
-      "when": "2026-06-14",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjA5N3Uwcmd0QWM3WXc5aFltUFdOajB1YVJ4OGYyWjcxcERxck9VOERSNHlEc3R2OWNrY0I0Q1VJNU1kVUxLU0hkQV9iT05rUFdaZzRKemk2RlVZdUh1QzlFWVNySlV2YjhLWXMyVENudDdaLXhIMW11bE5DZFlvMm02SHNrY0twSnRoQTBpUmhzRWhrSi13ZTg0S0t6Q3YtNXptZUpJNA?oc=5"
     }
   ],
   "insight": "Tracking Tesla, Inc. (TSLA)."

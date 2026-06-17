@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:29.568Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:32.271Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    127.94999694824219,
-    128.60000610351562,
     125.1500015258789,
     127.68000030517578,
     128.9199981689453,
@@ -24,11 +22,11 @@
     127.76000213623047,
     128.52999877929688,
     128.47999572753906,
-    129.22999572753906
+    129.22999572753906,
+    129.30999755859375,
+    129.75
   ],
   "6m": [
-    118.05999755859375,
-    118.04000091552734,
     117.54000091552734,
     115.7300033569336,
     116.06999969482422,
@@ -158,10 +156,11 @@
     127.76000213623047,
     128.52999877929688,
     128.47999572753906,
-    129.22999572753906
+    129.22999572753906,
+    129.30999755859375,
+    129.75
   ],
   "1y": [
-    101.91000366210938,
     101.62000274658203,
     101.19999694824219,
     101.75,
@@ -410,12 +409,20 @@
     127.76000213623047,
     128.52999877929688,
     128.47999572753906,
-    129.22999572753906
+    129.22999572753906,
+    129.30999755859375,
+    129.75
   ],
-  "lastClose": 129.22999572753906,
-  "oneYearReturn": 26.80795906554107,
+  "lastClose": 129.75,
+  "oneYearReturn": 27.681555297305003,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "American Electric Power Stock (AEP) Opinions on AI Data Center Demand Surge - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkJQWFVTdnBTUU9UWHVySUhHMW9zak96bjNCYUFIQ1VNWU9kbW95cVR1Y1JmQk5hWGYzY0pPVWFpb1h1ZFpxRkxoM0poMlhsQ1I0UG5HY19OZ3FvR1NHazNiYXh3N2NpZ2d2RXFFeER2LTJRQUNMTFZRWVRSdjM3N012aXM3bWNDa1NCTEtqQXdJdkhLeXozRTVWOTlCZ3BNWkIzRkhNaXhlMGZpOXVNWEdB?oc=5"
+    },
     {
       "headline": "Barclays PLC Buys 57,807 Shares of American Electric Power Company, Inc. $AEP - MarketBeat",
       "source": "MarketBeat",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb1RIczRRVWpuWXJNQ0ZCVmgzbkMxYUdJS284MnZsUXQ0SGhjdFNHdjlmc1hEZXhGY1BlNHNabnlNWlBxcVRrbXVueUJfWXZHRHlPWEN0VGNlanA0SWt5UWpXWldjbTQ2c01xTlFmQ08yVjA4blUxNm9RQWxYSzV5dnlPYjZjSF9aQ3Q2WnZkQzZOTzY1NGNyWVk2NWxzMU91NTk5RHN5QjZHaTM2dU16VXkxM1RSYjhDanh0UW9LT19RYW52cHNpX1NfSnB1bjQ?oc=5"
     },
     {
-      "headline": "How Is American Electric Power's Stock Performance Compared to Other Utility Stocks? - Yahoo Finance",
+      "headline": "American Electric Power (AEP) PT Trimmed by $7, Overweight Rating Maintained - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-06",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEJIekY5amh2ZVJ2WHpJQ0FMMm5EUlplTkR3bThMeUVraFdJb3lXaDFpV3JoZGhrNWFLMVN2OUdUMklQajR4MzhDSF9jYXp6SFctODhUWkdPdm9pblEzOUpfalRra1pCWU5VTlFFZWEtVUQzRXB3RWtHU0FLLVZCbTI2TGgxeE5hR0V4SDVYTGZCUXJoWVZfa1BkRUFDWHZKUnJ0dDBpTlZuOXc?oc=5"
-    },
-    {
-      "headline": "American Electric Power’s Revenue Hit $6 Billion in Q1 2026: Does the Income Statement Support Street’s $180 Target? - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb2Q0aFVHRjJkazNSOFRCQjhfTlEwZGRKVjZGd1V3VFk3NklXQmI3RDI4Qk9RLTNxeHZQWTZfZ2JwMnNPUkM0YTFlTS1ybU5XbzBaekZFVXR5SWVvRmJHM3BTX25nMXZhcXF3R1BvUXpYckxUV2ZwN2pyZFJYYmVMMS1HdGZWSmxqN0xOTTJFeVRZMkxWMXRoUzFOOVFKb1pEcDY5clJqbmd6MnA3a2gxX05hZEMwaDZlajREa2t6NW80V2F4ZldncmRjYXcyeF9yWkE?oc=5"
+      "when": "2026-05-30",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSm5ONFVqOGh3UUlxY2dfMDlyY1EtZ19NTjFlaTJhZHh6QU5oQlB0enJQWUJDZFkxLW4wM1NnaXFQX0hxYmlyYmxoS2dleFFMeU82eTNxMWRZSGl5VlAwMXNNS1liTWx1M1BQSFBHRldPUG56alBMZl9HbWRnMjVSX1pMOHpWRE1WY3dwdnc0Z1BaYlRqYVRscTVQdw?oc=5"
     }
   ],
   "insight": "Tracking American Electric Power (AEP)."

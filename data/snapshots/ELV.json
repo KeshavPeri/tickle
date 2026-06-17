@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:49.880Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:49.750Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    399.6400146484375,
-    396.7099914550781,
     392.67999267578125,
     394.07000732421875,
     402.2699890136719,
@@ -24,11 +22,11 @@
     424.42999267578125,
     404.55999755859375,
     399.17999267578125,
-    404.07000732421875
+    404.07000732421875,
+    401.8900146484375,
+    397.79998779296875
   ],
   "6m": [
-    330.75,
-    333.489990234375,
     330.75,
     330.6099853515625,
     329.80999755859375,
@@ -158,10 +156,11 @@
     424.42999267578125,
     404.55999755859375,
     399.17999267578125,
-    404.07000732421875
+    404.07000732421875,
+    401.8900146484375,
+    397.79998779296875
   ],
   "1y": [
-    376.5299987792969,
     375.19000244140625,
     375.9100036621094,
     374.5199890136719,
@@ -410,12 +409,20 @@
     424.42999267578125,
     404.55999755859375,
     399.17999267578125,
-    404.07000732421875
+    404.07000732421875,
+    401.8900146484375,
+    397.79998779296875
   ],
-  "lastClose": 404.07000732421875,
-  "oneYearReturn": 7.314160527502739,
+  "lastClose": 397.79998779296875,
+  "oneYearReturn": 6.026276074638615,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Elevance Health (ELV): One of the Best Undervalued Stocks to Buy According to the Financial Media - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-31",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONEtUczI2a1pKR1JyTGg4X1cwSThRdjJ1emR1NGs4S0dCTk1ZN0VHTVZPS242S1NuMG9wV0k1cURxcmI3aGNwSXFtZGFxSWl4T3ZtcFJlNnZORjFKR21pczRHVkRPTWE2MGFFM09nR29NZThESDAxWVZ6cHJ6NHlCZXUtRWtvaUtLNXRZYmxRTmtqUmszaWNwUA?oc=5"
+    },
     {
       "headline": "Chronic conditions hit 3 in 4 adults; Elevance Health offers guided support - Stock Titan",
       "source": "Stock Titan",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNczhPa1J3UjV2TmdkT2pTSUl6SDk3cEJORmNQazBMbEhqMWQ2Q1IxZVZFZk50dXdUeTExOTVSMWh4Q1pKTWRPMWJPc1FJaVpOM2JNaUJEZk5aa1gyNmcya0xwYWJaVEw4UE9KZjBFUU1QaWQ1T3FmMGhISG9IdlNPeGZxaVZOQ0x0REhabmtPbVdFdmtsNEROLWxIT1A3Ry00eW1ua2JlZC1sWU4wR2tGYUVMVnR3aVYxaTNNNXhWcw?oc=5"
     },
     {
-      "headline": "Bullish Elevance Health Insiders Loaded Up On US$3.68m Of Stock - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXRnZHZubzdXdUx6a2dCTGJ5QWhMcG9RVE80d3pOX3hmV2VaMmYtSXF1SklwUVJndnZwSS1mR3lucDdxaGtLRHRPQ0RTc2JhQXFMV1Fibm9MN2g3eUpFSUxsX1NrLWw1QW9fZTlMaFpETzRkQy1CckhLbWJ1UHY5SlJNY2JHQVZlN1BHeUdjYTVXUVJsS0hObC02UlFWdUVTZ24tc0RUYw?oc=5"
-    },
-    {
-      "headline": "Will Elevance’s 2026 Guidance and MA Update Reshape Elevance Health's (ELV) Investment Narrative? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb3MyZE5BcngwNS0yS200WDAxa0tacGMyRlRkOWVJRHJJNjhEYkgtWG9iS2d3TE1FM2o0azNqaUxLNmlMYTl1bm94dzhpek9zZHN3ZzZwVU5yZDlQN29ZYm9HRXVueHdpbl93c2xnY081RllLMHY4SVJWSW12a3VIMlBsVnlvQnNsUWRWNDQwVUV2cFBrUXQzSjBUWjNYZjNuUTUyYkZCTU5jeDNyeGpRVmxqZkgyM0RFQ0FKYW9zSlRIUVcxNGpvZVBJTETSAdIBQVVfeXFMTnBvU2FrRFgzX3lRTURsT2VCVzhIemE3NWJyeHZzREpDYmxtd0ZtMlUxUjFBTmF1aVJRRnBnek9TSDVBdnY3V1RfemQzNHRqTG4wVXppVUg2Q3NYS0twWkEwVElybHMzNzMtaDAwQ0ZWXzMzVExwblNiZ0hpSVlfOWhhLWJIR3RaMjg1WW1ZQXF1X1pSNnRyRVc3QXpwM1RoWnlnMTJqYWJFWWpSYVE4VEVhWE9GQ0VtTFZodTJOUGR6QmdRUDh5cTdkZ1h1amR2SGln?oc=5"
+      "headline": "Elevance Health Stock Analysis: Guidance Raised to $27, Street High at $498, TIKR Target at $534 - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-05-26",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHhlSk1RUTJKU3dlUmd6Zi0xdVZCeG90M1BXSDZPVDZFZlhybXh4SlZzNEN0b2hIOWU5dmVLSTNnNVEtU05sRDM2d2ItUEhqMkdFODJleVlkeTZzMW5lM1FrVnFGc0h2S3ZEMXVqVVdSRVgxSU1SRzhNUHNNWFJ4R01NUWpkT0F1NjhiUUVLTjFKSEdCdkJqMkhSX3N1aU8tb3V0QlBHVjJianI4eVViZVVZMTBWQ0U?oc=5"
     }
   ],
   "insight": "Tracking Elevance Health (ELV)."

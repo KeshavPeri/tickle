@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:48.827Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:48.764Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    58.56999969482422,
-    57.81999969482422,
     61.630001068115234,
     65.08999633789062,
     66.94999694824219,
@@ -24,11 +22,11 @@
     78.19000244140625,
     74.7699966430664,
     75.25,
-    75.37000274658203
+    75.37000274658203,
+    74.22000122070312,
+    73.16000366210938
   ],
   "6m": [
-    64.8499984741211,
-    65.25,
     65.48999786376953,
     65.62000274658203,
     66.33000183105469,
@@ -158,10 +156,11 @@
     78.19000244140625,
     74.7699966430664,
     75.25,
-    75.37000274658203
+    75.37000274658203,
+    74.22000122070312,
+    73.16000366210938
   ],
   "1y": [
-    83,
     81.83000183105469,
     81.01000213623047,
     80,
@@ -410,29 +409,31 @@
     78.19000244140625,
     74.7699966430664,
     75.25,
-    75.37000274658203
+    75.37000274658203,
+    74.22000122070312,
+    73.16000366210938
   ],
-  "lastClose": 75.37000274658203,
-  "oneYearReturn": -9.192767775202372,
+  "lastClose": 73.16000366210938,
+  "oneYearReturn": -10.595133783383378,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "DexCom Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "headline": "DexCom Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZTdvcXJrX1Q1OFZ5a0MwNDhkRlI1WHFsa0N3eDRGY3psOXJkZzVraWJsZW8yYmJYM21HQ3RROGV3QjZ1OUlZT3JSdkZFZ29uY055ang5X19hRHVBZjgzWk1ZNWFsWEVMWG1sbHJVdWh0bjJjTnBVekNpMFpXY0RGWmpUYy1fclVxOWtaYkZTNWpIb3B4bjFKMzQ3WVloUmxTd28xX2l5VkFROVZ1RVpkSGprZXRCdTdnVFN5dEJoZC1adHlZ?oc=5"
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVDc5VkFKUFF6N3lyWUhiMUE0R09hbWJEaG1QSm01dnZpWTRUMXRCZjR1RnVmOXh6NTU1MmFqc1h1dlpyZTRJb0VyZ2l6V3ZGUTZYUEJCaExScW9renllVWlXaHB6QlhjN2xNQmpTV3J6Y01vTHNoNEFfVEpuVHI4dHhHQURWOWRSVmVhQmdpWFZ4YkxMZXRkUzFURkJJMmw5R2xvRGxMX3lwOExmZkxVMHg5OHhuQjJzdlg1ZWs3UGVoNnNxTUpyTzJwM21GWVdkNV9yaHBpbHFPY1hLX3c?oc=5"
     },
     {
-      "headline": "Michael Brown files sale notice — Michael Brown (NASDAQ: DXCM) seeks to sell 1,700 shares - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkZfQlRwUzhUWW44RC1VOWpqQ1V0bTA1M25tdHZ2ZldMeDVBRVhTUFJ4RVRiQUhhdUlqS0hCb1htYUtydTNDSExxdmdYWnU5WDZfOVI1MmNxQ0s5dGpNdHlHMnhOdEhrNG50Z24xTkpHamFKb3BsdERIZEJhX3FoX0pWWEV3a2ZDdkNyVndiM1M?oc=5"
-    },
-    {
-      "headline": "The DexCom Stock Turnaround Is Showing Real Signs of Life - Yahoo Finance",
+      "headline": "Is DexCom Stock Underperforming the Dow? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-05-20",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWMza0lfSnFRNHdUR3FDc2pxOGdKT0diZmxIa2ZNMmpVNXhJaF9tYTZ0dms4Z0tyZVhCQV9EVDA1WU9DQS1mWFFWLTFoaFhvcjlhLVFSRHdObENJVFJNTWwwYW1IYkNwWG45SzI3c042eThlUkFObGNjLUl0bnZFamNwdHB2ZTRtTzE3OTNWRlRKRFlKeEhUOW5TWVYwbmkyV0pN?oc=5"
+      "when": "2026-06-05",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0prQ2prMVlPS1cxTjZ2em05RUdmS2gyd3lhNjAxZGwtMlY4amZMaFktTXBaVG53OW9GRlZPakNjMm1rbmllUllET2FlelZZQVFZb25wanVfNHZPZl9HY0lJd0dZd1A3LWUtSkZ5SklZbWY4Q0ZfYTV1SW8zNURVSnFpQ3RxZEFzSG04NUJKZkNnZG5kb1ZQQmpZQ1Q1Zw?oc=5"
+    },
+    {
+      "headline": "1 Cash-Producing Stock with Impressive Fundamentals and 2 We Find Risky - StockStory",
+      "source": "StockStory",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeG04VFdiNFNaX2tWU3JaTFJjRDhaa2hpVkxNblBXbDYxTDRqV2lXdjd3TUcwZldoVDdPNTlqVi1PelZUX3BBdVFlWnVYMXczMHdXNkNxQmNYSWF6Q1BSQzduT1dEVWdoN0lMZ1p4TmZ1SkJQS0JmNUFwV3RXbkhDQVplNG9mT1ZoU2RUX0tfSTFwVjVKd0FGUGxYTnFqN090WWd2YXpKTEpibU5hYUkxSmZCdGZWSFNLREZuUHRiLURWVHRzSi1HRWtYX1dQQQ?oc=5"
     }
   ],
   "insight": "Tracking Dexcom (DXCM)."

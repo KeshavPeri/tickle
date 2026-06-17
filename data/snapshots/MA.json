@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:06.810Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:05.025Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    490.6400146484375,
-    489.94000244140625,
     494.20001220703125,
     505.7900085449219,
     499.70001220703125,
@@ -24,11 +22,11 @@
     495.239990234375,
     489.0799865722656,
     486.510009765625,
-    489.9800109863281
+    489.9800109863281,
+    490.6400146484375,
+    501.3299865722656
   ],
   "6m": [
-    553.72998046875,
-    542.3099975585938,
     545.52001953125,
     540.4400024414062,
     537.5499877929688,
@@ -158,10 +156,11 @@
     495.239990234375,
     489.0799865722656,
     486.510009765625,
-    489.9800109863281
+    489.9800109863281,
+    490.6400146484375,
+    501.3299865722656
   ],
   "1y": [
-    568.6699829101562,
     569.4500122070312,
     538.72998046875,
     532.969970703125,
@@ -410,29 +409,31 @@
     495.239990234375,
     489.0799865722656,
     486.510009765625,
-    489.9800109863281
+    489.9800109863281,
+    490.6400146484375,
+    501.3299865722656
   ],
-  "lastClose": 489.9800109863281,
-  "oneYearReturn": -13.83754625505885,
+  "lastClose": 501.3299865722656,
+  "oneYearReturn": -11.962424124068622,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Top Stock Reports for Mastercard, Seagate & Intuitive Surgical - Yahoo Finance",
+      "headline": "Mastercard sets Aug. 7 payout for 87-cent dividend per share - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQajVqSUNZZ2IzbUg2RUdJTUtoY1RyeGRMMVFBRElGLUJqVjNIY3pzSXpaTHM3MWpoOERuV21NU212cWpiYml5cEN4aFVMM0UwNWNRbGlTYl9LUG1KekVuVzBSdWktUFZpUHRnc25RcUd4LXRaTlhfdnZqYllNSVlaVkN5Yk5YTEo1NlNYSU5tSUdaMjJLMlpLc1ZGOUt4OVJGQjQxVw?oc=5"
+    },
+    {
+      "headline": "Is Mastercard Incorporated (MA) A Good Stock To Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdUplaWNmZHBTaHFIdHQ1TWNfN1dEYmRvNjl1VTlVLXZ1bjk5eHc5TEE2MTRmN212MmlHREhaNGhsRkUzdUctek1jVjhEM2pIY2hkQ2pjVEJ4el9lZE93MHdxa1FTSkxjRkxpMTJOLUFoMXozbzdlUjE0UDBBTXlRN0R5VEdJMzZlWVRHTUlQNkxQVUxlS3RMM2dQUmoxaHY1REpn?oc=5"
+      "when": "2026-06-13",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWdLVGczMXpMUVB0dVJJalRCZnV2aTNGYmlZeTBaMjZ2WGxSMzhzSm85RmZ0dk11ZTJxN3ZYWmhvM2hHZjFHbnJaMXJ2dFREVTRVcGhZSG1tQ1hfdUpuTm1aSXlRbUljeDBTZU5fdDBQZ0FNSDVTS1lKa0ZHTmV3NWJaTXhpOXQtUERuek95WjBzOWM3a19IUkZaellTejNWNk81ZQ?oc=5"
     },
     {
       "headline": "Mastercard (MA) Stock Valuation After Swipe Fee Settlement And AI Agent Pay Launch - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQzZobkRDeWJObnpxb1NIVjdXSjF3U2pNQ29FRjY2dF8wS21wVkgxXzlGbTZPeWc3ek92ZV9YTy0xU2g0SHI3aUttTmNZSTB6cFZJOWNEMnRsS1drdW5pd2pHNDNlVXZoeURIMjI1bkN6bU9yUG9taHhRQ2szbE5Zc1BJZzdPaklsUnpXejhhWFU5QVRIM2xCYXM4RDJPQ1l5b3NtcGtkeVVSSlhsRWdMOVN0TWtOMHJmSVN2X2lqbnVKbWNYblZFY19HNmhKRnhrcG5MZzJ30gHbAUFVX3lxTE5Rd3M4ai1KZHlkOWQ1WGdHZm1GelA0Qi1tWjFyOXc5ZGc4SGtKNWQxT1FhZ084c3k1a2wtVFl3cmE0bGNKVktrNXh2eDZYNFU0MmI2QzdEVjU2THpDb2hDajJNX0V5clBFdDBRa00zcnVxUUN5bVVzLVVuZkVZOEtxb1VyRXlfVGx6UDlqenVpV1F3YUZwNVk4bWRadVZLQllqLWJROWh4NUJwZ0ZBTEM3Um9ET2ZGNWxVNG1MS3JfT21PUkZ2WExiSnl0Z01DcXRYRlFWMlhmYUlOOA?oc=5"
-    },
-    {
-      "headline": "Greg Abel Just Sold Both Visa and Mastercard Stock but Kept This Top Buffett Favorite - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbEU3Y3dyeUFCMHBiZGIwdWdLd19LeU5oUXRHdjRSTjI3ZC0xMmU3ZTdpd0lkUkFjM3c0WTBLRXFsaUZVbzZ1MldnQ21FUThZOFZfNm5IbXZyTHMxRTRub3dUY3djeHBQMUQzY0Z2blhJdzhFSHZSbmJ3WEJuRnJLcEJ0THJnMWZWb1lWWjJHUG9DSndqdVVodw?oc=5"
     }
   ],
   "insight": "Tracking Mastercard (MA)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:22.714Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:19.491Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    172.05999755859375,
-    173.64999389648438,
     168.63999938964844,
     169.16000366210938,
     171.75999450683594,
@@ -24,11 +22,11 @@
     213.1699981689453,
     206.94000244140625,
     218.74000549316406,
-    223.5399932861328
+    223.5399932861328,
+    223.2899932861328,
+    227.17999267578125
   ],
   "6m": [
-    178.33999633789062,
-    176.66000366210938,
     179.36000061035156,
     179.4499969482422,
     180.47999572753906,
@@ -158,10 +156,11 @@
     213.1699981689453,
     206.94000244140625,
     218.74000549316406,
-    223.5399932861328
+    223.5399932861328,
+    223.2899932861328,
+    227.17999267578125
   ],
   "1y": [
-    158.14999389648438,
     156.92999267578125,
     160.44000244140625,
     158.83999633789062,
@@ -410,29 +409,31 @@
     213.1699981689453,
     206.94000244140625,
     218.74000549316406,
-    223.5399932861328
+    223.5399932861328,
+    223.2899932861328,
+    227.17999267578125
   ],
-  "lastClose": 223.5399932861328,
-  "oneYearReturn": 41.346823846511725,
+  "lastClose": 227.17999267578125,
+  "oneYearReturn": 44.76518401752374,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Williams-Sonoma (NYSE: WSM) EVP sells 1,112 shares under 10b5-1 plan - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcnVEOVp0MXdVdUxDd1ZGaU5uSjU2dk43X1RHdWp2QVA1UVpKWEg5VE5KOTRRUG9seHBMRDVNUnZEeEJUUkxxLW9WNEVXRGFvcnEweUJ0NzI4Y09QckNCX2ZJQUhVUGl6NjBlOFJKaXlEVktMVHFPM29sNnVQM2JJbUxHbmQtcUlMaXh0Q21Ka0JmWTZ5bVlMN0kyZ1FtZk4yejNIUWNPWjBBenRNMjZJR0R3?oc=5"
+    },
+    {
+      "headline": "Oddo BHF Asset Management Sas Boosts Holdings in Williams-Sonoma, Inc. $WSM - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOckNvcWdGbXZaWTZ6YXpIeUVZbzdOeUdfb1hXLUZWbVRYNW9uV3E2bFY4VDFfUDlJVmFVV1pCRHVwNEEzR2thMXM4RDlOOVc3d3pqbGQ5cTNxMDQtNk9ndEc3ZlVPcWpIMFBPUjNISE5qdHJvZ1BDMkFpVmloWlJWTzJvbzBfVk5wU2JiUVFrZVFIRDlOREFrcERuMHJIQW5tTDExUzlaSHFOeGx2akFsYjE2M0ZjMjBoWk9VdFFEOU9vWTFXcjdhaGxvOWRjZw?oc=5"
+    },
     {
       "headline": "Is Trending Stock Williams-Sonoma, Inc. (WSM) a Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-10",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTZVeWZvRVBDa0NWZzlCY2dqQ2c5YldpVC1MRm5zNkRDbm5TY1BqY0trN0FPYnlzTGtyZzh4Mk1hNUZTQ0pDQm90clBBbmNZMEhobVA2Uktfa0NvMzFidVNMODNZbk93TUtQRS15RC1sNHEtR0c2bnRuVy1iU1NUYTNPZkQxZlh3UGo5MzBPbUVDRkRPTjRhU0FhTlFOMHYt?oc=5"
-    },
-    {
-      "headline": "WSM (NYSE) insider 10b5-1 sales: 2,267 and 522 shares reported - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWXBDSmJpcVYzeE9LS0dNWnNOTTBQVURZajFvUFFEWkd6UTB4Vzd0Y2dOMVl2bEhKVFVXdU9vb2JjMlpjMm05RlF0X21JV3ZYc3JxQVM3WWlpaG9xYU1lZy1VN1piaEJDOVdtQVkxVk1CX1Uzd3lmQ3hrdU1aWHJwbnl2b0JGWTV5TDJkaVJacXFIc2hBRVEzZ05sMA?oc=5"
-    },
-    {
-      "headline": "Entropy Technologies LP Grows Holdings in Williams-Sonoma, Inc. $WSM - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeFRUQm5JMFJ0bjJFclcwRGQ3MF9RcGNHbUh5SFQ3eVRHc1pIMlBXRFR5dURaVUFpaVh4WjdXanRKSDdQWlQwZ2dvSFNwb3hFRG14Vk5veFlrUGpRSEdpM2xQaDJPMFZBOWVCYVpnRHE2VHhBTDk5N1Z1N01SODZ1UUYzYnJWcGN2R294Nk1aQnE2MTY2Q2w0enR2S1FGWjBFVzFFN3ZqZUZVUnN3R1FyYURjQUxBc1h1RXdPV1JaYUN5bV9F?oc=5"
     }
   ],
   "insight": "Tracking Williams-Sonoma, Inc. (WSM)."

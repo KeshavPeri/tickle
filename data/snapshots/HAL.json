@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:58.115Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:57.415Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    41.02000045776367,
-    41.290000915527344,
     41.7599983215332,
     42.779998779296875,
     42.97999954223633,
@@ -24,11 +22,11 @@
     39.619998931884766,
     39.72999954223633,
     39.7599983215332,
-    39.599998474121094
+    39.599998474121094,
+    38.18000030517578,
+    37.20000076293945
   ],
   "6m": [
-    27.399999618530273,
-    27.829999923706055,
     28.450000762939453,
     28.079999923706055,
     28.579999923706055,
@@ -158,10 +156,11 @@
     39.619998931884766,
     39.72999954223633,
     39.7599983215332,
-    39.599998474121094
+    39.599998474121094,
+    38.18000030517578,
+    37.20000076293945
   ],
   "1y": [
-    22.90999984741211,
     23.010000228881836,
     22.280000686645508,
     22.280000686645508,
@@ -410,29 +409,31 @@
     39.619998931884766,
     39.72999954223633,
     39.7599983215332,
-    39.599998474121094
+    39.599998474121094,
+    38.18000030517578,
+    37.20000076293945
   ],
-  "lastClose": 39.599998474121094,
-  "oneYearReturn": 72.85027820981968,
+  "lastClose": 37.20000076293945,
+  "oneYearReturn": 61.668841342498226,
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Halliburton (HAL) Stock Sees Modest Fair Value Lift As Analysts Rework Price Targets - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFNiM1hNVFpNZm1qTXlQWHJ6ZVVYRU1GVmJsb3RfdU9Gd1NmTjJWaXQwWWxSYjQxZW13Ykx4NnNEM2xWNThDNlU5MFhrLWZNeEsxOVlvWVNWT1NSOHFfOG96Q0pweWdKMkt0ZFlDekVZRERQZUxQa3NKSkl2X28tNEZYTEY0SHB3MzIybFowQ1FCdzJyNXVlemUxUWU3Ymc?oc=5"
+    },
+    {
       "headline": "Why Halliburton (HAL) Stock Is Down Today - StockStory",
       "source": "StockStory",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVlVfRGpDcEFZLWRfSWdUaUNhNGZad01oaGd4aEZQcmR3b29ldGtLMEFTRnpla2dQSDlQQldoR1UxRmE2dnMxT0JIVmJobFFLWWhyR3drYkVEUEYyYTUzb0p0U1hJeVdqWVIyZGJqbzZkOUQxZV9JbGVEQVNaQkF0TVg0U2pwdHV2MGFIRl9wRGg5QU1MamN5eGgtUHVlTVU?oc=5"
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWjVDSFZCVjVTNFVrYkdrdVI0ZXpKczN3NjJiUXUtUXlUa3gwM2ZZZGVyamh6N0daNVg5RFdKcFE4Y3NxdGpORV9fWWpyX1h4VzNQZTZCR1RlWlJWdEs2WXBRTmQ0SlJad2tUQ2VuZTZRaWVnR3RrR1NuX0hWbWpJTzVOLVgyZU9MbHNpeHFiZGVHVS1EWFVXYmM2WEkwUXJmTGZrZ1NMZkRYSUxZMGp1dnk4NGFxdGpxZFdBS0FZRWxSUTR6eS0waGtXWlNidkFlRjhLTDNxRmxEWmItU09ZQWVxR2dyZjN3Z2tJSU5WTm1XU1dzSU9yS0FZZ1BNQQ?oc=5"
     },
     {
-      "headline": "Halliburton (HAL) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3hfb3EyODJRX2l4MVUyZ1YtYUw1V3UwNktVV05yRElOUDZDYnRic3F4MHMxdGNCbDJBdWRxMlUzTFB6VGUxaWdQMzR1MkE2M0tWNmF2VzFZcUtGX0EwWFRVYkZOV2poVGEzZnFFdlU5dDQ0XzN3aEZ1bVg5WkRZRU1uOFhIeXgtV3Vz?oc=5"
-    },
-    {
-      "headline": "Halliburton Co. stock outperforms competitors despite losses on the day - MarketWatch",
+      "headline": "Halliburton Co. stock underperforms Tuesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZkZHT0hsS2JDVjc3LTZlU2tGVmtobkJMeE1SVGxTYlFuR0EwUS1CTUJwSk43ZTJROFNTTXlwN0pJQWRDTlVSZ0pzckotQk9tQ0Y2bkc3NmVQRHUta0lHTEktWkZ3a0ZQOUQ1UGhlWUpnLWFmWnhaVlFuY3R1Ulg5NjdveDVrM0NURWEzeVB1dTVMbzNCc3JOTjVUdHQ1MlNuNlhrTWQyWDIxczZxZE9sR012TW5VVENhWUdhQ3Nya056ZVFqd0d0bzFHZFRJRHd2S0ZhYlhpSWRkUjdtcFhrckp3?oc=5"
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZVNmdl9KZHdsWHQyWVVGQWV1c0VqaG16bnlKM2djMi15Z1dSZUJId3pqdDdXb1VneGp2SWstRjc3Z1hjNkRZdGxZbGs1TnR4Tng5UjlfUXpWc0I2UGlOTDBOdF9TcXoySEtnNnhFRFFzd2EyZFRPaG0xUnlJTm5OejBGT1UwT19KSlNWbDg2ZTZtZmRibWpReTEzRzV0YzktSlNWc1RuRVUtV210Q0NhSnN5YnE5RkVkY3Q5aS1CLW13NHU5X2VnNDNRbWJhUkJBN0MtalRzbFZKQ0VONHdGYzBsTQ?oc=5"
     }
   ],
   "insight": "Tracking Halliburton (HAL)."

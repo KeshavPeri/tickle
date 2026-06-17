@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:34.695Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:36.836Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    309.6099853515625,
-    312.7699890136719,
     313.4800109863281,
     312.239990234375,
     309.30999755859375,
@@ -24,11 +22,11 @@
     318.3800048828125,
     313.3399963378906,
     318.489990234375,
-    325.44000244140625
+    325.44000244140625,
+    335.3800048828125,
+    340.739990234375
   ],
   "6m": [
-    368.1300048828125,
-    371.1499938964844,
     370.3500061035156,
     362.2799987792969,
     363.9100036621094,
@@ -158,10 +156,11 @@
     318.3800048828125,
     313.3399963378906,
     318.489990234375,
-    325.44000244140625
+    325.44000244140625,
+    335.3800048828125,
+    340.739990234375
   ],
   "1y": [
-    294.2200012207031,
     292.80999755859375,
     296.4200134277344,
     298.5899963378906,
@@ -410,12 +409,20 @@
     318.3800048828125,
     313.3399963378906,
     318.489990234375,
-    325.44000244140625
+    325.44000244140625,
+    335.3800048828125,
+    340.739990234375
   ],
-  "lastClose": 325.44000244140625,
-  "oneYearReturn": 10.6111077055173,
+  "lastClose": 340.739990234375,
+  "oneYearReturn": 16.368974104509547,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "American Express Co. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMjdYVC10SU5ZNkluclB4dEZnMFIxanZHNVdQYkJPdG56bFhzWUkyU2NMOVZhbGhrZGdidmV2ZjU0eWMyTDlUdm5DdmtMVzBuNmtXLS0wUmRuRXZRZ0plLTNoYnZiMDdCNmJaVjNSMld6a3FDY1l1QTdFRnRWSXFoeEJPNlNGOUtJTzZtTXVGWjM2VnBMUXNXQTFjV2JDNjcyMDQ0NUM5cGx5SlQ3eDNuXzRfeTgxOUY2ZURja3VqNzNLV05nQjhjOXRfTGZiNUlRbWdSQlUtaUcyQmRZTFVKand2ejhLNUpMRktFdQ?oc=5"
+    },
     {
       "headline": "American Express Shares Edge Higher on Planned $700 Million TheFork Acquisition (AXP) - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVzU1MERVaE1jWnU1WENpVkoxbm9rdDN4LWJnd0hlckdZQUlfQkpBWGFnR2g5cVZOLTF6TnB0WHQySXo2Y1dDcGY4SHNkMU9IbzRfT1ZaQXhUNWo4QXNDM3BMcmhGRjJTRnpFeG5jVUZITC1QMlp2SldiclFoY2RSQlVLV1hJcnVEaXJtSzdoNU8yaU82a2kzT1hDSGtaRzFjR1E?oc=5"
     },
     {
-      "headline": "American Express Forks-Over $700 Million For This Reservation Platform - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEFDTWsya0ZWalZJUlppRjA5bGFiRnlMRW9PdnpaMXQ4azg3MWdjbktWbV93ekMtU0pzYTBkWGtWSEZCZVdaZWM4WkttVjRCZzMtUXAtcWcwR3J6MUFVWFQxUVR5cjJMUFUxT0lOaGRQU2tiQ250Z2tDeXJCOXdwU0t5ZU8?oc=5"
-    },
-    {
-      "headline": "American Express eyes $700M deal for app with 50,000 EU restaurants - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmdBQnM1Y0pyUGwyNDBJWFplSl92UUhBLXRIV2JaQnRwUWVfOGg2SENQc25wTlE4NlpvaXBlWVpKZ3d6eXRLVWxjakJRTWZWZnlyZHlzWFlIamVMM2dKZVdVLWx5Vmtpc1I1MTAtX0d1WTRZOGtmNTNPNWxnQ0laOEhDM2s5TDJwVFU5YzYzS0pydHdfdFJ0ZFlmRHJwYi1oRG93UWxvZmlCNU00ZzQ1akZyckswQQ?oc=5"
+      "headline": "American Express Company $AXP Shares Bought by Mariner LLC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVJDemVjd2x4bTh4Y1doel9MdkhMb09uQ2VOX2VKNUUzZmhOZ0E0Ynh0RWJHRm9Id2NpcmJpRExHSjdMX2xSYW9FTFV1Wm5UckQ5WUpvbGwtcGhQMWlvYzVJRE01Sk5iM1dBZC1JeDRwdHNPc0gtcHRpeGlVT3JtUVRvYkRjcEVCTlRKMnBjN2FCT1E3c25nR0Q0YjFqRHlhdzM2YTM4YzlKNDlmc25WWnJOY3VPUEY5RWc?oc=5"
     }
   ],
   "insight": "Tracking American Express (AXP)."

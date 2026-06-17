@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:15.247Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:12.681Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    153.9600067138672,
-    155.57000732421875,
     154.11000061035156,
     154.4600067138672,
     151.02000427246094,
@@ -24,11 +22,11 @@
     151.3699951171875,
     150.58999633789062,
     150.4199981689453,
-    154.39999389648438
+    154.39999389648438,
+    154.7100067138672,
+    158.30999755859375
   ],
   "6m": [
-    158.7899932861328,
-    162.60000610351562,
     163.1300048828125,
     164.19000244140625,
     164.92999267578125,
@@ -158,10 +156,11 @@
     151.3699951171875,
     150.58999633789062,
     150.4199981689453,
-    154.39999389648438
+    154.39999389648438,
+    154.7100067138672,
+    158.30999755859375
   ],
   "1y": [
-    148.5,
     147.57000732421875,
     148.33999633789062,
     148.9499969482422,
@@ -410,12 +409,20 @@
     151.3699951171875,
     150.58999633789062,
     150.4199981689453,
-    154.39999389648438
+    154.39999389648438,
+    154.7100067138672,
+    158.30999755859375
   ],
-  "lastClose": 154.39999389648438,
-  "oneYearReturn": 3.973059862952441,
+  "lastClose": 158.30999755859375,
+  "oneYearReturn": 7.277895033764348,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Raymond James Financial Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOblZHWTdCX2NNbGVwcWlWbnotTGF6Rl9WLVJwOV9MZ1RBN3lva0hpQTRvYWF4SS1ON2dqQkEyVVlWbE9tdmVkLV8tRG1pYmlLWDZOWWJuM0YzcXlhbm8xTVlnSUljeHpmdHVMT09hXzA5WlNVTmQ0ZUJRa1Nqd1lnZkNhWDV2d0JjOUNwM0NlWlNFOWI2b1NqOVN4MGpFNjJySUhBMmVwSHoxSXd4aU16LXpldzA1Vm8xY2tYamp5ZzJkaGRHMnU5SjRBZzhSbUVDQjFieUw2UVFiZHRDTHhBRFdkUVRJT1JJQ2NDQUlB?oc=5"
+    },
     {
       "headline": "How Raymond James Financial's Stock Performance Compared to Other Financial Stocks? - Barchart.com",
       "source": "Barchart.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPelNqNW85YkU1bmEwTjY2SXV1NVFvRzFmd1NaNFZKN2NyNzVZUUxXTVhXTjBhcS1DOExkUXFMRjBDZ3FMakVCNFBEMEFPWUxnZ0hXNzcxT3hReF9rREEzODQ4Vmd5Nm9fSU9wZW9lU1ZuLUlNMDc4ejNKUkhfdm9UUXNSb0ItRGJsMUJxTnVIN0RwV3Z1QU5TOFNHSUlwSVhQc2lLd3M3UzF3MnhYYkxlX09XWWJzcTd4ZWZlN0cxSDR2bHNm?oc=5"
     },
     {
-      "headline": "Raymond James Financial Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYkRQWGpnVXNFLW9RaWl2emNrQ0ZCMVhxYWJnX3JGRHZQRmNlRXZpXzZSaUlCYy1QalBjQ2d5UUFOcHZmLWVKUVZQZnhUdUhxMktjaUY3dHNsTW5nR0I3aF90N3VkSlUyN2pNbEc0MWQ3b1pibko1SDdaLWUzblRCVGRScTRoRkZfdHVCNHc3eGFLNXJIZUoxd1pQWG14TGZKUWVjeFBrYlVWYWlLRG5Rcy1ra2ZwdGZNRnp1VGNFaTRjT190WG1fSVhhR0tiSzZCN0h0VzFn?oc=5"
-    },
-    {
-      "headline": "Raymond James Financial, Inc. $RJF Shares Bought by Landscape Capital Management L.L.C. - MarketBeat",
+      "headline": "Basswood Capital Management L.L.C. Has $24.96 Million Holdings in Raymond James Financial, Inc. $RJF - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSkJCVlZRVFJ4MFFJa1RJSFUwbVJiSjhuMWNjV21WN1VPQWxwSW5DNU01Q205N1c3d1RBbUwwdlE4ZUg4eHRNNDdDVXY2ZWJTTXFBYmhNUDIxYzBMOGRtcFdKQTZrMUdKb1Mtem4tR2NDU0VGaURtQzNmOFFJdThwSUdsdDA5dnhuRTFJekdIWHdSQVAyOTZ2Y0dzR3l3MU1WZ1pTaE9HeWo1TnFSUlZsWDBBbEJ3SUVxT25BMFRTT1hnczBQZkxlSlc5MHZLdFVGazVzQVVxNjlQdw?oc=5"
+      "when": "2026-06-14",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUUZyN2RXQUY3aGpmTjNpM1Iydmo4alNBT01pRldwLUtQdEwxNlg0ekVBNzJacjd1U0d3T1VnVHh5YVJuRTJyVDJrZ1huY3dBZE9aNkV6TnZIY3dSeEQtNEc3M1NUb3k2TVZOcDR2N0tIRXJiWU9NVGtaT2t2TDFFV1lOS2o3NVltMzkwS1IxN1pjenpIR0hhVzhmWDE1djNTRWN4Sk9zV2dhTjBOV2tFdUxwSFBjWUlVd1BpR0tjLWxHM0pPRThNQlU1UDM5VktlNWdtWGlvT2JxNjlENnRFNldXdmJKcllx?oc=5"
     }
   ],
   "insight": "Tracking Raymond James Financial (RJF)."

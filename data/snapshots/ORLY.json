@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:12.163Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:09.760Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    89.69999694824219,
-    89.68000030517578,
     88.48999786376953,
     91.73999786376953,
     91.91999816894531,
@@ -24,11 +22,11 @@
     89.48999786376953,
     90.45999908447266,
     90.0999984741211,
-    91.0199966430664
+    91.0199966430664,
+    90.26000213623047,
+    90.68000030517578
   ],
   "6m": [
-    98.61000061035156,
-    99.51000213623047,
     98.88999938964844,
     98.11000061035156,
     94.25,
@@ -158,10 +156,11 @@
     89.48999786376953,
     90.45999908447266,
     90.0999984741211,
-    91.0199966430664
+    91.0199966430664,
+    90.26000213623047,
+    90.68000030517578
   ],
   "1y": [
-    88.12000274658203,
     88.80000305175781,
     88.31999969482422,
     89.69000244140625,
@@ -410,29 +409,31 @@
     89.48999786376953,
     90.45999908447266,
     90.0999984741211,
-    91.0199966430664
+    91.0199966430664,
+    90.26000213623047,
+    90.68000030517578
   ],
-  "lastClose": 91.0199966430664,
-  "oneYearReturn": 3.2909598344251743,
+  "lastClose": 90.68000030517578,
+  "oneYearReturn": 2.117113951361237,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "O'Reilly Automotive (ORLY) Stock Could Be 17.7% Undervalued After Buyback Expansion And Sales Growth - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN0lDTzNwaENFX1FrNi1hN19OMXp3aFZkN0lGaURkS3Z1bXVNUkNoTXpaaTFqZW01akpaWFZKSWsxUkdXZHNNeTk5dVkyT0NwanZLeF9CWnJVbjVoLU1rd3pUYmFOSkpnM2V2QS1odWdkOGY1MDJjaTR2N2JMY0x2c2I0b3JzLU56bFNocnlzTFpKSW1HTTFNWXBDd1AzLWlFUVV0NFJsZEY5aU50NHVORlF5V1NtT1ktVnFwMklfcEw3blFUbjRKdlJQUGk0T1Jh0gHWAUFVX3lxTE9RS0N1RE40bGJYZFl6VlZ4Z1VyYXJ2YnMzTHlQN3ZNSURFUTVUaFZ6bXNUSk9uNTFBd2g0YXNZaGlETjkwemlnN3AzRmJ3dG11Vkx3ekFvSXVfZGpVckNuemZEc3Jpa0lNMWpPRV9TU05ienRoVGZtUFpuZ3pzczFPT0NWcXUtNFE5Vm1YRVVXVjdnSmVwY25KYnJqM0RxcjJhZG5rVXRxRTd6S3JaRWZmTk9PZDJEclNtbFpDRnBBWW9Ua0NoQzRaVjlXM0xtSG95T0RyREE?oc=5"
+    },
+    {
+      "headline": "O'Reilly Automotive, Inc. $ORLY Shares Purchased by Healthcare of Ontario Pension Plan Trust Fund - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM1Q1RXk2R24wTndRaGxwWTBiVkRHUWJmUEJKRlgtemp1bEJBNzBBdk9Wek5jTG1tckZUcERsUWRvS2ZvNDR1bk9IRzFCeC1FOHNmNTZBeTZ1eVBvRkprNjlBWmM0VXlSX0dtUThSdUkyOFBTOGZQX2pka3ItMlVWUVRDV0IwRUplc29sWWxySFd3aWVNd1JwbC1yN1BSWHdINzVXdXhVem5IODFOSnJNR0xWU1pKOTVmQ21Eb3VmVGZJcGtuUF9LbFU2cFU2VkxhQVdXc2pOU0NqN3MzeUNDRFRZcERRcGxab0E?oc=5"
+    },
     {
       "headline": "The Dip Is Here for O'Reilly Automotive. Here's Whether to Buy It or Walk Away. - The Motley Fool",
       "source": "The Motley Fool",
       "when": "2026-06-12",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHFTODRjbC0yTTRQcTA2MFlFazhBbUoyOUZGZ2w3Vk01eVAtSG9Kc1duOGNjVnlWRHpHRG04U25ic1oxY0FQSzZHM2dJR1h5YXM3dXdpLUFZNmNKVy15TlcxdTQ3TE9MQlBGT0FVQURUX0VSZ0VadUZhUjhWZnlIM1FNSjh0UW1WLVNwR0puRXRQckU?oc=5"
-    },
-    {
-      "headline": "O'Reilly Automotive, Inc. $ORLY Shares Acquired by Resources Management Corp CT ADV - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWZTc0F3c1J1YzFxUkRSWWQ5V29uNGl4LVNfN2h4ZFE4QlpxbXhYVWQxTHkySDF0QU5WdG9QVmk0NTBWUWFNUGMwR1k4RjdhaEVZd1ZSQVhCVGNsTmNmSnJ4SEx1dURWV3BlTGoyZFlIZ200MDVCUmtNdUpDRl9rdXZjbmRTTDUwa3oxdkx6dGV0cGw0QzRqd0pma09mNnBEaVNObHlZWUpQS09ZV3NWQ2dacktqYlE5MHpCZUdUQU81WlloSm11NENCQ1hMQTRzRWpiY2xDOA?oc=5"
-    },
-    {
-      "headline": "The Dip Is Here for O'Reilly Automotive. Here's Whether to Buy It or Walk Away. - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXVrMkFKN05RNVlLWF9Wa3Y1MW1jMFg5ZHEzUVhEckc0UDlnaERpVlRFQ0xxeGQ2YTdFdk1BdzdrRHhjZnVDa0NqaDlhZEdOYm0yaVc1YjlidkFxTUd2VWVoVmJVTEQ5T056UHh0aXZ4X0lDQXFuMWItRlVVOHVSTlBMdVI5NktrMGozMzE1eGxVZ0xVN0pQdnNXVkZLd2hEZnVj?oc=5"
     }
   ],
   "insight": "Tracking O’Reilly Automotive (ORLY)."

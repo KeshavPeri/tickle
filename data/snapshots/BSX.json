@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:37.528Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:39.089Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    53.060001373291016,
-    53.54999923706055,
     52.68000030517578,
     55.91999816894531,
     56.810001373291016,
@@ -24,11 +22,11 @@
     48.959999084472656,
     48.34000015258789,
     47.16999816894531,
-    46.90999984741211
+    46.90999984741211,
+    46.7599983215332,
+    46.91999816894531
   ],
   "6m": [
-    98.56999969482422,
-    97.72000122070312,
     97.5199966430664,
     93.83999633789062,
     92.52999877929688,
@@ -158,10 +156,11 @@
     48.959999084472656,
     48.34000015258789,
     47.16999816894531,
-    46.90999984741211
+    46.90999984741211,
+    46.7599983215332,
+    46.91999816894531
   ],
   "1y": [
-    101.48999786376953,
     101.7300033569336,
     101.37000274658203,
     101.30000305175781,
@@ -410,12 +409,20 @@
     48.959999084472656,
     48.34000015258789,
     47.16999816894531,
-    46.90999984741211
+    46.90999984741211,
+    46.7599983215332,
+    46.91999816894531
   ],
-  "lastClose": 46.90999984741211,
-  "oneYearReturn": -53.778696586062004,
+  "lastClose": 46.91999816894531,
+  "oneYearReturn": -53.8779154421925,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Jim Cramer Comments On Boston Scientific and Other Medical Equipment Makers - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFQwLWhoSGdvVGhfakpQUWwzT3MzZl9EakdQbUVpejVUUDBFUGdDbTVvLTRyYk9feHdILVFsbUozXzRtLWRuOWhOUlhmT3dsYjNWTGRGMjkwS0lFa05SaTZrWk9nNzNLWmxUTG5rM254RzNEemRROGFGTXcxRktnUUs4MVcxUUkyTzZ1elVSQ1pMT1BTYW5oalhuV0kzR2RkOXRJNGNkMHVvQQ?oc=5"
+    },
     {
       "headline": "Boston Scientific hits two-year low after flagging weaker demand for heart device - Reuters",
       "source": "Reuters",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQWNFQXV2ZVBOcGt3VlpDTFRUYnFoeWxQVEJVdkJWanVkeXl0SERVYXNpS0xkWmNlYmdvYjFiRWtSSUNrNUotQWhiQ2pWa2RzcTFYcVFtNWJDSUUzT1N5WDU3R0dTT2tQTmdIbmlhN0J0UlZQMjY1LWd0ZTZYMVZBZE9KYzZaZXRSUWljVG9CNXFxbzBScTJIZkRWZ0V2aW12ci1zOXRieFlkOEF5UzY4UXpMLTllWXFoMmszNWlidmdwMjRZU2htVU5TSzMtcHpCQnA0M3FyWEVmZl9aX1FOWXRn?oc=5"
     },
     {
-      "headline": "Boston Scientific (BSX) Stock Moves -1.27%: What You Should Know - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV3d3akdHUFRFSllYUGZsU1BnUlZPYmRJZGlka0xnREJuRWR2UnM1MUsxVFplUDRuWk03cVZsRzVzVW9JZlFnTVJFMGNsQzBOWlItU0ZKRHR6TWRvQW4zUC13RVBxeVV6aVREV3Y4LW5zRHhzeUs5TGdfU2g5LTZLMTQ3YWRQNHh1cWIwblltYWliSzk0c2pnUC1FLUNEd0k?oc=5"
-    },
-    {
-      "headline": "Boston Scientific Stock (BSX) Opinions on Recent Stock Decline - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdk9zbTNQMVNUZjEzWFNOQjE3UGNBcFdpckliQkJDM29Zd2hGRzRfazhFSTFkOWdfeWhTdjctS0FBUVhfdHYtcXZGV1hjNXJ6MnQ0WDU3LTBxOTR4NC1vZGxBUHBrWDMzSndqZXVfbk5DTDNyb0VpLTdRbUYzeVkwUmV1UC1HdkVUNW9pTGlDbEd1NzJuOVRKNlpmcC1BcGRE?oc=5"
+      "headline": "Boston Scientific Is the Worst Performing S&P 500 Stock. Here’s Why. - Barron's",
+      "source": "Barron's",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QQWpFM1J5SFFyZmpsTjQwSklWMmYtYUdVRTJPNkJmWEZiN01WSUE1ZVQ0OEEzY0E3U2ZYdEtPYUIxazRTbGp4dGJxMFdjS0VaMmJxSm1xaWtOX3owOTJ0S3NkXy1fTzktcWEyZnl6U0F0RTI5dENwZnRyVnhUcnc?oc=5"
     }
   ],
   "insight": "Tracking Boston Scientific (BSX)."

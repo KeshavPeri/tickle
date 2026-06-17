@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:18.885Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:15.768Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    183.6999969482422,
-    192.5,
     190.07000732421875,
     194.07000732421875,
     193.07000732421875,
@@ -24,11 +22,11 @@
     204.44000244140625,
     206.42999267578125,
     213.6999969482422,
-    203.36000061035156
+    203.36000061035156,
+    201.19000244140625,
+    200.02999877929688
   ],
   "6m": [
-    194.89999389648438,
-    200.8699951171875,
     202.22000122070312,
     203.82000732421875,
     197.11000061035156,
@@ -158,10 +156,11 @@
     204.44000244140625,
     206.42999267578125,
     213.6999969482422,
-    203.36000061035156
+    203.36000061035156,
+    201.19000244140625,
+    200.02999877929688
   ],
   "1y": [
-    168.41000366210938,
     167.9600067138672,
     175.9499969482422,
     174.9600067138672,
@@ -410,12 +409,20 @@
     204.44000244140625,
     206.42999267578125,
     213.6999969482422,
-    203.36000061035156
+    203.36000061035156,
+    201.19000244140625,
+    200.02999877929688
   ],
-  "lastClose": 203.36000061035156,
-  "oneYearReturn": 20.752922147287858,
+  "lastClose": 200.02999877929688,
+  "oneYearReturn": 19.093826377408636,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "TKO Group Holdings (TKO) Stock Looks Rich After Its $0.79 Dividend Declaration - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU1licGIxcnpXVkxmeWZEVExoRWJkTGxucTNXdUpvR3o4Wlp0RzQ0QTgwN1VMOExtWFVJUGhkMUhQRzNQMWs0LVpvZ1hPejVlbVZSYlY0eWYxYkExcnNXcnYyeFlmQWw5OGdoazFNcG9YRnFjdzZyNFp6UldNZld5dnJCV3gzOEg5LWtCVHM3MUdtSmFsN1JqWkx4LWF5bTlobk1JbWNSZjBQRFF2elF3NExsUDlNYmhFUmtqejVCUUJwVmJFUWJCUDNIZ9IB0AFBVV95cUxPWW5YSllNTjdONjd3UWRmY1VkOEUteDMwQjJaQlZnbzQ0YnR0dFJ2SEhIaWlVYVdXS2x2aml6eUNpNi11dlhETENsQTRtal9sOHFOMmduWjR1QlNHbTExblVfcHN0SElDX3IyZkxFNjU5cWZ4N1A3TEJSai1tVHhqM2c1UzB2VTFWNV80NGlnblRBSHh1dEJCcklDTG9COXFTUTA2cmc1dTZUclJTWUZwSHdYb0FyQnFRNTZGb09oNXA4NVNtYlFfdUFtTUFfNlhE?oc=5"
+    },
     {
       "headline": "Trump Owns Shares in Company Hosting U.F.C. Bout as Part of His Vast Holdings - The New York Times",
       "source": "The New York Times",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyWHEtNkN4WElxU2dVeVBWVEtQUHpXRUJtajhQdXJkNDZyczZxV1dfeENGZ2Q4dFRFR3JOdlBaRDhWbE5FUTZYTFh4QmgwXzZBQ0hDa29Qdnh0SEhiZUVFNVNjVjJBNWJrdjY4TVltUWZHQmJVcm81aXJ4TQ?oc=5"
     },
     {
-      "headline": "Here's Why We're Wary Of Buying TKO Group Holdings' (NYSE:TKO) For Its Upcoming Dividend - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX1ItaDRzNl96YXBxSnJCZko5RWRxVTNJN2U5N1RWNklEYnR6UkhRekZWaDNMNXAtdUYzemRUQWRfY21kUF9pTzBBZFNHSDhoQ1Z1V0pyUFZRLWRCR2VILWdfcGtuUi1uVzNNX0tEc1YwOWpsRDRPdjFpNGJweWozaXdKTEVCNzdvWkZXbWhwR3Q4MU05UVE?oc=5"
-    },
-    {
-      "headline": "NFJ Investment Group LLC Takes $3.97 Million Position in TKO Group Holdings, Inc. $TKO - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc29DVnZtbDg0TkswZm0xcm50Y19uSUhqRGhUSldRdkUwWDlwQWtQVDdEekptWDd1R05LWXFfeldZRmRaRkp2WnJ1SEpEbjQyMHg4ZXEwTkFrRVhsUkZCbmtUTGpQemVad3BzMG5LRThxWWNUT0hvV3NrbDJwRmRHWlJuTWZRRmRoU0xYVlprbWs3SW1kMkdCeTlqYTdKSVJyTU1CM21ISzlLZURBRkJQLWN6Vm1ZaGtjX0FtMXJpRG4zSHUwVk55UUpoRzZLWFZUbEhaaGdnVFZ5UQ?oc=5"
+      "headline": "Nick Khan of TKO (NYSE: TKO) sells 9,589 shares under 10b5-1 plan - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb2hqUjEwOTloNE5CN08xZHFrS2hqcmxBaEd4N0dibG1kcmFvaGEzYkVwUTFGYmVKUHhIRzRfZHB2LUlURE9VOGNCX3dSUkhNaE9BU20wWUM0amNWSGR1dE9pMFQxNGJZaldfTjMyZktydjVTZnVFV3RRbXJ0blctcVZwNUdFeTU3SWpKdzhYR2RvZ3BGbHdkSjcxNXVSMk5XcXE0TXlmVFVnMzFWU0lOeUFqVTh0UQ?oc=5"
     }
   ],
   "insight": "Tracking TKO Group Holdings (TKO)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:56.360Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:55.587Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    133.0500030517578,
-    132.05999755859375,
     129.5800018310547,
     129.6699981689453,
     130.5,
@@ -24,11 +22,11 @@
     125.5,
     121.4800033569336,
     125.87000274658203,
-    125.58999633789062
+    125.58999633789062,
+    124.30000305175781,
+    127.2300033569336
   ],
   "6m": [
-    125,
-    122.62000274658203,
     121.22000122070312,
     121.19000244140625,
     119.36000061035156,
@@ -158,10 +156,11 @@
     125.5,
     121.4800033569336,
     125.87000274658203,
-    125.58999633789062
+    125.58999633789062,
+    124.30000305175781,
+    127.2300033569336
   ],
   "1y": [
-    110.83000183105469,
     108,
     108,
     108.5,
@@ -410,12 +409,20 @@
     125.5,
     121.4800033569336,
     125.87000274658203,
-    125.58999633789062
+    125.58999633789062,
+    124.30000305175781,
+    127.2300033569336
   ],
-  "lastClose": 125.58999633789062,
-  "oneYearReturn": 13.317688588813295,
+  "lastClose": 127.2300033569336,
+  "oneYearReturn": 17.8055586638274,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Gilead Sciences CFO Andrew Dickinson sells stock worth $376,200 - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTlVMMm45Sk1iUURNWGE4Q29jcHhLWXJJTFRaQ0VZeUlxbW5kMjB4UzFTNHZfTldhN2tNVEJpR3hKd0I2aEE5U0dFQS1vd1dDMnhBYWdzaEJDeUE0WUhaMEwxbVZERmQ2aWo1VEF3ZlpGUDQxWWh2U1cxVHpSNkV6ZThlc205UWFRNXJzVlRmZUEzbF81ZGtHdEdlR2V6eUpzT0ZVSGtTTk5ZMzNWNngtdVJtcUpOOHJkclVaVExfWHdBNndr?oc=5"
+    },
     {
       "headline": "Gilead Sciences (GILD) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3RhTlFnWC1qTkw3YXFtQ0pBSmEtYW8zRGdPUzhJNVhQQjhBUmtlRkszQzJNaGM3MXlYb0tmV0tWWHNscG8yV1pIaXV0NnJLRVhpaF9Ub3NWYWxLOUdhQ2JrSnlkSnBHenloWGsxRUtDaHhReHNkZWVEVTA5di01ZmI3QVRVX09SREwzQkJfSUJVNGNEM1lrUVRsR3hrdw?oc=5"
     },
     {
-      "headline": "Nuveen LLC Boosts Stock Position in Gilead Sciences, Inc. $GILD - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcndoRmk2LTlpbW82bDQxSHlDbzVidnpQR2ItQ2xlbnctRzZRVUs0eWNKaHVtRUhyMDFJX2I5R1hGdFRGajFsaEdrXzdHdi05RklZaENtb19LMkVYMlBRcjNjOHZDREUtWWhKODZSRzNQTGR1ZWNUXzROTFF1eUxSVjd0RlNTNG5BTmJ6a09XNHFPLUpMdG5DSXo4N3Jic1c4LVRkN3l6YmxMUk5xWG9Jdm44UDY4S2ViN1BYZXlR?oc=5"
-    },
-    {
-      "headline": "Gilead Sciences Stock: Three Acquisitions, Four Launches, and a 20% Discount to Wall Street’s Target - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-05-07",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjFkbjFENEJnN1loNEhIMWNHTnkwdFZqdzQ5dHBQcWJGUzluQVQ0LWtGdF9YNTRabnJXc3Z5ZVBtTEp0ZjFUTFdRdmcxTmVpNFB6SFRPcVJUZ09yRi1sQzVrVHR1aGlUb3ZJMl9FcFladndvOU9XOW9tcm1SWU52eWFWa200WGVYT09MMWVOZHhzeUhPVXl2UXJZTEFleDlkcmdBbEhmWmhMdVlRWGZ6VXlRTm1pUVpzcWJ1dkNR?oc=5"
+      "headline": "Gilead Sciences Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR0JVblpNbEl5YmdfQ3UteFAxZ19DSjlrSzJiRGVVNXhGdnhvLWh3N0tTZEI3MXBjTFlmczRmeEhJbHNCb1lZaXlleGpvemJDejlrQlprMEUxV185OXI0WUhsTERqMjJuY1pZdHphZDZub1FkNUdqdlljbWt3d21LMF9OdDNUdGtGNGNpdFZsdk44eGk5cmRuc1phT0tFV3hPeHRRYzdJQl81MllhMkFiQlV6WXhtX0pCbXp4dnFDNW1GcG9vSWFCaFRCRQ?oc=5"
     }
   ],
   "insight": "Tracking Gilead Sciences (GILD)."

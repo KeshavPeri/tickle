@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:38.827Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:40.025Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    366.70001220703125,
-    358.6700134277344,
     363.0199890136719,
     366.2799987792969,
     362.9700012207031,
@@ -24,11 +22,11 @@
     290.6000061035156,
     301.0799865722656,
     295.8999938964844,
-    294.9100036621094
+    294.9100036621094,
+    292.9100036621094,
+    265.239990234375
   ],
   "6m": [
-    253.89999389648438,
-    254.9199981689453,
     252.75999450683594,
     253.22000122070312,
     253.02000427246094,
@@ -158,10 +156,11 @@
     290.6000061035156,
     301.0799865722656,
     295.8999938964844,
-    294.9100036621094
+    294.9100036621094,
+    292.9100036621094,
+    265.239990234375
   ],
   "1y": [
-    224.49000549316406,
     225.41000366210938,
     227.60000610351562,
     225.85000610351562,
@@ -410,29 +409,31 @@
     290.6000061035156,
     301.0799865722656,
     295.8999938964844,
-    294.9100036621094
+    294.9100036621094,
+    292.9100036621094,
+    265.239990234375
   ],
-  "lastClose": 294.9100036621094,
-  "oneYearReturn": 31.368878990512417,
+  "lastClose": 265.239990234375,
+  "oneYearReturn": 17.670017268608433,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Cboe Global Markets Inc Stock (CBOE) Moved Down by 7.05% on Jun 16: What Investors Need To Know - TradingKey",
+      "source": "TradingKey",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWUh5TTdJQzdlNVFvVFdaYW8xQUI0b01BOTVBeF9tT3AzMmJkbkxFbDN0WE1YdEJ6RnR2dVFGT3luSHFHYVRaN0VlTUxIdjdvRGpWYkpsdVZfeUcxaWRhb3luRllPclRfcHFWNE11RWRBU1F4V21MUFRqblloQ3pwRl9fN0gyTUU2SG4w?oc=5"
+    },
+    {
+      "headline": "A Look at Cboe Global Markets Inc (CBOE) After 9.4% Decline -- GF Value $220.03 vs Price $265.24 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbWxiQXRnRFlUMzFlYVAzdXpMVnFNWWhUVFNqYjFtV2R0bUw4bDRUaGJrZWJ3SUQ1MU1UTWdDZUZNV0p6c21rV0ljZzZzcmw3ajFFVjFBakIydzBJdlRfRmlDZWtKcVE1OFduTjBFb1hacnpNRVRPY0xTMFk3MTdFMGFfMDhOYXZ4azhsVEEwZmVGTkNNZnN6YU5BMVVlWF9LV2xEMk4tTHBZYTloZ1JoWmp4VkVGOUJIbW1jdlJGS2JDZw?oc=5"
+    },
     {
       "headline": "Cboe Global Markets Stock Eyes Upside After Selloff - Finviz",
       "source": "Finviz",
       "when": "2026-06-12",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUdJdkhkdjhtN1pzMzd2QUJ0cVJ3MW1FbFZaR3JIUGpIUGpRSVlOYzBJR003TWRnR05TbUROTmw3MTQ2LVUzM1pxUmM0R296cGZkcGxKNTZhV2ctOHhxMDVjV1YtRUtpc296QTBKT2NvRlRnV0dkRGVocmJHT25Zb1N2emk4WmJMVXc?oc=5"
-    },
-    {
-      "headline": "Assessing Cboe Global Markets (CBOE) Valuation After Recent Pullback And Ongoing Earnings Growth Expectations - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUHkwU1NiLTRFNEdVdU8wY29JZkVzWGNITnJpVV9yU3hrRk95SEtNZ0RSaVVaY1FzX3RrUU1ycUpkNGVibnZHemFnellKc2VRYVkwWEdaOVk1UHk3WDc1ZHBoWkp1aldoTmhZOV9ONTlscTRXRVo1R25RMmR3M21QSlE0MDEtZ0ZSMjY0b3ZCS243Z2p6SU5MU19fSHlwZlBf?oc=5"
-    },
-    {
-      "headline": "Cboe Global Markets Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWkxQbjB2VFFCc21yaFpZQU1YX09INzFJR0tsd3liOUFnRHh3V0c4bUc0T05JR1lqMVRIMDhLWmNVOVQxNS1UdVdrQUdGV2Q5ejJQLUJXckhXM1hwaklQTm9TMnNvamFiSHI1WUxnek8yWWRpdXVNcU1tbmpTUVdDVFk4MDFSazlRdXV3M0IwdEZYNEpnYm8xV0Q1OGNRRWxPYm1TRzBYN1NTM0lwZk5PWXV3TlhMdkdQRmZ1enNueG9JX1JRLWdYZWFvdTlsNEpL?oc=5"
     }
   ],
   "insight": "Tracking Cboe Global Markets (CBOE)."

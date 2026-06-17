@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:29.081Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:31.780Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    231.02999877929688,
-    233.86000061035156,
     236.6199951171875,
     243.49000549316406,
     244.16000366210938,
@@ -24,11 +22,11 @@
     224.0800018310547,
     221.27999877929688,
     205.57000732421875,
-    198.42999267578125
+    198.42999267578125,
+    198.60000610351562,
+    201.3800048828125
   ],
   "6m": [
-    307.239990234375,
-    305.8500061035156,
     306.739990234375,
     301.3900146484375,
     300.75,
@@ -158,10 +156,11 @@
     224.0800018310547,
     221.27999877929688,
     205.57000732421875,
-    198.42999267578125
+    198.42999267578125,
+    198.60000610351562,
+    201.3800048828125
   ],
   "1y": [
-    299.29998779296875,
     296.8500061035156,
     295.19000244140625,
     297.2099914550781,
@@ -410,29 +409,31 @@
     224.0800018310547,
     221.27999877929688,
     205.57000732421875,
-    198.42999267578125
+    198.42999267578125,
+    198.60000610351562,
+    201.3800048828125
   ],
-  "lastClose": 198.42999267578125,
-  "oneYearReturn": -33.70197100942119,
+  "lastClose": 201.3800048828125,
+  "oneYearReturn": -32.16102383619673,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Autodesk Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN196Q19NdlJ4YkV0akhsdGhGZ293X21PQUtmTlpyT1lhY0o4UHJ3d2NVeGd4Yk1GcU0takhZMW1BNWRyZXFSVFoxVlVSZmtrUmp0eGhBYUdaNjg4UGZiQV84ekJnc0VRdVpVVzRyNXY5aWl3ekt0cmFNZjRzcUUyT091aDBhbWVEYlNWNkpFbHNfY2JabW5CVENpcTZ5eURIOEtjWU5ycm9RaGt0UmNWbWpvSm1icWRVeGhvUnU5OHlsNFFuMFhMZ2hYdWo2bW4yb3p0X1dlOWFUQQ?oc=5"
+    },
+    {
+      "headline": "What's Going On With Autodesk Stock Friday? - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHVHREhRQ3luNEZGRDFZS3NiQXNkM05TX3VPekhMRGtEOUV1SlVKMWlHNGJvT0ZxR1hZY21mZGxyUjJ1aEt2Qjl5NmZFS3lQb3FtdDFhXzU4cjZOT0M5cW8xWl9VYXFIUlp4UDRfZDN0a1paaVVIU1JfVGRIdTNteE1nZWt2MzNRR1FnZUNQajFTMnhnVkY2QkR2OE5qb24wOU5PRw?oc=5"
+    },
     {
       "headline": "Autodesk Stock At Recent Lows Spurs Unusual Put Options Activity - Is ADSK Too Cheap? - Barchart.com",
       "source": "Barchart.com",
       "when": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHpMb3ppek9jZllNemtnWmItZXlubmpydnZ3LVBLQnZEalQwVEFDNml3SUlJVzByaktSOEduRXVzMzRWejlZTVhzbDFBUjlGM0VMSm81Q2lyTHZ0WEd6VnozRmtLMDJ3azVaZ09JbTZwRkF5VVo4cjMxNm5XbXZza2tvQnNxYjNmZlJzVDBuVUxzX3hPdWVMdjBadWw2SFZUaUxyWl8tdmF3R2lQZm9NUGlwT2VrbTRFaXdOWUJJb2xURmNS?oc=5"
-    },
-    {
-      "headline": "Autodesk (NASDAQ: ADSK) CFO Janesh Moorjani buys 2,500 shares in open market - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVi15V2cxamh4NklJMW9mRTMtRGkzQWlTczk2bFZTUm04UXU0UkhMbkV1TGJRUmRFR0ZGMWJfZm1PZUl5U3h5RGVfNzd0LTlwRGZRT2dlajNZQzRfMUFqVG1WS2R1a0Jqdlc5SkNEQmtmT0M2anhwanRtQU9QTFA1X3dXTjBDVWhiYmZheFlsOVBWbVlOOWJnRGxHa2lyNWpsMzNKdmxEajZDZw?oc=5"
-    },
-    {
-      "headline": "Autodesk (ADSK) Stock Valuation After New AWS Cloud And AI Collaboration - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaWNjbE5jNENVeGRwd0dBbHVCN083SWo4bGlIb1hXR08xNEp1M1N3T1owaWpSUE10d2p4VzNZWXRIOTRtTEhEejQwZmIzc3VUc2Y4MExGVnN3NHhGeFVPSXgwRzlDM0RCZ0tYMWxYUGdXd1RFdENxZENndnNXTE82OXRCM2xIN2FDRkp4RDZMbHVVZDNKa3BZWHg0OFBUUFBZSF9tTjNiRU5ocVRVSEtweG5lZXRIZEU3Z1JnMVM1eGd3Z0luSGfSAcsBQVVfeXFMTThKc2Y4VkRwSDAwcW43MjA4WGNiem1oUE5VX3lFN1ZfQ2tyVDJ0SWtzRmRTdFRsTnBYc2tOQWF1SUh1WmtIWjFSNUVxbl9jenZVVEZ1c19YWHBQYUV5dFZ3WkFoODd2eElKU1ptdjlaWV94MEJLRHp1bURrd1pOSlBIb29OV2tWZjEtVWkyX3B4SlkyQS1NY0h2Mk4zdWhVWWdiVGhPLWIyX21RSU1ldXJJVWRoZV9KNzZ0d1JQMUlxclVDT2VJZDIzY0k?oc=5"
     }
   ],
   "insight": "Tracking Autodesk (ADSK)."

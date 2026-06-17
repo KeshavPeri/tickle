@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:18.482Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:15.690Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    121.4800033569336,
-    123.08000183105469,
     121.54000091552734,
     123.4000015258789,
     127.23999786376953,
@@ -24,11 +22,11 @@
     126.61000061035156,
     127.9800033569336,
     132.63999938964844,
-    135.22999572753906
+    135.22999572753906,
+    133.1699981689453,
+    133.39999389648438
   ],
   "6m": [
-    90.91999816894531,
-    91.58999633789062,
     92.19000244140625,
     93.05999755859375,
     93.62000274658203,
@@ -158,10 +156,11 @@
     126.61000061035156,
     127.9800033569336,
     132.63999938964844,
-    135.22999572753906
+    135.22999572753906,
+    133.1699981689453,
+    133.39999389648438
   ],
   "1y": [
-    97.37000274658203,
     95.0199966430664,
     95.12000274658203,
     95.54000091552734,
@@ -410,29 +409,31 @@
     126.61000061035156,
     127.9800033569336,
     132.63999938964844,
-    135.22999572753906
+    135.22999572753906,
+    133.1699981689453,
+    133.39999389648438
   ],
-  "lastClose": 135.22999572753906,
-  "oneYearReturn": 38.88260440897032,
+  "lastClose": 133.39999389648438,
+  "oneYearReturn": 40.391495063495725,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Target Corporation (TGT) Shows Why Store-Based Fulfillment Still Matters in Digital Retail - Yahoo Finance",
+      "headline": "Here is What to Know Beyond Why Target Corporation (TGT) is a Trending Stock - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-14",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPazVZclV5cGtvd3l3T0JyNHl6aVRuVmdiQWwxc2NlQW9kWDZXQUtZVWlHTDNGYlh1U3dQRjZiVktlRkxvc0lCTmZzSHBiVW9lb2g3UEhuZXFtZ3R0QW5ibHRLMXBWNllZei1laG1BRk5aam5uTEdiMFQ5dFNra0luZHZBN2l0RS01d3k4SHEteDFwSnZSdjNLNDh5NHl1dw?oc=5"
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcE1nemZrTTVZZTdjcUpVeUJfcEtxNjlKdVlJcmV2M3MtTmxPdktaSkZ2Vk1KNXhWNHU3Yl9Ea01RdzRSaGI1OFlrcnZFN25mb25pcVI5S3RLWEp4UlFuelFfWU9GVW5IY0o5LWlyVGk5MEZPbF8yVkFZRnFzbm1ETHFueFVJdTVsQ3A1QVRpVUVQaUxhWWtuU3ZtWEdUclNP?oc=5"
+    },
+    {
+      "headline": "Okabena Investment Services Inc. Has $20.66 Million Stock Holdings in Target Corporation $TGT - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZWJzOG93V2JYeUhhV1AwNzZkb1VlbDN0TFEwQzM1N2VxdjNrczlsSm4zUF9RM2cyTHhzS0o2QzNJZF95dDN6bGVuaURZdDZENkg1UkxvWjJ1S3NSa2VkNTh0TGE5QjZQYVR6emlrMkhhbHMtQl9aVTBiNmpyUzZUWWJaZEFpeU5DLWF3OXBWZkxkN1lzUmJmNkNfdGVCVndYT3ZSaF91QlhUNmFnX1pTa291Q0t6bWxpWmRvVWVERUFleXlOejZtejYyTE9Sb24tYm9RNjNrV2wzQ19HZll4X0NYeHg?oc=5"
     },
     {
       "headline": "Target stock hits 52-week high at 136.32 USD - Investing.com",
       "source": "Investing.com",
       "when": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUGY4TXlfYk9XN0I0ZFJFczNjNjBvcTEybFBvby1MSG5yQ0ZkREJRb1lPTVdUV2t0bTEwNnFaR18ycm9WYVJoZ0Fpc1RTdTAyQUppamRaTFgybVVFOU1NX0V1dS1mZ3JlUjd6ZkJJMmYwNkU0WGR6cnpYWFdzMWhZRWdCU1RGSzA5Njg5UjNIUDdGZ0Mzd2pkTkRndXlCcTZT?oc=5"
-    },
-    {
-      "headline": "Target Corporation $TGT Stock Holdings Lessened by Marathon Trading Investment Management LLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaFNrejQyNDNNN2dINjhJVGFnc0R5aWNSOUtLYTViT0p5SXhnNFhJOEdFSk1LZFdvZGsxODkyZl9QNDNVcG9JQ2p2QUpvRFZtVV9VQTJzQlhBQnB0NG9rOU9qY1lTdmJFWV9BaVRRaFk1amg0RE9nVFdLTmxRVTZwd2xVR2owbFVpcFBGQlJsYnNFM1FNeTVoRlJsUUV2S1Z6b1FWMUlfcnkxUHdfdEFHWF9icnhMZGF3TEtUaTBfRTRVYkEwcVhER0d0SDZldWRoNEc5ZDhlMnFfdUN0Q3ZtekhURlZudUNB?oc=5"
     }
   ],
   "insight": "Tracking Target Corporation (TGT)."

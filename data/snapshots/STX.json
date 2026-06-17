@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:17.161Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:14.526Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    817.3499755859375,
-    804.760009765625,
     795.469970703125,
     740.8400268554688,
     733.3499755859375,
@@ -24,11 +22,11 @@
     846.010009765625,
     815.989990234375,
     868.0900268554688,
-    931.0399780273438
+    931.0399780273438,
+    1018.7999877929688,
+    1031.3399658203125
   ],
   "6m": [
-    258.6700134277344,
-    265.6300048828125,
     278.7900085449219,
     285.4100036621094,
     282.8599853515625,
@@ -158,10 +156,11 @@
     846.010009765625,
     815.989990234375,
     868.0900268554688,
-    931.0399780273438
+    931.0399780273438,
+    1018.7999877929688,
+    1031.3399658203125
   ],
   "1y": [
-    131.0399932861328,
     130.8699951171875,
     131.3000030517578,
     130.9600067138672,
@@ -410,29 +409,31 @@
     846.010009765625,
     815.989990234375,
     868.0900268554688,
-    931.0399780273438
+    931.0399780273438,
+    1018.7999877929688,
+    1031.3399658203125
   ],
-  "lastClose": 931.0399780273438,
-  "oneYearReturn": 610.500630135388,
+  "lastClose": 1031.3399658203125,
+  "oneYearReturn": 688.0644947658166,
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Seagate Technology Stock: Is STX Outperforming the Technology Sector? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDk1ZFhEVDF3dWRPc3Bram1nQkFXRGNlQmVPWEx4bWZSUmFjRG1kUDByWnh4QjFIT3VKNXQwbWpiN3prTFM3R1paYjk3VWVCdGVid0JwTzBhY2h5cURiMG5zUG01LTdWRHFlbU5YdDhIeGhuVTMtOTVGd1VhWlVmbHB1UGdvOHM5V2cwakNYSlJUd1dMQTZxaUtlS2ZrOTNsbVdHdVNFOTMxRk0?oc=5"
+    },
+    {
       "headline": "Western Digital, Seagate Stocks Keep Soaring. Why They’re Morgan Stanley’s Top Picks. - Barron's",
       "source": "Barron's",
-      "when": "2026-06-15",
+      "when": "2026-06-16",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXhuOW9vQThaWU5pa3JnQ0ZVLWM4X3NhTjd6bGI3U1dNSDNOT1JQWkJ3Q0ZHTkhWUnRuT09Ua0pjc1o3cDgycG84cHAxaGo3bG11X2NoUkdEWHR5NXpzNXl5dFhWLWRiTUtJQXV2ZGwxNk13bEJzWW94Z2JmVGd3aGxtaGwydXdTTjhyakltVEQ5SmRndjdvZDNMRnhCRFp3M3VmVDhB?oc=5"
     },
     {
-      "headline": "Seagate Technology stock hits all-time high at 1028.17 USD - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlVCNWtlQ2ZlNXJFQW15SGl5Yy10XzBjUV9qTXluSFhtVzJGd25LMFNaX09MbHU5S3A4Uy1YTU9XUGYxeGRVQXlQNGJETy1reFlVRFB6a0xlYUdlaURhQmRiSGs2M2hhcV8zb0tKeE1qNndGNVdqTG40dmVwS0RUcGZ5RGNwejI4bUg3OGlRT19ESFBGUk1FTk5qMjVNQjFubjB2RHB0b2d6bkNISDJXb21sSQ?oc=5"
-    },
-    {
-      "headline": "Seagate (STX) Stock After 224% YTD Surge Is The AI Storage Hype Justified - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVHpfeEgwWDJMR25FM3R2MjdDRklyRkprRkEwSEpCellBRnJsc0l4Rm82U1BHWUtURHN0RTlaR2VVRlJ5YmdWbmtYenpQRHF6ZUdiajNyTGsxc1RJa1BkMWVON3FnNkZQRW15T09nc3ZhTGNWdXBtSmZ0SDNuN3NtM2ktVEJ3elVKVzVYaEtpejAtMk1maGhsYW52S1lqVklOSDlsRjI5cnBMNHVDYXlTa1o1Z2RUQmc4VUJ0OE5YaTF3bW5oVjVJeUx2VDBvWVR1U3h5NkROdjXSAd4BQVVfeXFMTUNSVUZQcy15dVZ5NEZiMDNRZk0wWUF4bWNHbFE1d1JtcnhoSDh5WW1HQVZzMTdrLVFjM1R1Um1PbngyUU9Xc0l5RzVTRXBHYkhKR0dHbktYeG5Cdks3WWt2aF9IZWpUaG1ZTHpVUE5PUlJudmJ5Tm1vVDdhS0c0QUZGSk1pX2hRRzhQOXNSTDhUZXNmR0xLVnptUHRDZ3pFeGhDZ0did3RCYmllRXp0cXFjM3dzdVBtYkNLbkwyaTBVa3k3b3ZmNU02Y0dZMUFYbXF5UTBXUWx4R3NSRjhB?oc=5"
+      "headline": "Seagate Stock Hits 52-Week High - Here's Why - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONDRTQW9JS1RZX2lzeDg3eVdzajZDVnRoVmNLb2FxS1ZfRkZ3TmFrYUp3bEswYkdYcVcyRzlpSGMtQ2EtRFp6YW9SYkFFWkNYVUZUM2FIUld4VUlFbWNuSE85bkxYNkxvRXAtNkxyXy1wbmJ3blhURmJRQUh4MlZUYmc4VnpfYVhCUU5DSXpUMEM0S3RPMTFoVzRn?oc=5"
     }
   ],
   "insight": "Tracking Seagate Technology (STX)."

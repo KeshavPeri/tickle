@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:01.149Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:59.913Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    528.6799926757812,
-    532.8599853515625,
     528.7899780273438,
     545.7899780273438,
     546.489990234375,
@@ -24,11 +22,11 @@
     578.8900146484375,
     556.9400024414062,
     557.9099731445312,
-    560.8800048828125
+    560.8800048828125,
+    570,
+    573
   ],
   "6m": [
-    725.9299926757812,
-    717.469970703125,
     714.0999755859375,
     706.6500244140625,
     699.0599975585938,
@@ -158,10 +156,11 @@
     578.8900146484375,
     556.9400024414062,
     557.9099731445312,
-    560.8800048828125
+    560.8800048828125,
+    570,
+    573
   ],
   "1y": [
-    528.77001953125,
     520.5900268554688,
     519.8499755859375,
     523.9199829101562,
@@ -410,29 +409,31 @@
     578.8900146484375,
     556.9400024414062,
     557.9099731445312,
-    560.8800048828125
+    560.8800048828125,
+    570,
+    573
   ],
-  "lastClose": 560.8800048828125,
-  "oneYearReturn": 6.072580548350249,
+  "lastClose": 573,
+  "oneYearReturn": 10.067417822255326,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "IDEXX Laboratories (IDXX) Stock Could Be 23.6% Undervalued as Growth Narrative Faces P/E Test - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNHpWS18zNWxZQXE2bGRaQ3lpR21MTXp6dTQ4Z0M5VFhDeFJzTVFscVp0SGtJNEZTTDlWTlN6WjQ2T05aMkcyYkFUMnZOY2lyRXJZSi1pS05PeldEYTV5WjdyRFdMbVBrM1Y1VEVwZ01QMEZBWXBNcm5yemxXeFFHMmZ0MHFLTGJnbFFyWGZnNzUzTXk4MWR4Y1VodlJ3LWtNV2JJVXQ2S3B2dDRUUkZEQ3hGYjVPX05tU3ZCRXFqNS1BMTY0cERzcGpXZzNTbnVGS1Y0VVNR0gHbAUFVX3lxTE5kSUhQbmt3X0FvWVE5WEpOZDJGeE9seW5fWUtlRHBTVjF2aXlueFZ1cEFqcmxQRDBMM0FaUjJYX01vNlhBdE9iNmstcmdOU3NrSVFZY3dvZlVUWVNnMTBBaUNIZ2RHZGl3c0tmZGxUYk12Qlp5clJPa2xKYWphYzAwcU9oaVd3djI1cmVleHEySHJxODVfYmdESDV6OFpWQ0tGNm5tR3RIR2tyUVNyZ3dIMjNjbFpCaldvYUt5dlNZR2IyZHl1cG1uN04zQjlpblI4U2I5Z1dmZHdoRQ?oc=5"
+    },
+    {
+      "headline": "IDEXX Laboratories Inc. stock rises Monday, still underperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnpDMi1IODRuUldVVUtsdnRQb3BPUlZYeHY1cW94MGUzaXgxcnB0UXJ5YkFKR3RDR3d3RGNGdHBOUGlFR1FKVlNENm1qOUhoOHJmSUYxQ0Z3TU1zWC0wRzB5MEk4Rzd3QjRBZmJmbElSWkZfRzEtRjhxaHI3ZXE2SDRHNFVQb1lRdDR4b3lXakMtZ2ppSVBjSFd3amR4SERONmQ2Vmx0OHFBRzFHV3JWMkljZ0EzZmJRZjhjZHU4Sk9RcUJndGF3?oc=5"
+    },
     {
       "headline": "IDEXX Laboratories Stock’s 63% Gross Margin Story: Here’s What the Numbers Say About a $909 Target - TIKR.com",
       "source": "TIKR.com",
       "when": "2026-06-10",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOGttVTR4eDZPUHVncUNtSlVDeFE3YVktVXh2SUt2NlFvVHc5WnZhOUIxRXdORkQzazRMeDB1WlhJTVZOem41ZkFod3dISWQ5R2VQb2pQbmQtcXp2el94aXdoWVVRQlhoSTVRTGFnYUVqTi1vTUNwUl84eWkxVWR6UTBPWDBUYVN4UDJIRldEREYxV3NWUjQ1bE1RajJOc1oyVkR0b0VwbkY2RngxTzZVSWJjU1BFdHhGbDQw?oc=5"
-    },
-    {
-      "headline": "Is IDEXX Laboratories Stock Underperforming the Nasdaq? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1Y4VkMtdzktZlVDU3g4TjdSb2x3WEEzdXVZemMwNTg4bWhFb3pFVVdrMm9qeUlnQ0RQdmRwanVDVDV0aUhVWWJDd3lMSDU0d1BTSjRSR1gzTFBNWDFFc2xzN0l4VllEeWNQcE4xdVJsRHNLa0JfT0tCbjdsN3p1Zk9wU05ZZ0dlbUx6YkFoMWFJRVhtYkVkY29kdkc1Zkk?oc=5"
-    },
-    {
-      "headline": "IDEXX Laboratories Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNei13MFRycG9BZzA5NVh1MGVlSWVDODQ1aW9teFB5V2V5aWcwNWVLQmEzYkRoTjBkLWtURWhtTjc2VnR3Y1NSWHZ3YnNJeEE3MFNGaDBIcFlzVnRSZWdpbjI3RnV6MHIyMWo2VmtoLUZ6TnFKOWJBSEloUkRBcWoweXNnSWNuTU02SVlpVjAwRzlUNFd5OTZjbmhpUERMbndRenNXQUpwcHgwTVJUZHpIdHVFeGU1VzViZ0hfRTZMZWlQZ0ZwZlQ0a2NudnBJSXRqM0prQng2eUc?oc=5"
     }
   ],
   "insight": "Tracking Idexx Laboratories (IDXX)."

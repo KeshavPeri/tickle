@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:44.069Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:44.794Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    31.969999313354492,
-    31.850000381469727,
     32.68000030517578,
     33.20000076293945,
     33.79999923706055,
@@ -24,11 +22,11 @@
     33.93000030517578,
     34.22999954223633,
     32.650001525878906,
-    32.84000015258789
+    32.84000015258789,
+    32.040000915527344,
+    31.969999313354492
   ],
   "6m": [
-    69.0199966430664,
-    68.19000244140625,
     68.01000213623047,
     66.33000183105469,
     67.93000030517578,
@@ -158,10 +156,11 @@
     33.93000030517578,
     34.22999954223633,
     32.650001525878906,
-    32.84000015258789
+    32.84000015258789,
+    32.040000915527344,
+    31.969999313354492
   ],
   "1y": [
-    81.94000244140625,
     79.88999938964844,
     79.56999969482422,
     79.6500015258789,
@@ -410,29 +409,31 @@
     33.93000030517578,
     34.22999954223633,
     32.650001525878906,
-    32.84000015258789
+    32.84000015258789,
+    32.040000915527344,
+    31.969999313354492
   ],
-  "lastClose": 32.84000015258789,
-  "oneYearReturn": -59.921895076740874,
+  "lastClose": 31.969999313354492,
+  "oneYearReturn": -59.98247645812733,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CoStar Group Inc. stock falls Monday, underperforms market - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTE5PQlFGU3NXRzd2eUZOWXBtazZYSUxfeG9mM1M0akZ0TTFJLUROc3FnVjV5WnBmTUZGQlVQNGs4N0hGN1BRQzhCbDRLUFVralJOcjlpeGl1ZnFYRmRRM2lDSng2WHl3TzhSMVVUTlNUNFJoYU84SzN1WGlPWGp6VlFRN2NSNl84Sy1VeTh6M0NUeG5NV3FOZVZLeURIRmFFNTVkT1ZBNFRuWklmQ0N1WFRmb3c0X0FwQVpZazFvMlA3SmxkVkZBUjNYN3ZTSFk?oc=5"
-    },
-    {
-      "headline": "Assessing CoStar Group (CSGP) Valuation After Recent 3 Month Share Price Weakness - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdi1HYnJhN3Qxb21KbXBiQ1ZvNDJiZG1MU2Rlc3B6X0VLQmVYMXZERVpOVmJjeW9QbmgxWkJxcThGajZIVE13T2tJeElzS284TnVXNkQzLWswRE5Qb3J1WTRmMWV4eVRFRDVIVlpZSFZaMmNLS2s5RHpfNEpkSVN3VEdhREtkT1NfeWFXdm9tVnRSMlRVemZxRVNkMFJXd2R6QmVlVA?oc=5"
+      "headline": "LA to NYC: May’s priciest homes hit $35M as most top sales close below asking - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0dfNnNsVjAtclRRWlBJOE1WUjFjb21FMGlqejAyRGVPQklBdjZCQ2tYajNpRXRWcGV5T2NWQUgtWmJuOFdnNnNwVUF1OG9PeW5qZTlGdWdYQUVPOXlzVzRpRHNRaDdWVG9qSmpCZ2EzWm1mRmM0THUtVVF2bDZSbGEzczRVNXp1b2JweDRwTDZGLWM2Tm56aGNHTlhRZVFkRUQzS1pOZkM1MkZtX04xOXlzTXVNQmpaRWowaVBRdw?oc=5"
     },
     {
       "headline": "CoStar Group Stock’s Operating Leverage Is Inflecting After 60 Quarters of Revenue Growth and a $33 Price - TIKR.com",
       "source": "TIKR.com",
       "when": "2026-06-12",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWmNoWkMwSE1uOE5SdHNKbVp3M1I0NUtnczdDUF9zTjBWTXlfcE1IRjFLQ2FVYThxR2NZckwyVFVpN19JTXpIbFRFOFFxNDdJREdSTFctZHJZNEhFNGwxdUJ4clVZT3IxdmxEdkpFUUlzWjgzWXc3al9IcGtEUWpMVTBIbEFwOWhyRUhWMm5ZZXlLRUpkMWU5UTRBWE1HTEMtTUVXdXEzSzIyemRqRllPYmtGWTBYVTU5ZTZnTGE0ZlU2QTZTODdPOQ?oc=5"
+    },
+    {
+      "headline": "Assessing CoStar Group (CSGP) Valuation After Recent 3 Month Share Price Weakness - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdi1HYnJhN3Qxb21KbXBiQ1ZvNDJiZG1MU2Rlc3B6X0VLQmVYMXZERVpOVmJjeW9QbmgxWkJxcThGajZIVE13T2tJeElzS284TnVXNkQzLWswRE5Qb3J1WTRmMWV4eVRFRDVIVlpZSFZaMmNLS2s5RHpfNEpkSVN3VEdhREtkT1NfeWFXdm9tVnRSMlRVemZxRVNkMFJXd2R6QmVlVA?oc=5"
     }
   ],
   "insight": "Tracking CoStar Group (CSGP)."

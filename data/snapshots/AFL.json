@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:29.739Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:32.245Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    115.4800033569336,
-    116.38999938964844,
     116.80999755859375,
     118.66999816894531,
     118.41000366210938,
@@ -24,11 +22,11 @@
     115.61000061035156,
     117.11000061035156,
     116.44999694824219,
-    117.80000305175781
+    117.80000305175781,
+    116.95999908447266,
+    117.41000366210938
   ],
   "6m": [
-    109.04000091552734,
-    109.23999786376953,
     109.27999877929688,
     108.05999755859375,
     108.0199966430664,
@@ -158,10 +156,11 @@
     115.61000061035156,
     117.11000061035156,
     116.44999694824219,
-    117.80000305175781
+    117.80000305175781,
+    116.95999908447266,
+    117.41000366210938
   ],
   "1y": [
-    102.72000122070312,
     102.08999633789062,
     102.62999725341797,
     103.30000305175781,
@@ -410,12 +409,20 @@
     115.61000061035156,
     117.11000061035156,
     116.44999694824219,
-    117.80000305175781
+    117.80000305175781,
+    116.95999908447266,
+    117.41000366210938
   ],
-  "lastClose": 117.80000305175781,
-  "oneYearReturn": 14.680686966362035,
+  "lastClose": 117.41000366210938,
+  "oneYearReturn": 15.00637464371496,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Japan Post (AFL) trust structure sells 53,000 AFLAC Inc. shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUVVRnhBV2l0dnpBMnY3ZkwxZ1lyQWdfZlpPemxMUjdtY1pidk9maWMtdy1MZW9yZHhUWnhpcjRXM2laMWh3UzdNclE4bDY5R1A5RG9QOE5YaHJ1N0t2eXFXUkxrRGZyUmhmZnM4TDY3UW9QTXgyYjBzQ2NKZHZoQVZnempEV1ZySmZ2XzhHRVR4SW5jaWxyZmZDd1Z6S1c2QnU1WA?oc=5"
+    },
     {
       "headline": "Japan Post Holdings sells $5.68m in Aflac stock - Investing.com",
       "source": "Investing.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdVUxUThROU1wSjFPQThxRmRMRTZISEVDbEduTHdxYmNNNkdjNElCb0YtWWVteGRXQXNIaXR6bFBVRGRWN1FSVTZ5R0wtWVhSS01oQ3BkcG80d3MydUxfRWFjbUswVU5DSTJtSEsxRkxLM3pQRzluOGJ0aFV1Z1I4RkRVQXF1dmZaM0lKbkg4Q09ybGxzdmJYbTRBOFN5N244a2ptdFR3VGdNNjZSbk5v?oc=5"
     },
     {
-      "headline": "Japan Post trust trims AFLAC (AFL) stake with 48,500-share sale - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW9XcW5FZDVrbzFmVm0yVHRZSEdkNjhKV21hRDNiRFdpVkl2UF9rdGc4Rjc1NkJIQU04cWd5YVA4Q1I2RHcyTjZIemFBQWtnZGZGYVlwbzFJMktXSDh0YzBEdmpsekp6dzNCVEZKRWdKTkhGNmpiSTRHaUFjQlNKVU9lNkhtTll2MWJJVnVGaU5BNUVkRkR6b21hd0pSU21HdVg1bA?oc=5"
-    },
-    {
-      "headline": "Japan Post Holdings Co., Ltd. Adjusts Stake in Aflac Inc. - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1pvZ3h2RTRzU0t0ZTdTNV80d0JvcFZ2Z0QyTFZLTUFRWmpLOVpoWGhoTU9GTUdGc3hTUTdibFk4TGZaLTh6Rm1kVWJNVlZnSnhGU1hPMWtFQ1BSamVBUVp4dnp3U0M2bDFFQURVNFRKejN6U1VJWkZ4djFFdjBUS2t4RElNV1J2aUZPanFVV01ULXdmemtr?oc=5"
+      "headline": "Aflac Insiders Sell US$4.9m Of Stock, Possibly Signalling Caution - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-20",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSThaT0pfSFFQU0MzUk9EX0RBdUwzXzFnMzVLWkQ0ZVZ6eDRlS0RORW93RWdRdlhBVnBRSFA4ZWFnSmtldU03dDZ4cDJXY2JiZ3BmRThvdENKa2gtdFhBUkF5SHZzU2IxQ1RUMG12WjVua3RtY0V0RS1FanZQUzFlV0hXek9YajdiN2hJbU5MTklmUVE?oc=5"
     }
   ],
   "insight": "Tracking Aflac (AFL)."

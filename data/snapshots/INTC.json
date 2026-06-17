@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:01.884Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:00.626Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    120.29000091552734,
-    115.93000030517578,
     108.7699966430664,
     108.16999816894531,
     110.80000305175781,
@@ -24,11 +22,11 @@
     107.91999816894531,
     107.04000091552734,
     116.95999908447266,
-    124.56999969482422
+    124.56999969482422,
+    127.86000061035156,
+    117.05000305175781
   ],
   "6m": [
-    43.7599983215332,
-    40.5,
     41.40999984741211,
     40.29999923706055,
     40.5,
@@ -158,10 +156,11 @@
     107.91999816894531,
     107.04000091552734,
     116.95999908447266,
-    124.56999969482422
+    124.56999969482422,
+    127.86000061035156,
+    117.05000305175781
   ],
   "1y": [
-    20.739999771118164,
     20.799999237060547,
     21.489999771118164,
     21.079999923706055,
@@ -410,29 +409,31 @@
     107.91999816894531,
     107.04000091552734,
     116.95999908447266,
-    124.56999969482422
+    124.56999969482422,
+    127.86000061035156,
+    117.05000305175781
   ],
-  "lastClose": 124.56999969482422,
-  "oneYearReturn": 500.6268132572319,
+  "lastClose": 117.05000305175781,
+  "oneYearReturn": 462.74041992849277,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Intel Just Got a Rare Double Upgrade From Bank of America. Here's the AI Shift Behind the Call. - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-06-13",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYld1Ukx0dk1qVW8tZHIycmxfX0VnZTZTQzN0bzVsbXVVNG9DZi1RZHpld05MbkRBTExkY0xUTUhsY0Zlb2NJVUphRkpUcXR2R2hnVFJmZ21fb21MTGhkb3lzMmNseHNrWnlqQXRHNE1kaHMxeUdUbjNrNVVNZGhJYjZiZmFyVnByWkY3bzV4M0lhM1lYR0Mw?oc=5"
-    },
-    {
-      "headline": "Double Upgrade Hits Intel Stock (NASDAQ:INTC): What Moved the Needle - TipRanks",
+      "headline": "Next Stop For Intel Stock (NASDAQ:INTC): $5 Trillion? - TipRanks",
       "source": "TipRanks",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQTNOUmJNN3c3Y09WRXNNd3VUR1JzXzRMRzl4bXFkSnJpQ1gtR0NJMDJ4UEVZdXp4di01OHh6a1FaRXl1cjRtb2xTYWpSSFpYZkxSRFIzTnRvQUpEN1BoRkREaTgwN1YxR3hqZm1wODA1N3lOUURhWmVJVVVRUDQtdjhZUUV4NkdveHNtckVkVDN6SFdla0lQV1Nn?oc=5"
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOVphUUhBTVk2bXF6RUVKSVFCeE5jdHZWajhJT2lnSHVta1hiLVR6ZjJxNkZoNjRSZlc2MnFfSU16V0piZmhrd1lJa2R3YUVfOXk3enNVRFhLVm5ObTVqNE9uRVA2TGh4c2tqYWRsN0I3b2tUQlZXUjNxRXppQ1hOd05QVQ?oc=5"
     },
     {
-      "headline": "Jim Cramer Says Intel (INTC) Is An Alternative To TSMC - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-14",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb1ZMNmVib2xWSDl6UlY3Z0lXMGk4c0VUV2N0MktrY1B3ZzFCeXRyaEtWV3BqWlZFM1YyM0xraHV2N3dvWWF0ZTdOTFJady11YmM1LUhlVUQxODl0b3htZ2xtcTRqeDdncHJSck9zdGJ3MDNTNXBfVzllZ2x6ZktDTExpV21Pd0trUlpzbVlrTzhkMkNjd3c?oc=5"
+      "headline": "Intel begins production of most-advanced chip, inching closer to possible Apple deal - CNBC",
+      "source": "CNBC",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTk5Eak1oN2xPUHZMeUpPZXFCWEpXVjRtcDR1VlQtRkZDVlBzQnpCb05pSjk2d29hcjk4NFVmcUJDUmZEaXo2YWZqUVY1Q3Z4dEpURFBTRklFMm5DV0JDeVg1ZE1ZLWl2NXdVZC04VjAzeE9NOXU2RUo5aVlmam8xR21WdzNoNVVsSVNSTk4wMFBSdUV1OXhUVmpHVmdnX0lFdmVqQUVnQnZCQdIBrwFBVV95cUxQaEZaV05idXVmcEpoei1rRU9GM01WQkRRWEdmTXdkdHVpOFJhSmdYTzhEMFJhd280R3RDR3dxSnVPcFVJdEo4eDVJd2FYbnRrbDBTNHJETVpvVWFsS3EwVC1TMkQ3VWRReW1RSDI1OWpMcEZCOVdQZ3R2UFhVc0h4ZWE4MXM1b0Noc2gtdFQxX0d1d2szSkNWMGxvTVZ6SURBUXhsajJOVVFXWGI2YlpV?oc=5"
+    },
+    {
+      "headline": "Intel Foundry: Geopolitics Got It Here. Now The Tech Has To Deliver - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlAzNXowWERlNEpUdTF1YjM1YVpxakY5a21Xc1JuaDBSWkZuLXBVNVFGbEZocUJwQzA0M0xiQUlnMS1hNS03V1lTa2FiRC01eXM0VU5LdnpYQU9VQWJVX09ObFdJQ05zUzhoT2xiQ250NElPamlqaHR1cDZ5TjNfM05INWI5cWE2QjhqQUc1VnVFaXdaSkw4SzAyX25leEwyR1JEWFVSQXlZbGVCaTdmSjFvc0hicml0TGZjaUlsR25KUXhf?oc=5"
     }
   ],
   "insight": "Tracking Intel (INTC)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:27.825Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:30.430Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    112.73999786376953,
-    113.26000213623047,
     111.69999694824219,
     112.11000061035156,
     110.56999969482422,
@@ -24,11 +22,11 @@
     135.47999572753906,
     131.6199951171875,
     129.5500030517578,
-    129.83999633789062
+    129.83999633789062,
+    130.58999633789062,
+    128.33999633789062
   ],
   "6m": [
-    149.25999450683594,
-    148.32000732421875,
     145.49000549316406,
     142.44000244140625,
     140.63999938964844,
@@ -158,10 +156,11 @@
     135.47999572753906,
     131.6199951171875,
     129.5500030517578,
-    129.83999633789062
+    129.83999633789062,
+    130.58999633789062,
+    128.33999633789062
   ],
   "1y": [
-    119.0199966430664,
     116.08999633789062,
     115.5199966430664,
     115.55999755859375,
@@ -410,29 +409,31 @@
     135.47999572753906,
     131.6199951171875,
     129.5500030517578,
-    129.83999633789062
+    129.83999633789062,
+    130.58999633789062,
+    128.33999633789062
   ],
-  "lastClose": 129.83999633789062,
-  "oneYearReturn": 9.090909090909092,
+  "lastClose": 128.33999633789062,
+  "oneYearReturn": 10.552158141469182,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Agilent Technologies Stock Outperforming the Nasdaq? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYWNQZ2I3TGU2Vks4dlU2cTAzNHV0czRScjQ5aDV5dzFKblU0WTgzSXp2UU9UbVpmZS1sRl92MzJqT3pvVk1HRUE1Q2RzZTZhUjJlLXhmaTNpd2VVVUE1T0lIdnozVS0tb1ZFam1VNmdSamlJSFJycTYzbmliS0NFQm01ejNOUTBGZmt3bDJzUjhST3hTbzNXOHRIeEFVNUxxb1V3YTBWMndwNW1rdGxneVBB?oc=5"
-    },
-    {
-      "headline": "Agilent stock is having its best day since 2002. Earnings leave Wall Street with ‘little to pick at.’ - MSN",
-      "source": "MSN",
-      "when": "2026-06-14",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTjFxU3EtbXBFR2dlLTBGaHZxY3dJMXlkOEg3c21xWDcwdHJsODhhNjFpeG1RM2p3cm50VFFab0FTQV9VMVNDbzRnenVJYnJZSl9kM2pxa2V3V18xZFhNNlpyTERteUdnT2xIYWtZSzZUbkxsSE8zQlc4Y2N0M01kZHMwYjJzRVc1QTU0UEZrYkptbFlXY1N4YlFRYkhJZjI2S2piZXpQS1JDRG83X0phNGdoSGszWFJLOWY3RjhaZy1aV2M0ZUJUbE9Pc2xLc3FpbWlaZXY4TDhXdUhkeDNpa19ubkJwQQ?oc=5"
+      "headline": "Agilent Technologies Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRG1FNk9nSVNSQk1aXzB3ME1DcEtZOHhybEtBdFM0aDdzWUt1WmVva012anpPNElkZEFZZi1hT2w3Q2tHcTJ3dEhscm5oMVlMYkRtMVJsM29WRXc5ZDhBQll3a1R6RVByU0w0enBNNmxRYkZ1d1VYbmFwVmtKLThEM3RXUDVpRF9OVXM2Tk05Sjh0RllyZVNQTmpaTnN5SGc4VThrSHBKckZaN2xOa2xtekEwZmx2TFh0ekh2YlBIVVkwYXM4MUo4SWJINGxJamhqVjJxSzl2VmEwWmlWeXdQT0pzSWRra2dBWWhLcEV3NEo?oc=5"
     },
     {
       "headline": "Why Agilent Technologies Stock Triumphed on Thursday - The Motley Fool",
       "source": "The Motley Fool",
       "when": "2026-05-28",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdE9wdmpvRVR6azVqT2JiWWlVbGc1TUVrbFZCSERPQS1kNmtHdm5uNm92R1AtdVFqaGFnb3p6YVdXeVhWMU9aRzVvWG9KQzhhLVZhVXpCNjgxTVpxLU5XSzZqbUVzcVRvRmRGSGhhUU9BbjYyUnVFVVBXMVdoUVRlTUd0UUZTd1NScG1xRG0wSjFpblJSUWJnaw?oc=5"
+    },
+    {
+      "headline": "Is Agilent Technologies Stock Outperforming the Nasdaq? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-10",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYWNQZ2I3TGU2Vks4dlU2cTAzNHV0czRScjQ5aDV5dzFKblU0WTgzSXp2UU9UbVpmZS1sRl92MzJqT3pvVk1HRUE1Q2RzZTZhUjJlLXhmaTNpd2VVVUE1T0lIdnozVS0tb1ZFam1VNmdSamlJSFJycTYzbmliS0NFQm01ejNOUTBGZmt3bDJzUjhST3hTbzNXOHRIeEFVNUxxb1V3YTBWMndwNW1rdGxneVBB?oc=5"
     }
   ],
   "insight": "Tracking Agilent Technologies (A)."

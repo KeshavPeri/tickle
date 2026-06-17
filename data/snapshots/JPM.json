@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:04.003Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:02.335Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    300.25,
-    299.9100036621094,
     297.80999755859375,
     300.7300109863281,
     295.70001220703125,
@@ -24,11 +22,11 @@
     312.70001220703125,
     309.1400146484375,
     313.489990234375,
-    320.7200012207031
+    320.7200012207031,
+    319.3999938964844,
+    331.1400146484375
   ],
   "6m": [
-    312.1300048828125,
-    316.1000061035156,
     315.0400085449219,
     315.2099914550781,
     300.510009765625,
@@ -158,10 +156,11 @@
     312.70001220703125,
     309.1400146484375,
     313.489990234375,
-    320.7200012207031
+    320.7200012207031,
+    319.3999938964844,
+    331.1400146484375
   ],
   "1y": [
-    270.3599853515625,
     269.5199890136719,
     273.9599914550781,
     275,
@@ -410,29 +409,31 @@
     312.70001220703125,
     309.1400146484375,
     313.489990234375,
-    320.7200012207031
+    320.7200012207031,
+    319.3999938964844,
+    331.1400146484375
   ],
-  "lastClose": 320.7200012207031,
-  "oneYearReturn": 18.62702270961252,
+  "lastClose": 331.1400146484375,
+  "oneYearReturn": 22.862877762895664,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "JPMorgan Chase (JPM) Stock Valuation Check After Strong Multi‑Period Returns - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTBtT3pmWlluWWZlcnZ6bFFuZDZTbkhkanB3WTZhdmNCVktTS2dsOHNXWTh4VmRnMXhHaWdGMy1MUWQ1MUhDX3NaQVNIa0VKdEYtQU5TVU9mMjEtRFlqYWFpRWY2NGJsNDlFNi0yMkdWdm05a2dITWd0T0txX2E0TzVVSDdOeThIY1gyQ21kSFllWTRTc1R2b2hyT3hDa1Z2bTllTUg4TTQyQkp0bTFNaUtZVWMwMk5lRUhlSlVqOXY4dzZBZHfSAcsBQVVfeXFMUGl4SGszbXRvMUI5WWo5ZlV2MHExRFhfbmQ3SWgxdjlxaUtiZjJtV1hmQUxwRmc3d0tkVW1BbXFYWDVZUmZtVXBTX0pTZXlsVS11MTNGUUJSamIzUWtEOW1JQWpnVE9sQm15ejNrbU9XYmlkZXU2MWNtcHl2cDhJMzRSNnlQc3RLWlhjNF8yazhVYkdTNnZkQjd5X2V0aTItdGtIVmd0VlB4dU9aUmVfdFZ5czFrZ0xwdElaMEMtSWhFbjRoay1pSXJGTlU?oc=5"
-    },
-    {
-      "headline": "JPMorgan Chase pays dividend on Series CC preferred stock - Stock Titan",
-      "source": "Stock Titan",
+      "headline": "Zhipu Shares Surge 48% After JPMorgan Raises Price Target - Bloomberg",
+      "source": "Bloomberg",
       "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWM1b0ZJOHRwS3A1azlmWUZ0RjR4bmVrR0JuTW5DRkI2aUJ1dk5EcnpNOXNpZHNxdGJPNmJQU0s1YVRieFQxSEJfWU85eHpUM1BxLUtTWDk3cWoxUzVYNUhsUzFZWEVhaWRBUm9NeTFxTnF5ajFwYlp5Q1pLMFJpNXlBYnRjeUVXSXJ6LVozSWJ0Q3pxX0dRNG5B?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY1FPS1hURFdpMGdBZ19OWkM2TjZWcnZCWDhLSTRNRjM4VEEwTExHTkJURktEZ3dkN3hPaF9oSHVSSVlBa1dQeG92bDFUYnAta2VUWEZQVWROTkQwaXNxWlo3YWFqZ1FtTDBPLXVUTUdLeldaLThlQ3oxWWxuaWE5a0lxcm5CWVFYTm9WVVhPbGJsX0ZKXy1oZUdOdDNPcTF1NFU4X09CUUFOeG8?oc=5"
     },
     {
-      "headline": "JPMorgan Chase & Co. (JPM) Stock Moves -1.12%: What You Should Know - Yahoo Finance",
+      "headline": "JPMorgan Chase (JPM) Stock After 25% Yearly Gain Is The Price Still Reasonable - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTThDUkVJdk1tSEEyY1JoUHJsQ2ZEOFlaOW96TkxKYjdWLVFya1dfcWdxSV9XV0w1Z0VKMlFCUWZPTDF2TEJRZjk4aG1ydGI0VUIyVWRfMktzVHRXcV9xNUl6dW03ZkZ5UFNiRXB1bVBwOEFWeDloWWFpNkJadHhWajV5YzNYUWs4TG1ETm1SaDN4cllnYjJN?oc=5"
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmRrWHIwUFpFbUwtaXB4R01xNno2TU81MUJwT3hzLXdJdEFiaEhxRzlXTTBWTEljZEhYOUZKbmtULXNseEFheUNwUHphTEtMcVoyQlFVWHh0aGJpbnFJcEN2S3JLcHh4em5MOUJkYVFjamVlX2RMb0pqazNyZUtCTnpINDJ2bEI5bWdXQjRqVFlWeVB3MEdR?oc=5"
+    },
+    {
+      "headline": "Why JPMorgan Chase Topped the Market on Tuesday - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOXzlrNFAxbEk3Y2x1VTBuOHQyMmZqaXdJdWdySEtWMWF5NDVsYjNlWlRycXIwLUdHX2pRekw3ak8tazk0dFV5clRTb3pRaGhDVkZrODZsdkl1QVJoUHlHVlBkMFhzZEtKN0JyZmpCbVhMWlJCamFFTnNLVGZPUXljX0hhVVRiUVA3MVRNc3ZjN281SWs2?oc=5"
     }
   ],
   "insight": "Tracking JPMorgan Chase (JPM)."

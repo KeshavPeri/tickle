@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T06:42:42.359Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:57.947Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    302.54998779296875,
-    304.3500061035156,
     297.510009765625,
     299.80999755859375,
     302.44000244140625,
@@ -24,11 +22,11 @@
     321.3299865722656,
     318.9200134277344,
     326.010009765625,
-    328.3900146484375
+    328.3900146484375,
+    329.82000732421875,
+    337.0899963378906
   ],
   "6m": [
-    357.9100036621094,
-    351.1700134277344,
     354.6099853515625,
     349.9100036621094,
     345.2699890136719,
@@ -158,10 +156,11 @@
     321.3299865722656,
     318.9200134277344,
     326.010009765625,
-    328.3900146484375
+    328.3900146484375,
+    329.82000732421875,
+    337.0899963378906
   ],
   "1y": [
-    353.55999755859375,
     348.7799987792969,
     347.0299987792969,
     349.6199951171875,
@@ -410,29 +409,31 @@
     321.3299865722656,
     318.9200134277344,
     326.010009765625,
-    328.3900146484375
+    328.3900146484375,
+    329.82000732421875,
+    337.0899963378906
   ],
-  "lastClose": 328.3900146484375,
-  "oneYearReturn": -7.119013203971118,
+  "lastClose": 337.0899963378906,
+  "oneYearReturn": -3.3516837210620904,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Beyond the Orange Apron: Home Depot Stock’s Pro-Grade Opportunity - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM0ZVNXA4a2RIaGp6NUk0RndoWUtPUlFHTmM5bFQzYjRsZkt4bl91OXp4MlZaRnhpcWxCUWlZZUpja0U0anFFZUlDUjQ0ZWJvMHBKbENLMFU4cWoxUVJ3NG16VUtTTG43LWUwai0ybzdoeTV2alJwcTlYVjBHUjdvNXJlLXVLY2hRbExjcXQ2aHhRbjFIVk1WVmNIdFBMeFpWeE1Kc19wMnJJYWU1WlM4X0JodUlTMWlfcXgwX2pmWQ?oc=5"
-    },
-    {
-      "headline": "Home Depot Stock (NYSE:HD) Gains With New Police Connections - TipRanks",
-      "source": "TipRanks",
+      "headline": "Home Depot Shares to Hit $450 in 2028? Here’s the Math - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
       "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTkFFc3J5RllYSklSWW5jR29CWmJVeERBTW53ODk5OWdPeWNhdHJvczdlX2JKNDlQR002YTBISHI0YXNoLW4yWnp0VlZYS05DbzF3bHhJa3o1Tkl6ckRoM1BfcF9Ndk9jMmVCQkZSYzNlMS1haTRfUExVcHRKd2ljNVNEZE5IR3ZnSU00S2JxNXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNERQMlRkZ1lfUUxFMjZHVFEwTWVKSlFqR1paZFltT0lXVjhwYllSVkNOSENWY3ZmNEtQM3R3Y1hOWEtlam81Q1gyOXJfUE9kTnctcDlvbVlFQUREX0c0UG5vSEZTbkJFQ2dpbFdUVlBuNHFLY1RNQXQ5dHZfb2hKTkNwb2l2WHNBeWotemY5MENqWkgtMnRLbFlXdw?oc=5"
     },
     {
-      "headline": "Lowe's vs. The Home Depot: Which Retail Stock Is the Better Buy in 2026? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRnZfZmxoYmQ0ejBiVDZaVS1UMGNFNFRSUnFBTjRpTTdHYW9tNGxVWnB1aWlWQmQxeGdEVmdvNGR4TFl2ZFFBemJROFRwb1JOSko1ckRCd1lCdW1valZYak00TmJKV3hBS01TcXdaMjRjc1RMWkhBRlhxQmZUb1hKNHFQdFVjaWo2NDhuRnNfM0Y5dXRQWS1xYndpRFF3ZzlIc3prWnJQX0phUjRsWXBwZk1IM1RUOEZFSVVHUHRROA?oc=5"
+      "headline": "Home Depot (HD) Stock Price Near DCF Estimate After Mixed Recent Returns - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-13",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVndMQTR5NmVxNlppUWxHb2ZPLXBza3d3NWdBTGZqVDhNTEJFZmtyVXFZRUN1bl9QcFhIRUo1Qi04bWotVW9QNVNqUG5Ibk5KbVRmckxvRDhRV09wYl82QmdOYTlzT0lUMmdtcFdjVEJ6TGF5QXlWOTVmN1AtUmloeW1pZUVDU2lsSEtFeXNqN0VpWVhyeWFpcHc3UkgtSHVBMWxCZk96R1pLaTJKNWtsbkxNekhXSUdXTGZENGkwOTDSAcYBQVVfeXFMTTJnLVNfTV9YbUY4bmJGMnVNY3hNRWxzc2c2dEFPcjJlN3ZXeGROeEdheUR0czhmUzZIY2g1QmhnOVBDSnZscWpXZ0NxdE1KT0kwTXVicDJnZnlnWTJJMmtKUkF3TTZfbWVfY2VoTmU2VHVMVnN4Rno0ekNmdWV5ZWo2amVPTXcwbEM2cFlxUHY4MVpSNkJ0cEZjUno3VmlvNUhFOWRuSEVFaTctX0JTTUtnOGhxR09mMGttdy1WRUdIUklJYzBn?oc=5"
+    },
+    {
+      "headline": "Is Trending Stock The Home Depot, Inc. (HD) a Buy Now? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-26",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2NrbGhpeV91dkxEcDNfRTNka3pDU0hic2dmeC03ckJLUENURFNicDdyUDRrZHphbTE4LVJaWE4zVnJRUUZZcjhtYWp2WVo0eGFPQXhTY1RieFhsdUFiSjk2SkNoakNYSlhJTmJjVTdfdzROYTREZlJlNno3TFFBX3pKcUlubjFMYVdvSFVYZkVkQ09peUJaX3Zn?oc=5"
     }
   ],
   "insight": "Tracking Home Depot (The) (HD)."

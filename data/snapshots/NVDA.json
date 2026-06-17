@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:10.914Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:08.684Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    225.8300018310547,
-    235.74000549316406,
     225.32000732421875,
     222.32000732421875,
     220.61000061035156,
@@ -24,11 +22,11 @@
     208.19000244140625,
     200.4199981689453,
     204.8699951171875,
-    205.19000244140625
+    205.19000244140625,
+    212.4499969482422,
+    207.41000366210938
   ],
   "6m": [
-    179.58999633789062,
-    183.3800048828125,
     182.41000366210938,
     185.5500030517578,
     184.97000122070312,
@@ -158,10 +156,11 @@
     208.19000244140625,
     200.4199981689453,
     204.8699951171875,
-    205.19000244140625
+    205.19000244140625,
+    212.4499969482422,
+    207.41000366210938
   ],
   "1y": [
-    144.69000244140625,
     144.1199951171875,
     145.47999572753906,
     143.85000610351562,
@@ -410,29 +409,31 @@
     208.19000244140625,
     200.4199981689453,
     204.8699951171875,
-    205.19000244140625
+    205.19000244140625,
+    212.4499969482422,
+    207.41000366210938
   ],
-  "lastClose": 205.19000244140625,
-  "oneYearReturn": 41.8135316740354,
+  "lastClose": 207.41000366210938,
+  "oneYearReturn": 43.91480064473998,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Nvidia Is Selling Debt for the First Time in Five Years. Why the Stock Is Jumping. - Barron's",
+      "headline": "Nvidia Stock: How the Chip Maker Is Trading Today - Barron's",
       "source": "Barron's",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTm5xMEd4a2hVUGVydXViOVlweUNXZ20xZVpTRDNqclBlOFZjSmNGTDJDdjVRaEk1bmxrYlBrNTBzSDR5MURRODhhaWh5bjFUbEtyN05RbEY5RS1LaWVPUWRHRi1kd2gxZVA2N2tndHVMRWNnQU96bDRWYjU1OUo3dU9n?oc=5"
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iSW9TOXA0eDdWVlhKODl0YW5uR1R1Y3VqNlZrbF81N3h6akxkNVdJWVlUeDc5RXFHSHUzMklPMGNWNFE3d09NZ29qZjJxekRSRUYxeE5EZEJ3VFBnMFhlTWNhZnRqdWNwcDJNcmNvM0d2TE1K?oc=5"
     },
     {
-      "headline": "Nvidia Stock Retakes Key Level As Chipmaker Plans Bond Offering - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGVBTFN5eEN5dW14XzhJRXlqeHYwU29PRWI5cG1VZ2xPUlIybmp3RmFYb2RDb1FqRzhJOFpkOGZLaWdxWm9NT01CN1FIcXZZT3I4Ri1Ba1RZeUhXdk9BUmpyUjI1NV9HOEM3akc5YTVja3RuVXpWYko1ZmFRU1N0Ti1CMU9XOGUwNDBZZDk5VFc?oc=5"
+      "headline": "Famed Venture Capital Fund Says this Stock is Like Buying Nvidia in 2023 - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeU02RHNGb3VKLVlYa1lYTTBPWGdmMWlWTzdBc2xFY3Baa0JSY3c1RlVEY0hEYUNCSjU0ZGh1ZTl4NmEzaU1jc0x5al8wT3dzaThUVzZsdXlrd282d0NMRTVodlZfRkpnR1RITzNoaURPQk1xQ3pjemJPWmZDYjZqQ3hiYnFsU2thb244clc5ajJheXNiY3lIUGNaWWZ3QXNCS3NNaVY3VkFrWG1CSEQxSEtpSHRSOTg?oc=5"
     },
     {
-      "headline": "Nvidia plans to raise at least $20 billion in its first debt sale since start of AI boom - CNBC",
-      "source": "CNBC",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSm10ZmNvZWpmMVE3X0NfTS1GbENvZVBBZEo5a3lxYUJHb1U5SDNXWnZ3TnpKN3libzgxdll0cFdzU1I0X1ZtamNNZENRai1SOEFlSFJkYnBqeHJ2UHRGUHpZWFZ5Q0tzNWx5V05GVEhTbzI2cmRRZnNpNEVKRlI4ZkltQVBIMkpqWTZKSzBnNVdVSUlDSktBQ2QwSV9ONHJEQ1JZWNIBqgFBVV95cUxPcmJMMkx1b0tuWlk3OG55WlFKSWMtdGtMRUQxNzBUbWxzWUdkWlNWY3RFUlBZYy0zcWFmSDBOVVczcGFYQVgxSF9UOHNjTFM0a1BrNkJ2dDE3S0cxNUhnSk03MXZvNTJSWEJ1TEp6VkZDSmp3aUNVOTMxOWJtWXQ3YU13WF80OGhvRGg0U3lTdmhCYmtLaE45MDU1NWxVWmZ2clh6SmM5bHJndw?oc=5"
+      "headline": "Can Nvidia Stock Reach $743 in the Next 12 Months? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkJ3bUVfT19tSG5JeFpqVTdoZ3F2LXVIdzlHZ1FqbS1zVDNBLVpKMnVZc201TmxlTkoyUUl2VjhsUWxKTDM3a245eWJPLUlTaG5Db3FRYkY1dTEwUXg5SDFnU3d4bXhVQVBOeVIwa2YwYklXQUFVY0doNDNwejBwdlNIZ2dQNXBtNFp0dFRidmstanpWb3ln?oc=5"
     }
   ],
   "insight": "Tracking Nvidia (NVDA)."

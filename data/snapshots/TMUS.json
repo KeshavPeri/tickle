@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:18.750Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:15.941Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    190.27999877929688,
-    188.19000244140625,
     185.22000122070312,
     190.64999389648438,
     193.4199981689453,
@@ -24,11 +22,11 @@
     179.4600067138672,
     185.5500030517578,
     185.82000732421875,
-    189.10000610351562
+    189.10000610351562,
+    188.86000061035156,
+    184.36000061035156
   ],
   "6m": [
-    208.50999450683594,
-    208.00999450683594,
     209.6300048828125,
     204.44000244140625,
     201.35000610351562,
@@ -158,10 +156,11 @@
     179.4600067138672,
     185.5500030517578,
     185.82000732421875,
-    189.10000610351562
+    189.10000610351562,
+    188.86000061035156,
+    184.36000061035156
   ],
   "1y": [
-    230.99000549316406,
     221.42999267578125,
     220.99000549316406,
     221.52000427246094,
@@ -410,18 +409,14 @@
     179.4600067138672,
     185.5500030517578,
     185.82000732421875,
-    189.10000610351562
+    189.10000610351562,
+    188.86000061035156,
+    184.36000061035156
   ],
-  "lastClose": 189.10000610351562,
-  "oneYearReturn": -18.13498350294993,
+  "lastClose": 184.36000061035156,
+  "oneYearReturn": -16.741179285367963,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "T-Mobile to pay $1.02 per share cash dividend in September - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWRHZXJQNUJLWndPMVMxbU52MTVVd1g5aEJyN3NieVotU0RpY1hJQ0lDV3RLWGMwU1ZSUmgxUUg4Y3N3Ymx5LWdyZlQ2ODF5VHJGbzRfSzdJWXBHYTZpMkxnNURqdTNOVTNDbnQxRFNKYzVJUmR2bjRva2FVNF9PTHdpX0tubWhqaWN4RU9wQ3U?oc=5"
-    },
     {
       "headline": "T-Mobile US Stock: Is TMUS Underperforming the Communication Sector? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWEEzaHZWM3JvZ25CSlZkenVOaEt1aDRJVVhpNlpZb201T1hhdjUyYjJ5OFZJa2FvYTluY1haMHI0eV9DZk5JNDN2cnNNNklfazBXMXBlNDI0c0NhQVhqTzI3RXF0NFNXVnY4RWFybE5pLWkwMXBKYmxKMzM3aFFHd21yWjltWkpYbDg2QkhtQVM?oc=5"
     },
     {
-      "headline": "T-Mobile US (TMUS) Stock And Valuation After New AI Network Upgrade For Global Soccer Tournament - simplywall.st",
+      "headline": "T-Mobile US Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ3VXMnFpRUFTSmVVYVoySUNQQV9YcHRGU1ozcUpucE5BYTNKRTBGbDlXMGFrSWVsNW1vQ1hQWERHUXdtcG5pQ1ZUT3VDcWkySk9fMGZMdU1QUmxEbHUxU0pVZXhhUHRjREN4T0FRQ0JjVlJsRGRDRnpQZzhOZ3RSQ00tQW4zV0JCYnAxT2RZM2laaHZNNHNSS2FCSjBzazc1c2MxMmxkd0s1OEFOenlNVE9fRm5VY0Vubk82Vnh1OGNZVVRkNHFrcWtqSEdzanpHeU1ra2FJc0xtdllLbDJGS0tPeFM?oc=5"
+    },
+    {
+      "headline": "Does T-Mobile (TMUS) Pairing Dividends With AI Networking Reveal Its Evolving Capital Allocation Playbook? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTUJqa0hXT0VoeVltU012T0t6VTRQMEVUSVpHa3pOeWg4bnNlTFBVaHRhTXhiUW1GMDlOYnRBZG8wY2tpMC05SEh6WWZjeUU3cU9kdk1ib3dyX2FuaGt2N0lLTklINkJyTFJDVjZsY1JULXhCMXdnRWlrZUJmemRORGh3NXZQczEyUGJNZVNBaC1wZ2p5ODhWUm1Hd1c2RHdJcktfVnloQm10SmFtNU0tRkpUSmhLRXBkX1lEMVFOMHhCV1lkMHZGb0N5SU5kd9IBzgFBVV95cUxNTUJqa0hXT0VoeVltU012T0t6VTRQMEVUSVpHa3pOeWg4bnNlTFBVaHRhTXhiUW1GMDlOYnRBZG8wY2tpMC05SEh6WWZjeUU3cU9kdk1ib3dyX2FuaGt2N0lLTklINkJyTFJDVjZsY1JULXhCMXdnRWlrZUJmemRORGh3NXZQczEyUGJNZVNBaC1wZ2p5ODhWUm1Hd1c2RHdJcktfVnloQm10SmFtNU0tRkpUSmhLRXBkX1lEMVFOMHhCV1lkMHZGb0N5SU5kdw?oc=5"
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYVJ6cHhveGl3VzlNVDl4Y0lHemtELW1QMUpsMVM4R3N2TnRLQXQ2Zk9TZlpCakMxLTV4UHFEUXRfRDRDcTB4WmZwMTNmZWpqb19FVDM2TE55WDJsQzNMY243bFRtNEMyVHhrSDdseEdtV2dBdV83SW9IZ3FwRThZQ0x2SG9Sa25ydjZRR1VobkJlcFl0Z1hObEVHV2dzZFdyS1BPWVJRLWZzN2E5Ykc4RkJXRmU0c3hhVGRTWGZBN0Y1Znptam1kLWpfWkl1QdIBzgFBVV95cUxPYVJ6cHhveGl3VzlNVDl4Y0lHemtELW1QMUpsMVM4R3N2TnRLQXQ2Zk9TZlpCakMxLTV4UHFEUXRfRDRDcTB4WmZwMTNmZWpqb19FVDM2TE55WDJsQzNMY243bFRtNEMyVHhrSDdseEdtV2dBdV83SW9IZ3FwRThZQ0x2SG9Sa25ydjZRR1VobkJlcFl0Z1hObEVHV2dzZFdyS1BPWVJRLWZzN2E5Ykc4RkJXRmU0c3hhVGRTWGZBN0Y1Znptam1kLWpfWkl1QQ?oc=5"
     }
   ],
   "insight": "Tracking T-Mobile US (TMUS)."

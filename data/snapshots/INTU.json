@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:01:01.863Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:38:00.881Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    371.7099914550781,
-    378.2900085449219,
     393,
     403.1600036621094,
     399.7099914550781,
@@ -24,11 +22,11 @@
     293.7799987792969,
     284.2200012207031,
     276.9100036621094,
-    276.7300109863281
+    276.7300109863281,
+    281.7699890136719,
+    280.989990234375
   ],
   "6m": [
-    647.6799926757812,
-    663.0800170898438,
     673.6300048828125,
     656.239990234375,
     655.75,
@@ -158,10 +156,11 @@
     293.7799987792969,
     284.2200012207031,
     276.9100036621094,
-    276.7300109863281
+    276.7300109863281,
+    281.7699890136719,
+    280.989990234375
   ],
   "1y": [
-    768.0800170898438,
     764.9000244140625,
     754.8300170898438,
     761.1400146484375,
@@ -410,18 +409,14 @@
     293.7799987792969,
     284.2200012207031,
     276.9100036621094,
-    276.7300109863281
+    276.7300109863281,
+    281.7699890136719,
+    280.989990234375
   ],
-  "lastClose": 276.7300109863281,
-  "oneYearReturn": -63.97120028785249,
+  "lastClose": 280.989990234375,
+  "oneYearReturn": -63.26448146610766,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Intuit (INTU) is One of the Best Buy-the-Dip Stocks, Here is Why - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-13",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMU81cmdtUVd5Nl81c01FY2VEcUhmb3dYXzJvXzlZVi00aWg0UVV0RlZWQjEyOTFyUE5YQk1ySmI2N21uSHBBajZEeFFxVWFsdVRfUF8xa3BqNFhkTm1LaXFnVlFYS3hyTHpqcllDZno5OGZiX2tHNm9lWmpaVWNOUV9UdUhXZnU4RUVFSTBzWGRnaUU?oc=5"
-    },
     {
       "headline": "Intuit Stock’s Real Growth Story Isn’t The One You’re Watching - Trefis",
       "source": "Trefis",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRElsOU1lbFRoLWljaDdJSjdMOWF2SjBQblZSdlFGRE12Qy1mS2RFdS03TThDSDJlWlN4QXgxQnQzUzFjQ2NybXBXOHVweHZSbHVoaG1oREgxeE1PTHRuZ2VzWFViWVpSU1o3M1Z0eFVpd193aHBlWVRQMGl6blRCNzQtOFJnSjNYN09zTjZZMFdXYWdrV09JNzNUaTBKLXBpa3NQTFNTcXI1ZnRJLURIUjNKZ1lzYnNkRXJoeg?oc=5"
     },
     {
-      "headline": "AI Fears around Intuit (INTU) Have Gone Too Far - TipRanks",
-      "source": "TipRanks",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSkZsZW5KenViWm84UEtwNm10YzE5QmZ4NW03alk5VFdwQUpvZzEwR3BuUEtFaENXd3J4elhXeTNkSEk1dnpxN3h6TFdNT3c0REswNjBmbFZjVDRmWURHb0dhWHVjbEZNTnc4N21aTmg0T0tiUGlfMEptY3Y5c0ROMg?oc=5"
+      "headline": "Intuit's Discounted Valuation Sparks Debate: Buy, Hold or Sell the Stock? - Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM3JaS1B2NVhBMlg4U2x4NDl6R2ljZUVwMFVISXVZUEVFSUE4cVN6cGZRWEh0T2VPSHp2MGZaUFd2dWxRbkNiZmVtUVRrTVpmS1JoVGMwcEY1d3FhdjhZN2l4b3I2cjI0Q3h2QlRkWVdrU2hmTUdCSVZaODVYTm95MzRTSUVwbGNxUmRNamNrN0lKamZVWjZnbTdHTEx2NVlrS3B6RzV0amp2Z3ZTR3lj?oc=5"
+    },
+    {
+      "headline": "Goldman Sachs Downgrades Intuit (INTU) to Sell and Says AI Could Gut TurboTax Revenue by 2030 - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb284cmV4cnZpcGhZeGtkT0VDbktiTVJMaEV2Z0ZZX0ZHT0psWUxFZEh5YnZqeF9qOXE3ZTY5ZTZnLW8wVnJEdjFzVFotOWlwQWNQYVZKZVRXWV8tZ2pJMWo1WkJWcmx5cVAtU3ZUczh3OUJQS3ZTVThMd3hYcjlZakhoQU12TVhkLU4xbl9JRGw2VHBiaHQzcWswNGs3QUVGVjJ3?oc=5"
     }
   ],
   "insight": "Tracking Intuit (INTU)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-16T07:00:55.619Z",
-  "builtDateUTC": "2026-06-16",
+  "builtAt": "2026-06-17T06:37:54.981Z",
+  "builtDateUTC": "2026-06-17",
   "source": "yahoo-finance",
   "1m": [
-    341.3599853515625,
-    340.6199951171875,
     334.5,
     343.1099853515625,
     340.1400146484375,
@@ -24,11 +22,11 @@
     345.67999267578125,
     341.07000732421875,
     358.8599853515625,
-    360.2200012207031
+    360.2200012207031,
+    359.5299987792969,
+    364.1099853515625
   ],
   "6m": [
-    338.0799865722656,
-    341.70001220703125,
     337.30999755859375,
     336.010009765625,
     334.2699890136719,
@@ -158,10 +156,11 @@
     345.67999267578125,
     341.07000732421875,
     358.8599853515625,
-    360.2200012207031
+    360.2200012207031,
+    359.5299987792969,
+    364.1099853515625
   ],
   "1y": [
-    279.2900085449219,
     281.29998779296875,
     278.5299987792969,
     278.7799987792969,
@@ -410,12 +409,20 @@
     345.67999267578125,
     341.07000732421875,
     358.8599853515625,
-    360.2200012207031
+    360.2200012207031,
+    359.5299987792969,
+    364.1099853515625
   ],
-  "lastClose": 360.2200012207031,
-  "oneYearReturn": 28.977045436540998,
+  "lastClose": 364.1099853515625,
+  "oneYearReturn": 29.438322485651963,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "General Dynamics (GD) Stock After Strong Multi‑Year Run Are Recent Gains Justified By Cash Flows - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-13",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRTU1QzAtTjQzb21DcUx4NnVWMzl4ZVRINW5JT3FwYVJxNGYxUk90ZU1GVUlnbXZKTVM4RWUzam01aDltellQQ2xVUkk5eW9ZRHpBNE1xa1lBNXcxQml1ZEtkZl9fS0tsZUxfajlGU3hzbjRaRE8yaUhSSm83SHRYQlh4alp1LUl0ckthMERNOVhMMGlqWkEzX2VFNHN4dw?oc=5"
+    },
     {
       "headline": "General Dynamics Stock: Growth At A Good Price (NYSE:GD) - Seeking Alpha",
       "source": "Seeking Alpha",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaFU1NF9xOWthd2RYN0JEc21rMFZIdDJxT3RYT2Nab3htVjhyNDI0ekJjX3pMdjFldjB3TWNsUm9TdFlOOTFzcnh4S1c4dERtcU5CZTlhdHFxd1ZxejdaelBnWjlqZDc1dkVhR3c4ZnhPQTE4aWt5czkwQ1lFdlpfbDN3Y1RHNlE?oc=5"
     },
     {
-      "headline": "Here’s What Lifted General Dynamics (GD) in Q1 - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZFp3QjF5NVFKNzJQV1BScV9jMEtzbUdaX212RGktZVpLSTNaNUZ5SlNMNFp6NDB5XzVsMkFza2dlUlNPTXR1Ri1vWW9sQVBvMU5FdGJLbjZ6M2pta2FrM3RhUVRHRi15YzBzSzRaZGRfckNlMGRhZWZtb3NwUGpDMWZoSHNNbHpmZWxKdjNuRlNqZ1dCeG82TXNR?oc=5"
-    },
-    {
-      "headline": "Better Value & Growth: TDG Leads General Dynamics Stock - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcFE2VWlrT2wtWC01cjMydVhuQlJjUXBDcmxNT1pCdXBIQWNyVzMwVm5malFXVVFPaGxrMkNkTDRkX3VkVEU5YTEtREZOSE91RmRhelpTNk9JNXlDa0FfNFAzSkcyVHBvUGJyRTFNUEZwRF9UX1Jya2M4M2JnaGF4YXY2Skx6WUxMVkxKVkRoTEUtZmo2RG9lWmotWVhQbTdycGp0WkIzc2drbl9FSExSVw?oc=5"
+      "headline": "GENERAL DYNAMICS (NYSE: GD) VP reports new restricted stock and 3,890 options - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWFZSkR5a0c1ZXNXX1JhS1dsOTdZSmsyeTBhd3I2Rkd6eXB2aDhXZHNLdE1uYVJtc3YwMUxKZW9TN0NFV3hHZElhLVVEU1hPZGxMTnFJRENJR1NxbTNEMmxtcmNBV0NKWmxxY0V0REd6bnY1ZnRpRHNSdF9ibmhvOWVJU0xHNzA2V3d3WDJZRDFJckNROTA5ck9qdU9UcWNQNlc2bUVBWlEtTVZZRWc1QWE0Zw?oc=5"
     }
   ],
   "insight": "Tracking General Dynamics (GD)."
