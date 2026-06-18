@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:40.888Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:33.291Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    275.260009765625,
-    267.20001220703125,
     262,
     260.6700134277344,
     281.260009765625,
@@ -24,11 +22,11 @@
     242.3000030517578,
     246.7100067138672,
     253.75999450683594,
-    262.3500061035156
+    262.3500061035156,
+    268,
+    267.1700134277344
   ],
   "6m": [
-    368.6199951171875,
-    359.82000732421875,
     357.6700134277344,
     359.1499938964844,
     362.07000732421875,
@@ -158,10 +156,11 @@
     242.3000030517578,
     246.7100067138672,
     253.75999450683594,
-    262.3500061035156
+    262.3500061035156,
+    268,
+    267.1700134277344
   ],
   "1y": [
-    305.70001220703125,
     306.42999267578125,
     304.9200134277344,
     315.2099914550781,
@@ -410,12 +409,20 @@
     242.3000030517578,
     246.7100067138672,
     253.75999450683594,
-    262.3500061035156
+    262.3500061035156,
+    268,
+    267.1700134277344
   ],
-  "lastClose": 262.3500061035156,
-  "oneYearReturn": -14.180570615796185,
+  "lastClose": 267.1700134277344,
+  "oneYearReturn": -12.812055016294035,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Jim Cramer Recommends Buying Constellation Energy - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGhoN2lMZGhZclE3RjlTSURGRVNoZks5UnFlMEp2S0hzc1kxVXhTUTR6UWVPSXVBNXpoSFFIbHRRSk5vQTJyMmNTN2lteFpBblM1a24zTUFWbHZqcTNjUEhVYnV5RFRIM211azdkRE13aWd1djJnZTdoVVJCOW5xUWF3ZzZvOHNuVThHWVk2dFVocE1nVl9SczhKb183b0ZRZXlGZk0wSmJ4Y3M?oc=5"
+    },
     {
       "headline": "Constellation Energy Stock vs Vistra Stock: Which AI Power Play Has More Upside? - TIKR.com",
       "source": "TIKR.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORnVUaUtKUjRQRTBRZjRnUEJ1LTFNYU5obng5Z0ZCSzVoMHFGcWY5dzZoWDVXYWpHb1laY254d0NJUE5sUjN0SEtaY3UtTjdIR3FGenRfd2JCdHdCenl1b3oybHI5ZGNZUVh3RzhJWnllRF82T2V4OExaUjMzcnk2RWVtTXVVaTd1dHptLVBtNFNfWDM3VS1ONTBIRGZJb0V1R0V3dnBoVQ?oc=5"
     },
     {
-      "headline": "Bernstein initiates Constellation Energy stock coverage with outperform rating By Investing.com - Investing.com Nigeria",
-      "source": "Investing.com Nigeria",
+      "headline": "Bernstein initiates Constellation Energy stock coverage with outperform rating - Investing.com",
+      "source": "Investing.com",
       "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY0V3Y2FkR2l1ak5BTFFneWZTM1Bya2k4QWk3d0EzYXAyMGVQd3dweUhIcFFLeXdNMzAyZkgyMGxNNzFjaHdUWjVkZ2lrSkNqT25zSWF0TExNVXRwVURuMmFzWE5aSUlDMDg4YTFCZ0t3eXR6YzBPQ3Y0dFktSnBOWlc4cXpObHVhTDRZdk1QdExrUEc1SjBVTnRvUXoxcGVSSjJSbm9MakhmbF9ybEJCSU5Nd3NvVGlPRWxMZTZyajF2UTQ2RlpNd0ZTdUFXVEJaQlBPeWtB?oc=5"
-    },
-    {
-      "headline": "Constellation Energy Corporation (CEG) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVhFVHMweFdNRmVHNFUzSmduWlFpTzh3MkljOGpNRGRRYWxmTmZjRnM0Qm5CUHJvX0VDVnZGSGVjSkJmeE9raDlIM0FVVnZ4QUhhRVBWVWdXRDFTWTRobXVXaUZURWgtNGhBVnZGRFpzMzhvejVNOHA1V080SWR6cE1iWHA5RzJIdEQwOVFzRDV2OHY4My1rMUpySDh6STZHZnpsTlNOVE9PcTA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQXZyZmtQT1FZSGJQQ2t5bGM5dzdvMFJINzZpaGFGOXZtNS1TZVhDR0FUek9Ja0lHZmRvc2kxUmNwV0UwMzZDVl85My1pem54MXJDdTJ1UWhndUJHR1RyY3ZiNEJBcHozcUZNY1F4WTE3c3NqTTVLcndKamxmUndOVF9xWnhLdHVZZnNBUkxCNEhPcV9tNDl4dlN3aUlvYWpMUVRLeFp5LTVuNW9RamxxX3BFMVU1c1lCdUVRQk1JVkNfQmFvU1p1TnU4bzFMTlR6TnVaWQ?oc=5"
     }
   ],
   "insight": "Tracking Constellation Energy (CEG)."

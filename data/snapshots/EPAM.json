@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:50.249Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:46.374Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    89.69000244140625,
-    93.0199966430664,
     100.44000244140625,
     100.51000213623047,
     104.30000305175781,
@@ -24,11 +22,11 @@
     93.04000091552734,
     92.76000213623047,
     95.37999725341797,
-    92.72000122070312
+    92.72000122070312,
+    93.33000183105469,
+    87.69999694824219
   ],
   "6m": [
-    201.5,
-    203.60000610351562,
     203.63999938964844,
     207.97000122070312,
     211.72000122070312,
@@ -158,10 +156,11 @@
     93.04000091552734,
     92.76000213623047,
     95.37999725341797,
-    92.72000122070312
+    92.72000122070312,
+    93.33000183105469,
+    87.69999694824219
   ],
   "1y": [
-    168.5800018310547,
     165.02000427246094,
     163.05999755859375,
     168.00999450683594,
@@ -410,29 +409,31 @@
     93.04000091552734,
     92.76000213623047,
     95.37999725341797,
-    92.72000122070312
+    92.72000122070312,
+    93.33000183105469,
+    87.69999694824219
   ],
-  "lastClose": 92.72000122070312,
-  "oneYearReturn": -44.999406683110585,
+  "lastClose": 87.69999694824219,
+  "oneYearReturn": -46.85492990083637,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "EPAM Systems (EPAM) Stock Could Be 17.7% Undervalued After TGS AI Win And Analyst Calls - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNFR3NTJnQVRwMzhRemlTZUZJWk1iR1Y4SV9xRHFYbVdBNHU1X2UtMFM3ZFVVOXFqY3NqcnpjOUFRYk5Jd1puRFIxaTM5WGpucHc3aTNkNkdDZ3lQdGFGMjIwMGFUcHdHYzRNYl81LTluc0FyVkdzLW1JTkstTGtTazhhWlgxQnp2WENIb1FpYk43N21odS1EN1FfdzZvaUl4NDltOVpXVzdkbGRQZHh4U1BmVEpjYmtyUW83UkdSVGRSV0xRY2ZjbNIBzgFBVV95cUxQZUFQc0EzNUNVUERQSU1mQUxmREVHNmVkN2xPZlRIanVOdU50SjR5LVJSUTk5anA2YVh6YnZGN0dUOTNLZ2VYa0l2dXJQTWVVbE1KYjVEa2VrNUNxUE1iZmhRX1h4aWllel9mZWM0Q2xBQmViX1RLaFhXdGdUVGk3R19famlXSENMdTA1dUI1aHhDWk93aGRVbERxYlZBbmRrT0FyNEE4ZVk0OHh2NHdiajAyMnYxNHVuRTh5SmkyLUdhQ0pFVUtMODVrZnJZZw?oc=5"
+    },
+    {
+      "headline": "EPAM Systems Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNem83RUJUVXV3SDJyZm1zRDhWbk5tNDAyM0w2ZzNvQXZuSXliVmoydXFaZjF0d18tN0x2OXAxWHVBVkNkZjJiT0RWVWJhMUY2cnBHRjZqeGppbmJpTUhHVE8tVlpjc1N2MG9GRU00UHFfV1czY1VfN05XV0VQX2JFQW5WcDRBb2xCSVM5Z3NhT0JzRjVDMDBJUlltTVdKQXkyUFliVGdPZVI2ZmV6OHZHTm00Nmo2ZXRkRjdZczFHcS1ydEhVQlVqajBENmlXNDYtLTB5SkJNcXNOd0ZNTENyc1R5ekZoT1JL?oc=5"
+    },
     {
       "headline": "Is EPAM Systems, Inc. (EPAM) A Good Stock To Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-13",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeG9saFdNYUcxZlJOZk5Cb1BwTk9YNmFPd3hUTHZDVjFiNjloejl2NzUzOWNobHhRMnpYMGsxQ3J0eHVYbUQwa1djcGE4ODdwOE1IN0dac2o4MzhMMGRCQllWWkt5dUp3MmJxR1pnSWx6bGlLX3dBbHUzN3daNGlobFFfUEREdndWNWtwX1k4bHhyMEQzaHc?oc=5"
-    },
-    {
-      "headline": "Cash Machine Trading Cheap – EPAM Systems Stock Set to Run? - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-13",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPalRzQkk0QjAteHVPRTY1T0RHM3pEdTFTRlBpSlFiUWhpM25ESThXVHdmTVZDQXBwYS0yYWdTTXJTZk92MDZjS3JYaHgxeW14ZHdGTVhZWEVxMjFDZGhEaUZoOWZlY0V6WFlUMEFxYWs3OVV2NkJjRlpNeE1VUmNwU0RsUEdhWjRzWF9tcnFfei1FT1pPSnZyZVZXalBWMFJiWFlVbmFhYngtcV9FZ0VnLUhSczVwS2ZlOW9N?oc=5"
-    },
-    {
-      "headline": "Wedbush initiates EPAM Systems stock at Neutral on growth concerns - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVnRPTUFYNlc5QW05cXlGUm1qVmZ4RWNsRGM1ckNjVnZHeE1kY3VMV1lsR0ZlaUhCTTlXNGtsVklERFVreU4zTTZ6ZHlNOVdXM2JfSXdwbWRVcDQwYWVUQjdYdjVjcGtyMFNNYjZ1cThIb216Q3NFYXd2eG9wLXRQZWhfNkRpbmpKNlo4X0ZKaG1wc1BRNUNlTzBqbUxSclR4OGJVeDBuR3Z6ay1iZDF5b0pyMnVyNlQ3YTlLbUJTMWZmZXJR?oc=5"
     }
   ],
   "insight": "Tracking EPAM Systems (EPAM)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:50.826Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:46.923Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    213.0500030517578,
     221.50999450683594,
     223.14999389648438,
     222.07000732421875,
@@ -24,10 +23,10 @@
     226.00999450683594,
     226.6699981689453,
     224.0399932861328,
-    225.63999938964844
+    225.63999938964844,
+    221.63999938964844
   ],
   "6m": [
-    296.4599914550781,
     280.80999755859375,
     277.3999938964844,
     275,
@@ -158,10 +157,10 @@
     226.00999450683594,
     226.6699981689453,
     224.0399932861328,
-    225.63999938964844
+    225.63999938964844,
+    221.63999938964844
   ],
   "1y": [
-    351.45001220703125,
     348.57000732421875,
     352.0400085449219,
     356.8699951171875,
@@ -411,12 +410,19 @@
     226.00999450683594,
     226.6699981689453,
     224.0399932861328,
-    225.63999938964844
+    225.63999938964844,
+    221.63999938964844
   ],
-  "lastClose": 225.63999938964844,
-  "oneYearReturn": -35.79741313062495,
+  "lastClose": 221.63999938964844,
+  "oneYearReturn": -36.41449501319478,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Erie Indemnity (ERIE) Stock Could Be 14.1% Below Fair Value Despite Premium P E - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWnlYTFY4WW5HVlg4ZUdiQVMwMUIxUXBoWTZQZW1oTkdPY3JXT3NhTUU2M3U0R21lMTM2eXpPeENlUUJpU3BpRGQ1UnJtaVlHdWltdUp6SUVUODJ5cjY3XzhlMDEzeUE0dzRBNVVZQ3kzODktSVFtTmdkZUs1YXk5bU9Rb3p5UUZVajFrdmxyTzFoVEpHZU1JMlBJTTMwMUZPTnF0dHJKLWVZangtM2VlRG9zVjhuS0RlUkdUVHdBallTYTFIbEhud2RJYk5zLVHSAdQBQVVfeXFMT1RWRnZsUzhwaHlacTFBQ0VTaEh0QXZFdmJFd2FobW9Zc0w3aGFDWTNBT192TjZYR29qX2RoN255dTd6NVlHSl95S0p5YmhRVHhxaDVGaTBkNVUwODhKR0dQekk4Rkg4cTI3WEtMa0VBY3lMVm9tcEtMa2xvVktzZHlJSTU4Q0tZLUduU3o2dzc0WEFUQ1BlTXJPS1EtbzkwZnhGdk9mbGpUWTdEejZ5bGE5UlZUX095TmFnb2J4cGhjQWpHZnNCLWRydXRaZTNrUVM5X0E?oc=5"
+    },
     {
       "headline": "Erie Indemnity Co. Cl A stock outperforms competitors despite losses on the day - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQnZsYVp3R3VpbmZ3VjlUQkxXS1ljelJpa0pQNll1dDNYVlp2b1djNlFWdFZ1c0s2Y0ExZHN6TVNkZmZrcURmd3VrTWRsek1rNTVaX3NweXhKcUt6WFVMcjFDU2g4RzZrdjJtWDhCbkwxNUFUdWJwcWVGbVV4Z1ozZDBDOVhQS0JOUWNqaGt4NGxjVTRJV21ZOGlodzJHWXNUSTROeGVzZ3VHNDJTeHRqX3E0c1lPQXlfN082OHZWOUxBZlNLdFM0eHVkQ1JfQnVlMmlqQg?oc=5"
     },
     {
-      "headline": "How Analyst Concerns on Growth Metrics Will Impact Erie Indemnity (ERIE) Investors - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOENiY241ZnI0OWN0emJMcUxHTkdGc2N1VFljZnpiZnNVV1pkZml1c2c3VmJvajhaOFYwUHU0TWU2V2V4S3NteTRzOEtLOXF6YVo1S0p0Q2paVjdhcjVDTDVKUG1GRloxZDkzLUxfTWUxaDMxTVBhenJoeVlGakFMbV9iVGsyOHFtS25jblpRS0JkQU1FSXBwc29xSkVTTzBKWmJhM0JfZmpDUktpZ1pDMXozT0szVXFPMGI5MHFHZHI0Qk5pSTdZVV90MkRXZEHSAdQBQVVfeXFMUDh6X01vQmZEd3QtLUpDUGVTNWZMZ1F2dnUwb0paeEp1dExxWkY2TXRSUXljSGltVUpibmI0c2VCaUFtRHpqY0ZqLUliTmFDSnVyTlJFZlNDbzBVNTJlTDFyanFEbGw0eHlNVC02RUtSZHRpbzkxOUdtall4Rk1PZFRBNW50UjBvUnFOekFIM1V6R2J0bDRrV3U4Tzc3SndFYnN3UXRqMXcyaUdTNXdNZTE5Y0ZjMTZjbU1aeC1yal9XZEJ5N3c3LXhDdkg4TlhKRWk3dko?oc=5"
-    },
-    {
-      "headline": "Elizabeth Ann Vorsheck Spends US$1.5m On Erie Indemnity Stock - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-07",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmRzYVRoa0g4WDV2emMxcmFEdllacnYzSS1pck5fNVBiRHJmSGkxTUVEREdlVUMyVmV3NDBHbnhZM3d4RXZ4X2dRYXV4NGk4QmJkb2RkOU9FRXJ6NWN5UXU4SjFmb2FjYXdEQVZ5d2lyZVhyMXdka3JubjZSVXR2cnV4d3JWel80Zk90aC1hdWZtS1RFNHJMaHJLV1UxQQ?oc=5"
+      "headline": "Erie Indemnity Co (ERIE) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey",
+      "source": "TradingKey",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEVjRrWkMxcWpmM2E0OGtfTy1GQl9SREY1RWVoTTlOaFVpb29lVWFURV9VWnBBNWI4YTc2a3pFQkxLbW45dDZ1dnU2ckd2Y29PVnF1aUgxV29feW84Q2pXTDRUbTV2ZmVKbk5qak14NA?oc=5"
     }
   ],
   "insight": "Tracking Erie Indemnity (ERIE)."

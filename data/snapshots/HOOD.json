@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:58.423Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:55.187Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    80.69999694824219,
-    77.13999938964844,
     77.1500015258789,
     74.16000366210938,
     75.76000213623047,
@@ -24,11 +22,11 @@
     86.36000061035156,
     92.2300033569336,
     93.19000244140625,
-    98.12000274658203
+    98.12000274658203,
+    96.70999908447266,
+    105.19999694824219
   ],
   "6m": [
-    137.0800018310547,
-    131.9499969482422,
     136.42999267578125,
     135.7100067138672,
     135.66000366210938,
@@ -158,10 +156,11 @@
     86.36000061035156,
     92.2300033569336,
     93.19000244140625,
-    98.12000274658203
+    98.12000274658203,
+    96.70999908447266,
+    105.19999694824219
   ],
   "1y": [
-    74.94999694824219,
     78.3499984741211,
     78.5,
     76.3499984741211,
@@ -410,29 +409,31 @@
     86.36000061035156,
     92.2300033569336,
     93.19000244140625,
-    98.12000274658203
+    98.12000274658203,
+    96.70999908447266,
+    105.19999694824219
   ],
-  "lastClose": 98.12000274658203,
-  "oneYearReturn": 30.913951623427323,
+  "lastClose": 105.19999694824219,
+  "oneYearReturn": 34.269303123202505,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Stocks making the biggest moves premarket: SpaceX, Robinhood, Huntsman & more - CNBC",
-      "source": "CNBC",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR1RnQTdzXzBpRTluWlJ6OWFqcV9UeVZBNW9zODdVS28xVXkwZW9DTGJGWUpqZUtOZmJrNzJwV1lKeGE2SjdlUWItSGhLZk9wNGgwVG85SkdTX2NvTlFadjliRjBMM1lkNkY0YTlFc3FXdW5saGNDVmEybnJqS2ppTXBMT2U5RGEyemdjeGtxdUtxdXN6OXlZ?oc=5"
+      "headline": "Robinhood Stock Soars A Day After Big Layoffs. This Is Why. - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWhNWTdjcWUyaDBfUTZ3WHZoSGlxZklvaVhSU2kwQ3RFc202M3A1NUMydGNqclo4d0M3NDdRNFpwdWoxNGFqMWV6WGlRaW9uc0F5N3VPUmxuMWl2NEl2NHJlVk9vZ0J2Ym55QU9IZ2xNQnJsR2plMko2dTM4QUExdHJySXlaVm8?oc=5"
     },
     {
-      "headline": "Robinhood's stock pops as analyst predicts World Cup will boost prediction markets revenue - Yahoo Finance",
+      "headline": "Why Robinhood Stock Crushed it on Wednesday - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWTJsRVB6a0l6TERKXzZPTHpaY25NcWVMeEppV3lnVXF6d3REYjktNEdnR2JSUXhtbEU1VFgxc0dINXVRYzV1dlpCY1ItS1FOUXpoNUs5Y0dtRklUbkR5SThoQ3dqUkR4SUVHWnBjZ2xUaWw5LXYwblN3c2N1VmZWbVJCMnQ0Q3BUTFdrM3lSQ191NmpJU1lkbkZreUY4cEFnNHE3N2NCRGlBN1pGcUVHVWsxQ1lkNFJ4aTZDVDE1dlA2VUtiQktBeU1ZSDUwN1QyMjM4dXJYb0ZBX0lPWUE4?oc=5"
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSE9TMGxXTDRTNWpkR2V2MUsxVzVPWERhajcxZ09QUkNYSUoybnRUVmxGd3RCWE0xQWlFcmxaS09pN0dndndDMWg1RnZ2SmJSLTViYXVJTjd3WU1xNjJEQWJ1VGwtQ2l3ZEczSWdxeUNwMXRnZVdYbDJqUmpLbU9xMW12NEM5UEFYVC13eWhQMkhPMFhVa3luaEF0dTJXWjdmRV9NOA?oc=5"
     },
     {
-      "headline": "Robinhood Is Latest Fintech to Cut Jobs, Eliminating 300 Roles - Bloomberg",
-      "source": "Bloomberg",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUU9NeUdTYVYtb2FUazlIUFRvbkNwaUpVT2tFUkNEMzRoeWpMUkd5VVlqQ01LUlh0aE1RdkNLYnYzWnJ3SndTQTJFZEM0dF9WeUlhMVNaazkwRUQ4ZTkwSHR0RXY5R3BBdzNIQ3JwaDZJSG5vNGp2bjZ0YnV2VzNZeDJ1aThLWHhSN1VON0lBV2RVbVdJRFdqVjlTVmo3VUo4VXBZYnlHemtEZmZwRXlnMHZ3?oc=5"
+      "headline": "Intel, SpaceX, Robinhood, Carvana, and More Stocks That Explain Today’s Market - Barron's",
+      "source": "Barron's",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5seHlYcWtVelEtalIydHVRcE1Xd3pNR1gzYjVnMnJpeVlreXVRR3hjbEdXRWhpN1hfTE1MaHc0c1BvR3poLTh3TjFJMW5IWmtGOEhWNHFTZnBSdVN2N0EzX3hMSU0?oc=5"
     }
   ],
   "insight": "Tracking Robinhood Markets (HOOD)."

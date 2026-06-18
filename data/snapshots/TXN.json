@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:38:17.354Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:21:20.673Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    302.7300109863281,
     300.6000061035156,
     302.30999755859375,
     304.8800048828125,
@@ -24,10 +23,10 @@
     297.1000061035156,
     301.1199951171875,
     313.3399963378906,
-    305.7099914550781
+    305.7099914550781,
+    301.8800048828125
   ],
   "6m": [
-    182.5399932861328,
     180.94000244140625,
     179.52000427246094,
     181.6699981689453,
@@ -158,10 +157,10 @@
     297.1000061035156,
     301.1199951171875,
     313.3399963378906,
-    305.7099914550781
+    305.7099914550781,
+    301.8800048828125
   ],
   "1y": [
-    197.69000244140625,
     198.35000610351562,
     198.1999969482422,
     201.38999938964844,
@@ -411,29 +410,30 @@
     297.1000061035156,
     301.1199951171875,
     313.3399963378906,
-    305.7099914550781
+    305.7099914550781,
+    301.8800048828125
   ],
-  "lastClose": 305.7099914550781,
-  "oneYearReturn": 54.641098527826735,
+  "lastClose": 301.8800048828125,
+  "oneYearReturn": 52.1956115924021,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Texas Instruments Stock and the Industrial Recovery Hiding in Plain Sight - Trefis",
+      "headline": "Why Citi Keeps Pounding the Table on Texas Instruments Stock - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHRnS0NYRFBJQXQ0YlozY0FPUWNhbjNSbVZoZV8xTTV4d1RLOFEzU09jbUpSZ1pQSXczWEdHNXYzb1YxSGx3Qkt0aHd3Y2FEcHg4bUVqbnhzT1pVM2RoeVdVaTNocmZkX05vLXIzNHFRbkJmV3RDSzg1NzZpWHVvN0pvMWFxMElkWXFKSUVkbVFVUGtTdmRTc0FLVENCaC1tSmE0WU90Zw?oc=5"
+    },
+    {
+      "headline": "Texas Instruments Stock And The Industrial Recovery Hiding In Plain Sight - Trefis",
       "source": "Trefis",
       "when": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSXR5Mk5KXzZMUHlzNjNWb280VVljaWN5UnlySzk5b0RMd3BJeENQSFlwdzBQY2pKdi1OMlBQYUpiTmxzS0pOaUZUdlhDa3pvZFh5U3pRV0UzNVg3UkJzcnc2azZkN1p1QlZObTZ1WUg0UEF2ZTJHMnVNcnBNWmkwSE1NczBhX2h5RUlnaGpLTTlqaDY5WXpQd2tQUkViVG1XcjdxenNBb1V4amMwUmlESThOYUhHVGhNbTZpbmxfQ25kUWlCUWlQbUJWcDZFYlZrWmw3aHh3dnB0dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2VEdGotOFNoWEF0STVYQWlLUkRTX0tWTmRHODRfSTBURExzS0NxeDBya29tLW5QZ1pySmhrbEdXOVo4Zl96Ylg4dGRudzVBYnRGMGRMWW40ekJHRzVFd3V2X3RJZHNkc000TC1PNDBzZjljQkJpT2UxT3luaWxWdzgtSEVNT0xDczNBdFlESnpzSy0wM3BROTE4S0U4cG04RGZHaW51UUdyaERPRThPbWdkemxCcmhfa3NHU0w2eXN2aFRJZ1JlLUg2V01Tdw?oc=5"
     },
     {
       "headline": "Texas Instruments Stock's Rally Is Asking One Big Question - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-03",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb05ENkJVSnlaUTFuaWJNVW5jT0hRalJJOFZjYmFNNmNUSlR4WGpIVUp4YXQ5OW9rRVgzYkMzNDFuZHBubjNSeGEwdkVFWjNiclBHaEVTM2dwUEpBNnVrcjd6eGdiX3N1OXo0VzFSdi1GY0drM1NqNk1KN1UtSFFRNzI1VkRwNE5KeU5lQm0tTHRuNFN2X09RS3kxTmVrRGNVd1ozYg?oc=5"
-    },
-    {
-      "headline": "Texas Instruments (TXN) Stock Valuation After Sector Rebound And Growing AI And EV Battery Monitor Demand - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-13",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakQ4ZUdoZUdBd2xoaVQzdnI0eTZ1dWFCQ1B0aFo3OFV2eXhUVEgyZ24tVGFyVnpwUnVrS2pjU0tNZkdNank1bDV3MDBvX01vQ0Z5TDluRWhPc3REWkFCVko0eEFZeFJJa01EdXY5RGhKVmpWYjB3UWRxaWhBLTlwa3I0YTVrMk42NEpxZ1RKYTdlQTRoZFB0Rm1KcVVEdVZVVEVlUEw1SURWcEZzLWJMSGxLc05KTGlncWdabEhBcXJKUWRUQjA5RXlEM25oNVVCSng0NTBZUXDSAd4BQVVfeXFMTWwxOHhhM1hkOFYzOG1XRXhIc1NpNkNhUFNEaGZDM1p1enl5blVMcTM5N1ktN0ZDRGp1OVhnMzZhMHV4WDNKSTRjakwyZ1kyVjZ0MUVyeTNSNU9SMDZ3RmctRXNKangtVnJ6QVVCNEw1MDhiNEEtaW9jRnQzTFFURWQ5UUxKX3N2bHZ5RWpDemRITlduWi1kaDdRcXRGMElsT21uVWNCWFdVMFV2ZVBDcTBGbWxJR3ZFdUpteVF5cUdlak1DMm5KNWRjdVdaaURGWVVCaEpYaHFsNElFbmN3?oc=5"
     }
   ],
   "insight": "Tracking Texas Instruments (TXN)."

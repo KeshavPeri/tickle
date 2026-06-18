@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:42.169Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:34.529Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    24.760000228881836,
     24.93000030517578,
     24.799999237060547,
     24.8799991607666,
@@ -24,10 +23,10 @@
     23.969999313354492,
     24.5,
     23.969999313354492,
-    23.65999984741211
+    23.65999984741211,
+    22.690000534057617
   ],
   "6m": [
-    25.59512710571289,
     24.97657012939453,
     25.107778549194336,
     25.84817123413086,
@@ -158,10 +157,10 @@
     23.969999313354492,
     24.5,
     23.969999313354492,
-    23.65999984741211
+    23.65999984741211,
+    22.690000534057617
   ],
   "1y": [
-    32.36176300048828,
     32.10871505737305,
     32.36176300048828,
     32.41799545288086,
@@ -411,12 +410,19 @@
     23.969999313354492,
     24.5,
     23.969999313354492,
-    23.65999984741211
+    23.65999984741211,
+    22.690000534057617
   ],
-  "lastClose": 23.65999984741211,
-  "oneYearReturn": -26.889026883191985,
+  "lastClose": 22.690000534057617,
+  "oneYearReturn": -29.333825743215574,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "AT&T, CMCSA, CMG Hit 52-Week Lows: What Dragged These Stocks Lower? - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2ZRT2haanpVQ2FpTWtDWW1QRFFxT0tWaklCWFUyS1RteEZib0VLa3d3bmNZVW5UUmM4UUI2MlZVNkp6UE9WenZfczI3ZFVfMGVlNVQ1cVJvaFVvdHJPRFVUV3lQNTVfTHRyQW5OZThiZWR3MkJQcUdCZk50S2F2azNfQzJOTDN6X1dHeDI4R3dDc2RNd1plamd3?oc=5"
+    },
     {
       "headline": "Rosenblatt Lowers PT on Comcast (CMCSA) Stock - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckd1bVh2LVl6NmtvYVdITlZhcUE1TGgxWGo4VUNESmdVcGE0Tks1d0F4ZmRha1NVcGlodnZsVGlrTFliVExRZHRGZ1VYeTRNWDZodU5BOHhmU2dzMTQ2WHFwSnVLNWR0V3EzUThMQ0tpVTVQa29COE1vYzZEUVVzV2RObzdkZ2g5dkxuLU1Zb3Z6Sm9UNTFhTUc3bDZwY2Et?oc=5"
     },
     {
-      "headline": "Rosenblatt Lowers PT on Comcast (CMCSA) Stock - Insider Monkey",
-      "source": "Insider Monkey",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmJYajJmV01BZzJmMWc0VVBiM0ZmUWE4YkZlVEhtcFRzbmdodWxubXYwSHJsX19NdVBlekloNHYxS0JtREdKOVhPblowd0lQb2dfZUtLTjZmTHdGS3FCNVQ5dnZBMC1tT0VpUm5qbnowU09ySGtuMkNBd1BOY19TQnhPd1FFMXdyWHhsU2s4S1LSAZgBQVVfeXFMTkdnX0Vzbm53SU1lT0tpTGV2cFNOaFpRd0Yxb2dqNkRQbjBRX1BvcE1CZU9FRlZMTEFUX3JNLUl0NzZObXhCaGpFdnYwX1p5MzFTNUh2bVN5dWp3cC1rVWt3N0ZPU1VPQnhTaXVnRVdHX0xZUVJCR3Brbk9HZEE4aXNNZlhrcEVOMGdhcVF0S0JPRW42cjhLNUg?oc=5"
-    },
-    {
-      "headline": "Panagora Asset Management Inc. Sells 128,707 Shares of Comcast Corporation $CMCSA - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbXA0Znl0MWtteDYwMS1KcGdQd0NXM0JZVngxbVJkNzhlN2JBSHlsMk41TFdxV1ZjbVNLblhGMlhjM2RSTkVYcnlGWVBCU2ZERTVVVEcwa0k0SHZpVktpendMY0htbGJqd3ROTjdCNHE3eUE4R1VyZGZYazdVUnV2R0ZRLXhiR1Y0ZWlqV083ZGs2WTYyQWpPb0FjcFNuNHVlbHBndWxZOE5hNDBhaFV2bUlpdThDTnRHNUxPYkdfai1jOEtkM19XMkZqZ2tTeE1iQUREd013?oc=5"
+      "headline": "Comcast stock hits 52-week low at 23.12 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUZ1VnpVcnNLckFHdlZrX0ZBX2VNV0Zyamd6YjZBQ3lnTlp1eTVqRnlWRjFTWWJ4OVJMeTdxanhRY2lnUk5UVjZ3LU9GRk5vekhPRmV3T2ttUU93alVHN3ctWWFEemxIQWF6QkZ1UUl4NVhJclVLbWM2MTJuekRUd1QtYXpmS1BDclpBZGJieFpJbHhGNE1ZVGl5RC1fdTg?oc=5"
     }
   ],
   "insight": "Tracking Comcast (CMCSA)."

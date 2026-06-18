@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:44.152Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:36.526Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    103.20999908447266,
     103.38999938964844,
     98.54000091552734,
     101.44999694824219,
@@ -24,10 +23,10 @@
     104.83000183105469,
     106.4800033569336,
     109.58999633789062,
-    112.83999633789062
+    112.83999633789062,
+    109.41000366210938
   ],
   "6m": [
-    119.48999786376953,
     126.54000091552734,
     123.69000244140625,
     125.13999938964844,
@@ -158,10 +157,10 @@
     104.83000183105469,
     106.4800033569336,
     109.58999633789062,
-    112.83999633789062
+    112.83999633789062,
+    109.41000366210938
   ],
   "1y": [
-    89.80999755859375,
     89.02999877929688,
     88.1500015258789,
     89.93000030517578,
@@ -411,29 +410,30 @@
     104.83000183105469,
     106.4800033569336,
     109.58999633789062,
-    112.83999633789062
+    112.83999633789062,
+    109.41000366210938
   ],
-  "lastClose": 112.83999633789062,
-  "oneYearReturn": 25.643023499996943,
+  "lastClose": 109.41000366210938,
+  "oneYearReturn": 22.891166081372212,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "CRH PLC (CRH) Shares Fall 3.0% -- GF Value Says Still Overvalued - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVFPbWhSQ2xSelE3MGlNYVRtZGhWSElSTUJlOGllb0lqaW9TVXE4TE4ta2pySTNIbm1RYkxCNldTa3hCaXZFLWNLZUFlMWk3WVNGOEpHaGNRX1BMa2ttWURCbG9ib2NiQTdkSWFNU3pXOVhlUWtDM1p0UWNFTlBHV29VTFVzeXpKX2FLSXpZaEFiQjRtS2ctbVFUNDc?oc=5"
+    },
+    {
+      "headline": "CRH (CRH) Exceeds Market Returns: Some Facts to Consider - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQekdVek92aWI1ZUQ5b2F2d1otZ2xjR0huY29jNGc4NzJLaWtSeEZTNW5iODVCQVdEY0ZwWnpBOFVlUk9vbE0zMk1TZTIweXlrWlJTRkpPUXBXX01JTUJwUzJuTlIzOUtiZUt2aEtxcEFIVUNlUFZjMVlrVmxfcEpJUlV3Rm1GajV6SDFWcnVGR2ZDdGtoZ0R5U09jTQ?oc=5"
+    },
     {
       "headline": "Analysts Offer Insights on Materials Companies: CRH plc (CRH), Hudson Tech (HDSN) and Ashland (ASH) - The Globe and Mail",
       "source": "The Globe and Mail",
       "when": "2026-06-16",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPcW5mR1I5QTRPQ0dQc0s2NEdVNm5wWWc4Yk5DenlsMEdyLTZZZGp0elNhSEhuQXppb3RpSjMwOTRSZnFlcjNtQm5IelpMNVgxTFNJdHNWZ0Z5Y29RSC1ITkRJWHNOaU05QlR2ZVdPMGdWN3hKVDdSRGNXV0s4VU00NnNtX3FDem0tR1pvMkcwMTliMEg3YnhUdlVmVlF6TXFhNDFKVjI1NVhxdElIM0lWN28xXzFGV2lRSVFzT2lVR1hvMHJPMmZNZXpOQTFFNnNXdjN6UFRBdWpCU2FZZmMzdE4zdUVnbkdCb3FmajVwSmxxeTVQSVp3b2N0V0I4NVA4QUxyVlJDS0tfZw?oc=5"
-    },
-    {
-      "headline": "CRH plc (CRH): 8 Best Basic Materials Stocks to Buy According to Hedge Funds - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-09",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFJFZWpqNWVXR1RCUHNpMjZxVmYtOHhXNHhiTXp6dFZseFpSRWVtWVoxUC00V18yc0VrdkFETzZmVS1DdXJKN3lTRG1CSzBaVWlSd1A2Q25JNFlaZVNfUFpiOEJ5VTBrOXZKNGJLYUFWMGF0bzNIQ3dYUmNPS0l4VV8zVlVrclJuY01v?oc=5"
-    },
-    {
-      "headline": "CRH PLC (CRH) Stock Up 4.8% but GF Value Says Overvalued -- GF S - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEVQcGktRGdSdGEtcW91NDVma0s4WEx6QXh4Q2lVRWQ4cmZEN0xURWh5M0NJYlBlV0hlY1pWM0plcHN2ZVFxU3JHU3F3TTlucU1IYmo3YjRUWW1nNVdYN0RBRFFBM2gyaUFfbXhRbjJ6X0RFT2ZQNnFrc0tuWFhRY3g3SjFKMElKR09SY0lKR1l1Q2ZTOWJWV18xTklPSkdnR1dSTUpSOG9xMktiMER1dG9Da25QRWFCbkE?oc=5"
     }
   ],
   "insight": "Tracking CRH plc (CRH)."

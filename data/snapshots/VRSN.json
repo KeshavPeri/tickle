@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:38:18.461Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:21:22.028Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    297.57000732421875,
     305.30999755859375,
     302.6300048828125,
     303,
@@ -24,10 +23,10 @@
     279.57000732421875,
     279.8900146484375,
     272.9599914550781,
-    273.8699951171875
+    273.8699951171875,
+    264.9200134277344
   ],
   "6m": [
-    249.5399932861328,
     250.9499969482422,
     242.57000732421875,
     242.32000732421875,
@@ -158,10 +157,10 @@
     279.57000732421875,
     279.8900146484375,
     272.9599914550781,
-    273.8699951171875
+    273.8699951171875,
+    264.9200134277344
   ],
   "1y": [
-    283.9599914550781,
     281.1600036621094,
     280.7300109863281,
     282.8900146484375,
@@ -411,29 +410,30 @@
     279.57000732421875,
     279.8900146484375,
     272.9599914550781,
-    273.8699951171875
+    273.8699951171875,
+    264.9200134277344
   ],
-  "lastClose": 273.8699951171875,
-  "oneYearReturn": -3.553316185913057,
+  "lastClose": 264.9200134277344,
+  "oneYearReturn": -5.77606701623599,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Verisign (VRSN) EVP has 82 shares withheld to cover RSU taxes - Stock Titan",
+      "headline": "Is VeriSign Stock Underperforming the Nasdaq? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMWhMY0otWVZqQ3d1RE84ZU5NWG42SVY0TEY3MDBYdzRHd25Tbkw1eEdJVm42a1NUcEh2MHFPMlFDQS1HX2xxYmdra1R5NVNRSzRhODB1VU9xaUM1RTRlR2pyTEphOE5vQVhxR3ZodzBZWG1TRVMtQlBxS0R0T1IwLW4yc2dIaWdJRFkzdjhTV3ZCUQ?oc=5"
+    },
+    {
+      "headline": "Verisign CEO sells 3,300 shares in open market | VRSN Insider Trading - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeGExNXJMMzkzQjY4TU9PeUVkTHRkOTVoRlc0cHhiZHg4LVJLMm9nQmlIc0d6UGM0YWNKSFl0Sy1pRExmeFMyQWV1bDAtXzJ3Nmt4Z0tHRGN0dUo1cHRZSE5IZUZqcXVJby1MQU1UeEtWTGhiMF9BQXU1STFKZEtERTNXaFpBTlBuQ2FsRFZRM3VHMThqYjFpQ0o3ckt0TzBzb0xaa3ZtOE1SbGlGRkE?oc=5"
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ00wcmdjbE5YR1FNZGNYaHNJbklqUS16a3U0NDlFN1pqNFZsdF9EVEs2blhzUzFILTFVd1gyYUN6RXBiRlJfelgwNzZGWkZpcVJJTUxHTWZYNGxQcVBmUkYzLUM4TmZxamN5MlBkWWFjcHViMTJQR1lLNTJlVHhWU3BVdHZ1cm4yM3ptSkQxTXlpQmtpcndwUGstbWdNdldncmp1Y2ZuanZiZ1FzSGc?oc=5"
     },
     {
-      "headline": "Barclays PLC Purchases 130,683 Shares of VeriSign, Inc. $VRSN - MarketBeat",
+      "headline": "VeriSign (NASDAQ:VRSN) CEO Sells $904,926.00 in Stock - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXo2S3l3SGlHdnNFTm5RV1hRRzFHSnM5R0g1eDd0OG5fWFQtWXJGRkZTR3diYW5WZHlPUGpRNHRtRDNrcjZpTkcwZ3UyZ1o1VDhERDNIWHFDQ2hRdXhaNlU0NU94RGVodE5URDZaQXZTMjhoTlRiam1FcVRhbTFaQzNBSko1aC16SHVVU0tpaU1MV25yVWVlOUxwdDdLQWd2bkpTSmVKQVFJSS00aUhTZDNuTllzLTFEWEE?oc=5"
-    },
-    {
-      "headline": "VeriSign Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbVpoOGxXTzBzdS1qQ0JRdXJDUkJXb1JvczJQLWg0Nm8xYXJfLURpSjBXTy1fN19mbmwyTjJtcTRuNkhLWXdxeXRLTDR1aW52YVFzRi1aRzg0MzE5Y1NpOFJoQTBBeEU2YzItSi1lOGxDVGtHOGhmTnc0NHFnNmdKRUwwQXVMdmJJMVhsNnFqMW5JdTcyX21RTHYzOEhrUDJtbHBieEJ6dGNINUxiVi13VDdwYkpaRUdHUUd6eGpIVWFVRk5qWkRVWWwwX3Via3dsanRScnBkazFqYVJUR2I4?oc=5"
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc1ZBSndfOFpVbzdCMV9rc09UQTI3elI5R0tRcVg2RHA2SW5TUWJmYkRDQzI2ZTRfdy1vMVp5UkN0dDhoZG1yUGFuVEtYaGMxTE1CNFNhZWp3WGwwY3ByMlRNUWdIUEZVQmV0Z3phcEJNVFBKdF9LV3FUcElzelkydWRKVWpyTnVIUUNTb0RUZExIOFRYTjg0Um1zdDZCaHVONk5B?oc=5"
     }
   ],
   "insight": "Tracking Verisign (VRSN)."

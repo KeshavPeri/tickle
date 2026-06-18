@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:38:09.935Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:21:06.325Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    238.2100067138672,
-    242.8300018310547,
     247.5500030517578,
     240.1300048828125,
     246.66000366210938,
@@ -24,11 +22,11 @@
     263.2200012207031,
     279.5299987792969,
     279.6199951171875,
-    284.5400085449219
+    284.5400085449219,
+    279.8999938964844,
+    282.1300048828125
   ],
   "6m": [
-    195.67999267578125,
-    198.83999633789062,
     195.35000610351562,
     195,
     192.9600067138672,
@@ -158,10 +156,11 @@
     263.2200012207031,
     279.5299987792969,
     279.6199951171875,
-    284.5400085449219
+    284.5400085449219,
+    279.8999938964844,
+    282.1300048828125
   ],
   "1y": [
-    202.0500030517578,
     199.77999877929688,
     199.24000549316406,
     203.32000732421875,
@@ -410,29 +409,31 @@
     263.2200012207031,
     279.5299987792969,
     279.6199951171875,
-    284.5400085449219
+    284.5400085449219,
+    279.8999938964844,
+    282.1300048828125
   ],
-  "lastClose": 284.5400085449219,
-  "oneYearReturn": 40.82653018917953,
+  "lastClose": 282.1300048828125,
+  "oneYearReturn": 41.220345683598794,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "William Blair reiterates Palo Alto Networks stock rating on cash flow outlook - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMXk2WXpaeVVtdEFZTVZrcFZTbjZWYUVMcHVzLW84SzBNSEk2N1ZEQkp1eS1HZV9kYVItMHRrVXBTQjNkMUVFLVZWRG9QeDNQaEFnWC1USWl0Z05IZU95aG9GazJ4S2NQWW5pcFF3UU9UV000eWgyVXB4c25xOU01Rm9ucWx4Y2ZrcHZ1aGU0YU5VTWFPUzVzT1Q4dEMyMmQ3R2M5ODIzZ05TVDR3SmhySTJkVlJ4RFdNWllXNVVUVTlVd2N1Y1B5VGZIcE12VFdJbjlz?oc=5"
-    },
-    {
-      "headline": "Palo Alto Networks (PANW) Stock Valuation After Strong AI Driven Q3 Results And Optimistic Guidance - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaUg0NjN5dzIwODYyNl8wd2wtUzJNSW5vUXVLZGVFVTJrMWpuZGt3eTBwOWp3OWpRX2VDYXFWMFZYTmQ0WGg5NzZqajIxdkpsTkQ5X0N1Y0N1Umc4bUFiZHVfQkwtb2xLWjFOTWFYdGlnQXZXLVhmSlFqU3ZoblBmT0lrMUQtRjRIVV9XVGNhYjV0SXh4VUU1RXo2clRyN0N2QU1pOU9UX2JaSlR0cG93ODkwcVZqWVZMUnZrd0JNTTZNRVI2UGNNa2RJQ0hndEYyTXdj0gHYAUFVX3lxTE1MMUxBT2tsMUNpZlZHYjc2OTU5eVVPRHpZZVp3QVFrZDJyQUVCSmhYZ2VFcW1FOEhCYjNTSFZRX2lUa0REU0Y2bGRhenJwRUZyNVNodUZGRlhiSlVWMEZKajNMMlpNQ2l2TkRyN01jTzJGNWZ2QmFCbEtRN2dEaDBZOGFkODdHVEx0SldKeUpWZENtay0ya0F2MFN0T3Y1Wl93X2dJZTlZRWF2SElzWWZOWXZXTEgtY19USXM5ZFdMRWpHUllCRm5yQXBHalg0WFpQRnVfUEltdw?oc=5"
+      "headline": "Board Member Of Palo Alto Networks Sold $5.60M In Stock - Palo Alto Networks (NASDAQ:PANW) - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkFMekJBUjRvdGdJR0x5REhRelV6WWcwNGhoLWJSajBHdktpNWZISmUwTWNpdlpRRzl1QkpXNEcwVjV1UmpodFZWRDZYbkhsQjZzbl81aW5IaXZ1SERDa2ZUY3F5OEJoeW1nWHV2RXJzbUwzUnhmWTJCMXYyY1lwcDBsdkF3czRhLUVqZWlIUnota1AteTJFVXFiNnctWTlLalFFNDdKQXE2bXhR?oc=5"
     },
     {
       "headline": "Palo Alto Networks Reports Fiscal Third Quarter 2026 Financial Results - Palo Alto Networks",
       "source": "Palo Alto Networks",
       "when": "2026-06-02",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3RvbWxiOERPaU9QRlRVVU43VUZOODRCcVhKcVE1d3FGTDMweW9sdU1jTkVsUzlnSVllTjdXc2ZtRVRfM0lrT3hQUTdRdjV3Q2xaTWpVSlIwSGppMHBRZ3hSTTdBT0FMVWZRa1lNV3BZZHVzWEQyaW1yMlJRR0hjYnhsS1lXZnRiNUZWc1plMDIzaVItdlNfOUlvM2wzdVNUakQ3d2J3UzU5bXBNdTQ1dHpFaUpjRncybWI2M0p6Yw?oc=5"
+    },
+    {
+      "headline": "Palo Alto Networks (PANW) Stock Valuation After Strong AI Driven Q3 Results And Optimistic Guidance - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaUg0NjN5dzIwODYyNl8wd2wtUzJNSW5vUXVLZGVFVTJrMWpuZGt3eTBwOWp3OWpRX2VDYXFWMFZYTmQ0WGg5NzZqajIxdkpsTkQ5X0N1Y0N1Umc4bUFiZHVfQkwtb2xLWjFOTWFYdGlnQXZXLVhmSlFqU3ZoblBmT0lrMUQtRjRIVV9XVGNhYjV0SXh4VUU1RXo2clRyN0N2QU1pOU9UX2JaSlR0cG93ODkwcVZqWVZMUnZrd0JNTTZNRVI2UGNNa2RJQ0hndEYyTXdj0gHYAUFVX3lxTE1MMUxBT2tsMUNpZlZHYjc2OTU5eVVPRHpZZVp3QVFrZDJyQUVCSmhYZ2VFcW1FOEhCYjNTSFZRX2lUa0REU0Y2bGRhenJwRUZyNVNodUZGRlhiSlVWMEZKajNMMlpNQ2l2TkRyN01jTzJGNWZ2QmFCbEtRN2dEaDBZOGFkODdHVEx0SldKeUpWZENtay0ya0F2MFN0T3Y1Wl93X2dJZTlZRWF2SElzWWZOWXZXTEgtY19USXM5ZFdMRWpHUllCRm5yQXBHalg0WFpQRnVfUEltdw?oc=5"
     }
   ],
   "insight": "Tracking Palo Alto Networks (PANW)."

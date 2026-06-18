@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:56.350Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:53.574Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    397.1700134277344,
-    393.32000732421875,
     393.1099853515625,
     384.8999938964844,
     384.8999938964844,
@@ -24,11 +22,11 @@
     353.32000732421875,
     356.55999755859375,
     358.1600036621094,
-    367.1099853515625
+    367.1099853515625,
+    371.1000061035156,
+    362.1000061035156
   ],
   "6m": [
-    318.3900146484375,
-    322.0899963378906,
     314.45001220703125,
     317.75,
     321,
@@ -158,10 +156,11 @@
     353.32000732421875,
     356.55999755859375,
     358.1600036621094,
-    367.1099853515625
+    367.1099853515625,
+    371.1000061035156,
+    362.1000061035156
   ],
   "1y": [
-    177.22999572753906,
     173.97999572753906,
     167.72999572753906,
     166.00999450683594,
@@ -410,29 +409,31 @@
     353.32000732421875,
     356.55999755859375,
     358.1600036621094,
-    367.1099853515625
+    367.1099853515625,
+    371.1000061035156,
+    362.1000061035156
   ],
-  "lastClose": 367.1099853515625,
-  "oneYearReturn": 107.13761451302611,
+  "lastClose": 362.1000061035156,
+  "oneYearReturn": 108.12737958137521,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Alphabet (NASDAQ: GOOG) director granted new Google Stock Units and DEUs - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnJVdlJvbGNoejhxb3RULXFEeXRFaWV6Vm9rbmlTblVhbXMyRDljUUN5MlZlZGhicDZKcXphWDVNaGhnWHEtWnZtZTN0UEt3WEp3Vi1qM0xnRjB0RXYtVEs4T01uLWVWNHhYc3F2MW5raXJFSjBEbE5RY2E4U0VrSnJoTDFBcWZmek03RDVwdUtCYWZGdHRFLXJFMU1USFVHTHZYWk9UM2ZXZw?oc=5"
+    },
+    {
+      "headline": "Alphabet (GOOG) director L. John Doerr reports new GSUs and large share holdings - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzVzRWxPZS1KLWVtMmc4Zjl0anpfa1l2WVhkZ2JLRFU4U2tGUGZKNVZFMWM3NUg5U3BvWUxkNVlVcUREVUh0WXVPbk45V0cxREdqajhXNFFhbmNJQ2JYYXN1QTFmWDUzNW1EWEJSNHJXTjFwN3pVcnRMT3lRNzYydzBXbDJZeHRJc0ZWOU1pcEV6RHJaSTdQblNFZVNaSHM5NnpKTTAzMGdYZw?oc=5"
+    },
     {
       "headline": "Alphabet Inc Class C Stock (GOOG) Opened Up by 3.10% on Jun 15: Drivers Behind the Movement - TradingKey",
       "source": "TradingKey",
       "when": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblZzTDdpS0lDR0xkMGgtYnVTSllJZmw3QkdkSTNCejlLRWpRX2Vndm5tM21UMnRIRnBsWkdxQ2Y2S0xYbXpRb0stQ05IZEJwc1VvWnpsZTNadUVGajlfUXNoaExhTjNMTzFqZlFfMGxJRGZZZXdGRTVfMEdBWFpXQlJJRTVxS1JtNU44?oc=5"
-    },
-    {
-      "headline": "Alphabet Inc. Class C - TradingView",
-      "source": "TradingView",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHRjByTHRKZlhXX3RlWFNBaENTTTN6NXZ2ZlVVbm90elBIVU1sWUczRU5xSHQ4c0Y0ZkhJSnhUQ3V0TkVBaFpRQnJhRTdYS1FFTEU5dlZ0dUVhekdaNTJzdEx6Q3VNaklCOXc0M0p0aXU?oc=5"
-    },
-    {
-      "headline": "Ram Shriram (GOOG) reports 350,608 Alphabet Class C stock gifts - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZzJkU0hPb2ltaVJEZEctcGgyQlFRVEVBVEE2bS14OVRiU0ktNjhjSTlkd0xuSGhDVXd2c1lXN1R3dmRTTXNSMVRpdFc2ZnBRLXptWXlBX0RQcGdRWWFyejkybkw2a1k1dU13bkIxbl9zSFFkMnFNZEdVRjJPdWFURm11a09iOXVzUzhyMnN3VUdlZlFIbFN0UXNEM3o0NWVqRHJDZTNtQWdMQQ?oc=5"
     }
   ],
   "insight": "Tracking Alphabet Inc. (Class C) (GOOG)."

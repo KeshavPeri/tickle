@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:54.503Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:50.879Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    58.91999816894531,
-    58.720001220703125,
     59.0099983215332,
     58.20000076293945,
     59.029998779296875,
@@ -24,11 +22,11 @@
     60.060001373291016,
     59.84000015258789,
     60.13999938964844,
-    60.279998779296875
+    60.279998779296875,
+    61.43000030517578,
+    60.68000030517578
   ],
   "6m": [
-    53.380001068115234,
-    53.75,
     54.130001068115234,
     53.66999816894531,
     54.79999923706055,
@@ -158,10 +156,11 @@
     60.060001373291016,
     59.84000015258789,
     60.13999938964844,
-    60.279998779296875
+    60.279998779296875,
+    61.43000030517578,
+    60.68000030517578
   ],
   "1y": [
-    52.449134826660156,
     52.62245559692383,
     52.486812591552734,
     52.9917106628418,
@@ -410,29 +409,31 @@
     60.060001373291016,
     59.84000015258789,
     60.13999938964844,
-    60.279998779296875
+    60.279998779296875,
+    61.43000030517578,
+    60.68000030517578
   ],
-  "lastClose": 60.279998779296875,
-  "oneYearReturn": 14.930396809245844,
+  "lastClose": 60.68000030517578,
+  "oneYearReturn": 15.311989181901605,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Fortive Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "Fortive Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNanBmVTVWY2VwNnlIeThiR29NM1A0dlA3WXlyT0lYQzNQN3lFSHc0R05vaWtqWG1UVnlNZ2RNMlRnM3E1eUNsSExYMGNwaWRmQWdJd2hEazJlNlhITDhZNVVtZU0zeGtDa0kyUXdQOFhyY1hHbWQ3TmQ4RHBCM2JnTWo1VFpPY19hc3RlSVY4aURMVjJkdVJvc1owaVoyYmc3SU01N0FLcFVzb2IyMUk3N1pwMk9CaHhOSDEydlpYQnJySWUxM1A4YTZGYWVRSFlqaWRrLTl6eXJ1QQ?oc=5"
-    },
-    {
-      "headline": "Is Fortive Stock Underperforming the S&P 500? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNnFVY0NacEJNQVRDZzYzZFhZRjRfYnpCcmgzaGZHUWtvNXJ6clpmUHI0b1J3aEJnZEpmV2hNMk5leUxqajRVQzNpb1NaXzJrY0FreDB3UVU3LXlsLW5fYUpDcnNxa193LXN2TXg0Mnh3Smw2VVh5bkdydXp1UUZST0NOaC1yZnRTWWhXZDJkeXhvdw?oc=5"
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY0RJME81ajJaZFBmS2lTd0I1emk2cTh0VTZuUWVWdzhEMnJGQ1d1RGYxbmJBSjZOSG5YY0xpbXc5eUZ2bU1hX2dtcE0za0ZGc2VKcGQtaDZ5UWVFb1U0Q3RULUgzODdPeUNSVmdiOVB6QjQ4MTI0UzVVb2psU3BBTlljZFphazdZQXBPUktKZV90RWhvN0I1aUZya21lUF93ZncwbVhLSEhNam5pNkJJOGpieUd6T1U3VC1vc0VxdzJZd2NzZmxGWHM2MnhhVUVoakowMHBQNC1SdXplVkxqd1NWTQ?oc=5"
     },
     {
       "headline": "Fortive (FTV) Stock Valuation Check After Recent Choppy Trading And Growth Outlook - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-14",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDhpbF9uQzZFdlNFdmZOVEhGTUhxWHk2SEtuMmZTQlREdmVhX1dtUV9zM2R2b3V2ODVpNjc2WEhOa19xQzlCWElYdFhuMnBDdEN4cERqMjg4QjNqaDgtQ01ENGpBSXEycWE5ZFlINWxFb1dUZVptN29CcUwyQjFzV19JX2VJMEVPT2VMdTZKT1FmZ0haNzczdGsyZ3pUZFBhaE0waTJGYUxRcjQ1MzJ5ZDM1Y1d4N0tBUl9yNjNBV010UWJzY25v0gHMAUFVX3lxTE8zTE96akZKMWNxblhWYW5YQ3lNMm5YOXFMRXpvbF9oWExmQzlvWEoyVnRMalZiOGNyU1VsNjFtWUdfWlhSUkNfcVZLc0s5cFctZUd5bHA4OVlTNEFCaEV6c0lNYk1CeFF5dGVjZjVOVzVPdmhrRWdhNnlUYzlnVnpZelBuQU9tTDNqMjVBOWRMOHpUWW9UaE9COFBVZ1lsVkV2X0hmZFRsUVdaSkVzYU9oZldyY0tfcUZkOUhPVkt6ZFp6M3NReDEtWmhUag?oc=5"
+    },
+    {
+      "headline": "Is Fortive Stock Underperforming the S&P 500? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNnFVY0NacEJNQVRDZzYzZFhZRjRfYnpCcmgzaGZHUWtvNXJ6clpmUHI0b1J3aEJnZEpmV2hNMk5leUxqajRVQzNpb1NaXzJrY0FreDB3UVU3LXlsLW5fYUpDcnNxa193LXN2TXg0Mnh3Smw2VVh5bkdydXp1UUZST0NOaC1yZnRTWWhXZDJkeXhvdw?oc=5"
     }
   ],
   "insight": "Tracking Fortive (FTV)."

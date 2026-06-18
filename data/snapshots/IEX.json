@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:38:00.166Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:56.577Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    207.69000244140625,
     208.6300048828125,
     205.14999389648438,
     208.19000244140625,
@@ -24,10 +23,10 @@
     216.89999389648438,
     218.49000549316406,
     222.0399932861328,
-    223.80999755859375
+    223.80999755859375,
+    223.69000244140625
   ],
   "6m": [
-    177.5399932861328,
     175.9499969482422,
     173.5,
     176.50999450683594,
@@ -158,10 +157,10 @@
     216.89999389648438,
     218.49000549316406,
     222.0399932861328,
-    223.80999755859375
+    223.80999755859375,
+    223.69000244140625
   ],
   "1y": [
-    175.99000549316406,
     175.02999877929688,
     173.14999389648438,
     172.72000122070312,
@@ -411,12 +410,19 @@
     216.89999389648438,
     218.49000549316406,
     222.0399932861328,
-    223.80999755859375
+    223.80999755859375,
+    223.69000244140625
   ],
-  "lastClose": 223.80999755859375,
-  "oneYearReturn": 27.171993052348164,
+  "lastClose": 223.69000244140625,
+  "oneYearReturn": 27.800950695010258,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "IDEX extends dividend streak with 127th straight payout - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbnZQc2p2T1ZlOUFTTVRjak8zSlVZR0ZNTDJaTUhoX0ZxWU5JWnFFeVFmbkVFalIzTmdFTVBhM25YdFJ3eEJzTno5MFBVbkpGZWtiVzltUUpyM3FId0htOF8wQUNhUXd1eVZuTTVWWUFxc1lhUlB1eUtQSF9UMW94Wjlpd0NOdVVxUmFVR2xZU3lVVzgzQURTSi04WEc5S1gwUHY2Mw?oc=5"
+    },
     {
       "headline": "Is IDEX (IEX) Stock Outpacing Its Industrial Products Peers This Year? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdl9iT21RaEFlRmVDTHhNekpkZjFrdUh0S1NLdjZSU20tVy0xRjhDbXh6QmhCTXNsa2szZU9ZMnlqWU9HUk55MGVhUGQwODlEYi1BdlBoWFZtLW5OUGZUcjNvQTYzbDdraFBTRTV5b1VHQlZFTi1COTJYa3JXMnBTV0lpWG1kZWcybWtkd2ZiN3BzdXNUN2pDSWFvS0ZUcDB1MFE?oc=5"
     },
     {
-      "headline": "Is Wall Street Bullish or Bearish on IDEX Corporation Stock? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-05-27",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdjQ4aDQ4STVIUlhxMFpsWHE4aklEbF9qRU9JRnlqX3lCT0l0a2NsVnNPUkpDT2EtQVJNdzNhTGQzTmZzVVZ6Wjk3Z0VRQkJkNzVMaEFqalJTdGl0dFhlVEwzVTdYVDh6V2E4aDJXXzBHSXBMSzl6QlhUN1ZUeEw2MUVwSzZ6MW14eHM2b3NDS1JjcXJ2S1FKbEh4VVh4U1pMQzFBTWN3?oc=5"
-    },
-    {
-      "headline": "IDEX Corporation $IEX Stock Holdings Lifted by Geode Capital Management LLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGN6Y3Z0ei1vLVB5dDBOdXVaLUlrdWFaV3I1eU5RY3d6bFBfU1dhU3lyRmlpVElfRU50SUJnck8xQm5kcGZ2SnJJRVVRTFJZX2pmWm1nLU9raHZBdUxqNERsOHJJYzVNQnJlRGNlZ3lvTElfQVpuQm9iWEhHbDc1X1dwWFc5MWtqdWNHQnU1QXg1bFNWSFhJNmRTR2VhWGZzMV9LTEFqNEtWRnJSNi13MTQ0SGtfSFZSbzM3d1NPaHFUSmF5LUJsYXpGbVRySHJR?oc=5"
+      "headline": "Is Wall Street bullish or bearish on IDEX Corporation stock? - MSN",
+      "source": "MSN",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRGR3c00wdXNUMEJiOXJJdWhhb0F5SzNTR09aT0YtT1FNcHdvWUhsaFl2VHY5aXVZNEdpWEY1Uzg0M2J3bDlSS0ZaN285cjNJMndBUnJhTTBQWE53a2V3MnMwSVpZX1hDSEMtWFFIXzB2cERuWXVCamRDMWlaOFhPMkZtM3AtZTVHckxnRlFTM2NCbDFXUnlGaEhOVE5GWlJRaHUxaFhIbU5QUzItandsekpSZw?oc=5"
     }
   ],
   "insight": "Tracking IDEX Corporation (IEX)."

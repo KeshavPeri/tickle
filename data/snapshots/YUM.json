@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:38:20.162Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:21:23.553Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    149.97000122070312,
     152.30999755859375,
     152.19000244140625,
     152.7100067138672,
@@ -24,10 +23,10 @@
     153.27000427246094,
     154.30999755859375,
     154.6699981689453,
-    157.6699981689453
+    157.6699981689453,
+    154.07000732421875
   ],
   "6m": [
-    144.9600067138672,
     142.52999877929688,
     143.0399932861328,
     143.88999938964844,
@@ -158,10 +157,10 @@
     153.27000427246094,
     154.30999755859375,
     154.6699981689453,
-    157.6699981689453
+    157.6699981689453,
+    154.07000732421875
   ],
   "1y": [
-    139.99000549316406,
     138.36000061035156,
     139.05999755859375,
     141.38999938964844,
@@ -411,12 +410,19 @@
     153.27000427246094,
     154.30999755859375,
     154.6699981689453,
-    157.6699981689453
+    157.6699981689453,
+    154.07000732421875
   ],
-  "lastClose": 157.6699981689453,
-  "oneYearReturn": 12.629467806288924,
+  "lastClose": 154.07000732421875,
+  "oneYearReturn": 11.35444250113123,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Yum Brands (YUM) Stock Price Looks Close To Fair Value After Recent Gains - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcTNRa2NabW5weF9URUlDZGgza1htVXdpeEtrNHgxWElaR0lWZmVmRW1DcjJSM3R3Yk53VlhKSl9xSEMyVE5qbG00M2tKRXd3b25WX1duX1MzZGEtcUNJU3BoMU1OVU5fbkd1UDdmdF9mVXg3dS1rcDhSUzE1UHdVal93Z0RpaDZqcjUxMlowdmVPRWpJd0E?oc=5"
+    },
     {
       "headline": "Yum! Brands Is Selling Pizza Hut for $2.7 Billion. The Stock Rises. - Barron's",
       "source": "Barron's",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjalRfcTdkdzVieW1YT2toYi1Md2I5VnRhalZfaVNlRW9BV3N2ZGpXT1F4ZVA5ZWFES0dJVC1ZN1p5Y0RzM0V0Y2x4NVZSY21fZDFMQzk5MUJjR3poaVpEaGhaandYdl9CdnJJR2FfeDRuVTlNSGNOZWE0VXJKdw?oc=5"
     },
     {
-      "headline": "Yum Brands Slices Off Pizza Hut For $2.3 Billion. Shares Rise. - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xidUZuWHhKMm9aMTBSaUJ2S3ZlR1hiSlRyWGlDWWp0ZHdwR3JuLUNPdVRaTnF0aUVqamFxajlSYXU5bnVHRDhmdlFCNWUwN0ZBU0IyX1dkOUF1SEcwZTl3Q3NTYmpTUFUtdHIwdjB2OUVNZV9KMjRlbkxUMm43SGZGaW9paWNWM3lEanpfTGlhVjRqd0hHRWdOTExmYThUVXhwcW4zb1c2OEdrM1BraVhTa3k?oc=5"
-    },
-    {
-      "headline": "Evercore ISI reiterates Yum! Brands stock rating on Pizza Hut sale - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNWxzeVBsVFREY1h4eWtXcnYxN3FZUXJ4Mm5KVUZSa3RzRFAwUE9aV3BiU3Rhb3lWRmFwc3dBX3lMYk9BUVJZOEhQMmtsLUZUd1Y3TTZNcnJDNzM4NnBsU0E0cEt2N2h3eU0wRnl6eFFYMTl2T2FpSGZzeTRjU0lnNE10NUFtalVocjZSaTVkMnpzdmZJcGhxdS1KSDd3WUJnX3F1RWRMSHE5WXd5SlAwVXl5ZmwxZWdyQlBGYktQVFNiY3M?oc=5"
+      "headline": "Yum! Brands (YUM) Stock Nears DCF Value Is There Still Upside Potential? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbDBGTldZX05wZ21xWXhCcmlZOGk5RDdHS0xXUmFGOHNKclJjd3BfMUlCcjY5aVh3eXg0ZE43Wjh1NGpxVER1SnFlTHlMS2xjM3BEV1UtUkVCaVo5b1pSUGNaYWRYNnZibVVDdEU3TEVvdG1lbm8yYWJBZC12Q0VVeUI5eGE2QUxhZi1wRWxla0lpbXBfMEROZ3RqbFFMR19IeWdkRER2ZjZROURlMVVzelhXVlEzcUhORE5JdFRpRE9XMjJySEFYOTZvc0NFUGI40gHWAUFVX3lxTE5FS3JaRExXcWs4eEZJZG9DNEdrOXJCNU9oWnNlMi1INXdmLTRlRzZmWWJOYlZnSjJIVm5aZHRxaTZIcFdtUnFYOTNHSmdJT2tKYmxtRGtTeEJrckI5LUxNOHdUci01cFQzZHRva3p6NlJoWjl5a19RSGdOckNlRThtUWRqVmxVU2xCbHdkRnJhcngxT3BZam1nRmxaZ1ZpTVp5a0hOeElwSmRQcWpYdUJaanJIVVQ4OVRMQnYwcDRPVGlKTkpHM2NDcHBtbFZ0U0NRRXduTmc?oc=5"
     }
   ],
   "insight": "Tracking Yum! Brands (YUM)."

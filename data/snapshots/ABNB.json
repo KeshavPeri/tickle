@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:30.434Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:23.079Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    133.6699981689453,
-    132.85000610351562,
     134.3000030517578,
     131.16000366210938,
     135.5500030517578,
@@ -24,11 +22,11 @@
     129.10000610351562,
     130.8699951171875,
     132.27999877929688,
-    138.9600067138672
+    138.9600067138672,
+    141.1999969482422,
+    140.5399932861328
   ],
   "6m": [
-    120.81999969482422,
-    124.31999969482422,
     122.01000213623047,
     125.38999938964844,
     127.56999969482422,
@@ -158,10 +156,11 @@
     129.10000610351562,
     130.8699951171875,
     132.27999877929688,
-    138.9600067138672
+    138.9600067138672,
+    141.1999969482422,
+    140.5399932861328
   ],
   "1y": [
-    133.3699951171875,
     132.1699981689453,
     131.72999572753906,
     130.52999877929688,
@@ -410,29 +409,31 @@
     129.10000610351562,
     130.8699951171875,
     132.27999877929688,
-    138.9600067138672
+    138.9600067138672,
+    141.1999969482422,
+    140.5399932861328
   ],
-  "lastClose": 138.9600067138672,
-  "oneYearReturn": 4.191356228039105,
+  "lastClose": 140.5399932861328,
+  "oneYearReturn": 6.3327496656908595,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Airbnb (ABNB) Stock Is Trading Up Today - Yahoo Finance",
+      "headline": "Airbnb (ABNB) Stock Could Be 17.8% Overvalued After Fresh Results - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUZ4LXpIcmhqUHo2V2p3blVsLWRUemZqTUhNa3pPNXZvX1NZWHF4ZWZQMFctRktBWW44eWFCQzZVTndxZWJnZmY1QjZxSWtnYmMtWWlBZDZEWW93WTluVVNIY1JabDVnNUpIcENqX2pzLXE4SW81eW84LUI4Z1VEd2FTNTJJSmpqTkN4ajhlWkxWMC0yVGxtUndR?oc=5"
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHN6TXdoRWVWSzV6c3VoekpFa2tvRFVLYmpHMGN6OC02c01hY0RZQXhMdl9xeUEwcWhEY0hULW5seWFKd1VVN2dFZTQxc0lub0dtcFRrUjVvYmwwUnE4M01JTl9LT3l1THg4Z1RvMHdWd0Q1UG4zVjktTUZ1cmdHaDRjMG5CdDBUaVRLNHhZb0dVbnRYNkE?oc=5"
     },
     {
-      "headline": "Airbnb (ABNB) Stock After Recent Mixed Returns Is The Current Price Still Attractive - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdVY4cmZlWmdhZW5KV3Z4Q3RhZzdOY1lMd1poZDFmY2ctN20ydDd0dkRQc3E3cmlvN3VUTDYzZ1VRMkJHV04xOUR3R21MdThwRWljdzc3X19keTdJeFU5MnJkRktpWlEySFhyVkQwYWlBclBiVk1maUQxa2hOYThvZ282elBSdFVQZmhnOHdHZW5KYUtiSGdwWkw5dHVIcDVFd1BBOXJDYnl6cnVLdlJNRUhPXzJMS1lMRjJac294aE9qRVRVbEhJUW5oN0ZCd9IB0wFBVV95cUxPeW90Ujhha3g0N1h2RXFzckh2b1dnZGRDQ241UnZtdGNwT01tdmZEamVhMVUteXIzWEdOMTVqRWhXRUJoRUtsY0hqM1dPYXh4MmZDMzY3SWVkalh6S0xxTG9WU2tOQks5QVYwMjJlRlV2R0NTNlUzazF1MTkwS00zMDlDN1BxVXhCUGhjamhzQjd2T25wUmtEN1NZYklCclhuLVEzUWNjNDhVbVZiU2pJR0VDYXVGQ0hpUEk5S0RvbjhmLWc4R2dYT0RDYnI5M0FKdkRF?oc=5"
+      "headline": "Airbnb director Joseph Gebbia sells $36.7m in ABNB shares - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMUtfdjVTTkNUYXRPaVZ6YTRiUEtpMnEweFNkcWRfN0tUWjRnRnRMZU1QeGpkN2pKNFlMREpKd2hKTFpWeUVYNl9BOWtVSVZmcUFaeExrWXRxZzZ4RzFBelZ1NW8ySWoxM29hNWdFNHFwdHM0ckpwTnpfM2w4N3dyNEVwSWUwcERBMjZrOUgtX1ZUbTBjSGZVaF9JZTViWXg4MjAzSXVLd2Fscm95RndMYlpJVzdSZ3pRQ1FmT2dCM0pIRDRjaHhF?oc=5"
     },
     {
-      "headline": "Airbnb Has Gone Sideways for Years. Here’s Why 2026 Could Be the Turning Point - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU0dWbldheWg1c1FLVXVrcU9Ud2Q3MnVXVl9RZlE4ekJHSV9YcEJsZ21iczZ0eldhTWJ5RVZSamN4d3ZNV1BYUENuMmo4dVZvczBRWEZ1OWJ6SW9oV2FVbTZ3M2w2eGcwZlk5VlM5Wk9JcUpscWc1WjVQeGNQZlU3VThQTGh4ZFh4ZDl0b2xQWG1oRXUybGMxeUhuQ21NWlpQSmZyTg?oc=5"
+      "headline": "Airbnb's Incentives (ABNB) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU3hfZjMxS0lIV3doZllCN3A4UG1oM0NoZHFGVlAwU2FDVVAtTkIxbUdjM1M0SWktTGtiV2NMcTZnRXR5bHhGRmdRdTBrS0xkYUk1UjJqRlNFa2c2V2RKX1E0SGJQcVFwNkUxTl9yN0pLSFBOMU1ndjF2MzVockdxZnJkOA?oc=5"
     }
   ],
   "insight": "Tracking Airbnb (ABNB)."

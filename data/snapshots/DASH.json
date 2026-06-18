@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:45.883Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:38.541Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    153.6999969482422,
-    159.1999969482422,
     162.6699981689453,
     154.64999389648438,
     160.72999572753906,
@@ -24,11 +22,11 @@
     151,
     154.58999633789062,
     150.5800018310547,
-    168.08999633789062
+    168.08999633789062,
+    170.02999877929688,
+    165.66000366210938
   ],
   "6m": [
-    221.19000244140625,
-    225,
     225.42999267578125,
     229.99000549316406,
     220.3000030517578,
@@ -158,10 +156,11 @@
     151,
     154.58999633789062,
     150.5800018310547,
-    168.08999633789062
+    168.08999633789062,
+    170.02999877929688,
+    165.66000366210938
   ],
   "1y": [
-    219.38999938964844,
     220.5800018310547,
     220.4600067138672,
     230.32000732421875,
@@ -410,11 +409,32 @@
     151,
     154.58999633789062,
     150.5800018310547,
-    168.08999633789062
+    168.08999633789062,
+    170.02999877929688,
+    165.66000366210938
   ],
-  "lastClose": 168.08999633789062,
-  "oneYearReturn": -23.383018001949235,
+  "lastClose": 165.66000366210938,
+  "oneYearReturn": -24.897995155068188,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "DoorDash's Q4 Report: Strong Growth, But a Profitability Puzzle - Kavout",
+      "source": "Kavout",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNzJBU0tnVUlSZkxUZUp6TTNQMmlReUdENHhIX045TTNmT1lKeHVvNHJwVXliaGEtMnNoTmcxOFM1V2haQ2hTWXVINkI4MHR4TmVlTmE2a3hKVndMOGpTaWltSEFVeWJ0WThDbENKclhxYkt1SkVhdkU4RU45LVNtdFRJTDhnWVVvdzBoS3NXM0d6a3VuOHNyaTJPM2E?oc=5"
+    },
+    {
+      "headline": "Q1 Earnings Highs And Lows: DoorDash (NASDAQ:DASH) Vs The Rest Of The Gig Economy Stocks - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWJaSlBTSW96WkZTS2xzSFpGOWRfaVlrV0g3S0RFRkZMOTh5aXI2NUYzRTVjZElfYnZvVUtpNDctbWdSaG9naTQwY0hNYjFpdTZyOWx2SW9FOXp0OG9ZdXJfeHBxdnhKMFFvb3l6LXNSc0s2b0I4eGVEWVFJUncwZHVQdzFoY3JZTlZTX3UtcHcwb09KaHk3REg3Vkw?oc=5"
+    },
+    {
+      "headline": "Is DoorDash (DASH) Quietly Redefining Its Profit Engine With Ads Despite Recent App Outages? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONTZGRnFhbVozZEktN3ZJS1h3ck5xS3p4bVB5VEI5ZXFqNDZZaXd1ODZYSUpkcnBYODYtdnVYZ2NFdFV1WWFPS01aal8tdEtKQ1JuZmIyOW9tVHp2SGhFTlBseG8ySFJBT3pDSkpUYzY2T0V0amJ0ZDNfczZYYUdwei1ndVVUcHBZZFB2aWc5TWpNbWVwX3RLVXlLMmU1dVB6WDItUzZRTVpoM0N3ZHZqUTFOWXdvdG1VRVRGLXpiejBTOFNTc3VGeU1GZDh5dUU1bFFVa2Rka9IB1wFBVV95cUxONTZGRnFhbVozZEktN3ZJS1h3ck5xS3p4bVB5VEI5ZXFqNDZZaXd1ODZYSUpkcnBYODYtdnVYZ2NFdFV1WWFPS01aal8tdEtKQ1JuZmIyOW9tVHp2SGhFTlBseG8ySFJBT3pDSkpUYzY2T0V0amJ0ZDNfczZYYUdwei1ndVVUcHBZZFB2aWc5TWpNbWVwX3RLVXlLMmU1dVB6WDItUzZRTVpoM0N3ZHZqUTFOWXdvdG1VRVRGLXpiejBTOFNTc3VGeU1GZDh5dUU1bFFVa2Rkaw?oc=5"
+    }
+  ],
   "insight": "Tracking DoorDash (DASH)."
 }

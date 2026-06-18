@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:57.070Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:53.898Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    1272.469970703125,
     1265.030029296875,
     1244.4200439453125,
     1244.050048828125,
@@ -24,10 +23,10 @@
     1313.9599609375,
     1315.8699951171875,
     1313.9200439453125,
-    1319.719970703125
+    1319.719970703125,
+    1311.0999755859375
   ],
   "6m": [
-    975.5399780273438,
     959.0700073242188,
     958.6799926757812,
     995.5700073242188,
@@ -158,10 +157,10 @@
     1313.9599609375,
     1315.8699951171875,
     1313.9200439453125,
-    1319.719970703125
+    1319.719970703125,
+    1311.0999755859375
   ],
   "1y": [
-    1045.4599609375,
     1042.6700439453125,
     1037.219970703125,
     1038.3299560546875,
@@ -411,12 +410,19 @@
     1313.9599609375,
     1315.8699951171875,
     1313.9200439453125,
-    1319.719970703125
+    1319.719970703125,
+    1311.0999755859375
   ],
-  "lastClose": 1319.719970703125,
-  "oneYearReturn": 26.233430261612945,
+  "lastClose": 1311.0999755859375,
+  "oneYearReturn": 25.744475272822164,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "W.W. Grainger (GWW) Stock Could Be 4.3% Overvalued After Its Recent Run - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdTR4LThtTTdNWkk1MUxJNDhCQXgybG5zQk5HUVZic2NBVVY1U2pEU0lydUdCZ2FtN0V6WFJqRVdwb2gtX2tLTU5nWGR2cU5HWUtyS25EaDVyZFJuUTkxZ3BPQ3RVd1dDVFYxa1NFUTJDbnFRaWhyaWJFd3VYWHlvand0T1pUSG9jem1PaE5Mc2h5c0tjWURybnlmLS1SOG9pVXhpT0o4cXgzRHA0NC1wM3NBVHRyaFpYNFBlaGZ5V2NfVE1POXlUcmJJVUzSAdIBQVVfeXFMTlB0ckJTemVqVDJkTndDOGdVRU0taFZoM1ZJdzJnT0JCZkZOSTBTNEgyU1FTa3ZpTmlaMTl2bDRicTFmLVNOMWtfVTEyT0Rrc1JiUWd4alpkbTF0Rk5fR2I0MUx3X2VBaTRJbG9jbVhQX3p1S1RtbXRMd1MydFBzcEZWRHNPWVpqTklPU0JtTVJEUjR4LUstRGVxODVUN2c5N2NIY3FkTjYwZDZQREVlbW9TRXF0ajBrYzFkcmc1Ykk5V2daYnpUNUtwSm5CMTdSOTJn?oc=5"
+    },
     {
       "headline": "DA Davidson initiates WW Grainger stock coverage with neutral rating - Investing.com",
       "source": "Investing.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYUdtbkFXUi1FUll5U3F2ajhsbEZEbjAzckFWYjloamF0M1JTQTh0OGhxaFI0X2hZVTc2anBJNHQydldGdkYxTmNvQVk2VU8tYzg0Wlp5aFgzdXJHMHdrdGpaSWRCcUZrWG9hcW5xbnFmRTdOY1ZXM1BFc2lOVGJnSE9RaVZqNS1xLVNpM0tGMGFUaFEyQ0VNVXZCOEJLdWtWSXNZMGxTZ2R5ZWZTd3g4Yllqb1A4TnNmZlZWUVNDNXV0NFN5UHRn?oc=5"
     },
     {
-      "headline": "W.W. Grainger (GWW) Stock After Strong 2024 Rally Is The Upside Now Limited - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-14",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTlo0SUZqckExZWsySjlYYXRKTVg0TnRsa2F4S0lqR3AtaTgzMl9QLXVMV1V6QUprVm9FSTdaVHEyeFFCaF9xTUxnQTZXWmcxdTVSNmxWb1pzX29rQ1ZtVkVUWFNOd251VWFlOVp6RmtzNVN6NkVla2pBMFk3Ujg1MWRyNlMyUlJCS045c0ZhS08zTmxuTTQyOUVIZ1pUeVd6Tkxxb3kzTFBZYW52aVl0QVJsWFVLTGxfRHY2cUZReUZMT2hJMUZGcDZzONIB0AFBVV95cUxQWEY4OFFBTmE2Uk5jT0FjVmJnTVhjMWRoQjdmem5scWRNbTdtS3JZeWozUGlQWWljd0ZmbVp1Q21VWjllYmJ3Rk14RHhSMEN3OEVFTkh6aERzdDQzX2U4cHV5eE5WTXo2ZVpYU0ZoRl8ycXh2ODR0Y2FSUnZibFRFdEZSckExZUsySmF6cmlXem1vNVp6bTJvZTZlMEdPWWN0dmpVNkdMRDhjZ3c1cFR2RmxpdWFXYlZkLTVrUDU5VHUzay14QXVWZnhPRlc4MHNl?oc=5"
-    },
-    {
-      "headline": "Is Now The Time To Look At Buying W.W. Grainger, Inc. (NYSE:GWW)? - Yahoo Finance",
+      "headline": "Jim Cramer on W.W. Grainger: “I Couldn’t Figure That One Out” - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObDBONGxDQ05wX1RrSVh0WjBJTjMwbzFDQXZTaDVWYWpDZGh1aDdrWVNtcUNoUVEwNS1yR1BGeElOaW5vQndGOE1GX3lOTzZXTmU1VDZUcFJJUjlSa1lfSnlFdWozbG1uX2RTM25TM3RWZUE0azdNemloWTFYdk1INTI5blN1SjFKVUhtaUVJM3M?oc=5"
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTDJKSklxaG1rMmxlUUE4Zi1WWE0tVmdrVDI4SGlfcTc1S2EtZkVpOE81RVNoVFQtXzdKRy1GZDhxM1pSb2lmUEtFN3ZLbjBCQ3FJY1didkpDNkRGOEhNdVItSE5UaUlDVUNsN1hYeDh0NTE5d01fNVRwN3lTNUJ6Y0RfXzNBZFRUSloyeEdGZWtxUQ?oc=5"
     }
   ],
   "insight": "Tracking W. W. Grainger (GWW)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:58.524Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:55.293Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    33.099998474121094,
     33,
     32.619998931884766,
     33.79999923706055,
@@ -24,10 +23,10 @@
     46.79999923706055,
     48.16999816894531,
     49.02000045776367,
-    48.380001068115234
+    48.380001068115234,
+    48.20000076293945
   ],
   "6m": [
-    23.329999923706055,
     23.860000610351562,
     24.770000457763672,
     25.260000228881836,
@@ -158,10 +157,10 @@
     46.79999923706055,
     48.16999816894531,
     49.02000045776367,
-    48.380001068115234
+    48.380001068115234,
+    48.20000076293945
   ],
   "1y": [
-    17.899999618530273,
     17.780000686645508,
     17.959999084472656,
     17.809999465942383,
@@ -411,18 +410,13 @@
     46.79999923706055,
     48.16999816894531,
     49.02000045776367,
-    48.380001068115234
+    48.380001068115234,
+    48.20000076293945
   ],
-  "lastClose": 48.380001068115234,
-  "oneYearReturn": 170.2793413360285,
+  "lastClose": 48.20000076293945,
+  "oneYearReturn": 171.09110743253396,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "HPE Stock: HPE Flexes Juniper Muscles in AI Networking At Discover Event - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHB3NEtsQ1BQSWdoSjc0Y3J2ZkROVjZhNWZVSnpuQlp2eU1fNVN0MmhLNllfZUdxWXlTMmRCUDRTdEpneldaOWptQUVUQi16c0JIcXBpWWhkTnJyeWVZUFB6dGlBUzJ5Yy1nZE94TXJMdEk0YlZVUDRERGVBc2l1alJXS012MjFhaTZIc291eXFKZXBwS2Y5SUQ3enlGdHVTdHFvT0ZjZw?oc=5"
-    },
     {
       "headline": "Hewlett Packard Enterprise: The Inflection Opportunity Is Clear... But Only For 2027 (HPE) - Seeking Alpha",
       "source": "Seeking Alpha",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzhReEhNYXoxUWVlRHR3U1RaV2ZXSXJDNTBKOUZ1R19XcmRScDhEd19GM1NYRXFGLWhXUGYzQ3hrZFdSbDc4N3pIc0w0T1pYUGhtUzVSSTJLNWFRM1ZkNHlBX1p5ZERaWS0yM2RrQU5TS2QtYVJfbUpIc1ZjdndtVlR1dTBpajZSdjcwX0tZTFY5a09RNThyNFA2OUMxZ1RDTGpOSXdabTRfSUcySWtwZGs4eEFhOVc2TDZJOUtn?oc=5"
     },
     {
-      "headline": "Eight tech firms join HPE to push practical quantum computing - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ25VbE1CSk11RWN2WThKMVNLTHR1a05NWU1zUE03NjV5R09MYnFsUTlNSi03djh2R0ltQTBIb3JyTGY3QjRlQm1XQ21oeGtaa2hXQy1DeUpkY0MwYmI1RkxBXzg0ZUFLaG1TZldxc3pmeEU1QmI0Y2VPVnFjRnFORFExQVdONHpaXzFQRkZDRkNUT0RkbHFkMUFGSmNFZjF5YjJ3enR2UWtpWTl4STZMckROb2E5Yzg?oc=5"
+      "headline": "HPE Stock: HPE Flexes Juniper Muscles in AI Networking At Discover Event - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHB3NEtsQ1BQSWdoSjc0Y3J2ZkROVjZhNWZVSnpuQlp2eU1fNVN0MmhLNllfZUdxWXlTMmRCUDRTdEpneldaOWptQUVUQi16c0JIcXBpWWhkTnJyeWVZUFB6dGlBUzJ5Yy1nZE94TXJMdEk0YlZVUDRERGVBc2l1alJXS012MjFhaTZIc291eXFKZXBwS2Y5SUQ3enlGdHVTdHFvT0ZjZw?oc=5"
+    },
+    {
+      "headline": "What's Going On With Hewlett Packard Stock Wednesday? - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjgxRHVGNXdTWGVKTHhKVlNBTUcxLWtFWlhJWENZSU04cFgxdW4wT3JTTE8xYXVuTElqQm5ia3BRV3BGVXk5ZUNFYi0tQlNSNjI2QTJBcEx1dWhVRVNiSjAtYmd4Zl9wNUg3MTNLRzNERGs4akY4MXd5cnoxeXY2V1dURUV2UkFnLW9FdGt3QkVJMFRvR1U4bTZycVFYVHBVc0c3NjZ4dThCUQ?oc=5"
     }
   ],
   "insight": "Tracking Hewlett Packard Enterprise (HPE)."

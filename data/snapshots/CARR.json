@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:39.522Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:32.054Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    66.7300033569336,
-    64.66999816894531,
     64.51000213623047,
     61.439998626708984,
     63.59000015258789,
@@ -24,11 +22,11 @@
     67.97000122070312,
     69.73999786376953,
     69.91000366210938,
-    71.12999725341797
+    71.12999725341797,
+    71.1500015258789,
+    69.48999786376953
   ],
   "6m": [
-    54.5,
-    54.290000915527344,
     53.029998779296875,
     52.84000015258789,
     53.400001525878906,
@@ -158,10 +156,11 @@
     67.97000122070312,
     69.73999786376953,
     69.91000366210938,
-    71.12999725341797
+    71.12999725341797,
+    71.1500015258789,
+    69.48999786376953
   ],
   "1y": [
-    69.77999877929688,
     69.86000061035156,
     70.47000122070312,
     71.77999877929688,
@@ -410,12 +409,20 @@
     67.97000122070312,
     69.73999786376953,
     69.91000366210938,
-    71.12999725341797
+    71.12999725341797,
+    71.1500015258789,
+    69.48999786376953
   ],
-  "lastClose": 71.12999725341797,
-  "oneYearReturn": 1.9346496098272028,
+  "lastClose": 69.48999786376953,
+  "oneYearReturn": -0.5296346168757488,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Carrier Global Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMm9DZDFCQVVvMFpNcjNWRmR0cU1hU0gtd1AtTjVFN1pQaHNkQ3hpVkxqXzRxTi1vdUh1bnpLc19NWkdlZWIyODIyWFdDMXRrclNZMzkxa3NBRnJuRjhvQy05Q1pOdDE0NWNKTjIxdkFlRF9sWjBzSTV6S0RpMzNPVm41eFRmeVVmd24yZkdqX3pEWHo0emdYWUlJamlheFBJNlJwVGZKX1FYZHEwS1FHT2V1eEpFbFE2OG1nUnZnaWNfTXAwNWk3ZHNHYkRtRHlzMDVtdw?oc=5"
+    },
     {
       "headline": "Carrier Global (CARR) Stock After 30% YTD Gain Is The Price Still Reasonable - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa24yZWt6eXdPZWk3SmFKVEZkZko4eUhwSWdQZzl6eDdvY1JBcnRzZGVBcHhLeEs2YmxuYm55alRfQTNsU3ZNVG9DOERyd0lyRXFrZzZwems3TlNSMjgtRUk4QjVPbnk4enJGYWM3cU5NOFRiVGR1dUxXU05oN3NfTjdOOTBmaUExbGxjckZVM1JZZHpYT3hVaQ?oc=5"
     },
     {
-      "headline": "Carrier Global Corp. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPajhwd2syc1dCaWpuZl9qME1RZUZqZDFjODY5TlkzVUlDU2JEaVcxdTNDNzlyVHp6TzdfU3AyREFOZWllNlBDSThfQjFQLUFEeWZqMy0tSjgtczlkWEZJNzBaU2xuZXRpSzV2QVhZTnJaSUlDbkpOOTRCU1UtWVFfQlF1SXlWSU5nd2pwZThTY3BRNFBPR0VTeGV5SDhuWlkzTFh5WXo5eWFkSWpSSWkwQzFxNkM1TjdURkdhMGl2VDFXVFNKUndXcEZYUDd2aGJNQWNnTEFEcDA0ZlpuMTh0ZGlBNGh4UGdtNFhJ?oc=5"
-    },
-    {
-      "headline": "Carrier Global vs Trane Technologies: Which Stock Could Rally? - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbWdub25TdnBFSGJuT2U2NVpER0F6MkEwd3JJY0hxYXN6Zmg3NnRhTy1SZHh2MTc0YjlydUszUGNSV2xURnZRWDhtT25ndUZMUzNVeDhrMm1NT2ViUDIyODNkdEszSTdNRU5CbHJmYWlpSWxiYWkxTUhsSWhTMnU5VWxTZ1lTclNfd1lPZnRqbzdYeHcyb3pSRzhWYTdoZHdRTjJuLUtFQlltR2NRWm8xVmhBeFBsWEJNRU55b1RaZVc?oc=5"
+      "headline": "Should Carrier Global’s New Climate Solutions Europe Leader Shift the Smart Energy Narrative for CARR Investors? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1Z3LXhBQ24yOUFudV9KMHFKakVWZkhQZzhUNExLU3ByQm5lbGdWNUJNZ1BfRU94TFpmbEJWN3B0bFlxSDdhemZHMGs2LW5TRklfRE1rTU5RcnhCWVQ5SUpwNUYyWk51VC1xVUduZEttNWpBLVdyVkMyX3pPemgwM2thVTVHcS1SaVJHcmhTSjh0SVhoaXNhZEZDSzF0ekVELWkzNXRqcVh0Xzgzekd1ZG1NazZuZmJVaVJCQWdRZEsycEszY0NfTlpDTzNOYU4tS1HSAdcBQVVfeXFMTVVENjF3eU05aXlhT08yZllrUy1jSjQwZUxadFB2MjZaQ1VKd1FzSG95cmpwempmVDZyVlY0bW1aZTdQaDNNWC1vUklxWEx3Sm5aNllhOXZDdlYxUUJkZnJwT1VHN0Yyb0JqSlUxZHFuaEM0ZXVkTE1FWjFIdjFRU0R3cjZDLW5XRVVnWEF5Yml2NThfWDNscTVwRktRYkpoZm9PM0FPQ0N0ZTJkQi1UblVwcUJHNk54Sk1qckd4RkhrSi1uRFRCbmFrM09POWtBNWFfRDNrMUk?oc=5"
     }
   ],
   "insight": "Tracking Carrier Global (CARR)."

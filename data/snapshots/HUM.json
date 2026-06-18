@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:59.382Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:56.211Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    305.1199951171875,
     306,
     310.54998779296875,
     304.1000061035156,
@@ -24,10 +23,10 @@
     368.69000244140625,
     379.2200012207031,
     380.260009765625,
-    369.489990234375
+    369.489990234375,
+    362
   ],
   "6m": [
-    257.8500061035156,
     256.3900146484375,
     250.38999938964844,
     256.6600036621094,
@@ -158,10 +157,10 @@
     368.69000244140625,
     379.2200012207031,
     380.260009765625,
-    369.489990234375
+    369.489990234375,
+    362
   ],
   "1y": [
-    241.4499969482422,
     243.39999389648438,
     239.6199951171875,
     234.66000366210938,
@@ -411,12 +410,19 @@
     368.69000244140625,
     379.2200012207031,
     380.260009765625,
-    369.489990234375
+    369.489990234375,
+    362
   ],
-  "lastClose": 369.489990234375,
-  "oneYearReturn": 53.029610645876204,
+  "lastClose": 362,
+  "oneYearReturn": 48.72638006472385,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Humana Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWHlWWVVZaTZSUG44b3NoOWMteEVldkpTY2YyM3d3OTJydUdmdkNRQ3ozSDNKcFRQRW5MdU9ELUUwVHRLMnV0cGlXUWM1MmhTZHg0T3hWQkpKNmhVMVJMdWVXb3JpMDNLRk1odHRuMmZEWVRON3JPRmI4bG9PbTZVT2VBMFBYdHMtMkE3emYycFU3bHZGY0VsNkxGSVVNM1psQmk5TURPRzFWbFo4QlBwQnBSREFQcFFtSzVlSXlPdld6NWw5ZFdfMFphYlh3V0VDcjdqTnlrN0FETk1LTG40Rg?oc=5"
+    },
     {
       "headline": "Jim Cramer on Humana: “This Is a Textbook Safety Stock” - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN0tpQTZ1Q29QRFVmcXgyekxyUGlGeDN0LTVBb08xSnZFbnVLNVFfc2h3Qk9yTmp1cUZES1NIWV9yOW56NXU0TExUZjNFamdTVGlHdG5UVXlLQUNBb29adUhPU2J1NWJmMi1SYXZMZl9KdTJrNmFnVjFLdHVpdFZSSGFrMnB2WkhpdHVBTEpMaHo3UVdGOS1DR3ZibG5iZlE?oc=5"
     },
     {
-      "headline": "Humana (HUM) Stock Could Be 78.6% Overvalued After Its Recent Rally - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Humana Stock Surges 19%, With A 9-Day Winning Spree - Trefis",
+      "source": "Trefis",
       "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRzltb1JtMFFuR3prVTI3eXFhVklNWnJ1MllNczhLZkt4bk1uTzFha2lMQUVKRlBOY0IzVGJGdFlvaGh0STFpbkEwQjFhakVlbGxLemJfV25CWjA4dWRlMXFEa1hMNnh6SkhEN1BHTDFzMHNIYVpTNmFPUXJtaXNwRVFDaDFZYkd5dWtaNENaY3ZGQXZOUHdPSzczUEVSZ3JrOURtZ0k1Z3MxWGJDdVFvYjJWd1ZCeUlvLXNLRS0xZTkzd9IBxwFBVV95cUxQbmJRUGdWZlROT2ktWGR1Tll2TlVsR0o1dnZVRktuTG9kT2pHdVpTT2RXUUtBZW1URGlSay1HLW1KTVNONjRDLWtJQ2dORmNBdmRvSWtGTjJ1dkRrckx1a0E5VERVbndnMGl2VWdoUmVGVXNWS2JSR2pDV1ExWmFEenlrUC1xa2NyVXNqc1pWODdDSGRMaF9tVjBuS3doVG5VWXhoVGg3Wl9DLUlkcklIWkQ1R0hTYnJiVmwyMjhNbHBiVVdkRF9z?oc=5"
-    },
-    {
-      "headline": "Humana Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdk5UZVJnaEU3eFZfazhDMEhvQkdYSWprQkIxYTdkc284OUdOOEx5c01EeHNOX2dFVFZfOTZzZDZQeWFVcFlXNFVPejBOOW9Cb2hvVURmM3VkMHNFQmszVGJkY3B6eEFlSkl1SnhPbmN4dk5scDZ6N1pyWkJIbTdRS19NTktzU2c1R0huVkh2MElJUmRLb3pGUS1wUzY3VHZOQm1CV001YV9FRG0ya1BFQjhZZmlWU1c4MnBaOTVIUjB6cTJsUXFuVEFhUTNWZHFJWmY1aWQ4S2tGQ0JwUkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczU0cEQ1UTZhb1puMGgxVXVKVlhub1dld3JNVkZPZzRZVmJJejFyOWJ0NzlseUo5enhRa01EYjNIZ2IxbzBSZ18xYktaQ3FMUVl1NG1mMEFPcTFtaHFYcVB6QV9JMEhxQVpjZUt0RVFkaWc0cV9mMHRISW5zWU9QMV9USDRDd1N2ZmQ0UUxWSTRDQ3F4UXJHXzE3UVdjNGN6dzhMUmNmWEVidFNhbkE?oc=5"
     }
   ],
   "insight": "Tracking Humana (HUM)."

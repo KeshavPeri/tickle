@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:38:19.364Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:21:22.593Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    73.41999816894531,
     74.37000274658203,
     74.55000305175781,
     75.80999755859375,
@@ -24,10 +23,10 @@
     82.4000015258789,
     83.7300033569336,
     83.13999938964844,
-    85.05000305175781
+    85.05000305175781,
+    83.80999755859375
   ],
   "6m": [
-    89.83000183105469,
     90.05999755859375,
     88.88999938964844,
     90.69000244140625,
@@ -158,10 +157,10 @@
     82.4000015258789,
     83.7300033569336,
     83.13999938964844,
-    85.05000305175781
+    85.05000305175781,
+    83.80999755859375
   ],
   "1y": [
-    72.5,
     74.73999786376953,
     75.4000015258789,
     77.01000213623047,
@@ -411,10 +410,11 @@
     82.4000015258789,
     83.7300033569336,
     83.13999938964844,
-    85.05000305175781
+    85.05000305175781,
+    83.80999755859375
   ],
-  "lastClose": 85.05000305175781,
-  "oneYearReturn": 17.310349036907326,
+  "lastClose": 83.80999755859375,
+  "oneYearReturn": 12.13540266800159,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONzVNX3VFclkzU2JBWGhhalZvVjZGLWY4RmtCQmhMTEl6NHgtNW9HQUxhclhxbS01akVGSUk0alhsNnIwTXdwNUJkb2l4TC1OR3kxR0czODJLbTNyUHZYcVF4LTlzSjBFb21mU01ROUMzZWFBWjgxRGtWd092NFhGMEZfaF9nVUhYRnp3M3pXTFd5eWpFSG83dUhvWEhKY2xaaVJ3Tw?oc=5"
     },
     {
-      "headline": "Wells Fargo (WFC) Stock Valuation Check After Recent Performance Shift - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-14",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0JjSEtCRFVFRExIMmxMLUE5THl4Z2w1djE5U1pmbkZrRUQ4OTlfV09hWVpFbjlWellmaDZDOTFUNkY1SHpxdF9GSXdCTjg0cV9GMnhvSDh1OWV0cmh1bzltVkVFWUcwLUkwalVsakxUcGJaQlpNY1R0Tnl0X2w2TEtqWTRmWXFEU0RjeVc0QmprSUJDbjU4MTFTVndZQ2ptX2Q3WHU1dTFJLWxnaW9jTjdoVWIwT2ZfZlg2aXhHUXRqd9IBxwFBVV95cUxQYnRPNFJfM3RDVmVaSEhIUDVhZHI0V2Njc3M2Ukg4N1hhdzRZdUszaVhMeDNuQkF5VURSc2pHWUdWRjJJaFBSRmsweG9HbDItOWlhUWc0QTdLeFR0NzVBUC1Ra1I4WDNwZEl1UlNwNURLODlFLUR0QTctY2FzemhNSmFBNXQxZHVlOUplSTJXU29MTGh0VzNLcFlXbmUyNlJjc0VxS0NEU09nWHJ3cXhCcnJwWXJoYTVFeE1PM3R3M2k4TjFGRTVz?oc=5"
+      "headline": "Wells Fargo says stay disciplined as 2026 markets turn noisy - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2hfVVBfNV9rblVLNTdlYUhxV1RuWXp0TjY4TnFGQVdpa05NcDh4NVpINW0xWlh0VDAzdDNLYmRDRUk2YWtuZjJnVGlGLTdtYkM1bUlpTEJlazV3dXc1V2F0dmY4R3VuYmV0eWFFei1CbURWMXQ0enpqQmhGaWFSMUVncm1oTHlGTVdHak1NX1B0MFV1TjExNGJBemNHZzVQQUxGVGo1RWJHVWpxNjFhcTAtYw?oc=5"
     },
     {
-      "headline": "US Stock Market: Wells Fargo raises S&P 500 target on stronger earnings outlook, easing macro risks - The Economic Times",
-      "source": "The Economic Times",
-      "when": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbWtqZkllZjFNcWw2VFg0UTVTM1ZDQkt4ak85dHVMYVRmQmpQdkd6emFobkhvbWY0ZFlyckJoN1hkbHVtNkNlcklYQS1qdE95a1BKRDU3enVDTkg2U3k4eGRRQ3l6blVkVE5CVHRZUGJvQzRPWGRQdmd6S09mTFp1WFlRbTdDVlo0T0p2T3dhLXdKcV93LUtyT0ZaaVdDcFJfZnFGMGJWYkVfQV9ZNDhkVThXclA4RjdoVW9VTW5JT0lWc2lFOFVMOGF4VjFqSzA1NWg5aDNweWJOaGpXR1Ywa3BLMVoxRmdQMXZSSVNCSjRGeDM3RXdQMmRzazFGQkpxaXdB0gGIAkFVX3lxTE5zdGhiWnNuZTU4V1RyUXhBci1EZDdFYWtNRVUtSVJmZzhmVXQ1aE1VSHFmTmRYRk5HTF9taG9JdnNqMzd2YVk0eUlTbXgteHdjbS0xbjNzVjFaSWNRbnRfb2Zua0ZEN3AwQUZpMnhYc0RVQl9jZDNreTAtUnZnZFc2OXVKLXdUUHZReWJRYTNoZ1IyZmp2Tk9ycU5TRjVGM1lsM0trQnZLM2hwbUtaWFVqQnNCZGYxZnhGb0dQSVNyMG5wN0JTMC1ZRzJwajdybGdEbWxiTnNsanFid0NEQ0ZKaldrdWhpMlkzWTU2dHIxSjZ6MjRaSHBuSnRhSmgwMTBsZTB4dGJ4Qg?oc=5"
+      "headline": "This will be the summer of the 'everything rally,' says Wells Fargo - CNBC",
+      "source": "CNBC",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRFZsTWloLVRVeTRibFFfNjNleGdsdW1xN1IxVlRLWE41c2p5eTFlS0MwQ05aTEhLekFCMUNLdk1FMWwzanVReVdCRGZ2UlExaDNQTnRyblZaaW52MlNmcnJYdWhtanZzOXhLQS1DbVVIX0ZvNnR3UEtPbHVaeVBUUGVDanlXSlZ2cXBIdEhpVEpHRUhTLVVjSmdQWkZNTmkxSkhF?oc=5"
     }
   ],
   "insight": "Tracking Wells Fargo (WFC)."

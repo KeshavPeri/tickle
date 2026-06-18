@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:38:11.857Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:21:13.612Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    45.040000915527344,
-    44.40999984741211,
     44.3849983215332,
     43.83000183105469,
     44.375,
@@ -24,11 +22,11 @@
     40.70000076293945,
     41.2400016784668,
     41.529998779296875,
-    42.4900016784668
+    42.4900016784668,
+    43.650001525878906,
+    42.08000183105469
   ],
   "6m": [
-    61.72999954223633,
-    62.279998779296875,
     61.119998931884766,
     60.779998779296875,
     61.15999984741211,
@@ -158,10 +156,11 @@
     40.70000076293945,
     41.2400016784668,
     41.529998779296875,
-    42.4900016784668
+    42.4900016784668,
+    43.650001525878906,
+    42.08000183105469
   ],
   "1y": [
-    70.66999816894531,
     68.56999969482422,
     70.05000305175781,
     72.01000213623047,
@@ -410,29 +409,31 @@
     40.70000076293945,
     41.2400016784668,
     41.529998779296875,
-    42.4900016784668
+    42.4900016784668,
+    43.650001525878906,
+    42.08000183105469
   ],
-  "lastClose": 42.4900016784668,
-  "oneYearReturn": -39.875473638913604,
+  "lastClose": 42.08000183105469,
+  "oneYearReturn": -38.632051891009475,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "PYPL Stock Climbs Overnight: Michael Burry Adds To PayPal Bet, Says 'The Body Has Yet To Show' - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNDhYSjhKM3RmeVFMZHpMYW52LVBoRDBudWZKaTVMYkttVmJyYXIwbkZSSWYza3pWSExHU3FudmFYSDlmb2NDT1MtMkFKLVUtaF9uTlV3ZXhkSFZhQ2NIRFhnclpYWEt6emlFcnFKNzFHUkdJN2hIX3VLSWpIekp1QXVWV2dwZlI2VjFXUndiWlBGU1RjSGtvWWZraGhVd2hUZVE?oc=5"
-    },
-    {
-      "headline": "PayPal Trades at Less Than 8X Earnings. Is This a Bargain or a Value Trap? - The Motley Fool",
+      "headline": "Shift4 Payments vs. PayPal: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
       "source": "The Motley Fool",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmhHYTBVekpUeEpfSDJ6TUU1Y0xFcm5sY3F3dC1scjNfS2ttT1dEUUw1blU4YmpZX1VoSGprRjFWck9meUNVanJIZlAyRVdXeV9DUWhtM2dpdG9TTkl5TzJpV2RNRWN2cjhPWS14eWpSSUFBSGlOTzFBRnA3ZHFJeFpUaWxrMWFYVHdPNVdZVmlEM1drMGdF?oc=5"
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnZvTGlYdzFMMnRTOWpyVWN6MDRuTkVSbFZNcnRRR1NRQ0FVNGVnVG5Ual9PQWVoRml3Ty03TG9SelFLMml3Mnd0cFZ6a015VlVBdWRBNzJmcGZBYWszVkt3aDBfazJsSG1Ia3dwNDZzZDhYc0ZyWjZYYm1oak1STTlVemNCdUw4cUhNdVgwU1BrSjVzaDg4UEVFVVh4eVVqcjcwVTloNkFibk8zVi05ZVd0Mi1BUTNGZkdiS2FFbkNFNzA?oc=5"
     },
     {
-      "headline": "Why Is PayPal Stock Gaining Monday? - PayPal Holdings (NASDAQ:PYPL) - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM25qRFdPb291cF9kRUZNSmVRWEFIbmZ3alpfME5rUDNlTDdCUm5EbFl2emlXdGtneWFOYlk1Q2tsbmRlWllwa0JrVWwtS2hmUTBveUc0ZGdLeTdXeGFKUXo0ZU1DVGkyVzJkZkdFcXZxcTctVG8tSXl1M1dSTnZBT1JmT2RuUHdHTklCcDY3cWtUaDFpdFlSNXZudw?oc=5"
+      "headline": "Michael Burry Bets On PayPal Stock As It Trades Over 80% Down From 2021 Highs - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-02",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNm40Y2VPR0kwU0t0T0paNVJYRDNrVlRsS25hVG5ia21aOFM1aFp5RUR0a0p1eVJkNzBQSUp0UUQyejhzOTZZWWN0LXV2U1NzYnZybEowalRtUWVFVGNzaWh1S2VnOXVtMEVrbFR1NWo1eEtGaVdvWlNIdUxfUFFmTHNVZW8?oc=5"
+    },
+    {
+      "headline": "PayPal (NASDAQ: PYPL) CFO awarded 146,778 PSUs and corrects Form 4 tax entry - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObmNEbUltdnhPbEZNMGt5TUtvcXNibDlwWVZGaG1CU1BlVWt0T25DMEVMa29fb3p3RE9ES1ltSkhCRk1Wc1kxbjVLUHJ4RGN4ZXlkWkloN3BFRTZ0OVpYa1BsWDY0TkFfWFNic3o1VUc3UTZQWjI2U3F1bll0MnBPNXhBaHgwUjNBTlRpZm9UZ2R1Uk1UVGZSdDVzZDg3czhJRkZQdzZoblg0LVNLTEFUb1gxeGU4emVfUVBYUU94bF83QQ?oc=5"
     }
   ],
   "insight": "Tracking PayPal (PYPL)."

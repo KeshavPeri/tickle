@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:38:18.031Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:21:21.304Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    98.93000030517578,
     95.52999877929688,
     96.83000183105469,
     98.87000274658203,
@@ -24,10 +23,10 @@
     108.6500015258789,
     108.0999984741211,
     108.83000183105469,
-    110.0199966430664
+    110.0199966430664,
+    105.12999725341797
   ],
   "6m": [
-    94.87000274658203,
     95.55000305175781,
     96.97000122070312,
     99.63999938964844,
@@ -158,10 +157,10 @@
     108.6500015258789,
     108.0999984741211,
     108.83000183105469,
-    110.0199966430664
+    110.0199966430664,
+    105.12999725341797
   ],
   "1y": [
-    99.66999816894531,
     99.20999908447266,
     99.2699966430664,
     100.4000015258789,
@@ -411,29 +410,30 @@
     108.6500015258789,
     108.0999984741211,
     108.83000183105469,
-    110.0199966430664
+    110.0199966430664,
+    105.12999725341797
   ],
-  "lastClose": 110.0199966430664,
-  "oneYearReturn": 10.384266744519612,
+  "lastClose": 105.12999725341797,
+  "oneYearReturn": 5.96713861866354,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "United Parcel Service (UPS) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+      "headline": "Time for a Checkup on Stock Picks United Parcel Services, Twilio, Vita Coco - Barron's",
+      "source": "Barron's",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWg3a2pMZGpLSFY4Snl1eHRtamhtb1hnb1dYM09QSlo0b2toUXRUVmJyeW9oVWhKUEh6aDcyNlFOSVVEQkFKS09kUHJmN2NsQlppUnFwbnhHT01oWVhUSEk5dGVucDQ1WW9IcUprcVotQnJiOW5PWGFjS1hzbXVFOUs4dzdxUWVvRVhLOHdzUGVXX0JVT3I0TFM0aE9WTVc4MHg4?oc=5"
+    },
+    {
+      "headline": "United Parcel Service (UPS): Buy, Sell, or Hold Post Q1 Earnings? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbXlZcTRGcV90a2RtWjRsd3ZVVEhXeWJMZXhJRWVCRVlJbUlwc3FSV2laWVhsSmZPNW42Q3JBQmZYSHVjRFU5aXNXaGpJQ1VIaWRXU0tTS0h0TEtCVHpqbWptWFdkbzdFN3IyOURnUTJxZklkQlhYOFlCMUxmWHVzZ0dsV3l6ZGRYS04yNnlzbEJsc2FRektmb2RQQQ?oc=5"
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcjVSZUFwWXd2VXFablF5WndZV2c0REZvbGhTT0RhU05BQkFaekotaC14ZU5fSkJfR1Fac3JKSWt0Y3Z0TU1uRVFORXNzNm1GWjQ5ZWRQUkFEdEhJYjBkc1ZTMEdBU040cThURlhUcVBhdl9UVXpHOTllck4zdXJRU3BDMjdaQkZTU1ZBWUUzQktQMUk1YXc?oc=5"
     },
     {
-      "headline": "United Parcel Service (UPS) Stock Valuation After Customer Focused US$500m Tariff Refund Plan - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Q1 Earnings Outperformers: United Parcel Service (NYSE:UPS) And The Rest Of The Air Freight and Logistics Stocks - StockStory",
+      "source": "StockStory",
       "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQUhHWE84LXdPNTB5RGM3NUtBMTNjdzAteUlOZlg1bjRtMGRTNHBDT3lwUWZBRGI4OHN5d0xwcVk5cUs5RTByaHZEUHp3bGVDRkFLcHJxd0dkUFRIMXRXUmE3SFVZb0dLU3dFcFNTbjlaZWVQX0ZyMnlyOTB5ZnVVUzQwUGZzczE2dldreG9XZUVKNzU2N1FaMjRUNDRvaW9NU2lDZ3d6Tk9LU2o0cHF6QVlYNThyVWpSRmt1NjBXRHYwNGxMZGUxaTBXUjZ1VW5MQ1F1WGtUUVYtVk3SAeABQVVfeXFMTVdRYXh5U2tMWXQyN0tiTU9IcWZXWVM0MnNJLXlMYk5rRE53MHRJcFBqd0VUR0psRVNpTlQtVFhGT2VwYlhjbFpXQVQ5TDM5V2oxVFNjOHNLN1BSVFhoMXBYLWVGUkIzQjhRR2JjakxnM1FaWUlUTHZiSnA0OGdDR0t6X1NucC1CWldFRUQtalRnMnBJa3VCOUtvZDB6c08ySE5EMEhSQlhxcEtya2RtWjEwYkNYMEJsVlB1Rk52STFFdU9CQkJfbjJ0TzI4dkp4VTVIZzlYd0hKN3J4MFZ0Z1Q?oc=5"
-    },
-    {
-      "headline": "12,167 Shares in United Parcel Service, Inc. $UPS Acquired by LFG Wealth Partners LLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb19HOFFLNHhjSjNCNnRad0JSNmgzTmVSdHJNMTNPMkNUT3lEalRxNHdfeFJIVVdUak5tcnpjbGpST1RYc1FWcHJKY2NXYmxIUnk1S0ZoQTJzYUEtRmk4SVFFM0Y4S19IelA5VUZmU2M4WGx2Z2hyeVRVU0J2V3FrMEtCZHR2ZFh2NlA4MFBVWVVMMkZLWm1DWklxdUtMeGZKc183Z0Z2TjB0UkFlU1lyakFNaWZpYnQ0enVUUXp6dWpBejV5LWY5Q1NHaXJ5SGtVNFh6VDRfcFFVQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWGg5RFZpWWtNOEc5c0lBQ3RXV2MzM0VSdi1MTjNQZ2kzZ0NkdWNEa0MxVkl2dEg5cjhhSGI0QkFyLTMwdzNhOVBRUVRFSmQxeVNVa29NOXVhNWdFekV3eFprV1J5VHZzNlktZzRFQnc4NFAtaVlzSGhnUnRXek1qV05yUV9oal9QUTRSWjVrVGdYNEk0VjZCbndvblcwcjdxUTE0Q1BPSVNFSkdldVFCbWp3NHpHd1lUcG5CWldWek11ZWR3RGFGVEpobk44dGMwMVpTWVF1MXpHcnpqS2VTcHgzb29BYXBCRmtwQUllSm5Ba0tpbWJZ?oc=5"
     }
   ],
   "insight": "Tracking United Parcel Service (UPS)."

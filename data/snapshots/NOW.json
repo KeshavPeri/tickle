@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:38:08.250Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:21:04.603Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    90.5,
-    95.06999969482422,
     103.41999816894531,
     101.83000183105469,
     103.30000305175781,
@@ -24,11 +22,11 @@
     106.05999755859375,
     103.08000183105469,
     102.1500015258789,
-    104.1500015258789
+    104.1500015258789,
+    101.33000183105469,
+    95.4800033569336
   ],
   "6m": [
-    167.7740020751953,
-    170.8719940185547,
     170.70399475097656,
     170.98199462890625,
     170.71200561523438,
@@ -158,10 +156,11 @@
     106.05999755859375,
     103.08000183105469,
     102.1500015258789,
-    104.1500015258789
+    104.1500015258789,
+    101.33000183105469,
+    95.4800033569336
   ],
   "1y": [
-    200.98199462890625,
     196.41600036621094,
     194.28199768066406,
     196.0800018310547,
@@ -410,29 +409,31 @@
     106.05999755859375,
     103.08000183105469,
     102.1500015258789,
-    104.1500015258789
+    104.1500015258789,
+    101.33000183105469,
+    95.4800033569336
   ],
-  "lastClose": 104.1500015258789,
-  "oneYearReturn": -48.17943681065472,
+  "lastClose": 95.4800033569336,
+  "oneYearReturn": -51.388887270428896,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "ServiceNow (NOW) Slid Amid Growing Adoption of AI-Native Solutions - Yahoo Finance",
+      "headline": "ServiceNow vs. Salesforce: Which Cloud Software Stock Has an Edge Now? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGJCLUVrVkJsNTlxZVdncUNJRjNaX09YZEFhUVFxalB1alU4VzJTYzRmU1Y2WlV3Zldhb1EyTVlZVXhyQVlzZHFaVGtDODFkc1FxOU5YdXh1ZWNUVUwycThlOGV5Z3BNNU1aZWlTdy1mTFpaR0cwdUMxU3JPYUlFbVJOYlZHZ0JCWlJiNU1sRExkOXdoQkU5dDhYMk4xcVFOdjc2a2pYbw?oc=5"
+    },
+    {
+      "headline": "ServiceNow Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMzVUSnFYZ296NXUxRnNJNG9IVjh4Uno2TE1GQmphSVpKQm9FWVdRZXRmbFhiU3RNTmtIeVBUMWg3V0hINEFSSkRZbGZhZlEwRm5jck5RYXF5d1RjNXpIYmYySjNIbDNXb3dKeHdXbmNpQl83Q3dSTFFzTmVGZDdjaUoxeG5uZThNTjlqT00ycE92TURDOEdtVlNhMzNsVWpTYUVLQThsaGhBdnhjS2plX1Excjgwb1FHR1dNTWtWZXpiSWh2YTkxSHZJT1JyUQ?oc=5"
+    },
+    {
+      "headline": "Why ServiceNow (NOW) Stock Is Up Today - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVzNsRVJhdnZ4bmpZOW9DVnNpenJzUE9ESVc4VnN6RkJLbDhZSGx6WExFckItMVd0R1cxWnhuZkJmTVNCNWU5RE1Xa0lLTncwUENKTTBJUTdfa0NoMUUxU3FiR29fTXV1ckRYcEk0eTF4NGNzcTBHXzlvRk5yRGZqUTZYZ2c?oc=5"
-    },
-    {
-      "headline": "Why ServiceNow (NOW) Stock Is Up Today - TradingView",
-      "source": "TradingView",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRHhrUmRpZmdBalMzTWlyX1F0OXNQUkdCdnV2X01sVzYzRWhJTXQ3TFZqcUM1RG5NWDhsMU1Qc2M2d3cxdDc2RkpoaTJBVEVwOUZaeWJVbmF0akNmeWdST1c2VW9kUFVzMnJ3WmJBRWtPT2I3Qk56MEFWTFY2WDVaVE1jVlVxeUhfM2Q5c1RXOXBLSGdPYkpJcVJFYVBzZw?oc=5"
-    },
-    {
-      "headline": "Benchmark raises ServiceNow stock price target on AI growth outlook - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORHBnY25jSFNock5KaUZkMGdCd2ZfYlpIcG5tc0V1cFQwNmxaUml3aU5qdTNPY3JhSkNZZGVMY2lKNDQ5SXRacWZHNmExb1A2SEp0UVNvRk9uZ3BNRXhQZ2xrTGRmcTNSQmZFLWRPcXJFdEF6MUZxay01VC1tbFFrWlFNemJ1X0J1eGtLeUxpQzJwTFYzZ1ozOTNMcTdWZ1MxRWNZY2YzRFpjU1ZTZndPU0VDbGw0STdBM1ZaOTB3eEM4SXNoQkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkowVmp6c2ZIeUtoYmp6eGIyb21CZ2JFVWt5cjZoTTlfLUFUMllMVUFmSENMQ3NWTV9FN3U0NmYta0FsRFY4MzR0N1pSV3E1dHRUSURObEQzLUpoNHZMYnY5UjdzWnRxb3M4QnY0bzM0NUdmY0loVWVxTXJiZjVQVjc0RklvdUN1alVRbUl1SG9sU2d3WURMbU53TQ?oc=5"
     }
   ],
   "insight": "Tracking ServiceNow (NOW)."

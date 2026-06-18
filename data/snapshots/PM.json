@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:38:11.055Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:21:09.737Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    189.61000061035156,
     191.5,
     191.57000732421875,
     188.6300048828125,
@@ -24,10 +23,10 @@
     180.77000427246094,
     184.3000030517578,
     181.80999755859375,
-    184.05999755859375
+    184.05999755859375,
+    179.44000244140625
   ],
   "6m": [
-    147.80999755859375,
     148.2899932861328,
     150.3699951171875,
     149.77000427246094,
@@ -158,10 +157,10 @@
     180.77000427246094,
     184.3000030517578,
     181.80999755859375,
-    184.05999755859375
+    184.05999755859375,
+    179.44000244140625
   ],
   "1y": [
-    183.4600067138672,
     182.61000061035156,
     183.2899932861328,
     184.9499969482422,
@@ -411,29 +410,30 @@
     180.77000427246094,
     184.3000030517578,
     181.80999755859375,
-    184.05999755859375
+    184.05999755859375,
+    179.44000244140625
   ],
-  "lastClose": 184.05999755859375,
-  "oneYearReturn": 0.32704176538177954,
+  "lastClose": 179.44000244140625,
+  "oneYearReturn": -1.73593897286566,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Philip Morris International (PM) Stock Valuation Check As Smoke Free Growth Meets Richer P/E Multiple - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-14",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSzFRNFNnd1VPVGR3dUJxakREMTJFT213cnNNMDl3OGJyY3dNMzRlUHUwTTVld3luVnM1VEl2cXhBMlJiLXp2WlpXYldlSGdna3RpOFhHZ0Q4NVNURnY3YUtZMzViMzhpejhlajJ0UU44V1gycjZtTk1pVDktYktXQkt5Ti1YaEdqZ3Q5SGVZVTd5TmZKeDB1dk5IUGdVNDMtb3dn?oc=5"
+    },
+    {
+      "headline": "Philip Morris International (PM) Declares Quarterly Dividend of $1.47 per Share - Insider Monkey",
+      "source": "Insider Monkey",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWhtV0ExSzl3Sk5ST3ZXNnI1aEtCbm8xX0tnbUFKOGtzVndKLVVLcE9UakdMUXVyTWJkQmhGR01GMjVVXzZTMTQxU3ZzNmc1MGp0TFNOZ3FFamtoU3BRSEEtYUNTbGxqdjh2QkVlbnNSYmpjbzJHZEhKTHViMmd0VmxJRXpjbTZ2SkxabHQ0REp3a3RkMEw2emtNdFlaV0FKZE9wTUFrb0pIaFNkZVluUVc3T0NHc2FUMllhNdIBxAFBVV95cUxPNHJCRlF4RlRFSC1qWnJxSFR6STg0SXRmWUg2OXBDUGJEWDF5R2x4UjZfekk0MURkR0tjLVNJWUFpXy00eWlxMnAxZnhHMmdQS0FNb05mRHZlMktfRWRYblNjSmRvdjVpRmJxejNIWGpXM01JMUhFNTg2VThNRFpxWDJfSl9fRngtWlBSUjd4R2dzNVlQeHpTREFmV2tLdUpTblhTOVhLcXFmX19Kb040emZ2SUFWWHlMRmhmVV94NC1XbFl6?oc=5"
+    },
     {
       "headline": "Philip Morris International (PM) Stock Could Be 5.9% Undervalued After Dividend And 2026 Guidance - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-16",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTk9LVXZhVVdkN1hqUmNuSlJSVnFmUXNnaUduSUtVQkdUcGdKcjg3WElXa2NoS2xpYWhFRG1TQl90ekhzNVVsc3MySEFBdU1Nb1h5eldHRVR5QWg1VlRMUGtiZTl6bnVlelk1b2ppcDc0UjRxaVhWemQ1bUtYeW5fTTlRWW1QNzhWVWFsaS1VMG1SSFBEYndDNzA1dXMxQkRpbGdWMHFOalhMTnY4Y2pCcVNjQWJwZXd0aDRJeGRZcTFqX3RJa29jVHFUdkdLMDY5cGtxay1qQ1F6YXVEenlINmJoMk91UGthcmNR0gHwAUFVX3lxTE9Udk9TTERTdUlCWWxhZkR1THRES0RTckxVOFFoRXJiTGxGUnlBeE56d0djTFE5Q3dKclhlSkFwbVNxVzV2S1pRdlI5cTl6UThyYVNjb2NpTTJOV1p4ODYzOUtZSWFyanEtc0hFMjdNNWlLR3lHZi1KZ2pmU3F5bTBhclpoRExFLXRFdnlUODA2MW1lRndPV1RpTkpuLUpQMjl6VFp2cDU5SV9ic0liUzFqSHJBbEEyM3BZd1VhTzFpZEl3b09pTlBPaWlzRDktTUdHaHdlNktiay1pXzRIUHhiTEVqYUFuOEcydU9QMTRqUg?oc=5"
-    },
-    {
-      "headline": "Philip Morris International Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeEQtMFNyU3l0Qy1nMFBXU3BINE1rVkRjSzVrVjN3emNXUFVFOGJLVGRKcTcwdXlmNm1fbzgxYllNejhUM1JNRU9wWnhWZFV5cnNHTG44WmN4b3pPNmgySExXWTNZRnVpdDFDWDAxZllzZDRYQ295WVUtV0xWdy1qRGJaX05VLXI2S3hram8xU29tMEhac2hsRmpIMmlsVEhoRm1NRUVfTlFrcEhlcVF0Y0pQYXFtUHNxRWVwTU50Vk40SXhkZ1dJZUEydHRKeGdVNTR1cG9GOGo4N245ZlU5SXZVdUd5ZlRLQWs0b1lpRWJIekk?oc=5"
-    },
-    {
-      "headline": "Philip Morris International Inc (PM) Stock Price, Trades & News - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NVE0wTTAtU21JX1JpaG44VWlEcUZuRk9HTE9RQUZiSldINlh2bTVvbUtrYk1kUENzSjdLdnpyTV9xZXU2eXNmR1NzaEJDdEl0UDlpQw?oc=5"
     }
   ],
   "insight": "Tracking Philip Morris International (PM)."

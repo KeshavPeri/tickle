@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-17T06:37:32.837Z",
-  "builtDateUTC": "2026-06-17",
+  "builtAt": "2026-06-18T06:20:25.455Z",
+  "builtDateUTC": "2026-06-18",
   "source": "yahoo-finance",
   "1m": [
-    180.3800048828125,
     175.74000549316406,
     169,
     170.2100067138672,
@@ -24,10 +23,10 @@
     159.05999755859375,
     170.4199981689453,
     168.89999389648438,
-    166.11000061035156
+    166.11000061035156,
+    166.55999755859375
   ],
   "6m": [
-    125.19000244140625,
     127.19999694824219,
     129.2899932861328,
     133.2100067138672,
@@ -158,10 +157,10 @@
     159.05999755859375,
     170.4199981689453,
     168.89999389648438,
-    166.11000061035156
+    166.11000061035156,
+    166.55999755859375
   ],
   "1y": [
-    59.689998626708984,
     59.400001525878906,
     56.65999984741211,
     57.81999969482422,
@@ -411,18 +410,13 @@
     159.05999755859375,
     170.4199981689453,
     168.89999389648438,
-    166.11000061035156
+    166.11000061035156,
+    166.55999755859375
   ],
-  "lastClose": 166.11000061035156,
-  "oneYearReturn": 178.28782783054666,
+  "lastClose": 166.55999755859375,
+  "oneYearReturn": 180.40402909085492,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Albemarle Corporation Stock Surged 16% This Week. Here’s What Analysts Say About Where It Goes Next - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-06-13",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDViSFZIUG5NZ2RJcVpodVRWa0tRbm80ejBYeFpPUVdub0RGTVVRcG1KLWx6aUpfNGtwQ3drTk5FZVFwMGVKdzJFTmhDLUhFSDQzNTNjNElkZ0dOZVowU1d6NWhOdXh1T1doWUlaZy02SEktQmk4d3dLNjZNd0FfUmw5SVdpYzRGLXFWMW03SjR6S0ZWdXJaemU0M3hiMUVuWmctVTlSc05yVGxwODF2RnVpRnR0cWJtLXZNaXlHQQ?oc=5"
-    },
     {
       "headline": "Why Is Albemarle (ALB) Down 16.5% Since Last Earnings Report? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSlJHbW1pVVhTR2NUanRtQmpfX3VJNWNzVzZGV2JVVTdWbE9Lam04VU90QVhEdVVxaGtXT3Rjc2xMQXROU01Na3BVSXRnQkMycUJpR0JtUWpQQTd6RXdWeUhjVnRjRnRWeTBGWHRNVm90b2hydzdPa2p5S1JBeUFXRnZBM0FBY3QyZXBlMU9mNUFrQXpf?oc=5"
     },
     {
-      "headline": "Is Albemarle Better Positioned After Its Deleveraging Actions? - TradingView",
-      "source": "TradingView",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXBydG0zVVF0VlpCZzd2S1RWNERzeEszcVpmMURNc1ZpMWtlOWV2UGpaUUtaQmowaWhFU2JLRWx2SWduUGdzZUhYcExST0dsaFF6aHBpZ05od2dSQ0dsRkY3NHJtbkp3RWs4M3AwdGpneXBVUHo1SVhxR3NCWUtGWURKZ0lnY0Z6TlJIQ1FwSmVpeVBtQnFRbjVpWTBNdGo4RFYxaTlFSjc4VExablNCUGctOGtxTUNo?oc=5"
+      "headline": "Albemarle Corporation Stock Surged 16% This Week. Here’s What Analysts Say About Where It Goes Next - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-06-13",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDViSFZIUG5NZ2RJcVpodVRWa0tRbm80ejBYeFpPUVdub0RGTVVRcG1KLWx6aUpfNGtwQ3drTk5FZVFwMGVKdzJFTmhDLUhFSDQzNTNjNElkZ0dOZVowU1d6NWhOdXh1T1doWUlaZy02SEktQmk4d3dLNjZNd0FfUmw5SVdpYzRGLXFWMW03SjR6S0ZWdXJaemU0M3hiMUVuWmctVTlSc05yVGxwODF2RnVpRnR0cWJtLXZNaXlHQQ?oc=5"
+    },
+    {
+      "headline": "Albemarle Reports First Quarter 2026 Results - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-05-06",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTmMyQkR3RGJDRDJOVUM0LUowTnNXUWQwY2p6SXdheEJQTmJKaG0xUkFLd1N1MTVNcnFFNjdHQmpkcmFJOExyRzQ3Y185TkZkVUNVajJxcVExQmllYTBLQ08wM3lndW1EQTdQOGZFRmw4MUE1RFYzUGJIVWlsc1Qyay1TejB2ampWSXhlaTBFWWRSX1R3TDFoellrbFJFU1B2LVE?oc=5"
     }
   ],
   "insight": "Tracking Albemarle Corporation (ALB)."
