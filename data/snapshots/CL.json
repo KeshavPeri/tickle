@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:40:37.955Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:16.251Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    89.91999816894531,
     90.0199966430664,
     90.3499984741211,
     90.44000244140625,
@@ -24,10 +23,10 @@
     89.44999694824219,
     90.58000183105469,
     90.66000366210938,
-    90.58000183105469
+    90.58000183105469,
+    89.4800033569336
   ],
   "6m": [
-    76.11000061035156,
     76.9800033569336,
     77.76000213623047,
     77.25,
@@ -158,7 +157,8 @@
     89.44999694824219,
     90.58000183105469,
     90.66000366210938,
-    90.58000183105469
+    90.58000183105469,
+    89.4800033569336
   ],
   "1y": [
     87.77999877929688,
@@ -410,29 +410,30 @@
     89.44999694824219,
     90.58000183105469,
     90.66000366210938,
-    90.58000183105469
+    90.58000183105469,
+    89.4800033569336
   ],
-  "lastClose": 90.58000183105469,
-  "oneYearReturn": 3.189796184433532,
+  "lastClose": 89.4800033569336,
+  "oneYearReturn": 1.9366650732258486,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Colgate-Palmolive (CL) Stock Weighed Against Cash Flow Value After Steady 2024 Run - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3p5NDNNbHIySXR3N0QybkRnVTZmUnVCYjVCOC1TZVZlaU5xT2hFRGhNbVpDejZUbnkzLTA2TjZTUExxLUViZkhKYW1JdFlqdkNtQWVMdmlfVnZXTkt0LVl4QXRWTFZuaDNZRHpTeGNOUEVwTWp6Y295Z1FVUDczbmNTOTdCVXFqSlE2Y1JqYzhxZF9aYWZ0YTBVZy0tUHly?oc=5"
+    },
+    {
+      "headline": "Procter & Gamble vs. Colgate-Palmolive: One Dividend Giant Stands Above the Rest - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTV3N3BlMFdkMXE3UHpXMmRMRmhTTjV3eXNHdkRqRnJla0JURjNWc2Iwc1ViTkJwUnlZVjk4Zlc3QzRFNkZXMzhLUWdvLWhCbVR4X2RTaWtPb1ZiNGp3RUZBcnZpZGhxaGtubmV3Vms1bmhvVFlsRV9pRUg1NkhuU05tZlhweUJIMHc3d3pBcEdNVDdXYmdXdWtQdTdaU0xYb2phNWNwX05XNVNHQ0FWSFJCdUdFT1BCd0ZmWg?oc=5"
+    },
     {
       "headline": "Colgate Palmolive (CL) Stock Could Be 8% Undervalued on Its Margin Expansion Narrative - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-19",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZERvdURaNXVkTVVqelhNd2Vwa3h0VmJVVUNwcjVDc0V0ejE0c1NJRXRMT1JjVC1FelRKZlRvRVlhYlRXdTRlRlZubHZ1aE1rMDh3Z1o3U29vbERUVEpzZXNoVHRyX3FlMTY0dWJ3bmVRN1MzZTctZC05Tmhxb1pVU29mUG5fQ2JTVDJaem92TnlkcGgzbC0xM2FBYko3UQ?oc=5"
-    },
-    {
-      "headline": "Colgate-Palmolive (CL) Holds Steady Near Support as Consolidation Continues - getLinesFromResByArray error: size == 0 - lwvtexas.org",
-      "source": "lwvtexas.org",
-      "when": "2026-06-02",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWDB4RkQySlpYNERSemNkcHMxUVMyTFdfTFpPWnZtc3BsV1l0VnpNb21GSkhFUHZsOFVPaUc5dVE2SkoyVFUzVFVObEUyS0xZdlBLa0cyYzNfcF94M1dnMGFpUElIMGNaSE1DYW9hZTk0RUR3V0Y3cUlFWGdKS1Rxb1FXN1VaM2RDdDJXS2lRVFlEQXZGNjIyZE9waXFxVFFBQ1ppckNVcnAzLWdLeF9yTC0tSQ?oc=5"
-    },
-    {
-      "headline": "Colgate-Palmolive (CL) Stock Valuation After Strong 2026 Start And Leadership Changes - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-13",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGVoUU5aZk1TTzNvRl92Z2MyU09RQ2FzZ0ZWRExWUW0wVlNOaTlZeEF4UERyOHg3RmJMdE8wM3h1dDl3TllzYTJnSk5BQ0t4Qm1jZkF2Y3BhZGg1V051UmtKODFKU0hQUUREOFhlRGxDRjU4bXd3dXJ5dlhOTUJkQVA1ZWdod0NHYWRfQ2VRY2RFZHUtM3hQd3A3QkxPcGVqbl9HWS1LRUhFN2ZZWmM0RUVxeWxKc19CVmhLaWgtQmo0MWJYLVYxUm44aGJaQdIB0wFBVV95cUxPV3V2RHhfUU9fc29Gdm9VMkFQYUVCbmJQTm4xdGRfSE1aemlXQ0ptbW01YmphUk1uaDNzN2I1UVNkWklRby1HNmlyTnJHRTRtVkQ1R0ptY3hTRkRLZUZHNUdObHlNTUR3YUYwMGVuY0pJdldfbUZlSnVCWE1mUXdla242OFlnb25ndzMxTk5fVDF5TnBDSVhLUS1yRnJucEdDSmYtb3BEb19jYnlJM2xSSVk1eWtXUGMwZGdSU284R1FzTzJHTkFZWS1WOUhHUTFYZTU4?oc=5"
     }
   ],
   "insight": "Tracking Colgate-Palmolive (CL)."

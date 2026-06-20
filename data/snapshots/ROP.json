@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:41:10.686Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:51.076Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    331.010009765625,
     328.9100036621094,
     323.1199951171875,
     324.0799865722656,
@@ -24,10 +23,10 @@
     334.9700012207031,
     332.45001220703125,
     337.3299865722656,
-    329.9700012207031
+    329.9700012207031,
+    330.260009765625
   ],
   "6m": [
-    446.7099914550781,
     440.6400146484375,
     442.2799987792969,
     445.8399963378906,
@@ -158,7 +157,8 @@
     334.9700012207031,
     332.45001220703125,
     337.3299865722656,
-    329.9700012207031
+    329.9700012207031,
+    330.260009765625
   ],
   "1y": [
     561.989990234375,
@@ -410,12 +410,19 @@
     334.9700012207031,
     332.45001220703125,
     337.3299865722656,
-    329.9700012207031
+    329.9700012207031,
+    330.260009765625
   ],
-  "lastClose": 329.9700012207031,
-  "oneYearReturn": -41.28543088764074,
+  "lastClose": 330.260009765625,
+  "oneYearReturn": -41.23382702458957,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is Roper Technologies Stock Underperforming the Nasdaq? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-04",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSU9vODlGUmVnei1Wa19FZnRJVk1VeDEwa21ET1dOUDd2VGNfZno4bVA0SXVVTlg1UWRIX1lsTFFqVHJVYnJXYTgyM0w0TXk4LWhXQ0F4WkhoQWJpbzhIYmFiaktDU3BWTGVSU2MyVFEwTkxrQTdkRlBkTWc5NXpmYWRJSnV6UnNGTTVHakV0MUhJYlRxZjgzdFlKWG1NQjRqa2ZlWjNna0VfY25QT0dPb01n?oc=5"
+    },
     {
       "headline": "Roper Technologies (ROP) Stock Could Be 19.5% Undervalued After Its 10.3% Dividend Hike - simplywall.st",
       "source": "simplywall.st",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSFJsQ2ljRFpYRVQzNGFFeXFPVi1GOW9peGFpeDhWX282dnFQRlFwd0I5OU1qRkVaak1aTzB1M0hiNk9VcWdYRWV6bVpPSHZSSnBNcVE0UVRiUFpUendsdW10V25mZzBGV3gtQnlkbVdjUHFOZXdnZDBabkxBbC1sUHkyOUJRQ0RIUnRib01zcGxEaF9xN0piWTJPT3drczNPd1BCTWZ0QTM5NXFhWWszemJUUzUzSWNiWDFoUEkxektha0ZGRVR3N1kxZFdwc1da0gHWAUFVX3lxTE9yVDhoNXRVX1dSRTBGd25HRlpRMlhPbU5ubUhkVkpQWC0xY2ZDLUR3UVVheDlnd090eUtFUzlTQVczbXlyQ2xLaHRnWHcxYXFHWHVFbkNESkRCMFB5YlU0WEM4SVpXNW1KSmtnRXpKSlQ2OUQtU194RHViVi1RZ0NTMER2ZHJfUkpNRWFzYjNieU5sR0owSV9wX3NQT0pPY2ZTOU5Xcko3TnZYa29RWXd2ZlI4bEpNM25WNFNXTUd5WEt2aVhJNDVRYWd0dnJzSFAtU0RTbFE?oc=5"
     },
     {
-      "headline": "Is Roper Technologies, Inc. (ROP) A Good Stock To Buy Now? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRUNPWndzbU9obEVBVUhmNU10S1hlZjFKdFRsR2huRUprcWdMaHR5UWpkNzNoNUh6enVnX2tNYk9TMXpLWVZxeU50Um5ndHhLR0tuWWVxdEVXLXZqMmVGX3IxMXdxSWdrNEpVdXpJTlZjOGdpX2IyTTFVMHBobDVDVW5kaEZMTkpmby1iTmVycHVYMkV1b2lucGRYYnM?oc=5"
-    },
-    {
-      "headline": "Bamco Inc. NY Lowers Stake in Roper Technologies, Inc. $ROP - MarketBeat",
-      "source": "MarketBeat",
+      "headline": "Wall Street Analysts Believe Roper Technologies (ROP) Could Rally 36.61%: Here's is How to Trade - Zacks Investment Research",
+      "source": "Zacks Investment Research",
       "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWFFVOTU5NGxiSFZNZ1VNMkg0Wm1peFVyVkRHN2xoOEMwMEtaWGhtQm5ZbnRJS3dwS1F0bXNSWGZ4U0hrczVidFFENG1oTmZBb2lQQ0JPM3lwaGVlUGZpcU1kbXlUQzd3ZlhXXzBWeDJ5c19telFqZUxRVFg4ZWZDZjRjLWVXUC1TbU4zOXFKT01iZm5WYkUwQkxhX3M4NW9hMDdUYnREWFpYcWhZVjFhWXpBVHNQcUk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY2tCck1PQjBNSzVzTUN3Mk5Qbk1VUmZhNWRDM0piMWlOczF3R3ZMWVlCRmVJSXVGX3NwOG5rZFBIa3VnaXNDLWRuYzZsTndqS3FiTTEtNFJzd29xVTNVVGZ0Y0FSazEySHZqUEtjaS1ZTmJJbnNXZ1Fab1ZsVlppSFA4VklsV2tHQjFvcE82VlIyNnlNRG9KT3JzS0JYNHI0ZmVfMEdpRFBDcVJfbGd1QlJna3NIWks3NXQteTFScWxpRmlWNlV4eGRUNA?oc=5"
     }
   ],
   "insight": "Tracking Roper Technologies (ROP)."

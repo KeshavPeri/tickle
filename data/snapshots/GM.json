@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:40:53.474Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:32.630Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    73.0999984741211,
     72.62999725341797,
     76.13999938964844,
     77.20999908447266,
@@ -24,10 +23,10 @@
     81.5,
     84.06999969482422,
     82.51000213623047,
-    79.58000183105469
+    79.58000183105469,
+    79.29000091552734
   ],
   "6m": [
-    75.70999908447266,
     77.16000366210938,
     80.80000305175781,
     80.8499984741211,
@@ -158,7 +157,8 @@
     81.5,
     84.06999969482422,
     82.51000213623047,
-    79.58000183105469
+    79.58000183105469,
+    79.29000091552734
   ],
   "1y": [
     48.20000076293945,
@@ -410,12 +410,19 @@
     81.5,
     84.06999969482422,
     82.51000213623047,
-    79.58000183105469
+    79.58000183105469,
+    79.29000091552734
   ],
-  "lastClose": 79.58000183105469,
-  "oneYearReturn": 65.10373562533849,
+  "lastClose": 79.29000091552734,
+  "oneYearReturn": 64.5020739843903,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "General Motors (GM) Stock Could Be 31% Below Fair Value After Recent Run Up - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUVlYllwc1ZRODI5RWdlbmt2RDhjT2QwWW1MNGFEbEpFc21EbE45OC1Bd3VRWS1FWEI1eHRMdjZDcHdtUmZSMldXUGRveHBDNmFVMWRHZWo2a1JoSG51RnFaYVRMWDN2OUMzcVdSendYTWVuZlNTeV9XQ0FQZWhFd3p6a0hVeTFjQWx2X1FrdUhXVmVYTDRKSmp3?oc=5"
+    },
     {
       "headline": "General Motors Is a Cash-Compounding Machine. Buy the Stock. - Barron's",
       "source": "Barron's",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNREhkbmxHbmtFZ2d3SFpfM2s3Z2RuWU54S0FucHlXdmZmZF93YXVNaFA4Sy1YQWpfQVZTSHVsVFc3Yk1FS3NzdTBVWXBpTWw3eFBCWWZ3MndXQi01dDNZQ3Jjajd0TExsUUZYR2wzX05QTlZmOTEzaXcxLWxvVDZocVdrTQ?oc=5"
     },
     {
-      "headline": "Is General Motors (GM) One of the Stocks From Companies Generating High Cash Flow - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUE5Z01xVGRvMUV5LUVaRWJtNTJTTHRFT01PRHR5Ni13aE91eVdFQkVmSVJaOTJ2NlowMGRMWWxhWXhpX3djMTJWVkhzZFhyOFZiNXVicWdQVnhsTHJ4ZzdtNTg2ZmNKWG1JVzVvUU9PRDRXYVRWT1J3SWdaTWFEa0tHNHEwZWxSZEpPZ25KcWxyZHZEc2k1bQ?oc=5"
-    },
-    {
-      "headline": "Trump Invokes Defense Production Act. GM, Lockheed Discuss Partnership. - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcjN1V1JvSDF3eXpjNFVXU25OTTlOb2JZajh5TUEzYVlLVTU1ZmdPRW5oOGZJUFdzSGVqNUN1YVpkRDdsWU9WOWdCbEFrM01fUlliaWUwd0NQVHlJZUJLcnd4elNOSUI2ZF9tTzY0RVNlSk1tZjJuMjl1b2NkVXRjb1lmYUxXOFB3aE1rRnRxV3hYdy1Dc1RuOXBQSUgwUExoWHEtaWdTVFdUdw?oc=5"
+      "headline": "General Motors Stock And Mexican Auto Finance Plays The Tariff Shift - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWnJUQUhKVzJUZmN6SzU5ZDh0UHkyU3QyRFFIeXZDQzY3dEtlZW1ic18tTC1FSjBINW9ObUJwcHRUZVN0QzNNcXJkMmljN08tWlVkWlhtZmVJaXZRRm15LXNlbXlTUXlBbFRZWEREaWNXUnJVdkN5djd0TlprOHFWZTFZLVFQelQwLXNDV0QzR2NTSE5feXhSeUtxNWQ2Mkwza0xuUXZaMEFPUmpGX1E3dnFIOXcwejRVUUxjQ1pnZG9xYk5YQ1ZlUmVncG7SAdIBQVVfeXFMUE83T2szdnM2eWZYdURyZmJJdENYblg0NXhsUGNEaWVRYm9ObHAzU21lVW9zTDJLalh1NnlxV3VHREhBZER6amU1SDRwTmRpd1hLYXNHZTJlQVJscldEc0twdEI4MFplVlJJNlp2dXFiNUpZS083U0xaR0t3Z04ySU1hU1FZYmVUU0ZFT2tfQ3E3dGFHM0xQcl9rYkpsa09CQzVDc0dJbHkzb0FJbXVHeE5NUnp0X3A5ZTBlZDZnR2hBcmhjWkNIX1FKNXZGMEJZTllB?oc=5"
     }
   ],
   "insight": "Tracking General Motors (GM)."

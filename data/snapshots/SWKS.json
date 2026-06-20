@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:41:12.267Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:52.736Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    70.3499984741211,
     70.3499984741211,
     74.3499984741211,
     73.54000091552734,
@@ -24,10 +23,10 @@
     73.97000122070312,
     76.26000213623047,
     71.41999816894531,
-    69.37999725341797
+    69.37999725341797,
+    72.44999694824219
   ],
   "6m": [
-    69.20999908447266,
     68.54000091552734,
     68.80999755859375,
     68.25,
@@ -158,7 +157,8 @@
     73.97000122070312,
     76.26000213623047,
     71.41999816894531,
-    69.37999725341797
+    69.37999725341797,
+    72.44999694824219
   ],
   "1y": [
     72.12999725341797,
@@ -410,29 +410,30 @@
     73.97000122070312,
     76.26000213623047,
     71.41999816894531,
-    69.37999725341797
+    69.37999725341797,
+    72.44999694824219
   ],
-  "lastClose": 69.37999725341797,
-  "oneYearReturn": -3.8125607995495767,
+  "lastClose": 72.44999694824219,
+  "oneYearReturn": 0.44364301540168877,
   "marketCap": null,
   "topNews": [
     {
       "headline": "Skyworks Solutions, Inc. (SWKS) Stock Price, News, Quote & History - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-18",
+      "when": "2026-06-19",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15S1c5bkoxNFMwUGFEMFRmYVJmYk50OXhUeld6NGZhejBDb2ZXOWhkbFJvazlDcUhUUHotYW95bHRlSTJqQjBNUWZhZ0FlUQ?oc=5"
     },
     {
-      "headline": "Skyworks Solutions Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNYkx6WDRUWUFBU2VHZDFUeGFEXzAtTnhCRkF6US1oeHg5TTVaZC1xVnZVbGxqdFJVSWtzMFFSWXR3TGVqMWVuRXdadjBYWFZOSjBzSGJaZWd0MUFGZ1hKcTV5eWF0V1haemhxcXNTdFNWWTloUTBqQjNKVnBBSkR1eWVEa255QWY2T0NIOEo1MFd1U3piQm43RHZ3Qi1JanVsM0p2WTkzY0xKdUlpTjh0TVltcmtkWGJOUWJZcW0wVUN5Z1czZFlvUzR3MVN3QXB6REpLcWhOeXFsSHhYOElfdEpneDZnOVJHMUtXTVRUcFVneWhCMFoyUHlZLUIzUjVNZS1mWW1mSEhYZw?oc=5"
+      "headline": "Is Skyworks Solutions Stock Underperforming the Nasdaq? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeHlzV2hmYW9GVXEzLW9GazNjLWhBQ3ZHbDA4RlF0Vklta3pSZVlVUUFrNmZPQ1VNT25KYUtHQ1JyZU9ZUWk1Tk94NVZqUWs3VzBoU0NBYWU2SkZseS0tWmNTOGtjM2xTTlpLMTlvd2FzdjRNQ3EtcjdhWW5IN3N5NVRCcUkzRS14bE9LTmtXbUtkclZYc0ZNSjRzcTdwLU0?oc=5"
     },
     {
-      "headline": "Skyworks Solutions Inc (SWKS) Stock Up 4.4% and Still Undervalued -- GF Score: 75/100 - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUE3THNJUlp2REY3dnBZYzZFOEtMSHpzTmEwbVkwRmxfb0xicmd2WGNjemlfSXdFaHdwWldGYlpmNzZ6Y0ROa1R0Zmw4Sk5DSGhRRF9hSGV6bE5iaTFaa2h5bnNVWHlIb0ltYVRLOTc3azdpd1lyaXF6SnhpbFR1LVFpaDR3Q1JzT01wRmtEU0hONERldDZ5a25vTVhCZF8wWlZCcWxvRDYyMmF1OFFEcGpodzNHQQ?oc=5"
+      "headline": "Should Skyworks’ Qorvo Debt Exchange and Looser Covenants Reshape Risk Perceptions for SWKS Investors? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-20",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcTh6Q0VrbjVuTzI3akFxWFNIcnJoVW1KdGdfS052YnVGWTZwV19uZ3lFMmhTUzI5REdtS1BaeXAxb2pmUHpuSGg0d1NzMDRvT1VWRW1VVkswLXdvTXkzYlVkN21QRFhKTnMxYmwtbFlIQl80ZDFqMVVZNFpFM0JoRURmRlZReEYwU0lQNGlfOTlUaDl5a09lMzVMclBTRWVOdG9ocGJJRlBsdHV1ZzdHZWZqbmw4a2xDSlJTX29PRjVObkhHTURhM3lHQWNiVkl5Nm9yeW0xYzBIQW_SAeABQVVfeXFMTlI4WGRGU3otZHpWaGh4NUJ4aDhvQ094Nk9LU1Uwdlk5eFhodmp0b04zMWMwa25Zd0pEQzNhbWRTRERBQVdKdFBBYU0yX3N0S2VRd0tSV1FyLVNGNDdlRmQ5dkhUdmRSRmNLbFNjMmZHM19BVEs1bTJWalBGVjlsZGdGOE8zaW1vWDN0REZSVzlMM3JBa0Z1WUstOURLbzQ1VThMRjF0ZHJxc1lHYXRNeFJrY0NzYkVFNWtCV0xYWlJFYXg2V001S0pNdFhOcG9KMkhpeDBrNW9DMklHOGVPMTU?oc=5"
     }
   ],
   "insight": "Tracking Skyworks Solutions (SWKS)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:40:32.168Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:10.408Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    399.3699951171875,
     392.3399963378906,
     398.44000244140625,
     389.8399963378906,
@@ -24,10 +23,10 @@
     441.7300109863281,
     443.2099914550781,
     435.3900146484375,
-    423.010009765625
+    423.010009765625,
+    423.3999938964844
   ],
   "6m": [
-    553.1199951171875,
     546.6500244140625,
     568.3900146484375,
     581.030029296875,
@@ -158,7 +157,8 @@
     441.7300109863281,
     443.2099914550781,
     435.3900146484375,
-    423.010009765625
+    423.010009765625,
+    423.3999938964844
   ],
   "1y": [
     777.3200073242188,
@@ -410,12 +410,19 @@
     441.7300109863281,
     443.2099914550781,
     435.3900146484375,
-    423.010009765625
+    423.010009765625,
+    423.3999938964844
   ],
-  "lastClose": 423.010009765625,
-  "oneYearReturn": -45.58096977051199,
+  "lastClose": 423.3999938964844,
+  "oneYearReturn": -45.53079942532792,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "AXON Stock Is Down 25% in 2026: Is the Selloff a Buying Opportunity? - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczdvNlB5dm9RTlkxTVpxNS1CVlJZXzNFR1pDb3NjY0hERVAzU2hzRDNRdS03MjFMQjl3SnhxZklNcGp1V3pQLVlwZzlHUVZadzRVeWtFcm54YWJKdEh5NXF2a2luUVVFS08tM19HaUpOUDdmOW9fb3EwdW1qZjExeXdjX1dFOTBWRHJOaU9ZS21tTXAxVEE?oc=5"
+    },
     {
       "headline": "Is Axon Enterprise Stock Underperforming the S&P 500? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVW1sQUhaQmNqdkEyUGNzWHZXTEJtZkdXWHM1bnFJV2ZQUTRXR1hrTGd2ODlSdjRVQk5EdGQyWXlZUzJScFZzU0o4TWxpeV9MSHV2RnhIaEwzNUF5aEd2bmdidWxvV2dKTHJkMzlCVmdLbDhmc1NyWFFxVGdvU2ZrblpNT1Z6U2FiRV8td1JpekgxSVB1cGVWdG9qa2E3RFY2Y0tBZFJ0dw?oc=5"
     },
     {
-      "headline": "From TASER to the Skies. Buy Axon Stock While It's Still Down 49% - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUENiTEJmMTFfdDliMVc2Sk90YUdZMTQ2a3hST21Ic0lWOEdST1FnRERxdzF0ZmNIZy1fTGZXVENJYklqNVRmTEo2eUVLSGhveGJUSW4zUmdvZmJPVzlhMmNWeWZBN0RnVUpRejVwR3lfVTNPMjgtMEtqUFBmM3ZJakdFdWJmRUktaF9HbjVuTDh1UQ?oc=5"
-    },
-    {
-      "headline": "Axon Enterprise Stock Slides 14% With A 6-Day Losing Spree - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-14",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeDdLYl9iUzk1MGRHdVZ6cDZNbmlNc2ZMNWFHODIxYVR3S0ZzMFhyNDJhb0Z1cDl5MWtseElSNDBmOWZXR29DLWk1Z2kwTmNHdmdyYVFrd3BZb0tmbHdBR1hsa3owdGxlRXBka3VJUXVvNi1vbTRYcVFQc1daSXJYUXBtWWlRMlNGb29lN2hDckp4VXhPR0NDQThxRndicTNKQnZoenI4cWNFNGhyeVpPNUVCcUFxNFVxamtvcnJ6UEZCUEEwT2c?oc=5"
+      "headline": "Axon Enterprise (AXON) Stock After 45% Slide Can The Growth Story Justify Today’s Price - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTVUdExyWGJUWldmU2ZkWTFZSEkzdnBuWXRZZ2dtWGxSLUU1TFhPQmNya1NMbzlWWE0zQWpQbmZsLVNhYUxZajRzMEpnY20wbkYyWVpGMjZpVk5MR1ZHa0hfOVlxVGNIX3ZIZW03a0FfX0NjeWEyc1RGSTF2aDFfRFZUOGhRZ3V6VUdQaEo5aG5tcTlEN2tkOWY1UUpKSnVMWXhOYmVicTVLU0hHZXBFdmZ6M3ozanZsRFlGeWdHQ1FLY3VOV19NS2VoVTZJQWNXMGdhSVdB0gHbAUFVX3lxTE9VZUFqcEFGdUVVeFpSY25ES0lzYVd2aUxLRVl0QjlOQXFGN2xjY1dyYmNoYUpqQlNiSzMzZVVHcmw5cTZLZVMyV3NaS2VsbWJSeHI0dV9TUzhFS3ZaLTlaR0dlbUMydUluOGxNSUpWSTBDMDFkdE4tUFluREVKOE0zT05QTWpQakVWLTV2Rl80dVlIbUR3c0pfTjk5TVJEUEQtY3htNkRja1JvR1V3YVlSLWFaM2wxcS1Hb2VEUkltZlZvay1OaFZ0NGVRY3p6XzQ2ZEMxMC1FWUpQQQ?oc=5"
     }
   ],
   "insight": "Tracking Axon Enterprise (AXON)."

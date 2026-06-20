@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:40:39.814Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:18.285Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    348.5,
     343.1400146484375,
     350.4800109863281,
     347.4599914550781,
@@ -24,10 +23,10 @@
     356.1099853515625,
     353.4700012207031,
     360.3699951171875,
-    353.3299865722656
+    353.3299865722656,
+    345.2799987792969
   ],
   "6m": [
-    303.70001220703125,
     300.2799987792969,
     311.57000732421875,
     316.29998779296875,
@@ -158,7 +157,8 @@
     356.1099853515625,
     353.4700012207031,
     360.3699951171875,
-    353.3299865722656
+    353.3299865722656,
+    345.2799987792969
   ],
   "1y": [
     316.30999755859375,
@@ -410,12 +410,19 @@
     356.1099853515625,
     353.4700012207031,
     360.3699951171875,
-    353.3299865722656
+    353.3299865722656,
+    345.2799987792969
   ],
-  "lastClose": 353.3299865722656,
-  "oneYearReturn": 11.703705004396593,
+  "lastClose": 345.2799987792969,
+  "oneYearReturn": 9.158737138979198,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Strategic Buyouts & Investments Aid Corpay Amid High Interest Costs - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcy10UmR1QjBtX3lTZEtNREVxaFkyS2M5UTdEZjVmcERteEt5YTdxbUZPbTNNNXRFWGcwT3JUd0xVV1Rab25nWkkyMVBLblNvaG1tTWszcWs2WWc3RHEwUlpzalZPN1BnM0VUX0o5amxMaVVGcFh0V2dLUUVrUEV5ajZiLUV5cU5EZEFYaGVSTkVWNEd1X3EwQzgzMnM0Q0FxeDd1Zk0xZVc?oc=5"
+    },
     {
       "headline": "Is Corpay Stock Outperforming the S&P 500? - Barchart.com",
       "source": "Barchart.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQThmMXZtNU8wOXZLeVZFbmJaYVlmTnBuOVVjcXFnVUV2VXo2bUVTY2dnbEZjZjNxUUc5TGRXUEVaZWhyUks4NnZZTDNucF9tbU5Pbmp6WTV5eS1TN1JIY2gyS3VJdnZDbm9Jbld6cmdoR2FLOWt3SGEwcWlSNHpYYllqSUcxOFhCaHg0Zll3?oc=5"
     },
     {
-      "headline": "Corpay (CPAY): Buy, Sell, or Hold Post Q1 Earnings? - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5teUptaGEwSy1STHFmNktwUVlJUHRWTy12TmJOT0xqcDJNMXQya2J0cmlyVDl1bHE0eDBGNUlzaVUxRGVoV0hOMzQ3NWJfZm1aM0RxMm9VUFdhdl9tZ3RXc2JLRzZuZmpINlFLVExRdGI0R0dPNkpEVkhjSE1xRUU?oc=5"
-    },
-    {
-      "headline": "Corpay Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRE8yelFxNUI0TmJvckZrZHo2U2hCSU9LeGdMVlJ1UUdBNVRTUFVmQjFBZ25rbS1EM0xwX0J2SEZYMEZjNUNhemMxckdaNjdtOE4xV2dnaHdvM3VkQW5DbEE2cmdfRnRicFRwOFFYeXNjSnlhZmxaNVdWLU96b3FWZTdPRTBvY3AzOEFNQkxPazNIZkZERzFhQ0tSaTZzSUs3TjNUVEVWYjNXTGN2SXQ1emVFRkdxMm5FMlNWU1hkMDBrbzJSUnQ4dEVHamxtNk5sRmZYOW4zSEkxRVEtcnZfMWJVUTVyd245a3RwdUZaUnJuQlZQbmpvRw?oc=5"
+      "headline": "Should Corpay’s Upgraded 2026 Outlook and Earnings Trajectory Require Action From Corpay (CPAY) Investors? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPamYzWWRPUjAwMGE4anROTlcxNEY2V2dTTHBWSDQ5SFdueVpvS0h5XzJqeFZkSTRwcDE0dUl2b3dSU2IzYXFzamxjVXVuOWNoWFFNRGVUTkFLblV6VHNkQUVWZjN3cEVBbHEzUndRczVIT2Z3blpxd1VBYXVieDRGYmI2bFh2Wl8zUUw0UDZlcjNkVVNWODFzV0ZyaXYzX194Zl9hQ2RsemtRUHdCSlNHTHZDdXliMFZaSWFUb2d1QXRMbTZTdWJJYU9JRWNTMzdaQU1Z0gHYAUFVX3lxTFBmNkVDSkY1TXl2UnlaWTVsLUZ2N0h4ZnNfMFR6ZGU5d3YwYXBndlJIUjkyejZIQS1FcjFLS2hMWU5iOElvTV9GOEZ4QlhMcWxHdlUyWVRLWjB4UnRsb0I5bDJhSGt0b3VIZ2NMRjJ6VmEtbGlmOUhpY0hFN0xTN3FzMnpWOVh1QUxJd2FSbTE3NURraFJRTW9jeWlWZ0dra2Q0dVJvaDdYN3M5ZWlXb1NhMTdEa25VNzN4aGMyWjJMdlpuYVl0WmY3ZDQtMUFFQ05yRlUxeHpyUA?oc=5"
     }
   ],
   "insight": "Tracking Corpay (CPAY)."

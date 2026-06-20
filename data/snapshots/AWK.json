@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:40:32.253Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:10.383Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    124.83000183105469,
     124.16000366210938,
     122.36000061035156,
     123.87999725341797,
@@ -24,10 +23,10 @@
     126.30999755859375,
     126.87000274658203,
     128.47000122070312,
-    125.41000366210938
+    125.41000366210938,
+    125.06999969482422
   ],
   "6m": [
-    128.4600067138672,
     128.14999389648438,
     128.72000122070312,
     130.08999633789062,
@@ -158,7 +157,8 @@
     126.30999755859375,
     126.87000274658203,
     128.47000122070312,
-    125.41000366210938
+    125.41000366210938,
+    125.06999969482422
   ],
   "1y": [
     141.25,
@@ -410,10 +410,11 @@
     126.30999755859375,
     126.87000274658203,
     128.47000122070312,
-    125.41000366210938
+    125.41000366210938,
+    125.06999969482422
   ],
-  "lastClose": 125.41000366210938,
-  "oneYearReturn": -11.214156699391593,
+  "lastClose": 125.06999969482422,
+  "oneYearReturn": -11.454867472690818,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkxxVlpwWHFiQUVVR1M5YkxrQ1VYc2hHdGwxejRTR0VyRlROakNhMktMcm5lVGJ5bXVqM2hqcm1DTXNMdEM4UGVjZVF4ZzFPR1NUQmhMTURldE9UUUY4ZmUwVmlGdE9nb0ZQYTdRTUlFMkZ6QzNIakI4S2J4Z2JYcGdSdWVlTWxtcG91Q214dk82dDBOSlFtS3h2Yw?oc=5"
     },
     {
-      "headline": "American Water Announces Dividend Increase - American Water Newsroom",
-      "source": "American Water Newsroom",
-      "when": "2026-04-29",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1gxOWZURzd2Z0lXLWo1eFpXOVR4alFhZEJDSkVTZ3NUckExNzNUdG5aanBvZ3cwS0VyTWc0d2Z2cnZ0SzQ1Q0w3ODhJQXVwbEdPT2NNNC1USWVrRG9LZ3FUM18yYlU1dXNpMFc0ZzliTzlqTE1yQzc3a1dadEI3ZkJwaFRQRTR4eWc?oc=5"
+      "headline": "American Water Works Co. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjZoTEg3eDN4MnF4OThwWk8zWl9kNkpWY1FJRWFrZW81ejBCcE90VGIxVG5abWFfaUFYQllUbHFtdnlVN1AxZHBjb3RES24xVDJhbVF1VlcwX25yQ2gtQWRiSS00dVN6YzdtaTFpLTVtREl4RXhBMlVEWkhfVVk0WTR5VkRCT0s2Vk9YS0R1YklDMld2VExTdVJKaURUS1JZNDJ5QkYzcmNpWFZsdGplZlVxSmxTdktqVGdzV0l5bmdnWkhpbG14cDlsUlFHVElq?oc=5"
     },
     {
-      "headline": "American Water Works stock hits 52-week low at $121.27 - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmJfc08yNFNsQXp4TG9tN3NjVWZacTdGOWEwY3MzX3ZWclpjcFFZZWNyQjVOWjRFSE9ZUlNzNlJyc0NWb2tIV2R1ZHR5bjFYWmpVQWhTSUtYclZkaWZjc1hVUi1GdXRzSGpLbFhIbFE0eTdQWFB5OVdkakFIR0EyRkVVMGZSWXY2OVJIMHN3MlZON2JuclZaOHBsbEhyY1RZOEh3NDNJWVVuR2tv?oc=5"
+      "headline": "Do Recent Rate Wins And Upgrades Change The Bull Case For American Water Works Company (AWK)? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa241NWtkUS1NdVhLSDJoRWVuMmFQY3BieTVCUEZjS2s0d3NXUmNUMDhGNEFpMU45blVkWFBCYTlEcTNuSlU3emRnd1l5V0dhSnFtZkJfeldDcWF1Z3JOREZOS0hvSGJYTW1kajlnTU9sSTdXckVyUU1VbHFxSW1fYm92alVFdzljYkN0ckNfcXBZdEpOYjk1T3RTcU5nWS1yWk00UGYzWko3R1FpdlI3NmpVWVFCa29qakQtOGw4bnl0UG9ZZEhLRW5PZmVlc3lzUHpz0gHYAUFVX3lxTFB6MWRtWGMzY3p5MkFFbWlCSkdramdieEdQdFRxb1pQLUFnSWpsck02a2hTZktJSlgxT18xNzJmY3JUcEZjRHdSVFROcFF2RkZYb21TYndBUC1VdURTc1hZZW5oZWlheHlwNU1VRVQwMERwZkpHN21rc21uZ1lXOFVSclNabXhZSVNCR2xBSGViVWFkVE8yU1VxWk9zX2tUMGtDQk1jQTg5Sm1Qd0dqUE5faFE3Z1pMYVdNbmlPcnd1SHYtWmd6RTVObzVDa3dWMkVDX0NFckpIYg?oc=5"
     }
   ],
   "insight": "Tracking American Water Works (AWK)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:40:28.700Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:06.801Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    158.77999877929688,
     155.16000366210938,
     163.3800048828125,
     163.0399932861328,
@@ -24,10 +23,10 @@
     174.83999633789062,
     178.25999450683594,
     179.52000427246094,
-    173.52999877929688
+    173.52999877929688,
+    182.0800018310547
   ],
   "6m": [
-    157.67999267578125,
     159,
     164.5800018310547,
     163.8699951171875,
@@ -158,7 +157,8 @@
     174.83999633789062,
     178.25999450683594,
     179.52000427246094,
-    173.52999877929688
+    173.52999877929688,
+    182.0800018310547
   ],
   "1y": [
     181.7899932861328,
@@ -410,29 +410,30 @@
     174.83999633789062,
     178.25999450683594,
     179.52000427246094,
-    173.52999877929688
+    173.52999877929688,
+    182.0800018310547
   ],
-  "lastClose": 173.52999877929688,
-  "oneYearReturn": -4.54370142026185,
+  "lastClose": 182.0800018310547,
+  "oneYearReturn": 0.15952943265992037,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Align Technology Stock Underperforming the Dow? - Barchart",
-      "source": "Barchart",
+      "headline": "Is Align Technology Stock Underperforming the Dow? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-06-17",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUW11RFJQV3l1dlZKSXNuZUd2Ynoya1pmY0Q1MU1HTDdseXlkaWpRdkY4YmlaRFo4UG8zbHJJdTQtMjJnb200dmlUajlKNEdOWGQ4V0o3eUtJNV9XQk1XcWFUa0R2dEFELWdtemlLVkZQU2hvYWN2MVNPNDlOcDdxM2ZSYTk3SjJjdklXQ1VYSzlEUHVFUDlkZA?oc=5"
     },
     {
-      "headline": "Align Technology (ALGN) Stock Valuation After Earnings Beat And Renewed Investor Optimism - simplywall.st",
+      "headline": "Does Align’s Chair Transition to Kevin Conroy Reshape Its Long‑Term Governance Story for ALGN Investors? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-14",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUzJnWWR3cmhSMHpKM21vc2R2aDRfYU00RmFicnVzYXVfUVdhb004d0pSUkZWM05aT0hCNFZDc3BYU1VHbFZWejlFZWNZejVRVWxEMWVvQ0pzVmlXV2FUbGJQWWE5U3JWLW1WNGppOFdpMWhfcXlVLXMyNU9ncm5wVU1JaU5SMDMwUFVPZ2tiM1FnY3V0a201dzgxb0wtM3NNSFF0bXVmc2pMRnQxVUs2a0Q3a1kxSmVLTU5vdjQwUXVKanB0REE1eUQ2a0FHa2ZTNHpj0gHYAUFVX3lxTFAxMEhVMVNjel9URE5tdW9TTjMxMUZuSmNJcWZYOGtMRHNsUlJILU5YOXE3aWU5Y0V4SC0ta01jaHpYRktpY1NSYjduZFhMblZIend1d25FTG5nemliX1VkRFNURExTUzJrQXFaTnNmeW1zWU1YTmg1ZXdUVVJPYmxYZzJmU3J1Y1VxZEpUVEF0ZEhhS3Q5VFlTaEp5QnE0Zk11NzY2TkpxeTRrck9hN1ZnVXNvaHpmNVozODdzOEF3MDFqOXVTV0s4ajZPcGtzdFdveFVfYlVaYg?oc=5"
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTm1aM2NrVm8wTjVVZEFyaVktUHJ6cFMyOTJFREpid2FCd3kyQ013cmhVTG8tTFR6SmFJUjdFcVI0S1AzeFJqcjhFdFFEUWFnNU4tb0lxSkhsbklWZDF0M3NjZ0xzN3Niam5QalBoZzVpSFlGQnFFcVFxOVdxZE9ScVpSSUZvNHRVXzRTZVNOdTNZV3h4Sm1pSGUyTzJsWDFWYjlfdzZNWXI0TGpqMjh1RlVuaEdOY0h2S3JWaHJoUHJwT0ZGY2V6Z0ZUVlZ6T2F0NVl6SENrN0_SAdgBQVVfeXFMTU5tWjNja1ZvME41VWRBcmlZLVByenBTMjkyRURKYndhQnd5MkNNd3JoVUxvLUxUekphSVI3RXFSNEtQM3hSanI4RXRRRFFhZzVOLW9JcUpIbG5JVmQxdDNzY2dMczdzYmpuUGpQaGc1aUhZRkJxRXFRcTlXcWRPUnFaUklGbzR0VV80U2VTTnUzWVd4eEptaUhlMk8ybFgxVmI5X3c2TVlyNExqajI4dUZVbmhHTmNIdktyVmhyaFBycE9GRmNlemdGVFZWek9hdDVZekhDazdP?oc=5"
     },
     {
       "headline": "Align Technology Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzFuU015WWxPRHQ1dUNUNTZuZzFGWlRaLTBjaXk0S0IyZnYzYWJpWHoyMVY5U1IzeXdvYUIxZ29nVkVCbjM2S0lna2k5QzEybVplc05TYTdaS0FDcDZrUS1CVU4zYnVnWmZONkxmTVJHZjNBZWM0SDVoWTFsXzFLazFZcGtPZFpQb2FmTEdwcTl2RGZ4bEN1dGFrcmFUcldHblZCaXY3MklmVDc1NFE0SHdvdmNkX2QwM2J4VWNmeDMyZEphRWtucHBVRDg?oc=5"
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT0p6andpR2QwM0hUS2VfdXV4TkV4Q0c3Z3lXX2JxaGRMRksyMzkwNWwzcmJwWW8zZnJRNWh0MFJRbVN4YnhaWUwtWG56aVozRTZpTmNGUlB5SW93LWpjblZwaU5ndjd3WmtoZzNKRVlTQ08tYjJMT3lUMHMzM1o5UEdpLTVzaG1MVXlnNkwzdXhGdmJiUy1mdFRaS1pwaU9xNVREdE1GSFI0akxrYUlmYnFGX0szVk1XbkEzYXFXam9qYlY5Z01rb3p1aXA?oc=5"
     }
   ],
   "insight": "Tracking Align Technology (ALGN)."

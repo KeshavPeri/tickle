@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:40:51.490Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:30.571Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    114.93000030517578,
     114.83999633789062,
     116.05999755859375,
     118.61000061035156,
@@ -24,10 +23,10 @@
     125.83999633789062,
     124.70999908447266,
     123.37999725341797,
-    120.4800033569336
+    120.4800033569336,
+    120.38999938964844
   ],
   "6m": [
-    95.5199966430664,
     96.93000030517578,
     97.5,
     98.77999877929688,
@@ -158,7 +157,8 @@
     125.83999633789062,
     124.70999908447266,
     123.37999725341797,
-    120.4800033569336
+    120.4800033569336,
+    120.38999938964844
   ],
   "1y": [
     95.4800033569336,
@@ -410,18 +410,13 @@
     125.83999633789062,
     124.70999908447266,
     123.37999725341797,
-    120.4800033569336
+    120.4800033569336,
+    120.38999938964844
   ],
-  "lastClose": 120.4800033569336,
-  "oneYearReturn": 26.183493004857066,
+  "lastClose": 120.38999938964844,
+  "oneYearReturn": 26.089228274944254,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Federal Realty Investment Trust (FRT-PC) Stock Price, News, Quote & History - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10SnZxaWdVM1hBLXp0NnBmaG0zTDhsVE1nOHNDQjZFSmF1TzdlOEJsQTBZZzlDNGNQUjdaV2NrVDBBaDI0RkdNTFdvMHlRVmVk?oc=5"
-    },
     {
       "headline": "Federal Realty Investment Trust stock underperforms Tuesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -432,7 +427,13 @@
       "headline": "Could Jim Cramer’s Praise of Federal Realty’s Mixed‑Use Strategy Reframe the Long‑Term Case for FRT? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOEpaOFlWLW8wNTVDMk0ySDFTbHZyYXM2dFVOUFVTSlNmdFJ2Z2hXMW9rbndZWmc5aVFlZEl3a3NUek5sMm5mRm1ObnBFX1J5SHBXOHdWbmhiZWI5NHNkaE1fMHB0WHRFT2szM0RlaDNhM0pEM210dlU4dktBRngtVS1xemp4eldMQ3RPMEtudHdHMGkxTGZGbmxvQVRXeWIzMExNbS1DQndtcXFXZE0zVldYbmxhOS1hNldSeGZycjFJd2Jfdm1VcF9TUnc5dzJ6V0xDczVMRDVjRWNFQm9fVnRqVXNWeTZfNVHSAeoBQVVfeXFMTzhKWjhZVi1vMDU1QzJNMkgxU2x2cmFzNnRVTlBVU0pTZnRSdmdoVzFva253WVpnOWlRZWRJd2tzVHpObDJuZkZtTm5wRV9SeUhwVzh3Vm5oYmViOTRzZGhNXzBwdFh0RU9rMzNEZWgzYTNKRDNtdHZVOHZLQUZ4LVUtcXpqeHpXTEN0TzBLbnR3RzBpMUxmRm5sb0FUV3liMzBMTW0tQ0J3bXFxV2RNM1ZXWG5sYTktYTZXUnhmcnIxSXdiX3ZtVXBfU1J3OXcyeldMQ3M1TEQ1Y0VjRUJvX1Z0alVzVnk2XzVR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUkcyT2pLQS1CZUZmOFVWcnJuUG5sTkdZY2hkdkVqNDMtTzFOR1pYVzh5dUhOa1BBRUNjbF9sSEJYQnNQb3k4RW8xSFJzcHh2dHFyZGcwM1hZNXBSMl9WNkR2aFNvejFUbXFwMFFwMlFicHNFQkMyZnVjTmN6QUs5QVFuWlJiOHJjdFdFYV9iX3dOWnZNOEVnOVdjdU1ZVGx4ZWI2MFpTRzBGMWJYenE4bTR5RkN4bS1qa0FSZ3pJYVhZbm5kUFRrLVQwaHZUMVRIdXpCaGp6WVR3WDI1OVpsck80amfSAeoBQVVfeXFMTzhKWjhZVi1vMDU1QzJNMkgxU2x2cmFzNnRVTlBVU0pTZnRSdmdoVzFva253WVpnOWlRZWRJd2tzVHpObDJuZkZtTm5wRV9SeUhwVzh3Vm5oYmViOTRzZGhNXzBwdFh0RU9rMzNEZWgzYTNKRDNtdHZVOHZLQUZ4LVUtcXpqeHpXTEN0TzBLbnR3RzBpMUxmRm5sb0FUV3liMzBMTW0tQ0J3bXFxV2RNM1ZXWG5sYTktYTZXUnhmcnIxSXdiX3ZtVXBfU1J3OXcyeldMQ3M1TEQ1Y0VjRUJvX1Z0alVzVnk2XzVR?oc=5"
+    },
+    {
+      "headline": "Jim Cramer Considers Federal Realty’s Dividend “Safe” - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdDNHcHBUTk5FSmoyUkdzMXQtYWNRSUxlWDZpNTNNYjAwdjRxLTMwaHFlSjRReEZIMDNSdmxMeFJQWjBxRDI3aU5uemc4TFpSZlhOdExValB6Y2ZlS3duMUZvcUZUZG1TcEFhdXlQQ2s0dVlfUDNYXzk4WWliLVk0OURXYWpzb1hCeDRLVjVIT0thRmo2YXlMUE40U0VGMXBaMVE?oc=5"
     }
   ],
   "insight": "Tracking Federal Realty Investment Trust (FRT)."

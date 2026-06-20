@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:40:31.476Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:09.589Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    46.68000030517578,
     45.84000015258789,
     47.84000015258789,
     47.849998474121094,
@@ -24,10 +23,10 @@
     53.16999816894531,
     52.380001068115234,
     51.7599983215332,
-    49.209999084472656
+    49.209999084472656,
+    51.029998779296875
   ],
   "6m": [
-    44.970001220703125,
     45.290000915527344,
     46.470001220703125,
     45.56999969482422,
@@ -158,7 +157,8 @@
     53.16999816894531,
     52.380001068115234,
     51.7599983215332,
-    49.209999084472656
+    49.209999084472656,
+    51.029998779296875
   ],
   "1y": [
     71.37000274658203,
@@ -410,29 +410,30 @@
     53.16999816894531,
     52.380001068115234,
     51.7599983215332,
-    49.209999084472656
+    49.209999084472656,
+    51.029998779296875
   ],
-  "lastClose": 49.209999084472656,
-  "oneYearReturn": -31.049464493919523,
+  "lastClose": 51.029998779296875,
+  "oneYearReturn": -28.49937394497194,
   "marketCap": null,
   "topNews": [
     {
       "headline": "Alexandria Real Estate Equities Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYUhMWlVMdUN4SjFjZ2I3ZnQwaGoyb2FteVk3N1B5YUU3VE82QmQyX0VVRU1QMS1oMTRJOWNPd3NXMV9FQXlMYWZnOHllcWJyX1dkMXEzSmU2ZnllTFllTFJZT3pKdjB2QmNzRlVGYXJoZnlIWHY5OFJJdUNzc2w5YXVja3lISUlNYkRmdGNVVlI2dzIwMXdDRS1oTFEyWE9MNHF3cTlqcFNvb3AxdHFqb1VVdUZDQnlfaVVSX3hBZU8wSl8wQnNmTHV1RnhKd0pUNDJTWEozWW5VTElfaS0xSHdDUWVVM0FGc01mVTIyMjRiZWZBM0dtZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZmhiSk11VVBwSmpFekFYYmlJNk8teWJFenRldWhsQ0VuYXpSZGxjeFUzQy1IdG9TdHpSRmlHMC1KZ1p1NWtwSDAtMWJIcXdlaUZQR1h5RjVuSThrMkxaM1FqblNhYjl4bHZ3b3NKbUlTc1ptd3NHRkZ6NlRDekEyNE84RHNvOGdDa0hHNkR3cUgyLVd2QmlqcXkyYW1uZHI2X0owWkdhOTJfd25kWUlyclhoN3VPQlpPTDlUcVhtOGVydXUxR2V3RkNfbHFPZkZYR0d4YTNYVnF4VGxyOERMVA?oc=5"
     },
     {
-      "headline": "Is Alexandria Real Estate Stock Underperforming the Dow? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRm5TbnB4QTBUX1JMMHRJb3huMzVnQnExb0FGcG5OQVg0VlFrT05TRkxnb0J0VE9EVnk3ZnB5dEpQZHJibUc4b2M3aU9vVmRCY3Y4djVSbzJqVGpRM0ZuMVJ2QzM3UzhLSXU4LXJuRzM3U0dnVnB6WEJ3SkF0aFQwRDFOWG53WDV3eFlSb3FMUmNCNWY0Y3RtLV9KaEhxTXlpR3VaU3BaNE53UFJ3OFE?oc=5"
-    },
-    {
-      "headline": "Alexandria Real Estate Equities (ARE) Stock Reassessed After Recent 15% Monthly Rally - simplywall.st",
+      "headline": "How Oppenheimer’s Preferred Sell Call Versus Talent Strength Will Impact Alexandria Real Estate Equities (ARE) Investors - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcTVGc1Y0YU5PNUNES2VtOUoyQzBBRlhNcFVhdzFkbEcyVkp6U1JOcVVyX2JaTTcwY1RLa3Vyakh4SW16SVY0V3Y1djVJQUxvUjRneG1lR3B0U3VVWTdseERVUnhIR1NsZFQ2OU50VmxTaU80NFljODNkUExYRXZWQ2MzM0ppNTFOZDNIRUdrQUh1WDRwZUdZM2k4eks0UU4tVGtlWUdtdkw2S01rTXNHMUx0OU5saHdSY2w0VEZvX2dPaDVIaDVSaW05R0hlR3A0SjV2RU9ZbnhHcTVHSUoyQW51NXXSAeoBQVVfeXFMTk1zUlFrY2dadmdtU0FQLTBoa2x5Z0FSMVBzbmVNMEZweF9IczJkTENHYldaRXFrQTNLQnNnR09jUWExbnR3bHdyOUNJM19INVIzck9ZenJ1VzdsVnUzZGlRaU9EMHNWYXNyLWs0NjBEaVhHY0hUYXQ0ZlkxUWwtWDVnZC1hdjJZbXpTQXk4UXNmWkQwOG9vUExmUzBta3A2algxQ1A2enR5LXlqdUhZeVpiY2xXelo1OFp2cXJGdmtvRWZvOFh0bVdoZ2NBTGhhSXk2TDZYd056YVZEV0RZbHdiTnF2TUFrLWJB?oc=5"
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQjZ4clpSaWstSDJXNTBUZ2QySHVibVR4WTZtY2RiVGtQZkZNSzF6NV9ZZEFsZl9KbEhTakFYZzk5Z0UzQWxkdVZsQ3JHYVhGbTh4Q21kWjU3YzZPRGJNUEJVdWI0QmlJNXVpRkNNVGRnaFU2TXZQdWd4MVN4cDczeHp2ZXp1RHJDWU9FWi1fX01VdWtTTVB2dk8xY1VLYUwwbDItWWxtMGFIeVl1bDE4T2gzVkRrdWxMamZFeXhJWDFtS2hQUWxOeFFrQ0hUajI3NktHVHY4Zk1ZTXdIWERBNUlhTTloemJN0gHoAUFVX3lxTE1CNnhyWlJpay1IMlc1MFRnZDJIdWJtVHhZNm1jZGJUa1BmRk1LMXo1X1lkQWxmX0psSFNqQVhnOTlnRTNBbGR1VmxDckdhWEZtOHhDbWRaNTdjNk9EYk1QQlV1YjRCaUk1dWlGQ01UZGdoVTZNdlB1Z3gxU3hwNzN4enZlenVEckNZT0VaLV9fTVV1a1NNUHZ2TzFjVUthTDBsMi1ZbG0wYUh5WXVsMThPaDNWRGt1bExqZkV5eElYMW1LaFBRbE54UWtDSFRqMjc2S0dUdjhmTVlNd0hYREE1SWFNOWh6Yk0?oc=5"
+    },
+    {
+      "headline": "Alexandria Real Estate Equities Deepens Veteran Support As Shares Screen Undervalued - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-28",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT2xYbTVDUGZ6bkN6RHQ0NUtVRTEyZ1dIU296WGtQMGJJbXpmVUg2S0dHZl9rZDFHVVdocUZuZ1hRbXN5TllOclA1eGNseXlWcjdhSHNaYzAyNFFGUHdVOXZSSTRFel9aMGpiRE1nZzZiSl9CeFc2bnhPYXJXandqSjZFZnFWUmpQYWM0T2QtaEhDN3RqcldnOTVOeG9VMndNZ1hMY0I2NA?oc=5"
     }
   ],
   "insight": "Tracking Alexandria Real Estate Equities (ARE)."

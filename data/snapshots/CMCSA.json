@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:40:38.539Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:16.732Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    24.93000030517578,
     24.799999237060547,
     24.8799991607666,
     25.079999923706055,
@@ -24,10 +23,10 @@
     24.5,
     23.969999313354492,
     23.65999984741211,
-    22.690000534057617
+    22.690000534057617,
+    22.43000030517578
   ],
   "6m": [
-    24.97657012939453,
     25.107778549194336,
     25.84817123413086,
     25.86691665649414,
@@ -158,7 +157,8 @@
     24.5,
     23.969999313354492,
     23.65999984741211,
-    22.690000534057617
+    22.690000534057617,
+    22.43000030517578
   ],
   "1y": [
     32.36176300048828,
@@ -410,29 +410,30 @@
     24.5,
     23.969999313354492,
     23.65999984741211,
-    22.690000534057617
+    22.690000534057617,
+    22.43000030517578
   ],
-  "lastClose": 22.690000534057617,
-  "oneYearReturn": -29.886389274542104,
+  "lastClose": 22.43000030517578,
+  "oneYearReturn": -30.68980727398148,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Stock Market Today, June 18: Comcast Falls as Cable Pressure Builds Before July Earnings - The Motley Fool",
-      "source": "The Motley Fool",
+      "headline": "AT&T, CMCSA, CMG Hit 52-Week Lows: What Dragged These Stocks Lower? - Stocktwits",
+      "source": "Stocktwits",
       "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdkZOWVNyV3A0UHFjbzgxZmFxcjFodlVHUVFxLVE2Z0FoYUZVYi0wSWxRLWdwZG9xRnVVZjBGRHJtenhncmpJRjNaSjJucnBNNWRfQS02NUdqWUFCeU1pbVBvZWotMkpRTWlFc2dfRi02V1ppVU8zYlg4aTZZY1ZtWUdlSXdheUNXYzFQbXliTzNjRGNDUE9pZmsxcl9VbzdpU3dPODVQQXhnOXNfUzhCWDF2TzBQLTd5VDdBWEk4cGVpUXdZNndpOTFNQmdKenc4QVhleDhva2RBYm1uTm1Ibg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2ZRT2haanpVQ2FpTWtDWW1QRFFxT0tWaklCWFUyS1RteEZib0VLa3d3bmNZVW5UUmM4UUI2MlZVNkp6UE9WenZfczI3ZFVfMGVlNVQ1cVJvaFVvdHJPRFVUV3lQNTVfTHRyQW5OZThiZWR3MkJQcUdCZk50S2F2azNfQzJOTDN6X1dHeDI4R3dDc2RNd1plamd3?oc=5"
     },
     {
-      "headline": "Comcast (CMCSA) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
+      "headline": "CMCSA Stock Slumps To Nearly 13-Year Low: Retail Touts ‘Lifetime Opportunity To Get Rich’ - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYklYTk42S1BxS3o2Z3NNYlROY1hjZTdOTjBldmQ5MmpJcjdROC1HdzIwM2IybVcwWWZUcUl5MTBtVmJoMjY3RjJreWFqblVSRUd1TG1uQVJKblcyZDdaYW5FbTJCR0pmdENHMUtncVFoWkREMXFGNU85M24yYXIxYmEyRXBQdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDlTdHZ5WEpZVkFGUVZiQm5yQnZXR21DYXBUTDhkTXVreDZhVWdub2IzWksxQWdpbVVzX1ZoR0NMZGhIYWtFZ3gzM0piVEx2TlVob3hMZnZwYXpNeHZxM1RpVHZ2NFlKdFVySTlDclFiVTJXeEdkaFo0dWtFQ3lfTXlRSVI2U2ZLRFJNUFFWeHBwckJOcy1UNg?oc=5"
     },
     {
-      "headline": "Comcast Corp. Cl A stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVmZBbE0teWVQRW5EOXJhVmRSY3NBWjBxOHo3b1pXRlB5U0NZOHhLaGZ3YUJNUHhtZjd6X0Q1eUNfWGpkanVUQ3NCRnBCSlRzV0pTNmR2bU05SFgxV3ozVnM5d2NsOEpUMmNxUHMwUkFpYkhwQ1N6LUpHWDhmMy1rVkZib3R2QkJjMnhQMFA5N2I1T0p1Q0YwcjBPelU2d2hhRlhzYkdxQVVQNUNiRGwxYTMxeDFLT2VqWGFDYkhsZVFIOW5GclZYQVRPUklTNW92VnctNEE1RENGMnI4VnRjdTdkT2FHaDVh?oc=5"
+      "headline": "Comcast stock hits 52-week low at 23.12 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUZ1VnpVcnNLckFHdlZrX0ZBX2VNV0Zyamd6YjZBQ3lnTlp1eTVqRnlWRjFTWWJ4OVJMeTdxanhRY2lnUk5UVjZ3LU9GRk5vekhPRmV3T2ttUU93alVHN3ctWWFEemxIQWF6QkZ1UUl4NVhJclVLbWM2MTJuekRUd1QtYXpmS1BDclpBZGJieFpJbHhGNE1ZVGl5RC1fdTg?oc=5"
     }
   ],
   "insight": "Tracking Comcast (CMCSA)."

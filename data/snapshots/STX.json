@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:41:12.223Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:52.549Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    740.8400268554688,
     733.3499755859375,
     751.0700073242188,
     810.4600219726562,
@@ -24,10 +23,10 @@
     931.0399780273438,
     1018.7999877929688,
     1031.3399658203125,
-    1066.0699462890625
+    1066.0699462890625,
+    1070.22998046875
   ],
   "6m": [
-    285.4100036621094,
     282.8599853515625,
     298.9200134277344,
     307.8500061035156,
@@ -158,7 +157,8 @@
     931.0399780273438,
     1018.7999877929688,
     1031.3399658203125,
-    1066.0699462890625
+    1066.0699462890625,
+    1070.22998046875
   ],
   "1y": [
     130.9600067138672,
@@ -410,18 +410,13 @@
     931.0399780273438,
     1018.7999877929688,
     1031.3399658203125,
-    1066.0699462890625
+    1066.0699462890625,
+    1070.22998046875
   ],
-  "lastClose": 1066.0699462890625,
-  "oneYearReturn": 714.0423729652861,
+  "lastClose": 1070.22998046875,
+  "oneYearReturn": 717.2189413574799,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Seagate Technology Stock On Fire: Up 31% With 5-Day Winning Streak - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVGw0dzRhT3QzSUhRbVRTaFpXM3NOTnotTGFDYXVSUy1wb2V0TTNyUmduYUJTTGpJVDhSMEVJcmxlbDh6M05Vb1Z4aW5LUEwxcEI3ZTlQX2U5Z1JHLTNDSmlHUXBLMEpIVTRYam5SeUR4U01URVNtcUREbVV1Z0hNSmw3Nm1JaUhjVVlya2FDR1dIbjhCMjRacWlyb2ZOc1BXc2g0Tk1HYTd2NVFhNGV6bF9MUEQwUnd0cTAyOTJQSUZQQ00xTThuUGVRWlpBdw?oc=5"
-    },
     {
       "headline": "Seagate Technology Stock: Is STX Outperforming the Technology Sector? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDk1ZFhEVDF3dWRPc3Bram1nQkFXRGNlQmVPWEx4bWZSUmFjRG1kUDByWnh4QjFIT3VKNXQwbWpiN3prTFM3R1paYjk3VWVCdGVid0JwTzBhY2h5cURiMG5zUG01LTdWRHFlbU5YdDhIeGhuVTMtOTVGd1VhWlVmbHB1UGdvOHM5V2cwakNYSlJUd1dMQTZxaUtlS2ZrOTNsbVdHdVNFOTMxRk0?oc=5"
     },
     {
-      "headline": "This Storage Stock Is Now Up More Than 700% in a Year, and the AI Boom Could Push It Even Higher. - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWx0aWhHMFZEUnlfX2tBMFhlRmFtRzU0a3BnWHN4RmJ4TkpIX2hFQlBhNnFRRWpCWGdQalEwUWxaUHEzeVNJNnMxanl1cUtWdlhhai01TVBFUUgtczVkZE10em1Fa1MwVnVLSWhJNjdhVXhRUkRmd19LRW9uamZzdlZRaW9ILXVoYXBjajhQMVVIV0ticXV0Tg?oc=5"
+      "headline": "Seagate Technology Stock Surges 31%, With A 5-Day Winning Spree - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkpWcmlaT1dMTTBPbm5xcGVXbm84WlpEWFdIaWFzZ3R0OEc0dEk2c0JrT0pMSlRKUHlYakFRSkhra3lxM05QaGFXXzJsVHRGZTlraWY3SkFSYkZ6djNKeVlzcjdGT25NYllLcld5UGNYSklUY1BUaWYxV3NYZXdwRVlXdVVWUEtjM2JNY19Wb2xaQlFMOFJCN2Ytc1hYeEJFdmxVM0hXaVg0NHJOanAyc2MtTVBPNzZiUjFkQTNR?oc=5"
+    },
+    {
+      "headline": "Seagate Technology Holdings (NASDAQ:STX) Passes Minervini Trend Template and High Growth Momentum Screen - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY2FBNTBQNXdSOVJmQi1QSFh4VXBoamhnNm03dWZMYWFJUVpDbU5sazVaZzNKSzM3Sk9sQUJKTV9Hb0Niamh2LU1fcG0zOXE0RWZmWFZPOHRwY3NKY2N6ZndaV1NwTG9qTVl2aUZYSkpxc2h4czB4ZWhlVDMta2tjN1VjMmVqX1FpZEdwSGpqT2tIMmZHUzQ2ZFBRNUxVRjFFNUc5QWlmbjBwS0RmVEdQYTQ5bXhKYjE1LXpwRXFXdjI5UHBZZWw0VTNMV0NrRGZKZ0tHbHlCMXJkVE13WFl3MjFBejZTMEE?oc=5"
     }
   ],
   "insight": "Tracking Seagate Technology (STX)."

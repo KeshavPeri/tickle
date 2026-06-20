@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:40:29.433Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:07.549Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    225.66000366210938,
     221.27999877929688,
     224.7100067138672,
     223.1699981689453,
@@ -24,10 +23,10 @@
     227.1199951171875,
     230.4499969482422,
     231.89999389648438,
-    231.27000427246094
+    231.27000427246094,
+    237.4199981689453
   ],
   "6m": [
-    199.25999450683594,
     195.97000122070312,
     200.66000366210938,
     203.83999633789062,
@@ -158,7 +157,8 @@
     227.1199951171875,
     230.4499969482422,
     231.89999389648438,
-    231.27000427246094
+    231.27000427246094,
+    237.4199981689453
   ],
   "1y": [
     176.69000244140625,
@@ -410,29 +410,30 @@
     227.1199951171875,
     230.4499969482422,
     231.89999389648438,
-    231.27000427246094
+    231.27000427246094,
+    237.4199981689453
   ],
-  "lastClose": 231.27000427246094,
-  "oneYearReturn": 30.890260386494955,
+  "lastClose": 237.4199981689453,
+  "oneYearReturn": 34.370929248064435,
   "marketCap": null,
   "topNews": [
     {
       "headline": "Ametek Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ3A1VEgtUm1ZQnVTaXhQZnJsZGhZQ2dRV2pxeVN6QnZrSzVJX3FXWmNVZDRHQjBSOGV4M2FNbnFFWGVoMnhnbkp5Uld6bDlmLWIzd0o5UjQ3YTJ6RVFESUVoR1F4MkpHdF90a0k3Z3NIQThBUmpWUExOX0c5czAwbGpTQzRPb0JUT21fVlR4VDg5R25hV2dnMEpnMFNUWmlSM1J1d0EzeGJhUjdRdWtfSU4yd1ZVaGhfeW5aekxzcU1CbnpaaFJhRkxwT0c1enoxWnd5d212QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkpoR0FHWVFUR0o3Y2ZwaHpmaUF5MEZCWnQteHItclZMcmtkOUJRd2tFbnRTaWk5cE1nV1BXTGF3Z204Tk05a3FHejlyT1BFZ2dScXFxY3ZEaVJwekdtQjVFeWRoQ0ZodF9oNXhwLWhQMjdzVjZsSUtxSjBwWXB2MHdxWW5rMXpjdTdBWnZ3Tkk2R1BUMzJ1bVhmMC03UjNFQlMtS0dycDNrNTdNWC1laEN1TTFFUElJakVseFU4VQ?oc=5"
+    },
+    {
+      "headline": "Analysts Offer Insights on Industrial Goods Companies: Ametek (AME) and Global Payments (GPN) - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPLVpUSFFVZ3dhUGRnOU4xaUc1clVNSEtDcVR1UzhGWVdzS1A3eU40eXoxT2JUVG1GOURDTU1oeU0wTnMxclg0TG1Sc3dVc250TmFQOVpJeXpfNDJYS3RQYXV0MTFHcnQ1dE5fbGYxaEVscEttRjFmMGpBV3oxdjJJU3hJQ2VMNzFfdTN0ZU5RTnBOYnBnNmRmYkZVYkJDUUZvb2ZXVWNEeTdxaWxYOWVvQkNsd0NzMHFhTk5LY1dWaEZlZ2Rhdy1PZ0ZUdWVSWEs2RlU3dWtBZ1IwdW9TVEpuOUpoSVZzTmNxNVM4NEExZTdkV3N6em1abHlseTY0WG9SWkE?oc=5"
     },
     {
       "headline": "Ametek (AME) Stock Valuation Check After Recent Momentum And Mixed Fair Value Signals - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-16",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcXViZkVkUkVNbHB5dExwbnVIMlhqc0tyQmpJZzd2clB3MmJVU3U4OXZtczljZm1DeDFVUW9vdDRXTnUxeUhheUljbjVKM3A2WGhndmVXYWdxbHQ3REFZLVhyVzMtZWc5dDFtVUkxcHpMalVFM0hFaExZSGhvWGdVbVp1UDNaSnJhUVlBN0owRm9uaFN1SWxNSnlmNWpZZ2JXVFIzZzBneXVhZkllczF3ai1DQzcyR0FXT1hCTjF2MnVBU1VTWWfSAcsBQVVfeXFMUFlqczFIa3Y5RFNSNkNtYVU5a3NCZXRCYlZxQVFYcy1uNTE4SlFPaUI5X2J0SGZ6TXlHYmYzRS1XV00tY25pR0NlVl9yazZHeDVKYWcyS1BIWnhKbWlZN01EZUNBR2lIMGtGdXhCU2oyaXBlWmhHcnNxUEMwbHRfTFBzN3NJcmZ0MG1MOGdGR1Zldl9sTEl2NDBNU1hsdjJrTHUtakY0TmVCMkVjUFV5cmFRalJWVjRtUE15WlNVWWpIaDBkQVNZbFJ1ak0?oc=5"
-    },
-    {
-      "headline": "How Is AMETEK's Stock Performance Compared to Other Industrial Stocks? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-09",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmVFVUYtMFQ3M0lWQmpWS3ZEU3F0QUxKcVduUWpsRDNhblBOUDlKY3h4Yld3bF9TRy04RGE2QUt2b083bEk3TTFQbWN4UDNxaDNmcndQWGdBamtHU3pLaDB5aG5qZmFXQkhUX3VzY1E4bThlTzFwSVZ5VWp1dHp3NmY3VF9iajNBQUtMRmxzMllNN0JOejJucXgwQ3d6RVUxU3pxOTRPbk0?oc=5"
     }
   ],
   "insight": "Tracking Ametek (AME)."

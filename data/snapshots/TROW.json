@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:41:14.340Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:55.015Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    102.37999725341797,
     101.72000122070312,
     101.83000183105469,
     101.94999694824219,
@@ -24,10 +23,10 @@
     109.63999938964844,
     108.61000061035156,
     108.94000244140625,
-    108.12000274658203
+    108.12000274658203,
+    107.6500015258789
   ],
   "6m": [
-    104.5199966430664,
     105.37000274658203,
     103.55999755859375,
     104.95999908447266,
@@ -158,7 +157,8 @@
     109.63999938964844,
     108.61000061035156,
     108.94000244140625,
-    108.12000274658203
+    108.12000274658203,
+    107.6500015258789
   ],
   "1y": [
     93.20999908447266,
@@ -410,12 +410,19 @@
     109.63999938964844,
     108.61000061035156,
     108.94000244140625,
-    108.12000274658203
+    108.12000274658203,
+    107.6500015258789
   ],
-  "lastClose": 108.12000274658203,
-  "oneYearReturn": 15.996141839457598,
+  "lastClose": 107.6500015258789,
+  "oneYearReturn": 15.49190278214661,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Innovation: A durable and differentiated investment theme - T. Rowe Price",
+      "source": "T. Rowe Price",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM1pOSTdraXlOd2pmbHpBUnNVNDNnb0RVWHpzOTBpWFBoSkJVR0xtZEN5eE5fUWMtVHdzMUsweDNfMkRPSGxvVi1QX1Z2YkZLQUJwWVFBVVlVUno1V21SaVZWRk1sWldmT19zMEVtaERUMVkyQnJPWWRKMjhPMmMtenhWczc1NE5fNngzZFRYUVEyY2hhTGJrdDJ4aTZCaWUyLUNFcjZDaDMzS2paeW4xcTIyUTFXN041QS1uc0VFV2lvUVN4R0dJNno5dWlYNGdHOEl3?oc=5"
+    },
     {
       "headline": "T. Rowe Price (TROW) Reports May AUM of $1.89T - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2pKdS1MLUxCdkNZdUJvaU52SGtWOFZ3UGwzWUwzcFFtRnRpZGNTbl91WVNKSk1lYzk3U1ZCU0hNNXhlRGVvbXlTUEFRa3BocGFBSWZldUVocmtnVUl6N25LN3NlOTA5OEh0LVFpS1B4X2c4U1d3anVYdm1La0diaC1fR2FKOEpXV0RaVW1yUjg4RUp4?oc=5"
     },
     {
-      "headline": "T. Rowe Price: Still A Top Pick For My Retirement Portfolio Despite Headwinds (NASDAQ:TROW) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWVveFVMMDJYQUFuZmE2VDZNY3M0bDc2VHpMOFpaR1JmLUhuNXY1NHNLRUEwTHNWTDVocGw0V3Z1a1c5MU1lWUNwN0JnSzRQc091RjRiRjJneFJGZ2NWaUkxV2prUlVMaEJwcnhsUjVJcmdqeE1mOGkyYzZSb0VoZXAxc2JCLTZ3ZEZfN3BqUG93dVNWeWExU0J0RlJ3R08zT2dhZkNQNEhFT0Y5TkVnTmVseDdyZnM?oc=5"
-    },
-    {
-      "headline": "Rising Equity Markets and Diminished Outflows Have Lifted T. Rowe Price's AUM to Record Levels - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUWJSSDRGajhtMnMxY1RIQllOZ25SdGJvWXQ0YTNpaFlnbFI1ZEthV1JtLW5ER3JmLXhSbENBMVk5aHBGaWk2WWYyeVEydTBscllMTVRqcFZHMVBGMDJyanZFTzVpOEpHNW5sRGZySENRWVBZd2tOeXFhcmp2MnRhRFM1RTJKRzRRU0tIaTF2SzBhOEVOLTMtaDNKMU9fNUNfYkVlZ3FJeU05Sm5QNlRYZEZhbmFPTWc5Ri03eU8tTXh1UkliU3c3MG4tRUdRS2p5VVRrUFRpRDN5aUt1?oc=5"
+      "headline": "REG - T.Rowe Price Assoc BAWAG Group AG - Form 8.3 - Bawag Group AG - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZEJZNnJFZFJOeGctdDdOSk9nRGhxOFZ3aEFySG9VSndyYmpPRkJrN1ljYmx6UjRPWWlUQ2YxSGJ3am5RRGRNZlJjcGFmRHlVa3YtOG9Zb2FIYlRxVEFQbkR4T09FU2U4WV9uRXZ2MHpiSDY3a2V0Z2d1Yl9Hd2VuY2xrVHlPdHZ0Z3NjRGdFa21oX2ttc1ZBbHgzTlI2ZzdrenM3QzFsTG1fOWRDcG5YUUtNZTV3cEpROW5JaktCQUNUTnBfbTdQUHo3bXZxUzJBbnNB?oc=5"
     }
   ],
   "insight": "Tracking T. Rowe Price (TROW)."

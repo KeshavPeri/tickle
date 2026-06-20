@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:41:18.422Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:59.015Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    152.30999755859375,
     152.19000244140625,
     152.7100067138672,
     154.32000732421875,
@@ -24,10 +23,10 @@
     154.30999755859375,
     154.6699981689453,
     157.6699981689453,
-    154.07000732421875
+    154.07000732421875,
+    151.99000549316406
   ],
   "6m": [
-    142.52999877929688,
     143.0399932861328,
     143.88999938964844,
     148.1199951171875,
@@ -158,7 +157,8 @@
     154.30999755859375,
     154.6699981689453,
     157.6699981689453,
-    154.07000732421875
+    154.07000732421875,
+    151.99000549316406
   ],
   "1y": [
     139.05999755859375,
@@ -410,18 +410,13 @@
     154.30999755859375,
     154.6699981689453,
     157.6699981689453,
-    154.07000732421875
+    154.07000732421875,
+    151.99000549316406
   ],
-  "lastClose": 154.07000732421875,
-  "oneYearReturn": 10.793909124944753,
+  "lastClose": 151.99000549316406,
+  "oneYearReturn": 9.2981505548511,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Yum! Brands (YUM) Stock Could Be 12.8% Undervalued on Its Digital Growth Narrative - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON3BzUVhhWERlYjQxcnF1Q3l0empyRnhuWllzc21RcUkxTnAyQldCeUVoRWNQNXRDRGI2alJUMWtXX2lvZ0wtMWx2SHBHY1YtbUk1ajZQMW8tZU1YOTlnckJCYUx4eS1waXpRRnFUcTl1cjE5M05XeG42bWRCRFQySzZ0V0x6NHZtLTlCN1FydFhaWnZHSVY4MkF4ZS0tbkEtSEl1dTFnWWU0TDhLTGhoR3JZS1VhLV9HQjc3TlBFT0QyUzRLZDN5a3I2dXEwTzJj0gHWAUFVX3lxTE8yVWhZVkttYl93UFJjX2h2V0JBOHlGTnl5UlJEWWRVMEdEeWpmQ0N3MWRYNFA1UWhNaE01UUxzc282dTBYYW9fR3JKR3BXSDVUZ0F6M3V3cFRjcGJPdjBwWWNKTUNuejZhUHBPZXpZeVk1MXVURFpHT3k3RWxYNUpsc3pBRFNGM0Y1elpZUHZSQ1FUUWZBWm9tX0ZSQTdQOGFCa2gwdW5yeEtvTjc0dG1pZklYYlpXVW8yMjU0czdNWDBSTHAwNHJXLXR5OFhydlFxZWppbkE?oc=5"
-    },
     {
       "headline": "Yum! Brands Is Selling Pizza Hut for $2.7 Billion. The Stock Rises. - Barron's",
       "source": "Barron's",
@@ -433,6 +428,12 @@
       "source": "Yahoo Finance",
       "when": "2026-06-18",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcTNRa2NabW5weF9URUlDZGgza1htVXdpeEtrNHgxWElaR0lWZmVmRW1DcjJSM3R3Yk53VlhKSl9xSEMyVE5qbG00M2tKRXd3b25WX1duX1MzZGEtcUNJU3BoMU1OVU5fbkd1UDdmdF9mVXg3dS1rcDhSUzE1UHdVal93Z0RpaDZqcjUxMlowdmVPRWpJd0E?oc=5"
+    },
+    {
+      "headline": "Yum! Brands (YUM) Stock Could Be 12.8% Undervalued on Its Digital Growth Narrative - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON3BzUVhhWERlYjQxcnF1Q3l0empyRnhuWllzc21RcUkxTnAyQldCeUVoRWNQNXRDRGI2alJUMWtXX2lvZ0wtMWx2SHBHY1YtbUk1ajZQMW8tZU1YOTlnckJCYUx4eS1waXpRRnFUcTl1cjE5M05XeG42bWRCRFQySzZ0V0x6NHZtLTlCN1FydFhaWnZHSVY4MkF4ZS0tbkEtSEl1dTFnWWU0TDhLTGhoR3JZS1VhLV9HQjc3TlBFT0QyUzRLZDN5a3I2dXEwTzJj0gHWAUFVX3lxTE8yVWhZVkttYl93UFJjX2h2V0JBOHlGTnl5UlJEWWRVMEdEeWpmQ0N3MWRYNFA1UWhNaE01UUxzc282dTBYYW9fR3JKR3BXSDVUZ0F6M3V3cFRjcGJPdjBwWWNKTUNuejZhUHBPZXpZeVk1MXVURFpHT3k3RWxYNUpsc3pBRFNGM0Y1elpZUHZSQ1FUUWZBWm9tX0ZSQTdQOGFCa2gwdW5yeEtvTjc0dG1pZklYYlpXVW8yMjU0czdNWDBSTHAwNHJXLXR5OFhydlFxZWppbkE?oc=5"
     }
   ],
   "insight": "Tracking Yum! Brands (YUM)."

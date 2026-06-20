@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:40:34.366Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:12.476Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    66.20999908447266,
     65.47000122070312,
     66.79000091552734,
     65.80000305175781,
@@ -24,10 +23,10 @@
     63.13999938964844,
     62.459999084472656,
     61.52000045776367,
-    60.06999969482422
+    60.06999969482422,
+    58.40999984741211
   ],
   "6m": [
-    47.38999938964844,
     47.689998626708984,
     48.040000915527344,
     47.459999084472656,
@@ -158,7 +157,8 @@
     63.13999938964844,
     62.459999084472656,
     61.52000045776367,
-    60.06999969482422
+    60.06999969482422,
+    58.40999984741211
   ],
   "1y": [
     39,
@@ -410,29 +410,30 @@
     63.13999938964844,
     62.459999084472656,
     61.52000045776367,
-    60.06999969482422
+    60.06999969482422,
+    58.40999984741211
   ],
-  "lastClose": 60.06999969482422,
-  "oneYearReturn": 54.025640243139016,
+  "lastClose": 58.40999984741211,
+  "oneYearReturn": 49.76923037797977,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Baker Hughes (BKR) Stock Could Be 16% Undervalued After Its Recent Pullback - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOakxST0tzX1VZR2ZIXzBnaVhJckJhY05ldkdaWDFwNDhSazNjZVF1ZnBhUW1EMzlDSldtRHFPTzlNVzZXRGpRdlFvdEVPUE5hX3VkcHQzOFEwMDMwMVg5LWR6MHFkNWhZMGJMY25OU3lmWTBvd0dSYk05ZTNjektpT1IxQXBFQkJMRXhKZXRvdmQ0UF9kM1Zyd3Jqd0gxd09JMU42V05R?oc=5"
+    },
+    {
+      "headline": "Why Baker Hughes (BKR) Stock Is Nosediving - StockStory",
+      "source": "StockStory",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTFORDdNWTZxWVA3S1FDakhrOGhDR2FVM2VoclFWb05FclFGa09uaDFzUWZacjdvYTBxVnpVSEhMUW9ZVmdadmd0c0NiMjN6QTM5OVJCTGVMdDFOdHBhZ1FocXRDU1MyemZiY2dBcVFEZ0RlN0FXUHkxY2xOZmNjbTQtNVU4d3dTbHlaaG9sVmRISUlmLVZtRWhHRFplVUlSRi1V?oc=5"
+    },
     {
       "headline": "Baker Hughes Co. stock underperforms Thursday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTjFNbzBwdXN5SWJ4VnZnVVpWQnBmSm93RTJOaUliUG1oR184MnItUFFNdnlzZEh3VFJYYWxsaVdQSURoazNOQjdtcDBlYlVIYVlpR1JIQ3dEcENQcEhMMTB3VGRYeWxtUHlOUVRXVWVONmlZRzdkdFpXU015S0VhdkktczMtSXUwdEliQXp0Q2t6NjZuaVVBVWsyRXFHUm81S2MyU2xDR2dSS1NuQmZqa29KUTlmZTktcWJ6NUNzQXBuWklqQlNONkJ5eDRrWEVzMmNaSTdzdEtvb29fUU5SSndZU1FKdw?oc=5"
-    },
-    {
-      "headline": "Cactus (WHD) Stock Could Be 13.9% Undervalued as Baker Hughes Deal Shapes Fair Value - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdG9KemtFeVh0ZmMzVXNzdkNCbjVuSk1rcHpQb3JPNWxBb1o2blVtNEMyZUMzaFR4V25Nekw5dDhERFdJUVdwaHZlR01sLS1TRDkzRUs2YzZ4NksxSTFUaGYzREhTQjlXVllfaEx2cjBjV2M5a29CWU4yNk0wa0g3NkNCRkxCWF9ZZEZCZEtNZFIxUnMwLWRQRFZfUmV2NTJ2NjFtVTd0Zko0RFBWS2hCY0ZYN2lTWmhhQUZjZtIBwgFBVV95cUxObDJVUVh0Z3NITHgtMTZkT1JEOU1uT1JZWG45ZjdyU2I1WHlOczcwNm9UYjdtdEpoTVZITW8wZmhvYjJ4T1ptSTFZVHVNajJHUjhpU2VsWnc3ZExxOWdkWk9aakNyZTFBXzZ1dTlCaF9feHRWVDZfVmI0M19ZSzA2TmpJU1AwR0tTLU5IZW9BVDNpcFAzNGh4YUczZTBsbWZLZVpUc3hwQ1JSRm5qS1pTQkZIdXpybnM1MGxSV25LMDFRdw?oc=5"
-    },
-    {
-      "headline": "Baker Hughes (BKR) Stock Could Be 16% Undervalued After Its Recent Pullback - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSlBBTG56a0xZU1pPRmI4MWVlM2VWTjZ5YURDcXNSYmc3eGtRV2liMTBneG0wRzFxd1BBcUhZZFJxb2Z1VjV5aDRlRVdtRTh5T0t2NnlDOHZCYXZSdmlVWVVoTVlVRmdOY0J2ajBCaUNZVmRLWUh4VV9oT1FIMWYzSUY3VQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPci1CYnh6UGZBeEhST29ITDdzLWNORTM4REJMcENoQ0owdFZtNGVEZm1tRFBiRkw5bDB0Z1YzN1oxdWdvY3FZQTQzcXhHaHFNeTFGc2pNYkRUT0Juem1zR0otTUhobHNlRWMzTGJHTUFGeDR6WVdiR2dhN3o0dHNyNDRjUGhTTTNGUHRqa0JIYS1pTV85MlVQX2FGcnNfRF95QTl6OGwxWlVZZUw0MGVSRWhDV1gxbXh4Mk5ESzF2U2FjaDFrSEpfQV82UFc1Zw?oc=5"
     }
   ],
   "insight": "Tracking Baker Hughes (BKR)."

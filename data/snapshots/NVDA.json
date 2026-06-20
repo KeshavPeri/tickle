@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:41:06.405Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:46.634Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    222.32000732421875,
     220.61000061035156,
     223.47000122070312,
     219.50999450683594,
@@ -24,10 +23,10 @@
     205.19000244140625,
     212.4499969482422,
     207.41000366210938,
-    204.64999389648438
+    204.64999389648438,
+    210.69000244140625
   ],
   "6m": [
-    185.5500030517578,
     184.97000122070312,
     183.77999877929688,
     180.92999267578125,
@@ -158,7 +157,8 @@
     205.19000244140625,
     212.4499969482422,
     207.41000366210938,
-    204.64999389648438
+    204.64999389648438,
+    210.69000244140625
   ],
   "1y": [
     143.85000610351562,
@@ -410,29 +410,30 @@
     205.19000244140625,
     212.4499969482422,
     207.41000366210938,
-    204.64999389648438
+    204.64999389648438,
+    210.69000244140625
   ],
-  "lastClose": 204.64999389648438,
-  "oneYearReturn": 42.26623928623026,
+  "lastClose": 210.69000244140625,
+  "oneYearReturn": 46.46506326165327,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Nvidia: The AI Champion’s Stock Is Too Cheap to Ignore - Morningstar",
-      "source": "Morningstar",
+      "headline": "Nvidia’s Biggest Threat Isn’t AMD—It’s Its Own Best Customers - Barron's",
+      "source": "Barron's",
       "when": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU1V1Z21qaG1vcUhmZUt3Q0p4WUwyMW9ZR1N6X3NkaGF1bXZieFlqOFlTNnFpcHludS14ZXhLaEtVSXF0M0JncnN2cDhtSEVSc1dGSXFtLTVLN0pkWmxxdUlxSnJWdUdzOUdnamJuTWM4NkxPbFZrdVlLSUljRXUzaG1SS1hTbnRaUkNRa1pFb0NvRnM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lZjk4U0Z0cWl0U0NPU255Rng2ZlBPOXNENklQVjQzOXZiUk0xckRPbmNBdk5HTmZlUlhMN0VTd0ZCUjdnMGstai1vMDgxVWNJekFPb3d3RHplQ3dMNUtUVE1ueENjTW15TzMwbVFJeS1CUDFuaEp5OQ?oc=5"
     },
     {
-      "headline": "Dow Jones Futures Fall; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This - Investor's Business Daily",
-      "source": "Investor's Business Daily",
+      "headline": "Massive News for Nvidia Stock Investors! - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2g4TV9LVlVEUG1jRTEtTmROZDdzbnpQTmcyaXplOHVKLUZuUF9SS0hQWEFsV0M2MTV0aEVGLUVaZEthMmI1WHQ3cDY4RjBoNzBjeHBSWjJNN1pYVHVwbzVhNHVjQU9iampUOF8xV2RtbGNUaVVERGZkSzhOaS1Sbkx4Q3NxU2p0dXc?oc=5"
+    },
+    {
+      "headline": "JP Morgan says investors should buy this S&P 500 chip stock while it’s down (it’s not Nvidia) - Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
       "when": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNEhrdlloWm5pS3hyaVF6azNTZW9TbnJFU01aTmJNems5Tk1ROUl1aGxhY3BfTkZYNlZOMkJtTDRuWXNvcFJEb2FnQ1duY0VOU20zNGIxaXhmcHU1WXMzNTNiYl9IZmZRTzlfT0k5NnA5ejQ1MGJlR21melNMOFVsbVpvc1RzdmdCOWszMnluZ2ctbkY4ajFZZDVsakZTZENyanJjWmozcGhJNDJneTZxU1luT3h2Zw?oc=5"
-    },
-    {
-      "headline": "Marvell Technology (MRVL) Stock Could Be 107% Overvalued After S&P 500 And Nvidia News - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQWJOa0NuU1A1aWdMazcxZE94MHcxLU14a3AtS1QtYWRtQzNidXB3R3V1SXhZV3BhZ1JtMWU2aWwyWGRlZUNONEhOb1pUNDFlR0RhdkNCR0Z2OGtkcjR6QTZJY0RnSGNWVl9NZnlpbW9NNUVkMW9QX0NRQU5JSlZ6SS1YcVRqaU9URjRnQjZ5QzRrLWpsYy1qMXc2bkZUY21WTXhNOXFYU0xVbTVQX3JYclEwcnRPeGNZeW1tY3lzbnZkazc1cks1UmFIUUF2QlN2YlNrb0E4QXBjQdIB3wFBVV95cUxPSHd5NGF0ejZTbDF1N3ZJTVJmMmFBN0lrTzIwRUxRa3Yya3pHcTUxV0dPNkhWbnlsSnk1SjZsSDg0M2ZQRWpYSGRxZFRZMmhJZF9lMnJHUGhLS1RaUVR3emU5T1FZeXhYSmpoMHEyT3pQRi1hXy1HeW9FNFNyZ1otVXN0dTNLNjhFUFdlQU5yQ25lZ1BlTFpSdFZtUmU4SVZiTzlBNlBEMHViR3NlQWZ1VmxJQWtuZ2ZnQlFtYmR3ZHRuX1NIQjZnLUtfbkd4a2NDMHpoVDVxUlpqWnR4clRZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONlJCdzNkVFY3ZjdNYzZBM0IwNFVwOGgwOTV6X1U3b05ta2RKeEpfQXAtNnN1dVEtQTJYRktDMGFRRFNXRmM5c05pUU9McXYxWl9FWXBzUm1Zckd6SDIxb0pfQnNpWnloSUpIbDFIXzJOaUludWU0NTljVUliMTk3UU9lRQ?oc=5"
     }
   ],
   "insight": "Tracking Nvidia (NVDA)."

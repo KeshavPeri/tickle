@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:40:49.970Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:28.973Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    224.35000610351562,
     221.92999267578125,
     223.67999267578125,
     225.00999450683594,
@@ -24,10 +23,10 @@
     241.16000366210938,
     235.86000061035156,
     237.55999755859375,
-    228.3000030517578
+    228.3000030517578,
+    221.2899932861328
   ],
   "6m": [
-    286.8900146484375,
     287.55999755859375,
     288.20001220703125,
     291.54998779296875,
@@ -158,7 +157,8 @@
     241.16000366210938,
     235.86000061035156,
     237.55999755859375,
-    228.3000030517578
+    228.3000030517578,
+    221.2899932861328
   ],
   "1y": [
     422.3399963378906,
@@ -410,29 +410,30 @@
     241.16000366210938,
     235.86000061035156,
     237.55999755859375,
-    228.3000030517578
+    228.3000030517578,
+    221.2899932861328
   ],
-  "lastClose": 228.3000030517578,
-  "oneYearReturn": -45.94402494877427,
+  "lastClose": 221.2899932861328,
+  "oneYearReturn": -47.60382743644031,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is FactSet Research Systems Stock Underperforming the S&P 500? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbjM5elVCWUQ5dV9oREQ3N0hDbzk1OUFJSGxKeFMtMjVNUVdxRHFhMWpWWk5xRHhmRnpOakh6Y283R1N2blJJRHVFOWphZ1RFRzFHVnlBN0thMWdnd2hlaFhJWGtlR3FUeXdvcm9GOVJTQnFMM3ZNelhmQUpTM0UyMWsyYTVOZFZ0a2YwYWN1T1ZPTDZwRWVYeEUwZm5uRlJfT0NRdVNDS0E?oc=5"
-    },
-    {
-      "headline": "FactSet Research Systems Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR24tVW5IdzU1N3UzdDZGVGxIcWF2SlpHQ0xNMXdYU2dINkJRQjNKN0FvWkdPSWdGTUdpNDlhdk5CWXZuajVVWnFrZi1ncDhYUFJqN1h4VEI5YlVXM1Q0LWt6YkYzQ3JBZDFvZGJYRFZGLW1tN0hGbDhaQ3l1SkwzMFBQS2NfaFJ5SzdhaHA2SHJLZkNEbW9hZ0hHb3o3bXhBSk84VnVuUWdobnA3SGdYM3AtTmVjTGNSV05BandHeHhPOHEzbXZ4bUFtOXBqZGhvS01laUhvLTlzVExNelVyN1VjSGdfNkFwQmMtU0VJS25jSi00QndV?oc=5"
-    },
-    {
-      "headline": "FactSet (FDS) Stock Valuation After Steady Guidance And Recurring Revenue Strength - Yahoo Finance",
+      "headline": "Is FactSet Research Systems Stock Underperforming the S&P 500? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-14",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1ZhODhuSG5iUnF3UkJlcDdQdTBYWUkwNUNaSEQ1ZnVGWXNGb3JqeFNRcEZmZzh5ekJ0OExxcFBoR0Y3ZnRFcW5zS3lEV2I0X0tZSzBqcEpmTlhCXzJXdkc2aU1ESzNJZ1YwU3BVRHMta3ZreWFidDhJX19QbWk1ZUx6TG1RZE1MbmJRZHhHNFprYXZtVnFBUzlYUlo1Qld6?oc=5"
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGFFcGRvNVFmS0ZDQnpnMjQ5WTZ6Z3hlOGQtb3d0NUVHV0FJYmRoZDhXUW5YZDB4bEllQlFpNDBROGEyc0ExcnlyM3MtVjIxZEJydUo5bF9xekVHNUNYTEM0djZlbnRteXJqRXpzaEg0VVpXeUcyY0lPZkdfWklQY2JzN0lnR1p5WVhqaEZPOFl4WjJYblN4WlNsSlhSbC1xMXlTWXg2NlNSUzhVTmJVaw?oc=5"
+    },
+    {
+      "headline": "Rothschild Redburn downgrades FactSet stock rating on terminal risks - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWVHQk5CUjhWLWpYNE12UmR5U1k1ejRVRGlsZEg3VFJCUFpHY0V0NHNoQlo4LWJOdjFBQVZfVDJ1X0F5QmNXNXMycEIxLXVqUFB2RkR1Qjdwc3BlQWhGQldKcW8wdEFvaWQteHd1RjVJLXhCVDRGQXNWdFpoeW9obXA0em1tczdPdlAwUjhYaF83R3NOSGtKaTQwQ2lwRkpTbl83dEZLaXBJRnhGaV85Z2pkd05oVHkyR25vQUdHaG1Za0VwM0c0?oc=5"
+    },
+    {
+      "headline": "FactSet Research Systems Inc. Stock 12‑Month Price Target Cut to $264.41, Implies 16% Upside - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb21tMkZBaXQyS2RFTkJyTGRzVU10bXdoUTQyalVJU3UxNTh3bXNGMWlVbWZFWkloQ0g5OFo5dUsxN05FNUU1bzNrM3JWTF9KMkM0dnJwYWh1U2VKZ0padWZZYlFybXRaTFpqQ0VGbWdnSnd0UDlxSEptWXpRaDVlOFJkZDhqU2JEVWpvYTdraXBWREM4NHBsTDhPRDVpVTlackNYTThQOHdJZ29ieDhsb1hkOVM4UEUzUUtENDJUejNxNDdOUllLY29lMzA5dEozTmIxVXFITjdyRThOTnR5Y2tIMUk?oc=5"
     }
   ],
   "insight": "Tracking FactSet (FDS)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:41:14.853Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:55.453Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    66.68000030517578,
     66.16000366210938,
     66.5199966430664,
     66.47000122070312,
@@ -24,10 +23,10 @@
     57.43000030517578,
     57.29999923706055,
     57.2400016784668,
-    56.20000076293945
+    56.20000076293945,
+    55.459999084472656
   ],
   "6m": [
-    56.220001220703125,
     55.90999984741211,
     57.66999816894531,
     59.560001373291016,
@@ -158,7 +157,8 @@
     57.43000030517578,
     57.29999923706055,
     57.2400016784668,
-    56.20000076293945
+    56.20000076293945,
+    55.459999084472656
   ],
   "1y": [
     54.40999984741211,
@@ -410,18 +410,13 @@
     57.43000030517578,
     57.29999923706055,
     57.2400016784668,
-    56.20000076293945
+    56.20000076293945,
+    55.459999084472656
   ],
-  "lastClose": 56.20000076293945,
-  "oneYearReturn": 3.289838118998784,
+  "lastClose": 55.459999084472656,
+  "oneYearReturn": 1.9297909207961297,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Tyson Foods Inc. Cl A stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYVVnampIdTFpcG1ZNFBzbWM4MURnaEstaG5hUVdSal9ZXzEwX3JMTGM1Y1Q3RlFfSnhXME14OGk4UjMwR21lUjVuN1JfNWlFcGlPdFNZR3Z6UThoV0dONDZ0VHVlSDZ2bmEyWU05OU81YnRUVXNvdVhCTnRMVkczVUYtWFNFMFZNRktnelZrWG02cVJ3Q1Rkbzc1RGU5ZEJxUlBJNFduRW9hQ2lSbS1wOHhYZE5paklmeGozSmNJTTUzd2FBNGNCVEk2SmlLVk54Z2RDRmpHLTZWcHVUc3luSkpRaWwySHZ1bmZHcA?oc=5"
-    },
     {
       "headline": "Is Tyson Foods Stock Underperforming the S&P 500? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcV9jMmVpSUNUb3hjVl9zUzljdmFrdjV6dTFaX25Fczl1MWxWQWROOW1RVGpTeFdodUNXYzhDaVdQMms2VXBKYkVIUlZsU3djY21VcUdQM0l5ZE02TzhEcDF0dTkxZlVFR3dRMDYzLXp2Q2JfTlROR2JUdF92VXBCTlYwVVpsb3Q1MzBsVlZyUUVPZW45MVo1MzZWc3pUQ0V3cmc?oc=5"
     },
     {
-      "headline": "Tyson Foods (TSN) COO Wes Morris details stock, RSU and option holdings - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ2l6aVU3VHRERmZNcjQxR0NEWVV0bGVkdmpkOWJEeDNSZUdnN3ppYWZheGh5WGwzdGlJVWZlNGZvRjRqRzU0ZmNWV1UzR2ZkYU5BeEE0NFN0Wkx3aUl3cnQyWW5tdUVtS1lzME1DUGNsRjNXNGdyYkZGOW02Q1h0bW5jT2NmSnd3T0FYelduOFYtd1VJc0VCNldnN3FiSXkxcXJxS0V3X3ZnTThTUkE2Qmo4emluX1E3aHhKcGdDYWdRQ1U?oc=5"
+      "headline": "Tyson Foods (TSN) Stock Valuation Check After Recent Pullback And 1 Year 8% Return - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVERpUXlRRXNXWFp4cWk4MnV5bEFFR1M1ZXA4X3huTzFMbXdrUllCd2R3MnRKSFVKNjd0YkwtdEtGMUVHM1VJY3ZGRHJsN0d6TGZVRlBtT2N6amR0UEV1VmhlaC1LdXpCMGR0R3dIUUVMazF4eGZwSE5VZ2Mtb285THJrTjJ1TFNOMC1USlFTV3JwS0I2SGtFZDJyT1ppMURyaVFscE0xOFZacElVVWtjWGZ6NUgyVXFGeHN0M3BvQTBjOUl1VDhfVkZUY0xJZDY3QXZLTWxn?oc=5"
+    },
+    {
+      "headline": "Tyson Foods Inc. Cl A stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd2lBbWZlMVl5MENJMUFGVENlV3NESjRUdlFfLS11ckdCZ2NzWVlmYTZqZHJGWTFCNWFEVzNtUzRmWGtUb1drN2MwRjJkWEF4VXZuUm1vYzVMWUg2a081WUIwS1lOZEF6M0ZweVJ2RVRGWnE3LVpzc1RYN0xzWjJEUVpLMjcxLXF3U3ZSLWdzSVE4MmpJaG8zSVltel9JX19CSVRCUDIycG5MaGVkVkFDS2ttS3plZ203U3NzaDVwbUJ6cDJ3WlNCT0RKN2JIc09PaEE?oc=5"
     }
   ],
   "insight": "Tracking Tyson Foods (TSN)."

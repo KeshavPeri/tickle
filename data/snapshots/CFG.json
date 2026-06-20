@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-19T06:40:37.300Z",
-  "builtDateUTC": "2026-06-19",
+  "builtAt": "2026-06-20T05:54:15.621Z",
+  "builtDateUTC": "2026-06-20",
   "source": "yahoo-finance",
   "1m": [
-    61.15999984741211,
     61.33000183105469,
     62.83000183105469,
     62.779998779296875,
@@ -24,10 +23,10 @@
     67.6500015258789,
     66.6500015258789,
     67.2699966430664,
-    66.77999877929688
+    66.77999877929688,
+    67.08000183105469
   ],
   "6m": [
-    55.7599983215332,
     55.939998626708984,
     58.459999084472656,
     58.349998474121094,
@@ -158,7 +157,8 @@
     67.6500015258789,
     66.6500015258789,
     67.2699966430664,
-    66.77999877929688
+    66.77999877929688,
+    67.08000183105469
   ],
   "1y": [
     41.709999084472656,
@@ -410,12 +410,19 @@
     67.6500015258789,
     66.6500015258789,
     67.2699966430664,
-    66.77999877929688
+    66.77999877929688,
+    67.08000183105469
   ],
-  "lastClose": 66.77999877929688,
-  "oneYearReturn": 60.10549087774256,
+  "lastClose": 67.08000183105469,
+  "oneYearReturn": 60.8247501880826,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Citizens Financial Group (CFG) Stock Could Be 8% Undervalued After Strong Quarterly Growth - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXR1cmdaamlOQmVrRkk4RmNxVU9CQnhGX1pocTVmTUxMNkxDSlFrcmVmRkRQRXZfUDczYkZWSG90ZVhFR0FBVnpENEJLelg4NUw2Z1Bldi0wZnZnTlM5T29GVm9NZE9nd2hDXy1YRlJhOWZ0azFRMUdnaXRvdGtyVEhfd053dUNVdWhGZHVZYXdzckhjTmEzaDBidWtOUW9HQlNVWjhpQXVBbDh0NDhjU09tUlFHZkZTYlViRXF2bjNITTVCQ1BQU0VYcGVFc0ltRGdz0gHYAUFVX3lxTE5Hd0MwZU1SaDA3cFVmRUJSemR0UkJfWUNMRE9fVkotdm12RG5zdlhhWGhGWDBvNnpuanc3TFdPMGRRckh4dndjck5qTGs0ektEUjdpa2RlZVRnUnZjdWpXUDliNHRwbThUZEZzdFQ2c2FkaUVyN3ZWNFVmdUV2UFJoYi1peWloZXh3NWFvRjNuc1ZUZ1BoVHZVMWg5MzBHYmNBSi1sZ05YRkxzU0JDaG1nbi1HV203OGRBeGdoMVBxbGwyZXRRY1hCWU9YWTd1T0tuVXp0dTFXRg?oc=5"
+    },
     {
       "headline": "Citizens Financial Group (CFG) is a Great Momentum Stock: Should You Buy? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDE1TWx5a2NyV2lEZVhpM2ZTb0xZd1B3VmV1bjJaOXdjY2d5RjV1T2NTZ0pyMEV5RXlCQ21DMlgxMTRlc2REcFV2cXFGaFJXaTEwQnNSbF9ZVEdGaHVoSWl3ZjY3T1BRdW9MRXBIeW4yR1UzYng5TkJDaHF3cUVaNXltNUhBeXBKbVJDRTRXS3cybDFtTXVLZ2Jqamx3WjdG?oc=5"
     },
     {
-      "headline": "Is Citizens Financial Stock Outperforming the Dow? - Barchart",
-      "source": "Barchart",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSW02Y0drN09LZzNWaUQzSnBzVEZxamxYWkswSkFnYnFwbzAtVElyRzdld3VUZzE3bzVsS3BSeFR2ZGphVnc5UTRCal9seUk4TnUwQmdnV1pOX3lUVFZzNGpXdFBud1Y2T2JZd2F2MURVNjM0YVFNZ01KR0xGTl9fMWI0aF9US1BtT2ZiWi1nYlBSX3N2ZGtrVg?oc=5"
-    },
-    {
-      "headline": "Citizens Financial Group (CFG) Appoints Chris Emerson To Lead Investor Relations - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSDh2U3hFNG9JX3BVUGg4RHZrV1NHWGRTZVJLQmtuSk92QlZzMWo3Smc1QU11SVFLZVRMWlNYYXRBOS1VQUFCeGh5Vkl2dkFjblRTa3YwRndVMURBcVNReS1RNVEtUlZIQk9Ea1ppSlQ0ZjVpREZJOFU1QjFWR2tZZUNnT2ctVlY0ZGVXcEtWX1FMOU9oSklmdmtvdEtvNjB3UUFPV1RZcmU2X2ZGU1ZtX2NaZUE1TFZ3RlQ5RmN3RGJvc3hSbFhKZTdGM0FYUXZESUHSAdcBQVVfeXFMTlBUdF9PZTEzdmpFcXNzb004RXd6RldOR2ZxbkFRSEhmUnljcURSOHBHTXVpNlVzbXVfN2pKUWcxRDI5aHZiUnkydG8zMVVBWFZmcExwU01xVzN5N3o1OVlVaDd2Ym90LTROclp1UVhJaWFuUE0zb1RuWHFpdHJGcm5oS3JONVR1RGR5eERiTUpsTmJmcVRRVFVMWV9PV091elpoWjNPYkoySzRuOVRKclV1bUhqbEZadUZUMnhUREpVVUFVeEFBM3JqR1B5ME93ZGo4eVpxakU?oc=5"
+      "headline": "CFG News | CITIZENS FINANCIAL GROUP (NYSE:CFG) - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1USkdDZ3EwSzVIeGRmNEN6M1hpUHlYMVJRRUZRUGEzYUlsbWFyUkFTZXlPNVZBUW5wdm1TSWc5OFNhNzJJTkJHd2ctT3lnVlpUWDc2MHJ4MmlwQQ?oc=5"
     }
   ],
   "insight": "Tracking Citizens Financial Group (CFG)."
