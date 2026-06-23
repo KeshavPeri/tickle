@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-22T06:58:29.155Z",
-  "builtDateUTC": "2026-06-22",
+  "builtAt": "2026-06-23T05:42:30.484Z",
+  "builtDateUTC": "2026-06-23",
   "source": "yahoo-finance",
   "1m": [
-    266.1700134277344,
     264.75,
     265.44000244140625,
     274.9100036621094,
@@ -24,10 +23,10 @@
     281.42999267578125,
     281.4599914550781,
     277.0899963378906,
-    271.8299865722656
+    271.8299865722656,
+    271.2799987792969
   ],
   "6m": [
-    337.2900085449219,
     340.7900085449219,
     344.5,
     346,
@@ -158,10 +157,10 @@
     281.42999267578125,
     281.4599914550781,
     277.0899963378906,
-    271.8299865722656
+    271.8299865722656,
+    271.2799987792969
   ],
   "1y": [
-    293.6600036621094,
     293.1300048828125,
     294.1199951171875,
     292.32000732421875,
@@ -411,12 +410,19 @@
     281.42999267578125,
     281.4599914550781,
     277.0899963378906,
-    271.8299865722656
+    271.8299865722656,
+    271.2799987792969
   ],
-  "lastClose": 271.8299865722656,
-  "oneYearReturn": -7.433772668259506,
+  "lastClose": 271.2799987792969,
+  "oneYearReturn": -7.454032592893661,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Cencora (COR) director adds 4,000 shares in open-market stock purchase - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb1pwaVVDUVJoSldvUnlIYWMxWXUxWTZwQkRldHA1Qkpqd01MWWtULWlIbmxjTFJrTzFCbVZTdzhjd1YzOE1jWDg0b1BGWjNqcGg0SzRXZlR0NWNocmVkUThuVThkQVAwMUE0cjBka2hTWGJqUWlCVHIyYTJVM3JPeWw2NDdjUlBvQ3ItUHQ0bzNYRmVId3BQNlJvc29DTFUxeTRRb2hvcw?oc=5"
+    },
     {
       "headline": "Cencora (COR) Misses Q2 Earnings and Revenue Estimates - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYVppeHphSXQ4OWFObkhWNEdKOHFQUmRPRzhMZm0ySWFYQmYxYUhzSlNHdGZxdWtGcF9sS0xnUnYzNnZXejZOSVJ6QWpnMk4yRkN6LU5ZZUFnVXFlV3o1WjJDbkZ6QkJ5c2ZYeENKY0EtbUNYTUlqNTVPMFpYMm04b0h0ZmI1c2VKVExYU3NfU2s4MEktM0lxV1RFZw?oc=5"
     },
     {
-      "headline": "Cencora Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYTBPbEJ1bG1PTThXSXZJS3A1Q0JkaVJhdHJYZHFlbHV4T3c3Zi1iYm1uYUlrUnJHYlFQVmZQZ1prOVJhSDh6XzFVbHRCUUVuNkZ4cEhCOFp0cGR5b201MmxJX0Q1Y1otanNHSzRybHBScENfb1VrSk5OcGhRTXZFRE1BSjk3dUdSZGhvUW5wYkw2aFVxRlR6Q1hQaTZsT0stUmNRcmdqUTlyOEt2QnBhbnlTWTZqZTBKZ1BxUlNONnZKdER3UTVCck5WMW5oY2p0bVJSYktDX1lUQlhibEZrVA?oc=5"
-    },
-    {
-      "headline": "Cencora (COR) Stock Could Be 20% Below Fair Value On Margin Growth Narrative - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDl2OVN5UFdWUld0SzZJaEVpWmFBeHN3YkMyUzFJZVN4YlpERFJYaS1UN1pUVHBHaFFhNnpXU0FGMWxaZXlidzNnMnRyRDVzWm5LUC1VSXF4ZzBxWFVqWFZESzFvTGhWWHpkX2VCYmI5YS1FSVRPMjRoQWtndENpXzlRRWtMQk9VUndFRnVKVlRXTmIzQ05zbGhzZkdDTWtxeHloUndmLUdWTTI0M0VPakdCN1h0LWRxYkNfcnBqS29GRjjSAcgBQVVfeXFMTjRXUlNLSHlRN085bUFkVzVHVzlNNWIyTDBlX21KZU1Hb1pHRVZ4TlBPYUwxdG9jaHptYXNoNllacm9NeXlUc090OTdBUklyZTF0bW5rU01zY1JGdnczcHJBTmg5SS1JYXphYWdPTVduZDN3SE55NEhlc05PZFo2YktFVHdtV3BRNUU5d043Z2F3ajNQbWtHRXJtSHZLMVlwWkQ4RU83R2xPbzVlVGVkVXAzT3daQTRIdlRDTF9Ham53cW84OTVQTjE?oc=5"
+      "headline": "Jared Moskowitz from Florida’s 23rd District Trades in Cencora and Gilead Sciences Stocks - Investing.com Canada",
+      "source": "Investing.com Canada",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTENQMDFqMkFtX3Y3N29ZcjhiUDUwdXZTOTQzcTNXcFczWnRJYkhfMjhBekMtdFJxQVI2V1pkY19CTERITTg2eEo5VjUyeVlRVWRvUEtUb0h3NG8wME5WLU1vWF9aTXdJdFM2ZXpCaXZVZjZIMEQ4OGhQV244cnlIX1VfaVg2dkkzU1dyOUI1RTNpY1RrdlpiZUk3SC1sMWE1ZW5NMTl3a1hCOTJaSkJ2Q1pLZ1EtYkxYMldGWnlpVG9sQmtxaERjNGFjY2FtTFRsN0tVYVRORDlBWWp0S0hmbk8xTQ?oc=5"
     }
   ],
   "insight": "Tracking Cencora (COR)."

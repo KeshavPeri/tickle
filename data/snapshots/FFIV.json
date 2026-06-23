@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-22T06:58:38.975Z",
-  "builtDateUTC": "2026-06-22",
+  "builtAt": "2026-06-23T05:42:41.887Z",
+  "builtDateUTC": "2026-06-23",
   "source": "yahoo-finance",
   "1m": [
-    383.5,
     382.4200134277344,
     383.70001220703125,
     393.6300048828125,
@@ -24,10 +23,10 @@
     396.80999755859375,
     388.8500061035156,
     384.8800048828125,
-    385.489990234375
+    385.489990234375,
+    391.2699890136719
   ],
   "6m": [
-    257.9800109863281,
     258.0799865722656,
     264.45001220703125,
     262.6700134277344,
@@ -158,10 +157,10 @@
     396.80999755859375,
     388.8500061035156,
     384.8800048828125,
-    385.489990234375
+    385.489990234375,
+    391.2699890136719
   ],
   "1y": [
-    287.1300048828125,
     295.0899963378906,
     295.8999938964844,
     294.4100036621094,
@@ -411,12 +410,19 @@
     396.80999755859375,
     388.8500061035156,
     384.8800048828125,
-    385.489990234375
+    385.489990234375,
+    391.2699890136719
   ],
-  "lastClose": 385.489990234375,
-  "oneYearReturn": 34.25625454633575,
+  "lastClose": 391.2699890136719,
+  "oneYearReturn": 32.593443989762044,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "F5 targets shadow AI with a platform for enterprise AI risk - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGd1Q1Q1NkcwMmdzOGtUMGRPRWJMZGRCTGFWbVk2czlMOXNNWDJ1RG1YLW4xQk9fQzZESXJWZ1E4RDlXbWFsNk9URVdvM3NibVRPZ0FOSkRIX1RyN2VVMWFoNnVwX0Yxc1pWcmNnLWhtd2EzVWtJNnBzMUhmVmVSS0FpcjZKRlFQd3NMbGNkLW04MjU2YkNQNmNiUVNRUzF5bXFmN21pT2xkekdhTDg0QXM1U1hMVUVJQndUYUZmMA?oc=5"
+    },
     {
       "headline": "F5 Inc. stock outperforms competitors despite losses on the day - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVHhpRGplWW9hNnU5OFA4ZXFSQk5wN1hpZGpPbWtPTk9QWGxqWFVwd0ZzaHYyVk12blUya3Jpak1EbGpyMUpCeDJTMkN1RmR6eW1tZ09YYVp5blZPeHJhVXlyT3MyS0tQSm05bjZZbHNSMGdJcGR5cWN0Um5yQ0h3QlUwVDMwNmpaRElVN2ZUUjhmb2hCRTRjcThpS0ZjZkZkem45YV94aDlXdF92LWdmVDBobFotX1BoMjE2U1FNUQ?oc=5"
     },
     {
-      "headline": "F5, Inc. $FFIV Shares Sold by Pacer Advisors Inc. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-21",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeW9TSHdBMDExYllJZmk5MVB5a2pDTWJ5UkZfN0hZZTJUUE1SQ05VNmlNcEc0ZzlKNDhjZnpiZ2VrS1VucFI2RTl6cWxlU0N1VVFqVzNZR0lJZWtWRmxLc3k3aUtYUHZtTmNaSXc5dl9QTE55VHhmM2k0Nk8yNzduR2s2NWRHUnhtQmh1MXNtNGZ1Tkl0ZkpwbDdqYUl2UEJ1M1YyVjY0NGxYUQ?oc=5"
-    },
-    {
-      "headline": "Is F5, Inc. (FFIV) A Good Stock To Buy Now? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-04-30",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRWNvdlF0eDhRR2xoNFU4R2NGZHIxUXAtQ0JGYkdxdUw4ZEFnb19tR0ZwREZsTzJWdFBSQTFWYThlOWppck1ack9FZ0R0Z3NqTG96UUFXUjZiVXNBU0tuOUFnLUtVa3lhSWVRa3BocmNia2YxazlwVnY4Z0RWVi10bmw3YnEyZV9wNXFacVFwZlI?oc=5"
+      "headline": "Beat the Market the Zacks Way: F5, Atlanticus, Starbucks in Focus - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkNfZUdHYmxfRVZKTjAwUkVNdk9HVTJ4VGt3V0RReGdlU1g0SXVpWGZYQ205YTlTbUlTQ3lxWk5MUjdFTGR0bWgtdjlpc0hFY1NrS096U0VuNlJiOExTN01LUmJIdFhicnRjNVpUNTQ5aDlfcHBnNmx5am1kT3VuNHhoR29iMlNDdHR3WnVZUG5DY0psc0hLV0NmakVzMzlucXBjYkhFWHhTUHFIY2E1eTNJX1RhdU1EWVE?oc=5"
     }
   ],
   "insight": "Tracking F5, Inc. (FFIV)."

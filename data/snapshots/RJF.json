@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-22T06:58:57.277Z",
-  "builtDateUTC": "2026-06-22",
+  "builtAt": "2026-06-23T05:43:03.302Z",
+  "builtDateUTC": "2026-06-23",
   "source": "yahoo-finance",
   "1m": [
-    151.02000427246094,
     152.07000732421875,
     150.4199981689453,
     151.4600067138672,
@@ -24,10 +23,10 @@
     154.7100067138672,
     158.30999755859375,
     158.77000427246094,
-    155.86000061035156
+    155.86000061035156,
+    156.64999389648438
   ],
   "6m": [
-    164.92999267578125,
     166.94000244140625,
     163.91000366210938,
     163.85000610351562,
@@ -158,10 +157,10 @@
     154.7100067138672,
     158.30999755859375,
     158.77000427246094,
-    155.86000061035156
+    155.86000061035156,
+    156.64999389648438
   ],
   "1y": [
-    148.9499969482422,
     150.9600067138672,
     150.8800048828125,
     151.72999572753906,
@@ -411,12 +410,19 @@
     154.7100067138672,
     158.30999755859375,
     158.77000427246094,
-    155.86000061035156
+    155.86000061035156,
+    156.64999389648438
   ],
-  "lastClose": 155.86000061035156,
-  "oneYearReturn": 4.639143204890763,
+  "lastClose": 156.64999389648438,
+  "oneYearReturn": 3.769201728642017,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Raymond James Financial (RJF) Stock Could Be 8.3% Undervalued After Chief Architect Appointment - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcUg5R1M5SVlDcDBfM3RyaVlWWXlRODROaUR4OXF0MXhjVFRuRlIxS1l4WV9TNTk1YVNMLWFVQ01uN3JUXzVXcE55MjFJcGtnUlp4OExuQmVLZGRxRnhoa1FCWWJWem1icmpVdW1LbDJ3dExTNEhNS3hSTF9sUGJVTGw4c0VucjRUc3NRWWZsSTlIMGxUMkZXVkt4OVY0RVRpSjFrZ0hVSXBKaDl2TDBkWlJRZGhYS2ZTbjBYM3N0OUxtc25WRHRyNFYyWVJkbTdjNUVBbUsxamVDWHU2NVJmNDM2dVFvV2hv0gHuAUFVX3lxTFBwN05yZHpfTURfRFBVZUswVFJiVkVXcFJYVkVmZXFtYl9abXFRYUZWdnAtWjBVVHNTcTNsZVpVN2hodVNGMHpQMjA2bUVPbkhjRlp6dFNCSnJubThpUXpzY0NsR19UQzZqSVJCbllFMUxGS1hEdHhVMnBORWxoVHhTcXR1MW0yaXBnMzF0TVItVEhNSjdIM1FhMEhDcFBMdVVIZ2NSNWZzQnk4bTBBMlpNd2t0R3EyNnlEV05NS285TkcxbnlEQWxIU25GWW1faHpBUVM4MlFyWjhuNVlGcXJyMVU0QjVFNDRCZmx6OUE?oc=5"
+    },
     {
       "headline": "Raymond James Financial Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa1JBVHctdXVRTG9tV0xPcXk0M0RsLWVUSzVzUWxBRjNBZzRFXzlxQnBQdjJRV3U4S1VxSnhaSUl2Z0UzQTE5TWxnNm5mZXZJNDlIQ0l5Zjk0dVN5Rkc3MTFkcjlHU0paalR4SmFxa0FkZFJxV0d0S0RWX0E2WElFZFZIWlNnN3JKc2VfcnlkY2Z3ajh3RUpCTDJuRzZrQTBrTVR0VkJHZE5ha2JheHNuR3RibHJlSW9oOG1UTVlURmpRMzh1dzhaUk5iOVJKaGVSc0ZBNlgtXzE5S2RlSlE?oc=5"
     },
     {
-      "headline": "How Raymond James’ New AI Architecture Leadership At Raymond James Financial (RJF) Has Changed Its Investment Story - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaXdwVnFxaVdseU5UME9KY2pWbXlVaDdzMmhnZmM5bXo1TU42MEFrM3QxcnpBWTYwdzY5UTBEZFJCbWV1UjhsRi00YnQ0ak1maUNMSEpxU0dzeVNxNjZaMnQwbGRmTVRwbm81b0JXS2lTNkVzQzZad3VZTnpFZWNZODNqa3FOWkRJaXhzQXFyR2lzdVF1QTZKeHRMMFE3cHFLYUpkUUtSdEw3VW0zYThhZlJYZzBFUXJsZ3dYWXpJRWt6V1ZqZXhpMGV6R25ZdktoX3RaYVA1dDRuTm5uTzBFN0tRV3NzQWfSAewBQVVfeXFMTjEtOGpIRGl5cUR4a2hKT1NOTjVqMmEzbGVFT3NPWVVmQVpKNWdCeGtWZXNON3M5WEJNalpWR1ZfRW1DVzJHVVFVaS1pTHh3NWxxX2JMZHE1ZEFQZ1Nfa1ExS3NmVXBudGJMc2RWMFFkNmtCeW5FNGNXN2FXNjJCRjdrcHJPbksxSkRrYkZvOGNWdzNvM2lfanJYWnJrd3RZWkZ1STJ1d2wyMndYUEZZbFVmOGhZSTFrdEltRnkxaWhXZ00xdGwxVFlCZmtWUXJDdWtQX1ZSWEJIOXoyVVM2N1VpNDFSNmM5NnllYmw?oc=5"
-    },
-    {
-      "headline": "Raymond James Financial Inc (RJF_pb) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WWlVOLWFadFZBZVQ2Y0dTLXNBV3pWcHA2WWhwT1VFNnFEZkI0ZGE1eThfRV9JcVdJVTB6dVFzc2xxRXZuX28xMk1KaDl4SE5BQ2hMN1FWdVh1TTQ4X0lLTVFwVnRVeUg3OVpaRUNlR29TUQ?oc=5"
+      "headline": "Raymond James Financial (RJF) Reports Record Client Assets of $1.87 Trillion - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-31",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0pwSFJBNDNuZDFzaGhwdlM2QTJ6NjRzNEoyd2RtckZFOG8tVnB1bGhYOTFGOVNDd3RKVU5La2lCZG5uR3VkalNVejk3WVhCWFR2NW4ycHJrT0drMmx2bE4wdS0xTTBCdnBvS0dZLUxpUTZ1dmxndE9BSDJ4MlpFYWZRaDYxQThPa1dXV1ppb0g1UldvMVlRYUlCVHpBRXZlUmc?oc=5"
     }
   ],
   "insight": "Tracking Raymond James Financial (RJF)."

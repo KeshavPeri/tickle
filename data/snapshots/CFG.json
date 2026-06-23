@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-22T06:58:26.664Z",
-  "builtDateUTC": "2026-06-22",
+  "builtAt": "2026-06-23T05:42:27.540Z",
+  "builtDateUTC": "2026-06-23",
   "source": "yahoo-finance",
   "1m": [
-    61.33000183105469,
     62.83000183105469,
     62.779998779296875,
     62.88999938964844,
@@ -24,10 +23,10 @@
     66.6500015258789,
     67.2699966430664,
     66.77999877929688,
-    67.08000183105469
+    67.08000183105469,
+    67.98999786376953
   ],
   "6m": [
-    55.939998626708984,
     58.459999084472656,
     58.349998474121094,
     58.38999938964844,
@@ -158,10 +157,10 @@
     66.6500015258789,
     67.2699966430664,
     66.77999877929688,
-    67.08000183105469
+    67.08000183105469,
+    67.98999786376953
   ],
   "1y": [
-    41.709999084472656,
     42.5,
     42.91999816894531,
     43.119998931884766,
@@ -411,18 +410,13 @@
     66.6500015258789,
     67.2699966430664,
     66.77999877929688,
-    67.08000183105469
+    67.08000183105469,
+    67.98999786376953
   ],
-  "lastClose": 67.08000183105469,
-  "oneYearReturn": 60.8247501880826,
+  "lastClose": 67.98999786376953,
+  "oneYearReturn": 59.97646556181066,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Citizens Financial Group (CFG) is a Great Momentum Stock: Should You Buy? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDE1TWx5a2NyV2lEZVhpM2ZTb0xZd1B3VmV1bjJaOXdjY2d5RjV1T2NTZ0pyMEV5RXlCQ21DMlgxMTRlc2REcFV2cXFGaFJXaTEwQnNSbF9ZVEdGaHVoSWl3ZjY3T1BRdW9MRXBIeW4yR1UzYng5TkJDaHF3cUVaNXltNUhBeXBKbVJDRTRXS3cybDFtTXVLZ2Jqamx3WjdG?oc=5"
-    },
     {
       "headline": "Citizens Financial Group (CFG) Stock Could Be 8% Undervalued After Strong Quarterly Growth - simplywall.st",
       "source": "simplywall.st",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXR1cmdaamlOQmVrRkk4RmNxVU9CQnhGX1pocTVmTUxMNkxDSlFrcmVmRkRQRXZfUDczYkZWSG90ZVhFR0FBVnpENEJLelg4NUw2Z1Bldi0wZnZnTlM5T29GVm9NZE9nd2hDXy1YRlJhOWZ0azFRMUdnaXRvdGtyVEhfd053dUNVdWhGZHVZYXdzckhjTmEzaDBidWtOUW9HQlNVWjhpQXVBbDh0NDhjU09tUlFHZkZTYlViRXF2bjNITTVCQ1BQU0VYcGVFc0ltRGdz0gHYAUFVX3lxTE5Hd0MwZU1SaDA3cFVmRUJSemR0UkJfWUNMRE9fVkotdm12RG5zdlhhWGhGWDBvNnpuanc3TFdPMGRRckh4dndjck5qTGs0ektEUjdpa2RlZVRnUnZjdWpXUDliNHRwbThUZEZzdFQ2c2FkaUVyN3ZWNFVmdUV2UFJoYi1peWloZXh3NWFvRjNuc1ZUZ1BoVHZVMWg5MzBHYmNBSi1sZ05YRkxzU0JDaG1nbi1HV203OGRBeGdoMVBxbGwyZXRRY1hCWU9YWTd1T0tuVXp0dTFXRg?oc=5"
     },
     {
-      "headline": "Citizens Financial Group (CFG) Stock Could Be 8% Undervalued After Strong Quarterly Growth - Sahm",
-      "source": "Sahm",
+      "headline": "Citizens Financial Group (CFG) is a Great Momentum Stock: Should You Buy? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDE1TWx5a2NyV2lEZVhpM2ZTb0xZd1B3VmV1bjJaOXdjY2d5RjV1T2NTZ0pyMEV5RXlCQ21DMlgxMTRlc2REcFV2cXFGaFJXaTEwQnNSbF9ZVEdGaHVoSWl3ZjY3T1BRdW9MRXBIeW4yR1UzYng5TkJDaHF3cUVaNXltNUhBeXBKbVJDRTRXS3cybDFtTXVLZ2Jqamx3WjdG?oc=5"
+    },
+    {
+      "headline": "CFG News | CITIZENS FINANCIAL GROUP (NYSE:CFG) - ChartMill",
+      "source": "ChartMill",
       "when": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFp3VmJhV2d2Z2lDbl9LdG5Kc1E5SWRub0pKVTNzc3Q0RlJqY2plSGhrTjJheU1zMTNJVFZnR2J4VWJNX0MwcXJpQ2V6RW5yV1ZVR0FNejlraWJlamNSTWloTEc5WjhZMUtaM2RDWnM2UnA3a0U0SHAyd242a0J2Nmc0cFNTOE1FZTJXRTVvMEZ2MEVhUUF6NHlWX3RZd1d0a3FjZTg3TUFEeVY5YmVLSTRXOVNXVTRvZUZYNkNTaFlZcVpkM0VnR25pYm4tMlQ1VURGbnJ3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1USkdDZ3EwSzVIeGRmNEN6M1hpUHlYMVJRRUZRUGEzYUlsbWFyUkFTZXlPNVZBUW5wdm1TSWc5OFNhNzJJTkJHd2ctT3lnVlpUWDc2MHJ4MmlwQQ?oc=5"
     }
   ],
   "insight": "Tracking Citizens Financial Group (CFG)."

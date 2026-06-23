@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-22T06:58:33.807Z",
-  "builtDateUTC": "2026-06-22",
+  "builtAt": "2026-06-23T05:42:36.084Z",
+  "builtDateUTC": "2026-06-23",
   "source": "yahoo-finance",
   "1m": [
-    193.72999572753906,
     197.27000427246094,
     197.07000732421875,
     203.50999450683594,
@@ -24,10 +23,10 @@
     208.75999450683594,
     209.0500030517578,
     211.3300018310547,
-    213.4499969482422
+    213.4499969482422,
+    212
   ],
   "6m": [
-    177.14999389648438,
     179.1199951171875,
     183.3000030517578,
     182.27999877929688,
@@ -158,10 +157,10 @@
     208.75999450683594,
     209.0500030517578,
     211.3300018310547,
-    213.4499969482422
+    213.4499969482422,
+    212
   ],
   "1y": [
-    225.77999877929688,
     221.33999633789062,
     220.8300018310547,
     217.4600067138672,
@@ -411,18 +410,13 @@
     208.75999450683594,
     209.0500030517578,
     211.3300018310547,
-    213.4499969482422
+    213.4499969482422,
+    212
   ],
-  "lastClose": 213.4499969482422,
-  "oneYearReturn": -5.461069137088373,
+  "lastClose": 212,
+  "oneYearReturn": -4.219750832394739,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Darden Restaurants: Everything You Need To Know Before Q4 Earnings - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-21",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSjA2RDk4dE0tX09XQTd1enBxLUpHQ3ZSeDcybVNHbWp2ZGZ1VndiVmswUVpLZlhaeUFBVWZRVVRiR0ljdWtSYmgzZ1lDNGd2SmxYd1QxajNiQmgzVVhPdTI5Q0RwaXZmZ1BqNTZtQThHc05PYVAyUHR5QVVyLTlCSmJJNmpDYkJjRjktRjFscGQ4b21fTWVpWWxCSzVDYzVNMWtNNktzNXdKdw?oc=5"
-    },
     {
       "headline": "Is Darden Restaurants Stock Underperforming the Dow? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjZqSUM5WmcwbDZyaFJ3NzhzbV82UU5Ycm1sQ3FMcEQ3cE9sOEhVTXBCbXhtMEw3QXRFWlVVV2hXcmYzdVVfalAzTWRQZnNXSlAzLWcwTzl6UUctRnZreUVlNVdnbmFRTlkzNUNRU0N4bkM5QTc1ZGNJVHdIX1BaNUhhamp1Q3FINDdMYWJUa2xSSzRBaW5HUEpSQ1k3ajhVc2NjcXZtdWJaazA4UHc?oc=5"
     },
     {
-      "headline": "How Rising Optimism Around Earnings and Financial Health Will Impact Darden Restaurants (DRI) Investors - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "BMO reiterates Darden Restaurants stock rating amid margin concerns By Investing.com - Investing.com Nigeria",
+      "source": "Investing.com Nigeria",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWnFHSHBNbU1icG5nXzlIZ0hmLTl2MnZQZWtERnZaUUhIZ2hjbU5wTnZmbFhFaURDbFdNWUEzVGFLc2RyRjJJM09fQWpyQ1RqN3U0VVB1dVRYLXllZGhNTFdndkt4MHVrRUZCOHFsY2dZWTVjMkM4NVdyMHJDam9nRTJMNmRoS0Z3QVRXLTE5MUZ6bXY4OUlINkFEaS1MWl9tRkRmSnRPUmdBaDVyQXVrVl9KeWhncHdZMGw0VmMxUjdvbjVXR2M4?oc=5"
+    },
+    {
+      "headline": "Darden Restaurants: Everything You Need To Know Before Q4 Earnings - Seeking Alpha",
+      "source": "Seeking Alpha",
       "when": "2026-06-21",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbEZITUxFVkw4VzlfTXZnTXdZUlM1NXozN0JxM1JRMnBsS2hac0xmMmU1UXR5cExGdVFMVmJIci1KdjFzcWdLbVE1dXFEc3RDWEJfZWxROU40TmlXbWFsOGdNRnIyOHJ2ZXVvek56Z0hKYmJOVFowQjVGUFcwcFE2Q2ZrX1dEV2Q2S1R6aGhLUGtaU3lOb2d1Vl9XdzdGS1dwSUI5cmU2cW1uTFNCZGpISjJkTVRlcDdiWUkxMzJjeElhdF9yc3VvOEtNbzdvVjVIZlhncVNabElfTTjSAeABQVVfeXFMTXhaOW9tVFk2QWtRV05Pdlk5SGRVZDhLbUFNUU44NjV1WDNhS09YbUtURGpoZ3hGRENHZHdMWWVtdFU3N01iMkc0UXU5VXhuWWE4LTJfQjlTOURudXIzTUdUMXgtYTY3N2dhZ01mZG1JZnhqeFdNNUVnQm5RaWxsY0s2cmRtMTNLSlpZa2Y4eTFhWlR1LTBPQ21feXFCbHdIR19NSmRMaGRTNmxPTkJ2Vld6VEVfcW1TY211eEFFU2pNdjItSVd6ZHVYZTltZlk1TU5PSUtMVkZqMXlDcTAxYl8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSjA2RDk4dE0tX09XQTd1enBxLUpHQ3ZSeDcybVNHbWp2ZGZ1VndiVmswUVpLZlhaeUFBVWZRVVRiR0ljdWtSYmgzZ1lDNGd2SmxYd1QxajNiQmgzVVhPdTI5Q0RwaXZmZ1BqNTZtQThHc05PYVAyUHR5QVVyLTlCSmJJNmpDYkJjRjktRjFscGQ4b21fTWVpWWxCSzVDYzVNMWtNNktzNXdKdw?oc=5"
     }
   ],
   "insight": "Tracking Darden Restaurants (DRI)."

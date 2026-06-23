@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-22T06:58:47.116Z",
-  "builtDateUTC": "2026-06-22",
+  "builtAt": "2026-06-23T05:42:51.498Z",
+  "builtDateUTC": "2026-06-23",
   "source": "yahoo-finance",
   "1m": [
-    26.469999313354492,
     26.979999542236328,
     26.979999542236328,
     27.049999237060547,
@@ -24,10 +23,10 @@
     29.100000381469727,
     29.200000762939453,
     28.790000915527344,
-    28.139999389648438
+    28.139999389648438,
+    28.780000686645508
   ],
   "6m": [
-    26.540000915527344,
     26.93000030517578,
     27,
     26.260000228881836,
@@ -158,10 +157,10 @@
     29.100000381469727,
     29.200000762939453,
     28.790000915527344,
-    28.139999389648438
+    28.139999389648438,
+    28.780000686645508
   ],
   "1y": [
-    14.8100004196167,
     14.930000305175781,
     15.289999961853027,
     15.25,
@@ -411,12 +410,19 @@
     29.100000381469727,
     29.200000762939453,
     28.790000915527344,
-    28.139999389648438
+    28.139999389648438,
+    28.780000686645508
   ],
-  "lastClose": 28.139999389648438,
-  "oneYearReturn": 90.00674268972595,
+  "lastClose": 28.780000686645508,
+  "oneYearReturn": 92.76624312370811,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "This Flexible US Stock ETF Moves to Buy Low and Sell High - Morningstar",
+      "source": "Morningstar",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ2lua0N0QTd0Um1rZUlxY1oxUlNxTTFJdUVkTVdLdmdWSFRvTkowVC1lR19nSXBBX2JVeUk3RllxQmNEd29vQjBnaU1RTWFSNklDRlhUbTdKWHBFNWtnVUl1YkN5WXRERFNwZTdvRU5BTjBra2dOTmtHTjA3UVEyWU5qaTRubmtFaEsxRndCNXpHU0NzRkVJ?oc=5"
+    },
     {
       "headline": "What stock market pessimists may be missing - invesco.com",
       "source": "invesco.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FRVlKajFUV2ZUYzAxbzJqU3dGWE1lQUZOc0RHWTdWNHk1TEhRYWJreUNrSnRXUTJqM0NSVE1qVzJzeDFoc1hrYlN1UlBmUTMwazdUNGg5VWRaSnplSHNaSE1zOEZqdFVjaEVJS3RGMkdib3lZVHc?oc=5"
     },
     {
-      "headline": "This Flexible US Stock ETF Moves to Buy Low and Sell High - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ2lua0N0QTd0Um1rZUlxY1oxUlNxTTFJdUVkTVdLdmdWSFRvTkowVC1lR19nSXBBX2JVeUk3RllxQmNEd29vQjBnaU1RTWFSNklDRlhUbTdKWHBFNWtnVUl1YkN5WXRERFNwZTdvRU5BTjBra2dOTmtHTjA3UVEyWU5qaTRubmtFaEsxRndCNXpHU0NzRkVJ?oc=5"
-    },
-    {
-      "headline": "INVESCO Ltd. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTmFuVjV6TlVGZXpSVzdFekY3X2s2dDhRbDE2M1VMdGtOc2szdUoxQWxIdGJ4T2VLZHI3YXNzTnhzNjhVZDFmYWFCSHd1SnZuaE1JaWdudmdwd3VCNDVxSWZZNU1UUHhOclpXeUdtRG5xUjRUYkk5Tkd2T1FxWk02SHlZYjJ6eUJoOUlidEt4c2NxelVKZDQzcTZ6dFVlM1pUbnJkRE1ybjgxNFVlRGhFWGpQNG9nZVVOVUdGQUVzS2pEc1BXZU15Yg?oc=5"
+      "headline": "Invesco QQQ Trust (QQQ) Stock Price | Quotes & News - Moomoo",
+      "source": "Moomoo",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUVctVkNNbE03UzYtMm9XRzVyOGxodDM1Q0cxMk84Q09fcWpjb3h4VWswUklmcC1ESHNKekMwVF9DOEYxdk1PYTlTV0plNUh5dDNBZnRxQWFnZk1HNXFJQ2NsSHV0NzB4STRNU2djLXRuUHh2MzJ4N1J6N1QtSkFsdFFNd3VpNG93Z1pHZ1RaWURGOUl1bkZmVjVjTWgyNDh0dzZFeG14dVYyQU1Mb3pKUl95aVpHR1F2M3MxcWNhbWtnZjFLQ0Vsek5GU19kUFQ1OHdhUkhSNTF4bmY4V1U2bkJvZWNHOUNPSjhQNml5b0pObkR6QU5vai1yTVlaUGx5T2c5ZjNMdFkzWmJKZmRRbFJkeFZSbVFTMDFQZjJB?oc=5"
     }
   ],
   "insight": "Tracking Invesco (IVZ)."

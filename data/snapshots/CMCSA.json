@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-22T06:58:27.727Z",
-  "builtDateUTC": "2026-06-22",
+  "builtAt": "2026-06-23T05:42:28.765Z",
+  "builtDateUTC": "2026-06-23",
   "source": "yahoo-finance",
   "1m": [
-    24.799999237060547,
     24.8799991607666,
     25.079999923706055,
     25.209999084472656,
@@ -24,10 +23,10 @@
     23.969999313354492,
     23.65999984741211,
     22.690000534057617,
-    22.43000030517578
+    22.43000030517578,
+    22.31999969482422
   ],
   "6m": [
-    25.107778549194336,
     25.84817123413086,
     25.86691665649414,
     25.52014923095703,
@@ -158,10 +157,10 @@
     23.969999313354492,
     23.65999984741211,
     22.690000534057617,
-    22.43000030517578
+    22.43000030517578,
+    22.31999969482422
   ],
   "1y": [
-    32.36176300048828,
     32.41799545288086,
     32.999061584472656,
     32.65229415893555,
@@ -411,29 +410,30 @@
     23.969999313354492,
     23.65999984741211,
     22.690000534057617,
-    22.43000030517578
+    22.43000030517578,
+    22.31999969482422
   ],
-  "lastClose": 22.43000030517578,
-  "oneYearReturn": -30.68980727398148,
+  "lastClose": 22.31999969482422,
+  "oneYearReturn": -31.149352749876062,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CMCSA Stock Slumps To Nearly 13-Year Low: Retail Touts ‘Lifetime Opportunity To Get Rich’ - Yahoo Finance",
+      "headline": "AT&T, CMCSA, CMG Hit 52-Week Lows: What Dragged These Stocks Lower? - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-06-21",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2ZRT2haanpVQ2FpTWtDWW1QRFFxT0tWaklCWFUyS1RteEZib0VLa3d3bmNZVW5UUmM4UUI2MlZVNkp6UE9WenZfczI3ZFVfMGVlNVQ1cVJvaFVvdHJPRFVUV3lQNTVfTHRyQW5OZThiZWR3MkJQcUdCZk50S2F2azNfQzJOTDN6X1dHeDI4R3dDc2RNd1plamd3?oc=5"
+    },
+    {
+      "headline": "Years of Rewards: $24 Bil From Comcast Stock - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEVON0Ffa2otS3I3M0swcDFidHdqZVp6MnVvT1hkbHNEcXZnQ1FiX1RWN21YYVpEQ2ttWkJQRGtyd1h5Tm5TTUZScHFDbHcwT05VblpJTDV3Y19HTEF6UWN5TXBUYjJydkwtQ1o4M0pNUWxtQ2l0RWJXdUtoSXFZRWlaeEYxcFRGMTBBemkyUnJ0ZWY3dE9kSml6NjltUnByRTU4RkFvREExQ3V5YV9BbzhyUQ?oc=5"
+    },
+    {
+      "headline": "Comcast (CMCSA) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDlTdHZ5WEpZVkFGUVZiQm5yQnZXR21DYXBUTDhkTXVreDZhVWdub2IzWksxQWdpbVVzX1ZoR0NMZGhIYWtFZ3gzM0piVEx2TlVob3hMZnZwYXpNeHZxM1RpVHZ2NFlKdFVySTlDclFiVTJXeEdkaFo0dWtFQ3lfTXlRSVI2U2ZLRFJNUFFWeHBwckJOcy1UNg?oc=5"
-    },
-    {
-      "headline": "Comcast (CMCSA) Stock Attracts Attention As Cash Flows And Peacock Progress Support Undervalued Case - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2RUbXNyR3EtVDc4MjFmRDQwc2tYLThMdllJN1VTRHY1ZzFSVy1ya1hqamV6ekh0M3hOQ2JjZnpiZk0tQ3l5b3JobGd1elF2RkI3cW9vdDNLQzRGLXk0Nno0SlpucGlZdHp0cnYyLTZIRHIwS2RLbF9SLVpBbEN5aGRnWDg2Xy1COHpvYWF4ajRVZFFESUtGbU8wamJJZm1CdkFyLVFjRDlxU1dxWUZSOWsxS1JEb1hXZUxYOWNpYW1BUTFL0gHKAUFVX3lxTE81MkJtTDFER2dvRUpTZEU0dl80NjVzRDVlVy00U25xNGhwREtqaUs0aXB3OVZUQW9aTl9QbXN1eFl4MmtuNHRad1pnem9haHNWZkNqMTRnWG9HcnIxNVgySTNGQjJDRmM0ZkdkeXZIYUZGUS1hZldMSG9CWS1LVlpCNDFvR05zWTZjekNsYVdUdDZpUjNhb29tcjY5MG9lLXdQMUJxNEFyaHo4T0Vya2xLdkpTbjY0LVhack41czFjN1NwdTlYQlJ3M1E?oc=5"
-    },
-    {
-      "headline": "Stock Market Today, June 18: Comcast Falls as Cable Pressure Builds Before July Earnings - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdkZOWVNyV3A0UHFjbzgxZmFxcjFodlVHUVFxLVE2Z0FoYUZVYi0wSWxRLWdwZG9xRnVVZjBGRHJtenhncmpJRjNaSjJucnBNNWRfQS02NUdqWUFCeU1pbVBvZWotMkpRTWlFc2dfRi02V1ppVU8zYlg4aTZZY1ZtWUdlSXdheUNXYzFQbXliTzNjRGNDUE9pZmsxcl9VbzdpU3dPODVQQXhnOXNfUzhCWDF2TzBQLTd5VDdBWEk4cGVpUXdZNndpOTFNQmdKenc4QVhleDhva2RBYm1uTm1Ibg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVW5NcGs3SDY5bzNsZzc1WFVyREV4Z0VvbTczZ0s0QU5UQm9OZEJ1V1hEVFJsT2VKbUVzU2VjOU12QUw2X21fRFlMNEpXTnIxQ1Z1TmRWM2duOE53NWJzWEtzbHBqOTg1bGpqZG9JTGxLQko0VHNxdUd4SFZ0LW5vcVh0SDFQenVBRGVYb3ozZy1nNGxIYWZzMDk4bw?oc=5"
     }
   ],
   "insight": "Tracking Comcast (CMCSA)."

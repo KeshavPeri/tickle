@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-22T06:58:46.982Z",
-  "builtDateUTC": "2026-06-22",
+  "builtAt": "2026-06-23T05:42:51.133Z",
+  "builtDateUTC": "2026-06-23",
   "source": "yahoo-finance",
   "1m": [
-    154.13999938964844,
     158.4600067138672,
     157.22000122070312,
     160.00999450683594,
@@ -24,10 +23,10 @@
     142.77000427246094,
     142.24000549316406,
     133.5800018310547,
-    127.48999786376953
+    127.48999786376953,
+    125.7300033569336
   ],
   "6m": [
-    229.3800048828125,
     230.8800048828125,
     232.66000366210938,
     233.88999938964844,
@@ -158,10 +157,10 @@
     142.77000427246094,
     142.24000549316406,
     133.5800018310547,
-    127.48999786376953
+    127.48999786376953,
+    125.7300033569336
   ],
   "1y": [
-    392.94000244140625,
     398.5,
     400.3900146484375,
     402.6400146484375,
@@ -411,12 +410,19 @@
     142.77000427246094,
     142.24000549316406,
     133.5800018310547,
-    127.48999786376953
+    127.48999786376953,
+    125.7300033569336
   ],
-  "lastClose": 127.48999786376953,
-  "oneYearReturn": -67.55484372381243,
+  "lastClose": 125.7300033569336,
+  "oneYearReturn": -68.44918359926385,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Gartner Stock In Shambles: Down -23% With 10-Day Losing Streak - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd2VxZkF3emVmcWV4Q3hYMVltSnRack9ycHNDMmlSNGdEV3Bhc05KMXV6Z2QzdE1tU3lEelpCMnNEb0xzX21KUzZDM0xtbF9Pa2Q3cUNZamg0WEw5WWcxR21FMUpkNUlROTd4MVg3V3lfZlRWXzFmV0dMcElIM3R2R0NKQmpOT1NuNVcwYTg2NDVnX3JpQXRFcjRBUWhwNVJzcjJOM0laQTVCMDRRaGRBSUx6S1NDNEwyUHc?oc=5"
+    },
     {
       "headline": "EPAM, Gartner, and Accenture Shares Plummet, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRm9wQ1VMUHJQLWQzNlpnenNtUVZOMXBRMkhnV1BPa3JoTUQ1bFNOX292UjZXdll1V1JVRjJiWEZoOTZ6RFpFQ2RrcWtRWERnNHZKS3VaTFBreW9LbXhIX21GWGpBZ2lJVWs4dDV6U3JVbmtJaHc0X3JkQUMtenU0OXVwUGg1Sno5UGppOFhHX000b0NLaEk2alhPU1dkcWtkMVlNcQ?oc=5"
     },
     {
-      "headline": "Gartner Stock 9-Day Losing Spree: Stock Falls -19% - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNEdzay12Zzd2cnFGTzJacldxd096RlRLamlobGdFZ2I4UHRwNnNzNnZiUmI0OWxXdGtpUVFJWDFlcEZhdXNrSmZvT2NWMWRvc0dPRHIwQmI3ZE94a1lkUEJsV0dZZ1RNYUJ6R216aUZrdjN4Q3FWZmtSY09wUVYteW8yeUhsT0hSamNqWnZoRl92VFNIM1c4MnBVY2Rhdw?oc=5"
-    },
-    {
-      "headline": "Reasons Why You Should Retain Gartner Stock in Your Portfolio Now - Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnpuRG93bTE4SnZYSkV0eXA1RVZ0TUNxUGJWWDlRdGVKdlZMdlRESWdacEdzWHZZbUVxMGhDNkI5T3J4aGdsSW04Yi0wRXVxRENFb29BNXZOSFhYa0VQNE1EWHBLRTZXem1OMFdOVGV6NUN5S3VmY0RQMXhIWEplcUpaMFJmQkNHVXdSd3R1MzVCRmZ2UWJKOWRMMUIyQWdiZ3N3cWFNSmdCdw?oc=5"
+      "headline": "JFrog Positioned as a Leader in the First Gartner® Magic Quadrant™ for Software Supply Chain Security - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFJqSm8wNVNDdVAwRHRiaEl5dVlwVVByNkQxX1MxQk9ReU1KaW52LXNBaHZzYTV1Y2VqQkhOLUMtTHBPRHd2emI1MWRGX29rNmYwQzd2VlFlSGpja2loWmFIMG9DVkFWSm5fZ2tFNWIzYmtrQm1NQmVhVnBxc2dqbEhTdmdwYlRYelMxeGRSYkE1MHZmSVNpMk1NTFFRLXlDcEZpaEJZa2ZZbDVqWTRPMDN3bFVaNy1SOGJZX005bzk?oc=5"
     }
   ],
   "insight": "Tracking Gartner (IT)."

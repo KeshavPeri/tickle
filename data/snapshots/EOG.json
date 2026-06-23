@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-22T06:58:35.848Z",
-  "builtDateUTC": "2026-06-22",
+  "builtAt": "2026-06-23T05:42:38.463Z",
+  "builtDateUTC": "2026-06-23",
   "source": "yahoo-finance",
   "1m": [
-    144.3000030517578,
     141.6300048828125,
     139.97999572753906,
     141.22000122070312,
@@ -24,10 +23,10 @@
     131.97999572753906,
     132.0500030517578,
     133.25,
-    129.97999572753906
+    129.97999572753906,
+    132.8300018310547
   ],
   "6m": [
-    109.38999938964844,
     111.43000030517578,
     109.51000213623047,
     108.01000213623047,
@@ -158,10 +157,10 @@
     131.97999572753906,
     132.0500030517578,
     133.25,
-    129.97999572753906
+    129.97999572753906,
+    132.8300018310547
   ],
   "1y": [
-    125.31999969482422,
     121.98999786376953,
     120.68000030517578,
     119.81999969482422,
@@ -411,18 +410,13 @@
     131.97999572753906,
     132.0500030517578,
     133.25,
-    129.97999572753906
+    129.97999572753906,
+    132.8300018310547
   ],
-  "lastClose": 129.97999572753906,
-  "oneYearReturn": 3.7184775327663075,
+  "lastClose": 132.8300018310547,
+  "oneYearReturn": 8.885977667931895,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "EOG Resources Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbTdVdENLTVlfeHZEeWtMakwyS2RFNERLakkwSlFReGtVRmduejYxMDA3d2hVYkdXSTV2RWFqUDYyOWgxUG44WTY4eUo3dHZzbFFoRlJ5WXJxVGtQSFZkVDVUNTJOQ3oxMEdVRTk5ZUhCbW50X2pMak90QkVxRlE5aHdWSy1jM1NlUk1QSmVTSDB3UU9XYmlfUFV6ckRWX0dmWDk2dnNDa09vZTMxRE53b1JCU1JSVGpkLWI4RTdqOTZFSmhEaE9WblJGZXkxdEly?oc=5"
-    },
     {
       "headline": "Is EOG Resources, Inc. (EOG) A Good Stock To Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3dlMzdSaFpzODYzcno5a2hoVElCRm1hcTFxQ0ZZdm5fZ3llMjVvSFdXYlRuMEFEQ0dIMjNtMml0dHJSS1I1U2VqVGE2aW1IOEgyQklkOVFoNU5CbzF0eEJJM0NILU9wQ3NMSFVDcFR5LV9jc1pwWS1vNm5Jbnk2Y0dzNE1WajZfSm9HbWFhZmJnQXdVV3c?oc=5"
     },
     {
-      "headline": "EOG Resources Stock: Is EOG Underperforming the Energy Sector? - Barchart",
-      "source": "Barchart",
-      "when": "2026-06-03",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0VtYWd6LW41bmNGVm52cjV0RFM5eGU1c1ZneF8yNW5JUE50Z3RDZUNiakpGUTlKbjN2eUxJb2xfVkppOE1LVnk4d3BoN01mWk9aaWQ2RVZ5aTNWQS1LWFZCN3dnSmVXSHlQUjBZVFFkOGw0dkJRZkNwbnlZZnlORXROVDQ5eVgzb1JoaS1pc0lBTHNpVFh1RDYzVjc4anZsQzRrUFlNdw?oc=5"
+      "headline": "SG Americas Securities LLC Has $141.59 Million Stock Position in EOG Resources, Inc. $EOG - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOejdTMXp2V3AtZ3M1T2ZqNU9kZmt3eU80ZkVvUjNCWThBeFQwaE4zT0ViUWRoSmYwcFRMZ2VOSVVPMnVMWkp1M1FLOHA1eFowRmRQVDZuc2syeUhhcTBzalh4aE95eGZHbWhMT2szNDhIWmMzMDF6UFJoUGV4VUlEYUZ2ejF4N0FickRWVWYxYlNReC1rTDhqYVI2d2dCbUstZk5xaUczekxSSkFnZWF2SUNmdmZ6V0dJZ04xVmZFMHNzTEtiYjZOekhvM291MHNfZlhFNHhkTTlUWVE2c0E?oc=5"
+    },
+    {
+      "headline": "EOG Resources Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbTdVdENLTVlfeHZEeWtMakwyS2RFNERLakkwSlFReGtVRmduejYxMDA3d2hVYkdXSTV2RWFqUDYyOWgxUG44WTY4eUo3dHZzbFFoRlJ5WXJxVGtQSFZkVDVUNTJOQ3oxMEdVRTk5ZUhCbW50X2pMak90QkVxRlE5aHdWSy1jM1NlUk1QSmVTSDB3UU9XYmlfUFV6ckRWX0dmWDk2dnNDa09vZTMxRE53b1JCU1JSVGpkLWI4RTdqOTZFSmhEaE9WblJGZXkxdEly?oc=5"
     }
   ],
   "insight": "Tracking EOG Resources (EOG)."

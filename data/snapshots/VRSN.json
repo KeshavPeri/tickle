@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-22T06:59:02.951Z",
-  "builtDateUTC": "2026-06-22",
+  "builtAt": "2026-06-23T05:43:09.451Z",
+  "builtDateUTC": "2026-06-23",
   "source": "yahoo-finance",
   "1m": [
-    302.6300048828125,
     303,
     305.92999267578125,
     310,
@@ -24,10 +23,10 @@
     272.9599914550781,
     273.8699951171875,
     264.9200134277344,
-    264.6400146484375
+    264.6400146484375,
+    247.69000244140625
   ],
   "6m": [
-    242.57000732421875,
     242.32000732421875,
     244.07000732421875,
     242,
@@ -158,10 +157,10 @@
     272.9599914550781,
     273.8699951171875,
     264.9200134277344,
-    264.6400146484375
+    264.6400146484375,
+    247.69000244140625
   ],
   "1y": [
-    280.7300109863281,
     282.8900146484375,
     285.0299987792969,
     282.44000244140625,
@@ -411,12 +410,19 @@
     272.9599914550781,
     273.8699951171875,
     264.9200134277344,
-    264.6400146484375
+    264.6400146484375,
+    247.69000244140625
   ],
-  "lastClose": 264.6400146484375,
-  "oneYearReturn": -5.731484240448459,
+  "lastClose": 247.69000244140625,
+  "oneYearReturn": -12.443002716365292,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "VeriSign Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNWo4NmZ1c3N0YjRLZXpvU04xYnZvUkFMRkRZRXViejJmYnRaNjN1N253ckZhTTROaG1HVDVlWUs3c2hCdHlleXVPYjhJVXk3UklnQ3hHS01GNWtNVF9PbXEyUFd2Vm03bGNqeWtPRHVHUlFqYjYtZXZXbVhwWEhVRFF6NEVFS0tpLWhVazJOc2RfR2FlWVo5SFZVVHB2VmdaMEpXZ19kUkxWWXM3TEEyMEdEUEw0aUlWQ0ZhZlU0S3VUejg1cVdR?oc=5"
+    },
     {
       "headline": "Is VeriSign Stock Underperforming the Nasdaq? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVl9fOGt5cl9jNmYtTnNRWW9tRkFBTVQ2S0pwNzNXeFBBRGhMay13MWs4UEw0cVhhMnJIUm5mbFZWRVFKbFhyTnpPcE4yaWdnb0dEaUw0cUR5MlFXSnlpeTBOcXctcl9IejJSVnByTDQ3OEJmYXNINU1vZ3hMcVg0THJXaDdrcmVTcGVBNlBXcnVocjIyQUpPa2VBUXpaMnVGM0thVw?oc=5"
     },
     {
-      "headline": "VeriSign Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQm1qNmZ4aVNocDZuak9DZFItWlh4TUJuN2RmVW4wU3ZXQlByS1VaenZ4MVd1Z0JxZi05VUpGd2RESVJvS1I2YWhGVGFKY1BkVTcyR1NKYjJXbXZRejZTMXVzc3pMZWFWVUx4ZlJfdlRTNElnT3FJUnEzMmNSd0FndlJjV1lHNjBwV3hHbkZHZldsSEhCVFFaVFlVbEtPQ2NrRlBnYWliODkxQlIydm1pNnZUVUNjOEZHdE8zYm05S0d1YUVXbjJLa3lqTVdRNGFPQXRUVVQ1anJGY3NtMjVZX1c1aw?oc=5"
-    },
-    {
-      "headline": "VeriSign (VRSN) Completes $550 Million Senior Unsecured Notes Offering - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-20",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdGYxSHNXU0Q0VWNac1YwRmpXVnotWGRDUDVYUFJrb1N0UU1WLTNyYjJIVmw4em52bTlQVFFFU050THlRMWN4ZXFFRmJHODNrR2R5Um9WUk1NMVBCV1Z0d0c3TEhVNTMxZzJlTnlSTXc2Y3o0N0t6VUVybjdiaGNTeGQ5dE9adFB2c3IzZzhMM041MEh0Z0JHMTc0VXJxMjJNLXhzQ0hoaGg5dmczcEpLSHh5SlcyT0l6NGczWXhXR0JmU0JTRmfSAcsBQVVfeXFMT0ZLZHFjZGxPZ19hcTZaNk1XdkdHNzJvR0poOUh6WE9PX1h6Z3VKejhNVXlPX1JydVk4dzBlTEJiRWxTUlcxSkg5VjZ6TEtudzlKOU9Vc2JXR3hfcEZ6R1AwRG5zdmFyS3NmdUR0cXhZR2M5dDZRTElFaHJzU0ZKZVJUelVZUlhIRVpYRnNmalJOdGlnVHRsQjN5RHA0UERSd1VRcjU3MHF3ZEg2ZnlocUNibVNsRHB4TGstTHM1ZDRlUDBBWWprNDFobHc?oc=5"
+      "headline": "VeriSign Slides as Post-Earnings Reset Overshadows Strong Q1 - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEpKaXYyTHJHSS1TdEI0UlU5aGdFSjhJZDZ1dE8xRG8xSVYxWlpSQnBPbzR4cDJJVUtPT2RCcG5JZ0lVdlZtNzNzVjkxS3JEQkxvQjdtelE3ZGF4ckhNbExDVTFOZWRSVTEtQVEzUzViVGRVWDZ3X21qQU9zZ19BYkhjQlBORVF5ZkhNV042Z3lVa2Y2dURrLQ?oc=5"
     }
   ],
   "insight": "Tracking Verisign (VRSN)."

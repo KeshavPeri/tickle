@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-22T06:58:42.975Z",
-  "builtDateUTC": "2026-06-22",
+  "builtAt": "2026-06-23T05:42:46.761Z",
+  "builtDateUTC": "2026-06-23",
   "source": "yahoo-finance",
   "1m": [
-    15.460000038146973,
     15.819999694824219,
     15.850000381469727,
     15.920000076293945,
@@ -24,10 +23,10 @@
     17.209999084472656,
     17.31999969482422,
     16.850000381469727,
-    16.860000610351562
+    16.860000610351562,
+    17.049999237060547
   ],
   "6m": [
-    16.989999771118164,
     17.559999465942383,
     17.90999984741211,
     17.81999969482422,
@@ -158,10 +157,10 @@
     17.209999084472656,
     17.31999969482422,
     16.850000381469727,
-    16.860000610351562
+    16.860000610351562,
+    17.049999237060547
   ],
   "1y": [
-    15.84000015258789,
     16.06999969482422,
     16.260000228881836,
     16.280000686645508,
@@ -411,12 +410,19 @@
     17.209999084472656,
     17.31999969482422,
     16.850000381469727,
-    16.860000610351562
+    16.860000610351562,
+    17.049999237060547
   ],
-  "lastClose": 16.860000610351562,
-  "oneYearReturn": 6.439396767284926,
+  "lastClose": 17.049999237060547,
+  "oneYearReturn": 6.098317117902396,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Huntington Bancshares (HBAN) – Among the 13 Best Dividend Stocks to Buy Under $25 - Insider Monkey",
+      "source": "Insider Monkey",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUZMUTI0Q3h1V2ZyUEJjMmVyc2J1d0pxUG1URFVDZXJCX3RZSHdQRjdnVGdZclM4aFcxejBQSkcyUkVLRDJ4eVd5a29pMU1tVEItLUg2dTAwN0c2aUx0a1hFT3ZPeVRtWGtNZ1JBVXlvLWMxa3AtUThoQzZSU3V6RnBFd3NQcjYzc3J4WnZMMGtqZk5nMlFiUHk5ek5KTjJTeTNjNHRrbml2YWFGSnRRZ29DdU50WjBjRHRBQ9IBxAFBVV95cUxOaFVUMm1JcGZ2amJzZUVOQXhLQkNFWDIzRHR4eWJNQW5wRzNoTDE2UktwajFhSDVwbWVsRU95a2t1WDZoZVhudkU0YVFsV3VUUUx0YUtmYnJDaklhQ2hHZ1BWUkdBRjg4NUNEclpZSTU1bV95cWlKaFBUdUhBOEN2X3puYjdmODlhRXNHaGdfeEhYSUtKaFBzanFHaWpvQlV5b3ZISEpuSkZubzRsbjNEbWJIRl94SDFOYWpac05iTmh6VGxF?oc=5"
+    },
     {
       "headline": "How Is Huntington Bancshares' Stock Performance Compared to Other Regional Banks Stocks? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRU05ai1aa2hhN1pEelBobVNaaVNTTUNxcXAtLUgzWTcwZFh3b1BuYnIwUVk4LTliT3liV3g2dFZoUHpfMFNScGVlN3dSTzVzeWRNa0RsMVJJSTB0LXhQa1pDaG5LTmhtQUJiMnVQWWMtZDh0cm54Q1VVS2I4OENTUU9wNXN0RzdmVWZiZE5JenNPV2lJZWdTUW9VNl9TR21rZ1RCNVQxbWZ2cXRVbGFDSWx3UQ?oc=5"
     },
     {
-      "headline": "What Huntington Bancshares (HBAN)'s CHIPS Integration Means For Shareholders - simplywall.st",
+      "headline": "Have Insiders Sold Huntington Bancshares Shares Recently? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-21",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORkMtTDNiQ25EWjlqZVF2OHZhSXdxa1IyQ2U3R1l0MUJMaEdDZTE2czk1RF9oT1Q2RnJTcDBqNXVTX0ZfYlV4c1NxZTlBckUxZTFJeWlzX19nQmVNUUZrQlhoelVwWkl1NjNIWDlSdXZEYkc5NnZuVnByd2txOEtZbnFCdlU2a3JIQXpIek1sc3FqTHJmOW01eW5zeWJqVDlPZ05aNFdsODc2QTNIdUZZT1pxSXlsZTM4V2ozMFpFbk5sdkI5T0JiS3R3NEhXTjlZYkx30gHYAUFVX3lxTE9WSzBfai1TeFFLb014SE84S2lLMXBzcDI4M3FqTjBaSnVXQkx1LTNMaGRJOEN4cDRYQzRtN3pDaVplSVZBMTAxekFaT3RZX1hNTjNMVHVZNjRlQTctOXVZX054ckN1dXgwUlRBbEVQS0REZ2h2azBjTlNOeTBzdXd3VEZFZTVyLTlfbmFUUHpRSVNKbzJwNEg1LXk1RXhLdVR6NGNUMVJWanJUMjhjTTA0bWtLVUtrT1U4U1podmR6QXpzRkZRT280alpjSUpFaDFIQ2k3bHhqWA?oc=5"
-    },
-    {
-      "headline": "This Insider Has Just Sold Shares In Huntington Bancshares - Moomoo",
-      "source": "Moomoo",
       "when": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc2x4Y3VwQjlSeldRX0pnU1BaSnp6WnY1d3JJZVAyX0M5VmNJMmZwQkdoRXhiOWtzY0NOc2p3OUZOY0FIZEZaWVhFYWdGQXZJNjRuT0piQjdlX3NZVXdsUlNudGp4WDBpcWMyamJmbFVWY2g0OHBvVlpRc1pMQXh5Mm1YbEkzVkJqVlVhSnVqbG1FSExsWXJGMENtYm41WkJUWGc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeTM1OWhKcUhRb2d4d3NJcS1QRTBGNlgtZndNYUhQQTJxeUwwU1UxZV9wSEthRTVnQW9xNjRuNExYa1U3eFZ3aVRiQnhSa0xLQnNob2I4RlRrd2VFWHVTTHBTOVl0X3poRFBJT29jT01lYUhrSW1iY0k4dkdKeEJ6LVB4d21hd2JnMTNzSWxzeGFmbU4yWHVlalJOenZfckVhRE52c3FzZUVwaG9RTEdKeUR4NHFsLUtKMGc2ZWlrczUzVnlFZDJ0ajVaVC1uUdIB0wFBVV95cUxONThnWUI0ZVJZNGRXUURWa05Uem1yUnlSZkVqTkJTYXcxN1ZreFNMN1dVREQ1cnRRVGdlcHh6YXpIbng2WURMLUhPd1dDNEdJRVp5am9VcENxWHFaUkQ3UnJKU0tPMWhtVjhnWXVwZmVKNzdmbng4LVZPbHhzb0Z5aHd1VHhMZHhGODdyb00yVncxVVByeDhmTlVJT2JDM19JYmFQUVNhWTBQcHdrSk5TZUpDTW1BcENqcVZSZEFvRUVIOXFTbnFQcUVvLVZhRDRGNzZv?oc=5"
     }
   ],
   "insight": "Tracking Huntington Bancshares (HBAN)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-22T06:58:23.470Z",
-  "builtDateUTC": "2026-06-22",
+  "builtAt": "2026-06-23T05:42:23.641Z",
+  "builtDateUTC": "2026-06-23",
   "source": "yahoo-finance",
   "1m": [
-    190.55999755859375,
     187.8000030517578,
     189.47000122070312,
     193.75999450683594,
@@ -24,10 +23,10 @@
     198.63999938964844,
     195.61000061035156,
     198.6699981689453,
-    196.5800018310547
+    196.5800018310547,
+    199.7100067138672
   ],
   "6m": [
-    175.83999633789062,
     177.5500030517578,
     172.5,
     174.10000610351562,
@@ -158,10 +157,10 @@
     198.63999938964844,
     195.61000061035156,
     198.6699981689453,
-    196.5800018310547
+    196.5800018310547,
+    199.7100067138672
   ],
   "1y": [
-    127.04000091552734,
     124.76000213623047,
     126.30999755859375,
     127.30999755859375,
@@ -411,12 +410,19 @@
     198.63999938964844,
     195.61000061035156,
     198.6699981689453,
-    196.5800018310547
+    196.5800018310547,
+    199.7100067138672
   ],
-  "lastClose": 196.5800018310547,
-  "oneYearReturn": 54.73866531358619,
+  "lastClose": 199.7100067138672,
+  "oneYearReturn": 60.0753473022514,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Biogen Stock (BIIB) Opinions on Raythera Acquisition - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXZpV2E2Smt6R09jUmlFNFlVMjdnLTB4ZjQyTkdVUnBvZVpmalhRRnViMlR6OUxCVHlvaDJPVEg4SElDd2g0bE9iTnczUnhzNkh4R2p4cGxUOUg4WlR5bHNBd2JfdEpUQkh3VWlLMEFkZG5WMHFvU0NvV3JVaWN1dEo2OE5wWDh5Q25vVFJiRnJhWDQ?oc=5"
+    },
     {
       "headline": "Biogen (BIIB) Stock Could Be 10.3% Undervalued on Its Pipeline Narrative - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVlTVFE5VWtlZDZCV1lvVU5sMzV5QUc1UW8tMEFITTR6SkxKZmpSYjVWaXpaeHNNLXJFcXVpeGpiVXhOZXBHQlZVZlNJMXR1UFFLYW9mUG9jajJUZXE4cWhybGZ6Nm1DZ0x2ZVFEb0d2eFByWTl5VUZicTN4SVlhVWdpdmNGZE5WYXRqRDYwU3FUWUdReXc?oc=5"
     },
     {
-      "headline": "Needham reiterates Buy on Biogen stock after RayThera acquisition - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNanM2aEVsWURNd012VFppaHJGUUk3Z1RJMXY2eG00Q19CUzRtOFNBMXVlVzVTR3FqNFhWUk9JTWRiQXhTUTJrMFpvdnVBQWFnQzV4elVGTjU1d2NydDJEaGFOaENvN3JYdUtwNUlxa3VrVlhnUnRGeW9TYUhNUzQwRWR2ZTFkX0JKXzIzczVRRTE3LXdHNXdJNFNaVXZZS0p3dnNwTnp4VE9JQkxCY0F4azc0ZmpnZ09YWkUtdG85bkNGc00?oc=5"
-    },
-    {
-      "headline": "Biogen Stock (BIIB) Opinions on Congressional Purchases and Analyst Upgrade - Moomoo",
-      "source": "Moomoo",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU0NTdmVsYmd3VGZWbVR0ZGxKWkoxQlBjU1ozY0JWYWdMSHdISW4zMTNwa0h5NFNMT2FEQVprc3Q5Y1BsbTR5bU5ZT3YwNjdXYngtejZNMXFjX1IyX2plYmVvX1dzalM4Z2txUzVJT1BGUWw4eFhOemt1R182VTgwTF9Jb3I3bDdmTjV5QnJJUGlOUU5tLTRwdFR5bWZMU0xCR0ZwZEJBNlkzWi1kYVBjcmhOVkFEQQ?oc=5"
+      "headline": "Cantor Fitzgerald maintains Biogen stock rating on BIIB080 outlook - Investing.com UK",
+      "source": "Investing.com UK",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOci1BeXZ0Q3hmZXBmeGV4OHJHcmJweFJJdjlMLTRFTGcycVlOS1ktQko2cUROXzgtZmdVdy1Qc1ZCZk1YRG1Xd1dEendqNElRNGs1QUpUd2xrTWNDZ1E1MWdWV1pfS09xcGxYSmJfTTcxZG1YeXRXeVpFanlxSXFCczdBelpZMjI1eF9HZFRzZ0I5N2tjUDZ2OTQtWlhLVGRIVkVnNDNnaXRXSVdVQWI0bmJaTlZNTm1pTk1LR05LRXlVMXpQX1hEMzdfcFNwOG1fMVg5MWpB?oc=5"
     }
   ],
   "insight": "Tracking Biogen (BIIB)."
