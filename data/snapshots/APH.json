@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-23T05:42:20.571Z",
-  "builtDateUTC": "2026-06-23",
+  "builtAt": "2026-06-24T05:39:11.969Z",
+  "builtDateUTC": "2026-06-24",
   "source": "yahoo-finance",
   "1m": [
-    123.05000305175781,
     124.86000061035156,
     132.05999755859375,
     139.55999755859375,
@@ -24,10 +23,10 @@
     158.80999755859375,
     161.11000061035156,
     163.9600067138672,
-    165.9600067138672
+    165.9600067138672,
+    158.6999969482422
   ],
   "6m": [
-    138.67999267578125,
     139.08999633789062,
     129.24000549316406,
     129.89999389648438,
@@ -158,10 +157,10 @@
     158.80999755859375,
     161.11000061035156,
     163.9600067138672,
-    165.9600067138672
+    165.9600067138672,
+    158.6999969482422
   ],
   "1y": [
-    95.25,
     95.80000305175781,
     97.0199966430664,
     96.9800033569336,
@@ -411,29 +410,30 @@
     158.80999755859375,
     161.11000061035156,
     163.9600067138672,
-    165.9600067138672
+    165.9600067138672,
+    158.6999969482422
   ],
-  "lastClose": 165.9600067138672,
-  "oneYearReturn": 74.2362275211204,
+  "lastClose": 158.6999969482422,
+  "oneYearReturn": 65.65761157909508,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Amphenol Stock Surges 11%, With A 7-Day Winning Spree - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzRUUXBnbS1BV1o1cG9nMmh3Rm5rSTItQTVUVkgzTlg5T0F4VUcxOGFxaVkxSDFDRWR1MldxeTlZdkFqWTZxaGhUOXFmUDRZVjVlZmdrUl9seG1LU0xDTF9DRkQydE9QODFxNTlnaTFBVUxBVzFQZW1oUDVVME5fSGFRZzFEd2xxeTFIdTlMZFVIemlwV0VIVGttNHN1b3BJcVFxeWJ4QWlfZk1adTRCaw?oc=5"
+    },
+    {
+      "headline": "Why This Rarely Cheap Blue-Chip Stock Is a Buy Today - Morningstar",
+      "source": "Morningstar",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUUFiYVN3Y2hhT2E1R18tX3NScTMzYWJNOFA0UzFxeDRGVC1DVW0tRDlGM3RiRTVSaDVrRjMxblBCU1lOU2EwYk9kMU5NZVFVYUxhdGVDeHg1NEN0TVYtYTM4NXIzRE9KYUVacS1rVjZwNEpha0phSGJfNU5tTEZJRnRKRFhhdmJQam9WcHR3?oc=5"
+    },
     {
       "headline": "Missed the Buy Point On Amphenol Stock? Here's Another Spot To Get In. - Investor's Business Daily",
       "source": "Investor's Business Daily",
       "when": "2026-06-22",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNUVZajVzWGZwSVFpZlZyc1ZMRHJnQUJadzZSRDlqczh1SnNJNVFqelBfbjVPMzNEOFhWRk0wNk5neC1TUUg1dUN6eHoyYzhWWW9XSC1INXFuX3BPbGRXTjNCOXJMSzNFcldxREZhRmlxR2lNelFBSVotQll1N3UydXl2aW1QQUtfNlIydUI3ZlpzdDRhRzIwcg?oc=5"
-    },
-    {
-      "headline": "Amphenol stock hits all-time high at 167.27 USD - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdVFfTGQzNWFLMHZhRWwzUGdOSVlJVGtmTHRzRW50bW5fRjM5RUpza0wtZVZHNEtvMDZCZTVlVDJzdW1qUnVJdng1aE1lbjBXcHVDYUUwbmNqWEdtX1VPVl9rajFCSzR2dXo2bnRTWjdFS1dtYThsNXpENmhEazlNZk9UTzU1bE0xMkZUR0piZTlrLUFlcktDQ0hNSWdwU2hMSUtERw?oc=5"
-    },
-    {
-      "headline": "Amphenol Corp. Cl A stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSTljTm53NlNyTkE5eXl6N3lCQm5vdk03OXk5dTMzZjJRcEo1LVh4WTB0UGpkbVoxdVlWaTB4RWdyT1RadklVeUtJc00tdktiSzNaSjBScW4xTm9SQnJDN0V6UTQyUEFBS1djbU1jVEt1SUE2WkdaazE1Slktbmx4YXpNQjE0MURoeTBmaEJINDhBelVwWlB6Vkt5eTFjOFMwekJVWEw2WExLVVRZZ1FyMjVtYkJZUE1weENYSEJVTkpxa2lvVlNnV0stblZuamw2WVM1bzhRaXdPUWpvMlFleWY3dDQwYWJMQUNfbFVKRTNvc0RpUndmQzdtVGZtd1dtRmc?oc=5"
     }
   ],
   "insight": "Tracking Amphenol (APH)."

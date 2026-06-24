@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-23T05:42:18.426Z",
-  "builtDateUTC": "2026-06-23",
+  "builtAt": "2026-06-24T05:39:09.726Z",
+  "builtDateUTC": "2026-06-24",
   "source": "yahoo-finance",
   "1m": [
-    221.97999572753906,
     214.44000244140625,
     216.60000610351562,
     212.82000732421875,
@@ -24,10 +23,10 @@
     223.08999633789062,
     221.66000366210938,
     221.1699981689453,
-    222.55999755859375
+    222.55999755859375,
+    231.5500030517578
   ],
   "6m": [
-    201.19000244140625,
     206.82000732421875,
     207.17999267578125,
     211.94000244140625,
@@ -158,10 +157,10 @@
     223.08999633789062,
     221.66000366210938,
     221.1699981689453,
-    222.55999755859375
+    222.55999755859375,
+    231.5500030517578
   ],
   "1y": [
-    198.3300018310547,
     196.0500030517578,
     190.94000244140625,
     194.14999389648438,
@@ -411,12 +410,19 @@
     223.08999633789062,
     221.66000366210938,
     221.1699981689453,
-    222.55999755859375
+    222.55999755859375,
+    231.5500030517578
   ],
-  "lastClose": 222.55999755859375,
-  "oneYearReturn": 12.217009783612632,
+  "lastClose": 231.5500030517578,
+  "oneYearReturn": 18.107625323845514,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Allstate Corp (NYSE:ALL) Shows Strong Technical and Setup Ratings for a Potential Breakout - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY190MlpVaGRmdGgwWjNMNEhPTHRDaHlyTExFamgybTlHT3F0SXR5RUtvVGh3czdRTXQ1bXJ3QndpQ1ZBVW1nRDdwSWFZOThJWEpCZDhTbWtMRVh6dUNxVVEwWFZkRWQ3cEtTamhyak1POENDNHdSMGJGUXFTclRHN1BiY0I1NG1xajNzNTN3XzZ5RFNTS0lDaWctMnNaUWM4YW9hOU53bW5ELVB5S3gzd29Jamh4SWUwTEY4ZkMyeGtxZWZmN1VPdnZ2LU1KeUhoTDBnTw?oc=5"
+    },
     {
       "headline": "How Is Allstate's Stock Performance Compared to Other Property & Casualty Insurance Stocks? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQS0tekRyS3VUemdRWmUxOFJ3V0ZWUlkwZTZteDRQU1JlV2VBMzlTVEtDOGxwMl9uV0NiM3pHUk03aFV3ZktYM1QwYWlVUW1HMlBwYmQ1SExyUDE2S2ctZlNYY2pTbmZyMzR0UVpjS1NjaHloakh4MS1xOU4zaWNWd0FBdUVpSWg5RTVlWG03ZkJjUG5USzlXVjZzSnFnT2tmWDZvVG9mUTgzRmc?oc=5"
     },
     {
-      "headline": "Allstate (NYSE: ALL) logs $1.16B April–May catastrophe losses with policy growth - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEN6U2pBbEJjQmp3QTdCaEcwTzgycU1VUDVNa0VYTmRzTmQ5eGVHbVRRNGVQQUpjR3NQREZwenBTSkh0TlpCd0tPWXQ0bFJZTGl1N054Uy04Q185UUNUYTdNOXZTZktTbENMem5qcXpuRjZLX0RXUHBlaGFWNUg0WjA3anRkeElNdUFwN2h5Yk1BQ2Z0U1BJWUVkNnFURkFCb19Z?oc=5"
-    },
-    {
-      "headline": "Allstate (ALL) Stock Could Be 7.8% Undervalued After Keefe Bruyette Downgrade - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVkVtRTI0eTJBeThsVVBvTG9oblhQdVUyZENRalF1a2hIYmRGbTFOSDVxMmt3dlI5MjFnYW5yM3ZwR2FnMmp3Y3dfNV9SbWZjUC1NQ0g3c3ctbFZ3MG9TZmZoUXFVWERHR2NTckhwenVMUjlSam5ESUUwelNpa2tzMm1qUFFWUEprd1psa2dvNmEyYnFzU2o0YnI4VDB0c3Y4dHpRdnhVZ2EzblZwZ0s1M1Bkd1FROV96V251UWhENk1LZVnSAcgBQVVfeXFMTzB2M0dUTWI5RGdaeFJhVHdnTnhBMWg0cmhTR2JZTl9GRDR0S0FkeFhKQkR1VnEtX1R4V1ZtRTd0N2VJT05GVjliS1djTktYc1hvUWtiYk5zV2d4VXNjblJMYzc1MkZYNXN2aXhJVmp5YmtBQ2lPNWJIY240Ml95Z09nV2FrcmZBcmhneVBoQkhHaFA3SWpjV0N4VEJqRXRzcF9fbWkyM2JmMUtPUlJtbTFBdTBIN2NQS1l1ZXQyLXhBSVhkcmN2Vms?oc=5"
+      "headline": "Precision Trading with Allstate Corporation (the) (ALL) Risk Zones - Stock Traders Daily",
+      "source": "Stock Traders Daily",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSzN4RmRnLXBUeGl3MUlrU1dTTmNSLW4yLTAwNWxZT3hUakU1Wk42bUVMeEZ6b05waUF1SENaUXhMWWdaUm5jQ3JIU3gwTzByQlpXSmYzTzdpUmtNTGZLZmhLSHQtSVk5OUhwdzNGVjJtRFFqQi1vS0s0QlhTQXlTdEZXZnNnZzVUT2xfdWtpZHhVWXZ1VkpDdE42WjlJekJncC1DLUFnb2RCQlhzWXozcHZjWm9meFFxM3RLb1BRRi1JZ0huVER3Y0V6YWhfTHlYRzBhNVBMalhxRFk?oc=5"
     }
   ],
   "insight": "Tracking Allstate (ALL)."

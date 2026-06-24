@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-23T05:42:34.743Z",
-  "builtDateUTC": "2026-06-23",
+  "builtAt": "2026-06-24T05:39:24.220Z",
+  "builtDateUTC": "2026-06-24",
   "source": "yahoo-finance",
   "1m": [
-    193.75,
     193.82000732421875,
     195.2100067138672,
     192.8800048828125,
@@ -24,10 +23,10 @@
     201.0399932861328,
     197.75999450683594,
     195,
-    193.5800018310547
+    193.5800018310547,
+    197.17999267578125
   ],
   "6m": [
-    179.50999450683594,
     181.57000732421875,
     182.55999755859375,
     184.11000061035156,
@@ -158,10 +157,10 @@
     201.0399932861328,
     197.75999450683594,
     195,
-    193.5800018310547
+    193.5800018310547,
+    197.17999267578125
   ],
   "1y": [
-    179.72000122070312,
     179.89999389648438,
     178.64999389648438,
     177.05999755859375,
@@ -411,29 +410,30 @@
     201.0399932861328,
     197.75999450683594,
     195,
-    193.5800018310547
+    193.5800018310547,
+    197.17999267578125
   ],
-  "lastClose": 193.5800018310547,
-  "oneYearReturn": 7.711996726135643,
+  "lastClose": 197.17999267578125,
+  "oneYearReturn": 9.605335945280743,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Quest Diagnostics Stock Underperforming the S&P 500? - Barchart.com",
-      "source": "Barchart.com",
+      "headline": "Quest Diagnostics Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYTdQdGs0SnRKYlV2VFRmdUREN080ckpnRzdfQTBfNkFlTnlKeWVqaVhVT3lPYkZXUVZFLTFyVnBJNnlkUkJ5Zk02eWU5WE1uMU5yR2dVMDB3a1g0MzAzQnE4TFA2VGthc2FrRGFoYWhBVlRFSXFFQ0FYSmRRLVg1dnFEX2FWcE54UGRBOUE4X3QtaElWZkMwdi1KcmZpczF1b2lqWERKbU05R01uMDQyYmRRbzdudXBjaVVjZm5QSC1jZmtoWXBtQXpNZXNrUjdTRDd3WElLQ1hwRFBnTjZiakYtamFRUQ?oc=5"
+    },
+    {
+      "headline": "Is it Apt to Hold Quest Diagnostics Stock in Your Portfolio Now? - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc09EWDVVVldYTU1OMURpdFYwbnV0MTBqbUVnT1JuSF9IYlNEbVBjOTh2VDBNNGN2R0RnXzQzd25IaHF2UFBNNzFCVUpVRGtSR3BDcnJHYWhfaFRkNFp3QlNIbHFzcFItVXZfRkR2ZDZzX1RSallCV3JFQlpncHJWeGs3S1RkdDVHZmlZdUhjcnF2TXhkSGtxcWRXWm9aZ0lsYzN1ZDg3d0UtenRaeUpaY1pmVzZrVlh3U0w0?oc=5"
+    },
+    {
+      "headline": "Is Quest Diagnostics Stock Underperforming the S&P 500? - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmkyS3BxVy1idjlsZkRIU2l1ekNhbFp1U3ZUMm1tcDlzb2xKaE1vcTl4WE9HZkhPUDJ5Q1VFWndIb2xORThlZlJ6bzJCM3kteHV3R25INEpPVXJJRDlneWlMSGpuMkRjbldpMVVLRXN4cTc2RTZBWWNYejB0Wlp0LUZkbWRnOFJfVDYwN3QxbHI1bnFNZTNQYXZwdU1udWs?oc=5"
-    },
-    {
-      "headline": "Quest Diagnostics (DGX) Stock Could Be 12.7% Below Fair Value on Testing Growth Narrative - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-21",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRC1GSVdJY2huNlkzTDFUYml2STFES0xrV0hSeXBLcnBUbF9reDhFSFZuYVQtREtDRTA2eW1FZVF1R3dSM1h5ZjJ2Z2JUMzBwTWZVTHBzLWlFQVNITks3M1pRQlhFYnA4bDNqOERadlBMNlB3eDNuNkthSWdGSjNHdFU2eFJnWlI4RVpoNVNuQzFINmRDQzJaNXR0VXhIbF9wS2hSdXpCTlJvd1ZoYkliZ2NxV2lsUlJ3am5zVlJlTEw0dmZXVk9fcF91RTFJcFUz0gHWAUFVX3lxTE5KNHFLX3FlTXlBNGoyN1dSNERMc216eUNsd2VoUUgweFRkaUFQQmI4ZjFQUWNvdXJiSy0taUNRdm5RMUlkcUpqVUw1ZVp5d0x1TFM2UnUweDBRc1BTQXMwM2lVZWs4WG1ZOE5HSEJpbGtVdldfazViblBSUWUyellpQTJlbERzeXdPNWp1ZGthR3Z1NGdnbTFmME9zNWZtOFc1OTBmOUtDM0NsSlR3Q1NtbGJFbFM4QWR0QUxGR3h1amE4QjR5YW56X2xjMVJLNmRQQU9nMWc?oc=5"
-    },
-    {
-      "headline": "Quest Diagnostics Declares Quarterly Cash Dividend - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-05-19",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1RMRWdmY2FkallFQWpWYy1GMkE0MzZ1dVIzcEFOTm52SDVaUldTNU54ZjZwLXJNOVJFd20zeTR4R1g1ZmdYX0dKcFJvMDJXakgzS1RyNTdlYmJrQ0hXREpXMzJxWnB0R29KS0ZvRVg1bXdvaVU1czY2eklac3JBbDhXYWNERzBVNW5Nc3ZzOUFnMHRRbkxNcEJIN0JubF95VWN5MjVOSDhndw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZzVHaGpYWlJ4N2ZQUFVyWXRJQ2hoRHdNM0ROb0RTTkhkelQ2RjJULU94R01fNkRMbTROXzR6VU10cndMbVpQMzZsVWExcWFRMXhiYno2OUs3U1o2T1ZnS2RlRkZycW93U083Q3B1V3VXd2RyOU80U2hRMEdmUEFwTVdKcHhQMWstaHBJdUYzLVFRTFhqS2l2RVFWR2ZUZ2wxMFQ3eC1NSGptZw?oc=5"
     }
   ],
   "insight": "Tracking Quest Diagnostics (DGX)."

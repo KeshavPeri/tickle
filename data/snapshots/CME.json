@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-23T05:42:28.763Z",
-  "builtDateUTC": "2026-06-23",
+  "builtAt": "2026-06-24T05:39:19.216Z",
+  "builtDateUTC": "2026-06-24",
   "source": "yahoo-finance",
   "1m": [
-    290.1199951171875,
     289.2900085449219,
     291.2300109863281,
     282.5400085449219,
@@ -24,10 +23,10 @@
     261.6000061035156,
     252.5399932861328,
     246.3800048828125,
-    245.1999969482422
+    245.1999969482422,
+    242.25999450683594
   ],
   "6m": [
-    266.3299865722656,
     272.4100036621094,
     273.54998779296875,
     272.17999267578125,
@@ -158,10 +157,10 @@
     261.6000061035156,
     252.5399932861328,
     246.3800048828125,
-    245.1999969482422
+    245.1999969482422,
+    242.25999450683594
   ],
   "1y": [
-    272.6600036621094,
     271.3800048828125,
     273.0299987792969,
     272.8299865722656,
@@ -411,11 +410,31 @@
     261.6000061035156,
     252.5399932861328,
     246.3800048828125,
-    245.1999969482422
+    245.1999969482422,
+    242.25999450683594
   ],
-  "lastClose": 245.1999969482422,
-  "oneYearReturn": -10.07115321097724,
+  "lastClose": 242.25999450683594,
+  "oneYearReturn": -10.730344849301328,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "CME Group stock hits 52-week low at 244.53 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWEpTWkUtQS1zS3NwS3VYdEpZM2lEanJKbTRVNUpQRlJjeTRaTERmYVJxcU10cWMyUkd3ZDdEbmdxOWVMd21mRUxoNjEyMmwyVHB2NUQyaVpSMl81eGY2VkIwaFJ4dlJhWUVwVGdrYmFKTzhkTTc2MmZwLTFvUGUtZFhoWFB0TVJmX2lYMldob3VHTkhnVEVhUGR4NDlrVG9rMmZZ?oc=5"
+    },
+    {
+      "headline": "CME Group (CME) Stock Price Pullback Sparks Fresh Questions On Valuation - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-20",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORXJIVWhqRHlSREUyRHNJTVVSR0Y3dEZHSU5iLWx6T3ZlamZTQnVBdURCTENoZFFrWUlTRU03RXc3WmQtT09uYVpYTFJPVFBJUnRxZTF2VTV5VTc1ODV1VVYtRDc2dWVydHRXd2QzY1Bka191R0drSWRMVnJVeXBwRFBUSFN3MDRHQ0JESTMtaTg2NUI3?oc=5"
+    },
+    {
+      "headline": "Live Cattle - CME Group",
+      "source": "CME Group",
+      "when": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52ZjVWcmlPT2hlZHJFdlA0OUxJN3FmbWdOQUJrdjNmb0ZDc3RselBpcnFjOGtjMm9ieFE3LWU5emR6TnVBYmVTNzRVcDFycjN4SWNPUkluMWI4NmZGWnVMZmZYYTZuMU9GU21CVVMwT1NqOTJT?oc=5"
+    }
+  ],
   "insight": "Tracking CME Group (CME)."
 }

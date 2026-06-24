@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-23T05:42:35.761Z",
-  "builtDateUTC": "2026-06-23",
+  "builtAt": "2026-06-24T05:39:25.358Z",
+  "builtDateUTC": "2026-06-24",
   "source": "yahoo-finance",
   "1m": [
-    36.27000045776367,
     35.90999984741211,
     36.0099983215332,
     35.279998779296875,
@@ -24,10 +23,10 @@
     32.959999084472656,
     32.5,
     31.729999542236328,
-    30.790000915527344
+    30.790000915527344,
+    30.329999923706055
   ],
   "6m": [
-    24.59000015258789,
     24.579999923706055,
     23.969999313354492,
     23.450000762939453,
@@ -158,10 +157,10 @@
     32.959999084472656,
     32.5,
     31.729999542236328,
-    30.790000915527344
+    30.790000915527344,
+    30.329999923706055
   ],
   "1y": [
-    26.8700008392334,
     27.530000686645508,
     26.81999969482422,
     27.149999618530273,
@@ -411,12 +410,19 @@
     32.959999084472656,
     32.5,
     31.729999542236328,
-    30.790000915527344
+    30.790000915527344,
+    30.329999923706055
   ],
-  "lastClose": 30.790000915527344,
-  "oneYearReturn": 14.58876052795011,
+  "lastClose": 30.329999923706055,
+  "oneYearReturn": 10.170719822825122,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "After Plunging 14.5% in 4 Weeks, Here's Why the Trend Might Reverse for Dow Inc. (DOW) - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGcW1ESHplS2RTMk9udXN6emlweURaeW1mVUxCQ3Vwd1hrNU1NRXhQR2hreURiSzE4X1VuWEZzc2EtdVFmUlNXUTFndDVoM0t5dTNBT1BONHVxNTdmVExqcHJ2b3J1MXZWZlI0Qks5ZGMzenh3TkcwUXFB?oc=5"
+    },
     {
       "headline": "Dow Inc. stock underperforms Monday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOHFhNV9ob2NHa2xNV2tNUW1XQ2I2OTVJUzM1MEc5TnNKYnZuU01FbG44NnlOUW15SVFLbUxXdGp6T3dLMTJHdXpzNEJtbFpUUVVraFFBS080NVNNdnRWQ3NUbTJKWTB2MXpwcW5BNWdDQXhhaHN3TWVoZTdyQVNINzRzdlM5Y1A4YTNTQVVLTDVDTXZaUjZtSV9KR0VURVNVQnRreVExZDR6Vk5hSGVOWkVmdUlKbnNOdEZrcUkzLWUtZ3M4MjhHMEozbWNFYmFBaFJKRkk4Slg?oc=5"
     },
     {
-      "headline": "Citi Revises DOW Outlook amid Emerging Demand Destruction Concerns - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-31",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbGdjSm5iVDdVM3BhMFRWUWFKMU80dnVwM3ZEaFNFRGdiM3pUbFpEN1FGM184SEdrQ0pKR2ZoYXFkdFZxdGwyb0g1Slk3TlM3OThDTFdmMTFPblhaR05FUFBhZ19rSUkxQVNYWlVXX1RBZTNhX2dMblB4d2t1emp3Qm5xMG0ycktsRWlLdW1lT1lieVlDeFdrbVpn?oc=5"
-    },
-    {
-      "headline": "Dow Inc. (DOW) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-29",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDZmS09DMnZoWmQ2QlNXdG42bGxrWHdzQzJNS09NdHJoYy02Q0JlcEJ0VFZodVRVZC1EWGJqajYwYWtVd3cxc25RVW5nSWphTzNUY2NnOXRRN0FiZl9CazZwSkdCSzhHd2Q2OHVlR29DS0pLWUdBa0dWamtiTlZZbkI2dnlhbV8yRFVBRExzVmpPUQ?oc=5"
+      "headline": "Dow (DOW) Gains from Tightened Global Polyethylene Markets - Insider Monkey",
+      "source": "Insider Monkey",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWS02UHJJT2tTa1V3Y09hYmtGTGhnTUdoMVI1b3lfSFNBLXhtaG8xYThScmJaWGE0Wm5lRktxcVJwSHlWT3EtbVV6TzB5TjRaUURJX2RQWld6bXhHSHd1SFRfazJ6MUo2ZFZGNFUyemxmQ1ZFakk4eXpyTGpHa25ZYk9PTEJibWZudzgwVGFTVTFDT2o1SW14YXVYRW01M28wU1HSAaoBQVVfeXFMTkRSd0NSdmFfcm5KaTJLZ0RRVUt6SG1YS2I0QXRUUTFMNGctelNJOVdIak1iODJJNGNNX0dGeEVVQk9ONVVIMU5pcTF2WGVTQjBVUUg3V0FFWmVyWG9QNXFIX1ZlWDhIVVNYMGpMWGZDN0FabW51RlRHei1MUndFMjMwbWZ0T0Q2M1Z0YzdoeEdkZHNDcFJ0MXdEYURTR1g3MEZVQUNPNVpLanc?oc=5"
     }
   ],
   "insight": "Tracking Dow Inc. (DOW)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-23T05:42:54.595Z",
-  "builtDateUTC": "2026-06-23",
+  "builtAt": "2026-06-24T05:39:41.878Z",
+  "builtDateUTC": "2026-06-24",
   "source": "yahoo-finance",
   "1m": [
-    41.959999084472656,
     42.810001373291016,
     43.7599983215332,
     42.119998931884766,
@@ -24,10 +23,10 @@
     45.09000015258789,
     44.040000915527344,
     45.060001373291016,
-    43.68000030517578
+    43.68000030517578,
+    44.880001068115234
   ],
   "6m": [
-    58.97999954223633,
     59.47999954223633,
     59.65999984741211,
     59.459999084472656,
@@ -158,10 +157,10 @@
     45.09000015258789,
     44.040000915527344,
     45.060001373291016,
-    43.68000030517578
+    43.68000030517578,
+    44.880001068115234
   ],
   "1y": [
-    54.09000015258789,
     53.790000915527344,
     53.0099983215332,
     53.189998626708984,
@@ -411,29 +410,30 @@
     45.09000015258789,
     44.040000915527344,
     45.060001373291016,
-    43.68000030517578
+    43.68000030517578,
+    44.880001068115234
   ],
-  "lastClose": 43.68000030517578,
-  "oneYearReturn": -19.245701272038268,
+  "lastClose": 44.880001068115234,
+  "oneYearReturn": -16.564416612307763,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Lamb Weston Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaFZSS3kzdGYybWprc2Vtem54c3Y4Wl9QLVlqd1M4M05NejZ0RTlPYzhxUE1Zc2VibEJpa0xnMEVDemw5a2F6Uzc5LVQ1NXBQeWdmLU9SNW9MeWhLRkpjTFhBdG9hYnhwU2xGQU9aRnFFM3NpRk5ZaXI4WUpSYmI3RG5QQ1pCV0l2UHFwa1lvS3h6UlF1OGVIWEdvY2NlWllTRzkxWjFpb1ppUExLMzR3QTM3R2VMaERfbFZnSnlOYU9qZmotR3drek5qVDdSQmNtNkVPdWRpYjIwdW1TeEhaZUJVUkZnRHp3akE?oc=5"
+    },
+    {
+      "headline": "Why Is Lamb Weston (LW) Up 10.7% Since Last Earnings Report? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-01",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlRMT3MzdWQta3hzdTI0b0lQWG1yVzFaaUhILVR2TDFYd2VmMlNvcm1qX1MzT1lpWnJKYm9hZVJ4d3d1WGIwOC1hOU5xaGV3MGw4dGdSSV9reXkwNUtFZkJpRFp1YURVUjg5M0FGSXZLVGs2Njd2emFzS3NLdGlfdElydWdzbUdOQWVFd2ZCQQ?oc=5"
+    },
     {
       "headline": "Is Lamb Weston Holdings Inc (LW) a Bargain After 3.1% Drop? GF V - GuruFocus",
       "source": "GuruFocus",
       "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzMyUERwMUhZYTRmUnpGa2R4ZDM4Rmt5OWZUaFVydzZIc0pRTkhpbmR3ZTZfc2VFaEhuVC1VTDhFY2FEZXFQYml3SmNyc3JoYV9PRVAxUDdoX1BmMF9MVGRNU3dEcHdlSG13RTZrb2pPeEpkeWR2QkRSUVpZNmE1ejJJR3FxZWpsYmpqTEdNNkhGSWVDdUNxcElqeVYtMEFpdlNWamlDaTBQb0ZEdHlMUy11Sno3SUwxX0Rr?oc=5"
-    },
-    {
-      "headline": "Lamb Weston Holdings (LW) Stock Could Be 2.7% Undervalued After Lawsuit And Plant Closure - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa2w2N2NDLU1qMm1pY3RtLVZ4THZialhhb0tFakxlMUw2SXB4QnBkMUFld1Z0Q1FjQnVMMjlaekpGY0Zac1Zqa2UzMEMwNnd2UUx6UG5aNFNCOHV4ZDI2bXFfQ0Nqb3Q0ZVBNSDl5S2lNVTMxcmNOeDkzTEZyNG9udUs5QWNxa0NDdFJ0Sm5xcUt5R0lhVkptX3BsX0VxWWQtTG9JS3RjQVBNdFF5OU9TM3hqb1VGQ2NLRl90TkNwS0RtZkVtb0NDT3doOXZsZDRLTzh2UUZZR1VaRDRXOVpjM9IB5gFBVV95cUxNYTFWLWdReTVfaVhKcjZCUmhvZ1BHc25fZ1ZJNFpGeE1kMXVqSFBGNmRoSmNOSHVNZE1Ubk9KWERvUU9ObFgyckhYaDlDZ0JlSkhMaDdMWXZURnFaWU5obFNyOUpxNFhoR0ozbE45TlY3cTVrUy0wWnE0UWdSME0xdHBuSjRsbF9Ya3RfVm1QUHFJa2hFaXFnSXR3Z045WE9VM2I0aTVUS2ZNbDZOV3c2UTVpMnFsU1lRRDR3WTFNdEdnT0RNTDZDUVU0dHVOeTRRd3F4eXBiY3l0U3pKdDdmNkpXTVQ0dw?oc=5"
-    },
-    {
-      "headline": "Lamb Weston Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaVMtSUhTbVU4dmJENHp3b2loeWxxUDdOcklQT3BUZnRNZVI3T0tMdHZXM2pmZHF2VU9OTWtXVlZaVWx4bmthcFo4b1NLR0ZhVzhRM0tSYkhqQnRPcEs3djFkSV9JR1FseWNITGN6aGo5bmZkUnJTbVkyQV8weTRJbUpJb0E2UFk1Tk0zdmNocUpwWG5zNG1DQWpYaFdSVXA1Q1RHVVNuUS15NkFiaW1Ra095alVyYV91a29WbEhFcTNYWTBPVG5US0hnb2podE0tUUE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdXhNMFZyYXlrRTY4STF2SzFaYWh4VWZrS211ZnRxVER4RkVlMXAzcFVaQXdDemFTaHR3SjZEUjM3VG4yX0RWTktSMGU4QWtZZFBTR0pCNEd3WU5kTEpMaEpscHF5dnc2aWtKZFJqdy04eXh0VHFNcUtFcm5zOG90c0J4QkNXN0E5NzlPblFLV05XS0M1cl9lUi01a2tpZU41VkpiQkJNSmx5ZG50ckRqc2R1cVZjN0E3cGc3NFIyTTZURG5MOW0wMWFoVQ?oc=5"
     }
   ],
   "insight": "Tracking Lamb Weston (LW)."

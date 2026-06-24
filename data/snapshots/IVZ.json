@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-23T05:42:51.498Z",
-  "builtDateUTC": "2026-06-23",
+  "builtAt": "2026-06-24T05:39:38.954Z",
+  "builtDateUTC": "2026-06-24",
   "source": "yahoo-finance",
   "1m": [
-    26.979999542236328,
     26.979999542236328,
     27.049999237060547,
     27.690000534057617,
@@ -24,10 +23,10 @@
     29.200000762939453,
     28.790000915527344,
     28.139999389648438,
-    28.780000686645508
+    28.780000686645508,
+    27.020000457763672
   ],
   "6m": [
-    26.93000030517578,
     27,
     26.260000228881836,
     26.040000915527344,
@@ -158,10 +157,10 @@
     29.200000762939453,
     28.790000915527344,
     28.139999389648438,
-    28.780000686645508
+    28.780000686645508,
+    27.020000457763672
   ],
   "1y": [
-    14.930000305175781,
     15.289999961853027,
     15.25,
     15.579999923706055,
@@ -411,29 +410,30 @@
     29.200000762939453,
     28.790000915527344,
     28.139999389648438,
-    28.780000686645508
+    28.780000686645508,
+    27.020000457763672
   ],
-  "lastClose": 28.780000686645508,
-  "oneYearReturn": 92.76624312370811,
+  "lastClose": 27.020000457763672,
+  "oneYearReturn": 76.71681180625104,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "INVESCO Ltd. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcHJhekJYVHl2c3kwcUFUNWtUN3RoMW9wVjZPRTUtS1gyYlZsY3Iyc1Q3Y0llNG1mMTNaNFZPY0x0c1BDX1JJZ3VZMU01Yno3SUwyR2EzT08wY21GU1F3dDdmVURfMDZTRktZRlh6YUtoN2tVcC1fcTNYXzcxVUFWZTZ5dFg0ZkRBc2RMVUFkS05NVUluRFpRT01ocVVkR3VfZ1B3WVRjQ0swY1ZmVHBmaDQ0ZHE4SWh0UWRIRzJQVGVnUV91NWxn?oc=5"
+    },
+    {
+      "headline": "Why is Invesco QQQ ETF sliding today? - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUk5JeHo0TjB6LTZiWWk2SHp5UHhwV0c4VmRLMkQ4aWphX3JNdWx6ZDFSalRnY0x5b1FSblVOWllGTVlvblk1RTJ0cFVyVTA3cHF3OWJ0UE5iYnhuX2FoeUdVdmFHNzFBaFc3Yl9KQ1NBRndaSzVFTU16VGZYV09uT3JqOTJOSlU2TFlTMlhXTkhKWm1qQzVQbmZrTmNyZEk?oc=5"
+    },
     {
       "headline": "This Flexible US Stock ETF Moves to Buy Low and Sell High - Morningstar",
       "source": "Morningstar",
       "when": "2026-06-19",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ2lua0N0QTd0Um1rZUlxY1oxUlNxTTFJdUVkTVdLdmdWSFRvTkowVC1lR19nSXBBX2JVeUk3RllxQmNEd29vQjBnaU1RTWFSNklDRlhUbTdKWHBFNWtnVUl1YkN5WXRERFNwZTdvRU5BTjBra2dOTmtHTjA3UVEyWU5qaTRubmtFaEsxRndCNXpHU0NzRkVJ?oc=5"
-    },
-    {
-      "headline": "What stock market pessimists may be missing - invesco.com",
-      "source": "invesco.com",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FRVlKajFUV2ZUYzAxbzJqU3dGWE1lQUZOc0RHWTdWNHk1TEhRYWJreUNrSnRXUTJqM0NSVE1qVzJzeDFoc1hrYlN1UlBmUTMwazdUNGg5VWRaSnplSHNaSE1zOEZqdFVjaEVJS3RGMkdib3lZVHc?oc=5"
-    },
-    {
-      "headline": "Invesco QQQ Trust (QQQ) Stock Price | Quotes & News - Moomoo",
-      "source": "Moomoo",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUVctVkNNbE03UzYtMm9XRzVyOGxodDM1Q0cxMk84Q09fcWpjb3h4VWswUklmcC1ESHNKekMwVF9DOEYxdk1PYTlTV0plNUh5dDNBZnRxQWFnZk1HNXFJQ2NsSHV0NzB4STRNU2djLXRuUHh2MzJ4N1J6N1QtSkFsdFFNd3VpNG93Z1pHZ1RaWURGOUl1bkZmVjVjTWgyNDh0dzZFeG14dVYyQU1Mb3pKUl95aVpHR1F2M3MxcWNhbWtnZjFLQ0Vsek5GU19kUFQ1OHdhUkhSNTF4bmY4V1U2bkJvZWNHOUNPSjhQNml5b0pObkR6QU5vai1yTVlaUGx5T2c5ZjNMdFkzWmJKZmRRbFJkeFZSbVFTMDFQZjJB?oc=5"
     }
   ],
   "insight": "Tracking Invesco (IVZ)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-23T05:42:37.961Z",
-  "builtDateUTC": "2026-06-23",
+  "builtAt": "2026-06-24T05:39:27.296Z",
+  "builtDateUTC": "2026-06-24",
   "source": "yahoo-finance",
   "1m": [
-    69.73999786376953,
     70.31999969482422,
     71.18000030517578,
     71.23999786376953,
@@ -24,10 +23,10 @@
     72.05999755859375,
     70.9000015258789,
     71.88999938964844,
-    72.19999694824219
+    72.19999694824219,
+    72.94000244140625
   ],
   "6m": [
-    57.4900016784668,
     57.93000030517578,
     58.310001373291016,
     59.09000015258789,
@@ -158,10 +157,10 @@
     72.05999755859375,
     70.9000015258789,
     71.88999938964844,
-    72.19999694824219
+    72.19999694824219,
+    72.94000244140625
   ],
   "1y": [
-    50.15999984741211,
     51.38999938964844,
     50.40999984741211,
     50.810001373291016,
@@ -411,12 +410,19 @@
     72.05999755859375,
     70.9000015258789,
     71.88999938964844,
-    72.19999694824219
+    72.19999694824219,
+    72.94000244140625
   ],
-  "lastClose": 72.19999694824219,
-  "oneYearReturn": 43.93938829321424,
+  "lastClose": 72.94000244140625,
+  "oneYearReturn": 41.93423488558877,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Edison International $EIX Holdings Trimmed by Brookstone Capital Management - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSC1hNXZhTi1QeWg2WTNSZDVlU3FPUGtqa2l6WmozSmhoMXJLWGRGVXNSSDE1anhWZVJ3MkkwUXVYVG1nUEExSUV0MURTbWMxTm8wRWJYT3dLeDVDZmF2MGhZOEQ3ai1uMWlhZjV5SWdkdFdZSlptMXlTNThCUmpqT2ZodGgxdlppUEJTcWxFRmtoR2paSkcyWXQzV2l6YnRaTXhoRXY5ZXlLb01ld1NLLXdscTRrREJDNTNubjB4NTZiMHZ4TmpldGxZZWlxRm56?oc=5"
+    },
     {
       "headline": "Edison International (NYSE:EIX) Shows Strong Technical Breakout Setup with 7/10 TA Rating and 9/10 Setup Quality - ChartMill",
       "source": "ChartMill",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbXRNaW54TktJdVFmRTNlNkdSRUFnY2xPa2VPYU82a1J6TnlLeGpVT1U1V05sQkZQemtyelZDdUtqdGE4ajROYXJxbk1uS0NfNElXWmcyeGM4NmhGX1pMUE9UWFBoejhHS2dzMHl5dzc3NllvQWg1a2ZHTDZFYXFSamNLNnMxVFJRT2RYeEZSM25yUFBDUzAyNmJDd2lacVRxSFBpYlU3NURBS0JKbWRFZVRBak9Pd2JlMGdRMmxzSllnS0NDdEl6bUxrQ0o1LWNSY294TE9FYWlSQ1B6X0tHLVZaLWJ6TVpHNjRZd2tqSQ?oc=5"
     },
     {
-      "headline": "SG Americas Securities LLC Boosts Stake in Edison International $EIX - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTM5a3V2MWJHWUt4dVJWQlZORDNmbjdobE1Cc09RWlZrbEFNUzhzWWg0QmNCQWV6dEdPOXY5MzB2SmVzdmN2YjVYWWtseC1OXzRMNlpqRmJ3eHBfdDlsd1lGSEN5cFNMNnlUcDZGal80V0dkeDJUMk4yXzdpZlBPTDB2bkEzRjVrclV5WUhtRF9wWjdRTzNFTU9xRWp0eUJUZnFxV2Vmc1BpMFR3N3JFUXVraFd3cWZzTmgwMGp0MDdnWWxtTWpJ?oc=5"
-    },
-    {
-      "headline": "Edison International (EIX) Stock Could Be 44.40% Below Fair Value Despite Grid Growth Narrative - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVHJnN1NpX3M2em5CaXBseVd4b3U0cTdzUnFRaFNZQXAyUjYtbktDOGdoemViQmxIbks2RnV0d3NYWk15WHRuczZmeWwxS01QNEhqbVZfZmtBSFd1NmZHYWYxcXJVVmtpSndWWW9iQU0wOUdXZElaSjRUcVhpSTZBb29rSnczdmlJeUJXQWdrQW9jREJwbWQ3ZWk5U3FvUVlRUFpYTHBzWXd5VGRtMFdDX0M2UWhueGVNN2pBc0w4ajRISmNqUE1FT1dDeFVrdUtEUnlz0gHYAUFVX3lxTE55RmV2Qi1NcEhsUGdTQ21SNUZWM1NrZWtlVUVBYmhCUUNPSW1HdzBrdmlJeGZTRmZGd0M1dTFvc0ZUbnpIZEVOZWRzVUE0eXN0aUIzTWFiOHhCU1BCSzlLa0NabXUxMTlVZThPTVZuZkttSU9TTnhRb1NYclVZUlpaNy1wbVBaUGdmTTVsTGU2VTJIa3VyLXpza09VMFpVZUd5cjJ2MzJqVVVkWGRiWmh1c0ExQzdBbDRmbzBKOHlUd25MYlo0TlNXTnFaYlBYNml4Y3haNjNVZQ?oc=5"
+      "headline": "Edison International Stock: Is EIX Outperforming the Utility Sector? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdERkdjFuejBVdGM5OUtzT1NWaVAzVXdsb25WSFRsNkpWWWZLcjBtR3p6RTdVcV92dWFVUWlpUWhNdmI1TzRXX2FUQloxNW9ING0yWGR1N3p2d29vckxxVDh6ay1PVzdlM2Y3WU9NUFhRWm1RVGpPUDN1NUtfbFdzWnRBUVBUY0xod09mSFA2bUIzd3oxd3pjRDNJMEk4Q2doakxhMFlzck52Y2xjTkE?oc=5"
     }
   ],
   "insight": "Tracking Edison International (EIX)."
