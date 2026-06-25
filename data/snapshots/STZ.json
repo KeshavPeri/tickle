@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-24T05:39:51.294Z",
-  "builtDateUTC": "2026-06-24",
+  "builtAt": "2026-06-25T05:43:02.424Z",
+  "builtDateUTC": "2026-06-25",
   "source": "yahoo-finance",
   "1m": [
-    150.8300018310547,
     149.5,
     147.63999938964844,
     143.72000122070312,
@@ -24,10 +23,10 @@
     138.9600067138672,
     141.17999267578125,
     141.50999450683594,
-    143.3800048828125
+    143.3800048828125,
+    143.02000427246094
   ],
   "6m": [
-    149.5500030517578,
     147.4199981689453,
     143.47000122070312,
     142.58999633789062,
@@ -158,10 +157,10 @@
     138.9600067138672,
     141.17999267578125,
     141.50999450683594,
-    143.3800048828125
+    143.3800048828125,
+    143.02000427246094
   ],
   "1y": [
-    164.49000549316406,
     161.52999877929688,
     161.32000732421875,
     161.3300018310547,
@@ -411,12 +410,19 @@
     138.9600067138672,
     141.17999267578125,
     141.50999450683594,
-    143.3800048828125
+    143.3800048828125,
+    143.02000427246094
   ],
-  "lastClose": 143.3800048828125,
-  "oneYearReturn": -12.833606848671947,
+  "lastClose": 143.02000427246094,
+  "oneYearReturn": -11.4591683567872,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Constellation Brands Earnings Preview: What to Expect - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSXVGRVpyZjBMNUlBSWtxWEFBd3BhdUl4QWdyTUFYcEVsNDNnemZDd194d0pUVnBwQlAzaVRpTC02LTdmbXc5MFktSlNHZFJ4TmlWLUROQ1BtcGpmRk55Qm9EUnZueDNEOEduaUdJVFp3ZW92Q1RuLXlSM1F3ZVQ5OHdaQ2ZYcFFuNWUzV1R2dVE3T0c0NGNjRmhQaGJfemo2VTZBc0ppR19TR0N0T0E?oc=5"
+    },
     {
       "headline": "Jefferies cuts Constellation Brands stock price target on margin concerns - Investing.com",
       "source": "Investing.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcy13TUl6Rl9XaHBaMm9FZ3RTQVBNektvVlJ2aXNhdEJWYjNnbHA3MDBjNHBDR2RoSDdvMGZZVzZnLTdhUUpNY2FhZG5KQ014M2ZaV2xXRGVpU1lyZGVtcVFYUmVEZmdNSkZhUWthN3dudTNzOWw0SlFIcVlyWUpvMzNhd0N3TzBHR3poSEFtSUdWYVU2ejl5UEhKZ3FzY2ZFQS01eDVsS0xVYjhKcG9yV1ZoSmxZSzFkcHE0X3c2UTNnelk3VnlwQzhoblZIZw?oc=5"
     },
     {
-      "headline": "Constellation Brands Stock: Analyst Estimates & Ratings - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-25",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeGFabFVyU1BSUVR1ZGtNWW5ZdkhwbVlfNlFYQ1FKQmtLYjlSQ0hUc3hUb25HWGZyY2FTYXREMlQtTmFxUEhXVG9adnZsU1l0dGZfN3VWSzQ2LVdfaUZIZFFCOWZ1VUxSc1g1RFZmQlEwak5kNXNaQkhlSlRjckN1c3hOSC0wUzN3cndZd3Rqal80d1E2azV4OF96NXhZT3JxT19LdG4tVVdTZFVCTFE?oc=5"
-    },
-    {
-      "headline": "Is Constellation Brands Stock Underperforming the Dow? - Barchart",
-      "source": "Barchart",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeWR3eGczZkNVWjZtaUdZeWYzSkZZQVh0WjA3NDJOR3RjcnU2OGNzRmxHYnFFU193MkhGUEsxWFFzWnJBNFc2bjBja0NkVHUxMk1hcG5ONTdXSTlONXh3RDZBVkhZUE9ZZ0loN2ZQZzBDQm82eFowZ0JzX0Qyc3RMeE96c1VwcDBTWFR0TXFfVlFJbFBoTFg4T2lON1hkUQ?oc=5"
+      "headline": "Constellation Brands Inc. Cl A stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR1dHT09TQ3dfZExibWNTem4yLVdUZDlQLXNNSzlOd293NWNnUDlxQTludm1iRzVhekUwNzhiR1RpX1VRWENZV3daMUNyaU5ORS1oZzZkbGpYWkVCZFN0M0dVWlZVLWNteVgzRHc5V0ZwR01kU2VwalZxYkcwWTlPUkE3WS1ZRWQ4cGYxdkFPaUxROGp1amVtNzNaUE5oWDhWZmJYRDhpQnY5RTBrejdwZEc3YlFhQmNwRXFHRzZnSTJTQ1pvak9xZ3lObGZPWll2TXV5UUhRYnFLeTMwZnc3ZGJIWTNmbTlhdVZGb2N5d3g?oc=5"
     }
   ],
   "insight": "Tracking Constellation Brands (STZ)."

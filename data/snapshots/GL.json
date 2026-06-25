@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-24T05:39:33.176Z",
-  "builtDateUTC": "2026-06-24",
+  "builtAt": "2026-06-25T05:42:42.755Z",
+  "builtDateUTC": "2026-06-25",
   "source": "yahoo-finance",
   "1m": [
-    156.60000610351562,
     156.27999877929688,
     156.75,
     154.38999938964844,
@@ -24,10 +23,10 @@
     171.25,
     170.75999450683594,
     172.0500030517578,
-    175.5800018310547
+    175.5800018310547,
+    175.63999938964844
   ],
   "6m": [
-    139.0399932861328,
     139.4600067138672,
     140.64999389648438,
     140.74000549316406,
@@ -158,10 +157,10 @@
     171.25,
     170.75999450683594,
     172.0500030517578,
-    175.5800018310547
+    175.5800018310547,
+    175.63999938964844
   ],
   "1y": [
-    122.91000366210938,
     121.41999816894531,
     123.04000091552734,
     123.88999938964844,
@@ -411,29 +410,30 @@
     171.25,
     170.75999450683594,
     172.0500030517578,
-    175.5800018310547
+    175.5800018310547,
+    175.63999938964844
   ],
-  "lastClose": 175.5800018310547,
-  "oneYearReturn": 42.85249092802882,
+  "lastClose": 175.63999938964844,
+  "oneYearReturn": 44.65491849642489,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JNVdBX2FnVHhGSWd3OV9TU01sRXNtak5QbG9LbUd2NUYyWDUtX1gtM2VHS1RvbmRramZZZmNSUjVGSnBqc1BlVjhYNFRudw?oc=5"
+    },
+    {
+      "headline": "Is Globe Life Stock Outperforming the Dow? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkRLRmRTYzR5ME04aW5sTU82S3lxdmFjQ0ZOV1dBZzN0di1ZZ3p5X2xYZmpRMEp3MEx3b2t1SVlMbVFFVjk0WktDelNSV3RCQWtRZENXYW0xYnFqSFZ1ZXVSaU9yNGRSWTVMMjJhRUZlLUFjQ0RBWVk1elp0RUZqTGYxcEZqZS00Y1JGWkdR?oc=5"
+    },
     {
       "headline": "TD Cowen raises Globe Life stock price target on growth outlook - Investing.com",
       "source": "Investing.com",
       "when": "2026-06-23",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR0RNUjU3THdvNFZmTFhIVWJ3VEx6WkNZZW9Uc1ItUmJHNHFjV1FEdkoyb2NjOU9RUGpORjQzQzd5eGlHUEJxMlREZkZqQWVObV9Wa3Z6TV95WHZfUUlEQlNhalJSaWphRlhSY094NHpsQmlBQmdqaFhwYUNFNHVhWHJ0WEZCWWU2OVppZ2wyTXlKenpyVm9Ya2xhZy1kcTJIcUlJS0VadXE4R0dxNkpGZTY1UzVvZWxmdTJsNDZJc1k?oc=5"
-    },
-    {
-      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JNVdBX2FnVHhGSWd3OV9TU01sRXNtak5QbG9LbUd2NUYyWDUtX1gtM2VHS1RvbmRramZZZmNSUjVGSnBqc1BlVjhYNFRudw?oc=5"
-    },
-    {
-      "headline": "Globe Life (GL) Stock Could Be 2% Overvalued After Strong Quarterly Growth - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZTRselZxcVpEUmR0cWVTanVycjR0b2FsdHp2QWZNc3FZbTliRnRUa0Vvdl9mY1p3QU5UeEJ5ZFNEbmlneHJfcE52QVo5WTNOUlNsU0h4b0FRODh3UUdxSS1NZ25RWVhGUy0tWW5sODFQSzd6UDFVSXRycDgzNzYwNGRkNkN6Z0JRcklPdFZsM0t4bmM4REJfMWRIOUZrZEZ5M1o1azY3NWRURXlNQWpNUG91cElfWVJkM3hJclhqTmtFTjUy0gHKAUFVX3lxTFBIMlV4N0szYld6ZHFHN1k1clBLcm8tcjJrSllkcENjNW5FeE9iMG5DNW5CUFVZeDREc19ZdDFCWDdoNDdyZ1FwNzZCRTJFbjQzWmNhNGxJdnVhV3ZmVTVhX0FvUEZBVXBKS3d5UHVZTEItVG8xV1ZNcTh6cVdITmljYjFxSmh1VjJOZ2xMcXlJZUFQdUxxWXFxUXMtMGEwSG5qLURXaEh3R0p2Umk5bEhSSl9LakxJTHR6NUpkamlya0R6M01JY1VyQ1E?oc=5"
     }
   ],
   "insight": "Tracking Globe Life (GL)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-24T05:39:55.891Z",
-  "builtDateUTC": "2026-06-24",
+  "builtAt": "2026-06-25T05:43:07.401Z",
+  "builtDateUTC": "2026-06-25",
   "source": "yahoo-finance",
   "1m": [
-    48.27000045776367,
     48.349998474121094,
     48.4900016784668,
     48.2400016784668,
@@ -24,10 +23,10 @@
     45.84000015258789,
     45.369998931884766,
     45.36000061035156,
-    46.72999954223633
+    46.72999954223633,
+    45.68000030517578
   ],
   "6m": [
-    40.220001220703125,
     40.88999938964844,
     40.79999923706055,
     40.75,
@@ -158,10 +157,10 @@
     45.84000015258789,
     45.369998931884766,
     45.36000061035156,
-    46.72999954223633
+    46.72999954223633,
+    45.68000030517578
   ],
   "1y": [
-    42.630001068115234,
     42.119998931884766,
     42.099998474121094,
     42.310001373291016,
@@ -411,29 +410,30 @@
     45.84000015258789,
     45.369998931884766,
     45.36000061035156,
-    46.72999954223633
+    46.72999954223633,
+    45.68000030517578
   ],
-  "lastClose": 46.72999954223633,
-  "oneYearReturn": 9.617636339182864,
+  "lastClose": 45.68000030517578,
+  "oneYearReturn": 8.452045260134375,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Alphabet to replace Verizon in Dow Jones reshuffle, shares rise - Yahoo Finance",
+      "headline": "Verizon Just Got Kicked Out of the Dow, but Its 6% Dividend Yield Still Looks Solid - Barron's",
+      "source": "Barron's",
+      "when": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FRnRLYjBMWXhHcWhpZ3BCLUNqWC1pSDJWTmVpRmYtWnY5dGNXSFl6bnpDY0pwTDhTUVhFUHl3VC1VOEY3WkJsczNVZjZaanN4TjB4RVkwNzZwNTNzMXdWclRxSmlMNlM5T0E5dHVkeVNTVXBYVWVHLUY4TzhKYUU?oc=5"
+    },
+    {
+      "headline": "Dow Jones Adds 5th Magnificent Seven Stock - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMGZWWDdsRl8tRjRfZXdjaF9TeEJLaURPcnFMSHBLTzZKdVNUMFdGdXZXTnJXakJ2WlVjSDZIOUxZN0VzV2c1M1JlamRIVjBaZzFNN1hqckRJNndJOGxuZmpZVHZmdlJ3SGlvMnZQUkowNFV5Z3dHMWVNTVhqU0M5d0lhaTNsampxUGVmSG5WNks1cGVBMFE2eEw0MmVGekhFOXNyOGc1dVZDUQ?oc=5"
+    },
+    {
+      "headline": "Alphabet to replace Verizon in Dow Jones Industrial reshuffle - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ05Ub2Y5dmE2MWtmSkFBZjhsdXlhUWdYYzR0Sm04Y2l6RHp6ZmhyN2doa0twTmhwemxUMXdUUVFHNUoyTVJQekdGN1VneDNhYlVJcTdTT05TaC1pZmJZM2lVblAwWFNVeFM3eENadjVQZ29lQWJaTDktMUh5aEpCWk5HdU5JS045djN1MnRadGNGYWRCRzlZcHVBam4xeWhobkotSG9DeEJPQUJMUmM5bWh1R0d0bWc3bE02RXNrbkpQV2RY?oc=5"
-    },
-    {
-      "headline": "Alphabet added to Dow Jones Industrial Average, replacing Verizon - CNBC",
-      "source": "CNBC",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZaEdfU2tndXNDdVlkZlRRR09BZW9nWldPM25rSTdtM2s2TENGemQzdThqVTg0QmhBZEozMVZEWmFlNE1RSE1iU2RGYXFCb2xROXB4REcxVHJHUzM4S2NyVDkyc2g2MGUzRGwtUThEVdIBdEFVX3lxTE1QaHB1MnE4bmRhZk81VWJUeVlBZUZSaGIwRndDeUJha1lVaGNZTEhVOUdrUU5QcGxhVENVMmJ0TFAzdHNRR1JpNGZzdkZoVzJFdVUtQ1k3NUtCTUtyTkNFM3dMSDBCRzZGdjdxR3JQVFJuUEhG?oc=5"
-    },
-    {
-      "headline": "Alphabet to Join Dow Jones Industrial Average, Replacing Verizon - Barron's",
-      "source": "Barron's",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSFo4TUhnQUFxNlZnNTAyb19UQmtJOW9SZ0ZWb011eVYzV01MbFhjVmJkdnV5TE1MMzlxWHpDVlpObHBRVU9jbU9IOTJ5d0RfMmNaZkxzOFVrNjRrUmpmY09hLXg5aC00V3pJdTZsbVVuMGF1allPcFlyQmFKWm1jSDYyX2RUWEJLWktrYTdFTS1xQnlPbm5CTA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFZYeEFmZzA4RkljLUJmeERGSTUwWlZYS1R3Wl80TlcwQmRZTFZDNWo3LXk3TnRwS2tlZXhDZ2Fqd254MWZqZjFUTmlNZXdwdVRQUGZlS3F1dnJ6VHlVcWtXYnhqNUdqdk5xRHhsRWJsWUlMdnkwRlo1ekhUSUlUNjZjSmpHRTZ1eDVMblBqWXUwaVEtZmFSYVFNZ3E4TGRUSXQ1MkM2VmxXVmxubm5QTDBLTklUb1FCRkYtUnMyb1hJQVk?oc=5"
     }
   ],
   "insight": "Tracking Verizon (VZ)."

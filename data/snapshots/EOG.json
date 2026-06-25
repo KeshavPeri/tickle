@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-24T05:39:27.809Z",
-  "builtDateUTC": "2026-06-24",
+  "builtAt": "2026-06-25T05:42:36.307Z",
+  "builtDateUTC": "2026-06-25",
   "source": "yahoo-finance",
   "1m": [
-    139.97999572753906,
     141.22000122070312,
     136.1999969482422,
     134.3000030517578,
@@ -24,10 +23,10 @@
     133.25,
     129.97999572753906,
     132.8300018310547,
-    134.89999389648438
+    134.89999389648438,
+    134.4499969482422
   ],
   "6m": [
-    109.51000213623047,
     108.01000213623047,
     105.93000030517578,
     101.77999877929688,
@@ -158,10 +157,10 @@
     133.25,
     129.97999572753906,
     132.8300018310547,
-    134.89999389648438
+    134.89999389648438,
+    134.4499969482422
   ],
   "1y": [
-    120.68000030517578,
     119.81999969482422,
     121.12999725341797,
     120.80000305175781,
@@ -411,29 +410,30 @@
     133.25,
     129.97999572753906,
     132.8300018310547,
-    134.89999389648438
+    134.89999389648438,
+    134.4499969482422
   ],
-  "lastClose": 134.89999389648438,
-  "oneYearReturn": 11.783223032274652,
+  "lastClose": 134.4499969482422,
+  "oneYearReturn": 12.20997937796684,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "EOG Resources (EOG) Stock Could Be 16.9% Undervalued After Encino Deal - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNczZVSW01Q0l2RUk2ckVkMWYzTXBITzU5YlJEUEdkeHE0ZGhLckJpd3JnYm82UzNxZFpGQzZwajU5SkloNHgxOXJOcHNBVmI2eUNtcU8xZGhMNVJxU1Zyek5wV0tNYy13ZTdCM2U5eFZaMEVnWThDN05XOXVpT0twZ1JWSXZYRU93Z21fNGpXVExJRlMyRzhBOUpBSWJhT3ltcEwxVDR5NjlaSnhwcnZaczNTZms0RVNHeUhVVy1MYWNPWW1NZVHSAcsBQVVfeXFMUG1iN2ZCSmNoTHpmZW9MZi1uVXFJWEdpYnJRU3pWdmxWU2RqblNJVnVjZ3JNbmF1YW4ycVpNa0h5NVR0U1hOS3RZUFBEaEYzLWRoOVFTNU9TaVU0ekR0NHBMMjlRSzBlUndZeGl6OWdhWktGT050a3FpSGo2dkhocEg2bmFXb29WQlltRXVGSlpOb0IyVHI1NFRfMGlEOXRCUTdpSV9uMU9jMmdOa2ljUnJXek0yRFpaMHM0NFNjVDNZX2w1VFpUXzZ4Q2M?oc=5"
+    },
+    {
+      "headline": "Is EOG Resources, Inc. (EOG) A Good Stock To Buy Now? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-09",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3dlMzdSaFpzODYzcno5a2hoVElCRm1hcTFxQ0ZZdm5fZ3llMjVvSFdXYlRuMEFEQ0dIMjNtMml0dHJSS1I1U2VqVGE2aW1IOEgyQklkOVFoNU5CbzF0eEJJM0NILU9wQ3NMSFVDcFR5LV9jc1pwWS1vNm5Jbnk2Y0dzNE1WajZfSm9HbWFhZmJnQXdVV3c?oc=5"
+    },
     {
       "headline": "EOG Resources lines up Aug. 5 results call and webcast - Stock Titan",
       "source": "Stock Titan",
       "when": "2026-06-23",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPXy1ZRkJrbU5HSGNlM083SHdFLXRkM2E5VHRBY3lUWlpFT3ZKVEtJOFg0YUpheWpMRndUdFFLY0ZTT0U5WEZTVGlwNVBydTVuSXlSR24ydWVycmVmaEZEbU9XaGtFYWFIRkFvN3RLSHRtWi1EZzFDMHMzcHFPSndjTUtZMUtoR3VCd2htMVlpSUR6WUI5S0xmWTdwVEhoWGdBamZVeTZMNm84ZzBwWTBxUGtGU0VzUQ?oc=5"
-    },
-    {
-      "headline": "EOG Resources (EOG) Stock Could Be 16.9% Undervalued After Encino Deal - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbWI3ZkJKY2hMemZlb0xmLW5VcUlYR2liclFTelZ2bFZTZGpuU0lWdWNnck1uYXVhbjJxWk1rSHk1VHRTWE5LdFlQUERoRjMtZGg5UVM1T1NpVTR6RHQ0cEwyOVFLMGVSd1l4aXo5Z2FaS0ZPTnRrcWlIajZ2SGhwSDZuYVdvb1ZCWW1FdUZKWk5vQjJUcjU0VF8waUQ5dEJRN2lJX24xT2MyZ05raWNScld6TTJEWlowczQ0U2NUM1lfbDVUWlRfNnhDY9IBywFBVV95cUxQbWI3ZkJKY2hMemZlb0xmLW5VcUlYR2liclFTelZ2bFZTZGpuU0lWdWNnck1uYXVhbjJxWk1rSHk1VHRTWE5LdFlQUERoRjMtZGg5UVM1T1NpVTR6RHQ0cEwyOVFLMGVSd1l4aXo5Z2FaS0ZPTnRrcWlIajZ2SGhwSDZuYVdvb1ZCWW1FdUZKWk5vQjJUcjU0VF8waUQ5dEJRN2lJX24xT2MyZ05raWNScld6TTJEWlowczQ0U2NUM1lfbDVUWlRfNnhDYw?oc=5"
-    },
-    {
-      "headline": "Precision Trading with Eog Resources Inc. (EOG) Risk Zones - Stock Traders Daily",
-      "source": "Stock Traders Daily",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOWo1dGNqVWg3OHhsMXdEaUVhUndpMVM0MUFUb20zWWlNQnY0a1BxelBtRlRhNE1XVENSbnhWdFJpanVDRExPNVlPd2UyMjlSbGdVRnJIZzNLVlo3cUl5UnIxSVNwMGp0YWt4T0VqVkd6dkx3aWloS0dOdWdrdDRYQmRxOGRlWGZVTXZjakE2ckdrS05Qa0UxT3NqMmY3Mm5BcW1uNGFQdTQ4QUF6cWw3aGVNeGZ4ZzdSc09ZN1o0VDNwbUdYNE5pYlVqQXU2Y1hpQlE?oc=5"
     }
   ],
   "insight": "Tracking EOG Resources (EOG)."

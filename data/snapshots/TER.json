@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-24T05:39:52.430Z",
-  "builtDateUTC": "2026-06-24",
+  "builtAt": "2026-06-25T05:43:03.539Z",
+  "builtDateUTC": "2026-06-25",
   "source": "yahoo-finance",
   "1m": [
-    353.44000244140625,
     358.44000244140625,
     389.1400146484375,
     375.8299865722656,
@@ -24,10 +23,10 @@
     408.55999755859375,
     437.9200134277344,
     457,
-    420.1199951171875
+    420.1199951171875,
+    427.20001220703125
   ],
   "6m": [
-    203.97000122070312,
     193.3699951171875,
     194.6999969482422,
     192.2899932861328,
@@ -158,10 +157,10 @@
     408.55999755859375,
     437.9200134277344,
     457,
-    420.1199951171875
+    420.1199951171875,
+    427.20001220703125
   ],
   "1y": [
-    90.38999938964844,
     90.19999694824219,
     91.05000305175781,
     90.3499984741211,
@@ -411,12 +410,19 @@
     408.55999755859375,
     437.9200134277344,
     457,
-    420.1199951171875
+    420.1199951171875,
+    427.20001220703125
   ],
-  "lastClose": 420.1199951171875,
-  "oneYearReturn": 364.7859253833562,
+  "lastClose": 427.20001220703125,
+  "oneYearReturn": 373.6142202445568,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Cash per share of Teradyne, Inc. Shs Thailand Depositary Receipts Repr 1 Sh – SET:TER01 - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUNJaFZLZC1VRG9rSEkxZjhPSlFNeEkwTnNZTU1CakpkR2hfb25Mb25lNWYwY09GZDNGeXY2TkVUVE9FMnY5UUxEU0NCbHc5XzdLSWIza1JHZkl4R3JVbnNVa3RXSWQyUGxVWGVTeEVWQlRON3JaNlk3NVNhZmxweXJzN3kyTUNwSHRyMVhxVFcwSTBXUWgzNDB3?oc=5"
+    },
     {
       "headline": "Applied Materials, Teradyne, and Entegris Stocks Trade Down, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2s0bnRwM1o5YjNqNkJXeDBDMUZpbFNnUzZDbGxQNEcyWElGdHpUNDlvajNsbnNmbkN5bklwTDEwOV9EdzhRUVVhS2hHS01VY3I2T1FRaFc3bVdzQ3Z2eXA3eS1sR0Z0dnJ4Y1FRbm9qeWpfOHpwLTYzeXVPTkpLc3ZWOURNbzQ1dUpMTHd5RGNvQXJnd0FDNHpwUlVQcTR3djRBVTZHNGlOSUk?oc=5"
     },
     {
-      "headline": "Teradyne, Inc. Stock 12‑Month Price Target Raised to $403.53, Implies 12% Downside - TradingView",
-      "source": "TradingView",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRDlpaFg5NjZwSzFxNVFKRWQybTdMWE5JU2N2QzZ3RnpJMVFuZ25jZEhUWEk2ZnhNa0dneEFwT1dOYVBBckpaZFFGWFR5cUJnVU9PMHU3VVRNeVhGNVNONmRWX3dveUtMc3pPZ2tYQkstVEI4RFlxTXRXbHRCc0wtRzRQRW5ST1lmZ01vZUw3clNQcnZpSGliWW8zbVdYZjZTeUZLb2UxYmtyWXVuYklBZFN4Y0tmT25HX1NoNnR2YUNTaDlOaUYzU0diZ1lkWnVZbW9yQjN3?oc=5"
-    },
-    {
-      "headline": "Teradyne Inc (TER) Shares Fall 8.1% -- GF Value Says Still Overv - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0RkMTVfNXdSaFQ1dWVEUE9iY0k4ZkhHRHl1NHJSOFNfTW9CanNBOGJzOFZFZFNVSzJqdGZXOFY4MXlRazc0Wkg3TU9Rc2s1Q3lJc3pEeG5DZUVFamhaTnhsSEo1UksyN3FCRjZlejVqd2R0R0NZZFVhWmJGOEY0MkR4Z1Azak9LNjJQZldEOHpVbzliRVBTRXNYcjE2Q053bHY4?oc=5"
+      "headline": "Teradyne Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTNwZHlhZXpNN2J4WllyaXN4YjdOU0tBcmVxMW5xNmlTS1ctTkhyanFHRXd1NEYtRGhHcmhrNEJRcGM1SXVNLXpKLUc4UmZ2czVZOC0xMkRITVJiZFU2VVZXeVRwdE1vN1lxakltWWRhamw1Q1FOclhJbjJuSzVmSS03UWRGMmNJWFZIVGhablNRU194T0tBVjEySEhzZE5DcVQ1RGo4QXVqQWhCTmZrVmk1Q0pZZW9pczkyTTBSSjRVUQ?oc=5"
     }
   ],
   "insight": "Tracking Teradyne (TER)."

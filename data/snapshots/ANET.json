@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-24T05:39:11.395Z",
-  "builtDateUTC": "2026-06-24",
+  "builtAt": "2026-06-25T05:42:18.785Z",
+  "builtDateUTC": "2026-06-25",
   "source": "yahoo-finance",
   "1m": [
-    148.58999633789062,
     154.02999877929688,
     158.00999450683594,
     154.30999755859375,
@@ -24,10 +23,10 @@
     164.92999267578125,
     169.6699981689453,
     174.55999755859375,
-    162.1999969482422
+    162.1999969482422,
+    161.74000549316406
   ],
   "6m": [
-    134.38999938964844,
     124.76000213623047,
     125.88999938964844,
     126.12999725341797,
@@ -158,10 +157,10 @@
     164.92999267578125,
     169.6699981689453,
     174.55999755859375,
-    162.1999969482422
+    162.1999969482422,
+    161.74000549316406
   ],
   "1y": [
-    94.97000122070312,
     96.30999755859375,
     101.58999633789062,
     99.38999938964844,
@@ -411,12 +410,19 @@
     164.92999267578125,
     169.6699981689453,
     174.55999755859375,
-    162.1999969482422
+    162.1999969482422,
+    161.74000549316406
   ],
-  "lastClose": 162.1999969482422,
-  "oneYearReturn": 70.79077062587544,
+  "lastClose": 161.74000549316406,
+  "oneYearReturn": 67.93688048300858,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Arista vs Cisco: Which Networking Stock Owns the AI Data Center? - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUHN3QTI3M1R4cG96cnVHNFRtQnc3ZTZYZE9yV1lqY1dLVUVicnQwRjUzN2JNQUo3SXNzak5MQ1dqYVo4TFRqSmxJQ1lwMFBRSmJyR0Q2bzdqVmxMbDRRM0lRalRYdGg0UzlMamZqSWxUdWRBb2tNVDRtdnVTUTdDRDV0bkZCTk1EcG80dzBGUWZzdw?oc=5"
+    },
     {
       "headline": "Ciena vs. Arista Networks: Which AI Networking Stock is the Better Buy? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0JiWVM4Nm5oNG9DTjZKX1NOb1o4enI3a0ZBVFpoWU1iWjFjVDR4SkJvcTNWWmdjaXE3c0pnSlpqTVh4ZVRjem5KXzRyX1dORWpJbWhwQm9qN2duWm1pRFB3WXktcEZxaEZPZGJiU01TMGdiNnNvdHRJZUdNeWZJWlYxX1doQ1BUOXBMY3UxNjgtRG5YWVE?oc=5"
     },
     {
-      "headline": "Arista Networks Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWjNqQ012T3lfRXpNTExRMFo1VkhlZGRxRGNuUG1Zc2hEdzNUd2Y1dEtuNGJ0UHVfV1F3MmNnWTRGaURDM3Z6Q2VUcjVxbHZDdTRDVzItZUxiTFhLM3JLbWdJcHNSaWkyb2ljMUpMNjBwRnhJWmpFVjRrQjQyQzdFVDJZWWNoX190ekx5S0JQcndoYnRqa1pLOGVaVTVyZ3hpeTZtS2lmdTZ0N3dNV18wcFNwQ2ViWXBCU3Q4bjQzZEExUmhodGp4QWQzQlRTTWQtOHc?oc=5"
-    },
-    {
-      "headline": "Ciena vs. Arista Networks: Which AI Networking Stock is the Better Buy? - Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaG83YXRqanhvUW1TRklEajVyU2RkMWtfX1N0YnVYc3owU2dlN0RSd2VLeHQzWTdKa2FNSGZXMWh5dmtHaEhCVERXOWY0eG52U0FlOUljOVRaaGd2SnFCNEE0aXdoN180MW9vR0h6bmVUQWp2UDIzbnJ5SGd5V1RKQ083a2hTYXFpRjczVXRTaGdZN0lmZlZ2NHU0Q2tRb1VMUGRlSDBDSnVHQkdjU0E?oc=5"
+      "headline": "Arista’s 1.6-Terabit AI Ethernet Platforms Could Be A Game Changer For Arista Networks (ANET) - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONm1QQkdSX3NwRmdlTG1kakJILTVmbF8tb0lsV1JuR09vZHV3X1oyMl9ReHNUei1PN29RNlI3UGxmM010QmlCc1Y5WklmQjdUN2gwMkFzdGg0THl4d1drVVVTTVVHQnNpbFBqUklKN3I3RkNzbF9IbW00SzNQZ2FOOTBHanVMVE8wcFBFcGlFd29aaGdmUzNlNHljaWhPbDJVb1QteWpORDZISldkVko5ZUdyQWNxRHVXVGhZWmFzdnlyVThUOVdB0gHMAUFVX3lxTE5zZ25IbFh3VnVWdW03SmdmdWlZMUJLMEMzMTJ0TFVtM2hFVUpmMGNZNXh5RWd6VTB0MnJWMkpvclVmaElHMG1FT2d2dGdweW1jN2x3ZWhlZ3U3MGN4bjFLUld6TF82YkRjQkVCZElUc3NWVWhXaTd4S2pwaVc2emg1bmFySXZOQ09lbnU0UmhLRnRHZ0t2Ynh5T1hqQ0dadmotaDhndjhDZmhFemRKNWFKeU9rMlFIRzdTUVM4VWxSb1ktOElnTXFodGVxNQ?oc=5"
     }
   ],
   "insight": "Tracking Arista Networks (ANET)."
