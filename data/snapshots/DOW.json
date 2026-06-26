@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-25T05:42:33.935Z",
-  "builtDateUTC": "2026-06-25",
+  "builtAt": "2026-06-26T05:48:07.249Z",
+  "builtDateUTC": "2026-06-26",
   "source": "yahoo-finance",
   "1m": [
-    36.0099983215332,
     35.279998779296875,
     34.4900016784668,
     34.77000045776367,
@@ -24,10 +23,10 @@
     31.729999542236328,
     30.790000915527344,
     30.329999923706055,
-    29.3799991607666
+    29.3799991607666,
+    29.309999465942383
   ],
   "6m": [
-    23.969999313354492,
     23.450000762939453,
     22.84000015258789,
     23.06999969482422,
@@ -158,10 +157,10 @@
     31.729999542236328,
     30.790000915527344,
     30.329999923706055,
-    29.3799991607666
+    29.3799991607666,
+    29.309999465942383
   ],
   "1y": [
-    26.81999969482422,
     27.149999618530273,
     27,
     26.479999542236328,
@@ -411,29 +410,30 @@
     31.729999542236328,
     30.790000915527344,
     30.329999923706055,
-    29.3799991607666
+    29.3799991607666,
+    29.309999465942383
   ],
-  "lastClose": 29.3799991607666,
-  "oneYearReturn": 9.545113702728404,
+  "lastClose": 29.309999465942383,
+  "oneYearReturn": 7.955800654736944,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Dow Inc. Stock 12‑Month Price Target Cut to $42.12, Implies 39% Upside - TradingView",
-      "source": "TradingView",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY0Y5MGNxMU5RY1VnWGp1NGZFM2YtYjhqZTJqbXloZFdQUC1TN1hSRkx3aHJoZUN4QjZUSW9RM3B6MlB4dGtvMEZNVTI5Mk9tNjlzTExiLXJZemJjdGltNEJYVU9KWG8wSnFONXhyS0hGYnV0ckl5RjdWY0lsX2Nlb2kwcDdEUUgwTGtMVjFCZXhnOVZzclI5MnhYdVRsU3hPXy16V3Z4bkZnOFZHSEJxZklMTEhmU0ZodGtEOS1SNDBuNklaUnVj?oc=5"
-    },
-    {
-      "headline": "Dow Inc. (DOW) Faces Continued Decline Amid Supply Chain Concerns - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObm5pcTFVUVBWeElKVExLVUhSM2RJTnRDLWJ6SEFwcFB5bGNERjlzeVRSYnRmdXltTHJTSEFHelMtZXVHOVFJT3YtMFZObWNlQUloZ1hoVE9QVjBtQnRVNDhpMHBGYmZfX1Rpd19HR01SRzRLMlBoTzRlOHRPNGxjeWZGWnEzXzlKVGhSb3ZYRXFMSVNhSVZtRWZTaEhRa0tla0Ew?oc=5"
-    },
     {
       "headline": "Citi Revises DOW Outlook amid Emerging Demand Destruction Concerns - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-05-31",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbGdjSm5iVDdVM3BhMFRWUWFKMU80dnVwM3ZEaFNFRGdiM3pUbFpEN1FGM184SEdrQ0pKR2ZoYXFkdFZxdGwyb0g1Slk3TlM3OThDTFdmMTFPblhaR05FUFBhZ19rSUkxQVNYWlVXX1RBZTNhX2dMblB4d2t1emp3Qm5xMG0ycktsRWlLdW1lT1lieVlDeFdrbVpn?oc=5"
+    },
+    {
+      "headline": "Dow Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYUZoWjVUcURpQ2M1NDM0OUtmdmp3N1FrbzZEc1dnQ0FkQkRwVjlGTWE4VHNiemk2SlB6Z0k0YXEtSWlzbFZSZ0RMMVo3YS1VdWtmOGZqVGRqdXREam9zb25TX3BtUDdyVFQ0X2RXS052azNRaG5DY2gySU50MDB4RjhrbU1JdHU1LVpGTEhrdXFMaUU1azFVSHpsS2NnVW9Gdm93eG1sWktZMFEwRS1YSTd1Um5ZbjZTTF9yU3hlZ2pxSUJw?oc=5"
+    },
+    {
+      "headline": "Dow Inc. Stock 12‑Month Price Target Cut to $42.12, Implies 39% Upside - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY0Y5MGNxMU5RY1VnWGp1NGZFM2YtYjhqZTJqbXloZFdQUC1TN1hSRkx3aHJoZUN4QjZUSW9RM3B6MlB4dGtvMEZNVTI5Mk9tNjlzTExiLXJZemJjdGltNEJYVU9KWG8wSnFONXhyS0hGYnV0ckl5RjdWY0lsX2Nlb2kwcDdEUUgwTGtMVjFCZXhnOVZzclI5MnhYdVRsU3hPXy16V3Z4bkZnOFZHSEJxZklMTEhmU0ZodGtEOS1SNDBuNklaUnVj?oc=5"
     }
   ],
   "insight": "Tracking Dow Inc. (DOW)."

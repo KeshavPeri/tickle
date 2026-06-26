@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-25T05:42:48.719Z",
-  "builtDateUTC": "2026-06-25",
+  "builtAt": "2026-06-26T05:48:19.738Z",
+  "builtDateUTC": "2026-06-26",
   "source": "yahoo-finance",
   "1m": [
-    252.1999969482422,
     250.41000366210938,
     250.2899932861328,
     249.63999938964844,
@@ -24,10 +23,10 @@
     264.0899963378906,
     265.30999755859375,
     261.6400146484375,
-    263.67999267578125
+    263.67999267578125,
+    270.6000061035156
   ],
   "6m": [
-    258.0199890136719,
     258.6600036621094,
     250.66000366210938,
     252.39999389648438,
@@ -158,10 +157,10 @@
     264.0899963378906,
     265.30999755859375,
     261.6400146484375,
-    263.67999267578125
+    263.67999267578125,
+    270.6000061035156
   ],
   "1y": [
-    245.69000244140625,
     246.75,
     248.05999755859375,
     247.25,
@@ -411,29 +410,30 @@
     264.0899963378906,
     265.30999755859375,
     261.6400146484375,
-    263.67999267578125
+    263.67999267578125,
+    270.6000061035156
   ],
-  "lastClose": 263.67999267578125,
-  "oneYearReturn": 7.322231289677881,
+  "lastClose": 270.6000061035156,
+  "oneYearReturn": 9.665655969003293,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Illinois Tool Works (ITW) Stock Could Be 3.8% Undervalued After Mixed Earnings - simplywall.st",
+      "headline": "Illinois Tool Works (NYSE:ITW): A Strong Dividend Stock with Quality Profitability and Sustainable Growth - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWDg1SnVXVmV1UkNaTGVlbkZvX3lmYzdFb0RvUzhKaFlNckdKSnRrWWF3UWVNQW9laFIxTHlQNEo5NDF3TTZ1dnQwb3RNOXcyazh3Zzd0TUxzaVpKYmZNZ1laMlQwbmc2YzJmOThGdWVTQnotV0pEcUQ2cDh3YjFTUjROeFF0SU5GT0lsMnlRcUZGSGw0aUozOHRpREpPZVdyUjY3bUN5M1ROOHA2dHJrbWxUdlFIUzl4S0kxWlV0U1RidFhjcGlrM3ZNQUFXclVkRnFEM1hqa2RSc3luaGU1MFNBZ09uVk0?oc=5"
+    },
+    {
+      "headline": "Illinois Tool Works Inc. (NYSE:ITW) Will Pay A US$1.61 Dividend In Four Days - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-20",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX01xV2lRZUJKS1lSTFhKTmNFcUlTeW16RnBDYk9zMTlKWEZtMWYtLTVoWDRodTBpcW5pSzVNUFpaVUVtaDJxLW5PbWI4blJCMlhPNk1MMWZ1RzNubEcyekFkZDUxZ0xFN1JqLVpmd1M4azJGQ0dmM2VEVGVYQzUwRVB1cVpscHlhTlk1M0t3dEtRS2lNVUlqWTZiaHBNZmxPakJobDdmZjRfV2haeDJMcVFjNVZKU19SVEdPMHJkUzBYMmQ0aUdmVG9nTmJ5ODZ2bEVlTkFn0gHbAUFVX3lxTFBwNURMcWV0X2dlZDk5dm1KSnl0RHZfc1ZWbnpCbHZVbWo1RFhTTWszcHo5RjFyOXdsOTNnazZ5WWlFTU9ZOXFWaFB3cHEtSjFsSWlUMUdzUXc0ZE5vSlp2amlzRVJLZE1IdkJYR29KRENwcXBDWGdwT1M3NWFBX3JQRjBrWjNMbnZhbll0RTR3UE9sWXA4UUZZRUlIQkhTVGhmNXA3RDBFcUhWQWg5WmhaQzFTTWtaaG5aaXB6bm9FS1R1aGE1dDFTY3RKR2xWSWtWQkNYLV9OQ0NsQQ?oc=5"
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWklZSzl2aldYRnowa1JVZnFkdHBORmNJVTBsX2pIaEVoTUtZdEs5SUk0T3RrX0pwZ3lNeHJTZ0txMmJIc2JRTEtmeVhUMTFQRk5PQ1dUTnl6TTFFWXF2N0R2LTRtOFQ0aWxZcmpSMXhVWjhJUDFLblNpX09VdlF2R0NTeEhVNFRCanVTcE5nYkJkbnlodUR0b29TV054WDNvS25oMEZKYTNHQlozUk1uZ0gxSlZlX1NROV9sazBvTU9YaTBDQXhuVllfV1d0bjBOb3E1NnBmcmN1QdIB3wFBVV95cUxOa08xSTExVHMzN3N1SzdnNU0yM2lWQmh6NmROaHp2bFlCNkYyZGNraDF3VDBtVENKTkdIbHRHeWpCTmsyQzVZZGRKQlpUV3dWdUlqejdfWnBWX2x0WjJOdVFJZmVVVTNiVEYzRkR0bl96ekhpZ3lUeDVtU2FMa013Um55VU1sdnJjeHVnckZ0eFpjQmhSZU9tV29RbjBrQkduQkswSEZfRnFNTzN5ZmFTaERBQ3ZSUHVJNks3RDN2RTBKTFZ0dTZIWFBZTkNjdU9JeGZZX0xkNlg1R2ZaS2F3?oc=5"
     },
     {
       "headline": "Is Illinois Tool Works Inc. (ITW) A Good Stock To Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-07",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGwwRHNmTjZoYkZmbWt3RURkNlQyVHloa1hwNFkweDc5Y0VhUTZyUHl6LXkxV0xuakx4T1FRZzlVSUd1RVA4VUNsOVZkaVNlNlVFaG1aYjFKSzJDano4NnRIYjZBSEZEdFB4ekw0Z1hXb3BsY2RFRkJUMkttZnIyamFBdEJnMnlQN0YwYlVVUlJBZlFVVVFr?oc=5"
-    },
-    {
-      "headline": "Illinois Tool Works Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdFhzNFl5SEhDaFVDTjRhUUVtMlBXVjE3dEh4SVA0ejJxM3NRSEctdFNpSkZneW9DMzRrejRlVWJRbHlVbjg0cjd1d2JXOWxpUTZDdnJyQ0tWQ0xMOGpxVU5yV2hxOFI3SUhhOUlLaDRrZmhUNGJvMWtBRlE2b3FXeUpPTWNmZHRWOWFKSGpzMHBWVXR3cDdmRjdLSzMtbXpXZlVKVm9TUlUtMjA0Zm40Y2hKSUJTM2JMc1JMWV91ak16SWs5a0x3TWhhX1ltaEp6SHFmaHNJRQ?oc=5"
     }
   ],
   "insight": "Tracking Illinois Tool Works (ITW)."

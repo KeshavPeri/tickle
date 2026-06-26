@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-25T05:42:59.072Z",
-  "builtDateUTC": "2026-06-25",
+  "builtAt": "2026-06-26T05:48:28.492Z",
+  "builtDateUTC": "2026-06-26",
   "source": "yahoo-finance",
   "1m": [
-    219.22999572753906,
     220.80999755859375,
     220.8000030517578,
     219.77999877929688,
@@ -24,10 +23,10 @@
     232.0399932861328,
     234.7100067138672,
     238.6699981689453,
-    239.9199981689453
+    239.9199981689453,
+    245.27999877929688
   ],
   "6m": [
-    210.58999633789062,
     210.88999938964844,
     209.97999572753906,
     210.3000030517578,
@@ -158,10 +157,10 @@
     232.0399932861328,
     234.7100067138672,
     238.6699981689453,
-    239.9199981689453
+    239.9199981689453,
+    245.27999877929688
   ],
   "1y": [
-    182.50999450683594,
     185.50999450683594,
     185.75,
     186.4199981689453,
@@ -411,12 +410,19 @@
     232.0399932861328,
     234.7100067138672,
     238.6699981689453,
-    239.9199981689453
+    239.9199981689453,
+    245.27999877929688
   ],
-  "lastClose": 239.9199981689453,
-  "oneYearReturn": 31.455813593791476,
+  "lastClose": 245.27999877929688,
+  "oneYearReturn": 32.219290627092576,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "PNC Announces Planned Common Stock Dividend Increase to $2.00 Per Share - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONWh3SEI3dUhoRlJIMTJwNUtMeUY3Y0JBNUN2OVpuWGVIcUY0eUQ5MXFpNm95MUJfS3RWRGltb1RiQlp0X3FFZEdQeG1pTTJzazduVVQxc01URi1mLUtIdzROcHl1Z19lYVB5alN4emh3QnFCaTZaZE05ZGl3c0l3QjhoWTIyS0djZXZjWUZrQUd3R3F5SF9EN0Vjd3lNZnBpYTVhNXh2ak5YWjJ1NklYY3J5eEhvWlE1WUVSem9WbFcyTUNn?oc=5"
+    },
     {
       "headline": "The PNC Financial Services Group (PNC) Resumed with Overweight at Stephens. Here is Why - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSktCZEZfeFc4Y2JGdDFDOUo4X2Y2S1ZUSmVFdmtTT3NvV3gxOWJYc29iWHBKX2xBWnNDdVRPcmU2c012MUlLX0RhQnhIbkVDV1c2YmczUF9OdWRHOF9tWVAwNER1T0lhdklVdlVybWRVVVREQm5JZVp2MXBzcWZHdHdFb25yVGNzVzdUMEdKYXdWUTdFTW81bWl2V1JIQQ?oc=5"
     },
     {
-      "headline": "PNC’s 2026 stress test results are out, and its capital buffer stays at 2.5% - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlhVYjZDeWFKc28zZFRMRnhvY2tLb3o2Rjg0el9KN0xNellTUFQ3cWplRkM2VnZjWk4yMEVqSXk2N09iV0g4SW9RNFVKN1phaV9fNFViZTJLTjZLUTZnRkdRXzJvNFAteC1NVFhHMDViRTF4ZHk1UUo1Nk1uNDZXMkpwN0JReUxMQ2J4ZkZucXFKVjBpOHJMNHdaeXlYbXBUdGQxWUF0N1BhQXZ2T3Ryd09B?oc=5"
-    },
-    {
-      "headline": "PNC Financial Services Group Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMEdBV09kbHhZLUkyVmRIN3BpeEstZUROc0hnd2JvNXRwbHZtUU9HZ3FReEhOUXBiNmNFXzAxVUEwaS02UU1ENmY0RFVwcEhvMzkwc0tKbmVZdGg1R2FiUVhtcHMwQ3NTSFh6TWsxUVV2SS1IOFpKWkpadVRvRWpRYnQ4YU9sNlFxMDlza2xEOW5aOVRwVG5feDgteDk2MEw2Q21ubnl6by01UTdSU3ptWHRPOXZ4SklKUjJCaUdzRGNrUTFwWGRpaUJndkNTVGI3dk85c1ZwZmdUb09lS0t1OU9qSVJiVXFUX3NEQ0JKUXZTeWNO?oc=5"
+      "headline": "UBS reiterates Buy on PNC Financial stock, cites national bank potential - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZnQzck9hRUVIQlMxVGlIaTVuRWFiUGY3Q3dsOWJ4eVBfZlo0REY1YTM0UXJRYjlqWUhQczlmT2RQUUt3ZnJtLVVmQkVmRjItZ2dvekdjb3k0UWJoV0J1UmZVdGtlZ24tRHlLbWcxNGhONkx4Q1ZQeHg4Q3dzMEE0LVdIRVRMcHowTUdTTDJoV3Mxamw2b3A4TDVEalA2dkRZcWNuWXN5cTVieERWRjB5akJweVJvZWVfUW41V0lfeFRHU3hpVWNIWnp6NGdjeDgwLVFfUFVB?oc=5"
     }
   ],
   "insight": "Tracking PNC Financial Services (PNC)."

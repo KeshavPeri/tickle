@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-25T05:42:27.113Z",
-  "builtDateUTC": "2026-06-25",
+  "builtAt": "2026-06-26T05:48:01.298Z",
+  "builtDateUTC": "2026-06-26",
   "source": "yahoo-finance",
   "1m": [
-    90.61000061035156,
     89.8499984741211,
     91.29000091552734,
     91.66000366210938,
@@ -24,10 +23,10 @@
     89.4800033569336,
     88.66999816894531,
     91.43000030517578,
-    91.87999725341797
+    91.87999725341797,
+    91.05999755859375
   ],
   "6m": [
-    78.33999633789062,
     79.43000030517578,
     78.94999694824219,
     79.7300033569336,
@@ -158,10 +157,10 @@
     89.4800033569336,
     88.66999816894531,
     91.43000030517578,
-    91.87999725341797
+    91.87999725341797,
+    91.05999755859375
   ],
   "1y": [
-    87.80000305175781,
     87.79000091552734,
     88.70999908447266,
     90.9000015258789,
@@ -411,23 +410,24 @@
     89.4800033569336,
     88.66999816894531,
     91.43000030517578,
-    91.87999725341797
+    91.87999725341797,
+    91.05999755859375
   ],
-  "lastClose": 91.87999725341797,
-  "oneYearReturn": 4.646918063607599,
+  "lastClose": 91.05999755859375,
+  "oneYearReturn": 3.7247939502960468,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Colgate-Palmolive (CL) Could Be 24% Below Fair Value Following Its Recent Run - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlpyeHJRNGZnZW5helkzRUVibEFFeTA5U3dWQ0pqWTQ0ZFV1dFFtVmVGUUkwZVlEMXpPY2h1NFpMYWhkMHhqY3VBTGhZdExSZXAxX2o4Y29nRUhQYVNINUJqMUhqZUFXQXM0X3lHR0VoMWZUYTFUSUFOSGt4eHk4c0NaLTVmRElvcEEzV1lybU80SWZiaXozTzBYc1RIYVlJVFZDcWM0VEh6Z1luSlhOSzVFYzVhT2JmcFkwOElNQVJKNGhJM2JPQjdGbETSAdIBQVVfeXFMTUtDWnJTRU1HY3hjSGQ3LUVtcE1GeFM2b1VWWWZEOHl5VGd2Y1NDWlBvODdMOHZvdmlCQUNYUjNBd0lHNVhudTZrR2g1bGtzdEp3MXl6aTlQQlI2Q2VDRUV5T0hSZ3dOQmFwYVZQdTNhRTVFRlo5aDREOW1mcUhVbVhzOUk0TkZCOXhQWnNQZzI1TDJpSEZlOEV6U2ZEdkpPbG5qRkZlcGRURUE0U2ZyWGQydDVkMTIzcW5zWGJKaERfTVJvOHBvcER5MndlUTNrMW9R?oc=5"
-    },
     {
       "headline": "Campbell's, The Marzetti Company, and Colgate-Palmolive Shares Skyrocket, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-23",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmxsc3lTRXowMEJPYnBpQ3VUdnVtNndZeHJHeGZxRExrcVZPaC1QS2VLRUhEU3d1eEUwcDlvNWF0SmUyQ3ZkU0Y4TlM1bHh6ZGZYMXBxaktkVlBvVUJzX3JyQnVKeUF2eDBBSzAwaG9EVm9QUUc3aVRfc0F1VUVLYjRUc20yelVrZk01ZnVNcDhrOVJNMzEtZlBMcTdPZHJoMS1DSzI5OHRLejNuYnc?oc=5"
+    },
+    {
+      "headline": "Colgate-Palmolive (CL) Could Be 24% Below Fair Value Following Its Recent Run - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlpyeHJRNGZnZW5helkzRUVibEFFeTA5U3dWQ0pqWTQ0ZFV1dFFtVmVGUUkwZVlEMXpPY2h1NFpMYWhkMHhqY3VBTGhZdExSZXAxX2o4Y29nRUhQYVNINUJqMUhqZUFXQXM0X3lHR0VoMWZUYTFUSUFOSGt4eHk4c0NaLTVmRElvcEEzV1lybU80SWZiaXozTzBYc1RIYVlJVFZDcWM0VEh6Z1luSlhOSzVFYzVhT2JmcFkwOElNQVJKNGhJM2JPQjdGbETSAdIBQVVfeXFMTUtDWnJTRU1HY3hjSGQ3LUVtcE1GeFM2b1VWWWZEOHl5VGd2Y1NDWlBvODdMOHZvdmlCQUNYUjNBd0lHNVhudTZrR2g1bGtzdEp3MXl6aTlQQlI2Q2VDRUV5T0hSZ3dOQmFwYVZQdTNhRTVFRlo5aDREOW1mcUhVbVhzOUk0TkZCOXhQWnNQZzI1TDJpSEZlOEV6U2ZEdkpPbG5qRkZlcGRURUE0U2ZyWGQydDVkMTIzcW5zWGJKaERfTVJvOHBvcER5MndlUTNrMW9R?oc=5"
     },
     {
       "headline": "Colgate-Palmolive Co (CL) Stock Up 3.1% and Still Undervalued -- GF Score: 85/100 - GuruFocus",

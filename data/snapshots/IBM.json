@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-25T05:42:46.714Z",
-  "builtDateUTC": "2026-06-25",
+  "builtAt": "2026-06-26T05:48:18.018Z",
+  "builtDateUTC": "2026-06-26",
   "source": "yahoo-finance",
   "1m": [
-    253.83999633789062,
     250.69000244140625,
     255.1999969482422,
     264.2200012207031,
@@ -24,10 +23,10 @@
     249.10000610351562,
     252.22000122070312,
     264.94000244140625,
-    262.9599914550781
+    262.9599914550781,
+    258.2699890136719
   ],
   "6m": [
-    309.239990234375,
     308.6600036621094,
     303.17999267578125,
     303.32000732421875,
@@ -158,10 +157,10 @@
     249.10000610351562,
     252.22000122070312,
     264.94000244140625,
-    262.9599914550781
+    262.9599914550781,
+    258.2699890136719
   ],
   "1y": [
-    291.05999755859375,
     291.92999267578125,
     289.70001220703125,
     294.7799987792969,
@@ -411,29 +410,30 @@
     249.10000610351562,
     252.22000122070312,
     264.94000244140625,
-    262.9599914550781
+    262.9599914550781,
+    258.2699890136719
   ],
-  "lastClose": 262.9599914550781,
-  "oneYearReturn": -9.6543689752003,
+  "lastClose": 258.2699890136719,
+  "oneYearReturn": -11.530162883774784,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "IBM stock seesaws after unveiling chip 'the size of a fingernail' in AI push - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNllJRGdqQzJldURvV0thQmRaWTlUTU1QYjlZNC1lbmh1Y0JlZXlXRGlFMmRLVkNGTGhOSkdhYV9BSGFnV2ZJQ2NXMEFobnRidTExNE1xMFRQV2kwV011ZDZONGRlUEN5NTFIRzl4WHkyZ0dXbnR3UDB5M1lITU04VGhfQncxLWhyVEFqbjZvWEhHaDlmVmdZYThWeWNka2ZuOUhoR3VFZlF3UGJiTkxJTENfZjZVLUduUTdobGY3cTFETEVSOUxZZ2dJMS1YeG5sNEp3Yw?oc=5"
+    },
+    {
+      "headline": "Stocks making the biggest moves premarket: Micron, Qualcomm, IBM, Wendy's & more - CNBC",
+      "source": "CNBC",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUU9kRVhzR2ZaYUo4dEhjaUw2ODNWd3J0Sl9HVnVlMHBOc3lKT1FvVzFMVHIzdlFMbFczdV9PNG5xX3pVaE5oVkNBLV83ZU5XakhjcWJaN1c4R0tiSkJic3BkdUJVR09zRFRGQW16VWtpYXF0X2dBNGMwemNNVlZFSmJyODExaTQ?oc=5"
+    },
     {
       "headline": "Trump regrets once selling IBM’s stock. Now he’s cheering its quantum future and dealing its shares. - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-23",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcGppSWZHTGxOdUpZTE4ySWFBdUQ3WlYtUFJSbWtpcWp4TkhFdk0yWWE1QTRQbVlpVnFKblJLemF3YnpldkFVMXFWUlhiUFlLMFdaU2ZpOWdCajU3S1k5aWRULTN2R0Z6eFNNbWgwRUJYQ1RDNnI1V1RpNlhMc0lKZFFiRVBIZkhvZFdDemE1UFZpM1Z0a2g0N0VTMW9YbnR6TDJHREVMekJzTlJ5VFRxbkFzNk1qVFJWZFVNVzFiVGtZQQ?oc=5"
-    },
-    {
-      "headline": "IBM Stock Draws Fresh Bull Call – JPMorgan Says It Could Be A Bigger AI Winner Than Investors Expect - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa0NsZEpBTnByRFlJOV9hOWtHbmhNQ2xuUDJuREEzM2s0MjJmYVhLVjAxVEFEUk1ncG5RWmw4NXBUdERPVDkyQk9yLTBTSXd4U3NwRmJyMTlEUWItakVZSkQteHN4UGc4ZTU4bTJyam1BN1loTk50SHZ3a2d4d2xQNTJ0Wk8tVU51V29wQlZCM1dQTk80bmc?oc=5"
-    },
-    {
-      "headline": "Stocks making the biggest moves midday: Micron Technology, SpaceX, IBM, Flex & more - CNBC",
-      "source": "CNBC",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdnBUWlRFamwxQUFpanJ2SHhjTlNXa2hNLUwyR25PQ2JtVk5xOXlEb2F4UFlOYVBFMTBpajBIM3RDdXpySGVSdnNnV01MTW1HOEFpVEJ4ZWJRa080eC11ZnhWbkNaM0FlY3JOaEhqVjVTSHJFX1JNQ3pPTXNSamlJREZVYWxKYURwQjlVZU5DZzljcnpCUFM0?oc=5"
     }
   ],
   "insight": "Tracking IBM (IBM)."

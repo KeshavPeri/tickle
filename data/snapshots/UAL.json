@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-25T05:43:05.675Z",
-  "builtDateUTC": "2026-06-25",
+  "builtAt": "2026-06-26T05:48:34.511Z",
+  "builtDateUTC": "2026-06-26",
   "source": "yahoo-finance",
   "1m": [
-    99.95999908447266,
     105.91999816894531,
     112.62000274658203,
     115.05999755859375,
@@ -24,10 +23,10 @@
     118.31999969482422,
     118.68000030517578,
     121.55000305175781,
-    130.5399932861328
+    130.5399932861328,
+    134.61000061035156
   ],
   "6m": [
-    106.83999633789062,
     107.69999694824219,
     112.4800033569336,
     110.2699966430664,
@@ -158,10 +157,10 @@
     118.31999969482422,
     118.68000030517578,
     121.55000305175781,
-    130.5399932861328
+    130.5399932861328,
+    134.61000061035156
   ],
   "1y": [
-    76.7300033569336,
     77.55000305175781,
     79.18000030517578,
     79.62999725341797,
@@ -411,18 +410,13 @@
     118.31999969482422,
     118.68000030517578,
     121.55000305175781,
-    130.5399932861328
+    130.5399932861328,
+    134.61000061035156
   ],
-  "lastClose": 130.5399932861328,
-  "oneYearReturn": 70.12900765673791,
+  "lastClose": 134.61000061035156,
+  "oneYearReturn": 73.57833051342527,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "United Airlines (UAL) Stock Trades Up, Here Is Why - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWhlWWxMeXFXTlFOTGhMczBpTHFjLWZ6VVNlOXZoei1QSDk1eEhHS0ZKbnFHQU0xSGtoOWp2TEk2MjN2ZkN1SG5qVzYyMjFSMTZrZTlobWlhOGVRS0M3SkJhNVRsTXFpdWhyZGNrWVlyX2ZaQ1hpbk94M3BPZ2pFTno3b0huX1ZlS19pcllLMFF6WG9YY3JjYnNuOFpoUQ?oc=5"
-    },
     {
       "headline": "United Airlines Holdings shares jump as lower oil prices and bullish analyst sentiment lift airline stocks - Quiver Quantitative",
       "source": "Quiver Quantitative",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYW5XYlB5enZUdGZGOEJ3VDlJbWh2SDg2OVlfNzFuNDlNbFN1X1lKZ3pZNkFRTnRxbUp5blN2eFBBV2V0REJmUVFRRlB0clZDN2RIZk1BelU3Y2R3NEVvUVJmbHFpZ0pra3NybnRfdjVGVkFwU3V2RkhROHFMNXgtc2NqejBaNFhrb2ZTTGRrMnUtTWg2UEVIN2VFY1B0QVBJVEhqZ2dCWU1jWk4waFRCaWdoalljOHNjd2ZsVkd6bGpMN1dQamV5dE5HOVZlc3l1VXhpSVd3?oc=5"
     },
     {
-      "headline": "United Airlines Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "United Airlines (UAL) Stock Trades Up, Here Is Why - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOVBUV2xHa0lyM0hRWWFoQ3JhTjdxS2o3emtNZzRvZmhnSk4xcENFQ0lxYnNtS0lwUVpLTWRKSDBqTlpfRWYxV3dxelBuMHdGRGRRcDBScWoxXy10c2s4NUROOEJJTEVwc1VUZjlwOEFNTGl1UFk1LV84eTdscmRiLWpJUlB1RzF1QVRPY01mai1EYkU3RFNIaW5iX0lBRVZuUXBRbTVXZWZZUk9NSHNSSFI3NzNpVUw1VWZoWnFzOW1ZSjc0WVhjYWI4N3NRc0UwUTFnZWtJWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWhlWWxMeXFXTlFOTGhMczBpTHFjLWZ6VVNlOXZoei1QSDk1eEhHS0ZKbnFHQU0xSGtoOWp2TEk2MjN2ZkN1SG5qVzYyMjFSMTZrZTlobWlhOGVRS0M3SkJhNVRsTXFpdWhyZGNrWVlyX2ZaQ1hpbk94M3BPZ2pFTno3b0huX1ZlS19pcllLMFF6WG9YY3JjYnNuOFpoUQ?oc=5"
+    },
+    {
+      "headline": "United Airlines shares advance as analyst upgrades and earnings strength reinforce momentum - MSN",
+      "source": "MSN",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcXlZN3R0VTNUY1g4M2JtdlpGMEhvc2ppRGFmX0pWajRlREVONlF1dkNNRzQxbGZpdk45NGlBRVNIeDBKLU5YQVlzOW1GaGVpQWY0SEo3UVNZTFBCbUEySGp4bGE4S3hSRlphaEdBOHBOcXo5VjRySHNsdmVJLWo2OTQ5RmpMNk0zRjlsTldxWXRVVXh1R3g5ZUs4WUxyanl5eGZBYmVLQ3lPYi1NWUZFd09XZGxHcmI5NXh6RWJIaENUM0R2VkZzNWZlbDgxd2xiZE1XRDlTZUhSeDFh?oc=5"
     }
   ],
   "insight": "Tracking United Airlines Holdings (UAL)."

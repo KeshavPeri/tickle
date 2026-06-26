@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-25T05:42:27.320Z",
-  "builtDateUTC": "2026-06-25",
+  "builtAt": "2026-06-26T05:48:01.573Z",
+  "builtDateUTC": "2026-06-26",
   "source": "yahoo-finance",
   "1m": [
-    291.2300109863281,
     282.5400085449219,
     279.1000061035156,
     277.4200134277344,
@@ -24,10 +23,10 @@
     246.3800048828125,
     245.1999969482422,
     242.25999450683594,
-    231.67999267578125
+    231.67999267578125,
+    225
   ],
   "6m": [
-    273.54998779296875,
     272.17999267578125,
     272.95001220703125,
     273.739990234375,
@@ -158,10 +157,10 @@
     246.3800048828125,
     245.1999969482422,
     242.25999450683594,
-    231.67999267578125
+    231.67999267578125,
+    225
   ],
   "1y": [
-    273.0299987792969,
     272.8299865722656,
     274.760009765625,
     275.6199951171875,
@@ -411,23 +410,24 @@
     246.3800048828125,
     245.1999969482422,
     242.25999450683594,
-    231.67999267578125
+    231.67999267578125,
+    225
   ],
-  "lastClose": 231.67999267578125,
-  "oneYearReturn": -15.144858179829829,
+  "lastClose": 225,
+  "oneYearReturn": -17.531059240658905,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CME Group (CME) Stock Price Slides 17% Is The Recent Pullback An Opportunity - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Live Cattle - CME Group",
+      "source": "CME Group",
       "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZUEzTHdxMTNVYzFCYTFpY21UN2NfT2QzR1ZjUDNWSVdsY1RvR3NhY0IwMEpFQ25ZWkh2S3BxWmM1OTg4YXNheDFXZ0pUY2tUNko3bnEyQmFoc1Vzdi1ZczJhMVVvcmpXcWdZSVhpTVBmOHZiMkRkSkpHVUd3S2EyUGxQV0wxaV92ZFhyQXJlMEdHOVNjY05Od2dvSEFYYjEtOWxjTTdFUVcxOEszTnFNZ1FJZHhUQnVrLUdYTERna2NteFZSZl9HQU5IVVBzQlVsbXFwSmNCM1LSAd4BQVVfeXFMUFAyU1h2Mm5aVGZoVHVTQUdHVWdzcE0wVnQ3Yk02dm5qdmg2VUVNR0tra0tESUQtWlJ0TzI2dkJJaXBFR2JPYmREUWdEcmhqcjJPNG5NeEIwYXJMQU0tV2VBdGN3NHVHUGM2UDloTDBnaUFmU3VHTm9yQUEzakMtVHN2NlF6dVVURnN4VFpHTm42bDdKYTdBbFljbS04b1ZfRnBOTXU0NDl3TzROalJhR0swUE1oT01ERVUzcjVKMS1iNzQyVXEzWVZCZmVaV0RaX1h4NVNlbkNHTjA2QktR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52ZjVWcmlPT2hlZHJFdlA0OUxJN3FmbWdOQUJrdjNmb0ZDc3RselBpcnFjOGtjMm9ieFE3LWU5emR6TnVBYmVTNzRVcDFycjN4SWNPUkluMWI4NmZGWnVMZmZYYTZuMU9GU21CVVMwT1NqOTJT?oc=5"
     },
     {
-      "headline": "Corn Futures - CME Group",
-      "source": "CME Group",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Y2dXRV9nTmt4dlJGV2U5SGpNNlVpMTUtaVJTUk1QWE1EU293MEJXRkhzeUVPOHBheUxxbXFpRTRKRjRvRDhzc2JNakNOLTNRNDlFd3pidjRRSldhSTV5eWttcWZBTmc?oc=5"
+      "headline": "CME Group (CME) Expands E Mini Access, Is The Discount To Fair Value Warranted? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeF81NjhDRlRLT1R4YWJMSEtuaUdtdG1zOUJmTlozU09nUG03SS1heWkwVjYyNm9wNTl1LXdUNGhNUi1Ga3hsSDJlVUtGWUNwa05WUkxKRnFJWHdlYTVmYi1VUENVaGhkNVlFVm1hczZVYnB0dWktU3FWWVZKcmNGaUp1NEJIazdaMzdKRHl2RkZ2UW9OLWx4Q21kazliSEhvd3dxai0xT2tFa1lCUXRKSTExMk1TSkZWRE9WSHUxbWtHNm9YcjJRVTBKSUpFWWlGMVkzTl9NRlpDcWJB0gHcAUFVX3lxTE14XzU2OENGVEtPVHhhYkxIS25pR210bXM5QmZOWjNTT2dQbTdJLWF5aTBWNjI2b3A1OXUtd1Q0aE1SLUZreGxIMmVVS0ZZQ3BrTlZSTEpGcUlYd2VhNWZiLVVQQ1VoaGQ1WUVWbWFzNlVicHR1aS1TcVZZVkpyY0ZpSnU0QkhrN1ozN0pEeXZGRnZRb04tbHhDbWRrOWJISG93d3FqLTFPa0VrWUJRdEpJMTEyTVNKRlZET1ZIdTFta0c2b1hyMlFVMEpJSkVZaUYxWTNOX01GWkNxYkE?oc=5"
     },
     {
       "headline": "CME Group (CME) Stock Price Pullback Sparks Fresh Questions On Valuation - Yahoo Finance",

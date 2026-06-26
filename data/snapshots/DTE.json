@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-25T05:42:34.116Z",
-  "builtDateUTC": "2026-06-25",
+  "builtAt": "2026-06-26T05:48:07.588Z",
+  "builtDateUTC": "2026-06-26",
   "source": "yahoo-finance",
   "1m": [
-    145.3000030517578,
     144.6199951171875,
     145.27000427246094,
     143.3800048828125,
@@ -24,10 +23,10 @@
     147.55999755859375,
     146.8300018310547,
     149.19000244140625,
-    151.10000610351562
+    151.10000610351562,
+    152.80999755859375
   ],
   "6m": [
-    129.8000030517578,
     128.80999755859375,
     128.66000366210938,
     128.88999938964844,
@@ -158,10 +157,10 @@
     147.55999755859375,
     146.8300018310547,
     149.19000244140625,
-    151.10000610351562
+    151.10000610351562,
+    152.80999755859375
   ],
   "1y": [
-    130.8699951171875,
     131.55999755859375,
     131.6199951171875,
     132.4600067138672,
@@ -411,18 +410,13 @@
     147.55999755859375,
     146.8300018310547,
     149.19000244140625,
-    151.10000610351562
+    151.10000610351562,
+    152.80999755859375
   ],
-  "lastClose": 151.10000610351562,
-  "oneYearReturn": 15.458097150697657,
+  "lastClose": 152.80999755859375,
+  "oneYearReturn": 16.15232623467916,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Wells Fargo Lifts DTE Energy (DTE) Price Target by $5. Here is Why - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEs1YXNhNGptZWlKNWVqMF8zYTRBNC1DbVhQNzEtSVd2Sjg4X0lMdlBkaWNMbkxPS055OE9sQjJPNUgtUnRRU2d5TkoxOVZraEVFbFB3NmRMVEZoajJDZ3IyTGI3ZXNHdThPUXNnXzdBNl95ZnU4Yl9mV3gxQ09wMWJKMW91Yi1vc2lpd3Rn?oc=5"
-    },
     {
       "headline": "DTE Energy (DTE) Stock Could Be 7.3% Undervalued After $1b Debt Deal - simplywall.st",
       "source": "simplywall.st",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWItaUo3ajBCM2hCSDBDSFhkSTloNW9IQUtrX25kWjBVUUUxMkNjaXpYcFJtWWNFaVBGTVd5VUFTR0JEWWJJaVJGay10cVJoMVZqbktHbDZuRzVVWHdqQ3VTUUYtQ1duNjJ1VE8xak9mSnl6anQzZXBSTUpjT0xlWHViWExhRUlreG9YS3RVdEVDMGNtZjdBcVNOT3IxNkpTNmZnTVQ2VmhscmRrdkVkdWh1azh3QlFEaDMwaUxnU3pCWjducFHSAcsBQVVfeXFMT3VQaU9kOWE3dzRzNmstXzY0NjBXelVBRWhDSmZnbUNKVUJMSGpwTUJENGRYX0d0ZEUzendIc0sxcDhYNzlyVDRUQTl6UzJYOFBHdTIwMnZxRkhxY0t0MmstaFdRTGZtTTloNC11bGdSTVEwX0VJMTc4Sllvd0YxdFIyNjdMZktwcFpZVHpHZExsQWozR1Rrb1otN0tNdERFMk9QaGNXdWFMQWVsWVdrNG1WempHc1h2X1lYREgtazJUUTY3eU92Y0lCSlU?oc=5"
     },
     {
-      "headline": "DTE Energy Co. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "Wells Fargo Lifts DTE Energy (DTE) Price Target by $5. Here is Why - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEs1YXNhNGptZWlKNWVqMF8zYTRBNC1DbVhQNzEtSVd2Sjg4X0lMdlBkaWNMbkxPS055OE9sQjJPNUgtUnRRU2d5TkoxOVZraEVFbFB3NmRMVEZoajJDZ3IyTGI3ZXNHdThPUXNnXzdBNl95ZnU4Yl9mV3gxQ09wMWJKMW91Yi1vc2lpd3Rn?oc=5"
+    },
+    {
+      "headline": "DTE Energy Co. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVkdpQjFwVGtlWUt3NllBazZ0WkptUVNBS1hCLWJxT2ZNUENKalNOSDMzNFNNbXZyUkxmcFZEWW0yUXlvdEI2ZElYT3FpWGl4Y0lLZ1hsaHpKN2RWdFpsaEp3MXdTaU9uMEdHUzRZcjU2cVpuT3IzQnBQZ0hEeU1iRmZwT0ZWanR6Sm9VRW5FWFFZSmtwSGNEYWtpQWI0R0k3c0dkRk02Ti1PNGs1empSMzhfTUFEZzFVOG85cG5sbDZPTkJUVG82MlNzTUE0am5aYk00UnFZblpfYTQ?oc=5"
+      "when": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdmtfT3dJWjlSMG15dTdqTVYzRW5OOEJtNDdjRUZCeHQ5bEJIeXdUY3I3WFY1cVdzMFJOMWhEZG9oV0VrclFla3lTTFU0YWYzVkdLQkN6YW1nekdFTmR2bHZyY2t4VjZ3NklwTVgwcWRvX2VWN1hiMlJKN21YQzhHdFRlTkNGbm52LVlKS1c5Ql9vMjhaNi1Sand0RzFxVGluREVUd0d5NEdycE4zVGkxWDhaVmlOalZWU0VrZGUxNV9vTUxZakxIRkVLQWF2Mks4WWxSd3FuQjVqY1RuTEdabHBQYXdUVnM?oc=5"
     }
   ],
   "insight": "Tracking DTE Energy (DTE)."

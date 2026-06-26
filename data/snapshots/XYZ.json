@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-25T05:43:08.665Z",
-  "builtDateUTC": "2026-06-25",
+  "builtAt": "2026-06-26T05:48:37.278Z",
+  "builtDateUTC": "2026-06-26",
   "source": "yahoo-finance",
   "1m": [
-    68.08000183105469,
     69.16999816894531,
     71.41999816894531,
     74.3499984741211,
@@ -24,10 +23,10 @@
     74.77999877929688,
     73.06999969482422,
     72.37000274658203,
-    75.68000030517578
+    75.68000030517578,
+    74.08000183105469
   ],
   "6m": [
-    64.75,
     64.0199966430664,
     64.55000305175781,
     63.77000045776367,
@@ -158,10 +157,10 @@
     74.77999877929688,
     73.06999969482422,
     72.37000274658203,
-    75.68000030517578
+    75.68000030517578,
+    74.08000183105469
   ],
   "1y": [
-    64.80999755859375,
     65.11000061035156,
     66.62999725341797,
     67.93000030517578,
@@ -411,12 +410,19 @@
     74.77999877929688,
     73.06999969482422,
     72.37000274658203,
-    75.68000030517578
+    75.68000030517578,
+    74.08000183105469
   ],
-  "lastClose": 75.68000030517578,
-  "oneYearReturn": 16.772107940221144,
+  "lastClose": 74.08000183105469,
+  "oneYearReturn": 13.776687354656577,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Block Stock Rips Toward Best Day In 4 Years After Layoffs: Jack Dorsey Concedes Pandemic Over-Hiring - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVmNqemdoLTNoWEgwRnhiSzFjU0J3MW1Va0NFRUVKQkxGUThpeFdyR0xtaE1UN0hVcFlsVDM4emxkOGF6dFQ1TGRuNzBDUDg3dEpkeS1uZjBLRFU1UlczZGd4Mm9CSHpaTlhOSDY4SUlBYURNc00yeTkzTlptdXNpQnlvS1FtYk4xRVI0bnNPUFpUdHlWT0ZFLVZhOWJhbFRXTjNYZlg3UzlFbDRMNmpXZl8tYUtxejZkdkpMV0FHRm8ydw?oc=5"
+    },
     {
       "headline": "Block Inc. (XYZ) A High-Growth Large-Cap Stock To Invest In For Financial Services Exposure - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMy0zMFliUDNDbkl5SVRmVkFpZ0d3RnhFMmRxdlEzNHJoQXJuWEpfcG5QSFRHUEpSV2pyYU5ZNHJRTFpvR3ZjeExFWlVmc3ptWjg1RjRmenBRWGRacTd3Nnd1SFpoMEZiczY0M2NKa2pxdU5lWGFaZE9aMy1Ra1JTX3RURnd3enF4aEVIcmgwQVNiSkFz?oc=5"
     },
     {
-      "headline": "Block Inc (XYZ) Stock Up 4.6% but GF Value Says Overvalued -- GF Score: 87/100 - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS0IwN2ZFdTNweVlPTmZ4Qlk1ckVuMWRJWFVEaTlFbUFZY1kzS2tmakV6dzBXQXdLZzl3NkhqZFdGSW1uN2gtNG5KQ0JLRVBqT2x5cG41czZzR0RvY1V4ZnBXZDdHS0RFekVOOG1DUXZrb3dUcFdjZGlrcEJqbU9tdjlLT05iMHAzNzZ1VlVOb0kzcXY4R1MxM1ExZmJJOFRmc2lGU1Vlc1kyVVVQ?oc=5"
-    },
-    {
-      "headline": "Block, Inc. (XYZ) director sells 18,000 shares in 10b5-1 plan - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVTl2VmppVmg1NF93TVN1QWpCQUYxRGdnNHJvR3pjMFpjYUVpdXI2eUlZT0oxNndDRHBvVEVjLVRBNXM5UTVKT1Y0aXd3S3AxUnBDNkxsSm5BQWRTUkdIdllwaGxBRm1ZZy1WNkt5S0c4Qm96ZW5jcXhyam8xaldqakw4bmY5SDhjNXc5Snh2UGlEVDJFNW45Y2FlbHBOWDYzeGgyWg?oc=5"
+      "headline": "Block Inc. (NYSE:XYZ) Breaks Out With Strong Technical and Setup Ratings - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaE82cVZiVFpJcFp1NC02dm9Iclo3RnBJVkFXRjlYelp6elJSaHlVNlVpOWxSU0ljaGVQWF8zNGY4UG41N012Q2lSTjRKcHZEZV9FTm13M2gtcUVYMUVma0Jjbk1jbkhQT3Jhc051MklLdTJvMXBCcnY1amh4bjRhcmtFSWQ4V3FwYmlMVFFNY0VFQ29mVDZ5LWVXQ29kUTR2UUEwWWpWOWZmVTZhWGlBc1FjUWdLU1BVX01j?oc=5"
     }
   ],
   "insight": "Tracking Block, Inc. (XYZ)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-25T05:43:00.268Z",
-  "builtDateUTC": "2026-06-25",
+  "builtAt": "2026-06-26T05:48:29.666Z",
+  "builtDateUTC": "2026-06-26",
   "source": "yahoo-finance",
   "1m": [
-    238.16000366210938,
     248.82000732421875,
     233.39999389648438,
     243.2899932861328,
@@ -24,10 +23,10 @@
     226.11000061035156,
     221.89999389648438,
     204.1300048828125,
-    197.41000366210938
+    197.41000366210938,
+    204.89999389648438
   ],
   "6m": [
-    178.2899932861328,
     179.25999450683594,
     176.1199951171875,
     172.33999633789062,
@@ -158,10 +157,10 @@
     226.11000061035156,
     221.89999389648438,
     204.1300048828125,
-    197.41000366210938
+    197.41000366210938,
+    204.89999389648438
   ],
   "1y": [
-    155.92999267578125,
     158.19000244140625,
     158.5399932861328,
     159.25999450683594,
@@ -411,18 +410,13 @@
     226.11000061035156,
     221.89999389648438,
     204.1300048828125,
-    197.41000366210938
+    197.41000366210938,
+    204.89999389648438
   ],
-  "lastClose": 197.41000366210938,
-  "oneYearReturn": 26.601688536326545,
+  "lastClose": 204.89999389648438,
+  "oneYearReturn": 29.527777188308445,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Qualcomm Stock Price Prediction: 36% Upside the Analysts Are Missing - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmotZDBJZnRxOWNFN0VTWk1sV2RUVDR6UWt3MmxQa2tYUXpfV1FMY0w1cHNkNlJ2c1NSZ1lvckRGTzhuWTZvQ0Q3akFqWmc1clJjN3VmWGFMTWxVRDRpZF9LZFhXTlpYUGZBVFU2Tl9mbXZ5RUhBcVR5djhLMTdESVpkOWYtbzFZd0VleGtaQlh4T3JLM0JBVmNOVGxaTzNC?oc=5"
-    },
     {
       "headline": "Qualcomm to Acquire AI Software Firm Modular in $3.9 Billion Stock Deal - WSJ",
       "source": "WSJ",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEc3OVB3WWZUSTR1cVpwX3NPSmUwVWFhdWZnbXdYSVhJVWdjNEx4UnBKWFV1UGw1TktnYTJDWlE0RWVGNjhjV1dXdy05RGd0bG5BdWlra3BnUC1BMVZ3Nl9aS3hFNHh4dUJGeVI4ZWJUc3c3U3p2MHc4UHhuczhvRV9LbllsbUlDY0RUcEJ2cTRnT21hWWwxUXZsY2xHSU9Iclp4RE1MWWJ2UUE?oc=5"
     },
     {
-      "headline": "Qualcomm Stock Falls Sharply but the Chip Maker Has a Plan to Save AI Rally - Barron's",
-      "source": "Barron's",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rZFFnR21keGVSVXdVLV9RbGlDUXgyYmROMW9vSUpWeXpPbURlTmhLcTJBckF1dzdxclh4ckk0WGZYSGF0bnNDb2ZIRURXWW1wQzFEdElXUEMyeU1MWW9wemNScG5FUDQ5dE1jWGNWbGdxYV9WcmdSSmpGNA?oc=5"
+      "headline": "What Qualcomm Stock Was Saying About Its Multibillion-Dollar Data Center Plan - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOem5ROXBUdmpieEpHOUs0MDhMMzJCZTZNVEt6Mlc1dndUTmFXYS1QcEpZUHRsZ25UbXQwNGw4WnRKdXQ0dG5xYXpyT2FpQlFmS09WRUNuVThaX2tJVE8yZGVDaTJQcE1WM0lTOWExaGVCd2RPcHo0S1VDNUhVcmNsS0V5b09Ua0prZ2I4RHlBVFdydFZvcmwtVjlmNHJ4clpIcVFDV1BtbXpZUQ?oc=5"
+    },
+    {
+      "headline": "Qualcomm stock pops 15% after chipmaker almost doubles projection for 2029 non-handset revenue - CNBC",
+      "source": "CNBC",
+      "when": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sNEdnQXFnVjJBMnlEeWJsVzZPM1BjMHdzVWtGMV9UeVhHWTVnWl9HSWFVQ2FsVHdPZlkxcmNrQl9yZW82eF9xdGtXQnlhVC1wbW1BLTNwRzF0Q3FtZE5XaF9xRUthRmtnSHBtWVhxT09SdWhL0gF6QVVfeXFMTVZjamtUbE11Qk9KVVhWZGhlRXlRcjNBeEpWZ3MtQUFvWldYX3FRZGtsUVV2LTVDcC1JbnRQM1ZDck5JYVV3czdTUW44RkNUQ2JhQjZIb19Gb1N6ekl6YW41RTJYUGtUSWJENzVEX05rd0ZaQTNOa05Ha0E?oc=5"
     }
   ],
   "insight": "Tracking Qualcomm (QCOM)."

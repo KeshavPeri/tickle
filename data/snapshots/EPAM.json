@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-25T05:42:36.613Z",
-  "builtDateUTC": "2026-06-25",
+  "builtAt": "2026-06-26T05:48:09.548Z",
+  "builtDateUTC": "2026-06-26",
   "source": "yahoo-finance",
   "1m": [
-    102.69000244140625,
     99.69000244140625,
     101.68000030517578,
     101.43000030517578,
@@ -24,10 +23,10 @@
     76.63999938964844,
     76.04000091552734,
     76.88999938964844,
-    78.38999938964844
+    78.38999938964844,
+    77.37000274658203
   ],
   "6m": [
-    209.6300048828125,
     212.13999938964844,
     205.85000610351562,
     204.3300018310547,
@@ -158,10 +157,10 @@
     76.63999938964844,
     76.04000091552734,
     76.88999938964844,
-    78.38999938964844
+    78.38999938964844,
+    77.37000274658203
   ],
   "1y": [
-    173.10000610351562,
     174,
     174.92999267578125,
     176.82000732421875,
@@ -411,12 +410,19 @@
     76.63999938964844,
     76.04000091552734,
     76.88999938964844,
-    78.38999938964844
+    78.38999938964844,
+    77.37000274658203
   ],
-  "lastClose": 78.38999938964844,
-  "oneYearReturn": -54.71404007763559,
+  "lastClose": 77.37000274658203,
+  "oneYearReturn": -55.53448118012527,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "EPAM Systems Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcXhUUmRuNG1odmswLTQ0VzVYZW9GTHJiTWw5cjV6RUtqMXd6Y0hrNXNEZ3pmck5VSnZWVmhsbjl1R1llTjZnN0IxR2duV2FGQjA4TnRZN25Fam1oRVhWSk1RU0lqQVRETk1xZ1Z1TDhjVXdtQnU3bHcxejFQNGdtSDVKOHpBOWlmNnJFMXhQY2xSSUlyeHFYU1dobTVJM0wyV1B0dERyb1VUbG9vclcwd2szYWJfVHFqZHdaT1l5YjRvS3pnZHRUNHFEUjJPc0pUZ3Y3Y2ZCMEg5VXhhMGVNSlFpcUo?oc=5"
+    },
     {
       "headline": "Is EPAM Systems Stock Underperforming the Dow? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3Z0TXBfMHVqcEhJSW1nR1RnZDBQUzlRektQZlE2NDVGTWRPV2NHU2FYM3Z5cE5iZ0RLQmF1WUZMNDlLZlNrcEtxbXlRZWdyUm1ybE9wWjhyQTdnSFhmUWRTWFRTTnFRWWJtWk96cFRCVG0wQk15RWgzTmhFTHJlLW5mR1R0cDllTWhMSFJYSXQ1VkZYV3ROcHdVXzM4OWhyZ0VGeHV3?oc=5"
     },
     {
-      "headline": "EPAM Systems Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSEJzUGdoVTctdFoyWmtGNUk5UWt3aXZZS21HZEI1YmtvMlJFUEw1bk9xSFBRTlBrX1YxQmFEN1RoSkRZa05oaTBYZmFBUG8yU3VEMHpGWXJacW9LYnVOODdkRVMzQ04xR05oZ2Y3WVFOdmJHUjZ1TGNGbEhpZEJLTzFaNGcxSF9JRUtBdDc5aHkxR2E0QWk5RjM0SnFpQm4wbHZJdmRzNkxhbXNmTk5YaDlEUFhVLXZHVFlha0pqNW50aHBIbEFiak1CcmdnbENvU0pxWjlwMWhyY0JxZnE4?oc=5"
-    },
-    {
-      "headline": "Is EPAM Systems (EPAM) Undervalued Following Its Goldman Sachs Downgrade And Earnings Beat? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMWNpX3VyMnpJV3l6Z3dvaVZWb3k2cUlRVG5rYUllcThMNFAwNlN4d3M4YUtYZVVCelM3NTlxOW9HdmwxdUctX0RCajdJRHBvRHJsMVpBdmpVd250UDZLN3VNVVZvQU5zY0NJRHp4ekY1ZWl0RnBzT0RNaHhUOXFkcG1jS3lPS2YxWlR5X0RjM1BzS0h6cVJhajVLYzNMNGdpbXdIR0d2dW01WVF5cFZ1MFF0VG1wMFlwcmlhMVVWSDFzb2Z5SDhld2tTM19hd9IBzgFBVV95cUxOMWNpX3VyMnpJV3l6Z3dvaVZWb3k2cUlRVG5rYUllcThMNFAwNlN4d3M4YUtYZVVCelM3NTlxOW9HdmwxdUctX0RCajdJRHBvRHJsMVpBdmpVd250UDZLN3VNVVZvQU5zY0NJRHp4ekY1ZWl0RnBzT0RNaHhUOXFkcG1jS3lPS2YxWlR5X0RjM1BzS0h6cVJhajVLYzNMNGdpbXdIR0d2dW01WVF5cFZ1MFF0VG1wMFlwcmlhMVVWSDFzb2Z5SDhld2tTM19hdw?oc=5"
+      "headline": "Down 65% From Its Peak, Can EPAM Systems Stock Finally Turn the Corner? - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-06-21",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRTZJcHY4dzJYakZYYkthWU5sdm1DbTVBaUxReC1pX3lOR2N5dGVxWko4RFNNYll0YkF3SE9CNE02cW9wa0lPdEpqa0N2R0diODBGY1BNS3BVOVo2b3pvNmJJVHpsVkdRZzNYSmpWVTM4OFMybHk2ajVvYldPaW9nN0RGemhVVzZfSGJHY19selZNazRoRUEzQ1R0WEh6MURwdVhIb3JVenNkbzV4LTVF?oc=5"
     }
   ],
   "insight": "Tracking EPAM Systems (EPAM)."

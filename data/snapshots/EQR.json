@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-25T05:42:36.703Z",
-  "builtDateUTC": "2026-06-25",
+  "builtAt": "2026-06-26T05:48:09.759Z",
+  "builtDateUTC": "2026-06-26",
   "source": "yahoo-finance",
   "1m": [
-    66.19999694824219,
     66.12999725341797,
     66.62999725341797,
     66.26000213623047,
@@ -24,10 +23,10 @@
     64.08999633789062,
     64.7300033569336,
     65.69999694824219,
-    66.22000122070312
+    66.22000122070312,
+    67.16999816894531
   ],
   "6m": [
-    60.95000076293945,
     61.099998474121094,
     60.72999954223633,
     61.97999954223633,
@@ -158,10 +157,10 @@
     64.08999633789062,
     64.7300033569336,
     65.69999694824219,
-    66.22000122070312
+    66.22000122070312,
+    67.16999816894531
   ],
   "1y": [
-    65.63999938964844,
     67.45999908447266,
     67.3499984741211,
     67.48999786376953,
@@ -411,29 +410,30 @@
     64.08999633789062,
     64.7300033569336,
     65.69999694824219,
-    66.22000122070312
+    66.22000122070312,
+    67.16999816894531
   ],
-  "lastClose": 66.22000122070312,
-  "oneYearReturn": 0.8836103541252546,
+  "lastClose": 67.16999816894531,
+  "oneYearReturn": -0.429885738901668,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Equity Residential stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTXhVQmlUYVdjalNSWldBZHpPaVY0RVVyN0RCRmlCemNuYUJJUWM5endLelBWLXMzX0xWT2V2UWxxcUFMcVlWSFY1YUdQTDhtVHlmSXl3TGQwd0pHYVctZTNhcWctR09QQTdrU3VXSkdpRUd0OHZhMmNtbGt5ZHZCTi03bDlQX28wRWxGUkhUVnJ2OENzS0dqZG1kUFlJVUZpbm8teW11cXR1LUhYRlROMFprMEtZbXZxYk5CX3V3T1Q2S2lGUnREYl9LbDMwV2Ywb3lfeFVnVWhkeHg4c0hjTElB?oc=5"
+    },
+    {
+      "headline": "Equity Residential Actuals & Estimates (NYSE:EQR) - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWRKREV4U3BDZm5RaFVjYXp1dy04bDJQUWhlT3BoNGdvaUlDbmZ2d3JhcVlCSGV2NktrQnlPWUhGRHdRRDZ2YVVCZFg0c2N0d2dfQnQwZU42ekVaSWl2YWhhaThfOGNqYWZhMFdKOFdMY3JucmRjdnM4aGR1ZHJFb0hn?oc=5"
+    },
     {
       "headline": "Equity Residential (EQR) Stock After Recent Pullback Is The Valuation Now Appealing - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-06-21",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQXlkVk9OMWJLZ1hNVDE1V0ZNYWdSZWlTWW1JT19pWEtsU1Fzd3VfZTlNVktFOFUtV1RHbTlvdmtVV3N6WXFvX0NIamNmQ3hUb25Icy1OUDlqVjB4blN5cmZDeXlraG5PSExzQjFnWFN4Q1R6TmRoMnJiUGctYURnclFfbVBlSXB3dGdNRnd5cDhlYlo5emFNT3JueVd6SEM1eU1zU0R3NXhOa1JLQmFIOUc1RmFrU2p2SnJMLUNEX09LOHpodVhocFItZ3Y5dTFMTWc00gHYAUFVX3lxTE1VaHVNNlk4SEpMMGlqTWtkak8xUEY0MXhHVVRjWndyNjFOZm9mdWY5UFBGamJRRWNXeUZ3c2tRVjdPLWJER0gyMk8wdkI4NGdFeVVmNEYwLTBtYnBqZThlMEd0TFNWX1U1ZThmak5aQmZfNnAzcEFxdnhlSFNXcmxBN1lZckVxaEI1OTAzdDBkV3NXNVVoU1p2Qm40U2FqREh0VklKUDZHWjU1VktBSVczNmpaVW9yM1B5OHE5YjYybGNfRGluUXFlUG1TSzJuWnp6RTB3RXFVVg?oc=5"
-    },
-    {
-      "headline": "Equity Residential stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZGd6aEk3TjRuaTB2Y0g2S3Z5U3kwV0VjTkZwd2RVRHUwc0laSVJieWNxNlZwbVpWSXlnQWxZZVQzR2U5Sm9uUS1KeVB5RVVheS1ROElwaDVldHIzbllBWWtLa205aTRzVFJoWUpTOWVVdkRqWjJpNjBCTk5lR3pJakxMVEJNYml2VUNvLUZUTGxsUTI0bDZIZ21YdU52aWhXSHZYUTlKTXdnM2lyZlI4MkRhTFFqU3JsTk5KclJ4SUlENGZ1c1ZDZjhrU29hcE9zazBHWU1NcTdDbnczcUtOb1Jn?oc=5"
-    },
-    {
-      "headline": "Equity Residential Stock: Is EQR Underperforming the Real Estate Sector? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa194cVZJN0JIOTh1TjRSOUFqZGlDU3duSVBmb2RwdWItZWtuUDQ4MnZyZHowa2dzOHEwY2NEWExUOEx4WWppUlBNN2N2NDlQQWstRTVUb0dMbzJVZ01DbGdfZjZVcXVIaWFVQnBMQ3ZDdUY3RUk2ZGFLem4wTlE1MVBrYUNKb1hteS13Nld0bWx1LVNZREpUaVREbGt3OExmSkF4cTZmY1I3bkFhTUE?oc=5"
     }
   ],
   "insight": "Tracking Equity Residential (EQR)."
