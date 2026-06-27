@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-26T05:48:27.141Z",
-  "builtDateUTC": "2026-06-26",
+  "builtAt": "2026-06-27T05:29:01.289Z",
+  "builtDateUTC": "2026-06-27",
   "source": "yahoo-finance",
   "1m": [
-    74.41000366210938,
     74.8499984741211,
     74.08999633789062,
     72.70999908447266,
@@ -24,10 +23,10 @@
     72.55000305175781,
     72.95999908447266,
     73.66000366210938,
-    73.43000030517578
+    73.43000030517578,
+    73.08999633789062
   ],
   "6m": [
-    80.4800033569336,
     80.63999938964844,
     82.69999694824219,
     81.66000366210938,
@@ -158,10 +157,10 @@
     72.55000305175781,
     72.95999908447266,
     73.66000366210938,
-    73.43000030517578
+    73.43000030517578,
+    73.08999633789062
   ],
   "1y": [
-    71.22000122070312,
     71.36000061035156,
     71.94000244140625,
     73.83000183105469,
@@ -411,18 +410,13 @@
     72.55000305175781,
     72.95999908447266,
     73.66000366210938,
-    73.43000030517578
+    73.43000030517578,
+    73.08999633789062
   ],
-  "lastClose": 73.43000030517578,
-  "oneYearReturn": 3.103059599260756,
+  "lastClose": 73.08999633789062,
+  "oneYearReturn": 2.424321346331529,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Down 12% in 2026, Can Omnicom Group Stock Bounce Back From Here? - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-06-20",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQURHblBBVDZzQUJzbW0xSFNIck9XemV4Q29hMDVHbUJrLUVpSDlZQnFXUUZoVktRZ1J2OVRUUjZMQ1c1MzNONThkSkFmc3UydUlENHNObXFGMElmTmM4M2Jfb096dVhOdl8wTC1BZS1WYzF0RnN3MzA4SVRtb3pjY2FBbUNJMkd0WE1xTDk5UW5vWGhvRDBURGQxbjZKN2NibUdOQXJHem0yWmt2?oc=5"
-    },
     {
       "headline": "Q1 Rundown: Omnicom Group (NYSE:OMC) Vs Other Advertising & Marketing Services Stocks - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEhxZnF3YmNTYjJjd1plQVFoME51YVhxY0Vfb0VSaTh5cE9udnJNcVNkZnFqWnZmZmVFcHBYNWhkenR2UkVGSVF3QVh0emZZZ1l0dUdlaGZPUFA4NUZDVmMzNTBrSHFJbG5qQnZ6X0x0VkJYYUFIQTJ1TUlFOFlVME9TeE1QR3lKQVd5NlFCY0Z4ZnZsQ3FjMzBGVHc0UQ?oc=5"
     },
     {
-      "headline": "Omnicom Group (OMC) Stock Could Be 27.8% Undervalued After Media Rankings Recognition - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Omnicom Group Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQk93V3luTldlU0tEMVFteExPd3otUE82UGI4UG1QVjZtZTJtS2s5Uk5sa0dGMm1zWU5xcFdGQ3FhSzBaMjhFZW00RXpsTDdGX3pKdDJJYk1xMzRHQW1FblpZcTdBZnc4R1RlNU9vQlYxRE54OUY0dU9HY0dBSWcydE5JUVo3QmV0aFBIbzJnMW9nR1FRdERsLUFHbGVNMHRSZlR3czVQUTJXLW5XNEREZ3d6R1VhY3NoeHNvcm9lN2dnZFFqYWtQWg?oc=5"
+    },
+    {
+      "headline": "Down 12% in 2026, Can Omnicom Group Stock Bounce Back From Here? - TIKR.com",
+      "source": "TIKR.com",
       "when": "2026-06-20",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1lrWGlrNXhZdXh1dVhJSjZMbTYwY29DczBVZHZfSkhaZDZxaGdUMGxyU2pvZ1pYX0p1RjNpRUM2dzdNYWxOejlmZUltbGRad1N4cFJJOXlfemphVmtvY0Y2cHRtckZSZ0U2TC00dm0xdUhmWkVIbXVMQXRPUl9tWmZ5bTdEd2hwY0hobXhlZDJpdjRvVTdaa2pkMW1rX1J1M0FlUXN4S0p0cDhBUzJDOWg2MThWMXNGdHRPUTFfekZxVUFp0gHKAUFVX3lxTE4ybVQzQUpiMno2bEQ2VXI5SjRHMnMyYzZBa08xd3BiTEJaSEwzTFFSbFNzOV9fNlA2TUpIakpUSE93dFpvS1N3V0FZVE1CTTJPS3hJRFJTY3RiOU1HQU1YWkgxaXJpUENJa2NZeFNlVE4wdTJIeGp3YUNVNGZya1FRYTlWOEhMNHNhTzVFRFlRREZQVGpfUVlPcGdDeEt0UVl2WnNzSWRCNXAzNDdVWGRXSVBuNEZqSFhHcWs4OG1qRWhKMENjSU5lMGc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQURHblBBVDZzQUJzbW0xSFNIck9XemV4Q29hMDVHbUJrLUVpSDlZQnFXUUZoVktRZ1J2OVRUUjZMQ1c1MzNONThkSkFmc3UydUlENHNObXFGMElmTmM4M2Jfb096dVhOdl8wTC1BZS1WYzF0RnN3MzA4SVRtb3pjY2FBbUNJMkd0WE1xTDk5UW5vWGhvRDBURGQxbjZKN2NibUdOQXJHem0yWmt2?oc=5"
     }
   ],
   "insight": "Tracking Omnicom Group (OMC)."

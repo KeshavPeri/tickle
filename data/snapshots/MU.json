@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-26T05:48:25.452Z",
-  "builtDateUTC": "2026-06-26",
+  "builtAt": "2026-06-27T05:29:00.096Z",
+  "builtDateUTC": "2026-06-27",
   "source": "yahoo-finance",
   "1m": [
-    895.8800048828125,
     928.4099731445312,
     923.52001953125,
     971,
@@ -24,10 +23,10 @@
     1211.3800048828125,
     1051.77001953125,
     1048.510009765625,
-    1213.56005859375
+    1213.56005859375,
+    1132.3299560546875
   ],
   "6m": [
-    237.5,
     232.50999450683594,
     225.52000427246094,
     248.5500030517578,
@@ -158,10 +157,10 @@
     1211.3800048828125,
     1051.77001953125,
     1048.510009765625,
-    1213.56005859375
+    1213.56005859375,
+    1132.3299560546875
   ],
   "1y": [
-    126,
     124.76000213623047,
     123.25,
     120.88999938964844,
@@ -411,12 +410,19 @@
     1211.3800048828125,
     1051.77001953125,
     1048.510009765625,
-    1213.56005859375
+    1213.56005859375,
+    1132.3299560546875
   ],
-  "lastClose": 1213.56005859375,
-  "oneYearReturn": 863.1429036458334,
+  "lastClose": 1132.3299560546875,
+  "oneYearReturn": 807.6065539164154,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Micron’s stock is still dirt cheap. Some analysts say that’s about to change. - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQngwNkFBb3BQQnRBRHNvX0szVElCekZmd2FqdHMzTmNCWlExRTl3YUVsc29rYVNoWW1uNGxyYml1Tk9tSk1ickVEX0Y0UzJHT3VuR2U5cmtCTU5YRUhjYlRic0YwaHB1Z2MwTGJZLXJZbVh2SlVkeFp5WGt4NkVZOHRvR3gtNG90NjdjNTEtMF9JLW9OTGZQYTVZcUpnOWVubU1jUVk5b0xUNGJFMTFPY3hCcUJESU0?oc=5"
+    },
     {
       "headline": "Micron Earnings: What Goes Up Must Come Down … Eventually - Morningstar",
       "source": "Morningstar",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXlxVVJQM3Y5Y3I4QVhvY05BRURxZjZvc01QeWcwWjJsN3JOaG91WGwtV1E3QjNvcUNkblk2NllXWGRPQ0NoODlEVHg2VG1rbVlSOTU1UllIM1I3Y0NJQklYc3pzNF81V2dMdWxuVWFNLWswUVY3cVJGblFBZlBDaGRpSERaZGtObUxYNlJSZVQzc1h6U0o3T01WR1E4blE?oc=5"
     },
     {
-      "headline": "Nasdaq Extends Losing Streak Even As Micron Soars On Earnings; Apple Stock Dives Below Key Level - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmpmenRheTZKNUFCWjJhT2Z2UGUtVVBmalIyeUhnbGRhRHFQSXpadXVDT3h0N010ZkxCazI5eThKZ3dtSUxCWm1fMmZjcUQ0RWQxbGZVc3pGdXhjVUYxOElhQVVCR0tlRUxFbF9DNWNVZHUwQXpYRmJmRmhPbDBZVVVyR3JEd1NKTWhHN2dlWVgwRGZYbUdiWXdXbkRoN0tfM0QtVUZldw?oc=5"
-    },
-    {
-      "headline": "Micron Technology (MU) Higher Target Reflects Multi-Year Demand Visibility, Needham Says - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaF9WdUo2OFEzSWlMZU8xT3R3emtxT0Z2dERsX3hNenViNDRsTzItTU9jQlFQOTdxckNwMU95UWdKdTFaaW9Wc2k0X29jSHlzZkppandEVlVQUmtJNW1hd1ZJNGh1OEVEQ3FMTUlhV3JBYVE2dnJiZnE0Z08zQ01IeVBKcDZHa3ZUaGdvQ2ZrMmV1bjZURzYxQ3A2N0xLR1Zk?oc=5"
+      "headline": "Micron sinks 6%, wrapping a wild week of trading that saw big swings - CNBC",
+      "source": "CNBC",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41THQwTFA3cmhkQW83aktvZVBrRE55alNZSk5vLW1YX2J4WXRTUXRGcHBjNVhfZDhvQUJ4aUExSXVFbWpIVDY3eGtEbjFQSkRGdVdFMlNhMnBfZE54RFdaRElXTFl4a0RBMzZ3cGh2UFZWcjZaV0dpeDQwdGNfWUXSAYQBQVVfeXFMTjFuQWNkWEpfTUNneFVvbFV5bTlRa0lrbC1KTVFoc2dsZzdmVXhZeGpfRFZYbldDTTk2MlJZTnRzZUdzU0NSVFBNb0pvQ0xDc3pCRlFweUZNTVFmR25WMF9MNWF6alZ6SFhzRVpxdnJWQVlhQWY5ckQ4elR6ZlV5WFpwMTNq?oc=5"
     }
   ],
   "insight": "Tracking Micron Technology (MU)."

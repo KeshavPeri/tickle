@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-26T05:48:26.204Z",
-  "builtDateUTC": "2026-06-26",
+  "builtAt": "2026-06-27T05:29:00.562Z",
+  "builtDateUTC": "2026-06-27",
   "source": "yahoo-finance",
   "1m": [
-    320.2200012207031,
     325.67999267578125,
     307.8800048828125,
     304.9599914550781,
@@ -24,10 +23,10 @@
     304.1700134277344,
     303.3900146484375,
     303.82000732421875,
-    312.05999755859375
+    312.05999755859375,
+    312.80999755859375
   ],
   "6m": [
-    299.489990234375,
     294,
     294.42999267578125,
     291.8299865722656,
@@ -158,10 +157,10 @@
     304.1700134277344,
     303.3900146484375,
     303.82000732421875,
-    312.05999755859375
+    312.05999755859375,
+    312.80999755859375
   ],
   "1y": [
-    255.50999450683594,
     255.80999755859375,
     255.97000122070312,
     262.3800048828125,
@@ -411,12 +410,19 @@
     304.1700134277344,
     303.3900146484375,
     303.82000732421875,
-    312.05999755859375
+    312.05999755859375,
+    312.80999755859375
   ],
-  "lastClose": 312.05999755859375,
-  "oneYearReturn": 22.13220784607894,
+  "lastClose": 312.80999755859375,
+  "oneYearReturn": 22.282162755169114,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Should You Buy Norfolk Southern Corporation (NSC)? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-11",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWV4UGM2TVhrUHRRUXVFUUVEZ0lRZzNtQkpKckY5bGlTYnA5dVBNeENzb09pdkJzYmpxeXl6X1lESUxCcG1Nb09COThKdHVxYW1fNmEzcHlQZXEyWnZMZklGV1k5cnFZTHM2UFRfalVJM3VFWVBTSVMzT2VzaWJOUi12RnNIUm1ENEhvZGJiZ1NPZjh3M0VYMWlJc3BwMXNHMjVF?oc=5"
+    },
     {
       "headline": "Norfolk Southern Corp. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVGt5QUhuS0R0TVF1NnVVcjdMejV2UFI0MDJKSi12aUVvQ2pGelVYRTBGWmV1Mm8xNmdTR1VyZXFkeUZQd0dsM20tRzItaUVTZzJrbzI2aW9BZ085NTMzX1pYSldObEV0RExGOUMyeUxSdGdxcWZ3RmtFVXFyek5PZldPVW5oc1ZWOEw3Y2NfQUNtOUhMSlBGeVZ4b1V2NlpyYXliQXIwZzJoZVl4RDc4QkxxdXd6QkFWMmJMazl3dFdhYnhMblJfeXFFVzF0MlZHN09QNFhtUVpPWlMydzdQSTNEaS1mMmw0YTlydVNwVDZjR014YnRRYjNnM3RMLWdGSWJGTFg2ckg?oc=5"
     },
     {
-      "headline": "Norfolk Southern sets July 23 call for second-quarter earnings - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ3gweWtHVXc2ODBCU3V3cjhscllRdWJHcjZTZUU5ajc3VjBBT2t6SXBkRjNCLWNiWVZHTEFEYWtraUk1T2hqSlFmM2JYdWNZc2dSdW5LRDJkSTZBZ012V3c2WGdiT1dsaU1yc3dEcXNXa2YtU28xSTJzbkl2QU5GcWdIcG9VaEMxS2tZaHZpZnV4eTlPMGpaQ0ktajBOVWJNdmZDcVUzT2JlX3JrVVFGUk56LXItWU5SeDNPejhCcw?oc=5"
-    },
-    {
-      "headline": "Should You Buy Norfolk Southern Corporation (NSC)? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWV4UGM2TVhrUHRRUXVFUUVEZ0lRZzNtQkpKckY5bGlTYnA5dVBNeENzb09pdkJzYmpxeXl6X1lESUxCcG1Nb09COThKdHVxYW1fNmEzcHlQZXEyWnZMZklGV1k5cnFZTHM2UFRfalVJM3VFWVBTSVMzT2VzaWJOUi12RnNIUm1ENEhvZGJiZ1NPZjh3M0VYMWlJc3BwMXNHMjVF?oc=5"
+      "headline": "BMO Capital Sticks to Their Hold Rating for Norfolk Southern (NSC) - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMEpxUFhRQ1MtbWViZlBUbWlSZjFnVzFnQk9BbnhDTndONVJsNWNrY1VCd0tiRmlUbFA5RU4zcGVIMmJRMjNPRnhWS3l4Y0lsZzZaR2V4YmdZQ1NSNXI4Y29kazhnOFhyR0YzZGZkNnRTakJRRUJuaUtabHVsWllfVDhYRG5RMHgtR0JxZ01BaTlWb3hWSjRWWFAzLVU1UTA3ZEEyamJYTEs4dnhDZHA3VUx5T0VSLXNESlpMSkFQT1JTOFRHNHdncXppMFlmTG9QTW13c0xUYkNNT21oRFVN?oc=5"
     }
   ],
   "insight": "Tracking Norfolk Southern (NSC)."

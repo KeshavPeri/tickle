@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-26T05:48:37.423Z",
-  "builtDateUTC": "2026-06-26",
+  "builtAt": "2026-06-27T05:29:10.789Z",
+  "builtDateUTC": "2026-06-27",
   "source": "yahoo-finance",
   "1m": [
-    252.44000244140625,
     252.50999450683594,
     247.89999389648438,
     243.6300048828125,
@@ -24,10 +23,10 @@
     245.69000244140625,
     237.72000122070312,
     247.77999877929688,
-    243.38999938964844
+    243.38999938964844,
+    251.52999877929688
   ],
   "6m": [
-    265.2900085449219,
     261.1700134277344,
     254.27000427246094,
     252.7100067138672,
@@ -158,10 +157,10 @@
     245.69000244140625,
     237.72000122070312,
     247.77999877929688,
-    243.38999938964844
+    243.38999938964844,
+    251.52999877929688
   ],
   "1y": [
-    308.32000732421875,
     309.260009765625,
     308.3599853515625,
     315.4800109863281,
@@ -411,17 +410,18 @@
     245.69000244140625,
     237.72000122070312,
     247.77999877929688,
-    243.38999938964844
+    243.38999938964844,
+    251.52999877929688
   ],
-  "lastClose": 243.38999938964844,
-  "oneYearReturn": -21.059291123554022,
+  "lastClose": 251.52999877929688,
+  "oneYearReturn": -18.66714388002485,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Zebra Technologies Corp. Cl A stock underperforms Thursday when compared to competitors - MarketWatch",
+      "headline": "Zebra Technologies Corp. Cl A stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV0xnUTBFWFRUY1VfSzFHVzZyMzBuV0tNV05Nc0xjWmNQWEtiQmMxU250WlhwaWh4YTQxSDlIQlF4cjB2ZzdmQWwtME1ldXRoZGFfM2ZnTzQwaDNuZy1WeDFTWXgxdUtjT01oYzVjX0l2U05lWldRUmtPaXZSLXQyRC1wR1lpUlFUOENnWXRDX2JuMl9KT1dpUF82VjI0REpfVndPNVR2aWhEdW5iQVpVdmc5SnRfa0RodUhuNnNZOUdkbUx1cS1DbC1aSVZPelo4cEdEdi02ME9WcmJROEx1bHBxNFhqOWR3aVo2Rmk4RDA0clJHcU9n?oc=5"
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNXNiQURDWHlXRXFGTkJscExhWjB6WUJtMHhFN01PcHZidGFDN2xhYnlzMzNMUGFFajJDU2xCbENEOVBMYzNyeDFTZ19PRXVvbFZ0Y3htdjhXYjdiMzVRakFQV28tM0t0Yy02dUNqWHhQeTBxNW9uTVY5NWtWZzAyaFZtUVBxbnhCMHc1QjhILVNQLThNLTNTLTVjdFItX1pldkpWOUNhWFBmRHNUYk5UenZjWnZpUHFnUk9QdzktY1JoZDkzRS1MZVMyc1VySVRRYnRrdVRub2dTMkRPTTR0UFkweXNhM0pOdlJyemRDWQ?oc=5"
     },
     {
       "headline": "This is Why Zebra Technologies Corporation (ZBRA) is a Cheap Robotics Stock to Buy - Yahoo Finance",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdjJfRHVnTjRoWlRJU1BqUEJRQ0xqbFQzZmgtb3NPYUZ4LVlIZ2FreHJLSzNzbkFXdURNdERIN0J6TWVWb2VDaE9YUEs2elBzR0NVX3VoRHdWdDh0bU9Mem1QWnEyWDFPR2xNRlp4b3lfVVUwVnlWTjl1VUZhMkxtaHYtczROQlUxWkpjd2Z2dzJ4WmJxYU5RZjRONUNkaS1iYzlNSTZ6bw?oc=5"
     },
     {
-      "headline": "Zebra Technologies (ZBRA) Stock Could Be 24.5% Undervalued After Automate 2026 - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ3dENHYwWk5ORDBhZDRDWkphVXJLMHp4VHhXSXBkMkpSUlZWZVFzZm82UUV3cWF5OC0yaWFxU29wQnh4TkhsRmJaUXhiUXFjMjRpYkowZktocUhfQ1pEUGxtWGtTNk5vSE03MUV1RWhqbWFhUU9fVXBQampVU0FPT3d3MzZiRWY4Vk9OMWFDNjBKQ0ZCUENEZzMyczVFTFBUSXZObkdoMVo0WElSRzVTa2hCY2pfc2dVeWpoaUY3NVJIa3NHOS02clJLVnRSZ9IB0wFBVV95cUxPQ05NMG13cmlvSHZJSkxQYW56YjVnaTF1Zkxtc2daQTY5V0VtSXVkQjZQVm56blp1dWtndHF6VXlSS2ZFWFhocXhSMmdBRkkwV1htUHd6aVJqTnFGQmZTR0FVbFBQdXB5TVdJaEh6RGgtOXRKdExNeUpGY3IzSUNVUmlqRU5EdTJHREo5V19PX18wVkVEQkdyV0pVRjV4c2VxZ0VST2VuRTZrMEZ0eEFlaTBRckZITXhEZ2c2eXNveXRNc1Y4MUhnMzJZZTQyamVUbzlZ?oc=5"
+      "headline": "Zebra Technologies Corp (ZBRA) Shares Surge 3.3% -- What GF Score of 80 Tells Investors - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-27",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ29GcEtfSTZ1TENyaU5EaTh1WUdJbW5vY2drX0tPYWEtbVFGdlVna29VNzZ4SVRvNExpay1US3FTY3lZLTlrbF81RnlmSnZKT2FCZTNaLVc3R0hLazdMVzNnSTFESWlvMU5jYUl0aUJRMW5yU1NsaDVWZ250aXBiNW80dndsMUg1R1BmLWlaNE1LRnBQUWV1MkdVcFlYbnlxOV9aRnBORU5NX1ZGdnJUM2pFOUdycUhZZmVn?oc=5"
     }
   ],
   "insight": "Tracking Zebra Technologies (ZBRA)."

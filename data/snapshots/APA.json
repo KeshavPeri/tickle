@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-26T05:47:54.613Z",
-  "builtDateUTC": "2026-06-26",
+  "builtAt": "2026-06-27T05:28:31.609Z",
+  "builtDateUTC": "2026-06-27",
   "source": "yahoo-finance",
   "1m": [
-    37.5,
     36.619998931884766,
     36.529998779296875,
     36.43000030517578,
@@ -24,10 +23,10 @@
     34.20000076293945,
     34.220001220703125,
     33.33000183105469,
-    33.41999816894531
+    33.41999816894531,
+    33.0099983215332
   ],
   "6m": [
-    25.270000457763672,
     23.959999084472656,
     24.6299991607666,
     23.809999465942383,
@@ -158,10 +157,10 @@
     34.20000076293945,
     34.220001220703125,
     33.33000183105469,
-    33.41999816894531
+    33.41999816894531,
+    33.0099983215332
   ],
   "1y": [
-    18.450000762939453,
     18.559999465942383,
     18.290000915527344,
     18.940000534057617,
@@ -411,12 +410,19 @@
     34.20000076293945,
     34.220001220703125,
     33.33000183105469,
-    33.41999816894531
+    33.41999816894531,
+    33.0099983215332
   ],
-  "lastClose": 33.41999816894531,
-  "oneYearReturn": 81.13819396732013,
+  "lastClose": 33.0099983215332,
+  "oneYearReturn": 77.85559952254623,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is APA Corporation Stock Outperforming the Nasdaq? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV1ZYV2JOY05tS01HREE5ZEJiZFpIX2tLSnJ2OF84WEhvUXRYdDV1WWJiR0tSWUtNRlFWZ3dUVnZtQWZmbkJQOF9PZ2t2eEFUUmd4MHhfaWJaZzE5QzdLdXRZd2FDU2VrQlFfdXdKejNNLTJMVVVWTjVWRHJwWTVaaHRxV05DdTl5d05mem5uRExsWG1TXzl3cWdNeENvb0ZBMVdVQURYVHN0NFE?oc=5"
+    },
     {
       "headline": "APA Corporation and Cactus Stocks Trade Down, What You Need To Know - StockStory",
       "source": "StockStory",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcVA3ZVF4eklncXRRdktrU3p4Z0RhZFg1YUQxZU94elVFTjAxaGlBYl82R2FBT2xsSHBZalpmbC1nNVJRTWg1OGJTbTh5Y2FYR2dERlp0ckx2aWpfQzJ2SGxUUjF6WXdaUVRqenZhQ19Ya19CSTROU3ppWkp6UkFJUVpVTFNvRlo4Wks3Vm9kOFk5SERQTF9iLTNPTEVpMjYxWjVYQzF4ajRxOGY2NVNMZnlqS0thUi1BMGpDNzJ3eEtESjFlWUE?oc=5"
     },
     {
-      "headline": "APA Corporation Actuals & Estimates (NASDAQ:APA) - TradingView",
-      "source": "TradingView",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFZqUEFtSTNBQXZ4bDRTS2hDcjFiNml6YlJNOXRoTUZjR3ZHNkhuZFkzcFY2djc1NmJISEQwZnlhSnNBb0lZS2pkRUJFTUlPOGRtWk4zVHUyTVUtNkl0N0ZEeHRhLUEtamlGZUkzVm1pdVZHT1VlSWIxSFo0TWRzZFNtQWk?oc=5"
-    },
-    {
-      "headline": "Is APA Corporation Stock Outperforming the Nasdaq? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV1ZYV2JOY05tS01HREE5ZEJiZFpIX2tLSnJ2OF84WEhvUXRYdDV1WWJiR0tSWUtNRlFWZ3dUVnZtQWZmbkJQOF9PZ2t2eEFUUmd4MHhfaWJaZzE5QzdLdXRZd2FDU2VrQlFfdXdKejNNLTJMVVVWTjVWRHJwWTVaaHRxV05DdTl5d05mem5uRExsWG1TXzl3cWdNeENvb0ZBMVdVQURYVHN0NFE?oc=5"
+      "headline": "APA Corporation (APA) Upgraded at Roth Capital. Here is Why - Insider Monkey",
+      "source": "Insider Monkey",
+      "when": "2026-06-27",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckhDRWVkQUc2WkdBakZJVmVzNGhDUDluT2NmXzZZa3FLY052a3NUMEdsZUpieTNzRnFvU2hYU1VCRUl4b3EzQXI2SHd4OTZQMkF4YUl4MTlYa01hWDBPY0Z0S2JzNHNwQUFIM1dSUGRaRkxYTGRFZXpWZ1lZUUFZVkRMLWtxbTAwYm5CbEt2U1A2Q1pyWldabDl2TzU0am13NHRBUnpMTm42d9IBqgFBVV95cUxOckhDRWVkQUc2WkdBakZJVmVzNGhDUDluT2NmXzZZa3FLY052a3NUMEdsZUpieTNzRnFvU2hYU1VCRUl4b3EzQXI2SHd4OTZQMkF4YUl4MTlYa01hWDBPY0Z0S2JzNHNwQUFIM1dSUGRaRkxYTGRFZXpWZ1lZUUFZVkRMLWtxbTAwYm5CbEt2U1A2Q1pyWldabDl2TzU0am13NHRBUnpMTm42dw?oc=5"
     }
   ],
   "insight": "Tracking APA Corporation (APA)."

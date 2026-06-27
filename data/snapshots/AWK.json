@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-26T05:47:56.011Z",
-  "builtDateUTC": "2026-06-26",
+  "builtAt": "2026-06-27T05:28:32.869Z",
+  "builtDateUTC": "2026-06-27",
   "source": "yahoo-finance",
   "1m": [
-    123.8499984741211,
     123.77999877929688,
     122.3499984741211,
     123.2699966430664,
@@ -24,10 +23,10 @@
     124.91999816894531,
     126.5999984741211,
     129.63999938964844,
-    130
+    130,
+    132.67999267578125
   ],
   "6m": [
-    134.1300048828125,
     132.72000122070312,
     134.00999450683594,
     133.02000427246094,
@@ -158,10 +157,10 @@
     124.91999816894531,
     126.5999984741211,
     129.63999938964844,
-    130
+    130,
+    132.67999267578125
   ],
   "1y": [
-    138.4199981689453,
     137.9199981689453,
     139.11000061035156,
     142.55999755859375,
@@ -411,12 +410,19 @@
     124.91999816894531,
     126.5999984741211,
     129.63999938964844,
-    130
+    130,
+    132.67999267578125
   ],
-  "lastClose": 130,
-  "oneYearReturn": -6.082934749550047,
+  "lastClose": 132.67999267578125,
+  "oneYearReturn": -3.7993079776185246,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "What's the Latest on the American Water-Essential Utilities Merger - Kavout | AI",
+      "source": "Kavout | AI",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnlwQ0lIWXFjeVNkQktDaTRubW1PTHJrcEYyOWdSY2RkYTIzdnZNTDFueEdRdnFMaXl1TnFMa2RyVU10S2UxN3F1Uk9rYXZzdi0wbFhhaTJKeXhDcHBPcHktSXFBa0kzdHhVU2dYeTQxS0hSNE1GSHVvcklRMVo2M2lFUnliSlRxMHB3OVdzXzY4ZUZmSThvSExuYlNmbVpGZ3lj?oc=5"
+    },
     {
       "headline": "American Water Works (AWK) Stock After Recent Weakness Is The Valuation Still Justified - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWFfRlU3WWlscTdmSEdXaXdZODB6ZUFNWW9UWlgydXN1c18xX3BvRndfQlphZGwxZ3lTNzR6cC0xR0FBZUZIcUdFQlpKOURCNGFybkZZRVhPVmVxZTRSZ2NNTTVHZHJEZmhCSk5pbWVMUTcxTFpsZTdwVk14SFNocjR6dFVmSlRnRGp4alNRMDVsOVdfcFQ0WC12MA?oc=5"
     },
     {
-      "headline": "American Water Works Co. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcktuM2MyQlBGQ2FEZkxGZ2V4dnRJRGU0TkU4TkdVdFZfdTdYcnhvV0ljdWNYMW1GQzZudUFoREF1ZGFJOUdwRXEySG1fcmtnUmdxd3FTYi0xaTctZXBGeU1TbzhFelRzMk1RLUpYa0c0ZkpDUzRWXzFqeWhJUDRvVHhJeVRuN0xfczJyM21mNHd1c0dBZU8yYjhtTFcyVUJFaEEtdjJfYzQ2OTdNeDFMUUNoVzF1VWVVUXFvWHIwRUpFWVdDbnhNU3BYUUhLb0hvNENVdlN4XzhNd295MmlzUXpZS0RVNEUzSDBqRmhDSm1hUQ?oc=5"
-    },
-    {
-      "headline": "American Water Works (AWK) Stock Could Be 8% Undervalued On Its Acquisition Narrative - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-20",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUdZYXk0cl9TOFhselpncE1iNW9YWDFXS0lyRE96dDBUeUpTWGE1QWxNTGk0V0xiTVJ4V1pyWDRxdEpWcndlU24xODUyOFR5WGJTakxCX1dIdjVfVl9FNUIxbWVFVGJGM1hVNmU2X2t0UVFIUEtCNkduWVlsM0pYTFpSd2RXMnExcGU3WU1OUlZnZkV0cXp1aDhhMA?oc=5"
+      "headline": "American Water Works Company (AWK) Could Be 4% Undervalued As Growth Narrative Builds - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQWtDU1JJaWdJQzNSV3lJeWhPTmI4YmxBN0F3bGdjZVNnZndoZkd3dmktNk51NmlPVzBCeVlSdl9wQ0dpeE96dU5Pa3hfcnQ1UEM0dEZnUUctNXZrdlNacUQwUElqSXhKdWtPTG5mN21QRWNNZlNEdkJ2WElHSi1mLVNUMVJpdE40anEzYnpVTFBTVGgyRTlOZ3EwZE5jdWt3Tl9aTkZsbmo3Nm1oRDU4M1d5cW5xb2s3VjN6LWxRLWRhSkg0YVJaOHVsMy01UzdEWDM00gHYAUFVX3lxTFBBdkg0cXhpeUt3SUF6anQ5aFZjRzUtX0ZOazRHMWRCMzlQZGxqTmI5TU1UQXZpcnd2Mm9OZmpicV9DZ01vQVJVYXlTREJjb2hpUlBjM1prS2RjSExHN1prUmdBNjg4Z1cxZWZMREZ0ejNtc0xVLUMtUXlCVnBNamlWVERiZTl0dUV4MGZ6SEdUV2gyLVpXT0lXRDZiaUhVYkN5dGxqQjhVRm52WERMc0R4UXJKeTA0T09oSF9KZ0pzdmFDa1IyZGI5VFpBdUdINlZFREk2eHZ2Qg?oc=5"
     }
   ],
   "insight": "Tracking American Water Works (AWK)."

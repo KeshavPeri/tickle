@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-26T05:47:54.972Z",
-  "builtDateUTC": "2026-06-26",
+  "builtAt": "2026-06-27T05:28:32.078Z",
+  "builtDateUTC": "2026-06-27",
   "source": "yahoo-finance",
   "1m": [
-    514.239990234375,
     567.8300170898438,
     599.8900146484375,
     613.0900268554688,
@@ -24,10 +23,10 @@
     469.3900146484375,
     467.0199890136719,
     464.9599914550781,
-    445.92999267578125
+    445.92999267578125,
+    477.0799865722656
   ],
   "6m": [
-    675.1649780273438,
     677.2999877929688,
     657.1300048828125,
     694.3699951171875,
@@ -158,10 +157,10 @@
     469.3900146484375,
     467.0199890136719,
     464.9599914550781,
-    445.92999267578125
+    445.92999267578125,
+    477.0799865722656
   ],
   "1y": [
-    347.45001220703125,
     333.7799987792969,
     350.0799865722656,
     336.69000244140625,
@@ -411,29 +410,30 @@
     469.3900146484375,
     467.0199890136719,
     464.9599914550781,
-    445.92999267578125
+    445.92999267578125,
+    477.0799865722656
   ],
-  "lastClose": 445.92999267578125,
-  "oneYearReturn": 28.343639950736225,
+  "lastClose": 477.0799865722656,
+  "oneYearReturn": 42.93246698934829,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "AppLovin Stock 7-Day Losing Spree: Stock Falls -14% - Trefis",
+      "source": "Trefis",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObDdCcGdYbVkwRkZSZ0tRNGxRYk9fdFE1NngzdTVBMGhwX3JGMklpR3lzMC1Tejlha1hCd2dCTGlxdVVSdjlrX2dIYkhMU21WMy1oeENvU1h0X0Q5aEN1VEpUWFgwT182a0IxODAxN2VBLUppUFlleUsxY0MySzhTcG9tNVYxWmR1REpFSFRGejZyTFctS2FlT0s0TkdXaXczZmxtYzdOSjZaUmJp?oc=5"
+    },
+    {
+      "headline": "UBS AG issues autocallable notes linked to AppLovin (AMUB) — $10 notes, 2028 maturity - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeVNCQndCckhNT3RHWlU2R2xzUVNZeXNxdWNVTzZOVE5jZ1lIRFotZFdzQ3k3NWM5WGpKcC1jV080TWdjTFpoY0tQS0c2bVlsTk4zaUJHX0FvNU1HVnBZNTJMYWgxM296NWZDaEtSZF9icGRaeFh0cTMwWHZQTTJibTI5TkJsbC1SeDNaOGZYWXh2eEI5d1FNb3BiYjE?oc=5"
+    },
     {
       "headline": "AppLovin Stock (APP) Opinions on Analyst Ratings and Growth Projections - Quiver Quantitative",
       "source": "Quiver Quantitative",
       "when": "2026-06-25",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ0E0Q2FPb1pFTlo3UC04U2JsckdHVmswcUpwX2hKRXJ1VjM4ck1YQkpsZGVKSkc2cmp0NncyNDY2VWpJaFJQOWRqUzFFWmZSOUFRM0RqOXpHOUdDOGV5ZmlyUHczbHBoZzJlcDIya1JWZTJUeGpQV3IyWllIXzdReHJzcGRWSU1UZUZYWWg1czhuMzA0dVpGTHpubDVfeF8zbjRjM21TQkJPMTNS?oc=5"
-    },
-    {
-      "headline": "AppLovin Stock In Shambles: Down 11% With 6-Day Losing Streak - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGRxcnB3ME1SMmlydFEzT0w0VUFWY3MxTUdqRlhDUVBuODFvUlE5LTY2R3VPVl90OTI0eWFiSnFlcVBkZFpxSWxQbHZHVW5PMHo4STl0ZWdsS0U5VGpPMnpweTU5TzVfUkJiTkJ6akQ3RnVldFNqdE9ic1ZqckhCOXVqdm5QbzI2dGFIR2tvbHB1QzdYemFrWjZ1cWVMcUgzcW1DdlhRVVBPdjNwSHQ2eXM4cDFKMFhkUkNpa29ma3ZITHZETDhB?oc=5"
-    },
-    {
-      "headline": "AppLovin (APP) Stock Trades Up, Here Is Why - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVlFmbkJmY2pmYXlJcWNYSGxUSTlLWWdYb2YwaXZnUGxhV2dDLTNJVHo3UENFRXZ2RXRjbTR2WU52dHQzUEtkdG1oUEZ3bDhkSks2Wmstek5qR2t2Nkw1aXgtUDQyOTNtdW5KaWFoSFIzcXN6SW5FNGUyY0l0MENnam5mSUdINWlvUHJpd2x0dkl3cDNmOHdOWTNB?oc=5"
     }
   ],
   "insight": "Tracking AppLovin (APP)."

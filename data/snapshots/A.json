@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-26T05:47:50.249Z",
-  "builtDateUTC": "2026-06-26",
+  "builtAt": "2026-06-27T05:28:27.867Z",
+  "builtDateUTC": "2026-06-27",
   "source": "yahoo-finance",
   "1m": [
-    115.08000183105469,
     115.83999633789062,
     135.3800048828125,
     135.52999877929688,
@@ -24,10 +23,10 @@
     126.48999786376953,
     126.66999816894531,
     131.6300048828125,
-    135.50999450683594
+    135.50999450683594,
+    136.00999450683594
   ],
   "6m": [
-    140.60000610351562,
     139.19000244140625,
     136.66000366210938,
     136.89999389648438,
@@ -158,10 +157,10 @@
     126.48999786376953,
     126.66999816894531,
     131.6300048828125,
-    135.50999450683594
+    135.50999450683594,
+    136.00999450683594
   ],
   "1y": [
-    119.41999816894531,
     119.16999816894531,
     118.01000213623047,
     120.44999694824219,
@@ -411,18 +410,13 @@
     126.48999786376953,
     126.66999816894531,
     131.6300048828125,
-    135.50999450683594
+    135.50999450683594,
+    136.00999450683594
   ],
-  "lastClose": 135.50999450683594,
-  "oneYearReturn": 13.4734521726653,
+  "lastClose": 136.00999450683594,
+  "oneYearReturn": 14.131070400804106,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Agilent (A) Stock Trades Up, Here Is Why - StockStory",
-      "source": "StockStory",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNXFkeWplUTRaY2JEbmw2ei1VdW1mNkJEWnRnNERSbXduaF9Nb3l4VXFUTWFOOG9Yamt6RnBlZDFCZGlINmllekpfYkpPaktXckNlZEhpOXJmdkFUZ0dSWlphUGE0VHAxM2N3di1FYnFRNFh0OXMxUXdxdjNZT2ExcHpKemI2Zmo3VTNZZVNCbk5hZGo3NEYxemlFZDU?oc=5"
-    },
     {
       "headline": "Is the Options Market Predicting a Spike in Agilent Technologies Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjdxSzRvd2JuZFdtOWdBaEhOV1k5Nnl3LS1wVm56RVdLMTNPVmhsemNvZjJWRlNSZ2RMcjNTN0FKU3lIVXVYZFE3NGx6Wkk3dGpwUEpvS2NSNDcwUUJEOXZjSDZWYURPNk9kUDBMRU1MdXlJdHZxNjhhVHZhVnkyNi1wNmFFZ2UyX2w1ak8yWEwyZ0xQZGtEai1CYXpDSDk2SThxSWZpZVc?oc=5"
     },
     {
-      "headline": "Why Agilent Stock Is Slipping Premarket Today - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOUFTbjl6czVuX2hCOEk5RmRFMFVKOUFIa3d3Qlo5LXpwaFMtRG1jcXJuRDFlMlBJbW8yREFzQjJpZnBhUk9HSG5URE9kYlJrLWFGT3ZxTlBYV05hdllqVkFZQzBmdktqeWxDOXNONF9Xb01KbXB0NXVXcDljV2hSTnp4M3RsSUJ1VndsZmRoY3RtSFQ3aEQ0RGtZUTN2RlFnUkRuVHZ5aFhZUkppZlAyMEw0aG9PNFlQZ3FtakNOQTNObWNVd1JzYkxHN0pWTDNySnJ2NW9YQUJRMVhzZTJPSlBrbUk2dk5jN3pR?oc=5"
+      "headline": "Agilent (A) Stock Trades Up, Here Is Why - StockStory",
+      "source": "StockStory",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNXFkeWplUTRaY2JEbmw2ei1VdW1mNkJEWnRnNERSbXduaF9Nb3l4VXFUTWFOOG9Yamt6RnBlZDFCZGlINmllekpfYkpPaktXckNlZEhpOXJmdkFUZ0dSWlphUGE0VHAxM2N3di1FYnFRNFh0OXMxUXdxdjNZT2ExcHpKemI2Zmo3VTNZZVNCbk5hZGo3NEYxemlFZDU?oc=5"
+    },
+    {
+      "headline": "Agilent Technologies, Inc. (NYSE:A) Passed Our Checks, And It's About To Pay A US$0.255 Dividend - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU25neDllN3p2QjRPSUgtazJ5LVBIbTd0UVkwRWZpZjY5OF9nZGxTNWg5TXl3b2ctbVVyWlFPRklzUHVDMFA0SWVRN1JfdTdSTk9tdTFmQnVyYXR0UnFPU1dKcUwxQk9IbExSSlJpWWJxUWprN0VoTGMtblZ1YmxxR1F1TnRGOHQ3dEtYd1VuVDRGRHY1cTJ4Mm54UzNCeWNfbnZUbmlTYjl2MXp2UFBibHh0SUFKa1M3NExqLUwzTnZNS3psRHkwaUNrYjFZX2Z5U3g2dDMwSzhybjZYeFUyUHhjd9IB6AFBVV95cUxNXzRrTEFvMTJVWWVocmdLWlRJUTVlRmhSc1M3VlBNRDdmX1RDYWpxcEowZ2tZbVBDTlFGQVBTUE9LSUdtZHBVRFA3eXRXbUZMRG5mNnZjUDA4WVRkT3kxU2o5NjRWWERsNVlXR2tWUE9KaElNSFBHeGt0djRKblNXQkZQODRZaUhHS0hucmtfclhmRTh1QkNSem94OUN3Q0JDX1JuQWNOaWphamlPMHFvTWdNSWZQQlNEWHpsQXBlaWVzREZwU25qYXFOWDUzRUNvSkE3bmJvSTVVUDRtT3dzaG1kajlXMExk?oc=5"
     }
   ],
   "insight": "Tracking Agilent Technologies (A)."

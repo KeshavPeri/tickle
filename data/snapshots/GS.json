@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-26T05:48:15.812Z",
-  "builtDateUTC": "2026-06-26",
+  "builtAt": "2026-06-27T05:28:50.828Z",
+  "builtDateUTC": "2026-06-27",
   "source": "yahoo-finance",
   "1m": [
-    994.52001953125,
     996.469970703125,
     1008.3699951171875,
     1025.56005859375,
@@ -24,10 +23,10 @@
     1106.3699951171875,
     1094.43994140625,
     1076.9100341796875,
-    1065.0899658203125
+    1065.0899658203125,
+    1019.6099853515625
   ],
   "6m": [
-    889.5900268554688,
     879.1500244140625,
     872.3300170898438,
     876.2999877929688,
@@ -158,10 +157,10 @@
     1106.3699951171875,
     1094.43994140625,
     1076.9100341796875,
-    1065.0899658203125
+    1065.0899658203125,
+    1019.6099853515625
   ],
   "1y": [
-    687.1599731445312,
     690.8099975585938,
     707.75,
     706.4600219726562,
@@ -411,12 +410,19 @@
     1106.3699951171875,
     1094.43994140625,
     1076.9100341796875,
-    1065.0899658203125
+    1065.0899658203125,
+    1019.6099853515625
   ],
-  "lastClose": 1065.0899658203125,
-  "oneYearReturn": 54.998836871467596,
+  "lastClose": 1019.6099853515625,
+  "oneYearReturn": 47.59629839680777,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "INTC Stock Has More Than Tripled This Year — But Goldman Sachs Names 3 Better Chip Bets - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc241MVp1YXpWcFNqNkt5dVBiSVEyMGpsYXVaU1VRc040OGRxS1d6RlJGREt5ajVRVTlBTTR0UXBIMjk4c2x1WkJ2Z2ZxclFlZ3Vwb2FNendHZzJ6Q21vdkJ6R3dkTUs5RVZKXzFleW1mSkdkTnEwdTM4aC1WYTNOanA2Umt4UVRlM3J6OHZPVVNuYnpNNHZpYWZadDBmRzlqbkk1bHFYamxWbGtHZXJLZVlZZXBma18yY2dkSkxVZXhDOVV6amlCX1A1LXRrQkVESl9PUllZQ2xXeHR3ZUtKUkpMcw?oc=5"
+    },
     {
       "headline": "Goldman Sachs resets Micron stock target with a twist - thestreet.com",
       "source": "thestreet.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWdiNFpIY0lXSThSSjgwUU0xYTdjWEpNRUdiOXFCczhhM18xQXB5dWZ4WDhPWGd3Y1RHV0JpZW0yWUJtYWtZMEdXTEFvSGM1bGhKVlV5WGh0OHJpMnJVdl9JdTl2VW5Tc2tVbUF6eHZMVVp1Mk1oNGl4cjVWbUhwNS1vb01TMFZJOEUxWE5ZZm1ib3lYenlMLTFBc00?oc=5"
     },
     {
-      "headline": "Goldman Sachs is bullish on these customer experience software stocks - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzJidUZFNUtHSGJ4RVNiTjZfb2k0UDF4alYyQWJFdHNoWHlud3djRkFmYjJxaTRjUU9IcElHVmpwczFFaUhDNTRCbWtZZGRvdkxrZHdTOXR1U0FuTTNXV0lYZDZRcHZIOTdIdVh5RlNBMXVsT3Z1MmhFSElqMzVtQ1FXVng1eVpGQUZ6N1l5eG0za1Q5a0s0T19VZllVelRDLTAzVURGWEI?oc=5"
-    },
-    {
-      "headline": "Goldman Sachs Explains: Micron's Earnings Surged—Why Does Goldman Sachs Still Maintain a Neutral Rating? - 富途牛牛",
-      "source": "富途牛牛",
+      "headline": "Goldman Sachs says buy this gambling stock, sees it adding to its sharp 2026 gains - CNBC",
+      "source": "CNBC",
       "when": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHYySlhEemdxNjVSeThldml0VmxQb1VDVXZ0OEJOaTY5WlNnUy1PQXB2dy12Wk1pSmtBaW1mUzFxd0VKUTNSMm1odTRhSEdCdGNaY0hIVzRoQ2hVSjFpVVJ4VDhIQXpUcDFxekNnbXY4UFZIRVZrR1JnU2EzYXNuQ3hFeVBoMy03c3VNSTlIbmRWRzlfS3BlMURvX21WWUd4NHJGRHNrVmo?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGpQclJYSGR5bjBUdjc5b3Y3RDNHNlV2d3JxT2g2dC1JOG1Uc3hCLTAzdXFmQXlmOUFmWUlDUm1KZTk0cmQ3SGx1Y243bmUxSHh0clJlMWdmcEtoSi1iNmF1S09XeUdaSEpWSlJvNUlsbTFTNEg4eDhhaGxNWTlCZEx1YnloQndPUk0wZ0Z1YXExOU9fdTFOTEc2X2YyWlR4Y0FmeFprOU9sR1pJZ1dBUnpRU3VRTmU4NGc?oc=5"
     }
   ],
   "insight": "Tracking Goldman Sachs (GS)."

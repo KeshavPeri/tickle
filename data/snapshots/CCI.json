@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-26T05:47:59.987Z",
-  "builtDateUTC": "2026-06-26",
+  "builtAt": "2026-06-27T05:28:36.400Z",
+  "builtDateUTC": "2026-06-27",
   "source": "yahoo-finance",
   "1m": [
-    90.63999938964844,
     90.87000274658203,
     91.08999633789062,
     91.5,
@@ -24,10 +23,10 @@
     83.12000274658203,
     84.33000183105469,
     82.13999938964844,
-    79.52999877929688
+    79.52999877929688,
+    82.62000274658203
   ],
   "6m": [
-    89.48999786376953,
     87.9000015258789,
     88.25,
     86.9000015258789,
@@ -158,10 +157,10 @@
     83.12000274658203,
     84.33000183105469,
     82.13999938964844,
-    79.52999877929688
+    79.52999877929688,
+    82.62000274658203
   ],
   "1y": [
-    100.3499984741211,
     100.6500015258789,
     102.7300033569336,
     103.72000122070312,
@@ -411,18 +410,13 @@
     83.12000274658203,
     84.33000183105469,
     82.13999938964844,
-    79.52999877929688
+    79.52999877929688,
+    82.62000274658203
   ],
-  "lastClose": 79.52999877929688,
-  "oneYearReturn": -20.747384166820307,
+  "lastClose": 82.62000274658203,
+  "oneYearReturn": -17.91356036359427,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Crown Castle Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaUFRUFBsTV9HUzNwOGM2TDVFb1ZXajhYVi1qOEw1VlVlbzYtMkFhbzJJMjdmempaRUJHMDRCWl83SUluS2ljUGJMN2taREotanBmYjdLTUlmNGplVGFpNlUzejdEZWRYbmtyYnpnUE1QbWtHeXdMMUNyZHhBZ0FXWm5GajcwSmFTSkdtZndvX0tCQlVxUUxpbTRpTWVsTS1nVm9SREFJT2ZXMjVhcDl0djlFLVdlQWV2YmJCSkZWS01UTzhtY1F6R2JneFZ5Zk1uaF9sQ2ZZdmQ4NW5XRXBORU1OaXhnMmM?oc=5"
-    },
     {
       "headline": "Crown Castle (CCI) Stock After Fiber Exit And Buyback Reset How Fair Is The New Tower Valuation - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX3hqcVV1TnBPczZ5R2ZUNVJBV1UxWVpFdklDRHYxck9WY0ZMNndzTkNodnpuaEwybkxIaEtRMFF1YWRBQ0ZBTnNKOUJPYmwteDUzMUVGYWJsNW5jU01GdHR2YzQ2QzdTdzVDNlJHNXdudlc4REFJdzRCWXFqU0dKV1A4eEVXODJ2WjNNYVdBd01rVlBvZTFseg?oc=5"
     },
     {
-      "headline": "Crown Castle (CCI) Stock Could Be 17.2% Undervalued After Its Recent Pullback - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcGNLNEVmNnl0OTRsMnVwdlhHemtZYWFQU1RvU1ZZd2JSa25YdzFUc3ZabUt3WDlXQ1NrS0RHN3otX0w0NDlndFdtZm1uV2I4WGROaGxpLUtKdmZvVDZaWHctOV8zUU1wdXNtM0phWVM3d1o4RFI2MkpCczZDX0tiVFN4a0gtOWJYVmpkeUxiUE1qaEN0MW5ZcWdrbmVTdk96bDc4ODRtRnlSaGpRTlJ3SGY0U2IyUHNHdWxDeW1VOFU5RzlJWmlhODg5TdIB0AFBVV95cUxNeWJLV3ZMLXRLYi1nX1habkdEaERMeWk1NEJ3UHNZNXF6YUxvcWoyV1Q1bzV4Y0xFTVBweEhnNHBSc1BxOHNNUGlZcUxVQ0p2cl9hek9ORmxWeFFMMkIzb2ZPVG9STjFTUURCZkM2aFdBa01kSEFLU1YyYWhhUUpuRTVUR1VmN01vMHFZamExZFRXUDg3U240N3FPUTVjRVhyNnBnZjBQQUJUVzdDbS1zbFhpcXpWcHlxOGJuM0NNanNBb2VZUU9zcG5iOFRpYlk1?oc=5"
+      "headline": "Crown Castle Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcmJZd0kzSmRVbEdWdXp5Vi1ka3Z6bm8xYUFCWkVmVXNzZEQzUnFTR2o2R2FVTGF5a1VkVm1XZXhLdC1PSHlicndPck40d0N0VFVsMGo2dGtjNHdSekR3M0lFM3lCdXNESldxM1d2U3FzMm9LaHVRbXpFS1YtTzdNNXRwYl9iN0RjSGFDenZjcUJXTG5FeEtGTFRsWVN1OGc1X3ZHcGRiTlpEc0NVWk9iU2ZuSHNmOVJRSEl5S2l5QWJqR0tFZ18xTl9FeklSd2lEUnB3MTE0b2FmdUNpcWdN?oc=5"
+    },
+    {
+      "headline": "Goldman Sachs assumes Crown Castle stock coverage with neutral rating - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV3h5bE1Bal91NVkxWUVURjZ0Qmw0VkU5TGNZVVBkR09jc1dzNUl0cEFTQnBJQVBwbHRLb1JacjdDMzdKT1JGdmQtdGVnbmFZdDBOekluaVBuRE9pQ2F6Z2JwTXlPQWtaaldOWFJsSHpyLVlWcUp1ekw1NkxwX0pJendzOVZVRXRnZHlMOEV1dlg2NHdLV0RfakZ1VC1aSElVbFo5eWhyRXJ3MXFnUnp0QWNhTUxfaHN5Umh1a3JIRy1BaldfUkhoZQ?oc=5"
     }
   ],
   "insight": "Tracking Crown Castle (CCI)."

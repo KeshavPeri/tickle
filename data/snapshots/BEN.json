@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-26T05:47:57.310Z",
-  "builtDateUTC": "2026-06-26",
+  "builtAt": "2026-06-27T05:28:34.041Z",
+  "builtDateUTC": "2026-06-27",
   "source": "yahoo-finance",
   "1m": [
-    31.670000076293945,
     31.670000076293945,
     31.209999084472656,
     31.020000457763672,
@@ -24,10 +23,10 @@
     33.93000030517578,
     33.790000915527344,
     32.470001220703125,
-    32.650001525878906
+    32.650001525878906,
+    33.209999084472656
   ],
   "6m": [
-    23.6200008392334,
     23.469999313354492,
     23.670000076293945,
     23.899999618530273,
@@ -158,10 +157,10 @@
     33.93000030517578,
     33.790000915527344,
     32.470001220703125,
-    32.650001525878906
+    32.650001525878906,
+    33.209999084472656
   ],
   "1y": [
-    23.479999542236328,
     23.81999969482422,
     23.850000381469727,
     24.34000015258789,
@@ -411,12 +410,19 @@
     33.93000030517578,
     33.790000915527344,
     32.470001220703125,
-    32.650001525878906
+    32.650001525878906,
+    33.209999084472656
   ],
-  "lastClose": 32.650001525878906,
-  "oneYearReturn": 39.054523690034074,
+  "lastClose": 33.209999084472656,
+  "oneYearReturn": 39.42065285453704,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Franklin Resources Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnlkWm40SmlkbHJkeHZBRDlvY09fSXN0TzgwVmhKM0RtU0hQWS1TUWNMb2s2Z3ZLVDR6enVQdFZDaFBmRUZPYWNoYThvazVhR1RVN21ocFZqT1JhQ2FQRlpyZGhZVHNEaUR4a21pS191bDZpYzF1TnRHVkFnbFNUcDZkb1RXSFdTUmlEbUE0RUEtRGtrSDB1TEkxdU0wRGxxeWtUNEEyZXFOQlBVVTFrOHJqbnY5TklBTUFGYV9NRGVkbkpnWWlBdlhvOXlOQnpIMW5KaVBLVnVBQkhjRXBqUzVudHllRWM?oc=5"
+    },
     {
       "headline": "Are Finance Stocks Lagging Franklin Resources (BEN) This Year? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM0twUnJVMzlpWlh1bE1VTy1rLVlfQjZXQUNHdGZxRnNKc3BBV1I2bUFKa0JyWjJ6RE40Q2tjYU5ZR1NUVTFFb01JamxpN0dFdTZmelMtTzA2dlVEbDVKMkUxUWV3bGZqVm5wY3hKNS1uZjdFRUlhaFNLcGxpTTFWSHNiNTQ4cWw2YlY3RWMyNThKbWM4NE4xX0VpLUxRU0drb2Nnd2lVbnVwZw?oc=5"
     },
     {
-      "headline": "Franklin Resources stock hits 52-week high at 34.18 USD - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcWJEX3Myd0tPUmpCeG5uSVZwQmRabjZFeXZZUl9SdjNBNWg2dEdKYlUtMWVDMG9CUlQtS24tWjRWX09YWGhsRHBpUVVtV3pVekVUTW5HamFIT3VDbVRuZF83ckJUYUNjNEM1cXJYRVZtRjF3R21hYmV2Q2xBN19hamYyOVIwVnltNnZLMGpHdzlDaFRfekJMNzk3UXh4WkN1UlBTQmZTQ3Z6Z0x6bDlr?oc=5"
-    },
-    {
-      "headline": "Franklin Resources (BEN) Stock Could Be 24% Overvalued After ETF Push And Record AUM - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQalNTSmdHaFpzWFlNZFBOQlRuUUhNTF9Obmx1WU9fNjItNndCWjFNTmFrZTZsZElOcFBEMC13TDNGeWVHUkhzbk1wSnhUWllURHgzQjBEbmVrZk13M2IydzN0dFdPdnVSN1NodGE2NGtuVU9BU3Qzb3VDejd5cVBSTzE2X0Jpd3JlRklsUHpITnBHWGJfSGVrT2dZTVlWSFBoczhleXFBRU9waThfN3BsajktcTJPdEMycUdtQktoQTNMeFJkelN5Y0JCOVhkeEhCRlYzSWZCbkw0bXRYNlJoSjVn0gHnAUFVX3lxTE00Nld4RTJIbjdaLWtHeldncHNSMEF0TDJNYUpBMXlDdFZqOVFNR3R5bzBnNjlTY0ZhUlJTNFVLNmhIUXpncDRCZFByQmJZMjRSMEt3MndBSlBpb2hpeVgtaEM0YmFPZkkyNXV4SFk2ckctSTM1bi1jS2VWUk0xSG1WQk4tWHgzMFFYVUZMcmQxY3NvSVd5UlVCUEREV0luZ1BwRGMwNy1fczRrWTBkdmxLX3R2Zzg5VlNkeUsxbDZDeno3a2VlbTRpQ1ptUFJZcHkyMFZ3cjJISUs4bWFRLTNsdUpNNFNjWQ?oc=5"
+      "headline": "Franklin Resources, Inc. Stock 12‑Month Price Target Raised to $31.95, Implies 2% Downside - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb1ZjUnFTVXkxLTZuRDZCQmxic1l1S1dZQnVoMXBVcVU2R085RU5RNXNmNlUteVpJNW9pcmU4VTBaLWNsS1JmTlRocHpTSjBYWTVnd2J1RkYzZWltVEZYWGlXR0lVUnpOTGRNeU5PSHhmZ3hkUTlZRmRRbFVoYjRrUGZndk9rQ0VHekE3MUdZaWdFSVN3SFZZdVNJeDNCbEJrb1drUjI2Yk1JUjJNbkg2d1hvRjlHeDZBZVV1OU5OZEs2bjZhSXlOaHpVVTlBYmE4Z01zcVZxYlJpUkgzM3FHcA?oc=5"
     }
   ],
   "insight": "Tracking Franklin Resources (BEN)."

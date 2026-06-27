@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-26T05:48:34.681Z",
-  "builtDateUTC": "2026-06-26",
+  "builtAt": "2026-06-27T05:29:08.245Z",
+  "builtDateUTC": "2026-06-27",
   "source": "yahoo-finance",
   "1m": [
-    324.8900146484375,
     317.45001220703125,
     315.95001220703125,
     305.67999267578125,
@@ -24,10 +23,10 @@
     332.2799987792969,
     304.3599853515625,
     303.1099853515625,
-    311.80999755859375
+    311.80999755859375,
+    285.42999267578125
   ],
   "6m": [
-    177.97000122070312,
     177.55999755859375,
     174.49000549316406,
     176.19000244140625,
@@ -158,10 +157,10 @@
     332.2799987792969,
     304.3599853515625,
     303.1099853515625,
-    311.80999755859375
+    311.80999755859375,
+    285.42999267578125
   ],
   "1y": [
-    206.30999755859375,
     207.0800018310547,
     207.6199951171875,
     210.4499969482422,
@@ -411,12 +410,19 @@
     332.2799987792969,
     304.3599853515625,
     303.1099853515625,
-    311.80999755859375
+    311.80999755859375,
+    285.42999267578125
   ],
-  "lastClose": 311.80999755859375,
-  "oneYearReturn": 51.13663964347492,
+  "lastClose": 285.42999267578125,
+  "oneYearReturn": 37.83561432873081,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Texas Instruments (TXN) Declines More Than Market: Some Information for Investors - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc1Y4TnppMUpKeTh4Wk5KSHFsdXZhOElQR0U2RlVoSFpwNTZkdmdlU3dfZ3ZmVW9MMDJjenl2c3ltWWQ0NTI0cy15UWZGU1lxSVh3Z0tsX0JXRW43OTBNa2VnY1k4Si04VGEwUEY5Wld3b2hqTVd2dlFmNDFjSkJ6OVJaWTlQSmtzOENzSDhzTW02Q1FVdEhlaTl3YjN1aTI5YkE?oc=5"
+    },
     {
       "headline": "Texas Instruments Stock Fell 8% in a Day. Here’s Where the Stock Could Go in 2026 - TIKR.com",
       "source": "TIKR.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOejVFaW9BR3pQdmhweFZGelpraGw3ZlJWMWtpTzk0NWxxc1RqTFFEb0RncmhyY2hPcldxSjVpLXpPc2FBRHBVLUswRktCMk14WV96SlpWRm5NY2dBMkkxbDlBZmd6RGh3aUxhQzc3QTRubThNT0ZFMVBUMlBOQmMtOHVQWnFteWZGX1lLV2VBU0w5OTYwQkQ0bmsyd3ZseE03UW1mRUxjMA?oc=5"
     },
     {
-      "headline": "Texas Instruments (TXN) Stock After Capacity Expansion Push Is The Price Still Justified - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlZ3OS1wZC1vZWdjeUJMQ3p5V1o0enVaTzhxdmVzOEJreVVVamZtYkhtYzJDX1pzYjY3WDlYTlNUd1Z5MnIxUllnY2l1d0FGT0lfQXVCcGM5M3plVTNhanVYNmJyTUdjbDJKdzJMbkx4V2JjSVpUNEtFZnpFSmQ3Q0VPdGNMU0JyRTV1TmdnTFQxQUhycmlnQXZZM0ZaRkU3cTZn?oc=5"
-    },
-    {
-      "headline": "Texas Instruments Inc Stock (TXN) Moved Up by 3.53% on Jun 25: Drivers Behind the Movement - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdG9CYWJ1em9pWHhELVg3LXNQWWRsUVpRZ2hOZlFxM1lyVXBUOFRqS29yQXExTnQyMHZPcUZRYVpuc0dQYldIUWFVYXRiNktsMkpPOVJuY19ROTZYSUdiN3FYTENPMXJxVFVKTmZ2Tno1cm1Vdzd5NnBJQkhIMjByUWNScEpBSkczV3c?oc=5"
+      "headline": "Texas Instruments Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd1JWaDdaTUZPcEp3dTlNaC03TzhldDViTm5XM2NUWjZYNDZiX0pHOWVWSVVBcUMwYVBnU0Y5MHUtZWkzXzB6S3RkdmRtMGFHNmwzT2lhY1ZIMVE4d3FPMmkxZDE0OG5WZmc1emt4Z1JiTkxDRjd3eDVnNHVUaUx0MTRsVlFVcXQ4RjJGRHhleVYtSm13VzVGVEV4N1ZTMDlWVkxsdG4xcUFHdjZkWElQcFRzSzhza1VHTENFOEg1bXlteFZMYkwxMEdueWJRUDRMNVVN?oc=5"
     }
   ],
   "insight": "Tracking Texas Instruments (TXN)."

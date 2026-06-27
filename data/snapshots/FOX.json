@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-26T05:48:12.633Z",
-  "builtDateUTC": "2026-06-26",
+  "builtAt": "2026-06-27T05:28:48.123Z",
+  "builtDateUTC": "2026-06-27",
   "source": "yahoo-finance",
   "1m": [
-    58.08000183105469,
     58.619998931884766,
     59.22999954223633,
     57.38999938964844,
@@ -24,10 +23,10 @@
     44.93000030517578,
     44.54999923706055,
     45.369998931884766,
-    44.38999938964844
+    44.38999938964844,
+    45.90999984741211
   ],
   "6m": [
-    63.209999084472656,
     62.56999969482422,
     63.119998931884766,
     63.40999984741211,
@@ -158,10 +157,10 @@
     44.93000030517578,
     44.54999923706055,
     45.369998931884766,
-    44.38999938964844
+    44.38999938964844,
+    45.90999984741211
   ],
   "1y": [
-    52.209999084472656,
     52.349998474121094,
     51.630001068115234,
     51.59000015258789,
@@ -411,12 +410,19 @@
     44.93000030517578,
     44.54999923706055,
     45.369998931884766,
-    44.38999938964844
+    44.38999938964844,
+    45.90999984741211
   ],
-  "lastClose": 44.38999938964844,
-  "oneYearReturn": -14.977973246411914,
+  "lastClose": 45.90999984741211,
+  "oneYearReturn": -12.301812443972771,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Fox Corporation Class B Actuals & Estimates (SWB:FO5B) - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWFZVE1tRlIzNC1nODBBQkdUWE51Nm1TUTl0dGlMSUNpQkkwUkJ2Q1FRc1FJbndtYl9jREVYdkN0SXpWbUFfMUd1ODNSVmR3eHhfdy0tb0ZMWTBoaEFxd0x2R0Q0OUxfZGstOW5yT3Nzbmw0Wl9xY0NRVmxXaUxGcURlcDVqVHdlc2txdWpKTDNXUkdpVDAtT1NnOUhMSEp2?oc=5"
+    },
     {
       "headline": "Major Fox (NASDAQ: FOX) Class B holders back Roku merger share issuance - Stock Titan",
       "source": "Stock Titan",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXBMNmxRMC1wakxKRXkyS3VxV1FuaVpOLUtPMzJ3RjZGRHF2cll4WC14QkZqNU9GVDg4MF93bnZLYXByY19SWVlHWW42dnVUeHJQZnQzSDB6RkF5R3c3aU80MXFXWlFtQjhKTmFFQWFjaWR3Nl9Qa0UzUXdnMlNmUkFMOUlHOC0wT3kyVG9zcXVCa19VdGdxNnZPRFJHWjFUbUNCMG8tXzRQSDlrVzY0d2lNWjQ0SFdI?oc=5"
     },
     {
-      "headline": "Fox stock hits 52-week low at 45.93 USD - Investing.com UK",
-      "source": "Investing.com UK",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYndqY2xGc2QwaWRad2gyMU91dldacl8tNHZUNXU5RGVpbTA0cmVNcF9faWItX1BUNHBlVHZMZG1QaktuVFkyTUxNQ0EtZHRiX3Jza01qZXptZVVwY0V4QlZ6NnR0X251ZTdpMTJVVFVTUEFXX3NKMVRNX1Vkamc4blFBRzJvdWxPNFpuQlk2bS1TS1NhR2hSSHBBNE1ZRFBBdXFrLTlBMGh1QWU5S2Q4?oc=5"
-    },
-    {
-      "headline": "'Big Short' Investor Steve Eisman Roasts Fox's $22 Billion Roku Deal: 'Good Luck' - Sahm",
+      "headline": "Fox Bets $22 Billion On Roku In Streaming Power Grab - Sahm",
       "source": "Sahm",
-      "when": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQXRHQzdJOWFTUFRRdkNvTVREUjdwOU5FV3dGMDNuN3EyTXBzc2pWUF81dGxzbGVFZW5tV3dkRThvckh4U0V3QW1welV4X0JrNnJZWFpsTEZjcE0zVkRfMzBQSzRDR29qYmhuSDlZNzBjWEZCcnU4em9ONERRa1ktU3l6YzluTlZWTHpKM3FLeDBScjFRV2VpVF85OGFxUVdUZlNnNklBUnlNa1NUODRLSWoyYmdlSkpEbWcxVktmZ3ZiQjRa?oc=5"
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTURCUC1VYTYzOUszcVZQSjFSeTJrdFZWUFhUZmlHZmw0MHNkbDFHSUxiZjJ0TDQ5bWxiVHVYS0Z0Y0xQdXp1OVF2YllWWFBQMmRmNmdTYnRkOFAxdGJfYl9GMEpEVHdCdFB1QUVFY042bmZNZThRSnptSV9HYXZOMVNWWGMwdFd2TnROdVE3cGk0Um9NRDN5b1k3LUx2TlNIajBZZzhB?oc=5"
     }
   ],
   "insight": "Tracking Fox Corporation (Class B) (FOX)."
