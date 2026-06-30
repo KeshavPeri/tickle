@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-29T06:16:37.193Z",
-  "builtDateUTC": "2026-06-29",
+  "builtAt": "2026-06-30T05:45:56.580Z",
+  "builtDateUTC": "2026-06-30",
   "source": "yahoo-finance",
   "1m": [
-    108.01000213623047,
     106.30000305175781,
     105.62999725341797,
     103.5999984741211,
@@ -24,10 +23,10 @@
     108.75,
     110.72000122070312,
     110.76000213623047,
-    112.05999755859375
+    112.05999755859375,
+    112.29000091552734
   ],
   "6m": [
-    98.9000015258789,
     100.20999908447266,
     99.98999786376953,
     98.05999755859375,
@@ -158,10 +157,10 @@
     108.75,
     110.72000122070312,
     110.76000213623047,
-    112.05999755859375
+    112.05999755859375,
+    112.29000091552734
   ],
   "1y": [
-    98.1500015258789,
     100.3499984741211,
     100.77999877929688,
     99.91999816894531,
@@ -411,29 +410,30 @@
     108.75,
     110.72000122070312,
     110.76000213623047,
-    112.05999755859375
+    112.05999755859375,
+    112.29000091552734
   ],
-  "lastClose": 112.05999755859375,
-  "oneYearReturn": 14.17218116807389,
+  "lastClose": 112.29000091552734,
+  "oneYearReturn": 11.898358368670443,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Price to earnings forward of Consolidated Edison, Inc. – HAM:EDC - TradingView",
-      "source": "TradingView",
+      "headline": "Argus Cuts Price Target on Consolidated Edison (ED). Here is Why - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPakhGX2FGU1dHSFNFQ3UteF9kUkhxYzJCZUw3dlpHcDQ4dmx0MkVSU0Jwby11ZWQ5Q3NpMDJXZmRZWkx6TTdneXZZa2trQUIxNTNaRnRkcEJSQXdPSnV3R250aHFxcFpyUzdUdGZLMTBIblBSX2Z1SFptMEdxSjFZQTg1OVdCYjN0OFNWTW9QZm13bnpKdzhFTHczY00?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeW1RelJMeHBTOWllb1JDZnFEYVQxMDBGZTBScWppbkM5RnR1b182X3JXdGJLekpkMmtCSXliM19FX2pNTXRRRzdKTWtUakJjX1Z4VERSWEJnOXpZR1gxcFNnNG11cmIyLV9RZ1hqVnVNYXpsYmJ3Y2FTajJRVlJvMlFsOVR1T0d3WHp2cUtzcGxDb2ZWbWFmQTh0SERiMENyVHhR?oc=5"
+    },
+    {
+      "headline": "Price to earnings forward of Consolidated Edison, Inc. – NYSE:ED - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGVLdjJ5cU5UZHNiMmdrRlRFaDRVMHJ6ZzRLTjh6R2RjYWMxN1FHWFA0RzlnUmNCaXBqUFhnMnpOUjhYMzNHcDBTTUdUcnIxN08yT3NzQ2lQVFFTVmJtMHo4ZjF5WUpzUTQ3Yk5KenJNTHdGNWJuVU95VHFjSmNlS0VpZmNxcDdIcnBwdE9NbVlkRktGLXMyN0l5VHc?oc=5"
     },
     {
       "headline": "Consolidated Edison Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-24",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2hwcTBKMVdYZ1N6VHdSaEV2VVl2Z1hjU1pfMUZsMUVoQzk2NW5OUWI0QVdnWDRkLXZ5MVUxSUgwYVg3R0R0aE5KaGQ1ZGJIN3pydFRnaE16bVJoc3B6UWZHaFhLNFgyUTlnWE5zV3RZUTdfWmZJdTlua0cxaWtyd2U1WFhSVG1zQWMxYVJrRS1tYjZsbl9aVk5IMEQ5eXN1UkVzVFVrUHlTX1AwQnFvdlRIN19ZRUZNdFZPbUpWak1UcWViQ1ZKOEppSE9xSXFs?oc=5"
-    },
-    {
-      "headline": "Consolidated Edison (ED) Faces A Valuation Test Following Mizuho Downgrade - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmtTaFM0b3BxSHNHaThVOXBTLW4yX1hkeFF6cWRsUTNXRmJZZDFKQWRJYlpEZEFvcDNRb3VpY0ZxUDE1NmRDcktlSXlOWnhwdm4zS0JOWWVuNmlHQW1sNFg0TVAwaFQwWUw2X1hxSk1qTHVmZ0lrRjgtdmhiLVJHaUdpcWhGc0twOW5QQ2hNSlp3Y3VTeVlRZkR4TDhyUUNJRVN3QXdDOFc3djlWTlZPVFE4elhTVDhYNy15LUdvN0U5c2JiSTgtcl9SRTJVbm5C0gHWAUFVX3lxTE5Mc01aQWdPOGVVNUxiY0tKTFRWWU1zeUFwbTlNU3lEb2NKUkxoN0lqOEcyVUxiMlJaZGk1dmhxS3Eza2NTYjVHVFFxc2JfN2YzVVdfVFFOTTR4YTY1c0tDZGJfUElEOVUwLWQ2VTR1dXJsSHA4aFZQTDNjbk1PdnhqXy1keWs1ZE0zT2hiS25YRGF5ZWNJdy1ORzE0MVU1WTJSRGUwRHdzLWE4YWhuMkJfcl92N2dPMGRLSGpNVTFKektQMUV0SUcycmxLSXJVams1cEpmTWc?oc=5"
     }
   ],
   "insight": "Tracking Consolidated Edison (ED)."

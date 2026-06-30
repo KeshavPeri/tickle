@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-29T06:16:57.734Z",
-  "builtDateUTC": "2026-06-29",
+  "builtAt": "2026-06-30T05:46:16.514Z",
+  "builtDateUTC": "2026-06-30",
   "source": "yahoo-finance",
   "1m": [
-    182.0399932861328,
     178.57000732421875,
     177.3800048828125,
     172.66000366210938,
@@ -24,10 +23,10 @@
     178.69000244140625,
     178.77999877929688,
     178.92999267578125,
-    180.77000427246094
+    180.77000427246094,
+    182.8699951171875
   ],
   "6m": [
-    157.9499969482422,
     158.61000061035156,
     157.30999755859375,
     156.83999633789062,
@@ -158,10 +157,10 @@
     178.69000244140625,
     178.77999877929688,
     178.92999267578125,
-    180.77000427246094
+    180.77000427246094,
+    182.8699951171875
   ],
   "1y": [
-    181.02999877929688,
     182.1300048828125,
     177.52999877929688,
     175.91000366210938,
@@ -411,12 +410,19 @@
     178.69000244140625,
     178.77999877929688,
     178.92999267578125,
-    180.77000427246094
+    180.77000427246094,
+    182.8699951171875
   ],
-  "lastClose": 180.77000427246094,
-  "oneYearReturn": -0.14361957056239633,
+  "lastClose": 182.8699951171875,
+  "oneYearReturn": 0.4062978172383679,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Philip Morris International Inc. stock rises Monday, still underperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQblZ5WkhUa045WFhjT3JrdEtxMURuSXRXRGNWc2x2UjFvMkVOUjZBV3psbFlZam1vLWlyS1ZZQ0wxSnRwSjZDR0o5WVVMWWdXSGRzU1BXWE1odWlwSUFFQzVMYVVrbXNvNmwyQ0xPNGNyYUVMamZfOV8tMU5nSm9ibk9VSDlSeDJFQXVaM05TcUNBVDZudWFHSVk4U1BRazFqWVZERjRySWt5NEF0QVk3bm9yZm81NU5ZUjNLY0xRQ21mY3UxeF94THVYdTNOWWVrT3NacW5aanFhNklLWjY1dkRROTJnNUl6VU8w?oc=5"
+    },
     {
       "headline": "Philip Morris International (PM) Stock After 11.5% YTD Gain Are Valuation Concerns Justified - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUXFlMHV2eDlTMFk2Q2NmRHFRdldtX1lCUGhrUVpvMDhxVGhWZk9zVUNrTDBkZGZzNXlycTd1eWlEbEYtREpMNWpuZWlDblhPdW9EUC11VnZwV1JLclBDNFI4aEJoUmZlVzE5Z0lZdFdHNWVwRDY2LVg0MHlvbDFXZm5MTTZYQjFPU191QjREenRJVmwtdmdnMzhQazJHRjZpVDk4?oc=5"
     },
     {
-      "headline": "Diamant Asset Management Inc. Grows Stock Holdings in Philip Morris International Inc. $PM - MarketBeat",
+      "headline": "Pictet Asset Management Holding SA Reduces Stock Holdings in Philip Morris International Inc. $PM - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcmM2X2JscHdsejU0YXN2VnloOGd6VUQzelVkN2NkV21VQjlXaXZFLVY1Y2NKVThJWXlycUFsVXlLUF9aa01CMnV1NXg1VzhIdEt0VHpJN2piZUJ0VFlmY1RCaS1Db1Vwdk01TjhJc1p3M19ndk1nNUh6WW5td3NTX1ZCMjZmTUhRRnk5WEtqVE1BM0xSc2xDMXN6UUplQWk2Wk52UTRWSHFQcVN6TC1YNzdfYkp4djhNNEtXRGpzUk9xNjZCN1JaOWVkdktLX0MtcW9fOUR0SVlqSnN6NU5VdWd3?oc=5"
-    },
-    {
-      "headline": "Philip Morris International (PM) Presses The EU On Regulation, Is The Stock Fully Valued? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOGg4S3F1aFhMX0hPUl9oZ0FBYTl4Mm1BTi13N05CNDZ0OFFudHFOTDY1Rks1UnNJTUVlcVJUd3RRczRfYzQ3dl9mZ0Y0Uk5vajlxVnAxaEpaRngyRm9XRjV0UXYtd0tZZ2ZLdWViTGdSNFd2cXhXM2w4Q0dUNDEzcmY4V25RZzRzWGt6YURKamwwNTNnQldtcFFoVUVYZ2pNbmJuM1ZVXzNwNWc3Nm44b2pnM3l1ckdtYW9PUGY2SjVhUzE2LXA5TTNDaGZveld3NGdyOTRVV2t0ZWR0T2w5QXBoWHl3UGxTVVHSAe8BQVVfeXFMTVZwVVlvV3M4YlZmYUtoM2lzVTYwbnFRd1F4dlRfeU93dTI1NEVndVZacFJ0LUhjWjA4SFpxM1JTYVROTUwzS0x0Z2dvbC1fN203MWFjV3pLeHk5OVhIUkdBVHRpeXFUSnpoZE9nRmlkNjgyYno4QmJVaGEzbnAwTWh5aUtXOFlMdGhZVmkxTnVIaDg2TkNZQ3ktcFlfcDhBNUkzb2hpWjJWczRpamh0VnluNzgxWE10UEN6VUU4MjZHT3RsQmNUclZMa2U1QVhucVlnVmxlX214NzlxQW53YTVoOXc1WEJLb043MG1BcGs?oc=5"
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZFhFSlFwUUVBWkMzLWVYcnBvVl9nSmE2QTJkSjQwQzZHOG9Rc2J6c1N3bnMtdi1fcy1Oeml2dzhTWHU2ME9iNWh5NFNhUThpWDE4eWpIcG12NEJWOTFEd0VpanZRLWtMQmJYdWFXVFdNY2RZNnZPNFFLSFVTdnZyME9rN1NSVGljbFM3bnU0ZkJnUXJGS3NrMkg1M0Y4YkFNZzd3czYzaFd2cmM3UV9BNS00bGFIbmQxaldnRnU2RHo1R0N5Z2dBc1RYTEdxM0xRZDNvSGZIbkFyb0twa1l3bEFXR2hoVTFVTWYwbA?oc=5"
     }
   ],
   "insight": "Tracking Philip Morris International (PM)."

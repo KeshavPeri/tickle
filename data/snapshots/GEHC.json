@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-29T06:16:42.559Z",
-  "builtDateUTC": "2026-06-29",
+  "builtAt": "2026-06-30T05:46:01.975Z",
+  "builtDateUTC": "2026-06-30",
   "source": "yahoo-finance",
   "1m": [
-    63.880001068115234,
     62.86000061035156,
     62.34000015258789,
     62.689998626708984,
@@ -24,10 +23,10 @@
     63.720001220703125,
     64.87999725341797,
     64.94000244140625,
-    65.76000213623047
+    65.76000213623047,
+    65.05000305175781
   ],
   "6m": [
-    82.25,
     82.37999725341797,
     82.5199966430664,
     82.88999938964844,
@@ -158,10 +157,10 @@
     63.720001220703125,
     64.87999725341797,
     64.94000244140625,
-    65.76000213623047
+    65.76000213623047,
+    65.05000305175781
   ],
   "1y": [
-    74.37999725341797,
     74.06999969482422,
     75.94999694824219,
     76.12000274658203,
@@ -411,12 +410,19 @@
     63.720001220703125,
     64.87999725341797,
     64.94000244140625,
-    65.76000213623047
+    65.76000213623047,
+    65.05000305175781
   ],
-  "lastClose": 65.76000213623047,
-  "oneYearReturn": -11.589130728008177,
+  "lastClose": 65.05000305175781,
+  "oneYearReturn": -12.177665289901029,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "GE HealthCare Technologies Inc. stock falls Monday, underperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQejl5d0RFOHNfNDNrbjkwS24wZDJEbnQ1bGliWTNBNHFLalBvNllnQUNhdnNjQ19pckVuNEk4bm8xLXhOSDcxV0dHRVA4Zms2UWdqSGVZTmtJYjhtbkdBTGpoV0VjZV9FZTRiSFVJa1g1ZXJwUVNzcWFBQW8xNTJrczRCMlRuZVRoWXZJWFdNWU0zRENmTWxCWVB4NmdTODBxOEhNQTlJcElzdVRmYWpLRkdNSjRDdUJCRlBQakt5cEdua0IzcU1pTEtLaV9BTzMzdGJjLWxINE00a2hIOEF0Y3l3?oc=5"
+    },
     {
       "headline": "GE HealthCare (GEHC) Stock After Recent Spin-Off And DCF Valuation Gap - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEV2WDg2UG4tU3VWd3JnNXZybFFYOFpaZVBxMFBROHN1ZjFqNC1QSm1STklFMm4ySHNQMXVwNF9IeTJobGR2Y2pXV2s2Y1B2ekVkRkJJcnEzUl94QjgtTzJUUnpzMkdOY3JNVjFHRS0zeDBBMFJsVUw3VHFNR3doYWpuNGFNbnZjbGJUdzlaWnFhQjNfT1hj?oc=5"
     },
     {
-      "headline": "RBC Capital Initiates Coverage of GE HealthCare Technologies Inc. (GEHC) - Insider Monkey",
-      "source": "Insider Monkey",
-      "when": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRk11UXNXRWpxb2Z2RjhkZ0swLVNSdlN2bWlTTUlxOE5lWVZzcGx3UUlwQ1ZramNBanNIQjJDSE9aY2xpVk1iOEdZalFucElER0JjRjB2UVdXS0hPRWdrWjJPLVdTRjFPVy1fZUx3c29Fak9EUWp2ckVmZlh6QUYtQ3BmNV9xSTFPM2hTbWpSbXJmRHJPbzJGZ0JWQWRhNW43ZjVmYWlxVzZHdkpwTFhjQVRhTdIBuwFBVV95cUxNaW1aaGc0el9oNGI4anRKX2dzY0hVdnRQdEhxdm9jTV9tTzhTQUVhUmhZaFVWZG9SSGNaYk1mMlp3bzZoUHJZVzRubjNob0FlX1p5NG1vR2Q4MWlVeDlTVzZEc2h0M3lWNFBSUHBkVWdMMEpFX0Z1UlZzdU10UWFfdjJpVWdtbWh0ZDdGUlRvQjRpTk5yVFlHVWQ1SEhRSE1EUFdXWlpUYU9sSU9PbU9fYU5rcXVYU0JOX2hj?oc=5"
-    },
-    {
-      "headline": "GE HealthCare Stock Jumps 5% After RBC Says the Selloff Went Too Far: What an $80 Target Means for Investors - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNXYyVFJmeURURVQ1dXdxSlJPSWFnRlVObHR2MDZZeEtrcDhoU004YjBEa1hvWGtzdm5Wb25NS2pWRjVLSlVtaTFTZTJUTTFqcnNwVjBTZnJiNlkzNVhJc05mb2hRVng3VGZUajFkZ1h6bkk5dVByal9hS2wxRGNtSkg2Rm42SWtxM1ZJX1FjbUk2blcxRXVOS2ZlNXo4OTI0U2w1UDl0dHh2TmV0Y2oyQUxqVlR3OW13cFRLUDRiLVdQQjJRNDRIcE45NA?oc=5"
+      "headline": "GE HealthCare lets hospitals modernize aging imaging suites without major construction - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0RSbEh4NFU5V3VsVWlKNkVIVzlYNUFvamJDNWgxUWEtb2N5bFZzMUpBdXFqeVhrMXJiQ3BUeGlEOERlUXlmbERQRUx0SVNsa2x6N2g5emtHZW5zWnp3Qnd6WjlJX1I2SDE0X1JqUkVHQkRmZU5ITk55cGJjS0xBT3RqYy1YYlR2QU5NN1Rlemw5TkxScm16b0k5bWlBVl9wX3VnX0tEbTRMRmQzSk5wODdXOFc0UQ?oc=5"
     }
   ],
   "insight": "Tracking GE HealthCare (GEHC)."

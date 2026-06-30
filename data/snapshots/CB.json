@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-29T06:16:27.659Z",
-  "builtDateUTC": "2026-06-29",
+  "builtAt": "2026-06-30T05:45:47.503Z",
+  "builtDateUTC": "2026-06-30",
   "source": "yahoo-finance",
   "1m": [
-    320.6300048828125,
     316.2200012207031,
     311.7300109863281,
     309.7799987792969,
@@ -24,10 +23,10 @@
     332.1099853515625,
     335.1499938964844,
     330.82000732421875,
-    341.44000244140625
+    341.44000244140625,
+    343.2900085449219
   ],
   "6m": [
-    311.0400085449219,
     312.9599914550781,
     310.9599914550781,
     310.6000061035156,
@@ -158,10 +157,10 @@
     332.1099853515625,
     335.1499938964844,
     330.82000732421875,
-    341.44000244140625
+    341.44000244140625,
+    343.2900085449219
   ],
   "1y": [
-    285.1199951171875,
     289.7200012207031,
     289.5899963378906,
     280.0799865722656,
@@ -411,12 +410,19 @@
     332.1099853515625,
     335.1499938964844,
     330.82000732421875,
-    341.44000244140625
+    341.44000244140625,
+    343.2900085449219
   ],
-  "lastClose": 341.44000244140625,
-  "oneYearReturn": 19.75308932685363,
+  "lastClose": 343.2900085449219,
+  "oneYearReturn": 18.490268914299136,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Wall Street Firms Bullish on Chubb Limited (CB) as a Top Stock to Buy for Good Returns - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYkY4SlNkZE0tZzZvaVBPSDAxd1Fta3lveF85Mnl3eGZVc2pWdFFxNHBva2dTZFZkR0ZMVC0tanhZUWwzSE9hdjBsWEludktKZ1NGUlNDYkFHS3VhN05qNXY2QlFSOVRISmM3N3VSWGhPZUhyQl9zalBBUmZjRUc1dXFmSk1MRloxNFRWOElzNGJBa0FWMi1uUzdxS1U?oc=5"
+    },
     {
       "headline": "Chubb Limited: The Stock's Consistent Compounding Makes It A Strategic Gem (NYSE:CB) - Seeking Alpha",
       "source": "Seeking Alpha",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTFJYc29aeEJkbTRjNFV0M1NSVk54MHJvTjU5ZDhNU0hMRTVQZ01OOFBkckJsRmNzWHRDZ2tkcnhQVWIzcmVVamh2WEVSSFRTaUF0R1p4bUZqRjA1elZWOURpcWhkdUxNcjhKNXlQRlVrODVKclBHWkdEcjlWYjNfU1JXVTYwUXZVWDczY0NGVW03YldGSHozLVlPMjdjX25aTlBIMzVnTEtHcDE3VW1UTk9lMk82Zw?oc=5"
     },
     {
-      "headline": "Nicholas Wealth LLC. Reduces Stock Position in Chubb Limited $CB - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3hfLW5wTmVGcGp4cmE4QWUzZVlDTENEbHBCUlRFWmIzMXlJdVRqRnNJOU5Qb2I3T2xxRHB0VUxONW9qQlFKOUhtUWpvdWFXQVROUm5XRHNVN3pjLWdOVnBBVVd6aXNiOGpERURtU1N4V3ZvWE1rTUMyZV9hZGpLdVBEbWNHdHprU0pPQnZ1aWVoUk5qQ2phUkJGdnBMcTBhWms2VnJQTndGU2pTa0pQSWpzLVVxTW9GUkhLbWxycDY?oc=5"
-    },
-    {
-      "headline": "Chubb Limited (CB) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2pZS1E0OFZZZm5TeXBhb0g1cnJ5b0tWVEZ0UU5fb29BV2hIM3BWTHZsQnU2QUdsbmlvQ19Ua1NmZU8yS2FuZFFXUmFGdjU0TWZFSzlKWWczQ0ZyaDRFN2Z4Z0xRV2w2Q29qcG0yTXJEa0xMczQwa3haY3RVWl80SVVTTW16Rm10U3BuVHpVVzVaS3NDY0xfTnVVemZlUUZfSWZz?oc=5"
+      "headline": "Enterprise value to EBIT forward of Chubb Limited – NYSE:CB - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOczNJQ29tYlEyNUM4Q1dmUWFLT2k2cVQ4RjJBaERDTjJxbVd5YUxkdUFiTWo4Wmt6d2tqVDJBOTI1eVpnTld3OGI3cHgwSTc3ay00Q1ZZSURrRU5Xb2J1YnRoT3JWenlseDZFdlBUeFJoUFAwVlp2TldLUTVxdlVia3cwNVNkVGtZRlhRSkY2TmpVNVpZWlZtdmVUN0M1R3Y2VGg5amJ3?oc=5"
     }
   ],
   "insight": "Tracking Chubb Limited (CB)."

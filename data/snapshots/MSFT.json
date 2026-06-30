@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-29T06:16:54.054Z",
-  "builtDateUTC": "2026-06-29",
+  "builtAt": "2026-06-30T05:46:13.068Z",
+  "builtDateUTC": "2026-06-30",
   "source": "yahoo-finance",
   "1m": [
-    412.6700134277344,
     426.989990234375,
     450.239990234375,
     460.5199890136719,
@@ -24,10 +23,10 @@
     373.94000244140625,
     365.4599914550781,
     352.8299865722656,
-    372.9700012207031
+    372.9700012207031,
+    368.57000732421875
   ],
   "6m": [
-    476.3900146484375,
     476.1199951171875,
     483.9800109863281,
     485.9200134277344,
@@ -158,10 +157,10 @@
     373.94000244140625,
     365.4599914550781,
     352.8299865722656,
-    372.9700012207031
+    372.9700012207031,
+    368.57000732421875
   ],
   "1y": [
-    495.94000244140625,
     497.4100036621094,
     492.04998779296875,
     491.0899963378906,
@@ -411,29 +410,30 @@
     373.94000244140625,
     365.4599914550781,
     352.8299865722656,
-    372.9700012207031
+    372.9700012207031,
+    368.57000732421875
   ],
-  "lastClose": 372.9700012207031,
-  "oneYearReturn": -24.79533826982058,
+  "lastClose": 368.57000732421875,
+  "oneYearReturn": -25.902172330537134,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Microsoft stock is headed for its worst month since 2000 - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWVNRE40SkdPWW1sVUVJOS15dTY0czk5ekU3RS0zU0NpbTlGVzNOaGkycXJKaTl0c0FITXZsZ194R2NTbkxEV2dYdEdLeHFJRmgzQUFqOVVkckJsdmktQ2kwcEJ5ZXVib2JXTFk0S1NrVGV0T0sxRkZhdFFqSG5VbVlaSE5mc3duQ294bm5zZ1JZbzdwSkwyaHdVV3N1akpLV08wZDhsZFZyRkdTSE5rdWtONA?oc=5"
+    },
+    {
+      "headline": "'The pendulum swung too far': Analyst says Microsoft is deserving of Google’s AI crown (MSFT:NASDAQ) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUVRRTzNmcWhNQW9FcDI3cER4bFhwRy0xbEdVQndLZDFibFBXQTByc1RLaFduVDVJR1VocjZzRllPX1pXVWpQOS11em93V0NubEFBTmtnam5qS0JoaFFlRGo4Q0F5S1RMclV5RjJpblFUb05wUjZ4VW5zcVNPYTRTc2lWZ2dSQ1RyVG5ZUVpfdHA1Tnd6R1BTejVUSllUY1lfaVQ1VTBWTVhNUURnWFgwbmxEQ1N6a0prTzR5ZQ?oc=5"
+    },
     {
       "headline": "Michael Burry Just Bet Big Microsoft Will More Than Double by 2028 - 24/7 Wall St.",
       "source": "24/7 Wall St.",
       "when": "2026-06-27",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFBTQ0NxdkVRWW9fSjN0QzE0X080S2FKbEpUNS1kVlpoQlVpWW9WRWFlamU0ZWJPMmpOM2MzZnlndGdmQzdtbENYOUMtTVk0OTNWMHExVWpTTkp2TWE2amZET2lhcjduRWpiQ05BZGRZWl85YnFnaWt0SnpzT0VnNmVsWU50Sy1xa1ZabGJCZk5aaHQ2c0RMbEFwRjVIdjhQUWlha2V3Y2dMbXhIcjhF?oc=5"
-    },
-    {
-      "headline": "The Hidden Turbulence Priced Into Microsoft Stock - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWw4dU1Od09fTVppRWllSHlwdV9yb3JWajNHMjl6N204anBfVHlfRktCUERvMV9NZVpYV1Bid0xIdTQ4dHJXc0pfX1RBQzhxd3hwUlp2ejhxNTlyaExKcm1FU2E2OE1Qc1c4MTdBWUJzZ2xHY0hUOHFIU3dPR3BicmFzNVZKVzhCdEpfN2Qwa0dQcGJWcE0xWENBbzdoR1ZaR2dXLVAtbkwyLWg2YXo0?oc=5"
-    },
-    {
-      "headline": "Why Microsoft Stock Rose Today - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcmkwdUZJd3Viek85VklDTms1bE5GcDZzZHpCTndEN2RDZV9jSFJHOHRCc1pqLVJqRmYxUHhhYVhQUlBvZjZzSDg1cHQxMl9uSGNMWVd0azhoeGlYMXBMRWhqd0hHU3ljdFN3UFZ3ZDFOSm44OXAtTTZXVU5EU3VwTDhldkRfaHpHUU1aV2FaRGVXVTQ5N0d3Sld4cw?oc=5"
     }
   ],
   "insight": "Tracking Microsoft (MSFT)."

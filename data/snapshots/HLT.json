@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-29T06:16:45.609Z",
-  "builtDateUTC": "2026-06-29",
+  "builtAt": "2026-06-30T05:46:04.786Z",
+  "builtDateUTC": "2026-06-30",
   "source": "yahoo-finance",
   "1m": [
-    336.7200012207031,
     337.54998779296875,
     327.6600036621094,
     332.6499938964844,
@@ -24,10 +23,10 @@
     343.8299865722656,
     343.4200134277344,
     340.54998779296875,
-    332.8599853515625
+    332.8599853515625,
+    332.5400085449219
   ],
   "6m": [
-    285.8299865722656,
     293,
     287.6700134277344,
     292.25,
@@ -158,10 +157,10 @@
     343.8299865722656,
     343.4200134277344,
     340.54998779296875,
-    332.8599853515625
+    332.8599853515625,
+    332.5400085449219
   ],
   "1y": [
-    265.5,
     266.3399963378906,
     268.9599914550781,
     270.1099853515625,
@@ -411,29 +410,30 @@
     343.8299865722656,
     343.4200134277344,
     340.54998779296875,
-    332.8599853515625
+    332.8599853515625,
+    332.5400085449219
   ],
-  "lastClose": 332.8599853515625,
-  "oneYearReturn": 25.37099259945857,
+  "lastClose": 332.5400085449219,
+  "oneYearReturn": 24.855452848714094,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Hilton Worldwide Holdings (HLT) Faces A Valuation Test, Is The Upside Already Priced In? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeUttM2YxVm1RX2ZCYndWTXFLRU5OWWltSFpwcnkxYXRWUWJoZ25kaGEwSnBnMF9IdGYzMzhZODJWRVVFRWVhdjU5REM5cnJQcVAzcU10MFFYdjNGVXpyQzhRRlJWOEQwZU9DelVjZDJGVkpOdjlEQnoyS3BMZ0pDdnJ0b2lWRFBKZzZpZUVaUkUwLS13R2RiLXc4OHJzNU5UN19aSWlVLWV3THZFYXRLdVZ2c0ZERDF1SF9SLTdOWDNpU2JsLVJOZ2drcDEtMlI2ZVFFM1ZubTNZYnBrY3ZrRVJTc9IB6AFBVV95cUxONU93S29IbUtsaEwwaXlHQ0NjN0I0UWw3SXZFY0NGVTI0cUJ0TV9lWjBvNDRrX2dpX0toVTRLMktxZ0ZSUWp3amdZclZ6OGdSQUdOblhvZTVEX0p5OWh6ZVFuYkhXbGxfOF9NTms5UFZuQmhhMkhMcVpMczlNaW5qTDI3SDUxX3IybGxISnR4QVg2QWZic2VYUHl6bE5mTEpLLVB4NVlMWndqYmd4YjQ0WDB0Q1R2VE9lN1p0aVdOa3BIQi1MS1hoZmVIdDdQWjZqc2VxVGJoMnlKelg1bU1WcnNRRF92Y0FO?oc=5"
+    },
+    {
+      "headline": "HLT Forecast — Price Target — Prediction for 2027 - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wczZZLXZMMU9GNkFGdXJld0xXZjQ3UWZwa2x5bVdUSWg1QUxTWVk1Q1MzWHM3NDEtQU9UeWJ3U0Z4RDFyLXl5RW8yQ1VPeG1MYUs4QUVqTm1aR2pYN1UyNFRCUGhpekZzcTBWQWJKR2ZXNE9tYVE?oc=5"
+    },
     {
       "headline": "Hilton Worldwide Stock: Is HLT Outperforming the Consumer Discretionary Sector? - Barchart.com",
       "source": "Barchart.com",
       "when": "2026-06-05",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUJmbGdRRjhESWJhQ0k5Q0x0MUhpekxsMGlmOUwzM3RtMmpGRW5sQkpFbTloc2s2bms1a0RMMXBzNEZ3ZXhvOHp4Vk1rRFBJYzRXYTRoaXI2N3RERWVzM0tmM0NiYlg4dS1vODhrMmVTQ3ZuWkptdFFlaFNKTWViVy1DcGhwTFd0blF4a1Y3ZXBtRzREcGRzOWhqUFlqdnhEUnlVa0R2VDFfeEZzRDBKdlR1eWJLNTVlSFd2bjZB?oc=5"
-    },
-    {
-      "headline": "Hilton Worldwide Holdings Inc. Actuals & Estimates (NYSE:HLT) - TradingView",
-      "source": "TradingView",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDRLcTRPZFdZT0tZbjFMSFJTa1NuTzFPMWtMQTFmMnRtNjZ4RWdpMjFqS0VpRk5hNzBfYjA5WkJPTjVpSldUaXJCZUZGOVg2UnVoRTlwM1BKUlhWaFNZQkpCcTJpa3h0TFRSbFRieVpHd3c1YVBack9WV1VYZXdqa1Zn?oc=5"
-    },
-    {
-      "headline": "Hilton Worldwide Holdings Inc. $HLT Stock Position Lowered by BI Asset Management Fondsmaeglerselskab A S - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-23",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVmJ4ZXI5aWdkaDk0RGdnWmlXNDc3by1RUzhNLTlLMjJnTUlhbUl1b1o5SndfSjRHbGNOYXlDaGpfQnc0QTRRVEl3aWV5SDk0WlFpdE1QVDNkNVB5eUE3bThodWdnTVQ1TjVyM1p0T3VuYjR1UEl6S0pHaDRXU3lFSmdabm4weFd3OGNSV1JXbXllQ0E1UEQxYmtTb3ZHYjBTNHpURDdweHBMZU1FVzczd1VvUVo3VS1NaWcwWk9KbWJXdHEtajkzZ1hFcVgwV0xUdURBNEYzdFdmalhrNERpbTU0ZkVFUVJEN0NVWEtrNHdRS1ptbXdj?oc=5"
     }
   ],
   "insight": "Tracking Hilton Worldwide (HLT)."

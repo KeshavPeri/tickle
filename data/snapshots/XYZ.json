@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-29T06:17:06.229Z",
-  "builtDateUTC": "2026-06-29",
+  "builtAt": "2026-06-30T05:46:25.325Z",
+  "builtDateUTC": "2026-06-30",
   "source": "yahoo-finance",
   "1m": [
-    71.41999816894531,
     74.3499984741211,
     75.72000122070312,
     76.0999984741211,
@@ -24,10 +23,10 @@
     72.37000274658203,
     75.68000030517578,
     74.08000183105469,
-    77.81999969482422
+    77.81999969482422,
+    78.0199966430664
   ],
   "6m": [
-    64.55000305175781,
     63.77000045776367,
     64.38999938964844,
     65.33000183105469,
@@ -158,10 +157,10 @@
     72.37000274658203,
     75.68000030517578,
     74.08000183105469,
-    77.81999969482422
+    77.81999969482422,
+    78.0199966430664
   ],
   "1y": [
-    66.62999725341797,
     67.93000030517578,
     68.2699966430664,
     69.22000122070312,
@@ -411,12 +410,19 @@
     72.37000274658203,
     75.68000030517578,
     74.08000183105469,
-    77.81999969482422
+    77.81999969482422,
+    78.0199966430664
   ],
-  "lastClose": 77.81999969482422,
-  "oneYearReturn": 16.794241186663456,
+  "lastClose": 78.0199966430664,
+  "oneYearReturn": 14.853520230474427,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Block (XYZ) Surges 5.1%: Is This an Indication of Further Gains? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZnBRNW5veGJIckYxa1pCbHJQZ09tUEdsVXRSb2tpOHpqODdQYk9WemVrdmN2ZU4zZVcxQThmbnFWZkVnVDRXLXFid1ZnUHEtQ1NWdEFpWEFLZXFXUzRESXR6Yl8xcHdmenZwMmdzaDFUZDY2bW9vTFUycmctQnNZdnVMTUs2TFZJQVY3YWNR?oc=5"
+    },
     {
       "headline": "Block Stock Rips Toward Best Day In 4 Years After Layoffs: Jack Dorsey Concedes Pandemic Over-Hiring - Stocktwits",
       "source": "Stocktwits",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVmNqemdoLTNoWEgwRnhiSzFjU0J3MW1Va0NFRUVKQkxGUThpeFdyR0xtaE1UN0hVcFlsVDM4emxkOGF6dFQ1TGRuNzBDUDg3dEpkeS1uZjBLRFU1UlczZGd4Mm9CSHpaTlhOSDY4SUlBYURNc00yeTkzTlptdXNpQnlvS1FtYk4xRVI0bnNPUFpUdHlWT0ZFLVZhOWJhbFRXTjNYZlg3UzlFbDRMNmpXZl8tYUtxejZkdkpMV0FHRm8ydw?oc=5"
     },
     {
-      "headline": "Here is Why Block (XYZ) is One of the Most Undervalued Stocks to Buy and Hold for 2 Years - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX3lZZHVIYkVveWMwQ1ZMUkZWS3ljak41aGd3MXZoR1JKNVJMaFRFeTF5NEljd0xNSmdfQXZUTENyZ0ZENFlEUWE4aUhmaG83R0VjbXE1SExsOGZySEVPYTY1Ujh2LVY4RU40c1FDLTR1MG1WeE85SExOSUFxUEx1Y2JBVV9wQW5Ua25TWE5DOWc?oc=5"
-    },
-    {
-      "headline": "Is Block, Inc. Stock Underperforming the S&P 500? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-06-05",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHB0TGllVnZfZ0pKVHFHcGE3bVNJS3puOC1BUEdGbi1NZnFpczJxRDBkTmFHQk9uWHhqNjhVenhQMHZtTHZ1QW8wUzlBVUNfWERrM0xWUWVFX3BieUVCcmhsZ0JTUmtHQ242MURUN1YxcTVuT3g3WDV4V3JiUEt4Tnd0cldwQ1R3TTVpbkNmbGprdlJ3?oc=5"
+      "headline": "H&R Block Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMnhNT05pSlRhOVpTVzVLWmhKUndKNGo4Zy1CUFNPUkZ1QmxiS3MzNDVzOGxOSEE5SS1ZUTdfN3plY3RTQXlWZ3VHczY2dFdTSTJzYjNmSUdDMUVJQ21iUjhyRWZyS0ZPbkJVdVd4WE8wUWZmbk1JQnBDLW1RNWJibHFCUThGWm84d3RFbDl4SVYxVk50eVpsX0dEbV9ETng1WWlCM0c4bkM5T25iSmlxN2dsN1NrRVN0ZVEyYmJHOXU0QzlNWUdINFpELU51VHNCTlRMa1A4WmhBWDA?oc=5"
     }
   ],
   "insight": "Tracking Block, Inc. (XYZ)."

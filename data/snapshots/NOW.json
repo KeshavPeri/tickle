@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-29T06:16:54.990Z",
-  "builtDateUTC": "2026-06-29",
+  "builtAt": "2026-06-30T05:46:14.215Z",
+  "builtDateUTC": "2026-06-30",
   "source": "yahoo-finance",
   "1m": [
-    102.12000274658203,
     108.7300033569336,
     124.37000274658203,
     135.86000061035156,
@@ -24,10 +23,10 @@
     95.94000244140625,
     93.80000305175781,
     89.5199966430664,
-    98.33999633789062
+    98.33999633789062,
+    99.97000122070312
   ],
   "6m": [
-    156.2239990234375,
     156.47799682617188,
     153.3800048828125,
     155.30999755859375,
@@ -158,10 +157,10 @@
     95.94000244140625,
     93.80000305175781,
     89.5199966430664,
-    98.33999633789062
+    98.33999633789062,
+    99.97000122070312
   ],
   "1y": [
-    204.48399353027344,
     205.61599731445312,
     202.3780059814453,
     201.95199584960938,
@@ -411,12 +410,19 @@
     95.94000244140625,
     93.80000305175781,
     89.5199966430664,
-    98.33999633789062
+    98.33999633789062,
+    99.97000122070312
   ],
-  "lastClose": 98.33999633789062,
-  "oneYearReturn": -51.908218027181874,
+  "lastClose": 99.97000122070312,
+  "oneYearReturn": -51.38024155396004,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "NOW, WDAY, ADBE, CRM: Software Stocks On The Rebound As OpenAI Threat Weakens - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ1hWUG5qQ0NzUS1yS3NQMHQwRVA3bHFYdWpLZ1RWc3JwSFJXMWUtUUJMOVNXeXVxaThIYmZ0Unk2TVNRS0U5Q1U2cEYyZm1zVnlsc0pmeDZfN0VNS1dyN1VyNC0xVGIzZ21Dc1cyYVR6aHUxWVpuTGgwN0xNWE5uWU40dUR5VkJzNUV1VHF3ZVlTeGptQ1E?oc=5"
+    },
     {
       "headline": "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ2JuV1BhSWZyOUF0S21DX09sbnB2cm1vMC1Hd2RDRnEzUDVhVElWWTMzUWgyd2xaTGVBYTdEVGpSaGJwSmsxLTlZaTNCRUhobnozeG1iVWFIR3JxMGpqcjBCSTBKMmY1VFMtYjFhNnp0cTFDdjBQUzFxMUVLeUJJSGdqdkVCcGczVDgyX3BId2o1QlBYcTdmY3lPY19RTzJQWEE1THdZV29SNm1SVUk2WmNQYnVkcjJWUGpGU0FhRGdVeWs?oc=5"
     },
     {
-      "headline": "Why ServiceNow Stock Gained 9.9%on Friday - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMDl3aEdKeUdORFRoSUlDLUhIa0lWQ2dqZkFBakVqVGpkSUxiNWFibXo0LURiVEVndWZyWkdZbUJDVnVLUmZjVHBPMUhBZE5hc0VZczFhSXFKYk0yLWw1YkJDbmYtYjBmU3dDNnZpV2NKYWZHSm04X2NETy1rMjhvQU1iNHNwbkRyNy1SeDhta1laeENhdTdPZ0Jn?oc=5"
-    },
-    {
-      "headline": "ServiceNow (NOW) Stock Trades Up, Here Is Why - StockStory",
-      "source": "StockStory",
-      "when": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSXA5anlHQ2pwYVFlbU1ERnBETXFyWTJYRU10cE1FaDJzVGU1N1BRWlo3XzZNZUVEa0ZKQXBSNnBqQUxtcnFRT3Q4ZG9nQWZCS1oxbGpDSGdjd2QwODRZRkxJUlhjTzdPLTRpMnJfdUFLdGxWdXBHaFc2MWhFRm5sTTNyaDZKWFVLc1FIRE14WnExWXVvRDdDYnAtRGE3VXhwdTlKbzln?oc=5"
+      "headline": "Why Is ServiceNow Stock Rising On Monday? - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNlFaQXVKZXVLSTdFdFFhZnNsdm1XdW5aOTRZUU56OUZkWVZENlNfQUJiNWZqaElid1ZNRGZESVJfa3o1MTJwWGt5dXE2allOLTVLMHhsTnl6d1ZmX2YwMWNMTnlzZS1WZmJlR2N3MWpvaGlpbUFheC1OVzJpak1mdjYweGlmUkJuX0ZqMEJITHRGeEtSZl9RTDBkYk1SdTdHeDFZ?oc=5"
     }
   ],
   "insight": "Tracking ServiceNow (NOW)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-29T06:16:49.855Z",
-  "builtDateUTC": "2026-06-29",
+  "builtAt": "2026-06-30T05:46:09.102Z",
+  "builtDateUTC": "2026-06-30",
   "source": "yahoo-finance",
   "1m": [
-    347.6499938964844,
     339.1300048828125,
     338.3299865722656,
     330,
@@ -24,10 +23,10 @@
     352.5799865722656,
     351.29998779296875,
     360.05999755859375,
-    328.6600036621094
+    328.6600036621094,
+    340.1300048828125
   ],
   "6m": [
-    204.8699951171875,
     198.52999877929688,
     199.52999877929688,
     202.47000122070312,
@@ -158,10 +157,10 @@
     352.5799865722656,
     351.29998779296875,
     360.05999755859375,
-    328.6600036621094
+    328.6600036621094,
+    340.1300048828125
   ],
   "1y": [
-    164.33999633789062,
     163.86000061035156,
     164.47000122070312,
     165.52000427246094,
@@ -411,12 +410,19 @@
     352.5799865722656,
     351.29998779296875,
     360.05999755859375,
-    328.6600036621094
+    328.6600036621094,
+    340.1300048828125
   ],
-  "lastClose": 328.6600036621094,
-  "oneYearReturn": 99.98783679316216,
+  "lastClose": 340.1300048828125,
+  "oneYearReturn": 107.57354059311861,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "A Look at Keysight Technologies Inc (KEYS) After 3.5% Gain -- GF Value $197.99 vs Price $340.13 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS01YaTV4RVBPbnh5cENadk5vYmE3ZUVqcUJjYzN2VFhUYzhMWjNwaVZrVGE4S24tckF4VXBzX0dydTBXU1NQek9SRDkwdzRuV0tYRnphWTZxclhUTjRJNkNaSExrdk9hbXV6Z3Y5bWNjMTJ5Q01RZ05uakJ4OUppYWFVZng2d2NOZS1PeF9IV25tQWM5OGNIQjMxZW1qM1Y0QUstYzVxU2JNNElQMERNWlJYMjFtbExpcGg1cXZBTlI?oc=5"
+    },
     {
       "headline": "Keysight Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU5FRmFKMGJJVU84SFkteG53ZndfX2d3MFdhUE9LQWVfdHFqNjBNc3Fmd1pqT0F3U3dNZWRzbGJsazJKWnYxN0NiWmlXVHRiUG1fYWFJbDNBN3FFYVVpX182VVM1eHJhRjhqeDBuWjVwVXV5aExSdzNPYzFPdkhGR0lrcWwwWlM2dmlxb0dxbm5OdDhJNzJiSFFjNW02V0RpZko0bkJ1V1cxMUlNM1pTU0NWaWZZVVV6YUhYcVZsSFU5VFJ2WV9kZjdzSU9rMEJoZkdjV0JOcVA?oc=5"
     },
     {
-      "headline": "Keysight Technologies (KEYS) Stock Could Be 5.1% Undervalued After AI Deals And Strong Outlook - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlM3VEZsWWxZWmYtLXkxdHY5SG9HUHhKTnJHbHZVSFI0M3k1Zl9YSzFYXzQxMGRYdzlTNWpEaTBqS0FQX3VDWDVyTVhaWFdDSmNqVExrcHNHTTJKbEJOc0o5X0o2bWRKSmttNjdnOVJHRWJ0NmoxQ3JQX0lsdlBBYzJVSTJrci1JYlFDVHctanJpdVRpSDk5WTJaT2NkQTdtOHgzSERB?oc=5"
-    },
-    {
-      "headline": "Can Keysight Technologies (KEYS) Justify Its Valuation After Strong Earnings And Raised Guidance? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcHJFaE41OVRQcXUzVmkwbWhXWnRBeUR4eUEtZ3dBTGRIYWpOc0IzOVRzejNFbXVaM0YxaUt1aFA4cUVMWFJKZ25mTUFIUzBtNFVYcTl6TC1OUGFBdnJzVEwtdEZFOUdURDVIVDNkVk4tb2ROWGhkeGI3b0hvSmtfWC1US013N0Q0RlRxN0RsWVZBeHVOWUZ2QVFCSlVPaHY0WGNXZ3lfbnR5RnkwMUMtT3hJNjhYRFJ0MFhfYktnTFktT2dibU5VQjlJbUxJMEXSAdQBQVVfeXFMT2hVSm9USFh3cUd2T1E1N1FqUlNYUEVDSWZTaWdzVHg3WEtERzI2MXdrOTFzZTI5d2Q4Y2ltZ2VQTE1xMEI5ODdPMGZack5RVXhfY0lpYkhDZ0I1VGJjaXpZSlZwU21aY19WSUNtNUREUXlOV0hBWlV1RC1qWmVmbl9YZHM5WG5RT21oY0l4Y2gtMHhSZG9helUxeGFQOHBuWDMxaU0xV3pSV0p2R0U1TWlDemhTRUMtUTVYVXNIc0lCVVpuN0pFRDY3dm9vZlZNV0FKWkE?oc=5"
+      "headline": "Keysight president and CEO Satish Dhanasekaran sells $183,189 in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX2M3RG9na1ZEU2VxMkxkU0VSQVB2VFF4SkNRRWQwZWtWWnNEUGJHbG9fVjJoNGlJYU1DWVRJYUZkMFFMSXVySnZrdFhwNjhCU2NJZmNsMzJGVVljYXIzQlE5UW9zS3dtOFVjN0l6LTVNMUppX2lVX2xMUXdqMmZEZWRrcjdVVV9FUDBiRHFFYm5GZngyU205cTRJbFdZVFhDTVZ1SVUwT3RrUlVoQ01Hc3Y2NlpsSEN6S2Nob0N3aXBIUmhuZ3dyS2taRFJBZw?oc=5"
     }
   ],
   "insight": "Tracking Keysight Technologies (KEYS)."

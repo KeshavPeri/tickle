@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-29T06:16:45.199Z",
-  "builtDateUTC": "2026-06-29",
+  "builtAt": "2026-06-30T05:46:04.311Z",
+  "builtDateUTC": "2026-06-30",
   "source": "yahoo-finance",
   "1m": [
-    392.1499938964844,
     384.3900146484375,
     378.5400085449219,
     370.9599914550781,
@@ -24,10 +23,10 @@
     386.9200134277344,
     387.760009765625,
     386.94000244140625,
-    391.67999267578125
+    391.67999267578125,
+    392.3299865722656
   ],
   "6m": [
-    469.7900085449219,
     471.8500061035156,
     466.55999755859375,
     472.9800109863281,
@@ -158,10 +157,10 @@
     386.9200134277344,
     387.760009765625,
     386.94000244140625,
-    391.67999267578125
+    391.67999267578125,
+    392.3299865722656
   ],
   "1y": [
-    379.29998779296875,
     383.1000061035156,
     389.5299987792969,
     378.0400085449219,
@@ -411,12 +410,19 @@
     386.9200134277344,
     387.760009765625,
     386.94000244140625,
-    391.67999267578125
+    391.67999267578125,
+    392.3299865722656
   ],
-  "lastClose": 391.67999267578125,
-  "oneYearReturn": 3.2639085898335995,
+  "lastClose": 392.3299865722656,
+  "oneYearReturn": 2.409287476298293,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Michael Burry Loads Up On HCA Despite 23% YTD Fall — Calls Hospital Operator An ‘Insanely Efficient Compounder' - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdi1NelFYTGMxbEtzejZ2cV9nQ2FNamYyZ2VBTGgwdzlkUndXSGlhVUpwRGxkcHphWWVRU2IweTMyRDlRUWFMc3ViVUZPTEt1OTdXOGxlbEEySmpyQy00NEhGNkJweUpCNEJFTlo2RmRZanctTjFndE9aRzd0MlhxT3FDa1l3ZGEzQUJJUFNTNkY5NXR5ZUVqM04tRE9zVUVfZXF3ZzdmREw2YlRrSllqYUVDTkZfbG9DLUs3YmgxRnJtZW5XbTI4?oc=5"
+    },
     {
       "headline": "Is HCA Healthcare Stock A Trap Or A Missed Opportunity? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEgzSmF6X0ZOUzdNS1g0czA2UHlJcXBDWFByUS1zWVZZdXRIckJqcVVoR2c0RERTelNfeVZuR1FkMUxBcEs1WjFFRWlUZXVhb3pwdGNGTmV3cHdmZktkWmtTSWw3MGpzYVVSOVV3akZIQlBlWnVWbHlNYWtLR19YRks4cmYzVE1FQmlyM3Z3eFFFZHR0cE1Oalk4Y1Q3UQ?oc=5"
     },
     {
-      "headline": "Metropolis Capital Ltd Reduces Stock Holdings in HCA Healthcare, Inc. $HCA - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTmtrNzVpSWw0OUd0dHpGaTlVMExjRXNxV0VHMHJDQ3NMa3M2SUk5eTU3V1VuUHJ4SUdMY2xaMk41MFBuXzZCbWdyRjNJSVJfejlpb0VkbHZnTGpuaG5sVzlBOHozekNVMTZWNHFPYm11TVA1RExLMWhhbllvbDdFenZUTFRfSzFEMWlJUDNYQ1JMUlhfWHh3TlMyZG41aG1Ea3I1emVkYUNRZDRENnBqbHlqT0VnUHBXTW1DZGZGTENuUDEzUjZ0OUVXVFM?oc=5"
-    },
-    {
-      "headline": "TD Cowen Cuts PT on HCA Healthcare (HCA) But Remains Bullish - Insider Monkey",
-      "source": "Insider Monkey",
-      "when": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQckEyc2sxVTlKRERGRlNjS0MtaEZ6bDZuMDBhSTFuNDQwUV9DYUZVcFZJWGJ1RkRsT21vRmxFODVqTHRRbWtUeWRXTkdxWjlPeWNGeUhmZmNDS29SM19ETVpqaEptR2FCRllmOS11T2J3TldlWVFSeU5Qci1aUTVpR0lTVjZfMzNnN2xmUzA4c2RqaFY1a05LUFRVUmpkMEduVXJWSkJFeFBuZFNf0gGsAUFVX3lxTFByQTJzazFVOUpEREZGU2NLQy1oRnpsNm4wMGFJMW40NDBRX0NhRlVwVklYYnVGRGxPbW9GbEU4NWpMdFFta1R5ZFdOR3FaOU95Y0Z5SGZmY0NLb1IzX0RNWmpoSm1HYUJGWWY5LXVPYndOV2VZUVJ5TlByLVpRNWlHSVNWNl8zM2c3bGZTMDhzZGpoVjVrTktQVFVSamQwR25VclZKQkV4UG5kU18?oc=5"
+      "headline": "Index Exit And C-Suite Shift Could Be A Game Changer For HCA Healthcare (HCA) - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3JJYmtBMnNNdzJVQ3VwSk05bGxMNzJ5dURTUV9RcnphRkN6VFZ3dW5UVENhQTJody1yZld1OE5Zb2VZX2t0S2dORHlUcDBJS3F4UTllbkptUTQzNUNWWl9zVXhNYTdwaEdmdkExYklLQWZnV1FkcjNQMzVXd0ltOExXQWpSU193TXpmdWJOckN3U2wxYjlxVWNkZmpZNzZVTnBrdDloWFpxa3hMQlJud0VxTk1RcXZaN2lPWHdQckl6YUNHd1FzWGRRdEXSAdIBQVVfeXFMUEMtQ3N0OTFHak5DT1h5N0ZhTE4wMmJfVm9SeUp1T0ZVbl9OeUxGdVdGeGQ1enJ5QzVHeEZmSE14dnRvUkNfNlIydWNhUnE2aEhaTWhQbjdGOFprc1NWX18xa19taTBwLVIxcEJFOWVQa0FwTnhURy1hcjF3am5IQXp1ZjR4c1RrLTEtV05QcENwMXFEa0VidFlndDgwcW94bXE1RWYzUlZnV1R3Ql9LdHhUbktiTWdSaGZ1UV9TMmxmMm5HVjFreG1VWHBBVktKay1R?oc=5"
     }
   ],
   "insight": "Tracking HCA Healthcare (HCA)."

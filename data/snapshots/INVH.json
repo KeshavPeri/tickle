@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-29T06:16:47.818Z",
-  "builtDateUTC": "2026-06-29",
+  "builtAt": "2026-06-30T05:46:07.072Z",
+  "builtDateUTC": "2026-06-30",
   "source": "yahoo-finance",
   "1m": [
-    29.40999984741211,
     29.3799991607666,
     29.25,
     29.100000381469727,
@@ -24,10 +23,10 @@
     29.049999237060547,
     29.639999389648438,
     29.90999984741211,
-    30.459999084472656
+    30.459999084472656,
+    30.59000015258789
   ],
   "6m": [
-    26.84000015258789,
     27.360000610351562,
     27.40999984741211,
     27.049999237060547,
@@ -158,10 +157,10 @@
     29.049999237060547,
     29.639999389648438,
     29.90999984741211,
-    30.459999084472656
+    30.459999084472656,
+    30.59000015258789
   ],
   "1y": [
-    32.720001220703125,
     32.79999923706055,
     32.779998779296875,
     32.5099983215332,
@@ -411,29 +410,30 @@
     29.049999237060547,
     29.639999389648438,
     29.90999984741211,
-    30.459999084472656
+    30.459999084472656,
+    30.59000015258789
   ],
-  "lastClose": 30.459999084472656,
-  "oneYearReturn": -6.9070967356825275,
+  "lastClose": 30.59000015258789,
+  "oneYearReturn": -6.7378022435305125,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is Invitation Homes Inc. (INVH) A Good Stock To Buy Now? - Insider Monkey",
+      "source": "Insider Monkey",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkNUSkFFbExia0xTWDNERjBnUTdWZjh0SnNVSm9QanNaUUkxTlZsaGlhWkViRVk5bWlJSVZzdUVNeXl6QUppYzFkQmJlaFFVd1luQkJPRnRLNktnX0xaM2t3cXA3aVNVOXZqcjFmNTJydmN0cFByVTRoOUhfWE9pU3dCTThocHBRUnVyMmxoN2kzdF9WaHMyWTVuLXpkY0nSAacBQVVfeXFMUGcyNnljZk5CNXU5cFJvMG9zTElNMm9WTHRfTl9QYU95Tm54aTBEV1g0YzlkNWcxeHJvWVp5TExpSEhQaGtfdjMzeTM5dGVydHN4dGh3alZ2S3NfVEwtQTZMUE05VmlkWHY1OWE3Y002aHp1b3EzUFBCN2VqWFhLMm9rajNhaThEUnR2anE1X2ZfWS1fZm1KcGxiZ2NfNmxqVGRnVFcwd1E?oc=5"
+    },
+    {
+      "headline": "Invitation Homes, Inc. Actuals & Estimates (NYSE:INVH) - TradingView",
+      "source": "TradingView",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ1VYMGxyWjZkMmJLTTRNd1YxSm5XemFaazdOTGwzUWRjLUx0ODhBTF8zYzJXSmlQMUFkN0VlOHNOcnEyQmhwLXF3Y0t3Szd0cTk3QWltME5iQ1lEY2VMaUJtNGUyd1UyUlRfT3ZWVGJEdHhDT21WNHl2WVA0WmN5VFl4RQ?oc=5"
+    },
     {
       "headline": "Wells Fargo upgrades Invitation Homes stock rating on revenue outlook - Investing.com",
       "source": "Investing.com",
       "when": "2026-06-24",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFcwRlFrZThWX0ZuNkpUZ3lTSDZOOTd0bTRLYUVYemhIMmF5c3pTRnFxanBWYkptRkVldmNCRl8ydExyZ3RlOEpCbTZoSmprY3lwTEtlN0lvQnQ3bUljSUpLLTJGc0ExbDVZSkVIUy1iTUVZU1FyaDBlY0NTSlVJSFJIb0pFWkVZbEhXMFh3aEZwMHlwVkUtalU2eGdkQ1VSM2cxZmU1LVpweDl2LS1qQkVzTnR5amxKaGRaT09JeEtCVV9hM0Jrcg?oc=5"
-    },
-    {
-      "headline": "Is Invitation Homes (INVH) Cheap Or Already Priced In After Its Recent Run? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ2Y3ZTczaFRuTkF6bDVNVTVYZGZaMDgwV2ZUQU5qalhLWGxUeFJIVHhxaGczTURmNVFxVXRCejFFNE00YjJjQnpyZjA0TDk5MXVlcUsxc1pqX2dqaUlNTS1TQVJyR3dIbTVuMkdnVXpyM0p3cUpodXRSREJYa0hfcUN5MEN3dGlNRFNRWFBDc2xVN0t4U01WbmUwa0RkZTVreTI4Y3MtdTlqWGdCTUZ3Zkx5My12TFNZZW1odk5IMTg0cUlTRXNzUjFCUXctTS1USFHSAdcBQVVfeXFMUGZnLTNsZkhWd2U3YlVmRlRPZkZVcllMLVhtWkNmRUg1S29lVk1vbFREOHRxZ2tsY2lRMTk4aV9iRGhuTEZwQ29ieEtiYnk4VTNVMjVmLTF0aEhzd3hHdWtVaTJYdHZYelI0VFlWRWZQdk93Zjk0cER3YU5NTlRUcl9kdkx5TW1QckNwZlI3Y1NFSVMwSUZaX2E3Sk5xOUE3VmNlWWR2cm1fWGo4Mm5scURmOElVVDlxN1BFM3BOb1Iyb2ViV3FJLWxUOUc2RXB4bl9oY1dJRWM?oc=5"
-    },
-    {
-      "headline": "INVH Forecast — Price Target — Prediction for 2027 - TradingView",
-      "source": "TradingView",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZazFocnFXbFJNZmpNWlRRb0JXT3hCemdsQ0tIdWRTWFl1eUw3OW9qLWRVOVFsWGVtclJfZW9pR0dxS3NUUW4tX21KMWxLVkZlblBlZWNEdzRqdkxHTzJqd2U2RnRnaHpSSVFfM3VpOHlJWTItd2lz?oc=5"
     }
   ],
   "insight": "Tracking Invitation Homes (INVH)."

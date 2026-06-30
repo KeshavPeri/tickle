@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-29T06:16:41.811Z",
-  "builtDateUTC": "2026-06-29",
+  "builtAt": "2026-06-30T05:46:01.189Z",
+  "builtDateUTC": "2026-06-30",
   "source": "yahoo-finance",
   "1m": [
-    273.6700134277344,
     303.3800048828125,
     306.7900085449219,
     303,
@@ -24,10 +23,10 @@
     249.24000549316406,
     248.36000061035156,
     248.63999938964844,
-    239.07000732421875
+    239.07000732421875,
+    232.8000030517578
   ],
   "6m": [
-    258.510009765625,
     254.02999877929688,
     261.7900085449219,
     266.9800109863281,
@@ -158,10 +157,10 @@
     249.24000549316406,
     248.36000061035156,
     248.63999938964844,
-    239.07000732421875
+    239.07000732421875,
+    232.8000030517578
   ],
   "1y": [
-    152.13999938964844,
     165.5399932861328,
     162.9600067138672,
     170.52000427246094,
@@ -411,12 +410,19 @@
     249.24000549316406,
     248.36000061035156,
     248.63999938964844,
-    239.07000732421875
+    239.07000732421875,
+    232.8000030517578
   ],
-  "lastClose": 239.07000732421875,
-  "oneYearReturn": 57.138167663542795,
+  "lastClose": 232.8000030517578,
+  "oneYearReturn": 40.630670830925624,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "First Solar Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUDR5S0kzczNEV0VDdFNsVE53czhtQUFfblZvS3NGZndVTW5YMjZhUUtpcVBNUjRUR2dJa3FTblMyazBBQV9WcVpwYm1OSU1tbGtucXpib3A5X1l4eGNNM2l3UktHWklWSFAtU0VhazJ3b21jY0NIVC1KLXd5dGdjR1FPdDZFbG04REdNcWZ0NzJaaFhDdkRvSjRKQkJMZUhtaFd1T19vaGNmanBSY2NtSFJVZ1B0RktXSFRmNDdFS2ZwM09XWFVNX1J3eVlBWUNtU2dxQXF1SXdaQ3RVaWlBdVNqNA?oc=5"
+    },
     {
       "headline": "First Solar (FSLR) Stock Valuation Check After Strong Recent Share Price Gains - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRlV4UlU5STFNQzNUMFlnYThCTjV5cWFTN0UwWkQ3Nmt6MmdvN2c4b2RxQVMxTlRmQWRFYjhBS2NCdktia2JVY1VpT0JoV25yQjNlVkRKUWxzSllWaTBCLWQ3eGdIVzB4NTcwTHl0R1lHYlljZmR0WHhKZTZGN25kQ1puaFVDa3gzeEQ5NW5GbHQ4ZDZSeDFfU2V5YUFodw?oc=5"
     },
     {
-      "headline": "Bernstein reiterates First Solar stock Underperform on tariff concerns - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZON0YzN1F5YVZFa3pZTXFUS01WSEVuaDRmNWJCSjVuQW1BRk9WLWt2RWRfN05KSmUtdjd5QncwalZIeGtuM0NST2Z3WXU3dFpoeTRzeHUxeVBaN0FITDZyemJhZmFGU2JFRnc5eWU1SkFJcjE1UE1wZEdfejJJM1Z3OW5TWGoyNld5YlZCYm9kUWdHZGxxdVBQQWJkSC0yZWxUbWF0Y3ZXQTFka1FMMzJ2RWduVjd6cDFYbVkwcXh3dWNiRFNYVFd3?oc=5"
-    },
-    {
-      "headline": "First Solar (FSLR) Could Be 2% Above Fair Value On Tariff And AI Demand Optimism - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3FDZmxlLW9YMDYyREctbEI5NG1PWGRiTnc3WU1HZ05RM3JRWTc1OEVUY2o2ZTN4SWJvMzktUG5fMjAzY2p0SmJWN2VfQUhkUFNneUJ4SEwxQzhGYnlDRzB1Zzh2c3NMZUxmbjlFemNrS2JYZGVGa21pOVpSaUhFajBIc3p6RTNXSllXZEhTVTlHTGVmaldDNnQySGI3cHVENG9FcHdDcDBDWlNLN29aZWxoaXBKQU1hb3NvaDVUMzhYeUNXYkFzc0hHTHd5bHhXWmfSAdcBQVVfeXFMUFRNeWlOcDJFZWhyNnZnaHA4LUMyVUJ2QjcwUG1NdkM1c0dZbXVXQkdOZFdPMGJBR2FDYkI0WE4tTndyMmx6SmQ1YkVNX1FWYjQ0SkQ5cWVQekRpZm9DVGljMGo0V1kxVUFlT3F2VE5vY1RCOEVqSnhiekV6d0w3WVhaZ0xaX1R5WWVROVBnM0otN0pjN0VhVUlNWHRORGx6eFhFOE1feWNrcS05VGQwRllILTRPNlJQbnBGRFdTWTJyamdUanJCbi1hSXNRUkVjUVlOTlZWS0E?oc=5"
+      "headline": "First Solar, Inc. $FSLR Shares Sold by Patton Fund Management Inc. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDh2MUI0UmdTNDRFMmhEQjlCd1RHUzJfdVoyQTNBTjgtNnpwS0JxNExNa0ZlUXVwQ1FWR1VsdS1OUkk3aGdoMEllVUs5UGt6TXplVkVmM0daZGNkLTU2UTFITnZWTVN6RXkwS3oxTzRfM25rTzEzeDFyNGhIMXJSVVdELWltVlpudEhMVmlJU0xmd1V2RmllQXdwdWtha2RpMzJobWRCSkwyRnJqTjZKNjYtdVYxaUZkUXpudGNQRjg?oc=5"
     }
   ],
   "insight": "Tracking First Solar (FSLR)."
