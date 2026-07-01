@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-30T05:45:54.298Z",
-  "builtDateUTC": "2026-06-30",
+  "builtAt": "2026-07-01T06:04:59.997Z",
+  "builtDateUTC": "2026-07-01",
   "source": "yahoo-finance",
   "1m": [
-    146.9199981689453,
     147.08999633789062,
     146.97999572753906,
     147.91000366210938,
@@ -24,10 +23,10 @@
     166.50999450683594,
     166.9499969482422,
     166.2899932861328,
-    164.22999572753906
+    164.22999572753906,
+    162.8800048828125
   ],
   "6m": [
-    152,
     151.39999389648438,
     147.17999267578125,
     145.3800048828125,
@@ -158,10 +157,10 @@
     166.50999450683594,
     166.9499969482422,
     166.2899932861328,
-    164.22999572753906
+    164.22999572753906,
+    162.8800048828125
   ],
   "1y": [
-    128.9199981689453,
     133.89999389648438,
     135.61000061035156,
     131.89999389648438,
@@ -411,12 +410,19 @@
     166.50999450683594,
     166.9499969482422,
     166.2899932861328,
-    164.22999572753906
+    164.22999572753906,
+    162.8800048828125
   ],
-  "lastClose": 164.22999572753906,
-  "oneYearReturn": 27.389076993564014,
+  "lastClose": 162.8800048828125,
+  "oneYearReturn": 21.64302636841943,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "D.R. Horton (DHI) Stock After Strong Multi‑Year Gains Is The Current Price Reasonable - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmcyWnFsZEw4RWJLU3ZTRjBaS05QYlJ3SEhCTzNROUVBYzI3V1FzQ1dIN3A1dFoxT3dJTkJoSTN4YjlMdGJ1eUNXN2I1N0FLajhTLTBuVkUtRGRVaTNuN2ZUYkJrY0s4Q04wSlQwMXJ2MHpxemlXdjFCbkJ5LWZscU5ZWFFBc0NjbDBRVm5n?oc=5"
+    },
     {
       "headline": "Is D.R. Horton (DHI) Fully Valued After Its Recent Run Toward Fair Value? - simplywall.st",
       "source": "simplywall.st",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU0E5X0ZDR0VHOTlHYXRKODBDajl2UE5VZmdLZHc5X2wwWHJmSnRObUFfVFQ5VFJCQm1aMFBrUTVad2dGVmllS0pBUlgzX1FFakIwMTFjaTR2TnpTbWZRekVRdW1vY2k3TTVXSlRETkUtWUVBWlNUai10WmFtNi1SQzhDOUowUW9ncWhRazBMaVJyRjJLM2VtWF9nUElMNGdicWh3ZE9qSVZYNVhhdVhZUHU5MXpHM2wtRFRCN3c3Yjd0aTF1eVoxT3JPZUg0QWplZGR2etIB1AFBVV95cUxPU0E5X0ZDR0VHOTlHYXRKODBDajl2UE5VZmdLZHc5X2wwWHJmSnRObUFfVFQ5VFJCQm1aMFBrUTVad2dGVmllS0pBUlgzX1FFakIwMTFjaTR2TnpTbWZRekVRdW1vY2k3TTVXSlRETkUtWUVBWlNUai10WmFtNi1SQzhDOUowUW9ncWhRazBMaVJyRjJLM2VtWF9nUElMNGdicWh3ZE9qSVZYNVhhdVhZUHU5MXpHM2wtRFRCN3c3Yjd0aTF1eVoxT3JPZUg0QWplZGR2eg?oc=5"
     },
     {
-      "headline": "D.R. Horton (DHI) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance Australia",
-      "source": "Yahoo Finance Australia",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Yb29CTTdsUXpTbndGd1oxQTZidkd3MVFJTzEzVGdWMklXZ2VWeHNIaVF3X2wtSzM1YWFqVm0tSFd5SC1VblE1cXFzc3hZNzhQX2VsSGJ5dTRjUkxaTVF2UVlqUlQ1ZTlyanBMejhJRElIYWZoSUNLOA?oc=5"
-    },
-    {
       "headline": "D.R. Horton Inc. stock outperforms competitors despite losses on the day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbV92OEpjOWNEX3BhX0VTLWJXODUyT3V6NVJubFZHMlRRVVNhUVNDcEtMUnZEZmVRRFRnVlQyM1lacVlZQmg5UnEtdG5WWTZpWEllZnNXQTdxTU5WcThpbGxVOXRNRUQ4Y2RrbktRSWNwUGgtUWpOQ0ZoS09tdUFiWV82SE8wdHNKWUpJdzREcEQtQlR5TF9tWGc4cnN6TWV2OERFdFdnY0E0WFVreUV6dnM0WGVPQkVjNlZEeEJPalhNVmNiMC1CTmxkTTUxdGR5bVNNVXB2TzlrbGxqS2trVTBn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUFRvWkpTZ3pVaGlpbHV4Q21ZY2tkQk51bVJkenZuUS1JWFJBajRYLXFaNmhGVk1QdVlodks1WFByN0hDQm1SRlg2YlJ5ODZoUUotaEJ4UW1Ed2RCTWphVllCalV5UWxuSVgxajhPdE5SWElpdDJiU01GT0stbTFFWVBvcHVxRWo2dmJOa1U2TTZncWRla0RaSElSM1ZaUC02aXdLUDZoRy1NOVB4VmFtS2dWN0pyV3VBM0pGaEFsX2JNQzlBMHBHendR?oc=5"
     }
   ],
   "insight": "Tracking D. R. Horton (DHI)."

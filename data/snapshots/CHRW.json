@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-30T05:45:48.578Z",
-  "builtDateUTC": "2026-06-30",
+  "builtAt": "2026-07-01T06:04:54.363Z",
+  "builtDateUTC": "2026-07-01",
   "source": "yahoo-finance",
   "1m": [
-    175.41000366210938,
     178.64999389648438,
     179.88999938964844,
     178.52000427246094,
@@ -24,10 +23,10 @@
     177.27999877929688,
     180.33999633789062,
     179.3300018310547,
-    184.75
+    184.75,
+    188.33999633789062
   ],
   "6m": [
-    160.10000610351562,
     165.02999877929688,
     166.4600067138672,
     164.99000549316406,
@@ -158,10 +157,10 @@
     177.27999877929688,
     180.33999633789062,
     179.3300018310547,
-    184.75
+    184.75,
+    188.33999633789062
   ],
   "1y": [
-    95.94999694824219,
     98.30999755859375,
     99.13999938964844,
     98.02999877929688,
@@ -411,29 +410,30 @@
     177.27999877929688,
     180.33999633789062,
     179.3300018310547,
-    184.75
+    184.75,
+    188.33999633789062
   ],
-  "lastClose": 184.75,
-  "oneYearReturn": 92.54820831277226,
+  "lastClose": 188.33999633789062,
+  "oneYearReturn": 91.57766352871496,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "C.H. Robinson Worldwide Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUEdDVXdoS3ozblppYklTQ25vdXJSbUNiYTNKX29NTGZ4SEVlTFlJLXJoU055Zl9sQnJndy1tRDgxWDFvdXVyS212U3YwUUQzNW9CMjFCZkxsdEZ6RS1PMm9lU2RJQmFCMmdpUUVsVUt2NTlWS3NXeko1MkxFUTM3aDFfQXNCY1prMXhYZzdJcWd0LUYxd0FlVHMzbWp6N05IZ0FyWEpxbFZEc1RVaEl0Y2RadkMwN0NNRUZkZjJxeExwcmRZQ0UtWHNkaE11aDhUVDVYbjdoVG92S01qYmd4eDgycmlHZnNiNkdVaQ?oc=5"
+    },
+    {
+      "headline": "C.H. Robinson (CHRW) CEO uses 11,693 shares to cover RSU taxes - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY01sVnNKVnRNSFllbExjcHc4SzNwbDBiOGFaR1dDb1pMVWxIVE9YNHhVLXhTV21XcXhERmRiNm1NZnYwalp6dlFqVTRCSGJqc08xeHYyNmdUNWVETGs4bExRQ213b1BrcXd1eHZfNTdnb2RDbzZNdG92dDhQaV9VYXh4UTNiQjRjUFBiSG9xNUhHZzhvcWNLSm1GWk9YbWdkenZ1VVBYQkxTaDJma0c0RGdYRm11d1ZfSHdGcA?oc=5"
+    },
     {
       "headline": "C.H. Robinson Worldwide Inc (CHRW) Shares Surge 3.1% -- What GF Score of 68 Tells Investors - GuruFocus",
       "source": "GuruFocus",
       "when": "2026-06-29",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRlJScm5BZVByZld6b19VQnpuay1VNTNGVDRpSW1JRHpHaUpJdHVfUGVDaVZZX1pOTDd6dTBQc1BZOERLa29qWm5kUGZheUw2cWhjNGFxLURtbWRCRVNrSXVFYmxTSDRRNGdYRUZOdkUtLWV1NWFPZndBakxqaVI4SWlzV2xBSzVkbV8yMnlOQkZhcXp2NWR2dDJwWTNqaE0zUEJsekZUdnJBbWotMWoyOG14aXlTdHk5S09USEtR?oc=5"
-    },
-    {
-      "headline": "How Investors Are Reacting To C.H. Robinson Worldwide (CHRW) Launching BidBoardX Digital Committed-Freight Marketplace - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc3lSR2xPNm9uejl6ZzdxeHBDa2pfMF8xZklXZWgwODFQLXN4ZlZxWktyLTRNOFkwRjR0cFZxdnRmUXkzZms3cmJNQ0Z3VGxNd0pqZ2F3bUVIVHR3U3NxMzZWSWg4RGRvRVNtZFdWaE80d3AyM2kzMEFLNi1YR19vcnpINU5tV08yV29HWEdlM2tvUXJ6WWQtNG4xci10ek1na2E3dVVlSmtSaWxXS0hwakg4dm9idjZtWWpzRjM4SWNlVFkxM056ZUQzTWtISjRlZXppaE5pdWxsYTFENzNR0gHkAUFVX3lxTE9ZUFA4MzhpQklSRUJaZDNrQ1o1RU9tUE9XcGk3REFXM2JiMmNMZ3BpZFdka1FfQW1oZjdZWW1Pa0NPWTQ3QXhnWGpsV2hySi1QcTczNnFyTHN6UzBfbHV1QTNlMnBjcll5czVOR25wN21lXzBqNDBoNE5Hd0owNVVzVDBDQ3hjNFA0ZWxKdktUbG1LSVZNNTF4VUdSc3NPSF9uWnJHaVF5aTd6YThzOHhuVGh0SGlaajRsTEEwQWFnSEhlUGg5b0lOa2x1dmJIVWVCVEtabm5vQmVqZUZMN3V0Y3RJbA?oc=5"
-    },
-    {
-      "headline": "C.H. Robinson: A Nice Bolt-On Deal, As Expectations Run High (NASDAQ:CHRW) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSFhPdVFiZ0N4UjhpZ2N1dUlLWlJoT1ZqMi1JdDlIa1o1WDVrUVdHcjZHZXpuMWowMEdOVmdFYkxMXzhhZjZvakhMODVvS2FNQnRrZzlONG5NbEpsamI1clk1VjNBckJRNzV6SVkzNFNMLTJvcTlIWmlDdmpIbXlZdllDbmRISldHcU4tajN1aWtfWlFxeks1Y1g4b2FHdw?oc=5"
     }
   ],
   "insight": "Tracking C.H. Robinson (CHRW)."

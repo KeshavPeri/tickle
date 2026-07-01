@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-30T05:45:49.885Z",
-  "builtDateUTC": "2026-06-30",
+  "builtAt": "2026-07-01T06:04:55.713Z",
+  "builtDateUTC": "2026-07-01",
   "source": "yahoo-finance",
   "1m": [
-    73.16999816894531,
     72.56999969482422,
     70.58000183105469,
     71.8499984741211,
@@ -24,10 +23,10 @@
     76.48999786376953,
     77.0999984741211,
     78.80999755859375,
-    77.93000030517578
+    77.93000030517578,
+    76.5
   ],
   "6m": [
-    70.26000213623047,
     70.61000061035156,
     69.16999816894531,
     69.7699966430664,
@@ -158,10 +157,10 @@
     76.48999786376953,
     77.0999984741211,
     78.80999755859375,
-    77.93000030517578
+    77.93000030517578,
+    76.5
   ],
   "1y": [
-    69.27999877929688,
     70.12999725341797,
     69.69000244140625,
     70.47000122070312,
@@ -411,29 +410,30 @@
     76.48999786376953,
     77.0999984741211,
     78.80999755859375,
-    77.93000030517578
+    77.93000030517578,
+    76.5
   ],
-  "lastClose": 77.93000030517578,
-  "oneYearReturn": 12.485568242336356,
+  "lastClose": 76.5,
+  "oneYearReturn": 9.083135599683162,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Cms Energy Corp stock hits 52-week low at 21.7 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTMtVXJzOEhMcEw1aHNVZEZ3b1gyYk5xNEJfVTBJZ2FPVXZhS2MzNlZvTEZYa2c2c1JQWnlKaU1RZ2ZaS2Juc2tEZjRPa19CMTFzRzVQWFV2dTBBOHd0a2R0UmozUGRidE5KMWxfNzRYRmE5S3lzdnJ4aGo5UEMzMVBNU1lWME04Rzl4bl9hbG5reGRDZWVXekZBY3Q2YmRpX3EzbHdFNi0?oc=5"
+    },
+    {
+      "headline": "PPL vs. CMS: Which Regulated Utility Stock is the Smarter Investment? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONWtVb0hMbmdndEF5WGFPSlFiUjVja0xPcVoxcWYxM2swUzdxcmdpUm5jYUJya2thWnF6WERGTmViSDhRckFreXFtLUFqWkZZLUM3WmMtVng5ZmFIQ1oyQWh5WVYtbEdJM2llSmUwUGExdVhvT1FfQkpzSEp2VUNOcHlsbHNVb19FTlJZZ1UtSVNmSHBlb24wZw?oc=5"
+    },
     {
       "headline": "CMS Energy Corp. stock underperforms Monday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-06-29",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNkZnOXVfSG9iQ1h0NlFEZ00tUnB2Y3dJcl81WGhuMmtQbXNfbzgyM2htaXNnQ2YzbmM2aUV0NWdPN09xNEIyVmVGUUpBdGVBekw5anVkdFhnVUh0RW5EN0N0YVN3M3hTRTV6RmZXVExmT0JfWHpabmxpZnNrb0c1OWRkTUlvLWFmQklZa3AyYU1lWGtYSTIyNzVVRVRQcThKUWgzdzlOU3p3RHRUdkhubnVucmpCblUzYV9tSHl5MEt3NGZTS3BzMlQwemhyM0lrdlhUbjF5WHBLQnUxNUdCRTNaaw?oc=5"
-    },
-    {
-      "headline": "Why CMS Energy (CMS) Is Up 5.6% After Special Investor Call On Potentially Material Updates - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcDJqQ3dDYXUtVGlmWHB6bHQyVl9BZm9qWUhyZGNKVzF2NF9tekwxSGlLczZ5MzE5RkgyUVM3S3hQM1NPMl80a2lFSXlCRjFUd0FfMzZCakZQVU1qUURpVEdVYXFfTkJTYWUwVXFmT1prWnV6MTBIdHVNNkVEeTAwcFZvNUlQWnN2S3lJbDJfUzlCUmd5TkgyR0R2LXVFSndyeERkNHlKLU1PTGVUSFhUTVZEdXBWdFkyWUd2eEZKZTlRdTRBQVHSAcsBQVVfeXFMT2VVRHI5MXUzYkJjRHYyT05MNzk0SE1Ua2RQMERfX29vSTZEWEw0TXhrNFZPMlh5dXBYZVZOR0lXWFdBUml3Q2JwM3pXaHJMNm5WV0tNLUVpSW1UZWJuYTNBM2J5YkZwdVRpUFpBeHVXVXFsNDNpb1E3WHo2TExLaXdIZks4OHFOLWhqRklUQmdlb193c0Q3dTdqNFcxUjRDWXUxSGw1UHJKTl9LX2pwdmxBWVJfOHE0U3FKeGt5WmhjRnFmczJWQUNjSEk?oc=5"
-    },
-    {
-      "headline": "CMS Energy Corporation (CMS-PC) Stock Price, News, Quote & History - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-27",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OaEFaS0hkSVFrWDRaMFNrQTYxc3ZzVUVFNjh6Q2tZQ183VmlkYWNQWHhhbWZNLUd4alN6UHNRbk1nanBsZHZKRXB4akdaMEFi?oc=5"
     }
   ],
   "insight": "Tracking CMS Energy (CMS)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-30T05:45:54.852Z",
-  "builtDateUTC": "2026-06-30",
+  "builtAt": "2026-07-01T06:05:00.445Z",
+  "builtDateUTC": "2026-07-01",
   "source": "yahoo-finance",
   "1m": [
-    191.42999267578125,
     190,
     185,
     187.25999450683594,
@@ -24,10 +23,10 @@
     193.02000427246094,
     192.44000244140625,
     193,
-    190.5800018310547
+    190.5800018310547,
+    179.5800018310547
   ],
   "6m": [
-    148.38999938964844,
     147.92999267578125,
     149.99000549316406,
     153.50999450683594,
@@ -158,10 +157,10 @@
     193.02000427246094,
     192.44000244140625,
     193,
-    190.5800018310547
+    190.5800018310547,
+    179.5800018310547
   ],
   "1y": [
-    174.3300018310547,
     171.25,
     172.16000366210938,
     172.60000610351562,
@@ -411,12 +410,19 @@
     193.02000427246094,
     192.44000244140625,
     193,
-    190.5800018310547
+    190.5800018310547,
+    179.5800018310547
   ],
-  "lastClose": 190.5800018310547,
-  "oneYearReturn": 9.321401840945354,
+  "lastClose": 179.5800018310547,
+  "oneYearReturn": 4.86423464587135,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Digital Realty falls 5% after taking $3.5 billion stake in Blackstone's Virginia data centers - CNBC",
+      "source": "CNBC",
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMW5QOTJQMThaZU1ONlRfaFc1Q3B4ZUdWNHVRY1NsVXBwdDRjQVBJOXU3NHY1bFZqTzkzN2dMQks0ZkZ4OWFDUEpvWUdCUmpScWZTdG41QXM2am9VQUdlVDhpQldSa2N1b1M3VVQ3anNvcXZHTlg5UFd0MTdYQmZUSy03TllUQndFVVZReDJtWnpRM0k4SnNybUprZ0ZoNndCR2fSAacBQVVfeXFMT2N5ajhINC1GaDBMbkg4a21FTjdrVVRjeUpuNzkxMWp5Unlja0RobmNzRVd6SllTalBKYXdzcmx3Yl9wRU92Wm9JZklmZER0QW1oeTg1bkNDeG9uTGxPY0dIM1B4Y3ItcS1tVnJYbUFsVTRzdHRlZzVCdkp2MGJEcHlnRFduWU5Zc1ZfeURzd0dwb3ZxSmFNWE1UczA4bmdFMnlNRFdsNDg?oc=5"
+    },
     {
       "headline": "Digital Realty to pay Blackstone $3.5 billion for stake in Virginia data centers - Reuters",
       "source": "Reuters",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU2dtcGYyUW8xMGl4aGUtWlVjR0hzYXFROUUzM2c5WlJBYUlRNVBTMHdlTjdnN2ZMU2tLWVFycmVkRlJFQzhHYTNlX3hQWjNJWTk3NVhrNURhZlhEVmQ2R3M1TU5hRktSRlRudVVmZnU0SktEVEFic3ZWajNTa09MNUxPd0lJVHlQS3hfUUplOEJ0RFJQUHZDaG5qdjkycFRTNDFKX1hBMi1OWDQ5aXBIZWlrNjFsakJ5UVVrU1N0THozRUZXdXFGZm9wUnJTdDVz?oc=5"
     },
     {
-      "headline": "Blackstone is selling 12.3M Digital Realty shares at $185 - Stock Titan",
-      "source": "Stock Titan",
+      "headline": "Digital Realty Trust Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVHVCRGM3MHRWTF9YTTN1cFlnbEozam1lQ0p4Wl9xMXBUQllRS3pINWZSUHlKWTZsYlNCazJHeWhnY3lXRjYyM21uQlQxVzZycVhiWGUwUlkzZmR3SzdRRnY5Qk8yRkQwdjVYLVBCZUUyaHFKVEdJTmxNYk5Ga0U1MXhXZTJ1dTNrUnAxSWR3RExwNTZPUi1Ca25adXQ3ZzJEZ0ZLaWp0eWxKVUdEb095SGt3MA?oc=5"
-    },
-    {
-      "headline": "Digital Realty Announces Secondary Offering of Common Stock by Blackstone - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUDJpSTBqNzRpQW92bE1CUDFzUkdOWFpxeTU0YVdLOXdwSzdHUnRHcFMwdkFSb2dmVGJpd3UxUkVWdWp5MXUtRFZpblBIQS1kZ1NYWkN3eDB1QXlWU19NbHFmQUFpVGg0dVBlR0tEdlFhODdheThyMmhUVW5DLU5aNXFvTnpIVzlGR1hqUVpTTnNRNVFMRTlaVEM2ZWdVVTlfZGNVVVhnRmpQMVFCYkY1a2g0cUVnaEM4cl9WVDczMEZZMUc1TG1wbHVqREFabG1ybGMxOUZPUTNSeXZmUHc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd3llaU4zaS1xOTJUd1hnVkYxd2xpOHdjUEtfZUwzY0xFcjhYXzFQckFwSEN6czNtb3RCcURDSjhKUWpnMGh6NG5UUGRKOUk3dGxFNl9MSXBmbGNZZU9Fd1ZMZGdaMVdCVzR4U1doZUd4NF8xd0RDbGFaaVI2bVpQXzBnRGtBRVVoUjd1MnNhc3lIcWVob0NMWHN6c3FZSEhxd0s0UlpQTTd4V1VhQXRJSVNTSjVIWjZjc3l0eXJlTG1sUjJndHUyWmFpaGlDX21JOHVLVFJ0aVE?oc=5"
     }
   ],
   "insight": "Tracking Digital Realty (DLR)."

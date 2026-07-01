@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-30T05:45:45.210Z",
-  "builtDateUTC": "2026-06-30",
+  "builtAt": "2026-07-01T06:04:50.501Z",
+  "builtDateUTC": "2026-07-01",
   "source": "yahoo-finance",
   "1m": [
-    123.69999694824219,
     123.30000305175781,
     129.97000122070312,
     129.1300048828125,
@@ -24,10 +23,10 @@
     108.98999786376953,
     111.55000305175781,
     110.54000091552734,
-    109.0999984741211
+    109.0999984741211,
+    106.7300033569336
   ],
   "6m": [
-    92.91000366210938,
     91.72000122070312,
     91.47000122070312,
     89.79000091552734,
@@ -158,10 +157,10 @@
     108.98999786376953,
     111.55000305175781,
     110.54000091552734,
-    109.0999984741211
+    109.0999984741211,
+    106.7300033569336
   ],
   "1y": [
-    80.27999877929688,
     80.25,
     81.38999938964844,
     78.44000244140625,
@@ -411,18 +410,13 @@
     108.98999786376953,
     111.55000305175781,
     110.54000091552734,
-    109.0999984741211
+    109.0999984741211,
+    106.7300033569336
   ],
-  "lastClose": 109.0999984741211,
-  "oneYearReturn": 35.899352432796135,
+  "lastClose": 106.7300033569336,
+  "oneYearReturn": 32.996888918297316,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Bunge Global S.A. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZGhVdEdQb0dscFBRejVqdmRLMjdxRWRUdWR3SG1OQWE3dkhxd0FJZVpOV0hSRE9iX2FuR2xNTl96WGd4X3FySG56MVVnbGYxTjVjSHlaWERoMVNsVjhveXRva0RqVlUtc3pRVTRrUzRFRTN1X3oyYzRZd2VIa3l0MzVYQnhFOVNjRWljQXh6RjZjNzVSdkl4LW1ib1A4UGh3UGNpQU9raThBTkdTdXFUMWJETkFHUGowNGhWYWsyT2U2N0doME8tb1BySGhDVl85VnZ0VWNKU2pDWElhdnRvTUw4Tms?oc=5"
-    },
     {
       "headline": "Bunge Global Stock Plummets 14% With 7-Day Losing Streak - Trefis",
       "source": "Trefis",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakRjaUFENnhrVl9kR3FZN1B4eTlXUnhPMXUyWWpwZXprX09CSUFjZE1ETVV0eHNhdFBwcGJLSnE2b0o5aklDa3VleVNjRmZqd0ZHeEs0OXFFNVJsdnE1MDJSblBrUS12a0NScEtZY0ZyZ1kwNVhDbUZKVXF0QjZpSEMtM3RIQzBYaW9kODVaekVqTmFFOF9ZVjFmaGgwNHBQVEFTT3pOalhpS29hM1JBeTVFaFFaYWJlelFuWVFrckM?oc=5"
     },
     {
-      "headline": "Is BUNGE GLOBAL SA (BG) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Finance",
+      "headline": "How Is Bunge Global's Stock Performance Compared to Other Consumer Defensive Stocks - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOWpDcXVCaW1sNFdjTjhULWROOVZNWXBLd01GaE51eWdHSmt2ZlZ5UjUzSFdmSldYbGVLNWYzUnBVRjAxOWFyaVBQMWIwZmxTS1Nhd1JMcTZWU3djTzVMQ0xSdGtxb2ZyQncwOHVSdVJQTkFOdlBfbjNjbzdDYmRrcGJ5TzM5ejFwMlhhNHBPQjhaWE0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTlhZNFlkWV9rTWVoaEdMZFB6alBZQjBEOHY0dVdZQ2V6ZGZiLUxIdTV0aDJxZExzaVFWel9HSUtueWp5SDZCV0lLbWsxNkd1TUUwckVzU3duS0pIVzRKOTk4cVFXYjkxWkpEdXNrckJZR2NHMFdNRzJkUkQwLW1IWkY0cUtJV2tMU2xyd05zbkdqck9iSXJuY09lSFYzZ2FQMi1oMFBpQUY?oc=5"
+    },
+    {
+      "headline": "Bunge Global S.A. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUhoLW9fODJ0THBRS2xNeXM1MjFna2RabjdrdVRMVDR2alhNWE1wZFdQcEI4ZFlBRDVaQW0xY3VKRVJfbklCd2g2TE83MmZHT1Qzc0RkZllNR0l5LXY0MV9WQmlvMnhpTDZUVUVlVWNpSnlNM2l0R2dnaXAwUmZJZnFkM3R0UmdKQnFRQy1WdWwxdnRGZVVSNDhkb3NRUnVRMjVFcng1OHNwOF9WWGcwZmQyRVEwS1psU2I2bVNFdTdWWmZ3WXZSNG1ZaUU?oc=5"
     }
   ],
   "insight": "Tracking Bunge Global (BG)."

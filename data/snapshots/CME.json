@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-06-30T05:45:49.542Z",
-  "builtDateUTC": "2026-06-30",
+  "builtAt": "2026-07-01T06:04:55.255Z",
+  "builtDateUTC": "2026-07-01",
   "source": "yahoo-finance",
   "1m": [
-    277.4200134277344,
     273.5400085449219,
     257.760009765625,
     250.52999877929688,
@@ -24,10 +23,10 @@
     231.67999267578125,
     225,
     221,
-    218.5800018310547
+    218.5800018310547,
+    220.8300018310547
   ],
   "6m": [
-    273.739990234375,
     266.0299987792969,
     269.0899963378906,
     273.20001220703125,
@@ -158,10 +157,10 @@
     231.67999267578125,
     225,
     221,
-    218.5800018310547
+    218.5800018310547,
+    220.8300018310547
   ],
   "1y": [
-    275.6199951171875,
     275.4200134277344,
     275.82000732421875,
     276.70001220703125,
@@ -411,29 +410,30 @@
     231.67999267578125,
     225,
     221,
-    218.5800018310547
+    218.5800018310547,
+    220.8300018310547
   ],
-  "lastClose": 218.5800018310547,
-  "oneYearReturn": -20.695157933618233,
+  "lastClose": 220.8300018310547,
+  "oneYearReturn": -19.820640815923564,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Gold Futures Overview - CME Group",
+      "headline": "CME Group to Launch Single Stock Futures on July 27 - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeU5Bbl93eUhMMDlrODdTcTVfU1ZsWVVfckY1VnQ4eWpwT0V1TG5RUnV1WWJ2R3psMmlKSUl4eE9WYkp3czk3QlZ5eFk4djJPM2tjRHg3OXJzZDczN21vYzlDNEduNkVuT2hLRkxfQS12WjF6bF9YRG1JWk0tM2tLa0daMW4xUlpTbXJOR2c3UkRTM1R3a01hR1FFaw?oc=5"
+    },
+    {
+      "headline": "Corn Futures - CME Group",
       "source": "CME Group",
-      "when": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WeDc1RGtZSl9sWTFkQXE5RFZpdVo3VkRJT08zLU5TSUVSQWpLTUNOR3RjZEwxY2hYNUdLUzdrV2xsdDY1OTlkcGJxM1pyaUNOSndxdDNuY2N0NXROM1psWERyeVVRZko1ZGc?oc=5"
-    },
-    {
-      "headline": "CME Group Inc. Cl A stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
       "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTUZtbmhpdmRBckJfN1VURUN5VExXVFBjM3FsT21GblZqTk9fQUdseEFGMU41czJTSzJ5V1Z5cEZZWHdMWWhCZnNpeUx6UDZSRUhIRUJtNHpxRTFncVZtRUFldUxoZGR1QmtFZnpNNlBfenVmMnV1TW5MYkZJdTgtV2JzYnlHZVBQV2ZaN1llUVgzdWNpeGxmOTJfU2pDVk1pVUJlTFczVWxiN1F3T1ZaR0ZKVzY0UXF3YThudnFfWmNHWDAzYWd3X3Zpd0N1UXBXSnVHVUFTekRXT0pxU1U4S05ZZW9RWnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Y2dXRV9nTmt4dlJGV2U5SGpNNlVpMTUtaVJTUk1QWE1EU293MEJXRkhzeUVPOHBheUxxbXFpRTRKRjRvRDhzc2JNakNOLTNRNDlFd3pidjRRSldhSTV5eWttcWZBTmc?oc=5"
     },
     {
-      "headline": "CME Group (CME) director granted 645 Class A shares at $225 - Stock Titan",
+      "headline": "CME opens single-stock futures on 50+ U.S. stocks July 27 - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGc5TTVEN0U3eElkQzVSV0d1T2hfeEdwa1lRWmpKRzU5MVdGN1A5UWluUUJSaHFrcUN3YWU0bFNLcExWcHhZZUtMSV91UmlRWVdtQWtRdlAxUzVMa0ptNTJKSWVmc3pqVVllSXptRDExb0ZQVEJUV2ZDb2xzT0hDOUtoblZTZDJTcGZISE9PRFJqYnI2eHNOVFYweUJtNVZrU25lUzBHUGROdw?oc=5"
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTRBa1Y4Vjc5SW9BSXM3Y3lYeVhQNzBKSmRSS2o1ZWxERldiR1ZhbzlTLThHQklIQzJZdHJjUGJRVHJ2QjZLWm0xaVFPSEhrblhHb2w5eDlGWVVoQzBDVzhVQzA2dUdMSmtQaTdGRm9yeDFSVkQ2ZmczZEp1d3JIdFBjNjhqNUJ1LWpZUkhadHNyamtNYWNEN3EtQTRHYTFFbHY1Vg?oc=5"
     }
   ],
   "insight": "Tracking CME Group (CME)."
