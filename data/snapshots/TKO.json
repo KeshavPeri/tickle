@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-01T06:05:28.872Z",
-  "builtDateUTC": "2026-07-01",
+  "builtAt": "2026-07-02T05:32:56.047Z",
+  "builtDateUTC": "2026-07-02",
   "source": "yahoo-finance",
   "1m": [
-    205.17999267578125,
     208.47000122070312,
     204.58999633789062,
     198.57000732421875,
@@ -24,10 +23,10 @@
     203.8000030517578,
     215.8800048828125,
     211.6199951171875,
-    201.30999755859375
+    201.30999755859375,
+    202.42999267578125
   ],
   "6m": [
-    211.61000061035156,
     213.44000244140625,
     215.49000549316406,
     215.6999969482422,
@@ -158,10 +157,10 @@
     203.8000030517578,
     215.8800048828125,
     211.6199951171875,
-    201.30999755859375
+    201.30999755859375,
+    202.42999267578125
   ],
   "1y": [
-    175.61000061035156,
     177.4600067138672,
     177.13999938964844,
     176.33999633789062,
@@ -411,12 +410,19 @@
     203.8000030517578,
     215.8800048828125,
     211.6199951171875,
-    201.30999755859375
+    201.30999755859375,
+    202.42999267578125
   ],
-  "lastClose": 201.30999755859375,
-  "oneYearReturn": 14.634700107578762,
+  "lastClose": 202.42999267578125,
+  "oneYearReturn": 14.070768070112353,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Nick Khan (TKO) gains 90.2200 dividend equivalent units in Form 4 award - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGUwMVk5eDJXaXdCaDdWQUJXQ0VLTmpoMFhpaVdnOXhwRlpUTTRMTVlDUG9NamRsdmZCN2hHUEpTcWtQMWNaZ1JVWHZfY0xlY3hCNGhWZkFYM0kwcWpRaUpwMUszRGFndG9FZ1BJbWwzS0tNX2tLR0trM01GUlAtelB6RlVObTBOcW9lRlNib3J1THI3dUhjUzQxclZ6SHE5WDZuUU1ORl9ZZERVM3BPVnpSQVdVdw?oc=5"
+    },
     {
       "headline": "TKO Group Holdings Falls as Investors Weigh Legal Overhang and a Thin News Cycle - Quiver Quantitative",
       "source": "Quiver Quantitative",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0UtYUhvbFRONWxXN3J3S01IelFXN1FDckUweTFlUUVfcU5QUVFTWTJYNTlCcVlZMHpSWVJGY191clpxQUxITjFqMFhhQVFDVlVBT1JXWVdOTlZRc25WZHYtWkpMTUFzQzc4aU5KbTRlTzVmbVM1M1Y4cXNVdWZnckpud25rZjlPZFhtQ0RiamhnWUtxampVcXBOaGJCdWJtQUNFOWE3bXBhZ0RZXzVPRU5IVQ?oc=5"
     },
     {
-      "headline": "TKO wraps $800M buyback, taking 4.17 million shares off the market - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWmFYai01bFpiM2ZlM2tMempXUExhVnpaRlZBNjRmYldod19BaVAtNHRjaXF2QndJcUpFa0NkR2RYU09fTERiME1iQjNSeG5xLXZGZnpaT1lQY01qVG5iM3RQWE54THZ0SXA1YXY3WmpoeUJTalhrSVhmUTI5QUxVZU5HVHhlWWgyS2NzS1NxODE5MHB3Q3o0cFRNQ1ZYNUJ4cEU1LWdhbVdtaFMycjVseg?oc=5"
-    },
-    {
-      "headline": "TKO Group Holdings (TKO) Is Up 8.6% After Record UFC Freedom 250 Viewership And Engagement - Has The Bull Case Changed? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-27",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObEdtc1RGSnZ5YUEyMUhBY09ZaTR1YndIM0psbG5xLUY0Y1VybGZHNHlQcVZOVVVCVmVubERRQUNkQjRlc2xVNHVsLVNKeGxkT2FYczd4WV9iMlNmc19uOHdtQlMtQVBzUmtFcU95Mmo5UFJrUmcxc2lUN2phTDY0SW9hb2hoQmxJZFdHMDFpdnJIeHd2Q1RobXNwZHhBMlNDS1NRWDFESHlYcjJEdjZTMjM1eGpzbkpIaXp1M2M3OHBHUzRzZE8xRmxDY9IB0AFBVV95cUxQN3F6d1hybmhvUDZ5Y1JmVUxjS01qVTFsUDVqaEJ4U1RNWVZIZkcwR0RhY3RMV2lWVlZGVHFmdncxOUozX3hTZkViaHZIU05XSVdZSUpIZkFtYlc4SjdlTnRCYkZoa3ZsdERIam56clU0RkhQZDRIekFHSEJKR0Y1SXFGWTZTLWxSOFhmZDhvdVc4QVY2cWtKOG1Gb3BzTFE3OHJ3elIyanIwM1dvLXM3dnRTd0RPX05UY2xZcFRNbWNycGxwcW5MbXNHZENlZnM5?oc=5"
+      "headline": "TKO Group Holdings | WWF, WWE, & UFC History - Encyclopedia Britannica",
+      "source": "Encyclopedia Britannica",
+      "when": "2026-06-28",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wZ1JQZzYyRkdseEpXTkppSzAzc2VMM1ItTzhIUjhPRjRuZ0JyMm1zbi1KcnNNU2JEMkpqN2RIclR6SGVNVTNOcWdCUUIycnBJLXljR1BMVm8tY3NZNlRFbw?oc=5"
     }
   ],
   "insight": "Tracking TKO Group Holdings (TKO)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-01T06:05:09.029Z",
-  "builtDateUTC": "2026-07-01",
+  "builtAt": "2026-07-02T05:32:36.377Z",
+  "builtDateUTC": "2026-07-02",
   "source": "yahoo-finance",
   "1m": [
-    181.16000366210938,
     176.6999969482422,
     200.39999389648438,
     200.75999450683594,
@@ -24,10 +23,10 @@
     228.00999450683594,
     221.0500030517578,
     255.69000244140625,
-    255.42999267578125
+    255.42999267578125,
+    220.6300048828125
   ],
   "6m": [
-    86.87999725341797,
     87.86000061035156,
     88.4000015258789,
     89.33999633789062,
@@ -158,10 +157,10 @@
     228.00999450683594,
     221.0500030517578,
     255.69000244140625,
-    255.42999267578125
+    255.42999267578125,
+    220.6300048828125
   ],
   "1y": [
-    52.59000015258789,
     52.720001220703125,
     53.040000915527344,
     52.380001068115234,
@@ -411,29 +410,30 @@
     228.00999450683594,
     221.0500030517578,
     255.69000244140625,
-    255.42999267578125
+    255.42999267578125,
+    220.6300048828125
   ],
-  "lastClose": 255.42999267578125,
-  "oneYearReturn": 385.70068821954897,
+  "lastClose": 220.6300048828125,
+  "oneYearReturn": 318.49392976905165,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Corning Inc Stock (GLW) Moved Up by 14.03% on Jun 29: Facts Behind the Movement - TradingKey",
+      "headline": "Corning (GLW) awards RSUs to director under deferred plan - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUktjQkl5alU1bnl0b0otUHdrSnpCMDBoeEh1ZjJQcklDaGVnRXhESTAtaFBMVmt0OVQweS0wNmhMUGVwTUw3MHFvTThkcVhnMXk4VkdNZ2luZlJDTlFUcXl0QnQ0X282RFpZWXNiQWphZlEzdXdmY1FoVldWbHZNUmg5eDhsWjhSekVXS0IxcWN2bjJFcFVhYndacThjMG9uS201bHNWTUJLeXM?oc=5"
+    },
+    {
+      "headline": "Corning (GLW) Faces Significant Decline in Stock Price - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjBLTFlxU1Jsdnp1Mmp1MVh0OU9qOExaWEVMOW51bWM5WWtnRFBQeExsMzhKMVJLN1U3VVZwaVlyYnlYZ1licHhaZXI0a3R0SXdWdVY4amMxaW1JM1ZOWTE0LXdiQjZ5QzlpTzVKcGV3MklJZ1I4ZUYwNXBlZnFNRjlMaUYzSFdzaThZRDZwOXM3ZlRBc0E?oc=5"
+    },
+    {
+      "headline": "Corning Inc Stock (GLW) Moved Down by 14.06% on Jul 1: What Signal Does It Send? - TradingKey",
       "source": "TradingKey",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGlFYXBwam5iRDVwM25yZVdVZXJhLXJjTXdYZVI1VzFmbzRJTFpNTnQ2Q0hqWEFLakR4QWdCSGNWbU5ZTlF3WjIyVmRRa3NOQ1RnY0RFbVJDTWZ0YURnSF8zR3pYVzVCWGxnZWtvZnNMWnN1RFhFVFhHSWQ1RVZFTmpKQ09TUVN1NVE?oc=5"
-    },
-    {
-      "headline": "Owens Corning (OC) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV3ByZU9NWDZIdFZlTHdoQzBWZU5HM2JGVF85RUtpdWpVQ2xaN0lqYWpydndPaXpXTWJYVHRiX196WEJjNEE4MG9FbUdrOFQ2V2JOOVdLWjdoX0hGTW55eHU5aGNrdDFrNGdqMFFMSmFMYlA0MGRtTG81VHg3WGxsS2FzSnJVOW9oSTZENWRCOVJxaTVFdmVEai1TVjA?oc=5"
-    },
-    {
-      "headline": "Corning Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdUhIN0RkQ3JpdmtCVE5ZYVctLVlKMTZkUllONWN4dTRyWllGMTV0eHRKWGZpT1AwOWlNdXAxODZIQkF6R0xQV3BYWEJVLXl6blFBOS1NZXQ5dl85Rm5NTjNRZUdRbFlzSDdjMlR3NWtQeVdWcXlDXzNIY3F6TTZRT3ZmTnlLUVllM3lxdlNTLWM5NWY4VzM4QTE0N1FkM0ZoZHdFRWcwTVl0NnkyNjh3MHkyWmNuc1hWTnNzak1xU2s?oc=5"
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUFobUJROEFOaVVUTTdZS3FHeXc1TmJueHQ0UndUcjBxaW9pRXVXSEZnWUJHTXF0YmVmSDgtZVptb2JpRy1iMjc0STVRdGNGVDVERmNmOVRZQm9mR3NZN29tU3B4UEZCVjRMczlIY2JMdWhlVGtORUVab0tQZ3pIc19HTTBZcThCN1E?oc=5"
     }
   ],
   "insight": "Tracking Corning Inc. (GLW)."

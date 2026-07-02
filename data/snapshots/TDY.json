@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-01T06:05:28.124Z",
-  "builtDateUTC": "2026-07-01",
+  "builtAt": "2026-07-02T05:32:55.159Z",
+  "builtDateUTC": "2026-07-02",
   "source": "yahoo-finance",
   "1m": [
-    619.8300170898438,
     609.469970703125,
     618.8099975585938,
     618.02001953125,
@@ -24,10 +23,10 @@
     627.1900024414062,
     624.2899780273438,
     641.219970703125,
-    666.9000244140625
+    666.9000244140625,
+    661.2000122070312
   ],
   "6m": [
-    504.4599914550781,
     510.010009765625,
     518.1400146484375,
     518.9000244140625,
@@ -158,10 +157,10 @@
     627.1900024414062,
     624.2899780273438,
     641.219970703125,
-    666.9000244140625
+    666.9000244140625,
+    661.2000122070312
   ],
   "1y": [
-    511.57000732421875,
     509.510009765625,
     517.9600219726562,
     515.47998046875,
@@ -411,12 +410,19 @@
     627.1900024414062,
     624.2899780273438,
     641.219970703125,
-    666.9000244140625
+    666.9000244140625,
+    661.2000122070312
   ],
-  "lastClose": 666.9000244140625,
-  "oneYearReturn": 30.36339403521754,
+  "lastClose": 661.2000122070312,
+  "oneYearReturn": 29.771741385646923,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5ZENyOWhvUmtyQk1ONWNOOFplNFM5aXN1cTN4TnVBanMzNzJIdXh3dHNFc0tqaXNwSHEtV0JoTUFUUHZDQnpxQjNRbkgtRjA?oc=5"
+    },
     {
       "headline": "Why Teledyne (TDY) Stock Is Trading Up Today - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0FtWlBqRXVFanBKUzBtY25jZjdzTV9pcEJwQnV0TjQ3U2FsZWtTRktaakd1VDh0TmhuOVY4dXY0UzVrNmVvWlVBLURfTGNIS1FIaFJkaWlpdTdURUVxRi15c2hMVEJWS1N6eU5Xb25IdWVvWjEtUWpEOGU2dTVNY2hzQ2pVRk9CbGhGNVNJMmdSbEhsX240YXQzOA?oc=5"
     },
     {
-      "headline": "Teledyne Technologies (TDY) Could Be 10% Undervalued Following Prism Ground ISR Launch - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObzI4X2hwWEpsQ200V19XZ250azg5SnR1RDQzSmNLeGlrTm95aXVobjNZMDNjZXZldlJXRVB4aFAyb0lkOWNrZ0xTcVJDRldiMXNtS3MzVU8yaVBIZEZ2S3U4dUhHV1hUb2pLUl9iZGFjUC1iOVIzMkNKVDVMUUNJbkF6YzdxNU9MOTM2eTg5RmExMC1DbEw4Wk5wZ1Jkdno2dEhvV19JZzhDZnVqZkJRSGxwZHBOQ0MtaGFVMEFwSVk3ZkdJNnVRSzRJX3rSAdIBQVVfeXFMTzZXbHJZTDJwZU5oejIyQWlaUlpoUGt1RVhZeUlfRkRocG1VUVJaUGRpRjFreWpBZWU3WnJxcmRoSk1ZaXdfMUgwVmFpUjBzbUs4a3VCdjJUVDYtRFFCNjYxb2tnWklrTDEzMndycV9LdkVpUEJSbjRrYXVXd09kc0k4eEhSV0Z3SkdRTUdfdU5SS3htcE5LWm1JdG1BQUF4NHd1a2lFck5Dd0xTZ1hheWRjb1lGSXFPWlJvZ09lTVBKODkxRFg0dXpVRy1zX1VxYjFR?oc=5"
-    },
-    {
-      "headline": "Teledyne Technologies Inc (TDY) Shares Surge 4.0% -- What GF Sco - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWW9WdldUZ2N4bU9YclFpcTlSWkxTamFGRnNyVkI2YVRMS0V5SDMzaFFNZzFSal9ZZGhDd0pxSW81RWRWTl9yQjFYM05WSlFuandCUzI0Z09udl81amJyN1o4UC1CeHlteUxDZUdFNXAxT0ZEVXJnQ0N1bE1URUdzSWZSYWRxU3ZhSHN2VHJHbk5ZSFhMN1BqNldIWHM5OWs5dm44R3k3UGRrUWtwX0phZ1poRHVzemVEMUR1Zw?oc=5"
+      "headline": "Teledyne Technologies Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcWd6a2dCU3pETVEtdHRxUjAyMjRVSTJyXzB1S1BQaThpVHpzdWg3MWozLUh3T0tEX1RKUTNXcnRVakJCVlJRcXJwamtNcDFaSHdnaDUtNGhXT2hQczd0bEk5SDYtZ3JIazYta0FHUlZ5RC1Bb1VqQWNtSjBqOWFBTUs2QXRGTFhrMGY5b0xCeGlnMG55cmxRQUgzWmpCekk0M2xnTTBqSUpyQlI0bVlzLUZaQU1kSkNNekx5R1JJQVJyamp5VmlkejdFcnZPYldES1c1TTloMjVFV2FIUGxDLVhUOWRSVlJZUGtF?oc=5"
     }
   ],
   "insight": "Tracking Teledyne Technologies (TDY)."

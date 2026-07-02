@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-01T06:05:21.765Z",
-  "builtDateUTC": "2026-07-01",
+  "builtAt": "2026-07-02T05:32:48.642Z",
+  "builtDateUTC": "2026-07-02",
   "source": "yahoo-finance",
   "1m": [
-    165.4499969482422,
     168.33999633789062,
     169.7899932861328,
     168.4499969482422,
@@ -24,10 +23,10 @@
     175.97000122070312,
     173.8699951171875,
     174.91000366210938,
-    173.83999633789062
+    173.83999633789062,
+    175.60000610351562
   ],
   "6m": [
-    138.3300018310547,
     139.4600067138672,
     140.25999450683594,
     140.19000244140625,
@@ -158,10 +157,10 @@
     175.97000122070312,
     173.8699951171875,
     174.91000366210938,
-    173.83999633789062
+    173.83999633789062,
+    175.60000610351562
   ],
   "1y": [
-    127.98999786376953,
     132.05999755859375,
     131.6999969482422,
     128.5,
@@ -411,10 +410,11 @@
     175.97000122070312,
     173.8699951171875,
     174.91000366210938,
-    173.83999633789062
+    173.83999633789062,
+    175.60000610351562
   ],
-  "lastClose": 173.83999633789062,
-  "oneYearReturn": 35.823110586284315,
+  "lastClose": 175.60000610351562,
+  "oneYearReturn": 32.96986926385758,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMmtRVXFKaGdUUGNDQ2lvTXZSaERjeWVlWFQycGFUNHVQelcwejA4NldWREZWQ3VZdko2SlpQcmIyS05CUmQyOExFNVd5NG0wOGhod2dfX2tubndRWWNpalVJN3BBOUdZYTh6T3NnSDdWbEhIOGFfcVh0V1REUHI4VVdaRWFvazRXRnp2OHFyeWNpYVNJYjdYSzZJQVBhd1BMRzlRaQ?oc=5"
     },
     {
+      "headline": "Northern Trust Corp. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOLXA5MlRlaGRYQVJpVXZOV1R0S2FhZnVkRWk5UjUzVFNjVzU2bE9Kc185LWMwOWRpMF9ndm9tZ1Y1TWNIWU9WRktzY3NzZjNYTTQ1cUVKa2k4Yml5Z3RpWlF5blM2NkZVdGNKd0g1aWs0emJjMzk0bU1BZEpVOHhjZk9jN3h0WFpkOXlfLWRNcWxtX3lCdXZvODJjOFNmV1BSNEtxcm9PTmV1eHBEWExtc2wwTHhNeWVManJtNHlUa1ZsX0NEMG9NakhiZ0lEUkZsX2haUHVwY1c2Q3lOdGg3VTZVUHpLdnVhNDAxVk5tN3JDTU5qa0UyaVpaTzVJSFh4MXk1MWs3UQ?oc=5"
+    },
+    {
       "headline": "Northern Trust CEO: Great market conditions and our strategy has brought strong stock performance - CNBC",
       "source": "CNBC",
       "when": "2026-06-25",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSy1kcGZxTWt6RkhFNjRoM2E5LUNNOUpVeWlXeHZzMnRadm9rRGhwRDAtRkFCOUZrekRDX0hpSFh3c0VCSUpDcEhGdXljUlNPdTZsQmZ3M0pjdWpPckhST3h3QTNrVE5IWEg4am10WUstcGFaVHYtRm1FVUhGT0pPdFJpbWk3d1hPSGF0bTdtWmhEaURTSExVZ0hSRU96TjZIU2lWNEFfUFdGS1Q0aThfUGtwVXpBcTMxZEVVNWNzRzhQdGhySDN1RDZVV3NYM0ZZYnZMdV9n?oc=5"
-    },
-    {
-      "headline": "Northern Trust (NTRS) Joins Russell Growth Indices, Is It Fully Valued? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeV93eUpOeExlemJkdUZiNXZqdUpuLS1SX0RKaXZORGpGNm5XOGp5NURUUUlCQXNRMXpIWHRCQUQtYjVzaFUzZ0JzUXVCV213X1AwamVVV1hLVGFIX1ZoZVZ2N09Hc0puN25vcEgwZGVJUnVueDdSYnRqLXhYSVZMbnU5WmR1UnRmRm1sVk5reGhBOXFydWlST0tEeVN1OTdNRnM5RTc2RmdaZWV2bkZzOG1SNk1jLVRCNFdwUVQzVWRRZXlMdm5QSUpLYVg4QjgxUnY4VUlKcWNaLS05V1F0YtIB5gFBVV95cUxQdld1dDg0ZDBlUE45cFFJa1ZyZHlwZXEzdmpHM0pJeEpfM0VtWXFYcXJ3ZktUTVVoRUI0Zy1LWWtIU0N6d0lXQk9VZTZxdWMxUEJ6LWdRVWZmLUZCbzNaWDlITlJZakpLT3FraTFycFoxWWpTeHZvYjNXMExLSlg4SS1WRE5xQ2V2X1phdjJueHB1WVdVcmRfWVQyUl8yeDU4MF9qQ1l2NEFsUDM1cGcxWnNua1FpRnJTTmNkcGQ1ZVZaa0lCMERyQ083V1NpTDNsdGpDeHc3UThqNXBqQ0ZrTEFmLTE2QQ?oc=5"
     }
   ],
   "insight": "Tracking Northern Trust (NTRS)."

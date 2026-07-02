@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-01T06:05:15.417Z",
-  "builtDateUTC": "2026-07-01",
+  "builtAt": "2026-07-02T05:32:42.754Z",
+  "builtDateUTC": "2026-07-02",
   "source": "yahoo-finance",
   "1m": [
-    299.30999755859375,
     296.5799865722656,
     300.9599914550781,
     300.8500061035156,
@@ -24,10 +23,10 @@
     335.1199951171875,
     329.04998779296875,
     329.3900146484375,
-    327.3299865722656
+    327.3299865722656,
+    334.07000732421875
   ],
   "6m": [
-    313,
     317.2099914550781,
     323.0899963378906,
     325.92999267578125,
@@ -158,10 +157,10 @@
     335.1199951171875,
     329.04998779296875,
     329.3900146484375,
-    327.3299865722656
+    327.3299865722656,
+    334.07000732421875
   ],
   "1y": [
-    290.4100036621094,
     292,
     296,
     291.9700012207031,
@@ -411,12 +410,19 @@
     335.1199951171875,
     329.04998779296875,
     329.3900146484375,
-    327.3299865722656
+    327.3299865722656,
+    334.07000732421875
   ],
-  "lastClose": 327.3299865722656,
-  "oneYearReturn": 12.713054799969106,
+  "lastClose": 334.07000732421875,
+  "oneYearReturn": 14.407536754869435,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "JPMorgan Chase (NYSE: JPM) director receives 122-share stock grant - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZW1KMXVBYWg5Tk5hWnhCaGd3bU9DUHNQV0RMaUYzak80Sk5XQmE0UjB5NWd3UUZfRENPcjV0OGNMNk9aVm01eVdBNEF5NmVkeGJ2cWhxYU1ySVIxMW1mNjh0MzlfVWxMRW1CUG5ialF3S0tQdWVNUzJEM1d0MkZqeE0zakttbXhYVldIM3d3VFk4WkVMR09ZMFg2TWQ4VWEyU2sxVDZHMElpRlZXN3Uw?oc=5"
+    },
     {
       "headline": "JPMorgan (JPM) Stock Still Looks Cheap As Its 141% Run Continues - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNalM4RWZoM2FZY2ZwMEJMYjR3dS1fY3A2bTgzbjJiR3phSlhFWGVQMTFLdkJ3ZGs0QnEtNkNDVmx6elJxb2hxOUlIQTc1cWRhZ2E0VUlIbWczREY3UGtmVzFTYVBwYlRDd2FkVDY1S2xOcGpiR2R3bEo2NlNaLU51M2lYVkNucHRwQUJKeDd6MVlzVXhMRldzVWxwNA?oc=5"
     },
     {
-      "headline": "One of Wall Street’s Highest-Quality Stocks Is Becoming More Interesting - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUtZUlBhN1NhNUJMdkViZ3VKRVVqeDBjOF9aMVItbW5xM1E3aHBMcUtuS2ZDeXl3VDBpRlhwZ2hDdlB2c1JpNUd4TU9EckphZmhMQnkxLTNxQVpPQXNPZTQ0bUF3VXMyUkoyWlBaam52MXFwSC1veEtzcXpOSkhIRW5kVVY1WFdjQjhQWlZ5eDdKamw0NkY0cTJHZmszVTZjOW5HWkxmTDkyeUVzNXBzQUtB?oc=5"
-    },
-    {
-      "headline": "JPMorgan Chase (JPM) Stock After Regulatory Headlines Is The Recent 10% Rise Justified - simplywall.st",
+      "headline": "Is JPMorgan Chase (JPM) Cheap As Index Removal Puts Its Valuation In Focus? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTdFRkdaeVZWS0s0cGxjc3R4dk9XaURyQThYeDVlZnZFcnlkVDM0bGVVaU9qb04xOWVBWTlzOEpaTjhZYUNJNGttTnNkU0xOdjJSSkxnMWFQa3NPOVp1YVA4QzlQWTFBQjRaY0xSVEpBZTQ1eUJBY0JDMkhVclA3TFVSS3BVdG1WcEk1Z0VxUXVWcGhBRjBtbXhXc0RhWXBFQXB2QkZ1SWI1OG5HNVJBWXV5Slg4emFraXA0S21PcVhBbEllUFHSAcsBQVVfeXFMT1VybzA1QmlXWEQ5bDY2Ym5mdm1ha18tM0xhbmVIUVcyY1J5VFFKWEp1anhRWDRCOGdDY21FY0NvUlRCUVlUNlc2R1lOQjlsVHliUzRHT2E0b2x1cjUtQWZ2TEthWkNoeVAtRFV2cTk1T2ZjVXR1RVJwaHF2ZDUtVzdWaHQtYzVWNkhxZHFqOUUxd19uNjg4UjZKbWF1WUkzemRQZDNsTUljNDJFWmFqUWNjZkw3RzlBd2xsN3ZRbXhHY2IxR0N5SW53Wms?oc=5"
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbTBldkR4aTVsYk83ZnNOZG1ZWGFQMzJKc3hOX3BkMFVic3hTRDhqdU1Qakg3U3FDcThsYW14ZW1CRGlmNjFDS0ZfQW5QQUhWQVN4cnlUX2RyMmpzV3JDaXAtanJXVmZ3ODZpZXc3MkktTGNVSHlCTW5xTEtMSkhJQ3cwU3hrSm93NE9QRUFyOUV1aG5VYmNtVHNOOFVtdVllWTJSTGdPcG5uZVFwOWFsU2VTSXF6ZnVLeUdlRUxFelVtaWd1YWZrYldJWdIBywFBVV95cUxNbTBldkR4aTVsYk83ZnNOZG1ZWGFQMzJKc3hOX3BkMFVic3hTRDhqdU1Qakg3U3FDcThsYW14ZW1CRGlmNjFDS0ZfQW5QQUhWQVN4cnlUX2RyMmpzV3JDaXAtanJXVmZ3ODZpZXc3MkktTGNVSHlCTW5xTEtMSkhJQ3cwU3hrSm93NE9QRUFyOUV1aG5VYmNtVHNOOFVtdVllWTJSTGdPcG5uZVFwOWFsU2VTSXF6ZnVLeUdlRUxFelVtaWd1YWZrYldJWQ?oc=5"
     }
   ],
   "insight": "Tracking JPMorgan Chase (JPM)."

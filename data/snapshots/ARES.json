@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-01T06:04:48.592Z",
-  "builtDateUTC": "2026-07-01",
+  "builtAt": "2026-07-02T05:32:16.225Z",
+  "builtDateUTC": "2026-07-02",
   "source": "yahoo-finance",
   "1m": [
-    128.5,
     128.74000549316406,
     128.27999877929688,
     123.0999984741211,
@@ -24,10 +23,10 @@
     112.47000122070312,
     109.12999725341797,
     107.5999984741211,
-    111.30999755859375
+    111.30999755859375,
+    113.62999725341797
   ],
   "6m": [
-    166.66000366210938,
     165.67999267578125,
     170.2899932861328,
     168.74000549316406,
@@ -158,10 +157,10 @@
     112.47000122070312,
     109.12999725341797,
     107.5999984741211,
-    111.30999755859375
+    111.30999755859375,
+    113.62999725341797
   ],
   "1y": [
-    174.72999572753906,
     177.97999572753906,
     177.9600067138672,
     174.86000061035156,
@@ -411,12 +410,19 @@
     112.47000122070312,
     109.12999725341797,
     107.5999984741211,
-    111.30999755859375
+    111.30999755859375,
+    113.62999725341797
   ],
-  "lastClose": 111.30999755859375,
-  "oneYearReturn": -36.29599938171906,
+  "lastClose": 113.62999725341797,
+  "oneYearReturn": -36.15574784743302,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Ares Management Stock Draws Bullish Analyst Rotation And Deals - timothysykes.com",
+      "source": "timothysykes.com",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRUZSYkYyTG92d2ZKbGdMX3hoWkhvelJNRTVNN3hPX19qQnl3aU5RS2ctVWtTQ2dxdVk1TE52UWtUSnBFVG9SUEJoN1U0TXMxVTRUYWduZXY0UGY2UTFHTVJYejVRUklzU3dLRmJZSXJmSHZFTjU3cldNMjNneWxHdUpKWlNxUnM2eF9v?oc=5"
+    },
     {
       "headline": "TD Cowen Lifts Price Target on Ares Management (ARES) Following Meetings with Management - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFh1akN6V1lPYjRkUDQ5VUNrUGRlOUx0UlFxa3U5d3lkMHYzbk9zWFVRa18yQ2VRTFZOb0NQbkNBUWNEa0tlR25KMWJHR1BCQ1BxV0V2UHJPS3ZvbFJxTlJxVlJ2VE02SmJsSGpKRkRVZXFoSzFXOW8xNExwVjE4YTdmdV9WOXoyU2RHUnhWSGxVQzhGZHVn?oc=5"
     },
     {
-      "headline": "Ares Management's next big date: Q2 earnings call on July 31 - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeDdrTHAwTlg1TFNrMzN0c0kwVFBfZGhMUThJRldjYWtqbS1tQkgxQ3BKSzZsYkNwc0RVRUZNbGsybVM1SDJSalpNWEtYNlBvTnB4Z2plOGRQUWttbHM5TFlsVWVMcVBzVzdzUVdPcFVPQU10QVBta2JWQ3BhNmZRd2lMdjJTZjNfWThWTXdRcVdidE1DaVB5bUVxNkd0MG9Ka0ZKbjhGTlluaGI5LW9pbjI1QQ?oc=5"
-    },
-    {
-      "headline": "Is It Too Late to Buy Ares Management Corp (ARES) After 3.5% Ral - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVFdad0hjblNGUDdrRDJjbXphcHFxazF4bnhmQVlUSkRSblY2cXRtcm1vX05GV05tRUh3aWRlUmVTSzFJWVpNUmZLbUxMRXA4YVdnMlRwdDRZUkdiTWFTY0lpeTFxb1llWWFJbm5VTzhDbUp6NUVadlE2Sm1iQXhQOTMya2JwWDZ3Q0ZXWXdLRFZ3cXh3a2RoTmhaSXdUZERUYzh1c1JPTUxZRDRwODR3eW1FVkFJeFNTdzNkWUpjZGR6M25sblE?oc=5"
+      "headline": "Ares Management Corporation $ARES Position Lowered by Peregrine Capital Management LLC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNUtUZHFnMG13MmFRZElzYWptRWRzV2wzSzhuOUlXYzNheWI1aGxNSVJxX0pwUnI5Z0kxeVUwcndPcWUyMUMwLXJ5VXdxMDhJVGUyUDlnWjZEcF9PWXJZSHVCYnp3MGZ2S2NZTElSeHRvNXFwdWNDc05HOXNjQk9mNUtGN3F6aFczTFhIVTRVYTNCUnlxQUpMZUw5dFRXeGRsTXlvOWhVbmRnandTQ1lIbWE1OUJzUmphWWhDTWREblFPT2d3U0gtTnBDSmJuVF9uVXE5Q2lNREc3QW55clBB?oc=5"
     }
   ],
   "insight": "Tracking Ares Management (ARES)."

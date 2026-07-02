@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-01T06:04:55.044Z",
-  "builtDateUTC": "2026-07-01",
+  "builtAt": "2026-07-02T05:32:22.302Z",
+  "builtDateUTC": "2026-07-02",
   "source": "yahoo-finance",
   "1m": [
-    90.0199966430664,
     89.08999633789062,
     89.62999725341797,
     88.52999877929688,
@@ -24,10 +23,10 @@
     95.2699966430664,
     97.54000091552734,
     97.08999633789062,
-    95.44000244140625
+    95.44000244140625,
+    96.41999816894531
   ],
   "6m": [
-    99.38999938964844,
     98.30999755859375,
     98.05999755859375,
     97.43000030517578,
@@ -158,10 +157,10 @@
     95.2699966430664,
     97.54000091552734,
     97.08999633789062,
-    95.44000244140625
+    95.44000244140625,
+    96.41999816894531
   ],
   "1y": [
-    123.54000091552734,
     124.66000366210938,
     124.83999633789062,
     124.55000305175781,
@@ -411,12 +410,19 @@
     95.2699966430664,
     97.54000091552734,
     97.08999633789062,
-    95.44000244140625
+    95.44000244140625,
+    96.41999816894531
   ],
-  "lastClose": 95.44000244140625,
-  "oneYearReturn": -22.745668015119218,
+  "lastClose": 96.41999816894531,
+  "oneYearReturn": -22.653621581552756,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Clorox Co. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYl90cjNLTm5hVTdocy05S0lURDF6UEZCRlNoNkU1YWlIblhxdGRsU3RSTC02VjRodnFxX1VuWWMxX3EtZGFEWFl5MXpmZnBWcmRmZDZfQ1p1aXZ2VUxNd3JEODRrcVpaRDJmNV9rYkJKV0NWTUtKTmE1dGhLNmFoX0NuV010aGdkVm5mSGtiOHplb2tVeTZicnIyZjV6TFFEY19QeERTejRRNG9naDRFeUVNREU2VHBkU0tyMmVWNEU2X3RLYmtDTVZTUnRocGZXMHdVekpR?oc=5"
+    },
     {
       "headline": "Clorox (CLX) Stock Sees Fair Value Cut As Analysts Lower Targets - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUFvaUh4TmpVMjZ4d1NWQ3RRMEpncmprZjUzSU9xLXRub3VNWWFVNjJ3RmJEM2dtU3F0MlhEbkpvTlgwem8tRDByUEZhajI4MG5wM2l4LVY0UW42aFpTYk56Y1ZHcVdTZmY0b3BGRjRlRjhRSThNZW1VWU9UXzRoOVd2ZWxRYjhTUGQ4RGktdmJSVUp6T3c?oc=5"
     },
     {
-      "headline": "Procter & Gamble vs. Clorox: Which Consumer Goods Stock Is a Better Buy in 2026? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQXR2LTB2VjN0RkEyR2RBWjdtOTV6c09WbUpqdnYyUmh6Q0ljbV9tVkN0T2Z6cllVVm9fd2otSjVna3RRcEhESEk2NS1LMG16OWxBaWlubm53NEt2WmwzYW1RTG91NDdqVHYyaE9ZT0c1NFo0bTdmcDk0NTdQVklMTW1BZWFtUnlrclZYNHRfMkU1WFUyNFhBRmZ2OEtJeV83alJ3VWtxVmg0UllkU1k3UHRFRGZ0QUFnMFAyRF9ObE5tYUIyWlNfRGxGeTk?oc=5"
-    },
-    {
-      "headline": "Is Clorox Stock Underperforming the Dow? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMWVPYkRzbkpEMm13SzdjMEF1TVB4V0VnMG5EZUJPcDVGTjJFZ2h6cFhhNFdhb2wzaU1UclVyYk9PNlBqTXBGTk03enEzc24wWVNNLTM3WlpMWkZycVJfT29GMWVBVFlPX05jcXU3SlJjbWRORmU0WDhqamZPYVJGUzVKRXFhMTJUbWhN?oc=5"
+      "headline": "Janney Montgomery Scott LLC Increases Stock Holdings in The Clorox Company $CLX - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWFhnZzZMWDhfcGdPajdKdldIQUN4RWMwbHo2YTNxUldoTzBibEwyN24xWXAwZzBTOGhyS1ZDcEdibElXTmIyd0xnemRpejQzRUQwX3NhS1dTV3p5RzVkaUhNbFZiSXJXYlZqcFlTOXVselkyRzYydmxKVUtBVDBjd0NpN2FxRVBqQi1qOHlFZ2dEWVlWYS1sZzc5MTNIQVBieDc5VnMtd0FmeXNSa0NJenRBcm5fN0Z5YzBGZklmWnpiUkJya3FLbDZsc3dEZmNuOWE2aURR?oc=5"
     }
   ],
   "insight": "Tracking Clorox (CLX)."

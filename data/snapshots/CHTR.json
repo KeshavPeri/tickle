@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-01T06:04:54.596Z",
-  "builtDateUTC": "2026-07-01",
+  "builtAt": "2026-07-02T05:32:21.696Z",
+  "builtDateUTC": "2026-07-02",
   "source": "yahoo-finance",
   "1m": [
-    144.0500030517578,
     142.60000610351562,
     140.27000427246094,
     129.00999450683594,
@@ -24,10 +23,10 @@
     129.64999389648438,
     133.63999938964844,
     146.1699981689453,
-    142.2100067138672
+    142.2100067138672,
+    139.83999633789062
   ],
   "6m": [
-    206.5,
     205,
     206.02000427246094,
     205.27999877929688,
@@ -158,10 +157,10 @@
     129.64999389648438,
     133.63999938964844,
     146.1699981689453,
-    142.2100067138672
+    142.2100067138672,
+    139.83999633789062
   ],
   "1y": [
-    418.2200012207031,
     412.260009765625,
     416.9700012207031,
     408.32000732421875,
@@ -411,12 +410,19 @@
     129.64999389648438,
     133.63999938964844,
     146.1699981689453,
-    142.2100067138672
+    142.2100067138672,
+    139.83999633789062
   ],
-  "lastClose": 142.2100067138672,
-  "oneYearReturn": -65.99636404313908,
+  "lastClose": 139.83999633789062,
+  "oneYearReturn": -66.07966015976388,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Charter Rallies as SpaceX Partnership Talks Spark Fresh Optimism - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0F6WElvWGxQa0hfaVByT1ZucEVkSzdscmEyZzZVQ05uWTUtU05idzBZc1hMdTMzMUlLSUVpTWRGTjRKODAxSnY1TXFxdFc2Mk9HZTJqX2lFY0N6VkJpR19VcTFPZG45S0haV2h5cFRKYWxmMlR2QTZmblZUemZha2lrbUxndnduUE9MVHlsZWxKV0ViNEkwdXM0Rk92b1NWNGZLelNUc3o?oc=5"
+    },
     {
       "headline": "Why Charter (CHTR) Is One of Today’s Top S&P 500 Stocks After SpaceX Deal News - Barron's",
       "source": "Barron's",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnUwb2lWakgxUGlQS3Y3b3hLeWE2dUo1SG5BTmp5RXhFYnI2b0o4S01PYV9CTGhlMUthQUM4dmhscWlSak1qdTFzalFST2ZCZlVnYTlWMWZaS0FPRjlpYVUwS2U4S3BkbWMtN0hKZEV6cXB4OGd1ZEI5YThKNzRpZzY0bmY5eERPbGVDdWUxUVE?oc=5"
     },
     {
-      "headline": "Comcast Split Pushes Charter’s Stock Higher - WSJ",
-      "source": "WSJ",
+      "headline": "Charter may be making ‘frenemies’ with SpaceX, and its stock is soaring - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWi1SQjV6RDZmUUhITkFRR0dkVkxLSFdZN2xwS0hZYloxdHBma0pNVjZDY29oV2luVkdNZ2dJeDhIU3dOdUFMZm5XT0FEdVY5R0QwcVlabFhNZzEwNnBhMEpJV2tCSXFNMjc3dXBZWXdMd01RREdvRDJlV25YT3N5TjFDV2RILVVtR2VPZHRjUk8wRkJLWUV1QzZmbEIyTVUwVlZEc0pYSkEtQlpicTM3Uy1XTER2ZFZiVmpNQm5EOHU1aDBuR2prQjJBU3k4M19hUGw3bEJhVVdjYkJGdk9JY240MTg?oc=5"
-    },
-    {
-      "headline": "Is Charter (CHTR) Trading Index Status for Deeper Streaming Integration to Reinforce Its Moat? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVkxNHlPNUxBbUZVamxxZEwxeG53ZXFIWmVXQ1lkSzZEU1VoajNUSmR6Mm14ZTFaR25WUU1qRTIxTE1ubHdFa2MybV9UeS1JLUhPZ0Z5R2R3ZlNUQXhwX0N0SmZHUklxS0h4ZGdIQmxWZ19oeGNRNFZFMVRVQTVPb0lSVnN3TVUyZ2k4aU1CLVNwR0YxTVN1ZTQzQTk4Snc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb21xNG9rVVp0N2NPTlBLWWdveUhZNUlZdFA2T1l0bXNOekRTY3RPdkh0bGJDa1huYW0wT2FoRzJFaVpVc1JYdzBwckJDQ1Y4WkpmQ0JTa2tYNmQ0dlFIaHN3a0hscHpNTk9COE0yQ2Vsd0U3RnNPenVZYUdGZVNuanJBV2NKdFE5M0NGNml1cFZ4S2FQLWhlZS1EeE1MUnNPMUJDWU9YZFY3M2l1djNobQ?oc=5"
     }
   ],
   "insight": "Tracking Charter Communications (CHTR)."

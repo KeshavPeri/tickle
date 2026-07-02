@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-01T06:05:14.884Z",
-  "builtDateUTC": "2026-07-01",
+  "builtAt": "2026-07-02T05:32:42.201Z",
+  "builtDateUTC": "2026-07-02",
   "source": "yahoo-finance",
   "1m": [
-    119.86000061035156,
     123.0199966430664,
     121.94000244140625,
     121.27999877929688,
@@ -24,10 +23,10 @@
     124.38999938964844,
     125.69000244140625,
     123.80999755859375,
-    126
+    126,
+    124.62999725341797
   ],
   "6m": [
-    132.69000244140625,
     134.07000732421875,
     135.67999267578125,
     135.86000061035156,
@@ -158,10 +157,10 @@
     124.38999938964844,
     125.69000244140625,
     123.80999755859375,
-    126
+    126,
+    124.62999725341797
   ],
   "1y": [
-    132.64999389648438,
     132.00999450683594,
     132.61000061035156,
     132.3699951171875,
@@ -411,29 +410,30 @@
     124.38999938964844,
     125.69000244140625,
     123.80999755859375,
-    126
+    126,
+    124.62999725341797
   ],
-  "lastClose": 126,
-  "oneYearReturn": -5.01318824158696,
+  "lastClose": 124.62999725341797,
+  "oneYearReturn": -5.590483721318393,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Jacobs Solutions Inc. (J) A Good Stock To Buy Now? - Yahoo Finance",
+      "headline": "Is Jacobs Solutions (J) Below Fair Value After New Contract Wins? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc0w1N2o0VFBDTFpGUXdJU2MxWHFjSVFVRnBhaGZrSVZnNEh2c2wzZUNXVV8xY1ZybnIzUXhPWmlLdTZhSG5WRFZITnoyakkxNjkwYUtYVWNrU1ZNdDhIMFJvdDBNUnpuUlpINmN4VzA3UDZldENvc1JERE1yTHFubUZ0UFNqem85eG82S3NhYmRwaC1XTUdR?oc=5"
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS084ZlY3WjY4RjM3SjZrUUdWNmxmVGpsVkphRlQzem5pTGFTV3ZIbDRxWFpBUjkyRjZQZWRiVnVJYzdGbXFJa1Vqc1U5Y0NCSjZwNmZrakZGRGhBRWR5MTE4WHpsblMxdWxlOXVFM3FhWnNaMjI5TmE3MHF6ajc0bWJObEt2eFdaUFIyeUhweFVCTlZLSThLWGJ3?oc=5"
+    },
+    {
+      "headline": "Jacobs Solutions Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcVFSWndUdEE1S25MLTg5T1diWENlXy1vZ3JfTEZfQkkzWklSWkJPdWczR2NMVUd3dS1wNW5jV0FWZ0RLamh1cG1xX2NuUXhfeDI2NmgzREhDZlBETW5ZQ2x5ZTViZEhlY1pRdGM5WWc0b1F5bmIwQzBhSWx6NHI5VWJ2Um5xZF8wVnJIVEhvTWp3dFozaTNCWldJM1pSUjJ3dDhfVW9WalBVNnhZMTFROW9BdklpOFI3OWZEc2p0ekdrTmhwQV82S2VDdU1OYzViaFhqSEl0R1plMlNVYmxQR2sxTzItT2hicVB6am13?oc=5"
     },
     {
       "headline": "Why Jacobs Solutions (J) Stock Is Nosediving - StockStory",
       "source": "StockStory",
       "when": "2026-05-06",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcUI0dHQ3N2JjQnRzUm5oSExzUFo1cGQ0Nktkd0UxUEdvdER1WFMzWlBCMjZQRmxoX0kwRFlmZEJxcFBqNkRwSWpNZlY2aC1VVU53UGs2U3JwU3BKRkp5Nk14X1pZM2ExVnVfajJBNDROY2ZESEdFZ2dJa0lqUzFFNnlKRDJvclRudlRTbEZXSHBreTBOV2NvWHNKZk4yUWdqaWRr?oc=5"
-    },
-    {
-      "headline": "Jacobs Solutions Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWU9JOHlReENmNEJ3NUpzQ2FCTzhWeGp1c3UybjVta3JMMlhQa2FlQU55Xzl3amlqNE5IRXNDSVVhSWlCb2NPQ0JnY2t3Y2pqb280VUluRkR1NkhnTmNxUGtmRE4zLTVQeGJFM003RDVzM1piU083RU9ZYjNGSkVHWmFURnhpYTF6ODlsemZKQkptWXVqOE1VT0FkZFREd1FoWGdCbm4wN3FsbDFzX1FXOUl4ZUI3aUpjODhqR1F3cDJHZ3kyOUdMVE80RXFvcXRUUS1scEl6d0MyU2U5Mi00dV9GUzM5NnBYaGc?oc=5"
     }
   ],
   "insight": "Tracking Jacobs Solutions (J)."

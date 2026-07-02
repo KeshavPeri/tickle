@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-01T06:05:05.848Z",
-  "builtDateUTC": "2026-07-01",
+  "builtAt": "2026-07-02T05:32:32.984Z",
+  "builtDateUTC": "2026-07-02",
   "source": "yahoo-finance",
   "1m": [
-    44.20000076293945,
     43.9900016784668,
     44.72999954223633,
     46.459999084472656,
@@ -24,10 +23,10 @@
     46.91999816894531,
     47.099998474121094,
     47.400001525878906,
-    48.029998779296875
+    48.029998779296875,
+    47.75
   ],
   "6m": [
-    42.34000015258789,
     42.349998474121094,
     41.75,
     41.720001220703125,
@@ -158,10 +157,10 @@
     46.91999816894531,
     47.099998474121094,
     47.400001525878906,
-    48.029998779296875
+    48.029998779296875,
+    47.75
   ],
   "1y": [
-    42.86000061035156,
     42.68000030517578,
     43.130001068115234,
     42.470001220703125,
@@ -411,23 +410,24 @@
     46.91999816894531,
     47.099998474121094,
     47.400001525878906,
-    48.029998779296875
+    48.029998779296875,
+    47.75
   ],
-  "lastClose": 48.029998779296875,
-  "oneYearReturn": 12.062524720768792,
+  "lastClose": 47.75,
+  "oneYearReturn": 11.87909948119045,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Fastenal Co. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMW50bkotY0Ffc3g3NlpQZ2JUSzBkTFBLWWVnOERJeXVnaUhBSldxODZTT1dYM3VUY0RLZlU5b2czc3pKM0ZXWVREQjlGb3djdTYwaGlFT0ZCcXY1bXkzQ05YMmpWV3JtbjRZZGVCU0d3c3JvT19pLWd0WTBlOVRUbDdSQm9tQW9ON1QtUGdVV1pwXzJ4YnBXY1V5bWhGenpIX3VHSnhrcG9QRnpGcjhMSmw4aGRBblNXSjZleE91bFJsUU5yMXBGQmFvN0tiX1lXdmc1OHJKajQ?oc=5"
+      "headline": "Is Fastenal’s Extended Credit Maturity and Funding Shift Recasting Its Capital Allocation Playbook (FAST)? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVzN1UkpGQmhzQXpVUTJ2TDZEQURHQjQ1UUJfUThneER2aldLUGlNaktMRm03NjNPYTdnMEQycVJLdFdIZ0szcWRVV2preXVURWZhejFUTGJSSHhqb2RtLUdxOTZBcVUxU1BadDdYOTZZaEhCOExndnRhNDk3N1ZMRjM3Tkhla0U4cmNvSl9nSGRXOTVBc0RQbkNrZ1VmZ2VobGM4NTUxbTZWRzJpSVQxYWRrZThKajNFQzlmaUlCeGJVZXVDYU9teDhkU1dXdUFhekHSAdIBQVVfeXFMUFczdVJKRkJoc0F6VVEydkw2REFER0I0NVFCX1E4Z3hEdmpXS1BpTWpLTEZtNzYzT2E3ZzBEMnFSS3RXSGdLM3FkVVdqa3l1VEVmYXoxVExiUkh4am9kbS1HcTk2QXFVMVNQWnQ3WDk2WWhIQjhMZ3Z0YTQ5NzdWTEYzN05IZWtFOHJjb0pfZ0hkVzk1QXNEUG5Da2dVZmdlaGxjODU1MW02VkcyaUlUMWFka2U4SmozRUM5ZmlJQnhiVWV1Q2FPbXg4ZFNXV3VBYXpB?oc=5"
     },
     {
-      "headline": "3 Dividend Growth Stocks Riding Grid And Industrial Spending Trends - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkFVcFNORzI4SmdlZm4zNFFKRTFVSzdlUDVVX29NVmNTMFJZcUpQSXlJRzFFUVM0a0d0dHZYUXg1blN0ZmQwNGJYaEEtNXR6NHBNZkoyeHE0MzRqNU5lSnhhUjEtdFBhMlFnUWRYazZxU3phMTlXTzIxaEV5RDh3NjJlWkE4VmpGTlVKdVFkSUM4cmZsTXlCWmNOcGFxSjU3cG9SbVJzMFlrZmVMS3VEc3JGS1dmQUkyal9zVmlObURhV3BzWEZhS0ZMZVfSAdIBQVVfeXFMTUFLcUJpU29aLW5MNUx6NC1qWmpKanR3NXozRG9udnhCNjBBOU9OaDlEbWhSZDNJQ2NwSEp1aDMyM0NkcWN6OXpSYzdaS1AwUFhtZDZ5bm9TRXJsX2tYcDd1MXNXOEtGa1VoWERvOGM0ZWNReGxVUElQNWpBV2ctWDE4cllwT0ZqV2ZWRC1SRmhwYTNucXZodHU1aHk0b3ZiUWJmaTdncnFybGpyYXlEOWU0anlRUThQdHZNT3JUXzlnWklFZGpQYkEzR2VfV2JsdVVR?oc=5"
+      "headline": "Here is Why Hedge Funds Fancy Fastenal Co. (FAST) - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQemxKSHVjQVVjcmIwbmFyc3JXaDZWUUpRWkpXeDgwcXRhSE5WR0Q3V3N3Y0JSTVRlaFpRenlkYTV3bE93YkdsNTB1VXItazdDbGp5WlhIdVBhWjR2czlZallaaUhnSkxVbGFQa3dYVENLUEtiVklfUWdRZ1plejR3NUI1ZnpuU3FqR21OOGdEX0t6S0FuTzRpT09Fbw?oc=5"
     },
     {
       "headline": "Fastenal: What Could Justify The Valuation - Seeking Alpha",

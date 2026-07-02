@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-01T06:04:49.037Z",
-  "builtDateUTC": "2026-07-01",
+  "builtAt": "2026-07-02T05:32:16.614Z",
+  "builtDateUTC": "2026-07-02",
   "source": "yahoo-finance",
   "1m": [
-    123.2699966430664,
     121.12999725341797,
     123.68000030517578,
     123.80999755859375,
@@ -24,10 +23,10 @@
     130,
     132.67999267578125,
     132.5,
-    131.5800018310547
+    131.5800018310547,
+    131.7899932861328
   ],
   "6m": [
-    133.02000427246094,
     130.25,
     131.6699981689453,
     130.75,
@@ -158,10 +157,10 @@
     130,
     132.67999267578125,
     132.5,
-    131.5800018310547
+    131.5800018310547,
+    131.7899932861328
   ],
   "1y": [
-    142.55999755859375,
     140.30999755859375,
     140.0500030517578,
     139.9600067138672,
@@ -411,10 +410,11 @@
     130,
     132.67999267578125,
     132.5,
-    131.5800018310547
+    131.5800018310547,
+    131.7899932861328
   ],
-  "lastClose": 131.5800018310547,
-  "oneYearReturn": -7.702017336964503,
+  "lastClose": 131.7899932861328,
+  "oneYearReturn": -6.072271698888003,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUdZYXk0cl9TOFhselpncE1iNW9YWDFXS0lyRE96dDBUeUpTWGE1QWxNTGk0V0xiTVJ4V1pyWDRxdEpWcndlU24xODUyOFR5WGJTakxCX1dIdjVfVl9FNUIxbWVFVGJGM1hVNmU2X2t0UVFIUEtCNkduWVlsM0pYTFpSd2RXMnExcGU3WU1OUlZnZkV0cXp1aDhhMA?oc=5"
     },
     {
+      "headline": "Missouri American Water (NYSE: AWK) files $179M rate request tied to $1.6B capex - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWVBsQjJLeWs0TnY1RUhXaG1sWTQwR243SDZMVFBqZEV4bDBvQXhsMWhxTmRiRGM3OHNrMDBkSUJIc2VIQlo2WmhuWXRHZUtVRVZJTnFXcTQxeUowd0J3Uk5DSU12cmQxRUpRbHNyam01cDg1ekxaSFpRQVI0QzNBa1o2c0dpOGs0X3ZINTFjOGhUR3Y4ZHJwWkhEWkMtb1paWVl2bWZXakIwNTRJa3Rhbk1pb010NjBSUUE1Vw?oc=5"
+    },
+    {
       "headline": "American Water Works Company, Inc. $AWK Shares Sold by Pictet Asset Management Holding SA - MarketBeat",
       "source": "MarketBeat",
       "when": "2026-06-29",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM25mR0VleWYyQXVSUjBYbGgtNmptRnctWlMyNjBkT25RQmlnTW1xNkMwN2F1UUJMd0hJR25CcU01UGk5N1NLYUkzdnJvXy1nOS05UDlBcjM4bjNXQjhscGtRZ3ljbEpJSnpzV09qdXEtX1pSWlA3QzFWUTFIYnN6bEZyY2FaVHZHb01xNmRSLWtDaGNIUGFsdENmTjJjdm56bFZyMEZISTQxemRrWVhzQ054d2FBSW1uQWhmQnhkNWFEeWt0UWlSSDh5ZE80bEdua0pmWllfWWtBeWpJUVRObg?oc=5"
-    },
-    {
-      "headline": "American Water Works Company (AWK) Could Be 4% Undervalued As Growth Narrative Builds - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQWtDU1JJaWdJQzNSV3lJeWhPTmI4YmxBN0F3bGdjZVNnZndoZkd3dmktNk51NmlPVzBCeVlSdl9wQ0dpeE96dU5Pa3hfcnQ1UEM0dEZnUUctNXZrdlNacUQwUElqSXhKdWtPTG5mN21QRWNNZlNEdkJ2WElHSi1mLVNUMVJpdE40anEzYnpVTFBTVGgyRTlOZ3EwZE5jdWt3Tl9aTkZsbmo3Nm1oRDU4M1d5cW5xb2s3VjN6LWxRLWRhSkg0YVJaOHVsMy01UzdEWDM00gHYAUFVX3lxTFBBdkg0cXhpeUt3SUF6anQ5aFZjRzUtX0ZOazRHMWRCMzlQZGxqTmI5TU1UQXZpcnd2Mm9OZmpicV9DZ01vQVJVYXlTREJjb2hpUlBjM1prS2RjSExHN1prUmdBNjg4Z1cxZWZMREZ0ejNtc0xVLUMtUXlCVnBNamlWVERiZTl0dUV4MGZ6SEdUV2gyLVpXT0lXRDZiaUhVYkN5dGxqQjhVRm52WERMc0R4UXJKeTA0T09oSF9KZ0pzdmFDa1IyZGI5VFpBdUdINlZFREk2eHZ2Qg?oc=5"
     }
   ],
   "insight": "Tracking American Water Works (AWK)."

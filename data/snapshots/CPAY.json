@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-01T06:04:56.626Z",
-  "builtDateUTC": "2026-07-01",
+  "builtAt": "2026-07-02T05:32:24.133Z",
+  "builtDateUTC": "2026-07-02",
   "source": "yahoo-finance",
   "1m": [
-    361.79998779296875,
     364.1300048828125,
     359.82000732421875,
     352.25,
@@ -24,10 +23,10 @@
     325.80999755859375,
     332.4800109863281,
     335.3399963378906,
-    333.2699890136719
+    333.2699890136719,
+    340.94000244140625
   ],
   "6m": [
-    306.2699890136719,
     309.80999755859375,
     313.9700012207031,
     309.7699890136719,
@@ -158,10 +157,10 @@
     325.80999755859375,
     332.4800109863281,
     335.3399963378906,
-    333.2699890136719
+    333.2699890136719,
+    340.94000244140625
   ],
   "1y": [
-    338.8500061035156,
     337.1000061035156,
     339.1000061035156,
     332.1199951171875,
@@ -411,12 +410,19 @@
     325.80999755859375,
     332.4800109863281,
     335.3399963378906,
-    333.2699890136719
+    333.2699890136719,
+    340.94000244140625
   ],
-  "lastClose": 333.2699890136719,
-  "oneYearReturn": -1.646751361763029,
+  "lastClose": 340.94000244140625,
+  "oneYearReturn": 1.139126748253885,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Corpay Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT1YwOG02aVhxX3JBaDZ5V2dGWVpmcTg1Z0xiQjBwTGp3dmdxbEVNYklfZ2VDS2t5ZWdaYXFJU1dYVlAyUk4wR25GR3ZLbWJreExKeXZDWmZ2dXNLVWRfaExZenZXTVlYSENnRHpDRXlPT2ZCdTJWUGc4REJaZkpvRDdpNXc2QUdIam5DSzhfel9RQ3dQWlBMbENCbE1lcVNLbkRmSFhBVE0wb1VBbF9ad1hIWklIbXlvMlNBSDN5TGZNb3RrNldKZDRYWk41eGRjcWs4b2R1OA?oc=5"
+    },
     {
       "headline": "Corpay (CPAY) Stock Draws Fresh Price Target Split As Analysts Rework Growth Views - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGdVaThiQkpfOHNIYWNxSnFGWFFQcU0tcVdCUFdtZVlldENQUmJfZFlueTRaRjFJakRpeGUyenRjUmQwd19aVE9jVk1BSXRId3Z5RURjZ0ZoZXdYSXZIWGRnWWdpNFcwZEM2S01aRjdvaHdkckxlQ3FMQVJzbmw5YUVjTnVpQmFDOVRUZWMtZWU4SXJ4QjBDVkZn?oc=5"
     },
     {
-      "headline": "Fever taps Corpay for foreign exchange across 50+ countries - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2hPTy1Pb3ppRFNGWjJaQl9hVk9LZlhGdkkxS2FYVzFQbTFkUHVHM05GWkpybDFiNnFOaERTWmVla1RRandZdUdDb3ptUWtiSzV3eFdEakJqZGI0Z1VQRlNvUnhZR2NVSnA2bnQ0UXpHSVRlaTRaSG1jUFhOenBiQTNkRmpabW5pczU1SWJ0VXpNcFM0NHZxZnF0M0syRTdIdnpXRHR4WEFZVklISHFRdG84Mm4?oc=5"
-    },
-    {
-      "headline": "Does Corpay’s Upgraded 2026 Outlook Reshape The Capital Return Story For CPAY Investors? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdE9qeHJ5NURyTTNPWTdaT29fQW00ZExGUUdRMWQ0X0pCbzY1dkVxOW1zbDg4TWRlRXNaTzdtTFVNSUFQVzdCWVpuSGpQUzhDZ0YxQUVXNURjSkJ6UHA1WkNRbXFpUTdycURvV1JjTENJSlVMY0Y0VGRhSWVMZC1mTDNwQUJpSENmVExkbERmSTRyOFRvUG1KWlB1YmdOOGprNGd3Nl8zNEpYWVVEYUV0XzJVdU5uSVdHWS00d01SN0FyVzFodlk0LWREeU82WElJWHJtRUxoZ2XSAdgBQVVfeXFMUHRPanhyeTVEck0zT1k3Wk9vX0FtNGRMRlFHUTFkNF9KQm82NXZFcTltc2w4OE1kZUVzWk83bUxVTUlBUFc3QllabkhqUFM4Q2dGMUFFVzVEY0pCelBwNVpDUW1xaVE3cnFEb1dSY0xDSUpVTGNGNFRkYUllTGQtZkwzcEFCaUhDZlRMZGxEZkk0cjhUb1BtSlpQdWJnTjhqazRndzZfMzRKWFlVRGFFdF8yVXVObklXR1ktNHdNUjdBclcxaHZZNC1kRHlPNlhJSVhybUVMaGdl?oc=5"
+      "headline": "Assenagon Asset Management S.A. Has $2.63 Million Stake in Corpay, Inc $CPAY - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWRjNmMwRkxBR05CWTJkLVJVeVNuQ3hDNkJrZ2dnWnJJcGROaXRHaWxmQVZGcE9SMlhoVWhRNkhoQkZoOEhMYU83eUJ3V2NCTl9PQmJ4QzlrdHVRemFscU5jVkpJa21MLURZNHNwNFl3Yk5aQXo4R3NIQkMzelBVd1I4aENJZW82Q0F3bE9SZ2lUdXpFSF9RZnN3NGFwd2lHckx3R0hMUWRmNmI3UXMxOTNhVGJLVnp1THc1dVpwRER6bDZVWVYtMVI5RQ?oc=5"
     }
   ],
   "insight": "Tracking Corpay (CPAY)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-01T06:05:21.767Z",
-  "builtDateUTC": "2026-07-01",
+  "builtAt": "2026-07-02T05:32:48.954Z",
+  "builtDateUTC": "2026-07-02",
   "source": "yahoo-finance",
   "1m": [
-    6104.7998046875,
     6121.31005859375,
     6180.9599609375,
     6119.41015625,
@@ -24,10 +23,10 @@
     6814.43994140625,
     6828.6201171875,
     6821.02978515625,
-    6813.39990234375
+    6813.39990234375,
+    6643.72998046875
   ],
   "6m": [
-    7561.6201171875,
     7399.7099609375,
     7397.06982421875,
     7338.0498046875,
@@ -158,10 +157,10 @@
     6814.43994140625,
     6828.6201171875,
     6821.02978515625,
-    6813.39990234375
+    6813.39990234375,
+    6643.72998046875
   ],
   "1y": [
-    7667.85009765625,
     7768.509765625,
     7623.240234375,
     7575,
@@ -411,29 +410,30 @@
     6814.43994140625,
     6828.6201171875,
     6821.02978515625,
-    6813.39990234375
+    6813.39990234375,
+    6643.72998046875
   ],
-  "lastClose": 6813.39990234375,
-  "oneYearReturn": -11.143282464189937,
+  "lastClose": 6643.72998046875,
+  "oneYearReturn": -14.478707230739488,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Earnings Preview: What To Expect From NVR, Inc.'s Report - Yahoo Finance",
+      "headline": "NVR Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX2tqeE9peWlpNDVQenZ1OXczRDc2TlhGbm0wZlVGbk1LNC1wOGZldXFuVWJ3ZWFIS3dhbG1wby1Rd25LN3VXRmx6TkF5NF9nLTF3SmpYMzkzQWI5ek9MaW9hZkR5dXB6UHE5R21WM0NaYTAyeXdvcU1XaUhVQVRROGVmRjJPLUZZMml4Q3pGREY0b3B3TEgzMWdoT2VHVkFPRFQxa3I2eUh4ZUdEWFRoQ2RKbS1EZUNxODl6T3BvTk1nVUhTOWtiSEZLQU5DeENIUlBZME5sLTY?oc=5"
+    },
+    {
+      "headline": "Is NVR Stock Underperforming the Dow? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFFWYVRVMmRpR0pWTHJNRkd6TjRmdjVZN0VQR2RxVVZfZFVTRlFfUF9nTUo4NXl6cnZrSV9mTlJiLTV5MGxvUHFIWDlIcVlObURnbFMwSG5xR3dBMzM2dFlseERnaEZ0TDlwV1dkc3Y3Qk5EclNYSk5lVHJ1OTdCcEhNRW5jcXZNTHJMbnVOTUg4TDlOS29aYlROanI?oc=5"
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWdrdENVR2V4X2xVWmtQbXV6YkItTEhqc2hLdkZ4TjVxNE1nRjBwUnJEU3IyVE5jTkVSNkdFZzM5dnVCY0psXzFYSlVFRm50Q19lcllFRHBiWlZLdk5rU3V1Y0FzTXU5QzZzT1prUDZPaGxZcjlMV2xZbGpULVZib0xyWUNpUFgzZmRjbDJJbnZRUmkyQkdTYUxR?oc=5"
     },
     {
       "headline": "NVR, Inc. Actuals & Estimates (NYSE:NVR) - TradingView",
       "source": "TradingView",
       "when": "2026-06-26",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSmhNb2lTbE1qc2l0eVVscFluX2ZqR0RKZkdvNXpJSE5zZ1FKYnl6OEotakotM2RGOVpGc3QwMkl1U0E2ZVJKN0hvLWtRYS1ZdXFMRkNwamVMY1RsaUJjV294UHdVaVdDZlhYWXJ5TUk5a0pSelNWdWJNX2hyOUVReTJB?oc=5"
-    },
-    {
-      "headline": "NVR Inc. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUGROVGhtUFhQdnRVcHpac21wMTdSeFFDcEZmNjJ3UWdCY3ZUZUd1aG91ZVlNU3FwR3VpVG9mSVp4d0UwWDdWMGgwdnd6LV9NQjc2S1hPaUJsN0JhWjFuRlpiM09YT2dOQ0VFNi1LY2ZYTkRvZFM2X0g1SE1SWF81dU5zLV93WE9EZzVTSnEyMTFyN29YOUhYdS1fVWZCQ2xFellucHNZOEVEZzdNcU9CcEpQSGJILVd4a0lNRlRTVmFNc2hRbkl2TnN4ZlIyd0k0RXYyeG9La2Uxckd5OERN?oc=5"
     }
   ],
   "insight": "Tracking NVR, Inc. (NVR)."
