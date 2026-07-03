@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-02T05:32:41.342Z",
-  "builtDateUTC": "2026-07-02",
+  "builtAt": "2026-07-03T05:28:09.539Z",
+  "builtDateUTC": "2026-07-03",
   "source": "yahoo-finance",
   "1m": [
-    70.95999908447266,
     71.62000274658203,
     70.06999969482422,
     72.01000213623047,
@@ -24,10 +23,10 @@
     81.37000274658203,
     80.9800033569336,
     81.98999786376953,
-    80.86000061035156
+    80.86000061035156,
+    80.58999633789062
   ],
   "6m": [
-    79.27999877929688,
     81.12000274658203,
     81.44999694824219,
     81.56999969482422,
@@ -158,10 +157,10 @@
     81.37000274658203,
     80.9800033569336,
     81.98999786376953,
-    80.86000061035156
+    80.86000061035156,
+    80.58999633789062
   ],
   "1y": [
-    86.55000305175781,
     86.9800033569336,
     86.83999633789062,
     87.01000213623047,
@@ -411,29 +410,30 @@
     81.37000274658203,
     80.9800033569336,
     81.98999786376953,
-    80.86000061035156
+    80.86000061035156,
+    80.58999633789062
   ],
-  "lastClose": 80.86000061035156,
-  "oneYearReturn": -6.5742371355013915,
+  "lastClose": 80.58999633789062,
+  "oneYearReturn": -7.346524226747561,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Ingersoll Rand Inc. (IR) A Good Stock To Buy Now? - Yahoo Finance",
+      "headline": "Morgan Stanley Cuts Ingersoll Rand (IR) Target—But Stops Short of Turning Bearish - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWdRMFNRa3FZcXY5UjJhSUhWR2t0dW1Cei1qUms4TDh2am1vaVpSVVhQbXN4c3IzUlAybjhfbHd4a2FJb0hnOXJCZmZuRjFKRE85b05PZldTcDdBT3ZPNnkzeTAxS0xmWUdCX210QnFIYTFLdW5XQVU1ZTFRUHVqZXdnU3YzanhVdzJmRWpXaHNXQzFFX2c?oc=5"
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbElZbTJLMHd1MGlwZ19yQm1FVng5WGhHaVBmcEJDWUNxeU11Mm9ZejRIeHBtZ010dXFkRXFBVXZZbGUwNm84dEFTN0c1Y0hZckhlTk9laFVLbkVmWTVjTF9Uc1F3b1U1ei12WDhDV1NDMUZ2eVpRMlY2UkdqUW9zMXBKcXMzc2hWak1XZ2VuVExOWC1aa0VXRmRoNTNMNmJP?oc=5"
+    },
+    {
+      "headline": "Ingersoll Rand Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX3BOaUYtSHhiWGxOTmpKYm5TUlNJc3h3bDRmQ01aaTFKSTM0X2gxVXBrODJybU52U2YzV29FUWZYcnVmN3h3akl6TG43VHMxRG04cFQzaUVpd1VFZ3RFSFRYc1QzVUcyeWxJenpUSHh5Vk13ZlEyNzNLLWN5ZEtDOFNzUHZRYVpfMkRqbi1GZHJQeFIzai1FN1pGVnloWVAtclVfV2dzRk1GeHBLeExWU19sbVpmUU00U2M1N3FKVWJoMWktWEpyTl9TSzhQV1BZQ2xJ?oc=5"
     },
     {
       "headline": "How Is Ingersoll Rand's Stock Performance Compared to Other Industrial Stocks - Barchart.com",
       "source": "Barchart.com",
       "when": "2026-06-10",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0Fmek5waXF0T0swNDJOOHVGT3YxMEhsZENwY2hIcFp4QmpLWFAxcmZzb2F5aVg2LVFIcC1tR2piSDBLelg0NXVnbUpSR3hTTFd5ZkFLR0FDM1pqZF9iWVJoeS1Zc0tMNEptOUJrblN2VG1DYjhiYzA5UVhFcmNhckVTOXBqMVdFcktqdjkwdzNFM1FneG96Qmc2WDVFb1p4N2k2VlFrcmx5N0RPcVhtSlAtZmFYLVd6THRUbHRR?oc=5"
-    },
-    {
-      "headline": "SG Americas Securities LLC Has $9.40 Million Stock Position in Ingersoll Rand Inc. $IR - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVnktOUZrYzc5VlotYkdsaEhYckFXa0d5MWRhS1VyT2JYY3BIQnE1WXdEdkhNY3puV1BpdXZZQzhDX2J3Z0hFZV9iN1o1LUM2NGx6TVEwS29NZ0oydjJmZmdWUUxJeno3MmdFRV9wZFptMUtyZWF2Zk5lUHROT0FaOUdVbmR3YW1Qa01lTXhqOEItWkV3dEE5eDlmRU5MSW12UGUtbDVkb1N0dllYYkFKOEtjQjlaV255UTIzTnNJcnQzYlpOeW5BcWR0NkoxR2lOM3RjbVRqR0FsdkU?oc=5"
     }
   ],
   "insight": "Tracking Ingersoll Rand (IR)."

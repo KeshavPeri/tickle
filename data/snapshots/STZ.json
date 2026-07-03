@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-02T05:32:54.439Z",
-  "builtDateUTC": "2026-07-02",
+  "builtAt": "2026-07-03T05:28:21.285Z",
+  "builtDateUTC": "2026-07-03",
   "source": "yahoo-finance",
   "1m": [
-    136.25,
     136.75999450683594,
     135.39999389648438,
     137.77999877929688,
@@ -24,10 +23,10 @@
     146.3000030517578,
     139.66000366210938,
     139.08999633789062,
-    136.8800048828125
+    136.8800048828125,
+    137.47000122070312
   ],
   "6m": [
-    135.00999450683594,
     141.74000549316406,
     139.22999572753906,
     140.49000549316406,
@@ -158,10 +157,10 @@
     146.3000030517578,
     139.66000366210938,
     139.08999633789062,
-    136.8800048828125
+    136.8800048828125,
+    137.47000122070312
   ],
   "1y": [
-    173.8699951171875,
     172.32000732421875,
     170.33999633789062,
     170.5500030517578,
@@ -411,12 +410,19 @@
     146.3000030517578,
     139.66000366210938,
     139.08999633789062,
-    136.8800048828125
+    136.8800048828125,
+    137.47000122070312
   ],
-  "lastClose": 136.8800048828125,
-  "oneYearReturn": -21.27451042340223,
+  "lastClose": 137.47000122070312,
+  "oneYearReturn": -20.224004539383294,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Constellation Brands (STZ) Stock Looks Undervalued As Shares Fell 42% - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-03",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbHhqaDRBcHAyWTdMeExGaEcxaGtpOXdSQ2FzdDAxWG1FRWxGUVFjeW9DSnFDRWpENXJYN0o4NUJvOGVJdzRhNmZDM3VHeXNGQ19aYWJoX0JQMG5TTU1hSVR2eW1WcG11Mll2VGI0bW9RSXlnQ2EzeFdjeDJnUmlTS0lUenAzY0VQeEF0QUZpX0ZOTWxORTh5eUNGcjdsOGUtczluRXpPWlNSbVBQOGhqbGRhVklxQk5QbXdEbGgxejkzaEZfWEZkYXhGNDI0MlhpV2FrN1paLXBpd3J3T29FYldjc9IB6AFBVV95cUxOLW1GZjhaT2VadFg0YkRlSk1OZ3pzSVhhRmhzZ0h0VndWVGZFZTd5b2tYSkpQR2plak92emR6eDhuYnJTN0I3WTh1RF9jN3p4Njg0MkNiXzhEN2pWQXdVZDA3YVlPMURfR0FsLWJpSnNxeE41d3JNN2lUSWMzTTJiRzZScnVzeC11bnYyeTB3dzBHX1VQMlR3RUlyckM4Nkktb3c2TXNZbnV5cW9MSWhCVnF0MUhhRjY2UnFxVHk1a2ZmQ1kxMkNWTVVQNkpDZkh6V1ZPNnpqcjFGdEZGRFMwaDc5RG11cEpG?oc=5"
+    },
     {
       "headline": "Constellation Brands (STZ) Stock Looks Discounted On Earnings But Weak On Sales - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc0Y2YndrcDZrLW1SRTZWVnA4dEVpVFljdlVnWnVuQmdlTXVramRVV1FQVFFJYjhKeGJER2VmeVdQSlRnLVNRaTNpYmF6bjdaQ285SXF2YURkRWkzUGVFdHQ4U1NfdDVudExpTnUxbHp2Ym9USlowczhjbmFSWWFvNi1tbndmcGRNNnVxeHZKeXNxR3ZaRk4tdTJfSF9xUFZ1eXk4?oc=5"
     },
     {
-      "headline": "Constellation Brands (STZ) Stock Sees Q1 EPS Beat Reinforcing Bullish Margin Narrative - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS1ZpNnhySVVJWWhjQUN3UXpwTU9qUEpmblE2aW10aU9LcjhYTWFiQkVSN1dVTjFEemVPY2o2ZE5mMEV1dEhqQ0FMSnBUQWdoYVNoV2d6Vko5Q0diRWFiOWFERnV6TDFHeDE4SzNpSGMzWEpaQVBKS3BFUkg1cjdNQkNDUWM3bm5BZnBBVmVxQXRDMW83OUM5OTVaT0tJVGFMZTlXNWo5cDlqb0FtekF0b3BlX0lnYWtDN05rM0JDd3RVWi1WY0trZnZRaDVVRU45NDZROGx0UFRXRlB5d0lsdThR0gHnAUFVX3lxTE0wM3BEcDNyRjVLdmhEb2d2NzE5Qlg4YzRnSVVWRENVelJTUllFN1YtTUJEM2FrSUNHeEhsX2pnRFY5d2FfaGZfWVhHekFsR1hER0FBUVlGMTNxUFQ0VGlLc3VWNmtIMC05UlBVTEM4REo0RW1TNml4T1VQS0Y0YU1aRE1sVENIdHg0bjhfU19aeW1qZ181bEJjS3J1bkd0bUo5UnA5LXlYSktfeWFkU1dnTThxR0w0dGExOFVfYnRaaWpLTzBiVzJJOXF0QUo2QUNRTExUcFpGWUc2ejY0MGI1dGJxRzRVYw?oc=5"
-    },
-    {
-      "headline": "Constellation Brands posts first-quarter fiscal 2027 results Tuesday - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNREg4aWgtTlB2TW9WdHBmLUNTRkt4X3p6QVg5OHh1eTdBeGNPajVvbERJVmhfUlNGT2ZsdnZSc1BISTVtd2lpTG1XWGFfQ0dOUXZac084b0ZVVGdfTU52b2ZkZ0lsZGRKMXdMWi1ucHlrWUVPbDkyZFEySjdZRmt1aDVvQUZuVVZyTHhqTng2OTVjRTVQOW16Y0UtbjNmR24wN1FhNTNLVlFUTHJqU1NxbTN2QmtwVDkxemc?oc=5"
+      "headline": "What's Going on With Constellation Brands Stock Thursday? - Constellation Brands (NYSE:STZ) - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRW0wY3lRTnNuTUxvMXl5WXV0b0h1SGMtSTQyZkFKcEFZSmgyZGEwQlhpVVZzakhpRUN6RzJzc1NOSF9zWnZXUXZDNVFPZzZBc2F2djctYkZzVWNUTkVEM01xWGVQMG54bmR5WWZtdjM4YTFYVTBHUHcza0Fhb2JKZEVleUl5cmxGb3VEV1FoZGtPUnRaMjQtU0V6WHNQWkFhTnBzcnJyM1lKNjdPWHdEYmlaRmNQbXdPWm9sRmJZcUFDcUgyWXpBc2FpdUltVjJqLXJ6Z1FYbFRicEMwX3lMN1VnblpHVktUMDM3enBnWER2VVB3Q3VsZ191T1E?oc=5"
     }
   ],
   "insight": "Tracking Constellation Brands (STZ)."

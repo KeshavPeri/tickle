@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-02T05:32:59.342Z",
-  "builtDateUTC": "2026-07-02",
+  "builtAt": "2026-07-03T05:28:25.764Z",
+  "builtDateUTC": "2026-07-03",
   "source": "yahoo-finance",
   "1m": [
-    64.3499984741211,
     65.18000030517578,
     65.29000091552734,
     66.30999755859375,
@@ -24,10 +23,10 @@
     71.2699966430664,
     71.01000213623047,
     70.52999877929688,
-    70.66000366210938
+    70.66000366210938,
+    72.08000183105469
   ],
   "6m": [
-    69.37000274658203,
     70.22000122070312,
     70.2300033569336,
     70.63999938964844,
@@ -158,10 +157,10 @@
     71.2699966430664,
     71.01000213623047,
     70.52999877929688,
-    70.66000366210938
+    70.66000366210938,
+    72.08000183105469
   ],
   "1y": [
-    70.76000213623047,
     71.48999786376953,
     70.75,
     70.37000274658203,
@@ -411,18 +410,13 @@
     71.2699966430664,
     71.01000213623047,
     70.52999877929688,
-    70.66000366210938
+    70.66000366210938,
+    72.08000183105469
   ],
-  "lastClose": 70.66000366210938,
-  "oneYearReturn": -0.1413206205513844,
+  "lastClose": 72.08000183105469,
+  "oneYearReturn": 0.8252958244724816,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "WRB Stock Trades Above 200-Day SMA: What Should Investors Do? - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRmIzOTJmdG1fc0VsdXJyb21ZQXlSMWdhMXF4djdNaWJEbHNOUTdIR2VJMVREWHdMWHkyd1N6RF82T3hObHFPTkY4b0pPWF84RjNBT20wQ3RaSlJjTW14c1p6eW1SS3ZrTll4R1hFaHdCV2hZUHFKblMyU2dOSWUtaHZrcVNGdFFJVXd2b3Ztd1U2OGNnam5OS3BQSi11SGVVRmV3VXRWR3U2dkJKQV9acHVjck1vUQ?oc=5"
-    },
     {
       "headline": "W. R. Berkley Stock: Is WRB Underperforming the Financial Sector? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFB5M0x2aEhsM2NkVnZzZGZEQTdnVnNCN0g0c000RTFuWG8xN0o5TXRNbFVlNkdIOEFKcl9ObjN6SG1hT3BNcWM3VHdUWllMUDlJZEQwUWhxNnlsNXNDYXFITWx0NDF4VndNZ2xEQjlSQnNPVW5CNzJDNXNqdGtDUDFNQ2UyaFl6ZW9nMjY3cw?oc=5"
     },
     {
-      "headline": "AM Best lifts W. R. Berkley ratings on debt, insurance units - Stock Titan",
+      "headline": "WRB Stock Trades Above 200-Day SMA: What Should Investors Do? - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRmIzOTJmdG1fc0VsdXJyb21ZQXlSMWdhMXF4djdNaWJEbHNOUTdIR2VJMVREWHdMWHkyd1N6RF82T3hObHFPTkY4b0pPWF84RjNBT20wQ3RaSlJjTW14c1p6eW1SS3ZrTll4R1hFaHdCV2hZUHFKblMyU2dOSWUtaHZrcVNGdFFJVXd2b3Ztd1U2OGNnam5OS3BQSi11SGVVRmV3VXRWR3U2dkJKQV9acHVjck1vUQ?oc=5"
+    },
+    {
+      "headline": "W. R. Berkley sets July 20 call for Q2 2026 earnings - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUkxZdC1FTEptd0NsLVlZRzJhdmE2YUR6U2owcFh3VDJhRDcxN2pTSGlEeklYVWxyVndXM3h0di1PamIyMk9McXppMlFCc1pzYkw0bGV3RlVfQ2hWdTdkeFJNcXU2Q2dsdDBKNlVJcEhLVDBzV2NBeWNJTVpuYU1LOHlYSU8yejhsSDhremVFQklhN0N2SklVUWlHSXZXNWxxdFdkTHJuRFp4ek9jZ2VDdGlCa0lBMmZfX3Uw?oc=5"
+      "when": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORWhQRjVSOU52QzJKYXRXR0VWQ3k4eTI0VUl5azF5SzdHc0tqM2NOTWZpemF0RmNfRnRsZ2x4c3piS09tUk0yWHUzR0tua21qeXpXa3lxZzE0OXBmVXJYYUw3d3VwQks3TExjbWt0SFhEeG1Jb1kzNURhb0YtbFhZY3Zhc2hlODc1Rmx3SmIxaEdETVQtSDJkdnl5TzBPUko5WHl2TFFGNk9nNTJkSUZocnZuYUtaM3R3SjJ4MXV3?oc=5"
     }
   ],
   "insight": "Tracking W. R. Berkley Corporation (WRB)."

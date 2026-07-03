@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-02T05:32:47.913Z",
-  "builtDateUTC": "2026-07-02",
+  "builtAt": "2026-07-03T05:28:15.716Z",
+  "builtDateUTC": "2026-07-03",
   "source": "yahoo-finance",
   "1m": [
-    18.059999465942383,
     18.1299991607666,
     18.149999618530273,
     19.1299991607666,
@@ -24,10 +23,10 @@
     21.239999771118164,
     21.920000076293945,
     21.110000610351562,
-    20.670000076293945
+    20.670000076293945,
+    19.780000686645508
   ],
   "6m": [
-    23.040000915527344,
     24.270000457763672,
     23.110000610351562,
     23.170000076293945,
@@ -158,10 +157,10 @@
     21.239999771118164,
     21.920000076293945,
     21.110000610351562,
-    20.670000076293945
+    20.670000076293945,
+    19.780000686645508
   ],
   "1y": [
-    21.3700008392334,
     21.979999542236328,
     21.450000762939453,
     21.639999389648438,
@@ -411,12 +410,19 @@
     21.239999771118164,
     21.920000076293945,
     21.110000610351562,
-    20.670000076293945
+    20.670000076293945,
+    19.780000686645508
   ],
-  "lastClose": 20.670000076293945,
-  "oneYearReturn": -3.275623469580379,
+  "lastClose": 19.780000686645508,
+  "oneYearReturn": -10.009094182933655,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Norwegian Cruise Line Holdings Ltd. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPS1pvLUxDMnFVZDBibzh2ZkF4Q3pLd2xPRERZSHh0a25vbXFiMTFwMmNPb2VEQVNIRUxaLVZvNGlxRVZDUnZQRzFQSUk2T0pJT1M0V05WaDRmMmN3aEhhV3FxdE9tYVhudVB3ZmhFTjNnRTQzR1FyeXU0aVNKOUdnUjVVdDNJYXdaYjNEbjlZVG5OLTEyeVpFM2x6bklYTnVrb2hfcEp4ZDVSOWNOcWlkYldIRXBSb0RFWmlQX1FJT3NmbXEzTV85amJLMmNpRkUzc2NMMnpFZDNNV1dsQi1Xb1kxay1vSk9VOVI0dXo1ejVJR2pSYWRmQ1NObkEtR1k?oc=5"
+    },
     {
       "headline": "Norwegian Cruise Line Holdings (NCLH) Stock Looks Cheap On Earnings But Weak On Broader Checks - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkhzWGMzbTBwbEFZTDlQRXJYdGRDSFlRMGRrcHZaZGFSdG84bmdsUjJBUkM1LWtmWV9nbzhvcGN2UE95OVM3UVRuaS1DdVpabTFWSXQzajc1ZWNoTDVxMTFnbTZRVG1xcl93bFF3Vm1EM0kxaDZpWkJsc3FsbG5vcEZ5RHBYWTlTY05pemU1YXJnMGxlSE5DbExNeFdmdy13RkE?oc=5"
     },
     {
-      "headline": "Norwegian Cruise Line Holdings Ltd. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRk9oX3FSdUx5R3BPemxWTV85LVFtWnhnNnpsT1pZQ0JUdkVnQ2lqRTFGUTNQSzJtcDdRQTlNMXNzLUdVUDk2blp2b05DbjNodmZTYVlUMGlBRFhtNVN4bjR3eVlYQWc5RzY5ZVc3b1NCY1V1TVU0aWhFNUZ0WXlQRi1GazJVRVBOYXNiTC1wSTNXajhfd2tyX3RZbVJseFN4aHZHZnF5VGgwclRWc1pDNDd5UVhndkNOTFE2QXhVSFB4aGtDc2JxaTEtdGlQUzdnd01GTnBiVlc2Qy1fZ2xRUGZSWXdZNEZ6Y2RXa1hyRVlmOFZ0V1VaR1U5eU5CUlBY?oc=5"
-    },
-    {
-      "headline": "Norwegian Cruise Line Holdings (NCLH) Is The Best Travel Stock To Buy As Citi Raises Price Target - Insider Monkey",
-      "source": "Insider Monkey",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMGJTUWxaVFNWc256dVpLaF9NSE84OVA1R0diWG1NcFhBR0ExMXZVWTBybXlLMG5UZ1hDaWxkMkU3NDVkVmliVG1BaW1BdW4yTF9CNE1MYzhIR09IejlPakpQT21aR3BBX3ZxQzdyZGRaOFlXczJhZnczTVFzdmxfby00OTNMSDRuSWY3bGtnQi13RW9ybl9VYnRXV010SldCUk0zTFJLWGhHN28zUUdhOTNERzBLSzlqRWFadmE2WkhlWloxT2VoTFV2VlJTNVhXTUx2aXd4QS1XZWhPWWfSAd4BQVVfeXFMTzBiU1FsWlRTVnNuenVaS2hfTUhPODlQNUdHYlhtTXBYQUdBMTF2VVkwcm15SzBuVGdYQ2lsZDJFNzQ1ZFZpYlRtQWltQXVuMkxfQjRNTGM4SEdPSHo5T2pKUE9tWkdwQV92cUM3cmRkWjhZV3MyYWZ3M01Rc3ZsX28tNDkzTEg0bklmN2xrZ0Itd0Vvcm5fVWJ0V1dNdEpXQlJNM0xSS1hoRzdvM1FHYTkzREcwS0s5akVhWnZhNlpIZVpaMU9laExVdlZSUzVYV01Mdml3eEEtV2VoT1ln?oc=5"
+      "headline": "Is Norwegian Cruise Line Holdings (NCLH) Stock Cheap Or Reasonable Today? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNek9LcGlTaUJVYTRNbTJBVVlEOC1aWXVadnNwM3NQVDlfQ1VVeW5oZ1hOd2tFQU9KUUR4aEVEaUV5a1NZcGJDUGhtTVBuTnJPX0xrZmg2MmU4aXhWVThpWXcwTFhKYmJXcGtfYktabVRMa2IyeTdabWdZWVVvRE1nOHdGQm5BVlAwRlhWeHdMejVnX2lYUGdkdkw1WGl6NjNGQnBjVk40alYzY0Q3dEtIeG5SaHU0aGUtQm1IYzJGZ0pHd0kza2pLNUtuSkZsSk9PY1o0QzVBUGNNTDA1dnM5c2R2RFZURl9LNXRGTtIB8gFBVV95cUxOdnhGVGhUcWdZVzhJRDY0bHJPWGczaXRkUjgzcjEzdHkxd0o0Ymh2dlE5YjNQUmZDN0JSVVBXVFBuUTVFbzJoV2xNdWY5UGE5WFBtQ0JNWGRpSVU0S1Z2N3ZaSzR6dG9KcmxCbXMwem1XMmZfMGIzZjByay01Sjg0Y1N6cWszN2c0THBOQ1Z1Y0tKeS1xMzZ4OXNyQWM2cEVkQldUamk0M2dYQnhUemlsS2JITjNMV1dISmRsclI1a3NSNWpRZElHajc2TkJiUllmblo1NXJwQzBJSF9PeC1ucGY3WHI3MjBSd0tnQkpXVkxCdw?oc=5"
     }
   ],
   "insight": "Tracking Norwegian Cruise Line Holdings (NCLH)."

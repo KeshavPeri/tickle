@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-02T05:32:48.965Z",
-  "builtDateUTC": "2026-07-02",
+  "builtAt": "2026-07-03T05:28:16.636Z",
+  "builtDateUTC": "2026-07-03",
   "source": "yahoo-finance",
   "1m": [
-    224.36000061035156,
     222.82000732421875,
     214.75,
     218.66000366210938,
@@ -24,10 +23,10 @@
     192.52999877929688,
     194.97000122070312,
     200.08999633789062,
-    197.5800018310547
+    197.5800018310547,
+    194.8300018310547
   ],
   "6m": [
-    180.99000549316406,
     183.69000244140625,
     189.2100067138672,
     188.61000061035156,
@@ -158,10 +157,10 @@
     192.52999877929688,
     194.97000122070312,
     200.08999633789062,
-    197.5800018310547
+    197.5800018310547,
+    194.8300018310547
   ],
   "1y": [
-    157.25,
     159.33999633789062,
     158.24000549316406,
     160,
@@ -411,12 +410,19 @@
     192.52999877929688,
     194.97000122070312,
     200.08999633789062,
-    197.5800018310547
+    197.5800018310547,
+    194.8300018310547
   ],
-  "lastClose": 197.5800018310547,
-  "oneYearReturn": 25.647059987952108,
+  "lastClose": 194.8300018310547,
+  "oneYearReturn": 22.273130606771975,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Nvidia Stock Rises Amid New Revenue Sharing Plan for AI Startups - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHBENmxsWko3bGludFIwTTNlUWlpelpabWhxRy1vUzJqY3lwODNObDFUcnRZNG92VzNIM0ctX1FCcWdpSndjUnZfdHVCYkRkc2R2UmRfVVV6OE5lejFZVVptcUtBeTBBaWsxYU5ZZEtNcmV6dEQ0ZU43UFF6R21JUlpLN3BzMFBu?oc=5"
+    },
     {
       "headline": "Nvidia stock is sagging. Here's what's behind the negative short-term trend. - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZFZHaS1uNkVEc0N5R1NlVVdCeFVMZDY3d3dydUhlR0hVX2IwZWJFWjIxM04yOFVqaG9Cam5WaXhXeW1ZcmpsaFByc2RfMlh5WVBpNjRKZ3VSNW1RWjFlM0I2ZkM5OVI0Q0duOEpPQWdnUkRfLXJObnVYUVhNdEE5QzRFQzdLRWxxU3cyWlU2bkNYZ1BqQ0xGWFJWMm9td1RYNU1zSUpDZ3QwYVNtbzBEUk5Pc1JUSHBheV9QY19MdUJvUW45LUZIMzA3Qnl6N3A5Wnc?oc=5"
     },
     {
-      "headline": "Nvidia Stock, Gold, and Oil: Where to Invest $100,000 Right Now - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBabW5BTXVTcUtKTUJtX01JR2xiSUk0eUxuNmlpNGZWdHpRZFFWbGVpX3VkR05FamVNbEF0WlpZeXo2Y3hXeC1Yb0wyUEVWWnU2QUlOVkhiTHh0REF2QVlUZ0Q5YjZTYVpxeTdKTVNvUQ?oc=5"
-    },
-    {
-      "headline": "Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Seagate, Warby Parker, AppLovin & more - CNBC",
+      "headline": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound - CNBC",
       "source": "CNBC",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSVN3eUg1T2U0bUxMNURpSVF3VU5DWGNyUlBXZHpDTUo1SFJ1ZmRzU2thSW53VVlCSTJCdm1SZkdDUy1iSm9FVU8telV0RzFieGZZVWVlUVdwdlhjNzlKNE5LNHN6Rm5wUzZTNmZlZlkwTUtxcUFZSGtITFhYMnkwZWJHWmxxUUpPU0Z2YUZJTjA?oc=5"
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uU09BV2VxQk4wa2RVdFM0c1pfb2hsNlZoREp2a1h0OHFNQVRmVGk1aDFqZEl6ajhhY1p4WDRFeDVKSUkzN1NmSlVvOHFMZktfRDg0bEJITDFsT1dRNkxGclFRMFFmb1lIODh1TkFCU3ZaYXdHSVBzUmx4RkjSAYIBQVVfeXFMT1U5UVUxWUp0RXNqdGwxazBxbVRqU1JqNVY1MXUxTmtIa0J2dnlYc0NWNGhDMnlrbGlaRUpuV2wzNGJJOVIxNlVfeUZBZ3cxSzFXNl9od195bkFmNElDazlyYXdyd1NhbnlsMXhJRXRUTG5KQzFrLThoMGp3bG5vZEtHZw?oc=5"
     }
   ],
   "insight": "Tracking Nvidia (NVDA)."

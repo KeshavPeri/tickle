@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-02T05:32:58.964Z",
-  "builtDateUTC": "2026-07-02",
+  "builtAt": "2026-07-03T05:28:25.434Z",
+  "builtDateUTC": "2026-07-03",
   "source": "yahoo-finance",
   "1m": [
-    546.2000122070312,
     563.0999755859375,
     594.1099853515625,
     575.5,
@@ -24,10 +23,10 @@
     586.4500122070312,
     651.8800048828125,
     638.719970703125,
-    598.3699951171875
+    598.3699951171875,
+    539
   ],
   "6m": [
-    181.0800018310547,
     176.75999450683594,
     178.25,
     179.55999755859375,
@@ -158,10 +157,10 @@
     586.4500122070312,
     651.8800048828125,
     638.719970703125,
-    598.3699951171875
+    598.3699951171875,
+    539
   ],
   "1y": [
-    65.77999877929688,
     66.08000183105469,
     65.22000122070312,
     64.0199966430664,
@@ -411,17 +410,18 @@
     586.4500122070312,
     651.8800048828125,
     638.719970703125,
-    598.3699951171875
+    598.3699951171875,
+    539
   ],
-  "lastClose": 598.3699951171875,
-  "oneYearReturn": 809.6533995459941,
+  "lastClose": 539,
+  "oneYearReturn": 715.677943499532,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Western Digital Stock Leads 3 AI Infrastructure Picks Tied To Data Center Demand - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Will Western Digital (WDC) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRC1PQUM3R2JDSFA3bmdwODQzaFNVcG5FaDNFQXB1TnYwTmFBMjdXUXlaUmU5OXVPdFN0NGFEUk5ZeFpOa0lNVXRWZDIzSFJTYWpJZHhfTUxIM1IwOWNUOGM4UnpqUnVoSzVpLU1FMllPYVhPdC1Cd29EUS02OWxWLVJRdFRGM0NfNkVTRW5RaFpfZDF2X01xazVEemtBRnp5Q1kwMnpJUkZwaDFYWEJZaVExemdDQU1YYTFNX09CeHdqTU9TZEpPOdIBzgFBVV95cUxPV0s3bmlIQlR5dy1xXy1pajFRRGZOeFVuUlQxN3p5Qy13OXVJUjVPMDVWQ0xxWENSenA2XzYya25hSE5XN2pBMm4tNHBFQmYtdzJnV3NFUFpZWWN5Z3E5MkpRNS10Zmt5Q1pobFY5RThGUm1MbHJvSmFpei1nVUF6blUxNjhOWE5zeTVYYmJJRlE0NG1mX01jTUdRSUlDeXhSNU0takoxQVlRTVk2Mm1jTERFc3JRZk5WTlU1Tk41bnItckRndkRKdlM2LVpCZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0R5S0JzTHUzOWhaUXNfNWpGZEdsT1MwQzVIRVFtYkRWZllaVTN1VXNwX2l1YUVoS0R6aU1wNkExZ1ZHSXFnd3ZwamJzUDBpNE94azZKcXM4YnpSUTIzUlZYQmNpNnlDR0I0NGJPMUpfOGRCck5WWmFQbmN2cFJnbEh3dUllTVMxNDBJd1RjelZDSnBqN2N6LXpaclZpdzhu?oc=5"
     },
     {
       "headline": "Memory chip stocks hit the brakes at elevated levels: Western Digital dropped more than 10% intraday, and Micron fell nearly 9%. - Moomoo",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVloam5SVWUtRHhpU2pVMEJMaXF4R0tPZkZqSEIwcU1pcUlMZWE0TFFBbHpObVJpbnlkZDAzbkFvaGJ5cUxVcmVKa09FOHk0d0QtVjQ5eWd3cjV5dk1qbWVYbXBMdTdJa25Nc3QtRlA4dDV0S1JxX09BNTB4bW9XWE1HSW5MbmpDRnM5SkpxVnF3WUJjY2xJQUVycjhMYUlTSzdjRA?oc=5"
     },
     {
-      "headline": "Micron Drops 8%, SanDisk Slumps 10%, Western Digital Falls 7% as Memory Stocks Pull Back With the NASDAQ - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZXFYbjBYdGh6bHRueW4zN1BpdkZybWpvYUNNQUU0LUZ6OUU2TFk3RVpNMGZ5RHIzN19xSDVxenlNeUFMU1hNUTg1eDhacE9CWXNLNHlGMktkWDVWdFhQV21Kei1OMjIxWGluTm1NM2hIY1RvdTVnaTdMaV9jcl80WURTcEZJa3drbGFHVDBsOHJiamdTb09CbzVqYTlpWjluZWZFWFd2OU91ajFRMW11em1pYXV0RnFuUk1vS1QtSXZsREk3cExQYWVKZUxTLXRtSEotaVcwNU9rTWs?oc=5"
+      "headline": "Seagate (STX), Western Digital (WDC) Stocks Soar as Melius Assigns Buy Rating - TipRanks",
+      "source": "TipRanks",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEhoelIxOTRRejgybGlwcXpWbGF4eFM5eHdXdGZKWWtFNXFRQ3QxMWRHTEpDeEN2ZjU5RHhrTnJ6Z2F6aVpyTGF5ZldxUHIzOHFHTGN4OURUZDk1U005UWVUQnQ5SV9YUjZaNFhUUzhYa3luRzlfb1RMLVFWUGc5VnZPZnh4NVc1cVZjOURwXzdVcDQ5MEhKOVRSczNrZDRiUGtsMA?oc=5"
     }
   ],
   "insight": "Tracking Western Digital (WDC)."

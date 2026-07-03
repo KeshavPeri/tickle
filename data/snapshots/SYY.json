@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-02T05:32:54.940Z",
-  "builtDateUTC": "2026-07-02",
+  "builtAt": "2026-07-03T05:28:21.783Z",
+  "builtDateUTC": "2026-07-03",
   "source": "yahoo-finance",
   "1m": [
-    73.72000122070312,
     74.0999984741211,
     75.23999786376953,
     74.3499984741211,
@@ -24,10 +23,10 @@
     82.81999969482422,
     83.4000015258789,
     83.58000183105469,
-    83.52999877929688
+    83.52999877929688,
+    84.83000183105469
   ],
   "6m": [
-    74.48999786376953,
     74.58000183105469,
     73.98999786376953,
     74.25,
@@ -158,10 +157,10 @@
     82.81999969482422,
     83.4000015258789,
     83.58000183105469,
-    83.52999877929688
+    83.52999877929688,
+    84.83000183105469
   ],
   "1y": [
-    77.68000030517578,
     77.18000030517578,
     76.70999908447266,
     76.52999877929688,
@@ -411,12 +410,19 @@
     82.81999969482422,
     83.4000015258789,
     83.58000183105469,
-    83.52999877929688
+    83.52999877929688,
+    84.83000183105469
   ],
-  "lastClose": 83.52999877929688,
-  "oneYearReturn": 7.530893989622333,
+  "lastClose": 84.83000183105469,
+  "oneYearReturn": 9.911896210974604,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Sysco (SYY) Posts Strong Q1 And Lands Military Contract, Is The Stock Still A Bargain? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcXpaY0Z1Z2NzY3ZsbmZ5eXBxd0Q0U3otWkdZekMzMnR0VVJjSHZhTWZWOWZlV0pxbGRjZXNTb0lYdFo3TEpRYW1ORTRqVlJxYUZMRnhrV3BPLTJEMHBpZDVKSFZHMU11NEJ1a1M1TW9ZaWF3Q0JoSXpqcWNvdURtbFNmRTdKMTFWQktkWVUya2NqTVBaV0JvUk82eEZ4NUk2c2YzeGRPUnBVdlppUEZmSmxtSHc2Um53cXVXbXplZFloRGNRclhYY1lvdTVPV3JW0gHQAUFVX3lxTFBxelpjRnVnY3NjdmxuZnl5cHF3RDRTei1aR1l6QzMydHRVUmNIdmFNZlY5ZmVXSnFsZGNlc1NvSVh0WjdMSlFhbU5FNGpWUnFhRkxGeGtXcE8tMkQwcGlkNUpIVkcxTXU0QnVrUzVNb1lpYXdDQmhJempxY291RG1sU2ZFN0oxMVZCS2RZVTJrY2pNUFpXQm9STzZ4Rng1STZzZjN4ZE9ScFV2WmlQRmZKbG1IdzZSbndxdVdtemVkWWhEY1FyWFhjWW91NU9XclY?oc=5"
+    },
     {
       "headline": "Sysco (SYY) Stock Looks Undervalued Even As Broader Checks Stay Mixed - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXBSSmd0bXgxd05wUHBNQlJ3emNlMlZOZW4ydmROQ3RKZXgyOGNEb3h2THphYlNpTFRNZkJyazZDRjczZHZqLS1Sb1JYQUhORUp4RUFLVklqbVBESWwyei14bTFEZWRwQ1hKdXJQdFJPaDRCWUJSR1IxSXljTkFTa0ZIWlg4NmVIUzltN3dIQ1FldjRBQVd5dFhlQ0hycms?oc=5"
     },
     {
-      "headline": "Sysco (NYSE: SYY) director takes 329 shares instead of cash - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazdOdldNZTZlTF9nbEo4c3lMamc2WmkxTkg0azRac2otSG5zSVZTSjlvVS1fdkxVNG1FOTBTWnE1REIxaFlTbkFSa01VZkU5NjlDaFVPenluLUhVZDQ3UWxEaEFJaDdMRUtkSEZQa2k3b1hBaHpSRFhCUmxjZWxFRGlZd0NYeTNDOG8zWERIQ01FU3RIUHlQN2p5ajlxcDE3eU0tb1Nn?oc=5"
-    },
-    {
-      "headline": "Sysco (SYY) Stock Just Lost A Russell 1000 Index Spot - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSU8wZC1lcW1UUDV4T2JkY3JQR0xpSGxDYWJ0dmI1TWRZTC1HaXlNOEtzMlotdUxxS1EzQ0hrcFRVZl9vdTYtLVhhS20xZF93MlJTY1R0U0ZHQ00wNk1BYkRIdkZCMXJxVV9kNjJseWRacXZZSlBOZFA3ak53RENneWZ1eDJxMlB0SXJ5eVZLMTR5SGhFRk4wSW55b3hIbmZVUlRzc2dTZDFHdnNjM3ZacFBrbENXNVBWY3ZGX3ZVRdIBxAFBVV95cUxNcnhFdDUtSlFSVkhnY25zNEFTeDl3WkpBTHYtd1JSemdfNVFBTW1Pc3V4LUVUc1N0TVR3RzdteWtCLVgyV1cxTHY2aEszWVQ0bVBfUzJUc1VENE9lS0xNVFBGRnlKVGo4azFvSnZPaWtjaHJxVF9VUDRNNGZnT2tERVR3TTBSZnBVbnl2SVM3Zm5tM2hRdGRSMUhBLVdwQlR5UHJueTNGLXBpQkZmYzBtLW92NHNUN2p0ckdEQ1d2SUh3ZGlB?oc=5"
+      "headline": "Sysco Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWkhfTVkyU1hKSlR2QWF0dnBMUW85cUVWNE9lS3Nkb1RYZlRGNlRiMDJ2RFFzbGxjQjJTZTdPNGF1WmxBRUhLQThzUlJsc3hZNElraDZjV3prQVNEQjhrMzc4OHBHaTlhV3k4Vzc5S0k5Z3VVakVieThfcHZrbl9MTkJPTWNfR0o2MXpLLTBxcnNMTlpibk1ITlozNWJicHFyN0I1TlRyWTVHY0toWnhVcmVaalFNR3FQdFVLRmNENVJKcXNCb2N6OVNhLUt1NmZXcTJZVjg1NA?oc=5"
     }
   ],
   "insight": "Tracking Sysco (SYY)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-02T05:32:42.640Z",
-  "builtDateUTC": "2026-07-02",
+  "builtAt": "2026-07-03T05:28:10.893Z",
+  "builtDateUTC": "2026-07-03",
   "source": "yahoo-finance",
   "1m": [
-    30.200000762939453,
     30.360000610351562,
     30.549999237060547,
     30.059999465942383,
@@ -24,10 +23,10 @@
     33.400001525878906,
     33.5,
     32.72999954223633,
-    33.369998931884766
+    33.369998931884766,
+    33.29999923706055
   ],
   "6m": [
-    27.889999389648438,
     28.239999771118164,
     27.899999618530273,
     28,
@@ -158,10 +157,10 @@
     33.400001525878906,
     33.5,
     32.72999954223633,
-    33.369998931884766
+    33.369998931884766,
+    33.29999923706055
   ],
   "1y": [
-    33.84000015258789,
     33.790000915527344,
     33.779998779296875,
     34.029998779296875,
@@ -411,12 +410,19 @@
     33.400001525878906,
     33.5,
     32.72999954223633,
-    33.369998931884766
+    33.369998931884766,
+    33.29999923706055
   ],
-  "lastClose": 33.369998931884766,
-  "oneYearReturn": -1.3888924899049742,
+  "lastClose": 33.29999923706055,
+  "oneYearReturn": -1.450138103552489,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Keurig Dr Pepper Disappointed Me (Rating Downgrade) (NASDAQ:KDP) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNko1YlltcXFVdDRGdTZBRE04WGNMamQzU19mbHhINWxlQ2t0aUtYZXl1SFFueS02Z1BGLWMwTDNJMXVaRjJOVnVpNVItcTFpazJzUG92RXhnTmtyU0RmbndBaExFamx5WXJuN3RCTm1XZHItRWNiOEhoOWJ1Zi15Z2RuUTBRWDYxMWhjSjV5cEFUWVVl?oc=5"
+    },
     {
       "headline": "What You Need To Know Ahead of Keurig Dr Pepper’s Earnings Release - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnpDMWFCclRoM056OEpteVRUWFhKMUlCVXh6SHpLcUc1Yl9iNXlFX3dCZkhPNGd0ZVh3eDVmcW5aS2VndUdMaUt2djZ6aDlDNWRxeGlsczJUa3o4UDgtMFVIajRIYmlDVjNPc3dfUmtkdEt0OEJ6SWR4bThIRUFISVkxVnhXSDhISXZIS1VJNUd2TEVpU3BB?oc=5"
     },
     {
-      "headline": "Keurig Dr Pepper (KDP) director Brian Driscoll files initial Form 3 - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT0IzNzhqS0Vqb00zZktxSGRXdFk3YlZpZTNJSGpkM1hfeVhXbVcyU3FScWJYUUcyQkpUa1VPV0tTRmJKS1Z6M3pMRmI0SXA4U3A4Z0xsbjB1WXRiX0hHT3ZjY3Y1Mm95NkhlRzVnSnRkU1M1MXNINzJDcVo4eVJreGpLVGtETW1lcWdmU193Q0RLMFJQM1NSWFBoV243b0U0cHZQVTVzU3BQTnNqVUFlWU1qVklRN1UxT1VwWFFjeXFkeVdTQUI5ejBn?oc=5"
-    },
-    {
-      "headline": "Why Keurig Dr Pepper (KDP) Is Up 8.5% After Coffee Split Plan And Dog Haus Deal - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM3RVLXNwblNyeTdJQXYyNlI1WHRIS0E4Tmc0WnBEOWozbGFrRE5RUDJocm9HYm55cTc5ZjBacGNBQWRJY2o2M3Z1a3ExdDVscHVOd3VWNlFOMWo1VW14dTJiLXJ3ZjNJRE84TjlFYzZycXcxdVRjei01cW8zejFXZ1BiRF8tbEdUM1JPWS1LVXA4aGE0NnNpQ0Q3N3hZeGhhMHRKeWNGVlZkWm9waXBOM0ZjSWlKelBNQ2ZZSkFxWmkxeFg4STBGQ241dGstU2xybGpGS1Nsd1FucmpVUlRSQ9IB5gFBVV95cUxQbXNYTHRaYU9CQVJUR21CblFFaEs1LWUxeE9LTkZfb1ZMSHFfSlY2ZVdYa3ZCeDZ0UThOWXl3RFpLaGIxeFhnN2RON1VPSTJGOGwyMTFPeEFQOWVCR1ZOS2tDd1JzZzRDdm03cWU1SG52RzAzRnZHQVAyYW1QYmxfS1JKVlVjNS1SN3YyU2s0TFVNN2VzVXo2cVAzN3hQSm1ldFN4ZFdwaktzbkFxLU9yWTdvNE9SZmltT1JBNXpuVUxmZ3Vsd1U4amlpRGE3U1ZkZGZad1hHSFA3bno5b2ZxUFNzQjFuZw?oc=5"
+      "headline": "Own PepsiCo For Beverage Growth? Keurig Dr Pepper’s Case Is Stronger - Trefis",
+      "source": "Trefis",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNel9oTk4tR3lMQktiUno5N05KOFl3UEtkWjhKZWhZOWhMNjlVYnc2TjZxLUZpMlQ2UUtGcXNEaGFRR1ZKSkhsbXYwZGpqZzAyWXJBUnRESk9HQVloSHlHd3FaNHppbVFxeV9laWFXeFdxNHM5QnBVUnNDczFneHNIZjVGbWhEU2huMVQyTUhBU3J2OG9GUV9GbWtkV2Nqa3BMSVFzbGpuMkV3NEFVUWJfVjd5YW1GRmt5enJ6SjhLdlVjQ210?oc=5"
     }
   ],
   "insight": "Tracking Keurig Dr Pepper (KDP)."

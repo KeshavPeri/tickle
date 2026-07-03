@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-02T05:32:26.018Z",
-  "builtDateUTC": "2026-07-02",
+  "builtAt": "2026-07-03T05:27:55.750Z",
+  "builtDateUTC": "2026-07-03",
   "source": "yahoo-finance",
   "1m": [
-    71,
     65.5999984741211,
     63.650001525878906,
     66.19000244140625,
@@ -24,10 +23,10 @@
     62.349998474121094,
     63.720001220703125,
     65.81999969482422,
-    67.87000274658203
+    67.87000274658203,
+    68.5999984741211
   ],
   "6m": [
-    90.04399871826172,
     86.71800231933594,
     87.47000122070312,
     88.31400299072266,
@@ -158,10 +157,10 @@
     62.349998474121094,
     63.720001220703125,
     65.81999969482422,
-    67.87000274658203
+    67.87000274658203,
+    68.5999984741211
   ],
   "1y": [
-    68.6780014038086,
     69.66600036621094,
     71.46399688720703,
     69.18399810791016,
@@ -411,12 +410,19 @@
     62.349998474121094,
     63.720001220703125,
     65.81999969482422,
-    67.87000274658203
+    67.87000274658203,
+    68.5999984741211
   ],
-  "lastClose": 67.87000274658203,
-  "oneYearReturn": -1.1765028694934538,
+  "lastClose": 68.5999984741211,
+  "oneYearReturn": -1.530160891232778,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Carvana (CVNA) Stock Moves 1.08%: What You Should Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeWw5OHRoU2lkYzUyR0ZheUludDV6MWNhUkx0OHRQSzUzU2lIZFRTSTVrM0t3NFMtVUhZTl9aWFRhZmdmRW0xM2hfRmVFb0NuYkN5T1d1dXB6OG9VUWJrSUZZRkJOcGdQVVBxVFdsWFpXZnRnVS1Gd1F1eG5GZkRTUzBWbDN0TDZKeExFNWRRN21JR2RBeVE?oc=5"
+    },
     {
       "headline": "Why is Carvana stock rallying today? - Investing.com",
       "source": "Investing.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZFNiTUN4TWhINUpfTWpMRUg3cUxFdWhuZkZRVlBVdFpSMXNjdjBLb2dWNWw1anNoTnlfZTZLRmYxaGZ5OURlOUNHY1h6MFFCTW5CX09oT25kUzNoTzVlTDdRSVptd3lxR0pYQzFpNUFpLTQzdm5FNHY4eGcyQXVWOGFDRHNpaXVlVkVxYnVJNncxZFNnSDc5SEVHbkJSdw?oc=5"
     },
     {
-      "headline": "What Drove Carvana's Q4 2025 Performance - Kavout | AI",
-      "source": "Kavout | AI",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcGlIQXJkN1dqMmptZVJfcWRvTUlzVlhySUlUc0xuemhUeFdtcVhBanhsd1pVTE8zQW4tUmxDUVBjaDlibTV3YkVvQXp6aGpVcDJ6a210UjVLRmF4SzdNdVZUY2g3dHR1TktWcWNWRlZUMi0xNnNzSXJXNEVTT05MVA?oc=5"
-    },
-    {
-      "headline": "Why Is Carvana Stock Surging Wednesday? - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcU5IWWxJSXdrcWJsWnNKWEUyREs0MjQ3c3NGbmh0WGVpQ0RUV1VHRnBGVWRudHU3WWRRc3dXMWJPRjJZTVA3eWVNc0ZfR3pRNjBkd2p0cmVTRjRnYkFOdlFHbFpVUl8zSlJwOXRzOF9jM1IyV0pKQWZjS3ZNTDdoMXA5QkVRdHh6UTBKRVFla003cjRDelZ0WGFid1dJd1Bl?oc=5"
+      "headline": "ROOT Stock Rallies Overnight On Record Profitability — AI Pricing And Carvana Partnership Are The Growth Drivers - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVFQ4SzBDZzVpeGhUUnJraWxnWUVRd3U4djlvbjF6MVpVMlNrVWR6M3JZN3BGSU1QajlEbVc3M3BmdTA1RlJtRVItbUtiN0NXbjZOakJtY1JDWDBMRzNmM0xYa0ZRLVp5dlNBeTJrak9ZcktLMENPZTlVUEh3eVAyT0RLNFpadVYteEc1UmplQm1OMjFYU1JJNjA5ZjBLZkpTOWRRcWFvclYzbzhsNEF2QXhnNTZfUmdNS293RTNRdDhNVjJ2TGNjR3V6MVRHZTcxZmdHY1FmWjl4eG93dzRNMUxGaWFIQWt4T2ZvS0cxTXNISlNmRlVxWE9jaHd5ZTlpeHY2cw?oc=5"
     }
   ],
   "insight": "Tracking Carvana (CVNA)."

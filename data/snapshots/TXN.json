@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-02T05:32:57.151Z",
-  "builtDateUTC": "2026-07-02",
+  "builtAt": "2026-07-03T05:28:24.020Z",
+  "builtDateUTC": "2026-07-03",
   "source": "yahoo-finance",
   "1m": [
-    293.20001220703125,
     308.1199951171875,
     308.5899963378906,
     305.3699951171875,
@@ -24,10 +23,10 @@
     285.42999267578125,
     285.4800109863281,
     298.07000732421875,
-    298.4100036621094
+    298.4100036621094,
+    293.0799865722656
   ],
   "6m": [
-    176.2899932861328,
     178.82000732421875,
     177.0800018310547,
     177.1300048828125,
@@ -158,10 +157,10 @@
     285.42999267578125,
     285.4800109863281,
     298.07000732421875,
-    298.4100036621094
+    298.4100036621094,
+    293.0799865722656
   ],
   "1y": [
-    215.58999633789062,
     216.02000427246094,
     213.41000366210938,
     216.6300048828125,
@@ -411,12 +410,19 @@
     285.42999267578125,
     285.4800109863281,
     298.07000732421875,
-    298.4100036621094
+    298.4100036621094,
+    293.0799865722656
   ],
-  "lastClose": 298.4100036621094,
-  "oneYearReturn": 38.415514973346134,
+  "lastClose": 293.0799865722656,
+  "oneYearReturn": 35.67261400597454,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Texas Instruments (TXN) Stock Moves -1.79%: What You Should Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTnNaS1lpLUNMS1BoWEYxNG5BQmpFdXphYk0zWDh1OHVzbVdRbEJDZG9iS1Y1OUE1NmV0aWhENzJqM0pRcTNyRGNoeFRSWTlfZmI3SXpKUkE1RFVrMF9RajVfZGdETzV1UG5YbzEzdjVndWFVME1fb01mVy1zYmVJeVRVRHc0LUtfWF81YTBsUU02d0dqdmtxekY5ZDRicFU?oc=5"
+    },
     {
       "headline": "Texas Instruments Stock Is Up 68% Year to Date: Can It Deliver More Upside Before 2027? - TIKR.com",
       "source": "TIKR.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQkpzVUl3TVQydjVzM1NiUk8ydmkzX3JZLVhjRmlDM1VpWnkzLThRaFZXdkExT2RnWHV1RkgtMVgzOVVsdk5TVzdtQ01XSWE5TGZ2UWtJeDR0c0dDOHJfUkV1eGRZZExleTBST2x6QjZQWVNudjNMQXk1SEZZd3NBbHg4ZEJ2Y214M2dCV0RIcDZrVnRwMWFycjU1WVh5TlRqSXduSWJEai1CanZhOG9B?oc=5"
     },
     {
-      "headline": "Texas Instruments: Rich Valuation, Muted Upside - A Hold For Now (NASDAQ:TXN) - Seeking Alpha",
-      "source": "Seeking Alpha",
+      "headline": "Texas Instruments Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZlpVUXUtMmZfM3NjdUp0M01zWjBVaHBlalc4ZzZma3l0dFVadDIyN0ZneFJCT0R4QmwzWUxQYXhmeFpKRzZRZ3h2enF4UWNxRlNoekhzY19yWEpia3Z2N05JMnV4anQ3QXdjSVVxOU1IWHpCRzNrbmJxc1hoMGJUWW1vb2FkSHBYcHVTaVJoR21uNHpFX1dLVWpzZVNuaDBmMVhF?oc=5"
-    },
-    {
-      "headline": "Lattice Semiconductor and Texas Instruments Shares Skyrocket, What You Need To Know - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-11",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0pzamh3LXpWbG92TUIzcVlfTVRTWE1IdlVENmJFSUtoMlNWQmwxaU9MQnk4YVE3d3ZyYWN5Z1pkUDBObGlnWmJ6eXRPSXVqQ3NKaDlwQkhtSUMtTGJMVnhxSHN2a1hMdlpiSGxfcVhKNjA3Ti1YU2NwV2hCb2I3MEhIakhSRUJVZjlrMTJUSEtkRUN2dVg5cHg2TDUzOWtab1h4OTB1ekNfMVVsWG9HZg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ3h3MXk2eVBsT25QRGw1dXZ0alF3Nl9qXzZLa3JFZVBSTUZjOXpGY3NEVTdtX0tQc3JLZEktQjlxR3paVnl3cTducjIxUEVpa3g1UFNNaHh5ZGpBdUowdTc1YVBCajJHY1N0bjREb2lPeDRzdEN3bFFKTll1aXFwNWZVMm5jVFVzYnBuekVOYzNjUkxtSVVnZzA1UTJyVFZjTkZEbzE4Qy1aM200YUR2TUVzY3hsV1NpNXd5bEs4anpZbzdZTzQtUGUzaWJueUZMdDlMa3Z6ejAtZTdHZDZaRjhqZnlvY3pRQ2ZFZ1NB?oc=5"
     }
   ],
   "insight": "Tracking Texas Instruments (TXN)."
