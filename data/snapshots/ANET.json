@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-06T05:58:08.273Z",
-  "builtDateUTC": "2026-07-06",
+  "builtAt": "2026-07-07T05:39:32.741Z",
+  "builtDateUTC": "2026-07-07",
   "source": "yahoo-finance",
   "1m": [
-    175.3300018310547,
     174.3699951171875,
     166.00999450683594,
     154.27000427246094,
@@ -24,10 +23,10 @@
     164.10000610351562,
     169.8800048828125,
     166.6199951171875,
-    159.99000549316406
+    159.99000549316406,
+    173.27999877929688
   ],
   "6m": [
-    130.72999572753906,
     131.32000732421875,
     130.77000427246094,
     131.83999633789062,
@@ -158,10 +157,10 @@
     164.10000610351562,
     169.8800048828125,
     166.6199951171875,
-    159.99000549316406
+    159.99000549316406,
+    173.27999877929688
   ],
   "1y": [
-    102.5199966430664,
     101.47000122070312,
     103.38999938964844,
     106.27999877929688,
@@ -411,12 +410,19 @@
     164.10000610351562,
     169.8800048828125,
     166.6199951171875,
-    159.99000549316406
+    159.99000549316406,
+    173.27999877929688
   ],
-  "lastClose": 159.99000549316406,
-  "oneYearReturn": 56.05736513061469,
+  "lastClose": 173.27999877929688,
+  "oneYearReturn": 70.76968236395588,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Arista Networks, Morgan Stanley Among 15 New Stocks On IBD Watchlists - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHkyTDcxNThnSjZYS1JQaFF6QU5MSXRnWW1qY2dvQU1NTlpnUml5MGxtVVlmX0ZVVlNYTkxuNURYb3NLRzkyUjQ1VjN4R0xRN0Y5OW1IM3l4YTFUVkJRMjBHYXI2VHpfUFJ5V2ZNajZTRXh0cnExOEVuUXNPdHBpeVluR0VPdVlha2ZjOXhwRFg?oc=5"
+    },
     {
       "headline": "What Makes Arista Networks (ANET) One of BlackRock’s 30 Most Important AI Stocks - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR0NxbDVwN1hDa3NUZUVGdE1nWHZtMnVTUWpEc2JEeFM4OUVhekVtTWFCbEJ2UzVuLU9FUUJSSEFNdlRfT0ZYWllyU2FWTUdjNENhNklxSTkyRTZqT0NzamNCZkpJTll3Q1MteTRrN19IanhtbjFwRXJleTJwaTltMmtEek9OcWtMUUs1N25DNklkdzJxUDlxYmN3?oc=5"
     },
     {
-      "headline": "ANET Stock Slides On Chip Supply Warning – But Retail Calls It A ‘Fake Selloff’ - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-07-05",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaUtEOXFhMVozMlJUUy1FTVVkcWwyTVdGYThseWpRZFRpWHRCS2pBZDJUUGR2Wm01V2lzRzVWYngtS19fdWZUeVdTUDh0WUk4VEJMY3ZyNnFSZVk1UTFrb2xQRUJEYVhVdGh1XzhiR3pLeENnMGtRVkNhOFZkLTdzVUE0WUphdURNZFlvMV9VN3dDTlJpTXE1eWdRTERFUW9mbXVncDJnTk9HX3B4RnVmMkxtdml4TG1ab0tpcVg4eDE5cUE1cFIzeU9EdVozb3BrcUVUcFh2V3FuUWQwYlE?oc=5"
-    },
-    {
-      "headline": "The Billion-Dollar Engine Arista Networks Stock No Longer Puts First - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-03",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS2Y3LUF4VGhDNXc3YXUwc2NCSTlWbnNfemV5bHZGSDlZN2hOQ2ZCejVjNnZ3dXM3Qm1xRVZiQ0pyaGh3OFgtLWFGdWQ1cFpoUU81S1pXUHZuRkJRSmFqNWxJeU9oeHpZd2FMOEFFVld0b3B1RElmT3o4RE4wWlZ2MURtYkJEaDgxUmNQRDVmaC12aTFPamJrY3RXNFN5TU5hNzZkS2VEcHBPV3I1QVU0eF9oZWJ6S0NUWmZkWlZ3c1ZORmVTckwwdg?oc=5"
+      "headline": "Arista Networks Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGlENnprakpIaUk3b0dETG5YM25rc3V1cXYzdTNvT25sa2pPSUktTlNOLWdNbjlGS3lsNDlrcExrQzhqZEt3M0hENEJCcU8wbTVQSXg2RDBTNi1CLUZ6Ni1vXzNOVVNKbTR3Yy1STDBOSVBlMjFUX3MtY2QyUnpOdklUMENrTWU4WU9qdzR1c1BNQ21qbXh5ZnhGdWt3OFBYVkoxSHJOVHM3REJIWUFPUHhMVmI2VGUyYzNWVl9wMXJReUpacTZ4SmREUQ?oc=5"
     }
   ],
   "insight": "Tracking Arista Networks (ANET)."

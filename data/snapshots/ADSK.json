@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-06T05:58:05.028Z",
-  "builtDateUTC": "2026-07-06",
+  "builtAt": "2026-07-07T05:39:29.817Z",
+  "builtDateUTC": "2026-07-07",
   "source": "yahoo-finance",
   "1m": [
-    236.66000366210938,
     229.60000610351562,
     233.63999938964844,
     229.9600067138672,
@@ -24,10 +23,10 @@
     195.24000549316406,
     194.4199981689453,
     199.75999450683594,
-    207.47999572753906
+    207.47999572753906,
+    207.5399932861328
   ],
   "6m": [
-    300.4700012207031,
     297.5799865722656,
     298.2099914550781,
     300.7099914550781,
@@ -158,10 +157,10 @@
     195.24000549316406,
     194.4199981689453,
     199.75999450683594,
-    207.47999572753906
+    207.47999572753906,
+    207.5399932861328
   ],
   "1y": [
-    316.6600036621094,
     315.30999755859375,
     314.9100036621094,
     307.2699890136719,
@@ -411,12 +410,19 @@
     195.24000549316406,
     194.4199981689453,
     199.75999450683594,
-    207.47999572753906
+    207.47999572753906,
+    207.5399932861328
   ],
-  "lastClose": 207.47999572753906,
-  "oneYearReturn": -34.47862270950718,
+  "lastClose": 207.5399932861328,
+  "oneYearReturn": -34.179063495262035,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Okta, Autodesk, and Dynatrace Shares Skyrocket, What You Need To Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWNCSnN4blFOejdTNGJMcWFsM3lvc3BaMjlBWVFCMWhiZ3FwS2ZkYW9sQ3lCb094OU95ZmhRcXdPbEtaX2RBSmhUdl9TOS16UlV1bEgtZy1sdE5FUVh2M2hDbEo3VndaeE13bzRydlpxaktPMnBGa1owZ25HLVdvbEpPQUNNa25meTVEOGJJZ1ZvV0hmZWFCYkVPM2pNbmR3U0haV1JRVVk?oc=5"
+    },
     {
       "headline": "Autodesk Stock At Recent Lows Spurs Unusual Put Options Activity - Is ADSK Too Cheap? - Barchart.com",
       "source": "Barchart.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHpMb3ppek9jZllNemtnWmItZXlubmpydnZ3LVBLQnZEalQwVEFDNml3SUlJVzByaktSOEduRXVzMzRWejlZTVhzbDFBUjlGM0VMSm81Q2lyTHZ0WEd6VnozRmtLMDJ3azVaZ09JbTZwRkF5VVo4cjMxNm5XbXZza2tvQnNxYjNmZlJzVDBuVUxzX3hPdWVMdjBadWw2SFZUaUxyWl8tdmF3R2lQZm9NUGlwT2VrbTRFaXdOWUJJb2xURmNS?oc=5"
     },
     {
-      "headline": "Autodesk Stock Testing Price Floor – Buy Now? - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHBVLWVYWm9rSWpOS2s2eV92Y1Y1LTZ3ZC1CVjlrcXVnaFpWeS1oaXQ0a1YyMUFaWGFxYVlwTXE3V2NsZ2ZTOURpUHZoaVNNWVIwRDBrM2FyMkUxTlZHbFJYNjE3dlJCMVhfbXFVQlFibEJLSEdDbWxfUHhvYlNRbXpvcXM5elRpUDlyUVdKOTlLWHZGZ0tXYkxCeUtoWkhsVF9DVmRn?oc=5"
-    },
-    {
-      "headline": "Autodesk Stock Joins 2 Cash Rich Industrial Picks Worth A Closer Look - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-05",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMDJDaXA0MnhuZkJUcDhWQW5qTzJEeTZlWElVWXRxNzlkaURZeWpjdTlaZll3MFJSZEd6OEhVX19yVS1La1NRSi1SS3MxQldVWFR1X3lqRndqMUJvWW5YaEx5c0gxNGdFa3JUbmdRelFxNGNBQ3ZGZnE2UzF3VG95QVhGLU04c251aFJIaF9UbWw5ZGtJRzAyR2xPLXZiSFN0RFF1UnRUY2R5QmtDQ0JXWTVqanRBZWlGYzMyYmY2dlp6LU1obnN1NjlUQzFfdkwxQ3FSa3hQQ2bSAd4BQVVfeXFMT2JTUV9yTnJnVnhtSzE0Sy1rS3k4eDNwQ0xTdDdROVdwYUNqX3FuY3p3Njhsb3FIamRmZWxNdDFQaElGUVNRSVZZNFQ5QVpkbHdDUktBejZ6aGhVSUg2dmxILS1mdU1xaGlyZzFaT0ZkLXhlQlBLajBkMUZpMTUxRXMydkh1c0RIWkZHd3JBME5rcEJ5SHI1UjhKZ1ViVjRKUGtnRHBpYWNZTWRBTmZiNWZqbzFVNFM0SGdpNkY0OGZrcURJdTN4Tkl1cjQ5aTFZVjd5WTJRdjVBS0ViZUhB?oc=5"
+      "headline": "Autodesk Stock Fell 7% to a 52-Week Low on June 11. Here’s What the Market Is Missing - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-06-12",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHRqRmE2MVdIWXlQNDFYN1k5QXBOR2tfTm5Eb1Utd3RBLUdxaTJMUlFISV81TDVHYzd0WnZCYnBqa0k2TGJyUm5pM2o3T3daZWU2c0g1V09laFlWOUJEUExhdllXZjlpNHd1dGxVV2lQQkpPSnFEa1RrTFhaMVlMampOV0ZlZ3dxTm9mODVVR2U2VFcycjZZUlNtMWhJSERjNC1HY0h0REQ1ak5f?oc=5"
     }
   ],
   "insight": "Tracking Autodesk (ADSK)."

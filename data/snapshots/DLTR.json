@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-06T05:58:23.290Z",
-  "builtDateUTC": "2026-07-06",
+  "builtAt": "2026-07-07T05:39:45.203Z",
+  "builtDateUTC": "2026-07-07",
   "source": "yahoo-finance",
   "1m": [
-    109.38999938964844,
     112.5,
     109.2699966430664,
     108.80000305175781,
@@ -24,10 +23,10 @@
     122.62000274658203,
     120.94999694824219,
     121.1500015258789,
-    124.05000305175781
+    124.05000305175781,
+    121.45999908447266
   ],
   "6m": [
-    122.48999786376953,
     119.52999877929688,
     122.01000213623047,
     123.94999694824219,
@@ -158,10 +157,10 @@
     122.62000274658203,
     120.94999694824219,
     121.1500015258789,
-    124.05000305175781
+    124.05000305175781,
+    121.45999908447266
   ],
   "1y": [
-    101.91000366210938,
     104.2300033569336,
     104.38999938964844,
     104.75,
@@ -411,12 +410,19 @@
     122.62000274658203,
     120.94999694824219,
     121.1500015258789,
-    124.05000305175781
+    124.05000305175781,
+    121.45999908447266
   ],
-  "lastClose": 124.05000305175781,
-  "oneYearReturn": 21.725050136447198,
+  "lastClose": 121.45999908447266,
+  "oneYearReturn": 16.53074467294727,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Dollar Tree (NASDAQ: DLTR) director granted 1,238 phantom stock units - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTjgwYnJNdFhkcWZBcGhuUmRGWUtTTzlFM0ZGX1pHdXhVN3BHbE1EaDk4a1dhS2hYNThGaXJCWElSekhjNndYZlI0a3pmOTlwYmN0d1I2dGNwa0ZBQmVyNENxd3NfaV9KR3FjWmxnTktNVEpVMXVxYmYyV2g4UERJYzJTQmx0bUg3SkdCMVNwOVVocE9JWmxJVXFtNjBiRS1ic054MjM4VUMyS3J5Q3c?oc=5"
+    },
     {
       "headline": "Dollar Tree (DLTR) Stock Looks Undervalued With A 24% Fair Value Gap - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEViQndFeEF0OV9KNENQQmFJQjI5R3FQZVhnZFVFRi1jR3h4Vi1tdG5QNWtwSWdmT1lZYkRrYVdSSlpKcnhqLVNYcl9ERGpKSXJoaHgtSnpJMUZ0aGZzMlpITGZmU0JJd05JalExaU5NZFc2Vnl6dUZJeHFQUEJxUDFIbmtQbFVPUjZhaDM1SUUzaUN3TjZjcA?oc=5"
     },
     {
-      "headline": "Dollar Tree Announces Secondary Block Trade by Selling Stockholders and Share Buyback - Dollar Tree",
-      "source": "Dollar Tree",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcExIYlc1QTZvSlIxSF81Z2tENmx0SUI3OHFlUFdSZGVaRUstT2UwUEE2SmpVWkZHdXJxZGhMeXJQa3BEUE41REpwbUoyOXhLZ2ZUNkMwZW43eWxJWXZyTlhmcXJkVVFjVW51MkFWeVdKQVhZaUZ1X3FnOHlMN1JOM2xtaWpkTmJhU2VBX0FGcEFSeHU1QWotSHdkWVItLWpDczFKZzMtSmlRb29kMGx2T2hpblFXeUowRWg0V043TzBxQQ?oc=5"
-    },
-    {
-      "headline": "DLTR Stock Eyes Best Week In 4 Years: Wall Street Revels In Discount Retailer's Earnings - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-07-05",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY1l0V0FGb1lpYm9xTVUyeW9uVHJQVl9pX0RkR1RmdU5IT2J6dUs5QkVlUWE2NDh2b1F0X3lGeTNGSmIwVlhkMm9sV1Rpa3lWMnFEdHIwSnNsNEZsUTZCdTJKVGdPYUdyanowVUF6UGd0aDY5RXlLQ3JJdFZTMzVkdWZqUWYzN3BkUllvbHpKakJUSnhpaXlaLWEtcU1nWElraUJyTURKVXNnYWJSU1U1eExZa1d4SHI4N2F2SERISU8tYjRVWDJTQ2ZPeHgtRm53a2N5VUJnU0pUcTFMeGNacFdWdGp5U0E?oc=5"
+      "headline": "Dollar Tree Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU2pzVGVHREhNTzRhd3RFeFpaOWh2TWFPZDdyMXV0ZWlKYlN6RWRweVVfRk9USmhLYTFEZ3hNUEFkZVJKZmZORVI3RmdwWmtfMmJZMkJrVnlNMFNxMGtNbmJjVzFNOGRiemxBc25peXVoZnR5VWpvMHRmVktYTlZnVER2WU5hRXN1ZnVUWHFkckFHZ1JKdURpTzcxRFIwYXN1d3lxY0w2NHloNmdfSURxWUo1ekh6cVZkcjNQbXpqMjNqaDNPS2pzVzhwaw?oc=5"
     }
   ],
   "insight": "Tracking Dollar Tree (DLTR)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-06T05:58:03.887Z",
-  "builtDateUTC": "2026-07-06",
+  "builtAt": "2026-07-07T05:39:28.851Z",
+  "builtDateUTC": "2026-07-07",
   "source": "yahoo-finance",
   "1m": [
-    215.39999389648438,
     217.1300048828125,
     224.94000244140625,
     227.22999572753906,
@@ -24,10 +23,10 @@
     254.30999755859375,
     251.63999938964844,
     251.05999755859375,
-    261.07000732421875
+    261.07000732421875,
+    254.75999450683594
   ],
   "6m": [
-    227.91000366210938,
     228.7899932861328,
     229.88999938964844,
     229.97999572753906,
@@ -158,10 +157,10 @@
     254.30999755859375,
     251.63999938964844,
     251.05999755859375,
-    261.07000732421875
+    261.07000732421875,
+    254.75999450683594
   ],
   "1y": [
-    189.27999877929688,
     187.6300048828125,
     189.77000427246094,
     190.6199951171875,
@@ -411,10 +410,11 @@
     254.30999755859375,
     251.63999938964844,
     251.05999755859375,
-    261.07000732421875
+    261.07000732421875,
+    254.75999450683594
   ],
-  "lastClose": 261.07000732421875,
-  "oneYearReturn": 37.92794220620744,
+  "lastClose": 254.75999450683594,
+  "oneYearReturn": 35.77785422217018,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMmFPV05BNVNucUhjUkJ5d3IyZDBvc3dNLW80VXNGblh5eXV0MVhxdHZzNHhzRWZPSi1DT2JTdkdUQll1Z0VYM3FGVkFZQjJqOXdDZmZta08zaU1YcHJKOUlFWjhmbjN3MVAxaDU2VXM2VXVJMmUzM2d6WHpkOWhJenUtVy1fQk1NN3JsemFaZjNZVEZM?oc=5"
     },
     {
+      "headline": "Europe approves AbbVie’s TEPKINLY combo for relapsed follicular lymphoma - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVhJSUV1SllPTUc3VlFSOHZwTmdMQjBiZWNxVGFyMGxpN1g4N2FlX0xPdHRsLXN5S1V1TnFSUm9KUm9HZVkxbUt5WXVtam5qTVYzYklIYzF5Zy13QkdWWHJkQlFZUmdxcWlJTDFQWTI0QmNiX3ZuOTdYVkdaNDZpMkJLWkdvUkR0TlYyR2VMQlhqMXhFVDRlNi1UMjExaC0wYXlhRGtJX3pzQUk0eXlnWXhLYw?oc=5"
+    },
+    {
       "headline": "AbbVie (ABBV) Stock Trades At A Discount To Fair Value - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-03",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeW42T2J1ZVJwelgwYTZWd2Fhcmtxc1RXTGFCQ0QwOEQ0QTN6dWpMTmtzank5TmcweFpWcWQ2VVlYbTdQUUJ6cTJzY25DNGNfa1pZZUtGNnRZTkNMQlpWekZZRW9ZcC1CTHFtRnZTb0ZmWm9GTlE2Qi1sVnpxNGFqdmVKTEUyWm9VMHQ2ak9IZm9IV05DYUY5aWlUbXpMZm1xU3N5RTVMYTVWWUNnYjZjVTNDX3ZSdGpYUmo2bng1aTJ3Ukg0SVNUNnVR0gHPAUFVX3lxTE1Sb0xHMGZ5c1pETkdHTTNFRzhza2ZhUl9nVE9YOUh3cElBcVBoX1IwMVBxOE53NW56Y29FWGkxOElpaHpSQ2pucW1VN1k4d3dQNkc5Mk0zSHJkNVFmSUIxWDF5djBfOHpOYUJtYU9ycXBlT2cwaGFOVFRYYlVmZGdpdlN5NHdFRWxVTTM0cWpXNVJsdFJtOThSVkp2NmNzc1VuWmNqZVpvMjdzVDlLek0wSm1fSlZJWWtXamg4cnFsZkU1LTlWZ0FDdVl0QWV0WQ?oc=5"
-    },
-    {
-      "headline": "Q1 Earnings Highlights: AbbVie (NYSE:ABBV) Vs The Rest Of The Therapeutics Stocks - StockStory",
-      "source": "StockStory",
-      "when": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWWl5Yzg4UFRLSlN5bjZqczYtQ0xrYTNtU3QyTzctUmFfNDJrVVBucDhaeTNjcnMwNkhwcjhJVWZvbVNHSHd1cXVmeVNqcXRMZENsOWg4a3hURzFqdDZwOWFiOF9nZWVudXg5TmN1MXRSaEVFV1FhVHdFamFpUHhra0lhRWVRSEtnMUVzT3JLM2RmRXdhOVVRZjJEZjEyMjdWR2hueFF2bUgxZ3NobzZPZ1hIXzBIR2g5Sk5NamlTMW5LSEtxMFhfdHpzbzlaV2M?oc=5"
     }
   ],
   "insight": "Tracking AbbVie (ABBV)."

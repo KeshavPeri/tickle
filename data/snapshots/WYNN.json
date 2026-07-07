@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-06T05:58:59.252Z",
-  "builtDateUTC": "2026-07-06",
+  "builtAt": "2026-07-07T05:40:15.445Z",
+  "builtDateUTC": "2026-07-07",
   "source": "yahoo-finance",
   "1m": [
-    104.62000274658203,
     104.94999694824219,
     103.5999984741211,
     104.4800033569336,
@@ -24,10 +23,10 @@
     99.41999816894531,
     97.08999633789062,
     96.11000061035156,
-    95.91000366210938
+    95.91000366210938,
+    95.88999938964844
   ],
   "6m": [
-    125.9800033569336,
     124.95999908447266,
     125.0199966430664,
     124.36000061035156,
@@ -158,10 +157,10 @@
     99.41999816894531,
     97.08999633789062,
     96.11000061035156,
-    95.91000366210938
+    95.91000366210938,
+    95.88999938964844
   ],
   "1y": [
-    105.62999725341797,
     108.66999816894531,
     110.45999908447266,
     110.08000183105469,
@@ -411,12 +410,19 @@
     99.41999816894531,
     97.08999633789062,
     96.11000061035156,
-    95.91000366210938
+    95.91000366210938,
+    95.88999938964844
   ],
-  "lastClose": 95.91000366210938,
-  "oneYearReturn": -9.201925441680418,
+  "lastClose": 95.88999938964844,
+  "oneYearReturn": -11.760374523452438,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Wynn Resorts stock hits 52-week low at 93.38 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0RieUJNbEd4QW1QQ1NjSFZ1anJzSDI0TU9zX2tNaFFRdXM5U1hadFlNdW05czJqbUx4NUkxWWtiU0NMd0FwdFF5eHJFXzM3M3NrbDJ1ZkZJaUcxeElJZkdHeUM5Yjc3UmFKSldYczJJSnV1X0RhZnltdGVJMkowOHNUZTZNdWlRZW1TWkNla2hRZ2NremNjNmtSaWFHZUVKanFSRHFR?oc=5"
+    },
     {
       "headline": "Wynn Resorts Stock Boasts Long-Term Technical Support - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDEtVXFtMUZ1M3hsYTQtQVJFYkFwcTU0TGRuY1hEakEzcl8zeGtwWS1EOTQwdkpvcHU2anZpcjBRRVV2R3dTV2ZKT3dmODkzaktZckQzNTZmWkVsYTF3LUl1U3hZSjhhTzBsN2lQWTZLSjd6VjNXNG1FV0JjMXRyZkkzM3dTcWwzMUFuZWtKNHVDZHNaZVpwdEtEcw?oc=5"
     },
     {
-      "headline": "Is Wynn Resorts Stock Underperforming the Nasdaq? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaUhsS19QNmxNNEJaSUpBNXd6R3RnMnVOdE1ienlSZW1tdk1MbjFLaVZJZVpUZEFlWm9tVXZOdUlOaWw0ZWZmcXlIOVZtUS1ubEtPSXJnajNtQjJFbGV6cEFMbnNzRVdpaFdJVkd2NzM5a1lnOTRwNFF6ZkZKdGk0ZGJlVElBT0F0dzNZZlMyYTdjU2pSRkNZ?oc=5"
-    },
-    {
-      "headline": "Wynn Resorts (WYNN) Joins Russell Growth Indexes On A Fair Value Debate - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaEtIUTNVYmpuaWxFbzlXNDg1T1hjS1Yxd0ZQLTVhV1dGcHU2bTNoQkl3V1JEYU9PbGRVSzlUVDdoanBvNWNHcGhYUVB0UXpKRTJUbnU2dmlOWlFCVUQtSi1CYjlhVGdENnVlYVB0b1NYUlN2NE9EYzR4YUVLdDZfSGxVYkluR21jYTNhaG5KMWl5X3NxQ09CcnExVzltU3VRVHRKVFFpcHpzajQ1QVAwckZ4ZTgtT0YwZTQxeWRrTjRTZjdST2VhM0R5SWVsLVFCYzZ1bVlEQdIB3AFBVV95cUxPU2pjWjJ6SWtpcXJOYkZZZi01a3pnNnk1bERfY3Q4YXBTRWxRaW1yWWM2Qm1ES2JJdm5UQ0lKdGN1aWNzZERIWWx6T2RjUGhiejJLd0ZkeTh1ODNhVkp3djZiTWNmdFVXcm5BZ0pFLWhHS2F1NTczdEU1Q0o4VlZoa0h0ZUN4NWQ5ek5hNmx0T3A2Mlk3MjJNMmlfTUEzT1F5blJOcVl3OE5aM3A0MVh2a0pOR0l0YXRJYWdpNmozbmlUUnQ1bVF6OWZaaXN2U0hkWWphaDI4X2E3dTRL?oc=5"
+      "headline": "UBS maintains Wynn Resorts stock rating citing Vegas visitor trends - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd3hIdFlsM043TXFfMXlQMVhjRm5iMlZWY3FvVk9mN0Q2elVsQTFvRWhJczQ5X1VZSlAyaHFSS3hFVndEU1ZyUmRLbUVVM1FaTHRrRzFtNVlOZGJzSTUzUGZnai11S01kc09xSkxzWGtXM3UyZE9FZjNvc2tYZUVWOUxUQXFCaG9GczhBV1lKZS1mZ2w2eDZrbDVwLTJITEdieElaMlVZZGhNTHVfTHhkdW9BZGc4dzFpNEc5YS02dzRjZFFvOEE?oc=5"
     }
   ],
   "insight": "Tracking Wynn Resorts (WYNN)."

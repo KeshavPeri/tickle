@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-06T05:58:15.786Z",
-  "builtDateUTC": "2026-07-06",
+  "builtAt": "2026-07-07T05:39:39.109Z",
+  "builtDateUTC": "2026-07-07",
   "source": "yahoo-finance",
   "1m": [
-    96.13999938964844,
     92.88999938964844,
     94.12000274658203,
     96.73999786376953,
@@ -24,10 +23,10 @@
     97.9000015258789,
     96.87999725341797,
     97.20999908447266,
-    98.5999984741211
+    98.5999984741211,
+    97.44999694824219
   ],
   "6m": [
-    84.23999786376953,
     85.25,
     85.45999908447266,
     85.38999938964844,
@@ -158,10 +157,10 @@
     97.9000015258789,
     96.87999725341797,
     97.20999908447266,
-    98.5999984741211
+    98.5999984741211,
+    97.44999694824219
   ],
   "1y": [
-    98.41000366210938,
     98.58000183105469,
     98.04000091552734,
     98.38999938964844,
@@ -411,12 +410,19 @@
     97.9000015258789,
     96.87999725341797,
     97.20999908447266,
-    98.5999984741211
+    98.5999984741211,
+    97.44999694824219
   ],
-  "lastClose": 98.5999984741211,
-  "oneYearReturn": 0.19306453098413215,
+  "lastClose": 97.44999694824219,
+  "oneYearReturn": -1.1462820671773672,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "CHD stock holds the focus as Church & Dwight leans on household brands. - AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeVVoYUxZb0cwc0MwZXBIOGRTVWwtY3ZYekJDMmtmeUdFOWpTbG51aWhJcGJDeFVnSUpWZlg0YjdoSGRzbkpNN1hCcUtGSnRBeUVqOVVQOTBDdzRLSzJNRVRITHI3cm9aRW5GQXB5Um1CTnpyU1RZNkpZVDk0RVpCbEdGSlMySmNtR3BHb2RrSElsNWpCOXVKYk5wakRvdGhfTkRYYlI2RHljc3BKRXRYUXM4b1Y3c3dCZ0pHXzJjVFQzZw?oc=5"
+    },
     {
       "headline": "Church & Dwight Stock Beats Q1 Outlook as Portfolio Reshaping Pays Off - TIKR.com",
       "source": "TIKR.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTJldlJWZlAwb2dxelJKZVZrWlhram5xMjZWOVdZOHczSDl5cTVSbTJtc3FMZjNxbGEtSEUxSlB5VUxWREFPX1F1ZzB3aVU1RURLQnpCMW1PMVEzYVF0aG9jZ2M4aXJOeDBuUkxQTVZYSjVaMW8tUFlqTFR4TEo4Tzk1OXdQZXR2d2J5QlRlRFNVN21VWm4xQ2t3?oc=5"
     },
     {
-      "headline": "Church & Dwight stock steadies on its household staples model. - AD HOC NEWS",
+      "headline": "Church & Dwight stock holds its footing as investors await the next catalyst. - AD HOC NEWS",
       "source": "AD HOC NEWS",
-      "when": "2026-07-04",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUGpOS3UyYUVBbzA3c18xWW1aVVZZZWVBSXZlYmo4MGNkNV8tSFA5Ry1mUGdRYnlXRUs1dnlQUTJybjA1ZGJXZnZ1X2lmRXlNYU1RMHJsaG4wbzJ3dENHd3FxTVZERmI5MVdoMmpNMHgwVjQ5cWNZa3Q5MzlCaDQtUjBKa1EzR2tNeDBUQm42NWR6Rm1WazJpRU1DSGhUMkItc3haTEt5ckM1bkNscjNXVml0RmhleFB2ek5zcWdqMA?oc=5"
-    },
-    {
-      "headline": "Church & Dwight Co Inc business overview and stock context - AD HOC NEWS",
-      "source": "AD HOC NEWS",
-      "when": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2d3bkEzR1RYUnBGSWVPVUFfMHRfWTFjX0wzY01KN2xLTGFzZ0w4YVVMTmpTTTlPUWh4c3NpVVRNNTVvUHdoYnN5WFpvYlRuZXJsVXlHbnAya3pzYlNTNXNGank1b0lPc05yUWFBR00tTnpUYU9lVzJ0aVFnd3UwYWZULVZSMlhlNkFuSThoc21SbUR0U1R4clh5U05SdnpFbkhKTGk2UVNHLVdNdTdsVmUtOExkTjBURkJF?oc=5"
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOEZDSl9tVlV4MmJBeHFGRGVtWnZVc2ZFTjJnUzJ1c201cjQ0X1lTeUw0aEJSSDU4OG1XcGFXVjBCNzUwOGhGcmk2cGtOclduSlhRV1c4M3lNZkhTSkZjeEdENFdwai1FNVNsSWxNMzcxVnMtWXh2STRmTFhvdHMwcVkwUjRuRGp1TloxUWpKQ1ltVWVnMFZYd0lSbjI0YjVtNWlzRTNNTHlNRzBULTR1Wllfdmw4dDRrTktEWmRobmdzZ3BwS1cw?oc=5"
     }
   ],
   "insight": "Tracking Church &amp; Dwight (CHD)."

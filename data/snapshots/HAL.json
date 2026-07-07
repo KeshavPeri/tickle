@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-06T05:58:34.494Z",
-  "builtDateUTC": "2026-07-06",
+  "builtAt": "2026-07-07T05:39:54.555Z",
+  "builtDateUTC": "2026-07-07",
   "source": "yahoo-finance",
   "1m": [
-    40.130001068115234,
     41.029998779296875,
     41.220001220703125,
     39.18000030517578,
@@ -24,10 +23,10 @@
     34.09000015258789,
     33.95000076293945,
     33.0099983215332,
-    32.959999084472656
+    32.959999084472656,
+    33
   ],
   "6m": [
-    28.190000534057617,
     28.170000076293945,
     28.030000686645508,
     27.959999084472656,
@@ -158,10 +157,10 @@
     34.09000015258789,
     33.95000076293945,
     33.0099983215332,
-    32.959999084472656
+    32.959999084472656,
+    33
   ],
   "1y": [
-    21.520000457763672,
     20.889999389648438,
     22.15999984741211,
     22.040000915527344,
@@ -411,12 +410,19 @@
     34.09000015258789,
     33.95000076293945,
     33.0099983215332,
-    32.959999084472656
+    32.959999084472656,
+    33
   ],
-  "lastClose": 32.959999084472656,
-  "oneYearReturn": 53.15984378885935,
+  "lastClose": 33,
+  "oneYearReturn": 57.97032534310363,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Halliburton Stock Offers an Unusual Contrarian Opportunity for Daredevils - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVUxNdFU0YnRtUW9oVFRRMV9qN01YbXJCLWJTZmQ4RW5lZm9WVzJITE13anppQ1JUQzYwT2lxcWpfaGxsanYyZXF2U3NJdWhkbl8xTXFfVWNZSWFnZ09YbjlKMEhkX2xlVFhfOU9GLS1lZ0N4b2EyUUpSamlMMW5JNGNUWDdGa0JoX0tJVnN1dTlOU3diVnZwb2FPS05pa1RZOS1LUGlCX2pLM1hLUDg5ak5BdjhCQ2xw?oc=5"
+    },
     {
       "headline": "Halliburton (HAL) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDkybDRod1pvZUQtZjVnMmNYSHgyd0o3SzBGalFFX3ZGMmFKVVVYOThMaGx1cGx4cTVhY2tsQnRqUDA4MGZRX3o0c0pTaExnbkwwaW9laTIzN0hMNjdPTF8zdmJ1Qk5CVS1wSGdGUXBlZS1Qa0hKUjF3ZzNZdXVobG1LcUtfMlpkbEpxbl9EVlZGUUZKcE50S1NHbld3TERj?oc=5"
     },
     {
-      "headline": "Y Intercept Hong Kong Ltd Invests $6.55 Million in Halliburton Company $HAL - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-05",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS3VMUVRNbFFNODN0OWxVNTdCeDZDTFJSNmRYZGRhZ25OWHNSZUUtVEQxanM5ZUNYQ05iaHpod1dHeUhNVUdKVXlCb2l3OWJxSUZwVXV1TEJIUlNIV0FRWDEzcEVrbXZyRTNCNDEtOWkxWWkxNjlmcmtoTm82UFNZNFdXMVVBWHl2N2s3bEx1aEp0UEVHbXRlaUF2clNsYkZob0owbGJaZUNmWGRKcXp1cWpJTi0zRk9FRERhbUI5OU03WlQwN2xiSnJVYTd2QQ?oc=5"
-    },
-    {
-      "headline": "UBS raises Halliburton stock price target to $40 on margin outlook - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWTl5LU9oOU9RVlV0NWFfd0RYd09sWXp0WHl0RVZlN0EwTDBQMnRzT3dVSW9uNnYweTI2ajBFekVYNmFGaGtSenNwWWxWenNfWjVNVDVxSGpVQXdXWGxFRHJlVlQySTRBRE9HRmhsU0lCc0tVSDlxUFV3Z24ycDhjR3FYN2lOX2Y2M19JdExKRnlvSUp0U2VlYTFRbHUyU1NKUllLeGh3UzI1SkdEQnpDOE5EcGpOLXNTSnhOMGdmbzN0a0E?oc=5"
+      "headline": "Why Halliburton (HAL) Stock Is Falling Today - StockStory",
+      "source": "StockStory",
+      "when": "2026-05-27",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEw4Y1ljUnE2X2RjZXh3TWU1R3FfRjlmdXZoMC16cHFYb0tVZ0QwY1UwTHhJU2hIV0UwSm9ZdndNR3U1a0xnaGJ0ZU56RTRjYU1zaVcyS2thS0VxQ0NjLTVXQThaWTZDaFFaWDludFBwWDV3MW5qdUlRckRyODJoX0g2WmMxeGk4N096ajY3dGpZT2N0b3ZJWVRzeXJTV0tzQVFR?oc=5"
     }
   ],
   "insight": "Tracking Halliburton (HAL)."

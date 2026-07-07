@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-06T05:58:28.377Z",
-  "builtDateUTC": "2026-07-06",
+  "builtAt": "2026-07-07T05:39:49.321Z",
+  "builtDateUTC": "2026-07-07",
   "source": "yahoo-finance",
   "1m": [
-    91.54000091552734,
     91.06999969482422,
     93.4000015258789,
     92.06999969482422,
@@ -24,10 +23,10 @@
     87.54000091552734,
     91.19000244140625,
     89.56999969482422,
-    90.72000122070312
+    90.72000122070312,
+    88.88999938964844
   ],
   "6m": [
-    107.83999633789062,
     111.16999816894531,
     109.16999816894531,
     109.48999786376953,
@@ -158,10 +157,10 @@
     87.54000091552734,
     91.19000244140625,
     89.56999969482422,
-    90.72000122070312
+    90.72000122070312,
+    88.88999938964844
   ],
   "1y": [
-    108.73999786376953,
     108.9000015258789,
     106.37999725341797,
     105.19999694824219,
@@ -411,12 +410,19 @@
     87.54000091552734,
     91.19000244140625,
     89.56999969482422,
-    90.72000122070312
+    90.72000122070312,
+    88.88999938964844
   ],
-  "lastClose": 90.72000122070312,
-  "oneYearReturn": -16.57163600981676,
+  "lastClose": 88.88999938964844,
+  "oneYearReturn": -18.374657351566068,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Are Wall Street Analysts Predicting Expand Energy Stock Will Climb or Sink? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-05-25",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZVA0ZkpoR0VyQlM2LTBEV0Y3WjFUaFdvczVudmhLWHFMTDhaQnBpdGN4bGwxcjAzamVzanRKZVlfY2NSMVJMa1JYLXQ2NDFZNkNXbjlrOE9NZnYtaHA2a011cG41Tkd5emdHdFJlbzFlN0tUOVQ1N0lvQmxiNDJPb0hDRGdRNkVIX05XNmxBcFJwTm8yVDFtTzQ1NHI1eEtQcGZwY1ln?oc=5"
+    },
     {
       "headline": "Expand Energy (EXE) Stock Is Up, What You Need To Know - StockStory",
       "source": "StockStory",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMUs1SGpDVWhOMGEzRlVJY3ZScU9HamtEY3RuX3Vhb1dkZXN4dE9sY05MbjVGSk1mUTNWR2ZyTUw1aG42aWtqTmRnUC1SR0E1OHI4WUpnYkMxOThhTGZrTG9RamhDemxZOUVtT2RiX0gzVXltSGk2OU5Uc1U0aE1vR21JWWRrTlhKNWlSVEcyc3c5cU1NVE9iVnI1eHpBV3U3dWZNeDg4c3NJZTJmUjZnT2NB?oc=5"
     },
     {
-      "headline": "Price to sales forward of Expand Energy Corporation – NASDAQ:EXE - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-05",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY25KTzNKaFduVkNEMHViZElYWHZZdl9oT3NId0Q2TnlfaklnUWZHOS1PVzRucWsyWXJqdDY4YkZVM1lBRmVPNGZUeEFVeWFIU2RwSWhtSkxOTFBUZVlJbDR0N1NuLTZfcHN3d0psWlBVb1VjQmxVNHBhckEwTWVlN051R1NPM2N3bXNYa2VlU3lYc1VHMkVEbVNOZDI?oc=5"
-    },
-    {
-      "headline": "Are Wall Street Analysts Predicting Expand Energy Stock Will Climb or Sink? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-25",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZVA0ZkpoR0VyQlM2LTBEV0Y3WjFUaFdvczVudmhLWHFMTDhaQnBpdGN4bGwxcjAzamVzanRKZVlfY2NSMVJMa1JYLXQ2NDFZNkNXbjlrOE9NZnYtaHA2a011cG41Tkd5emdHdFJlbzFlN0tUOVQ1N0lvQmxiNDJPb0hDRGdRNkVIX05XNmxBcFJwTm8yVDFtTzQ1NHI1eEtQcGZwY1ln?oc=5"
+      "headline": "Expand Energy(EXE) Stock Options Chain | Quotes & News - Moomoo",
+      "source": "Moomoo",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNM1Z4eE5ESHEzWnhDZXFFdl81RVdrelpadGhuS05VNWFQWXNDV1RlOUItUm02U1RzNjFOSGM1VzlLRGxHU045UnFvQVZTX1NXQ0RMaldHbW9lNUdwblZMdjlMcUVldEZ4Y1l2OW45OTh1a3pvWE10Q2R5aUgwS2ZMc2ZYTlhOR0M5YmNqdlEtNkJvRk4tX00xSm9jbXVYdXZGeW1yb1lFOUg1UTNUTVhDQy05cHM4OTNhLWZmOERVLW1OVFI2SVp5ODcyeU4wUW90SHlKZDdzZUtfT3RVclh1TnVCdlVzTVY1d0pfdDc3c2NyTm8yY2Y5TUlvM3p5S05ORTN3YUdhb0U3bFRSM0Frcm84REJaSjdqNnhEZ3gwOW5IN1VPcVN3?oc=5"
     }
   ],
   "insight": "Tracking Expand Energy (EXE)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-06T05:58:44.792Z",
-  "builtDateUTC": "2026-07-06",
+  "builtAt": "2026-07-07T05:40:03.372Z",
+  "builtDateUTC": "2026-07-07",
   "source": "yahoo-finance",
   "1m": [
-    214.97999572753906,
     210.13999938964844,
     218.27000427246094,
     211.92999267578125,
@@ -24,10 +23,10 @@
     211.72000122070312,
     209.0399932861328,
     211.86000061035156,
-    213.92999267578125
+    213.92999267578125,
+    222.10000610351562
   ],
   "6m": [
-    179.75999450683594,
     179.5,
     181.64999389648438,
     181.8699951171875,
@@ -158,10 +157,10 @@
     211.72000122070312,
     209.0399932861328,
     211.86000061035156,
-    213.92999267578125
+    213.92999267578125,
+    222.10000610351562
   ],
   "1y": [
-    144.13999938964844,
     143.74000549316406,
     141.1300048828125,
     141.5500030517578,
@@ -411,29 +410,30 @@
     211.72000122070312,
     209.0399932861328,
     211.86000061035156,
-    213.92999267578125
+    213.92999267578125,
+    222.10000610351562
   ],
-  "lastClose": 213.92999267578125,
-  "oneYearReturn": 48.41820007052453,
+  "lastClose": 222.10000610351562,
+  "oneYearReturn": 54.51509504365378,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Morgan Stanley unveils key Monster stock price prediction - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-07-04",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWFZeUlXeEtaNmdrSmlGQ0dCbU9hMjd6TUc2OHlFQV8wamlHaFRma2lhaW5BSkxua011eXpHeUlhWVNqcGVJeFl2cFdoTkpzWVVlWU9CMEF1RmFHTUlTazhRdHJhV21UaTZILS01bXNpYXBlMDY0SDhwdGMyTjZpMlVPYmRsQWJtQnNfQ1Q5aE9TSjNBV1FLNWVB?oc=5"
+      "headline": "Morgan Stanley’s Wilson Sees Rotation From Chips to Hyperscalers - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmRoZUlZNGlrQkZCc1VCZmk0V2d5WHRxUmZJa2RseTR0TVBxZWtKT0hGUkRsQVRZdnpoWi1PbmllTXhSUnY4cWplR2ZrLXFyaTdLV0R6YXh4aFdUR2NJT0E0QS14QWo0b3RLd3VtbDlUWjZqYmNwOTBlUWNUZ2EzTkRFVV9CLXkxSmFyNEVVY1dBc1FmOXlEREpjUVpwWEU5Wnc3OUhqZzNpVk9LdDdPTUFfT1BDQQ?oc=5"
     },
     {
-      "headline": "Morgan Stanley’s $20B buyback raises bigger questions - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-07-03",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUt6VjJkTGFDOW1xOEFOdVJtQ3c3NXhRM2UyRmlsdzIyOGszcnV1ZGllblZRa25XRW1Bb1VOTzg2QjF4NnZHcUc4eDZhcDczeEJQMmRsQnBWUUszbENsRVVJSXhMUEpYS0w1VkUyUlVsMk1BS2JINFFfaVEzQjQyT0RfZEMtMTQ?oc=5"
+      "headline": "AI hyperscalers are poised for a big comeback rally as chip gains cool, says Morgan Stanley - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNjd4RjVzOVhIWTdKa01TaVRScHR6alNoTzZ1b0J6bkszaEhoREZVVk1YcEh0ejFWY18wZ0c5c2dad3ZtVS00ekNkcmEtYk1ySWk0OG52QnhKSEtjbFNKdmpaSklyLWJJdGxxOGtaZHZIUFdkZkdQNFpVakRpTk9ENC1OSUFLV3k2SlhlSG9JaVFhUmhrTGx5cno0MjFDTlI0U2EyaFhtTW5QVE1DM2Y5V3kwMkUtYzgtMHNuck9tQm1TVWxMdjRncmtpVEdMWkNpRGJRQWlnSk04OE53TE9BYVZsTGRZM0Itb0E?oc=5"
     },
     {
-      "headline": "Morgan Stanley resets Southwest Airlines stock price target - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-07-03",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2RUVkhMQUhqN0htYlFTR2xGWDk1Vi1UUDBJdVp0QzlEc0RZTVREQzlUaEYzTjJhZzRfdnVSVVhZNGFpMjRUM0wtTzdwVldpNmNlSElKTUtaMUpIMVRBSDc1QktDc3FrSDJGZEtBTUttOHd5R1c1eTVtY3dNRkdRc0x1ck00TEJ3dEpvV0JHNkYtTTk0V1ctZjVFRzl1dDN1QlZnQnp1MkI4QQ?oc=5"
+      "headline": "Semiconductor momentum fades as new market leaders emerge, Morgan Stanley says - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYW5iaC1sNVJZTEhPNk9QRlRsUW9UV1Rwd3VuZWltaDkxQU9iRGYzT1lJVW1JOEl0QnpPSkk4aXE5OVZ3U0Zoak5qajV2cjJOem0tN2wxZVpSRzlfcVNTV0hmMjhLMFV0QjhPQl95S3BXdWc0REh4Y1loN1FEbUpjT3lVaDhJck90bUxYbEdGSGNya2ZMMFpuTTF0RFhnUkx1a1NPTDByM3Fab1hJS19WbWNfS0Rrdw?oc=5"
     }
   ],
   "insight": "Tracking Morgan Stanley (MS)."

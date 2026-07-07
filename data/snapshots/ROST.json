@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-06T05:58:51.589Z",
-  "builtDateUTC": "2026-07-06",
+  "builtAt": "2026-07-07T05:40:08.884Z",
+  "builtDateUTC": "2026-07-07",
   "source": "yahoo-finance",
   "1m": [
-    223.82000732421875,
     232.6199951171875,
     233.05999755859375,
     230.3699951171875,
@@ -24,10 +23,10 @@
     208.8300018310547,
     212.85000610351562,
     211.89999389648438,
-    213.42999267578125
+    213.42999267578125,
+    211.36000061035156
   ],
   "6m": [
-    180.67999267578125,
     180.61000061035156,
     181.67999267578125,
     181.13999938964844,
@@ -158,10 +157,10 @@
     208.8300018310547,
     212.85000610351562,
     211.89999389648438,
-    213.42999267578125
+    213.42999267578125,
+    211.36000061035156
   ],
   "1y": [
-    131.5500030517578,
     130.77000427246094,
     131.55999755859375,
     131.2100067138672,
@@ -411,12 +410,19 @@
     208.8300018310547,
     212.85000610351562,
     211.89999389648438,
-    213.42999267578125
+    213.42999267578125,
+    211.36000061035156
   ],
-  "lastClose": 213.42999267578125,
-  "oneYearReturn": 62.242484017129286,
+  "lastClose": 211.36000061035156,
+  "oneYearReturn": 61.62727973150507,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Ross Stores options trading jumps with focus on August puts - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNemdUN3NWcmNXbEdKQk1qei1GSmFVbGRYOFdyekNvaTEwM012WGdjRW54c042QnlzazkyVG13Q0ZSeU1zLVBmaXV1aV9zUzU0T1FUZ2NHZ2NUMnpRMzljTlAwT1JHN3NVR0dKaDFCbW1ybHg0Tjh4bGVFbEZQeGhGTTBLNUN3Q0lqMlZJMDNmWUZkTFR3Z2lHTWNXM3NWeG5qWHgzaU9OZGVIWEYyRmRuVHNlcjN3V2VOV0QtRExR?oc=5"
+    },
     {
       "headline": "Ross Stores Jumps 80% in a Year: How to Play the Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUTFxenBPM2d0YllrN2daR05OLUVPSkNrM282YU54S3laTG9nX0xHbWtQOERlTFRTMUp3MnpFQ0xBeXk3bjlsV1hKOWZINVdvVmlRQ0NBdFRxWllxZ3NRUXEzZS1ZSGJHbU4wdEJUd2FyenJ4cGc3YTB4VVBDYThIaWNxWFdZc3RNSG8waXVoWDJOUEdN?oc=5"
     },
     {
-      "headline": "Elevation Point Wealth Partners LLC Acquires 21,431 Shares of Ross Stores, Inc. $ROST - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-04",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaUVtTm9Hbk1mUGJSRUpqTmRRNVlUNFhfeHltS1JHMkVGV1E1Wjg3UDlGSEpFeVM2NW5kN0ZRcnZobmUwZ0hvekRwdGVnMjY0TFM1a2VMWU42TndBMkFKd2Zhb0tENjFXSk1sSWoxbmlYbkdSa1U2NjloNGlYUmdDTnJSYjg2MTRhNlZVVE51ZS1MZ29iWUVwYkJCS1AxMG9mRW5zU0ZDcFNRa2ZOR2t0akdPT3prSWxSTjUxTmpIcjBUYzlJVVh4eUlZMUlPVVJwaWFsNWZrcEpsUQ?oc=5"
-    },
-    {
-      "headline": "Ross Stores (ROST) Lifted Full Year Guidance, Is The Upside Already Priced In? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-04",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORzdrTk52OFpLMXc2eHRPUUxRbTUzcElXc2xOb1dmQVNLMXFZM3VhSzlQeE5xV01YZDBsdDdVd2pjZUpEdm8xOFc2NG5pbGZLSWUyR3UtdDlhRHRSZDg3dHBTd19pZ1huM2hpaFhrLWdvWmFMUzdydGJOM29mWFE1NFg3UVI3d2R0UmI0ODZzTUNYcWVsTG13dXRxaHFYMmw2eVQwdTZGbktYSFVDVEFZNUw5MXhqUEoxUHN1ME82LWlZM1VrQ2kw0gHMAUFVX3lxTFBJODJoX0xMSnJtNkVBdXhpMV9YQ1BHTXY2SlFPS09ySGI2b1BfS09HVGJacENpX2FRRFJ4T25vLWxpTmcyelVMaE9fOHkzN2lURHlicFZ3NmdBcWNyaE82UTFSdTZhQmZra1ZCSEdXTU5YX2ZKZFlkRW5Ed0d2eWhtcDUtcFExNnJUbzZCNTczVloyNWd3aDJ5NzNldUpTTDg0ZjcxdXFlQXNmZXVjTXFxTTVsM1pHRW4ybzhrTEExUnVCVUJOT2ZrNFVpUA?oc=5"
+      "headline": "Ross Stores Defies the Age of E-Commerce. The Stock Has More Room to Rally. - Barron's",
+      "source": "Barron's",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54eWpQaElEbTFfR3dLNzJqRVgwckhMSDlHb3EtMVJEeXlCOExib0JOZUFOVFR3cG9kTmF1bnBnbXVySHFYeXhON3lqa0NKZkpzTVlwM1lYRkQwdkNqbUFEcmhpaXc0c0VoLUNxM2ozS3pRaUlCZkp1SHY1Ul9WMGc?oc=5"
     }
   ],
   "insight": "Tracking Ross Stores (ROST)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-06T05:58:10.738Z",
-  "builtDateUTC": "2026-07-06",
+  "builtAt": "2026-07-07T05:39:34.786Z",
+  "builtDateUTC": "2026-07-07",
   "source": "yahoo-finance",
   "1m": [
-    310.9700012207031,
     300.57000732421875,
     312.5299987792969,
     310.6600036621094,
@@ -24,10 +23,10 @@
     340.8800048828125,
     338.25,
     348,
-    351.9599914550781
+    351.9599914550781,
+    356.0299987792969
   ],
   "6m": [
-    380.8500061035156,
     382.19000244140625,
     383.1099853515625,
     381.04998779296875,
@@ -158,10 +157,10 @@
     340.8800048828125,
     338.25,
     348,
-    351.9599914550781
+    351.9599914550781,
+    356.0299987792969
   ],
   "1y": [
-    328.1300048828125,
     322.7300109863281,
     316.9800109863281,
     317.3500061035156,
@@ -411,12 +410,19 @@
     340.8800048828125,
     338.25,
     348,
-    351.9599914550781
+    351.9599914550781,
+    356.0299987792969
   ],
-  "lastClose": 351.9599914550781,
-  "oneYearReturn": 7.2623613255899,
+  "lastClose": 356.0299987792969,
+  "oneYearReturn": 10.318218529227345,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is American Express Stock a Millionaire Maker? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-05",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNVpGUTgycVYxVjNXNGFfTDZ1c1dDNUpqZWs2SHpEX1hWbmp5Sl8xTzNSam5mY2hqLWJkZXhkMUxJMmVvdktIYTdBQTBZUnNqaTk3ekdJRkhaR2ZkdERFZjlFalNOREZEdngxM2M0cERQMmR1QTNBVUZCUnp0RExQNDFuZmlOZ0hFX3p2S1l0Qlk4X1ZBN1EyaEhxRmFzNi0yTnZDMTFCLXI?oc=5"
+    },
     {
       "headline": "Is American Express Stock a Millionaire Maker? - The Motley Fool",
       "source": "The Motley Fool",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmpqd19HUmxVVFJPMFZBSkJoeHdRd0k4dV9HaGdmNEJYVDlNUGJtOGw0WDNGLTNzSDFxNmtiR3RELUlRY01FbXBoeXFXcFVnT3ByODN5NVN3N29HTllnWVM0Uk5kZ1ZyYTVOek9jMmhBS19nbVQwSmhvMTl2RjdsNDZGeWhUd3BNYlhmZlFZQm1QUQ?oc=5"
     },
     {
-      "headline": "Is American Express Stock a Millionaire Maker? - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-07-05",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS2JHREs5WHpnVFc2am84WjVQWF8xZEJJMkhpb3hzVTctOEJrUG00Z08xLWpGLUFPLVAxNjF6STIwa0IweDVLNVdzczRRdFNGZW1qaW1UbTRBSmhNNHhyNTZndEdNQ2xSUVJ2clhMb0xFUTR3R3lDZW9jR2MyOUJNYm00SWlpMjBHRmxBV25rVzdkcC01M2dpd25nZE13YmZWdFYzT2FuZm5qYURiSHdTY0haN2hJSGtCbWtnY3JpSmJxZ0Rpa3ZkZkt3?oc=5"
-    },
-    {
-      "headline": "Why the Market Dipped But American Express (AXP) Gained Today - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYU53TzhtcUhTcGthQkdIaE5PUGpvWkRiMmkxYnlOS2JIRWw2aDBiTVhjQUlOWHlzcW02YzNidHBZc2VNRE1ZTF85bzk1b011UjZIbVBRN2lsaGNlZkRDb0FJcU9wUEtydzQzUTNDdnlYa0hqMjRMc2pVTk45MVBHZUZHemtPRmc4Y2tBb2x4MEk0UUYzNFJiVGlkNGhIU0oy?oc=5"
+      "headline": "American Express Co. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQejA1eWlOcl9jcWpCeXhqVDNZa0tSaG9NUXRKMDhtQmVnSkVjRXRqR3F4R2NDc09jNU1uamo2bU5NMkRVeTlFN2UwbVBONVJLcS1SU2tpU3FOc0RIWV93bnJzR1dZczRmUEpMcmtRejRSYXVVTnV4czJMcEFYeUFtUmJEa1JlVTBfbEY2cWJNMjE3aWVCTjktaUhfOGhBUkpJWUZvRDBTNy1EaGtCdTk4V0VTSXFRdVBoN2Zjbl8xUUQ3bGxmNTR1VnhzcFNlcmUxRjdOUGs5d1J2M2h0Qk52LXVlcFVwNDBlV2dsYjlBNmpvcHVSTGFHaDZLSjljanozVWFJ?oc=5"
     }
   ],
   "insight": "Tracking American Express (AXP)."

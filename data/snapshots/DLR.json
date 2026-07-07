@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-06T05:58:23.148Z",
-  "builtDateUTC": "2026-07-06",
+  "builtAt": "2026-07-07T05:39:45.078Z",
+  "builtDateUTC": "2026-07-07",
   "source": "yahoo-finance",
   "1m": [
-    187.25999450683594,
     183.5,
     188.6999969482422,
     186.7899932861328,
@@ -24,10 +23,10 @@
     190.5800018310547,
     179.5800018310547,
     176.32000732421875,
-    173.3000030517578
+    173.3000030517578,
+    173.6999969482422
   ],
   "6m": [
-    153.50999450683594,
     153.8800048828125,
     155.19000244140625,
     155.00999450683594,
@@ -158,10 +157,10 @@
     190.5800018310547,
     179.5800018310547,
     176.32000732421875,
-    173.3000030517578
+    173.3000030517578,
+    173.6999969482422
   ],
   "1y": [
-    172.60000610351562,
     171.63999938964844,
     170.8000030517578,
     171.17999267578125,
@@ -411,12 +410,19 @@
     190.5800018310547,
     179.5800018310547,
     176.32000732421875,
-    173.3000030517578
+    173.3000030517578,
+    173.6999969482422
   ],
-  "lastClose": 173.3000030517578,
-  "oneYearReturn": 0.4055602105960352,
+  "lastClose": 173.6999969482422,
+  "oneYearReturn": 1.2001850185965381,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is Digital Realty (DLR) the Best Data Center Stock to Buy and Hold for the Next Decade? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2dfSml4VFFNVUhlSF9URmJDTWNlazJObi0wQjlZNlNHaXJ4MHJGanlZYXcxVWFBSE9PYnQtQnpUMzQ0ekpoRG1SOFVlUkJ0UGE4YnR1NXNOZjBXLUVTSklYdFhWSGk5S2FVNlRTbGl6dWZGdlFYbWwzczBGUFQtRFYzOXNkX2tBQXM0UDBCaFVFNThI?oc=5"
+    },
     {
       "headline": "Digital Realty falls 5% after taking $3.5 billion stake in Blackstone's Virginia data centers - CNBC",
       "source": "CNBC",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMW5QOTJQMThaZU1ONlRfaFc1Q3B4ZUdWNHVRY1NsVXBwdDRjQVBJOXU3NHY1bFZqTzkzN2dMQks0ZkZ4OWFDUEpvWUdCUmpScWZTdG41QXM2am9VQUdlVDhpQldSa2N1b1M3VVQ3anNvcXZHTlg5UFd0MTdYQmZUSy03TllUQndFVVZReDJtWnpRM0k4SnNybUprZ0ZoNndCR2fSAacBQVVfeXFMT2N5ajhINC1GaDBMbkg4a21FTjdrVVRjeUpuNzkxMWp5Unlja0RobmNzRVd6SllTalBKYXdzcmx3Yl9wRU92Wm9JZklmZER0QW1oeTg1bkNDeG9uTGxPY0dIM1B4Y3ItcS1tVnJYbUFsVTRzdHRlZzVCdkp2MGJEcHlnRFduWU5Zc1ZfeURzd0dwb3ZxSmFNWE1UczA4bmdFMnlNRFdsNDg?oc=5"
     },
     {
-      "headline": "Digital Realty to pay Blackstone $3.5 billion for stake in Virginia data centers - Reuters",
-      "source": "Reuters",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU2dtcGYyUW8xMGl4aGUtWlVjR0hzYXFROUUzM2c5WlJBYUlRNVBTMHdlTjdnN2ZMU2tLWVFycmVkRlJFQzhHYTNlX3hQWjNJWTk3NVhrNURhZlhEVmQ2R3M1TU5hRktSRlRudVVmZnU0SktEVEFic3ZWajNTa09MNUxPd0lJVHlQS3hfUUplOEJ0RFJQUHZDaG5qdjkycFRTNDFKX1hBMi1OWDQ5aXBIZWlrNjFsakJ5UVVrU1N0THozRUZXdXFGZm9wUnJTdDVz?oc=5"
-    },
-    {
-      "headline": "Digital Realty (DLR) Stock Could Be 35% Undervalued Despite $3.5b Data Center Deal - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-04",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMXdVWENDZVFIUXV3bWdxWGNnaXZUQnd2cnh4QnpkX0JDWDBRN2VORFFWc3hCTVBjMHF1cW5ISmlkTU1Kd0oweWgzOUl0Zl90WGdsc3M5Y2dCbGxvamUxbDhEeUp4T1phTzN2c2JYNV8yNVlwQjNqZnIzX1Y4bExwT3djTEhfbkZKYnUxcjVscDhkdFEyY2dRRGNneHVmczRsckRPMzlSdUduUUlCd0lpQUNwUzZDbWVTbGNfOW1OaWtWMlVUWFBEcGZBUHVoSmhDY1FVYi1n0gHbAUFVX3lxTE5nTkRHSWMtd3pkRUFXZ2VmTXFEMjc1M3B4bUczOTVWaG15Zm9rYTBMWU5Za2hVTVdTcHhPek1OX2lxaGxNbldnMFRLWmdQbzljcjVSMXhxMmhEWVN5bGc1eW0yVVUxY3pZaVlaaHlqZzY1ZXgzQ05BVWI3QlNBODdBcTZhNzZTNmFIMzVmTUVOUmFiZU1UcTRkTzhMQlhpWUJ1b293YnliVEZFZXIxdHpVUGMzN1FRR2hmYmJRTUhDbWJoLUVia0RtNzFkSjl4Zkpua2Y4Ul9MXzVsaw?oc=5"
+      "headline": "Elevation Point Wealth Partners LLC Increases Stock Position in Digital Realty Trust, Inc. $DLR - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOU1kVUNwSFBpYWdZMkFnYWFucndaM2RwaEFkclNGZkR6YTE4dTVjWUIzdlFKVF95X1V5akNxNXdIek1MSUNSY2R4Unc1SnBRcHNBc2I5dDhWNzg0NjJ1NHpnLUVWcEJwV3pFZnZHTHgwbTF4eE1STGthdkFCZzdDZDBkMW41dmpfTkxubElyVHVvODFfVXZ4QlVYR2N6WWcydU5BMmZzRk1WYk9vRm8ybHVMSTNPZWZCcGNtVlVfcU9HRHBXS19hQzZMejJDRlVKV2dPNVR2S2d4MnNQejRCQzV1c2RlUVEx?oc=5"
     }
   ],
   "insight": "Tracking Digital Realty (DLR)."

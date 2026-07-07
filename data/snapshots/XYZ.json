@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-06T05:58:59.174Z",
-  "builtDateUTC": "2026-07-06",
+  "builtAt": "2026-07-07T05:40:15.342Z",
+  "builtDateUTC": "2026-07-07",
   "source": "yahoo-finance",
   "1m": [
-    74.1500015258789,
     69.80000305175781,
     70.88999938964844,
     68.1500015258789,
@@ -24,10 +23,10 @@
     78.0199966430664,
     76,
     77.12999725341797,
-    78.83000183105469
+    78.83000183105469,
+    78.91999816894531
   ],
   "6m": [
-    65.1500015258789,
     64.94000244140625,
     66.05000305175781,
     66.2699966430664,
@@ -158,10 +157,10 @@
     78.0199966430664,
     76,
     77.12999725341797,
-    78.83000183105469
+    78.83000183105469,
+    78.91999816894531
   ],
   "1y": [
-    69.2300033569336,
     69.41000366210938,
     67.83999633789062,
     69.01000213623047,
@@ -411,12 +410,19 @@
     78.0199966430664,
     76,
     77.12999725341797,
-    78.83000183105469
+    78.83000183105469,
+    78.91999816894531
   ],
-  "lastClose": 78.83000183105469,
-  "oneYearReturn": 13.866817865984727,
+  "lastClose": 78.91999816894531,
+  "oneYearReturn": 13.701187156149658,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Director Mary Meeker receives 246-share RSU award at Block (XYZ), holds over 425K shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXN6T0RRbFNmSTg1UER3dng4RjlGTkZiV0F6dzN4bkotVE4xaWhNdkJ0VTViTEkyRGtBTE1KQTdjVE1QbzUwbG10YU9IX2Z0bG5TZ09ZTFdzSDh3c1FZUWJrT1A3VHJYZ3ctN0pDcEVOWjVONG8yczRzX1dQVFY1ZVJIMnlIQ0FWZXFmZ0lYOXI0eUdCOGQ5MHhUNXZweElyb3BHRg?oc=5"
+    },
     {
       "headline": "XYZ Stock Jumps After Block's Record Quarter, But One Analyst Remains 'Skeptical' - Stocktwits",
       "source": "Stocktwits",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaThPRWZtRG55czBGU25hLWtGZ3F0SlRMaWI0SW1QTENEd2ZZbWUwSXNXazFVVV9CU0lNWnozeFhvMkFta2tVMkpodXozekhBb3l1VG4zX2ZUbDk5Q0VzckZOemFGZ1dsYnVlSjlSeEhsQXd5aU5ENWFycExGUVJhTGdlcmRQV0I3bmlLRzBXMXpKekNYSWdyb0pQd25lTkZTc2ltNGNQNmVPQlloY1NsNUhDc3pyV2dpMkdRSm5ULVN5M3ZiMGo3Wl93TkJNdw?oc=5"
     },
     {
-      "headline": "Block Inc. (XYZ) A High-Growth Large-Cap Stock To Invest In For Financial Services Exposure - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-20",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMy0zMFliUDNDbkl5SVRmVkFpZ0d3RnhFMmRxdlEzNHJoQXJuWEpfcG5QSFRHUEpSV2pyYU5ZNHJRTFpvR3ZjeExFWlVmc3ptWjg1RjRmenBRWGRacTd3Nnd1SFpoMEZiczY0M2NKa2pxdU5lWGFaZE9aMy1Ra1JTX3RURnd3enF4aEVIcmgwQVNiSkFz?oc=5"
-    },
-    {
-      "headline": "Moran Wealth Management LLC Grows Position in Block, Inc. $XYZ - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-05",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOVd0SWM4c2swQ2FUM1ZwXzR3MGhHa0RTMlR3MUdtMVpzMWZad1gxNnRldm9JLU5iQVBOZXhwMkVZNi1KT0F4Ny1Mc0JQMVlaSVZtajVfOHNsU0pLVkIyTEFEMVRFWVIzeGg4U1F1N0NYUVBGcWFWVGJlMHllalAtZV9NRkxkOG1QWlV4ZjJmT280TFZxbG1Cb0pOX0hsZkYxVkNsYlhGa1FjQ3R2UVNlai1xRE0wNHdfQm9qSQ?oc=5"
+      "headline": "H&R Block Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWXhNYkZsTXk2WG5vQmYwdElWb0thMER6djkxdG5udWI5MS1JOTBRQ3NJZU9YZkpSUUozempXX3d3VHV0TXVtUHZVbGJEUnVUQk5ySFNBUTUya0RjckNwVjlWeEdQdzU2V2EwRzVaaFN1dTF0SzUyajFFQmR3N0dmWkVSMDVxT3M1SlJtNFE0TkY3QVVZdkt3S2NuTUd0dGNnQ0ZmbXg4ZEJxX3ZFN3ZoWDM3aVZCeW9xSXY1TzJEdFNaOUZCTW5SVGtfelQ1QzZianJHNV9ET3NGOGlLcnA3aQ?oc=5"
     }
   ],
   "insight": "Tracking Block, Inc. (XYZ)."
