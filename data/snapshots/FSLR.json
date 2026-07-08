@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-07T05:39:51.671Z",
-  "builtDateUTC": "2026-07-07",
+  "builtAt": "2026-07-08T04:46:56.927Z",
+  "builtDateUTC": "2026-07-08",
   "source": "yahoo-finance",
   "1m": [
-    318.25,
     314.95001220703125,
     279.010009765625,
     275.3900146484375,
@@ -24,10 +23,10 @@
     235.9600067138672,
     232.0800018310547,
     224.57000732421875,
-    233.05999755859375
+    233.05999755859375,
+    227.72000122070312
   ],
   "6m": [
-    269.3900146484375,
     272.2099914550781,
     269.69000244140625,
     268.25,
@@ -158,10 +157,10 @@
     235.9600067138672,
     232.0800018310547,
     224.57000732421875,
-    233.05999755859375
+    233.05999755859375,
+    227.72000122070312
   ],
   "1y": [
-    177.05999755859375,
     165.47999572753906,
     165.99000549316406,
     165.08999633789062,
@@ -411,12 +410,19 @@
     235.9600067138672,
     232.0800018310547,
     224.57000732421875,
-    233.05999755859375
+    233.05999755859375,
+    227.72000122070312
   ],
-  "lastClose": 233.05999755859375,
-  "oneYearReturn": 31.62769726203579,
+  "lastClose": 227.72000122070312,
+  "oneYearReturn": 37.611800278047824,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "First Solar Stock Keeps Falling but Deutsche Bank Upgrades It to Buy - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1NVSmZYSl9qeXZBQjdzUUtLdlprZVlxZk1Fb2YzSTdEMHlEV21JRVd0T25FaHl5WGJFTEVlWG9DbWhTY00zajZVUDFkR0NfRVRKRFJDdFhPYVFqRWtuNGdMTTB1OUFkeFhCYTI0eVMxN2UxZ3pVaUhZWE12alY5Q3FIVzNMTTJv?oc=5"
+    },
     {
       "headline": "Why Is First Solar (FSLR) Stock Soaring Today - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeUNKaWVzaVpMQlR5YW5XZ2tVak5sTnZIYWo0dmpXd0ptV1MtUW9Za3huNzR6U19wNE1MWlZSMjhLLTFSb25oSnd1MHFvaTZEMXg5bUk4Tlp2Q0pPOUk1UnJtRW9LVzBvZlpOTzZiNElUbXdlUDZxSko1TlNENGxOd1dSZkFvd3BPWFhYQ01HV3B2VDMwOGc?oc=5"
     },
     {
-      "headline": "What Happened with First Solar's Q4 Earnings and 2026 Guidance - Kavout | AI",
-      "source": "Kavout | AI",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTEwT2c5ZHR2Mkk0V2RsNXhrdzBldVBaRkx0NEVHb0N5djQtTU9fODZkRWthaUxNd0hfZU1ZeXZlbTkyQnROWnZodjU0TVVqZVhFZTFIRmRkeVR3b0pMelRMTEU4VmlPRjJPMVUtNzU5SmY5MGg5WV9NNl9tYjN6c3VyRmEwRm5YS3NCSmw3WmxINmQ0NTVoSUZEY0JtZw?oc=5"
-    },
-    {
-      "headline": "Why is First Solar stock surging today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbndGOURtTVhMM3o1YTlZZTcxUmxNU19fTGxrN3UxUnBxSUpwRkV0RGJnWnpPZVJXcGhjUG50dXo2bUEzR09PS0dVZENUeko3Mzh2WDliY21lbEJrMUljajA2b2trbHM5ZmczNy1vZDk3WWRaYVM4X2ZGd1ZoMHcyQ000b2R4ZHlVa1lQZnl4TmJLRndDOVNDc0NqYktNWHV2clE?oc=5"
+      "headline": "First Solar (FSLR) Gains On Tariff Optimism, Is The Stock Already Fully Valued? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV21fZ3dyM0ZUdENvMXFhMkxhVGd2TEpycG9aLS1mN3lpbk5ERmdkNy1EUEk1RW9ISHR5ejNWZGdqTHJtZllfOU44bmhGVTZRdllxM250QU4zeFRWUjhvZ2MtVTRxM1BtSTBWbWJ2aktPWFlUSmowd3NIbTItNGNPLUZ0ZnJpSkxRQlR0Skx1TEx2X0Z5NjNEZGp4bHRtdDZEMmRyblRpS29rREFMQS1lMF90NTF6R3gwRGFneFVoclgwWUVnRWloVTFid0l0QnRtQVHSAdcBQVVfeXFMTlFjZ0Z5RGpNbmRuMldZeWQ3a1g3YzNwTW42RXhtOGx2cGtFMmNWT1pUSWJnOGE1blZrbDhJZzNNNnNESVh4VUFjOTNaV3RmWWg1UWx6MlJTX3NFS2N5dXZTZXgyWVExOFhkcUx6bm1YR0M3MXB4ZWYwZHVSRnJYaXZ4ckUwWEhBalR4XzJqQ0wxTmllYmI3OFIyVG5WbHptUDY0Y0lMTkhFNXNDVzZRZy1kNTZvbHc0R2RIT2NKMzJHZTFNTTF5akhyTEJUVTJ3Xy1yQjEwS1E?oc=5"
     }
   ],
   "insight": "Tracking First Solar (FSLR)."

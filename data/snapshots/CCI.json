@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-07T05:39:38.581Z",
-  "builtDateUTC": "2026-07-07",
+  "builtAt": "2026-07-08T04:46:39.044Z",
+  "builtDateUTC": "2026-07-08",
   "source": "yahoo-finance",
   "1m": [
-    88.62000274658203,
     93.79000091552734,
     94.48999786376953,
     91.79000091552734,
@@ -24,10 +23,10 @@
     75.7300033569336,
     76.52999877929688,
     76.5999984741211,
-    74.91999816894531
+    74.91999816894531,
+    77.22000122070312
   ],
   "6m": [
-    87.41999816894531,
     87.8499984741211,
     88.27999877929688,
     88.66000366210938,
@@ -158,10 +157,10 @@
     75.7300033569336,
     76.52999877929688,
     76.5999984741211,
-    74.91999816894531
+    74.91999816894531,
+    77.22000122070312
   ],
   "1y": [
-    101.8499984741211,
     102.58000183105469,
     103.41000366210938,
     103.97000122070312,
@@ -411,29 +410,30 @@
     75.7300033569336,
     76.52999877929688,
     76.5999984741211,
-    74.91999816894531
+    74.91999816894531,
+    77.22000122070312
   ],
-  "lastClose": 74.91999816894531,
-  "oneYearReturn": -26.440845074748214,
+  "lastClose": 77.22000122070312,
+  "oneYearReturn": -24.722168217659526,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Crown Castle Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTmI1X1dhNHJ3VDhhRTlXNkpGeXRIM21WMk00YjRwWk12VFhCckp0YWJ5VWU3b0diTWQwYXlhYWJTam5OWXJhZVFFalpuRUNoOFRsOXMwcVBHbndDLUNhWk9NS2wzek9fWlV5cG5FWncwWFM1dVRtU3IzdEIwR2NfZ1ZZeFVaWDY3dXRKMGk1NU0yelp4d2R1MnV1cTY3NTdtbmRWVEZNWllzUUNfQVNUcXJRdU9xdjRKdDkyRFdnT1NMQ3UxR21ibjR6N3M?oc=5"
-    },
-    {
-      "headline": "Crown Castle: A Pure-Play Tower Bargain After The Fiber Exit (NYSE:CCI) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUUlVMTVGdllhZFo2dXBNcHFpV1BuS2F4YnZuNFZqZDY4MVZPS0xPblhVRmRld0xzZ2FIY2dRNGRPVFVJamhCZnFrNjlEM1c3cW1CN0MybzgwcV85OVAyelNBcy1NSEhiNFdSQS0zVV9tNlA3WEJwYkNTQWFVQkJiNXh4OHJMY2VyYWk4TGhYdHdUMzQ4TWwwR3NKV1E3WVFfZlE?oc=5"
+      "headline": "Crown Castle Inc (CCI) Stock Up 3.1% and Still Undervalued -- GF Score: 63/100 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVHRBbjlLSXZNQ2tHaVZRZVVsRmlCM1NaRUMyMkpSZWhVZ3dHdTR6b1VHSVp1ci1XcWRJZ3U2a1dBVktWN2VIMy1GaHZQVzFvNlJfT1FIY1ExMGpZbFRLZkJ3NWxRV3FsTW5hcDJMa1k4MkZMcGNrOUw4OWRSc3c0bjJxUFprRVlPaUhudGdxeEVmSXAtY09ULUpkdU1VVHpNeDZyU1NDbVdqRWwx?oc=5"
     },
     {
       "headline": "Crown Castle (CCI) Stock After Fiber Exit And Buyback Reset How Fair Is The New Tower Valuation - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-13",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX3hqcVV1TnBPczZ5R2ZUNVJBV1UxWVpFdklDRHYxck9WY0ZMNndzTkNodnpuaEwybkxIaEtRMFF1YWRBQ0ZBTnNKOUJPYmwteDUzMUVGYWJsNW5jU01GdHR2YzQ2QzdTdzVDNlJHNXdudlc4REFJdzRCWXFqU0dKV1A4eEVXODJ2WjNNYVdBd01rVlBvZTFseg?oc=5"
+    },
+    {
+      "headline": "Crown Castle Reports First Quarter 2026 Results and Maintains Outlook for Full Year 2026 - Crown Castle",
+      "source": "Crown Castle",
+      "when": "2026-04-22",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeEtqcjZQekp3OEVSQWFRdnhuT1hBZXNnM1BJRV9ZSDRHWWxDM2xFdGYyaV9nVHQ4R1hpejZtcVRuTU1KaEw1bGRYdGY1LW5oTkxQVTdiU3g0bUdtOVRCX1dETGE3dEtYRHNkZUhLeE1JWkZna0FCV2ZSZDdSay13Nk42N2p5VU1XZGVCMDFsVVVFWi04cWtNMFNJOHNfa2pIQm4zWGVZc0xiRTZ5NXRpOGhhMG14bmZVWDFrN1BHejhhUzZBdlVKdQ?oc=5"
     }
   ],
   "insight": "Tracking Crown Castle (CCI)."

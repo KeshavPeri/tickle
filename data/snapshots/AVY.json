@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-07T05:39:34.305Z",
-  "builtDateUTC": "2026-07-07",
+  "builtAt": "2026-07-08T04:46:34.219Z",
+  "builtDateUTC": "2026-07-08",
   "source": "yahoo-finance",
   "1m": [
-    155.88999938964844,
     153.25,
     155.17999267578125,
     153.00999450683594,
@@ -24,10 +23,10 @@
     162.35000610351562,
     163.1199951171875,
     166.97000122070312,
-    166.0399932861328
+    166.0399932861328,
+    164.35000610351562
   ],
   "6m": [
-    181.22000122070312,
     181.7100067138672,
     182.5399932861328,
     182.64999389648438,
@@ -158,10 +157,10 @@
     162.35000610351562,
     163.1199951171875,
     166.97000122070312,
-    166.0399932861328
+    166.0399932861328,
+    164.35000610351562
   ],
   "1y": [
-    180.3000030517578,
     182.24000549316406,
     183.52000427246094,
     184.6300048828125,
@@ -411,12 +410,19 @@
     162.35000610351562,
     163.1199951171875,
     166.97000122070312,
-    166.0399932861328
+    166.0399932861328,
+    164.35000610351562
   ],
-  "lastClose": 166.0399932861328,
-  "oneYearReturn": -7.909045770526943,
+  "lastClose": 164.35000610351562,
+  "oneYearReturn": -9.816724566725005,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Avery Dennison Corp. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSkpBMUR5T0l4MTN6OVNZdkcxZzAza3Q3cTdUWmRLbUJQbG91Sm9qMkpUOG1wbERLVk1yNTdjYXpidFdoQzA5MjI4OHRGUFNwZG96aXFQTXhDVlVSWnNKbU9lZi0yNTJFWTkwa2pQeTVBZ2RRakpTQjA5UTJPZHJ1eGJPMmtROGw3eFo1S2hpLU9qaEdiMjI1QmpUWHVRRFVTNksyMl9ZQ3cyUFdHcDNWcWg2a2lXcXptYmpCMjNPNUxLaUVfdlJmRFlqdHVhVzNySzc4VjFLSm1TeTM5SG1Kd21FWUtEYzAydkE?oc=5"
+    },
     {
       "headline": "What You Need To Know Ahead of Avery Dennison’s Earnings Release - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlVCSmZJdkptZkN3ckdiQmxKRVJLZ3dMNE5EQVNJVVFSSjdSQWpaUTllQzlzbTFJUkdsakhidGZYdm54SmdRUDlnbENxNTEtVWE3RWllS0JMSFV6OXJ5VmwxalFRRi1yZXdrZE9SdUJ3Y2VIbWVPd2ZmV29nMHVYYkl5THRhZFJWbXJOam1aa3hkQlZYOFEwWHlZSTlrVUlx?oc=5"
     },
     {
-      "headline": "Avery Dennison Corp. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORWJ5b3YxNFJGcE0wOVBiRW9SYW56RmZveElpR2F5c2xsTGFuc0QtUzBiMy1YMDBsTDZYMHBZTmxxSGl1ZktsR2xjSDAyXzNRazB1TUkzNHMxSlpsYVl5aERrdmpvd0hUSEstYTVUVm5LRi1PVk1waUFlWE5aTngxVjVtYW9Pb3k2aWUzWm5yZXFXdkhoZm9GbHZHSUJBaUFxY3h0cGsyQXBxam5wcGRGWUFKWmQwUVdlQXdyczV0V3BlZWk1ajFHYndFaHVrV0Y1bnVPQ1FjY1hvLUJZS2U2UGc2VQ?oc=5"
-    },
-    {
-      "headline": "Avery Dennison (AVY) Q2 Earnings Put Its Smart Labels Valuation Story In Focus - simplywall.st",
+      "headline": "Will Avery Dennison’s New Materials Chief Recast Its RFID and Sustainability Story for Investors (AVY)? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-04",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaERvbHl0bXdzdjZ6VUFUVmYtcjBQM3VMNHY4OGM0MHJJcXk3bVU4U2w4bUZjaGxqWGNIbnFsMFlxd3JnRTQzQXQyRW9LT2VPa3ZoZjBtTDB5Z1EtNmZRZVl5TUxZNzBDWjRSOUU1N1R6Wk5hWURUbmQwQVl6cURDWDVxZjVKdS1aZU5WRk1CNWVhTVBnYld0MmE5dmkzWGJqYWdLalR5MDJPVDdQeFRJZ2hOOHV5dmE4WnlOQ1NibmlSLU5pdkVRZmhTQdIB0AFBVV95cUxPRUpKdGlFT3FlOHFkZVZSWGlJQm9WcVhpSkU2X1Mta1cxMHB5ZmZlNkJlNm04bFNPamw1MlFmM09zTHFnN0dIUGNtaklCNVdQMDdzTC1Dc2stTl9PSkpPcEFLeXNJVzRxeUFqS0w3YzQwVWNhQnJrNHdDUWg0TUo4NHhrSTFUakZwN2dCZTdBWkpSSzJoRzFUaXFZVXFTWFlLQUZ2Y3lfTEVWN3BFYkZURzZTa2JXcjdTRW9DWTBvNGRLMHZBdHM3S3lzV19Dcnlw?oc=5"
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV1U5MHh2WGtPS0dHU3NOSmVQVXFoZVV4TkNwemNyVnJRMUMzY0hlbXFfc3M1QkZpZFl6RFFrbG9ScnJFT3VxODFOeUUwVEtFMllKQUZjaWlKRTJHWExZREtaTi1pTmdRaEtlMUR6T2IyUUVLMEthZ3haMlBlWEE3U1RjaDNMZUNBSGpuTXhZTDlrY1RtU1FtMTZ5SmVha0VxcXlVR1VJVU81UGZSbVFpWGdENTZBTzFnUHJhUTZHaWZnc2hpSWs0UTJRMNIB0AFBVV95cUxOQkhaR1ZWMDZCWXVZZHVOeXhPcTk4SXhSdkd6NmN0Zl8wY0steWUxekNvbW1FcXQtWWZzZkJKeFZhVXZuUXRPa0FMZGhBWmNqYTd4RndDUEpaQU9FcnpsekJBZjhhb1g2MHlEVk05MUw5eG5OdWhSUVF3Mk9IZFhPNWsxeGVuWXVjem9jWnhJOGNWdnRLbmd4LWdadUR5aWk1YURydG1McmgzMlZQU3VmdnowU2c1WnBzbE16TzFLZ0d0dTdRbnBsOTg1ZTU3bXNQ?oc=5"
     }
   ],
   "insight": "Tracking Avery Dennison (AVY)."

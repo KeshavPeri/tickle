@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-07T05:39:42.509Z",
-  "builtDateUTC": "2026-07-07",
+  "builtAt": "2026-07-08T04:46:44.823Z",
+  "builtDateUTC": "2026-07-08",
   "source": "yahoo-finance",
   "1m": [
-    126.5,
     130,
     121.63999938964844,
     124.1500015258789,
@@ -24,10 +23,10 @@
     117.45999908447266,
     117.01000213623047,
     112.69000244140625,
-    113.9800033569336
+    113.9800033569336,
+    111.79000091552734
   ],
   "6m": [
-    78.0199966430664,
     78.0199966430664,
     78.16000366210938,
     77.79000091552734,
@@ -158,10 +157,10 @@
     117.45999908447266,
     117.01000213623047,
     112.69000244140625,
-    113.9800033569336
+    113.9800033569336,
+    111.79000091552734
   ],
   "1y": [
-    68.93000030517578,
     68.58999633789062,
     69.2699966430664,
     68.76000213623047,
@@ -411,12 +410,19 @@
     117.45999908447266,
     117.01000213623047,
     112.69000244140625,
-    113.9800033569336
+    113.9800033569336,
+    111.79000091552734
   ],
-  "lastClose": 113.9800033569336,
-  "oneYearReturn": 65.35616255956279,
+  "lastClose": 111.79000091552734,
+  "oneYearReturn": 62.98295215649703,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Cisco Systems (CSCO) Raised Guidance, Is The Stock Fully Valued? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOV9VSlYwR2w3Qjh0RGxGNWMxNmR1ZC1JZkJHWE53R1BYRWMwMWppaTJwVXhtUzZrOXFMMmpFcHoydXVvMlFuWWFtZEVpUFR2cmtSQ25rZHEtRmwybFIzaHh6UUZVM21GOUhVMTlqSzQ0WGtBU3RWSVlOeTlrNEc4VS13a0VFM3RNRlJSenZNOE9vTFN3bTRkNVlTdzlqYndm?oc=5"
+    },
     {
       "headline": "The Wide-Open Possibilities The Options Market Sees In Cisco Stock - Trefis",
       "source": "Trefis",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDBNVURBbG1YeXFnQzZFZUwxRlpxZFFodG9hR1YtYmdyMWMwNWJIbmJ2TDhDekM1MUVQVGs5LVdxRmd1eXB3SGVaYVhVZlU0Sko0NEN4dWVXXzV2VHJqcGhnWXpZTFJTbTVmWFRab0k2SDZwMUZkVkJ6UEczM1FaWV81MzJWVGdBc21QTDNfSDUxZEVGaUJlUldJUm9FT2R6ZENGamVYM3pJM2UxQ1otdEpiaVN4SklqT1pEUFdKRjlMMm1SMGc?oc=5"
     },
     {
-      "headline": "Cisco (CSCO) Stock Surges 46% in 2026: AI Infrastructure Growth, Earnings, and Outlook - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnM5R1NnZVJ3ZTBTeVRKZ0xKZTBQdkh3dUxJR0lsUlRPT2doV0tjVDJhQmdkeGVtZk1mcXd6NnZaM0dSNVh2OFVfOUxJSHZtRVRSNnRkMDVfai1pNXVHbnptUHpkc2tBLWk4NzdiN0EycFZ0YXlZc0tFLW84bFFDYTBkT3Zjb2FQWXpfUm4tWnFCS3pEMUEyY0dZS2YwZ0dMMXVQaXNuUWFJZEZVSzZGOEM4Z0VKdHZwZXpGcHY4T1ZycTVNRTdOMEJ3?oc=5"
-    },
-    {
-      "headline": "Can Cisco's AI Networking Momentum Lift CSCO Stock Higher? - TradingView",
-      "source": "TradingView",
+      "headline": "Can Cisco's AI Networking Momentum Lift CSCO Stock Higher? - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc3VsRHZQRDgtNk1lRUhXRURvQnhUeDJwNXVlREwyU2FsUmtHRHVoM2lldmhYSGdEbFkxMnhmbVR1d3J5bGFkRVVrakRIOXBhVTJSZ3luZkVXOTN0Um0wNEo1NU5kZDZ1UHBvT294R1lPVUlfazk2WmlHNlJtajE4cVhUdmF1Z0NpdnlJaG5Qc1FySGYyVXhmY3VqUzRYVURjTGF5RDRpYW44eUI2dTFlM0phMA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWs2R09XWGtnRGt6RWxaZ1lKTmZMWFVKTXhkWkt5NkpGLUdtcDlTQ0tIaVNKYnN6MGJKdXAxT1dBTWkzM21pbnNDdnJyM1RNZUQyLTd5b010b3FHTzNMdm5zbFE4S3pUQkdMdzhpbkotRVBvOHk4bkhycDRueWpLT3VYM1BtekNwMGxVSGlqLXVoaHBndk9Qd1h1UWJBTkE?oc=5"
     }
   ],
   "insight": "Tracking Cisco (CSCO)."

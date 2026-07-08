@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-07T05:39:55.379Z",
-  "builtDateUTC": "2026-07-07",
+  "builtAt": "2026-07-08T04:47:01.541Z",
+  "builtDateUTC": "2026-07-08",
   "source": "yahoo-finance",
   "1m": [
-    287.5400085449219,
     294.5299987792969,
     293.0400085449219,
     292.260009765625,
@@ -24,10 +23,10 @@
     279.8900146484375,
     278.9700012207031,
     291.5,
-    294.1000061035156
+    294.1000061035156,
+    289.4599914550781
   ],
   "6m": [
-    354.5199890136719,
     355.45001220703125,
     351.1300048828125,
     345.7300109863281,
@@ -158,10 +157,10 @@
     279.8900146484375,
     278.9700012207031,
     291.5,
-    294.1000061035156
+    294.1000061035156,
+    289.4599914550781
   ],
   "1y": [
-    253.52999877929688,
     247.9499969482422,
     248.9199981689453,
     258.1099853515625,
@@ -411,12 +410,19 @@
     279.8900146484375,
     278.9700012207031,
     291.5,
-    294.1000061035156
+    294.1000061035156,
+    289.4599914550781
   ],
-  "lastClose": 294.1000061035156,
-  "oneYearReturn": 16.002054005268143,
+  "lastClose": 289.4599914550781,
+  "oneYearReturn": 16.74127647418397,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Huntington Ingalls Industries Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeWUySzZOdldiczZuanhRcDctVzVnUUhqajBld0x1bjYzcHVHUTREZ09Fb2xkbGdiZ08xVHBrMlI0MHJMSTRNcTNGYzlDbVpNNjkyN2tZcG44WHBFbHBqOG1CTERpWUhqdVJNVFh1OXdXWDFrLUNhbW9FYnZEYnU2Q3k0bnR2N3ctakpCUXFOeFhVdUhnNjVCaFdibFZld0hQcFZuVlQ5cXFsOUhWNXdzQldXQjFPTHRjemNIYWhubTZDbHhEb01Rd3AyWDVnNTZMWUdUc2FlVG8wYVN0YWprcVA0VDlNZTJvQnQyeEJmZTRfQTJWX2lvUW9kSHM?oc=5"
+    },
     {
       "headline": "Why Huntington Ingalls (HII) Just Scored One of Its Biggest Navy Wins This Year - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVRuekFMdFA3bWVqdTAxZlhiUEJSbFNxelVUTVFlUy1wTGQ5UjI0SlhmbFVoUzVmZVp5ckpQQkZRaHVFZzhWZU5mX1dpVTRFUmZEQjFDTURUZmxuOU02ZEd4TmJ2WDcwdGMyUktjelBlTC1HeWFseUppSXpGSnBXVnA2Z0E2YUhIX1VNMFBueFBNbnpkdmxwZUZqQzk?oc=5"
     },
     {
-      "headline": "Huntington Ingalls Industries, Inc. $HII Shares Sold by Strs Ohio - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-05",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3V2YXdPT2pVczdOV01aVGNJa09Fc0xqb1p4TjJHZk5XZWlJSWZINXl6LUo1QWhSMGp1MEcxeGt4SjBaR05yT1g1NFVFdlVQSWtTaFVoSmtCMVMzUXhNVnpRV01aV09nSUNHZWJaaEdwU2gzOFZNZlROUmZEMmVUWjctaXE1aF9GUm5QS1pUYjFMcU5lajQ4M3hFVU8xZGZnWkx0OWxmczhhX0E0b3FaN1dvbkZ0cTNXMzVGTWV0TXY?oc=5"
-    },
-    {
-      "headline": "Huntington Ingalls Industries (HII) Could Be 25% Undervalued After Destroyer Fabrication Begins - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-03",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWt0aWZoR1hadGdFTjRuSlV3alFtVEx2eFBFN0RNd3JCUUNScHJQbTAydkNoU1dyOEx3WDRQbEJqdG9WaXFWT3RKN3ROc0dKV0pKZXBRLXgyUk1jYktOamd3czM3c3Z6aXc1bXR0aHY3STh2clpFS05fRnlJeGR3N3RPUi1jdWRVM29LNzRqbnU5ZklneUZKaGtocXM3Y0hmWERmSHJJTDItcTVEcVRzNHRCY1gxekFEei1YdGVRSVptMXVxcnhNbWM1eGVCRDI3LTl0TmI3MndidUFURkFjUzBJcFPSAeoBQVVfeXFMTkYtVkZmbVJYTHF0eGRiRjVabTJDc0RfWGt3WXlOUkVRWnk1S2Q0ZjFET3NSTjVxdl9RMTRrWG1yLXVGWFZFZTBkMVlvUVY0eTZOSndTMmtMX05qRDBTQzVKVjZrNF9COXlqcVU5UVdXbnZYLUlfei1DMEdQSktIYkhSZ0VrZ0twd2xFZHdySTRtX1dWMXdoSXh2dWJkaGpWX01zTV9PczVLVjg1M0lTWGpSU0VCU2dUZzBfSllLVEJVTFFlZjh6OTFHaW1OWEFNSUdaZnVGWWM3NkZtaWx5VEppbnlqbm5ROHlB?oc=5"
+      "headline": "How Huntington Ingalls Industries Inc. (HII) Affects Rotational Strategy Timing - Stock Traders Daily",
+      "source": "Stock Traders Daily",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQelhORE9pUGhjdjVreDNRbjRuT24xcnZGM081MEs1ZUp0VXE5SF83d0k0MEREYVVDYkNiSml5d3IwS2V4X21KOEswa2dxc2ZDeWRpb1VGNjN6RWFrMTVvOTk2dG5XTzhVU0EwSmt5bEZuNlVFNF9WbXRhVW9KMDZCUTlIamZkVTZnNzExdkN0NTAxc3ZzaF9CaDFoNVFYa2d2X2lsVnZCeEVwRzYzbXdWWkkyU2ZPNzRtUmg0b3h6Rkt2SWpfQ2xQWm43VEFENEgyUzE0SW5ER2xnZjRObmwyMGVRS0lOM0Q2T1NUaDNn?oc=5"
     }
   ],
   "insight": "Tracking Huntington Ingalls Industries (HII)."

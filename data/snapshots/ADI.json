@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-07T05:39:29.799Z",
-  "builtDateUTC": "2026-07-07",
+  "builtAt": "2026-07-08T04:46:28.077Z",
+  "builtDateUTC": "2026-07-08",
   "source": "yahoo-finance",
   "1m": [
-    437.6700134277344,
     428.760009765625,
     401.3900146484375,
     403.8900146484375,
@@ -24,10 +23,10 @@
     397.1700134277344,
     388.9800109863281,
     377.1600036621094,
-    388.8299865722656
+    388.8299865722656,
+    379.0299987792969
   ],
   "6m": [
-    276.7300109863281,
     277.55999755859375,
     276.8399963378906,
     275.6300048828125,
@@ -158,10 +157,10 @@
     397.1700134277344,
     388.9800109863281,
     377.1600036621094,
-    388.8299865722656
+    388.8299865722656,
+    379.0299987792969
   ],
   "1y": [
-    241.80999755859375,
     245.14999389648438,
     242.72000122070312,
     245.1300048828125,
@@ -411,12 +410,19 @@
     397.1700134277344,
     388.9800109863281,
     377.1600036621094,
-    388.8299865722656
+    388.8299865722656,
+    379.0299987792969
   ],
-  "lastClose": 388.8299865722656,
-  "oneYearReturn": 60.799797567529026,
+  "lastClose": 379.0299987792969,
+  "oneYearReturn": 54.61146572140806,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Analog Devices (ADI) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlc4RjFSeDE0LXgzVnlET1pldWxtWUhSWEg2UXo5VllMZENISV8weHNad2pxUHNTMFpkUklSbXpPV0YzQmhfdzRMcU1ESDhEMTh1TElSR2tNZXVFR0o3dXgycEVCbU1VR1paSjlwSER1MXk2X25uNFQ4UmpZMkdGYXVYU0UyWWo5M1JrZXdlYVU5SEFwMDdjcg?oc=5"
+    },
     {
       "headline": "Entegris and Analog Devices Shares Skyrocket, What You Need To Know - StockStory",
       "source": "StockStory",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVTlnREp0eUNyOXZRSTYxdnJobkU0dXVWTmY1RFJNTjh6N1ZWQWxzdUFaUldIeFhEOUh0QloyTjFHbHEyR3BCcDJ4Zi1YZGNZU0tOQl9jalRfZTJkeGNZYnRkODRTbkprRXdxQjVFUmZCTi1odHU2OVQ2T2hVak1CdnNIZGtGY0pPOTlDMWEyZFBiUE5SUE05aXFpM1pkRFBpVnFWeUtza2oyckhlY0drODRDdlFUUGZUMDZDazBsNWV1b3lSdERB?oc=5"
     },
     {
-      "headline": "Why Analog Devices (ADI) Stock Is Up Today - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaENyZXpoQWNIUE52TnBqMGdZc0NvY3lmWnNVY3FKS2YxWjFjWjA4X0VxRUloaDFvV2Z3OG54WTdra05jb1FvNGNKbG9MUTFlYi14ejR2eGU3ajVoc29hd3dfV01MYzNhTnFyQVY2QjZIeHVlX2NDQkJDeE5jYzJremdrcFB0UQ?oc=5"
-    },
-    {
-      "headline": "Insider Selling: Analog Devices (NASDAQ:ADI) CEO Sells $3,897,500.00 in Stock - MarketBeat",
+      "headline": "Swedbank AB Decreases Stock Position in Analog Devices, Inc. $ADI - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXdSdWhHRnRkZjVFUXd2eWhFNFh2YlN6UXJXYi14dW9YTDRHOGdEUktKU0ZNSWxXdU1fYzlVUTl1Z3cwVHJrLWxDaV9vdjBETTYyZE53UXJ0UEZsV0pOa2JqelFxa3ZqMno1dnlXc2Z1ZEFObU8xRVFrUzBpMWY5b2V1Q01PYWNJWEtxMHRsWEw4LTJ2bFNJZXd2aE1GcTRCOUFUWEM4M2hfZDJ0V1VDMjhjNkJDV1hQWEx6N3VvT3k?oc=5"
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTk5INGtLcWNBQ3VwUVdlc1JSYzNMalJ5U0h4SjNUTkFXNlAxRGUwa2xOVk9vSUNVVWtIOHF6ckprUjhoaER0Uno0LUNLM2VTdFBrQVN4ZXVhUzA2bUhoSm8wYWM0bXRQdFNmN095NjZUc0ZGSHRkekZXZnprZWJLY1pSWWZuUEZIa0VpWHFnWXF6UW4yMmpJMEZjVkRuak9FbmQ0VGVjVzJQSThSNEs2NURtYnJobzF0YVNkalBrbmU?oc=5"
     }
   ],
   "insight": "Tracking Analog Devices (ADI)."

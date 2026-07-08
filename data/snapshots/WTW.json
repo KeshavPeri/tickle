@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-07T05:40:15.306Z",
-  "builtDateUTC": "2026-07-07",
+  "builtAt": "2026-07-08T04:47:28.706Z",
+  "builtDateUTC": "2026-07-08",
   "source": "yahoo-finance",
   "1m": [
-    250.97999572753906,
     258.5899963378906,
     263.5400085449219,
     258.1199951171875,
@@ -24,10 +23,10 @@
     261.3699951171875,
     275.0400085449219,
     286.2200012207031,
-    287.6600036621094
+    287.6600036621094,
+    293.8999938964844
   ],
   "6m": [
-    332.29998779296875,
     334.5199890136719,
     334.6000061035156,
     334.1499938964844,
@@ -158,10 +157,10 @@
     261.3699951171875,
     275.0400085449219,
     286.2200012207031,
-    287.6600036621094
+    287.6600036621094,
+    293.8999938964844
   ],
   "1y": [
-    305.29998779296875,
     305.0899963378906,
     308.510009765625,
     309.82000732421875,
@@ -411,29 +410,30 @@
     261.3699951171875,
     275.0400085449219,
     286.2200012207031,
-    287.6600036621094
+    287.6600036621094,
+    293.8999938964844
   ],
-  "lastClose": 287.6600036621094,
-  "oneYearReturn": -5.777918387216403,
+  "lastClose": 293.8999938964844,
+  "oneYearReturn": -3.667771010431032,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Willis Towers Watson (WTW) After Its GPU Modelling Upgrade And The Fair Value Debate - simplywall.st",
+      "headline": "Willis Towers Watson PLC stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUUZLVEt2cTI1eXVTX04wZnMzTFZwcm02bmVuTm1VLV9jMU9LOGFRSFIwbDV2SjJnemJIR1FzUmVoT1YyTUZqVmRrZGJwZnhTaFFDSDVzM0gtQXR5bTRDZVFwLVhYRGVQV18yd1V1TXhNSFpFdXJwa19SNk1xSV9ybU9taWpfX3NJT0JFVUVKN1dacWs2OUhYaXoyVC00TkdRMHpFdmM2NHBaSFR0REhjcF9SWExiOFdNZmxiWVh6RFVJSzU1YXFGZE9yczFOc1ZCSnpOMXhDRDZvWFdMTW9oc1VTZDg1eXVqYkRHTURyOTBoM0pZRDRiT09oblZzODdJbHg4LVg3eTBwX1U?oc=5"
+    },
+    {
+      "headline": "Is Willis Towers Watson’s (WTW) Tech-Driven Risk Push Quietly Reframing Its Competitive Moat? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWmlIaGw5eEd6ZGpfRmlwdk01blFvcmJmUm9EdjZsQ2tHbGdmcmpBQ0VkLTFWd2hkRGJKeGFNVXVRLWxFdlBpZVJRcGVIRU1TNUJvRlN1UkpHUTBjVUd3Ty1hbVVoRkhZeFI5V3NPaWZWcEoxOU1UTnRfb0daVl91NDBfM0ZxTnlBeWtHbDFJV2Z0RFB5RERRY2pQb0k4Y0tqN1BsT1RWd2xzWEZGWHJ4UzFpM2NyVjBoYmhVYnRKbXRRbnQzTTlSV1FjQThxZFV1XzFfelNB0gHbAUFVX3lxTE15NlI0c0F1SHY5MV9HczJ1ZWxmQzNTaFNmS2pVVjBRbEFZWFlidFhsYjlTNzRta0F0M0lKeXNsNHU1bVZIeEdDa1UxVU5BcGlWNGdYM2F5Y0xJS3VsSFpOTlVzckxqc1BQX3JuOGY3a0xEdHhnZUI3NEZNVkE5VEhiblJuYmF6U2pTeTJaeUxuVWZuM1ZpWUNwQjFkNGx3Y0oxMlhjUWVpWXd5aV8zQjBaeW9DdjdkcTlSN2xDZTREdmFOd2pNRTYwOWc3bUNWZzJpcExjemhFU01UTQ?oc=5"
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNVd6bVAtRERfYUZBY0p4LVF4OHZ4SGJJQTdUX19jTTFXNy1OOHBEaEdSUnRDUFpZNEFhVGV3OXJiVzFxRkxrLXNBYk9MaVVndmlVemdVQmU4VkRuOFAyamNDYVBvWWxQbUJnbGVGX2hwX1NuRUNsZXZQLVlwVU1pX18tbWRrdndaZDI0ZFpVRGFGb19lZVVkcTlXQzNtRjlNX2dVQ2ZsTzBWMlBUTmIwdUVScmxFMnNfOGNnYjFvdDI5WV9LcEdPR19YOUp1ZGtzYkhONUN30gHbAUFVX3lxTE9vcmRGVjhwUjlFQnkyV3lWXzYzRUtjYXl5REhLbEQ0dkU1VVlHUWZCT2kxUDNncExmdmFHWFNRRjRQS08xWmhZa1hOUEtUNEJqdnFjY3JtV1VVdnRlYnQ0MzBlR3h1dVU1cHZ6eGoyazRycUhCTXBlX1JsdmRjazJqdFNfV1lHR09IdjJhNXFQeHJJbnRnM2hKeDFncFpZUTZDY0M0MWd2ODhaVEpXLVpJb1hxNTlfNG1ZTHRwVW1wb1ltOS1xTkRoRGlCZWcxc29tZjVGbk1ZRjU0WQ?oc=5"
     },
     {
       "headline": "Is Willis Towers Watson Stock Underperforming the Dow? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-12",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnNGU0x2dlhwckFDeUd6dW0zUm9reURyenE1c2NTUzZNQ3Y5RVB2RTNMY3dpR0Fpd1pJaGpxY1JMenN5N0pXNDZ2RTN0NFJGMFJ2cTBJZmQwMzR5TXVleDYtQ2FKY2k2Z2tXZzJzSXFwcTJ5OEM0LVUyM3M2MFViTzd1YjQtYXIzbkVmSzN5OGF0b1JVMDJac2FPQ1FFRzZPUHNIdmxwNUVrRFU?oc=5"
-    },
-    {
-      "headline": "Willis Towers Watson PLC stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRnctal82WU90czlaejVRbUlxY1BWWGhWaVBFUDFqUTlDTTNOQTFYTGhzY0plTWhqbUd1dlNSS1pZNFZXZUg0RnpMQjBfUGQzNWl0bDF2cTRmMjlaSkdIYjBON3BCZlplUmpjU3hNWGhiNUVMbFZtM2RRVnk5YWYyX1g4RjBFNDZseFByYmRqc1ZtXzVMWXNQTXV2WmpubDFCYm0tRVJaRkZscHJpOEtHZUQwWERRaWwtOV9PTDBzNnlJem84R1hQWGo2eTdvdmhLT1pEb0QzM1pnSlB0NTN1cl9EV1VhRFVySUJZZGpDTUVIYzJmMkE?oc=5"
     }
   ],
   "insight": "Tracking Willis Towers Watson (WTW)."

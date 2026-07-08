@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-07T05:39:42.007Z",
-  "builtDateUTC": "2026-07-07",
+  "builtAt": "2026-07-08T04:46:43.468Z",
+  "builtDateUTC": "2026-07-08",
   "source": "yahoo-finance",
   "1m": [
-    30.350000381469727,
     30.770000457763672,
     30.959999084472656,
     30.860000610351562,
@@ -24,10 +23,10 @@
     28.190000534057617,
     28.790000915527344,
     30.010000228881836,
-    29.239999771118164
+    29.239999771118164,
+    29.270000457763672
   ],
   "6m": [
-    39.150001525878906,
     39.099998474121094,
     39.29999923706055,
     39.4900016784668,
@@ -158,10 +157,10 @@
     28.190000534057617,
     28.790000915527344,
     30.010000228881836,
-    29.239999771118164
+    29.239999771118164,
+    29.270000457763672
   ],
   "1y": [
-    48.83000183105469,
     48.5099983215332,
     47.63999938964844,
     47.9900016784668,
@@ -411,12 +410,19 @@
     28.190000534057617,
     28.790000915527344,
     30.010000228881836,
-    29.239999771118164
+    29.239999771118164,
+    29.270000457763672
   ],
-  "lastClose": 29.239999771118164,
-  "oneYearReturn": -40.11878215306099,
+  "lastClose": 29.270000457763672,
+  "oneYearReturn": -39.66192234483968,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "What Copart (CPRT)'s CEO Transition and Index Reclassification Means For Shareholders - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS2Y3a2JXWFcxTUwzWDN3ZGhrSkFSdldtcnFVWnpyR1ZoLWxNVnZyWWY3U2pYNmVEdVFPamlHLWlIVFdZNFMtTFZXTVJZeW1zSXR2T0hYTWxZdDZVVndWT21rbUdEUW9wY3FSamlNZ3NSOWlPeHp1NHVLa0ZoaXg3aU1XTEExa0lXc0VoaktPYTRscGFvTlVOc2dSblVSUzBpYUt0MEo3U2k0Q2Vja054NHlrd0l3Wl9zV3diSTFBQk9iejhFNmlzV3JLSHBOTms5by1WQ3Bn0gHWAUFVX3lxTE1LZjdrYldYVzFNTDNYM3dkaGtKQVJ2V21ycVVaenJHVmgtbE1WdnJZZjdTalg2ZUR1UU9qaUctaUhUV1k0Uy1MVldNUll5bXNJdHZPSFhNbFl0NlVWd1ZPbWttR0RRb3BjcVJqaU1nc1I5aU94enU0dUtrRmhpeDdpTVdMQTFrSVdzRWhqS09hNGxwYW9OVU5zZ1JuVVJTMGlhS3QwSjdTaTRDZWNrTng0eWt3SXdaX3NXd2JJMUFCT2J6OEU2aXNXcktIcE5OazlvLVZDcGc?oc=5"
+    },
     {
       "headline": "Is Copart, Inc. (CPRT) A Good Stock To Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcm5kdmQ1UUhDcGNnbi1xbi1VNTRsamhkOHBId3lBQVpxV1FORmtaeS13eWtMSHdzaU9hejZtNDF2MS1FSy1PM3hOdDhEaW5yazRycHh4bEQzQ2hPU1haRmFnSEFDUzBCaHJQNXVOS1FiZy0yanNfZmNjSU9XOXY5YXVCamdQd1RadGkzV1dZcXNfV3V2aXc?oc=5"
     },
     {
-      "headline": "Copart (CPRT) Following CEO Changes And Index Moves With Valuation In Focus - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-05",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0p2ZloyeV9iRUp4T1Z6YUhUcW5JTUg1eUkyOHdOeDJuR29DU1BHWEN2WC12aDg4LW05d0dCSWJTWTNDNFhDM0ZFWW5mMVJYYVlCS3YwX3dRbWVhY1pONS1UbXkxdi00MnZSRHlsQVZBMWJRdkpORDUzUHJKUTJJNExWRjRka0prSGR1MnQwVm14Nk9NeUgxeUpLZnZpWkduT3B1UDNXR3NxU3VORUhuaUpZeFlsb0gxNXBVR1haZ015eTF4c3V0amhtb0U5NWQtQnfSAdcBQVVfeXFMT19OUFBFcDBhdWxYeWVzOUxST0tXTEY2SVBTZ200dnZxOUxpd2dCWmNKY2Z5cWNaelRjQmZNbVZmWFk2N0IyTFAtZVFwOGphU0ZuT0NSYmR4enFiQ0Q4ZE1uaFllYUZyVld3THpSWnRSZ2JITS1oN3pZXzNPby1Ia29oQlBmTjJyeklFQVlmUkRncFVOY0hSbFd0NTN1dlhLaTJkdzg3T3djenExWDZJb1MxY0I3MlZSQTl5WmN4RXgxd292S0ltaHEwcVA2d1VSNjdFcmNGVVk?oc=5"
-    },
-    {
-      "headline": "Copart, Inc. $CPRT Stock Holdings Lifted by Janney Montgomery Scott LLC - MarketBeat",
+      "headline": "Whittier Trust Co. of Nevada Inc. Sells 153,055 Shares of Copart, Inc. $CPRT - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-03",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZnoyMVNqY1VCYXd3S0ZOQTlXWE4ycXA3TFMzSTNCX2gyZ09EV1c3cGdDSVhMLTdXODNxc3VFY3Z6TGhVWENwbGNRWVlUaE9iaFl3UHplRnNkbFo1MzIzQVVfTVhGTEhHc0NFeTFxbTEtMlIwc2JBRk9NTWwxNmpiMm83bWM4MmcxVHFpY21iX1VXWWUyWTh4d0RiN0QwN1ZIUHRLdC0yWlE5WFdwc3IwZkZ0YzUzOWQtLWVfUlQ2bl9jYU1aWFZCRw?oc=5"
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaW53NmFZeVp6djFEVHlqYWNjYTJ5SkVqVG1JUzRLWjVqaEhXQzdJb1A5cnFiVUdPWWVqS3JRUWdCVHVHUzRuNEJwQzhqNi1xSVNhbEc2N0hOdVo4M19BNExrRlJlRjQ1U3FHekNpcjExMVlaWTFhWndvWWg1SkRsLTFrMTdIR2RRRWt0N2V1NWR4N2c5bTc3azdJSkJjVmNKdHpNU3ozOV9RNnN5TTVqcl9GcjNfc2ZUWDk1Mm1KNVZOZXVsMFZjY3RwYw?oc=5"
     }
   ],
   "insight": "Tracking Copart (CPRT)."

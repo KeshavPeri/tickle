@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-07T05:39:36.445Z",
-  "builtDateUTC": "2026-07-07",
+  "builtAt": "2026-07-08T04:46:36.640Z",
+  "builtDateUTC": "2026-07-08",
   "source": "yahoo-finance",
   "1m": [
-    74.26000213623047,
     74.9800033569336,
     73.63999938964844,
     73.12000274658203,
@@ -24,10 +23,10 @@
     89.4800033569336,
     84.7699966430664,
     84.69000244140625,
-    82.33000183105469
+    82.33000183105469,
+    78.41999816894531
   ],
   "6m": [
-    102.69999694824219,
     104.02999877929688,
     103.98999786376953,
     103.44999694824219,
@@ -158,10 +157,10 @@
     89.4800033569336,
     84.7699966430664,
     84.69000244140625,
-    82.33000183105469
+    82.33000183105469,
+    78.41999816894531
   ],
   "1y": [
-    124.86000061035156,
     127.23999786376953,
     133,
     135.1199951171875,
@@ -411,12 +410,19 @@
     89.4800033569336,
     84.7699966430664,
     84.69000244140625,
-    82.33000183105469
+    82.33000183105469,
+    78.41999816894531
   ],
-  "lastClose": 82.33000183105469,
-  "oneYearReturn": -34.06214846339742,
+  "lastClose": 78.41999816894531,
+  "oneYearReturn": -38.368438002564034,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Acuity Brands, JBT Marel, and Builders FirstSource Stocks Trade Down, What You Need To Know - StockStory",
+      "source": "StockStory",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUkwT2NucVkxZ2p6Mlg4ZlBPSWdKeWgxQnBOLVR0MVpTY3U0OHVRVTFjVHBYR19NR0JtU25peGhGaEZyM3Q5MmJZenRhUXNFQ3g4RExrQkVLOEpJYkpGNk9FbUdFUWIwSEcyc0RiNzQ2YmxQaGVJMnN2cmFGZ0ZKdXBTUld5ZXU1aUpEeU5UWjREZWtPaE02RHptTEtDTlRRUXlLQUduV1VhVzRfcUNXZkhxc1pjQzVNNV9xVE1yM1d0LVFGbTJYczJWdUFGcGNMRzNEMncxZHhuNlh1bVBqTg?oc=5"
+    },
     {
       "headline": "Builders FirstSource (BLDR) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN01MOUlsdVdWQVJVRUtwR29vWWxVSjNPWnBqZWsxNVNKSHRickpkcjBzdXBMU3VfY09qNHNOWTVBLWVLQ1ppdW5KRlFyUk9lU1JfdGNNYWROUGJObUc2NFNLTlNSdmZZbURWOVBCMVgtVzVaQ3JxOU9JVXVxNmtGT3ZObi1aaGl4ZHFuVDc4T1VEa2hQekdCZENSUkcxVTIyd09KUg?oc=5"
     },
     {
-      "headline": "Builders FirstSource Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "How Builders Firstsource Inc. (BLDR) Affects Rotational Strategy Timing - Stock Traders Daily",
+      "source": "Stock Traders Daily",
       "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd1YtN1h1bWZnTHZUR29PZWdqTmpHNHljeGdDaWhMcHc1bGpIVTdSRUVZNWJjZGJIcFpacjlJRkp6N3BzVjFEcGhZbUIwa1VqQVZBTS1HZEpHOTUtVEZ4Rnlic09PeWN5VTBtUjBRRDZCcDBEZHgxM181NVdMbFpKVXdVVU9RS1FoM1c4ZXI3LWVjUXY1WmhzYTZ2dmdOek1GWXVKdVN5WGdNTGgtS2FZSURNVVVGRDlYakRmazNaLWx5X2JVU0U3MzJGbkpHajRXMk8wdGVvQQ?oc=5"
-    },
-    {
-      "headline": "Price to sales forward of Builders FirstSource, Inc. – DUS:B1F - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc3hXbGkyQWdrX2szWUc2eDhJOFFDbXExOWJvcC1VZkZxR29kRDNlOWlUWWxxYXM0bG5zbTBoM2RHY0ZGbGNfVXVzbWFmb0c1SFg2S0JyMG04c2s3VFkxdjdEdmxBTUh3WmlyTGhxNXdSeWtEMDZTcnBDQlpsQXN3TGN1WGJ6Yy1CaGpsaEpWcFlNN2hlSjZiUg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNk1ISUtfUGxad2IwUEtYXzFYRFFQTkllNWNrYzNPNHhSUGFVa3F0eUprN0dIZjVNMWZWdWtnSmlGUmhLN2hBZUhmb0wzdVFfYmNWVDRLWVBPTENkYS1JQTFELWYwTC1zME1OYWdxQmt3R3ZQVHVCQXVtNkVpZzNEUHMzVEwtQXJCU3pHVlhEUndCM2lsaTJwaHBjNUJKOFlfeDY1ZzQ0NU9GZlktZ1FQazdKV1R4MmFJU3RnWUFnZjNKaUNiMGZPbEsxTzZSckdmay1lUVV6UEI3R2hqS0RZNUwyY0k?oc=5"
     }
   ],
   "insight": "Tracking Builders FirstSource (BLDR)."

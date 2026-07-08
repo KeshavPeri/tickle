@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-07T05:39:37.154Z",
-  "builtDateUTC": "2026-07-07",
+  "builtAt": "2026-07-08T04:46:37.574Z",
+  "builtDateUTC": "2026-07-08",
   "source": "yahoo-finance",
   "1m": [
-    47.689998626708984,
     48.849998474121094,
     48.54999923706055,
     48.70000076293945,
@@ -24,10 +23,10 @@
     42.68000030517578,
     43.060001373291016,
     45.13999938964844,
-    44.599998474121094
+    44.599998474121094,
+    45.29999923706055
   ],
   "6m": [
-    96.08999633789062,
     96.12999725341797,
     96.05999755859375,
     95.76000213623047,
@@ -158,10 +157,10 @@
     42.68000030517578,
     43.060001373291016,
     45.13999938964844,
-    44.599998474121094
+    44.599998474121094,
+    45.29999923706055
   ],
   "1y": [
-    103.83000183105469,
     102.41000366210938,
     102.95999908447266,
     103.86000061035156,
@@ -411,12 +410,19 @@
     42.68000030517578,
     43.060001373291016,
     45.13999938964844,
-    44.599998474121094
+    44.599998474121094,
+    45.29999923706055
   ],
-  "lastClose": 44.599998474121094,
-  "oneYearReturn": -57.04517221651285,
+  "lastClose": 45.29999923706055,
+  "oneYearReturn": -55.766040799565886,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Boston Scientific Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObWlicGI1OGo0TUMzSS1jU25NRkY5SnJnNUpZUzZQTm1tVVhNb19PWm85dkxzN0lZanM4S0drUG9vQlBwX2VQUzZrck9idTBuSk1pSFZHVkptSjJoNHMwSGFtcnQzVnZjaTkySnh4UFBzbzRvQ0lNSTBYQXhSNEFPeDBjejZXMEJINVp2ajdsTkh1bXIyemN3ZGIxaXZ0MzAwOXBOeUZHb0xGeXptU1VWTm5pTmEtQVpRbUNIQVNzWU1kSVJGWHhjUHBBOV9wLVJIWGJPdTBlZ0UwZlJwVFRnVzJyRV9aSk0?oc=5"
+    },
     {
       "headline": "Boston Scientific (BSX) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaHJaVk9qTUthaTdKLUM5YWFKMnRPWlN5eVNhVWMyZlVzZFR3emFVeXNpOFMwTzNNQzR2RkVqSmJvV09mOGtweWpRNDZ2WjVOTHBGMi1HV01LeEFUb3lKcGNYNDhMWEo5RDVqRERhdGY4eklaTVNkRG5WSlZfMWhsaWFFUHlFd1drcldjSjRfbk1meUg4ZjU2UzA1clRuZw?oc=5"
     },
     {
-      "headline": "Boston Scientific stock hits 52-week low at 61.23 USD - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-04",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUEhzdGJMNFdZc2ZMVllZc3E1Rks3X29IZ292Z0t3cTNYbGJpSWJUdnZSd2lrVU1CZFNsME82WnhzLXVBcW9McVpDR1c5bTRHWXMwaDVPVlhUenRscmdzSjFsbENPZklvbklRSnRJODNadzBPV0s4eUJVZFl3OTZaOTcxR0I3QzZNVXlmbVVGX2R6NFlHM1pYbktVSlA1Q090ZVoyT3ItU3E2T2o1?oc=5"
-    },
-    {
-      "headline": "Boston Scientific (BSX) Stock Could Be A Bargain After A 57% Slump - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHlnOHpETVZpcHU1ZWphdFFXaWo3OXJlak1EbERMcTNvVE92LUVweGd2Yml2T1VkbmdvTjFIOHZUamFuSlJ4Z1d0NDhEYklUZ2R3NzFGd2RGaG5pQWJlMnV2V0hScmR5bkhyN1BpZTlKNGFENHBJZ05YM2lfc05fU01rT2FKcmY1cEtfNE1GX1lTQXRfVHpQSWRZNkhmbmc?oc=5"
+      "headline": "How To Target A 10% Yield While Catching The BSX Stock Knife? - Trefis",
+      "source": "Trefis",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORUl5MmllaTkwdDM0MU1xV083T2F0djNlZnNGYWcwRjJEdlFKTTBBanNKcFVuSlFxeHFBT2NzVTNUdGExdXdpNk9TMG5Bb0t6YVY5MlJ2X243cDE5LVlua01FSlJiSXdIQXdkNDBJZlB6NHhIM3lEVFJGZDV0bnZVSlJmbTJUSkRPSzZjNHA4Q0RIY016TEZEWHRLVHN2SnE0aEJ0N0pFQm5xSXJMT1MxS2ZKWjkwSDdiYUhB?oc=5"
     }
   ],
   "insight": "Tracking Boston Scientific (BSX)."

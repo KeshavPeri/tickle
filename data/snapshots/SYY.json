@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-07T05:40:10.430Z",
-  "builtDateUTC": "2026-07-07",
+  "builtAt": "2026-07-08T04:47:22.497Z",
+  "builtDateUTC": "2026-07-08",
   "source": "yahoo-finance",
   "1m": [
-    75.23999786376953,
     74.3499984741211,
     76.29000091552734,
     76.4800033569336,
@@ -24,10 +23,10 @@
     83.58000183105469,
     83.52999877929688,
     84.83000183105469,
-    84.2300033569336
+    84.2300033569336,
+    84.62000274658203
   ],
   "6m": [
-    73.98999786376953,
     74.25,
     74.2300033569336,
     74.45999908447266,
@@ -158,10 +157,10 @@
     83.58000183105469,
     83.52999877929688,
     84.83000183105469,
-    84.2300033569336
+    84.2300033569336,
+    84.62000274658203
   ],
   "1y": [
-    76.70999908447266,
     76.52999877929688,
     76.33000183105469,
     77.45999908447266,
@@ -411,17 +410,18 @@
     83.58000183105469,
     83.52999877929688,
     84.83000183105469,
-    84.2300033569336
+    84.2300033569336,
+    84.62000274658203
   ],
-  "lastClose": 84.2300033569336,
-  "oneYearReturn": 9.803160425252969,
+  "lastClose": 84.62000274658203,
+  "oneYearReturn": 10.571023254051964,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Sysco lands 25 drivers in IFDA Hall of Fame class of 108 - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY0JYbUZpeHFHNEZiXy1kdVBscGc1d0Y5Sm5JSXBzNTJaT1M3WVlqZmt1ZUw5M0ZpbThaMzc3YnJRNC1LeDRwMTYwSjdJRlBYZTk4NE5JTjFFLVF5Yjk4d3c4LVg1UUhPalRTMGV1c2pyanRyaG42Q0JkNlp0UEUxTk5mUHBsY21OVGxHU0VSZFBKMlF2bXd0U05oTW42VEJQSDJ5VnNyOGUzeEpxel9WcDltYXFHS3JFaFc2OVdlSQ?oc=5"
+      "headline": "Elevation Point Wealth Partners LLC Has $1.11 Million Stake in Sysco Corporation $SYY - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT1ZaTUJjZTJCN3JRbkQ3S2JwWEdNeVdyQzJ1bk5zbnhBY3k3SldacXlPdllXMVRyRlNCbEVNbUxTUFBOYm1hQTdzZ2NtR3hiNExEUjc3TWcxTzJnVi1kTTdPVGxvU2paODBpb1EtMTcxdG13cHZQMGdPUm1CdkNpZTk0TnZMZ3VmZDByTE00aXVibHZUdGhaZjFMYVNEelkxQS1wcjlRYnhNRlBWYXlEM1ZrZ1J4ZTA0X2ZMMk9nYjM4ajU5OXljeVVXNkN3eXlacGNPNld0TUl5V0k?oc=5"
     },
     {
       "headline": "Sysco (SYY) Stock Looks Undervalued Even As Broader Checks Stay Mixed - Yahoo Finance",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXBSSmd0bXgxd05wUHBNQlJ3emNlMlZOZW4ydmROQ3RKZXgyOGNEb3h2THphYlNpTFRNZkJyazZDRjczZHZqLS1Sb1JYQUhORUp4RUFLVklqbVBESWwyei14bTFEZWRwQ1hKdXJQdFJPaDRCWUJSR1IxSXljTkFTa0ZIWlg4NmVIUzltN3dIQ1FldjRBQVd5dFhlQ0hycms?oc=5"
     },
     {
-      "headline": "Sysco (SYY) Posts Strong Q1 And Lands Military Contract, Is The Stock Still A Bargain? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcTZYQVpEX19vcWpkTjEwMW9vcEppYXZlV0NtRHd6eVJFMk4xRzBTVENTSThhazE0bDJzU3IzUlVJb2dCcHVSMVAwR1QwbEJzeV9Ed09rdnRISUNCQmRvNXVRd1NHTjBHdERCN3lxT01aMlBwb3I2Rk15N256OWNxczVFVUo1ckx0WDJDbERMR1hNV2s5Z0xsUGZrcDRTMnNPVVJkQVhaNzEtTjFQWVhBZUFob2w1M0RrYXRpMl9IQjNtVlFLSUJHMjNQSdIB0AFBVV95cUxQcXpaY0Z1Z2NzY3ZsbmZ5eXBxd0Q0U3otWkdZekMzMnR0VVJjSHZhTWZWOWZlV0pxbGRjZXNTb0lYdFo3TEpRYW1ORTRqVlJxYUZMRnhrV3BPLTJEMHBpZDVKSFZHMU11NEJ1a1M1TW9ZaWF3Q0JoSXpqcWNvdURtbFNmRTdKMTFWQktkWVUya2NqTVBaV0JvUk82eEZ4NUk2c2YzeGRPUnBVdlppUEZmSmxtSHc2Um53cXVXbXplZFloRGNRclhYY1lvdTVPV3JW?oc=5"
+      "headline": "Sysco lands 25 drivers in IFDA Hall of Fame class of 108 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY0JYbUZpeHFHNEZiXy1kdVBscGc1d0Y5Sm5JSXBzNTJaT1M3WVlqZmt1ZUw5M0ZpbThaMzc3YnJRNC1LeDRwMTYwSjdJRlBYZTk4NE5JTjFFLVF5Yjk4d3c4LVg1UUhPalRTMGV1c2pyanRyaG42Q0JkNlp0UEUxTk5mUHBsY21OVGxHU0VSZFBKMlF2bXd0U05oTW42VEJQSDJ5VnNyOGUzeEpxel9WcDltYXFHS3JFaFc2OVdlSQ?oc=5"
     }
   ],
   "insight": "Tracking Sysco (SYY)."

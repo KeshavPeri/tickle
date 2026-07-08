@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-07T05:39:59.445Z",
-  "builtDateUTC": "2026-07-07",
+  "builtAt": "2026-07-08T04:47:07.132Z",
+  "builtDateUTC": "2026-07-08",
   "source": "yahoo-finance",
   "1m": [
-    30.549999237060547,
     30.059999465942383,
     30.530000686645508,
     30.75,
@@ -24,10 +23,10 @@
     32.72999954223633,
     33.369998931884766,
     33.29999923706055,
-    31.75
+    31.75,
+    31.489999771118164
   ],
   "6m": [
-    27.899999618530273,
     28,
     28.100000381469727,
     28.15999984741211,
@@ -158,10 +157,10 @@
     32.72999954223633,
     33.369998931884766,
     33.29999923706055,
-    31.75
+    31.75,
+    31.489999771118164
   ],
   "1y": [
-    33.779998779296875,
     34.029998779296875,
     33.650001525878906,
     33.650001525878906,
@@ -411,18 +410,13 @@
     32.72999954223633,
     33.369998931884766,
     33.29999923706055,
-    31.75
+    31.75,
+    31.489999771118164
   ],
-  "lastClose": 31.75,
-  "oneYearReturn": -6.009469664460211,
+  "lastClose": 31.489999771118164,
+  "oneYearReturn": -7.463999704061089,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Keurig Dr Pepper Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdFZ5T0VWRzg5dC1ZV1NZTGNHRU04SEJnc0s3amt0ZERRVGVwYm5oYkZySXBEWDJrVFlpLVJOUEtsMEtuMm55MjM0M3VzZWU4SUpsNWZIUk9kc1BpLS0ySlNUTXlibmpXSmNHS0tzR1o3cWlnU1IxTWJvdmg4R25oaHlXaDFZblNJc1kyODdBTXVlZExYV25mYWJzQVQwVWJDNXZ0Q3p2UWdIb2xYLUJxeTd3NWhhOWs5cGhlc1dBcmNJSkpYSEt5X2pueGlCX0psRVE?oc=5"
-    },
     {
       "headline": "Keurig Dr Pepper (KDP) Stock Looks Fully Priced As Its 20% Run Continues - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVVuRWppMnQwdUpVVUtUM3h3Qm9RbVFlWUxwQjVsOFJZajB6YjVIdHE2dkZyRHRoelhsVE13akh4QmE1N1RBdnoyUUt0R1k0bVhVQmxiWnBfd1FWQW80VWhON1RXWGRrYU0tTDZ2dUVhVVF1YzlzUTllemhzWEpQd3FDUEVrd3RxLWltdFNCSzVWbXdudXc?oc=5"
     },
     {
-      "headline": "Keurig Dr Pepper Inc (KDP) Shares Fall 4.7% -- What GF Score of 83 Tells Investors - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUREbUFnZFh1OENqYzlMZTlMX05WdTlIaVhidHhvb3o2Zll1VzJZMmNSRkFTVU5iNE5zSzc2QUlJMHJEYXZ1RTlxczFyYlN5NzNTYU83N01tWEt4by1TMHRuajJyQTBWRDE4VlFCdlNLaTc5cXc0WkNQUFZkT05NVzA3WnhreTE2aFhHZXVwYnBrVXdRcXFqd3FQUy0zMjMzYUNwbU1hMldPYWFOT1JySUtyTHc?oc=5"
+      "headline": "ETFs Investing in Keurig Dr Pepper Inc. Stocks - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sRElWQW44eXhQTG9JNGExTmt5OFVJeWMtTWtxT2JhSjFHZXQxWFI4U3djMDhlR3oyQS11ekFZdGVuaGhSMEdob2YxdkhxZldkR0Y5aWEyUWtkNHFORHB3?oc=5"
+    },
+    {
+      "headline": "Keurig Dr Pepper (KDP) Reaffirms Guidance And Prepares Split, Is The Stock Fully Valued? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-05",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdUZJZ2hjcUQ1ZkVmWlJtZm9rdHJDV1NmVzdOLWZrTy1kZXY0ZWZqbU9ObHRucHVrbDJlV0M0Z0tTMm14NGdvOUVXVTZVOEY1dmowRW5XZXhLcFFHZlJYUkdQclRXSGxsc0Vua01BT0Fvd3RnNDMtOFpsOTZCbzROSUk2YW9zTEEwblowcjVFZWdRZnJSYVg3UU81blRCb3RZLWloQ3hZeTdpRURIckRST2FxaS04QUplOEdUaHB3TnFJYzFjVUJoWUxTUGZ3aE9CMVFrNUF2ZWVyUjhqQVl4a9IB5gFBVV95cUxPR0ZSN28zSkR4NVl1Nl90RVJlU2tmQjdXNGlsWmhidG9NNUd0TnRFZFN4RUVLQTJOQk9kWUtPZmZ5YS1KamFqVGJQelctY2pIUTFEQmpFSWZ1UWpvejh2c1pnZi1PQlpMLWpJSmVXUGpHNE9fdzdkRl9UTklkd09MeUlNRmZDUC0tekxvLUUyM1pkdktsMHQ3cFN2LXJpSFg3WE9tU3k4VEVSbkI1VTFXM2d6engtR0huZVpWanlMY0N0OXdGZVpOZXJ2UEJWa2RZZnprNWdQMUdLeUsyY21mbHhyekFQQQ?oc=5"
     }
   ],
   "insight": "Tracking Keurig Dr Pepper (KDP)."

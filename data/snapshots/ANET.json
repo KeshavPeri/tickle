@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-07T05:39:32.741Z",
-  "builtDateUTC": "2026-07-07",
+  "builtAt": "2026-07-08T04:46:31.501Z",
+  "builtDateUTC": "2026-07-08",
   "source": "yahoo-finance",
   "1m": [
-    174.3699951171875,
     166.00999450683594,
     154.27000427246094,
     156.39999389648438,
@@ -24,10 +23,10 @@
     169.8800048828125,
     166.6199951171875,
     159.99000549316406,
-    173.27999877929688
+    173.27999877929688,
+    166.4600067138672
   ],
   "6m": [
-    131.32000732421875,
     130.77000427246094,
     131.83999633789062,
     134.14999389648438,
@@ -158,10 +157,10 @@
     169.8800048828125,
     166.6199951171875,
     159.99000549316406,
-    173.27999877929688
+    173.27999877929688,
+    166.4600067138672
   ],
   "1y": [
-    101.47000122070312,
     103.38999938964844,
     106.27999877929688,
     106.29000091552734,
@@ -411,12 +410,19 @@
     169.8800048828125,
     166.6199951171875,
     159.99000549316406,
-    173.27999877929688
+    173.27999877929688,
+    166.4600067138672
   ],
-  "lastClose": 173.27999877929688,
-  "oneYearReturn": 70.76968236395588,
+  "lastClose": 166.4600067138672,
+  "oneYearReturn": 61.00203858839892,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Here’s How Arista Networks Is a Major Beneficiary of Big Tech’s Push to Break Nvidia’s Grip - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-05",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVnFNQ3VzWmJ4blVrZGFTMmgyWE1GTEVoRXNZbm1kOGVZam1hbFd6S3QzRDlZY25BcHlrTHNjbUhVZC1tSXVPVmpTYldEaEQ0TlBTUThzR1ZuUG5GMnF3SE1ObW51Y1M3dW5nZEJFZVk5LXdGU0NuY1RQLU1WRnNfNzZvRDlWUnQ4REVRMmJKLWQzUzhrUjNTcWpNOWpNY3pQRWtSLQ?oc=5"
+    },
     {
       "headline": "Arista Networks, Morgan Stanley Among 15 New Stocks On IBD Watchlists - Investor's Business Daily",
       "source": "Investor's Business Daily",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHkyTDcxNThnSjZYS1JQaFF6QU5MSXRnWW1qY2dvQU1NTlpnUml5MGxtVVlmX0ZVVlNYTkxuNURYb3NLRzkyUjQ1VjN4R0xRN0Y5OW1IM3l4YTFUVkJRMjBHYXI2VHpfUFJ5V2ZNajZTRXh0cnExOEVuUXNPdHBpeVluR0VPdVlha2ZjOXhwRFg?oc=5"
     },
     {
-      "headline": "What Makes Arista Networks (ANET) One of BlackRock’s 30 Most Important AI Stocks - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR0NxbDVwN1hDa3NUZUVGdE1nWHZtMnVTUWpEc2JEeFM4OUVhekVtTWFCbEJ2UzVuLU9FUUJSSEFNdlRfT0ZYWllyU2FWTUdjNENhNklxSTkyRTZqT0NzamNCZkpJTll3Q1MteTRrN19IanhtbjFwRXJleTJwaTltMmtEek9OcWtMUUs1N25DNklkdzJxUDlxYmN3?oc=5"
-    },
-    {
-      "headline": "Arista Networks Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGlENnprakpIaUk3b0dETG5YM25rc3V1cXYzdTNvT25sa2pPSUktTlNOLWdNbjlGS3lsNDlrcExrQzhqZEt3M0hENEJCcU8wbTVQSXg2RDBTNi1CLUZ6Ni1vXzNOVVNKbTR3Yy1STDBOSVBlMjFUX3MtY2QyUnpOdklUMENrTWU4WU9qdzR1c1BNQ21qbXh5ZnhGdWt3OFBYVkoxSHJOVHM3REJIWUFPUHhMVmI2VGUyYzNWVl9wMXJReUpacTZ4SmREUQ?oc=5"
+      "headline": "Arista Networks Stock: Is AI’s Hottest Growth Story Hitting A Supply Ceiling? - Trefis",
+      "source": "Trefis",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVm84RVZwNmhoWHBuZktBZEV4VndGSjFwX0tfTmExUVRsR0N5M1hqYlRCV2s0TmtOUEVIdUxuQzNKMUhZTkhrUEwyQUY5YUluYzJ0dEdOT1p0ZVAwcjMyRm8tWU51S1B5ZGphYzNKbmkyMnBVekRwWVg5SXF1SVc5YzZLVV9HOVNXY1Ribm12VjBoam5wdGdRWHhIMFcwNklKZ3dEVXZ3ZjJmTnFLRndOcHRtS2g3VE5HcVJ6cnBFeVpxcEFXNFJ6RzNkd2pSWkpE?oc=5"
     }
   ],
   "insight": "Tracking Arista Networks (ANET)."

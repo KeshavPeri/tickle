@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-07T05:39:45.505Z",
-  "builtDateUTC": "2026-07-07",
+  "builtAt": "2026-07-08T04:46:48.421Z",
+  "builtDateUTC": "2026-07-08",
   "source": "yahoo-finance",
   "1m": [
-    19.06999969482422,
     19.600000381469727,
     19.790000915527344,
     19.770000457763672,
@@ -24,10 +23,10 @@
     21.399999618530273,
     21.639999389648438,
     21.889999389648438,
-    21.75
+    21.75,
+    21.93000030517578
   ],
   "6m": [
-    15.779999732971191,
     16.030000686645508,
     16.110000610351562,
     16.059999465942383,
@@ -158,10 +157,10 @@
     21.399999618530273,
     21.639999389648438,
     21.889999389648438,
-    21.75
+    21.75,
+    21.93000030517578
   ],
   "1y": [
-    17.979999542236328,
     18.209999084472656,
     18.260000228881836,
     18.540000915527344,
@@ -411,12 +410,19 @@
     21.399999618530273,
     21.639999389648438,
     21.889999389648438,
-    21.75
+    21.75,
+    21.93000030517578
   ],
-  "lastClose": 21.75,
-  "oneYearReturn": 20.9677450152747,
+  "lastClose": 21.93000030517578,
+  "oneYearReturn": 20.428343809611192,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Barclays initiates Healthpeak Properties stock at Equalweight - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTzc5ZFh1RndnNVQ4azJOWW00R0g5TUNlRDZfU2JVd1ROWHRBblFDWkZsNF9yZ1gyaXhMSlp6cHprcFZkWWxmWmxodHFlNGlSUTlJRVQ2a0FUR094MmNaVnIxNW9rczVlVDlINUdGTV9EUGhNUDdld0JDY3F0bEZhTlhZY2pYNVV5MVBqTm9fLTFDNWNlMHRkeG5IaThQdWpRNEpnSG9IZk5XSGVCb2hPVmcwY25DeDNkOGlRWFRyTGYybjJYcnFwcQ?oc=5"
+    },
     {
       "headline": "HCP Changes Name to Healthpeak Properties - Nareit",
       "source": "Nareit",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTdTSGNIbG1DSU5BSGg1WXBaT1VNc3Z1b2o1R1N4Wk1pQmEwdndxUnE3WWo2aU9tNm9Gak85VUNPWUNBQVIzSE9HaFU5Rzc3RlVYSjdzUjdKRW8zQWhfTk5xaDJZaXhPS3F2ZDdaMG5LV0pqbkVtZkN4dEU4SUhhdXR4XzExZUxmbkIyRWdjbHdtMlk?oc=5"
     },
     {
-      "headline": "Healthpeak Properties stock hits 52-week high at 21.91 USD - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEFHY1E4UGJaclhVaWRqN2M1X08zMHpQYmw1Yk5iY21lcVNZRGNPb3lud3hkYkVkZGhYNl8yU21vNnJwZHpRVjY2M3ltYUJjRUpfc3REVE9FN0RfcllEZGhFOXhLdTRnQUR5MXZaNUJMY2ZkeFpvelFNQVJIWXNhWFZwZHF4R2NKSl91V0JNQWVyeDBDX2pocFFXOS0yQlVLR05hRnVidDVyRGRsWGxmZDd6WQ?oc=5"
-    },
-    {
-      "headline": "Healthpeak Properties Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcHhjc3doZnFPNzVBb3BkRmM0R0JyTmdjRGNyV1U2Z0xFSElGUURFalJTejRlQ0NlMjFlcHV4WlRxY2o1cDJiMWM4T21faUI2cVdYeHFLQ1d3WnBuY1hQY2szYV96el9KNDh6LWhMZUZUNHEzN1pSZDBEM1RxbWpvZi1OdlE1T05DZEJrQjhZWFVUQjN5d0RXS3ZLOGtRX2todkFucTEteVlxOWd0TVFVbUprZFRlWHUzSXhpRXFaTEliQkpaZ1JRbl80Y2FWeFdSbE9F?oc=5"
+      "headline": "Healthpeak Properties: This 6% Yielding REIT Has More Room To Run - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnBLbWZiYnY4aWZZcmRJNm9XdnpBR1VLUDlQQUFaRkpEcVdIQ094WVhqZk4zdkdaUkhmRGJOOWhNWWFFcld5LW9DLUMyMWhJZDVuMi1YZEZpckxoM2h0bGt2dUE4c19pZXphU0xiT3FsQXZyUERZTE9uaVpRUUlXZkVFajZRQlMtR1V4NU9iU3oyMTJubFlUOUhKTnEtN2J3WUs2Z2RlMmhHaWVoak41MUpn?oc=5"
     }
   ],
   "insight": "Tracking Healthpeak Properties (DOC)."
