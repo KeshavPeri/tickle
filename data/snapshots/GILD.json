@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-08T04:46:58.312Z",
-  "builtDateUTC": "2026-07-08",
+  "builtAt": "2026-07-09T05:40:56.503Z",
+  "builtDateUTC": "2026-07-09",
   "source": "yahoo-finance",
   "1m": [
-    129.17999267578125,
     129.16000366210938,
     128.10000610351562,
     125.5,
@@ -24,10 +23,10 @@
     125.97000122070312,
     131.27000427246094,
     129.61000061035156,
-    136.36000061035156
+    136.36000061035156,
+    135.82000732421875
   ],
   "6m": [
-    125.66999816894531,
     124.69999694824219,
     124.91000366210938,
     123.18000030517578,
@@ -158,10 +157,10 @@
     125.97000122070312,
     131.27000427246094,
     129.61000061035156,
-    136.36000061035156
+    136.36000061035156,
+    135.82000732421875
   ],
   "1y": [
-    111.05999755859375,
     113.23999786376953,
     114.54000091552734,
     109.63999938964844,
@@ -411,12 +410,19 @@
     125.97000122070312,
     131.27000427246094,
     129.61000061035156,
-    136.36000061035156
+    136.36000061035156,
+    135.82000732421875
   ],
-  "lastClose": 136.36000061035156,
-  "oneYearReturn": 22.780482268973465,
+  "lastClose": 135.82000732421875,
+  "oneYearReturn": 19.93995927800486,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Gilead Sciences (GILD) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3RhTlFnWC1qTkw3YXFtQ0pBSmEtYW8zRGdPUzhJNVhQQjhBUmtlRkszQzJNaGM3MXlYb0tmV0tWWHNscG8yV1pIaXV0NnJLRVhpaF9Ub3NWYWxLOUdhQ2JrSnlkSnBHenloWGsxRUtDaHhReHNkZWVEVTA5di01ZmI3QVRVX09SREwzQkJfSUJVNGNEM1lrUVRsR3hrdw?oc=5"
+    },
     {
       "headline": "Gilead Sciences Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaHBla3VCQnMwTWYyTGw5bHRnZzRoS05XSXRWMGJZT1B1ZGNPMzQ0b1dnRXlHcDZFekZDN2ttQkNMQ05iOEF6dlQtQ3NWdThmQkt4TnpzZEQ5M3ZTSUdTTlRhVG05VTI3TlFsd0ZyOUZHaGRDSzBHSnBNb1JSU3VET1VzOGUxQlA3X05VTmp6VDRfRTBBYUx1cUVMRlBtX1hWX0NkX2Y0R2otdGhaVzRhTGFidThNRkg0UXFEckJzT2s0QzNlRW05NDRPOA?oc=5"
     },
     {
-      "headline": "Gilead Sciences Inc Stock (GILD) Closed Up by 5.35% on Jul 7: What Signal Does It Send? - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXRDem1wVjVGYmE4T1VaTnp0YS1DeWxQRkNReXB6dzQ4S1YwTUY4TTlBNTZSWV8zYUNudE45UGVVLXBFemJlUnBQanVRRFdBQm5aVGZtblZ1WkZKVWZiV3RrS1YzbGNseWpRSjBqSUJ0NXZXeHdLa0xQYTE4eXptWFh1SGJKcjdnUGhJ?oc=5"
-    },
-    {
-      "headline": "Gilead Sciences (GILD) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3RhTlFnWC1qTkw3YXFtQ0pBSmEtYW8zRGdPUzhJNVhQQjhBUmtlRkszQzJNaGM3MXlYb0tmV0tWWHNscG8yV1pIaXV0NnJLRVhpaF9Ub3NWYWxLOUdhQ2JrSnlkSnBHenloWGsxRUtDaHhReHNkZWVEVTA5di01ZmI3QVRVX09SREwzQkJfSUJVNGNEM1lrUVRsR3hrdw?oc=5"
+      "headline": "Gilead Sciences stock rating upgraded to Buy by HSBC on HIV outlook - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYjFuYjh0cU5TY2lHQ3k4ejA0dkVmcGtEaFU5ZG1pYjhZeFNUOUlEb2F5WlZvNkd1X1gxMlU2bmZhOEU4cFpkdE5Qd1BPWnpDRHQ0Zld0N0tlbUNkWEgzcFg2SHEwaVZRc05CQ3kyRVVUV19SZDYweGhYQTJjOTF6ZkI2WE1KVEgtU1pFMkdZSkJzY0NfaF9ONXVWazJqRlFkX3hMemEwTzlRNW43bWlWNC1NTEEzSkNMS2g3X0xVbkFzd1hOWXc?oc=5"
     }
   ],
   "insight": "Tracking Gilead Sciences (GILD)."

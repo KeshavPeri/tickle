@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-08T04:47:27.685Z",
-  "builtDateUTC": "2026-07-08",
+  "builtAt": "2026-07-09T05:41:19.847Z",
+  "builtDateUTC": "2026-07-09",
   "source": "yahoo-finance",
   "1m": [
-    147.91000366210938,
     144.27999877929688,
     143.75999450683594,
     140.22999572753906,
@@ -24,10 +23,10 @@
     130.27000427246094,
     135.39999389648438,
     137.99000549316406,
-    143.64999389648438
+    143.64999389648438,
+    137.8800048828125
   ],
   "6m": [
-    216.85000610351562,
     220.6999969482422,
     218.99000549316406,
     216.92999267578125,
@@ -158,10 +157,10 @@
     130.27000427246094,
     135.39999389648438,
     137.99000549316406,
-    143.64999389648438
+    143.64999389648438,
+    137.8800048828125
   ],
   "1y": [
-    240.47000122070312,
     240.1699981689453,
     229.3000030517578,
     223.3699951171875,
@@ -411,12 +410,19 @@
     130.27000427246094,
     135.39999389648438,
     137.99000549316406,
-    143.64999389648438
+    143.64999389648438,
+    137.8800048828125
   ],
-  "lastClose": 143.64999389648438,
-  "oneYearReturn": -40.26282148822274,
+  "lastClose": 137.8800048828125,
+  "oneYearReturn": -42.59066247490991,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Here Is Why Workday (WDAY) Is An Attractive AI Stock to Invest In - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVnBueXJyZFFEbEp3eDFPM1h2SXREZ3pmaHByM2RFMEd2NnpOd3ltbS00ajdSUnpnTHFaR1ZheDdpb3Awd0JEdk1SbWdnVnktX0ZGVUNXbDk4aWVDUzhZNGxWR09Jd05VOWJFMXNEWk8xRjVZdHZHMlFScmV3QjkxSE1iYjFBekg5SVY1N2lkNlBOVW1lNGxoOHhuQQ?oc=5"
+    },
     {
       "headline": "Workday Inc (WDAY) Trades as an Affordable Growth Stock with Strong Earnings Momentum and a Low P/E Ratio - ChartMill",
       "source": "ChartMill",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTGlvbm5qTURZbDFBVEV3NkQzdHNfMi1NVUs0ek5NajZ3Z2FiR0VQbHBaUVpPSl9NMGRyN3RpY1lHWHNLanNqNWZFWlc4RXJCTFFNeWROSlNWaUhoSDgtcWdPcG00NTFEb0lLQWdIblpkb1hodDBUMExYcUItNEYwY05fZXU3WnVldE1DbGpIS2N1cXFLZDlSTm9MVGF0M3g3XzRRbzlRQ3NfQVQyWkdhY09rRFdNanlueFVPVGJ1bFU2UW45a2tCaHA4NFJXS045VXZWTUhWVzFBVTV4eGhuYTk1OFRTck04YWc?oc=5"
     },
     {
-      "headline": "[Form 4] Workday, Inc. Insider Trading Activity - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVmlkUWF4MGVucVQ4VmdzTUxDeldpUWltNE9VOUhVV01CTXJ0MW9YVzF3QVBmOHVMeGI4cF9VZHNUUC1VQ0RwUUVsOEFKdVZ6cXJwR2RfWTI2YnZrLVh2ZGJacGYyTVlwRkFpUVFCVi1DVkZ1WDNDZGJhVU9OS0VJcUM5SlhHS2RoNWxZdFRUU0lWVWpvc0dQazRUVS1rSFR0NGJRYWhVNXU?oc=5"
-    },
-    {
-      "headline": "Here Is Why Workday (WDAY) Is An Attractive AI Stock to Invest In - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVnBueXJyZFFEbEp3eDFPM1h2SXREZ3pmaHByM2RFMEd2NnpOd3ltbS00ajdSUnpnTHFaR1ZheDdpb3Awd0JEdk1SbWdnVnktX0ZGVUNXbDk4aWVDUzhZNGxWR09Jd05VOWJFMXNEWk8xRjVZdHZHMlFScmV3QjkxSE1iYjFBekg5SVY1N2lkNlBOVW1lNGxoOHhuQQ?oc=5"
+      "headline": "A Look at Workday Inc (WDAY) After 4.0% Decline -- GF Value $314 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNFlJZm95Z1dSNnpkcEkxVUVna0ItSDRmdWt2N3VnV2tuN2E4dUl5eDZlMXdFMHQ1d1RzWHVBcjFna3VQMXhjbHk0bjhZUTlLZmxRLS1pcF9kcDNlMGVNSV9tTmg0S25SQWI2MmFsbmpmMVRBQnN5YjV3T0lVemFkV2FjMnhfc2x0Zm53R3hTNXV0RXlXMHVLck9QVlQ1MHhkWFdWUlVDSnFxWVRRUVVJZU53?oc=5"
     }
   ],
   "insight": "Tracking Workday, Inc. (WDAY)."

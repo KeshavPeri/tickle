@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-08T04:47:11.130Z",
-  "builtDateUTC": "2026-07-08",
+  "builtAt": "2026-07-09T05:41:07.075Z",
+  "builtDateUTC": "2026-07-09",
   "source": "yahoo-finance",
   "1m": [
-    83.45999908447266,
     84.48999786376953,
     84.37999725341797,
     85.56999969482422,
@@ -24,10 +23,10 @@
     87.19999694824219,
     90.05999755859375,
     90.45999908447266,
-    91.66999816894531
+    91.66999816894531,
+    90.0999984741211
   ],
   "6m": [
-    81.05000305175781,
     80.30000305175781,
     79.98999786376953,
     79.77999877929688,
@@ -158,10 +157,10 @@
     87.19999694824219,
     90.05999755859375,
     90.45999908447266,
-    91.66999816894531
+    91.66999816894531,
+    90.0999984741211
   ],
   "1y": [
-    79.66000366210938,
     78.23999786376953,
     78.37000274658203,
     77.69999694824219,
@@ -411,12 +410,19 @@
     87.19999694824219,
     90.05999755859375,
     90.45999908447266,
-    91.66999816894531
+    91.66999816894531,
+    90.0999984741211
   ],
-  "lastClose": 91.66999816894531,
-  "oneYearReturn": 15.076567856785756,
+  "lastClose": 90.0999984741211,
+  "oneYearReturn": 15.158487901548822,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "MetLife (MET) Stock May Be 47% Undervalued With Returns Driving Debate - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-05",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa2VWMDM3ZzFMQzdQejdUOGk2OXBCN2tCTGVEYXdvMExUcHRqSFZ3SDZ0ODRhV0pXbFFSX05uVWd3aEd6TDVUb0s2Y3A3R3lGSjNmdS1EYmFQY0lFQkstam1aV3JVUk1PYWFhdWd2c0NfdzNDejRfWWN5UHZJWi1mQVRTUnVPRk5JWjYwc0JvN1BQWEU?oc=5"
+    },
     {
       "headline": "MetLife Declares Third Quarter 2026 Common Stock Dividend - Business Wire",
       "source": "Business Wire",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb3hGX0FNMkc4Ti05Q1NEaGlQYWZyS3drc25OTlBwQVp3RmVIdWtXQ0tKYVV2TXk4UXBROFc3bGVsRjZwSGtvelFpblRoODJiMmRBYTVpdGhtSzJqVHNOVHRxWlF1amZjOUdtRFdGWF9ETUZMbmhIOGlNSmVPQ3N3YVhoMlpwNk93Q0wyOWVHOHhsZE1hdUp4a2ozTmhIa2lwQmJaQ3E2b25NQjdCSkQ4ZjF5N1g?oc=5"
     },
     {
-      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
+      "headline": "MetLife, Inc. Stock 12‑Month Price Target Raised to $94.47, Implies 5% Upside - TradingView",
+      "source": "TradingView",
       "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WV2VhT1BMVnZYVXdTaENqWDIwSWE1aXhlbkZMWjdmM2pLQ1ZGeHJKVUlHajd0dDN3dTR2MHpyN3FNZ1YtUkhuUnMtSDZYZFU?oc=5"
-    },
-    {
-      "headline": "MetLife Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSlBwS1I5aWFjbTBkTjh1V1V1Q2kzOWh0eTNmUFlzbVNsc0pRUkRXa3ptTTc2YTAtZWtsaEpsZzZZdnhiLWkzS19BT0ZoRXNLbWVXdEtzRzh2d1BWVkdpRWNFMDB6dUh5ZlZ0dW9FWGJUUk5BTFhQblFCRkRBajN4Q1JELUxfVy1jUV8zVTdQQ3NKQmtZOC1wdzJpaVZwLXpQLTNDRTh0NTFWTmd1Uld6dktyRHRXQldzcVZlRVpxdUViVG0ycjJuRmlQYmU4U3FMd0tJQWxKWUZuXzIzcXFjbEVwVnJSY3lKU2YxamU5NjBoLXNaaW9KYUt3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZGRNMk54YXJfV1dLN1lZZlBaQmFHeVhYeWlpc1gxSkpsYmFZV0JoMUhNNzhrODFMOUZvVkZNZDJfQ2lKNk4wdERPSnRzU1I3dEhfZmNnMy1fQi1RS3p0bjdrUWluZ2VyaGRVYnJUNXE3UmRGVkJDS2U3OXVidXdpMzVBU1ExVlFyVVpqbWh3UTYzZHA2dFh4Qkl6ZHRyR09JUXA5SWpwS0JpZW9JdUJsTGFUSlhQdm4weDhITU1IaWNGUWxieE1mZkcyRHZqZ1U?oc=5"
     }
   ],
   "insight": "Tracking MetLife (MET)."

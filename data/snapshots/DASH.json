@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-08T04:46:46.663Z",
-  "builtDateUTC": "2026-07-08",
+  "builtAt": "2026-07-09T05:40:45.673Z",
+  "builtDateUTC": "2026-07-09",
   "source": "yahoo-finance",
   "1m": [
-    160.07000732421875,
     156.8000030517578,
     152.49000549316406,
     155.6699981689453,
@@ -24,10 +23,10 @@
     188.8699951171875,
     192.00999450683594,
     188.4600067138672,
-    195.72000122070312
+    195.72000122070312,
+    189.35000610351562
   ],
   "6m": [
-    232.05999755859375,
     233.9499969482422,
     231.00999450683594,
     228.1300048828125,
@@ -158,10 +157,10 @@
     188.8699951171875,
     192.00999450683594,
     188.4600067138672,
-    195.72000122070312
+    195.72000122070312,
+    189.35000610351562
   ],
   "1y": [
-    241.47000122070312,
     246.05999755859375,
     238.24000549316406,
     240.44000244140625,
@@ -411,12 +410,19 @@
     188.8699951171875,
     192.00999450683594,
     188.4600067138672,
-    195.72000122070312
+    195.72000122070312,
+    189.35000610351562
   ],
-  "lastClose": 195.72000122070312,
-  "oneYearReturn": -18.94645287974492,
+  "lastClose": 189.35000610351562,
+  "oneYearReturn": -23.04722101022288,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "DoorDash, Bumble, and Teladoc Shares Plummet, What You Need To Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV3k1UF8zZ1VrVGZlanJ4NFRMYmpqQUtVY3FYeDhqLW1XTG5OS045OG5ubHRTNUM1aXpJbm9UemVqZmJlT2lUN3E3Q3I1MGxUSzRiZmhmbkpWT2d1ckY4dlZxdmtBbFlKLXZkVXJ4dzNvVUFtNlAwc1NTUE1SRlQ4UDZIU1BKVlpLeVZEVFE4RVFhSlZuMUtXZ2NtbGlZTmhGd2luaHlR?oc=5"
+    },
     {
       "headline": "DoorDash Stock Eyes Breakout Relief As Earnings Loom, Ad Growth in Focus - Stocktwits",
       "source": "Stocktwits",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNERNWnFNaXY5WUFKcU9FTzgySnNSblFZRFBnemxyNXB5WVF2U1BMWGgwdGFveHZPSG9CTUcwWGpDcmJBY25tcXN4T2pXVHBWVVhTMXBPbEMzQWxrTDRNRUJfR3F6bHBiYkR2b0VDZGhOLThQN1ZCTXV0Q0hzRFFnQkRqRTJYa2FDcko4cnRBOTBXY2s5elZTNl9Xa0d3M2FDMGRuY3NjX0haTjNDdTZXcFpTYlpwa2k2eEtMZ2pKWGpFUHROV3lKUndqM0p6Skgy?oc=5"
     },
     {
-      "headline": "3 Big Reasons to Love DoorDash (DASH) - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZjVsTnp1X0F3M1Y4ZmhrSHhkMGU4akx3ZWhiWFhrOEZiSy1iVm4wdTZiRk9yTnh0RXhuV3AxWUQxaFRWVmRqM19fa0dtVU4tbl9jM1d0eThVd0xLOGhFdk1lTzl3WFdnbDRJaU1hM1B1Q0F1NmkwbENZN1pRSkdZdVd6U0F4UGxjaVFQWjd4QVJRcGxvcXNn?oc=5"
-    },
-    {
-      "headline": "DoorDash (DASH) Deepens Auto Parts Push With AutoParts.com Partnership Is Its Logistics Edge Durable? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWTJ6XzBnLVRtSC1zUUdCNktJSlVDUm9NVGRJM2VfMW9SblBQcjY3am5jTlh4SmtmMkt3UE9VMm84WGM3LXRvY0RaTWFPMDVnZk9WQlZacndUQXN0dWJ0a2dGQnNTVTY1bHBUWEtQN2VFN2VUODV2eHFKRWFPUkFoQnJfeF9GWTVjdjY1bzdWVkJlc0hRUTlrUndaNjhwemJ6eHVsX0J6YmxVWXlmeHVBUXFpY0FUNkhkRl8xTFJSTUk2eDVEeFh6TEZIU0xJQjBQZ1HSAdcBQVVfeXFMTjN4cEE1c24wT3lJT2VZYVJLZHFtdGd2Uklzd2k3VkdsNTY1RnRZaGJMVVpvUzB4SDNFN3g5UFA3b1I0VVF0YjBSbEpPMHpoeHFZTUw3RkxMTWk1OUQtV1dwdWN0TlJNd3gtZXY0OXQxRFZYMGtUVFVTeHZCWHJ0QlNjSWhYZ2RuYllHUFl6VVdEaGFrcWNuVS03ZjVXdmhBSGdMVmt1TzFOUEJIaXNEaUJZbXhNVlcyY1AyRWhrNE44ZzhmYjFRbVYwNnZEcGM2NFZ5U3pxdFE?oc=5"
+      "headline": "DoorDash's Q4 Report: Strong Growth, But a Profitability Puzzle - Kavout | AI",
+      "source": "Kavout | AI",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNzJBU0tnVUlSZkxUZUp6TTNQMmlReUdENHhIX045TTNmT1lKeHVvNHJwVXliaGEtMnNoTmcxOFM1V2haQ2hTWXVINkI4MHR4TmVlTmE2a3hKVndMOGpTaWltSEFVeWJ0WThDbENKclhxYkt1SkVhdkU4RU45LVNtdFRJTDhnWVVvdzBoS3NXM0d6a3VuOHNyaTJPM2E?oc=5"
     }
   ],
   "insight": "Tracking DoorDash (DASH)."

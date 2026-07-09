@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-08T04:46:31.423Z",
-  "builtDateUTC": "2026-07-08",
+  "builtAt": "2026-07-09T05:40:32.685Z",
+  "builtDateUTC": "2026-07-09",
   "source": "yahoo-finance",
   "1m": [
-    193.91000366210938,
     194.1199951171875,
     189.10000610351562,
     190.8300018310547,
@@ -24,10 +23,10 @@
     166.0800018310547,
     166.02999877929688,
     162.11000061035156,
-    165.25
+    165.25,
+    165.0399932861328
   ],
   "6m": [
-    174.8000030517578,
     176.41000366210938,
     175.8300018310547,
     176.72000122070312,
@@ -158,10 +157,10 @@
     166.0800018310547,
     166.02999877929688,
     162.11000061035156,
-    165.25
+    165.25,
+    165.0399932861328
   ],
   "1y": [
-    220.6999969482422,
     221.8300018310547,
     221.00999450683594,
     219.24000549316406,
@@ -411,29 +410,30 @@
     166.0800018310547,
     166.02999877929688,
     162.11000061035156,
-    165.25
+    165.25,
+    165.0399932861328
   ],
-  "lastClose": 165.25,
-  "oneYearReturn": -25.12460249886008,
+  "lastClose": 165.0399932861328,
+  "oneYearReturn": -25.60068885009208,
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Wolfe Research upgrades American Tower stock rating on tower market recovery - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdlVwemlBOFgyYkhtTk14X3Itbi1ORWZvbndQMk9HQWpVYTBZU01KeHBjblFKYWtyTFV5T0w1eXlsbHVycU9tNklxMnplNkp2OVZBT0lab2xzSmhpUy1Dd0k1OF9td1RlTlU4Xzh6WGxnLXZTcF8zR0hpWWRfR0dmTzFhRDdVWkhtQTlOWlNITVl6R05TZldVODVqTUw4RmZXekJScnZpOV9RdWxCQXZ6aFl0d3FvbS1tNkptQnFwakV6el9JVXhvX0pDNEdmbHYwYVE?oc=5"
+    },
+    {
       "headline": "American Tower (AMT) Stock After 24% Slide Is The Market Overreacting To Rate Fears - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-01",
+      "when": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlFsSVRRVnB1MDE5NWhVbC1hcDZDakJWNTZIYjB6QllOT01DX19GNWZ5U3ZNZUhCVG13clVyQktibDdDd0NGaHVtYWV4SjdCZUpwc1RRRlROeGFMNWxEMXJHQ3h6R3NUU091eHdybXRYUVZaSGJhSFZtTlNKdElfZkNMT3d5WUJzMkVUclFnUGlJZGFaT0hZ?oc=5"
     },
     {
-      "headline": "Swedbank AB Raises Stake in American Tower Corporation $AMT - MarketBeat",
+      "headline": "QRG Capital Management Inc. Has $1.24 Million Stake in American Tower Corporation $AMT - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZHFmaDdkYW10NHhuTXlGdDRwdW9pQ1ZDUVhyWnFrV05QU2pVclBSNVJCejREQ1VIODl0OEN6dHNVb2Nxd3BsbGxVMnp0dWVuY0Q0d2lmVkxoY2pwV3pseUl3R0VtRzJtX2ZhbF93dFFwV2JpZldPdzV2bDVOMWNMS3RWUTdYMDdmSzRiVmU4Y1NtMEFYanYxSjh1T1E2TndGb2hpYUM2V242M3F2RGhSTHFZOGtFYmhaZUow?oc=5"
-    },
-    {
-      "headline": "American Tower (AMT) Stock Looks Below Fair Value After 30% Slide - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeUpBbFlIcHpmM3ZyR043cmJXZ2l4N1N6bGtGVENqcGQtZHJDYmJqaDg0MEk4U1lqSllIaXlEcUtyc0RiU1huZE1yREx1Z0hEX0k1N0hJU1RHUjNhZ0RkeHNyWWpfRDRPb0VNajlQMXJ3a3NXYWlYNzNHeDd3UmNmajR4V2pTN3ZZNk8xZThpTEtaenJoRXJydDVoQ25RRkJYbXUxMTVDT2ltbW9YV3JGUTI0RjU5czVyaGh3SUZfOGF5VFRTOF8xY2pzSzZlQdIB0wFBVV95cUxOS0ZnX1hJaWxvcEVObDA1Q0JKV1Fod1lIWVU1djI0WU5GMnBETlFtb2VNQkVrcnBNMDdvZks5NWRwTUhjbkRjOGF6alg2c0hEQ1NXWmdLb0tJblJfSmVHYVhUMGEyeUpoZlAwZ21yR29VaW9rVzcwUFppTG9rS2FXc05TU3Fja0h6cWtDeW1jaXk1NVdSTTFnUVNBQTRrS2txQkpNVE50ZmJLVDJCY3R6U1RBMFRXZ2MwUEU4cHdRNUNxY2E3VDFqZUpfUzBzUUhQTzJ3?oc=5"
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc2Z5RHl4WEJLZ3djSmxDRDFRRWJlNURXRjMzd2lQSW1NMHNkaVY0cUc5TUVFNGxscWxFTjFncG1LVVJhZkR3ejkzcEI4V0hCYk1US3hOdFgxZEZia0tDbkZnUXVqOElSSUx1MmFxVFBhYjRacS00V2ZfeFBocmlCRHZLRUstLXhIUm1Uc1Ryckp6SXE3OXVLNUNBcVFLT292Z0MtS2xabGgxZHdVV1l1WGd2NlFkSzQ4OU1CZ0VKX3gwcXVwcTZmTEN4T1BwYktRb0o4UlI2VWJlLU0?oc=5"
     }
   ],
   "insight": "Tracking American Tower (AMT)."

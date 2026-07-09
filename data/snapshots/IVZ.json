@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-08T04:47:05.771Z",
-  "builtDateUTC": "2026-07-08",
+  "builtAt": "2026-07-09T05:41:03.115Z",
+  "builtDateUTC": "2026-07-09",
   "source": "yahoo-finance",
   "1m": [
-    28.170000076293945,
     27.350000381469727,
     27.549999237060547,
     27.90999984741211,
@@ -24,10 +23,10 @@
     26.829999923706055,
     27.010000228881836,
     27.829999923706055,
-    27.399999618530273
+    27.399999618530273,
+    27.030000686645508
   ],
   "6m": [
-    27.209999084472656,
     26.959999084472656,
     26.84000015258789,
     26.459999084472656,
@@ -158,10 +157,10 @@
     26.829999923706055,
     27.010000228881836,
     27.829999923706055,
-    27.399999618530273
+    27.399999618530273,
+    27.030000686645508
   ],
   "1y": [
-    16.690000534057617,
     16.950000762939453,
     17.399999618530273,
     17.43000030517578,
@@ -411,12 +410,19 @@
     26.829999923706055,
     27.010000228881836,
     27.829999923706055,
-    27.399999618530273
+    27.399999618530273,
+    27.030000686645508
   ],
-  "lastClose": 27.399999618530273,
-  "oneYearReturn": 64.17015423467382,
+  "lastClose": 27.030000686645508,
+  "oneYearReturn": 59.46902342179005,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "INVESCO Ltd. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTTVkYU5sc0RTRjhCMUpjRkR4bzNYU2sxUzRObHl4NlNvejllcldWa3lVTzhNdTZVM3l6d3dmcmRyV3NyOFdEazZFam1NaU9tRXhvdTM4X0IwT1BXVGZyS3BHVC0tZVpRNnZYV1kxVEhLSE9TZmFKTTgxV1JCLTNvUFY2MnJQU0JVS2Q0VUxxTkFVZ3NiZzhDQl9jdlItYVJoV3l4cVRJX1ZfbkRZR3MwdUJpMHpVOTQxTmF0aVZ3YWo0NGlOUkdOSWJVS2l0RXp6NkpSYi1GVHhEQVR4Vnc?oc=5"
+    },
     {
       "headline": "BlackRock to launch Nasdaq-100 ETF, challenging Invesco's dominance as AI rally boosts demand - Reuters",
       "source": "Reuters",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU3pWWXJlM3EzaWI4S3Jva2lvRGtGN1JuX0pSdlkxSmxEalQyS2VKN3planZiak94MDl3MGRsVEtTbkRfN0VIZEFOcUtUWGFTWnlYd1R1UHY3UHhlRW5EY3F0VW5RWWc4bGo3OHVTRlV3Q3k2bm80NnhQbGJ5Z0Uwd19NVGd3aWtRR3JaRklFTW1rVkpqNWZPVW1RQzhGMVVFV1lRMnVwUU0wRndrQncyR1FpdXV6TEhqYWZDNkVOVS1Rd19nSTg4SzAyRQ?oc=5"
     },
     {
-      "headline": "Invesco's CFO Laura Dukes Sells About 52,00 Shares - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGw0SEk5UmR2bkVKTTdCclJMRGxjOWtldFlmakRqTzBEV3EwU3ZEblB4NENTVzRnVnRQV2lTV2xhOUotWjV1ZlI2d1dPYkdXcHprTk5yUW93ZHZVTEQ0MDJ6aE5ZeG1pVUEwX2tyUm5zbEZVMnhyU1p2REhTMkZoMEEwa2ZoWkdTY2MwMnpDUVFuNXlKQTVR?oc=5"
-    },
-    {
-      "headline": "Invesco (NYSE: IVZ) executive converts 116,754 RSUs into common shares - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT0FEeEJUckRDWDEyRTFXOXU0OVJkaHowYVFZZjB2LThJV1ZpVTZRbDZaVWFiTHRRT3ZqLXZFdk04TGNZYlpUdG1hNUc2amJGY0xUTEM1U1BMaURRNUNJMjk3UjNiNGFrcXViME5aRUl6NHRHeDFLTDYyc1ByXzk3UF9uVWRDMVI2VkZTNFF5VUdFVGcwQkp1ZnFuSkVWbXJoQWNTR1RQcw?oc=5"
+      "headline": "Which Healthcare ETF Is the Better Buy: Invesco's IBBQ or State Street's XPH? - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQakFnNE90YzFlbTJXclN2NlR1alJ2UkYzUE16UElFRXFYclZ5UmV0WmplUXpDUC15Z3duY1JoRjZaTGlqb25yamJESW9sTU44WGJ3TzdFcTZJS1FsTEVpUHl1eDFKWnNMSlZ4YndXa2xxWjNCbC1VVVo4VmVIa0RGbGRKeVVKdGJtckNGZU1zVnJ5QW9ZRnF3dHlnMGZPVXE4VUhkMzl2RDE0V25qZ044X0pHZnVaVWgzVEdlc3liUkFaTmJjN1NhQUpWTFlpY3VuUDk2R2RBLUgweXJvLUhsbTIzb1Z1OEhacFdnWmVJVEpVUVk?oc=5"
     }
   ],
   "insight": "Tracking Invesco (IVZ)."

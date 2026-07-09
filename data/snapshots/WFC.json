@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-08T04:47:28.280Z",
-  "builtDateUTC": "2026-07-08",
+  "builtAt": "2026-07-09T05:41:20.189Z",
+  "builtDateUTC": "2026-07-09",
   "source": "yahoo-finance",
   "1m": [
-    81.62000274658203,
     81.94000244140625,
     80.95999908447266,
     82,
@@ -24,10 +23,10 @@
     85.94000244140625,
     85.51000213623047,
     87.44999694824219,
-    87.18000030517578
+    87.18000030517578,
+    85.55999755859375
   ],
   "6m": [
-    95.30000305175781,
     95.26000213623047,
     94.5199966430664,
     94.30999755859375,
@@ -158,10 +157,10 @@
     85.94000244140625,
     85.51000213623047,
     87.44999694824219,
-    87.18000030517578
+    87.18000030517578,
+    85.55999755859375
   ],
   "1y": [
-    81.58999633789062,
     81.79000091552734,
     82.36000061035156,
     82.55000305175781,
@@ -411,29 +410,30 @@
     85.94000244140625,
     85.51000213623047,
     87.44999694824219,
-    87.18000030517578
+    87.18000030517578,
+    85.55999755859375
   ],
-  "lastClose": 87.18000030517578,
-  "oneYearReturn": 6.851334989813135,
+  "lastClose": 85.55999755859375,
+  "oneYearReturn": 4.6093612921707345,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Wells Fargo (WFC) Could Be 9% Below Fair Value As Bond Issuance Draws Focus - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
+      "headline": "Wells Fargo Completes 2026 Stress Test and Intends to Raise Dividend by 11% to $0.50 - wellsfargo.com",
+      "source": "wellsfargo.com",
+      "when": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORVFCaHIyWjdHNTVLMEpmRHRTWmpFYlZJUTNpNmw5TENlbmc5U2M1cS15TlBYbmtwQVYyOGdHV3F4TUwyNW01a0dpejFtYjJMc1p4SW15VExPTUd1azRXTkI2dlBJOW1zTTh5R0Nsanl1OV91MmN4ZWZ6aGRWRmV0bzh2aEJEelNSZXdLRGctYno2QW10bE5Nc1NlWXpDZVhxZVc3NXhKdHQ5VG9VLTlGUTlyWU5Rdl9yLURwZzhXenNHV3k1azJzUHo0MHozLXJNRkdqMzRzdDlhMGNpWDJTQ0pWNmdpQQ?oc=5"
+    },
+    {
+      "headline": "WFC Price History for Wells Fargo & Company Stock - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNdHNxVi1jZXJzQ3U3RWhnOXFlanVrWXJZd2pEUjlUcUpKZ1A3QVBTdjZlWHpoOF9mbnRnZGI0VUI3ejhZTkpQck56cHlzZVY3dzlxMTdaX0VjYjVvMmY0Nnk1WFFrZXQ3SG43aEloU2lpNERYSGlfUXU1b1I?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tX011YVJCTnVzZFJEUTJCcVctRUFCMlJhdFVnb24yaXNwcG1GVkI1clZRRFllSXpIdVFxeVNnd3BZZllJYXRYRWY4SXk1dlRILTFYUGJlMzJSY3hVYkhqcl8wZmgwUWp4d29VZGlkNlEtMFl4N3c?oc=5"
     },
     {
       "headline": "Bank stocks to outperform the market for third year in row: Wells Fargo's Mayo - CNBC",
       "source": "CNBC",
       "when": "2026-07-06",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZFpnakxueHkwVk5sYjhJVmhFWTBINjA3eGVHdndpNmRuUHV1dzNsSzJlOVg4VmI2LVpNWTlRc3NxaERJN0wyQnBTSVktM1dVcU90c0NnODdwaWdRbHVKV2M5TUZfczVfSjFweG9EVktUV2hpbldISzZPTzhZdXBldk01ZVhTNE84Rk53UjdCY0l5Z0x1ZUVVNEZ1MUFaWnBvMEV2c1lHSXFwak1oZVljSzlsOTZEZw?oc=5"
-    },
-    {
-      "headline": "Wells Fargo says this struggling solar stock to benefit from potential trade policy shift - CNBC",
-      "source": "CNBC",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQazQ0SnBpNGlzLTZTV1hEYlBYeXZWbzdGWl9iNmVHLXZjNGo3MG1WSFZtSFVUYXNQdGtPWWxnb2JGMmxuQjRQbTQ1VURudjZUdnpHazIwQ2N6amtrQTZhNVRnaFVLRU83SXdVNnpJX2ZJcE0yLXNBcVdvSWhudFNvOU9pUVJRczB4Z2FyOGUxTjIzNGNFc0E0V2pIUnhuVlc5TjdTZXFUN3d4ZmY1LWRWeDhJT1B4MFdZN0hSQXo5ak9vVmFq?oc=5"
     }
   ],
   "insight": "Tracking Wells Fargo (WFC)."

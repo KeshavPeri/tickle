@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-08T04:47:28.402Z",
-  "builtDateUTC": "2026-07-08",
+  "builtAt": "2026-07-09T05:41:20.312Z",
+  "builtDateUTC": "2026-07-09",
   "source": "yahoo-finance",
   "1m": [
-    66.30999755859375,
     68.56999969482422,
     66.75,
     67.22000122070312,
@@ -24,10 +23,10 @@
     70.66000366210938,
     72.08000183105469,
     70.91999816894531,
-    71.54000091552734
+    71.54000091552734,
+    71.27999877929688
   ],
   "6m": [
-    70.63999938964844,
     70.56999969482422,
     70.79000091552734,
     70.80000305175781,
@@ -158,10 +157,10 @@
     70.66000366210938,
     72.08000183105469,
     70.91999816894531,
-    71.54000091552734
+    71.54000091552734,
+    71.27999877929688
   ],
   "1y": [
-    70.37000274658203,
     69.75,
     69.1500015258789,
     68.87999725341797,
@@ -411,12 +410,19 @@
     70.66000366210938,
     72.08000183105469,
     70.91999816894531,
-    71.54000091552734
+    71.54000091552734,
+    71.27999877929688
   ],
-  "lastClose": 71.54000091552734,
-  "oneYearReturn": 1.6626376627534534,
+  "lastClose": 71.27999877929688,
+  "oneYearReturn": 2.193546636984767,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Barclays Reaffirms Their Sell Rating on W. R. Berkley Corporation (WRB) - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQckxoMkhscXp4OW1VM2FsSFhueU9uRnoxYnM0X0ZPOEdLdWg2Y2tnMTMtOFhUSGpxd211TWxsRXV5cUZpWTVKRG9GcmtZalRYVU1Zc0xPNWVZNmEyN0w1ZDloSGdqcGR2VDEtZmprckV3c2lkSnE3azFhejFOOUE2dW91ZmtrOENhdGM4QnJtTVgxR1JnLWdmUXhUVzdkcC1qMDF6a2cyRnRUa0pucE5xbElmNjMwbTlJUnpUaHJ4Y0F1LURwYlM0b0VlNU03QVVQbkgzWG5JMlIzbmFIcFh4Y0l2eGZlWWpY?oc=5"
+    },
     {
       "headline": "Price to sales forward of W.R. Berkley Corporation – NYSE:WRB - TradingView",
       "source": "TradingView",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRHdnYTlaaTZYeE9YMnhxcWpVYzVwc2U3X1FMS1hyTnNZelpKdlRXdUpfMnh1WGVqUldGVWVodnRYa1ByZDFrQmZYWl9NRlJ1R1BPUXZYazI2MGI2aEo2MFR2ODFjTmNNdG5KdklScXBfejlYN3ZhNUJFTU0xd1dhY0tzWkRUV181VG85ekpkekM2TW1OZ3VfdUdB?oc=5"
     },
     {
-      "headline": "Goldman Sachs Upgrades W. R. Berkley (WRB) Stock to Buy - Yahoo Finance",
+      "headline": "W. R. Berkley Stock: Is WRB Underperforming the Financial Sector? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTnVQTVJ5Zi1CLTNHS1F2Tkg4UUVLVlFsNGc3STlraXRLVFg0OXZXbFJpM0FGcEJRTkk3Y1BtX3ZXZnlhcDZjNUNSaXRvNTJRa3FHR2tFemZkRF9lYi1QcGE2WUl5MmVNaUppd0NiQkFIX0VUQ3gzcGVzTWd1Zm5fc05nYTh1RGNxNVNLaTZvc3hKZmpXVmc?oc=5"
-    },
-    {
-      "headline": "W. R. Berkley sets July 20 call for Q2 2026 earnings - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORWhQRjVSOU52QzJKYXRXR0VWQ3k4eTI0VUl5azF5SzdHc0tqM2NOTWZpemF0RmNfRnRsZ2x4c3piS09tUk0yWHUzR0tua21qeXpXa3lxZzE0OXBmVXJYYUw3d3VwQks3TExjbWt0SFhEeG1Jb1kzNURhb0YtbFhZY3Zhc2hlODc1Rmx3SmIxaEdETVQtSDJkdnl5TzBPUko5WHl2TFFGNk9nNTJkSUZocnZuYUtaM3R3SjJ4MXV3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFB5M0x2aEhsM2NkVnZzZGZEQTdnVnNCN0g0c000RTFuWG8xN0o5TXRNbFVlNkdIOEFKcl9ObjN6SG1hT3BNcWM3VHdUWllMUDlJZEQwUWhxNnlsNXNDYXFITWx0NDF4VndNZ2xEQjlSQnNPVW5CNzJDNXNqdGtDUDFNQ2UyaFl6ZW9nMjY3cw?oc=5"
     }
   ],
   "insight": "Tracking W. R. Berkley Corporation (WRB)."

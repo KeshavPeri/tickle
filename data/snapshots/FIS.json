@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-08T04:46:55.959Z",
-  "builtDateUTC": "2026-07-08",
+  "builtAt": "2026-07-09T05:40:54.388Z",
+  "builtDateUTC": "2026-07-09",
   "source": "yahoo-finance",
   "1m": [
-    41.47999954223633,
     40.95000076293945,
     39.540000915527344,
     39.97999954223633,
@@ -24,10 +23,10 @@
     40.79999923706055,
     41.79999923706055,
     41.27000045776367,
-    42.599998474121094
+    42.599998474121094,
+    40.84000015258789
   ],
   "6m": [
-    67.16999816894531,
     67.19000244140625,
     67.44999694824219,
     67.16999816894531,
@@ -158,10 +157,10 @@
     40.79999923706055,
     41.79999923706055,
     41.27000045776367,
-    42.599998474121094
+    42.599998474121094,
+    40.84000015258789
   ],
   "1y": [
-    79.8499984741211,
     80.0199966430664,
     80.22000122070312,
     78.6500015258789,
@@ -411,12 +410,19 @@
     40.79999923706055,
     41.79999923706055,
     41.27000045776367,
-    42.599998474121094
+    42.599998474121094,
+    40.84000015258789
   ],
-  "lastClose": 42.599998474121094,
-  "oneYearReturn": -46.64996958274521,
+  "lastClose": 40.84000015258789,
+  "oneYearReturn": -48.962756978412585,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Fidelity National Information Services Inc (FIS) Stock Down 4.1% -- Now Undervalued? GF Score: 62/100 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc1dsa2JDVWVmWWxOU0lGZl9sd3FIbFZjb0VicUtqSTFmYWl0M2VRQnFYMkdGQllRVkFYamM3UVJYNVVuemt4ZG9tM3dfWHRiNFE2NGNocjdVLXJQVkFBbXREbndZQ2xFY2ZUSDZtcXFzMkI5VTZGbEQxU3Jhb281dG9RdUdMRUxDOHM0cTJFQk9rV1JiZzZPazRLcjhVeTIwN25mUG02R0pxZ2NVdi12VmwtUTFCZEJvakNsV0tsanNLVVNoTUR3bnR3?oc=5"
+    },
     {
       "headline": "Fidelity National Information Services Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZ2Z1TWJWU0x6X2R4QTE4YjFUQWV0dnpFSjNVTFRrLVYzdkpaek1RWm82WnA4MTFHd09mTURmN1VteWRjZW5jY0RrRG9jRkdnYUs0VHdSMWhTNFlKTzYxUElXcWlOaTl1WHJZd3h6bWx4WGx3QkJHeVVzTHdUemc3TUk3QjlIckFzcUZMMWJvT0NDVU84Tnd5WEZfNEZQdE1HMC0zQmpMeUJWelc2QnZ6dzV1UzlZOWlaS3pYUmxOTjd5VVNQc3h2YU9QbDUtTzAyUFpPdl82d0VuRDAzMXZGemx1QzhKWkgzSW4xUzNUeTJMUjhENXBCOHQ5WnEwSVI3Z2c?oc=5"
     },
     {
-      "headline": "Is FIS (FIS) Quietly Reframing Its Competitive Moat Around Managed Cloud Treasury Platforms? - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Morgan Stanley resumes Fidelity National Information Services stock coverage with Equalweight rating - Investing.com",
+      "source": "Investing.com",
       "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZHdmd2c1VWNlQ0wtZnFXZjlQYzR5OUp1MzMyZVlHanpCTC05YzJIRlA1UjNEWDVoZlp6YXhWS1pIRGtrV29iZHBDTzlrc3cxSEdDdXliTmhzZ0FITm9oRXp5T1hFdEdTbTl1UHpoV1JleEJSWXc2WG53dkZ6UjBfV19fQmhGNmJUSzZfTTBNSHZpZll4MVQ1d282SUswMU1pUmZtdWNiNTdPZndKV3R0T3NuWF90b1E4M0stc3o4VE15aUMxZm5jbXRGamk1ak1DVnZSUUEyb3lHYUNfUm44RUxEbmFPRlJEUlNMdnBfbGFXc0UxdVpUNDRIckFUREpTRnfSAYICQVVfeXFMUGR3ZndnNVVjZUNMLWZxV2Y5UGM0eTlKdTMzMmVZR2p6QkwtOWMySEZQNVIzRFg1aGZaemF4VktaSERra1dvYmRwQ085a3N3MUhHQ3V5Yk5oc2dBSE5vaEV6eU9YRXRHU205dVB6aFdSZXhCUll3Nlhud3ZGelIwX1dfX0JoRjZiVEs2X00wTUh2aWZZeDFUNXdvNklLMDFNaVJmbXVjYjU3T2Z3Sld0dE9zblhfdG9RODNLLXN6OFRNeWlDMWZuY210RmppNWpNQ1Z2UlFBMm95R2FDX1JuOEVMRG5hT0ZSRFJTTHZwX2xhV3NFMXVaVDQ0SHJBVERKU0Z3?oc=5"
-    },
-    {
-      "headline": "Fidelity National Information Services Inc (FIS) Shares Surge 3. - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2FwUnFySGdsM3VXaVlHaDBlN2h2b05wVFhTM1NiNVlaRExOTUlhUWIwV0pFbHlSQXctQ0E4U094eC1mRHdxbXVXcGhmWE1nbTJmTEQxNEprNlRJc04yck4xTk1qUVZPenBIUEQ4YVVBTDgzak4yWmdrVTRDNFJtMVJhOGJ0TEY4YTBUYWZpRjBHdG4td3pQMDZDSmZucGJUNk1kU3M1QTVrQzc2ZGtFS010OXIwRS1XUlJDbTBnSG1KY1JNRTBaVkRoUlBaSGFkUFg4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRElfRDFJX2p5WVJhUm1uNTRja1RCaW9rRC1JVmpNcnZmTHAzRVFucG8taF9xaldobURvT2NnWWhxLWs2bC1fYi0xakE2RktlbENHRWw4SXhZeUV6WjlnQ1NXdjRCM3NqVGR0bWxrN21sa2xTYVEzeWgwbXlNWHd2RS1zRXdESTViMGhtWlJ4WW05VkVkaFhjREJIaXV6Q2VZUDZNUVowazNrLTlzTURiWnRUa282clFaWWN0RzMzMmlxcDI1bnNYN3pQMjVTalp1LUJDMGJCRjhZYU1vZlIwdU4ycHBwMjl2dWROTjloX0tWUQ?oc=5"
     }
   ],
   "insight": "Tracking Fidelity National Information Services (FIS)."

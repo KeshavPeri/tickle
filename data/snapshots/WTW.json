@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-08T04:47:28.706Z",
-  "builtDateUTC": "2026-07-08",
+  "builtAt": "2026-07-09T05:41:20.739Z",
+  "builtDateUTC": "2026-07-09",
   "source": "yahoo-finance",
   "1m": [
-    258.5899963378906,
     263.5400085449219,
     258.1199951171875,
     261.1600036621094,
@@ -24,10 +23,10 @@
     275.0400085449219,
     286.2200012207031,
     287.6600036621094,
-    293.8999938964844
+    293.8999938964844,
+    292.5799865722656
   ],
   "6m": [
-    334.5199890136719,
     334.6000061035156,
     334.1499938964844,
     333.5799865722656,
@@ -158,10 +157,10 @@
     275.0400085449219,
     286.2200012207031,
     287.6600036621094,
-    293.8999938964844
+    293.8999938964844,
+    292.5799865722656
   ],
   "1y": [
-    305.0899963378906,
     308.510009765625,
     309.82000732421875,
     307.32000732421875,
@@ -411,12 +410,19 @@
     275.0400085449219,
     286.2200012207031,
     287.6600036621094,
-    293.8999938964844
+    293.8999938964844,
+    292.5799865722656
   ],
-  "lastClose": 293.8999938964844,
-  "oneYearReturn": -3.667771010431032,
+  "lastClose": 292.5799865722656,
+  "oneYearReturn": -5.163535278956235,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12Z05kSFdzLVBRUVhiZTdkTUJNWkYzbEs4SkstTkZuMFRVOFJ5Ym5JZHFVMUhMbnhfN0pERkJkdjFFTzFtcncweGVnYXdPUkk?oc=5"
+    },
     {
       "headline": "Willis Towers Watson PLC stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUUZLVEt2cTI1eXVTX04wZnMzTFZwcm02bmVuTm1VLV9jMU9LOGFRSFIwbDV2SjJnemJIR1FzUmVoT1YyTUZqVmRrZGJwZnhTaFFDSDVzM0gtQXR5bTRDZVFwLVhYRGVQV18yd1V1TXhNSFpFdXJwa19SNk1xSV9ybU9taWpfX3NJT0JFVUVKN1dacWs2OUhYaXoyVC00TkdRMHpFdmM2NHBaSFR0REhjcF9SWExiOFdNZmxiWVh6RFVJSzU1YXFGZE9yczFOc1ZCSnpOMXhDRDZvWFdMTW9oc1VTZDg1eXVqYkRHTURyOTBoM0pZRDRiT09oblZzODdJbHg4LVg3eTBwX1U?oc=5"
     },
     {
-      "headline": "Is Willis Towers Watson’s (WTW) Tech-Driven Risk Push Quietly Reframing Its Competitive Moat? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNVd6bVAtRERfYUZBY0p4LVF4OHZ4SGJJQTdUX19jTTFXNy1OOHBEaEdSUnRDUFpZNEFhVGV3OXJiVzFxRkxrLXNBYk9MaVVndmlVemdVQmU4VkRuOFAyamNDYVBvWWxQbUJnbGVGX2hwX1NuRUNsZXZQLVlwVU1pX18tbWRrdndaZDI0ZFpVRGFGb19lZVVkcTlXQzNtRjlNX2dVQ2ZsTzBWMlBUTmIwdUVScmxFMnNfOGNnYjFvdDI5WV9LcEdPR19YOUp1ZGtzYkhONUN30gHbAUFVX3lxTE9vcmRGVjhwUjlFQnkyV3lWXzYzRUtjYXl5REhLbEQ0dkU1VVlHUWZCT2kxUDNncExmdmFHWFNRRjRQS08xWmhZa1hOUEtUNEJqdnFjY3JtV1VVdnRlYnQ0MzBlR3h1dVU1cHZ6eGoyazRycUhCTXBlX1JsdmRjazJqdFNfV1lHR09IdjJhNXFQeHJJbnRnM2hKeDFncFpZUTZDY0M0MWd2ODhaVEpXLVpJb1hxNTlfNG1ZTHRwVW1wb1ltOS1xTkRoRGlCZWcxc29tZjVGbk1ZRjU0WQ?oc=5"
-    },
-    {
-      "headline": "Is Willis Towers Watson Stock Underperforming the Dow? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-12",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnNGU0x2dlhwckFDeUd6dW0zUm9reURyenE1c2NTUzZNQ3Y5RVB2RTNMY3dpR0Fpd1pJaGpxY1JMenN5N0pXNDZ2RTN0NFJGMFJ2cTBJZmQwMzR5TXVleDYtQ2FKY2k2Z2tXZzJzSXFwcTJ5OEM0LVUyM3M2MFViTzd1YjQtYXIzbkVmSzN5OGF0b1JVMDJac2FPQ1FFRzZPUHNIdmxwNUVrRFU?oc=5"
+      "headline": "Enterprise value to EBIT forward of Willis Towers Watson Public Limited Company – FWB:WTY - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRDZzRUxQa0VVT2YxN29WQk9ub3dtU3hsN0pVVHpzNWdraEdkaS05ZkpBSkE5c1dOVWdHLXJocG9BSWNKRTVXMGlRbDJMaVBGajRnTWVRQ05DU2ZWSzJ0a19IdVlFOGotU2hyeUMzQnVpTUpaSzkzeHNUc01HYXdZMlF5U0lWN3U3S0JjTUw2dkNaLTJWcTdWWW1EZWVXbHFvRzFUM3lB?oc=5"
     }
   ],
   "insight": "Tracking Willis Towers Watson (WTW)."

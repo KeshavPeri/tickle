@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-08T04:47:27.525Z",
-  "builtDateUTC": "2026-07-08",
+  "builtAt": "2026-07-09T05:41:19.652Z",
+  "builtDateUTC": "2026-07-09",
   "source": "yahoo-finance",
   "1m": [
-    44.869998931884766,
     45.369998931884766,
     45.439998626708984,
     45.779998779296875,
@@ -24,10 +23,10 @@
     41.9900016784668,
     42.560001373291016,
     42.06999969482422,
-    42.59000015258789
+    42.59000015258789,
+    42.45000076293945
   ],
   "6m": [
-    40.31999969482422,
     40.47999954223633,
     40.47999954223633,
     40.70000076293945,
@@ -158,10 +157,10 @@
     41.9900016784668,
     42.560001373291016,
     42.06999969482422,
-    42.59000015258789
+    42.59000015258789,
+    42.45000076293945
   ],
   "1y": [
-    43.060001373291016,
     42.61000061035156,
     42.029998779296875,
     41.619998931884766,
@@ -411,12 +410,19 @@
     41.9900016784668,
     42.560001373291016,
     42.06999969482422,
-    42.59000015258789
+    42.59000015258789,
+    42.45000076293945
   ],
-  "lastClose": 42.59000015258789,
-  "oneYearReturn": -1.0915030323121502,
+  "lastClose": 42.45000076293945,
+  "oneYearReturn": -0.3754983457410217,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "How SpaceX Spending Spree Could Threaten AT&T, Verizon, T-Mobile - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0dsSlZVVGFYVGdBLVdtUG8ySktWR0lSSkgtdlF3ckdTWE0zQnJLajJGRTRvbGI1MkNHX2otVXE0UVJqUTl5ODYyaC12eVpWVnhmLUlCLVNXQjh6MDNJaUdpZXFYcFl2WFZjOTdWX2w3djFXbWpIU2xBemVYNjRnUlNmYjJTYVJFc3RkaHpQOV9rWEt5M1VHQjRONnh6RkdSRkRfNzYxam10OVFlNnZoaw?oc=5"
+    },
     {
       "headline": "Is SpaceX’s Starlink a Real Threat to Verizon and Other Telecom Stocks? - Barron's",
       "source": "Barron's",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRkZMblVTZ0dmQmlYVlhWNkMycFZSWmU5TTJJbGFQZ0RvcFBfaFZhUHBmYUVCSVcySmNWVFBqN20ydVd3b1ZDck1jallJbVhuZjdXbXRuRVFkNnpscUp0Yy1IQy0tblRrQkZqaEdMYW05Z1VWT2lubDNudHBCeFp6TDR1VEVGYTYzNGRB?oc=5"
     },
     {
-      "headline": "Is Verizon Communications Inc. (VZ) The Best Dividend Stock to Buy According to Hedge Funds? - Yahoo Finance",
+      "headline": "Why Verizon’s (VZ) Income Appeal Shows the Limits of Qualified Dividend Tax Efficiency - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-05",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQkRYN2ZBWnJmUzNBTUxBZjVlcWtzU3FDdWluRjBqNVNRV3o4ZkxZR0ZPZlFMTEktdDhlVXFJTEdhMmxzbzBhRmdHZFJQNWJfbG1WWDV5VW44WjNidTVSSWlpMXA1MDZLbWtsYjRWdjBtRTZiUmNIQ3FUX0Q4U0Y1RlRheUcycUlXbWwtbU9hSzdXclgya1NXRHJJM0FMRnVj?oc=5"
-    },
-    {
-      "headline": "EXCLUSIVE: Alphabet Replaces Verizon, Here’s Who Market Expert Jay Woods Says Could Leave Dow Jones Next - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONG00a3lXUVZIc0tLSVNqZEduYUxxRy1mOHp6VG1JXzNCLWhqRkxKN2RMTjhmMXJmQUdwa0h6ZEFHVjBFS2Q3TTExdWVwdk9JaW5BYkxVTXZiYUFOU2lTR05Rc3lxTFd0cV9FZV9NYzgyNnFJaGZ1NWxrUFZ3aWUxRzQ0WmxVLXFRQ29uaFY4dUVtTHIzbzVMR2h5bXZfV3IwV0NhcGJ2YXBOZmo2Y004b3dpUEhTMHV3bEtvZ3pQNXUzMEVwZElwQzJEVjU5b2JESUdDQ2xDYTZINm5Ha0hj?oc=5"
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXVudGpLcnJBdS1qUFgtSUxBeWNtZUV3NENtbzRtLU1qU09GaGZPVTVWNkptZ1BBVFpDNTgxR2k5NXZCZVZudTQ2WVc3UkNBMUVZX0xwQ1lwRHVSYm5KN2ZmQld0eFc4Z0ZQX0hZbVd1RVg0c3pJU3pBU01hV3NoNEJiN2Itb2hpdUV4LUw2LS1IeUZUUXNpTg?oc=5"
     }
   ],
   "insight": "Tracking Verizon (VZ)."

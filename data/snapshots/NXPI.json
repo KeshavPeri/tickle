@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-08T04:47:15.362Z",
-  "builtDateUTC": "2026-07-08",
+  "builtAt": "2026-07-09T05:41:10.420Z",
+  "builtDateUTC": "2026-07-09",
   "source": "yahoo-finance",
   "1m": [
-    322.2200012207031,
     295.9599914550781,
     301.1400146484375,
     297.4100036621094,
@@ -24,10 +23,10 @@
     279.17999267578125,
     273.3599853515625,
     280.510009765625,
-    273.1499938964844
+    273.1499938964844,
+    283.80999755859375
   ],
   "6m": [
-    225.25999450683594,
     222.8699951171875,
     220.4600067138672,
     219.97999572753906,
@@ -158,10 +157,10 @@
     279.17999267578125,
     273.3599853515625,
     280.510009765625,
-    273.1499938964844
+    273.1499938964844,
+    283.80999755859375
   ],
   "1y": [
-    232.33999633789062,
     230.4199981689453,
     233.19000244140625,
     228.9199981689453,
@@ -411,12 +410,19 @@
     279.17999267578125,
     273.3599853515625,
     280.510009765625,
-    273.1499938964844
+    273.1499938964844,
+    283.80999755859375
   ],
-  "lastClose": 273.1499938964844,
-  "oneYearReturn": 17.56477498572567,
+  "lastClose": 283.80999755859375,
+  "oneYearReturn": 23.170731626558982,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Cantor Fitzgerald reiterates NXP Semiconductors stock rating citing valuation - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc2pIWnpJaW9BY1ZwTngyQ3NQMEMzMl9NZGRiWFJFREVKT0g5S0hhNHNxRDNvci03M1dzSDBSZ1hQNkZCSzdrY2wzRlhfbHVmTlV3cUJ2RHlKZG9RMTZyNF9DZkxGeEc4d0NJcDUxZmlsREpTa1AwUmluOG9jMGNHSU04cTFmUVZteDA5WG5QU2EyR3ZaQVdPaVc5YkNkUVZ6UkdyNHlFYUFiYmd1V3ppeHdCS3ZTOVMwOGZRQm8wY1JDc2syRnhBbEpEOGpfcTRYMzg4?oc=5"
+    },
     {
       "headline": "Marvell Technology and NXP Semiconductors Shares Are Soaring, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlZveDNKcUhsU1owenRZWU53VVNpNnNYdFZNZ3NVZHBKaEdTOXlibzNXQmw0REVJajBwOGlJRHFYZFBQYWhsUjlvUnRrdTlQRHlxTkZhX3JiQkVicUZFVW11VjV3dUJ3ajVyWXVMVkR1OWJGb0p1ZXlPYk93VjJSbW83ODdIUDNYNzJ5eWw0UFVZeEhlUGNGcVhoLVJoTWhxUjZxb1NsdkFuM1o3d2c?oc=5"
     },
     {
-      "headline": "NXP Semiconductors N.V. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmN4RlZYTnFhc1hNaXBSRVAyb2hlV1BwckxhUnF1OUpWLTJWckN6OEl0ek95UWswU3lrdmpuN3RoeklGci02bWF2R2g1UWlZaU1JUDhONTJsWEdKN3dYR3NYRDA4b2o0czlqTWc1ZndOU2xlbEU0cGZJNklnNGJXX2V0U1d3b2UxcWEyVkFnZWVOWnBpcmprOW9yOFplRUVlTWlsVVRGZlBEOVpVVUhVeXJ2dnF5eXo5SkswaEptM0FCdWJybHZLYmNFY1RMbUdKT0p0SWNB?oc=5"
-    },
-    {
-      "headline": "Is NXP Semiconductors (NXPI) Cheap As Raised Guidance Lifts Its Valuation Outlook? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQTZkODI0VC14dWZ4ejRTMVB5S0MwSEt0SkRXZUY5VkRWc0lHbGpTamlmbHV0T1pHSE5qdUlFUFZIdlRNdWdkSWdIU0hrMnYyYjVoQ05qMENqUDg2d0dzUzUyc2tQRmg3UkZ3SE5FQXRfaFk1U2ZlZTRBY2N1dGhNTGQ4bTg1VTZ6b25WeGtWdFc1Wi1mVHp6aDNGUG5rdzRZbERWYVA4eUpsTi1rcHRyZ2tIdkUwQnB0azBsR3ZjdDJPTXdfSWtEc3g2ZFljU3gzMHg3RGRtZDlmcUHSAeABQVVfeXFMT1kycW1hMTliZVlPSkpkUFhFQWFfMVNlbWhQalZ0RlhpWU44MlNVX2NJX0hDTjBSYUtiZmtHMlRNUEUwNF9zWm1WRXNiQ0V1aFlzdzdYazZLd3YtZTdSbFlyMUtvUkhsNkRDc1Bwb2REQjllNXo2RmFpQVdhSU0xaUdScFNrd2tIdG5iOHlOS1F6Qk8wWnc0U3B5Y05FeER0RjFtZXFZYXdFSjB6UTdEaW1Jc1IzNUNvTG80eE1UWlBncloxV0poS3laV3NESk9hQkFOeFk5RE9ZQWhNLWJNaUg?oc=5"
+      "headline": "NXP Semiconductors NV (NXPI) Shares Surge 3.9% -- What GF Score of 92 Tells Investors - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGFFcmxsNzhuMEg1d0NHVVRGQ2dheU8yalFaMjd2MTlnNHF6SkVDTXBxLWFwZ0k0ZGtrR2pKaFI5bVh2QlJFcGFpVUNYcEpCdVQ3RjdGV0RvVV9XdWV6aVJmX3BzUm5hZWxjVFluR0VGZm1UOHY5UmdHMGpxU2N1eFVDLUFEMUVCd05JQkx3ZEk5OHdOM01RZTJ5dzh1dVN0eE8wbVZfMU82XzNDdnNGVWRpRG1BTUFp?oc=5"
     }
   ],
   "insight": "Tracking NXP Semiconductors (NXPI)."

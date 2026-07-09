@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-08T04:46:27.340Z",
-  "builtDateUTC": "2026-07-08",
+  "builtAt": "2026-07-09T05:40:29.118Z",
+  "builtDateUTC": "2026-07-09",
   "source": "yahoo-finance",
   "1m": [
-    88.33999633789062,
     91.19000244140625,
     89.61000061035156,
     90.41000366210938,
@@ -24,10 +23,10 @@
     98.55000305175781,
     102.19999694824219,
     101.80999755859375,
-    102.8499984741211
+    102.8499984741211,
+    102.01000213623047
   ],
   "6m": [
-    96.4000015258789,
     95.87000274658203,
     96.38999938964844,
     96.66000366210938,
@@ -158,10 +157,10 @@
     98.55000305175781,
     102.19999694824219,
     101.80999755859375,
-    102.8499984741211
+    102.8499984741211,
+    102.01000213623047
   ],
   "1y": [
-    90.20999908447266,
     87.91999816894531,
     88.55999755859375,
     87.83999633789062,
@@ -411,12 +410,19 @@
     98.55000305175781,
     102.19999694824219,
     101.80999755859375,
-    102.8499984741211
+    102.8499984741211,
+    102.01000213623047
   ],
-  "lastClose": 102.8499984741211,
-  "oneYearReturn": 14.011749825883868,
+  "lastClose": 102.01000213623047,
+  "oneYearReturn": 16.025937512202955,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why the Market Dipped But Arch Capital Group (ACGL) Gained Today - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMDcySW9KT1RHNk9Fa1M4TUZPbzEtSGthR240aUxKakkwUGoySTNKaE9IckJ2dEdZNW9kUUJpTGZicFRPWFhnX1BwTFU3bkVKOWF5aFEwUURFSl8wV1RDaG14ZGJPODRWOHphLVBkejFQYTdRbU1mRjBWbzI0dEJURGRnOEo4WFItMzlKTy01QmZaVW92c2w5NVFacw?oc=5"
+    },
     {
       "headline": "Arch Capital Group Ltd stock hits 52-week high at 103.65 USD - Investing.com",
       "source": "Investing.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaW5PQ2RqQkxadlIxOG8xOHdEendFbUUxWEhfM1lzNzRqSEVFVTRoc2NhNGRnbnRPcHdlLU1BeUNVWmRELXl0TWx6eU5FS0dpcmpIVWE1SER6S3hNcHRETURHLUI3MGYtSUpza3NWLUY3dHpvSWVQX0w5ZWxITUR1ekJlVmlyX3pBSjBRZnUteHdGbzNvemsxU2xxcUhGWDFTQ2tYNlhkVVpHYTR5eF9DcXN1c0h4dw?oc=5"
     },
     {
-      "headline": "Arch Capital (ACGL) Promotes Jerome Halgan and Michael Schmeiser to CEO Roles - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-05",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkRfUTlJc3hnQWx0ZTFjaFA3OEdnTVgzLWluZ0Fxb3EyeGt0TkU3aU5adTJ3MDhhdUItRXpFcFdheVc5ZDR1c1NYZ0dkMDJLLXlybFhtUktFRjhPSGh0YTVQSU96d3dCeFNEcHJwUU0yc0FQeWUwNUZaZkNmckxNUXV3OTA5b3c2QkRlcjRWdnRkLWVCSlJPRmlldXd4c2M?oc=5"
-    },
-    {
-      "headline": "How Arch Capital’s Leadership Shake-Up and Analyst Optimism Could Impact Arch Capital Group (ACGL) Investors - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-05",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNjZxYTBFMHRnM0lObUdDdTdqYkRlcmNWU0FYQy1TTXQxY1l2S2QtMFRrT3RtSDgzVnNveEQ5NFJoaGNHNk9oTnlqX0YzNENPdHEyNGZWVld6WXdJc0R1WHhEb0tsVy1BUVlSU0FPbkh5Tzkzdk9hM080WV9sT2Z5cWk5ZG85THppeDRramZaUU1zUE1CdlRDS0pvVDFGSWprUlItYWFSUU1BTHN4aUdKSkZrSExqSUZVeFZZbC1fZWJzR0FTd01QUlpWczlORy0teTRCNNIB2gFBVV95cUxOa19TNm5QaTVuXzdnd0piVlExczdyZG1rNE1LeFVlUkdEMmwxOHZGVXNfVno5SUl4MFh0V0VzOENsT2Jla09XTnJWcVo3Y1hXZktoSnk2akJRNUlfUEpxckRQbjNsWURfLTFIYTQ3LXZnbUpaVWZramg2Z2xXdFk1UEN3Y3BzNGpUaldEdklMbmlJdkEwOWN0TENqWkY5SDEyZkN3OHlfdVh4bkE2SG8zNnhaRGsxWkFwdzVXbFRXWlhvLVg5M2RoQTdMV09idG14QnBMVzNCWmVEQQ?oc=5"
+      "headline": "Arch Capital Group Ltd. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNenpRUXJGdTFrSEw5bXpPZ0h5UDA3S1dtS2RnbHpoLU93bFo5STFOSHdoR2dpT1BRQ3luU3NBOFFhcElUTXJ3UjZmN2x3czBseDh0OUdELTQzNEhrUWZRMVNpYjRWV2ZjUkM5UFo5Wm5ESWdSUFFHTi1XME9QV2ZYUzM3MEdNQ21vT2l6a21QNXRYWVhhZk0zWXFMa1kyNjFYNlNaN05SYi1lUTI3QURkeGtYVmZ6UEJZcnRaRXV1TzhQTUZraHJzUzAxN1R2N1dhTjJxU3JVMGdYa1pEbEc1MWxHZUxQWVU?oc=5"
     }
   ],
   "insight": "Tracking Arch Capital Group (ACGL)."
