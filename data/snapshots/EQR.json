@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:40:50.988Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:36:48.783Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    68.19000244140625,
     67.33999633789062,
     67.86000061035156,
     67.61000061035156,
@@ -24,10 +23,10 @@
     69.83000183105469,
     69.93000030517578,
     70.1500015258789,
-    68.30999755859375
+    68.30999755859375,
+    68.08999633789062
   ],
   "6m": [
-    63.09000015258789,
     63.279998779296875,
     63.5,
     63.040000915527344,
@@ -158,10 +157,10 @@
     69.83000183105469,
     69.93000030517578,
     70.1500015258789,
-    68.30999755859375
+    68.30999755859375,
+    68.08999633789062
   ],
   "1y": [
-    66.52999877929688,
     67.08000183105469,
     66.79000091552734,
     67.0199966430664,
@@ -411,12 +410,19 @@
     69.83000183105469,
     69.93000030517578,
     70.1500015258789,
-    68.30999755859375
+    68.30999755859375,
+    68.08999633789062
   ],
-  "lastClose": 68.30999755859375,
-  "oneYearReturn": 2.675482957998766,
+  "lastClose": 68.08999633789062,
+  "oneYearReturn": 1.5056566476841695,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Equity Residential (NYSE: EQR) agrees merger with AvalonBay; $190.79 implied - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUUpoUVAxelEzb09ReUtyTE53WVJ1UlRMSnZFZHpwSFRxYi14NGtXd0hpVW1jb29sUmt1dk9tZG9iTFE4dDZiR01aMFdZZlRNZHQ3MVBXbXRmMFJaQUY0OFotT3JjdTZQRGdNNElTWmNfd0lKU0laZ21qVDROLThFTWJrcE5vd1FmcVhKeHowdHpSc3dfMEYwZ2lHTDdCZU9WVy1rd2dmM3pqb21ReUlLR2VBVFlGS2gydHBBaTh4cmVoTzBFMFE?oc=5"
+    },
     {
       "headline": "Equity Residential stock outperforms competitors despite losses on the day - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMzdURkpsWWRRYlptU2twNUpPZjZZcmU5NXRXdHZNajVfWUhteWRnVnNlcGRGZy1YcnZpZTVJZlJjRWtMRUJjUzJEYXl3S0pQQ0NiSkZjUmxRUVZaM0ZmTkw2MzhweDJNYTRBaFRtUjd2dExFcHV4YmtVR3JHZGNqZXdKd2dRcll1MVAyX3o1RnBlYzFiQ1hqYVdxWGt4TXB4MUZnak14RWxuSkxJbGYxamZwd0RtN1JuUlVnZzJmNThyczFYMVViakRjQnZHY1liRXBtdThVcWphWEFPWWlQZjBUQ29LT2M?oc=5"
     },
     {
-      "headline": "Equity Residential skips Q2 call after AvalonBay merger plan - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOalluWF9nRTVZMW9uQWQ3VkNSdm9zSEVyM2lhOGVHdF9UNHdjUWI4bFBlVGQydXM0QVMyOUVYUlhDcjZJQjVNSFV6ZDlUbjhPc2JNWlJvQTg2ZHZaQmhoaXZpSlBBYURfX2Q2QXlHTlB4NnZlYndpYzctcVlCcGdtWEtPOF9fZ3RHLXB1RnBXakNma0ZFUnp1UjdtYWp4MHY4TDIzZ25yZDBJYzdTdkhNUU1GTlkyNEFYU2xZ?oc=5"
-    },
-    {
-      "headline": "Equity Residential (EQR) Stock May Be Undervalued While Earnings Look Fair - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-02",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa0VsaWFwWjVaRzlySlhWdkJOVWV6cEpiVm5wdHFSWVpLLUFpV3BYeFB0VGI3SnhBWjJ3VWZDV0NNNWdfbEJMQldQeGt0Q2VIWEVENkhPdHBDWkFxQXZQSzM0RXlyLTBIQl9TdElWb3h0VnlncTVwUFNuSkRyRkxFV2t6Tm80YzVMVl9rSWppQ2Y3TnNrRmY0azhBa29BdkZjWDJLU25UQ1RqeUtfZVRIMHdIamtrUDRHcC1xMUtlaEhTZndhMUNsWHB6OTFtOWpqdkE00gHYAUFVX3lxTE5CZGN5QUdZLWo3NFN4TGtJQ3o0czNZVnRtNlVKVlZYblZsU0NtTWRBdEhFdzltdG10Snh1S0Y2SkJqb3ZuWm5NYW5MaWZ0dW9pN01YSkJtaDRhT2M2VFdDODdzWUFPREJWUFlqZDJGcmIycHRRZzdXWTNUMGNIdmpJb3NmTDhOeWJ3QXN1cFN0RmhFYTYtTGpWNnRFVUEyb1pRV00wOWRta0d6TktaZGs2TGp4b0VPd2t1U2VXMUJud2hKcUJya3ZKNGpnSTRnZi1nNjhyV0R6aw?oc=5"
+      "headline": "Truist Raises its Price Target on Equity Residential (EQR) - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRS0wc25ObEgxOG55eTkwUzdqX0tLc1JWVUxhelNUb01aQUNZTi1LR2lHMjJ3NU5sVEx0TVZTNTNSX1lVSDJZRF9CdU9MeHJjNE1zQnk5cDZjRGJYR3Q5SnJrUTJOR1huM3Q3M2lCTEdjWEx0UHlkdEdKc2lZZkxmMUJvZTNWelpGYzA3Ulk3NHgxMFVQSXZSZHZFSE1hLUE?oc=5"
     }
   ],
   "insight": "Tracking Equity Residential (EQR)."

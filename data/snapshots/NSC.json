@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:41:09.797Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:37:06.014Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    313.45001220703125,
     309.92999267578125,
     312.32000732421875,
     308.92999267578125,
@@ -24,10 +23,10 @@
     322.7099914550781,
     321.8999938964844,
     322.739990234375,
-    319.2200012207031
+    319.2200012207031,
+    323.7699890136719
   ],
   "6m": [
-    290.9599914550781,
     292.04998779296875,
     290.1099853515625,
     288.7200012207031,
@@ -158,10 +157,10 @@
     322.7099914550781,
     321.8999938964844,
     322.739990234375,
-    319.2200012207031
+    319.2200012207031,
+    323.7699890136719
   ],
   "1y": [
-    260.0400085449219,
     263.1400146484375,
     266.57000732421875,
     262.8900146484375,
@@ -411,29 +410,30 @@
     322.7099914550781,
     321.8999938964844,
     322.739990234375,
-    319.2200012207031
+    319.2200012207031,
+    323.7699890136719
   ],
-  "lastClose": 319.2200012207031,
-  "oneYearReturn": 22.75803366063877,
+  "lastClose": 323.7699890136719,
+  "oneYearReturn": 23.040955761227625,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Norfolk Southern (NSC) Files Merger Response With Union Pacific As STB Review Advances - Yahoo Finance",
+      "headline": "Norfolk Southern Corp. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNc3JTY19aYnlsYUJLYjJ0SEsxSnFKRnhVbkFoemo5RzN3QWdfckRsa3FQRlhtTTZ4XzBGZThmZms3cUdwSjV0aWtpa0p6S1hkclVlSG80aG85QXVJUlJzRUhJQWdvRFpBMG1aWVh0TjkyZFBGd25kZXhBbGM2MC1CS19vMFJPZVFCdjU3UFhPSTNlb3FoR0NDZnpNbWlCc2lfQm1GaXN2dElpQzRHME9RcGZOOHAwdDFqRDBfZDNhaXJ2RkR2QUhDMTlhVlhReVI0RWZBQkNuVFJ4UnVLRmxkN00xS1RObjdaR29iRTRvSGM?oc=5"
+    },
+    {
+      "headline": "Norfolk Southern stock stays in focus. The railroad's business model remains central. - AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd1c4bDlfeExMYnVmRXYzZDByci1jajF3MTZtV2g1aHo2WXNWb0tYWUJBTkRJd1czVVBxTGszdVBFakk2eTh4MHhrY1pPSWxKYXdQN3JvOGc4SVRSUnMzRXdTdmJ0eG5ScmRrdUpUdmtqZGljcW04QTlvT3JMdGh3R19pMjBiWUJESXFtc0pIemxIcnZfcEVyRXhCWkNnLVIxZ0JQa18zREtkcHRWblgxbnN2MFM2aUVHSkxwVUtIU2FBNnNh?oc=5"
+    },
+    {
+      "headline": "Norfolk Southern EPS Estimates Southbound: How to Play the Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWhHamJhbU9rVGtiTUVlTDBBRFI3eFRqVkt4a19OZTI3ZVIwZHZiSXhqTmh3NjJIYndqaUZuZGtxbGdRNFEyV1RFQ1pzWEFsSzJvdmVvdkJmX29HUXBWei1YLVd4ZVdwX3RhWkxKNlNNR2F6bDhvOWZuV2hGU3Nqb2FGQkpqcVhqc2JCYWF3Wl9MUnppNVBFTmk3VW1xTXc?oc=5"
-    },
-    {
-      "headline": "Norfolk Southern (NSC) Stock Could Be 7.6% Undervalued As PSR 2.0 Shapes The Narrative - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOek9VdVRuVXd6dVptM3R5bGpNaG5vMWVXMFVVZDN0d0lCLUJmWVAxNy1kR1BKLUxPZE9XUmI5YTc0cmVXcjVQejFvVkxJSmFlNXl3SU0tcTRnYmFPdzJ5N0NpT3lOU1pxQVg0MDYtbFpsX0JTazRLVWxvSVhNZmxhejMyTnd2T3luM1pMM2dVeS1qN0FfRHZIX251eGJ1RkNwRTJvV0R0ZERBNE1UOHVORFM1aUZtelhXeUVmNFE3SHRjWmpzeE5yNmlKM1k3MDJTTmJCYdIB2gFBVV95cUxQNXlYVTlPbEo4YmlJZkFrOW5uWTRYR1pXX1lISnB5eXpWc3I0aWhuTEl5NWtvbjMyYkl6aUtVcjhlVUxDN1hKUmgwWjUtT2ZOY3NRc1MtYVlNOVNjeFV0aTNESjBLeDhlTWxNQ3BkVTZwUnRqc3RZbHNjVTlTcnNCVktDYkt4cGR5YU5PSExiQ2diMVJTOXdTOUhVY0dCWFdaUmtQa1RlRU1TeEFkZk9TM01PVGFyemgzdGg4ZlVoVTh1Y09fNG5zSDh4Ql9CaGNSX2FVSzIwSkgxUQ?oc=5"
-    },
-    {
-      "headline": "Union Pacific and Norfolk Southern file STB merger responses (NSC:NYSE) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPakszN1BvS29EbVhMMGNEQ1JkNGFhbkRFVVppNkZZUGVzaGw5eTdfN2JIY3ZXMV9yUG55bDJOal9CLVhlQ0dxaVJobVQwemE5YnQ4aUdoZTBKeUh4dF8zeUVreGdPMUlNcWI1Wmo0Y3BsMVJiM1lNMmhfZDVGcTVzUU9Ick8wR1YzTWdPalBrcEZMN05ndUxrOA?oc=5"
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemtILXR2SUd3dHN1X1AtQ3g4THU3a1BuemNSd0dzc1ZUWkJRZ0tHVkRNNEs2OGE0UWhmZ0JwZkpGTGtpV3dvb2VFTEZNbE1xU1U5LVNnd2tUTXJlcGZ5QkE3VjlsQXVVTTRkb2xwblpXTENUWTZzNEtTN3ZYcnl1V2htZHZPRVg1b2lQdmt2anlVTVk0bk9BZm54eFhXZFU5bDdUcVROU3VIUQ?oc=5"
     }
   ],
   "insight": "Tracking Norfolk Southern (NSC)."

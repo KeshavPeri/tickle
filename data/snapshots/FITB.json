@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:40:54.687Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:36:52.047Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    52.0099983215332,
     51.959999084472656,
     52.709999084472656,
     52.650001525878906,
@@ -24,10 +23,10 @@
     57.15999984741211,
     57.88999938964844,
     57.91999816894531,
-    55.7599983215332
+    55.7599983215332,
+    56.540000915527344
   ],
   "6m": [
-    48.40999984741211,
     47.81999969482422,
     47.529998779296875,
     46.810001373291016,
@@ -158,10 +157,10 @@
     57.15999984741211,
     57.88999938964844,
     57.91999816894531,
-    55.7599983215332
+    55.7599983215332,
+    56.540000915527344
   ],
   "1y": [
-    43.43000030517578,
     44.04999923706055,
     43.7599983215332,
     43.75,
@@ -411,12 +410,19 @@
     57.15999984741211,
     57.88999938964844,
     57.91999816894531,
-    55.7599983215332
+    55.7599983215332,
+    56.540000915527344
   ],
-  "lastClose": 55.7599983215332,
-  "oneYearReturn": 28.39050870300821,
+  "lastClose": 56.540000915527344,
+  "oneYearReturn": 28.354147320753174,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Fifth Third Bancorp (FITB) Expected to Post Earnings on Friday - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNjJFX1JTM2E1N191eml3eDFteXdsQVN0VkVTanZXVVZGY21nQ0RjQzBYcFJ5ZXNUNFZBMHBZRGttQWhUeHVuVkpDeVFhWkxtSFFocXVnUDlCNVMxRUUyTUpTcW80Z1Y4anVKTHRQMy1tak1jZ1lWOVdVTFlMOHdWUHFIc3F2M2VjcjVsaDVwTWhwcjVfU1RqT3Jmd091VVBHUm52bVlHeFJfSXZUNm5RSDBLSWc?oc=5"
+    },
     {
       "headline": "Fifth Third Bancorp (FITB) Shares Up Nearly 15% After Jim Cramer Thought It Was Worth Buying - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcEhYYUxHVzJRRFVKZF8yc1VZUkl3aTJqcGlPN1Rka2Q0WVdiTUt4RHhic1hMQ285UXZUX3NKYWZIekhSaVVlMVphWkNpUUxWRllWY3QyZ3ZLVEpGNWtwWENINVZSdHV3bl9ZbWNfSWE0V1Y2dGE2Z2VCSUxSQ1M2RW5RcXdUb01Eei1zWFJqVGpDaHMyUnI0R2pDR1o?oc=5"
     },
     {
-      "headline": "Fifth Third Bancorp (FITB) Shares Fall 3.7% -- GF Value Says Sti - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM2d6QmluaV9wUEpVRHJhWmxhZDFXelVoRThzT2JUeUY1XzE3QnRYM3ZYN0lTamFFSjU4dXV2Ty1naXFxSFpRSjZoVEZFdHhNRzE5NGZVRjYwWUZNRFBTT2hVcVlJR3dxREZrd3pkcVRDY3d6OG5Ra0dlYlNXY0FXUXVLZjJBelJqRl84Vkk5WjhqR1BrbFlibG9jSWw4ZFJDQ0tJYWpMUDZidU5mZ1E?oc=5"
-    },
-    {
-      "headline": "Fifth Third Bancorp $FITB Shares Bought by World Investment Advisors - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaW5tLXV4UnYxNGtYalZWcEFMLWZubHQ0N2dqSlBkZmlRSUd6Wkw4ZmxVM3RzYUw2elRQd0xIbXhCdlJFbzhVb0xYcXRsbFRmZ1J6TTZxZGRjMVpxN2pINEtNejZfUC00a013bE45YUR4YTI2MVh5VFNvcFdHM0FJVWpTemJLSmdyU2dBY3JFM1E0eDVwSlAtYV91OXpOV0xDeHEybXQ4WlkwT0REMkRpOEFabVBiME0yMV92STFDM1lyaXFadGlz?oc=5"
+      "headline": "Fifth Third (FITB) Stock Trades At A Discount To Fair Value But A Premium To Earnings - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-05",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMnMzY3ZCWEplYzhSWEhBZ1FLd21LWVRhaF9Xd3NWSTExWk41RTJheXJJX2hvVzA5QlFLUENtWnFSS3Z0UVdtWExMX3M4SlVkcXpPZV8zWno4OVNPcE5sd1hfM2NoZDYwRWQyRlc5ZTVnVk92ZmFEaVZKYUVHajBtdU42c053ZnBHMnF0NnBlSkRUMGhkUXdPdE96bl9FM0o2Zm1OTEx4MmJJSzBwTURZTV9naGZaSWRCSjJFeWpoR3RiYVkycFdsYWpwUFRqZ9IB0wFBVV95cUxPSE9ybUF3Y1hvZTRNekZiamZLeVJWZTJVOXQ0al9SWkRyZGVOeER0aGlBX0c3LWVTa1FJbEhLMVNhMlo3YU55TEdXcGVBNElyT3ZfNkJ2SnBlU3dxWlVLdm5TdmtwRmVHTVhfQ2QwQm1KWUhzUjF1cEZaaWJ3NGlqS0w2NnZVLXR2RV9pRnZkWWlmbXFfaFdBdlhWYlg3dk5EbGVaRHlLSTgzWGFJMFZLSW1FQkd5dkk5M1BmQi1la0UxT1ZNMnpKX01VcGJKejlJMmxJ?oc=5"
     }
   ],
   "insight": "Tracking Fifth Third Bancorp (FITB)."

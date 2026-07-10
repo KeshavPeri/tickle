@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:41:03.627Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:37:00.334Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    312.3699951171875,
     311.1099853515625,
     312.70001220703125,
     309.1400146484375,
@@ -24,10 +23,10 @@
     334.4700012207031,
     337.7200012207031,
     339.2200012207031,
-    330.6199951171875
+    330.6199951171875,
+    335.4700012207031
   ],
   "6m": [
-    327.9100036621094,
     323.75,
     323.4200134277344,
     322.2200012207031,
@@ -158,10 +157,10 @@
     334.4700012207031,
     337.7200012207031,
     339.2200012207031,
-    330.6199951171875
+    330.6199951171875,
+    335.4700012207031
   ],
   "1y": [
-    283.1600036621094,
     288.19000244140625,
     286.8599853515625,
     288.70001220703125,
@@ -411,29 +410,30 @@
     334.4700012207031,
     337.7200012207031,
     339.2200012207031,
-    330.6199951171875
+    330.6199951171875,
+    335.4700012207031
   ],
-  "lastClose": 330.6199951171875,
-  "oneYearReturn": 16.76083869235693,
+  "lastClose": 335.4700012207031,
+  "oneYearReturn": 16.405842804664843,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "JPMorgan Builds AI Agents That Beat 60/40 Portfolio in Backtests - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeERVOTV0M2h4M1RqZThDemF4cTZrb29qbndmazlsN2lUZEFDTE1GV3Mza3pfbjF5THhkbFhyblZRc2JTcVpLZkFMMU9rX1U3LTBqWmtESjRITWgwN0hybElacS1OcUFndkNIMkNlOVk2UklBOFhUUi1tMmh1czNJdW9malh4cVI3bU1ES1VHUnZGaDRyVDdqRHBGUXhSWno0WDZOWU9sNFc3eWZMT3hIX3Z4eDQ1dw?oc=5"
+    },
+    {
+      "headline": "JPMorgan (JPM) Ranks Among the Most Profitable Stocks - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkM5d0thMVhvbjNuZTV4eG1PeUVaZHg3VEFOb2ZYRFFwbGx3NEROU2VMakVlaEZQMDg3NzExd1lDR1FMakZ3Q3Vqb0xBbzdhREdfbWhNcmtnbklDVk5xR3ozZTl0TkNsdDd4TmprNTRmTmZvOUwzQXZIN3QyNk1ram5ld2dwU0ZqU2ZzdS1jX3RyZXU4M2JlaG1R?oc=5"
+    },
     {
       "headline": "JPMorgan Chase: Here's One Trade To Consider As Earnings Approach - Investor's Business Daily",
       "source": "Investor's Business Daily",
       "when": "2026-07-08",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQjBuTDE1dTlzV1BveHYxZzM5RmY2S2dzSWVnVS04d0JsR0lLQThKUlpITWE3SmRVQmZmbkhrVEVvdW9ianZBaUF4Sk1OX08wUEw3dUFTOURiYTRNNXVFbzFpT3ZzajM3dzhMWHJranRaNW9Sc0toZ0txTGJfSmFJWU1Fc0NvUG9XYzlJb0tkREhCVjhpSkNPd2lR?oc=5"
-    },
-    {
-      "headline": "JPMorgan Chase & Co. (JPM) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV19nbVBsLVpwQ0FvVlhOSlFMQVZDMGg4cXgtOHAzeTcybnZQWWItdktlandPaEo0Q01DS2x4VXdsc3JrMklTMXlJXy0yTWY5TnpUVXNyUDJxaVBMQnhoYTVZTHdCYmFhWlBueGJLMUhtdnpQV3c4VXNlODV2S0JpbG50RVk0YU1WdnRYZlBEOWQ5ekF6emFWVnFUM2g?oc=5"
-    },
-    {
-      "headline": "JPMorgan Chase (JPM) Stock Looks Undervalued As Its 149% Run Raises Questions - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbG42UEprU3RTNjl2aFBPMWpRSW1uTDBBdkE3c3NHeGFxdFBTTkdaVHRzUGdxYktnaDFRMWREeTNZczkzR1ByanVhdFRQaDlhMlBLeWhZa2hvNGJRLXFWT1dGdU84OHg0VXhvcVFQYy1BdmJhZFQxbFdLcXBSZ3BRRTBFN1dRUm5rYjAzVjg2NW9ydzNPYjhoWGhKUjN2MkFzZFFkRTNESThLVTRNT0I1TWxYODI2VW1lbUJJaFVRVXMtX3M0a1HSAcsBQVVfeXFMTmNLbDFSVmJCbGdGay1iTmVlTGRTSTJBNXlxbGVfZmNkNk1HcHphX01SWUc1SXd2QTc4ZkxPYkpPYV9kRHhWQUg3LUU2OVlhbUZFTVRPWVFVNmFHMi10OG9CN29FNUhyMERub3RlX0tXckdfV2JEcHU0LWNmdlF3RENjVDJ2cGo5RUx6Q2ZsNUlOWXZPOWFldmE0dExGU1hJVGloUXcwRzZiUFdMMDJVQnRrVGlkWFNlVlhtcWVpZGFoVnpleHBOVWY0LWc?oc=5"
     }
   ],
   "insight": "Tracking JPMorgan Chase (JPM)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:40:40.023Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:36:39.009Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    63.97999954223633,
     64.3499984741211,
     65.66999816894531,
     64.95999908447266,
@@ -24,10 +23,10 @@
     70.9800033569336,
     72.11000061035156,
     71.77999877929688,
-    68.55999755859375
+    68.55999755859375,
+    69.86000061035156
   ],
   "6m": [
-    59.83000183105469,
     59.13999938964844,
     58.95000076293945,
     58.40999984741211,
@@ -158,10 +157,10 @@
     70.9800033569336,
     72.11000061035156,
     71.77999877929688,
-    68.55999755859375
+    68.55999755859375,
+    69.86000061035156
   ],
   "1y": [
-    47.380001068115234,
     47.900001525878906,
     47.66999816894531,
     47.880001068115234,
@@ -411,12 +410,19 @@
     70.9800033569336,
     72.11000061035156,
     71.77999877929688,
-    68.55999755859375
+    68.55999755859375,
+    69.86000061035156
   ],
-  "lastClose": 68.55999755859375,
-  "oneYearReturn": 44.702397663582516,
+  "lastClose": 69.86000061035156,
+  "oneYearReturn": 45.845508110492105,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Citizens Financial Group (CFG) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUzBnXzdpUmFUcTdjWndQU3Q4SVZJUkdnc0ZrVXc0SEpRV3A5WTJhZ3JETTJJc2pwZ1RNTjBuOUpCemtfbHVPYloxLWZXQ1RzRzQ3Y25yc201ZFlMSTJoaXQwUGkyd0dOYnNUT2o1cmt6ZjMtMG9kOUxuYVdtb1FtRTVuSnExVXpCOExfNFJ6ZGM4ZlUzNEVIa0RxbkRCM05YdzdaMA?oc=5"
+    },
     {
       "headline": "Why Citizens Financial Group Stock Fell 4.4% Today - Quiver Quantitative",
       "source": "Quiver Quantitative",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVGZaNWVEX2lNYnpKU3h2ZGN0THdfel9Ic3phWW5GM0VfNzNLcEtUTHpaQkRWV0cyNDhtZ0Q1VENiWjUwd2w4NW9WLVlRbF9XR0JOWXE3LVRoTTczSmlfQVZlcVlDQWZhWUEycENRWTU5NXA2NnVWU21ieHhNdWdRcE9RcnlGZGtESXBFMy1B?oc=5"
     },
     {
-      "headline": "Citizens Financial Group Inc (CFG) Shares Fall 4.5% -- What GF S - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT3QweXRLamFwczlxTDI3N2dvRkF2c1lqZXE2ZldyWFRZWU5GZlVaanpfOGJ6NDdjekw5OGZCZ3B3dDktRVVUN3BJZ0FxMklGcF9HNmlLbzItSnhpbWVQY2xlSXA2M3g0b1lMVDBnV3hyaG1ZUERHbVNJME83czlSbl80WmwxWVJ4aDFINXVLcUl5eVhrR21QMXdjeS1rcDAxQXB2LU1tbkI5YVRKbTJkckN3MmF0Z1pBTllCZkdsOA?oc=5"
-    },
-    {
-      "headline": "Citizens Financial Group Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVzlLZ1BTbUpzaXVyTkJLUm1rbFpjbDlUWFZVcHF2N2d0Ri1Ydk52N0djLTdrc012dU5ZM3I2Q2RrYUJjcWdMbTgzSGlOSVZnaXNOOXludDYzMGtKZ3lvSzFVQUJDVVBoUzdvZkhKWE1wNkZJS1h6UlhodWJ1WnlzVmR6TXF5dFE3ZmF0NEJfaVhJVkxkaHdSeDZ1eG1wZHJFNzNjYktLRHJPSFR4dU8zbEZ0NzhYalVrY2d2VHR5S2xjaHplSFBOd2xNeFVkS1N0ZjUzVUNZRldsTktCUjU2Zg?oc=5"
+      "headline": "Citizens Financial Group (CFG) Could Be 5% Below Fair Value On Russell Index Inclusion - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYmNoaWhVVjZXLXBkc0czLTRLVXlCdC1BVElsRjJBbUpjQ2lLVmh3RHN4aEJQZnNIbHViRjhnb2VuUUhjc0l2TTVXVnZBYU00dWR1QW5xYjI5ZWdlY0FmX1lLR0NISFY0eDlhbWwyRnZWOE1CWjJJZDBfNjRsMWdxMkw2NndlXzd4M3dVQkZCRUxKRnF1TmNkbVcweGkza0FFNnN1a01OSmJoU2U0azM2a3dFdktmR2dKSElSakxJQ2RuN0dTM01GZVhFc1dNOGtrSGfSAdcBQVVfeXFMTjVWWnI4WTV6MlZNUVc3SG1CVWFOVGxPWDJuRzlsMDczUGJaMk9BQmxjOW9mWVFKUjJuT3R0WlpaTGhDM0ttb0dsc2ZoSC05UlhfRHB1T0xsbUVialRpRnNIcnJrSThfZlNVd2dVTUdac1lRM3RzTlNUaEQxdmpRdm5FNDFCREVxVkp2amV3YzhzbVpMS2dBOXVBMnJnaFVncWp3TlgzVTlQR1pjb1N5ZzRra3ZqcXRzN0JUaDdXLUJJak5COUpUZDFGZEJaSUlBenR6d3QyMGc?oc=5"
     }
   ],
   "insight": "Tracking Citizens Financial Group (CFG)."

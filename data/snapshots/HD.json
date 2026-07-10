@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:40:58.957Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:36:55.721Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    310.7799987792969,
     309.7099914550781,
     321.3299865722656,
     318.9200134277344,
@@ -24,10 +23,10 @@
     357.8999938964844,
     350.6499938964844,
     345.2099914550781,
-    336.2099914550781
+    336.2099914550781,
+    338.7300109863281
   ],
   "6m": [
-    349.7799987792969,
     347.45001220703125,
     346.3500061035156,
     344.1000061035156,
@@ -158,10 +157,10 @@
     357.8999938964844,
     350.6499938964844,
     345.2099914550781,
-    336.2099914550781
+    336.2099914550781,
+    338.7300109863281
   ],
   "1y": [
-    371.0400085449219,
     373.29998779296875,
     370.07000732421875,
     370.1099853515625,
@@ -411,12 +410,19 @@
     357.8999938964844,
     350.6499938964844,
     345.2099914550781,
-    336.2099914550781
+    336.2099914550781,
+    338.7300109863281
   ],
-  "lastClose": 336.2099914550781,
-  "oneYearReturn": -9.387132462192922,
+  "lastClose": 338.7300109863281,
+  "oneYearReturn": -9.260642361931458,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Here's How Many Shares of Home Depot You'd Need to Generate $10,000 in Yearly Dividends - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-20",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXRuNHNSVjVQNkcyVVlNV2NpZFIxMEhhYzNlSXNRNTNVMHhJaWFjSjBuZ2NnNUgzTnFqeUNReGI4TFQ4WHN2VV9wY1BLQVhMVUFWSVpaemZINDhULVpiNXBPbDRMTmlwdHFJYmFOb2tJLWJQN3A4eGJxeU9TdUphTmhsU2lnMm9JbGpGaVZXenZGT0VlbFk3MA?oc=5"
+    },
     {
       "headline": "Home Depot vs. Lowe's: Which Big Box Home Improvement Giant Is the Better Buy in 2026? - The Motley Fool",
       "source": "The Motley Fool",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdF9tQlZlMU9RRWtwaFltVEVURTZxNFJ3T3hTRUp0WmtHTGhPRmlROUxVSWp1Tk9GaW50a0JXYUNWMnk5U01PVzNGeGdoRHQxQjFjdzJ1YUpmQjFMRjNmOXpkYXQxM20tSDFhdVNVOTlaeHk2TVEzanJBbjFJTVhUUWJiWmhxemxNV1JqdlctNlc3N3dPUlhLOG1iRkx6YS1oc2F2WjhiSFhmYmU0N0xRY0dVakV1MGJTSk1SUTUwQ2RuYUhEUVBBWjBYNjFvRU1NTnc?oc=5"
     },
     {
-      "headline": "Is Trending Stock The Home Depot, Inc. (HD) a Buy Now? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2NrbGhpeV91dkxEcDNfRTNka3pDU0hic2dmeC03ckJLUENURFNicDdyUDRrZHphbTE4LVJaWE4zVnJRUUZZcjhtYWp2WVo0eGFPQXhTY1RieFhsdUFiSjk2SkNoakNYSlhJTmJjVTdfdzROYTREZlJlNno3TFFBX3pKcUlubjFMYVdvSFVYZkVkQ09peUJaX3Zn?oc=5"
-    },
-    {
-      "headline": "The Home Depot Expands Delivery for Overseas Military Families - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXV5VDk4WGNSSTZRRWZRUEdqTVNmNHhmNTduaGdJbkFoVFJ2NHV3dm5MajdDY3l4bzJ5bGxlRnNYXy1UOGdqWl81d0x5NTRBLWlmVjBaeFhRZFZveTA4amcyRDlLTzl6bzRKUVhEWDl1OFY0cDZ6RFJsMjM3Z0VTVXVra3BfUVItZkhDT1k1OW5uNXhUa0hQendwRllBY3VqT01WRm5feEhzUm5hODVuWW9ITExVMmd4bVhYaWlzci0?oc=5"
+      "headline": "Here's How Much Traders See Home Depot Stock Moving After Earnings - Investopedia",
+      "source": "Investopedia",
+      "when": "2026-05-16",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjE5bFN6Z0pMMUFSckk5T3J3enp2ZGtNYTU1NWIwUUx6VGhCZHd4bnZRR2J3YXlVelQ1R2ctYXRBT0JBSk1oazJ3N29jV2RpOEZnUGRkRktYcFM0ZDloc0pnQkRTaXNaRklmRTRDMlRYY2ZCdTRHNGI2Y3FmZ1FmcnY5czJJbF80NUwzREllNXVOWGljcF9lYmNPSHUtcm5aSkRCdHM0MGNfbU9jRlU0VW5Vdy1YbWpaX1E?oc=5"
     }
   ],
   "insight": "Tracking Home Depot (The) (HD)."

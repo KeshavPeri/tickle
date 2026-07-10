@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:41:01.516Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:36:58.096Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    562.1599731445312,
     561.1699829101562,
     578.8900146484375,
     556.9400024414062,
@@ -24,10 +23,10 @@
     557.7999877929688,
     564.97998046875,
     570.25,
-    555.6699829101562
+    555.6699829101562,
+    558.5999755859375
   ],
   "6m": [
-    688.47998046875,
     687.8900146484375,
     682.3200073242188,
     676.530029296875,
@@ -158,10 +157,10 @@
     557.7999877929688,
     564.97998046875,
     570.25,
-    555.6699829101562
+    555.6699829101562,
+    558.5999755859375
   ],
   "1y": [
-    540.6400146484375,
     541.0900268554688,
     533.3699951171875,
     531.4199829101562,
@@ -411,29 +410,30 @@
     557.7999877929688,
     564.97998046875,
     570.25,
-    555.6699829101562
+    555.6699829101562,
+    558.5999755859375
   ],
-  "lastClose": 555.6699829101562,
-  "oneYearReturn": 2.7800325270951878,
+  "lastClose": 558.5999755859375,
+  "oneYearReturn": 3.236050908612635,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "IDEXX Laboratories Stock: $876 Target Backed by Cancer Dx Adoption Across 7,500 Practices - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPajREU3lBNzhxb0RjeHRMWEZsa0NTOEhPQjk5Y2F2V1pvTVd5Y0U4R2pZd1VFLUtRb05mUHJvektIYlhkZDk4WjlNdndXY0R3V013RjJOLTZoZGZUOWVyRlJxVjgtdFJIR2YzU1dRQTJ6UEJKeW1MVTBPd3BuV0JLQngxMjZ6ZnF1UGZLUXFEekVMNjBHcDBIbzE0QUd0SDhURGFvN0pZLTJlRjdPTmdaUE13?oc=5"
+    },
     {
       "headline": "Why IDEXX Laboratories (IDXX) Could Be 22% Undervalued After Russell Index Additions - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzlFT1Z0STZWU1NlZWd2aEpjUTN0dHhkOHJRSVp2dWtqZmJBdkQ4aG8tdWktUnZVYml5Zkd1UmM2MFFhQVNKSmhhSjFjTWlteHdMUGNweVNsSjNFUm5BcmYyV3M0N3dBZy1RZnNReHB3SkNXSjJ5NEZKbkRFdW5BOHBsRDZzb3JNaS1qS1NpODVxT1BaaEx0c1hhNjZMQ0h4bVkxMUJzaGFUUndZWjUyX0xyZGNPRmdXMU11emJWMThmdTVLZ1pBa3NlTndaRjlKX1BNbDljTS04ZTTSAdsBQVVfeXFMTUc5RU9WdEk2VlNTZWVndmhKY1EzdHR4ZDhyUUladnVramZiQXZEOGhvLXVpLVJ2VWJpeWZHdVJjNjBRYUFTSkpoYUoxY01pbXh3TFBjcHlTbEozRVJuQXJmMldzNDd3QWctUWZzUXhwd0pDV0oyeTRGSm5ERXVuQThwbEQ2c29yTWktaktTaTg1cU9QWmhMdHNYYTY2TENIeG1ZMTFCc2hhVFJ3WVo1Ml9McmRjT0ZnVzFNdXpiVjE4ZnU1S2daQWtzZU53WkY5Sl9QTWw5Y00tOGU0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONlpFaU5VbkR3UVRrMUtRRDAwdnhRN3ZiMG1MQzlpUWVvUFBEdGRCVF9IM0FWM3pIQmdUelMwYVFtVmNxVllLMkNMSmhOUHRHd2ZfZjFjbEhjNEE2Z1VCMkxmaXlPeElMWlZNcjAxdC13T1B3YjVaZzdYSE8ybWpJRjdHTVBfRThrb2V1NUV1eEJaVVIyaVBDcFBPQWZ6UnR1eVdlaWlWRVdSYVVmVHZtd2lkQXVZN1BXZWxVeGNDcVBGTUdGSTh3Y1ZTNWxBVHlWSTZYZzhB0gHbAUFVX3lxTE1HOUVPVnRJNlZTU2VlZ3ZoSmNRM3R0eGQ4clFJWnZ1a2pmYkF2RDhoby11aS1SdlViaXlmR3VSYzYwUWFBU0pKaGFKMWNNaW14d0xQY3B5U2xKM0VSbkFyZjJXczQ3d0FnLVFmc1F4cHdKQ1dKMnk0RkpuREV1bkE4cGxENnNvck1pLWpLU2k4NXFPUFpoTHRzWGE2NkxDSHhtWTExQnNoYVRSd1laNTJfTHJkY09GZ1cxTXV6YlYxOGZ1NUtnWkFrc2VOd1pGOUpfUE1sOWNNLThlNA?oc=5"
     },
     {
       "headline": "IDEXX Laboratories Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-07-08",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOazBneDlPZkNPT0ZMRU14Q1JpaWxTWlRWbkdoNzc1Vk0xR3VfcnZzZEJadWQzSXlyTUp3Vk9IeDZvbmFWNFh5V2FZaXQwMXAzTHBJVHA3VS1rUnFxVy1xSVlLSnprNGtOeERiRXdkeVBjS2pvb0dtUWlHM2ZTSHFLVVd6OHJ0aTVJMk1iaDlURGJzUnN1TnRvMWplejZwVmViQXhVSHhWWjIxbXFvb3JQTTBrUEpuSXVjaTlBd0JRWWVpMzlnejQ3ZFZwc0RiVmxiTkJSbENfT0F0ajJXV0dzRWY1dUVtcUhNazJDN1N2R08?oc=5"
-    },
-    {
-      "headline": "IDEXX Laboratories Stock: $876 Target Backed by Cancer Dx Adoption Across 7,500 Practices - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPajREU3lBNzhxb0RjeHRMWEZsa0NTOEhPQjk5Y2F2V1pvTVd5Y0U4R2pZd1VFLUtRb05mUHJvektIYlhkZDk4WjlNdndXY0R3V013RjJOLTZoZGZUOWVyRlJxVjgtdFJIR2YzU1dRQTJ6UEJKeW1MVTBPd3BuV0JLQngxMjZ6ZnF1UGZLUXFEekVMNjBHcDBIbzE0QUd0SDhURGFvN0pZLTJlRjdPTmdaUE13?oc=5"
     }
   ],
   "insight": "Tracking Idexx Laboratories (IDXX)."

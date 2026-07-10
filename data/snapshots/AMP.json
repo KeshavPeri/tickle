@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:40:32.688Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:36:32.304Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    454.6600036621094,
     449.3800048828125,
     449.19000244140625,
     450.6199951171875,
@@ -24,10 +23,10 @@
     489.1600036621094,
     507.5,
     507.8399963378906,
-    490.5799865722656
+    490.5799865722656,
+    500.1600036621094
   ],
   "6m": [
-    501.8299865722656,
     497.7799987792969,
     494.4700012207031,
     490.3399963378906,
@@ -158,10 +157,10 @@
     489.1600036621094,
     507.5,
     507.8399963378906,
-    490.5799865722656
+    490.5799865722656,
+    500.1600036621094
   ],
   "1y": [
-    539.469970703125,
     542.510009765625,
     536.3099975585938,
     538.97998046875,
@@ -411,29 +410,30 @@
     489.1600036621094,
     507.5,
     507.8399963378906,
-    490.5799865722656
+    490.5799865722656,
+    500.1600036621094
   ],
-  "lastClose": 490.5799865722656,
-  "oneYearReturn": -9.062596026825737,
+  "lastClose": 500.1600036621094,
+  "oneYearReturn": -7.806308702361392,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "PayPal, Ameriprise Financial, and Ally Financial Shares Are Falling, What You Need To Know - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcWZUM2F3SVZybFViV3g2cU9sOFZrYXcydHlXM0p3bW5SRXdCQU12eTZzSFBVc3hGSHdQNkVOOTc0NElqZVdQMGUySlFDZzhTbnMyNzhWSUZKM28zdE5TRDFGUmtyWnN4YVFZNTJ5cllwalhNZDdpT01PWTBKdXJsMVB2OENyT24tMUM3ZFVCTkRUMmlBNHlkNXpiV3FSQVNKUDZybDBQYnpjd1U?oc=5"
-    },
-    {
-      "headline": "PayPal, Ameriprise Financial, and Ally Financial Shares Are Falling, What You Need To Know - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTmgtRUNzbElqcHNmeTZfUXUwRHNTb1pRd0RKMkdwdzY3VGZWRjA1S09WRG8ySEVXTTB6Y2lKeU03YXh0YWdXX0YwcV9DUEN4cVBhNHMxdGo2RDByeXVDZlJXMEs2NXo0c0NSYy02MWtqaUl0VE1nYlUyVXV4a0dLWlBQY3dCdk5MOUhYRzBsQk1zeGNBU0w4OHFlNGtibE15OFNoMUhfWlNZTXo3empHbGJBelVDQlNwTm80cXFWS0xacEZheVBldFNfQS15WFI3cVhqMTBmcVUxU1VmZzVPWXczQ1JlNnBuOElmS0tiWkFINURUTzhxODFtZUNPTTl3SGc?oc=5"
-    },
     {
       "headline": "Should Value Investors Buy Ameriprise Financial (AMP) Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-06",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY1BnSHozN2dfbHY3d05BVUhsNnpxMGJWMEVZWE0wQVZHZ0g4cFFlMWcwQTIyNmd1UVdUR09SZWZnVUY3WGRwMThvR3BSUVRLcWlOa3J1azJlNW5LeTVhM3VVM1pjMnVWUHJkQXBadkhhODhLbkQ5UV9UQWZ6SkRkQk4xWHRWODJDWllFUE5DVXlEQ3VQVU5RMExnU25JUWZOTk5iTmc1VnQ?oc=5"
+    },
+    {
+      "headline": "How Ameriprise’s Shift Into Russell 1000 Defensive Indices (AMP) Has Changed Its Investment Story - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQemRodUZtdkpoSkNPU21aNTFTd29idHQ5YjdkUzlTUG5ReFBYclh4Q1JKZTlmZEJzWWF1bE9jaTlTbFFKZFRYVjRuRTZHRjd4S3VIbkVuTGxtOGJGMmdkYURmclpMM19hUWEwRUtBbGJKS0dKREpSUGpCQWxfTk1qcHRJSkRRZTBfNS1vX1lzZlZlSjNyMzlFdnRBTkMzRmxoX1JQd0xVVzVCR2FvZU8zVHIzZVp6NW1DR0JCNXRFTjRmN3N0MUtpZkR6Nk1la3FBTTIxczJMMWxvSnVsLVdqamVURUxQWXlTc2fSAeoBQVVfeXFMUHpkaHVGbXZKaEpDT1NtWjUxU3dvYnR0OWI3ZFM5U1BuUXhQWHJYeENSSmU5ZmRCc1lhdWxPY2k5U2xRSmRUWFY0bkU2R0Y3eEt1SG5FbkxsbThiRjJnZGFEZnJaTDNfYVFhMEVLQWxiSktHSkRKUlBqQkFsX05NanB0SUpEUWUwXzUtb19Zc2ZWZUozcjM5RXZ0QU5DM0ZsaF9SUHdMVVc1Qkdhb2VPM1RyM2VaejVtQ0dCQjV0RU40ZjdzdDFLaWZEejZNZWtxQU0yMXMyTDFsb0p1bC1XamplVEVMUFl5U3Nn?oc=5"
+    },
+    {
+      "headline": "Ameriprise Financial Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdU5ZcUFNTUFicl9lRk9lU0k4OW42RDd0QzNSX2RvNjVWc09Kdi1YTDhpNmlobHFTUk40VWZZbWp1Ml9vSGJhUk1wR0E1Z2IzVTBFU0poNGZJLVlXbjR3OExmeGp0RzROWmU4cmdob0RKT3Q2cHFMdVktTGlnaDJ5bWJoTFdtaGZZZ21TWGxOVkRXek1LdmZWS3lwR0ZHWC1HQ1N1LUlSbl96RDBqQlgxX08zallfUDA4M0pUV1N0TGdPRTlER1NieExGUFpyVDdFM2lSTnNkOHVnRVU?oc=5"
     }
   ],
   "insight": "Tracking Ameriprise Financial (AMP)."

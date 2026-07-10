@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:41:13.050Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:37:09.490Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    41.290000915527344,
     41.2599983215332,
     41.459999084472656,
     40.70000076293945,
@@ -24,10 +23,10 @@
     45.470001220703125,
     45.09000015258789,
     45.650001525878906,
-    44.529998779296875
+    44.529998779296875,
+    45.31999969482422
   ],
   "6m": [
-    59.970001220703125,
     59.4900016784668,
     59.099998474121094,
     58.380001068115234,
@@ -158,10 +157,10 @@
     45.470001220703125,
     45.09000015258789,
     45.650001525878906,
-    44.529998779296875
+    44.529998779296875,
+    45.31999969482422
   ],
   "1y": [
-    74.83000183105469,
     75.69999694824219,
     71.36000061035156,
     73.88999938964844,
@@ -411,29 +410,30 @@
     45.470001220703125,
     45.09000015258789,
     45.650001525878906,
-    44.529998779296875
+    44.529998779296875,
+    45.31999969482422
   ],
-  "lastClose": 44.529998779296875,
-  "oneYearReturn": -40.4917844585475,
+  "lastClose": 45.31999969482422,
+  "oneYearReturn": -40.1320983859345,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "PayPal, Ameriprise Financial, and Ally Financial Shares Are Falling, What You Need To Know - Yahoo Finance",
+      "headline": "PYPL Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TT2g5ZTN0SFdUTVJicWowSG94UUhFVnBfUGNkZ2R0VExzRUxUTlNpLVJDWkhFWElIX1VlT1lhdzhjNHhjcEdMY1puT3c5dkFi?oc=5"
+    },
+    {
+      "headline": "PayPal (PYPL) Stock Looks Reasonable Even After A 85% Fall - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcWZUM2F3SVZybFViV3g2cU9sOFZrYXcydHlXM0p3bW5SRXdCQU12eTZzSFBVc3hGSHdQNkVOOTc0NElqZVdQMGUySlFDZzhTbnMyNzhWSUZKM28zdE5TRDFGUmtyWnN4YVFZNTJ5cllwalhNZDdpT01PWTBKdXJsMVB2OENyT24tMUM3ZFVCTkRUMmlBNHlkNXpiV3FSQVNKUDZybDBQYnpjd1U?oc=5"
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjh3ZjNkcFZ1dUtTM3Y2N1dFRUdNdVZuVHFZYXYzWEhjYmFhTGZDLWtseUlva010ZDg3UHFIU0E4b2NwbFhBODVHa2JQby04YXF0Um1LLTVlMmRzQUplSDdsQ05qMEVYSmt4a2ZsaGhwRThjdU9fdWc2TnlIclVGc3BkZTlXU2p1UXVIZ0M4WDdjMjBnVjZsSFgtRVZ2em1v?oc=5"
     },
     {
-      "headline": "The Standoff Over PYPL Stock - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSVZ0LTdYWEUxd3p5Nm9zUlpFMHVfQjRoYUhOR1BQZ3JxaVFyb1RVVHdVNjQyUm5ubnE0ZXFkVU9iOW13bUx0RzN2TURkMjVyQVhEaUNlajc3Zzd4Z0JqWmgySjRCdF9QaUZSVDVoUUhpNFlGYTVCTkRMdUd5WnFJLURRdkp5WC1NWG1KX0x0TWpZU3M?oc=5"
-    },
-    {
-      "headline": "Is PayPal Holdings (PYPL) Undervalued After Its AI Cost Cuts And BNPL Push? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYW1UOU9mU3RMZFh6WUp1OGZMYTB3X2UwUVNySG56TW5qeWdyLVdXUDVHU0N5SWtwcmNhMUthVEhRQVBSNEkwR2lfa3FjOHQwLVRJRnRtUk9jUnF1VEFRS1JpdjlYUzFFNTJraHdVWDdEZWZyUGpvUW1nNXQzSUxHYUR4eDZMbUF3azBUR25jODBKQXQzamlKS1ZOY0xXRDNDRDF2ZV9zeDlBeEhBcDJhYTZXSjl4SkJVLWs5SVZNRzlKWEFCa0lNSjNxcXM3djBlMkhxckhXZDFYRnc4aldFQU530gHnAUFVX3lxTFBJcHREWS1sX0ducXpweUY0ODhsMWxfRHdNWmtBLWFhSTlxN1pTaVh2N203eEh2LWVNZklrMDQ5bzIwdjcxeDZuLTdfWFVVWWFhM1VpbHZPS010a2RqZ3N0TUhEbFktQTdwZlBBRUFxWWY4WUJzWGZZWF9CQUc3VTR5b3lIbk5oN2ZzdnF5NEpmZ1BoV3A5M3lNWkQtVHF0dzk2cFo0NFIzbGFNQjBwVExWM01feEVlN0hJRGRjeWlWaWxjRFZvekJuOGwyWTZ6STlQeXV5NHNJQ1FFS0YtYnRBWXlpRmt5Yw?oc=5"
+      "headline": "Mastercard Vs PayPal: Barclays Sees Big Upside In Only One Payments Stock - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWnpBY1c0MkFrWjVpQzI0VFo4RHhtQ2tmYTM3ZXJRM203RndxdFh3SXl3bHRSLWxIaHZyWlVjUVM0Y1Fna3QtZkdfdHZCZjI5U09VNXpSdjBjMS1HT0E2MlF0UkdRVkd5TllmanRTeWdNcW0wa1hXR1Blc29pRjl3a3VnQm00azBmZGxCdlJLbHB6RFZtbW9udWZjbnh1aGdrVmZiZlN5TERFUWpwcmtQVXBzZEZVLUR4QVRscmNGb1pWUjhFYXJwVlFuYlZwUmpUYTlB?oc=5"
     }
   ],
   "insight": "Tracking PayPal (PYPL)."

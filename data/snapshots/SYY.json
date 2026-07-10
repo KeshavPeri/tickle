@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:41:15.848Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:37:12.506Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    76.29000091552734,
     76.4800033569336,
     77.55000305175781,
     78.54000091552734,
@@ -24,10 +23,10 @@
     84.83000183105469,
     84.2300033569336,
     84.62000274658203,
-    83.16999816894531
+    83.16999816894531,
+    82.02999877929688
   ],
   "6m": [
-    74.2300033569336,
     74.45999908447266,
     74.19999694824219,
     73.69000244140625,
@@ -158,10 +157,10 @@
     84.83000183105469,
     84.2300033569336,
     84.62000274658203,
-    83.16999816894531
+    83.16999816894531,
+    82.02999877929688
   ],
   "1y": [
-    76.33000183105469,
     77.45999908447266,
     76.83999633789062,
     77.69999694824219,
@@ -411,29 +410,30 @@
     84.83000183105469,
     84.2300033569336,
     84.62000274658203,
-    83.16999816894531
+    83.16999816894531,
+    82.02999877929688
   ],
-  "lastClose": 83.16999816894531,
-  "oneYearReturn": 8.961084991233143,
+  "lastClose": 82.02999877929688,
+  "oneYearReturn": 5.8998189373078676,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Sysco (SYY) Stock Looks Undervalued Even As Broader Checks Stay Mixed - Yahoo Finance",
+      "headline": "Swedbank AB Acquires 92,166 Shares of Sysco Corporation $SYY - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ0wzYlpkMnpGdXdDeS1Ba2lkN1FiQ245aS1zR285MkVhMTFJOVdNbDBJS1IxdXpiWnlXR3hsS0FhU3NkSEpJYzB5NU9HT2FWaTJaaV9Wa2FncGhSUnk5NnNOMWVDSE9ZeklXWW5CYmN6SUlrSkdjMWx1NEZqSlJQanBCVGc5LVgwVVNGUzlNaGd2YjJzN3Yyb3FaYlJsNm51Y056UDdQZ25uQnowREt0ZUNGcUoySjJWVVh3?oc=5"
+    },
+    {
+      "headline": "Sysco (SYY) Stock Faces Russell 1000 Index Exit After Strong Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXBSSmd0bXgxd05wUHBNQlJ3emNlMlZOZW4ydmROQ3RKZXgyOGNEb3h2THphYlNpTFRNZkJyazZDRjczZHZqLS1Sb1JYQUhORUp4RUFLVklqbVBESWwyei14bTFEZWRwQ1hKdXJQdFJPaDRCWUJSR1IxSXljTkFTa0ZIWlg4NmVIUzltN3dIQ1FldjRBQVd5dFhlQ0hycms?oc=5"
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnhKN0NpS21RejZPdXFmZ3dNblNXUHFCNG9CVk56em45VFc5WnlIZkhXd1ZQZ1BEZFlzTDBrY3hkeW1DbUlHUjRMMFFTcGVlOWhkTU5Id2Z2RjRmMVd4Q25kOGxkUzA1QW9qNC1jZFc3RkRvdWh2MjFoZTkyemFKUTRvZFBKSWd2S243blgwTm1MLWhxYU9adnBR?oc=5"
     },
     {
       "headline": "Sysco lands 25 drivers in IFDA Hall of Fame class of 108 - Stock Titan",
       "source": "Stock Titan",
       "when": "2026-07-06",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY0JYbUZpeHFHNEZiXy1kdVBscGc1d0Y5Sm5JSXBzNTJaT1M3WVlqZmt1ZUw5M0ZpbThaMzc3YnJRNC1LeDRwMTYwSjdJRlBYZTk4NE5JTjFFLVF5Yjk4d3c4LVg1UUhPalRTMGV1c2pyanRyaG42Q0JkNlp0UEUxTk5mUHBsY21OVGxHU0VSZFBKMlF2bXd0U05oTW42VEJQSDJ5VnNyOGUzeEpxel9WcDltYXFHS3JFaFc2OVdlSQ?oc=5"
-    },
-    {
-      "headline": "Elevation Point Wealth Partners LLC Has $1.11 Million Stake in Sysco Corporation $SYY - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT1ZaTUJjZTJCN3JRbkQ3S2JwWEdNeVdyQzJ1bk5zbnhBY3k3SldacXlPdllXMVRyRlNCbEVNbUxTUFBOYm1hQTdzZ2NtR3hiNExEUjc3TWcxTzJnVi1kTTdPVGxvU2paODBpb1EtMTcxdG13cHZQMGdPUm1CdkNpZTk0TnZMZ3VmZDByTE00aXVibHZUdGhaZjFMYVNEelkxQS1wcjlRYnhNRlBWYXlEM1ZrZ1J4ZTA0X2ZMMk9nYjM4ajU5OXljeVVXNkN3eXlacGNPNld0TUl5V0k?oc=5"
     }
   ],
   "insight": "Tracking Sysco (SYY)."

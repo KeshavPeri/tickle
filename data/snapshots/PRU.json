@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:41:12.610Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:37:08.947Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    104.62000274658203,
     103.72000122070312,
     103.69999694824219,
     105.16999816894531,
@@ -24,10 +23,10 @@
     112.94999694824219,
     114.27999877929688,
     115.47000122070312,
-    112.66999816894531
+    112.66999816894531,
+    115
   ],
   "6m": [
-    113.97000122070312,
     113.33000183105469,
     113.69000244140625,
     112.87999725341797,
@@ -158,10 +157,10 @@
     112.94999694824219,
     114.27999877929688,
     115.47000122070312,
-    112.66999816894531
+    112.66999816894531,
+    115
   ],
   "1y": [
-    106.5999984741211,
     107.1500015258789,
     105.94000244140625,
     105.51000213623047,
@@ -411,12 +410,19 @@
     112.94999694824219,
     114.27999877929688,
     115.47000122070312,
-    112.66999816894531
+    112.66999816894531,
+    115
   ],
-  "lastClose": 112.66999816894531,
-  "oneYearReturn": 5.6941836601412446,
+  "lastClose": 115,
+  "oneYearReturn": 7.326176726395247,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Prudential sets Aug. 5 call after Q2 earnings release - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRlVtZUFMS3BHdnBCbzRxQXo4M1JaUmQxeG5yS0NqZElUTnRvT1ZfVUZaU285Uzlab1ZIZ0FFZnhTcE16TmpHZ3paZ3Vvdml6M3VORGNsMEwyRlJicmdOTl94ZGx1QzR4cE1aT3NPbWdvamNsNGFtbmstbzI3VGJCY05UWWpLOEsxMFNlUHo1R1hPLU5PYVdtWjlZdUtEd2t6WUZ2eWdfa21DellmV0lEdEZueXhZaDFuR3A0?oc=5"
+    },
     {
       "headline": "Earnings Preview: What To Expect From Prudential Financial's Report - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3BJOFNqQVJUZjJyNU9TSE5QenBvelZSR2NGLVV1Um1sWW9ZS2d3V3VoVG1DUkdjQkdwcm9oOG9abmVOclFXTjM3eHhzSG5LYVEtdkd4SE9sQkFLd1c2a2owek95VERtMHRhOU5kTUR3eEtrYTMzemRUY2NjMjZpRjBsa1FhQzZYUGJ0WXNtUFA2UGNRSDFmNlRxT1FibWFxV0NudVhsUnpkTnhFVzRN?oc=5"
     },
     {
-      "headline": "Prudential Financial (PRU) Expands PGIM ETF Lineup, Is The Upside Already Priced In? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR3ktaEE5MzRzSndKRGdPenVlYUNhLWd4ZEtORlVPSUpmTmhtNlZ2Qm5FRlZScUtqWXdLTjRhRjdWbmxyZ2Y3ZC0yWWVXYU1sM1FHOFVmSEZPcmVlTktuN2lRV3p3Q01hTjFfckJLYnFPYzc4WmxtMmxGMkw0VXBSQ1JrYVFlbEh0Ry1KZmhCb0c2TkNmOWxfbGNsMXRMVnlRVHZaZC0xaEd4ZzY0ZUs3LV9RdlUyNDVnY3FvLWtDcFd6eVdWdjRiR0JDVkQyUV8tWERSYVd4QVXSAdgBQVVfeXFMTkd5LWhBOTM0c0p3SkRnT3p1ZWFDYS1neGRLTkZVT0lKZk5obTZWdkJuRUZWUnFLall3S040YUY3Vm5scmdmN2QtMlllV2FNbDNRRzhVZkhGT3JlZU5LbjdpUVd6d0NNYU4xX3JCS2JxT2M3OFpsbTJsRjJMNFVwUkNSa2FRZWxIdEctSmZoQm9HNk5DZjlsX2xjbDF0TFZ5UVR2WmQtMWhHeGc2NGVLNy1fUXZVMjQ1Z2Nxby1rQ3BXenlXVnY0YkdCQ1ZEMlFfLVhEUmFXeEFV?oc=5"
-    },
-    {
-      "headline": "Prudential Financial Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "Prudential Financial Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYzBKVUw5ZjR4SGNQdnA4QjFzX2VIdkNXQVhmZmhnNjlpN2lia2Q3T0E5b0F2Y3ExS010Nld0RFNzOXVhUjlPWmF5QVRIWVdNc2R6bXBkcXdxZTlYelRSd3pocnlkdlMyckpUSWw5NVJPU2g4bFdzNnFaOEJQMk1tc3ZvbkZ4NDFNdTBhV0VmTVRKcUdsb2o2dkVvTXpuYXhLWGx4dENqQWZYWTRyNXdjZ2l2M2pfYkhkUlFnVkhVY2ZHazMxeDQwNlgyaDlMaU5ncmc?oc=5"
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQam1xZTVVNHJDZWR3bFVOOGZ2aTV4X1hSTkR2XzlFY3ZtSzlrUWZ5T05haE5KS0JkM0FyTmtGSGh1MGtUaGwtSE9vQ05TZTl6UkxxeUZWZ0ZTcEczaENoV2dZd2tUYTZnMW5tWnAtUW9nY2JkMWFtM011cXVVXzNoYlBEdFYwOFlRbU9KSFYxQjJ4eHVHMjQ0TlN6Zl9jR2c4dzJoUFdQR3VucFFJR3QtZXhsa2drRWcyTVp4SzEzSGVXOGU3UnRDNzBWZXA2YkpnMmNCMHdpZmZfckx0Z2hnRmx1OWVUcVZpNDJtUWVWOVk3QU0?oc=5"
     }
   ],
   "insight": "Tracking Prudential Financial (PRU)."

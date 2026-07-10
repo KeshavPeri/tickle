@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:41:02.672Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:36:59.417Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    422.05999755859375,
     418.6099853515625,
     426.6099853515625,
     412.0199890136719,
@@ -24,10 +23,10 @@
     426.010009765625,
     432.8299865722656,
     427.29998779296875,
-    415.1000061035156
+    415.1000061035156,
+    411.54998779296875
   ],
   "6m": [
-    577.8099975585938,
     575.4000244140625,
     572.6300048828125,
     566.3599853515625,
@@ -158,10 +157,10 @@
     426.010009765625,
     432.8299865722656,
     427.29998779296875,
-    415.1000061035156
+    415.1000061035156,
+    411.54998779296875
   ],
   "1y": [
-    528.1300048828125,
     526.0499877929688,
     512.0599975585938,
     516.4400024414062,
@@ -411,12 +410,19 @@
     426.010009765625,
     432.8299865722656,
     427.29998779296875,
-    415.1000061035156
+    415.1000061035156,
+    411.54998779296875
   ],
-  "lastClose": 415.1000061035156,
-  "oneYearReturn": -21.40192712670761,
+  "lastClose": 411.54998779296875,
+  "oneYearReturn": -21.765992330953615,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Intuitive Surgical Stock Is Up Over 400%. Here's Why It's Still a No-Brainer Buy. - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-27",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVGpfeHE4TWdiS0hxVDJWVjdGaExod21pcmFBUTRhUmpnaEl0T1JXZmk0NExsX3hHTEl3UG9xQWhTN0hnOS04VmNmbHVVZWxsYndQczdtQ21tNmFoRzJteGpxMHNjT0VOTy1KME4xZFY4T0Vaa1RZMjlNejRvemYzSmhGZWlZekJCWE9qeHZzb2xFelRDbGtxT1JB?oc=5"
+    },
     {
       "headline": "Just How Wide Is The Path Ahead For Intuitive Surgical Stock? - Trefis",
       "source": "Trefis",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUk1SnRtc0FXU3VBdXVzRmQ3WE9KVGtMT0JTMGVobjVDUm1wS1U3RUg5amRzX1l5dHVEcndaZjJ5RVZJY2NiSXJqdXFDNkVSQWE1dlc1Rl9RSkktdmxFUExTMDRMRlhxVHlVc1BBNkczckdqbnVPT1EydzNhM1RDdHVvN2hJcHR6a05hZmo0eFJjRDBkc2FTUTFNTUh1LUlEUDJzNXE0Z1phcDh3VWdqbkdHZFJPRmt5SjdCSERR?oc=5"
     },
     {
-      "headline": "Down 24% in 2026, Can Intuitive Surgical Stock Recover From Here? - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmZsYUE5MUlvM0I4RmRLZGNzaGZLNm84ZzliSG4yVENmMEV2OXJXYjJHZklkcUJ6X1QyOFFmUk9OdFh1U2RwR2hLN3F5OTlmUWFGeWoyREY5U2JTWGlheGltNGVMWlhYNG5HNDFEMWpFUkREZTBxRTViQmgwRi1ZcmFXeFhYNHRPM3ZxSVRMb2czX2k3WUdMR0F2d3BoNmlZblI0Sm1jRnNyRTJGZlhDag?oc=5"
-    },
-    {
-      "headline": "Intuitive Surgical, Inc. (ISRG) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVJPTUFoRHlOdWg0ZV96ZjlOUTZmd3VPWndNMmFUVWF1UHdDZnEyeVRwd1NUczdEQ3c0dHJvQlNZdGY4Sk1HUU4yWkR0SWhDTHE3WUNfS3hVUjdDaVlwbGhRVHNDMDJBVS1vd25MTWJBYVNhSkpoUTRWNmRrRk9QM2ZTenNrbHdDTHpydEtoU05Qelh6UjQ2OW82X3hYN0FRNl9OWml3?oc=5"
+      "headline": "Intuitive Surgical Stock Is Up Over 400%. Here's Why It's Still a No-Brainer Buy. - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-06-27",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN0RDcjZFSjBVNjFzMmlFbkRZbzFkdjBtVG1fdkVJWDI3b2NJbXlzVkpya0ZOaG80V0dfb1VGaHFwTHhueGF3QS0tNnJMeUJvVG1lZHIwMTNqRzBlUzNBdjBUR3g0Y3VBTnVHOXFlejBiMTVoZTdRT0N0QXJzOUJoOFJwQkRJWGdZZ2pUQWNyX1ROMFNLV2xN?oc=5"
     }
   ],
   "insight": "Tracking Intuitive Surgical (ISRG)."

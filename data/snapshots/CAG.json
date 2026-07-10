@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:40:38.536Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:36:37.337Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    13.010000228881836,
     13.149999618530273,
     13.140000343322754,
     13.34000015258789,
@@ -24,10 +23,10 @@
     14.34000015258789,
     13.789999961853027,
     14.029999732971191,
-    13.770000457763672
+    13.770000457763672,
+    13.369999885559082
   ],
   "6m": [
-    17.239999771118164,
     17.459999084472656,
     17.43000030517578,
     17.309999465942383,
@@ -158,10 +157,10 @@
     14.34000015258789,
     13.789999961853027,
     14.029999732971191,
-    13.770000457763672
+    13.770000457763672,
+    13.369999885559082
   ],
   "1y": [
-    20.3799991607666,
     19.489999771118164,
     19.399999618530273,
     19.3799991607666,
@@ -411,29 +410,30 @@
     14.34000015258789,
     13.789999961853027,
     14.029999732971191,
-    13.770000457763672
+    13.770000457763672,
+    13.369999885559082
   ],
-  "lastClose": 13.770000457763672,
-  "oneYearReturn": -32.43375355837989,
+  "lastClose": 13.369999885559082,
+  "oneYearReturn": -31.400718098664044,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Conagra Stock Flopped Today - AOL.com",
+      "source": "AOL.com",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTVTbTA3emRBRFZQV3VucERPUFFIdFZhd2MyZzJNYm0wbWtOM0w5bVZXU0FlU05uM1pYQmllNEFfYTluYWZzc3l0RmJFcm5WVXRHbVRZLXUwMUs5cExBUEVoWmowbGxLTTRKaTR2eDBISWhQOHNwTTQ0WUJlc0RUNg?oc=5"
+    },
+    {
+      "headline": "Conagra Brands Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSEt1WHl6cWVLeFJRd296NVpBbzZ6djV3NlJBY2ZhOFljc1VvVTNqLWtLZXphZnFCdHdWWXJiRmtLNFhzZk4yN0JsNmJabFFzd0doaTNidWJCbklMMy1zejRfQVcyV2tUbFlENVZMaEYwdzNhcGk5MlVWQU5maW81R2VHT0hqaS1PS01ubkh6elloZEhUUGdCb295U0JkOUw1T3d2NDZrbncxQ0NPYUEwWkxRcmlxejNhV0VCS015UU1uMVY4MHh0cTJrQ09fY0I2UWJwc3lCVkwtM0dwLWZCMlhnRlllMkFDeFE?oc=5"
+    },
     {
       "headline": "Conagra Brands (CAG) Stock Faces S&P 500 Exit As New Products Hit Shelves - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-03",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUm9MYmEtS3o3ZWJ0TTRMMFVtbU5mQXQxV2c5ZDBLV01tXzNNQ0ZJM1hfRjdVT0Z2Z0dvRExxN1p2eWJ1YUtFWEpwc2RqUi0yRkJBaHdueUg5WV90UW1NMlhma1JHWWRmTktjQlZ4ZG9rYzZmNmVPekI5WHJITXVkQ3FUT0dRblFITUJ0WHkzMVpSU3RhMzJ3NTI4Zw?oc=5"
-    },
-    {
-      "headline": "Conagra Brands (CAG) Joins Russell Indices, Is It Still 4% Undervalued? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSXpTaEdsRG14aGVTd1Znd0lhdFdjbzBCbkpIcWFQbjE5dEs2RTRWSk5OY213ekhpX1kyYi03ZkpJV2hsSVJmQUp2d2p6enk5dk1HRVNodVg4OXhtZGRhbmNULXQyU3djOHdkcENTZFRSYV9kWklHS1BfSFFBNUxnZXBOc05XM0pvUG9hNDJ3b1d5RENsNEJ0a0pVaGZIeDZ5cHFBZGk3YXkyM1FCSlZxaXVwWFlfMjZieW9OSk1fWlRKbnJnRm90bHYtTWFXR0pfUWozNVlzaEtRRnPSAeABQVVfeXFMTjdkY1pMdU1HV2xSZ0NCQkdERE5kYXNRbFcwTU8zcjBDRlUyRWxKOENMc3F2RU0tNVE0MlJGUXBELUtUZ3dYeTlHeWlPelVFcW1YdkNiMF9nZEI4cGw2c2tIcWlza1ZpLWlHbldaVWpVekU3S05INERKVnR3a2pwRWpXWl9HYWpYYkF5N0I3bVZRa25vWmdURzlYYjZxTkxSWEdjc1FTREhpc280U3ZGUHBrT3NPczlPaHRiVjZXT05NVnd1azF5NElHSjdYeEVESE94Q2lJZkVER21BOXlrUmo?oc=5"
-    },
-    {
-      "headline": "Conagra Brands Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSGVQSnIzYVk3Q1RSSVdhT2xnaDBlRnVGakphRHpRSkZ0aEY0SVYzWmdncmRrbUluYWl1UG0wX2dTemg0UVJQRmM1akhETGFpbWVGZVRXZHQwY2pSTGlYMk5NUkJYZS1NRllWQTBDWnJVWENSTnlmaTh0QzF6M1NuWENhcENtZzVERnZzelpFdHItdlhIYzBPaldjaGhhWEZCdzBDU1JkUi1xUV9KeE9saFozVVp2ZWtSLUkzcFRtNERmTFlrQzdEN0xTY05pTmRhSnZiWUJHRE10UzRtNGlZOFVEYnFRNFEwTEpB?oc=5"
     }
   ],
   "insight": "Tracking Conagra Brands (CAG)."

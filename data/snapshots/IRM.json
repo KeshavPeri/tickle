@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:41:02.635Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:36:59.136Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    124.66000366210938,
     123.5,
     126.13999938964844,
     123.36000061035156,
@@ -24,10 +23,10 @@
     117.16000366210938,
     116.37999725341797,
     115.75,
-    115.45999908447266
+    115.45999908447266,
+    119.4800033569336
   ],
   "6m": [
-    81.98999786376953,
     82.62999725341797,
     83.36000061035156,
     82.94999694824219,
@@ -158,10 +157,10 @@
     117.16000366210938,
     116.37999725341797,
     115.75,
-    115.45999908447266
+    115.45999908447266,
+    119.4800033569336
   ],
   "1y": [
-    99.25,
     98.95999908447266,
     97.98999786376953,
     98,
@@ -411,12 +410,19 @@
     117.16000366210938,
     116.37999725341797,
     115.75,
-    115.45999908447266
+    115.45999908447266,
+    119.4800033569336
   ],
-  "lastClose": 115.45999908447266,
-  "oneYearReturn": 16.332492780325094,
+  "lastClose": 119.4800033569336,
+  "oneYearReturn": 20.735655277184247,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Iron Mountain Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNm9uNzBIb2xyT1NjeThKUHdXZDBoaldDMUs3X05pLTl6MjE4VGhZN19OTlE0RkFYb0pmNHlFa1FzZkVJY25oQWJEZWFkVnYzZDh4bFhkdkNuZWdna2dpVk1pNFNVNHRlclV5N3V3TDFrb1FDLWhXNFBSZGh6TnZfZjFuODdUMTltckE2MUxLVDFBN3dfTTE0M2lEajE3SXhJRERVRGVWWnVMX2Z3NUp1NVh5Z3ZIVGZsS0I2cF9yM2h0eVpiWGprUg?oc=5"
+    },
     {
       "headline": "Iron Mountain Stock Up 30.2% in Three Months: Will the Trend Continue? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNUI5T1NaNlNiczVuRVh1dUZlaGFRbHdFMjVUOUYxU1d5Y010eXFCMy1MdEhxQ3pXZFVHaVVfdkN0TS1KNTlycjRnYkExZURrV3N6WU51UGxMY3NWQTBJRzkybXQ2anJLMFoyMmJfRm1nM1p1Z2podFE4QzVUMnFDdmQ4X3FENU5HQlZNQlYwNFd2aFU?oc=5"
     },
     {
-      "headline": "Iron Mountain (NYSE: IRM) director receives Phantom Stock grant as deferred board pay - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWpNUXZ5UVg1TUtGNW9sYjlyUUFvU1pCbElWS3FmdHpLME1Vb1NBSUw4UVdKRmNMT1MxTEVsS0g4MWVHNF9jQ0J1QlpEZjdrZUZpMnVHY284Y1BacnZLNTNpYXVWdWdjeW9iRWhKY1c1bTNQblZycGZrWl9aVnFJUjVjbVFBQm1XTjlJMFA3WUF1LUFSNWRldzUxNGZYUVlVYkt6Y3FqbERtZUJZQUdr?oc=5"
-    },
-    {
-      "headline": "Iron Mountain (IRM) Stock Looks Cheap On Cash Flow But Pricey On Earnings - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM2hEVUoxNDhJZFcxVjBtUEpVSGVSRTFJdFZTcGJQVUFHRmNmNTl1bnp3Q050TmNHa0l5VVVQS3g0TnE2VGtKaHJXakpwek9ZaGJUNlY4cV94bi05bHpXY2d5RXM1OVJFbmpqaFRJaTZhMFdSWHpuVzJ3N0pGX3B1Y2lUT2t6TGo4emtSbmZjb0dSRTZFbDhZd2ktdFozN2o0WnlmSzUwaHY1Xzgyb0xTeHdTRTFBelFVNnA3MkZDRko4bGZjcGpJMGFLTdIB0AFBVV95cUxNN014bjZicXhGLTAwS0ROdFV1Z1AzaEF4QWZob0pnV3l3Tm5QSFhrZTdFMnhmMUVZYmhJYUIySFJiYVRsd0dMckcyYkttSFdfM3M0d0pMZXFDU2diQlBPYWZxd0NpZ0RfclVOXy04ZUYxYUt4Ynhobkppd0hFZnJZUUUtQUtHSFEzbjNmMlZCMDhPTzBJQ09GZlpUNHRVMjkyX1VjV0QtZkxIbWIyQkJ3Y3RmaXZVbHZCTE92RXRxS1NzeVN5Q2g3OVp0RlJ0WmxO?oc=5"
+      "headline": "Iron Mountain Inc (IRM) Stock Up 3.5% but GF Value Says Overvalued -- GF Score: 86/100 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdTN4Y0UyNVVBUGk1dXdYUmlMekp0MTFiaWF1SjB4Y2I2a01hWmlEcEdxQ1NrVlpWMXJCbHBkSzJyN0tmQloyMzU1RFcxd190RTlCZHhhSXo4ak1JMGJabHc1ejRwR0VQNDMyWkVCUjFJRHE2QmFqTnJKTzZneEZtRHZoNG5jUEs3QXdmNXdqcTVldmdhWE5oaHczNk1Pb3pTdlNoWnJYWF9NbnVOTkpkSDdtOVhlTHc?oc=5"
     }
   ],
   "insight": "Tracking Iron Mountain (IRM)."

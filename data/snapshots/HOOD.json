@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:40:59.413Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:36:56.434Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    82.47000122070312,
     85.04000091552734,
     83.7699966430664,
     86.36000061035156,
@@ -24,10 +23,10 @@
     112.7300033569336,
     117.55000305175781,
     112.9000015258789,
-    113.52999877929688
+    113.52999877929688,
+    115.11000061035156
   ],
   "6m": [
-    118.12999725341797,
     117.43000030517578,
     115.44999694824219,
     113.0999984741211,
@@ -158,10 +157,10 @@
     112.7300033569336,
     117.55000305175781,
     112.9000015258789,
-    113.52999877929688
+    113.52999877929688,
+    115.11000061035156
   ],
   "1y": [
-    94.54000091552734,
     98.69999694824219,
     98.33999633789062,
     99.95999908447266,
@@ -411,29 +410,30 @@
     112.7300033569336,
     117.55000305175781,
     112.9000015258789,
-    113.52999877929688
+    113.52999877929688,
+    115.11000061035156
   ],
-  "lastClose": 113.52999877929688,
-  "oneYearReturn": 20.086733319092442,
+  "lastClose": 115.11000061035156,
+  "oneYearReturn": 16.626144042045617,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Robinhood Stock Jumped This Week - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-05",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXlYWDVmLVdkUmZ4Tl9rSWIzOWZkZTZSUUhnYlNnc1ZENklSVVlWVllHLUx1WTZXbHhqb0liZUdLTTEtY2RiM3hSVGw3ZGJMMktQZGgwUklMZ0Q1WG1hSlQ3ZTZXazQwVm43S1h5eUtrczVVY3JZbTFYY0NsUExyUmVOaS1ydjRoMTBoeGlFMXQyRXpmaGwxeXliQWE?oc=5"
+      "headline": "Robinhood mainnet launch signals broader bet on tokenized finance - American Banker",
+      "source": "American Banker",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNlJHR1ZHekdMTTZPQ2ZocTJTUTBSTFV0TVpjcHA3dzhDZm9iRVVaQVdjR0RxR0toTmxNeWk1U0cxODZkSHhsam82TVJ5WUVLWVJKY0ZOMzhDcWNJQ0czSmllYXZYWm5XYmtqQmhXMWlBNE54bUVMaEE1RTBnZXd0Q2dTLTJOYTRQQkpRMVZzamkwSnRMNWxjX0IxOGhQY0YtU1Aw?oc=5"
+    },
+    {
+      "headline": "Robinhood CEO Vlad Tenev Says 'Only 62% of Americans' Exposed to Stocks: 'I'd Like to Get That to 100' - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMzRLUVZHYVNhQXVDZ1F3aDRsbko1bmFtMzhjcGFJWGJ1bnBHdXViZVUzbUNEa2RFZmNXZlBlY1l4Ym5yUldHVVRSRTZiOXdyMk03Xy1LU3JqclBWQnpTbmlfZUpYMzNRYzAxOHpjdC01RVNIc3RIOUJqclg5NDc3ZjRmNTZrSEJKTjA0OC0xR1VWbEl2b1JYRkhZYmRKNjV6ZWxkMzNCOHd0N1FGUVNFTWhVcTQzRTlmbFE?oc=5"
     },
     {
       "headline": "Robinhood Is Making a Comeback. Should You Buy the Stock? - The Motley Fool",
       "source": "The Motley Fool",
       "when": "2026-07-07",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ3VyTER6M2E5dFdXTGt1QVBkQUw5VmE1TVFWNzZIX3kxNDctQ1M0eXhJcTUzbklGNUczTk5FbXFlX1dGemFPMGp0VXZmbGZNRnp0elktdmJ3bFdQZ1RrZDczMEhIVzJqOU9QNXJvTXRISjFIQTNBNmU4QVJQY3lHS1p0LXdLQjNmOWgxY3ZtTWh4dHo5SVBv?oc=5"
-    },
-    {
-      "headline": "Robinhood Stock Climbs Following Major Crypto Push, Trump Accounts Launch - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOVMtN2k2elhvWlBpbE1URE1hMnR1eEt2QzlYeUhUbEVaVDJ2QWs0a2xSWVdlVnR6MHpUbVMzcWxEdFZ2YlYzYnU4SF9Ed25lVXdOaUNlWEFSeXBBRTNHNDk4TVRtMTFEMmQtczRrM1BaQ0I2VXdFQ1JVeWNDZVdBRk5uVHRyWW1MR3R2RVZrVlc0b0F6ck5qenEzdThjODNPX0k0OXVWN29nZFVKSDJobVNqS1dTS3MtQ08zWlI5RzdqRVM2QUtoLXNTcVl3dw?oc=5"
     }
   ],
   "insight": "Tracking Robinhood Markets (HOOD)."

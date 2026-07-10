@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-09T05:40:48.834Z",
-  "builtDateUTC": "2026-07-09",
+  "builtAt": "2026-07-10T05:36:46.298Z",
+  "builtDateUTC": "2026-07-10",
   "source": "yahoo-finance",
   "1m": [
-    124.22000122070312,
     122.05000305175781,
     123.81999969482422,
     125.04000091552734,
@@ -24,10 +23,10 @@
     129.60000610351562,
     125.97000122070312,
     128.22000122070312,
-    126.79000091552734
+    126.79000091552734,
+    125.26000213623047
   ],
   "6m": [
-    117.18000030517578,
     117.5199966430664,
     117.68000030517578,
     117.20999908447266,
@@ -158,10 +157,10 @@
     129.60000610351562,
     125.97000122070312,
     128.22000122070312,
-    126.79000091552734
+    126.79000091552734,
+    125.26000213623047
   ],
   "1y": [
-    117.16999816894531,
     118.16999816894531,
     117.45999908447266,
     117.93000030517578,
@@ -411,29 +410,30 @@
     129.60000610351562,
     125.97000122070312,
     128.22000122070312,
-    126.79000091552734
+    126.79000091552734,
+    125.26000213623047
   ],
-  "lastClose": 126.79000091552734,
-  "oneYearReturn": 8.210295209453808,
+  "lastClose": 125.26000213623047,
+  "oneYearReturn": 5.999834202543287,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Duke Energy (DUK) Following Goldman Move Is The Fair Value Story Still Intact - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Duke Energy Corp. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNDZwQzhWT1hkRUdrSTFsdkNIOU9vY0t2T2xaTnhtbWtrSUFNcG9ZUWh0VXhrLVpJd2pxWG5WWUhzbGVoLWExZWpubEFVNE82ZE9vVjg1cFJfTGVCSFoyR2gwOUxKX1RaZnhkMEVvN0hkUEJ0VUQyTVdrR3FTVVo3dlN5VElaLWtLaFVYYWh3ZUx3bHh1ajhSNnE5cTlzNEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZEZCUUhySEtnVDV0ODJ5dEIwSFhtb0JQMW9RMXpKbjJPTlJGT2tOQXdnNGs5OWNyTnpSUW8wUnU4am42LTk3bzQ0bXhrMER3eHB2dkRtN3F2eTNfa0duYUh4anZGcUZiNUc2THJkaFE5aTdMa2xESldNT01vYnl5UG1qN3k2SUJoZlg4Ml9NVVdvSXRnc3ZrRGpmS2RJMzN3WnZfWHZMUmx0U2NyRGN3cDV0TkRwdkV6MUJYZW1IZWxkdHVGc2xEX1g2TXlwZUJpS1cxdktvU1QwVlRtZFlOSGpXQW5XVmc?oc=5"
+    },
+    {
+      "headline": "Duke Energy (DUK) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUFyYmxkSjRJQTIxbUZwaFA5R2RMZWNuZk05aWJfM1F2MDZDcGtZR2drbWNEOHdfTHdScWFmbnN5RC14ZGo3cGJ5RFZrX3NCVWU5WmNNVFR0WGEtMTVfeEVYVTZwbXN0UmI5dEhzQ2VBUlhHaExTZERseGpKRDVfaXAybzNscmJDQWdRdC1ELUlTbGpmNFRv?oc=5"
     },
     {
       "headline": "Duke Energy (DUK) Reaffirmed Guidance And AI Deals, Is The Stock Expensive? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-08",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeWdOTnI2RVVDMjZnQ0xwdDh1ODlUT0Z3NG1tcmowdmc4TEkteDBKV3AzNi1XS1cwV0lqZk1uQnhoVWZMNG5WZlJRUnRYZVMxTFFzM0JGZnZDZm9GaTc5dnN5eVZlaE5MXzZxdHBndkpzeU5oVGRodWRkbVZHWkp4Q2hBZkxoSm5FSWQ5RUhrbFlrUVBUYXg5Q21GdDhPc013UzJDVGsxTGdZUWVGQ2JERzlQTzEzZjBxYXNNZGhwaDNRUkdtUjJJ0gHMAUFVX3lxTE9oRExST1VyNWZISlBzN3ZzRkJ1Uzh3bzBCa2luaU84R0hTWjFEUXh4Z1VwVlBsYmMtTkNRMFl0bHV2dF94Q2ZuQm03X2UtRmRLeVVucllFZUVXM0daMGpPQ1NnWUZpaldvM3VtVUJtOHFxT2hQeFhfT1ZtWEVUbWxsUDdkS0pqQ1QwZTF0SWtTRVZHTTBXMDBHelVNWDlsV1cxd1FjT1Q5c3ZwSmFROFpOTnY3SDEwOThWd0I2STlXTGo4VzEwSXF6ZUppMQ?oc=5"
-    },
-    {
-      "headline": "BTIG reiterates Buy on Duke Energy stock, $139 price target By Investing.com - Investing.com Nigeria",
-      "source": "Investing.com Nigeria",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOak1ON1dBS3N3OE9pbW1Ba1BWUkFpX3Q4a04tZUZicVpzT2s4OW9IRGFCUk1WbEEyQ1czODJaVnZFU29KeEVGR1dWTWRVQ0pzMU52RFlhSTBQT0J2SGRLQzY0d1Flb0NZWHVOQnk2MFdpMHRNeFAwSElwYURkLXNMRE15b0lPNnVTM3FJd05Rb0t1aGt4LTR1U1hYNktFSHdmTlg0bE9yMlZaWkpld2M1OE15TDJLTE1ud1E?oc=5"
     }
   ],
   "insight": "Tracking Duke Energy (DUK)."
