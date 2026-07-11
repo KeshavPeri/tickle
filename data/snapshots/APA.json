@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-10T05:36:32.907Z",
-  "builtDateUTC": "2026-07-10",
+  "builtAt": "2026-07-11T04:42:01.126Z",
+  "builtDateUTC": "2026-07-11",
   "source": "yahoo-finance",
   "1m": [
-    37.65999984741211,
     36.61000061035156,
     38,
     36.779998779296875,
@@ -24,10 +23,10 @@
     32.459999084472656,
     34,
     35.060001373291016,
-    33.290000915527344
+    33.290000915527344,
+    33.439998626708984
   ],
   "6m": [
-    24.3799991607666,
     24.700000762939453,
     24.459999084472656,
     25.360000610351562,
@@ -158,10 +157,10 @@
     32.459999084472656,
     34,
     35.060001373291016,
-    33.290000915527344
+    33.290000915527344,
+    33.439998626708984
   ],
   "1y": [
-    20.399999618530273,
     20.110000610351562,
     19.469999313354492,
     18.649999618530273,
@@ -411,12 +410,19 @@
     32.459999084472656,
     34,
     35.060001373291016,
-    33.290000915527344
+    33.290000915527344,
+    33.439998626708984
   ],
-  "lastClose": 33.290000915527344,
-  "oneYearReturn": 63.18628204918435,
+  "lastClose": 33.439998626708984,
+  "oneYearReturn": 66.28541825849496,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "APA Corporation $APA Shares Sold by Range Financial Group LLC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc3BKN3JQT21DQzJJeV92NkNIWmlHR2UyWmRUZ09tTXZmOGQ0UUp4V2tQd1NncHhzY3lZQXBlRU9lYmcxZk1xRW5RUEhsbllEeU1PQ21xeHRKeEFsMUhjVXp3Sk03Um5oT2NaWHl2THVUZVFYTWVRaEo1bndnZnhKWGNvYmo0TklqREJicWduNTdtQUhwYWpQOElsd2tvNWFuUnIxMkotUjFPcXJtSEcyZnVnRC1pSVlYcFl1NVpR?oc=5"
+    },
     {
       "headline": "APA (APA) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWTBMX0gzaWhWRFZzN2FWeHE0MXg5MEQ5aXFNT0IxS2o5THpUX2pzblRKckhxaW5WRDQySkhMNDBYSEFEM2pzNDZEd0x2Z290aHRzanpzRXlhX09RYjZWTVlZeWhoTm5zbHJwMkpxNGxOZ2hQb3V3Q0ZyZXE1eU9YNU12bjFuVGxJdTNGQVY0VWdCY3FjdjZZ?oc=5"
     },
     {
-      "headline": "APA Corporation’s Stock Price Drops to $33.29, Experiencing a 5.05% Downfall - Smartkarma",
-      "source": "Smartkarma",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWc2MC1hbl95LUQ5VVBkdmhRdzNvNkJORE96bXVLVjF1b25wMkNxTGhUdkgwRktlcG9MQ3BfNmlOMlJ2TFpmRVhra1ZNRE10TU54Z0IxOHlMZmhGU2s2bXNFc3huTG1lS1l3OHRlalZ0SFB2X1N5ekJobURrTC1DNUtPeWwxVjY1UFdITVN0aHhnZVJyVnluTGhKMEl6c0xNQWdPZWZwcURUTTR5VXBJY2tyUUhOVHhoMVow?oc=5"
-    },
-    {
-      "headline": "APA Corporation, Tidewater, and Tenaris Stocks Trade Down, What You Need To Know - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUkMxdllxY054cmJLS3VOUm9PR1oxaWEyVC1xalZVODRfT2RCZ1N4QzExdWc1R211NlY0U1hYUl82cW5Xb3VYY3RkeWQ0S0hTSDQ0bk4zaTlLckpSTkMwTXo1cUlhNEtULWRhVXZzdHdxYThOSk1lZGd6Y1hSTmJ4aEVGZzBpMG5CclVsamVYODJiMFZJLXVmdl8zSE1waFdQUXlmcDBCWnFWVklkYlh3YmVHTlZFc3EzWkhaaEIyMnZGLXQ1a3BMWFdKRnhjWlVfRk5Wbg?oc=5"
+      "headline": "APA Corporation provides second-quarter 2026 supplemental - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNMUlZbm01OTR6M1ZNeUMtYXQ3bk1YOXlud3ZqcGx5X3U5Y3BzY3AzUW5UNHpsNnFvcjBxclB1THpYckh1ZWh6ejU1NVpBN1lySGM2WnBrOVVVXzlSVGcwR0Eta2JoclhHcV8tdXkzWnZEWXdZM2l1SF9lcjN1MmxNTUg3aHRIalpLV1JUNVNmNHZPNEFHYlJpS2dNeTFWN2NSR0JaOVkxVGh2MlJCZmdsUHhXUUlpbFhwTzItM3ZncnI0elZnUDJmQ2gwLTRLTkxDcTg3ck4tNlg5YS1kRV9helFmNnFTcVBiVGllVGc5R3hpMGRVYU9XeUJuTkNNQXZNMGw3NV91Y3J3Tks1NTdDaFVzcV9OQzJQS3V1WFBqNWxpbzVyTXAtZzNTNGoyaHZUZE9UNm55VQ?oc=5"
     }
   ],
   "insight": "Tracking APA Corporation (APA)."

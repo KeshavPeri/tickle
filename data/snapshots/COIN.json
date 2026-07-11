@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-10T05:36:41.023Z",
-  "builtDateUTC": "2026-07-10",
+  "builtAt": "2026-07-11T04:42:08.984Z",
+  "builtDateUTC": "2026-07-11",
   "source": "yahoo-finance",
   "1m": [
-    162.11000061035156,
     155.5,
     153.97000122070312,
     160.42999267578125,
@@ -24,10 +23,10 @@
     168.8699951171875,
     163.50999450683594,
     159.36000061035156,
-    158.44000244140625
+    158.44000244140625,
+    159.07000732421875
   ],
   "6m": [
-    233.77000427246094,
     231.60000610351562,
     226.13999938964844,
     236.52999877929688,
@@ -158,10 +157,10 @@
     168.8699951171875,
     163.50999450683594,
     159.36000061035156,
-    158.44000244140625
+    158.44000244140625,
+    159.07000732421875
   ],
   "1y": [
-    388.9599914550781,
     387.05999755859375,
     394.010009765625,
     388.0199890136719,
@@ -411,29 +410,30 @@
     168.8699951171875,
     163.50999450683594,
     159.36000061035156,
-    158.44000244140625
+    158.44000244140625,
+    159.07000732421875
   ],
-  "lastClose": 158.44000244140625,
-  "oneYearReturn": -59.26573274318244,
+  "lastClose": 159.07000732421875,
+  "oneYearReturn": -58.90301030135813,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Strategy, Coinbase, Circle Stocks Rally After Bitcoin Breaks Above $63,000 - Yahoo Finance",
+      "headline": "Circle Jumps 14% on OCC Trust Bank Approval; Coinbase and Strategy Gain 5% as Bitcoin Bounces - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHdHc1ZQczMxTkYxVHJSa0dtN0k2ZEdnNjZieHFJbjE2QkJidVltMF9BX3NCU1c4S3VlekJ3aWZrOTVDWDh0OU9Ta3lVRi11X0ZWRnpHN0tFSEFmd095THJPb2s0R0dhN3h2Z2EwWE12TGpjX0JPWVRNSzkxLXVhZDhvZzh6ZVJ2Vm5POU5oNFhvOVl6dzlZd2xZTXpJaTYwblBOUA?oc=5"
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0NrREJNMDRjRDdpVmFMdVFtbXBPOEptemFlTmJQR3VFQkFibjNMbzBINUdOek5INDJ0QVNlcVZWeHhiM2g0RnFMckh1eV93dl85RWhCOG1ONmhjVExBOTZqVGpmU0JjelZoQXU1Tm51TlBheGFONHJaNjZLeTZOWWdxQ1hJak16bFNpLU10MnV4NzMt?oc=5"
     },
     {
-      "headline": "Ondo Joins Perps Race Against Hyperliquid, Coinbase — Allows Tokenized Stocks As Collateral - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNkxMSUNZbmR1UWpaT1ZIRXVGUWxWY2tOd0UycjVIaTlSRzc4OEVMYWk2T21Zbm11NDFLTWRmenBWX2tPWk5DOXNSejBhc0g5YUdXN29wUzloM0xqUFJzN3dTLTNuZngxZlY2Mnp0YkR4b21uUHBtOG9lbk40M29ORS0wODRLQ2lPN09tTVZmX0MzYW5US2tvNHZZOXoyWWZOUUlNcUs1NXRaenNvQndndjJRZU1jQUtlbXdMZENQcmlyTVQ1VzYyb0N1TFdDdnRXcDY4TE5rbm9ncERzUzZmNHJJZw?oc=5"
+      "headline": "Cathie Wood’s ARK sees major moves in Coinbase and SpaceX stocks - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-11",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSk14azYyeVRuckVxSUl6czBvdXowcTdDeXVaRGNYVHRmRzFFZDZKQTFZTEZYdktCVE1MQU1SZl9ab1RWWDFadk5IZE1yMmFIa3Z0SmxPMkRqdWlaRmk0cFZUR09feW91Qm1IWDJ1eWR2M3pKVWxBWE9QQUpwdVlWNm5UeHJVQ0h3Q2dJWFZ2VEF3UGRNVG5nWFVVSk9EZXVGdFQtd2hKaVZDVmFtNjhDX0lxOFdiNnJpNDBEZA?oc=5"
     },
     {
-      "headline": "Coinbase Announces Chief Legal Officer Transition and Succession - TipRanks",
-      "source": "TipRanks",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmU0YTlLYVVtaEQ4dVRuTzBxTWVuSklfQ2JyakI4YmdmdTJmQXJvQjVvSVlfX3BBZEhNYmJaQ3F0ZjAwaXZMckpjRFVrbEttc295b1ZGTDVzSTg2ZC1mVlFvZHFnNUtDQVN2bGFrUHQ5T05qLU15RWplVjRUYkNQYWZ0NGVyX1c4MU9YaTFla3RnLVlMOWYtcEZvYUVQNUs5OXNLWDZiUmVaTlhWbU1XanEyRXFpS3M?oc=5"
+      "headline": "Coinbase Stock Trades Higher After Circle Receives OCC Approval to Open National Trust Bank - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR1lsRG9tUkNKOTZwRFpmc21IdEZGUHFyMlBteWdQbEhXNmV5d19OUDBDYUtvNDd5V0FLc2R4WWQ3NXctQXdkMjdLVjhNZHFWQXB4ME5CUkFIejNvd1BJTVNneEhkMXBRcV9aX19SMTctNE1nNElwUjMzY2FrZW4tRjBjR1dYbWhQa3lkOGwxS21MRnRsSDBuQVpPcThJbkFPdXMtRnU2SENLYnlXZkZ5Zkh0T0NsZThHMzh1bjloZlNHQ2tSUGVzd0JzQW40WE40YWxQT3loTzlyRlRWN2M3YWdMd0NTT3c?oc=5"
     }
   ],
   "insight": "Tracking Coinbase (COIN)."

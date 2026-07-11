@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-10T05:37:15.855Z",
-  "builtDateUTC": "2026-07-10",
+  "builtAt": "2026-07-11T04:42:42.944Z",
+  "builtDateUTC": "2026-07-11",
   "source": "yahoo-finance",
   "1m": [
-    283.4100036621094,
     283.8900146484375,
     288.0899963378906,
     279.57000732421875,
@@ -24,10 +23,10 @@
     259.1300048828125,
     266.7799987792969,
     267.5799865722656,
-    269.9800109863281
+    269.9800109863281,
+    270.1099853515625
   ],
   "6m": [
-    245.14999389648438,
     245.9199981689453,
     242.9499969482422,
     240.52999877929688,
@@ -158,10 +157,10 @@
     259.1300048828125,
     266.7799987792969,
     267.5799865722656,
-    269.9800109863281
+    269.9800109863281,
+    270.1099853515625
   ],
   "1y": [
-    285.2900085449219,
     281.3900146484375,
     282.80999755859375,
     281.489990234375,
@@ -411,12 +410,19 @@
     259.1300048828125,
     266.7799987792969,
     267.5799865722656,
-    269.9800109863281
+    269.9800109863281,
+    270.1099853515625
   ],
-  "lastClose": 269.9800109863281,
-  "oneYearReturn": -5.3664681902741895,
+  "lastClose": 270.1099853515625,
+  "oneYearReturn": -4.00868144200782,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "VeriSign Controls the Internet's Address Book, But AI Disruption and a Key Contract Renewal Loom Large - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-06",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSUItTll2d3kxMTJFUXhfeUtvNUwzSlhuR2xORC1yRXUwUm9iVTJvV0FNc0E0UngydkNQem9Paml2MUQ3Y3RQOUZTLXV2QVdqMzdtYTBlbGcydHZnbVNxMWg2MWFmVmhURlVJZHRSb0F2MDhsaDVGRTFySVdwMDh1M2NfNjVINjhtY1JLVk9UQmxWWjZIdnRiVUtQWWJqdzljNnZNSXRWUQ?oc=5"
+    },
     {
       "headline": "Verisign EVP sells $67,307 in common stock - Investing.com",
       "source": "Investing.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlZGUXNuSFllNF9hMnNyQ1FXTTd4am9uMFJTOG4xNVM3Y191dTRSSjlzTV9HTjJyZmxKbkI4aHI2NkdwUGJ3c3RoX3lzZDBrSFhVOUVVQzFQeFRwdmpaWlR0SHhXdG0wczNWTXl2MWRCTkZFQnVuVGhETmNsT3RQSmxDdkNyUmlCbkZOX0hUNmlKb2VyTG5pQWVhak93N2dmMnhrRnBXQ24?oc=5"
     },
     {
-      "headline": "VeriSign (NASDAQ:VRSN) EVP Thomas Indelicarto Sells 250 Shares of Stock - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeFEwcTZRNHlYTlBsanp1bGFlU1hTRFhJMFBoYVZPNjMwN1lqX09QbzY4ZjFoaW9wZ24xS2JjcDhNRjVlX0tXcjYwZGFtYzNKbTRBYVZiVWxmMjhMOVVmLXR4N29fV1pQRW5mTy1GWV8wQ2h3Rl96Q1RuNmtaek0zM0N1bUpHR1VjbmlDaDZ5WlhDRG1LQlhoTktYUnVwbnc4Wk9PVjlDZVVOUFN0YkNGX2g2S3ZQUm9KaDFZX0d3QQ?oc=5"
-    },
-    {
-      "headline": "Verisign (VRSN) EVP Indelicarto sells 250 common shares in open-market trade - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaXdGZnQzaFZ3RTdxcHhFOVItNVZ3M3B2REdXem1QZWxkcDYwbWZTQmd3T1JCeGdYbUtCN2dyOHNTdzVBRWlNQkRyWlEtVjVNbUdESHNzX09xdGN4NVBwSG1yN0dRU09EcHd1VC1mNjJqaGxiUV9ya2FSbE8wVS1xcUprOGV6a1JKTXFmTVVnMEFMSnJtQzNhZ1otSmxibnRxcXNhdHdKNzd4ZHN5M3c?oc=5"
+      "headline": "VeriSign Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSmpkUFVKeFZ6MVpVSFFPTWFsYlVQWW5HSkpoaS1CQl85YnlaekZZUEg0Qmt0djJ5dFJ4NE00NVJoWWc5MHZFNllhb1h3T1NocUVOQWFlOEdSbVZYcUtwaUFyOVpxRWJmSV9rUVZrZHFiaUo4YTdodHpNVmlEMFdLQ1d0NXNCZktRcXdaN24yTFFEdDZLRmdGWldxWE9TWmRsSnNaZ01aeVBDVHZaMUZSeklxUlRwSG9HX2F3VU51Z0ZuOFF5cjhrOVlXZXMwOUZYMzVhdXBTSXVHUQ?oc=5"
     }
   ],
   "insight": "Tracking Verisign (VRSN)."

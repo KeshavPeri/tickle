@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-10T05:36:47.478Z",
-  "builtDateUTC": "2026-07-10",
+  "builtAt": "2026-07-11T04:42:15.281Z",
+  "builtDateUTC": "2026-07-11",
   "source": "yahoo-finance",
   "1m": [
-    104.30999755859375,
     106.4000015258789,
     107.5999984741211,
     106.83999633789062,
@@ -24,10 +23,10 @@
     111.94000244140625,
     112.98999786376953,
     112.08999633789062,
-    110.2699966430664
+    110.2699966430664,
+    111.12000274658203
   ],
   "6m": [
-    99.54000091552734,
     99.88999938964844,
     99.31999969482422,
     99.98999786376953,
@@ -158,10 +157,10 @@
     111.94000244140625,
     112.98999786376953,
     112.08999633789062,
-    110.2699966430664
+    110.2699966430664,
+    111.12000274658203
   ],
   "1y": [
-    101.06999969482422,
     100.58999633789062,
     101.01000213623047,
     99.94999694824219,
@@ -411,17 +410,18 @@
     111.94000244140625,
     112.98999786376953,
     112.08999633789062,
-    110.2699966430664
+    110.2699966430664,
+    111.12000274658203
   ],
-  "lastClose": 110.2699966430664,
-  "oneYearReturn": 9.102599164956086,
+  "lastClose": 111.12000274658203,
+  "oneYearReturn": 10.468244151555778,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "[Form 4] CONSOLIDATED EDISON INC Insider Trading Activity - Stock Titan",
-      "source": "Stock Titan",
+      "headline": "Consolidated Edison Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWV2MUlleHQ3c21NV2VtVGphV2E1NzlOTmFXdy1WX1llWFQweTk4WURRb2xRSTBiSzFncy1pcURwd2ZKVmtoSVNzQ0dHWUd1dE9vcnZPMGhtXzZoT1RtUFJKY0EzSkxPT0RwMk0tQUstU2NPOWQwdmc0NUFWRUJOeUl1VUdndmlRVElENVoybGJveWdGTTU2RGZWekh3bHFTWkp0WkNfRWVfN3dmZE1wbV91alhiUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNGl1cUFYZ0FWblNSTzlydXpyX3N0ZVllOGR3QlZBcURUcVRsOGRubjZ0R0FhdXFWQ2V0Y3publBET3lCNWZ2c0RIaFFOcnpuSzRjWnhhUDRhQVBvTldoamR4WWpiMlhNdzltT1dXY25XTTY4eWFXa2VqNVd5M1JBMUpNNkV1YkdjeUdiY2hoZk93U0VMM25XRWExYVhvUGZzaVRCUGk5S3hCMzc0a04xbl9IM0dCM2NRZmZXZThLNnRzeGxNdHFHUVdMWmtOTlh6Q2xkSmVMWDI?oc=5"
     },
     {
       "headline": "Consolidated Edison (ED) Faces Heat Wave Scrutiny, Is The Stock Fully Valued? - simplywall.st",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLWxxeXM1VU9lVEFEQmI4Q0FNSU9TVmRJZ1pKbHRDZGZZU3dYVFh2cklaUXZLN2Z5UGNiaVZDYWRUVE1MRFNkTTlySUd2bE9JMlJqMGJBQThQR01idDZ3MGc0QmZPM05kVmI1cHByNzVKdjlBZldWY0FfVHRsU1F6c0VGcWcybVlITXJSXzBkZnpOTlkzMjBJX0FZb2p1WFUzWGVUd0UzUVNBem9HOFNBNm9icW9NbENYT0NPUkZURXN2TnM2bFNFTUpILTNjcDJf0gHWAUFVX3lxTE1tYjA4YzhuR0dQV05reTBBWjNhUExMT2o5RnVKeUlENnpWUS1fYkRVWHhTMWpONzNiN0g2UFpudjdVUmowTVJrMUZrdmhmNldMcTJCdEVhVGNyZC1sWDF3YWdLam1URUMyeU5LV1lyc1o2Z1NzQ3NaMjdjQmtXREFvS1JOc0xSWGE1UmFYNllXc21Gdk16N00zZEVLQkMzakI2ay14SHpyZ1hwb1pTaFowQTZKcDc0eDNHRVVVTDZPZGRkczl4aEFsX3Z6MDNUQy13eXl4eFE?oc=5"
     },
     {
-      "headline": "Con Edison (ED) Stock Looks Fairly Valued At Current Levels - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-04",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNm13TUJMQ1FGNDJWMlQxU2t4eXE0T3licTdMbVljeFl2cXEwMFVZb1A1aWxIZjcxRHJnYUdfT2JEdHpVR01tajJJNk1XNEdJRlZ5XzJndlUtMjIzRFBGN0NHTzdrRDBKRFlBS2NSb1A3T043eW0wX1pJUlpYMERrM1BvMzhHRlhWbUxsVFRQWWIxSF9L?oc=5"
+      "headline": "[Form 4] CONSOLIDATED EDISON INC Insider Trading Activity - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWV2MUlleHQ3c21NV2VtVGphV2E1NzlOTmFXdy1WX1llWFQweTk4WURRb2xRSTBiSzFncy1pcURwd2ZKVmtoSVNzQ0dHWUd1dE9vcnZPMGhtXzZoT1RtUFJKY0EzSkxPT0RwMk0tQUstU2NPOWQwdmc0NUFWRUJOeUl1VUdndmlRVElENVoybGJveWdGTTU2RGZWekh3bHFTWkp0WkNfRWVfN3dmZE1wbV91alhiUQ?oc=5"
     }
   ],
   "insight": "Tracking Consolidated Edison (ED)."

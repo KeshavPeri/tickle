@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-10T05:36:49.605Z",
-  "builtDateUTC": "2026-07-10",
+  "builtAt": "2026-07-11T04:42:17.495Z",
+  "builtDateUTC": "2026-07-11",
   "source": "yahoo-finance",
   "1m": [
-    85.8499984741211,
     87.54000091552734,
     85.9800033569336,
     85.76000213623047,
@@ -24,10 +23,10 @@
     95.18000030517578,
     94.81999969482422,
     93.63999938964844,
-    91.33000183105469
+    91.33000183105469,
+    92.20999908447266
   ],
   "6m": [
-    86.94000244140625,
     86.19999694824219,
     85.25,
     85.33000183105469,
@@ -158,10 +157,10 @@
     95.18000030517578,
     94.81999969482422,
     93.63999938964844,
-    91.33000183105469
+    91.33000183105469,
+    92.20999908447266
   ],
   "1y": [
-    78.80000305175781,
     78.05000305175781,
     78.27999877929688,
     76.80999755859375,
@@ -411,29 +410,30 @@
     95.18000030517578,
     94.81999969482422,
     93.63999938964844,
-    91.33000183105469
+    91.33000183105469,
+    92.20999908447266
   ],
-  "lastClose": 91.33000183105469,
-  "oneYearReturn": 15.901013063498054,
+  "lastClose": 92.20999908447266,
+  "oneYearReturn": 18.142210735500974,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Edwards Lifesciences (NYSE: EW) CVP exercises stock options and sells 619 shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcUdQdnBkQkU0WGVIM0FIVEdQSVpaOWZ5S0V2ei1LbUpucFV1UHFJdVFEVFlHMTdYb3FkLTNUNTJ0eGZqcE4ySFlfa0NqbFZHRjlwYS05M2tsajNKNUtpVGtCb1lWQklIa0taN25ncFJ5cGxFZXFFLXgwUU5lcmNkbUV4NVVKT0tFTkxMRGNxOGpianloNVVCYWs5QW52XzB1RUNKUlpLQnQ1eGpub2QzUVhIVVk5eU41?oc=5"
+    },
+    {
+      "headline": "Insider Sell: Daniel Lippis Sells Shares of Edwards Lifesciences Corp (EW) - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-11",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaVZmd3VSQ1F5ZXVtSDJ0WFZjbVRkNU5UWWVwQmN2bDRxSThoU1MxVlVhVGVMd1U4Tzc1dWhzbUkxN1ZaenlJOU5jWGh2bjdMb0VicDBLbTczUnEtaktHNFF4aE5yaHNhV2ZyNkROTE1MMmQ4MEdTQkc3dUk5OTdSZWF0Ny1jS1huTVVOODVHRVk4RWRsS1V4aHdOaldYbXhkU1BfNlI3WVNoWXRQc1V3?oc=5"
+    },
     {
       "headline": "Edwards Lifesciences (EW) Shares Fresh Valve Data, Is The Stock Too Pricey? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-08",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWkRBQ3VfN0R2WVVkNEtUeGRna2lQYXFITzc3RVh4MUxOektRbkdrdmQ4Q3drYlNFbE5uWjNFcjJObFRYQ21QbGhlOHhBRmZFaEZ2ZnI4TllsSDVJUS1xTUpqdWM2M25waC1sMGs1VFBCbDFtSzl1bHEtaWN5S05iVDNtY3ZsY0hlTmFkMnBCS0sybHhUMi1hbnllbGhjR1FmdlBGbDhFNGRHczhFNHAzRWExRHVvX2JZVHAxNnpYaDgtUVRtc29xdk9hYTJzSU13UVk40gHYAUFVX3lxTE5SUXVYdTdHU2dKZldlM3kwaHlUckx4em1QbWlLRF9yZUpPN1NSX0tYU3ZlcklJT1FvalQ0alh0YzhZTWE0bzRvRUpQeUhlUm9wUEFCR25LdzdpWlA0ODRiVG4xQ0RDWjJ1MTM2RDEtTnh0LWt0UXY1TzE4WGhLdHBrWG05bE5STXdCNUh1SDdqNDh1d3N5ajNxdUo2WjZyZ1ZrYnFKb0RjdjZ3Wmx6T21FNjVpVl9xVUxGMG5PVktrRWhVX3JZU29BSVFjVWJ4OExJdTN4RGh0eQ?oc=5"
-    },
-    {
-      "headline": "Edwards Lifesciences Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU0x2V2hyUms0Z1hyZjNtOEZ2MGwxck5JWEZwRW1WUW1Tc1c0Z241UEIwNVVjelBucWJZODJDTlVQQ3RDZ0pmai1lNEsxaDJ5UTdnSzE3UjNQYXpJc3NzNFFBZWZaYldHbVVaaWNiVks2cGJwYU1GTWVrSmFvRFdSdkNiZE4xTDF0bjg1T3RBalZkQXl3S1c2YmhtUDZWazB2dDJWUlR2X1hIMENicU1JdkhGcFFkbGpWczhaZFVySElkVmx3UjVweUExLTFORGdzLWJkZXJXUWFPdTY2?oc=5"
-    },
-    {
-      "headline": "Edwards Lifesciences (EW) executive has shares withheld for tax on vesting - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVVd0Z2J2VXllS2tFcEt3bXZuVk1UMVVnVXJnZndxZnNsamJ0Y1JmVThDSzhEbnpiU2RObjA5dTdHUWxFMjBuNE5mdmFsdDBTM0RTQlRfZW1WOHZKT3dfN1hob05NSHBrX1RCTi05WDh6VjNMVV9HT05jTk00QUwxRU5keWFfWFl4VFFXMmtLcnJ6V1hJQ19CR3NaNmxvN0V6SDM1bFZ3dlR5ZzVLd3dGTWF0M1RMMy1E?oc=5"
     }
   ],
   "insight": "Tracking Edwards Lifesciences (EW)."

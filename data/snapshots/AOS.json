@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-10T05:36:32.965Z",
-  "builtDateUTC": "2026-07-10",
+  "builtAt": "2026-07-11T04:42:00.940Z",
+  "builtDateUTC": "2026-07-11",
   "source": "yahoo-finance",
   "1m": [
-    57.33000183105469,
     59.22999954223633,
     57.220001220703125,
     58.65999984741211,
@@ -24,10 +23,10 @@
     62.45000076293945,
     61.310001373291016,
     59.470001220703125,
-    59.02000045776367
+    59.02000045776367,
+    60.439998626708984
   ],
   "6m": [
-    68.08000183105469,
     67.73999786376953,
     66.87999725341797,
     68.31999969482422,
@@ -158,10 +157,10 @@
     62.45000076293945,
     61.310001373291016,
     59.470001220703125,
-    59.02000045776367
+    59.02000045776367,
+    60.439998626708984
   ],
   "1y": [
-    70.47000122070312,
     69.08000183105469,
     68.8499984741211,
     67.23999786376953,
@@ -411,12 +410,19 @@
     62.45000076293945,
     61.310001373291016,
     59.470001220703125,
-    59.02000045776367
+    59.02000045776367,
+    60.439998626708984
   ],
-  "lastClose": 59.02000045776367,
-  "oneYearReturn": -16.248049616289208,
+  "lastClose": 60.439998626708984,
+  "oneYearReturn": -12.50724229202556,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "A.O. Smith Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa3dyUHNHcHBrTGlDMkxoRUdFX0lkdWZSNGpsQkRMd3RQRENETjhmTnNXSXVpdXFsQmIyR2JldmVsX0k1WnViaXVybHdoUlgtRy1VdDBOUnJsdGJfeV9sOFNUdTBHOERaZEFZbVNlVmV0YVVrUVVBZ1VNUnBHWENrcFNhSjJQRUhIdzNzNldDUzJ0UVFkZnotWjNTYWphM2x2bFZsQS04OFhmV080ZF90cmFsT0RPYTU3a1JNUEMxb3g4dWtRV1J0WndrNEZRUGo5RkhWM3Rha0NMcGhM?oc=5"
+    },
     {
       "headline": "Q1 Earnings Outperformers: A. O. Smith (NYSE:AOS) And The Rest Of The HVAC and Water Systems Stocks - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHE4Y0c1aVVfaWx2c255bjZXQV90X1AxSURXZTh3SGhGZmUwZDFqbkNqV3U4V3VoTDlMa3RHUnRIX0c2dXdrakFjT0ZUTHIzcl9wdkFWdEJacjZMOHk4Qms1dFotdm1HWEVaalJUSXg0ZFJqQk93ZE43azBCTXZvcXRKRWcxVl9YdVFMSnFpWVlCSGtlMlZzMWZjemY1WDQ?oc=5"
     },
     {
-      "headline": "A.O. Smith Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLVNIa0Y3RFNYeXN2V3dYZ0JEX0hUTW1CenFvUTFRREdFNTJLRW05UkpfcEhITlN6cGdReDNjX2xkOUpnWjdHZ2NUWFQ5eGxXNVlDS0hzV2c4cFpfY1p5YUU3R0VVd0ZEZDV5eVVuQ2RUSU1pdkgyNUdtbnEwbmF3WHdyRWtDMVY4SlNzYmNvVmQxekJxejJPdF9tUldsLUJNNEhBUVdpZk1DYkIxVjl3d0hJSkYwZ0tvMWdOcGVqMmk0YmYzSjlTbzRwbEd5ZXQ2TldfQkJMSjNFQ2ZZQU5zbFhreHF3QQ?oc=5"
-    },
-    {
-      "headline": "Is Leadership Consolidation and Restructuring Altering The Investment Case For A. O. Smith (AOS)? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNkZ5NFBESDFwb2ZoLW4wQWxZei1heXpKZ0FuVjRIY0Y3d25IWVdIZkNaakRFcFJ2eFhZTjIyQVYzRGVGOUNidDByck5URzlURWlRYWRiRHJfdnEweTlmU3RsMzRVOF9yTUU0QlZRWWducjJiQUVNU0NXbXNmeHhMYlNjeENjcmFnaGhzN1JMRW1sT0ZBV3k3cE9aWDdDZjVTd3c4cHJWSm45NGZ6eDVXZGxfU2V2RjBUcDBUUmp5b2tVRnpLOHdkZzB30gHPAUFVX3lxTFBJVXBGU0tKM0ZLbVlIcXhWQm5PN3g1ZUZRT08wNW1HYl92c1pmNnBCRlU5a2RIaVZjVzlJVThSMHJLNEItdndaOUVDVU82T2pIcDNGLXRENEdfQjVXWmQySEQ1M21nd1RhYnl2RG91YnhxcHdzX0ZZX3NmSmlUV0hJa1NRaXFIT0tCdWJ3WlhjZE9CdUMyZThqUjRhaWk1UlF6RjlQR0RwZU1NcDhGV0NvMXZ4eDhmUHRtZXhQT1E2S09IVVdWS3lvOC0xZzlpTQ?oc=5"
+      "headline": "A.O. Smith Corp (AOS) Shares Fall 3.0% -- What GF Score of 81 Te - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSE9Ia3Rld0p6dVZtTHlScENFcXhUczdxRGk0djhfVGtiUkJteXg3VmZRVU9KMFFCUVZzLVdrdjBGeW9qcVo5NklxZW92eGYwMkxFRG9qOUI3cEdRUFY0VU1JTmt5aDViQkd5eEtkMkJfdnRJWUc2LXgyeTJBSlViTmk2aFU4bjVXMXRTY1pSYVdqeUxFSGlobFRJLW51QThsbXZYMVlvMFo1ekhmUWZLT1FqTGZmNGJiWl9GdHFFMjc1MkxEQmVHM0Q2WlItM1A0?oc=5"
     }
   ],
   "insight": "Tracking A. O. Smith (AOS)."

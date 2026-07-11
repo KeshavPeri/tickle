@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-10T05:37:17.159Z",
-  "builtDateUTC": "2026-07-10",
+  "builtAt": "2026-07-11T04:42:44.202Z",
+  "builtDateUTC": "2026-07-11",
   "source": "yahoo-finance",
   "1m": [
-    258.1199951171875,
     261.1600036621094,
     263.9100036621094,
     260.7900085449219,
@@ -24,10 +23,10 @@
     287.6600036621094,
     293.8999938964844,
     292.5799865722656,
-    289.1300048828125
+    289.1300048828125,
+    289.6499938964844
   ],
   "6m": [
-    334.1499938964844,
     333.5799865722656,
     328.6000061035156,
     326.2699890136719,
@@ -158,10 +157,10 @@
     287.6600036621094,
     293.8999938964844,
     292.5799865722656,
-    289.1300048828125
+    289.1300048828125,
+    289.6499938964844
   ],
   "1y": [
-    309.82000732421875,
     307.32000732421875,
     309.1400146484375,
     304.3900146484375,
@@ -411,29 +410,30 @@
     287.6600036621094,
     293.8999938964844,
     292.5799865722656,
-    289.1300048828125
+    289.1300048828125,
+    289.6499938964844
   ],
-  "lastClose": 289.1300048828125,
-  "oneYearReturn": -6.678071768216921,
+  "lastClose": 289.6499938964844,
+  "oneYearReturn": -5.7497113779164835,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12Z05kSFdzLVBRUVhiZTdkTUJNWkYzbEs4SkstTkZuMFRVOFJ5Ym5JZHFVMUhMbnhfN0pERkJkdjFFTzFtcncweGVnYXdPUkk?oc=5"
+    },
+    {
+      "headline": "Is Willis Towers Watson (WTW) Trading At A Discount Or A Premium? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV0FfWmZJNndLdVFpV0NGNm9acWFUR0k0a2MyY0JZRVFRNXhyZFNaM3V3QUt5REZ5RThvaDdrN2V0NFV5dFRENE1OVHB6Ni1fQ0dRMFZ5blNOVldZUzRRUU40VEFhX3N6ME5XbkxYUlFQUjlxSWlQc09Rd3g0ZURRSXpKN3BHZ1JnOHBuRTFreHd4SElacUxtMEc5TDhiWjBHSHFDQXk1dzExdGQySHFkVlV2ZkJ6V2M0encxNlFwVy1nMUIxZlRPd2JvbVJmMXJsNWY1SjFn0gHbAUFVX3lxTE03S2NuZlNLc2c0QThldHhYUHk4bERqUm1XTFBKZ0dGN3lRY0hHTzd5YjE5a05hTTJSQ1NDME5fVm1YUXd3ZTZWQVh2NFRaU0NBX3BvdG9EZkZrc2VFSFV3OV9ydWkwTFQ5REJUdGp6VTd3ZkRxRmtJbkpid2ZuMmQwek11U0o0Sk90RGtmWDE3Qnd4bkx3akRkOGpjYUJsOWVla2pFa00xUG5YLWh1TXdvOEVXSHV3R0lsWHpPdUMzTEdzUmN1eURQUEZHMm1oWnZpNFNxQTdsaXBaRQ?oc=5"
+    },
     {
       "headline": "Willis Towers Watson PLC stock underperforms Thursday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-07-09",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX2dZZ196aldjOXRrZ0dQc3FGZTFoTm1FZ0EyZ3gzYkZfcUw3YzBEOXUzcUNNWl9FSnItSGV1bVlFc19CZGQ5dmlLTmpUSHFmaG13el9YMkpQVzRyV2V5Q2ZsZDRJRjhVU2ZPMEJySUZzamdwdi1za2g5Tk0zYnFPdGpWTkZiSk5nZUlsdFRvVmhZMl8zaUtZUHZtcFg4N09fRjROeWZhWG9yU19PY213Y0QxWWQ4ZDRGRnVoYjZSV2ptdEdnRzU5XzRDbWkzb1ViU1lYMGRUWS1qTDhEenBXdXdGM1hjT1p0QkdiVXVwckY4dw?oc=5"
-    },
-    {
-      "headline": "UBS Sticks to Their Buy Rating for Willis Towers Watson (WTW) - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRlAtY1FSMDduZ1VlX3hHT2NOdkxFTXFsbkZScXhHd3JQRU1uakZHWkdjVWRxTFV1UkhzVWJtTXNQbGoyZkJBaGticm9lZkU5R2RucGd4Y2RRMEwyN1NzSVF3M0hlU2R2Vk1DZkYySk95SHBQdnVEZmZ1R3FMRkFtQ1lsOTVZZTJnbld4aGgtZGpDTnRBcVF6V2JITEU5VWVYenVraUZkdnROSFB6NkNZc21RdVdZdlBnV19teEVBSG5KcXRHb29tUnJhNkZ6aWRSQVRadDhNX1pVX2c?oc=5"
-    },
-    {
-      "headline": "Cantor Fitzgerald raises Willis Towers Watson stock price target on buybacks - Investing.com UK",
-      "source": "Investing.com UK",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMm50UUdlNk9LekdYRHE0c2thRWpQSlN3RU1yb2p1T0NQVEhjRWVVSzlxMWN6M2pyOTB0RE5RYm1tOFNZUGlPaUJXVloxUVR0bXItNVFjbGZuNDJpUEdJbHRZY2hENzAzQ1FNbTUtYUdUYkdwQ1pSaWFneE5UYVUwXzZ3RHU3Rkl6aE9US2lBNjdQMi1Uc2dna3dOYmw1NmFOV3Z2bU9aYXJWbUdiZ2w1NGVrTjB5VlQ4NkFGZjlrQ1pQVkFWYm9ITnFFTmdTWlRDclUw?oc=5"
     }
   ],
   "insight": "Tracking Willis Towers Watson (WTW)."

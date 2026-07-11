@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-10T05:37:08.821Z",
-  "builtDateUTC": "2026-07-10",
+  "builtAt": "2026-07-11T04:42:36.255Z",
+  "builtDateUTC": "2026-07-11",
   "source": "yahoo-finance",
   "1m": [
-    72.72000122070312,
     74.58000183105469,
     71.4000015258789,
     72.56999969482422,
@@ -24,10 +23,10 @@
     75.52999877929688,
     75.18000030517578,
     73.26000213623047,
-    74.56999969482422
+    74.56999969482422,
+    76.19000244140625
   ],
   "6m": [
-    105.80000305175781,
     105.77999877929688,
     104.13999938964844,
     105.47000122070312,
@@ -158,10 +157,10 @@
     75.52999877929688,
     75.18000030517578,
     73.26000213623047,
-    74.56999969482422
+    74.56999969482422,
+    76.19000244140625
   ],
   "1y": [
-    107.68000030517578,
     107.08000183105469,
     106.73999786376953,
     104.7699966430664,
@@ -411,12 +410,19 @@
     75.52999877929688,
     75.18000030517578,
     73.26000213623047,
-    74.56999969482422
+    74.56999969482422,
+    76.19000244140625
   ],
-  "lastClose": 74.56999969482422,
-  "oneYearReturn": -30.748514595574427,
+  "lastClose": 76.19000244140625,
+  "oneYearReturn": -28.847589523191346,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Will Analyst Downgrade on Pool Share Worries and Margins Shift Pentair's (PNR) Narrative? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUlozSHdIUDMxb3pzVm9IQVRORThjN2NhMjI2Zi1ZNGpKY2lnbmxmeXpCcDMzRkp4NkhiVFpIdFh2YjdnRWozc0pxTkVOWDBrVXlIaFA0TGdteUo2R1FURjBMcXl5SmRYU2toTHZRRUhBYVlQU3E2cGwyOHNIcmpjU3IwdmVlUUROSlJCcmdTaXZNTHhSRm5EY212N0Z3QlFMWFdXeDU3UkxqWTQ4Q0tQSENnSEVwUmZTNmRfUlc1eWZCYVVFNVdfOUVUb0_SAcwBQVVfeXFMTVJaM0h3SFAzMW96c1ZvSEFUTkU4YzdjYTIyNmYtWTRqSmNpZ25sZnl6QnAzM0ZKeDZIYlRaSHRYdmI3Z0VqM3NKcU5FTlgwa1V5SGhQNExnbXlKNkdRVEYwTHF5eUpkWFNraEx2UUVIQWFZUFNxNnBsMjhzSHJqY1NyMHZlZVFETkpSQnJnU2l2TUx4UkZuRGNtdjdGd0JRTFhXV3g1N1JMalk0OENLUEhDZ0hFcFJmUzZkX1JXNXlmQmFVRTVXXzlFVG9P?oc=5"
+    },
     {
       "headline": "Wolfe Research cuts Pentair stock rating on pool market concerns - Investing.com",
       "source": "Investing.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFBHc3JGYU1jQ3o2UFFaMWJJaUFtMEl1aV84eUI4X09LcXl3ckgyQk54OTZHdTNfVmJNbm1rWlhzSk9GZEh4LTBkQmJ0X3EyeE0tMmtzLXBDQzRlQUVEamgtZTdtRjF0TFNoRUNDaHJ3Z0xrXzJJQ3pmSEY5aWZ3bzBBRm1GUGVwLXhHbGFNa0RHZkhkSFJ0cHZscVdSeGswZGEwYldpVU9aYVlRZy1DVUgxVnFYS2JTQTgxQzNKWW50Zw?oc=5"
     },
     {
-      "headline": "Pentair (PNR) Faces A 28% Undervalued View, Is The Drop A Buying Opportunity? - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Pentair PLC stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHZmck1ZdjBDUXlPS2JHQmdNYWFZNXFrZlJKR21FcmtMSVIzNGQzNk4xdFVDY3V0ZWV5UjQwX2JRS0JZMHJYMHM0QlI3NGw3OUNJWTBrTXhGaHlETFk4M29BT3JJUlgyeE5BMW5UMUI5Vi15ajhyMk1qUUNPdHhyM1hZUTlPYXh5QmpmcXJhV3BCMmxaaldwVjlyWnNWcVRPejc5ZVNhakppWFBlMUZlQ09PNnVPN2QyNE9GNXR4bTg0QXlvM2ZZ0gHMAUFVX3lxTFB0dU12cnVHYkVhaHQzeFJKaUlfS1FmZzFPSzh1c0VJM0VhQzB3NkRjVVhCbERFaFJnWnVfUHJzbGZTalJRNU50V3ZKdUo1cll0eDdlaS1PTFFjRTByMlhlNTdjR2plLUJuWTZydTBwTkNKX3VLY0JnUUJ3WVpCRk5VTHg0UWxlNE9nZTdzVTF6OGR1Sjl4eXR2bG91bmQ0dGF6OXVUYlZzU1laajNoTDNrMUJ0bUJtX0E1amkydC1Ec29YOU1kNm1uT296Rg?oc=5"
-    },
-    {
-      "headline": "Wolfe Research Downgrades Pentair (PNR) and Upgrades W.W. Graing - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWRSb2xmdmtEUXAyeG9GYmpIaXoxSGFpSFFoWE11UkpzLUNRX0tNQTU0YU91RXhjRGhWMGh4UmxRZGEydzU2RGFQT3d0RUVscGlCbVNzQjNYdGRWcm8wOFdzVy1vb0FTUkhlTERkbmllTGY5N1ZJTTJ2SjY5c05DdHVuYkE0bS1oWHVCVW9DWHhTVzE1Z2VNZ0xfMUpOdnFhMXcxblBiTDQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQemhpWGFKMmstRVltcUNKRzJ1T18xSElBenZ5bUR3TFBrY2J1eHU1WW1FeWpGUThvWE1fNlk1dWcxVVA2aGN4NHRkTVByMndDT0p3UG5OdDU3NHo4NWw2MlFDVVI0NFRGa3llbFJUeWhETDRuVzh4cncwQTZMaldJN0VsQXpPaHFEa1BNdGpKbkxyT2ZfcjNxZzdlbmdqaXFqVG0zWnhpY01SZUtFV3hreEZ6UjdkblE1X2F4TG5MZ04?oc=5"
     }
   ],
   "insight": "Tracking Pentair (PNR)."

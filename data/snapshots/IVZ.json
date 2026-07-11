@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-10T05:36:59.592Z",
-  "builtDateUTC": "2026-07-10",
+  "builtAt": "2026-07-11T04:42:27.194Z",
+  "builtDateUTC": "2026-07-11",
   "source": "yahoo-finance",
   "1m": [
-    27.549999237060547,
     27.90999984741211,
     27.459999084472656,
     28.290000915527344,
@@ -24,10 +23,10 @@
     27.829999923706055,
     27.399999618530273,
     27.030000686645508,
-    28.610000610351562
+    28.610000610351562,
+    28.979999542236328
   ],
   "6m": [
-    26.84000015258789,
     26.459999084472656,
     26.270000457763672,
     26.940000534057617,
@@ -158,10 +157,10 @@
     27.829999923706055,
     27.399999618530273,
     27.030000686645508,
-    28.610000610351562
+    28.610000610351562,
+    28.979999542236328
   ],
   "1y": [
-    17.399999618530273,
     17.43000030517578,
     17.34000015258789,
     16.739999771118164,
@@ -411,12 +410,19 @@
     27.829999923706055,
     27.399999618530273,
     27.030000686645508,
-    28.610000610351562
+    28.610000610351562,
+    28.979999542236328
   ],
-  "lastClose": 28.610000610351562,
-  "oneYearReturn": 64.4252944688752,
+  "lastClose": 28.979999542236328,
+  "oneYearReturn": 66.26505470358948,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "BlackRock to launch Nasdaq-100 ETF, challenging Invesco's dominance as AI rally boosts demand - Reuters",
+      "source": "Reuters",
+      "when": "2026-07-07",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU3pWWXJlM3EzaWI4S3Jva2lvRGtGN1JuX0pSdlkxSmxEalQyS2VKN3planZiak94MDl3MGRsVEtTbkRfN0VIZEFOcUtUWGFTWnlYd1R1UHY3UHhlRW5EY3F0VW5RWWc4bGo3OHVTRlV3Q3k2bm80NnhQbGJ5Z0Uwd19NVGd3aWtRR3JaRklFTW1rVkpqNWZPVW1RQzhGMVVFV1lRMnVwUU0wRndrQncyR1FpdXV6TEhqYWZDNkVOVS1Rd19nSTg4SzAyRQ?oc=5"
+    },
     {
       "headline": "INVESCO Ltd. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM1haZk9qWW45QXhDQ0ZGYmVCUVF3RUd1dHpybmZtRldiaVE5aHk0b0RSUGlxbTgwbFdCWlY4MHhKT2ZIVjFMT3lfa3RXZ2xUb2JWV0VTZUZzdWNOelZjVTdCZWpNSmxFMko5MFV1djVTSHpjVEFabVlvTUozVU5aSU9LUWR0N1pCRDFWaGxJYjVEUmxMMFlZUUh2NjdNbkhRR3VvLUlYSGU2Q0VEd2pHdk9pOWUteDhmcjZnRzdVTlM?oc=5"
     },
     {
-      "headline": "Invesco Ltd (IVZ) Stock Up 5.8% but GF Value Says Overvalued -- GF Score: 69/100 - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM0JPYzM1NG1BaDRBbGl5enk4MzFSUmFuOGF3V0FQaWZvZUpLZi1HNGw3Z0FmT3BCQkNHaUh3aEJGLTI5YUhqOFkxMGhNOHdlbjlWekJxMWt6UjZER0RBblhmR1RwdmJwMFdCRklWY0h0MnJQQ0hLcGdoVWVLUmdWVkl1eFEzNmw0VC1neklhYWg3LUp4TVZoT2VEeW41OUFsdlRGajhNeDZNdzZjQTlv?oc=5"
-    },
-    {
-      "headline": "Invesco's CFO Laura Dukes Sells About 52,00 Shares - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXBBcEYtVEFyR2lNMTNzSVFwRGFkVkZuTWYyRVRSc0NTdXM0SXlFQ2NybHN4WDdPTGt6MWVWaDFZZlllU0MyaXVxbGFUU0FrVVdHVFN3YUZkLUVzd3Fwc19sYm5QSDE0YkhVbFpscnZrMXJDaXdzdl9IYWROTk41VldoOF91Um83RzZOcWU3MHF2cWRWYTRCM3RBYw?oc=5"
+      "headline": "Janney Montgomery Scott LLC Grows Stock Holdings in Invesco Ltd. $IVZ - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTy1XLUJGMnVVM1doM2tzMGRvRVFpeVNtSUJPejlaMnd6dllOcFhJdnlPdTFiYkpiUFJ5cFR0QzJDRVhfdHRLNlcyN1NabGs1SU9FUURhVUZTZV8yaDJQMHZKQ19OajZhMy14RDFMYXd1MUpQLV9yODlMOEdqaVpCVW1nRXRNS3FZY3hHMFRTc1JuUUlTVmtFVmpHNUU3TGpLU3RGMUZ2RGVVbzdHNmRqSVVQV05OWElFa0NCbXZyQmoxMnZJNzBR?oc=5"
     }
   ],
   "insight": "Tracking Invesco (IVZ)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-10T05:37:15.628Z",
-  "builtDateUTC": "2026-07-10",
+  "builtAt": "2026-07-11T04:42:42.804Z",
+  "builtDateUTC": "2026-07-11",
   "source": "yahoo-finance",
   "1m": [
-    319.6700134277344,
     325.04998779296875,
     322.9599914550781,
     319.04998779296875,
@@ -24,10 +23,10 @@
     357.25,
     352.20001220703125,
     347.5299987792969,
-    348.20001220703125
+    348.20001220703125,
+    348.9700012207031
   ],
   "6m": [
-    354.6099853515625,
     353.6199951171875,
     350.7099914550781,
     346.4800109863281,
@@ -158,10 +157,10 @@
     357.25,
     352.20001220703125,
     347.5299987792969,
-    348.20001220703125
+    348.20001220703125,
+    348.9700012207031
   ],
   "1y": [
-    355.8800048828125,
     347.92999267578125,
     350.5,
     347.0199890136719,
@@ -411,12 +410,19 @@
     357.25,
     352.20001220703125,
     347.5299987792969,
-    348.20001220703125
+    348.20001220703125,
+    348.9700012207031
   ],
-  "lastClose": 348.20001220703125,
-  "oneYearReturn": -2.1580287092302894,
+  "lastClose": 348.9700012207031,
+  "oneYearReturn": 0.2989131626519498,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Visa Inc (V) Stock Up 0.2% and Still Undervalued -- GF Score: 95/100 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-11",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczdQZF94Slpxd0JQZjNqSDZuN0xlcHJGMDcyaVlkRlR0N2FWYlZjQkVEaDRnNzZyalUzalNpY1JZOEotWXhzMnNEV2owUXVFRzZwcDJnNDExWmMyckZIYjRSSnZZa0VUQTgzMnFNektzVzhZYXpnbXl3SXAyS1RJSEw1VmI1MTdnUHhPUFRxMjdHR0YzM3g4R3puZzRGMDg?oc=5"
+    },
     {
       "headline": "Is Visa Inc. (V) A Good Stock To Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS2tXNjlyUWVWZHozRVZLdWg1YTFqc3FfZGhRUDV4SjZFdEZVbGVLaVdrRTdJWWc2dUxjcFp1Q0VEcVVZWGgwN2xyZk80Z0oyZV9yQ1N4a3BtT1B0b0IxZ0k5dkZZNzRCVXVsRlByN0c0Qlk1MS1tVUkycGl2VTFmUTBrTUFIaUF5WUppOVlzMA?oc=5"
     },
     {
-      "headline": "Lmcg Investments LLC Purchases 4,336 Shares of Visa Inc. $V - MarketBeat",
+      "headline": "Main Street Research LLC Sells 163,842 Shares of Visa Inc. $V - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd192Q2RaQklnNm8yMHpZZ3BfR2dreWlETUwyMW92MEZyTnl0Yk5HX3EzNUJ3c3NzVkdWVjI2T2hac0owYjg5S2lDM2JRTEotVmpPRktjaF9RejdYVU9WZXllVkVlMm5GQ2d1M2xaRC1CdjBlNFNHekhwME40aHpDYjZmMndJVExEZ2w0VmNiLVg2YWhuV1pTdkNzckh6OEpNN3VRLXpTNkQ0VnB0QWdmYWVzMTJFUFll?oc=5"
-    },
-    {
-      "headline": "Visa Inc. Cl A stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc0ViRWlkLTRnRmlnNWZPVUJnVWE2REdBel9YM0o3ck9nakhmSmkyLTNhWE1fLVl2bHhMOXdoTHNMTEFTMDktckE2TTFkU3J2amlGUFNSemZsR0pXR2VUUnVjWW1SRVBhWnNLS1BpejdQNzRyODVOazNzRHVadTRsTHVjZ1AxaUp0azdPbVFhUkZFS3FLY1hKYmtyYkRYOUVmSk5zdHNJbTBwdjNkdDVCb2lXbmlZSlJ2d3BMSVBFTkg5UjlYTTBXWWVMOFdSS2VDQXpRdWVNQmxONUgySHFBRndR?oc=5"
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWEZyNVFzZTFHVzlMcHVnLWJFb0hVYklwNGVnSFc5RzB6ejVDbjU4amN6ZnVxNkFzQ1dHMFNIaE9PX3hTak05T0puc0d2bFR4ZG9PUHhGaEQ3Q29iZkgwbnlDeDRZWDJnQmtVZGM4VGtRdGxqbHlnQ3JDdUZSbndEcFRrZ01xaF9nN0FXdUF5aGRBSUduVzVScGhUODNIWl9KTndHMlhPOG03VlF3U1JGdWl6MHk3SkxxVERJ?oc=5"
     }
   ],
   "insight": "Tracking Visa Inc. (V)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-10T05:37:04.377Z",
-  "builtDateUTC": "2026-07-10",
+  "builtAt": "2026-07-11T04:42:31.916Z",
+  "builtDateUTC": "2026-07-11",
   "source": "yahoo-finance",
   "1m": [
-    1559.1800537109375,
     1531.97998046875,
     1473.0400390625,
     1589.550048828125,
@@ -24,10 +23,10 @@
     1346.1300048828125,
     1272.81005859375,
     1315.510009765625,
-    1374.1300048828125
+    1374.1300048828125,
+    1352.739990234375
   ],
   "6m": [
-    930.0399780273438,
     923.9099731445312,
     906.3599853515625,
     936.3099975585938,
@@ -158,10 +157,10 @@
     1346.1300048828125,
     1272.81005859375,
     1315.510009765625,
-    1374.1300048828125
+    1374.1300048828125,
+    1352.739990234375
   ],
   "1y": [
-    740.4500122070312,
     736.0599975585938,
     721.1400146484375,
     717.6199951171875,
@@ -411,12 +410,19 @@
     1346.1300048828125,
     1272.81005859375,
     1315.510009765625,
-    1374.1300048828125
+    1374.1300048828125,
+    1352.739990234375
   ],
-  "lastClose": 1374.1300048828125,
-  "oneYearReturn": 85.58038790316112,
+  "lastClose": 1352.739990234375,
+  "oneYearReturn": 83.78121277086392,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Does Monolithic Power Systems’ (MPWR) Index Shift Reveal a New Phase in Its AI Infrastructure Role? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYnAyMktXNXFOMUVBdmhDcWRSZFZsR3BraThHN2pYRkFqMUgySG0xRW5zZUsxaHo4QVIzRHluaTVNRGZEa0JvOF9yM3NBSTlmc1A2UmdRVG1ERXcyMFItV0tXQmRoUnRoSGdvNHMzakxYT2VXOWxIYmlPMlRpUEdnYUlpYjBpOHdvVnZYX1Axc245QTc1a2g1a21mVHlySlhRWWdvWk00d0dDbkIwd29TV2xnQzlPZVIxTWpGd2stTFRia3V1MXFHRWNPREFBTVFYcVRkR1V2NUVLemZLSUpFd2xLRkRjdU3SAecBQVVfeXFMT2JwMjJLVzVxTjFFQXZoQ3FkUmRWbEdwa2k4RzdqWEZBajFIMkhtMUVuc2VLMWh6OEFSM0R5bmk1TURmRGtCbzhfcjNzQUk5ZnNQNlJnUVRtREV3MjBSLVdLV0JkaFJ0aEhnbzRzM2pMWE9lVzlsSGJpTzJUaVBHZ2FJaWIwaTh3b1Z2WF9QMXNuOUE3NWtoNWttZlR5ckpYUVlnb1pNNHdHQ25CMHdvU1dsZ0M5T2VSMU1qRndrLUxUYmt1dTFxR0VjT0RBQU1RWHFUZEdVdjVFS3pmS0lKRXdsS0ZEY3VN?oc=5"
+    },
     {
       "headline": "Earnings Preview: What to Expect From Monolithic Power Systems' Report - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -428,12 +434,6 @@
       "source": "MarketWatch",
       "when": "2026-07-09",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMFN0a1BjNFJCUlNnLUZPY1JxR0lwNUttajdIQ0VCc2xPa1I0dUtwaDFZbDEyWjk0TTBwenpRQ1EwTmNRUUpxMXJsNnp0WEVUbFdLY1FwaTByLVd6b0JNQ0FUeElQQm1zOXNTOFFwWnJCbW9LVG5WM0lMTURFYjFUcllQalctbmtHQW1EVFh5MkhJTGFkR0hfTmNlVGFMeG1HblRnd3NTcDJ1bVJXQ0Q0aXNCMkhKazE5OEM0MUlUTVZqbDluN1h0cjRSMkJUd29XSE9UR29XUQ?oc=5"
-    },
-    {
-      "headline": "Monolithic Power Systems (MPWR) Stock May Be Fully Priced As Strong Earnings Land - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVmV3Zzhid3BtVjd4VkRGM1ZtMzBsVzVKUUMtOVBybDc1d2kxRVVZTXhWXzRUM3VQc2N3U0lDZUloR0duX2Q0bXNOSGNkRHQtZ3dSeUgydEV4Z3pONXFJVTl6U0p3Q1hqZ2I2eks0d0ZvR2hiem9idFp4cXBhbm0yR1NQdkRGSGpuVHl2ZFl0SDd3YmwxenF4Z3A0cVNYXzlfaG9WNVdqUXh2NmpRSEc2TTN4MFV4eEE2WEFwcE1oNnM0WHl4QjNja1RZWjNTaWs4TnFTWktjbTRuSjhJOE9OV2hCM0JXNHJi0gHoAUFVX3lxTE9WZXdnOGJ3cG1WN3hWREYzVm0zMGxXNUpRQy05UHJsNzV3aTFFVVlNeFZfNFQzdVBzY3dTSUNlSWhHR25fZDRtc05IY2REdC1nd1J5SDJ0RXhnek41cUlVOXpTSndDWGpnYjZ6SzR3Rm9HaGJ6b2J0WnhxcGFubTJHU1B2REZIam5UeXZkWXRIN3dibDF6cXhncDRxU1hfOV9ob1Y1V2pReHY2alFIRzZNM3gwVXh4QTZYQXBwTWg2czRYeXhCM2NrVFlaM1NpazhOcVNaS2NtNG5KOEk4T05XaEIzQlc0cmI?oc=5"
     }
   ],
   "insight": "Tracking Monolithic Power Systems (MPWR)."
