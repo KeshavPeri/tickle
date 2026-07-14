@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:24.165Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:32.673Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    33.93000030517578,
     34.22999954223633,
     32.650001525878906,
     32.84000015258789,
@@ -24,10 +23,10 @@
     29.8700008392334,
     29.34000015258789,
     29.190000534057617,
-    28.389999389648438
+    28.389999389648438,
+    28.770000457763672
   ],
   "6m": [
-    67.86000061035156,
     67.23999786376953,
     65.69000244140625,
     66.41999816894531,
@@ -158,10 +157,10 @@
     29.8700008392334,
     29.34000015258789,
     29.190000534057617,
-    28.389999389648438
+    28.389999389648438,
+    28.770000457763672
   ],
   "1y": [
-    85.43000030517578,
     85.63999938964844,
     84.08999633789062,
     85.13999938964844,
@@ -411,29 +410,30 @@
     29.8700008392334,
     29.34000015258789,
     29.190000534057617,
-    28.389999389648438
+    28.389999389648438,
+    28.770000457763672
   ],
-  "lastClose": 28.389999389648438,
-  "oneYearReturn": -66.76811507873958,
+  "lastClose": 28.770000457763672,
+  "oneYearReturn": -66.40588432647608,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is CoStar Group, Inc. (CSGP) A Good Stock To Buy Now? - Yahoo Finance",
+      "headline": "RBC cuts CoStar Group stock price target on tougher comps - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOURONXlHQktldTI1Ynp5MEhuMEl4SWNxUnRzbi1xTTJzSjlWUFVNMU8xcmN5VmdXSE5PVXI4QmZXZk9pemk0QVBPaTdyOUE0dGh2TVRjN2dHanZvclRFRExqM1BCOVF4WFZQMVNDaWNkOEFTbXN4WWxNSjM5cnVuZkNLc2Ezd0doQkhNcVNxN1AwSUNNbUlMand1UU5LQWpHRlNVMDVFbWtSVkNpVldhd1FDLWhnRFZm?oc=5"
+    },
+    {
+      "headline": "New CoStar finance chief cut $51M in Europe while growing sales - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQVVxM3NucVlSYlF4XzFlb1VvYm5pTWhSVFg1SWtDN1hPbl9fZXNtSl9WdDAyZFNvQVpCMEhvanJTRXRWWmY5UXdCTlJqb01BcnZzZzdPNHhZZ19sZ0pwMlFnWDhnUl96eXNPeHB2Ri1QdGV2NTJMc2RWcmlKNVhNRTZSR1JhZHpVTnRYcmNfeDBvclEwMmVXWXZoZzd6MkZXUlZFZVcxUG1CWkJ4bjFiZDBCWXBNc2YxaUJjWDMxaw?oc=5"
+    },
+    {
+      "headline": "CoStar Group (CSGP) Acquires 30% Stake in Wikicasa - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcm4xRElhYTF2dDBURXFHMTlDR1VUUkZGcE9TZjJROWhNNzlkTF96SXlXYzZjc2JydXdrLWpmS19WcldRS0w4S3dtd2IyOXBnendUYzd5LTg3WmtmYkwtQW1jSjlXRGVFdUdmTlVabkxfbGd5a3Jvc0FZd1dpcWZVMUhBQWVEdlBnbG5uclQyZFFkVFgzSWc?oc=5"
-    },
-    {
-      "headline": "The Bull Case For CoStar Group (CSGP) Could Change Following Its French CRE Data Platform Launch - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWHZhcS02OXB0UXdyNDBNQmIxQ0dRM0hHUDM5SWV3dW52aU9SZzhadE51UC1fUmRyMUpOMU5rTEx6aG5fR19rVUh2RngzU0pXbDlTZFRWMndOdnlZaDdLUFFJNmVPaEJGWHBQM3NxYTExUEpRbHZFUkkyWVBpbEl6UWhNanVMMkxDTlQ2MzZSRG1TbmJLclNqbGpTdzNMaU9lek9JUWJVUWpuSnpjZmU2Ukt6ODFZNVFPYTVqWVpIRzBQcElrNnUtZUtBOEc2dHFrY1ZQRHltRXVvUFBRNmdPbTUtNHVWYzhsUTlFTW9DbFpCWGvSAfgBQVVfeXFMUGtCZG1mbmRsTVFhQUVFaXAwV0JpMU9nX3VzSXVEazY1RlJEUDgwYWFCT3N6Y1VOVXUzUHdSOUliUDJRZXY4WTltUEVubUdXeXFPWWJHbEdLX0NTdmd6S1pjQzhSd1BzcG1CQWJjbjE0UnBaZ19wZ295ek90NkMybl81RlB0dUlQeTQxSEVwR3J2VVFEMlRMZk1MZ2NNWU1zOHFmUVlQTDVoWGpTWFpTamdPTVZRUEZqOUFWbXVGNmRMSmVMdWZSdXUtWlhPWl9Rbm9MdXdmcmtCUFhZY211REJCZlQ3N2ktQVJja3RCb1M1U1F4T2ZpRVk?oc=5"
-    },
-    {
-      "headline": "CoStar Group Inc. stock falls Friday, underperforms market - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbTZoM19nZ2x4NjV5dU1jLUxBYWN2YkJjWVZDc0lvVHJHMXJMR0ZvbWEtTi0wSm5GT0lrdTgySGlFWEJBMEZLdS1wS25BWFRRV1lHekZGUTRSRXl2YV82dUpHbFZXNmR5WWZwWUd0UU11U0daU1R5LVZweXpwSEEtUGY0Q3h4bHhZNWxBTER0d0Nkdjl3WUlNaTZpOFh6Z0lKd2FPVGF5cndFY1k4UEU0bklqVUNaTHhmaDNVdmZSbllCRUE2SWRvUVJySDdHRGs?oc=5"
+      "when": "2026-07-11",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZkxkMl82NzY2VVdxZmpYaHJmSmdHajJnY0lhdy16OGRrWTY2ajZ5OWt0TUpsZUxsWFJQVlh2S0NsRThwb2V2TXN4eHVwZ3BnekxHMG9QZGQwbDByeEtUQVFMS0ViQmxHU2U4YWVhOUx1dzdVNUdPeGp4c2VZdzgtbW5XYWgxWXJ6TXJVZUFVRUlhYm5pY2c?oc=5"
     }
   ],
   "insight": "Tracking CoStar Group (CSGP)."

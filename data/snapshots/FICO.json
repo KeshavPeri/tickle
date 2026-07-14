@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:32.694Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:41.401Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    1225.1500244140625,
     1220.1500244140625,
     1185.3699951171875,
     1179.18994140625,
@@ -24,10 +23,10 @@
     1300.27001953125,
     1266.0799560546875,
     1279.4100341796875,
-    1250.9000244140625
+    1250.9000244140625,
+    1278.25
   ],
   "6m": [
-    1745.75,
     1690.6199951171875,
     1643.27001953125,
     1653.47998046875,
@@ -158,10 +157,10 @@
     1300.27001953125,
     1266.0799560546875,
     1279.4100341796875,
-    1250.9000244140625
+    1250.9000244140625,
+    1278.25
   ],
   "1y": [
-    1544.22998046875,
     1547.02001953125,
     1507.1500244140625,
     1536.75,
@@ -411,12 +410,19 @@
     1300.27001953125,
     1266.0799560546875,
     1279.4100341796875,
-    1250.9000244140625
+    1250.9000244140625,
+    1278.25
   ],
-  "lastClose": 1250.9000244140625,
-  "oneYearReturn": -18.995224789357305,
+  "lastClose": 1278.25,
+  "oneYearReturn": -17.373402809143208,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Fair Isaac Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVWZRWVo4LUtPWFJ4MVZndHJvUlpJY1BUZGkwUUQ2enJaTEkxcUFKMXJXZkIzcVBmM0pGbHRPUU50dGFpTmVBbERLakxHVnZqMnpPZFM4NXNYc285Njd4UTdORVFhMURDVW1Xdm9FbFViUFg5aEN1NVlYVVhGdW4zb2hwcUtQaHhUY0FjV3ItUU5SMFFMQVgtMzdiTl8tSmNKZEZhMzlCMXpUekR0MkdtY3VzdGlud0daOG1yLW10YjVCTnF0b0VBZzRiajctR1pjTW0tSDZNazFla3QxMVE?oc=5"
+    },
     {
       "headline": "Why Fair Isaac Corporation (FICO) Stock Is Up Today - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUpXSmNUS1RPWmdSX1c1RlZuWUxuOUpaajFld0N4bEg0M3VFbldmY1pYN29TS1FhYmxmaklxeFZORkY0VTRrMTlfUURfQ2xVMGdyOFd6NU80Q3R5RUVaUDZyR3ltRlVEYWhJY3RyMEhpYzBqcFJlMXJNSmgwMHJOVTg0ajUweHp4QXg1ZHFKY3FKMGdKWnJZM21jRTU?oc=5"
     },
     {
-      "headline": "Fair Isaac Corp. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdnRRR3dDUEpaTFY3VGk0V2o3cnpnWmJwelVQMGo5UkZtSi1BRUZzTFJEYllUMW40alcteGQ4aWZsRTNLVkV3di1yTzhSa2JyLWliUzBjaWFjbnhIM2lfU04zX3lNQVd6ZnNOcXo4S1NYa3I4Mm5XN0JVU25tWXFyaG5OODZSWW9LeEE2UnYyVHJhdHZaWnFqeFlKWUNwandtTVpvU2NnSm5WWHRlVUdLbXF1ZkZZOVkyVnp6Z2N6ODc3bU1QTjRzdldhTldaRTA0Vmp3WGhBcXBnM1NKTXZJOTgxSQ?oc=5"
-    },
-    {
-      "headline": "The Bull Case For Fair Isaac (FICO) Could Change Following New Data Partnerships With Verdata And GSEs - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV1NTN1o1VFBlX19XMHI5TGNXUzdWcUdsNVczSHRBd09qaDg3UFU4TE1DNmsxUm1fYS1LSXFuYzZZUWRVNkZudUk4UExteWZ6MDdFcngtcTFUaUxjZ0RHQVpsU3BmY0JSYnNuOE5Pcm9lMzF3VnYyUVgzeVZobEpQWEM5RTlSLUxFTEFrS3J5RUZVOVEtamdYMkVJT3RUeFFKSk1uVWNHSjBVNkdYam50NXVBSFVEZ1NIc0VWZkhqdktJYzh4OXlCQtIBzgFBVV95cUxOVUZXY3VyUU9GU1d4ZzBqNWQ1T25EQkx2TncwZndDSHp1aU5qQjh1RFZHb3owY3FDSk9xV1pWUWxadlhRV3JwVEVRU2VTSFpscGN2YWI2ZGt4SDFiQUNzNWItVkM0SUdFbFNFaFg3NlhRa1M2QXNEMVdCVVNWSUt4RTR3UEpLSkVsaFJkX0RhalpuUWpkaWZUalVBWC1JTFVtNGw2X2oxeHVxakxRcjM4OXpUQWhQWVZoWDdwMzhqOEhna0x3aG9zaXl5b1VQdw?oc=5"
+      "headline": "Fair Isaac Corporation (FICO) Stock Is Up, What You Need To Know - StockStory",
+      "source": "StockStory",
+      "when": "2026-05-14",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVJkanhUNURaVHVpT2tITkRZVmdPeUZtOElpajVGb3VSRXpmSElRdjRkUF85VTVTTXo3TS1EWS1xSi1WTG9xejdiSm9xRlpodHNPSVFpSlNzOHA1SGVKUnZQTEt2NGJ6U01OZTYzN0xrd1VBSDNMVTVETV84SmY3M0MzSmhXSF9OQ1ZCejQxVFNHOV9RQ0JnMktRU2xIN3FDOVlIdmdxOFNHS093Mi14SzlXTUhPTmVCcjc3QnlR?oc=5"
     }
   ],
   "insight": "Tracking Fair Isaac (FICO)."

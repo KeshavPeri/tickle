@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:30.036Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:38.761Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    52.689998626708984,
     52.61000061035156,
     51.20000076293945,
     51.939998626708984,
@@ -24,10 +23,10 @@
     51.7599983215332,
     51.15999984741211,
     50.150001525878906,
-    48.849998474121094
+    48.849998474121094,
+    49.720001220703125
   ],
   "6m": [
-    54.630001068115234,
     53.599998474121094,
     53.459999084472656,
     53.349998474121094,
@@ -158,10 +157,10 @@
     51.7599983215332,
     51.15999984741211,
     50.150001525878906,
-    48.849998474121094
+    48.849998474121094,
+    49.720001220703125
   ],
   "1y": [
-    55.33000183105469,
     58.279998779296875,
     58.2400016784668,
     59.18000030517578,
@@ -411,12 +410,19 @@
     51.7599983215332,
     51.15999984741211,
     50.150001525878906,
-    48.849998474121094
+    48.849998474121094,
+    49.720001220703125
   ],
-  "lastClose": 48.849998474121094,
-  "oneYearReturn": -11.71155456802571,
+  "lastClose": 49.720001220703125,
+  "oneYearReturn": -14.687710600355341,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "EQT Corporation (EQT) Is A Part Of A Second “1776,” Says Newsletter - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-28",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkZTNjR4NTk4V0hPdE5PRW1XNDN5b0JTVnNwdHFFcG1IUVVmNWNwVGVCQURQY1RnTkpRbVVJQUVxRlRqMFVYR2R0b3hvVnhXZnNYdEpHSGlsNDFLbU5PbGMwbVZ0c0VkYURmWTN0aXJzb25iNk9tM2FjOTlvQWF4OE5MLVdsODlVSmZZUUlIa0Q3V3N0RllGMnN4Y3g?oc=5"
+    },
     {
       "headline": "EQT Corporation (NYSE:EQT) Given Consensus Rating of \"Moderate Buy\" by Analysts - MarketBeat",
       "source": "MarketBeat",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbk5XeU5CblNQRUV0eXozMjM0U1VrdmkwcmdUMXRMZFR5TGRHdDktS2g4M0htb0EwSXBxZTZXdU4xeXd3dVhMOUk3MFl1Tm91UXdUQl94Qm5pWElFZjF0MnhXMjlKcXVkY2FmOGpOTkx5d3ZDc2VsUkxoVWdFMGgycnhrMlp6Vl92UmlnVk90ZkZvQWtlLUF2cjhSeWxkeTR4SzlsMDgzV2JpRTJTZXRTcEc4bDY2RHlBSDNreWZackVBT2FxUXF3?oc=5"
     },
     {
-      "headline": "What Does Freedom Broker’s Call on EQT Corp (EQT) Stock Reveal? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHFTQlBPUmVKd1BaS01sV2g3dHpYVXhXSkowUmcyMlVwZDhEVy1pTkdWS3ZWdWItNjJtREJMUnIwNmVURDVhMy1KSF9tMXFWMm9iUkd3M3Vha3Nta2doQ1pxb0x5X2kycTlGLUxnQ3JaSXh1aFFtQW9IWWdzQm5UXzZWS1hOd2Y5UHZrMjgtSWZsYzczRlp3Mg?oc=5"
-    },
-    {
-      "headline": "EQT Stock Just Got a Fitch Upgrade. Here’s What Comes Next. - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkhGQmhtX1hZWlY1NjdNNkxpYUtyMkJ6emFSakFjT3V1TEx6Sk9kVVd6UEtLWWtKWGF6SjZxVGdTZzZrbF80NXJkZkFSRUF4OHFGVTRqLTFHcUVJWnhGcXpvVldnNHppOU9ZVXVJTzh3VDE3TnltQWJyVmtrTTZMT2x5cl9FVGw4dmc?oc=5"
+      "headline": "EQT Corporation Stock (EQT) Opinions on Congressional Trade and Natural Gas Sector - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-06-21",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWhmNTN0cWpIMDNPWVFpOERzZGw0SVJBSHl2VFBGSVRaMGNtcEctdml2SHFqV1k1LUlkN3F4aHNIaDVlaTF4YjRLNWs0aEdkcjBRSkdMb2wxLXZTNkY1SjJlM2dQYndmM1JTdnFwb2dFZFo5ems4VHU2SGlNNDV2NDhKNmVuaDRlcGZLRklHMzNLZjVNcmZjT1IzV09rYXU3X2VUSXhMVUZqRXVDcFdPdGo0UjJLSzVTaE9Z?oc=5"
     }
   ],
   "insight": "Tracking EQT Corporation (EQT)."

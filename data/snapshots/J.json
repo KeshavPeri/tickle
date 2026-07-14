@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:40.358Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:49.506Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    125.44000244140625,
     121.76000213623047,
     126.30999755859375,
     127,
@@ -24,10 +23,10 @@
     130.2899932861328,
     129.6999969482422,
     125.83999633789062,
-    125.83000183105469
+    125.83000183105469,
+    126.54000091552734
   ],
   "6m": [
-    133.94000244140625,
     132.4600067138672,
     135.35000610351562,
     138.86000061035156,
@@ -158,10 +157,10 @@
     130.2899932861328,
     129.6999969482422,
     125.83999633789062,
-    125.83000183105469
+    125.83000183105469,
+    126.54000091552734
   ],
   "1y": [
-    135.13999938964844,
     136.0399932861328,
     133.72000122070312,
     137.72999572753906,
@@ -411,18 +410,13 @@
     130.2899932861328,
     129.6999969482422,
     125.83999633789062,
-    125.83000183105469
+    125.83000183105469,
+    126.54000091552734
   ],
-  "lastClose": 125.83000183105469,
-  "oneYearReturn": -6.889150215067179,
+  "lastClose": 126.54000091552734,
+  "oneYearReturn": -6.9832349599019325,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "SFE Investment Counsel Acquires 12,444 Shares of Jacobs Solutions Inc. $J - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDlFODZXeFdUSlBDVTVYOUlzV1NwLWYwbk1mTVhMOGtzNWkzZ3JFZHk4TGNlcUdCQ0ZDRlBiTUlSdlRNSFJ4aDZIR0dycmJKVVFPcXZOS3JJVndseVRNb2tJemYzTEF0RmxZbndORFEwSzhJamxENjRuVmZLVUZlUE9wYlozYXdTZzBDV19aeUowX0FyaWFSb2gtdXcyMWgyTTVOZ0NoblhDNXdKOHBYUDNIci1FVXlPNEVtWGN5b00yc0FLR0ljdEE4aw?oc=5"
-    },
     {
       "headline": "Is Jacobs Solutions Inc. (J) A Good Stock To Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc0w1N2o0VFBDTFpGUXdJU2MxWHFjSVFVRnBhaGZrSVZnNEh2c2wzZUNXVV8xY1ZybnIzUXhPWmlLdTZhSG5WRFZITnoyakkxNjkwYUtYVWNrU1ZNdDhIMFJvdDBNUnpuUlpINmN4VzA3UDZldENvc1JERE1yTHFubUZ0UFNqem85eG82S3NhYmRwaC1XTUdR?oc=5"
     },
     {
-      "headline": "Why Jacobs Solutions (J) Stock Is Nosediving - StockStory",
-      "source": "StockStory",
-      "when": "2026-05-06",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcUI0dHQ3N2JjQnRzUm5oSExzUFo1cGQ0Nktkd0UxUEdvdER1WFMzWlBCMjZQRmxoX0kwRFlmZEJxcFBqNkRwSWpNZlY2aC1VVU53UGs2U3JwU3BKRkp5Nk14X1pZM2ExVnVfajJBNDROY2ZESEdFZ2dJa0lqUzFFNnlKRDJvclRudlRTbEZXSHBreTBOV2NvWHNKZk4yUWdqaWRr?oc=5"
+      "headline": "EMCOR vs. Jacobs: Which Infrastructure Stock is the Better Investment? - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNemJVYTB6YVdWeFQzS2lMOV9ZYlZMUUZvOFNCX3lYQ3UxWjBORWxuWkxvMGZuRlZmWlcwOTlOU0NnNVhQZVI2amhkUUJzbklQQVZ6SkNxdWpENzZIZVIyV3RHeW1DVVRJemczZTAyWTJCaUlvQ2RESmVUQXdkRWFBaU9DVHJUX1pWek9Ca2RFaEx3dzNoZkVQWVpyLVkxcWFrY0ktdmRjQmZnYzVFU3hxWDFLdGYzcmRiNHpGNGJQdmQ?oc=5"
+    },
+    {
+      "headline": "Y.D. More Investments Ltd Acquires 20,235 Shares of Jacobs Solutions Inc. $J - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUDVnZmNBNHZ6bXZNX21kbUNiZFpNbXhqME9WR3VpU2x0UlF4SEowNlRRQW5NcE15WDJyOFNDMnd2OU4wRXhOaTFncEV2dzJld05MSTlRTFhJb3pUWTZIbUI1VGVoaV9wQ2JHVERnVjBwN3JsYTVEek1xX1NmT0c2WThKb3pCcnJ4RUJVc204OUNkT3ljbEhTckYyMEJtQTZubnktSEFBdDIwWGZVS0I3Q1BDUUpueUZsTzcxeDlPRXMwMnBzdEo4NFhyN1o?oc=5"
     }
   ],
   "insight": "Tracking Jacobs Solutions (J)."

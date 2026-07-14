@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:27.500Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:36.308Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    200.91000366210938,
     203.63999938964844,
     210.83999633789062,
     211.47000122070312,
@@ -24,10 +23,10 @@
     204.5,
     201.10000610351562,
     201.9199981689453,
-    204.25
+    204.25,
+    196.69000244140625
   ],
   "6m": [
-    184.9499969482422,
     184.02000427246094,
     187.2100067138672,
     192.66000366210938,
@@ -158,10 +157,10 @@
     204.5,
     201.10000610351562,
     201.9199981689453,
-    204.25
+    204.25,
+    196.69000244140625
   ],
   "1y": [
-    209.33999633789062,
     209.47999572753906,
     206.7100067138672,
     208.25,
@@ -411,12 +410,19 @@
     204.5,
     201.10000610351562,
     201.9199981689453,
-    204.25
+    204.25,
+    196.69000244140625
   ],
-  "lastClose": 204.25,
-  "oneYearReturn": -2.4314495208431097,
+  "lastClose": 196.69000244140625,
+  "oneYearReturn": -6.105591725697839,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Darden Restaurants Inc (DRI) Stock Down 3.7% -- Now Undervalued? GF Score: 87/100 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOamdJRlRrT3F3WmxlNU93QkFPelgyLW1YM2UwS3NXcXNIUDRQN1k0aHJ4RnJqemhFeXE2SmdqVWFuZVgydU9LYkUwQ2ViejZUaEZmQ0k0ZU52VWVVSjNucVg3NjJxVFJjTmJCQlhyVkdKRDhUSVkzOGdEMVZBcVVJSUxtTXFSSG94MjFFaDVMLVVMTjQ3Nm5WZE9pRzY1YmtHMkNrMk5weTRySHhrbFA0?oc=5"
+    },
     {
       "headline": "New Stock Price Highs Are on the Menu for Darden Restaurants - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEhVbGhielQ4SFE0Yng1el9IZEYtaGNySVp6Ylp0SDBGN2N6bWNtZGNSeWVsa1VaV3VEOGhqdkdCTjZibHZLcmExTTU0ajBPTkFYN09iSEl6MWJzY0hTUnFMS0dRWXk4V2p5NEFORnpwZHo3Nm00X0c5Z2VGaXNXTVpEQk5aUEpOM2oybEpkNzQxelNnTTViRmxB?oc=5"
     },
     {
-      "headline": "Darden Restaurants Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdHRINjFoTFRQZXpKQi1vZVlGNDJsLUZCdklVaDYyRWw1RnYyX2RrVU95dTg2R1dzM1pyQkkyTXY2QTY4WlNVY2pPZE81dlQ5WlU2YWdJSUI0SF9pTkdwQ3BLSmUwRkQxSlhvYmQ4M0o1YmFtMXlvLWZiMkpWeU1LdWVmZ0xWWnR6RXFfbkNJUl9PMElXLUpzVDVvTnBHMkw2U3pCSldobjNOTHllMk9ySmFPcVc2dFJvSkhWNWlvNmFmeE1zajFwVXVad2ozMFE?oc=5"
-    },
-    {
-      "headline": "Darden restaurants SVP Connelly sells $2.05m in stock - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSkxRT3ZxUlRlbVFJVU5zUWgtOUstY2k0TG81REZjTFVGQzFRSFFQS0s0Q0Z1c1JwcDhEeTlRUm90TDJXN2JRV3hSdjY4bWJFVWpNeW1US2FUemZvbE1mWE84LXdZMjQ1aXFMa1JjSmo0Y1lyQ0JtaGJZNGRnMDdqUHdnUVktNWVMSmh2RFZERlpETmVPSmdieTFSWWQxdzY1Y2VEMnM2S2I0a1lQS1A3SmxwUF9wYkU?oc=5"
+      "headline": "J. Safra Sarasin Holding AG Increases Stock Holdings in Darden Restaurants, Inc. $DRI - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUnFpa2FSRXNQbzcxV3YzbkQwUmEzRHVzcWVhMWNzeFQ4QUZaX1h5SG9rZ1BQTnNFaHRmUU04ckM4MWkwNEpJTGpnd3ZfVHR0aEVLVzFkR0Q4TWJBU215R1Z4ZWwzYkQ0aTFVbGJKazdJZnJwOFluMUllcWpUN1A4eEtnWlV5cmFDNTFiVEVsTmYtYW13OUpPVlFyWGtMLTczODJfWXdsUFVINkdjZHR1TzFIWW43eWxKb080NXZzRUlMOThwWk84SW9aVlhveFdITUpCTEVWUUZ2Zw?oc=5"
     }
   ],
   "insight": "Tracking Darden Restaurants (DRI)."

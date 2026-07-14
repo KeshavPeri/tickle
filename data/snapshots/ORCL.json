@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:47.799Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:56.819Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    205.80999755859375,
     201.25999450683594,
     184.10000610351562,
     184.1300048828125,
@@ -24,10 +23,10 @@
     141.60000610351562,
     140.49000549316406,
     144.22000122070312,
-    140.63999938964844
+    140.63999938964844,
+    131.5399932861328
   ],
   "6m": [
-    197.2100067138672,
     194.91000366210938,
     195.7100067138672,
     192.58999633789062,
@@ -158,10 +157,10 @@
     141.60000610351562,
     140.49000549316406,
     144.22000122070312,
-    140.63999938964844
+    140.63999938964844,
+    131.5399932861328
   ],
   "1y": [
-    230.55999755859375,
     229.27999877929688,
     234.9600067138672,
     241.3000030517578,
@@ -411,12 +410,19 @@
     141.60000610351562,
     140.49000549316406,
     144.22000122070312,
-    140.63999938964844
+    140.63999938964844,
+    131.5399932861328
   ],
-  "lastClose": 140.63999938964844,
-  "oneYearReturn": -39.00069358132836,
+  "lastClose": 131.5399932861328,
+  "oneYearReturn": -42.62910241344158,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Oracle stock hits 52-week low at 134.53 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3Npbnhjb3VGajBQcGlrUDFwODNNTy04TGR6MGFPMC1CQ1JEOS1GaGs2anVrZ0NSck0xNVV2YlREYWNTMVV5Vmg5NVJhMV9sZ1VLUHV4ZjdHVS1TeXEtVHJSeTgxUHlyN1RpS1FjNWxOdlFUa09NUFZheG5rOENXTTZUYjdIeXp6SzZHUVEtdWJxVHlxRl9McDNwTWlaNnM?oc=5"
+    },
     {
       "headline": "Jim Cramer Shares Key Insights For Oracle Corporation (ORCL)’s Biggest Problem - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGFxUjZGMm1fempBRlN3UkNwd2VmaVJiNHp4NmRHY1k4WGlQOGtOY3dnRFR6STJQRUd3NklSTlU4dElDMmZJbllwZDktYkVrbWFXcXlKVFgxY3pzYTZ5T1dSLWNnRi1SWFVDX3lwaEVLQ0hUdDlJdmF5VlRCTFJBeDJJMWtPelpzR3NGb0JvNFh5QnBiQVMxR1UwVQ?oc=5"
     },
     {
-      "headline": "Oracle Stock’s $638 Billion Order Book Faces a $42 Billion Cash Test - TechStock²",
-      "source": "TechStock²",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVE5ockNvMW1ZM2NqX3hzRFRfQk9tcEpZNW5oQ25yYVZZbDg2UHRpQ09RWWUxaDNNZFFPeldCbllBWEdEQTFScUpsZ2FaT196TnMxSXNDaGp2a2RCVzdMWmZBcTFIVkNjUzlCTExTaURUUTViWXFiU2tLWHgzWWFlRGpyeGx5b1NQWlpEb1hPSQ?oc=5"
-    },
-    {
-      "headline": "3 Reasons Why You Should Hold Oracle Stock Despite a 29.5% YTD Drop - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXNoMHBxZEc3c1ZqTE5RbFRGZVJwQWZKM2NrX2NYeC10NlBaUFowWGVFa3NkclBkMWNmaW8wMlNqa0t6aHRIM05iNGdDeGtsMnhkTTc4cmJoSkFJaGN4VEQ4NUUzdjIxdHo1X1ZQeUwtdTdPeFNrdzVSUnZvZnhGaWJYRHNuX0tBZlVCak83MWlCYnpFNmQ2LVRkMVFkN1pQUmdBVndJWEZyR2QxMVVTZmMxZlpFeXkzWHdSOGtiaw?oc=5"
+      "headline": "Oracle Corporation's Stock Price Plummets by 6.47% to $131.54, Marking a Significant Market Shift - Smartkarma",
+      "source": "Smartkarma",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTlBDamtwVG1heC1XcC1ydi00SXhXNXZDOUJXRFVwa091UHdETGFCMURySGJSTFJxLVBSWlMxdkppQnROTndHOVItQWVLNVdvd3dfSXZzeW5McnRELW5sMnRsMTdESUktcGhKLUhRM2EzYTRoQVduX0Nva1lBMlN0RDREXzEtbG81TUpkRG90X0tkczZfaEFiVlRlR0RJdS1UVXBydlc2Nlp6c3BYTGlUMmM3c0tDOW52MExtb3AxSnBkRmM5UnlmNEQ3YXpVelpaa0dyTTRrVQ?oc=5"
     }
   ],
   "insight": "Tracking Oracle Corporation (ORCL)."

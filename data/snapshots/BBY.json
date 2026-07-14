@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:17.309Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:25.493Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    75.12000274658203,
     75.63999938964844,
     77.0999984741211,
     78.52999877929688,
@@ -24,10 +23,10 @@
     78.72000122070312,
     78.06999969482422,
     79.98999786376953,
-    82.80000305175781
+    82.80000305175781,
+    81.6500015258789
   ],
   "6m": [
-    67.83000183105469,
     66.93000030517578,
     69.18000030517578,
     70.05000305175781,
@@ -158,10 +157,10 @@
     78.72000122070312,
     78.06999969482422,
     79.98999786376953,
-    82.80000305175781
+    82.80000305175781,
+    81.6500015258789
   ],
   "1y": [
-    71.79000091552734,
     70.94999694824219,
     68.87000274658203,
     66.8499984741211,
@@ -411,12 +410,19 @@
     78.72000122070312,
     78.06999969482422,
     79.98999786376953,
-    82.80000305175781
+    82.80000305175781,
+    81.6500015258789
   ],
-  "lastClose": 82.80000305175781,
-  "oneYearReturn": 15.336400607078323,
+  "lastClose": 81.6500015258789,
+  "oneYearReturn": 15.081050088617115,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "[144] BEST BUY CO INC SEC Filing - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTS1WckdLRE5ScEJQSkhQbDZTNHhhc1VPOUNUbnNlVWkwSVZidHpsS1ZTX1ZTekNlQlVpNVBzdE9XT2ExTUZ2aFMyMm1SYW04ZWx2ak93MDhTc3pfNFVCZUNXbmxDdnhFWklUZzFER05FZTJLbFRuZUo5Z2phSE9JczFuYUlPX1lSV1g3OU5vdkpHTWM1aVE?oc=5"
+    },
     {
       "headline": "Is Best Buy Co., Inc. (BBY) A Good Stock To Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaWZhR3RkMm91eEtBczRreFJDTHA2UEdtcDdnNzMxN0YteUdsQ1JMbFhYNFg4Nl9IU2FCaHpEanhKaUdKaHBYNmh1S1Ffb2JCZ2hjNVJxaEMyb25xMzVMMlhXZGo1LUw3dHBtQ1R5VTc4S3lNcGpKSUhvQTFRYjdrOGRWR1EzQnBPZ1BQRA?oc=5"
     },
     {
-      "headline": "Best Buy Co., Inc. $BBY Position Increased by Candriam S.C.A. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV251N1FTQklHYXY3bVQxbi1yckxKLV9WY0Y5bURNTTNaSEExSFRIZGQ4ZmpDOW9KdG9TLWxnV3VpWFFncTJ0NDdPVDZnRHNzaHRIY1hIbFVxMGMwVEloQUpzeE9xNnFaS3FQOVhCUjBySkZwQ0U5UmU3d1RKZTNSQ2pOcjBQbW5qemhBZlNLS0NnUnpnT0xhdFpiWm83SFhJZ0NzR2h5WDBTeVhTSHhvSzhScWZ2QQ?oc=5"
-    },
-    {
-      "headline": "Best Buy stock climbs 15% on earnings beat as retailer aims to reinvigorate sales - CNBC",
-      "source": "CNBC",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50eUpMdHRvVTBlRTByRjNrZTBvTlNTYnFaV2wwVkNyOXpLUVlHYnR1VUF1Y0YwWFhEOHE2ZHBHMW9KeVRsd0lWSWRDbGJrdEpPN0lYWUQ4WVpNeXVySWhjTVFCbDd5V0gxOHR2UlVqVUhILUM20gF6QVVfeXFMTVN1UTNZclo1ZXRwUUxpODFSSTZWLTg4c0dPWUxPT0xlSXpaN0NLZG52Uk15cDFvVDhIMV8xRDRFZHA4aVpwT2tlZjI4Mk5iM3BJd1RMY2x1Wkw4Zk5DNkktdHhoaC1TX2FvRFo2dVdXRG02M05Xc25CT2c?oc=5"
+      "headline": "Best Buy Co. Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOW1pUk1sVlp1a3V5WnlFbC1WeDZvVmg4andWR0ZDYm9VLWQzRVpmNnZRR0ZVaFRlLVFpSHhlUGxhdlpwbnowOUwtNmtSUnF0MUlpLXZkRFVtaFl0SWZlRmx5SFdEUVM4TDRybThkbGhCVGJvQjVnY0JuZ0dfV2wyLVBESXk5VFN0NjFiUGFwT1RsSnhUTlJCb0FYTkxpTnF3Z0o5OHNBWlJNckV2eUNKczU3c1BiUThuaVJOWERFQTJBaVdocVF2UUNtS3NnMVo4eVhyMm5rNFl6VWpQR25nZ0FlYw?oc=5"
     }
   ],
   "insight": "Tracking Best Buy (BBY)."

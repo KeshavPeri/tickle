@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:38.356Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:47.337Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    363.17999267578125,
     364.4599914550781,
     368.69000244140625,
     379.2200012207031,
@@ -24,10 +23,10 @@
     394.6199951171875,
     396.2900085449219,
     397.760009765625,
-    392.2200012207031
+    392.2200012207031,
+    406
   ],
   "6m": [
-    259.04998779296875,
     256.1300048828125,
     264.4800109863281,
     275.79998779296875,
@@ -158,10 +157,10 @@
     394.6199951171875,
     396.2900085449219,
     397.760009765625,
-    392.2200012207031
+    392.2200012207031,
+    406
   ],
   "1y": [
-    230.6699981689453,
     227.4600067138672,
     221.89999389648438,
     226.55999755859375,
@@ -411,29 +410,30 @@
     394.6199951171875,
     396.2900085449219,
     397.760009765625,
-    392.2200012207031
+    392.2200012207031,
+    406
   ],
-  "lastClose": 392.2200012207031,
-  "oneYearReturn": 70.03511697842767,
+  "lastClose": 406,
+  "oneYearReturn": 78.49291656388931,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Sumitomo Mitsui Trust Group Inc. Cuts Stock Holdings in Humana Inc. $HUM - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUEh0cjFaR1FEd1pfZ2NqNjJzX3JiWFlIbDhvM05iRFpjdXlSVVp5RWMtWVQzb3I2QzBkWldVY3c1QlIwRlFpeHBSTk5PdGVJWlR0N0lWYU9hTWJqQ1IzOGJDQUlPLXpIV19OTUlXUjBEQ2pEUmp0V0lqTll3NERyZENHQkxsSW54VUxvOFFXOWkyZmRfRG1KT04yeC1DNFRub2U1ckpGdnd2V25WLW9KLXBOMzFkODY1Q3JldWVBclNiRlVwTUpFUUZ3?oc=5"
+      "headline": "Hormuz Troubles Help Oil Lead; Murphy USA, DINO, Humana In Focus - Video - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QMTlBbmZja0d0a2lrSURwaGNRY0MwOTh5NE1EaGZPVlFOQW5ZNTRWdzUyQ3RHNS1wM2Y0YlVFX3dJZTNaRUZyNF91ODk?oc=5"
+    },
+    {
+      "headline": "Humana Eyes 3% Medicare Advantage Margin: Can It Deliver? - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2cxWDlsRkhUTzV0VHBWRWppNThVczgtTFlMcGRXRzRXVE9qRmhJMFlheFpNQjhUd3QzeFZra1k0Q3JDeG5fYzZxX3d0RjN1aTl6V0ZKVHIzMkRXUS02UldZQlJhSTdKRGpLWU9MT2hwVXN3b2RVZDl2LXkxUGNFQXRJMnF5d0c2NUViWEVFOTR0QUVlcXdIaE1yRkRkM1FaLXQwbDJWS0hRMkJ2UEtF?oc=5"
     },
     {
       "headline": "Humana (HUM) Stock Stays Near Fair Value As Earnings And Growth Pull Apart - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-08",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMDB6aXBQMFJVNlRkRERtTVM1dmNOd0xqR190Z2paUS1oc2d5aUpLc2xWZS1USVl3UGE3QWVHYXUxU3RqMzhGaGVINnF0RmpkMjZacUVKMHFSS09veGVFSjJGQXZwRGFKdDJFRFE0UWZkUVM1S1JRbjlCdXVFUGFBU2ZuTjdDR1YxTUp0RkZyaGpHd0FjYlJR?oc=5"
-    },
-    {
-      "headline": "Humana (HUM) Stock Looks Fully Priced On Illinois Medicaid Win - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdzg0MkhHVnN3VUtabjRITGxXZFZDWVFCWXp3bXBoVVJsZlZMU1ZZRFdteXFYM1FTNVdsVjlkel9pdWltVG1iYVpITmdSTkZjMHZVYzRnNlpCZUlSa2NNYlZtX1lobEF3WHhIcTBGTUZoek5jUDNOTWF3ajNybTZRcEtOYkd2R2dMbmFTWlVKb3dXaEU1cDJiT09HYldUWGY4d2l0eEdWN2VudUhjUlZkdWIzMExjX3pEUVM4NnhYRXJRUdIBxwFBVV95cUxNb2ZoamU1aGQ3QUZlbGVJdmFhSmNJU1d1bjM3VUw1cERrTzlkVm5jMjhKMG9VTmRQZ0JzaF9tSExKTjBBeDlESHBlSy1MMUJZRk1NVmtFT1d1cTZBY0NHUkdSVnNQS3JVZDNvMWtaSjV2Qi0yWmdXeDNYWTFFQk1KNDZGOWItLU5PWmswbk95TmtzY2RhVWEzZUpzM25OVmJZTEdxendVNXM3eE1uNHplUExHWGxYSkFNdXVuQmRCUG1WN0F3VEVV?oc=5"
     }
   ],
   "insight": "Tracking Humana (HUM)."

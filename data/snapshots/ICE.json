@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:38.765Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:47.813Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    141.55999755859375,
     140.33999633789062,
     138.97999572753906,
     140.52999877929688,
@@ -24,10 +23,10 @@
     136.4499969482422,
     137.1699981689453,
     135.11000061035156,
-    135.25999450683594
+    135.25999450683594,
+    137.6699981689453
   ],
   "6m": [
-    163.16000366210938,
     161.9600067138672,
     159.99000549316406,
     165.6199951171875,
@@ -158,10 +157,10 @@
     136.4499969482422,
     137.1699981689453,
     135.11000061035156,
-    135.25999450683594
+    135.25999450683594,
+    137.6699981689453
   ],
   "1y": [
-    180.50999450683594,
     181.82000732421875,
     179.7899932861328,
     180.8000030517578,
@@ -411,10 +410,11 @@
     136.4499969482422,
     137.1699981689453,
     135.11000061035156,
-    135.25999450683594
+    135.25999450683594,
+    137.6699981689453
   ],
-  "lastClose": 135.25999450683594,
-  "oneYearReturn": -25.06786403912188,
+  "lastClose": 137.6699981689453,
+  "oneYearReturn": -24.282261234620783,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaF9HbG1LenNnNmRKSTgwZ1lpTjhRMHN2d3RSbEVYYS1Xd1ZqMDNKNEZrMW5WZURERVlPYnkxYkdsenVIWFpMYkxrT0w4b0NHRUpjYmlKOElITEc3OVRVc0ZGanJpVG9LQzhGeXkzdG5oZTRWX284bDJrVUJ5VWFiNC02Q09nSUNoSWdpemU4WkhJSmRaUG1wWVBrMF9Kei1sdUhBa2kzYTJmZw?oc=5"
     },
     {
+      "headline": "Intercontinental Exchange Inc. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNT0VjN1BTQ3lkbmh5ZktacXk2OXR2N2lZQUYtUXhpNk5IT3N5dHpXWjVpY3hLSHA0V2ZobkJlTkFITEQ0MHVZS0xZTjE3Zms5Z29fOGNlY1ZsaVhwbzBXS1BLeTNldWFRcU4wcUJGRng3WEsxTVAzSWNZWkZDVGhaM0poVzVIS3F3b1hDZFVVdDFWMDdHd0NxNmFxaEJFd3B5aDA5Z0FQZXBXXzZZVDlpZ01LTElWc0NEMjFLYnQwQ3Zzd0JKY1UzLVlnT3Z5elh1OGd0dEZKX0VMRjg3emtndFdBa1FlZGRIdzZaQzNIbzA1eV8wT0xGRDkxNjJCQ0Y0ZXBkQm12M2dRdDNNR3NYZQ?oc=5"
+    },
+    {
       "headline": "Intercontinental Exchange Stock (ICE) Opinions on Valuation and Growth Trends - Moomoo",
       "source": "Moomoo",
       "when": "2026-07-11",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc21rSkJSU1lQWl9Bc245TlE4aU1JNE1nRUEyR24xaFZzUlBDcFhfMHp5ZUpGaDBDTm5WZ2IwQjRxVlVDM0lFYWNvWUtaZk5yQ0JOaWhvSEhaV3h5blpGSEYtTmJBTmExSWVjN1M2REtBQ2JTc0doclJFZ25MN1lYUmVmMm9ZYmpLeDVld05nYWNtamhKT0JwMm1QY3BRQ0xsMm1rT001Zld0ZXVXTFhHR1JLWTdfc1F0?oc=5"
-    },
-    {
-      "headline": "Intercontinental Exchange (ICE) Expands Futures Lineup, Is The Upside Already Priced In? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeTZ5QkFudDBYUzcxczdad09wM3luZUFwOE9QSUhWRjROMVdVVzJjdEdTSlN6Yy1PNmY2ekdtVkp1QUVBeFRKRnlFOC0zbnBaVTM3NThWVnMtdGNjN1JMS1NUSFhrcmxUV3otVjU5Z1Q1X0p2LUtpcXp6RFNVMFJERFNBYURuS1BJMGdtZkpnWDNjYUNjV3NCYVlBczduT2ozeVYtbVNzcmJsVTFndEZlSHJ3VzlZa3poNktXeVEzblI5dVJkbFBZOTNLaU1OeG5TQkRCYlVwTE44aUxBWWFqWmlTVGVlRWlmUmfSAe8BQVVfeXFMT0hlOWxzM21RMjNDMUVGbHZCWUFpY2UzUnlnMGZmVEp4bkpOTmJLMTZwby16YVA4NDl1MmgyRTB3OVV0czZITUhZYXZ4UVdxN2U2QlFia1hKQVBselNyUzQzOWs4Z2FKSlFuYjltQW1mSF9JZ2k1ZHJ5SVN5TkNaSnFOOVl5V3N6dWZIRzZ4MTAwT2hZeVJJZFBhMUxjWWgtc2VicEhpMzd4Q0llYWNkY0wtUmM3LWIyMXVEOVRMOG0ySjNSWlE5Zk54bjZpV1FaZUhIbkdjaXM5cDhoWE13Szc3b3Q5YlNvWVlfY0N1N28?oc=5"
     }
   ],
   "insight": "Tracking Intercontinental Exchange (ICE)."

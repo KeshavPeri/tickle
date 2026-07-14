@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:44.908Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:54.104Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    165.52000427246094,
     167.14999389648438,
     168.14999389648438,
     168.67999267578125,
@@ -24,10 +23,10 @@
     178,
     179.0500030517578,
     179,
-    178.30999755859375
+    178.30999755859375,
+    181.52999877929688
   ],
   "6m": [
-    187.36000061035156,
     185.52000427246094,
     182.47000122070312,
     187.33999633789062,
@@ -158,10 +157,10 @@
     178,
     179.0500030517578,
     179,
-    178.30999755859375
+    178.30999755859375,
+    181.52999877929688
   ],
   "1y": [
-    211.74000549316406,
     213.57000732421875,
     210.89999389648438,
     211.97999572753906,
@@ -411,17 +410,18 @@
     178,
     179.0500030517578,
     179,
-    178.30999755859375
+    178.30999755859375,
+    181.52999877929688
   ],
-  "lastClose": 178.30999755859375,
-  "oneYearReturn": -15.78823418687858,
+  "lastClose": 181.52999877929688,
+  "oneYearReturn": -15.002110524012963,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "MRSH Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Yc2MzbE52R3h2SFB0OGRVc1JZNE42OTJGZWd6VUtWNlE3b01hVVZRZjc1amd3cV8xVi03ckhPX3hJekRIVVlRd1FyaUZfUUN5?oc=5"
+      "headline": "Does Marsh & McLennan’s Higher Dividend and Canada CEO Change Shift the Bull Case For MRSH? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcHpIVDE4b2Z4T0pjTXE5WF9wN2NCcndFYnA2ZFNSbGw0Y25JaHlIYzk3cGotLTlxaEhwMDd5OERhd1RJcUZpREhTdElxTlpKRS1tVjV4Y3pEQmE5ZWxfVHVWSlBkX19RcVNpMndCWS05eEc2TFNpU1daMlhIR2ZORG50Z1RnTnN5T0hoMnZzQnk0d2lKdmoyT0ZJNkNET2pyZFc5VEtWOEpSWWhJTVZGM3pkN3lFcmhjRjFibWExQ3g2RTAwY1Bxc0Z2a3RyejN1cUtkcjJyVHVHdjJFaE5Z0gHfAUFVX3lxTFBwekhUMThvZnhPSmNNcTlYX3A3Y0Jyd0VicDZkU1JsbDRjbkloeUhjOTdwai0tOXFoSHAwN3k4RGF3VElxRmlESFN0SXFOWkpFLW1WNXhjekRCYTllbF9UdVZKUGRfX1FxU2kyd0JZLTl4RzZMU2lTV1oyWEhHZk5EbnRnVGdOc3lPSGgydnNCeTR3aUp2ajJPRkk2Q0RPanJkVzlUS1Y4SlJZaElNVkYzemQ3eUVyaGNGMWJtYTFDeDZFMDBjUHFzRnZrdHJ6M3VxS2RyMnJUdUd2MkVoTlk?oc=5"
     },
     {
       "headline": "Marsh McLennan (MRSH) Stock Looks Fully Priced As Q2 Earnings Near - Yahoo Finance",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSjBKb1lPM3gtNGFiTVFpX25ISDN4WGVGa2VwM3RKQTFfd0JRYjd0elctUnBVUGVETUc3eXRiNnVPWEpURHMzckY1UXpHVWlKUXBWOEhGRVRSM3FIZV9NMjFORFk3RTE5YU52ZWQ4NExub1kwZWV0dzQ3Q1lieXVxS3BIVHpBQm9Ka3kwU3pzYTVOOVhycmdoTHc0RFY?oc=5"
     },
     {
-      "headline": "Marsh & McLennan Companies (MRSH) Raises Its Dividend, Is The Stock Fully Priced? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdHE1bTNmemZ3dlUwaXBnN3dfWXpPTVdLM2xuQzhPMlVZRTE4MEZDMEN2TUtkTnp5c0tXXzdOaTlXWldSX2FLLWlVRW04MXN5Q0JhQnRmQ0hIQU1mWnM3WWxBeVo4SGsyRVVoU0NWTFpXYjJ4VUgwTThpeThKaWpwVVM1S2hyWWpIaENnLXVrODQ4YXpCUjFLa2pyYnE2SGlpeDZ2T3NaS3pMOXhCRDRZaHFnNGtJbnBiRGNQS2U0TF95czNWSVpjb3NnMnRrWEdnOTZvc0JadG1TUdIB3wFBVV95cUxNVUtGVWdYTlVOMEU2VF94VGlvYTFrdUlIUTNuYzcwaWdLNWdnLUthMnQ0UXQxYlNvS3RHNjR6bTdXam5wMzlZV3lmR2g4bVMweDZiNndmbG43VW0zOEFVN09KbUFTbUFOMGR0VWwxRGV2dXZhdEEtLWFpSUtDZ292WnNQNjBUcUdQdld1UHVzOUZLZldfM1ZnS3RHeDE4OFNDeDB0ZC0yNmVhZnRBUDVwbmtPMjY0aXU2RWxBS1ZJVXFxUnA1aXNibmhrN1BqMjA4Mzg3UTBNZll0WGtFSDFn?oc=5"
+      "headline": "Marsh & McLennan Companies (NYSE:MRSH) Given New $212.00 Price Target at JPMorgan Chase & Co. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWHQwcmFiWlhtU1lYZzcxWTFtQk5jS3NBbHNHRTRJa3k0MEstdTExeFhUNE9mY1NqVUpQQUdpNDhGQmNESXdUR1Bodng2MDE0bUFSSEc4U2x6TkFvQ2Y2ang2aFJxSGFtYW5NQnhMaC16TkRvUk1NYlFrY3VFMXVsMW1IZk5rdFFuTDFISkpOMVZJbE52Tkw2NW5oelExc0hERUpYU3E2YUtCZzN1VUhlUVl5eTh4M0lyRldabXp5b3B6ZlRRT196REdWZVBHUmtnZ3hF?oc=5"
     }
   ],
   "insight": "Tracking Marsh McLennan (MRSH)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:47.940Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:57.040Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    260.5199890136719,
     263.2200012207031,
     279.5299987792969,
     279.6199951171875,
@@ -24,10 +23,10 @@
     337.0400085449219,
     320.5899963378906,
     338.30999755859375,
-    325.9100036621094
+    325.9100036621094,
+    330.29998779296875
   ],
   "6m": [
-    186.85000610351562,
     184.1999969482422,
     179.3699951171875,
     182.1199951171875,
@@ -158,10 +157,10 @@
     337.0400085449219,
     320.5899963378906,
     338.30999755859375,
-    325.9100036621094
+    325.9100036621094,
+    330.29998779296875
   ],
   "1y": [
-    187.38999938964844,
     190.72000122070312,
     192.25,
     192.58999633789062,
@@ -411,12 +410,19 @@
     337.0400085449219,
     320.5899963378906,
     338.30999755859375,
-    325.9100036621094
+    325.9100036621094,
+    330.29998779296875
   ],
-  "lastClose": 325.9100036621094,
-  "oneYearReturn": 73.9207026648365,
+  "lastClose": 330.29998779296875,
+  "oneYearReturn": 73.18581463867665,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "How Much Palo Alto Networks (PANW) Do You Own By Accident? - Trefis",
+      "source": "Trefis",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNek00N3VUZ1NrSHRjN3d1QkFGZ3E2TjF5YmlYOUwwR1pwZHV3ekxZTE15SXFPSUk2MGVvSHNwTE5BbWVDT1N2SlRoX3otODJWRDhOWEdTOERhT3QxV1F3ekdPekk2U21DZUpkUUQzU1JVcVctSjhnbUFKUDBLMFp5S29fVFNNYnhNWEQ5bWVRNElQb2twb3ZiSF9UekllY05NMDJuQ3l2WUFhZ0NNSUhraU9yNmdsaFV5OUE?oc=5"
+    },
     {
       "headline": "Palo Alto Networks (PANW) Stock Looks Cheap On Cash Flow But Pricey On Sales - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwNlFZUlA3QkNaSVIyeTlIbnJKS0dkeHdic3JnelloZzFKRUxTMGtYcVJramNKQU1VYzBhLWszNVIxSFQ3UUVxUmF5RUxaRzNzM0FTNHlTMWRER2JYbnVuTVhZcjFTa0w3VjdUNi1uV1pxSURPRnRrX0tQSVZSMDdzdWdHSWQtWXJxM0tkZ1IyMmN4ZlJObzNn?oc=5"
     },
     {
-      "headline": "Why Did Palo Alto Networks Stock Drop Today? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXhwSDlJWnFRNnEyOHlCVHpVMUx5Q0ktamlGWlZMVVNmSjU5bjBPa2JXVThPTjktd0M1NVdmMEk4WmpRSlhTVXE0c0VBdUUzcUlqS19neUgtdlhsWHAzcFE1X0xlNG1WZ0c5U01yd3F2aGdoUzFOTVBudndvTC1IbUdGTVhXWFpNWjM4WDg4OA?oc=5"
-    },
-    {
-      "headline": "Palo Alto Networks CEO Demands Steep AI Cost Cuts Despite OpenAI Token Efficiency Gains - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdHVGRC1mTVg3dVZfVzJMT1htbFRaejlaQ0NKc2ZkblRiMmtfVm9MTlJSXy1aWExGOVhQajNscmRCTExSWXV1azY4cktWRTlMeDhuQ2xsT2dQYUZ5NVlEcFBsX3QzNFhtNWE4UjFXNWFwWGhmSWM5S2NCbERnQnlwMnJ3Z1FCNFI5YVRobkVGU2tpRVFNU1oyNVl5Wk43YjZ6OE9YNjJyc1NDUXRpRlZIdE54cUVYN0hld19pLVdkcmJZdWhHLUVVVGRNTQ?oc=5"
+      "headline": "BlackBerry vs. Palo Alto Networks: Which Cybersecurity Stock Wins? - Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWFEMk8xNFd5SWJ1Y1BIYVNBcG9NcHR3cDF6RmlReFB0WkZHaFlRU3h0SE9DZ1FKdGNZVldVMkZ5Qk9KS1dWRm11VFgxQ284QnlTR2pEaW0yNHI0TEh6Tm9DZ182R2dFc3lQX2pXOXhFRWdZNUZyX0E4VVZCWlc3TExsaUZuMVNkU1lROVYzNE00Q2hldjE2ci1qdWxFWndiNVdWTG1EWQ?oc=5"
     }
   ],
   "insight": "Tracking Palo Alto Networks (PANW)."

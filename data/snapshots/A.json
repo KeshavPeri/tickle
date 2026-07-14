@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:10.627Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:18.947Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    135.47999572753906,
     131.6199951171875,
     129.5500030517578,
     129.83999633789062,
@@ -24,10 +23,10 @@
     131.13999938964844,
     129.07000732421875,
     133.58999633789062,
-    134.2899932861328
+    134.2899932861328,
+    134.0399932861328
   ],
   "6m": [
-    137.6199951171875,
     136.07000732421875,
     137.9499969482422,
     142.92999267578125,
@@ -158,10 +157,10 @@
     131.13999938964844,
     129.07000732421875,
     133.58999633789062,
-    134.2899932861328
+    134.2899932861328,
+    134.0399932861328
   ],
   "1y": [
-    123.27999877929688,
     120.08000183105469,
     112.94000244140625,
     113.43000030517578,
@@ -411,23 +410,24 @@
     131.13999938964844,
     129.07000732421875,
     133.58999633789062,
-    134.2899932861328
+    134.2899932861328,
+    134.0399932861328
   ],
-  "lastClose": 134.2899932861328,
-  "oneYearReturn": 8.930884665684236,
+  "lastClose": 134.0399932861328,
+  "oneYearReturn": 11.625575651405294,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Is Agilent Technologies (A) A Bargain Following Its New Lab Tools And AI Software? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcTlKR2h6ZVlVaTI1VlRueVdoOEkydVJzYTdtcFIxczFjQ0pQYnNEVl9yeTkxX3hieUtTV1NBZk9uS091NF9xWUpEcHBXZ3hqaXI0N0RyZW40ODlSOUhaUDZFUGFpaFBSMlYtbWhYM3hGdnBTTjlmVEtlVjBoS2F0NWlVajRYRzNGd1RfckdBbkhtSFZ0ZGZaR3VnVmxSNjNXZE5reGxjcU9YOFQ5czluLURGNERYRTlBbWo5RG5sdG44bXBCTTNEN0NCTkFyVGlrdXRRWER6WDBZdm9TSVNCWTFqONIB6AFBVV95cUxOT3U4RHlaOFZHNE9SbG43dEdJZU12RUdUaUJSbXZDVklpNG5EQU54cmduUVRPTjNYbmZrQVZqZ2xPOTktc2lSU1V1WlVEZEFYS0ZLVU1PODBOa3hHaUVFd051X2ZxX0ZGQXFlOXkyc0lJWmQ3MzdYQVRvZ1pqVV83d0VrYW5md19UeTNtcFpGMkZKZUZTblNtR0U4NmRyc0d1Z1FtNEFoemRZSkp6UzVOY2NPWVJpNG56OHcwNEEyTnE2cFRNNkpQVTh2a19naVEyaHFFVV83YUtDc2xTNG9OUDZpTzl6bnZD?oc=5"
-    },
     {
       "headline": "Is Agilent Technologies, Inc. (A) Stock Positioned for Growth as Life Sciences Sector Trends Stabilize? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-08",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVFldy1CejBmUE5Pc0JiMy1YYjBiNTAwS2w1NlJqdFFWZmhiTXQ1anVpV3BPVGJWa3o4bi1oeldWQVJ3NV9ERE80TzIxWEx5VloxWndaWi1ocEFJbEFJLThGeFVSblRJU1F2M2JPSGlDRGNzeUtPUWFhUjl0NWQ4ZEVHRXlRbV9wTjJXRklCaHFuN1ViSWRSV1U5MG9xS3lKdEtsMQ?oc=5"
+    },
+    {
+      "headline": "Is Agilent Technologies (A) A Bargain Following Its New Lab Tools And AI Software? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT3U4RHlaOFZHNE9SbG43dEdJZU12RUdUaUJSbXZDVklpNG5EQU54cmduUVRPTjNYbmZrQVZqZ2xPOTktc2lSU1V1WlVEZEFYS0ZLVU1PODBOa3hHaUVFd051X2ZxX0ZGQXFlOXkyc0lJWmQ3MzdYQVRvZ1pqVV83d0VrYW5md19UeTNtcFpGMkZKZUZTblNtR0U4NmRyc0d1Z1FtNEFoemRZSkp6UzVOY2NPWVJpNG56OHcwNEEyTnE2cFRNNkpQVTh2a19naVEyaHFFVV83YUtDc2xTNG9OUDZpTzl6bnZD0gHoAUFVX3lxTE5PdThEeVo4Vkc0T1Jsbjd0R0llTXZFR1RpQlJtdkNWSWk0bkRBTnhyZ25RVE9OM1huZmtBVmpnbE85OS1zaVJTVXVaVURkQVhLRktVTU84ME5reEdpRUV3TnVfZnFfRkZBcWU5eTJzSUlaZDczN1hBVG9nWmpVXzd3RWthbmZ3X1R5M21wWkYyRkplRlNuU21HRTg2ZHJzR3VnUW00QWh6ZFlKSnpTNU5jY09ZUmk0bno4dzA0QTJOcTZwVE02SlBVOHZrX2dpUTJocUVVXzdhS0NzbFM0b05QNmlPOXpudkM?oc=5"
     },
     {
       "headline": "Agilent Technologies Inc. stock outperforms competitors on strong trading day - MarketWatch",

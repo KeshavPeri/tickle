@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:14.064Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:22.353Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    449.19000244140625,
     450.6199951171875,
     450.3800048828125,
     459.1300048828125,
@@ -24,10 +23,10 @@
     507.8399963378906,
     490.5799865722656,
     500.1600036621094,
-    506.760009765625
+    506.760009765625,
+    518.22998046875
   ],
   "6m": [
-    494.4700012207031,
     490.3399963378906,
     493.7699890136719,
     507.8900146484375,
@@ -158,10 +157,10 @@
     507.8399963378906,
     490.5799865722656,
     500.1600036621094,
-    506.760009765625
+    506.760009765625,
+    518.22998046875
   ],
   "1y": [
-    536.3099975585938,
     538.97998046875,
     522.6699829101562,
     524.8400268554688,
@@ -411,12 +410,19 @@
     507.8399963378906,
     490.5799865722656,
     500.1600036621094,
-    506.760009765625
+    506.760009765625,
+    518.22998046875
   ],
-  "lastClose": 506.760009765625,
-  "oneYearReturn": -5.5098707701678284,
+  "lastClose": 518.22998046875,
+  "oneYearReturn": -3.8498646984909826,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Ameriprise Financial (NYSE: AMP) CEO converts phantom stock units - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSmtBU0F2NmlEWWlaRE5qeVc2dXVIT0FwX200eWV0TDI1NDBmS29NTzhNTFN1dlJVaVlmRVBONFpDQk0xYVl0bEstbjNrYjRaOVF1U2pYdkdYWjM2czV0U2NNYk9rS21mNnpPdEg2NkJOLWRqWGhwZVF2dXBZbjUwUEZHa2QtWnZVZnowT2gyMGlVZmlJOXlfRWlaazV5a0VqM29fcm1GM1hCamV2eFFINXRhMjJEcnpN?oc=5"
+    },
     {
       "headline": "Ameriprise Financial (AMP) Was Dropped From One Russell Index And Added To Three - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdkJSTDhULW1DRm9NdnYwMWRsMC1KQ3oxZW5LLWwzMXR0OFlZYnlPaVpJX3RIdGRUNjFZTnAzdmhVWXVWMzVlTDZHVG41X2hJOUtFR1RyQ3ZaNTQzemdkdU5sYlphZktjREp5alRMSWZvM09wb3FVX2pmSnZXNDktektxaTVUTlhPQUdTaFJXcDBEWXlXT0JzblFYN0VjR1lmN0lJ?oc=5"
     },
     {
-      "headline": "Ameriprise Financial Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQelFXY2tTWWxPbDVBU3F0bHg4QVE4eHZLbFluNTVFajRIUUZIUzllUXBFMVIwM1YyYkhvRjJiczVzSllhUW9TVldMS1FmZXd0OFhlM05xVmt5NkdQUmZXVFoyTjJMMHZDY1pyRU1oMjdKVGR1QjM0ZERtbGlPY2ZlZ2lUUGFMaDMwYlJMQl91TF9zQkZNekdOSDJHRjZLTTBZbno2dTlWcFNJM2V4WlZyUFh4QXNKUVpyM0ptekwzN3VGV0NJLXFBZGl1bGxheUZwVFhoOHRwX0ZEc3draXF3bGVtN3JQZ3BBa3c?oc=5"
-    },
-    {
-      "headline": "How Ameriprise’s Shift Into Russell 1000 Defensive Indices (AMP) Has Changed Its Investment Story - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFRHVnRpbWVTR29sVGQ0QkhuZ2R1cE9pcWxNSUoyUG02WlRZa21zWTRGVFhDV29VcG9vZGkzYXpsdktFZDRyOVIyN3BJWGpIaW52LUFiTUk0d1ZyNkdscVVFMXFrQ0QxdVFLMjJRbnhOc3VLb0dkeG5RRTFIZW0yZlZXcUN4UVBTQmpSOENJVGJQRV9wYmZtUngtZDhFUUZwRW1RU1lqMVQzLWlENnVobVBRV0NmWDczZl9Ua0M3SzltRWt1VHhfZUhRV25iWDdHdjU3Z1RKazBzaUtkMWFZeHpLZ2rSAeoBQVVfeXFMUHpkaHVGbXZKaEpDT1NtWjUxU3dvYnR0OWI3ZFM5U1BuUXhQWHJYeENSSmU5ZmRCc1lhdWxPY2k5U2xRSmRUWFY0bkU2R0Y3eEt1SG5FbkxsbThiRjJnZGFEZnJaTDNfYVFhMEVLQWxiSktHSkRKUlBqQkFsX05NanB0SUpEUWUwXzUtb19Zc2ZWZUozcjM5RXZ0QU5DM0ZsaF9SUHdMVVc1Qkdhb2VPM1RyM2VaejVtQ0dCQjV0RU40ZjdzdDFLaWZEejZNZWtxQU0yMXMyTDFsb0p1bC1XamplVEVMUFl5U3Nn?oc=5"
+      "headline": "Form 4 Ameriprise Financial Inc For: 13 July By Investing.com - Investing.com Canada",
+      "source": "Investing.com Canada",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTHgyVmFiYy1MM1V2YjNZRXdDUFlKY0syeHZVSkktZ21XWjNzcFpjazJrY1U1MHY1TzB4eWhsZUV0WXgyQzZDd3FDUk1sSS1ITVdhZFZDWXJ0aFJRY2ppTmRualhRVjFUME5kZ0VhTEJFLXVEZnRqLXg0OTlFc3NKdkExaGhMMDFHYlJQWVJPTE9aZWtjUkdfLUtCWGprRm1ITXM3Q2lSTQ?oc=5"
     }
   ],
   "insight": "Tracking Ameriprise Financial (AMP)."

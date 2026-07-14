@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:12.329Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:20.713Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    115.61000061035156,
     117.11000061035156,
     116.44999694824219,
     117.80000305175781,
@@ -24,10 +23,10 @@
     121.48999786376953,
     121.44000244140625,
     121.98999786376953,
-    121.91000366210938
+    121.91000366210938,
+    123.30000305175781
   ],
   "6m": [
-    110.80000305175781,
     110.2699966430664,
     110.23999786376953,
     112.19000244140625,
@@ -158,10 +157,10 @@
     121.48999786376953,
     121.44000244140625,
     121.98999786376953,
-    121.91000366210938
+    121.91000366210938,
+    123.30000305175781
   ],
   "1y": [
-    101.56999969482422,
     102.66999816894531,
     100.62000274658203,
     101.44000244140625,
@@ -411,12 +410,19 @@
     121.48999786376953,
     121.44000244140625,
     121.98999786376953,
-    121.91000366210938
+    121.91000366210938,
+    123.30000305175781
   ],
-  "lastClose": 121.91000366210938,
-  "oneYearReturn": 20.025602075808255,
+  "lastClose": 123.30000305175781,
+  "oneYearReturn": 20.093508571866785,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "AFLAC Inc. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeG1yd3NNajJPbUY1TmQ2ZU9WVlV5aS1GazhkWndrNUV0b3pMbktrYnJmNnpiTmVrWGFZZTl3MDM4Wm90NmRhVVAteF9KNnh2cnIweWZnbkY0YzF6TTBCWjhLSkF6MjNST3YwTzhSc0JpdHpZSW1nRi1vV3NnMGdBcFdjZE9uZzNWTVBJUjhoYkNBWmNiVmpfa0ZDTWdWbGYtSHVrLUVha3NUQnZ2aVAzbWVaQ3p3QXBBMlRGQ0ZmZ2R3NmE2MVBlTk56ZV94ZE9uNVZ3STN3M2NNR3I5V0lQNXl3eVllcDVBaXpyeEJLbXh3M0ZqUkE?oc=5"
+    },
     {
       "headline": "Do Options Traders Know Something About Aflac Stock We Don't? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT09BclktdHdqYmozYnRacm0yNlJGcEp1YkRnREdYOU1aT0s2Rk5KMmN0S1lMbFFYemI1ZU9JVEZmUEtsR3NTUWM1N3hhVThYZXBzcmI3dkxsU3B6bzJOSzlUQVRUQU5ndE5yUWEtbHl4Ti0zQlNPczZOaFVxX2hORFZuUWY3aXJMTG9GMDJ1VGZHejBqS29lTjhKSUZmS3l6RkZGYw?oc=5"
     },
     {
-      "headline": "Aflac Price Target Raised to $108.00/Share From $100.00 by Jefferies - Moomoo",
-      "source": "Moomoo",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQTEzRmhFN3VEcUVpSGVZZVkyVGpNb1NFQnQyaVFLWUplUE41WWgybGk3Y0ZZaFc5N1d2LXFaX3l6MHNnQTIwblQtYndaSFVoV3lkQkgwMktQcnpjQ2JmUzdyYnRER01faF9UMnE4dEVHelBjOEdFOFk0d05pQ01FR3pxcWhmeG5CRTlUeXVyWXNTeFBMY3V3?oc=5"
-    },
-    {
-      "headline": "What Aflac (AFL)'s Post‑Breach Omnibus Shelf Registration Means For Shareholders - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOckJab1VLV2RFYWl6SzF1MUlTWHJlcjQ0X3lodTJDaXJzbldMS0ZUVWUxNTVsbjJ6WFRBYVEwdDJOSWFhejBZM2daaFRfal9FM1lDc0JzcTk5U2VEb25KeXZ6Z1J2N0UxWElJaXRLajA3TEhZc2FlLUJUblZ3Q0ZYN2prZEpLRzZhbjVJQ0JzbmdiLWw4UTlWT0M2VnZvMzByWjlkVEcyYjE4emhWRVRyRl9wSmFpX3JtNHNlS0Nn0gHDAUFVX3lxTE03U3ktZHZGS2lOVjFsVmJLbnpWdnpFM18xdERCNjJId2lCLTRBbGpjQ2ZmZTZ1dVlmRHpqUmRLNmotQVhLU0VmemYtZVNqdVBVZFlVazlURFZ5Z3M3MVFfWWRyQkFJLUQ5T2RZNVBtS0pkLWJJMVVZUVZjWXhVYkREaXp4WWxLY1M5dFNncGcxTW43U3A4Mlo3MHVCQ2UxZ25uS1VOMmpfQmFtdGtFWUdTb1ZrS2d1S2tDRlNSUnB4aFZuUQ?oc=5"
+      "headline": "Aflac stock hits all-time high at 122.93 USD By Investing.com - Investing.com India",
+      "source": "Investing.com India",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHJtWXVSNnI2eXZpcExRM1VKMXR6MjMycFBFMjBSLUtQWGQtUmxsaHNtQjFHMElHd2pHVDg0M1BzMHVmS2xBRHVJVi1nRkxoYmZ4N19HcGs3X2owSGJOVU4wSGpoZ2dxV3FoVTdWZnVCLWgwY0JZTWpIZGt2WWM1b3VDSmwzRWVrRm9SbnpRcE9KR3VxalVHRldHanZ6UTVrdzR6bEFR?oc=5"
     }
   ],
   "insight": "Tracking Aflac (AFL)."

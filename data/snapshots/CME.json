@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-13T05:00:21.802Z",
-  "builtDateUTC": "2026-07-13",
+  "builtAt": "2026-07-14T04:27:30.179Z",
+  "builtDateUTC": "2026-07-14",
   "source": "yahoo-finance",
   "1m": [
-    255.94000244140625,
     263.79998779296875,
     262.17999267578125,
     269.5299987792969,
@@ -24,10 +23,10 @@
     240.75,
     243.07000732421875,
     239.7100067138672,
-    240.27000427246094
+    240.27000427246094,
+    245.10000610351562
   ],
   "6m": [
-    275.8299865722656,
     273.0799865722656,
     269.67999267578125,
     275.05999755859375,
@@ -158,10 +157,10 @@
     240.75,
     243.07000732421875,
     239.7100067138672,
-    240.27000427246094
+    240.27000427246094,
+    245.10000610351562
   ],
   "1y": [
-    275.0799865722656,
     277.05999755859375,
     275,
     277.5299987792969,
@@ -411,12 +410,19 @@
     240.75,
     243.07000732421875,
     239.7100067138672,
-    240.27000427246094
+    240.27000427246094,
+    245.10000610351562
   ],
-  "lastClose": 240.27000427246094,
-  "oneYearReturn": -12.654494692095616,
+  "lastClose": 245.10000610351562,
+  "oneYearReturn": -11.535404510468567,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Corn Futures - CME Group",
+      "source": "CME Group",
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Y2dXRV9nTmt4dlJGV2U5SGpNNlVpMTUtaVJTUk1QWE1EU293MEJXRkhzeUVPOHBheUxxbXFpRTRKRjRvRDhzc2JNakNOLTNRNDlFd3pidjRRSldhSTV5eWttcWZBTmc?oc=5"
+    },
     {
       "headline": "Competition And Weaker Trading Volumes Are Weighing On CME Group (CME) Stock - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRk5VN0U5ZDI4bjNtWkVSTEVvTTRqVXVEZ0I5bFdwUzc3bWsxSFBOQWpGWWZraTlZS185YnE1Um5zNTJ2c0lqQXQtR0VrT3hjWUxnWjdRS1FWZXZja1BMWmg2V2pLcGdrWktzdV9WZGdsNG9EMjZEWHNlOFBsVnFYWTlJWWNYVzE4ekdjbC1QVEtrczAzX2tVbk9GMUlrRnVRd3VvN3pJYTRwaFFf?oc=5"
     },
     {
-      "headline": "Corn Futures - CME Group",
-      "source": "CME Group",
-      "when": "2026-07-11",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Y2dXRV9nTmt4dlJGV2U5SGpNNlVpMTUtaVJTUk1QWE1EU293MEJXRkhzeUVPOHBheUxxbXFpRTRKRjRvRDhzc2JNakNOLTNRNDlFd3pidjRRSldhSTV5eWttcWZBTmc?oc=5"
-    },
-    {
-      "headline": "CME Group (CME) Expands Its Product Suite, Is The Stock Cheap? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM21mMDhjUi1iVFFkbmdaTjd6eERmdjZCN3BtcGhxT242MG51TUxiRzBhTG9OSWc0T1BYN0Z3U3JsNU9SVnJ3Ykp2WTdQNFJfeXJmV2JBTmpfQWNpNEFvWTQ2RmE0dENVMUlQcXRoeUZBUjB0WVhScXMwMkQ0N1Q4b3ozMHVsaEJWSVZacjBZTWNkQVU1bnlncVQ5aF9fWDNFbUthYkxZQjMzeG1lQTNlTWNlanpUVHdCNE41NDdaN2p4ZU9HUGl4N0xFQjdsWDdaNVVEWnJB0gHbAUFVX3lxTE5HTEJkRkdUNHg4NzdkQ0xsVzB6SjMxOVdRTE1haURNUk9fWWRVa3c2d0JBVWw0QWxUbFh2RGJCbjJCaFdoQVF5TFc1V01qOFd4SERmOWU3eFAxZV9SbWQ3ZnhsRWRwSlRLQlFOc2kwQVhQc21uQ012MlgtTDZiT2VVRkticlpUa2w0Yl9waVNPcG9PdVNZNGNrWkQ5VUEzX2ptRk9xelNtNUVOZkZoaUhnZUdTeUtaTXQzSE1CYTFENDFkQ1NKc0dNX2RzOFgxNUtjWTdseXlfN1dSSQ?oc=5"
+      "headline": "CME Group Inc. Cl A stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRTFxRmZDNl9nSm9aV0QzUWJWN2lwZWI0b2pqRFV0bXNMYllaQjlDTFMwR1FjLUF4ZWlhWmRoODV0cWwtUVp4Z0lUazVRV21EUTZYNjJmdUMyNTlNZURtbHlWTzNsRjZSaXJEbUdGcHcyZnBYb2s1MkV5N1VhVXhLeXZGTUJoNFpoWlhpYWpkUkVpSG9FUXM4cTJBbnhrbmRjUUFTekhDZUw3MUI2WlpUQ2JHaDVLOXU2cHBBZXlnUDdTNlVFQ3JVTHBR?oc=5"
     }
   ],
   "insight": "Tracking CME Group (CME)."
