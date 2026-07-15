@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-14T04:27:27.496Z",
-  "builtDateUTC": "2026-07-14",
+  "builtAt": "2026-07-15T04:27:36.195Z",
+  "builtDateUTC": "2026-07-15",
   "source": "yahoo-finance",
   "1m": [
-    67.97000122070312,
     69.73999786376953,
     69.91000366210938,
     71.12999725341797,
@@ -24,10 +23,10 @@
     66.73999786376953,
     67.80999755859375,
     69.33999633789062,
-    68.61000061035156
+    68.61000061035156,
+    69.76000213623047
   ],
   "6m": [
-    52.84000015258789,
     53.52000045776367,
     53.790000915527344,
     53.5,
@@ -158,10 +157,10 @@
     66.73999786376953,
     67.80999755859375,
     69.33999633789062,
-    68.61000061035156
+    68.61000061035156,
+    69.76000213623047
   ],
   "1y": [
-    76.61000061035156,
     75.37999725341797,
     75.43000030517578,
     76.93000030517578,
@@ -411,12 +410,19 @@
     66.73999786376953,
     67.80999755859375,
     69.33999633789062,
-    68.61000061035156
+    68.61000061035156,
+    69.76000213623047
   ],
-  "lastClose": 68.61000061035156,
-  "oneYearReturn": -10.442500895789104,
+  "lastClose": 69.76000213623047,
+  "oneYearReturn": -7.455552297639108,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Here's What to Expect From Carrier Global's Next Earnings Report - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWdmZ3diMGwzSFJEd3U3RlVRdm4wRjlvQ05KczBMMGtlMVE3eVRKRlh2bGZoY3RtZzN2Vm4wOHpZTlpDbjdwcFlSMlJrZVNTblcyMVhQdWR4eTcya2syRkI5OTc4T0xiU0hJSDBMdUpfbFhTdnVmQlhlR3U5Zmh4Q2p4eW4wQ1p3SXkzaUlGNTM1UGc4eTBXSVZfbzFsbm8?oc=5"
+    },
     {
       "headline": "Why Carrier Global (CARR) Stock Is Trading Up Today - StockStory",
       "source": "StockStory",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQUNyQ1I4SkEwd2hlOGMyU25zSXozRzQ2bXRRakZYcjA0VjVwRldjNlBobURqRGRyQTFWZE1wdmExWG9UbFlabzFiX2lNRHU3UXd5U3JOSmlhenNreVk5UFR6ZVFJWGtfV08wX0xWQm5fb0NYMjVYZGZOZFdIV0NxWlpNQVFESDhDQ0YzT0M4U3lpR2RkNXBGMW11VlJLaEU3OFk5S3JqTGRLUnBkZlpqOQ?oc=5"
     },
     {
-      "headline": "Carrier Global Corporation Is Too Hot For My Comfort (Downgrade) (NYSE:CARR) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEFyQlBsZzQyQTd3WGo3TXpTVEItcXJBM2hPb0R1UWdnTFNiMlFFWXRsZ1RXS2dyNEFzQm5JcVp3WkF1Q2NZUTB6amNnNllOT3NjVjRrSjB1WUEzaGdMUmNWcEhLX080T0dJOHVtV00zMHViQkxyRE1pS05JakFiSUZPbUh4N1A0bHIzZ1dMbnRicmJuUC1FVmhQTy1sRjBNWThWcVlB?oc=5"
-    },
-    {
-      "headline": "Carrier Global Corp. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQVpwZGQ4UlNvQmFsMDRPazZ1UjJHWHJMUVJlTU5Pdkd4QkU5TVhRU2c4TFNCSFZQdWliN0ZKNlNCSmxpdHBGMnhHYzRkX3NPSFJGLUhGaGNDVjRCU1hjYWZOTXM5alVvYlJkRGE0YWdzN1RicE9TTGtPM05kTWJYZ3ZNVkdaUTN3VzBPeEYtR2lxS3pud0kwRm0ydEoydGpTblRGZEJjeWZwNnl2WWZKaEY1eEkxZUdZNHgzSGhRY3BENkUyQTlocXJ5cnNmdjVS?oc=5"
+      "headline": "Fifth Third Bancorp Boosts Stake in Carrier Global Corporation $CARR - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZVJEMWdfYnROOHlZV2hrdzRUY3B0SGI5RzlDQmU1YmFlMjhNS3ZPc2NWVndjU2FBZlN6WHZaY1BmaUNqQmo3VlJsZlJxeUxMVGxRMEx1THk2eURiQVpxT29tSDNlbUx0dW9Va2x3bkQtMUt0Tkt6QnVvSUd1dDlfdk5Ed1V1TG95WXlrWEp5anRQeUtxVlJlNG4xQzB5bGwtUGNmX21sNl9CYnUtZG8zSVhrc2NIak54bmQ5UmZQSGx6ckQ4REhB?oc=5"
     }
   ],
   "insight": "Tracking Carrier Global (CARR)."
