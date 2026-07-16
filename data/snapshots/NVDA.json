@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:06.119Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:24.130Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    200.4199981689453,
-    204.8699951171875,
     205.19000244140625,
     212.4499969482422,
     207.41000366210938,
@@ -24,11 +22,11 @@
     204.1199951171875,
     202.77999877929688,
     210.9600067138672,
-    203.52999877929688
+    203.52999877929688,
+    211.8000030517578,
+    212.5
   ],
   "6m": [
-    186.5,
-    188.85000610351562,
     188.1199951171875,
     187.24000549316406,
     189.11000061035156,
@@ -158,10 +156,11 @@
     204.1199951171875,
     202.77999877929688,
     210.9600067138672,
-    203.52999877929688
+    203.52999877929688,
+    211.8000030517578,
+    212.5
   ],
   "1y": [
-    170.6999969482422,
     171.3699951171875,
     173,
     172.41000366210938,
@@ -410,12 +409,20 @@
     204.1199951171875,
     202.77999877929688,
     210.9600067138672,
-    203.52999877929688
+    203.52999877929688,
+    211.8000030517578,
+    212.5
   ],
-  "lastClose": 203.52999877929688,
-  "oneYearReturn": 19.232573179839626,
+  "lastClose": 212.5,
+  "oneYearReturn": 24.00070377237665,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Nvidia Stock Could Still Soar 140% to Reach $500, Says Wall Street - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWs0NHdyWmpFUkszV1U4aUZvNk9FUXJJTU52bFN0MVU2MjdaTnZLeHcyd1NnUmlTM3hoUDZoZXFWbWJRS0FtV0NLOE5HSVp2eURRRnpCVDFZSzdiUndHczVRejlEalRaTWo2dTZrQ3pvNW1jN01pRkVObEZaY09ucTBxd1FWQW1CLXd5WklfSC1SOVVVdlp0ZlNMaFUxb3JyanIzek1HRjlodEU?oc=5"
+    },
     {
       "headline": "Nvidia Faces ‘Slight Delay’ in Rubin Chip Rollout. What It Means for the Stock. - Barron's",
       "source": "Barron's",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zS0hJQk1TSm9oQ2ZUT0RXbGdfZlhZZDFlWUZpME5nd3EzdGNPb2ZrRndYeFZRNENhZVpCdURmc2JEZmlHYlRBbk1vQ1FESV92V2dsRlR4NlNsUFQ0amNiTVUxdnRLVmp0U1U5enRhOXlMOFVuWHNqVktpRHQ?oc=5"
     },
     {
-      "headline": "Nvidia (NVDA) Stock Trades Up, Here Is Why - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQm0xbkhwYk9faEwwMVhzMkozcThNTXRPc1Rxb3NjaWdKM1BtOFk5VkhZQVJ6RU5ETXgxVTNWYWdoZUxJc0JFY2RfRE5YODNMcmFRVFJrNXlKb2ZXeGxwN29nZVRoRXo2X1ZwbndaSWI4UlVyZGtJQ2VaZHA5bVJlWnVlRW0xeWJ3M25vQ1dFX0dhX2hqdVI1Nw?oc=5"
-    },
-    {
-      "headline": "Cybersecurity stocks surge thanks to IBM, and Nvidia climbs on more good China news - CNBC",
-      "source": "CNBC",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRE81XzBMZ1VCUUprQ3pHV2ZYbHdPWUNUc2tKUG5KbjRLWi1wQU8yNE9pV1g4OW1MMk41R0s5TmRIUlU3Uk5MZ25qbDVOSXFqS3VaMGFwZTJKTVRmcXlrMnJZUmswUnhTX0xfdzRJWldpT20zY3RDYjBtRmo4RVNpTFkzb2dJSjk4cURndF9tZUpHb2RLY3E2d0tsaEJXMklxLWU4Y2RvQTJWdmpkQkF3TFJjR2xTODVVQXFJ?oc=5"
+      "headline": "Cypress Funds Llc slashes Nvidia stake by 72,518 shares - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUUpiNk1hcVF5R1J1eldqY3RDcUZlaFUxVHB5ODJOYV9BX2hhZEJNZk9JZWxma2N4THQxdndvcDg0OVBpQXNkM3B2dDctWDFlUkQ4MDZmYURfMFM0bHhVOExYQ2YwVmd0bEd1NS1iVGE3SmtHSzZqR01CcUlUR2YtSENOU29KNmNoSENkQ3VHV2pHb0p6OEdnTXNSTDh0UXZLR09PMjloZE1MQ3pIRmtyczV5WFI1U3pCaUhENlNqcy1Cc2JNNjhqVkgxWGVzYUpnWWFEb3Nn?oc=5"
     }
   ],
   "insight": "Tracking Nvidia (NVDA)."

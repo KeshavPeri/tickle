@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:31.399Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:41.962Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    276.510009765625,
-    278.1199951171875,
     281.6199951171875,
     282.9599914550781,
     280.4800109863281,
@@ -24,11 +22,11 @@
     296.75,
     295.8500061035156,
     299.5299987792969,
-    301.9599914550781
+    301.9599914550781,
+    299.3999938964844,
+    293.69000244140625
   ],
   "6m": [
-    247.02000427246094,
-    250.47000122070312,
     253.83999633789062,
     258.3599853515625,
     261.8699951171875,
@@ -158,10 +156,11 @@
     296.75,
     295.8500061035156,
     299.5299987792969,
-    301.9599914550781
+    301.9599914550781,
+    299.3999938964844,
+    293.69000244140625
   ],
   "1y": [
-    286.6499938964844,
     288.989990234375,
     293.5799865722656,
     295.30999755859375,
@@ -410,12 +409,20 @@
     296.75,
     295.8500061035156,
     299.5299987792969,
-    301.9599914550781
+    301.9599914550781,
+    299.3999938964844,
+    293.69000244140625
   ],
-  "lastClose": 301.9599914550781,
-  "oneYearReturn": 5.341007460171978,
+  "lastClose": 293.69000244140625,
+  "oneYearReturn": 1.6263581320652223,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Air Products' July 30 Earnings Call Open in Listen-Only Mode - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3M1cHB4Y3dnakZ0RlVXSzNiZEhQVG83NTAxTXlVOEZZclB5N2todm5ZLWIxbTZzeTNJekZ5ZVVOZ3liVzQxV05JbExRMi05eHF2QkJldmEwemhKc3JURzFrTFZoelVqa2hoQ0tEcEJGRFpfVmF4azQwY3RsT2REX3FsNWVyMWhUWlRLTElrTHBYTUFpSDZPSDk5cV9fZ05TbjE0UXJaV0FLSzZNakZXaW1zdG8?oc=5"
+    },
     {
       "headline": "Air Products and Chemicals (APD) Could Be a Great Choice - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNUswbUFZM09ELU1MWnNqM3A5WU1hYk8yZXFpR1ZaM2tRaGpXU2ZrOXNJSUJkUFl4WjBhaEN1ZEc4OV92YXhhSVV3b3UyZFU5Sk1vWnU0VDBUZ3Y5bjg2NzFnN1pNamFzWTI1ZzV4X2ZiZlFnSVQzcnd5ZE5mVFBBQXZuRldmX3NOV0FlMDdzWXRnU1Ewd3RnVDlKQUNOZw?oc=5"
     },
     {
-      "headline": "Is Air Products And Chemicals (APD) Undervalued After Dropping Its Louisiana Clean Energy Project? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVHgtVV80QUZ0TnB3bURJYXMzaUNkTDRQZlpEOFJsV1R2LWpfcXg3bFcxVWtKYVZhNFdad2pmNWo5OXVBejVLaWhBcllfa0h2aW1lM0pHa0JRSkdJNlZ3R25jS0ZCT3BhTVFpTTM0VU5samk0dHVvQXNpSmJadGxPYzNOQUFiQjNHSldnZ2s0NkxhaHBpMC0tTHNpNEo5ajNELUJDR1lVQkZLc2ZjVUhENGNlck5ROVQ3UmkxUHNMcHpPSWFraUkzT0Myb0p4NnFrVlNQNjN0b0RNLU3SAeABQVVfeXFMTzMtbUxXTnhGNFRlUHExdFRyRG9wZUFrMXU4QjVBN1h3ZXBOcGMtS0NkZEtIRHdsZkNhMmxkcnB0MENBOXhVYWpNQWF6SWVZQVVSYllWNG5xR2dfXy02QXN6bVhqUnhtcURzRTVQNFVvUkNzU1EzY2JfdS0tYXdSWUtzdDg0QUhrZkEtVnVtYnhnVUdDN2VzX3lxY0t4WTJzWFl1Uzktc2gxaVRZa3d6SGJQa3o4S3JkeDBpME1jZmRUOXNueFpuRWdGMlhzSVFWaDhhN3d5Q21sUU53dEZpUEk?oc=5"
-    },
-    {
-      "headline": "Why is Air Products and Chemicals stock surging today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHpnMHRwVVpfOG1vV202dmtJX0htOVNweDQ0SzVBaXlUV3QteDRUWjJGVkFUR3d5WGwwM3RheEdNczBUQUI5WXVMaF9tYjY1UUtHM1lXanRBbTFzcnRiX1k2emFYT1BOWWY0XzR5YWdPWFg5LXZkWFZ4dTl3RlJoUVpYX083bXl0OV9RRXNxUXRsMndpNjBMOVhRc1lsZlFnaUxZSWpBejlNNHlEZUJ5QURXTWxvZw?oc=5"
+      "headline": "Air Products cancels blue hydrogen project in Louisiana - Chemical & Engineering News",
+      "source": "Chemical & Engineering News",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlZIOTRneGtQLW43emNjNEpucV9PcWZaRWtNYlJOLS1tQnhaUnFUMFZKS1h6cWZOdU1FenBpQUtpTDl1THFYZnNiNlBHY21hYlMzdG15MU95dGMyR0d2NzQ5WWFTZlB5YVNiLW15bEtrR1FaTG92Ni1EdXltSlpKVUtPWm9CdXhiU0pkcG5KZ1JnSlBaRHVZ?oc=5"
     }
   ],
   "insight": "Tracking Air Products (APD)."

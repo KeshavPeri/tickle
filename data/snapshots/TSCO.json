@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:13.435Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:33.247Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    30.770000457763672,
-    31.260000228881836,
     31.25,
     30.8799991607666,
     30.209999084472656,
@@ -24,11 +22,11 @@
     29.579999923706055,
     30.1200008392334,
     30.43000030517578,
-    30.239999771118164
+    30.239999771118164,
+    30.549999237060547,
+    30.170000076293945
   ],
   "6m": [
-    50.0099983215332,
-    50.83000183105469,
     49.83000183105469,
     50.310001373291016,
     49.88999938964844,
@@ -158,10 +156,11 @@
     29.579999923706055,
     30.1200008392334,
     30.43000030517578,
-    30.239999771118164
+    30.239999771118164,
+    30.549999237060547,
+    30.170000076293945
   ],
   "1y": [
-    56.34000015258789,
     56.040000915527344,
     56.83000183105469,
     56.58000183105469,
@@ -410,12 +409,20 @@
     29.579999923706055,
     30.1200008392334,
     30.43000030517578,
-    30.239999771118164
+    30.239999771118164,
+    30.549999237060547,
+    30.170000076293945
   ],
-  "lastClose": 30.239999771118164,
-  "oneYearReturn": -46.32587914586803,
+  "lastClose": 30.170000076293945,
+  "oneYearReturn": -46.163455418619456,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Tractor Supply Co. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNUhsMHV5NERTU2xMbmdabkIyVDRKem83ZlAyWXdQblcwNG14V3pRN19pajBoalNmaTAxTF9sRTR1c3VZTkJ2NXFkSkh0R21fMi1XMGFPUnY4aER5QnJxTHlSa1g3QnFZdHVBWUlDOEdpMUdTd2RPMFVsQlJrMWNVYWFJc216cXZCdU5wT2dHWnBJZUp6WHZEcHJ2bmVKdXhUZXptMVFhaWpiZnk1NmI3VzZqdC1tVWV1clBoZW5PUThOS0w0X3htcTFCcDhrSjczRE9DQ3FDUVNiMFpjY3pfcWp6cHIzMkptd1E?oc=5"
+    },
     {
       "headline": "Consumer Retail Stocks Q1 Teardown: Tractor Supply (NASDAQ:TSCO) Vs The Rest - StockStory",
       "source": "StockStory",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObzQzZ0lRZW9CdFk4WGpnTldSM050YzRpYVNkREg0WDAwUzBvMVV2R3FyRHZ1emEtSzNJX1gwTlQzNzJ2QVQzQzJSZHdGeFk3SGNHNmVZM0VWRF9iem5YQTRLMWNvaWZ3Ny1md0ZYdEdVeDRCNmhlMXBrN2NlWVdDMThoYU9kLXdPTmpUY3VFeTVsZEh6bDZfZHVnUERUMTVndUxYNDJhMW1ZNXNXc21NOHNzTk1vdGN5bVZ0WVZQd1hvQ0dyUEdsUXNQbw?oc=5"
     },
     {
-      "headline": "Tractor Supply (TSCO) SVP details stock and option holdings - Stock Titan",
-      "source": "Stock Titan",
+      "headline": "Academy Sports vs. Tractor Supply: A Comparison of Two Embattled Retail Stocks - The Motley Fool",
+      "source": "The Motley Fool",
       "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLUVjMnktYUtQaUxwSmw3QmJSeEtpM1N2cVhPU0FkeXpSeGx4am12Sy1TenktcGxHSV8taENacVFyLUtxRXVFQVUtTTZZcWROOGNvUUdZbzJyU25VMzZUT2dGcWdkd0R5RnNIWmhOLTVxbGVGRnZRdGR4bDNULVFZeWtZemthdzhHeDNOUkNTMmVVOGFQeUl1V0h1QUVkRDlsa2JjS1VHcmRUZWNGaXZaeG93RkRQRzhHNV9VMGZmWDN1dWtabEY1T3VrRQ?oc=5"
-    },
-    {
-      "headline": "Tractor Supply Co. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVkd4UEVMLWZNemxmMHVXNWRoQWJUVm91ZTdJdHJYc2VMRWtDdjdDdUhid1BWbk5CQVZKbUFjck9JOG02SUM3Y2dlbVljY1Q1cUF2cU81cmdvQ2NlOTFTUkxmNE03M0d0b3dHTnRfODZHcUZYRmJqMndRdVJJckdYU2g0Rm1CZjlxQmxxVm1rY3pEcGU4aHRHZzduSGt1VTd5OFlHbHFaaF83aTNpOUt0SG5XRWx6ZHMzNV91RVZLMTZSdGtBajcyZE9DNVJIMTVwc25rYUVOa0Z3ZURRankzdg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORDczY09UOEJRZ3RnbVoxOVktSHkzMHFsVUlvQW13bzJ3MFhYV0Q1eE1GNFlReVhBQWFoM1NwTG5MSktfTm9zVUVDTUFrNy1qMWQ3VnJHa3IyYkZMZDVHWHoyOWZSQmhRUzZzQmFsRjZDaHVoV3dPRnp6ZnY1SmNpZmlHQV9KUHBaVkw5d3ViUnhzNllLRXNRNnlaYWdBWVNYdWRmallwQzJnOUhQa1NKdGFLZlo3eXRRa2dpZWN4UVVXMG8?oc=5"
     }
   ],
   "insight": "Tracking Tractor Supply (TSCO)."

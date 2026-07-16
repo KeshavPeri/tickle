@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:46.472Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:59.555Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    107.5999984741211,
-    106.83999633789062,
     107.73999786376953,
     107.72000122070312,
     108.37000274658203,
@@ -24,11 +22,11 @@
     112.08999633789062,
     110.2699966430664,
     111.12000274658203,
-    111.81999969482422
+    111.81999969482422,
+    111.95999908447266,
+    110.30999755859375
   ],
   "6m": [
-    99.31999969482422,
-    99.98999786376953,
     98.5,
     99.31999969482422,
     99.37000274658203,
@@ -158,10 +156,11 @@
     112.08999633789062,
     110.2699966430664,
     111.12000274658203,
-    111.81999969482422
+    111.81999969482422,
+    111.95999908447266,
+    110.30999755859375
   ],
   "1y": [
-    99.94999694824219,
     100.45999908447266,
     100.5999984741211,
     101.08000183105469,
@@ -410,29 +409,31 @@
     112.08999633789062,
     110.2699966430664,
     111.12000274658203,
-    111.81999969482422
+    111.81999969482422,
+    111.95999908447266,
+    110.30999755859375
   ],
-  "lastClose": 111.81999969482422,
-  "oneYearReturn": 11.875941079546765,
+  "lastClose": 110.30999755859375,
+  "oneYearReturn": 9.804896042093967,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Consolidated Edison stock holds steady as regulated utility model supports long-term returns - Ad-hoc-news.de",
-      "source": "Ad-hoc-news.de",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTDdYdEdWU1djdVpmYzYwMEh3M25TMmcxbzBSZk9oSW5iV1Q1NWYybFdveVJsNXdrR2hSaVY0Rnlqc18zT2k0Qjk1ZUJtUmd6NVByNmpMOVFwZWdTNDA2a21KRzFZTnBBZHI3WE5VN0RUOW04MmRoSTFqejctYXd0VWdibk1TYUlLMEw1WEpnZ3lrbmtiY3R1dUx0ZWtkU0djQUxuWHN1UlROTTdnVHpEaTMybE5lQUlyQkhEWUxOc2hwR3dqMGZ6WG5WaktsUQ?oc=5"
-    },
-    {
-      "headline": "Consolidated Edison Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNGl1cUFYZ0FWblNSTzlydXpyX3N0ZVllOGR3QlZBcURUcVRsOGRubjZ0R0FhdXFWQ2V0Y3publBET3lCNWZ2c0RIaFFOcnpuSzRjWnhhUDRhQVBvTldoamR4WWpiMlhNdzltT1dXY25XTTY4eWFXa2VqNVd5M1JBMUpNNkV1YkdjeUdiY2hoZk93U0VMM25XRWExYVhvUGZzaVRCUGk5S3hCMzc0a04xbl9IM0dCM2NRZmZXZThLNnRzeGxNdHFHUVdMWmtOTlh6Q2xkSmVMWDI?oc=5"
-    },
-    {
-      "headline": "[Form 4] CONSOLIDATED EDISON INC Insider Trading Activity - Stock Titan",
+      "headline": "Con Edison Plans Aug. 6 Earnings Update on Electric, Gas and Steam - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWV2MUlleHQ3c21NV2VtVGphV2E1NzlOTmFXdy1WX1llWFQweTk4WURRb2xRSTBiSzFncy1pcURwd2ZKVmtoSVNzQ0dHWUd1dE9vcnZPMGhtXzZoT1RtUFJKY0EzSkxPT0RwMk0tQUstU2NPOWQwdmc0NUFWRUJOeUl1VUdndmlRVElENVoybGJveWdGTTU2RGZWekh3bHFTWkp0WkNfRWVfN3dmZE1wbV91alhiUQ?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGxILUhrcHJSTHI4V2I2Vm5fc0c3NjdBRjdTRzZFYW5xR1hVdkVjWFVqTHBtNnpiVk01LVR4cjBmX1A4RTE1VktmZWxxRnhwczlWQm1DODVBSm9qUkFyQjhBQUNyWENqeVh1ekJ0bnhFaGx6NC0zd3NCMXRXWFdOQUVOa3d3OGpoaDlsMmdyS2pqZ00xTTljbWxiS1ByOXM2d25nMS1PQnBXZWQ5T3c?oc=5"
+    },
+    {
+      "headline": "Con Edison (ED) Adds Tali Farhadian To Its Board As Oversight Comes Into Focus - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNczZBdTNYd25vd2d3R3FJUUJPQWhNaDFpRDJrNUNDOFpvY0RGN3FNaGpDaEtfS0I2MVVwUlZOWW1oNnVwUGJjV1pGallRZXVhbm1sbGVyYXhrUEl2Z1JxdjBBdXJXbzVGS0NJUlFfR3Z3T0tWQ3BBMlFUTndxUE90MHc1T25IQnBvLVQyb1doNzhDeEZzN3R4b2hqTzhIYjdKYk41aFRwNU9seXpvMm9kYURpRk9TZ3o4UUJMdXJPck9sTVRuNzlhaUg0UHI0VWPSAdQBQVVfeXFMTS0xM1B0TVpEYWdUUVZteTBQbnkxRkFQTWZ0Ui16dFJvTGRUQm1LbTlDQXRFSmtDZXVwMTdDdlN3TVdNQXg0QUhWT3dwOElMTjRzZWszbjR4OGNGYldZMWZSMi1zMFViZU5tUlNaZ0pqMC1FVXROMWpfQW1MYWxkd2ZrcUhVNE1UdDRpeGhhZVFRazQ5OE0xOExON1M0V2JfRlpkeUlIaXlHLTNLNi0xODBEREw5bFlBdkJzcGxXRnBSUHNXTVF4WkxXWi1QQ1M2ekxBY2g?oc=5"
+    },
+    {
+      "headline": "Why Consolidated Edison (ED) is a Great Dividend Stock Right Now - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-04-27",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXJ1T0dOTXZPYl9QNlUxYUVDaE5iUWZ0ODNwSy1uTHZrV2l2X2JLZzFJS2FzMk9MUTNoTlFBeDBKaFl4UFNDQVp5MVVqakl1eDNDb3NqbkVzY0w5eTIzckQ2ZUR2QTBVSUtmM0NjakRkc3VJS0syTTVKemI5QkdIeFI2TE1jUm9LcUZLRUVMNXJSSFgtekM4VXVNaUF4QQ?oc=5"
     }
   ],
   "insight": "Tracking Consolidated Edison (ED)."

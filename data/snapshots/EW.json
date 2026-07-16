@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:48.794Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:02.504Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    85.9800033569336,
-    85.76000213623047,
     85.11000061035156,
     86.27999877929688,
     88.58000183105469,
@@ -24,11 +22,11 @@
     93.63999938964844,
     91.33000183105469,
     92.20999908447266,
-    91.79000091552734
+    91.79000091552734,
+    90.08999633789062,
+    87.2699966430664
   ],
   "6m": [
-    85.25,
-    85.33000183105469,
     84.16999816894531,
     85.8499984741211,
     84.83000183105469,
@@ -158,10 +156,11 @@
     93.63999938964844,
     91.33000183105469,
     92.20999908447266,
-    91.79000091552734
+    91.79000091552734,
+    90.08999633789062,
+    87.2699966430664
   ],
   "1y": [
-    76.80999755859375,
     76.13999938964844,
     76.18000030517578,
     76.48999786376953,
@@ -410,12 +409,20 @@
     93.63999938964844,
     91.33000183105469,
     92.20999908447266,
-    91.79000091552734
+    91.79000091552734,
+    90.08999633789062,
+    87.2699966430664
   ],
-  "lastClose": 91.79000091552734,
-  "oneYearReturn": 19.50267391364808,
+  "lastClose": 87.2699966430664,
+  "oneYearReturn": 14.617805808560513,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Edwards Lifesciences Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQXEzel9GUnppdkJBTWZIdDhSN0t4R1FfZ0JJeEtnSEd6alJ3a1ZjWW13eHZBZDc2ejV1QzRrbEZxU0lvSHhzRl9pR20zTzg5bzJNWXNzNDEzeEFfYnR6UldCbWlMam9fNmtEQmJYeEtKekRDc2FCTXBpRnh2dGdvRHNsbUc2cFdjMENvR29lZENuOVcwVVQ2YnNsdHQ3NUdwTjJDc1E5a2JnYnA4NzJPUWluMGl5WTRCdFJCbkVnUGhnODdLVTZ3dHQ4czFnQ2V4ZzdvTVFETGNCMnlmUDNvSXFqTlRoZGk3UDdzOUhEbWxONVRa?oc=5"
+    },
     {
       "headline": "What You Need To Know Ahead of Edwards Lifesciences' Earnings Release - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTHBlY0p1QUp4QzdCa1NHZEFOWmFGLVprdmJlX1R3dFZ0TDczaTZzM290VmlZYXpEV0xNRmxaMFBlZW51WExtWnZ2OVh4NUhEOTBnak5BLTVyRXZFSW8zZWZ3SnJBelF2ZGltM0tJQzB2ZFRvRFVRNzMyNUF5SlJxeDhUTlJ3MEV6T0wtb3RxWDU2cVV6SXdHRjBVWWdYZl9TUk9j?oc=5"
     },
     {
-      "headline": "Edwards Lifesciences (NYSE: EW) CVP exercises stock options and sells 619 shares - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcUdQdnBkQkU0WGVIM0FIVEdQSVpaOWZ5S0V2ei1LbUpucFV1UHFJdVFEVFlHMTdYb3FkLTNUNTJ0eGZqcE4ySFlfa0NqbFZHRjlwYS05M2tsajNKNUtpVGtCb1lWQklIa0taN25ncFJ5cGxFZXFFLXgwUU5lcmNkbUV4NVVKT0tFTkxMRGNxOGpianloNVVCYWs5QW52XzB1RUNKUlpLQnQ1eGpub2QzUVhIVVk5eU41?oc=5"
-    },
-    {
-      "headline": "Edwards Lifesciences CVP sells $56,762 in company stock - Investing.com",
+      "headline": "Edwards Lifesciences stock hits 52-week high at 89.7 USD - Investing.com",
       "source": "Investing.com",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR2w2U05JSVo1M2pwU094ZjctU0RqZ0k0U0VNMXN0VlA3XzV0ZU9HN2hrcUtNYTVVMjZTNEpEeVdHMVhOSk9UNG0tX1ZmM0hhRTJ0SU9tbmVfZjBBU2xRUDFvTk1UbmVSaXdydWp5SWFaZXJBa2FiUE5iV2EyNDZhakxNMkRUMVFyYVBWOU1PNF9LaGcyVmdZSUxuQU42MEZDa0NDcVlRMmdoZVFOM3NYLTcwTEtOeHhqUEE?oc=5"
+      "when": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVRxcDNCQ0JLYjFyaWgwSDd3NFVSUEFqZE03RUx6Z3RlYXNyRGNmUFVJalB1dDFuZG5WU1ZVbFFxZEk4TjBJbjI5aEhBSzRjbS04NGpYRldTQ1l6Mnlqd090bEFmX1ZWa2x3RG02RXNkbVhXRllGaUE2WkJvcFhIczd5ajIyaEtNY1JZT05ZQzdaX1B1dWVHQVUxZjhpbWlZUXlYMnJESTYxVFJyZ184Mw?oc=5"
     }
   ],
   "insight": "Tracking Edwards Lifesciences (EW)."

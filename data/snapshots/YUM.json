@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:16.612Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:37.205Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    151.0800018310547,
-    153.27000427246094,
     154.30999755859375,
     154.6699981689453,
     157.6699981689453,
@@ -24,11 +22,11 @@
     165.25,
     162.38999938964844,
     163.5399932861328,
-    161.67999267578125
+    161.67999267578125,
+    158.17999267578125,
+    152.57000732421875
   ],
   "6m": [
-    151.27999877929688,
-    150.49000549316406,
     150.2899932861328,
     151.41000366210938,
     150.49000549316406,
@@ -158,10 +156,11 @@
     165.25,
     162.38999938964844,
     163.5399932861328,
-    161.67999267578125
+    161.67999267578125,
+    158.17999267578125,
+    152.57000732421875
   ],
   "1y": [
-    145,
     146.13999938964844,
     148.0800018310547,
     148.9600067138672,
@@ -410,12 +409,20 @@
     165.25,
     162.38999938964844,
     163.5399932861328,
-    161.67999267578125
+    161.67999267578125,
+    158.17999267578125,
+    152.57000732421875
   ],
-  "lastClose": 161.67999267578125,
-  "oneYearReturn": 11.503443224676724,
+  "lastClose": 152.57000732421875,
+  "oneYearReturn": 4.399895963750613,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Yum! Brands (YUM) Stock May Be Near Fair Value On Outbreak Probe - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUxKZUtERll3aVYwRDdxeUVOcDJhUE9pT1FST0VuTUtnYXV0NEZIcW1LeG13dGJoY2dEZ0VMN2lGTGZId2p2MTd1RFc0OEV1aXc3MElwTDJENVZGSGNwNUJMblFPRVV5NzB1NW9GMWRCd1VEdHpMNDl4VS0yZVpVQmo2ejB2S3NEdFVlZUQtbEtaRG8?oc=5"
+    },
     {
       "headline": "Yum! Brands stock falls after Taco Bell removes menu items - Investing.com",
       "source": "Investing.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnVLcjlpSDIxbnhtb1I1cGdRR1ozQ0VBellaLTZ6OTJJTVRPNHRKcHpDNFdzbDdnUEdCb3BvYUxKQ2VNZWlfMXVMYm5ZRzBXQ1BHcEo4NjRDUkRwaHpjLUV4cmNVSHUzMTJuUUpSSnVYa0M3US1iQ2FYSVk4MEJvTW4zd0J1SFhWcVJpSVdwcWFaQndpRUpFV1hwVnpCcUNYQ21aMWNVdzhZcGNERjJpeWUxRF9YTXprV3Bj?oc=5"
     },
     {
-      "headline": "Taco Bell Lettuce Investigated in Growing Cyclospora Outbreak, Yum Brands Shares Fall - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWHI1NjRfTkc0QjUyQTZHWXVEeUh3dnlNNlVFUXNnQ01hTmp0dDZVVmZVNlNHbVJ6aXRtYl9uWmo3UkdmbVlTWTdOVnJoQ05LYXdsYno5WklrN3hwVURscWNHeDNGWmp4RXFCblhpNVBUMGNCX2RyLXVlYVZZYWNEdjJpUnVZN29qYW4xLTBNbUh3dmhDVnZMNFZ2d2dZdmdHVGxwVVowYk9rTzlrRkdGLUI3UDk2MU9vSzZKSA?oc=5"
-    },
-    {
-      "headline": "Yum Shares Fall After Report Us Health Authorities Investigating Taco Bell in Cyclosporiasis Outbreak - GV Wire",
-      "source": "GV Wire",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUUtHU0d0b3BvdjBtMklQY01nQlhyZ0dyeGJvanBqQ1JwcmhZVGhuNTI5TVNaSzY1N0JRTFhBT0xCeno0Ykk5TTg3UWZpZHFCSFhNUG9xSUtuQ1VrRzc0TUtRRm1XUGxoelE2d2l1U2FfZkt6VktBclpvenJ5WUtSV3A1aUhwUnprcXdkYTJjMTg0aW9GNk5ZWjZYN3AzWHVsalluZERSQkhOQ0NJR0xOWkx4SG82NXZ0bl9VS2Zfc3RIZXltOUhZNHVkWXQ?oc=5"
+      "headline": "Yum Brands Inc (YUM) Stock Down 3.5% -- Now Undervalued? GF Score: 88/100 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCdWNpTThsSTl0VGZkQ0k4YXFQOFd5U1haM0llSzNJbUhsREhYS3JLdmFVbUd0Xy03X0RqazJSRHJncGxSUG9kbGpyNklBN0k?oc=5"
     }
   ],
   "insight": "Tracking Yum! Brands (YUM)."

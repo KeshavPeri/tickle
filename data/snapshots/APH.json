@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:31.527Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:42.077Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    149.22000122070312,
-    152.4600067138672,
     153.8000030517578,
     158.58999633789062,
     158.80999755859375,
@@ -24,11 +22,11 @@
     158.22000122070312,
     162.24000549316406,
     159.05999755859375,
-    155.99000549316406
+    155.99000549316406,
+    158.3699951171875,
+    157.0399932861328
   ],
   "6m": [
-    135.13999938964844,
-    139.7100067138672,
     139.8800048828125,
     141.3800048828125,
     138.91000366210938,
@@ -158,10 +156,11 @@
     158.22000122070312,
     162.24000549316406,
     159.05999755859375,
-    155.99000549316406
+    155.99000549316406,
+    158.3699951171875,
+    157.0399932861328
   ],
   "1y": [
-    99.44000244140625,
     100.55000305175781,
     101.95999908447266,
     103.33999633789062,
@@ -410,29 +409,31 @@
     158.22000122070312,
     162.24000549316406,
     159.05999755859375,
-    155.99000549316406
+    155.99000549316406,
+    158.3699951171875,
+    157.0399932861328
   ],
-  "lastClose": 155.99000549316406,
-  "oneYearReturn": 56.86846506774693,
+  "lastClose": 157.0399932861328,
+  "oneYearReturn": 56.18099305804789,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is Amphenol's Recent Stock Performance a Cause for Concern or an Opportunity - Kavout | AI",
+      "source": "Kavout | AI",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZE5PYVJmUEM4b3NfS25MbG9zQkJ0M0FmajAtSnM1R0syVFVKdXduWTFiODdUbmFnT2pKVEdfdjd1elNlQThYLVF2TXl6LVBHZXZZZ0h1Ykc5bFZnUXJKazdhdGUzY3BDUmdzcHNfT3U5TW4zellIN3lpaUxGZ3loRHVrcEhfVHJSUmF5ZHFlaEdPU3BaYzR0MzN5UnRFeXpFX1JHUkxBS19XS0V0T0I4ZQ?oc=5"
+    },
+    {
+      "headline": "Fund Update: 48,106 AMPHENOL (APH) shares added to OLD NATIONAL BANCORP |IN| portfolio - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOHR0ZUxyQ1dZSC1SYnJVSUlRTUtscV92QXNqRDNzSmJsdlRNYnA5WUFjenZLUTlZVk9sdXFKSTU2a3Z0U1UwOXdpVXp6M2JzVDdUdkdNYVU3Ny1McVVYX0pUc0pJX3BnQmk4N2xhMGlzWkE1OG4wUl8wdWtHQXRCd1cyYmFQOXhfZjZVQW5qY1h6SHZYSGdSOG5TWFdzay1YWnBsWFV3RGtoVmJydnBoTzA3X3YxTmFaeW5ud3VKTGU1RUJ0SkRNNHJLaw?oc=5"
+    },
     {
       "headline": "Amphenol (APH) Stock Fair Value Edges Higher After AI Demand And Analyst Target Changes - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRWRfTU00MVdHTkdlZUxDYWhDaWN6X04tUmJiODZQemZ4T21kTjAwY3oxUFE1WWR0ZlRXQnVIMFdTQUxoQ1ZIeGItNDlGU3NpY0RtX0xnWFlnUGZhTE8zVDB2bVJ6dmFBSzhBWGZQTTZabFF4SkdGcmVnc3NPTzhLSk13ejVfTTZpM3d3WWR3UE00VDhPYVN5SGFn?oc=5"
-    },
-    {
-      "headline": "Amphenol (NYSE: APH) Passes Navellier's 8-Rule High Growth Stock Test - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbmxtRnQ3ZnJHd2lVMGFuRFVpbks5bTlOZ2lMWUFKMHZxbml2SHVTWDVpVG5hb1QyeXVpa25VLXM0ZXZoSnZUSnI0LVB2MzdCVmx4eWhHdjdQa2NrZkFPY1ZDVHE1b00wU2dScS01RXEtODZDalJJRjBodGRyQnJmeVR3VU5JRDBRZnB2Qnk2ekRLcHppNmN1bzNQQ2l0Ul81bFRqUndtQkVwelRzMHlkeUlCTnNPVzQ?oc=5"
-    },
-    {
-      "headline": "TD Cowen raises Amphenol stock price target to $175 on AI strength - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjRndVFjU1E4WGhvMkNkTXpwd0g0MnZVM3FVOFNVcW9BTm1SSEVXeG9hcWgyRDlfLXdCcnRQd1dVZ1ZBdzc2VUhDQkpaMjNqbU15N21nV0FfclFuYzdfak9SV1RTelFubzZnZFFWRE5WZnc3Q2lJZkJHUUpQNzA5SU5xWjVZREQxcDBjbTc1M2RIUXNDR2V6Y242N1Z3bGRIQU5DNW0tNDZHNHNjWlBwYnBfbnZ5NENMZHE5MEt4eWl6bHM?oc=5"
     }
   ],
   "insight": "Tracking Amphenol (APH)."

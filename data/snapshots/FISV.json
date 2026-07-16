@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:50.880Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:04.893Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    53.279998779296875,
-    53.060001373291016,
     53.779998779296875,
     47.90999984741211,
     49.83000183105469,
@@ -24,11 +22,11 @@
     50.599998474121094,
     51.650001525878906,
     50.45000076293945,
-    51.18000030517578
+    51.18000030517578,
+    49.540000915527344,
+    50.36000061035156
   ],
   "6m": [
-    67.16999816894531,
-    65.58999633789062,
     66.98999786376953,
     68.76000213623047,
     68.70999908447266,
@@ -158,10 +156,11 @@
     50.599998474121094,
     51.650001525878906,
     50.45000076293945,
-    51.18000030517578
+    51.18000030517578,
+    49.540000915527344,
+    50.36000061035156
   ],
   "1y": [
-    164.4199981689453,
     165.7100067138672,
     167.35000610351562,
     165.74000549316406,
@@ -409,29 +408,31 @@
     50.599998474121094,
     51.650001525878906,
     50.45000076293945,
-    51.18000030517578
+    51.18000030517578,
+    49.540000915527344,
+    50.36000061035156
   ],
-  "lastClose": 51.18000030517578,
-  "oneYearReturn": -68.87239941908577,
+  "lastClose": 50.36000061035156,
+  "oneYearReturn": -69.60955973086853,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Goldman Sachs and Wells Fargo Cut Fiserv (FISV) Price Targets - Yahoo Finance",
+      "headline": "Why Fiserv Stock Just Popped - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRDhDNDhpRkJOVHg0VWwxU2lET0dRUzFMWkhnOXpseVNPN3ppYjFwandneDJQZGhGNHBPNEdkTmlZMVFOU2tQZldjVDd0ZTNac0ZwanpVbUJITXhvQ0lVNld4OFpfMGNlWDB4QVZ0QkEzTmJ2dTVsZ0xuNENnZDhMRHZHYU9XVnZkY3JTOTVzYmstMkN5QWRLeXRR?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkYxeEl0T3BHWG1wTHJURFJfSFZ5YWY0eGo0MklEVXZ0VmpXcjJZQ3hTTWJoNEhGSVQ0SmoxaGZhZDh4eng0bTN3NFlZYmxscG95bkMzNU1qM281bDdTdmtTR1hmUk15NlJOdEpsRkotVGRHYndHWE1iTUpvdmMyRzFseHZKWFpmQTl0M3AyUzl2dEF6LWNGdQ?oc=5"
+    },
+    {
+      "headline": "Why Fiserv Stock Just Popped - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05Mi1teFZ4a2hwSElRM0tlMm1kVkl5X1IzM2VPWXdhZ0l3RFY0dnBsNWdXclBidXU0MUJ3VDE5SW1TLWRmRzY5QXZyZWM1TnN2WFZIUUlJVmVQQThZTWFoVVpwX1NZbkZaR2NuMnRlOW4tREl5ZHVlQmhuOA?oc=5"
     },
     {
       "headline": "Fiserv Heads For Third Month In The Red: Analyst Says Stock Valued Appropriately Despite Significant Fall in Growth - Stocktwits",
       "source": "Stocktwits",
-      "when": "2026-07-12",
+      "when": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMGd5UUVMYmhla1FWLTRTZDA4bmk0ZnR2WVVtQzdsUnEyeXFHak1sOVNobWpjNHVNWVFvVjZGUm1sZFJCeXZoOXByemdWdFB1RUc5eHpJSzdvcXJYUXliNzBmNU9MLURsWDVGQnpIY3FrUW8wUWFwMzNLblUyRTlFM2Y0TnE1akRLS25CZjZobjcySjdlWFhhMWdUTW1seXBfRlpGcEg5Ni03SjNTSzYwczgtWVN5cW9Pc2tzb0JGVnhtc1hSaFBWQVh6RmREUF9scFhGMDZn?oc=5"
-    },
-    {
-      "headline": "Fiserv sets Aug. 6 webcast to discuss second-quarter results - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVm9sbFRTQzc1MWM3Y1V3cnM2UE0ycW1YZi1tcFh1Und3MVRnOUVlLVJiMHljdkNad3hGSWlnYmhmclpDTWNHZVFuSjFDRk9Rd2lRck5XbkZKUWIwaXoxVDlPS00zR0FmOGVkVkhEM2g3YnpONWgtS3dhbDlIQjNwelhRZmdVUVBOVHAyMFlUdGFoZEt6WTNHZG54dDBDbnpycDFrT3NyLW1DdnBqVXc2aTN5WHFPT0U?oc=5"
     }
   ],
   "insight": "Tracking Fiserv (FISV)."

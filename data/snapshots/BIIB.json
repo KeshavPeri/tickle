@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:34.433Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:46.765Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    194.24000549316406,
-    199.9600067138672,
     200.0500030517578,
     198.63999938964844,
     195.61000061035156,
@@ -24,11 +22,11 @@
     200.36000061035156,
     198.91000366210938,
     199.14999389648438,
-    209.02999877929688
+    209.02999877929688,
+    191.9499969482422,
+    197.24000549316406
   ],
   "6m": [
-    175.99000549316406,
-    177.82000732421875,
     174.6300048828125,
     182.61000061035156,
     186.91000366210938,
@@ -158,10 +156,11 @@
     200.36000061035156,
     198.91000366210938,
     199.14999389648438,
-    209.02999877929688
+    209.02999877929688,
+    191.9499969482422,
+    197.24000549316406
   ],
   "1y": [
-    127.5,
     128.4600067138672,
     128.69000244140625,
     124.98999786376953,
@@ -410,29 +409,31 @@
     200.36000061035156,
     198.91000366210938,
     199.14999389648438,
-    209.02999877929688
+    209.02999877929688,
+    191.9499969482422,
+    197.24000549316406
   ],
-  "lastClose": 209.02999877929688,
-  "oneYearReturn": 63.94509708180147,
+  "lastClose": 197.24000549316406,
+  "oneYearReturn": 53.541954837740256,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Biogen Stock Is Upgraded to Buy Ahead of Key Alzheimer’s Drug Study Details - Barron's",
-      "source": "Barron's",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONlozWDZQcXFxdjFmVEJvWEE2M0p4OUFKX2FsOEFSalB1RnRsVXFxa0dSenNGMmFaMzQxakRFQVB0eERMXzU4UlVpNkQ1WWRzc0hDZk9WQ1o4NkhlUlBhUVZkMm85Wl9TMGM2T3lCeEdUekVJUHZ0Z2t5WGh3V0FqRjgzbw?oc=5"
-    },
-    {
-      "headline": "Biogen Stock Sinks on Lackluster Alzheimer’s Results - WSJ",
-      "source": "WSJ",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSHJqcDdYalRjdzFERHR5VEI2NXlvWkVGWkxScGpiRnJocG55NmE4Y1pXcXpiT2RIXzNsSEVhekhOby1ZMFQ5UGFDdnlqRlhheG1TZjhDSU1ZUDdvaGVWeFhzemFmUkNZRXltOUtBdEx2ZXZITE1DdXZhSjdZcWdZOXYxUjM0UnF3VnpQUVg3WFZoVjF1Qm1ta2xhaFd5YVZKOHEwRzRwU0F4NERYMjR3blc2anl3TDBSeEdnRXROa0liV3d0c0NnQzRRanVVblN1WlQ3VEQ2Y0Zhb2JSS0xUZENZcnlMQVVsV1JV?oc=5"
+      "headline": "AAIC26: Biogen stock drops after unveiling tau-targeting ASO data - Clinical Trials Arena",
+      "source": "Clinical Trials Arena",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWRsTVNULWt1Y2Q0RVFPNmktOFFFLXhiYkdyeGJLeTBMcDhwMVViMnNjbWFzbF9Yc3lfTnVnVENFeVc4cjNzSmhYMTVsX1lTcFoyNTNVd19YY1BKZDRZSlVJOXdtVEs1dVBSNFY2aUR4R21nY0ZIT0k5a1MzTmIxM0dHbWxTMGRsVmdvWVBkVjhSdE5kbU93UDRuWl9BZXBBNS0tLXdOTHNtdw?oc=5"
     },
     {
       "headline": "Biogen defends anti-tau drug after stock slides on Alzheimer’s readout - Fierce Biotech",
       "source": "Fierce Biotech",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSW45Q216RDR0VU1LTmgzRXF2M1BEdVExcGZhVDBDWlQzNHVVLXpNYmRtRHFGZkJPZGJxc3gzQkpQSzE1eldnUE5xdGUyMkE4RkxvdEl6aHBfNFMweUV5RTI5OWNzcHNzQUNWNGJLaTRyZllYblBJQmQtZzUzVzh3YWF5Ry1xSjV5azhfNmhoREdVdk8wRk8zaFZTZTZIRUk2Mm5IeUYyYw?oc=5"
+    },
+    {
+      "headline": "3 Reasons to Avoid BIIB and 1 Stock to Buy Instead - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZEhaRHpGbmJaOV9DWWFJR0RjQXUtcUM1Nk1BTGhlWTV1QlRiVGhuOWVsNldXSzRiOVZMdXpxUFBlajhpREpxSXVHa0JfdllGTU53UHgtSENKYnJpVFBIY1lMZ3lhWWRHSndtR1QtMU82YWFtM3dhQVpQVHJrN2V4d3QxTW5rbmt5NXhmZWZkbDM?oc=5"
     }
   ],
   "insight": "Tracking Biogen (BIIB)."

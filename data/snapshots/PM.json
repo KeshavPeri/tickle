@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:08.202Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:26.648Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    182.9499969482422,
-    180.77000427246094,
     184.3000030517578,
     181.80999755859375,
     184.05999755859375,
@@ -24,11 +22,11 @@
     187.07000732421875,
     181.1699981689453,
     181.6199951171875,
-    180.19000244140625
+    180.19000244140625,
+    175.9499969482422,
+    180.8800048828125
   ],
   "6m": [
-    160.39999389648438,
-    160.3000030517578,
     159.86000061035156,
     155.16000366210938,
     155.14999389648438,
@@ -158,10 +156,11 @@
     187.07000732421875,
     181.1699981689453,
     181.6199951171875,
-    180.19000244140625
+    180.19000244140625,
+    175.9499969482422,
+    180.8800048828125
   ],
   "1y": [
-    180.9199981689453,
     183.27000427246094,
     179.1699981689453,
     178.72999572753906,
@@ -410,29 +409,31 @@
     187.07000732421875,
     181.1699981689453,
     181.6199951171875,
-    180.19000244140625
+    180.19000244140625,
+    175.9499969482422,
+    180.8800048828125
   ],
-  "lastClose": 180.19000244140625,
-  "oneYearReturn": -0.403490899252267,
+  "lastClose": 180.8800048828125,
+  "oneYearReturn": -1.3040865029365696,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Philip Morris International Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "headline": "Philip Morris International Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRHh0dll5TElrUlAxbkVfV3VwT3U2bTBfd0NhN2VBTmV1WklQNDZ0WldVSVV3OUtFNkUtVVlpSnFGSHZ5Rk1qUlZkNXRWRlBzOW9HZ3Jvd0QyU1BObldBVWpHRUwxanRGdE9Mb3lYVmhUMkZoSXAzMzYwRjJQNnQzTWQwYzJBam11akM2YTVVRmoza3ZJVnVVekhFZkN4MENzODRCckNjWEJIeDdJY0lqdDhFbTVTVlRNSFd4UnNGb0xzcXA1MmJPRjlhdW4xRkdhbW1EMXNkRGF2a3VHNDcwUi10WTFNb3A4TVZCS0cyTWxxY0RVNmltSw?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWTFyRGVndG9vQnZLNVVucGQwUDByOEhKcXBGVk1BX1NDME41cmFIeVI4UGMwbDhvQjVCc0tCVS1xMGN4QjBkOWdpNF91YmZGQTd0VU9CbWM2ekozbEdlbDhrdm9Xb0ltMEdDOTVvdFhDblM0ZlcwYk1MdDczc2U2UVpPaWJUMzZZMmJSOEpKZUxUNG9PUXJjYUI1LUNRTDRudGlvVGdsXzhJcUNPSkw2dnJEOEk2S1I2YnVEWW42M0Z4T3BnVWNselVHdkFvZndGdHVRY2xud2hZeDJiRWRPTWFnSjB6U0hYbm5SQkNiNy1ycHM?oc=5"
     },
     {
-      "headline": "Bleakley Financial Group LLC Lowers Stock Holdings in Philip Morris International Inc. $PM - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYldTRHBubjRIOFE0WmNaaXlJZXVZckhTWDJjR01uc2dWbzVGcWVRLWpZWjFUTUZkeUNfM0FBWUM2RU1NWHpFZnZHUUdFMllNMl9VR3JBVlI5X2N5OWJGblVHZlQ5NU1YTEEyV2xJODROUF9BTHYwdTBkZnI3ZFlYempNTWgzWnl2djNGS1JONzJoTlNKTXFTUWo5WG1fWVZRMTkwNFZTUk1ad3ZudW1ic2MwWGFUM3FHZU5KMlpzaDB2TjRNUHhCekhqVEl5MVRUaXNxc1FIMzdMREpXcjQ5bEFENA?oc=5"
+      "headline": "How Investors Are Reacting To Philip Morris International (PM) Winning FDA Modified Risk Status For ZYN - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVUZ6VE4yLXJ5ZnFIZkJHbHhPLXpMWmtqNHMyR2xSRkZKblBqdVZxUzVQRE94ekQybVdrSHo5S0xkel9qZ1V0MHVwTmd3SVpBWXVidWEzWm9YaHlBaWRzZVg4OUhDaVEtZkZvcUtJUDBxMTFvOWl0b2F5dVpRVzY1bEtuNHdEeVRPRmpLaEdnYjBhYVh2aHE1UXktOHBaR3Y4djFXcUtWZFZ3MnJNLWVJVERpN25yS2RIWVQ2Zk96YXhIZGpSSXFmV0F4endzQzhPZmRJaW5GMVZjX3p4MzRqVExPaGx5dHhoSTM1Q3RqMVM3SlnSAfMBQVVfeXFMUFVGelROMi1yeWZxSGZCR2x4Ty16TFprajRzMkdsUkZGSm5QanVWcVM1UERPeHpEMm1Xa0h6OUtMZHpfamdVdDB1cE5nd0laQVl1YnVhM1pvWGh5QWlkc2VYODlIQ2lRLWZGb3FLSVAwcTExbzlpdG9heXVaUVc2NWxLbjR3RHlUT0ZqS2hHZ2IwYWFYdmhxNVF5LThwWkd2OHYxV3FLVmRWdzJyTS1lSVREaTducktkSFlUNmZPemF4SGRqUklxZldBeHp3c0M4T2ZkSWluRjFWY196eDM0alRMT2hseXR4aEkzNUN0ajFTN0pZ?oc=5"
     },
     {
-      "headline": "Philip Morris: Strong Business Momentum At A High Price (NYSE:PM) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ3l1TzcxcGg4SHE0QmJ4cDZQcDhQbzU5N0RHeEF6R0YxNXFjUWtsU3M1ZVlrUVluTmhzMlB5VV9NR3JBYXR6cXc1c2FENGdkNVV4akxwbW9FV0pkQ1ZZbVI4blJNTXA2RjFLbXpQRm9oTmhCQUNOQmxoVWZZLWxXT0dram5ubEhfcDZCamxwZnV0QW1MSmxnNTZpNA?oc=5"
+      "headline": "Two CFOs will host Philip Morris International's July 22 results webcast - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEpaOW1IN1B2UHJrcHJXdU9BZlROYXVGa05TYXVzV0xKbkhnNUliR0dobHg1ajdIVzJ1eFFLbWVPM2VSazZ6YXdDMndWRzBqTWFiRkFLLWl6WTlPTUp1UEhtMjcwQVRVQlhnTzBRZi1UTkVqZmQ0M3ZjWjBPQW4yNWpVZkdOc29QQnlQWUQ5WHdUaW9qd1ZKeEgxMzdCVm53TmVkZTJ6SFNpeVJNcW90WlZKUjNRQ3dTRjlJ?oc=5"
     }
   ],
   "insight": "Tracking Philip Morris International (PM)."

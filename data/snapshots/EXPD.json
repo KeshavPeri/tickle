@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:49.095Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:02.797Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    164.7100067138672,
-    166.44000244140625,
     166.6199951171875,
     163.22999572753906,
     164.02000427246094,
@@ -24,11 +22,11 @@
     164.36000061035156,
     170.6199951171875,
     172.02000427246094,
-    175.5
+    175.5,
+    178.22000122070312,
+    177.6999969482422
   ],
   "6m": [
-    149.00999450683594,
-    151.86000061035156,
     154.39999389648438,
     157.5,
     156.89999389648438,
@@ -158,10 +156,11 @@
     164.36000061035156,
     170.6199951171875,
     172.02000427246094,
-    175.5
+    175.5,
+    178.22000122070312,
+    177.6999969482422
   ],
   "1y": [
-    113.33000183105469,
     112.93000030517578,
     113.91999816894531,
     111.66999816894531,
@@ -410,10 +409,12 @@
     164.36000061035156,
     170.6199951171875,
     172.02000427246094,
-    175.5
+    175.5,
+    178.22000122070312,
+    177.6999969482422
   ],
-  "lastClose": 175.5,
-  "oneYearReturn": 54.8574933066925,
+  "lastClose": 177.6999969482422,
+  "oneYearReturn": 57.35411003987918,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80TTFNMUIxRHBOYV9zOG9Ma1ZSU0lrQlUzT25CWVQ4MkxMa0g5d19XS1Y1d3AxM2d4enpxdWVEdDV6ck93bUVKazlmNVo1STRNc3lFTUZ2NXdQQQ?oc=5"
     },
     {
+      "headline": "Stifel raises Expeditors stock price target to $158 on execution - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ3hEa1BLWlVtcThSQnRGX1lyUzk5am9XRF9CN05kLW1xbGgwRlliVU96UXpVVy1OZjZYeHNOdmdCMV9xSEtFbGc5SXZtTGR5VzJlRDdhWFNjeGNWQUV6Q3pVQnFnLVp2RGg0Q0l6dElkLU9HT1cwN255Z2RiYXNwYVlBclVvVVNQQlJ3cjY3NkVYRjU0bVptYWdZRUtfVUpnNUVObEZySEl3V2dFOWZQRWFrUWFJMlhLdUJhMWgwZk52Ym9WYThrbHRlVQ?oc=5"
+    },
+    {
       "headline": "Expeditors International Of Washington (EXPD) Stock After 41% Year Rise And DCF Fair Value Estimate - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-28",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObG1oMnRSNWMtdGRoUGN6RFRnZG1QN0xFQnV4WVpWZTdXU1NXY3VZWVRyOGxqUGhUX0NaOHA2OGptczFHMTQtblR1Z1lYbHdlOHVLTTZYSHlRR09COGxDTnlqdHRVVl8zVHJfZHRkbXNJN1dtNjJneWpOUTh4VmVpanAxU0pCSV9YdkE2Z2dWYkJ6OTVFOG80dnQtVmdHZjFLRF82R0EzeVFyQ2p1YU9zRQ?oc=5"
-    },
-    {
-      "headline": "Expeditors International Of Washington (EXPD) Draws Q2 Optimism, Is The Stock Fully Valued? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVE5IbWhlUVd0QkpUZWlwWFNyZWxfZVJJaHc1SENUdi15eTctTVh2Z0FJdjlEM05meWtaRHJqa2QwUHQ1R2VhM2J0QlRXZF9TemNNZ1Q1Y0Z1Yng4ekVfS2M4Zno3WFZ2UmdvZmdWdDAzOGNGYXBFaHFTTFVTRDMxS0t2T3ZBTXZEV2gwM0Fyd05NVEk2TXM5WndReHZ5Q2ZkamtDTGttMU81alhRdHZCb2oyakVWYktoNUtRNEFTTmRiVnJob2RZb282YTUzd1hXbkJ3eTVpRjJTaW1ETnJfVWR2Nkg3SmJLZzd3ZWFxbjNTTk3SAfgBQVVfeXFMTk1md191aUh4c3hMY084UmdwUlZIbmp2U01QdDJEMWtiNU9iSUs4X1MxMlF1RHdYVnJsaHpONGxoakFRSW5qTGlGd0FjZjJES3dYckZYcFVOR0RzeFhIUHpCUHFTZjltUDIwR3RKSUl5djJhVS1KQ1I1cXhOWkY0aUtfTmZoRDlHQzBXaHhMQVNRWGN2NXVHaURmM0lzT1pSeTVseEJyajBxQkF2enJGM2ZaYWhHMGFza3owTlVPOENaSnFZWFZQUWJQNm1NcU9mTzZJYV9QLUhuaE5QUy1qQ2h6Wl9vWGctak5mR0plUk5jZ3VfTktoT0Q?oc=5"
     }
   ],
   "insight": "Tracking Expeditors International (EXPD)."

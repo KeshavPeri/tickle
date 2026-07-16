@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:39.594Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:51.741Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    73.45999908447266,
-    72.8499984741211,
     73.56999969482422,
     73.6500015258789,
     74.02999877929688,
@@ -24,11 +22,11 @@
     76.19000244140625,
     75,
     75.4000015258789,
-    75.75
+    75.75,
+    75.08000183105469,
+    74.0199966430664
   ],
   "6m": [
-    69.93000030517578,
-    70.41999816894531,
     69.47000122070312,
     70.37999725341797,
     69.55999755859375,
@@ -158,10 +156,11 @@
     76.19000244140625,
     75,
     75.4000015258789,
-    75.75
+    75.75,
+    75.08000183105469,
+    74.0199966430664
   ],
   "1y": [
-    70.33000183105469,
     70.69000244140625,
     70.8499984741211,
     71.91999816894531,
@@ -410,29 +409,31 @@
     76.19000244140625,
     75,
     75.4000015258789,
-    75.75
+    75.75,
+    75.08000183105469,
+    74.0199966430664
   ],
-  "lastClose": 75.75,
-  "oneYearReturn": 7.706523571498154,
+  "lastClose": 74.0199966430664,
+  "oneYearReturn": 4.710700363068076,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Plug This 3% Yield In, Light Up Your Portfolio's Returns: CMS Energy (NYSE:CMS) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY1BBNmlqTWUxZTJtWG5xa1gyemo0T1hfbXVyVElCLWxCSWZSUmg2X2Ewd0VmX3B3VnViOXd2clcwdHJGWG5tLU9YNlI2bm92c0U1OTBMVG5rSElfc1lrNVZHN2xESGVheDJfc2MzbWcyMVlzNEpZN2RRU2FXNTFWeHRJTUQwOTNRT0cwSUYxMjZURlZncXpObFVJRllLX0Y4NUhzQTE4ZnZyQkZOUDZmUXVqVQ?oc=5"
+      "headline": "CMS Energy Corp. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZzdidEJSdkZRSjBCVU9rRHNkdHpCcFhHNTRocVNLdlB3Uy1paUdRd2lhNTY4NlNxS2l3ZFpSV3NnRVFWclQ0SGNCV1RtcThfNmkyczFQOXVZMWZhMk5aazd4WHJrNjFkR2tNRk42WV9hcmJaWHpPOWp2QUJXajlzLVp5b3U2MmQ4LWt3WS1hbF8taTBXTGoyRF9XeGR2cmdDdng5d3hYUG4zQVN1Q0NyRF8yMUJFSGJPczB6SnFBZHJvcjZOY3MxX0xHVQ?oc=5"
+    },
+    {
+      "headline": "Earnings Preview: What To Expect From CMS Energy's Report - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckRvekdXd3RKbWE4YjhfbnpBWjVsbWNVZlRiU2pCWU1YeFpWZzZWNmMzRTBLYllTaVNXNFg3UkRKd0hTdUFSZ19SOWpheDVKc2NEeUR0N0NHb2FWLU44R0VCelZPQzd6MG56RVhzN3V4RVlfSW1OMEVuQXVMN2hnTHZSOUJUbGd2cmNGbzN3bktlREEzWTJvUXNMazNyQ2VKQ2c?oc=5"
     },
     {
       "headline": "UBS reiterates CMS Energy stock rating citing storm impact - Investing.com",
       "source": "Investing.com",
       "when": "2026-07-09",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWWdhMEN4UFFxVXpKVFZIU0V3aXM0Tk1wLVlpdm1HejFLbmpnRkljOE9hZ1YxMkp5THptTkdrT09ET0pSSXM0WUFib3E1UGxkcENRSmt5Y1dnc2tqbjI4S2lmanpPTWxYNlExUVY1c09UQTA4LUpUVHU5TFhJQU9oLVdnY1VNSXA3QldOUGNuVGdZNnNtbElhSkR6Zkd1UGtHSDVWd09ReERIM0xBT3NCeU11UkRhOGVtX3c?oc=5"
-    },
-    {
-      "headline": "Is CMS Energy Stock Underperforming the Dow? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRlV5NXlwUVRSdXc0bG5HN0dUQ2NpMTYyOWFmUTUybVVGVjZ4MXBqay1maXNVUy1NdDBXQ0JxODlIQ3hFZnNxdXdldW9ZSUMtRFIzc1NpSnRPVlN5cTZ1X1FDN1hyWmZIUzE3VXFtUGhla1ZZSGdfMEpIY1lPX0xEMGJsTzdGbGNQSWdyVWZhOWs0c0I5VlAzR3lXcjZFQ3VadmYw?oc=5"
     }
   ],
   "insight": "Tracking CMS Energy (CMS)."

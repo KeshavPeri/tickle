@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:56.132Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:12.232Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    24.290000915527344,
-    24.440000534057617,
     24.75,
     24.579999923706055,
     24.649999618530273,
@@ -24,11 +22,11 @@
     24.540000915527344,
     24.329999923706055,
     24.729999542236328,
-    24.459999084472656
+    24.459999084472656,
+    24.809999465942383,
+    25.149999618530273
   ],
   "6m": [
-    23.700000762939453,
-    23.389999389648438,
     22.959999084472656,
     22.850000381469727,
     22.34000015258789,
@@ -158,10 +156,11 @@
     24.540000915527344,
     24.329999923706055,
     24.729999542236328,
-    24.459999084472656
+    24.459999084472656,
+    24.809999465942383,
+    25.149999618530273
   ],
   "1y": [
-    29.209999084472656,
     29.90999984741211,
     29.68000030517578,
     29.139999389648438,
@@ -410,29 +409,31 @@
     24.540000915527344,
     24.329999923706055,
     24.729999542236328,
-    24.459999084472656
+    24.459999084472656,
+    24.809999465942383,
+    25.149999618530273
   ],
-  "lastClose": 24.459999084472656,
-  "oneYearReturn": -16.26155477192393,
+  "lastClose": 25.149999618530273,
+  "oneYearReturn": -15.914410742779337,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "BNP Paribas Exane Raises Hormel Foods (NYSE:HRL) Price Target to $27.00 - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNckFhVmpBSl9vbE51Z1ZQM3RhSFhrcFcwNkdUaTNDX01PNnNhNGw0TTd2NHJQQU5ENGE4dUs4REo0RXdYcWZGb0NJTFVuODBIcFpQVE9NdlB3VS05czltMXVNRUhjWHR6VVJqUkVNSXhPYU9sdWRpdzhfcGJlUURhZV9zRzcwSF85UUVVQk1YUWEzSGIweUxTUk9lazZxME5DTFZ4TXU1UjQzUUxDUk0tWmxKUTZ6dHNCdEw0Ng?oc=5"
-    },
-    {
-      "headline": "Hormel Foods (HRL) Stock After 25% Rebound Is The Valuation Gap Still There - Yahoo Finance",
+      "headline": "Hormel Foods (HRL) Could Be 6% Below Fair Value As Snack Bites Launch - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-26",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVEppa1p6eTdXZDlodzlBRkhWSlhfbDF0WFhTb2JmMDc4ZFRJYTAybnJnMUtsM1ZpNHpGbjhBRXZUV1IxY0NiVXlhQlJuVHp6YS1rbUxvbExZZklpVXlFMWpETktyREVwUHlFUEF2Wm9fOXcxUWM1Uk1oYjhNZnZwRld5a3JYQ0cwQjZZTEZJNnVfejhT?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMmRMRlBqZ09UZ0RxdzMxaUprU0RLeklxR1Vock5jbmU3VkV4MUhfOGktT0pibTJqOEU0anhaa0NTX1Q4ekhnbEVYVF9Yem9yMXdiNE1SQnVfSGY4ZTBUTmNoUWlzdXRhczZUWDc4SWZVZ1NyYlZaX0dMT2trX1NIY25VYjVMRnZxVkhYNHp1RlcybEU?oc=5"
     },
     {
       "headline": "Hormel Foods Corp. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV083b0k1aTdXRGZwdzhtUmlUcHA1OV90RDZSTTFGOXA1Rko3SVVyQjFZSzQ3UVVPRVdHd3ktel9IQ3NCSzJWdjZTdWY3YXBVQTh4WWRHWjV6NmhRVHlpTWd2NjRwZmVtb2tTTkUyNDF4TUNEaUFMX01aX28yeWdsUzc5MEtZUUJrZXpScW9UQU95dF9zTzlldVhUYndKOExTSlhJMWZUbEpjMGxsV1E4Y2dqeXdDdGF5Z0xTNkM5dlMybUFvQ2hmY2czaE5ERndwOHA1bmhNRm5RUEY2OHhkOQ?oc=5"
+    },
+    {
+      "headline": "Gary Bhojwani Sells 20,200 Shares of Hormel Foods (NYSE:HRL) Stock - MarketBeat",
+      "source": "MarketBeat",
       "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObzFDSGdmM21VVEFic0Y0Q0lUc28zRVlzb3BpOUJ2U2N2M0E2YklNbmY1YXYzWFBLazY3dHhlZ1B3dlRoY1hUOURKMFAwaXVURkN5YzRHWUNBT3Z6QnRzcU91RkZQTk5rbzJCNlE5RTFBRXEtM2NuNnRsVkJPVHkwLThJRC15WlZQaHFmUGR1dENEMUV3czhLLVFleHJSRlhpTDZTVFMwVjM4NmhYRWlfTjVtMGpla2llYk5NZW4wMHprM2NJZ3FJVA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlh4OGs2aHd1bHlTQXRWbE1KZ1F5MHVYWEtqekxfZXNzbTRYbkFMRmlQRGU2SXFVcmlRMkRsZk5ZT1g4dnlBb0pxTXRPeXV2N0ktUm40WWhsOWhoem9kSHMyZ042RGk5RW1xRmZ4SWdfeUttTmVsX3NOaVk0YkIxRGpmTWU5Mm1ETk1HN1BtbXBLMkxnRzl6U0VVZzh2S0xBQWJiVnBqN0VKR1hEQ0M5YWh6NjB5dGM?oc=5"
     }
   ],
   "insight": "Tracking Hormel Foods (HRL)."

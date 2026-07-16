@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:33.309Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:43.965Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    209,
-    221.6300048828125,
     219.0500030517578,
     228.9499969482422,
     227.49000549316406,
@@ -24,11 +22,11 @@
     224.9499969482422,
     223.11000061035156,
     222.27999877929688,
-    215.50999450683594
+    215.50999450683594,
+    217.11000061035156,
+    218.1199951171875
   ],
   "6m": [
-    217.1199951171875,
-    227.77000427246094,
     228.1300048828125,
     229.83999633789062,
     228.1199951171875,
@@ -158,10 +156,11 @@
     224.9499969482422,
     223.11000061035156,
     222.27999877929688,
-    215.50999450683594
+    215.50999450683594,
+    217.11000061035156,
+    218.1199951171875
   ],
   "1y": [
-    230,
     229.89999389648438,
     231,
     229.33999633789062,
@@ -410,12 +409,20 @@
     224.9499969482422,
     223.11000061035156,
     222.27999877929688,
-    215.50999450683594
+    215.50999450683594,
+    217.11000061035156,
+    218.1199951171875
   ],
-  "lastClose": 215.50999450683594,
-  "oneYearReturn": -6.300002388332201,
+  "lastClose": 218.1199951171875,
+  "oneYearReturn": -5.123966547211385,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Can Boeing Benefit From the Global Airline Fleet Renewal Cycle? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeFFFWTNvNEk5WVFteVNfUk5LQXJULWdWcEtXTW04MUtSNk9UcVY4UkFFTHIyWnlqRFJpeWpNb3VhdkttZ05CMDd6ZEE3NDlGRkV3WlpDVDlNLVVnaU1lSlBTc2hLa3hyWXp5emJHeVlXbER1RnlaZmU4WTNZVlotRzhsaHUyU1gtdXlNdmxXV1pVdU9KejNCYUtTUDZIRmhQdVE?oc=5"
+    },
     {
       "headline": "Where Boeing Stock Is Headed After the Ryanair Window Blowout - Barron's",
       "source": "Barron's",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZWjh6b09QRmxmd1NjblNULTRxWkhfRDJZakw4MUk2eVp2el9VQ004dGxlWThiMV81cHU2Znh4UW52b1pEXzNpeWZkUmJmcU9uNkJfWlktT0xxNUVGcHZvbVFYVGZPVlRJR0ZEQVNWYlpBa1lUZUVnOQ?oc=5"
     },
     {
-      "headline": "Jefferies reiterates Buy on Boeing stock on delivery strength - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3dCTWR5QmRCVHcxN2FwSEdWMFpGNUV4QkFjV093OTVsbmRkM2pPMEV6Q0t6NDBjOWhYdk5RaXoyYThNVFBEX1U4NE5VbkUwM2poelNBLVR1ZUFnUUs0MFpyZzRvZXFUU1F1QkkzOUpCcWYtcVVKbVUyVTdoNU51M09ONTJqQ1hYVTFCRE9xNTRTNGVDMUREU1dWdG82aHpONEZrajNhOUVKOXhqdUlJSTRiMXFGTmxPV0VVR3JB?oc=5"
-    },
-    {
-      "headline": "Boeing (BA) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUTBlTms2VlhMNzg3Wk1SQWZsdHppZFVwSTl5eko2WlhXa3pEQmpsQm84bmt4VzdhdlVVRmpQR2laN2UtdUZtYzVSWnVSRzQ4Y2NYV1U4MnE0TnpQWDhYT2dRbmZTVjJhN3BTaGdLSUQtcVE5NWZDaUZuMjRiMmdqdTRFRnNWRjdSNXI2V0FmWm9sRkJxUUE2UVRn?oc=5"
+      "headline": "Boeing (BA) Receives a Rating Update from a Top Analyst - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQk9ickJ4NDVVWFZJQzlQaTY2RDFOQk9SZVYzMHE1SEFYd1pCY1FEQl92cmFJeFBmeUJYTUtDZUhZM05OTnBBSzM3bGN3SFFyTkZVZTBPVWlvUll0bTVQZXJJRGNrUmFMNGwxMkdFREVHU3dHa1hOTzRYUFgyWXQ4d1ZsM1ZfejJRS0Q4cXdhTjJ1aEhhNDRHZnF0TDRGZGQ3cnBreW1YZmRsLVNwdlQ1amlLNkpUeGtvNU5YYWYyVzdrRUYxVlZzbklPcklTSi13RGc?oc=5"
     }
   ],
   "insight": "Tracking Boeing (BA)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:13.827Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:33.917Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    210.4600067138672,
-    212.0800018310547,
     211.75,
     216.22999572753906,
     229.97000122070312,
@@ -24,11 +22,11 @@
     251.3800048828125,
     246.10000610351562,
     243.1999969482422,
-    244.10000610351562
+    244.10000610351562,
+    237.0399932861328,
+    243.8000030517578
   ],
   "6m": [
-    256.0299987792969,
-    251.60000610351562,
     257.30999755859375,
     254.35000610351562,
     256.6700134277344,
@@ -158,10 +156,11 @@
     251.3800048828125,
     246.10000610351562,
     243.1999969482422,
-    244.10000610351562
+    244.10000610351562,
+    237.0399932861328,
+    243.8000030517578
   ],
   "1y": [
-    237.6999969482422,
     238.72999572753906,
     233.9199981689453,
     231.17999267578125,
@@ -410,10 +409,12 @@
     251.3800048828125,
     246.10000610351562,
     243.1999969482422,
-    244.10000610351562
+    244.10000610351562,
+    237.0399932861328,
+    243.8000030517578
   ],
-  "lastClose": 244.10000610351562,
-  "oneYearReturn": 2.692473385545311,
+  "lastClose": 243.8000030517578,
+  "oneYearReturn": 2.1237412201879797,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMVJOU3QtYVZMSm9Jd3RVZFd1VVRuYnZSWjV3RzhRbEw3UkFHTm5Gd2JfVlNPZWhHMmxmbzJqMm1Fb3lrb2dOR2JtVUt2YmU1Skt6X3JYWUNTM1VjbHFzSHB4TWl0enZaZG1hSnRzdFQzT1BXNEd6VkV2cEl0dGFoWVRVUWpnMTBtc25qcTFiTElhSkRSSnZJbmw0UWJBWGc?oc=5"
     },
     {
-      "headline": "Take-Two Stock Is Near Highs. Yet, The Real Catalyst Is Still Six Months Away. - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmtySEMzX2VNSWE2SS1iYjVvX0NCd1hfZkQ4T2Jyb0ZOb012THl1emhsTmx2SFVTNHhjU1MwbHpubEtLSXFkaktfM1M0bDNndnZWSnM1eElQbUdjRzU2bWliZmZFUFJyNXg0eFQtQkJrcFZ0dWNmUE51MzhJUlBlNVM1c25KT3piWE9kY2xKZmFHRFVNWW5DLUVrV1BGLUo1Nmx3?oc=5"
+      "headline": "'Grand Theft Auto 6' Video Game Sales Off To Strong Start - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYVFPZFJlbk1remgtc21zYklLRzhNNHV4S0U3ZkcyQnlEUTJUb0pmVHRwODFyZjlGMUNVMFV3NHpucTBPYlhBUDBKU2ZodjkxOXBtcU1wUHFYM3ZmSkotUzdlMG1HbXpqbnVaMFRTQm5oNUQzNld3elBQOFBlcS0tVlF5VjVWd3hLTkxyOFpR?oc=5"
     },
     {
-      "headline": "Take Two Interactive Software (TTWO) Stock Could Be Fully Priced Following GTA VI Pre Order Buzz - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmxncjVSd2dJMUVzUDBncExXLWJfZktBZFlsUDBTd2l3N090NGRIY1BCR05JSnNSOUVtU2hiSDNJQ1BnNHZkd3NyVjQ4RlRBMUd6ckVoZE15NGNzZGJmRXJRV0oxM1hzTE4zRWphMnhfRHVvbEF4M1Fxdmo1TU1RNDY0dzRPRDVoeWpENW5vRUhTQjRfdzZhcE12cTMwUE92dnc?oc=5"
+      "headline": "Fifth Third Bancorp Has $11.64 Million Stock Holdings in Take-Two Interactive Software, Inc. $TTWO - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWUdqU291Z256ZU9VNUgzSWg5ZGZFMVRaY0NKRDI1VE5Oa1J3NVFLbWFqelJ3bHkwN0ZIZldwcjlPR0s4am9TWjdHdHlzMThHZWR6RVRXeG5KNTVVQ0thOExwc2U2YWFqTm5fczc5MnNWZDJuOXYxLXNxaXQxV3VEZVIxcHQ3c3g3OEI3bklXbllzWW1OTzhHYXpqVGZKSTJNSGZDS2tmdVhOT2Q5cklKYl83OG5KRWtnbVdmZXpSZm14UC0tWHkxVTJPd0NvaU9NOGZlVTBfSThxVWU1N2JPbk1mU2d6V1VxREE?oc=5"
     }
   ],
   "insight": "Tracking Take-Two Interactive (TTWO)."

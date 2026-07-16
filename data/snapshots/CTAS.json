@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:42.198Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:54.594Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    180.39999389648438,
-    181.8800048828125,
     176.27999877929688,
     174.74000549316406,
     176.7100067138672,
@@ -24,11 +22,11 @@
     180.1699981689453,
     177.69000244140625,
     179.63999938964844,
-    183.75
+    183.75,
+    184.3300018310547,
+    192.3699951171875
   ],
   "6m": [
-    188.07000732421875,
-    184.8800048828125,
     185.4600067138672,
     187.3800048828125,
     186.6999969482422,
@@ -158,10 +156,11 @@
     180.1699981689453,
     177.69000244140625,
     179.63999938964844,
-    183.75
+    183.75,
+    184.3300018310547,
+    192.3699951171875
   ],
   "1y": [
-    213.24000549316406,
     214.02000427246094,
     221.9199981689453,
     221.94000244140625,
@@ -410,29 +409,31 @@
     180.1699981689453,
     177.69000244140625,
     179.63999938964844,
-    183.75
+    183.75,
+    184.3300018310547,
+    192.3699951171875
   ],
-  "lastClose": 183.75,
-  "oneYearReturn": -13.829490120750085,
+  "lastClose": 192.3699951171875,
+  "oneYearReturn": -10.115881096662168,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "How Will Cintas Stock React To Its Upcoming Earnings? - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWc4T0JCT3ppUno4a2JicWtmNjlOUk16dkxWelF4ODU1UmNUMWdMWWhLcFlfaG8wUkpTWktLdndZVENCcjRFRkcwTUFKcDJZMUctdW8xaWstNDFGZUpYV0lOdF9MR3lLZkdsYUxkNTZ0YmRUQm16c3RoOE1paHhGaU80VFoxUFFLS205QmY3d1JUbTJNVENvZ2JQeVA4cDIwaUk3MjMxSjk3MHRISHFHQ0VCSTh1Zw?oc=5"
+      "headline": "Cintas Stock Jumps After Earnings Beat Expectations - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sR2hveldFdTVFWXdSNl9PaUl5TXJEdC1NN2dFMEhuUmlrSzcxMXVUbkl0QTRJdk0zQWdoNFRuWXB5TXprR1Jva3lfc2FWa1psUUtaVW1JLW1OTTdoV2NVemhZNVFLb3hUNDNWYUJuVGxVbDFJdFl6Vg?oc=5"
     },
     {
-      "headline": "Earnings Preview: What To Expect From Cintas' Report - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFhRWE1hLUdEaGdHZ2NtOEtfSnhBeGtIU1FlekxONnNUY016ZF9OeEExdDRYazBDcWtqTjFrMy1YVG80V0JtaHo4cG9YVG14ZlpJZEZoQ1h3eWJiSUtMYVZZV3NHM1M2S015WWl2LVFINEM1VGk5RXA3Ymo3Vm5ldTdkS0JwUkMyT0lIUks0S3RvamVybnRLTHZVNDdzZjZ4aW1xVA?oc=5"
+      "headline": "Why Cintas (CTAS) Stock Is Up Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wWFZPZW5xdmh0ekFKczI3TGtkVnBqdjZtb0VUOGdlRXh6RHRVeXN3TEstMUxjbzdMV1pIZFpVb2pCdmRyX1Y5TE5halFiVDBDWDBpc1RYdFZqN3dPeEVBR2EtNjJWZUJYX3FOMUpzeVVUOV9kb0RfSWNtNjM?oc=5"
     },
     {
-      "headline": "Arbejdsmarkedets Tillaegspension Increases Holdings in Cintas Corporation $CTAS - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSG16ay1rR1pHWUZ3UElKX2hLQVotWWc3ZzJpa05BdG1sTm5YbGx0TG5QejRfaW1PU1RxcmZNai1PMHBHcmlqQWtrNlhtSkQxcUpfclRGd2lXVDFGVktKWEpTc2VyeXpZZVJ4MnlnZXFzMWttMlpsUFNCaVdCX0I0V0xxTFRIOTRxbUk1anBidEl3TmpqU2lqWlZldkVuQndPSzRQcjduazBGX09Ibi15S3RoeUdzbnN0b1ZzLWh1a3RTejNqdHhYQ1JZTU50eTctWWVKU3lB?oc=5"
+      "headline": "Cintas (NASDAQ:CTAS) Surprises With Q2 CY2026 Sales - StockStory",
+      "source": "StockStory",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbmJpeWV5V2otU1NFVkowV3dnR2dwam0yZVhad3RTeWdJbFFPMnlyRFFDOUxEZlRwanJyWUZPV3hOQXBzNzg5M25iSktrYUhrUXFUcGVTRDU5WTJ3dFZmb1lISG45Vjkyb3dya1FKcVdRanBGRGY3dmJsdVpOQnpONmFkUXp1QWxZTzh5WTZXQVpudktCQU96eXpZeFV4MDk1QnpLSDNkdk13WVE?oc=5"
     }
   ],
   "insight": "Tracking Cintas (CTAS)."

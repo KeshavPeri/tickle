@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:46.486Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:59.567Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    166.05999755859375,
-    159.5800018310547,
     163.7100067138672,
     165.1300048828125,
     167.1300048828125,
@@ -24,11 +22,11 @@
     167.08999633789062,
     166.66000366210938,
     166.44000244140625,
-    172.61000061035156
+    172.61000061035156,
+    166.92999267578125,
+    171.61000061035156
   ],
   "6m": [
-    216.97999572753906,
-    214.02999877929688,
     220.7899932861328,
     212.25,
     213.5,
@@ -158,10 +156,11 @@
     167.08999633789062,
     166.66000366210938,
     166.44000244140625,
-    172.61000061035156
+    172.61000061035156,
+    166.92999267578125,
+    171.61000061035156
   ],
   "1y": [
-    257.3900146484375,
     259.3299865722656,
     261.4200134277344,
     263.0899963378906,
@@ -410,18 +409,14 @@
     167.08999633789062,
     166.66000366210938,
     166.44000244140625,
-    172.61000061035156
+    172.61000061035156,
+    166.92999267578125,
+    171.61000061035156
   ],
-  "lastClose": 172.61000061035156,
-  "oneYearReturn": -32.9383461723971,
+  "lastClose": 171.61000061035156,
+  "oneYearReturn": -33.82562391698954,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "1 Services Stock with Solid Fundamentals and 2 Facing Challenges - StockStory",
-      "source": "StockStory",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdFdPYWpTNHowWGY4WU44MHlUMnpzZHk0MUp0ZE5XLUtVQW9EQ2VQWWZnZG9NUVhsMlBPRTV3am5vVEhTOGp5WVoyamw1T1lHMm1JaXpmdHFjZGN2RUFMQXA1MUs1TkR3WFk5MS1QWjJOaTk1S0oxOFUtTGt2OEc0cjFKNkJNcmR0Z1ExTjgxMjRMQzNQNFA4V0plNFBtOFBJdjF2Tkh1Q0U4SmktSHhDdnpXN0hyajZKVTV2dEh0OFJfb3Rt?oc=5"
-    },
     {
       "headline": "Reasons Why Investors Should Hold Equifax Stock in Their Portfolio - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTZDcGNaUk5CeWs0eGI4VlF0RUxfd2NrNEJrNHlyYm43NGplNDBycHNuZUhTRE1GdlBsM3lraG9EbEI4a2pwaHkxYU92eFhrTTlHN0dncU04UmpzXzNuc3ZoUS0weHI0dUQ4WThSYXF5X0tNOFFYaVBJR2pzQVZFWlhWSmhnY0JURXJpSmwwcERQX2cxNnpXdFVIZXEtWERS?oc=5"
     },
     {
-      "headline": "Equifax Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "1 Services Stock with Solid Fundamentals and 2 Facing Challenges - StockStory",
+      "source": "StockStory",
+      "when": "2026-07-12",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdFdPYWpTNHowWGY4WU44MHlUMnpzZHk0MUp0ZE5XLUtVQW9EQ2VQWWZnZG9NUVhsMlBPRTV3am5vVEhTOGp5WVoyamw1T1lHMm1JaXpmdHFjZGN2RUFMQXA1MUs1TkR3WFk5MS1QWjJOaTk1S0oxOFUtTGt2OEc0cjFKNkJNcmR0Z1ExTjgxMjRMQzNQNFA4V0plNFBtOFBJdjF2Tkh1Q0U4SmktSHhDdnpXN0hyajZKVTV2dEh0OFJfb3Rt?oc=5"
+    },
+    {
+      "headline": "Equifax Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONW9lbldHTGtndGV6ZUpqSXVFbFFxbUhPajNBSk90UlVhTE5zN3dDQWlXR3ZUSDVXdnJORG9ybDVzb0tHLWtsMThGMlhiRkdZT3NUcUdtcEttbE5RdmROeFNDT0NucXJhWEw5bUV2UmZTZXNmWlpmelpMRUJDY1drUkpkWWpFWXYwaGU4STBlWGwxQktWanhLY3NPY2xvUUwxajQxbFdEQ2tFTENxdU9oZEJUUEVTbTlRdkRUTzlqQVE?oc=5"
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONTdmZ05LdlN5SW5sS185RTFvUWdZbmtRby1Ma2JiMFNWZ0ZDSlJQdDdXSVdaa1RBYmtIZkdXS1NOTlNLclVoLS1WN1E1ZE9XcTFnQXhKM3c3UlRMWTVaNXg4aG5JOEQ0Q2tnTVU1dzVLdGVkQXpjZFc4X05qMUE5MC1MdWE5MkUwaFdoMDc3NEJMQmNfTVhQX1JQb003Z2h1QWdNR2pjc05md2g3bU90MWNGcDlsUzZ6dDk0OEFWUlFvUUFmdlpmUDBpa2RRZ3NxcUM5Wi1GQ1lEMnV6TEpV?oc=5"
     }
   ],
   "insight": "Tracking Equifax (EFX)."

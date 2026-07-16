@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:37.207Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:49.638Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    246.7100067138672,
     253.75999450683594,
     262.3500061035156,
     268,
@@ -24,10 +23,10 @@
     250.74000549316406,
     251.3800048828125,
     257.57000732421875,
-    256.42999267578125
+    256.42999267578125,
+    258.114990234375
   ],
   "6m": [
-    366.25,
     354.94000244140625,
     354.5799865722656,
     338.6300048828125,
@@ -158,10 +157,10 @@
     250.74000549316406,
     251.3800048828125,
     257.57000732421875,
-    256.42999267578125
+    256.42999267578125,
+    258.114990234375
   ],
   "1y": [
-    317.989990234375,
     308.20001220703125,
     308.0799865722656,
     321.4200134277344,
@@ -411,12 +410,19 @@
     250.74000549316406,
     251.3800048828125,
     257.57000732421875,
-    256.42999267578125
+    256.42999267578125,
+    258.114990234375
   ],
-  "lastClose": 256.42999267578125,
-  "oneYearReturn": -19.359099169511865,
+  "lastClose": 258.114990234375,
+  "oneYearReturn": -16.250817647278996,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Constellation Energy Corporation (CEG) Stock Moves 1.16%: What You Should Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeWNTa3lTMWtCaUNUWDg0eHpvcVJnQ0I0NEFHbW5Pc2l1bGstN1ZGZExQV3BtSzRma3RqU3Zzb1cxakFJb0U3ZWdkSS1XLWFBXzAzU3ZUbTBIdExwV1ozaUFxR2FsVzhBWGNqcWYxMEo5R01rTlUySFRLR2VyRFFVaTRLdGhFbEJWQTc0RzB2TU9OcFk0cVRVN0s4QVlTc2JqRDYyZDhTWjVGMUU?oc=5"
+    },
     {
       "headline": "Why Constellation Energy Stock Is Tumbling Today - The Motley Fool",
       "source": "The Motley Fool",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGpkbHE0VmNEUTlOMlVUQ0ZFU05scXlhQVN2a296dF85clBrRThVTGtKZ2dGVEtnSHBqX2xrcjMyS3AyanJFTnZDREk5QkNjajZrZXpoUjlSMDlzNXNfUjlkV3hWa1B1RkdwcTNza2pMN1JDNVZmbVc0enRkdTJzYzBLaTdZY09kbFZVTXk0UW5MUGl5SkE?oc=5"
     },
     {
-      "headline": "Constellation Energy Beat Earnings Estimates. Wall Street Cut Its Price Target Anyway. - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMTU1Z3pVTWs0eUc5dnIyYnJHOTE2VExaMmdBakt1enFUcUdac0RIekhoUW5pQllXbktZRmJYYnBtb3NmVUFRRXc5YjRGMlYtM1llWUMzdkY5V0FuRE12ejVoZ3FwOEtSRlNEakdTX2JkeTc2eXhXa3EwNkxkX3luVzQ3S3Y4UVZVZjBYSENMZk53cjdzLS02WHo5SmZZd0Y4b3A1YjZ0d0lrR3BsRG84?oc=5"
-    },
-    {
-      "headline": "Constellation Energy Stock And Other Nuclear Picks For AI Data Center Power - simplywall.st",
+      "headline": "Constellation Energy (CEG) Is Up 7.0% After Nuclear Expansion Advances To Power AI Data Centers - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZkk2OE9QT3ZfU0NrWTRaR0NrRkVVUUU5a20xSkVaM3RpR3o3QTJfM1ZScmV5MmJ2NkJQbTVaeUpIdzF3al8tVVR2WDRJcnBmRUw1a1g3aGE5SmNwd19Oa3lxbTFZNTdKdmVqY2ZYa2lzS1MyaXk2V0FkWWEzWUx1ZFV2aVFrTXNVU3pOTEpSVFZma1EyU1plMC16RHVrd0g0dzJtZWRHV1UxM1FwVEo5NmZFb3UxME1wd3c5OXV4dXNyTnd4VFpJZFR2TDNnTGFOcWVpYWRR0gHbAUFVX3lxTE13RlpaX3g5WFBUOUZURFVlMnpydGN0RkRWYXFvWnJHbWoxUEloTEhLZFB3V01meUlwTUdOUzl3QXNwOHlqRE1LLWNNMk9WNFlONjhuTDVqNDRCckV4djR6anV2ZEwyMmdsRTVBQ0lxZnVrU0hHX0IwbzZ4cUdVWUM2VHc0RHl1VHo2c0U5anNEeTNHYjBfNjVqTVJQZ0h3U2tZbEFSU3E0YW9PY2hiQ3FUWnZuNXVrLUowVlgxVjNUYW9GS1hNN1ExR3pGdnZINXBnSHdSWE5VZEZ1TQ?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc3ZES24yUEpkbmZfWmRLWnBQaVpMaTZVcFE0OEtDN1Rmakt5QnNOcUJlbHFjaklUNEUwMTVmQTFvdkpiVmhZSWNMN0NneS13UGFxRDI5NjViTjZzcWo2dkE0RlFHSFNMazRRUmI4U0xHTDdqRzE1bFJJVjhOT3VrYzZjb2VIZjlPUzg0UE9IcmdVRHdUWkdlS2hTcHE5bmZNMXBSTEt1TmJkUHlfUnYxNVJzWnFtZUx3ME9GemdhZlFxS1JFTXViVUJ4VXB2THlBY2xlclVn0gHbAUFVX3lxTE9kTjY3ajViQXpoWjR5a0Y5VDJJWlFNMkFaU0xUb1U1a2Q3RkFSZG1fYzZRRHh1WjdNMEhkc1R6aFVCODNZbms5TmFya3FzWlJob0RGUUZ4Smg0SVZMby1HXzBOUWQ2bTZJMFZNMGQ5b1VTR3JObWZCd0R5T3ctVFNOVVFyZ01wRlhEdUFFbzJBODRaajd5czdzVWFVNEk2TTg0OE9fT3JuTG1SbFFiNWpWakhhSmU1TGl2MmZfRDZidWp1NVI2cjFmQ29peld6OUF5WnB6N2NUSk4zNA?oc=5"
     }
   ],
   "insight": "Tracking Constellation Energy (CEG)."

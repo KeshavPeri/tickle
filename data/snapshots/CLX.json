@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:38.824Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:50.971Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    99.31999969482422,
-    98.30000305175781,
     96.81999969482422,
     95.9800033569336,
     97.51000213623047,
@@ -24,11 +22,11 @@
     93.91000366210938,
     93.06999969482422,
     96.55999755859375,
-    95.05000305175781
+    95.05000305175781,
+    94.75,
+    96.94999694824219
   ],
   "6m": [
-    100.83000183105469,
-    100.8499984741211,
     101.27999877929688,
     100.61000061035156,
     101.76000213623047,
@@ -158,10 +156,11 @@
     93.91000366210938,
     93.06999969482422,
     96.55999755859375,
-    95.05000305175781
+    95.05000305175781,
+    94.75,
+    96.94999694824219
   ],
   "1y": [
-    124.16999816894531,
     126.9000015258789,
     129.25999450683594,
     128.3699951171875,
@@ -410,17 +409,19 @@
     93.91000366210938,
     93.06999969482422,
     96.55999755859375,
-    95.05000305175781
+    95.05000305175781,
+    94.75,
+    96.94999694824219
   ],
-  "lastClose": 95.05000305175781,
-  "oneYearReturn": -23.451715830394814,
+  "lastClose": 96.94999694824219,
+  "oneYearReturn": -23.601264158794333,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Sumitomo Mitsui Trust Group Inc. Decreases Stock Position in The Clorox Company $CLX - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPckpZSlhwa3UteGJmd29VYndqNU9lRGtiam11eHB1QS1BZWFlQUk4eGYzZlBqQVNGR284b29manBVMEVFRDhtS1YxRkZQS3RfRVE2T1JJanhzX1V0YmN1dS1HN2hOV1IybnNuWndpR3dQdE5NYXNxRnpoUU5WT0daT2p5dnVMb2lha3lHYXdzdWFGUWVMdkJyWHZna2dkaHNvcVVYdnNZb0FMa1BGd1BNYjJ1RzdLWHdsVGM2S2hudnl3djltQjY2Q3ljN2J4VW5lc1JXZXBIb2ZhTFE?oc=5"
+      "headline": "Clorox Co. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZGZ1QmpMWExteTNuZEVFX3RLUmtKM1BRNEhEVFFtRU9YQVcxQjFlQUd4ZlhZWHlfMWpfaklhaEE0ZThEcUVYQ2FIOGU4OU8tc3VqTGEwdmlvbFpfN0VYNEFveE41VXpPVUt6MFlQNWVJWlJUN01FZTVGRE9EMkN6bUE0YUxKR0JzeVM1aGhfX1d3ci1mVmhQdjFpZ2VQME5ueWlqZ1hNQUl4NXZQWDJKd3ZsUlZ4Q1FBZXItX0Vxa1REckNxQ0l0X1RWTVRhWXdBOXFBYk9B?oc=5"
     },
     {
       "headline": "Has Clorox (CLX) Fallen Far Enough To Merit A Discount? - Yahoo Finance",
@@ -429,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdTdibURkYlRSbF9RNFRPdWd5TWRIVFFXUm1mRXREcFAxQ1ZlUVVkYy1wNl9tZ3VRWWdoTGNtY21QMHk1ME1oc0ZuU3F6alh3Sk8wR3gxS3VPRVg0a0F1c2J3dlFHbjJsTzBjeGZmZ3ZXX05tdDhfOW55UjltNU1IZWJJQ3BKZHhZSkR1cFRpQmtHYXppX2pFcw?oc=5"
     },
     {
-      "headline": "Is Household Segment Strength Enough to Sustain Clorox's Growth? - TradingView",
-      "source": "TradingView",
+      "headline": "Sumitomo Mitsui Trust Group Inc. Decreases Stock Position in The Clorox Company $CLX - MarketBeat",
+      "source": "MarketBeat",
       "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFFVRWZDdWdZWndlUUpycldRbjRneG5lWk0tSHUxUFNxR0l1cko1QVU3WjE0OU80M2Ezd2FQNlBTdHFBa094Mjhabm14QTQ0REtnaU5vc2dVSlF1bEVWMFBVV3BtS3RMTjRmTUhKc3lSMmZpMjBnZXFBQXJDaHpscnNTZjZXMFBtamJJalBka2F2UGRfaW9GVjg3T1FhYkpBZFJpRDV4eVhueGpoUllHLWpTanFCWEJ3VHIw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPckpZSlhwa3UteGJmd29VYndqNU9lRGtiam11eHB1QS1BZWFlQUk4eGYzZlBqQVNGR284b29manBVMEVFRDhtS1YxRkZQS3RfRVE2T1JJanhzX1V0YmN1dS1HN2hOV1IybnNuWndpR3dQdE5NYXNxRnpoUU5WT0daT2p5dnVMb2lha3lHYXdzdWFGUWVMdkJyWHZna2dkaHNvcVVYdnNZb0FMa1BGd1BNYjJ1RzdLWHdsVGM2S2hudnl3djltQjY2Q3ljN2J4VW5lc1JXZXBIb2ZhTFE?oc=5"
     }
   ],
   "insight": "Tracking Clorox (CLX)."

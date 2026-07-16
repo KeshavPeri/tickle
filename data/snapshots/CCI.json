@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:36.729Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:48.980Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    93.37999725341797,
-    92.04000091552734,
     92.16000366210938,
     88.73999786376953,
     88.12999725341797,
@@ -24,11 +22,11 @@
     76.9000015258789,
     76.68000030517578,
     79.66000366210938,
-    79.83999633789062
+    79.83999633789062,
+    79.05000305175781,
+    79.47000122070312
   ],
   "6m": [
-    88.87000274658203,
-    88.69999694824219,
     88.41999816894531,
     87.12999725341797,
     85.08999633789062,
@@ -158,10 +156,11 @@
     76.9000015258789,
     76.68000030517578,
     79.66000366210938,
-    79.83999633789062
+    79.83999633789062,
+    79.05000305175781,
+    79.47000122070312
   ],
   "1y": [
-    101.94999694824219,
     103.79000091552734,
     104.23999786376953,
     105.13999938964844,
@@ -410,12 +409,20 @@
     76.9000015258789,
     76.68000030517578,
     79.66000366210938,
-    79.83999633789062
+    79.83999633789062,
+    79.05000305175781,
+    79.47000122070312
   ],
-  "lastClose": 79.83999633789062,
-  "oneYearReturn": -21.687102768209336,
+  "lastClose": 79.47000122070312,
+  "oneYearReturn": -23.4319293576438,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Crown Castle shares may move 5.4% on earnings report - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHV1UzdkZ0psVExuMENVNktIUGloQTVyNnlJTE9vRm1FY3o2RlRid01tLVlOcXFucHpCa1BVamZ5aElPUkxYbEpyVmZDREVkR2lFNkc3TDd6NFpBbDMtOU02N2RmdnhFSVhxZzhvWUdVTUhoNmdycGppMjJmVEc2ejZLY1RUYmxFY1FDeTVyTEdUd0dlZ2w4bFNRZjNLRnFqTGlyNjBXU20tOXA0WXNVZDBR?oc=5"
+    },
     {
       "headline": "Goldman Sachs Calls Crown Castle (CCI) the Largest Pure-Play US Tower Operator - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDMyeHlOUlVoaWtNblN2SU5tNkw4bzhkUnJVXzVmNG9UT2FIX3FlRU1GT3Z6Nm9WcnFpck5ocUMxc2h5eEFfR3Yxb2lBSE1LLTNzOWRjV0FOcm5CeUJ4UHVqMjhSejB2V1FSaF9CaVk1QzlNV0RyTF9pbDBPOHBub3FjZDRPX1dwcmdsS25LMWtvMURqTnV5RER3?oc=5"
     },
     {
-      "headline": "Crown Castle Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWVSa2VMX2xRU3JiS2s2YkJyODZvUUFBeXhCZkQ3ZTJkU1Y4bU9ZeElsRnVnNE9LUmZaTUdkSTJXQzVLZE1hT1VVS05BVV9qVGlpZ1F0NFdPX2IwSWVwSUhFZUo4VzJRdWhnQUppTjQ3N21RZzRxTFdMekN0X1hsaXlKQUNMNU9yczdBSTJ1Ul9XRkhMa0h1RkZzUDBsanFZYlZ0YlVWRUN3aHRxdk5Zc0tqM2FBdnJ6S2YzSnhXTERuN2lOLU93?oc=5"
-    },
-    {
-      "headline": "Crown Castle Climbs as Investors Revisit Pure-Play Tower Story - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMG1kLVZTTDBOM3BZYlRFd1RNUVdULXg5Y2xJNEUtY051YjY5dnhwd2JiRTZpZl9SZlFMOVVJYm1JakVlSEVuRTN2ZWdHVl9aSmJWR25BZXRTUEFSN2lsNTVoT0E4Z0p2Uk5mdktZbGZIWmdudGZta05SeV9vaVczYzNpSlhYNXNuX3Y3c0pzOVhkSVlpb0ZKM3laNA?oc=5"
+      "headline": "Crown Castle Reports Fourth Quarter and Full Year 2025 Results and Provides Outlook for Full Year 2026 - Crown Castle",
+      "source": "Crown Castle",
+      "when": "2026-02-04",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcko5VFV2emd1dHdsS2d6VGlHaWJBSmNpa0pLWDBRaFp0ZG9LYUEtMXRmR3VqTWh6NWlhR1M5dGdZb2hvalc5RDY2emFGaHNaYTduNUdsNGN4ZmNZdUpwekRTclpIQWNSRFhmUm5QbW1HZTNCcFU4T1RPc2RZNE5YTmE2UVlnU0NkaFFZMzU2VXNPSmhseFZ1eEZxcXhpeU5XOUotZ1IwNXM0cVo4MDFKY21HWWEzaDI4VGV3blo5TGh1WnBpX01hbFRn?oc=5"
     }
   ],
   "insight": "Tracking Crown Castle (CCI)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:31.611Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:42.045Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    131.13999938964844,
-    133.91000366210938,
     133.8800048828125,
     136.11000061035156,
     138.47999572753906,
@@ -24,11 +22,11 @@
     118.13999938964844,
     119.83999633789062,
     120.33999633789062,
-    118.83000183105469
+    118.83000183105469,
+    119.93000030517578,
+    121.83000183105469
   ],
   "6m": [
-    144.75999450683594,
-    146.61000061035156,
     149.75999450683594,
     152.6999969482422,
     144.27999877929688,
@@ -158,10 +156,11 @@
     118.13999938964844,
     119.83999633789062,
     120.33999633789062,
-    118.83000183105469
+    118.83000183105469,
+    119.93000030517578,
+    121.83000183105469
   ],
   "1y": [
-    145.72000122070312,
     152.7100067138672,
     156.0500030517578,
     152,
@@ -410,29 +409,31 @@
     118.13999938964844,
     119.83999633789062,
     120.33999633789062,
-    118.83000183105469
+    118.83000183105469,
+    119.93000030517578,
+    121.83000183105469
   ],
-  "lastClose": 118.83000183105469,
-  "oneYearReturn": -18.453197340371727,
+  "lastClose": 121.83000183105469,
+  "oneYearReturn": -20.221336864107656,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Piper Sandler Has Lowered Expectations for Apollo Global Management (NYSE:APO) Stock Price - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUGNCU2JULVV3TVZtTTBaZmVwNXdDUUpRQVhHQVVTVkstMm1nY1RPOGw5TjlnZE5lbnVKb1FTSmhRTG1XYTBKa0ZtUU5yRzVwQVZkSkZVd2Iyemk3eW9WR0JOaDZpc3REdzNiTkdER2xLb1hvZUdya05HZjIyb0E0bzRidGFnRjJMZmxDRFV2TkN1WmlMZV9HeF9PS09IeDhXWkRKM3pWUjE2UHdBalN3VDNmZTg4OWVCY3k3SzBkNjZQLUVrSThsSWhiUUFpLXJhLXloSU1Eak8?oc=5"
-    },
-    {
-      "headline": "Apollo (APO) Stock May Be 21% Undervalued After German Unit Bid Interest - Yahoo Finance",
+      "headline": "Earnings Preview: What To Expect From Apollo Global Management’s Report - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU0EzYzBOVVNRdEdmejl1aDZsYVpydWlsRXZiLWl1clhvSFptVV9GM3JOYkdzU2hET29WUElTY0NiS1h3VGlLUXY2Z004ZGdLR29KR21NTV8tdVAxdXFETVRYZU4wZmh5UDNQdzlQaUlCMko0NEFLVC1DelhLWkpTNDhoUDdTaHk1Ykt2WEtFUy0ydw?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaU9uVnlYRllUNUYtTVRlT2xFRXRoVEJiTWVuZ3hPemdNWGdmVmtzYjA0X2FGZ2xsZ2RXRGUxb1VJbGtKS0FadDU0aXVjNVBmVGRRMzNhOEdpWnQ3NHJEZmJ0c1d5SzlaWkJhamZGb0hUWm9sSGR3SXZIYVNPdVJMUkljd3JDMGw0NFM0SmMtSTlpdDk2SzZQcFFRVk5iVFVBT1hBeQ?oc=5"
     },
     {
-      "headline": "Apollo Global Management Is Due For Multiple Expansions Despite Private Credit Headlines - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdHNZYjM1dGM2cldjUExQNHVhY1pIZWc5WG9BMUVnWlB4TEIxenk0cWpsdGVVMVNEVDVzYW4xUTdPQTlWVjZlS200UDFLdzJpNGVjangybmNHTEFSLURmQ1h1cm1oM2VWYW5XQ2QzLWlrSGpzbk9sVGRfT1ZReDRrMy1PczVMUjA5c0Jva1NmdnB6b0t5TDUyRTBDRXhWWFJwUGNURFBweElHZG1rUFhTcDlGQ1BvelpuNTVmeWh3?oc=5"
+      "headline": "Apollo Global Management Rises as Investors Weigh Sector Strength and Recent Company Updates - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekxxbzNZYTExOEFkLUZENkt1Q0JFUWxJaDlDajdIU0wwX19lR1piZ2RLRm1rNTV4YWhKNTcyaVk3dTFrVjZoT2RkQ3V2WFV1V3NqcUQxY0xHcHZKT1A2N1d4U2JJd0JrLWl2c2tPTTgxLWoyS0Zpb2NPRDV3Umo2emlmY3o3SlpzSzBGTnVPQ3d2WllaSG1Oc3RjanJROTBpdjUtT1MxUlQ5WDNVMEI2S2VZb0RBM3lrYVlPYTE0WE9Bczg?oc=5"
+    },
+    {
+      "headline": "Citigroup downgrades Apollo Global Management a... - Pluang",
+      "source": "Pluang",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMHdVeTJVaGoxNS1iT3R3ZGtaNTk0Qm5pLTNVdGFfZVBQbFhoMmYxc3RyaGVsYW9Sb3l0U1ZiQTVOQ0M0NzlWNGZfQ0hKbnh3eUlBalhDWVB2VEVsaVFSM3ZTRmV4MnJmdlZfcEV2MXMxRDh3N3BUMVhRMC0xZWdTUklJUTRIb1lHdWFQb0xn?oc=5"
     }
   ],
   "insight": "Tracking Apollo Global Management (APO)."

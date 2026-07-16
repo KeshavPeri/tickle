@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:04.250Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:22.176Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    397.3599853515625,
-    390.3399963378906,
     390.739990234375,
     399.760009765625,
     393.8299865722656,
@@ -24,11 +22,11 @@
     383.3399963378906,
     384.3599853515625,
     385.1000061035156,
-    390.989990234375
+    390.989990234375,
+    384.92999267578125,
+    395.6300048828125
   ],
   "6m": [
-    483.6199951171875,
-    472.94000244140625,
     472.8500061035156,
     478.510009765625,
     483.4700012207031,
@@ -158,10 +156,11 @@
     383.3399963378906,
     384.3599853515625,
     385.1000061035156,
-    390.989990234375
+    390.989990234375,
+    384.92999267578125,
+    395.6300048828125
   ],
   "1y": [
-    505.82000732421875,
     505.6199951171875,
     511.70001220703125,
     510.04998779296875,
@@ -410,18 +409,14 @@
     383.3399963378906,
     384.3599853515625,
     385.1000061035156,
-    390.989990234375
+    390.989990234375,
+    384.92999267578125,
+    395.6300048828125
   ],
-  "lastClose": 390.989990234375,
-  "oneYearReturn": -22.701754661167524,
+  "lastClose": 395.6300048828125,
+  "oneYearReturn": -21.75348904247401,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "How To Get Paid To Buy Microsoft Stock At A 30% Discount - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWTFfakowTHZEcmZtM1pnNUdKaGhEMVlUc1RrczJKaDJLdXhhRWR2VnlOdzJYZUVkZkJWZ3VWWHZCLUZFVkdIQUNEZ0otUGtLbk40bFJ4QV9rLXJ3cVFWanhTMmYyVExXdzk1d2NLcWVXbzVFMEp2Zk9POEl0dm9tNVhnem43NHREQkcya2tIVDBydXRSQWhDWkdGRzl1b00tazVKVkNjTmdhT0FqTGtVcWhVdXV2U00?oc=5"
-    },
     {
       "headline": "Prediction: Microsoft Stock Could Go Parabolic After July 29. Here's Why. - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOXRkdUVjR1pXMERxbjBETUJjblMyQi1OWi1hSV9tMFBGMkVDV2pPcHNqNFp2ZW9pOTRiaWhPSTY3aTR3dGdSM3VITmxOVjBhbkJlajBsQUdZSC1vTXFwX203WkZsR3VqM3BpOS16NHVYTFlFengwOXVYUTR6ZjZ6Y2hnUnp1WFFvcjhoRXM0cnlwRWY5NjdraEFqb244b0RhakRfcnF6dHBTSVk?oc=5"
     },
     {
-      "headline": "MSFT Court News: Microsoft Class Action Lawsuit Alleges Securities Fraud on behalf of Investors with Losses - TradingView",
-      "source": "TradingView",
+      "headline": "How To Get Paid To Buy Microsoft Stock At A 30% Discount - Trefis",
+      "source": "Trefis",
       "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWDl4QnJmdTN0TmhIRUh3Z1gwbGZ4T1c0ck83QW1PTkNyck9ER0dUVFBnMm5wclpaUHEwQTJuQ3B0al9RUHAyNFAyMUVoX0hLdmw3UUNjSWQ2RmllRkZSRTd5Tm44MjNiMWVDNm84SjQ1bUhMQ1puRmNJbWtSQ1ZkS01vYXZ1MXRVVk9BanBxRVp1dmNoeFpGWUxtcEk1R1FESHpPUHpMRmgwZlczWVJJb3ZBb2hCaVhXdmotbnNaQ29hdkRIMGZrOEhwZjdSa1g1VVNyMGZlamx1VnpUMkVJRThUem9oTHduald5eHdNXzJGU0prMWxmSXZiaw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWTFfakowTHZEcmZtM1pnNUdKaGhEMVlUc1RrczJKaDJLdXhhRWR2VnlOdzJYZUVkZkJWZ3VWWHZCLUZFVkdIQUNEZ0otUGtLbk40bFJ4QV9rLXJ3cVFWanhTMmYyVExXdzk1d2NLcWVXbzVFMEp2Zk9POEl0dm9tNVhnem43NHREQkcya2tIVDBydXRSQWhDWkdGRzl1b00tazVKVkNjTmdhT0FqTGtVcWhVdXV2U00?oc=5"
+    },
+    {
+      "headline": "Prediction: Microsoft Stock Will Skyrocket After July 29 - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWpGanZpYzh2aGdYeVdxbmJpMTJMRDlUeUhiazF5WGt6TmpKSmM4RlRBbDBVc3M3NTR2VXJLRGxLSmVqcWtFbmxXaktGdGd0NHJIYVJ3eHUwUEZ0M2xXbzN4LTNmZEpqbFNobEVPTGpRVndjbFZ3dGpGRkNhRm5uNGlERFY5LVlOWnRDaDVBcWFoVzZBbVRLSTRQZTQtdjlmTmJCNFVQeU95Zw?oc=5"
     }
   ],
   "insight": "Tracking Microsoft (MSFT)."

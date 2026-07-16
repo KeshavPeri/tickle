@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:16.915Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:37.262Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    216.7899932861328,
-    222.44000244140625,
     228.4199981689453,
     240.0500030517578,
     237.38999938964844,
@@ -24,11 +22,11 @@
     264.32000732421875,
     272.6499938964844,
     272.5199890136719,
-    266.7099914550781
+    266.7099914550781,
+    260.1099853515625,
+    255.1699981689453
   ],
   "6m": [
-    242.82000732421875,
-    248.3000030517578,
     252.63999938964844,
     257.6099853515625,
     246.9600067138672,
@@ -158,10 +156,11 @@
     264.32000732421875,
     272.6499938964844,
     272.5199890136719,
-    266.7099914550781
+    266.7099914550781,
+    260.1099853515625,
+    255.1699981689453
   ],
   "1y": [
-    319.54998779296875,
     319.4700012207031,
     329.8999938964844,
     331.7300109863281,
@@ -410,29 +409,31 @@
     264.32000732421875,
     272.6499938964844,
     272.5199890136719,
-    266.7099914550781
+    266.7099914550781,
+    260.1099853515625,
+    255.1699981689453
   ],
-  "lastClose": 266.7099914550781,
-  "oneYearReturn": -16.53575288887972,
+  "lastClose": 255.1699981689453,
+  "oneYearReturn": -20.12708636368543,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Zebra Technologies Earnings Preview: What to Expect - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUG54N3ZZS2ZDenc1V1NnZmtfUVFEdEt2OHJfSE9yOW96dVd2aHotTWxqUWVnR05rV0Nvdi1ZMTNTQXJaeVRDbWFkVUM5cHJzdjlvY0tEOS1wRXJEMkxoWmxqSWVyMWJ1WXVmODROODRMRDU4ZHVGVk1RY3UzWkNVNi15QmVmc3NmUUlJc2NZS2RiRk5IRnRIZkYwcDVaMVZRcGpHTWluZDZUSm8?oc=5"
+    },
+    {
+      "headline": "Zebra Technologies Corp. Cl A stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTmprelpEa3JydndFbU1Xeno0NGxrSUk5a0x3MW9MVmJwdi1VOHRwUmJGVndCQW9aN1FQMVcybVlWVUNKRnV4YVFFaWtRXzNoWWFBX0FYNWVCd0VibzdTZVVDYTZ4SXI0RGpDTkFNeTlXbERfQUYwa2lJZU9VamV6X3otUGVwNkxKWUZ6M1MxNFZiRE52eHJ1MzRabGhYM3JUeUZIOWxRYjhzdjVwZG9CdkFjMUJXbjUxZFlVY0dmdnJIak9wTTZjRW1TaHUtaHhGN0NJQ0dSSnBoMmFid05OR3ozMWg3bUduZWEzVmJuejJGWFNPdE9tcQ?oc=5"
+    },
     {
       "headline": "Better Robotics Stock: UiPath or Zebra Technologies - The Motley Fool",
       "source": "The Motley Fool",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYTAzcXVBZ21QOTFDd2dQLUFkNHFYVkw4SVl5YXdJZWctWWJ4bmRBMXFkNDFxYlNhRW0zc21IRnFyeHloZEpLWG1nanY1aF9fTERFX1lNaGFRWDRkRlNsU0ZKVVo2ZTVvMjFHZDRyWkxFNHV2OWJaQ3JlR3pEQ0tYUTRlZ1l1eDh0cFp4eGZvWXNCOVA0MG1KTw?oc=5"
-    },
-    {
-      "headline": "Zebra Technologies (ZBRA) Lifts Outlook On A Narrative That Still Sees Undervaluation - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWJYVGtRcU9BWnhwWDZkeEtSdkc3c1NmbGpqVjl1TE5qZ0VDMW9odXpjMDlWaGl5NjkydW9PQkNQbTFzR05aMzVmbEpULVU0aHdvcTNFbXhER0FBd2I1cWxMbXM4cmtKc1ZaMDhmREVheWQ0NFlWYURBMkZPU04zLVRrV0dlVGM0RkQtYl82NEpVRDYtdGJlc0U4aU1mYnBOeTdaZA?oc=5"
-    },
-    {
-      "headline": "Is Zebra Technologies Stock Underperforming the Nasdaq? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWxCdTI1YXlnRGpPenJZeldQTzlkRkFNcEdvYU5SSGJIc1dKMGNlc1lXbUhGTkk2VWpiRFZrU05neXZLZThHNEQxYTNiSEFibVpldzBibWVPTE1VaWxMdlFvUEI4MWhOZmFVSFBIdGV1V2tLcUdZWkVuNkVaekQxb2k5NnhsM2ZvbjlLTUZLMF9fR1VzaHBHT1hiSUNxWFk?oc=5"
     }
   ],
   "insight": "Tracking Zebra Technologies (ZBRA)."

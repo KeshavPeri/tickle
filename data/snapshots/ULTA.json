@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:14.444Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:34.489Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    470.75,
-    476.4200134277344,
     467.739990234375,
     471.6499938964844,
     463.67999267578125,
@@ -24,11 +22,11 @@
     455.1099853515625,
     460.239990234375,
     469.20001220703125,
-    473.3299865722656
+    473.3299865722656,
+    469.1199951171875,
+    466.1400146484375
   ],
   "6m": [
-    605.010009765625,
-    620.0399780273438,
     631.1500244140625,
     650.0599975585938,
     655.3599853515625,
@@ -158,10 +156,11 @@
     455.1099853515625,
     460.239990234375,
     469.20001220703125,
-    473.3299865722656
+    473.3299865722656,
+    469.1199951171875,
+    466.1400146484375
   ],
   "1y": [
-    473.7799987792969,
     485.0799865722656,
     490.07000732421875,
     493.29998779296875,
@@ -410,29 +409,31 @@
     455.1099853515625,
     460.239990234375,
     469.20001220703125,
-    473.3299865722656
+    473.3299865722656,
+    469.1199951171875,
+    466.1400146484375
   ],
-  "lastClose": 473.3299865722656,
-  "oneYearReturn": -0.09498336953664463,
+  "lastClose": 466.1400146484375,
+  "oneYearReturn": -3.9045049163261054,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Domino’s technology chief Kelly Garcia to join Ulta Beauty Aug. 31 - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWgxT0R4SW9jbHhUVTRQbkl5SFl2MHhZcUtuMGRCX0Y3V0ZvejkzTExMWlpnZzJQUVU3TXBXcXJwd29FV0g1bjVsbm9rVWltdG1YWVRnckVuWnVUeFNUbUZZX1J2VHIwRWJjSnJpLTlwdzJ6QjdqQlFqcG9xUzdQaFpDY0tEMUVzempGSjlBVWRYMEhRazViTk04ODJReXdHTWhMSTRFMkY?oc=5"
-    },
-    {
-      "headline": "Ulta Beauty Stock Hits a New 52-Week Low: If It’s Not in the Buy Zone, It’s Awfully Close - Yahoo Finance",
+      "headline": "How to Play Ulta Beauty Stock After a 24% Plunge in 6 Months? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQczZSZzNyRHMzbHh3M2hRcjR4dlRqeWtfSWowNXEzelp6WkE1anhLWjBIRWVmVThVcTZJeDNBNFpSUkU0UGd0OUhtcGhxN2VvTlc0STR1Z1NMYjRvN0VVcWlJNDlqSktTSVVXTTVqMFJuVGFPdEpZRHFoQ3d4NGVyQk0wYU9LSmZPQ1pkcHNTcHpoWTdx?oc=5"
+      "when": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY05NX0lLZmtJcmJFZ1g0MlFIRGdmNVExbDlNR3dsZ2Y0RUZQS3JFSFVHbXVCQTVfZ1I5d2hKSDJNM0FaZkFna3NCcVFZU3I2Zm14eklUQnVha25hcjllR2tHM2VPVWNGbVZ2Um50dkhpS181NnBxVko3MzhtZXl1TUUxZkVGNzVESU5wNmNIYVc5Sjdv?oc=5"
     },
     {
-      "headline": "Ulta Beauty Inc. $ULTA Shares Sold by Candriam S.C.A. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjgzdnE4N1l5UXYxOW43UFFkRm9LdXhMYXR3V3FWZ3NwdWx5NTluakF3dFlPTG1LMFQ0aDBsMEZ2UmFQd3VITXFRNklLMEg2UWx6Y09PYTFXdGhIMXplRGdzNGZqSmpfRlNDTEN1RFBvdjYwVWpXb3E1T0VaUUpBVXhuN1dhaE1SVXhpS3ZTSFFTUmU5UXlBa3RBVDVlZHNSNTBtWGJyVWdZV3ZiY2c?oc=5"
+      "headline": "Ulta Beauty Stock Hits a New 52-Week Low: If It’s Not in the Buy Zone, It’s Awfully Close - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMnJfMEp2WnRvMGxXMWhkZkxxME11VlVjZGhKUW5sTXg3MjJDZEI1NDhyb1I5eUdTM1AwSG9TWmVCa0R1QzdmUTZDT0t3SW5YZTZlVGVFLUxxU0hVR0Z4OU1lWnhTMzVqUk9YOW9IdHIybmtMRmQ3dXViOFB4UGhFTFI4eko5ZkZKVTl0YU5oak1QbFdNX1IwYlhlb2dBSDFIYUtYSWprLXJvZDlJcGlBQjNrTVJmajJRcnVwSUxFM1JoQXUzZ2J6bg?oc=5"
+    },
+    {
+      "headline": "Ulta Beauty Earnings Were Ugly. We’re Pulling Our Recommendation. - Barron's",
+      "source": "Barron's",
+      "when": "2026-06-08",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEMxd2pnWm9VRkVnRUR1QmdJUmkwWUx3dWlpSFNuaUlZMWFXQlFjZWYtNVlwTTJUY3BxdV9YTUlhaFU0c29fTW1fdUh4V2RPbWd6dko3SlJRaTJIZk5TcWZzN3cwekk0YXpWam9OVEZ3aFNIbHZiQzBnVzlldGJIdjRMbWJDaE4ybURUaFV5Rjhoalk3d2ptLTBCdEIxb01H?oc=5"
     }
   ],
   "insight": "Tracking Ulta Beauty (ULTA)."

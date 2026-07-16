@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:02.582Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:19.912Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    282.5199890136719,
-    284.7699890136719,
     284.80999755859375,
     286.1199951171875,
     287.92999267578125,
@@ -24,11 +22,11 @@
     278.25,
     276.489990234375,
     274.6000061035156,
-    272.6099853515625
+    272.6099853515625,
+    268.94000244140625,
+    264.95001220703125
   ],
   "6m": [
-    305.6300048828125,
-    303.260009765625,
     299.8599853515625,
     302.7699890136719,
     304.1600036621094,
@@ -158,10 +156,11 @@
     278.25,
     276.489990234375,
     274.6000061035156,
-    272.6099853515625
+    272.6099853515625,
+    268.94000244140625,
+    264.95001220703125
   ],
   "1y": [
-    299.6199951171875,
     298.8999938964844,
     300.3699951171875,
     297.07000732421875,
@@ -410,29 +409,31 @@
     278.25,
     276.489990234375,
     274.6000061035156,
-    272.6099853515625
+    272.6099853515625,
+    268.94000244140625,
+    264.95001220703125
   ],
-  "lastClose": 272.6099853515625,
-  "oneYearReturn": -9.0147554254718,
+  "lastClose": 264.95001220703125,
+  "oneYearReturn": -11.358307923288466,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "McDonald's (MCD) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+      "headline": "McDonald's Falls Into Bear Market, Heads For Fifth Straight Monthly Loss Amid Turnaround Concerns - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFVKTHFyb3FxdkRua0VkSnZsYmlPMXkzQWJSS0ZZVVJIR1FmcFRnMDNLa3pIVlA2S25hWnNDQllpWUpCTlhXMDlvZjFYQUZ1Y0xxSmVGRDUwM1hEazRWa0JQYXdiem5OWkNucXkydzlXa2hZUExYWF9GdW1ZQkdyM3V5dF9sZUY2TV9EYTNTVkdINnhzN1hPYmhVODNNajQ?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc2NCRmdwUFNNVGtubnRRVTEzSzRrMThEYmVjbUI4WWJ0WHViSEtzdWJJUmFjSHFOdHcyRG5yanljUnlwd0U0X0Q5Mm9TX241SDcxS3RvRFpNZzRJdEpRbmhETUJERDQzQk5WTzNGQVFzMFpmMTVQYTZIQnFBMWVHR2RUM1pjYVdScFBJcU5DN1pEU0ZlLUo1LVVoM0NOREk?oc=5"
     },
     {
-      "headline": "McDonald's Corp. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTkxvWTN5R2FqWlFvOXRqQ1VuakZITHpJOUVpZU51SXdraTBPM1dReWJXbHZqd3RVTUJaeTE2dDNsSE9zODY2aldQekFkcU1fUWxsVFNHWHR5M2lhUWlub1kxelIwN1Z5ZTlNaHdJS1pJbW10eVowV0RSNnNmRHBLdnpUZUEyRnRqWVVhcXUzTXZEeDVJRjBHczhheEJXOC01UVpXbHh1MHJTRGVId2Vnb1NQUzFYT2ZwMHF6a1FDSW80b3FlNU9ROWQyaEltb0lkeno5NEJNeWhBRjNEcUNYRHkyRkE?oc=5"
+      "headline": "McDonald's may fall slightly short of consensus marks with its Q2 report - KeyBanc (MCD:NYSE) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTNSeTFnd2ZfU1hwZGFRSWdjUzZURk5WZUJBYllDVWlURHFRY2R6SWJxSk42bmVHdi1sNTBibmYzYlpWQ21qbFFqVWdkR0toNGIyZWpZM2pGMVBqVGVmVWVSblhSRGp6YmVHcUJCMUJ4aGFqVTJQOExFekk2azdjODdKakUtU3dsSVJZRURhX25rMFRIZmRPYVNWLU16ZW5DdlF3X1M1ZnB0OEUwTWpWNHhPbldBSHZ2RTFv?oc=5"
     },
     {
-      "headline": "Calamos Advisors LLC Has $57.24 Million Stock Holdings in McDonald's Corporation $MCD - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUHpBZW14V1FiUzljSkNVZHVZWndSXzZsNU5KOFREeDNDWHdXSXByUGk5SldxZkg5X1lOMUlKMUtDUFNWSW9zaW5SNHFCRjZTRnVMaEpjNmFBbnJCX0wxMXVLb2dHRUw4VU13ZUlFeXZFdnlkYmZJYXRZaVJxRVBrb0RKVjA1c0FRM09NbHFXVHdmbkE1Nzdydk4wYTdtQ19Ib3R1eTZHWmxFRjUxcWh2anBhZkJ5ZjZfYlFHU2JTUTg4RmM2X1lYTUpVckRZUHEyX256Q05LbGFOdw?oc=5"
+      "headline": "Krispy Kreme vs. McDonald's: Which Restaurant Stock Is a Better Buy in 2026? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTFlOVVY0ZUxFRTdaamJXMmF1R0s2MUhQX25sNlhyVHdTRWxUbUZjM2NGNFRpYnFPZ2Z4ajBmdlhobG0ycEowckx6a0Y5TFZHV0h0WEMwTTcyZzhyTVY3VWRZdktZSExSUGlMNktsQ1VYclpwRGZMak5VU1ltdmU0amc0SEI2aURUOHJUMk9VOVFQenhZRml3aGJGRE0ydVNxNnlDQlN3TTkwdjhNei1qMDdqQWNsQURfN0FmN2tzdk83VVJp?oc=5"
     }
   ],
   "insight": "Tracking McDonald's (MCD)."

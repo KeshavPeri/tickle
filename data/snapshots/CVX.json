@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:42.874Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:55.446Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    189.8000030517578,
-    185.82000732421875,
     187.22000122070312,
     180.39999389648438,
     180.11000061035156,
@@ -24,11 +22,11 @@
     175.97000122070312,
     174.0500030517578,
     176.39999389648438,
-    182.1999969482422
+    182.1999969482422,
+    181.75999450683594,
+    181.60000610351562
   ],
   "6m": [
-    152.41000366210938,
-    155.89999389648438,
     163.85000610351562,
     156.5399932861328,
     155.1999969482422,
@@ -158,10 +156,11 @@
     175.97000122070312,
     174.0500030517578,
     176.39999389648438,
-    182.1999969482422
+    182.1999969482422,
+    181.75999450683594,
+    181.60000610351562
   ],
   "1y": [
-    150.69000244140625,
     149.9199981689453,
     151.3800048828125,
     150.0399932861328,
@@ -410,12 +409,20 @@
     175.97000122070312,
     174.0500030517578,
     176.39999389648438,
-    182.1999969482422
+    182.1999969482422,
+    181.75999450683594,
+    181.60000610351562
   ],
-  "lastClose": 182.1999969482422,
-  "oneYearReturn": 20.91047448160217,
+  "lastClose": 181.60000610351562,
+  "oneYearReturn": 21.131275561296377,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Chevron Stock Is Barely Moving. Free Cash Flow Just Went Negative for the First Time Since 2020. - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ0NCTXp6Vnk2VUktOUFpb2lVaUVDYUdwNVRyZV9KcWc0RHZpTnR2M05YZU5icHd3eTZCLW16WDk1VWVRR2Q1SEFnaW0zWEd0Um1yaktOaVk3Rk9IaEYxZGtTYjBDS2lUa1lCdGxFSlVscUtnVDEzSEpzOHJJTEk0OVloRDVLNkpEa3dBdmhNQ3hIRzFDU1h3TngyeUo2elN2dWNJSnFRLWF0Nkp2M3BGU2VLYmtTeHhQZlUxZw?oc=5"
+    },
     {
       "headline": "Chevron Corporation (CVX) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRUtZd3ZIT1FRLVpXQmNvbmlndXNBMlJRT1JPcGxGTFVOVGJFZkZpeGhLSEFWVHZPTm9JbFJsX0JPR1FvcVkyUGNnWEdCVWJsSlRvS1RIZlJVQVBhaFZSQ0wzUHJDUkVualF1bl9YRU1qTGp4TmJrVV93VUFTSUtBYnJSaWoxbTdwbzJzTTNWVW9Iazh6WmxtR0ZwQ0llb3Z2TW11NUdEY2JrcVFX?oc=5"
     },
     {
-      "headline": "Chevron Stock Gains As Analysts Back AI Power And Oil Tech Deals - StocksToTrade",
-      "source": "StocksToTrade",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqekp5TUZTbDY0N0ZWMnlwNXAyUDF1NC05Z1VHd2FiS1NFY3cxeElWVVcweHdtcGNRTmhMdGY4LU5ramxtY3U4elVuMnNLVzVKN1VwR2o1aW13UGN3cm5YSnFLdUp0VXFuRW9yRklCb1BTMGdzQUxPdVF2RQ?oc=5"
-    },
-    {
-      "headline": "Chevron (CVX) Stock May Be Fairly Priced On Fresh Oil Surge News - Sahm",
-      "source": "Sahm",
-      "when": "2026-07-11",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVhaNU1SXzBSMWJ4OFcyWHNySlhOZ2x0a3dJcnJnNF9CX2laSHJVMl9HMXNWS3h1TUJfVlZmdkp6VjUwWGhYZU83YkJYNmlHRkF5dElFSXFDSlVYNXVUNlY3MWZ5Z2w5bENOQWpYLWY3OC1kVmdOdHFENkl4aDVDOXY4cEdqR3FwbVpSNTFpZGlseHhBa3RsOXNrVkh6WDBfUFd5Zzh1cjFTa1RTdXQ4Q2tXcGg?oc=5"
+      "headline": "CHEVRON CORPORATION (CVX) - MSN",
+      "source": "MSN",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbF9qeGNNZVZueUxVak9NY29VOHdxd3lhUjF4eVVHSDROdkJsYWRla0pVbjhJbTAwVmI5aHY2TjJzbTdUc2xuZDg2M3Q4S2djblFMYkEwZGRGOHhvcTg3N3dQRFJoZFZDOWhhZEVpVlRxb1ZWNjFONVFNWFVOVFFRZVY2MA?oc=5"
     }
   ],
   "insight": "Tracking Chevron Corporation (CVX)."

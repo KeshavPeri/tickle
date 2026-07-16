@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:51.737Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:06.076Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    138.8800048828125,
-    145.05999755859375,
     146.3000030517578,
     149.49000549316406,
     147.02000427246094,
@@ -24,11 +22,11 @@
     156.7100067138672,
     163.72999572753906,
     157.50999450683594,
-    160.6199951171875
+    160.6199951171875,
+    166.8300018310547,
+    164.50999450683594
   ],
   "6m": [
-    79.41000366210938,
-    77.87999725341797,
     77.94000244140625,
     78.44000244140625,
     80.0199966430664,
@@ -158,10 +156,11 @@
     156.7100067138672,
     163.72999572753906,
     157.50999450683594,
-    160.6199951171875
+    160.6199951171875,
+    166.8300018310547,
+    164.50999450683594
   ],
   "1y": [
-    104.93000030517578,
     103.44000244140625,
     104.91999816894531,
     105.41999816894531,
@@ -410,12 +409,20 @@
     156.7100067138672,
     163.72999572753906,
     157.50999450683594,
-    160.6199951171875
+    160.6199951171875,
+    166.8300018310547,
+    164.50999450683594
   ],
-  "lastClose": 160.6199951171875,
-  "oneYearReturn": 53.07347245787128,
+  "lastClose": 164.50999450683594,
+  "oneYearReturn": 59.03904739370331,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Fortinet’s AI Surge Is Impressive. Is Microsoft Stock The Smarter Way In? - Trefis",
+      "source": "Trefis",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSGhpcEw1OUtXVldYXy1TdlF3QXl4ODNXak9qSFBDR05DeVJIVkdIWDVoYWpxTThodHcxNFF1UVA3TFJKSmRydzVHUkRpUURERnBHRUFZZnctSjNQRWhObExHelBkaGFQN0o5c3FWNWNvbmRrUWl3djlyb19iVDVQaTdxXzFTd3ZLZkV6N1dWNHg5T25pTzA0V256cXctQmdJdWpXRE1JTkFqWHktQ3MxeUtZeE84cUlyRW8tRXlLdmpEYkRNZk5ud0lDaw?oc=5"
+    },
     {
       "headline": "Fortinet (FTNT) Stock Could Be 39% Above Fair Value Despite AI Security Growth - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMXgtaUdsR2x3bDNYUUhuQ19rS1dMNTNHTDZ4UXhKbXl0OXlYVHVSZkIwOVVXdDV6Qnl6STVHUGd2TEVaTUdZT25OYjc2dTMxSlRUaGJtRTBaTlh3SW15V1dRTS15OEZldkJUbG81SWZCOFlYd3BOSy1RWUxfNVJaaFUwMVBwaktJNnEzNEczNXp5WkZfWk4zcg?oc=5"
     },
     {
-      "headline": "Fortinet’s AI Surge Is Impressive. Is Microsoft The Smarter Play? - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM3ZhU1FmMHEyM01wQWdRbUpGMW5aN01DcVppUkMtUjVMLTV1TldZVFpKQXFqcm9MazFOR0l6UDN0SFE0MFFCUlhSMjktLUVIRXhhRUQxZHpDbkVfOW1xZ3Npd2RLMHpXU216bDd0R3I0N2VhN1FuRUJYbU5RRE43MWJxRF9xLUt2bEJUOG83V3JkTVd3YTU0WXl6Y25ycWd1SE03eWFuODVyYThqUXFYRk9TZU1iZTBuX1ZGWXEydGY?oc=5"
-    },
-    {
-      "headline": "Fortinet stock hits all-time high at 165.39 USD - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdzdJV3NwbVRyVi1MZDFWb3FDLUk5ekRDMUZ5RUFudFJjcGh2ZWdMcmhEQ1RXUjRPNW5EaFQxdzVxTmdkV0IxdjY4MDFRNGRwb1R1NG1ELUtoNTlTMzFMdVZtUDBidjJTQ0RhSVprQ0VtUE52YTJBMjlreUJHNlFtNXYzUkZsVzFTeVZ3MURVR1VaX1FBeFY2VWFWMGtuTEIwUU4wYQ?oc=5"
+      "headline": "Fortinet (NASDAQ:FTNT) Shows Strong Growth and a Powerful Technical Breakout Setup - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVnlVQThqS0ZpNEdBbnRlUWVIRXRIRGZOblVOY2RZUmU5ZDJpdnZzVm1WY2pYOFo3R1I0dVBxT1BRYy05S3dYSGkxQV8xQjBXREVjbER0MDVsbzBTVGxlRU1WZzNiY1NKaEJVR2Jwa3VBTVpTUjJrSkJlbDF0MjBMWFowLVVlRzRsbUpKcHhIN3R0amdwQjVZSTZrOUc3cjdya3dsV0I3U0NjYVBlSlZzX1lYcHA1MjRDNW1IamoxVXM4QzdWNlU1QXhoNA?oc=5"
     }
   ],
   "insight": "Tracking Fortinet (FTNT)."

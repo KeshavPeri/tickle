@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:33.010Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:43.849Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    313.3399963378906,
-    318.489990234375,
     325.44000244140625,
     335.3800048828125,
     340.739990234375,
@@ -24,11 +22,11 @@
     336.3900146484375,
     346.7200012207031,
     350.5799865722656,
-    354.42999267578125
+    354.42999267578125,
+    355.05999755859375,
+    358.44000244140625
   ],
   "6m": [
-    369.95001220703125,
-    372.7300109863281,
     379.79998779296875,
     383.55999755859375,
     378.2200012207031,
@@ -158,10 +156,11 @@
     336.3900146484375,
     346.7200012207031,
     350.5799865722656,
-    354.42999267578125
+    354.42999267578125,
+    355.05999755859375,
+    358.44000244140625
   ],
   "1y": [
-    310.6499938964844,
     311.8999938964844,
     315.3500061035156,
     307.95001220703125,
@@ -410,29 +409,31 @@
     336.3900146484375,
     346.7200012207031,
     350.5799865722656,
-    354.42999267578125
+    354.42999267578125,
+    355.05999755859375,
+    358.44000244140625
   ],
-  "lastClose": 354.42999267578125,
-  "oneYearReturn": 14.093030625935041,
+  "lastClose": 358.44000244140625,
+  "oneYearReturn": 14.92145221406061,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Evercore ISI Raises PT on American Express Company (AXP) Stock - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHhSbl9VRU9nemVNbVBhZWt6V0NXX3dPYkdmSU5FOUpEZHVSaHIzb1V1eXpxaTVhWFZvUDZEYU5BdVVPU2RVNEVPeEttSTJEMWU0SHJnaFJzRUhWZEg3Nk5mbVVGdGE3anpqNjN5M1NBMjlsX2VTMS1FOGx6dkdvMXlGV1pGVlNPRkJnbzFMZkxJVFZKajZ5eUxhYjE?oc=5"
-    },
-    {
-      "headline": "American Express Is Warren Buffett's Second-Biggest Stock. Is It Still a Buy Near Highs? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWtuZnhoNzRCdEZLdjkwTkFZWFowRUlFS1ZUak8wMGdVSFl6NnF6Tm5lUkZPTWRBZ3l2NGNSbUxrNFZJNVhhTUtoNmR2dXJzT2drbXdFdGMxcGJuQXhBbENUQnNiSWZ6aENOcW1NNDM4WGtLOVFFMXBPZUhfMGQzTl95UVhTYzdWVndMdUtDX2hvOEZiX2c5cQ?oc=5"
-    },
-    {
-      "headline": "Is American Express (AXP) Still Below Fair Value On Analyst Upgrades? - simplywall.st",
+      "headline": "American Express (AXP) Stock Trades At A Premium Following A 121% Five Year Run - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUWkxZXFJTnlBYzcxMktCRmNCR01wTWJDZHVhRGozMGN2Rm94RFFMeUVlQVQ3VkVqWWFoMWhPb1pBelprd3BYeUR2V1ZvYVpoMi1XcEhFNE9RS1RmNEJNa1g4cDlyd0xjRTIxUTk3QjkwOGZNLTZNVmZkR1MyamswYXF5Ymk5NjN1bVFxZk1aRUVnUGhyNmY4SklKUkRRVm5xdlBzNWp6ZWJScVprQWI1MC1zVGNIVlhEZmFaRTFyWk1zQXN0S3cxWFZpV2dWcU9xZzZ0RVVHb1Q1NFdCZ09r0gHkAUFVX3lxTE9ZVnNNYmU4MmVQUjJqRE9JaHJScnRrcnM3djhGNDg5a1NybXFGVXRrUEk2NGNTSGR6am45ajRWR3V5cGdvMHozVmFjSEloRXNqb1EzRzNmTkFLZV84bkdGQXVQUTk1MGI5bmt5RVRUX1plMkJxSUxDb0k0cVotRkN3RDNkbFEta0ItYXdmWlNOZWFzeVN2U1JfOEw2SkZBU3NUZl85RVNQTDF0QnFtMjBsU3FQU3BjdEFiYjMtTnRPTmVNTGIyU3NkdWd5Q2ZFTEpWV0Z5NlZ1TXRqRVB0WjVhbkpOZQ?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLW81R2FSRGlHYTNqM2dpSC1BNWppR0hJSWRCVEgzaHhEMnhEWGdCRk5xdUx3Mjg0VUpXNHBQbVVqdzh4TW41alQ0VzFlaVFEbGNIaVVLUHU4RU5SNm5UdjRHS0xKUEtDRkNkNXhVUlgzTEFFRnFrQ1FvOFkwbEFMYl9oZklmY29PdmJBRV94VTJyamVGVTJPWkFHNi0tZUtJTTYtaERmY05WQUYxQ1F1a2t1dTdocFhIYjZOLWw5c201MUx0bVZIbnZmWkZ1RVFwUFVHR1Q0WkN6bWwySkxV0gHkAUFVX3lxTFBsclI4WkR6U1NMYkUyV1luSnpCeF9QOEpXR3ZDeDhLT0Uyc1VPYlJtdUkwQXB5R1NzRi1tcXlNVTNjSVZ1bVhmRzZMTXVjYXlKQm52aUpmY3NYTnZmZnJJM1JWRFVoUWRYWlZ0dEZqZ3ozVU9FcjBzOC1kYVRMTFljU01pX3RzX29WdXJMVEdqTmNSSnNVYkdYbzV4SkxSOXhQU3J6WUZJcWFpMWNlQktUMm5obWFFZVRydGJUeWtleDU1Vm84czhUQ1Y2NE51QThLRG5HN1FtZVAzamdwZjBUenJlXw?oc=5"
+    },
+    {
+      "headline": "Is American Express Stock a Bargain? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZWlPUWdmX1RRYU5QcGRhaDlNcVUzOS05cFpMQ3pOYTYxYUdZSVc2WkhCX19Nb3NXQ0hLQnJsRmhETXhIQ091eVF6TE9BanJXR0ZvdENveTZxaVV6X1Bvc0hhcDZzSWwyWmNSWFpLS0NyQy03M0JqT3lmNDhQbVZGT0ozNjVrLS1FUGRxWXc1U3R5Z2dCME1vcF9Kaw?oc=5"
+    },
+    {
+      "headline": "The 1 Simple Reason to Buy American Express Before July 24 Earnings - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcV9FRUMwRzhiYTJSRm5nT2tfTE51N0NiY3VEQzBPM082eldOZzlfem15M3gxdTVKd3N5MHNBUVhhTW1YX1Y2elE4Z2xKS2M0UlZPT0NzQlpoYUotWFowdTJ5emxDWmxDS216V3lWN2VZMEFfeGxiWmd3VHg5NDhBcFJwTkhMUW5vN1B1S2dQV2NhVTVqazREOXBaU01Qel9PeWI4Z3pGZW11Vmt5a2FjYg?oc=5"
     }
   ],
   "insight": "Tracking American Express (AXP)."

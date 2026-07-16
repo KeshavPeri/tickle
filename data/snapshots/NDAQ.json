@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:05.054Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:23.012Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    86.72000122070312,
-    86.73999786376953,
     88.9800033569336,
     91.04000091552734,
     89.29000091552734,
@@ -24,11 +22,11 @@
     84.38999938964844,
     87.5199966430664,
     88.08000183105469,
-    89.20999908447266
+    89.20999908447266,
+    88.01000213623047,
+    91.36000061035156
   ],
   "6m": [
-    97.12999725341797,
-    96.66000366210938,
     98.44999694824219,
     100.69000244140625,
     100.4000015258789,
@@ -158,10 +156,11 @@
     84.38999938964844,
     87.5199966430664,
     88.08000183105469,
-    89.20999908447266
+    89.20999908447266,
+    88.01000213623047,
+    91.36000061035156
   ],
   "1y": [
-    88.43000030517578,
     89.04000091552734,
     89.94999694824219,
     89.37000274658203,
@@ -410,29 +409,31 @@
     84.38999938964844,
     87.5199966430664,
     88.08000183105469,
-    89.20999908447266
+    89.20999908447266,
+    88.01000213623047,
+    91.36000061035156
   ],
-  "lastClose": 89.20999908447266,
-  "oneYearReturn": 0.8820522182574526,
+  "lastClose": 91.36000061035156,
+  "oneYearReturn": 2.6055701605677353,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Nasdaq Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "headline": "Nasdaq Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS24wR2lZVjJidU45VFhVeXFuQVp5NEhwendSNlhIQk9ETkFCdDBPMk1RMkp5cjVJWXYwWUgwbzMxMkx6RnBac3Z0LWdzeUNOMDlpS05rZGNWcWdobGE0djJIaTF5bm5pUTlhdktWY01OZ01jWFdhS2ZJXzJkTk9Rbks3MF85QmUzcGxWMVVNcTc0SVVGa1plOThlUDBRT21rZTBtZjhPMTR5c21qbXo4ZmVkQnlaWmVFaV9CZkJUQTdzTnEyLTE3cGxBaTVVN09CbTh1OGs3R25fVDA1Z1E?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNnp3Y2ZyVDh6ZlJ1X1I3SVpLbHhBZ0Y5LUFyRFJXUkVVclJmRXRlSEEwX0h1WTQ2dG80eV9fUUpHcVF4eW1CUVlhSXVldDZka2VNaFBDc294Nk9kWmFDb0w0dlRhVVcwQW84VFJ6YmlrdHZuNHBVTnhJRjNBQjdZQl9ZaFdfanU0UFNTZFBqQUFELWtIaUJWVVVwU29kMXpsVTc0ZFN3LWlSNDZFajVobC1CNTEyOUExRVU2X0FRU2FkUGJiUXcya1FVaDVFdy1Pa2gzRUhERQ?oc=5"
     },
     {
       "headline": "symbol__ Stock Quote Price and Forecast - CNN",
       "source": "CNN",
-      "when": "2026-07-13",
+      "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sSlFlaGZfR0QyQklzWGh4NjBMdVFwZllYWUN0NzZ3MklUa2ZUR05fcC1pQXFZZ0M3Tm9KSEt0dVkwLV84Ulc2UWdGSlRTSWRi?oc=5"
     },
     {
-      "headline": "Fifth Third Bancorp Buys 162,019 Shares of Nasdaq, Inc. $NDAQ - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2oxSmhjLWk2eDR3ZUJaUmtDU3VrYW4tUkJGdlNPeGJtc3phZWsydXdqZW5lRGF3aEx3bWZIV2ZGR2JlRzljQkdiRUluMnoycWdVeU5pUEVJckZIUkVfeTNIcUpWQlpBYzVaSEozZmFvMUZEUVNsMG42aDJQaEJnT1lDcW9KcEliVDhPMHEtdmVVblFGckdzY1ppbXRmaXFzMW5UNGxXZHk0eV8wcDVUZTZRMENkc0Q0aGc?oc=5"
+      "headline": "A Look at Nasdaq Inc (NDAQ) After 3.8% Gain -- GF Value $75.62 v - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeS1hakR4akI5eF9tWU9JOTc1OGZlN240X1hxZ0RUdHU2bHZjR05nUXBGb29zaEhraUVfTnBkdnJPUTR0Z1hyOVdoUDJsMG8zNWwtY0l2OXg4MTVQTjFYckVZUkJWTmlyQXdXblU5VVdza3ktU0s3TUY3Wm5CTzUtOVMxb2lfaWJYeEUxVUF1UTFjcUZfMWZ5QWVHb0N5NDZFdS05dkQzUTQyQQ?oc=5"
     }
   ],
   "insight": "Tracking Nasdaq, Inc. (NDAQ)."

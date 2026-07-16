@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:38.346Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:51.047Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    89.94999694824219,
-    89.38999938964844,
     89.44999694824219,
     90.58000183105469,
     90.66000366210938,
@@ -24,11 +22,11 @@
     93.04000091552734,
     91.01000213623047,
     92.23999786376953,
-    93.20999908447266
+    93.20999908447266,
+    91.02999877929688,
+    91.47000122070312
   ],
   "6m": [
-    79.0199966430664,
-    77.69000244140625,
     76.93000030517578,
     77.19999694824219,
     77.08999633789062,
@@ -158,10 +156,11 @@
     93.04000091552734,
     91.01000213623047,
     92.23999786376953,
-    93.20999908447266
+    93.20999908447266,
+    91.02999877929688,
+    91.47000122070312
   ],
   "1y": [
-    88.1500015258789,
     87.66000366210938,
     87.23999786376953,
     86.83999633789062,
@@ -410,10 +409,12 @@
     93.04000091552734,
     91.01000213623047,
     92.23999786376953,
-    93.20999908447266
+    93.20999908447266,
+    91.02999877929688,
+    91.47000122070312
   ],
-  "lastClose": 93.20999908447266,
-  "oneYearReturn": 5.740212672722695,
+  "lastClose": 91.47000122070312,
+  "oneYearReturn": 4.346335157912621,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGRpTXJPNkxnWHowTUZPbTFOM2VxUlVzc3BieE9QdDhodzFVaTlpRUZ6aFQ3dUNRY0RhdThlWmxyek5DUHkzdjVSd2MtcXNZdmdmMWVuY1VTQVdzcmNGaWk3bGxFaHViUWp0UEVPNHdRY3VhSGRaaUVhcG5ITDZNTDg2dkFOZXhrMjVkUHpkem5uc2l6TW8teHk5WmtoQQ?oc=5"
     },
     {
+      "headline": "J. Safra Sarasin Holding AG Cuts Stock Holdings in Colgate-Palmolive Company $CL - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ1k5bVNxM090UGNVYUdMZUtWaGM2b3VLVFFMRHBFMVoxY2dTS3dBbXN1OFBqZEZ3dFg0ZVBtZjZJSEMydnAzUWZLU1FIeC1ZaE54dEVyamFyN1BBTzYwNEZHRXJmdzZXdE56SF83M0ZhWHFZOC1uUUM2Z0FFeXNtaG5DZVE3ckFpV3BYM3ZwRUh2NUlyS3BFTUVDTjRXLWZESUVLMk05aXp6ano4dnNCVlcwOVFvSnhZTGstT0hNN19Wai1mMk5vMGhQM2JXSDRzYS1wMlVB?oc=5"
+    },
+    {
       "headline": "The Bull Case For Colgate-Palmolive (CL) Could Change Following Margin Strength But Slower Organic Growth - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY3lSbmVGd2hmeGxTc2tqd05relF3QzlRTFptSFhzcVJTNzZhcmhDd081Uk41WTVibGJ1TjJyeWZ6OGhFalVwaWt1OHdwNDZ1MnVxZmtYR2JRRVppdEZsaUJLNzlROFJQamhJYUJhQ0lIT0pqdVdBYThheFZLQmowbzMzdTJPN3Q4S1pMeVE4OTZBZVhVSktQV1NLWWZBN1U1VVZscTJJUW5mdUduM0JqbmRKaXZMX0tscS1QZXg3OG1EeUFxWWROYVFFekJGbHFL0gHWAUFVX3lxTE5rZmV4TUhCTm1WaWZhY2pQMm9jd0FnVUhjemh6cENaZXhHbGVQZVMwNnc3ck90LWtULTlRZ1A2UnZkdUgzb25VQjhadVZldnBBYy11RlIzakE2endSanhyNFc5cEhpOHRlTWxTckpJSHl2OU4ybzBvRkpVRlQxdTNVUU5XZnlGc2E1WXZqU05LRnhlMDRrYkxzS2I3ekU0TlJJZlpxQkRET2pfdDZlalloYkdOTGllZlM0elVES09MVGRVcS1EcWhBMkxkM2NKMWpvSUxPMVE?oc=5"
-    },
-    {
-      "headline": "Calamos Advisors LLC Has $25.90 Million Stock Holdings in Colgate-Palmolive Company $CL - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYUhXbktjZGpNMkhsZmFSUkpZd0w2VWZZd0xCejgxT3h6MTd5YW9SMF9YREQ5Y1Bma1Z5V2FSOHdkOU5naHVGek9weXJqd2JvUkFnWGdRU0ZfWjV3S0ZaXzNwSzVnejBKaUljV0IwLUQ2SW5oNUlFMDJENC0xRkJxQnlQeGlwcTYtb2sxR3NKUjlFMlozQndJLURNTFlGb2J2eFN1NDhGMFVzQzN6NnUya3Z4S1daV21oZzMzaGNMdnVSdURYTjFjZ3hoX3FEdEVLelJuckI0dXhUWHU1TkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa2ZleE1IQk5tVmlmYWNqUDJvY3dBZ1VIY3poenBDWmV4R2xlUGVTMDZ3N3JPdC1rVC05UWdQNlJ2ZHVIM29uVUI4WnVWZXZwQWMtdUZSM2pBNnp3Ump4cjRXOXBIaTh0ZU1sU3JKSUh5djlOMm8wb0ZKVUZUMXUzVVFOV2Z5RnNhNVl2alNOS0Z4ZTA0a2JMc0tiN3pFNE5SSWZacUJERE9qX3Q2ZWpZaGJHTkxpZWZTNHpVREtPTFRkVXEtRHFoQTJMZDNjSjFqb0lMTzFR0gHWAUFVX3lxTE5rZmV4TUhCTm1WaWZhY2pQMm9jd0FnVUhjemh6cENaZXhHbGVQZVMwNnc3ck90LWtULTlRZ1A2UnZkdUgzb25VQjhadVZldnBBYy11RlIzakE2endSanhyNFc5cEhpOHRlTWxTckpJSHl2OU4ybzBvRkpVRlQxdTNVUU5XZnlGc2E1WXZqU05LRnhlMDRrYkxzS2I3ekU0TlJJZlpxQkRET2pfdDZlalloYkdOTGllZlM0elVES09MVGRVcS1EcWhBMkxkM2NKMWpvSUxPMVE?oc=5"
     }
   ],
   "insight": "Tracking Colgate-Palmolive (CL)."

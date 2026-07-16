@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:37.171Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:49.353Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    129.1300048828125,
     132.19000244140625,
     131.3000030517578,
     130.08999633789062,
@@ -24,10 +23,10 @@
     140.2100067138672,
     144.38999938964844,
     144.36000061035156,
-    139.3800048828125
+    139.3800048828125,
+    130.86000061035156
   ],
   "6m": [
-    133.16000366210938,
     133.61000061035156,
     134.33999633789062,
     129.5399932861328,
@@ -158,10 +157,10 @@
     140.2100067138672,
     144.38999938964844,
     144.36000061035156,
-    139.3800048828125
+    139.3800048828125,
+    130.86000061035156
   ],
   "1y": [
-    175.77000427246094,
     175.72999572753906,
     179.99000549316406,
     179.58999633789062,
@@ -411,12 +410,19 @@
     140.2100067138672,
     144.38999938964844,
     144.36000061035156,
-    139.3800048828125
+    139.3800048828125,
+    130.86000061035156
   ],
-  "lastClose": 139.3800048828125,
-  "oneYearReturn": -20.7031908204544,
+  "lastClose": 130.86000061035156,
+  "oneYearReturn": -25.533486717177347,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "CDW falls as enterprise IT spending worries weigh on the stock - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSktQbEpFTlktQ2ZMNWxfekR3MkR3NUhqUkhDdnNtaFhXMDByanUwa0xhTnJFR0ozNTJ4a2Z6LVRmN3dxS3NaZXVJdlVEX054LU83LXBZRTIyWXdYN2NZSExySGs3MVJfVS1hbWEzZEtJSWkwd0c0di1fWHJYanRLajNGQldJMkRqNmFYblhKNzBKRWZLNnM1aDc3TQ?oc=5"
+    },
     {
       "headline": "CDW Corporation Stock 12‑Month Price Target Raised to $147.56, Implies 2% Upside - TradingView",
       "source": "TradingView",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTDhPV3lMTDV4X2hIM2lRYVpaSDViWThveFpaM3pZdjFsaWpFTC1HUzBhME5wQTRXWUxDWG9qRS1pZjVIY3VlVVVRN2dQVUxsMWU4RGg0VnlyTmZsaHFHWmlzYXdaRFRDNVlnZWdhMEZlQk10SkY0VUV4ZmNkWDFScGtLZVBFUVdCczloVlY4aVFhTTZrcENOd01aMW1RN2VOQzRSQVIyNXhRTXdoR2o4UjMyZVZNU256UW5ZZ0c1blRRQkNRVDZZOEhaeWpyM3AzdDVOLWJR?oc=5"
     },
     {
-      "headline": "Sumitomo Mitsui Trust Group Inc. Decreases Stock Holdings in CDW Corporation $CDW - MarketBeat",
+      "headline": "CDW Corporation (NASDAQ:CDW) Given Average Recommendation of \"Moderate Buy\" by Brokerages - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzRnN3FBT3lBdng0MHMtRGdMdEI2VFp5amREMmpmc0xuVm4wWmJZZmM1Z3phSm04RnBDME1Ld2E2Z3pDVVdTZW16ZS04VXZfWjBwQjZQODBZRk1rRVBjbFYwSER5bzZ6WXBJa212aUFWQUUxZXBDLTBkNG1icHlsX1VxZEJkMjhVTm9jcHdWZ1hDZ0Q3Q2tsVjh0NmMyOUVxcHc2S1MwZkU0dkZLam9vclpfazZfbDUya3dCNmNwUmF3ZzVQY2drQmViZkJTS3ZKVGdsbWJzTQ?oc=5"
-    },
-    {
-      "headline": "CDW Corporation Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-25",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNHdzYTFwZ25Md1J1VVg1cDF2LW1TbGk2N2lLd3RhazNkUGxGM0QwQlpVa051OXNiLW52N1dRaF9UdHpLcmF3ZFV3RDY2NVk0aDlZb3VTdXRMSDhOdm9tRFpRbmR6SFd1T29zT3BScnRZSnBmb1A3ZFUyNVVmbXc1VERpWVN4dk5DblV2ZjhnWTJ5UUJoeVpCMUtSS0JuYTQ?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdzNYU3hLU3RsN2JYdkJLY0VENEcyaTdzNjlKMUYwQ1A5dFN1Sm9wYVZhWnBnVGtycWlYWVBST3FJMndUaE1HdXU1ajB6RkdYSXh4MkpJQThkZGpVdU1mRFZST240SHBPVXhUdFpTQTVqUmwydWY5MFlhM0Jkandfd3lLT3JxZDhxYkxlSmtyck15eEJaY0JWMlJ1WkpndDJLNnl3NjlFbE42WEpvSGt5enhQTXlQSlhrSjQwNjNIazNLSkE0WndlcWd1MTFjV1ltY3JEcw?oc=5"
     }
   ],
   "insight": "Tracking CDW Corporation (CDW)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:47.868Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:01.525Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    52.61000061035156,
-    51.20000076293945,
     51.939998626708984,
     50.75,
     51.369998931884766,
@@ -24,11 +22,11 @@
     51.15999984741211,
     50.150001525878906,
     48.849998474121094,
-    49.720001220703125
+    49.720001220703125,
+    49.810001373291016,
+    49.25
   ],
   "6m": [
-    53.599998474121094,
-    53.459999084472656,
     53.349998474121094,
     53.40999984741211,
     54.4900016784668,
@@ -158,10 +156,11 @@
     51.15999984741211,
     50.150001525878906,
     48.849998474121094,
-    49.720001220703125
+    49.720001220703125,
+    49.810001373291016,
+    49.25
   ],
   "1y": [
-    58.2400016784668,
     59.18000030517578,
     58.75,
     59.189998626708984,
@@ -410,29 +409,31 @@
     51.15999984741211,
     50.150001525878906,
     48.849998474121094,
-    49.720001220703125
+    49.720001220703125,
+    49.810001373291016,
+    49.25
   ],
-  "lastClose": 49.720001220703125,
-  "oneYearReturn": -14.629121243507434,
+  "lastClose": 49.25,
+  "oneYearReturn": -16.77931776608545,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "EQT Corporation (EQT) Is A Part Of A Second “1776,” Says Newsletter - Yahoo Finance",
+      "headline": "UBS Keeps Buy Rating on EQT Corporation (EQT) - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-28",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkZTNjR4NTk4V0hPdE5PRW1XNDN5b0JTVnNwdHFFcG1IUVVmNWNwVGVCQURQY1RnTkpRbVVJQUVxRlRqMFVYR2R0b3hvVnhXZnNYdEpHSGlsNDFLbU5PbGMwbVZ0c0VkYURmWTN0aXJzb25iNk9tM2FjOTlvQWF4OE5MLVdsODlVSmZZUUlIa0Q3V3N0RllGMnN4Y3g?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQenBta01VRjh5S3ZDdDJ3NVdyQ3VzX0pSNWliU05KbXpUUkcyVG5RVE1KLVlqcDRabmxUaFAwcHB3RWxsbDgydlIzb2ZQc2NZZ1dNdUI4Y3BDOGdFYWJjUXlOU2piWkVIYTk1V0h3WElHVDQ3UWJHOVJYNkVkSkRXU3BMSGxIYVcyLVFjRkNpUk9Nd1k?oc=5"
     },
     {
-      "headline": "Is EQT Corporation Stock Underperforming the Dow? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTFpDYlV5aHMwNFN1aVN2Z21tYjVJU0ZJaVh6VjM0dy0zcWFTRVhaWDR0VkVqcHpoMXlqRktNS0RXQnpCRDJjdXFzTnkyeEdCa3VBNE9UZk9DZDFSRmhMczAySDZwODZmY2pQNjVSN1pHM0dTNWlISE9kMnV6X2ZpRkhycmdLV1QzSktabDBxUWdTOXh3R2E0?oc=5"
+      "headline": "EQT Declares Quarterly Cash Dividend - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQWYtNmt1TDEyYVBEeVJKV2x2cVVrNllPY3ExWVNVUGQ0UHlYa3VPeWl0RVlybkZ5bVRLeDhEUXdCdHBtT1gwOXhTNGJDWEhWOGdHd0c0LWRnWURIR1Zoam5OYW5tMjFhOF9NMDV2M1BLLWZCOVpKTS0yZWNsT1hiYXVRQmpZR21vSG1oT3ZDVU1hSGNjWVJzTVVoeG9CUQ?oc=5"
     },
     {
-      "headline": "EQT stock hits 52-week low at 48.47 USD By Investing.com - Investing.com Canada",
-      "source": "Investing.com Canada",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc3JpMjY3dmxSbmdSM0x1X2U2YVRqX09CWXBRQUh5NGpUSnkzX1dmR01iNlFJNm1uLTAybkNEVkwteDFkbGY2UklKTWZQTzVzMmtXVzdpaXZUNGNVLTRkaXU0amhCTjlWOGRUajNaWEF1VGlFd3kxcVlxOTB1Vzc4ZkxlbmNuLVdqU1U1cXcxdVdFTTdvZ25oSmc2ZGhIeTA?oc=5"
+      "headline": "Eqt Corporation Declares Quarterly Cash Dividend, Payable on September 1, 2026 - marketscreener.com",
+      "source": "marketscreener.com",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ1dZVVUtWUlTSE1HUF9OUWYyMWpaaXJyNVNldi1rV0x3TVJuci1HWkx1MWtiLWtlZkk2cFRQazR6M3pXczRNQlZLREhUWEhEcHpqZnNreVRTa0JxN1FjV3MteHpPVjJ4VVZyTFFXNkJsdVJkUG1iUTZabXlRYUpXbnBtbVJwZGdQdjZtbGprcjVwdWZIcEJFRlRnV2hIaUxXLUk0aklFc2h1RDVSeUloOWJPVVpObFVmeWpoQlZCM1ZiNTRucFFLQw?oc=5"
     }
   ],
   "insight": "Tracking EQT Corporation (EQT)."

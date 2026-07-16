@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:49.377Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:03.201Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    149.60000610351562,
-    150.25999450683594,
     150.60000610351562,
     146.64999389648438,
     146.39999389648438,
@@ -24,11 +22,11 @@
     143.99000549316406,
     142.67999267578125,
     143.9600067138672,
-    145.32000732421875
+    145.32000732421875,
+    145.5,
+    144.63999938964844
   ],
   "6m": [
-    130.22000122070312,
-    130.97000122070312,
     131.10000610351562,
     135.4600067138672,
     133.8800048828125,
@@ -158,10 +156,11 @@
     143.99000549316406,
     142.67999267578125,
     143.9600067138672,
-    145.32000732421875
+    145.32000732421875,
+    145.5,
+    144.63999938964844
   ],
   "1y": [
-    147.9499969482422,
     148.9499969482422,
     147.27000427246094,
     148.11000061035156,
@@ -410,12 +409,20 @@
     143.99000549316406,
     142.67999267578125,
     143.9600067138672,
-    145.32000732421875
+    145.32000732421875,
+    145.5,
+    144.63999938964844
   ],
-  "lastClose": 145.32000732421875,
-  "oneYearReturn": -1.7776206003866935,
+  "lastClose": 144.63999938964844,
+  "oneYearReturn": -2.8935868727083003,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Raymond James resumes Extra Space Storage stock coverage with outperform rating - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMUlWRnR6V1F0SjROY1RYVUlkQ3FQQnkycGJfU2N0OTRUeThhSjhGanpadHNTNUQzZGJOb04xNUVPVlJGRjdTMmo2TmpRYWFQRkNqTkRTVjNrZnJmSERBTWxhSTRKRXo5cnJTQ0ZIeEhXREFZcVhjd3FZSUZLQVFxT1FaQm1iZFJHQlBDb0ZlWGkxdWdxQ00xVVdZZkVxTTZMRnpRaFcyOGExY1RUdUFvazVFUkJEWVF1OUN4RzZIZUNJdmNVZDdMaTAycFhENTVua1AtSEx3?oc=5"
+    },
     {
       "headline": "Here's What to Expect From Extra Space Storage's Next Earnings Report - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb05iNlVsSlltN1lOeXFaNEdGeThRSTREWW5sMGtNdE40X3JBc0lDS0RsLVVVRWRFU2pkdUs4bDA3UG1xdWlwMzk4WGp0WTVJNXktTUpUXzhFV1JoVzdFNjVrT0NWWTJxZHVTQm02QUEtUnRvWm9vSXRReTQwS1hKckNyTFpQQm1PTG1LT2ExU0FFanZtNE5jTHpxUQ?oc=5"
     },
     {
-      "headline": "Is EXR Stock Worth Retaining in Your Portfolio for the Long Run? - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Is EXR Stock Worth Retaining in Your Portfolio for the Long Run? - TradingView",
+      "source": "TradingView",
       "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1RNSS0xSDZTLXcwd0RFV21BSjFZcDF6cHpqOXBhakdCRWxtMkVpYUtyWWJHMWVnSTY5X3hGamU0TWx2REFkQVp1UHE3dTBzdk1paWFVdVBaX3RHMzVzQlRFZWl6MUJXMWxIOHlrcnJCaWJHTmY0ejFlNVRNQWFEcE1SQ19hMnpsRE1BR29NWGlHckdtdk5maGNoaXFfdw?oc=5"
-    },
-    {
-      "headline": "Extra Space Storage Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYXFZRzh0b2pDVnRrWkFzV0k5MVpKWHhXbmxveE0yQjVUdkpWNXhRc0VPLTdrVkJfa1RtYlFJdXYzSkdBQ1oybDhlWEtrdExoRGFZZVk4ZmM5UXk4RkZvWWhxeWFZdjRaNTFXSlAtaGh1cGt1dzJ4UjBjSmZhQXZnMHRCNTlVMmFCZDZlcTVyNEZkRVB6RktpSkNUOEtZTUluN1VKdC1vdW5yeWwzR3g4RV8yUXNPTmg2T3VxVEg1VElzMmdoTnhrU2l6Y2tLLXJLdlRJdzB4TzFiQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVE83S1FScHByN244X3lRVjRka3U0VkhYVmFnem5UMFdTQzVfX21MUlljTUhQQmpmaENXaFZfR2xmQ0VGeGJidWUxdFlDMm9vbXJxa0hlTWNHZmFSb0txLUV2Ri1TWHprc0ptYVJUejVRcGlGYkhOa2lEb2hxZXpGUk5veTR6ZmhqVzI0SUI2alhsTHJnMzN6OEg5WU1vaWV6emJBTVBLWjZNWkxLNk9VNGM4bHF3LTBlSktv?oc=5"
     }
   ],
   "insight": "Tracking Extra Space Storage (EXR)."

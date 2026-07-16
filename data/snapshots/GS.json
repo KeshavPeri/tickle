@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:54.383Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:10.288Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    1001.2899780273438,
-    1035.6400146484375,
     1062.75,
     1076.1700439453125,
     1090.6700439453125,
@@ -24,11 +22,11 @@
     1029.6400146484375,
     1055.969970703125,
     1055.1800537109375,
-    1045.9100341796875
+    1045.9100341796875,
+    1140,
+    1152.0699462890625
   ],
   "6m": [
-    879,
-    914.3400268554688,
     948.4400024414062,
     955.469970703125,
     941.02001953125,
@@ -158,10 +156,11 @@
     1029.6400146484375,
     1055.969970703125,
     1055.1800537109375,
-    1045.9100341796875
+    1045.9100341796875,
+    1140,
+    1152.0699462890625
   ],
   "1y": [
-    702.510009765625,
     708.8200073242188,
     705.8400268554688,
     708.260009765625,
@@ -410,29 +409,31 @@
     1029.6400146484375,
     1055.969970703125,
     1055.1800537109375,
-    1045.9100341796875
+    1045.9100341796875,
+    1140,
+    1152.0699462890625
   ],
-  "lastClose": 1045.9100341796875,
-  "oneYearReturn": 48.88186924605236,
+  "lastClose": 1152.0699462890625,
+  "oneYearReturn": 62.53349713393438,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Goldman Sachs profits soar amid roaring Wall Street activity - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd29HcWNWUFZEMGh3ckNJNTZCRV9EZWlXR2NqdEZCcWx0T1lrT25jb0VlWE5XWGUxQUdaSmZRQXdaTzQ3VHZCVDBlQVJ0R0lyTjVIY0tEaXlkclZyalJlaGlla1ZhQXVRZ1F6bURaUEI1b3NyYXo5MzMxXzFIRV8tOWJrbXZrVWRzTWpVZ2kwNlY2dEFPbjd2VmRGWXF2a3d5TUFHZVFRVURrcC1VZ1pQUjRKTE9pczJKeU05TTZyYVJoZw?oc=5"
+      "headline": "Buy the dip on this Chinese EV maker that's poised for a comeback, says Goldman Sachs - CNBC",
+      "source": "CNBC",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkFYWjBoNVN3RGgtb3gxa2xBaXhBaHFHUUhQUGYtUU4xR1pNWXlzRi1OT0NRdm1rY0RIM2NHbWhXdk9tUUlzOUd6VjZubDRpUGFuRmItbkNOSVV6Q2hFcldtS1BwanAzOUprLTZZQngyVC1QdGtPcXlYbHVqUG44YThsZjJ4SG5mVnlQS2R4eG55bThaYXJxLWVES3dNeDViMl8w?oc=5"
     },
     {
-      "headline": "Goldman Sachs sets jaw-dropping SanDisk stock price target for 2026 - thestreet.com",
-      "source": "thestreet.com",
+      "headline": "Here's Why Goldman Sachs Just Turned Bullish on NIO Stock - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTFpZXB0VXBBUkkzME5PMi00M2VRYWxOLU1maUg1SjBwZ0VTZFBmUUpzZXBTaC01N2Y0MDlkbHFpcEtySkFMMkp1Mnl2NVM0WkxxY0Z6WFVaZXZqZGdqdXdpNlM0TTkzVW9KNGhROXVRLXNXcjNwenQ3c3VfemttODRUaldBOWJfSEhEcklSR0NHRGJncjZOaFRkenVvVmxRNWpwdFVDN1pGejNYU19F?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdmZJOXZPZ3VtT3J1WjlpS2VORXEwaG1mTE1td0liRWtSNEdrb0ZLc3ZkY1ZJeW45ZXRzNmNFR2tkVkZBcTRCa0l1d0liNXZ3ZFQzYTZ3X0FwaE9jUlc2OUpWSkJ3cElOQmdiY1JsZ3pGb3NzdnE4eGhWMkQtZ29rVExscWwxZkt0UEZET0dsWHYwNFRPTmNUUUtrZGJQckthbXk4?oc=5"
     },
     {
-      "headline": "Goldman Sachs Earnings: Outstanding Results Underpin Market Exuberance - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXQwTXF5S0JzcEFxRmRsMmNlM0FUX0JRTmZVTWZQQ1RqZFREUjZMRTVhYUp0TDBGV3B3anhaMGNfakpaVXFEdVhqVFhrdUtkS0Y0RkxYdzBSSGlobDI3VDhGUDBqdXN4bld6TFVOWk1BT0pQUmgtZ1VhdTVNMzctTmVpaE0wLTFzTUJjQ19VSTBQUFZ5TU9UZUNPeHVucVg2TWRXZEs4VQ?oc=5"
+      "headline": "NIO Stock Rises as Goldman Upgrades Shares to Buy - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85V2pMNzFHZ2ctcVI5Z3VERExfS0NqNWo1dkVTa0lMYXNCWTV2MGZpR3lCZkRsLXNRZWVxbzMxaU95SjJ1LXBLYXNwU1hmQVF3Q2RucjdZQUdURUc4MkIzMHU5N2gwLXNjTU96QW1vdi01ZXYtbTZDWUt4RQ?oc=5"
     }
   ],
   "insight": "Tracking Goldman Sachs (GS)."

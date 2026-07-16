@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:01.789Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:19.266Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    50.810001373291016,
-    50.61000061035156,
     50.66999816894531,
     49.7400016784668,
     48.939998626708984,
@@ -24,11 +22,11 @@
     46.189998626708984,
     46.45000076293945,
     46.689998626708984,
-    45.900001525878906
+    45.900001525878906,
+    44.779998779296875,
+    44.790000915527344
   ],
   "6m": [
-    65.08999633789062,
-    65.20999908447266,
     64.63999938964844,
     63.779998779296875,
     61.43000030517578,
@@ -158,10 +156,11 @@
     46.189998626708984,
     46.45000076293945,
     46.689998626708984,
-    45.900001525878906
+    45.900001525878906,
+    44.779998779296875,
+    44.790000915527344
   ],
   "1y": [
-    49.86000061035156,
     49.119998931884766,
     48.93000030517578,
     48.66999816894531,
@@ -410,29 +409,31 @@
     46.189998626708984,
     46.45000076293945,
     46.689998626708984,
-    45.900001525878906
+    45.900001525878906,
+    44.779998779296875,
+    44.790000915527344
   ],
-  "lastClose": 45.900001525878906,
-  "oneYearReturn": -7.942236333728625,
+  "lastClose": 44.790000915527344,
+  "oneYearReturn": -8.815142733129692,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvQzQ4RFJyZEJnZ2pSSHRRLUR5VFU3ZEtEWUM2MUJHd0dYM0U4Qnc4amFoQTE1aGZnOTBiMjlPTW1Uc3AtTDNWOWlpdEQzUUk?oc=5"
+    },
+    {
+      "headline": "Las Vegas Sands Sets July 22 Call to Discuss Q2 Results - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeU9BU0ZGTElZb3N2dk1zSjhfdUxiYUhDUDBwWTJVTTRBS09kZDlhYXZwdS1TZC1LNmptbTJOQ2FrNFVpazBlNHBzb1oyWUpHbkNfUFQxUzZvSk04SXFLQzdfYVRGb1NtNFJpdmpCOTIxazBFSkdKNjktT053RlZGWXd6bU4ybEUwU1JZM3BhRzZXVlN3RmhlNjk1cVhIbUZ1QUE?oc=5"
+    },
     {
       "headline": "Las Vegas Sands (LVS) Stock Could Be 18% Expensive Following Macau Revenue Pressure - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-11",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOVdZQ1pOWFdwVW9NM1h6Tl9ETVJlSXl6UEZ5aFpYOVlXUTNEZzBIZC1hT3ZNZTRQQ2RDWEROcGRId1o2Yi1MZEFQWWYwY0dRTHhmZ3laS2tuSW50VkJRdHdQSHk1UTJOSVc1b3loRnZjd181QmZNb2RVZC1ubnY5R0FxWTIya0JfYlFjUm40R3dpQkVq?oc=5"
-    },
-    {
-      "headline": "Las Vegas Sands Corp. stock outperforms market despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSWdKam5zY29EcUl4amxHVXRyel9FRk9yWW1oT0NBM1kwbWtfT1FxdDI2VU9qVVJwZWd4eEJHRzMycEtId3VSblhYNWFIVTBsQmpPY0owSE55RWhRVF8wVEItbkxnSUhEMkxnUjM1ZWtSXzZRdUhiMkRFQVI5SXI2blpJNThxZFRlYUZPME9FbEJQZl8zUzItOUNqRW9ZVExpSFJ0M0l5T1VVYWlJbEc3R2N5ZU9hZkJUYlMxRTlrWTAzYzg0X3JSdFo2VVowdHBDMy1lR0FNUExFUksyWTVDdlYybw?oc=5"
-    },
-    {
-      "headline": "Wells Fargo & Company Cuts Las Vegas Sands (NYSE:LVS) Price Target to $53.00 - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX2Vzd1psbjlsTEppY3FHYnpFWVljdDlzc09LLVVETnZ5QzFUUEdqSVBobFNsb0gyWS1BQjJkbG9wMUVBNlJUWjcyeDd1dWIxYTVIV1J6U3g3dzhtb3VEX0haTldDci0ySDhOQWFPcVkxeXBzV1NLdHJZVnY4Z3ZOazFGQXVtdm9Vc19WX0NCV0F2eXpEZ2ZCYjdqcFZFcWRVMDV1eU5uTnA0bk1lSnotU0NsOW8wVGpSbGdIa0JRUXA?oc=5"
     }
   ],
   "insight": "Tracking Las Vegas Sands (LVS)."

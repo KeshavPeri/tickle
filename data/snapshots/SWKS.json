@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:11.425Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:30.579Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    70.29000091552734,
-    72.7300033569336,
     73.97000122070312,
     76.26000213623047,
     71.41999816894531,
@@ -24,11 +22,11 @@
     58.4900016784668,
     59.95000076293945,
     60.380001068115234,
-    58.2400016784668
+    58.2400016784668,
+    56.58000183105469,
+    57.5099983215332
   ],
   "6m": [
-    63.40999984741211,
-    64.4000015258789,
     65.16000366210938,
     66.2699966430664,
     59.81999969482422,
@@ -158,10 +156,11 @@
     58.4900016784668,
     59.95000076293945,
     60.380001068115234,
-    58.2400016784668
+    58.2400016784668,
+    56.58000183105469,
+    57.5099983215332
   ],
   "1y": [
-    72.97000122070312,
     72.87000274658203,
     72.19999694824219,
     72.7699966430664,
@@ -410,29 +409,31 @@
     58.4900016784668,
     59.95000076293945,
     60.380001068115234,
-    58.2400016784668
+    58.2400016784668,
+    56.58000183105469,
+    57.5099983215332
   ],
-  "lastClose": 58.2400016784668,
-  "oneYearReturn": -20.186376998520753,
+  "lastClose": 57.5099983215332,
+  "oneYearReturn": -21.078638460418187,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Jim Cramer Says Skyworks Solutions’ CEO “Is Trying to Turn It Around” - Yahoo Finance",
+      "headline": "Has Skyworks Solutions (SWKS) Fallen Far Enough To Look Fairly Valued? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmY1R1NqMkpnMWp2c0ZrLW9IemZtaDVtWjdLWkRLWFFQQnQ0OE45aHNEMjhEMXh0Mm9mbk5ZbTJ4OVplc1kzUUdvWW50UHo0X2JJRndyRFlNSHVTY0oyeXJCRDctZ1hQY3E3dEpRS0V0eXFqYkN2ZmR0WnpRbWhuSlRuaFpTeXlIb2FGQTN5b1NnaEtIcEdTc2ZoYzg2eGZW?oc=5"
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQlJJMV9rb0VoMklMTmdwLVh4dmtFV1JvelRQYXZhUXRxSEJQdHJyWGV4aDJ0VXFic0NPbnItUXZvdkxhaW5zODJyNmRIN0N5cWlpSFZuY1A4eS1WTmctS1JtOG9PU25hbjNiX3VLSWJmcDZmazBWSkdpOEpaaDRjY0thMzBBdHo2bGQ2R2ZjWkZPSmNCZkw5UFRneHFaRUFk?oc=5"
+    },
+    {
+      "headline": "Skyworks Solutions Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTnJ6RWFhUXpZV29SRC1PaHQ5U3RBTEF6Y1gtVlk3YTFkR2hhcmw2dkgwOHNRd2E5Z1pCVE9OWjMwTUdkZnZYajYyOHJDYjFOOFptWGxPZGl3a243Ql9RRXlRWG1BVVZxd3RtZTZkdnFWbjRNSHZpVUU1VzdVdm54cW1pVTVaSFdQb09SSXRVR09XMTdvZHVTNGRnX0NlSzNKejBMbE9vcHE3UG5iZGhoTU9KUW5DOUl1LUw4MXlPa3RHVWlPMVFEWmlHNk9HUFZmeXB6LU1R?oc=5"
     },
     {
       "headline": "KeyBanc downgrades Skyworks Solutions stock rating on smartphone market concerns - Investing.com",
       "source": "Investing.com",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVWxURFhZZUptbVNVRzBRcjQ3ZEJPaGxYd1VFcGktbVo1M0dsT0lPOUw2V0s0X2VwVXVSODAzQmtRSEctNlJRYmdZQ3hvX0o4c0xKbnlXVmZqX0h4ZERNeTBaVmw5NFV5a2Itbzh2c2dJZFB3MzBhS1lzNGRXanllZzVDcGswMXRwT0Zud3llMW40QmNmeGhuM3JoQy05bkVSOF8zQlZBUF9YdUUwejhWTmZZLVgyLW94NVpCMXo4bjhONHhyWXJTOUxPRWpCRDJ2NEp4eGdQRQ?oc=5"
-    },
-    {
-      "headline": "Skyworks Solutions Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQakNWVTdFWnQ1T1F5MkJ5UU1YLU5xek5oTEdWMlV0c25EY2dFRThRdkkwRlJPU2pFQzhBcW0yMS1rYTVOcGFHWGdOdGZ0NHVUd05RamJUYUIzdERqZGFzTExjSllvUjY1VW9mOUVwQXR1cnlabXJaMjFLcUU0YnM5UEhCSkxCQzd1Z1dqUUs2V0ZybHJpX1FOSVhRRHFDQjdUbmlXUzJSWTltNGNGT3RtaXQ0WjBvWEhSU3RvdDBSb1M3eFNPUjJxT3VabnI3aDVTbkpId0tLZ3o0R0JHZlpacHRIc1BxaFU5QmJFZA?oc=5"
     }
   ],
   "insight": "Tracking Skyworks Solutions (SWKS)."

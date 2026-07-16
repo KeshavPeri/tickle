@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:49.044Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:02.647Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    45.61000061035156,
-    45.5099983215332,
     46.209999084472656,
     46.18000030517578,
     46.59000015258789,
@@ -24,11 +22,11 @@
     47.279998779296875,
     46.380001068115234,
     46.79999923706055,
-    47.09000015258789
+    47.09000015258789,
+    46.91999816894531,
+    45.7400016784668
   ],
   "6m": [
-    43.59000015258789,
-    43.91999816894531,
     43.540000915527344,
     43.84000015258789,
     42.9900016784668,
@@ -158,10 +156,11 @@
     47.279998779296875,
     46.380001068115234,
     46.79999923706055,
-    47.09000015258789
+    47.09000015258789,
+    46.91999816894531,
+    45.7400016784668
   ],
   "1y": [
-    42.95000076293945,
     42.849998474121094,
     42.95000076293945,
     43.400001525878906,
@@ -410,29 +409,31 @@
     47.279998779296875,
     46.380001068115234,
     46.79999923706055,
-    47.09000015258789
+    47.09000015258789,
+    46.91999816894531,
+    45.7400016784668
   ],
-  "lastClose": 47.09000015258789,
-  "oneYearReturn": 9.639113657992635,
+  "lastClose": 45.7400016784668,
+  "oneYearReturn": 6.7444651277901375,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Exelon Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdzM2RWU5SmJKR0xrcDVLLTNFekUxY0ViYk1CQXZrYUFYeU5uSVJOTXlwazMzdVhRZmg1TVZxcWZjTHBEdmIwWWsxa2tzZmQ0bFBpU05vVnhDbVBGTGVubzdkelFlelVWMzB3cEhNUzUzTVZmRGdkYW1DTl96d2xtRzc0d3VuQlg0QkNZZzVuaXdjUGdiNVBLUVU1UjBlWjMxV3VZMkJaNWFKcVUxRU4yUGRhYmdwQlpuc2hrdnZLSVpvTjg3WDdlVmVB?oc=5"
+    },
+    {
+      "headline": "Is Exelon (EXC) Undervalued Following CEO Warnings On AI Driven Grid Strain? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNVBGNkY3SXJYWHB2aHBKT3c4TDN3blF6Slg1T2hpRUJ1U2tLMVFrQ2l4cUFHX05fSWRVN0dlZ1diQVMwV0d5cDRXX2hVSmFmU3A0ay1yQVBfNWgyWF96WlVvVjEtWm00WnFhMUNrbG45cDVsRTRsNHFjWDhOLTJnLV9JYmRtNHZpdlNJVm9wNWZFR3NkNnItMFJCb1h1Z2Y0RTNER256bU1QcjVWNlluZmhHcUdvTGJaLWpINUxhRnNoRjZTb01yONIByAFBVV95cUxNNVBGNkY3SXJYWHB2aHBKT3c4TDN3blF6Slg1T2hpRUJ1U2tLMVFrQ2l4cUFHX05fSWRVN0dlZ1diQVMwV0d5cDRXX2hVSmFmU3A0ay1yQVBfNWgyWF96WlVvVjEtWm00WnFhMUNrbG45cDVsRTRsNHFjWDhOLTJnLV9JYmRtNHZpdlNJVm9wNWZFR3NkNnItMFJCb1h1Z2Y0RTNER256bU1QcjVWNlluZmhHcUdvTGJaLWpINUxhRnNoRjZTb01yOA?oc=5"
+    },
     {
       "headline": "EXC Stock Forecast: Why Investors Trust Exelon for Recession-Proof Cash - TIKR.com",
       "source": "TIKR.com",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRElFYWZTOEhLMWNrMVNZaXJvWm5RS0UzQVlCaENaRFpzTFZnZUVYREkyZ01pNHJUWndpU0NPTWZzZXpJWk1xOHZxVldUQkRjSUMwZGZsQ1Q3eWRmanI2ZXpNdmdzaVZKbV9wbkhDX09JZTBaRUNoRG94b3g5ZDBZc0ZhQ2hBRnNYcU5xVGV6S2JkbEplS2Y2RWhqNEs?oc=5"
-    },
-    {
-      "headline": "What to Expect From Exelon's Q2 2026 Earnings Report - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUVFWTEdQbUhQN080eFJIbXF6YWh6NkRDRWEwUmszQkx2NjJSTDBOZnYyUWZjQWRrWTRGeENiRndQelBoRWV2ZmxPRnlHZWcxRGgxLVdjT0podmJfcjAxNUNOWENoLWhMTjJSWTdLU2NVU0pObm8tNHlzTTlQdndORW40WFpfVmxRNFpoSk82U2JwdVc0ODV6eHRRVk4?oc=5"
-    },
-    {
-      "headline": "Exelon Corp. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPME8wN0lWTDhyQkpGWm9oVVhtOVh6SVQtbmZ3TjJEcE9hS2ZEUGtVV1FfQVJQTFdITHNZUzM4NWJLc2o4OFVIWmtWYk10V0RJb0RpN1RERmhOMjZReXJnSjBQZEtrMzNWTlpaSTVlaE1DNTFMWXBaNVhLYkQxeGNnLW9KNTAxZkphcGxENVRTaWpuSVp5LUo2RVdTSndQdEpPczhZdThMUVJpcWs0RWRMdVNBZm4xWUVwdllhdktuWGxTbUh4cHhSYXl5QmVOZ3RsTm1zM0V6Y2VrT3RaLTlaMg?oc=5"
     }
   ],
   "insight": "Tracking Exelon (EXC)."

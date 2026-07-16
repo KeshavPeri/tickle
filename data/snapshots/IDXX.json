@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:57.354Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:13.730Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    556.9400024414062,
-    557.9099731445312,
     560.8800048828125,
     570,
     573,
@@ -24,11 +22,11 @@
     555.6699829101562,
     558.5999755859375,
     563.5700073242188,
-    564.2100219726562
+    564.2100219726562,
+    540.6799926757812,
+    557.02001953125
   ],
   "6m": [
-    676.530029296875,
-    669.989990234375,
     682.22998046875,
     706.8300170898438,
     714.5499877929688,
@@ -158,10 +156,11 @@
     555.6699829101562,
     558.5999755859375,
     563.5700073242188,
-    564.2100219726562
+    564.2100219726562,
+    540.6799926757812,
+    557.02001953125
   ],
   "1y": [
-    526.6599731445312,
     520.5700073242188,
     518.7100219726562,
     514.6099853515625,
@@ -410,18 +409,14 @@
     555.6699829101562,
     558.5999755859375,
     563.5700073242188,
-    564.2100219726562
+    564.2100219726562,
+    540.6799926757812,
+    557.02001953125
   ],
-  "lastClose": 564.2100219726562,
-  "oneYearReturn": 7.129846721391174,
+  "lastClose": 557.02001953125,
+  "oneYearReturn": 7.001942427376466,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Why IDEXX Laboratories (IDXX) Stock Is Down Today - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmJoS19wZjJmTXl6UURNQlc4RWl3OVdXSXdteWtoV1haRW5tUkxJbzRXVkU2Wm9JdEtKSUpxc2J0SDJJaTF3NDNYeExITE1NM0RINlotOHZqMEFUMVNNMXZ4czg0RzRJaDRzekpuQmRrT3VPbzlhaHppa0tQWS16SEkxUzZiV2pQTEZITjFxTQ?oc=5"
-    },
     {
       "headline": "IDEXX Laboratories Earnings Preview: What to Expect - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWkptN0EtNzRmN3lTMy1DRDlLWmRXWDlQMFpiTkRwbXN2SUFkekNlWUhVV1Bwa3M2UHlGazdSZ25IOFNpT19mcjFOZEhDQ2p3TnNHS3FreW0tME1RaElFbS1HX1p6TGtKQ2w2aTlWZkNBUk05VXF2MGJLX2hKelFxU0F1aW9GZVpiUFdpRmNXbUw4LTYyLWdZblhrX2EzWXZOeDFaZXBEU3htQW8?oc=5"
     },
     {
-      "headline": "Why IDEXX Laboratories Stock Looks Undervalued After Raising Its 2026 EPS Outlook to $15 - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRUt2Y2VYekdTT0pqcHRfak82dFE4SGlIcXc0YXJacGdBenhIa2V1VTdOMnRnZnoxbG1aeUZRcVREUnhKUjY0Y09MMDdRbTM0VkFDeVFpMndYVEtBb2ZwY2ZXWTN0ZFZxb0JsNVpkdkRoMkRuM01JSTZZTXU1Vm5XblVwaDN1a0t5YW1WdjRCVG01VktxdWhnOWVQNTh0Y2VMbVBnTW9PVG1fWlNURUx2RFdmOA?oc=5"
+      "headline": "Why IDEXX Laboratories (IDXX) Stock Is Down Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmJoS19wZjJmTXl6UURNQlc4RWl3OVdXSXdteWtoV1haRW5tUkxJbzRXVkU2Wm9JdEtKSUpxc2J0SDJJaTF3NDNYeExITE1NM0RINlotOHZqMEFUMVNNMXZ4czg0RzRJaDRzekpuQmRrT3VPbzlhaHppa0tQWS16SEkxUzZiV2pQTEZITjFxTQ?oc=5"
+    },
+    {
+      "headline": "IDEXX Laboratories Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUUZ5dVFKSF9GMXdCOHB5S1Fidm1oTTBvNjdmQ0x3Qmxmelg4b3FibjdJRDZKTFRZaTk3Y2RNMW5PUmtfMEFLd2V4SFc5QnNyc3ZpcEFjRENRM2dtWGlvT090bWZXUHUxZDJXNE9JaDREaTg4ZWozM3MyVDRxSndQQlRJalBFd2VqSXlkVXJyWXlZR3RjcUN4bHNIZGQ0LVdhS19zTDBNWUp5NlJVR2o1Q25BRnV0Y255c0ptX0U4REM2VXp3S01MUmNQMHJ2NUtCOXRkYldR?oc=5"
     }
   ],
   "insight": "Tracking Idexx Laboratories (IDXX)."

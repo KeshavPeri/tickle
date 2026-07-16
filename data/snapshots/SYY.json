@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:11.749Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:30.875Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    78.54000091552734,
-    79.63999938964844,
     79.19000244140625,
     79.69000244140625,
     79.44000244140625,
@@ -24,11 +22,11 @@
     83.16999816894531,
     82.02999877929688,
     83.83000183105469,
-    83.45999908447266
+    83.45999908447266,
+    82.8499984741211,
+    80.7300033569336
   ],
   "6m": [
-    73.69000244140625,
-    72.62000274658203,
     72.79000091552734,
     73.0199966430664,
     72.12000274658203,
@@ -158,10 +156,11 @@
     83.16999816894531,
     82.02999877929688,
     83.83000183105469,
-    83.45999908447266
+    83.45999908447266,
+    82.8499984741211,
+    80.7300033569336
   ],
   "1y": [
-    76.37000274658203,
     77.30000305175781,
     77.91000366210938,
     78.41000366210938,
@@ -410,29 +409,31 @@
     83.16999816894531,
     82.02999877929688,
     83.83000183105469,
-    83.45999908447266
+    83.45999908447266,
+    82.8499984741211,
+    80.7300033569336
   ],
-  "lastClose": 83.45999908447266,
-  "oneYearReturn": 9.283745034575032,
+  "lastClose": 80.7300033569336,
+  "oneYearReturn": 4.437257658164843,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Sysco's Fiscal 2026 Update Will Stream Live on Aug. 4 - Stock Titan",
-      "source": "Stock Titan",
+      "headline": "Sysco (SYY) Stock Looks Undervalued Even As Broader Checks Stay Mixed - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXBSSmd0bXgxd05wUHBNQlJ3emNlMlZOZW4ydmROQ3RKZXgyOGNEb3h2THphYlNpTFRNZkJyazZDRjczZHZqLS1Sb1JYQUhORUp4RUFLVklqbVBESWwyei14bTFEZWRwQ1hKdXJQdFJPaDRCWUJSR1IxSXljTkFTa0ZIWlg4NmVIUzltN3dIQ1FldjRBQVd5dFhlQ0hycms?oc=5"
+    },
+    {
+      "headline": "Arbejdsmarkedets Tillaegspension Reduces Stock Position in Sysco Corporation $SYY - MarketBeat",
+      "source": "MarketBeat",
       "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVnY0ZmpNYnh5Y1JVVW9lcllNejRjdWJOeDEwZ3N5ckUtVm5IMHp4SzI4MlV1RGd3TFJUek5kbzMybU9tc21MemhmNF9faVFzUk9WdHdrNjh5RWNRdkREc1VNLThBZXY0QXZWUkxOdTlrQy1TZ19fTUhqaTZfNF9icHJrdU1vQUl3cThkbmE0UEwwTmVSaU5PUnBFOHlkZ0tpQzV2TGhOS1ZjU29IREZ4YkpMY1JVRkk4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUW9MN0NDMkZmSkRYZ2p2U2tjOXhmRlEwZGtFc0sxQmdDQVdCSm55TUtmSXVkMGdQaDZaRVFnZzNiZjNrd3BVeDVReUpOR0tma3piX0cxTDh2T1M0SHJVaF9vN2ZrR0x3Y0loNFNGN0ZVamxueTZHNUJYMzJNemp4Yks0dkt0YXkyQXpmSXlMM2JGaHlSeXo3ODI1dXNYN0RXTmIzTnRVV3NvWUNwWlg0SDRrMmZqWUN0ODhEelVNdzlDNGREcERXNzhBZGNaNnVtUC1pRl9iZEU?oc=5"
     },
     {
       "headline": "3 Consumer Stocks We’re Skeptical Of - StockStory",
       "source": "StockStory",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1R6NUJERTh0aEJIWUVvNllNSmF3NXRzRVJFdGNXUUF1VGNVNEJXb3RaNzEzMlVqbGwxdDhXa0w0aHNLZ3VZT0xuWnBXeXJTMGtXYWNMdEw2eksxaWkzNERrYWE4REpqcWRWVEtNWTNBWHg5MzYyTTFfY25uZDdLYTlCandlaE92bmZxY3NJdk5zUmZaeHEySUxR?oc=5"
-    },
-    {
-      "headline": "Sysco (SYY) Stock Looks Undervalued Even As Broader Checks Stay Mixed - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXBSSmd0bXgxd05wUHBNQlJ3emNlMlZOZW4ydmROQ3RKZXgyOGNEb3h2THphYlNpTFRNZkJyazZDRjczZHZqLS1Sb1JYQUhORUp4RUFLVklqbVBESWwyei14bTFEZWRwQ1hKdXJQdFJPaDRCWUJSR1IxSXljTkFTa0ZIWlg4NmVIUzltN3dIQ1FldjRBQVd5dFhlQ0hycms?oc=5"
     }
   ],
   "insight": "Tracking Sysco (SYY)."

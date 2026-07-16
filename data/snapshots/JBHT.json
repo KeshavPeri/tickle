@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:59.322Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:16.193Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    280.75,
-    289.1400146484375,
     289.3599853515625,
     283.1600036621094,
     279.82000732421875,
@@ -24,11 +22,11 @@
     276.45001220703125,
     282.6099853515625,
     279.9599914550781,
-    283
+    283,
+    280.8699951171875,
+    276.2799987792969
   ],
   "6m": [
-    194.33999633789062,
-    196.77999877929688,
     202.02000427246094,
     205.5399932861328,
     203.82000732421875,
@@ -158,10 +156,11 @@
     276.45001220703125,
     282.6099853515625,
     279.9599914550781,
-    283
+    283,
+    280.8699951171875,
+    276.2799987792969
   ],
   "1y": [
-    148.86000061035156,
     151.44000244140625,
     152.69000244140625,
     148.88999938964844,
@@ -410,29 +409,31 @@
     276.45001220703125,
     282.6099853515625,
     279.9599914550781,
-    283
+    283,
+    280.8699951171875,
+    276.2799987792969
   ],
-  "lastClose": 283,
-  "oneYearReturn": 90.1115133949022,
+  "lastClose": 276.2799987792969,
+  "oneYearReturn": 82.43528415564609,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "J.B. Hunt (JBHT) Stock Looks Fully Priced Despite Fair Value Support - Yahoo Finance",
+      "headline": "The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdExrLVdkSlpWMWExSWs4RnpyLXRKSmY1alREQzIyWlh1LWVMZjYwajlsekFpNUp4bFhpTFJhamx3TTU1eEJDNTRKRmVzUmJIT3pqb1Q2TW9ESzVCU3FQaFhmSEJ6Sng2ZmFfdVE3S29OWGdPNGVrRGpxbTE2MW52WVBHNWJ0bDZvYkY1NFN6bmxZeXV4VHhxQTJPeDNsajlJRkt3UVJ6ekJ4czlNM09BZllTR21lUUx4SUoxMkRScm01ZnRLeXVvZkFnZG1ZQQ?oc=5"
+    },
+    {
+      "headline": "JB Hunt Shares Rise as Profit Beat Signals Freight Recovery - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT2ZaQ3M3LVVMTjJFc012Qjl0bWNGX2pHZlYwNjF2MFRONmhOVmVCYWpGa3l0U2l2bDJpZ2QzcFBZNTNITEpGczRrOGYxTF9DZTA0TGN3WXRBTEhsNzhsaHMyYXRLU1g3MUlCRGYtbmpIWUJPUDdrbU83SGkwS3NtX0NCTFVPV1Bwd0Z0OWRHdHBoUWNnZUVFckJiemRfSUVaeFR2Z3ZPcEcta2xveUZv?oc=5"
+    },
+    {
+      "headline": "Compared to Estimates, JB Hunt (JBHT) Q2 Earnings: A Look at Key Metrics - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkpQX0FObEZkdndZQVJrUzlVZ1c3Z1JDQVZFUi1zX3hLYnNrU05hclNRVDNmYXlVeUpRUUlyQUdUb2tGdFNBc0ZHQTNoYV94ZGJUcEYtMWFkbVZHLTBadzNlODBYS1A1VHlSZVNQR0Zwcnc4WEhUS0RCR1BJd0hkZEdmcjV5VGp1SDZsVw?oc=5"
-    },
-    {
-      "headline": "Analysts expect J.B. Hunt to report stronger second quarter profit - The Arkansas Democrat-Gazette",
-      "source": "The Arkansas Democrat-Gazette",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeE9QWnEtVzF3YnpWVzNIR2dmeWU1VFd6MTFpYkRycXJqaFBxajd6ZFYxZE1Wd1lCOXZRLWRSVmVCbUhBbFJVYVVteTdkLTZrVXE4cnFtVUxWRklXdzFUdUE2ejI4dGVXUG5zUXRmYUVBT3Z1WDVQdFVxdF8zRlRDNnhBdkZMRVp2WkVFN0JiS01UU2tOQUp4dk9VaTViUGM?oc=5"
-    },
-    {
-      "headline": "Bernstein upgrades J.B. Hunt stock on improving truck rates - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZVRjaTdlb0xGZmdGajFsVkRBYWs2MHlaZS00LWRoWUxjamM5anpaRW9HZEVVaThRWmhibXNweUJNQURCejh5M1BpLVZMemRWdm94VTN6ZzNudl9xdVp3ZldJYkp4NGdZS2haUV8xcXhJcDNZX2piZkRBN0NZbU1RMkhLMDlSYjZyQUN4V3czSFBiRmJkVXllbGZCcWNkRmVJbzQxOENoeVhSbFlOVXlDbkkxX2hvZ0d1?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3NVTVUtWDBSWmtWXzI4QWs2bXZLbFBIS0R0MUctSzNLanZ1YUo5NjZPXzBBN0NLQWtMcmVJQ3BfSjFtMF85am42VGFLQW14a2FLOW5BaXVfcmc0a2dTZl9kRG5ENUVPUXRjeDZsZ2NLSF9OV3RSNmxMZ2VLMVRTZXBaLTVrYnF3WTJqSzNLdFAtX1N4R1U1T2NISGk?oc=5"
     }
   ],
   "insight": "Tracking J.B. Hunt (JBHT)."

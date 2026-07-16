@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:05.965Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:24.215Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    166.1300048828125,
-    170.75,
     174.33999633789062,
     172.72000122070312,
     174.83999633789062,
@@ -24,11 +22,11 @@
     179.9199981689453,
     182.86000061035156,
     183.5500030517578,
-    184.11000061035156
+    184.11000061035156,
+    186.63999938964844,
+    191.1300048828125
   ],
   "6m": [
-    136.58999633789062,
-    139.27999877929688,
     144,
     144.1199951171875,
     142.6199951171875,
@@ -158,10 +156,11 @@
     179.9199981689453,
     182.86000061035156,
     183.5500030517578,
-    184.11000061035156
+    184.11000061035156,
+    186.63999938964844,
+    191.1300048828125
   ],
   "1y": [
-    123.5999984741211,
     124.80999755859375,
     127.05999755859375,
     127.93000030517578,
@@ -410,18 +409,14 @@
     179.9199981689453,
     182.86000061035156,
     183.5500030517578,
-    184.11000061035156
+    184.11000061035156,
+    186.63999938964844,
+    191.1300048828125
   ],
-  "lastClose": 184.11000061035156,
-  "oneYearReturn": 48.95631301233376,
+  "lastClose": 191.1300048828125,
+  "oneYearReturn": 53.13677479489086,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Northern Trust Corp. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaWw0NldZeFVQNTljNzJUV09xRFktN3N5clBfY2s0REJnMUFfdzFQejJfUHYtZG5VVDlyQ1FDRjI0TnBab2FiVVpZSklNOEtreGZfRjdYa3RsNXBVRWFRLUhtVU95S0xqbTNQU0Mwc1prVDcxQXdMRzlMamlObUFEM0xSa1U4c3JjV3lSTGhBX3VhME1YRTNDQlE2M092RHp1NWpNSER2MUtKV05CZm5IQ3duTXNSbWNjWVZGVDJOcGdfQzZyQmtCUkJqT3RzMDF4ZnJjOE5XSGVEYTVZZGhOZG1STEdMX3F2aERxdUZSS21rLVEzaUtWaFljeHNkaTBOYWl1aw?oc=5"
-    },
     {
       "headline": "Northern Trust Stock Hits All-Time High: Is Now the Right Time to Buy? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbnZLSEUzeS1KRW1nOC12NDRPRjF6cExMMVFoTGFzc1hSVVB6NjRuc3N1R0tzUk9XXzNBM0JEbVpjQ2VoVTlESEJOMTNXRnh3OS1sMmk5bTFlekZvU080ZTJSbnl1V0I3MXVhX1BIVk5kMGtCV0Rpa0xnYy1uekhLQktvTDJDdWhhVzE4NjB0b1pXbWNad1I5eVQ4Zw?oc=5"
     },
     {
-      "headline": "Northern Trust Corporation: Strong Q2 Results Expected (NASDAQ:NTRS) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXF2VF8yaUN4amZJQ2dMWDlQUEhiRHNkVmpYelJOVjFIUlZYNXN2bzdXM0hVUUFxdUV4LW5UZDlSM1Y0cEhnSHVpWTdjNXZEaV90WURqQ2JGQ21sYTkxS0c3UDZjWXYxM2xSYkZmSGM2eHctMzMxaFZGbnZjZG5FT1BWVG93LU82d1J4cUFaeW10RDZQMDlsQk1R?oc=5"
+      "headline": "Northern Trust Corp. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaWw0NldZeFVQNTljNzJUV09xRFktN3N5clBfY2s0REJnMUFfdzFQejJfUHYtZG5VVDlyQ1FDRjI0TnBab2FiVVpZSklNOEtreGZfRjdYa3RsNXBVRWFRLUhtVU95S0xqbTNQU0Mwc1prVDcxQXdMRzlMamlObUFEM0xSa1U4c3JjV3lSTGhBX3VhME1YRTNDQlE2M092RHp1NWpNSER2MUtKV05CZm5IQ3duTXNSbWNjWVZGVDJOcGdfQzZyQmtCUkJqT3RzMDF4ZnJjOE5XSGVEYTVZZGhOZG1STEdMX3F2aERxdUZSS21rLVEzaUtWaFljeHNkaTBOYWl1aw?oc=5"
+    },
+    {
+      "headline": "Northern Trust CEO: Great market conditions and our strategy has brought strong stock performance - CNBC",
+      "source": "CNBC",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSy1kcGZxTWt6RkhFNjRoM2E5LUNNOUpVeWlXeHZzMnRadm9rRGhwRDAtRkFCOUZrekRDX0hpSFh3c0VCSUpDcEhGdXljUlNPdTZsQmZ3M0pjdWpPckhST3h3QTNrVE5IWEg4am10WUstcGFaVHYtRm1FVUhGT0pPdFJpbWk3d1hPSGF0bTdtWmhEaURTSExVZ0hSRU96TjZIU2lWNEFfUFdGS1Q0aThfUGtwVXpBcTMxZEVVNWNzRzhQdGhySDN1RDZVV3NYM0ZZYnZMdV9n?oc=5"
     }
   ],
   "insight": "Tracking Northern Trust (NTRS)."

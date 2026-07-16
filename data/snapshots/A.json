@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:26.972Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:36.686Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    131.6199951171875,
-    129.5500030517578,
     129.83999633789062,
     130.58999633789062,
     128.33999633789062,
@@ -24,11 +22,11 @@
     129.07000732421875,
     133.58999633789062,
     134.2899932861328,
-    134.0399932861328
+    134.0399932861328,
+    135.1999969482422,
+    134.7100067138672
   ],
   "6m": [
-    136.07000732421875,
-    137.9499969482422,
     142.92999267578125,
     147.60000610351562,
     147.80999755859375,
@@ -158,10 +156,11 @@
     129.07000732421875,
     133.58999633789062,
     134.2899932861328,
-    134.0399932861328
+    134.0399932861328,
+    135.1999969482422,
+    134.7100067138672
   ],
   "1y": [
-    112.94000244140625,
     113.43000030517578,
     116.36000061035156,
     113.98999786376953,
@@ -410,12 +409,20 @@
     129.07000732421875,
     133.58999633789062,
     134.2899932861328,
-    134.0399932861328
+    134.0399932861328,
+    135.1999969482422,
+    134.7100067138672
   ],
-  "lastClose": 134.0399932861328,
-  "oneYearReturn": 18.68247776572639,
+  "lastClose": 134.7100067138672,
+  "oneYearReturn": 18.76047461116017,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Agilent Technologies (NYSE:A) Shows Strong Breakout Setup with Top-Tier Technical Ratings - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSzMxVHJkd2N1TUg2VVFzU2hTWDFZWjItSGJJajhhcE1lZ2hDSmVPT2lJdkFNODE1UXRsVXVQNHdka3g2OFRZNDNzOFZwMmlCNDNVSTFQekdmYlY3b1ZkUjM0aWNPRW40YTZrVS1mV2NJWk44Z295M2JzTUg5VzNabTh5MkVZcGxhYnpTblg4OThNYWJfVmNJOUhXSkVGUWJuVk9ZcWs2S0p5TW1XekNKWHRzbnBucE9MOXNnTTVVNXBGQ2pMRmFTUmt5RFNFNjZJ?oc=5"
+    },
     {
       "headline": "Agilent Technologies (A) Stock Could Be 23% Undervalued After Earnings Beat And Guidance Raise - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -426,13 +433,7 @@
       "headline": "Is Agilent Technologies (A) A Bargain Following Its New Lab Tools And AI Software? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT3U4RHlaOFZHNE9SbG43dEdJZU12RUdUaUJSbXZDVklpNG5EQU54cmduUVRPTjNYbmZrQVZqZ2xPOTktc2lSU1V1WlVEZEFYS0ZLVU1PODBOa3hHaUVFd051X2ZxX0ZGQXFlOXkyc0lJWmQ3MzdYQVRvZ1pqVV83d0VrYW5md19UeTNtcFpGMkZKZUZTblNtR0U4NmRyc0d1Z1FtNEFoemRZSkp6UzVOY2NPWVJpNG56OHcwNEEyTnE2cFRNNkpQVTh2a19naVEyaHFFVV83YUtDc2xTNG9OUDZpTzl6bnZD0gHoAUFVX3lxTE5PdThEeVo4Vkc0T1Jsbjd0R0llTXZFR1RpQlJtdkNWSWk0bkRBTnhyZ25RVE9OM1huZmtBVmpnbE85OS1zaVJTVXVaVURkQVhLRktVTU84ME5reEdpRUV3TnVfZnFfRkZBcWU5eTJzSUlaZDczN1hBVG9nWmpVXzd3RWthbmZ3X1R5M21wWkYyRkplRlNuU21HRTg2ZHJzR3VnUW00QWh6ZFlKSnpTNU5jY09ZUmk0bno4dzA0QTJOcTZwVE02SlBVOHZrX2dpUTJocUVVXzdhS0NzbFM0b05QNmlPOXpudkM?oc=5"
-    },
-    {
-      "headline": "Agilent Technologies Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSjNjVDBFR2E2TUpLRUNPTVJMNkVGeUxzNEZLR3QzcW1DWDlpSXN6Tndwbk5qT3RjcGJYQk5rWFNPdHg5Y1FXdEQyTFVVaG5pSnpNSTFTXzAzMzNQYTcycVlWTWZvdzhoUXMycUlNeVZLQmwwM05PUlFqb2Mtc1ExVTN3dzFmai1POWNyOTdhOWdlNktBTjUyd2w3azRpRFhaaE1EZzFsdjZ6TDNwM3l1US1kc0o2MzNJcXZFNWtTRmVKQ0l6ekNlaWN1ZENKXzRFbkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcTlKR2h6ZVlVaTI1VlRueVdoOEkydVJzYTdtcFIxczFjQ0pQYnNEVl9yeTkxX3hieUtTV1NBZk9uS091NF9xWUpEcHBXZ3hqaXI0N0RyZW40ODlSOUhaUDZFUGFpaFBSMlYtbWhYM3hGdnBTTjlmVEtlVjBoS2F0NWlVajRYRzNGd1RfckdBbkhtSFZ0ZGZaR3VnVmxSNjNXZE5reGxjcU9YOFQ5czluLURGNERYRTlBbWo5RG5sdG44bXBCTTNEN0NCTkFyVGlrdXRRWER6WDBZdm9TSVNCWTFqONIB6AFBVV95cUxOT3U4RHlaOFZHNE9SbG43dEdJZU12RUdUaUJSbXZDVklpNG5EQU54cmduUVRPTjNYbmZrQVZqZ2xPOTktc2lSU1V1WlVEZEFYS0ZLVU1PODBOa3hHaUVFd051X2ZxX0ZGQXFlOXkyc0lJWmQ3MzdYQVRvZ1pqVV83d0VrYW5md19UeTNtcFpGMkZKZUZTblNtR0U4NmRyc0d1Z1FtNEFoemRZSkp6UzVOY2NPWVJpNG56OHcwNEEyTnE2cFRNNkpQVTh2a19naVEyaHFFVV83YUtDc2xTNG9OUDZpTzl6bnZD?oc=5"
     }
   ],
   "insight": "Tracking Agilent Technologies (A)."

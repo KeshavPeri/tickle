@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:10.489Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:29.505Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    29.270000457763672,
-    31.969999313354492,
     30.459999084472656,
     30.850000381469727,
     29.219999313354492,
@@ -24,11 +22,11 @@
     28.170000076293945,
     28.239999771118164,
     28.309999465942383,
-    27.65999984741211
+    27.65999984741211,
+    27.649999618530273,
+    26.889999389648438
   ],
   "6m": [
-    29.270000457763672,
-    30.959999084472656,
     30.06999969482422,
     30.540000915527344,
     30.010000228881836,
@@ -158,10 +156,11 @@
     28.170000076293945,
     28.239999771118164,
     28.309999465942383,
-    27.65999984741211
+    27.65999984741211,
+    27.649999618530273,
+    26.889999389648438
   ],
   "1y": [
-    53.16999816894531,
     53.220001220703125,
     52.75,
     51.77000045776367,
@@ -410,29 +409,31 @@
     28.170000076293945,
     28.239999771118164,
     28.309999465942383,
-    27.65999984741211
+    27.65999984741211,
+    27.649999618530273,
+    26.889999389648438
   ],
-  "lastClose": 27.65999984741211,
-  "oneYearReturn": -47.97818168147442,
+  "lastClose": 26.889999389648438,
+  "oneYearReturn": -49.47388430500833,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Supermicro's New Cooling Doors Offer Liquid Cooling for Legacy Data Centers - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWjBPMUpRd0ZpSnRSSjVuZndxVENpRVNCTWM1bUJLSm44dkphS1JVYWFrWXBtaU1WUWhuZWMteWgyeFNiaGp2dXhoc3BFaUhlbHNrSWZDX1JfUTEzNFVvaXk5d0EwNGNodEQ2ZXBOQmdfa2VjQW9hRC16NWVTV0NOanJuTkVOR09PaEFGajVWbkR5a0l3LUFCY1AtVGlKbU5WZjlLbzhXOUhHQmhQQTNlWERtX0lFZ1RfTFRoWA?oc=5"
+    },
+    {
+      "headline": "I Wouldn’t Touch Supermicro Stock Right Now With a 10-Foot Pole. Here’s Why. - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbmxLd0lyYXdiQ3gwTzJUaWR5WGtsNlJZbjhxT21GRmJuT3laQy11ZEsyYVZVQU5hUWF3UjVmSnJLSzNkZ05EMjlTXzc5WHhLUmY2ajk4TTNQb0xkc2ZpUWNuM3Z4Ul9xZTFQWkc3TFEtYk5MdEVmSElRSi0taExwOGQySTdWVzRHXzhmdlQwcllZczZxcE5iX0NDNVVWTWVSdmhkWndDVlgwQmFBTHNCY2NodDhYb3c?oc=5"
+    },
     {
       "headline": "Supermicro Computer stock sinks on $7 billion equity raise - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRDVkUXpqNDdmdXI3WjZmUF9JTDZUeFB1T3lrT3NacUxheTBHWGVvaXRGbHFlbHFJbk9FaHhqcFR0MWV4bHNyeXl3eW91WS1mMUM3WHRWcDc1TzZxTHI1d3BqQV9qM2JxSzFoamZEdGZJUktzTzZkUTJWVlVGOVREODY4OXFUdE5oX2gyazdfeVJ3SUl3Xzk2MDlEdmt1OUZMWVpXTTU0aEFtVllEbVg1VUl4ZU94elVUWUZhSHVB?oc=5"
-    },
-    {
-      "headline": "Warning: Supermicro Stock Faces a Critical Trust Test - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHlBb2dVaGVfdHNyWEJlbGhYcTB3dnJmR3A5cmZwYktoakphMWlvV0wxRTFzVUZiaUpGNXFyOFFXQ2t0RWY2OWRGaUFabkF0blpkVU9vbkNPQkQ5bHZvSGtxU19xcWE5SW9NQThQS0VscWM2VkVFSmhfbGlDazR4Nkp6TVFjMElBWG9EWURzQkU1WHNBTlZvQw?oc=5"
-    },
-    {
-      "headline": "Supermicro Stock Jumps on Wall Street Upgrade. The Real Test Is Still Ahead. - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdm1ORDFZX2liaVFjMUdFZkRyVTJBel93cFFTRDA4UkdENGJwNmhta2V0RFNCX0RIZ0xTdTF4UzIxQk5URGluN0hyM1J4SGlibmZtbk10eEo5MzRRcS1RZEhjblY3ZFE1LUFQdFRkeUdGcUstMVZpeGtJcFdOTFlONm9LNDAzelBnVHM3eHJvVlBIREo4RzFYR3MwNWU2MmZSdjNnREZnWGlDQVFBQ1JtcG1MTnh3V19yc2c?oc=5"
     }
   ],
   "insight": "Tracking Supermicro (SMCI)."

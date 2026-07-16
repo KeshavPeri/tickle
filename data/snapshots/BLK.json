@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:35.073Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:46.222Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    1010.6799926757812,
-    1016.5800170898438,
     1032,
     1042.8699951171875,
     1052.22998046875,
@@ -24,11 +22,11 @@
     990.3400268554688,
     1019.6799926757812,
     1036.1099853515625,
-    1031.56005859375
+    1031.56005859375,
+    1025.43994140625,
+    1093.4000244140625
   ],
   "6m": [
-    1070.3399658203125,
-    1085.06005859375,
     1119.760009765625,
     1112.280029296875,
     1075.0899658203125,
@@ -158,10 +156,11 @@
     990.3400268554688,
     1019.6799926757812,
     1036.1099853515625,
-    1031.56005859375
+    1031.56005859375,
+    1025.43994140625,
+    1093.4000244140625
   ],
   "1y": [
-    1046.1600341796875,
     1082.239990234375,
     1105.3800048828125,
     1103.5899658203125,
@@ -410,29 +409,31 @@
     990.3400268554688,
     1019.6799926757812,
     1036.1099853515625,
-    1031.56005859375
+    1031.56005859375,
+    1025.43994140625,
+    1093.4000244140625
   ],
-  "lastClose": 1031.56005859375,
-  "oneYearReturn": -1.3955776467207142,
+  "lastClose": 1093.4000244140625,
+  "oneYearReturn": 1.0311977269727974,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "After voting for Housing Act, John McGuire sold BlackRock stock - Cville Right Now",
-      "source": "Cville Right Now",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSEc1R3hBTnFmWmVqNjlkVXNUbzdSWEpZY29wZzQ2T3phck1oejE1Vmh2emYxdkVzY2xUcEVYS3dCSE03SXRMMElvUnR2dnpnTVNxN1ZQdnNwZDRBMkNQb0t3STNoLWxjWkRXVEZ5OHFYMm9BVEZ6NE15MC1RaV9WS3hHR3BpUEprU1NScGJfUlVES2RhZmIxOXZNTUpqMWJTQmRHLQ?oc=5"
+      "headline": "BlackRock Shares Rally After Assets Soar Past $15 Trillion - WSJ",
+      "source": "WSJ",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX3VKZ19ERExiZm1UOEdYdkVfckhJYWlmekR0XzVuSnpndksxSE51V2taNEh3dWFMUUkyMktFdXZCV21oR09UYnRjM0ZvNVZNQjhPOUVHbld1TmxDWjNva0xoSlhhZ3FvZHZLWDJhMXJnTDBzSTUtVllrUlNVa0kzVXRmRTdPaUk?oc=5"
     },
     {
-      "headline": "BlackRock’s ETF machine may be ready to surprise Wall Street - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZjdIWFJxUlNDWWdiSThwdndYTGY5M2JxRjFsWEllcnZZblZKdkc2TjhYTGhNYlM4TGZ5UDhHOWVsbzFnVUdsbmZIbnYwU3RwN2t0MS00YWdJTVQyam44ZE02SElaaURNYXhjQ1BpRUNyM3Z6Snk0TDFHSlRKR05QUEdtdTRHWEFja3djNWUxYmJFZ3VRVG5DM0tXVQ?oc=5"
+      "headline": "BlackRock has best-ever start to a year as investment flows double and profits surge - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV0RVSFNOdTJWdnE0WXRpQWQtR3M3X1ZOcWVCMXQzU01namM5cUdqYlRPNnItZC1oYUNXaDNDRjdlb24xRnJlQTlJWDZCT29vSkNXVmt1MnJGWVdvaGUtSVpvRWhMSWl2Z1d4SlhSXzRGNVg5V2NFWTcwV0Nzb28yR3NYMkxCaU93bHVzQXUyMVpzSHRIaFhLdzI0M1FoN2JyRUpqbXBlODJuX25TRGpnNVoxcS1rT05q?oc=5"
     },
     {
-      "headline": "BlackRock, Morgan Stanley, Capital One Financial and an Energy Stock: CNBC’s ‘Final Trades’ - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGFzaGF1czJSenZyNmU3TTlYSC1DQlFfVkNOdjhJZC1mRkdUX3M4SkRMUk5Gbkh0WXRuaFQyYVlDc1lpMXowQzFlSnIzMDU4OHA1YnpjZ1RIVHRMQU9NXzRzbTlWUmd6UjNJNE1TT2ZZZThmREVoR2s3cVRLLU8zc0YtVzV6RGZBaTFpMGlfajBFU0JfNUh1LUdpdUFUeUo5ZW5qdC1HZjFtR2JqbTFaNXhSRG5TUFVuMmVBUjYyc29YV254SFBpMF9fQUZoMm9fRlg4RjZuNXQ0VGd2M3UyMmxZa2M?oc=5"
+      "headline": "BlackRock crosses $15 trillion in assets under management as Larry Fink hails 'strong' market fundamentals - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTXpoeVZWVlVwRm1KNmNjdmVHTFpSTUNGVXNsdXJrUkNEZkNJLUVyX1F4dGlWenN6Zlljb0xFYWFoYjZfR2tPd0Q2cFhDREphMWY2YmRZVjBDR204VE92NTZqbXl4TFd6b2JTUzU0ZUI1MWpzakJMNTllMXdtcmc4ekQzZXlFMjlmb0FvVzV0QVhRVHppb3N0Y0ZfclZQZ3lfTHFZZ013blVGT3BKUjJIdEQ1NlNNX1p1ZG9zSlJheHFxWW52VDd0NlhjLTNMYW9FMjR2Rmd4d0lzbEUxczlrNG9jRmNwNzBpOG5NcWVET2lkTGVpRHZJNUwzQQ?oc=5"
     }
   ],
   "insight": "Tracking BlackRock (BLK)."

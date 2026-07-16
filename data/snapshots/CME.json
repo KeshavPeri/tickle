@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:39.145Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:51.177Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    263.79998779296875,
-    262.17999267578125,
     269.5299987792969,
     266.0799865722656,
     261.6000061035156,
@@ -24,11 +22,11 @@
     243.07000732421875,
     239.7100067138672,
     240.27000427246094,
-    245.10000610351562
+    245.10000610351562,
+    243.61000061035156,
+    245.17999267578125
   ],
   "6m": [
-    273.0799865722656,
-    269.67999267578125,
     275.05999755859375,
     269.1499938964844,
     266.8500061035156,
@@ -158,10 +156,11 @@
     243.07000732421875,
     239.7100067138672,
     240.27000427246094,
-    245.10000610351562
+    245.10000610351562,
+    243.61000061035156,
+    245.17999267578125
   ],
   "1y": [
-    275,
     277.5299987792969,
     277.82000732421875,
     274.70001220703125,
@@ -410,29 +409,31 @@
     243.07000732421875,
     239.7100067138672,
     240.27000427246094,
-    245.10000610351562
+    245.10000610351562,
+    243.61000061035156,
+    245.17999267578125
   ],
-  "lastClose": 245.10000610351562,
-  "oneYearReturn": -10.872725053267047,
+  "lastClose": 245.17999267578125,
+  "oneYearReturn": -11.656399757073348,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Live Cattle - CME Group",
+      "headline": "CME Group stock may shift 3.8% on July 22 earnings release - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVNCOVcwOFM1em80WHdOS0x1UDRBQTUwdnZSUU5LdHZvb29yRWNIbDJRcWpBNEU3NzFPN09xLVM0bEZ6Y2NSaV9VS25lMDlDbG9Jd0g0cFFJRWtnM25CbEpXbUdiTGNVYjRLbGNjUENpbk9US2tMdEVoSTRLWEllWUJna1pXdkJaN1lFd0dFQmpiSTVLbVgyMVItak5ELVpQckVzcTlaOGpCQnA4YWlHNmxteDZSMmw5QVE?oc=5"
+    },
+    {
+      "headline": "The Power of Capital and Operational Efficiencies with Single Stock Futures - CME Group",
       "source": "CME Group",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52ZjVWcmlPT2hlZHJFdlA0OUxJN3FmbWdOQUJrdjNmb0ZDc3RselBpcnFjOGtjMm9ieFE3LWU5emR6TnVBYmVTNzRVcDFycjN4SWNPUkluMWI4NmZGWnVMZmZYYTZuMU9GU21CVVMwT1NqOTJT?oc=5"
+      "when": "2026-07-01",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUhIVHVCY3R5TGl4Znp6ZTZXdkhVMFUzZXl5cXk3QWU3RlN4MnhhS0g5Y2R0dzUyVFA1cEVYVU1LWFR0Z0xDOTNaQ2E4MklTQVNhUm5ubXRSSGZVVlV2eWxCcXR0Yi0tMTFDWWNiN1BpakdwVVVoalYzNVo3MVhoYzIwTC1PMlpqNVZjU0ZjR0tfalM1Tm1fR0owMnBodEh1RGZEZHpIRk12cjVJYXBPTnRMSE1lUmhscDRR?oc=5"
     },
     {
       "headline": "Competition And Weaker Trading Volumes Are Weighing On CME Group (CME) Stock - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-09",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRk5VN0U5ZDI4bjNtWkVSTEVvTTRqVXVEZ0I5bFdwUzc3bWsxSFBOQWpGWWZraTlZS185YnE1Um5zNTJ2c0lqQXQtR0VrT3hjWUxnWjdRS1FWZXZja1BMWmg2V2pLcGdrWktzdV9WZGdsNG9EMjZEWHNlOFBsVnFYWTlJWWNYVzE4ekdjbC1QVEtrczAzX2tVbk9GMUlrRnVRd3VvN3pJYTRwaFFf?oc=5"
-    },
-    {
-      "headline": "CME Group (CME) Expands Its Product Suite, Is The Stock Cheap? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM21mMDhjUi1iVFFkbmdaTjd6eERmdjZCN3BtcGhxT242MG51TUxiRzBhTG9OSWc0T1BYN0Z3U3JsNU9SVnJ3Ykp2WTdQNFJfeXJmV2JBTmpfQWNpNEFvWTQ2RmE0dENVMUlQcXRoeUZBUjB0WVhScXMwMkQ0N1Q4b3ozMHVsaEJWSVZacjBZTWNkQVU1bnlncVQ5aF9fWDNFbUthYkxZQjMzeG1lQTNlTWNlanpUVHdCNE41NDdaN2p4ZU9HUGl4N0xFQjdsWDdaNVVEWnJB0gHbAUFVX3lxTE5HTEJkRkdUNHg4NzdkQ0xsVzB6SjMxOVdRTE1haURNUk9fWWRVa3c2d0JBVWw0QWxUbFh2RGJCbjJCaFdoQVF5TFc1V01qOFd4SERmOWU3eFAxZV9SbWQ3ZnhsRWRwSlRLQlFOc2kwQVhQc21uQ012MlgtTDZiT2VVRkticlpUa2w0Yl9waVNPcG9PdVNZNGNrWkQ5VUEzX2ptRk9xelNtNUVOZkZoaUhnZUdTeUtaTXQzSE1CYTFENDFkQ1NKc0dNX2RzOFgxNUtjWTdseXlfN1dSSQ?oc=5"
     }
   ],
   "insight": "Tracking CME Group (CME)."

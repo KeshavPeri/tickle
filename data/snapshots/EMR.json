@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:47.369Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:00.838Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    137.11000061035156,
-    142.08999633789062,
     143.07000732421875,
     146.52000427246094,
     148.80999755859375,
@@ -24,11 +22,11 @@
     136.47999572753906,
     137.8000030517578,
     138.8800048828125,
-    135.3800048828125
+    135.3800048828125,
+    136.08999633789062,
+    136.25
   ],
   "6m": [
-    132.72000122070312,
-    135.82000732421875,
     142.85000610351562,
     145.6199951171875,
     142.14999389648438,
@@ -158,10 +156,11 @@
     136.47999572753906,
     137.8000030517578,
     138.8800048828125,
-    135.3800048828125
+    135.3800048828125,
+    136.08999633789062,
+    136.25
   ],
   "1y": [
-    139.69000244140625,
     140.3000030517578,
     144.38999938964844,
     144.22999572753906,
@@ -410,18 +409,14 @@
     136.47999572753906,
     137.8000030517578,
     138.8800048828125,
-    135.3800048828125
+    135.3800048828125,
+    136.08999633789062,
+    136.25
   ],
-  "lastClose": 135.3800048828125,
-  "oneYearReturn": -3.085401591571739,
+  "lastClose": 136.25,
+  "oneYearReturn": -2.886673530765166,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBieDVneUptM0h2NXdmdnlPNU4tckpXTUVpbUFHbi1SbU9YWUlCUGVVMU5jeGpzSWVFbGowV0oyMFZ0dmg4RW9vaGl5VlpQUGs?oc=5"
-    },
     {
       "headline": "Emerson Electric (EMR) Stock Looks Above Fair Value On Cash Flow, Below Fair Value On Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVUzalc5LUVENjc2LWFOOG81RFZJbGN5dHZDQ3YzRXZXYlJRMWg1ci1uaW1LVkM3ZXFndWlZa0RlZ1FlZzdXOHNvZDdqMHl6NWN6Y2YtSVloU0hzdjkydFRHR0t3UWc2T2JiaHhBTXVfenc3SmktQWFGZXlGRTNLcHVtZ0NrZFUza3JiZWZ5RHV6Snozemd0Q2htbUY5UQ?oc=5"
     },
     {
-      "headline": "Emerson Electric Co. $EMR Stock Position Decreased by Ferguson Wellman Capital Management Inc. - MarketBeat",
+      "headline": "Emerson Electric: Avoid Due To Valuation, Despite Being A Dividend King (NYSE:EMR) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVFnOWFaSS0zbGx6LVZVemNiY0NCOVpjcE1nLWt1VTZINjRXQ1pQOVl1d1R2MkduMUlUUlItQ2NoODNUSDhnekNlZ3JxVjVGaW5naEtoSExpVExIWGFHRmY1aVJieEc1UGFXazl1MU9vWXVMRjJheFEyRGpKMVdXcFNzTHFqSlRlRF91c0NvMHR1RGdnVHJmLUxRMzA5dHJIQ0pYN0Q4bV9obHFEMGs0?oc=5"
+    },
+    {
+      "headline": "Emerson Electric Co. $EMR Position Trimmed by Mattern Capital Management LLC - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOGZLVkVSRHdzUWF5bmw5VDEtbS1Wb1lleFBPZmJpNEJmMHU1SmYxaC1BVUVDWWh4Xzc4NVlfZlpQaHJnZWRkNGhXeG5jY3lWNFBfYmZiU2o1eGtLUzgwM0NnVjVORzY5SUtnVHhmWmoxLUxvdG14V2RIVXkxUmMtTkFUWEtBOFlkWGQ2ZGFLS0xvdF83ZTVHNHFpTm5RbFM3WEtqN2MzUkpMSFhXU2s5U1FBcTNLeHNRZW9mQ0pWTGcwZl9NNk9EMTVaOFQ3aG9vY1YzVEE0bEJ1MktYTHctRG9NTE1CREk?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONnVGSkJjeUVPTFY3bTRXMU9ubG1TSkRoX0tEOVdPRk13c0ZCankzUGV5UURsNmRMaUFhZll1R2dZR0tiblpuU09YZXROemgzQnVDMTVsLVFkM3IybWpJX0ZnVFV1RmJ0NjZjZmE1Nk9CVzU2N2pjZ2toTm5kTjRHWm5KUFNLUFljNWxXTHJ0aDhjaW5wckFxanFWMUdpMjlPWTVWOFdtcFJPY29lVDdZSThNYVdVUGNtWk1lZnhrSm5hdm1NbmxSUjl4LVk3SHg4?oc=5"
     }
   ],
   "insight": "Tracking Emerson Electric (EMR)."

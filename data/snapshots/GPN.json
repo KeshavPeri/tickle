@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:53.872Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:09.576Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    62.470001220703125,
-    65.44000244140625,
     67.70999908447266,
     67.4800033569336,
     68.48999786376953,
@@ -24,11 +22,11 @@
     73.01000213623047,
     74.37999725341797,
     76.04000091552734,
-    76.8499984741211
+    76.8499984741211,
+    75.88999938964844,
+    78.22000122070312
   ],
   "6m": [
-    77.4000015258789,
-    75.52999877929688,
     77.0199966430664,
     77.02999877929688,
     77.5,
@@ -158,10 +156,11 @@
     73.01000213623047,
     74.37999725341797,
     76.04000091552734,
-    76.8499984741211
+    76.8499984741211,
+    75.88999938964844,
+    78.22000122070312
   ],
   "1y": [
-    77.61000061035156,
     82.66000366210938,
     83.04000091552734,
     81.93000030517578,
@@ -410,18 +409,14 @@
     73.01000213623047,
     74.37999725341797,
     76.04000091552734,
-    76.8499984741211
+    76.8499984741211,
+    75.88999938964844,
+    78.22000122070312
   ],
-  "lastClose": 76.8499984741211,
-  "oneYearReturn": -0.9792579954304242,
+  "lastClose": 78.22000122070312,
+  "oneYearReturn": -5.371403635010372,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Global Payments (GPN) Stock Still Looks Fully Priced As Travel Headwinds Hit Estimates - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTThpRE5INUs1emxuZWNrOEVfa294dFVuUlZFWFdMaDdUN1VZOWdvMC1OZ2xKc01vS1Bfd2M1NFJLbUd0ZmZ5RHhhSjJLbmpxbnliVHkwMnlfRFdqckJhWUg3dXlpZ0hXQnFTei1aZE1HaEZqQ1A0eGdTallUNllaejV1cUpZWVRIRkdlZjYxaG9rb1psUWwxN0xEbmxxV3lCWDFLV0VkdUNkNDRTQ3NjMGxvc3FWeFRuQ3VlLXE3Zy1KVUpqVzk2SWItY0U1WHNONHR5WUNPbUNDN3pmQ1HSAeMBQVVfeXFMT1BZaUJsYTBIblh3ZnByN1dxWm55OVp3a3NKMm5Ma1h2TlNmSHFjWXZCSkRyVEktVTRSNkVKeFlZU3BGc05RbXNJZWRZdHJoQmpwUENMU1N2VThpWWZNNklQT3RyWEpBQkQ1VHFPdnNUcVNVMjRUTnhpRXNhb0VZWTJrS2hkQk1pWFRfaFRlZGVjZzR2TkxwZDNxVXo1aXFubTc0WFo0UFVqcXlEZ0dobGJQdmdlRTM0ZDJyM09FclRUOXhoa2xvQWxyNlNSN2lScnBKbW40ZFJPeEIzTzBnalZnZmM?oc=5"
-    },
     {
       "headline": "Own Global Payments Stock? Here's Why You May Want to Stay Put - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRV92Mmo5emtjd1dxSnR4QWlVSHoyWVBfWUpabWVCcjZjOE9RLTNfSnZqem1XNU5FVmtXX1dmVUEza014bWQtQzd3b2ZHRWRKVGJfOG1qdWpoZ19JT2FCM00wb1JfSko1ZVlBSlhEdHY2b25LR3A0dWt2bUtOOWpybVNXbHFtYWNadE9MRm5IS2JiX1FhYzhydHlHd3c?oc=5"
     },
     {
-      "headline": "Manning & Napier Advisors LLC Increases Stock Position in Global Payments Inc. $GPN - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY09XRFNYbFhSWXhZY0tkcTV3Ym9DLVpJc3RxNEVFTGpRQ3dxTmhjcHNFZ1hZbWRFTmp2Rl9DR0FHZ0pSRFFqNW5pMFVKcFdTaHEzRXBNTmRRMGtxRG55d3B5a1RoYUxfeHJxSXYwS3BXR3ByeXdYMkZROTFYZ3V5TXpDSFN3Nk1PbGU4TUFfSmE2U0VESkV3VnpoMTBwQ2dOdWRrYl9HVG9TNHlVMTRwTXdIczdhQVdaVlE4c0dERHJoMVBwdjN2VzhSeGNiUEdZNU83QlBuaw?oc=5"
+      "headline": "Global Payments (GPN) Stock Still Looks Fully Priced As Travel Headwinds Hit Estimates - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTThpRE5INUs1emxuZWNrOEVfa294dFVuUlZFWFdMaDdUN1VZOWdvMC1OZ2xKc01vS1Bfd2M1NFJLbUd0ZmZ5RHhhSjJLbmpxbnliVHkwMnlfRFdqckJhWUg3dXlpZ0hXQnFTei1aZE1HaEZqQ1A0eGdTallUNllaejV1cUpZWVRIRkdlZjYxaG9rb1psUWwxN0xEbmxxV3lCWDFLV0VkdUNkNDRTQ3NjMGxvc3FWeFRuQ3VlLXE3Zy1KVUpqVzk2SWItY0U1WHNONHR5WUNPbUNDN3pmQ1HSAeMBQVVfeXFMT1BZaUJsYTBIblh3ZnByN1dxWm55OVp3a3NKMm5Ma1h2TlNmSHFjWXZCSkRyVEktVTRSNkVKeFlZU3BGc05RbXNJZWRZdHJoQmpwUENMU1N2VThpWWZNNklQT3RyWEpBQkQ1VHFPdnNUcVNVMjRUTnhpRXNhb0VZWTJrS2hkQk1pWFRfaFRlZGVjZzR2TkxwZDNxVXo1aXFubTc0WFo0UFVqcXlEZ0dobGJQdmdlRTM0ZDJyM09FclRUOXhoa2xvQWxyNlNSN2lScnBKbW40ZFJPeEIzTzBnalZnZmM?oc=5"
+    },
+    {
+      "headline": "Global Payments Inc (GPN) Stock Up 3.1% and Still Undervalued -- GF Score: 84/100 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMjdiN2o0T1E5Y04yNm5rZWJyRlJQMVl4MWFhV1k4bEtVX1FjV0RPNEFaT1F0NGRIWGczbUJMSUx3QmRiNGNIQVEzODFDd3lSY0Z4dFgyNUNRU2FYdDFoeFpBbV9oTTV3XzdVdmFmVy15aV9jVVVyWUZpekNOTkVKU0lKbm41UzdTUlJseERIOHRoUzhNQmhmVFJyeTJtSVF3djZpZ3Jram5jS0x2QXVMTA?oc=5"
     }
   ],
   "insight": "Tracking Global Payments (GPN)."

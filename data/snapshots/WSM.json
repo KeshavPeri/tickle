@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:16.177Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:36.476Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    206.94000244140625,
-    218.74000549316406,
     223.5399932861328,
     223.2899932861328,
     227.17999267578125,
@@ -24,11 +22,11 @@
     218.32000732421875,
     219.77000427246094,
     221.75,
-    216.64999389648438
+    216.64999389648438,
+    220.33999633789062,
+    222.83999633789062
   ],
   "6m": [
-    178.58999633789062,
-    187.85000610351562,
     191.75999450683594,
     197,
     191.83999633789062,
@@ -158,10 +156,11 @@
     218.32000732421875,
     219.77000427246094,
     221.75,
-    216.64999389648438
+    216.64999389648438,
+    220.33999633789062,
+    222.83999633789062
   ],
   "1y": [
-    163.6199951171875,
     165.00999450683594,
     170.1999969482422,
     170.38999938964844,
@@ -410,29 +409,31 @@
     218.32000732421875,
     219.77000427246094,
     221.75,
-    216.64999389648438
+    216.64999389648438,
+    220.33999633789062,
+    222.83999633789062
   ],
-  "lastClose": 216.64999389648438,
-  "oneYearReturn": 32.41046348969505,
+  "lastClose": 222.83999633789062,
+  "oneYearReturn": 35.04636310296886,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Here's Why Williams-Sonoma (WSM) Fell More Than Broader Market - Yahoo Finance",
+      "headline": "Williams Sonoma (WSM) Stock May Be 18% Undervalued On Cash Flow - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWUtRVVPZ0lZYVRlU3hoSW1BMVgtSlJiT09VX0JBUFA1Wlh3UktEaE5CVE45TzQ1RU5PbTlWQW00UmtxSXpaa013QnVNTDg1R3A2Y0l3YmJoQmhiRnBHXzVUY1lmYlB6U3BVX2dqbmVldkRiMVJMOVdXZDBwV1dITEgxeTlvVHdTRG1sckh3VFp6OTk0RUNqT1dR?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDFNbHR1c01HZThFVFhBbDJJNEZYSGdtTWlNYTFQY0VzTUdjd3JpSlBROXNHV3AySmZzeFdPbEUzR0NjeElPX2N1S01DcUJoX0gwM2FZUTZHTU5tUVEtM3pHMjBHZmc4eXJwZkdoVDhPWnNTZWFDblNHT3YzMmZROVB5RzlpaHRWbHE5ZlBNaWdfSnlVOC1vTmJn?oc=5"
     },
     {
-      "headline": "SFE Investment Counsel Acquires 5,683 Shares of Williams-Sonoma, Inc. $WSM - MarketBeat",
+      "headline": "Sonoma Inc (NYSE: WSM) holder files notice to sell 35,000 shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGJUM0NfSWx2d0xjWkVHdUdRU2FnVlZUVmhZYnNBQld4RVV3b0pWNW9oYjJ0UHpvVE4xOTdXcnNuQjFaWWpxeXhYS1pReVo4M3VET0VpaEtKdmtweTRhZFFZcGZGRkZYdG43VG9ZLU1KTWdEbUFESkx2UG1rb29HalZWcEo3MVowSkZFb19KLTR4ZHhOTVZZQ05Daw?oc=5"
+    },
+    {
+      "headline": "Principal Financial Group Inc. Sells 26,389 Shares of Williams-Sonoma, Inc. $WSM - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQW9reUhkY2R0d3FrN1NFQ1k4ci1SMExkal9yUVBReWJaaTVzUUtvSXBGWXF1ZVBaVTRCdk9kUVRhYkVMU1FKVGVMN3NDbE15TXd1MVZiR2Q1YzZUWU03ellyVmhjMVhVTDNWWjhzX0FKX0FvV1ZKQjJCS0pCcVZ5cUtjQWUta3FBRVI2RXZ1bS1LcnpGOTBTN0pHLWVsNTBwN1QxV3dpNnVmcUZNdjBmMlhQVlVzN2NPZzYtQTdfRnd1bUZaanhoWFBHWQ?oc=5"
-    },
-    {
-      "headline": "Williams-Sonoma: The Market Is Still Too Optimistic To Justify Its Valuation (NYSE:WSM) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3ZMOEJYei1xU1dxWVkzbGxfRVd5Q0M5RUd2UHZyUjA2NmZacWo1M2FxVktWMjhJcE8yd0RwNFc4Y3k2R2xlR0FINERURWd0eFZqZ2lkQmxFUFVpVFNZWHJZUjMtV25zNlF4TFJxVnZLU191YjNDU2dpRm1sOENqWDg1SFhBWmk1SEpsb1I0MzBDUHVSS1FQbEl6UVpUeHlBWlhVR3FURWE1TXdnN3VnWnY0UGU1djg?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONk5vVEpfMm1Gbjl3b2hfdV9IV2hLSElUX3kzREZ3d3dvX3JySjI0ZGxxUlFPTVVQOXVFVGpuVzlGTm5YVmQ0ZVNZRmY0YzY3X1FkblI2amdiTnAyZGwtU040SVJwYlZPUkdYN3dMX2JVR1hfOGFZVjVjVHRJT2d6RmlTdmdrM3pSVE5lYnNBbXFYRmsxVjdURUt2YmpLV3BBM0M5Sy1ockhoNzNJdXFsLUdpLXh2NnRjbXJHY1F3V0NEeHhwUUZEN3FGYmg4Si05YVE?oc=5"
     }
   ],
   "insight": "Tracking Williams-Sonoma, Inc. (WSM)."

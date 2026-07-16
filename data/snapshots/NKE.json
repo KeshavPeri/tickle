@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:05.587Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:23.597Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    43.959999084472656,
-    45.959999084472656,
     44.93000030517578,
     45.20000076293945,
     45.040000915527344,
@@ -24,11 +22,11 @@
     42.88999938964844,
     42.779998779296875,
     44.369998931884766,
-    43.7599983215332
+    43.7599983215332,
+    42.86000061035156,
+    42.77000045776367
   ],
   "6m": [
-    63.709999084472656,
-    63.279998779296875,
     64.52999877929688,
     65.3499984741211,
     63.220001220703125,
@@ -158,10 +156,11 @@
     42.88999938964844,
     42.779998779296875,
     44.369998931884766,
-    43.7599983215332
+    43.7599983215332,
+    42.86000061035156,
+    42.77000045776367
   ],
   "1y": [
-    71.98999786376953,
     72.0999984741211,
     72.9800033569336,
     72.47000122070312,
@@ -410,29 +409,31 @@
     42.88999938964844,
     42.779998779296875,
     44.369998931884766,
-    43.7599983215332
+    43.7599983215332,
+    42.86000061035156,
+    42.77000045776367
   ],
-  "lastClose": 43.7599983215332,
-  "oneYearReturn": -39.213780219381924,
+  "lastClose": 42.77000045776367,
+  "oneYearReturn": -40.67960976016506,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Jim Cramer Has Had Enough With Nike Inc. (NKE) - Yahoo Finance",
+      "headline": "Nike Stock Is Down 44% From Its High, and the CEO Has Been Buying Shares. Here's What That Means for Investors. - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-11",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM2lGemtoN2daRU91T1FlQ1VaZzJBTEYxTC1VRzNjUFhNVlc3YWxaYWNOdWV4TGVmTFBGckk4aVJja1FOcmR0RTRJTHNRdjFweXQxaTl5OTZKQWpuRTZ2QzU2RDdPMWc2OXplaXRiVTZrdm1RUFFWWDE2emZjV1pmb2ltamFPYUhNX2FZT1FPY0pLMFAwaEE?oc=5"
-    },
-    {
-      "headline": "NIKE, Inc. Reports Fiscal 2026 Fourth Quarter and Full Year Results — - About Nike",
-      "source": "About Nike",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM0k4MGU4UWpyeWt6OGpYS3l3czZWem9NOElHRndyVGhVNGgtSTh3ZnlDNjVuSmZ2RHZsYkJ1MTVGUmJGeDIwWDNpTTN1cFZiT0JSZ2NQZDFiRUpLSGdac0JkbTJGMTk4VzI1U2M4cjMtWllfb0Q4VjFxaUZkakotUHZ1VGRKaWNkR1FjOTA4ZWEwUDdvdDlWTHFBM1N3SEEyVEpPV2NoeDdQdjI1aFE?oc=5"
-    },
-    {
-      "headline": "Nike Inc. Cl B stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
       "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTTh4RUtCd2dhVGRuNUtOZ05DRmZTdTg1Ml9uc2VVZFZLbk1ncFRxcTdCYkhkZWc4LU52VVFqcXExekt6aW1rb3k5Z1M5X3U0STVxZnZWY1dwMjdaS3ZobTF5M2xia21tM1pEY2oyYnBTeGNxZmU5YUNCWE1QejZmUjBqbVZFald2MHRuZkpldkd2Y2tqcWxGaERFaFpSVVpKZV9RMTAwcWZzNDFVcFFoeGdUX0NkV2NjVUtBNV9ZRlozeGhoemZEUzVIX0Vua3V3aVJNbEppVkU4TWlPVlE2Ug?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSHNERVhHMFpuVTBBR2UtNHFoWl9VR2RWNGxMRmF0T2NHVTZoeEU2bG03YXJxcE1QV3RpdFRVNEhmYkxYakhWYjRvZnlJRGpRbE9GMlQzemZuWDg4TklJSy10VzR4REpNejVyZndEQ1hzUWxSeHE3elZLR0lpQ2NJckN2VENYbUxkbW1RVU52YXRRUQ?oc=5"
+    },
+    {
+      "headline": "NIKE vs. adidas: Which Athleticwear Stock Offers More Upside? - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOVUxNlNQUkFyX24zLUNvbXRvZ3E5Nzc2NzhYaGZRamN2b05IYjlvTHVfSXZSell1ZW1NNkdrWUVGS3RDQy10TG5EQlpLOUlYY0FFaGRLYUdaZ3BRMWR6MXBfcUtRaV8xVkROZWFtbGQyQm1MZUJYWHpreUtZSGNTdnNxZEQ1U3ZJb0pnSzRTOVZRVG82SUdfeFQ0OUtubmY2NHNRa2ZfZ0JmYVVrZmUtdFZ2ekZLdm9rOXVQY0plcXFTeDU5dmZaX1NJeF8yR2drb1lteHItWlljdw?oc=5"
+    },
+    {
+      "headline": "NIKE, Inc. ($NKE) CEO 2026 Pay Revealed - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHJ2dlk2Zk1lYnA0NGJnZzE1aVhXeFJYUHowNWh4dWJhbzJsY29QeHByX0lmb2pnMlNpYVpRNGstOVdEbnZxQUV6cjRBLWo3OGUtRlkwRmdCUGlfUVNfbXRjN0dpOU1TaWtVY3BiZ1pEWmpHRWhBUFVDTUYwWVdTcWJNbjZBR28?oc=5"
     }
   ],
   "insight": "Tracking Nike, Inc. (NKE)."

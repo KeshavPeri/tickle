@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:41.864Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:54.209Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    34.22999954223633,
-    32.650001525878906,
     32.84000015258789,
     32.040000915527344,
     31.969999313354492,
@@ -24,11 +22,11 @@
     29.34000015258789,
     29.190000534057617,
     28.389999389648438,
-    28.770000457763672
+    28.770000457763672,
+    27.68000030517578,
+    28.489999771118164
   ],
   "6m": [
-    67.23999786376953,
-    65.69000244140625,
     66.41999816894531,
     67.19999694824219,
     61.65999984741211,
@@ -158,10 +156,11 @@
     29.34000015258789,
     29.190000534057617,
     28.389999389648438,
-    28.770000457763672
+    28.770000457763672,
+    27.68000030517578,
+    28.489999771118164
   ],
   "1y": [
-    84.08999633789062,
     85.13999938964844,
     84.94999694824219,
     84.69999694824219,
@@ -410,29 +409,31 @@
     29.34000015258789,
     29.190000534057617,
     28.389999389648438,
-    28.770000457763672
+    28.770000457763672,
+    27.68000030517578,
+    28.489999771118164
   ],
-  "lastClose": 28.770000457763672,
-  "oneYearReturn": -65.78665511868977,
+  "lastClose": 28.489999771118164,
+  "oneYearReturn": -66.53746772920219,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CoStar (CSGP) Stock Trades Down, Here Is Why - Yahoo Finance",
+      "headline": "CoStar Group (CSGP) Replaces Its CFO, Is The Stock Below Fair Value? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2c3aUVVSUZEY18tZkRMbXd0a1dQZFRGdzdaQXlESjVhdFltTnlpTVRqeUJ4YUtkS3hQYmpnUmM3amJIM3VqZlFMVk8wUlJTLTRzMW9vVUVObnY0WDlPTW1kZW5LajJ3OVRydTZKT2hnVV9YbWJXcTZLNFZPRGJtbURSMmtCUDBOdFROLUc2MTI1dUpDQlNsbXF3?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV21UN3JvNWR0VkFObmhuc19PLU9tT05FTmtMbFJUX0FSVGJFMDFsUlVMUmI0XzRJNnR2S2VFd2xDVjRlWWg2X2NkamtEaFZUTVVtT05KUnlqSTFyd2kxYkp5dVpkeU1FV0JaZC1mS3RiUWk1eGlZZl9GS0R4Y1FRNUpKUWQ0eVU5YXY1eHkwbm5qVVRkVkY0dHNJWQ?oc=5"
     },
     {
-      "headline": "CoStar Group Inc. stock falls Tuesday, underperforms market - MarketWatch",
+      "headline": "CoStar Group Inc. stock rises Wednesday, outperforms market - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVDBhOThDVEtiZ1FVNm1QQUE2ckF1dVBjMTV1c2JOajZIeUhNWHNaWkNmcFJHVHJxUS1Qc1VuR1BPRkhVSUEzRWZSeUZueWtoNjJxTDI3a0NIRkNwaENGS2lUMHNhT0FnY0QxcjhVVC1iQk9FblQtTndGc0dVRDFtVllBSGlIMk5rS2pkSDJnWHNPRFpWRjB1UEp0SmZSUXJQV1lfWjQwams1MGtWQVRGLWs1di01YkhicFNMSmdNbXZjQ1l5Mi1oQ0VrQWpDWTVT?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM29ocFFodEJFazFZcXE2T2VHWWhBamg4eHF5NEJGbVY2ZEFKSDFsdWFGcms2Y05oWFZfOEdHSFloem85OWJqc3RTV1J2blVkMFc4RU9JSFp0T3ZMODNFSGxBMFVoWXhNZmtIenVGdWdWRmt5VEFoZlBFVUN5c1djcGFaMUQ5M0dMQlpMRURnbU5nRl9ITVZ5VTJQR1MxQUZ4SWt0RnduU1ZrZlJGc284VDZsbXlKWmJNWmpxM1A3YnZVSTZmMkE2TFNIUFZOQkxm?oc=5"
     },
     {
-      "headline": "CoStar Group slides as CFO transition and analyst downgrade pressure shares - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0huUmxEOUg4TThHRFYyWnMyNEw5S2FON1l6dFI5WmktUHRaemRsNHhWT0xReHR1YWZYcm45bVJqQkRDYzRSUVBnSFhITG9kRTAzSkxsS3dJeG5jM1d1a0lYXzdNMVo1VHFfTTJvdVlIUVFMMDFhVGFqSDQ5LV9abVloMkc2bUZnQ0ljTFFJSU1mU2xsSF9NY1pWNW1feDFVVTlYQUZFV1lXQ0E5?oc=5"
+      "headline": "RBC cuts CoStar Group stock price target on tougher comps - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOURONXlHQktldTI1Ynp5MEhuMEl4SWNxUnRzbi1xTTJzSjlWUFVNMU8xcmN5VmdXSE5PVXI4QmZXZk9pemk0QVBPaTdyOUE0dGh2TVRjN2dHanZvclRFRExqM1BCOVF4WFZQMVNDaWNkOEFTbXN4WWxNSjM5cnVuZkNLc2Ezd0doQkhNcVNxN1AwSUNNbUlMand1UU5LQWpHRlNVMDVFbWtSVkNpVldhd1FDLWhnRFZm?oc=5"
     }
   ],
   "insight": "Tracking CoStar Group (CSGP)."

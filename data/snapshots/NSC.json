@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:05.690Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:23.989Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    308.92999267578125,
-    310.5299987792969,
     313.9100036621094,
     310.2799987792969,
     310.80999755859375,
@@ -24,11 +22,11 @@
     319.2200012207031,
     323.7699890136719,
     327.4700012207031,
-    327.5899963378906
+    327.5899963378906,
+    326.8299865722656,
+    328.5400085449219
   ],
   "6m": [
-    288.7200012207031,
-    287.82000732421875,
     287.9200134277344,
     291.1499938964844,
     284.0899963378906,
@@ -158,10 +156,11 @@
     319.2200012207031,
     323.7699890136719,
     327.4700012207031,
-    327.5899963378906
+    327.5899963378906,
+    326.8299865722656,
+    328.5400085449219
   ],
   "1y": [
-    259.489990234375,
     260.32000732421875,
     269.80999755859375,
     276.6600036621094,
@@ -410,29 +409,31 @@
     319.2200012207031,
     323.7699890136719,
     327.4700012207031,
-    327.5899963378906
+    327.5899963378906,
+    326.8299865722656,
+    328.5400085449219
   ],
-  "lastClose": 327.5899963378906,
-  "oneYearReturn": 26.24378922747916,
+  "lastClose": 328.5400085449219,
+  "oneYearReturn": 26.206207475915477,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Norfolk Southern's Q2 2026 Earnings: What to Expect - Yahoo Finance",
+      "headline": "Norfolk Southern (NSC) Could Be 2% Undervalued On Q2 Earnings Watch - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM2hxOFgxczVSeGdscHdrS212NDZaSF93NjVOZ01uZmdRaHpGMEloQkt5U0JCbUR4QXVyUnBJNjRFY1RVNkFUaktGbVg2UWllMHU4TmV4QUtZT204dGF0QUJNb0N0ZU5kSVpjZVFXY19MUldTRENWZ1htaUctR3VVU25JdWZnTW94MnFFamdPY1VjYUs2UG5Dc3RRTmJ2b2c0cWZoT2JwY2pBdmtoS0F6bVE0OWxSR0dQMjZRZzN6YzU3Rkc1a2pjcUZjQ3RoQklxOElHYdIB2gFBVV95cUxNVFBqSEhCYnB1SEFWdllzTkRyNGRReXVsTjJnQlhKTGZLR09PdnI4OTk5RzRrM3lwS1dpZ19OVEl3YkRSX2YwQXJDcGNBQ1VESmEwRjZhNDkzUmRVT29zX3JIMHZOZkFzQmVTQ1lSd1VtdkIxRTcxcS1aUkVjdUZqUlBqUXQ4Z3RsMEJhS3BZeXM1N0dDM0Q4ZmZxYU9UeGRYTS1ibUhPTEZnMEJQcUMzMlR2bVEzMFhaNkN4NTJ1cjRDSGpmcndfVGlqTTlqNVJfRW85T29leUxzdw?oc=5"
+    },
+    {
+      "headline": "Norfolk Southern EPS Estimates Southbound: How to Play the Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXY2ZE1fRWZfdVhkNEVJS1haUnBEVVIta0oyX25NN1JxT2lEZ3MzaEhNczJ4emR0WUF1YmQ5b2ZnaHhOUnpqZzlhaEtNVW9FU01UcWYza3dQR1ZoVndYZEhNLWoxYVh0RXg5SllVVzY5RlY3STBDTnBlUWlncFFYclFqWmtsbFZDajZ0TzZPRHR4d0ZBbUwzbWVCVy1XajBn?oc=5"
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemtILXR2SUd3dHN1X1AtQ3g4THU3a1BuemNSd0dzc1ZUWkJRZ0tHVkRNNEs2OGE0UWhmZ0JwZkpGTGtpV3dvb2VFTEZNbE1xU1U5LVNnd2tUTXJlcGZ5QkE3VjlsQXVVTTRkb2xwblpXTENUWTZzNEtTN3ZYcnl1V2htZHZPRVg1b2lQdmt2anlVTVk0bk9BZm54eFhXZFU5bDdUcVROU3VIUQ?oc=5"
     },
     {
       "headline": "Norfolk Southern stock reaches all-time high of 326.19 USD - Investing.com",
       "source": "Investing.com",
       "when": "2026-07-10",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN1ZYRGxPbUVhX2FFdTlCc2VGVHl3NXEwVm1uWVBFV1ZEV2Y5eFRDUkpwb3BDTHMzZXNVU1RmZTFVZkNuNDlMZDRCQ0V5Zm5lMXh1UE5NSzJMNlNaSTdaNnp5WjJUck5YTHJDNkVqNC1zMFR6VnJiSWJYSmZsMFZlMXpMWlVJVC1tX0VHY1NNZUI0ZlM2RzZicER3a3kyd2tvNVZnVmFuWGhtXzktakJVaTNhMA?oc=5"
-    },
-    {
-      "headline": "Union Pacific vs Norfolk Southern: Which Side of the Megamerger Should You Own? - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-06-01",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYm5jYUpndTh2SjVMclBKVDdaTy1Cak41LWl5TXRnZFpBb2hlNWZxUXlBWUo1LVJBZmpwOVl1Zmc3TGNteDZCcVZlT0V6RzdnWWwwLXh6NGwxLTVDODVxckVNdW5zaTlGRzVkSWh5ZWVkNm0zNkoyMi1PbUJMWE1UNUxxV2ZJSmxhbmcyM21nLXl3akg5VVVWdFRwWU9EWVoyb01IYlYtXzhjM1o1MWZvOG1NaHplNlJ5UTNRMk5n?oc=5"
     }
   ],
   "insight": "Tracking Norfolk Southern (NSC)."

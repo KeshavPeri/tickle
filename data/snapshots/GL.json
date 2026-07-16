@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:53.201Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:08.347Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    162.52000427246094,
-    165.10000610351562,
     166.75999450683594,
     167.38999938964844,
     169.1699981689453,
@@ -24,11 +22,11 @@
     177.07000732421875,
     178.86000061035156,
     179.1300048828125,
-    178.6199951171875
+    178.6199951171875,
+    178.99000549316406,
+    181.50999450683594
   ],
   "6m": [
-    139.86000061035156,
-    138.4199981689453,
     140.6300048828125,
     139.63999938964844,
     139.75999450683594,
@@ -158,10 +156,11 @@
     177.07000732421875,
     178.86000061035156,
     179.1300048828125,
-    178.6199951171875
+    178.6199951171875,
+    178.99000549316406,
+    181.50999450683594
   ],
   "1y": [
-    117.73999786376953,
     119.9000015258789,
     121.5999984741211,
     122.08999633789062,
@@ -410,29 +409,31 @@
     177.07000732421875,
     178.86000061035156,
     179.1300048828125,
-    178.6199951171875
+    178.6199951171875,
+    178.99000549316406,
+    181.50999450683594
   ],
-  "lastClose": 178.6199951171875,
-  "oneYearReturn": 51.70714995583647,
+  "lastClose": 181.50999450683594,
+  "oneYearReturn": 51.38448056454719,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Globe Life (GL) Reports Next Week: Wall Street Expects Earnings Growth - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWE5FSURnTXFPUllKb3ZFODBwOXNrQU1yOEhaNXRZcXdEWkZWQWdSMW51ZkIwa1NoamY2Si04T1dFdXFoN3F2QW10NW5Yd1BVTjZHcExtZmVoRzZjQy03MVg5OWFzc0JvMjZVemZNdzBpQU5mUlM4emRweGVxNFFNa09RWkEzUkxfOEZmMzVjeG8yUFhfaGc?oc=5"
+    },
+    {
+      "headline": "Globe Life Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb2xoZGJEekhpUkJUUTIwdlk2MEZiR3BtekpRWXVscU1wQ2NueVNlc0xSbUFLMmozdEFZTDB3d1FMeUotT2NGV0NfVkNwVzJtNF9BazFxeXVSaHZUNTQ1dEVicndyQk1FMk4zQVFqWk9mOHlnNTRVM24yVFZmdmpzNnJaam44RmZGVTY3QUpQTnkyUTRDQTI0SEpCT1gxYkZnaUJVc0xiN1dBNHNqdnhjZzgxRUxaZXN2VThHLU5xLTh5LXQz?oc=5"
+    },
     {
       "headline": "Globe Life (GL) Stock Looks Reasonable As Its 106% Five Year Run Continues - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSVkwX3F4WTZiX1h6a3RDNEJpMXNHZ3JnbmhPdVVLZlIwdW56cE8zRy1MQnJPZV9tVEh0Yl8xd1JuTzJOd1V1T0dSaU5iT3FlbjBzTGxCbkN1THpNdFhoQ2VyNE5hd1ZPU2N6aTdMZmU2bkthQlU4NmY4bEZEZUZIbnJ1S3NEVmFKSGc1VHpwYU9KWG5u?oc=5"
-    },
-    {
-      "headline": "Globe Life (GL) Could Be 4% Overvalued Following Its Bermuda Reinsurance Plan - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdTJVUUV2UmhVZldWU2tPY09ObUtHRXk1eHhIODJGUjRpQVFvR09UZmZXZmdFSURMdHpkblFKSC1iRjhoNHk1aG9PdTItSDRBUVRiSDJnOWNQd2JDemF1bksyallKR1ViV3VwREFndlFOcFVMV2hXbXA5dVR4ZHB4cnJoR0VFY0ptM0JZcGJUczZTdTNyZG1EZHdsaDhDel9ySFV0QzlTcDM0aGNXYV9taDBpUllqbEZjSUlqdjZUWEdWMGhD0gHKAUFVX3lxTE41YURHaVlpWVRKN2F1U2JRWWlhNUhmZU15SkpFaFlqRVNIblNnWHpwVEFud01YOVk0TDA4NE5UeFYtX01MOFFadVVVSUxsZFFKc1gzTmFSYmd6NEQtQndzOXRCeHN4NkFGeURPYUltTkFjOU5Pd2lzTHhfUTRDT1NtQ0NEZFMwVHRPSWZYR2RfQXBuWUZYb0gwWTlPSjMwYm1YMDd3M2lFdHFSVDhoX0kzNE10QzZQNHhDZDRYT2FsZHBybHBiM04wNnc?oc=5"
-    },
-    {
-      "headline": "Globe Life Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWTgwaVJ4VlpRWlNSYld4aE80X3ZRakZqNnRwWEFscFIyZkwxUG5Yc0MwSU1VWkthZlJXNlhqLV9JWHhnV1hXQmFyTl9MS0hiZzVUUHRDaURZNXhSRW1Pcmo3MTEyUEF6UkVKeTZXOTItZm9rN1BEMkJ0WnBpWF8zYm5wby1vYzRKalFZSGNtZUFINy00VlhobTVJQWtXMGhTeG1fTFNzdEpwSnNjMVNCQTB1cUhha3pWRndEYm9pNm9CeDdW?oc=5"
     }
   ],
   "insight": "Tracking Globe Life (GL)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:32.824Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:43.659Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    447.5899963378906,
-    446.20001220703125,
     441.7300109863281,
     443.2099914550781,
     435.3900146484375,
@@ -24,11 +22,11 @@
     599.7999877929688,
     582,
     565.7999877929688,
-    547.030029296875
+    547.030029296875,
+    547.260009765625,
+    541.1199951171875
   ],
   "6m": [
-    567.9299926757812,
-    563.4500122070312,
     591.1599731445312,
     626.6500244140625,
     620.9099731445312,
@@ -158,10 +156,11 @@
     599.7999877929688,
     582,
     565.7999877929688,
-    547.030029296875
+    547.030029296875,
+    547.260009765625,
+    541.1199951171875
   ],
   "1y": [
-    745.8699951171875,
     742.77001953125,
     745.8599853515625,
     756.0900268554688,
@@ -410,29 +409,31 @@
     599.7999877929688,
     582,
     565.7999877929688,
-    547.030029296875
+    547.030029296875,
+    547.260009765625,
+    541.1199951171875
   ],
-  "lastClose": 547.030029296875,
-  "oneYearReturn": -26.658796723559274,
+  "lastClose": 541.1199951171875,
+  "oneYearReturn": -27.148379594173782,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Axon Stock Is Down 46% From Its High. Here’s Why the Business Doesn’t Reflect That - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkZSNEpaOXVlbFZEQ0s3d1lzek1vWE1RTmk5LWpSNjRKQzYwR3AwVzlvdlpmZU5EMloxaTh6TjRaVlg3dWx5c0txdEQ4emd3Q2YwQ1BoR2dwTWRFaW04QlVVYnpITU83TWxpVko1NGRHVTVkVmZhN2pkaldHd0NGa2J2b2R6VkRab2d5cHhfQkYwV0R0VWtwUGNtb29ucWpOMWotdlFSYw?oc=5"
+    },
+    {
+      "headline": "Axon Enterprise Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLVp6X1Q4VlRzMDBab0ktRVF3a1d0c25oSzFyNzhlOXM2T0lla2FESlJ1c1paRFBRQ1dPblJVR2VoTk1iTTV1UW85UTFLQnRFc3AtRnpXZVJ3UWFvZ2h4aG1Ja3AtOE1rV3FYYUNHS19lM0RJeXFSdkpJakQ4aVZ4blg0ZWk0WmJudnZUQkxmTVRjQzV1TnlZUGhPeC0zT3NnNFFRd2dzSy05d250Q2ZKb2JvU3MzSW9UYWtLNm82YS1lMTdGWFp0QjhqMW5xemU3dVJLZDdGUWVOclZyczR0NzVjUC1yNVM1?oc=5"
+    },
     {
       "headline": "Axon Enterprise (AXON) Stock After Recent Volatility Is The Current Price Justified - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTBWN1BRWnNCZVQ4TVNudkNla2hYSnJmTDZuVkRITzl4bWVBaC1nNEg3cFhXX1dtUmhZakFVYlRBSW1PNVFqT3p5UUJlSTU5NVZKVnFnLVg4Y3RkamlnWHROU1phN0xqRlBiZU43OGxxcE5DNHZLdUZUc05pQVpfM0VSNEctZ3M0Ulh4dFNPS1RtamRjdDBld2QtNzRkdFE?oc=5"
-    },
-    {
-      "headline": "10,000 Shares in Axon Enterprise, Inc $AXON Bought by Canal Insurance CO - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTEdDMVo5QTRSaUZDS3lUVzIydmJOdGtmbTlGcktZTVFHaWRGZ0llM3Bob09CSmgzTEEtNDF1MDRocVZRbU9ZWjVvOXUtTEFlUFMtY1pjNzZrS3FMNFlnY1hkdk8tVWVSVHYzb3NjemN3ejR0eDRUeGpuU1dnMDhVTUxseUNUR0ZPVHl0TFhNcXBBVUg0a0szTlREZUhvZGExRXZiRDlHWkVVaU8yeEp3cWs2TnlGNi1qcGNCMHlIM1JqbEFfdzM4a2pR?oc=5"
-    },
-    {
-      "headline": "Why Axon Enterprise Stock Popped Today - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQajUwNl9jSy0xbUlUVGQxY2s1cUZnLWhvYmdoWF9JOTd4RzZSWDJnZFU4QS0ydXB4aUhHWHZyMU01Y1h0eExhYzlsQUdNWTdPd1lLUV84SGp0NzFLZi1OZzFacjNGM1hsYjR5LXU0M1RENDFLZkhTQ01UaHpQU2ZiMm1sbVdqcS1G?oc=5"
     }
   ],
   "insight": "Tracking Axon Enterprise (AXON)."

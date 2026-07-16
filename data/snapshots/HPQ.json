@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:56.007Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:12.338Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    24.690000534057617,
-    24.68000030517578,
     25.239999771118164,
     24.600000381469727,
     24.290000915527344,
@@ -24,11 +22,11 @@
     23.780000686645508,
     24.1299991607666,
     24.219999313354492,
-    24.770000457763672
+    24.770000457763672,
+    24.6299991607666,
+    23.75
   ],
   "6m": [
-    22.280000686645508,
-    22.1200008392334,
     21.65999984741211,
     22.149999618530273,
     21.09000015258789,
@@ -158,10 +156,11 @@
     23.780000686645508,
     24.1299991607666,
     24.219999313354492,
-    24.770000457763672
+    24.770000457763672,
+    24.6299991607666,
+    23.75
   ],
   "1y": [
-    24.520000457763672,
     24.559999465942383,
     24.75,
     25.059999465942383,
@@ -410,29 +409,31 @@
     23.780000686645508,
     24.1299991607666,
     24.219999313354492,
-    24.770000457763672
+    24.770000457763672,
+    24.6299991607666,
+    23.75
   ],
-  "lastClose": 24.770000457763672,
-  "oneYearReturn": 1.0195758374092667,
+  "lastClose": 23.75,
+  "oneYearReturn": -3.2980434998201766,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "HP (HPQ) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZHBXQm9QaWRBR3ZNOHZEMlNELVhZV3lBZVo1R2pncTN1MjhWWkR5SFB6bGQtMFA4c3ZaaHVpQ1dXOFB2LWtibEY1U3ExNmpqSjNvMXNONTdXd0UwNGx1X0xRX25IZV9Zcl92RGY5eWxoUGd5d2pvQWQtazlUbUtHVl9EZ2xtcGgwUDlwX3l6S1NzYTVEMjdF?oc=5"
+    },
+    {
+      "headline": "HP Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZEF4UThScUtqN1A3UDNRVmVPS2xKZlg2WHdxSzA3VTczaS1qSXVJenk3VW43bDNFZmhDYmNaelV6clR1Y3R5Y3pWMmUxTll2WkJGNTZZeXYyVC1DcEpfS1NESzIxalNzRk5pRzBGelFyTWlKN2FxalVWLU9kYVJjdFJMUDF6SzBWNlJ5alNPVVNFMFFObFF2UlNCb2JLLTloTUItU3JOdEJyaTZ2Z3ozYThGOUV6RjFETjhpd0tEU21UbHM?oc=5"
+    },
     {
       "headline": "6 Green Days In A Row: HP Stock Is Up 13% - Trefis",
       "source": "Trefis",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaHRqb0pjbUt2bU4wdzd1MHBKakdJRk5ZaDJRbXMzWlVUM1JLZTZ5M0QxUTQ3LVhhN2VETkU4amZDZjRRc3BrdFBMNE1ONjFmeUVxR2wwN3BpZFZINGFTOFo4X050TFliMzJwelo4b3hmOE4yTXhZRXd5ZkFFdUdJRWx0cUVlZ2FNVVRDRzZHNFBid0RRVElZWnpKaldlcEJS?oc=5"
-    },
-    {
-      "headline": "HP Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMC03b1k3cnJOMmIzcThacTVFQnI1TmNTM2thSEdNRDYzOWhBdGtuYkV0NHVJZ1dPdUxoUTdkczBYTnV3Q0stRWY0V2RKbVo2U0JVNm1ITVUxMnNNMzlwYzE0cF9Ec1dfM3FqbEgwdWFBQy05aEFXaTRaeWdJcWhaSUt3VUJfMVV1b0o2bUFnLUNVUHBMUC1sZl9QNTNwYldXSVQ4OWR3dHVsLVJRdkZ2UGJDZ3ZyVlZScE5HVFppeUhJckJxNHNkUmJ2Tk1hQ2tqVFE?oc=5"
-    },
-    {
-      "headline": "Goldman Sachs Raises HP Forecast but Remains Cautious on the Stock - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcm1pbm1xNTZDeDhlYm9BaFpaaTJTSHZSMUVuallFT09FU3ZqVlFYMVRsREFyeXBpMjBmRk5zWEhackdnU3lGY0lCOHUtRDFuRDBOYnVOSGhMV256UmEtcXdfMzJfT0RwN0w3R2EyVThfckRUVXB4VW4xZUxUaFBjMkpJMkxoU1RFQ0lMcmNpbzJEQWRYaDM5UEZlWkdhZw?oc=5"
     }
   ],
   "insight": "Tracking HP Inc. (HPQ)."

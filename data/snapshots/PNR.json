@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:08.251Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:26.976Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    71.4000015258789,
-    72.56999969482422,
     73.80000305175781,
     74.20999908447266,
     75.19999694824219,
@@ -24,11 +22,11 @@
     73.26000213623047,
     74.56999969482422,
     76.19000244140625,
-    76.52999877929688
+    76.52999877929688,
+    75.68000030517578,
+    64.33000183105469
   ],
   "6m": [
-    104.13999938964844,
-    105.47000122070312,
     102.66999816894531,
     104.47000122070312,
     100.05999755859375,
@@ -158,10 +156,11 @@
     73.26000213623047,
     74.56999969482422,
     76.19000244140625,
-    76.52999877929688
+    76.52999877929688,
+    75.68000030517578,
+    64.33000183105469
   ],
   "1y": [
-    104.7699966430664,
     104.87000274658203,
     106.69999694824219,
     106.06999969482422,
@@ -410,29 +409,31 @@
     73.26000213623047,
     74.56999969482422,
     76.19000244140625,
-    76.52999877929688
+    76.52999877929688,
+    75.68000030517578,
+    64.33000183105469
   ],
-  "lastClose": 76.52999877929688,
-  "oneYearReturn": -26.954279630244155,
+  "lastClose": 64.33000183105469,
+  "oneYearReturn": -38.657385194784545,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Pentair plc (NYSE: PNR) cuts 2026 guidance after pool channel destocking - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHU0VXR5emVmYzYxanAzZXh1b19hdFhXVmhTX3dzZjJEbnNpeUI0OFl0ekNSRVl4SmwxOUlGc0h5elFWUkpNV0J3c2dKSUtNYXdHSTNvM3R1RmFBdGliQ2NZdTNJV3pabE5kNTN3dU1QRF91TkFrektFU3FkeERPUHUyS2RWanVKTXMydHJqUm9NN2w0TmpEOUhpZC1BWktx?oc=5"
+      "headline": "Pentair Stock Tanks on Slashed Guidance, Weak Earnings, and CFO Resignation - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcE45VDNmVFNVOVRIUVAwX1NhZ0NQQTBmWUdXNEpKOVpLYkk2UTBzSDdQOE9yZldxcDBYaFpSQVM0UWRVakNaX3FjdXBfUkVYNS1XdGdmSkNhMlUyUzhscFlFQWVJdkhodHBmUG95UFM3WTI0S3podzlmdVpXYkM5M2IyVQ?oc=5"
     },
     {
-      "headline": "Pentair plc (NYSE:PNR): A Quality Stock With a Staggering 55.92% ROIC - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ2toRUxYX01ncDJSYzdGWkF4cTBvaEh6OXE4eENIdHlkdWxlMXQydHpTZ1VPR3E3cGNwZVJmUTg1N1g2VnpPd05oWEUweExLcnlQaHpGRDM1R2lzVXozZHlINDVDRTlZcG52ZXJBVENpaVVrQkQxdEdfX3JUNXVRWlNZLWZWYmJiSTVBZnMwWklwYnN0T01QODczX1VnbmJkbXRzSmlCYWlPcGpDNEs3YnFiVjg?oc=5"
-    },
-    {
-      "headline": "Wolfe Research cuts Pentair stock rating on pool market concerns - Investing.com",
+      "headline": "Why is Pentair stock plunging today? - Investing.com",
       "source": "Investing.com",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFBHc3JGYU1jQ3o2UFFaMWJJaUFtMEl1aV84eUI4X09LcXl3ckgyQk54OTZHdTNfVmJNbm1rWlhzSk9GZEh4LTBkQmJ0X3EyeE0tMmtzLXBDQzRlQUVEamgtZTdtRjF0TFNoRUNDaHJ3Z0xrXzJJQ3pmSEY5aWZ3bzBBRm1GUGVwLXhHbGFNa0RHZkhkSFJ0cHZscVdSeGswZGEwYldpVU9aYVlRZy1DVUgxVnFYS2JTQTgxQzNKWW50Zw?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUUctdTQxRFI3S2pkd1doSjZma0VEbzZnaXVmeGJGVUtCcmlDcDRBTHRpRTdiVU5ESlhIejZpRnU0S2hGU2w3NE1FLUFHNTBEd3R3alg4cXRzck1VUnE4bjJGbWxYUTZ6VE9VOXhjQTZGYkZBTmJHTXFlMHF4TElBRVc5TDR0UnhuOUpfSVBsTFJzUmtObUpURU5SUjhKUQ?oc=5"
+    },
+    {
+      "headline": "Pentair (PNR) Sees Significant Stock Decline - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdENnaUhJU0hvT0xrcGhxR085d1FOcU54dVZGeXBvU0NHZjItZU9xM0xuN3NfbUs4ZXp6WklHSFVwelMySXBzeGxYb053aFNSVFdpUmV0MXl3TkhfakFlNlZWaWdCLWItZzBtZ3hQaTMxTjUxTjN0SDlIUEVfN0pDWE42enR3TE1OR0N2MW5MX0owVVp6bXJ2RQ?oc=5"
     }
   ],
   "insight": "Tracking Pentair (PNR)."

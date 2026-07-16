@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:09.368Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:28.113Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    80.0999984741211,
-    80.69000244140625,
     80.27999877929688,
     79.26000213623047,
     78.9000015258789,
@@ -24,11 +22,11 @@
     79.72000122070312,
     79.44000244140625,
     79.62000274658203,
-    79.94000244140625
+    79.94000244140625,
+    80.33000183105469,
+    79.98999786376953
   ],
   "6m": [
-    69.02999877929688,
-    67.95999908447266,
     68.56999969482422,
     69.62000274658203,
     69.98999786376953,
@@ -158,10 +156,11 @@
     79.72000122070312,
     79.44000244140625,
     79.62000274658203,
-    79.94000244140625
+    79.94000244140625,
+    80.33000183105469,
+    79.98999786376953
   ],
   "1y": [
-    68.62000274658203,
     69.43000030517578,
     69.9000015258789,
     69.87000274658203,
@@ -410,17 +409,19 @@
     79.72000122070312,
     79.44000244140625,
     79.62000274658203,
-    79.94000244140625
+    79.94000244140625,
+    80.33000183105469,
+    79.98999786376953
   ],
-  "lastClose": 79.94000244140625,
-  "oneYearReturn": 16.496647102492386,
+  "lastClose": 79.98999786376953,
+  "oneYearReturn": 15.209560006017364,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Holding Regency Centers Stock Still Smart Move for Your Portfolio? - Yahoo Finance",
+      "headline": "Earnings Preview: What to Expect From Regency Centers' Report - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlpSMXpOd19wd2xoMGRsM2xjN0VXSy1BMVg3N0dVckNrSXUwbVd0M0tGaGJkbFpfbTh4NndnejM0LXdGakVGclNLV1BlcF8tZ3pZb3ZRenVLaS02bHpCZ0xvbklOSHNMa0NYVzZwZWlYZ2xTWGpnenNfN05tbE1jVGxWM2tNbldzUGFJYjVadURSaWZhVV81eFZHajNyTHlnN0E?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYUQyUm5PbENwSWtUbWFuSFFENXRoLVdEXzNnS3lwempvb2Q2ejA4dmRUNFJBYXNSOEFuNUc2dy03bi16LXBzTTA1cTE5akpWaGFQdlhfaGZvelFZVHNLMXBlY1FreFhabTBmTHRtek5aUmpNVlg3dlgtVzc1RTB5MjZ6ZV9JbTB2NWw4NlNIU012NjRpeWg3ZkpVX2hNQ0NmY2U4?oc=5"
     },
     {
       "headline": "Regency Centers Corporation - 5.875% Series B Cumulative Redeemable Preferred Stock - TradingView",
@@ -429,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanJnRjk0Q09kd004QXBLVXc0LUNER0o5aXgwekZkNy1QWTVfWVlua3J5NmFaVTh0ODlkYzhZQ2FWVk85US1ObmtJc3RPcWc0MkV2OXhQQ2lldkRQRTNPZWRlTUxPU2VOeVpjVTJZbTNPbGxicW1wZ1hiV25TLTk2NHljc2RTaFU2YnVmNmJxMHNxNE5ET25nSUdJZkl1cVk?oc=5"
     },
     {
-      "headline": "Regency Centers (REG) Momentum Keeps The Undervalued Narrative In Focus - Sahm",
-      "source": "Sahm",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUdCNG51ZW5YcnFCRkFsMFE2QVhMSmpBazg5ZEV5OHUtZktQRlJIVjJ3aVRYSFloRHkzSzMxVFNSYlRVYi1jOUl5Vm1sUVVaZkcwUFpjc2VoVHdGd0VNVjVDNWd3Y1dNZngxMHpWMzRLdko5YWk4d0tSMC1ZTWV4d3lKdEJwVnBmeWJld0Jlcnlxbk14elpGS21iWnJyaEk4c25fMXBEdVRBY1lTRGpQaTA0cC01bm5OaWlRdXpR?oc=5"
+      "headline": "Regency Centers: Above 6.7% From Its Preferred Stocks (NASDAQ:REG) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2dlSFpGUG5LcUs4Q3pHOEFPS01IMnFJMjJ6NGlyY1FIbnZUNjNpNnRtZFVyQlBUWFZoSEFEcUlVTmd2T1F0NVhZTmlCNE9sNHZYNDdUZHlKeVJqTERLX2JwazBsTlhEc0ZIaG1zUE5KQlh2QTBqenN5ZmgtSi1EeDlSeFJPSm5tWFBjT1AwLXFmVWhDMEhiSFVTTnpfTEk4Y1E?oc=5"
     }
   ],
   "insight": "Tracking Regency Centers (REG)."

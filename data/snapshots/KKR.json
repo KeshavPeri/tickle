@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:00.136Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:17.277Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    95.0199966430664,
-    95.30000305175781,
     96.23999786376953,
     98.08000183105469,
     98.97000122070312,
@@ -24,11 +22,11 @@
     93.30000305175781,
     96.2699966430664,
     96.94000244140625,
-    96.91000366210938
+    96.91000366210938,
+    97.20999908447266,
+    100.94999694824219
   ],
   "6m": [
-    127.4800033569336,
-    128.89999389648438,
     134.57000732421875,
     135.82000732421875,
     130.8300018310547,
@@ -158,10 +156,11 @@
     93.30000305175781,
     96.2699966430664,
     96.94000244140625,
-    96.91000366210938
+    96.91000366210938,
+    97.20999908447266,
+    100.94999694824219
   ],
   "1y": [
-    137.2100067138672,
     143.0500030517578,
     147.60000610351562,
     145.97999572753906,
@@ -410,21 +409,23 @@
     93.30000305175781,
     96.2699966430664,
     96.94000244140625,
-    96.91000366210938
+    96.91000366210938,
+    97.20999908447266,
+    100.94999694824219
   ],
-  "lastClose": 96.91000366210938,
-  "oneYearReturn": -29.37103788340889,
+  "lastClose": 100.94999694824219,
+  "oneYearReturn": -29.430272775515537,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "KKR further sells down HD Hyundai Marine stake to raise profit to $719 mn - The Korea Economic Daily Global Edition",
-      "source": "The Korea Economic Daily Global Edition",
+      "headline": "KKR further sells down HD Hyundai Marine stake to raise profit to $719 mn - KED Global",
+      "source": "KED Global",
       "when": "2026-01-08",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xckstb3JJbThRQ0Z4WVM1S3phM3hmamMyRG9TYjdkRkdfdVpaVW5mcU54RVloV2FEc1Y4TjBtdUhmTW1aMEIySk5aRFVfMzgwYnNWS0VPT1hkRlNuVi1wZjQ1TGdKcXVXQXU4VHdDZnJNdUU?oc=5"
     },
     {
-      "headline": "SK Discovery, Hahn & Co. sell $240 mn worth of shares in renewable energy firm to KKR - The Korea Economic Daily Global Edition",
-      "source": "The Korea Economic Daily Global Edition",
+      "headline": "SK Discovery, Hahn & Co. sell $240 mn worth of shares in renewable energy firm to KKR - KED Global",
+      "source": "KED Global",
       "when": "2026-03-06",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nSGt5TjQyRXVoaVl2d0UyNWxVYWNZWWc3bTRDdTZNMmlyd1VSaE0wU2s4QkVmN212Y1k0MTFpRFdISDZ0aUNaODZ0ejlrYVkwNjh2OW5PbzBremJlYjVuYTNPMUpiMEJRYktaTnZfT1RXWGUxX1NncExvVQ?oc=5"
     },

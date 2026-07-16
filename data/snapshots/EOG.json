@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:47.388Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:00.852Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    140.27999877929688,
-    136.52999877929688,
     136.64999389648438,
     131.97999572753906,
     132.0500030517578,
@@ -24,11 +22,11 @@
     137.58999633789062,
     133.5399932861328,
     134.10000610351562,
-    139.61000061035156
+    139.61000061035156,
+    138.00999450683594,
+    137.47000122070312
   ],
   "6m": [
-    105.01000213623047,
-    107.2699966430664,
     106.19999694824219,
     105,
     102.55000305175781,
@@ -158,10 +156,11 @@
     137.58999633789062,
     133.5399932861328,
     134.10000610351562,
-    139.61000061035156
+    139.61000061035156,
+    138.00999450683594,
+    137.47000122070312
   ],
   "1y": [
-    119.70999908447266,
     118.80000305175781,
     118.43000030517578,
     117.68000030517578,
@@ -410,12 +409,20 @@
     137.58999633789062,
     133.5399932861328,
     134.10000610351562,
-    139.61000061035156
+    139.61000061035156,
+    138.00999450683594,
+    137.47000122070312
   ],
-  "lastClose": 139.61000061035156,
-  "oneYearReturn": 16.62350820990032,
+  "lastClose": 137.47000122070312,
+  "oneYearReturn": 15.715486270493884,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Principal Financial Group Inc. Reduces Stock Holdings in EOG Resources, Inc. $EOG - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTAxSHRMYTZiN0VnM0VMaFdqbEdZWGRsejl1QmZXb0pEOXpuRG1fNTM1NEZqUHkwOFN5cGxUbXozX2tycTZXRlhaaGp3QTllSU1UZW5yWEZ6OE9jNm1HczB4cGVKYnFBbEh1QnlBZXdMYmtwRjFtaGxKal9NR244cXdYb2VHdUdIUHJNa2FtM21IZlp5S3Znbi1YS284ejRTWmJzWE1CYk44TVQ1aEJRTnJwUzBPYmVDY3d3Sm9PQXhNLWVMSE13TnlJRFUwMHk2ME1lVw?oc=5"
+    },
     {
       "headline": "EOG Resources (EOG) Stock Still Looks Below Fair Value Today - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzJ2dVJ2bVoxZWJ3NmxBWFNqcElJNHppbTN6ZkM3NjBrdDY4aWUxUlluWXFlbWdSTlBhZk1lM2s5aTJjbDdnMk1xWkE3LTRuRGotZjgwY0dpTnNUbFN5QXlEbTBlWWFXUlJMU0Y5bWJFLTZrc3QzakhfMnZMQkJUVkIwTHQxamR3bVFVaC1qVVZKMV9zNVdkSHVn?oc=5"
     },
     {
-      "headline": "Sequoia Financial Advisors LLC Grows Stock Holdings in EOG Resources, Inc. $EOG - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcnFMXzZ2Z1ZFbTRGSmdyQnpVWHlOQ3hxZXdtZWEyaFgtdEJ2NENlSHJIUm1qaDd0M0hET2pFOVkybmxGR0JtNkRoRmFyU09WcW0ydjhBaXNjYWgzZXRlRXJHWm5aSVh1ZmU3cFQ3bjQyWE56Tkp6NGQxUTFlQ3habXJBSHZQSm82ZnlLcHBPSThqazRGYkZPT3lTR0JYTi13aVBBTkhwUVp2UmVzaF9SWnplSkk0bHBMbzJvX3FZV0ZSYkF5bC12MUVKenhLeWpOdzVN?oc=5"
-    },
-    {
-      "headline": "EOG Resources Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "EOG Resources Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeWVCUDRwaU1DVVhERUs5RldVVC0xSVVLcXk0MDNualRabWdmQzl5cVpMT01oTko2QTlLTXl5a2taSHpPZmZCak83amRQRE9xWEdyRWFnVmR2NHY3c1k2QjJyNlN1R2ZrajljWFhQZDJETzFHczVwdl8tUEQySi1zTVBHSE05SUNleGxFOWs1eHBuNW52RkhnbWRBc0NBZllhRkVIaFRsV19oYTVob1U5U0xOMjljTF9UM0haYUExQ0tub2IzTWVfeTVwc1pNZWN4VlA3aHNPYVBfT2x2d1BLeQ?oc=5"
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjZXLVI4aEJVNWE3TUk2VDFQSWpvZGY1S2tHM25wWDRNcWp1SUFRVTlHTmRVUXU5bGh1Yzk4TFlMamxmQ1ItZUlqMzlPdnBoMXlQTW9wbk1QSWZTUGM2NjRsSGhhM1lKUVotQlh6UUdvT1R2NlZ0MWd1ZE83LUd2Um9wNjUzV1N2WVVUTGFpQ0FSb04tUVZ3bGZITEJVUVlVMWd1WnVPSXpROWxRZXp0YlB1TV9SMUF4YVdjRzd0czBPYjhDbjcxU0ZjSnlBTE0?oc=5"
     }
   ],
   "insight": "Tracking EOG Resources (EOG)."

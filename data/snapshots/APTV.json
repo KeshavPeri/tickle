@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:31.810Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:42.449Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    65.19999694824219,
-    67.95999908447266,
     68.05000305175781,
     66.62000274658203,
     65.68000030517578,
@@ -24,11 +22,11 @@
     58.56999969482422,
     59.86000061035156,
     60.56999969482422,
-    59.22999954223633
+    59.22999954223633,
+    58.060001373291016,
+    58.959999084472656
   ],
   "6m": [
-    76.08999633789062,
-    78.44000244140625,
     80.5199966430664,
     82.61000061035156,
     82.1500015258789,
@@ -158,10 +156,11 @@
     58.56999969482422,
     59.86000061035156,
     60.56999969482422,
-    59.22999954223633
+    59.22999954223633,
+    58.060001373291016,
+    58.959999084472656
   ],
   "1y": [
-    69.30000305175781,
     70.12999725341797,
     70.2699966430664,
     68.19999694824219,
@@ -410,29 +409,31 @@
     58.56999969482422,
     59.86000061035156,
     60.56999969482422,
-    59.22999954223633
+    59.22999954223633,
+    58.060001373291016,
+    58.959999084472656
   ],
-  "lastClose": 59.22999954223633,
-  "oneYearReturn": -14.531028955367495,
+  "lastClose": 58.959999084472656,
+  "oneYearReturn": -15.927561109951297,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Aptiv (APTV) Expands Kyndryl Tie Up, Is The Stock Still Undervalued? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2lsbEJ6OFdTbklRSS1zdU1uYWFid3AzY2xGUFZrR0NVckRKMEdHTTdBTTdJTTJYZlJSenNQN3d1NllKUGZja3dkcWdLTmw2bE1qMVcxVkljc0NYLVFhdmZOM1FYNS04T1BJRmFlOVpPQUV0MWd2S0FNVjNwRVV4NDVhclYyN2hxR2dvSTFwNDhSaHZxWmxCTm94Y0RjWnpXQm9iNXo0NmpfRkpIeV9WamQtLU00VmlQcTdDci0yc1VIMUnSAcgBQVVfeXFMTUlMaUU5TEt4bTJWaTdPMjNVNkk2TDdESm5FeDVfc1V3Sm55bHp6OVBnWW5Na3VYblVDNlgtM2FVVk0zYWRMVnlKSjFBeXcwQVZPTThIOGl1YTBwbXo2cmNHUmthS0NCLXNVVS13TWJxS1cyZllGMFVlQnp6Z2N6T1VtWGRDM0RBU2VFX1NnSnMwNnd5R25OU3Z5WUpMLUdfVTNfLTByeDhVUEVNUXJjUXV0VklEWU42dWxZVnhhRVRsZUFVSVZ3T2U?oc=5"
-    },
-    {
-      "headline": "Will APTIV PLC (APTV) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "headline": "Why Aptiv PLC (APTV) Outpaced the Stock Market Today - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkJJUE1YT0doME45SkNucVZZRHpiU3VYM0tUYUxHMGpvM3lSakk1NWN3WGh6UG9lTUtEOGdLTW5BeFFFRzBKS0Z0TFJtTWljamxmX1RQY0tkMzQwbjVoZzlGOWNxWjdxWkN6Z1ctY0llcDByeEdYLWNxX1VNLW9WYk5ORmJJTjExTFR1QmFzUzIzSjVTakJYaGZR?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdEZ4OU1LQnlFcjQ1Q0FnQmtueHp4WkFxS1VBcGZlQVM0MW40clJGTzRvcWQxUXA1LVVORGFwMTRGcUY2WjAxVEZpUzJNczU5cXJZMjYwNmtUNWRaWlNUdWhQMXRmQW41LTNwWnpIWkRLMUFDcGR5eno4NUhuT2ZONGh6NWQ2MUozNUpYZU41Q1oyZEdJbXpB?oc=5"
     },
     {
-      "headline": "Aptiv's Wind River software expands global reach through Kyndryl - Stock Titan",
-      "source": "Stock Titan",
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
       "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHJrWXJpZzJoWkJLZ0pvOWVWbGpfZ2daOXVzMjZXeF9KOExIVDdoOGRBa0t3cWplQWJoaEtmcThieXQxOGhuMEZRc0JibHNkeEpPOE1MNkU0UXFfeUI1Z281VDhTV3ctOU14MVRIYWE3M0NDalcwUkxWUmVlamJrZzgyVEVaeTdCNmcxN1F6RFVkV0F5UExBSWR1MHJLZEpwN25DNkRLc0lobzd4d0s4SVpB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UYkgwTEZyTTdacXkzanJxQ0tSN1FjMUF0aXZzRmhUdWt0UE5BamdtSEN6UVZyekhCMHVHc0tiSmdsR0dNUUZ0YTdhMkFBZXIt?oc=5"
+    },
+    {
+      "headline": "[Form 4] Aptiv PLC Insider Trading Activity - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEdtbTJxeWlLWUliQkllazcwMjRzNDlJa3hQdzZoelNhRF8tT1VzNnF1bzRLQ0otb2RlU0xFaGEtTTdGekNBdXI1NXNwczdWY1lCR2RQOXg2MGswYVEwYUZaM3E2RDVKTE5IdncyckJGUE1zb0hMazNNanBjMExXbVhyWV9PNW8zX1B5bGRWcjU2T194OTdfVmEyVzgzdlFmVThDNWN3?oc=5"
     }
   ],
   "insight": "Tracking Aptiv (APTV)."

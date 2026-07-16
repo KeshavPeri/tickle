@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:45.525Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:58.310Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    146.07000732421875,
-    145.7899932861328,
     147.4199981689453,
     148.0399932861328,
     148.85000610351562,
@@ -24,11 +22,11 @@
     151.38999938964844,
     149.27000427246094,
     150.27000427246094,
-    150.63999938964844
+    150.63999938964844,
+    149.07000732421875,
+    146.9499969482422
   ],
   "6m": [
-    128.97999572753906,
-    130.36000061035156,
     128.8000030517578,
     130.0399932861328,
     128.25999450683594,
@@ -158,10 +156,11 @@
     151.38999938964844,
     149.27000427246094,
     150.27000427246094,
-    150.63999938964844
+    150.63999938964844,
+    149.07000732421875,
+    146.9499969482422
   ],
   "1y": [
-    133.35000610351562,
     134.22999572753906,
     134.72999572753906,
     137.25999450683594,
@@ -410,12 +409,20 @@
     151.38999938964844,
     149.27000427246094,
     150.27000427246094,
-    150.63999938964844
+    150.63999938964844,
+    149.07000732421875,
+    146.9499969482422
   ],
-  "lastClose": 150.63999938964844,
-  "oneYearReturn": 12.965873636864409,
+  "lastClose": 146.9499969482422,
+  "oneYearReturn": 9.476273281362735,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "DTE Energy Co. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdm5xVENyaVppMlhvZV9lcGdTLS1ZQ08tYmtQVW5aVmZIUk9IMXJfbktPN3lKMFpiVjNyUkZvb0xhelVUazlqYk1ac2dFRUVXMTYtbk9wTmRoTlR4ZkhreDkweG9MVTVEcThjUlBETkFoZXBiQXo3b0ptcDRKZzh4OUhGeGxmdmJySDFva21mOUk5TGFCdTg2WnhiX1Bza1IyeERzQnJTcS14Z1VJeEoxSGNDeWlnY2RrS3dDbkFneHJXc2lmZkRNblZzQ3o?oc=5"
+    },
     {
       "headline": "DTE Energy will discuss second-quarter earnings on July 28 - Stock Titan",
       "source": "Stock Titan",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ2hERlVjeGVKSnBCTFNEQms3T04tWFVfRTI3R2pxSTJiMXh4QUY1LWY0ZVlVSE9ITkxnb3BpY3J6enJpZnh2TFRVY25TemtBSy13b0IySTBMckUtY3IwMUhPYWs0MS1RdnZSOUljRjZIX3VEUGIyVlBCeWpDWXk0Y2NaVnFwdFJwb1BvQmtKWHNueU9BVlA3RXRZR1lRdlhvRUg3S0FMVmdieE9XSmEwa0JHQlZpeFc4V1dNWEFKUQ?oc=5"
     },
     {
-      "headline": "Here's What to Expect From DTE Energy's Next Earnings Report - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnZMMjZwc3lFc0RIQjVPUk00ZVlZelFMZlhXMFJMdk1PSXc3aFFoSW1jOGtWUzBVWThRdDVCZEpOV1R6Q3BreFRqWnl5eGJkU251Y0dZdE1HNktsZG93V0hSQ2pOVEI5VTI4WmpLbDdRZ2VfV2RzZm9JZ0E2Z0VKM0Zkbmwyd1QxUHVZY2hTRQ?oc=5"
-    },
-    {
-      "headline": "DTE Energy (DTE) Gets a Buy from Truist Financial - The Globe and Mail",
-      "source": "The Globe and Mail",
+      "headline": "DTE Energy Nearing 52-Week High: Buy, Sell or Hold? - AOL.com",
+      "source": "AOL.com",
       "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVNPNzBQTFBseWRhLWJyRGppU2VaTHp0dDZ5NHQ4UTZIbGE5UXktSFBZenNySGpWWklxQ0dtbFBuS1J1QXp3X0hmQXhMT3BuMVlxVlY0SzBoLU1OTGRzeTZvbkpxakp0anFjTzFvMWNLNkNvUzVIR0R6aGRraXotbXZFc1Z4VW1XU1lOcXhPNlM4c2Nyb1RMQmVqOUJrVVI1ZnBQMm10dTBDTXpXOURKaXI2RE1idGVReF94Yk5lelU5NzRvQkNJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CbllEZDd2bGdyd3gtTFc3MTNrelVRU0g0dWtucnZvZUVSa3htSjVvd25jZlh2QzB1Ml9OYlFmMEY4Ymt2YURTdzdBcnBwX3RxNFhwODlyb1FHR3lNSEpzWXFGTG10elJUTmlON2pEMFVBcHpocXN0Sjh3?oc=5"
     }
   ],
   "insight": "Tracking DTE Energy (DTE)."

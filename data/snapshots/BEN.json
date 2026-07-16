@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:33.966Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:45.044Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    31.139999389648438,
-    31.809999465942383,
     32.130001068115234,
     32.5099983215332,
     33.18000030517578,
@@ -24,11 +22,11 @@
     33.5,
     33.68000030517578,
     33.5,
-    32.83000183105469
+    32.83000183105469,
+    33.13999938964844,
+    33.630001068115234
   ],
   "6m": [
-    23.889999389648438,
-    23.799999237060547,
     24.489999771118164,
     25.1200008392334,
     25.149999618530273,
@@ -158,10 +156,11 @@
     33.5,
     33.68000030517578,
     33.5,
-    32.83000183105469
+    32.83000183105469,
+    33.13999938964844,
+    33.630001068115234
   ],
   "1y": [
-    24.139999389648438,
     24.350000381469727,
     24.520000457763672,
     24.600000381469727,
@@ -410,12 +409,20 @@
     33.5,
     33.68000030517578,
     33.5,
-    32.83000183105469
+    32.83000183105469,
+    33.13999938964844,
+    33.630001068115234
   ],
-  "lastClose": 32.83000183105469,
-  "oneYearReturn": 35.99835402287807,
+  "lastClose": 33.630001068115234,
+  "oneYearReturn": 38.110885179729024,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qcVltM3ZtNXdRbVp0aEJzLXBiZG5mVkpYYW1qcGRCeG1ITE5DSUZjNVVzTk9IMEF2RGFJUVY4bVJNekFUcUpBZVpxekQtd2M?oc=5"
+    },
     {
       "headline": "Franklin Resources (BEN) Stock May Trade At A Premium After A 43% Run - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSzdLV2h1QVp6Wnlqcmprc0N1Q3ZhSGdsTXNCMHY2MTN5MnNySzhTZUJYdGY5aU56YW5ScFF0dVhMcDUwYmNjWFRuc1k4eFA5Z1c4TG9fN3hiUVNScE9GNTRBVTJ6UEdPbmRDSXJKU09xYU9tZ0tYVmZvaEFPTEhVUnFvdlFPMVFFdUpGcTljNGYtUmQtWlRHVXFzUEFfdw?oc=5"
     },
     {
-      "headline": "Franklin Resources Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLW5rTktDTGY3cE02emx0WTRzcXh0d3gtSXBEamJpaGFIRXBXbzFHamZSWXZNWjEybTRUdTBDVWV6VWtOMjhpSFRvdFNUc1FuUFpPd0hMQjRDOG5sUkV4ZXBzWG9qczN6UXBLSjRxanAwU1d3aFpUenJUai03bnZENHN6b3YydzdvWjhpVE5IR2JMMEJ0by1sMTJkV21QcG42enhUZm1ObjZkenMzQlJpYmxNbWU0Q1c0TF9oWUd4dFBHTWhWc3pqTlp1dTgyUm9UZnhobUt2RnhZc1BCRFgwWnZscmcxamRsNEtGQw?oc=5"
-    },
-    {
-      "headline": "Elevated Capital Advisors LLC Sells 30,825 Shares of Franklin Resources, Inc. $BEN - MarketBeat",
+      "headline": "Sumitomo Mitsui Trust Group Inc. Lowers Stake in Franklin Resources, Inc. $BEN - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-11",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcDlNNlRqRk9vcjNnWm5sTXZUdTRmaS1nTFhGREVrWHZKWEcyVjBWcnhJOFF5STdJeXJUUTFid3ByS1MwUUF6NEdWNEFhY080OTk2ZVkzRHNwdjRpa1NoY0ZVX3FSMk9wRE9aN3IwdzJjYjV3dzJxS3NFN2FBNDE1cDZENHJ6N0x3TDBlZEdxNW9WeG9UMWRaRWxtVEx2ZjdLdmxZbHY2UjVEa096Q1NHUXd1SV8tdi1naV9LdUl4UHhORy1MbEp5WThJN0hlUFpMUHVmSllR?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWDlHY250bUg0dzNfYlc5Q1JlQk45MGtLWF9POEl3X1lZb1Q4eEtyV3RhUWdnVzFZeUtieWRyYk0zYmRnWWVMMHNwdWNpU0cxYmtOR2FhQVpyNTdBZjhRdmRoZno5eWlpLWlxUlAzNGhISC1qazNsNXhmZEJYZy1vT0sxTjFab0lta0J6ZUE3aXlNTXhMVU1nVjJHbDFOQkhmNklUSnBTUkhiTnI2X1RqZnhDYzkyVTZyaUcybEpQVDJCYjlkQVdITnpEcWd0Vjl4?oc=5"
     }
   ],
   "insight": "Tracking Franklin Resources (BEN)."

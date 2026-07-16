@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:05.847Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:24.036Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    160.66000366210938,
-    160.47000122070312,
     161.61000061035156,
     161.82000732421875,
     161.25999450683594,
@@ -24,11 +22,11 @@
     165.39999389648438,
     171.72999572753906,
     168.8699951171875,
-    163.92999267578125
+    163.92999267578125,
+    174.5500030517578,
+    162.10000610351562
   ],
   "6m": [
-    107.08999633789062,
-    106.47000122070312,
     105.08000183105469,
     106.62000274658203,
     104.30999755859375,
@@ -158,10 +156,11 @@
     165.39999389648438,
     171.72999572753906,
     168.8699951171875,
-    163.92999267578125
+    163.92999267578125,
+    174.5500030517578,
+    162.10000610351562
   ],
   "1y": [
-    103.47000122070312,
     104.16000366210938,
     107.25,
     108.37000274658203,
@@ -410,29 +409,31 @@
     165.39999389648438,
     171.72999572753906,
     168.8699951171875,
-    163.92999267578125
+    163.92999267578125,
+    174.5500030517578,
+    162.10000610351562
   ],
-  "lastClose": 163.92999267578125,
-  "oneYearReturn": 58.432386915813424,
+  "lastClose": 162.10000610351562,
+  "oneYearReturn": 55.6259604496186,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "NetApp (NASDAQ:NTAP) Stock Price Down 6.5% After Insider Selling - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjgyTEhaTlZHc0ZmeG5MaFVJNDBuY0F2RHB1VFF1OHJwcnB2RDFNOUpXdXR2ZU1XaExxYlR3XzViRl91VnV2eG5YT2g1WWFZemNSQ1BpZ2NpU1NQeEx2UUhXZGV3Nnl1YThCeGFKN1dCR1FFbHl6Slo3b3JYak9WRG43ekdpc09VRnZqWXdHV09QVTVxX1R6bkJlem9Pd3NXbVplWklkLXpYZmVRQXRmV0dGZw?oc=5"
+    },
+    {
+      "headline": "NetApp Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT1o3STY5Q2NGT2V0dldjOV9BVUpCODBKbTI4Q0xMTnVrcHFBQm9GV0cwbnZoQkh1TTR2ZUE0Ny1teFZ4bE96dDJwdWhyMC1ZS2I4OUlyVGRrZnFqdkdTdFdmYzFBMHFYLUxvajdSNWJhRFJuUnNheGFGbkxhTS1CSmU0VWRHbkNYTGZsMGhhbU9vWlBacG5GX3ZpdXVFMVF0VEM5d0tyaGYxSEVTWVZha2V3dUlseHFzZXVyazYtSFNpdWRnNE1xdA?oc=5"
+    },
     {
       "headline": "Everpure and NetApp Stocks Trade Up, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeXBrMnphUDVraU91a1oyOUFKdXJ2RjBPM08zX1UtZ0U5SEF3aFVRTWpaYjMzSzRhWjVNMzBSSWNSampJcURxN0xmbzhBbXB6YU5IdmxTa1VqZHctOEZmVnRCSXVxWHRLNXA4ek5qWDJkLURubWdEVGlEeFc5OG9ieW0yRUR0UVU1RVZpMTlwdlZEUWp0WUJyNy1Sck9tV3c?oc=5"
-    },
-    {
-      "headline": "NetApp Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd2k1allrRHF4SVZDMkszVzhjbmhLWTdManhGRkgxSnFFSndkR2MzVy03STZCREhTaWg3enM2Q1hhWlo0bXRnUWdfVDRlQzEtNlNlR19ieExVMXFVYkhPZGFRN25meXFmdGdwcXVsTTJNcnp6OVdSSjZmNmVHV0lxZWdDYjJKRzhfOXZqYTJBTWczd2VpV09uMlhlVklDV2dzM3BURG9HbWwtSnNqZWVuX0pPeDROZ3ZMbkhiWWh3VkRHRkY1WW4zZ2l3cy1yMFpfVFJYTVBkTQ?oc=5"
-    },
-    {
-      "headline": "Insider Selling: NetApp (NASDAQ:NTAP) EVP Sells $170,920.00 in Stock - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFBQeXliSTJnX2Vkc1NRcXFiVzZfQnNBakFoaW1IbHFqWGZST2lmd0hQR2VmSzdwODNSYU5QUlNBY3g5V2lKVFhrWnJCczZ0V0txZHdpTUFROTBHLV9TRmtYb1IwcTNSMXhPbWFvbEVEdnlqaEhGdW41NG9tLTloVmVmOWFLZnlSVUJPaDFnQjE3Mzh6R2NuUU40NWlKc0plb0pNQmZ3cW8wOUxvV2R3cGJseTdxZw?oc=5"
     }
   ],
   "insight": "Tracking NetApp (NTAP)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:28.008Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:37.907Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    392.6700134277344,
-    412.1300048828125,
     417.7900085449219,
     427.5799865722656,
     416,
@@ -24,11 +22,11 @@
     385.3999938964844,
     393.6400146484375,
     395.6499938964844,
-    386.010009765625
+    386.010009765625,
+    392.75,
+    390.9599914550781
   ],
   "6m": [
-    271.20001220703125,
-    273.739990234375,
     277.2900085449219,
     292.94000244140625,
     292.8900146484375,
@@ -158,10 +156,11 @@
     385.3999938964844,
     393.6400146484375,
     395.6499938964844,
-    386.010009765625
+    386.010009765625,
+    392.75,
+    390.9599914550781
   ],
   "1y": [
-    240.4199981689453,
     240.61000061035156,
     240.97000122070312,
     241.85000610351562,
@@ -410,29 +409,31 @@
     385.3999938964844,
     393.6400146484375,
     395.6499938964844,
-    386.010009765625
+    386.010009765625,
+    392.75,
+    390.9599914550781
   ],
-  "lastClose": 386.010009765625,
-  "oneYearReturn": 60.556531364072406,
+  "lastClose": 390.9599914550781,
+  "oneYearReturn": 62.48700821384653,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Analog Devices: Good Fundamentals, Bad Entry Point - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNem9FSlQ5MHpfUWw1SWlRc0NoeWl2TmZtMHNrR29CVElzdmtZWEJ4TlBNY1NaUkd5VjdSc3l6dElWZk5sSHJ4UEtrRzJJZzE5WXozQ3MySk9XUWdERmlxZ29mTE9RT0J0YVBPTTdpS3Y5TlpsRGg2VGk3Q0NyR3Jjd0lXZ3pUNDdFbDBrQ0N4S2V6WDBtY3k3WkpNSVRMQU81UHpXcQ?oc=5"
+    },
+    {
+      "headline": "Analog Devices (NASDAQ:ADI) Shares Unloaded Rep. Richard McCormick - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQV9QOW15U3BiRlBHanJrNjFCTUVzNDVxU2hKRlc5SFp3cnYzTVoxTGhyM0xIZFVlaUFKRUlMd3NLSnFvWjhyZjVLTUtxZVpTcWdGOG5sc3dpc0Z4N1VYWVhvZU9fQlZuTjgzclZjTWFlQi1ZUUVONGdkREw1YUxST3dUbVhDQzd3eDRXU0VLbVloY3pOV2JNdVRjNjFhZXpMUWVNNmN0WXk0elQweFk3MjNtWFU5QzQ?oc=5"
+    },
     {
       "headline": "Why Analog Devices (ADI) Stock Is Up Today - Quiver Quantitative",
       "source": "Quiver Quantitative",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaENyZXpoQWNIUE52TnBqMGdZc0NvY3lmWnNVY3FKS2YxWjFjWjA4X0VxRUloaDFvV2Z3OG54WTdra05jb1FvNGNKbG9MUTFlYi14ejR2eGU3ajVoc29hd3dfV01MYzNhTnFyQVY2QjZIeHVlX2NDQkJDeE5jYzJremdrcFB0UQ?oc=5"
-    },
-    {
-      "headline": "Analog Devices (NASDAQ: ADI) director Golz sells 1,000 shares at $389.83 - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVk5eUtlNlkxM0tSRjIwZEdNS2lYRGM4dWZSLXNISWpnbkZzaWRiRUxpRnd2NV9XNms5TG5oc3BkNE1vSnRBRjNOVHV3NXJRZXhmcE5vZnFhbzI3Qk9vQ0FlakYyOXFJV0hOZlk5YjRhU1ZvSVd6SEpYLWZKSHljQ244aFhqZTRubXA0eHUxaHJCMVRWVkNUbGdkVjI2Ql9ITDN5bXl3Rkd3MjgzQXplNQ?oc=5"
-    },
-    {
-      "headline": "Analog Devices (NASDAQ:ADI) Director Sells 1,000 Shares - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzRicGlvNDFhdXhBYkstZ2ZsTC1JREF4Y2JCSE9BbzEtRE1acEZUS1FaQXFfOUViREVkUjd6YkpDcGg5Uk5NZTJiRlp6WnprbGt2eXBVcjV4VnB2U09CQl9DZ1RDcHZ0cXhtdF9MUExVNDEtNE9HUkhPekFHMVcwNG9GVU5sdnhsWHJlbnBhNXpIbTRTWHVuVy1DNFFLbGNKOU9TQ1Q2Vmw?oc=5"
     }
   ],
   "insight": "Tracking Analog Devices (ADI)."

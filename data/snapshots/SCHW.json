@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:10.264Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:29.341Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    89.2699966430664,
-    88.69999694824219,
     91.0999984741211,
     90.94999694824219,
     93.66999816894531,
@@ -24,11 +22,11 @@
     101.69999694824219,
     101.91000366210938,
     103.12000274658203,
-    102.37999725341797
+    102.37999725341797,
+    101.0999984741211,
+    102.79000091552734
   ],
   "6m": [
-    99.91000366210938,
-    101.56999969482422,
     103.73999786376953,
     103.56999969482422,
     101.93000030517578,
@@ -158,10 +156,11 @@
     101.69999694824219,
     101.91000366210938,
     103.12000274658203,
-    102.37999725341797
+    102.37999725341797,
+    101.0999984741211,
+    102.79000091552734
   ],
   "1y": [
-    91.61000061035156,
     91.26000213623047,
     93.0999984741211,
     95.80000305175781,
@@ -410,12 +409,20 @@
     101.69999694824219,
     101.91000366210938,
     103.12000274658203,
-    102.37999725341797
+    102.37999725341797,
+    101.0999984741211,
+    102.79000091552734
   ],
-  "lastClose": 102.37999725341797,
-  "oneYearReturn": 11.756354733447562,
+  "lastClose": 102.79000091552734,
+  "oneYearReturn": 12.634230231646503,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Robust Trading Performance, Higher NIR to Aid Schwab's Q2 Earnings - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXhoRktwZXVpLURTaVVWMU9vZ0ZJMldVSmloWkt6cHNFZkpvMkRrbVJQdnJ3NFhVRmZUNEpXbU81V0hRUTlsemZoV1FvUEo5TFVKMDBjek9aaHJaUm1rX2ZhWjMzUUpGc0VZWFJqT2M3Vm9SRXM2SmJ2NzV0VWxzU3lWOGFIaWtVclRwMC1aXzVTSEsxTm8wc3NILXNSMjdBOFdSdk5wR005T0ZmeDFQRlM5NTJ2NE1QQ2pqcUx3?oc=5"
+    },
     {
       "headline": "The Charles Schwab Corporation (SCHW) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -427,12 +434,6 @@
       "source": "Seeking Alpha",
       "when": "2026-07-10",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3A1eU01czV6SUw2MTNuMERXaWNhWlJ3MjV3Q0tRa2hoZEpwTVhtSF80R1lhS3N2TTQtYkxHOEFwUVVGNUJkblN2bE80VVJHWHF0N1NaeFU2aUxiNEVvRWdTUmcwaGt3cjRqYXNtRXhOV09TeUVscEt2TDcxNUNtM0ZTOC1yb01jVk5ZV28yZGp1OC1OOUY4cWlIUFlJN3RiNUFOZXV1LVRyYlVzZC1uYkhEdmJDUVpmQlE?oc=5"
-    },
-    {
-      "headline": "US808513CA1 Bond Coupon Profile — Rate & Payments - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VUDYwbThYNzNlV0JsbU5RZGhWaW5JaDlsVHBHYThtbEpmbWdzVTM2bDBEVU1tQUZFSWVJMF9QWGI3cWNNY2huYkZjTV9iR0xrNlN5UFNHX29hdDN1MDZEMjJpS0NfMDdPbG04S252VnVqV29EUEE?oc=5"
     }
   ],
   "insight": "Tracking Charles Schwab Corporation (SCHW)."

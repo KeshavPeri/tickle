@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:14.161Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:34.270Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    102.77999877929688,
-    112.61000061035156,
     115.5199966430664,
     119.97000122070312,
     118.51000213623047,
@@ -24,11 +22,11 @@
     126.22000122070312,
     129.0500030517578,
     126,
-    121.16000366210938
+    121.16000366210938,
+    120.3499984741211,
+    120.97000122070312
   ],
   "6m": [
-    111.81999969482422,
-    113.01000213623047,
     114.88999938964844,
     117.52999877929688,
     116.5999984741211,
@@ -158,10 +156,11 @@
     126.22000122070312,
     129.0500030517578,
     126,
-    121.16000366210938
+    121.16000366210938,
+    120.3499984741211,
+    120.97000122070312
   ],
   "1y": [
-    86.37999725341797,
     88.47000122070312,
     91.22000122070312,
     92.25,
@@ -410,29 +409,31 @@
     126.22000122070312,
     129.0500030517578,
     126,
-    121.16000366210938
+    121.16000366210938,
+    120.3499984741211,
+    120.97000122070312
   ],
-  "lastClose": 121.16000366210938,
-  "oneYearReturn": 40.263958687860686,
+  "lastClose": 120.97000122070312,
+  "oneYearReturn": 36.735616086319865,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "United Airlines Holdings Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOTJzaFF1akVUb29CLU1Td0dqbjlSRm9lU1RHS2R1TGNmd2ZVWGcybVJnc09ob2RtQW5STVJrZWpkQmpRZll6SkwyQzNGQlA1bWJQUFpfYVBBUlhiQUtleGVZZXNoYmRCN2JGTzl0d2hwYlRtdnZWbmtUR2toM1ZZVXM5d2Y2TEJKbF9mSk8zbDhnUkVDNVBMam4yUW9HSUF0VnA4cmVtSUEwakp4ZkFvRG5YT0JiUlR4TmZua05qSFBRei12SUJsZVl0Z19vSU8xRmtTNU5pc29KZG1C?oc=5"
+      "headline": "United Airlines Earnings Today Face Scrutiny as Oil and Iran Complicate Picture - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVnFYZThEa0NqRUtYQVBlTjdyY2dSX0JzYTlZc3l0MS1fSy1rUzQ4N2NZaFRpMlJJc1Vub0lxR19hZnBod3hlelhnN2ZZNE9LN2c3Nm9SQjRHY3NfTXRQNUZZU2NvTHhPNkY1cGZKTlAtVkZpc0dFXzRLV3kwdC0tM1NZa3Q?oc=5"
     },
     {
-      "headline": "United Airlines (UAL) Stock Trades Up, Here Is Why - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWhlWWxMeXFXTlFOTGhMczBpTHFjLWZ6VVNlOXZoei1QSDk1eEhHS0ZKbnFHQU0xSGtoOWp2TEk2MjN2ZkN1SG5qVzYyMjFSMTZrZTlobWlhOGVRS0M3SkJhNVRsTXFpdWhyZGNrWVlyX2ZaQ1hpbk94M3BPZ2pFTno3b0huX1ZlS19pcllLMFF6WG9YY3JjYnNuOFpoUQ?oc=5"
+      "headline": "Did United's New A321XLR Economy Plus Design Quietly Recast Its Premium Strategy for Investors (UAL)? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTkNjeU9nTENXdFJjLXdkSi0tWUkzeDZ2bzB6X1JDVktSNkZLNlRMS0o2TWM1eUl4d21MTWZqeEZubkdINnVPR3ByVy1mY0JEZDhTQzhWQXpSUjFKTzJUcGM4QW4yRUU0VFdXd3RzQmIxUjVJQ3lkNTd6Q0QwcFZNdWRCQXFhUloyZ1JjOEVDMVlMT2xjdWpFWkhSUGUxOUVjZk51LURxWllmblRBV1JnaVBka0NMdmFEN0ZLQTVmZGFaRjNGd0FRUkNrZlZUS1k0ZnBSS1IyaDluSU05czl3T2JTNC1Ib1HSAecBQVVfeXFMUE5DY3lPZ0xDV3RSYy13ZEotLVlJM3g2dm8wel9SQ1ZLUjZGSzZUTEtKNk1jNXlJeHdtTE1manhGbm5HSDZ1T0dwclctZmNCRGQ4U0M4VkF6UlIxSk8yVHBjOEFuMkVFNFRXV3d0c0JiMVI1SUN5ZDU3ekNEMHBWTXVkQkFxYVJaMmdSYzhFQzFZTE9sY3VqRVpIUlBlMTlFY2ZOdS1EcVpZZm5UQVdSZ2lQZGtDTHZhRDdGS0E1ZmRhWkYzRndBUVJDa2ZWVEtZNGZwUktSMmg5bklNOXM5d09iUzQtSG9R?oc=5"
     },
     {
-      "headline": "What To Expect From United Airlines’s (UAL) Q2 Earnings - StockStory",
-      "source": "StockStory",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelB6SGxUcHJocmlFVzcyRU5VMkE1aE9SdW9xTFZfbEhQeUNZMVBmTWdBS3lNb0g2ZE1GZS1zRTI2OWVLZWR6NWtGRElBT05Rdk8yU3dBUHlWUUk3Z3QwQXE0VzE3ei1DRGZHWTJnZGpmSzNTcDg1SGFuYWpKQW4zM3h0aG9IRjZFc0tUaTRqNHRFZExBdzFWbXhmRWJfeHR4cUkwR1FPOUVrZVJkNWY3TGRR?oc=5"
+      "headline": "United Airlines’s (NASDAQ:UAL) Q2 CY2026 Earnings Results: Revenue In Line With Expectations - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcklfNUJwanMya0xlZ1cyNUFucDBwSnRqb0g3SXAtc21yazQ2N1NwVGs4S1pUTGtXSXEtc2RSc0tEa0FaY2lmOWZPNDFYa2l2U3h4a2hJQnBkWmJCTWl2NnV1a1paZ2hCT20xNjNDOElYeXFaS2YyWlI4cHlnakNmd2RhVGF3Ni12QmpraGpSRUNQa1dtRlhrcjgxOU9KS29VcDBHUEo4MW5Lckc5anRxZnQySlg1T0Voc1RKMkF1d0ZxNjJNbzY4SnNPSnRRSWl0MDhGeVo4X3ItSm9wTlhxams1Vjk?oc=5"
     }
   ],
   "insight": "Tracking United Airlines Holdings (UAL)."

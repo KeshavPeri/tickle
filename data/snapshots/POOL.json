@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:08.361Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:27.031Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    189.88999938964844,
-    192.33999633789062,
     195,
     191.02999877929688,
     198.0800018310547,
@@ -24,11 +22,11 @@
     204.1999969482422,
     207.97000122070312,
     210.44000244140625,
-    210.82000732421875
+    210.82000732421875,
+    210.07000732421875,
+    202.3699951171875
   ],
   "6m": [
-    228.75,
-    229.7100067138672,
     236.25,
     239.3800048828125,
     237.00999450683594,
@@ -158,10 +156,11 @@
     204.1999969482422,
     207.97000122070312,
     210.44000244140625,
-    210.82000732421875
+    210.82000732421875,
+    210.07000732421875,
+    202.3699951171875
   ],
   "1y": [
-    292.1300048828125,
     292.6600036621094,
     298.80999755859375,
     298.8599853515625,
@@ -410,12 +409,20 @@
     204.1999969482422,
     207.97000122070312,
     210.44000244140625,
-    210.82000732421875
+    210.82000732421875,
+    210.07000732421875,
+    202.3699951171875
   ],
-  "lastClose": 210.82000732421875,
-  "oneYearReturn": -27.833497483838105,
+  "lastClose": 202.3699951171875,
+  "oneYearReturn": -30.851502567862404,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Pool Corporation (POOL) Stock Fell Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0ZOVkQ2SkZPc20wTHNtTEFJYjd0T2liV0l2aEd5b09FQTJWV3ZpT1dWcmgxdlIzVjdoRjd6Sm9tN0hIUnNheXdBSmxTd1RTTWdVamJfWWw2MG1QdThMRWVHMGY2cUtEc3Z6VjRjXzRFTmZHQzdfdmluMDV2QmI3SkZ5dWtvMnVE?oc=5"
+    },
     {
       "headline": "Is Pool Corporation (POOL) A Good Stock To Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEFxNEZ5R2otQ0FvWGtjTHdmRzg0Q1pvLTlsSWNKLWN2M0hTWGZOYzBjTTVQMmVnNnliaVBDYmlKXzdmQVNWWWxnSWxfYmlUSnNtcXg4UFEtLVdPQjFLaGM1MFlwNXdMbzF6YnNhMEx1OGZIV2lPYXktTXp2ZVpFeWl3Rzl1VUphUWV1RUUxNjVkTkdmb1lmbDV0dGtiQQ?oc=5"
     },
     {
-      "headline": "Schwartz Investment Counsel Inc. Increases Stake in Pool Corporation $POOL - MarketBeat",
+      "headline": "Pool Corporation $POOL Shares Sold by UNIVEST FINANCIAL Corp - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbk1JSW5pTmJDUFhzOFVBMHNUSTdOWFhTTnhwbUJyMU5aaWdzZGlHekEwYzdhWTJ1c0YwR0NMM3lVZmpCSThlRklvUEUwM0VNZmF5ZEl5SGgtTkR0MHNOa1I0TEo4VHlwM1NxZVVJZXd2ZW5Bdkswek1CSE1JaEcxUnljaUF4NE15WnhkRDVuZVpFNXR1c3J4bXI3X1ZsZVY0U1UycjdZbk1OZlU0b3daRGR3NjcxdFl6enNhVHRncjg2Z2ZDOVp3eWdlNnJMQQ?oc=5"
-    },
-    {
-      "headline": "Pool Corp sets July 23 earnings call after Q2 results - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODU4M01weGl1SXF6V01RRTFubmgtMDV6U1BwVFIxaUVOd3JPNjFNOXFIYWxvLURwMlBjbDlCU0JoVDFBV1hoN0tSY196VDV6YV9fU3hNSjZGUHRvN2cxTFJ3Ymg1cVVYXzNGbF9HbjQzdjZuNXk2VTZLTUVfTE8zbmJvQnRQblpETnRiU3lBRlFXU1V3ZlhrOXhtT1psVTNuQVY3ZG9NTGg0enRPQnlQTEYzSnZNcERlQkFMOHVYMVo?oc=5"
+      "when": "2026-07-12",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOWxIaEtjOXpDR0lPNEVxTDBxTENQc2RRVHBYSjRyUWhKWkNVSUJnUUpwVDZRY0t4LW9ISTlUUWpJcEFMX090X3ZRaHdYY01ybzZCRExiVmZhaEdISFVXVXRvbkR0TWRNX3l1M3h2bWRuTTdrd2FJRDJZdHVPbENrcGRBSU9SQmhydllqeFJHc3JIei1FelZoem5RcklXaGpJcjBvOFdPOGwwYXNFcGg1Q01aVEl4RVBoVEhNbA?oc=5"
     }
   ],
   "insight": "Tracking Pool Corporation (POOL)."

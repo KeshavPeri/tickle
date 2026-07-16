@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:47.090Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:00.169Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    71.5,
-    72.33999633789062,
     72.94999694824219,
     72.13999938964844,
     72.05999755859375,
@@ -24,11 +22,11 @@
     74.77999877929688,
     74.63999938964844,
     75.19999694824219,
-    75.97000122070312
+    75.97000122070312,
+    76.58000183105469,
+    76.68000030517578
   ],
   "6m": [
-    60.02000045776367,
-    60.93000030517578,
     60.619998931884766,
     60.5099983215332,
     58.459999084472656,
@@ -158,10 +156,11 @@
     74.77999877929688,
     74.63999938964844,
     75.19999694824219,
-    75.97000122070312
+    75.97000122070312,
+    76.58000183105469,
+    76.68000030517578
   ],
   "1y": [
-    50.41999816894531,
     50.939998626708984,
     51.33000183105469,
     51.13999938964844,
@@ -410,29 +409,31 @@
     74.77999877929688,
     74.63999938964844,
     75.19999694824219,
-    75.97000122070312
+    75.97000122070312,
+    76.58000183105469,
+    76.68000030517578
   ],
-  "lastClose": 75.97000122070312,
-  "oneYearReturn": 50.67434347408321,
+  "lastClose": 76.68000030517578,
+  "oneYearReturn": 50.530039992915775,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Edison International (EIX) Could Beat Earnings Estimates Again - Yahoo Finance",
+      "headline": "Edison International (EIX) Hit a 52 Week High, Can the Run Continue? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSlo4MHBrekhCcHY1clBPS081cGNlNkVkQTlnMHEtaTZwVGE2SXBpSE51aEF6YkZZbko4eDZBblE3cjBwaTVvWGJpZDl0REEtekt0NXU2UnNRYUFLMU4zeXBwbzVCZVJwZWxEa0d4LVpFeXpkdHBsSlY3QzkxSmhzYnhEcEE4TEgzdnFSaF9PbjVwZklTUHItNVlBYXlyc2pE?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkI0blVDNXV0OXdibENrdlNFN1VRajJHaG81cGI1UzIyZXctZXNpQmk3Q09IdEJVcXRWQlhxT2VnR1kxN05WaGRNNU9va0NDUGhJSGQyRXVKVW52Yl9MVkR1Q0N6T2twV0NvNW5FZy1XcGhSM04zeUpoWlFsYzVQRllqSU5iTVFUT1NsWDR6VHFWNzIxWkRIdkRRQlk?oc=5"
     },
     {
-      "headline": "Candriam S.C.A. Acquires 27,988 Shares of Edison International $EIX - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRE95dWZtdlRHdzFYbFdiSEpFbG1GTTg3NDhaNkROMWJGdG9WVE5vU0pRUFYwQ093UU1CMllVc3laU1ZSSVRxUzF0RGo1RjVnLTlUX1FiNzZ6Ykt3aXdXc2phODZnaEcxbE9WTVNsNGxVck93cUpaNEVKWjQyemlJRkRtYld3QXY5Q185NHRjVmZtXzlYSDFOMjNuU2Jtdm9VWWNDTHRhOUJZOHRQdkRmSGQwQWtUTWZqRWRSQmZPTkM?oc=5"
+      "headline": "Edison International director Peter J. Taylor sells $37,700 in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjkxYVdHckZkMmltWVFqRzMxY1pNSE1wb19ZcGF2X0RHcU1oOW1WOFFZNXdKMmI2TzJWcEcySFEzN0lqMWRqam9qWWNfZEd2dWlDOUZqUHZLbDMzTDhodVoxcXZIaVNDeG1BNnBtWWp6T0ZVLWtXR1E1SGtvSV9iaTd2Z0tCb2FmZE5vRDZUbFppVEFBVXQ2Ukc2MWg4VVZSbzRkRXBNYTRsaVVBZzFXM29ybVJzMVpVNk1CX1NGc3lBUW9QN2V2WHN3?oc=5"
     },
     {
-      "headline": "Edison International stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQVI3RVFvZ3B2SUZPa3owQVZZMDRSalVsNXVNQ0tFNDRnNk9NNXh4dGtpSG5BUjdDLWgxdXhGSFZ1dEJiV0xlZFFqVU1vU0R4THh4bEtUX0hVakx2QkZRMkVNU05BSGR2RWVCV211amhneFVwV2N3amdSdTF5SE05UmRVdTRETFNlZ3BRT24yaEsxaC1ockN5eGdyRGtaV2dwWE5KTWlYSWV0Z01JblBqVXZFQlgxX3Z2TUx4azNwSmQwS3Jma1ZNcG9LNjJNYV9SN0dydzFIdGdWaTJLYWJ6QmdBY3E?oc=5"
+      "headline": "Edison International (NYSE: EIX) director sale under Rule 10b5-1 plan - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM29YajczeDZnWXJvaUVDYm9oWVprN3dNSUxyN1R6UUlucE5GZF9zajNlcW5RbmxvcVpXNk1qZWV6aU1jSFRBTnZZN1d4NVFoT1o5d2JSZDRuUElteWJqbk14WW0zMVU3M2ZpdzMybm1VWmExTGJpQ0JVQ2hucXFpZEg0bS1sS093LWFVbVhWN01JMldkNnRYT2JRcFZFdlhMM1lrbF96a1pDVVhQdGRUR1FsNA?oc=5"
     }
   ],
   "insight": "Tracking Edison International (EIX)."

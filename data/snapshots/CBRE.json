@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:36.659Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:48.702Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    134.05999755859375,
-    131.91000366210938,
     133.41000366210938,
     134.16000366210938,
     135.47000122070312,
@@ -24,11 +22,11 @@
     139.94000244140625,
     141.05999755859375,
     139.52999877929688,
-    138.02999877929688
+    138.02999877929688,
+    133.1300048828125,
+    141.41000366210938
   ],
   "6m": [
-    160.7899932861328,
-    160.19000244140625,
     164.39999389648438,
     166.9199981689453,
     166.3300018310547,
@@ -158,10 +156,11 @@
     139.94000244140625,
     141.05999755859375,
     139.52999877929688,
-    138.02999877929688
+    138.02999877929688,
+    133.1300048828125,
+    141.41000366210938
   ],
   "1y": [
-    137.0399932861328,
     138.35000610351562,
     138.77000427246094,
     139.47000122070312,
@@ -410,29 +409,31 @@
     139.94000244140625,
     141.05999755859375,
     139.52999877929688,
-    138.02999877929688
+    138.02999877929688,
+    133.1300048828125,
+    141.41000366210938
   ],
-  "lastClose": 138.02999877929688,
-  "oneYearReturn": 0.7224208564407759,
+  "lastClose": 141.41000366210938,
+  "oneYearReturn": 2.211779850811291,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why CBRE Group (CBRE) Stock Is Up Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRXk0YnBpdFVucExCbnl5RGRGTnI4bGFxTlFGenpyUDdORU9NTDFhSkd5R3U3SjZpY0liMzBtZXgxZXBtU1o4UmFvWWVmcXJlQWd6SXlhUk5aT0o3NDl5djRGM3UzZUhuZ3FEMlUxYldHczZTVDR6TUZSNVQxd2I4OHlR?oc=5"
+    },
+    {
+      "headline": "CBRE Group Inc. Cl A stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSGRYTmd0TWlreUhSYlpwellqR0hva3dqdXFxMThiYzJsN0ZnYVFUeVZCUnRycWU1aFNzZ3Q0WEtwQmpBOVdKSmpsTzdwRTFMaXI3TFpJS1pvSGdzVjFjOFIzQVN0eGdPZEJlU0VvcUJYVF85Z2hrbUMybHhmTEE1ZlFDX3dVOXBJZzdxejdRc3BoczRRcmx4aE1IVDF3VHN2T3ZwU0QyQm5CWUYyTGttNUxVbzMyWndEeUphVWlZMWlKMWJWbEt1V3E2SQ?oc=5"
+    },
     {
       "headline": "CBRE (CBRE) Stock Looks Undervalued On Cash Flow But Fair On Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeERLbkFrMGg5YnQwTUI3YTdsdUtZai1ycnlGMk0wT0RIbzktc3NtVWtZLTJvbnZEaUFhV1JpUWdfeXItQ0tZLV8xdmVzdi04X0ExRGUtQ2FuNjdmekRiSl9INGNCbk1ubWNtTmNVRmtXX3RPVXROTWVXX0RNUzJBeHBhZk9NeVdjdDNjX0pMNjVZVlItRV93QjFCV0dkSGM?oc=5"
-    },
-    {
-      "headline": "CBRE Group Inc (CBRE) Stock Down 3.5% -- Now Undervalued? GF Sco - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSklxRG05dFlxb1ZZQW85bjVXY0d0MTdobXFvT3VVbWNNWHNJZXZ0M1NWSjEyOUwtWkozQS03Z0Q2dWdoc3NBZUdnNmhUeVR3SEVIeV93QzZfemdTMHdEc0d6YUlNTlhfZi1GaTJsUVpxS05UNHdEZmwwajQyMllKRVZZbzFjUjM4SWdZOFZ1aGYwTzlmZi1Lc29wUjFKbUg4Z0VqaEVB?oc=5"
-    },
-    {
-      "headline": "CBRE Group, Inc. $CBRE Shares Acquired by Principal Financial Group Inc. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd3d1OHJsenM3VmhqRGdianQydVg4N3dFcDMteWJMekFOX1lfajNQeE1KVFdjTmhaV3dyR2kwX3lIYjkwVml4aGpmYzJkODNJRkdQd2pWcURhNUdnNmFTTlVHbTJoakd5ZlFIeWVCUUxmdmRSbU5rLVhuTU1LOUdKcmw3aFZGcUdTS3lUdHRoX2tPT2xTYktHV3RhTDNMSXoxNjAwcEFDUXJuWWpTSzhoc2d1QzdJNnFwVFFXdzVDQ2E2MWotS202Vw?oc=5"
     }
   ],
   "insight": "Tracking CBRE Group (CBRE)."

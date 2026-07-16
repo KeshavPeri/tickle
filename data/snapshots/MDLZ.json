@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:02.874Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:20.425Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    64.18000030517578,
-    63.36000061035156,
     62.9900016784668,
     61.5,
     62.150001525878906,
@@ -24,11 +22,11 @@
     59.47999954223633,
     58.29999923706055,
     58.83000183105469,
-    59.86000061035156
+    59.86000061035156,
+    58.79999923706055,
+    58.720001220703125
   ],
   "6m": [
-    53.83000183105469,
-    53.650001525878906,
     53.7400016784668,
     52.72999954223633,
     51.5099983215332,
@@ -158,10 +156,11 @@
     59.47999954223633,
     58.29999923706055,
     58.83000183105469,
-    59.86000061035156
+    59.86000061035156,
+    58.79999923706055,
+    58.720001220703125
   ],
   "1y": [
-    66.73999786376953,
     67.47000122070312,
     69.80000305175781,
     69.80999755859375,
@@ -410,29 +409,31 @@
     59.47999954223633,
     58.29999923706055,
     58.83000183105469,
-    59.86000061035156
+    59.86000061035156,
+    58.79999923706055,
+    58.720001220703125
   ],
-  "lastClose": 59.86000061035156,
-  "oneYearReturn": -10.308656688095045,
+  "lastClose": 58.720001220703125,
+  "oneYearReturn": -12.968726606922113,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Mondelez International’s Q2 2026 Earnings: What to Expect - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM3JtOF9SN1JnWGtQV0M4RkFmdHhrU1FQcGhJQmVBQmtXWUliN3VJTHhrUWE4akt6OUpSRFp2dFB0MTRZQlAwamhoOVFQZlR0dy1mOVpUc01SelJweXpRZVlzUE5oSnYwSTVmU1VCdFlsd0phWUw3UVVvYzEwQjFLbGJqT09RRlJhTlczVE8tYlVMakNLTk5IRFNmejVBQlM5YzlMYVZjVQ?oc=5"
-    },
-    {
-      "headline": "Parr Mcknight Wealth Management Group LLC Purchases 16,803 Shares of Mondelez International, Inc. $MDLZ - MarketBeat",
+      "headline": "Mondelez International, Inc. $MDLZ Shares Sold by Candriam S.C.A. - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUWVWbngzdmVkRlFnRkpKN1dMcVJZNGJpUy1kSTBJazFxOEJYZmtMZmtzcGowd2cyODdLTk1BekNzUE9TaHRDbjBBOENvcTRYZjJuMDRtRW9pYzBoOTZ1aUotWUZyMlQtSHR6ZFZJT0JZVmY5N25UNVdfTTRZWkFHU3JraHFwam96bkI3OFd0VGEtN2NIalJrbThqNExqNzAzM19iLVFKQ09yRVRTa2x6b2JQY1V5WGU0bnNjQjM2bUU1SGxJNGRzWko0VXJpT0FWU0EtVFUwNW5ZTkRxbF9zZjNJTlhnakRvYXFJUTJVbldIUQ?oc=5"
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm9oVzhFM21mQWxPN2lIb2JYSExnZUJSa0VDNHNCckZkRE05VHpRMGNRMjI0LXVxdlZrODJvUllXNWxaOHVpaUh4VmJYTV9zbHRDYU1fUmE1cTFXZGRZeF9IOXBpMXVWNkcwS1ZBaDZ0N0tXbU1RNTVzd2dGNjRmMVZwQ2M3bV94Wnk2T3JHaGF1YjU1TU1pT1VXUFlqLTAwVWZSVGl1R1VmaDZEQjA4RlRVbWtFeS16SHlLQQ?oc=5"
     },
     {
       "headline": "Mondelez International Stock Hands $20 Bil Back - Worth a Look? - Trefis",
       "source": "Trefis",
       "when": "2026-06-25",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOEVub2lCa2hqS2N4dUp2ekNQQjg4WDRFeDBRVUVDc0dFb2Rsdk9DNmFoSTJSbko1WE93T1hUNWxKaWlXSFJoenF3WEo3Z21UcEhXdlFMTWtfUTVKUTY0ZWl4ZTVGLTUyWWxaSC1EWVE1bUltcHZ3TDRvNDRZbDczZUFaWjc4LUhfYnNOZVBqMGxHdW1fVUZubHZwUzVEYzFHeXNGbFZiLTEzTUVVT0daR2N3WjN2Y0N4cEVjYXdmNHZtM2xlQkRYMDFR?oc=5"
+    },
+    {
+      "headline": "Mondelez International Inc. Cl A stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZGZYd0ZJNDRpbGVsOUlaSjBvdWpxZ1p6TDA0SHYwTXV1b3RmVGs4YTk4b25adGk3MWNpTEZaN1pQem83aGhoc21Gb2RYejQ3SVdDNFdfUlJtd3NSd0FSMWk1ZGpsNndpSGY2RUFJdEEwNXhqaHYtUVJ3OEdhcmtROTZ6YkdHZG5OZ1RvVXhUOEo4ZGJoM29mRnpSbW5sR1ZmTHJ6bFZ5WWFFYmgwZC1CSEdaWlRkMFVYR3JWYWo3QjVORzFsaW9tN0N2SU1zdl94NkgyTFplSjdKMWN4bjZTaEpoVWRzNExmOHZKcVNad01QTUk?oc=5"
     }
   ],
   "insight": "Tracking Mondelez International (MDLZ)."

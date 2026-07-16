@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:49.315Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:03.034Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    218.94000244140625,
-    224.66000366210938,
     224.88999938964844,
     236.97999572753906,
     243.55999755859375,
@@ -24,11 +22,11 @@
     260.30999755859375,
     267.7799987792969,
     270.8299865722656,
-    265.6300048828125
+    265.6300048828125,
+    266.2799987792969,
+    267.1099853515625
   ],
   "6m": [
-    283.30999755859375,
-    282.94000244140625,
     287.4700012207031,
     299.2099914550781,
     297.17999267578125,
@@ -158,10 +156,11 @@
     260.30999755859375,
     267.7799987792969,
     270.8299865722656,
-    265.6300048828125
+    265.6300048828125,
+    266.2799987792969,
+    267.1099853515625
   ],
   "1y": [
-    178.99000549316406,
     178.3000030517578,
     182.0800018310547,
     184.92999267578125,
@@ -410,29 +409,31 @@
     260.30999755859375,
     267.7799987792969,
     270.8299865722656,
-    265.6300048828125
+    265.6300048828125,
+    266.2799987792969,
+    267.1099853515625
   ],
-  "lastClose": 265.6300048828125,
-  "oneYearReturn": 48.40493699686342,
+  "lastClose": 267.1099853515625,
+  "oneYearReturn": 49.80929937170247,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Expedia Group (NASDAQ:EXPE) Stock Price Expected to Rise, Jefferies Financial Group Analyst Says - MarketBeat",
+      "headline": "The Market Thinks Expedia Is Boring. The Cash Flow Says Otherwise - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXdvempZSDFQUkg3a1V3MURfLUcyRFcySHdldHdQVlNqQ0hzYkZaQnU0LVY0WHJ0MC1nLVBJMUtqUXpFbXhJSXIxUnUzeVExRmFSa3h2U3ZQcXVBakV1V3c4eHJ1Z1FWdENmTVVrVVo2NGl0a0JubFQ2WDZvcGR4Q0I3ZXliY0lvbXFUTFc4RXRNUDhydGdzQ25zUmtfaUU?oc=5"
+    },
+    {
+      "headline": "Stephens Inc. AR Trims Stock Holdings in Expedia Group, Inc. $EXPE - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYVJibVZFTzlfd3BYcVluODdQMnRDT2pYd0Zfb2JtLUJxOURXMEtBSEtOU3NQeG5FR3U3ck5uYzc0Z0xMV2xOUHdCWjhubGk2WmI0RHh3cktsakdEbmFiY05ORTlPaUtlSzJ3eWVxUTgzRU9CdjI2NnRzMjRxaGZtSzFzMWVndHc1NE1JMl83MEJZUEQtSHFVckIxUnZVRktONTlMQlI0Y2JUaXJ1bzhFOWJ1YjRaZklSaWhUSHY0SUpEVU1qdGZPbmpxM0dmQTlEbEMyNmRVRWhpMGVob0x3?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYWFYTHVoZjVHVDlaZTZmenRWXzZxaWc2c0RBbkNrU2ZUZG81eGM1VDN4RnZ3WGl3RTNobjJMVXlCZ196VXFTeXFaSGJjX1E2V1cwc1duMG1qZVpaaFFqWjRFbndHVGM3YjNxelJPVV80M2JORDB4b2ktT1FtQWhDRFdjMTBtMG1HVHU3RHptZXBMZkdqVy10WHVGa1VmRjRDSGQ5RHJFcjVkVVFua3g5c0MzSTRzYXZ0WVBHbU1DUHg?oc=5"
     },
     {
       "headline": "EXPEDIA GROUP INC (NASDAQ:EXPE): A Decent Value Stock With Strong Growth and Profitability - ChartMill",
       "source": "ChartMill",
       "when": "2026-07-11",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNDlaQ1FwelJrS3NVUHlTUmtmY3FlblM0RDY5aDdOVGRRODdyTW5SU3BnNTVtekdEZE1USGptSWEzRmF0QlZCLVR2MUVvVDQwdHA0X0kwVk1SQV9yb3lCVUlzdnBDeEpSTHZxSHVMeFh5OC0yRFJzSDNxamVZSFF1YmZWdHF0cnBNNmRHM3BJWVJyb2JSWC0wWUJJYlVWMW5aYlFveE0wRXNuRUp2amFaNkJhVWFNa0p5amR4YmVFd1FZMFkwYU1rVE9IcVNjRy1JYWo0Xw?oc=5"
-    },
-    {
-      "headline": "Expedia Group (EXPE) Stock May Be Undervalued After Hotel Connectivity Research - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORS1JNFV3bEg2N0tINUI5bXdkQ3BQdzRBWjFOMnF5MGxIN3lWWDRzSm9GVlZQaDIyejhfU2hTeVRCV1dBOFFHLWd5ZnFaaWp6ZDNOWS1qeG1sY3pranRXR3dNZjdqR1NnSEtZaXVlZ0tYUGlRbmJmemFBdV9zb1FCanNhZzNBQUpWMnI4N29udmhhaXd1eVp4Sg?oc=5"
     }
   ],
   "insight": "Tracking Expedia Group (EXPE)."

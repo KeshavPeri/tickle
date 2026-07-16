@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:06.805Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:25.002Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    73.9800033569336,
-    75.58999633789062,
     76.68000030517578,
     76.51000213623047,
     77.37000274658203,
@@ -24,11 +22,11 @@
     78.5999984741211,
     80.83000183105469,
     81.93000030517578,
-    82.55000305175781
+    82.55000305175781,
+    80.75,
+    80.93000030517578
   ],
   "6m": [
-    80.75,
-    81.31999969482422,
     78.3499984741211,
     79.62999725341797,
     77.58000183105469,
@@ -158,10 +156,11 @@
     78.5999984741211,
     80.83000183105469,
     81.93000030517578,
-    82.55000305175781
+    82.55000305175781,
+    80.75,
+    80.93000030517578
   ],
   "1y": [
-    70.77999877929688,
     74.05000305175781,
     70.86000061035156,
     71.05999755859375,
@@ -410,29 +409,31 @@
     78.5999984741211,
     80.83000183105469,
     81.93000030517578,
-    82.55000305175781
+    82.55000305175781,
+    80.75,
+    80.93000030517578
   ],
-  "lastClose": 82.55000305175781,
-  "oneYearReturn": 16.628997563508943,
+  "lastClose": 80.93000030517578,
+  "oneYearReturn": 9.291015489370261,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Omnicom Group (OMC) Shares Skyrocket, What You Need To Know - Yahoo Finance",
+      "headline": "Omnicom Group (OMC) Could Be 27% Undervalued As Interpublic Deal Story Builds - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUlFaEFvQmRyUE1xRWs2MGZkTXQyeWpwZUpRWHRjUDcxQzFDdVhQTkpCNFFiZXJMM0lEYVRuSjZHRzluN1lxeUxPSEU5d0VCYW53TTNpeWRWNXBhMlBYaDJrbGRweXFFQnN4ellnOHhtc0lZakctbUlpak5tS2ZhTVI3WXVXUEhLS01jT2N0N0R6cWRuaFZ2Rk9OVnh1ZEhR?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXM2eWd5aTZTa1l0aFFvMldrbmNBTGp5dVFPUDB0OUdSaGV1Ulo5QnJZSExIN0hoSjhxRGlvRG00LUVxYVQwLVJvOEZnd3E3d2RTaVJmbjdMSWJjRUhMUGFPX1lkcHpkZGppTFVRQUd0SUZVOS05U2o0ZHpOeGF2ZTBBZG5jUU94LUNQYjAtTDJSSGZDZXc?oc=5"
     },
     {
-      "headline": "2 Cash-Producing Stocks to Keep an Eye On and 1 We Find Risky - StockStory",
-      "source": "StockStory",
+      "headline": "Omnicom Group (OMC) Adds Leaders And Highlights AI Commerce, Is It Still Below Fair Value? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV0RubUUxSGtBaG9KWnNiS0ltVWZCa0hPS3pMd2V4NWFjZWFoOXN2TUdGNlFfNzRZVTBKWVVzQzZaSUYxZXdYQWk4UlgzdlIyNndYbmR5UEhTZEItaDYwcU9UQ2xCX000R1BJZDNQTXpfdms1YUR0bExyTHhoLW9mZDZoUkNyRVdBUU5LQ2xYWEJ5LTloQkc1WU9JOVVnbmdkUWp5aDA5dVhuYURsVkhLSTNOcVJTZ25za28ybEp1Q2gyd3RM0gHKAUFVX3lxTFB5THdrSHZxajF2UmdwemphZlMyUXp2Tk4tNjN3OTV0Ty1Scmprb1VSU1JUcTZRTlRIVWZjMktaa1o4TmhyNWUtTUYwRWRjQVlwN2luVkNRd0tzUXBJemtDVWhGcnhIdmw4Z29tdEd4ZW94ZC1LbFBDUGJzaUFHT3A4QjgxNnJ2NnRXMkFEWXRLNk9iNWhuczd2b1hvU0lHWVItTGowSUhXNWZod3EtZ2Q1NnJrMjRwSkVlUEdVWUw4cHdEVU9pWW5KTVE?oc=5"
+    },
+    {
+      "headline": "Omnicom Group Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQk8zUDFoY2xVOWZxcC1iRVVra0JwbU5lNWVsWmI2Q2JhQnJOYUpZWm9JUHFMT0NXcXp0NFU2YUFkWkM2NndRSG5oQmVCU0lKcDNuQmVrc3pxaDU4bEl6UmVOZnBVV0lsN3JZM0lXRlN6aFFuems5RllGWktORXlid01oOGRnbnQwVGp4ZXQzbF9aa3huSU55TklUWFFhb2RGVENaTmhhQjBmM2pfZ1JqQmM2ZXdxZ3Ywbk5oTjVVRlE?oc=5"
-    },
-    {
-      "headline": "Down 12% in 2026, Can Omnicom Group Stock Bounce Back From Here? - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-06-20",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQURHblBBVDZzQUJzbW0xSFNIck9XemV4Q29hMDVHbUJrLUVpSDlZQnFXUUZoVktRZ1J2OVRUUjZMQ1c1MzNONThkSkFmc3UydUlENHNObXFGMElmTmM4M2Jfb096dVhOdl8wTC1BZS1WYzF0RnN3MzA4SVRtb3pjY2FBbUNJMkd0WE1xTDk5UW5vWGhvRDBURGQxbjZKN2NibUdOQXJHem0yWmt2?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONHRGdVFtOGNsWEE0QVVKY21wNndQLTBCRDJCVHVHQlAydFVmZmZoSFJsd2tXMXBCUEtHWWk3bGJVazNLYzkwbGUtRUEzVGh1MzQzWmNHV0JUQ1k4cXhwSk9MWHMwUmNvbUs4VGJIWWJOaVI5eEN6aGRiNlZBMWp4cEZEdGZVNGdBV1dwVFJ6V1M2ZTdHS1pDcXh4WGdFSU1DTkJ6N29MN1hqbE0wVGpsMndWTGpFM0FxdE40eXZUZWFWUnpXTUUyV0JDM2dHZw?oc=5"
     }
   ],
   "insight": "Tracking Omnicom Group (OMC)."

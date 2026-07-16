@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:12.058Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:31.273Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    601.3499755859375,
-    623.72998046875,
     626.02001953125,
     628.3400268554688,
     630.0700073242188,
@@ -24,11 +22,11 @@
     639.510009765625,
     631.52001953125,
     634.5999755859375,
-    623.8800048828125
+    623.8800048828125,
+    623.0999755859375,
+    624.1500244140625
   ],
   "6m": [
-    510.7300109863281,
-    518.77001953125,
     524.0900268554688,
     532.72998046875,
     531.47998046875,
@@ -158,10 +156,11 @@
     639.510009765625,
     631.52001953125,
     634.5999755859375,
-    623.8800048828125
+    623.8800048828125,
+    623.0999755859375,
+    624.1500244140625
   ],
   "1y": [
-    535.030029296875,
     540.0599975585938,
     559,
     563.6599731445312,
@@ -410,12 +409,20 @@
     639.510009765625,
     631.52001953125,
     634.5999755859375,
-    623.8800048828125
+    623.8800048828125,
+    623.0999755859375,
+    624.1500244140625
   ],
-  "lastClose": 623.8800048828125,
-  "oneYearReturn": 16.606539954907248,
+  "lastClose": 624.1500244140625,
+  "oneYearReturn": 15.57049721060768,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Teledyne Technologies (TDY) Projected to Release Quarterly Earnings on Wednesday - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNWEzNl9iOE1qNG94ajRxbFlUMFc1ZHdCWEdPNW1xcktGbENQdVhranlRSHh3VnYzZk9SZWlJQ3JiSHp1V3NhVzJYR0NXcW5CVmRkVm1UZWxlQ2NOT3dzd3pyXy1wNkR1T25GUmhhWmFNSEhKUU9IeWxnQ3AwZGdFU1Q2aEFVUXY1Y0RIb1lUemdtVUE5MTI1YkdmOGxfM0ZHcS1jT2kzcEp4LUxUNERTWGlaRWNuVGlrR1BwdlpYYXE3X3FRMFVNdHI2akg?oc=5"
+    },
     {
       "headline": "Teledyne Technologies Inc. stock underperforms Monday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGJiemhNb2NpRTBuUUVvZlU1cExzZGtDbjF2cVJudXVQZDdZUzdEVmhzdDZ0U3BDbWRRQWYzZzVmUVcySmNoOENMSFBQWDhoclFSQkhVMjRsQ0pRcUNVUmlRazhKMDZZNHVCTlM2X0x6QVlEWkpzYUhTamJkLVdzLVJmUmpLVG5xb09tbThlZVJiLWdOcU1tS1EtYlJ5RUpWa1g3dnF0N3N2MWtVbEFZVlhLZUppNF9DU3IxQ2lrYmI4QUFjU2E4ekVqRjJ0MlBXZ0RPYnlUUFQ?oc=5"
     },
     {
-      "headline": "Teledyne Technologies Incorporated $TDY Shares Sold by Sumitomo Mitsui Trust Group Inc. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOczNQd1RkTHBsZFo1MkF0b2trTnFwUUNPNVc3VF9IS05pR1I5Zks5elNqazd6bGNSREdiV1F0N1hha05BTEtUdHI4UTJLQzB0d2JUUW01Ylc0ejNsT3B5NFY1VjhzRWZTc1RwUjZTSlhpZ0pPejdOMzdzQl84eDhlMHFsOERtTTV1eEZVekI1Ym00TDNkTkV0c1BOc3pfTVBvS3hIVWYtMUkzQjhEVjBtbjhMZnpoUHBMR0VQZWZwQ0tOQnZIQlc2YXAxc2FoM3pTekcydGxFcnNDd21oT3JF?oc=5"
-    },
-    {
-      "headline": "Teledyne Technologies stock reflects a diversified high-tech portfolio - Ad-hoc-news.de",
-      "source": "Ad-hoc-news.de",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZENuLVNwRmVzdTFYbUMyUXdCTzRMZkNmUEJjT2cxQnBTMEtpSjNubVR0NTB1MFR3X1A3dmgzRDV2SUZyNk1sV0NxTG5TXzlkNzlxR0h0VWNTUEJrTUh5VmJoU0NxbHp1MnlWVkJ0MkxLbTE1WU1xUDltYjZHYm5kVjZKMW5LNHhxbGVRZFl6RzFoTW5idmx4d2VacHY4NmpDQmZTVVkwcDE0VS1OU19IZmxreWZONGJXNzR3a0s5VFlvb3RiMTZsZQ?oc=5"
+      "headline": "Teledyne Technologies (TDY) Stock Could Be 15.9% Below Fair Value After Q1 Beat - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVE3VmFzN2pGU29GUjF6dmRoQ3pkaVRxRktFVVZHcVB0WEZuekJHMS02eUxNRnhWNV8zelY4UkdtOWJtR1pscGRBak5kZTJSTDZUUjQ4V0dNWW9ianpuMldyYy01TV9ONF9Ibk13Y0oxM21XNnF6bUY1enVlb2pYRVRQSThmNGZzeU8tRERLd2hzN1doNmNoazktT1lEOHJQM3haZg?oc=5"
     }
   ],
   "insight": "Tracking Teledyne Technologies (TDY)."

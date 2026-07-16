@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:42.912Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:55.440Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    66.7699966430664,
-    66.69000244140625,
     67.91000366210938,
     68.1500015258789,
     68.5,
@@ -24,11 +22,11 @@
     69.86000061035156,
     69.44999694824219,
     70.08000183105469,
-    70.80000305175781
+    70.80000305175781,
+    71.30000305175781,
+    70.97000122070312
   ],
   "6m": [
-    58.59000015258789,
-    59.2400016784668,
     58.689998626708984,
     58.720001220703125,
     57.08000183105469,
@@ -158,10 +156,11 @@
     69.86000061035156,
     69.44999694824219,
     70.08000183105469,
-    70.80000305175781
+    70.80000305175781,
+    71.30000305175781,
+    70.97000122070312
   ],
   "1y": [
-    56.54999923706055,
     57.16999816894531,
     57.61000061035156,
     58.09000015258789,
@@ -410,29 +409,31 @@
     69.86000061035156,
     69.44999694824219,
     70.08000183105469,
-    70.80000305175781
+    70.80000305175781,
+    71.30000305175781,
+    70.97000122070312
   ],
-  "lastClose": 70.80000305175781,
-  "oneYearReturn": 25.198946077718777,
+  "lastClose": 70.97000122070312,
+  "oneYearReturn": 24.13854030741243,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Dominion Energy (D) Draws Fresh Analyst Attention, Is The Stock Fully Priced? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdlhrRmtDRTBrcVdvempva3JqYzZBb3lzTmpRcTNWRUZCS2M0ZFozX1BoOTF2RUpKVW1Kem9pdjNXRUdqdUo1dEVaT0luXzl1UjNyS2NmZHZ4LVFoX0IxcE5zclpGRkZoU2ZVeldGMzA0WE91OG9EVUV0UTZfMlJKOTNVb0M4UUxvdkJiUllqQUtiSUlnLUpsTHNTTV9ILVdhSGdEOElmR1FGdFBLVVVRZDZwSlR4WkZMdjlwNWViQUJFR2ZueEM4UkxR0gHPAUFVX3lxTE9JSThBT2c5VUdaRHZXalYxSmhqSHp2QXJCaS1feGNVYWppYzJRVXY5ajNxS3RTZk1XeVRieUR4Zmt6WkFPVGRSaE9YYzJkcW85cTVYVUdiSExVN1JQLWNkSTkyVEFlNUNxTmE0eTlmMlVadERnMFEzQ2oxeEJKMGFhbnluUTZPVjVIQWM3bkUzUENBMVR5U3RIZ3B2eXc2d3JJWVpvZ3ZlWFdxNHlZM0d6QmtuZ2tNQ1RCemVuR3RVOTRGSVhhZDA5bkVsdzVfSQ?oc=5"
-    },
-    {
-      "headline": "D Stock Analysis: Is Dominion Energy the Best High-Yield Play Today? - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVRfMEVGbHlTaWt0Mk5WUjY0RmNfYXBLdC01eThJdXJXLW1KMFpYWGtnV0FOTVdQZjJZSl91RDJlV1NBaGdMZG1YZVByRXE5eFZmaVU5dUlYd2FQemozTURnamxMME9zT015N3ZtUWpPSkFrUWxYNHBNNzVSUDhZRTNzMDVIYUhnT0ZQa1FRUDZHMVBsa0pN?oc=5"
+      "headline": "Our Dominion Energy Pick Has Produced Returns. Time to Sell. - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMm9LQlhfY3g0bUZ6NlR0akV4cVhyTENKbkNnM1lKa2gxV2JqajZKTHRZbGhpby1QczE4eDRrX1F5UVk4dU82VnhQZVFlNWtXQkJLTUhyNmJNT1h6eUtWS05FRzVYeUNtTWVnVFdHRFpUaTJkVzBDeDZGT0w4OG4tOUxUWjRJcVQyZmh5N1Z2N1JKa09KeEQzVWRtNWF6ejlkR2w4cg?oc=5"
     },
     {
       "headline": "Dominion Energy (D) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSndidWZweU1XOXdlazVSSjNReHpXOW9tcWRrYTlNbHVKQ3hGV0pRTWFRX3Zrb2prTVBYWWc4ZE41LTFfV2xGVFo0c1lXbGxJNVNMNWxNV2VjRVZjMnNMR0plYlhvVG9Sa25DbzdFMFpseUcwS0R4VHhDZU1xOXdFalZ4emJNdy1IaXlnMWZ1NzkzN2pqWTBRQVBB?oc=5"
+    },
+    {
+      "headline": "D Stock Analysis: Is Dominion Energy the Best High-Yield Play Today? - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVRfMEVGbHlTaWt0Mk5WUjY0RmNfYXBLdC01eThJdXJXLW1KMFpYWGtnV0FOTVdQZjJZSl91RDJlV1NBaGdMZG1YZVByRXE5eFZmaVU5dUlYd2FQemozTURnamxMME9zT015N3ZtUWpPSkFrUWxYNHBNNzVSUDhZRTNzMDVIYUhnT0ZQa1FRUDZHMVBsa0pN?oc=5"
     }
   ],
   "insight": "Tracking Dominion Energy (D)."

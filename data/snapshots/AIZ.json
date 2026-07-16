@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:28.978Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:39.163Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    257.3399963378906,
-    258.5,
     260.989990234375,
     259.4599914550781,
     260.54998779296875,
@@ -24,11 +22,11 @@
     278.0299987792969,
     279.20001220703125,
     278.8900146484375,
-    279.8800048828125
+    279.8800048828125,
+    276.9800109863281,
+    273.9200134277344
   ],
   "6m": [
-    240.85000610351562,
-    237.72000122070312,
     240.4199981689453,
     235.6199951171875,
     236.5,
@@ -158,10 +156,11 @@
     278.0299987792969,
     279.20001220703125,
     278.8900146484375,
-    279.8800048828125
+    279.8800048828125,
+    276.9800109863281,
+    273.9200134277344
   ],
   "1y": [
-    185.33999633789062,
     185.74000549316406,
     188.0800018310547,
     188.07000732421875,
@@ -410,12 +409,20 @@
     278.0299987792969,
     279.20001220703125,
     278.8900146484375,
-    279.8800048828125
+    279.8800048828125,
+    276.9800109863281,
+    273.9200134277344
   ],
-  "lastClose": 279.8800048828125,
-  "oneYearReturn": 51.00896213063875,
+  "lastClose": 273.9200134277344,
+  "oneYearReturn": 47.474967872667406,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Assurant Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTlhyd3F2VVR4NnZOZng2WmVtQ0JYdl9rX0tZR2M0RUhva3N2d2FVSkV1dnNXbjFEQ1ZUS01sUWFqRFZwdUxUSXBFNmFpNGQ1M29SUnkyQi1EN0VQRDl4VFNWT0ozZE5QYjR3SU5DMjdDYlNKZWNrYUp1X2JoVU4zRjBBRzRVVTZCeEFUa1MtNklsam9SdG16NEYyNUpvazFMcTlDWFRraTBEZmJmQXFfcl82cEZYazNrUDVLQ2lZdlkzX19wNmN1cEZfNA?oc=5"
+    },
     {
       "headline": "3 Reasons AIZ is Risky and 1 Stock to Buy Instead - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRVl5R1ZjOHlFallnRVNsYml0aW85SndLSEJrTmFTbzl5X01sa0dsYXRyWmpQdVBXTDd6cWNtYWFIRnNJam5vc2lldC1oRndHZlFnQjdCM19XVFpMb1JYWVVVcjZZb3M4QjZIVUFyWGxnR24wc3VCQm1ZY3BTS1YxUXZuWWpPSnpBVmpZSEczZw?oc=5"
     },
     {
-      "headline": "What Makes Assurant (AIZ) a New Buy Stock - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmZVd3RjazlZSVlXSmFoV3ZmLWFFdWZwS0NfSWI0MlVqY0F2YlRBMURQRTBqU19GLTN4UWpXbWtwbkIxWXEzT0o0V1VhS2NzZWNERlp0Z1Uyc2x6dkhEaW9NdUVzSkpaR0JoVUV1YWNfbXBKZ1VaNWNaRU0yQWQ5QWJkSQ?oc=5"
-    },
-    {
-      "headline": "Assurant sets Aug. 4 earnings release, Aug. 5 live webcast - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2R4NkJXdzZwX0pNSXcyakJka01SVDVnekNDSjNwdVVpZEdySWMySDNQRVZ3UVlreUpDcEJWcHp4NWxRUy0zd1VhanZxODZWVmI1cnhxT0Q1blM1RlhlajhDbWl4V3hTUW9Yc0NidFp6dUY3Yk9LVDFVV2haWmsyaTVtbXNlSzdYVDlxNVlDeGJma0lmVTVfZ1lQeDZZT0VrcFp6bk1iOA?oc=5"
+      "headline": "5% Below Fair Value? Assurant (AIZ) After The Analyst Upgrade - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSVlqZ3ozNFQ2eHgwbjBjZnZzb0cyNjRTRERKWHQ5UXR0d2lUSU1FNy1INkZCbi1Zb2g2emlpSzJIbkQtMUNtUXh4bUpvYnJESVlZQ3lIdEd5TERqZFdwZEdPUWxVX3hONHRZMjdrSE5Ec291N2luNHYtWW5vSmFLalhRelNJOXhSMzYwV0ZETnVDQVBNdHM0NGZYdE9MbU9zbjNHdTh4cnBlbGFIVDFXOXI0RnhHNFBScUtHMjBXWdIBxAFBVV95cUxPcnI3RzRkTlg1QU1vc0JCRzZ4MUR1bEdoQVl4UnBfdzhITnNfRGd3YTNOdGtYX1JjcWI2NDJaRzJxTEc1LVRxTnlGWTIyV0FLM1I4TzY4dDRoV045V0VnSl9INWlFN3Q1aE0zWTgxcnh1X0pSODU3STBHdVNmalYzQnRJb1JxMjgxWk9zSU82anJkSVZZRWpFRDktMUdXVUctWENONDBva1VjREFzbzVEY2prYXJlWDRkMG9aUkdzbGpmQjN3?oc=5"
     }
   ],
   "insight": "Tracking Assurant (AIZ)."

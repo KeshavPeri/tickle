@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:46.916Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:00.187Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    404.55999755859375,
-    399.17999267578125,
     404.07000732421875,
     401.8900146484375,
     397.79998779296875,
@@ -24,11 +22,11 @@
     416.0799865722656,
     420.3900146484375,
     416.2300109863281,
-    425.1700134277344
+    425.1700134277344,
+    426.7900085449219,
+    390.3299865722656
   ],
   "6m": [
-    350.54998779296875,
-    354.25,
     363.510009765625,
     371.3699951171875,
     366.69000244140625,
@@ -158,10 +156,11 @@
     416.0799865722656,
     420.3900146484375,
     416.2300109863281,
-    425.1700134277344
+    425.1700134277344,
+    426.7900085449219,
+    390.3299865722656
   ],
   "1y": [
-    336.2099914550781,
     344.54998779296875,
     302.45001220703125,
     277.0899963378906,
@@ -410,29 +409,31 @@
     416.0799865722656,
     420.3900146484375,
     416.2300109863281,
-    425.1700134277344
+    425.1700134277344,
+    426.7900085449219,
+    390.3299865722656
   ],
-  "lastClose": 425.1700134277344,
-  "oneYearReturn": 26.459660400824948,
+  "lastClose": 390.3299865722656,
+  "oneYearReturn": 13.286896067691897,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "How Will Elevance Health Stock React To Its Upcoming Earnings? - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWGUtN0I1UzBNRUY1Q3EyNnd6N2wwMTVrOGhBNkNaTWs1XzJadHprbG9na2pieUZTSE1HNlBGUUVfTmxhNkFBejBQOFdMSjNMVUswUWNidG5QS3FsSlBzSWJNeVZDNWstUlVybDZ1M2dUVWg2QzQ3WldRZDVtM3NIekZVUC1xQXphUW1aUlI2dy0zdWVrMmh4SEhfWks5ZGJsOEpDaEtNb0psZTdxZXQ4MWFja1o1RGgzcmlLN2JfVDU?oc=5"
+      "headline": "Why Elevance Earnings Gave Health Insurance Stocks A Cold; UNH Up Next - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOVdtZ1lIREhiTjdkM0otV2NERlVELU9ENE0wd0hRN2U4dDVKT3VPQmJIWVowcTFOZ0lnUEczbXNua2Rab1ZKQ3dlUVBXZmY1Q2VMS0dEMkVLdnZycnBMY1plNXh0VXNiQmthM3lZSTJDSko3Q1A1RmUzOGxqRjlKOGkyRk1jYldpeWJKTk9mYw?oc=5"
     },
     {
-      "headline": "Elevance Health Stock And 2 Defensive Picks For Higher Interest Rates - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdnZYRi1rSFg2SFdTTFRHZ1hQMTdrdnFpSXVONjdLanB0T3d5SjBQNXNtdmFIT29xbV9YUUJqb1Z4aUxJaUlzWVRfZ1BtTk5GSXdia3hVTkJkQXJQVmpzbXpqaXdHblppN091TzIzWW5ybTFJRTRZbFFxRnNLRWs3UmNwbkFXZ0lVYUhEWk9QN00wZ2twOHA1OXFLVk5iLVV3Y3piLXlTTThFVzl0bnc5WTJnOHp2T0dodHh2c2haMFVLYXJ0NlZ3b19LbWwwZ9IB0wFBVV95cUxOQzlrZkl0dW94clMwQ080cUt2NFpiOTFhRE9xSnF1S08wWXpkay01dzZpTlpvVEtBQVF4ODhOMS13bHVfNWFseTVuZnMwZXJTbGpyV3BtdV9SZEdCUV95Wk1IaXByU1NrSnVwZmNqOVp4eW1SSXNlMzk3MkFXQlZ6eGd3MER1T2dDOHlLNnVIbGJBaUlyV01LR2JEZ1pDNF9IYWdLLWszcnQwWlA3cVRPN1JwcDVFV21QSXB2amkzTHBwOVVyREhOUWNoWmtXYzBCX2x3?oc=5"
+      "headline": "Elevance Beat Earnings Estimates, but the Stock Falls on Medicaid Spending Worries - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWs2aUprN2s3MVB0Zm5Fa2JDU0hjQjQ0YUNnTEpSblBvUnhpaVQzMmNZdk8wRzVNZTI3UHlMTUlrMWFVbTE3TjVJaFJDeWR6dHhTMHFPTGtGYWVxM3hENGRacUU3V3ZMZF9NOHJpMU8zWVZ2S1ZBclU0Z0U2ekhSLUxzVFc?oc=5"
     },
     {
-      "headline": "Will the Market Recognize the True Potential of Elevance Health (ELV)? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHN6eC1VaEl2OEtMdmFld2Q4UnhrWVFVUnJ5V0VjNUtNZ3A3SGpaMW42Z0ctYnVUVEhFemVtU3lTWDR4TVJXZ2YzTzVacEw5aXNRY19XTW5sWXpQcm5XbTJIQ2JJRWVPT1NRSnU2Zk5pSGI5bHJWZjZVZzc0Ql9vLUtNOUxkWlJydUZ2bU40LUY3cWtNTHFhcF9WSU9vMUtYWXNGMDhkWFQ?oc=5"
+      "headline": "Elevance Health leaves D.C. Medicaid market, mulls future exits - Fierce Healthcare",
+      "source": "Fierce Healthcare",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkJONmVzYkFMMUFlRm12X3NSYnZ4SkdHRkNzdjJSbjI3RWpSc1otRFF2WmFUOFVhM1F4bTRJd3BWa2swdTZUdkVOcERLZlNEcE9kM0FUR25FVy1XREc2Ym9Cel9kcVdQWGlVY3RxTnQ2RnY3a0E4SGh2YnhoeW9RYl92X1E2NEltV0x6M2ZtU3c2d0lncWFQTFVOY2toTDQ1TVZjdjQ2ZXFkM2RpOUVyVzQ4VTQ?oc=5"
     }
   ],
   "insight": "Tracking Elevance Health (ELV)."

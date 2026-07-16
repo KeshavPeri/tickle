@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:10.086Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:29.242Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    98.76000213623047,
-    102.27999877929688,
     103.04000091552734,
     101.58999633789062,
     101.68000030517578,
@@ -24,11 +22,11 @@
     103.87000274658203,
     106.41000366210938,
     106.01000213623047,
-    107.33999633789062
+    107.33999633789062,
+    106.16999816894531,
+    105.11000061035156
   ],
   "6m": [
-    84.20999908447266,
-    83.97000122070312,
     86.55999755859375,
     89.45999908447266,
     86.69000244140625,
@@ -158,10 +156,11 @@
     103.87000274658203,
     106.41000366210938,
     106.01000213623047,
-    107.33999633789062
+    107.33999633789062,
+    106.16999816894531,
+    105.11000061035156
   ],
   "1y": [
-    92.4800033569336,
     92.51000213623047,
     93.19000244140625,
     93.80000305175781,
@@ -410,29 +409,31 @@
     103.87000274658203,
     106.41000366210938,
     106.01000213623047,
-    107.33999633789062
+    107.33999633789062,
+    106.16999816894531,
+    105.11000061035156
   ],
-  "lastClose": 107.33999633789062,
-  "oneYearReturn": 16.068330927285718,
+  "lastClose": 105.11000061035156,
+  "oneYearReturn": 13.620147209126971,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Starbucks (SBUX) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+      "headline": "Earnings Preview: What To Expect From Starbucks' Report - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRnotZ1o0blhwM3dwRHJzQ29aQ0VGMzZQd3NURDliMTk2VzFfb1Z2RV9wVnJKT3IyYVh2c18ta2xoZXBWSGpFSl8tYjNUMlFfc3lwNTBEMXlOUmgzcWpRejVlSjFtZ0FhcFBmaEZIdmo1SjVqdkNZdjROV1RVaTdpaEdsVGNMckRWNFpxVHFuZ25VYXJOZEFfc1RYLXI4amZZ?oc=5"
-    },
-    {
-      "headline": "Is Starbucks (SBUX) Fairly Valued On Its Dividend Update And Turnaround Story? - simplywall.st",
-      "source": "simplywall.st",
       "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeDdiQ2c4MWt5YS1QS0RjVFRIQzg2MzJKYlZwbkkzZEhTUkZCc2FGNEc2TGFscERFNENoSVpuNTd6T05sVlJLLVpuYW41TTdLQUxyRnFsUkxLdmd1N2RDZV9uNGRZQmV2YS1YZVkwbGRUSWhLMXZBTmtFZHFvODFBaWlRQTdYLWRaRFN2ZTBOU19lbmtoVmFVSXM4QjluNzYyLU1VdEFzY3JNQ2pqcjJ1MUhwQzVNSUZZdDkxSFhfMm5LTU04dzdrR2g4ZEJCbGNIdjVZ0gHYAUFVX3lxTE4zbERPSWdWM1JsQjdjQ19ibzZIRmJKYjNINjVrUnJUUXRYSXRrUi1kZVpnRHZFWGVwR0pnREY3MzAzNW9veDZrRTd6LTd0UnIwNFI0NlNpMjFZSGFodS1wVUN0dUJxdm0wN2t4RUNiWkZyLUc2czdKaEdrZXNuUzgzMTRCcUltQkVHYzhWVllhOFlUN2hWZkhZV3JZdmdYa3Jma3lidEgyTFJydEFBNHV2c1doV1VXeHVxcUxzSVRiaXRaNk1DcXFKT3lLSDI2UUpwZ3plSzBPZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzJXdVZfV1BpaTdtMDlJOTlNUEViZXJmZXBlbGtWZWczUEwtMmxoWmdQSXZsQ3RyUGZfRHJWbVFQVWg4aGprWU9oeElQdzFhVUpXQ3huSmJHN09ObDBrNlNCdzlYeXdkUkxKN3NSUmRqUVVjbXdzSkpmNG5WV2ZOZUkzOHp5OUxYVWtfeTFKSnlhODQyTWt3REZYZFJiNnBUMURJb0szVl8?oc=5"
     },
     {
-      "headline": "Starbucks Is Serving Up Your Coffee with a Side of AI. What That Means for SBUX Stock. - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaXpkUnFwaDZiVVNRZ1hjS0pvR0NQVHBDNHB2OVdJcG11OVhNbHdFWTlyWGtDbzFNVU85WV9YV2tGVVhHM2EtNFZFMGJudDljZkp5ZG1DYjRwdjhKYV9qOHZycFF4a3VGcldkcDdmMFNWNlZlQ1VhWVVxdm9ydjVQN1U1VkdlUkZXWndHRGlpNXctNDE3VVdLaFlkWWFmd2VqdXBjVUUycHNXUkQ4cFRKaV9PNzVvU3pIWHBEaWdJX3VzMVlwTE1J?oc=5"
+      "headline": "MCD at $268, Starbucks at $106: Buy, Sell or Hold? - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1FnQ2pDcm93QzRBMVZCRUxWZzdYM1kwTFJWTUZfODkyZzE4NzdEUnc1Rm5QOU51bzZDaU5qR3VVLXJ0QzdNdGoxMkR3bEwteXR2RnZiYkkyYjJERmR3MjAtbW9RcjhVRWVIY1lQdTRtMlloMWRScHJrU0Y1cUJZNVJIdWt3c3lxRHFDbEdSRkpYdw?oc=5"
+    },
+    {
+      "headline": "Starbucks Corporation $SBUX Shares Sold by Principal Financial Group Inc. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeExPMUd2V3lCWTk2SXppX2tQUHJySS1hMnZ3a3lRYXVDbHpJS0E5ZzlBVGdNZmd4empxTl83OC0tay05UWZOXzlubjBybHFJcmVQTVFUUlJPU0ZKdmFBSHJDcng1U2p3MlRHQldvZjdTd0RYTk1IV1NBNGE3dDRBQmFzVnpMNFpfd3E2M1BLNnRoNWlpUEpCbzlHSWJ2T3ItczAzQm52VHhBbTFwTUE1U1YwRVFTRzNaLU9pYW5VUVpzQlJmdllMeTFTT0o?oc=5"
     }
   ],
   "insight": "Tracking Starbucks (SBUX)."

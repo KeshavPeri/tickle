@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:42.669Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:55.394Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    98.0199966430664,
-    100.4800033569336,
     101.95999908447266,
     100.68000030517578,
     100.72000122070312,
@@ -24,11 +22,11 @@
     104.47000122070312,
     102.80999755859375,
     104.1500015258789,
-    105.9000015258789
+    105.9000015258789,
+    106.18000030517578,
+    105.91000366210938
   ],
   "6m": [
-    79.36000061035156,
-    80.12999725341797,
     80.41999816894531,
     80.69999694824219,
     79.79000091552734,
@@ -158,10 +156,11 @@
     104.47000122070312,
     102.80999755859375,
     104.1500015258789,
-    105.9000015258789
+    105.9000015258789,
+    106.18000030517578,
+    105.91000366210938
   ],
   "1y": [
-    63.939998626708984,
     63.79999923706055,
     63.29999923706055,
     61.959999084472656,
@@ -410,29 +409,31 @@
     104.47000122070312,
     102.80999755859375,
     104.1500015258789,
-    105.9000015258789
+    105.9000015258789,
+    106.18000030517578,
+    105.91000366210938
   ],
-  "lastClose": 105.9000015258789,
-  "oneYearReturn": 65.62402846477762,
+  "lastClose": 105.91000366210938,
+  "oneYearReturn": 66.00314252133674,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why is CVS Health stock sliding today? - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmdiNXAtbnAtQlJXUnh3Nm1VMGlGUWYtd0JTSXphZ2Z1WTBhY3pURThJRkl6OEo4UkdPZjlnTkFRblpYSlF4eWluX2tfQkRjNjhXQm9MOGdkSnBPTkJNQ2JRUmJONll0OW51ZnRfSE83Q0lzN0gyT29LTFRLdGFPUHlvOUI2SzRSY0EwQS1sTE40emNkN29abjZWOGpqWmt4?oc=5"
+    },
+    {
+      "headline": "CVS Health Corp (NYSE:CVS) Flashes a Perfect Technical Breakout Setup With High-Grade Consolidation - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWEMxc3pqaTU4blBxZGZzNnJsN2owOEs4OW12dncwMWtOX2dDbE5ORVk1M01wTjdtQ2R2UXhEQVY4dUFFbmNHcmtEUEtTZnBLYV9mVFNvdjNoSTc4QlhqTkY1YUJLMXdFS0dhTG5OQmswcEFScFY1V2Z5cURxaW9sdGtDS29lb3Y3VmxGZ0x1Z3U3eFFfdHBLQjZobnducjFCbzQxMkxneG4wdGVGblFSMDA4SWZTTEg0Y282VEJUYkxLd2VwbUZaUHRDd3FaOXRZMGxqWVMxWnIxQjJzVVJvZw?oc=5"
+    },
     {
       "headline": "CVS Health (CVS) Expands GLP 1 Support, Does The Stock Look Fully Valued? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOEFnQXdfdnBLZFhHYTFPWmZqVzM0OWlyRm1qMDg5M0FtcVlROW8xRGRLcjUtdl94blF0R1NWS1pRQm9SN0xoV1BNSk1ySTFxSjlfMHNQbGVsdkNfSkZCVlVvOUw0elJaMFlQM0xMOGR3d3ZyVE50NEszc2Y0VDl5N1dTQkJpYjhUdU1oMmpqNTRNY2J1UGc?oc=5"
-    },
-    {
-      "headline": "CVS Health (CVS) Following GLP 1 Expansion And Analyst Support Looks Near Fair Value - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ1Vma3Y2azR2Mk9JMlVZWkhPOUtCWXhsWF9oQWlmZE5ackxGS1YxUDZxRjgyM3lCenFyX3RXVEc3Z3ByZFFxdWVHM3ZkNDJZNURiVEFhY3d2ZHZTbXN6Vi1SNHkybi12aGR6eHhtWFBfUDRKVU1hWU1SdTRzclhkNkpSUDEwTmV3MzJyMFRWaDBPRzJuckdpTFFPTElZUVJCWnRDZmRQaENFRUgwMGdiQ0R3V21nMWR4alhRX210UmdIRmFFSVpB0gHMAUFVX3lxTE83dFpVRnhYaHRoWVIzYkNwT0dSeGdSQ1NuYzR6S3YyY0ZSZW12SEZqZElVelBORDJ2bmdZVkFVQVBoZnpUUlYxcHphSEduM0pfQTRTOFRxeGMzN1pwQTdwUWRFV2I1d2V1U1FTM3RGRDRtY0JEVUdUZ09mejRuY2IzU1k5akppNndVUkpnc243UkY4Y2JXczI1dlpFcGlLR2RZYXdWWE9rdFNLcWdyMTVWbjJjdk02UnBSQXVQYXhMdlpBcWZ4dFZMWEJwUg?oc=5"
-    },
-    {
-      "headline": "CVS Health Stock Is Near a 52-Week High. The Rally Isn’t Over. - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-07-11",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXlIUzlwMHB5alV0OU1yeEJ3QUJoVTJBMTJXMndKc2ZmVjl6RlMtNWFkekM5M3g3aXRfRm9kV1U3ak0xLTRteElTVlJvS09NRXdzUUtLYjBxNDZiUUJHNXhkN1JvaEtXQTdwTEdRRXl4QXl5XzIwWEpHeWRkU0tjcThjM2dNMFhrSlRuNl93?oc=5"
     }
   ],
   "insight": "Tracking CVS Health (CVS)."

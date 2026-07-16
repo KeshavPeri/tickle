@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:50.845Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:04.714Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    38.970001220703125,
-    38.349998474121094,
     39.20000076293945,
     38.970001220703125,
     39.5,
@@ -24,11 +22,11 @@
     40.84000015258789,
     41.61000061035156,
     41.97999954223633,
-    41.93000030517578
+    41.93000030517578,
+    40.58000183105469,
+    41.099998474121094
   ],
   "6m": [
-    66.45999908447266,
-    65.62000274658203,
     66.37000274658203,
     67.05000305175781,
     66.7300033569336,
@@ -158,10 +156,11 @@
     40.84000015258789,
     41.61000061035156,
     41.97999954223633,
-    41.93000030517578
+    41.93000030517578,
+    40.58000183105469,
+    41.099998474121094
   ],
   "1y": [
-    78.69999694824219,
     79.3499984741211,
     80.73999786376953,
     80.33000183105469,
@@ -410,29 +409,31 @@
     40.84000015258789,
     41.61000061035156,
     41.97999954223633,
-    41.93000030517578
+    41.93000030517578,
+    40.58000183105469,
+    41.099998474121094
   ],
-  "lastClose": 41.93000030517578,
-  "oneYearReturn": -46.72172562757347,
+  "lastClose": 41.099998474121094,
+  "oneYearReturn": -48.204159717123005,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Y Intercept Hong Kong Ltd Sells 29,730 Shares of Fidelity National Information Services, Inc. $FIS - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMzZMMnRvOEhFSnB2Rlh1NUdfVW5yYTAyV1dtNWRFd25FZU1Ia0NUTFdTUXcwZzFETXYyNnJVMU5ZbDNnT1d6YVdENFNYSHZFdFVHVE5renhZclotX2hWTkFneVlzV2E1WHc3NzlFMzNnV213cjNVa1JwOUFVUWZMU1ZiZldyb18zai1uWGZxRXhuUlFhelc0M0JBX21nSEU1cU1MMlVISGhGa0hGWVFtSG9EN0FvM1Y3ZVJtX1FfYVhKM1lCVkNaOGt6ZU1VUE13aTdiVnFUVUNkYnJyQkdQUXhWQmZ1N1ROb2Mw?oc=5"
+    },
+    {
+      "headline": "Fidelity National Information Services Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeFNGV0R2Wk9qSVB5ekFnZGUwYTg5RDltVE9JaFZuSzhILWZGWGt0ZTNRckdaZjhlYWdfSnhkV3ZoaW5hazNKbDVZbldjeFlxLURVWlg5LVZxQmlhXzFMXzBGWnV6c19hazFJWUFaY1RCQmF1Sl9haGxtUFBrX3VMNTBsRFlpYmJiNnJ5YkRUSnA1TnhaTHl3VFRRWXRNdUpPZk82X3VLNnJrOGVCQjRFekVOUDhBMUpXUzVWRnJLbzFWaXJiY05YWGdGLW5HQkIya2owcFd5Ty1uMzZfQVota1pydzNSQnppeEdrQjRsR18?oc=5"
+    },
     {
       "headline": "Fidelity National Information Services Inc (FIS) Stock Down 3.2% -- Now Undervalued? GF Score: 62/100 - GuruFocus",
       "source": "GuruFocus",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbjYxTERIam9fMk41SkZkWWoxRzVOQXp0cjJaSnVJN0N6RzdGREg3cEZ5eWdQTkZIS1BQd1MxYUZydG9rNzA3UkNDbWdILXAzVGxxUktRenlwRzBKRm9BMDAzNmVqcmNGMjhDNWNMZUZ1YXVfMmcyTUI0aThWRnVpcDVmWU1ucWUzcDMtMHFVSEdCb3hjcmVPUEFvQ0Q2SkZheHRfcndPMUdodDBiWDkxeEd6ZXRzdkdyQTVtYWNubVNPMjNnTUxRN0xB?oc=5"
-    },
-    {
-      "headline": "Fidelity National Information Services: The Market Is Misreading Worldpay Loss (NYSE:FIS) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMmh5UlplRWtHN0JwVUxSaUxFZzVNRndFblpzN0VnVUQzLWdOMW5Uc2I0bUVETldJX1BYTEJjamotbTRqNTNvdnY0LVlRTWZMYUU2d0pEdzFzNmd6Ymx3VFE2MmJpYjQzaElWcUNqaklqbDR4MVZNYU9TazU5M3YwUlZYWUkxRWN6R1doVzRaUW03Z2s3aWdad0w5N054NExZZS05cFRBa3BoQmVuM2xVdGZoRVlFa2xHTHc?oc=5"
-    },
-    {
-      "headline": "Verbena Value LP Sells 380,425 Shares of Fidelity National Information Services, Inc. $FIS - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOTlGbzk5cHYyOHJ6UTZYZHk5bWp3Z2xNODlId0RuZ3owQ1cyN0hSeHI0cW1OVVJ6LUVaRlN0Um9fMWQ1LUJMaGUwb1dOOFRIM0RQZDY1Y3VEblVDLU9ZcGtXemttOGluODEtRmc1TWthVW5yZUVEWnhGaEI4RkdHZnBneE0taE1oNFJFbUtSWE4zNFotMFI2TFl6REp0NExhM1R3Q1Z4WEppd3F4WVNWbVExLXB5WGlwanR5OFRGWU4zblZJNk1YVXVjN0lwbWdVSXBTajRpb3ZEVFpjcmROTA?oc=5"
     }
   ],
   "insight": "Tracking Fidelity National Information Services (FIS)."

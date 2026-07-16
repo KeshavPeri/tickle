@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:35.444Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:47.208Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    65.4800033569336,
-    66.2300033569336,
     66.27999877929688,
     65.9800033569336,
     65.7300033569336,
@@ -24,11 +22,11 @@
     66.77999877929688,
     66.93000030517578,
     66.81999969482422,
-    67.04000091552734
+    67.04000091552734,
+    67.72000122070312,
+    68.94000244140625
   ],
   "6m": [
-    67.4800033569336,
-    67.81999969482422,
     67.08999633789062,
     68.0999984741211,
     66.12999725341797,
@@ -158,10 +156,11 @@
     66.77999877929688,
     66.93000030517578,
     66.81999969482422,
-    67.04000091552734
+    67.04000091552734,
+    67.72000122070312,
+    68.94000244140625
   ],
   "1y": [
-    69.91999816894531,
     70.0999984741211,
     69.02999877929688,
     68.94999694824219,
@@ -410,12 +409,20 @@
     66.77999877929688,
     66.93000030517578,
     66.81999969482422,
-    67.04000091552734
+    67.04000091552734,
+    67.72000122070312,
+    68.94000244140625
   ],
-  "lastClose": 67.04000091552734,
-  "oneYearReturn": -4.118989314700967,
+  "lastClose": 68.94000244140625,
+  "oneYearReturn": -1.6547732638583164,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "BXP Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeW1HNE52QjM4bVY0aUpoaWNrNGdpZGVGSjJ6c0JjYUNmbHp4Z0pFbThyWjRsOVpmcEs3Yy02YWN4NHpBWGJaYTl6MlJfZnI0bnRubVljWV9ObXpKWm5sVTRxX1AxaVFXdEEzc21wUHRWelVtbkx4aC1PU2JlWGZUWkJoSGZ6Mk8xYzNjNG81TF9Zbmk4VmFXaFF4OHJfT2ZvLTJlN0JQdFFqZnRTWHkwMW1ORTdsam5rZkgxZ0NOSnpHNEVaQm9zT3NfMXFiSGZVbFBr?oc=5"
+    },
     {
       "headline": "BXP, Inc. Stock 12‑Month Price Target Cut to $69.11, Implies 3% Upside - TradingView",
       "source": "TradingView",
@@ -427,12 +434,6 @@
       "source": "Yahoo Finance",
       "when": "2026-06-23",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2JkNUNENzZjbmhnTnJpVVpYNmpFVDZzWHlUQlltNE1BYjFoeFFMcXU3cF95THdrWGg4clFoU3BkQTZEQWQyUGRaM3FYMGJyX1dnMWxvM2NiR0NncmJBc3lONGhDWnJpT285a3dQU1Z2c2NkU2tUblNsZnJSa1lSVDVsRVBMdFoyWTBwRWtBeDVLX3B4TGpSN0planYtUQ?oc=5"
-    },
-    {
-      "headline": "BXP Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVENXcmpVTnRPUmFxc0JnbmJSejNsSXNTQjQ3NlhwQ0IyekViYkFCeGZxb2ZuZm1NTGVIYTZ4VmJFd25WRkpGR0NzUmVOeVJJUlJzdzJMQVhWT1IwdmFBQ0xiWFJWM0JNaVhEQWsxZ2kwcDZtSUZESUFNV2RDdmpWb3ExT2JyQnZzTW94czJGV00yOHVwdEZ1elAyRVNidXlVbjFySjJ3cXZWTTRxRTRTM2lKZzRVdHFSNkthQVMwR1oyQVJN?oc=5"
     }
   ],
   "insight": "Tracking BXP, Inc. (BXP)."

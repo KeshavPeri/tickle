@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:30.993Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:41.532Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    57.220001220703125,
-    58.65999984741211,
     59.08000183105469,
     60.02000045776367,
     60.2400016784668,
@@ -24,11 +22,11 @@
     59.470001220703125,
     59.02000045776367,
     60.439998626708984,
-    59.529998779296875
+    59.529998779296875,
+    60.869998931884766,
+    60.310001373291016
   ],
   "6m": [
-    66.87999725341797,
-    68.31999969482422,
     68.51000213623047,
     68.6500015258789,
     67.12000274658203,
@@ -158,10 +156,11 @@
     59.470001220703125,
     59.02000045776367,
     60.439998626708984,
-    59.529998779296875
+    59.529998779296875,
+    60.869998931884766,
+    60.310001373291016
   ],
   "1y": [
-    67.23999786376953,
     68.05000305175781,
     70.75,
     70.30000305175781,
@@ -410,17 +409,19 @@
     59.470001220703125,
     59.02000045776367,
     60.439998626708984,
-    59.529998779296875
+    59.529998779296875,
+    60.869998931884766,
+    60.310001373291016
   ],
-  "lastClose": 59.529998779296875,
-  "oneYearReturn": -11.466388056842849,
+  "lastClose": 60.310001373291016,
+  "oneYearReturn": -11.37399166988996,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "A. O. Smith (AOS) Stock After Recent Rebound Is The Market Pricing It Right - Yahoo Finance",
+      "headline": "A. O. Smith Reports Quarterly Dividend - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZExlWTVmRmhVNXFUekhURGVnUFpKOWZkTU5oV0tMeWNRNlAwRjdOZFU2bWtJd0EwOEF4c2ZBZHFwckg3MVJpUkg1d1BHWjFpX01BNUhCQkptdlhOeVlES3dkTzBRSmNnTUZtZ1JXTjRLemxKNjR0cHl2cnVheXQwT2NzcFBHVEh4WWp2UVlRbC1yb1U?oc=5"
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVhKM2tndmx1Tm90YUx6ZGZRSUJnbnVLdWd1ckt4b3pKU1RKWnZtYXB0Rzh1ZWg4alBLeTJZckl1QVFrWEF6UWtrbUswUVQwaVBjNnU3cjhlbk1mOE5XY0NvcTZLTVVxVEpzSlJSb2pRNklPREhWNjljUlRSTUhtZnVGQmhTbjN0MDhUaENQOUdleWhsZ2RxZ2J2dzJ4bGhK?oc=5"
     },
     {
       "headline": "$0.36 per-share cash payout set by A. O. Smith for Aug. 17 - Stock Titan",
@@ -429,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOFBDQzB5MjBIODZBdVc3VkZ2a0w2OE8zUW1YTzdoNFBnSXEtdGZGVi1rX25XUU5Ubk5BM1Q2YTRpVG9zVlRObHh4Z0JDdkdwTmYtckV4b3VnUTdpX05rMkpSclNMSzBnc2JncXdPem1la3BuekpWNWlieFlkLUFwQVRreFpsVVdZ?oc=5"
     },
     {
-      "headline": "A.O. Smith Corp. stock underperforms Monday when compared to competitors - MarketWatch",
+      "headline": "A.O. Smith Corp. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVkx4ZHliZlFSZjNRWjhaWnhSR3dFekhRSzRndklTWW05MlRnbVhwZGZ0ZkFNeVRneVpsOF9fRWpPY1hhdUVPMktidTJVZUJuZW1CdmJzTnRjaUd0REVkSEJjRU5SWDAzZ0pBWVlzZERWVnRnZkpPdmNWSnhyZ1BvNmZjaUVuV2YxRUlUNDZnNzNlVDMweUMwTmxlYUh6Z0ZVSDlxTmV3NjI5QzlCdm1rakNtVmp5azNFSm8xbV9FNWQ2RkZMMlNucDlWRHlPRmkzYnY5UUVzcjlacUoxYnBnTDRR?oc=5"
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmFaTmlTRlVUNWozeUxDUkxaQmcwdWNDekRiYWpJSVZLUElhc19CdTVoTjl3VURqampsNFhPM2FCTHFfazM1TVcxcUo4bnFIX3NwdmExTFYxWnhWX3lyOGpNTjJPNU5fMHlicC1JYkQ0V1ZtN1VoNXRyTkllbDRBMVk5Z1otTEcxUUdHUW5uRkpRY2l1aG1ESlFJa0lBMjJJc1J4T2NoejBiUnFpZkxZYWhjNlZVQTl3M3pqQ0pxUXlCYjZY?oc=5"
     }
   ],
   "insight": "Tracking A. O. Smith (AOS)."

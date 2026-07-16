@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:58.176Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:14.871Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    31.850000381469727,
-    34.95000076293945,
     36.150001525878906,
     36.38999938964844,
     36.150001525878906,
@@ -24,11 +22,11 @@
     36.66999816894531,
     37.18000030517578,
     37.93000030517578,
-    37
+    37,
+    36.5,
+    36.7400016784668
   ],
   "6m": [
-    39.38999938964844,
-    40.25,
     40.52000045776367,
     41,
     39.560001373291016,
@@ -158,10 +156,11 @@
     36.66999816894531,
     37.18000030517578,
     37.93000030517578,
-    37
+    37,
+    36.5,
+    36.7400016784668
   ],
   "1y": [
-    50.93000030517578,
     51.290000915527344,
     50.90999984741211,
     50.349998474121094,
@@ -410,12 +409,20 @@
     36.66999816894531,
     37.18000030517578,
     37.93000030517578,
-    37
+    37,
+    36.5,
+    36.7400016784668
   ],
-  "lastClose": 37,
-  "oneYearReturn": -27.351266879454815,
+  "lastClose": 36.7400016784668,
+  "oneYearReturn": -28.368100950171232,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUWEdFV1FKTTBDd0pmaGoyclNYTWxNaU8xMFRMY25RVnBSNTEwd19SalVQTG8xRnpybUFVRGtYNTd4b1FPUlpvSTdncFcwQQ?oc=5"
+    },
     {
       "headline": "International Paper Shares Slip After BofA Downgrades Stock to Neutral (IP) - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNU1nVnFUSzN1bU51NTdkRkQwSEl4dFppdzJfU2xUMFFTX2lVcmZ2cUpxOUVtS1lrc1BRS2ZsU3pTd1lQUFA5STVCTThqaF9VcnZQcDQ4em1sa1pCb3BtUkEzTWE3WlVrcmhQN0FQTDZQN05wT2JLazV6al85TFUtNzNHaTVWdmxCamdhTkxhaVhiQTdrQkRFb2U4eDRmWUREd25F?oc=5"
     },
     {
-      "headline": "International Paper Sets Two Dividend Payments for Sept. 15 - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0Z6WS1vZjdSenZnTEdFRWlYWU5pZWhOWkNuTjlEM1hZblZzZnczcTV0b1ByOVhjX2tISnVMR1I2Q0JicEFrZV80R2FGSlo5enZBVVN3alJDby1Qb1l0MF95dkdvVzlJLVJMWGZ6VFhWbndib184c2lIR3ZXM2hnM1F5QUVwaVNzeEdOR0pIMlNuVmhxN0E?oc=5"
-    },
-    {
-      "headline": "International Paper Company Stock 12‑Month Price Target Cut to $42.5, Implies 15% Upside - TradingView",
+      "headline": "REG - International Paper - Dividend Declaration - TradingView",
       "source": "TradingView",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONHpLajNYbnNmOFRFZ2U3cFVOT0JtZzhTTDBFeHo4Y1k5WUttLXU2c05La1U4b3d2Q3VGWi1BSkxrdW0xd0FzVFU5bU1DZDd3OUNFTTZQenRlbEtCZTFENkpBNmNiUlZQWXB5Vmw5NXFNX2kyT2ZONDhpZ0FzQWdpd3FOc3NMTkVjTG90a3ZwYlgtM0hlZWRLV2JMLUUyaklHUGFZU2Y0b2kzY0NHTEY3YUlMQWZPcmpQQmNOS01CUDVjREhpOXhDRzY3SXhLNnZLME9Rekx3cGxvUFgzVHdrag?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnRkUDZNNm1JdlFZRlNPQ0NRcl9HblRNUkRUaG42bUJBckliMGs0ckg1d0JxSEp3cDQ4TFNsWXczdWFfZnhvYkRXQjZYU2ZlYnlHN29XcTI2b0RSNkItTnVDMXBVY0JnYU9WblprQ3J1X0xWYmd0TFNHaUdiVzhiMUUtMzg2cGQ3QS14bUl2b24wNThxd3psbFJqQTU4RWVwSnZCSzV1TktNVDAxbU91aDVGdDFNVzdPWHhTdA?oc=5"
     }
   ],
   "insight": "Tracking International Paper (IP)."

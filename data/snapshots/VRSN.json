@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:15.287Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:35.371Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    288.0899963378906,
-    279.57000732421875,
     279.8900146484375,
     272.9599914550781,
     273.8699951171875,
@@ -24,11 +22,11 @@
     267.5799865722656,
     269.9800109863281,
     270.1099853515625,
-    270.30999755859375
+    270.30999755859375,
+    268.8500061035156,
+    270.5199890136719
   ],
   "6m": [
-    242.9499969482422,
-    240.52999877929688,
     239.25,
     246.1999969482422,
     243.77999877929688,
@@ -158,10 +156,11 @@
     267.5799865722656,
     269.9800109863281,
     270.1099853515625,
-    270.30999755859375
+    270.30999755859375,
+    268.8500061035156,
+    270.5199890136719
   ],
   "1y": [
-    281.489990234375,
     283.2699890136719,
     280.8599853515625,
     283.42999267578125,
@@ -410,29 +409,31 @@
     267.5799865722656,
     269.9800109863281,
     270.1099853515625,
-    270.30999755859375
+    270.30999755859375,
+    268.8500061035156,
+    270.5199890136719
   ],
-  "lastClose": 270.30999755859375,
-  "oneYearReturn": -3.971719444258935,
+  "lastClose": 270.5199890136719,
+  "oneYearReturn": -4.501006281814282,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Verisign exec. chairman Bidzos sells $883,875 in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOEVsTW5iU0diR0NqVUtmWFd1TUxHSk1vclhCUU9LMW5zRkxrUnFYZXN5R3JWZWJBZm1HM0ZzdDlMcF9FZDJFYktfTm1xMFpQNVBXSERRV2hacFdtSzQ1M1ZNbi0yNVo0MVFCdlpiQnY3aUkzdm1lUzEtTFA4d3p6QXR2bjc5aHYzNktXcFFkcVljRHJSMDBRVm1YZmo2M2ZKTXlKZm8zb0xNcnJsOFZ3M2ZhMlBPNkk?oc=5"
+    },
+    {
+      "headline": "VeriSign Stock: A Little Overpriced For What It Is (Earnings Preview) (NASDAQ:VRSN) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzROVmVjcm5nMDdQd05oaFFrem85aG9pVVZuZVJZQTZWc0sweDYzV0JkUVBRRF9Zd1JDWXVxSF9xMkJxS0UwV2ZsOEdkcVh6WjJmQk1hM2JIV2t3WlNTZHN6azdlRlBTZmppY0h5Vnk4NE5QR0JFVU9vWmlJMjFFUHdxM0tOMC1HRXEtVkJCMVRIRnc3MmZJazZoeURIenpPYUEw?oc=5"
+    },
     {
       "headline": "VeriSign, Inc. $VRSN Stock Position Boosted by Schwartz Investment Counsel Inc. - MarketBeat",
       "source": "MarketBeat",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWhZZE1YV3ZzTWo0Tkl4TEVZZmNKTGJEVXRySXpaMGgxZmZFLW53d2Mta2IxYzJKT2c1RGtwMmNzUU5vMGp2OXQwS1kzT0dVWlpoZUNwc2ZtcDRybkF5bTR0SllrdlNJemNiR3Vrd0FWeU1JZVFhUE5nTlVpMTIxaGVDd1I3Zm5Fb3h5QVNPZXRIM3IzT3pOMkN4ejhkanN1bVBMSHhTUVNucG0tU1VHV3MxZldpa1dBdEM4NDFDaXB1QkplcU5uWUZQS3phQzZfWVE?oc=5"
-    },
-    {
-      "headline": "Is VeriSign Stock Underperforming the Nasdaq? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVl9fOGt5cl9jNmYtTnNRWW9tRkFBTVQ2S0pwNzNXeFBBRGhMay13MWs4UEw0cVhhMnJIUm5mbFZWRVFKbFhyTnpPcE4yaWdnb0dEaUw0cUR5MlFXSnlpeTBOcXctcl9IejJSVnByTDQ3OEJmYXNINU1vZ3hMcVg0THJXaDdrcmVTcGVBNlBXcnVocjIyQUpPa2VBUXpaMnVGM0thVw?oc=5"
-    },
-    {
-      "headline": "VeriSign (VRSN) Faces An Overvalued Narrative, Is The Market Still Too Optimistic? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTFltb3M2OGRKT0hsTXctaDRRdVBvNGNMYTc4RzZMcXFndUNoX0JzbmR4UHFqZ21LTHU3UmVsUDUzaWJGYnpCRkpoRUVhc1lPRFFTdGVJNXlrUlc0TlM3eVlYdnBCTFFOWUhJQ1d5SUExN0RqbVdDUEZneTR2VmNIa1JEeDFYeGhhTjd3R3NHLXZOMTR5eVpjOHNGb2FXcHprc3FmbWdFMjBMeGZnckxJWGpJXzQtMXVrUkd1U3ZCbkVvTUJBekHSAcsBQVVfeXFMTS1sQUtzUExmRXJmWXkyZ0lscEdLT3dHdGVQR20wYzBoTU0wY1JobWJFOVVQdUpnNG1nMVYtcmVuVUdCX293bW92T201NHRmRlB6dDlPa0pta2NqQzhQaTRPQlB5cVJrTVFYUW1jaHZjeWpUZ2tHRjNQNVpmRXY5ZzNMZlRHTG9KVTBPUU9TdUY3a196dzRlTDJSYVVGX0lSY1BuYkhTRVBMa2xzRWRSNDAyQWtETHNKLVh4Q3E4eU5pbzFIVFgyTFR2MkE?oc=5"
     }
   ],
   "insight": "Tracking Verisign (VRSN)."

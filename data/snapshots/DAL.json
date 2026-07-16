@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:43.169Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:55.549Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    76.47000122070312,
-    81.83000183105469,
     83.05999755859375,
     84.06999969482422,
     83.13999938964844,
@@ -24,11 +22,11 @@
     87.29000091552734,
     89,
     87.38999938964844,
-    86.19000244140625
+    86.19000244140625,
+    85.51000213623047,
+    85.95999908447266
   ],
   "6m": [
-    69.4000015258789,
-    69.05999755859375,
     71.81999969482422,
     72.22000122070312,
     71.6500015258789,
@@ -158,10 +156,11 @@
     87.29000091552734,
     89,
     87.38999938964844,
-    86.19000244140625
+    86.19000244140625,
+    85.51000213623047,
+    85.95999908447266
   ],
   "1y": [
-    55.709999084472656,
     55.560001373291016,
     56.34000015258789,
     56.290000915527344,
@@ -410,29 +409,31 @@
     87.29000091552734,
     89,
     87.38999938964844,
-    86.19000244140625
+    86.19000244140625,
+    85.51000213623047,
+    85.95999908447266
   ],
-  "lastClose": 86.19000244140625,
-  "oneYearReturn": 54.71190784030887,
+  "lastClose": 85.95999908447266,
+  "oneYearReturn": 54.715617278216314,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Delta Air Lines (DAL) Gains From Healthy Travel Demand - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3lIVVc4X1Q3M3FSZHlCYzRGVGNBQ2xiUmhKaEprTzZEd1FvbEVvSENwU0h5bV9LdG1Rdkx1NkRMNHdsczZxUG9vd1NLVmotX0pyNDlWdS1BbWxYRHpLWjc0aXU5XzNGWGg2R1BWOGppYTNpS01oN1doNzI2aTZWSFFGR19aNWszbGVYeHVaaHZDdURR?oc=5"
-    },
-    {
-      "headline": "Delta’s Higher Revenue but Lower Profit and Shelf Filing Could Be A Game Changer For Delta Air Lines (DAL) - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWN3bTltNm1UNk0xQjhPaVBTMjg5cEhoX25pd2cySHdDMXhSZUtUZ0Jsb2tmSWRXMjZGWUpCNm9YaWdyX3o2cXRiWUhHVHV2VHBtZHN1TjdJelp0aFctWGY1MHl5cnluQXZabEdCQVhYRElMd2hzczktQzJqaC1tazBQb0NSYVM2VUlSOXpnMDdHRkhMYTZIYjhmZU9nYy1WQ3E5RDZnd21vQ0Zxem1KUUZnbU5XUEF5LW9JUXh5LXRaeEhVamNoQlY4YlRCZGpzSUxV0gHYAUFVX3lxTE9WVHE2Um9XWS0zVlQwS3FhVXdfMWJOQk5EWGJrVU1MTzZzVXNrX2xTRzlPa19zS29OQWtFa1g2a1gzb2tVdjRzX3hGS0ttdmtFczF3bjhPNVdRelp4ZjB3ejQwZGljdnp5dW5fMzNBbXFYTTctZ1duRDI3OWNFRHRSNW11cEYwX3ExRjdDLWRQTm5ocWRIMnVURjBhOW1JOFNGSHVVZ25PZU81VFNzM0dZNk42cmdxMTd2R2ZtNHFOWjlMeVIyZnBpbmt3bVg3ZmZidVNZRTE2bA?oc=5"
-    },
-    {
       "headline": "Why Did Delta Air Lines Stock Dip More Than the Broader Market - Kavout | AI",
       "source": "Kavout | AI",
-      "when": "2026-07-13",
+      "when": "2026-07-15",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjRNV3p5WkhGTERNcFVxSks2TVhuTU8xUTJTWjlFUEVqQTB0ek1mdXFFU3ZUSk9pY1ctN1N1XzBlaDc3Mlhjd3p3cThUSjZ5bGhaTzNyVVdZYmdiNjk0Zlo5b3FFbFZoUkNBNVBzYUFpRUNrUzZ4Z2RlcndaOVBEcjFYTW5PaVdsQXdYMDRyRWxHdHNkVmUwMTJ5OUJnZw?oc=5"
+    },
+    {
+      "headline": "Is Delta Air Lines (DAL) Stock Outpacing Its Transportation Peers This Year? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcG9lekpVM0VYMWlralY2TGRjTTJ6VzdGMlVNNUg5ZTQ1SzBWZGVoX3N3LWdxZG5iaGdLMkQwVjBUVkU2TkJhcVdmSXF4VGMzTlFrekhsR1RuWXpwUXpQb291cG45X19KbVZrcFZmUC1Qcm9reFhZR2k0VmdzZGFncWUwTXhNWHQ0UkJoc290QUFjb2VQ?oc=5"
+    },
+    {
+      "headline": "For Delta Stock, Pricing Power Is Only Half the Battle - Trefis",
+      "source": "Trefis",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGR1Zm13VldkLUs4ZWZsOVJCU2VqbW5qaktkXzdOX09CRnUzMEV0aFV6TlpGa3d5VDRCb0xqdXlpSk1jUHgyZUhaNVV2bmlIYTJzNmFEbWszVWxEenNDa1VHSVk3VXlaWS1Tcld6LU1GOGxJcW5hSVU5SEFuOHdRaTE0dXNiS24welFPbmNSbXloaVJ2WDg0Y1VIQlVBSVVxQ2hlVzdqWmtDVDMtSnpjdk92TQ?oc=5"
     }
   ],
   "insight": "Tracking Delta Air Lines (DAL)."

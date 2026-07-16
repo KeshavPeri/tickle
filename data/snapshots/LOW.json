@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:28:01.373Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:18.638Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    216.19000244140625,
-    221.0500030517578,
     220.77999877929688,
     220.19000244140625,
     224.02000427246094,
@@ -24,11 +22,11 @@
     212.85000610351562,
     213,
     211.6300048828125,
-    207.6999969482422
+    207.6999969482422,
+    207.67999267578125,
+    209.66000366210938
   ],
   "6m": [
-    241.16000366210938,
-    246.88999938964844,
     244.75,
     246.49000549316406,
     247.1199951171875,
@@ -158,10 +156,11 @@
     212.85000610351562,
     213,
     211.6300048828125,
-    207.6999969482422
+    207.6999969482422,
+    207.67999267578125,
+    209.66000366210938
   ],
   "1y": [
-    215.00999450683594,
     216.60000610351562,
     218.5800018310547,
     219.16000366210938,
@@ -410,29 +409,31 @@
     212.85000610351562,
     213,
     211.6300048828125,
-    207.6999969482422
+    207.6999969482422,
+    207.67999267578125,
+    209.66000366210938
   ],
-  "lastClose": 207.6999969482422,
-  "oneYearReturn": -3.3998408191956577,
+  "lastClose": 209.66000366210938,
+  "oneYearReturn": -3.2040638254135336,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "LOW Paid Holders $47 Bil While The Stock Went Nowhere - Trefis",
-      "source": "Trefis",
+      "headline": "Why Did Lowe's Stock Drop Despite Beating Q4 Estimates - Kavout | AI",
+      "source": "Kavout | AI",
       "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM3B6NVRqbmdDTWZ0akFiTnRvNFpVNzRsZXZhVnBOUEJfZEs2X3Jmd2RtZDE3V2hGLTh5ZGNmSFR0U09KTThBY0lsQkk1dXNNamM2TVFHRkhnVUt3QnBRMmtzbmpoR1c0aUdGQkk5TkFlZGFQdmlFRENCVUZkY051RjlmRXJmNmFaZDJOX0RLYnJaWnUtNGZzcklxNmZvM202VXN6T2xXRmlFMEFWN0FXWkp3?oc=5"
-    },
-    {
-      "headline": "LOW Stock Payout: Why Lowe’s Remains a Regal Long-Term Dividend King - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPME1PZ3djVDdJS2pheXU3YkUyOFFNTlREZTYweHdjSDNCb3p1VWVVbFV1MnNNUExsaTlYRFRrb2F3T3dTVFhTNDlFeGNhRUNZandtRTZYWnB0MHlwRVNfSmUycHNPa0RrMU9zaTBUaXNkaXNPRmlrN01IeDM3QngtVElNeU1iN3NWcE9ud2l2enAxU1ptSkZB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT0pzTlg3NV9lN3JoUHpzNEdkVnVxMmNlN0N6ZzRFeUlNb3QtWGNNeU4yX3RHWWNXWjg0TDhROVBNOVRPTktlU0tld0JJTDBrSWlNbnhtaGgwTGtCeXVCVWhQU1I4a2ZESTNSSHNkcGxMa0xYR3JUOC1DYXhGeHNFeHJrS3dzeFZaclAyWERXYkZiYnM?oc=5"
     },
     {
       "headline": "Lowe's (LOW) Stock Looks Fairly Valued Despite 2026 Growth Push - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-12",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTNxUU1QQW5VZVliRXN1NDhUYS1UWHd3bmJCbE45dHNVTHNyS2FibkpoeDQ1LVE5YXdLSUtUY0QyX3lrUTZoVFJWazJld3JtR0pZa0tCcEJpc2JxSlRZOVRfWW10cGpfTGktM2ZNanpWRG9nNmxfM3FtRVU5Q24xV0lJTFVRQktUWjJQbkFnbUJ2Y2JPRnhZdQ?oc=5"
+    },
+    {
+      "headline": "Precision Trading with Lowe's Companies Inc. (LOW) Risk Zones - Stock Traders Daily",
+      "source": "Stock Traders Daily",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMEtDME5ob29XTE14YkFqYTM3SUM3aG9yNHFvQWhiN2hMd2ViT2pNTlhxTEMzcFNkMFRTMjB6cTJ2Uk9ZZjBJTnRacm1kT2ZSUFVGMU84UDZvUXo0Nm5uMEN2Q2YyZmhaMUdwMGIxS3ZWMjZEY0xTb2JfVElZZEQzcWFsemE1TlRnSkU1Q3VKd2g3Z1hUUFZyM1VUSThMUjE5YzJVVkJwYkVOeVpMbE0zcjM3NnBqaDBjellfMURRbzNrWWtGRUpfVFctdTl0NDF0YlJRMkhGcFQ?oc=5"
     }
   ],
   "insight": "Tracking Lowe's (LOW)."

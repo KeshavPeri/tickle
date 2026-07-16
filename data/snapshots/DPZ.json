@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:45.035Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:58.358Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    314.7699890136719,
-    312.260009765625,
     323.8800048828125,
     316.5199890136719,
     320.510009765625,
@@ -24,11 +22,11 @@
     302.3500061035156,
     300.8800048828125,
     299.4599914550781,
-    309.8500061035156
+    309.8500061035156,
+    309.8500061035156,
+    310.8699951171875
   ],
   "6m": [
-    416.82000732421875,
-    425.2799987792969,
     411.44000244140625,
     406.5,
     405.5,
@@ -158,10 +156,11 @@
     302.3500061035156,
     300.8800048828125,
     299.4599914550781,
-    309.8500061035156
+    309.8500061035156,
+    309.8500061035156,
+    310.8699951171875
   ],
   "1y": [
-    465.3900146484375,
     465.29998779296875,
     468.7099914550781,
     465.95001220703125,
@@ -410,18 +409,14 @@
     302.3500061035156,
     300.8800048828125,
     299.4599914550781,
-    309.8500061035156
+    309.8500061035156,
+    309.8500061035156,
+    310.8699951171875
   ],
-  "lastClose": 309.8500061035156,
-  "oneYearReturn": -33.42143227168703,
+  "lastClose": 310.8699951171875,
+  "oneYearReturn": -33.18933950724571,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Stocks making big moves yesterday: RXO, Progyny, Cigna, GoodRx, and Domino's - StockStory",
-      "source": "StockStory",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMzBWb0kyMU5tNEotcFRxSVBHbFpXaTFVcE1tZGJBWUs4WkI4VDVsWnNVYzZHb0EtT2NRZjI5MGQ0S3l0dUVrREtlN2hLOFNVaXUyVVQ0ajZ4alVHMlBONjRLaEJ0anp1d1lwbmFHRmZCMS1rUmtjVEV6ajJtUU8zSTk1VDhBRFFDVUlaOEprQ3VySWRPUDhrQXNTTFBaZGpPQVRhMTVCcHN1Tm9OemlfaklOUTBtLTA2djFDMGdVWkRCUnZPUDNySmx0NHdYRUlzT3RKLQ?oc=5"
-    },
     {
       "headline": "Domino's (DPZ) Stock Is Up, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRndvZlJYSTlKREhrNEJaYVVsNFVFVmtvVzNYNndMM2ZGeS1hWDNpU2pLdDJEX3htS0JvSXk5Y0tQdkhqT3lPLTkxSVlRWFV4STB2QTllQ19jNXRlS1UwWlRFYUptRHpDNDQ3TlM1Y1RqV2tldEx3UW05QkxWNlZRS29NeTl6ZTV4UmFtVHRkQ2Y?oc=5"
     },
     {
-      "headline": "Mike Creedon, Anneliese Olson join Domino’s board; Barry elected lead - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcHhXUEpaUklUaHoxVTZGb2dzWmRZUU1OTWk0TUlVS0NxZkFxcnFJMHQxLTRJYzNUcFpJZmFCUk9pbTFVUVRQZG9RSzdNRUZtUDFVSWk5cWg2Z2RVMFh2YnNNdjZrQllsazVLcFAwTzh6bmRJVzd3ZldlUEU4REtidnJSUDhWY1RuMFJVRk1nMVdseEtDRklHN1VzalVNSGxYZFVUbzh5d1FtTjhTeWhiYW44bw?oc=5"
+      "headline": "Domino's Pizza Inc (NASDAQ:DPZ): A Quality Dividend Stock with Strong Growth and Profitability - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT1RoZWxDZzBtdVJLQjljMDdscDRRbDg4NGM5TzhKeVhlbG1rT3dwWmNEN3V4cWR3WEhsYTg2b0FuaEl4RnVvZjhaaDJjX1ZNUHc2b2h3NGdIem9tdDNSUE5ackxnV0liQVhyTnJOMmFFRUluX3poSUpISEFyREdXd3BBOUJuMS1pRmNoX2VKWWtsZm9TUElmdl9lUkhIQXFBU2xfZ0RGQVZwT19PcW5raWt3VUg0T01KTzVFb0Y3MXliWHVxdEhOcWt2dTJHZ1BPeFNZXzhfSQ?oc=5"
+    },
+    {
+      "headline": "DPZ Stock Pops Pre-Market As Domino’s ‘Hungry For More’ Strategy Drives 32nd Straight Year Of International Same-Store Sales Growth - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMlhScVl2dHZ4T2ZMY0cxU0J1aUpRQjdKcHp1RUg3NzZ5YXNJbmxRZUVmMkJ4VkhmTXJ3WEU1UEZWR09Gby1naTFQTkY2azFvR3VMUTZDbnNiWkRndzdNa00tZFZJdzhfLUwyTVRyZnBiYUJBcmdGM0JfNzlkSnB2TmljWUNVdktMdWxmVGdCVTNWWk5LUUVtZWZRMnY2SmpwRnYzLUJJWkl4bktIazdCYVJoekdSRVRxZlI1WFRYazdzdDg?oc=5"
     }
   ],
   "insight": "Tracking Domino's (DPZ)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:49.840Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:03.663Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    46.029998779296875,
-    46.38999938964844,
     46.56999969482422,
     46.099998474121094,
     46.04999923706055,
@@ -24,11 +22,11 @@
     46.5099983215332,
     46.349998474121094,
     46.4900016784668,
-    47.04999923706055
+    47.04999923706055,
+    45.7400016784668,
+    45.36000061035156
   ],
   "6m": [
-    40.130001068115234,
-    40.439998626708984,
     41.150001525878906,
     41.540000915527344,
     40.61000061035156,
@@ -158,10 +156,11 @@
     46.5099983215332,
     46.349998474121094,
     46.4900016784668,
-    47.04999923706055
+    47.04999923706055,
+    45.7400016784668,
+    45.36000061035156
   ],
   "1y": [
-    45.130001068115234,
     45.599998474121094,
     45.880001068115234,
     46.060001373291016,
@@ -410,29 +409,31 @@
     46.5099983215332,
     46.349998474121094,
     46.4900016784668,
-    47.04999923706055
+    47.04999923706055,
+    45.7400016784668,
+    45.36000061035156
   ],
-  "lastClose": 47.04999923706055,
-  "oneYearReturn": 4.25437208841949,
+  "lastClose": 45.36000061035156,
+  "oneYearReturn": -0.5263111223693019,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Fastenal Stock Drops, Then Pops After Earnings Report - Barron's",
-      "source": "Barron's",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hT2lQd2dsLUtzRlFBSmZvekU4TnFhNTZJMWRfYmljR2RkVUdmM2FZRUFpQzNWSnVtTUItTW55bVNPdHBKQ2R0Ukx0WnBWVVFHZjA1TElFckxkeWtjM0h6ZUZsdU01TEl1VzR3MEpBaGI1NmxoWGt4OFFYTQ?oc=5"
+      "headline": "Fastenal (FAST) Stock Q2 Earnings Growth Outpaces Revenue And Supports Bullish Margin Narrative - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT3UtYlJtMmRab1BwWTlGLXgzZmtsQzBDLXNMYnl0Q1BEYmtoTTl3ZGZXcDNsSGo2c19rWWZDRGN2NE5BcWJWRzZUcTkta29Xc2RiT0FScTR2RVJkUWxmWEZjQ09lVzZoNmtTWjkwZ3Ftb3k2Y0h3enpucElodC1BdEF5YVF6VlJPSExhODNsX2d4UzRxUEZ4c1VSWWRjenp0LXI3Z0wwd1lDTkxNb1pKdU9PU3l1NUJMRkVZNm5VX19YUWNMcGNVeEFTRdIB0AFBVV95cUxNY0dsUkd1QVB5WHNoSDNYNUNXazBTV0xOWU5pN0ZQVEFwcnlhbkdRVDc2UDFuUTJaS09GVU1FTmJyRV9UVHhsWTZqSElWNjkxMmxiTmtCc3FnejZFRHRlNEE5eUNJNGRhT2NEUGdKSHhGMlpSbm54YnhHR2hhWkt2Yk5naWNEdnNwZHkxLXczcFJiOHB1dE5NQzdFeFVxaEgwa0lEUHhkUDE2R0hKWnI4ak1VSXV3Y3BfWVltaElGQ3JFdnZZTk56UlZMRF9wODhj?oc=5"
     },
     {
-      "headline": "Fastenal’s (NASDAQ:FAST) Q2 CY2026 Sales Top Estimates - StockStory",
-      "source": "StockStory",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObllZN1VWeUNaWkNLU3lqd3k1bGxDMGZMTVpSQXQySWlDNW1xQUJwbDVncmY1ZXZXWHlZSmRma3IzalJZcUlDNVJPZ2xQVHp5Wm44QlAwZEtLQUdldTNMRmF4Y1Q5YTlZbzRSSm5VV0hXT1lhR1BlSmY3a2xpcnpOSjdRUVJrUm81d1FGSG1rem4tUnJlZWZDS3haRGpnSVNGdnJ4cGFkVERxVjM3d3c?oc=5"
+      "headline": "DA Davidson reiterates Fastenal stock rating on margin pressure - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOblotWTRiODI2bjZZT3Mwc3N2d3BGelhVZmFidkptTEZ1aXdjM1pJanRsblVsVFVTWVlaZXZjSHdRSTNSWFNxLVlVSlJyLUNpREZpNFMwSXJXVGhDVi1Qck5LXzRQOXIxMzhDd0I2TjhESE1neWpFVndCM3E1MFJGeG84M3Z4SDRlWlJISXB3UEdIcVVVNC1QbzNJd3pNUFBPVFJlcDRfY2pCSkFZdjRrVzVENVppZUxUVjdUUkJCLUI?oc=5"
     },
     {
-      "headline": "Why Fastenal (FAST) Stock Is Down Today - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYmFNd2pQM1JvbHZSOUdTN2tuMkZUTlFQQ0pJUUhuWktWQVcxeHlDUmpaNS1SNmxCa3ZUdndnb1JJa09Tc01oUG1hOG5MNlhoQ1ZUeFA1SG1VOXItS0d4bHJQUVdDNG45eVVHc3pMOUwxQnZqSk8ydFkyQjFkdUZhUzN3?oc=5"
+      "headline": "Fastenal (FAST) Stock Looks Rich Even With Margin Hopes - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-11",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0pqM2NaeGdOYmRjU2x2d0xic09fMDZRMktjWkYtVXplSHhEUnFLVzNLVTdJMFFRSnBfak12OFQ3cE9aUFZHR1NIY0l0ZnV1ZmVEX3hjZS1TU01BLTUzRTRLRlhZSWstaUNtQ0NNbzBRSGdzdm55UVc5ZDlxdHhqNi0yR2p1V2VrTVRaNFlOVnlLcFhPbEtETm9lYw?oc=5"
     }
   ],
   "insight": "Tracking Fastenal (FAST)."

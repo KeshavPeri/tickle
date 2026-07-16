@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:53.901Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:09.295Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    98.43000030517578,
-    102.26000213623047,
     103.75,
     104.63999938964844,
     107.2699966430664,
@@ -24,11 +22,11 @@
     124.7300033569336,
     124.2699966430664,
     125.62000274658203,
-    123.5199966430664
+    123.5199966430664,
+    122.16000366210938,
+    121
   ],
   "6m": [
-    122.95999908447266,
-    124,
     123.37999725341797,
     124.5,
     122.55999755859375,
@@ -158,10 +156,11 @@
     124.7300033569336,
     124.2699966430664,
     125.62000274658203,
-    123.5199966430664
+    123.5199966430664,
+    122.16000366210938,
+    121
   ],
   "1y": [
-    122.2300033569336,
     122.55000305175781,
     123.52999877929688,
     122.91000366210938,
@@ -410,17 +409,19 @@
     124.7300033569336,
     124.2699966430664,
     125.62000274658203,
-    123.5199966430664
+    123.5199966430664,
+    122.16000366210938,
+    121
   ],
-  "lastClose": 123.5199966430664,
-  "oneYearReturn": 1.0553818626395681,
+  "lastClose": 121,
+  "oneYearReturn": -1.2647923403993582,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Schwartz Investment Counsel Inc. Has $37.94 Million Position in Genuine Parts Company $GPC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcVk3bVZ4R2M0SmJhVlZSc0ZDQjJOWmhBc2JDQWdvUjQ3eHJPb1BxaGIxbndlZV9RWkdJbHFScnMwRl9ZbzdWMjZzODZ6c3Y4clA2R1cxcGp0Q1habUpsT1FPdkVIM3ptQ0JUSGJZNlljdlJIdXNSTEdacWc3cXlSYUtNYjFVZmhhTk5kWWN1WWlaM085UTJheXROQ1doTEhMSjhzd0diQnAwYmJ4UVpNS2pxMjN2MTVnODlWeURjMmUzdlhhVTJJSkp5MU9KZVhaRjEwNkJ1Nm5Udi02bFNVeg?oc=5"
+      "headline": "Flight tracking shows O'Reilly/Genuine Parts transaction more likely - analyst - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd004WVpxaFYwQlUxUWRhUVZNZXAzRi1kekJyQ21tTzR6Z2ZQQXhQa0x4aVp2eEh6aDB6bHFVZ2N1aUdrZGoxUF9meE5oR3ZCS0d2Y1Y4OGFZS1UzX0dfRDE0TFgwZWl6dEttUzFTUHViNm1vQ19PMGFmZ0dLYmU4MndYVjFMWFI5b3AteHUzYXlsUDhrRTJ5cnRXMWxpQl9LdEwtbXFMZ19YeUQ2SUVqaHZB?oc=5"
     },
     {
       "headline": "O'Reilly's $10 Billion Bid for NAPA Sent Wall Street the Wrong Message. Here's What It Actually Missed - Yahoo Finance",
@@ -429,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1RQQ0M0RFpRNjdNUVRoTDExc25jSW5kZ212bE1CUlVfTmUwMXZFa0F1RjNlZTNiNGJtMmp6UFM3SlAxT2ZIX0NCOHJzMGc2QjR1VjJ4eGRCdW5MZG90dTc5dmNwOXRyVmlKZTVqelA4WUdLdHJCQVNwTWFfNld5R2NZSXhnQURfWVB2REtUSGJfQy1xb2FlWA?oc=5"
     },
     {
-      "headline": "Genuine Parts: O'Reilly's Rumored Bid Builds Speculative Upside (NYSE:GPC) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-06",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTTBtSG1VeG1WWlhXTjloUXlucVZRQlRKOEszWWFoNWxkZmV5RmdoRU02N1M2WHJDNFY2LVNFcW1qLUM1eDY3azB0ZXlwSklSdS0tRUpiZkkweUdZYzVZeTNMQmRuUmMtdTk2QkFWRnVyckI2RHZ4ZmpCOHdSN29ENHphaGItczBiVnVOcDhwMFJNQ3FCTi1KaXZ2NTZsVWh0Ql82Nl85S2FCUQ?oc=5"
+      "headline": "Paradiem LLC Buys New Position in Genuine Parts Company $GPC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTJzNTlTa3plcjlHQklyb09JMHdMdmdocFQ2Skhmd25zcDJuamVfbVFEQngyY2lwMjgtcHUwU0RnNF9MX2l2Y2RxYnpHMFVCNkg1Y0FhU2pabG9YdFRxUklYOGRyQWZub1poOXFUR25iZnlfTVF2c0tsNVVTV01EV1BHMlBnTFkxbFRqeWtsU0JLSHVSWndQN1lCUEVGZGtDeTUxcmREY0JJLUp2QzVDek5PMGpnempDa3c1Rg?oc=5"
     }
   ],
   "insight": "Tracking Genuine Parts Company (GPC)."

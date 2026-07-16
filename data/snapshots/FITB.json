@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:51.018Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:39:05.213Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    52.650001525878906,
-    53.41999816894531,
     54.72999954223633,
     53,
     53.439998626708984,
@@ -24,11 +22,11 @@
     55.7599983215332,
     56.540000915527344,
     57.06999969482422,
-    57.18000030517578
+    57.18000030517578,
+    57.04999923706055,
+    57.939998626708984
   ],
   "6m": [
-    46.810001373291016,
-    47.709999084472656,
     48.619998931884766,
     49.779998779296875,
     49.16999816894531,
@@ -158,10 +156,11 @@
     55.7599983215332,
     56.540000915527344,
     57.06999969482422,
-    57.18000030517578
+    57.18000030517578,
+    57.04999923706055,
+    57.939998626708984
   ],
   "1y": [
-    42.77000045776367,
     43.04999923706055,
     42.61000061035156,
     43.029998779296875,
@@ -410,29 +409,31 @@
     55.7599983215332,
     56.540000915527344,
     57.06999969482422,
-    57.18000030517578
+    57.18000030517578,
+    57.04999923706055,
+    57.939998626708984
   ],
-  "lastClose": 57.18000030517578,
-  "oneYearReturn": 33.69183935745408,
+  "lastClose": 57.939998626708984,
+  "oneYearReturn": 34.587687929225446,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Fifth Third Bancorp (FITB) Stock After Strong Multi‑Year Run Are Valuation Concerns Justified - Yahoo Finance",
+      "headline": "Fifth Third (FITB) Stock Stays Reasonable On Fair Value Yet Rich On Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-06-27",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPam1OM0ktNkVDRmRwWnRjcl9IcE9NaHZtZEtBSjVEWVkwNnJMNHgydGpwR1pJR1NfTGVlQU5zc05vMEdmMkdEYzRkcl9PajctQTJRQXJvRERlWnR2cnNEYXlsUTZDV296d2IxbERZdDcybU03TTlhck5oMENIU0lwaE95LWk1RjlVLU1fSVJxcDZfWmFHbTFRX2h5SQ?oc=5"
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUlKOGFVZTFJTGtyWktwUmJRWktEQzdWRF9obExRdVRjYTF5dkpqeHQtRklROFJVV3U1NnM2NjVDT1cwQXc1T0tYN3FkTG9XM0xTM1pxNnloYTdtcW40bWszVkdwQWx1b2VNV19uaVN2blp5UG53dDF3UjBZQ3U0eFlQNTdYbnFHRGNOZUpVSVJOeGNaU0N1Zg?oc=5"
     },
     {
-      "headline": "Kestra Advisory Services LLC Raises Holdings in Fifth Third Bancorp $FITB - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQmo5eXNBY1c0RFYwVndoRm9BNXZiWl96NXp3Zl9fdTloOEVXdklxOUhERHhVSHJJQ3NVWXRQRWphd2dMSTRVM1RxSExkUVZpSWE2MTJQTTJCbUZBMUZZR0t6REdaNzZUT0RFS0MzNmY4NTdFbjg0bVZmOHpMSzhyTGRVZndxYnZhb2swX3dWNlpuUElMRkhBTTRUem8ybDg0RHBXZWx0bW1qdnlkWjQ2bkJDVXpPNUIzZTcyTFI2Rl9kTktWVUh6bWxtQmo2UQ?oc=5"
+      "headline": "Fifth Third’s Treasury Awards Might Change The Case For Investing In Fifth Third Bancorp (FITB) - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOXhVb3dDRDkwOXpJMTFUN0V1RjNuWm80MVhXNktWMVJqSmFtVms3LVFqTmRWV09PN2VXTk5iYWp6Vk1NbWJlTHRoaVFJX0tFajdnbldsa3FHcE5EZEV5M2dtUVBKSXJBSEJudXVkVzAtYldvU0ZrS1FKMnlVWHE3SXNWLXdKRVlaRk04NGQ1a0RUUTZCYzI2a0ZKWXZ0VWh4Sm9QLVRLSHNoTmVEUS1hU1N2RTBPelFPVGxfVTRxTGtZeXpwdlc5c2tkamRjd9IB0wFBVV95cUxQaGt5d1ljazFwbHUwS2MwNzFpSHRuSUE3QWRRdWJTQXNwR2J3NmxFNWFRU19ET2J3N3dWbE1LV25TaS1Ha0VhY2F4YjRfbThObGVTVzVsN0kyX2REbUU1akdTdFNFellfaHd2Zmd0d2pTMFZtSktiQlB3NGczekd3dmFsbnN6UVJYUWR2ejdWbk1PTHVKSlZGR25mcmhET0FuT19vRDNKU1VQcU5ZNjliMWhNYkhfNERpcXVnbEVFbUs0N1B1d0phckhlT3JDbG5VVXpr?oc=5"
     },
     {
-      "headline": "Fifth Third earns cash-management honors for a third straight year - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTNuUk9jeWxrdG95a1htY1p5Qm51cG90U0VSQko4Q1ozZ05VdlRVMXV0WlJ6elR1U1g3bzdHWDVjc1pCUXZjcDI5Y18xZ09kSG40S04xU3VTMHhndURvYy1jWVhzWGhweHYzUmpyR3g5dHpiYUoydTdETEdlbU5qQ2FKcmxTSTBFejZMTm5IVXVCTmVLTDNybjRzM3pSWU15anEtMExtUllRcVYxQjJzNkpjb3M0eHZVQUZGdA?oc=5"
+      "headline": "Fifth Third Bancorp (FITB) Wins Treasury Honors Again, Is The Stock Fully Priced? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmlNYWp0ei00SlRyeDVsS2NzY3YzT1h4M3R4UlJzVjJ6cV9hU1dkQkJvdWJOR09tU0dnWXRndVFIT1J6RkJVNWRNcXNmVjlnVEZCNnhQYTh1VUlmT2lGSTl4TExqRUd5dlZjS09vcF92ZjV1bVJ1a0ZucE5PdnNJX1VQVzZzWktoUlhqdHh2VFZmSmNiQUFzcTVB?oc=5"
     }
   ],
   "insight": "Tracking Fifth Third Bancorp (FITB)."

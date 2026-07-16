@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:32.385Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:43.089Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    186.58999633789062,
-    184.36000061035156,
     187.02999877929688,
     184.47999572753906,
     184.72999572753906,
@@ -24,11 +22,11 @@
     189.1199951171875,
     189.4600067138672,
     191.83999633789062,
-    194.52999877929688
+    194.52999877929688,
+    191.75,
+    190.2899932861328
   ],
   "6m": [
-    181.30999755859375,
-    180.47999572753906,
     180.27999877929688,
     183.74000549316406,
     179.5,
@@ -158,10 +156,11 @@
     189.1199951171875,
     189.4600067138672,
     191.83999633789062,
-    194.52999877929688
+    194.52999877929688,
+    191.75,
+    190.2899932861328
   ],
   "1y": [
-    199.47999572753906,
     201.86000061035156,
     202.1300048828125,
     202.6300048828125,
@@ -410,29 +409,31 @@
     189.1199951171875,
     189.4600067138672,
     191.83999633789062,
-    194.52999877929688
+    194.52999877929688,
+    191.75,
+    190.2899932861328
   ],
-  "lastClose": 194.52999877929688,
-  "oneYearReturn": -2.4814502979051447,
+  "lastClose": 190.2899932861328,
+  "oneYearReturn": -5.731698845355809,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Avalonbay Communities Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUUkxaU1PclNhUzlDVlA3UzFkNlBydnlGa3h0b2dWSExaX1R2SThnWDNuM0daLW15OEhMeFlBd0RXTVJlTmM5YnNzZnBKV3I4WHM2dERPMHJfM2k3bGVPd3ZaOVNITVN0RURDaktUTldoQjBNV1hueWh3T2VidEVvRU0xeTV4ZEdybUNNLXFsYzdScGVncm00OWFkenhLQjhzUENDUFRKbEw5eHc3cE1wclFXSXByT255eWVFZHVXbThhVkEwVU91WE94eHBsSUZXd19JaFhKbG5DMDNvUWFZSE5MNm1yWm5SRFoya192MW4?oc=5"
-    },
-    {
-      "headline": "AvalonBay Communities (NYSE:AVB) Earns \"Equal Weight\" Rating from Barclays - MarketBeat",
+      "headline": "AvalonBay Communities (AVB) Expected to Post Quarterly Earnings on Wednesday - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQby15d09YSGZxNUhaeWN5V0hXc0czQWVFTld3WF92MmhleE5XYjJyaHczeUlQU0tzZjhrRW9mX19DMkJMY2d4NnpUWnVacEpuVDNoUTI5eF90cUZWbk1ZS3NDVlNISUdIem5zVTR4OGM3TDV4SllhS1BSaHZ3dllYOHdSS2l3LXpjU041SURGLU1nYkpnb2xwWV8ybWxVTl94WEdwUkt5ajNXTVhOdEJMX3BhaXFSR2ZWYkU1azhjUHg?oc=5"
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWnFYc052Ny1hVXByczREZHN0clZUejFoTVRqWDduXzAzWHBzQnA5XzdmMm43bm5waHFWN3ktVUpuUjNLdkRaa2pneTZUNV9xMTFjUkdJZVdYMW9JVENCaFk2d040cGl6bTNFYnE3d0VTM1dOcy00LTR4R0JPeUxqYTJtZ2NXNVkwYVoxWU1fMkR2VVoxeXVOMFN1ZXhJZldBd2VUR0dzR01ZcGxwTXllUjBMVE4xZ3BQbkwyMUJyWGoyR1NiRnlF?oc=5"
     },
     {
       "headline": "Barclays cuts AvalonBay Communities stock rating on merger concerns - Investing.com",
       "source": "Investing.com",
       "when": "2026-07-14",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNEpqMzU1YnZ6ZnlZc2h4ZnhGdHpyNWRsdzhvNTZ4ZmxFdTZlVFlhN2RBeFRkTHRoNUJ2N3BQZFpnQmliRmtpX1hXZGlobS1WRVltSXVJZkNHMktQdC1YTlJRdXZCbEdJYkswSnBsTFFnQ2owTGhvRVJqUWoyc01ubjAtRFpZSE9DWTBFaThTZlBHRTFQeTE0clpLc2ZSRWpWRzZ4QWVjSlFfOHI2Q0theTRwUFhEMm52RVdGN0phUmpVMHRXWFE?oc=5"
+    },
+    {
+      "headline": "What You Need To Know Ahead of AvalonBay Communities' Earnings Release - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFRrSkR2STFsZHg1dndsOXpPY2Jmb243RTgtLTYwemhrS0FXeC1sNTl2RkI4cUlXUjFZN0daZ2lYMExWUjhVRkNxVVFkTHBhS2U1LW5MTWxNWElHcHNnNUwwUkZsRVd1TmVxTUpMY3JqUFFfNnBGanlPdjd2cTNScElILWdNVTdySUl4VVRrbjJIOVR3UnNOa3loajY4ZG9OcEpFWVlB?oc=5"
     }
   ],
   "insight": "Tracking AvalonBay Communities (AVB)."

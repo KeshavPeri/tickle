@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:35.596Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:47.124Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    48.34000015258789,
-    47.16999816894531,
     46.90999984741211,
     46.7599983215332,
     46.91999816894531,
@@ -24,11 +22,11 @@
     44.810001373291016,
     44.9900016784668,
     44.77000045776367,
-    44.650001525878906
+    44.650001525878906,
+    42.630001068115234,
+    43.040000915527344
   ],
   "6m": [
-    95.3499984741211,
-    94.70999908447266,
     95.4800033569336,
     97.79000091552734,
     98.6500015258789,
@@ -158,10 +156,11 @@
     44.810001373291016,
     44.9900016784668,
     44.77000045776367,
-    44.650001525878906
+    44.650001525878906,
+    42.630001068115234,
+    43.040000915527344
   ],
   "1y": [
-    103.4800033569336,
     103.19000244140625,
     104.6500015258789,
     103.63999938964844,
@@ -410,18 +409,14 @@
     44.810001373291016,
     44.9900016784668,
     44.77000045776367,
-    44.650001525878906
+    44.650001525878906,
+    42.630001068115234,
+    43.040000915527344
   ],
-  "lastClose": 44.650001525878906,
-  "oneYearReturn": -56.85156544509604,
+  "lastClose": 43.040000915527344,
+  "oneYearReturn": -58.2905321278905,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Boston Scientific (BSX) Stock Looks Cheap On Earnings While Returns Stay Weak - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcU4zLUg5UGIzUUVxVlg2TkY0U2ZReVE2NjkwaGRENGl4MnllMmw3M1BGdUJjY2dLV0ZwV0VEbGh1TlNWd29IZEZMNW5UZ0dhTV9ReTJOczloa002SWN5Z18tY3ZOelhTbVZKb2pQYTY3WVNOU2tzOFZITFpNUl9XdmdlQlBPeUNwOWdGemJYV3R6Y1ozOE54SWVTeTEzNE5LaTRqWVJFLWF0VFppSVhLc3YtZFFYUmhDNHhINmxKRnk3YllUOXljcm1iaVBkeXFa0gHWAUFVX3lxTE5HLTdpYURuMDVRYnd4QW54a2hzQkdkcEF0MktBNjhrai10azhWdUN0WW1KUUdKLThnTXByQ194SWZsNFdyVl91N0w0R0pQNkZUV3dRcXhORDk2UFF6RS11UzYzakc5RnBiQVZneVhjR2N3RmJBbUl6dklra0pFNkdsSWpHdU9YaURWS0hXMm9vX0VORDg4dS1BbjFkTG9TVEs5LUxBMkc2SkZpZ2pPU25FNl9xX1lpbGtXVlp5c1hWN0g3TjZ4SzNNSjRBdE9KNUJSWW1LR1E?oc=5"
-    },
     {
       "headline": "Boston Scientific (BSX) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance Singapore",
       "source": "Yahoo Finance Singapore",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYU4zNVByS0dTdndfQWduMlB4bVFHaWFvLUJNVGNkVXgtc3R0cXNKOVAwS0ROQVQ0Q2t5ck5HVmcxVndPSFZwdmJESG5rQVRRUklGZ3d1OHYwWk1wZW1xeV9ycG1rV2sza1hRWXZicVJhLUFtY0hURlJVbDZRaEYxbzAxVWo0NVc1VGc?oc=5"
     },
     {
-      "headline": "Boston Scientific Corp. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "Boston Scientific (BSX) Stock Looks Cheap On Earnings While Returns Stay Weak - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORy03aWFEbjA1UWJ3eEFueGtoc0JHZHBBdDJLQTY4a2otdGs4VnVDdFltSlFHSi04Z01wckNfeElmbDRXclZfdTdMNEdKUDZGVFd3UXF4TkQ5NlBRekUtdVM2M2pHOUZwYkFWZ3lYY0djd0ZiQW1JenZJa2tKRTZHbElqR3VPWGlEVktIVzJvb19FTkQ4OHUtQW4xZExvU1RLOS1MQTJHNkpGaWdqT1NuRTZfcV9ZaWxrV1ZaeXNYVjdIN042eEszTUo0QXRPSjVCUlltS0dR0gHWAUFVX3lxTE5HLTdpYURuMDVRYnd4QW54a2hzQkdkcEF0MktBNjhrai10azhWdUN0WW1KUUdKLThnTXByQ194SWZsNFdyVl91N0w0R0pQNkZUV3dRcXhORDk2UFF6RS11UzYzakc5RnBiQVZneVhjR2N3RmJBbUl6dklra0pFNkdsSWpHdU9YaURWS0hXMm9vX0VORDg4dS1BbjFkTG9TVEs5LUxBMkc2SkZpZ2pPU25FNl9xX1lpbGtXVlp5c1hWN0g3TjZ4SzNNSjRBdE9KNUJSWW1LR1E?oc=5"
+    },
+    {
+      "headline": "Why Did BSX, LI, BJ Stocks Hit 52-Week Lows Today? - Stocktwits",
+      "source": "Stocktwits",
       "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX1ZDOFZLYUVBQmNNUGY3MDV3d3Vyc0s3Ymd5TVlCSmtwa0k3ZDRWcnhBOU4zclNDcHRJVTlVcTlIemt4M3BWWnZmLWNPU1ltTzB1Ri1KOXF5Xzhzb1d2bGhocTVMN3VQMlNpN0pRNVJfeFJZSTFyYXFrWG54WTlYcDZVVTJYQnFxWmZlMWNaTHZka3EyQjJQS3JxZEQtSWhIaG1OdGVQcXJid2JNWXF4QXVMaEI2UURPcExEdFJxTjJ4YjVkT3pCc25LQnBiNUdRQWRKVWtkNUl4Q0F5VXo0a0kxZkRCLU9aZWRXZzB3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzBzcVQ5WkxyNmhoS0NvQnFLZ0RnT3FzblZjYTdaNzNXWUhNWS1lMVZCZ0JhalJQSmZCNFloWFZmakNTSUtpc2ZqODlQbGstQk5VaFBpMkplc2RFWnQ2Y2V1d2QxelZpUzF4a2wyQVlqa1o1dGtQUHJRZllCRW9INTViUEhjcnZPdDEtZWotZjQxZGdpQU5kTWxzNXdOdmxPSzc0NFhkN0taWTNra1pmUQ?oc=5"
     }
   ],
   "insight": "Tracking Boston Scientific (BSX)."

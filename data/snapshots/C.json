@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:35.665Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:47.432Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    133.3800048828125,
-    138.07000732421875,
     139.8300018310547,
     141.2100067138672,
     142.99000549316406,
@@ -24,11 +22,11 @@
     137.38999938964844,
     139.57000732421875,
     140.7899932861328,
-    140.7100067138672
+    140.7100067138672,
+    133.27000427246094,
+    134.88999938964844
   ],
   "6m": [
-    116.69000244140625,
-    118.69999694824219,
     123.30000305175781,
     122.5,
     121.37000274658203,
@@ -158,10 +156,11 @@
     137.38999938964844,
     139.57000732421875,
     140.7899932861328,
-    140.7100067138672
+    140.7100067138672,
+    133.27000427246094,
+    134.88999938964844
   ],
   "1y": [
-    90.72000122070312,
     90.0199966430664,
     93.08999633789062,
     93.44999694824219,
@@ -410,29 +409,31 @@
     137.38999938964844,
     139.57000732421875,
     140.7899932861328,
-    140.7100067138672
+    140.7100067138672,
+    133.27000427246094,
+    134.88999938964844
   ],
-  "lastClose": 140.7100067138672,
-  "oneYearReturn": 55.10362083389819,
+  "lastClose": 134.88999938964844,
+  "oneYearReturn": 49.844483914494845,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Citi Stock Drops on Expense Concerns - WSJ",
-      "source": "WSJ",
+      "headline": "Citi Beats Every Profit Estimate as CEO’s Rebuild Gains Steam - Bloomberg.com",
+      "source": "Bloomberg.com",
       "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSmxSdDRPalc4TjZVU3M4QjFSQ0pBXzhZVDcwWk9fM202SFZIRmpLRkNxVmpncldleDIyWGlhYkxRdDhRV3p3dmozZ0ZFMXc3X3prTGtIQXZrN2NtQWZDWnd2SjZZbFpSRzlpOHVDTGlxaU5zNXVTVTBGYnRVODNqMnBFODdIRzdiS1J6WUNXNkp2aU5EdGw1OE5zV3lXaUxfYVVtQnFYV0w1UDZBU2ZxSi1fSlRPaHMtTHpZN3NNYVp0Zy1oWTdDanMtRVBiTzhUM1ZJSHNB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGpuMmFiYkEyNV83T3prU285Wkd1Y29TQzNlaUFyb004TFE1QWlCMDhfVEhuVm9lbUNTOHFKR1hnT2VFLTUwTTAzcXJrOHJjZEtIZkR2bm8zNjlLTkhVYXc2MjMxTGFISjFHeHRJUkJIdE9JbzVTTkxKZk1CdHpRcFZGWklRTXNRSkJKdlZLR1pTVkhDMHBqejBTal9JY3k3bmsxWkJKc19rcFhQaUtXRTln?oc=5"
     },
     {
-      "headline": "Bank Stocks Diverge Post-Earnings. Citi Drops, While Goldman Hits Fresh Record. - Barron's",
-      "source": "Barron's",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPMEdRZUhtcW1TZ1Bvdlg1LVY4UDFyOGNGSzNNWlpWNC1VaGdqbUFPdFVSZzFfaUF4cWNtM1BMcHB1bkp5SVFVSVByYkZXczI4eDFzMGpjSWFjU2VTb0hKN3NyMzdRMWJtOG5YMjAxTmRMM1ZBQnZWVlNCRDRZSDlJblFlVFZHOE15SUszUUw0SzlaSWpTX0hPWDZkWlNoOFhLZWZEZVo3WlktaGRCelAxUEE4bWNaN044UTREalI3ZWMzSkg1MmVMRDFrR0s5OUxKMHVrbXBOWGVEWW5UdVpHMWxmSWU1TlZLaHhxT1BBbjlMM2c4ZlVZQzBCVDEzcUUxYjBJeTRLYTNYV3IwZ0ZYX2xLRVVXVUM4cW1NSFgxSWRVR2VXVzFzc0JZUWlkelZqa1Rvd1NMRm51MlVJNHY5WVZ1MFNKdVgz?oc=5"
+      "headline": "Citigroup estimates revised after bank flags higher expenses, stock tanks - Reuters",
+      "source": "Reuters",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSlV6N1YyNWx5NkM1VUhFdGY1QWhMQ0pZV0lmOC1oSFlJRVd0Q1dmMnZBZHMxb3hXZ1AtbHJiRHc5bmRBZ2t5b1lwR08wSE44a1BQZ0Z6REg2Y2dWNFpMNEZQX2dGT3RUeGFRdkNObEtXTnFwVE9rUUltNkVaQlMtQV80Y0NLa0I0cS02dW1LUlBFS3p3ZHNGU3NGR1FOSURxRlZFSjNCLVJQbXZiMVlpZkhyZzJ5TW9PSmdmTnBrWVBUUU0?oc=5"
     },
     {
-      "headline": "Citigroup stock slides after comments on investments, staff cuts (C:NYSE) - Seeking Alpha",
-      "source": "Seeking Alpha",
+      "headline": "Why Citigroup (C) Stock Is Trading Lower Today - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0EwZktxQmc1cUNKNVJDLXRQSnpHTTdqLU4wNHFEbU5FZkRzYUVZLUpLckJuX1hUMDIxTGRVOURucGFhbXoxUWhacjBjWTNCYndETGUyZm9FY2VnaDZnTV9OV2FhUmRxNDZBUTk4bTFuREU5dVNPV2NaZE9aNzhYMnBqaUNhVm93YzgxUk54QzFSMzNBRnNUbXNlT1JiTkpWTXdv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2dubUNqRmZQclNsVzZxUzJwWFN2T280cHg1a0gyQVJtczJqOGI5TmRXZzhfbHhNbDZpX3NXLWtfdGI3eWJOWU83RUs0UFZjMzBOVENDVEFmTjBqUFJPTEo2SmFMMV9hZ2ZDX0tCbThad0FBS0tXZENHZm1qM2N0ZG9OSTNUWUpLU1J0cGFEYnE5SUh1anhpN3Bn?oc=5"
     }
   ],
   "insight": "Tracking Citigroup (C)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-15T04:27:36.159Z",
-  "builtDateUTC": "2026-07-15",
+  "builtAt": "2026-07-16T04:38:47.846Z",
+  "builtDateUTC": "2026-07-16",
   "source": "yahoo-finance",
   "1m": [
-    216.3000030517578,
-    221.16000366210938,
     223.85000610351562,
     226.39999389648438,
     227.72000122070312,
@@ -24,11 +22,11 @@
     237.14999389648438,
     233.77000427246094,
     235.8000030517578,
-    233.66000366210938
+    233.66000366210938,
+    230.11000061035156,
+    224.94000244140625
   ],
   "6m": [
-    205.5,
-    205.72000122070312,
     205.4499969482422,
     208.47999572753906,
     207.19000244140625,
@@ -158,10 +156,11 @@
     237.14999389648438,
     233.77000427246094,
     235.8000030517578,
-    233.66000366210938
+    233.66000366210938,
+    230.11000061035156,
+    224.94000244140625
   ],
   "1y": [
-    161.02000427246094,
     161.11000061035156,
     159.4600067138672,
     159.55999755859375,
@@ -410,29 +409,31 @@
     237.14999389648438,
     233.77000427246094,
     235.8000030517578,
-    233.66000366210938
+    233.66000366210938,
+    230.11000061035156,
+    224.94000244140625
   ],
-  "lastClose": 233.66000366210938,
-  "oneYearReturn": 45.112406820418876,
+  "lastClose": 224.94000244140625,
+  "oneYearReturn": 39.61889490983809,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Cardinal Health (CAH) Still Undervalued As Specialty Growth Lifts Expectations? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGwzbnFkQ3pyRzJHbFQwbUFHSksybkZKRElBSEFCNWJLMmhXMFNVZ2dKakNUNVMyRVBIcVlGeGcxbXVEam52ZXk3YWV2YktRcXFySC1xWHVtVUF0R1RMSmZEVHNlWTJCYXhQSFBPZHluakZMRTJNVzMxUVlDVi04MjZFN0dLZ1Z5Nk45bHh2a3d5bmlreVVMcW1kR3NwSzJSYVZHeQ?oc=5"
-    },
-    {
-      "headline": "Cardinal Health (CAH) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+      "headline": "Cardinal Health (CAH) Stock Looks Overvalued Following Fresh Earnings Beat Hopes - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSUJmMkRzcTRCcEdkLWQ1ME0taTNmb1I0aFhCdkg0QnNmdERIeGl6bU5RZ3FERENyOEJqalZBYUVfWkJpYk1pTTF5eUlFVVVGeW1fblRMMTVJWG5NSk1zN0RiV01JdlV5eVNtOGxpNmdza2I2d2ZhZVZQeTc2bTFDM0NmYm5xaldqUXZBNEVyUzZEUmRYMGV6aWota2s?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNW11dDhteklvOHhSaWJoVFE4WkUxNVhnTlpId3NvcGtRTnRyVF9xTi1fZk1kMnpKbTVWWko2OWNNYU96XzhfMUpEaFJfVHNTSEFhc2RGWmZiRm9IOFA5dmtrUHNOcDR2YVJ3TWpKQ0dqZ3V0RUJNOU1TVENEbUtlVDBFSmRKQmdhenpMYV9nVDQtYUJnczZYVXhyUGU?oc=5"
     },
     {
-      "headline": "Cardinal Health (CAH) Stock Looks Strong On Returns Yet Above Fair Value - simplywall.st",
+      "headline": "Is Cardinal Health’s (CAH) Specialty and Chronic-Care Pivot Quietly Rewiring Its Risk–Reward Profile? - simplywall.st",
       "source": "simplywall.st",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZzVlRzlFTXBSUDZSQUphM29KZVBRM2dmQTF4VEI4eDJtbGc2X1FPVUNyR2lhNm50bThyTHBmX3VENXdoTUg0UVNFc1E3TFRzYXh3SG94SndHVE5FRmcyUm5DcDFCRFYxcEZRbUhEamlMbHk2ckw4TUZCdkp1VlgyVVkxY18wYk5LS1JGcjBoWHhUZ3ducVoxcnRIY2JJU3pDdjNZZjhjazRIelczbEgtT21ZcWxvR2ltM1hZdk5CNEFXdXlPQThma0UzSmhtaExTMVFF0gHTAUFVX3lxTE1nNWVHOUVNcFJQNlJBSmEzb0plUFEzZ2ZBMXhUQjh4Mm1sZzZfUU9VQ3JHaWE2bnRtOHJMcGZfdUQ1d2hNSDRRU0VzUTdMVHNheHdIb3hKd0dUTkVGZzJSbkNwMUJEVjFwRlFtSERqaUxseTZyTDhNRkJ2SnVWWDJVWTFjXzBiTktLUkZyMGhYeFRnd25xWjFydEhjYklTekN2M1lmOGNrNEh6VzNsSC1PbVlxbG9HaW0zWFl2TkI0QVd1eU9BOGZrRTNKaG1oTFMxUUU?oc=5"
+    },
+    {
+      "headline": "Cardinal Health Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVUQyNGliMU1TREZva1l3NUxaTm5YTDZhRE5qVW9icVVxbDhSMV9COEliWkRIVG5UUGY4d0w5VW1SQ2dmNE9UNEltN3VQSC1xT1FyWGY0b0hQZWc3dkhTNnJ6eG94XzdzcnF4U3lYaVVLM0pmNTY3NEwtZDdtcjRUSVNSclVHUFFqU0lnM3pPVXU1eE5jVExNWTZLUnk0SnI1eUdHdTRaWTB3T1NBSjFfTlg2S284R29ta0lYMkJFYy0zN1A4TVdIazRQNmfSAdIBQVVfeXFMUFBJOVVzR3QwWEx5dTFvQXZLWkpkU2VqcmQzSHB6UlExSi1VODRCOWFaeWZtUUE5Rl80bm80NmlyV2Jad1ota1pMbThONjZ3cUUtLTVoWkpPNk1xYmJyVlZnT0d2ZmlqU3FwQVpoLWRBMlBNb3c3SmFJZU03YU9KbUhNWXczNEJ4YjEwUmx0NzBuU2xpRi1DbzlJcGRlamlwWnBTWmtVVzFsdDdrM1VQYkJOT3NoRG45TTg0cnZic1RNYWpMWUhjSkk3Vk15WVhILXJ3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMG1tT0p0M29JUmlXcDRFS2syZ18zb0s3Y2h4R1hEOW5BZUJraWlHVlZjbjlzdE5FSzRZUkV4alZmN1kxUTZvSUNZc1pval9rb2M2MC1jZG1qV2Fid2l6SWFvUjhWUHFRanlDRkRua215bzQxWkd3TmNuS2RXLTBkWGdYMWZtckdWVGZhS2pXOGtMSFo5Z3FnVVU1akMzWEJEeFdacjlDM3VWUkhrZS11b0l1SXBLbWV2d2VPakZ4anpiajBvR0RRcU5CYVN6Skg0bWc?oc=5"
     }
   ],
   "insight": "Tracking Cardinal Health (CAH)."
