@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-16T04:39:12.190Z",
-  "builtDateUTC": "2026-07-16",
+  "builtAt": "2026-07-17T04:41:53.431Z",
+  "builtDateUTC": "2026-07-17",
   "source": "yahoo-finance",
   "1m": [
-    48.16999816894531,
     49.02000045776367,
     48.380001068115234,
     48.20000076293945,
@@ -24,10 +23,10 @@
     48.540000915527344,
     47.2400016784668,
     49.560001373291016,
-    47.38999938964844
+    47.38999938964844,
+    45.130001068115234
   ],
   "6m": [
-    24.1299991607666,
     23.790000915527344,
     22.43000030517578,
     22.020000457763672,
@@ -158,10 +157,10 @@
     48.540000915527344,
     47.2400016784668,
     49.560001373291016,
-    47.38999938964844
+    47.38999938964844,
+    45.130001068115234
   ],
   "1y": [
-    20.350000381469727,
     20.829999923706055,
     21.110000610351562,
     20.65999984741211,
@@ -411,18 +410,13 @@
     48.540000915527344,
     47.2400016784668,
     49.560001373291016,
-    47.38999938964844
+    47.38999938964844,
+    45.130001068115234
   ],
-  "lastClose": 47.38999938964844,
-  "oneYearReturn": 132.8746855100836,
+  "lastClose": 45.130001068115234,
+  "oneYearReturn": 116.65867130779013,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Dell Falls 14%, HPE and Super Micro Slide as AI Hardware Stocks Give Back Gains - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGhhUWRPYU11eW1pRWJRd3dDMHVhc1hnbUFzMDhTMmZUWnBZVXRlTVF0M3N4cjl4cWxVODZHX0UxamIxU0JlV0NYdjNHSHlqaFlYYmJaMEViV2JNR2ZrNGlaNkRmaFVUaE9jd1VCRXYtZzY1aDM0c2l1M19SWWNoQnpqNy1oS1JnbWNyNnRiOEkwVlFHU1dLbGtWUFBVVGtUcEpWSTZCNDhCVmw0Tmt6ajd4NGF2c1RpY0ZNM0Z3?oc=5"
-    },
     {
       "headline": "Dell and Hewlett Packard Enterprise Shares Skyrocket, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1AxM3NYSl93VGduTjhSNkJ4N2RKUkNXcUVlU3VPVGlqZDlPZkp4NVVqd2p4b0FHbzJVT01UMDM4cy1QOExkVzNaYUVkbFNIRHVhNWY0QUsydmF0ZHlwQl9GZXUzSGdYMzBtVDR4TnZmdWJBZzJPZ0VKUkhBQzRMMXU0ZlpzZGh0S0ZaM250RXZmYXpNRjdMLW5WYnR0SU1MU3ZaLVVn?oc=5"
     },
     {
-      "headline": "Hewlett Packard Enterprise Co. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "HPE’s 42x Multiple Tells Only Half the Story - Trefis",
+      "source": "Trefis",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZkwxc2xiTFBVcGhSZGhJOGZrSGJPc29BOVhpVmx3NVZqc2t0TWp6NWV2V2Fvams3SC0xR2ZYQTM5VjNkQ2dTSGxxY25lR2xScFBmQl9wanFUM3Z3NXlHWXdyQm1YWGJWQTA0TlNXcy1tQ2Y1WEhRaWFyMTlNY0hhcnJFTk5QX1VkUW4ycVFFUF9wZ3g4U2dvclNxTXVxeGVhWWFkV25n?oc=5"
+    },
+    {
+      "headline": "Hewlett Packard Enterprise Co. stock underperforms Thursday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMzluenhhOW5ScnNzOEdEWWxVZWpQUkxEOG9QOUFZb0ViR2dDR20tdEt4ay1PSW1RTVBJQ1NXUmJQT2VVZ3lkSG9QR2E2ZkpoLWFkSkxkdjd6SW9yQ1Z0Uk5UZ2xZaldtOGw3LVlXQi1CMTQ5YXlpM0NhNHRrSXFEV3JsbHVKSi1qRW9hbTdtQ00tUF9HdXFVSkV2QkdLeGs4VFpqSkZPOWk4SVZ5aUhOU2FRamh4eDhFaHdjZmwwYi1ucUMyYm5TSzRfdzVib2NsRjlNdDYxelM?oc=5"
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWDI4aDMzWkt1LWM5aEZCd0c5eHhCODRGMWJ4M0w5YTV2ekM3VmdZdFotU3JGZm8zQS1iWWx6NnI0WkdQVXVvQXFWN0JLdnVPc29oNFhsSE5Kdmp2RGpyR1pRaThfSVlnYXBuOVZoNGxRdXF2U3VZUDU4SmtJUndCYl9uZk1kTFdkY1VwbmVIT01ySWtITWROU29iVHlVMXBWdmtmRm5kQjNBVzQwbGl2dWhDTnJVZmh3TEw5OEo1bXpHRnI5TTRmUjRPSXdBTmZJVHBhTVFTSkVueklRdnZ6bA?oc=5"
     }
   ],
   "insight": "Tracking Hewlett Packard Enterprise (HPE)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-16T04:39:36.825Z",
-  "builtDateUTC": "2026-07-16",
+  "builtAt": "2026-07-17T04:42:11.948Z",
+  "builtDateUTC": "2026-07-17",
   "source": "yahoo-finance",
   "1m": [
-    107.2699966430664,
     105.95999908447266,
     103.66999816894531,
     102.30999755859375,
@@ -24,10 +23,10 @@
     99.7699966430664,
     97.12999725341797,
     95.9000015258789,
-    97.05000305175781
+    97.05000305175781,
+    98.11000061035156
   ],
   "6m": [
-    119.68000030517578,
     120.52999877929688,
     116.37000274658203,
     118.2699966430664,
@@ -158,10 +157,10 @@
     99.7699966430664,
     97.12999725341797,
     95.9000015258789,
-    97.05000305175781
+    97.05000305175781,
+    98.11000061035156
   ],
   "1y": [
-    109.8499984741211,
     109.44000244140625,
     106.7699966430664,
     106.36000061035156,
@@ -411,12 +410,19 @@
     99.7699966430664,
     97.12999725341797,
     95.9000015258789,
-    97.05000305175781
+    97.05000305175781,
+    98.11000061035156
   ],
-  "lastClose": 97.05000305175781,
-  "oneYearReturn": -11.652249067057344,
+  "lastClose": 98.11000061035156,
+  "oneYearReturn": -10.35270612052547,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Stifel cuts Wynn Resorts stock price target on Macau exposure - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb01HV054Wnp0cTBidGxIdG9ZeWptdWgtcHZwVUgtel9oM2ZLR0F0anBVTXlnbmFtaUZNdWFvY0FZcjZpcEEzUzRkZjdKZVpQeUNucDZJZlR3Mlc5RDhicndVYzN2NHlhaEZNQzBFMXJaaTVRemNsYi14VzU5bWpOZVo3Z2k5dmt1UXRlNkxZV0lURHJCbGQ5ZkQ4LVhEclRITVFXUldPb2ZHTEZxSXRtcVoxZ1JJdE1aZzVpQ1hB?oc=5"
+    },
     {
       "headline": "Wynn Resorts Ltd. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVjVXVVRMZDk4UzNaZk5ieVpzN0xoeElyQlY5QWd3eXdqekpRNkVsZHoxQ1RoVzZjVXdNeGRGZVBXeDZWLWk0UjAxMjFOOGJUdUlrM1dmZk9UTk9wMkUxZVdOSUtsSGNjTTd2SWxBVnRRWXo0SUtzRmljTkduZ2Zab0JSTU44VjFHRTJOUVVwQmdnSnhLV3U3REJWNkNqWGdobVExWW1xS2FuM0lpZ2JsYm05VTdUNXhETnljSXgwLXBKV0lmWllj?oc=5"
     },
     {
-      "headline": "Wynn Resorts: Increased Competition In A Slowing Market (NASDAQ:WYNN) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZm9JRHFTSmpnODhacmkwdExSUzdrT2JvWVpxRmFJc3ZYSTd6TDU3X2gzaHdsS01Idll4cjNfWXYzRkU3MjlNNWoxREY0cXczNU1seDlpd1ZiRlFNX3hMcnZvSEJScmpjQThWMkktXzNmeFZFZVEwQnBDWHdneUV4VThtUjM5czhnd0xVbkQySXNqOEpDWkszMDlvYw?oc=5"
-    },
-    {
-      "headline": "Wynn Resorts (NASDAQ:WYNN) Price Target Cut to $134.00 by Analysts at JPMorgan Chase & Co. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ0x4c0Y0VWs5d2dzcmcwYUZueEVDanN6S1E4c2ZQX1hPQ0lZLUhyNmlRZlBwMVptUjBrNXlhSDlqSHFla3BtOGJ6MjZZd1NldVE3bTNzNDZFdDVyMjJmTlRTdlM2TlV1ZVVKMEVDWjBmMW55ZDFiQmEzeWRiejB3VVIwQ0tUTFZIQUpCR3V5VzZxNDZQX0ExU2ptSVluYmxIN0kxMllMdWl6OG1uc0wtTFFJVHc4MFE1RHI3d2g1TDctTGw0X1JESmduaThPNWJ0anc?oc=5"
+      "headline": "Wynn Stock ‘Seems Crazy’ As It Assigns Nearly No Value for Macau, UAE - Casino.org",
+      "source": "Casino.org",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcklDRms4cEtoU3JzX3hWUGFhM2x3cGtfMFBHSzlhd3Nsek1QM2Z3OURBaHg3NHM3S3FCdHRCMlg1X1otaGVKdEZ3aGZNdXhkNWhXcXJXaGJ3V054NjQzRzBHRm8yUWxFNmhKMjU3SWVHc3FJZ3o3YWtDSzNWVEIyTVRnbHRSckhPaEV3emY2aVdLX2Ixck9VQXAwbw?oc=5"
     }
   ],
   "insight": "Tracking Wynn Resorts (WYNN)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-16T04:39:26.131Z",
-  "builtDateUTC": "2026-07-16",
+  "builtAt": "2026-07-17T04:42:03.687Z",
+  "builtDateUTC": "2026-07-17",
   "source": "yahoo-finance",
   "1m": [
-    149.61000061035156,
     150.4600067138672,
     152.49000549316406,
     150.55999755859375,
@@ -24,10 +23,10 @@
     147.0399932861328,
     148.3699951171875,
     146.0800018310547,
-    148.0500030517578
+    148.0500030517578,
+    151.5
   ],
   "6m": [
-    140.3699951171875,
     139.91000366210938,
     138.0399932861328,
     141.52999877929688,
@@ -158,10 +157,10 @@
     147.0399932861328,
     148.3699951171875,
     146.0800018310547,
-    148.0500030517578
+    148.0500030517578,
+    151.5
   ],
   "1y": [
-    153.72999572753906,
     155.6199951171875,
     155.10000610351562,
     155.02999877929688,
@@ -411,12 +410,19 @@
     147.0399932861328,
     148.3699951171875,
     146.0800018310547,
-    148.0500030517578
+    148.0500030517578,
+    151.5
   ],
-  "lastClose": 148.0500030517578,
-  "oneYearReturn": -3.6947849044685435,
+  "lastClose": 151.5,
+  "oneYearReturn": -2.647471563075808,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Procter & Gamble Has Raised Its Dividend 70 Years in a Row. Tariffs Are the First Real Test in a While - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZUlxV0Y5MThZY1lrcDJXckRrRElvamNfR1BJNzkwajA0bncwV3NRYTNjMUFyZS1TU0tBcUVFMEFjcXpjdUdUZUZRaGpDSDZkUE95WjhucDlxYjUwSUhtZHZmblFsMy13NjRnZEtHUzZpN0hiV25WdF9HNFhuQVZPX3BJVzRndnhWOVJVa1hfOExqQTNTS3FmakRBM3FLSk9PZlZpYmk1czhYWEVqdGFxRmZtQmNmYjB2dkY4aC1ZQUF5dWc?oc=5"
+    },
     {
       "headline": "Procter & Gamble Earnings Are Coming July 29. The Trough Quarter May Already Be Priced In. - TIKR.com",
       "source": "TIKR.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS1ZtY190UzZyMXpKV0R2UWw2LTBnT2lSeFI4dHM5X3liSHJOQy1JRWlyTmdIMFNZd0JBX2lrcjZRYmtRb3l5NkZKa3dLTkNfS003MUVhOEdTNG50aVFJWEx5Z0x2cmhxNlBFQ0pXYlRxcm95SVJkQkZuX1BPTTUzY2Ryd192UFFVQmRsREtFMHF5RERYWVF1dWU0aFB2OHdxV0ZkRDFDODFKWlJUb3BhYlRR?oc=5"
     },
     {
-      "headline": "Procter & Gamble stock holds steady as investors watch its consumer staples profile - Ad-hoc-news.de",
-      "source": "Ad-hoc-news.de",
+      "headline": "Procter & Gamble stock holds steady as consumer staples giant leans on brand strength - ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
       "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXJzVGZuN3B0WFA4V0FjclNkV0VaNHBxcW5UNFprV010MEdxb3hvRFdXdHZIRVVTX2Y4OWI5c3JQZE0tdE5ILTVqLWVINkJPM3JmcDMxcV9CbzFScHNJNzdEMEZUTWlLZ2lhTUZ3aFdldFNBYjhrZGgyRlFkeC1mVnNqZmJPWTJEMDctNHJpN2pmSXF3VXJhT2preFRrazRZSDlCbC16R014Y19RMUlHVUVxLTNFRjVaaW1WMWtkMzd3SkY1NEdB?oc=5"
-    },
-    {
-      "headline": "Procter & Gamble Stock Keeps Sliding. The Dividend Keeps Climbing. - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-07-04",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXFheW1hY2xhdmxaQ3lDVlBZaE5oX055VjMyYnJQbzNiQW5SOXMyTzFPczJrVkVkdW5zNkZCRklVTm1JYUtHQlRFVVlMdTNvMkxIdXBHWFFKa0J6bXJoZkhxbnQ4WDdqUjBsWkJsZEdIRW1HbDNLRXJ1dFoxU0xMRnczQVh3cTdaN3hBdGgxamZyZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbmU3RWJSMllMZjRqb1dDc1lKdUdqWC1Ha2ZnVS1lR2p4QXdwNjd4NDlFTkFpSW5tNVZFTEZPMGtoUldKVHVUUDJlU010NTdNeFgtWEVYbjc2RlN3UHZoT3d1NkstVGk2LUtFaG81dzcxX2N3bjZNT0hpbmVRWHJFVHlRRXNOS0lQSFFiWUpDUlp2WXBiLTRmc1c3XzdHb092cU9RczhVdklSUnIwUzlpYWFlMkxzZEtYOUNaWUctcHVmc2NEN3ZTaUVfQQ?oc=5"
     }
   ],
   "insight": "Tracking Procter &amp; Gamble (PG)."

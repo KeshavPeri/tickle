@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-16T04:38:43.353Z",
-  "builtDateUTC": "2026-07-16",
+  "builtAt": "2026-07-17T04:41:33.562Z",
+  "builtDateUTC": "2026-07-17",
   "source": "yahoo-finance",
   "1m": [
-    126.30999755859375,
     126.87000274658203,
     128.47000122070312,
     125.41000366210938,
@@ -24,10 +23,10 @@
     130.69000244140625,
     131.52999877929688,
     131.57000732421875,
-    129.2100067138672
+    129.2100067138672,
+    134.3300018310547
   ],
   "6m": [
-    127.4000015258789,
     128.97000122070312,
     127.2699966430664,
     129.27000427246094,
@@ -158,10 +157,10 @@
     130.69000244140625,
     131.52999877929688,
     131.57000732421875,
-    129.2100067138672
+    129.2100067138672,
+    134.3300018310547
   ],
   "1y": [
-    141.72000122070312,
     142.2100067138672,
     142.91000366210938,
     142.83999633789062,
@@ -411,29 +410,30 @@
     130.69000244140625,
     131.52999877929688,
     131.57000732421875,
-    129.2100067138672
+    129.2100067138672,
+    134.3300018310547
   ],
-  "lastClose": 129.2100067138672,
-  "oneYearReturn": -8.827261077534072,
+  "lastClose": 134.3300018310547,
+  "oneYearReturn": -5.541104360305262,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "American Water Works (AWK) Stock Looks Overvalued On Dividends Yet Fair On Earnings - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TNV9CU1dHSzBleVJzaGFNTHIyNjlXcmJEU25RWlFYSUxlOWJqRjhpWjQ1czhsMEtYczJUMzh5NDNyc3ZmcnBuRHkwRmhSTDQ?oc=5"
+    },
+    {
+      "headline": "What's the Latest on the American Water-Essential Utilities Merger - Kavout | AI",
+      "source": "Kavout | AI",
       "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM2hZYUR4MnlvSm1XZGtjV2k4Tlk4VFlBWFIweDhfSGtRUlZVeGRHVnYxcndlSnhXMWhHUVF4eHpOdFFRaF9jRW9PVkhtbjNRTlBhYy01dUJBbVBpamNNTEFHR3RQWWIyWmhoT3pkM0MxN0dyVTBPTXdhMngzcXVvMHp6YlVoUGR3emNKNWdCWlJrQlNfOHBtZ1B6bw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnlwQ0lIWXFjeVNkQktDaTRubW1PTHJrcEYyOWdSY2RkYTIzdnZNTDFueEdRdnFMaXl1TnFMa2RyVU10S2UxN3F1Uk9rYXZzdi0wbFhhaTJKeXhDcHBPcHktSXFBa0kzdHhVU2dYeTQxS0hSNE1GSHVvcklRMVo2M2lFUnliSlRxMHB3OVdzXzY4ZUZmSThvSExuYlNmbVpGZ3lj?oc=5"
     },
     {
       "headline": "American Water Works Company (AWK) Expands Its Infrastructure Focus, Is The Stock Looking Expensive? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-15",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0Zwck5JTkRhZzQ3by1VS0l3RW93X2RzY2hBaU1GQlZDdXFRQVVQdWVzZkR2Q04zbUZITjFLY1JaS1BKa3Q2RERmZUhCMmhEU0hUQWhhOGN5VU5ySHMwVTFFLXFGVzFEaEZLQ0FKd0dDSkg2ZUhHeUtFUXlQaXUzU0ZTUlJFZEdFTGpxaE9UbU1SYVhuZzBYb2tTZUdrZw?oc=5"
-    },
-    {
-      "headline": "American Water Works (AWK) Stock Looks Above Fair Value Following A 12% Five Year Decline - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc012cVExWHczd3ZNeUV5RFRyYm16MGRIbm9YQkxjSzA0TUxPUnFlNlNaNzRwTFhZUzEyckpseVp3QkJxS3JkOTZlNWxIYmlmcnlTSnZkSUdiS29fZEZDQWZtVnpDTGUwOFFZVklYcVBZcE4wQkkwWGswTzVBYmc5QmJUNEZyUTIzam5xbWdjSzVITjY3N3lRdkNSUTV1ekotaEhqVm1GcVZZN05DY3g3ejFsSWVVN2N0YUVHRHpNZE9YYmExS3ZSb2RubWtZTTZjZloyU0wxbE7SAdgBQVVfeXFMTnNNdnFRMVh3M3d2TXlFeURUcmJtejBkSG5vWEJMY0swNE1MT1JxZTZTWjc0cExYWVMxMnJKbHlad0JCcUtyZDk2ZTVsSGJpZnJ5U0p2ZElHYktvX2RGQ0FmbVZ6Q0xlMDhRWVZJWHFQWXBOMEJJMFhrME81QWJnOUJiVDRGclEyM2pucW1nY0s1SE42Nzd5UXZDUlE1dXpKLWhIalZtRnFWWTdOQ2N4N3oxbEllVTdjdGFFR0R6TWRPWGJhMUt2Um9kbm1rWU02Y2ZaMlNMMWxO?oc=5"
     }
   ],
   "insight": "Tracking American Water Works (AWK)."

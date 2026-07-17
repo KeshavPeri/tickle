@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-16T04:39:27.577Z",
-  "builtDateUTC": "2026-07-16",
+  "builtAt": "2026-07-17T04:42:04.650Z",
+  "builtDateUTC": "2026-07-17",
   "source": "yahoo-finance",
   "1m": [
-    113.68000030517578,
     114.8499984741211,
     118.18000030517578,
     116.94000244140625,
@@ -24,10 +23,10 @@
     124.73999786376953,
     125.41999816894531,
     122.51000213623047,
-    123.61000061035156
+    123.61000061035156,
+    127.36000061035156
   ],
   "6m": [
-    173.11000061035156,
     175.00999450683594,
     174.57000732421875,
     173.57000732421875,
@@ -158,10 +157,10 @@
     124.73999786376953,
     125.41999816894531,
     122.51000213623047,
-    123.61000061035156
+    123.61000061035156,
+    127.36000061035156
   ],
   "1y": [
-    194.19000244140625,
     197,
     199.61000061035156,
     198.82000732421875,
@@ -411,12 +410,19 @@
     124.73999786376953,
     125.41999816894531,
     122.51000213623047,
-    123.61000061035156
+    123.61000061035156,
+    127.36000061035156
   ],
-  "lastClose": 123.61000061035156,
-  "oneYearReturn": -36.34584733699207,
+  "lastClose": 127.36000061035156,
+  "oneYearReturn": -35.35025349728347,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "3 Big Reasons to Love PTC (PTC) - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYlVqS0pOd1lnVFpyN0RxcTR4ZXpHd0lXQmxPN3VGMC1jNkkwalo3WERPN0V0ajVuV1dmMlN6N0I4LWpoeGtyalVhZ1pPX1FEdl9Ud2ctS19YaVdqWHVTOGtKdlpoNXVxR0owMVdEYkJvcUR1a3VfQXdIdE1XQUNuOWpuand6bmpjQlVtYzNmSVQ?oc=5"
+    },
     {
       "headline": "PTC Inc (NASDAQ:PTC): A Growth at a Reasonable Price Stock Following the GARP Playbook - ChartMill",
       "source": "ChartMill",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZG50My05R05jQlZtUFE4T2FlNklySE1Mc3hoc1VoeUE0XzZHajZsbnFMRUN0WjBER1Q5cnE4VTNOc01ZbHhiNjdqMWlaNXNDR0FPSTJ4TEdQZ0FJS2ZYZEhLcWJXVDRfOTJoUUFrYVdYNjNDTlRQZ0NtQm1NOEJLcXE2R09jcTREbGJCQUJnSmxMSG40eDRXaE80T1VZQTYtYzVNQWhrQ0NDVHFNYVJlMENMeURqVkhrbTE2M2tXeHBUQ1ZtdDZ0NUtHSFdoUQ?oc=5"
     },
     {
-      "headline": "PTC Inc. Stock: Is PTC Underperforming the Technology Sector? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3hDZVVzLVpKSzNQaUMxUkFXSl9SWmd5dngybTRPM3FISWJ5Y1NlQkphWmtwZ0VSVjYxamduM1hITHZMZEk1MWlZdWVESFAxN3EyQ05VMDI4Zmk1MlVzQlltanR4UkNsMWJyYUMwTmVjMlNXVnV4bGJrT0V6Z3NiWHVvNVRCZTE2V2VtSEsxZmIyVmRwY2ZTTGdUVFh6a28?oc=5"
-    },
-    {
-      "headline": "PTC Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUFZQVWktRmdSMG9UZmQ3V1lVNVAxQ3JmdXdwYjFLRmZFN2ZmZzk5dlBvXzN5ZUFxdXlPZWFPb0FQUjVXRzRrc2UxcEtGb1dST0NpZGZhclZGMHFDMXE5YlFYQU5RX1ppdzFjdVJKV0JFdzQ5aGVnTHVmYVpqUnF3SXJDNG9jYVJtODFjdDhtVjNYakNNV3dud0N0Y05ONEZRRk5zV1o1aXRubUt5ZkNDT3I0Ymtsdm1VN0JxWUNic0s?oc=5"
+      "headline": "PTC (PTC) Stock Looks Undervalued On Earnings But Weighed By Execution Risk - Sahm",
+      "source": "Sahm",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRmVqdzVLN01NbVQwQ1Zwa0VYeElGVGxXN1F3V2JmOEJpU3ZwY2pMVUx2ZHRCLW9NaFdoX2Iwb1dkcFZra3l0d3Awckw4czBXWTBUSGtGSTdhU2kzU000U0NIbDdoN0QwOXlTMGVxRTlMSVQ1cmpnMFZub0hSekxrT3N3c3NJSWhjVkE2WUp5Y2pZWG1MdjBhNzZQMHFZXzdFelZBb3hXR0JoZXZNVUw1QzRpbWozV1lBeUhSUW5nNHFsdDQ?oc=5"
     }
   ],
   "insight": "Tracking PTC Inc. (PTC)."

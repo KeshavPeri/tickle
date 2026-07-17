@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-16T04:38:47.124Z",
-  "builtDateUTC": "2026-07-16",
+  "builtAt": "2026-07-17T04:41:35.841Z",
+  "builtDateUTC": "2026-07-17",
   "source": "yahoo-finance",
   "1m": [
-    46.90999984741211,
     46.7599983215332,
     46.91999816894531,
     44.95000076293945,
@@ -24,10 +23,10 @@
     44.77000045776367,
     44.650001525878906,
     42.630001068115234,
-    43.040000915527344
+    43.040000915527344,
+    44.619998931884766
   ],
   "6m": [
-    95.4800033569336,
     97.79000091552734,
     98.6500015258789,
     98.37999725341797,
@@ -158,10 +157,10 @@
     44.77000045776367,
     44.650001525878906,
     42.630001068115234,
-    43.040000915527344
+    43.040000915527344,
+    44.619998931884766
   ],
   "1y": [
-    103.19000244140625,
     104.6500015258789,
     103.63999938964844,
     103.77999877929688,
@@ -411,29 +410,30 @@
     44.77000045776367,
     44.650001525878906,
     42.630001068115234,
-    43.040000915527344
+    43.040000915527344,
+    44.619998931884766
   ],
-  "lastClose": 43.040000915527344,
-  "oneYearReturn": -58.2905321278905,
+  "lastClose": 44.619998931884766,
+  "oneYearReturn": -57.36263900497824,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Boston Scientific (BSX) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYU4zNVByS0dTdndfQWduMlB4bVFHaWFvLUJNVGNkVXgtc3R0cXNKOVAwS0ROQVQ0Q2t5ck5HVmcxVndPSFZwdmJESG5rQVRRUklGZ3d1OHYwWk1wZW1xeV9ycG1rV2sza1hRWXZicVJhLUFtY0hURlJVbDZRaEYxbzAxVWo0NVc1VGc?oc=5"
+      "headline": "Boston Scientific (BSX) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEp2SHRpY1kzV21PMTQ1UWc2M3VpOXhjNUZGYmo1cXphWWdRM3l6RzZBOUJYOTlsRXZRQjc0aUFGc1BrNGtEaFpJWEdhaFJYWmY5bWNWaklXb290NUEwYkM1NEdWZzFxdE5CeDF2X3RhS0ZHTzRvSzBIem9kYWtWd01Kd0h2dGVMRDVXM3VhUU9KQlBqdTJVakVJUDFfclE?oc=5"
+    },
+    {
+      "headline": "Boston Scientific Corp. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT194M1M0OXhDWmg1bFlRSG82VDd4eXR1TmFDek5sSzBIN29hdVE3NkhRekktaUwyZ2Y5VzZGRFZoNERhamtTMHdWMXUyb2FrMU1XeG5NRjh1ZUJ5TWtVa2hEYkROVHd3eXZ3aGE4c2htVnZBeFRWbXFZY21VT2pmMmRjdVZiOWNmSEZmci1qYmFQdUZuOVFfMWdNVGVPcDJ4Zi1pc3VDM3J0bldyRVhtOGRkNWZET0JCSnB6M1lnbDNOUWJWNzRBLUVwOVhsVVdLR3JURmZKMl9mSkNTS2hlbURhNG03Qmd6QVh4bFNSUW5HQQ?oc=5"
     },
     {
       "headline": "Boston Scientific (BSX) Stock Looks Cheap On Earnings While Returns Stay Weak - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-15",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORy03aWFEbjA1UWJ3eEFueGtoc0JHZHBBdDJLQTY4a2otdGs4VnVDdFltSlFHSi04Z01wckNfeElmbDRXclZfdTdMNEdKUDZGVFd3UXF4TkQ5NlBRekUtdVM2M2pHOUZwYkFWZ3lYY0djd0ZiQW1JenZJa2tKRTZHbElqR3VPWGlEVktIVzJvb19FTkQ4OHUtQW4xZExvU1RLOS1MQTJHNkpGaWdqT1NuRTZfcV9ZaWxrV1ZaeXNYVjdIN042eEszTUo0QXRPSjVCUlltS0dR0gHWAUFVX3lxTE5HLTdpYURuMDVRYnd4QW54a2hzQkdkcEF0MktBNjhrai10azhWdUN0WW1KUUdKLThnTXByQ194SWZsNFdyVl91N0w0R0pQNkZUV3dRcXhORDk2UFF6RS11UzYzakc5RnBiQVZneVhjR2N3RmJBbUl6dklra0pFNkdsSWpHdU9YaURWS0hXMm9vX0VORDg4dS1BbjFkTG9TVEs5LUxBMkc2SkZpZ2pPU25FNl9xX1lpbGtXVlp5c1hWN0g3TjZ4SzNNSjRBdE9KNUJSWW1LR1E?oc=5"
-    },
-    {
-      "headline": "Why Did BSX, LI, BJ Stocks Hit 52-Week Lows Today? - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzBzcVQ5WkxyNmhoS0NvQnFLZ0RnT3FzblZjYTdaNzNXWUhNWS1lMVZCZ0JhalJQSmZCNFloWFZmakNTSUtpc2ZqODlQbGstQk5VaFBpMkplc2RFWnQ2Y2V1d2QxelZpUzF4a2wyQVlqa1o1dGtQUHJRZllCRW9INTViUEhjcnZPdDEtZWotZjQxZGdpQU5kTWxzNXdOdmxPSzc0NFhkN0taWTNra1pmUQ?oc=5"
     }
   ],
   "insight": "Tracking Boston Scientific (BSX)."

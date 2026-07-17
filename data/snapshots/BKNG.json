@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-16T04:38:45.667Z",
-  "builtDateUTC": "2026-07-16",
+  "builtAt": "2026-07-17T04:41:35.017Z",
+  "builtDateUTC": "2026-07-17",
   "source": "yahoo-finance",
   "1m": [
-    164.94000244140625,
     174.63999938964844,
     175.72000122070312,
     171.6300048828125,
@@ -24,10 +23,10 @@
     178.38999938964844,
     175.8000030517578,
     174.85000610351562,
-    182.8000030517578
+    182.8000030517578,
+    184.61000061035156
   ],
   "6m": [
-    214.69479370117188,
     213.9355926513672,
     217.82879638671875,
     217.8000030517578,
@@ -158,10 +157,10 @@
     178.38999938964844,
     175.8000030517578,
     174.85000610351562,
-    182.8000030517578
+    182.8000030517578,
+    184.61000061035156
   ],
   "1y": [
-    226.3251953125,
     227.35760498046875,
     228.11599731445312,
     227.08599853515625,
@@ -411,12 +410,19 @@
     178.38999938964844,
     175.8000030517578,
     174.85000610351562,
-    182.8000030517578
+    182.8000030517578,
+    184.61000061035156
   ],
-  "lastClose": 182.8000030517578,
-  "oneYearReturn": -19.231262432202694,
+  "lastClose": 184.61000061035156,
+  "oneYearReturn": -18.801924120281544,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "What Makes Booking Holdings (BKNG) an Attractive Bet Now? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEduOXVsbnA2bUgxYWJpVC1XczJ4cmRKWG9HQ09pNnBHbG9fcnJKSjlWdklpV2JHNlFZbmMtYWItRlFJcWdEUDlUeWtsTURnUkc2QkJZWGwtb05rSFNDeHE1d1pSeXFKRW0tZ2RNa2dqVk43bElnNk5GQWViMUlBN2lTN1lZZjlWTmozNEVBd2xJazAxX3N2dGdVVDJiVlk0U2doTUR3?oc=5"
+    },
     {
       "headline": "Booking Holdings (NASDAQ:BKNG): Strong Growth Stock with a High-Quality Breakout Setup - ChartMill",
       "source": "ChartMill",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZC1QazBUaXVwNl9pQzQ4VEpKU3BwM1NMb2ZMbEVtZ0xVc0x0OU9WR29xb01lLXdzeGNnbHYtb0RNRmpnY3ZPRzI2XzVvdjJ2TDBYQVdUODBzRXphMmhnUjV6SW5fVkhjVFRaaGkyTDhYMzNZTF9Fby1PSC1pcld4R1ZDalVzcXBKdzRfblNFWkt2d2lGMDM4V1psdGdYcmM2UVdUMXBkVEhmSlNCN3RfRkU1NGt6d2oyc3NieTNCa3Qwc1FIQjRjVHZlZm5fR28?oc=5"
     },
     {
-      "headline": "Booking, Alphabet, and 7 Other Stocks to Buy Ahead of Earnings - Barron's",
-      "source": "Barron's",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNel92T0FXQVR0TDE1MWhQR2JNaXV1QlRtazBCdmh5Rk5KZHI5dGJxUzJ1NHNBRGRNUXJLaUFyN2xOcDJ1UnhtZkdmRVJVTVM0cF9ReE5tMzhKTnVVNDFiUTZPRUJPbXQxdF9QRXdwd3RzMGNpS2VvWWdtMkVxa19zejg3Z1NuekZWOWpXYW5VLWVzVDl0UFBIRlpBVWE?oc=5"
-    },
-    {
-      "headline": "Booking Holdings Inc Stock (BKNG) Moved Up by 3.99% on Jul 15: What Investors Need To Know - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTFTVXdjbEIzQXF3aGl4cUVQNlFwMjZjTklRRVF3ajBLVzFaejd5X04yTGMzeEsxbWdGdHZPT2xQZzI1MG0xUlJvRGktOWhYcXZwVEJ6ZWtSZWl1by1PZTYxbnF6NFNpNUFUVUJEMTlLRE94cW1keUo5ck9KQjlpN0hFdUIwTmxIUmRj?oc=5"
+      "headline": "Lobbying Update: $320,000 of BOOKING HOLDINGS INC. lobbying was just disclosed - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM3B2WE91N0VRSEdLVTR0ZnlPNWRhTjk4emFJX1RNYkdSbVF5VzEwbk42QlIwdWhuYnhkbG9mMDJGVkRqLVNsOHRsRWtaR0FVdW12dDVNOFk4YnY1bWFDcEFMTm1Qcnk5LU9VaVNZeHNvakQtVkluNERXcG1VU0NLY21JaDBkNzUtUzFXdW8yRGQ1cUdDcUlRWHNLd19mZlRwNFZUcjYxMkpHRUEwZFJPZEt6Zi1JZTVB?oc=5"
     }
   ],
   "insight": "Tracking Booking Holdings (BKNG)."

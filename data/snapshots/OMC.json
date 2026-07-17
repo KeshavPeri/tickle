@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-16T04:39:25.002Z",
-  "builtDateUTC": "2026-07-16",
+  "builtAt": "2026-07-17T04:42:02.798Z",
+  "builtDateUTC": "2026-07-17",
   "source": "yahoo-finance",
   "1m": [
-    76.68000030517578,
     76.51000213623047,
     77.37000274658203,
     76.30999755859375,
@@ -24,10 +23,10 @@
     81.93000030517578,
     82.55000305175781,
     80.75,
-    80.93000030517578
+    80.93000030517578,
+    84.16999816894531
   ],
   "6m": [
-    78.3499984741211,
     79.62999725341797,
     77.58000183105469,
     78.79000091552734,
@@ -158,10 +157,10 @@
     81.93000030517578,
     82.55000305175781,
     80.75,
-    80.93000030517578
+    80.93000030517578,
+    84.16999816894531
   ],
   "1y": [
-    74.05000305175781,
     70.86000061035156,
     71.05999755859375,
     70.41000366210938,
@@ -411,12 +410,19 @@
     81.93000030517578,
     82.55000305175781,
     80.75,
-    80.93000030517578
+    80.93000030517578,
+    84.16999816894531
   ],
-  "lastClose": 80.93000030517578,
-  "oneYearReturn": 9.291015489370261,
+  "lastClose": 84.16999816894531,
+  "oneYearReturn": 18.783513186492073,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Omnicom Group Inc (OMC) Stock Up 4.0% and Still Undervalued -- G - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3dxeTV4cGpCQUdxN3RCVGxYd1lvOURYckZZb2ZVbnVTa1I5OEdUTFR1NGpCclhwRjROM3lwNXR3MUlvcjVuUHVBcW0zUHFNZkxBdE1LN0tPMENQdy1xZnphQnZBR2cyU3M2ZFRMeW96eXZ3anlvQ0dlWmdTVER5VEpSTy1UZFZvSV8zcFFtazVTYnVkb0JwbE92dGpKMURWbmk2ckhzeWRKTElZUVE?oc=5"
+    },
     {
       "headline": "Omnicom Group (OMC) Could Be 27% Undervalued As Interpublic Deal Story Builds - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXM2eWd5aTZTa1l0aFFvMldrbmNBTGp5dVFPUDB0OUdSaGV1Ulo5QnJZSExIN0hoSjhxRGlvRG00LUVxYVQwLVJvOEZnd3E3d2RTaVJmbjdMSWJjRUhMUGFPX1lkcHpkZGppTFVRQUd0SUZVOS05U2o0ZHpOeGF2ZTBBZG5jUU94LUNQYjAtTDJSSGZDZXc?oc=5"
     },
     {
-      "headline": "Omnicom Group (OMC) Adds Leaders And Highlights AI Commerce, Is It Still Below Fair Value? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV0RubUUxSGtBaG9KWnNiS0ltVWZCa0hPS3pMd2V4NWFjZWFoOXN2TUdGNlFfNzRZVTBKWVVzQzZaSUYxZXdYQWk4UlgzdlIyNndYbmR5UEhTZEItaDYwcU9UQ2xCX000R1BJZDNQTXpfdms1YUR0bExyTHhoLW9mZDZoUkNyRVdBUU5LQ2xYWEJ5LTloQkc1WU9JOVVnbmdkUWp5aDA5dVhuYURsVkhLSTNOcVJTZ25za28ybEp1Q2gyd3RM0gHKAUFVX3lxTFB5THdrSHZxajF2UmdwemphZlMyUXp2Tk4tNjN3OTV0Ty1Scmprb1VSU1JUcTZRTlRIVWZjMktaa1o4TmhyNWUtTUYwRWRjQVlwN2luVkNRd0tzUXBJemtDVWhGcnhIdmw4Z29tdEd4ZW94ZC1LbFBDUGJzaUFHT3A4QjgxNnJ2NnRXMkFEWXRLNk9iNWhuczd2b1hvU0lHWVItTGowSUhXNWZod3EtZ2Q1NnJrMjRwSkVlUEdVWUw4cHdEVU9pWW5KTVE?oc=5"
-    },
-    {
-      "headline": "Omnicom Group Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONHRGdVFtOGNsWEE0QVVKY21wNndQLTBCRDJCVHVHQlAydFVmZmZoSFJsd2tXMXBCUEtHWWk3bGJVazNLYzkwbGUtRUEzVGh1MzQzWmNHV0JUQ1k4cXhwSk9MWHMwUmNvbUs4VGJIWWJOaVI5eEN6aGRiNlZBMWp4cEZEdGZVNGdBV1dwVFJ6V1M2ZTdHS1pDcXh4WGdFSU1DTkJ6N29MN1hqbE0wVGpsMndWTGpFM0FxdE40eXZUZWFWUnpXTUUyV0JDM2dHZw?oc=5"
+      "headline": "Omnicom shareholders to receive 80-cent dividend Oct. 9 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JQk9NbGx6YW9EcjQ5eWg0aENaQTEwWmlTRGJUeVhndkNGUVd1NXRyQmFWWGd4OEpqRldjTUNESHpDQUcxQTlpWXNQeUJ1TDVGaS1abU1CdWF3MS12Z1NPOXd1dTlyLWJFcEhfczFtU3pTTmtOVTFHTXFB?oc=5"
     }
   ],
   "insight": "Tracking Omnicom Group (OMC)."
