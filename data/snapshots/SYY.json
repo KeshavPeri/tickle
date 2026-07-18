@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-17T04:42:07.593Z",
-  "builtDateUTC": "2026-07-17",
+  "builtAt": "2026-07-18T04:26:16.379Z",
+  "builtDateUTC": "2026-07-18",
   "source": "yahoo-finance",
   "1m": [
-    79.69000244140625,
     79.44000244140625,
     79,
     78.69999694824219,
@@ -24,10 +23,10 @@
     83.45999908447266,
     82.8499984741211,
     80.7300033569336,
-    82.25
+    82.25,
+    81.69000244140625
   ],
   "6m": [
-    73.0199966430664,
     72.12000274658203,
     74.2699966430664,
     74.27999877929688,
@@ -158,10 +157,10 @@
     83.45999908447266,
     82.8499984741211,
     80.7300033569336,
-    82.25
+    82.25,
+    81.69000244140625
   ],
   "1y": [
-    77.91000366210938,
     78.41000366210938,
     78.72000122070312,
     80.19999694824219,
@@ -411,18 +410,13 @@
     83.45999908447266,
     82.8499984741211,
     80.7300033569336,
-    82.25
+    82.25,
+    81.69000244140625
   ],
-  "lastClose": 82.25,
-  "oneYearReturn": 5.57052513655744,
+  "lastClose": 81.69000244140625,
+  "oneYearReturn": 4.18313815343168,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Morgan Stanley Forecasts Strong Price Appreciation for Sysco (NYSE:SYY) Stock - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVk9tLVJEUXNIbG5DYXZEWEV0UkFVSG13SGk3TXl3MVhaSS1PLTZPdnRnZGtnTFk0aE15WDRHeXBhOXowWXFycjFvQWVYZzk1Qmp2elZnYVRhb2dUeDBzVzBMQVZCODltQlpIMzhEaGZnclZPdFphRDBESEZLdzNia01BTnc1OHRNMi00VU9jbjl3RURxZE1ocTR1bXlYM3oyZk5wUGcxV1FLTGZsTUZjNkZrcjl1VW9xSlAwQkMwd2JKTUFqMEhB?oc=5"
-    },
     {
       "headline": "Sysco (SYY) Stock Looks Undervalued Even As Broader Checks Stay Mixed - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXBSSmd0bXgxd05wUHBNQlJ3emNlMlZOZW4ydmROQ3RKZXgyOGNEb3h2THphYlNpTFRNZkJyazZDRjczZHZqLS1Sb1JYQUhORUp4RUFLVklqbVBESWwyei14bTFEZWRwQ1hKdXJQdFJPaDRCWUJSR1IxSXljTkFTa0ZIWlg4NmVIUzltN3dIQ1FldjRBQVd5dFhlQ0hycms?oc=5"
     },
     {
-      "headline": "3 Consumer Stocks We’re Skeptical Of - StockStory",
-      "source": "StockStory",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1R6NUJERTh0aEJIWUVvNllNSmF3NXRzRVJFdGNXUUF1VGNVNEJXb3RaNzEzMlVqbGwxdDhXa0w0aHNLZ3VZT0xuWnBXeXJTMGtXYWNMdEw2eksxaWkzNERrYWE4REpqcWRWVEtNWTNBWHg5MzYyTTFfY25uZDdLYTlCandlaE92bmZxY3NJdk5zUmZaeHEySUxR?oc=5"
+      "headline": "Sysco Corporation $SYY Shares Sold by Illinois Municipal Retirement Fund - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVnNhX29vTEx1VFA2cC1VblhjRmExOS1SaGZlLWNFM1hteU9Pa3VLRjJkUVNzVDJzTGxmbHNWRkRTWWV6czc4SkxkLVRlTUdxX292T3BlczZIUllvdmFwcm9GMnJGRlJUZTVlQWNnY0RVZFgwYm9KTFNWQVpDa25NbHlWdEYxa1lGYnFXOXN4TDdIa21GY0R3dW5PNURNLWt1UFBxRWpJN0U0UF9fRmhvT1hrUEY0NTJuZUxkWEhjVmhxcDZtb2lqRmRQY3Y?oc=5"
+    },
+    {
+      "headline": "Sysco Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQVFzZGpWYnZFeFNDcUFaek5KOFhlZXhZVkpQNGJNMlYtTUI5UDI3OUkyazlJRDNucVFDZ0d5aVJOMlZGUks0My1vaV9VWi1ueXZpQV9aZmxfcWV4Sk1HM0hDZS1aTWpJUTdDcHNpbllGSURWRHVTNDd4ZEhkdGE3RGkxUm5tTVdUblpBTGdqemVTMVNzMGQ0clBGVzZUTkFxWjhvSHJYTURVZ2NfclpEamo1S2VhNllEUXNWRzcwMA?oc=5"
     }
   ],
   "insight": "Tracking Sysco (SYY)."

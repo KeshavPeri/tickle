@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-17T04:41:31.115Z",
-  "builtDateUTC": "2026-07-17",
+  "builtAt": "2026-07-18T04:25:41.341Z",
+  "builtDateUTC": "2026-07-18",
   "source": "yahoo-finance",
   "1m": [
-    230.4499969482422,
     231.89999389648438,
     231.27000427246094,
     237.4199981689453,
@@ -24,10 +23,10 @@
     232.10000610351562,
     233.9600067138672,
     233.52000427246094,
-    237.3000030517578
+    237.3000030517578,
+    237
   ],
   "6m": [
-    214.16000366210938,
     211.17999267578125,
     210.0399932861328,
     210.63999938964844,
@@ -158,10 +157,10 @@
     232.10000610351562,
     233.9600067138672,
     233.52000427246094,
-    237.3000030517578
+    237.3000030517578,
+    237
   ],
   "1y": [
-    179.6999969482422,
     178.50999450683594,
     178.08999633789062,
     179.1999969482422,
@@ -411,12 +410,19 @@
     232.10000610351562,
     233.9600067138672,
     233.52000427246094,
-    237.3000030517578
+    237.3000030517578,
+    237
   ],
-  "lastClose": 237.3000030517578,
-  "oneYearReturn": 32.05342631146832,
+  "lastClose": 237,
+  "oneYearReturn": 32.765675476464274,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "AMETEK Inc (NYSE:AME) Shows Breakout Setup with Strong Technical and Base Ratings - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFBSTzhheVY1VGxyTnhpOTdlRy1HNm5EdDJETzdnN3Y2M3dTUVEyLUlrNjFZS2xoXzB5QXctLUdmRFhJU2NKZ1ZsUnVnQWVNTW9OT3lXMWthLVRSRlZQbmludldSbEdrd1dzMm9NMnQ4dnkyQmlsMzhmTDZUQldXVWE0OFBvcHY3dWg3S0QxdFNBZ0ZUZTFvd2JGeHFzbElSYk5zV1dtWDY5Q01hM1VWb2xJUXl2VmFoaEZUXzBKZGhUdFN3U3hfYg?oc=5"
+    },
     {
       "headline": "AMETEK (AME) Stock Has Strong Earnings But Cash Flow Looks Rich - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmp0TTJlRjdrNk5BbS14eVVoRTJSVEV3cGlteVRrTDlXQlJLX2l0UTRmdFJhZTlSaG54Tl9Hd2x3Um96Ri13OUl2bkY1RVR0V0g0VzVrLURVZ09tbGphenpsa0ExdkN3ZmFXbnFwejhwMnhGYW00RFNibXpmbTRTMHRfeTdTN0RiSWtuLUlxaW05YmNWSnpBWW5RV1REZw?oc=5"
     },
     {
-      "headline": "AMETEK's Aug. 4 Earnings Call Will Be Archived for Replay - Stock Titan",
-      "source": "Stock Titan",
+      "headline": "Ametek Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdVpEaTZRSnlaUEZiMF9CS1FqRXI3em95WEtXYjVuSmNzYmZHNTR6YVY0cnBfcjBGRW4wYjFhcTAzaWRQMnpLLVdIMmJsREg2OHk5RjdKMUtYdXVnOFRqVFNVWHphZGRLMWd1RDhqclJ4YUkzTmFnTHdlM3U4S0xmZWNuVHhHX3Z4c2FVWGFmR0JSSDhidEZsSGxVVTdlcUZzSF8zeENIS29sbGZwMUFIZjdKS1otTHMtZUE?oc=5"
-    },
-    {
-      "headline": "Is AMETEK Stock Just More Market Exposure? - Trefis",
-      "source": "Trefis",
-      "when": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUm5BQXBUTG5Pb1Q4c2Y1OURMRXpCS3VOWWsxRGx4NUJTUHVlQWVEaHVUSE1BR29JaE5RYTlrS193THNuTmE4WHpxbVQ0NHVkSFN2M2RVbGZiNWpVUkJhMzQxcjk0Y0l0THVJMzNKd0NYRVctVks2bGVNRHlaOTJtUWk5TXVXSWNFWEpHeVNiWDRIWG9MdWJmR1FwWHhTYmNQV3E0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTG9ETE9lTVZMRWVLMzllLS04bHJnNTY4RTRZVFNXUVd4S2E0N0pjeVk3Yms3SmR1eUNtUVJBQkdXeFJlaHRPOFZ6SEZJVVV1N0RKWnpBTndoTzlJTGR5X2ZIcDA3RUl2YkZwMG82bTh4YkcyR2EtWkxDUDVFelM5NjlWVnBMS1YyeFMtSVo5M0tPTXZENGpCbGRNSUFwclp5a244MlpVQko0MjRFal94eDVsU0p4bkNUOWE1NlJqRzJBcmFJMWhGRzZWTjlBUHRGcTQzTUZoSEx3U01KZUlIa2dEc0tWOTF2M0x1UWRUU0lpSmhzcTNSWWpn?oc=5"
     }
   ],
   "insight": "Tracking Ametek (AME)."

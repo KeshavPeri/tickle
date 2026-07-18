@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-17T04:41:49.280Z",
-  "builtDateUTC": "2026-07-17",
+  "builtAt": "2026-07-18T04:25:58.282Z",
+  "builtDateUTC": "2026-07-18",
   "source": "yahoo-finance",
   "1m": [
-    38.970001220703125,
     39.5,
     38.58000183105469,
     38.209999084472656,
@@ -24,10 +23,10 @@
     41.93000030517578,
     40.58000183105469,
     41.099998474121094,
-    42.619998931884766
+    42.619998931884766,
+    41.90999984741211
   ],
   "6m": [
-    67.05000305175781,
     66.7300033569336,
     67.54000091552734,
     66.83999633789062,
@@ -158,10 +157,10 @@
     41.93000030517578,
     40.58000183105469,
     41.099998474121094,
-    42.619998931884766
+    42.619998931884766,
+    41.90999984741211
   ],
   "1y": [
-    80.73999786376953,
     80.33000183105469,
     80.08000183105469,
     81.63999938964844,
@@ -411,23 +410,24 @@
     41.93000030517578,
     40.58000183105469,
     41.099998474121094,
-    42.619998931884766
+    42.619998931884766,
+    41.90999984741211
   ],
-  "lastClose": 42.619998931884766,
-  "oneYearReturn": -47.21327711229772,
+  "lastClose": 41.90999984741211,
+  "oneYearReturn": -47.82771207256444,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Fidelity National Information Services (FIS) Joins Project Glasswing, Is It Still 28% Below Fair Value? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMWp6akk5QUVlRTlVVmQxanNYVzM2c1dRcmZsVlNiVUdJczFwOWFfZ3dCenp3MDdrWUZCZHBzMGlSY2VmWjY5Q0hWaDRpRVZUcTBZVnBfMXFhWm1qS2JMTGJkbXFuY2JHMTNWdmRRSzlrNnYwd0dRckNwYzJSMmZmZlhzVjJvaVQ2VnEybUxoTDZiQ2ZXUGZ6RWFkaGNMRnJoRGdwVVlsazJTNjFpZlNtZUxBVXlaWEFmeTdQZ2NONzRhUHBKODJoT1poM0QtS2RVTUVFdTJIeksyenpKWDVEVEJNdDF2WnlFb3d4eGZ2SmpkbWk3RXhWbGpRcGjSAYICQVVfeXFMTk9yRE9xcGIzRWlBMGJJYTg2TklEUUNaMnFCY2tFaVQ0Z21BQ2ZUZmZNczdwOXl6dEVhd18xV2tsSXlmdHdHRnAtQTU4cktvbWxsYjVVVlZJa2VSc3BVNE1uY1JpX191azRCNmREeFNmcmVRY2ZnazNwTm1USVVKd0ROYnpEZFQ0RVFGZHZVczgzYXdWYk81Nm0wNmpBR205M0lyZzU2NVh4Q0FMay02RTFhQ19vQi10bEpiYXdwb05TWmdYcVhIQW5hMnR3NDY2SzY2WGc3aUpoNE1aVVNyNTQyeldlYVNzX2dyUzZwYXZBRjJRRko5ZUlwRDhQT3d2RWR3?oc=5"
+    },
     {
       "headline": "Fidelity National Information Services Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-07-16",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaVJtRnVvZUNEVXNpWHpBOThQRmh6WWxqVVVzdnBVcWVZTXp1NWFiMXJ3LUgza0Mtdk9QWEJ1U0V2SUJfRmw4ckJOdDkzMHF3dVFLNnRfQ3MwcWszWTgyQjhnNlJEeUpXWU5zR3BGNzRTblBzSTlYcWViUEswYWZFY3A0Smd3eGw5SWU1Sks2NWRiQmhBZTJKWTBPR2JPUHFSNUd2QmNOZDlMejR1VWM2VHc2N1NmV1FfaXN1bklRTjV3eWw4Qjl5Q1dtamk4dWFDcEpod0l4N2p5aUZZMjgxaFNaREI3TXdWaDZjSThlbUoyaTMtMXRxS2dkaVJFcnR5S2c?oc=5"
-    },
-    {
-      "headline": "Should FIS’s New Quantum Cloud Win and RiskTech Accolades Require Action From Fidelity Investors? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPYlpsNUdHZmtra3ZJMDFIX3pfMFZyOXd1VWVLb0xiRG1JODVfVXJQXzJQbXJvOVVaOFdHREFQY1piRDl3NkJ6RmM2OUotdXJ2aVNRM0Nnd2xlVXZoV1JKOEhwczNuNVU3SS12YjAySzJLbnBDdjNzTkQyVjJOREltY2pBZnV6LUNmQWdQSEZ4RmxHTlJzcVpOVEpfYXJaOFdfd1daa1ZuVDRpcnVrY1p5NGpQVHB6SThiWkd6ZEROUGNjNlZxTXdCQ0lOa1pSOEdyblJCQnhIdm13c2w1T0laMGpMMEo2ZGFtVXUwakEwTnpGay1OYWFVdzg4WDFVLVlwN3fSAYICQVVfeXFMT2JabDVHR2Zra2t2STAxSF96XzBWcjl3dVVlS29MYkRtSTg1X1VyUF8yUG1ybzlVWjhXR0RBUGNaYkQ5dzZCekZjNjlKLXVydmlTUTNDZ3dsZVV2aFdSSjhIcHMzbjVVN0ktdmIwMksyS25wQ3Yzc05EMlYyTkRJbWNqQWZ1ei1DZkFnUEhGeEZsR05Sc3FaTlRKX2FyWjhXX3dXWmtWblQ0aXJ1a2NaeTRqUFRwekk4YlpHemRETlBjYzZWcU13QkNJTmtaUjhHcm5SQkJ4SHZtd3NsNU9JWjBqTDBKNmRhbVV1MGpBME56RmstTmFhVXc4OFgxVS1ZcDd3?oc=5"
     },
     {
       "headline": "Fidelity National (NYSE: FIS) director buys 1,386 shares via fee-in-lieu plan - Stock Titan",

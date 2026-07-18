@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-17T04:41:51.069Z",
-  "builtDateUTC": "2026-07-17",
+  "builtAt": "2026-07-18T04:26:00.219Z",
+  "builtDateUTC": "2026-07-18",
   "source": "yahoo-finance",
   "1m": [
-    34.27000045776367,
     34.400001525878906,
     33.36000061035156,
     33.41999816894531,
@@ -24,10 +23,10 @@
     36.599998474121094,
     36.459999084472656,
     37.220001220703125,
-    38.70000076293945
+    38.70000076293945,
+    37.970001220703125
   ],
   "6m": [
-    43.84000015258789,
     42.95000076293945,
     43.91999816894531,
     44.599998474121094,
@@ -158,10 +157,10 @@
     36.599998474121094,
     36.459999084472656,
     37.220001220703125,
-    38.70000076293945
+    38.70000076293945,
+    37.970001220703125
   ],
   "1y": [
-    50.290000915527344,
     50.099998474121094,
     49.18000030517578,
     50.95000076293945,
@@ -411,12 +410,19 @@
     36.599998474121094,
     36.459999084472656,
     37.220001220703125,
-    38.70000076293945
+    38.70000076293945,
+    37.970001220703125
   ],
-  "lastClose": 38.70000076293945,
-  "oneYearReturn": -23.046331162442687,
+  "lastClose": 37.970001220703125,
+  "oneYearReturn": -24.211572101511457,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Jim Cramer Highlights General Mills’ “Blowout Quarter” - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-04",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUndZZFB6bEFOLWltbUNBZ0hZbzBtVGNsTG9NYVVoRHYwVGlpNnhxeDRkOXFacmI5b0ppXzFhTWswTUd5ZWgtM2h2aFVxdXlmNnlXWGp4SHhNNnFQWDhhSFRPcU85aDdyQ2Q2YWllUkUwT2R5aGFqeEp2eElZbTJ3R1duNTI5ZWZEOGQ0NnZmZlZMdUQwNzNGVEdoNVY5Y2hsSmc?oc=5"
+    },
     {
       "headline": "Why General Mills (GIS) Stock Is Up Today - Quiver Quantitative",
       "source": "Quiver Quantitative",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1haYjdqV1NfdFVKQV9aTWxfc1l4UnVpOE83NGp3Q1I4OENpdlpvOHJqYVRtOU9mY040Vi1DdXplYTBtUDhCZ0ZOcHJ4dEY5NUpXai02SG9hSURmOWZtZmZkY09UaEI3NTlLN0NfOTBpbjI0U0d4Xy1oS0hWWUYxVjIySHU?oc=5"
     },
     {
-      "headline": "General Mills Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "headline": "General Mills Inc. stock underperforms Friday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTlN6TVJLUGJSN291TDVFMEpodEQtcTc0ZnVjaHhJNzJCaWxrbmpEV2VvUWRqUlpwUjRjbS1pUFByNVJ2SnZfZjlOWFFPNnJCR0laVklQY2I5VDV4X195bVZ0cDcwdF9udElweG9mT0JVSVRxVFF1QzR4RE1vekRkTmlBZVM5R3IxWGljd3BJMjl5eDBXbllNVVFCNkhyYnF6Z2E2eDNvM1dsRzN5b3lTc3RQUGhPTDVfUDZId1FaZVJsSkRMZDBTRmNWdm1OV2JjeVpTNzZtYjNBYXVzUjZHLV9iWjZ4aURYYWVV?oc=5"
-    },
-    {
-      "headline": "Why General Mills Stock Jumped Today - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS1BVYXAxWHFaREVBWHhxV3RNbURoeDlwY291dUR2NXUxQ3ZFVlAxXzByb1Y3SUlabFVobE5wLUl3ZjBqZEluY2VKSUtBelhoV1BXR0xXVVlSZ09ySVc1cGNYUmwtbXBwa01RckJObElFLUx3QVl0c0U5Z25hUEU5ODFFSVZMNlBUdFlwOXlxNjZiaWkxWUpENGQ3NA?oc=5"
+      "when": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY1F4UUplQmdGWFd5SkNGOXJRTTM4WmVQYWlrcFhXSExfMWRta3lOVXpSTWN4dnM4S0RqX2RkX21uVHp5d2tlX2hnV2Z1MEMxdFE2RGNSa0lJVWhJN0hEWDdWOG1lbkpLdDBSdjVYd3ZPQjlXNDhwbEJJai1wdkxOcTZsd2lWRUl6NFBXNzltSjNnZlJFRk81LXMyY3J6TlA3VExCWmEzUlpEUl9Oa1pLSktnTkloWm90Vlc3TFNiWTIyc0ViMnJ5UkZTVk5uMmdZN1Q5b3NDUWFibUhWSmNpWktDY2FRQQ?oc=5"
     }
   ],
   "insight": "Tracking General Mills (GIS)."

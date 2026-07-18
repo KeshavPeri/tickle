@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-17T04:42:03.179Z",
-  "builtDateUTC": "2026-07-17",
+  "builtAt": "2026-07-18T04:26:12.304Z",
+  "builtDateUTC": "2026-07-18",
   "source": "yahoo-finance",
   "1m": [
-    90.26000213623047,
     90.68000030517578,
     88.4000015258789,
     86.83999633789062,
@@ -24,10 +23,10 @@
     87.27999877929688,
     85.75,
     82.7300033569336,
-    86.25
+    86.25,
+    86.05000305175781
   ],
   "6m": [
-    90.38999938964844,
     90.8499984741211,
     91.62999725341797,
     93.80000305175781,
@@ -158,10 +157,10 @@
     87.27999877929688,
     85.75,
     82.7300033569336,
-    86.25
+    86.25,
+    86.05000305175781
   ],
   "1y": [
-    91.58999633789062,
     92.33999633789062,
     94.1500015258789,
     95.3499984741211,
@@ -411,12 +410,19 @@
     87.27999877929688,
     85.75,
     82.7300033569336,
-    86.25
+    86.25,
+    86.05000305175781
   ],
-  "lastClose": 86.25,
-  "oneYearReturn": -5.830327056887847,
+  "lastClose": 86.05000305175781,
+  "oneYearReturn": -6.811775542113367,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "O’Reilly Automotive stock hits 52-week low at 82.66 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnRkTUtMVWJoZHdDN0xNclk0OVZ6YUZpVFEyUDhpTlFRaWdTZ2J0MnFqYkVPQWRCNl9QeDJVWVFjbkNPR2Z2eDV2X1VJOUtnYU80eUlYb3FNUnhVUXdha2tjSG5YLUZXaklzVTRWRm5GdTJ2UFhqbTNsV2JVQ3ZhZGNLNW9UUXZ1MDFabUZSRXpnQnNsa2VMREhrckdUNm9hTEtrX2dtMXNYODU3b3c?oc=5"
+    },
     {
       "headline": "Why O'Reilly Automotive (ORLY) Stock Is Up Today - Quiver Quantitative",
       "source": "Quiver Quantitative",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQREtxM2VLSDBaYWFnaHByREtYd0dzcjFINVlsVzhVdU5UR3RKaDh4N3BEYlpqaElVa0FoaDJCQy1DaXZFRGpHMXFjWjJrV09qN0V6ZENVZ1phalpsa1VVSTlpNWdSekZWRDd4Qng5QW5JUnk2ajlSYjJhX1ZHT21jZEo2NERtcWpQd0ZCWElqTjU?oc=5"
     },
     {
-      "headline": "O'Reilly Automotive Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX3d3SHppTUlNSjNTdDFjMnhFRlJjSU9ZZzkxcWNoT3AyS0NjZFUzQ0RaVTQ1Wi05MkFiOXFmYkl0eno4TW91WTZ0ajRTV3NLSGtnV0FaOWEyMWE4Q0UweFZyQWhzU3RzbEJDT3UzcnBpM3B6a2dCZVdmTlBpYXNYRGQtODgxSWxweEY1RmFGSk9sd1lBWXN2b3EzWENKdl9TNnBkN05Ncy1QcDVDS2xyM0FvdnR4M2hyVzBLSXRRdnFDTHJqdkR6VEQyc2FLRU9tX1B0cGdGR3ZiQW5Idjl4MmgzQlkzOVJs?oc=5"
-    },
-    {
-      "headline": "O’Reilly Automotive stock hits 52-week low at 82.66 USD - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnRkTUtMVWJoZHdDN0xNclk0OVZ6YUZpVFEyUDhpTlFRaWdTZ2J0MnFqYkVPQWRCNl9QeDJVWVFjbkNPR2Z2eDV2X1VJOUtnYU80eUlYb3FNUnhVUXdha2tjSG5YLUZXaklzVTRWRm5GdTJ2UFhqbTNsV2JVQ3ZhZGNLNW9UUXZ1MDFabUZSRXpnQnNsa2VMREhrckdUNm9hTEtrX2dtMXNYODU3b3c?oc=5"
+      "headline": "Financiere des Professionnels Fonds d investissement inc. Takes Position in O'Reilly Automotive, Inc. $ORLY - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM05EanFyMTYyT2JrRmZOb25SU2t2eEdqb2V3LWlTVlhyVGtuUUdRYXJ0VlZXSHgtZmpneWV2WHNheHc1a1J1ODduaXg2dkI4SUkyaEQtN1ZkbXRBcnFWb2FLY0VuRXRCMzA4dWxCVU5wUTg3ZTJhalpCR0c1UURWeU95TjhRVXBKcFdNNUpDMHpZWElyVlFZYnJidTJTT1pLLXNLSzZzcl9VVUg2NDY1dlFkOHM5RHNqMl9zWll4VGFuanp2LWFpYjZxOFdtMVFSbDNZcVo5czZ0bVNwX21EenlFbFpycEVGXzJHZnRLR0ZRNG81SUE?oc=5"
     }
   ],
   "insight": "Tracking O’Reilly Automotive (ORLY)."

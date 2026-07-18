@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-17T04:41:53.729Z",
-  "builtDateUTC": "2026-07-17",
+  "builtAt": "2026-07-18T04:26:02.826Z",
+  "builtDateUTC": "2026-07-18",
   "source": "yahoo-finance",
   "1m": [
-    24.579999923706055,
     24.649999618530273,
     24.329999923706055,
     24.15999984741211,
@@ -24,10 +23,10 @@
     24.459999084472656,
     24.809999465942383,
     25.149999618530273,
-    25.709999084472656
+    25.709999084472656,
+    25.389999389648438
   ],
   "6m": [
-    22.850000381469727,
     22.34000015258789,
     22.8700008392334,
     23.229999542236328,
@@ -158,10 +157,10 @@
     24.459999084472656,
     24.809999465942383,
     25.149999618530273,
-    25.709999084472656
+    25.709999084472656,
+    25.389999389648438
   ],
   "1y": [
-    29.68000030517578,
     29.139999389648438,
     28.889999389648438,
     29.450000762939453,
@@ -411,29 +410,30 @@
     24.459999084472656,
     24.809999465942383,
     25.149999618530273,
-    25.709999084472656
+    25.709999084472656,
+    25.389999389648438
   ],
-  "lastClose": 25.709999084472656,
-  "oneYearReturn": -13.37601475701741,
+  "lastClose": 25.389999389648438,
+  "oneYearReturn": -12.868908986086435,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Hormel Foods (HRL) Could Be 5% Undervalued Following Pepperoni Snack Bites Launch - simplywall.st",
+      "headline": "Hormel Foods Corp. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRU0zUzFPdUZLbW15WHdCSTFReWZPRjNSTUVENGFMbVgxeGJsbUVLSURXd0hYX2F1MHhxQ2dWNjR5N0tTd3NoRGR4TmtQTmJVTzJyUXVDV1I1VEZac1NQY0xSbnBxUDhZdUhjclgyTG9adGp3dkgta1ppcFpSenNGVUVKdG5mZFFWUVV1M2t3ZmxUbENVYzBpSU5femgwbzdxdldaNVJ5N3l1Uy1ySG82anlmb0xWMGlSV2h2c1ZOTFloYmJlaHpCV05tQ0ZyVl9ROUFkbGpaeUtieG5lUEZJOXRMNGNSUQ?oc=5"
+    },
+    {
+      "headline": "How Hormel’s New Pepperoni Snack Bites Launch Will Impact Hormel Foods (HRL) Investors - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYldRSEpNRVdnUm5sOGlSUDhSYVdoZFpDTnA4NDBQRVRvUkNSQVBOYThqSnVGdk14Z3l0NHhvMzEtejVidXkxTjZYTWxqTm1lVldXdG1oc3BIS0dPYTNrZk0wMktnbnlLbWdLMEI4QmlfNDRub0VxNVZNcW5wV2VTUTRJVENmUXltZi1xX3JqM0FoM1FWb3E2OFg1dGRrUXV0aEpmaVJRZFBaYnhCVGx1YjY1Y2VPeVlHeURLczlTeGlBcnIxbS1PX3p3ZEhMeVNvZXZLNnphd9IB3AFBVV95cUxNVjJ6YndDcXVtaUs1U28tdVBMR2wwYUZQaDF6UG9TNF9KOUNlWnBHMkptQ3k1ZmdqV1RkRVo4RnZfVHBfUU9nNjZtS1JNYWJJdnEwQkc0VXZoMVRYYUdHbURDbzBfYmltNGJhMmNjWl85QnVsZmNEUi1tZGhIREVfZ3FhbTZad040X0EyaC1XOE5mMXNuUmpHS2lYM1NXWF95WUhTZ0RjSUV2NUJHanFtR0pnZC1YMlVkZlRVdEJKeFViTGVIWnNBUVQ5ZHd0LWNSaGpBZ2FhRlpMdVhs?oc=5"
+      "when": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNblFoY0RFWXhwQ0tEMFBKd0hFaUxuM21yRnBTNkwxRDB2aElqYm0wMzlwTnVKa01LeW5XdEZtMFhrNlFPV25qZ2lVd1JvTDV0aWlfT04xSlJnSzB3ZURjSEFMUEZQS25va0lJakNvZE5Tckt2UzZiRGRTZVJUZFNjWFk4RDE4RVFQbTh2S3hLNW42eG9oR3ZHSC1vWHhJN2gzRjdQQ0p0emZCVFYwOGFDVEFld1FKS1RabnZXMHRwZFVPNWJFaVhqZUFxNUEycTV1VWZIOHlUYzV5ajdtbkHSAd4BQVVfeXFMTW5RaGNERVl4cENLRDBQSndIRWlMbjNtckZwUzZMMUQwdmhJamJtMDM5cE51SmtNS3luV3RGbTBYazZRT1duamdpVXdSb0w1dGlpX09OMUpSZ0swd2VEY0hBTFBGUEtub2tJSWpDb2ROU3JLdlM2YkRkU2VSVGRTY1hZOEQxOEVRUG04dkt4SzVuNnhvaEd2R0gtb1h4STdoM0Y3UENKdHpmQlRWMDhhQ1RBZXdRSktUWm52VzB0cGRVTzViRWlYamVBcTVBMnE1dVVmSDh5VGM1eWo3bW5B?oc=5"
     },
     {
       "headline": "Hormel (HRL) Stock Could Be A Bargain On Cash Flow But Full On Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-15",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2lTV1duSUp0NTlHUk9jTzBVZHVUM0VRemI5TXM5S2VxQUhiVVNGb2VQNVJkNXQweDlqM1REaEhIZ0ZtZkpDLW53OEhnbk8tTWdoVHJ0S1R2RlF4TVV3dFFqekR1aFNQd3hzV3gwOXNucW5BX3NFclNuenBwWDRUcFpMbkozTDdMX213WXNjb1BpUU0zaVZ0ZUR3NA?oc=5"
-    },
-    {
-      "headline": "Hormel Foods Corp. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbkZSTDJNNW5mU1pnTTBUb0RqanBvYl9RTUxtMVdOZXZWNzMyem9jbmpLeWZLM2JPd3o1S3BSai1nY1ZlSHhFYnZ5a01BVzVzdDZSUlRfVExvV0NGSkxpbHRvaWRTQW9fTkwwZ19Vd2NIalNnN2NGTDViLXMzTlJhbDZDRzF6OVFMQjdBVDA0WDhNMzJ0SGZGN1QybWxlUUZYbWJGZFphUmhQcFhfZnhRSUhhOF8xelktVDJhYzBVcXdqSmQ4SUo0UQ?oc=5"
     }
   ],
   "insight": "Tracking Hormel Foods (HRL)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-17T04:42:01.756Z",
-  "builtDateUTC": "2026-07-17",
+  "builtAt": "2026-07-18T04:26:10.851Z",
+  "builtDateUTC": "2026-07-18",
   "source": "yahoo-finance",
   "1m": [
-    45.20000076293945,
     45.040000915527344,
     44.189998626708984,
     45.20000076293945,
@@ -24,10 +23,10 @@
     43.7599983215332,
     42.86000061035156,
     42.77000045776367,
-    44.56999969482422
+    44.56999969482422,
+    43.7599983215332
   ],
   "6m": [
-    65.3499984741211,
     63.220001220703125,
     65.26000213623047,
     65.91999816894531,
@@ -158,10 +157,10 @@
     43.7599983215332,
     42.86000061035156,
     42.77000045776367,
-    44.56999969482422
+    44.56999969482422,
+    43.7599983215332
   ],
   "1y": [
-    72.9800033569336,
     72.47000122070312,
     74.0199966430664,
     75.38999938964844,
@@ -411,12 +410,19 @@
     43.7599983215332,
     42.86000061035156,
     42.77000045776367,
-    44.56999969482422
+    44.56999969482422,
+    43.7599983215332
   ],
-  "lastClose": 44.56999969482422,
-  "oneYearReturn": -38.9284767817296,
+  "lastClose": 43.7599983215332,
+  "oneYearReturn": -39.61639632340463,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Nike, Inc. Stock 12‑Month Price Target Cut to $50.06, Implies 12% Upside - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaEhRN3N2cUpELUFXYUpuY1UwZTM3Q01WTFZMYWl3QXVJYkF0QWhiWk9VYmtNZC1oQU8yX1lndUxFSlAxTWZPSVJ3cVN0dzZBTmhzY19aTk9JUkRYekwwak9LM1BEWVZsOURhUWhlZ0w4R3pLVWNNSzZOeTBldGVTN0psdlgzaFFBOVg3T2FEWkpYRHk0MlpGSFd4a2N1RnZySFROUWtNWWlOTkZ1S3NoRWVxczZmMEhIWFdZUTlKc3MtX3Z1ZkdZTA?oc=5"
+    },
     {
       "headline": "Nike Inc (NKE) Stock Up 4.2% and Still Undervalued -- GF Score: 70/100 - GuruFocus",
       "source": "GuruFocus",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkxxdzZZeGZZNXR3ZG1PNmVudkw1WldZYjJyQlpTbFlSUFF4eUZSQWgzQ1hpS2xpU0UxWC1Na3RhckdNN1A3dklyVzQ1V2V5WE9aVV9LN3F5NUVhdm5oaWp2R3dqeVczY0tYT3VQbjMtWGlKSkRmSzhiWnF0THo0b2djQlZfRFF0eUpZTk9aODRCaWhEV2FMcEZwSVczWTM3a2R0OTJkcVZydGtWU2lYWm5n?oc=5"
     },
     {
-      "headline": "What's Going on With Nike Stock Thursday? - Nike (NYSE:NKE) - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFd5MWtqczBKWnFBcGJnOTlFMUpEOVZfNWYyUTctTk1JRm5KbktobXlKV3ZZNEt4R0owMWVySk9lOFlfalBXRDMxWWNhdTl2OTFFNHdQX2VVUkl6NWJZSkJpUW1FMmxSODVzOHhqYS13S1VaSHU0cFpYbzdpTy04TV9vWXNaVkpUcS0zeTBOQnk5RXYxR1BMSGFzOURmX1hONG9jMA?oc=5"
-    },
-    {
-      "headline": "Jim Cramer Has Had Enough With Nike Inc. (NKE) - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-11",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM2lGemtoN2daRU91T1FlQ1VaZzJBTEYxTC1VRzNjUFhNVlc3YWxaYWNOdWV4TGVmTFBGckk4aVJja1FOcmR0RTRJTHNRdjFweXQxaTl5OTZKQWpuRTZ2QzU2RDdPMWc2OXplaXRiVTZrdm1RUFFWWDE2emZjV1pmb2ltamFPYUhNX2FZT1FPY0pLMFAwaEE?oc=5"
+      "headline": "Bank of New York Mellon Corp Has $803.05 Million Stock Holdings in NIKE, Inc. $NKE - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOckt3bEVIZWVUV056bHlod3BOS0o3cWxvZFZIRGtiQURwMUxCLUp6UVh4RVozTWNuV01qSlBnVHR3OEdkb1FpdmxMNnhTWDREUWJaV2JGc01aa0Jrb2ZhUm15WTROSHNUMHhCcksyZ1FnbVpzeU9pd0JpUnpnUHh5RkZJV29fVkZLdW03TWJmR3U3UTB3Vlk5aFVTdGM0YUdRSDZFY3ZhSkRQWGEwZV9icHczNDlTOW5ySlFaSjV4a1pvZENLSFV5Wm9VN29FUU51MUlVVg?oc=5"
     }
   ],
   "insight": "Tracking Nike, Inc. (NKE)."

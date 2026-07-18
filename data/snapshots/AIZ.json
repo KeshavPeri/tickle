@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-17T04:41:30.110Z",
-  "builtDateUTC": "2026-07-17",
+  "builtAt": "2026-07-18T04:25:40.417Z",
+  "builtDateUTC": "2026-07-18",
   "source": "yahoo-finance",
   "1m": [
-    259.4599914550781,
     260.54998779296875,
     262.1300048828125,
     259.8599853515625,
@@ -24,10 +23,10 @@
     279.8800048828125,
     276.9800109863281,
     273.9200134277344,
-    275.44000244140625
+    275.44000244140625,
+    276.8399963378906
   ],
   "6m": [
-    235.6199951171875,
     236.5,
     238.02000427246094,
     238,
@@ -158,10 +157,10 @@
     279.8800048828125,
     276.9800109863281,
     273.9200134277344,
-    275.44000244140625
+    275.44000244140625,
+    276.8399963378906
   ],
   "1y": [
-    188.0800018310547,
     188.07000732421875,
     186.10000610351562,
     188.22000122070312,
@@ -411,12 +410,19 @@
     279.8800048828125,
     276.9800109863281,
     273.9200134277344,
-    275.44000244140625
+    275.44000244140625,
+    276.8399963378906
   ],
-  "lastClose": 275.44000244140625,
-  "oneYearReturn": 46.44831973620663,
+  "lastClose": 276.8399963378906,
+  "oneYearReturn": 47.20050276843931,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Assurant (AIZ) Stock May Be Fully Valued Following Its 124% Run - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnJmMDR6ejlOcEJoTTZSRDBWa3FnTWNJaWxZVWJ1d0JCdm9MdHdhQzNOUzJqeHQxZ2paenl5WF9nQlhZOUtnSUxSbmRGSzEwVWczeFg5LUdCU2pRWE52eGNLU0p0VU4tSjBKbmtiMzVGUnJzU0tBNVd1bHJKSkJ0NEdPMVB3d3pHcGo1M2JqWEwtb09SY0pHbkx0QTQwMTBNOGtlSlJSSldCRG9CdVFpNmRMWGhnNE81WXUwenk0LWhISTjSAcgBQVVfeXFMTUFhT3hVUXluYU1vNXM1VUU3d0J5YkxnMnNfUkU1Qkt5VWphZE5kVXVpY3E1WHVsb2JVVXRxRVE1cFJpM0Y5NC1oY3RBaDFKYmFRZmNtcFQxMWh2TzJ3TkdKWHBEZGtkeUtEVnRRTGFwR2N2V3Yzc1JmQnFVaFBzZWlqbVdxQWZkMDM5YjVhWHltZ1hqT0RkdmJMQUtYU3J3VEhWbDVzVUFlcDVFajlvalVyY0I0M1Brc2NpWHYyczRhTGJ4YzNZV3U?oc=5"
+    },
     {
       "headline": "3 Reasons AIZ is Risky and 1 Stock to Buy Instead - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -428,12 +434,6 @@
       "source": "MarketWatch",
       "when": "2026-07-15",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc2FqcjlxM2VNeHdFMkMtMk1oXzFtUUQxZTduTXZmak12c2FhR1dxSHJNeWxrYjB2ejduWndxRmxLMUs1RDBwU1JVZkFlbnJNVHpDY2NYUGtZZXBoVFpjeExsaktyc2k3SWhfYUlHNjB3WkFXYm53dFdxVFFWSkI0cE8zRkl3RjZCQjI5ZGtGY2dNMEdlQmFTdG1yaWdkTjlqelppWkhKTlA0eTJOb0FWZklCbUJCcUFsWno2dWw5X1pqVFZ4eTBieFRNT3hqaTZjdXZLY2QwOHZHaHRzOC1PU1Y2RQ?oc=5"
-    },
-    {
-      "headline": "5% Below Fair Value? Assurant (AIZ) After The Analyst Upgrade - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSVlqZ3ozNFQ2eHgwbjBjZnZzb0cyNjRTRERKWHQ5UXR0d2lUSU1FNy1INkZCbi1Zb2g2emlpSzJIbkQtMUNtUXh4bUpvYnJESVlZQ3lIdEd5TERqZFdwZEdPUWxVX3hONHRZMjdrSE5Ec291N2luNHYtWW5vSmFLalhRelNJOXhSMzYwV0ZETnVDQVBNdHM0NGZYdE9MbU9zbjNHdTh4cnBlbGFIVDFXOXI0RnhHNFBScUtHMjBXWdIBxAFBVV95cUxPcnI3RzRkTlg1QU1vc0JCRzZ4MUR1bEdoQVl4UnBfdzhITnNfRGd3YTNOdGtYX1JjcWI2NDJaRzJxTEc1LVRxTnlGWTIyV0FLM1I4TzY4dDRoV045V0VnSl9INWlFN3Q1aE0zWTgxcnh1X0pSODU3STBHdVNmalYzQnRJb1JxMjgxWk9zSU82anJkSVZZRWpFRDktMUdXVUctWENONDBva1VjREFzbzVEY2prYXJlWDRkMG9aUkdzbGpmQjN3?oc=5"
     }
   ],
   "insight": "Tracking Assurant (AIZ)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-17T04:41:58.416Z",
-  "builtDateUTC": "2026-07-17",
+  "builtAt": "2026-07-18T04:26:07.618Z",
+  "builtDateUTC": "2026-07-18",
   "source": "yahoo-finance",
   "1m": [
-    116.20999908447266,
     115.5,
     111.76000213623047,
     111.7699966430664,
@@ -24,10 +23,10 @@
     120.30000305175781,
     117.31999969482422,
     117.41999816894531,
-    118.79000091552734
+    118.79000091552734,
+    116.33000183105469
   ],
   "6m": [
-    215.8800048828125,
     211.72000122070312,
     212.1699981689453,
     203.89999389648438,
@@ -158,10 +157,10 @@
     120.30000305175781,
     117.31999969482422,
     117.41999816894531,
-    118.79000091552734
+    118.79000091552734,
+    116.33000183105469
   ],
   "1y": [
-    233.30999755859375,
     229.77000427246094,
     223.2100067138672,
     223.92999267578125,
@@ -411,12 +410,19 @@
     120.30000305175781,
     117.31999969482422,
     117.41999816894531,
-    118.79000091552734
+    118.79000091552734,
+    116.33000183105469
   ],
-  "lastClose": 118.79000091552734,
-  "oneYearReturn": -49.084907565654454,
+  "lastClose": 116.33000183105469,
+  "oneYearReturn": -49.37111038518729,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "This Analyst Just Downgraded Lululemon Stock. Here’s Why. - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYllfSWNkUmdLTXNrcFByV1V0ZGtoNHNOWlA3ekl2cUFsREVCS1VZdlZQV3Fvd01QU3RtM0thY0h2Mkp1WE9uVG1PSVR1RGExd3BROUQ3SGxmVXlsN1EtYTk0ZUs2aVJSVkhPc0ppc0RvQzQ4M3A2M01MVm84bnpmRUdVMDBTdFFjUkhCUVVkOVhVcmVwWUVwRFVBNTlnQ25HQzJaRTJ4TQ?oc=5"
+    },
     {
       "headline": "Lululemon Stock (LULU) Gets a New ‘Sell’ Rating. Here’s Why - TipRanks",
       "source": "TipRanks",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTEFIeXRDUm0tb0I1N1p2ZmlwM0htNThaNlVVR01vRUV5Uk1RTDg3MFZ3RXZSOXRycENUUU1wZ1dIdnBxQWRhalR5dGdIT0pLaGNtWWJPU3lPeVJ1VVphbjF6aHZ0YlpIaFY4ODZKOHZrbmpBYTZidjJUVS1LeFgzWnprRlBGRzZRWVBn?oc=5"
     },
     {
-      "headline": "Lululemon Shares Dropped After the Company Cut Its Annual Forecast. Is the Stock a Buy Amid the Selloff? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-06-08",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcDBqYXBsZWZpeVE3aWEzYVJpOUF2Z3FQS3pNc2cwS2p5WkhwQzNBaHBZcmVZR2NmcXdwZWQ1ZG12NDdRMGZDZ2Y4VnhZMjNiMkRFZ1N3azNRUUZ5RmZ0TjJOZFJjM3FkMXB5UjdtZXFSVGlycExJWm0za2Ewd3JqTnNjU0tGdFBxQ3ZFUWRZM2ZTXzY0ckh2d212Y2tLbFpBQ2QxYU5LWmVGSFBCbXNBanZXYmIwcDZ4a3RfTlBOSmVweHd3QjBCUUh2dzhoVEk4Y1ZaeU80VzJRcXNZU2c?oc=5"
-    },
-    {
-      "headline": "This Analyst Just Downgraded Lululemon Stock. Here’s Why. - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "lululemon athletica inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYllfSWNkUmdLTXNrcFByV1V0ZGtoNHNOWlA3ekl2cUFsREVCS1VZdlZQV3Fvd01QU3RtM0thY0h2Mkp1WE9uVG1PSVR1RGExd3BROUQ3SGxmVXlsN1EtYTk0ZUs2aVJSVkhPc0ppc0RvQzQ4M3A2M01MVm84bnpmRUdVMDBTdFFjUkhCUVVkOVhVcmVwWUVwRFVBNTlnQ25HQzJaRTJ4TQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYlRXZmI3MEFVbHpIZUxJUklvdFViZjhGVS1WeXFad2JvS3NOTjZOc0V3U2lNbnV1UnNqcks4aGdKNEp6b3JwdHlscVRCMVNCWGRWSzBZTGpWWXlIOEUzbFVIb0dvOTBrS05yX1hSaWhycGZWXzc2Mm9hOUFGRVpqWWVBSVJZZlhHQ3V0b0xLLXZYenlHSFBWVWw4ckUxcHczcVNZTzZ3T0VtU1BBaU1PbDlBUnFEdmtGV3VEN3FfV085a1Nqak9MUkZBS2tnT3hvc09IS2p1ZGFTUy1CaFN1d1hGQmVMRFdWZ3JoOEJpMHVWdzE0R3d6UnJaZ0NrZDRqYmFjWlZ1cU1VZjQ?oc=5"
     }
   ],
   "insight": "Tracking Lululemon Athletica (LULU)."
