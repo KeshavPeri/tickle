@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:07:07.913Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:48:02.507Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    118.51000213623047,
     115.83000183105469,
     118.31999969482422,
     118.68000030517578,
@@ -24,10 +23,10 @@
     120.3499984741211,
     120.97000122070312,
     118.80999755859375,
-    115.41000366210938
+    115.41000366210938,
+    117.5199966430664
   ],
   "6m": [
-    116.5999984741211,
     115.47000122070312,
     117.31999969482422,
     115.29000091552734,
@@ -158,10 +157,10 @@
     120.3499984741211,
     120.97000122070312,
     118.80999755859375,
-    115.41000366210938
+    115.41000366210938,
+    117.5199966430664
   ],
   "1y": [
-    92.25,
     92.3499984741211,
     90.77999877929688,
     90.43000030517578,
@@ -411,23 +410,24 @@
     120.3499984741211,
     120.97000122070312,
     118.80999755859375,
-    115.41000366210938
+    115.41000366210938,
+    117.5199966430664
   ],
-  "lastClose": 115.41000366210938,
-  "oneYearReturn": 25.105695026676827,
+  "lastClose": 117.5199966430664,
+  "oneYearReturn": 27.255006588872448,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "United Airlines Holdings (UAL) Could Be 16% Undervalued On Cautious Guidance Reset - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTzhZYW1zazdrODFPT21PaDhDZ1RaeEFkZEw0RjFLVVdZTXFyTU9pd1ZFT0FzeW1pSG44SkFVdy1tQmZCYzgyMUw1ZEhQSGFIRjROb2o2NXhWRm5Ed2txT2dMS2ZKekplOTFGQlU1ZEhKMTBwUjdWUXB6NUNtd1M0eERIVkRGTHZDczZIQ1J5Y3psNVlDcHU1QmtrQ3RPeU1COU01QTlPeDlveGM3eXFsTVVCQWpubk04d0REQy1vSzdJaVp1TjVyUnlac1FiWVRlLXJaWDhLYUhJYUFhYzBwVHhB0gHnAUFVX3lxTE9Ic3I4elN5bFhuRlVfaVgxQ2NlSnpFa0hiUG9ZQ1JPUGc4dU83Z0U1WDl4RkllRzFNTFdTamJVR0FBMHRWcGN4c29qbzBaOXhOSVdtT0haZVotcVctc0MxTjJaZ0l4YmdMVVNvaGp2czhLXy1sUl9Sazd2M0t4NmJja3hUUnJpRF9JZFdLV3B2cHZpbU1TcXQ0YWIzQ0VoUWhuTDhvcHFZMU1selM2MkJqWEswaWNZSHgyb3AtZVphdVJaVHFHUDF6bTNPaFRfSDBxcksxYXRNVzVhcjVXQktwWDV5T292bw?oc=5"
+    },
     {
       "headline": "United (UAL) Stock Looks Fair On Cash Flow While Earnings Hint Lower - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-16",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDNCUU12UVk5YzJFT0VPYWRHaC1vMTUtZ3N5b2Z1QWpmanVIZEh0S1ZLdTVLREFxV3Q3RXhyVFdudkp6UXNKakJ1eXdmUXFpWUhESmNKYnR5NFRqY3VfWDNuRkRBM2VYeHIydXVQMkRqS201bll2ZHFrME9jMFoyU2RxcXE3WkEtYUJYYlZjVW0tV1E5QjVV?oc=5"
-    },
-    {
-      "headline": "United Airlines (UAL) Stock Looks Fully Priced After Earnings Beat - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2h4RHk0Xy1ueEZLVjFzV0dqYVZFeFlxX1U2LXhGTVNQZ0lvMkdaMThCMXVIUGM3dWloQzNfVVp2Q3VMS3dhaDhEM1dEQ2ZFWHY5eG9UZlJHMVRSb0xndXZmNm5tek9jLW5UREtxUTBvY1UxRlhQVGlQZEJRNXRJU3RNWTQyajdsWk9SVHV4Q19fS3pWSDE4R1hydU9oTVF5Nk5wb2VWS1JYSU9yRWIzRHJQNHpkTjBJSXpmX1ZyRDRiRXpUMjJ1MGh2U0pUa21xc0t1VTRYWjNzT3lQYnlCTdIB5gFBVV95cUxQY3JicHdYNHJHZmNkRmZkWHNkR1YxUXMtRkJWSXJtQXhwWDh5QUtDZjlrTGFNV3JpTzI0Qm9yUHZyaVJfenBqajFqVENpY2lCUVpmTTlkOVdhZ0NxOTYweGc3bUJ5aHhWalFlZzBFN1h0b0ZWT3hYcHpCQ2FWSlEzV2kySHFuTVJRZm9VZ2hTSHVYY0MwTlJCN1o4Vnd1Z2k5NUdBd0J2YTFxMjdqR2otQXJQWVBBTE9jdXlpaDFYLUY5SWV1eVhZSER4T21ocnhlZXZ1dGU3RG9falZERGJIc3RrR0JCZw?oc=5"
     },
     {
       "headline": "United Airlines Earnings: Premium Segment Helped Weather Fuel Price Shock - Morningstar",

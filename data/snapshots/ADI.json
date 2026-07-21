@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:06:14.204Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:13.168Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    416,
     414.45001220703125,
     434.4599914550781,
     445.4800109863281,
@@ -24,10 +23,10 @@
     392.75,
     390.9599914550781,
     380.5299987792969,
-    375.3599853515625
+    375.3599853515625,
+    372.4599914550781
   ],
   "6m": [
-    292.8900146484375,
     299.1600036621094,
     300.92999267578125,
     293.8599853515625,
@@ -158,10 +157,10 @@
     392.75,
     390.9599914550781,
     380.5299987792969,
-    375.3599853515625
+    375.3599853515625,
+    372.4599914550781
   ],
   "1y": [
-    241.85000610351562,
     240.47999572753906,
     235.5,
     228.0800018310547,
@@ -411,12 +410,19 @@
     392.75,
     390.9599914550781,
     380.5299987792969,
-    375.3599853515625
+    375.3599853515625,
+    372.4599914550781
   ],
-  "lastClose": 375.3599853515625,
-  "oneYearReturn": 55.203628645311056,
+  "lastClose": 372.4599914550781,
+  "oneYearReturn": 54.881902059359156,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Analog Devices: Shares Are Almost Too Expensive (NASDAQ:ADI) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNGhnenZUUzlteEt4MUNPOEl4TU93bnNMQk9sN0dFWi1XRGZzSHhFWGUzWnFncFNDTmlWWjhHSmdmQjJja0lLeXJjYlVEcjViUnlWbzZ6c2t0Y0p6b2czbXhjQ3lQUjFXSWVUd3JiQUdKaUxPaDVfSmk1U1NfelpvXzZJMzBST3JRV1RqanAwZTU?oc=5"
+    },
     {
       "headline": "Is Analog Devices (ADI) Stock Outpacing Its Computer and Technology Peers This Year? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBlUkFLbXB1dGd3MGFRN1pSMlhhRDRRRHlhZERGaFJnR3pvZ1VNeHB4SVRkcm8xT0RvUHFUZks0eGVoeVRmc0RBYkdNSnRkUmVOLV9RUklIRTl1T0Q2bF9oaXVxcUJBMm5YZEpSeVoxaEo4RVM0MzRlcHBMYlBHeUk4T0VKNnd4T3QwZzRHU25peEpZUlBMczdidGdmblFh?oc=5"
     },
     {
-      "headline": "SEB Asset Management AB Buys New Shares in Analog Devices, Inc. $ADI - MarketBeat",
+      "headline": "Mediolanum International Funds Ltd Has $16.35 Million Stock Holdings in Analog Devices, Inc. $ADI - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3g5U3R2TzVpTFl6eEg5RnNvWEdJTWthXzV3ZzM3SHE4alV2WGgtTGhmdHRqNm9vWkNhelljai1TdlRTQi1OQ09DX0NOazdoT1dXcl9lOGpLSDM0M1R1NHVXNjVGRDQ5SGRtWTZCS0x1QkF0eURPdWtmR053SnZyQzdRck5JUlcyalk0d3VRdXllSXlUS0dua0tqOVp0MjdwRjR6aXdINlFITzJneHBUTG5qV28waE9KOGtLS1JHTkUwV05X?oc=5"
-    },
-    {
-      "headline": "Analog Devices Inc. stock underperforms Friday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYTQ2UmNFS0lOaTlJVUU0WlBrRzl4WVgzSTYtQlBKZUlaX201amsxLUxnbldYdkdWZG5DQTB3MDVYa2dpTDdCUEZIajdZYlZtbnpCanowQjZWaUl2aE5kU3diblpKbzJuNFQ0SmFGaXRIOEs2dEtnSmdJNUs5SWllUmdQMFJGSmtkbl9iM0p0anZGVDFOV3U4MkZEZ3VfaFRRQ0t0MGNaSUZreXctaTBNWHZ1bmlVTnA2V3VUWU5NbDNiVzFVNW93aWZzaDBZbHZ6NGx1bzM5Z1p1UzVNNndiTjlvME5idWs?oc=5"
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa3R6YW1ZX2JNRUFhM0RSQ0FwWFdCQl9ZZVYtS1BvaW5haHRxcVRmc01mSV8wdnJVaHZHWHI1akNPSFIxZVFjTVdwYjJVRmhjWm52VWd2NHpkY2x6dGhpaUpNVnJKcWxUYkFHaTVwYjc3dUxZV1Q1T2VWZHdnMG82OE9mR3VaSW4tQlhVN2JsSWkzdG5EWG9Fb01mdkVSWFlwTjVycnlydXpiZWNJUUZUMXo0SVVUZjJPVXRPSDhrZEFpOERlaVRMUFA3RndRMUVWOVdJeXR4ck5RZlRHbHFtSHNNYy1KTzhX?oc=5"
     }
   ],
   "insight": "Tracking Analog Devices (ADI)."

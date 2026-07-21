@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:06:16.731Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:15.590Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    507.2900085449219,
     512.47998046875,
     537.3699951171875,
     551.6300048828125,
@@ -24,10 +23,10 @@
     548.1300048828125,
     529.1400146484375,
     500.94000244140625,
-    495.760009765625
+    495.760009765625,
+    503.57000732421875
   ],
   "6m": [
-    210.02000427246094,
     204.67999267578125,
     203.1699981689453,
     207.69000244140625,
@@ -158,10 +157,10 @@
     548.1300048828125,
     529.1400146484375,
     500.94000244140625,
-    495.760009765625
+    495.760009765625,
+    503.57000732421875
   ],
   "1y": [
-    156.99000549316406,
     157,
     154.72000122070312,
     158.64999389648438,
@@ -411,29 +410,30 @@
     548.1300048828125,
     529.1400146484375,
     500.94000244140625,
-    495.760009765625
+    495.760009765625,
+    503.57000732421875
   ],
-  "lastClose": 495.760009765625,
-  "oneYearReturn": 215.79080987242355,
+  "lastClose": 503.57000732421875,
+  "oneYearReturn": 220.74522759504381,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "AMD (AMD) Stock Faces Fresh AI Pressure After China Unveils Kimi K3 - Yahoo Finance",
+      "headline": "AMD Stock Rises on Vote of Confidence From a Big AI Chip Customer - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KdVV2eXJxWnctTGVjcGp2VEtQUTF2Zl84U1ZpSGM2SG56dEpMa1M5djR1bHBXblU5dU5obWRLSWliak5QSVRDN0tOLVZMVGtkUTQxSHE2YVVIQ0ZSVHE0VnRCOWNyVnB1cHVvb01SSVFWR2dt?oc=5"
+    },
+    {
+      "headline": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
+      "source": "CNBC",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRlF5bzh6NUI5VmZKRW9oTzljR3pJbjVLSl9Yb0NqeEtfMVlTQU5TcHl2dU10YkNtN1ZYb0pCWHl1RHhVd1hNZkZDQ21GSTN0NXZTVXRwalhsWk1tNjlYejF5SUF0TTNLdXVqZnROaWV6R3JfZ2fSAXtBVV95cUxPSE4wRDExampVaGU0bDg4VUVIVDFxOEo1QkxXelFLQ2RwTGpzWHJrOV9vb1l3dWIwUWtEWlU5THY0My1HTUlEMVFpRVFCOURkTUVWQXQ0aktqTzdqN3luZkZVZC05eXRwN2otTFVuSHVLdS1kVEtpNU9WT1E?oc=5"
+    },
+    {
+      "headline": "AMD Stock Rises Overnight: Is Anthropic A New Customer? What A GitHub Code File Reportedly Reveals - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcW5nR2FwbVhoM2MwMzdjTVpHV29RMG9Qd1RnclVKME45TnUyYUlPMWdpWjJuWEtjR3ROQjF4eXlOc2xkSDRFMktOTy1saFduM3gyQ0FtWVVZa2lLLW8yZGVIR3ZmYmk3WVBzTmxkS2w4OVJzTVAxSW5pNUxmNU9xVXRXeUNIbzFwOVJtRTl1ZGxTZmtQ?oc=5"
-    },
-    {
-      "headline": "Zhang Financial LLC Raises Holdings in Advanced Micro Devices, Inc. $AMD - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQmpWM3NWcG9vbURKRkN3YTA1SkFxU1RmX0s5dC1tNU4xd1Q5RHdHNFlZclJuVVpqNGZQbnRfbTRBRXBzN0ZfaVhLcVpaVFBPTlY0OTBqaklUanBELUsxR09ERTNCQ1F3M2RlQVI3SWdlS2hMQ2l5ZjJEMWxuRVBJdUZOdElDVzRHWkx4SHVtODRfeUVPYWdtZDBYc2tfbmVYQkQwM1NQMVF3WklmM2VpYXA3NGtYZHpvZ0U4RVJnOHRMMzh6YU9TTVFR?oc=5"
-    },
-    {
-      "headline": "Prediction: Investors Will Be Happy if They Buy AMD Stock Before the Company's Big AI Event on July 22 - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWGlONE5HbmVwZEk3MExPT19YVGJOc3h2dEJucV9xLU9Na3gtWDJoMW1ZWUM5d09Cc0FMT2pxMmZSUHlYSW9pMmxPTERaVzVpRGdyUjdULVYwV2JZLXllTHJjOV8tbHhjdXdON2ZnNUhkaGYtTmZEaVdYdUJsREhOSXdwbnRMWWExdl96dUpvM0RkM09ybmlhbGFGMENfQW5RN3JsZE1kWVpUdEpHUE1EZG1ZNXdOSnBlazhFdFpZWTRpcEtQeEtHQmozRTdPY3VRLThZZ0tPZjd1MU9BVHE0MFpsVHlJQnVPZU1la2s4SVNUZEp6dUhmN09rSG9MM1hwNkR0RU1iOFBFNkpHektoQXJR?oc=5"
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTZUMGlWNk8yUEpRT0QtVGFnZkxtOTA3Q25FLTFpcHBOT2wySzdQVklITTlKbkZ4QW0tekc5cjU4c2gtYWVmUW8wR0l4V3QwZXk0ZVNHZkJ5c3dmVV9KdjVrMXo2cExBeFdYdWdJczViV01nWW5Da2FQdFk5aTMwYTRvRnlCYlE2M1N0ckFuNllKWVNiOHhTMGN5S3JJS1J5cUE?oc=5"
     }
   ],
   "insight": "Tracking Advanced Micro Devices (AMD)."

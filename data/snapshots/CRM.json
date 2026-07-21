@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:06:29.242Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:27.174Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    161.7100067138672,
     155.02000427246094,
     151.77999877929688,
     150.1199951171875,
@@ -24,10 +23,10 @@
     167.55999755859375,
     167,
     172.67999267578125,
-    170.77000427246094
+    170.77000427246094,
+    173.7899932861328
   ],
   "6m": [
-    266.1199951171875,
     260.5299987792969,
     259.94000244140625,
     259.3999938964844,
@@ -158,10 +157,10 @@
     167.55999755859375,
     167,
     172.67999267578125,
-    170.77000427246094
+    170.77000427246094,
+    173.7899932861328
   ],
   "1y": [
-    262.3800048828125,
     262.2799987792969,
     263.5899963378906,
     267.2200012207031,
@@ -411,12 +410,19 @@
     167.55999755859375,
     167,
     172.67999267578125,
-    170.77000427246094
+    170.77000427246094,
+    173.7899932861328
   ],
-  "lastClose": 170.77000427246094,
-  "oneYearReturn": -34.91500834877551,
+  "lastClose": 173.7899932861328,
+  "oneYearReturn": -33.73875472968358,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Salesforce Stock: Buy the Dip? - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGJrU3BFUTN1LWdCQzZvc0ZxaTkySTkxSzBaYU1Wd3pUNGFneDdwT0xXOG1QSU1xd0pBejdhY2E1WlRDdDc3YmxxSDFxRlVfYVN4X1N1QThQTFhSb1JTb2d4NVhDVm15VFVfNmk1V05HNjAxNENRcXRxSEJrdnRCVTROZGMwNmFIaFFYcnhQQ0lKZGtMVTFRX1dvWkFHMGt5U2FVM0NMTklpTFdLX2tUVU84bw?oc=5"
+    },
     {
       "headline": "Salesforce vs. Dell Technologies: Which High-Growth Tech Stock Is a Better Buy in 2026? - The Motley Fool",
       "source": "The Motley Fool",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMDVwZ3FfZHNaSnJPcjhoYUEwUTk0UEZZbVZ6cnVMVTBsNWhVVE1vN0N5TGI2QjlNLU56ZTJHN3IyY2hEek85RFowaHVVeE9tYVMyYlBpaUhMQTFicXoyVG5VNVFFS2ZvZW9EMkpGbVVucXRheENPQ0VMTjcwQmlobWZNcWtJSF83cjFXaEZZM05yV3JBWTVCbFIyTFlQX0RXcGpFaExjZ1BMd2lHZTBzVkhid3FJbmlrN1hSNGNDVTVCdHVDX2FYamxVUlZuUDl0ZGZN?oc=5"
     },
     {
-      "headline": "Why Salesforce Stock Slumped on Tuesday - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORW1XcFJjb3JxNG5qalcwdlFULWRWazM4VlpvRV9seFNza045OHVkN2RETUhhdThibWZOM2lMUGVaUHZvTUJkZFBqQ0NrRm50UGgwZ1E4T2tZc1dlMV9wMkV5WkQ3VjFOUDAyVHN0UEtpb3QyX3REemJCUzJXMVVaZkpWZzFXZ09rQjhrZUdSYkQ5a21qbTNMQi1LTnBGRWl5T1l3?oc=5"
-    },
-    {
-      "headline": "Salesforce (CRM) Stock Still Looks Cheap On Value But Weak On Returns - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRlZpNENQYXUyWDc1UHVCd3FJRnR3b1Y2ajE3bWlWaG5qNncxNXBCT2NRU2R1cjJ6a2NDWEFxWUtKZ3ByVjhyN1NIbnduT3Z3NDREbzB2RFl5THlFdXRQd0xqc2J5VmROOHozLV9hT25ZYTVUTDdZaC1qZVl0SUx6YW9vZThfWE1GVlBXWlpsNGtNNEN5STBRRXZOelFNM2doSktFcnVKWWs5bkxXcFdUNkE4Tkk5Q1lJaVA2WEZsaHBxaknSAcgBQVVfeXFMUFd5dXFLUGMwUG9ZMDQySnJfS25FdXBwN01oS3M2MzFndjROQ3ZqUEVyNkNic3duTGJpREJhbnEteS1PX2hWOHB3WldUM0t0UFFRWm9NVjgwSDlsZDAzZXNfRFljV1RuejhGMHFtbEN5WDhGZ2xiS1RXNGtGNlBnTnlZNGtSMGUwSU8xQlBOalB1bVVQby03d3FfbnVKb0xxa1hXN09MOHJOeVFkYy1sYk5aa3Fqc3VJU3B6TFdrYlhYTllDaERYdGQ?oc=5"
+      "headline": "Salesforce Stock: Buy the Dip? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jN0xaOWNQajJJeVRZVnZZcnFDQ3NBZEdQaDd6VG9EUVVfZlp6U09HdlgwUnJLaEsxenpsdTBCdWt6NHhYU2Z3eWpMbnJnUmphZ3Fza1NnSEE2MUtmVy16bWhNRXI5azdUek5aZG5sSFhVWHJaYlFqeDRXdw?oc=5"
     }
   ],
   "insight": "Tracking Salesforce (CRM)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:06:41.118Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:37.800Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    264.3599853515625,
     254.8000030517578,
     257.70001220703125,
     263.1099853515625,
@@ -24,10 +23,10 @@
     220.5800018310547,
     223.82000732421875,
     211.92999267578125,
-    211.99000549316406
+    211.99000549316406,
+    205.30999755859375
   ],
   "6m": [
-    241.11000061035156,
     246.25999450683594,
     238.66000366210938,
     237.8300018310547,
@@ -158,10 +157,10 @@
     220.5800018310547,
     223.82000732421875,
     211.92999267578125,
-    211.99000549316406
+    211.99000549316406,
+    205.30999755859375
   ],
   "1y": [
-    175.85000610351562,
     178.3300018310547,
     179.99000549316406,
     179.77000427246094,
@@ -411,12 +410,19 @@
     220.5800018310547,
     223.82000732421875,
     211.92999267578125,
-    211.99000549316406
+    211.99000549316406,
+    205.30999755859375
   ],
-  "lastClose": 211.99000549316406,
-  "oneYearReturn": 20.551605422392942,
+  "lastClose": 205.30999755859375,
+  "oneYearReturn": 15.129252201264052,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Cramer's lightning round: First Solar 'has one of the worst charts I've ever seen' - CNBC",
+      "source": "CNBC",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRHdFZThYMkVNaDFwMlVVa2lCRGdaNXhfdzRiOC05TVFzdFlZZUlXQjZjYmhpWE9XYTFacVRXRmk5T2Fya0RmdlExS2FjQ3JYMmJhOS1femVfRDR4ZjZPbWFmVFFfTzI2cjlBZ1RrSkdPb3VLRnZaV2tPVm1nQU1UNEFhYzllMnhUZmpXRVVCZTlzbEh5TTZLUHAyRzd0R0tobnYtV3RPY2owODdSTVNPV3ZqSULSAboBQVVfeXFMTXNVTG9lai0yXzVFdFREZ21Cbzd5TWFYbEJaWG5ZclpyOE9mX3RKMHN5VExwd1BVVzRZQkJDS0x2UjhndE1VMi1FTXpIV3dSX1VvRzZKZHZIZXNwcnhua0dYTXZiWkxmcE9YNnNMRk80LTlpWjlESE5BYksyT0ZZTTA0MWJmSzRKNEpISlRjWTZWVHFhaFlOUmdQX1JrSjdBN0FrbjNQVEk2R0htS0dOUGs0MF9DOEdZYkpB?oc=5"
+    },
     {
       "headline": "First Solar (FSLR) Stock Sees Modest Fair Value Lift As Analysts Weigh Tariffs And Tax Credits - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGI3aExPeTZocHNwcTdnbUk2T0pNWHVFNUF4VW9GYkZNdk5QVzBQUlRZeG94NUp3M1FWSnQ0V0pHck0xbXpZa25Hd0NHQ25YY0QtbjUtUkYycmFkUnRhR3hGakR6XzlZRGhzYjl3bFl5ZkpFcVJFQms2cDFQOU11aXFhbnRNbURnWXVPUUJtZUgtZURMRFNz?oc=5"
     },
     {
-      "headline": "Amid Energy Crisis, First Solar's Affordable Valuation Shines Bright - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOWRFaS1MaFRiNU52d2FNME9SQUczZlJDUGQ5MF9kR3lZbVRyRWY3STdZcWI2TWlsZzVDNW9GUVpkX1ZRd1AtRXBIZ0EzeEp0RVJ3WHFKX3hkVkwwSGNNWEtzLWtLWDVkRldrYzQwcEE3QW14SFp6TzZMWVZDQUl5VXBrSXRkeUFUQ1R0YzZQSFVZekVDLTBZUGx4YkJCOFhMYzlQeEpBRW84cU0?oc=5"
-    },
-    {
-      "headline": "First Solar Inc (NASDAQ:FSLR): A Decent Value Stock with Strong Fundamentals and Attractive Valuation - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeXFGOFN4VXRwUFliNzhSRlZYQmNzUEY1cXRTS0w5dTBYZnBOdk9NYmY3d2RFU05tZnp3b2hyeHk1b3k1cWJMM2RZeWpURHhvOUxqRkF2TzJqVzlXT21OWG1yRE9QM1dLakNQZmZPcm1obVN6dV9FbWh4RlFWZDFGcGc5M0tLNFRyNFFsbjJydDJsRVk3Z1dtazVLZTJ1N21nRG5kaWlwMkF4QlFYVjRZdXRvX1EzNlZ1bWxURHhsODhMSVRfNWhaeDVrclVOMU4waGJ5UEJySlZfaTRqQUN0UndRSQ?oc=5"
+      "headline": "What Happened with First Solar's Q4 Earnings and 2026 Guidance - Kavout | AI",
+      "source": "Kavout | AI",
+      "when": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTEwT2c5ZHR2Mkk0V2RsNXhrdzBldVBaRkx0NEVHb0N5djQtTU9fODZkRWthaUxNd0hfZU1ZeXZlbTkyQnROWnZodjU0TVVqZVhFZTFIRmRkeVR3b0pMelRMTEU4VmlPRjJPMVUtNzU5SmY5MGg5WV9NNl9tYjN6c3VyRmEwRm5YS3NCSmw3WmxINmQ0NTVoSUZEY0JtZw?oc=5"
     }
   ],
   "insight": "Tracking First Solar (FSLR)."

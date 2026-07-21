@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:06:24.238Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:22.479Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    265.239990234375,
     254.69000244140625,
     249.10000610351562,
     255.97999572753906,
@@ -24,10 +23,10 @@
     274.9800109863281,
     277.1099853515625,
     277.8900146484375,
-    273.4100036621094
+    273.4100036621094,
+    278.2099914550781
   ],
   "6m": [
-    255.16000366210938,
     260.5400085449219,
     260.95001220703125,
     263.9700012207031,
@@ -158,10 +157,10 @@
     274.9800109863281,
     277.1099853515625,
     277.8900146484375,
-    273.4100036621094
+    273.4100036621094,
+    278.2099914550781
   ],
   "1y": [
-    238.6199951171875,
     236.25999450683594,
     241.17999267578125,
     240.75,
@@ -411,12 +410,19 @@
     274.9800109863281,
     277.1099853515625,
     277.8900146484375,
-    273.4100036621094
+    273.4100036621094,
+    278.2099914550781
   ],
-  "lastClose": 273.4100036621094,
-  "oneYearReturn": 14.579670294535177,
+  "lastClose": 278.2099914550781,
+  "oneYearReturn": 17.755861306865647,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Cboe Global Markets Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdzVlZTM4bkVxQVZjZkpLM2lFVldseWlpcUhINEdrT2R6TTNUT0hMck9IQS1lR1pEZ3lzVkNEZHdCd0thWmJIbUdRcHZqWmhiWk1OOGFtSlJHUkFSa2tNMk5SYjl5UUVHN1c1OEo3eXNzNTBfc25NV3Rab0I1N09IS3c1UWVNOTloRzU0RkNlQXJLOFpfTkkwSU9JNGlvcXNvTHdqUHJfTXNmUVNDM19lNEpKdnRnZExudHd0Z0QxTEFROW9zRkNfYTN1TE5FMjZXNVpURVgzdmtXdWJMVEgzdTBaVmtSWVRO?oc=5"
+    },
     {
       "headline": "Cboe (CBOE) Stock Looks Fully Valued As Returns Shine But Earnings Lag - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeHYzbzMyTGlVTV96MGdjc215OUlpaGFYRlkzLU5CUkRxbFgzaTdQVWx4OV9RRktCZkpmNm51VzV1b1BxU01fcEdhVW1WcmRCWU10cXBCYUVZTkNaUmFSTU5FOFNWNUlmc2tiS0ZCdEJvTFNlallBSjdJN0JoTWozZlMycHFYajQyNHl1eDVzME9zcGhkV3c4?oc=5"
     },
     {
-      "headline": "Cboe Global Markets Inc. stock underperforms Friday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "Cboe Global vs. Nasdaq: Which Exchange Stock Is the Better Buy Now? - TradingView",
+      "source": "TradingView",
       "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbU5tc1ZaSmgyNk55T1VGZTZ4WFZ0YjJ2T18xUFRYZFItWmdBejlEMm9NTFYxVTZvN2hzeEtfVDVTMHdTSk9iTk5YMVVUdEctajJEN2ZyZ2xJcWQ1eTVOMlJQUnU1ZnJJNjNNQ0lRY2lwMmdDOU1HMTBhV0N5S1pPVERZTVR0RFBfdGpfTWR2UWlWMlFNRzllUXRDaHZPemVreHZFVmI2QTZ4SWN5MEJsalVpVjBKbm84cjlZRmRQODlpUGhSZ1gzaGV0QllNUi1kOUtKZWFNTjNiTnoxTUpUdmRGNU1HTFZkSDFiZUp3?oc=5"
-    },
-    {
-      "headline": "Cboe Global Markets (CBOE) Is Up 6.3% After Extending Single-Stock Options Hours And Launching Prediction Markets - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZGh1Y190MTZzcDJ1UkRLWWVqUzktLUphRllyRTFrT1hBTjJXR0hSUU1wMXprRnNpNFFqRjdOXzBic0JHMjhERlJXOHJZeTRGUHRsMmdHVVp4VGxOUUNaUV9nMnFQeU51Sk1WZTZYTV93RFIzRHNNMExHalpOTldFZF9jVTFEMnJUanQxT1d5UmZGcWhJaXN6R1QxWGZGLVhjRl9zSFFnN1lGVEhlM002aURyR1kzTVViNnVNWlY3SVhtVHdQM3BfNjZjMDVtTE9fdUhuSHZ0M0hnc0hLTjVqR2I0S2bSAeoBQVVfeXFMTU9xd0gtYjQta1p5RzNfSDA4NlFYejZBNnJCM1F5cHBGbzBhZFdLRHNnV3BBWTBKdGdLQmpDNkZJTGNPMFI0RVMtbWZKdzdYMmtUaGVPQUJrRHVzNHVMUFl4MTBwanl4bmRDZTN1QnB6Vjk0Z2xiUHFPRTl0aWJqREtlVk9tNTVwQ1N1V251aVhfT0tjVC1SS3paTWpDZWhWNDNVbzFXYkpMQnk1RzNsSmZ2SlFUb1NpQVJQVl9TMDUzTTRzN2lSQnJ2QkNrVXRCLVpvLXJaVm8wdHExbEZYR3p0cmItQzdyU0dR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHcwaTFPUFRBem93V1BBSm9jbXQxbHQta0J3cmFGdmx3ZTF3bEJsU00zRUVJczRuRHRMSWswUzUzSWxTRExKU2o2RmRiQXhqN2RlWFE3TVRiUV9ZRmljNU9LRnJaOTc4ZU1qVzNQdVNzRHRDSVlxWUFfc2MzV2JoTFpfWWtLQVhKblo5T2J6X0k1TWJVeTBHUHNmdFl5Nm1JbDNoa0ZJdDVNZEk3czB3VkxDSFNwWGFoNHo2dQ?oc=5"
     }
   ],
   "insight": "Tracking Cboe Global Markets (CBOE)."

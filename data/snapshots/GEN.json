@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:06:42.203Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:38.751Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    24.56999969482422,
     23.93000030517578,
     24.18000030517578,
     23.010000228881836,
@@ -24,10 +23,10 @@
     26.56999969482422,
     26.450000762939453,
     27.010000228881836,
-    26.739999771118164
+    26.739999771118164,
+    26.68000030517578
   ],
   "6m": [
-    26.110000610351562,
     26.540000915527344,
     26.959999084472656,
     26.770000457763672,
@@ -158,10 +157,10 @@
     26.56999969482422,
     26.450000762939453,
     27.010000228881836,
-    26.739999771118164
+    26.739999771118164,
+    26.68000030517578
   ],
   "1y": [
-    30.270000457763672,
     30.290000915527344,
     30.520000457763672,
     30.68000030517578,
@@ -411,12 +410,19 @@
     26.56999969482422,
     26.450000762939453,
     27.010000228881836,
-    26.739999771118164
+    26.739999771118164,
+    26.68000030517578
   ],
-  "lastClose": 26.739999771118164,
-  "oneYearReturn": -11.661713357325471,
+  "lastClose": 26.68000030517578,
+  "oneYearReturn": -11.918126448457762,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "SEB Asset Management AB Takes $19.48 Million Position in Gen Digital Inc. $GEN - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYjMwSnpYVDVRTmRFTEtobGM0NExRMmFhWXBYMFZ0RzRVZWVXVmhrbTg5aG52ZjR6QVdPZ0xXSTNBN0ZfSEdzdnlqVzVUUU9PWnJtV1BPMmJvM0FMRUJrcVJCd24zdlZNa25SSnhrQ3o5dlNicTBWdk1kdVB1clZBQWFaRy1VMHFLM2JVY1ZzX0VEenJvTXRHc1ZHRm5jOHhzbWZYZ2ZCSVZUY0REWVVET3EzWDVnSGhsU29ZZHRsckFWZFFMWWNVVjc1VkJvVFFL?oc=5"
+    },
     {
       "headline": "Gen Digital Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMzBGQklMZ1AxRURuQ0JIWm5DTFpCSzNTOEhHV0ktcWxJbXRPTmVnQ0lNc18yMDVXakJNYllXM29aYVFIT3dDT1l5ajJqSV9aV0ZfRmxPQ1R4YnEyNEt0dUR6cVl0dDZ4VHE0VjYtTGxNdHowck55SDlhU0tVNDRMVTVjTEpvQWF0UU43NzgxQmFxTkh1UVJRVEx3TU43ZHp2QXVla3N5MVhBTU00bVlPRmtYb2RLaVB4UW8zN3ZNZW9mMUtad0E?oc=5"
     },
     {
-      "headline": "Is Gen Digital Inc. (GEN) A Good Stock To Buy Now? - Yahoo Finance",
+      "headline": "Do Wall Street Analysts Like Gen Digital Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-04-30",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQkhMbXItcUY1Q2VOSmhWR1NxbUFCd3hwbkkxUkg5WHFHS3ZDR1NzMTFMWG55YlVCY1JTMExOMFd1aURLN2NGTkRjeVR5Q2c0OWp1Q1NfNXFzUEFicG9sX0h2VVZyWnpzRkRsYTRxRWRLd29wOGxFM0RRYXFld3d2Z3hhZS1xcTFxa2tiSDJHNkRPdmc?oc=5"
-    },
-    {
-      "headline": "Should Gen Digital’s (GEN) Agentic AI Focus in H1 2026 Threat Report Require Action From Investors? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX25mTDFpaTAtZ01lRUZ6ODdNMzlwM1oyTllVTThnVGhJRmN3UjUyQ2pvc0UxcFhLT3dOa241eGROeXFnVzBEVFJ3Qk42YXZDanBJdnlaOHViQXJFczcySjdJZ0ZVb28yTko1bmdKdjlTMXdLOGhxd1NmX1J2OHkzRlpHczF5OFQ0Qlk1MXBjNnVkT0dZNGFhS2pyUFVKWXVJZ1U1WlpGNXRQNF9oLW1vaFdQckQ5Y3p2ZkJBUU5fTlZnbXViMkExZNIBzgFBVV95cUxNZmxNVUZJb1U1aVNmNHVBQ3M2TndpSmhFRm00X1ZYS1pwRTBReHMtT1pWZkhBMmpkNmJ1UUFnRnZWanhhZlJHT3AwOWNnWGZwSlJxbjRGVFo0U3ZyMlNXOGk0MVpneVpJWmZ6UEIxWHlLS2F4dVYwTDBPU2lVMGIyb2lHMVVTdkhPSzNMclZjbjRKQlI1cEQ0Z1Y0MmU2emJVZG0yQjd5TVpzc1BjZmRkbTN3X1ZGaXRoOFBHRTZaRXFTMWwyZ3lXTHlKd01WQQ?oc=5"
+      "when": "2026-05-05",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNkttblF1VTBCdG9iVUpEOF9iREllOUU3SnFMNm9HdDlXbnRRWXZpQjk1YXBTcEJMM0VtT0ZQOFFfZ290RzktcmxXZVotX3lnb0VIaGJkeDFySWF0VzVKeF9Gdm5rNjRPZEV3S3d5WmhuYmJidktXVGJBRWZlSTJKUTlLZWM5RzFRUkdBdWgxTmpBMnF1UnBNUURhcVBNdw?oc=5"
     }
   ],
   "insight": "Tracking Gen Digital (GEN)."

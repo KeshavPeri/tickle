@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:06:15.328Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:14.454Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    75.20999908447266,
     74.7699966430664,
     74.0199966430664,
     76.37000274658203,
@@ -24,10 +23,10 @@
     79,
     76.77999877929688,
     78.02999877929688,
-    80.5
+    80.5,
+    79.80000305175781
   ],
   "6m": [
-    77.06999969482422,
     77.9000015258789,
     75.43000030517578,
     74.08999633789062,
@@ -158,10 +157,10 @@
     79,
     76.77999877929688,
     78.02999877929688,
-    80.5
+    80.5,
+    79.80000305175781
   ],
   "1y": [
-    81.20999908447266,
     80.77999877929688,
     81.41999816894531,
     79.51000213623047,
@@ -411,12 +410,19 @@
     79,
     76.77999877929688,
     78.02999877929688,
-    80.5
+    80.5,
+    79.80000305175781
   ],
-  "lastClose": 80.5,
-  "oneYearReturn": -0.8742754494235773,
+  "lastClose": 79.80000305175781,
+  "oneYearReturn": -1.2131663064474145,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "From Dealing Desk - Moomoo",
+      "source": "Moomoo",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wM2V4ZGR4d1A0R0s2V0c3R0FZTnNKRHc2N3QtQ1NQMnl2Qmhubm5ybFR5RnlhODB5WllCUjRIbG1ZaTlfT1NVcmF2VmtzalBBRld6T3BEcGZTLTctaXc0a3lRR1dlRE9CNUdtMmx0WGFCbHlueWFtTW1FOA?oc=5"
+    },
     {
       "headline": "Should Value Investors Buy American International Group (AIG) Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -427,13 +433,7 @@
       "headline": "Is American International Group (AIG) Undervalued Following Its New Client And Broker Leadership Hire? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLXp6cUNpUVhJZzdnazN4dHVyRDZjZzgtQ2dRVWFIR0xBTnFUbnpBVUQ4TndsRWNZbFhSZmNiVXZmRnpuOTFGQklFVmRrSlUzelFtRE5ib0JpSkNXZzNaVXJtWGFVUVpkRnRqU3hCQVo1YmtHaWpMTzZXVW9QTHo3c1pYOTZqeGtTdDFCektaTEpvU3pCVzFqbldCS2ZrYnZTOV9KVzBTNHhFOUdqZFRnS3ZxWk4waHZGOHlnVXJqR2VXcEEydHR5Q1ZuTE5yODdNY3F6dFNvajNvTi1obGZrRVQwMNIB4wFBVV95cUxNLXp6cUNpUVhJZzdnazN4dHVyRDZjZzgtQ2dRVWFIR0xBTnFUbnpBVUQ4TndsRWNZbFhSZmNiVXZmRnpuOTFGQklFVmRrSlUzelFtRE5ib0JpSkNXZzNaVXJtWGFVUVpkRnRqU3hCQVo1YmtHaWpMTzZXVW9QTHo3c1pYOTZqeGtTdDFCektaTEpvU3pCVzFqbldCS2ZrYnZTOV9KVzBTNHhFOUdqZFRnS3ZxWk4waHZGOHlnVXJqR2VXcEEydHR5Q1ZuTE5yODdNY3F6dFNvajNvTi1obGZrRVQwMA?oc=5"
-    },
-    {
-      "headline": "American International Group Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQmdtTi0wbk1fVTh2cFB6SG5yS3R5UENzLW9uSV9nVDVRMmdmZ2Y5dnFMeUlkd3pacWozV2x6Q3RJejB0WGNhbHozRUVBR2V3RlNnYlFnQmNBTzBDbjNPOXBOWjNrUkMtdXVORmRkdHNlRkxuYlhxejkzOHUzZjAtRERPWDI2WnZVYU94c2MxRHBXNWJlUHV5VXpQQkVXMC1vTlBaWng5N0gtbl8xd0lwaGNXTGhCMTkyNkRKbVJteEI3TG9UMnB3ckRBYjFqMkhnZkVob1lLTHJsOTV1SC15bmZRSDFoZWtVMW52VUlkMmJCRDlW?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPREtPSkpBOHh3bVZ0Wjc1MmdDeDVBcExhOGptUWRRcXhZZFN2dV9yNzVBTTdUdEVBNGQ3allYbXBrTDF0dDlQcThsUFFyWDU5dGtBMWM2eWhkRG91aG83aHpvTEFkeXdJN1RnSEFnLTRuXzdGY1llbkJUcXR4UEtYZ2JsZmlSNklfTGpIUFlyOXVrWXFmQVhvRlgyVGctWmxPM0JObzQySUlKTlFCLTVLNVZoRkpTYkdrNHBMdUNzUEoxSlNUdGtZNF9QMXNEdGlIZU1fRXhCSGRFTlQ3aHfSAeMBQVVfeXFMTS16enFDaVFYSWc3Z2szeHR1ckQ2Y2c4LUNnUVVhSEdMQU5xVG56QVVEOE53bEVjWWxYUmZjYlV2ZkZ6bjkxRkJJRVZka0pVM3pRbUROYm9CaUpDV2czWlVybVhhVVFaZEZ0alN4QkFaNWJrR2lqTE82V1VvUEx6N3NaWDk2anhrU3QxQnpLWkxKb1N6Qlcxam5XQktma2J2UzlfSlcwUzR4RTlHamRUZ0t2cVpOMGh2Rjh5Z1VyakdlV3BBMnR0eUNWbkxOcjg3TWNxenRTb2ozb04taGxma0VUMDA?oc=5"
     }
   ],
   "insight": "Tracking American International Group (AIG)."

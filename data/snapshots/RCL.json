@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:07:01.698Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:56.600Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    312.8399963378906,
     301.4700012207031,
     312.510009765625,
     309.3599853515625,
@@ -24,10 +23,10 @@
     283.0899963378906,
     292.1700134277344,
     293.95001220703125,
-    286.9599914550781
+    286.9599914550781,
+    286.1600036621094
   ],
   "6m": [
-    302.4200134277344,
     304.3299865722656,
     311.5,
     301.1300048828125,
@@ -158,10 +157,10 @@
     283.0899963378906,
     292.1700134277344,
     293.95001220703125,
-    286.9599914550781
+    286.9599914550781,
+    286.1600036621094
   ],
   "1y": [
-    350.1000061035156,
     346.4700012207031,
     348.5400085449219,
     352.8399963378906,
@@ -411,12 +410,19 @@
     283.0899963378906,
     292.1700134277344,
     293.95001220703125,
-    286.9599914550781
+    286.9599914550781,
+    286.1600036621094
   ],
-  "lastClose": 286.9599914550781,
-  "oneYearReturn": -18.034851056177533,
+  "lastClose": 286.1600036621094,
+  "oneYearReturn": -17.406989738247493,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Former Airbnb Global Operations Head Joins Royal Caribbean Board - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSklBOXB3UnJGRW5kVjdGaDhDOXY2ZVg0d1pUVTRzV3V6aEcxZ0NtSnY3bGNKdWNYN3h3eXc2WEZ6Y2NUamY0N3BaZ2FnUGItcUJIZkV5YlhOeXI2WEZhZUtXY19KVHdIUklxOTJxYmtHbF9hWTAtYXgwZk5fMVVtMWlpdlJsT2xwanFoRGtMU2hpaUtkbnd3elM2QW5kTnVPZGRIa2cycXRsN28?oc=5"
+    },
     {
       "headline": "Principal Financial Group Inc. Purchases 4,840 Shares of Royal Caribbean Cruises Ltd. $RCL - MarketBeat",
       "source": "MarketBeat",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUhRNUk5Nzd3ajA3R3djNW1DTmhuUnNjVVJzTGdmR2NEeEJhWU1PYWJ6Mk16c1F4anQ1bFZOQ3JVVjR4NENYV2M0dVVwOV83MFhMT2NRbVNFbVBzNnl4ZWoxbEx5U2t2TWRKQ3ZQdW1uTGI3QmMza1hYZFljeG9GbmMyU25VZ3R1OXIyd3lRUWNjN25aV2YwSkp2WFd5MUMyWEREMW53eW5OQ3RSZmpsbUhaR3dhS1pvSWVjdy1sbXdsMzVnOUFxOHhuTVE0cDBGYTZBbUdIZVgzbW50M1dLUA?oc=5"
     },
     {
-      "headline": "Why Royal Caribbean Group (RCL) Stock Is Up Today - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcXdvUXJRZEtsYnR5WDNYR1A3UGZRSmtRVDlkLWdaTDZ3Nmx1dmY5UTcyaEg5b1E4cU5aR0VIM092bkRJM2l4OFJOekdOMnlxZDluNXd1ZFpqM2lWVlprM3IyR3hZOGVsa0Zrc1VSUlRpRXhteDZwZ2lwcnlBWDZCX0w0RF9famFYOGVyYXItNA?oc=5"
-    },
-    {
-      "headline": "Royal Caribbean Group stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "Royal Caribbean Group (RCL) Shares Surge 3.2% -- What GF Score o - GuruFocus",
+      "source": "GuruFocus",
       "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNGRQTnJFczRGNlhSbGplQlJVV1ZoMmx5V21TX1JNY3RILTJIMnVjaTRoeURDNW5TdXlzMm1nbXF1c0VoSm83bldSMUZHc0ZTRXZQVmpkMGtUeFRXTFE5UGNGU1lJS19RZ1Rja1BGYVBmSTRIQk9oTUphMWRPZW9DcVpVOTBjU2FEZGtjWGt0RUtlYzFpM1Nkd0Q3SWE1WjNMVEVFX1RxTDlyOXhHZ3YzOWJKRHZnOVdKV3BnUjVhWVlBaWladm9za21LVXZwMkw3M1MzdnZSVVVhSGFiZ1FyOHdPbnVJZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOURBUzNuNjA4Z1pGT3B3ak1DOTBoMUpNWVkwS3NqLUZQTmdXU1UycVB2dGgtSmYwbWQzc1hnTlYycWVOMDEzQ3NWczMtX2NlREhPcUtxLUtNSlNBYy1JaDU4SWNqTkxhR3BkRDNtRm5YVzNLejFxYk9qVDVXcFNDTGJYcmZBMFZqN3QxeV9uLXFHNERPLXQ3QkhKdVlqS0dkalMzeDUzeEk3TC1BNzdXUWVwNVZ5bWZId3hyYm54dnBONFRjbDg4VHoySVl6aDBqYXdzYTBQRzBteFNKNTU5YU12M3Y3eE4wWVFycA?oc=5"
     }
   ],
   "insight": "Tracking Royal Caribbean Group (RCL)."

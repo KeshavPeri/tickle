@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:07:00.270Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:55.222Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    133.25,
     130.6300048828125,
     128.47000122070312,
     119.5,
@@ -24,10 +23,10 @@
     133.72000122070312,
     133.75999450683594,
     134.44000244140625,
-    132.3800048828125
+    132.3800048828125,
+    134.85000610351562
   ],
   "6m": [
-    181.67999267578125,
     176.86000061035156,
     177.49000549316406,
     179.41000366210938,
@@ -158,10 +157,10 @@
     133.72000122070312,
     133.75999450683594,
     134.44000244140625,
-    132.3800048828125
+    132.3800048828125,
+    134.85000610351562
   ],
   "1y": [
-    153.52000427246094,
     151.7899932861328,
     149.07000732421875,
     154.6300048828125,
@@ -411,29 +410,30 @@
     133.72000122070312,
     133.75999450683594,
     134.44000244140625,
-    132.3800048828125
+    132.3800048828125,
+    134.85000610351562
   ],
-  "lastClose": 132.3800048828125,
-  "oneYearReturn": -13.770192027958808,
+  "lastClose": 134.85000610351562,
+  "oneYearReturn": -11.160147527435713,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Palantir: The Stock Is Richly Valued With a Forward P/S Multiple of Over 40x, but Is the Growth Story Still Worth Buying Into? - The Motley Fool",
+      "headline": "Should You Buy Palantir Technologies Stock While It's Trading Below $140? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd2ZsQndhSHZTQ085S05KLTE5MVdKSnRIZmJROWZsM1YwcWxkRzNjZFFrNU1uZFNaRVFQN3Fock9uMEFxbnNDMjhRM0dtSXRRRDY0VHhEYWNHLWdQUlVpR0xQb3ZScXpDck9zYkdIYzhMQzJxVlpqVDN6d0FMS3kyaUM1LVdCdU1jazBreXROekRGYWM1MDZRS0NlQkFkUGxEMjAyYw?oc=5"
+    },
+    {
+      "headline": "Should You Buy Palantir Technologies Stock While It's Trading Below $140? - The Motley Fool",
       "source": "The Motley Fool",
       "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYm9fN0g4dUQ3dG1BMm9lZnBwa21vVjd1TVo2WVBQaHZjd0hwZ0g1NThBNElFWGF3ZzJhM3EzNWFlbDM5aXpqWHhTV2NudmItSUJVZWgyMWNldGRPV3pHOHNkUFp2MDBTRUFfd0NDQl9qV1FlVUlqLV9xNkpBZk16bGVuOW1rUExEMk5kcm53VVhPZ1JoTDc0Tg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNnpGWS1rbHc1ZVFONVVKdUNHUDFSdlNxci1TOXJQMnN3YzFnY3d4bXJLdEJLbDUyZXhUZjJ4OWNxZXBoSHpFUFoxYi1HZTdYUUI2YzlWbjlUMDhxOFRzQ3Q5LUVuV1BTLWRFSEtOeEFWMWZwWW40emk0XzVBWmJGRllqdnVLT3JaTTdkc1I2WDNaRDJUWWZQcA?oc=5"
     },
     {
-      "headline": "Why Palantir Technologies Stock Just Dropped - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkZld19rcDVBdDNEa2t5NGpUWUxmTGZoMjl3UHRTb1VkN1pWcmtJbzVraWkzb0FydkJlOWpaS0tXbzh1OUZuRVFxRk9xSXJ6cW51ZkhYSENNYjVTcGhIWVRjb0RDajZSUUNPb0sxdVdWWDBZbDU4Tm1qN1l2U2hnWFFMYmNZX0lJZTlwSmtnallqSW5PZGdPZUN2bTVUc3g2ZEY4?oc=5"
-    },
-    {
-      "headline": "If You'd Put $10,000 in Palantir at Its IPO, Here's What You'd Have Now -- Even After a 37% Drop - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdFFZdUpzR3poTHdwSlJfdzBMVnI0RXJrd3k2anlYUEViSTctLWtnblBrbzdwTXloeUpPN09keV82ZmJhcmVDektwa1hUSjZZSDY4NmhuRi0waEVCd3dvYjFnMXdrUG11bDd6YlM4SFZvdDVFMFZqSmRsUWNNa0NWaWV4V1BYYU4xTmRvWHVNSHpVcTlYb1ZiSzBXdFVITl9oemVNOFdQemktRHNaZVlyTmJHb3dNUnBxOTBnVHFnZlZkaEMwTUw0SHM4cWR5Y0FuU3c3V0s2YzBZVmpyMW9LUU9yeWROMEtmbkR6a21BRUxrN1RzMlFSMGVzR2ZFdw?oc=5"
+      "headline": "Palantir Technologies Inc. (NASDAQ:PLTR) shares rise as new forecast targets an 11% quarterly growth hurdle - TechStock²",
+      "source": "TechStock²",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRFZJaUJrb1k2ZF9qS2dYc1FualBkcW5sMWFWVGVjVkN1cTVFUUpXbWF5c0hLNzJXb0pIN0trYzFtV3d3TVpwRmJudlprOGNGelpPTF9iRUtNdnRlbnJLNGpBem1rMWlzOW1xX19jcVRwUGJQREtJXzkwb2t1Y003UndSdWdOdXJBYXZLdHUxci11S0t1OVducWZoZk5wVjExd0RveVNmQXhBUW5oc01DOGNVeVZpTzVwR3lZYkNtamg?oc=5"
     }
   ],
   "insight": "Tracking Palantir Technologies (PLTR)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:06:33.203Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:30.613Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    20.09000015258789,
     19.399999618530273,
     19.559999465942383,
     19.979999542236328,
@@ -24,10 +23,10 @@
     21.65999984741211,
     21.739999771118164,
     22.329999923706055,
-    22.510000228881836
+    22.510000228881836,
+    22.290000915527344
   ],
   "6m": [
-    16.940000534057617,
     17.040000915527344,
     16.709999084472656,
     16.809999465942383,
@@ -158,10 +157,10 @@
     21.65999984741211,
     21.739999771118164,
     22.329999923706055,
-    22.510000228881836
+    22.510000228881836,
+    22.290000915527344
   ],
   "1y": [
-    18.31999969482422,
     18.399999618530273,
     18.989999771118164,
     19.049999237060547,
@@ -411,12 +410,19 @@
     21.65999984741211,
     21.739999771118164,
     22.329999923706055,
-    22.510000228881836
+    22.510000228881836,
+    22.290000915527344
   ],
-  "lastClose": 22.510000228881836,
-  "oneYearReturn": 22.871182335452655,
+  "lastClose": 22.290000915527344,
+  "oneYearReturn": 21.14131183502595,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Healthpeak Properties and Brookfield Form a $2.1 Billion Strategic Joint Venture - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZldPaF85QVJQalA4Z0lDUzlURHFNQnhGWE84QWo5YktTZzlvZXdwUmlZUmR1VzYxMHA2WnA1VkNidFFocGZzbm9Sc3VFSnpSQlV0a25UVWx0MGhfWkZ5Q0tBd3Q0aEZ6bU8ySVduSjl4QU1RU2o0VW5RSmxSUkZFUUFvNFduSmJUakQ2VTNHMTN5eS1XUTk2MUdIcUlraFljMGxJ?oc=5"
+    },
     {
       "headline": "Healthpeak Properties stock hits 52-week high at 22.13 USD - Investing.com",
       "source": "Investing.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGJwQXY3MFEya2lOR0M1WTB0S0tsM0E0WWRvR0pmeHgzZXM2ZDlfUFJnWEZfVUhwX2l2aUZhUEE4cU9nYmNHUzk2N3hGamwwczVBWFdKTmhiMEhyRUNUQ19DWFRxaTQyX254MUlNM3BtRkJaZTRHanMzZkdMOE1QeU8xR0gwcDVJYl84MXZYdjloMC1PQk5SMFB6d2h3ejFKX1Y5elAyNGROSTZTMHV6LUVDQQ?oc=5"
     },
     {
-      "headline": "Healthpeak Properties (DOC) Reaffirms Dividend As Fair Value Stays In Focus - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkZzX0pTQVJ3dkJWVW5CQTJiVkdSS3BrZjJwRWpnMkw2VFppSWNPczR2ZFVlQlJtNFlJUktjLV8yUm1Sc1o2Mkx5V2RrN0c4aEFCdjZSRUtXa05McDNpTzVpVFpwcER6aXg4OTRlWUYtTWZDUkVvTGxzcmZIUnF3d3dHeGN6dWZ4c1l3UVg4a0cxUktRcG5hZDhESkc5Rk5DOE03MFQ4a2pUbU9zX2c?oc=5"
-    },
-    {
-      "headline": "Healthpeak Properties (DOC) Stock Looks Fully Priced On Its 34% Run - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUEZtTmlvR1dHU0FLcWRHQnRsR0M2R3RxaTdENzFUVU1ZWTBVVU1HR1g2OGlyLTRSODY4bTVHQXJPVEdIRzZvLWRTMUNMSFJ5NEZVczVKaXNUcFJpSGZBSjAxM1A2WlFHOUcxX2kwYzBIdDk4eWpZWENsZUNfTl9OLXJtM2szeWhDN2hRdGZsZGdDaHdFZkZUbS1OX0pjZ0s5dmtPcG5hN2M4b0FIVElfUWNGZUZSa0ZJV1ZSSzZ6eGtidFZBTDBfZnl6TW9nYjB5ZmxZYmxGb9IB3AFBVV95cUxOVlJUTHdGZEpRcFpaLUhJR0tSR3VNLV9BTF9BTTJ5OXNzY3lDRkFSVmE3U2hHUjBfam4tQ19EREs5UEEtT290UEptMlVDcm0yR0w1Z3lPT1YtYXRMOWZvZlFBRmI5SFd0QS1wblFqNmtyTVZaWGRndlVoVnhROXlqejIzRXRPMnBiUVNTUHdGMVBJR1lmVUh4SE9fWU9oT0tXSVJud3hBdGVkTXJPZ0tmQVNIVHlFd1RiU1gxdlRLVlQwUXVDWHlPeEt4YTh1UnBfSDRwVHpUVnV2RUpf?oc=5"
+      "headline": "Brookfield Takes 49% Stake in 86 Outpatient Medical Buildings - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNblZQaHhGeW51akhSXzU0VFdLN1BqZGgyeXM5aUxiNWtXSDJ0Vmxkam13cmVwUk9TVGRTOHFYNk50MHgyVWpLMG4zckM1bWlCUWIzR1ZzRkJMYnc2YnBmcDRJQ29CaW5mbF9RM01JOEFpTjdXZWVQVzNIQ3lKYzVScGZOZklwb3NKS3ZZRFRTOXhlVVR0Mlh5c19RdWpFOUhXRHlDUnQwRUNlWlhrZHFkYmIzYVpWWU5rbWc?oc=5"
     }
   ],
   "insight": "Tracking Healthpeak Properties (DOC)."

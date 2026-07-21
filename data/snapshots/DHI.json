@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:06:32.230Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:29.822Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    156.3300018310547,
     152.47999572753906,
     157.80999755859375,
     155.94000244140625,
@@ -24,10 +23,10 @@
     149.99000549316406,
     151.5500030517578,
     154.4199981689453,
-    149.38999938964844
+    149.38999938964844,
+    144.7899932861328
   ],
   "6m": [
-    139.30999755859375,
     145.89999389648438,
     157.27999877929688,
     159.7100067138672,
@@ -158,10 +157,10 @@
     149.99000549316406,
     151.5500030517578,
     154.4199981689453,
-    149.38999938964844
+    149.38999938964844,
+    144.7899932861328
   ],
   "1y": [
-    131.8000030517578,
     131.22000122070312,
     153.5,
     148.1699981689453,
@@ -411,29 +410,30 @@
     149.99000549316406,
     151.5500030517578,
     154.4199981689453,
-    149.38999938964844
+    149.38999938964844,
+    144.7899932861328
   ],
-  "lastClose": 149.38999938964844,
-  "oneYearReturn": 13.345975668136395,
+  "lastClose": 144.7899932861328,
+  "oneYearReturn": 10.341405227245717,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Can D.R. Horton (DHI) Still Be a Bargain After Raised Guidance? - Yahoo Finance",
+      "headline": "D.R. Horton Earnings: Builder Sets Tone for Housing Market - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEFKZzk4UHVLenRES1I0NnlEenl4VEh1aFZCLUZfLW53c0hWTzhtMXVWVTJkYXdHa1pKeW9maERORHNaandrbUhnb21TZ0VaSTZ1cDAzTlNteHZVYVpiZzlYLTFJR2FFMGtSRVhiaXBKMVNOUnJ0WENFbWppQjVOaGo2eGQxQXQyVG9zVVNB?oc=5"
+    },
+    {
+      "headline": "D.R. Horton (DHI) Q2 Earnings Report Preview: What To Look For - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDN1bFFjS21YRU5mR1dCS0s4TmI4aDdad2JTYUtscUg5eF9WRk9VU1B6Y1VfZmVNVy1KSmZmTUpTNXJobWdKX0I5VWcydEFicW5JMV84SmlkaXNUejVKd0Z3UWJyWWI0NjJSRUhkeHFhSnFSbUxKVmViOXRjRGxOR05DcEs4clZGc2xkaG9n?oc=5"
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVnRmNGZmcV8wRmFkV241ZHZzRWNldE9rVjFVcFBVU19SWm05VEpOeEVJMWc5eU5meGxhTTkxenR6WHpCMjVwTFZsSnNlRlpJd2RseHVmck1wUmU2VGxCNnhjZkZPYlVsWU9fVWtSRWRMRGdwWXJPSjBseU9KVzNCWnBYcVZqRzNKUHc?oc=5"
     },
     {
-      "headline": "Why D.R. Horton (DHI) Stock Is Down Today - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLWVoMFhTclE1OXgtUzlGSVJBQWVwWkdrb045LVdOQkhhOHNSMGJoTklnV24ydHZOTjM5VXhBclRHT1VTM0xlWkg5a1czZ3QwNkM3bDRKbEdJOUduRm5hVjNQNDEzMVJsWkVYMV9LemdFdlJ4bDVOWXlIeEZXcXFGcndfSDU?oc=5"
-    },
-    {
-      "headline": "Did Slower New-Home Sales and Steeper Incentives Just Shift D.R. Horton’s (DHI) Investment Narrative? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc3lpUUppZ3ZHLUR1VkFseXloMUlJNEY4cER3UjFTOE5JWUpWeWFyLVlSYWo5LUVLUEdBNmNLT1ZhaDFWV09tZzM5THFodklzRm1KODNWNURieTNIT3d2QkV5MGthNGc1c0ZucTd2NlRCZHNWMFhnTE9UcHhYYVJoMkt2eTY4Z0NsQkNwei1JRnhzT2JEVkQ5eGVqRm5FTk5ITjNxZlN4cUs1WDUxN1cybF9sWnRSTmJrYkVra1gyWVduMUh3TWJPNFJkeFQ3QdIB0wFBVV95cUxNdzJoZE5XYkJUbzRlQWdlOUVqX3ppUE04bWJJLXZFWHZqOWR1a2hTdFM0c1NCYVZUb2pydWpDZ0pYNUxoU1huaVA5bGEzZ0FxeTZfelF2MkM1Sldxb0pJMk9FUDVTNEpoSkNaVHlTTHBWZV9HbkJ6VVN0YVpBQzN1eU1PTnk3WWtMekJkVnB3cmh1Z3ZYaFJiaUROei1fSmJ2MjM1YzVEUTA3WFUtcUZVTmx6TW9lelQ3MjlXQzFjSTZmNGRIeXZVRnI1aUVOUUlLZkFz?oc=5"
+      "headline": "D.R. Horton Inc (DHI) Shares Fall 3.1% -- What GF Score of 91 Te - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTN6b2pfZ3R6dk9EUnphS0ppU2lVNXRQRFpHZER1d1dFMHl1NkdvRVZlNmcyNjAyanpQamNpMUZTTGdxTzNvZjFySG52S0VGckFMbVVZMjFUS3VnQ2c2TzQxMEtsVjZYYm1paHBhWUFOWmhHV2xMRldYTjM0cDk0eUVnSlVPczIwbWxnYjZwam9YbzRpblNmTUoxblFtZ3dFTC0xRVVENDBBdDg?oc=5"
     }
   ],
   "insight": "Tracking D. R. Horton (DHI)."

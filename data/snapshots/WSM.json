@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:07:10.200Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:48:04.649Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    227.17999267578125,
     221.14999389648438,
     226.9199981689453,
     226.05999755859375,
@@ -24,10 +23,10 @@
     220.33999633789062,
     222.83999633789062,
     228.3800048828125,
-    228.41000366210938
+    228.41000366210938,
+    223.33999633789062
   ],
   "6m": [
-    191.83999633789062,
     197.80999755859375,
     199.0399932861328,
     206.25999450683594,
@@ -158,10 +157,10 @@
     220.33999633789062,
     222.83999633789062,
     228.3800048828125,
-    228.41000366210938
+    228.41000366210938,
+    223.33999633789062
   ],
   "1y": [
-    170.38999938964844,
     172.1999969482422,
     178.61000061035156,
     183.64999389648438,
@@ -411,29 +410,30 @@
     220.33999633789062,
     222.83999633789062,
     228.3800048828125,
-    228.41000366210938
+    228.41000366210938,
+    223.33999633789062
   ],
-  "lastClose": 228.41000366210938,
-  "oneYearReturn": 34.05129671946332,
+  "lastClose": 223.33999633789062,
+  "oneYearReturn": 29.698025723554156,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Little House Capital LLC Makes New Investment in Williams-Sonoma, Inc. $WSM - MarketBeat",
+      "headline": "Here's Why Williams-Sonoma (WSM) Fell More Than Broader Market - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVFhWdHA0OEM5ZG5nZEJOel9xRmRUMzBFSVR1MW1fNU9rdGw2RlJSaWZDWGt5SmdxN2J6eFBCTnI5aDJhalJxa3AxSVc2TUttTXZsUDc4TUdUZGpNdnc3dnJUcFU5bEpHMml1UExELWhucjhmLTJ1LTY5N25PcG1Ea1lYNmtETWFGVDFRNjFxcnRQWGgwY0RldlF3?oc=5"
+    },
+    {
+      "headline": "Bank of New York Mellon Corp Trims Holdings in Williams-Sonoma, Inc. $WSM - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORnozVGtpTmh1SkRDZTd5dVVFS3lEM2JjUDNkbXBOUm44Tk8ySENNYUg5cUpSa043RUNmZy1lRlk3QTlNcjdyMjQ2R0dKeGZSZlp2RVp4TFlOSDlON25vdkw2NjJhTFFkY3N5MlVPR202aC1JTV9tNV9BTXdFSXN1UDQwOFhCTGJQQjNnSENmM28wQXl0R0ZFZTBlTTM4dER5cFVUN3AtcWtlbWFhRFFVSnozRXdURDNKWnpCNWlSU1U4TGtjb1ZhRzZ0VVRsUQ?oc=5"
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSWJvWkpiSnRVanZxM2NjdmZyd2RKaEtYb3RvWFNBdE9waTd4OGxyd2FRS3VHb3dZRWhPSGVGMExmZEF2bmFYSE15YmhWenU1emJjMkFzUGFYTDRld19Gd1Uxd3Q0UC1YRkI0cXFLVmFDc2Q1RmRMdDBXazhhUlVramZLYWhPakUtTzM5SHBFU1hhb1ZVdnBxQ05XbWJ4dnNJQlBLTjVGVDNCWGVScF9zcWtHcllwT1FOeS1paENBeEctMjlPZTdHMDUzYw?oc=5"
     },
     {
       "headline": "Williams Sonoma CEO Laura Alber sells $7.7m in stock - Investing.com",
       "source": "Investing.com",
       "when": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFlpdHp1ZjBJVFVJd3RGU3J2NW1ONURzZl94TmpsVlpRdWsyX1pSNnZtbWJTQ0c1TVNTZjRvUmptdEJUSFFZVG9zdkVxbW0tc0M2S2stMDF3anc0c0VTbXlmNXVlaEh6d3p3Y0NuTmc1TTRFRTFIbUZVRTZac3ExdGtvQnQ1Uk52eVhtM250ei0xZ2JfT1FkbEVfVkRUWjFaYUJYdkx1aVdNNDRGNWtYX2Z2dTlJUQ?oc=5"
-    },
-    {
-      "headline": "Here's Why Williams-Sonoma (WSM) Fell More Than Broader Market - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWUtRVVPZ0lZYVRlU3hoSW1BMVgtSlJiT09VX0JBUFA1Wlh3UktEaE5CVE45TzQ1RU5PbTlWQW00UmtxSXpaa013QnVNTDg1R3A2Y0l3YmJoQmhiRnBHXzVUY1lmYlB6U3BVX2dqbmVldkRiMVJMOVdXZDBwV1dITEgxeTlvVHdTRG1sckh3VFp6OTk0RUNqT1dR?oc=5"
     }
   ],
   "insight": "Tracking Williams-Sonoma, Inc. (WSM)."

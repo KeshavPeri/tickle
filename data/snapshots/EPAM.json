@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:06:36.465Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:33.656Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    93.33000183105469,
     87.69999694824219,
     76.63999938964844,
     76.04000091552734,
@@ -24,10 +23,10 @@
     84.5,
     85.93000030517578,
     87.66999816894531,
-    88.66000366210938
+    88.66000366210938,
+    89.4000015258789
   ],
   "6m": [
-    218.1999969482422,
     219.77999877929688,
     211.92999267578125,
     211.82000732421875,
@@ -158,10 +157,10 @@
     84.5,
     85.93000030517578,
     87.66999816894531,
-    88.66000366210938
+    88.66000366210938,
+    89.4000015258789
   ],
   "1y": [
-    164.6999969482422,
     165.5,
     168.72999572753906,
     171.05999755859375,
@@ -411,12 +410,19 @@
     84.5,
     85.93000030517578,
     87.66999816894531,
-    88.66000366210938
+    88.66000366210938,
+    89.4000015258789
   ],
-  "lastClose": 88.66000366210938,
-  "oneYearReturn": -46.16878852161046,
+  "lastClose": 89.4000015258789,
+  "oneYearReturn": -45.981872189801265,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "EPAM Systems, Inc. $EPAM Shares Sold by Van Berkom & Associates Inc. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHNMYzZENGh4RDYxNWVOdjY3VW82T0FndzNtU18yLWNNZDRUd0g0R3JzdHROQ205ZUhYQmhMMzRTZ3hCdEdqWFNKNEI2QkNMNjZ5aGNOUXVQWHJsZkJBaFk1M1pBSXJwOW85eGVLcmcwNWd4UmZwek5qS3M5RWtJWV9Idkl2SkFPcnE1MEU3bTZlZVFSTm1oeU8xOEstTzZXYmozS3dVRV82aGpjcDV5eWdpTXlWcGEzaFhhSmZYa00?oc=5"
+    },
     {
       "headline": "EPAM Systems (EPAM) Rebounds From A Sharp Reset, Is The Stock Cheap? - simplywall.st",
       "source": "simplywall.st",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY25JeldneFhnUVJ6dDhZTnl4SDVKZjBqSWV2Uzl2OTRLQ1RubU4zRjUxRjlRRldZd2tZV3dyWDR2Q2tJa3J0QlBqWTJ1V3VfQWZqZ1lHVV96TUZBUGVNWkp4OXpWVVlMX0p5MHBvYi1WcmtDTkVmdWdLNFpzcXZFM1VWekFDajVCd1N6cjZaVFIweXp1WXdkdUhRQVdZN3dET1JkNjduTnUwYlFPV0lzcDlIakdvOWdSZmNNSkNrSmVVeW9DYVIxedIBzgFBVV95cUxPcWhRU2hGRXN4YWplSmRhUHNmbEdoQ0tBc2toQUxQWXQ0S2M0N0FaZGdtRGVsUTliQ2E0OGxuc2I1WU9mNVo0UFdKNFRTZ3Z4UGRER2djS3g0ZHctal9USl9oZ3QwR3pBMW9zTDBsMWYzZEQ5N05RWG0wcmpzY3ZSMDdScHp5QkRTYWtWc2FRRTl1dm1fVzFIczdiQzA1dHNKNzI2QW5ubk8wZGU0enR1aXBDcDRxZWluM0FJTm5oQXB6c3RGMjdyV3NYX2dUZw?oc=5"
     },
     {
-      "headline": "Stifel reiterates Buy on EPAM Systems stock, $200 target - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWVlNDI0eEFOd0J6aC1UVlBFNGhUWk01NnBodzBEalNROEctMFRMVkFRVjVmWUtfMjlxOXdhQVdEZmRleXdsSnUyRTE3eEFwOTV3LUFmRE41aC1SSXFfMGtjeTN5aC1aa19Na3lmcmJoWEMtWHQ3MWpxSmEybG05WmdJQ2M0MFptQ0FiV19HNllvZjdyN0Rma2lmeXVMVU02eWxMdjRpSU5Sdl9UYkctYm1ZcGM?oc=5"
-    },
-    {
-      "headline": "Bessemer Group Inc. Increases Stock Position in EPAM Systems, Inc. $EPAM - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkpIam5KeUtMelZxbmhBdmxSRlg2TnNCVGpuRHBwLXowMFkxQ3lrb0cwTDI3b3lLSEw3aFRjZ0VXcGdyUXVMUm12ako3Vnh0YlYzbGJFNTJtM01nWFdjWUZJSFFXR2FqLV81Uk5JSTFTYkt2OVlEZWlMcFFuVDk2YTU5MW9JdVRHa19jRDdZdDBXNHM0MnpCNWt5RmxRWTI1OWxYUV82d0pVZ2Z5dUZJSXQ5OTJneldjcDB0VHlYOW8ybWhRc1YxcQ?oc=5"
+      "headline": "Is EPAM Systems, Inc. (EPAM) A Good Stock To Buy Now? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-13",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeG9saFdNYUcxZlJOZk5Cb1BwTk9YNmFPd3hUTHZDVjFiNjloejl2NzUzOWNobHhRMnpYMGsxQ3J0eHVYbUQwa1djcGE4ODdwOE1IN0dac2o4MzhMMGRCQllWWkt5dUp3MmJxR1pnSWx6bGlLX3dBbHUzN3daNGlobFFfUEREdndWNWtwX1k4bHhyMEQzaHc?oc=5"
     }
   ],
   "insight": "Tracking EPAM Systems (EPAM)."

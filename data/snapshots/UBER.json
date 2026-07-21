@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:07:08.142Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:48:02.501Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    73.25,
     70.91000366210938,
     71.63999938964844,
     71.43000030517578,
@@ -24,10 +23,10 @@
     72.08000183105469,
     72.66999816894531,
     74.04000091552734,
-    72.45999908447266
+    72.45999908447266,
+    72.16999816894531
   ],
   "6m": [
-    86.19000244140625,
     87.58999633789062,
     85.44000244140625,
     84.66999816894531,
@@ -158,10 +157,10 @@
     72.08000183105469,
     72.66999816894531,
     74.04000091552734,
-    72.45999908447266
+    72.45999908447266,
+    72.16999816894531
   ],
   "1y": [
-    90.58999633789062,
     91.16000366210938,
     91.79000091552734,
     89.94000244140625,
@@ -411,12 +410,19 @@
     72.08000183105469,
     72.66999816894531,
     74.04000091552734,
-    72.45999908447266
+    72.45999908447266,
+    72.16999816894531
   ],
-  "lastClose": 72.45999908447266,
-  "oneYearReturn": -20.013244272353308,
+  "lastClose": 72.16999816894531,
+  "oneYearReturn": -20.83151023507171,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Lobbying Update: $1,230,000 of UBER TECHNOLOGIES INC. lobbying was just disclosed - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOEdBeGFvLUZwUzJiQlpBei1RNGJnVm1aWFlWSldRb3kzdGVDem80NzVub2dMVWJTUnk4VWZ0U00wT0ZUb0JBdk5hZV9sMXRKN2txU2NfOHU1OHJLVUFHUlNzV0trTDFiQTFTTGFFY3ZpMXlfWlE2d0lOd19scUYzMXdQNTBtTkxPcTRXT0xpYy1iS3AxRzJBY3h2cGlxRVpEZkNZcE51aW5Rd0UxUGU3M29CdmtmRGl2OUtYeTFhUQ?oc=5"
+    },
     {
       "headline": "Uber Technologies, Inc. - Uber Announces Acquisition Offer for Delivery Hero - UBER Investor Relations",
       "source": "UBER Investor Relations",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFRvQ3BZelRVSVFYQUlWaGlBZDdCSUJRN3hVU2V6RnhXV0g1c1JXMXgyRzZlYkNUeDBMblhNZWFOd1V0WWx0aGFmbnU4dllRaXRrQ3A5R0lXa3NlOWZDNU9aQnd0TmhXcXI3ckphRlVialVXdDZYUDYxWEtNa29MSnA5SW5wbVAwZXE3b2k4OEVIMGlhR1YwTnlpODJGWWRIU2V0MXpLdDhHenVPbmYyQ3NkR3dNeWRvaGFJUGpNMFJhbGZlNXlYdk5NVk9jdw?oc=5"
     },
     {
-      "headline": "What a New Uber Eats Deal Means for GameStop Stock - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDdiODhDSnN1Z05CVEdEZjRVTVk5a0VlbXROZXVMeG5aUEpFZnhMT0lPRFZ3YmJMSjVQOE12TTdOZ1cxMW9DeTVOdjBYV3NuZXdXQTFSa3lheWRlaG5tdzBNUW9lY3Jvd3NMS2pkbmNuamZXekhYV3JzcUxMcTZ0S1J3VlU3QUlHbWJ6N0d1WUVpS2lDcy1mU0hR?oc=5"
-    },
-    {
-      "headline": "Uber Unveils $14.8 Billion Delivery Hero Deal. It's Not Just About Food, Analysts Say. - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OeGZxV0tqUFVFTUY0WHR0X0dqbDY2MlpRQzlXS0ZGSkh2cXVEMUpBNzRYRXVUa25JbUlFTnRJdW5LTW9XT1gycWxEeGtjODFtR3U3U3V3em9NTlROZ1dFdmtkSXdQajNsVGVBUjYyQXJzUGZZU0hCdmxyZTU?oc=5"
+      "headline": "Uber Technologies, Inc (UBER) reports RSU vesting and tax share withholding - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGtoWXl0VWdvYVpNV1ctSmpPS01mR2M5Q1lHS0Q2c2NtaW9EdGNoTllKQm5YNmhzVktmSkdoUXNNN3MtZkVxck80SEZ6aER4cWloSVlCenhpZjAzMnBBNmx5YlhBNS1sRy1aU3V2LVlJN0Y4cEI1b3F3cEFMTXM1blpPWWItSXc2Y1VYOGdZZlN3ZWZfazFPRlFYQURyVFZMRHJsWlhHZUUxY19fNWlJZFBCTUlzZw?oc=5"
     }
   ],
   "insight": "Tracking Uber (UBER)."

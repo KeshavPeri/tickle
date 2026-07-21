@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:06:20.594Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:19.190Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    56.84000015258789,
     56.529998779296875,
     56.20000076293945,
     57.369998931884766,
@@ -24,10 +23,10 @@
     60.619998931884766,
     61.59000015258789,
     61.4900016784668,
-    61.27000045776367
+    61.27000045776367,
+    60.41999816894531
   ],
   "6m": [
-    55.63999938964844,
     56.18000030517578,
     55.849998474121094,
     55.189998626708984,
@@ -158,10 +157,10 @@
     60.619998931884766,
     61.59000015258789,
     61.4900016784668,
-    61.27000045776367
+    61.27000045776367,
+    60.41999816894531
   ],
   "1y": [
-    47.31999969482422,
     47.47999954223633,
     47.77000045776367,
     48.13999938964844,
@@ -411,12 +410,19 @@
     60.619998931884766,
     61.59000015258789,
     61.4900016784668,
-    61.27000045776367
+    61.27000045776367,
+    60.41999816894531
   ],
-  "lastClose": 61.27000045776367,
-  "oneYearReturn": 29.480137051787175,
+  "lastClose": 60.41999816894531,
+  "oneYearReturn": 27.253577825328478,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Bank of America Stock Looks Undervalued After Its Q2 NII Reacceleration - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2RmbENLNmdWTHJ4TU5VU1B1WFphNEh4TG5uN2xuVWY0elVYd3pndWVrVzNYTFI5Ulc1UV90WXZpOEZDdGRjalV4WDBjanVnZVRuZHdpZ3RHem9FQ2Qyd1p3OS1Ca2pGLWhVVDVpSmUwWkVWV1d2cEtXdTJyZTJkSEZNVk4wT2ZuV2ZwdGRTYVloU3hNdjY1Z2JPbjhfTXVneDVF?oc=5"
+    },
     {
       "headline": "Bank of America (BAC) Stock Still Looks Cheap Following Its 111% Run - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQllLNEt1S0hScS1mZjVRZlc4dGt0alJVb09SajFrSWNZUkZlc2xYRmUwbENKV0FGdzFaMUhfd0tFOUdfZGRnRlhvM0tHQmpmR2tiQVpFQ1ZTRDZqVm5rWFVLWTd5MGQ1LTBZbURKcjAwTkFRZGZieXYzYjUyUExSYnpmZ1B5NEF6RnZZWWsyRU8tZUlqS0RDNQ?oc=5"
     },
     {
-      "headline": "BofA rides market whiplash to trading records, deal activity shines - Reuters",
-      "source": "Reuters",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ0Q2d25LQnhteUhPWmx1Z1ZkZkljcGlXNUpidG1IMFhwQ2xFLWlqQndkbTNWQzFiUzR5VlZsZU5OR2RkS0otckc3eDhVMWd6azVGdWMxc3NZVDNueGEwZkdlandoYVB1ZmVwS2ZXWHdYbUx5M21jeFdxZG1IWmE5ZlFXRG52UXFQeFYyLXRESnJtOEViWVJN?oc=5"
-    },
-    {
-      "headline": "Bank of America Declares Preferred Stock Dividends Payable in August and September 2026 - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT21laG0zbE1BajhKeGFQRWF3UHRxeERlbkZ4cEJMTVJmcEs0Wlozc0ttLUNJR3loc2ZQeFRXUW1zZWt4TUFEcEN3b2RLM3VWeERQM1poaTlzc1lpNk5aTzI3aHVhZmIzZVh6al95Slk1LVluOVh6R0JFR0lBenhmSEh5Rk11aEt4SjNMRWRBRklNcXVGVjFYMFVZOFBxb2NIRURNQTNfY1djbkVVWDVaaWRPb3EtUldqNFlQYWJ5aWI3aWtEdVFnLW0yOXZXTm9sVEJwNFlMUWlqX1E?oc=5"
+      "headline": "Bank of America (NYSE:BAC) Stock Price Down 1.4% - What's Next? - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZmgzVnRYVHVJc19Hclh3cFNZQWl2c2JSOWpnVlhVN0Q5U0NPTkxaVXVuXzdHUkhRcUw3OGtDel9PZ0xEcXpPc0NRdm1raXJDZEtNRkRNVS0tZHBMc2NlUE1EOG1nX1ZjcW84UVdjMVE0NDFoT3RRZzhyNmk5a3MzTzJIUUt6TUl5RzNnR1UxRi1ZX3BMWU9mNWxfZllTSThjVkttcC04QTIzRmVM?oc=5"
     }
   ],
   "insight": "Tracking Bank of America (BAC)."

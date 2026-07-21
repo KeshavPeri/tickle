@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:06:44.730Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:40.995Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    17.31999969482422,
     16.850000381469727,
     16.860000610351562,
     17.049999237060547,
@@ -24,10 +23,10 @@
     17.850000381469727,
     18.1200008392334,
     18.559999465942383,
-    18.25
+    18.25,
+    18.059999465942383
   ],
   "6m": [
-    18.139999389648438,
     18.469999313354492,
     18.239999771118164,
     17.899999618530273,
@@ -158,10 +157,10 @@
     17.850000381469727,
     18.1200008392334,
     18.559999465942383,
-    18.25
+    18.25,
+    18.059999465942383
   ],
   "1y": [
-    16.709999084472656,
     16.809999465942383,
     16.65999984741211,
     16.81999969482422,
@@ -411,12 +410,19 @@
     17.850000381469727,
     18.1200008392334,
     18.559999465942383,
-    18.25
+    18.25,
+    18.059999465942383
   ],
-  "lastClose": 18.25,
-  "oneYearReturn": 9.216044284277373,
+  "lastClose": 18.059999465942383,
+  "oneYearReturn": 7.436050206500848,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Huntington Bancshares Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYXRJRkJaQXdlM3NIbndILVFyV3VsbWZzd2s2NW9jU3RZLWZYVlFEcUl2ZGdmS0RGR0lzNlpUT1V5SzJlOHZrRHdvdmdkVzhnMzhmN2JUaEhaX3BtWXh0UjBpS2dZRWlzbkVtVHUxVUtWeGgtcXpCcm5RY0tGTGQtaF9Hemw4ZGpZdEF4NE5WX1ZObGVpUzBWZ3hUekk4N0VoSzF6YWFrakliRnZZOXZyb0tpdk5ZWml6aUNmbTd2SUFXSVhUTV9DYXRzbTY1R2dHajUtMWN2Q0VxMUgxN2lXMndaSTl0Q1JYaGljTWZZU3c?oc=5"
+    },
     {
       "headline": "Huntington Bancshares (HBAN) Stock Looks Cheap On Fair Value While Earnings Look Fair - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd09nN0hLWmF5RjdmY3NXMGxVOFQxbDdWVXpxTzBwbGlSR2xvOEhJdE1wN3I4bEsxTV92Z2ZyMWhuaGJyS0hqd0FkNlJNTmpMTEhYVnpvOUJGRm1Kb0RDNjMyYkEtcVFPSGNMU2J1WlFwVzl6VzVWelRyeVRSX0REWmtOUmRQdlBwczJDekNOR3VtVWdxQVZBRl9kQS00eVRjZ1N4LTBR?oc=5"
     },
     {
-      "headline": "Huntington Bancshares Incorporated $HBAN Shares Bought by Bank of New York Mellon Corp - MarketBeat",
+      "headline": "Huntington Bancshares Incorporated $HBAN Stock Holdings Decreased by Modera Wealth Management LLC - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVTVaMTVWbkRpVHBISzlzS0lJMDNWbmpQRXdIRWZGYmlKejdTdmdCVGdFREVxOHJla2loQUQybzRfRUFWNC1FUlR2eEJ5cGZWc2hGTk55MmlGRXotcmZaZmZzM0NUUks3Z1NkaVRueC04T1VMMVdMNm5mQmdLeDh0Y1A0czg2YlVfVEh3TVAyY01INHNzVnk5enpKMV9STFBtTnhzTThUUzFKR3oxekJIS3plX04tYWxQdUN4YmFLeWtxd2pvTmV4UzhQVnBIYWlVNXhDRWdMR2ppMXRYSjFZ?oc=5"
-    },
-    {
-      "headline": "Is Huntington Bancshares (HBAN) Undervalued On Its New Research Platform Launch? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRkNfcmhHMTlZSEZSYnJ2b2VOMjItZWxVWXZqejJpc0ZaXzhzQ3FqVkYwZy1yelM1THg0a1lhVEF1Y2V5TWlPLUt5YXR2TFdack12RGhJTDBJd1VieU1tRHRPanJ4bk9rMHkzRnJ4ZWlzMHh2UEZLWE00X3BmUmpUdEJhbVJfZERpdEpOQ0ZFWkVrRW50eWJsVldOVHZKQWR4Q0kyZXNfLWVLaF9KUnJweDh3UldNdHp4VlFYX0pvQ2d1T1RzYzZLRUo3ZWg0MEhzM0930gHYAUFVX3lxTFA2ZDFYcnBnZWdfS1BPd1VZcXZETnpxVE12M2hUUXVOcUpLbks0UW1YaHJFejk0LW5EQ2RTT1RlSDlqeUxMY1JKRUt5NDUyV3RMaTdUblpwamdkc21Vd0lUUVRvbmxOZnpwVEJsV1JVdUxadmFiejhZYXJtSmNEajJIdDk2QlpNNzZiR2dGQWZqVjRSVGROSzJDVW9iR1dtVDJramkyWXRNR3FZc1ZXNkNDeGE3dWVhbDVQWUp5SW1zaWNfRVJHd2lQeGVjZ09xRGlFNzB3S0RiMA?oc=5"
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQ2JjeXk0NDlnVUxKNWVmU3BrN0hiMGpmbkZSQmlDWDBzN3pUVFlodXlqUEstZHBOYUloSGF2NmZfaUc0R2VZam5DQ3d5V2t1NW9wTmpHVmpxWldldDY3Z3kyd3BNZnQ2TVBSREp1RV9BTGFEZXNJRjZTd05fQ3lQNmpiTVY1SWI1NUNkcWk3T3VGLWJJU0MyYjhzTDIyRDlqRnlUbmExYm9PSzl2RVgtT1hzSkt1MUlWcXNCLUFmSFdiZzBsUEJnRXl6aFo0TW5XT1hudGtycno4LWRWRGNnTHBFRGtQTEx1YkZiZW1R?oc=5"
     }
   ],
   "insight": "Tracking Huntington Bancshares (HBAN)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-20T05:06:21.214Z",
-  "builtDateUTC": "2026-07-20",
+  "builtAt": "2026-07-21T04:47:19.832Z",
+  "builtDateUTC": "2026-07-21",
   "source": "yahoo-finance",
   "1m": [
-    33.18000030517578,
     33.290000915527344,
     33.04999923706055,
     33.93000030517578,
@@ -24,10 +23,10 @@
     33.13999938964844,
     33.630001068115234,
     33.33000183105469,
-    32.630001068115234
+    32.630001068115234,
+    32.22999954223633
   ],
   "6m": [
-    25.149999618530273,
     25.450000762939453,
     25.65999984741211,
     25.639999389648438,
@@ -158,10 +157,10 @@
     33.13999938964844,
     33.630001068115234,
     33.33000183105469,
-    32.630001068115234
+    32.630001068115234,
+    32.22999954223633
   ],
   "1y": [
-    24.600000381469727,
     24.280000686645508,
     24.559999465942383,
     24.75,
@@ -411,12 +410,19 @@
     33.13999938964844,
     33.630001068115234,
     33.33000183105469,
-    32.630001068115234
+    32.630001068115234,
+    32.22999954223633
   ],
-  "lastClose": 32.630001068115234,
-  "oneYearReturn": 32.6422787078256,
+  "lastClose": 32.22999954223633,
+  "oneYearReturn": 32.74299271319,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Franklin Resources Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQV1Jkd1F2ZDJYXzV5VkQtZEZoSXVjUkV2VjhBbkptOEtfTnBXVUh6U1M0NWd4OXBiaklDeGVudDI5TkxOclVwWGh1YlR3ejZiUk1fcGI4dVNQOXNJYjdjNm5MOGpJQk5SSEh0Y0ZWRERRTFNwNUV4VGgwcmlOaDRyZWVzR3I1Z28zaHJwUm9INjRyUzVEUEViRlBxbm9leXNGSXZFSUx1aEpNWkFOQVFCeFQzcWpiUl9BT0ZrcmVSbFdtV3VySHVydEV0aXhiMDMweGpUNVBtZXZUNmFWTV9iSnVkLS1XYzVwNGxoWA?oc=5"
+    },
     {
       "headline": "Franklin Resources, Inc. $BEN Shares Bought by Fifth Third Bancorp - MarketBeat",
       "source": "MarketBeat",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblRyRUg3R0NfbHlaME9kSWtfa2ppR0EyNEh1cjAtLXVLS2ZlZ2dJNG9SZ1IyQ0ZGNVJqT1ZscnhCT1ZDbnZucDlQSXlpMDNRbFFrZURKUE42WFFicG1IRzRXS0tQSEE3eEpOaU9rXzFUTG5ZYUNtc1k0Yng4V0I0UlJGa0xxZlhLOFJ6dmsxUmROYUd2enZpWU1ZRE5jNldWSnpFRXc4VEp4ODhpZUFLbXlqdThqQ1NSRU1KSUlEbkNQUQ?oc=5"
     },
     {
-      "headline": "Franklin Resources Inc. stock underperforms Friday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdFA0UHVEczJRY0VDcENOdy1lS0NCRENNam50YWhxeU5YdXB1WnJxYXpNR3BKYUplVTJlOFdfVjVzcksxQkFQaTBDUGFSbmZWNE9VUnZLYXlRbXZtUV9QdjhhbDJjMGRGbDkycXJTOWdpV1N5OExaUmpwTTRuM3EwNTJzMG9GMU5kdUtkYnpLWHgtUW83ekpKeFo3djVnQ25NenloTDhkUjBCVEQzWWpMdFlNX0x1RkhmRTh4Nm9MSEJqYXVFTmJkRlZ4Nmp4QThJQ294eHQ4ZzFDQW84ZTY4T29xVzlPS2JjWUFTSg?oc=5"
-    },
-    {
-      "headline": "BEN News | FRANKLIN RESOURCES INC (NYSE:BEN) - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRb0tscFExWjVldGxEV3VuUHUzeHltT1BVRVI5WWxEenVGV2NKWGpsaV9LZmxSUFlabkg0bGxhcVZ3N0hRQXR2YldGNzBwdVdfSUd6bFR4SHkwZw?oc=5"
+      "headline": "Franklin Resources (BEN) Stock May Trade At A Premium After A 43% Run - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSzdLV2h1QVp6Wnlqcmprc0N1Q3ZhSGdsTXNCMHY2MTN5MnNySzhTZUJYdGY5aU56YW5ScFF0dVhMcDUwYmNjWFRuc1k4eFA5Z1c4TG9fN3hiUVNScE9GNTRBVTJ6UEdPbmRDSXJKU09xYU9tZ0tYVmZvaEFPTEhVUnFvdlFPMVFFdUpGcTljNGYtUmQtWlRHVXFzUEFfdw?oc=5"
     }
   ],
   "insight": "Tracking Franklin Resources (BEN)."
