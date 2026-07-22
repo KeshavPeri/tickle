@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:37.294Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:16.659Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    1931.77001953125,
     1967.4100341796875,
     2066.510009765625,
     1908.0699462890625,
@@ -24,10 +23,10 @@
     1736.699951171875,
     1680.5999755859375,
     1674.06005859375,
-    1712.1800537109375
+    1712.1800537109375,
+    1773.510009765625
   ],
   "6m": [
-    971.489990234375,
     1010.4099731445312,
     1038.1800537109375,
     1073.1400146484375,
@@ -158,10 +157,10 @@
     1736.699951171875,
     1680.5999755859375,
     1674.06005859375,
-    1712.1800537109375
+    1712.1800537109375,
+    1773.510009765625
   ],
   "1y": [
-    544.9500122070312,
     532.1400146484375,
     547.9099731445312,
     562.8300170898438,
@@ -411,12 +410,19 @@
     1736.699951171875,
     1680.5999755859375,
     1674.06005859375,
-    1712.1800537109375
+    1712.1800537109375,
+    1773.510009765625
   ],
-  "lastClose": 1712.1800537109375,
-  "oneYearReturn": 214.19029550557482,
+  "lastClose": 1773.510009765625,
+  "oneYearReturn": 233.27882905729393,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Comfort Systems Order Momentum Strong: Multi-Year Growth? - qz.com",
+      "source": "qz.com",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzT192eDZ6VU9VdVFHX1gtRWN1Q2twR3gtcmdHM0FRQThUNlo5R29xTlVtdHk0VmVmRllZYWdjeXBpOXNBMndONVN6eVk4ajFSY3FJc181ZjgyYTA3MzhkM25fVE8yT3g5a1BQcWIwNVNLTWM1M3VhSFl3?oc=5"
+    },
     {
       "headline": "Comfort Systems USA (FIX) Stock Still Looks Below Fair Value Following Its Huge Five Year Run - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2pJZUFxRzRXQjFmc2l1U0UwOGEzU0lHUnVQNFVYMFh6MGZDcEdxQUJSRnhhejBiTUh5MzdZNEhLQTh4MENYUXZOaC1aMnRCNUVzQ1VLMko0eVBLTmdFSGpmbXRLT0Q0MFM0STRZSk5USGthSFdjX0w2R0Rka3l2ZTZseWFFSDFMdXNyNUlmWURieGdUdFlIN3V3?oc=5"
     },
     {
-      "headline": "Swiss National Bank Increases Stock Position in Comfort Systems USA, Inc. $FIX - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUmo3X0NqTjAzWGwxektRVFhqRlEzOW9Ud25jeXR0NXNrdmxWdVJhc3ItRHZlS2ZnT20zWUljS0NGYWwta0lXMnBja1RQTFcwalVleXBsa3JycG9CT2x2d3ZzRG5kT1lHR0g3YTZsSFh4a2tBdGwtNlFfM1FNbk81OGlsNnFmNURLaVNuazBrblhOUjljOHh1NnNwTEs2U1ZrclZXWGR2TE5DNmswbHVjbTRob243NmpZcFFKOC1XeDRUSWVNb1BLNXJrLUtwNFFlYkE?oc=5"
-    },
-    {
-      "headline": "Comfort Systems USA (FIX) Stock May Trade At A 36% Discount After AI Infrastructure News - simplywall.st",
+      "headline": "The Bull Case For Comfort Systems USA (FIX) Could Change Following Q2 Results And Backlog Commentary - Learn Why - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOTloQnFGS1BBUG5lV1diU0lyZzNYU3c5MVlhRHBvTDFPMlVEUVZzeTYxNWxjOUFkSmV6dUhNaDlyMVdtV2c3VWJsUHo3ay1oWEM5UEdNX0ktUUwtRzRJNWxBaUc5Q0p4SG0tSjZ0NE9UR3hHUXVGTXVGV1hySDY0eGktT3NIeXlFODliLTFhaTNId2wtU3JGZ2hGQkVfVE4ya0VUTVAzTWRYR3MxMlphd0ppeWVoT2FlSjVWdm8yNVJWU0c2aTE1aFJnRXQ0MzZrdU1acmJGVdIB3AFBVV95cUxPb3VMalo1OG55QWxoV2VJbDhtUXRVNW9LQTNzMEt5endYT09RbVRwUWZ4WGVKNzAxT3ZRTFhPaXo5bnEybG95YlFDZkxTcXVRNjlHa001SjRINDdyNTZnM3pSMjcyVktBTE5CRTduOUVUMVowZ19RYzZ0SW1Ga0xYbWUxZE5iVUVZaEt5R2dPblluTG5SZDdxdEsyaXdHYXdFakFJUU5hTVBHTERqUU95WTd5TU1yRlFoWkNPVHJqLTZCVkFPNXVmRVBkTFJmY2hpQklYTmZFeGlQNlZV?oc=5"
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTjN1VVFCeF8yUUlKazNsY1pyY1pEbEZNM0dYUDV2YnpRYUdvRlRrV0hId2VDaFBTT0M4d1lXdVdWWUJaXzNoYXJ6RzR3dm05ZndtbDZ0VjRfdVVlVTBWNUlBZExLVnRoQ1JXblFZRUtqbGdRVGYxYTJ1a254Q1BVTG0wS3dFSG9jaDZ1c19nQURzVjByQmVjWm9ITzNfSlphLU9zeVBzMDQtTk9jeE9ENktVdmdrYV9QeWYxLU5BcVhXc1ExZDczQVZrWmd3LWl4SHNUNmU1WdIB3AFBVV95cUxQLU5DU0xVcjF6NkV1OFZHYkY2cjN5ZmtvbFJqT2F6R2VUWWpfNmM0Tjkxb1BfSlp0anN5d1B1ell1bjJpTUJlYUtXRzBoVWFsUTB2SVp1NDFWSWtxcUhIYWY1aDhLS2dNY0Q5Z0IxRk9xVlotV1VRRllVU2hNUUxOS0gtZWZSUHlfZFI2T05nY0tBMXpCbGxuanhxV2htYVhtOGY0X0RBbUJkNE9MMUM3VXRacG5rdE1RSkZhU1BGWFY5SkU2Z0tOVVZFM1pFRkRadXBqUEFyVUlabjc0?oc=5"
     }
   ],
   "insight": "Tracking Comfort Systems USA (FIX)."

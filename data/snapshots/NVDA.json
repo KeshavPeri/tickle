@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:52.942Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:31.064Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    204.64999389648438,
     210.69000244140625,
     208.64999389648438,
     200.0399932861328,
@@ -24,10 +23,10 @@
     212.5,
     207.39999389648438,
     202.80999755859375,
-    203.27999877929688
+    203.27999877929688,
+    207.2899932861328
   ],
   "6m": [
-    185.0399932861328,
     184.86000061035156,
     184.94000244140625,
     185.80999755859375,
@@ -158,10 +157,10 @@
     212.5,
     207.39999389648438,
     202.80999755859375,
-    203.27999877929688
+    203.27999877929688,
+    207.2899932861328
   ],
   "1y": [
-    171.3800048828125,
     167.02999877929688,
     170.77999877929688,
     173.74000549316406,
@@ -411,29 +410,30 @@
     212.5,
     207.39999389648438,
     202.80999755859375,
-    203.27999877929688
+    203.27999877929688,
+    207.2899932861328
   ],
-  "lastClose": 203.27999877929688,
-  "oneYearReturn": 18.61360309698742,
+  "lastClose": 207.2899932861328,
+  "oneYearReturn": 24.103451356682946,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Nvidia Stock is Flat Since November Despite Tripling Its Net Income - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Nvidia Stock Steadies, But It Needs Help for Real Gains - Barron's",
+      "source": "Barron's",
       "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmdYak9yLU51cmtOVDBQbnR0X2o1T2stVEZINmpRcUR6U21WTFNnSGdPZ3FqaE9PWXNPY2VzODhpbFNhYzhBMHM2cDBiSFJEdy1DSV9BUmpESmx5MU1uVDUtZksxNWE1SUVBYTJRdEpQb3FuYkNKbWgxOHFuRElWQTRsbndHTlVlNHdDWVI5STNyX3p6eWRB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNMWFMRzBHVEpyUGI4aklRRHlmXzJYWFU5ZFFxNk9Xa0ZwUzFwQWdBMXRQS1lpT3RzNlg3Y2FFWm5FYmpwUVNNM2Q5WnRlbDF4NzdhRXhIeDNvU2lzSWRLRWxvcWJjOTN4OVBrRkxHNkNWR1A0R3B4MGJTUFRVeXc?oc=5"
     },
     {
-      "headline": "NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel - CNBC",
+      "source": "CNBC",
       "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNlI1ZHlmM0I1QmlZTlMyVnA0R3VfX2VzazJmeDlCSGtobzBGRzJPbXRvS2FCUmdQa2E1OWJxNGtYSEx1Sk5OYkRTYS1lRGd1allmdGhoRkF6QjNLajQ0UEtUTmpXLTdSVTVIRGVybHgwcmxlVmxUVHNpLTk2WEVxeGZMMEtVbnZDVDgyUy1uUnBZMmtNQnVFWFBqQk5WRms?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCbmVqVGRCbVNSa24yODRDdU9YVWVLbFdiNWg2UWVPVE9hcHZwNlIxRlVSSS1JSWpkNlZsWS1GeDZRNEdXMndVUTIzNC1Ddy1oTElYdFpXcmIzVjlaaUlPWHdrSWczdU12NjZ6WkRvMUZ0WE3SAXhBVV95cUxOcGNtV3EzLXFWdmFQaFVQR1JDWlpXcWd5NHZ5U3BYUDg3RG1XbVlpRWVzQ0R2V3FBeVdsZXZQRWVIMUFvQjdxWHJFdEVOMXFqSWZnNGtuR2t3b05lOG9jV3lSUDlMSHh1TjhJb2dJWWltUnVCdjd6cFg?oc=5"
     },
     {
-      "headline": "Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObEk0OGR6RTcyZ3QwOWtYazgwa2NxVE9taTk3ZWtXUUxndkFqeXYxdVRPTFZFUXlnX2M3RFJydmVNZVJ0N0JKeEFlTEdOSU15TjFSMGdWZlg1aEVpb1N5NVVlTmI2al9mcXRCMzlJZjFlNm04ckJrLV9pYmhVeHBFT3VEd21uWXNBdHUzSFctNkxGd3BIRjFwc09FOWNSNkstR2owSFpzZzg1SGZuS0g1ZmpCYUtLcGF2YkdYT0tSUEVmaUhVeC1BTGo1UDZ2VUNr?oc=5"
+      "headline": "Apple and Nvidia vie for the position as the world's biggest company: Which is the better buy now? - Fox Business",
+      "source": "Fox Business",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZGd2MGtHOUZSWlh6a1BOZzlkYkNyOURLLVl2UnhzVUdoSUxIZzdZUXNjVldyUTRFZm9ndS02Z0FBSkgtOHhPZU92OTJyUjJOcnkyTjVSVjBHdjR1YU5jWEw0SFRRN2FGdkxLRUM0c2gzOVhMZDc1NlFGamFPR0oyM1BvZ2VtZnpIeGJsMkppeFlUdEpzMTNkaW5iQUk0TUN1al9ydjlJSDbSAa4BQVVfeXFMTWR2MzVtbk1yTGxob2RNVjhreEpEaFE2c280NmkxaDRMejdZVGV4OW0tWVRPN1VtMWFiX2dQLUxjY3hIOUJ3M1F1MGpWcGJadkZLb0ljNFVNNjRGcVppdUhXcTRnYU1NNlJCQUItNzNPX3F4T3Y5bzMzOFRWQ3Z5WEFlczk2Yk92QjVob0h0YnBVcFVQTm9XemljVlFGMWk5N2toc3hvZnN4T3RTeE5R?oc=5"
     }
   ],
   "insight": "Tracking Nvidia (NVDA)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:45.377Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:24.007Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    262.1099853515625,
     264.0899963378906,
     265.30999755859375,
     261.6400146484375,
@@ -24,10 +23,10 @@
     271.4100036621094,
     282.9700012207031,
     276.04998779296875,
-    271.69000244140625
+    271.69000244140625,
+    271.989990234375
   ],
   "6m": [
-    253.72999572753906,
     255.1199951171875,
     254.5399932861328,
     256.760009765625,
@@ -158,10 +157,10 @@
     271.4100036621094,
     282.9700012207031,
     276.04998779296875,
-    271.69000244140625
+    271.69000244140625,
+    271.989990234375
   ],
   "1y": [
-    254.63999938964844,
     260.1300048828125,
     263.239990234375,
     261.8299865722656,
@@ -411,12 +410,19 @@
     271.4100036621094,
     282.9700012207031,
     276.04998779296875,
-    271.69000244140625
+    271.69000244140625,
+    271.989990234375
   ],
-  "lastClose": 271.69000244140625,
-  "oneYearReturn": 6.695728515796927,
+  "lastClose": 271.989990234375,
+  "oneYearReturn": 4.559253115343374,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Will Illinois Tool Works (ITW) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVlGR2NVSWhMMUJrNDFoYmRXQTNWWUpWQzR2SjNkYmQ3c0t1X3Z2Z3VuMTZ4M3pqUkxRMS03Y1FUYnRhNk5qZVdIclNSVjd6ZHNwTzh1SUtlaXVZaXJrVG9MVFRndGd0ak1kbE9iVV91dnlFTm1ScTBCWmNiaWUxRnV1ZDUyM0daNTRVMUhvX0hRbFFDb1BZcg?oc=5"
+    },
     {
       "headline": "Illinois Tool Works: Growth Continues, But I'd Hesitate To Buy Here - Seeking Alpha",
       "source": "Seeking Alpha",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGRkaXJSN2NwVFpzNXNpYkRtTWc0NW1OMWo5VG9wTHowWmlSYzJRLXdSVWxYT05Pd2pONDBmdkJjSnBLaV9KeERBSTZlZ3NLcEZVVzgyZW5leHRUOFUtSGs0TnRiQTBuTGNSVG9Pd21qNHdLTVpoQU9wakl1NDBnU0pPSGJsRzMzM2wtc21fT0paM2hrcXFUaWVmbTB6R3JKTy1qZ2ZiZC0?oc=5"
     },
     {
-      "headline": "Miller adds 600-amp welders for more demanding applications - Stock Titan",
-      "source": "Stock Titan",
+      "headline": "Illinois Tool Works Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVE4ZFVSNF94TFlHU1pQSWlZOHB2ZFFwV0w4NzhjOXg0SFlYSWt6MXBEX2V2TW5nbUxpbENTbTJGMnFicDdmNzZSLVkzNGd2NFk2UVNMMTV4dktsTzBVYkhjZlNreVRhQVdMQXpfM2tRQWsyN1JHalFwWGkxejlCa0xnUmZmbUh4YTl5VWFsUUdfdzF4eWRKSHplUXZhVUppMlpOcVRSaVFYLUFqb1p3eWRNVUVWT1ZITngzbk9n?oc=5"
-    },
-    {
-      "headline": "Illinois Tool Works (ITW) Files Debt Shelf, Is The Stock Already Fully Valued? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd1dMR3pyZ0RKQ2ZMU3NUdDVMNVpsbktHWEFmTlEyRW1zWEhHTDRWQ2tzZ19XaTF4UllZNXA0SHVmWTB3dFpUZmcwMUFaSGRwX2dHaVl0WW54V0NUdGY3OFhSU2N0bE9wbnkxWndPZ2FlRnF6NXVmV0FEdkxlcVYxOU5iQ0NvUlBQdEhOX1h6eFVONEVYUmkxcEd3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU1FuUUdMUjFLM3M1emF3Q295TEI5d19RbXJHQmF2cUtPQzFCcmVqLUNLTlpBcF9lb2FtLVI2dGVJWnl6RlF1TnFKNWR5RWlDSXRyQmxtMC1tdS1MOEFWVHp4aWcwMWFNdFEzT1lfRXd6SE9nUjdwU3NXcHZoSnc0YldDTjZ6bTBZbXhvenhCSV9vUFYteUVsV3AzRXkzRUFuSl9QNHlRU1BIU3VTelFfSUNPTDVITlNZWFRzNVRrTzhTWHpBTi1ZOGZ5M3lJWXBzSmtBVGhR?oc=5"
     }
   ],
   "insight": "Tracking Illinois Tool Works (ITW)."

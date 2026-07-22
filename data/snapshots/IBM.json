@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:43.755Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:22.339Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    262.3500061035156,
     249.10000610351562,
     252.22000122070312,
     264.94000244140625,
@@ -24,10 +23,10 @@
     211.1999969482422,
     219.0500030517578,
     212.6699981689453,
-    213
+    213,
+    210.5
   ],
   "6m": [
-    302.7200012207031,
     304.2200012207031,
     312.17999267578125,
     303.1600036621094,
@@ -158,10 +157,10 @@
     211.1999969482422,
     219.0500030517578,
     212.6699981689453,
-    213
+    213,
+    210.5
   ],
   "1y": [
-    284.7099914550781,
     281.9599914550781,
     282.010009765625,
     260.510009765625,
@@ -411,12 +410,19 @@
     211.1999969482422,
     219.0500030517578,
     212.6699981689453,
-    213
+    213,
+    210.5
   ],
-  "lastClose": 213,
-  "oneYearReturn": -25.187030173611806,
+  "lastClose": 210.5,
+  "oneYearReturn": -25.344018165947187,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "After IBM's epic stock crash, Wall Street chatter is Big Blue should break up - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeXlNUFVlM2p3QVVQUkRuRzRBc3cxRmo0VTBwNDd3TFdYVnBTOHFhMGN1Umg4c1NuaFI3ZmdBcUJSWmNxTjNFdHVNTVRpOVc3OGdRN2stNjJDamdRUDlQTEJjUnljbkZLTzlhVmNEcGI5UVNvUDFVSXJsWGlVZTh4Ym9fcXRpQmVLQWo1eENaaWk2QWRWQ3c3REtQZmExVXVxcEJMdDQ2X054NHFaajZhZmctbjlWWGJCWlBVaW5uV3lFOW1wSEx5NDc3WVRsSlRSbi1hU3Z3?oc=5"
+    },
     {
       "headline": "IBM Stock: Analysts Cut Targets After Company's Surprise Profit Warning - Investor's Business Daily",
       "source": "Investor's Business Daily",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55YzFlWllaZnFiMFpyRWVzalMzVkEtaEMxdXh6VHRwRlNBS185WENRa3ZVVllSRGRRTUd0TFFTT0FwYkhVZHRFbVdBbXIzSHc5MjAwQWVBam5BT3lpNzRubHdRSUs2LU9BbkpRX0FrazlOT0o0T3h2UU9HS0I?oc=5"
     },
     {
-      "headline": "Why IBM Stock Crashed 25% Even as AI Spending Exploded - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUG5yYkRnSi0wVEo1bDg3RTJmR0J0NEx5NnpHLTVQN1M2U3dQWmpDc3pYT1RGREFxQloyaW5LUElMeF85dkNESzJ4WVh4UWw2UWNKMzhWVnVqak5UeDRwZlR4UHREUlRUODc5VUJndmNSVmtLR3dMVmRyTW9LQjA2VkJjMU9ocE5qUHNNazNpZWYwMVE?oc=5"
-    },
-    {
-      "headline": "IBM's AI outlook after post-earnings stock decline - Fox Business",
-      "source": "Fox Business",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SYmVBdVBzamJaWDkyZHNaOUZ5dFdhb3RSWGtkSUZzMzZQQ3hjbWYwaVdQaWd4YjhSU3Zkdmo4ZG5QY21OUWFBWDR0THU3OUZGWUkySXlDd2VQTUE?oc=5"
+      "headline": "Is IBM Stock in Trouble? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yUnFTakJqeE1iUzlyNXVFeXZ0enI3cW1EaHlCSmxWTDRpZFFOUFN2R25aYlJUS1pvQ1IzdFlTZkI0QUFlM3lBckU2V1o3em9lS2FWdERnb3U2VUZ4YXNpbUNfaUs2NFp3SUptOG1yMm1nVFZX?oc=5"
     }
   ],
   "insight": "Tracking IBM (IBM)."

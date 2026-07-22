@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:25.378Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:05.634Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    42.630001068115234,
     42.81999969482422,
     43.119998931884766,
     43.5,
@@ -24,10 +23,10 @@
     42.720001220703125,
     43.34000015258789,
     43.130001068115234,
-    42.9900016784668
+    42.9900016784668,
+    42.720001220703125
   ],
   "6m": [
-    38,
     37.88999938964844,
     37.880001068115234,
     38.599998474121094,
@@ -158,10 +157,10 @@
     42.720001220703125,
     43.34000015258789,
     43.130001068115234,
-    42.9900016784668
+    42.9900016784668,
+    42.720001220703125
   ],
   "1y": [
-    37.41999816894531,
     37.7599983215332,
     37.119998931884766,
     37.84000015258789,
@@ -411,18 +410,13 @@
     42.720001220703125,
     43.34000015258789,
     43.130001068115234,
-    42.9900016784668
+    42.9900016784668,
+    42.720001220703125
   ],
-  "lastClose": 42.9900016784668,
-  "oneYearReturn": 14.885098295231893,
+  "lastClose": 42.720001220703125,
+  "oneYearReturn": 13.13560148211502,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "CenterPoint Energy Declares Regular Common Stock Dividend of $0.2400 - AOL.com",
-      "source": "AOL.com",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnBKS2tCOGRacDVoVUYyOXMyYVBiaTJ2WWFROWtHNWhUNFo1Mk5vaFdwRmtkbzRxb3FhSG5UMTYyWk0xczJtV0VkS2N5RURnSVpobEFEdEd1RTduS1poY1RJM1RmTXdkVWNGSjQ4U1RSTmlfQWhSdjBTS1l5dTRVXzBWQzJPVVZrdG9QSklTOA?oc=5"
-    },
     {
       "headline": "CenterPoint Energy Declares Regular Common Stock Dividend of $0.2400 - PR Newswire",
       "source": "PR Newswire",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGFQUkNFemtrcUFwS3FwdDRJM29FNE9NODd3R0lFdkQ5WUpKaTVDbVRpcmZNZGtMU2ZkcTdwbkNRdmRFTDY5RjVqc0xtd2V5TlgxV1I0bnRlbHhuSmZXNWVxVTdPMFpRRFZzeVdweVBhbFp4Y3RYcUQ4ZHdZbmJuQlNyNnExZENjSDAtUk9Pbm9XREZRdFlHNUd3NVV6ek9lWVZfVE9rbGtNQXRBZVpjcG1oRmRMeE52NnEwbHB5MFBZUQ?oc=5"
     },
     {
-      "headline": "Kestra Advisory Services LLC Has $2.66 Million Stock Position in CenterPoint Energy, Inc. $CNP - MarketBeat",
+      "headline": "CenterPoint Energy (CNP) Expected to Post Earnings on Tuesday - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeFJxei1MVHliSVR5YXhLMHFjWS1pamNSa2FFOFpJS1JaRng1bGQ3bi1wdUcydkszQ3N6SXg4VHVCV1J2M3dKX0tJRGM5TTBnRy00eExnV0thV0VWdDlfLVZvRVJtT2xlcEdJNjc2UWk2TXludEg4dkRTWlVsUW0xUnplZ0pQQjhDUHhyaDlrSWQzMmpQd0NzWjFwRFQ1Sm5CZF9kaFBpal9ZR0x6V1oyYWJxN3Q2WWx2RVRTVDA4ZEIwMXJqdV9oQVR3SWZNWWJ2NTFZWVlGdzJNZXVWWVVvVFp1Snk?oc=5"
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEk0RmhmUncxb3JQTzBlVUo4RnVzQTZiQ20xOF9uZFZEV2wxSEU1MGRXcjBxVTlnbngtOElldlJGeUI0cVI2bXVlZjRDWWRacUNPaDRCWk5FeFhuUGZ0WHdtOHpITEEtTG1aWG1Va2ZHd3UwOUhGOTM2Mk45dEo0UUpJdGhONVl5N0hiNEttdWNIaFAwRHJkNDhnVlZvb3pCejg1OFBhbndzakE0VjJUbUttZw?oc=5"
+    },
+    {
+      "headline": "CenterPoint Energy stock trades steady as regulated earnings and Houston growth support valuation - Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORWRhX0RnSVItYzMzTnEwWUJlV1hJV2dvMG9FZ3hucFJ5TXlmV1YxOFhSclNQS1B4M2pkSVdsZUdMaGg3eXJXXzYtOXowVE5kbDFRWkFrdEhQeTFSVlU4YnZWamdRaHUyRUZidExrU0dmMXhNT0huMTY2b0dNZm9KOFBxOEw0WUZfQ25TSWhpNGdPTWZZbHdCaDNJekZTVVE0NzMtX2hSSUpydzQ3SVFJNktaaUdoVDhjUjliZUFRZDRkSEp2UmV4RTlJVQ?oc=5"
     }
   ],
   "insight": "Tracking CenterPoint Energy (CNP)."

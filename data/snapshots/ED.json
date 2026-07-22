@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:32.408Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:12.161Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    107.04000091552734,
     106.36000061035156,
     106.91999816894531,
     108.75,
@@ -24,10 +23,10 @@
     110.30999755859375,
     112.38999938964844,
     112.37000274658203,
-    111.05000305175781
+    111.05000305175781,
+    109.80999755859375
   ],
   "6m": [
-    100.18000030517578,
     99.20999908447266,
     98.83000183105469,
     100.20999908447266,
@@ -158,10 +157,10 @@
     110.30999755859375,
     112.38999938964844,
     112.37000274658203,
-    111.05000305175781
+    111.05000305175781,
+    109.80999755859375
   ],
   "1y": [
-    102.06999969482422,
     103.58999633789062,
     102.55000305175781,
     102.05000305175781,
@@ -411,29 +410,30 @@
     110.30999755859375,
     112.38999938964844,
     112.37000274658203,
-    111.05000305175781
+    111.05000305175781,
+    109.80999755859375
   ],
-  "lastClose": 111.05000305175781,
-  "oneYearReturn": 8.79788712039053,
+  "lastClose": 109.80999755859375,
+  "oneYearReturn": 6.004441973735262,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "What You Need To Know Ahead of Consolidated Edison's Earnings Release - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZU1ON1NxZHpZYUVrMFZXLWVEOUZSMElqMi01S09CLWlhNkJYN3ZKa0VoU0VYdWpMM0V4TXpzVVl0Z0xDX3R2OFpUTWE3NDl5ckh2b3g5Rm5WS2hlazdZY2JNbVltODBPQmI5WDZvdVhGRm5rWFltVWJQR1Y5UllHT3hyWF9YMEtCN3o3MW9EbWJWd0xUUDhvYnhEcGJsQmNPN1FheGdLY3U?oc=5"
+    },
+    {
+      "headline": "Consolidated Edison Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZUNkY180bDdfSVl0VXBtZ1paZk41RGJJYm45cWdoRWJqQXdZeTY1MlFpZ1pSWDhtb2NsRFlWaHEzQmZLLVE1cHVGblNWSk9CbUdEaU1DbXZsamk1Z2IzTG9ibkFaT1dJMFMwbFNBTU1TbGxzOW5BdTFEdk04VE1KVjR2QWJBYzNSQ1lNRVR6bU1pWDFRcFJUTVJjZUhDaGM3anZJZjVzOE5nR1pNcXJTXzlSTTQwcTBaSGxkVDAtY05ZbDd4WE9OQ2tWbEVlY1A2RzlWYTJLSQ?oc=5"
+    },
     {
       "headline": "CON EDISON DECLARES COMMON STOCK DIVIDEND - PR Newswire",
       "source": "PR Newswire",
       "when": "2026-07-16",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd3c3RHU5THp5enJscFM3UjA2R0JyRS1XTmhIdUdwWkVRQ0ZETS1PR2lHRFhxRGtfR0RtdHFzSzRsWG5WcnRWX2d4Q21OQnpRcDJMTVFRbXMxbkJQU3RJZDhFcGl4TEVBeEFuMUQ3ZDc1QnpsenRfZlVWaEFIdVRyZ0tJaE1PT3UwSXZmREJfQkVPMk1SUHRpcnJCSUdIdw?oc=5"
-    },
-    {
-      "headline": "Con Edison (ED) Stock Looks Fairly Valued At Current Levels - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-04",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNm13TUJMQ1FGNDJWMlQxU2t4eXE0T3licTdMbVljeFl2cXEwMFVZb1A1aWxIZjcxRHJnYUdfT2JEdHpVR01tajJJNk1XNEdJRlZ5XzJndlUtMjIzRFBGN0NHTzdrRDBKRFlBS2NSb1A3T043eW0wX1pJUlpYMERrM1BvMzhHRlhWbUxsVFRQWWIxSF9L?oc=5"
-    },
-    {
-      "headline": "Consolidated Edison Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTFRfcHlLT25MX3V0ZVhWMHQxcFZRcWRvRFc5LU16ZUc1QzgxM284bHZxNThqdVB1RHpjOXBTZU5Xdll5MGYyOUpOQy1PeVo3WVdxelhLU1JDTGRENTZ1alRTdi1BdGtqMDVlRXhZbVFWRmcxaGVxWGQ3T2VCXzY4MnA5ZU1wRHAzQW14TW9COEUzUnliRXBoS2tRSDBKZlFQT2dQcHN4cWhfa290cENPRDIyUzgxcVFpSVdDS2U2RXluSnVSTmlkeFdvTjhGWGlO?oc=5"
     }
   ],
   "insight": "Tracking Consolidated Edison (ED)."

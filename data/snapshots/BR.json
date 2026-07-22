@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:21.084Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:01.527Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    139.6300048828125,
     137.60000610351562,
     136.22000122070312,
     136.3300018310547,
@@ -24,10 +23,10 @@
     147.38999938964844,
     153.05999755859375,
     149.91000366210938,
-    150.02000427246094
+    150.02000427246094,
+    145.00999450683594
   ],
   "6m": [
-    222.91000366210938,
     223.36000061035156,
     223.02000427246094,
     221.2100067138672,
@@ -158,10 +157,10 @@
     147.38999938964844,
     153.05999755859375,
     149.91000366210938,
-    150.02000427246094
+    150.02000427246094,
+    145.00999450683594
   ],
   "1y": [
-    241.72000122070312,
     244.10000610351562,
     242.63999938964844,
     252.99000549316406,
@@ -411,29 +410,30 @@
     147.38999938964844,
     153.05999755859375,
     149.91000366210938,
-    150.02000427246094
+    150.02000427246094,
+    145.00999450683594
   ],
-  "lastClose": 150.02000427246094,
-  "oneYearReturn": -37.936453948846065,
+  "lastClose": 145.00999450683594,
+  "oneYearReturn": -40.59402258050683,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Earnings Preview: What To Expect From Broadridge Financial's Report - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUXlRSmNpeGk1X0FPZnUyTEhrc2NxVGk3bE5mcG5WMGlGUEhDaFNaSEJSOUVfdFpEX0lYSzFmN2dpY2tuNjhpbkN0YWV2XzFLMC1lbHhtbzFabG1zQzg2aFFheXVQdUl4dXQ3WkxVd3VPSkJiYXJhcTJYdzZaRHhIVG1CT3JBR0FRaDhRM1pOOWRvd3N1ei1iVjkxb3FwQkd5R01NU1RneWFKT012V2tF?oc=5"
-    },
-    {
-      "headline": "Broadridge Financial Solutions Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "headline": "Broadridge Financial Solutions Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZ3VIM2JlUjN6TERxUkZ0LXU5SkVfdFdrcTY3WUZRZGFvelVIMmJwSkRzX2hBcUhRQnlLOFhkVzJnLTdFeWVrUW05VDJkRy1jcDVxS3RXcWdMSFBXT21IdUI0dElXR2NUN2VjSEFxc1Q3Nm5FcmRMWlBRcGU2T1VQOGprMU1sS3ZIYnZJMXdmLTl6aE9lYUdaZTdoVElTaDhzWUZ5amNhOXdkdFZnTHpxQjk2ZUk1VEpic1pEVlo4b3RWZUpuaEk5OURxeWFIWVNHZmpSSTRnTDZjRXZleG1hR0ZiM0NsTGs1cjVUOUd1U3RVTEo3TXlUbmtSQVk?oc=5"
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOclU0d2NHQy1Ka3RXOWNuSlNiVUNrcjJTV01NSjNwaVJDakR6emhRQ1ZCZElrMGlCWWtvZUQzVkt3eE4zUXp5Q1Z6OUhhc2pZSkdMSjVaYjgxaTA5SnJqTWZFNDZnSExvSE9yX0kxWjExSy15SlR0cEdWMWVSUzJaUm9iVHpfUnNPNW1ySHVuM3RpNTRTRUFVazh5Q0FZYzBHVDhTdXpfM0MyTloxY1M1MzM1NUxtMnR0RHRfUlJseGpWLTEwVWczQTZxWW05aV9sWGE1eU9hR2F6Smd3YXYtNGY4bzJ0UQ?oc=5"
     },
     {
-      "headline": "Broadridge Financial Solutions (BR) Wins CRISP Upgrade Deal On A Valuation Narrative Shift - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdkhyTk94WU9zQkk0SnJ2LXptRTdlNDBPSUZnR2ZfM1E2RkFLcHdqSnNmZDBOT1AtVk1KeXRsOUFRcmJxd3hmVENodWZWbGVaTjAxX1czZS1tUzBubHd6Q3Y3cVg2VlZlOFhCMEtyeUdjeFZadG1sVTNMWXZxdXVkUDBnRDIyakJRSDVwemtGNmlRVEo4WHR0Y2s2V0NEQnhMQmllcjJNWHJscFNPQ28yanpWTnhhRUxTRTBRQko0SEhDWDhmTEUtQjktcXJCWXBoMGxDV1pjYUtBdFlpdUhkRFF4VVh3UjV6UVNwRNIB8gFBVV95cUxPZTdzbW5laENRRFUwRWtqMUpOWjBWdVlPeFlhNnZKOVY5SnJ6NnUtLWpKcHdkV3Q4OF9JdVBOSDQ1XzRYeGs4MmxnZUJCemk1QnpwbDZ6cHQxamNQci1CWDlGUWtDci1rVUUwak1Oc0M0dlRDMTFrbEl6OWF6bkFSRFlDMWFoZTNZVWZGbTRFN0NiRW9PcG5ydkF4WVd2cE1RNV91cWsyWjdBWHgyQ2pyei13NkZhTFNKTUZjYlRabGdscndWMzRIcV9vT1E2a290c043QnlvYUhBVllJSUI3RHhfZTJ2eDRZS2NCcXlMVmFOdw?oc=5"
+      "headline": "Broadridge Financial Solutions Inc (BR) Stock Down 3.3% -- Now Undervalued? GF Score: 81/100 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXoyU2hOTENkZ3o0ZUhNbXVVTWNPU1NDT2RtZGlSUERhMUpFcTZxbFhSYlJRMDJBaEg0ZUUxLXcwTUh3VjNMY3dfUWY4MFBkWG9HeVBfc1hwMEM2Tkh3OVpSMWlFNUozbWtmcmNGbWFGSmI2X0EtZU9QNUZVeUdSY0NiNmQzUDBpcXktRlMxdmZxM2RnRFY1ckVjaHFKUGZvLW9STUlFTTNYSEJWWjQwX3JrWjJKMTJOSEktMHRR?oc=5"
+    },
+    {
+      "headline": "Broadridge Schedules Webcast and Conference Call to Review Fourth Quarter and Fiscal Year 2026 Results on August 4, 2026 - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0loLVJBRUN6a0c0VWZ6azU0Q3FSV0xxX0UyblJ1WDd6QWNFNTZ2TzR5cmh3cFZ6YjhHbkNzYW1MaFI1bEwzYy1heHdmOGtGWVdGdE9RR0EtR0hGMVpuVVhpUUlER201RUVuUUxPNlRsRV9zc0czTWNCMjd5ektYZlVBejg3QTdzU2pPVFhlR0k4MEV2TDNLVEJmdXFPdXRUU0RBX1FTY1Fna3pzMEE?oc=5"
     }
   ],
   "insight": "Tracking Broadridge Financial Solutions (BR)."

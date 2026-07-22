@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:18.287Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:46:59.289Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    159.5500030517578,
     158.67999267578125,
     157.47999572753906,
     157.86000061035156,
@@ -24,10 +23,10 @@
     156.7899932861328,
     163.05999755859375,
     160.41000366210938,
-    158.36000061035156
+    158.36000061035156,
+    155.75
   ],
   "6m": [
-    186.02000427246094,
     188.39999389648438,
     187.97000122070312,
     187.72999572753906,
@@ -158,10 +157,10 @@
     156.7899932861328,
     163.05999755859375,
     160.41000366210938,
-    158.36000061035156
+    158.36000061035156,
+    155.75
   ],
   "1y": [
-    179.00999450683594,
     181.6699981689453,
     179.66000366210938,
     178.4499969482422,
@@ -411,12 +410,19 @@
     156.7899932861328,
     163.05999755859375,
     160.41000366210938,
-    158.36000061035156
+    158.36000061035156,
+    155.75
   ],
-  "lastClose": 158.36000061035156,
-  "oneYearReturn": -11.53566534280621,
+  "lastClose": 155.75,
+  "oneYearReturn": -14.2676272528174,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Avery Dennison Corp. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemltRkhWd0t1aDlkQWhZTHYxRmdDX2hnWjJmMmt1eFhsWEhQN3ZpYi1DLURTcWVnWFY4VXVRQ3dmbGxrZ003OXJhYW1PeWF5NmlmdTl3elAwOE1BQzlVQTEyX0J6SW5QVk1qVEZMWnNYWkVtSzlTeUowaTV1RURBUVNxYkIyZ3NRemVXUjJ2Zm1rQm1hQTlmc3JhWkdmbjFueGVhbmlxa2xhMGthRktFT21ldHVxRjVob2oxNEVNWGtrRHFWUE41clVuNEJJMXRIVFE?oc=5"
+    },
     {
       "headline": "Avery Dennison (AVY): Buy, Sell, or Hold Post Q1 Earnings? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQXBCNjBqb3dTOVlYYjdGdjRuaUlLNEhVRkZkTE9ucjc0bTE1RW5VR1FCLVRfLTJYakNOMFhfVmZpd1BtcF92Y3hXQjhSbEZsbElYYU16OXBBRG1sTmJwQ1JZUUtDRFJwRUhrdjJPYmNkRlZZRjlhR1c2andRZnNwMndSa3NyTnFfTkdmSU1uSVVsanNMdjN3?oc=5"
     },
     {
-      "headline": "Avery Dennison Corp. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQzRVai11NjhqaW8xZTFMN1BpcFJpS3FTbVVkc19ic0JsTDhzME1NSFdKYnRrQVdSdUJscE92d2VGemhuWTNlcmg5eVBBTEl0eWROZWZpWjBXMU9GMWFuSHZtSXVRQWtQTno2YVVrLTVaeDdnM0w2SHJUSW5nYVJmc2dfSjJIYW9SSE9HWklUY1Y4bVVOdmVYelhQZjE5SUNBY1hZZ2xteUVaR3JVdkpBSVFzMTQ5LVhEcUl0ck0xdndaV1FHV3hMZ3JDZkdVcmtfWkNsRURpZVdUZlRjYlNYT1BJTHNYenJBbEE?oc=5"
-    },
-    {
-      "headline": "Avery Dennison stock trades steady as recent earnings highlight margin resilience - Ad-hoc-news.de",
+      "headline": "Avery Dennison stock trades steady as label demand and margins support valuation - Ad-hoc-news.de",
       "source": "Ad-hoc-news.de",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYVNUTDZOWk5KOWpiM1E0QlRKbGVTamM0dnZTa0tuNWxtcjRpY1B0d0FtSmQyei1CSlR1Rk1taVkxS09iQmc3aDgwbURFQTZfNDdMMEdtOEdLaDBKQ1JRaEM5SGRMVmNJRUV5b2V6dDViY0ZBV0V3dzQ2TGZUQ3ZfVnBHeGZzbElnNDhxQkpudU1ZdV9tUEJBY1B3ZDU3cDNXaE5tQ0thbURUN21qLUtUemJCamxoTzUzNHVMTFpRZnJJendxbUxLaQ?oc=5"
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWXBfa2ZRWXU1Q3BkTWNOZ0Z1NEN1ZjBKakFtX2k3SmJWbWVsY1loTDZ4ZXRMYzVNMGtTZk1NVWphRUk5SjNVSHBsUFdRYTUxMmZKR3F1dVhkazVyczM0aFBOTVdiWmlDcEoxS1VxVjVqSmNiai1FZGtVTmJoREJhaVJaT0dERDhJdWlBd2NnMWluR01LTUZVNEtma2ZHMy12dTY4b3FsS09RRF9wRUxqeThtemRzVHd1eUZFTzZ4LVZSVkNzMDJhNQ?oc=5"
     }
   ],
   "insight": "Tracking Avery Dennison (AVY)."

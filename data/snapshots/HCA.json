@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:41.229Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:20.252Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    388.1600036621094,
     375.1700134277344,
     376.989990234375,
     386.9200134277344,
@@ -24,10 +23,10 @@
     378.8500061035156,
     385.739990234375,
     371.17999267578125,
-    370.4200134277344
+    370.4200134277344,
+    373.0899963378906
   ],
   "6m": [
-    479.0199890136719,
     472.07000732421875,
     474.32000732421875,
     479.32000732421875,
@@ -158,10 +157,10 @@
     378.8500061035156,
     385.739990234375,
     371.17999267578125,
-    370.4200134277344
+    370.4200134277344,
+    373.0899963378906
   ],
   "1y": [
-    364.54998779296875,
     350.9700012207031,
     353.2699890136719,
     341.4800109863281,
@@ -411,18 +410,13 @@
     378.8500061035156,
     385.739990234375,
     371.17999267578125,
-    370.4200134277344
+    370.4200134277344,
+    373.0899963378906
   ],
-  "lastClose": 370.4200134277344,
-  "oneYearReturn": 1.610211447352802,
+  "lastClose": 373.0899963378906,
+  "oneYearReturn": 6.302531566872467,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Michael Burry Loads Up On HCA Despite 23% YTD Fall — Calls Hospital Operator An ‘Insanely Efficient Compounder' - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdi1NelFYTGMxbEtzejZ2cV9nQ2FNamYyZ2VBTGgwdzlkUndXSGlhVUpwRGxkcHphWWVRU2IweTMyRDlRUWFMc3ViVUZPTEt1OTdXOGxlbEEySmpyQy00NEhGNkJweUpCNEJFTlo2RmRZanctTjFndE9aRzd0MlhxT3FDa1l3ZGEzQUJJUFNTNkY5NXR5ZUVqM04tRE9zVUVfZXF3ZzdmREw2YlRrSllqYUVDTkZfbG9DLUs3YmgxRnJtZW5XbTI4?oc=5"
-    },
     {
       "headline": "HCA Healthcare Shares Drop After Quarterly Earnings Squeezed by Payer Mix Shifts - WSJ",
       "source": "WSJ",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUVscVRqRnFIM1JkSE9NY2V4cTNEQkFXSGV3aC04ZWJ6S19KTVVsYmw1X29DZDV0NXozemJBbVVXX1pxVjNNZGdXaUttVmEyTnRVU2hiaWwwYjB0TnNkVGZkMnlPM3RZUVJ2WmNQeTJWVGhjZzNldnBUeXVEa2VCOGdHbnJjQXhoUnNjTnFDUzlEM2lfQ0s4bFlqLWctX01BWThGd0FlZzF2bWRnSUtkZ21ud0FDcGVUbWNodXd6d3BKU19pWHc?oc=5"
     },
     {
-      "headline": "HCA Healthcare (HCA) Stock Still Trades At A Discount Despite A 52% Return - Yahoo Finance",
+      "headline": "Implied Volatility Surging for American Healthcare REIT Stock Options - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWW1UM1dXTkU1MTlTcmxDMUhHU3JGT2JyUXJKQnFiN1FPSHkxdFYyOWh0MUVBNHh0RWNYdTd6U2tsamtlVzdCTTFQdm43eE9MWGlVSXU4U1NzN19zNWJGX3dQZjdIWF96eUFzWm1QaWVYZUNuSW1JcWJMb2NpMG1GaWdWYUNCZUtaYlZyV1VRdjJHcmJzLVNoQWlTNA?oc=5"
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUsyU3dOM3ViS2NyZTRwMFYwVkFNeHBTNWptM213ZWVfd2hDNW5yNUlNT3VqVU15c0lGaGFiNWwzazZMQUI5QWlEcVp6V3VHQ2Z6SU9IaHVCUy12MHNkak5OYWtQbVdMRHQ0VzZMNVFoOWpSVWZ3dHpuY0FCT0lYVloyVXVyR1VuVW9ITHVWdnc3T0FVRGdhZThIb2JkblBvN01pdjlVRDNBS2gtRUIzUjlR?oc=5"
+    },
+    {
+      "headline": "HCA Healthcare Stock Falls as Uninsured Patients and Declining Surgeries Dent Outlook - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQjZoY0EzR0I5R1dKVVc4ZzVSaW9tT09VN2hvSElCRW1LSWdoYmxaOTBERlQ4R1VqQy1zWEhEX2ZNSUZlVkR0b3JfM3ZYRVpmeXYtNkJHcDFOMy1IQVFXUFN5ZG9SQXF4cG9MZFZ5WnJ5WHlkeERlVmFnZ1FoQThiTVpEU2dHc2c3OW9tSWxYdw?oc=5"
     }
   ],
   "insight": "Tracking HCA Healthcare (HCA)."

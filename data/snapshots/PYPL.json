@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:56.231Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:33.978Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    42.08000183105469,
     42.5099983215332,
     42.34000015258789,
     41.70000076293945,
@@ -24,10 +23,10 @@
     55.52000045776367,
     56.72999954223633,
     56.560001373291016,
-    56.81999969482422
+    56.81999969482422,
+    55.849998474121094
   ],
   "6m": [
-    58.27000045776367,
     57.65999984741211,
     57.290000915527344,
     56.560001373291016,
@@ -158,10 +157,10 @@
     55.52000045776367,
     56.72999954223633,
     56.560001373291016,
-    56.81999969482422
+    56.81999969482422,
+    55.849998474121094
   ],
   "1y": [
-    74.81999969482422,
     76,
     76.66000366210938,
     77.81999969482422,
@@ -411,12 +410,19 @@
     55.52000045776367,
     56.72999954223633,
     56.560001373291016,
-    56.81999969482422
+    56.81999969482422,
+    55.849998474121094
   ],
-  "lastClose": 56.81999969482422,
-  "oneYearReturn": -24.05773867070087,
+  "lastClose": 55.849998474121094,
+  "oneYearReturn": -26.513159902472243,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "PayPal Says a $53 Billion Takeover Offer from Stripe Undervalues It. How to Play PYPL Stock Here. - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU28wTk1FYmVzREVyeVRfUFNBc2xVN2F2SUN4YkU1WlJkeElUOFNXUlBia2RXT3ZheE1SVUdIcWpFZEpZNFR5V01MYXNJcU8xZTh1eFhYVTF3b3FjSlVQS2N6elJmRFU0OTU4Y192RFhDcE1ZQU1oTWRKR2lXVW5HV1BTMkdWaXJXQ3JETldZOVppV1h6MXhCSkhaTzgzQi1sNlExQXRxZWpnWkw2cWNJVk5EdkU0eHZaNWwxLWdrcU9TaDZfcWZDMFQxZW5Mdm5HM29xeQ?oc=5"
+    },
     {
       "headline": "PayPal: Is Being Bought Out What's Best for the Company Right Now? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObXo5WkxBVjFPdjNrWDA1QjZLZFhJalVpNnVQY1F4VHR6OGVHSVhncWZuOVpvNzBIaWgtLUN5UG50ZEljV1RzS0FSNlB5ajJERlBOMTFyUzFVSUNnSjdSWVhaV3oxY1hyeTRabllUZmxFVGRFYVR0NjlSZHk0TmloTzc3dXZ1Zl9LU29RNThsS2NwcHZzS1lqbXdUdw?oc=5"
     },
     {
-      "headline": "Why would Stripe want PayPal? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSV9qejJmQnFWblNSMUZWWGxwQ1VPOURLTEcwUUZhaXBNM3pURHJENWkxWXhlbHNTb1BEVUFyQU55b3V5ZU5WRHdldWZKMi1qRlF6YlJDa1Y4MFFkUlYwcGJvLUE5V25BYmY4TmJqakR3eHF1b0JqdVF3VjkxWVZRQTRtcFV4TTRNTkJweTVB?oc=5"
-    },
-    {
-      "headline": "Chip stocks drag down Nasdaq for the week; PayPal soars on Stripe takeover bid (AMD:NASDAQ) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2dNZksyQU1pNTNPN2g0WkZFUkJkS1NDUkFNV2ZjU010UGpZNWY4MThXSUotcTE5NnZxVVFNN1ZWV01mUjc1bmc2UWs3QkNHTFlHUDhkUVJIclgtZkFXcTIzSVZySm5QRDN0RkFsX2ZjaDVfTW1iLXFIM1g5dUU1cWgtSHVvVjFjaVdJdG9INV90MkxGWURpeV9STTVIUTFXYnRNb0tMaHU0czAzSk5zUFlxN1VyQQ?oc=5"
+      "headline": "PayPal Stock Heads for Best Day Ever on Takeover Offer Reports - WSJ",
+      "source": "WSJ",
+      "when": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVExxa0wyYllUTmxCT0hLM1hkSXZOcWFSdndxQ1dwMXB0ckxIc1RFLW4yLUo1Ulh2c3Q5N0J1eG9xVU9QVTdIOXZVak1VaDFXQkFNV1B5QXM5dzRMM3Z6NUFHV05IeTFWallIa3dvLVNabXNuVzJEeWtEajJvT1hzS2ZnSlc3Q1JoMzVva0pMOE1mRC1LQ3dOdW9LY0pIUG1QRUFyeGVhWkotdVd1dU5HWTNTMlZweU1NOU16X1JKLUJrYmRJUXRyb1BrWVNBRUwwdjY4MWg2S2VSVUhhcXQzQWFrTk9uVGdpamtDMHhGS2Fnbm5yV0hsMg?oc=5"
     }
   ],
   "insight": "Tracking PayPal (PYPL)."

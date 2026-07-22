@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:21.680Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:02.098Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    143.77999877929688,
     143.05999755859375,
     145.6699981689453,
     144.97000122070312,
@@ -24,10 +23,10 @@
     134.88999938964844,
     131.7100067138672,
     129.36000061035156,
-    128.72000122070312
+    128.72000122070312,
+    132.83999633789062
   ],
   "6m": [
-    120.5999984741211,
     121.31999969482422,
     117.69999694824219,
     116.30000305175781,
@@ -158,10 +157,10 @@
     134.88999938964844,
     131.7100067138672,
     129.36000061035156,
-    128.72000122070312
+    128.72000122070312,
+    132.83999633789062
   ],
   "1y": [
-    92.6500015258789,
     94,
     95.98999786376953,
     95.38999938964844,
@@ -411,12 +410,19 @@
     134.88999938964844,
     131.7100067138672,
     129.36000061035156,
-    128.72000122070312
+    128.72000122070312,
+    132.83999633789062
   ],
-  "lastClose": 128.72000122070312,
-  "oneYearReturn": 38.93146152269537,
+  "lastClose": 132.83999633789062,
+  "oneYearReturn": 41.319145040309174,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Citigroup Declares Common Stock Dividend - Business Wire",
+      "source": "Business Wire",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPek51cXo5NUhBZ3RiOGlqa0otWTRqNU5kbFg0VVltVEJwUFp0LWVhWTZ0VUR2U1g3SEJTNVNORUcyeTM3RGp0MkZSWU1PMm9uc3RlTmk1ZkRWcXV5UmFLemFfa0FpczJSWTBMaVVVeHVHLWtsRjFBUnVhME9PUFB2V1o4Ml9pcFJMdzQ1YV91cXp5cDZObHQwMjk5SGFFdw?oc=5"
+    },
     {
       "headline": "Citigroup estimates revised after bank flags higher expenses, stock tanks - Reuters",
       "source": "Reuters",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSlV6N1YyNWx5NkM1VUhFdGY1QWhMQ0pZV0lmOC1oSFlJRVd0Q1dmMnZBZHMxb3hXZ1AtbHJiRHc5bmRBZ2t5b1lwR08wSE44a1BQZ0Z6REg2Y2dWNFpMNEZQX2dGT3RUeGFRdkNObEtXTnFwVE9rUUltNkVaQlMtQV80Y0NLa0I0cS02dW1LUlBFS3p3ZHNGU3NGR1FOSURxRlZFSjNCLVJQbXZiMVlpZkhyZzJ5TW9PSmdmTnBrWVBUUU0?oc=5"
     },
     {
-      "headline": "Citi Says Magnificent Seven Tag Is Obsolete in AI Stock Winners - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmU3WWd3THQwS3I5alNsTHc1QmMzWmljS2NqalJWMTlLUFNQUnBFM25SczVBMExmdXF3SjdrVHI5bGNweWE0ZTJ0M3pBeVBWSkFVWWNOUFpqeEQ1YnVOQVBRR1VCUHVwV1plbXlwaEszV0dTME1VWGJuNzl4LTRfSjFxSzhUbVFZM0J0SHpjZkZzWUN6M09UenRGcTVSY3hMNUI4bXZnTnhGeEpSTlNIM1ZfbHQ?oc=5"
-    },
-    {
-      "headline": "Citigroup vs. Wells Fargo: Which Bank Stock Looks Attractive Post Q2 Results? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPenZiQWwwVDF0dzNvc1M3UGVGQ1I0cW9GU2F2SWxWd0hBWVBLeEpIeG5ON3BNektGc0drTUNpamp1QlYyT0hoUUx0N1NMb2EtclZLYVNqZm5tZGtnVmVkd1hsdTR5Z3NWOWdRRGRfc2c5WXYzYXhhVHp0LTAzaWZjYkNlTzF2YlAwUjhMdG9QUGMyNU11X0doU1NB?oc=5"
+      "headline": "Citigroup Has Lowered Expectations for Royal Caribbean Cruises (NYSE:RCL) Stock Price - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZDd5b0ktRWRPTXI1QUdNRUxPNjhpVndFM3NVSHRXUlRfV2tpbXZHOW1KUjNzSWtwdGNRcG9jdmpadlJvTUZHeDNYRFlyeE9BSnU3TTNvRElkeFQ4d1RqLXkxc0l4NUsxV3U4QkdLbjlCa0wxRGxhTDdFU0x5TUJDcVl4UHRWSEphaHRUQ3l2dnJmOGU1QXJLdy1PeEdNeFV4eXhZYkU1MHV2enM1N3lwOXZPMGNSVnlSNGcxd3UzbjJQRDk2WVZocXJhY3FvMWZjUmc?oc=5"
     }
   ],
   "insight": "Tracking Citigroup (C)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:37.166Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:16.400Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    48.77000045776367,
     47.86000061035156,
     47.18000030517578,
     47.29999923706055,
@@ -24,10 +23,10 @@
     50.36000061035156,
     51.720001220703125,
     50.630001068115234,
-    51.68000030517578
+    51.68000030517578,
+    50.61000061035156
   ],
   "6m": [
-    69.5,
     69.8499984741211,
     68.19999694824219,
     66.75,
@@ -158,10 +157,10 @@
     50.36000061035156,
     51.720001220703125,
     50.630001068115234,
-    51.68000030517578
+    51.68000030517578,
+    50.61000061035156
   ],
   "1y": [
-    165.4600067138672,
     165.97999572753906,
     143,
     140.0800018310547,
@@ -410,12 +409,19 @@
     50.36000061035156,
     51.720001220703125,
     50.630001068115234,
-    51.68000030517578
+    51.68000030517578,
+    50.61000061035156
   ],
-  "lastClose": 51.68000030517578,
-  "oneYearReturn": -68.76586594454399,
+  "lastClose": 50.61000061035156,
+  "oneYearReturn": -69.50837335034679,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Ex-Fiserv CEO, who now leads IRS, spied on colleagues, report says - Milwaukee Journal Sentinel",
+      "source": "Milwaukee Journal Sentinel",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLU5kN1hJVy1PQkN3S1F6ZU5pcWNiNnpVMHNLYWpoMkVzWHU2Q3IyN2wzeWxkZVIybGJNMlZkeFZoUEltVVJ0TjFnczhxTWNHMUo2ZV9DMktPelRoTXdrUDJDeVRRZUFtQ2hVQzFlbl9HT3Z4SmRhYnM1TFFyQ0pPMjlmRDcxZjNaQ2paR1psOU9JUnlkMG0xZHNnS0t5M1V5Rkt4Ymhqa0FIRk15aFgtMHJWVE0tS2IwdklGX3BaTzNrYkZOYVhGeDhodUNTQQ?oc=5"
+    },
     {
       "headline": "Why Fiserv Stock Just Popped - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkYxeEl0T3BHWG1wTHJURFJfSFZ5YWY0eGo0MklEVXZ0VmpXcjJZQ3hTTWJoNEhGSVQ0SmoxaGZhZDh4eng0bTN3NFlZYmxscG95bkMzNU1qM281bDdTdmtTR1hmUk15NlJOdEpsRkotVGRHYndHWE1iTUpvdmMyRzFseHZKWFpmQTl0M3AyUzl2dEF6LWNGdQ?oc=5"
     },
     {
-      "headline": "FISV Stock Tumbles Pre-Market — Why Are Investors Disappointed? - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmlGdlFMUjg2VnY4Vkp6X3VZenRxV0xoM29pLWJzcHJQaktwWDVBaWxtNEV4NXdUSW5hYkNmQmhiMkFyN19PZmxrQzZ0eWZRdVEzd2FVUTdIaUx1TXZPNzUtMXJXZHRubzhnb3A2cF8wZUJxLTdHMkYxZ1BRRmZSeXNvT0RaWHN0RHJzd0tIYXYxS0V5YUtUVmRVb2tleXpYSTdXMUFSdFZfejd5cjZwM1BPOA?oc=5"
-    },
-    {
-      "headline": "Fiserv (FISV) Stock May Trade At A Discount After STAR Sale Talks - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbDNBOXE3azQxMllnZWo2aWFNMkhKeTV5WjhPVGRrSWRzQmxSMWpyemtEaFhxSVYtLWdvVWVyRHZ4NDFkQkE4VGZzOFl5R3JIdWk5R2c2a3F0SmZWWmxlQnpsWDRpSUttS29PXzd5OFdBOEIyTHpYODczZ2ZmbnhUY3g0OU0wOF9NNTlJWkV3Uk9hdlVITjFqRF9lek4zbDFqTnFTOGVCaS1wMHVrQUltUDhrNDhHc1VJRkdDNlVScVpybEQtbGxZV0lTM3Q1NmxoX1NmaFdR0gHbAUFVX3lxTE5xNEkwNXgxYVMwclFFU3BFNjJWZzJydDg5SE1oQmw3TFgxYkVhazhXNU5lSEVFZVBTV2ZOdnRwZ2VtVG1nTUQ0MFlHQ0wzT0x0djlfamxubTlGRGwxUUt4RTVzT0dEX2UyVE5ac0xTdXV3V1lmZGtFemprMjBFUWo0N1hObUluWVdCdEtOT2E4dkpwZGZJcm1zbkg3RUFDVHJvSVdtV3B4WGplN25IZUlDaTgtSHhxODk4d0FDNklEeWFvdmo5b3FNRWxfbWlOdnl0Q0t3aWVsMFlKRQ?oc=5"
+      "headline": "IRS chief Frank Bisignano dismisses JPMorgan spying allegations - CNBC",
+      "source": "CNBC",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkwwbWJJTFUwb0ZPbTlZSTRCM0pLTWhfVlhYeXBVMmxFMU1QdV9MZW1LZFZJNW9tdmtVTGNiaTE2akNTYkp2U21qRmI2UHctdk1hR3Z6OXpGSHdfTmxSZHdDa0NhSkluZkdSZ1BrcTh2cHZTdXllbGRsZXUyNm8weWdkazN6OFNaU0QyWmdKb3ZLcG04Vy1ORUxvelM2REdDRHZV0gGoAUFVX3lxTE9PWGNYMThCYS1RSDlkY19JYnJBVmkwQUh5UmE1QnhvNW1DY0lZeVY1czB0MUJRMHBqN3YzLWl5ZkY2UzF2V20tVjZHUTRGUl9UUGFKTUV2ZHI4VWk2elZ5YXA5cTUxUFFUNC1MaVctY05KRnR4MGpNSmROQXh0V2VPVmMzRHc1U3lxYmVnU0hmdEJhcDdEcWl5WDhWUTBNNHpuRG5fU3BsSQ?oc=5"
     }
   ],
   "insight": "Tracking Fiserv (FISV)."

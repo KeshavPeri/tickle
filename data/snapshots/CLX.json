@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:24.498Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:04.725Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    94.97000122070312,
     95.80000305175781,
     90.5999984741211,
     92.63999938964844,
@@ -24,10 +23,10 @@
     96.94999694824219,
     98.70999908447266,
     96.31999969482422,
-    96.29000091552734
+    96.29000091552734,
+    95.69000244140625
   ],
   "6m": [
-    104.25,
     106.19000244140625,
     106.9800033569336,
     108.86000061035156,
@@ -158,10 +157,10 @@
     96.94999694824219,
     98.70999908447266,
     96.31999969482422,
-    96.29000091552734
+    96.29000091552734,
+    95.69000244140625
   ],
   "1y": [
-    126.56999969482422,
     129.77999877929688,
     131.42999267578125,
     131.4199981689453,
@@ -411,18 +410,13 @@
     96.94999694824219,
     98.70999908447266,
     96.31999969482422,
-    96.29000091552734
+    96.29000091552734,
+    95.69000244140625
   ],
-  "lastClose": 96.29000091552734,
-  "oneYearReturn": -23.923519674729924,
+  "lastClose": 95.69000244140625,
+  "oneYearReturn": -26.267527090876214,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "BNP Paribas Exane Has Lowered Expectations for Clorox (NYSE:CLX) Stock Price - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMkxhZUkyNzE5cWJCa013bHpHVDlFc0tEeWowSlpIODhQRmw3aTJQUG9yWnVOX3pSTGhRMEtLOWxVNjA2Z0ZlNmtDelMyMUZoSWdjNU9HUWNyai1IWUdyeGcxU2VNMEZoWUhkeTN3MUh4d0ZXeTFFbExab2lMdHB6bk41MkExSmVfNk9JcTV3ZUtvVk9RRHJvaFZuRlpsaWVpNGZUX3hpMmtpZmYzeDE3M1czSFpYYTRuSHhQYmxaNGVpemRpelE?oc=5"
-    },
     {
       "headline": "Clorox (CLX) Stock May Be 35% Undervalued As Earnings Near - simplywall.st",
       "source": "simplywall.st",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXNYd1VZN1ZGQ3NTWU9XLVExN1Z4T3FKWl9XYU5GZFlROTZaX2N3RXp1bHl6SF96dzNqd1J4VkZ2VFQ5NWY1VEEySmtkbl95MWJFZTQ1TFhGWHNONWo3SFdFZ0tNRzBfN3lRamhfMC1tUGxrQUFPeERjSEFrbTZ6X0N6OXFWMzJYWDBXN05seWhRaFZUcmg5LWtlNkd1LVh6N2pfUk5zVUtWaTdOd0xhR3duWVR3NzB4RWfSAb8BQVVfeXFMTnllVjNEZEhTVElHNDV0TnlBdm9lVGt1aFAwS0V2WExXNEdrdWJqc3prNTRkbVZqd2F5d2g1Q3lqRWsxNFFyNE9paXd3Tkl5RnE3Z2wwcG5vNlFZNUlfamZiYUZqTlI1ZnBWVTlRamNoaWlfNmhDTE5uRVNnSUdiSXptZ1I2alJNaWlJeHI0d3dSRTNTdzJxQXpkMk1zRWJTYWZoaG1USE93XzlnTkdvc1l0eEV3ZVNFcnF5RDBLNnc?oc=5"
     },
     {
-      "headline": "Clorox (CLX) Stock Sees Fair Value Cut As Analysts Lower Targets - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUFvaUh4TmpVMjZ4d1NWQ3RRMEpncmprZjUzSU9xLXRub3VNWWFVNjJ3RmJEM2dtU3F0MlhEbkpvTlgwem8tRDByUEZhajI4MG5wM2l4LVY0UW42aFpTYk56Y1ZHcVdTZmY0b3BGRjRlRjhRSThNZW1VWU9UXzRoOVd2ZWxRYjhTUGQ4RGktdmJSVUp6T3c?oc=5"
+      "headline": "Hsbc Holdings PLC Sells 24,221 Shares of The Clorox Company $CLX - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbkp5aS1tR1BrQmg1RUdoblg3V2ZFelo0YUE2cU5ZM2JUNGJ1M2l5Q2RZeENOSDRvd3h3cXFnTDdyNDlaZVJJaHFjWVJjX0s1akR3WnJUYmdUNnVUUDc3cnRualZmLWplcjg0TlZUbVd3bFNUVUdzNzQ2NWxKVDZTQ01CVHlycHlqa3ZJNVJGQnZyWFVHM1NEdXhNUG82RTljcWoxb2Q3VGJPZHJmSXkxanFPTEJlUU9QN3FkNUNvVTM?oc=5"
+    },
+    {
+      "headline": "Clorox (CLX) Stock Forum and Discussion - Moomoo",
+      "source": "Moomoo",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPakhGSVQ4Q2RkMlN2cnR1bUlrbGlleGgtTWNEMUNWdHZSdXpXVFlZLVpfWmZsTloxS0dsNmNpOTU1UUJFRFFBSzU1NjBPTjlENjVWMzZhYXh0ZUt0d1RlV1J1dWZQUUtyU3J5MzRRak91b3RDZkhJWElqWmZoWHg5TDJfSWxIMkdYT1FpUFNxc19JdnBYNi1HZEwyVnZNNlVrcjBRbDZNbFdXcUd6bm81LUZxV2xfLVNHR2oybzI2cWhUQnNXeWN0UFU1LURQMUJGbWRrYXkxOHNETjR5TWZBelBnckR2dFo2NDBTRlk4TWhiMC11bVk3LVBieXhrSjFnSS1kbno5WDJkb0xrcy1kRVdfOWtrUU51VVplVGdSc1VQOTNYSGphM05Ya3RDYjczNzZiaS1kZHg?oc=5"
     }
   ],
   "insight": "Tracking Clorox (CLX)."

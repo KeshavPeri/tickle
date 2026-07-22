@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:21.402Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:02.137Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    125.01000213623047,
     123.79000091552734,
     123.26000213623047,
     120.06999969482422,
@@ -24,10 +23,10 @@
     127.05000305175781,
     128.97000122070312,
     126.91000366210938,
-    123.61000061035156
+    123.61000061035156,
+    124.1500015258789
   ],
   "6m": [
-    155.3000030517578,
     157.6199951171875,
     156.5800018310547,
     155.25,
@@ -158,10 +157,10 @@
     127.05000305175781,
     128.97000122070312,
     126.91000366210938,
-    123.61000061035156
+    123.61000061035156,
+    124.1500015258789
   ],
   "1y": [
-    166.69000244140625,
     169.3800048828125,
     171.9600067138672,
     178.11000061035156,
@@ -411,12 +410,19 @@
     127.05000305175781,
     128.97000122070312,
     126.91000366210938,
-    123.61000061035156
+    123.61000061035156,
+    124.1500015258789
   ],
-  "lastClose": 123.61000061035156,
-  "oneYearReturn": -25.84438250650208,
+  "lastClose": 124.1500015258789,
+  "oneYearReturn": -26.70327196425959,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "KBC Group NV Has $31.50 Million Stock Position in Blackstone Inc. $BX - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmdkR3JPZVRIczFCRVBVMm14Tzd5QlRkejB5SERELWstQmZUekhnVkVqb1V2cml4YVhJd09qOWFlWDhBQUctRzJYbTJRVWtjWUZia1g3MHNIZ0Nfa3Q3N01tRlhSVEx2cy0xZjVfQVZ0UTBseTdjQm9GT2ttYU44M1ZHdklLS3pyamVWZGlzWFVob3RiVmt2TzVzOUFNVFUyTkFIZW5FZUdiZDBoTEhlX0NYOVRlZ0dBenREM1dkN0hrTzlv?oc=5"
+    },
     {
       "headline": "Is Blackstone Inc. (BX) One of the Best Dividend Stocks to Invest in According to Jim Simons’ Renaissance Technologies? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSlptZ3RGcjMtWnJ0VGY2bWJxVzlOUTNrSVFDVVZWT1lKeVVGaTdRdmp2S0c0UXdrVlVzaHZjZS1oblloUkR0SjlqUWtWZ2cyQXRBcE91ZUI1WklkcnFEOWJnZ0tVOHVkampOeTRWX0stTDdVaU8zeW1jVEQwbVo3aVgtZkJkLVYyN1N4Q0duTExSbWxhdVE?oc=5"
     },
     {
-      "headline": "Blackstone's Q2 Earnings Coming Up: What's in Store for BX? - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGFMMC14enh3bmlvQ0pydDNjOVZReTR6QWl5cmU5dFFSSVc5dm9DVmlMN0FzQ1VZYkIxZS1MQy1fUm4wbXNnVUxTX0ZkYW04WVBrZzMwSldMa3hmNERNcjd4WG5HSjNYdGEzWmxYTk00WktIUWt5Q3M4T2ozRnljek15alNHN0RkeFhCSzRyT2dNM2w5UzZWdldlMWZTazZyUzZ3Y3E4LVlETUV3TzJOWDg5WQ?oc=5"
-    },
-    {
-      "headline": "Sanctuary Advisors LLC Raises Stock Position in Blackstone Inc. $BX - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWmhoNTNGZFI2MDZNQi1vVVNnejh1NURETkVwN29wNDBXTjhJeWJJRnFiaThvWEZVREs5b2E3ZFlsNlZ5VXpFSU5ad1M5SzVQb3RYS0x1YzFJVDkxNGgyYlZYeXFfVGVpMlZTT0ZFZTd2YVlwNW5kNmt2VDFRX0hGc1pqcEV5SVdkNVRLZ1pUQmlRVG1ORFFFM3lpakN1SDhPR2hoM040VTJMUTQ1RVpHWWF6dDdIZmIwR2o2V2l6UjdCS3dJ?oc=5"
+      "headline": "Blackstone Digital Infrastructure Trust will report Q2 results Aug. 4 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMS1YSjRGUTFweUtrSWJJcmZhX19fMkVsRzRUWVU5NUxwSmdYWkJVbHFWOTZMSExhU2ZGeGpteTgxVUQ1UUJWZGxBZHc1Y1VzdDAzSDJSX19DbzI3Ym1PYkNYVEw1VUdVbWNOTW5wWHVESlRJdDgyTzV0bHVqY21vczJDT3dmZlpwa24xREVUWnB0aURNY3dhUkM1ZnV3LWZJSkdwRjFlOHdmUUw2dmp1Q091YWNSMUV4?oc=5"
     }
   ],
   "insight": "Tracking Blackstone Inc. (BX)."

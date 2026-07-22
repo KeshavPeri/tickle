@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:24.561Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:05.016Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    252.5399932861328,
     246.3800048828125,
     245.1999969482422,
     242.25999450683594,
@@ -24,10 +23,10 @@
     245.17999267578125,
     246.27000427246094,
     245.0500030517578,
-    245.11000061035156
+    245.11000061035156,
+    237.3800048828125
   ],
   "6m": [
-    266.6400146484375,
     262.45001220703125,
     264.9800109863281,
     268.45001220703125,
@@ -158,10 +157,10 @@
     245.17999267578125,
     246.27000427246094,
     245.0500030517578,
-    245.11000061035156
+    245.11000061035156,
+    237.3800048828125
   ],
   "1y": [
-    275,
     274.6400146484375,
     276.4800109863281,
     277.17999267578125,
@@ -411,29 +410,30 @@
     245.17999267578125,
     246.27000427246094,
     245.0500030517578,
-    245.11000061035156
+    245.11000061035156,
+    237.3800048828125
   ],
-  "lastClose": 245.11000061035156,
-  "oneYearReturn": -10.869090687144887,
+  "lastClose": 237.3800048828125,
+  "oneYearReturn": -13.566853982774859,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Earnings To Watch: CME Group (CME) Reports Q2 Results Tomorrow - StockStory",
-      "source": "StockStory",
+      "headline": "Earnings To Watch: CME Group (CME) Reports Q2 Results Tomorrow - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWs2NC1FaW9Td3pUSWRWTGp4UVIxa1VJeXVmN1RxLWxnT1BmVElwRGZXQzlid0VudW9hbzY4cHVsMWV2X1JybEg5MVh3UmN6YWlKUVlOekw0R0hPdnhNWnc1UnhFT1NvTmxhSzZ0SmtFWTRJQnFaWk45MjNiRV9JMVdOQ0dUWl92NFZrem1GeENBc2pNeFloZ0czX1BSMzB5OUhxQ0dScHc5Ti1zbEtPSGdXRU1SdlJE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXBQZ3F4TWhPMjRWUkZyQXBEaGp1Vks5c0NTQjNXNng3WUNvcklWbEJPNlM0WUlmUnVsWVM5OFozU3ctcDlhQmxTVjJKZXZsdEZSQ0VZVzhhbXlBZHk2V3NRb1d0V0RzdThiaHNrWEd1bDVPcmFUU0lXc3ZxM1I3Ql9vNUdvNkJwYnFNeHZPeWdTUXNSTURBUQ?oc=5"
     },
     {
-      "headline": "Gold Futures Overview - CME Group",
-      "source": "CME Group",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WeDc1RGtZSl9sWTFkQXE5RFZpdVo3VkRJT08zLU5TSUVSQWpLTUNOR3RjZEwxY2hYNUdLUzdrV2xsdDY1OTlkcGJxM1pyaUNOSndxdDNuY2N0NXROM1psWERyeVVRZko1ZGc?oc=5"
+      "headline": "CME Group Inc. Cl A stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONW9tX294akhUUm1BYmlnWEwycW91V1NlWE1BeXh0Z1N4VVFNeEh1WVAweFJDM0JQeS1SUDE0U3hEQzQxd05pdmdvTXhZM1JjdFpYcUdreTZVV0xvRzdOVHJEWW1ESVZQajZnb2RNM2J3Vm95WmcxQTAxNUs5MkY3MFNac0ltUHBQUVpVMmRfdF9sS0o1dXM2S1lTby1Cek1ZM01oVC1WOU9aNlVpcGQ5ZHVXeGJkTl9zdC1xVGNxbm1MRjZ1emlGbTV4dFVVeHJDWXBFREsyaldNMXFiYUxRNkdzNG9XcjBM?oc=5"
     },
     {
-      "headline": "CME Group (CME) Launches Treasury Link As Fair Value Narrative Stays Above The Share Price - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcVJuOTJ4STVJX0FScDZXSkx0MW5sXy1zb25GbWhLMXR1NHRndmREQm1mNl83TjhBSlEwNVdrOHNpWlA0M0ZnLXp0amJLbFBPWGQ5dDAxcjhnc2ZTN0hIa3M1bDRoNFA1RC1zcHNzMjhQaHlGdFM5VXVGdVZQbWZXcFdCRnVUb3RKQjZ2S05IYnBaRVRtbVlabnRucXYwQjY1aTlFbXpYVWRTQjI1VFkya0tzWDVlWHhsbUU5WDVBZlBJZGJyVDEtb3dnc0RBdl9tUWJzcUd2TVnSAd4BQVVfeXFMTnpDTThMcEFNOVBuUWVVbWRLQzZOZkJ3QVJkT0NmN1Rtd2JmWV9yTlBlQXB6UHNjV3YtVGV1blhhdy13ajRIcFp5a0lFRFM3Qm1kRXlVQlB4QWRONTUxU3hGUXVqYTMtdVVWLTZOWm5hdTFlYlduMEZ4Zkp2YVd0NmYzOXo3bFE3TFQwajBjUVFhRERvVFZFZjgtaURhYmdEWUNqTUd3RnUtdkhCZ1ZQMDExel9JS3ZnSEhSVXJpdUZWMnJia2xFVl9jMUhBRmNqb25ra213NVltZkxOczV3?oc=5"
+      "headline": "CME Group plans contract to track sorghum's price gap with corn - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaExwdWRKUzlMY1NkeU5jT3lySUQ4TXdfZzNhYTdma25jMWVzZnFkZ3VFUFBMZ0hYbVRXcVphMHpfUENRNHJ6ZzdyTWstajd3NkZ6cDY3YWI2aVZLQ21USWYwbVpLX0hySmpKaHFOVjZEdUxDVzhLWkxZcTVKMklSSlJTR1pzQmNGOTF0M2NoOWZzVklOUlNWT0d4Q0lrMUdSMWdDQnlTekJBQ1hVT0hwMF9UbXJRN1hoYVhuM0ZB?oc=5"
     }
   ],
   "insight": "Tracking CME Group (CME)."

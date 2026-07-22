@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:32.781Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:12.576Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    70.9000015258789,
     71.88999938964844,
     72.19999694824219,
     72.94000244140625,
@@ -24,10 +23,10 @@
     76.68000030517578,
     78.05000305175781,
     77.62999725341797,
-    77.25
+    77.25,
+    78.16999816894531
   ],
   "6m": [
-    59.61000061035156,
     60.9900016784668,
     59.9900016784668,
     60.68000030517578,
@@ -158,10 +157,10 @@
     76.68000030517578,
     78.05000305175781,
     77.62999725341797,
-    77.25
+    77.25,
+    78.16999816894531
   ],
   "1y": [
-    50.91999816894531,
     52.029998779296875,
     52.29999923706055,
     51.41999816894531,
@@ -411,29 +410,30 @@
     76.68000030517578,
     78.05000305175781,
     77.62999725341797,
-    77.25
+    77.25,
+    78.16999816894531
   ],
-  "lastClose": 77.25,
-  "oneYearReturn": 51.70856790625853,
+  "lastClose": 78.16999816894531,
+  "oneYearReturn": 50.240246017552735,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Mediolanum International Funds Ltd Sells 13,374 Shares of Edison International $EIX - MarketBeat",
+      "headline": "Is Edison International (EIX) Stock Outpacing Its Utilities Peers This Year? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeE40WFJkNE91ZUJVTnkzMTNOWWtDUUxlVlF1aFllR0RWVzE1R1ZFUnNYM1E3blo0N3R6Z2xySHZCbzFqcEotMUUtR01vcHcyYk9PQmNueG9fSFNjS0ptNjc3UmRtU09WcUpXT1dSMkkxdWtfNlp4azUtMXMtd05wNXV3WnlabWM0eFlBak1DM2VuTE5nVGVoam1Qb3dubGs4UGRoc1Q0dms?oc=5"
+    },
+    {
+      "headline": "Edison International $EIX Stock Position Raised by Convergence Investment Partners LLC - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUnl3czZ1ejlRU201R211eUlSMndabDhEN1NFZ3dpZWdGVVVKWUJDMG5CVW1BV1JEbzJfcE9CcGc1QWpMaFR6cFExNmNqVE5YR1g1Q0Y1LVBkY3Z0cUNJMGtfdGNCdHNKUHFpdGZ1dHdyM3NBdVhiTE1Kd3dfZm1nNHlsUjNsdXc4VmxsdVQ3R2RXNER4LWY5bmcyTzdSc2hYdmI0ZVVrTlBiMl9iaV9nSDB6OURJWXh4WnVqNV94SXVjMFgyaDNmcC13ZTdZRkVyRnUzQzJkckRJQQ?oc=5"
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYzJidW5xOHJSS0Q1RG0tQ2I0cEZ2OG5GQm5LQXZJdWF4SXlnbzdqTTVzbVh6Y2hET1B0WllONG1adXE5c2Q1UmlXR0duNV90a1hTcmxISUxLUzNtX0lEMmlYRzMyLXN1LWdSNTRmNGV5UjUzU2U4a2VVbld6TU9LelpEanowekM3dUZtcDg1ZS1IU0NsUTUwX0NDbzZaRGt0UGdoV1ZxWEl4QnFVejdlTk4xSWg5ZDB6M0hGcnpMN0hJLWctbFJoT25iVlZaZ1BPV0RjamcyajVpb2NuLWxV?oc=5"
     },
     {
       "headline": "Is Edison International (EIX) Undervalued After Value Stock Calls And Wildfire Recovery News? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-18",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWWdleE1qSnVuTW9ZanpLbTV2SC13WEIzdi03dmg1MnNnemNlV0c1eTFLdld3S2QyekpyeUVIaHdzdm9IRlIxWS0tVWFITlJLOFRvVHdHV0h6Xy15N2xLLUVDdS11X2pxd1M0MWRIUmdXT0U2NmRsaEFqa2FUc25BcmI0eHBwWlVSeVJTR1FpWllINHNjaUh6UnB6TnU2VHdSQzhSY29lOU9QZHlpTlB4eDhxZ2dkVDZvWFQ2dUlQQ0lYbk5yMmNpaU5JaWJUanFIRThV0gHYAUFVX3lxTE1UNnd5aWZuY3E1TXVXQkszZ2gybEZTV2pqdkZhd3VDcjZOa3hKek1kdHRSXzZRc1luXzFyQzRtVXA4TVExalBvaXdpcC1paWZjTUt6RHdkUU5yeUhtckhUT3FpbzFDajludXd5UlBmMm5OMGFVV253RFJ5U0tPcmI2cE5ZcktEZ1k0RGN1SzVFcE1ZVDdPQUk4RmpLcWRzZGFodEJLaTZlYUJlLTIwRTMyWG1FQXFGX2NvZHdoUWNXQmVCSk1oTkhRaUNTWGNyQW9jSFo5TDk1OA?oc=5"
-    },
-    {
-      "headline": "Edison International (EIX) Hit a 52 Week High, Can the Run Continue? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkI0blVDNXV0OXdibENrdlNFN1VRajJHaG81cGI1UzIyZXctZXNpQmk3Q09IdEJVcXRWQlhxT2VnR1kxN05WaGRNNU9va0NDUGhJSGQyRXVKVW52Yl9MVkR1Q0N6T2twV0NvNW5FZy1XcGhSM04zeUpoWlFsYzVQRllqSU5iTVFUT1NsWDR6VHFWNzIxWkRIdkRRQlk?oc=5"
     }
   ],
   "insight": "Tracking Edison International (EIX)."

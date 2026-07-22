@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:57.598Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:35.137Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    99.81999969482422,
     100.6500015258789,
     100.1500015258789,
     101.05000305175781,
@@ -24,10 +23,10 @@
     105.11000061035156,
     108.37000274658203,
     105.48999786376953,
-    104.80999755859375
+    104.80999755859375,
+    104.44999694824219
   ],
   "6m": [
-    88.18000030517578,
     88.87999725341797,
     89.95999908447266,
     90.55999755859375,
@@ -158,10 +157,10 @@
     105.11000061035156,
     108.37000274658203,
     105.48999786376953,
-    104.80999755859375
+    104.80999755859375,
+    104.44999694824219
   ],
   "1y": [
-    92.66000366210938,
     96.94000244140625,
     95.91999816894531,
     93.69999694824219,
@@ -411,12 +410,19 @@
     105.11000061035156,
     108.37000274658203,
     105.48999786376953,
-    104.80999755859375
+    104.80999755859375,
+    104.44999694824219
   ],
-  "lastClose": 104.80999755859375,
-  "oneYearReturn": 13.112447028159103,
+  "lastClose": 104.44999694824219,
+  "oneYearReturn": 7.7470541754682,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Brian Niccol's Starbucks Turnaround Is Quietly Working -- Even With Profit Cut in Half. The July 29 Test Comes Next. - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLXozLVZqUGVWSmlrTkVVamxlNFlRTFFKM3VaSXZHSFlKMkxFYURxZGt1QXB3SXFkS2pBcWVhajNiWEF6Ylk5TktmWXRwX2tYa1pMQWdqT1BaZFBkaW5PUF9wb0Zsa2hIT2U3UXFtZVppcEZUZmZkZ1FvQTFid09zMldPbFhOSkk1dWlEdGF0bWYyLWJtdklWbw?oc=5"
+    },
     {
       "headline": "Starbucks (SBUX) Stock May Be 49% Overvalued Following AI Cost Cutting Plans - simplywall.st",
       "source": "simplywall.st",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVRQN0R1TnpHTkVSS3FVVTdHZ2RfOVhDX0gxbXZ0VmZwM21uQV9rTUNwT1J4SGZ2UUNSTW8xeDFuMG9EcG04Q0RlUEtTbXpaT29xNGxPMUo0UTNUNkpMVDV1cy1QdmdIbXU4OGNZWEdUaEJsMDRFNHM3Ri1uVHI4ZWlUVjI0bWNlcU9xdjlmMHZXcW9WNlRORV9ieVNBQkVnMVQ5MmtfalA3NUltcE9hamtuRDJJVmpQcnctYVctaUxvTjM1NnZJWWJMNGhzTm9ZZlHSAdcBQVVfeXFMT1dDM1BLUE8xVDFhWUdxN1lEQTBXTGduMDhZd21yTFFEd0Z2eXZneU1yWjV5dW5Wa1NyRl9kTnZFWWRxVi1xZTRld2ZBdDFRQWVUZUtmaV82WHRuS0dtT0ZDbXpqRk5XdVBlbnM5VENOSzZ4a0NWRG9adVgyeHVpeVNpODlhaV9KUE45NDJoNGlrWkRHd3VVSWNWZVpVdEVkMzMzQURSMjVwTDlsNGlEazZpZGlCdzBSUWpQOW9MbTZCemYtOGNoOHJPaTJnTnJKeWZHRUtlT1U?oc=5"
     },
     {
-      "headline": "How Will Starbucks Stock React To Its Upcoming Earnings? - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSnRmdnRaYWtMY0FKaUtMM2paMkIyb3lVbjhjbGtuaG1hNFR6WEFTNEZ1S1pGRDZzMVJlYWlXRFdLMGstSnhzS2dya3dZUzRZelhtU0lfRzdwdEFkeGhOSGdWYnEtQm1yc21pNFZOQmNaeTRablVPT0x4VER3RVQ4REtMbzRaTENWNlRmVklfbTU5ZEc4aUN3TEg0dlZFTzhrd0k4Tzg1YUtDVGswM1ZvOUprNkhEajNKNGc?oc=5"
-    },
-    {
-      "headline": "China’s Luckin Coffee Comes To New York and Starbucks Should Worry - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVG1lajBSYTk2NjlubHN1aHdxUWpNMkJVYnVIOUJIdWVTRk1HQ2MwM1FlWU1uZkQ1eW5fT1VBQ0hSeG5DdUp0Yy10NzcyTXdDdWRnaEpXdXhjNF9IbnMyeGcwVGZtdy1qTFN4aFV1QXRKX0FQZFpDNXlOMUhxbVZlbFN2bnFwcExrb2pYdW9GaXdJajVPc3g3cFRmVlktRjBhOGJaQWRXbEE0M08xaFE?oc=5"
+      "headline": "Can Starbucks Turn Traffic Gains Into Sustainable Earnings Growth? - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSFJJN2VXWFpHaGppNDNQME5hSzZFaVpZcFNYX1J1ZFBDR2VjMTNqbXNuMkpkdFR0RlloS3N5Qk1YV3lwVnY5dlNQYXVFeUhZWnkyTnBjQzJGdkI5aGxGa2ZaNXZfNThnZG1qWl9vT0llNjFyMm0weldpdVZ5RzRqR2U4MW5SVGd3UWFlaU45WFVPV3g0N1FCbWV0NW9McDY5UXJVVHJacEUyZnh1LUpWMnRVdUdCQmFaUDA0OENB?oc=5"
     }
   ],
   "insight": "Tracking Starbucks (SBUX)."

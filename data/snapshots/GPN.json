@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-21T04:47:40.150Z",
-  "builtDateUTC": "2026-07-21",
+  "builtAt": "2026-07-22T04:47:19.484Z",
+  "builtDateUTC": "2026-07-22",
   "source": "yahoo-finance",
   "1m": [
-    66.36000061035156,
     66.87999725341797,
     65.08999633789062,
     64.27999877929688,
@@ -24,10 +23,10 @@
     78.22000122070312,
     80.48999786376953,
     77.81999969482422,
-    82.37000274658203
+    82.37000274658203,
+    80.06999969482422
   ],
   "6m": [
-    78.69000244140625,
     79.5199966430664,
     79.68000030517578,
     77.47000122070312,
@@ -158,10 +157,10 @@
     78.22000122070312,
     80.48999786376953,
     77.81999969482422,
-    82.37000274658203
+    82.37000274658203,
+    80.06999969482422
   ],
   "1y": [
-    81.1500015258789,
     84.11000061035156,
     83.9000015258789,
     83.05000305175781,
@@ -411,12 +410,19 @@
     78.22000122070312,
     80.48999786376953,
     77.81999969482422,
-    82.37000274658203
+    82.37000274658203,
+    80.06999969482422
   ],
-  "lastClose": 82.37000274658203,
-  "oneYearReturn": 1.5033902621851019,
+  "lastClose": 80.06999969482422,
+  "oneYearReturn": -4.803234914053887,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Global Payments (GPN) Stock Looks Stretched After A 55% Five Year Fall - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRkZtWUZ3dnpGeHdWS280amxpa2ZVME9nNTI5RW9nLTVJM1k3aU11OGVhOHJGRE4xWmZOSUFiREpNM2NUMnRRUFhJakRWYkw0bG1DNndlWHJHVVBOWG9RQk1zUWFuVTdXRE9zMlFab2h2WVpMSm1sSGswcXlrTVBacEM1WmxidUk?oc=5"
+    },
     {
       "headline": "Global Payments Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaFFqOTdtZTFTaDlyMjdiT1RaTXU0ZnA2ZTBSOVVPeEk2R1MwYzlVYlpKdldQSWp5TmlXSVBjc1g4LXNVY3FRTVMzaHZTajUyUWhfVjROVHEtVlJUZ3g0Znhuc2VmUVJoTnNlRG5heWF3QVhmWUtxUU0wa2JSZU1BZkFhSm5nWEc0b0RZLURzeU5wSE13WXpoSjE5N0RiN1ZkaWZLTjRpTWVPTU9URkVGNnBKakZLcHI2dVVlVEY5Uk15UlZOYWFNVzJwYw?oc=5"
     },
     {
-      "headline": "Global Payments Inc.’s Stock Price Soars to $82.37, Marking a Remarkable 5.85% Increase - Smartkarma",
-      "source": "Smartkarma",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaE5hOVQyOWNaaTVFM1ppX3hOMVpDRkpPdWY3WlRlWF81YTRJQ0oxdUhNcFZWTjRzUVFIZm13MUYycktteEc2dmtSamIzSWVDLUlXOU5EZFVaempBVUJqYjFtOTRFSlJ6cVNhandpLUg2SThxcmx5WnRMdm5rckZ6bnU1M2pVWDNBaWtVeUtsbFVQelVES1h4U0QxMGxmVDFUTUR4NjNiOUJFV0dZZlZTdEdxVjZVUF9JMlVlNUZkQXB4Rk9BVS1jWnlR?oc=5"
-    },
-    {
-      "headline": "Global Payments (NYSE:GPN) Shares Gap Up - Time to Buy? - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHdYTkxJS1ZhSzkzTXN5WU9yT2FmWGtkVGQwYnA2VkdIM3hXMkJWTVRMVUVJY3daTVpBUlJYLXJNYXdNczdKbk1acDN0VEZyTUotWHZfV1l5cDg2UkdIWTNYS1IxMVdCaUJ4Z2JZUFc2b0txbnV6YWRrbWhkQmJXOG5idm1lV1FwbDIweDMyZWdNMGNJaGNtQ1czRHRvYjRuWUVDM25B?oc=5"
+      "headline": "Global Payments Inc (GPN) Stock Up 5.8% and Still Undervalued -- GF Score: 84/100 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS0o1cGlnaUxnU2oxeHNMcGFaYUpoMGR0YlhWVmF0OGJ2ZHBmMlpuQnRWOFY5ZHJHc1RCcnJWamRfSkktS3FlUy0tRWQtMWMxT210VElHczk5bURLNkxXN0tNYy1aQ1ZCVk9IVUpyeVU1NjViOEpxSk1tYTRXcFVEaDlqdzd2Z2Zhd05OR1dCWUZNYldBa1FBck0xSnpjcXZLMzliSDI5c281b21peU54Y21qSGR5QnZqbTZhYW52TDY?oc=5"
     }
   ],
   "insight": "Tracking Global Payments (GPN)."
