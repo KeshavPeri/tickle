@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-22T04:47:40.058Z",
-  "builtDateUTC": "2026-07-22",
+  "builtAt": "2026-07-23T04:52:43.121Z",
+  "builtDateUTC": "2026-07-23",
   "source": "yahoo-finance",
   "1m": [
-    58.13999938964844,
     58.68000030517578,
     60.04999923706055,
     60.11000061035156,
@@ -24,10 +23,10 @@
     64.01000213623047,
     63.13999938964844,
     63.13999938964844,
-    63.709999084472656
+    63.709999084472656,
+    64.47000122070312
   ],
   "6m": [
-    55.209999084472656,
     54.38999938964844,
     54.04999923706055,
     53.5,
@@ -158,10 +157,10 @@
     64.01000213623047,
     63.13999938964844,
     63.13999938964844,
-    63.709999084472656
+    63.709999084472656,
+    64.47000122070312
   ],
   "1y": [
-    46.15999984741211,
     46.290000915527344,
     46.060001373291016,
     46.31999969482422,
@@ -411,29 +410,30 @@
     64.01000213623047,
     63.13999938964844,
     63.13999938964844,
-    63.709999084472656
+    63.709999084472656,
+    64.47000122070312
   ],
-  "lastClose": 63.709999084472656,
-  "oneYearReturn": 38.0199291487746,
+  "lastClose": 64.47000122070312,
+  "oneYearReturn": 39.27414116571674,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why U.S. Bancorp (USB) is a Great Dividend Stock Right Now - Yahoo Finance",
+      "headline": "A U.S. Bancorp Vice Chair Sold $2.3 Million in Stock After a 40% Run — What Should Investors Know? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMUJlMXZ3NnNhZFJaRTBfeDZPYS1GcG82Yk5TdFpwaFVOVXR5REFka3NuT3VjNnhJbzN4dVZkOGFKZFBqUlhJWkZCRVZVWEFWMm1RdExDOGFtUllXSWZPRGRlVVBmaVpJRWNQY3hJeUYtdFFDUm9wZ29KMWhtNU5xMUJxZGpKWTFfSHlzdGJyTmM5LV93eEJIZTlKbmQxMGtveVNlc3dNT1VLNVdrRE9tWllVZWFCR1BDTHZqYnpORnlMS29ma2lxZFBzT2dWbGwyT0pZU2lxYzVOTnVlN1E?oc=5"
+    },
+    {
+      "headline": "Has U.S. Bancorp (USB) Outpaced Other Finance Stocks This Year? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN0UxQXZIbHBxLU5oY0tVdTZsMGtQZVc5YUtqRld0MUE5S1BpOFVJcmhJWHNveU5NVDNqdnE0Vi1zVUNKTXZpZnAtVWNsdW1xa2ZGMlVVMHJKeG5lNkp3X3JLaGxFc2U5b2cwTXhlQzYxOGpkSlQtdmRnZ1VyZXp5M3ljdFl1dlJ6SlZSZGNvQ3BEQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVlLUTF5b0g5QS1JUFVEbWVKWE5OLVdVVmU3b1FiWmNOZkh1bEtLSE1lMmNhU2tzeXF1T1hqXzc0MldUQXZmQXZNR3B1ejIwOWNoMVdKVjh0NEc3ZDNvV2w2enNtdzNVbjZJSWRMWVJQV2lYR284MXp1b1lRQzh1MkxVMFNhRXhzMWczc3duMnkzb2NFRkpsVQ?oc=5"
     },
     {
-      "headline": "U.S. Bancorp (USB) Stock Could Be A Bargain As Fair Value Tops Earnings Price - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNekoyWDhnYkQzbmJzUXVnSUxmaHk3X3BZSzRHYkRRX2R0Tk1Tc3haa1NHU2FqMzUwTHVhcUtJNXA2a0llRTVJMjVzZEZoUVlYY0t3MmliV3RKNE94X0tGTjktY2VVQXlNdEpJalBSQ1hoRTkzSUttMzdWb0JKd0dHRmJfX3BuczlkcGkzUE16WkVPbDNRRjlpcWFLSE9xSTV4Zm1ITXZjX1AtNlF3OWRERjVrbHduUjA4ZVg2T21uU1bSAcYBQVVfeXFMTnh1YXFRM1VFUUpWcENtTWJoNTdJcDVRYkJVY3dBSXBWQ3d4VHF5MzdXTUp1eHNfTHltbDZJTlNqNlpqdW1seTVMeEFhMnQ3ZUp3TURlbFRkRVRhWUxPTlQtZnE0VGJ6ZEg0SEx6dzFwanJvSmdldWVmMzVzWnk0U1pnZDBBeGh3RkFMRkM1OFFnT050cDBCR1hwWmFSRldtMjJ2RVJWZnJfOTFwWUc5dHFvcW1xbUYycG56dXRoOTgwNXVJTERB?oc=5"
-    },
-    {
-      "headline": "U.S. Bancorp (USB) Q1 2026 Earnings Call Transcript - Fortune",
-      "source": "Fortune",
-      "when": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BWl90azg5NVIzMHplbzJ3ZVF4UlZIVFBNM1pyYVV5QTJpRGRkcGZrd1l5bnNXbm1hc0ljZVRlNHB2eHJDS3pCNDBuNkpaZTdSUm55Ukd3MXRsZG1RcTR1N1lrRGVsRzJO?oc=5"
+      "headline": "U.S. Bancorp stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbTJEXzdFbkZpMFdqaG9CMVc5X0NUd0dLRGNPcUh0cnZKVFNvOFBIX3JPSl9yOEJScjh1dFN1azZmdVNaSEg0YlZFMDZsRG1EM0pwRjN5M2lKY05qdXd6dEFGcXUtaFo0M1JfbUFiMHVLd2Z1ODVBYVdwb2dQZGRmZ3JKVy1OdkFWMzhPY29LYWFEVFlyWlpOeG5UZkhBeDlmQ1FTMWVGQU4xYmU3Unh0dVdSZlFoRmp4WFN1NXNrMXFVcURKMDVHeU4xMWVtbE5NQ1EwUzF3UFo?oc=5"
     }
   ],
   "insight": "Tracking U.S. Bancorp (USB)."

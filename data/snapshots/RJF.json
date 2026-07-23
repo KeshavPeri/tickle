@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-22T04:47:34.697Z",
-  "builtDateUTC": "2026-07-22",
+  "builtAt": "2026-07-23T04:52:37.015Z",
+  "builtDateUTC": "2026-07-23",
   "source": "yahoo-finance",
   "1m": [
-    155.86000061035156,
     156.64999389648438,
     157.44000244140625,
     154.7899932861328,
@@ -24,10 +23,10 @@
     169.6999969482422,
     168.36000061035156,
     168.32000732421875,
-    167.92999267578125
+    167.92999267578125,
+    168.00999450683594
   ],
   "6m": [
-    167.7100067138672,
     170.88999938964844,
     167.19000244140625,
     172.27000427246094,
@@ -158,10 +157,10 @@
     169.6999969482422,
     168.36000061035156,
     168.32000732421875,
-    167.92999267578125
+    167.92999267578125,
+    168.00999450683594
   ],
   "1y": [
-    160.61000061035156,
     160.8699951171875,
     166.83999633789062,
     168.52999877929688,
@@ -411,29 +410,30 @@
     169.6999969482422,
     168.36000061035156,
     168.32000732421875,
-    167.92999267578125
+    167.92999267578125,
+    168.00999450683594
   ],
-  "lastClose": 167.92999267578125,
-  "oneYearReturn": 4.557619100686251,
+  "lastClose": 168.00999450683594,
+  "oneYearReturn": 4.438366138102526,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "California Public Employees Retirement System Acquires 9,242 Shares of Raymond James Financial, Inc. $RJF - MarketBeat",
+      "headline": "RAYMOND JAMES FINANCIAL ($RJF) Releases Q3 2026 Earnings, Stock Rises - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlNZNUNIQjVHbXBNRDRISWFFaWRYMkRKbHRCMlVlTVZVenZKTXVpUThkaEtyMzBtOC1MTWFtQVM0cXg1Y1V6ZGhLUkxfYzduRk5vQkZSWWVjUGt4VldjbXExTG5ETEl4QVFldmJCaExsbUtkX2hZQllsX1NUcktZOUw0Y3BwVi1aUlBIcWpyVU42QkQ3a0h6ZTU0SEtTTU03X0hqVjNaalNHQ2xvTDFR?oc=5"
+    },
+    {
+      "headline": "Raymond James (NYSE:RJF) Reports Upbeat Q2 CY2026 - StockStory",
+      "source": "StockStory",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFpHZTd2UWJZcENpWWhZVTl2ME41UU9pQkhZSnJqZmJUN0xfUllMUVBidjFydllOX01KOHhHTVdiamVFY2QxM0dmMGMzZFBkWUdJRlRNNVY5Y2xiSUJzdlA1SHJGWEplRXJzUkJkakRlM2JOUFNZb3E4WS0tVjBXbUtUaU9nVGl5UU5Kb25ZajI0VDM4b1MwbjZvb2U0SzA3RnNoVg?oc=5"
+    },
+    {
+      "headline": "Raymond James Financial Q3 Earnings Call Highlights - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbFNpYS1fQUZhVXZfcVh5TFBxU19ULXBDRFFOR2VHUzIzLURldWVfTUpVWmtkMjJpd1Vadm5CTE1pNl9HM0tmenJsMWsxOEl1WWRfT0R6ZWVCSU9XZy1kR0l4a2FhblJra0M4WW1KcE1peE1wTmxUc1p3VzRFTzJwX1lzYkNXX1htZzd6ZXozTllQOE5acUx4Wi14YU9rUWhyRzVMMEdtZ1hwdGZhQlQ0YjJvZ2RrOTE2Zm5xcTNMQmpLU1RrZnFvQlRvMDQ4WGJldDJoTWVCejVDZkFjYnc3MXhtcGRoOGM1cTF3VHdHaGxoTi1L?oc=5"
-    },
-    {
-      "headline": "Raymond James Financial (RJF) Could Be 8% Undervalued On Higher Earnings Forecasts - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMFBXTWxBMGdfRWU3VVIzMEg2S29TZlJvZ3Y2cTc3TlZEaDQ5MFlleUo1NlRibHhXTHJsQlBVUWd6N3MwcXdwcnlOOVA2aU9MQk1yQjlFNVFmRUMxNVZyeVlfeVhzcUhZTm5kR0pGVGk1MVhvUmZlOXZsbzE1NDd0ZklVNUdwY0k1XzJ3Z1FzWlJ5QXQ2LTJuYmhnbWNTalFNaU0tdGU1bTEyNi1lbXVEWkJSZG9neXRMd2Qwc1h4ckl1ZE5kdGFZVkxFV3FzWnF2ZXlUQllXbFBPenUxMFhySzNoS19Sd0Et0gHuAUFVX3lxTE1xNmxpUS1CZC16TzVPcHhZSnVnNVRFOG1aVkw1VUZka2RKWUZrbUFnSzVidFprNnNzMmp5d2pYQXhYaC0yVmViS1Vrdlc4RmpfNFZSenQ1eExyb3JpSUFUeW9GWGw5Y0lFLUp6OU9NdF94enRvdnNFX1R5NlBqaVlvaWFaZ1JIQlkzZFZ4VXBzSFQxbHdCVF95NWZheFFCVngtNDNTa3NxWlR4LXl2Y1JUdjcxR2dwM1NQekhma1lRQmY1U180aGNtLXI2QWlHQXAzMExVYmdhUEJxYnBNbFhhTzJ5RGF1OHo4ZWFYcUE?oc=5"
-    },
-    {
-      "headline": "Raymond James Keeps Poaching Advisors From Wall Street's Biggest Firms. Here's Why That Matters for the Stock. - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdk80ZjNjWTZQRm1MZ1kxQWVUa1p3OTNzSjdldUZvcllUanBBVUprWGppYWd6R016aDM0LWFINnBzS0UwRERlc1BhUzFTMDFBeXVNUHJ4dEVRRTdHZncybldUVlFqRm9fSXJhS1hlaGJnbEFodFZBUEkzNXpzTHRyWjNVVnpacXQ4b1c1dGhrOTJyY1pyOXUzcg?oc=5"
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOancxQ080enpBTmV5MktWZmwxcUV4MmJqTTBsemczR05VUWctWF9EODhsdURPQ3VvNndNNXNDZE4za05ldHFSLVlsczFvM19pMkJsZ0Z2Y29sU0VEbXphb3EtRGM1eTk5NE50bTZaZHVSMW1IZENfNmlrZ2k1TElGWDJNWFFEbzNSVFNhd2dZWDluZU5yMkswdEJ5eXh6Wll0WUR5RnJGSjc?oc=5"
     }
   ],
   "insight": "Tracking Raymond James Financial (RJF)."

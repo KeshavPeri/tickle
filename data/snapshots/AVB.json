@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-22T04:46:59.020Z",
-  "builtDateUTC": "2026-07-22",
+  "builtAt": "2026-07-23T04:51:55.112Z",
+  "builtDateUTC": "2026-07-23",
   "source": "yahoo-finance",
   "1m": [
-    177.32000732421875,
     179.88999938964844,
     182.24000549316406,
     183.60000610351562,
@@ -24,10 +23,10 @@
     195.5,
     192.52999877929688,
     191.83999633789062,
-    190.64999389648438
+    190.64999389648438,
+    190.27000427246094
   ],
   "6m": [
-    179.3699951171875,
     178.38999938964844,
     178.80999755859375,
     180.16000366210938,
@@ -158,10 +157,10 @@
     195.5,
     192.52999877929688,
     191.83999633789062,
-    190.64999389648438
+    190.64999389648438,
+    190.27000427246094
   ],
   "1y": [
-    204.50999450683594,
     203.38999938964844,
     201.58999633789062,
     201.75,
@@ -411,29 +410,30 @@
     195.5,
     192.52999877929688,
     191.83999633789062,
-    190.64999389648438
+    190.64999389648438,
+    190.27000427246094
   ],
-  "lastClose": 190.64999389648438,
-  "oneYearReturn": -6.777175190764713,
+  "lastClose": 190.27000427246094,
+  "oneYearReturn": -6.4506589097591815,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Piper Sandler Raises AvalonBay Communities (NYSE:AVB) Price Target to $210.00 - MarketBeat",
+      "headline": "Proposed AvalonBay-Equity merger: more than 180,000 apartments - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVDQ3T285dVI4cFB0c09IR2NHVlRuNE14M1pQbEIzM1pSWkdINTlhLU5NYXpYSWhKanRmcE1VQWlIYzc4VEZUMWJrWmd1ZGMtRGpVS2Z5amZlUTBGSWhTSFNxSjhaN21lSUJPWDRtQ0tjejYxQUo5RW1KSW5ON2NucnU5ZVZjUTdab0sxUER2cG1qbDRoVWdTQ1RYZnRnWE40NkktTzRBNFlPLWRWSkhFVnA2VVE1SDRXRXM2Tw?oc=5"
+    },
+    {
+      "headline": "AvalonBay Communities (AVB) Beats Q2 FFO and Revenue Estimates - Yahoo Finance Australia",
+      "source": "Yahoo Finance Australia",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ1l4ZmlJb3YtS1ZyMFdicXpzZmM3Mi02RDZhNzZlV2t5Qkg3Q01oakQ5ajIzcXFsNnRjbGx2bXVFNUMyYThMYlJZREJON1NmaVNSOUktWHlHTjRES2sycVNIS3Q4M0hKOHBNSzhRY3BOeGFNN18zRnU5QUVPOHN5YUNQbUlhdmFSR05z?oc=5"
+    },
+    {
+      "headline": "SEB Asset Management AB Makes New Investment in AvalonBay Communities, Inc. $AVB - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWNyOUJiNXBPWjUzaTV4OTV3VmRVbjNEQzZ3M09ROUhPVnBkakI5VjJtaFF3TTJBSG9sOVIzT0Rzc1Vfb29ZX3lYYWgtVkRPVG05bDFRRFBseXdmMXJjQU4xNXZGTk9hNUFYYjNIbVZ2TmkwczJuTmp2SGRtNERNeHFNdVg3WFhTcFU5X0N1VXZUYnlCUXY3ckg0blJnOGx5SklKRzBwSWxuUjlRaTNOUWROUXdMSmR5Y1JLZ1gzbVd3MVdH?oc=5"
-    },
-    {
-      "headline": "Is AvalonBay Communities, Inc. (AVB) A Good Stock To Buy Now? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRjlJSHZsNFZOTG45M01xWWxlNVZ2ZzMxeTZPSjdkLVpjbXZqTG9tWjdWUk9HTkVpaHRyRFBXQ3NHR1JHcGtMZVBSTS1rSVNMTVlIT183cXJCQ1BoRkRMMTFFcnBFRkJ0ck1BM19oekE0b3drUWxnd2djQk1yOEhrY0puTzZBZDBDdVFyZmUzVVoxeWpHRFBMTEgwYnpuejNw?oc=5"
-    },
-    {
-      "headline": "Resilient Occupancy and Financing Pressures Might Change The Case For Investing In AvalonBay Communities (AVB) - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR2V3VkJ6QkQyeFNkOGJGVnFKVktGSmJ0UV9fY2xFX2N3UGNmYzdpbnJySEE5Y0NTTzFmNzFIRjFuQlFyS2dsRmlETW5ha1hTN0JGNjdTdkM3Uzg4R1I5ZHhMVU8tQTJ3T0JqMUJtam1iOHZCa1dqV2tMOWdULW1TYzZiS2pZRktsUk1rNzFENDN6YWRiTXdVRnlPSDZoc3BfRUc4X2ZNOE5DRUJYUEM5eHJoRGlGc1JEN3FSUjVhRVBRVTB5T2pQWVluWTVGcEhvdVpHX3R1UdIB3AFBVV95cUxNdlZ5SS1iRnhiRG5GVldMbF8zTjhLUjVzOGJhTWJka2V0ZVZfRkU1ZDEzUnFEcU9FZUlYSXFjNFgwT3ZsT2NDOXk4NnJEVm5jb2wyWTlvb3c0ckZmdVVnaFNjQU5YSTU1T3pFMWlzTFNzNzJ4NmhPU1dCbFBiSUVOQk5NMEdwUm9XakM2QkFNZlZTZ3E2VklMYU1jVkF1VTM3LXRTQ3A2Y1V3WE5lQjgyaDg0NXBhd0c3amR1NkJfdFVSdUFNcFVPS0lVOFdPalJYZGtUQjNHYmE5VmR5?oc=5"
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbG0yTHBncnNFZ3k0eUh1TE02aFJ6OHRoNlZtZlk5dzcwS1dCZVh0MmNfY0VFTV8waVdjNER0bjNZaHZobmVzTHJpUTJ4MUxlN1hWcllOaE1sSXNzSkhnTEh4bS1SMFhTa3dTUXV1ejkweHNvUkZ1NUFZOEVDRTRKdE9tdkp4VW41Y1pQbTk5SVRmRjBXaWFEVkNHTnFhZ0ZrN0dXa0JpSk9nUFVGSE50NTczNkJsdklydW94dmowS1oyUDFaRE8xUURWbmNFaDFOc0JYRA?oc=5"
     }
   ],
   "insight": "Tracking AvalonBay Communities (AVB)."

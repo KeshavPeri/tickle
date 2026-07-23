@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-22T04:46:53.699Z",
-  "builtDateUTC": "2026-07-22",
+  "builtAt": "2026-07-23T04:51:49.060Z",
+  "builtDateUTC": "2026-07-23",
   "source": "yahoo-finance",
   "1m": [
-    142.41000366210938,
     139.19000244140625,
     138.85000610351562,
     144.39999389648438,
@@ -24,10 +23,10 @@
     147.8000030517578,
     145.97999572753906,
     144.94000244140625,
-    144.10000610351562
+    144.10000610351562,
+    140.0500030517578
   ],
   "6m": [
-    139.27000427246094,
     138.50999450683594,
     140.07000732421875,
     132.7899932861328,
@@ -158,10 +157,10 @@
     147.8000030517578,
     145.97999572753906,
     144.94000244140625,
-    144.10000610351562
+    144.10000610351562,
+    140.0500030517578
   ],
   "1y": [
-    139.42999267578125,
     139.8300018310547,
     141.6199951171875,
     141.30999755859375,
@@ -411,29 +410,30 @@
     147.8000030517578,
     145.97999572753906,
     144.94000244140625,
-    144.10000610351562
+    144.10000610351562,
+    140.0500030517578
   ],
-  "lastClose": 144.10000610351562,
-  "oneYearReturn": 3.349360735170969,
+  "lastClose": 140.0500030517578,
+  "oneYearReturn": 0.15733477638721247,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Did Airbnb's Stock Drop After Announcing a $2.5 Billion Bond Sale - Kavout | AI",
-      "source": "Kavout | AI",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLWhxWVhRY0ZRQ3VUazZJeHJFREZKNmhJMVhKUnQ3ZE83WEMwc1VMOGxxWk51WWpIaVF4LWpTeE9jNngyZUFlRUxYR2tyMDVueHJZV0lEWE5QRFUxWUtBaFFKNmtkNGJwb09XYWJTUzMxVUp0TlBobE80aDljMlhTOVZ5M0JEU2s3ckhqVFhlOG9GMUJGalBpeGVabmhOOG9EVEo2RDRn?oc=5"
+      "headline": "Airbnb Inc. Cl A stock falls Wednesday, underperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnNORTV1S2twaU1NQmtLSEZzR0VKOThSVmk5eGhBUXJaRGc4TVEyWENwYTF3YkFENG1MQkdLSVdhaFJoNjQxUmxOOWF0eGFHdGZyeU1Gc1pudlNId25MbmFfVG1wbzVJNGdOWlJsamtkSXpJcjk1NDhTQndkUUoweFU4T2V2VVFOWFp6UnBMT1JFRGxGbnk4a1pObE5ualdqTWVLS3Q0XzBNa0lWY1gwMW1lSkNUMWhaaXc?oc=5"
     },
     {
-      "headline": "Airbnb Stock And The Expat Shift Changing How Investors View Global Travel Plays - simplywall.st",
+      "headline": "Airbnb’s Payment Feature Is Quietly Rewriting Its Growth Story - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0EwSkRDdUJBdmcyQk5TSl9IV1A4bHFUbUZOQ2dlTVBXeWZ4OHNFdHJ1MkNyYXpyc2pUQlBEaGFndEhXazdBLUlMYzRaclhzYWczcGZpS1dZdDdRalBac0tIUHI0bHlBZFY1Q0FubUdrMEJ5ekVwTFVOeVVSbC15aWoxQTZEOGlBelI4NjA0N0w?oc=5"
+    },
+    {
+      "headline": "Airbnb (ABNB) Faces Insider Selling And Earnings, Is The Stock Expensive? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPc1VoLTlJd0ZTdnJfeXloc1pZQm1GR0Jrd09hUlNXNjd1UWhZcGNXejVQWk44MDJSZXB6N1o3cXpkYWNNTHFpRWtOcHdGOUN6MERabG94bnl1TWQ2Y18zTXBoTDFfbHJyMlJQVU1KQVkzQ1Q0N3ctckVvOUFoNmtualBKYlEzaFp4cm1fYXJMTldTSUgzWTFydWI1ZXNpZ21peU9qX0N3RFJZWW1WYlA1bWdRaUlwQmlHMkczdHotU2t4dE5NWHdMamJqRUZJa1NmVmVVczEtY0djTkdOZjFkUmJpSjZQUk1sdlFaUWNFMU3SAfYBQVVfeXFMTUlnb3diZTdXamduclRjQTkzRjhTQklEQjVCN2ZXM1gyTV9VMi16T0JDZ1hHQXdOdEdkUHNjc0VsRkRDT0p1NEloT1p1SzJ1OHA3ZUNoZmVoNWtXTng0eURHQUpfSXJVQlJnTXJkelZjaEl4VXJrVzF5VXJPQmJ0ZVppMkJuRTNNdjZ0alRyTTNHUTFrOTRrbVZJTGNzQmI2bGdpMTZGZkhfMWpRck9vVkFYMUw5Z09LbXR0UDgtWWZIQzd6cFViSGVHTTlCUFl6UDN6VnFVdFc3SndGU0dhdFdkTFhIS3JuVDhqRW9YYlJTa2xoOGxB?oc=5"
-    },
-    {
-      "headline": "Is Airbnb a Stock to Sell After an Insider Let Go of 237,000 Shares? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTS00YTNsYldBY191VUplV3Y0dXFkSzh3bFhuTmhNd1F0amN4VUV2UHVnU0NDN1lJZHZBc1owQWJ3ajB3UzBvMVRRcm1WOGFhM3RVVkU0bHdfU050MG5aZFZQMF82cnNZX3Y1WlhQTFcybTNTRTBRdzdGWHhzOVA0T21pWk1QS0ZzUDMwZllmRmxnaGxFeU5hdW1WdFdUcEZVMENTYXRQelFQTmRoTnJQaUNFc3U?oc=5"
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPemxsQjhfeHI5Zl9DZ19weXZiRE5ZZUhDTjRQQ3JCS0sxaEs1enZ6MVVhVXZUdVZUTzNPaUFSZ0Ytd19MLXpVRmJXSFpaalVHZDhueHVmMGtBMmtqdldIUEFrbXZEZjdkRDRsM1RiVzJQT1dRQTFjb1BSN3Z0R3V5azdpVE4zSEJjZTlTQ2d0RXhwN0VHVTFTcXRXcVBZVFFUeUo3LUdiNjBCbFYtM25SS01ROHg0NkR1emdGR2Jobm1zZWM2QzN4Q0lZSWVxTG5Qd1Rz0gHTAUFVX3lxTE96bGxCOF94cjlmX0NnX3B5dmJETlllSENONFBDckJLSzFoSzV6dnoxVWFVdlR1VlRPM09pQVJnRi13X0wtelVGYldIWlpqVUdkOG54dWYwa0Eya2p2V0hQQWttdkRmN2RENGwzVGJXMlBPV1FBMWNvUFI3dnRHdXlrN2lUTjNIQmNlOVNDZ3RFeHA3RUdVMVNxdFdxUFlUUVR5SjctR2I2MEJsVi0zblJLTVE4eDQ2RHV6Z0ZHYmhubXNlYzZDM3hDSVlJZXFMblB3VHM?oc=5"
     }
   ],
   "insight": "Tracking Airbnb (ABNB)."

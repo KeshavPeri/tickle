@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-22T04:47:02.660Z",
-  "builtDateUTC": "2026-07-22",
+  "builtAt": "2026-07-23T04:51:59.910Z",
+  "builtDateUTC": "2026-07-23",
   "source": "yahoo-finance",
   "1m": [
-    71.80999755859375,
     71.8499984741211,
     70.75,
     74.05999755859375,
@@ -24,10 +23,10 @@
     69.33999633789062,
     68.69000244140625,
     66.9800033569336,
-    66.69000244140625
+    66.69000244140625,
+    68.0999984741211
   ],
   "6m": [
-    56.25,
     55.380001068115234,
     55.209999084472656,
     55.599998474121094,
@@ -158,10 +157,10 @@
     69.33999633789062,
     68.69000244140625,
     66.9800033569336,
-    66.69000244140625
+    66.69000244140625,
+    68.0999984741211
   ],
   "1y": [
-    76.41999816894531,
     79.61000061035156,
     79.44000244140625,
     80.7300033569336,
@@ -411,29 +410,30 @@
     69.33999633789062,
     68.69000244140625,
     66.9800033569336,
-    66.69000244140625
+    66.69000244140625,
+    68.0999984741211
   ],
-  "lastClose": 66.69000244140625,
-  "oneYearReturn": -12.73226375382593,
+  "lastClose": 68.0999984741211,
+  "oneYearReturn": -14.457985238017748,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Analysts Estimate Carrier Global (CARR) to Report a Decline in Earnings: What to Look Out for - Yahoo Finance",
+      "headline": "Carrier Global (CARR) Faces Earnings Pressure, Is An 11% Discount Enough? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMVI2eWFEdE9xSmRISHc4cVVVVnFtaUxCZUQxSXl0Z1p6R3BPLXdVeHZxMUhiTk05REk4RGwwdGtSQlVqc1VSLWRpY1VBQ2ZFZ2VmanAzUjlJX0E4S2JWNzhQMEdtbG1IeVJFd2NZdDEtWjJkVS1jejRsd2g5Y045WTI2SWRzOTJrazMxVzJQTXFJZUZmX3pzZ0lyeFZTN182czllRg?oc=5"
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0I1VHhPYU5Qakh5TWdqeUJPWWozWTgwMFhId3pTdGgtOVZlX1c2ajk0dk41VTBIbEpVYnNCeGp3MWFjdDU4TmpYdVVTNXlleUZyUDBleHNab1FxWnNDLWk5YVBhamJlTGJldGJFeHFoaDVUakJwUEg1aWhPazlSWEZ1WWgxRWlYR185Qk9pUV9xdTRjX2NlQmVZSnkzQk1F?oc=5"
     },
     {
-      "headline": "Carrier Global (CARR) to Post Quarterly Earnings on Tuesday - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZS1fUmdZendRWmtiSnkxaHJWOE9MY28xQURfNGw3NTlITVdCYmZyRDZCRUd1S1lYWkIyZDJONlRmWW1zeEU3QUdYM0JvOUI2eG9VbDg5U29LR1h4R2pOOV9MaHdRaWZ6U19UaW5JUHJxcktKclltNmZLRE0zZ292ZFZjXzhNbUpBQ2VMMXpOdkZTZ2UxWWkyYko0OGhhQjRIb0RkQVVuS1V5Qk9pOXNQaQ?oc=5"
-    },
-    {
-      "headline": "Carrier Global Corp. stock underperforms Monday when compared to competitors - MarketWatch",
+      "headline": "Carrier Global Corp. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVXc5YXVQM201d1BDV1dtX3ByUUpZbmVlWU10RXg2aDdIMDhrVE4ybVdMUEMzUDB4QWlncXFheXB5SFJGeDdiMWNVV0lCbGM0b1ktQWNHUUJZMUZZc0IwSl80M1ozMkxMMHRQVWVIRnQ3VV9TX1Q2ZjNnMXVfaklwUXNicXJBV3dMckdNZ1JQQnM3VUFTVUZpcmF3Y0tWRU1JNWV0R01CRnhtQmpJbXFuaVRDX29UYmx1dWM4cjhXcWZDU240WFBGZ0pKalBXdjZw?oc=5"
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTE85MEZ4LVpnR2hOSE5xTEExMmpGNzN2X2phMzcyREtTZy13Ml9hSkZyZVNQT1BuLXJ4alVKcDJOTF9BUmVJLUFnYkZNUk5CaEhXQk9yRmQzbHdVdFhzcWFOeGV6dHQtdnZsRElqaEVlZi0zOXBLUkZFS1BYeUJqODlob2NUcVZfcWlSd2FTdU05WWlhTlRmYzJnT3RHUFBGQzRxZnZfbmZ6eDNqN2J6dUdYaERjRXBSWkdhUDd2NGtyQVBiaFZNUmVNZw?oc=5"
+    },
+    {
+      "headline": "SEB Asset Management AB Buys New Shares in Carrier Global Corporation $CARR - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ2NOYXRSR3RyYk9wd2tQRmpZMFZzNjlwdlAxNHZWSFZZSHZRTDhzcmR2VTdfcUhXdWlpdzUxVDcwLWdZeHFwVnIwWjhkb0pRdVB1REZSRlE5ZGtHZm5kRkpxbmZ3eV9FNXZPMi1FVlZuSW5xQjdTYS1UNjdCWTRFYTJfNm4ydVE4c0RjN3NiZUludV9yVjJ2c2tkcmRKUjdoeXMwQTRkc1lkUGhNTVR1T04xMlNHMVdPQktEQkVnSEc2TWNQN1NiMDRtZDlqalJP?oc=5"
     }
   ],
   "insight": "Tracking Carrier Global (CARR)."

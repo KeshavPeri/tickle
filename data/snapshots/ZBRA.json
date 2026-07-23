@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-22T04:47:42.071Z",
-  "builtDateUTC": "2026-07-22",
+  "builtAt": "2026-07-23T04:52:45.195Z",
+  "builtDateUTC": "2026-07-23",
   "source": "yahoo-finance",
   "1m": [
-    235.97999572753906,
     245.69000244140625,
     237.72000122070312,
     247.77999877929688,
@@ -24,10 +23,10 @@
     265.0400085449219,
     267.3999938964844,
     264.69000244140625,
-    262.3999938964844
+    262.3999938964844,
+    262.75
   ],
   "6m": [
-    259.4800109863281,
     264.42999267578125,
     261.44000244140625,
     262.510009765625,
@@ -158,10 +157,10 @@
     265.0400085449219,
     267.3999938964844,
     264.69000244140625,
-    262.3999938964844
+    262.3999938964844,
+    262.75
   ],
   "1y": [
-    328.1000061035156,
     336.7699890136719,
     333.3999938964844,
     335.69000244140625,
@@ -411,23 +410,24 @@
     265.0400085449219,
     267.3999938964844,
     264.69000244140625,
-    262.3999938964844
+    262.3999938964844,
+    262.75
   ],
-  "lastClose": 262.3999938964844,
-  "oneYearReturn": -20.02438615813463,
+  "lastClose": 262.75,
+  "oneYearReturn": -21.9793899184606,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Zebra Technologies (ZBRA) Beat Expectations, Is The Stock Still Trading At A Discount? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWHl6NTZ3VE1kMS1tMEJ5R1ppSm5ObG9FVVlfZjBoVDR0dkNKcFlaNGYyZHlXcFo1MFpvVkdSdnl3N3dDR0o4dGhFUGxPWWc3X0hMa0J0cC1xMlBrZDJmbXZnd1lfdE5yOHFlNmNJeTU2QmUyVGFXRXBLcGx4bS0yeGgyRTgzTGxQTmtwTHBuTWVabDBpcTFWVTBoMjdpQXVEM0pIQWlMMEtsSTh0TWN6dVBna1c2NWE5bVhheV9kMURHZmg3YnN0OFpaQVNYZ2VKTzBn0gHTAUFVX3lxTE5YeXo1NndUTWQxLW0wQnlHWmlKbk5sb0VVWV9mMGhUNHR2Q0pwWVo0ZjJkeVdwWjUwWm9WR1J2eXc3d0NHSjh0aEVQbE9ZZzdfSExrQnRwLXEyUGtkMmZtdmd3WV90TnI4cWU2Y0l5NTZCZTJUYVdFcEtwbHhtLTJ4aDJFODNMbFBOa3BMcG5NZVpsMGlxMVZVMGgyN2lBdUQzSkhBaUwwS2xJOHRNY3p1UGdrVzY1YTltWGF5X2QxREdmaDdic3Q4WlpBU1hnZUpPMGc?oc=5"
+    },
     {
       "headline": "Zebra Technologies (ZBRA) Stock Forecast & Analyst Ratings - Moomoo",
       "source": "Moomoo",
       "when": "2026-07-20",
       "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNSHJvbjIyTEhrMU1UT2RzVXJabVZoWHBpQlQzem1NRmRIUWVBQ0RVQjdUbnM0aTdJNDJ0VEhrTFZfMTQ2bk91X0FzVHhiSTdPbmFya20tamhhR3ROWjJOY0hKRFIyaHQwWlRwdW1DeXlXSE5qUEN2cHVPNllPTVRlUnlBdEY2UVRKZ09xYTBSYUg5RkRUN3VtZTFsSHJGOUxWTEdFVVdxMWRQTEZXWHJFWGVuMmM4dlVQcllaY1gyeVRmelc1RmptZGxDY1B4ZERHM0ZnMHNmdUVCaVc2Q0RzTmU1Rkkzc3oxbkg3V3QyODdfc1cxZjdreTNMREhqVzJwOHpjbE5lTWY1X3hzMkpzYlh5anVvbm5TdEVyM3V3Y0hfMmtKQW1CMExLdHBLeE9HazJ1YlRDLWhyLUhjVWdvVU9qR1NkS3lfajJSSHYxM25OVGpocnZkTUh2NzNFUXBIT1Ew?oc=5"
-    },
-    {
-      "headline": "Zebra Technologies (ZBRA) Stock Looks Cheap On Cash Flow But Fair On Earnings - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV25hNDBZSGlTM0hFaVExX2M5VUlfeE9RQVdnemNSZFZJbDdCQjhYRmtZdUxZYUw2Y3RtQU5nVWFMYVVZbV9DT1o4blIzRGFWYnVJYUxidWtFU2tDZ2pHcFkwYlMwYVNmd1puQlBlSjVSNXFxMzdGT1dqYVllaUVOLWJkSTI3N0lGSWtkbEFGNWxZVERFbkFEUVc1UjVQekh6clBfTHJ6YWg3aVhSV2NjYjZaeXZyZHZxOW95Q19XNkVUaHptTGRqS0J1MjN4d9IB0wFBVV95cUxQakJwbXlib1ZDNXhvcHhnWVFJdDlCVXIxSklmS20xLW9GdTk1SkpyTndTbVJTQmgxNXBCOWVjT2owcFBHRDdzem51NmZQM043Zlpxd2J2aTJycExmamhURmpsOTJ3ODN1Q2lCWlBvSjE2QnJhdnJ0TVRrZVBhYXF2bEk4QjVIeUhoVGlFclF6RGxMV0FBNER3Q0k1SktHazJ6TEVTYnJ2b29wbHdnaW1WYkp3dEJEQVRzenJVN0M4TUxGaXgxNV9tbjlSbWpHX3Z1MHRN?oc=5"
     },
     {
       "headline": "Zebra Technologies Corp. Cl A stock underperforms Monday when compared to competitors - MarketWatch",

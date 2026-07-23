@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-22T04:47:22.339Z",
-  "builtDateUTC": "2026-07-22",
+  "builtAt": "2026-07-23T04:52:22.613Z",
+  "builtDateUTC": "2026-07-23",
   "source": "yahoo-finance",
   "1m": [
-    249.10000610351562,
     252.22000122070312,
     264.94000244140625,
     262.9599914550781,
@@ -24,10 +23,10 @@
     219.0500030517578,
     212.6699981689453,
     213,
-    210.5
+    210.5,
+    205.77000427246094
   ],
   "6m": [
-    304.2200012207031,
     312.17999267578125,
     303.1600036621094,
     309.0299987792969,
@@ -158,10 +157,10 @@
     219.0500030517578,
     212.6699981689453,
     213,
-    210.5
+    210.5,
+    205.77000427246094
   ],
   "1y": [
-    281.9599914550781,
     282.010009765625,
     260.510009765625,
     259.7200012207031,
@@ -411,29 +410,30 @@
     219.0500030517578,
     212.6699981689453,
     213,
-    210.5
+    210.5,
+    205.77000427246094
   ],
-  "lastClose": 210.5,
-  "oneYearReturn": -25.344018165947187,
+  "lastClose": 205.77000427246094,
+  "oneYearReturn": -27.03450333430582,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "After IBM's epic stock crash, Wall Street chatter is Big Blue should break up - Yahoo Finance",
+      "headline": "IBM Cuts Revenue Outlook Following Historic Stock Drop - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zVl9tanBxRXhTUTFibnQ3Q2FSaG53dmZmLTZEZ0wwZVRQaHFXbnpKcUxZUjdFdXNLczhvdjgwNUtsZ25YNkY3U2FUUUhINzFxRHlTT2JmejNlZmlBZmtzZzVRUkpjOXVYMFRHOHFVVDMtRjZK?oc=5"
+    },
+    {
+      "headline": "Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more - CNBC",
+      "source": "CNBC",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamxTYmdudm5nN3JYWi1UeG14bk1Ua1NocUhsSDBLeDV5Q2tsVDZsdGhsSHNmZFpoaEpiQ2hoSVk4Nk4teFJWTEJ1RmdPamtfM1dSTjVnZV9wdXBBM1hVY0RUUkdOTkl4cVM4ZXNTbTB0TFVfeFludk11TUg5ckJ5M0VVNTM4UzR1WjA2Q2VlZktibFJuM2kyYnhPUzdXWnFy?oc=5"
+    },
+    {
+      "headline": "IBM CEO addresses earnings shortfall and historic stock plunge: 'Our AI strategy is the right one' - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeXlNUFVlM2p3QVVQUkRuRzRBc3cxRmo0VTBwNDd3TFdYVnBTOHFhMGN1Umg4c1NuaFI3ZmdBcUJSWmNxTjNFdHVNTVRpOVc3OGdRN2stNjJDamdRUDlQTEJjUnljbkZLTzlhVmNEcGI5UVNvUDFVSXJsWGlVZTh4Ym9fcXRpQmVLQWo1eENaaWk2QWRWQ3c3REtQZmExVXVxcEJMdDQ2X054NHFaajZhZmctbjlWWGJCWlBVaW5uV3lFOW1wSEx5NDc3WVRsSlRSbi1hU3Z3?oc=5"
-    },
-    {
-      "headline": "IBM Stock: Analysts Cut Targets After Company's Surprise Profit Warning - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55YzFlWllaZnFiMFpyRWVzalMzVkEtaEMxdXh6VHRwRlNBS185WENRa3ZVVllSRGRRTUd0TFFTT0FwYkhVZHRFbVdBbXIzSHc5MjAwQWVBam5BT3lpNzRubHdRSUs2LU9BbkpRX0FrazlOT0o0T3h2UU9HS0I?oc=5"
-    },
-    {
-      "headline": "Is IBM Stock in Trouble? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yUnFTakJqeE1iUzlyNXVFeXZ0enI3cW1EaHlCSmxWTDRpZFFOUFN2R25aYlJUS1pvQ1IzdFlTZkI0QUFlM3lBckU2V1o3em9lS2FWdERnb3U2VUZ4YXNpbUNfaUs2NFp3SUptOG1yMm1nVFZX?oc=5"
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU1RPTVNhd2ZZLUxTa3QzOEhxcjBSU3p2T2hHYnNfa2l4bmsyMTR4c2R5NVJ1UXRTNkd1eTFmYmwxcmZpcnVNMFBpZHYzMkowV2tBYVFVUnZHdFFNRktIaXpxSmxQWnFWbnVnRU9HSU40VjZwSHI3UUM2UVplTUw3RzVpUGZ5RzlZVlk1S0UzcGJDVm9tOWZnRm8xbG5oZVBaam5Eb2FlMGNzUFBBWDZraFFWTkZSZGZ3OWd0WktQVV9VcE1STVpDUGpvLVd0MFRlRHcyc1ZneWJqRWgtRC1rTk15bVliQUE?oc=5"
     }
   ],
   "insight": "Tracking IBM (IBM)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-22T04:47:15.574Z",
-  "builtDateUTC": "2026-07-22",
+  "builtAt": "2026-07-23T04:52:14.534Z",
+  "builtDateUTC": "2026-07-23",
   "source": "yahoo-finance",
   "1m": [
-    68.68000030517578,
     69.20999908447266,
     64.4000015258789,
     61.84000015258789,
@@ -24,10 +23,10 @@
     58.560001373291016,
     58.380001068115234,
     58.790000915527344,
-    62.560001373291016
+    62.560001373291016,
+    65
   ],
   "6m": [
-    56.529998779296875,
     58.709999084472656,
     59.34000015258789,
     60.349998474121094,
@@ -158,10 +157,10 @@
     58.560001373291016,
     58.380001068115234,
     58.790000915527344,
-    62.560001373291016
+    62.560001373291016,
+    65
   ],
   "1y": [
-    45.79999923706055,
     44.84000015258789,
     44.58000183105469,
     44.88999938964844,
@@ -411,29 +410,30 @@
     58.560001373291016,
     58.380001068115234,
     58.790000915527344,
-    62.560001373291016
+    62.560001373291016,
+    65
   ],
-  "lastClose": 62.560001373291016,
-  "oneYearReturn": 36.593891736724245,
+  "lastClose": 65,
+  "oneYearReturn": 44.95985677700449,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Freeport-McMoRan Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNlNnN3c5dndxUDRBYkRxSzBocFF1NS04QUhITkhLdTNMVF9Ba0QzaVd0XzRtalg5ckMwZVNkemtVQzIzLXZTT0trM0J3d1FnVHhnNUtIU2djbW9zMkplVi1mSG1xV3VrOS1tS1hfRGROMEtQczdDZmptWDUtNVFCQU93TkMwdDFuVkpzTjV6X3FLaExvWGtJLVFWRV82d2s4eGNzTU1WNVRIQjdhX3VNQjdKOE9vUkUtOEllMUJVMERiV3JFeG01M3Bsczg?oc=5"
+      "headline": "Freeport-McMoRan Inc.’s Stock Price Soars to $65, Marking a Robust 3.90% Increase - Smartkarma",
+      "source": "Smartkarma",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRFRWeGRvMFdGbG05MjFCOXlpc09CSmRHWDZmOWp1czZDOWhMQlVRanozdks4MU42SmVsVi05QkRFYlhCMzZOWV9TeWFlc0xFZ2t1MUR0Uk5rNDVIYjdRMXJWMzN2US1SV1B2Y3JUTHZLWng2QzJBU2QxcjB5d05la1cxVG9laUp5Vnpab3VtX1ZDdWtOMC1DNGlrOEdNZTNqRGJ4RGZwVWRjZV9JVm5sVExJeGJlZ2RGOW1JUER1SkZmQQ?oc=5"
     },
     {
-      "headline": "Freeport-McMoRan Inc. $FCX Stock Holdings Lessened by DJE Kapital AG - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTFB0bkF1U01SUHFueGx1enF0a1p3TjBDVmM0WG1nMHNwNUI2M0tzS29md2dMQkkzWnUta0VhQjNZR3FLSktNYkNFRE9FNTZGSnQ0MWhiZnk5bFkyQnAtdHNEbTFDc01wY0FGZ2ZhamhYS3lpNVIwWUtoZ2xGeG9DRWxqVThmcDVHbF9NOElDZV9KUVlScVpkcmVnOHVmLUlIM3A5X0ZuQlNxdGNaSUJNcGJLcGVmVUExU21ZN1FCNmc4R0V5V3c?oc=5"
+      "headline": "Is Earnings Lift Amid Revenue Drop Altering The Investment Case For Freeport-McMoRan (FCX)? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMDhvT2p1X1NMWXk0cUp5WmdPcU5mRXduaWphc2JiMU5aVDFtZkFaa2VONTZZRW4tcGlWaTNqQW9aY0g0YWRCSDFzR2RUZk1IMXhOUXEzT0JsSlI5SU5VcFZLZ2xDRW5IUlp1WTBZZjUtZDdtMlVsUEpFRXJQaGV6dVJ6NjRVY0JjWUxlYXhnRlNVa0xXeHlZS2VNcHBQU1RYVTYyTlI0SzhGUXZQeENXTzctbWtjMmJ2aTR6dlFPc2NsUVAxSEtWMU11TzhEZ9IB0wFBVV95cUxQbUxPSnNiXzMxQjE3UzhhRUVsZDNDcHh2YmhQNDJvb2gtUll4M1drQnZ6cDNDbjlZQUhCZ1ByRExLOXVDSDFMeXpLSzh6VjVqdjlQaGZaNExWSEJEclBfbTZwUFBRaG1TUG9IWHpwTWU3dmJZRGpwZjJzbk9NNzBjWS1VM1lpV2FkWXZhdkIwNXYwVC1abzFMVGt0RnpXLXk1YURMT0hYSFZsOWVfeDVXVl9kWi1NYk1JOUJTcVBlazhlVWpNcHJ4Zkx4RnlicjV2WWVv?oc=5"
     },
     {
-      "headline": "How Higher Profit Forecasts Amid Lower Sales Expectations Will Impact Freeport-McMoRan (FCX) Investors - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzVRTHdmTmZCS0VzQU5uX1JuMWNVbVhWaFNhRDVobFgwbXJuc01pR0VtRDFJN1V6eWdZMDFEa2gtVkZWN2FiT0UtbHBHeGk2Q1M4by1lMGxWSlFyMWc5clBxWUVGbk5jWXZNT0U0VjJPN2hFMkw0ZzVfLUNtSklwVEhNMEJLaE0zampldXo2Z3VCdUtuQjFKTF96S3dCQnlS?oc=5"
+      "headline": "Freeport-McMoRan Q2 earnings on tap: What to expect from FCX (FCX:NYSE) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2hSVE45QXozXzhrUl9RYXN2a3ppWVRxNWZPSVRhaWs3SXpaV0w3a2NKMkoxeVRZMTctRGhxNU5sbUpxa0FwR2Z6Mk1wU1VaYzZRcnFsM3RZR1FkelRDc1hqZ2xHTkZST1FPNC1aV2szSUxCdG5DT2NjYjdoU1ZvSC13VFBKdDFVN1UzdVkzOF9aMUNHNWNzZ3lzZElmUQ?oc=5"
     }
   ],
   "insight": "Tracking Freeport-McMoRan (FCX)."

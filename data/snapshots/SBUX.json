@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-22T04:47:35.137Z",
-  "builtDateUTC": "2026-07-22",
+  "builtAt": "2026-07-23T04:52:37.585Z",
+  "builtDateUTC": "2026-07-23",
   "source": "yahoo-finance",
   "1m": [
-    100.6500015258789,
     100.1500015258789,
     101.05000305175781,
     103.52999877929688,
@@ -24,10 +23,10 @@
     108.37000274658203,
     105.48999786376953,
     104.80999755859375,
-    104.44999694824219
+    104.44999694824219,
+    103.9800033569336
   ],
   "6m": [
-    88.87999725341797,
     89.95999908447266,
     90.55999755859375,
     91.1500015258789,
@@ -158,10 +157,10 @@
     108.37000274658203,
     105.48999786376953,
     104.80999755859375,
-    104.44999694824219
+    104.44999694824219,
+    103.9800033569336
   ],
   "1y": [
-    96.94000244140625,
     95.91999816894531,
     93.69999694824219,
     94.41999816894531,
@@ -411,29 +410,30 @@
     108.37000274658203,
     105.48999786376953,
     104.80999755859375,
-    104.44999694824219
+    104.44999694824219,
+    103.9800033569336
   ],
-  "lastClose": 104.44999694824219,
-  "oneYearReturn": 7.7470541754682,
+  "lastClose": 103.9800033569336,
+  "oneYearReturn": 8.402841265480504,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Brian Niccol's Starbucks Turnaround Is Quietly Working -- Even With Profit Cut in Half. The July 29 Test Comes Next. - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLXozLVZqUGVWSmlrTkVVamxlNFlRTFFKM3VaSXZHSFlKMkxFYURxZGt1QXB3SXFkS2pBcWVhajNiWEF6Ylk5TktmWXRwX2tYa1pMQWdqT1BaZFBkaW5PUF9wb0Zsa2hIT2U3UXFtZVppcEZUZmZkZ1FvQTFid09zMldPbFhOSkk1dWlEdGF0bWYyLWJtdklWbw?oc=5"
+      "headline": "Starbucks’ Stock Down 17% In Five Years - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDl5QVRDcF9pTF9oR1UwVl9HOTF1UWk0X2dZSnFpbnRnU3gzX2lFNGpxYVFVNHBua0o3Z1BKcU5QcDdoWHB0aXh4QnBqUTRNczI2TkFCQ3pjLWVvNThtbVEwOEF6akUzb21GbjFrcTVBd2hJMXFOVnp0eERaWWdZWXl4VVdiQXlB?oc=5"
+    },
+    {
+      "headline": "KBC Group NV Cuts Position in Starbucks Corporation $SBUX - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXNiZlZHM3ltYk43cGczMFhMMTlkanhQU2hfcHVVTmFOUXk0RklfYVh6TmRmdUx2NWlKSEFVVFVuMGRLeGIwZXJVdEFpei1QYW9uTXNMWkZpZXhCSHRSMFN5UmdTSzh4T18xdl9rdDdJalpfLVlYNkdCSmRXLTNkdlEwQ1lTaENKa0hCa2RXcElYRzhtQlIxbWQ3NFd1RXllMUlzSG1Oc0J5cGV3T2xTWmRGeTgzR3dr?oc=5"
     },
     {
       "headline": "Starbucks (SBUX) Stock May Be 49% Overvalued Following AI Cost Cutting Plans - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-19",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVRQN0R1TnpHTkVSS3FVVTdHZ2RfOVhDX0gxbXZ0VmZwM21uQV9rTUNwT1J4SGZ2UUNSTW8xeDFuMG9EcG04Q0RlUEtTbXpaT29xNGxPMUo0UTNUNkpMVDV1cy1QdmdIbXU4OGNZWEdUaEJsMDRFNHM3Ri1uVHI4ZWlUVjI0bWNlcU9xdjlmMHZXcW9WNlRORV9ieVNBQkVnMVQ5MmtfalA3NUltcE9hamtuRDJJVmpQcnctYVctaUxvTjM1NnZJWWJMNGhzTm9ZZlHSAdcBQVVfeXFMT1dDM1BLUE8xVDFhWUdxN1lEQTBXTGduMDhZd21yTFFEd0Z2eXZneU1yWjV5dW5Wa1NyRl9kTnZFWWRxVi1xZTRld2ZBdDFRQWVUZUtmaV82WHRuS0dtT0ZDbXpqRk5XdVBlbnM5VENOSzZ4a0NWRG9adVgyeHVpeVNpODlhaV9KUE45NDJoNGlrWkRHd3VVSWNWZVpVdEVkMzMzQURSMjVwTDlsNGlEazZpZGlCdzBSUWpQOW9MbTZCemYtOGNoOHJPaTJnTnJKeWZHRUtlT1U?oc=5"
-    },
-    {
-      "headline": "Can Starbucks Turn Traffic Gains Into Sustainable Earnings Growth? - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSFJJN2VXWFpHaGppNDNQME5hSzZFaVpZcFNYX1J1ZFBDR2VjMTNqbXNuMkpkdFR0RlloS3N5Qk1YV3lwVnY5dlNQYXVFeUhZWnkyTnBjQzJGdkI5aGxGa2ZaNXZfNThnZG1qWl9vT0llNjFyMm0weldpdVZ5RzRqR2U4MW5SVGd3UWFlaU45WFVPV3g0N1FCbWV0NW9McDY5UXJVVHJacEUyZnh1LUpWMnRVdUdCQmFaUDA0OENB?oc=5"
     }
   ],
   "insight": "Tracking Starbucks (SBUX)."

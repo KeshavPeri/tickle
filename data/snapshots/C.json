@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-22T04:47:02.098Z",
-  "builtDateUTC": "2026-07-22",
+  "builtAt": "2026-07-23T04:51:59.399Z",
+  "builtDateUTC": "2026-07-23",
   "source": "yahoo-finance",
   "1m": [
-    143.05999755859375,
     145.6699981689453,
     144.97000122070312,
     143.58999633789062,
@@ -24,10 +23,10 @@
     131.7100067138672,
     129.36000061035156,
     128.72000122070312,
-    132.83999633789062
+    132.83999633789062,
+    132.25
   ],
   "6m": [
-    121.31999969482422,
     117.69999694824219,
     116.30000305175781,
     112.41000366210938,
@@ -158,10 +157,10 @@
     131.7100067138672,
     129.36000061035156,
     128.72000122070312,
-    132.83999633789062
+    132.83999633789062,
+    132.25
   ],
   "1y": [
-    94,
     95.98999786376953,
     95.38999938964844,
     96.06999969482422,
@@ -411,12 +410,19 @@
     131.7100067138672,
     129.36000061035156,
     128.72000122070312,
-    132.83999633789062
+    132.83999633789062,
+    132.25
   ],
-  "lastClose": 132.83999633789062,
-  "oneYearReturn": 41.319145040309174,
+  "lastClose": 132.25,
+  "oneYearReturn": 37.77477127116016,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is It Worth Investing in Citigroup (C) Based on Wall Street's Bullish Views? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUdrb0VEb1lDeVlkT2o3c0lueXZPRG5lQk1pamZmbTJrOGNFQ2tBbFpLQUxXMVgyZnRBV1c2MzcxTmxWdVdOQmU1cFRuM1hhOFltSERTWjU1THlpU1dtQWk5blN1bVE3cVRrUUtzQm9ib1BPcWdXTW5oei1wSzIxSkxMaWYybUhIQ3dlV0tKSEw4Y3RZbmM0SkJNc0Utd28?oc=5"
+    },
     {
       "headline": "Citigroup Declares Common Stock Dividend - Business Wire",
       "source": "Business Wire",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPek51cXo5NUhBZ3RiOGlqa0otWTRqNU5kbFg0VVltVEJwUFp0LWVhWTZ0VUR2U1g3SEJTNVNORUcyeTM3RGp0MkZSWU1PMm9uc3RlTmk1ZkRWcXV5UmFLemFfa0FpczJSWTBMaVVVeHVHLWtsRjFBUnVhME9PUFB2V1o4Ml9pcFJMdzQ1YV91cXp5cDZObHQwMjk5SGFFdw?oc=5"
     },
     {
-      "headline": "Citigroup estimates revised after bank flags higher expenses, stock tanks - Reuters",
+      "headline": "Citi shares fall as investor worry over expenses overshadows second-quarter profit beat - Reuters",
       "source": "Reuters",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSlV6N1YyNWx5NkM1VUhFdGY1QWhMQ0pZV0lmOC1oSFlJRVd0Q1dmMnZBZHMxb3hXZ1AtbHJiRHc5bmRBZ2t5b1lwR08wSE44a1BQZ0Z6REg2Y2dWNFpMNEZQX2dGT3RUeGFRdkNObEtXTnFwVE9rUUltNkVaQlMtQV80Y0NLa0I0cS02dW1LUlBFS3p3ZHNGU3NGR1FOSURxRlZFSjNCLVJQbXZiMVlpZkhyZzJ5TW9PSmdmTnBrWVBUUU0?oc=5"
-    },
-    {
-      "headline": "Citigroup Has Lowered Expectations for Royal Caribbean Cruises (NYSE:RCL) Stock Price - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZDd5b0ktRWRPTXI1QUdNRUxPNjhpVndFM3NVSHRXUlRfV2tpbXZHOW1KUjNzSWtwdGNRcG9jdmpadlJvTUZHeDNYRFlyeE9BSnU3TTNvRElkeFQ4d1RqLXkxc0l4NUsxV3U4QkdLbjlCa0wxRGxhTDdFU0x5TUJDcVl4UHRWSEphaHRUQ3l2dnJmOGU1QXJLdy1PeEdNeFV4eXhZYkU1MHV2enM1N3lwOXZPMGNSVnlSNGcxd3UzbjJQRDk2WVZocXJhY3FvMWZjUmc?oc=5"
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmxNRmQ0bWI1bFJtbXgxTUVPTGgzRmNxMUllSFl4ejVWaXVrOGVCSnhqRVNBMDJGNG56WVBvQ0t1QzFKVkhrMXpOcWpZd00teVZ4U1B6VGZQTmFLdk5hNGx4RThTUkVDU0czSlNoN0JBSXVHbmV4b0FZWFgwRUxIRE92TUswVmZJSHoxSGZwaHpVblIwZ0VyYWViY3pXR1BXSXBjbFRwYTk0WUxLZGNWSjRXcFBNODJpMzVnXzZfZGk0UQ?oc=5"
     }
   ],
   "insight": "Tracking Citigroup (C)."

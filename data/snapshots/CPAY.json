@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-22T04:47:06.477Z",
-  "builtDateUTC": "2026-07-22",
+  "builtAt": "2026-07-23T04:52:04.181Z",
+  "builtDateUTC": "2026-07-23",
   "source": "yahoo-finance",
   "1m": [
-    345.2799987792969,
     347.1700134277344,
     339.3599853515625,
     344.260009765625,
@@ -24,10 +23,10 @@
     371.80999755859375,
     365.7900085449219,
     369.2799987792969,
-    366.1499938964844
+    366.1499938964844,
+    359
   ],
   "6m": [
-    331.5,
     330.7300109863281,
     331.0899963378906,
     327.7699890136719,
@@ -158,10 +157,10 @@
     371.80999755859375,
     365.7900085449219,
     369.2799987792969,
-    366.1499938964844
+    366.1499938964844,
+    359
   ],
   "1y": [
-    334.2900085449219,
     344.1400146484375,
     333.54998779296875,
     335.8699951171875,
@@ -411,10 +410,11 @@
     371.80999755859375,
     365.7900085449219,
     369.2799987792969,
-    366.1499938964844
+    366.1499938964844,
+    359
   ],
-  "lastClose": 366.1499938964844,
-  "oneYearReturn": 9.530642417414985,
+  "lastClose": 359,
+  "oneYearReturn": 4.318005671831853,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORThQX21mZk4yQktrWkNGMUY0M2MybVZsT3dXTWZyaE5YdkNpbEhLVU81Sm5rQzNBdV9Dem1ucG1LTzV6RjdXY0ZpdWJObFdOUG96LTh3aC1lTm4zYXhCZnR1UHBheUZub3REVjRjcUc0ME9WSUNJdzJnOXNSYUt1OTNMTUVMcEFUU0syRHJ3ZFZ5QmtFVXBablJ5andHZFMz?oc=5"
     },
     {
-      "headline": "Leith Wheeler Investment Counsel Ltd. Trims Stock Holdings in Corpay, Inc $CPAY - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTHI5MlBCWkhvdVBYUVBoM1p4NUMxeEE1R2RvaUJURm8tb0EzdU43aGh4cEJrbWpBTXlLbE82ZXRmNmtmYy1RQWtDano2VHFsa1djd1E3UWl6SjQ0TkRsMUI1S1EzZy1lN2kxenk2WlVsUlhkdnlwRzJOVDNWQklMeDhWUEoybnNENnR1a3FqeC1ORldITXcySHJkR2lGSklDdkExakRIOWN4QjNrS2ttTGtLNGNobDFheExkMi1iNmM5VWVYbmtEVDFySXZGb1dVandB?oc=5"
+      "headline": "Corpay will webcast its second-quarter results call on Aug. 5 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOXzVSekNlMjVqbmpmY094dUUxdXl3UDFFcEIwUVpsTkVySEFRWU9iZmFrNnhISE94UkdlbnRvS3VwT0p5ZTFrbEh4U2VfcXlsNkFZRTk5SWlPZ1BRc1R3elRnZ0RHdjZqX3FPVV9WT3FjWUJtRTAzSDVGajNFLXREQjBpRXZCb1NWZFQ4N2hRV2ZnOGY1Q05IdU1tTFB5d1BfcTktTGg3eDI4Rklaa3YzbGx5WQ?oc=5"
     },
     {
-      "headline": "Corpay Inc. stock underperforms Friday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0ZJbWt6QXkxd1NDSlA4VWZhYVlNakoyd0xiQTkzUllxNkRUUnVlMlpueWpVQ2tqdmV1X080X2U3RGF5bE9SOUZBa2RLei10Ymx1M0t4OFBRNDNTMzR1RWx5NHE3Z0hDbHVJblp6Q3R4VjJyZXhoY0ZEUWFGQnNzQlFKNU5NbUxvSG5nNHJsT29hU3hLMFJVRktzaDJUS3U1VjNmUGJBUjR5WGpKSlNZQ1BrWXRNTjZQX2J6NUVyc1dDQkJF?oc=5"
+      "headline": "Swiss National Bank Has $56.76 Million Holdings in Corpay, Inc $CPAY - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZy1jQS1sVzB3MTR3ajd4eTFLd0JxeGhZX085UlIySzVGZGR2QWlacFdmeUt6a0ZUbDFCWkhERktvTlBWdld2bVo3cm5oT0ZEVzRxbVhidnJJdVpTbFhmX0tFcXhkdVRwZkNHS2ZvV05FZDcwNnJhVFA3REU3MjRFUEIxYVNKeC1lUDQwZTM3VVpOZUZHemVMdlRtaHdDdUt4UHhkd1RMSktna1hFNnN0dmNxUGpWNHZOdnV0VHpSdklVU0E?oc=5"
     }
   ],
   "insight": "Tracking Corpay (CPAY)."

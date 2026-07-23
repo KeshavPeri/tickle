@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-22T04:47:30.816Z",
-  "builtDateUTC": "2026-07-22",
+  "builtAt": "2026-07-23T04:52:31.899Z",
+  "builtDateUTC": "2026-07-23",
   "source": "yahoo-finance",
   "1m": [
-    159.7100067138672,
     158.30999755859375,
     157.82000732421875,
     155.55999755859375,
@@ -24,10 +23,10 @@
     159.69000244140625,
     163.8800048828125,
     161.16000366210938,
-    165.75999450683594
+    165.75999450683594,
+    166.5399932861328
   ],
   "6m": [
-    105.38999938964844,
     107.02999877929688,
     107.27999877929688,
     107.66999816894531,
@@ -158,10 +157,10 @@
     159.69000244140625,
     163.8800048828125,
     161.16000366210938,
-    165.75999450683594
+    165.75999450683594,
+    166.5399932861328
   ],
   "1y": [
-    104.94999694824219,
     105.87999725341797,
     104.66000366210938,
     104.94000244140625,
@@ -411,12 +410,19 @@
     159.69000244140625,
     163.8800048828125,
     161.16000366210938,
-    165.75999450683594
+    165.75999450683594,
+    166.5399932861328
   ],
-  "lastClose": 165.75999450683594,
-  "oneYearReturn": 57.94187644291519,
+  "lastClose": 166.5399932861328,
+  "oneYearReturn": 57.291270878604635,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "StructureCraft Uses Hourly Snapshots to Recover Design Files - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUtEQmxPenB5T3RIZkxYT0ZHZzZFdFFkNF9obnNaSnFjR3NkWERYUG53ODExWFFEdDVERFFWMmtWcjhXUXpsWHVRd3dXM01fcFhHRVdIOTZQTGs0eldpTE9oTlZtNnZhcEJoQlFveGpJZ0xLb2dPcUpiOXV5alV3MEpnN0FpdEhpdnpZemFiNmJqWXJuX0JDa2QzX2lYRjYxcGlGMEh3?oc=5"
+    },
     {
       "headline": "NetApp Stock Pauses After Earnings; Support At 10-Week Line Could Provide Entry - Investor's Business Daily",
       "source": "Investor's Business Daily",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONTVoQ1NnU3FraWx0OGFSNE51c1BqSU9NOGxJRkk2cnJPcnVaQlVYRFpvNXBPU1ZfamI4ZVlfdjhqUzJRYzhkeGtJUmlsZ2dBbGNydllLd2tWVml4SFl5T2ZueWxOOGNOSUdmSW1uVzNTek1GeG01OEtzUGdDcjRFcjhUWUhlRWY2MWQ4ZGlqbk05M0swMjJ0TXQtY3UtVkdkN2l4SDFmSmVnWHlLMlJGRjFIWWwtVmF3MHVvdzNUeFVUdw?oc=5"
     },
     {
-      "headline": "NetApp (NTAP) Gets A New 2x Long ETF For Short Term Stock Trades - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcTRiRFN0MHdtRXV4U0kwVlRTd25sZ1NSdUtoeW1yS25jX1I1dV9IQ1JoX0xheEgyQk9RRFhMUmxUS1I2bzR0SGw3NmRzek8ybkZrYm9rWV95S1Fua2tvelF3NGNJV0g4X0sxbkhXYnAxcjR2SldkZ0R0ZEZNWkFXcFpYUk9oem9FQXBwQzBpcjVmeUU?oc=5"
-    },
-    {
-      "headline": "NetApp (NASDAQ:NTAP) Stock Price Down 6.5% After Insider Selling - MarketBeat",
+      "headline": "Swiss National Bank Buys 35,400 Shares of NetApp, Inc. $NTAP - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjgyTEhaTlZHc0ZmeG5MaFVJNDBuY0F2RHB1VFF1OHJwcnB2RDFNOUpXdXR2ZU1XaExxYlR3XzViRl91VnV2eG5YT2g1WWFZemNSQ1BpZ2NpU1NQeEx2UUhXZGV3Nnl1YThCeGFKN1dCR1FFbHl6Slo3b3JYak9WRG43ekdpc09VRnZqWXdHV09QVTVxX1R6bkJlem9Pd3NXbVplWklkLXpYZmVRQXRmV0dGZw?oc=5"
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeVNrLTczR2dabUNmUXYwLWFOZlJ5OFRxXzRMQVlzUHdUSU03WXRnd1Z2aUN1UXhUcVlYZ0JxN2tMZGpEX3dHVmRLX045T09oTnZBYVliVnNLeEM0NlhDa3kzczFDM09XOWpNVDlEeDJRalVPRndKekw4WHFjV2ZtbHdYMU1zVzhGeHhla1N0anVrTWIyV2VYOFN2Wm4yVkppdnpvRFltVTNkclVxeGwtUjlteDFqRzlj?oc=5"
     }
   ],
   "insight": "Tracking NetApp (NTAP)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-22T04:47:35.217Z",
-  "builtDateUTC": "2026-07-22",
+  "builtAt": "2026-07-23T04:52:37.603Z",
+  "builtDateUTC": "2026-07-23",
   "source": "yahoo-finance",
   "1m": [
-    91.69999694824219,
     92.02999877929688,
     93.16999816894531,
     91.38999938964844,
@@ -24,10 +23,10 @@
     102.80000305175781,
     101.55999755859375,
     102.54000091552734,
-    99.95999908447266
+    99.95999908447266,
+    100.80000305175781
   ],
   "6m": [
-    100.16999816894531,
     101.9000015258789,
     101.18000030517578,
     101.91999816894531,
@@ -158,10 +157,10 @@
     102.80000305175781,
     101.55999755859375,
     102.54000091552734,
-    99.95999908447266
+    99.95999908447266,
+    100.80000305175781
   ],
   "1y": [
-    95.38999938964844,
     95.1500015258789,
     96.5,
     97.05999755859375,
@@ -411,29 +410,30 @@
     102.80000305175781,
     101.55999755859375,
     102.54000091552734,
-    99.95999908447266
+    99.95999908447266,
+    100.80000305175781
   ],
-  "lastClose": 99.95999908447266,
-  "oneYearReturn": 4.790858291293948,
+  "lastClose": 100.80000305175781,
+  "oneYearReturn": 5.937994151626175,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Charles Schwab Q2 earnings beat, but expenses disappoint (SCHW:NYSE) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTGlFYzJVMFR0QWZFREpBWU5RdGRuamQ5YXE3T3I3bENmdTFNVWpTYkhaLVF1NTBUQTR2eUV5aEVUVFR0S1lnQlVVT2tER2lHRXBCcGdEWGVLdXI5VGtIeTlfRVJpdmQyV0swSTQzMmE0N01NSlYyWjhXUkZ1N2ZuSmdfTzhhOEE0REZZOTdnRUZkaUV0WlJ3Zg?oc=5"
-    },
-    {
-      "headline": "What's Going on With Charles Schwab Stock Tuesday? - Charles Schwab (NYSE:SCHW) - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUjhaZUc4dFZlZjZEMGlYQ1p0UURWNWt3SUctQ2NRWkFjUHlLRHJiSnRjM3cyZ24zY1ZqamdndEJmSlpFY2tJNlp2Q3JnZ2Q1QnJUdnNaOEk4VEpjVGtjRi1VWkROUVlJdmtxT00tY1E4SzNvUFF6R2pIUTFodjhaSFdLaXlUMFNtMk1VbXItS3ROeVNROEp1MV90SnoxZmJBYzBYQlA5VDJLUTlZczRaSFVDRjdjREZ1QXF3ZVdvdzZsd2VySnJQWHZwVmU?oc=5"
-    },
-    {
-      "headline": "Charles Schwab profits surge as retail traders bought the dip in a volatile quarter - Yahoo Finance",
+      "headline": "Charles Schwab (NYSE:SCHW) Beats Q2 CY2026 Sales Expectations - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2NjV0FGNGhZYmZKOXY0eVdOSExDOVZob1BUWVpEVUhBaXZfYTVaVUwyd3Jka3JoWE8zRWZHV0xmU094WUczREtyd2dpcVlaZnZ1MHZPeXJ4Z1FLd0o5Y1ZpM21uc0FnZjBNMGtGZzlnS0Q1Y1hyTHdjS1JOdFRWdEw0ZGozUGhtSHh5STR3NXdNSmdYR0g1SXVNWTY4QlowSXlBRElDUjhWVkZuYlk3Y2wzdl9Lc0l0Tmx0V0VYcHk4a2VOMEgtMnJweUl1dTY4UTJIcWxycw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWY4YUxaV1VSLWpXQjI0TE56X0NxWHUtaWRqdWtpSjdQRXFxZjE0LTFIU0JCNUpYYWVkcTg3V0NYNk9EZjY1NXZ0TGkyc0hlcGc5RVhhY2JwV1RxQW1wakRSRmhUR2NZV0Z6RlQ1OG5jQ2Z0cjRILVVkc3VlQTRPRkx6UkFOclJ6TjlxVUJvaVBudGJCWXJIaGRjNA?oc=5"
+    },
+    {
+      "headline": "Charles Schwab downgraded to Market Perform at BMO after stock rally (SCHW:NYSE) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTC1Da2xhN2lwZTRzRG1ZN1pHN1hhdEk3b2hyamFxcDdzdWYtUml3X2RTM2d3XzJvR3NLMzdKUWVybUdGY1JyOE1TY2hRTElFVTRyM2IzX3VOV2QwLWFXM3d3MVVob0k2MEZzeEtHRkNsRVJUM3BoSVE1c2pKRmpZZWdHUEFqRDZpZWFYMmdmRERUdHhPeXRlenpWaDVkY0hqaHBIWjVJQTJZZw?oc=5"
+    },
+    {
+      "headline": "Charles Schwab’s Earnings Base, Growth Opportunities Continue To Expand, Says Bullish Analyst - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN2p3OVVXbWxtdkw0Vm9VY3AtMVRET0tVUnpKTGlsZHZZMEE3TGV0Q1Jacml4RXpEWk9INGJESmNuUzZKMWVyTG1JV2RXank3ME1NeFZEdlBiTEhLaDQteWxaMEdkSzJ5X2xVYkJvaEl0MWtwU0ZsQnpXTEk2b2VMQllNRnV4OUFiLVpRVi1vZVBhaXFuaVl5ZnpuUWRHcnBabm9yMmNFenBxdDVMOFVWXzZWOXFTb2lNOXVub3ZkN0FCYkVNM3U3SDhLRWN6Y2E1RU10TERhRWNuZEY2bE9iVXFEbWxEU2tfYmhXSmU4YXhlbXhiMHdmc2ZB?oc=5"
     }
   ],
   "insight": "Tracking Charles Schwab Corporation (SCHW)."
