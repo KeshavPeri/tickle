@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:51:53.622Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:48:29.790Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    313.6300048828125,
     320.739990234375,
     325.4800109863281,
     315.95001220703125,
@@ -24,10 +23,10 @@
     367.2099914550781,
     362.7799987792969,
     359.3999938964844,
-    352.3299865722656
+    352.3299865722656,
+    355.7799987792969
   ],
   "6m": [
-    350.489990234375,
     344.5899963378906,
     346,
     344.8399963378906,
@@ -158,10 +157,10 @@
     367.2099914550781,
     362.7799987792969,
     359.3999938964844,
-    352.3299865722656
+    352.3299865722656,
+    355.7799987792969
   ],
   "1y": [
-    357.2799987792969,
     356.6099853515625,
     372.8900146484375,
     369.1600036621094,
@@ -411,12 +410,19 @@
     367.2099914550781,
     362.7799987792969,
     359.3999938964844,
-    352.3299865722656
+    352.3299865722656,
+    355.7799987792969
   ],
-  "lastClose": 352.3299865722656,
-  "oneYearReturn": -1.3854714016860006,
+  "lastClose": 355.7799987792969,
+  "oneYearReturn": -0.2327435030871012,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Aon PLC stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM016WkpLeFNLa3RFQjRvSExBdUFqWDNJUUtMcF9xUUdqT0tWNkdFY3I5Sk9hYm41RlYwZnFTQ2pMTWhXYkZVS2tFRzlYNkFzQXJ2Vkl2cU03NG1JMjRLeU4zcTF5V3BHbHVYRnRCT1hXdS0xNGVCZjZyWnJpWWRxeV9MeDFEMFVXSE9pUmFKbzBtelNmMFpmZVBhQ0NTVkVFYVladS1pMjBkSUVtdTJJV2VEbHBSb29IRDRFQjhYOHp4U2xZT3FvWGZhblhRWUppWHFxYzNSUmY?oc=5"
+    },
     {
       "headline": "Aon plc (NYSE: AON) counsel trades 1,950 shares under 10b5-1 plan - Stock Titan",
       "source": "Stock Titan",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa1piUEgwU2lhSk9ucUdDUnlCbUI0dGx2MWdnSVZDXzlhZ3lvamxlbWRuNTlheHU1cGU4eGp0NmxuTy0yVDJFSldORGdrZ3pDZGphb1RWXzNFenBBMnZzYkY1bzV3QVAyX0xsQmduSE16XzlSN2J4RjFOb1pWVndMTEV1NThOYVdVWElnRXAxeUFnQVZpOFRiUUc0cmJMOXptc1E?oc=5"
     },
     {
-      "headline": "Aon PLC stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1AtRFVFUjl5OHRuSHZFMlpoVEFGai16eE1vdVZHbHV0ZGVlMUdlUVN3VFVIV0I1QkhRbWRHUThsOUNWbGR2YmhGMmlGR3Y3MGlrSWlFUlNSVG81dHU4MXNhNlJ5aE9RVHB1bTVfVEx6N3VUWDdzaHQ2Z1RSaXFWamc5aTRqTjVua2dlQklTYWFiS2N3WTh2b0FPUUtpeERaLTVSZEdxQ2hQTHBKTUFYcXh4NWgzVFdBV2pnWmxKYVA?oc=5"
-    },
-    {
-      "headline": "Insider Sell: Darren Zeidel Sells Shares of Aon PLC - GuruFocus",
-      "source": "GuruFocus",
+      "headline": "Aon Has Grown EPS Every Year Since 2021 and Raised Its Dividend for 6 Straight Years. Is the Stock Worth Owning? - TIKR.com",
+      "source": "TIKR.com",
       "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa29vVFBxZ1ZVS1UtQjBXSnRobUZrUUtNT3RnSzlWRm5xVnI0VnVaYUh4R3NIUUhiVV9zaFlEVGNEa2VPcERzbUVnMmUyZVRINjMxcUI3TXl1WW9wbDBUV1BxRi1mWS1tWF9MY2V5NzYyLUI4UzZ5Vnd4eXhyaEdLV1pmVTh5ZGtEbk9LdlhnZjZvQ05QTk1pTWg5OTR5aXhlUFQ4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMnZKM3EtbUQxWjBzOTkwdWN5QlF5YmRZdzZYdkNSbko3ZFlOTUhPOHVjNGNWWFNHVGxrUG5iNGFDSWhGQXIyblNtNUUzUG1iNVZTcU9XUFBYT3hkUHpBSEpGZnpueVBwVEtvNWpjTVlfclg0YlhSaGE1ZDhCX1lLcHVwUnF2c3h2aFdOWm4yeDVmQThKUnlTaUtOaVExS2htZlpFQTNxQjVvNzJLLWdjWXR1Zjc3NU4weDNUTU1fWHl1RW0xWUZkdEM1RmI5bFhzV1E?oc=5"
     }
   ],
   "insight": "Tracking Aon plc (AON)."

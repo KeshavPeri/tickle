@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:52:13.968Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:48:46.387Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    14.109999656677246,
     14,
     13.84000015258789,
     14.109999656677246,
@@ -24,10 +23,10 @@
     14.229999542236328,
     13.989999771118164,
     14.270000457763672,
-    14.420000076293945
+    14.420000076293945,
+    14.149999618530273
   ],
   "6m": [
-    14.029999732971191,
     13.979999542236328,
     13.84000015258789,
     13.8100004196167,
@@ -158,10 +157,10 @@
     14.229999542236328,
     13.989999771118164,
     14.270000457763672,
-    14.420000076293945
+    14.420000076293945,
+    14.149999618530273
   ],
   "1y": [
-    11.380000114440918,
     11.260000228881836,
     11.470000267028809,
     11.279999732971191,
@@ -411,12 +410,19 @@
     14.229999542236328,
     13.989999771118164,
     14.270000457763672,
-    14.420000076293945
+    14.420000076293945,
+    14.149999618530273
   ],
-  "lastClose": 14.420000076293945,
-  "oneYearReturn": 26.713531909330545,
+  "lastClose": 14.149999618530273,
+  "oneYearReturn": 25.666068658112508,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "If You'd Invested $10,000 in Ford Stock 10 Years Ago, Here's How Much You'd Have Today - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDd2dEVXV1E1SHJBd3B6RFNWMVdMaGEtMm15UXpQWTZlSUJvcXByWjVYRExJbXFtMFlxOXVOeVQ3bmJfSmlCcEJxRUhZanZGM1U0RE1pa2hwX1dZODFxQWJtUV9Pa0htRHAzS3Z1SXExZjBQX19wNHdBY2xWT1h3dTZGRVE0cjFIMHRNNW0xbDViVU1sOVM0?oc=5"
+    },
     {
       "headline": "Ford Gears Up to Report Q2 Earnings: Here's What to Expect - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS29DNkVxUFQweHNqNUZhNDZFdGd5VmxWWjFRTXZSb1VmNUlqZWNQc1l0dmFqc09uRkR1UWFMZEN6SEJMN2tBaTRlaGdNNUVOWEZXRkFHelJlSlF2SGtyM0dhTUhPTXBnZ21CVTh6b212b3NlTHVTbzZta01EbWVUbzNFeTVJTEtJZmE0dko1MFhROUFmWW1BeUFn?oc=5"
     },
     {
-      "headline": "KBC Group NV Raises Stock Position in Ford Motor Company $F - MarketBeat",
+      "headline": "Ford Motor (NYSE:F) Stock Price Down 1.8% - Should You Sell? - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONUF6eTZyOXdkRnM0WVE0dVI1REFkOTZJcEdpaGpzNnVpSjNJQ0VWdHI3OWsxU1VhYTRCQ191Wm8xa1Mta040Q2RaZG5rOGM1ODNfa0NQeGxHY0s4YUhsRnloYjNPaE56dEdmc3p6S1lyUGJqRDBya2xublJUeDU2N3pyZ19DU2hWcEc2TTRDdGFLYlBRLUJxNnpob1c3cmM0ZGY3al9ES3NlTDN5SVRXTzZUbWNLNUUtRWRn?oc=5"
-    },
-    {
-      "headline": "Ford Motor Company (NYSE:F) shares rise as investors focus on mix over sales volume for earnings assessment - TechStock²",
-      "source": "TechStock²",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVThTNTV2cGxlTDRJaUU0eEFJVlFDNXJGZXh0WHFDbHNqaHlpTGIzUElLZ2xtam9GZ0RvS0s5T0YxRXJ2a2hTTDgxQThiUnVDUEF5OU4wbzYzSVhwbGdqR0tiQUN3M3BRRlIwaG9aaktWcFR3UmFkRzJjSTI4eUVUdDhfMjd2YUU0UkZRSi1MWVZCTTFuV0txdENKeVFIVm1Db0VVSWx5S1htMXg4SWlmaWEzVUJUYWRMZUxXS3luUmJEN0k?oc=5"
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWlvZHBlUTloU2FXX2p5dTdDLUlRaVRGQUJWUGQ0T0VYdU51LTVjQzVBRlliZ3ZKUW8wQ0RGeWkzUm5SQzE0dDFrNFZXRGVNLUQ1VGllR0lfTTdIR05NUGVMMGlYSWh5c0NsQ2pWOWZrZVNYMDFkX1Fxd0UtdGtpVVBpQ0VMNEd4dGVDQnRNdi0wRVFUbEtoTVdlRGdxR09xX2gtcjh5MUVIZw?oc=5"
     }
   ],
   "insight": "Tracking Ford Motor Company (F)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:52:29.345Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:48:58.665Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    46.56999969482422,
     46.91999816894531,
     47.09000015258789,
     47.20000076293945,
@@ -24,10 +23,10 @@
     46.130001068115234,
     46.34000015258789,
     45.66999816894531,
-    45.4900016784668
+    45.4900016784668,
+    44.9900016784668
   ],
   "6m": [
-    34.81999969482422,
     34.650001525878906,
     34.40999984741211,
     35.40999984741211,
@@ -158,10 +157,10 @@
     46.130001068115234,
     46.34000015258789,
     45.66999816894531,
-    45.4900016784668
+    45.4900016784668,
+    44.9900016784668
   ],
   "1y": [
-    38.33000183105469,
     37.36000061035156,
     38.439998626708984,
     38.560001373291016,
@@ -411,12 +410,19 @@
     46.130001068115234,
     46.34000015258789,
     45.66999816894531,
-    45.4900016784668
+    45.4900016784668,
+    44.9900016784668
   ],
-  "lastClose": 45.4900016784668,
-  "oneYearReturn": 18.679883916966393,
+  "lastClose": 44.9900016784668,
+  "oneYearReturn": 20.422914730898434,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is MGM Resorts International (MGM) Fairly Valued As Earnings Expectations Build? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc09FSldWejBqNC1Cd25oNmprQk02MnVrUWt6QlhJS2lOZ0lzTW5qYjR5YndVNHIzekJRVlpaeVJ2VENHRzhEMlE2aXR5eUQzUFZiSUt5NWktSDJ2ZXVxVjU2NDRTTEZrT2dENjNHMXFSX1BWbjBuNmdJdWlWNHdyQ3ZWdzJ6a0drQmVTdmRXc3g3V1hMMzVDMC10ZXBSY3RORWZYM0gzTkxsQUJpWTBvOU9jYTlUTzBtSjc1ZnpSc294UEtvNkxBekt6aWphc0hUeEh0UGdfRWF3YjhJVTdSQzJKN0HSAeoBQVVfeXFMUE4xa2piY1dRbTR2eVhSUzFOTVVjcS1ZX2xZekNhQkl1MFVrcmRJOGsybm1JQzhoTEZXRzdDS2U5bkR1alZfQjNKMi1iLVNYMXBoTnVjVVd5TDVYX3FBZWU2NVpEX2drQmVBU1BiMG5DY1VwbzM4aUprTEVtWVFqOTZRQzl2Rm1TSzZEXzY2TU40NVpuSTZKOURZT2g5ZnNuMzJENVhnQnJqMHJhY19nSV94ZVZ4bDAzTGJ2a1YzbWxIaWZRSnJMOVZueFNobEd1aHJQYmw1dDExSTNvNFBJVW1CX01SRUt0anNn?oc=5"
+    },
     {
       "headline": "MGM Resorts International stock underperforms Tuesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc3dxQnA1eGxoeVowQWdlSUJYVDVIempMUDZtV3U3UGR5RTd4QUx2QktrckhObnhxUVgzQ0ZKelFWNzZyMHBhZ3FNLS1BVVRIXzY2MkNmeVJwNFRuVHZDcHZyUEhLdHBuSWlqWFlVcWluWi15R29TVGo4MVZyeW9Bdkc5aDhrcTIzY3RlcjFqMTBmd3MwRG5xSHkxLWp3eERSdVU4elhBNVYtNjlSR0EtTXkwelpXZVJBWTJ4d19ITjZyMFp2bUREcXNQUEMzRW53Tk9yTjFzMmFMa0JTNTJabXA3bVR1M19VZXBPc0hSSkJmUQ?oc=5"
     },
     {
-      "headline": "Does MGM Resorts International (MGM) Look Cheap Enough Despite Rich Earnings? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV2kxekVNZWRXWGp2TXYzUll5TEs2OXRZdkJ5TDg1SWlDS0JLMDFtQjA1eHk5eU5RUTFrLWl1V3ZXN2U2bER1d3VDTVBjeFdHMDBWaHpnX2tVcEtSZTJGNnJ2dWFhN0tUQXVnVUVfbjdRMTRjN0thZXdVc0VUYVV4eWZYb0NkRl92ellaaE8wenRYZkV1QkNJTTdSY0hGOWlISWlLUk1RQUJuVWtjeGpxREcwdW1kc1F0aml2X0NRaWlEX3FBdFBTaFg0WTEtR1NJMndDWE9YWXFhVS1yalI5NC13cznSAeoBQVVfeXFMTTh6cTN5S0FNcjFBbllySWszZ2pEVjdDVnM1S1ppd0MzeWFpN1hzZ0wxT0dmdmFLdGlIWkRQWHlpWnBVdENRbkRfcTZBcDRsMDd1dk9obFpFUGpNRUxOV1ZhOVc2OGRhTXF0OU5wLWJKT3NoamRWVV9CRk1Zd2tfLUhDTmRvUjBvNWgzbjV1SE1SVTUySWh3b2dMNzlpblFsY2pZZDRaQnkxTkRhRWpfc0pyTldPUUVDZ1RoMGV2M2t0d3dBc2x4cGpEMkwyU1lrTVJjSXRoLTRubFgwQVAtb29QSzRBTTYzWmZB?oc=5"
-    },
-    {
-      "headline": "MGM Resorts International (MGM) Projected to Post Quarterly Earnings on Wednesday - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVllhUTlSdGVPYm9GakFjOGIzQk5yZkJsMnBEbTV5emo0UWhxNEhqVmNTUl81MzFURklOYWtBM19QSDAya0FfYWtGblYzX1NYRW50Y0loS1kxa3VoNElNTndJNXBsRE1LSGhCaGlmbFVFVTVVb2l5dWR4b05vY2x1TzRVR2tHOVRjNVc4MmhXODNmRi1CNU5aSjV4bGNmVlE3Skd3ZkZNOGhOdlBQUjhRSUs3U19fWEdIT19PdFBzcmlFMXRJY2VveGNMUlhBZw?oc=5"
+      "headline": "MGM Resorts (MGM) Stock May Be 23% Undervalued After Buyout Probe - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-11",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWmVNYzh0bnprRlRmY0RnSllaODdZVlBHXzNGdEY4OTBadXRRdUdqUXA2dzNLa0lrOXVhbkk4Q2xVLTJDUzNacGxrbkRvTXlwV1RFMVRkWWU2Rll1anVLRzhjbU5zMlM4amk3TTlWak5IY05QOF9RR1ZtTUd2WWxrX3JDMzcwNkRxZ1N5OUJYZ0VJZXF5?oc=5"
     }
   ],
   "insight": "Tracking MGM Resorts (MGM)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:52:26.513Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:48:56.592Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    79.52999877929688,
     80.30999755859375,
     80.5999984741211,
     80.41999816894531,
@@ -24,10 +23,10 @@
     81.55999755859375,
     82.12000274658203,
     81.97000122070312,
-    82.19999694824219
+    82.19999694824219,
+    81.16999816894531
   ],
   "6m": [
-    70.5,
     71.23999786376953,
     71.44000244140625,
     70.4800033569336,
@@ -158,10 +157,10 @@
     81.55999755859375,
     82.12000274658203,
     81.97000122070312,
-    82.19999694824219
+    82.19999694824219,
+    81.16999816894531
   ],
   "1y": [
-    69.16000366210938,
     69.0999984741211,
     69.16999816894531,
     68.08999633789062,
@@ -411,29 +410,30 @@
     81.55999755859375,
     82.12000274658203,
     81.97000122070312,
-    82.19999694824219
+    82.19999694824219,
+    81.16999816894531
   ],
-  "lastClose": 82.19999694824219,
-  "oneYearReturn": 18.854818675027083,
+  "lastClose": 81.16999816894531,
+  "oneYearReturn": 17.467438439010387,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Coca-Cola Consolidated Repurchases All Outstanding Shares Held by The Coca-Cola Company - Refresh the World. Make a Difference",
-      "source": "Refresh the World. Make a Difference",
+      "headline": "Hsbc Holdings PLC Has $15.20 Million Stock Position in Coca-Cola Europacific Partners $CCEP - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN3ZFbWg1bFpvaGNEYzFoS25wVUdXSGx3b1FCLW1LbVhyUmJmbk9SQndFTGFHdWQwcUFlV2JzMFgxZkJGWmFYa3ZwWkVBa2wtdlR4aG1XYUVHUElvWmpoWWpZdUtGTzJXX3BHQkJuZUVvRlFNWEFwTjlhNzhvSGdVb0hMUklqWG51Q0FQUnRGNjl1WjhwVHBGSkd4OFpCSkZsZUFtcGotQ0J5TDBPcVJodllLUXpiR0tVR0NzWFlGLVl3VXRjQ25iWnNVcl9laGJxdGdfZkhScXFaTURhaERZZ2Y2Zw?oc=5"
+    },
+    {
+      "headline": "Coca-Cola Consolidated Repurchases All Outstanding Shares Held by The Coca-Cola Company - investors.coca-colacompany.com",
+      "source": "investors.coca-colacompany.com",
       "when": "2025-11-07",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVk12c1NhNll3SWMwWUJFUkZHV0VJYkpHbXNxRUFEak1aNldVa1dzWDgyNVZOMUN1UUx1OWV0bkV5ZFRjTGdxLTNuWmdjYXljQ2JaaFMwWnF1S3l2VGU1V205Y1Q4OTAxM1hhakdtcW8yLUdGY3NUMnNkajRTZUtraW5uZDFRVF9IM1k0UUFFYjdualVldEJkdzZXUER6eWY4Q1JLWUczT3FPejVrSHAzQ0I1cmhqV1lxTk5HbThWWFdCZ0lGWVpPSGtsQWNuSkFuYXZZYVVZX1pnX1ZTZGlFaVphNUdENFdJaHNsUW5kX3dUQ3k4Mmp3eA?oc=5"
     },
     {
-      "headline": "Coca Cola Company (The) stock Analysis: Bullish Momentum Before Q2 Earnings - The Cryptonomist",
-      "source": "The Cryptonomist",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGFSZHZQcHg0NDBoV3VsdXRsME9Pcnc0U2Q1ME9pcGlRVy1uV0ZydXFDcWtPNHBxM3dwZ3ZiUEU3ODVocnNnOXpVZnA4SzZ4R3lCWjhyaTlFYTJzSEczbUNzckE1NXRITjkteHRxcGtOanNRZHhOaE1QOE1fN3FwS2ZZai1MVVZweVRoU3l1WVVITFM0LVhJRHBWRnhpYV9FTXdUbGprWWVuZw?oc=5"
-    },
-    {
-      "headline": "Coca-Cola Europacific Partners (NASDAQ:CCEP) Price Target Raised to $114.00 - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPXzJ2X3pOMlFqUDNZYzN4S2IwbHdwT0JrRjdUR3dHQUZ3Nmc5aHN1Njd6UUVvdm1lLTkxQlFDaHhVRVZoUHR3U1BTMEoySUxtczdxOGYtUDZPTFh5UmhyYjk0ZlJGZmVZUE81VmFGM3FVNzE4UmZMemhxVjgxaGRxUldwMGhZUEd2b0o2cjFpcGxEQ3hVMXFzT0Q4WUFuYVRPZ19ZM2Iwb1dma2UtMHltZWJoM29VZ3hnMWZtTjlWei1PQQ?oc=5"
+      "headline": "Here's How Much Traders Expect Coca-Cola Stock Could Move After Earnings Tuesday - Investopedia",
+      "source": "Investopedia",
+      "when": "2026-02-07",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONjk3YmVsSW4zN3M3RFQ5eDA0Ykt2VUp5VlRGWFk4NHBXZEI1OWpfRzJySlpBSENNOXJxb3lmdW5qZUx4YlRqSUZGdUJGZTl0ajZ0V0RQanpFQllZSjhiTmNfNk11UGgxS3FoWFI0aUZyUFFibFpVUFM4dHhCMk1nYzNwcEpicjB5aHJ1RDRmZndPMVRxX0M5aXBDcnc1b01QM3czMVJ6YkNRaE1nUVE3bnRvQlB6WkRKTVVjNWE3TzJLSm92b05CMQ?oc=5"
     }
   ],
   "insight": "Tracking Coca-Cola Company (The) (KO)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:51:49.179Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:48:26.069Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    230.00999450683594,
     234.75999450683594,
     234.88999938964844,
     243.13999938964844,
@@ -24,10 +23,10 @@
     254.49000549316406,
     253.3800048828125,
     256.1000061035156,
-    253.3000030517578
+    253.3000030517578,
+    256.9200134277344
   ],
   "6m": [
-    220.0399932861328,
     220.75,
     221.88999938964844,
     216.75,
@@ -158,10 +157,10 @@
     254.49000549316406,
     253.3800048828125,
     256.1000061035156,
-    253.3000030517578
+    253.3000030517578,
+    256.9200134277344
   ],
   "1y": [
-    190.5500030517578,
     190.8300018310547,
     190.27999877929688,
     188.52000427246094,
@@ -411,12 +410,19 @@
     254.49000549316406,
     253.3800048828125,
     256.1000061035156,
-    253.3000030517578
+    253.3000030517578,
+    256.9200134277344
   ],
-  "lastClose": 253.3000030517578,
-  "oneYearReturn": 32.93098871426186,
+  "lastClose": 256.9200134277344,
+  "oneYearReturn": 34.632925096961635,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "AbbVie (ABBV) Stock May Trade Above Fair Value Following Its 157% Run - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMFJiNDd1UEl3UE5Kd2wxSjMyQko4NldDZl9NaFF3Vkhmb1hmRHJrOFY4Q3Z0eGZTempCOHBHTlE2dU1PWUNXU2h1OXVrc19FWEM4VThEWUhmSlN0WnhmWGpGaV9tQ05GY0RIMGl0VFluaWxXMWJGcENrQWl2ZVdNOC1NNXI2ZTdvZU0ydnY2bEdyYmZtVjZoNElVY0Z3bkpyUE9IZzVEazRvNGVXRDFKOTNKR2VGcG94SHBMaXIzTG9kYzVIMDJlS1RWbE5MYTM5aUN5dNIB2gFBVV95cUxOd0FrQzdWOXBibUVPcGRVcWdDOUpXdDZfRk5tcjgwZGRYNXBUb2FFUU00R0htRFoxSS1rMndSelRPOERLWFJtVnNnYTVfWkc1aWhWSU5tTUhqQTlBVjd0bXZMZjFIdWxISDNHZ1NzeWhSQjRLN0JzV1VtNzNEQ2s3VENFeEltVGFNTEJhTkxVNzVIZ1p2OGFtT1l2a25hQkdpMm1xeF9YLXBXTW9aQ1dMQzJ5bUNMNExXZEJERnR3d0Foc1R1SlU1UlNRY1pZVXYzTlJNWFg2eTZCUQ?oc=5"
+    },
     {
       "headline": "AbbVie (ABBV) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeTdaSDdjVkZSaWhXN01DYUhES2xlbFFseDV1aVB1OUwyTHlDOEdVWDFVZjFiQlc5OF8zMi1HOTc2UjY1R0NZbXJEd3FrMkFjU3dxSmJnQ0Z6YlNvRnpEZE9BUXJVTlc2RlJTRnp0SFdYSDN1RWNmSHRuVU9fbmhQMUVVUXhhWUlZdl9ueTZIeGI5Y09YQTBia0FoNA?oc=5"
     },
     {
-      "headline": "Canaccord raises Abbvie stock price target to $282 on growth outlook - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYVNXeHFTR1JGNV8yVldienpGNEpTMmlHV0drSmFrWEhXRWYzZUdwNHFjalJwV2Z2VEhqcGpKVzBobjlzTGU5Um9RNEZ0ckhDU05pSEQ0Nm04MmlqckVyZmdWU3V3enRwLTQxZ1l5TmJSVW1sVEMwdVctTWhYaERvazYzeGtRMTBiUUc4U2lvQ2tzSkFyT2NyVEJtejRxVDRybmRTR3JBYTFNMVptRm93WWVUSjdlWTdoNTBQTmxJMjNkN1gwS1E?oc=5"
-    },
-    {
-      "headline": "AbbVie Stock Zigs When The Market Zags - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2FJVUF0T3MwLWU2Q01xMkNVdFJ3ZmJxbF9OQm9BVERoeUVMUXhvUDRXQnV3QkoyXzBYSEtFX21mQU9uN2JvU2ZmQ3VYWmwzMEFYcmRrLVNfZWFzZ0VwZ05LVDdYbWhhQ0I3WVFJcVB3cDhHQlo4V0tSdjZuVW5sLVc1QW5ETWhOalFvVEI3eHdzSE5BSGprOG16eGd3Rno4?oc=5"
+      "headline": "AbbVie Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONGFrWGpsTjNsNWV1RnFPbWVNR0FfUjEzNk5MLVBUdkpOWGRLOTVXOFd6MXhjM1BJVkcyRmJwYTZjaGxqZUZaMzdtWE9zSEtMeWVXd2RJYUdkSFFUZkVHbUhUMG55LS14R2ZaZHNOWFB5N09WSlBld18tYWZUWUZ2UVlzNVZ0Tk9lOVYxZ1daT0kyOFE3eU5HRGZBOEhtdG9HUDZFakJFUUk1bWtteFBrQS1RNUQzbWk0aHR5bDlacw?oc=5"
     }
   ],
   "insight": "Tracking AbbVie (ABBV)."

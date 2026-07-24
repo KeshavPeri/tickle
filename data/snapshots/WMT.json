@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:52:44.219Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:49:10.769Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    117.18000030517578,
     119.41999816894531,
     119,
     115.77999877929688,
@@ -24,10 +23,10 @@
     114.23999786376953,
     112.19999694824219,
     110.38999938964844,
-    109.33000183105469
+    109.33000183105469,
+    108.4000015258789
   ],
   "6m": [
-    117.97000122070312,
     120.36000061035156,
     120.04000091552734,
     119.19999694824219,
@@ -158,10 +157,10 @@
     114.23999786376953,
     112.19999694824219,
     110.38999938964844,
-    109.33000183105469
+    109.33000183105469,
+    108.4000015258789
   ],
   "1y": [
-    95.68000030517578,
     96.5999984741211,
     97.47000122070312,
     97.61000061035156,
@@ -411,18 +410,13 @@
     114.23999786376953,
     112.19999694824219,
     110.38999938964844,
-    109.33000183105469
+    109.33000183105469,
+    108.4000015258789
   ],
-  "lastClose": 109.33000183105469,
-  "oneYearReturn": 14.26630589709615,
+  "lastClose": 108.4000015258789,
+  "oneYearReturn": 12.215324263094066,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Walmart Stock’s Extended Downturn Could Trigger a Possible Comeback - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHVtOHpvNU9kQWh2XzN5R29sc1Z2aFluMG9STDJ1SzhjeGU5WFhMaTRFcmNLQS00LWd3YlNGYVl5cnJOUmF0RHFmSC1teEhHLUxmeU9Ic2ZjclMwZFN4ZTlLT09SNGNFR1RZR1B1S29mem5GcE1pQ21laE5JVUh4VkVGMm5jWWRDUF9MYjhyU24wbmNwSXI2eVRwcmRXVXlZWk1ERnpHdFpHRjR4N1pJ?oc=5"
-    },
     {
       "headline": "Walmart (WMT) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEkyUlRONnNybjVHSThqbnVIYXctbVBNaFBmeE9makNZVWVUM0J4Mk5xQXFHZnNiaTlCdy1GUWx6WW50REI4Ny1KNmxIR1kwdjI2YmV1X0xsM0YxdkU0N2I5RF9zaGZ0c21xVmpRaC1fdFpSXzROQ0VVTE1nUmVmank4U1BPMUE2Mm01cU5PRmtBMU0tb0tGdA?oc=5"
     },
     {
-      "headline": "Walmart's (WMT) \"Outperform\" Rating Reiterated at Royal Bank Of Canada - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRjhXa0duM0lETTMyMXBlTzYzV2ZOdXdfa3k5XzhCMjNfLThidkJWMG9nd3dodjZIT0NWbENwWHhGcmVSS1BnbmI4dExNYl9TN1YzU25fWEpSQVlUUUVyMm5jZmdsZDBvRnBKV2hXRDUzVjZwUHJlQ1pBVXhtcDc3TGJZLVlmNk1ZN2NfTUxVUUx1ZkZRRDhmQ1BJZ0psSVM4YVR4a1J3NEQ5bjVkZFY4RVRXVldkbHdhTEpR?oc=5"
+      "headline": "Walmart shares its quiet plan to take down Amazon - thestreet.com",
+      "source": "thestreet.com",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWlNuTms4Z0xDTXI4elJjZmtwYkdxblZlOGptOUdpSUV3UFBoVWd1RzJaejJfemNCN25NQ0NHX09JMjlhdWRsd3hVS0pMa0w4Njl5Qldoa2dlS0FHekROYjY3SVRxR2lzaVFTTFprMG5Rd0pvemZXRm1pXzBLZVhVS1lPRl9xdGFYN2c?oc=5"
+    },
+    {
+      "headline": "Walmart (WMT) Stock Looks Overvalued On Cash Flow But Fair On Earnings - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcDNzbS1NcnNDeG5Lcm9mdVE3eTU5RmtibGRJNDl4dkNrYWRRVGhGc2dnOWRLRFpHcXZNTHRleGJnVXBJX0dNMkN2Z0g5SWFxWUExUjNYSTJzUkNZaVBGcVlYUTFDNGE2TVZpUVlzemdVV3hqV192RlZGR1VyYUdOX05qMVZlVnRJcWFtN0pkNVZtQnFqRkxRdXZnTlhyNzQ2b3FtTjBHVmRibVFVODU2ZDJkMVlnVUNXRTV0b0RLVHJxeVM2MmY2RVc1TGVXZDJ2RlhqMtIB1AFBVV95cUxPcDNzbS1NcnNDeG5Lcm9mdVE3eTU5RmtibGRJNDl4dkNrYWRRVGhGc2dnOWRLRFpHcXZNTHRleGJnVXBJX0dNMkN2Z0g5SWFxWUExUjNYSTJzUkNZaVBGcVlYUTFDNGE2TVZpUVlzemdVV3hqV192RlZGR1VyYUdOX05qMVZlVnRJcWFtN0pkNVZtQnFqRkxRdXZnTlhyNzQ2b3FtTjBHVmRibVFVODU2ZDJkMVlnVUNXRTV0b0RLVHJxeVM2MmY2RVc1TGVXZDJ2RlhqMg?oc=5"
     }
   ],
   "insight": "Tracking Walmart (WMT)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:52:39.144Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:49:06.135Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    76.18000030517578,
     73.44000244140625,
     71.4000015258789,
     69.94000244140625,
@@ -24,10 +23,10 @@
     59.349998474121094,
     59.79999923706055,
     62.95000076293945,
-    63.15999984741211
+    63.15999984741211,
+    60.470001220703125
   ],
   "6m": [
-    58.849998474121094,
     58.5,
     59.86000061035156,
     58.459999084472656,
@@ -158,10 +157,10 @@
     59.349998474121094,
     59.79999923706055,
     62.95000076293945,
-    63.15999984741211
+    63.15999984741211,
+    60.470001220703125
   ],
   "1y": [
-    73.08999633789062,
     72.33999633789062,
     71.52999877929688,
     71.31999969482422,
@@ -411,12 +410,19 @@
     59.349998474121094,
     59.79999923706055,
     62.95000076293945,
-    63.15999984741211
+    63.15999984741211,
+    60.470001220703125
   ],
-  "lastClose": 63.15999984741211,
-  "oneYearReturn": -13.58598575456584,
+  "lastClose": 60.470001220703125,
+  "oneYearReturn": -16.408620013946795,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Skyworks Solutions (SWKS) Stock Is Down Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjJUd3B4c2tWRWJiejlKX2QxZEN4Q0xkMlhYcnJkbndnQ0ZUa2N5S1hlNTEwdjBXTUQ0aEVQYnd5Z1diSi1LWG8yLVVqUE5TRzFwWlJjYjJQX1RTT3drX1RnQ2VmWmtSNUk1TVNaeTJYNnI5M19rR2dGcTRqYzVESG1rTExTb0RhTGZhTjR2cw?oc=5"
+    },
     {
       "headline": "Skyworks Solutions (SWKS) Expected to Beat Earnings Estimates: Can the Stock Move Higher? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS3Uwb0xQam9iR2pXeWtNbGIyMDBHU2VEdDNxWkRSVlRtLWxtUlIycDdzd0lWaE1IVDE3bVJ3aEE5ajFoSmM0R2dfVDVVeWRUdkZlY2wzRjh3UDRfVHFKa0FCdjJTU3VCY0RuT05kRlA5QUVKUzFnYmtON2RrWFlBM0RPektEdlhvYmZOemJoMnozUldaVkdwdzhLVTdTdE1uMEhicA?oc=5"
     },
     {
-      "headline": "Skyworks Solutions Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbWZqUENUZXpfaGZXeW1wUzNuNmVZcE5jcWU1OGp0SG5VSk9jOUozbUpPdUllemNUMGtRQzlZUnJZb0I0ellFX05ORVA2c1lLZVYyVk01YkJ2NjhHUC05V0Vwb2cxWEhGRFhZM1Y3OFZYaUhtUFVBU1FOaDBrY1FFaWY3RFBQamVtVUVhQlA3XzA0akpuVVFkR2tXS0RsZlpkWV9jeUxLR1dub0JzVzBJUUQ1ajdTNGN6WmgySHdTdVlpcDBqVGRxdnlvclRYWVE?oc=5"
-    },
-    {
-      "headline": "Do Rising Estimates on Weaker Results Reframe Skyworks’ (SWKS) Near‑Term Earnings Power? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb3VfR2lLWTNJNG5rakRtQk9wVkNidl9DMC1jb2o1U0VPVDNmYTdOVHVXcWZ4TFYxMmpXQzJOc3JVMEh1ZlBOWFdSa1ZWWUZyNFYwcWpaUGxxN2hqUzl1LWxBc3R6NUZtNWxjTmxmcVlIUV9JMG9zTU9ETFhxalhCd25MZzJuT2RmOTdBN0VFWFNUZkVMUU5YY0dBbFh0WUhMSmhmd1VuNF81UTZuWUlkUU1EZjNCZl9hQzhfZEJHUWgyNGQxR0JwRWdWR0dJZ1Z1bGZ2TjZ0U1JXRk93YU9F0gHfAUFVX3lxTFBvdV9HaUtZM0k0bmtqRG1CT3BWQ2J2X0MwLWNvajVTRU9UM2ZhN05UdVdxZnhMVjEyaldDMk5zclUwSHVmUE5YV1JrVlZZRnI0VjBxalpQbHE3aGpTOXUtbEFzdHo1Rm01bGNObGZxWUhRX0kwb3NNT0RMWHFqWEJ3bkxnMm5PZGY5N0E3RUVYU1RmRUxRTlhjR0FsWHRZSExKaGZ3VW40XzVRNm5ZSWRRTURmM0JmX2FDOF9kQkdRaDI0ZDFHQnBFZ1ZHR0lnVnVsZnZONnRTUldGT3dhT0U?oc=5"
+      "headline": "Skyworks Solutions (SWKS) Faces Profit-Taking After Recent Gains - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkI0Z1liejhyVHdRUTY5bUNGbG5hdXJwbUJZVDJYMDRvUFlEN0plQmlRN2Z2dng2c2NxMkV2OE0xY2ZEZktKU2l6el9OeVdpSW5hVVdQQ1JkeTV4TEpWV3ZNcXMxRVBGZGJ5V0ZvYlRNb0x6MEJNVXAwYmhadGljZGVLZ2N3U2NtMDNvTXh1MG51MzhJRjd1YjRkVlJaNjBGUlE?oc=5"
     }
   ],
   "insight": "Tracking Skyworks Solutions (SWKS)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:52:20.658Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:48:51.732Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    239.23440551757812,
     233.2144775390625,
     238.51075744628906,
     242.5170440673828,
@@ -24,10 +23,10 @@
     225.02000427246094,
     226.17999267578125,
     229.86000061035156,
-    232.99000549316406
+    232.99000549316406,
+    246.27000427246094
   ],
   "6m": [
-    218.77294921875,
     220.5348663330078,
     223.42947387695312,
     225.5060272216797,
@@ -158,10 +157,10 @@
     225.02000427246094,
     226.17999267578125,
     229.86000061035156,
-    232.99000549316406
+    232.99000549316406,
+    246.27000427246094
   ],
   "1y": [
-    236.51144409179688,
     221.8919677734375,
     221.65472412109375,
     222.48504638671875,
@@ -411,29 +410,30 @@
     225.02000427246094,
     226.17999267578125,
     229.86000061035156,
-    232.99000549316406
+    232.99000549316406,
+    246.27000427246094
   ],
-  "lastClose": 232.99000549316406,
-  "oneYearReturn": -1.4889083325989254,
+  "lastClose": 246.27000427246094,
+  "oneYearReturn": 10.986443873405367,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Should You Buy, Sell or Hold Honeywell Stock Post Aerospace Spin-Off? - Yahoo Finance",
+      "headline": "Why Honeywell Tech’s Earnings Beat Is Weighing on Aerospace Shares - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnZXcTZUWWU2U21Bem9oQkdReDYwU1g3bUYzQko1Nk90bzhldHJpNDJvYWViVGVuM08zUHZfRHpndkhDVS1RSUJ0QXMtYl95eEQ0bjUxWFJBQjVxVGxyRm5tcFFTUWIwUEVNbFp5S0Q4X1kyaWNvM1VjaVBrX1hJX2lSdUZfOEFiZFlzOEpRQWpSbTlqalBmN2NYUQ?oc=5"
+    },
+    {
+      "headline": "Honeywell stock jumps on Q2 earnings: Why it's a 'solid start' for the company - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY3hDeWZoU0VoS2pQY2ZqVlEzd19CbU9XUHl6ZVh3UEVReFF5d3FqYjU0UDhnWGVSaW1LVWNZS2IzMEdHbjJUWTM1TEViQm5PREVhS2dmSU1sVjVDTGVaMWloTDlTR3l5a05SSm5hYzVhS2ZNWDVPX283RDhqSGFqT19naXhERGdWaU5VNnl6UjdaRUFRai1uM2xn?oc=5"
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVWJxNU1qUzVzM3BLdWk5ODlJMkdqeEdrVVdiSGZpb3J5UHhBeTlfLWFlSm0zaXNvc3pXLU1Ed2hBOHA0V04yVUlCWmFLcFdhTXZYaEhrUUZIN3RDZFJTZTZhaGxJdGRpdVNpUUpiZmFXaUZTUWNGaXAzQ1BDa3VKTWkyQ21wcDRRWFVjNlBYQTAtVjJ1RGlQWFVZa2ZTVHVLc183bldTQk9LTklSQ0dFSjZrX3pIWWVXb3pfUW5R?oc=5"
     },
     {
-      "headline": "Honeywell (HON) Stock Could Be Undervalued After Tough Q2 Earnings Setup - simplywall.st",
+      "headline": "Honeywell Stock Leads These 3 Tariff Exposed Supply Chain Picks - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOU51TE9sSGlvSnBINkdmZUgwUUNIUzBPOXNuelFfMkktTnRQMGMxQmlYNG5LMnF0eHQtTVF1Q1JsOE9wbTNoN3lIWVFWenI0c0g4ZHRPTWNUelRpY2VGTkRHcllOVjhnSllPb1BfTEhPLXJLc1Y4LTVhdFFzZmJNTzZQOFdFbTZuMnE5TmRvbzVDU0YwZUotRm1zMXR3Wko2TkJHT0FIdExYWTkyVzdHOTF6NXpMUVhJZmllSFd1SWJCSFJFY1BGR3EtYTBsd0x1WEhWOGQ3bVgxQjk0V3I00gHkAUFVX3lxTE5VMDRzMUU3UnN4TVoxZG11Vi05NmN3eXFXRlJJTXdPc3pNSi1wOG4taVlwakJXUUl3Qk5Wcm5QWFl0UEIyMzlPWWdUQnI2M0N6ZzhsWnp3S2F0cm5semV6YjRnR3hhTXk4OUJsMWhyVGNpcWJzUlhraVNPZ1N3dERlbWI3VTJuUnVVRUxnaHhmd3ZtcTBiRjJFQUFLN2tXeGJyRUw3aFZfby14SnhIbXR0R1pvU1FhV2Y1djZMRVRDRHFQUEV3TDdrV3lkb1lGUWJJYUFubGI5M3M2S0Nsc0FxLTNEbQ?oc=5"
-    },
-    {
-      "headline": "Honeywell Technologies Launches As Independent, Pure-Play Automation Company Following Completion of Honeywell Aerospace Spin-Off - Honeywell",
-      "source": "Honeywell",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbjEwMjFPSDNhLWpySnFCanhpdlZKa0ZMV1haemp3d0djejJVWTNtX3pYMjdGMVUzRnVIZVdQRzBvZVdMZExUMF8tODBrcnZ4TUNQeEhLeEV4dkxJOEFOczFuTXV6UmFZaTEwellJWFRQd2R3cWFScnFEREYzUHlCZFpCcHRWNTd2SkQ3aHJQVVBvYmpBZ08ydFR5NDB2UDhlSHVBdm9tYk51ODU4Rm1UcUpTeUtjQmZFaXBnanFXZllyQ1d5eGFhVktfdlJrTElPMzBCbVJzT3U0YUFFX1B2SmVPUkFabDlzbWJmMVgweHF5VzQ4TTlQSXVTM0pTMjQw?oc=5"
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcG1HTmxhMzV0bzB0bHZwRklvQ2taNFk0c3YzY2tZaExKWVA3R0wxWlZCOGsya3hQQXBsb0FBVV9qQ2t5N2tfR3dKZUVvQ05TMnJuUm9qcVZJMUNBQm9tMjl3SkRtY21lTGdfVWtSeFRIQTFzR1dsMG9VUWtOV0lFOTNnMThKZHVCandnenVrZEpfTE1PQUdSa1oxclJzMDFaLU13SzdKQlRiSHFHNHJhcU1wTi0zdVQxaUVuTG1GLVp6V0lvcmxUMmRQdE1uZVFnTlJ4VU1ha0pmMlc4OF9Z0gHkAUFVX3lxTE9DQ0hKM05lUzYwMjdXaUNCQnRyLTJsblhIVVNscHo0RDZQbXRkekUxUXY3Qk15S2JLNEFUdVRkOWVqODczZUdwTjFsUngtR05DaG41ejgzTXljUG13X29VWmVIMldXX0NmX1MwQXpnbTdCd2FBbHI3Z2FHOFNwa2tBejVNb3FsN29GQnR2Tmx3Q1ozZWhVVjU4VjhZMmpmUjM5czMzbGMwWUpFdkFvV3Q0cmpTYktTWE1uRjJZdS11UzRNZkFHdlRDRjRfa0g1UWFaZktsd1BuZjNlMEU1a3MxcUpFRQ?oc=5"
     }
   ],
   "insight": "Tracking Honeywell (HON)."

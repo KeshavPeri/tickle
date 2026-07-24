@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:51:56.244Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:48:31.803Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    220.8300018310547,
     216.7100067138672,
     220.25,
     218.1199951171875,
@@ -24,10 +23,10 @@
     214.02999877929688,
     209.47999572753906,
     204.8000030517578,
-    208.64999389648438
+    208.64999389648438,
+    209.22999572753906
   ],
   "6m": [
-    239.80999755859375,
     244.5500030517578,
     242.61000061035156,
     247.74000549316406,
@@ -158,10 +157,10 @@
     214.02999877929688,
     209.47999572753906,
     204.8000030517578,
-    208.64999389648438
+    208.64999389648438,
+    209.22999572753906
   ],
   "1y": [
-    233.8800048828125,
     231.27000427246094,
     233.05999755859375,
     236.41000366210938,
@@ -411,29 +410,30 @@
     214.02999877929688,
     209.47999572753906,
     204.8000030517578,
-    208.64999389648438
+    208.64999389648438,
+    209.22999572753906
   ],
-  "lastClose": 208.64999389648438,
-  "oneYearReturn": -10.787587848294184,
+  "lastClose": 209.22999572753906,
+  "oneYearReturn": -9.529990114479512,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Factbox-Boeing versus Airbus as aircraft orders top 300 at Farnborough airshow - Euronext Markets: Real-time Stock Market Data | live",
+      "headline": "Buy, Hold or Sell Boeing Stock? Key Insights Ahead of Q2 Earnings - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNi14dGhzbFlQODNSZFRJZG9Vd2lzU2kycE5YeE9yZlN3UDVlZG43OEFqaUVGWFk3Rm1WVUNtdEdRYnJRazFDd1d6VHdOcnhzUERKamdDT3JUZEtVamNlZ041Z0MxWWFKQWItLXdSa2JrV1ZwMmZfUG5MaG94cGFCcjRtUEpaMlVFYVBVRTlYRHlQbVFFUlE?oc=5"
+    },
+    {
+      "headline": "Buy, Hold or Sell Boeing Stock? Key Insights Ahead of Q2 Earnings - Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc3dGTFRreDU3bXlaam5IMXV0LXFyMF9RbTJwMzZBeXBRMms3TDQ3Vk5WUkt2VkVZdm1wOXpYeTZKQUljY3pVU3ptOFFnZndfSlZYcDliMU9xYmZvTk9SWndmYXVhTnpyTkc3cVNkSjN6R0xmTFNUOHR0ZHBsdnVweGNrWU1fVG02UVJrdC1TSUp6VGpnTkNkVkQ3b0dBR3dlam9zY1pzOA?oc=5"
+    },
+    {
+      "headline": "Exclusive-Boeing asks US to intervene over record EU loan to Airbus - Euronext Markets: Real-time Stock Market Data | live",
       "source": "Euronext Markets: Real-time Stock Market Data | live",
       "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQelFuaEMwTUFjNEM4aUtBa3MtN0t4eFZ6eFRfb0ZRdGZ4Rl9lRVFfMEJQa1BVVTMwTldmNDk5el8zSjlwb0NSSTR6OFoxZ3lqbEZfS3BpVFRaZGlsWFZwRFBBX0lpMVduNEZVMkNDa1RiYXJrdjJqVE5OM2N6RnBHY2xQc2hzckI2cFJsTlNHU3NVcV9qcERiNUl4dGFOZFdoNHRDMHZNU1Njc21ZQ1Y0Q0hUVV93Q1k?oc=5"
-    },
-    {
-      "headline": "Boeing Stock Leads 3 Cash Flow Picks With Room For Fair Value Upside - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYkl6dlVPU2Q3ZnRhUDFIRERRb2cyakhwTkFLYlZhcXd3c1hYU2JDS2xUMnRGMW10eUhUTWkwYmdlYUNaTDB3VTVxMEQ1amJWclotMTdnNC1zQklRdXBiU0gtb1QwYTd6Tm1JUGdlelZtZDZ6RHQ2NkV3ajBDVWJTdXVraFpwVVJJQ2ZhcE9ud2I3eDk3ekctWkVyUk5kbTlGaWpQaUJFNmtPOGhpR1dzY2o4WWZfSndtQy0yYkxBZ2NXQXZ3MUUwbHRrRUpRaF9DRDFQaHdqVdIB3AFBVV95cUxNdlV0U256a0xoRXRIbHpoUnJqYkR2QWJCcV8yNVhFbXRKUHE4V2pBdVk2ZDh5SU4zM3RNMm5Gd1dfUmVuc29tZ083RDg5b0R2UkZXcG41bWtHTkF6c2wwZkFtc2Nwa0xKcWN6OWhiWnh5LW9PbDVhNHRkVjAyaUJHTm91ZDVPSVMzZzg3RlM2dkJlS0Fyb1ZZQWhfN0V5T25Sa2lpT01YbDlYa0xjbS1mS2RJQjZFbk9Rdm1ScVBWQk9nbXJVLTV4LUFsQUxTUGgtUHVEMkdzb2otRUFj?oc=5"
-    },
-    {
-      "headline": "Boeing Stock Sits Below All Four Key Moving Averages Ahead of Q2 Earnings - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa1dBTGIzMUViUFdVaDhGcFozNV9wS1N1S05WQ21MSmhpWkFrZjI0SmZhSDZPb1ZtTEh2VUNvSC02NUZQbWFMdHVaeXN3UTh3R0NNSXVsTUpjdzdSRzJYajhTdVk2WXRNRzUtUkFpM0F6LXN4QzZsTUg1MVhKdTVZLVhGNDl6YWNnek9nX3Bfa09jb3UzSFhKTTFQcjdWQ1V6aWNxeWo5NWxmSllSdXdUYkpaU19hWktHem1lUEE1ZEY4US1TZFhyNjkxV0dReU0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXQ3NHFUbDhoNmhtUlQ4OVhEeUNjS3JYUUVoNUx6eDJwYXoyZUhtMTNUdkV5MlN0ZmdPNEZBLTNBUkpEYzdXTzJNRVZscWVadWMtaVowVHlEejcxR3lvdVJCRk8tcGtoaTlBMXBpQ2pOTXpuLVRSYkxJZmJkcFdXeWRaVFl4M2UzbWtfWk9fUzIxR3lqRkxwRDd4d01OSVpyd1VfZ3Q4RUQ?oc=5"
     }
   ],
   "insight": "Tracking Boeing (BA)."

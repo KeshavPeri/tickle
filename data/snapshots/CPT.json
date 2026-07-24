@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:52:04.749Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:48:38.412Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    108.9800033569336,
     110.5,
     111.26000213623047,
     113.58999633789062,
@@ -24,10 +23,10 @@
     112.97000122070312,
     112.86000061035156,
     112.08999633789062,
-    112.01000213623047
+    112.01000213623047,
+    112.83999633789062
   ],
   "6m": [
-    107.37999725341797,
     107.5999984741211,
     107.83999633789062,
     108.3499984741211,
@@ -158,10 +157,10 @@
     112.97000122070312,
     112.86000061035156,
     112.08999633789062,
-    112.01000213623047
+    112.01000213623047,
+    112.83999633789062
   ],
   "1y": [
-    115.19999694824219,
     113.5999984741211,
     113.54000091552734,
     112.2300033569336,
@@ -411,17 +410,18 @@
     112.97000122070312,
     112.86000061035156,
     112.08999633789062,
-    112.01000213623047
+    112.01000213623047,
+    112.83999633789062
   ],
-  "lastClose": 112.01000213623047,
-  "oneYearReturn": -2.76909279211608,
+  "lastClose": 112.83999633789062,
+  "oneYearReturn": -0.6690159739778543,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTUmVhbGNFT2pUM052LU5tTnAyY2ZGeHNkTkxwd1ExX3RtQ0xCZUpoRlBIbWtwdVdQUGIwY0ZrbVlzczRVdE5hdzdNUk9SeTA?oc=5"
+      "headline": "Camden Property Trust (NYSE:CPT) Stock Rating Upgraded by Jefferies Financial Group - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbW1KZUdnWXNYdFVMNTkxbFZkYUdTZVVpa09oVDFkUUtFRm5fRk45eUp0Y1pBTXJSVlBCeGRreG4zQjd2UE4yYXE1cFY5RENWQnZrVFB5NURoMTB4Y3YzaXlqSmMxRXRzck1LTkk4ak5SWFREQWVFX1RQbEJsVWN6VnI4QUtpQ3lDYkpXa1d1ZTZzcEVNVC1FalNkOU5KR0pXb25DWFl6NHlreDdUeURJYWYxUzd2eHFzV0l5N0pLQWVjMDl6Z0FYdmxSbWdqa00?oc=5"
     },
     {
       "headline": "Camden Property Trust (CPT) Faces A Fair Value Debate, Is The Premium Already Priced In? - simplywall.st",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbGE3NkUxQ0dhVG4yTlJ3Z1JmVWJDd3Rlak1tdFc2WTA3OUNIVk9ZajI2cGRaS0lLU2Z1RVhEcDUzb3BJQ3N0ZFZ0RDdHR01KcGV3QkpvWkJzanVJQm9LNXRzTnZlUDRCZGh5OE56ZWY1TFhvRUdRV0dZUzFPY09oVHlIOVhXTzFTX1JEQUpIUTZoRnRuSGpNS2ZRcFptbzRQVVZCdy1MVGVkTjYySzJTb1dTelkyekZLR2MtclZoU2FiM050bEYtNlQtNndJNndkR0hraFctONIB3AFBVV95cUxPRFVueDVMRFZ2ZENEbUV3QmtSMkdzbkJESzlHOGRWMFNyaVdxUHpKVzRrRFBKVTg1ZDlJeVQzcDA2d3NBdXVnUlRGZXpoWGJ1WkIzRU15RmRBZmZlTWM3OVllaVZpZ3BRdU9heGFnRjhCc3RVTDJQX2NSZmxxQUVsWFF2bWtmM0VSVEJiMnpEVkZzcmNzMnp0TzJKX0JFbkV6Um5ZdlFmUGxxLTR6NWNOQjloSnBEMkxDeks2RFlHQS1qcng3S1hsWXd4Z2hhZHplT1ZhRWg0eDlacVdH?oc=5"
     },
     {
-      "headline": "Camden Property Trust $CPT Shares Sold by Principal Financial Group Inc. - MarketBeat",
+      "headline": "Walleye Capital LLC Lowers Stock Position in Camden Property Trust $CPT - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU1NYnNuX2RXUDJmRm05RFBJeW9RRXcwREZuRDAwdmtTcXRJNkFQUTU1LURvSUk4NmNMbU02ejk5d1VjMGJhNFJxZXhYUDdHSkdRelcxSzhaQmVvbF9aaUhzZFB6dVFPX2dkVkNQeW1NV25DalJoVC1qNGItNGlLdmdJV3dLUVlKV0ZEY3BJS3dpcVd2b28yRnZ3ZWpwZWJ1MU4zLTNsNHZCLXFYOE1sbk5UR09sYV9zeGlJbEZyaUtuNzgxSTl5Tmtqbw?oc=5"
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2xqaEtNazJsdFNkNXlUNFB1ZEpFdlpOTjhlUjZSSGNKZVFaVUdmc254V19nM1lSanBmaWhGc3JBMGdxdVhqTTQwRXltblp5ZWNoelB3SlROdElEb2M5VVEwVENqbjBfU1JRVHdvM1VUTXhEX3k2LXF5aWVTX3RIT2QxeUhJZ21qMlpfb2owZ2dFNlhBUnBfT1dXd1VGdUZ3OWd5akt0czhENzM3eUc4RlM1MWxBd1hZcWh2UWk0VXdUWjlLRHNOejIzSQ?oc=5"
     }
   ],
   "insight": "Tracking Camden Property Trust (CPT)."

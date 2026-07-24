@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:51:52.463Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:48:28.892Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    551.6300048828125,
     519.8499755859375,
     519.739990234375,
     532.5700073242188,
@@ -24,10 +23,10 @@
     495.760009765625,
     503.57000732421875,
     544.4299926757812,
-    552.3300170898438
+    552.3300170898438,
+    539.6900024414062
   ],
   "6m": [
-    207.69000244140625,
     220.97000122070312,
     223.60000610351562,
     227.9199981689453,
@@ -158,10 +157,10 @@
     495.760009765625,
     503.57000732421875,
     544.4299926757812,
-    552.3300170898438
+    552.3300170898438,
+    539.6900024414062
   ],
   "1y": [
-    158.64999389648438,
     162.1199951171875,
     166.47000122070312,
     173.66000366210938,
@@ -411,29 +410,30 @@
     495.760009765625,
     503.57000732421875,
     544.4299926757812,
-    552.3300170898438
+    552.3300170898438,
+    539.6900024414062
   ],
-  "lastClose": 552.3300170898438,
-  "oneYearReturn": 248.1437367405302,
+  "lastClose": 539.6900024414062,
+  "oneYearReturn": 232.89539766596613,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Prediction: AMD Stock Will Skyrocket After Aug. 4 Due to This Massive News - The Motley Fool",
-      "source": "The Motley Fool",
+      "headline": "AMD, Cerebras Strike AI Chip Deals - Investor's Business Daily",
+      "source": "Investor's Business Daily",
       "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdVZQcTZ4SGZvTnUycWpFakJ5NVVLR0V3QW9FZ05CRFJiX1B6RWFoQ2tZWHNLdXktWkktOHJVYndVZnFiQ04wSXZLcnFfTk1vUlJ4S2tweTg0aTRsOWRPSFJLRHJiNHdMenoyMzdfSmFnNmtOMDk0UmgwTzgyTDNNcUhkQk0xc1FuQUIwSVhoZ1pUcVZ1M3ZqaQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmJlYVVYOFlNbDdDOUNVNldma2VnVFUwRTVOaExxc09aSXBxRmgtbFhtaG9YNUZPaTFLZ3ZpdXZ6WnZFcGxERUhoWjZjMGlqVVBaV1hIc19tS0puc1dKLUQtOEpjX2ZsRnJxR0RPbnJGYXRNR1NXdUpORVJYUFcyaWt4a0RDeWc?oc=5"
     },
     {
-      "headline": "AMD Stock Rises on Vote of Confidence From a Big AI Chip Customer - Barron's",
-      "source": "Barron's",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KdVV2eXJxWnctTGVjcGp2VEtQUTF2Zl84U1ZpSGM2SG56dEpMa1M5djR1bHBXblU5dU5obWRLSWliak5QSVRDN0tOLVZMVGtkUTQxSHE2YVVIQ0ZSVHE0VnRCOWNyVnB1cHVvb01SSVFWR2dt?oc=5"
-    },
-    {
-      "headline": "AMD to invest up to $5 billion in Anthropic as part of computing power deal - CNBC",
+      "headline": "Cerebras stock gains on AMD partnership - CNBC",
       "source": "CNBC",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05M3pjdUNHbi1CdmZNVFdBOXN6RzRGQkMyUVZCbnRZenNtbngtNmtjZ0M0YkdfaFRxSHczZ29zTVFDWFNyRFRwbEFrbWo4TndnR052X1NIYmV2ZnFlSGJ0ajd4UFhLbmtOVG9RNm52ZEx4bGFjR3h1ZdIBfkFVX3lxTE5lWXU0dTlGdENpVEVRa1RoNnlLeFZpTXZkVHJVbnByT2U4c3k1S2t5a2l2RHI1OXZ4VHRlaU53OFJJYlNzeWFmaGRrMTdIMWkwME9xZTBub2hRSWZJV1VzeGhxOWRKVjRwZDV5cTN0bGhOQWpPcmJ5SEdxSnR2UQ?oc=5"
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObEM2aTF2dXBpd2kyT1lUa1FGcFhDQTFwTmk5cWJKeFMzS3lvNVJXdGlyNFZ2Y2pBRkV6LXkxenlWUnA1YkhxZ2tWa002dmF4MTNzUWJ3dXZzZHBHa1BPb1hvOGJ1UkpmcGN0Wm1PVEY0NnEydVRybm1BZGJFTUkyVlJn0gGHAUFVX3lxTE01eUVVZUVGbWtBeTdlZ0MtVTBKTlNtVXRqaUVHZlc3aU11SllqVVlhVGNLZ2xWWlNNYWh6UmVhSjVlRDVzSHdXdmxLb0gtamlKdjB6SE02WXdFUkRXSVUwTWkzOXNIYjhnOGVCVkF1WHVsYzdSc0tVMkd1T0ZMWWNkZGNUZ2MwNA?oc=5"
+    },
+    {
+      "headline": "Stocks making the biggest moves after hours: Intel, AMD, Boston Beer, Deckers & more - CNBC",
+      "source": "CNBC",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdYYU9PVXIyeHVGdHNsYi1aMjNGUGktU3FjZEkwbEFrVEZSMUpwOEhjODdkLWZIRXM2LXJkMS1NNDJhYVNyeEtTM0lxNzdVbGRKNjRXaGFhSmQxUXRtaVh0ejZnRmFTdFkxSmZVS3NYWERhOEx1ZmVNdjZFdHp3UXVBU2V4VHYtM0VKY0puRzVEQkpZeFBnVWNCN3I3YlU?oc=5"
     }
   ],
   "insight": "Tracking Advanced Micro Devices (AMD)."

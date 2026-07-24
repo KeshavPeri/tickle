@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:52:16.523Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:48:48.170Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    121.72000122070312,
     123.68000030517578,
     124.62000274658203,
     124.55000305175781,
@@ -24,10 +23,10 @@
     126.0199966430664,
     125.58999633789062,
     125.58999633789062,
-    125.05000305175781
+    125.05000305175781,
+    124.83000183105469
   ],
   "6m": [
-    101.80000305175781,
     102.08999633789062,
     102.0199966430664,
     101.80000305175781,
@@ -158,10 +157,10 @@
     126.0199966430664,
     125.58999633789062,
     125.58999633789062,
-    125.05000305175781
+    125.05000305175781,
+    124.83000183105469
   ],
   "1y": [
-    95.62999725341797,
     94.70999908447266,
     94.23999786376953,
     93.19000244140625,
@@ -411,17 +410,18 @@
     126.0199966430664,
     125.58999633789062,
     125.58999633789062,
-    125.05000305175781
+    125.05000305175781,
+    124.83000183105469
   ],
-  "lastClose": 125.05000305175781,
-  "oneYearReturn": 30.76441142247165,
+  "lastClose": 124.83000183105469,
+  "oneYearReturn": 31.802347204879332,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Federal Realty Investment Trust stock hits 52-week high at 126.65 USD By Investing.com - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd3o0aEExMUNHMzZHM1oyWm5DTG51MnBrNWhnRW9Kd2dsczR3U04xeEZJV0ZmZTNEM19tb1hTYUxBTWtrS29XOVFyeXIyLThvOU9fck5qUUhQUVJxQVBSQnk4bnRXM1pFcEgycDFDbWt3NXVXbmMzVnRPYm0yeE5wZ05PMG5YRXRwNjJaaTZaRnZGRDNyeTZGN1hNSFl5amh0WDJoYTR1RVRaT2VzQlFkZ3lsaTVHS1B6OHlaR2o0Y2Vodw?oc=5"
+      "headline": "Federal Realty Trust Just Declared Its 58th Straight Annual Dividend Increase. Here's How Much $10,000 Invested Pays Annually. - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmlHWGdHd1E2bElXMFgwMXFCRjBweUtWb2xUc2hjTlpacC1fUHJqVUdOQ1ZYMk4wZmhvUVhIQ1BITndFaEdjLU1nMFdJQmdyc0xPZjFlVkxWd0ZDcmZBel96N1lpWmR2bFdvSXp4eWhJUzNqMll2d0tQOVdqNkE1Y3ZCMXJWREVBZmRUUlBxWFItWXFXZGJJdndjam4?oc=5"
     },
     {
       "headline": "Federal Realty Investment Trust vs. Realty Income: Which Real Estate Stock Is a Better Buy in 2026? - The Motley Fool",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS0hyMk5iUGhvTDN1SGJLRUdoWmlQV0JwY3dWbnlyNWRqanZGWHVGS2lXRzZFTnNBR0VVOUhTalpTSTNDYkpMdG9vNDFlNU9uS3dDcUhoc2pkeGF6QngtVWdOUkpQT1RIT2Vzd3Yza01qU1FQa2hrYURBemV0RkVQMnlaTFZLMG52dW5XenlSamEyV3g2WHdLUUdFSllQOGFDa0RFRVo3NDZ3SXFfVnd6RmVFZHpRWGZlVldYTFdZNkJCOUgyU3dBZl9nX2JZbEpkZnBXelZSS3NaXzU0cWR2ZXJ2UQ?oc=5"
     },
     {
-      "headline": "How Investors May Respond To Federal Realty (FRT) Extending Its 58-Year Dividend Increase Streak - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLTNRWi1ENzZ1dnpzWm82cGNSSGE0eVZ0UGJsSWk3YkxzX3F4UnJuanNhaGM4N0Z6cU9DR1laQlA3Q3NITGlIWTNwT1F6QThrMWw0YjNWcXNzS215M3UwUWQxbU1vQTk5bFdqMFJ2dWxCRWtuRDRNOUxyWEVKQmZ4SVgzV1dqLXZrYjhYTTZ1NVF1VVkxb09semZpVlZiTlA4eTdhQWlnRDJkZUdtRGFYMGZpMi1RdHgwTEdZUTFtaUE0akMtZE41cjZmd05ONFpqdjIxbnRoQlA5Rl9XVkctN0QzeC3SAeoBQVVfeXFMTTNUNXhqQVdsNzBMUV9MWjR2VkJzN2czLTdUeWFuenQ0UGtyUHRtREIzOWxXVG5ad3JncUZtVVJvbkhsVXlnS2M4b05GVGlOSjZVeGd2eHVoZkQyUC1oWkxjaUlYT2hDd3FtSDE2QWpaQTVUZ0pDMGtUTjR0VUFEQVdJMDVoUlFNV1lyZmpibFhkVFpBVkFrY29RdGhLdl9wTE5Wa1ZfRnowQm5VUFMxZFV0bnJRSkplTmkwX25EUy0wSTBleUN0SWFicEF2RUdiOXBXTVZHcUZiYXdMUUVMekQ3THI3Y2YxWDJ3?oc=5"
+      "headline": "Federal Realty Investment Trust stock hits 52-week high at 126.65 USD By Investing.com - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd3o0aEExMUNHMzZHM1oyWm5DTG51MnBrNWhnRW9Kd2dsczR3U04xeEZJV0ZmZTNEM19tb1hTYUxBTWtrS29XOVFyeXIyLThvOU9fck5qUUhQUVJxQVBSQnk4bnRXM1pFcEgycDFDbWt3NXVXbmMzVnRPYm0yeE5wZ05PMG5YRXRwNjJaaTZaRnZGRDNyeTZGN1hNSFl5amh0WDJoYTR1RVRaT2VzQlFkZ3lsaTVHS1B6OHlaR2o0Y2Vodw?oc=5"
     }
   ],
   "insight": "Tracking Federal Realty Investment Trust (FRT)."

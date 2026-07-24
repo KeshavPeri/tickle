@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:52:40.315Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:49:07.076Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    48.7599983215332,
     49.66999816894531,
     49.790000915527344,
     50.66999816894531,
@@ -24,10 +23,10 @@
     52.5,
     51,
     51.380001068115234,
-    51.72999954223633
+    51.72999954223633,
+    51.20000076293945
   ],
   "6m": [
-    50.13999938964844,
     49.689998626708984,
     49.83000183105469,
     50.279998779296875,
@@ -158,10 +157,10 @@
     52.5,
     51,
     51.380001068115234,
-    51.72999954223633
+    51.72999954223633,
+    51.20000076293945
   ],
   "1y": [
-    45.81999969482422,
     45.47999954223633,
     45.650001525878906,
     45.09000015258789,
@@ -411,18 +410,13 @@
     52.5,
     51,
     51.380001068115234,
-    51.72999954223633
+    51.72999954223633,
+    51.20000076293945
   ],
-  "lastClose": 51.72999954223633,
-  "oneYearReturn": 12.898297439490591,
+  "lastClose": 51.20000076293945,
+  "oneYearReturn": 12.57695971476666,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Jim Cramer Likes Truist, But Prefers This Financial Stock - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOC1YU0xPQy13eXE5ZE5CWTdTNmQ2VTU3SXdDTDdPeXp3eFI4SExBcnJoM041SUMzZUliVTJReXZBSXJyc25uNHBaeS1BdVlYZ0h3cXhCa3dGTHJHMUlDTjc3Vi1aTnAybG5wbTdtRGJaZWtPX2M1N2hWRWhQbWdxcGhtWjJ4eUpGUTVZTWYyMklmektKdm55Q0lMa3Vod1BYLThQWEtPZDQ4bHB0MlZxa042QlVxMFg2bVpkcy1R?oc=5"
-    },
     {
       "headline": "Truist Financial CEO Rogers sells $693,809 of company stock - Investing.com",
       "source": "Investing.com",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMXNiN2haWENBVnF3eWtGMEtkRzhWVVBwamw4TVV1dUZlcXhsVGQtZ19xU1lHQXlJajZWc0FBektZUmwtVnQwMGptTnBsQUQtRFZiaDdfZ1FfamVzTS1uNVNGRVo3LUJrRF9JYnpwUnE1ZHU5T2RqVnlfa01ZWXlCMzk3aS11SXlHLTZDUjg4RS1tYTNIZk5wdmtJNG5sWjRfUmdVUEtKQUNTQnB2WVo5bV96UERLMi1QZ05ueUYzUQ?oc=5"
     },
     {
-      "headline": "Truist Financial (TFC) Gets a Buy from Argus Research - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNjlzcEg4RDNsMVU2Y3pHNGRjU0FVM2VpUXhnQ1k0OVpNUVZ2bWRJNUE3dmozVDFkUlpXMVpGM1o5Ny1UQy1tYWFDT1Mtd2ExdVhJN0tyNkdVTUdXNWI3VzlmSDYtZVp4LWM2M3c2eTFfVFB4VWhscHVRUlpiaDNlX1NQTTQxaVFYcEk3RzhlYmh1LS1aVTF0anhPanJsVXR5eWd0MXk4ZzRuZHZYNkFlNEphaldnRlJLa0tJS2c5cGx5LWlmQlphSGZKUHBrSnBwdVRj?oc=5"
+      "headline": "Truist Financial (NYSE: TFC) sells $1.25B 4.957% notes due 2030 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVktQnVidVNCY1VMeWZvSVJXWEVCUmJRSlFXNFo3a3JUY255QVNLamFEbHg0LXZ6c0pPQ1BSQmI5UFFVSzl4dUcwU2k5OG0xZU8yUDNwVmUwd2gyOWVaZ2pnOFA5bEFhdW9MMnVlYmJjTWQ1SXZpNjR6M2pmRFdlMWJUQ3JPWkpVWmxFYmpGeUNSQnk1SUI3NGNmdE83ZFFRUEQ3a0U0X1pBY0tjYUE?oc=5"
+    },
+    {
+      "headline": "Cramer's lightning round: 'I prefer KeyCorp to Truist' - CNBC",
+      "source": "CNBC",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ0hmZG1FdmlVQm5KNUFNTl9HS0daZm42M2YtY3NkNXpRYk9qQTg4S01kRjFhNFYwY0JaYkRzQVRFSzZTRHVteFFvZHZ0UktBS214a25JUlNLTjloZE9YMGswVEdIS1N3OGQ3dGx2alI3MGRxMzE1blFjbFQ4c21BX3l2VDRxVFBBNTZhTHFPZmbSAZYBQVVfeXFMTko3Wm0wSV82MWwtajRpUGsxdTVzTlZ0QUpFdnZVUHBPcm1Rb3d5NmZrR2ItUy1idTN3QzdKN0tyek0tRTR6OWs4WWNVUUticzBSVWktSGhrQzNWVXVMRUNWV1VaVHhicWZ1VFFzdFFVdm9yVUJvc1RuQ1VmVElYWm50blpwWnUtdFpQLXVrMGN4YTF0NFBn?oc=5"
     }
   ],
   "insight": "Tracking Truist Financial (TFC)."

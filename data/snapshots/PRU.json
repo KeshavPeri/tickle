@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:52:35.818Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:49:03.433Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    108.26000213623047,
     108.4800033569336,
     106.26000213623047,
     107.02999877929688,
@@ -24,10 +23,10 @@
     119.06999969482422,
     117.97000122070312,
     118.58999633789062,
-    118.8499984741211
+    118.8499984741211,
+    117.83999633789062
   ],
   "6m": [
-    117.73999786376953,
     116.58000183105469,
     117.70999908447266,
     116.43000030517578,
@@ -158,10 +157,10 @@
     119.06999969482422,
     117.97000122070312,
     118.58999633789062,
-    118.8499984741211
+    118.8499984741211,
+    117.83999633789062
   ],
   "1y": [
-    105.3499984741211,
     104.30999755859375,
     105.20999908447266,
     103.75,
@@ -411,12 +410,19 @@
     119.06999969482422,
     117.97000122070312,
     118.58999633789062,
-    118.8499984741211
+    118.8499984741211,
+    117.83999633789062
   ],
-  "lastClose": 118.8499984741211,
-  "oneYearReturn": 12.814428282423027,
+  "lastClose": 117.83999633789062,
+  "oneYearReturn": 12.97095110341337,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Prudential Financial stock hits 52-week low at 21.75 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGJFc2tveDRScVZzWXRIT1JDa1FJejdkRndWc0lkdHlES2tqRFFHbGJ5TVQ2SUd2SS1ZdW1zZktWdG1RR2FwSGFWSFlGUVBiT21NSHNHM21YNkc1cE5INjRwMFdIdnBpM2VRNEpFUUY4ZGFmeU94aEJJVGk2ckxWSnJYUW9FZGVzQlk5b3JUZktwSnhwdnY4eWU4TzU3YVRZcFBMTDl4OVJMRVNQTmJWUg?oc=5"
+    },
     {
       "headline": "Prudential Financial (PRU) Stock Trades At A Discount To Fair Value While Earnings Stay In Line - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnJ2eG5ISTBWUjhfT3FXNTRqRl9ocWhJZlJ0TnhvUjBiZDUzdk1MTHRpSHlPdWFsaWRZNTc4QjQxeXZmWkFnWnJIYm5waWx4ZFdzRzZ4VXlvTHB3UnNfNFVJbnpFb3pyMG9tanhzaVdGdUNoai1rTzM0Wl9tM3dSNmhmUV9ucl9fOVFTeHh5VUFadTRmbnFTUXRBQXh1OEJHVlhibQ?oc=5"
     },
     {
-      "headline": "Prudential Financial (PRU) Stock Trades Below Fair Value For Now - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVnFhZkJOaFRpNlhUMFp3d1hYbzVwRTRmNllyd2hRNXBWWGpEZW1PSXVxaWFCNHZBeDZMVUFLNFFlRWd0UkwzdGp1YWVJdklqenRsMlZlX3ktSHhORWhuNmhQTmM1VEl1dUpPQVhNdHZES0wtNlZwVDBKMTZZZWIyTnVIbUNKaXVnU3BzNklRZGo2dUU1ZzZBMmNCT3o5N3c1NHV6TVB3MmZqSXFtMTR5VDMzSGxMRUt1bzg2UmNrV0RkT0xGNzZYVDJiandiMU52U3pn0gHYAUFVX3lxTFByVUhheUl4dHAxT0VKNVJDTGR4bE4zamh2bml2SFVTVlppX0VaM2o2RTF6dmtmODY4d2R5elJMa3M0cXhEOWJFYktWXzF0SEJyakF5aWFmbHRiQmNMRFY4U0tuQjhqT1lzRWZCNm01eTBMTkV0VGNWaWJuUVdiMmZTWUVQcXZVTkd6aHBLV0R1QlRwWGhWVGU3T3FETmJ6N1h4ajZkUW1rRFJhRlF3bVZHVE43ZU9pdW9ubENSZElNWVJ5SUU0S2hYSEpQME1XSXp1Q0t5M3RmRg?oc=5"
-    },
-    {
-      "headline": "Prudential Financial stock hits 52-week high at 119.8 USD - Investing.com",
+      "headline": "Prudential Financial Inc preferred stock hits 52-week low at 16.05 USD - Investing.com",
       "source": "Investing.com",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV1A3UTNSRVI1ZVpXYzlPWDZUT3hjWUE3QzRsMVNfTWR2VDAyYzY3cWFJSWNBUjVnc1dGbFlDRlVYYnNEZEh5X2Q3UGRmWTNWVGNBRFJiclkxeGl5cXBiNF9mOWZJM0Raa2ppcXBYeUpUTi14OUkwV0R6bE9aU2pqOXhPZXAyNVAyTFUwdkxZUVlzQVN5eTlocS01M0VIQmc1bHVXb3p0dGh6emFsNDNWWVdn?oc=5"
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbk8zdzM3dkk2bjZESkw0VnlqY2s4UWtScHJnVHFxbVJGUm84VUVMajBZa0RkdHhMeG13ZS1rMlVMWkszcGcxTkxyYjNDRXhKUFJRNUVtZkxqUk1KOHpTMkx4ZHdZbl9mdUxSQ2lBWmlGb2JEQmJIZUwtQWE5bHJ2R1BRcHMzcHpuelY4MW1qMUJuZk1Fc2ZORGdMdHFxQmZRSER2ZzhneFZZZGd2TDBGbjUzQm11bzR6aC0ybTI1d21NYkk?oc=5"
     }
   ],
   "insight": "Tracking Prudential Financial (PRU)."

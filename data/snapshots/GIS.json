@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:52:17.715Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:48:49.332Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    33.34000015258789,
     34.43000030517578,
     34.79999923706055,
     35.400001525878906,
@@ -24,10 +23,10 @@
     37.970001220703125,
     37.58000183105469,
     37.150001525878906,
-    36.90999984741211
+    36.90999984741211,
+    35.54999923706055
   ],
   "6m": [
-    43.47999954223633,
     44.27000045776367,
     45.619998931884766,
     45.599998474121094,
@@ -158,10 +157,10 @@
     37.970001220703125,
     37.58000183105469,
     37.150001525878906,
-    36.90999984741211
+    36.90999984741211,
+    35.54999923706055
   ],
   "1y": [
-    51.27000045776367,
     50.95000076293945,
     51.06999969482422,
     49.849998474121094,
@@ -411,12 +410,19 @@
     37.970001220703125,
     37.58000183105469,
     37.150001525878906,
-    36.90999984741211
+    36.90999984741211,
+    35.54999923706055
   ],
-  "lastClose": 36.90999984741211,
-  "oneYearReturn": -28.0085829571649,
+  "lastClose": 35.54999923706055,
+  "oneYearReturn": -30.225714024092266,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "General Mills: A Dividend Cut Would Be An Opportunity, Not A Threat - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVpjXzcyZUZJel9Za09QbGJIR2ZiRmNRX0U4akxMWG5xcFZFMjdaUi15c3Q2MVZkT2w4bjByWnducVMwaHFSbkN1ckdJeExsLUpId0M5Y0pPSUtzTXBoVjgtemlLUWNZM0NtM1hPbXlRTmdrd3IzT3RZNkdoVFNmRldjSjdQZ0RWUWpYdk02WFYtSm1neFBvQmJZYndVN2ZELTNDUm1fcjg?oc=5"
+    },
     {
       "headline": "Jim Cramer Highlights General Mills’ “Blowout Quarter” - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUndZZFB6bEFOLWltbUNBZ0hZbzBtVGNsTG9NYVVoRHYwVGlpNnhxeDRkOXFacmI5b0ppXzFhTWswTUd5ZWgtM2h2aFVxdXlmNnlXWGp4SHhNNnFQWDhhSFRPcU85aDdyQ2Q2YWllUkUwT2R5aGFqeEp2eElZbTJ3R1duNTI5ZWZEOGQ0NnZmZlZMdUQwNzNGVEdoNVY5Y2hsSmc?oc=5"
     },
     {
-      "headline": "General Mills, Inc. $GIS Shares Acquired by KBC Group NV - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2ZvRjVILTR5OS1VeXR5cTVSREk5UnNIYjdlOFNDOGhmYnRYbHo3YW5rN0hzQi1oVUhVWE1fYW5UNzBBeEpuR3FnYXFMcWlQbHB5UHpVTGJUZzRSVnNPREJQSW43NFo1aGFUb1JldG4tT2JfWDVHY0ZPNG1ic0MxTDVKSEQ5aEswZjVmMm5OVGRRTENHcWVpR0otU2hUNHhRNl9JRjVsWk9uQTZaTXdYOEx1ejg?oc=5"
-    },
-    {
-      "headline": "General Mills Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORzRnSHZTUHJEMG82eVFCWWRvbkVkRFVYUTNlOXBKeDVMakRYT21ZYktSTFZ2UDI2cXBFaTl4N2ctU0xuellOQzNMMUJGU3Nqd2xTQnRHdHo3VVdfeHJteUdfT1QzNndoTXBiTUR4ZG84RDRMcGlQeUJua0RfVWVoYXZMa2VfTUd5d00tRXRpTUlVYkdSRUY3d1lmY3V2Qmx3N0hmSW9WMjhJYTF5WFBsdlhfdWpzd2xIZTJwRExPdGNXSU5NcHFHNUxNd0J0b00?oc=5"
+      "headline": "Golden Snitch Cookies and Chocolate Frogs Reach Stores - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3o2MDZzYWRyRXYyTEpUTzB5ZndBNU1OSEtOa0tIOEhnOGVJZHI3WG5IM01JaTNxSTQ4UVlwbDRYdmpaTVVvQnd2MG1EeEJnbWRESXctbHZhVUdnTkRObXhyVjVTUlNSWkZqQkM4RXVweGhnbVZRT2hKTGRheWlUTzM1cExObmdZVFVyN21faXBkNFJzY2R1V0hhRDNybFY4c3AzaGxjZ0JNTGV5aEpybGxXYmpCdFJG?oc=5"
     }
   ],
   "insight": "Tracking General Mills (GIS)."

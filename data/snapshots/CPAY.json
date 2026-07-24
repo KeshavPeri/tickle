@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:52:04.181Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:48:38.017Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    347.1700134277344,
     339.3599853515625,
     344.260009765625,
     325.80999755859375,
@@ -24,10 +23,10 @@
     365.7900085449219,
     369.2799987792969,
     366.1499938964844,
-    359
+    359,
+    364.79998779296875
   ],
   "6m": [
-    330.7300109863281,
     331.0899963378906,
     327.7699890136719,
     330.7699890136719,
@@ -158,10 +157,10 @@
     365.7900085449219,
     369.2799987792969,
     366.1499938964844,
-    359
+    359,
+    364.79998779296875
   ],
   "1y": [
-    344.1400146484375,
     333.54998779296875,
     335.8699951171875,
     333.4599914550781,
@@ -411,12 +410,19 @@
     365.7900085449219,
     369.2799987792969,
     366.1499938964844,
-    359
+    359,
+    364.79998779296875
   ],
-  "lastClose": 359,
-  "oneYearReturn": 4.318005671831853,
+  "lastClose": 364.79998779296875,
+  "oneYearReturn": 9.368910551241445,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Corpay Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNUZFU3NiVm5BZGJVeVpLbmt2Z2h0djJKYzhyUFFzRkdiRFhOZTNsa3ZYeHVjeHNsTmRFUWN0LUhrUXk3WXNKZTdyanMtV1poRkc4UW11X2w3ejMwcno4Ykt5ZV9yWDRBZUJmWF8zSEV2eWcwcjdMYkhpOE41MEo2anZaa2JTNEg2WThyTWZyY2QzbEZHeDBHai14ZlBWcFB5T1dHX0taV3g3TnVXaGpiclV6RnJzVmhtSUR4QmVkb1BDeUJaVVRWeS1mZXdJUURFUHBvZ0xmNA?oc=5"
+    },
     {
       "headline": "Here's What to Expect From Corpay's Next Earnings Report - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORThQX21mZk4yQktrWkNGMUY0M2MybVZsT3dXTWZyaE5YdkNpbEhLVU81Sm5rQzNBdV9Dem1ucG1LTzV6RjdXY0ZpdWJObFdOUG96LTh3aC1lTm4zYXhCZnR1UHBheUZub3REVjRjcUc0ME9WSUNJdzJnOXNSYUt1OTNMTUVMcEFUU0syRHJ3ZFZ5QmtFVXBablJ5andHZFMz?oc=5"
     },
     {
-      "headline": "Corpay will webcast its second-quarter results call on Aug. 5 - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOXzVSekNlMjVqbmpmY094dUUxdXl3UDFFcEIwUVpsTkVySEFRWU9iZmFrNnhISE94UkdlbnRvS3VwT0p5ZTFrbEh4U2VfcXlsNkFZRTk5SWlPZ1BRc1R3elRnZ0RHdjZqX3FPVV9WT3FjWUJtRTAzSDVGajNFLXREQjBpRXZCb1NWZFQ4N2hRV2ZnOGY1Q05IdU1tTFB5d1BfcTktTGg3eDI4Rklaa3YzbGx5WQ?oc=5"
-    },
-    {
-      "headline": "Swiss National Bank Has $56.76 Million Holdings in Corpay, Inc $CPAY - MarketBeat",
+      "headline": "SEB Asset Management AB Acquires New Position in Corpay, Inc $CPAY - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZy1jQS1sVzB3MTR3ajd4eTFLd0JxeGhZX085UlIySzVGZGR2QWlacFdmeUt6a0ZUbDFCWkhERktvTlBWdld2bVo3cm5oT0ZEVzRxbVhidnJJdVpTbFhmX0tFcXhkdVRwZkNHS2ZvV05FZDcwNnJhVFA3REU3MjRFUEIxYVNKeC1lUDQwZTM3VVpOZUZHemVMdlRtaHdDdUt4UHhkd1RMSktna1hFNnN0dmNxUGpWNHZOdnV0VHpSdklVU0E?oc=5"
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdzRjLWtBaXJhdDd1NjlQVUtaNF9PZy0wYkxyamJYempaTms2WjdMSDJCR3FHM3h5SHBEa29QX2Fyck5UQnE2dmJ4QS1FM3JmSVBITFhSRS1DcWphSzJHemQ4V1h6WmlEOUhORzFfWTh6SFlLbGI0Nnk5dDJ3T05TN1dGdl84STRQQ1FCZ3gtVTRLaURGc0Vha2llUVhWUVdxWjRlYUdpQU5qTnBRdVBzclVpcVhLVWdsNE92M01RUm9nXzA?oc=5"
     }
   ],
   "insight": "Tracking Corpay (CPAY)."

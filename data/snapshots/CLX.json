@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:52:02.454Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:48:36.569Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    90.5999984741211,
     92.63999938964844,
     95.37999725341797,
     95.2699966430664,
@@ -24,10 +23,10 @@
     96.31999969482422,
     96.29000091552734,
     95.69000244140625,
-    95.76000213623047
+    95.76000213623047,
+    93.80000305175781
   ],
   "6m": [
-    106.9800033569336,
     108.86000061035156,
     111.41000366210938,
     111.2300033569336,
@@ -158,10 +157,10 @@
     96.31999969482422,
     96.29000091552734,
     95.69000244140625,
-    95.76000213623047
+    95.76000213623047,
+    93.80000305175781
   ],
   "1y": [
-    131.42999267578125,
     131.4199981689453,
     130.80999755859375,
     127.23999786376953,
@@ -411,12 +410,19 @@
     96.31999969482422,
     96.29000091552734,
     95.69000244140625,
-    95.76000213623047
+    95.76000213623047,
+    93.80000305175781
   ],
-  "lastClose": 95.76000213623047,
-  "oneYearReturn": -27.13991670648836,
+  "lastClose": 93.80000305175781,
+  "oneYearReturn": -28.62577662558296,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Clorox Co. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNThVM3B4RWJhTGhUQWotV1hQLTlTWENrd2dkMkJoYnhOZEVoSjNfdi1JSk1hc0lKcEN3MFp5M1dOeGt2cG1PSXh6MDNKa2pQclZjejJwWk00Yk15SnlEMEJmUHByZ0NpQzhCTXNZOHE2OXpWdEk0Q1JmTzVPNW1rZzBCNnR0MW1aZ0o3bWxDWXdWN0JmRXBQVGdwQTRoZUkxM1M2NFVvZ3pSUHlKVjdwdGFRNThoMUgtc3V3NkFXMXlFYzZ6Y0E?oc=5"
+    },
     {
       "headline": "Clorox (CLX) Stock May Be 35% Undervalued As Earnings Near - webull.com",
       "source": "webull.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxT0dLNVRJNjZ1NTBFUERYNWtITHU5RzNjaVRqbHpDcmJIQ2NNeVVraHo5YmNvM0h6SWJQbU84TktTalliQUNfNW1XRGZEa3YwejJtRVI1Y28?oc=5"
     },
     {
-      "headline": "CLX Paid Holders $3.8 billion While The Stock Went Nowhere - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT0tXV2RBbHlCV2pwRldmODVENlVUQmQ1ZFR5ZDN0Vjg3aVg2aFFWYzFXQWlRYm1LY3dwbDBTUFdGT2FIT0J2UnlYRjQyb2VEZ1I2c3Z3VU4xRXN4VlBWSWZWWVZpOU83SzFuYlQtSmtoUFNHUnF5Yjk1YkFFVU5mcmlQeDNWM09DaXVUU2J0R0NMcUFZNmFWejJEREM4a1JhelFwMTJWdEd0ZDhHeGdCQVJKRFI3aF85?oc=5"
-    },
-    {
-      "headline": "Is Clorox (CLX) Undervalued Following Guidance Cuts And Upcoming Earnings? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOG5TTm9ZT1ZhMFZySGNzaWV5TnpYODZsVnBQV2ZFMnBTUl82Yk94WnJJdVlMeEstTTRJeXMtWFlnM004SnpmSENzYzNOcTdIbXFJNEJ6TnRoVXAyMm1UMXp0NDVQSk11czRyT2drN2pSQlZJZWYtV0g4dld3ZUJXX1U0RzJvaHVPS2dLV0dVLUN0aDFnQnA2VkdzdHJoeThTM0NSQ3UwbXlrdw?oc=5"
+      "headline": "California Public Employees Retirement System Has $22.26 Million Stock Holdings in The Clorox Company $CLX - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUmx5YTRzVXZFZ2JOSkxJM3ZzanZ3YV9ZVE5EUWw0WnZwSko3UUtxLVhCQi1Ea1NyaVhKbXNObF8zLTVuMzhDTGY4aHgtSmN2ZUp5OUY4bUJ0WnppS1UwdnpaY3QzMGhXQVF3cHpTMVRkMzlnckpkdzkzVzZ3Z3drM2Z3U1l6dF9oRUo5dVFZM1hnaEFYUjZLME9LeVFKVVFDa1o2ZUkwandhUXJPdEJJNWx0SjZHNlJRUG9wSTJwMURObjFELUhVUnRiOFRzZm9Yb0tmNC1ISExVRnZXYkRTYm5Rbl93U18xMU1OVXllVVJKU1FGWGhz?oc=5"
     }
   ],
   "insight": "Tracking Clorox (CLX)."

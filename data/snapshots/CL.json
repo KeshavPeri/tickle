@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-23T04:52:02.009Z",
-  "builtDateUTC": "2026-07-23",
+  "builtAt": "2026-07-24T04:48:36.613Z",
+  "builtDateUTC": "2026-07-24",
   "source": "yahoo-finance",
   "1m": [
-    88.66999816894531,
     91.43000030517578,
     91.87999725341797,
     91.05999755859375,
@@ -24,10 +23,10 @@
     92.9800033569336,
     91.93000030517578,
     90.5,
-    91.62999725341797
+    91.62999725341797,
+    90.08000183105469
   ],
   "6m": [
-    81.93000030517578,
     82.95999908447266,
     84.55000305175781,
     84.33999633789062,
@@ -158,10 +157,10 @@
     92.9800033569336,
     91.93000030517578,
     90.5,
-    91.62999725341797
+    91.62999725341797,
+    90.08000183105469
   ],
   "1y": [
-    88.79000091552734,
     88.44999694824219,
     87.93000030517578,
     86.47000122070312,
@@ -411,12 +410,19 @@
     92.9800033569336,
     91.93000030517578,
     90.5,
-    91.62999725341797
+    91.62999725341797,
+    90.08000183105469
   ],
-  "lastClose": 91.62999725341797,
-  "oneYearReturn": 3.1985542387734953,
+  "lastClose": 90.08000183105469,
+  "oneYearReturn": 1.8428546512741217,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Are Options Traders Betting on a Big Move in Colgate-Palmolive Stock? - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYi0wdVBvWWlvZ3hRMnYwNjNMWEpraVRVUFo0RUpzRk9UY2sybENWODJPcHA4WHduSkhCQ1hKSEJZTjVaUy1yLXIzMUl6bWRpMWdBT3FqZmtFLWNuaGFPWUlUOElEWlBWRC1xRFpUSkFNVTc4LVg5dk1aeFhVcHF6NVYzd2J2SHU4VV9wN0ttZ0JmODV2cFJHTFVneUE4Z3NuZnJZSlppRkJLaEFiWGJOY21LVFpCX0dJZEFVQ0cwY18yZw?oc=5"
+    },
     {
       "headline": "What to Expect From Colgate-Palmolive's Next Quarterly Earnings Report - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanlIOGNnbHB5cnZ5Mm1FVWE5cFZlOHlTWkgyV2pIZUJneVl0RThzbnIwSXliVGVDR1JKcURXN1NSa1VqUUxwb3hQUlpITUxqWkVoMEMtX2lGd3FVU1A5ZmMyQVp5eFh1bWUwYTIxSU43VVA2M0o1RHd4OUtlZUx6Z2NreTJNQUVzRDVCM0IySHJkYWVPZjFHeU9lUE1pYjN6OGVtR0taVEM?oc=5"
     },
     {
-      "headline": "Colgate-Palmolive Company $CL Shares Sold by KBC Group NV - MarketBeat",
+      "headline": "Davis R M Inc. Lowers Holdings in Colgate-Palmolive Company $CL - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR3FCUTlSQjlxc2xyd0lFYi1iS3FjTlVvbEg3OFpyQ3I0RVRBOUFMVlFMUWctNV9HbXZxQ3VmT3FHeWNQNncyalMxN3hKcXpVWENLeU1sWlJlelpsVGdkX3ZKUFJSNDNCbzFZOHlObk94eTlaWFV0SUdCdDdYS1ZJMmZlM2tKMnkyNzljQ2RBZlRlTWFwUDRwa0tEbXdxVVpaNjFCaldJcDFZdU1UNkFqTDRWUzBMeGRQ?oc=5"
-    },
-    {
-      "headline": "Beat the Market the Zacks Way: Liquidia, BILL, Colgate-Palmolive in Focus - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVl9obmhIV2FtVk1iNlVmRi14QzZhQ0hPXzViaVk3NVd5ODJJd3EySnVNeWI2eUVEN2tPYjBEd09Gc20zVEtDNGJ4V3A1dWhsSV9sUUdkdVRZcUV0VEtteWRUU0swU2pzZ214XzYxb0loN2FFSG9Qc0xfbm80OGRiQmpNQUxjOU9CTlUxQmdQQjAtNzdiVTRkbHEwbVRSTUMyYWl2RFVKb0pYYzRJdko1dVlPbW14YTlTWU9uOGpCeG1YTzln?oc=5"
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDd1akxaMHBDcGEyUzNsYmdDbXF0eEV2WEo2czNPZEVubDNNNXB2ZVBpaXhRWnE0UEp1M05SX0xBVF92MUQ2SzNXRV9kUjJrZlprX3NWMjlWdjg1RGRSa1dOVmRuQXJJeDh4a2RvRmdkVTVDVVFQWjNvYTdHd1VMYkZaY3A5N3lGVDFySVRQN29vUkZjTDhhUG1qelZkdzFuaDBnNHpKZVhsLXp2YzBEM1JEamNrQS1FdWVKdEFJcw?oc=5"
     }
   ],
   "insight": "Tracking Colgate-Palmolive (CL)."
