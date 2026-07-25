@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-24T04:48:30.187Z",
-  "builtDateUTC": "2026-07-24",
+  "builtAt": "2026-07-25T04:43:48.128Z",
+  "builtDateUTC": "2026-07-25",
   "source": "yahoo-finance",
   "1m": [
-    158.6999969482422,
     162.77999877929688,
     165.14999389648438,
     163.72000122070312,
@@ -24,10 +23,10 @@
     150.50999450683594,
     157.80999755859375,
     157.50999450683594,
-    157.42999267578125
+    157.42999267578125,
+    152.6699981689453
   ],
   "6m": [
-    148.97000122070312,
     146.75,
     154.22000122070312,
     154.38999938964844,
@@ -158,10 +157,10 @@
     150.50999450683594,
     157.80999755859375,
     157.50999450683594,
-    157.42999267578125
+    157.42999267578125,
+    152.6699981689453
   ],
   "1y": [
-    104.45999908447266,
     105.0199966430664,
     106.69999694824219,
     105.30999755859375,
@@ -411,12 +410,19 @@
     150.50999450683594,
     157.80999755859375,
     157.50999450683594,
-    157.42999267578125
+    157.42999267578125,
+    152.6699981689453
   ],
-  "lastClose": 157.42999267578125,
-  "oneYearReturn": 50.708399440511066,
+  "lastClose": 152.6699981689453,
+  "oneYearReturn": 45.372312939437556,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Fund Update: 228,188 AMPHENOL (APH) shares added to BARTLETT & CO. WEALTH MANAGEMENT LLC portfolio - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORTJsYlRPV0dyNzU5VWYxakoxeHo1T3ppM21aVWwzODJUX1VyMW9Wd3A4dk9DMVdVQnpaeHVXeTA5eDhhbEpEV0xHdlJVQ0ZIeV80cWZDUjdxYVBIVU94ZlFLSkw1U1h5MFR3N1V4Wkd6WXZfUkdqd1VyWDhiakpuOWUzYkxxMG1YNm1EMG5PRGcyTDNDaEVWYjgyZmZBV0RqVjhJdzFuVEpQZFRJUjYxcGliS3dlX29vdktjN2gyX3NacE9uajJ6SThYMGY3TzZqOFBrMjhmVTU?oc=5"
+    },
     {
       "headline": "Is Amphenol's Recent Stock Performance a Cause for Concern or an Opportunity - Kavout | AI",
       "source": "Kavout | AI",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZE5PYVJmUEM4b3NfS25MbG9zQkJ0M0FmajAtSnM1R0syVFVKdXduWTFiODdUbmFnT2pKVEdfdjd1elNlQThYLVF2TXl6LVBHZXZZZ0h1Ykc5bFZnUXJKazdhdGUzY3BDUmdzcHNfT3U5TW4zellIN3lpaUxGZ3loRHVrcEhfVHJSUmF5ZHFlaEdPU3BaYzR0MzN5UnRFeXpFX1JHUkxBS19XS0V0T0I4ZQ?oc=5"
     },
     {
-      "headline": "Amphenol (APH) Stock May Be Slightly Rich As AI Demand Builds - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSmZXNlFFZDFLT2laVDBLNFFKaWxid3N1Q2V3eGthRHRhbXZ3bzJGTkdGWEVhUE1PQThqNXhfdUVPcWhYbG9KeUw0SlJVS2lzUWl3VDhwOHZtVVowNjVONld6SG4zQWVPa29ROFlpLUZNVGhwWVM1N1RVSkRFSVBEMUluNGVFV2haQ0c2NjMxTVpCWV9xeTF2cXJ6WEw?oc=5"
-    },
-    {
-      "headline": "Mizuho Markets Cayman LP Sells 9,132 Shares of Amphenol Corporation $APH - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUlp3cHZGc1k3eTh0aDZmdnRVb2xNSDk4c3M3QlEtMm9YMURfZ3FDZWJMYkhjT2ZzVjlBei1XOFFGMWp6Rk1JUktob002ZHRydlVQQ3loVDRGNkxnMnpaNXdoeVFHb1NlNnJieExtZURqSGpLdGdXQnRMTnduWFRWSEtBZ0pMa0djZndsaFJJM3F1S3dsZXpTSE9Tb01ob1JVUXQ0UU1nOUNmc2o2c0F0WkFkWE9EYzVqcW9BcWI4aC1uaHgzSGFKS3JTUQ?oc=5"
+      "headline": "Amphenol Corp. Cl A stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNckEzY183cVZKMTdpVDJrT3doa2lWT05ZWjBWWXRFU1lsYXc5VXRfX0M2OFRoUkxCaktXSkxSWlp6WVB3cFRmaVVmaE9jVi11TVZORkdWYjdhbk91Z0tpcjEyMXlvb3pxM1NnWmZmQnVBdkNmRDFVTHZYTk9wekpLdkJFeDhqOVVUNDR6RE1QN2J6MHZWZlV2MUY2dVhCbGhSTG05bU5XeDN4VW5oRjVfVWJXdWp0a1djZW80ck0xX2o0Z0Z6NkhlNkVSRlpzT2M?oc=5"
     }
   ],
   "insight": "Tracking Amphenol (APH)."

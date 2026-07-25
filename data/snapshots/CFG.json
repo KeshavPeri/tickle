@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-24T04:48:35.734Z",
-  "builtDateUTC": "2026-07-24",
+  "builtAt": "2026-07-25T04:43:54.268Z",
+  "builtDateUTC": "2026-07-25",
   "source": "yahoo-finance",
   "1m": [
-    68.98999786376953,
     69.45999908447266,
     70.66000366210938,
     70.4000015258789,
@@ -24,10 +23,10 @@
     71.5,
     72,
     72.44000244140625,
-    71.80000305175781
+    71.80000305175781,
+    71.87999725341797
   ],
   "6m": [
-    59.779998779296875,
     59.93000030517578,
     60.61000061035156,
     60.81999969482422,
@@ -158,10 +157,10 @@
     71.5,
     72,
     72.44000244140625,
-    71.80000305175781
+    71.80000305175781,
+    71.87999725341797
   ],
   "1y": [
-    49.279998779296875,
     49.4900016784668,
     49.33000183105469,
     49.09000015258789,
@@ -411,12 +410,19 @@
     71.5,
     72,
     72.44000244140625,
-    71.80000305175781
+    71.80000305175781,
+    71.87999725341797
   ],
-  "lastClose": 71.80000305175781,
-  "oneYearReturn": 45.69806174979425,
+  "lastClose": 71.87999725341797,
+  "oneYearReturn": 45.241452446127326,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Citizens Financial Group Insiders Sold US$1.1m Of Shares Suggesting Hesitancy - Moomoo",
+      "source": "Moomoo",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQek4xcmRUUl9BRE5LX2NIajRWVTltUTlfR041MXV6bmFWRHBHZ1Z6LWp3UklxN1daaGNwOW1DNl9RU0I4WTlHTUVEYU5wd3ZjeGFrWVllaTdtZkwxOTY2bWRCSzdrSWRONmRvZnllNENKampnT1FORTFhOWc0cVJRWmhSaHA5TjAwb2J6eWMzWk1IWGE0Z04zNmFhVk1sVk0?oc=5"
+    },
     {
       "headline": "Are You Looking for a Top Momentum Pick? Why Citizens Financial Group (CFG) is a Great Choice - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRzBUc0hOdVlmdGN0d0pVTGlYMUp0aVlOakFBT0hxY28wRXQxcHJVdzRiSnJiSUtKeWNSazd5SW1hdFRkSWtNcEFmNHRxZHlUTkQ3VkVsbHRuNjhfSW1EdUhiNFJDN2hOT290R2xwbllEUjlnYWdsQy15MGlrQTM2RjNXTFlVTHBtNnFDNXdfRnBPSFpvOHctdFN3?oc=5"
     },
     {
-      "headline": "Citizens Financial Group posts Q2 net income $587M, EPS $1.30; launches proposed preferred stock offering - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVG9hb1ZCd1UyY2RqLWZBNWdCRlVIWExDTTJRT0YtVVFDSy1KQ0RSVU5jc0FadDcwcDlNYWJEUDNTdUZBZDdNSEM5YXF0LWN6VG15aUlrRXhIQmFZNVFLb1VKaVVvWWpHdVhsLTQwc0NfRW9oM2VxT1RqQjNnYVdRRHhpVnp0TkdtRzh1SEF2bXhIdm96U2tmdmpoRmREcmZVTXJfVktWWkZTRWZjTGxURTZ3WWlWRW0zQ2h4YkdjV2NKQU9WeGhuc1FTSW92QlhkQ0JaXzRRQjFrQ3E2NTRtXzlwbGdXb09oVUs1OXB5MXF6TFF6MEE?oc=5"
-    },
-    {
-      "headline": "Stronger Q2 Results and Margin Outlook Might Change The Case For Investing In Citizens Financial Group (CFG) - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdjlEUXhtTGUyTnVrajJ3bExFVmduSnY5QnpEZjNmSHlCMGFmVUUweWdmMC1zNTJJY0ZWeFhQRXFUbnVXb1VnWFlJbEQ5d1pQVEZnbHRISTFDODZtbUFQZ1JnQ3dPLXZ6ZHo4djhxT2xEdVExTkRaemJyXzZtSjZvOTZoWG9nb3FTMGFQWWZpQXJJVHNUbnhqNERiUzFkRHQ1MXlaZWFIWTBUTkxNTWJhRUpnWWpSS01QbHZ2RlItOFRyc3dwdUFhUl9WQl9oLU03U2NF0gHYAUFVX3lxTE9rbTBMZ3cyV3Vpcld2b094S2hBeDgtNk5pc1dQZUJOZ2FmNndwNF9kSGM3ZVl0cmREZUpGVWx1ODhDNnZZSGxtNGNHN3k4MTRxNU1HMERIc0JtbDQyV0l6dEtkR3Y0aDcyM0Jrb0kzQnVXb0FLNlFrclN2OTZic2MxSk5TTVAwRDdGSUg2cjdJakZyemV4bUxtYzhJM205ci0tdlVrUDhqR0Y5ZjBPS1NQdTVwelNNVno0bmw4QWQ2c3c1Sms2bzdseXpJeld4bFlrOXhhR2RVcw?oc=5"
+      "headline": "CFG (CFG) details 129,369-share common stock sale plan under Rule 144 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVd3Z0FXTGZvcFR6Q2M2MTVXYnR1RGplT01WQnFWNHVZaDBVYVh2QlQ4UThyQVZJTFgxQkJ5aGRLaGFsUTR4MjR2WlJfeGIycHlJY3lER0laQjI0cEVvOWZmeUFZWDdGRTB6N1QxTk4xcnRZRlowYXpZaDhvQmdMYlFVUF9yMHQxMHFIbWRiNUt4eDVsa2JDa0otS1F1MHNNdFQyM3c2SjBWVEk?oc=5"
     }
   ],
   "insight": "Tracking Citizens Financial Group (CFG)."

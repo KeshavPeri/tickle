@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-24T04:49:05.205Z",
-  "builtDateUTC": "2026-07-24",
+  "builtAt": "2026-07-25T04:44:25.255Z",
+  "builtDateUTC": "2026-07-25",
   "source": "yahoo-finance",
   "1m": [
-    33.31999969482422,
     32.45000076293945,
     31.68000030517578,
     30.6299991607666,
@@ -24,10 +23,10 @@
     23.829999923706055,
     25.5,
     30.559999465942383,
-    31.200000762939453
+    31.200000762939453,
+    30.100000381469727
   ],
   "6m": [
-    28.600000381469727,
     28.270000457763672,
     29.420000076293945,
     32.63999938964844,
@@ -158,10 +157,10 @@
     23.829999923706055,
     25.5,
     30.559999465942383,
-    31.200000762939453
+    31.200000762939453,
+    30.100000381469727
   ],
   "1y": [
-    52.52000045776367,
     54.470001220703125,
     60.04999923706055,
     58.630001068115234,
@@ -411,29 +410,30 @@
     23.829999923706055,
     25.5,
     30.559999465942383,
-    31.200000762939453
+    31.200000762939453,
+    30.100000381469727
   ],
-  "lastClose": 31.200000762939453,
-  "oneYearReturn": -40.59405847105744,
+  "lastClose": 30.100000381469727,
+  "oneYearReturn": -44.740224514573306,
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Super Micro Shares Surge 20% After It Says Gross Margins Will Nearly Double - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPREczMENCZ2k5MUpzRDlyX19lMXROQlN2YmRFeTF5ckxWYjloQW9rcmdCSlpMT2s0WFJVdURJWnV2dHdENW9RMERGSXl0OTNWQ1NUTzMwY0l1bGJZMW9fNjA5SzAtY2M5NUJ2cXpZV0Z3b0FSU3RkR0laaGduN3dYY3c3N1Fqdw?oc=5"
+    },
+    {
       "headline": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-21",
+      "when": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPai05cGt1NGNPSU56dnRoZzM2S1JSNWdObTQ3WGNfQlNaOHJqcXh5UUo3ZmIxRVFUUVFuNHA2WS15Y1lpcjczQVhyMGVBajJ2ZkdNMDdGS3ZXSGtDVlVTcHdLeGRsQVdLcjFjdXhKYWFrSkprejJWSnJNZ3ptUFAxY3dOT3hGemowZVNHUldkamdVSWFzdnBCSEt4MUFGb1NXZ0g2SFFRai1EazVkS0dpZUpqMzl1OVRxYWllZWpsMXlHdlViV3dMdXZpcjY?oc=5"
     },
     {
-      "headline": "Supermicro Stock Tumbles On Financing Deals To Fund AI Orders - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-06-10",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzR5MXBocXFxRllyRDkzQW0zUE5JR1AtMVUyOEk5R3R3OXZ0SEtQN0dPVG5UUHNuOXdQdk9NZXBxRzdMR3FDU0ZpTDlSN1RJSmFDa3hNV1F5SkFaVG5ta01JU1dMOUFQX19zdTR6amdWTTlVaDJ1d2NmSUdQQTlkMW5iQk1odHlrQnJjb1VtWlExNkxmeUJZbzJXWUVFTEJiU19F?oc=5"
-    },
-    {
-      "headline": "SMCI Stock Jumps Over 6% — But Supermicro's $60B Backlog Could Require Fresh Capital - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM05xbTdwdlBDMEtpVkRienptcERNZ2ZJYzBIU2ViUzY0MW9HWHVoaHdqc2ZwODVteWkzb1FaMy1ZMkM4amRuZ2hpakw3VzdhN0hJX2U2OE5NMnVmV19YaXU1QVVRRGtMVE9xNmVDaUZ0b2F4YmhZMnZnWG5Ed2hFVWdKSGxSSDhYb20xYkNocGdWeklFeTZZVkFFRTdmblFVc1JsTmFOVkxCOWpOdUhSSjN0emlhYmpXbXpPdGNTYmYyNUtaY3VVeTNYa3VpVVhUSjFZSUQtMTZVaXR1Wmc?oc=5"
+      "headline": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement - CNBC",
+      "source": "CNBC",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnNTFCOUNXTE9qaVZmNUJGTlZ1VjZISDBrMTVld21ZWTFkenlObm41YnVHdk45VDRUZ1JOdWlwOVVGVVd6RVRjQTZMS1BCTEJ0aXZtalY0OHZZTFN6N3ZZRFVJRVVkdXJJUEZjdHdvUHN3R1k4WDAxQTNiYmdqdEXSAYQBQVVfeXFMTzdSQ1d0emZBajhJYUVWT1BORWJUN2FDYXpKVzQ2eTdmRDYzOFNsM2JaZVVlWGNnTjI1ekIzYU1CUnFVMUhZdTdVUzZGZkhSZ1RPNUNlTGZjaHRSUnNDVWxrSHVQYzAwaVdhMzhKQUJpS1FHYmxWbmo1UWV0OE1JRFR3QzA2?oc=5"
     }
   ],
   "insight": "Tracking Supermicro (SMCI)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-24T04:49:04.534Z",
-  "builtDateUTC": "2026-07-24",
+  "builtAt": "2026-07-25T04:44:24.489Z",
+  "builtDateUTC": "2026-07-25",
   "source": "yahoo-finance",
   "1m": [
-    157.44000244140625,
     154.7899932861328,
     150.52000427246094,
     149.94000244140625,
@@ -24,10 +23,10 @@
     168.32000732421875,
     167.92999267578125,
     168.00999450683594,
-    166.13999938964844
+    166.13999938964844,
+    169.3000030517578
   ],
   "6m": [
-    167.19000244140625,
     172.27000427246094,
     171.5500030517578,
     171.77999877929688,
@@ -158,10 +157,10 @@
     168.32000732421875,
     167.92999267578125,
     168.00999450683594,
-    166.13999938964844
+    166.13999938964844,
+    169.3000030517578
   ],
   "1y": [
-    166.83999633789062,
     168.52999877929688,
     167.4199981689453,
     168.02000427246094,
@@ -411,29 +410,30 @@
     168.32000732421875,
     167.92999267578125,
     168.00999450683594,
-    166.13999938964844
+    166.13999938964844,
+    169.3000030517578
   ],
-  "lastClose": 166.13999938964844,
-  "oneYearReturn": -0.41956183385698914,
+  "lastClose": 169.3000030517578,
+  "oneYearReturn": 0.456894486464287,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Barclays Forecasts Strong Price Appreciation for Raymond James Financial (NYSE:RJF) Stock - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc1EzMGdWSVdmUXd6SlFaS0Y2RklQWl9Qcy1ZWmJrNkVPY1FtXzg4R3ZYRFMzOTJmVHljaE9VeHlMWkxCRWRaNVBKZDRZS2lRRGhTX0xVQnNFWWFrOERRYVA2NE5EcHdqa0F0UDhYdTRZdENGR0JDUWFlZjFfOFd0RDBfOXViaWxPNGdFTGdaaEtxalBmVll5bGtsT1lyQnBqNlRLWndjQkczc3RQM0ZrbWNTQl81X0QyTHVwbmhIX3lRMFdyZE1mTXJKdjVRbjA3bHNTWDZxRQ?oc=5"
-    },
-    {
-      "headline": "Raymond James (RJF) Stock Faces Slower 6% Earnings Outlook Despite Solid Q3 EPS Result - simplywall.st",
+      "headline": "Can Raymond James Financial (RJF) Stay Below Fair Value After Record Results? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQ2FZY1oxTXZJbzhmajQzbXJlVHlYN3otbWJJZ284OTM2LVNBdmsxblozbmpOdFVJVDJHOHppaXRuX21GWU52S1h3QkY4X3RDX3hfaTVsNjR6MTlORGZVV1BlTng5SFJGb3FDM05wYkg1TlY3MXh0NUJuX2x0eC02UEVKX3d4N3ozdXVnRV9qeXg0S2ZYU0hZXzJlTW8yY1pLTXUtdzBNUzFKbHRiNGI0cTlvU1F2R3dGS2pweU45cmVHQnllc2hQNFpteGJlNG1rSmV6VlFRX3FaWWhzT3ZyZzhrOE1iNlNfU1l0dWhn0gHuAUFVX3lxTE5DYVljWjFNdklvOGZqNDNtcmVUeVg3ei1tYklnbzg5MzYtU0F2azFuWjNuak50VUlUMkc4emlpdG5fbUZZTnZLWHdCRjhfdENfeF9pNWw2NHoxOU5EZlVXUGVOeDlIUkZvcUMzTnBiSDVOVjcxeHQ1Qm5fbHR4LTZQRUpfd3g3ejN1dWdFX2p5eDRLZlhTSFlfMmVNbzJjWktNdS13ME1TMUpsdGI0YjRxOW9TUXZHd0ZLanB5TjlyZUdCeWVzaFA0Wm14YmU0bWtKZXpWUVFfcVpZaHNPdnJnOGs4TWI2U19TWXR1aGc?oc=5"
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQODh4aUppeUQ3U0VYbzZRaDdkeW1EbWJwOE9rMGdtSVRWX25hYXlOWWZQYlF6NjJqMzVlWnQ4OW9KUDhWanVHU0Jpd0VXZGlHVm5nMkJHME1tRzYtbVZSb2NYa0tkYnQ3M1Rpd2UtZTQzSEJMOVhzNTEzWDUzVWQxWHpHOHoxYzctV29YcnJlUjEwV1BiZktkVXktQkxjcGJEdzVvRVU1M2tmU0tYQUdNRnBNWlNFUG4zMGlnZTdaRGFFYWpFUXZaUWIzOW9FOFVCQmh3QWxlSkZHeXAwcmlIdUdqbXFWWnfSAewBQVVfeXFMUHdwbUdhNHFxQmloaHJra3M5aDR4TGMtTFBVUHkwZjREWllLaWdWVF9GblY1bGRiWXZxUGJFSzE0eVZnYjg5ZC1NZHVYY19Oa3BVSWVvOVFvSi00QXpHZENoZnFWUzRBbnZOY2ZUeUZhT19yNUs0N3oyQ01wNXBPekNjcWhpOVgzZUsxWnk2cWRuaXh4bU1OM19yai1QR080M0xyaWhBX0loQWluSWZzclhvM0hJaUduRTl0M3p6QUZZWk16c1BTTWo0TmZrcjI5Sll4aDJVd1hIQ0tKTV9lRzRrTW41UlFSMUlsaTA?oc=5"
     },
     {
-      "headline": "Raymond James Financial, Inc. Stock 12‑Month Price Target Raised to $184.08, Implies 10% Upside - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUmdMbEYzLXZiTEFXLUtwZ0hfRS1CSWNhdVJucXljWV9VempJSFdMRkpjUmR5bzRWblU1YXRmcmtId20yQlhPVEJhVmhaQ3YxYTNEalpHeWpXTjdtYU92UTlkM1FPY0FCOWM0UUVhczRYTmVaWDdlaWlTZlA3aW9JbGJqMVM3Mm42VERWa2pmR2dnaDFBZk1yUWpqM013X2NoSjFvaDNrbVczNWVmenpHNHJ0aE4xdllHS19mZU84dUtSeFE4bGxBaUN0ZHlnTkFLWWhkMEc3cE5QaWxnLWVscnNiNk5hWG8?oc=5"
+      "headline": "Sei Investments Co. Sells 66,902 Shares of Raymond James Financial, Inc. $RJF - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYXc1Q0k4UWtYR2o2NXhJMW94YlhVSGdEQkZ2SEt1SGo1YnU0OVd0Vm55QWNKQmhCbmkyQ3dhN3VlWm5JZlg1ODRldW03WFk2eVZWVkVKMV93MjF2MEJtLVZGeG1Rb0ZEOTJIenpScXB6M3dKZVBBaFBPa3dLbmdrYzJteHdiT0U0eGxNUC1VczNfT1lzREhxV1NvT1BSS3VobktNY2IwNVgwX1ZlRWNwaFhxUXd1OVJ5YVRRcWM4VUFQUlRHbUkyN2xiSWJZQQ?oc=5"
+    },
+    {
+      "headline": "RAYMOND JAMES FINANCIAL ($RJF) Releases Q3 2026 Earnings, Stock Rises - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlNZNUNIQjVHbXBNRDRISWFFaWRYMkRKbHRCMlVlTVZVenZKTXVpUThkaEtyMzBtOC1MTWFtQVM0cXg1Y1V6ZGhLUkxfYzduRk5vQkZSWWVjUGt4VldjbXExTG5ETEl4QVFldmJCaExsbUtkX2hZQllsX1NUcktZOUw0Y3BwVi1aUlBIcWpyVU42QkQ3a0h6ZTU0SEtTTU03X0hqVjNaalNHQ2xvTDFR?oc=5"
     }
   ],
   "insight": "Tracking Raymond James Financial (RJF)."

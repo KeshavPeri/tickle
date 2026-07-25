@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-24T04:48:51.757Z",
-  "builtDateUTC": "2026-07-24",
+  "builtAt": "2026-07-25T04:44:10.850Z",
+  "builtDateUTC": "2026-07-25",
   "source": "yahoo-finance",
   "1m": [
-    103.25,
     97.19000244140625,
     93.47000122070312,
     98.69000244140625,
@@ -24,10 +23,10 @@
     99.27999877929688,
     106.36000061035156,
     104.4800033569336,
-    101.58000183105469
+    101.58000183105469,
+    94.91000366210938
   ],
   "6m": [
-    120.23999786376953,
     119.66999816894531,
     110.3499984741211,
     108.73999786376953,
@@ -158,10 +157,10 @@
     99.27999877929688,
     106.36000061035156,
     104.4800033569336,
-    101.58000183105469
+    101.58000183105469,
+    94.91000366210938
   ],
   "1y": [
-    101.93000030517578,
     104.8499984741211,
     106.7699966430664,
     103.31999969482422,
@@ -411,12 +410,19 @@
     99.27999877929688,
     106.36000061035156,
     104.4800033569336,
-    101.58000183105469
+    101.58000183105469,
+    94.91000366210938
   ],
-  "lastClose": 101.58000183105469,
-  "oneYearReturn": -0.3433714049575271,
+  "lastClose": 94.91000366210938,
+  "oneYearReturn": -9.480205013512796,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Is Robinhood Stock Falling on Thursday? - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVI2SjdrV25TQ3RfcTZyZzdaY2Y1RFRjSmptMnFCZGVOSkJ0NTVMQkxmR2MzNHQ5dWZKcXpkSXQ0dEVaU0RsRHNPU1ZibTZyaHZhZ0ozMm5HYjU2WEFXQ284aHJESkVocmQwOVZzOTRvNG9yYmJvMGNQRXd6aHJYWkFZQUJ6WWE5QlRwTjJ2Yi1MdnFWX2xremhIbGVwNFdwaDhpekxB?oc=5"
+    },
     {
       "headline": "Robinhood (HOOD) Stock Price Braces for a 12.6% Move as Q2 Earnings Near - TipRanks",
       "source": "TipRanks",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjAtRGRSbTkyTEZ5bm1FdGFnQWl1YXVEdENCOXRKZEctRFZhcGtiX0pVQ0dqTEYzMlI1UWllQ0hyRFlTTjJka1RabmNZUFMtMkVvcUhnZzY4M2p3Z0psSWctTEhnTUxqOE9Qc3FiVHJkcGE1VWJicjMtZ0JQWm1QTU5NX19nODdGWklXZUVuX3NtcUJxWGhMYTJhLXpINVBp?oc=5"
     },
     {
-      "headline": "Cathie Wood’s ARK Sells HOOD Stock Again – Even As Robinhood Hits 1M Gold Cards, Launches Platinum Card - Yahoo Finance",
+      "headline": "Curious about Robinhood Markets (HOOD) Q2 Performance? Explore Wall Street Estimates for Key Metrics - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTmdYVF8zSUxyQnNsRnc3aFI5VEt2ajJwZmZTRjliSTlvSG5NcERiaHVRdkRyT0Z6b1pTZ0dTY2t0UUF2d0swX2FOUUkwLTQtMF9vblNYTEkzX3RNOV9iMUdRdjNqN09UMDNOdmV1cGxPM0gwd01VcVZtd0xQTWE0aXl2MkgybmpIbjFBNG4wNXlFQ3hieUE?oc=5"
-    },
-    {
-      "headline": "Cathie Wood’s ARK sells Robinhood stock, buys SpaceX and Archer Aviation - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVZmQ1p6UllBNVBTSVpuS2RyS3oxNG5xUG00aGI5MG5XX3NDV0hBTHU5MmE0S19LY3p2bU5jVlQwZkU4QVZDT2hUMmJjcGY2SWpYb1hGU0c3ME5KYW1YTmtGQ0FiOGZVVVlaVkdfeGI0OG1ZbVFCbE5vc3RCLVdCaWZpRFFWcW5xMGZPRGFBYWp1S2laazFrTk0zUlRYd0wzVEpIRGgxX2g1amViYktSSGkxOG0zLTlYX2w5NEE5bmdUOE5OOXc?oc=5"
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU0NpdkxadjRzRWc4SWM3NXdESmRlMTM3aFJVM1Q1UFNUS2k5UTVaSUQ3dW5hZTJNSXczaFh0ci1mS0JfNlc3ZGhfWi1LZmtCLUlnRjd2TGVLYW0wVEpLaFdSRGVYclNIZU1tUlJ3WndWNElQZUV5WmdtT3BEVFpPMV81YkxSVXBYR3NIVWxwTmNadmNVZ2FiMTVYSkRWVDQ?oc=5"
     }
   ],
   "insight": "Tracking Robinhood Markets (HOOD)."

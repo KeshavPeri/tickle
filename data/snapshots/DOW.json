@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-24T04:48:42.032Z",
-  "builtDateUTC": "2026-07-24",
+  "builtAt": "2026-07-25T04:44:01.028Z",
+  "builtDateUTC": "2026-07-25",
   "source": "yahoo-finance",
   "1m": [
-    30.329999923706055,
     29.3799991607666,
     29.309999465942383,
     29.040000915527344,
@@ -24,10 +23,10 @@
     30.3700008392334,
     30.469999313354492,
     31.25,
-    30.899999618530273
+    30.899999618530273,
+    29.84000015258789
   ],
   "6m": [
-    26.549999237060547,
     28.260000228881836,
     27.940000534057617,
     27.56999969482422,
@@ -158,10 +157,10 @@
     30.3700008392334,
     30.469999313354492,
     31.25,
-    30.899999618530273
+    30.899999618530273,
+    29.84000015258789
   ],
   "1y": [
-    25.06999969482422,
     25.510000228881836,
     25.709999084472656,
     25.18000030517578,
@@ -411,12 +410,19 @@
     30.3700008392334,
     30.469999313354492,
     31.25,
-    30.899999618530273
+    30.899999618530273,
+    29.84000015258789
   ],
-  "lastClose": 30.899999618530273,
-  "oneYearReturn": 23.254886297065557,
+  "lastClose": 29.84000015258789,
+  "oneYearReturn": 16.973735338519237,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Dow Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR242Z2JmZHVxNE91WkhtOWxrcnJ5eTd1c29QREVxZW1xNjhiY2ZGQXV6RTRRNnhEVHMtMHd3S0wxa012Mk1Qcnc5WjhZU051ZWo4dEV4SHM0LWJJc1lCZ3c1TGd4NmJJR3dGZVNjS3Nuck1QVGtSbzR2Z1hPWmN0WjhscG4zWmp4V1AyR0gyYTBDMWhuaEZjLWRMSXlZUHR1NlpBSVUwakV4Q2dXQzVWR2RXelFGWnprQ0hBV1M1N1o?oc=5"
+    },
     {
       "headline": "Dow reports second quarter 2026 results - PR Newswire",
       "source": "PR Newswire",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0tYUXFJMzVTa0FjS25NX1VOb0xqOGV1TjVDM1VvR1NKNUFkdDgzX2tOdTlPRkdNNnpIQWtTNW1ZQkxXcHVyZ3dsLXRncGdwaDJzQjVSUGpfck42Z0cwZmwwMXpJV1hrVUhia1JkU0pqWHduZXdKMDZlcFAzSEN3U3ZCWDlPUjFTdE5xSTNEQXZxZk5tcjhYOHNUZw?oc=5"
     },
     {
-      "headline": "Dow Inc. Stock 12‑Month Price Target Cut to $35.82, Implies 15% Upside - TradingView",
-      "source": "TradingView",
+      "headline": "Dow forecasts quarterly core profit slightly above estimates, warns of Middle East uncertainty - Reuters",
+      "source": "Reuters",
       "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUHg3ZkJNRTBURmI4dEEydXVpSlpYUlhJRXd4Z0hjWTk0SlJ2VGhFd3ZpTFluRG4yMlRkeXRCQno3R29OVHpQOGgyTWVEek50LUgxY2hHbGRBWEx3VWZzYzJwdUtXS25tcXIzQzlBdlNMZGM0azlBVW41Q2pEU1BQWXlGOXJCNUM3SGJWZjhnYmVCWGU5VjVURUVVdm9CcWVrdjFkaV9UblpQVUNvS00wVTJxV1c0NWdnajhodHpBQTBLS3Z6QVVn?oc=5"
-    },
-    {
-      "headline": "Compared to Estimates, Dow Inc. (DOW) Q2 Earnings: A Look at Key Metrics - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd1NESHFVNXE3OFg3MjMyNy0wVEdOQlZuUlJmZUNGdXdacUE5eE51V1dTNmFoTUJqYjZyemJJSUdITTJ0aWJEX0dFQTVhaURaQ1lqTWdvelJWdWp1RFd2bEQ5b0dVZEZjN2hPN3daMkgyYmNCYjRNc29mX1ZMQlpSS2FLY2hjUklMd0Z0WWhBdkVzRi1aalV2Y2tRUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXJXRTYya3llYzZBcjV1ZWhvbVRwLUt5WjBfZFBoSlhtVTJLTjR6QzA5Rk1fWjJzY2lFMG1fUkU0Qkg4WEJTSHFOYzQ0bDBEcnZCVkZ0R1hqb18tZWlwSkJkY0laR21LMjR5bTJkZG9iYWpWNWswb2U4ay1oXzFwSVlPNUNrdXlGSkdUWTBhYmFKc05ydGpCLUNTODVPUzV4Rk9CZ3JLeXV2UkFOdkVjWjJaNEhBdzQ?oc=5"
     }
   ],
   "insight": "Tracking Dow Inc. (DOW)."

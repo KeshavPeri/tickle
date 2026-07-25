@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-24T04:48:26.529Z",
-  "builtDateUTC": "2026-07-24",
+  "builtAt": "2026-07-25T04:43:44.137Z",
+  "builtDateUTC": "2026-07-25",
   "source": "yahoo-finance",
   "1m": [
-    127.01000213623047,
     129.14999389648438,
     125.81999969482422,
     128.97999572753906,
@@ -24,10 +23,10 @@
     144.72999572753906,
     140.86000061035156,
     140.08999633789062,
-    138.74000549316406
+    138.74000549316406,
+    146.99000549316406
   ],
   "6m": [
-    276.79998779296875,
     288.5400085449219,
     287.7699890136719,
     286.2099914550781,
@@ -158,10 +157,10 @@
     144.72999572753906,
     140.86000061035156,
     140.08999633789062,
-    138.74000549316406
+    138.74000549316406,
+    146.99000549316406
   ],
   "1y": [
-    281.7099914550781,
     283.1499938964844,
     277.0400085449219,
     278.8999938964844,
@@ -411,17 +410,18 @@
     144.72999572753906,
     140.86000061035156,
     140.08999633789062,
-    138.74000549316406
+    138.74000549316406,
+    146.99000549316406
   ],
-  "lastClose": 138.74000549316406,
-  "oneYearReturn": -50.75076862678911,
+  "lastClose": 146.99000549316406,
+  "oneYearReturn": -48.087583026082804,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "What’s Behind Accenture’s Nine-Billion-Dollar Bet on Its Stock? - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOERBWkdRcU9UaDlzYWc5TGU4VW02aTljeVZJY2ZCWmR1YkNBM0ZCMG1wNnpXZ0h0cEVvYW1PUDZ1ZGg2OEZQWlFWZTdkSjBKNEIxVHVFc0l3NG5lMUpaTnJIMi03WXZJMU4zWE1kUDRXVDctSjJ0RUZJNGpQdGFkMFFabGdnVC1LWU1yN1pYWTVwSWhPQzZGaDFYal9KOV9lakZlNHQtaWFpTlJPQ0JNeURfV0E0anFqQ0MtcWY3WQ?oc=5"
+      "headline": "Accenture PLC Cl A stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmVBZklUV1BhbUdzQlVINTlUYzRicGhCRk9jRVlveDVJcDB5NHJKX2piYk1jZ0N1bEE0dVBzX19yd2JXT2F2QkFBcjlZUjVxelFTQ0ZJTHJzTnhVS2l0bkJyU2szTl9zSHZIZFA2ZUE4eVpxVFQxYld5NWpkbGk5T25PUkpHWG5JUFlORTZDeHI4VlR0STdlZVd6aTVSb1NHSGxsMFZqVUU5TzQ4ZE9DS2xwdDJBWWNSVzl2SzFXU01kdndtS3lVcUhn?oc=5"
     },
     {
       "headline": "Accenture Shares Plunged 50% This Year. Here's What Investors Need to Know. - Yahoo Finance",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdE1rMHFtMmEtbFNXSktsS0xXOE9GakVnREJWVVk3MUE4c2NRcEdKZWtkR3FWMnFqVkpWdFlibDM1MEVZNFdUbmN4VU1PZjJSZ0prLThKOXlIMzU3ZHVLMVI3MWdITXl1VDR1WENTOTZOTm51QjVzRnRqWmpaQVFuN2dtZlBvZm9zS1pGSVJBeGhwbi1FMFExV0VheG82UGs?oc=5"
     },
     {
-      "headline": "Accenture (ACN) Could Be 53% Undervalued Following Its $7.5b Buyback Move - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEVvODJrNTZQdFR2WTFYQ01kYUExWkpOaENidFktb3N1VkgyVFpmclhNU1RQU2h6R0ItODEtRk9TdTBqb1dUeUVnWjQtN1ZJVkVILXJ3UHpmb1pvQlE1VXdFWGtzRC1TNzkzM3JVYVpWOWl1LW1sV25yaGhwVHg0dml6ZGpBcS1uT1JsN0otXzZvSWRodU1oMWdxZDM2ME9rVFVnM3plWWtFNXRlVF9NeldrNDAyRjlfTzllbG1qNUM3ekXSAcgBQVVfeXFMTVBzOFlPU0tqbEhENnR3RjloRVpMU1hVTW5PbnFXZ0hJUzFSUXhPLVktUDlFcm9LdU5sSXdTeC1ZdkgwZ0Z4S01UZ3Z2R2FSOFFiZzJrSVdzNWZSUkhqTEdIeEJnd3M2dk9aUVItVV9veDVxdkNMM3VGRmJNOVp4VkdaYk10Nm40ODBwUEJSWU1CdXJjRXA3SS1KTHVqS1pxV2hFVnJfdXh1T25YNVFRc18xdmRHTmNaNnJ4VFM2NFhFaHZqb2piOU4?oc=5"
+      "headline": "Accenture Stock’s Shock History Is A Reality Check - Trefis",
+      "source": "Trefis",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzBDVW9lZG9JNEg4dnVKQ01aSGdjNXhwdkdSUXhsZ2o3OTFBWmx1MUJuaE1OQmVhS1RsZ1JNMmo5OUJ2V01TTW45bU1BaXNHZk9FNlpaUVYtekhZY0xEdVE1WWhscklWU1RRWm00TU44Vl9WZjc5OWtPbVZhcjNSdWZRNWlXOEdtdDVlVFpySEQ3UmhHb25mNE9ad21vdExiQWpHVlpaLWM3OWhqQlE?oc=5"
     }
   ],
   "insight": "Tracking Accenture (ACN)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-24T04:48:56.516Z",
-  "builtDateUTC": "2026-07-24",
+  "builtAt": "2026-07-25T04:44:15.889Z",
+  "builtDateUTC": "2026-07-25",
   "source": "yahoo-finance",
   "1m": [
-    18.40999984741211,
     18.799999237060547,
     18.959999084472656,
     19.1299991607666,
@@ -24,10 +23,10 @@
     19.020000457763672,
     19.010000228881836,
     19.1299991607666,
-    18.899999618530273
+    18.899999618530273,
+    19.280000686645508
   ],
   "6m": [
-    17.010000228881836,
     17.1200008392334,
     17.260000228881836,
     17.200000762939453,
@@ -158,10 +157,10 @@
     19.020000457763672,
     19.010000228881836,
     19.1299991607666,
-    18.899999618530273
+    18.899999618530273,
+    19.280000686645508
   ],
   "1y": [
-    22.5,
     22.84000015258789,
     22.360000610351562,
     22.170000076293945,
@@ -411,12 +410,19 @@
     19.020000457763672,
     19.010000228881836,
     19.1299991607666,
-    18.899999618530273
+    18.899999618530273,
+    19.280000686645508
   ],
-  "lastClose": 18.899999618530273,
-  "oneYearReturn": -16.000001695421005,
+  "lastClose": 19.280000686645508,
+  "oneYearReturn": -15.586687575126904,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Kenvue Inc. stock rises Friday, outperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmFKQmFVUC1yakFGbmJ2akE1UVZTZEQtMFg3RUl4Yks5MWJ2Y3ZJeWtLRFV4RkcwQXlvbFQ5QVhTeDQyRjF0djM1NDZsTHZEUm1aVDNMS21XWFloZ1U3Qk90OVRtNWU4dVlpYklZVndCQ1NqSWNjanBkdHVTSkVPOXBLYlZ5RGE0VGZxeG00a1BtUFAzQzQtQXdOSl9GQ3dXNnFwT2NsSENWRldh?oc=5"
+    },
     {
       "headline": "Kenvue (KVUE) Stock May Be A Bargain Despite The Acquisition Bid - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSkhCMTl5RVJkc2lzUGVsc2FGbGVXU2Z5VGpoNWRjc3FBN2dMZTNMWFV5WVhlSW1Yc0hSbGR5bU5Yb0sxUHdRNFZOX3NmWHdiVUNpY2ZNN05KZjdSaENybmNzYTF0d2xsbGEwQUNET0NmMU5hWU9FdHBFaTM3Wm9SVnZjdGtGM2c4OFFocWRNMDQtQjZrMDVLeHN3?oc=5"
     },
     {
-      "headline": "Kenvue Will Release Q2 Results Aug. 6 Without Conference Call - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHU3RDZEbUhHRGlRU2xNWTlmbE9uVG10dklnUEIxWkt6RFFvOXpsM3podjNqTHg1TjJMSXp5MmlvbVNiQW1SZUczcEtLdEdxU3JOMERJR2E5MmFvXzJtbDZRdGQzNmV3aG80TUUtS0JxMkFQYzg4TGpldThmbFdhZFBia3ljd1lHMzlTbl9wUUNmeFZ6Y1p3S1JQalpvM2k2SGxtNk05RTZsQm1oZkk3dEVzbw?oc=5"
-    },
-    {
-      "headline": "Levin Capital Strategies L.P. Raises Stake in Kenvue Inc. $KVUE - MarketBeat",
+      "headline": "Mizuho Markets Americas LLC Trims Stock Holdings in Kenvue Inc. $KVUE - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbF9GeTE4SWtPNzBCRWVPclg4d0tDVzU5QS1KR3ZaT21BN29iV0tSSkdabEo3X09mQVNsb2c4UnFOeWZhZmtHYnhGa1NJTGZSekZONUdIYy1TQ25PMlFQRktZU1E5RUROTE9vNnZuYl90RllXNUxwSmNhT2tVaGtQUWpUaDdjUThZNWVTdmZibUU4TDhtMWJPUGlxVzcyaFEtUWZvNG9vT0c3QkRVWVEzS3QyMHdNd1dEYVZ1MQ?oc=5"
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1JzNHcxa0V3blFnOUNxRjdIY05YMFhRbE45Tlg5MHRUcDVtSm92ODlhSWU4eEt2MEhYTTB3WDRrN3ZDekx3VGZOOVl0ekxrRUVfcGpwY2hQSlZGNnFkLW5yVEdVSGVhYWNLOEVhUjVkQm5zNzVkQzFWOERvZXlEanV1N2xpdm90enRSckNvLVh5MjZ3T2JqeVlOQmJtTVBMeXRieHdybXJsSHMxTW9fMWtHWFJDZkVCQ2JtS2V6cHYwdXJCeHNZ?oc=5"
     }
   ],
   "insight": "Tracking Kenvue (KVUE)."

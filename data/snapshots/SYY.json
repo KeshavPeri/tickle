@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-24T04:49:06.515Z",
-  "builtDateUTC": "2026-07-24",
+  "builtAt": "2026-07-25T04:44:26.551Z",
+  "builtDateUTC": "2026-07-25",
   "source": "yahoo-finance",
   "1m": [
-    79.27999877929688,
     80.58999633789062,
     80.8499984741211,
     82.81999969482422,
@@ -24,10 +23,10 @@
     80.77999877929688,
     81.22000122070312,
     82.12000274658203,
-    81.7300033569336
+    81.7300033569336,
+    83.11000061035156
   ],
   "6m": [
-    76.05999755859375,
     77.11000061035156,
     79.18000030517578,
     78.80000305175781,
@@ -158,10 +157,10 @@
     80.77999877929688,
     81.22000122070312,
     82.12000274658203,
-    81.7300033569336
+    81.7300033569336,
+    83.11000061035156
   ],
   "1y": [
-    79.86000061035156,
     80.30000305175781,
     80.3499984741211,
     78.37999725341797,
@@ -411,12 +410,19 @@
     80.77999877929688,
     81.22000122070312,
     82.12000274658203,
-    81.7300033569336
+    81.7300033569336,
+    83.11000061035156
   ],
-  "lastClose": 81.7300033569336,
-  "oneYearReturn": 2.341601217493152,
+  "lastClose": 83.11000061035156,
+  "oneYearReturn": 3.4993741616454868,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Sysco Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnpjNm0zbkQ3ZU5kcFJqMHdQdDZ5Sno0OWphR3c4S01sOWJwbTMzQUY4Z1hUNTgwa0lLdzlzZW1JRDdXSzlPMzZhNHBlakpZRmJSaElzWHQtQXlSSVR2SzFJVUlON1lZZWpUVVVqZGN0dVIyRVB0dVpLLVZlOWdmMm5XM1pSWkppV00xVDhJNFdKUndIMTVoRTluN2ZxZkZqOWljUVd0YUkyX3BjQ2pTRGx3SFdpMjFRalBMTFhiRQ?oc=5"
+    },
     {
       "headline": "Is Sysco (SYY) Undervalued Or Is Its Quality Already Priced In? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVk1ckZ4ZFN4bjBIVG9GU2FMa1dtQmVIZmdwUkdFWU0wZEtWSm1XelUwakdheGFianNOSGFzYlAzNkZSUTRaakNpZDR3TUd2ZzBBcjNlWFBxRWV4UjRiTlh3TTg4QkVhWHdaSk9Cb2JnWXhFVXN6MWxRd3llQlpCN2h1cHB4WEcyYy1JVHc3Q2xlenZFOFV6RUtjVHVEektoWEQtQw?oc=5"
     },
     {
-      "headline": "Is Sysco’s (SYY) Fulfillment Expansion and Pricing Push Altering the Investment Case for Investors? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTUR5UEF1WkdPcjdabU94MUtRYVpMWXF5Tk9QYkZxVm42ako0SVFLeERpYmZaZjhWY2tnd2h4NkxGamN6VWVjQW5LTTZScjlCaDdFRjk4ZFlkWmtPUGhvZDI4ZHdyQ3IyOTlhUkpOdXVTb3p0QWt5eElMS0oxQmdJSmZfSllRS3NYQnR3bDF2ZFZndTVORmZCNXRsWUNpUlg5anl2S252eHNKVVZaeE9NQTBWV29RTjl1MURDZEdXZE5YX3d4ZWxOcF9yc9IB0AFBVV95cUxPc3VjQVdQeHhmR0Y2TU0wdnpwa2NZOFgxWGQ1QjNGNWwzVkJ0WU5sUVpIeXd6a0NBNnA3cTRyRG82NFZpYTRxNjVkSXNrZUg2VHYxSkNqUHJ0c0dlSkVYaHlZakM3cHY0MExEbkpiWkV2NTBhc2ZWRy1FM1lPWEtzMnhmWTVTZHo1enlmNzg2SE1XUWktT1ZJUnA3d2tweXR5Y1MyeENiR2lic1hnM2ZodG1sekU2Uy1ybWFhNTFQNDhFam43VmNCLWdjY24zcUlf?oc=5"
-    },
-    {
-      "headline": "Levin Capital Strategies L.P. Invests $3.04 Million in Sysco Corporation $SYY - MarketBeat",
+      "headline": "Liberty One Investment Management LLC Sells 48,943 Shares of Sysco Corporation $SYY - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU3hvNG96OEhVaXJjeGdoUEVjWlE1czZoQnFIN056dWd6NWp4czZqMjBSelR0OUtiYU1qMF9ZUW80RktaajN5N2NpZ0QycklDYUFLN3dISnJ0M3NrY1BRZ0lQc3N3cXB2U3VyV1hnemxHQm1MZGF2aWpFYVE4NnBWaFlmVXEweXg1NVNfbUpaSjEtcm5YeUxVX0FGQ1N1TEc4X2d3TmtyTDMza3YwT0JiM0RtaGQtQ29LQnRUT1FEcDBGcF9LNWM0WU95NVJlUQ?oc=5"
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd0FRWEQ1RTByUVFRbFlJakw2YWFYZzQ3RHdCM3JKcmxMMGw0WEVLNlRpaWxmQm1BaHNJQTdxaWVURmZ4UDU2MWdvcjJ3M2RRc05nbzNSMUkzcHpBc05ZVkh0R244QWM3VmVhcnFaQXpKcHlJTXY4YVBybG51Qjh6RGlQY3ptcHMwTEtuN09RRTl6RXRuazJhQ3R4U244eW44WkxpTXdFX2ZMdUFaRmdYM3lsRHVpOHZwZEVSdGZUQmJMTlJhMGJmVEdWVDlGUWJ1MDVySy1iTGtUQQ?oc=5"
     }
   ],
   "insight": "Tracking Sysco (SYY)."

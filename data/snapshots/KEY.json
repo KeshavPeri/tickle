@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-24T04:48:55.643Z",
-  "builtDateUTC": "2026-07-24",
+  "builtAt": "2026-07-25T04:44:14.937Z",
+  "builtDateUTC": "2026-07-25",
   "source": "yahoo-finance",
   "1m": [
-    23.020000457763672,
     23.1200008392334,
     23.40999984741211,
     23.260000228881836,
@@ -24,10 +23,10 @@
     23.31999969482422,
     22.950000762939453,
     23.110000610351562,
-    22.719999313354492
+    22.719999313354492,
+    22.649999618530273
   ],
   "6m": [
-    20.850000381469727,
     20.950000762939453,
     21.229999542236328,
     21.170000076293945,
@@ -158,10 +157,10 @@
     23.31999969482422,
     22.950000762939453,
     23.110000610351562,
-    22.719999313354492
+    22.719999313354492,
+    22.649999618530273
   ],
   "1y": [
-    18.5,
     18.56999969482422,
     18.440000534057617,
     18.389999389648438,
@@ -411,18 +410,13 @@
     23.31999969482422,
     22.950000762939453,
     23.110000610351562,
-    22.719999313354492
+    22.719999313354492,
+    22.649999618530273
   ],
-  "lastClose": 22.719999313354492,
-  "oneYearReturn": 22.81080709921347,
+  "lastClose": 22.649999618530273,
+  "oneYearReturn": 21.97092079028532,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "RBC Capital raises KeyCorp stock price target to $25 on bond portfolio benefits - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRkh3djYzYWZzNlJVQ2tIRk15Szd5SjB4Vk5RSjU3X2ZWV29YR3NUbDlVY0hIRlBvaTdWS2JlREtyRzBtSmFsQjRyYkgyLUt5VVZQUzB5aUVYSmhRRmhON1BRVVFZakpGUlJiZlRNdlh6Z1JGdUNDVnMxWml0Mlk0aXlTMjVwRlUyYlcwYWtGdFdWTmF0WXpBSlVzeHRSTGF2Yl93N01BWUVMVmxXSHVDYndLVktGaE5VdGphWTExMFNBanZLUmxNZm1TdGk1Z1dVelY1aA?oc=5"
-    },
     {
       "headline": "KeyCorp stock underperforms Tuesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV3FtcjhlTmlBb2RnenhaYlcxbHZaa2pJTG5ud0l1aUVmMUJ4WmF0UVFBR2RtYUlZdTBEZHRpSFVYbGhNX2tiODd1a0dkaXN3NDVlcDQ0RU1xR1l0bGliUGExUVkyT0NSZ2kzbkN2SktXU09OOGhzZWZxTWZlT2w4dFllQ2R1anRpZVhFbUNteUtZQUNCZGMtaWlFalVSSTdjT0pwdTZQUmx0dkE4Vlh4el9JZm1iZS1HUm9ad1UwNEZkQQ?oc=5"
     },
     {
-      "headline": "Cramer's lightning round: 'I prefer KeyCorp to Truist' - CNBC",
-      "source": "CNBC",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ0hmZG1FdmlVQm5KNUFNTl9HS0daZm42M2YtY3NkNXpRYk9qQTg4S01kRjFhNFYwY0JaYkRzQVRFSzZTRHVteFFvZHZ0UktBS214a25JUlNLTjloZE9YMGswVEdIS1N3OGQ3dGx2alI3MGRxMzE1blFjbFQ4c21BX3l2VDRxVFBBNTZhTHFPZmbSAZYBQVVfeXFMTko3Wm0wSV82MWwtajRpUGsxdTVzTlZ0QUpFdnZVUHBPcm1Rb3d5NmZrR2ItUy1idTN3QzdKN0tyek0tRTR6OWs4WWNVUUticzBSVWktSGhrQzNWVXVMRUNWV1VaVHhicWZ1VFFzdFFVdm9yVUJvc1RuQ1VmVElYWm50blpwWnUtdFpQLXVrMGN4YTF0NFBn?oc=5"
+      "headline": "RBC Capital raises KeyCorp stock price target to $25 on bond portfolio benefits - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRkh3djYzYWZzNlJVQ2tIRk15Szd5SjB4Vk5RSjU3X2ZWV29YR3NUbDlVY0hIRlBvaTdWS2JlREtyRzBtSmFsQjRyYkgyLUt5VVZQUzB5aUVYSmhRRmhON1BRVVFZakpGUlJiZlRNdlh6Z1JGdUNDVnMxWml0Mlk0aXlTMjVwRlUyYlcwYWtGdFdWTmF0WXpBSlVzeHRSTGF2Yl93N01BWUVMVmxXSHVDYndLVktGaE5VdGphWTExMFNBanZLUmxNZm1TdGk1Z1dVelY1aA?oc=5"
+    },
+    {
+      "headline": "Andra AP fonden Lowers Stock Position in KeyCorp $KEY - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQenBzdHZKZk53WGF0Si1OUDdTc0dlRW1CWV9rS05PMlFHTzFFYzgzV1VjakF1UWc1UFV1c1RuN3ptckFNOW9SZV9SVl9CcFkzVzNwV2NZX3hUbTNkRzVQTzhHMWR4UkVQUms5TTA4bEJheVpQanBUYndOOW9KV1pGVllTeWgwYUdVdm44SU9kM3FMU2hBaHVaZDdYS1VEMHlER0VQcVJ3QUNkTmJjb3NiU3VDWQ?oc=5"
     }
   ],
   "insight": "Tracking KeyCorp (KEY)."

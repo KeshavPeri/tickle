@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-24T04:48:53.292Z",
-  "builtDateUTC": "2026-07-24",
+  "builtAt": "2026-07-25T04:44:12.605Z",
+  "builtDateUTC": "2026-07-25",
   "source": "yahoo-finance",
   "1m": [
-    133,
     130.02000427246094,
     124.48999786376953,
     123.86000061035156,
@@ -24,10 +23,10 @@
     141.57000732421875,
     138.6699981689453,
     142.52999877929688,
-    143.2100067138672
+    143.2100067138672,
+    145.7899932861328
   ],
   "6m": [
-    166.69000244140625,
     172.94000244140625,
     173.27999877929688,
     173.97999572753906,
@@ -158,10 +157,10 @@
     141.57000732421875,
     138.6699981689453,
     142.52999877929688,
-    143.2100067138672
+    143.2100067138672,
+    145.7899932861328
   ],
   "1y": [
-    183.5800018310547,
     184.44000244140625,
     182.7899932861328,
     184.7100067138672,
@@ -411,29 +410,30 @@
     141.57000732421875,
     138.6699981689453,
     142.52999877929688,
-    143.2100067138672
+    143.2100067138672,
+    145.7899932861328
   ],
-  "lastClose": 143.2100067138672,
-  "oneYearReturn": -21.99041001989926,
+  "lastClose": 145.7899932861328,
+  "oneYearReturn": -20.95532891111946,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Intercontinental Exchange (ICE) Stock Fair Value Edges Lower As Analysts Trim Targets - Yahoo Finance",
+      "headline": "Intercontinental Exchange Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdHdvaEIwZ0V5RVZuVVNucElSanVjd2gtOEQwUm5uNHJGSUtqSHNHZ1NxeHM5NGJxck8tNUZJRnkzYVp2NWFhVHZWOG11ODAzWDFQM3Q0ZjFkY2paVEpDeXVkTFBDOGxlX0xTNHY1TjVrMzdRRlRHZUE4cW5xVndIc1hYY1p0YnhmRndRVzB6blpkWlRSdnJIWkFURmNqSGRoX0w1NnlpTFRIR0VlUUU1dW5UQnQxZkR6RjVnNUNxb0wxektaYVE3Z0w4dUl5U1F1UkxUSER2ejM?oc=5"
+    },
+    {
+      "headline": "Intercontinental Exchange (ICE) Stock Could Be Fully Priced After AI Futures Push - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeVZXektHaU5xV1hlcFRUUVIyQUtkLVV4YTJydE9UQTlKTUlIQ1JzamZIWllxdWYzb2liNXo5N1JTUTZ4dHR2bVNHTUFJbWo3ZWJoQTkwejlSZ2pDNkFNU3ZLVXF2T29BUTZUNUlWNDFrNlhEcmNXSktZMUpVanlmd0RCVjUxalB3MHljODhfZTdQTHpuSTdyWEZlNEJ3OWFBMVVUUllKNGE?oc=5"
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaF9HbG1LenNnNmRKSTgwZ1lpTjhRMHN2d3RSbEVYYS1Xd1ZqMDNKNEZrMW5WZURERVlPYnkxYkdsenVIWFpMYkxrT0w4b0NHRUpjYmlKOElITEc3OVRVc0ZGanJpVG9LQzhGeXkzdG5oZTRWX284bDJrVUJ5VWFiNC02Q09nSUNoSWdpemU4WkhJSmRaUG1wWVBrMF9Kei1sdUhBa2kzYTJmZw?oc=5"
     },
     {
       "headline": "Intercontinental Exchange (ICE) After Record Gas Trading And The Case For Undervalued Shares - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-19",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNFNBUE43akYxTDhkWHFzYlI1RkxsbnJOWWJTVzNkLVF0bEdSUnhaZGVFUjkxQXZQTjNHcWRXc1V0OWRJRThFd0s5REJrRjJNLW9TNGw5d1dCcEpFZXlTeEdaX245THlwSEZEaGhaRDB2R2V3dHF6ZzRlLUJ1Szh4T3BIazRlSlJ2cExiWkF0TUlHekxaVW11S1lXODRMWXFySmFvZGNtc1piVFlLNnVNbG1GUURvQ0Uwa2V1bkt6cnBnTy1qUjh5ZE5iREJBSlhidkdmWWY1ZjZkWUllS0h1c29PTFFWOFM4dDVr0gHwAUFVX3lxTE1UcHAzTU9lNC1xSVFhRkE4V2ZEMG9CVXZEeEprX0RQVzFtNGkzcWRjdGhpN0FvRkFuNHE1SzA0Ylg2aC1UUjREWjJlZFo3aS1va2pYdGtJNmNBbHQySVBzLTkwdkFVSXJ6Zm1janRTanczZ3lRYUs2Vk5pVDRCUlE3dThRaThLbk5iQUs2TTV2VFFfc18tNTQtYmhkV0lvVlF1MVZYT0JfRlRFQWU2VlJkWG9HRVhMVi1TNHg2LUJvUUtYTHZfYXBWTU9pUFNvV3FRTERTb1F4RU1EdHRHbmw2LU1KLW1EUXdHcTBFU3gxbw?oc=5"
-    },
-    {
-      "headline": "Intercontinental Exchange Inc. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPWkdWdnFLcVlRM01XZjNnSkpqQzdtSFNQODNUZm13aHV0STdxQ3V2V0g2UVVWLVYwVXVUVW1mNG1RT2JVY1RQRWFnWDItZFRsSjVoclhqeDc5ZC1vTXNoVlQyakppcENSNkllNjZicldFQVFEYkJiU0k0b0lla3ViNG0xdjBKNVJqWWhkcVllNUMxbTQtX3BaYnltVFdNR19RZDRJdlFrUjZLNzFadmVUTGlHS0JHZmNOTjZOeFhGZ19YazBSU1VUcHNfaWFtU3hvazhSSXRLSWZ5SUV0UUUxejI4WjRNYjREVWVBSEZGWjRpTmJNYnVidWU0aWRwNUhaU2h3bjZhOFNrZXZySE1xNWNia2s?oc=5"
     }
   ],
   "insight": "Tracking Intercontinental Exchange (ICE)."

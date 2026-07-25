@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-24T04:48:37.622Z",
-  "builtDateUTC": "2026-07-24",
+  "builtAt": "2026-07-25T04:43:56.209Z",
+  "builtDateUTC": "2026-07-25",
   "source": "yahoo-finance",
   "1m": [
-    158.17999267578125,
     150.11000061035156,
     142.52000427246094,
     149.05999755859375,
@@ -24,10 +23,10 @@
     160.42999267578125,
     175.85000610351562,
     166.1199951171875,
-    161.16000366210938
+    161.16000366210938,
+    158.2899932861328
   ],
   "6m": [
-    252.69000244140625,
     255.86000061035156,
     239.27999877929688,
     241.14999389648438,
@@ -158,10 +157,10 @@
     160.42999267578125,
     175.85000610351562,
     166.1199951171875,
-    161.16000366210938
+    161.16000366210938,
+    158.2899932861328
   ],
   "1y": [
-    396.70001220703125,
     391.6600036621094,
     379.489990234375,
     371.44000244140625,
@@ -411,17 +410,18 @@
     160.42999267578125,
     175.85000610351562,
     166.1199951171875,
-    161.16000366210938
+    161.16000366210938,
+    158.2899932861328
   ],
-  "lastClose": 161.16000366210938,
-  "oneYearReturn": -59.37484277716568,
+  "lastClose": 158.2899932861328,
+  "oneYearReturn": -59.584846089443474,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Coinbase Stock Is Rallying. Can Donald Trump’s Ethics Compromise Save the Clarity Act? - Barron's",
-      "source": "Barron's",
+      "headline": "Time for a crypto comeback? Traders bet that this stock will lead the way - CNBC",
+      "source": "CNBC",
       "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2ozRjU0SURUdy1BcENheFZEYWNERTZnbXRBSmNsTnRQdzFhV0p0dlk2R3pCRWNBVGJoUlB6SVk2ZXJ3aFhuOW81bDlSeDJDODNWNG5Jb3NIN1hWYUlPaUNHMHJadVFaWTVFdG9SUEhJOU82aE1Hb0tMZzUwWTFsRUl6TFZKWWlMNk1mZVpB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZHpweFZwZjdLNzk4YTVrLWF2aUhXVVZjTERkNThsb2pkZ19pdXAtenhJTENIVWRwYjV2cGJHZ0VpVkdlbEFHNXR4eE5Pd2RsQW9FSThNUTRBTTNJZ3pzZDNOSFFic1E5eHZMMG9uNXlSLXMzZTE3Q0RLYUV2S2FyYk5BRjV3NzJ0WjZVNXFZUmhUOXZQOW1Da3dhNVBHZXRpbkh1dmdR0gGrAUFVX3lxTFBoT1huZzlxMnBrcTdxWWxfMGNQNGhFQnM3LUtxbGxKOXNDdG5ubHBrRm9ZNlp6VFotXzJJX3JqektLVDI4SlhORjZianJmY3dyQlVJckdRM1BHUlNoNWF3RkcyTzEtVFRkSlI1VU5fQ181ckNNekttd1JNVzA0aHlPbVZlMmV4RTFpTHZSUlZJdzJrRDVNZmFSTEtDQ29nSXM1eG5VWmZBMlFUTQ?oc=5"
     },
     {
       "headline": "Coinbase Stock Jumps After Clarity Act Clears Major Hurdle - WSJ",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLTRWczUwZmhOTGpZaFNnTGVjSkYxMHdrbmhCaFBXT25jS3VFMFJhQmtKUlRkM3VQNV95b0huUjBzdzdBVWpxcWdZVmRhWDBSUlNWc2NxWkptOWtQS1RISG1teTJKOWNmX3Uxa21RN1VrMlZpaXU3WWFqX3BmZlRTdElQT3UtRk1nWXYyS1FnQjJGckJYcDBwcUJWWWItakd5Mm40TnFWYUYteDZBVWhCdFhFY3JuOG1Vd3hld2VNTTR5a04zcWE4Zm9pNHA2U3FXSmZVS21oX2V6dFNJRUdMalFUMnJ5b2NRMUF1d3gtbkRHWjVkWHpyeg?oc=5"
     },
     {
-      "headline": "Time for a crypto comeback? Traders bet that this stock will lead the way - CNBC",
-      "source": "CNBC",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZHpweFZwZjdLNzk4YTVrLWF2aUhXVVZjTERkNThsb2pkZ19pdXAtenhJTENIVWRwYjV2cGJHZ0VpVkdlbEFHNXR4eE5Pd2RsQW9FSThNUTRBTTNJZ3pzZDNOSFFic1E5eHZMMG9uNXlSLXMzZTE3Q0RLYUV2S2FyYk5BRjV3NzJ0WjZVNXFZUmhUOXZQOW1Da3dhNVBHZXRpbkh1dmdR0gGrAUFVX3lxTFBoT1huZzlxMnBrcTdxWWxfMGNQNGhFQnM3LUtxbGxKOXNDdG5ubHBrRm9ZNlp6VFotXzJJX3JqektLVDI4SlhORjZianJmY3dyQlVJckdRM1BHUlNoNWF3RkcyTzEtVFRkSlI1VU5fQ181ckNNekttd1JNVzA0aHlPbVZlMmV4RTFpTHZSUlZJdzJrRDVNZmFSTEtDQ29nSXM1eG5VWmZBMlFUTQ?oc=5"
+      "headline": "Coinbase vs. SoFi: Two High-Growth Stocks, One Better Investment - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjc4OEdxMHBCNXhyNFAwZllfdVRSR3c5ZE5qSmR4Z2UwYi0tNF9DNXpuM1dONlZTUmRCcnV1R25mSzZTeVkyUjllVWNDZUxNaWQzUWFGNFRDYW5IeGdFTWQyWTdHT05WMC1hOElWUXh6ZVM5c0gyakhMNzFNV1ZTT2xJSE9TRHdLWXNUSE1rdHBpeEFG?oc=5"
     }
   ],
   "insight": "Tracking Coinbase (COIN)."
