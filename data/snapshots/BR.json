@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:43:51.944Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:24.167Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    136.3300018310547,
     140.10000610351562,
     136.25999450683594,
     137.92999267578125,
@@ -23,10 +24,10 @@
     150.02000427246094,
     145.00999450683594,
     144.1199951171875,
-    144.39999389648438,
-    148.9199981689453
+    144.39999389648438
   ],
   "6m": [
+    221.2100067138672,
     220.9600067138672,
     219.36000061035156,
     218.63999938964844,
@@ -157,8 +158,7 @@
     150.02000427246094,
     145.00999450683594,
     144.1199951171875,
-    144.39999389648438,
-    148.9199981689453
+    144.39999389648438
   ],
   "1y": [
     253.69000244140625,
@@ -410,30 +410,29 @@
     150.02000427246094,
     145.00999450683594,
     144.1199951171875,
-    144.39999389648438,
-    148.9199981689453
+    144.39999389648438
   ],
-  "lastClose": 148.9199981689453,
-  "oneYearReturn": -41.29843638464202,
+  "lastClose": 144.39999389648438,
+  "oneYearReturn": -43.0801401289608,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "2 Reasons to Like BR and 1 to Stay Skeptical - Yahoo Finance",
+      "headline": "Broadridge (BR) Stock Looks Reasonable On Earnings But Mixed On Fair Value - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVFYwcF9HOVZKQ2VJNFgtOFdqTHY3cHZ0Q05LQ1M4QUt3bFdSZml4NUxpNTRzZ2Z0Z0lDVTJyZ0dwTzRhb1VUUHZkcWtCZWFxOVZXZUZ0SXBiSE93WklwWEpDT1NhdDJNVmhTeGRSOXZBTW9Bd3RCUG9nUElyQVNvUHVfYUtndmMtYWFCN3UyYVlqdk1tbE4td2NJeURKT01aZFFuOGJqd2gwOTE2Z04wQ1JkQjMxbU5FTXVZd2RnWWhGalBwLWdsd0JlM2ZaQWlsRFBmMzdBMUdyb2lyb0pfYTQwbUJRSUNGUnE2adIB8gFBVV95cUxPbFdUbmFDMmpJY1dsMWxOcGZPNF9oZ3g2YlVlYzZaa3daR0UtUUk0LXlodzRaamtVbWxWYUY0M1lBUEdWUThBVndyVmNGWE92ZDBLZWppektrY0FaclNlTVR1OXFMT1FqVXl3MHY2ZUxqZzkzN21TaWJ0NlVtLWc2R0VCcFVzSjRYLTc0Zm9QZXJWM242THEtQmI3M0VNaUwzUTJzOWpRdG5xQVFPQXN4WnVXUUhwbEVsZnQ5S05Rb1B4aFFnTk9HVWplVGtKODViLTNCWF9UbXlsdktEVlZhMGFwNS1faHlTRXVCYk5vTGZkQQ?oc=5"
+    },
+    {
+      "headline": "Broadridge Financial Solutions (BR) Fell Amid Concerns Over AI Disruption and Tokenized Equities - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbXlwYmUtMTNscFZOWjV2SWg1MHlGaGdBakhaWnJVWUd5djFJOVdpb2RXdUgtMXU3bFY1Ui1pSDlaVU5Fc0RuNC11cVgyX2ZfLTk1Q2R2UGVScUFjT1hQbllOdWQyS3BsdnNFYmpXRmdaMEJ6XzRDLVg0ZWxxQTdLME9SYlJVbmdUbWZROA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWHRJWVhPZjlDU3NaTk9ZN1lIZGtWYi1ZeENlckduUWIzbUVUM1FUWkM1SjkxdjEyZXdEZl9LTU1xNWdfQjNlVDN4dVpDRzdRdTVvWUE5SGlXOEVSa1ZGUTJ6VVhjTUYzS0pRbmJEUEV6c2JnOXY2cVlJSVJfdVlLNHZ2VFVwTTVRRDhiaUItQjNnZVg2dzF2TTkzSzJGWUNmMGx0TGVn?oc=5"
     },
     {
       "headline": "Broadridge Financial Solutions Inc. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-07-24",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbGVFTDZ3amQ5NHR4VGt6dUlKeHNRSm1KTGxtSFFLVGgwcEhqcm5UVG1qd0xGa3U4NVNuTlNPczRURWNQX2NJbjFUTzE5eWZUbGp6LTdGcG5odmJLQjJwY2lGZ1VlNFYzN1RRSzNhQjRyQ3dqdzV3S1QyYTlxOXhNWFU1ai1pN2J4Y2E5RHpSNWVjcmIxeTdyTEZzdlh2TXo5RVJYWkx4UXJDeUZjdFZ2T1l2RUxXSllJTkphcWE0a1dwdDNuQWdoLW9GeTMzYmJKUEROWlZhYl9TU21Fa1JBa2RhTl90ZzdYSzFVdmZ5TEdpelFwZUJPdEdNbnBRaG8?oc=5"
-    },
-    {
-      "headline": "Broadridge Financial Solutions Inc (BR) Shares Surge 3.1% -- Wha - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN1NWSUU1dW5kWk1RTk1Qb3RoMlVGcno4RzR2UGFrU3dEN3kyWlJoeE5CbmxKTm5sNGNuQkJMbEM1cmIxb19Eek1pdHVHa0dvTENiNWItN2Q2OXZpcXFTeWxQMzVjS3RRQVdLTG41dG1XQU5mYXdRdldkdnZ6RU9EVFdnUy1EbGhvVzdsTHlsWHRvQ1hqQVJTWVZ2MzRSb1cxRUtwQjg5VE5IVm5sZGR3WldDMXd2WlhSbms0ME13OFAteTgwZHluclh2b3U0SEJQcS0wX3RwSQ?oc=5"
     }
   ],
   "insight": "Tracking Broadridge Financial Solutions (BR)."

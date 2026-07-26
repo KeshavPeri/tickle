@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:43:46.979Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:18.157Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    519.8499755859375,
     519.739990234375,
     532.5700073242188,
     521.5800170898438,
@@ -23,10 +24,10 @@
     503.57000732421875,
     544.4299926757812,
     552.3300170898438,
-    539.6900024414062,
-    521.9500122070312
+    539.6900024414062
   ],
   "6m": [
+    220.97000122070312,
     223.60000610351562,
     227.9199981689453,
     231.8300018310547,
@@ -157,8 +158,7 @@
     503.57000732421875,
     544.4299926757812,
     552.3300170898438,
-    539.6900024414062,
-    521.9500122070312
+    539.6900024414062
   ],
   "1y": [
     166.47000122070312,
@@ -410,30 +410,29 @@
     503.57000732421875,
     544.4299926757812,
     552.3300170898438,
-    539.6900024414062,
-    521.9500122070312
+    539.6900024414062
   ],
-  "lastClose": 521.9500122070312,
-  "oneYearReturn": 213.53998220678733,
+  "lastClose": 539.6900024414062,
+  "oneYearReturn": 224.19655102056154,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Bank of America revamps AMD stock price target for 2026 - thestreet.com",
+      "source": "thestreet.com",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVIzNHRPT2dxWXo0YXd5N0dxR3NabWhjb3YzcHI3VmpabGVRWnozWlVxM3hqZ25EZFFNYU9RN2VMZlVVcGI3a05oR0o3QWFoX0x0S2c1Q3hpcWhTZTg2UlFuT2VKMEthblhoNE05WWpHM3BkUnBtdW95M21qN0Y1cDNGZ19kc0dQeUZTTkFBMUxSZnZKem5DZDRNOTJ2QQ?oc=5"
+    },
+    {
+      "headline": "AMD Stock Gains Overnight: Analysts Laud Chipmaker's ‘Server Leadership’ After Strong Helios, Customer Updates - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzVkTHFFalZTYW85MnczQk1ZbUpFNERpOUZVUkJNclVwV2g1NTZYYllidjJodVZsbzd6bWhQR0IzUTZWVTZmdXh1VllBdVpyaDYxSVFqQWZxN0hYeHkwNzRrS1U5c29mN2pZOXk0Q2RyRUU4dmxJNDN0djdLMTI5ZVRweGVOSjBmQ0RGYVBISjU0LVNqN1k4bTFyT0E1a1li?oc=5"
+    },
     {
       "headline": "AMD Stock Scores Price-Target Hikes On AI Computer News - Investor's Business Daily",
       "source": "Investor's Business Daily",
       "when": "2026-07-24",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWlF3bi1xTzc3dktoTWswWExSRW1oXzlJWHd5RWhzWUhoeXpRS1ZMOGFlTlhvMjJ3anZ2NlJfWlVxMDVWd181OGw1RDdsUlgxMVJ2QnFfTVZWc0xpOUg3Vk9wOWg3ZC1SWlpUTFpUT0NkaW1VV2c5eU5yU19PLVNxQl9hWEVseWpuTlZnekZrbGd5WUE?oc=5"
-    },
-    {
-      "headline": "Cerebras stock gains on AMD partnership - CNBC",
-      "source": "CNBC",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObEM2aTF2dXBpd2kyT1lUa1FGcFhDQTFwTmk5cWJKeFMzS3lvNVJXdGlyNFZ2Y2pBRkV6LXkxenlWUnA1YkhxZ2tWa002dmF4MTNzUWJ3dXZzZHBHa1BPb1hvOGJ1UkpmcGN0Wm1PVEY0NnEydVRybm1BZGJFTUkyVlJn0gGHAUFVX3lxTE01eUVVZUVGbWtBeTdlZ0MtVTBKTlNtVXRqaUVHZlc3aU11SllqVVlhVGNLZ2xWWlNNYWh6UmVhSjVlRDVzSHdXdmxLb0gtamlKdjB6SE02WXdFUkRXSVUwTWkzOXNIYjhnOGVCVkF1WHVsYzdSc0tVMkd1T0ZMWWNkZGNUZ2MwNA?oc=5"
-    },
-    {
-      "headline": "Advanced Micro Devices (NASDAQ:AMD) Shares Down 2.3% - What's Next? - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDJENXhtcmJFc1I5aHZic0ozTzA2eVNGai1RN1dOdEpBUGZKWm1xZmp0VnJkTU5hak9KdGpmNUZ2eXlzT2tyeGlJUTdlN2s2QW1uNFJRYmFEMTlVTUZmNFJWVTlYeTdsdUZqQ1U1OEhwbDVEU2hPZERIUHBKQ1BfWWZtRkU3OEZpSmVMY0paLU8yS2Y4cE9JdDM2Njdfbi1OZHJSZV9ON1JQWlpkQjhTWHVn?oc=5"
     }
   ],
   "insight": "Tracking Advanced Micro Devices (AMD)."

@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:11.301Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:47.428Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    24.719999313354492,
     25.549999237060547,
     26.020000457763672,
     26.510000228881836,
@@ -23,10 +24,10 @@
     25.280000686645508,
     25.110000610351562,
     25.209999084472656,
-    25.020000457763672,
-    25.309999465942383
+    25.020000457763672
   ],
   "6m": [
+    23.5,
     24.489999771118164,
     24.719999313354492,
     24.219999313354492,
@@ -157,8 +158,7 @@
     25.280000686645508,
     25.110000610351562,
     25.209999084472656,
-    25.020000457763672,
-    25.309999465942383
+    25.020000457763672
   ],
   "1y": [
     29.239999771118164,
@@ -410,30 +410,29 @@
     25.280000686645508,
     25.110000610351562,
     25.209999084472656,
-    25.020000457763672,
-    25.309999465942383
+    25.020000457763672
   ],
-  "lastClose": 25.309999465942383,
-  "oneYearReturn": -13.440493624961114,
+  "lastClose": 25.020000457763672,
+  "oneYearReturn": -14.432282306386337,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Hsbc Holdings PLC Reduces Stock Holdings in Hormel Foods Corporation $HRL - MarketBeat",
+      "headline": "Swiss National Bank Raises Stock Position in Hormel Foods Corporation $HRL - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOW03a3RIODBMYV9ZeWFTemZGRWgwazEzSkF4dWs1YXBiWE5PREl1dkRvNUFzc2JvMjVEaUJyNUg1WDlZTW0wNTAzQmx3Vm15Rk12cEhRUHlGOXBkTFFuYmhPbU8teGw5SEdOTXk0azVIUmlzY3Y5UFByWUw4OF93YmNRTWpubG1JOUZhTEx5b1J6a0lLNk5ZN1M4aFhqU0JSZlZuNkpxcE9IOUE2b3ItalJKNFFieE1vdzVrb0FILTBpYXVrR2lQcUVKTzNwQQ?oc=5"
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ2pJbGhjb2F4SGtUSzlIcmtHQnI1akpieWhZTzg1dExabU5sSExSblM5cXhISl9halpGbDlST09YWlctblJfckROQzFibndkWnVIaUVzVkRpaVBuRVRyV0EyaDR2cUlnX0txRkxTcWM1S1BrdzRRQjh5QXZIZDZzNDdSNTU3UG5qazh6NVhkaFRpZG1qVkVranVILW5sWmxCQzE1bUdvLWRxNDRiNUJtZ291S01nZk5PZ2VJSWpoTGhfR0JkSzFfbTdkUzdEMDg?oc=5"
+    },
+    {
+      "headline": "Hormel Foods Corp. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbEg2WEtTejM1TVRCVW9rLUc5bWRndk8telBfS3l6dTFKUERySndSZTFIdnRYeGtsdGJhQ1JQNVVlQmRidU9GSEFUOVBTRG13SHhyVkh1MWp0bTU0ZWs1R1RkZ3NaV3pacEE1eUtOaDJSNmNreE1YWFVwdGt2NnROLWRVRFdEZVdtYjBWVkhpM24zZmVWMF9LSWFUdi1QTDhXMXB0X1g3RDRrLWlWNXBBZ0w3cjlGWXJWenlGRXhlNkprTlR3ek9yanZOQXR4S1lKX0dYQVFGdldOSFVqbHZEQl9JSTUtX0d1?oc=5"
     },
     {
       "headline": "Hormel Foods Corporation (HRL) Stock Forecasts - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-24",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaFRRN0hPU05yR2J1MUhJYkJxalBZRGNOUzhYV25vcVVLVXhvMGNUMXVjSU9GSUhLdlZ0aTk3dTVfS0owZEpxdFVlbEpPU0VzUjh1d3ROdF9QcjdfMDA0Zm9oSU9PcW5nR19FZlBJVXVtNXpFdVFSZ0pCRXdEYVh6TUkxdXpMTVE0bURRbg?oc=5"
-    },
-    {
-      "headline": "Hormel Foods Announces Agreement to Sell Ceratti Business in Brazil - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0lyb29yMGNXUUd0NzYtYVpJTXBRYlAxNm9wR2phZ3NzSzk2UGJKampxUDhoeldrd2pjVU1rVDBPWkNSelVuSG1ZRzF2dTJ1anRSNS14VU1EeFNMNFlxaEE5RjQ5U3dlSmJkeF8yRUdEMmtIM3Y4VTRyUG9rVXNLVkdhU3FvMFdsTmplNG55OU5wUENRWmd6WHRRYUYtV2pLNC0tRXk0STdZdjdoVFJ5akxLQ2FGQWFLOW9oUkxibk4?oc=5"
     }
   ],
   "insight": "Tracking Hormel Foods (HRL)."

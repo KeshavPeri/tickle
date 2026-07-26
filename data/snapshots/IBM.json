@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:12.377Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:48.615Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    264.94000244140625,
     262.9599914550781,
     258.2699890136719,
     271.6300048828125,
@@ -23,10 +24,10 @@
     213,
     210.5,
     205.77000427246094,
-    206.64999389648438,
-    214.19000244140625
+    206.64999389648438
   ],
   "6m": [
+    303.1600036621094,
     309.0299987792969,
     297.95001220703125,
     305.6700134277344,
@@ -157,8 +158,7 @@
     213,
     210.5,
     205.77000427246094,
-    206.64999389648438,
-    214.19000244140625
+    206.64999389648438
   ],
   "1y": [
     259.7200012207031,
@@ -410,30 +410,29 @@
     213,
     210.5,
     205.77000427246094,
-    206.64999389648438,
-    214.19000244140625
+    206.64999389648438
   ],
-  "lastClose": 214.19000244140625,
-  "oneYearReturn": -17.530416820153448,
+  "lastClose": 206.64999389648438,
+  "oneYearReturn": -20.43354654042269,
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Why IBM’s CEO Isn’t Worried About the Biggest Stock Selloff Since Black Monday - WSJ",
+      "source": "WSJ",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWThWM3R6a0ktM09DdEU4aW5wRTFoc0NDN0pUYnBZdGFRSlVWOF9GWm1VNldpN1VybVd1SGNZam1WbXhhcFNfYTNkV2phaGh0RE84OUJqMnlOZExhclpRbEZTamdYQ01lc0FMNEJieUNkUlN6cmhjamkwS0tweEl1SFhUYlI?oc=5"
+    },
+    {
+      "headline": "IBM lowers full-year forecast after earnings warning - CNBC",
+      "source": "CNBC",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiMGJ5Q01kSWRJTmE0ZE14VXMtaVZmeWxLOExVNWc2S09kQ3NlSUN0OGVLeWtmazMxRjVBNWcwY1NTc0xfT2tDYjBUQWNBc2x0OEdKNEtidm1HaURIVnZwRGxCVURLN3JmTG1KRnV0YW5nZ9IBd0FVX3lxTE43TmxqLWxiT3ZFV1dEd1RmVHNMTkU5cF9PNU1OTm9oV1lrSXJzNUhKaExZaGpsM2ZBaUp3SU9uWmZZRGRoSUZqajlPRVZkYzZMcjFoWkF4RWd2blh3U2xCaUZITTlOWEc0cWpjRXI0c1VqNGRPb3RF?oc=5"
+    },
+    {
       "headline": "IBM CEO addresses earnings shortfall and historic stock plunge: 'Our AI strategy is the right one' - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-23",
+      "when": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU1RPTVNhd2ZZLUxTa3QzOEhxcjBSU3p2T2hHYnNfa2l4bmsyMTR4c2R5NVJ1UXRTNkd1eTFmYmwxcmZpcnVNMFBpZHYzMkowV2tBYVFVUnZHdFFNRktIaXpxSmxQWnFWbnVnRU9HSU40VjZwSHI3UUM2UVplTUw3RzVpUGZ5RzlZVlk1S0UzcGJDVm9tOWZnRm8xbG5oZVBaam5Eb2FlMGNzUFBBWDZraFFWTkZSZGZ3OWd0WktQVV9VcE1STVpDUGpvLVd0MFRlRHcyc1ZneWJqRWgtRC1rTk15bVliQUE?oc=5"
-    },
-    {
-      "headline": "IBM Stock Alert: What to Know as IBM Acquires Quantum Computing Research Lab - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTngtM3JzcFByUy1KeGVtTld4OVlUQmhZVXNveHlFUGZkS19wYXpLQmgwMmdubVY4QUFWX3k1eW40bFp2YXNLNXl6MDdfYW9RZHdXVmMtd3dIMkNXODlMUVhZZmVyc0NUSS1pcmhtd3FyRFN5aWZQOEE5Qi1CQlRRXzR4Y0Npa0NsakllREhNb2ZTWnBwVHdfcWNGTW1uVzJzOFNhV3ZLMFczYUR3Wmx3OHdRSVR2UEpCUHFr?oc=5"
-    },
-    {
-      "headline": "IBM Earnings: Transactional Software Deal Slippage Overshadows Healthy SaaS Growth - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTGMyVlphLTlTRUV1cDJYU2FFaUNybXE0cVNCenVHNzZFRmpEcElXODBQeGZXaFItdTZPWWthUWNmNkdTMERXU1Q2bm5lLWRBRmUxV2ljYUU2RTJQLWh6OEgtOExVQkNUZUNDVERuNWZzVDJuTjVYYXEwZ0dJd19oRmkwWnlJYlVGd1RoVkkyTzVHSE04TGNfamttbUhhRkdfRkNZaG1zSW1EYXdUeTJHd2ZjUkl0STRLRE1McEJMWVdGZ3dWTVR2YU80T3Ryei01YzhsUkpRRzBpNS1ybm9PRm9hUjRqX0E?oc=5"
     }
   ],
   "insight": "Tracking IBM (IBM)."

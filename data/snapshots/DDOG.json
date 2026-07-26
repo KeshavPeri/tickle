@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:43:59.281Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:32.621Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    220.57000732421875,
     222.64999389648438,
     220.94000244140625,
     239.77000427246094,
@@ -23,10 +24,10 @@
     263.20001220703125,
     254.7899932861328,
     245.77000427246094,
-    244.38999938964844,
-    246.86000061035156
+    244.38999938964844
   ],
   "6m": [
+    125.5,
     122.41000366210938,
     120.86000061035156,
     119.0199966430664,
@@ -157,8 +158,7 @@
     263.20001220703125,
     254.7899932861328,
     245.77000427246094,
-    244.38999938964844,
-    246.86000061035156
+    244.38999938964844
   ],
   "1y": [
     149.83999633789062,
@@ -410,19 +410,12 @@
     263.20001220703125,
     254.7899932861328,
     245.77000427246094,
-    244.38999938964844,
-    246.86000061035156
+    244.38999938964844
   ],
-  "lastClose": 246.86000061035156,
-  "oneYearReturn": 64.7490701038726,
+  "lastClose": 244.38999938964844,
+  "oneYearReturn": 63.10064426226136,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "This Dog Sniffs Out A Buy Point While Monitoring AI Behavior With AWS, Azure, Google - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDRBWmdxWUtsajAxbmJIMExuMXZmMzRHUngtQnptNzFYaV9JOG5QdUM3V0hPMFRjUDF6VElaUzFEenk0dTlsVWpSc3lyUFBoajdNd0xNV21DTEE1VW5yN2xfUE1FZGI2eFNRODJZQkcwOFczMjVEU3VTM3paUzlicXgzM2FKUy1sV2pCUk9zVjgzZDBKOUk0VXZBVy1DWWZLZWotZ3VYMGl2bUNrOGdMQkRBRmVlZm9NSEFkODB5V1diQ2c0?oc=5"
-    },
     {
       "headline": "Datadog (DDOG) Stock Looks Fairly Valued With Sales Still Looking Rich - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +423,16 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFpnemtZUTVqcDkyU0pYTzdSTF9CaUQxSl80enNObUtfNXFDbHZYOEpnRThuSlBteE1CWENyN1JtSXBkMkNUaUpiMTRmbFRpNlhSMzdudzFURFg2aW84QmtiYWlTRmxqWE1ZTzBiQlJqRy16MmwxWHAtenVHSkpsZ0VqSDl2UTljdTg2aDVKWEl0akgwYVBGX01wUlQ?oc=5"
     },
     {
-      "headline": "BofA Names Top Infrastructure Software Stocks Led by Datadog - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRnpvNjEtczZQWFBOVlE2eUZ2dUNmb1pLQnA0eTAtcC1veUh1akhzUmdXYVFuZzhXRXNOal9xbnRiZjVoVEp3M3doZ19xTzJMcmNkbE9fMHNteUJTQ01kWG1ySXV5N01mYTQtUTJrUWV5ampRVkN6bmtvWV82MkRBQVNPdFR4d2dYNkltSGRkR24zRElyekVJOC1KcUpzTjYxWWFQRUoxb1VkZmNlUkRqOEZUUUtLOW5UZ1VxdjNLMA?oc=5"
+      "headline": "This Dog Sniffs Out A Buy Point While Monitoring AI Behavior With AWS, Azure, Google - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDRBWmdxWUtsajAxbmJIMExuMXZmMzRHUngtQnptNzFYaV9JOG5QdUM3V0hPMFRjUDF6VElaUzFEenk0dTlsVWpSc3lyUFBoajdNd0xNV21DTEE1VW5yN2xfUE1FZGI2eFNRODJZQkcwOFczMjVEU3VTM3paUzlicXgzM2FKUy1sV2pCUk9zVjgzZDBKOUk0VXZBVy1DWWZLZWotZ3VYMGl2bUNrOGdMQkRBRmVlZm9NSEFkODB5V1diQ2c0?oc=5"
+    },
+    {
+      "headline": "DDOG Stock Has Surged 94% This Year So Far — Jefferies Believes This Leaves Little Room For Slippage Ahead Of Q2 Earnings - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZ2tMVnJKWXA2aHhkU2MxS3FRSUhSblNrbzl4Y0NDQnkzWlB6ZFIxZk9mcHMyYVI4REplbHVFaTNDdFFLRkJLVG92TGE3N0h3SkZLZ08tN3I4YmlJQWRmZFJtTFJpbWViWTI5cVhST04wZFplaUJwdzcyTGctUmJpVkJ5b2RCM2doZG1zel82UjJ2Z2lkeTc4MlVFNktRUWhpQ0xlSjJ5Y2l1U2JVNlpKT1VFVmhFV3RJUGhUMFRQdmNfSk8wcTFqc25pbGt0cXpOeDJCaHh3aG90SUtmMFBjTFdCSUNoSEVZQlhzSG1LQTZuWTZlSHN0akFaR3lnZUc3QUFTdTRvbms1dw?oc=5"
     }
   ],
   "insight": "Tracking Datadog (DDOG)."

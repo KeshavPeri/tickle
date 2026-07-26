@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:29.785Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:59:08.943Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    60.04999923706055,
     60.11000061035156,
     61.209999084472656,
     60.90999984741211,
@@ -23,10 +24,10 @@
     63.13999938964844,
     63.709999084472656,
     64.47000122070312,
-    63.33000183105469,
-    63.970001220703125
+    63.33000183105469
   ],
   "6m": [
+    54.04999923706055,
     53.5,
     53.95000076293945,
     54.400001525878906,
@@ -157,8 +158,7 @@
     63.13999938964844,
     63.709999084472656,
     64.47000122070312,
-    63.33000183105469,
-    63.970001220703125
+    63.33000183105469
   ],
   "1y": [
     46.31999969482422,
@@ -410,30 +410,29 @@
     63.13999938964844,
     63.709999084472656,
     64.47000122070312,
-    63.33000183105469,
-    63.970001220703125
+    63.33000183105469
   ],
-  "lastClose": 63.970001220703125,
-  "oneYearReturn": 38.104494046123904,
+  "lastClose": 63.33000183105469,
+  "oneYearReturn": 36.722802781303045,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "US Bancorp senior EVP Chosy sells $1.45 million in shares - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUlVUkFwemk4QUl4LWFxVGtHZHhPZG5IdTNJUzFvbzJLVTdoZXlWV0Z6MTV0WG90b183clpVdUVMeEJvdndaQXNWMWVnWnlxWGVCSjhlcEctd0dDOVN5YmZfZ28tZXNMYkV4V2xkNTA0SlVXSnlWTG1WZ0w1b1lGV0NhbXYzc0NuN0xQenppWk9rM0RhVUxucS1FZlpjM3hrQjlKczB1WHZTSGN6QlBLdVJYdWdmQVNYenRpRQ?oc=5"
-    },
-    {
-      "headline": "Why U.S. Bancorp (USB) is a Great Dividend Stock Right Now - Yahoo Finance",
+      "headline": "Has U.S. Bancorp (USB) Outpaced Other Finance Stocks This Year? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN0UxQXZIbHBxLU5oY0tVdTZsMGtQZVc5YUtqRld0MUE5S1BpOFVJcmhJWHNveU5NVDNqdnE0Vi1zVUNKTXZpZnAtVWNsdW1xa2ZGMlVVMHJKeG5lNkp3X3JLaGxFc2U5b2cwTXhlQzYxOGpkSlQtdmRnZ1VyZXp5M3ljdFl1dlJ6SlZSZGNvQ3BEQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVlLUTF5b0g5QS1JUFVEbWVKWE5OLVdVVmU3b1FiWmNOZkh1bEtLSE1lMmNhU2tzeXF1T1hqXzc0MldUQXZmQXZNR3B1ejIwOWNoMVdKVjh0NEc3ZDNvV2w2enNtdzNVbjZJSWRMWVJQV2lYR284MXp1b1lRQzh1MkxVMFNhRXhzMWczc3duMnkzb2NFRkpsVQ?oc=5"
     },
     {
-      "headline": "U.S. Bancorp stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+      "headline": "U.S. Bancorp stock underperforms Thursday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcWRDcUV1SS12bXhJTnA4Y0U4RHFVUTFjVmtoNkRORUE1MENTRGFJTTBqSTRiQ0ZzMllWT3pPQ2tUQVFqR2NORk5FS3kydnluUFd2OFZPUTl1NXY3MXZVcm1mN3ZnN0tvaHltVW4zcUljeUNtQWotUnVGaFJHSEwyakh1ekFuLU9rS2NLdFlSTW5UX3VYTmRrNDB5YTFhRXJCQnBYUlAxNk1tNHRHZndocUZSdWhMUmNveTJ2amlWdXlLeV80VE1Ia3Y4dW9nUnJUQi0xYVc3dWdoWi1pMzBJZ0J0dld3YnhtR0pxT0RSdFN2VUpaeVppbw?oc=5"
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNWtlQk4xRHNMNlZUdkZqUUlhMnd6R1VyR1BFNGV5aGtXS0lJcjcwTVRZYmZRamI5UE1NVmlCYUozUW5VRjktaHhSUmt2enFpM29YQkRFRlRlVi1OYUVqaEdyVURQRWpBTXQ0QVdVYUNxXzF4dHR1NkJBWHlVbGZsc0t1dUxxYlJVYk5KeTlEUGJpcWNrcjR6OUd6NGRDckVrM3ZncEE3MFhLY0Itbk96R3pCR05jYm9TcmNnMlVKY1RtMkY3MFdwXw?oc=5"
+    },
+    {
+      "headline": "U.S. Bancorp (USB) Stock Could Be A Bargain As Fair Value Tops Earnings Price - webull.com",
+      "source": "webull.com",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WM3dQaTlkejVpbW5WQXFtOFVvYkVWa0owUXBqa01jRHJKOHZyZWwyR0t6Mm1xQzdybUpLYmNuY1JOLXlCbjB6Vm5aQi1qdy1Sbzl6dWRteUw?oc=5"
     }
   ],
   "insight": "Tracking U.S. Bancorp (USB)."

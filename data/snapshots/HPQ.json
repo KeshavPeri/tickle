@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:11.342Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:47.446Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    23.670000076293945,
     23.290000915527344,
     22.920000076293945,
     22.8799991607666,
@@ -23,10 +24,10 @@
     24.219999313354492,
     24.809999465942383,
     25.100000381469727,
-    24.510000228881836,
-    25.75
+    24.510000228881836
   ],
   "6m": [
+    21.079999923706055,
     20.770000457763672,
     20.610000610351562,
     20.3700008392334,
@@ -157,8 +158,7 @@
     24.219999313354492,
     24.809999465942383,
     25.100000381469727,
-    24.510000228881836,
-    25.75
+    24.510000228881836
   ],
   "1y": [
     25.68000030517578,
@@ -410,30 +410,29 @@
     24.219999313354492,
     24.809999465942383,
     25.100000381469727,
-    24.510000228881836,
-    25.75
+    24.510000228881836
   ],
-  "lastClose": 25.75,
-  "oneYearReturn": 0.2725844781633837,
+  "lastClose": 24.510000228881836,
+  "oneYearReturn": -4.556075009306495,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "What Does HP Inc.'s Latest Dividend Declaration Signify for Investors - Kavout | AI",
+      "source": "Kavout | AI",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUhLdmxlNDFwNjVyUzdCVWtENE1ablk2RURCNFFKM1BRRUNtWnFJVXVsVThzcFVONG82RHJ2SXAtTE05N3JobElLdHl4MW5fX201b3djUV9HdlZVT2VfWndpc0FXZlZrVG1rcVRRRk9MSVhJa1dSQkp4djhUZENWYWczbVZOdU1ranBfTDNDVmRPTnp3OW9IQ3Y1b0Y3anh5RzhBVGd3?oc=5"
+    },
+    {
+      "headline": "HP Inc. $HPQ Stock Holdings Increased by Morningstar Investment Management LLC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTHMzQVpETVBnVG40aFUzWktPeTl5SkJCU1VUSDI0S1RORVZVekE2T2RNaDUtZ2lCUkRjRkU5clJtRGFiY3UyelY0Tl9iWjBDX2JRUVB3RXJDQmx4c1Y5Tmo1Tk9jYkFrSzFiMFFaZkFVQVcxdzY5X0FFYlFfMjViWk9QSU8wUlh1eW5uTHhaYzZ5amkzTm9IREFDbGNwWXN6VmJuZS16akZfdDFUWGlYdzdQNkVqMHh5d3FSUGw2OWhSZzhFMzUyRnVjXzRSZXZwakJj?oc=5"
+    },
     {
       "headline": "What You Need To Know Ahead of HP Inc.'s Earnings Release - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-24",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbGVHRlB6SzRYNWxPS1VRM0dnUDcwWFc1a05mVnBleW90RTRYbXNubTQxcVJLRzkydFE2cWRtbmNWTENkS3JsUkMyaGw3MWF4Y2pYdWJscHQzRTRfSmYtdHJJNzR3VnFYTnhjaVFJdksxYjJkcGJUejFTLXo4a2tzSVdJemIzRWhLd0RYaWczM1k2TXBRRVE?oc=5"
-    },
-    {
-      "headline": "Is It Too Late to Buy HP Inc (HPQ) After 5.1% Rally? GF Value Says Undervalued - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON0t0QndieXp4TWxGTWR6S2tObDNjWjlJYVF1NGpGUUlBOTFEcEFLUlI3bzFkUEVrMlF5ODdrMFVld2ZGNFpLMnZMU1VRT2VweFEzM2ZkM0t2bGRUWV9yZkpUMWhadFA4QmhDdG9CT21SR2d4aFVLODh6eXRQeHdqZnhtMXJPZ0R0Wmd1WW9uYVdGZkVIa3J6ME9DTUlJSGJwckd4dFRVaXdXY3pUWDlEeEJ2M1p2d1IxY2pmelgydHR5dw?oc=5"
-    },
-    {
-      "headline": "HP Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVmVjTG1xa213enNfZ1dhTmFObGgtUmhqejZkNWxtanlHd09naDk0OVR0Nk82WktfYUpRM2Z5aXdzYkdJMlRJSHA0SGtGVTMwVElSc0FxYVJhOEJVak41QUZqR1FfcmgwTF9XRzEzdFFfRWRweGR3LUFTWWhHQWt6SHJLeV91emJYY3NKMktnb3RTWFlWUl9MQ01MQ2pBV2VSSkJmTF9Lby1OYkpEMFVfU1FlZDZoYkU4Y1ZCMGVWcVR6dmNfaWRTR2MtT2t2SGplNmc?oc=5"
     }
   ],
   "insight": "Tracking HP Inc. (HPQ)."

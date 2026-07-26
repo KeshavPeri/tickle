@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:23.371Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:59:01.619Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    108.4800033569336,
     106.26000213623047,
     107.02999877929688,
     108.25,
@@ -23,10 +24,10 @@
     117.97000122070312,
     118.58999633789062,
     118.8499984741211,
-    117.83999633789062,
-    119.95999908447266
+    117.83999633789062
   ],
   "6m": [
+    116.58000183105469,
     117.70999908447266,
     116.43000030517578,
     111.69000244140625,
@@ -157,8 +158,7 @@
     117.97000122070312,
     118.58999633789062,
     118.8499984741211,
-    117.83999633789062,
-    119.95999908447266
+    117.83999633789062
   ],
   "1y": [
     105.20999908447266,
@@ -410,11 +410,10 @@
     117.97000122070312,
     118.58999633789062,
     118.8499984741211,
-    117.83999633789062,
-    119.95999908447266
+    117.83999633789062
   ],
-  "lastClose": 119.95999908447266,
-  "oneYearReturn": 14.019580009840404,
+  "lastClose": 117.83999633789062,
+  "oneYearReturn": 12.004559797854764,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +423,16 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT3JoR0xGSjU1ODNVOG5SZWZiVWNHOXVWT3dVUmdiazBrRzhZdUxfRlUyNHJ0MGs2Yng0Y195OXBXQVhMTmhQZm1zb2t5MVdRSTVkVE81YjdZS2oyZWd1ZmFEQ3d1UlZvWnpYNzIzOEpfZnI4UEpzVU9Cb2VKc1FBeVVXODVPcFp5Vmx1STBQUzRTTTlQMjNhMkxfbDhNZUJkY1M5U01YUm9qLThpMEZxcHgxUFFwclhUZm5lZk1lZmRuX1IxdmtzMUpERzE3UlBoZ19jTmJLRnDSAdgBQVVfeXFMTU9yaEdMRko1NTgzVThuUmVmYlVjRzl1Vk93VVJnYmswa0c4WXVMX0ZVMjRydDBrNmJ4NGNfeTlwV0FYTE5oUGZtc29reTFXUUk1ZFRPNWI3WUtqMmVndWZhREN3dVJWb1p6WDcyMzhKX2ZyOFBKc1VPQm9lSnNRQXlVVzg1T3BaeVZsdUkwUFM0U005UDIzYTJMX2w4TWVCZGNTOVNNWFJvai04aTBGcXB4MVBRcHJYVGZuZWZNZWZkbl9SMXZrczFKREcxN1JQaGdfY05iS0Zw?oc=5"
     },
     {
-      "headline": "Prudential Financial Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWmg2d2t4THlNZ0V4cFFYbmQ3WlAxVFlsVEt2cmdLUm5vUnk1ajR4UEFPRWNqZnVXSW1IcVREY1pyejJoU3NIZFhxZEctYUp5WEt0bTRFdTJrSTBCRVJJRU5NSzdVdlNHakxiUW85bFZOVzhHRWx0bUVJeG90VHA1bTNQeXIwY1lwWXp4VGQ4UzZmQVdHcVhFV1hlcFBfcVRmRzBCNzNTSFIxcFU3d25JbEVEc0piZXowemZGLTVZcUt1SXY4eHpXb0RhOHZhSHoyaVE?oc=5"
-    },
-    {
       "headline": "Prudential Financial stock hits 52-week low at 21.75 USD - Investing.com",
       "source": "Investing.com",
       "when": "2026-07-23",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGJFc2tveDRScVZzWXRIT1JDa1FJejdkRndWc0lkdHlES2tqRFFHbGJ5TVQ2SUd2SS1ZdW1zZktWdG1RR2FwSGFWSFlGUVBiT21NSHNHM21YNkc1cE5INjRwMFdIdnBpM2VRNEpFUUY4ZGFmeU94aEJJVGk2ckxWSnJYUW9FZGVzQlk5b3JUZktwSnhwdnY4eWU4TzU3YVRZcFBMTDl4OVJMRVNQTmJWUg?oc=5"
+    },
+    {
+      "headline": "Prudential Financial Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWmg2d2t4THlNZ0V4cFFYbmQ3WlAxVFlsVEt2cmdLUm5vUnk1ajR4UEFPRWNqZnVXSW1IcVREY1pyejJoU3NIZFhxZEctYUp5WEt0bTRFdTJrSTBCRVJJRU5NSzdVdlNHakxiUW85bFZOVzhHRWx0bUVJeG90VHA1bTNQeXIwY1lwWXp4VGQ4UzZmQVdHcVhFV1hlcFBfcVRmRzBCNzNTSFIxcFU3d25JbEVEc0piZXowemZGLTVZcUt1SXY4eHpXb0RhOHZhSHoyaVE?oc=5"
     }
   ],
   "insight": "Tracking Prudential Financial (PRU)."

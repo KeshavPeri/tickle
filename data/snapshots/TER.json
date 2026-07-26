@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:27.033Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:59:05.855Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    420.1199951171875,
     427.20001220703125,
     471.9599914550781,
     436.8599853515625,
@@ -23,10 +24,10 @@
     333.760009765625,
     374.0400085449219,
     369.4599914550781,
-    373.75,
-    349.9200134277344
+    373.75
   ],
   "6m": [
+    229.27000427246094,
     230.19000244140625,
     227.6999969482422,
     228.14999389648438,
@@ -157,8 +158,7 @@
     333.760009765625,
     374.0400085449219,
     369.4599914550781,
-    373.75,
-    349.9200134277344
+    373.75
   ],
   "1y": [
     90.1500015258789,
@@ -410,13 +410,18 @@
     333.760009765625,
     374.0400085449219,
     369.4599914550781,
-    373.75,
-    349.9200134277344
+    373.75
   ],
-  "lastClose": 349.9200134277344,
-  "oneYearReturn": 288.15308652799587,
+  "lastClose": 373.75,
+  "oneYearReturn": 314.58679276085144,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "70% of Teradyne’s Revenue Is Tied to AI. Should You Buy Before July 29 Q2 Earnings? - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMU5iV0JJQ1VZbzFFc0EyRVRiN0lVRVljMVJ2RUQyXzlfcnZhMVhuSlhxY2Q3TVp5WDJvYzRmX19OOG9QS3RfMEU5NEM3SjBtd0R6U3B1NEtCVS1jY3NTaEtGeVNhVGpFS2RRR0tGOFUwMEt4Y0RDaHF3NkhJTHFVSEEwZmhRSzZ4YlpjODNidFpaamh3VExHd1BzUUxtRjYtc1VNdFlDNU5KVWhWYVh2c3IwYzJGWUZlQVdZOG4xeEE?oc=5"
+    },
     {
       "headline": "Teradyne Inc. stock underperforms Friday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUhPbHhDVVMwTGZfSHAzOFhDMHdTSlV3NG5DR1Nwa2d5b2ZickpYZGNXZDZuRGlqaTZOajBXc3hLaks0T1Y0eUtjWENSZTBSNWtONlZXQXB4LW5naTdya0h1MDE4Sm1aZ0k1VGJOM3d1RTYwUjhTNTZqSlNOTnh2bmxjUlVSSnZaWkhsMjJNeTRKVDUxclhDRFhGYWxVN2NvYW15enRTYXpGN01IaG4xQ2pVUGdjZkd0bHJWR3JmZkE1akluOFdr?oc=5"
     },
     {
-      "headline": "Teradyne (TER) Is Up 8.6% After New U.S. Tariffs Cloud Semiconductor Cost Outlook - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSndPR0U4dHh2ZUVaOW5HbXpPbUJ6VjVvckZ0S2Z2RVNkVnRRQ3pxREZyR2QtdGdqYWNlU3pTOWc3ekRWTXJrZnZZTE1MWU4yODJ1MGtXVFV2dkdzX2xpVUw2VGpwWW9pdXBJRl80VUFWOG5ldzJXaEp1MzBuNmJWa3cwcHV6TXlIcVhZby15aTd4SDRUS21DS2tOQk9qYjd1bHB2RDVaTzhxbWVpMWFNRGpKMFZIckNndUJUVjltMklEQXpHLXpaQmlZWjR1YXhSaEHSAdIBQVVfeXFMTUp3T0dFOHR4dmVFWjluR216T21CelY1b3JGdEtmdkVTZFZ0UUN6cURGckdkLXRnamFjZVN6UzlnN3pEVk1ya2Z2WUxNTFlOMjgydTBrV1RVdnZHc19saVVMNlRqcFlvaXVwSUZfNFVBVjhuZXcyV2hKdTMwbjZiVmt3MHB1ek15SHFYWW8teWk3eEg0VEttQ0trTkJPamI3dWxwdkQ1Wk84cW1laTFhTURqSjBWSHJDZ3VCVFY5bTJJREF6Ry16WkJpWVo0dWF4UmhB?oc=5"
-    },
-    {
-      "headline": "Should You Buy, Sell, or Hold TER Stock Before Q2 Earnings Release? - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejRpM2NsM1dpMmhXckRPendYQ3Z1bk1wUzZjWW83OUlZVFU4UW9lNkczVG1wa1Q2MTl6cXZLV01LWDZHVElpNEFYeG83MDFzTFBsZGhsUk02Xzh1VExQZC1NdlF1NjA1RmI5TzE1cGhCR2hiSzVsYjFfZzVFZjNna092SUpwdjJSWk56Z3V2VGlDNlQ3WW1TWS1YS3piRDhIUVdtU2tZRDd0V2FxZFZMOUNxYklBTUp5V3YzZw?oc=5"
+      "headline": "Teradyne Stock Jumped 12% in a Day as Targets Hit $500. Here’s Where the Stock Could Go in 2026 - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNnI2dFNneWVBTnd3b3Rrd2g1SVA1Rm5aVS05SENLcldzaGhIdWp5SjBTMktkanBYcUJuRm95VFN4VUFLdUN2STliTElrLVY3Y0xCYm0wTWQ5YkNPWDV5eWFzM1JHY2ZwaGQ5VFJlRE5tLTJHX3R6YTktcllBeU5fR3kwcmxrRmhGa19HUE9sYkx5ZlZaWWRmRXNVSlNGMUc5M1Awd2NZaGRROG5COWo3WUlvQkVET2gt?oc=5"
     }
   ],
   "insight": "Tracking Teradyne (TER)."

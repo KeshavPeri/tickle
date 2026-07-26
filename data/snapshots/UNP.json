@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:29.619Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:59:08.602Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    258.6099853515625,
     259.9599914550781,
     267.7300109863281,
     268.3500061035156,
@@ -23,10 +24,10 @@
     296.25,
     293.1300048828125,
     292.55999755859375,
-    304.3299865722656,
-    307.32000732421875
+    304.3299865722656
   ],
   "6m": [
+    229.2899932861328,
     227.13999938964844,
     230.50999450683594,
     229.49000549316406,
@@ -157,8 +158,7 @@
     296.25,
     293.1300048828125,
     292.55999755859375,
-    304.3299865722656,
-    307.32000732421875
+    304.3299865722656
   ],
   "1y": [
     224.74000549316406,
@@ -410,13 +410,18 @@
     296.25,
     293.1300048828125,
     292.55999755859375,
-    304.3299865722656,
-    307.32000732421875
+    304.3299865722656
   ],
-  "lastClose": 307.32000732421875,
-  "oneYearReturn": 36.74468266112351,
+  "lastClose": 304.3299865722656,
+  "oneYearReturn": 35.41424718952516,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "73,753 Shares in Union Pacific Corporation $UNP Purchased by Cumberland Partners Ltd - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONGlpS2dCRERhM3ptZHNFc25JV2lXbUd5cy13bk45UmhEN05GbC1WbUF5aHlZWDEyNEplSTIwaHhkajJQTEhtdzFPMVdpVGFhV3lqTlN1YWsxMzJPNnlHVTNMUThSWlRhREU3UHZrOW14UGZCZmxXUHBXcVBqNEJlUmUzUnI3QVE5R2RKRkRCb3NQNWlROFd4eEZWXzlCM09tRUZDd1dzdmFnNGx6SjdFWjdkNWowWHY5U2tjWGFPM1htTWFONFRGbkdaSlBWMTE0dmZuWGRoZ1lzcXc?oc=5"
+    },
     {
       "headline": "Union Pacific Corporation (UNP) Stock forecasts - Yahoo Finance Singapore",
       "source": "Yahoo Finance Singapore",
@@ -424,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZlVmTEs3c1hvX1FoSDY3U3R4dUp5dFRlZmVMODRGb09YZTBTRkxlVDlQaWtSamxVRHkwb0RoMUswRXFzdWJmNnlrX0ZGSi1xWGo1YmFnanBsLWpIaFlnUUlodFloSXAwRURUWk5MNXlIeTd3V2Y2ckdXVTRtWVFvS3lCdlBnc3NQZDNfRXhnRjdQUQ?oc=5"
     },
     {
-      "headline": "Lido Advisors LLC Sells 10,854 Shares of Union Pacific Corporation $UNP - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON2dtamdoYUJDbzlURnpTU1hmMzljN0FzZmxVdndOb3pLWnFPUEVxSjF6Wk1LY2IxNmYyTFpxWVFObmR3bmJITUYxNURJSTdIaUxzdkcycWZwSlZZYnUzdS1Rd05UQ3lGNng3NDhHYmRmU2VjT3hRdDUwWXJzbXROYWhnNENjMzZOQUcwNWhYZERWZjh0QXZnTWNvZWxTY0E3dG1ZMVF6Q1hkLW9kX3R5TnROSWcxRGF6Mkg1LVBQWmZlS1NxVG4xa0tB?oc=5"
-    },
-    {
-      "headline": "What Union Pacific’s Q2 Earnings Reveal About the Norfolk Southern Merger Odds - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmZRQ3BpQVRXSk9hYUVyZVpXVFNTbjQtUlp3dWdLYnNqVzFObGpXQWY1YlItUUpnVEp2clpTSXJtRVBGQ2ZDZGhQVUI4eWNEaS0wZlFTSlNOaWJ0aU1MWW04ZF9qUGVzVWZhcGpHcl8tZDBsZ0xPb3hvakMwdVJWNWRXSVdndkRWQWpMSHdJTlJvazBwdWltTC1hZ1dKYXIyWUdjMA?oc=5"
+      "headline": "Union Pacific Corporation Stock 12‑Month Price Target Raised to $313.22, Implies 7% Upside - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUF9zZVVTbkxfM0lOYzdmcHNCNjV0Sld4QjFoUTBYcXh5NUFVWGQ1TzVoUktJYUw2V0N6bjFrZ2Z3OHRGVFBoTWE4emdFdXRtbGpwSWlSSDBqWW5CMWkta092UEt2eUQ5Ti1RajBoWmw3U0pRZ0ZxYmRaZGxoQnBIdnlFQndkakZYSzRtWmhkcFhTakc3eXNUVDhaUTgxYVMwUVc3Q0dXQ2JaRE0tQUtXS3JiNnQwZkZTdkI3VjYwZ3h2d01QeEdtX0dya2lTaE13eXdIUHBualdBVEd4SURIYXZFTQ?oc=5"
     }
   ],
   "insight": "Tracking Union Pacific Corporation (UNP)."

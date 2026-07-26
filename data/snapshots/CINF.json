@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:43:54.913Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:27.419Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    175.80999755859375,
     178.4499969482422,
     177.72999572753906,
     184.0800018310547,
@@ -23,10 +24,10 @@
     180.36000061035156,
     180.50999450683594,
     179.22999572753906,
-    179.3800048828125,
-    182.80999755859375
+    179.3800048828125
   ],
   "6m": [
+    161.00999450683594,
     163.67999267578125,
     163.3699951171875,
     162.17999267578125,
@@ -157,8 +158,7 @@
     180.36000061035156,
     180.50999450683594,
     179.22999572753906,
-    179.3800048828125,
-    182.80999755859375
+    179.3800048828125
   ],
   "1y": [
     149.39999389648438,
@@ -410,30 +410,29 @@
     180.36000061035156,
     180.50999450683594,
     179.22999572753906,
-    179.3800048828125,
-    182.80999755859375
+    179.3800048828125
   ],
-  "lastClose": 182.80999755859375,
-  "oneYearReturn": 22.362787836027863,
+  "lastClose": 179.3800048828125,
+  "oneYearReturn": 20.06694257772229,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Cincinnati Financial (CINF) Stock Could Be 22% Overvalued Despite Solid Profitability - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
+      "headline": "Cincinnati Financial (CINF) Q2 Earnings Report Preview: What To Look For - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRHdkYXdqVWVnbUlOMDgzSDRjN0JqQkVXTzNUcTNUaGg1TnJDbEUtbGR0U2JWaXFSWGF3NEh0YTV5MVdKN0JCckFKU0tNZU1nNUp3dUpYWFhvR2t4RlBwZnNQa01WWVV1QktTRHpBRTk4cDhNQUpWWWNSa2tPSUhsTHc3UGs0VjFoTmxkRGdLME1iOVJPLVIyeUlUbWhrTDEwektUUmtCVVl6MnlJcC1sdjBvQ3pVWkdYQWY1bm1GVTFoQ2FPaUZScURn?oc=5"
+    },
+    {
+      "headline": "Cincinnati Financial (CINF) Stock Could Be 22% Overvalued Despite Solid Profitability - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGk1TXJDZm5RYi1xSmlLZHd5X3QxSHJ0QWFjUFl2dnJFYTNZTkJ2ZzY1aEFfTXA4RW9kXzM4MHo2bkc5amRzOF9hZVJ5a0VZY3F4bTVtSWFjQlBIcjNUSUFtY1FyNTZSaDM3MWVMUG1saFRfekNrZ08tcWlHR0lEUExvLWdSNkNVLVlILW05NA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRy1yTWtNUEJILW5zT1hSaGJ1ZWRLWnQ2WDF4SWZpa21EbVVuU2t2Y2czOWJNVXgxa1ZxazJySURudXBrODM4QmpkSW42ekVHZTYtSjFGbmo2aEl4Q3VSbFl0dWh5LTZfLV8xZjFCNnR4aTRreVdnVUJQd0MxRHJyaHVsVUNZWUlmVUtFaGtxdU1nc1VWc0pFUndDUzVxSmpobFdyVA?oc=5"
     },
     {
       "headline": "Cincinnati Financial (CINF) Stock Looks Fully Priced As Returns Shine And Fair Value Lags - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-24",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbVdEWnI4VmEwTWFoNDIxQjNxdDlEMXpTWWROUlJ4S2hjVWVoYXVxYUx0TERsS3FyWlg1MDRfUUpnVGZHcW83Y3hlUTVtQzk2ak5naVhIS1dKdTAtNWFSTU55dEpVQS02VXZCSVhHMTZXUkMxNGlRbm45Wm9JbGdETTQ2eUhYdjBBQ1F4TGtta2ozTEdmUGt5Qll5ZURvSXFHUG9jaGxkS1lRR3hfUWkxcXJBTUl2SV9HMXpvaERWaWNJUm1LT3BzVi04QnA5UGZ6ak16a19xONIB3AFBVV95cUxQbGJ2YVFIb25GYXFyRlFQRnFsYnp2ZUVhVkRORVl0WWJ5Rk5mMHd6clhvcEV3Zkk1WHFGNFVDUExmb1M4Q29TU2ZRQmxnOUhnbnpOODRKcjJ0ckRBc00zZFBxamhIbG5qT1o3NkQ1amZTWUNkLUNMVFhBcFpLRWI5a2tLRGlna29WLVdEWjZSbm1aZlNVN2RHczAxTlhNV1dDV3BEM25lSTQ0WnVTbFpwWThXSU9FaFNjOG1kNnN4RVFZVW5rZVNmRXMxQ04wZzQ1blZhRmJEaE1rcHg3?oc=5"
-    },
-    {
-      "headline": "Cincinnati Financial Corporation (NASDAQ:CINF) Receives Consensus Recommendation of \"Moderate Buy\" from Analysts - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT0pON0xFWmxIejB1eUZrM2kwcWxDWWdFSjZjMFBSU1NDeF9iMng0Z1Y0V25QSmZqMmlRN1k2QWR3SG9uQmp2enpUZkx0ZzZCTkRuNmMybWhUNnRuc1IzNlg3TTFUOFFtNXN2X0htbVB0NExLU0hqSGg3YW9wbjd5Mm5kVUgwSjZZYnJiUXF4bEJva1F1NjRZSW1kcHFPNzRVYTU3R0tHY3ZyR0xNdmpVNm1Ua2lrOWJHeWdUUUNHeXEyNXRPeVhLS2lMaDNrdFBhMGJuTmJkcFRYZG1sczVjbFpCOXdUX0E5UDVLenhjZTZzcjQ?oc=5"
     }
   ],
   "insight": "Tracking Cincinnati Financial (CINF)."

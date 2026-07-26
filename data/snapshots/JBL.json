@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:14.500Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:51.503Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    372.989990234375,
     371.79998779296875,
     374.6400146484375,
     358.6000061035156,
@@ -23,10 +24,10 @@
     305.9100036621094,
     318.92999267578125,
     318.2900085449219,
-    322.0400085449219,
-    312.5899963378906
+    322.0400085449219
   ],
   "6m": [
+    238.35000610351562,
     241.33999633789062,
     253.17999267578125,
     251.2899932861328,
@@ -157,8 +158,7 @@
     305.9100036621094,
     318.92999267578125,
     318.2900085449219,
-    322.0400085449219,
-    312.5899963378906
+    322.0400085449219
   ],
   "1y": [
     222.5500030517578,
@@ -410,13 +410,18 @@
     305.9100036621094,
     318.92999267578125,
     318.2900085449219,
-    322.0400085449219,
-    312.5899963378906
+    322.0400085449219
   ],
-  "lastClose": 312.5899963378906,
-  "oneYearReturn": 40.45832040055846,
+  "lastClose": 322.0400085449219,
+  "oneYearReturn": 44.704562628123604,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Can Jabil (JBL) Stay Undervalued After Its $1.5b Buyback? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFgybkY5N3VneFBWalpERC1PXzhiWk8zNG1jLUNWMklzQXAzSDU2ekNjeGNSSFJ3NFF6eTFQdEhUWFBDeVdpWjJJQ3RWY3B2SHA0a3kxQmhOYWViV0tJRHRnTjZQYXhwTE1OQjBQeDVETE52NlJGdmZCdWhiTG5NN09vUU1jUTVFdTZaTjZMZUlrY3pnOUlhWmg2cm11RFhZMkU5ekJCNUZtbWdDSkHSAbMBQVVfeXFMTW51NlJKTlRINGdEMVd1OG1XamhNbGtrUzNaUUVlX2NraDY2LVZhMXNXQVZWazRvckZSbW4yYzVCUGQ0aDdPVG92VXY1QWZVSFpIN1JBa1dDVHNobDc3UEdCbEpNY3NPMkxUcWJuci1lTkxwQ2pFYmVtLTItYkZialNoS1QxQTk0dGhBWFRlTmdlYzQwcVhadE1TSHh3Qkc3cGo1WHhRZnRVQ21fLXRJYnZfWG8?oc=5"
+    },
     {
       "headline": "Is Jabil (JBL) Stock Outpacing Its Computer and Technology Peers This Year? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -428,12 +433,6 @@
       "source": "MarketWatch",
       "when": "2026-07-24",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0FxbndSWmloaUxWeDJ0WjhUbzk3UmFud1IxcGNmaDBCcEVCTlo4b0JCVTc2ZGo2Z3JiREgxUS1BaWlVMkxWVzlXVDJXLVBOSEdFSlNyS0I1Q0haN3VFRHV5TlpMbm9WSzdJVGRUMzBPVkJWUUZoS0VkdDZ1LTZ1UUx3Q09pZ040STVJcmdJSVNoZ1BSOVl1bldpaUlYTHByRkUtT3JaZTdsLXBFbWJiME5ObzBTbWp5TTE3VzRwUVBnSlU?oc=5"
-    },
-    {
-      "headline": "Jabil Stock Leads 3 Cash Flow Picks Worth A Closer Look - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWDMzemZBRGNLZGt1dFBnUzBzRVluQUFaalJhZURoWExTOXJhbWRvZG83ODBfUlJoRlpGTllmcVlIQk93c1JaWF82bmt6V09MdlQwU1lNVmxqNC13RkRuOFhvWV9DalhPMWZGWG1vdmtLbXl4VjZPb2Vzd2NTY0dFendLeHZNektKUGgxRVdkemRuLUlBeUdzZmJUSVUyWFc4N2hNRmFpMHlPYU5CMUVjbkMtTm9yZ1JNTnVYcUQzaE5nNGZ3NkdYampkSjA2cVNfUnluRjdaS0U4S3hIZlJF0gHfAUFVX3lxTE9YMzN6ZkFEY0tka3V0UGdTMHNFWW5BQVpqUmFlRGhYTFM5cmFtZG9kbzc4MF9SUmhGWkZOWWZxWUhCT3dzUlpYXzZua3pXT0x2VDBTWU1WbGo0LXdGRG44WG9ZX0NqWE8xZkZYbW92a0tteXhWNk9vZXN3Y1NjR0V6d0t4dk16S0pQaDFFV2R6ZG4tSUF5R3NmYlRJVTJYVzg3aE1GYWkweU9hTkIxRWNuQy1Ob3JnUk1OdVhxRDNoTmc0Znc2R1hqamRKMDZxU19SeW5GN1pLRThLeEhmUkU?oc=5"
     }
   ],
   "insight": "Tracking Jabil (JBL)."

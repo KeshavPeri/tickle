@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:26.551Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:59:05.181Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    79.27999877929688,
     80.58999633789062,
     80.8499984741211,
     82.81999969482422,
@@ -23,10 +24,10 @@
     80.77999877929688,
     81.22000122070312,
     82.12000274658203,
-    81.7300033569336,
-    83.11000061035156
+    81.7300033569336
   ],
   "6m": [
+    76.05999755859375,
     77.11000061035156,
     79.18000030517578,
     78.80000305175781,
@@ -157,8 +158,7 @@
     80.77999877929688,
     81.22000122070312,
     82.12000274658203,
-    81.7300033569336,
-    83.11000061035156
+    81.7300033569336
   ],
   "1y": [
     80.30000305175781,
@@ -410,19 +410,12 @@
     80.77999877929688,
     81.22000122070312,
     82.12000274658203,
-    81.7300033569336,
-    83.11000061035156
+    81.7300033569336
   ],
-  "lastClose": 83.11000061035156,
-  "oneYearReturn": 3.4993741616454868,
+  "lastClose": 81.7300033569336,
+  "oneYearReturn": 1.7808222301735985,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Sysco Corp. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnpjNm0zbkQ3ZU5kcFJqMHdQdDZ5Sno0OWphR3c4S01sOWJwbTMzQUY4Z1hUNTgwa0lLdzlzZW1JRDdXSzlPMzZhNHBlakpZRmJSaElzWHQtQXlSSVR2SzFJVUlON1lZZWpUVVVqZGN0dVIyRVB0dVpLLVZlOWdmMm5XM1pSWkppV00xVDhJNFdKUndIMTVoRTluN2ZxZkZqOWljUVd0YUkyX3BjQ2pTRGx3SFdpMjFRalBMTFhiRQ?oc=5"
-    },
     {
       "headline": "Is Sysco (SYY) Undervalued Or Is Its Quality Already Priced In? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +423,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVk1ckZ4ZFN4bjBIVG9GU2FMa1dtQmVIZmdwUkdFWU0wZEtWSm1XelUwakdheGFianNOSGFzYlAzNkZSUTRaakNpZDR3TUd2ZzBBcjNlWFBxRWV4UjRiTlh3TTg4QkVhWHdaSk9Cb2JnWXhFVXN6MWxRd3llQlpCN2h1cHB4WEcyYy1JVHc3Q2xlenZFOFV6RUtjVHVEektoWEQtQw?oc=5"
     },
     {
-      "headline": "Liberty One Investment Management LLC Sells 48,943 Shares of Sysco Corporation $SYY - MarketBeat",
-      "source": "MarketBeat",
+      "headline": "Sysco Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd0FRWEQ1RTByUVFRbFlJakw2YWFYZzQ3RHdCM3JKcmxMMGw0WEVLNlRpaWxmQm1BaHNJQTdxaWVURmZ4UDU2MWdvcjJ3M2RRc05nbzNSMUkzcHpBc05ZVkh0R244QWM3VmVhcnFaQXpKcHlJTXY4YVBybG51Qjh6RGlQY3ptcHMwTEtuN09RRTl6RXRuazJhQ3R4U244eW44WkxpTXdFX2ZMdUFaRmdYM3lsRHVpOHZwZEVSdGZUQmJMTlJhMGJmVEdWVDlGUWJ1MDVySy1iTGtUQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnpjNm0zbkQ3ZU5kcFJqMHdQdDZ5Sno0OWphR3c4S01sOWJwbTMzQUY4Z1hUNTgwa0lLdzlzZW1JRDdXSzlPMzZhNHBlakpZRmJSaElzWHQtQXlSSVR2SzFJVUlON1lZZWpUVVVqZGN0dVIyRVB0dVpLLVZlOWdmMm5XM1pSWkppV00xVDhJNFdKUndIMTVoRTluN2ZxZkZqOWljUVd0YUkyX3BjQ2pTRGx3SFdpMjFRalBMTFhiRQ?oc=5"
+    },
+    {
+      "headline": "Dimensional Fund Advisors LP Grows Stock Holdings in Sysco Corporation $SYY - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTktIUExUYjByeW5OdHZBLXliRldBblU5VlF5V0lIdjhSUFY0dFBqTlN2bXo0cDhLWTA4WkhMNk9zNVdKeXhBX3RXc0t5Z00xa1VQaXZJNkZ6UmhLMXlmLWktRG5LMTJqV1BVeVIxZTJvOHpMV0xzWVViZGdyMjZQM1hHQWpDcDRXQkttWVV2S01PaTZXb1BZWVp1am5kczJ3YllOTkpyNFB1d3BnOVY4VDhzM3lydFlnQ3dNR3pQMkZXVlk5VFUxUW9nbHRlZjVo?oc=5"
     }
   ],
   "insight": "Tracking Sysco (SYY)."

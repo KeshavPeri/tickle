@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:43:55.206Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:28.107Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    22.799999237060547,
     22.639999389648438,
     22.690000534057617,
     23.170000076293945,
@@ -23,10 +24,10 @@
     23.780000686645508,
     23.809999465942383,
     23.520000457763672,
-    21.920000076293945,
-    22.299999237060547
+    21.920000076293945
   ],
   "6m": [
+    28.479999542236328,
     28.420000076293945,
     28.350000381469727,
     27.81999969482422,
@@ -157,8 +158,7 @@
     23.780000686645508,
     23.809999465942383,
     23.520000457763672,
-    21.920000076293945,
-    22.299999237060547
+    21.920000076293945
   ],
   "1y": [
     31.565135955810547,
@@ -410,13 +410,18 @@
     23.780000686645508,
     23.809999465942383,
     23.520000457763672,
-    21.920000076293945,
-    22.299999237060547
+    21.920000076293945
   ],
-  "lastClose": 22.299999237060547,
-  "oneYearReturn": -29.352437232396785,
+  "lastClose": 21.920000076293945,
+  "oneYearReturn": -30.55629442882572,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Comcast Stock Sold Off Hard While Its Cash Flow Held Up - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjZINHFCSlFLbUVUREF2ZmtVWHI1QmpLeTdTQlo1T3pUZHVvdmlLLVAxdGs1RW1fb0NFUGpOekZVaGRyNDdiTkNDdVd6aVhmTkFOMmpfVDBsQkRyV3JzdGJ3UV92aW14N2c4WTRjbTlfWUVtNVhPUjFzNkdLaWJaVm1TQzBlRHVxYUpTZkwySzdkekFmaW84?oc=5"
+    },
     {
       "headline": "Comcast Stock Is Trapped Between Strong Earnings and Bleeding Broadband - Barron's",
       "source": "Barron's",
@@ -424,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MVzk1MG1renc0Ti0zekFjTklvVXNSbXNuSlZFVnF0ZHJlUkJQbkxUcEd5cUx6WlJ0RkYyOEtUSmJoZlFteWd6eGFTY1BvbFVtR3VsX0kwWjVFU0tmTnV4Q21KRTY2UkFwWFdkOTd3QkpTMUlJcWJTV09B?oc=5"
     },
     {
-      "headline": "Comcast Stock: An Irrational Discount Ahead Of A Major Catalyst (NASDAQ:CMCSA) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOWNGOUFNMDdZd2x5bExSaVBIZUhsMFFwQVEzUVBoUkEtazAzd0F0NnJsR0JlM0trMDVrRlJpSGNjSU8zTWEwcHZTUzN4VzgtMkNXWkRsVS1YUktqdmFPSnVvYkw5NDVDLXZfR2Uzc2VSTVdSdWNxTjNvV0VIWjZZc0VpN0l2WU9VVGg0X3M2V3dyd3ZKSXBjVGptbUdDZw?oc=5"
-    },
-    {
-      "headline": "Comcast (CMCSA) Stock Faces Margin Reset As Q2 Net Income Aligns With Lower 9% Base - simplywall.st",
+      "headline": "Why Comcast (CMCSA) Is Down 6.3% After NBCUniversal Spin-Off Plan And Peacock’s First Profit - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU1F6OG90U2kyRlltOGgzSzY1S2lXNmJZeVlfVkVVVHVlbGhCNWRqRzhFWFkzRWUzLXl4OGZGYlhyNDJISkc3MjVvSUthQXhSYl95ZGwtVTlUMHAwVmN5eFVKYTZkQzBKc0xZMGd5MTUtWER5dEtzWGZEcFAzNWlRc3BZeDQ1cms3WWJaTGNrT1JDTHJ2b3hHQWIxWjFybGo0cXZPX3M0MFoyT1pQTWh0N24yN21rQ3NKMFhOa0tnM3lKVXVs0gHKAUFVX3lxTE16YjlLaVEtYjBncHRUOHdHWWd3QXNEaGxnMW03eWxHbjI2Z3VBSkxHaHJ5bUtvc3ZleEFBYWFGNnV1LXZDUUJQMUxnX095MUNPQlJFZU5BT2RXLVVya1NtcENFX3I2Zjk0bVYxQUZzcVBIY3g0MzR4TE05MlBVUkZTWTNIcGpSNHZTNFdHM0Uxd2xLRTgzcEJOOEVSaDFfWWtzcndKYThYTG04YU9JdWtzLWpxRDRlX05kOGJRU1ZJejNmc2otdy1mNXc?oc=5"
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVWxiS1dYZWFsWF94TEt4ZDVMLU5RUDRMOWdWSDFHMUlvdFFTTFh5eW5mdE5odWVtUUpvbXAwVjdVaC1BWjRlWjdBV29hYUNHMXZ5MXhteDFINVJGbjkzdlFpdkpybVNpMGZoLWVJYXZpajU2OFpuVi1IT2lvV1k2OGV0VTdFWFVYa1ZRUXk0M1BnOTZKRjNoRU1rOENUM1NqQzVTbldDQ0xfd1VHZ1VKOG9pcDZnOUt6cUtGQ016X0x2QW9z0gHKAUFVX3lxTFBHVnBYZjZrWFpnM2ZQZklkN2c2NkkxQ1Zpd2lnWnVqYzBTS3ZuZ1ZkdjB0YmtmcC13WmdPelNnNUQtaXRSMmh4a0JCdDhNMjVRaXMyUDFqUWRVV2dudUhhTjhQZzlPeWhud183WTc0aW9uS291UDQtb3BzeWlhbHV0UWNyc3BzaTNUTW9QTF9kRlU4bmprbC1UOGI3Y3dHaFRyOHJTRUVOd09MNmNTQWtfak9rQ1FUWEs5QUItYVpyalIxQ0d1WXRwLXc?oc=5"
     }
   ],
   "insight": "Tracking Comcast (CMCSA)."

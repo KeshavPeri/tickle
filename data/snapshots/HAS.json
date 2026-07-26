@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:10.069Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:45.901Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    82.87000274658203,
     83.27999877929688,
     84.87999725341797,
     85.33000183105469,
@@ -23,10 +24,10 @@
     81.58999633789062,
     88.77999877929688,
     89.04000091552734,
-    87.3499984741211,
-    88.79000091552734
+    87.3499984741211
   ],
   "6m": [
+    86.87000274658203,
     85.41999816894531,
     86.88999938964844,
     86.19999694824219,
@@ -157,8 +158,7 @@
     81.58999633789062,
     88.77999877929688,
     89.04000091552734,
-    87.3499984741211,
-    88.79000091552734
+    87.3499984741211
   ],
   "1y": [
     74.9800033569336,
@@ -410,11 +410,10 @@
     81.58999633789062,
     88.77999877929688,
     89.04000091552734,
-    87.3499984741211,
-    88.79000091552734
+    87.3499984741211
   ],
-  "lastClose": 88.79000091552734,
-  "oneYearReturn": 18.41824078461675,
+  "lastClose": 87.3499984741211,
+  "oneYearReturn": 16.49772547795387,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +423,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOWdnTndGYWN5WlVKTHp1b0Q0a1NneVJUTjZVY3BKU1p1VW02Y01XUk5iWm83WlZEODE5clJXVTRSVHVjcHZja25XM3FiRGpFdDhVZWRuTm9Ya3RXMDhtRVI3b0w0VUZ6QzZ6RHpRZDluaUxrWlhKYnJvUE9BLWQ4QjVaSzVGV240NnI3MVFJVU9kaUNfVEpSYUN2Qzc0M2M?oc=5"
     },
     {
-      "headline": "Hasbro Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlJrbm9BTFRwQ2paUTV0ODVOZGRuQko4anY2aGZsbEdLMzFkaDRoTm9wNC1kTExDVXh4QXY2dHIzZWsyVmE1aWZLYlpvMUxWQ0tTMGxka3pnNGljN1hhNjZ4dEVfNDZZanBTbVRFdFFxLWUzOUVtazNJY3R1T0NTdE90dG8zRW92LXRGaWRtbFZhSHRtamktT2NuRkNOZTN0ZmlHNTEtNklmZXpvZmZ3bGhTaFJ4ekRNNjBRQk0zcw?oc=5"
+      "headline": "Hasbro (HAS) Returns To Profit, Is The Stock Still Below Fair Value? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDlrUmZtTXV5aEhMWnpvVUdIdzI2X01mVjBBUlc2N0pCTUkyTUJfZXBBNmRtMHdaUXpfMW85VGk1TjV1bC1sTTJ2U0lpbmtxang3YVQzeER1R0dHNnZPLTN6dTc3YjVoXy1rQlozR2NOa3laTXdZSWhHbnR4Si1hc3ptaGZBdERXbFdYUk1jbHYxNFp6NmxoTE01UkhMdGJxUlU2WXNYVlNvNnVXLTZCUUQydGdieWtyS3pKc2UzODFpY1Q3SWFQR3ZlZUw5d9IB0wFBVV95cUxPQjQ1MHp5WE4tODlzcm10VXRSdE1BaTJNZ1YxTkhVVl8wU0lOTDlVVmNTeUxRa1VUMjRXSTFCSHVobXlmVlFicnctcEdNRHYyeEhfRlBDWTlOdmo3M1BIZ0hqNk9vVnN2ejM0YUtDbk02b2dodUFGczIxMmZkT3RVc2xuTUJtS0VIbzFMRzUxN243d0laU1VUWG0wd1NiZTF2WGFpbGZ2MUVwdkJvcmpVMUpBR0FsejNrNm1JQTFJY2diR2h6cnRyUEZFeEF2YTBPSzZj?oc=5"
     },
     {
-      "headline": "Hasbro (HAS) Stock Looks Cheap On Cash Flow While Its 58% Run Tempers Value - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM1g4R3VZWlBEbEtJVUlIcmYweTk3c1owdEc0MVZWU0tjcVJEaHdGTmZHVlZPMEZERGZVbWlHempwWVFkTEE5MWROalBjdE9fQTNwVV9WcGdDNGtCbFBxQ29HWWtDeUpYa0ZRckUyODkxQnRiZFZFTU1uRlo0TVF1amZLRkRjU1pRYjk5NWtiU2RUc2VIaThyampMWHBEUk80S0lEaENpVDNRVDUwY3pHSk8wQ0hLa1dMUGI4VlF2Q3VGcXVtT3pZQ3laZlRjQdIB0wFBVV95cUxQTlFvM18xeUVNTGlzR3RsRTU3NG9zRFdBb1NZVjhJelFhOWVyRE1FVWltYnF6bi1KcVpNLXNZdGlXWFpiZFRqNklEQkFrMU9VcGpKb2sxbXdxck5WdGFfQzlrR1ZjcGRaQUQ3QVRHOWE3NzFMWS1GdnJOMUpxMG53cXZUVTcyVUlLRUs5LTVYZnBGRTQ4blRkQktOblpoaXRtRmJkUjVSM0YxZkhHZHZBdklvcWxWTEtpVkFZOVBIaGg2Y3gzQmx1VDdxdDVUU3FGWm00?oc=5"
+      "headline": "Hasbro Stock Jumps 10% As It Convinces Wall Street To Believe In Magic - Forbes",
+      "source": "Forbes",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNXzl1Y1hVVll2bXpqLURjWlFvdzNFYUY0LUx4NzZrQXRwZzZHeFVUTnpCR25LT3VmNFlJVzZyakdPX1JhdUpxMG5iZ2k4Y2NhVHEzZUw0WWtwVVlvSXlGbzItMTZZVmhWWF9sUHktMnJidHAxRExtSnc5UUtFZGpZS01YNVZLSjFhZnRCczJzOWI0NjE2cWN0WUJjT3l1ZzcxZ3Z1MjhVR1RrbjI0cFQ1Ym9lbzBXYVFLNUl4bWhR?oc=5"
     }
   ],
   "insight": "Tracking Hasbro (HAS)."

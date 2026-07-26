@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:31.179Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:59:10.653Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    257.54998779296875,
     261.5,
     257.69000244140625,
     265.42999267578125,
@@ -23,10 +24,10 @@
     293.29998779296875,
     288.82000732421875,
     286.510009765625,
-    288.3699951171875,
-    295.1099853515625
+    288.3699951171875
   ],
   "6m": [
+    327.4200134277344,
     328.19000244140625,
     328.489990234375,
     329.4100036621094,
@@ -157,8 +158,7 @@
     293.29998779296875,
     288.82000732421875,
     286.510009765625,
-    288.3699951171875,
-    295.1099853515625
+    288.3699951171875
   ],
   "1y": [
     313.1099853515625,
@@ -410,13 +410,18 @@
     293.29998779296875,
     288.82000732421875,
     286.510009765625,
-    288.3699951171875,
-    295.1099853515625
+    288.3699951171875
   ],
-  "lastClose": 295.1099853515625,
-  "oneYearReturn": -5.748778653542285,
+  "lastClose": 288.3699951171875,
+  "oneYearReturn": -7.9013737637899775,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Willis Towers Watson Public Limited Company (WTW) stock price, news, quote and history - Yahoo Finance Australia",
+      "source": "Yahoo Finance Australia",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13WUNJNGx3UVJ5Ql85VGtuUi1zOURzZTNjM2hRUmR4TnBVX01PeWhtLXpCYzBfQWw2YzZmRTZHSkl0UmJkWDA3dms4Q0w4YVlBNTNiZ0NkQlBwSG9xLUFKMw?oc=5"
+    },
     {
       "headline": "Willis Towers Watson PLC stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMXpqS2FvVHdmOW9DWXVPc25wVEhwbmlHYWphTG8wSmJYc0NUbmNwSWlNaTFnQTNaSUQyc1kzYlFweXFETjVkbm1LcHhFOVZvM1hGc2Y0VEFycEVlOHpkeVNzM0gzaXVSZjA3bkJHSENkZFFhdVA0Q1NkcG5mNHZpcmxkSGtsbU1vVVlEZ1ZhNWdxQ3lxTE4yOFBIcE9hNGZRMDgxSXV1aHZEd1B3ZERzdFRMWEJtT3ZFYWpaQXB5Y2QzdktfMnNKOG9XZnZrWjZUMEYzY3R6QUktYkRpWU5qWDBiU1VfX3YwTGZ2RkNwTk5rUHVnRlVrYV9iSU10RzhsZUotR3F3ZVJxUQ?oc=5"
     },
     {
-      "headline": "Willis Towers Watson Public Lim (WTW) Stock Forecasts - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWtYS0QzNFJ2UGtMMElaREprMThROUlrb05PTy1Qbk83bTZUd1RUNHlBVm1ibGFZbmhocy1CcVpCWi1GWkMtT2hzV3ZVMVpUdC1lZ3A4ZXR3TjRoYW9CbGp5SkRCNE1VZTA5NlhFY3p5TU83Z0tqVU9VRkpTaFBKcGZGZjBpYkltVUVIcV9XVQ?oc=5"
-    },
-    {
-      "headline": "Is Willis Towers Watson (WTW) Trading At A Discount Or A Premium? - simplywall.st",
+      "headline": "Can WTW’s Data-Driven Risk Push Redefine Its Competitive Edge in Insurance Analytics (WTW)? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV0FfWmZJNndLdVFpV0NGNm9acWFUR0k0a2MyY0JZRVFRNXhyZFNaM3V3QUt5REZ5RThvaDdrN2V0NFV5dFRENE1OVHB6Ni1fQ0dRMFZ5blNOVldZUzRRUU40VEFhX3N6ME5XbkxYUlFQUjlxSWlQc09Rd3g0ZURRSXpKN3BHZ1JnOHBuRTFreHd4SElacUxtMEc5TDhiWjBHSHFDQXk1dzExdGQySHFkVlV2ZkJ6V2M0encxNlFwVy1nMUIxZlRPd2JvbVJmMXJsNWY1SjFn0gHbAUFVX3lxTE03S2NuZlNLc2c0QThldHhYUHk4bERqUm1XTFBKZ0dGN3lRY0hHTzd5YjE5a05hTTJSQ1NDME5fVm1YUXd3ZTZWQVh2NFRaU0NBX3BvdG9EZkZrc2VFSFV3OV9ydWkwTFQ5REJUdGp6VTd3ZkRxRmtJbkpid2ZuMmQwek11U0o0Sk90RGtmWDE3Qnd4bkx3akRkOGpjYUJsOWVla2pFa00xUG5YLWh1TXdvOEVXSHV3R0lsWHpPdUMzTEdzUmN1eURQUEZHMm1oWnZpNFNxQTdsaXBaRQ?oc=5"
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN3lnNXpuaHBGbFdxSU9YbngwNThYXzJ0alpVZ3Q4YUpITTFWQ3h6NTc3Mmtsdlc3eGNkS0RvRlhoQmowcjYwRFp2SXVpZ2tPalFzOERSN0JpQUN3OFpnTkZpQ3Rka0ZERXllbmxwaHB5RkRYTF9ySU1yX3dzNUR4eDlmdHdpWmpybWl1YVlOVVY3X05keldUblJ0ZXhnUFhOTUFveWxmZVZfbHJWYnhDOW1PaE45SnF5QXJldjlNYW1hS0dMNDVnU1R6SHFwemQxT0ZXRzVTMS1CSVnSAdsBQVVfeXFMTTd5ZzV6bmhwRmxXcUlPWG54MDU4WF8ydGpaVWd0OGFKSE0xVkN4ejU3NzJrbHZXN3hjZEtEb0ZYaEJqMHI2MERadkl1aWdrT2pRczhEUjdCaUFDdzhaZ05GaUN0ZGtGREV5ZW5scGhweUZEWExfcklNcl93czVEeHg5ZnR3aVpqcm1pdWFZTlVWN19OZHpXVG5SdGV4Z1BYTk1Bb3lsZmVWX2xyVmJ4QzltT2hOOUpxeUFyZXY5TWFtYUtHTDQ1Z1NUekhxcHpkMU9GV0c1UzEtQklZ?oc=5"
     }
   ],
   "insight": "Tracking Willis Towers Watson (WTW)."

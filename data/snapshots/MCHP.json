@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:17.530Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:55.103Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    93.26000213623047,
     92.4800033569336,
     94.12000274658203,
     87.93000030517578,
@@ -23,10 +24,10 @@
     80.51000213623047,
     83.37999725341797,
     85.0199966430664,
-    81.3499984741211,
-    78.86000061035156
+    81.3499984741211
   ],
   "6m": [
+    74.06999969482422,
     74.68000030517578,
     74.44999694824219,
     74.69999694824219,
@@ -157,8 +158,7 @@
     80.51000213623047,
     83.37999725341797,
     85.0199966430664,
-    81.3499984741211,
-    78.86000061035156
+    81.3499984741211
   ],
   "1y": [
     69.20999908447266,
@@ -410,30 +410,29 @@
     80.51000213623047,
     83.37999725341797,
     85.0199966430664,
-    81.3499984741211,
-    78.86000061035156
+    81.3499984741211
   ],
-  "lastClose": 78.86000061035156,
-  "oneYearReturn": 13.943074199583243,
+  "lastClose": 81.3499984741211,
+  "oneYearReturn": 17.540817151046692,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Microchip Technology (NASDAQ: MCHP) COO exits to lead Menlo Microsystems - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSnhNekRDUTNlay1ySHhSVXB0NDdnWkJfRTEwekN0V2tXdWRObW1ZT2Z3LURRendPMHMzOEIyWEVpdkd1NUZrQ3BZalZRT0hRT0s2RFhLUVBKMlFESUFqMFkxVjdRRktYSXpPc0xUOEJUVnJkSXlhUlhiZy1pRGdGaVhDQVJXaGRSeHloVFEtdXJIV1RGTVgySmFFZWVLT2s5WEY2MnJCZzlXVGZkNXQ4OXNsaw?oc=5"
-    },
-    {
-      "headline": "Mizuho Markets Americas LLC Has $9.75 Million Stake in Microchip Technology Incorporated $MCHP - MarketBeat",
+      "headline": "Unisphere Establishment Purchases Shares of 191,500 Microchip Technology Incorporated $MCHP - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVlp0RnVERmhsUlFIazJ1ck00RThuRlRMNzBoUGFCel9YSGYxR1p2b0FWY2Z2Umh4UWZzTUsyT01uZVI1cEVlS1cyRjhhYUNqdWVtSmFZZF9rSGxNMjd6cGpCeHRiTy1RcFdhQVloUEMxbFI4eE1XbjdOTHlEUzBYMEhrVi12X1FfZkdBRVRqd3daUTdmelpmQnFHQi05bUFnSUlnWFlsYlV2NjVBMHdrdk1zVWpMR1lkUWJyUFp0Tk44ZHZVZ3ZwOHdjUFd3Smp6dmRZZnMyZUktdUlzVElOODhmWUJtZ1k?oc=5"
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcE5NbXhhenRBcnhxQ3djZmsyZUpVY3lLbDBxMWlrU09wYlRzYzY5bk05dXlFQ1phV2dNR1hrYUhLWVVhbDM4bExCcGsxR21zRjZKdTRYLUQ2MkdSRC04dmdXbTFEUXZNQmJwSGRRcDFycHBKTXF0S0NwZzRBOFZoVnAyY2tWMHUxbUwzWUhoYUVvSkh0dXNBdERVVThTSFY3cnRLeXlFTlZ6d2RUVFdSWnBHaUp1enJkN2lyMUVhUWNWcFAwYk8yU01qT0hxSl9vTXVlNmpRRllUejBRNWR4UXVlZC0?oc=5"
     },
     {
-      "headline": "Microchip's New PoE and Edge AI Tools Might Change The Case For Investing In MCHP - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Microchip Technology Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUGdVVHlVMmFuWXc5MjlKLVh0UmhSMzkwRjZWNGdNMnY3dEp1WU8wYWk4NU1uV1ltWjR2VnJYVHlpZVFZNk9OMWk0WV9MWlIwV0dhQ2xtSUEtQ29LS0o5dzR4VndNU0c0OWZHUDFzRUdBR2RMRURiUHZRbDBRSWJYaFJNYl9sX012WHZSTlFrZnVDTzhudkNtUWxYLTVlNUdjdWI5SWQ4UFNucEp2c2RMV2pqTGJkeWpES0hSZTZvYTh3b0Q0ZzhVbC1YX3RsWjFQUUo4UzVuSWlYd0ZrZ2N6RzRvZ9IB4wFBVV95cUxQUGdVVHlVMmFuWXc5MjlKLVh0UmhSMzkwRjZWNGdNMnY3dEp1WU8wYWk4NU1uV1ltWjR2VnJYVHlpZVFZNk9OMWk0WV9MWlIwV0dhQ2xtSUEtQ29LS0o5dzR4VndNU0c0OWZHUDFzRUdBR2RMRURiUHZRbDBRSWJYaFJNYl9sX012WHZSTlFrZnVDTzhudkNtUWxYLTVlNUdjdWI5SWQ4UFNucEp2c2RMV2pqTGJkeWpES0hSZTZvYTh3b0Q0ZzhVbC1YX3RsWjFQUUo4UzVuSWlYd0ZrZ2N6RzRvZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDZTQi1oMWpZblhZQ0trQkNfemdyWkNRd0RocWpDVElnUGpUMVU2WDRDZ1RpV0s0eGh4NUd1aXR5TGtVRDNjOFZ3OGJnQTF2X1o2QkVMVDh1NC16dFBWSTgteGoyWWszQks0MTNuUC1OQlhCUDBtTkdvQVBrNG5DYk9oZWxPMG0tWTdrVndWU1ZIc3FzbVpXaV9XS0lmOHRzWUJab0xNem5UdWNZN0RhQnVXVC1BSTBkWktQRVRZdEZ3TFcxT3NQREd3SUlseWRka3dSSUszbw?oc=5"
+    },
+    {
+      "headline": "What to Expect From Microchip Technology's Next Quarterly Earnings Report - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUc2a3B1NkJLejZ2V3ljQWp1Z0R0RnYzWmJacnNjVzdUcUFRbW4yMzZ3SXh5QXF5SXVOYkVvLUVwUFFuWW9FNV85TktYRndheUkxamZ2ZW1VbTJiQ0pRa1g4cHAzdHB2Q3l4blIxczd6RWwxYWIxZW9aaFpRYzQ3MXRGaG0tZElJb2lXUHpxeU1uMHVkc2JEbkhIaFdDc2JxQ3lrS1BxWUl6aUps?oc=5"
     }
   ],
   "insight": "Tracking Microchip Technology (MCHP)."

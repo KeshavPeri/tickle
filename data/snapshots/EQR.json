@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:03.726Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:38.002Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    65.69999694824219,
     66.22000122070312,
     67.16999816894531,
     68.37999725341797,
@@ -23,10 +24,10 @@
     68.80000305175781,
     68.29000091552734,
     68.29000091552734,
-    68.27999877929688,
-    67.86000061035156
+    68.27999877929688
   ],
   "6m": [
+    60.189998626708984,
     61.20000076293945,
     61.16999816894531,
     62.040000915527344,
@@ -157,8 +158,7 @@
     68.80000305175781,
     68.29000091552734,
     68.29000091552734,
-    68.27999877929688,
-    67.86000061035156
+    68.27999877929688
   ],
   "1y": [
     67.37000274658203,
@@ -410,24 +410,23 @@
     68.80000305175781,
     68.29000091552734,
     68.29000091552734,
-    68.27999877929688,
-    67.86000061035156
+    68.27999877929688
   ],
-  "lastClose": 67.86000061035156,
-  "oneYearReturn": 0.7273235027356311,
+  "lastClose": 68.27999877929688,
+  "oneYearReturn": 1.3507436479376005,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Equity Residential (EQR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VU3J3Y1pRdkthUndfUmJxdjFDYWZ0WWduMnpIZ0d2UmFKN2pleHk5M1pENEQtMldSUTBqTVdHRDA0MUdQMjU1VjE2b25STlZy?oc=5"
+    },
     {
       "headline": "Equity Residential (EQR) Stock Faces Margin Compression As FFO Stays Near 382 Million - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORWgwTURNSE1hLUhiTmVNeExWWTF4aXBGVGkwRG52SW1CdGQ2YjExbU52YllLaGxjMXhhMVlveEJGZkJySXZhVThPNmlYLUhKNjZtaVdpZXhNZEJ5MTdYSHZHdnNTLW5UeDJZUjVQWW5ubnd1ZFpQZU9OMEtvcWxfdjBNWDN5VEI5YW5nYjkxVzZiZ3J2c3lHbnhPNWdrYmVaaEFhNHVSR0ltZXRRQmVKRXBzUHlwOWp4M3N0RDN5TUJJTk9XanF5N09UclJzS0x2TjZFSXpHQ2_SAdgBQVVfeXFMTkVoME1ETUhNYS1IYk5lTXhMVlkxeGlwRlRpMERudkltQnRkNmIxMW1OdmJZS2hsYzF4YTFZb3hCRmZCckl2YVU4TzZpWC1ISjY2bWlXaWV4TWRCeTE3WEh2R3ZzUy1uVHgyWVI1UFlubm53dWRaUGVPTjBLb3FsX3YwTVgzeVRCOWFuZ2I5MVc2YmdydnN5R254TzVna2JlWmhBYTR1UkdJbWV0UUJlSkVwc1B5cDlqeDNzdEQzeU1CSU5PV2pxeTdPVHJSc0tMdk42RUl6R0Nv?oc=5"
-    },
-    {
-      "headline": "Equity Residential (EQR) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmM1NXFfaFJRR1RZT2pkYWNqMV9FakJwbFUzRlprNUVxdDhoMzM2R0F3RWxDNjhKYXhfd1NNam9IY1N0WTd4YjMtSDJPT1o3b3MtLXRvM1RNOXkwdUVRdGtBQmpIeEhENVdULUZ5ZVVQVXZvcy1MbDh3d0MzY2Q0Y0pOZzlXWW52WG5QVl9YbkdzMEMycUM5ejhXTnZMWVph?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX3pPOHdaQ2VLb2hwcEhpbUx0R19JYjQ5X3pfeGlYVVVnT0FXRTY2cUhoemM2RndYbFRqdzlzRUlRQ2NoMGJ6VkdiYzlGY2VxblJSMFpEUTluTWc0Z0VES1J2cjBFZlpMbWlRcFFqS3EwTGYwdThnOHd1dE1WUjFTdjVNLVM3RTF6RF9sTGpVQ1k1WFFoSUk4YmEwOFdTbWdtYk9EblRoa0Fib01reWZWWHVPRllhUXRTWU9YSDJWNkRDd3ZkWUpPSk5BU05zOGZyNG5Z0gHYAUFVX3lxTE5FaDBNRE1ITWEtSGJOZU14TFZZMXhpcEZUaTBEbnZJbUJ0ZDZiMTFtTnZiWUtobGMxeGExWW94QkZmQnJJdmFVOE82aVgtSEo2Nm1pV2lleE1kQnkxN1hIdkd2c1MtblR4MllSNVBZbm5ud3VkWlBlT04wS29xbF92ME1YM3lUQjlhbmdiOTFXNmJncnZzeUdueE81Z2tiZVpoQWE0dVJHSW1ldFFCZUpFcHNQeXA5angzc3REM3lNQklOT1dqcXk3T1RyUnNLTHZONkVJekdDbw?oc=5"
     },
     {
       "headline": "EQUITY RESIDENTIAL ($EQR) Releases Q2 2026 Earnings - Quiver Quantitative",

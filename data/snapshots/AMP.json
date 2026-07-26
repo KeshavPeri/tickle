@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:43:47.106Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:18.616Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    466.1099853515625,
     460.95001220703125,
     453.2900085449219,
     452.80999755859375,
@@ -23,10 +24,10 @@
     526.219970703125,
     528.3699951171875,
     526.8200073242188,
-    520.1099853515625,
-    528.9000244140625
+    520.1099853515625
   ],
   "6m": [
+    495.3699951171875,
     507.4599914550781,
     508.1000061035156,
     509.32000732421875,
@@ -157,8 +158,7 @@
     526.219970703125,
     528.3699951171875,
     526.8200073242188,
-    520.1099853515625,
-    528.9000244140625
+    520.1099853515625
   ],
   "1y": [
     521.0599975585938,
@@ -410,19 +410,12 @@
     526.219970703125,
     528.3699951171875,
     526.8200073242188,
-    520.1099853515625,
-    528.9000244140625
+    520.1099853515625
   ],
-  "lastClose": 528.9000244140625,
-  "oneYearReturn": 1.5046303481754288,
+  "lastClose": 520.1099853515625,
+  "oneYearReturn": -0.18232299763606782,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Ameriprise Financial (AMP) Stock Earnings Beat Narrative With 22.4% EPS Growth Versus History - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQa3BwMkM3b2JjRDI5OUZ1c3FYZ0FJWlR4WTFEX050cV9vRGYtMzVpamE2TXN0OTRzMVJERWJxT1NuWXJ4Qjk4RnpVYktCY01RWE9maU9QeXZWcVhabFpOcDhHMks5VFZOeURQUGd2b2EzdThhMmdmanpwTU5kcXZ1bnJNZW93eHdYTkdpVHgzVmlTNFJzOHU2elJFQ0lYLUlLbWFMWlVrU01JU2NaM0xmQnlTT1dDNDhYdG4zZ0FKX3pXN2o5ZWVzemcwT3RVTWxZRm8xRHZZb0pNQW81MkJzUGRQTdIB6AFBVV95cUxQZjFRaVFILU1rYUgtdW96bEwzWWxLQnNqS3BLRVZ4bHdfMXdPS0p0LUVMS3d4NWVZbjJ6Y3pvMU9qQVN0XzBzTlg2dFU4WEc4R0ZqZ2NmN1JYQU1fU3c0Z1M3U25RNnZwZm5NQ0R5VFR1QWZkVWJESzNjdHIxbDNCemZpSkU2WnJGcDkxd01hM0UyYldUWXVRY0l3bTZqdmJmWV9QNWIxX1FvVmVTendNRUVkMEZvMEpPYldwNy1pSWNIc041RktWZUt4bkVmbG5mc19DaEtqRks3d3hFRW9pMlhzZzJ1MWMx?oc=5"
-    },
     {
       "headline": "Why is Ameriprise Financial stock rallying today? - Investing.com",
       "source": "Investing.com",
@@ -430,10 +423,16 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQak9jdTFfSURhTG44OW4yekhFV3pKTFN2NVYycjc2ME5pdlhHeVJZeWdtMTFXck9vYXJxNk02T1lVNllXT3R1YmkyRjJFemZlS1c5N0xoRjgyLWZYd2M2aGl0WVNta3BnUWFqTWdpUDRpaGk2VmJSVEZMSk9sZUQzcUwtTnZHR1Y3MndINHNvT19jMzNmRTBtdHRpaUFfNGJ4NHVOR1JiMEVjVlg3Z2Nr?oc=5"
     },
     {
-      "headline": "Ameriprise Financial Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLVJxOVFOcTdxc21ObmRoeGNrWWRmdUpyNEk1M2VxbFYxdW1iZWdEek1BQjBuSUJhd0NxaVJHbkVOcVRGVF9UZXNkb3NaOEl4QmEyLXFiTHR1QmdyR1EzQVdTakdaRHdqZnFwZGRNY2w2QW1OV2hrLU11UTYzeDliUlRqRHlqcjVZVmZGWmZObDVKOWt6M1pUQ2RRMm8tc0JraHNPTFU3cUN6QnhtdUktS0JzYkx0ZHN5dW9faGZ2NnlPSV9QRVM0RGNoZHFKNFZmX1E?oc=5"
+      "headline": "Analysts Are Neutral on Top Financial Stocks: Kinsale Capital Group (KNSL), Ameriprise Financial (AMP) - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQkE4ZVZpY2I4YjRKcXV0Ymx3TFZCbE9pWXdWU3BaaHU1WS0zdUw0bzAwaExKZWRjWGZ1a2xjbGVjWDg4VVJZNVQzcGJxQmJ0azFoOXB6T1ZDdVhnZnc0ZlpkNDFiOExsTWdJclFjVUl0WEthT2t2OUFnQnRKMU80ZEQwZDQzb2RVb1NROTVxRWQteko3TVR4dllsYmNvVjZFQ21CQURMV0I2TTBBX3dQa1BqbU1OTUZsMjAtT2NPaE5hQWRQVmRtTzI0Z2FDVm96NTF2RklXQUpLQ3ZJcWpEWnh0X2pmU3FOQjdYLW1Gd1ozRWVNOGJPR1lXYUN3a1paUVR0VjEwbVM?oc=5"
+    },
+    {
+      "headline": "Ameriprise Financial’s (NYSE:AMP) Q2 CY2026: Beats On Revenue - StockStory",
+      "source": "StockStory",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVdpNXAxT014c1JGZGE3OEV0T2dNdTBjdW1HZm16d3dTZml2UkJnZ2lrcUdtMndEVF9TYjg3cFpZS1ZCUjJLUmp5ajRHNHJ0WEJWV180cjRfQmpTQ004cEFkRktubmJKRXl5aGpuMkxZYUIxNVRWTnQxVzhUdDR4WlZHYWNCNGFqdDBRLWRsd1RxaG44S01ZYXp5SkVkNEZUSEFreUNPbEhoSGQ5ZlUzYk53?oc=5"
     }
   ],
   "insight": "Tracking Ameriprise Financial (AMP)."

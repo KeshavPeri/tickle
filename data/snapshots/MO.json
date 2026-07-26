@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:18.776Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:55.996Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    71.61000061035156,
     72.06999969482422,
     73.20999908447266,
     73.79000091552734,
@@ -23,10 +24,10 @@
     74.66000366210938,
     72.98999786376953,
     72.16999816894531,
-    72.08000183105469,
-    72.98999786376953
+    72.08000183105469
   ],
   "6m": [
+    60.150001525878906,
     61.470001220703125,
     61.58000183105469,
     61.7599983215332,
@@ -157,8 +158,7 @@
     74.66000366210938,
     72.98999786376953,
     72.16999816894531,
-    72.08000183105469,
-    72.98999786376953
+    72.08000183105469
   ],
   "1y": [
     59.84000015258789,
@@ -410,11 +410,10 @@
     74.66000366210938,
     72.98999786376953,
     72.16999816894531,
-    72.08000183105469,
-    72.98999786376953
+    72.08000183105469
   ],
-  "lastClose": 72.98999786376953,
-  "oneYearReturn": 21.97526349874674,
+  "lastClose": 72.08000183105469,
+  "oneYearReturn": 20.45454820731222,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +423,16 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMFE4ZzNFQ3pZd25hdDVzdFBxUkg5cWpCRDdMYm83aW9rNFJEbnZNb3JmcG5iSF9saGVjbVdyQnp2dEdNbFVkQy1HTEU1dE5ib2dxLXpJS0pPMzE0Tm5QRkVuU2tBUU5wLTBoMVQwVENlMDVUSzZFLWJoeDhpNEhGcDZpblpNcEdZWFpBM1hQNHdMTjcwNHpJ?oc=5"
     },
     {
-      "headline": "Altria Group Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa3VCdzVhaEpWM2lHV0pLQnlKWlRtTThfb0RsNzd4Rkx4Y3lSQ0JZX1l4UGN3Tk5zT2JyQktKWXdFbzhXQkFJc2V2U1Z3aEdmQl9iVlB5NmpoU19vMDBlaU5EVzMtUWxuaXhDRDRtNzNwbWJwMHJHcHdQNEZRVUhsQjhCeWMxaG1JNXpCX052djZNRVJZQlhuNmQ3RFBsNUE0cHpCbXh1cmpYaklQT1lhT1c1TEp2R2hFUTY1eEktODRJN01nU25V?oc=5"
-    },
-    {
       "headline": "MO Stock Eyes Best Week In Six Years: Altria’s Pricing Power Offsets Falling Cigarette Volumes In Q1 - Stocktwits",
       "source": "Stocktwits",
       "when": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTC1xX3VCcnJOaVV1Nzl6YmVLTlN5NFp0TTRHcU9JUi11YkxJanMxLUZfTGJQanZPaW1xc1pGVDFLMDVoT2ltcFRfa3ZvenlraGxLSE9za1BQVkRIM1JCOGJmLVk0dW9VLWRpUzR5bFFJRUd4YjNGcE5CX2xCam5LaVRMRjVMZzFXMm0xV3ZqVXFZa1V3Q1JSMWNMQWpKX2lYR25INEU5M1F0R0prWXZWWHhkWDN1Vkg4ZndpeHhsRDJFVzNyQUFLaGFWMEhXbVZuR1RoYm9YR29HeUV2c2pBVkQwdkZ6VE9BZi1ycmpGa0ZWOHliZ1E?oc=5"
+    },
+    {
+      "headline": "What Altria Group (MO)'s Upward Earnings Revisions Mean For Shareholders - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcXJKOE5kMEl5ZXFXNzdLTXNxcU9DUWY2UXc0SnljdEpfa29GSXBtN0U1QWR2Vk5Xa3VVRUZjZy0yTVk3bzY0ZEM5dXpERW43LUQwVC0wVTBFMnBUTFlRWWRZOUlZUUxHTkU5NWNWbTRpRmpfQ0dBZ3cxNEhYQjhiNEV0Nmt0SFZBaVc5QUUyTmtYamltME9TOUFzYXZTWjZKQXdObWhhTFFmVGV1RTlXb0lKc2gyd1BGOEk0OWlPcDlOeDgyUXhac3NUM0EyTkxGOGhSOERRSHFsQmlv0gHcAUFVX3lxTFBxcko4TmQwSXllcVc3N0tNc3FxT0NRZjZRdzRKeWN0Sl9rb0ZJcG03RTVBZHZWTldrdVVFRmNnLTJNWTdvNjRkQzl1ekRFbjctRDBULTBVMEUycFRMWVFZZFk5SVlRTEdORTk1Y1ZtNGlGal9DR0FndzE0SFhCOGI0RXQ2a3RIVkFpVzlBRTJOa1hqaW0wT1M5QXNhdlNaNkpBd05taGFMUWZUZXVFOVdvSUpzaDJ3UEY4STQ5aU9wOU54ODJReFpzc1QzQTJOTEY4aFI4RFFIcWxCaW8?oc=5"
     }
   ],
   "insight": "Tracking Altria (MO)."

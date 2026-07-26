@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:05.298Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:40.339Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    45.599998474121094,
     46.2599983215332,
     46.91999816894531,
     47.099998474121094,
@@ -23,10 +24,10 @@
     44.7599983215332,
     45.0099983215332,
     45.33000183105469,
-    46.150001525878906,
-    47.02000045776367
+    46.150001525878906
   ],
   "6m": [
+    42.41999816894531,
     42.41999816894531,
     43.529998779296875,
     43.7400016784668,
@@ -157,8 +158,7 @@
     44.7599983215332,
     45.0099983215332,
     45.33000183105469,
-    46.150001525878906,
-    47.02000045776367
+    46.150001525878906
   ],
   "1y": [
     47.75,
@@ -410,11 +410,10 @@
     44.7599983215332,
     45.0099983215332,
     45.33000183105469,
-    46.150001525878906,
-    47.02000045776367
+    46.150001525878906
   ],
-  "lastClose": 47.02000045776367,
-  "oneYearReturn": -1.528794852850949,
+  "lastClose": 46.150001525878906,
+  "oneYearReturn": -3.3507821447562174,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +423,16 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0Q5S1Y0ZkJkelBfb0ItU2I2MGJRdFN3ajdvVmdob0xEaXdsZU14S2g0X1pwSldCWFNlazdxalVUMnNTRVU2U0docGFtWVlpQUxoX1VWQ0p5M25SNjRReEtQcVp4WlpIbmdPVEowZDFjRG1KVkVFMGUzYm1rdEg0Wjg1b2RGUFFRandVWUZ6aDhyUGV2XzgtMk1aNmxPcGJNdEE?oc=5"
     },
     {
+      "headline": "Income Investors Should Know That Fastenal Company (NASDAQ:FAST) Goes Ex-Dividend Soon - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT1BkeEJXanBoaW5WUXpiczhOcUk5dDNSVDdaTUZ2VVREd254cXFwRzRDVEVtcTVLWk9tXzZ0bHp3Y0J3Z3c1eS11ejdjM2J5TXc1VVk0TUlSYXdoTExvTm52b0YwcDdEMWNWc3QyOEZLTmhEN2ZLT0tVOW9HZmRiVnBqdGlyQVZEdUZmMW95X3BZZVJUbkdVcGpVNUlmZ0MwQnN4S1NpVkxhZTZNOGV1cEw5SXYyODJuampfSnRQcHY4cXRQRHRpVWJlSlVsMUXSAdQBQVVfeXFMTXI0NzJjaXctMEVFaUpqUHc1ZUVsRkNKTEJfdlJQQnZCdGFZOVZNakZzRlYzTkhfeDhIVnFQMEV5dFV4N1lKSllyTUFheEgyM1M5aVNxSlhBNm4xTkI1SDZLT2NGUXZJUjZEbjNQbTcxbExDZkJXMDk0REhndlA2cUhlUlJuVks3cEFRck5RYWZmaUFVUW41YUpyZjVOS2ZvZ0ZjXzdqUTJjSEsxdFVqWUVKZ05JTXZKR3VweU1DRGQ0OU1oQk1DTG5sOFJuQUZXQjJUakQ?oc=5"
+    },
+    {
       "headline": "Fastenal Co. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-07-24",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbHlmR1FwbEgzcDJTWHdZbnFoWnQ4ZGpJMnBKaUZ6NDdmREF4NHpVMno2N2d2THJ6M0tyeWJ1aEpyVzJhc212OEdpaUFxaW5LRnpKUFRGMWdDeVNCMjlzOWxwc1NLTjFjNmNrbVpzbG1TcjJocXh4WHM5Sm9GVGJ2cl94RnVfamRfenJKc3lpdHRJYzRVT3psSm1vWERGT3pEbFNUM3FWRXl4aEdiOU9JbWlUYVRjY1E0TDNKZTZRVTU?oc=5"
-    },
-    {
-      "headline": "Fastenal (FAST) Stock Could Be Fully Priced Following Strong Q2 Results - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWXYydDA2cFFjOUhmd2hkSmtRNTExbDFjaVFONkR4OVNQR2JPZi1RTl95bVRfQ3BBSG5ndlVFRjQ5bGo5aUdCbkQyM09UU2Vsa0FqeDlBbEtyMnJZV3lSa2tZaWJfdmVuX0l2WXlUQnZNWFMwRlVEemxTS3hrT0xBWnQ2MGI4TDB2SjNfZ0RGRGhsUjRGT2RRXzgwbzRPV2F5b1dVZHRrU2tXeWU5ZWlpdzZXVHE4THd0OEFOd2V6d0JqcTFVWkQ2NXdGWXptcUhhMFHSAdIBQVVfeXFMUFl2MnQwNnBRYzlIZndoZEprUTUxMWwxY2lRTjZEeDlTUEdiT2YtUU5feW1UX0NwQUhuZ3ZVRUY0OWxqOWlHQm5EMjNPVFNlbGtBang5QWxLcjJyWVd5UmtrWWliX3Zlbl9Jdll5VEJ2TVhTMEZVRHpsU0t4a09MQVp0NjBiOEwwdkozX2dERkRobFI0Rk9kUV84MG80T1dheW9XVWR0a1NrV3llOWVpaXc2V1RxOEx3dDhBTndlendCanExVVpENjV3Rll6bXFIYTBR?oc=5"
     }
   ],
   "insight": "Tracking Fastenal (FAST)."

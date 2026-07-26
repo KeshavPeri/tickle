@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:43:45.896Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:17.428Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    119.87000274658203,
     119.4800033569336,
     112.88999938964844,
     113.29000091552734,
@@ -23,10 +24,10 @@
     123.12999725341797,
     124.91000366210938,
     124.30000305175781,
-    117.37000274658203,
-    115.37000274658203
+    117.37000274658203
   ],
   "6m": [
+    88.86000061035156,
     90.6500015258789,
     91.52999877929688,
     93.48999786376953,
@@ -157,8 +158,7 @@
     123.12999725341797,
     124.91000366210938,
     124.30000305175781,
-    117.37000274658203,
-    115.37000274658203
+    117.37000274658203
   ],
   "1y": [
     80.75,
@@ -410,13 +410,18 @@
     123.12999725341797,
     124.91000366210938,
     124.30000305175781,
-    117.37000274658203,
-    115.37000274658203
+    117.37000274658203
   ],
-  "lastClose": 115.37000274658203,
-  "oneYearReturn": 42.873068416819855,
+  "lastClose": 117.37000274658203,
+  "oneYearReturn": 45.34984860257837,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Akamai Stock Posts Best Week Since 2013 On Buzz Of $1.8B Anthropic Cloud Deal - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcFFpVFQ1OUxoSEs2LU9udGpOUzFfN3VSUEhwb2czRlNUa0xHMVV5enNtd0Q1d003eXpKcWlyTjJyV3Rlb0tqMkx3MDJaN1NrbW13VjdXdkczU2NkbzBOVElCQWxDNXpjSWRGZWZ3dUdya3BEcDhRcnRFS3ZqMkNjaEFUbVA5emdycWpEQ2drY3RtNDExb1RZeE15cDZsbzM0OUZMUzNrclY5blV2b3drT0syeVV0ZV84RHpsMWoyV1lGYWlSdEhBU0JxWkM1RlVJbFJVSV9SUmU?oc=5"
+    },
     {
       "headline": "Have Akamai Technologies Insiders Been Selling Stock? - simplywall.st",
       "source": "simplywall.st",
@@ -424,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV0doRVZlTkRVcjUyaHltVW1MV3RTNTJpUGtFRmRTOUlCZlFjYndzcmlJV2plazB2R1BkZkEwNlVhM0NHYzVBWFI2eFhTU2NIWGREUGxYRjFRUzJWWUJhLVBIVkp5MTNMYUlRQUdfc3NCUUs5OThpbk9reC0wakFfNE1HU0xncFRJN3RlbjB1TGhsaDZmUnV3MFZVbEtidlhCWGxEVWlieEw3M3k3ZHZfM19sckJOVUtHM0tsQlE1dVBKVUR4UGRaU3BB0gHPAUFVX3lxTE5SWVRQbk42TFV0cDRZUXFTQzRNcDZQX2pkVzhwT2M5MVc2QXQzTXhlYVZyaTQydHhTb3k1ODc1bXNGdWMxU255dllTLU1WclZYV2RyaDlKUnRlcFZHY1hlODlmQ056S2NfMmJuUlZSaklBRmMzcDlKdHRzU1gxU2o5WDlna2JIU1dqNUxnSzN0dkEwRkdLSnpEVThBdEZlQ2xZaWdHdy1JXzk1Y0ZCRDFQZ255dVo2U1hndkItU0N3LVVuaE1ZR0g3V3BJeXRUTQ?oc=5"
     },
     {
-      "headline": "Why Akamai Technologies (AKAM) Stock Is Down Today - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLVRObkR2OGs4SmY0RkpnSFoyMFczaHAyeWtGdHlaRTkyRmFXbDFnWUFsZzJnNnJxZVJ3NHZNRVB6dUlqVC1sMjQ4aU5BcUpodkNJYWYzR2JTdWFNTlkzZG5oM2ViN3hfY1FsRFd1WGYxNDFHbUVXOElzTHVNWEtvYWhwcGtwOS1uVWpRYm9TNTk?oc=5"
-    },
-    {
-      "headline": "Aristides Capital LLC Sells 14,103 Shares of Akamai Technologies, Inc. $AKAM - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNE9YNXRXVG1XUkpOYm5TYk1XTWZ4QS05dEQ2NlZHY18xOWhyNkF2THRnWlJmZGRnaVZxVTd2S0t2ZldyRjRvWFo1VFEyd085UEJ6Q0FUVW40bmxXMEN4TkZrR2RNa0ROQ1pzUEdHQ0ozSDZMVFRDakxjLVJ4ck45cnFVSmkwV0w2UHo1b1h0VVBaOWo4eWY5Umg1RGtUTWJKZHJwS1Ewb2w0SUQ5a3hBSG1JRzRlY3hwcjRLVlNWSmxKeEpkSEhpQjNBcHhSQQ?oc=5"
+      "headline": "Here's What to Expect From Akamai Technologies' Next Earnings Report - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOTRUdi01bW1KX1hWYmZlRm9QNGYySmZjYm5LTTJOdG9CUklmb2E5bW83YXJVcEVoNlpCUy1iWEV6dDlhZ010ODNXQzNQdHdDZ0lPbmRpSzhINWJCd2d2T2RZVnNFNkxyOTRVcUIzbjQ5TFBFSkRyQ1lOQ2d2TEtNVXJPSTFUTU9Vb0RaZS1BZFp4SHlhT2E5Z0J6Mi1qdGo2cEhUXw?oc=5"
     }
   ],
   "insight": "Tracking Akamai Technologies (AKAM)."

@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:43:45.289Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:16.783Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    118.79000091552734,
     117.75,
     118.2300033569336,
     120.1500015258789,
@@ -23,10 +24,10 @@
     124.08000183105469,
     123.58999633789062,
     123.58000183105469,
-    124.33999633789062,
-    125.5999984741211
+    124.33999633789062
   ],
   "6m": [
+    107.95999908447266,
     110.18000030517578,
     109.61000061035156,
     109.51000213623047,
@@ -157,8 +158,7 @@
     124.08000183105469,
     123.58999633789062,
     123.58000183105469,
-    124.33999633789062,
-    125.5999984741211
+    124.33999633789062
   ],
   "1y": [
     103.37000274658203,
@@ -410,30 +410,29 @@
     124.08000183105469,
     123.58999633789062,
     123.58000183105469,
-    124.33999633789062,
-    125.5999984741211
+    124.33999633789062
   ],
-  "lastClose": 125.5999984741211,
-  "oneYearReturn": 21.50526761814767,
+  "lastClose": 124.33999633789062,
+  "oneYearReturn": 20.286343266061273,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Do Options Traders Know Something About Aflac Stock We Don't? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT09BclktdHdqYmozYnRacm0yNlJGcEp1YkRnREdYOU1aT0s2Rk5KMmN0S1lMbFFYemI1ZU9JVEZmUEtsR3NTUWM1N3hhVThYZXBzcmI3dkxsU3B6bzJOSzlUQVRUQU5ndE5yUWEtbHl4Ti0zQlNPczZOaFVxX2hORFZuUWY3aXJMTG9GMDJ1VGZHejBqS29lTjhKSUZmS3l6RkZGYw?oc=5"
+    },
     {
       "headline": "Aflac (AFL) Trades Above Analyst Targets, Is The Stock Already Fully Valued? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDZ0SjllQklzd3RYSE9HZ2lMUm1Tak5oMFFwUmllNVFtdzJxOEdzbl9telB3NWM5SVROZmdBUXlfUGhwRkFvcUFWOVp4RGpDVVpyRS1KVVBoazhETmt3azRJTEEzY3pUS294SHpsc0NDOFhRbHRFRTNYRG1RU1BiVGxzYWFDSXl2Tmx1TXl2LVE1Si1aeGNqemxzUno3TlZIM0IyZVd2WXJBMjM1YlFGa3QtSFQ4ZnBmMzk3MmtDY0JTaTjSAcMBQVVfeXFMT3g2dEo5ZUJJc3d0WEhPR2dpTFJtU2pOaDBRcFJpZTVRbXcycThHc25fbXpQdzVjOUlUTmZnQVF5X1BocEZBb3FBVjlaeERqQ1VackUtSlVQaGs4RE5rd2s0SUxBM2N6VEtveEh6bHNDQzhYUWx0RUUzWERtUVNQYlRsc2FhQ0l5dk5sdU15di1RNUotWnhjanpsc1J6N05WSDNCMmVXdllyQTIzNWJRRmt0LUhUOGZwZjM5NzJrQ2NCU2k4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXRaUV9zdlBxelRIVmVpRE5HS0QxT0ZIbGZmWFphMGNINjhvTW1kMW51TkZQYUN3MkhTLXo2SnhyUVNMMlZrUFVud1pjNXdDVllWRXNkQ05hSzNQYlFYMXUzRmVEYTd2ZXl4b0NJOGU5RGFEXzJNY2NySWE5WlpMVnZSMUMteFlNNDBwVVM5Z25PclZnRlFzaHlNcWlwTFRucTRiUGtmc01xOFBTZ0dWQ1lkNHZBOEVVTEl0OU1B0gHDAUFVX3lxTE94NnRKOWVCSXN3dFhIT0dnaUxSbVNqTmgwUXBSaWU1UW13MnE4R3NuX216UHc1YzlJVE5mZ0FReV9QaHBGQW9xQVY5WnhEakNVWnJFLUpVUGhrOEROa3drNElMQTNjelRLb3hIemxzQ0M4WFFsdEVFM1hEbVFTUGJUbHNhYUNJeXZObHVNeXYtUTVKLVp4Y2p6bHNSejdOVkgzQjJlV3ZZckEyMzViUUZrdC1IVDhmcGYzOTcya0NjQlNpOA?oc=5"
     },
     {
       "headline": "AFLAC Inc. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-07-24",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUFlZeHhPUVV5TE1fbVRRLUhJRzBFNU84M2ZkcHFYQ3pBM2xrY1BoQjlEellEcU05dXprSVhuT2pLMVhpTTd6M3diVUtKMEE4cXZqX253S3ZWS3pUVC1Ia2RXTG1HT29hbEdieDhBZ2VhM3RxVVJXeW4xMnVOVW04NUFJdkVKbTA3bHR0b295WG9ja1lMSk1JRllPRzRYUHlKNm5jb1dBZnpKbjE0Mm41VXpVNGxEMml5ZW1jZFI1ekp5X0lIRFBEbzB0VmVhUTMyTlhReDdOcnY3elkwX3c?oc=5"
-    },
-    {
-      "headline": "AFL: Aflac Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SclVmN1BoamFtMkRJMUZpLWxMMzNPNDRnUHU5VnppZkZBLTNrYWt6X19sYlRHZnFCbVhtSjktdk02bmZRVjdsMA?oc=5"
     }
   ],
   "insight": "Tracking Aflac (AFL)."

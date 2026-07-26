@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:04.402Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:39.127Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    86.94999694824219,
     89.66000366210938,
     89.72000122070312,
     90.77999877929688,
@@ -23,10 +24,10 @@
     85,
     84.55000305175781,
     84.37000274658203,
-    83.81999969482422,
-    82.62999725341797
+    83.81999969482422
   ],
   "6m": [
+    83.83999633789062,
     83.0999984741211,
     84.48999786376953,
     84.3499984741211,
@@ -157,8 +158,7 @@
     85,
     84.55000305175781,
     84.37000274658203,
-    83.81999969482422,
-    82.62999725341797
+    83.81999969482422
   ],
   "1y": [
     80,
@@ -410,13 +410,18 @@
     85,
     84.55000305175781,
     84.37000274658203,
-    83.81999969482422,
-    82.62999725341797
+    83.81999969482422
   ],
-  "lastClose": 82.62999725341797,
-  "oneYearReturn": 3.287496566772461,
+  "lastClose": 83.81999969482422,
+  "oneYearReturn": 4.774999618530273,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Edwards Lifesciences (EW) Stock Looks Fair On Cash Flow While Earnings Trade At A Premium - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWFDVTRhdlg0cktvQ3J3TFRIMjFmZXhYQTJWSm5Eb082blhpTGEtY3EtbTdNaTZxQ19pUWZiR1BWNmw3dWNDMEtrU3Y0cVRTNXdMS25QZnlLYW5vMzRCeWFWdG9LWjNLcndPOFJGVjFTM1dEek85Vk5hN2lJRko5TEJueWxiczYzMmtMcmprTFNETkFhcVNJTVVwQUY?oc=5"
+    },
     {
       "headline": "Here's The 'Cleanest Large-Cap Story In Medtech' - Investor's Business Daily",
       "source": "Investor's Business Daily",
@@ -424,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3BqeFRoNEpXc0xKbHgwV2pYVFZ2c0E0X3VWekR1WXp1MUM3SnNKakgxcXNJZGhLeEh5TXc1X1docVB6M0FYcEQxbHRjZlVMamlsQzU1TjZadENfTUpGckpZemJzaUtiQ1Atb3JtcmhVeER0cWp4MUN0UFdOMk55ZDY3R3BUdnY1VXUtbklxV1UzUEY1NkNtc0RpYWx4VVRmT0ZYOUlhLTBaRGs?oc=5"
     },
     {
-      "headline": "Edwards Lifesciences (EW) Stock Faces Margin Hit As One Off Loss Tests Bullish Narratives - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "ETFs Investing in Edwards Lifesciences Corporation Stocks - TradingView",
+      "source": "TradingView",
       "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU1BoRWR3TWY4SFkwNWVBRFIwdUx0UkVhZkI3WHJPZTBMLXdYcEU0a2tiM3RmWjFrbC00SnBQZFd6TXhRcUtBbDFSRmR1ZVJaYWg2RVhQWjZZb2ZTUjZtWWd6ajJnbHRDRnBiQmlTaWpWSGROcGwyeS1ETFJPQkZuQ05UZG8yS1FJU25vaWhyd1l1UExqdS1JSGowb1VCeGtGSXY4UFBhSUQ3Zm15aWFVMl9FMjhwc1dyTEFkbjVFZ3JyTVJ6bXgteEtQY0E5cGlrNE1N0gHYAUFVX3lxTFAtWERKQU1nRjdZdktQR2VpZWplU01ELWo3QW9yXzRnbktxTnhNUlJkdWF4T1l4R2tqeTQzd1F1MlJOYUZGeE5TZXNoMHRmaFl0MlN1SjNRTHpTTVdxanJEUXZzSzA5cEpvR1REWVgySk5xdlR4YjBSQUlHYzFSWm9hbUlWTFNCaGlwNHJMVTh0NFEyb29yTGdCSTZla2N5azNsazBhXzltVnJQYkZYYTZFTUZleG5rSlpxMFJ2M01VUlVvM3VianVNWVVNdXNkRUxJNDIzcDctRg?oc=5"
-    },
-    {
-      "headline": "Why is Edwards Lifesciences stock rallying today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZG1QWmMwaThzSGo4OUVRcGJrVGcxeUhUSC1hZDRFZmNIdVRMd0MxeGVlaXFIVWRDSUFNc0pXMGlGeEFmalIyN25oRVg4Z2FpWmVBZTFzeUttSVlSckprMUI1VnRvRlNCWHFWeGYtSmVNczV0RVgxbjVOWGFjVjAwdHh4SWJEeXZta19CZ2Y1V2t2OVAyRHA2NURRRGhiNmRjQmpRRWpoY1VQa1NIdldv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EaW1ISUdVckgwWExhdkpXQWF2RG43OUd0Vl9pUzRmY2s2bm5Uakd1QXhKUzNtei05eHRYdFJoN0JrV2Vkdmx2LUhqWVBNd00yRzhpRlZ1a09DQlpa?oc=5"
     }
   ],
   "insight": "Tracking Edwards Lifesciences (EW)."

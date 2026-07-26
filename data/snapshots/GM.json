@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:08.736Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:44.105Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    78.94999694824219,
     78.94999694824219,
     78.52999877929688,
     78.0999984741211,
@@ -23,10 +24,10 @@
     75.80000305175781,
     79.5199966430664,
     82.12999725341797,
-    80.66999816894531,
-    82.63999938964844
+    80.66999816894531
   ],
   "6m": [
+    83.23999786376953,
     81.2300033569336,
     80.91000366210938,
     80.81999969482422,
@@ -157,8 +158,7 @@
     75.80000305175781,
     79.5199966430664,
     82.12999725341797,
-    80.66999816894531,
-    82.63999938964844
+    80.66999816894531
   ],
   "1y": [
     53.400001525878906,
@@ -410,19 +410,12 @@
     75.80000305175781,
     79.5199966430664,
     82.12999725341797,
-    80.66999816894531,
-    82.63999938964844
+    80.66999816894531
   ],
-  "lastClose": 82.63999938964844,
-  "oneYearReturn": 54.75654874204289,
+  "lastClose": 80.66999816894531,
+  "oneYearReturn": 51.06740798471835,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "General Motors (GM) Lifts 2026 Outlook: Is GM Stock Still a Buy? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUFwUExBZzBJYXZDQ1F4aG1fTWEtb3pGSDVvNnpmRWJUT09WOTFLc0tPaHMxUkJET1hqT28tRGF1d0ZXRG82ajBaSnh5SHBFR1VscjdGTjFkTERfRFhKUmNyLUwtMWJNcmZaTXNEVmtEZl9CVVFsUUd2UFFwTUZUU2FNTUMwazZLUng3WWRxUE1hTVoteUZfOA?oc=5"
-    },
     {
       "headline": "Q2'26 Earnings Deck - General Motors",
       "source": "General Motors",
@@ -430,10 +423,16 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hVlFJT1VnaHJVLV9seWZQbldHSUZDZENma2Y4YWJRWXplVlRIX1JWRGNpSGpDeXp4TUY1WWdZQVJFWG0tNzZWdVZVNTFnUEVnUU0xeXFrRmF2Y0xwQ05GWEJubkdzVDZZQ0lUZmd4YXdBVnFjdmlockhDZ1JVUQ?oc=5"
     },
     {
-      "headline": "GM beats investor expectations, sets shareholder payouts as profits soar - The Detroit News",
-      "source": "The Detroit News",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcFhJVEhDSktiLWc0eEhibGF2TmNzVXgydXI1VmNsbTNnTVQ3SkdEWTZkYTdwY1NGUlRsRnVrMm5hMFFzQ3pXM1cxOXZZQWhHbkdndzJFeDNJdUJpU1hPaXNaeWNGODhDQU5lVnlJSk1CS01qa0JtaUpQandud0xsMmVCVlBxZG4zUmwwd1NCdUtYLXVWaGU0a3BoNW5mbGdxT2hGLXlTWTR0UllhWU90MVpMWFBNVnVwSjllTmlmMWZKM0htcFhuck9XbWpkX05KZ1BlUmZHX3NSZ0RLcHp6cW9PTGRjQnJfSTNV?oc=5"
+      "headline": "Ford and General Motors stock performance for the week ending July 24 - USA Today",
+      "source": "USA Today",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUzBKTERLNjdVdnZ2R2JsVnBiUlpXYlB5cjc0QmlYRExFVS1MdEJiR0UxNkZaaGY3LS1rT2k1d1daQ1N5cTJLYkFIRUVwOTlaQVhWbDZqNnpLUFhLS1ltYTFRX1E1NnQzaEhfR1FpZUF6YkhzeUYxeXZJVGdRUVhnQkVaWnhqX2FKUktzR1ltWkxBYmJ6ak5KaGFXTmhVVnBtbjJPOURKUlVuQ3JLcEViSzVPU1NOOTU1eEp0X1NJYjNSQTllcEJVTE1uN3hXWUxL?oc=5"
+    },
+    {
+      "headline": "General Motors (GM) Lifts 2026 Outlook: Is GM Stock Still a Buy? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUFwUExBZzBJYXZDQ1F4aG1fTWEtb3pGSDVvNnpmRWJUT09WOTFLc0tPaHMxUkJET1hqT28tRGF1d0ZXRG82ajBaSnh5SHBFR1VscjdGTjFkTERfRFhKUmNyLUwtMWJNcmZaTXNEVmtEZl9CVVFsUUd2UFFwTUZUU2FNTUMwazZLUng3WWRxUE1hTVoteUZfOA?oc=5"
     }
   ],
   "insight": "Tracking General Motors (GM)."

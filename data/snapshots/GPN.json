@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:09.448Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:45.072Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    64.27999877929688,
     67.08000183105469,
     68.16000366210938,
     69.80000305175781,
@@ -23,10 +24,10 @@
     82.37000274658203,
     80.06999969482422,
     78.97000122070312,
-    77.86000061035156,
-    80.91999816894531
+    77.86000061035156
   ],
   "6m": [
+    77.47000122070312,
     77.4800033569336,
     74.98999786376953,
     73.80000305175781,
@@ -157,8 +158,7 @@
     82.37000274658203,
     80.06999969482422,
     78.97000122070312,
-    77.86000061035156,
-    80.91999816894531
+    77.86000061035156
   ],
   "1y": [
     85.76000213623047,
@@ -410,30 +410,29 @@
     82.37000274658203,
     80.06999969482422,
     78.97000122070312,
-    77.86000061035156,
-    80.91999816894531
+    77.86000061035156
   ],
-  "lastClose": 80.91999816894531,
-  "oneYearReturn": -5.643661201869807,
+  "lastClose": 77.86000061035156,
+  "oneYearReturn": -9.211755281127079,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Same Industry, Less Money: What Corpay Offers That Global Payments Does Not - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZzBJc3ZOT1VrQlZCTWUzTFRzbmVXZXpPQ2QzRFhsUVREbXJJNkZMMTFSdTBLRWpnMHhkVDROMjFISmFYU0UtTVViWHFTSUNtcUtsaUdYZlFySXZjcHByMUJSbkh5c0JRMHlwRkZnNFVYWGtsNjZ5Umt5alpUUDJfUEpXMUhqR0h6eUhvQng5N3VfQjJYZXFidVRzWE43YUZJNjVfRnR6a1RKMzF5YUpZRUdYMGVjVVVVdE9ScGVzeXlwVmk4MUxMVGswdmdjZw?oc=5"
-    },
-    {
-      "headline": "Global Payments Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXN4dUt3MGI2TDN5VFdXN1hRb25NWXFhcTZIWVNPV190Z0Y4Nm1pNUtjSWhOQVE1MnBLRHZFLUNfSHNrOFM4LXdpWnJjN25WRmo1WG9URE54RExVMHZNaDFPYXljUGNwU1Vkek5tdVp5dkxXRU1QbVpQWWZPcVc1V0VsRnl4M1FyN3FDZDh4UldLVXdwczZMaWpuREJZdnVxRGxHXzZFRWNDVnd5NG5fNzVWMXIwX1FUU1k3Z0x6V19sR1dxekdGb05aTQ?oc=5"
-    },
     {
       "headline": "Global Payments (GPN) Stock Looks Stretched After A 55% Five Year Fall - Yahoo! Finance Canada",
       "source": "Yahoo! Finance Canada",
       "when": "2026-07-21",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRkZtWUZ3dnpGeHdWS280amxpa2ZVME9nNTI5RW9nLTVJM1k3aU11OGVhOHJGRE4xWmZOSUFiREpNM2NUMnRRUFhJakRWYkw0bG1DNndlWHJHVVBOWG9RQk1zUWFuVTdXRE9zMlFab2h2WVpMSm1sSGswcXlrTVBacEM1WmxidUk?oc=5"
+    },
+    {
+      "headline": "Truist Financial Forecasts Strong Price Appreciation for Global Payments (NYSE:GPN) Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaTJHVFV1YWdtQ29BV3k5ekcwcjE1ZFNROENRckRUWXJBYmdXMktHTkVqSXByV0dnYzc2N0E4NHB4ZTItUTRDanBrcVNKb1o1YUhFUDNFYWFnTGRPT3d6aWl0b1ZNZENTZUpKTWdRUmhLaV9OQURVdXhidzIzU3A2VkJzQVNDbXM2RnpZRXpyeWRyT3NEdUI1X0tIaHdqbHFjenJXZHphSU5VTEwxQWhTdXNFUmtiWFNIVmFGTXNOQ2xZZGpJN0ROcWJrRzE4NkRRamVkYzIwaw?oc=5"
+    },
+    {
+      "headline": "Same Industry, Less Money: What Corpay Offers That Global Payments Does Not - Trefis",
+      "source": "Trefis",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZzBJc3ZOT1VrQlZCTWUzTFRzbmVXZXpPQ2QzRFhsUVREbXJJNkZMMTFSdTBLRWpnMHhkVDROMjFISmFYU0UtTVViWHFTSUNtcUtsaUdYZlFySXZjcHByMUJSbkh5c0JRMHlwRkZnNFVYWGtsNjZ5Umt5alpUUDJfUEpXMUhqR0h6eUhvQng5N3VfQjJYZXFidVRzWE43YUZJNjVfRnR6a1RKMzF5YUpZRUdYMGVjVVVVdE9ScGVzeXlwVmk4MUxMVGswdmdjZw?oc=5"
     }
   ],
   "insight": "Tracking Global Payments (GPN)."

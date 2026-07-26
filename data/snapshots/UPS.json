@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:29.607Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:59:08.913Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    105.83000183105469,
     106.13999938964844,
     109.30999755859375,
     108.13999938964844,
@@ -23,10 +24,10 @@
     113.1500015258789,
     116.33999633789062,
     115.83999633789062,
-    114.0999984741211,
-    114.79000091552734
+    114.0999984741211
   ],
   "6m": [
+    106.58000183105469,
     107.4000015258789,
     108.62000274658203,
     106.91000366210938,
@@ -157,8 +158,7 @@
     113.1500015258789,
     116.33999633789062,
     115.83999633789062,
-    114.0999984741211,
-    114.79000091552734
+    114.0999984741211
   ],
   "1y": [
     103.55999755859375,
@@ -410,24 +410,23 @@
     113.1500015258789,
     116.33999633789062,
     115.83999633789062,
-    114.0999984741211,
-    114.79000091552734
+    114.0999984741211
   ],
-  "lastClose": 114.79000091552734,
-  "oneYearReturn": 10.843958692235109,
+  "lastClose": 114.0999984741211,
+  "oneYearReturn": 10.177675901898183,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is United Parcel Service (UPS) Fully Priced Following Its Upcoming Earnings Focus? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUThPSmtuT3RoSnZ6bjgxdzNmc0NFREhIRm1vbFZ0SndPcUVwY00yNlJFdWZpRUNMZHVleGhsNXNYYjZLMVcyV3RKTWhrSTR6QkFaZmZYcFhtZ2VxaUJPbFR5ckwtTzBwbjBZTGlsYmRwUDdYWHhSNy1ILTZfZ1M5bWd5ZFFKbEJEVTV4UEprcDhBU3FPNnBjSzBCUEpuNmM4MV9TdXVXbWhHNVl0NnRoMmlvVXZNLVJpbjRoWTc4Zmo2a2YzdmpJX0tzSXNmUUdqTEE4NWRoQXpfblXSAeABQVVfeXFMTjNXY29BdVljUVZ4Y2tGV0xOMTdQZUEzZTFaN2l6Smg4MUVqbl9mZl9rMGN3ZVBOdlZVaWNOSk1IejBRZFNwalN3TERPaGxJM2hjZTQxMUFoRVFsQzZXR0lZdVlXYmhPSkhiR3VXeUJYamQzSHVZcU54aFdFUkJPODZxdURyOGNybXBJVFBBU3ZLVmtHbzZBODYwY1ZPZzZBYm1xNzNFX3N6NVNRT0RmUzVOREdNcmVDQlowSUxSbVUwa0RqLW1SWDVwMUw0UEpld203WDhfMUNOVXc0bjhRbUs?oc=5"
+    },
     {
       "headline": "Is Trending Stock United Parcel Service, Inc. (UPS) a Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-23",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHpqc2VQZzFVOEFNWWRNSHRqVE9yY3NQSFVYbEJLbV9HYTJtRWlyTU54OUR5a3dwQXA1SkZPRFhGLVYxU3Y3cjJMYWZkZ19WQjVjMl9xV29ZaW05SDI3LXRHNGlVUlVsdV9pbXFHeFhjZ1hodjkzMUV5aUJIWU9JTDRKSk5seFNCMDdWeDN6U1hUY3llWjI1NWxEcVdDZw?oc=5"
-    },
-    {
-      "headline": "UPS (UPS) Stock Looks Reasonable As Shares Stay Down 28% - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbDhUUkpnUkEtaEc0eDJ3MFBhMXhNa25fY001R3lMSVMyd1JuVkZnR0dPR3ZBZGU3S3ZVTlFWQWFOenV4bGdSSmpBYlRXbFZCWkkwTFM0WndVSXg2cFhfSXNGZ2hYMjM0QWJHSG5kUWN0RUUyQW5UQUtPNFk4SDlBTXZNb1hreTFDUGVKeVduVk9iQjdSOEE0aFg1NzdRUEZ4ZklpTHVFQnJ4UnFDRUVPODczNkQyTGpJVXo4Qk9sXzJmbVJBQlA2NzRodDhubUV5VEHSAdcBQVVfeXFMUDJucDVKcGRkck50SGpoUXJCWWRfV1ZTeXZrLWc2RW9ObTNzWllCNjNOaUxqWmlqZ2xTZ0k0Z2t5aWI1SlpTQVptaS0xT2V4WTZMSWc1Q0pob0JYTGFPOWcyVzlWMXExQlU1V1RWSVI3WFpvM0RaU0FWbjI3cHp0MHNueUljQmVrZlhwb1BScVF1T0pQWnEwR1RUY0dJS096YlpSQmhiMU5IVFdXc3FyQnUxQ204b1B1QlBXanVtVk43bkVGNnBHeW9QdnhrUUhQM0dHTFRfZzg?oc=5"
     },
     {
       "headline": "Why is United Parcel Service stock sliding today? - Investing.com",

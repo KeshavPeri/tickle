@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:22.038Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:59:00.131Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    290.9200134277344,
     285.260009765625,
     293.0899963378906,
     304.20001220703125,
@@ -23,10 +24,10 @@
     348.6600036621094,
     342.1499938964844,
     335.2799987792969,
-    325.6300048828125,
-    323.7900085449219
+    325.6300048828125
   ],
   "6m": [
+    190.85000610351562,
     190.92999267578125,
     187.72999572753906,
     187.66000366210938,
@@ -157,8 +158,7 @@
     348.6600036621094,
     342.1499938964844,
     335.2799987792969,
-    325.6300048828125,
-    323.7900085449219
+    325.6300048828125
   ],
   "1y": [
     203.27000427246094,
@@ -410,18 +410,17 @@
     348.6600036621094,
     342.1499938964844,
     335.2799987792969,
-    325.6300048828125,
-    323.7900085449219
+    325.6300048828125
   ],
-  "lastClose": 323.7900085449219,
-  "oneYearReturn": 59.29059956673057,
+  "lastClose": 325.6300048828125,
+  "oneYearReturn": 60.19579772642771,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Palo Alto Networks, Inc. (PANW) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1N0N3llWFlvYUU0TFVJeEtSQlZQZ1JFbWI1bEc4eFg5M095MDBFMFdIelNNQzBxU1Jham9JaG5QbWlhQU9mVm5kTXRxWGFHaHFvVncxZjU2WU03ajlSeUtlaVh1aHhnVVhwZTcycmFUZzE1WU41ekxRdEJlSEVJMm8wTHhOOVVjVWVmZWFnbXltVFl6c3cw?oc=5"
+      "headline": "Palo Alto Networks Stock Outlook: Can PANW Stock Keep Climbing After Hitting New Highs? - TradingKey",
+      "source": "TradingKey",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOWmwxLWN0MFFEajFjOEFqYlZjZkN1cXBJSkF4SGN2eWEzRXNTWnNVUi1zc3ZpR041MnlueEFBOV8zY0xBRnFRWXVWQ19LSTFVbzZtQ3A2X21DOU5vaWJjQktodm5sVHFVTHdLbWdxaGw1Tldtb3hRZ1ZZaVFsSHFJTkIwV2VsQWxkTEs2dXliRnFSWjlMQ2V4cVBjencwbml0NEE3TFZSUzhXRnRrS0drQUotSFlsY3QwOXBGaTlMdXJ0WEtfalh2U0NQNkFRWXYySVZHVEtTdllqSzZBdkFCcGkyMXptU2ViUzhUTVVyZmFRanFkdnd0UVlkS0ZhOU4wRXBBZHhQblFlZEFWbFRudXk3V0N4ckc4NUJUckxWTEI0UUc5LXlGSS1oRnhZSW8?oc=5"
     },
     {
       "headline": "Palo Alto Networks to Extend Leading Observability Platform with Innovative Digital Experience Monitoring - PR Newswire",
@@ -430,10 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbE5TUVpCOUxVTFdfMENMdGJ0Q0MwSEZhdmpseVlkVl9ZbmFhREFtNWFkTmhLWWNUY2xLd2dtbHZUSTZPLWtSdF9idUhzSHEzRUJlRDRVUmxSX1RpRjlwT3hONTR3RjBnOTF1WklxMGZzeHZlb0hHYXhlT1FnUWtBc0VyR1dLclhod1VqV25mODBHQ0FReDJhRWtiNGZzOWZiX1phM2dIaER2dm5LNzVMaE9LOGt4djNxYW9KZTV1TlVTUzZ1cjdqMVRfbzZMTERGTzRLbGNnSzdkLWduWVZVSGJKV1lKMTd1ajA2TV8yOXZCYVE?oc=5"
     },
     {
-      "headline": "Fund Update: 59,361 PALO ALTO NETWORKS (PANW) shares added to BANQUE PICTET & CIE SA portfolio - Quiver Quantitative",
-      "source": "Quiver Quantitative",
+      "headline": "Palo Alto Networks, Inc. (PANW) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUHdPbjU3SXBNZEo1N242aWdTRkhhMUpiX0pjNllrS2Q3OGJZckhnYmtnSG9KcXhfWWxxM0t4d0VDbV9zdFVwZklwYUduSlExYlRFZTF2bXpfczZHOWUxME5jTEFXNGo0dkdpRkNyTGJ0djJFRUVIYVNsdDVKQWFFam5fMkVXYzdjamxwUGJmZzltUFpfRVVrOGp1RlpGLWdweHR3bnExaUpXVTJpaENZSjVmM1VPMDBEeTg5c0t6TlhMOG9ZUWJvSF94MG9iNlJpUkN3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1N0N3llWFlvYUU0TFVJeEtSQlZQZ1JFbWI1bEc4eFg5M095MDBFMFdIelNNQzBxU1Jham9JaG5QbWlhQU9mVm5kTXRxWGFHaHFvVncxZjU2WU03ajlSeUtlaVh1aHhnVVhwZTcycmFUZzE1WU41ekxRdEJlSEVJMm8wTHhOOVVjVWVmZWFnbXltVFl6c3cw?oc=5"
     }
   ],
   "insight": "Tracking Palo Alto Networks (PANW)."

@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:28.164Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:59:07.115Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    316.9599914550781,
     320.739990234375,
     318.2900085449219,
     327.3699951171875,
@@ -23,10 +24,10 @@
     368.5,
     369.6300048828125,
     372.0799865722656,
-    376.3699951171875,
-    387.260009765625
+    376.3699951171875
   ],
   "6m": [
+    271.20001220703125,
     272.739990234375,
     271.3399963378906,
     269.4200134277344,
@@ -157,8 +158,7 @@
     368.5,
     369.6300048828125,
     372.0799865722656,
-    376.3699951171875,
-    387.260009765625
+    376.3699951171875
   ],
   "1y": [
     261.04998779296875,
@@ -410,30 +410,29 @@
     368.5,
     369.6300048828125,
     372.0799865722656,
-    376.3699951171875,
-    387.260009765625
+    376.3699951171875
   ],
-  "lastClose": 387.260009765625,
-  "oneYearReturn": 48.34707062800164,
+  "lastClose": 376.3699951171875,
+  "oneYearReturn": 44.17545018836612,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Travelers (TRV) Stock May Be 47% Undervalued Despite Its AI Launch - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-05",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaXQ2dEdreTA0ZDRaMXJJY1VMcVI0SEdoS2RVMUxyTWlwQ29nQ0ZWNWlLZ0xmM0tIbnlrX0ZpNHlyRmJUbG5FeUw0cnQ3aXNjWHZSZDlkbU56cTFjQ2hHX0V1dVM3bG5vUTVVanU3QmNsa0tja3NuSEZoRXU2em0zdWhSSTVRN2d5SnF2LXBJQk0zQ2VpbEE?oc=5"
+      "headline": "Travelers (TRV) Stock May Be A Bargain On Fair Value Yet Fair On Earnings - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm03N191bGFpYUtEbHlUVXJkTEd6dTQzSHdDZFNwUEhWSXpSZXBjbDh6R1dfbUNKRGZoZ1Vkai1JbjgxV1pSeFY1eXdMS1UtOWdydVFobmNkUWpIclBtOXFiNHYxSVVDcy1lRmdkOTU1LW1qQXZUZkVmTVcya25QbVA1RmhYUzQ?oc=5"
+    },
+    {
+      "headline": "Travelers (TRV) Stock May Be 50% Below Fair Value After AI Launch - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-11",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUDh4ckhPMnNCUW1vNU9YRF9lWnBvWnU1Qnp2YVlodWx2Z21TQi1zdWtQN0x0N3hPRVh4cDJZQ21oZHNadnpqRnpfZllhOXU0aWdaN3FveWwweVQ3NU5nOE1GTXVGSG9nVlc5cGJaeWNzRzlDaHZOajNBVnEzTmhLWkgwTUlXc2J5VkR0TXVOb3UxUU1UQnZoZFhpR1hveERla2YweU03c055Yl9fTmFHTzQ2MHBGMHF0elFKV0VwZS1zdVZlWWJ2UlQwdTBQQzZpTnfSAdcBQVVfeXFMTlpqdHBWd29nQlJBN2laaXp2cUI4bENOU2oxb0JSaGluY0Jaa1hhaEtOSDBpSlZzNFZROS1PNWd6eW1UZ3ZjNk9ucnpjVTZVa0RfVjhBUlcwZ3Y1UVVwbnZ4SnVBb3RyRFg5NFBpRmRDZDVDd3NESV8tNEthUkh4bjB1WDctX3ZrbjAyY1hLOFJKbkZhcWZOU1Fmem9FR2pXTnUtdmV0Tm5uVlBCbEpnSnFncTZXOVZTd3dtSVB5Smt6cXR5X0Z4NHVaZmh5Um5ja2ZRNHlBckE?oc=5"
     },
     {
       "headline": "Analysts Are Bullish on These Financial Stocks: Travelers Companies (TRV), KeyCorp (KEY) - The Globe and Mail",
       "source": "The Globe and Mail",
       "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZV9Hc3pGZUNoOW82LWIyM3NuTGdabGFCY3BRaTBqZE9rb0dYTlpNREtHMjIwTWpkTzNGWHNnSVYzOUVFSjFGV3ZWeFVpVVBuOGtCbWlDd3dQYzg5SFZ5V0dJRjVhMUxhYV9Pc2ljWElPMjhmcE44U1JVRXBsZURkWURuM1hBZWI2UTVoWWI3QmJOZFpfZl8ydEpnbXhrRUg4QlY4ZS11WUlIa2RWNXRtNkV1M2VMd3BlSVBHdmxabHpacE5WZHFpNGkxemdrNkRTRTlnd2E0R2hDM3ljU1NHVS1Va2N6NHE1ZDhXSTlkdGNzX3pxYUlDWHhR?oc=5"
-    },
-    {
-      "headline": "Travelers Companies (TRV) Leads Dow with 27.2% Year-to-Date Gain - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNTdLSWliVUduTnJWWWFVLXlXSkszZllWN3ZYX0V6VkhteURNc0oxYjk2NXMyMVBheDJId0ZRUl9NUmluMVZ4UWtTS2cwYzJOSzFzNXBsalJCU1YyNEZHeDdYeFZEbVh3amZ2d2tIbWJOb3hpTXk1VUVycFFmWC05cmY2V3JzVkdrTzU5Sndwc2FnVU1iTzVJQm5HTWhiYUo1QXRvc1MyUmdyczlFU0MwYUVsRTVJNUYzNzYwQTBNQ2RudjM1VUR1YkI0YkFYSXUyT1dZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTlFLVEo3cXNUY1RDRkhEbHZhTjlpaGpmSVI3c0tWdjdqcktJUXhSelN3dUdZUjVxelVRWWtybDliTU9fYzNXdW1VSHZjQk1iMV92a2pqblR6d29jekFLeTJCdFlnUEpyRnFreVN0LU1DQ3RhenpTcW5yS2V3Nm8zN2dZVkt6QTV4UG9NVTVEeHpseXFZckNnbnlHM2hEZ2ZFV0VBLXBaVmNmTVpISWRCWjV5OXdFSkIwVUVfSGdyY2Rxd3dvLWVXRGVWWl9EVzBTWG5nVm1RQ3BXZlhkOVJoX3RIS3U3aENCRGJERG4wQ0RReW5RX2c?oc=5"
     }
   ],
   "insight": "Tracking Travelers Companies (The) (TRV)."

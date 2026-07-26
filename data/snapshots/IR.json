@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:44:13.545Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:50.342Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    76.63999938964844,
     78.31999969482422,
     81.69999694824219,
     81.37000274658203,
@@ -23,10 +24,10 @@
     80.18000030517578,
     80.9000015258789,
     83.54000091552734,
-    84.30999755859375,
-    84.4000015258789
+    84.30999755859375
   ],
   "6m": [
+    85.83000183105469,
     85.98999786376953,
     87.31999969482422,
     88.16000366210938,
@@ -157,8 +158,7 @@
     80.18000030517578,
     80.9000015258789,
     83.54000091552734,
-    84.30999755859375,
-    84.4000015258789
+    84.30999755859375
   ],
   "1y": [
     88.2699966430664,
@@ -410,13 +410,18 @@
     80.18000030517578,
     80.9000015258789,
     83.54000091552734,
-    84.30999755859375,
-    84.4000015258789
+    84.30999755859375
   ],
-  "lastClose": 84.4000015258789,
-  "oneYearReturn": -4.384270153352824,
+  "lastClose": 84.30999755859375,
+  "oneYearReturn": -4.4862345474935665,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Ingersoll Rand (IR) Stock Looks Fully Priced After A 65% Run - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-11",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQUlWRGFQWFBpM0ZRanVyR3RlOE9PQ0syd2ltOFUtOUNZUlBOQlVuQ0xCS1ZmZ3hrdEZZVmFKSHlhT2M0OE5acmx0QUhGYlptblE4dEY0ejR4dGlLeS14WThIVllTVERhTUZzUWVESV9tLUpFdVlvc2ZsWnlONUNzM2lORUpYME1uMUNKVFdYZWRSakUtSnBSN1Vn?oc=5"
+    },
     {
       "headline": "Ingersoll Rand Inc. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaFJuZDlkX0FkYUJOQlROMFRCRl9ncTVLZWQzTVpnSVk5OFd6TFNwa2JIZVc3MXA4X2Nna21vWkxzOXZNdFp6N1lveXRJZ21LME1vb3VULWhwcDdWaFB6VkRxRF9JVkFoTWxmV3g4c3lpOW9OVUxxbHF6YzVpaVNONFVibnVJWGFORHpUSnYzZjkzS1B2a1Q2dEEtS2htSl9OMkF2NXJGaHZDaDBQdG5QZ2MyUmJXU2d0b3hWRGZsUHhaOVE3WVpyLWFFaEEtVWI3TUdMMkpTa1ZMUDRNeDFsQjJCX1Zud2ZoRllsaWRn?oc=5"
     },
     {
-      "headline": "Is Ingersoll Rand (IR) Fully Priced Following Rising EPS Estimates? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWnZGeFRPSlFLdXFLWE40WUZqQnZtQWpjZUh3NHhJb2F4M2FKUXkwQ2RLeDBuXzFMbHdWY2NtRW51STNlVXk2b1ZkNDFiVDNQS2FfbFE5TFFhc2x6QUZ1WDVsWHBBWDViVUREYVM1ME9MbDQ3ZnBjeTI3TC1ubnJJOFJha1Y1TFFCLVRzLUlZaDBIZXBQTFYybU9mSlpCTmpIZmR5TjVjZVhhNUpWd2ZzSzZmcVk5RldUbnhGMmFLc3N1S3lGRlhXbWhKaHh4MGfSAdQBQVVfeXFMUGdzcjlqLVZlSWN6R1RzX0poSXpEMlQwcjdvX0xtMExUS2s2NmdVSEJGWmVFZFFxQ2FVUjRtNVdVaG9pbTZ6Mzh0OFl3Qy14TlBXUGMxUDZSWWhLNXEteTFfOWpoWjNuU2pSa0EtN3NwWjNQWnhQalk5N0pyTEN6cUtRb25sdG5md2FNSkMxLWJGY3JpOEdkdFhfazFoMzc4UTZXcno1YnhHSXpmbmJhVDdsTnZCR05RZFZwa0ZWdEJaSlhrcHhoREp5NUJBWkVQM2duUjU?oc=5"
-    },
-    {
-      "headline": "Ingersoll Rand Inc. Announces Quarterly Dividend of $0.02 (NYSE:IR) - MarketBeat",
+      "headline": "Aristotle Capital Management LLC Has $94.86 Million Stock Holdings in Ingersoll Rand Inc. $IR - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWx1NG5kZUtETFMxWTZiQi14RVFZVi1WbjhkTmtXMnZSNmgwQU5RbHlRVjRRS1pwWDF0bkY4R2ZvQ1FyWVBYbWRSdG5ZbTFvTDRkRk45ajJVZzJIUE5WLS1TM2hzbkV5aTNsbTdBNXFvZTZZRXdGLXdLMlN1V29ObVhGekk2LVFXWHRUelhLWnBZSE9Vdzl3UGdBZlVrOExhOGZ1OG1YbURQblcteVlSNDQ5dnpfZw?oc=5"
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYnN2emFXRjBGTlJGSTByRWxBUXlocF9Qd080YlZHdFIxWDJzTWhaY1FieExXTDBqM0JvQVo2UkljUWZtbXhiT3d3RVpOYmxMQnFIaWQxNGdhRG5VdWQxSVBwRnFzTmtfbEdlNUxUdXIwWS1NbGdnOXZiSUI2MUJtbnJaRmZ6UGlRRXFqX2MxYWtoN0FtbExma3VneHVNUGRjWDJQaHhOVHRmbUJtTHhaalhtSVFCbTM1ekJjbXdSNFd0STRfMEdra3dqbjlVaUhQQ2VBdG1XRHN6Vy1wQnRSMldSMjI?oc=5"
     }
   ],
   "insight": "Tracking Ingersoll Rand (IR)."

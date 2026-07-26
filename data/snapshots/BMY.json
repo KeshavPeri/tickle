@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:43:51.706Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:23.926Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    55.529998779296875,
     55,
     55.38999938964844,
     57.52000045776367,
@@ -23,10 +24,10 @@
     60.15999984741211,
     60.93000030517578,
     60.7599983215332,
-    61.5099983215332,
-    62.09000015258789
+    61.5099983215332
   ],
   "6m": [
+    55.91999816894531,
     57.02000045776367,
     56.619998931884766,
     55.2599983215332,
@@ -157,8 +158,7 @@
     60.15999984741211,
     60.93000030517578,
     60.7599983215332,
-    61.5099983215332,
-    62.09000015258789
+    61.5099983215332
   ],
   "1y": [
     48.43000030517578,
@@ -410,30 +410,29 @@
     60.15999984741211,
     60.93000030517578,
     60.7599983215332,
-    61.5099983215332,
-    62.09000015258789
+    61.5099983215332
   ],
-  "lastClose": 62.09000015258789,
-  "oneYearReturn": 28.205657157413327,
+  "lastClose": 61.5099983215332,
+  "oneYearReturn": 27.008048593713397,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why is Barclays Bullish on Bristol-Myers Squibb (BMY) Now - Kavout | AI",
+      "source": "Kavout | AI",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0NSN0thdUtmWWNVdzU1d1BYTVNaakk0Z25objl0Zk5ncVpFcHVZR05kcmFwakpHOWsxTUJmWWo4Zmhucks3RTZfTURYZ3JIakpVcnNsV0hvUEVzUnZGSU53bExkZEhPS0xuNDktak1JTXJ5UE9mUVpMZGJvYTRzU3RwWG5uV1l5QllTS1ZQeFZYc0ls?oc=5"
+    },
+    {
+      "headline": "Is Bristol Myers Squibb's Dividend Too Good to Be True? Here's My Honest Answer - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXFEUkRUbHo4M2p2VHZNUnZOb3JUQk51cEh6VDNnaGF4Qmd0MlgxQ2VKcUhTbFJKd1FIcmlySG9hTFM3M0ZlY2FfM2Vrb1B6RVFRMTgwWThpTmFFS2hPRS1pc016dUV4VUxzUkFRYWg1MUFtYnBVTGRhVWdWNUw2SDhGa1FlYVgzMk9rc1h2WmNwV1VlTDhfdGhGdw?oc=5"
+    },
     {
       "headline": "Is Bristol Myers Squibb's Dividend Too Good to Be True? Here's My Honest Answer - The Motley Fool",
       "source": "The Motley Fool",
       "when": "2026-07-24",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnFrQWpYR1pIcWRJbmZwN0VPYmpCb3VCaXVGbmdSV3V2bThFZjdRRkFITjRmbmY1bWVXVlZaT1NZMGtaR19rVkFoVXExdVlMY1VoTmlmdy1jdWxkMEhaZS1nQl82YWtzTDNWMDN4ZXprbTI2Q1JZeWZwdE50S0JPb2FoTG5PQmI4dkRmMWpiUTNubGQ1ZGdDUA?oc=5"
-    },
-    {
-      "headline": "Oak Associates Ltd. OH Acquires New Position in Bristol Myers Squibb Company $BMY - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQblJWRlJiNTI5ZENEa0Q4LUZEMlZSUDZZQ0xobTZXenB3SVdCUUZ0UXZyU2RzaDNOcmd5TmRyZHJoVzA5ejNMTl94WWNGWEphaG1oNFo3d1RZMk4teDU5Wk5uUGdlVzlxd2o0TWNNZ2pfZ1VneGRKU1lja01XOU40Zk9hdWU4Q2F2NkEyWkxyN0lHM2FIb3NDc0taU2U3U2xKQ1VveVNvakd5ODFJUEpyRzN6b0JvNUs4Mm1wS0pNd3BmNGMxXzJMSUU5bC1qdUtoODFpekoxVQ?oc=5"
-    },
-    {
-      "headline": "Bristol Myers Squibb Co. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSUVURHhHX0VZWkxJOVp1VUhfeTNwX1MyaGZoQTN0cGN3RHl2MjdtY0xKcEduNUE0dnliaDhTZ3VGRXJDTkc5dkl6dVRfV3NYZ1BHY3l4NldEX01kSmVPVVNiTVJKeF9VTEVXbmNzcWRNQTNSbE9kWklObzVsVGJKOFV3QVNDaVF4VHFEMWR1eF9YQVNsd2lCelB2LVhiUW9WcjJMcGFsNjZiTGFZeFN4Yi15bU45ckhsSTR0VVlidWtVUWNMNmZYenNwa1ZLeVhPRkd1YzJESy1kVzlrckpEd1RFMzl2VmJPeFIwZ1VsMEtscVk?oc=5"
     }
   ],
   "insight": "Tracking Bristol Myers Squibb (BMY)."

@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-07-25T04:43:58.113Z",
-  "builtDateUTC": "2026-07-25",
+  "builtAt": "2026-07-26T04:58:31.395Z",
+  "builtDateUTC": "2026-07-26",
   "source": "yahoo-finance",
   "1m": [
+    168.8000030517578,
     170.92999267578125,
     169.08999633789062,
     171.89999389648438,
@@ -23,10 +24,10 @@
     201.8000030517578,
     200.41000366210938,
     201.36000061035156,
-    203.25,
-    205.91000366210938
+    203.25
   ],
   "6m": [
+    192.72000122070312,
     194.22999572753906,
     195.5800018310547,
     195.4199981689453,
@@ -157,8 +158,7 @@
     201.8000030517578,
     200.41000366210938,
     201.36000061035156,
-    203.25,
-    205.91000366210938
+    203.25
   ],
   "1y": [
     223.55999755859375,
@@ -410,24 +410,23 @@
     201.8000030517578,
     200.41000366210938,
     201.36000061035156,
-    203.25,
-    205.91000366210938
+    203.25
   ],
-  "lastClose": 205.91000366210938,
-  "oneYearReturn": -7.894969623024091,
+  "lastClose": 203.25,
+  "oneYearReturn": -9.084808454281102,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Cintas Corp. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnhYbk4xeXNLVG5oU2F1YnFJYWptdzlBRk1UaWFPeWtyRk50M2NiWkR1SzZQeHBwNUs3Mm5Jc2c2VlR0UGd2X0wtUlNuWkZMX3BIQXJ0NTljX0J4TzlQLUJlU3VROFlzVXlrZWpUeUVQdWp6WGdfbkYyZVFVVzNuQnVPZzZhZlJIV1p6VklmVXVnOWp6RDdZdDlGZFptS0pTUTlxcFBKcmdzdnVCZVA3YU80bXBDbkJVSnRBdXJyX3c?oc=5"
+      "headline": "Cintas (CTAS) Stock Looks Fairly Valued As Earnings Beat Lifts Expectations - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVGl2NjNqVUllRHlseFRGV1FoM0hNMXpqXzBQd01GT21FSlNaRUJWSXdmTFp2MGdqUXRYX29CVXprQkUtY25MSFViOGxHLTZxTXRNZWVHbHozbFlTYTNDVUNYN00tR2NaeEV2bS1VWGVSaXFmc21PWm1PTzR4NjhMZTJZc3ducUlpZDlPVjVVUXFuRmJDMks4eVJYWXRTQl92a18xYWt3WW02dC1HU0tTWVRRSWtFY2FWeGhYNHU5VEhHOUNMalJCc3FKZGVUUFpTWVHSAdcBQVVfeXFMUFlmRGxQTzE0Uk1WV0JLV3JDZW5PQ0pHY0UzTGwwZ2JmNXM3YXRRTEJqYV9uRWtPRlhEajdUc19Na3VQZERLNU9NRnhoNHh5MmVwWTNxVmdnTXdjQnhfcW1uQVozdGZrLVktdGROcFF5cU0wbVBEVTIwX3hIb01peTdaVmZFV2g4dm5zRlNhbVhxZjFIcU5sTXpob0FYSFp4bjdhbGJlNHJYMjVDOFZqRkFVbTJ6MEp2ZVdweF9MdjBYdnNYdjhza3lRdE5kSXdHaXhHRDU2VlE?oc=5"
     },
     {
-      "headline": "Fund Update: 327,795 CINTAS (CTAS) shares added to COMGEST GLOBAL INVESTORS S.A.S. portfolio - Quiver Quantitative",
-      "source": "Quiver Quantitative",
+      "headline": "What Does Cintas's Acquisition of UniFirst Mean for the Industry - Kavout | AI",
+      "source": "Kavout | AI",
       "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOGdpWXhtcWt3bG5ueDdDZ2tYTmQteFR3ODczbDhzNU44ZWduQXlSckNLNjFjUkowSlFKWHkySFVKUGVjS2sxMTkycHJZclJzSFZyWjFXcjBVZnVub3A1Ql9lTG13VGxpMERZX3Mtd19UMDBYYm9DUXl4M3N0UU5lc2UxQzdGc3Y4bTM2aTV3RVEtUE5PZktsRWdqM0JydzhHaF9BamVKZUxFeVVpZjZKRkpfaXVfMnI1Slo1Mng5aUJtOXpYVEhzVHpud3dvUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWdIbGdGOXdSTjlFcUxKSW9PSnZkRmFHRE1Ua1dGOWw4c1RQclhzUTRvOGtQekYxd2h4WkdzU3NHb05KMUJVNEM0c29BYkotUjB2VUlmbjk3b3dYal85QU56aFg3RDBDbjRwdVh6enp3OUt4OWhXajJjX2JjeU02MTdoUU9scHlIaTRxbDFjckNPd2t5SnVtOXRxWTA0c20w?oc=5"
     },
     {
       "headline": "Here's How Much You'd Have If You Invested $1000 in Cintas a Decade Ago - Yahoo Finance",
