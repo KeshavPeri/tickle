@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:51.207Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:36.838Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    269.239990234375,
     269.05999755859375,
     274.67999267578125,
     280.29998779296875,
@@ -24,10 +23,10 @@
     290.6099853515625,
     293.260009765625,
     292.239990234375,
-    289.3699951171875
+    289.3699951171875,
+    288.29998779296875
   ],
   "6m": [
-    205.1699981689453,
     205.80999755859375,
     206.52000427246094,
     204.3800048828125,
@@ -158,7 +157,8 @@
     290.6099853515625,
     293.260009765625,
     292.239990234375,
-    289.3699951171875
+    289.3699951171875,
+    288.29998779296875
   ],
   "1y": [
     149.30999755859375,
@@ -410,12 +410,19 @@
     290.6099853515625,
     293.260009765625,
     292.239990234375,
-    289.3699951171875
+    289.3699951171875,
+    288.29998779296875
   ],
-  "lastClose": 289.3699951171875,
-  "oneYearReturn": 93.80483547568875,
+  "lastClose": 288.29998779296875,
+  "oneYearReturn": 93.08820072803975,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "J.B. Hunt Transport Services, Inc. Announces Quarterly Dividend - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGVBeUo1YkVUc29CVWM4RVF1UXhqQ0Jjb3pCRmswd0tvN3BPZXk3R3dXSWpUTXF0LVNwcl92SDJsWllNQmRvNG9ET0VtNTRFcmx2c05RSDItTmdqV3pyMVFEdEloeWtvY1VyMHpNWDY1cDAyU1BNUVNhdmpqWU5SRXZwQlNMeGR3aEpjR3Y0Z0ZUbk5Gd09v?oc=5"
+    },
     {
       "headline": "J.B. Hunt Transport Services, Inc. Reports U.S. GAAP Revenues, Net Earnings and Earnings Per Share for the Second Quarter 2026 - J. B. Hunt",
       "source": "J. B. Hunt",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vcUhiTFhrazBTZVl6WkJDeG1CM18zeWp3bmhTQzI3VVhKWFQyN05oeUJFbHVFaWFxQmVWOUE0aGNoWWpfN3k5ZHBSVW9tc1NIYWhtbDhaV3JyLWVqVDlNWk1ielRza1ZxT3c?oc=5"
     },
     {
-      "headline": "J.B. Hunt Transport Services, Inc. Announces Quarterly Dividend - Finviz",
-      "source": "Finviz",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVmsxWkFQWWM3ck85Q3ctNnIydy1Wd1p4NG1Ja1lOM2pJZWJGTkhkcUtZLWtiMXh2d3JfclZ0b0J5UHAtWnFsV0laUXZpNWVrRVY3eEh3aFo3WmY4ZV9HcUtJQ1JYOGlNUmVPOVR3cm1sbVNaZXlUWFdSZHdPV2VOTy0wbC1YRHNCWXZ1aHZXQWlMRXZP?oc=5"
-    },
-    {
-      "headline": "Is J.B. Hunt Transport Services (JBHT) Fully Valued After Strong Earnings And AI Freight Progress? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOGpIQnprOFppX21ueFBGcGNPLWRuOUh1dzBDWld0c2QyYWZyTEtOc1ZtcDB3MU9zRzR5a080d0JBaGJJbmUzcHVJaGxsLTVYNm5tRGJqVHljblItdlFNczg3Y0dIbmVLU3J6WXo0d283dmR5b3hMODlucXhJTjN4U0xjQ1h0VzB5WDMwWi1nVm1Pd0RkZHJUTWlTb3I0UEh5RXNPcDZoWkVpS2NDSDdlaXk2VF9Da3d1azd0R1Rreng4OVQ1T1ZTeF9nN1FSV2ktYkhGVEYzaXV1cWpWMDJwX0R0V1dzd9IB6wFBVV95cUxPSENqQVQzYlRFcHFudUpOYy01ZEFUV1BKbndQNVc3d2NMVk5PSG5tLXRBalE5MXJqUDNxaV9SMGVDc1BLRWR3b2NCajlBRmMzeEVCX2NjajJGbmJ0bGRhdXpVQXlScGxQdzRpNkFXZW44clBYdlQxcDVRTjg1ajdwbEVYa1JxU3pnWTdmNnZnN0pHUzA0VmtjREYwZktpZWNISkg4NmlTN0hJcVBiZGo5d21iNVFCb3FlX3FSMmdrQXlHb2F0a193bS1Bc1Qta3RhSF85bUFhX2d6WDhnSFRwM2JMWElGSlQwOHdr?oc=5"
+      "headline": "Dimensional Fund Advisors LP Grows Stock Holdings in J.B. Hunt Transport Services, Inc. $JBHT - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObTk0aEdlTFVUYnI1eS1waUlGMm9iV1JwX1FtTXNIZ1VKbVczRU95QnhfY251bUNNME44YVA2Z0MyMS1VNWQwbmpWX0xhZGY4NFZJZGo2OFlSUGV1Q2w3aEhPSTJhc05LSUV1M0lMTm0zQjhwREUxZUd3UExxVzRPSnFxc2VURDZwZU03eGoxRkR4ajRYMjloM0Q2RndYakRUdGplQWtLb0t6dTVlbWh4aDRYaGZkNjdEcVBZeEtTaUJKS3VmcjFlMjJ1XzJVYWIxSDZkQ0xnT2dkMWhYVDJFZFJpYw?oc=5"
     }
   ],
   "insight": "Tracking J.B. Hunt (JBHT)."

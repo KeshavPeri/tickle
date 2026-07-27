@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:24.426Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:11.908Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    120.06999969482422,
     112.98999786376953,
     114.18000030517578,
     115.4000015258789,
@@ -24,10 +23,10 @@
     123.61000061035156,
     124.1500015258789,
     122.81999969482422,
-    124.5
+    124.5,
+    130
   ],
   "6m": [
-    155.25,
     158.7100067138672,
     160.80999755859375,
     163.5,
@@ -158,7 +157,8 @@
     123.61000061035156,
     124.1500015258789,
     122.81999969482422,
-    124.5
+    124.5,
+    130
   ],
   "1y": [
     178.10000610351562,
@@ -410,29 +410,30 @@
     123.61000061035156,
     124.1500015258789,
     122.81999969482422,
-    124.5
+    124.5,
+    130
   ],
-  "lastClose": 124.5,
-  "oneYearReturn": -30.095454388902226,
+  "lastClose": 130,
+  "oneYearReturn": -27.007301771544494,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Blackstone’s Profit Surges on AI Investments - WSJ",
-      "source": "WSJ",
+      "headline": "Blackstone (BX) Expands In India And AI, Is The Stock Cheap? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV0d5YkxkQUd3QUxRVEd1RmlVNmtPNnpCUENJREJFM0d4NEhzeWxxZmFHUDVFZDR6V2dKTnFSdW0xR2lac0VaSFJjYlB1UjBlU1dleGZ5eUYxbm9hQ1YwQlRfWG1GWEhSN2JlV2hVUWo5Nk9td2sydi1BdFdIVHZJbWNmY3ZCMm4xVU9HSU9vVFF4ZkJTRmtwaG5qMA?oc=5"
+    },
+    {
+      "headline": "Blackstone Inc. stock rises Friday, outperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdDdQTjMtdkZJSmZhSkpwQlJ0UzQtc0lFYnRnS2xOSjI0bDJmZEJvT1VMcllUc2VfZTR0ODZOLW16YlQ0SThvamFPdUx6YUJjcjZfdkZtNno3V2oteHhwQWFoTjRRZmZuV0c0dXBXSXB3eVNScEFWcFROTTNnR2JNVURqM0F2VXZ0UVVRNHRNNTViSjJnS2lORHZPellvaHJtZ1pHS3R6SFJvT2tIN0F0dzVB?oc=5"
+    },
+    {
+      "headline": "Is Blackstone Inc a Buy After Its Latest Earnings Report? - The Motley Fool",
+      "source": "The Motley Fool",
       "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQazB0S1NiZGI0QmZKcUYtVERYX2s2WjRqOVpyR0VKbklWS2FTd0xlWVoyaV91SThTbTBrN3YtTzRZcV9yeWF0T2RXTXBrMnRmVXdudDM3QndmN2tzLTdEaUFxOFZ3Ykx3b1l6UTFrNzVCcWtyU2dwa3dKS2JBMlExNjdGdEVoaHdBb05vWG9MLXFrNjVP?oc=5"
-    },
-    {
-      "headline": "Blackstone’s Stephen Schwarzman: ‘Our stock is on sale’ - Financial Times",
-      "source": "Financial Times",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3lTZ2Q4TnB0aDRBSEJycFFNLW5ndGVFMGJlTTFnd2hDSTgxMjNlZTRBT3lEOWl2VzVzdzg1NkQ2eFFvTENCckRiQWZGNDJFOHVDRFh2MVFEemRnVVIzS2tiWlRWcGpKazZpVjlDbGV1eDNKNVJVNUdhUWg4ekhZdk40ZTU?oc=5"
-    },
-    {
-      "headline": "A Golden Opportunity To Buy The King Of Alternative Asset Managers: Blackstone (NYSE:BX) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWtsc0NiUjFsUEJFZWUyTWx3RzJmU2JHWE0wbXZ5dEJ0XzBMWGRXbDU0dHpVREU2TEFhX05ZNS1pYk5mZi1yemlLM2tpV3RQZHdTQTNtQXVNY2F1VFo1UHFxcGJzSzM5dW9JTDlsdWRoNnlwa3FaMG44ZHE2NjBQaXhFUDZHRjNNVTNqZXR3YlZpZ1VTeHkyOVo1dmM4ZXdHdU1kTXZWTVk0V3lsYXpNTHpn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaHZJS2xPcUxvb0JKcERKTjl2bmxOSHNnLWMteEUteHJEY1pLaHV6MzQxUFhpN185SXNxNE0xQjQyRGJxRnNJQjB6b240UmlPcUpCQ1piRzNnWWZsRnlLa0Z4NWhhMzA5VmFqN3hYbjI1UE0zX0tCb3NFTzJQOVQxS0w3Z2xzSmVVZGY3ci1UdGhCQ3FaaXN3aTN3M0FEdlo1?oc=5"
     }
   ],
   "insight": "Tracking Blackstone Inc. (BX)."

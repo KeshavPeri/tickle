@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:54.107Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:39.188Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    47.7599983215332,
     47.7599983215332,
     46.279998779296875,
     47.119998931884766,
@@ -24,10 +23,10 @@
     45.810001373291016,
     45.470001220703125,
     45.25,
-    46.029998779296875
+    46.029998779296875,
+    46.08000183105469
   ],
   "6m": [
-    59.880001068115234,
     59.900001525878906,
     60.61000061035156,
     58.95000076293945,
@@ -158,7 +157,8 @@
     45.810001373291016,
     45.470001220703125,
     45.25,
-    46.029998779296875
+    46.029998779296875,
+    46.08000183105469
   ],
   "1y": [
     52.40999984741211,
@@ -410,12 +410,19 @@
     45.810001373291016,
     45.470001220703125,
     45.25,
-    46.029998779296875
+    46.029998779296875,
+    46.08000183105469
   ],
-  "lastClose": 46.029998779296875,
-  "oneYearReturn": -12.173251453329788,
+  "lastClose": 46.08000183105469,
+  "oneYearReturn": -12.077843989289732,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Las Vegas Sands (LVS) Stock Looks Pricey With Cash Flow In Focus - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNXJVT0xoRGozeXplV3d5Y2NUamx1azE1LUZyWFJZZVBPWnRNSldkNW14WE5Db2FrNkd0SU1lUE91SG05UWcyLVNVN3BEal9tUUVNN2JZMlJNR1VxV0ExTnV6cUNrSTFWVHljTFdyQndSdVVjT1B3SE1rTXZBZXlMR1NYUkhId3ZkazRsRFExcl8tNjdf?oc=5"
+    },
     {
       "headline": "Las Vegas Sands Reports Second Quarter 2026 Results - PR Newswire",
       "source": "PR Newswire",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1hsV2pJT2xONW1aR1FDMzZ6aE5tbXBlamFlbUFfREtYMzdtREpJQnFwaHIxaEpkMVh4LVZzQzFvMmFYR1A4Xy1XMy0tQlZrMllZeUg4OFJqakxsaDRUdnRMd3hEdlQ4bnJ4ckZNbU5JSHdrWGI2R3NhQzN3Zjh6V1Q2eWQ1MzZwYnB2YUNJcTN5d3ZpcTVKRTVPeTBzZWxlNEtMSWtGTkVFVmc?oc=5"
     },
     {
-      "headline": "Las Vegas Sands Bets on Premium Travel Through a Massive Upgrade Cycle - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2ljdXNQcVl2NmZIaHpFd3h0aW9rczBaY2oxcGRCZ2RRSU1ramhYZ000bm44SC1xSHhjdVZVclB5ZlltSmJFNVRwa1RuMXRHOHV0Yjh5Tmp6NURvMDZkcE1yUUdoek5UbTFwcC1SaTl2LVF4QmxraUFuSl9zX3JER2pvS09HaFJ5UHlrMWpBTHQ5aHJLazBSUA?oc=5"
-    },
-    {
-      "headline": "Las Vegas Sands Stock Gets Buried After Q2 Report — Here's Why - Las Vegas Sands (NYSE:LVS) - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWFPeDdoa0VrU005VVZUa3A1SEV3czJMRmVMZzBYSkFpVUNLMXdsc2ZHVmZJQWR1QlZnXy1FbGZfTThHZEhsd3RnSFA1UzMzMVV1Wlo4Mk0wRGFrWV9DUVhaYkUtYUlZdUwwUHlMazNlQ1RhNE1JU0hrN1h5bXQ0b1pQOXZ3RU5fUmZqMU9qSDNMRno0N3NXOUNXQXE3THZVWjN0ZVVIdDUyZUdSVE9EMHdJakF1dUpCbTlNXw?oc=5"
+      "headline": "What Las Vegas Sands (LVS)'s Q2 2026 Miss and Aggressive Buybacks Mean For Shareholders - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWHBfS0FXTXE1cFVGNmpmckFsRVJlb2tnYS1NNUxRbkJrQVhEY21WU3pqSkxUajRZQ1Mxc3pPckNHdkx3MnJ4Qm42cng3VXA2MGJBdlhTbEVYM2Y4MlN0Q0RObVdrQlM4d2c2VjAzcHFud0lrQzVRNjhFSUpXOGl1bjdyUzEwb1pGa0ZsbjRMMUdJajlNLXFtc2s4akVKdV9FNmNKNzRyTlJiRmhYRVNqZnVhT3FWeWU5eEV5aWlZWHJ6NXQzZGJib3JtYTdta1ltRlNPSXhZd9IB3AFBVV95cUxNaG1fTlptNmh4OFFvRXRwdF9iNEtLVFJ5T01Fd0RzWGpkNWFIdV9Rbno3cHZTMUt2TTRsRmhsQzRkVXdYWHZPMWhtZzZWUktVblZtYlhoQ3dLOG1icW05NmxiakVvVjIxNllQSWhpVDRhNHZmVk9NbVpTbW1fd19IaGpQV1AyeVZ4bDc3RUZhMnU2dXpPX2NJQ0tlcEdkNzcwZ1NtRDA2ZDc5Rkd3RVVXVzRrMVlPS1BDWFYzYmFfOVR1MUEtSjRyWnE0c0c5VjFpazhiZDBUMjFQcHQ4?oc=5"
     }
   ],
   "insight": "Tracking Las Vegas Sands (LVS)."

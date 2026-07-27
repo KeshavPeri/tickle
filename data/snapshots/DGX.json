@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:33.343Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:21.518Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    197.17999267578125,
     203.11000061035156,
     206.24000549316406,
     209.8800048828125,
@@ -24,10 +23,10 @@
     207.66000366210938,
     206.83999633789062,
     209.8300018310547,
-    227.89999389648438
+    227.89999389648438,
+    227.86000061035156
   ],
   "6m": [
-    179.9600067138672,
     186.77000427246094,
     190.25999450683594,
     189.49000549316406,
@@ -158,7 +157,8 @@
     207.66000366210938,
     206.83999633789062,
     209.8300018310547,
-    227.89999389648438
+    227.89999389648438,
+    227.86000061035156
   ],
   "1y": [
     168.5500030517578,
@@ -410,29 +410,30 @@
     207.66000366210938,
     206.83999633789062,
     209.8300018310547,
-    227.89999389648438
+    227.89999389648438,
+    227.86000061035156
   ],
-  "lastClose": 227.89999389648438,
-  "oneYearReturn": 35.21209716412853,
+  "lastClose": 227.86000061035156,
+  "oneYearReturn": 35.18836931754965,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Quest Diagnostics Stock Climbed This Past Week - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5"
+    },
+    {
+      "headline": "Why Quest Diagnostics (DGX) Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5"
+    },
     {
       "headline": "Quest Shines As Deals With Hims, Oura Bolster Consumer Biz - Investor's Business Daily",
       "source": "Investor's Business Daily",
       "when": "2026-07-23",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRllvaGdnTjU5VF8zV3ZfOWZsWl9QN3lKT0Jqb3hTcVRpMHAxRFA3VEdERDhpUm9hN1JOcU01OWVCVEVnbFQ2eEd3S0JxaEVnNWhYU1M3dnIxcWlISm1qRTB4aDJDSl8yemhtd0pNVmZiR2w3R0dvMjk2WDZGR3NyT2VLd01kckdhT0RCRVJqRHlHU2czNE15a08taUFLUG1vYlUw?oc=5"
-    },
-    {
-      "headline": "Quest Diagnostics Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNngtLVp4UnBMZ3dhbDF2cGI0MGNzR0NPS3ZhN29HM1V3SFA1NWRGTzJLVXNNRlpIajVpbWlnVGU5MldfZ0JfeVF4S2RUd001SURUVVJ5WENGLU85dWhOMXk0NGRnMk1qZVRCbXRaUXQzSWc0c0xDZDJCWnFaM1ZRam5wM2Z6bDFKWWRuUHJ3V1I5SU1mTWdmSkI4UGlqb0NqU1RsS1dUNmRXWjlVQWhwQzEyRXl3cGVaOHphdk43bGlSTklBUFB4Nk03QkFUZw?oc=5"
-    },
-    {
-      "headline": "Quest Diagnostics Stock Hits 52-Week High - Here's Why - Quest Diagnostics (NYSE:DGX) - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSEF2V2kxZTdvVEQzM1lpZDRYRW0xSHVSSkZLa3RTOTRSRFM4WHltSDZETG4zS3loODdxRWRQV2o3dzlMOE1YRGtNQjJyYzBnTVVSb0ZlSDNfdGRrbWRFbWRQN3JpU3djeS13VF8zLWZKN2tRQjBVMkUtM2p6am9OdklDcmYzNElrYmJRVjctNUk1Y3FPLXUxN2g5aHA5OWFLeVVYN1Y1dTFjRDh5ZzYxN1VKbjhFT2NUSUpnXzFwcVhLN1ZzQjNfWWdiOGFPWkVNR0JKTEt3?oc=5"
     }
   ],
   "insight": "Tracking Quest Diagnostics (DGX)."

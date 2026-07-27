@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:32.165Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:20.122Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    175.97999572753906,
     171.4499969482422,
     172.24000549316406,
     171.05999755859375,
@@ -24,10 +23,10 @@
     189.7100067138672,
     191.07000732421875,
     192.97999572753906,
-    194.4199981689453
+    194.4199981689453,
+    194.7899932861328
   ],
   "6m": [
-    163.8699951171875,
     167.24000549316406,
     166.16000366210938,
     166.25999450683594,
@@ -158,7 +157,8 @@
     189.7100067138672,
     191.07000732421875,
     192.97999572753906,
-    194.4199981689453
+    194.4199981689453,
+    194.7899932861328
   ],
   "1y": [
     154.83999633789062,
@@ -410,12 +410,19 @@
     189.7100067138672,
     191.07000732421875,
     192.97999572753906,
-    194.4199981689453
+    194.4199981689453,
+    194.7899932861328
   ],
-  "lastClose": 194.4199981689453,
-  "oneYearReturn": 25.561872104855592,
+  "lastClose": 194.7899932861328,
+  "oneYearReturn": 25.80082529908075,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Chevron Corporation (CVX) A Top Dividend Stock to Invest in According to Jim Simons’ Renaissance Technologies - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc1JGb1lZcWNCRW04RTJRLUlHSi0xMUs5Ny1KT3FMRVI2OFhFbGNJYzhaLW5WeGszSnZxWEo2WkRidFVBOWZDY2Vic3VfZFU3LTNrbnZYNnBPa2RYeGtOa3ktdFBZMkZxNjY2SmFXdXh4TWVjSlJxQmZ1TEdZcTd2WDZlVEVfR2VHUE05Wk5XWUlOUGstb2wwaw?oc=5"
+    },
     {
       "headline": "Galaxy Digital Inc. Acquires Shares of 9,800 Chevron Corporation $CVX - MarketBeat",
       "source": "MarketBeat",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkd6ZElUZUpnM2FIeFhHOW4wZVNQdTZacUF0Mkl3YlJ1TjdfWVZKU29SSUhwcmY5REIyVWJPRVJFaGFTdWVGaHcxbEFlZTFYSWRzaEVuYjhzWTR2UTVVSVVJQm1CbV9mRHBMNzd4c0QyQkdHVloyZTZ5SkJwRFkydTNDYXdkLUwxN3lPdndiTk9KUk1SX0JvWW5IQ1ZRTHRKa2VhVUFIZXc2NGxuemxCSzlGaEV2cm5TTC1vV3RrSmdheEtBNHc?oc=5"
     },
     {
-      "headline": "Chevron (CVX) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTkdJaDlxMzlMQndEVmluMXNGNmo0aHRJdEd1UU5YWHVSVl9FelluVGVfeE91bjk0eUMxQXBiQUlmNG5SVENoaTlCVWNmVjA5ZFVWZmlrUTJDYkFoQjk4azZoek9KY1pqLVNJQTBYRUlSSmN2ZFZEVmRKZDhmMkdZam9XWXN1M1k3SzhOOUM1SHA3THRYZU9nNkhZNlM?oc=5"
-    },
-    {
-      "headline": "Chevron only Outperform-rated name among global oil majors initiated at Piper Sandler (CVX:NYSE) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnhuZWt5c0RSalNPTVBKWFFNeG9SLVNHZHRWT3FaYndmdExJZTZLNmF3U04wRHZ4V19SSG5jbk9ORDdMTWp0RzNRakI4c0hoQ2dnOXlvMHZiRGFYTGVBYzhPYWNRT0JmOEs0MnkwcDU3bF8tdjlIT1dhWDJ5eXFCLUltZG5RYlIxVGFwR2kwSnZLbjZHZ1hxMnpqYk1ZTVJkR29aYUR6NmxOb0xQWnE4cG1PVHJsRFIwdkUzNUwtNzA?oc=5"
+      "headline": "CVX Stock Has A New Bull Case — Why Bank Of America Favors Chevron Over Exxon As Hormuz Risks Push Oil Prices Higher - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUjlTbERWbzB0RUMxQjNSZXczOFdrM05MQUtOLU5VbnY2enRQZzdMRjZIZGJZNnh5bVRUQVBXWTl4V0xEQnJRMGpfMldQZWZvNGdndE45QThfRkw2bG5BcWQ2X0lWaXpHSGI3N3BDQWs4eXhCSVdKNmgwMXdBUFkzUUVFWWZqM2VJQnp6NVBnUzNVZWhaT214UkZzR1YycWxOb0lEMUFGeWZ4cjhud1ZfWGNkWkRDT25RekQ4UXRPR2N0T2RIZGJwU2RCUnh0RjUwSW40QUtoVmthZlFfaHRtS3RVTmkwRzNKbklYcDAzZTR6ZVE?oc=5"
     }
   ],
   "insight": "Tracking Chevron Corporation (CVX)."

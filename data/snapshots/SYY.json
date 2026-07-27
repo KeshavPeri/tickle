@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:59:05.181Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:49.324Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    79.27999877929688,
     80.58999633789062,
     80.8499984741211,
     82.81999969482422,
@@ -24,10 +23,10 @@
     80.77999877929688,
     81.22000122070312,
     82.12000274658203,
-    81.7300033569336
+    81.7300033569336,
+    83.11000061035156
   ],
   "6m": [
-    76.05999755859375,
     77.11000061035156,
     79.18000030517578,
     78.80000305175781,
@@ -158,7 +157,8 @@
     80.77999877929688,
     81.22000122070312,
     82.12000274658203,
-    81.7300033569336
+    81.7300033569336,
+    83.11000061035156
   ],
   "1y": [
     80.30000305175781,
@@ -410,29 +410,30 @@
     80.77999877929688,
     81.22000122070312,
     82.12000274658203,
-    81.7300033569336
+    81.7300033569336,
+    83.11000061035156
   ],
-  "lastClose": 81.7300033569336,
-  "oneYearReturn": 1.7808222301735985,
+  "lastClose": 83.11000061035156,
+  "oneYearReturn": 3.4993741616454868,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Sysco Stock (SYY) Opinions on Citi Analyst Target Raise - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYmxVV2lDSUNtNHBmakZza24zejJOVmQteTRPa1hxdWhKN2lnMW9mNXRmbDdUblhHQ0NtSzRFT3JjeUZIQkhvZzI2OGtNaUlBS3pNaWo3UTFHd0poX0QyZU5LX1JwVF92VDJ0TjJlTVJsZlExSERMd1V2XzRWUjdnenpKU3RvdTB2R3A1V2Y2WkpPMHJidkdn?oc=5"
+    },
+    {
+      "headline": "Lombard Odier Asset Management Europe Ltd Reduces Stake in Sysco Corporation $SYY - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVjd5bVBveDlUSVoxNERjZUpxV1RLTlFFR05oZFRIVzdIUzZVY1A4c2M4MFBfcU5WMkFybkNvYWRMVUNEUTBnNTJTY25ybXRGd09BUk9FVGRVSU4wUDlLTm80Qm9CQlVQVjNFRUF6QjdnVnlpdFlRMmU5dWd0bjlBTnVhOGd2RTlBRGJYQVlxU2NBVW5zTVJHYWd4T0lrTkJlZWl5Q3RsUVNLRTJIS3R6Z2JZOG5jR3dYRC1RVTlGc1BZbjgyQ25BdEtqYkFPZzc4ZlNKVzlfbGw?oc=5"
+    },
     {
       "headline": "Is Sysco (SYY) Undervalued Or Is Its Quality Already Priced In? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-21",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVk1ckZ4ZFN4bjBIVG9GU2FMa1dtQmVIZmdwUkdFWU0wZEtWSm1XelUwakdheGFianNOSGFzYlAzNkZSUTRaakNpZDR3TUd2ZzBBcjNlWFBxRWV4UjRiTlh3TTg4QkVhWHdaSk9Cb2JnWXhFVXN6MWxRd3llQlpCN2h1cHB4WEcyYy1JVHc3Q2xlenZFOFV6RUtjVHVEektoWEQtQw?oc=5"
-    },
-    {
-      "headline": "Sysco Corp. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnpjNm0zbkQ3ZU5kcFJqMHdQdDZ5Sno0OWphR3c4S01sOWJwbTMzQUY4Z1hUNTgwa0lLdzlzZW1JRDdXSzlPMzZhNHBlakpZRmJSaElzWHQtQXlSSVR2SzFJVUlON1lZZWpUVVVqZGN0dVIyRVB0dVpLLVZlOWdmMm5XM1pSWkppV00xVDhJNFdKUndIMTVoRTluN2ZxZkZqOWljUVd0YUkyX3BjQ2pTRGx3SFdpMjFRalBMTFhiRQ?oc=5"
-    },
-    {
-      "headline": "Dimensional Fund Advisors LP Grows Stock Holdings in Sysco Corporation $SYY - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTktIUExUYjByeW5OdHZBLXliRldBblU5VlF5V0lIdjhSUFY0dFBqTlN2bXo0cDhLWTA4WkhMNk9zNVdKeXhBX3RXc0t5Z00xa1VQaXZJNkZ6UmhLMXlmLWktRG5LMTJqV1BVeVIxZTJvOHpMV0xzWVViZGdyMjZQM1hHQWpDcDRXQkttWVV2S01PaTZXb1BZWVp1am5kczJ3YllOTkpyNFB1d3BnOVY4VDhzM3lydFlnQ3dNR3pQMkZXVlk5VFUxUW9nbHRlZjVo?oc=5"
     }
   ],
   "insight": "Tracking Sysco (SYY)."

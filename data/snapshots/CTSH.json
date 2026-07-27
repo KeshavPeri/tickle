@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:31.461Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:18.299Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    40.95000076293945,
     41.439998626708984,
     39.150001525878906,
     40.029998779296875,
@@ -24,10 +23,10 @@
     44.63999938964844,
     43.630001068115234,
     43.18000030517578,
-    43.0099983215332
+    43.0099983215332,
+    45.45000076293945
   ],
   "6m": [
-    84.47000122070312,
     86.69999694824219,
     84.81999969482422,
     84.73999786376953,
@@ -158,7 +157,8 @@
     44.63999938964844,
     43.630001068115234,
     43.18000030517578,
-    43.0099983215332
+    43.0099983215332,
+    45.45000076293945
   ],
   "1y": [
     76.66999816894531,
@@ -410,18 +410,13 @@
     44.63999938964844,
     43.630001068115234,
     43.18000030517578,
-    43.0099983215332
+    43.0099983215332,
+    45.45000076293945
   ],
-  "lastClose": 43.0099983215332,
-  "oneYearReturn": -43.90243987386174,
+  "lastClose": 45.45000076293945,
+  "oneYearReturn": -40.71996628617544,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Why Did Cognizant's Stock Hit a 52-Week Low After Its Latest Announcements - Kavout | AI",
-      "source": "Kavout | AI",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQamZqUlBIMlN0V1ZBVkNXRndzVlJBVzc3X0VNcGdGeFBpbVFtbWxINGxqMDNuOE1nRFpKTUloTWtPbzJoa181VjFsZ0FNbUFDTjJ0SjRSQTVvdHVXWTd0X25MLW1MU19KTU1IYTNRV1Y0elB6RXJocVMySHZnQlFIOFNOek9lQ3BrVVBKcUdkSV9oeG5Nb01ETFhaRUxEcTVBV0ZTejZLV3RjRl9CUkE?oc=5"
-    },
     {
       "headline": "Cognizant (CTSH) Stock Looks Reasonable On Earnings Despite Weak Returns - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3hlN0k0dVBZMHlGeUpQY0FWYy1ZSXQ0RjJiUWVfUEZQdEVIanNQVEY2WlAwUjNfWS1wVjJXQlM2V0loRTZ5MzlFd2YxM0QxUjEwanhHTk4tR3NqMWpydVhOLU5pVGxfSFA3UFJ2ejVDOE5fbUY1c3dFT21oX3dLM1ZPNE1nVjd3ZmlxTVIwQUh6bkhKeTNQazBhMDZIbm1zR3BJcw?oc=5"
     },
     {
-      "headline": "What Cognizant Technology Solutions (CTSH)'s Thailand AI Infrastructure Partnership Means For Shareholders - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLUs0SEF4MnNiWjcxUTBka3hkMVZFSl8yYjFoV1ZlbGVKWjkxZjE1RHR3YUxnNnhfNFlXQU9tdDdCNExEdU81ZUE4djRKWW1NZ2c2VFJrWVVrczViWVdzaTMzUEZYR2RUWnRIOWNJdmltSlFoNVVLVG5mb1oyRUt5aE5JbzNNR21jWXV1UEE5aU4xTlhMRmx2NUpTbGV5U2R2bnJDeVBwejRidkk3N2FfTHlGR09PbnpkSHpfYzFLYS1GRFdJZGIzclJhT0Z2Z2tIaWQ3VWxkR3RqY1YxdW1CUlAzZVJCOFdY0gHoAUFVX3lxTFAtSzRIQXgyc2JaNzFRMGRreGQxVkVKXzJiMWhXVmVsZUpaOTFmMTVEdHdhTGc2eF80WVdBT210N0I0TER1TzVlQTh2NEpZbU1nZzZUUmtZVWtzNWJZV3NpMzNQRlhHZFRadEg5Y0l2aW1KUWg1VUtUbmZvWjJFS3loTklvM01HbWNZdXVQQTlpTjFOWExGbHY1SlNsZXlTZHZuckN5UHB6NGJ2STc3YV9MeUZHT09uemRIel9jMUthLUZEV0lkYjNyUmFPRnZna0hpZDdVbGRHdGpjVjF1bUJSUDNlUkI4V1g?oc=5"
+      "headline": "28,509 Shares in Cognizant Technology Solutions Corporation $CTSH Bought by Caxton Associates LLP - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeHM3dXB6OEh1MFRDUE9udzFadEpWdFRrUmpJOExsRUc1dzZyb3JQaUxrLTNvLXZvTl9zUWFhZS1TZXIxemZNRjFxc3RmbW5oTTMyY1VhV2xpX0xoT3RxX0d5NzlVeG02aG4xYjh4akkySWE0TlZzNmFJWGczTHFRTTNDdHBLZmJORV9nYjBYbHpTU2FYazBKOVpFVWc3TFpGNVR1NjE1M3pyYk9yLWlzeXkyM0xWbzlvektpRzYzV1NMODBhZk9YSG9PRzhGZlhrcUdvTDFNMzNJM05iMVltNWJ4WHNlNDh5dkFBVQ?oc=5"
+    },
+    {
+      "headline": "RBC cuts Cognizant stock price target on IT spending headwinds - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXAtTjYzUUF6bDJINzFjdjNGcUZQbVoyZ1ByaEgxWnhJYTljdXhGTHluLTFDSDRoSEsycTk0RjNHNHkwYnZfc0RZb3hReGZKUm9NdzYwY2RGQV9mWjd3QlFFUlg4ejZiWVVNQ1FtNzhOVFpQelZxYlhJY0h6VUNIWDN4RFJkSmNaMGhyTlZ4bUtTNE0tR3ZkbUJOb3JtOS1EM3hWd0pBWWFGbEZDd0dvbkJjV1hydmJKZmlzUWFQWQ?oc=5"
     }
   ],
   "insight": "Tracking Cognizant (CTSH)."

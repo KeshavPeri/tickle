@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:49.063Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:34.849Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    133,
     130.02000427246094,
     124.48999786376953,
     123.86000061035156,
@@ -24,10 +23,10 @@
     141.57000732421875,
     138.6699981689453,
     142.52999877929688,
-    143.2100067138672
+    143.2100067138672,
+    145.7899932861328
   ],
   "6m": [
-    166.69000244140625,
     172.94000244140625,
     173.27999877929688,
     173.97999572753906,
@@ -158,7 +157,8 @@
     141.57000732421875,
     138.6699981689453,
     142.52999877929688,
-    143.2100067138672
+    143.2100067138672,
+    145.7899932861328
   ],
   "1y": [
     184.44000244140625,
@@ -410,12 +410,19 @@
     141.57000732421875,
     138.6699981689453,
     142.52999877929688,
-    143.2100067138672
+    143.2100067138672,
+    145.7899932861328
   ],
-  "lastClose": 143.2100067138672,
-  "oneYearReturn": -22.354150499774146,
+  "lastClose": 145.7899932861328,
+  "oneYearReturn": -20.95532891111946,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "The New York Stock Exchange | NYSE - NYSE",
+      "source": "NYSE",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5"
+    },
     {
       "headline": "Intercontinental Exchange (ICE) Stock Looks Close To Fair Value Today - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOWQ5Ql8yTno4RnFmeDV6c3NsN3VKUjlqY0pwdkhtM0pzR3NOQ1lnM1BUZTBkcHRUMmJVSmFhTktCZllPdkJlcXVGZ3hlWENKYU55eVdxVHlBTEx0ek40YTdnUXhFYU9ycXVxM0NVOV84OC1hTUp2b1pLUURmczJDdlcwZGRvSDhXenNEcjNEZHJucFVmSlhVVHRoZm0zX0JNQlRoUk84WmtfZw?oc=5"
     },
     {
-      "headline": "Intercontinental Exchange Inc. $ICE Shares Bought by PNC Financial Services Group Inc. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWxZaWptdldXNll1aTRTUkpTdXhPekttdVRVZVlqZ0JxUUhhVGhCWWtRU1FmanRCbFRwMFN0UnBrX3J6aG5naDRaR05oeWpCdGVpbHhsSlJZVG4zWmEzVzJEQWY1RUI4dlF1X3RDREw3TG9sZGxSV3JMT3VRNGQteFQ1SzNiZi1jVkQzem9hQ1ZzaEF6eFB3Um5iVm1qTl90dHFHUzJ4eDRLTXdUeTZiRVp1ZW54QXZ6cVR2YmVJRTBTWnBsU0daY3FrTWpCbDE5dXV4XzAzanUtMGV6?oc=5"
-    },
-    {
-      "headline": "Intercontinental Exchange (ICE) Shares Housing Data, Is The Stock Fully Valued? - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnRVTnVqcUhoNGREcFhHNFpISzlvMDRkbkJNOUIyMHdySmExNm0tbVpwa3FkWmFHbmtRLUNwSDYtVEpaWlVlcm8yaXFiTUdZN1REUk9IcGRwczVTS2VvM2RBQWU5MlBnTk41cHhLVnhmcjRrbVBVcDRZS2E5ZXBpb0xTMllQdmYyaE8zd1IyTS1vZm1yTHJOQg?oc=5"
+      "headline": "Intercontinental Exchange (ICE) Draws Fresh Interest After Mortgage Data Update As Valuation Debate Builds - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa0xja0doWW5udk5qemtCVDFOQ05UZUdjempYWjlvRXhILU92YVZaLWlqc2xfMVhvN1hNM0hBb0pyQnJJTHZmRzU3cWo5bnRscW9fR1JyR1lXdFFodzVkVkpfbWRiV01HenZnV0MtYWl6eUdWbDh3eHhyT0RidW5POS1IYTEtSmNVbWhsVFRRRUV5Vkg2UlhRbjJyUHJXcl9Sa2x1aVM1bWNSN0J0d3V2U29idlBOM0RWUlQ5T09ZWVJLYkhoX3V3TEZBbnZJMlNyNURhTkVuYkdIUHlrRldqaTgwT1dxZlRFX2NF0gHwAUFVX3lxTE5HanRKamJyM3FjalR0OUZyNndqOGl2RWpIVkhqSkJHYzVIWGJGRDItUmtkVHhKb3doUjBlaXk5bktsVmhpTkpReGRyQmw3Z0lFM0ZfYWhVcmVoOXNEdTRPZjRCQWhiMmprRWU0bm5veVZJRzF3SFVWc1ZwckNTX09OcEpoZHpldktxT1FDdUNyLXkteGpJQ0t6UTdpZkZlRjR4ZWVPY294RUtkMlIzbGMyejJMRENqU1RVem1rSDZaX1NfUkVHQW9wQUlvRGNPeUxnREphTU9MMVd4UHpiSVgyT29kSnhDT0tlQ1BzRnlucA?oc=5"
     }
   ],
   "insight": "Tracking Intercontinental Exchange (ICE)."

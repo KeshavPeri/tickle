@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:35.022Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:22.653Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    210.58999633789062,
     213.4499969482422,
     212.75999450683594,
     213.72000122070312,
@@ -24,10 +23,10 @@
     194.82000732421875,
     193.38999938964844,
     193.94000244140625,
-    194.1199951171875
+    194.1199951171875,
+    196.30999755859375
   ],
   "6m": [
-    206.5500030517578,
     207.8699951171875,
     214.3300018310547,
     214.6199951171875,
@@ -158,7 +157,8 @@
     194.82000732421875,
     193.38999938964844,
     193.94000244140625,
-    194.1199951171875
+    194.1199951171875,
+    196.30999755859375
   ],
   "1y": [
     204.47999572753906,
@@ -410,29 +410,30 @@
     194.82000732421875,
     193.38999938964844,
     193.94000244140625,
-    194.1199951171875
+    194.1199951171875,
+    196.30999755859375
   ],
-  "lastClose": 194.1199951171875,
-  "oneYearReturn": -5.066510576494644,
+  "lastClose": 196.30999755859375,
+  "oneYearReturn": -3.995499970486839,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Darden Restaurants (DRI) And Its Smaller Store Push Put Valuation In Focus - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTTQzWXNsa25ZOGVMUU5fSjVLdURRNjNFSE1nN1hwYl96RUtncG14SEoyUDN5RzZMSndab3dLUFc4R1hLdHRrN1VWWEZlQlhuWXpVdDNaalo1aU9HVmc4OXhPdEJZZEJvMDZLUGI4TGNDQ0VvTXZ2bkk0ZzV1TjBteVRkSmU2TGs0WFVqVGFoWDBQODlsbDFzRFprZ09nTy1Yenpn?oc=5"
+    },
+    {
+      "headline": "Bank of Nova Scotia Has $13.04 Million Stock Position in Darden Restaurants, Inc. $DRI - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMml5Z1pKc0xNQkRvUk9UUjRicnB1ZngtcE1LRHQ5VTljMmFPZGRkelp1akVvNXFNM1BUZVFjUGFxeVE1NHFqUWRqZE1GTXR0UGhybWE4cDV5Q2h0U3BiR2tRaXA0TjZpRkJTWEQzRmVfWTI5cS1FeFdINlphc3phNEQxY2RjZkl5OVdOMmlLM3BMNTFPcUFhY0FVZzFJT19zS1JoVUlTcnF1QUdSLVRwTVdYSldlT1JQNW1BclR4MThLYWdkdmRXZGNJWk80NVByZU81ZEo1Q3htdw?oc=5"
+    },
     {
       "headline": "Why Darden Restaurants (DRI) Stock Is Down Today - Quiver Quantitative",
       "source": "Quiver Quantitative",
       "when": "2026-07-20",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUhoclFkVmcxb0NBZ2JvbXE1WklPSEotcnlKaGM4SkVBUnZ3MS1kU1lFUXExVmx2U3hQTG5QcmhlY01NRTQ1LWNjcEJwdnctRC1kOXI0Zkh3WkFOdEJkRmxFVDRTUUNLNEFER2FpX1JsWmhDNkFxUlZWa2czVUhyeFQ1bWpnNWY1cC05TmJB?oc=5"
-    },
-    {
-      "headline": "New Stock Price Highs Are on the Menu for Darden Restaurants - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-29",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEhVbGhielQ4SFE0Yng1el9IZEYtaGNySVp6Ylp0SDBGN2N6bWNtZGNSeWVsa1VaV3VEOGhqdkdCTjZibHZLcmExTTU0ajBPTkFYN09iSEl6MWJzY0hTUnFMS0dRWXk4V2p5NEFORnpwZHo3Nm00X0c5Z2VGaXNXTVpEQk5aUEpOM2oybEpkNzQxelNnTTViRmxB?oc=5"
-    },
-    {
-      "headline": "Darden Restaurants Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb1E5TW5JS2JtdXFRdVVtNzZ2blZQdlNVbHFuci01LUZnSlUxOVB1M1RrQ003VVUzbEZsZGZJUERrd2NVUmM4ekUzcDlpMktrTlJRWjZ6ajhZOUw5ZUp3bUZCbEV6bnZMMHFacjk0TU05bnMxS0RRb1hGaFN3RXhZZ0lZZHZQNFdrNlRDdmc4RWU2d1NLVDVGM0dCYWx2TkdFRWtkVzFVZGV5UDhlRmRiaXZ6VVJBWWlLX0g1aWREcmdXYk9PbTV5MjZYdERtWkU?oc=5"
     }
   ],
   "insight": "Tracking Darden Restaurants (DRI)."

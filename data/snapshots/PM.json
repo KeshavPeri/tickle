@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:59:00.916Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:45.227Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    178.69000244140625,
     178.77999877929688,
     178.92999267578125,
     180.77000427246094,
@@ -24,10 +23,10 @@
     192.72000122070312,
     188.0399932861328,
     194.3000030517578,
-    191.1199951171875
+    191.1199951171875,
+    193
   ],
   "6m": [
-    165.85000610351562,
     171.0800018310547,
     172.55999755859375,
     173.6199951171875,
@@ -158,7 +157,8 @@
     192.72000122070312,
     188.0399932861328,
     194.3000030517578,
-    191.1199951171875
+    191.1199951171875,
+    193
   ],
   "1y": [
     160.9199981689453,
@@ -410,23 +410,24 @@
     192.72000122070312,
     188.0399932861328,
     194.3000030517578,
-    191.1199951171875
+    191.1199951171875,
+    193
   ],
-  "lastClose": 191.1199951171875,
-  "oneYearReturn": 18.76708755398821,
+  "lastClose": 193,
+  "oneYearReturn": 19.93537297792833,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Philip Morris International (PM) Gets FDA Backing For ZYN On Fair Value Stays In Focus - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSGt2THA0V2pyVlNfSUZHbUpURTZOM05wZzhqaGNHRzFUR3pQa2d4cWJJWHhzdFFqbHpNaGJ5YUdZQTFnNTZjcWQ4VU53cVMwckk2Qm1ZODNic05NSExZZ0RTOVQ3aWs3Zk1wS2JRN2VhSUNXcDIzRHk4b2FBbWVVOTlSTkVOdXVVd1NtcThPcms4MUc3UDFMU3ZnZGZGbmx0d0U2U0tiQVVkeGtIWHN6OVdybE8weE1HWk1wcjVLVmZxbHNRRTFUa1lDWHFZaXlJd0NrWlBES1FoWFJDZFl1R2NUSzhlLU1TeUkw0gHwAUFVX3lxTE14aFNwZXdGZmlVRFQwRGdhWlkweEFEa1ZVbVk1amVKVS1xYXBhU2dSWHNvTjBqLXp5M0dnRnhvX1l6YlZQMmZ4UnItMjZtS2NWTVdhNWlrVHMzSXZETnljNHhKRFFSUkthc0I0eVVmMS0tMDJZSXI5Q0ZtWTJqVXZkODQ5OGc4aXlVT3A4bE1xem1fUGNFbkt6bnNYWldsdV9yUlhmSFBtcUwxZGF3STg4TjdoVlNTN3J4c21UVVppR3VFbnFxOHdhbHd4RmxMcFF2TWUzZ19JaU5iN3hXNTFQX0JOVTJxM2ttb1hUeTZNeg?oc=5"
+    },
     {
       "headline": "Is Philip Morris International (PM) Fairly Valued After Its 5 Year Run? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-25",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamc4dmJKX052SF96VFpydjJaTDdwWG9LSGxnRjVkdFY0MVRXVXhfbDIxZGduSUZGcWZHRGpqVllPRUxZRUcyYWx6UHlrdGR1bnVVYUpLcWNybjVWVHBCUktKVmo3TXJtdENNbGZZOGdidHl3RklGMkM4ZXZQSFVaLXQyQkR0WTdFV1BiMXBDd0N4TXpvWE5aX3gyRmRzUVhEY1g3Tw?oc=5"
-    },
-    {
-      "headline": "Philip Morris International (PM) Stock Looks Fairly Valued Following Its 144% Run - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZWozSWtrS2FMdWdrRkdBNWVVVnd6YW9Nd0V5ZThBeVZTanV1RlhOcmJMY1h6Y1ExWHdTbm43bjd1eWFFS1BkNW50dXluVk9NNHg3c05wUHJqLUZMNHhzLW92aDFwRGltNFg3a3dreHMzWnhaeDhJYlg2S3BvWmRGZDdqUzN1bjg0ZW9pQ0JaeVdRbjN4eFpyWnppUldkeFZ6bVlORmpkNG5wT1NuYm5tOXZ4NUNRd0hjdG1IREtFbUQ4UTBXMEZWR0ljMFJYODBVQW9LUXVmN0JrM3lpaFQ5V084b3J0M2owX0JJ0gHwAUFVX3lxTE1zemVYdW5hLXp2UmFZZ0pjUkE3WU1kZE1PcXVKSFpwc2hneHoyNlVHSThZTkx4MmQtY29mVVF1dlBrUzZ2bUlaQ01ORlI5S00wNVYweS1jMVJJUmQtTzc0dnhZSTI1TllyMzhPSW5DUFpNS3EybmROT3lia0VPVnJ0SThnMVVPX3JoelAwcnhicUg1Vk9iZ3Y1LU1MYmNUR1ZHMjd0TlBpSEZveG5MY25KM1Y1MXpWdmhRd0cwLTNtdUZmSjVLTVY2ak5UWkI1X3NOYlgtcWVuZmhkM3ZQWDVhNEtTMnZZRUlPNS1uMjIydw?oc=5"
     },
     {
       "headline": "Philip Morris Stock Rises as Earnings Highlight Nicotine Pouch Rebound - Barron's",

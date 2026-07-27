@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:59.154Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:43.913Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    72.95999908447266,
     73.66000366210938,
     73.43000030517578,
     73.08999633789062,
@@ -24,10 +23,10 @@
     82.37000274658203,
     79.20999908447266,
     79.37999725341797,
-    77.9000015258789
+    77.9000015258789,
+    79.66000366210938
   ],
   "6m": [
-    77.51000213623047,
     80.18000030517578,
     80.83999633789062,
     79.79000091552734,
@@ -158,7 +157,8 @@
     82.37000274658203,
     79.20999908447266,
     79.37999725341797,
-    77.9000015258789
+    77.9000015258789,
+    79.66000366210938
   ],
   "1y": [
     76.4800033569336,
@@ -410,29 +410,30 @@
     82.37000274658203,
     79.20999908447266,
     79.37999725341797,
-    77.9000015258789
+    77.9000015258789,
+    79.66000366210938
   ],
-  "lastClose": 77.9000015258789,
-  "oneYearReturn": 1.8566920850122806,
+  "lastClose": 79.66000366210938,
+  "oneYearReturn": 4.157950007317155,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Here's Why You Should Hold Omnicom Group Stock in Your Portfolio - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMi1TbHdiVEdMRHlTSFRjNm9OYkpaRkp4ZlI1QlR4UkFaWmZnNzRiUmlwRUFHRDJTNUhCLWIxOEZKU1V3Z29xVm1TcUhfVEcxWHpNN2s2RkpPalpYd2Vzam1vbFZFbWZiM2JVQlJZWDlHbC1DRU44Y3gwSE9NLXhyX0lOQVhmZG54VWRSekFHZ2xQOEtCa1lLbQ?oc=5"
+      "headline": "Omnicom Group Inc. (OMC) latest stock news and headlines - Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YaFowVHgyZG5PQVBvaGtwSGkxSEt6VEx2S1NkRHRWUlhpUTVJczNjZS1lUDNBY19ITzdudXk0Y0tobkVYV2Jrd3hwVDhTd0ZPSUlGRk5jOA?oc=5"
+    },
+    {
+      "headline": "Omnicom Group (OMC) Q2 Earnings: What To Expect - StockStory",
+      "source": "StockStory",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRUdqRVJ0UWo4MFo5WnRpNVBnSmRBWVVBWDBIYWZtb00zN1RXWldVbUZpWUF2OE9CSDE0SjItZWhtbE9CellGaGlpa2tIZ0wzc3JkMDRBcXNBOUNHOEQ5Y1JmY0dDOWc5MmQyTjVGbllDa1Z6U25TWUxPRWNZVTNjN3dRMkFhWlVVTFJWbHB1dzNZNkExWXZrbENldm9fMmNJbTN6OA?oc=5"
     },
     {
       "headline": "Omnicom Group Inc. stock outperforms competitors despite losses on the day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-07-23",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdldVVXpHWElIOUN2a0RCODJzOHJvZUEyQTI0dC1OX3VlN2RJUUxkZzlydE11eEEyTjVEUFN5QmhEUmk4akw0SFYtNjhhTGFlaWZqZDRVSVNpeWZOdVYtRkVFbGY4dWkxY09vUUZ2RlduaURmdER2UGNWTnhIaTdYSXd1aTRySzh3Y2RmZDZSeTFreEdTNXNBaWRZUTZwRnRxUjFlVTFPQXNhcmQzbnVfYVZkcHpWZ0RpcjhJZTJyWkE1eFlaMTJNczB5clhGejU1QW5oM3Vxb2p5MmhPVDdFdVdTNDlIUQ?oc=5"
-    },
-    {
-      "headline": "What Omnicom Group (OMC)'s AI Agent Spending Research Means For Shareholders - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUTEteXRFUmdHTkU2ODFCUk5STlhPV3IzSW1XcWlvU0hzalNMMGZXcDNCRTNvQWV1WV9zSUxHRkV5TzlrNEpCMXBqY0hMN2Zlc04zQ0MwOXJocUcyRjZ5Mk5JUVY5dDdLS2YyYWxGYVNRN2RRX0pxX3laczVwTGE5N1FDTVMyUUdoaDlRNXpyalpuQmhIbHRYcENqYUxCNGNJd1Jwa1RDbTkySjdqMnlRN29XaDgzQzZkMl9TdXBWWFBvTFFj0gHKAUFVX3lxTE1PWFlWdm5LbkRPMV9Zd0R3eVFhMHFIRWJObEtLM2hDVFA3OHJHV1k1Ukk3clVKUTAtdTYzVWxrTjBVNHloRTFMUGxHT2ZCTkpYY25PQzN3dFE3RnlrbmkxRGx1NXJnX2U2ekJMTjVVU2Q4SEpqTU1pRjMxT1hDMGM4Z04yd05KSDRWeVhZTmpEeERNbUdMU0tJU3ZqcWlCNkpaU0VrS1lfRV90aW5NUnVTYUVadXBncHJiYXcwWDE5ajlObEVLOHo0Z3c?oc=5"
     }
   ],
   "insight": "Tracking Omnicom Group (OMC)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:26.085Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:13.270Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    28.719999313354492,
     28.90999984741211,
     28.459999084472656,
     29.06999969482422,
@@ -24,10 +23,10 @@
     26.040000915527344,
     26.15999984741211,
     26.100000381469727,
-    25.270000457763672
+    25.270000457763672,
+    26.329999923706055
   ],
   "6m": [
-    30.989999771118164,
     30.18000030517578,
     29.440000534057617,
     28.920000076293945,
@@ -158,7 +157,8 @@
     26.040000915527344,
     26.15999984741211,
     26.100000381469727,
-    25.270000457763672
+    25.270000457763672,
+    26.329999923706055
   ],
   "1y": [
     29.75,
@@ -410,12 +410,19 @@
     26.040000915527344,
     26.15999984741211,
     26.100000381469727,
-    25.270000457763672
+    25.270000457763672,
+    26.329999923706055
   ],
-  "lastClose": 25.270000457763672,
-  "oneYearReturn": -15.058821990710348,
+  "lastClose": 26.329999923706055,
+  "oneYearReturn": -11.495798575777966,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Carnival (CCL) Stock Still Trades At A Discount To Fair Value - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXRiN29pYmQxOTJFRV9mWk5oUXFZamg0bFBLTFRrZGcwWi1SRGNEaUJ5VlhyQ1Z3OXlvZkdmVDNwcWdHUnQtYUlBQmc5U2xWZEg0X2xTNlk2al9WaGlfVGNZSXhvdnNYZ2pEdTdSWUU4am1NMFo5ckp2WTFTX0J3Tk9TRFhWYjhjaFA5UmZ2VGppX1g5SXROLTMtbmdjZDVEVkU2Mk1Tb2hSVmlGdnV1R1ZLbHRRbksyd0IyNXcwVXdVU21JN3BTRjBPNkfSAdIBQVVfeXFMTXlFSTZpWnZEOEFWajNEaEcxalVEZTdHZnN1Q2JBOGxzVU1QVHFFTU1kQjRVekFoVzJSTFo4MzhsSlNlRW9SOVVZNXd4d1RaMW9KWlU2SGlBZGRLLTZhZ281NFQzWWk3Q1pzeXJvV0dtSVk0TFF5SWROZXl5dnVZMnh1Ti1nZFhDSXZCNnB6UFdrbGhNc1d5bEMwQWVVejYzY3hrZ0xIOG83SHdOTW9wWjVwT2RZMldzc2FNelRxYkVVVWJEbm9naDNvWEd2a29YRHl3?oc=5"
+    },
     {
       "headline": "Carnival Stock Slips Premarket Ahead Of Q1 Earnings: Analyst Expects Solid Performance Despite Higher Fuel Costs - Stocktwits",
       "source": "Stocktwits",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHlkd3VIVTg4VElQM1N1Tmw5ME9CQk1VTHQwZkdzUlYzUGF1R0tpdVFPYmx2clB1Z0x0eE5aM185WVo3MGVuWHc5ekl2OER5RkhhaHVNTFpicHpVTmtQU3FQZHhRUlhpM29YLTJjUlp5ZEhmbUoxMDBHMkRPQlhTc1ZTNms5V0licjBtRUFTRTNLVURSV3ZBMUxxWFB6LUhhMnBxbWYwa092cEpiR2lV?oc=5"
     },
     {
-      "headline": "Do Options Traders Know Something About Carnival Stock We Don't? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlV2NEdKeDRpX2hHVGM4cWNLakVKYkFlN0U4dVltYWtKWFZQN1dmejJ5V1N4Zkk1Q096OTFSN0RTSGdFWjlLcTB5T21qLXY5Ukt5b2RHby1ZVWltOGRPTHB4alFueU96QmMwOTRVYVdCdDdoMzB5c3lmMVVSTkRFY3l2Tm1FQlEzOEc1R2tUVjQtX0syVG1zOFdBb1FkUndiYjVETjlrRWY?oc=5"
-    },
-    {
-      "headline": "Carnival Corp. Ltd. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFZjd0FQMDFRZ1N5Wk5BOHA1OF9TUU5VOXBJb2FtVkl1M2Fkc1dnUnFqM0JhcGlOVjduRE9WNmhiRkFwaXZFcFBVWG84TWd0WkliWG50Y1FSSjNlcnExVU1Id1RER0l5ZVhuOUxzaVpsZU1pZ0VxVm0zUmZpckpzRXJNemljUGJvWWtZNTlPM0pZdDh4TWpkcTlZN1I5QW1GVU96MzBvUGlSTE4wMDZIMDdjV2RyMnBVZ1pZTEJENWo4VzFGb0Njbw?oc=5"
+      "headline": "Carnival Is Taking $9 Billion of Debt Off Its Books by 2030. Here’s Where the Stock Could Go - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRFpDZ0o1RjI3X2dFcXBleUFmSmJoNEl0b2Vjal8zLW1rbFgta3ZIS1RqUjJTbmRfY3VrdGcxanpUaFZGVEFzRGVNanJVQ3RtN21fOGtJY21QWmZqZFU0Q3ZlY2ZqQ2p1bGJoVTEyS2Y5TzYyYnFXM25LQjBYc0VPR0VwU0VjRlc1aWx6ek93dGl6VHNDTFV4SnRQdmgzVFh4dUE5NmQ3SjFRNUtBdFExREdaaXNfQQ?oc=5"
     }
   ],
   "insight": "Tracking Carnival (CCL)."

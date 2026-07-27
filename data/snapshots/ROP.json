@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:59:03.159Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:47.242Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    329.5400085449219,
     331.6000061035156,
     332.4200134277344,
     338.30999755859375,
@@ -24,10 +23,10 @@
     362.8399963378906,
     350.69000244140625,
     336.7099914550781,
-    355.1199951171875
+    355.1199951171875,
+    367.3399963378906
   ],
   "6m": [
-    426.3599853515625,
     424.20001220703125,
     414.25,
     416.1400146484375,
@@ -158,7 +157,8 @@
     362.8399963378906,
     350.69000244140625,
     336.7099914550781,
-    355.1199951171875
+    355.1199951171875,
+    367.3399963378906
   ],
   "1y": [
     563.030029296875,
@@ -410,18 +410,13 @@
     362.8399963378906,
     350.69000244140625,
     336.7099914550781,
-    355.1199951171875
+    355.1199951171875,
+    367.3399963378906
   ],
-  "lastClose": 355.1199951171875,
-  "oneYearReturn": -36.92698850171995,
+  "lastClose": 367.3399963378906,
+  "oneYearReturn": -34.75658895199012,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Roper Technologies (ROP) Stock Faces One Off $1.1b Gain Driving EPS Surge - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPckgtaTJIaEM1UXFZNy1IUlFzSWdYV1RmWnpJcWVUYWJCZ3pNNnRWNWczMGgtZFM5RlNleTFVQ3I2LUdqQ0NhZE9SZ3o3VGZYeHVjeU5tdGVYWW1zcFZ6YTV1V0tkTllRMVlqd294a1JnakctTWhNSnUtcTlhTmg3RUd3a0F0QmZDYmYxdzd3VGRmTzY5Uy1SVldmcGJmNnFldnBqUU5ucDNEQU52aFR0VzdBMVZNUFBXbWI5NkxEcWNITnpvN1AtcldDdGlhdVowc0s5TmhR0gHWAUFVX3lxTE9ySC1pMkhoQzVRcVk3LUhSUXNJZ1hXVGZaeklxZVRhYkJnek02dFY1ZzMwaC1kUzlGU2V5MVVDcjYtR2pDQ2FkT1JnejdUZlh4dWN5Tm10ZVhZbXNwVnphNXVXS2ROWVExWWp3b3hrUmdqRy1NaE1KdS1xOWFOaDdFR3drQXRCZkNiZjF3N3dUZGZPNjlTLVJWV2ZwYmY2cWV2cGpRTm5wM0RBTnZoVHRXN0ExVk1QUFdtYjk2TERxY0hOem83UC1yV0N0aWF1WjBzSzlOaFE?oc=5"
-    },
     {
       "headline": "Roper Technologies Stock Climbs 5% As Company Raises Full Year Profit Guidance - TIKR.com",
       "source": "TIKR.com",
@@ -433,6 +428,12 @@
       "source": "Yahoo Finance",
       "when": "2026-07-23",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWm91R2VoRlc5S0ZGdDlURUdQemhySGtmQURDUzc2QnNGdkttd1lpMU8ybkJwSmdKbXhWS29TcXN6ajRORXpvQVNqZnljUmhHOHBmS29HTFNhUk5wRFo3bmRLb3YtUkJnRVlYRVNNakt0OVpwcEhoSF9oYXZGb29EdzZqc3ZRNGRlNEpfR00ydHZXbnJhWENFOUFSYw?oc=5"
+    },
+    {
+      "headline": "Roper Technologies (ROP) Stock Looks Reasonable On Earnings While Cash Flow Suggests More - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOHJ5eFNXdzdpR2RIWko5MHlEcnI1NThmLU1DY0VZLTZaSEo3U1F6MnpaOUdHNEFQNlVnMGNJUF9YNXdQdC05NHVUNzM1UlFfQ0FsZ1dqS3hZbjUwRTdhbmVPQ1h2SXNyU2tRMGlxdUc0cHpOSnpoVVlJLTRWSUtCUUoydFFmQkRJNjBjTEtOcFU5TFQ4czNPTkhPNjBBcUJXRG1Ydkxzbm9kRmNGZ05INnhLUkV3V0NkdUdENUJBelRQak14T0N2RFk2aWFtZlFweEHSAdcBQVVfeXFMT0h2QkZhTl9uY0t1RHBhQ3lCV3JrU015cy1jYzhzN0kzMmpCbk9pMHNuc2hWbFpfejV6T2EtRXZXbTdNa2hTeVJEd1M0eW1XUVg3ZEdmZDVBZlFJWFVZZkt4Z3RRNy1VTUI4Vi1ScjRZYjJRYVF5eE1pbWQ3dUptOFlaRG1vZHZ0OXNSQnU4NkFwYjJmMjBDS2JaVGxrWWltdERxd0U4X1hPdE1HODc3VGQzNnVCcnpVMVJYeEFRWDdZeHlRaU1zc3NVUkdtVWhQWGZQa09NckE?oc=5"
     }
   ],
   "insight": "Tracking Roper Technologies (ROP)."

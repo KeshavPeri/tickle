@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:21.331Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:09.157Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    433.0400085449219,
     456.7300109863281,
     444.7300109863281,
     464.8299865722656,
@@ -24,10 +23,10 @@
     527.47998046875,
     511.1700134277344,
     491.489990234375,
-    491.8999938964844
+    491.8999938964844,
+    502.3399963378906
   ],
   "6m": [
-    641.510009765625,
     629.219970703125,
     637.1900024414062,
     636.0399780273438,
@@ -158,7 +157,8 @@
     527.47998046875,
     511.1700134277344,
     491.489990234375,
-    491.8999938964844
+    491.8999938964844,
+    502.3399963378906
   ],
   "1y": [
     735.010009765625,
@@ -410,18 +410,13 @@
     527.47998046875,
     511.1700134277344,
     491.489990234375,
-    491.8999938964844
+    491.8999938964844,
+    502.3399963378906
   ],
-  "lastClose": 491.8999938964844,
-  "oneYearReturn": -33.07574218569648,
+  "lastClose": 502.3399963378906,
+  "oneYearReturn": -31.655353034161614,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Axon Enterprise (AXON) Could Be 17% Undervalued As Board Adds AI And Enterprise Expertise - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONkJTTzFzMHVuTEFyRFVoNkduRjIyZVBiYkJ4ZVBTUks0aWg5U25DUldPSVN3UmtCeHZSLWdTV2F2dlpsa0E1aVU2cWM2d09JLVRsa2tVMDFvUGQyMHBNOTR5REJUbUVhd3NBMVBMY2JnYlNSR0sxQnVZYzhXcDJWQ0s1a2dOQUVOU19pdVU1QTA0VTA4cDZadEptREFDc0E2QUNDMEl5RlowR1JsYnFDWk1taWxhSEtvQzBKY3FGZlE1SkxKZWpjWmczcVlZVjJfQkptNjlR0gHbAUFVX3lxTE9ZSmtmT0FlQTlmYmVSMWNBcTlDR2pGcy12VDVyM1I4Ykx4eGVEY1hfWC1ETW01b3dJcE9QcUdQSWNEMDlIRzZGclpRaW00cU93SmlXR1A3SmU3U292Y3doa3dKb3FkNUotM2Y3enhnZDBYakhqS2YwbjJDMjRjcm44ODJBVlBCUFZPSkwyaDE4ZXZOSWF5R0tiVmxsZTBoSFR2N3RNYzNOb1lSV3FQSkJGT3FGMllqV3dJMlByNmQtMHhiZkV4N0l3VjdMT0VoS1hpdnc4MzJVLVFJbw?oc=5"
-    },
     {
       "headline": "Axon Enterprise (AXON) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1QaTNXaXBSa3FqSFRQS192eDUzdzQxdGxUMGk1aEQ4VktxRUFtUGxHMU5OUGx1azBEWHVuZG1vLUlCcm1QeE1VZWx0S3NjVW9haGdfV196NS1idDlGTk9uWGNPYVdDc1NuMTVXejRuWGJEUHRyeE1Za2dDT3RubnlvRXh1ZFhMUUFxZGkzcTk4RkNUZGxkZGVjMkFtZw?oc=5"
     },
     {
-      "headline": "TD Cowen reiterates Axon Enterprise stock Buy rating ahead of earnings - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOUh4NlVYTFhSTWxTdk5KSnFoQ2lrd0dqVi1SeFAxNkNYTGI5enVURm1CdG16SXpCeDRHMC1OVEx0U0ZBUFhKaVVnd3BXY2FHbUVhWXJZU0RsZ0pETVMtdTVjcjJjX09hUWh3M1dOUEV0RE5BYU1kU2RCbXFfcHhiM2lhU1JIM0xrZ1huQ3VSeDY2QTFvb2V6QUdrdmdRMDd0YXFVR04xN2RpRkJKTXo1Tlc2bFVuQTNhSy1XaEMxc3JoRVpPMnRXMTlR?oc=5"
+      "headline": "Sei Investments Co. Cuts Stock Holdings in Axon Enterprise, Inc $AXON - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTzdYbUhJbjN6QzRHV2hHYkFQSDFZWFZ1RlpjUlJCczBzbHdvTms3RWEyTFFrWDNqVVBzRUFaNHJib0ZQTnFQNnpvY1VnQ21aaXUyMkhkV0pvZmhuNFA1MDdoSWxrTExhUGpWT05meDV5M3hQMVdOT0wzamhzX0VHUVlBaG5OTS15RWFYOFpGdVliR0U4WU9OWWZTSWR1S3pwMmlpSVpFejIya21pZTg2N1FfVE5vS2lJZ0dfVnhKLUR2ckw5a3c?oc=5"
+    },
+    {
+      "headline": "Axon (AXON) Stock Looks Expensive On Cash Flow But Cheap On Sales - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVWpnZ1VMY0xGcV85N0xGYlRMc3VjbWpQaF9ENXNKaEdVR2tQdlVneDdyU2RJSEEzcFJ4Y000c1RFM2o4RG1JcjdVVktmNDZYOUZfYWNoUWFwVEsxdHRzNkxFLXBkWlByMDhXN0tiSVIxVHI4RGprWXQ0VmVqOUZja2tscXRFdGdmQndkdTBweEdOVk95MGNPaGJJN1JhZWJMMm5GaXREbmxGdFExOXg3UEh4XzNQLUhfYUFjcHIxd1FwdFJzbS1tLXF4VXI5TVBKQkN3RHN30gHbAUFVX3lxTE9EU3hlQ0JoOC1yeHBEZHdWa19GUWs5eDdDTnZRLTlVc0dxVzhjdTR2TGZ2T0hBUnBaall3UGdBaXl5Mm9lYzBITWcxLS1YeGRrWFJWRFpLZmRra2ZDdU1DN253RExVd19WYVFiY0VfRG55VE9KVFdJUENGcm9FQ3AwNnBrbUFzQzJnWlRreVFsTW5WaE4zRnA2TEh6Umh1OWxianVob0E5c2UyUWRMa2w4a0VjcXVRWnRQdkN5WG1FbkJZX1l1ODdHLWRJUldnVjFtNm42eGtMd0J1MA?oc=5"
     }
   ],
   "insight": "Tracking Axon Enterprise (AXON)."

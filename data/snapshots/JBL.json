@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:51.503Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:36.821Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    372.989990234375,
     371.79998779296875,
     374.6400146484375,
     358.6000061035156,
@@ -24,10 +23,10 @@
     305.9100036621094,
     318.92999267578125,
     318.2900085449219,
-    322.0400085449219
+    322.0400085449219,
+    312.5899963378906
   ],
   "6m": [
-    238.35000610351562,
     241.33999633789062,
     253.17999267578125,
     251.2899932861328,
@@ -158,7 +157,8 @@
     305.9100036621094,
     318.92999267578125,
     318.2900085449219,
-    322.0400085449219
+    322.0400085449219,
+    312.5899963378906
   ],
   "1y": [
     222.5500030517578,
@@ -410,18 +410,13 @@
     305.9100036621094,
     318.92999267578125,
     318.2900085449219,
-    322.0400085449219
+    322.0400085449219,
+    312.5899963378906
   ],
-  "lastClose": 322.0400085449219,
-  "oneYearReturn": 44.704562628123604,
+  "lastClose": 312.5899963378906,
+  "oneYearReturn": 40.45832040055846,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Can Jabil (JBL) Stay Undervalued After Its $1.5b Buyback? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFgybkY5N3VneFBWalpERC1PXzhiWk8zNG1jLUNWMklzQXAzSDU2ekNjeGNSSFJ3NFF6eTFQdEhUWFBDeVdpWjJJQ3RWY3B2SHA0a3kxQmhOYWViV0tJRHRnTjZQYXhwTE1OQjBQeDVETE52NlJGdmZCdWhiTG5NN09vUU1jUTVFdTZaTjZMZUlrY3pnOUlhWmg2cm11RFhZMkU5ekJCNUZtbWdDSkHSAbMBQVVfeXFMTW51NlJKTlRINGdEMVd1OG1XamhNbGtrUzNaUUVlX2NraDY2LVZhMXNXQVZWazRvckZSbW4yYzVCUGQ0aDdPVG92VXY1QWZVSFpIN1JBa1dDVHNobDc3UEdCbEpNY3NPMkxUcWJuci1lTkxwQ2pFYmVtLTItYkZialNoS1QxQTk0dGhBWFRlTmdlYzQwcVhadE1TSHh3Qkc3cGo1WHhRZnRVQ21fLXRJYnZfWG8?oc=5"
-    },
     {
       "headline": "Is Jabil (JBL) Stock Outpacing Its Computer and Technology Peers This Year? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXowSzhUWDlmdTVCcmlEcHpmclZENWUtT1BrN3VYNjR5cUlwVWdkNlBhX1czSk9NdGRzLTBwS0hvVmMzZFNaNzJiNjNKaXVEMFAwZFNpU3o4Y2ZfSzdZNVh6ZFAyTG03T3g5VmxuQzVHbnVyeUxhb05nTFNtWDFhaWlRUDRGWndsX2lFZnBnTW4xVmVyYnhpT1d6YWYtNzc1?oc=5"
     },
     {
-      "headline": "Jabil Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0FxbndSWmloaUxWeDJ0WjhUbzk3UmFud1IxcGNmaDBCcEVCTlo4b0JCVTc2ZGo2Z3JiREgxUS1BaWlVMkxWVzlXVDJXLVBOSEdFSlNyS0I1Q0haN3VFRHV5TlpMbm9WSzdJVGRUMzBPVkJWUUZoS0VkdDZ1LTZ1UUx3Q09pZ040STVJcmdJSVNoZ1BSOVl1bldpaUlYTHByRkUtT3JaZTdsLXBFbWJiME5ObzBTbWp5TTE3VzRwUVBnSlU?oc=5"
+      "headline": "Can Jabil (JBL) Stay Undervalued After Its $1.5b Buyback? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFgybkY5N3VneFBWalpERC1PXzhiWk8zNG1jLUNWMklzQXAzSDU2ekNjeGNSSFJ3NFF6eTFQdEhUWFBDeVdpWjJJQ3RWY3B2SHA0a3kxQmhOYWViV0tJRHRnTjZQYXhwTE1OQjBQeDVETE52NlJGdmZCdWhiTG5NN09vUU1jUTVFdTZaTjZMZUlrY3pnOUlhWmg2cm11RFhZMkU5ekJCNUZtbWdDSkHSAbMBQVVfeXFMTW51NlJKTlRINGdEMVd1OG1XamhNbGtrUzNaUUVlX2NraDY2LVZhMXNXQVZWazRvckZSbW4yYzVCUGQ0aDdPVG92VXY1QWZVSFpIN1JBa1dDVHNobDc3UEdCbEpNY3NPMkxUcWJuci1lTkxwQ2pFYmVtLTItYkZialNoS1QxQTk0dGhBWFRlTmdlYzQwcVhadE1TSHh3Qkc3cGo1WHhRZnRVQ21fLXRJYnZfWG8?oc=5"
+    },
+    {
+      "headline": "Sei Investments Co. Sells 27,135 Shares of Jabil, Inc. $JBL - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNnNGZVpZVHpOTXNYRXBwUmI3ZDhGejM2dXNmcm9WR296Y1RiR2NLYWl6WGVIczA3MThyazVYWWJfMlVHQTJyS0pVa3lHXzhtZ0VLa0dfZE8zRUtsdXljOVROVzRsTGRHenVWbDhQb0hlSkVwelYyTkpWSnJRODhRQnF0U2NLMmVYTHpTQ00yY2ZvSDgtcWVCS0ZDRUZGM2ptS2V2VFNzdzdtMVJ4dmhCU2NJZDdvQQ?oc=5"
     }
   ],
   "insight": "Tracking Jabil (JBL)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:34.375Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:21.990Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    113.41000366210938,
     119.3499984741211,
     118.20999908447266,
     123.87000274658203,
@@ -24,10 +23,10 @@
     126.37999725341797,
     125.73999786376953,
     122.1500015258789,
-    117.6500015258789
+    117.6500015258789,
+    120.44999694824219
   ],
   "6m": [
-    137.3699951171875,
     140.2899932861328,
     141.2100067138672,
     139.9499969482422,
@@ -158,7 +157,8 @@
     126.37999725341797,
     125.73999786376953,
     122.1500015258789,
-    117.6500015258789
+    117.6500015258789,
+    120.44999694824219
   ],
   "1y": [
     114.41000366210938,
@@ -410,23 +410,24 @@
     126.37999725341797,
     125.73999786376953,
     122.1500015258789,
-    117.6500015258789
+    117.6500015258789,
+    120.44999694824219
   ],
-  "lastClose": 117.6500015258789,
-  "oneYearReturn": 2.831918328871239,
+  "lastClose": 120.44999694824219,
+  "oneYearReturn": 5.279252768814616,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Does Dollar Tree’s Multi‑Price Push And Store Shuffle Change The Bull Case For DLTR? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMm00VzZRY1FMZ2lpY091RUZjYnRGYzYtSHo5cnJacHVydHBGSHFpQWVjd2x4N1FzNThYNlpBX1BfaWQtbTZJMW95TWhfZ3hnbkdkSWdORTZ5MEhxVjcyOXVUS29Mbms5WFk5cjBVcnBDNEtOTThOcDhmM1AtS0xiS0xuV0Qwa0xITXdMMjZGOWJuVTkzekNyMjNKamZXdWlXMDhzQlJ3MDd4cmxlcjhBa0I1cmc1WGZ2UDFZZXR1QzZhTmFnQ1VGZ3dqb2x6M2ZsUFo0OWw2REF3dkN30gHcAUFVX3lxTE8ybTRXNlFjUUxnaWljT3VFRmNidEZjNi1IejlyclpwdXJ0cEZIcWlBZWN3bHg3UXM1OFg2WkFfUF9pZC1tNkkxb3lNaF9neGduR2RJZ05FNnkwSHFWNzI5dVRLb0xuazlYWTlyMFVycEM0S05NOE5wOGYzUC1LTGJLTG5XRDBrTEhNd0wyNkY5Ym5VOTN6Q3IyM0pqZld1aVcwOHNCUncwN3hybGVyOEFrQjVyZzVYZnZQMVlldHVDNmFOYWdDVUZnd2pvbHozZmxQWjQ5bDZEQXd2Q3c?oc=5"
-    },
     {
       "headline": "Why Dollar Tree (DLTR) Stock Is Up Today - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-10",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUdlbkN0Zk9mYlNqM3lsUlh1bEhLZFo4c0p5QzNGT0hlLTlVQnJ4LTA5ZnBaVlJCcUYtVThHeFVDRF91a0E4TjZKREVWNm4zdDJDQ1JTb21RQ01YSWhQSlBJYkRTQmt4Vk1sLW83Yms1QTl6WEJYUEt2OE9xdVNpM0FUYW8wWFRHVGpCOUI0dVlmUEF2aVE?oc=5"
+    },
+    {
+      "headline": "Dollar Tree (DLTR) Stock Looks Like A Bargain On Cash Flow And Earnings - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYWFnN2dQdnFGSWJrZEtjZm9ZUmMtaWJaZGg4QjM0LXpqQmphV0c0VXVyNzVlMWRWSXoyWDJadWI2R0FEXzBCMlo5TzR6RHhURnFZQjk5c3Zfa3QzblRKdjJHMTFadXRGYlgzcW94THhLQ3VFZHQ3UnBFMTdZZG5hN3NXdlBEWGhIX0tWblVGTHlnbmV3S1pkUmRZeXZ2anZIOFNUMmxVWGpydkM1WmI4NU13NGVVNnducFZVbVZyRERDUzZQeDRJWEZOaWRSdktfamFDMzFZd9IB3AFBVV95cUxPbGpBM0FkVF9ONk44ZWVlMDVFZV9IZlc1eV9FZWxzQllrS0MzRjFPSWVKZEo0ZWhVTDY3M1MxZ0VuanlaZlJDOEJ6ekYwUWh0YkZwaDV3VHluX3cxbXZmY3QyY3VuMFU5SFZKUmFPakdFLXY0T1RwWktCQzVtNWNnM29Pa3JaNUpiY21BQVZMeGZ6Sjg1OEZOVktQVF8zUUs4b2RtWFZXc1dwTGc1eVJ4cXVMRlVoeFZuTXc1SHo1UDN4QzdQQkIwaGZwMHNnbGVVUE9sUWJLWXJXNXd2?oc=5"
     },
     {
       "headline": "Dollar Tree shoppers keep hitting the same frustrating problem - thestreet.com",

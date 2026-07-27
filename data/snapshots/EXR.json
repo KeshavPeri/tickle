@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:39.876Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:26.855Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    147.75999450683594,
     145.86000061035156,
     147.19000244140625,
     149.2100067138672,
@@ -24,10 +23,10 @@
     147.27999877929688,
     145.5500030517578,
     145.0500030517578,
-    145.4199981689453
+    145.4199981689453,
+    147.7100067138672
   ],
   "6m": [
-    140.5,
     144.72000122070312,
     147.1300048828125,
     148.8699951171875,
@@ -158,7 +157,8 @@
     147.27999877929688,
     145.5500030517578,
     145.0500030517578,
-    145.4199981689453
+    145.4199981689453,
+    147.7100067138672
   ],
   "1y": [
     150.86000061035156,
@@ -410,12 +410,19 @@
     147.27999877929688,
     145.5500030517578,
     145.0500030517578,
-    145.4199981689453
+    145.4199981689453,
+    147.7100067138672
   ],
-  "lastClose": 145.4199981689453,
-  "oneYearReturn": -3.6059939144882738,
+  "lastClose": 147.7100067138672,
+  "oneYearReturn": -2.088024581559117,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is Extra Space Storage Stock a Good Bet Ahead of Q2 Earnings? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHh5UHpfODA2bUJ3MmpUR3lTUzdXS3dGWmdyd2pPUWc1LVNtWUs2SzJRdURWc3NIVjllbDM4Wmg3NXVYWVZmYmk0WE9vWFk3VzNObkFKVE0ycDh1SnRlOS1CMHZ4Mi1oZlZCcXRLSlhQcXg5TU14cDhOMUNTb0NOY3J2bjRrSkZuZk9WbkVqN2w4MEdLVzZF?oc=5"
+    },
     {
       "headline": "Is Extra Space Storage Stock a Good Bet Ahead of Q2 Earnings? - Zacks Investment Research",
       "source": "Zacks Investment Research",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaFZRbDlMVHpsZTNaSGpKRTRzUGwxY1ExRnI2aGtjNHRJZ1Nra0sxLTVaRF8xR0Ixb1Y4X0syYVV6NnQ4UGw2YlF6VzYwbFBrMGRFYlg5MmtRZnJhM2NES1RrcTFDZEJORVpZN3U5eWhyd2FWUjNVM09ZOXNqdHZINS1Ec01MRmt5ekdXTUFJU20zTktTYkNhZEtfNWpHWF9fb1FN?oc=5"
     },
     {
-      "headline": "Wells Fargo Keeps Their Buy Rating on Extra Space Storage (EXR) - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUnpHWm1yeThXN2g4UHUzaXF0UUMtbHBXZGIzb3FVVmxaSExZZVhtXzI4eGZ1eldwcmJkN2o3a3ZqdUpGdWZoVVFTT3FWckV2azFoRTk5Slp1cTFsLURibFdPWFR6eXVWS2VTenBMaEx4VTMtaXh1V3pHNmRQWnRodjNkejdnWnVEN2YySDNCb1ZTN2pQd2ZmS21IOGR0UHRsNUtYZnhJX1pwc09yYWo0Z2VkSkhzakpCVFl6cUpRd19LbkJ1WWRiUmxvc2xXZHlHYnFKNW5fYVlFdw?oc=5"
-    },
-    {
-      "headline": "Is Extra Space Storage Stock a Good Bet Ahead of Q2 Earnings? - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDF0QkkxMk5KZVJZUHhXYmhTMkJFTk9nXzBmVWJSYk9MWXcyUmZ1LTd4Tk5JQ3lYbjY0ajV6c203Zkx5MkhGLUh2Y0FLYWxSa1JDVVJVcW5adzVzRDhpYXdSc0xHaU5GUHhkOU0tbDk1SS1UaHkzOWl3RUdRelRpWW56VEtnYTV0bVV3Rmg3U1Z4SElhcHl1dF9iZXlpTzk2cnd3QTZtRDQ4eHFDUVlfWEd1WkNHN2s?oc=5"
+      "headline": "KBC Group NV Has $3.96 Million Stock Holdings in Extra Space Storage Inc $EXR - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSzRZeEhrNUtibzNEaWdjWkRqZG5MdEs4emNTZE16TDB6eWNNUkptTVZYaW5aQnB3NzF6QTNSdlNZWnkxS1NPWEozYzNJRU5UQUg2bDdQcVU0dHlGbjFFdkt4OHd3cndpekoyUlVWaFBzWGNSdW9sLTNheHlUdFo3b2pmQVZRTVpjOUpDUkVuYWJ5ejA5cUQ4UjFCVlR5YkJ0bExpN2tPYzZIRU8yOHYwbzcyTXB3UjBZLVRjbHNwNFVQaU92REJYNU1EQ0E4MzF1?oc=5"
     }
   ],
   "insight": "Tracking Extra Space Storage (EXR)."

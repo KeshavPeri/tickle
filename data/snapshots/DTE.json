@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:35.105Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:22.630Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    149.19000244140625,
     151.10000610351562,
     152.80999755859375,
     154.42999267578125,
@@ -24,10 +23,10 @@
     145.9499969482422,
     145.02999877929688,
     148.5500030517578,
-    148.1300048828125
+    148.1300048828125,
+    149.4600067138672
   ],
   "6m": [
-    132.1999969482422,
     133.9499969482422,
     134.61000061035156,
     135.50999450683594,
@@ -158,7 +157,8 @@
     145.9499969482422,
     145.02999877929688,
     148.5500030517578,
-    148.1300048828125
+    148.1300048828125,
+    149.4600067138672
   ],
   "1y": [
     139.42999267578125,
@@ -410,15 +410,22 @@
     145.9499969482422,
     145.02999877929688,
     148.5500030517578,
-    148.1300048828125
+    148.1300048828125,
+    149.4600067138672
   ],
-  "lastClose": 148.1300048828125,
-  "oneYearReturn": 6.239699249831795,
+  "lastClose": 149.4600067138672,
+  "oneYearReturn": 7.19358428240679,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "DTE Energy stock trades steady as earnings and dividend set the tone - AD HOC NEWS",
-      "source": "AD HOC NEWS",
+      "headline": "DTE Energy: Q2 Earnings Preview, A Regulated Utility With Data-Center Tailwinds (NYSE:DTE) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWs0czlQb2VnNVNrdVJXYVRPZ21GRUx3NVBKT0VUUzE2dXZ6RkF6RlpNODBTNkMxQ0paNm5CemtFQ2EzMnJmdVBwbHFuNW5wRWxSNEdnN2JlbHEtaTJTbGNLWk15ZVFlX3pXUTJQRlB2aHFZNzVuMGxSQldfZEJZQUE5M3Ezcjd3elJ3M0RuZVJMOUFLbHR6QzNDWTVSUC13WUx3X2tzR2hTNk40aWhjMklKeFdvdjJ5S0E?oc=5"
+    },
+    {
+      "headline": "DTE Energy stock trades steady as earnings and dividend set the tone - Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
       "when": "2026-07-25",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNci1HZzVHQndkOW8tMDdBZDJIVXYtZFhJTHpLQWhzLVkzaV9CNk0xMDhXMTVZR0o4dTdJbkRkUkxvLWxOLVd2Njg3ZDJYbFRDZWdkQm1RdUI3NnJVNS1QMURQZEZQZzJCTkp2TTVIbFNxY0VLSkNZMEdGbkV5Zng2bFI4c182bFN6TTVOMVY3bmszUkNBRjg2SzdOU1gyazA4a24zTXc3dENSV0NhQmdVQzNvT050aGdJYnZqWlVXM3ZuVEtEbnc?oc=5"
     },
@@ -427,12 +434,6 @@
       "source": "MarketWatch",
       "when": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzZMb2dueDMwMWlzdzgwMmpYa0RuMV9ETGkzWE1FV2dTcHBmczhQd293SGJSY205Smt6UjFCWXBXWmxoUXZEZHJRdEN1MXFVeElpTC05TU5Kbksxbi1OcHdWbDZLVTFTeVlSRmE2SHExYl9jY0hWbVVpOVQ5aXE5anlSQ0JHREJrQmR6T1lHQkNfdTl1ZzJ1VEtGaUhxOHo0QXZOTWdSSmlJUHN1X0ZzMXRIUDcwazItZlNtRjI2aVhNaTg?oc=5"
-    },
-    {
-      "headline": "DTE Energy (DTE) Pulls Back On Grid Growth Story, Is The Stock Still Cheap? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOHBmeHJ4NnBRYjNTZVdhLVRoeHF3VzU4LTBnYzNJWVl3dHdaaE5IcUdfckRJbUZsdEk4dkNrZW1nU0VZUGp1bFpGNVJWdmgyWTBBREJWalFBUXNGNkxweVR2M1lBVVVNM294TndsSE4tc2xqOUlaMnFwQzlSbTMwUUF6dHktTElkMjNqTk1kZWhTcE1obnBSQjhlb29MVVRGTXYzNjM2VGlfNmw4bzc1dl9YcFZGbC03TmFYSjJqbDhEZFNO0gHKAUFVX3lxTFA4MDRrUkJyaHNuNHdGY2RMbFlyVDRBY3dqLXlEUzNpQzkzY2xCdlR6WDN3ejBhOUgzN0VrLTNXQmJFWk9HRzhkREZKREZZUlpaQTdxdEU2a01jaFFIVjkzQ2hIM0NoWllYbG9LS3JPdGhYQTFKYXlFeFVRa0k3N0pyTWRIdnRlSk9QaXEzVUU5V24xR25KNmZMRG44QVl5eWEzZVJCYy1BYl9GQmtxUVZxSm55X0xGMXRQU2pKRmR1RlBQTlBpRnpyNEE?oc=5"
     }
   ],
   "insight": "Tracking DTE Energy (DTE)."

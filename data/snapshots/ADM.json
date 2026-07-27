@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:15.763Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:04.533Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    75.83999633789062,
     75.08000183105469,
     76.54000091552734,
     76.79000091552734,
@@ -24,10 +23,10 @@
     85.66999816894531,
     86.19999694824219,
     87.31999969482422,
-    86.3499984741211
+    86.3499984741211,
+    85.91999816894531
   ],
   "6m": [
-    63.380001068115234,
     64.5999984741211,
     66.56999969482422,
     65.18000030517578,
@@ -158,7 +157,8 @@
     85.66999816894531,
     86.19999694824219,
     87.31999969482422,
-    86.3499984741211
+    86.3499984741211,
+    85.91999816894531
   ],
   "1y": [
     55.349998474121094,
@@ -410,29 +410,30 @@
     85.66999816894531,
     86.19999694824219,
     87.31999969482422,
-    86.3499984741211
+    86.3499984741211,
+    85.91999816894531
   ],
-  "lastClose": 86.3499984741211,
-  "oneYearReturn": 56.00722828293131,
+  "lastClose": 85.91999816894531,
+  "oneYearReturn": 55.23035327474711,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Archer Daniels Midland (ADM) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+      "headline": "Should Value Investors Buy Archer Daniels Midland (ADM) Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTNQYjJLa2NCSlR0VjJkYXRNUk5URnVFYjM1aG43Yng2cjU4NE5qMXhocklLaFFwRko4b29zeVpLbHUta0lCcFFfUng4T0dqTlRpYmc0RXJ4VUpQQmVuOUhOVWVJOHJMZXpUekE5dV9fLUtKTTI1alAwZHFKSU1jcTJjQWF2N0tnTTRUZUpHYTdOMVpzVjdCNGNQVFhKZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOam9BdndXOVlqbkFiajdzWVFQUmJhc2RaOXd6WVAtVW1tNldtak1hUjMwc3Y1MmJwRnFING16eXJQX2ozZDBRZzFudVhubE53TnpnbGxISVB4VHFVcWZDS2p6OWh1Z1Y5RWJGOHd5SEg5VUpPN28zOTNyMVNUSzdJQmFZMDI2bVBBQlBmZkFqU0VwajFJQVVuYnI4dUlXc19n?oc=5"
     },
     {
-      "headline": "Archer Daniels Midland (ADM) Could Be 15% Overvalued After Walmart And General Mills Deal - simplywall.st",
+      "headline": "Archer Daniels Midland Company $ADM Shares Bought by First Trust Advisors LP - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYWI0WkdCRDZ2VF9FR0U0V0RQMlJNOElLcjdES1daUlE4SGRaRGUxdDkzeVp5bzFHY0JnV1lUaVNCclZjb2NNWXE1dVBHUmpsZ2VMMkl5YWRVUEpHcEJBbmVnZzJUM1hjbGtLMGdNTjlYT1AwckFJR0ZqNmhERFlRSm1tLUxXcTIzWk1ET2hNN0owbkppRjBZOGxNTVNuM2piMGdlQVR3ZWxyTEdCdm52aU1Kb1hsOGpRYmFfWGd3ZlkxNVFvbE96di1GWW1TWG5wb2c?oc=5"
+    },
+    {
+      "headline": "Archer Daniels Midland (ADM) Stock Looks Above Fair Value On Cash Flow And Earnings - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQmtOWHp4OUFxaUVoRjdkbGkxNzhYa2NTYlA4a2dEcHQzeGYzZ3czdEpSeFBtSXRSdzR6M3RnV3k3Wm9LNDNrelY3cW9UVzNSLU1fcDVhRUJHZW45M1gzVkRQVTdvbjdVTWtqOU51NGxpbzBYX1lyU3VXUF9TenU2dk5TNFdpcXhlMnItdTdDYW9wOWdxUWZJVUljWkxpaWh5Wkktc3VzV2hyMGYwbXdxTlotcXVWMy10cXdnckVFRjRabHdvM09KZUxKLTg1VnA2eVp5ZXM1VXRFU2VfbEZ2NXFSOE04d9IB6wFBVV95cUxQaWpVSkIyZi1TTzJ6dkl3VnktSTk4dnBvSXAzdE5aUjRUUW5YRzhnRVVNQ0VHVVl2aW9xWXJ5UXpvdEgzUmR3dDI2blR4cnRoSzd5b3VrbE1aRURfN2pJS2lyMmhrbGlQZFNOenptVENOTVl6Tjg3WFkwbjNpQklaaGhlZnZoWVJOcFNxQzUxNXNwVExLY1QwcXotYUh2X2dtSW5jcUluWlltQkNaVkdiT3VuMlotVTFMSUJDREVsVGMzRVFveV9UUlFSTFlIZGQyNmluRWxaU1NoTW82OU52WjhGelNOZUJnSGpJ?oc=5"
-    },
-    {
-      "headline": "Archer-Daniels-Midland (ADM): Buy, Sell, or Hold Post Q1 Earnings? - StockStory",
-      "source": "StockStory",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYnlTVi04QVV4RkFLMFVJUGxDZW9BdnktZ2s4VTBybHkzd2NBZXJWSkN5VUxLTUF6d0h3NG1ldUNKTlBidVVZWFJXSmhHRmdEcy1pOWlvMDlxdElwSDRVRk9fWVNQcE9CV21iUFMyWlN0dlVsREZEcDVTNk10WG1EWXlxS0RJb3hlajVQaDlDVjFzM3hxVUdxTTdYV2pLWWJGd1NfbWMwNUxNRjk1UmU1blZxTnN3amNwZWRF?oc=5"
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU2EwYUktbEg3OEs2M0R0Y2pIajhMeUpaQ0kzOHh1NmhDZHpDSHBmakE4UmVyN01vQTY3SjRyMVZBSVViUmFWU0EzS0tIbmgtdHBnX1ZvbTY2eElXeV8zSDZmV0xNVThmcjJEejJNbi1HeXJpTzQtbnpPOFZfckFZMlJyS1NTcGNGOFIxdTNTd01DOC1RTUVCbkRnS1UxdzJldUU2NVJ5QUIzMzA1aHVBamM2Q2kxX1Z2MDllcEdKVllXZlFnV2ZjSmhzT3pZOENBX2UxQ01iUHFaX0kwelMxeW1xa0wyQdIB6wFBVV95cUxPVDBWR2lPSTZtU2d0RGNXZFlYTDlVNVBYeUdCT2FvWTFkRE9HT0ZEb3VobDF1RS15MGFoNEFDbGx2MVV3ZDlrT2JnNHNOTWJGb3RGT0hId1ZmODZTZmltTE1COFZfRC1LR1MzNHhxd3FSdlB0VmgyOGQtT3lLRUVkN0x4a25TSXZQU1p4cjNDb2kyUnliYUNUMlhqSGozTVpUcDJpSE1pdHBockhac19oeHEycm15QW5ONDhyX1ZmZkUzUHVuT2FtdldGMnJMZ0dsV29DTjhnZU9qbkxDazN2aXRzU3VXcnloZmhV?oc=5"
     }
   ],
   "insight": "Tracking Archer Daniels Midland (ADM)."

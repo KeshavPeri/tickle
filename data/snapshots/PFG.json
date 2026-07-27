@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:59:00.129Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:44.664Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    112.36000061035156,
     106.69999694824219,
     105.44000244140625,
     107.75,
@@ -24,10 +23,10 @@
     112.05999755859375,
     109.56999969482422,
     108.25,
-    107.31999969482422
+    107.31999969482422,
+    109.4000015258789
   ],
   "6m": [
-    89.0199966430664,
     91.20999908447266,
     90.9800033569336,
     88.4800033569336,
@@ -158,7 +157,8 @@
     112.05999755859375,
     109.56999969482422,
     108.25,
-    107.31999969482422
+    107.31999969482422,
+    109.4000015258789
   ],
   "1y": [
     81.05000305175781,
@@ -410,12 +410,19 @@
     112.05999755859375,
     109.56999969482422,
     108.25,
-    107.31999969482422
+    107.31999969482422,
+    109.4000015258789
   ],
-  "lastClose": 107.31999969482422,
-  "oneYearReturn": 32.41208593945471,
+  "lastClose": 109.4000015258789,
+  "oneYearReturn": 34.9784051902096,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Should Rising Earnings Expectations And Dividend Appeal Require Action From Principal Financial Group (PFG) Investors? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPblVRRTd5N0N5Y1N5V2hQTTlheHYta21VZ0xmd2dfYnQtNktaVDl2R3RrRTdRTkJGbEZ1dkVRNGJqcGM1bkhBY2ExS1ZZQjNwWU9WSGNTbXQ5VlZvZGN2RV9wMXJ1QTU2TW5YWFNwRHUyYWF6WjM4VjZsa0dKdE9mSzREb2drUlVhaS1BVUpZcDMzRHlOc2xoRF8wZWE2REtDeGlOdEN0SDN4V3h6dk55TDNTRlNJZFV1cEEyZ1hwNmduRzNfdVEwd0pzTTk0U1J5YlB4M0MzTEg3bUFa0gHiAUFVX3lxTE04VTI0ejhaUDh6N25sS1dQOTRIeUpDcml4a2U0XzVQeVYyckg2YmdkQk9GSDE3MHVuMHpUZFpUdUN5a2RRNmU0OVpKSTdKTEFZdkNjNnlEMUxnMGZicXY0R29fZTEtcDBMejdHZy1ya2poU0lKNVpEc3BKcmxzVXBMVFpDNkYtV3k1UF9iMVJoc29xR2pjeDAwbDVqQXJORkExLWZYYVNhRUgyZGozVmFER3BKMEdPV29KM2NYcG8xelNINzBGTkVKVlVfcHI0cFhpMERwWi1WNnYxbFhiWF9OWmc?oc=5"
+    },
     {
       "headline": "Is Principal Financial Group (PFG) Fairly Valued Heading Into Earnings? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2ROMk5KR0I3dl8wd0xtMHkyaTY2T0dDRHNOSk9heXlKZGpqQUpkMTRxYmE1VmJ2RS14ejJTb3YzZTNuZ3FRVVQybldwR3JaUE9COG1sbElpdHcwX2RkTlB0QThFQnNBeEFXLWpJWWtKWVdsUUZ1UjZ3cWNTV0FZZGFRbmhYUFZVMkNuR2pKYmNlUS1iZzVoUXd3WDdQSTZHWEVV?oc=5"
     },
     {
-      "headline": "Principal Financial Group (PFG) Nears Earnings, Is The Stock Expensive Or Still Cheap? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdVIwbEdyaGM0M0tfelBaa2tZSTBNRksySndlSk9zQ3lOb1pxYjFweHFZMHhrSlJHVERIT1FHR3FSSVJiM19MemNBQU5tbzBjZk1wVGIyZEZuSVIyUWpScWhxV05ER1VVdDVXOGVTRTJnTWZLamFZRWFpZm14Vk15V0t6bzBIbTJ3QTdBZUtnNm9CRzRad3lTTUtUMk9DTmtpREkxcnBUcy1JRGFoWWlMT0hPdmNFUkdrX1ZXYzd0S2xoaVFBRnhqYWlpaXVhYTUtNnNKczVEQ2ZPYjNS0gHiAUFVX3lxTE15b3BLYlBkeHhBYzBsUHJVdkE3ZnBlQWNnbXY3Ri1iME9HU2RCcm9BclYxLVM4blNSUGRTRTZyRlRVYmVYZ0FZTnRraHRockRLQ05KdFRsUUY0STRWbHU5WnhvUktFT3V0TV9zVzZ4aVJzSFFFbFNGRmZZeC1jdkVaR3JuX0w5RFR2V2NHcEUxQ255MVFCaUhneXlpakJFNjg3UWdVckJWZnExU3hVMFgwVkJMMFR1emt6OU1rQXNCVVZ5eHpITVUyRDNfSHNKZkFwXzVfeUQ2U1lsSHhlOXVjT0E?oc=5"
-    },
-    {
-      "headline": "Assetmark Inc. Raises Position in Principal Financial Group, Inc. $PFG - MarketBeat",
+      "headline": "Lombard Odier Asset Management Switzerland SA Has $5.23 Million Stock Position in Principal Financial Group, Inc. $PFG - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVVB3N1NxQkhvTnRQTW5qSVZpc29lSExNdXRVWk9SdDROcjJ2aktQNE5jcXBrWF9qWWlqdEFSaTE4bWE2ajlRMkVUbWg3UUNLOUIyZWgwbGV1M3NsbFpOUjlRS0JobURDWkNQYWxkMzVtYVMwTU5acmpjUkdDX0FQd00zR1VpOTBkZGlSUDgyRG54SXYzb1hZZDE4NW16dlI3OUNaOENmV25LMmVpOTFmeUdMUThTNGVnZV9KRzhvTXljc0FkNkE?oc=5"
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSWJseFd1dXVFeXZjemM5NkcyYzBZUkVRLXNHVFZocHkyWmxFVWd6b1dwWWJJWUp4ZkROaFJwdm03clRnSEc5bHZkM1NYSHE1SGQ0RWlIUm0xOGdtNE5YcEVPX3ZMWjFtS05mbnBZNGdNblgxTjJtUUYxY3BULWR4X2JkUlROUFpMMW90dmhqX2FyczlSSy1EejNxX29CcTZkLUEyUEgxMmRuaUNDcTUtU2VzVGlyd3FSb0tMb1FpWTF4MHBGNDlhbk5ZaTdKXzNNNElaeF9JdERZODc1NkRWaVZoRFVxNGRGUExaSTVTWE5aWFBHMC1lTG9TeTdtWGZoOFJLUA?oc=5"
     }
   ],
   "insight": "Tracking Principal Financial Group (PFG)."

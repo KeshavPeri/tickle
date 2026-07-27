@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:46.911Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:33.483Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    103.25,
     97.19000244140625,
     93.47000122070312,
     98.69000244140625,
@@ -24,10 +23,10 @@
     99.27999877929688,
     106.36000061035156,
     104.4800033569336,
-    101.58000183105469
+    101.58000183105469,
+    94.91000366210938
   ],
   "6m": [
-    120.23999786376953,
     119.66999816894531,
     110.3499984741211,
     108.73999786376953,
@@ -158,7 +157,8 @@
     99.27999877929688,
     106.36000061035156,
     104.4800033569336,
-    101.58000183105469
+    101.58000183105469,
+    94.91000366210938
   ],
   "1y": [
     104.8499984741211,
@@ -410,18 +410,13 @@
     99.27999877929688,
     106.36000061035156,
     104.4800033569336,
-    101.58000183105469
+    101.58000183105469,
+    94.91000366210938
   ],
-  "lastClose": 101.58000183105469,
-  "oneYearReturn": -3.118737902388717,
+  "lastClose": 94.91000366210938,
+  "oneYearReturn": -9.480205013512796,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Why Is Robinhood Stock Falling on Thursday? - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVI2SjdrV25TQ3RfcTZyZzdaY2Y1RFRjSmptMnFCZGVOSkJ0NTVMQkxmR2MzNHQ5dWZKcXpkSXQ0dEVaU0RsRHNPU1ZibTZyaHZhZ0ozMm5HYjU2WEFXQ284aHJESkVocmQwOVZzOTRvNG9yYmJvMGNQRXd6aHJYWkFZQUJ6WWE5QlRwTjJ2Yi1MdnFWX2xremhIbGVwNFdwaDhpekxB?oc=5"
-    },
     {
       "headline": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size - CoinDesk",
       "source": "CoinDesk",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeVJDTVBwdmlfYlB0REswa1pTNVNib1Fza1VsUGNRN0x4ay16Ml8zd1lPRGExXy1MUk9HYXYyMDUzcDFxeGFvUVlLYnFjSnpsLXB6TVhjek5rVTVCX0Rxcm9RalY5VVYwMG1saGZ6ankzdVVTdUg1VXlGQjZSLWxFamhBa2V0anRiM0J5SUs1d0hDTU9XbG9NME41WmxfaGJQdkdOZHNDenNhMWVKWXROeno0SXFNWC1zbWQzY3BIZEdwbk9ZVU9makM5c3FVWGVid3hyVTA4b3JDMlU?oc=5"
     },
     {
-      "headline": "Cathie Wood’s ARK Sells HOOD Stock Again – Even As Robinhood Hits 1M Gold Cards, Launches Platinum Card - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQk5fYmtkMXJ4b3ZhSlR6MkVlcmhjTnZJVU1Rc2hyRkZ0NWpDT0g0UHpVdDZaeVlzSmZ5Y1hYM1RzVi05YXA0VGpRTXJIYXFqY2dIOU1UMDV0RndMRzlDSmpfUVNnVU5TZEQwTlQ4a0ExTnUzdjJja0lOU0ZsN3pycjAxb21oOWxKY1lJejJ4UkdRUmhWTjBiRV92X29fSFlTV1BBYW51T3hCUGxSa1VtcHR1bnZPUG43LUx3dQ?oc=5"
+      "headline": "Curious about Robinhood Markets (HOOD) Q2 Performance? Explore Wall Street Estimates for Key Metrics - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU0NpdkxadjRzRWc4SWM3NXdESmRlMTM3aFJVM1Q1UFNUS2k5UTVaSUQ3dW5hZTJNSXczaFh0ci1mS0JfNlc3ZGhfWi1LZmtCLUlnRjd2TGVLYW0wVEpLaFdSRGVYclNIZU1tUlJ3WndWNElQZUV5WmdtT3BEVFpPMV81YkxSVXBYR3NIVWxwTmNadmNVZ2FiMTVYSkRWVDQ?oc=5"
+    },
+    {
+      "headline": "Robinhood Chain Metrics Surge Ahead of HOOD Earnings - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ19rTjdZOC1DcTdIMTE5Z2JSbHhQZmZWemZUVjJQVEx3aVh3Mkg3SkRUZGZYMHRWUzVfT0ExVDZYT19neEt1WGEzYmdLNG4yUmFfY0JyejN0a2duQ2RndHRvYXpJNnQwVnkwTFB0LWVrNl8wWXJCVFg4U3c1ZUJ5d1lOSG9DRjQySFRTaFp5R29LNkpJZk9rTXlSOC11Y0hDa3JLSXZ5bDR3dkdMWlE?oc=5"
     }
   ],
   "insight": "Tracking Robinhood Markets (HOOD)."

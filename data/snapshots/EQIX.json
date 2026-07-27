@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:37.489Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:25.125Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    1115.9300537109375,
     1095,
     1087.6099853515625,
     1091.300048828125,
@@ -24,10 +23,10 @@
     1017.3099975585938,
     1027.8800048828125,
     1028.739990234375,
-    1033.550048828125
+    1033.550048828125,
+    1084.239990234375
   ],
   "6m": [
-    801.3099975585938,
     799.02001953125,
     801.8200073242188,
     801.780029296875,
@@ -158,7 +157,8 @@
     1017.3099975585938,
     1027.8800048828125,
     1028.739990234375,
-    1033.550048828125
+    1033.550048828125,
+    1084.239990234375
   ],
   "1y": [
     801.4299926757812,
@@ -410,18 +410,13 @@
     1017.3099975585938,
     1027.8800048828125,
     1028.739990234375,
-    1033.550048828125
+    1033.550048828125,
+    1084.239990234375
   ],
-  "lastClose": 1033.550048828125,
-  "oneYearReturn": 28.963235500751715,
+  "lastClose": 1084.239990234375,
+  "oneYearReturn": 35.28817240971472,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Equinix (EQIX) Stock Looks Reasonable On Cash Flow But Rich On Earnings - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb294TDltVDB0X2pnc2xzenNvdTZRaTFWMU1SbndPekQ1eG1EWmMweVZITDcxWk5hNEJLbDgxa3hRT0ZlTkpxdHVWYmxOR09PU0FYMlB3ZUcwZlR2aHMwck9iUWtkXy1lN1pWamdOaG9xLXNFVml2ME1LdFQzRFRkQ3VsVmdkbHY0LVkya3lCRWhGVDdyMlNneTdlNW9YMWFaVFJYT2Q5SUwwMEptNVMwbkZYSVRkSUMxNlIyS3hvQ1lCWEhGX3lpWWxfbkJxd9IBzgFBVV95cUxPb294TDltVDB0X2pnc2xzenNvdTZRaTFWMU1SbndPekQ1eG1EWmMweVZITDcxWk5hNEJLbDgxa3hRT0ZlTkpxdHVWYmxOR09PU0FYMlB3ZUcwZlR2aHMwck9iUWtkXy1lN1pWamdOaG9xLXNFVml2ME1LdFQzRFRkQ3VsVmdkbHY0LVkya3lCRWhGVDdyMlNneTdlNW9YMWFaVFJYT2Q5SUwwMEptNVMwbkZYSVRkSUMxNlIyS3hvQ1lCWEhGX3lpWWxfbkJxdw?oc=5"
-    },
     {
       "headline": "Equinix to Post Q2 Earnings: What's in Store for the Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb1hLSm1aUXZaaHRzTUlxUjUwV1MtTk9CdktwZzNOaFJiNGVldEZZX3RCZmhrY3RKUVgzZ2RjYldjZlIycEl3YllQN2dkbDlOZXFpQ0ROUXRRSVlhdjNRSmlENk9NRnQ0VjVpU2lrQmdWdXFBWjlXd09IRndNMEZHZExMOFBtRnFTVHczM1dTYmNLdGFiRERkQjJTNA?oc=5"
     },
     {
-      "headline": "Equinix to Post Q2 Earnings: What's in Store for the Stock? - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDFqZ2YzX0YwdW1jeTdTeWh3M29zZVNmeXQwQU1wa3RCN1ppWDBtYVRQU0cyTUUzOHAwWk5weXRIU0t5ZTNBc2pQNG9KSnhKRl9ycnczT3l2VHFGV1NOc1FWblpHSzRLZy02bW9nXzVURThCWDBibzJqTGlwOGJUZW55Y2FNYzJmbzFTNjFoVlhKSlRGVjAwRjQwWTNiQ0hiU0JEUnJ3VjBqdFR5aEhPOEhLUQ?oc=5"
+      "headline": "Equinix (EQIX) Stock Looks Reasonable On Cash Flow But Rich On Earnings - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUlNVLTNxelp3RHlNTFZrWWxuTVR3UnhQSU5lbUxRSmhZOGpPWGVLbzBncUs3cEhWVmpOaWxyWEFPeUZINVkwUjBQV0dNWkw2RmwzTU5zalQ2bEhyR3otR0RhTlNJaG9UbHRUeEFyU043ZG8xN3N0dDkxcUotUFNQdmlnZDNYYkFRMWg1LXFSU3ViVTdqaEx0b2h6S3RZWXQyZGhQVnY1SGhwaFhxS082ZDQzdXhCd25PSGhwc2ZFajBiRkV0S245YtIBzgFBVV95cUxPb294TDltVDB0X2pnc2xzenNvdTZRaTFWMU1SbndPekQ1eG1EWmMweVZITDcxWk5hNEJLbDgxa3hRT0ZlTkpxdHVWYmxOR09PU0FYMlB3ZUcwZlR2aHMwck9iUWtkXy1lN1pWamdOaG9xLXNFVml2ME1LdFQzRFRkQ3VsVmdkbHY0LVkya3lCRWhGVDdyMlNneTdlNW9YMWFaVFJYT2Q5SUwwMEptNVMwbkZYSVRkSUMxNlIyS3hvQ1lCWEhGX3lpWWxfbkJxdw?oc=5"
+    },
+    {
+      "headline": "Equinix, Inc. $EQIX Shares Sold by Healthcare of Ontario Pension Plan Trust Fund - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc2o4NGZEdFJ4bGd0ZjU2dUMtZ1RUZloyWkdUTnlDUU5fUEgtRG8xTlRsT1F5X1dLMXExNHdzMFFmVVRUdWdBLXBKQ1NnQk9rX3BIRG1MSmJWa012YnE0cEY5NjluM0dzUjZEcTJZU3dpbnhfVG9LV3BvUkxmaWlRNmZBWWxFdWFCRGl2dDlUYU1mX1RkZV9weG5HMDJ2YWYwcDlfOVRDNjVCVTUwQVJtVWpfWkRHWWFjcVgwWFFCWkJMLVBzWnR0T2JMX3Y0X2N3THBjUw?oc=5"
     }
   ],
   "insight": "Tracking Equinix (EQIX)."

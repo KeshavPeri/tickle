@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-26T04:58:50.963Z",
-  "builtDateUTC": "2026-07-26",
+  "builtAt": "2026-07-27T05:12:36.256Z",
+  "builtDateUTC": "2026-07-27",
   "source": "yahoo-finance",
   "1m": [
-    261.6400146484375,
     263.67999267578125,
     270.6000061035156,
     267.7099914550781,
@@ -24,10 +23,10 @@
     271.69000244140625,
     271.989990234375,
     273.92999267578125,
-    276.9100036621094
+    276.9100036621094,
+    283.0199890136719
   ],
   "6m": [
-    256.760009765625,
     258.8900146484375,
     261.8900146484375,
     263.4700012207031,
@@ -158,7 +157,8 @@
     271.69000244140625,
     271.989990234375,
     273.92999267578125,
-    276.9100036621094
+    276.9100036621094,
+    283.0199890136719
   ],
   "1y": [
     261.70001220703125,
@@ -410,12 +410,19 @@
     271.69000244140625,
     271.989990234375,
     273.92999267578125,
-    276.9100036621094
+    276.9100036621094,
+    283.0199890136719
   ],
-  "lastClose": 276.9100036621094,
-  "oneYearReturn": 5.811994935271718,
+  "lastClose": 283.0199890136719,
+  "oneYearReturn": 8.146723657687247,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Illinois Tool Works (ITW) Reports Q2: Everything You Need To Know Ahead Of Earnings - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVG50VDloSmhLYlhCYkFSWlNYQ0g2aXB2OS1sTzc4Zy1RcWtCQmFmZnMtMFU2REMwQ01kbTVXaHJkVEtYU1NNUnVCeUpSLTg4UWNoSy1mUlByT3p3bF9HTmpYMXppd1dkaFozaHc5UDN6X0w0ZDJZVGVIUDNiS3RmRFFUZy1vWWdWdUxPZURsYjAtNmN5MkFla1RQaC1hdFdFSEZ4VTZ6TzcwRlVDaW5BWjNocE1Pa2s1S1JhaTlkZEo5S1o2WGpvUjBYd2YzdkNRNXoyMnR4SFE?oc=5"
+    },
     {
       "headline": "Is Illinois Tool Works (ITW) Fully Valued Heading Into Its July 28 Earnings? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2R3bldZRkxHSzJzYWJGTzRuckVnenFmampxdXBRekVxWnlMVFhjTG9Jb0poRnZkQ2xHQkZ6X1k0d3dpbUVZM0tBek9ORHA0blFxZGhsY0NpT01JWGVRUF9xeXJIODJQTVVYbGZkNkwtd0g4Y2NyUWNtdHU4WXRBNmw4Q3ZNMG9ZUkNyQUxXT016X2xkUG9EQjZB?oc=5"
     },
     {
-      "headline": "Illinois Tool Works Inc. $ITW Shares Bought by Renaissance Technologies LLC - MarketBeat",
+      "headline": "Morningstar Investment Management LLC Decreases Holdings in Illinois Tool Works Inc. $ITW - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON2Q3djd1RjBzN0RHc0xfRTQwelZUMU0tLWNNTmVJMGJLbzBaLXZFTUNLdllEU2NycWVDUWNlQmhYVFo5R0Y5blhKUDF6MG4yS09uY283Wi04YlJCUmh6RWFucVhUUzAtY2hreWZNdjZQRWhKcGFMNDh6UVBXTHQ3LXBydTlUMEpvdWFma3ZsSFRVcDFOUU5CanVIRExHZlFVek42VEJlbzBDMWFQWkQ3X1VHT0Y3QTAyaUZTdE51dE5hWlkxNEV4OUdET1RyMkk?oc=5"
-    },
-    {
-      "headline": "Illinois Tool Works (ITW) Could Be 2% Undervalued On Earnings Beat Hopes - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY2JlSlJkcWZoZ0o0OTBUN19pMXhPTXdDekJUNGI1U1RrMDN6dDlEclMyUmNZS2hoMVBrMzhQS3dkTVNIZ0dJZTFYSGY0eDBWS1IwZHY3SE1xWFlCZ0dtM0JFMjd4MFpvelE5N3k1T2V4Z1VLM3dlSUR6TjJQWGE2NDZnYTZMbjhKcDNLUEFVSXdUNnplNkhEMnFPTTNCWURjY19ZTVdfWTVCVGtzZzhFWHdKNmFTd2FVUXJjUDV0UXNjNGJXUDRQTGhldHpVTVJ0c1FxY25FWdIB3AFBVV95cUxQcDQwU2tsTmZDUlUwdnVFZHJvSzhrb2JTQ2RKOWFZSWt2VWN2czVYOXJSWElqV3RIcW5BdFVScElueGJhYXJMdXBCRVdmc3pfNXhSTnJMczJhRVk5ZzU0ZjlyVlByTmx2LVFPWC1WWmUyd0tEMlhkalJuZzFYQWdMVmFWV09EUV9oRnFMNGIxbnFORC1ReXAyaVA0XzBVQzNseEkzbS1CN1RBdVVCbURTSkNKbkNZVE5HR2tyQWdsZ2RvRXJLdXRVSUlGSmZNZkhSU3JjZFgxd29hMEht?oc=5"
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaDMyUko5V0lmVGwyV2dMQ3A3SENaMVMyMDhtclYyMFJTUDhJamFxcl9VX2Rlb3RzOXZ4OFBaUUV5cXc0SmFQd0p3a003NmRRZlpXNlp1MzJla3BQenNUUVNiUE81dDRTQzFDY3ZvcGZCbk9YRTlENjkxZWZyVUlVMnBBUFRtdmNjaGxvVWM5YlhZVjF5RWxESEVSSklCc0NoSUhaNDlVOUF0N1BQTUgzY2pHRG9ub2QwUGFnZzZwbEpnMExDWU9td3gwVDBocWVtazhiM2dBdnlyWFBRdG0wVDFR?oc=5"
     }
   ],
   "insight": "Tracking Illinois Tool Works (ITW)."
