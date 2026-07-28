@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-27T05:12:46.136Z",
-  "builtDateUTC": "2026-07-27",
+  "builtAt": "2026-07-28T04:43:22.568Z",
+  "builtDateUTC": "2026-07-28",
   "source": "yahoo-finance",
   "1m": [
-    42.47999954223633,
     42.380001068115234,
     44.290000915527344,
     44.380001068115234,
@@ -24,10 +23,10 @@
     55.849998474121094,
     55.5099983215332,
     56,
-    56.150001525878906
+    56.150001525878906,
+    56.06999969482422
   ],
   "6m": [
-    57.65999984741211,
     56.7400016784668,
     56.88999938964844,
     55.08000183105469,
@@ -158,10 +157,10 @@
     55.849998474121094,
     55.5099983215332,
     56,
-    56.150001525878906
+    56.150001525878906,
+    56.06999969482422
   ],
   "1y": [
-    77.9800033569336,
     78.22000122070312,
     71.44999694824219,
     69.70999908447266,
@@ -411,29 +410,30 @@
     55.849998474121094,
     55.5099983215332,
     56,
-    56.150001525878906
+    56.150001525878906,
+    56.06999969482422
   ],
-  "lastClose": 56.150001525878906,
-  "oneYearReturn": -27.99435867055996,
+  "lastClose": 56.06999969482422,
+  "oneYearReturn": -28.317567348766907,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "PYPL Stock Slips 2% After-Hours — Stripe Weighs Next Move On PayPal While Pursuing $10B OpenRouter Acquisition - Yahoo Finance",
+      "headline": "PayPal Turned Down $53 Billion And Now Must Prove It Was Right - Forbes",
+      "source": "Forbes",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmxtc05OY1paMm1wVHh0dEttb3M1SW5QVU9xRzh0Uk9mSkxUQlFBbVFmZHNmYkVRVEZCeXdja3FtVGpxVUx5aU5rbVpPN3R2b2k0TVZ0TEktNnUyZU1OWHVEWnd3eWgzOTJXNEVBV3JlVFhiUmdZU1pZdDdHbVcxM2c5Y0c0aEl5R1BDLUxES2tpckZNRjNBRnNFOUg1aVJQcHRockJWSzg?oc=5"
+    },
+    {
+      "headline": "Truist Just Upgraded PayPal Stock. Here's Why. - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYnhFM08wQmJOTFMzZnMzdXlhMnlBRkRDY0wzNHduamJnVGxDWjJIVjBEUVlLRXpnQ2oxaHlNWEpKdUo5M1RhR2RlMDdJYmhKYkZZWG5Cb0Z6VXNwZzI3UllWLVpjeDZrWnBDRUhCTWUyc2NVOVRxQmdqazlWTVlMeXFvUmh3Q3I1OEV5OUpkZHNGV0k?oc=5"
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM1NCQWxxSjl0M0dvVmpnR0M4VXJmZml4dUJHWjhTMVlJWmJra2dEeHZNaWttT1lBdEZVc3g5OGN4Sk9IMUZXV203bXlhb0VUbkhWYzd2QXFuOUR1UTN0Vnd6TXBJbjVKRGJOYzRsVU1sdTFERmZjWmhpYmYwTnpocWdlNHJoT01XR3Q2WGlFdnoyVnJqTm45MWdoU3JSekE?oc=5"
     },
     {
-      "headline": "PayPal's Board Reportedly Called $60.50 a Share Inadequate. The Stock Trades at $56. - The Motley Fool",
+      "headline": "PayPal Acquisition Rumors: Is the Stock Still a Buy? - The Motley Fool",
       "source": "The Motley Fool",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYV92dWVtZVpETUJyLVdxYkhrSzN0SDcwc0VzSGNhM0NSM2VkVVVJSjZ2XzZwSUE0T1lFMVBrbnlFYzQxSTBSTlJTeVZYVHhJSDZTdDREc3RmVVJ1eFJRVlJCeTFBc3ZrZGI1ZUlUd0d4ME10akhKbjVhZUNNTXZVREhWRlBiV0FZX29PcDdhSzFoak8tR0pqag?oc=5"
-    },
-    {
-      "headline": "PayPal Stock Braces for Volatility as Earnings, Buyout Decision Loom - PayPal Holdings (NASDAQ:PYPL) - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUI2UTJ6ZWZiVmxhU3l1WmNxUnNDM2tOa2ZJNndaUlYwZ0FEMTVzM2NBZkZGSHpJbzJsT2Uxay1sLVR1NTlPUmx4YU84bXdYNTVTZ1NTTFVXTGF4SDVDMkg1YWQ5bUxqRjBxTmg0dWw3SExMTzNWMEdPcFlXU0pJQ3ZuN25ITi1ZR0J1TjdWTXBUU0J6cy0ySE1lZ2ZWRkROamRPZE1BcHNTOW9wZ01iX1RSQkFGVzVmODU2dG9uS0dqdw?oc=5"
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNlZjVktZYkxqOElJdEo0UEpyZ1RkeWtycWhINzM5bVFzTG1tOVh2UmJJSlByazgwTG83TjQyb0g4OW1tRVozaGxUaFBzS3J2M2tEREZPbjdrNjVtNlJqRHpONzcyM1V4eXVJNkRIU3ZVODhFQlgwWlIyNVBDNHQxMUctak5xRXNpd2lxV1ptalZzR3VVVFpvcg?oc=5"
     }
   ],
   "insight": "Tracking PayPal (PYPL)."
