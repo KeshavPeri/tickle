@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:03.730Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:32.548Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    1095,
-    1087.6099853515625,
     1091.300048828125,
     1085.1700439453125,
     1042.3900146484375,
@@ -24,11 +22,11 @@
     1027.8800048828125,
     1028.739990234375,
     1033.550048828125,
-    1046.7900390625
+    1084.239990234375,
+    1046.7900390625,
+    1034.8599853515625
   ],
   "6m": [
-    799.02001953125,
-    801.8200073242188,
     801.780029296875,
     784.2000122070312,
     795.47998046875,
@@ -158,10 +156,11 @@
     1027.8800048828125,
     1028.739990234375,
     1033.550048828125,
-    1046.7900390625
+    1084.239990234375,
+    1046.7900390625,
+    1034.8599853515625
   ],
   "1y": [
-    793.6199951171875,
     811.1300048828125,
     797.0399780273438,
     785.1699829101562,
@@ -410,12 +409,20 @@
     1027.8800048828125,
     1028.739990234375,
     1033.550048828125,
-    1046.7900390625
+    1084.239990234375,
+    1046.7900390625,
+    1034.8599853515625
   ],
-  "lastClose": 1046.7900390625,
-  "oneYearReturn": 31.900663479116215,
+  "lastClose": 1034.8599853515625,
+  "oneYearReturn": 27.582505778598744,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Equinix Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ0x3ZmRFLUVqRkw0NU9nNGVIQ1B5dmt3d3NEcG95ckpvTXpiSWl6VENIOWxGR2xMMG5kTjFTaUlRYVpmOGFpWTdvVEJvbkI5RTVpb2xqRTlMUnZFQW1nVW9qTFpTZEpZeTBaZEZwYWNIMU4wajVUZ2JiWkcyNkdod3dqeEZjSW5YdTh4QTRLYnY3OHh0Y2ZyQTVxdEk5Q0RrMHh6WDVQM1RVUnd5bnlSRG1UYnBNbVBOU2NuRFY1bml3NFlvMWxtaGEtaG5jbDM3ZFdkNEkzMld1c1QtYm44?oc=5"
+    },
     {
       "headline": "Equinix Stock Has A Message For Management - Trefis",
       "source": "Trefis",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNblI5ZEZQMzlIdURZMlI4MHEtaU5BaGh0Tmw1NTJOak1IRFVsZndHdUtEdl9mOXlubXRjYlROVXRiTF9lWmtMSEoyR0EzVVNFSTZzWk1TUS1BUXFTWFcxS1h1VEdZSHdvT05nM0I4bWpnVU1IUkhyY2MtNDcxTE5rNWlDelRNVUJWVlZQcGF5MVlpd3JyTDNWYUVuMGVyeWhjcWloYUt3?oc=5"
     },
     {
-      "headline": "Equinix Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMGE3VzJLNHBlTGE4YzZEZ3lGZlVQV1YwN3ZtOEw0ZmoxSktYTEZPa1BmcjVZSDBEY3ZKV0FxSFpZbWVOYlZiTHZnN2sxVzIyWEdkNVA5ckZMMGJMMkdfb2JoRE02QVJvQjdBQlJjUUdUd2FnVVFoM09kZUR5ZXRnRFo3bTlMNUlmYV9PM0NMRnZreWxwYk9KS2xiLWU4M01uTWtQR2pmMVl1QlhpZVNnM1hUenE2UWZ3bXE3c2VVTklzczRhdHpqNkFoUEdZTFVkSjBxWHZQWG9NQnpENlE?oc=5"
-    },
-    {
-      "headline": "Does Equinix's New Product-Focused Leadership Structure Reframe Its Innovation Story for Investors (EQIX)? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYnlYM3BKTnY2UlZJMjhtUEkxbm5DYUhqeDFWRlJlWGZyVnRGWlJCdmpvdVNXLVE3bWZGay1rUDdXZzdtSDBhQTNkS25iQ1hNcmRRNW42dE0xSlVtdVU3T2ZhdlcxbFlGRE03eTI2MmpGdzA3aGVUZllZb1J3ejFyOGlJd3BpLUFUN0Z6QnlLZ1NOejliLVdWWEVQd2JDR1hHa3A2OG16ZDBxajFhdHM0TmRncE5ybk1nQ1p5SnVPYVZNazVtczRUQ0xjVzlNQdIBzgFBVV95cUxQYnlYM3BKTnY2UlZJMjhtUEkxbm5DYUhqeDFWRlJlWGZyVnRGWlJCdmpvdVNXLVE3bWZGay1rUDdXZzdtSDBhQTNkS25iQ1hNcmRRNW42dE0xSlVtdVU3T2ZhdlcxbFlGRE03eTI2MmpGdzA3aGVUZllZb1J3ejFyOGlJd3BpLUFUN0Z6QnlLZ1NOejliLVdWWEVQd2JDR1hHa3A2OG16ZDBxajFhdHM0TmRncE5ybk1nQ1p5SnVPYVZNazVtczRUQ0xjVzlNQQ?oc=5"
+      "headline": "Equinix to Post Q2 Earnings: What's in Store for the Stock? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb1hLSm1aUXZaaHRzTUlxUjUwV1MtTk9CdktwZzNOaFJiNGVldEZZX3RCZmhrY3RKUVgzZ2RjYldjZlIycEl3YllQN2dkbDlOZXFpQ0ROUXRRSVlhdjNRSmlENk9NRnQ0VjVpU2lrQmdWdXFBWjlXd09IRndNMEZHZExMOFBtRnFTVHczM1dTYmNLdGFiRERkQjJTNA?oc=5"
     }
   ],
   "insight": "Tracking Equinix (EQIX)."

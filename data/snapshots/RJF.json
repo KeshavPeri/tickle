@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:23.330Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:53.315Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    154.7899932861328,
-    150.52000427246094,
     149.94000244140625,
     149.0800018310547,
     152.02999877929688,
@@ -24,11 +22,11 @@
     167.92999267578125,
     168.00999450683594,
     166.13999938964844,
-    173.60000610351562
+    169.3000030517578,
+    173.60000610351562,
+    177.17999267578125
   ],
   "6m": [
-    172.27000427246094,
-    171.5500030517578,
     171.77999877929688,
     167.8300018310547,
     170.05999755859375,
@@ -158,10 +156,11 @@
     167.92999267578125,
     168.00999450683594,
     166.13999938964844,
-    173.60000610351562
+    169.3000030517578,
+    173.60000610351562,
+    177.17999267578125
   ],
   "1y": [
-    167.4199981689453,
     168.02000427246094,
     169.4600067138672,
     167.1300048828125,
@@ -410,29 +409,31 @@
     167.92999267578125,
     168.00999450683594,
     166.13999938964844,
-    173.60000610351562
+    169.3000030517578,
+    173.60000610351562,
+    177.17999267578125
   ],
-  "lastClose": 173.60000610351562,
-  "oneYearReturn": 3.691320034739219,
+  "lastClose": 177.17999267578125,
+  "oneYearReturn": 5.451724896082309,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Raymond James (RJF) Stock Could Be Undervalued On Fair Value But Fair On Earnings - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1k4SkhOTTU3UXdZY0pacXpkallIRGliOHNwT2stNENERDNJSFJzQzFfT19zZEtqX1VLTkt2VldTeEdXUjM3WGlCMnhqUGFhZURvYmluTU52X0hXM0ZpNjJxQ0pzN3VIVFFiWGdHMnZiVHRXUVhwMkRyUTBZbGlvX2h1N1NuUTZnX0lFek5ZZVdMU2VwMG9JeDNn?oc=5"
-    },
-    {
-      "headline": "Raymond James (NYSE: RJF) details RSU-based common stock sale plans - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUUZPWkMtN0t2eHZjb2NXX0kxMTk0cjE3eTFIZ251MFp1WDh1LV9MUHJ1RnkzOTRRWG01MnNjdUFHX3JpNDJaalhaQkE1UE5wMGdTaTc0N2NCNHMxNlZLU2NBZUE3UnNCam9qQW84eWdBVDdLOVFIN0dhRUMwUTZUYVlEY0dBZ1liMWJSWl9lY0U0YnJISkN4TUpIdzlhbW9TLURfSXhn?oc=5"
-    },
-    {
-      "headline": "Raymond James Financial Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "headline": "Raymond James Financial Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc0RmVVdOMkVYSFQ5S0NQRjVpWEVpaVZzUGR0UXAxVEZJOUJJa2JKRGNMSWREMk9GcTZEbk9qWm5RVVZIZmZHNjc1SzFHWlVMUWxXb24wendtczNIYi1IaVhJUEczUmhiUTBDaHk0aENQNDgtTU1TU3dRZnhIWTQ2bDZmMDhJakJuZEZmUFZLTzYwdzdOdGpuVVZCM0I2dE1PNUs2RGw1T3RXWVJ2R1MzTzBjVHN2RS11U3ZRaWdCRHNMblR0UDFDU1E0dndnaTE1X2s4ajY2Y0ZkejBEZGc?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTUZfUnhnckU1cU1TcHhaU0owY3NlSGxtMGFiUVFnXzB4ZEV1WF9BYWFFNWRsanhxRXY0TlFlbDI1Y2tzd055ZjlRMk45UmZVT0llRkE3QnFzMzA2RGFLUExteGdEbkhlRjB3RjhWcENWWmZEb0FNTkRZQkowaFAwWEdJeUE3dmFEWkdhMk5ET0k0cEJEZWFLck41ZURueU1CVTJ3d2JTMGlOZXBMcnR2NlZhT2JSd3prWWFIYVhleVVraVVuazI4SFlYWjRYak9nUi1uSXZjSk80dXdaSTBfSThEeGppX2lITEtfbi1R?oc=5"
+    },
+    {
+      "headline": "Insider Selling: Raymond James Financial (NYSE:RJF) Insider Sells 5,770 Shares of Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOblpYWC1hT1RRNGtvbnQ5R1ZQVVJKaU4zMk5NeWt3aHJHaDh5UGpMenFzbllsZm5DOGQ1NWtRUVBjVElfOFoydEkySUdEeGR6RlJ1Z3BLSWo3ZHRvcDJpYm9sS0c0akhBNkg1OFkzcVltcXRuakpiZDdLcjJHbFdpOG1KbnR6bmxCQ2NMOHBxRTE4VFJhVDdyMEdXcmxtWVFETDlzYXlvd3BLc1Vlc3dNVUNhakV0M2xhakpaS3dnSFdUVjRadzg4TnNzVEpqUXhpeFE?oc=5"
+    },
+    {
+      "headline": "Raymond James Financial stock hits all-time high at 177.73 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQzJxNWJqc3hSS3RaMGdQd05LaHlTcHhCeWMwbW13YnRZTmZLOUM5N0p5UWlxcVRjVGJvRDB6QlktbWRQekpacDRtUThFSjRPd2lGWmJIdm4wdl9TRUlsWVVVc3JqYWpLaXQwMUV0TDUwQ2RMQ2t2WFZ2Q3JyMno2OWswSmtkVURJN2UxLXhoeTRMdmtFRTNhbUZSOF9rWldYcEU5OTk2c3ZMUEl5Ulh6TUNYeTg0WXJM?oc=5"
     }
   ],
   "insight": "Tracking Raymond James Financial (RJF)."

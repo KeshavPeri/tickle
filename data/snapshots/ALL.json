@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:42:48.564Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:16.210Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    233.5399932861328,
-    231.60000610351562,
     239.61000061035156,
     241.3800048828125,
     237.94000244140625,
@@ -24,11 +22,11 @@
     251.74000549316406,
     251.8300018310547,
     254.52000427246094,
-    261.2699890136719
+    259.9700012207031,
+    261.2699890136719,
+    272.4200134277344
   ],
   "6m": [
-    196.02000427246094,
-    195.47000122070312,
     192.27999877929688,
     193.5500030517578,
     193.66000366210938,
@@ -158,10 +156,11 @@
     251.74000549316406,
     251.8300018310547,
     254.52000427246094,
-    261.2699890136719
+    259.9700012207031,
+    261.2699890136719,
+    272.4200134277344
   ],
   "1y": [
-    192,
     193.89999389648438,
     192.27999877929688,
     203.25,
@@ -410,29 +409,31 @@
     251.74000549316406,
     251.8300018310547,
     254.52000427246094,
-    261.2699890136719
+    259.9700012207031,
+    261.2699890136719,
+    272.4200134277344
   ],
-  "lastClose": 261.2699890136719,
-  "oneYearReturn": 36.0781192779541,
+  "lastClose": 272.4200134277344,
+  "oneYearReturn": 40.49511191484037,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "The Allstate Corporation (ALL) Soars to 52-Week High, Time to Cash Out? - Yahoo Finance",
+      "headline": "Did Q2 Catastrophe Losses and a New CFO Just Reframe Allstate's (ALL) Risk–Return Playbook? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUjNvaERiWmVSZWRKeDNBOFpLaEpfb284Smx1eUFTUUdxLWlFaFM3cGUwb2JuWFhPVUhYQjRqM01lNG5pUTJERGl3cms1dDA5aG5VWE1PcDVXVXdXSU9OSmM1QkFpTGk4T29uSU5zaGVSUWNoNkdMX0sxdndESTFySlZENVN2MGQycnIwZXpReDJMak9mU1BaZm5XLW5wM1NxaDlUREZSUVppUksya1hsbFpVU2VpV19aSWVDRExxWmNGTXdSWVRlTtIByAFBVV95cUxQUjNvaERiWmVSZWRKeDNBOFpLaEpfb284Smx1eUFTUUdxLWlFaFM3cGUwb2JuWFhPVUhYQjRqM01lNG5pUTJERGl3cms1dDA5aG5VWE1PcDVXVXdXSU9OSmM1QkFpTGk4T29uSU5zaGVSUWNoNkdMX0sxdndESTFySlZENVN2MGQycnIwZXpReDJMak9mU1BaZm5XLW5wM1NxaDlUREZSUVppUksya1hsbFpVU2VpV19aSWVDRExxWmNGTXdSWVRlTg?oc=5"
+    },
+    {
+      "headline": "Allstate (ALL) Stock May Trade At A Discount Following Catastrophe Losses - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWtTMlFRcFk0Uk0yWUc5dTFvNzBINUh0c3E5amwxLWN1djlmOXcwVFlXTG0yMkpCaTNjUVhxOUZ3VFJOTUpKbnRDSVB5RUdnM2U0NnlpeGJfRHFORjVhVXEwMXRyLUdrSFBJV0xWVTVzUnlxWi1xakU0RGhWNDM2cllKUEFPbmx5cVg5eWJ4ZTVIM2pOcnMyRE5LZWRCNlI2?oc=5"
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkcwUzd5UHFtdGR3dUc5TndFY2hWX2ZRWWl6anlJeGxzZEkyTFV1M09hd25TWkpKeEdTaUk0QjRROGIySnJYY1pYYWR4ZzliVW5MN2tPUFFRXzQ5WDE3SUNpb180YktzaENNanZNT3dmMk5HY0M5T05INFA0bTNRMTkxVTBra1pic3dzd2tNY0pmUmpyS2hVbm85cmZKb3M?oc=5"
     },
     {
-      "headline": "Renaissance Technologies LLC Has $65.87 Million Stock Holdings in The Allstate Corporation $ALL - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaFJ1Z0ZYazVCTW9DYnE4cE5kdGUyQ2F4dUxiU1h2UzcwQ3RxLTVHbHNKZG5aT1V0QXpXb1gtZGlsYnRfb1djT01TN1FKTmo2d3BOaUU1Tm5ZMGhyalFfU2NtUnFuQmNKcHYtbWFqTE9pUG1JMXlSMzlwOF92ekx4TjJqRC1EbF8zZUtSTHBxczZBbWpONHB2a1F2UGtWVHk2djlkYm5KM3Iwam5QZlNTamhkVXBLSkxMT2llbXFOb3BsR0hjNzc1VHBTeWtxVU03Mk00S19USU96VXhmSGFEWlU4UTcyMnlM?oc=5"
-    },
-    {
-      "headline": "Allstate stock hits all-time high at 258.06 USD By Investing.com - Investing.com Nigeria",
-      "source": "Investing.com Nigeria",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3lrdHBqLVluejVqVWxPYnFTSEUtYjZXbDhXNjNoSWJySkJ6XzJ4MHBCbEpydlhTTy1GNlhIWHBoTXpqMGladEdVRWZtWHFuRi10N2dWTjNEZnM0amtRVU43NE9GOEVnVDZiQm5YYTB5Q2pCTHZtM21hc3YwU254ZU5udHdzeTBXSTFITVdQaTFXN0M0Q2pUTTlpaFRHSGhFVHhxSkR2UWZYUQ?oc=5"
+      "headline": "A Look at Allstate Corp (ALL) After 4.3% Gain -- GF Value $197.7 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGJ0ZWNJRWd4U3YyYlY1ai0yOUxqNDZJckYyeWNHYVVyeExoVXBpZ1lmckk5SzFRdGZuVVFtcW1ydkRVRTZSNmF2N2NFM2Y3TFFVdGZfY3lSUlNkMzQ5Y0tybHRqdXJ1TlBYN0s0Z29HSnFPbmRYZmJOZEsyRmUyaWhKT2NuNGd5OEhDdlpwbThPZ3dVWEZKNVZvUEdDaDVQV082NnBOcEt3VHN3Nlk4?oc=5"
     }
   ],
   "insight": "Tracking Allstate (ALL)."

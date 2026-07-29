@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:06.075Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:34.814Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    216.4499969482422,
-    208.83999633789062,
     231.74000549316406,
     233.6199951171875,
     230.0800018310547,
@@ -24,11 +22,11 @@
     246.9499969482422,
     245.2100067138672,
     243.9600067138672,
-    265.8999938964844
+    254.36000061035156,
+    265.8999938964844,
+    283.8699951171875
   ],
   "6m": [
-    295.2699890136719,
-    289.67999267578125,
     288.6000061035156,
     277.04998779296875,
     284.1300048828125,
@@ -158,10 +156,11 @@
     246.9499969482422,
     245.2100067138672,
     243.9600067138672,
-    265.8999938964844
+    254.36000061035156,
+    265.8999938964844,
+    283.8699951171875
   ],
   "1y": [
-    414.1400146484375,
     415.489990234375,
     409.1600036621094,
     402.8999938964844,
@@ -410,29 +409,31 @@
     246.9499969482422,
     245.2100067138672,
     243.9600067138672,
-    265.8999938964844
+    254.36000061035156,
+    265.8999938964844,
+    283.8699951171875
   ],
-  "lastClose": 265.8999938964844,
-  "oneYearReturn": -35.79466255580102,
+  "lastClose": 283.8699951171875,
+  "oneYearReturn": -31.678258973926564,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "FactSet Research Systems Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPM2hCbFdlMURrd3AxU0IwbFdyX3owQjhjN3dQQVA0ZG1CRUN6UWpOOGw5eWtFdGJPWlJjRXV3QXVwOG1VSXZMTHdsbURUejVRUUNmWGV3a2ZfWHJVRzhuZnRtR2tWcVp2SE9HdURlZ0Z3M0h3V0ZaZXFncmZLX2NJd0RvSlliOElUcXBuWEczMnlmRkI3a1VMUmwzWi1leV9LS0pDMFVWQlA2Y1BDQXF3M0pTYnZiaU5tck0tYWpoR2haOFRWVUdQRzk2a3BwYm13TDF1R3dSOEtmWk9xVDJHTDMxd0I1UGx3ZkY3dk9zdw?oc=5"
+    },
+    {
+      "headline": "FactSet (FDS) Stock May Trade Below Fair Value After Insurance Analytics Rollout - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGV4dEVvYS12RWRTWnZaTkF1R2NTVEdaN2NhQTRKQTJwNmZPWnRsNDJBVVNSMkNjdzRwdnhEM2V0c25kRHRWUmI4V1VoQnFxUi1XQVJSMUU1TlRkWXdpUzk1NEVOVkU5UDFpby1OT1B0NE92Z0stN2x2d0J1WXlDNVU0Z3pzWm5kR3ZIUzJqdGZjZE04Y0Jz?oc=5"
+    },
     {
       "headline": "Why FactSet Research Systems (FDS) Stock Is Up Today - Quiver Quantitative",
       "source": "Quiver Quantitative",
       "when": "2026-07-27",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOemYyZ0l0MUdFVFYwLUFjRDVLMnl3YTFrOVFWYVowQUlpM2lFcXBfbTdIb1htSTcxU1Y0NC1yNGg3dngxd3Qzc3NJWTBxWEM3NzhrNnkxYTFRMnJCODd5VGdVOUs5NHZxdVdEdFYtUk5KU0RYdDczVTNiVy1rWkMxZ1AxeFlISWktUUIxQVdhSVo0WDA?oc=5"
-    },
-    {
-      "headline": "FactSet Research Systems Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeU1hX3hsZFBsS3RjdjRNSEJvbW8yMzBncU9GcEZCY3pNbnpYWVZHa290THJUZmtWN0tMcVFka2trOHhRVjIyVzRvRDR1OTQxSWp4cjU3ckRIZTdkbEhReDlZbUsxeW96WFNDVXdtSElUU3A5Qy1qamY5TkE4ZkVRdXdhcURBQ1QyTjhBckZwSTFhYUg0dGZha25qVllSbGFodFNxQ2VZV0s0QjhNMzUwU0s0cUJBcFU1YTZrRTFqT2ZaYl92OWZPRmhCRjNaQXpNY1FfUVFldHA3ODRJVzRNZ0I0czRwWE1BZElyejBvaw?oc=5"
-    },
-    {
-      "headline": "Stifel reiterates Hold rating on FactSet stock, $254 target - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0dOVGVTS3VUZzA0ajZObm9UZGRmcWhDR0FRNlc4NDBkV0gzN1liVGxXcktCV0o1UnQ4ZUxGYmg3LXB3N2o1WFJHY1U0elFfYnRJRUVOX1RwU1dYR2lEYUk0Ymp1ZTVtdVBqRXcwbXBESkoxVUdULVFfdHBqam9QVDEyT1Bkdl85RWVWdlhfVXk5ckFWVlZ3NlBiNTZzUVpWZnQtWHMwcVFHTkQ3UFFpUkI3QWdrLTE5?oc=5"
     }
   ],
   "insight": "Tracking FactSet (FDS)."

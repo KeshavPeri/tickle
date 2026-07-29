@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:01.385Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:29.705Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    21.229999542236328,
     21.549999237060547,
     21.8700008392334,
     21.399999618530273,
@@ -24,10 +23,10 @@
     22.190000534057617,
     22.079999923706055,
     22.270000457763672,
-    22.520000457763672
+    22.520000457763672,
+    22.81999969482422
   ],
   "6m": [
-    17.549999237060547,
     17.829999923706055,
     17.829999923706055,
     17.90999984741211,
@@ -158,10 +157,10 @@
     22.190000534057617,
     22.079999923706055,
     22.270000457763672,
-    22.520000457763672
+    22.520000457763672,
+    22.81999969482422
   ],
   "1y": [
-    17.260000228881836,
     17.3700008392334,
     17.219999313354492,
     16.940000534057617,
@@ -411,12 +410,19 @@
     22.190000534057617,
     22.079999923706055,
     22.270000457763672,
-    22.520000457763672
+    22.520000457763672,
+    22.81999969482422
   ],
-  "lastClose": 22.520000457763672,
-  "oneYearReturn": 30.475087828099046,
+  "lastClose": 22.81999969482422,
+  "oneYearReturn": 31.375927416658367,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Healthpeak Properties stock hits 52-week high at 22.78 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGNSd0Q1VGQ1aVI1dVJZdUpmRGh0dTdVaVkwU21iNFp5VFlYWUw2UERWVTd4bWZ3bTlCanU5MU1XNklZR1VTVE1IVDN1RzNuV0JjTURILWYzV2N1YzUySi16V3FRaEt4eXV3c2JUS2dNcWVaQVBicUlUVVZxNk9seHRqcmJmbnJfeUh2ZU0yUnNhdmNDZmM2N2M1RG9Cek9WMjVCZ2kxTC1UVTY5UjBHNjBScw?oc=5"
+    },
     {
       "headline": "HCP Changes Name to Healthpeak Properties - Nareit",
       "source": "Nareit",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTdTSGNIbG1DSU5BSGg1WXBaT1VNc3Z1b2o1R1N4Wk1pQmEwdndxUnE3WWo2aU9tNm9Gak85VUNPWUNBQVIzSE9HaFU5Rzc3RlVYSjdzUjdKRW8zQWhfTk5xaDJZaXhPS3F2ZDdaMG5LV0pqbkVtZkN4dEU4SUhhdXR4XzExZUxmbkIyRWdjbHdtMlk?oc=5"
     },
     {
-      "headline": "Healthpeak Properties (DOC) Stock May Be 42% Undervalued Following A $2.1b Joint Venture - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMHFRRTBmLVZVemRpNjQyWFRKUWFSZGFoWkpZemJiRl9ycWxlRWFGYnZrZXBuRl9zVWF4ckFRZm0xbGlkZ2N3YXFWRUJzaTJYMTVGOVJ2VFUtc3hnSE5DZm9xdmU5N1llalRVZTlWS0Zvbms5ZGF1MF85LVRSbXFCYzhoRUEtcllEU0ZMczhCQ2RudlpIbkhpNk9CcmF2SkI4OEpiM0ZGOUlhSDh4Vm04bmRBT0NhbVBhQ2RMV0Q4d0NPaWY0eC1pS2pIdlNFSmdhc2ZCT0U1b9IB3AFBVV95cUxQSXp4YlhiYUl2b3RSaGQyRlk0clg2MmhZbVByblBPZ05pcDM2QkxCbjBsaGF2b3AxcGFqVjRGaEwyMDVpaE0yVkYwQWxXYmxoRDhFSmtmenNqelFTTVJGRWI0dHFSWF85T3JING1QcTN0Qzl6SmhnV0pZaDNQNUZVZXBTb2FTRDZNZU5xMHNyLUhESmh5aFYxYk84bXdKRDhqd0FRdlFhUDRUV21zLTI5QTNKZk9TMjJEVW9GM1ZaYmMxNnliR3E5Y0otVnNWT3RZQVpIQjZwanBaMU9t?oc=5"
-    },
-    {
-      "headline": "Healthpeak Properties Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "headline": "Healthpeak Properties Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd25TeFlLVmNheW9kMk1ZMFZqUE94MGhySXZlZ1BHRTBET3o4NjlJbWpKaml1eE0yV3JtMUlHclBCWFF5NTFBN2ZDdktKZkoxZ2JkeWRVQmFRZDdBQTF5VUVoU3U4MmRtS3IwQWZYZWZuUFFWcDRZTkxQTXU3cW1HWkVoeVE1RWp0dDBmZFlrUnZxMEFHV2N1YXRTdlFkTkE0MG4zMVdEaWd3T2ZfV1VlejFTTV9pVFFoRjVVb05HNkxIYzE4YTdVVGRTY2UtY0l6Q2ZnZGNWM04?oc=5"
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGRrQ3VKUWJMNUZZaDZabGF4YXR3OTVRUF9KYjd6azhpWUpBSW9LbWtDc2Y0d08tU0I2dFBjSlNSY09vTlBmYW5CS2ViOUQyR0lMRk1JbkJMUnktUV91ZlFwYkxMX2R4OXZ4SXpzSnY1TE9pNkN2RWlNNFVadFp2UThCNW4ySnJVUWlSMWlEcGxTU0lJVUdJbGRTUjR0QzVLZEhQdjlfZjdVTC04enB6ZDcyR3pXWXBpTFFoT2NONHkzZWhBQloxQkc2Z1dsT2JuZVRZ?oc=5"
     }
   ],
   "insight": "Tracking Healthpeak Properties (DOC)."

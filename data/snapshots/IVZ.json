@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:13.860Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:42.970Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    25.969999313354492,
-    25.8700008392334,
     26.15999984741211,
     26.299999237060547,
     26.389999389648438,
@@ -24,11 +22,11 @@
     30.100000381469727,
     30.5,
     29.799999237060547,
-    30.110000610351562
+    29.93000030517578,
+    30.110000610351562,
+    29.43000030517578
   ],
   "6m": [
-    28.25,
-    29.389999389648438,
     29.440000534057617,
     27.90999984741211,
     29.170000076293945,
@@ -158,10 +156,11 @@
     30.100000381469727,
     30.5,
     29.799999237060547,
-    30.110000610351562
+    29.93000030517578,
+    30.110000610351562,
+    29.43000030517578
   ],
   "1y": [
-    21.68000030517578,
     21.719999313354492,
     21.479999542236328,
     21.010000228881836,
@@ -410,29 +409,31 @@
     30.100000381469727,
     30.5,
     29.799999237060547,
-    30.110000610351562
+    29.93000030517578,
+    30.110000610351562,
+    29.43000030517578
   ],
-  "lastClose": 30.110000610351562,
-  "oneYearReturn": 38.883764697933344,
+  "lastClose": 29.43000030517578,
+  "oneYearReturn": 35.4972432576497,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Monthly Performance Review QQQ - invesco.com",
-      "source": "invesco.com",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkcEhsTFFWajFraDQ2VXBqYi00ZlhfMGFVcmM1VXUzSnhDS0h3UHlpOUEwN2tKZS1taG5vVmVyN3NwWVlWRXE0UElLMmsydUJNSm5KdEN6bkhMNmNtZnJBQllmMXJXSUVaNzdLTlJBcHI1Z1R6UWVpQ2Z4Yw?oc=5"
+      "headline": "Invesco Q2 Earnings Beat Estimates on Higher AUM & Revenues, Stock Up - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVAtcTJGVXRsR29oQnZUSjZuMmRfOFhpMFFkc09DLUh0VjlTTlhWTG9jT2tLVmk0RzFXOG96cHAzQWRFbldfV29KS1ZFOHpCQ2VFTmI4ZGliMzJOQjNQRjVhX1Y5ZUJZOTJUY3FkREpCaWk1OUc3a0RPSWF5SU5xR3Rza2htQkVBYnRvUHZfRXF2U295dXZVUjJHOVBUNEsx?oc=5"
     },
     {
-      "headline": "Invesco QQQ Trust (QQQ) Stock Price | Quotes & News - Moomoo",
-      "source": "Moomoo",
-      "when": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNbWpVcmI3aHlxUFBBN1lOREVLLTBuakE3QzVDSjZPbk4tUWpxZl9wT3N6djNZbXpSeUl3Y2dUakc3d3VSaWROcWtOanZ0LUpmckc3Y3U4Nml5OXB0SUdzWjQ2aGVqQmVXZU5keGt5SUtWTXFfQ3pDbUVIM0dPOEF0aDJGa0dDZWUwTldlZHV6eEQ2WTVZTlc4TElzci0zLTVLbEVtZ0RVX05LN1lnYnk0UWVfeUJLWC1EZ2pod2wzTlNMNnBlN3dlTDd0Z2I1U3hQUXo3WkN6aGY4V0JNSV9jOWR3YkliUGF6RkFVRVp6cG9IMGJYNG9Hbno3MWhVUmFJcXJWaGUwUmw1SnZ0WGJhMkRSOUdERTdia04xbw?oc=5"
+      "headline": "Invesco (IVZ) Stock Cools After Record Inflows And 37.5% Margin - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1E1U3hiSWFQSmVMeEVkYlNEUnU2TEtLbGRVM1FXYmNrVFI4UnVJeFFJdkdrd3pVSGw5SURicm1WX3Jfa1BLM0RGc19UMm5YYTJqU1dsaHRYQTBvTVBWdXdxS0ZHRGpBUHd5ZGJvVXUzQ3g3RkJycHRIbEFBV1dib185cnVJR2lvZ1Fzdl9LQXRlaHVacWJFTTEwUkhTWXFNMDRNZHUwdmhQbHM2V1hFMDd6dHZ0Y0VHSy1lUDd0M1Y4b0R3WjZYTjhLRXdrNHI3LVHSAdcBQVVfeXFMT1JyUFdLcjAwX3NCaTIyZ0FJRlpiRVZKU0oxRWF0RC15a3FFNkRKaUM2NEc2Z1EzNW14aTF0WjMxbXBUQWVRVU5BdVQxMDU5Q1RXZWs3YjFrZjdpVzNCdjh3dVQyd0V3VUZRV05KN05XenRYR0lCQTYyVV9RSnlscXJhTDRzd05jcFFrc21qQkU0YlZwbHZHczVObU9fa0xZQkwxLU1GRG5ZY0g0V1FoUVVjenZCckpmSTdmSWFrcUNEUmRjbXp0a2s0WGJRUkhPaTZHRWRTTEk?oc=5"
     },
     {
-      "headline": "Sei Investments Co. Acquires 231,926 Shares of Invesco Ltd. $IVZ - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaXNPb2E1LS1IcGkwMExTc2xRUUZoR2pWT3kyMkctSUdIQWctcnNMVVA0dmJZZVhOUTFOZ3FTNS1mNkdoRGplTG9sNFQ3bUZLbFdZaEg3STN4UHE2YUpLY1RhaE9nOFZ1a2c5blJub2hPR19MSWZzN3Z4MHd6bk9yencxUmZlMUdOWEpHTGxjcDdaeGtldDZ4X3YybXJBZlg0VU53U29jNjZ3R21uMkdZYkU2aFAwQjhfNVdQUUNR?oc=5"
+      "headline": "Invesco Ltd Stock 12‑Month Price Target Raised to $31.92, Implies 6% Upside - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdFRDME93T05PZ3ZUYlhFZFYwbkk5OGtWREZjczBtRFFRMVZDSVBOUmNGREU1MXY3VERocG1aSVBFblR2QUstMURuRkVacWR0NnA0ekVHU1NTeGpPUkIteWVPa09ueUpQeGpZeDJLYnNZMUFNV1ExZnBZcVg1Nmh1R0kyZlkzb18zMVZXNkhYVGhyYktIelpwNUx2VjA4QjdHX3R3ck13VmhlM0R6MVJ5WGpTa0RHQVJycXNBU1czTk5vLTloTWd3ZUpqMmtJbkU?oc=5"
     }
   ],
   "insight": "Tracking Invesco (IVZ)."

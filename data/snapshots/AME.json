@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:42:49.009Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:17.088Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    235.3800048828125,
-    240.9499969482422,
     237.52000427246094,
     237.72000122070312,
     241.94000244140625,
@@ -24,11 +22,11 @@
     237.75999450683594,
     237.08999633789062,
     241.13999938964844,
-    243.1199951171875
+    241.97000122070312,
+    243.1199951171875,
+    241.42999267578125
   ],
   "6m": [
-    211.1199951171875,
-    215.02000427246094,
     215.64999389648438,
     213.13999938964844,
     220.4199981689453,
@@ -158,10 +156,11 @@
     237.75999450683594,
     237.08999633789062,
     241.13999938964844,
-    243.1199951171875
+    241.97000122070312,
+    243.1199951171875,
+    241.42999267578125
   ],
   "1y": [
-    178.83999633789062,
     178.9600067138672,
     176.75999450683594,
     184.85000610351562,
@@ -410,10 +409,12 @@
     237.75999450683594,
     237.08999633789062,
     241.13999938964844,
-    243.1199951171875
+    241.97000122070312,
+    243.1199951171875,
+    241.42999267578125
   ],
-  "lastClose": 243.1199951171875,
-  "oneYearReturn": 35.94274216929065,
+  "lastClose": 241.42999267578125,
+  "oneYearReturn": 34.907232687912845,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQUZ0aGdpQUllQmhUUEJIamUxMlVxQV85aE1pSWR3TnhSa0JxcVVfVlJ6dDY1bC1LcHJJa0dWX0JOVDRxOFloWXBOZVlxVURVVUNSY19HT1dETnVUaFBzb2NXV0VKZDdKZ085UWFac2gxUndDWUVLaVZnbTUyd0Rwc0xLM2hRVkw1ZXFwN0pjNGpNdDJpNFJ6bVdYdG5SMU9qd0k4?oc=5"
     },
     {
-      "headline": "SummitTX Capital L.P. Buys 13,877 Shares of AMETEK, Inc. $AME - MarketBeat",
+      "headline": "OMERS ADMINISTRATION Corp Has $3.99 Million Stock Position in AMETEK, Inc. $AME - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSG85TGE1aXp4X3pXTThLdXZ6OXkyMmxjTHRTTE05a2dZZzVkQmdzWmlvVmRaZmNTN3BoTW9KQ3c4WjV3dU1IS2tJSmR0UFNPeENGRHo4YTdMT0NudG9aS2s5VHdZenZ0d1lNbWFpV3V3YW45VEVBWXBDVUhiQVlldzY3RTBtb2NKV2cxdGNJcUhtZ1lBS09GaldKR1F2cWFWd0tOZ3pVeWQyM1J0SFgwcEVxam1jMlk?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUkJQVGJmbVJMdTFmVDdjczNzRXdjU3Q1WlJPVUxCcnRpd3JYQ0FWbnRFNmdxYy1VV0R4czM1R21lcVFZQk5xZTB2Vld1UEFIeGh5UEF0QTBvU2I5emdzcmhuRHBwTnBwYWlEV2c3bnR6WC1FdzVDLXlrcEZHVElTVTVuZUpNQWVfY0RWSExmeE9VRmNxSzUwb3M2Zndmc290X2hwYTZBWDloeC1IcW8tRnBGZHAzcV9nSFRReE94OEhZZE5ZeUFraGkwM0tsR2pG?oc=5"
     },
     {
-      "headline": "AMETEK (AME) Stock Could Be 39% Pricey On Cash Flow And Earnings - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2N3TG91ei15Sjc0bGwxLUZaQWtKRndvQXJlbGg1aG9QSmFya0h1QUNySXNud0h0NXNBN0t0X2I2cnVtV2lOUnpmRy10VTJzT0E3OUNwR1BtM0w4UWNhSGIyQ0p3RTJrSEN6OXBIVXFQYk5pQnZ6dGEtd1VvVGpZTHp5OV9HNzFpLUxsLUJOYmw1Um14c2RHamFxQjVfeThWcktkTTFwWkVvVDRZdWJwZ2xVU2QwalJ1ZHhNMmhyRFZ3ZlZYa3fSAcsBQVVfeXFMTVdWVDBlNC11bUxERktHbzcteGZyOXZwbzRyNW9KcVpBUENMUmRvNUZJRnhCc0pJOElXeFNRam9Wb1FNNFpHM0NETHJsMjN6eDlsTmFBZEFsM21taEYyejVscDQ0bER1S0hrN3JBTk1kQU9QUHJUQ2dVVU9INnRUcjVFcHZkb0RmR2FoT0piQ3l2bGliWDZIeUhmVFRZQzRQeWpFUENfQlhwYmJQaXUxSTFpMEw3OFZtVTkzQVFmQzVMWEdnMURLcjNXOGM?oc=5"
+      "headline": "AMETEK (NYSE:AME) Shines as a Quality Stock with High Profitability and Low Debt - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFVqd2VnUVdETmllSWpUNEQxamxjbnJCUW9PUG5La01SR3dQNnRNQmpEV0JCT19uTlNaQ3N5Rm4wMzY5Ui1nazBXdHRocTVkYnJaakpqV2FueV9PNFVUWWpfeFc2N0tPZWloV1Fpc01FSmhHT0tqdTVTTm1KcmM0NUxKN1JJVUNqQVZfMUZaYmVQRDlXdktkOGoxTUl0cTNKd3NTcDdreTJ3X0F6M3E5UzFTa3g1RzNFSnhfaVIzVk5PUzktWGM4?oc=5"
     }
   ],
   "insight": "Tracking Ametek (AME)."

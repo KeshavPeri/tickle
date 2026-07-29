@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:28.801Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:59.191Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    26.979999542236328,
     26.739999771118164,
     27.1299991607666,
     26.65999984741211,
@@ -24,10 +23,10 @@
     25.850000381469727,
     25.950000762939453,
     25.770000457763672,
-    25.280000686645508
+    25.280000686645508,
+    25.610000610351562
   ],
   "6m": [
-    28.489999771118164,
     28.579999923706055,
     28.239999771118164,
     28.530000686645508,
@@ -158,10 +157,10 @@
     25.850000381469727,
     25.950000762939453,
     25.770000457763672,
-    25.280000686645508
+    25.280000686645508,
+    25.610000610351562
   ],
   "1y": [
-    13.699999809265137,
     13.119999885559082,
     13.260000228881836,
     13.170000076293945,
@@ -411,12 +410,19 @@
     25.850000381469727,
     25.950000762939453,
     25.770000457763672,
-    25.280000686645508
+    25.280000686645508,
+    25.610000610351562
   ],
-  "lastClose": 25.280000686645508,
-  "oneYearReturn": 84.52555502627791,
+  "lastClose": 25.610000610351562,
+  "oneYearReturn": 95.19817708641881,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "What Are Wall Street Analysts' Target Price for Warner Bros. Discovery Stock? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSTAtQTN2ZldUOUFqcDYtbi1Ja3ZUMlgyUkIwY29zMnFMT19GUFl3bUdEaGYwa2NsUHZfSk50a0t4MkRIQ2xoNUJRVU1SVmMtRHVER0N4WTNaTDZJa0l5aVdka3Z6UFk1X3Itd0FvRURrU1gwcjJ6RUROM0J2aC1wZmU1ODR5VW9oMGJaUUhZSkJrZnZqdjR3REN2ckhLQ2M3aUtoRnltWkR2TUxsLW05UDRsOTZvMFBTSWc?oc=5"
+    },
     {
       "headline": "Warner Bros. Discovery (WBD) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYzllbEdhTVdiSk5ISGo4ZHY5NkpKNHhMSnB4ai1nQWZENVk5TElXclREUWFXcDRld19KM1hjTjU4M0RCdHFXLUpCanU5anp4WFdXcHFfdnphaU8wVkVMUmc5RWN2VWZZNm9zZFhYUVJGRHdTaDhzR2NpN0VQSXdfSEVyWEZSTmlYSTFuajhhRG8yamtsMVF0bXd4NGY?oc=5"
     },
     {
-      "headline": "Warner Bros. Stock Hits Lowest Price Since Paramount Deal: Merger Odds Around 50% - Barron's",
-      "source": "Barron's",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdHYycTlHU2JnUkpNTW5HeGo2TWh3ME00dnFEb2FyWm5LWUFYRmRmb3phdVRsUEZ6Ui1EQWFmUi1LdVhjQ19MVFk0N0d4RFRLRk5IRVVtdVhiOHZFU21McVZhN0Ftb0JYelVMRXVSMWkyNnowMFRmaGJYbDJVV0lpa2JR?oc=5"
-    },
-    {
-      "headline": "Warner Bros. Discovery (WBD) Stock Rating Downgraded Amid Acquis - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOall0VzgtTTBIbmF4NU42a2loY1d0T25MUXlNdHk3MmM1bzN1c1F6bVNhY004MFNnWGtDMzF1c2M1d3pZQ2dncHIwOC10SXZrY1I3aEp2dDVFVWZCQU5kTkhtTUNNazZKZzRyTkRkOVA3dWhUdmJtS29MUGk2ak4zazNra2NMOVQ4c0d4VlVlRzE3QkI2ajZlVTFsYWJIbXNLaE1idVFWdWVuZ1pHZElzcVJPZjVKTmR4SHhDcnhCcFU?oc=5"
+      "headline": "Seaport Downgrades Warner Bros Discovery as Paramount Merger Faces Long Delay - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUG1VX09yMmJNa2hTVlBKS0JyQlNxVWFwYjhCUjFERUZ1OVROc0I4OU9Xcmg0WE1sR2tiYXNnR3N2aEk3V2JQOTktNmdVV0YyNWl5VGhFVVYtQ2VkdDhTclR4b05KVWU5alROT1NFb2NXUkVjYTFELTVBUld5clFOMXFFZFU4OE9zak03Zm5aTDVVZVVrdzgwWHA3S243Vjc4NzdlTUxzTTdoYWRVMHhVSXVaM1FTNnc?oc=5"
     }
   ],
   "insight": "Tracking Warner Bros. Discovery (WBD)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:00.252Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:28.575Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    137.82000732421875,
-    137.8000030517578,
     137.22000122070312,
     135.74000549316406,
     135.63999938964844,
@@ -24,11 +22,11 @@
     138.7899932861328,
     139.63999938964844,
     137.39999389648438,
-    139.9600067138672
+    137.6999969482422,
+    139.9600067138672,
+    140.77000427246094
   ],
   "6m": [
-    128.6699981689453,
-    130.1699981689453,
     128.5800018310547,
     126.83999633789062,
     130.13999938964844,
@@ -158,10 +156,11 @@
     138.7899932861328,
     139.63999938964844,
     137.39999389648438,
-    139.9600067138672
+    137.6999969482422,
+    139.9600067138672,
+    140.77000427246094
   ],
   "1y": [
-    94.21757507324219,
     93.26359558105469,
     90.62761688232422,
     90.25104522705078,
@@ -410,23 +409,25 @@
     138.7899932861328,
     139.63999938964844,
     137.39999389648438,
-    139.9600067138672
+    137.6999969482422,
+    139.9600067138672,
+    140.77000427246094
   ],
-  "lastClose": 139.9600067138672,
-  "oneYearReturn": 48.54978660304734,
+  "lastClose": 140.77000427246094,
+  "oneYearReturn": 50.93778381096061,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "DuPont (DD) Stock May Trade At A Discount Despite Lithium Extraction Launch - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNTg4cEI2cnJwWmZkQ3FaOHljTFpaSzR1UzdOSGJZaUFhbE5XOTZjcTBpbGVZUmFNT1FRQmRaZExnVFlJLXI4RkE1SUQwVzVuUXEwN0ZlU0I0MzZYZjZTTDhIanJKZF9xSzR1TTZKOExKUDZYSS0xZ2J6dnREaE9Ed0FLcXRFb19kSnZWa0VEMnRGNnduR2ZwUjNmT1NucG1saEtfRzgwV25tanVDdzNsVUpEOFFTM3FqbGRoTklOOG9GbjVld1VKeHl4LTUtZ9IB0wFBVV95cUxOUHA2U0xXaGh1Y3ozY0czd3VkZzc0MWlWYVZTbXhKN2l0Mk9PYXhRSVdfYUN1VjJfYTdXQUVKTUhIS3kwMXozLWlRZGtKelc2WkxvaDY0TlpXZnpCT0E2Q3FVTU16NmY4Y0dDUXVIcTBmbnpZb2NoMUhtckl2ZHBhMl92WFhnY2lkVDZDc0pRX1NrUk5rMXl3cVFsZGtBRWxqU2RXLXUxQlFRM042Mm01bEtxRFQ3VXhMVDBLQVlZOXViUTZ0Z1E1Q1VxZWlhRnpEd1ZZ?oc=5"
-    },
     {
       "headline": "DuPont: Updating Our Valuation Following Reverse Stock Split - Morningstar",
       "source": "Morningstar",
       "when": "2026-06-24",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZlpkejY4MG1jTlZuZlZ0T1VMem1IM0Z0VUtleHA3ZkoxaHBPemhHMVVJQUNGczRxMmxFLVhFRVM1N2l0cG1Pal9Lejc1cXJueXBLT0gyeWtzMloySFEzSkRKWG9pSFptQnJaYXlEYjRteXBsX2ZFMVhGMzlGZ0V0VENxaFlmd1c1amdZMWxDV252aXBjOEZRa0Fn?oc=5"
+    },
+    {
+      "headline": "DuPont (DD) Stock May Trade At A Discount Despite Lithium Extraction Launch - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNTg4cEI2cnJwWmZkQ3FaOHljTFpaSzR1UzdOSGJZaUFhbE5XOTZjcTBpbGVZUmFNT1FRQmRaZExnVFlJLXI4RkE1SUQwVzVuUXEwN0ZlU0I0MzZYZjZTTDhIanJKZF9xSzR1TTZKOExKUDZYSS0xZ2J6dnREaE9Ed0FLcXRFb19kSnZWa0VEMnRGNnduR2ZwUjNmT1NucG1saEtfRzgwV25tanVDdzNsVUpEOFFTM3FqbGRoTklOOG9GbjVld1VKeHl4LTUtZ9IB0wFBVV95cUxOUHA2U0xXaGh1Y3ozY0czd3VkZzc0MWlWYVZTbXhKN2l0Mk9PYXhRSVdfYUN1VjJfYTdXQUVKTUhIS3kwMXozLWlRZGtKelc2WkxvaDY0TlpXZnpCT0E2Q3FVTU16NmY4Y0dDUXVIcTBmbnpZb2NoMUhtckl2ZHBhMl92WFhnY2lkVDZDc0pRX1NrUk5rMXl3cVFsZGtBRWxqU2RXLXUxQlFRM042Mm01bEtxRFQ3VXhMVDBLQVlZOXViUTZ0Z1E1Q1VxZWlhRnpEd1ZZ?oc=5"
     },
     {
       "headline": "DuPont Plans Reverse Stock Split, Backs Guidance - WSJ",

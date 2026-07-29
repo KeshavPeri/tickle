@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:25.538Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:55.713Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    612.1699829101562,
-    627.1900024414062,
     624.2899780273438,
     641.219970703125,
     666.9000244140625,
@@ -24,11 +22,11 @@
     647.47998046875,
     650.5,
     651.219970703125,
-    651.6500244140625
+    655.3499755859375,
+    651.6500244140625,
+    649.6699829101562
   ],
   "6m": [
-    562.5399780273438,
-    569.719970703125,
     581.719970703125,
     566.22998046875,
     621.7899780273438,
@@ -158,10 +156,11 @@
     647.47998046875,
     650.5,
     651.219970703125,
-    651.6500244140625
+    655.3499755859375,
+    651.6500244140625,
+    649.6699829101562
   ],
   "1y": [
-    556.9600219726562,
     552.47998046875,
     550.5900268554688,
     551.02001953125,
@@ -410,12 +409,20 @@
     647.47998046875,
     650.5,
     651.219970703125,
-    651.6500244140625
+    655.3499755859375,
+    651.6500244140625,
+    649.6699829101562
   ],
-  "lastClose": 651.6500244140625,
-  "oneYearReturn": 17.001220681159595,
+  "lastClose": 649.6699829101562,
+  "oneYearReturn": 17.59158808957126,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Bank of Nova Scotia Has $4.41 Million Holdings in Teledyne Technologies Incorporated $TDY - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRVRKSmJlYjlhRkllWmIzaDZFZFZpcUh1d3Y1aDZNMlBrcFdGUHNzeFdia2dpTEdwNkpiQlMwNDg4bDdDM0dFVENJd2dNMDBzb1lZcHYxZEk0cHlad1ZZYVQ1OTlJVVloRHZGc25RVkJGOXhIVFhxWmxuR0J3UzJTVkptVWdVT1RkNEgxRnp0UVJWeVlLN0lqM1dyMFFtaEY5VVRGbVJvQVA4ZTNBUFZFRE1NQVV3bklnblVkcndlcWJWQ3RCR2xhaGdTQ1l4NWt1SFRVVUNtcGgyNUtLcG82Mw?oc=5"
+    },
     {
       "headline": "Teledyne (TDY) Stock Trades At a Premium To Fair Value - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUmJud2l0UUpPM1BWN3lFd2FkbzNBRW9VRm9ZUE1KcnBUMXF0MjVuSW4xTVhQRDFNRDNXS0QxRDVhYUZGUk1wMjRzRHA3LXQwYXMyQS1hY2Ewb1drbW5GVkVmV29VVlBuOEpJczdWUHV5UHVWOVR0Q0gyWXMwMHJqLVpvdVl4SmRESWlKOFhBZ3VvbS1JVW1VdDdQY0dPaW8?oc=5"
     },
     {
-      "headline": "Clough Capital Partners L P Sells 3,520 Shares of Teledyne Technologies Incorporated $TDY - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ216YXU5eHVOMWJxd2JMeDNNWHlJRlh1MXVLSGZwLTU0Nm5rS3UyQ1NzbTU3d3J6Tm5Ka3ZkMEpocjNXN2I5cW5hVXE3OUxVZjZUR2JiSS0xX0JnME92ZjZGeEtpNmRDY3hXRjJoUHZIc1hicXhuRFdQZlNpaGpveTAtbmlBRVpNYkdFaHBzNDNVVjNaNW1yZUQ4YTVCZmY5alNyazE4Z00zdUhkTGpJODdHc25UQXdFZGJGZWNvekVlM0xna0RldWdaS2J4OGptTnZ5bm1xY1VvQVg5UnpXa3R3?oc=5"
-    },
-    {
-      "headline": "Teledyne Technologies (TDY): New Buy Recommendation for This Technology Giant - The Globe and Mail",
+      "headline": "Goldman Sachs Remains a Buy on Teledyne Technologies (TDY) - The Globe and Mail",
       "source": "The Globe and Mail",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVy1DQ1p1c0VsTUY5M1RFbkZ3RndNeVRVQVRZbkZCNWNZUG5fWEppcFEyMEdwM2g4U0h2cHVaeUdZb25VVlV4OG96cUR1RVV3YVRIQlFnNWhEMHB3OVZ4cHJHZ1VzeUhtODJsUnVTdzgxeXlqbEx4cFVGeWhhenFIdU1XUmExLTVNTUhYRXJQTU5zMndrd2dxdUtsNlF6ZGt5OGczckJUQ0RjNzZrTVMyQldhUHdVc2JZTkROeGQ1Rm43R0pKLXZ5anYtSkxhbUVXeERKX1A4aHRNandIWFA4QXZuVXZISkR5c0l3MlN3RQ?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTDExYmdET0ZtZWVjVk12TU5IcmFpUXJVeGJaRUtLeVRSMzdSTXIwU3BzRXV5aHYxc25UWlhJYURGOFI4bHZGVU1zaHdYOFdhUDc3aFpfV0RVX0tHVkIwSmdoUTBWcHl4Yk1UWVNVUmZuNmJZaGlyQ0J3SzUyRVhpSG1GWjcwZFRiR1h4eV9NZU4zNFFUdkNZeGpRZHFpc3VNcTBMMHB1OGNfdndYVkxqSTFmWUFTN2dyUDIzb3hZU0VHZktaaldKWEltakNwTk4wSlRj?oc=5"
     }
   ],
   "insight": "Tracking Teledyne Technologies (TDY)."

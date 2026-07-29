@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:17.295Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:46.687Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    61.20000076293945,
     60.790000915527344,
     60.150001525878906,
     57.84000015258789,
@@ -24,10 +23,10 @@
     60.86000061035156,
     60.04999923706055,
     60.52000045776367,
-    60.66999816894531
+    60.66999816894531,
+    62.47999954223633
   ],
   "6m": [
-    57.29999923706055,
     57.2400016784668,
     57.9900016784668,
     57.349998474121094,
@@ -158,10 +157,10 @@
     60.86000061035156,
     60.04999923706055,
     60.52000045776367,
-    60.66999816894531
+    60.66999816894531,
+    62.47999954223633
   ],
   "1y": [
-    69.58000183105469,
     69.70999908447266,
     65.0999984741211,
     64.69000244140625,
@@ -411,29 +410,30 @@
     60.86000061035156,
     60.04999923706055,
     60.52000045776367,
-    60.66999816894531
+    60.66999816894531,
+    62.47999954223633
   ],
-  "lastClose": 60.66999816894531,
-  "oneYearReturn": -12.805408777860503,
+  "lastClose": 62.47999954223633,
+  "oneYearReturn": -10.371538713513988,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Mondelez International (MDLZ) Reasonable on Cash Flow or Rich on Earnings? - Yahoo Finance",
+      "headline": "MONDELEZ INTERNATIONAL ($MDLZ) Releases Q2 2026 Earnings, Stock Rises - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFhYb09hZURuY0xEN0tfbjd1WjM4aXgwTENhU1NfRkFmOTBVZWtKZEEtVkxyWGxtc01FMUdNNWtrZzhyb3RKX2NFSVlHSzVRdUhQVEgzc25lanltamJrSlhTS3hNakhVMGtub1IweURfWmFTRjFEVTNpRE5ONG9wWVpPVHdQanNrZ2tNTVNpYzBuSU54NEktQzJiUGpEQlg0WWNZZWFaeEhlekI4bU9J?oc=5"
+    },
+    {
+      "headline": "Mondelez International, Inc. (MDLZ) Stock Forecasts - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVmR3Z0xIdWV6S19QTTVNY1RweUxTUno5eHBVZ0pjUTVTSC03WmpRWWlrUDgwM3F6clJQWFFzeXNCYjJhNnJfb1Z5RS1kRV9MVFo0NzhVWkcwQTU5cDdEazU3bHVaNGdtZGFZdWJyeUlSUExoV3Yyc3p4d2l1Ym1ZVkdGeWlVR3RfYk92STlFWndZekdKc1NvVm4tRFFEWldydkRDSkZvb1VJNzBy?oc=5"
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdm9vbGx3TjI0SmFuQkc4MlJOaU13QlFHY0RTZmY1S1JrSHNtX3k3QzlaVFJtN1N6SGpzMHpCbko3bHVtdDJoZWwwOW9DSHphXzZGdW1WMWt1T1dxU1BrZko5dEMyMC1JaVd5Q0h1VGhLYWVZbTM0WURlTWQwbGJvTE0yOVlSY1FVelBFSXpB?oc=5"
     },
     {
-      "headline": "Mondelez (MDLZ) Stock May Be Fully Valued After Its 13% Rise - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM3ZwejBWbFVqcDc3RXRGMnFVUDE1ZUc3ZG4yalVLbmxTZHFzSGVyTGY3UG5fY0ZCR09KRjFwZFRGZ21zeWlrVFNvQlpyamNPcWJLLVg1bHdkMnpQbzE5TkpEZEJoaktqVzFUb0FYYUpRcWlhVk1pcTVJVENHNm1mZk5nZUZ5M1drbF8zVExoMmlZdm1yb2tpS1ZVMmcwMHJ5c2JIemFDQTlpSVlrTk1xYXN1aHZ6c29qWWpPN0J2Z09odnkyN3ZfLTNWVk5nTVJSOWtITWdrcFRwM0Z6dFpFeW9SODMwQdIB6wFBVV95cUxObkd3S1BKVFkxZVpOVkcwV250VzBiQmNYY1FLVF9pN05MTDY5WUg2WlNoSVdoY21ONGxrU2kzVk10MjdOaHNnUkRNcHhEQ2hWZUoxVWlzRlN2d0Z5a1I3LWdZcGlRdThKSU9lSkxsdDlIb0VJSTk0eWE5b19YckVUWkZCVjJTR3JXSWtDd19JUWlzc1J0VWRwcVg5VDZjckVxUUJuRWczLXlXZ1N6OTdvS3hiSk5BSHh5M2FoMmItOFJGRklZNWR4XzE0aVJ6VEd6SDZ5ODcyQmliNWhESmxhU293NVdhcWhid0Nz?oc=5"
-    },
-    {
-      "headline": "Bradley Foster & Sargent Inc. CT Lowers Stock Position in Mondelez International, Inc. $MDLZ - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTXh1em80Yi1QSGR1aWozQVQ4OTBLamQwYjExSzdZSUZTTWJNVEdmd2NMUFpTOV9iamZZM19fc2YyNUh2NDZoaW5WbkhDNmk0U3FhSFJiSEhqWWdpbENnX2duNU5rTW9NSnNTQUd0SjdfT0hsNHFiOHpraDdqNXV6ZU5DbDlEV044d20xdGpodmxGN2wtOFlEUDE4MUVUUUh0aFhqaWJ1N3Vmb3dBUDZDVGFhZXNPNnRnaDU0QVY5dlNUYUJMWU9UOTVONVR1Zzk2VmNBbGlSMnRZM0pPZDkwWA?oc=5"
+      "headline": "Why is Mondelez International stock climbing today? - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSU52UF9sVnRNZllSaDExS2VVanJZT0F2RlM3STVvRVd1RExXRzFrNEJaRThlQ3pvMDNDREljRTRXNWR0cXdnbFpORE5JLU1feTZXR0hmZVBJMGNjM3g4V3VacDhXMEVGaHNWWFhhTE95YXRjTmFab01MTENCMEVjRjV5WjVOUlMtZ3ZDSmJ5bkZOWmF3SGg0am9mUTVpa3luQS1vN196d19BZzVvejhtQjlHdENfMEdITk5Jeg?oc=5"
     }
   ],
   "insight": "Tracking Mondelez International (MDLZ)."

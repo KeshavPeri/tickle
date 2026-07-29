@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:15.735Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:45.189Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    92.94999694824219,
-    93.86000061035156,
     93.5199966430664,
     90.8499984741211,
     90.48999786376953,
@@ -24,11 +22,11 @@
     81.83999633789062,
     82.1500015258789,
     82.12999725341797,
-    85.04000091552734
+    84.63999938964844,
+    85.04000091552734,
+    87.6500015258789
   ],
   "6m": [
-    121.38999938964844,
-    122.25,
     118.58999633789062,
     115.16000366210938,
     118,
@@ -158,10 +156,11 @@
     81.83999633789062,
     82.1500015258789,
     82.12999725341797,
-    85.04000091552734
+    84.63999938964844,
+    85.04000091552734,
+    87.6500015258789
   ],
   "1y": [
-    116.13999938964844,
     115.86000061035156,
     112.37000274658203,
     112.18000030517578,
@@ -410,29 +409,31 @@
     81.83999633789062,
     82.1500015258789,
     82.12999725341797,
-    85.04000091552734
+    84.63999938964844,
+    85.04000091552734,
+    87.6500015258789
   ],
-  "lastClose": 85.04000091552734,
-  "oneYearReturn": -26.77802534661718,
+  "lastClose": 87.6500015258789,
+  "oneYearReturn": -24.34835054018826,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Lennar Corp. Cl A stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdFY2WUEyZUkxZWR3cUdJNjNHZU4xUlJRY0JpN21BMXVOY2VLZ25JVkJyMnFMZDNwd0VoRmtmTlpKZzllX0M5U0pFdmRYdGExY092eG5FcDRXakRvVl80ZEF3VGN0SGNCeHFfT3NsRDg0UU5leFFxTnZ2QndzdUhGb2QtM2k5ZFNMV1VFaGptem9oXzdleC13V2dNbXdJMFJRZ1BwbVBVeW5fV0FGaG1sb2pRWC1DT1RhR2tfUUFXcmpYWHNQNzZB?oc=5"
+    },
+    {
+      "headline": "OPEN Stock Rallies Ahead Of Q4 Report After Lennar Bet: Can Results Hold The Gains? - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNEZFdGtFZ0VDNkZCU3h2WGRVZVBGelZmenZULTlJM0xCc3RrcVh0WnJSMHJ6QTl0MDc5X3plb1Rkbm1tRzR1MllIQ0tFNzlUdkVUV2I5WFBuY2hhRkNWUDdtUFpodXhGOVhlVC1nOFZlTGcya2h6SERia1ViWUc4X0dyaXREakRlY2F0bGpJV1J6RTNLbVJUTjJuWFpyYktjc1FKUGtOQl9ReVg5a3lCQVhERU02VnpIY0FoTlpmem5BWEpCN0d3Q0lTcHZoN2MwOXk2WlprS1htNHB5QlE?oc=5"
+    },
     {
       "headline": "Lennar (LEN) Stock Still Looks Cheap On Earnings Power - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-26",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHBuM0M3Nm9vOTNxeXgxc25XalRFYmp2TDFOTjJfcWQzb2tSNFpEUEFRN0tJbjdNbV9YWTh6VDVRc1AwTXFEUEJVbkVBbVJDUDJOZUdqTk9HS1NkS05GVjZLTmQwMEI4N0d0NDU2RzJES0JJVDZ5MGNWWm5ac3U1STNOWXlheEtsWGVxMENhTnZuSEI4TE81Sg?oc=5"
-    },
-    {
-      "headline": "Lennar (LEN) Stock Looks Below Fair Value While Broader Checks Stay Weak - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS0dyNFM0dHFLR3JVZ1l0UUdFeXVpVng0Qjl1WXFIRk9rcjRBLUthYjVWckhZWWMxeWFZWnVQcHg4RG1iRHNLUHZOUU5UenFvdEMxVGF2OWJ3bnE1aDcxQjVHdS0wc3Vyb1ZHZVhLQmd1ZmZ3dmRSTjlmNklDTFN6aDFSSXN3c1ZYbnlDNHNyYUNjc3hwbTl4VXRoa1VCQm1rNV9hcE4yUVdXQWlCeS1TZWNFUXYyMHYxb0lfS2I0bEw3UFliYkVCQ0pqNNIB0AFBVV95cUxPVUh0bGRRS3lhbVVkLU9rQVBwT0RJVUNZV0ZIRklSUEpEbDdHcXJOYlRZUDR4b0lfT1NkUkd3TTZ5RVVXdFZwcGloc3p3TUFNQWEtZXE0QXF5QWJ4MTVyYTV2OGFSclFlc1g0VEN5Tm1BMmhqRzJMNGVsSmctd0RUSXFwQjVaSWw1UE9UZG9obTdpSTlobUtNTmZaMGJST01XV3FtOGJlZFlqN0thOUdRSlNzTW9oNzhLTkIwWXdQeGlwQTJjYVZIT0ctaWZYQktN?oc=5"
-    },
-    {
-      "headline": "Lennar Corp. Cl A stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSklyMG1kaV9Cal9sRTl5WlRFZWZZS1FQT2JMWGhSLXltaVpZUE1wTGt2aTktdndQSzBOUUtGME1ZTXoxZXRHdURqNUR0R0liM3VsaHZyaTV2X2JDNlV5d0FaaEdnZHowT2lUS3lidG02UFk2MFB4VnlMNmFOcEtNamJFUGVodGFiWkpLeFJaazdPUDZBWGpqMGxlWUN0ZTFuSTF6TGI2bHltQnYwbEVkdm8zb0RfNFBOeWd2QXRpU0I5NzdOUnBvUS04a2RSSmVzUlM5M1F2Z1Y2c1R2M1k0XzhCZ19pOFE?oc=5"
     }
   ],
   "insight": "Tracking Lennar (LEN)."

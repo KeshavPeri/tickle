@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:05.091Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:33.936Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    160.16000366210938,
-    161.6699981689453,
     160.72999572753906,
     161.97000122070312,
     162.97999572753906,
@@ -24,11 +22,11 @@
     178.5800018310547,
     177.4499969482422,
     176.17999267578125,
-    171.33999633789062
+    175.3000030517578,
+    171.33999633789062,
+    171.4199981689453
   ],
   "6m": [
-    162.22000122070312,
-    163.75999450683594,
     162.41000366210938,
     159.1199951171875,
     162.50999450683594,
@@ -158,10 +156,11 @@
     178.5800018310547,
     177.4499969482422,
     176.17999267578125,
-    171.33999633789062
+    175.3000030517578,
+    171.33999633789062,
+    171.4199981689453
   ],
   "1y": [
-    115.36000061035156,
     114.45999908447266,
     111.37000274658203,
     116.23999786376953,
@@ -410,29 +409,31 @@
     178.5800018310547,
     177.4499969482422,
     176.17999267578125,
-    171.33999633789062
+    175.3000030517578,
+    171.33999633789062,
+    171.4199981689453
   ],
-  "lastClose": 171.33999633789062,
-  "oneYearReturn": 48.52634832815338,
+  "lastClose": 171.4199981689453,
+  "oneYearReturn": 49.76410933083757,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Bank of Nova Scotia Has $9.99 Million Holdings in Expeditors International of Washington, Inc. $EXPD - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdlBnN2hFZGxaTy1rMGlHQjR1UUZzcmxkM0dpZFBra3U3WjVZbEtOOTRzRWpvWTNyV3lYU1c3cUFLNlc1Y3JtR2FqVGNKZHpNaHhDSW9sS1JmcWVucGxzOGY2OEJrakZicWh1OVlNcDNhYmdCU2JrSWtTMzdDTEFrUmhpN1M0bDVKc0t2V0NjMkxVaUo0NkdRcTB1WVR5anNfM3BXV1hmVWdWMmJCSWFPd0tGc3pZYzh2N0p6X2xfVWZGS3VuQ0tIVTNKd0ZGZGZCTTEwVTROQUdfREd4YVdhOXZDRVJaUF9HREZhRw?oc=5"
-    },
-    {
-      "headline": "Bull of the Day: Expeditors Intl (EXPD) - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVVBBR2xWbkNISjk4WmxWNnhMck1DdV9ieXo2NmVKYXJlV1M4TzQzZlFJemRWelltNkZVa0ZqUFhrVFVibGl4NVp4RzhTVmJTcUY2NVNOcG5BSDdPUnB6SzU2SFloNG5zSUNnQ0hQaU9scWp2a19MSWRfenNDUE0wcm4xMlo4QTBvcHE3S1FzMGlfNXdzUzhXNTZ3?oc=5"
-    },
-    {
-      "headline": "EXPD Stock Price and Chart — NYSE:EXPD - TradingView",
+      "headline": "EXPD to Report Q2 Earnings: What's in the Offing for the Stock? - TradingView",
       "source": "TradingView",
-      "when": "2026-07-11",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80TTFNMUIxRHBOYV9zOG9Ma1ZSU0lrQlUzT25CWVQ4MkxMa0g5d19XS1Y1d3AxM2d4enpxdWVEdDV6ck93bUVKazlmNVo1STRNc3lFTUZ2NXdQQQ?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzlVVTJORldlN1hQRGNSckxtTk1DVDFOODNxWFJ4NW5UajhJYk44bUh2eTkyM3pSbkQyX0VzZkxNTGhYaW9aMkVJY3NTc0d4U2E3NVdUSnVGXzhuekpHSFdTN040OUtzS0tGbk9IcUtRLWpHSy1mR2E4d3lDa01rTUtLV21NdmFRcWxvUzBKS2FwX2tEVVNtXzN2elBpZWxZVTI0dDRFUlVWR0hEckxzN0c4SHA5LWpO?oc=5"
+    },
+    {
+      "headline": "Expeditors International Of Washington (EXPD) Stock Trades Above Fair Value On A 61% Run - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXJRMFAtNU1EVFRjcWFMSUFScFVkMlhJSmlHbEZfVV9GYU4zZy04cjJxTjdXdmRCLWVfQWh0MlR2OENvdEdrNVprVGJjTWdrRWpTZDEyd2hfTnA1RWhiQXBWNG8zZGVzTzVMSUhkYlBCWnVaUm84Y3RpZHowY3E2YThhVGVWdXFwWVcwVTd5ZklTLTFacWZPT05qRGU0ZWZnTlk0V295ckRmOXU0d2k2Ug?oc=5"
+    },
+    {
+      "headline": "SEB Asset Management AB Takes $4.95 Million Position in Expeditors International of Washington, Inc. $EXPD - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSjV0MHdaUURnQ0I1M3RLYkxOemlRVzRKbmU5ZFdYdU1FNlJSYlBEdWlBbk9rOG1PS3VkeEZkd3pUQS12Z011YWFwSW5faHZUNi1FYlRYcDVndmM2cFl1NXpCUjNNV2ZIcDFIM1NYcVlyMHBNWC1BWW96dzU5VzZYNW1tcTg2c25fQUUwUzZDUnpabWlsYU9kWlNyYUZCclZEdkJLd1RSdXZhUUlBaTFWY3VHWXg4eHRKUzBjNkYxdHREWDdvQmo5MW5wME9iS3VteFF6TlFJb0FHUnhOWElzdzA1SXVyX0xXQU4tZloybFNUWmJC?oc=5"
     }
   ],
   "insight": "Tracking Expeditors International (EXPD)."

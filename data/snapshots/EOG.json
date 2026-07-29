@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:03.717Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:32.243Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    134.4499969482422,
-    133.58999633789062,
     132.60000610351562,
     131.92999267578125,
     129.72999572753906,
@@ -24,11 +22,11 @@
     143.44000244140625,
     144,
     145.49000549316406,
-    140.30999755859375
+    146.38999938964844,
+    140.30999755859375,
+    139.63999938964844
   ],
   "6m": [
-    110.73999786376953,
-    108.0199966430664,
     105.31999969482422,
     106.20999908447266,
     108.05000305175781,
@@ -158,10 +156,11 @@
     143.44000244140625,
     144,
     145.49000549316406,
-    140.30999755859375
+    146.38999938964844,
+    140.30999755859375,
+    139.63999938964844
   ],
   "1y": [
-    121.6500015258789,
     123.1500015258789,
     121.23999786376953,
     120.0199966430664,
@@ -410,29 +409,31 @@
     143.44000244140625,
     144,
     145.49000549316406,
-    140.30999755859375
+    146.38999938964844,
+    140.30999755859375,
+    139.63999938964844
   ],
-  "lastClose": 140.30999755859375,
-  "oneYearReturn": 15.33908409260912,
+  "lastClose": 139.63999938964844,
+  "oneYearReturn": 13.390172683273821,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "EOG|EOG Resources Inc|Price:140.290|Chg%:-6.100 - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CTHpqZWcxVkVZNnlWNVdyS1BsSkEwMDhLMncxTkZra2JRMkZmcHV2YjVqRjNpTHZxS3Jnd01ic29kM3Z4YnhzQnhDMXFUQmFQcXZHcHVYLUY?oc=5"
-    },
-    {
-      "headline": "Family Manage LLC Has $2.71 Million Stake in EOG Resources, Inc. $EOG - MarketBeat",
+      "headline": "EOG Resources (EOG) Expected to Announce Quarterly Earnings on Tuesday - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWHp6ZUtsREZSZnc2RkhJUndSVVRoRmoyVHNhQXdnTmQyNzJLcDRJaFFUZ1JwU1YwZ0xucmxZdTZ3SW9FQjhvUEJXQV9lX19oM3VNSTdnaHRqc2gyUkxteTd5NThXTFJpR1hMV3RoVEx6emp3XzFRMUpxOEpERy1YNFM1OHBKVFhwcUlOZW90aHdLUVRyNEdzZVd4VmlpZ3JEUGZWaFdpblpzeXJ0dXZlakduSUtGbVA1eVNLbC1kS2JqVUE?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOem4xeVRKTU5BYU9obC15Ukd6Q3o4Wk5TcFZ5amVBT0ZDRHliQTByc3NFSmZCYndYUzVoV1p6ZnV0UXhNRHVHbzJHMGNZUGRZSUlVbVRURlVROTBHNzhmWHhTMklOSVZ3QnAyNkNvYWYwMVdZUHF6T01lN3lvUWRoTmFsbWFaMjAzallhdFhObVNGZGRLVWRqV0YyMFZDVWl5NmxtX0RoNDRkeFNzM0VncDAwSVFzc25BVE8xa0hJYw?oc=5"
     },
     {
       "headline": "EOG Resources (EOG) Stock Still Looks Below Fair Value Today - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-08",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzJ2dVJ2bVoxZWJ3NmxBWFNqcElJNHppbTN6ZkM3NjBrdDY4aWUxUlluWXFlbWdSTlBhZk1lM2s5aTJjbDdnMk1xWkE3LTRuRGotZjgwY0dpTnNUbFN5QXlEbTBlWWFXUlJMU0Y5bWJFLTZrc3QzakhfMnZMQkJUVkIwTHQxamR3bVFVaC1qVVZKMV9zNVdkSHVn?oc=5"
+    },
+    {
+      "headline": "EOG Resources Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUGxlbkVWc05YZlB6TEZvN29mQUlBTkVWbWs1VlZIYXRITFlVdXpfM0JIc3hLUTBNejMwbWtRMThrRFdGS2FsaHZZYmlYU1V3Z1Fzb25QdDZlTzF0ZS16bHJmcGFDWmVzdXJXNklsa0xiczdYODM3SU1JQllQbDNoMHNFZXp2Qm9rY1Y1WXNVaXZYYnVEdV9nZHpSakZfYk11UHdoTHR6WUpFMEZaVlFBdWh1WDRpU3plTldTYXpxT1lBRUdEUm83dzI2LWsyR2hQVHRmYXQzekowMExZYWtiNkprNy1tQQ?oc=5"
     }
   ],
   "insight": "Tracking EOG Resources (EOG)."

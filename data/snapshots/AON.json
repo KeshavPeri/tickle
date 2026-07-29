@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:42:49.796Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:17.559Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    325.4800109863281,
-    315.95001220703125,
     328.69000244140625,
     327.57000732421875,
     331.69000244140625,
@@ -24,11 +22,11 @@
     359.3999938964844,
     352.3299865722656,
     355.7799987792969,
-    367.1700134277344
+    361.70001220703125,
+    367.1700134277344,
+    381.260009765625
   ],
   "6m": [
-    346,
-    344.8399963378906,
     343.8599853515625,
     339.5,
     332.760009765625,
@@ -158,10 +156,11 @@
     359.3999938964844,
     352.3299865722656,
     355.7799987792969,
-    367.1700134277344
+    361.70001220703125,
+    367.1700134277344,
+    381.260009765625
   ],
   "1y": [
-    369.1600036621094,
     354.0299987792969,
     355.3399963378906,
     355.7099914550781,
@@ -410,29 +409,31 @@
     359.3999938964844,
     352.3299865722656,
     355.7799987792969,
-    367.1700134277344
+    361.70001220703125,
+    367.1700134277344,
+    381.260009765625
   ],
-  "lastClose": 367.1700134277344,
-  "oneYearReturn": -0.5390590027722585,
+  "lastClose": 381.260009765625,
+  "oneYearReturn": 7.691441708391321,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Lazard Asset Management LLC Sells 68,829 Shares of Aon plc $AON - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3FxX2tXc01YY1piQlZlR3lnQ1ZYN3hoVFFVNDBLaFBXQnBjSDM1VlFqSG5wMFdlZUVPeUJxSjdiUS1KNWZuWVljNDBCbnBUT2wyY0JiNW9xd0lPWmdCMjlCd3lSZE5nTXAyQjJ2MDFobk5wMXZvLVI2ZlJKdWFuaWhtS0ZiRko2NWY5V3ZMOVg5RTFHR1ZKbjR6enptd1haSUc0RTNQbTIyMUtCeE1JLWVDNTBDZ1YtOGFucDl4OA?oc=5"
+      "headline": "Is the Options Market Predicting a Spike in Aon Stock? - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOFc2el82SmU1ekQwNmhYSy1VTGdYSHlPRzBwOG5vZFJrVWJVM0hFaU9ucFI2aWhoYm5iQlFuVEJ2SzF2a1JGbG1XNC02VkVHQVJCcnV1ellOVVdBdWU5dEpKc3pOOHFXdEZrbERKb3pVdzZnUC1rQTA3cUQxbmQyYS03MkRUZHZkeDRoSERVMlVmR1ZhUGZQNWJwaHdROEtHRW04d0wwT2E2cllyQVE?oc=5"
     },
     {
-      "headline": "Fund Update: 191,570 AON PLC (AON) shares added to COMGEST GLOBAL INVESTORS S.A.S. portfolio - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS3lsdHlXT1MwQm9UbzFIZUgwV1Q2QXVsQU9GdkdpZUpMcmQ4NUZHaXE1UHFNNzJpR3p3cFkwS3hfMHdNdGl3NFVoYnBmVGtMZElVT3AzeXI5aktObm9oZGZQNHhiSXkxOWVXLU9EZzd6SWI5bzViTUtHVVZKN1RvRFlySWRxRGQ0dlpYVGZVT2htVy11Wm0ycWZVVHhUYXlxWTlHa0F0UnI1SDUxdFNWeExsNHJWdXZObk44OTlSeHJ4Q19TMXA4MV9KaXlqQQ?oc=5"
+      "headline": "Aon plc (NYSE: AON) holder files to sell 1,900 Class A shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSnFRc1pYczlnSXZaRWhQcDR2amlzZV9vWG4tN3YtR2hPN0FNbDdMeXA0bzE3QzByNXJxdTVuRzhIMnNHNEhUd0NXTUc2V01xNENqRjdEdGRRSXc2UkZVTGJ6T3RvSDdwZ0p3c1p2SWRyemw5aUM5RF9qVTU4d0Z3SXhzZk9MbnhwS0dV?oc=5"
     },
     {
-      "headline": "Aon PLC stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYkl2TnJ4N0FaNWtWbHUzWEV0Sy1IU2p6dU1sUmpsTTVlN0gtMzVOOVpUem5uWHVjcE9qaUM3MFZ3ZzFVYjUyWS12NUpiZXpaUkNleldBbFRHcjYtbGwxTTY4OEZ2NnRCck9EOE1yUVV6Njk1MlBfNnRsUElGdk1Ba21sRkx5TWpRNG1jS1dPUDNUWXJGdUVwdVBtWXFjMGh1RldJaG42TnZYNloxRjdYNGV5SGVacjJJSEdfMzNUOG1lMzlPY1BPeVNUZGdkNjZ1RW0tLVc0T1RzTzg?oc=5"
+      "headline": "A Look at Aon PLC (AON) After 3.8% Gain -- GF Value $398.64 vs P - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmx5Qk83czNKQTl0Y1Y3bmEydTAxSUxHSHFhWW9ybXhSeGlrN3VNSzdWTTU0MzB0dDNTOFNhWkNaOUowejQ5WWFZZEJmN09vWTN3MDNHeXdCUE9uZVA3UVNVWG1CV005R3huUW1YQ0QyVjc3ZERUdlNyUnIxNHdabnZ0NThQOUlLcjlua1B4a0NqQ2lTV0F3LTFmM3c0RjJJNjZrWU9GUQ?oc=5"
     }
   ],
   "insight": "Tracking Aon plc (AON)."

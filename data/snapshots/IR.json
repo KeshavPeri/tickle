@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:13.213Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:42.489Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    78.31999969482422,
-    81.69999694824219,
     81.37000274658203,
     80.9800033569336,
     81.98999786376953,
@@ -24,11 +22,11 @@
     80.9000015258789,
     83.54000091552734,
     84.30999755859375,
-    84.66000366210938
+    84.4000015258789,
+    84.66000366210938,
+    86.5
   ],
   "6m": [
-    85.98999786376953,
-    87.31999969482422,
     88.16000366210938,
     85.16000366210938,
     89.81999969482422,
@@ -158,10 +156,11 @@
     80.9000015258789,
     83.54000091552734,
     84.30999755859375,
-    84.66000366210938
+    84.4000015258789,
+    84.66000366210938,
+    86.5
   ],
   "1y": [
-    87.83000183105469,
     87.06999969482422,
     85.76000213623047,
     84.62999725341797,
@@ -410,29 +409,31 @@
     80.9000015258789,
     83.54000091552734,
     84.30999755859375,
-    84.66000366210938
+    84.4000015258789,
+    84.66000366210938,
+    86.5
   ],
-  "lastClose": 84.66000366210938,
-  "oneYearReturn": -3.609242972626779,
+  "lastClose": 86.5,
+  "oneYearReturn": -0.6546453391777165,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Ingersoll Rand Stock (IR) Opinions on Leadership Transition and Analyst Targets - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdFFTRDNiY3EyM3FDdDc2X3pQWU5kQmJyVDBSZlBibVFXVHJGYTMwb3RBM3BBLXhLOGxiYlhsa2RTYk4xV1pES3BYM0p5SUpObi05NGpwQUZ6cHA2dEw5ZlVkbTY1RU5rMHkxTmJ0SGRhRWwtMS0tdmxxMzNkNV8yWHZEM3k5eUF2S0RxU1lxbGE5ZFpRT2Y1RkNTTHpXclNEdFUya0VNNjFOM3A2Qlh6MXB3?oc=5"
+    },
+    {
+      "headline": "Ingersoll Rand (IR) Q2 Earnings: What To Expect - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOengxSERwY0g1UWlLTFVYeTJiWE40Mk9US1phbmV3enA0bGV1RzRCbmFUSUFvVzh2MjZPLXpaTDlnMVpXNS1FTnFSbFlmZUtEYVViU2pkX0FmdWhSRnM4NzRaQjJ5OUVBMjRhbFo3UGN6VDQ2YTNncnJIa25NVE9uTGFteXNiYWlzSXRDSTRGQ1dvWmFRMzZkMi1YdktqVmRfR0V3S0xlNFU?oc=5"
+    },
     {
       "headline": "Ingersoll Rand (IR) Stock Looks Fully Priced After A 65% Run - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-11",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQUlWRGFQWFBpM0ZRanVyR3RlOE9PQ0syd2ltOFUtOUNZUlBOQlVuQ0xCS1ZmZ3hrdEZZVmFKSHlhT2M0OE5acmx0QUhGYlptblE4dEY0ejR4dGlLeS14WThIVllTVERhTUZzUWVESV9tLUpFdVlvc2ZsWnlONUNzM2lORUpYME1uMUNKVFdYZWRSakUtSnBSN1Vn?oc=5"
-    },
-    {
-      "headline": "Ingersoll Rand Inc. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaFJuZDlkX0FkYUJOQlROMFRCRl9ncTVLZWQzTVpnSVk5OFd6TFNwa2JIZVc3MXA4X2Nna21vWkxzOXZNdFp6N1lveXRJZ21LME1vb3VULWhwcDdWaFB6VkRxRF9JVkFoTWxmV3g4c3lpOW9OVUxxbHF6YzVpaVNONFVibnVJWGFORHpUSnYzZjkzS1B2a1Q2dEEtS2htSl9OMkF2NXJGaHZDaDBQdG5QZ2MyUmJXU2d0b3hWRGZsUHhaOVE3WVpyLWFFaEEtVWI3TUdMMkpTa1ZMUDRNeDFsQjJCX1Zud2ZoRllsaWRn?oc=5"
-    },
-    {
-      "headline": "Aristotle Capital Management LLC Has $94.86 Million Stock Holdings in Ingersoll Rand Inc. $IR - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYnN2emFXRjBGTlJGSTByRWxBUXlocF9Qd080YlZHdFIxWDJzTWhaY1FieExXTDBqM0JvQVo2UkljUWZtbXhiT3d3RVpOYmxMQnFIaWQxNGdhRG5VdWQxSVBwRnFzTmtfbEdlNUxUdXIwWS1NbGdnOXZiSUI2MUJtbnJaRmZ6UGlRRXFqX2MxYWtoN0FtbExma3VneHVNUGRjWDJQaHhOVHRmbUJtTHhaalhtSVFCbTM1ekJjbXdSNFd0STRfMEdra3dqbjlVaUhQQ2VBdG1XRHN6Vy1wQnRSMldSMjI?oc=5"
     }
   ],
   "insight": "Tracking Ingersoll Rand (IR)."

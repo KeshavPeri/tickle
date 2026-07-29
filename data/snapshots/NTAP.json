@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:19.672Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:49.483Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    155.55999755859375,
-    154.58999633789062,
     152.4499969482422,
     155.05999755859375,
     154.75999450683594,
@@ -24,11 +22,11 @@
     165.75999450683594,
     166.5399932861328,
     164.63999938964844,
-    169.8000030517578
+    167.74000549316406,
+    169.8000030517578,
+    174.52999877929688
   ],
   "6m": [
-    107.66999816894531,
-    108.4000015258789,
     103.83999633789062,
     94.11000061035156,
     97.08999633789062,
@@ -158,10 +156,11 @@
     165.75999450683594,
     166.5399932861328,
     164.63999938964844,
-    169.8000030517578
+    167.74000549316406,
+    169.8000030517578,
+    174.52999877929688
   ],
   "1y": [
-    106.91000366210938,
     106.08999633789062,
     104.69999694824219,
     104.12999725341797,
@@ -410,12 +409,20 @@
     165.75999450683594,
     166.5399932861328,
     164.63999938964844,
-    169.8000030517578
+    167.74000549316406,
+    169.8000030517578,
+    174.52999877929688
   ],
-  "lastClose": 169.8000030517578,
-  "oneYearReturn": 58.825177472085024,
+  "lastClose": 174.52999877929688,
+  "oneYearReturn": 64.51126854923129,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "NetApp (NTAP) touts record FY26 results, officer exculpation plan in 2026 proxy - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYW0zX3pLMm55dXlqN3JHclBqMGIxZXJodUJQcGx2Yy1WRXNwcWF2ZkF0dHhOTlJOYkU1YUJRd0FwU3RSZVpWTHBRU2x0X1JwZ2NLR1JTa2RfTVRBMzA5aWhoc3ZfUUxYTDQtWUV5VlIxSC04cmN4akdMc1Baa3JhRkE2bVlkS0dkWVphMF9iRzM5dUtIaGh2d0tQZFRNMXlTclFOLXhXcVBxWHNt?oc=5"
+    },
     {
       "headline": "NetApp (NTAP) Stock Moves -1.14%: What You Should Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOejEtRHdhT3ViZ2hDby1sUmpuUFh0N0QtV2lWbG43Vm1yRTRXcWNCMzhqb05LLVc0ZS1XeEY5UV83aTQ2S3VBQ1ZnUXVxU0w1ODlGbEl1MnZZQ3dfYW9vRmVzd1g3MC0tVkdCU3lOVFZtM1pLcDZMd1pOZXdMeE5pU3MxTng3SHI4Ujk1QVp3SExGWkox?oc=5"
     },
     {
-      "headline": "Is NetApp (NTAP) Still Cheap After The DataPelago Deal? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOczY4cTNQaGN3T09tZTNjQWU4SFRERUdlUHpOd3NYbnlWNm96bEdDNGVPRXlpTm5wRDFLNXdUdnhPc0tCWTRMamtmY09vWFlJTmFnYXhjbGtHckNTZTg2UWgzWEVjVmJSOHVqS1lTSHBsRnF1YXZqT2JjZUZrczJRNG5WX05MQUFaclJLa0lWdnJzTXpLaE03cURrenpwY3lxMlJaaFZZcXBrRms4QVB6Ti1ZMNIBuAFBVV95cUxPMExiOTliZU0xMDU2Y1BzSDA0YnBlamRlV0FUdlZTQjMxekRxNlFRdUg1dVJybUUxSlBCWWkxQ0JUeFBaVmpwSTdLWndXS3pGaDExeldnSmFDTzV0dEVBakpBRkpRVU8weUVadmRScTBTT0c0eTh0V1c4Z1dFSHJJNEEyWEFxd1dpT2gwTHY4a05nR2w0Vm5vUndoZzhWMy1mdGo4YnNyWkxpNlBhU1Z0MlFCSGxwQ0hH?oc=5"
-    },
-    {
-      "headline": "Bank of Nova Scotia Has $23.07 Million Stock Position in NetApp, Inc. $NTAP - MarketBeat",
+      "headline": "OMERS ADMINISTRATION Corp Has $3.30 Million Stock Position in NetApp, Inc. $NTAP - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPajU5eXI0MDRzYjdHTzhBbHZPR3hROEVzSTFTTVRJWEhYWTFZeTNSSU5fRjI5aW15MUtPUXFuNDEzSDl6MFN5NEtsalNYdHBZN2E2a3IzMG81S1kwTjBLQ245a19QT1VZcTlyaFFSUFBnSkRDSG13RDJzZ3VBaVMyLVdQVEIwM0tiUlN5VFViMjJkcTVPZU1PbUlJOGtQNlhtVnRYcVpDOGhETFVENk9BSS1IYlBqYVFvR3lSV0ZNUU9TVllUX1Ata0x4Zw?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcEM4ZW1wOHJmT0t1bmVQOGdydlByNGIzSmlHeGZYSUR0M01CejQ5bnliVlBqMzdFR204TTdRNmtpa25iRHp1eGlmRVY2QTM3N29qb1VoT2plcXd2T05xNmZrNnh5XzUtLVp2Z1BKMlcyQUZmRTVXbUVPOVRmekg4WjVxRF9hMV9aRWxyU2YxUEdySzFoandFamV5TGlfc3pNZEtkUk1qVFRLWmItU1EyQzA2NFJ2SjVyMkZLUGFvZDNVdENTendINGpOR3dxYmZneUE?oc=5"
     }
   ],
   "insight": "Tracking NetApp (NTAP)."

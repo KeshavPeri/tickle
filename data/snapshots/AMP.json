@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:42:49.348Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:17.038Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    460.95001220703125,
-    453.2900085449219,
     452.80999755859375,
     446.7900085449219,
     458.760009765625,
@@ -24,11 +22,11 @@
     528.3699951171875,
     526.8200073242188,
     520.1099853515625,
-    538.010009765625
+    528.9000244140625,
+    538.010009765625,
+    546.6199951171875
   ],
   "6m": [
-    507.4599914550781,
-    508.1000061035156,
     509.32000732421875,
     492.5799865722656,
     503.75,
@@ -158,10 +156,11 @@
     528.3699951171875,
     526.8200073242188,
     520.1099853515625,
-    538.010009765625
+    528.9000244140625,
+    538.010009765625,
+    546.6199951171875
   ],
   "1y": [
-    518.4500122070312,
     520.989990234375,
     519.75,
     518.1900024414062,
@@ -410,29 +409,31 @@
     528.3699951171875,
     526.8200073242188,
     520.1099853515625,
-    538.010009765625
+    528.9000244140625,
+    538.010009765625,
+    546.6199951171875
   ],
-  "lastClose": 538.010009765625,
-  "oneYearReturn": 3.7727837010413467,
+  "lastClose": 546.6199951171875,
+  "oneYearReturn": 4.91948124978034,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Ameriprise Financial (NYSE: AMP) plans sale of 7,894 common shares - Stock Titan",
+      "headline": "Is Ameriprise Financial (AMP) a Great Value Stock Right Now? - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjhkdDlMNll6Nk5XYzA5a1JKNlhYS2libXpvRG56QnBXNTQwaUJ3TjNUdjVDVFNnWktNT3FzdXlRTmoxSEVoTXlSTmp1dXpMTnNaNjQtXy1zczRPOWdjU09nd0xqVjFrT3E4YXUxYk5NalNqOVFKQ3VNelk5eEIyMGJfaERZM1pQaVo2dUZR?oc=5"
+    },
+    {
+      "headline": "Ameriprise Financial (NYSE: AMP) linked entity plans stock sale from employee options - Stock Titan",
       "source": "Stock Titan",
       "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVdxUEZqSlVrZnRYa21ycmhBQUY4Q2JZOVFRWEFHaHkxazFYTkl2aTBGaVlyQ3daS1NEdEZrVWlLa0hiNkY0MVgtdC0wSmd5aHQtUVFqdnVMRU1ZX2JmYS1XbVdRRUVQTHpVWVNhVEVvZnc2Yzdqd2dtdF96cjFJWVpFXzZNbXEwRlJ1WGxlcXYyNkpTU1ZvX2x4TUtFa3VHUkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT25EWlczZF9uYldjaUVWR1BfT09lQzVJYnR2T1VlMVBBdUFzVGt3U1dqQUJaQmFSc3lGNDJDZXVUU18zV3dHdE9MRVZsQ001bmQ0RWJZc2ZQS2NNdFFyQ1k0dHY3UDVNdGFObjBVNnYyaW8yczlqV2U0VzczMm80MGk0YkFxSV9faWF6Q0tNMTA5RXZBTF9XX1YzRnZQUjE0M1E?oc=5"
     },
     {
-      "headline": "Ameriprise Financial, Inc. Stock 12‑Month Price Target Raised to $577.3, Implies 9% Upside - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd3ZiNkRvaElFSmxvUER4VkV4MnRaZDNZYW9nbGlMT29mVTIyVnVuSDV6QVBnTk9sMGEyZllCOG9TTUp3cmR1UGN2eXBXb3JoVHNZbzdZaHhRWDJuYmZ6THc3a0xGTjJNeTNGcF9uVjhSelZEa21CckRMeGNobmV1cXRoMEFyTlBCekdLSzdiR04xVTJwaEVQckVsOUFqalBPUGNfQ2M1VjdDbUxnRHo2TWtlNlV4eXI4bUxlY0NKeVVod09XV3dwVkR0d1ZXYURvR25wcFJVRHNiMmwyalV2Mg?oc=5"
-    },
-    {
-      "headline": "Why is Ameriprise Financial stock rallying today? - Investing.com",
+      "headline": "Ameriprise Financial stock hits 52-week high at 550.43 USD - Investing.com",
       "source": "Investing.com",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQak9jdTFfSURhTG44OW4yekhFV3pKTFN2NVYycjc2ME5pdlhHeVJZeWdtMTFXck9vYXJxNk02T1lVNllXT3R1YmkyRjJFemZlS1c5N0xoRjgyLWZYd2M2aGl0WVNta3BnUWFqTWdpUDRpaGk2VmJSVEZMSk9sZUQzcUwtTnZHR1Y3MndINHNvT19jMzNmRTBtdHRpaUFfNGJ4NHVOR1JiMEVjVlg3Z2Nr?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUFRERWQtUktIQTRxMmVRaUhhT3RVQi00MUxJZU1GLXFkWGkwQVM0ZFZqcDN3c04tcjNhMUY1Q2JVWnJFU05YNEN0RV9oOXk0RHc5dnNuakR4MzlYVFJiV1hlOFVZaHhjNDUtNEgyX0tabWkzYkhTN0pwR016eUV5WkVfN0dyelpwY0N0NVc3amR1eTYycmVkUWFhU1lyUENUUkhPbGpyUkxiMXF3UUdoX242QQ?oc=5"
     }
   ],
   "insight": "Tracking Ameriprise Financial (AMP)."

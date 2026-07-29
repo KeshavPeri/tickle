@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:08.347Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:37.186Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    125.16000366210938,
-    123.83999633789062,
     127.87999725341797,
     126.33000183105469,
     126.33999633789062,
@@ -24,11 +22,11 @@
     130.27999877929688,
     130.33999633789062,
     130.86000061035156,
-    130.52000427246094
+    129.30999755859375,
+    130.52000427246094,
+    134.32000732421875
   ],
   "6m": [
-    124.06999969482422,
-    121.26000213623047,
     124.91000366210938,
     124.13999938964844,
     129.11000061035156,
@@ -158,10 +156,11 @@
     130.27999877929688,
     130.33999633789062,
     130.86000061035156,
-    130.52000427246094
+    129.30999755859375,
+    130.52000427246094,
+    134.32000732421875
   ],
   "1y": [
-    113.02999877929688,
     114.2300033569336,
     114.76000213623047,
     112.29000091552734,
@@ -410,29 +409,31 @@
     130.27999877929688,
     130.33999633789062,
     130.86000061035156,
-    130.52000427246094
+    129.30999755859375,
+    130.52000427246094,
+    134.32000732421875
   ],
-  "lastClose": 130.52000427246094,
-  "oneYearReturn": 15.47377305321852,
+  "lastClose": 134.32000732421875,
+  "oneYearReturn": 17.587326776582575,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Gilead Sciences (GILD) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+      "headline": "Gilead Sciences (GILD) Laps the Stock Market: Here's Why - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZndscUpZclRRX0ttVFJ3eHVDZmZQWTNsV3pQNXFZR2pBUnF0emVTYkd5NVNTWlUxeV82VUdBUFJRaVlvbmxjTm9CVDJwcDFJckFCSGhnaFo3d09BLVJKbEZZLV96NGszaTFsYTE0VDdMaDA2NXVnbTE3b3hUTko5UlRHMzVKLVBhSkdWeFRySy14bmRoQlJEejctUUFOdw?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVV8tX1kyNlpSUmdocE10dDNWVUQzZG9kaG40Q05iS2xJLVIyb3VGRE5FcVlrQmxaNkVRSlFBOXFTRU1lUVpObFBia3Q0MkQyd3UzeUh5RkdYY3FGRWFWNzVHLVYyM2M4alRFMUtJLXBFeGktSDB5ZVd6aXVmNlVBUkhjRERhZTRrcGpETzhPbjdyVENaUmRjWVdZSU8?oc=5"
     },
     {
-      "headline": "Gilead Sciences Inc (NASDAQ:GILD): A Quality Dividend Stock for Income Investors - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMFZpaGZSYnJLU3U4MGdaNGo5eUJQUjlqZFRxSXdjNmFUQ0drXy1sRHA1SWd4bzdveDBwaWZJam1oQUUzVE9oSG9IOHI2ZGl6X1BSb0JZbTVDNTJMT2tUUnhDcUtuUnd2NHpKeWpwc0hJZUF2M2xpVmZMYzRPTmZBNDZoVkx3dlRJMGFmeURUdWp3Ym9OWEJQbUpSODJjdFF3S3pCX2RDd29pS0tXQ282bmlaazFiNzVTV3hOT1ZkR1B1VTV4R0RZ?oc=5"
+      "headline": "Gilead Sciences stock may move 4.3% on August earnings report - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSWxGdXY3c1c5clM1Nm9oZmZfSllYc2NtLWpOTGJvQ0JMLVNuMEdPQndpM0hpQVhaN0FMRjNDaXdVY1I4T0sxTVdydkFsM2lqbERrdWl0N0x6MDd5eEVkcHJWU09NY2NnRGlVQUZzREZUT1c0d18ya2NGUVRmQk83NmI4RmNFNGpmNGpma3BGZW00Z0IxVkRaTmRFMXo3dmFkT1gwd2JfVHV5b1plaHhSM3BReFNQT3RfMEYzMWZR?oc=5"
     },
     {
-      "headline": "Many Investors Are Still Treating Gilead Sciences Like a Has-Been HIV Stock. 4 Drug Launches This Year Could Prove Them Wrong. - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-07-12",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemtSazhHR2l3cm10cXdob29saU5wZFBkT1F4VTBnRktJNElkUE05a2FvNlNweC1KQjdJQVFwMVB2MDVvS3JYRmd1TjR4dWlCblBUZkZGYWdiQ0lWaTVYUElrcjZVTXJxZVBPclIzYjlhMkFuc2w1ekRQTDlJX3hEUEg4RjZwSmdiNl9QVDBpSURUOTAtYmJF?oc=5"
+      "headline": "Is Gilead Sciences (GILD) Overvalued Following Its Trodelvy Europe Expansion Win? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR2xlcjlOeTBZWmVOb290UXBDS2I4ZHdPOHB5ZTFOdjRFZURfdW8ybHlPUnBMN3JiZGF3RGtiaW5HbVU4NldlRGZRM1diVlJoUkhkeC01dGpWQXQyeE9rRnlvQVd0VHdWQml1NnJQbnNEa2tvbVpjaktkakVET0NNdm85X25QNjFMVk9jZDBadVRJNjlJYWFNU0k2U0ZVTGRjNGpjdmhZTnQzeVJYNmIySFJNSnBJWVROMDNjc0s3WGFhaWJXbGg4Q0tnME5rSnB2ZDYzWVFZRmMzYm16Yl9yUEs3TdIB6AFBVV95cUxPMDZ1X3E5WjR1YzM2SHdZRkNoNnlBa0NndXQ4OG50SElaQlBpWV9DVy1wRC1iSzB4OC1QdlA0bjItR0Y4SWJiUk1aWkJnS1N5WkRKQmtCRGdpY282M2tvZUdsR3VxTVNzWGllTjF2TUItTzNVeEo3N3AtWWw3Z0tzUGhxeVpPQkZzcVNrcFlGV1dGMjVmdGFVd211VTB2YWwtMDNYMzJaY3lfNmZYT2Qxa0FzRWx3OUNZQnZ5Qk14MmFyb1ROTVYtMkpFT1BwM3JQQXJ0bUxqR2NkZGlxQU12cjdPQzVUWGls?oc=5"
     }
   ],
   "insight": "Tracking Gilead Sciences (GILD)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:18.249Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:48.037Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    219.86000061035156,
-    221.0399932861328,
     212.02999877929688,
     211.72000122070312,
     209.0399932861328,
@@ -24,11 +22,11 @@
     216.39999389648438,
     218.5,
     215.17999267578125,
-    214.55999755859375
+    214.47999572753906,
+    214.55999755859375,
+    211.5800018310547
   ],
   "6m": [
-    180.77999877929688,
-    191.22999572753906,
     189.08999633789062,
     182.10000610351562,
     183.32000732421875,
@@ -158,10 +156,11 @@
     216.39999389648438,
     218.5,
     215.17999267578125,
-    214.55999755859375
+    214.47999572753906,
+    214.55999755859375,
+    211.5800018310547
   ],
   "1y": [
-    142.55999755859375,
     143.55999755859375,
     144.94000244140625,
     142.4600067138672,
@@ -410,29 +409,31 @@
     216.39999389648438,
     218.5,
     215.17999267578125,
-    214.55999755859375
+    214.47999572753906,
+    214.55999755859375,
+    211.5800018310547
   ],
-  "lastClose": 214.55999755859375,
-  "oneYearReturn": 50.505051369972975,
+  "lastClose": 211.5800018310547,
+  "oneYearReturn": 47.38088982252782,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says - Bloomberg",
-      "source": "Bloomberg",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc2gzdEhucTNTWF9Zb29tazI5ZG1QY280NERLYjlISE1tSnhmWWlXQ2ZqaElDSDl6elB0cjFyYkhob2lPUWFxVXlieWluNHlxTmhfMl9rQldBZmJ1OVJQTy1EVFhNekNxRm1kWTN6WDRQcmlqVEZWYzVlQmdNT2JKVWt4VzJERFlnS0ZqdDN3MFh5SDdLS0p5N21HQ1hKVjMwZ0xhX3RrZi1ETHY0bkVR?oc=5"
-    },
-    {
-      "headline": "Morgan Stanley sees a troubling S&P 500 repeat - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3Zvd2RhU2tfaGZhNnRuZHpZMzA5dnBtMExzT3ViWk5nS3pjZkVtUmZ2a0c0MFJLRVdPektyVl9WTTk4cGFqaFQ1WFljOEI3SGN2bmRNYUpVQlR1T1lvNW4zRGRUa09yOE55eGpKRHluVmU4R01XVnV1RDYxRzQ1bS1B?oc=5"
-    },
-    {
-      "headline": "Morgan Stanley Cuts Its Alibaba Stock Price Target - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "SpaceX Is $15 Away From A ‘Worthless’ AI Business Says Morgan Stanley - Forbes",
+      "source": "Forbes",
       "when": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeVRSTDNrWG5hRjhKcFdFS3NZTkNZbUNoV2NIUEN6dTR1Vnh6cGVLSGJyaUxJVmtVRS1DRWF2bGl3OXpSRkJhNUs4azBaaHFUbkdacVUzU05LVVJKZ2xLdnExZmpqZks5alc5SjdmTS15LXhNT29SeDlIaUhVQi1UbWdwcmxnTVZVNXNtTW5KQUdMOVlOSVhZeFBoV3BQaDQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSmFQa1JBRXNRQ0tOX3Znb0l1c25NOHdfeE5RS203SU1LUUNTa240MGRSVDhvbzVCaXJ0QTdiUHp6X3ZoMTJLZUR6Q2h4ZUtBeGRMeUpsaWcyN3lMRkdDUzFubjllMjZURGh3WVB2bTRvdUFDOGlEOVhfLWpSYlBOUl85U1hyTk00M0JETVQ0bE9VZzVmTVhYMHJsLUJ1aXpSN01UdkVGZWtDOFhMOWR2LUlPY3RBQTNJeDRN?oc=5"
+    },
+    {
+      "headline": "‘Don’t Get Too Excited,’ Says Morgan Stanley About Applied Digital Stock - TipRanks",
+      "source": "TipRanks",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3ZTdUZvVzFTaUNoend0N1J4Rmd2S3dmWUdxZ0lkbU9tMGRnV3RBYi1XTVBRMEpOUFA0TjlQdkJrU004Y2l2MVZiYmxtSW41Y2NiTWVpYWNWVUxPcy1WR3Q1TXhaWHZNWS00YTZOSDg4al9ZWDZlX1hOenRFVF9ORlB1d0pNdVhrRXU1VVAxckRRS01rdFNoTTZUVVNJNWc?oc=5"
+    },
+    {
+      "headline": "Morgan Stanley says buy these quality stocks. They also pay dividends - CNBC",
+      "source": "CNBC",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbHU0WmRzYm90b1hEY29yekZTQ3psTjNacTV6UkpNSVpQWGdCNVlDM1QxTlNpbktRWmQySC1NZ0ZZWUVJRFZpaFpDdlRmOGs3dm1qaGFiRG9DMlZvV0ZIZG9VVlk5dnNlM2ZKb2ZXQXczNl9KdVNnbWl3Y01VNmswOGRfVFQ1bTJZM2hzQTh4cm1LWV94V1Z6U2RIOGlMMFJOdlZVVlZTNlg?oc=5"
     }
   ],
   "insight": "Tracking Morgan Stanley (MS)."

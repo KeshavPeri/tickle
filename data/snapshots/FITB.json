@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:06.895Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:35.612Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    54.959999084472656,
-    56.40999984741211,
     56.310001373291016,
     56.779998779296875,
     56.369998931884766,
@@ -24,11 +22,11 @@
     57.65999984741211,
     57.66999816894531,
     57.150001525878906,
-    57
+    57.40999984741211,
+    57,
+    57.79999923706055
   ],
   "6m": [
-    48.56999969482422,
-    49.02000045776367,
     49.15999984741211,
     50.119998931884766,
     52.86000061035156,
@@ -158,10 +156,11 @@
     57.65999984741211,
     57.66999816894531,
     57.150001525878906,
-    57
+    57.40999984741211,
+    57,
+    57.79999923706055
   ],
   "1y": [
-    42.529998779296875,
     42.63999938964844,
     42.220001220703125,
     41.56999969482422,
@@ -410,29 +409,31 @@
     57.65999984741211,
     57.66999816894531,
     57.150001525878906,
-    57
+    57.40999984741211,
+    57,
+    57.79999923706055
   ],
-  "lastClose": 57,
-  "oneYearReturn": 34.02304640494596,
+  "lastClose": 57.79999923706055,
+  "oneYearReturn": 35.5534710703876,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Gamco Investors INC. ET AL Purchases 144,566 Shares of Fifth Third Bancorp $FITB - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd1hPY1k3Zld6clhnRkxYclNnemd6bjNfdlZPTS05anpyVkYtcnhEWHNlNTNFcXd4M2VyZFJPeGFKVWtrYjg4SDI5ZnA5ajNFOVRINnY1U0d5eWRYMzlIbEpueGJkMk1pNTl1VkxjZVd2TW43NlZRVUV6Z2o5cU5JMzRxMGFINDZ3d0ZWM2xELURJMjJ1SXlqaS1FdFZYXzNhUjlaMjVmMkZ2TjhqMmFCRFlScXZLMlVBVkNDWVgxLVBjbUkwR01wdnhjeVh6VjlTRGVVdQ?oc=5"
-    },
-    {
-      "headline": "Fifth Third (FITB) Stock Could Be Cheap On Value But Rich On Earnings - simplywall.st",
+      "headline": "How Investors May Respond To Fifth Third Bancorp (FITB) Upgraded 2026 Income Outlook And Q2 Results - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSjhGZEFyRHNrVG1GSW5XZ2F5Q2Y2NHpydS1xZmtHSVRuV1FGQU9CSUVETDJxdDMxSnBMNjhOc2N1VnlHUnFJQkRNOERKT1VCanV0RG1BMkRlYVVQdTg2anRWd3BxTTVYNHVhdS1TZVNGbFZjaTUtb1pQV2wxZ2t6aVJ4LWdENWtXM09Dc2ZtZ1VjeHJFYmR6STVnYWNIdkFXWFF0NnBjcy10R1M2VXlRZ1hRWHFOUUF1ZVlJWnpNMFM5X2F2U2NwVE5kSmtDZ9IB0wFBVV95cUxOSTY5OG11bHROaDAxZERSQ1BOVHRMSnlYVEotN0xCSkdDdXNYc3NYeFJyMHFwaVF2WnpxeXNsUlloTUo1Y2tMRTZNdGdybDhxV0xiaG9nV3p3cmxUNGIxNFM3VDhrVnk0QmtINHg0T3BDM2hVRzFZYjBRcFd0cXFwSUppbjgtd2QwRXQ5NWlrdDF2aGNyUE5naTZqLTB3TVZWLU5iczM5dXdOVWVtQ1ptRzdNY2p5RXdSbjZ2Ujl2NmlQWjZaR0ZESkNMRjBTbzJESTU4?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN1VMSkQ3NzhIYmhQUDBoTlduaGZJRTJ3LVFnOVV2WWJTUzdCRk1aZnZIZC1Fa0c1Z0ZtbjhPYlNETzZ1UXJCMW5ZNkdFd0JHOEhGMmdiNFBtMER2WDJ2SDhwX21hQXZjUDU3bUJYWVhyYllvZ3BBZENtN3RJTTlHSnYtSnRlbGJ6eW83Y2dhMFdMRjFVbUlua1Y2M0tmaGd2dml6TmJ1akZ2V1paWU01NmdWSWh1b2hsRTVkaGZmcG4wLXRQYmZkVjJuX3phZDJvd3Fr0gHTAUFVX3lxTE03VUxKRDc3OEhiaFBQMGhOV25oZklFMnctUWc5VXZZYlNTN0JGTVpmdkhkLUVrRzVnRm1uOE9iU0RPNnVRckIxblk2R0V3Qkc4SEYyZ2I0UG0wRHZYMnZIOHBfbWFBdmNQNTdtQlhZWHJiWW9ncEFkQ203dElNOUdKdi1KdGVsYnp5bzdjZ2EwV0xGMVVtSW5rVjYzS2ZoZ3Z2aXpOYnVqRnZXWlpZTTU2Z1ZJaHVvaGxFNWRoZmZwbjAtdFBiZmRWMm5femFkMm93cWs?oc=5"
     },
     {
-      "headline": "Fifth Third’s Project SEARCH Trained More Than 425 People With Disabilities - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdTRiNlNMSGU2Y2Z1TkM0SThPbkFESlk0b2s1ZFFxdUJlZ042enM3ekZXVVV3T2dVeTVPSW1sVEE1eHFfa3dQQUJ3Q0xDVjVkQ3dqaG5yVGVyMXBDVmJyM0xYYXpnQk1fcXA0cnBPWXY2UGRjcFN0c3NTN2YtUldFdmx5YjdYRWxCeUNVZWVTaHNIY1pZT2pvUkhDM3ZBZzFaR1MxdVhqUm15RlFpamFtUG9tRHJqQTB6?oc=5"
+      "headline": "Fifth Third Bancorp $FITB Stock Position Raised by Bank of Nova Scotia - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNlBfVzBkdVV2TDZEUEljOGFrdGFfSE14RUgtY09rM1JBM2JNdUpONnJHZWRvY242Rm5jM2w5Sm1UMlpRVldEVWVXcVRIX0lkMzVPbzl0NVdDLTZtdnB3ZnRrbkl1ZkVzaTIwV2hxdk9uSVRuLXRtSWpkY01jOTRqcUdqYUlyRzIxNEhkNjdoSk5nMUxDaWx5WjlXYkJSVmRfeFc0MWdqNXN4c3A0dlkwVnZ2V20yUnpoMDBZSF9qS1ctYzJhX1VuMjR3?oc=5"
+    },
+    {
+      "headline": "Why Fifth Third Bancorp (FITB) is a Great Dividend Stock Right Now - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3YxNzVEeFMxUTYtamg3UDk3UHpCVURlNVhGSkJVS09SdmRnRENGWFpiZEMtc1hkMnFkQ0RpMHdWTEpWeVIxc3lKSE92cFViLTZBWXVuVVY0LUQwQmNmazdOXzI2NG1hTzZXVW1abklvd3J5MkJRc0k2cFFGcmhheHRISEtTakpYZGY2UkdScmh5VzNhLU93RQ?oc=5"
     }
   ],
   "insight": "Tracking Fifth Third Bancorp (FITB)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:24.704Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:54.903Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    144.4499969482422,
     146.3000030517578,
     139.66000366210938,
     139.08999633789062,
@@ -24,10 +23,10 @@
     132.0800018310547,
     129.27000427246094,
     130.16000366210938,
-    129.7100067138672
+    129.7100067138672,
+    132.02000427246094
   ],
   "6m": [
-    158.75,
     156.63999938964844,
     163.63999938964844,
     163.3800048828125,
@@ -158,10 +157,10 @@
     132.0800018310547,
     129.27000427246094,
     130.16000366210938,
-    129.7100067138672
+    129.7100067138672,
+    132.02000427246094
   ],
   "1y": [
-    172.60000610351562,
     175.8300018310547,
     171.4600067138672,
     167.0399932861328,
@@ -411,12 +410,19 @@
     132.0800018310547,
     129.27000427246094,
     130.16000366210938,
-    129.7100067138672
+    129.7100067138672,
+    132.02000427246094
   ],
-  "lastClose": 129.7100067138672,
-  "oneYearReturn": -24.84936145594657,
+  "lastClose": 132.02000427246094,
+  "oneYearReturn": -24.916110505810238,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Constellation Brands Inc. Cl A stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYXQzXzVFdDFTcVJ6bWdDMWE5d01lcnljRjJ5bHV3QWZqX3FVdThuSDM1cVdiU2RxZ3VDektoNGVWYmYxREpHYU5aaDJ1S0x6MFFCVzg2RUp3cUNWYS1fWFVXdUU3WHBveVA4dE1hNXlJVXRjcG5YNk4zamxmQmxGc2daWWo2YUYxWWxpdTM1dXVObmpvTU85R01HS2dob2dPa0l1VG1pM1JRODVweUxHVkdwUVhKblF1clBDZmlta3V0bUJGVmg2TG0tMXdlemdfcTVERDAtZkwydGNRVERhQXFhMTY1aWR6T296cnBBTURzQVlEckRvekhB?oc=5"
+    },
     {
       "headline": "Constellation Brands (STZ) Stock Looks Like A Bargain As Earnings Stay Weak - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONTVpUnZQdTdfWDlfaUl4NkpCQ203dVo2UDdmMktBQzhObnpxaFZmVDNYTzViRC1sMlFVS2hyWEFMdVhYaVhXNXhTUUo2VFNBSnE1blQ4SWxMR25wZDFCSEJ2OUwyOV85S2FkYmtkSGJtenNTVEJTNi1xVFZYcVUtQlB4Sko1cE5zU2VlcUdRU2wtbmlSU09STmwxdVhyRUpKQUlV?oc=5"
     },
     {
-      "headline": "First Trust Advisors LP Grows Stock Holdings in Constellation Brands Inc $STZ - MarketBeat",
+      "headline": "Empyrean Capital Partners LP Has $90.93 Million Position in Constellation Brands Inc $STZ - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb1RUTXQwMWVHekhheW0xbXdSQWoweDhiUFpUcEdRMVlia3l6X2FOZTl1dklPU2xJYXJlcmptemVBNW9xMDdDV3Y1WkJOR3pQdU0zNXFqb04xbHY5YlU5bkxKMm9hMzc3WXVDN3lBVTdBeEdqUjBxU3VEcUlTNjhqY3Z1dVVlSWlfWGZVQ0ItMURFaVlQWGhJVDFFeWhuemZXRWxfUWVxUi0zNnhkYXJxemNKdHhGME9scmlnczZSQXZRLXhHNzlBVFFWeFVJQWo2QXhB?oc=5"
-    },
-    {
-      "headline": "Constellation Brands (STZ) Stock Still Looks Cheap Despite Mixed Q1 Results - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeVNwT0dPemFnaGhMOV9BeG92ZE9MMVZydDZxNlFheXNxUEl0TzczdG9BWVpJVmxqb1ExbG9XdjQxTnFPS1NxY2E3ckVRbTRUSjRmZnktWVluaktIdXpCSzYwR2Rhb29halJBZHlnNGpTMWZ4c2M0X1hZdXJnQ28wTENEVzBBcFJpZjI4WHpQeEFhRzQ5NVRwSDVjZ0FNWmdrc0NtbmdYWVl4cHkxdi1NWENFQW40UnpraGlYeVJjLTd5SUtQOVJvSEJiV01UVnZBN1RHTVU1SWhKNkRLM3RMVGlWWdIB6AFBVV95cUxQdXl1Nlc1S2E3LXJxSU9mNmxFWFZVSlBQaTRxYWpBOEk5Qk5RWG1nZmNjYnpvbTRfbnNwQ3J6Q2pHc3h3ZnI1YzhLWHZVU3RJQmpsX2FCZEw1Nk1kMzNHV25lRjd1X1VTUnlJWTBlM1duRFhDckpRRTE4VGxrN0I5akplTTRXYm5OdzhCaTNBQ3Z4eFVlY1B2aHoxVTNlaEd4NWtHVkJsckVsODE2MndpTmtCXzlJbUtSQjJpcGVkeGZvS0FQOVd2aWprWWxqTWVCbWVBbEZmX0lSYXZpTTRhYjlSXzV5ZnRD?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV0tvOEdxdzEyOGYycTI2dno3bjFqYmh3Nkg3clpCQkJUY1hFSnU3Zks4c0FFY3VoU3Y5T3RIeFJPMjZ0dzV0QjJlQVA2Mm9sWWpwQzZyR3YzUE1UeDVLSk9uakt1amJUalA4WUJzZDBKT1ZoR0h1akFWZ0ZFTjl0dE1OSmJKU0IwMXdyU3VzZnZMWXJsTHFPS0JSTUxDaWQwZnRQRkZsNnFNNXFsYXd3TTRmSkJTZGRSX0o2RDNfcFZxMDZQWkNzYXFSNXg5TFBFa0U1NUhvcHpxazZDLXIxQg?oc=5"
     }
   ],
   "insight": "Tracking Constellation Brands (STZ)."

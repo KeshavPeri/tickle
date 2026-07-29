@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:26.078Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:56.233Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    165.1699981689453,
-    155.19000244140625,
     155.42999267578125,
     151.22999572753906,
     151.5,
@@ -24,11 +22,11 @@
     155.0500030517578,
     155.41000366210938,
     153.47999572753906,
-    156.3800048828125
+    154.22000122070312,
+    156.3800048828125,
+    160.8000030517578
   ],
   "6m": [
-    155.1300048828125,
-    156.16000366210938,
     157.3800048828125,
     156.0800018310547,
     155.85000610351562,
@@ -158,10 +156,11 @@
     155.0500030517578,
     155.41000366210938,
     153.47999572753906,
-    156.3800048828125
+    154.22000122070312,
+    156.3800048828125,
+    160.8000030517578
   ],
   "1y": [
-    125.38999938964844,
     126.37000274658203,
     125.80999755859375,
     124.52999877929688,
@@ -410,29 +409,31 @@
     155.0500030517578,
     155.41000366210938,
     153.47999572753906,
-    156.3800048828125
+    154.22000122070312,
+    156.3800048828125,
+    160.8000030517578
   ],
-  "lastClose": 156.3800048828125,
-  "oneYearReturn": 24.71489404578659,
+  "lastClose": 160.8000030517578,
+  "oneYearReturn": 27.245390169232248,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "The TJX Companies (TJX) Looks Attractive on Market Share Gains and Margin Expansion - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeWtmVWdiSUZqT2xGTDZLX3NKNEVpT3g1eEFwQkxZTmlMUWZCZ3BFOXE2NGlxZHE0Wks2dWJJejY1bUhsQWViZTktYjdnOWlwdXBnU1V0R01Vd2VOdzFsaEtycmVVMGJSbmlFeW1uUGhmbHB1MTNqZldadWVSMmQ0NW9NLW9EbGl4dE1Jc09XSUMxRzhIY3QyeDR2RGphSEl4?oc=5"
+    },
+    {
+      "headline": "Quantinno Capital Management LP Boosts Stock Holdings in The TJX Companies, Inc. $TJX - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa2hmZTkwOEdEeW4zRmZQajFYdkE3S3VfQVRDVHZfSkc2V29KdEdNbnV6ck5XYkxXS3JVRzRxVF84ODBLa1BmOVI5TXRpNEtwbE5lQUxNR3VnUUpGWm1PUkpUWk9hY3BXSUtublpfbVZwUlNUWDNDVFE5QkpBakNDdXAyc2UtSTZuTl9mRmlfSDBKWHlBSUQ3QXhUejlwN0NDTGNlaVhrV25rYWNKM1FodGtLY0REeWRORmdianRyQWpfWjBUOGVQd2VxMU1BdEx3NHBJVEk2dUVKWlE?oc=5"
+    },
     {
       "headline": "TJX Companies (TJX) Could Be 13% Below Fair Value On Stronger Customer Growth - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-27",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTRpT1Y2WGFCaG9TU0lZdzJab3ZUanVBbUFBZEQ4cTZjRzk2RW9yUTF2VDFVekQyWjhNWVQ0NUhZUXRBblQzQ1dyaWZPUk05WGpUUkRlYlJWamVMdjRHdUs0d3RIa0hFTW1UWDVlbWlVTzNwcTU2RklXOTZDamlWS1pXczVmZTlkUUJyVzFXOEdHaDdWU0M3OEwxV0xtcS1COEpPanhneGZmdWE5enBRb1ZrTExySVJFN1pXbU95VE9raUZxV1HSAcsBQVVfeXFMTzVMRkVpeERhTm1QZ2FVZHZqbEpNRGEwRmJtVTNjVldmU19jZVVEN0JBMVpKTlJkTThncURhN3JmN2Q4STNwdG5tRmI4YnBtWE5hYnMtUHVrNjZfaHhZNzloV3BmQ1RHQWdWd2pmMjVBZ29pY0FRb1EyTUdRQ3gzZ0ZJVlZUNjJGNVRiVTZKMHpHTjN3bU9FNGk4aUdOVXItQ29KTkNOM2hGdFBHUXNwaXdLNkFpeXRYeHk1eExSTncyZmtyQUNCZDF5TnM?oc=5"
-    },
-    {
-      "headline": "The TJX Companies (TJX) Looks Attractive on Market Share Gains and Margin Expansion - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTmJadjA5SUlKaDBCVmNpdnV1UEFnbHRwZEc1eDZpV1RvZFBxZUltSHV6aUJVTS1VWm5rb3JVME1UU2l3S3FfUjVjeFRRdm04UzVzUmw5dWR2aU81ek9fNXJ0QzQ1ME1uX2l4QjNhX0REU0JoOWhQVVo3V2h2N2xkUEw4OWxlOUF3S1Nv?oc=5"
-    },
-    {
-      "headline": "The TJX Companies, Inc. $TJX Shares Acquired by Waverly Advisors LLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUVFzbFM1YjFyU2RtZGhHRzlQUXdGX3lKekxsTEhQZWlzdFdDakppWWRSdC1YOWsydFNJdUQxWXZWSnZvU2doNjRBUDdSUmx5TDFqWWFHZGF2cVZYNkprVE1DNFpod3ZpLXRmejVEZFBiYXBleDJoN2d5YmJOZ2lwRVFmNmhEMjJJRTJyanpybzk0N3EzdEYzdlJpVUs1Z3RYRjduZl9MeHZmU2R4VGZBeHBrZkNqYmlqZmh2QWJna0lhZmRX?oc=5"
     }
   ],
   "insight": "Tracking TJX Companies (TJX)."

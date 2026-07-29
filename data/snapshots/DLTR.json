@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:01.243Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:29.512Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    119.3499984741211,
-    118.20999908447266,
     123.87000274658203,
     122.62000274658203,
     120.94999694824219,
@@ -24,11 +22,11 @@
     125.73999786376953,
     122.1500015258789,
     117.6500015258789,
-    125.54000091552734
+    120.44999694824219,
+    125.54000091552734,
+    126.76000213623047
   ],
   "6m": [
-    140.2899932861328,
-    141.2100067138672,
     139.9499969482422,
     134.05999755859375,
     132.94000244140625,
@@ -158,10 +156,11 @@
     125.73999786376953,
     122.1500015258789,
     117.6500015258789,
-    125.54000091552734
+    120.44999694824219,
+    125.54000091552734,
+    126.76000213623047
   ],
   "1y": [
-    115.43000030517578,
     114.98999786376953,
     114.1500015258789,
     113.55000305175781,
@@ -410,12 +409,20 @@
     125.73999786376953,
     122.1500015258789,
     117.6500015258789,
-    125.54000091552734
+    120.44999694824219,
+    125.54000091552734,
+    126.76000213623047
   ],
-  "lastClose": 125.54000091552734,
-  "oneYearReturn": 8.75855547398646,
+  "lastClose": 126.76000213623047,
+  "oneYearReturn": 10.235676572848577,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Dollar Tree Is Closing Stores, Joins List of Retailers Adjusting Their Physical Location Footprint in 2026 - inc.com",
+      "source": "inc.com",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdkwwWjVZcy1TcGhPMGg4T2x0VUNXcjJ1ZU5LNGF6a3hDS01NdDlsRnBmaENHaGUxbU54dmFlNFM3eGMyeUdQOEx6SVZCZndndDNXQXU2UElET2dfelhOSlZKSTVja0l1SDRLdnlDOWd2ZVRVczVidmphbk42b004aVRCUVpobUdUTC1ISm9Rck5HTENGNTNyS1pXNjFBUi1Gc0FNbjJZNUR4UTNT?oc=5"
+    },
     {
       "headline": "Here's What to Expect From Dollar Tree's Next Earnings Report - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN3ZESEJDa0RiQUtTNnNJSnBzbWRqcWJpcS1TLTNFZkVqWTlvOG42djBRc2RobWlTQ1VXY1dab1VvRFZna1E2cHV2QzczVmR4VXFjNzI3YnA1N1lqamVRSUFmVTBIX0QxclExRUFycXQtRmJfa1hNWGlnNzZlMldiSzRhV096b2djNlJ6UnhfZHowQzRRMUJwZlhtRQ?oc=5"
     },
     {
-      "headline": "Dollar Tree Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd0RFbm5mQXdRVHo5OFg2NTVlcEpJNmlBbE1NQVZGTF9wLXN5RWE3MEVnTUJieDRVRnNEV2VFR3phZktKVHNiYzQ3aHFUN2xfS2pQcUw1c3oxaVN2Z3FnNXB5QURCaG1veDlwaHV5T3IwQ1pIMjhoM2l1M1M0NnY2T1VfbHJlN21maDg4c0VnVDRnUFZSTXZhcUU2TFBSalRwdl83S3BnSGhURjE1blZlbm40NF9QQ3RzY2hFcEZIdFJtY24zbmdaU3lkRFdIWEhnZE1WcjhOUjJrZFVoR2c?oc=5"
-    },
-    {
-      "headline": "Dollar Tree Inc (DLTR) Shares Surge 4.2% -- What GF Score of 79 Tells Investors - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFQxQklibnFPOG5wQjYzUjdrUHFnSVRPOE9OUzRtc0x6cE1wZnVUdWFQODRzem1lQnFTdXhjZzVxeUlGOUFBdXFNWXdXVmY5RGt4ZzZHdm93MlY5QTM5TjdaTW8zUDYxU2w0aVJsOEZZbDE1QW5XbzkxUXplQzcwQzBFMFE2aGg3cmJRNHJDQldCLUV0V3RpVUF6X3F0M0dTX2xFdmktWkpWRlhoNEN5Uw?oc=5"
+      "headline": "Dollar Tree Stock And 2 Consumer Names Facing New Section 301 Tariff Pressure - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNWt5QnV1WFZ4eVJzQkx6eEpKYS1tbE1TdGU2TUprQjNmbVV6M3NmNTYwckx4RER2M3BSQXpwSWJJRTljYTZXaTlzdTE4M0FiR3pQamNBOEM2WExVcHpzWHlCTk9PSlNMNEdlLVo2Z0ZwWjU5cTV6UmhiMmhDaFZ2ZFAtNnVDdVJUZmpnUEJNV0duQmtvNzBzdTNLOUtnTmd4Rm1za19CMHRqNVJvWC1BOEJWQWJPSXJUMlZNekRtaU5KcEZTZ2FtM2pCdDh1M2JKSE8taHA0VUhKY1NS0gHcAUFVX3lxTFA1a3lCdXVYVnh5UnNCTHp4SkphLW1sTVN0ZTZNSmtCM2ZtVXozc2Y1NjByTHhERHYzcFJBenBJYklFOWNhNldpOXN1MTgzQWJHelBqY0E4QzZYTFVwenNYeUJOT09KU0w0R2UtWjZnRnBaNTlxNXpSaGIyaENoVnZkUC02dUN1UlRmamdQQk1XR25Ca283MHN1M0s5S2dOZ3hGbXNrX0IwdGo1Um9YLUE4QlZBYk9JclQyVk16RG1pTkpwRlNnYW0zakJ0OHUzYkpITy1ocDRVSEpjU1I?oc=5"
     }
   ],
   "insight": "Tracking Dollar Tree (DLTR)."

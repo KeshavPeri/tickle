@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:22.918Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:52.872Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    320.95001220703125,
-    322.6499938964844,
     318.1300048828125,
     321.44000244140625,
     317.5299987792969,
@@ -24,11 +22,11 @@
     287.8999938964844,
     285.8500061035156,
     283.4100036621094,
-    305.0400085449219
+    293.5400085449219,
+    305.0400085449219,
+    322.5
   ],
   "6m": [
-    279.3299865722656,
-    278.1099853515625,
     276.010009765625,
     270.010009765625,
     277.7699890136719,
@@ -158,10 +156,11 @@
     287.8999938964844,
     285.8500061035156,
     283.4100036621094,
-    305.0400085449219
+    293.5400085449219,
+    305.0400085449219,
+    322.5
   ],
   "1y": [
-    352,
     334.3699951171875,
     331.1499938964844,
     317.8699951171875,
@@ -410,29 +409,31 @@
     287.8999938964844,
     285.8500061035156,
     283.4100036621094,
-    305.0400085449219
+    293.5400085449219,
+    305.0400085449219,
+    322.5
   ],
-  "lastClose": 305.0400085449219,
-  "oneYearReturn": -13.340906663374467,
+  "lastClose": 322.5,
+  "oneYearReturn": -3.5499582171024024,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "A Look at Royal Caribbean Group (RCL) After 3.9% Gain -- GF Value $249.31 vs Price $305.04 - GuruFocus",
-      "source": "GuruFocus",
+      "headline": "Royal Caribbean Stock Slips as Geopolitical Risks Cut Outlook - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcTFEbUItUTlvR3Y5LU5KOEt6d2pjLXc5X0pyOVhRalktZHRFLThBWWs2THRUNGtoZkNQVW5lUWktOGZ2RmdjS3VpYmNVNjFIYU1aYUhZa0l5ZGk5dUd1dG80YU04RmNYcGVOekxCVkVGOFVzcTBwNVROeXc1X1FXYklsbXR4S3VMS2tnZ1hTZUpsempLNW9ha2JRQi1Wdzk2cnBaVlR0QjVTWWhjbHNRWVNXZmRGWXVmYzh1WW95RjVxc19HcnZpc0tB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2l4N3RwemZhblpTTnN2eklWMkRkTE0xQW9SSmhzY191dFh0WEMzdjFQV1JiNFR5Mm1scGZWUUYyUHRvTlFEV00ycnVsVU1UaWdFSWRTOUlUTi14YlZkeGp3TndNS2J3aGtZelNwQXo5SW5hcXJzTzQ3V09Wbm0xMjFIRW9Wbno4ZG16N3JQVFZDdzFFckU3OVFabmwzQ2NUcmduUERiUFA?oc=5"
     },
     {
-      "headline": "Why Royal Caribbean Group (RCL) Stock Is Up Today - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcXdvUXJRZEtsYnR5WDNYR1A3UGZRSmtRVDlkLWdaTDZ3Nmx1dmY5UTcyaEg5b1E4cU5aR0VIM092bkRJM2l4OFJOekdOMnlxZDluNXd1ZFpqM2lWVlprM3IyR3hZOGVsa0Zrc1VSUlRpRXhteDZwZ2lwcnlBWDZCX0w0RF9famFYOGVyYXItNA?oc=5"
+      "headline": "Royal Caribbean Q2 2026 Earnings: Revenue Up 6%, Fuel Costs Pressure Margins - News and Statistics - IndexBox",
+      "source": "IndexBox",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQTM2VnEyb0R4VzNGSEJ1aktLcWRVYzJVaTRudWVzTTlWYU10Q3ZmY3RXNjdzN0wtZWtBOC00eHJNZjg0NTgzYXZMblkwWUJHMHlWaElXZDJ3cWI5UDlocThJcVJTYl9rUVdBc3BGZllVS3ZLQ3VFSmRCSWlZbmZiUXlmVmJYSTRrMzRkcEx2MjlkUmE5NmNCWXN4R0o1RElzdnNWUy1jYXRBNGk2Yl81TQ?oc=5"
     },
     {
-      "headline": "Royal Caribbean Group stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLXZ1b1ZRQXRUVUhxOFNuYzJQUktLMnBWZndsVGEycnpCSnIyN1ZPZ0VGbzBRRkFwRU92aTFlWVpPTERWajlaMmh0NF9GbkV5eVI2NG5TR09BeWthbkRiUnRPbE01N3JVV2lBTGx6cmV5bGRPYjlhLWZGWnBWQTNIZmVEN3Q3NjBKbzR3Mm53bFNzdjJ3bWNZUUNmaV9PbjFiQUN1N19YeEFCMVhqMGtkR1J1clRUV250MWt3eWoweGh6V05UNlRtOHRPMnlSSkxVUXE5aUF1S2NPRmt5NzJqUHF4a2FxUQ?oc=5"
+      "headline": "ROYAL CARIBBEAN GROUP REPORTS SECOND QUARTER RESULTS ABOVE EXPECTATIONS AND RAISES FULL YEAR GUIDANCE - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOHVZMXNuN1NUZldZSFRid29oamY4OUptYmNEalc5ZF9TNmh0U193bFJ3dElLNHlicWJ4Mnd4Z0hROXl4MVZ5X2EwTUs2bDV2M25BdDZzMHlWOUlxc1dRQzJHdGljQVo0bWowUno3RV9XclVDZHBTNWFUUUN0RVBsQ05MTkU4MVRTUW1DRjEzNUpsYmZSdW53OWNtQlZoT3U0Mi1OZXpZY0ZqQlNrekZaV1JyaWxPODhXUjl1NlF6ZjJIS0gxOGV4LUVQNUp1U0UyX0gzYU5BYzBhTkhtUU41NWdGS3M0emdFQlZrd3VB?oc=5"
     }
   ],
   "insight": "Tracking Royal Caribbean Group (RCL)."

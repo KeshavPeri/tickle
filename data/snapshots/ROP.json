@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:23.450Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:53.499Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    331.6000061035156,
-    332.4200134277344,
     338.30999755859375,
     334.79998779296875,
     338.3900146484375,
@@ -24,11 +22,11 @@
     350.69000244140625,
     336.7099914550781,
     355.1199951171875,
-    375.0199890136719
+    367.3399963378906,
+    375.0199890136719,
+    390.9200134277344
   ],
   "6m": [
-    424.20001220703125,
-    414.25,
     416.1400146484375,
     403.760009765625,
     404.6600036621094,
@@ -158,10 +156,11 @@
     350.69000244140625,
     336.7099914550781,
     355.1199951171875,
-    375.0199890136719
+    367.3399963378906,
+    375.0199890136719,
+    390.9200134277344
   ],
   "1y": [
-    559.030029296875,
     563.0599975585938,
     552.3400268554688,
     550.4000244140625,
@@ -410,29 +409,31 @@
     350.69000244140625,
     336.7099914550781,
     355.1199951171875,
-    375.0199890136719
+    367.3399963378906,
+    375.0199890136719,
+    390.9200134277344
   ],
-  "lastClose": 375.0199890136719,
-  "oneYearReturn": -32.91594916907118,
+  "lastClose": 390.9200134277344,
+  "oneYearReturn": -30.57222762711819,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Roper Technologies, Inc. (ROP) Stock Forecasts - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Roper Technologies Stock (ROP) Opinions on Breakout Patterns and Insider Activity - Quiver Quantitative",
+      "source": "Quiver Quantitative",
       "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVE44Q2lXV3JCRXpPM29XbGRiclRrNGpQa0JGSzE0dzFESzVpaHp1bktBbnVIUkl5NW5VQTdDTGJSdGFCOHMycWViM1Fad0c5UlVkNVlHSF93YzhudnFoTVEtbjY5Z3l0YjNpQUJheTZCWmRrcC1sMUlId19PTkdSeUhmNV9NMUVZVHpBVA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnJWWGhid3lMVzhaTU1HUVVxQ1owZDdGUUFJYkFXS0Y1bE5FbGcwbF9YYW1CcnRfTFFXTkhSbU1yLVRHSmQ0dmxMWGJYVmE4U05KaGp0ZV9UNEw5VVNRRUJkeGhkcEFDMVkxU005dFNYMkUyRXpiWnM1VnFvR3ROeDVNYnNiN01XTkMyMFNkUS0ySEtrOWhqVzJYSUtvUEFqUUVFUDRuR0dmVHVNal91ZEZmVGF3RFZkSGc?oc=5"
     },
     {
-      "headline": "Roper Technologies (NASDAQ: ROP) EVP exercises 2,000 options, then sells 2,000 shares - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUUhwaDdjTHI2YXV1cThMTGJhd2t4STl5aVd6VlRwRWIxVzk1ZnJsUk8wSE43ZnRlelN2Y25ReWgybVk4MzdSVHd4Z3pCRFFacTVUSjA0UnUwSDFNM1hvMHVwaFpZWUJpUWFuVERZdlFkNUJsUm0zbFdNOUNHX2h4cDl2Vkl2dGFYS2lLSDIxbWs3Wi1nZmRCSy1IZlZmYlhFOFhwRm05MnQtcDU1b3doNmJ5eUhtZw?oc=5"
+      "headline": "Roper Technologies (NASDAQ:ROP) Director Sells $2,322,674.00 in Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYXlPM2FCTVRtVk5rdGFLRzhxZmxZRkUtd2Jsci1HSWlSRldNd1hUY3Y1djgyYUEyQk1lNTg2cV9PY0kybVlFMUJoeDFLTWVxVGp0eHBfWEpZa3JKVWNXZ2szbnlDNC1KRmw0TzhTQkRHTlFDXzVaSVVHbUd1NE80bU1SQk1FRU1xOTZYaldwak1aUFhQNm02X01UNlNWZ1djRXpneG9LZVQ0MWZBcUQ5VkJHbVFkM0U?oc=5"
     },
     {
-      "headline": "Roper Technologies Insiders Sold Shares Worth Over $3.1M - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSjFlZlc5bFhvcUYyQjB1U2Q3U0tiUVhHdFdXU1NUaTJYRHJjdVk0c090ZXYwZmRQczRNaXd3QXI1Mnp1MmxjZ2Fkd2dJMlIxaldmWHd4dThnT042VzJIWS15cjZqS3lIeUJmR1R3Z25UWmNVVks2TlRNaTJIcDhZeEtBQWM3YzdHLWtyVjQzWjNYUGZZTmZtVmwwSnRPV3dlUUpVVDJNSHlFcGg5cjBWTTJabThqeTRu?oc=5"
+      "headline": "Roper Technologies Stock Climbs 5% As Company Raises Full Year Profit Guidance - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUZfczVCclM4ZmVlSmpBQ2lyRW9yQVZzaUxOTUpOM3FiMk9aZHk2N3dNcUNnNzhnZnJHdWVBU0NpU1BaSlVKRHdnS2RVT3JEc0JzbzdCZUlTcW0xUkV6d3AwbGd1V1p6bG9mSTFjTEZFbTc1eXExeGRjbE5WZnlwMndjaXBlaGYtZlRiYlMwM0hOQzFvUW1la3FGd2hRV1R2ZllEelhQM3BBcFkzZGE0?oc=5"
     }
   ],
   "insight": "Tracking Roper Technologies (ROP)."

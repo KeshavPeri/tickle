@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:06.920Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:35.726Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    1954.469970703125,
-    2017.5699462890625,
     1854.22998046875,
     1948.68994140625,
     1981.949951171875,
@@ -24,11 +22,11 @@
     1773.510009765625,
     1791.06005859375,
     1831.1500244140625,
-    1730.4200439453125
+    1733.5999755859375,
+    1730.4200439453125,
+    1626.3199462890625
   ],
   "6m": [
-    1053.0999755859375,
-    1091.0400390625,
     1119.97998046875,
     1134.75,
     1148,
@@ -158,10 +156,11 @@
     1773.510009765625,
     1791.06005859375,
     1831.1500244140625,
-    1730.4200439453125
+    1733.5999755859375,
+    1730.4200439453125,
+    1626.3199462890625
   ],
   "1y": [
-    692.969970703125,
     687.6699829101562,
     702.969970703125,
     703.2999877929688,
@@ -410,29 +409,31 @@
     1773.510009765625,
     1791.06005859375,
     1831.1500244140625,
-    1730.4200439453125
+    1733.5999755859375,
+    1730.4200439453125,
+    1626.3199462890625
   ],
-  "lastClose": 1730.4200439453125,
-  "oneYearReturn": 149.71068258405688,
+  "lastClose": 1626.3199462890625,
+  "oneYearReturn": 136.49715513342983,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "UBS raises Comfort Systems USA stock price target on strong orders - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3U4a1ZsWVB4VFdONmJwanF1TGNvT1VvbFUzeUxtRFY5T3VlVEVHQkxnTTN1VEV3encyX1FUVGIyQWhPNVZRVU5ZbjhqUnNaNEdoUXd2VjFWbmxsblRxeGhvTVk1UE5tU0VZc3hHODZZZF8tRV94MVhCSXltWnpGUGdiRElqOTNHcjdjRFgwT1cxQVRic1BES3VJYzE5V3JwaFpHYmcyV0twU2dyaUVfa3lDZGFOaXRHdzFGYS1ReGg2VlZa?oc=5"
+      "headline": "Comfort Systems USA Inc (FIX) Stock Down 6.0% but Still Overvalued -- GF Score: 85/100 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGM3MTd4a0JCWWtXdWhHdlJEMG91dGdzbVctSjZkdzRyQUdFSEY0dXcxcGVhQ1E2ODJKYlBPdTRKR2ZuUF9hdklMaUZTdGRFTTlaMW1PenZFZFU0N3hMVENuRVJCYW8xSUN1dmREcWFZbEJIc0JOU3NKa0IwR0pGM2RlQzdKMUtCbXJaX1NlallDSk5NTjBWSTc4a1o2R3ZSTlpkVGhpUXFZVnFzMy1MclFEN1pSd1U?oc=5"
     },
     {
-      "headline": "Is Comfort Systems USA (FIX) Undervalued On Higher Dividend And Fresh Earnings? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSUtOUldQdElFdlQ1azAwazhhTFZyaEpHZ1hCV0VTQ3RLWC10cHBpalctM3NVRnEyWkRRelJtdWI4dktwMWV2bi1WNjRTR3F6SThFbHNqMWRMcmR6TjlxekliN1F1QjNKajF3T1JxOGY2dGRENE5HM2U1Rk9hdWRVbDhDbV9PQU9jeEpMaUsyZDBTWGp0YnBnLS1WX1JuandveXc?oc=5"
-    },
-    {
-      "headline": "Comfort Systems USA (FIX) Stock Faces Rich P/E As EPS Growth Reinforces Bullish Narratives - simplywall.st",
+      "headline": "Will Strong Q2 Results and Higher Dividend Change Comfort Systems USA's (FIX) Data Center Growth Narrative - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYS05SEE0enB5b3dzRTkzQU8zYURUNWNMWk9LRkF1RHd6ckxhNkVkUXRycGhsYzRhVlp5SWptdTBqeHJFdk00VHljdlRjNWFRWU5oMW9POElSYWJ2TGJPSGlYQWZwZ0JseDk2WGJuYjlvV1lnMjNDdDVDOGNuVVpNbVhiVXczYldlb0txVG8zQjB5QWhaQmFJUjRKSVphV2FaOGNpN1ZHeGpMT0pWVlBCc1FzcDdfeW1aUkFxVzRYaE9UeW9ZUEtjd1BNRzRyNXBSY1dySTFLNNIB3AFBVV95cUxOcDN5aUhqZG42ck8yWHhtZ19OUDAxNnNqT0tPNEYyakhVZEtpQWV5ak1sWXBFOGNtZEwza05TOGdvQ2hiT1NDVkJoMjJ1X2NKMzE2TVJhb3BaUmwza0t2NUpGdFVvV2ttZGFVNU5UZ3ZJV2ZaZEl6U0JRRGVUNUthb2otZDlWVDRnS09ZVEdIRWQ3cjF6ZV83bTQyRVVVNDNoMmtMRlFXNjFpNUxVMllkakpFR2JjUEFSQVktUG1Nam5YT2NQZGJ3aFctT2hnN3RtUExhcS1fNXdoR1ZD?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWkNyYURoS1ZBSzMwQnRTMGVRSTdKQXNfR0RyV0diQkY4dDRmTWhFTTVkLVk2dDhKWkZBakFhNmtqX3RqUWk3Wl9pclVrVlI1cXpPYXVQaWozendsUldMZ1UtTmVnYktkRml0ZnhleWZaUTVfUVlIWV9RSHExS3A2ZlFrQ2k2dTdoWlBOTVJVTVVKNlRKOWtUR3JJMDFad1Iza182R3BkcjM5ZTNXZThoQnRyYnhkcjdvNEYyQnN2YUlpdG1lYnhKVDFjWi1KVC1sSDlreEhoONIB3AFBVV95cUxOZVFMMGl0U0VEbmxmMEtMdElOU3A1SVlQeHU3UWZsQzFnNnFVT0t4NFJoWTVEMFhfZG1RcWp3OXV5RmJpa1pGNkJ2MzM0RnQ2THR1TERCd1U4dFhTU21PZ21UcGsyTERNcEFHWFpfSGwzWFlWODZUc2V0bVFjZDR6Zm16SlJjRnAyck56cDItOGpEZEg0U3ZGU1Bsa1RCZ2dGZ2JMMEE3TFo4bV9vR1J5WFN6ZHBoa2loWVNKcFJRVFF1M2JJWDViNHBlaDB0OERfZWlXUHYxZEwyMFM1?oc=5"
+    },
+    {
+      "headline": "Is FIX Stock Still Attractive After Its 2026 Rally and Earnings Surge? - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU21EUllhZGc5azZwRG01eHJxWjR0R1E3aC12eFVWVTlPa3FPeVFqSmdIM2pwajhBM1Q5aVh1NTczOUxqVUJnRUY1MjBHbEZWd0tZZnNHWW5aS0Fld0tzOWg4V3FHZGR3VmNRdDlCd2IzT2R2WC1zYXRhelNHbEZMZ2o4S2x4ajFHWmtzMUpDeEhqT2lpVXJMRGlXcWcwWGpvRkRHWC1JMzlWbm0tMWdJTGV4SFQtVXFzUDFPelBfNTR0eEk?oc=5"
     }
   ],
   "insight": "Tracking Comfort Systems USA (FIX)."

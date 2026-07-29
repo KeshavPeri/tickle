@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:26.607Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:56.784Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    105.19999694824219,
-    106.33999633789062,
     110.2699966430664,
     114.37999725341797,
     113.69000244140625,
@@ -24,11 +22,11 @@
     117.61000061035156,
     116.01000213623047,
     114.94999694824219,
-    119.20999908447266
+    116.5,
+    119.20999908447266,
+    121.68000030517578
   ],
   "6m": [
-    106.08000183105469,
-    107.31999969482422,
     106.48999786376953,
     103.68000030517578,
     106.12999725341797,
@@ -158,10 +156,11 @@
     117.61000061035156,
     116.01000213623047,
     114.94999694824219,
-    119.20999908447266
+    116.5,
+    119.20999908447266,
+    121.68000030517578
   ],
   "1y": [
-    106,
     104.91999816894531,
     103.9000015258789,
     101.44999694824219,
@@ -410,10 +409,12 @@
     117.61000061035156,
     116.01000213623047,
     114.94999694824219,
-    119.20999908447266
+    116.5,
+    119.20999908447266,
+    121.68000030517578
   ],
-  "lastClose": 119.20999908447266,
-  "oneYearReturn": 12.462263287238356,
+  "lastClose": 121.68000030517578,
+  "oneYearReturn": 15.974077800919337,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcENla0l3N1Q5RHF4LXRGZXhuQWZpSGR1el84Rlk3WVhiM05heWpwcWJCb3dueGNfbzd2NW4wajhEQkw5eWtUdkxoQTE0S3QtU09wUjM5TktHQlBTMmFLTHZTY2doaTNFc3RNWlhsRlZQaDFnbmY4WWZfY05sR1NHdnRKdkl4RWpUcjliNXlKZlR6dw?oc=5"
     },
     {
-      "headline": "T. Rowe Price Group Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOanUzU2l4TkpXYVhZVVNoY2REVlBZWE1ETE1zTmI0MW5oYVBXa3RPMDNNZlB6QVVYWDY0a2c1YllSNmltRnJQYWdyTmswR1ZlODlHSE5VZ0RWdlpMQlJiNmlLZDl5RkJrdGdHQ3hmeFBweHpuSlhLTE0wM2F3RkQ0MDZ6NmtkRE9hNDRVdXJzREx0UnFZTXZTWVhsb2Niclg3YXdJencwMmNNQ2ZDcEFmemNzeThSQWE1Y3RRLWVxckszSlJncWJCMl9jVHFVWnc?oc=5"
+      "headline": "T. Rowe Price Group stock hits 52-week high at 121.18 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb05EaFVtUzdCLVZMRl9iM3lfMGlmZE02TW1Na3U5SFdad2I5em0wYnk1RWswZHJPdU9XWVJ6aDFpcGpGc3RzWjhJRGFhVnk1VFVOZkRZM2ZHZFlfYmZ3VFZpMldIaTdhWEY4dE9Xb25VQV9QMlJQNElTQTA2Q2JHMkM1Q0V4YTNhaS02WWsyVXowSnpPQmFSY0NycG83YXNnT3JybEw0RFhXQWtiX29BdA?oc=5"
     },
     {
-      "headline": "Finding Signals From Noise: Inside T. Rowe Price’s $30 Billion Active ETF Engine - ETF Database",
-      "source": "ETF Database",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdlNjZFRVZlRiX3drei1RLU5OS2hKbUpPa3NIb3lJbkFjWDRwVHY5bzNQVVFRdEVLUFlNdmxIQWVoSlVNSmU1UTMyN3JsVDNaSkdwTkRhMFBXMkNtSjE2Vlh3ai1vRU5Qb2FVTTVJMTF4OW9fQklwUV9tV3lnMXpmdXNreTVRRnM0SkROTkdNRlRuRG9Y?oc=5"
+      "headline": "T. Rowe Price Set to Report Q2 Earnings: What's in Store for the Stock? - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFBKS1ZHWmVhTzRyS0RONzcxaEstdFVVdjRTOTVkcDNiWmlocE5Ra1RtTC05b0U0RlBfLUdJVHJzSm9jZUIxNC1jMWFQbE5aUm1xR3ExcFNJZnd2Tkw2M3cxb0duV0FYQ3E1MjZhNnZOQTRfY0owd2xHTUhQQlFmX1c5LWoyUlNFWVE3cmR3SUt1MEFhWGZxR2t1TTdtcWFJZjRzSjI1am0tNXlaM2FBLU01LVFoVTByZm1xYkM4UmgwVU5QUElJMlNuTmhnQzFvM29vamN4S3FIZEt1UGtPdnFZZUJzbndL?oc=5"
     }
   ],
   "insight": "Tracking T. Rowe Price (TROW)."

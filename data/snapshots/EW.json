@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:05.066Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:33.545Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    89.66000366210938,
-    89.72000122070312,
     90.77999877929688,
     91.18000030517578,
     90.45999908447266,
@@ -24,11 +22,11 @@
     84.55000305175781,
     84.37000274658203,
     83.81999969482422,
-    83.04000091552734
+    82.62999725341797,
+    83.04000091552734,
+    83.68000030517578
   ],
   "6m": [
-    83.0999984741211,
-    84.48999786376953,
     84.3499984741211,
     83.45999908447266,
     85.13999938964844,
@@ -158,10 +156,11 @@
     84.55000305175781,
     84.37000274658203,
     83.81999969482422,
-    83.04000091552734
+    82.62999725341797,
+    83.04000091552734,
+    83.68000030517578
   ],
   "1y": [
-    78.48999786376953,
     80.47000122070312,
     81.16000366210938,
     79.30999755859375,
@@ -410,29 +409,31 @@
     84.55000305175781,
     84.37000274658203,
     83.81999969482422,
-    83.04000091552734
+    82.62999725341797,
+    83.04000091552734,
+    83.68000030517578
   ],
-  "lastClose": 83.04000091552734,
-  "oneYearReturn": 5.7969208505458045,
+  "lastClose": 83.68000030517578,
+  "oneYearReturn": 3.989063049307865,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "UBS initiates Edwards Lifesciences stock coverage with buy rating - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZVUyOTRCVFlTb0tYbU43LXFxa2lJbTNKc0tKMUVzZ0Q3cmctZmwzcUs0ekZONkJ0X0xJbzBqZmswVmdPRnNmeTV2SnRxc1VtZXNNSUM2Q1Y2Q19lVUwtYjZGeV84ckN4ckRDUU96VEczZTE2S1M0ZGh4c2V6Szhqd0VNNlkyNmNzQ2o5c1Q5Z0w4cXZzbEhUUTBMUFY5cXZ5MDQ5MFVyYjBVclJjV05EMlBROE85QUd5NDlScEZGMzZ0Qzg?oc=5"
+    },
+    {
+      "headline": "Edwards Lifesciences (NYSE: EW) planned resale of 818,958 shares disclosed - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHJiUmh1YUxGQ1g2b0dZcDREUlctUTBZUEtiQXI5R2RtVXhoSnphVTk2ZFNROUo5M0pRbmw3VXA1U05kaTNoS1dUYWlwZ2tFMmVWSFgwODRyX25wZlhLb05ETEIwZU4wUnlkV0hfM3ozYjB5bzJOU1FyRHRLMU0xUnhxU2pNM1BPbHVtY3lseV9tOXVfN0NBdWdvbklvTmZrYWc?oc=5"
+    },
     {
       "headline": "Edwards Lifesciences (EW) Stock Looks Fair On Cash Flow While Earnings Trade At A Premium - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-25",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWFDVTRhdlg0cktvQ3J3TFRIMjFmZXhYQTJWSm5Eb082blhpTGEtY3EtbTdNaTZxQ19pUWZiR1BWNmw3dWNDMEtrU3Y0cVRTNXdMS25QZnlLYW5vMzRCeWFWdG9LWjNLcndPOFJGVjFTM1dEek85Vk5hN2lJRko5TEJueWxiczYzMmtMcmprTFNETkFhcVNJTVVwQUY?oc=5"
-    },
-    {
-      "headline": "Here's The 'Cleanest Large-Cap Story In Medtech' - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3BqeFRoNEpXc0xKbHgwV2pYVFZ2c0E0X3VWekR1WXp1MUM3SnNKakgxcXNJZGhLeEh5TXc1X1docVB6M0FYcEQxbHRjZlVMamlsQzU1TjZadENfTUpGckpZemJzaUtiQ1Atb3JtcmhVeER0cWp4MUN0UFdOMk55ZDY3R3BUdnY1VXUtbklxV1UzUEY1NkNtc0RpYWx4VVRmT0ZYOUlhLTBaRGs?oc=5"
-    },
-    {
-      "headline": "Edwards Lifesciences CEO Bernard Zovighian sells $245,134 in shares - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObHdVWFlHLUYxajIxSW1DUzNWTzBBSV9IYXRrcW1VX21oanY2WkpMZDNjNVc4OTR2OHM4TW1jZE4xOVV5dmJqSFlGalA3YU5qTE1rWXhpQXJ5M2N2dWxNdHNnclZLN3BSaWxGX0tCdDBsNjJGQ2VrMV9yalVkenpMQVBzVVl5Y1VwY19TU2kwUmZ2ODhuWnB4Q0FKR1NUWkR0c1o4SW1BNV83eTU4cGVzZ1R2TzdaTDk1XzZjb1NaUVpVbWVHYXJpSTZEczNQT0FRQ3hTRQ?oc=5"
     }
   ],
   "insight": "Tracking Edwards Lifesciences (EW)."

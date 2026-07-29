@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:18.517Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:48.195Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    233.25999450683594,
-    236.77000427246094,
     237.25999450683594,
     239.1999969482422,
     238.00999450683594,
@@ -24,11 +22,11 @@
     248.66000366210938,
     250.72999572753906,
     245.97000122070312,
-    248.27999877929688
+    249.60000610351562,
+    248.27999877929688,
+    252.61000061035156
   ],
   "6m": [
-    209.7899932861328,
-    212.57000732421875,
     212.27999877929688,
     211.7100067138672,
     219.16000366210938,
@@ -158,10 +156,11 @@
     248.66000366210938,
     250.72999572753906,
     245.97000122070312,
-    248.27999877929688
+    249.60000610351562,
+    248.27999877929688,
+    252.61000061035156
   ],
   "1y": [
-    194.14999389648438,
     194.33999633789062,
     191.5500030517578,
     188.6999969482422,
@@ -410,11 +409,32 @@
     248.66000366210938,
     250.72999572753906,
     245.97000122070312,
-    248.27999877929688
+    249.60000610351562,
+    248.27999877929688,
+    252.61000061035156
   ],
-  "lastClose": 248.27999877929688,
-  "oneYearReturn": 27.88050815580926,
+  "lastClose": 252.61000061035156,
+  "oneYearReturn": 29.983536776006403,
   "marketCap": null,
-  "topNews": [],
+  "topNews": [
+    {
+      "headline": "Commercial real estate ‘definitely not out of the woods,’ M&T Bank says - Crain's New York Business",
+      "source": "Crain's New York Business",
+      "when": "2024-04-15",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTFB6ZjJ5dFBYcl9HZzFKZ2NyVnRjR3RRa1VqOURYalVUNEFWV3NrZzc3QjVfVDd6TTRscFhjNnczSFg4bGpfQkpUZ1JmbTI1LXhMWVZfMHBRS0p4UTVhaHZoNEg0anl0MHBvX3Y2QkhaRk9WNzdXMXlUN1VEdDY4UFZZMllSOFFlTnc4ODlqV1pyS0NrLS1Zb2Y4YVVMZ2I2eE5Cd2dn?oc=5"
+    },
+    {
+      "headline": "M&T Bank (MTB) Soars Most in Two Years After Guidance Pushed Higher - Bloomberg",
+      "source": "Bloomberg",
+      "when": "2024-04-15",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTVllR3d4VFR0U1c2M2ltUlB2VXZoWFFQWXgyZUdERWwwNEE0NFdQY3JjOEFVdS1SMUd6eTE4MTVQQUlBZW1tUldfZmRDcTVXaUQ2b1dkRXdveE5aLVFnNjJRRmt1c1gtc1BnLWJGcWRTemtTd3ltVzV6LUEta253aXcyQ2NETGRYSW5hbWtIRnh0NEJCZHhYSjdkaVBZaWRLdFYxSlB5MHAyVkJSRENIS0ZB?oc=5"
+    },
+    {
+      "headline": "M&T Bank Corporation (MTB) cash flow - Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "when": "2018-06-06",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04MWl3TTZjcGkyTWxZd1pJSzB4OGpqQUdZZmZmb196TWgwRE1Jei1LbVNIaXIxOHEweGlqZERFV0JqbU5GQy1QNUhuaW1BcW9xTzk3cDVuQW1pZlpPb0E?oc=5"
+    }
+  ],
   "insight": "Tracking M&amp;T Bank (MTB)."
 }

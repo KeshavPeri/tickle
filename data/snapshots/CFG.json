@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:42:55.621Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:23.502Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    69.45999908447266,
-    70.66000366210938,
     70.4000015258789,
     70.43000030517578,
     70.06999969482422,
@@ -24,11 +22,11 @@
     72,
     72.44000244140625,
     71.80000305175781,
-    71.0999984741211
+    71.87999725341797,
+    71.0999984741211,
+    72.94000244140625
   ],
   "6m": [
-    59.93000030517578,
-    60.61000061035156,
     60.81999969482422,
     59.810001373291016,
     64.05999755859375,
@@ -158,10 +156,11 @@
     72,
     72.44000244140625,
     71.80000305175781,
-    71.0999984741211
+    71.87999725341797,
+    71.0999984741211,
+    72.94000244140625
   ],
   "1y": [
-    49.33000183105469,
     49.09000015258789,
     48.689998626708984,
     47.720001220703125,
@@ -410,29 +409,31 @@
     72,
     72.44000244140625,
     71.80000305175781,
-    71.0999984741211
+    71.87999725341797,
+    71.0999984741211,
+    72.94000244140625
   ],
-  "lastClose": 71.0999984741211,
-  "oneYearReturn": 44.13135178389868,
+  "lastClose": 72.94000244140625,
+  "oneYearReturn": 48.58423755283091,
   "marketCap": null,
   "topNews": [
     {
       "headline": "Citizens Financial Group, Inc. (CFG) Stock Price, News, Quote & History - Yahoo! Finance Canada",
       "source": "Yahoo! Finance Canada",
-      "when": "2026-07-27",
+      "when": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rQXRIeWN4cmdubTFENjNpMzAxZFNiMWJGaHA4ZTJONm1uck1DWV81dUl4WHRBVnlleHR6Y0hlVlhKVm1fam5UaHVuWG4tWUti?oc=5"
     },
     {
-      "headline": "Citizens Financial Group, Inc. $CFG Shares Sold by Public Employees Retirement System of Ohio - MarketBeat",
+      "headline": "Insider Selling: Citizens Financial Group (NYSE:CFG) CEO Sells $9,323,623.83 in Stock - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYTNXamdiTmNKS1hjdXBzd0tSVHZ2UWVZc2VCZ2Z0YUtVZFJVczE5ZzZ3NklKRW9PTFljeXdZSGZFbUk1VFREM2cwWHRTUEZrR1dRMFVhdE9KX3JmdmU5NG9obWNDTHItMEl5VUM2OTNGU05SZnNtbjZWdE9XTzlyVzRRamQyU3I2SWduRHZSeDJUMnB4S3dkM2tqOFN0R21vUmJ6eG9XUVQ4R3MzUW41RkdHMmxLNTFqNDQwaE83WUp3eHExMU5UUGc1bDB2WUJ6ZzhpSzdtSFl3NW04eFhZN0FFQW52QQ?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOGZLN1drTlF5eDJabWtkRG9TUnBlRFVEZF8yMXdudVY5dVVqSDA4TjYtLWxjVGplRWE1U0JldGo3ZG1zZ05XZzRJVXBZUDJlWDl6bGJyMVFXeUJJdkx5bzBjaF94dHQwS21fNVl5c3dkYndzTGhZMnN6NU44cUI1VHh1STR2LU5PbUM1M1h5Y1BSc3MzcnBfQU1YQWd6VFB3d3FnWWxySVBOU0MzLUFqamFWQUctYm15VVFFd2E3M2RiZlMxNHRxOEF2cw?oc=5"
     },
     {
-      "headline": "Citizens Financial Group (CFG) Lifted Guidance, Is It Still Undervalued? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZmlYbUN6UktsVDZPVU0yeU5aOG10UnZsVkZDT2hLN2ZkcUtiZHg4eUFlczY3WVRYRFBFV3Q3R0JBYmI1Uk45d1JZbDFLSU1DRGd6VWJZcnhVS2xvUmZWOWJIclYwa1hPZTFKRk1DVUNQTGJiTVBBVmpod1RhRTllSlVkdTh2ZGY2ekI2aU9MLW4wY0ZYcEVMMjFiTDUzbFZKM1pMYUh3MHNrNHpGLUU0NGlKcU1OUWZUUldZLVpUeFltX29nbmtkcEJuSWxKVDR0VUhr0gHYAUFVX3lxTFBMY2lRb19GUFMxdi0tT0kyejQ4Ml9YQjZybTdXLU05U240MGNxdXgtMXhLN1cxSUlyd05BLTJ5eHFFZFFFNXpVZWZUSEdxZTFzaGI3QlNmM25LcWI2WHp6dzVOelRMd0JHUGZRbUhlZUJJdm1salQzeVRqUV9LVGxFa3pRVWQyc0NTazFTMDFzU3kwX2htUm9QUVVEeWdGa3dPRFNBRXV1VUxqQ0pyOF9FVlppa19PNXowUFBzZm5mODhYZ1FDU2ZzNS1FSk1teFVVbF93YTdWOQ?oc=5"
+      "headline": "Citizens Financial Group (NYSE: CFG) CEO sells stock, gifts 38K shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObXpRRE5WWEZuYUtqbmx2cVkzcjcxUGNiLXdTbl91NXNFb0F5TXNmSElHVWNTWU5pNy15WWRqRlkxY01ubTh0Vk55Zk12SWtMMEcyczEzNVdFLXdOZjBoSmRXT1RuLWU1VmVrTlFidVVPY3V4ckhZSEhId2JyamFEY2xTaXd5ODVxSWxRaUVsVmxZMkNjRlVlM01kM3NkVGdfSjZFR29Ec3pFNGgyV255c18tNUhDUFhWT3VvSFU5NFczZw?oc=5"
     }
   ],
   "insight": "Tracking Citizens Financial Group (CFG)."

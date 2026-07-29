@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:42:53.277Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:21.043Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    982.5999755859375,
-    971.9199829101562,
     964.7100219726562,
     950.1699829101562,
     961.5599975585938,
@@ -24,11 +22,11 @@
     1038.239990234375,
     1056.6300048828125,
     1037.1600341796875,
-    1062.1400146484375
+    1055.6700439453125,
+    1062.1400146484375,
+    1097.550048828125
   ],
   "6m": [
-    1091.8499755859375,
-    1156.6500244140625,
     1163.1700439453125,
     1110.050048828125,
     1127.8499755859375,
@@ -158,10 +156,11 @@
     1038.239990234375,
     1056.6300048828125,
     1037.1600341796875,
-    1062.1400146484375
+    1055.6700439453125,
+    1062.1400146484375,
+    1097.550048828125
   ],
   "1y": [
-    1117.8199462890625,
     1121.530029296875,
     1114.6500244140625,
     1106.010009765625,
@@ -410,29 +409,31 @@
     1038.239990234375,
     1056.6300048828125,
     1037.1600341796875,
-    1062.1400146484375
+    1055.6700439453125,
+    1062.1400146484375,
+    1097.550048828125
   ],
-  "lastClose": 1062.1400146484375,
-  "oneYearReturn": -4.981118097370796,
+  "lastClose": 1097.550048828125,
+  "oneYearReturn": -2.1381487648426014,
   "marketCap": null,
   "topNews": [
     {
       "headline": "Weekly market commentary - BlackRock",
       "source": "BlackRock",
-      "when": "2026-07-28",
+      "when": "2026-07-27",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5"
     },
     {
-      "headline": "Why Two BlackRock Competitors Told Clients to Buy It - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRE5fNGV4SE9DVTBaOFF3TmlYVUVQSFRZU2hCMVN0R1R0SmlENE80dTF3ZXdDTjRIRkZ5eXB2X0x0XzFhamp2NXV0TzUzaGJXSk43Yld5SmFGc204Nl9RTk0yZ2xtUmo4ZlNFWWZTUlliR2FxeHpmajVCZzdQbE1DZGZQNnJobllqT01lSndGS1hEc3BkTDJuZkN3NmVPQUp1?oc=5"
+      "headline": "BlackRock (BLK) Stock Could Be Fully Priced Following Record Inflows - Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVHZmeGgzMHRvZnNiWVRhSm5qM1hoWGp5dzhqdUR5WXFjQWxvQ1ZpR29pdnZacjV6azZoU09NWXZQQ1dOb1VBN1lJcm54dVBnNlkxZ2hYX2FyRk16aEp2WkFDSENsT2F0Rkl5NHdBMWVua2taX1Y4c2ZPb1lTOW5XWTN3WTUydXM?oc=5"
     },
     {
-      "headline": "BlackRock (ACNT) discloses 161,979 Ascent Industries shares in amended ownership filing - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdnlmVGE0Szg4VklhenB1ajc2VU9Lb1NJUkpGeDMtWVdjQmVqX01nMUtzdE1pb2wwYVdnQlBEcnRBWWYyVGRVWVhmcWVyZVRKQ3VwYTFUTUQzQ3BzdHQ3U3dEZE9fcE5ka3FfRE9tQXYxRGpWRFlUamNVaWc0a3dIWDlFUzY5TkFJRHNzak9abHgyb0Nub0xLckp0SmV6SEUxTGFrQXZQX3Vlc0ExS0ZteXdxSlA3MDg2X1JDblNFNzVhWWdjTHMyaUl5cw?oc=5"
+      "headline": "BlackRock (BLK) Stock May Be 6% Undervalued Despite Aston Martin Debt Conflict - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOF9Wd2pqQm5XNG1haG9WTGhjT3ZpVTVGRG5QdGZMeFZrSGFvVlJCUVZoWHRScEhkcW1sakkzYnliSXc1eEh2eFpMVm1kRnNqTGpZYUs0cXltTWJZdVhaeUdtdjE4aUh0V2F5ZnRKcl9DSEdSUkV0REJxUnc4d0pRUTAtVmNOZmdwbVFhcFJpMHNuM09QSlVub0FnSkg4a0w2dWgzUTFEYlRoRVdvRDdLNm9OeC1DVFRGZEJ6TzRvUjZaUk53djhMN3VwaTZQb29qY3lxWE5B0gHbAUFVX3lxTFBRX1MxcGE3WWtxUTVmTDFrQmoxVEVwVWoycW44aC1iaGEwcS1IV18tOGtGdnZ1d3NXVi1sRWNaWDJVVjVCbDA3ckUwbkxBOWNWbmF0SzZzdzZTTWwxSktOQjlOa2xYMUtMbnd5MnNNanBEZDRfNUZva2xRZ1NENUtxVG1HWlEzY0tuSGJJdlBDa2RYZWcyODBjMGZjeF80c3E2MzdrNzAybEozVUNLTFZPaGxkSmJuYTVDeGJ6eGFxcHd6cGwwUm9EOTRQZDVlQk1zc2MyM1pFM1Jucw?oc=5"
     }
   ],
   "insight": "Tracking BlackRock (BLK)."

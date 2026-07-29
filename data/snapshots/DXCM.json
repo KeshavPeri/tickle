@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:02.352Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:30.959Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    69.75,
-    68.6500015258789,
     70.13999938964844,
     69.9800033569336,
     67.3499984741211,
@@ -24,11 +22,11 @@
     74.75,
     71.43000030517578,
     70.4800033569336,
-    73.37000274658203
+    71.54000091552734,
+    73.37000274658203,
+    74.8499984741211
   ],
   "6m": [
-    69.69999694824219,
-    69.23999786376953,
     69.54000091552734,
     70.7300033569336,
     72.11000061035156,
@@ -158,10 +156,11 @@
     74.75,
     71.43000030517578,
     70.4800033569336,
-    73.37000274658203
+    71.54000091552734,
+    73.37000274658203,
+    74.8499984741211
   ],
   "1y": [
-    89.52999877929688,
     89.3499984741211,
     89.05999755859375,
     80.7699966430664,
@@ -410,29 +409,31 @@
     74.75,
     71.43000030517578,
     70.4800033569336,
-    73.37000274658203
+    71.54000091552734,
+    73.37000274658203,
+    74.8499984741211
   ],
-  "lastClose": 73.37000274658203,
-  "oneYearReturn": -18.049811519099137,
+  "lastClose": 74.8499984741211,
+  "oneYearReturn": -16.228315889898656,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "DexCom Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "DexCom Earnings: What To Look For From DXCM - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOanJsMjVsUzdhVy1GM1laeVYtbzcwZ1RSV0I0SVdlbzVlQ05Wd2cwV01FRjBpeFhyN24yeTJTaWtHTmctUWdLcWtPUkFfTlNkNUQ1QmpiMkpxazF5djhIc0piclM1WXozUkktQVVLUGViSUhFSW5aVmxTbnVEMEhzZkZBdUp5d0ZTR2ZSSXdXcFh5R1M3a0MxVm5YSVdDRkJzNGJmcjRR?oc=5"
+    },
+    {
+      "headline": "DexCom Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbTlkcWpVQ0x3a1hUWTlBYVJ6aVYyQXlSSDdLaE00T1VTU1RoeXlSNk9jWFlBTFN2dEFmendBbHlTazJsUmkzazd1clJTMHBIVXhXTFIzcTAxV0dzQldkOC1Ga3FIY3NQV1lJVlJKRWVVMTRDdVN4X2xQb3pXQmIteGxJUTRYaVFTTmxlRXZMVkZPZnAwREthMmVpVE54NWt1OEowalBYbDBhUEFrQ1E1NEh6anZ3X2pQSmp1eEtDZERZT0R3c2JZbXc5bDJQbGZ6R2owZWw4aw?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTF9icGhrZ1ZHSGUzLUh2aUptalpaaTF6Wnh2NHBOdUwzRHJLaEtrc3FHNzNqdEZOeGtEaVhTX25NSlpmSmlOTE9tZFZHbDc5T1ZxSWpKSmlyZzAxVm1FZVkzTEIwa2pZOVJqeTJoclFiUU9HTXM2dVNhOG5RV0dnUEJWN1hGc1lVMndIRll6OU8zc0tfd2pzTVY2bWVwVkJYWDZmdVQ0QUVvV1U4eVVIZXJfdGsyTExRRE5YeURLMW9oS2FQZW1TVEZkZ3Y4eGJoaHRYUW5VeGJQRFFGWG5icV9wb0U0cUMyWGZ1T0YyampwUlNVdjIyMQ?oc=5"
     },
     {
       "headline": "DexCom (DXCM) Wins Health Canada Approval, Is The Stock Trading At A Discount? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-27",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVEcwcXlycXR3N2tITElWV1pkWk5rVS0wR2s4Zm9INk1iSkxHSFFFc1A2YkVvTjN2c1JnU3AzTGx4clZ2N1BPd1NYWl9BbzJFbkZ4TDg1WnFWdDVtMmMtaEVySGJjME16OEVva2I1d2tTeDFZTXMydmFtS3BNSHNZVGNzWnhqZ2p3dmtHN3lPNlc0T0tETXluMWY1ZnhvSFF1S0lVSC01NjN5bWVSYUI5VC1VTmZkTEJJT09oREVuRHUwZ1dJeFHSAcsBQVVfeXFMTVA4WUI3bEdyTXJvZVRTU3Y2SVBoMldnd05Da0x0VTZjZXFxMWtsZGxhX0pjc2NSNHoxVDNiamlWWndYZkxZZDNGV05Xa3d3YWo5QmNzRVFoTFlfakkyMnVUckpDS25aWUZWRGctUTBlQzBPYlZBNU5YTXZXUFdORFkzdy1TZm1Bd3BVWnlsYzFwdVdLWFB3djlhUmV6d1ZvWF91TEwwendoU2JzZ3ViRzd0REhQMlc3YTlCdUE4YUk0WVJ6NEhGdzlhUjA?oc=5"
-    },
-    {
-      "headline": "DXCM Q2 Results Likely to Reflect Strong G7 & Reimbursement Expansion - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdGxaM1BYT2dOVFozR1BPTDNWNGZkLW5SVnJtRG9lY09FaDJKcXJrTmR2Nk1zUVcwLXVoVUVIdWhDVVpuQ0lqYXNnb2RtcXRvM1g4a2NxYzlOTHBUanBVYzNDUlJRVDRDeXBWbGdtMXl0MnlpZmtVX1pGcEh5SlJCRzlVeGh3dzVha3lfc0U5Njk3dWtQMEVLcjdOdWQxOUtvRjZweWVnMWM4RDljdkNPTWt4MGdHVDdHc3BEdF9tX2Q?oc=5"
     }
   ],
   "insight": "Tracking Dexcom (DXCM)."

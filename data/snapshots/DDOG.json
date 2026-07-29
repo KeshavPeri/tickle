@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:00.156Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:28.452Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    220.94000244140625,
     239.77000427246094,
     248.57000732421875,
     260.3599853515625,
@@ -24,10 +23,10 @@
     245.77000427246094,
     244.38999938964844,
     246.86000061035156,
-    251.86000061035156
+    251.86000061035156,
+    250.8800048828125
   ],
   "6m": [
-    120.86000061035156,
     119.0199966430664,
     117,
     123.45999908447266,
@@ -158,10 +157,10 @@
     245.77000427246094,
     244.38999938964844,
     246.86000061035156,
-    251.86000061035156
+    251.86000061035156,
+    250.8800048828125
   ],
   "1y": [
-    150.77000427246094,
     150.27000427246094,
     148.8800048828125,
     139.97999572753906,
@@ -411,12 +410,19 @@
     245.77000427246094,
     244.38999938964844,
     246.86000061035156,
-    251.86000061035156
+    251.86000061035156,
+    250.8800048828125
   ],
-  "lastClose": 251.86000061035156,
-  "oneYearReturn": 67.04914337948011,
+  "lastClose": 250.8800048828125,
+  "oneYearReturn": 66.95281676303895,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "What Does the Datadog CEO's Sale of Company Shares Worth $11.5 Million Mean for Investors? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMmVJc3VKY0l4NlJaOF9KVEZvUFVnejBicXJ1Y2VTa1dXY2VmZmZSVDhQUC1nYU9KQXJlVE4wNVpuNUZGdkxfdmU2b2xrYjNtWUdNSnhWR2dMSy1TT3pKVW9zMHJzU05ub2lOSEUxcDhaSXJFbFREb1VTejROVEpFaUVsZzUya1hFQTN4VExnejI5UWFuN3kwV2tvWjBBckNoak05N1JvOTA4eHR0a3VVS3pWSWpnS2RRemFhdk8yWlRFb2NNbXBZSzZ5cXNKaWc2aUNoWUxtYno?oc=5"
+    },
     {
       "headline": "Why Datadog (DDOG) Outpaced the Stock Market Today - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbTFCUHd2RVVlc1p4VDFGSW11TzR3X2dDamQyWE9mLVRCREtXckZSTWw2MDktRy14SXdiNk1PcUt5Y3hKbjNrbzNtQjZjNGt5NnNNQ211OXVTa01IMzNld19aU0N1UjUtS0R5SEl6SVoxOWxVRk1fMHdXTXlsRVZZN3d0VDRMMExRMnM4eWhCMGNubGhlM3NfZVZNam8?oc=5"
     },
     {
-      "headline": "Datadog’s Stock Now Costs Far More Than Its Sales Can Explain - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3UyajhGWmNLZ0NtX1lnbUphYUlFR2pGVVZtVzZIenZJWExvQnBfQTl6eGpzN2JmaXB1S0hkLXB2MmFpSk5feXB4M3lPemJoVU8yLWRfaFdZdG5jVmcxWWs1Vnp0WlZhWE9FMmtYeTEtTm5KQ2JRYV9xQ0tQTW42NjlGOWRZRzR4cy1zend5blFlMklfUF9uOEFwc2gzeGYxQURsWmdPWUZRdW1VSWtFQmVXbXZtdFF1b0Z1andR?oc=5"
-    },
-    {
-      "headline": "Datadog director Amit Agarwal sells $4.9m of Datadog stock - Investing.com",
+      "headline": "Citi raises Datadog stock price target on AI growth momentum - Investing.com",
       "source": "Investing.com",
       "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXZnckJBWUtqQWRsUUNHektFemFWVVdWU3Y3SWtGWm9wcm81SUItNlNTNmNTdjJJT2JuU2UwMGZJQ1pOUDFxcnhEamxiSXc1N2lGb2VYUlNEUmloTDVKVFMyR0IwRE1ScnRhNDQ1SGVWa0ZZcS1MSk5TR1RqUURSMGl0QUNVanJJdllkRnpEYWxSZGdtT3R2Y3NHR01oN1RxeEZ3NUVwV0xDZDJmcDVIU2lYcXpkU1BNTzdOalVB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVktLNkFEZzRSWGxZYkQ3U29sQ2FSRG5BN05PM2FfR3ktanotZzhVUWtpNXFwbTdISXN4aG9yd2UtU3lrVXZJLS1qTFAza3I0RkNONkFYdlRGdnhKNmFuYWVuc0UwYjNiRk55VUNxeWdWalBuY0N2YjNWc3VubGxYLUVJeG8taE8yVm4tQmRIU1pGbHJkY2hhNVFULWxsZmNiRDhjYTluUG00R0J6LXEzczlMcUVLTmh2d0FTVg?oc=5"
     }
   ],
   "insight": "Tracking Datadog (DDOG)."

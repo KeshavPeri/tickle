@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:42:57.358Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:25.476Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    200.47999572753906,
-    204.89999389648438,
     204,
     202.27999877929688,
     200.6199951171875,
@@ -24,11 +22,11 @@
     206.22000122070312,
     201.36000061035156,
     199.9600067138672,
-    207.0500030517578
+    202.83999633789062,
+    207.0500030517578,
+    212.41000366210938
   ],
   "6m": [
-    234.4199981689453,
-    236.97000122070312,
     239.13999938964844,
     228.72000122070312,
     231.00999450683594,
@@ -158,10 +156,11 @@
     206.22000122070312,
     201.36000061035156,
     199.9600067138672,
-    207.0500030517578
+    202.83999633789062,
+    207.0500030517578,
+    212.41000366210938
   ],
   "1y": [
-    214.17999267578125,
     213.82000732421875,
     215.22999572753906,
     215,
@@ -410,12 +409,20 @@
     206.22000122070312,
     201.36000061035156,
     199.9600067138672,
-    207.0500030517578
+    202.83999633789062,
+    207.0500030517578,
+    212.41000366210938
   ],
-  "lastClose": 207.0500030517578,
-  "oneYearReturn": -3.328970897303459,
+  "lastClose": 212.41000366210938,
+  "oneYearReturn": -0.6594348582035934,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Citigroup Issues Pessimistic Forecast for Capital One Financial (NYSE:COF) Stock Price - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPemZUb01FamJPV3NrbFlMcFFaQW5ldmhUWnNRSW05Q0NVTFZNcXRzRVdKSF9oOGxqMTJEQmd5SUhORl9MQ1FvVm5ialVmMFlpTEJHQU5vUktydEVVUWZ2UmVUcXc1RHUtNE1DUjlKMWZjZ0ZHVWd5cm9xNl82UEdOTUxuY0xUeXNmVVF0dmV1Ujd0cG11UEx3VDdwV29nYmNwUGRoejFuQTNuQnQzdU5faEh4Vmc5enkwVmhYT3RtTWVKc2lwLXQtRnJpWHFWelVrbzg4?oc=5"
+    },
     {
       "headline": "Is Capital One Stock Already Priced for Its Earnings Power Reset? - TIKR.com",
       "source": "TIKR.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnpJcmU2dXZLaWVoLThLVzFVMTJNUU1ic184YjNmeVNKbklwWlRXR0FtZWZqNWRvRWpud25ucWI1cDZCSnk0WHRkSkZDbXNCSkxndTcyeU1sQVVqM0F6Rnd6bW9sd09MTDMxTlZsaExmYzcxcEFYc1hhR19lRmFvTjBmbTR5elp2S1JDUl92NUp2NjFI?oc=5"
     },
     {
-      "headline": "Capital One Financial Corp. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUDdlcmduVGk2NE1kVTlVcEJMUEZPb1RlZHNLRGdkYVdfWW9NcVJOTkU5cEZPb1kxSFZMSndxd1FpRmszeHU1TkNra21OeWZZMGc5UVp3MUFOUXFKNFBDRGF2NzZNVlEtWDliQ1QtVWJ0UE5jaTg0TTJzLVJ0bkVybXgtOTYzcHdwYnpqVlhQLWZZUlhibzFlYy1Zc2VUenBHd1JUOS14SmNwQ05Ib20tM1o3YVFvZ1MyTWNVdDB5RDV5MXdfdmVkb2NiLTZwZGVwM0I2MVVqVlpWSmNuVWpVYTg4RmI4Tjc5clpZVA?oc=5"
-    },
-    {
-      "headline": "Capital One Financial (COF) Swings Back To Profit, Is The Stock Cheap Now? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNlhSX0MxTS1veGJYZFRseVlWa0xoZHlBcjlXOXFwUmQ3Z1pyRndkeElSblR3a0FXVG9FQnZJUjBtelVGa2tlTzVndnRjN1A1RFA0ZEtYN3haLUpmRmtNUTE2TC1LS1dXYXRDcTlTd0tURi1FdElOZlJPTDRENnZVYWpvSHZTRGoyNTl6dXV2MG1EVUJlc211Y0lsdWRDZw?oc=5"
+      "headline": "Capital One Financial (NYSE: COF) posts $3.0B profit and strong loan growth - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMTlDQzhLeEFtdzVfdzBFUXQxRGVySnVIcHgweWg1dDc0c1UxMkpvcV85S0hnRDRLNk1TMzgyWV9Rbmpmd2VEY2lnX2w5cHlYSmhmYXJqNHQ2WmtSSFZoU2NjcGVobG5rV21LZXp6OUdoRnVNcjV1Wl9aRldaMG5fVlBiOWNDT0JyVENWMmtiMzUxcndzUEZwMC0wMm1RVlBqTmktVGYyVVdibGVfVHdBeDM2cTJwVTdyNVE?oc=5"
     }
   ],
   "insight": "Tracking Capital One (COF)."

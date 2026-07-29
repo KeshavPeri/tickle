@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:04.589Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:33.101Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    281.6499938964844,
-    285.57000732421875,
     295.3399963378906,
     295.92999267578125,
     291.5899963378906,
@@ -24,11 +22,11 @@
     294.010009765625,
     293.07000732421875,
     293.20001220703125,
-    290.67999267578125
+    293.4599914550781,
+    290.67999267578125,
+    294.5199890136719
   ],
   "6m": [
-    253.17999267578125,
-    253.52000427246094,
     258.2699890136719,
     256.25,
     257.239990234375,
@@ -158,10 +156,11 @@
     294.010009765625,
     293.07000732421875,
     293.20001220703125,
-    290.67999267578125
+    293.4599914550781,
+    290.67999267578125,
+    294.5199890136719
   ],
   "1y": [
-    283.1600036621094,
     290.6700134277344,
     268.4599914550781,
     260.17999267578125,
@@ -410,29 +409,31 @@
     294.010009765625,
     293.07000732421875,
     293.20001220703125,
-    290.67999267578125
+    293.4599914550781,
+    290.67999267578125,
+    294.5199890136719
   ],
-  "lastClose": 290.67999267578125,
-  "oneYearReturn": 2.6557384222403693,
+  "lastClose": 294.5199890136719,
+  "oneYearReturn": 1.3245176344599685,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "BROOKFIELD Corp ON Lowers Stock Position in Essex Property Trust, Inc. $ESS - MarketBeat",
+      "headline": "First Trust Advisors LP Boosts Stock Position in Essex Property Trust, Inc. $ESS - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeklMeE5nZE5VYXB5eW92dFE0Q0pNRjRHb0o4bEEzQzloRlhRTzVocEZvQUZ0d2NNWU1HYVNjbk13YlBZRlVvWG81MU02NTNDOXVQbVFwaHNWT3hrckRrcm1meDZ1akQtN1BoUmluOVJSNzFBMlQ4a1JNaENBbmRENk1BaTgyTGg5TWdIZ2tXZ19scEUweldUR20zLWRjbEF0d0RzUDhoR2hfaWxoUTY3VFlaNGZULTZQSER1MEwwX2U0NFViZXJSc3ZMV0Y3QQ?oc=5"
-    },
-    {
-      "headline": "Essex Property to Post Q2 Earnings: Is the Stock a Portfolio Must-Have? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODFGWUFqaGlXODhlNnRDdUlseDl2VHR3d2d1RlF4SUJ2MGJaTnZsSkxfSmU0UjNvd01GZkRRN085cGVmbk93Q3loTTNBeExnWFNOdU10Z3cyOVlEVHAtT2tBOFRPc2hpaW5IWk9ZVVdXZWZwaWY3QmxjbnpUcDVCMlFPdDRiejNobEo0ZzZmMFpqSjZfaFFCOA?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaWlNUmV5dWlXZ3JCSjNieXhsUzdUMWF2Y2d6XzZrcV9SMEMtMV9KTGY1Q1Bkdk1PalFJYkhONENUWXVFWkpWTUUtM19hd1dhV1VDcElhVmpGa3ZUdDl6X0xiV0RQQmo0QnJRT29tT2NSN1RGQ0hLVHhSSmthOFlMbW1RdmQ3MHNGdjVvWHVwVmg3NEh3VDBhaV9Dc2NUaFhHOTBJaTNzR2twSWFKQUZQSU91SDBTYjlKR19QR0lGYmNhLUh6MzlFOFVyakNuZ1J0TnE4Yg?oc=5"
     },
     {
       "headline": "Essex Property Trust (ESS) Stock Looks Above Fair Value Following Its 38% Run - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-26",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR1F1SEY0TWJJUkdyV1VtTDBhTnBrSEJUSnVxWXZTd3JLbGNneWlDWnRMRzMtREl5RUNxU1FXVlhrc1RLTmIxeHlwVkxNR3pEVlBMVEdCNmkzV196Zzc1SG5BMWQ3NVB4WHpaZ3h1Yk5QcUVONFB3cDJ1YVVjaE42aVhQa1U5Z3cyMklzMnN0Q1FkQ2tsTnY0alJoNkhpZmF2Q19nc0N6bEVyNDBnbDJOWFo1NS1iU0djcjVlc1FSb3N6NFNGTjVqcW92U0ZuY0tWZkxtZ1JR0gHbAUFVX3lxTE1yVnRzS3JXSHNhakI4Q2lwWDV6ajJiNlI5NE5oUUg2UkJYVHBldk1ubUEybXVScDJDV1oybk5STDdRTlBNMWtGNHViRHJKaTBtNXZtaExyXzFiMHBLMUVxU2JzVHBJMV9waDdVdF9aV2NvQTJreDdZc3NEaE5fQlRVMXhvUE5EbldzS3BIdWZlRktTU3dZQ21Yem5zTEwyaVR1ZE1jZl9KUlJHSU9panZCa04xZkNxcUtJcmNobmtRbjBUTWtyeU41YVRkSmNYVFpVM0xGRkZJcThMaw?oc=5"
+    },
+    {
+      "headline": "Essex Property to Post Q2 Earnings: Is the Stock a Portfolio Must-Have? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODFGWUFqaGlXODhlNnRDdUlseDl2VHR3d2d1RlF4SUJ2MGJaTnZsSkxfSmU0UjNvd01GZkRRN085cGVmbk93Q3loTTNBeExnWFNOdU10Z3cyOVlEVHAtT2tBOFRPc2hpaW5IWk9ZVVdXZWZwaWY3QmxjbnpUcDVCMlFPdDRiejNobEo0ZzZmMFpqSjZfaFFCOA?oc=5"
     }
   ],
   "insight": "Tracking Essex Property Trust (ESS)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:25.756Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:56.072Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    49.790000915527344,
-    50.66999816894531,
     50.4900016784668,
     50.58000183105469,
     49.81999969482422,
@@ -24,11 +22,11 @@
     51.380001068115234,
     51.72999954223633,
     51.20000076293945,
-    52.119998931884766
+    51.7599983215332,
+    52.119998931884766,
+    52.9900016784668
   ],
   "6m": [
-    49.83000183105469,
-    50.279998779296875,
     49.9900016784668,
     49.13999938964844,
     50.02000045776367,
@@ -158,10 +156,11 @@
     51.380001068115234,
     51.72999954223633,
     51.20000076293945,
-    52.119998931884766
+    51.7599983215332,
+    52.119998931884766,
+    52.9900016784668
   ],
   "1y": [
-    45.09000015258789,
     44.72999954223633,
     44.2599983215332,
     43.709999084472656,
@@ -410,29 +409,31 @@
     51.380001068115234,
     51.72999954223633,
     51.20000076293945,
-    52.119998931884766
+    51.7599983215332,
+    52.119998931884766,
+    52.9900016784668
   ],
-  "lastClose": 52.119998931884766,
-  "oneYearReturn": 15.59103738191803,
+  "lastClose": 52.9900016784668,
+  "oneYearReturn": 18.46635864243852,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Truist Financial Corporation (TFC) Stock Forecasts - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT2JRZ1hwTVFHVWhNYTBNMl92ZU1iVnA3N2c3OGwybHVHMWh3T1hzVnVwM2JSclBRaS1DbVZsM0pTcWMxQ2J3UkstRTJBc0xHRHNMdGFzYWpTQXlzdlhTeTJjVk15VjZraFJ0T1FVNWVtV3dhXzlwcGZOc2MycnhVU1A2c0ZnUC1jY1JjcA?oc=5"
+      "headline": "Truist declares common and preferred stock dividends - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSDlRbWxYNHBLR2JSMEhVbkpLQ0R5aFhvb1l1VmRxQld3dlY0ZkdVcnpvRnhKUnp0OU54QjV1aThod1ZCZjBfMzVFUWMySktoei02eURzam56VnBhRUxjN1VIWjAwNFAzT3BxNTdhRC11MDZSY21GSnFvcGFxWC15dU1TRWFNU01sNHVZbkhSeUhxZVp0ZWdDeUZYRjJRRnM2NTdYTklJMFRkYXVj?oc=5"
     },
     {
-      "headline": "Truist Financial Corporation $TFC Shares Purchased by OMERS ADMINISTRATION Corp - MarketBeat",
+      "headline": "Truist Financial (NYSE:TFC) CEO Sells $693,770.00 in Stock - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNF9sV1VEZ3NGRnBQSnVaWmVBaDhCcjF1MkhKbmhBcVBaaHpoSEhLNWJ4cWNMalNxVktvcnJtTFNlcjFOMEl2aXlRdU1ZS3JudjNCT29qTlNVZ3pVU1E0OHVVVW5zWVJHRlhaTWtQX1I5LWgycVNmWkJobG0tZ0VMN2pwNzVIQWdxb3oySjkzcXFzZktNeVF4ZW9OcFdFdjZ1Mkx1RDAzQ24xbFBaQkFJd1p3NUItTUk3OExJaFJzamRIMTk1WXVGTkI5ckpndUdnaUxHbEtn?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeEwwUVo3VVFpTFpiVGxBaUVGMXFveXVkTHZEWUlvb05EUS1WZEVoSFJmN3dOU19XOVV1YkhpTlgxZzJGUXViWkNfVnNFQmhCcDluUWY2THlfZml4ZlpaeXRKWlVGQzdCdDd0ZnJiSjQzS2JVMWZha29tNDJ4VTkxczd3S3EycE41dUlWUmNlRzNvT1B3dFF3alMwOFgyZENDYlRGUTBJbWFoUQ?oc=5"
     },
     {
-      "headline": "Truist Financial Issues $1.25 Billion Medium-Term Notes - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcGt2LTNSU0lkc0JfRXljQzlhZEgyMWI5cU40SElqQm9Pd0FuUmk3N3JQRldkV2hyUmNhWmo4X3IwSTg3N25uMUZmLUpobEI1NllFb2JiLWhha0xKVlZjcG5EWU5Wd1piQjVkV1l0bVdONWpnTXFYQ0hVaVFMX21yWFM4X2JBLUpoSGIxNWJVSm5UeXh2Z1daaEtyTWdka280M0lxRjUzdXFodmJDNmY0UlgxajRKNTBYQjlnYW13cnB0dW16dFhqTEVNWmgtVEgxOUd5TjNLUQ?oc=5"
+      "headline": "Fund Update: New $57.1M $HON stock position opened by TRUIST FINANCIAL CORP - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZmdjb2F1SUdzZG1ZRVZoVkFVX2tkWUdnQ2JSZTJ6aGZyMHdCbm9xMDhIMFhmVGlsaEMyX1dKVjdUNGpqNVo1dmhmU1lMZVQ5TWFNTlN4TFRqQ3g1QUViQVY0amlqa0ZtdVZUWHdxZzJXS1p4SHpnMmtfSFhyZGR4RWNFTDV5b1NVOHNWUGxIZEc1LUFTWjU5ck1tZVJUcld3VDZmanFDcDNQcGNWRk4xcFJrN3I?oc=5"
     }
   ],
   "insight": "Tracking Truist Financial (TFC)."

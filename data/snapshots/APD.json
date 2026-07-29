@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:42:50.287Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:17.995Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    278.7300109863281,
-    279.92999267578125,
     277.7900085449219,
     271.3500061035156,
     293.17999267578125,
@@ -24,11 +22,11 @@
     296.3900146484375,
     297,
     294.2900085449219,
-    292.5799865722656
+    297.8699951171875,
+    292.5799865722656,
+    292.8500061035156
   ],
   "6m": [
-    267.25,
-    265.9800109863281,
     267.5299987792969,
     258.17999267578125,
     263.1099853515625,
@@ -158,10 +156,11 @@
     296.3900146484375,
     297,
     294.2900085449219,
-    292.5799865722656
+    297.8699951171875,
+    292.5799865722656,
+    292.8500061035156
   ],
   "1y": [
-    295.55999755859375,
     295.19000244140625,
     290.1300048828125,
     287.8800048828125,
@@ -410,29 +409,31 @@
     296.3900146484375,
     297,
     294.2900085449219,
-    292.5799865722656
+    297.8699951171875,
+    292.5799865722656,
+    292.8500061035156
   ],
-  "lastClose": 292.5799865722656,
-  "oneYearReturn": -1.0082592404059512,
+  "lastClose": 292.8500061035156,
+  "oneYearReturn": -0.7927085329914256,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Air Products (APD) Stock Sees Modest Fair Value Lift After Analyst Target Increases - Yahoo Finance",
+      "headline": "Air Products and Chemicals (APD) Q3 Earnings on the Horizon: Analysts' Insights on Key Performance Measures - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaEEwdVdxUE9tLVI0b1JCMWpOOF9vTndhOXh5ellvejVMNjFzNWNTaENNRFYyeUgyZlVFUjdPMnRMMnZ1ZjV0QmtiSmdrY1JoYW43MU5aT1YxbzVsc1JEbFNlcFplQ2ZMLWVRU0pMaDViVVRLam1xdjZaLXVHM1ZNYlNrNFMtdXZGMndtekF2Z3lDUnlQbkkw?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHFGYldOSm9mbVppV2lnaEhoREM0Vzd5UUN3OVI1Yjd6OWxLcG5DMGgtS2JfVUR1OW9XaFJPME5lWl9sRDFmSFhrVWVTdjVQakdMYWdTUE5VbklTQTVSYTNNR2Nla0E1R2YzeDBkSk1qYjh6WllkbWNTdkE5M3FQcGVPLTJWYmRUb1dLY3dITEJla3htNVJ3RklB?oc=5"
+    },
+    {
+      "headline": "Air Products & Chemicals Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPakxGQkluTHRieDFpcTFVRTZuNUMzUHVyQjBYeXdlZDdQQS13aUl6QTFHZlhETzhibExxM3hmeTZUTHBWeEZlNmNxUkdhSDFDcVBLU0ZMc3NDTlo2VlJvYVZENlctdzdodkVndVhEWTNYejAwbzhCODZpTEtTX1VLa0Z2M1A4WG80UDBpazJnWGRMa3laUWFSRndlY293UHJjbE82ZFlNdnJwZ3Z6VC1ocEEtY0lKbTFwR2NiWXFPWDNfNXpPVDZvWU1LR1VTZFgtMGM3X2pjZUZPZw?oc=5"
     },
     {
       "headline": "Air Products And Chemicals (APD) Could Be 12% Undervalued After Taiwan Semiconductor Gas Deal - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYXQtRFJBSGhyUWxnYjNfLUdjcngwSVZBaVBBWTRqaTZGcURfQkEtU2R4WnhZY3k5MnQ5NGRzSV9NNVAxMWhWYzh5RFZpcWpBVXFZR3NVRnJIU3RGc3h3YTB0d0J1SzdsSllHN0FtUUhVdmNQdnBPa1BrT29pMHJkclVtNjRXSHJrejltTnc1QnpReTI1NzBqazFUMnJ5dmFCeVB2aTcwOGpLa1ZKM0g3M1BVMWItcnFocDkxMkJseTZBdkVzcGJ6U1NJMVZyaXNEaXpPRUkwNzJaSW_SAeABQVVfeXFMUDFVRm5fZ1VMU2NFckhXY2lVY094WXV4Qk1IM0pGcHFqZ2U1X0YwM0YyTGVndmVRaHNtV25YLXdwZXUzbU04djE0bTJOTFlsU2tNMWthRktmeUJyeHk3N0hEY05lMHl5SmphZTJvZmlsMnRKQmZ0NHJaN3BzNlNmckd1aVpQM1JCMzRJZEY2SkdxbmRraGZRaXNjLWdFUTFxSmxvQzNwWlpiMlhZbXhhVmFvMnliQ2J1eG11eXI3MEN0NGNTXzJvYlRjVUdLUXRNbGtwTEZjMXNwTUY4cFg1SXc?oc=5"
-    },
-    {
-      "headline": "Air Products & Chemicals Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbUJTaC1wV0hHbExKTndPdTcwNmxHbTRGWElKR1A0QXdVYkQxa04wR2xYdklyeDRPblZ4YW5GU2VCdjVxM01hM1ItdXFnb1NsZ2I0NklRdjREYmF2V3lXWGpkaTExRFNBaXN1am12dGdrU0RSbk9ycHhraWJDWHNXUWxGSzFqdmdHVm45OUEwUjlycXZncXhyT2xCMDlqWFEtU0xhRVh4NUpJY1h1VGg5cFY5ejVxOUdvbEdFeG5BUUNwNnV4eHFjdzY2S0QzZHBmT0x6ag?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYXQtRFJBSGhyUWxnYjNfLUdjcngwSVZBaVBBWTRqaTZGcURfQkEtU2R4WnhZY3k5MnQ5NGRzSV9NNVAxMWhWYzh5RFZpcWpBVXFZR3NVRnJIU3RGc3h3YTB0d0J1SzdsSllHN0FtUUhVdmNQdnBPa1BrT29pMHJkclVtNjRXSHJrejltTnc1QnpReTI1NzBqazFUMnJ5dmFCeVB2aTcwOGpLa1ZKM0g3M1BVMWItcnFocDkxMkJseTZBdkVzcGJ6U1NJMVZyaXNEaXpPRUkwNzJaSW8?oc=5"
     }
   ],
   "insight": "Tracking Air Products (APD)."

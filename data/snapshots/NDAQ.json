@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:19.215Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:48.604Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    81.61000061035156,
-    77.6500015258789,
     78.55999755859375,
     76.8499984741211,
     78.81999969482422,
@@ -24,11 +22,11 @@
     90.23999786376953,
     90.9000015258789,
     90.41999816894531,
-    93.94000244140625
+    92.08999633789062,
+    93.94000244140625,
+    95.95999908447266
   ],
   "6m": [
-    100.06999969482422,
-    100.33000183105469,
     100.9800033569336,
     97.41000366210938,
     98.77999877929688,
@@ -158,10 +156,11 @@
     90.23999786376953,
     90.9000015258789,
     90.41999816894531,
-    93.94000244140625
+    92.08999633789062,
+    93.94000244140625,
+    95.95999908447266
   ],
   "1y": [
-    95.13999938964844,
     95.83000183105469,
     95.98999786376953,
     96.22000122070312,
@@ -410,29 +409,31 @@
     90.23999786376953,
     90.9000015258789,
     90.41999816894531,
-    93.94000244140625
+    92.08999633789062,
+    93.94000244140625,
+    95.95999908447266
   ],
-  "lastClose": 93.94000244140625,
-  "oneYearReturn": -1.2612959385542644,
+  "lastClose": 95.95999908447266,
+  "oneYearReturn": 0.13565402372333235,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Healthcare of Ontario Pension Plan Trust Fund Grows Stock Position in Nasdaq, Inc. $NDAQ - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZTdHakpLaS1jN2xtLVFtOXdrR0Q4Q002R2lqYUc2WlROeWNtVS01MTdwRDdaSU85TVFDeUViSm95QVZ4Q3BiZGVZbDMtUzRMYnFNX3dGWnF3ck9vSkNsQk1CRUR3c1FCUWlLTi1BazhLSW1EbEFxdGJURGhLc3Y1c1JkRF9fcVVxaHRBZDFIYlhab1hzclpmNllQVGpVdmpGcklmc3dBbnZJdFZEVEpPSTY0ZTJfOEV1U2U5MG1BVmU4ZW1KQzU1UndxallSLVJfekdwVzh6Rk1iUU9WYldz?oc=5"
+    },
+    {
+      "headline": "Nasdaq, Inc. (NDAQ) EVP & CIO Bradley Peterson sells 13,000 shares at $92.61 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHM2RjVlbHhoRTRBZVJneW4tNEliUlg4Q0QwU0xJTlZ4WkYwN2NqeGxXUWpfNEk0S05VYXY0d0lqcldiSnJqX0F0Vkwzd2JTTnI2UW1zYTVrOUN4RmlZMDcwZ1FoWVBrNlhWRG9BeHBrQXJROHh2ZHhZblhWSkh3YlBrb09FbmRxazFsMndfTHF2cWxqUkUyZGcwSGhOVXpUOTRoMVFpaw?oc=5"
+    },
     {
       "headline": "Nasdaq Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-07-27",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObWM2Wk9vZk5VeDZ1TnNPTWhmUHJYOXNZcjIwQVFWSXBvVTZGLWltY2VpTzB6MTVOdk9zVVE1akJkXzF4MlJJVUJrY3BhNlNwbVNZaXZOcVp3TGluZUMyT1ZOXzBwS2tBZjhOWTljU1VDNThLVWpaNTBEUkZvdndYMlVSUmhUcURNMFZZZjRfRmNxdGx0dm9jZkE1QVpsVnZxR09nU05qTG1mZ2JaNVFSb2VPWjItTnRxRjlEWWtRWllRaUVka005amZYVE1zNkpka01hamVkbw?oc=5"
-    },
-    {
-      "headline": "Nasdaq | Indexes, Exchanges, & Technology | Britannica Money - Encyclopedia Britannica",
-      "source": "Encyclopedia Britannica",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qbG9sd1hqUlFPc3pOa01wdEtRMExSSTBVS1ZUMnNCZnpYcFNvZTlUU1Y0TUVDVVBlNG9wQW9ZYnJjbWFlNGJuZnh6RDR4VWFt?oc=5"
-    },
-    {
-      "headline": "Sei Investments Co. Trims Position in Nasdaq, Inc. $NDAQ - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUJaT1k0R0xRMmhjQmtCVm9mY3c1V2ZabVQ5VEF2cm9aLWgxWElacU5CTENCd1B5RXFzMzY1VWhtRllIaXA1NlQ2aE9rdFpPbVhzdUk2aXNGVGtYNEJLbW1OUlgyLUpoLWJvcy1Odnlva0JNQWxXeWk0SFg1eEhhVmUwM1J4bVlDc0lsWldZU1pMSllNT093MFVXMk5aYUFNNXBTTlp0YXNJVzlGRklyV1dzRQ?oc=5"
     }
   ],
   "insight": "Tracking Nasdaq, Inc. (NDAQ)."

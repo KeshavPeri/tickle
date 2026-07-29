@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:25.948Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:56.281Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    141.1999969482422,
-    139.57000732421875,
     140.38999938964844,
     133.9199981689453,
     130.61000061035156,
@@ -24,11 +22,11 @@
     138.47999572753906,
     137.9199981689453,
     134.47999572753906,
-    140.33999633789062
+    136.77999877929688,
+    140.33999633789062,
+    144.1999969482422
   ],
   "6m": [
-    109.81999969482422,
-    111.12999725341797,
     111.27999877929688,
     109.33999633789062,
     106.04000091552734,
@@ -158,10 +156,11 @@
     138.47999572753906,
     137.9199981689453,
     134.47999572753906,
-    140.33999633789062
+    136.77999877929688,
+    140.33999633789062,
+    144.1999969482422
   ],
   "1y": [
-    106.43000030517578,
     104.18000030517578,
     103.13999938964844,
     100.5,
@@ -410,12 +409,20 @@
     138.47999572753906,
     137.9199981689453,
     134.47999572753906,
-    140.33999633789062
+    136.77999877929688,
+    140.33999633789062,
+    144.1999969482422
   ],
-  "lastClose": 140.33999633789062,
-  "oneYearReturn": 31.861313478795296,
+  "lastClose": 144.1999969482422,
+  "oneYearReturn": 38.41427963700838,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Target stock hits 52-week high at $144.55 - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMzYtOHlSTzlGY0JJSEJWSGlYeWI5SGhTQWdvelhBNmpDZ2tFMUJ1S2p4NjFhamFZNEtXVmxGNlYzVGVDeVFNOC1BWUthYjhMR2MwWm14d0c2STVDQ05jMURfOWl3aTBqWGdDdFZSTHlMZ1hlZWlEMWFBV0Q3WjVyS29QQnc4Mk5IMUpIRl96a3dlb2R4c3JDUlIzYw?oc=5"
+    },
     {
       "headline": "Target Raises EPS Guidance for the Second Straight Quarter: Here’s Where Shares Could Go in 2026 - TIKR.com",
       "source": "TIKR.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcW1WSlhMRE9rZjRRVmozdG95VmJDZEpuaDZ1MXloSWtKRF9SUHNvcHB4a2dxeHVNQThIT1dzU2F1aE1uQmZpeUd2M2VfUXotTjM3Vl9mQXRDRnpkMThLVFhsTUtXN3h6WDd1eDR3WU0yTzlwUWM1M0w0SWJJQVViNmlncWwzdEFWZ2FjaEhQT2RKMklERFNhRDZYVUp5U29aaW1mWjdpUzllS2RtVWFNSzRWTUJxaGdydGtwbQ?oc=5"
     },
     {
-      "headline": "Here's Why Target (TGT) Fell More Than Broader Market - Yahoo Finance",
+      "headline": "Target Corporation (TGT) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMldwdEhNOHpuWnNIZGhyOWw1UnBTOGlNb0dkVkltQ2YtbkRfOTNWQ1FUMUFrX3FyMlY4cU9nQ3NPWXpCQWlFWk45YV9WWFFOUnR1WnVVOXYwcVp0Ync2M1lEeHBTT2Z2N25ETktYUms2UXplblRMVWJVNmZhSmdYMjRVRDBoQzJLQk13RkFHekFQNFIy?oc=5"
-    },
-    {
-      "headline": "Target Is Quietly Building a Stronger Digital Ecosystem Than Expected - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONUZVTFNkR1BNWXA3SGw5M25wOXlKRGV5cHRYWDlhTE84V0xNNjUzWGI0OUgyZDdDZTJJdnNOcWx5R2xlUk1rVFdDTUFSRzZocDZyNkNWb3JxRmotVTQ3QjRGQ2VRNmNERHE0WHVNdFQyajF1SEt2R2ttUGNRTmdjWjRySnVvcjVoQTVYb2NlZUJBLS1FZXhId1RXT25YTDBSVlppNkRtX1lyV0U1N2QtdWVDeWV6aWZsTURiUDNueHBmNVE?oc=5"
+      "when": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0ZsOHlVQ2Q2bkJRUkxPQW84NG1SWElNaDVraTdhZVhRZE5mQnYtMEVwWmJXZm85RDF0dTBqVWctVV9mTWQ4NzRRTUE1Q0IxSV9VMjA2b1c4S0I0enpfdFNJRTRFV2ZBcllEaVV2bjhWTmhTaWptTGZKdGI5RnpXd1VKT09HNlFNNXlkVTN3SmpXTXRXQnJJTWJmelU2ZFVNWHkydA?oc=5"
     }
   ],
   "insight": "Tracking Target Corporation (TGT)."

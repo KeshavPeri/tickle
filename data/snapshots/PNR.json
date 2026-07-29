@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:22.039Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:51.896Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    74.80999755859375,
-    76,
     76.41999816894531,
     76.30000305175781,
     76.66000366210938,
@@ -24,11 +22,11 @@
     61.47999954223633,
     63.02000045776367,
     62.06999969482422,
-    63.18000030517578
+    62.880001068115234,
+    63.18000030517578,
+    66.7699966430664
   ],
   "6m": [
-    104.08000183105469,
-    106.97000122070312,
     107.30000305175781,
     104.33000183105469,
     107.1500015258789,
@@ -158,10 +156,11 @@
     61.47999954223633,
     63.02000045776367,
     62.06999969482422,
-    63.18000030517578
+    62.880001068115234,
+    63.18000030517578,
+    66.7699966430664
   ],
   "1y": [
-    103.33999633789062,
     102.3499984741211,
     101.30000305175781,
     102.19999694824219,
@@ -410,29 +409,31 @@
     61.47999954223633,
     63.02000045776367,
     62.06999969482422,
-    63.18000030517578
+    62.880001068115234,
+    63.18000030517578,
+    66.7699966430664
   ],
-  "lastClose": 63.18000030517578,
-  "oneYearReturn": -38.862006440762556,
+  "lastClose": 66.7699966430664,
+  "oneYearReturn": -34.76307021152618,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Pentair Stock Suddenly Plunged to a 52-Week Low This Week - Yahoo Finance",
+      "headline": "Pentair (PNR) Stock Could Be Below Fair Value After Earnings Reset - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlFkSU5ZTHJoZG1iQW0wOC03NnpvUGpELTJPU2lvRkdnQTRWc3gzRmtQendjZnN0ZF9ObU10cGNQQjBRQzc1UldxVXJVcUNoazhiN0ZhZzVIYzN1NDJnakFSbWRKQ0pZWUJJMFZnTy1hNEZsM0ZmaHVBX1VjQzk4YnJQZzdWZGt6M19EcWRxdnJOOG53XzVxa18xQjJ3YVZp?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTQ3SXZUajZSUjBpZzhEa1pSTGhoQ2hNMFFmbEtVWlY4S1JVaGpLeWtYcWtzYkVQUXRGcnctVlRxRHU3LV9iLXJ3c2ZSOXktSnotem5KVzNuemVNRnM2eERjYTYycDZ3MzVrcDN5b2s1MHZmVEd0ZnVnVE9KZmx0NkdpNjNHaVJ6b01HOHBzZ0R4OFM0R0NoWVd3?oc=5"
     },
     {
-      "headline": "$PNR Investigation: BFA Law Reviews Potential Investor - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNSGZQUnFXSk5zaEZxcU5yZWNhNFljcEMyMmhmVFFoX0FiME1JSmNOS0hPbEJHVUxoY1U0ckN3VUIwWlcxSmVDeGJCOGNibnJmVWJoOVhtNExZVlJmajJsQ1BkdnBSVDM3Y09IY0dQTzZYVjZOOHExejl2WnVIaUk5TTREREJ3MlJzQkU5YXdhbjRfbFlKZzM1OURxMDFvRDN4WlpoTmJRRElrNE90Q213WFd6YkJERW9oY0NJc1plN2h6MjRpX0lTYXRNaHdaVkZ1SHFSTGVseFRGY1QzVjZYbTlsczVweDlFNkNvbXpvZXp5ekRIZFhIcXZVcWRiUHJWaTZwMUt5ekViV3Q0TE53QmdNRzB0SkFU?oc=5"
+      "headline": "Pentair (PNR) Stock Rallies On Margin Resilience Despite Pool Slump - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSnFMTjNoLWhqVk9CTk5MR21MaTZTdkc3em1zWmZjTEdmdmpfc3hxTjc1aEhTX1VFTVJEQkx2Qlo5R21rcjIwZUNaZk53MlhLUVg0YVdkd2wtZEN5TTdNS3lHdEFPZ3oxNkw2cExrQl9sTEJjZUZHVTFxcnhxaVZmWGtpYU9wOHhOdEY3SVVma2JYSzltaTh3dC1nVTB0T1BwWHA5bWVncGtDWGVuSnZHTE80dmM5a2FjUG5jcUR6QzU1YjN2NUHSAcsBQVVfeXFMTTlOdGdvVnEtbnFLVFVyRl95NEFKbXJRa1hEZklUREd5M0hOUEgtMnltWXM1UmtBcXFlekhFVWFOdUl0M0Z1cVY4R2NyS2E1Y19VckdjRzV4d0tGcGs4RUpNZEhtZ0phWHh1cWJkWU5FUFNldUtmQlZGM1M1bzNNcFZfRm45M0I1WUlnN0VuQ3pVZXRfQVVzX3RmNVk5NEJZb0o0alVFTC1paWF1aDRudlhWZ2FQWW9tVDdYelBuOHJDREdJZkJyUGpIQUk?oc=5"
     },
     {
-      "headline": "Pentair PLC stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYkpjUzB6cEZQdUdKajRxRkx0ZnBuTERYdmZKTGFkeG5leDdocEp5cnRyX193R185d3AxaDN2VHNpOTF4SEFVZ19MU3l0Sk9jYVIyUzlRUGVEb0NaYkNadUhGZ0RsZFlyTnljN0lPTFUxMkZfNEVGS0NzdWZaRDExakUzQnVaV2FwUDNQX1BITmFTWjJPdnRPNzRINU44V3JoTHVPNTA2SDU5REd5WGdaNFFIVVZ5ZDVrR2lWNXhmOHFXblBzaFhZUDJtN1JmWmh1bDlraDlZR09RSTZKT0prVQ?oc=5"
+      "headline": "Why Is Pentair Stock Gaining Tuesday? - Pentair (NYSE:PNR) - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGQ4N01weFlEUVZ1eTMwcVRLeXl5d0ZsbVRZMU5jSVA2ZVRtMXYzSXd2d29KNU13d05OUUg4ZEZTck9MSnFsbXB5UF80aGFDVGxoZnMyNkVSLTl4YnVId1dfd0J6U1BRNk51ZUpTZFUxZTlCUWY5TUxGOVJXMEczcEFqMk96Y1BnTFgzYW1DZ3pQRGllbGVRb1VOY0toZlFnUFVPLVJfU1BwWHhPVFBNa1FrUHdVLVRMWHhRNlU3djdnS0U?oc=5"
     }
   ],
   "insight": "Tracking Pentair (PNR)."

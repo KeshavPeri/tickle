@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:42:58.169Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:26.471Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    112.0199966430664,
-    113.05000305175781,
     112.31999969482422,
     108.87000274658203,
     107,
@@ -24,11 +22,11 @@
     99.73999786376953,
     100.05999755859375,
     98.0199966430664,
-    102.86000061035156
+    99.87000274658203,
+    102.86000061035156,
+    103.4000015258789
   ],
   "6m": [
-    121.88999938964844,
-    122.55999755859375,
     122.97000122070312,
     120.86000061035156,
     121,
@@ -158,10 +156,11 @@
     99.73999786376953,
     100.05999755859375,
     98.0199966430664,
-    102.86000061035156
+    99.87000274658203,
+    102.86000061035156,
+    103.4000015258789
   ],
   "1y": [
-    98.54000091552734,
     97.23999786376953,
     96.5199966430664,
     95.44999694824219,
@@ -410,12 +409,20 @@
     99.73999786376953,
     100.05999755859375,
     98.0199966430664,
-    102.86000061035156
+    99.87000274658203,
+    102.86000061035156,
+    103.4000015258789
   ],
-  "lastClose": 102.86000061035156,
-  "oneYearReturn": 4.38400614439562,
+  "lastClose": 103.4000015258789,
+  "oneYearReturn": 6.3348455341796335,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "CRH to Report Q2 Earnings: What's in Store for the Stock? - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnRPbTl3V1ZqRjh1ZEZyQUkwbk52czBnV2xCZWVMb2t3SEFxc0VPbS13bzdlb2k5OGZheVYwaFdDR0ZoRmtCcFdTMURiVUY1eklHLW9oY0hoSERkUXlwX2pWdkkwSTBtb1gzSC1ScDZZX0dvUndXYXVmWEl3MXNxeFNjS1hrcjlHd1lwNWVOX0NXQnZLdW9MTzkzQ2JZU0FlQWllVGhJTGhwNURpOEdDSA?oc=5"
+    },
     {
       "headline": "Crh Plc $CRH Shares Purchased by SummitTX Capital L.P. - MarketBeat",
       "source": "MarketBeat",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZG0wRnZtclJ5d01NeldSVUp1N2F2dTZYUVFBNVpNeEJVMmZQYUtOZW9wa1lhUkM0dVVKaU9jbEp1WHlWOC1qM3RfLXlLeVNJQ3hsalE4UlFaSlVEMzRBY1RXQ1Y5SWVibXZ6WEs5bWJFSC1Fcl9KSWhUS09WcWFVV1Y3Y1pMNkg0QllLcjF4V3NpbGt5dzVwN0tvRnlKR3pWejFweHg2NFVRamc5bFI0M0Nn?oc=5"
     },
     {
-      "headline": "CRH PLC (CRH) Stock Forecasts - Yahoo Finance",
+      "headline": "CRH (CRH) Rises Higher Than Market: Key Facts - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWZrMG8wNnd5eGZXdzVTa2pwTlY1cURyZ1BneFlVYU1TNVhhUm1zOTlMWXZ2eUVXRnZxREJscS0xb0d1ekFtZVRibk1MTDZrTlZsdWZtRS1ZcGFuTWNIUDFTUG5DekphTnVhenhlZnB1alBjV3NxYjJFdFZvRXYyclB1TUNVcUVUYnluMg?oc=5"
-    },
-    {
-      "headline": "Why CRH Stock at $101 Looks Deeply Discounted Against a $143 Analyst Mean Price Target - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-05-21",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSFd3RVo4ZnpqcjIyVVR5T1dUd1BZbElEMU1rUk8tR1N1eWZHejRobVQ0UFFDLXI4Ym5pVjZIUTBqQURnQ2lqOEFwNnl0NHlHVXhSUGJXdlJyYWw2WG5PX2JJVVVBbXpWdmw0VlZYMWVzdEdnZk0zZTI2bDEtWEkzb2VPQXBkMGVBZmFKT1k0VWtyX3hYcEJzNXQ1Z2drWnlJM2V0c0V6cWl2RWpWM1I0?oc=5"
+      "when": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlF1aktjREFCV3lPbWdGRXpyOG92WWZyVEpDWHZmNDEtYTNkcG10Q1REM2xsdUlybDR5VE5PTldCSFM0SndUWWFybjdSRmM4N1JORW5ydW13M3pJbnhKZVE3Qm9oTTQ3MlNYX3NYLXhQWHhIODRENFNHMWRzemc3aGdJYjNBYnZlaC04aWNKOE52V1dtNXow?oc=5"
     }
   ],
   "insight": "Tracking CRH plc (CRH)."

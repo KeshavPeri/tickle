@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:25.286Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:55.578Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    40.529998779296875,
-    40.540000915527344,
     41.47999954223633,
     39.75,
     38.959999084472656,
@@ -24,11 +22,11 @@
     40.86000061035156,
     41.040000915527344,
     40.040000915527344,
-    41.130001068115234
+    40.95000076293945,
+    41.130001068115234,
+    42.5099983215332
   ],
   "6m": [
-    50.4900016784668,
-    50.63999938964844,
     48.95000076293945,
     50,
     50.43000030517578,
@@ -158,10 +156,11 @@
     40.86000061035156,
     41.040000915527344,
     40.040000915527344,
-    41.130001068115234
+    40.95000076293945,
+    41.130001068115234,
+    42.5099983215332
   ],
   "1y": [
-    49.91999816894531,
     50.619998931884766,
     49.31999969482422,
     48.720001220703125,
@@ -410,12 +409,20 @@
     40.86000061035156,
     41.040000915527344,
     40.040000915527344,
-    41.130001068115234
+    40.95000076293945,
+    41.130001068115234,
+    42.5099983215332
   ],
-  "lastClose": 41.130001068115234,
-  "oneYearReturn": -17.60816791515477,
+  "lastClose": 42.5099983215332,
+  "oneYearReturn": -16.02133698434987,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "SummitTX Capital L.P. Buys 79,658 Shares of Molson Coors Beverage Company $TAP - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMFhXU3JSSG1iME5yR1c4aDlub0s2RjRIQlZHRE9pelg5Y0o4NEJlT0p4VUtfQlB4UDl0dnVWcUVyYkhpSXNSTmlyS1lEMDJkQnZBOHpxVWd3ZGZ5bm5SVC1CMXNjSnowTWVvcS1BS1lBLXBxNmItdHJGWkFmaVFPRXdLa0JranBZUnNoamx2YjNlWUJiLWNTcjVmQm5NWWl4d3U2YjVVbkoxWUR4NWg2SUh4dVpvUEFFUE1Gcm1CbVNXRFdxdTRuTTA5RUpBdUdC?oc=5"
+    },
     {
       "headline": "Molson Coors (TAP) Stock Looks Cheap Following Its Premiumization Push - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMnhJOGRVUUJlaXpoV1poWFRvQmVDeGU0bElUMl9xakFTaVNidWd5YWdvbk9LS3A3eExOQ04tMW5mclFfVEJBbDlmSnNzZDZsSER5QzVXWVhMbW1PU1BhZ2luRDlBSXdCTjhWSzVRWE41WE1fMEQ4Y2Q4Q2RBal9tek5aMGJsZ3JWaXExaTd2Z3VUeXBVa2s3bQ?oc=5"
     },
     {
-      "headline": "Molson Coors Beverage Company $TAP Shares Sold by Entropy Technologies LP - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYldPMUNVUm1qQUZVc0p5a3VYNGhSejAxTS1wdGUzcU5QbVZYSVQ4M0phSzJCMDlXa1VRX0NkMTN4ZjFJRFphY1JWQmg4U0N3Tnk0Z1lDR1hqX1BLMF93SEtEeUFCNllwLTU3QlUybjFFN0FsS2F4eUE2SXBhekdtMDZNaXZ4NVpfS0ZZVF93cEtmUVVqQzN2VUg4dW1ZWnZRN2RVNm1pWTZ6RklveXpKUm8wa0dsVHo0YWppM2dBZi01WENBUGVjMjlZM1Bpdw?oc=5"
-    },
-    {
-      "headline": "Boston Beer Rides RTD Growth While Core Brands Lose More Momentum - TradingView",
+      "headline": "Molson Coors Beverage Company Class B Revenue Breakdown – DUS:NY7 - TradingView",
       "source": "TradingView",
       "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUEs0OVBha3lac01uNXZkLVdlekFCTHhUZ3pNMG1LdlJyNk9ZVVM3SlVhT3dianZmR0h3dmJBa0FQZXZXRHJtVk9VWUVTbWpMeFVsRWptdFhZODlOSEFKYlJ6WGkxYWFxcG9RNzdYOGF2azZLd1dMa3V3UmlrM3pNWFNoRUxIWm00VXhQZk1TSkJFUE5JNEM3WmxDdk9JeDhYLVJqX2VCSTFJSWhWVjZiNmZmT2xmNVRnbklLenBB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tR3lNbWFTOGVqWVo5cVVObldDTEtNNDZ2VktjRjhVeDVqOXZBOUIwZ0UwX0xIUWpMcnlZUE1hRVpjR0UxUmQxdmdGdmZxcy1aZThESjlfNmY1LV9tNlRvUzlkcFprX3JMRU5WcWdhanhBQQ?oc=5"
     }
   ],
   "insight": "Tracking Molson Coors Beverage Company (TAP)."

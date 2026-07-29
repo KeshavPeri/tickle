@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:20.505Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:50.286Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    73.66000366210938,
-    73.43000030517578,
     73.08999633789062,
     73.93000030517578,
     72.83000183105469,
@@ -24,11 +22,11 @@
     79.20999908447266,
     79.37999725341797,
     77.9000015258789,
-    82.41000366210938
+    79.66000366210938,
+    82.41000366210938,
+    86.22000122070312
   ],
   "6m": [
-    80.18000030517578,
-    80.83999633789062,
     79.79000091552734,
     78.02999877929688,
     78.58000183105469,
@@ -158,10 +156,11 @@
     79.20999908447266,
     79.37999725341797,
     77.9000015258789,
-    82.41000366210938
+    79.66000366210938,
+    82.41000366210938,
+    86.22000122070312
   ],
   "1y": [
-    74.62999725341797,
     74.31999969482422,
     72.6500015258789,
     72.05000305175781,
@@ -410,29 +409,31 @@
     79.20999908447266,
     79.37999725341797,
     77.9000015258789,
-    82.41000366210938
+    79.66000366210938,
+    82.41000366210938,
+    86.22000122070312
   ],
-  "lastClose": 82.41000366210938,
-  "oneYearReturn": 10.424771130934339,
+  "lastClose": 86.22000122070312,
+  "oneYearReturn": 16.01184280778145,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Omnicom Group Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "Why Omnicom Group (OMC) Stock Is Up Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMi1yNHAwcG1MdjdYM0h3NjFBTUVMdTlJUG92WTQ0YjF3V2x2bmJLYmc0S01sRzRjckJfX3JObzItYzBLUVV0VUZLYkcyVFZxclBFZjhtU19oVW5Mc3Q4QXUwTm8xMkt4YWZxUkxFakQ5UFZUeFZ1dnBsOVBrV2hnbTF3TGE?oc=5"
+    },
+    {
+      "headline": "Omnicom Group Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcUNYRUVURmNWMnJieVlzRTNsc0RMM3NuNklIMHlQdVAydDVMLXhiTGN1UzZHQlVmaXBRb1RHaW9TYzBqenl6RUtyT25hN3VMajlaTzJ5TGRnNm96U21mc0R1OTFsOXV6MGdNZjk5SlJMNVhINEJpUnRSV0d3MTRvWHlELVdVTTljcXdzSU4wdmg1b2RGclpKaXJzVkxBLWR4NW92STJoaWtMSnBSSmdMTmYzRkp5LVluaG9WWmpUbWs1Ym1hS1MyUjhNMEdmUUhTbU1MV2hlclBMZ194dXRsMg?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbEJ4Tmd5NDhXd1VuZDAxdE9ZM0VRaVBqcDJERHp5NVNfQmtzVnJ1aVYxZjA4Q2JuQU43cXR6N1FlNFYxTUNvVVZuc3JvTzQ0dmdoVWRmNXdJSmJXR1U5ZE5nSlQxZjQ1YUM2U2FmM0x5ZUdoYkk0V1JoYmN1SjhCaTVleG5LclNCUTBWaUM5T09vc0U1SnV3Mm1QUWVHcURjUFJjN1NFRWVfTnRTMlpGNE1aVzhhSy1LcDZTWk9hZjVjbEZ6STVsRnZXVFpEbHkxTzRGYW1GeEZ2ZmZ1Rm5SMmVDZGh5emNUREgwVTd1eXZzYXdGMl9PMlFIUUE3YlRBbUE?oc=5"
     },
     {
-      "headline": "Omnicom Group Inc. (OMC) latest stock news and headlines - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YaFowVHgyZG5PQVBvaGtwSGkxSEt6VEx2S1NkRHRWUlhpUTVJczNjZS1lUDNBY19ITzdudXk0Y0tobkVYV2Jrd3hwVDhTd0ZPSUlGRk5jOA?oc=5"
-    },
-    {
-      "headline": "Is It Too Late to Buy Omnicom Group Inc (OMC) After 3.5% Rally? GF Value Says Undervalued - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWt4b2hFdGVfR2hsUG15RDhxa3hIdGJDTEtHN1ZKNVVwSVpaYWc3eE50LUpIWU40OF9MaWNXLTM1QUQ2cXRaNXI1Ump0UFBickpzWkptb0FKdEV3Rzd3NHd4dWExMEJ2SmEtUTYyVUdVMEhlZ09HLUQzWE96czB1RDQyQUh3eElieWlwODk3d0dzbGIyc2s3Qy16LUk5TzEzanAtRy1QWG94RGRMNUFLdmF1NkZwZl9PR1pYVlJrTlc?oc=5"
+      "headline": "Omnicom Group stock hits 52-week high at 87.17 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUTE1NnVPWEZxbHF2Q0VsdHRxdE52cllEMG9Sdk9oN21nYkQtbm1RX2hraTJyVFJlbUdmYzlPNWlaMjhlS3hCSU1GR2drcHItbmdhY21vc1cyMFpSVUd4S3BtNVoxUEEzRkFIaVg0dFg4N1hyT1A3YmhPbzRMOThFVk45U1RZRTZaOURDWUZHWTlXVFpNcVZySXJ5Y3FGVU5BSkxRMDViUHQ?oc=5"
     }
   ],
   "insight": "Tracking Omnicom Group (OMC)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:03.303Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:32.087Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    847.1699829101562,
-    862.6599731445312,
     798.0999755859375,
     814.4099731445312,
     829.8800048828125,
@@ -24,11 +22,11 @@
     760.27001953125,
     755.1500244140625,
     769.0700073242188,
-    742.75
+    744.8499755859375,
+    742.75,
+    705.8200073242188
   ],
   "6m": [
-    660.72998046875,
-    682.1300048828125,
     698.6900024414062,
     687.760009765625,
     708.7100219726562,
@@ -158,10 +156,11 @@
     760.27001953125,
     755.1500244140625,
     769.0700073242188,
-    742.75
+    744.8499755859375,
+    742.75,
+    705.8200073242188
   ],
   "1y": [
-    631.6599731445312,
     636.22998046875,
     639.3300170898438,
     627.489990234375,
@@ -410,29 +409,31 @@
     760.27001953125,
     755.1500244140625,
     769.0700073242188,
-    742.75
+    744.8499755859375,
+    742.75,
+    705.8200073242188
   ],
-  "lastClose": 742.75,
-  "oneYearReturn": 17.586998001858518,
+  "lastClose": 705.8200073242188,
+  "oneYearReturn": 10.937872937738248,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Total common shares outstanding of EMCOR Group, Inc. – HAM:EM4 - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOXR5UnZtcHRnWjY1QnNqZll6NkN5UzJBMnZZaWdDZ1VINFNyMFJDYlRaUUlQNndvVXJzYUgyY250RVZhMlhLbGsxNGpDOFFRdF80NVVOMU13LUNfR2tHWXJvLWhGN0g1SUw5Ml9VREhhTmpOMEJQR1BYcDRncDZIT0l1RzYxLVktMk9sdkl1WVk0LUxyQ2dQRjdxVXFMVVA4NmgwTg?oc=5"
-    },
-    {
-      "headline": "Zacks Investment Ideas feature highlights: Vertiv, Nvidia and EMCOR Group - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTUt1S3FHWnRhYThGUzRwc0dZZnVwbktGeWNfN2JYZG9zdUlDU3h6aHR6OVlFblU5RkkxWUhldnRySGw2RjVJS0JRWUhTLVE5OGVlU3pwcE4xa0wwUTdVWHNHSzhyTk5hYVc1QW4wQ2M3M0tMeTN1bjNjWXkyM29WVk1nVDdiSE1TWGR5dTV3RmZSU2x3c0cyU1JMc3NCRW41NDBwSDBCWGdWZGRxMF9jbkVmZTEyTjhyVktXYklaVkwySUZJR3FkeUUzNzRSa0Rhdko2T3ZJUWtvRGJMQWJMTUFwRzJDVEdVdGtVYw?oc=5"
-    },
-    {
-      "headline": "Implied Volatility Surging for EMCOR Stock Options - Yahoo Finance",
+      "headline": "EMCOR Group (EME) Draws Fresh Valuation Attention, Is It Still 28% Undervalued? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVRvX3luWURjZlhOZkZ0cFNVeV9YUldjX1dDaVlYTVN4UmlXenNZOXF2QmVRajZ6RWZHeUItUDVvb19jS2VRWlJWUDN6bFN3eHZleXhxZ3hTczBSc1ZyZVhERWJDTDJ6YmJsRTJnVnQ3Z2hfZktXRjUwWXk5M2V1Q29aX2RRd0hiX3pLRW5lSW16MGJKb25SRFJQeFFGbUVucEp6QkI1Zw?oc=5"
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnUyWDVuMXVreG00cVRkVVdQMGY1cjZTdFduOTNOX0lkSm15Q3phV1N1YzVMRjljeXZXU3VlRTdyN0lKbklmUnpfaGlLUzNlWGZDb2lQTE1LdFoxc0xEaWw4WW5pYzZfODMweHdrTk5tQUN0Ujl3c05ETHJoa2ZMcEQwdUdBeFVxNll0TFZsQXBiQnlGTjhR?oc=5"
+    },
+    {
+      "headline": "Why EMCOR Group (EME) Stock Is Down Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWlaeW5MZVBTd2VhVUVTSXZoc3Rnd1Rud1pOWGktX0s1UlVGR1JBUlNLekc0ZXBjSzV1RXNiSnNTMHlGTWdzM3dQLTBUTjFSZWx3eGpHazhyRmRxazRjVm02UkdUNlNRZVEzcl9WSFJXR3hQa1lKczB4Mk5EYzZsMmtOZEQ?oc=5"
+    },
+    {
+      "headline": "EMCOR (EME) Reports Q2: Everything You Need To Know Ahead Of Earnings - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVXhkSVNfTE9FcE9iT3Y3amwtYkJaVmg4RUFOU3lnLXdSYkg1TUxoVGNUQU9RRFcwOWdmbk9NaEd3S2IxVFBZSUg3SE5mQVlzZDlwQ09jWnBUOHQ0aVkyQ2VUOThSclZLVnpCNm5sMEtsLVRsQ0hGbERwYWlLNzgyT3l3VTJ3ejhQZExhU0tuVnlIRmlrVC1heWhlMlNCZjBjMUZGay1tTWFEdWJoZVVBclBmMlNyR2Rpd2J0VHZyanEtcllHWXc?oc=5"
     }
   ],
   "insight": "Tracking Emcor (EME)."

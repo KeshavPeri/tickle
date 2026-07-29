@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:24.735Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:54.719Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    168.8699951171875,
-    169.50999450683594,
     168.11000061035156,
     170.17999267578125,
     169.60000610351562,
@@ -24,11 +22,11 @@
     183.3000030517578,
     185.24000549316406,
     184.2100067138672,
-    184.66000366210938
+    185.39999389648438,
+    184.66000366210938,
+    182.57000732421875
   ],
   "6m": [
-    134.72000122070312,
-    136.2899932861328,
     128.02000427246094,
     125.30999755859375,
     126.91000366210938,
@@ -158,10 +156,11 @@
     183.3000030517578,
     185.24000549316406,
     184.2100067138672,
-    184.66000366210938
+    185.39999389648438,
+    184.66000366210938,
+    182.57000732421875
   ],
   "1y": [
-    112.44999694824219,
     113.25,
     113.11000061035156,
     111.75,
@@ -410,29 +409,31 @@
     183.3000030517578,
     185.24000549316406,
     184.2100067138672,
-    184.66000366210938
+    185.39999389648438,
+    184.66000366210938,
+    182.57000732421875
   ],
-  "lastClose": 184.66000366210938,
-  "oneYearReturn": 64.2152144718186,
+  "lastClose": 182.57000732421875,
+  "oneYearReturn": 61.20971949158388,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "State Street (NYSE:STT) EVP Sells 9,758 Shares of Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlZQYTkzazNNWU5KalhNSWJGVTNrQndyeUd5cE1PZW16VktzcVVWTHV0OGJEUThNS19wb3dtbjlsLU9PeGNHZ1BNQ3YxVk15VlpfcXZ5WjJwNmxobl84SGUzYU9faFVRbWlhcUZfRXpKRF9YaUdEWkF4TFpfUjB4Wkw1cW9SX3BqV19fRVUtRFpZUnkzaEoyUDVEWGxjbjhkdmR4c3d4dkY?oc=5"
+    },
+    {
+      "headline": "State Street to Expand Latin America Footprint with Santander CACEIS Latam Securities Services - Business Wire",
+      "source": "Business Wire",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV3NCalNVdy1kX0xtbmxxY0x1MzJ2OXZqaFpsUGk5QTIzUVZDWFVMdDdJaU1aWjREYm9DNmdSX3E1ZHdLSUxQeTFUS1pPNDdnckxOU1dORUV6YUhsV1pSRDJwY3F1ZUxxdW9yYU5uczIzTHBGOUpNb1hXWG9idlhGdEtRb0J5dTdnaGtobE9WWHV4Qm51T2VrU1cybXRVaE43MzlPLUFnWEE1SlgtV29NSUFlcjJ3Mm5pLW0wOENiVmw4Y2gwWjVxRlNXZkdRVzFuOGhQUzVMWkhsX25pMXJjQTJYREx3Zw?oc=5"
+    },
     {
       "headline": "State Street Corporation (STT) Is Up 1.27% in One Week: What You Should Know - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-23",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHFwZEhWMEFVTllhUTgxUnl6NU9VMUdCZ3FyejlWLUpDakwtSnN3MWpjdDlOa01LR29kYVZBak5WNWI0VVY1RzZGQmVrQUJkMW5ZQzExLURCd2pidEVCUG1KSnRHR2JpQm5CeUlTbWdtOTFoSERhQnp1cnEyWE5jaG04WGg1ZmprSy1YRVZDQ0VzdjBmVTJ5ZG9tWQ?oc=5"
-    },
-    {
-      "headline": "State Street Corporation $STT Stock Position Reduced by Inceptionr LLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlNKZlp2UERoZ0Y4UDd3cDJ0MlhVWnd0blhyeFRKaHhHQ05zOTk0QnRBek1LVE1ja0xZbTFVUUh5NDFSZHFBUjllODFDXzlQX2FjN1hVNTJnVmFmd2RPTWtwWDdyT29sMmlLSmc5SHB1d0hMRWxLSWVvS0VENk5VcmxLWXk3czBnX2pzNElIYVo2ckZGVmdVZ25QTmxFS3ZHUktENXVkbE11SE5yRVRjZHJEekE4dU5BLTNMdHFLVFIwc1I2U1hMbTJB?oc=5"
-    },
-    {
-      "headline": "State Street Corporation (NYSE: STT) Reports Second-Quarter 2026 Financial Results - Business Wire",
-      "source": "Business Wire",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON1RiNmJ1U2JVTnBndi1oWXN0cEc1NUhMNFZFR1BScl85YXVESTZOa1czZ1dEcXhxMUI5cVhSUGN2NFFYVW1OSEYwX29rTmtsS0dRU2g3UFpKdXBUeXVvc1BPendGQnQtN0dRTVFYcHdlclBhajRJX0d5SmdoSTZYcWhfNHI1ZmdDVkxxc3NMb3pzME1Eb3dqVUw4VVdWMnEzTE1iNEZMWmIxQXNWd2t6QWZ0Szc4QkxKQUl6anJSbFF6N2dnNlBVV3RDcjRqbmROZWc?oc=5"
     }
   ],
   "insight": "Tracking State Street Corporation (STT)."

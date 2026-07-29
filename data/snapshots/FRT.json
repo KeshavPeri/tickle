@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:07.341Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:36.064Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    124.62000274658203,
-    124.55000305175781,
     125.08000183105469,
     125.41999816894531,
     123.44000244140625,
@@ -24,11 +22,11 @@
     125.58999633789062,
     125.05000305175781,
     124.83000183105469,
-    127.12999725341797
+    126.08000183105469,
+    127.12999725341797,
+    126.12000274658203
   ],
   "6m": [
-    102.0199966430664,
-    101.80000305175781,
     103.66999816894531,
     102.5999984741211,
     102.45999908447266,
@@ -158,10 +156,11 @@
     125.58999633789062,
     125.05000305175781,
     124.83000183105469,
-    127.12999725341797
+    126.08000183105469,
+    127.12999725341797,
+    126.12000274658203
   ],
   "1y": [
-    93.19000244140625,
     94.83999633789062,
     93.58000183105469,
     92.16000366210938,
@@ -410,29 +409,31 @@
     125.58999633789062,
     125.05000305175781,
     124.83000183105469,
-    127.12999725341797
+    126.08000183105469,
+    127.12999725341797,
+    126.12000274658203
   ],
-  "lastClose": 127.12999725341797,
-  "oneYearReturn": 36.42021024020435,
+  "lastClose": 126.12000274658203,
+  "oneYearReturn": 32.98187222324298,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is a Beat in Store for Federal Realty Stock in Q2 Earnings? - TradingView",
-      "source": "TradingView",
+      "headline": "Is a Beat in Store for Federal Realty Stock in Q2 Earnings? - The Globe and Mail",
+      "source": "The Globe and Mail",
       "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2tZTUF2YVB5SFRyMzFqeDdRdVFOekFHUTh4Vzh4VGFqQmhtOUV6cWlZVlBTM0ZhYmRYczBfcWdPWE9VN0ZILTBaSmRxMDJDbFlrWUptNkJoNG01RFNQcFNfekhhcVdHS0ZRcGZnLU1fY3pkU1VwRjV5Ui05OUVwV0JaV3E5ZjF4bGcwbjBzLUdUeTJlUVNHSmFDUVRBLUVVT0ZocFk1eGhEZ1NXWGVZRFBQcnc?oc=5"
-    },
-    {
-      "headline": "Federal Realty Investment Trust stock hits 52-week high at $126.9 By Investing.com - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUWttUUtvUHk4Z01mbmNaelh2S1kzTF9rMURMNFhKMlpJSkJTWTNHdnhfRE5JVEdXRXAyaGY4eHdvQWFrSy1mQmVPTFdHR3Q4Zmd2Qlg2R2NCNy1DWndDQV9UaDNucGdZRDZob1RFZ3Z3WGJvdDBXVTFyb0p4VGF1VlRmdFIyd0NObEY3R2MzdG9QUERpZDFPVTJ4QTc2aHNuenpSXzdlaTZtNmpmZTdfNlZRS1laeWE2TTNR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa3B5RVNDdHlHUTZOTU1yb2YwTVpxOUxLaGdKZjMzalBna2dzYXJvMWZQSF9mTzAzdWxydkJnM3lSdFZIYnllWHB6MUw2NFplazBsZTRNMU5jeXNKb0NYbXZLNW5EeXlRTVZZY2FzcHJmcEhVOGhIZHVfYm9aV0NaejRnUXA4Znd2YTNoX1VKcUVRaHhrdFg0SjgxdlJ6cFUxRTl2MmxPTHRrV3E4Q0RhclFodmdLajZUeklGdWc5UG5mcTZoME9KRF9FUzJDbFl4dVk3UkJTMU5mUQ?oc=5"
     },
     {
       "headline": "Federal Realty Investment Trust stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-07-24",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTnVNR2JBZ2JmczNEbTRWenVkRF9YNHRSQnNDNzRNUk9IQWVYcURUWFRuMjQzX0ZDNFgta09QYVl6NkVZU0N6R195cTJiSkFzZmFxT3hJNl9ERDNMXzZuT2l6TW9yQUx2NXYxWmtxUTdrbE5GNnY5ajVBckdPXzRaclo4MVNHN21rX3RBX3RJTjY0YWNZdE5uS0c0cWNvU1hMNlBsdHBzQUNLcUZjejVnbVlmdlFtMjBLUnhiV0QxU3ozMHVaSkdEYUFvTWFjOXdnU1dEMW05WThydFBrcW5MRU9lNE5Bem9ONWozLWpiVHlNdGl2TjdLeHhyRQ?oc=5"
+    },
+    {
+      "headline": "Federal Realty Investment Trust Revenue Breakdown – FWB:QM1 - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qZHRHblBIUEhPcEFlbm55d1BQeEtuM0VwLUZNblB6QVRIcEJtWDJRcmFIaVdPdmUxSElkTXpST0JPOUZiMjZtLUJyNVZvQzF3NFJWMDh5OHhiaVlYc3ZyUmpYRjEyZlgzRndIN094SG9KUQ?oc=5"
     }
   ],
   "insight": "Tracking Federal Realty Investment Trust (FRT)."

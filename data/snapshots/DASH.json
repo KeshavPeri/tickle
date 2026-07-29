@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:00.025Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:28.241Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    177.92999267578125,
-    176.91000366210938,
     183.08999633789062,
     184.82000732421875,
     184.52999877929688,
@@ -24,11 +22,11 @@
     188.0399932861328,
     177.72999572753906,
     169.77000427246094,
-    184.3699951171875
+    172.91000366210938,
+    184.3699951171875,
+    195.52000427246094
   ],
   "6m": [
-    213.1300048828125,
-    210.11000061035156,
     205.32000732421875,
     205.6699981689453,
     206.47999572753906,
@@ -158,10 +156,11 @@
     188.0399932861328,
     177.72999572753906,
     169.77000427246094,
-    184.3699951171875
+    172.91000366210938,
+    184.3699951171875,
+    195.52000427246094
   ],
   "1y": [
-    246.44000244140625,
     243.1999969482422,
     248,
     250.25,
@@ -410,17 +409,19 @@
     188.0399932861328,
     177.72999572753906,
     169.77000427246094,
-    184.3699951171875
+    172.91000366210938,
+    184.3699951171875,
+    195.52000427246094
   ],
-  "lastClose": 184.3699951171875,
-  "oneYearReturn": -25.18666073255561,
+  "lastClose": 195.52000427246094,
+  "oneYearReturn": -19.60526039230523,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "DoorDash Stock And Other US Consumer Discretionary Names Facing Lower Oil Prices - simplywall.st",
+      "headline": "DoorDash (DASH) Stock Trades At A Premium To Fair Value - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMHNHQTh2U0VtQV9FeWRVWTJEVGNiSEtYNVhRanBrekM4NzRmV2dsSHQtbE1iQTU5amhEaEtRM2U3NEthQ3NYOXFmeVNSLVVMb1U2d2xyZGMzcEVSakxyTEdfNFFqakVXQ2V3UWg3dVV2M2MycEtlMUdtMlpaMms1Z0x4UjZnelk0b1A2N1F2OVZUOU5hY0RrVDdST0JwYk5IVWVsZm53VU5tdm9qNXJfTkp2OU5mc0gtMDc2S3VJRUowclBvdFhLMGdn0gHPAUFVX3lxTE5NX21zR1BISkJlMTB6R0t6VHkzZy1HTGNKc01ZUWkxaWc5NW1nN0NsNGJHcHZOam5rRVR6U0VjQ3ZOS1B4d0hEWEFJdWk0VTJ2OV9NOGY3cjRiTUlCRG5OM2FxYXVGMHFBdWNTUFNrUW14amFlcmtKTGxKV0hVVWJ5YTR6djNDS2pSaGJiZDBSdEEwaGhCYnhpU20xX3E4Z2FEX01HdmIzVk84Q3owN19oY0JMYV85OUZlTXFKd0lZZTZSZjdBdm9XN1Qzb1dqTQ?oc=5"
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWE0b2d5bGt1SlE0U0Q2OXRTYzc3d0RJYmg5SHZzVjVPRV9QYzBNOVl1eWRzQWlEcWZsMTJoQlRibVZSeFZEbUJPQjJfbDZhNlVCaWRyeHRObEhEREtWTkpkTTNuak5Kc3ZZTXd4MnJ6eVh2ZktHUThrcktOZWZTTmJDNGNQUS1uOFlUZTRJczBxdjJGeDBvbHVCRXY2ZlZpT3l1WF9EenpGelRNdU5YUHJQeXUxQ0RjelBvQXZwa3FzWGIwTW1tN9IBzgFBVV95cUxPZGNjQ1F1a0pKOHpPTzJUZ1BHNGdFVmxWWDZxUXVEUmlKenFvZFV4TmNMY25rQWtobEJtYTFBektva0JfVnljcWlVTDhxaUhvRFM2OGRmZmhVLVVMdGZYbmtPT0FPVkhlcF91QWdra2tQZ1NSUFpvampkTW11ZGViYkJteXBxcWhTMVNVWkZveVd0cmVzWlo0Qnhuc2E2dU4wbGNacDZuME1yTnZ0WkliS29HQWJHTUIxdU0yUUVYSzJNa1NBVWwyU1RONmNaQQ?oc=5"
     },
     {
       "headline": "Why is DoorDash stock sliding today? - Investing.com",
@@ -429,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSzlSRTJWa0ZwaHB3ZTBOalBXNGxsTEtmdVJRcUpsVVhIUGtNY3A1Y2JzallSNDBWbDNtU1lCcXlBZHNBOHhFYWtUcmkzT2pqR3g4RllaWmFNcFJMMHZMNFZteWNKNWsxcjZELXVTcXZNYVc5RVc4QVc2QXY5TUNTRmhsQ3hRdWg0a0llSXhfN2VNa3RnNUw0bkthaUptZw?oc=5"
     },
     {
-      "headline": "Is It Too Late to Buy DoorDash Inc (DASH) After 6.6% Rally? GF V - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNU1TTm1rT0poWlNVOXZkd2c3UWhFVUs2cFJKNS1SWmVBWThGOE5DbDFpS2htS2Z3c1otZzJPU3BicTNpcnBNUnFybWRpZVNrYzFrNDRJTURMNGVxN2I4MEl2bS1od2EyVnFUdXVwU3hGcEstTGFva1RVejFTekI1UUt6UnprQzRoZ2xNRDd6aG9UU19jcWpsLWVLYjRQUl8yU3pyeEFWc1hIXzI2ZzVmR2JjY3pFdjhXSURj?oc=5"
+      "headline": "20,100 Shares in DoorDash, Inc. $DASH Purchased by Polar Asset Management Partners Inc. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUTBYQm9maW9fX3pUZ2xpb0V1bW00ZG9JMEZKZGViSDBiZnR6ZVAxU1dWd3gwbE02azdGSWxkSFV4N1VBYk1ubTNzRFczemtpNmQxM2ZBUjRHQmtBTHNxbW9PYzVIUU9uZk4zUi15MGdLaXVEMmRlYU8xbmpja016RTFjdG5XMnhnMHVFQzkwTTJPTXNscDFJd3NtamNWeGFTQXdOS1YzRFdndk1WSTBGSWVmRUU3cG5HM01ReVU0TG9aQWNLSksyckFQdWVPaU9lZ1YwalltYnZHTzA?oc=5"
     }
   ],
   "insight": "Tracking DoorDash (DASH)."

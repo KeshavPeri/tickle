@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:42:56.522Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:24.750Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    231.67999267578125,
-    225,
     221,
     218.5800018310547,
     220.8300018310547,
@@ -24,11 +22,11 @@
     237.3800048828125,
     249.24000549316406,
     254.32000732421875,
-    255.36000061035156
+    255.30999755859375,
+    255.36000061035156,
+    260
   ],
   "6m": [
-    275.2300109863281,
-    272.5899963378906,
     279.5,
     279.9100036621094,
     279.07000732421875,
@@ -158,10 +156,11 @@
     237.3800048828125,
     249.24000549316406,
     254.32000732421875,
-    255.36000061035156
+    255.30999755859375,
+    255.36000061035156,
+    260
   ],
   "1y": [
-    274.1199951171875,
     274.6000061035156,
     277.739990234375,
     278.2799987792969,
@@ -410,12 +409,20 @@
     237.3800048828125,
     249.24000549316406,
     254.32000732421875,
-    255.36000061035156
+    255.30999755859375,
+    255.36000061035156,
+    260
   ],
-  "lastClose": 255.36000061035156,
-  "oneYearReturn": -6.843716197651309,
+  "lastClose": 260,
+  "oneYearReturn": -5.316826576475704,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "CME Group (CME) Stock Gets Fair Value Trim As Analysts Debate Earnings Strength - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXV1U2hSRkZIQUdnaklKNHl2WWwxYzFlUl9qVzhHbVdvQkZoRVh3ZXN4TkJFdkp0WlpCWXdZR2JzaUhRYXk4VTd5ZXhoYW11eXVRM21CUlFDbVdnOFIwcmZ2UzdWVVIxYzU3QzNkWEFhY3ZsMWJDOUtZXzJ3SHN0QlgwU3M2ck1DYkljclRjaU1ObVU?oc=5"
+    },
     {
       "headline": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day - CNBC",
       "source": "CNBC",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcF9NMkV4UVV3LTNaX1NwOUVORlB3ZkxGNmlaTWhtTWROTWllT0VSbFJaZHduUGJjZ200a0JTakZ1QkZyU0VUR3F6VTh3ZzdDSndUR1FMdngyWHVqNzBSU3VQX2NnYkhZZjdPQ3RKVVRXYW45X1c5VFFfR1BCNkFfTFpIZXp4MTJ3bktBX0RKeGozOFE5UXIzRE1YYnpzU0hIWWhJc3JDNUxERTVuMEUteUVVMmhRa0xjdERmR3RMajg2Um5QUUHSAcsBQVVfeXFMT2VGMi1DNFZXdHhOelQyXzNlZUdrOWV3b0QxMDlYd0ozTWp5eWlqRHFnM01UZzY5c2FnTnVjRlNobW4xUkg2eFFLWHkwaWVScDVnTDJjVHBRTnBLMnJEa3JEWlByX0t6S3hUN2tBMXloN2ZNdlVwUnYxbWNtdEg3S2J6aE9OcEtRaVlucU1DQlNDTGRuX0ZwSzFFaFNTODRUb2RNWVNDbUlBSWFYUE1BMENoVzhWNFc3TmVHN0hWRDJ6ZFdqdVFRT0VNUDg?oc=5"
     },
     {
-      "headline": "Traders Are Getting a New Tool to Wager on the Biggest US Stocks - Bloomberg",
-      "source": "Bloomberg",
-      "when": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQVlLaTVCbVJNSmhFRTBOODZkM1FvY2g2VWNrejZ3SGpmNEw2NndIQlhHdUVkWGVyd3lMd1RoTGJYRXdNTHZKbnVIZmc2bzJUSDNkYVB3MnJCMFdySVV4TVk4V3ZNaWhlU2FIUDYydWFSd2pwYzFTT0loZ01NZ0N1SHV4U0Q5YmlTdmY2WkxmV1ltR0J5NzBqNXQxcTBHckg0eXJaZXUtRVBlbXQ3eHVuVWdlOXRsUQ?oc=5"
-    },
-    {
-      "headline": "Traders are getting a new tool to wager on the biggest stocks - Crain's Chicago Business",
-      "source": "Crain's Chicago Business",
-      "when": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFFTLURrSVJtWDFsVll1dDMwb212ak1GOUdEVVl2NHEydW4zWVNQd0RDdkszRFVQS1RnOXdMMTNJeFAtM0xTZkc2bGc1YXlFZExFaC11V2JXUWV3MnkxV1E1dm1yRk5jODJfQVZGOGpLRDRtY1MwUjIydlBraGtuZjFhb2RWSXZhYUpHU1h4dmQyNk1jckVn?oc=5"
+      "headline": "NinjaTrader to Offer CME Group Single Stock Futures, Giving Active Traders Direct Access to Top U.S. Brands Including Nvidia, Tesla and Apple - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOZkViMzZjVVZ6SzdOeWg4TTB6SVMxNmpmMm9JRTRyQzMyUXFYbDNocHJZeGFjUGhtN2pNT1V5S21MN0s0aWV1NWpBZDFwT0I5cWUzdm41RHhHWk03NGZCaVY2a1ZsNkdUX3E3cDFTLWhLcUJQMWVkWGtKb0xmcTVvTWs2Rmw1YWswa0tIclc1RnRDZjdtY0ZqTHFxQ3djS1UtYWYxVmVBMlo5OEE1N0hFblpYTmd0UTlaWHNkOE82TGVDOWk3TGo5OFJwbl9fejhzaGZsVUd3WVlaUkRzVXNjQkI2WUtSV3lBTzV3cHQzcU96NzVDMDNaNmljUDBycGZicnlXdndaQUtyOTNDWkRsU3hIanllYWMtWEMyc3hB?oc=5"
     }
   ],
   "insight": "Tracking CME Group (CME)."

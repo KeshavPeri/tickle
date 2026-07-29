@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:43:22.491Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:52.353Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    112.93000030517578,
-    112.55000305175781,
     115.72000122070312,
     113.88999938964844,
     113.61000061035156,
@@ -24,11 +22,11 @@
     120.7699966430664,
     113.11000061035156,
     113.05000305175781,
-    125.20999908447266
+    118.5199966430664,
+    125.20999908447266,
+    127.51000213623047
   ],
   "6m": [
-    166.52999877929688,
-    166.88999938964844,
     166.75,
     161.11000061035156,
     161.32000732421875,
@@ -158,10 +156,11 @@
     120.7699966430664,
     113.11000061035156,
     113.05000305175781,
-    125.20999908447266
+    118.5199966430664,
+    125.20999908447266,
+    127.51000213623047
   ],
   "1y": [
-    204,
     204.19000244140625,
     202.50999450683594,
     214.80999755859375,
@@ -410,29 +409,31 @@
     120.7699966430664,
     113.11000061035156,
     113.05000305175781,
-    125.20999908447266
+    118.5199966430664,
+    125.20999908447266,
+    127.51000213623047
   ],
-  "lastClose": 125.20999908447266,
-  "oneYearReturn": -38.62254946839575,
+  "lastClose": 127.51000213623047,
+  "oneYearReturn": -37.553258919804186,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "PTC Inc (PTC) Shares Surge 5.6% -- What GF Score of 81 Tells Inv - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOekl0eWp5b19PekxBU25QdmRlZTM1Mm1ERXZKanJCZGpVeEtmRzlNOUEzaGNEaUw5YVZHSkI5R0RVbGRhN1RqY2N5XzRXX1YzMXZtbWJya2paX2NNaF9TdlFOd09JbW5oRFNhcjBxLWdMOVE4YU1QenVPS2xVOXRUWFhQZUlIOGd4dnJYcHRtbkdORC1SbkowQUFFamdfTnBHanJ6RQ?oc=5"
-    },
-    {
-      "headline": "PTC Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeTBUYzFtVk5pMXJ6SnhPN0J3WmpuWllMMEptcTJaXzhmWEFaaDB6YUNtUGJyYVNLVDZaN1NJd3B5UlVUbUZiYlNDSk9oNVpaeGJOVUJObzJmSW50WkdYWTlKZlp3RDdXZTNzZmhjQjBBaHlJRVB6aGN6WVdvcVA2cWNDTEZaSUI1U0ZTaFNfS2s3ZjNkU3J5a0xBUW9qSl9xTmVfeUdpWTI5M1dKRDRuMzBTYV9RQ08xNzZr?oc=5"
-    },
     {
       "headline": "PTC Inc. Stock: Is PTC Underperforming the Technology Sector? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3hDZVVzLVpKSzNQaUMxUkFXSl9SWmd5dngybTRPM3FISWJ5Y1NlQkphWmtwZ0VSVjYxamduM1hITHZMZEk1MWlZdWVESFAxN3EyQ05VMDI4Zmk1MlVzQlltanR4UkNsMWJyYUMwTmVjMlNXVnV4bGJrT0V6Z3NiWHVvNVRCZTE2V2VtSEsxZmIyVmRwY2ZTTGdUVFh6a28?oc=5"
+    },
+    {
+      "headline": "PTC Inc. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObWNVREs2V3ZLS0Y2TmlRb1VKMV9jNnNYTjZ2V0lnYVB0VnJrRVI5Z0VJSzFEeFdSZW5hZVVTaEVfeUxkaURsVEN4MUJzYUhKaGdDLU94Z1JUMlVGWnJtZEJHeERUOUtGd0l5RnV3bUF1bFBVUnA3bWt2bXg5TlY2RGpQMWtUSDRBUS1KTERHaEZlb05hb1RpMldwUHktck1aR3VMRHc3cWNETTdiY05XZkxzU2lkakNDeXpWV2VmVEZVRWhVTlZPVXROS1MzX2o3VVZldnJMQ3FxdDg?oc=5"
+    },
+    {
+      "headline": "PTC Inc (NASDAQ:PTC): A Growth at a Reasonable Price Stock Following the GARP Playbook - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZG50My05R05jQlZtUFE4T2FlNklySE1Mc3hoc1VoeUE0XzZHajZsbnFMRUN0WjBER1Q5cnE4VTNOc01ZbHhiNjdqMWlaNXNDR0FPSTJ4TEdQZ0FJS2ZYZEhLcWJXVDRfOTJoUUFrYVdYNjNDTlRQZ0NtQm1NOEJLcXE2R09jcTREbGJCQUJnSmxMSG40eDRXaE80T1VZQTYtYzVNQWhrQ0NDVHFNYVJlMENMeURqVkhrbTE2M2tXeHBUQ1ZtdDZ0NUtHSFdoUQ?oc=5"
     }
   ],
   "insight": "Tracking PTC Inc. (PTC)."

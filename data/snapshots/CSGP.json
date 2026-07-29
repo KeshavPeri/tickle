@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-28T04:42:58.855Z",
-  "builtDateUTC": "2026-07-28",
+  "builtAt": "2026-07-29T04:47:26.966Z",
+  "builtDateUTC": "2026-07-29",
   "source": "yahoo-finance",
   "1m": [
-    29.809999465942383,
-    28.639999389648438,
     30.25,
     29.31999969482422,
     28.31999969482422,
@@ -24,11 +22,11 @@
     28.5,
     27.690000534057617,
     27.139999389648438,
-    29.170000076293945
+    27.65999984741211,
+    29.170000076293945,
+    30.329999923706055
   ],
   "6m": [
-    63.869998931884766,
-    63.380001068115234,
     65.33999633789062,
     63.81999969482422,
     64.7699966430664,
@@ -158,10 +156,11 @@
     28.5,
     27.690000534057617,
     27.139999389648438,
-    29.170000076293945
+    27.65999984741211,
+    29.170000076293945,
+    30.329999923706055
   ],
   "1y": [
-    93.36000061035156,
     95.58999633789062,
     96.25,
     95.19000244140625,
@@ -410,29 +409,31 @@
     28.5,
     27.690000534057617,
     27.139999389648438,
-    29.170000076293945
+    27.65999984741211,
+    29.170000076293945,
+    30.329999923706055
   ],
-  "lastClose": 29.170000076293945,
-  "oneYearReturn": -68.75535573522733,
+  "lastClose": 30.329999923706055,
+  "oneYearReturn": -68.27073848136173,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CoStar Group to Report Q2 Earnings: What's in Store for the Stock? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR3VodlFfOE9Jem5lSlVORlRFNUVjenNVeXYzdmg1UlJOb2xGeUlRTDg0cEQ2bFFOVENlRldMY1JNeUVtQ2JyVFZWM0xGOURRYlZSc1kxMGV1SWlYWUhyZ3ZRakZuRG8tNW5KazlZS01YZXplWC1NeTljYmpDYUcyQzdzNEV3cFI3bmtULXdTWTZPTEI3NWd6MWo5bEg?oc=5"
-    },
-    {
-      "headline": "CoStar Group Inc (CSGP) Shares Surge 5.5% -- What GF Score of 70 Tells Investors - GuruFocus",
-      "source": "GuruFocus",
+      "headline": "CoStar Stock Slumps After Earnings Beat on Lower Revenue Expectations - Barron's",
+      "source": "Barron's",
       "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFhocDNSeXJoMFlBQnQ4ZURZTGtvWmttNWU3Z1c5TDZnSnhUa192MHpubTBvUE5JYnNtbHBqWlhZSlFwTGxhbGFOaFktY2NEbC1RVFAweG44M29lemExekJ3OTFNS2xRNHZlSy1qREp2akppcm5NVHVya1FxU25WQkV0LVNFY1NJamN3T0xJWEY4WGd2Q3RJd29pRHZVWmlNV1FjTVE4MkVHVHhKZ09zSzd2VVIyM2R6MkM0dHFkZlpQZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CVmV6SEtlNzlweHVsZVZlYVFKdnRlUXV6cmJJVWsxQWJSdDRkN0pXdkdFZ0VubndDa05IS2lwZFU2MGtaTkxBaHFEbzJYbnJnS19QZU14QmlOQW13X1ZIbkRxeEV1NWIwN21RUXZ0UE4?oc=5"
     },
     {
-      "headline": "Can CoStar Group’s (CSGP) New Cost‑Focused CFO Subtly Recast Its Global Margin Story? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTjJjN0YweDc2VDh1TFJDdFZGY2M0UEFURkowMXVLTlEwbEV0a1ZYNUwxZkM5S0h2cEZSRnRfSVlGeVpDLVJ5bUFaMWJvRkNrT1VmLXhHeS1SNHlYUGxzQk0yYWprTEdUU3dWZ2ZNSEh1akUxVHBoTUJWU01pUlUxUTIxWU1JZC1iNjdYcjUyVGJrZmpQZlotRjFZRVJaM1lhelJCaEF1ZUktT2N5TTZhSm5vOS1IWlJWeWJQSXNhVXY5Ylo4cHhZSXcyY3NMZnpKSy1TYjdoSWxsZlVsNGJGeFJJY0tLeG1kejhENTNHeHJvaG_SAfgBQVVfeXFMTUMzUXcxRU1yaUE0SjFVNXZHaU54a0dHb2ZqRTI5OGtNQ2prT1JxdTZOTUU4emlBMWpGTGlnTVhkTE5zZE1IMWlpTTNrdlcxeXFoVjRBZWtMLTdqSHFSSFptNHRMMGM0ZDEyU2xzR3Vrd0N0aHNINEhFRkt3NElxWGU3MklTb1VpdnFEbjZfQnA4NU9XUDhOU0NmRGNYWFE1T0tCcUtsLWNJNjk1eFowWmliNUxRMnU2bnpGanhhYVl2LU9DMFI1QTNKd0FETS1aaEtRTU0tYnY1TTV0S3h0M21ia2FtVGdsNUFsRzJpU0tHbnI0Q1JQQVA?oc=5"
+      "headline": "CoStar Group Q2 2026 Results Mark a Profitability Inflection with Revenue Up 18%, Net Income Increasing 817%, and Adjusted EBITDA More Than Doubling Year-over-Year - Business Wire",
+      "source": "Business Wire",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPTTJvX09uNGZNcjQ2LTMzMGctT2E0bkhxM0w3TmVwNGVnSV9Ea29tVHBvdndQdlh4WkNmaHZCSlljTzFpVjhjZjMzbzFYZVFTT1FPR3Myc2tlYTAzbFZORHhPNThrd2dHaVNaemhnek4tcU9HUDFEaWZtZ24taDZsYzdxQmJUMS1Oa2dPZ0lnUS1zRktaQ2FpU2NTNE1hdVBNdHNFX3dobGJjRmExTFJ6WWtaOTRTUjY2LVFrTmdHNmF1LWdwVjNpRmFDaHhNRnRKd0kzU1JfUHhCNUxsSUhoOTdFRWxFbEJpRW1mRVh1VXVrUWEyZlR2ZTBnTzVFaUlXYnNncmpVd0VfUTVyWENZckU0WGt2QkdQYk5XQk5qZWQ4TWdoTUstVnJuZHJtN2JWMDI4cFZzM1hmV19U?oc=5"
+    },
+    {
+      "headline": "Why CoStar Group (CSGP) Stock Is Up Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDkwNTE1TUhaeGUwWUMxQ05FZzlicEp1UnNLbjBUOUNrSHNwb2I3a2dnMTR4bmR3SGpHQi1iamdEOXhBdUpZZFA5NkFjYld1cjhNeS1XS1FTWTA0WHM5Wk4tbjBaeXRnZW0xY3ktMk9VUUxvSUNrdTFvOGhwRTJKT3paV0k?oc=5"
     }
   ],
   "insight": "Tracking CoStar Group (CSGP)."
