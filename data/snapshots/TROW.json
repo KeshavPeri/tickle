@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:56.784Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:50.477Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    110.2699966430664,
     114.37999725341797,
     113.69000244140625,
     116.11000061035156,
@@ -24,10 +23,10 @@
     114.94999694824219,
     116.5,
     119.20999908447266,
-    121.68000030517578
+    121.68000030517578,
+    118.87000274658203
   ],
   "6m": [
-    106.48999786376953,
     103.68000030517578,
     106.12999725341797,
     107.0999984741211,
@@ -158,10 +157,10 @@
     114.94999694824219,
     116.5,
     119.20999908447266,
-    121.68000030517578
+    121.68000030517578,
+    118.87000274658203
   ],
   "1y": [
-    104.91999816894531,
     103.9000015258789,
     101.44999694824219,
     103.05999755859375,
@@ -411,29 +410,30 @@
     114.94999694824219,
     116.5,
     119.20999908447266,
-    121.68000030517578
+    121.68000030517578,
+    118.87000274658203
   ],
-  "lastClose": 121.68000030517578,
-  "oneYearReturn": 15.974077800919337,
+  "lastClose": 118.87000274658203,
+  "oneYearReturn": 14.408085660108934,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "T. Rowe Price (TROW) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
+      "headline": "Weekly Market Recap - T. Rowe Price",
+      "source": "T. Rowe Price",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHlVZmFUVGh4Zk13UjF5OEQwdkhfRF9GVWQyYVBRdkM3eHhvaVFBMEt6b3ptNTNHQTdrSkZuUFdBMzdVVmE2SDdIYml1RWZaT0c2ZTk0eTdvaWlQb0VhTGVOaUx0VHl6LUN4UzlPNlVrUl9BdFo3NWgxU0RDcDVYbXZIMkgzTkZmTjhLUHVkQzc1TGdmdTI5bmJNaGUxeTVN?oc=5"
+    },
+    {
+      "headline": "T. Rowe Price Group (TROW) Stock Sees Fair Value Lift As Analysts Rework Models - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcENla0l3N1Q5RHF4LXRGZXhuQWZpSGR1el84Rlk3WVhiM05heWpwcWJCb3dueGNfbzd2NW4wajhEQkw5eWtUdkxoQTE0S3QtU09wUjM5TktHQlBTMmFLTHZTY2doaTNFc3RNWlhsRlZQaDFnbmY4WWZfY05sR1NHdnRKdkl4RWpUcjliNXlKZlR6dw?oc=5"
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYmN4ZVVjLUYzY3hfSmVNckltMndDR3F1Tmw4Rm95TngxLUNtX1hsczNqRE9oYjNGMXVrdDIzMFlKai1BTTNFZFJUQnBrZldfMG54X3dVVVJxd2NzZ01ieXktVXdaTnI5c3lPRU5BdUZNbEZhb3dJcUhHcVRvZXJIaHVHUU9oaVVMLWt4Tm9rRmRDQQ?oc=5"
     },
     {
-      "headline": "T. Rowe Price Group stock hits 52-week high at 121.18 USD - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb05EaFVtUzdCLVZMRl9iM3lfMGlmZE02TW1Na3U5SFdad2I5em0wYnk1RWswZHJPdU9XWVJ6aDFpcGpGc3RzWjhJRGFhVnk1VFVOZkRZM2ZHZFlfYmZ3VFZpMldIaTdhWEY4dE9Xb25VQV9QMlJQNElTQTA2Q2JHMkM1Q0V4YTNhaS02WWsyVXowSnpPQmFSY0NycG83YXNnT3JybEw0RFhXQWtiX29BdA?oc=5"
-    },
-    {
-      "headline": "T. Rowe Price Set to Report Q2 Earnings: What's in Store for the Stock? - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFBKS1ZHWmVhTzRyS0RONzcxaEstdFVVdjRTOTVkcDNiWmlocE5Ra1RtTC05b0U0RlBfLUdJVHJzSm9jZUIxNC1jMWFQbE5aUm1xR3ExcFNJZnd2Tkw2M3cxb0duV0FYQ3E1MjZhNnZOQTRfY0owd2xHTUhQQlFmX1c5LWoyUlNFWVE3cmR3SUt1MEFhWGZxR2t1TTdtcWFJZjRzSjI1am0tNXlaM2FBLU01LVFoVTByZm1xYkM4UmgwVU5QUElJMlNuTmhnQzFvM29vamN4S3FIZEt1UGtPdnFZZUJzbndL?oc=5"
+      "headline": "T. Rowe Price Group (TROW) Could Be 8% Overvalued On Its Private Markets Push - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY1ZqUUxZbjE3bEpnaWhXYjU1Vi04X2Z3SnNnaHZ6LWxjNkxIQzdybDUwa21adnZBM2FUR1BiWnF4b2UzSEg2bHA3X2IzcjN5UWJQaFZOVnMyS1RtUVhFdVFFV1g3RE1HWjB5bEFBWkV0TWcySWNwbVBWMVA4aHp1SEp2TW9sQ1k4amVpTjY0cmk5N2hFeXNQUi1nZVlOZmEtY3JDc2lGOHFTLWFGNVdneDFqTW5XUjV6RWNGa2FBT3oyZzc4RW9HekhiaVlQNzVURXdDclN3VVd2VjJQNTkwb25zTEE4UdIB6wFBVV95cUxObC0wSlFNZVRfMTMtZGFUTWc4V2FoR0xPbmtsandYd2pKcFFqTDhiLVVMd1h2aXhKTk85YU1XOHRoRzdyRnl1R0pCMzFpZC0wRlpIYUwxMUtveGVtOThDTnB3NzcxcER4cl9Md2VWWmlpV2tjVXBGbHQ2bG5DNDFUSmNmWkhobkFTR1N1ZVk2WXRUd29mMTVTdXQwMTZIMnR4ZWEwWGVNTFo4bXlnTy1PUnRKWGZZNUtmeGhQZnl0blpXcXhIVnlrOVVBTTJPeUJ1UnRmZWdyUHdFNk5KNzZ0cE85bUdPMDZSY0dV?oc=5"
     }
   ],
   "insight": "Tracking T. Rowe Price (TROW)."

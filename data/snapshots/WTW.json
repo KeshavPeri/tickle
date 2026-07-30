@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:48:00.058Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:53.579Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    265.42999267578125,
     264.70001220703125,
     261.3699951171875,
     275.0400085449219,
@@ -24,10 +23,10 @@
     288.3699951171875,
     295.1099853515625,
     302.6400146484375,
-    316.1600036621094
+    316.1600036621094,
+    315.92999267578125
   ],
   "6m": [
-    329.4100036621094,
     321.7900085449219,
     319.0199890136719,
     322.4700012207031,
@@ -158,10 +157,10 @@
     288.3699951171875,
     295.1099853515625,
     302.6400146484375,
-    316.1600036621094
+    316.1600036621094,
+    315.92999267578125
   ],
   "1y": [
-    302.29998779296875,
     301.8299865722656,
     315.80999755859375,
     314.7699890136719,
@@ -411,12 +410,19 @@
     288.3699951171875,
     295.1099853515625,
     302.6400146484375,
-    316.1600036621094
+    316.1600036621094,
+    315.92999267578125
   ],
-  "lastClose": 316.1600036621094,
-  "oneYearReturn": 4.584854921870757,
+  "lastClose": 315.92999267578125,
+  "oneYearReturn": 4.671506056652105,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Seeking Clues to Willis Towers Watson (WTW) Q2 Earnings? A Peek Into Wall Street Projections for Key Metrics - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQazdya3dhQ0l4cUhGRU5EODB4cm8tZGpERHdTcUpWd1I4RlRFRkhwMGFGY3pSNGdEcHNsX3RTYTJzMmZHZlpFMWVPQkhZRkRmSjdXMjRVV2VyTkU4MHV5VUNiZTh2R01JYlVEb0NCNEh0aEM5VjVfT1plTHNFcDE1ZHJQQ0d5S2E1dzV6Q1c5ZjY2SUVSbU5PUkZLYW95RHhi?oc=5"
+    },
     {
       "headline": "Willis Towers Watson PLC stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdzFLdUFTRWQwTXR3cXBMM2tlWnAxdEJ2NEMzUUxISHZLVHhGLWFfbGtMSk9yemZsSmV6cjR6cV9wdmRaOHYtRGRXeGplUERCRkVPWTV0NHJXNFp2dm1ZRUg2ZTlHOTNpTHBaQUNiblFodk1nVTlXUWdBX2V3OVpSbkg3THgwdkdKazRQOG5iLU0yWklwWTJuNHlmMVR5UkNESXFhLW5Nb2piaFpOcU9hem9hWEZjMWJJSXRFSVlUYm9FUDFDdDRrRGRfREZXNVNsNGVENGVvX1U4ODRFNEh3YWRHWlAyUm9XRTE1eFk4OVEtd2xCcDhIcnFkcy1TWGFOQTV6S3RKbXFqUVU?oc=5"
     },
     {
-      "headline": "Willis Towers Watson PLC (WTW) Shares Surge 4.5% -- What GF Scor - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNalBSSVR4UFAtWEp6Q1BGdy1BNlhkdlNlQjNiRWNnNHNrQ1RZVDlzT19WdkZDYnVNckd2MEJtRTNfVlY1djdNMjJ0OW83RlJiOEIxOUZhOE5LM19lSExvZzUyMFoyVFE5ckVGTlFsUzhUa2QyV09XcXBuT0dINzdVeHg5Wl8zQndPRWxwUS1rRDJwZzBxWF8tTGhZR05GTXZ3TXRLOXhBbWhES284UEJaXzJCWElDTzdzeFdV?oc=5"
-    },
-    {
-      "headline": "Willis Towers Watson Public Limited Company (WTW) stock price, news, quote and history - Yahoo Finance Australia",
-      "source": "Yahoo Finance Australia",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13WUNJNGx3UVJ5Ql85VGtuUi1zOURzZTNjM2hRUmR4TnBVX01PeWhtLXpCYzBfQWw2YzZmRTZHSkl0UmJkWDA3dms4Q0w4YVlBNTNiZ0NkQlBwSG9xLUFKMw?oc=5"
+      "headline": "Renaissance Technologies LLC Invests $30.06 Million in Willis Towers Watson Public Limited Company $WTW - marketbeat.com",
+      "source": "marketbeat.com",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeWtUTkN4My1XcUlwc1dNbXlLQjRyWkVrd0c3R0hTRV9vd3k3cnJzSGhSVWRFRVhyMEJkOTk3QlNOWHJRT3djQnJHTF93LVdjMXZtZGVSWFhVTjdURVdLWFNOY0ZKdTJIWnJfb3o1N0pKQWxYMEYzUkk3QldKRVd0NHhBekNSRzdyMmxxNWNSenJjLTRMWlRSMGEzcHNTbm5zZHRWLUFrQmphSi1OZDhOTWhEWmVuMFc4WGg2R3ZodGh2a1Z4TVBjaVhHMW5kU2hncXotYV9rVTRlaUtUYWdqXzg0dUhaOElkQlVxSWF3M0Q1YTg?oc=5"
     }
   ],
   "insight": "Tracking Willis Towers Watson (WTW)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:19.509Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:13.134Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    340.3599853515625,
     340.8800048828125,
     338.25,
     348,
@@ -24,10 +23,10 @@
     340.8399963378906,
     326.1700134277344,
     335.3900146484375,
-    336.6300048828125
+    336.6300048828125,
+    331.5
   ],
   "6m": [
-    364.7900085449219,
     352.19000244140625,
     359.6099853515625,
     368.0199890136719,
@@ -158,10 +157,10 @@
     340.8399963378906,
     326.1700134277344,
     335.3900146484375,
-    336.6300048828125
+    336.6300048828125,
+    331.5
   ],
   "1y": [
-    308.5400085449219,
     303.4100036621094,
     299.30999755859375,
     294.2699890136719,
@@ -411,12 +410,19 @@
     340.8399963378906,
     326.1700134277344,
     335.3900146484375,
-    336.6300048828125
+    336.6300048828125,
+    331.5
   ],
-  "lastClose": 336.6300048828125,
-  "oneYearReturn": 9.104166578060124,
+  "lastClose": 331.5,
+  "oneYearReturn": 9.258098282472213,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity - thestreet.com",
+      "source": "thestreet.com",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbjNMQTh4Wk1MT2h4aXYycUhSajNMY1Q4VW9VcVJEeG16U3d3ZzJoa1A5V0Z6RDVXb0N6UEhaZlR2c0p3MjliWUNPbldmNmlFSThzQmJib18yS1hwV0FUelE5c2FucWdBSURRMG1MQ0VRUnZTbk90TGk2aGdoQUE3a2k4WXJUcmFRRjRkWEwyUC1NclRkckppWWdabDc2ZndDaUdNT29EcEFpNG1BeC1ZNEZhSlltMWZidUphcGIxMHpwZTZIaTBBeFRzWi03bGhqbnJCVw?oc=5"
+    },
     {
       "headline": "American Express (AXP) Stock Still Looks Below Fair Value Today - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa1Q4VFhNaE9VY29od1B2TWlZMkdoMUZ3OFA5c0t2a0NDc05BdTJoY0RBRnZqMDlXN0RtNTM2RE5xRnJsSzlwdmo0elVXTG9kajBFb3hIRjIyVjBZMHNhTzVKQzhuc0RkMmxOLWdkaTZaSW5TSFBsc0RRSlMxTnRwV3REaEY0QU5PR1BsQWZlOGU3TnhDZEJSaFpWRWMzdw?oc=5"
     },
     {
-      "headline": "American Express Stock: Why Shares Are Sliding After an Earnings Beat. - Barron's",
-      "source": "Barron's",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFo1TGNJbEctT043aW9ESmhaVl9wdTAyNnlRQnFGOWpmUTdfSUlER2tKcDVyc2lIZGFMcVVCek5icmtGa29DQ3pic1EzOGNrdGoybk52aFV5SnF1SGFoX3Q5SDktQ04wTXpQOU5yOGNNc041MFlSbHRQYkdTMEJ3bzI4YXhiZw?oc=5"
-    },
-    {
-      "headline": "Why is American Express stock sliding today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0Z4b0dYWENsa1YtYkJZM0I1SlRwWDhkTVEtRWM1S1VVb2JVam1pQXRJam9mcGpHT2Fyc2FvbFd5RzRpOXQ2Q0o1a3VjT3BfVGNSR2pXcEdTX1dBUk1hamRPWlkwYXFjRzQza2l2ZV9nbG9uSjhfMW00ajZCVDhkQUhmckd2dkVtVXFUTENrbkc3eUFHcWFGZ18xemxyVGxhNjBkdGRSVkQ?oc=5"
+      "headline": "American Express vs. Berkshire Hathaway: Which Financial Stock Is a Better Buy in 2026? - fool.com",
+      "source": "fool.com",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSWcwUTdnb2ZTMHJjUHdqOUhZaGVxT0RmNEtiZWxZRFdtR1VraFVJRFpIaF9yLXFmVUl3aVJMN0xGazFCY1V6eHd5clJ4aHhNTWl0NlFvdXVUS3QydHJTblgwS29Yd3NVeHF3RnYtVjBibmFRYW1FdFlVcDRNV0ZrbXI5RFVxaHZQTmVTWGhjUDVTUEV5ZmZIZmJNUE04QmRoT1RnZlM4aUp6Q2dRLUpvUlA1T2lKQmN1QXdfN0ZoX1dVVFg5MWZUOUVxbWpORzJxeTVZ?oc=5"
     }
   ],
   "insight": "Tracking American Express (AXP)."

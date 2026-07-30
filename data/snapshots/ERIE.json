@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:32.765Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:26.863Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    238.7100067138672,
     237.50999450683594,
     239.75,
     249.27000427246094,
@@ -24,10 +23,10 @@
     214.52000427246094,
     223.5500030517578,
     228.25999450683594,
-    242.42999267578125
+    242.42999267578125,
+    248.5500030517578
   ],
   "6m": [
-    283.2099914550781,
     286.8800048828125,
     279.8999938964844,
     285.3500061035156,
@@ -158,10 +157,10 @@
     214.52000427246094,
     223.5500030517578,
     228.25999450683594,
-    242.42999267578125
+    242.42999267578125,
+    248.5500030517578
   ],
   "1y": [
-    355.6300048828125,
     353.3299865722656,
     356.239990234375,
     350.75,
@@ -411,29 +410,30 @@
     214.52000427246094,
     223.5500030517578,
     228.25999450683594,
-    242.42999267578125
+    242.42999267578125,
+    248.5500030517578
   ],
-  "lastClose": 242.42999267578125,
-  "oneYearReturn": -31.830838414304502,
+  "lastClose": 248.5500030517578,
+  "oneYearReturn": -29.654993208191076,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Erie Indemnity Co (ERIE) Stock Up 6.2% and Still Undervalued -- GF Score: 63/100 - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNld5MWhDZEsySlBIQVFGTEFaamxIUDMxU1lnVmRiNEZCZHItZ0JINFQ5ZHo4bmZfc0JhRTN3eU41aUxzVDVqVE9CRkNyM2JsLVo3dEF0ZHQ0TG0xdEF4TVdfeHF6S1FhS1NQaEg4c21TbzlNVmJwSTRqYk1uLUtVbWthbmZMbWpmam80LUlyUGJRdGtINnFxQmxuS2RsX2JEclloQmhJQmNnaEk5YnZZ?oc=5"
+      "headline": "Erie Indemnity Co. Cl A stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON1lCMUt2QzhTaTBtVzNQbG9LZ3ZENzFkYnFFQzcyUWx6Tm1BR09JQVlyZ1FoVzR6MUN1N0NJRUdmYkwyQWt3QjhDSWJGRVBnVGhYanlld3lmYXdGQS1mazhWVkVTX01qb29TbS10N2ZXdTEtejZ4MElYLXNVZ2hGRFR3WlM0NmtncWNaVmxTeFBfeEllUjFsNS1WSHQ0Z2hJU1ZqeTRsbzk2T3pHNlFJcDZYaExmclVMbllla2dwVVM5dV9KQUJZclVWRDYxY1RlSHhXekF5TnFMWWNBTHh1b3ZOS3RUT3M?oc=5"
+    },
+    {
+      "headline": "ERIE|Erie Indemnity Co|Price:242.520|Chg%:+14.260 - TradingKey",
+      "source": "TradingKey",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KQldrdkNDM3BNSG9mUFdjX0JmREFDSTJqejNHQkNsQ1pCbzVJdUJ1WDl4VDNTaVlsU1NjU2ZPX0J6TlFZaU5sS295d3NGc0I1OGpYV3BFN044NU1wVXQ5SVhEamdOdDI0R2ZnaXFR?oc=5"
     },
     {
       "headline": "Erie Indemnity (ERIE) Stock Looks Discounted As Shares Fell 36% - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-25",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRDVkMkVIQmo3a1U1ZDJXaHM5ck5IVHdEdWI3XzJjTk1OcTlQajdKN0d5N214QnhfdlJfR25OY0xjUTdLTUlObndvUE1xX28wLVlETHZ4aFNxaWVUTjFZREdVUEdYX3ZSN3R6a2ZyZjJnX0N3elJaR0JkMk5lU3JVMW9fZXJTNkZGcXA2WDZHS3RWcTYyeldRcWdkdS1sTGZqb0JkTFJMNWR5Zm1nNEVGcnhuMzVaeUZTaGVFeUZGXzU1WDBtblZuV2c5NmU1VjjSAdQBQVVfeXFMTnZXbTdzS0xGU3BpdmtobjJ1amhCYVBLdmpzdnRfNkpFRUNGZ1ROdkpiWjNWemtqTDYyM0lSTko3RVpITDdIUXpPdkZfWVBsbjhQelBNc0s5Y1pCTWRiUHJKWlowTWxZYXYwbzVIT283OER4eEVFWXg3XzVqNU9aOE9WRkhFSmJvdWNEOTdTM1RBWFpJV3VfQm9meFZKVC01MHRGWk1MSGdxNk1pOGY4NXVzcDRTMVJRRnlkNE9PSTI5cnVDYUhyTHRBQzJBSTIyNGxJQUQ?oc=5"
-    },
-    {
-      "headline": "Erie Indemnity Co. Cl A stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0ZLTUtHNTBNQ0RIbzdSVXkxQXZBRlowU25PdXRxX2tIUDVGQnJuTGdEVmVQV0FuS0xMSEZMOEZIWnU5a24tY0pBWUJhRDVfYk5UenluVzBRQS1SNjdrMTc4bHVFQVExRzFQWXpJaFQ3V09Qbkxkb2VoLTkxM082LTh1NE1iT1I3UldIeWlaZG9ZOHVWQ0FWWmdTMWFtVTMwRXRUQ1RvdF9FbTVhWFBYbzhqX19xM3Z5ZlF0UlllU2FpOGZyT3ByZl94V2lsUnc?oc=5"
     }
   ],
   "insight": "Tracking Erie Indemnity (ERIE)."

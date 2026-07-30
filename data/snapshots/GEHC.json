@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:36.730Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:30.686Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    65.76000213623047,
     65.05000305175781,
     64.01000213623047,
     64.86000061035156,
@@ -24,10 +23,10 @@
     61.9900016784668,
     60.58000183105469,
     61.119998931884766,
-    64.11000061035156
+    64.11000061035156,
+    71.9000015258789
   ],
   "6m": [
-    81.75,
     78.83000183105469,
     81.0999984741211,
     81.88999938964844,
@@ -158,10 +157,10 @@
     61.9900016784668,
     60.58000183105469,
     61.119998931884766,
-    64.11000061035156
+    64.11000061035156,
+    71.9000015258789
   ],
   "1y": [
-    77.72000122070312,
     71.63999938964844,
     71.31999969482422,
     69.8499984741211,
@@ -411,29 +410,30 @@
     61.9900016784668,
     60.58000183105469,
     61.119998931884766,
-    64.11000061035156
+    64.11000061035156,
+    71.9000015258789
   ],
-  "lastClose": 64.11000061035156,
-  "oneYearReturn": -17.511580541156913,
+  "lastClose": 71.9000015258789,
+  "oneYearReturn": 0.3629287247984504,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Do Options Traders Know Something About GE HealthCare Stock We Don't? - Yahoo Finance",
+      "headline": "GE HealthCare Stock Soars After Earnings—and It’s Suddenly the Best Performing GE - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnlUekwyVDViZjI2bW01cmh6QzNLbnJCM3lGNFNYdE55SG1XaEVVcF9tX3Z1T2JfcjRkZmV1RUVXVkNERERxY1FIT2x4Uk9YaVBNMkVUeDhvTGpYc1dTNVR2djRPZU5oNEFtbmpuTzFFelNPTDlTNU9hTGlzbkc3UjlRc3JibVF0ZmE5U0tUX0Z2Z19Rd3hvTXNR?oc=5"
+    },
+    {
+      "headline": "Stocks making the biggest moves premarket: Biogen, Vertiv, GE HealthCare, Generac & more - CNBC",
+      "source": "CNBC",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZWFxVEFoTjRaclNkSnAybk5OVmliRi1HZDRtTmpUelM0a3gxNGRqZ3ZkNmhldnMtX3dnRmxWenNpRHlnUmxoSHMtajVQNGdINzBQX3h4U1JFVFFjQU92YTV1UkktMHRBTVdBbUYwM0R5aTk0c2owanpoRXM3MkRRdFBNRTlFV2o2aTVHc2QtanR4eGtxeDVEUC1GdjZlUQ?oc=5"
+    },
+    {
+      "headline": "GE HealthCare’s (NASDAQ:GEHC) Q2 CY2026: Beats On Revenue, Stock Soars - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckszc3NzcGR1WTJRZDJZWjFxMlNLRGpKTkVtQjdVeE1keTZVN3JtbXVZa2xLS2xUWklSbjBERU1iV0N5dmZPTUY1MVpYYVBaT3d6T1A0YW0yVlhWMUNsMHdWeFM5ZEVpZWk0aTdILUE4R3VmZVlmMkpNTTNmTE1LbGJYcGNTS0x4WFJiclZWTzA3OWFXd01MZ21oRjJqSWhE?oc=5"
-    },
-    {
-      "headline": "GE HealthCare (GEHC) To Report Earnings Tomorrow: Here Is What To Expect - StockStory",
-      "source": "StockStory",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU0oyWFZIejA5cDJkYXBMN0tabUJUcXhhbElUZkptTVk5M1Z4MVhvVllNOUZqWVhJS0NJUkl5RnIzWTJzM2RmZWNkS0NQZXNGcThwRnMxUlJFWUhUcW1UZElVTy1zdWwwZGVwWm9VMXcxTDJOdTRsT1NLYWZ2ZDZvR1VfRmtZcWRBOEY2MHVmQnA2NWpOS0g0dlJ1VkZkNkpwM21jdko1SDNsdDZJS1ItajNBTUtGN1JCTk1XQjlJOU9FTzZkN05n?oc=5"
-    },
-    {
-      "headline": "Why GE HealthCare Technologies (GEHC) Stock Is Down Today - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEN6X25WajBEcEQwNl9tWlVsSm00TWhSTUlEd0s1OC1SMHJSS0pvWEN0VGhlUmNod1FYZmdHdElXWU9XVHQ5OVhjb2Y0eDExNFpLZl8xVVR3MEVCR19FQk9Lcy1JLTdlQ2hZdU8tV1ZScFE3YkRRWDJPQW5lb3VabWZWVG5aQkZFWnZtb3piNnphUHctSWx5UFRn?oc=5"
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUtVcHlQNnVSWUZDc0p1cS10dWZTODdSS3d2T0lKallFUTlORnVOaS15NDlhZXlwdnNrTnVUd2d0b1NCR0JhVTViRXpYVUI0NlA5Q3R4TjY0VTN3U1VRU0NWQ2xEMU9WemZhNm1ZM2xOZnlCc3FadU1Gc1JWV2V2R1VWb3lhNFUwczlrZWVhMzVsQVU?oc=5"
     }
   ],
   "insight": "Tracking GE HealthCare (GEHC)."

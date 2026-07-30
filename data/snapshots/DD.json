@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:28.575Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:22.402Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    137.22000122070312,
     135.74000549316406,
     135.63999938964844,
     138.47000122070312,
@@ -24,10 +23,10 @@
     137.39999389648438,
     137.6999969482422,
     139.9600067138672,
-    140.77000427246094
+    140.77000427246094,
+    138.10000610351562
   ],
   "6m": [
-    128.5800018310547,
     126.83999633789062,
     130.13999938964844,
     131.3699951171875,
@@ -158,10 +157,10 @@
     137.39999389648438,
     137.6999969482422,
     139.9600067138672,
-    140.77000427246094
+    140.77000427246094,
+    138.10000610351562
   ],
   "1y": [
-    93.26359558105469,
     90.62761688232422,
     90.25104522705078,
     87.7907943725586,
@@ -411,29 +410,30 @@
     137.39999389648438,
     137.6999969482422,
     139.9600067138672,
-    140.77000427246094
+    140.77000427246094,
+    138.10000610351562
   ],
-  "lastClose": 140.77000427246094,
-  "oneYearReturn": 50.93778381096061,
+  "lastClose": 138.10000610351562,
+  "oneYearReturn": 52.3818134629228,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "DuPont to Report Q2 Earnings: What's in the Offing for the Stock? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbUZRMHZfLURyajFVNkFnT2l6UzBqaTVfWUFmNGtvY2NERjJQWkxocnNzb0lDbE1rWHFhRXdaZUwwWFpzQ01fZ1ZJSExsYl9Pa3N1T1ZZaXVjd3JPbG1SY1FXTk0wX1plOWw2RFVvQkg2MFYtaHFxeUtOUnNrSjlQeDdXejZ3enZxeGJXYzJhNjFyMkUxZmc2bXUxQzM?oc=5"
+    },
+    {
+      "headline": "DuPont de Nemours Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa3NNTm16aGFORTZ4T3FZR2FtWXdYRTJObUk0RWlCdHNJejZ3dkF4alBYTFhTbDN1NmhFQ0F1b01zSVZMckFuRjViZ0Z3dDdHWGRzcS1iR0ZXZGI4U3NKQmxTZWxGSDlrMGZYMDRQWUlTd0hSNjJsU0t0RVoyYTM4emlISjNFci15MEp2SXVtZXE4VzJkbEwtdnZJVlN1NWcza0JTZlZnMzBrc3d3MHB3NDFHdDdDMEV1Ym0xT3dQOHc2ZmpuUENzdEo3VlRzSUhBVU14VWlHNTJmdWZYakxydXFJRTRmcEg3akxpOVhqVQ?oc=5"
+    },
     {
       "headline": "DuPont: Updating Our Valuation Following Reverse Stock Split - Morningstar",
       "source": "Morningstar",
       "when": "2026-06-24",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZlpkejY4MG1jTlZuZlZ0T1VMem1IM0Z0VUtleHA3ZkoxaHBPemhHMVVJQUNGczRxMmxFLVhFRVM1N2l0cG1Pal9Lejc1cXJueXBLT0gyeWtzMloySFEzSkRKWG9pSFptQnJaYXlEYjRteXBsX2ZFMVhGMzlGZ0V0VENxaFlmd1c1amdZMWxDV252aXBjOEZRa0Fn?oc=5"
-    },
-    {
-      "headline": "DuPont (DD) Stock May Trade At A Discount Despite Lithium Extraction Launch - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNTg4cEI2cnJwWmZkQ3FaOHljTFpaSzR1UzdOSGJZaUFhbE5XOTZjcTBpbGVZUmFNT1FRQmRaZExnVFlJLXI4RkE1SUQwVzVuUXEwN0ZlU0I0MzZYZjZTTDhIanJKZF9xSzR1TTZKOExKUDZYSS0xZ2J6dnREaE9Ed0FLcXRFb19kSnZWa0VEMnRGNnduR2ZwUjNmT1NucG1saEtfRzgwV25tanVDdzNsVUpEOFFTM3FqbGRoTklOOG9GbjVld1VKeHl4LTUtZ9IB0wFBVV95cUxOUHA2U0xXaGh1Y3ozY0czd3VkZzc0MWlWYVZTbXhKN2l0Mk9PYXhRSVdfYUN1VjJfYTdXQUVKTUhIS3kwMXozLWlRZGtKelc2WkxvaDY0TlpXZnpCT0E2Q3FVTU16NmY4Y0dDUXVIcTBmbnpZb2NoMUhtckl2ZHBhMl92WFhnY2lkVDZDc0pRX1NrUk5rMXl3cVFsZGtBRWxqU2RXLXUxQlFRM042Mm01bEtxRFQ3VXhMVDBLQVlZOXViUTZ0Z1E1Q1VxZWlhRnpEd1ZZ?oc=5"
-    },
-    {
-      "headline": "DuPont Plans Reverse Stock Split, Backs Guidance - WSJ",
-      "source": "WSJ",
-      "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZzVGcl9VWGJGY1BxS2NYOE55aklBWkV3YUV0T25QWHVJLTJxNkQtZWVkQ3VxM0hORHpKVldlR184cS1jU1hXVjZ1NlFxY2RGUHV5QmZZUVJIUkYzc3JRNzRUTHBOcWp2aVdaYWNneXNuNDE0UUk1R3dSbk82dFVwRzVrR2h4cUdrTWhnN1JSdG40Vlk4VEVN?oc=5"
     }
   ],
   "insight": "Tracking DuPont (DD)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:14.539Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:07.890Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    128.97999572753906,
     124.73999786376953,
     124.44000244140625,
     131.1300048828125,
@@ -24,10 +23,10 @@
     138.74000549316406,
     146.99000549316406,
     154.05999755859375,
-    164.66000366210938
+    164.66000366210938,
+    173.1699981689453
   ],
   "6m": [
-    286.2099914550781,
     272.7099914550781,
     280.7200012207031,
     285.0899963378906,
@@ -158,10 +157,10 @@
     138.74000549316406,
     146.99000549316406,
     154.05999755859375,
-    164.66000366210938
+    164.66000366210938,
+    173.1699981689453
   ],
   "1y": [
-    278.8999938964844,
     274,
     267.1000061035156,
     255.3699951171875,
@@ -411,10 +410,11 @@
     138.74000549316406,
     146.99000549316406,
     154.05999755859375,
-    164.66000366210938
+    164.66000366210938,
+    173.1699981689453
   ],
-  "lastClose": 164.66000366210938,
-  "oneYearReturn": -40.960915286637096,
+  "lastClose": 173.1699981689453,
+  "oneYearReturn": -36.799270741260834,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPczFhNUdjMWRXN2FFazlqRU1qWFBmaE9qbVJiOWc3aWNvNVkwaDRGc1lQakRVM1ZFM3l2VG8xZWR3bGRoQmZWM1Bmd0tQUzMxVUJsMC1yMkh4OVRud3RGVVFILXhvdW9FYXNad3ducmcweWlfZXI0ZUs2b1hHUGplYUZmcXNtTXlheWwxNFVSZFFsRzV4VFI0Yk1ialZwdw?oc=5"
     },
     {
-      "headline": "Accenture Stock And Other Dividend Compounders Worth A Closer Look - Sahm",
-      "source": "Sahm",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOUloS1ZxM3dsd0RtQ3RIOEs4b2xLWTRmWVQzNVg4UXJFTGNISVlORjI5S3ZxdjZNX25IaEdNdXhGUk5mQXVHcXJveUljVkZ2ZWs4blRKOXN3LVFBcWNRaFRrVXlFTXdIVnRkbkhDZVNnZGY0MWhtUHVNSk5nQXYwMG16T2J1UGYxNl9MZEpQbWxGNlVzSXJ4Y0QzY2xKaGdtWHk1eEhrblRtR190dWVHOTRtT0VxcmpVMFE?oc=5"
+      "headline": "Accenture PLC Cl A stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYXVaeml4X3pQZVFrTWtuMVpUMV9EazZHODZxVWh0d1hKeTB0QUJiUnVkal82YVJtUnRDOWdDNGRvY3NxNDBuX0czNlZSWTNPc3FabmVxVWhLa2NhOXJDdkc2dE9nYUZTM0FmMkRpRzhHNzdkSGFlXzc5RDdQRVZlZWkxYmpvOFNpT3BpSmU1M0NfajJFaDNiOU9CUmczOUhjNjBQNzd1TlREQ0pEUWxXenpVYXY5RFZZdHZJQ3Ywd3plVGpaVXU0ejEtUXhnYzNqZTVXenVXM2hxOGxtbzFDckx3?oc=5"
     },
     {
-      "headline": "Accenture Stock And 2 Dividend Shares Offering Steady Income - simplywall.st",
+      "headline": "Accenture (ACN) Beat Expectations And Expanded AI Ties, Is It Still 43% Below Fair Value? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRiTnJ1ODZ6YkRjWVZLQWJCam5LVmxtNi1GQ0NWMW5aMUh2Q09JTFhaTUg0Nm9NZHFlNUo5cUc1SzBYaDlEZVJPZ0t1Nmg2U0xZQUM1U0pUT0JHTkhJNERQNXdGX0ZPdnl4X2g0a25xS1hyVUtIMEJ0ZjlFYWJkU2t3czVrVEZpZ2xsZWIwbTlhUlR6cnlvN1FJZzFQeDlGYzlwazBCc1FVWm1fRTlCbW04a25XQlQxeWNYdFpZN0hHVzFiMFNSUzhCeE9aZ9IB0wFBVV95cUxPREZGYWRtYmZERjljcGJRQThpM1p0b3VrQlRjZDRvNFFMbjc2VElPbzgyVDBkbHdLcExFRV9WUXVhQXhKN1JZWVJZOWxtQ2l5RHdvTUEyQlU1NWNzZWRONVRWV1N1RjNoZHUwNU1DQzRPN3hndFh5NV9WaU92UE9zYkZDWGdEbUMwVHdFZVItdFlOWWk5bnJkS1lBTkh6VG1naW4tRS1VNEh6OTI3Y29DQ3FxRzBJUlFWclFMbXk3anNOZi14MFBHdG02WHJDU2tVZnNR?oc=5"
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXVNLXNYZ2RRMHI0WnpMZklnXzhrdG9GRG5xNUFFbVVfUlR5QTl1OHFIMlYyVGtrYjJ3WlJXMG14My10cThGZFN3ZlRZY1lQWVhnUHhCLVRMTnZTblFSUWEtUWFWSUh4akFYY0hGTjFSNUx0RXhCZ2x4TUF3NndlRUVTSy1ad0NmZnpEMGJWRlQ3N0UyU3JybmhEWmFQRDBVOUN3c2F3cDM3OGpseC1uTTN0emZXNU9xc2hkc3VZZUpRQlnSAcgBQVVfeXFMTkxDQjk0RGJjNjJONmxad0E0MlhGVjBQRFVGMEU2c3B1cXZERGx1b29lWGVNVjQtRW1yMXZqdEkzNnd3YkZIQ2dsakVRekVQMWtrSElGcFl4VGhZUGx2bWVGVEd3ektka3ZFMkVFZi14Z3RiRkJFdVpod2NnN0E2RkMyWV9yaVlvRm1CN0s2b005bHBJUE1XR21WYno4bDNQNXk4NXFkNUtwV01QbHZZR0lFREgyd29XN1dsUC1Ja0JIQU9EdXdyQ18?oc=5"
     }
   ],
   "insight": "Tracking Accenture (ACN)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:26.471Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:20.689Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    112.31999969482422,
     108.87000274658203,
     107,
     105.19000244140625,
@@ -24,10 +23,10 @@
     98.0199966430664,
     99.87000274658203,
     102.86000061035156,
-    103.4000015258789
+    103.4000015258789,
+    99.70999908447266
   ],
   "6m": [
-    122.97000122070312,
     120.86000061035156,
     121,
     124.48999786376953,
@@ -158,10 +157,10 @@
     98.0199966430664,
     99.87000274658203,
     102.86000061035156,
-    103.4000015258789
+    103.4000015258789,
+    99.70999908447266
   ],
   "1y": [
-    97.23999786376953,
     96.5199966430664,
     95.44999694824219,
     95.23999786376953,
@@ -411,29 +410,30 @@
     98.0199966430664,
     99.87000274658203,
     102.86000061035156,
-    103.4000015258789
+    103.4000015258789,
+    99.70999908447266
   ],
-  "lastClose": 103.4000015258789,
-  "oneYearReturn": 6.3348455341796335,
+  "lastClose": 99.70999908447266,
+  "oneYearReturn": 3.3050171491436813,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "CRH PLC (CRH) Shares Fall 3.6% -- What GF Score of 87 Tells Inve - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3lvd0U2cW54ZjZrY0JLNHBwX3NHUlFrdngzN3lQUEhnTlNsdkNsd25IcFNGT1BEX2YzdW54OFJZX3Z6RUxyaTJ2OFFhNGxBMXNIRzNiNEJwSzlQM0tpU3R6WllvUUE4UWJMMmhPYUdVMnFPRkMyLUlOVHY4MUw5ZmhJWHZFa2lZX0N1S3VfbXpZa1BjWS04MGViN0hjdExwd1U0?oc=5"
+    },
+    {
+      "headline": "Crh Plc $CRH Shares Purchased by SummitTX Capital L.P. - marketbeat.com",
+      "source": "marketbeat.com",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZG0wRnZtclJ5d01NeldSVUp1N2F2dTZYUVFBNVpNeEJVMmZQYUtOZW9wa1lhUkM0dVVKaU9jbEp1WHlWOC1qM3RfLXlLeVNJQ3hsalE4UlFaSlVEMzRBY1RXQ1Y5SWVibXZ6WEs5bWJFSC1Fcl9KSWhUS09WcWFVV1Y3Y1pMNkg0QllLcjF4V3NpbGt5dzVwN0tvRnlKR3pWejFweHg2NFVRamc5bFI0M0Nn?oc=5"
+    },
     {
       "headline": "CRH to Report Q2 Earnings: What's in Store for the Stock? - TradingView",
       "source": "TradingView",
       "when": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnRPbTl3V1ZqRjh1ZEZyQUkwbk52czBnV2xCZWVMb2t3SEFxc0VPbS13bzdlb2k5OGZheVYwaFdDR0ZoRmtCcFdTMURiVUY1eklHLW9oY0hoSERkUXlwX2pWdkkwSTBtb1gzSC1ScDZZX0dvUndXYXVmWEl3MXNxeFNjS1hrcjlHd1lwNWVOX0NXQnZLdW9MTzkzQ2JZU0FlQWllVGhJTGhwNURpOEdDSA?oc=5"
-    },
-    {
-      "headline": "Crh Plc $CRH Shares Purchased by SummitTX Capital L.P. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZG0wRnZtclJ5d01NeldSVUp1N2F2dTZYUVFBNVpNeEJVMmZQYUtOZW9wa1lhUkM0dVVKaU9jbEp1WHlWOC1qM3RfLXlLeVNJQ3hsalE4UlFaSlVEMzRBY1RXQ1Y5SWVibXZ6WEs5bWJFSC1Fcl9KSWhUS09WcWFVV1Y3Y1pMNkg0QllLcjF4V3NpbGt5dzVwN0tvRnlKR3pWejFweHg2NFVRamc5bFI0M0Nn?oc=5"
-    },
-    {
-      "headline": "CRH (CRH) Rises Higher Than Market: Key Facts - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlF1aktjREFCV3lPbWdGRXpyOG92WWZyVEpDWHZmNDEtYTNkcG10Q1REM2xsdUlybDR5VE5PTldCSFM0SndUWWFybjdSRmM4N1JORW5ydW13M3pJbnhKZVE3Qm9oTTQ3MlNYX3NYLXhQWHhIODRENFNHMWRzemc3aGdJYjNBYnZlaC04aWNKOE52V1dtNXow?oc=5"
     }
   ],
   "insight": "Tracking CRH plc (CRH)."

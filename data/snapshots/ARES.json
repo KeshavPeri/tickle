@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:18.516Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:12.077Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    109.12999725341797,
     107.5999984741211,
     111.30999755859375,
     113.62999725341797,
@@ -24,10 +23,10 @@
     121.27999877929688,
     126.51000213623047,
     127.76000213623047,
-    127.9000015258789
+    127.9000015258789,
+    124.5999984741211
   ],
   "6m": [
-    169.69000244140625,
     163.16000366210938,
     162.33999633789062,
     161.52000427246094,
@@ -158,10 +157,10 @@
     121.27999877929688,
     126.51000213623047,
     127.76000213623047,
-    127.9000015258789
+    127.9000015258789,
+    124.5999984741211
   ],
   "1y": [
-    187.92999267578125,
     187.72999572753906,
     185.52999877929688,
     182.8300018310547,
@@ -411,12 +410,19 @@
     121.27999877929688,
     126.51000213623047,
     127.76000213623047,
-    127.9000015258789
+    127.9000015258789,
+    124.5999984741211
   ],
-  "lastClose": 127.9000015258789,
-  "oneYearReturn": -31.942741174617456,
+  "lastClose": 124.5999984741211,
+  "oneYearReturn": -33.628082187271424,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Ares Management Gears Up for Q2 Earnings: Here's What to Expect - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeTg3S2NaYWYwdmVmY0JCV3NCN2p5ZHdOaTlmNDZFdlpCUFFKaC1NM2RYNXZVZElld2FER2JxamkyRklHdE50N1ExRG9kRmpxRTNobWY5a0d1VTYwX0JYTGc2LXBuZklDUU1GaEU5QTB6OXZGMGpaaVhoNGxwaW1rcVZBVTk1aWZ2ZlBYQVZReGlGcHdFc3RqcGtnN2dMb0dwRnlGTVlKblhDdDFfNVJTSlgyZ2VrNVpQS0E?oc=5"
+    },
     {
       "headline": "Ares Management (ARES) Stock Looks Pricey On Earnings While Growth Stays Strong - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM3BCYlF4aWVyRXVXR0pRLWt1Ry1xYUZNYTM2UEtvaGdQRktWQ2xCb0lGc0NlLUJDVWg3TDhPaVlVY0gtaWh2TkFScjNGQkM5TGlHTmpEbnliNHo1UmxzQUhWSnAxR2Q5UGJscnZldV9mWEZTd2k5ZkxNOG9rd1dnbUM2bmdMM1FmRWRyRU5rZTRoZjBCYXZOOFNKTkg4Zw?oc=5"
     },
     {
-      "headline": "PNC Financial Services Group Inc. Acquires 13,642 Shares of Ares Management Corporation $ARES - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQR1VoUGJjSnpjdjVBeWppcFNzYmZmclJieEQtMXp6R2tXY0xmaHBGelhUNDRFdXY5QnJKbXNXVllEYWdGWTFmcUNOSm1RLWZLejFiaFdTVDRudnR1aTBONWZqbERsQTR1UTBkaWlqU1o1TTZvNm9PZnlTMEQwdC0wdEVYamR0N2FWTWdCWnBOS1JrUGJoci14SFZmUTNCTFpLelBnUF9RRFB4MGV3Qk1WY0pTZ01TS05oN3VxWnlvUU1PRmNlUkUzY19yN3VCNXRDd2FUME5mazRpek0xVHlKVzIzMEZmZw?oc=5"
-    },
-    {
-      "headline": "Ares Management Corp (MEX:ARES) Stock Price, Trades & News - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tSTJHUnQxSzlQNV8tc21vMUJKd3Z2em12bGlSWl82RkdHeFlldTNwdnlhNFd0WGRKaGxaYVkzc0RUeFV2YkxXWlFXRG5wbTRPTEdPS3YzS3dZanhY?oc=5"
+      "headline": "321,000 Shares in Ares Management Corporation $ARES Acquired by RDST Capital LLC - marketbeat.com",
+      "source": "marketbeat.com",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY2dTdXFHZ0UtVmxwWmF5LTFtSk5WWm5ER0U0cHNTVllLTXpUemFLUktVbmhXN2N3eHJUNVUybWgwTTctckpSY0k5VC01R1JUSms1Z3lLVUFIcnlUUDZhaDNrSnlfSGFtTXdHTi1YeUFCdVhzS2o2TWVsNWhUR1Y3RVNHOWM3SmJweEN2Zm5wM0s2eENhS3llUUI2eDZtLUM4eGNKN2hWVjdsY0luby1KdU1Ha1cwZTlJS3EtbW1KTUN4dDFkOTROUjhhTDQzZzBwaHNyTEFB?oc=5"
     }
   ],
   "insight": "Tracking Ares Management (ARES)."

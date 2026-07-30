@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:58.372Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:51.914Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    108.13999938964844,
     108.01000213623047,
     107.5,
     109.54000091552734,
@@ -24,10 +23,10 @@
     114.0999984741211,
     114.79000091552734,
     112.94999694824219,
-    105.52999877929688
+    105.52999877929688,
+    104.55999755859375
   ],
   "6m": [
-    106.91000366210938,
     106.54000091552734,
     108.4800033569336,
     109.30000305175781,
@@ -158,10 +157,10 @@
     114.0999984741211,
     114.79000091552734,
     112.94999694824219,
-    105.52999877929688
+    105.52999877929688,
+    104.55999755859375
   ],
   "1y": [
-    90.83999633789062,
     87.18000030517578,
     86.16000366210938,
     84.5,
@@ -411,29 +410,30 @@
     114.0999984741211,
     114.79000091552734,
     112.94999694824219,
-    105.52999877929688
+    105.52999877929688,
+    104.55999755859375
   ],
-  "lastClose": 105.52999877929688,
-  "oneYearReturn": 16.171293520053617,
+  "lastClose": 104.55999755859375,
+  "oneYearReturn": 19.935761863476547,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why United Parcel Service (UPS) Stock Is Down Today - StockStory",
+      "headline": "Is United Parcel Service (UPS) Stock A Bargain Before Earnings? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSF9BUU0xdEtWeDR6NEJrUUg5TGpWUlFsd3ZQTjJjNWxzYU5XM19jVS1McTFtRFUxNmhBeklaOW84b3pETzRIVDRjeGxqTHhzV2t3dDZoWllzZC1IWVkxT2NiTHRPNEpPOGF5Vy16cEY3M0N1WGhJSlBsakczNWhVdWRvajdlWGpncHZDVk9ab2Q0SW83a0FYV2tiZkk?oc=5"
+    },
+    {
+      "headline": "United Parcel Service (NYSE:UPS) Surprises With Strong Q2 CY2026, Full-Year Outlook Slightly Exceeds Expectations - StockStory",
       "source": "StockStory",
       "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXhnM1pLM1NncUFVNnNIQ0FoQkZoRTJiM3VXMk10a0djX19OX1hsOUgwcUg5dDhvUEZ3SlZ6U2U0dUFGU0FhWFJtWl9zYXl5anZMMEk5YTVxOVp0ZzdpTFkwMXdvX2xfNkFVdmgtSFBCQURyNlRQQzBKS1IxSDZwYWVIZmJ0TFI0T0tGUnVMN1JPdGVPZDZKU1hoWE9LcVo3X2NoUkJrSDlVb185?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWHkzczlnTHk4Rjk0bi04WGhNLUtuZndqc2VFbjBmMzlwS2JaUHQzMDRvelBVSWlIajNMNU5OVGkwTDVKTWZROVBzWXpHMS04YW44bm5CTDA2MFNxd0NmaW5LQ1A3SUxPQkFWbEppSkZKUVFac19Mdi1pWnNMdEFQRi1mU1FyMDVkc3NhajlCTlltUzZSbXlrd3ZFYkIyekJMaFZYWXhLRElJdGJzX2dCSGFUWU4yYnp3VzRNSl9hUU9OLWJHcHJMVVFYMmRGbDVTdUxwN0ZCVjM2b1M4WldVaVJYLW5teUlkanZqcnZGUXZaV0Y1Zi1VQg?oc=5"
     },
     {
       "headline": "UPS (UPS) Stock Sinks As Volume Weakness Clouds Margin Gains - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZk9LaVJuWVFVY3RXa3MzTzdSUFdaeW5pTEZVTzAydnQxTmthOHlzdXpOWmRSN0Qyb0VzcGh3cFFhMGFsUXFMV0ZWVlV6XzR5VVBnTUFBdEU1OWJKLXoyR1doWk4zR1dXUl9oSEtMLVUxcFlHcldqRlhobEVZZDlCSmIxekNkUzQxVW5hUWdvTmdDTl82V1ZsNTFhb0I0RFN1RFBlRW9fUUpKQ0pwNmEtRDFURUIya05id2hObDJ2U2NmdUhtQlM2WHBFZlRjRDBtQ01nVEF1U2PSAd4BQVVfeXFMTzA3eEN3TWpPREVXZ2xvWndGbzg4YV8wdnFUblZnNHp5SDF1UXhNOHVPR0xVOElobXkzWlBodUVsWUZqMExjOUotbGdEcHpKUjJhbE9MUFVkVHhid1Y3NE1IQmc3Y1ViQ09YVjh0azBNWVJmUllzZmpPRGNtQTF0cjNZZFdFRURuTHFLRTNwZ3YzNGEwYUtRbG5tNjMwUEdtMVg2SFloX0hfS3FJd1RqUTVCcVNLSVFVbWFwaVpyclhMZHdEYWJJQ2JZazBZTnJidWhLOGdlTUwzeUY3U05n?oc=5"
-    },
-    {
-      "headline": "UPS hikes full-year forecasts after Amazon delivery reductions, shares drop on investor skepticism - Reuters",
-      "source": "Reuters",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWMwT0NDNldrQlJLMkdYUUdtMEVSanhJSmN5WFNPODV4aUZWR0RERE5BUTE0akJRQjhmX3Z3TldsOU1iN1BLS0JMQzQ3MTczMHZfeEI0Nm5FcGRpUnB4a3dtZzNWSDdpQzFKWFB6MWlrMGNrdlZabFFSeVBGd0lXZUJlNE5STjNBNWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMDd4Q3dNak9ERVdnbG9ad0ZvODhhXzB2cVRuVmc0enlIMXVReE04dU9HTFU4SWhteTNaUGh1RWxZRmowTGM5Si1sZ0RwekpSMmFsT0xQVWRUeGJ3Vjc0TUhCZzdjVWJDT1hWOHRrME1ZUmZSWXNmak9EY21BMXRyM1lkV0VFRG5McUtFM3BndjM0YTBhS1Fsbm02MzBQR20xWDZIWWhfSF9LcUl3VGpRNUJxU0tJUVVtYXBpWnJyWExkd0RhYklDYllrMFlOcmJ1aEs4Z2VNTDN5RjdTTmfSAd4BQVVfeXFMTzA3eEN3TWpPREVXZ2xvWndGbzg4YV8wdnFUblZnNHp5SDF1UXhNOHVPR0xVOElobXkzWlBodUVsWUZqMExjOUotbGdEcHpKUjJhbE9MUFVkVHhid1Y3NE1IQmc3Y1ViQ09YVjh0azBNWVJmUllzZmpPRGNtQTF0cjNZZFdFRURuTHFLRTNwZ3YzNGEwYUtRbG5tNjMwUEdtMVg2SFloX0hfS3FJd1RqUTVCcVNLSVFVbWFwaVpyclhMZHdEYWJJQ2JZazBZTnJidWhLOGdlTUwzeUY3U05n?oc=5"
     }
   ],
   "insight": "Tracking United Parcel Service (UPS)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:22.877Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:16.856Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    82.62000274658203,
     78.62999725341797,
     75.7300033569336,
     76.52999877929688,
@@ -24,10 +23,10 @@
     74.56999969482422,
     74.9000015258789,
     74.12999725341797,
-    75.75
+    75.75,
+    79.08999633789062
   ],
   "6m": [
-    90.87000274658203,
     86.80999755859375,
     87.16999816894531,
     86.19000244140625,
@@ -158,10 +157,10 @@
     74.56999969482422,
     74.9000015258789,
     74.12999725341797,
-    75.75
+    75.75,
+    79.08999633789062
   ],
   "1y": [
-    109.33000183105469,
     106.97000122070312,
     105.08999633789062,
     106.87999725341797,
@@ -411,29 +410,30 @@
     74.56999969482422,
     74.9000015258789,
     74.12999725341797,
-    75.75
+    75.75,
+    79.08999633789062
   ],
-  "lastClose": 75.75,
-  "oneYearReturn": -30.714352207681422,
+  "lastClose": 79.08999633789062,
+  "oneYearReturn": -26.06338652393748,
   "marketCap": null,
   "topNews": [
     {
       "headline": "META_TITLE_QUOTE - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-28",
+      "when": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXamVQeXNOcjB2bXBnZXVEaS1femJyY1FIMHJEcVhIVzBsRjB2dExOT1NHUi01X29WUnlINWxQX0c4cmZSdWdSVk00NHo?oc=5"
     },
     {
-      "headline": "Truist cuts Crown Castle stock price target to $87 on lower revenue - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2VPajhiSDdPTVRSdVBEVnRWRUhySGM0X2ROMWJobmxLcmxHb2dhNWg5ZWhvNlNaUG1FN01GTFpRa1hXbTB3N0FfejBDVkJvM2tvcDY5S1UwcFYyZFFwV2Q0ekk5S0hralhLNmVxSnUzbXlWLWd2ZF9EZWF3RnRtakphWHNlb2pMLVRVdXAxY0FfSlNoUjhzRDRlUUZDb0x4NUVsbTExWS1UWEFCX3hScENKYUxnRHk4UmFLNjRueW8zNGJialZ2QzlVY29teHc?oc=5"
+      "headline": "Crown Castle Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNelB0T1dJcW1Dd0gwTXBlaHc2NUM1eU1lYlpWUWt1eExjUVY3WDc3T1NmcjdrN0QwdlB6Z1FvMEhld2o2MklxY2ZOME9uV3EtM0lSaFFDazdxQTZDaXZRTnc0QnhpbnRONUt0Nmh6NFBuTXdxbFFmbmNQcGNjZVJSYklwQWlnZ1hZNV9OX25VOFpBUFlVSFVzS0lqSGdCNjNOdXBaUFBDNVpQLVVOUTh4bUpDMVlPWHZXLU5KRGhmMUM2QmN2V00tdm5WVHNkck5wbmoxVW5PSXpoOGFLZF8w?oc=5"
     },
     {
-      "headline": "Crown Castle (NYSE:CCI) Given New $87.00 Price Target at Truist Financial - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXkwaUdVU1FhdWZQZmFIdFN0Vk5kRk00cDZwLXVONUY5ajltUkRuamthaV9ncWdFMkV5eTN4V2pndkdfU0xDT01CaEQ4NlZJSjZOcVV4S0lNUEFRT0Jpd1VpdV9CVUdiVHk1N3FjaHlFY09Yb0lUYW1XUVdudUU3cDNiaHYteTZjTGdZcUszOTJCZnA1Y3phTEJBVGl0SXFweXlLRkxwX1BwZ0F0UHVoLVl4OHJINnFsbGdtYzIwVQ?oc=5"
+      "headline": "Crown Castle Inc (CCI) Shares Surge 4.4% -- What GF Score of 64 Tells Investors - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONjh6RVg1a3BLMWt1Ri1UdmdSckp3TFFWODJ1MXAxeUN2bGRDZ2JWRHJRLWtNbVo1YzNVREUwbUlRVnBGaVVEWWk5clUxTjVCd1pqWkcyUUUzM0FQbHM2YlJ1b1ZSRlRDdWk3b0QyUjVHQ3JjSXZSQTBZZTd3N2R6R0lxZWdSZTQyNWNNWGRaeHE3MGp6aFBnakVydTY0QWZOeXdFaXdLU0pwZEtMUG12Nw?oc=5"
     }
   ],
   "insight": "Tracking Crown Castle (CCI)."

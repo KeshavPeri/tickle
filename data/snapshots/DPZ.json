@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:30.053Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:24.265Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    298.17999267578125,
     294.04998779296875,
     296.0400085449219,
     304.17999267578125,
@@ -24,10 +23,10 @@
     323.25,
     332.9700012207031,
     343.5299987792969,
-    350.4700012207031
+    350.4700012207031,
+    360
   ],
   "6m": [
-    400.2799987792969,
     387.6400146484375,
     398.9200134277344,
     405.3299865722656,
@@ -158,10 +157,10 @@
     323.25,
     332.9700012207031,
     343.5299987792969,
-    350.4700012207031
+    350.4700012207031,
+    360
   ],
   "1y": [
-    470.04998779296875,
     475.3800048828125,
     463.2099914550781,
     466.1700134277344,
@@ -411,29 +410,30 @@
     323.25,
     332.9700012207031,
     343.5299987792969,
-    350.4700012207031
+    350.4700012207031,
+    360
   ],
-  "lastClose": 350.4700012207031,
-  "oneYearReturn": -25.43984462880872,
+  "lastClose": 360,
+  "oneYearReturn": -24.271110206087698,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Domino's Pizza CTO Kelly Garcia Sells $4.0 Million Stock - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM3UtakwtcDlBTVBEX1BiSEUyU045czlpMGVtOTJhWUxIZUFqTlAtNTVwdVVDUF8ycTlfX0JxNVU0RHpWWEJScW44ek1qTEtsQkhPQS1wTUNSQ05OR2tocTFhdTZUVlBCekV0LWw0RXJWVEtCWEQtSl9waFNMeUpfOGVmc0IxQzhqZk9MVmprbENORmpkYW15cmdIX1VpMTJwbjBSbHRHajJybUdI?oc=5"
-    },
-    {
-      "headline": "Domino's Pizza CTO Kelly Garcia Sells $4.0 Million Stock - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY0RVTVlmZEh1LWNhWFBUU01ObS1rbndweThlaldfSEdCWmktbUt4YW9CR1ZkaUg2UDFnTEFZZlNjaEsxNDNmV092TzkwY2hpNEdkejNrc3JEOE9MVjcteGk2Q2EwZ0tGRnVkZGRHanh6TjJESDBIQUJiMHAxWjE1bDViYnhNd2pRdUUtNU1ROHdGVVhKeDlpTUpoWlh0YTBZLU16ZEhQZDJxa0xmTjRVVjNoM2pnV3J0NlUtNHZUNmhVQ0VYc3BtZExXbjJXYzgzYWVR?oc=5"
+      "headline": "Domino's Authorizes Additional $1B Buyback – But Slowing Demand Sends DPZ Stock Lower Pre-Market - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGZxWGVQVUJHbVVuODJYSlFaUURlSjA1U0p3VzhMbllkQjBsQnhIQ1JfdkVsSHZNa1dLUlMzUF9HZmZ3UWt6OXpxOUZWSnN2TEdfUWktSXVGbXJhRWJtNkYyQkd4ZldTZUk4eXJaX0Q0OGxhVmFnbGFrTHlSaFZ5YUZjdWlmWGxqckxPbzBTWGdqX29MSU5ka0RZVHhxcE5HeFJCWnFZMzdpYnFnODljbExVbjlDRUlXbWNNV1IzUGU?oc=5"
     },
     {
       "headline": "Domino's Pizza Stock Gains as Investors Look Past a Mixed Quarter - Quiver Quantitative",
       "source": "Quiver Quantitative",
       "when": "2026-07-27",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXVxeVhiZXhqRW5JZm5HUzFoQUVFNTBGTGM1UzItTG1IZHpubk1Bb2o4U05BMDhfRHM2VVhlY1o1M21IaHE0Uk83aDA1TV9VdWc3QnJ0N3ExR0hVQW5KSlRfNzhUcTk3ZjRIRTJpZzVfeDViMmZDeUQyZVZOeXdHRHdaMnhpLTNVdVFybnRlWXZvODRNMzFIXzVfdjFZeHk4c3c?oc=5"
+    },
+    {
+      "headline": "Domino's Pizza CTO Kelly Garcia Sells $4.0 Million Stock - fool.com",
+      "source": "fool.com",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM3UtakwtcDlBTVBEX1BiSEUyU045czlpMGVtOTJhWUxIZUFqTlAtNTVwdVVDUF8ycTlfX0JxNVU0RHpWWEJScW44ek1qTEtsQkhPQS1wTUNSQ05OR2tocTFhdTZUVlBCekV0LWw0RXJWVEtCWEQtSl9waFNMeUpfOGVmc0IxQzhqZk9MVmprbENORmpkYW15cmdIX1VpMTJwbjBSbHRHajJybUdI?oc=5"
     }
   ],
   "insight": "Tracking Domino's (DPZ)."

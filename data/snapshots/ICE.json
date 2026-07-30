@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:41.430Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:35.214Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    123.86000061035156,
     122.91000366210938,
     123.11000061035156,
     126.7300033569336,
@@ -24,10 +23,10 @@
     143.2100067138672,
     145.7899932861328,
     148.72999572753906,
-    152.72000122070312
+    152.72000122070312,
+    154.27999877929688
   ],
   "6m": [
-    173.97999572753906,
     170.9499969482422,
     171.89999389648438,
     174.35000610351562,
@@ -158,10 +157,10 @@
     143.2100067138672,
     145.7899932861328,
     148.72999572753906,
-    152.72000122070312
+    152.72000122070312,
+    154.27999877929688
   ],
   "1y": [
-    184.7100067138672,
     185.74000549316406,
     184.8300018310547,
     184.60000610351562,
@@ -411,29 +410,30 @@
     143.2100067138672,
     145.7899932861328,
     148.72999572753906,
-    152.72000122070312
+    152.72000122070312,
+    154.27999877929688
   ],
-  "lastClose": 152.72000122070312,
-  "oneYearReturn": -17.319043002753787,
+  "lastClose": 154.27999877929688,
+  "oneYearReturn": -16.93765789999669,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is a Beat in Store for Intercontinental Exchange This Q2 Earnings? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZENXajFNNmxEOXNITXg3ckdrbGtrelZ1YVVhcWdmOFA0REExRkI1ZXJYSjNJZXRRU1FuZmU3QkVyYmZucXdVTU5wclpwQUZBYXlOeVFaTTJYVUVkdjc2TVo3am9ybTRsSkhqeUNEOEtaZmZjbHdiVXRRbERSQzZXVzdnNUlWZ0tySWRvNEpNdnVnNlVhZ2p2MWZxbm1pQUFrWHc1V21ZOA?oc=5"
-    },
-    {
-      "headline": "Intercontinental Exchange (ICE) Draws Fresh Interest After Mortgage Data Update As Valuation Debate Builds - simplywall.st",
+      "headline": "Can Intercontinental Exchange (ICE) Justify Its Premium On Earnings And Fair Value? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa0xja0doWW5udk5qemtCVDFOQ05UZUdjempYWjlvRXhILU92YVZaLWlqc2xfMVhvN1hNM0hBb0pyQnJJTHZmRzU3cWo5bnRscW9fR1JyR1lXdFFodzVkVkpfbWRiV01HenZnV0MtYWl6eUdWbDh3eHhyT0RidW5POS1IYTEtSmNVbWhsVFRRRUV5Vkg2UlhRbjJyUHJXcl9Sa2x1aVM1bWNSN0J0d3V2U29idlBOM0RWUlQ5T09ZWVJLYkhoX3V3TEZBbnZJMlNyNURhTkVuYkdIUHlrRldqaTgwT1dxZlRFX2NF0gHwAUFVX3lxTE5HanRKamJyM3FjalR0OUZyNndqOGl2RWpIVkhqSkJHYzVIWGJGRDItUmtkVHhKb3doUjBlaXk5bktsVmhpTkpReGRyQmw3Z0lFM0ZfYWhVcmVoOXNEdTRPZjRCQWhiMmprRWU0bm5veVZJRzF3SFVWc1ZwckNTX09OcEpoZHpldktxT1FDdUNyLXkteGpJQ0t6UTdpZkZlRjR4ZWVPY294RUtkMlIzbGMyejJMRENqU1RVem1rSDZaX1NfUkVHQW9wQUlvRGNPeUxnREphTU9MMVd4UHpiSVgyT29kSnhDT0tlQ1BzRnlucA?oc=5"
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdzE3a0toOVNiMm1oMXFVQUN5MWI0RnBUY3RoX01ac0lXZFh6MUgwcnBPT2FHVExzYV9MMDdSTEo2R3FYcEF4NU9INktMRVBjUFpsVU5WLVBQci0ydUVCS1BJT2FwU25WWWxKaEFIN09JUk9PZERfZjJMYVRmdk9Dd2xOdDEzQl9zcmFsUVloNk9kTlV5LVZGN3lDZ1EwUUQ4dGVVWW5qOXRNMTJPeUY4Y1JuNkZ6cTlVRk9zOGc0NFRLQ1JZaUhRTHU5MjMyM0x5NnNCR2RaZ2c3c09aLVhxRHBJOTh1Yi1kbWNN0gHwAUFVX3lxTE9IVjZ4VXBJcnF4SS1FRDd0TXB1U21JXzZwZUtfcWp4V3RkQTJlUWU3WXBLTXJ4c2Q2ZkJfSHdKTjhEbUNQbGk4MTFGNVpRUmxFMnZuZGJEMHdiVl9MUWpjNkY2T3gyYnM0QU51VHdjVE1IbzBHY21zU3R4N2JfSFp4RXkzQU9yWkxDRnRYWU9YQmpIY3JiR01YclU4ZUY0M2hkTjhCd1hLSGtjZWtKS3NNWjRraHFBY2ZHdDJMTXg0ZkdDd3UyUzhEZDVUOFpUUmFlQXk1MlJCeWg1Yk9iS3kxVHF2SVd3NmJaU0RZQnRRZQ?oc=5"
     },
     {
-      "headline": "Zacks Industry Outlook Highlights CME Group, Intercontinental Exchange, Nasdaq and Cboe Global Markets - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZkJqSmExV3VOUkFhamtnMmdzOG1ScjQ2bGJkcHZmOEc5bHZMNkdmSTMxMzlXWUhBQ2NZZ3Y3Xy1xdnowY09FZmVMTHI2T3NSR3ZjMXZURG5IUXBsRk5ReTFpUWRZb3hmSkpqVjE4eGpTWk5oaUFjUW5CSU9xTXQ4dWh0X3pTa19YQndsSE5oYmNyWF9TVVlWWEotMHhqRkx3ZWFMQ1lGd2FMZmFycGVTYUtoVnI2anp6Q2YyOTB3VFlELXg4SHBoZ0otUUU3cXdqTzVxczZrZm5DTU1iRDZlVHR4NkRBMEVodWN2aDBKYlk0aERlWmhvQXBjcU03bktoZHlpazVsLUZXX1hEdnlzaUJQWQ?oc=5"
+      "headline": "Intercontinental Exchange (ICE) Reports Q2: Everything You Need To Know Ahead Of Earnings - StockStory",
+      "source": "StockStory",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNDJSWVVtb2JWZE8xYUg1bnVsR2liOEp2dk9OcFBfZG1NMU44OFBrbTlLUDRWV05BQU5Xamt0ZVFfTWw5T1hWTUJ6N1ZmTG1ReVVPdTZzTmZRU3FBNzBnN2wyZEJVVVpaUXJFNzk2V3UzYVRoMWN0NjhRcmVpTUd6S3k2emFKQU1TWl9yNDY3YjZXX3Jmd1dmQnlRVk11ZW9yWHctRjdsRmgyYjN3U01NNGNod3g0MXlWUk5EUmgwVTR5b1BYRFdVbVJaMGJUZkFVby1pSDJpbV95Zw?oc=5"
+    },
+    {
+      "headline": "Intercontinental Exchange Inc. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVVdwQURzRm12WnoxMy1TcUhWaVJYWEx1VnFFTVZLckFWWm95OEVuWWQyYURiZ1VERHc5dWVmYXB2YlkzVzNwMmVLUXdXRWotbmQ5VC1mM3hUQXByT3hUWHkySlk4aDE5VEZzOFdPLWxrZzV2bEM0X2psNWItRElMRmtVU1JwOHBTcnRjX0haVWtONVg5OVFkMlo2UmVjZ3ppanVzd0h2TFNWSVZVSjhqZzhRejJTZEpaaHpTRVNERE9NZUZjVjBrbGpPSHUwMGJ3MTNKMlVoWlVIVjhUUUtiOHVyLXoxOGdud2hDcjJVZWRKbDZRLXRlM2l2MGFaMjJJempxTjdOWXhreDFZNTJVSU9oUzA?oc=5"
     }
   ],
   "insight": "Tracking Intercontinental Exchange (ICE)."

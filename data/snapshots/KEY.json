@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:43.721Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:37.900Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    23.260000228881836,
     23.149999618530273,
     23.049999237060547,
     23.25,
@@ -24,10 +23,10 @@
     22.719999313354492,
     22.649999618530273,
     22.510000228881836,
-    22.6299991607666
+    22.6299991607666,
+    22.18000030517578
   ],
   "6m": [
-    21.170000076293945,
     21.09000015258789,
     21.690000534057617,
     21.56999969482422,
@@ -158,10 +157,10 @@
     22.719999313354492,
     22.649999618530273,
     22.510000228881836,
-    22.6299991607666
+    22.6299991607666,
+    22.18000030517578
   ],
   "1y": [
-    18.389999389648438,
     18.15999984741211,
     17.920000076293945,
     17.649999618530273,
@@ -411,12 +410,19 @@
     22.719999313354492,
     22.649999618530273,
     22.510000228881836,
-    22.6299991607666
+    22.6299991607666,
+    22.18000030517578
   ],
-  "lastClose": 22.6299991607666,
-  "oneYearReturn": 23.0560082209944,
+  "lastClose": 22.18000030517578,
+  "oneYearReturn": 22.13656658337771,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "KeyCorp stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM0VUMmo0R2tLV3dsN3JBcDdoZG5xMmVVUEl6ODhpZWlYRzFJbHJDTWtpak5WT1RyTDVXd1RFYUtLTWxXS1pZc2tZSnZwLS1kd2g3aGs2UGpKTEtxTWQ2OGpOaWstV2VtcW0xSUhyMzRUSHpab1lab3RmRTNDeEV3aVpNSGh4Uy0tWld4R1dIWWFzcnFDb18yMDZLUGxHUXAtX1lfSmt2VUctYmpIWDJkQkZpcllsbW5NNWtSZmdzbkZBRHRCcUdZUjlCdk1rTE8tNjBVN0pxbUo?oc=5"
+    },
     {
       "headline": "KeyCorp (KEY) Stock Looks Below Fair Value Even After 110% Gains - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0pacjJzOWZ2bjdLbU1IWEhtOHBmLW5KTGNSSWxwY3NhWllfOEozS2Z5S1BMNjRUOVJHRFc5ZHE4US0ybl93dnhDN3oyQ1FBSjlWRWkxU1JvNzRDZ1dudzZSWVA5NUctRHFrOFhYcHU1NVVIZ0VNNjlBSVpvWmRjcGI0UktHblhvd281Ujdqand3M3hKRGJ5Qlp3?oc=5"
     },
     {
-      "headline": "Lombard Odier Asset Management Switzerland SA Purchases New Holdings in KeyCorp $KEY - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNakNEUlFhcGpJRW9ILU4wVWdabTVEZE5UcVg0cFdOS2JnWkp6QldKMmNZRlkxMG95SGpSSzRCTmpLclRqU1FtZ2YtbDBhdXZDSzVjWk8tZTduNGlHUWUyU3NXZ2lSWXBQZTY2djl6aHJGU1h6S3FiVDc3Zlh6OENTNm1JdzFTSV9MdmM3QWZwdWFncVBDMzhBaEVYVGppaThtdmtwblE1WkpweDctMnVQajVqclR3blJEdUI5R3c4bS1BQkw4VnUwVTRyWVNXRXRQeHk5bXMxamlrU1Na?oc=5"
-    },
-    {
-      "headline": "KeyCorp stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQVdQUU12RVduTmNtMURqLWVvb3gxT0NqckI1aXc5LVdxdTNpeVJFR3lWTTk5VHFjZ0FrUnA5T2JPNTJpLTVEckFLWWU1TVhsLXdlblZyNVZIZHlNWjhQeGdOSWJtZ25ZU0xfNE9DcEtnck5BWDY4WFlvWTVJTTFneERuVWZOSTBUQUJUTVMwRjFQQklJWVBpWkJ0d3k4b1R1Sy1ZYXVwVzl4anpRRENYLUREM0UzN1hpaElxZDgxOXVrUjg?oc=5"
+      "headline": "KeyCorp Has Lowered Expectations for HCA Healthcare (NYSE:HCA) Stock Price - marketbeat.com",
+      "source": "marketbeat.com",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmpIV2VvMTFWb201OEZCUlBjYkNkemxVbzYxMkZaU0JGMUYtSFFhX1p3aE01ZUJyd1BFSVhFbzd3aHBWcXVRemJaOUczQTdHS0lhRGlnMXplVGkzWWpybXBSd0ZxNkJzdWlpdHloc29OSy1WLTZUU2tPQzl3RVJyT0haTGk0XzdyV1V2Rlo3djhiMS1lbGFPbXFMbm8wZWx0QkJSRGlaWDh0cVd1T0ZYUC1YWFBuX3NhNG5BZmk3dGZOTVU?oc=5"
     }
   ],
   "insight": "Tracking KeyCorp (KEY)."

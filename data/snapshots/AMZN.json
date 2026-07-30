@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:17.371Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:10.778Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    232.69000244140625,
     240.13999938964844,
     238.33999633789062,
     241.6999969482422,
@@ -24,10 +23,10 @@
     233.66000366210938,
     232.11000061035156,
     231.38999938964844,
-    230.86000061035156
+    230.86000061035156,
+    226.64999389648438
   ],
   "6m": [
-    239.1199951171875,
     231,
     231.30999755859375,
     234.33999633789062,
@@ -158,10 +157,10 @@
     233.66000366210938,
     232.11000061035156,
     231.38999938964844,
-    230.86000061035156
+    230.86000061035156,
+    226.64999389648438
   ],
   "1y": [
-    231.00999450683594,
     230.19000244140625,
     234.11000061035156,
     214.75,
@@ -411,12 +410,19 @@
     233.66000366210938,
     232.11000061035156,
     231.38999938964844,
-    230.86000061035156
+    230.86000061035156,
+    226.64999389648438
   ],
-  "lastClose": 230.86000061035156,
-  "oneYearReturn": -0.06492961345875295,
+  "lastClose": 226.64999389648438,
+  "oneYearReturn": -1.5378637244782023,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Here’s How Much Amazon Stock Is Expected to Move After Earnings - Investopedia",
+      "source": "Investopedia",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2FNNlg3bzdfUGs1OExFNHlzNFhjTmd1Y05uMWtyRWFpZVJSTmo3QWpVQUY1MFROQ1BucWd1cEppZFZibjVFczhLWjNKeC1uWFpsQW9Ca0x0aFdwcDFvaUhWRUJyVVdSblZGMUZWR2JEcThRQ0JULXBSSDBRWEsxaXNTV1ZNcUUwRzE5Z3JLcGRQcEdCS2ItZzZaMFZ5SUp1S2xxV3JaWlBSLVhoM3ZrbUlRYTU4VFM1?oc=5"
+    },
     {
       "headline": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - CNBC",
       "source": "CNBC",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmFTZV9PdnYxTnNKT3RHemp5WmNNRUdLTko4b1pEdURWMkE0eFg1WEFaTGNFUEVZV080RXB1Y3BPbjYxX0QtNnAybzJObmVFS3oxYWtySGlYRzN1NGFGaGgxX3hLNkx5bkh2dHY3U0EtZFIxeXRwWHA5R19sWjdfSVJRb1U3cXhNOGJiQzhMTW1uSU1vNmRkbWJFVzBmd1pCZFc5c1ZCdUPSAa4BQVVfeXFMTzh4di1UM0VFcFFLX3k2bjZKSjJSVFhmNjB4ZmNuNXdUVnlRaXRsQnR3Z2lvNzZESnM5blB1dkgwbW9ieUJscFdHTm1pU2pPdmJBb1k5c3FOckhzbURUUUZtRGI3SGotQl9sTEdWRXNrU3BCV215elhab2NiM3I3TmhvYlpFcmplZkJ5MnM3Wlg5WXBJTU5CTmR2azNuOXZvZ1ExbzZNbmhZUFM3WWJR?oc=5"
     },
     {
-      "headline": "Going Into Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVhlWkV1eFFZaGlyQVJZQjNONzRicU5DR0xkVHRYXzFRX3BFTm5vWGVfTF9ZcURwMkJhXzNnci1xOXBUV1FNSUZ4VzNLSGltWjcweFFwT0NaNEM0R01XaE55TXF2NkpENjJ6RjdDQkNFQTJaU2NIbXZKZjAzZm13M3NSM1N0Nm1vRDRqT3I1VFI0b21fcC0zSnNZNmxjOEVqakh0LTNnNmdWRUE?oc=5"
-    },
-    {
-      "headline": "Here’s How Much Amazon Stock Is Expected to Move After Earnings - Investopedia",
-      "source": "Investopedia",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2FNNlg3bzdfUGs1OExFNHlzNFhjTmd1Y05uMWtyRWFpZVJSTmo3QWpVQUY1MFROQ1BucWd1cEppZFZibjVFczhLWjNKeC1uWFpsQW9Ca0x0aFdwcDFvaUhWRUJyVVdSblZGMUZWR2JEcThRQ0JULXBSSDBRWEsxaXNTV1ZNcUUwRzE5Z3JLcGRQcEdCS2ItZzZaMFZ5SUp1S2xxV3JaWlBSLVhoM3ZrbUlRYTU4VFM1?oc=5"
+      "headline": "Amazon Stock: Q2 Earnings Could Highlight 'Prescient' AI Approach - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjlxSjFHa0NGVmV0LU5UNmp0NXNvTU5GM0lCQWRneUVXbFJ3LVYtSVd0X05vZk1PSmRwWldyMWt0SkdSeEV1TEJVSFRKTnZpRWNGZUppXzNZSUlPazVpM2Y5eGlCekZWMUlBMnAzS0dRVGs0ZHBHdGdxMzZySGlOX0Y1VGhmV0xCNVRreS16WQ?oc=5"
     }
   ],
   "insight": "Tracking Amazon (AMZN)."

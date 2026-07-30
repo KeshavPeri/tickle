@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:56.072Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:49.657Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    50.4900016784668,
     50.58000183105469,
     49.81999969482422,
     50.88999938964844,
@@ -24,10 +23,10 @@
     51.20000076293945,
     51.7599983215332,
     52.119998931884766,
-    52.9900016784668
+    52.9900016784668,
+    52.310001373291016
   ],
   "6m": [
-    49.9900016784668,
     49.13999938964844,
     50.02000045776367,
     50.29999923706055,
@@ -158,10 +157,10 @@
     51.20000076293945,
     51.7599983215332,
     52.119998931884766,
-    52.9900016784668
+    52.9900016784668,
+    52.310001373291016
   ],
   "1y": [
-    44.72999954223633,
     44.2599983215332,
     43.709999084472656,
     42.959999084472656,
@@ -411,29 +410,30 @@
     51.20000076293945,
     51.7599983215332,
     52.119998931884766,
-    52.9900016784668
+    52.9900016784668,
+    52.310001373291016
   ],
-  "lastClose": 52.9900016784668,
-  "oneYearReturn": 18.46635864243852,
+  "lastClose": 52.310001373291016,
+  "oneYearReturn": 18.187987702298116,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Truist declares common and preferred stock dividends - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSDlRbWxYNHBLR2JSMEhVbkpLQ0R5aFhvb1l1VmRxQld3dlY0ZkdVcnpvRnhKUnp0OU54QjV1aThod1ZCZjBfMzVFUWMySktoei02eURzam56VnBhRUxjN1VIWjAwNFAzT3BxNTdhRC11MDZSY21GSnFvcGFxWC15dU1TRWFNU01sNHVZbkhSeUhxZVp0ZWdDeUZYRjJRRnM2NTdYTklJMFRkYXVj?oc=5"
+      "headline": "Truist Financial Corp. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdG93YXpmcXAzYjJMUVM0YlhDY25VQzBxZnJQaWl0TzRjaUlZMndNMndLRENkLXU5aUplTldxbHlhOUVnYVZteUlrbnNLd0V6bnJzTHhRNHhyUlFGRC1NRW5FOWFsbjFrTVByUFdVbThwcnVoRkZ4Z2N0eGc3ZDdFZy1QdXpySl9WSi00Y1ZpZU5sZkJBSEZ1c0duLXN6SU9fSVR2M2s2dkpvRTFNTmRteDJRQWhqbzBqWTNYbUphbERPYVpoeEt0S1VFbnNkdlNKRTB3T0tmS2toeUozTS1iMDF5X1NEbTFsQ084?oc=5"
     },
     {
-      "headline": "Truist Financial (NYSE:TFC) CEO Sells $693,770.00 in Stock - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeEwwUVo3VVFpTFpiVGxBaUVGMXFveXVkTHZEWUlvb05EUS1WZEVoSFJmN3dOU19XOVV1YkhpTlgxZzJGUXViWkNfVnNFQmhCcDluUWY2THlfZml4ZlpaeXRKWlVGQzdCdDd0ZnJiSjQzS2JVMWZha29tNDJ4VTkxczd3S3EycE41dUlWUmNlRzNvT1B3dFF3alMwOFgyZENDYlRGUTBJbWFoUQ?oc=5"
+      "headline": "Truist (TFC) Stock Could Be 29% Undervalued Despite Wealth Leadership Change - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWmlxUnUxQk9jclo2b3JPV3FvRUpfSEtVTzkyMFdKSFI5UHVpY18xNi04NkZfQ2pINlZxY05zcnlreUpyQnVHR2tNUkZRLTNsQnlOakxCOWNUYW9HdmNZeHF4Y1p0Q1o2cURJX2l6MHp6NjNSWldFcEZYdzkxc1ZNN1IxU1VKVWdMT20wcGVTNnVJbTNkVDV5eHpNMC1BNnVrY0hWdXQxNUJ4bHJ2QzJ1X3RTWUpKY1pDczYwR3pMbC1vM0pRVDJ0V9IBzgFBVV95cUxOSTZEQzA1WVM3NDZfSG5TQmxjVS01SGZ2UDZnY3JtSFJvTmpXTE1CSHdFVEtxUE4yUktVRTl5UkVQN1gxZFNoeXIxckFVdUxxMm9tbDRPYnJpYldQQ0NBRU1GZWY3X3pXUDBqQktQdnJNQU05Y0RndVFQcnQwNV84ZDZBMTQ0RnBja1RNYXV3elFuNHNMeG5IdEhWV3JzWkEyeHMtTWUtcENTcVFLRy1Sdl9xYW9GT1h5aHQ0a0t0dGRrYTZ4QVplTDRoeHpMdw?oc=5"
     },
     {
-      "headline": "Fund Update: New $57.1M $HON stock position opened by TRUIST FINANCIAL CORP - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZmdjb2F1SUdzZG1ZRVZoVkFVX2tkWUdnQ2JSZTJ6aGZyMHdCbm9xMDhIMFhmVGlsaEMyX1dKVjdUNGpqNVo1dmhmU1lMZVQ5TWFNTlN4TFRqQ3g1QUViQVY0amlqa0ZtdVZUWHdxZzJXS1p4SHpnMmtfSFhyZGR4RWNFTDV5b1NVOHNWUGxIZEc1LUFTWjU5ck1tZVJUcld3VDZmanFDcDNQcGNWRk4xcFJrN3I?oc=5"
+      "headline": "Truist Financial (NYSE:TFC) Price Target Raised to $54.00 - marketbeat.com",
+      "source": "marketbeat.com",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTkdFYU90RndlNXJqdWR5blBqdzBxUWZCV28yS1dWcnRsNmZack5iVjFKTzBSd1pkTC1xdXk2R19Vc1Bzc2VQYUx1UnhzQkVDWFhBMEhybDU1Sm1aTVdWenl1dnFfTHpfNGN0QmlyOGMwVE9Oal9SZzAtN0F3cnpCSEV1ei1rWW41ZUNLUW1WSm13MkQtMl8teG1abWw2S3d3c1RzWThCRzFrQQ?oc=5"
     }
   ],
   "insight": "Tracking Truist Financial (TFC)."

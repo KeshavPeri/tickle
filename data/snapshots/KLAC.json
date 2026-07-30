@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:44.238Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:38.431Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    248.63999938964844,
     278.3900146484375,
     301.7099914550781,
     266.19000244140625,
@@ -24,10 +23,10 @@
     218.72999572753906,
     210.52000427246094,
     203.36000061035156,
-    190.8000030517578
+    190.8000030517578,
+    170.19000244140625
   ],
   "6m": [
-    156.78199768066406,
     148.6179962158203,
     152,
     150,
@@ -158,10 +157,10 @@
     218.72999572753906,
     210.52000427246094,
     203.36000061035156,
-    190.8000030517578
+    190.8000030517578,
+    170.19000244140625
   ],
   "1y": [
-    91.60900115966797,
     92.4990005493164,
     87.90299987792969,
     88.66400146484375,
@@ -411,29 +410,30 @@
     218.72999572753906,
     210.52000427246094,
     203.36000061035156,
-    190.8000030517578
+    190.8000030517578,
+    170.19000244140625
   ],
-  "lastClose": 190.8000030517578,
-  "oneYearReturn": 108.27648007995086,
+  "lastClose": 170.19000244140625,
+  "oneYearReturn": 83.99117982974141,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "KLA Corp posts Q4 beat, shares tumble amid underwhelming guidance - Investing.com",
-      "source": "Investing.com",
+      "headline": "KLA Corp posts Q4 beat but shares tumble on limited near-term upside, soft guide - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkNPTXJNbEQxZmNZWjliQjJQR0RTVWxwakhHNVZXcGFxUFNPU3U1MTgxbjhEdHU1Zzk0YUJpYXo1NGhIRVRFZjY4YkgwR1ZMZ1VtTXBUemIxdlJyUEZnSUpZQk1ldDRodlhVNlFJRlBKd08tVFdaWGMyQnE2NVR3bmhaamZ2YVpGNUtrUHNrd3I?oc=5"
+    },
+    {
+      "headline": "KLA falls despite Q4 beat as analysts point to high expectations - Seeking Alpha",
+      "source": "Seeking Alpha",
       "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnNGT1dOc0ctc0RJdU50OWIxeV9fTVdMOFZhVXZTT3ZOaDFjVlh4WEdTdmc4SmJ1akxhVG5PdS11dGNUV1dndGRuaUtWMmR1R3lHTVl3aDZyb1RCRmRGdDFjdzQzb204SUZmWTV4bTJDLVVtZFBYcmFISDU4QjhYaExvTHNOSTFxRDFwQnhITk5MWFlnaG9aZUtGQUxQc0YwSVREY1MzM05qcEVzZm9Na0NyNXFQdE9VQjdIUklR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWVRXeFh3WUsyTGVYeDhGWjR2eFNDQmlvdHllNU5iNXpmYjJhSTBiNktESkp4ajdfTmttYjVwOTU3VVI3RHRVWmxJSDFDMEEwM3Q5TFNvcHp2d1BLMlRNdEdsRXF5VExtWDg1LWVjaWszUTVEY21uRjJjNEk4Qjhadk8xdVVlV0YxUEY0S1ZmWERvNjdyNk05cGZNNFJIZ0RLZm1aaQ?oc=5"
     },
     {
-      "headline": "KLA Corporation (NASDAQ:KLAC) Q2: Beats On Revenue But Stock Drops 10.1% - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
+      "headline": "KLA Stock Dives Further After Q4 Report — Here's Why - Benzinga",
+      "source": "Benzinga",
       "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXBlWm9Pc2RTRVIyVG5WOTZuMW1KRmZhY0xFdXpJQjNTaV9pakFUeHF0b1lILVMxQXZjbnc4d0JCUnhMaUxubWxHTGZPYzVYRDVsQkF6RkxwTnVmVXU2SXFJRXlyUXF0aGhDRkJIYjNueF9FSU9UYjVDWmM4U01ILWJ5VXFWQQ?oc=5"
-    },
-    {
-      "headline": "KLA CORPORATION REPORTS FISCAL 2026 FOURTH QUARTER AND FULL YEAR RESULTS - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUUE0bHd5V1JJNHJ1TFlwTmRTQnlpazdFdlg5Rmw1OG9nTzlaMWM0MENFMFRfV2cybTNiMlhLX2VON1FLbWljYUw4VVJyNUZuTGZpMFd6VDhoNTRUMzV0WXk0Z0ZHMUdqSkJXenUxRExxS3g2X09Mc1U5aXFpdzRSMGJtTGhEaE5yMnk0VDZPcGhPelJoT1NkRHNWZ29pN290LXBkNHhPWnpnd0hqbktreGlNdUNrLU5KbkJnLWYxSDRkYmtEU2E4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObF80aFktem9OS01LRnFSaW5mbnZVT0hmelNqYmswc1dUN1lJcGJsamE5ejM2OXlhSElWcXZCcTk5aTBuQ1ZYNU9sT2I1ajZTVVgzdEx4aE1VbmtPa3NkbTRCZ0JFYm55dTZNdDV0azBZeEo5TTBkcW4yYzRVTTJ1WUVHcHpmNHFuZ2NoVmpITldMWERXSTFKLVA4MmEtd0czQUtOSWVaMlpTZw?oc=5"
     }
   ],
   "insight": "Tracking KLA Corporation (KLAC)."

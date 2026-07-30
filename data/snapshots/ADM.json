@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:14.738Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:08.215Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    76.79000091552734,
     76.87000274658203,
     76.4000015258789,
     76.61000061035156,
@@ -24,10 +23,10 @@
     86.3499984741211,
     85.91999816894531,
     83.19000244140625,
-    83.18000030517578
+    83.18000030517578,
+    80.37999725341797
   ],
   "6m": [
-    65.18000030517578,
     65.87999725341797,
     67.69999694824219,
     67.12000274658203,
@@ -158,10 +157,10 @@
     86.3499984741211,
     85.91999816894531,
     83.19000244140625,
-    83.18000030517578
+    83.18000030517578,
+    80.37999725341797
   ],
   "1y": [
-    54.20000076293945,
     55.20000076293945,
     54.18000030517578,
     53.849998474121094,
@@ -411,12 +410,19 @@
     86.3499984741211,
     85.91999816894531,
     83.19000244140625,
-    83.18000030517578
+    83.18000030517578,
+    80.37999725341797
   ],
-  "lastClose": 83.18000030517578,
-  "oneYearReturn": 53.46863308911999,
+  "lastClose": 80.37999725341797,
+  "oneYearReturn": 45.61593504068215,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Archer Daniels Midland Co. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQ2NOQmtGNTFmYnA2aVRZNEZVejlTUWZkVXlwSk9kNnVVbGNvbU1uQWoxbnNTQTNLWTFnMEhwdGQxVElqOWhEbkF5bTZlaHZVdFZWcjg1emtWbnFmenFkUDNZYmpNdVpVekRkbW5RblV4aDhlTzRHRmlyU2doV3RhWVhQaDZMR2xXSndscUZPRERVRUREb3dEcmpwanhNQ180a09hZ2VvUUs5NU1EaEI3WTVXbmFoUTVXaXVzNTczckl5ZEJZLXRPRGdBNGJVSjBYWkk0T2JudUlCVXRPWjZXNVRDOHVhOHdrZ20wcHdxejcyYXUt?oc=5"
+    },
     {
       "headline": "Archer Daniels Midland (ADM) Stock Still Looks Priced At A Premium Despite A 63% Five Year Run - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWnFIZi00cFM0Mm93elNmbnUxeGFIQTktX3M1ZGNvbVpZVkFSYjNrY1JNcEQwdERIdXg1N2tFNlZRMUxzSTFEeEQ0aVc4TDJhNVl6aWxIWUpNZXotOGRsM3Rza19jLUZzVkZPTFVSVkUzYXJvNGZlQ2w0cUo3d0J3LXpKQlI0VVFNT3QzWGY2dWdUTXA0bXB5U3g5QXhEdw?oc=5"
     },
     {
-      "headline": "Lombard Odier Asset Management Switzerland SA Takes Position in Archer Daniels Midland Company $ADM - MarketBeat",
-      "source": "MarketBeat",
+      "headline": "Lombard Odier Asset Management Switzerland SA Takes Position in Archer Daniels Midland Company $ADM - marketbeat.com",
+      "source": "marketbeat.com",
       "when": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMm9IUmRtdVZlUVh0UVZqNWRvb0stQ3A0cDVmdmdXam9hYklOYjBLYk1vVzdxOXFXMEtseVdkUnpTXzh1eFcxeER2RzRtR0wxQWhWcjZCRXdOLVp6MEdwcFhaTjdMUmN1VWotTUdQUC1SR2ZOanlpZ2U4TGhwbzNtb2VNOE1PejZiZVFIejNqRElfc0FBSUJnbWV5MF9jZFNZbFhmOWtOd2dWWURvWm0xREkxZ1hra3N1Mk9OQVNuZDI4VzREdlRpX0lpenZDMzhEZkw4c3FTYi1JM2Y2WkNQeEhSOVRIMW9TdWNFZDRhYlE?oc=5"
-    },
-    {
-      "headline": "Archer Daniels Midland Co. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNWtQWm5Fc1dPTzhqSDJFNkxfVmVFaEdvd0JLZXBpY3VDMHBueWUtcXNxRmZtbTZOdVdhQWpRMWRGVUYybnFqSll0WndGUmFDeHVxcDlBdDRqbUhOQTNiTGl3eVg5NWF1bEhiZ0VSbHNyOHM5Q3NDM0t6VGJqLTYxZ2ktekRJMlhpd1h0bnI4cGhOVWlfS2Z1dmY0dVpGWTRSeXJmM3EySnNydkN0X2NSM2w0aVZXUm1qRG5ZUTBnYUQ3U2FmeVFoeXdLX0xNLVhGdEswN3FxSGxvNnAwU3VLSlRQaUpVRF9GYkt5UExfc3M?oc=5"
     }
   ],
   "insight": "Tracking Archer Daniels Midland (ADM)."

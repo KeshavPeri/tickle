@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:15.025Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:08.507Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    196.25999450683594,
     195.24000549316406,
     194.4199981689453,
     199.75999450683594,
@@ -24,10 +23,10 @@
     205.25999450683594,
     209.75,
     225.91000366210938,
-    237.3800048828125
+    237.3800048828125,
+    245.25
   ],
   "6m": [
-    265.69000244140625,
     253.8699951171875,
     257.44000244140625,
     269.7699890136719,
@@ -158,10 +157,10 @@
     205.25999450683594,
     209.75,
     225.91000366210938,
-    237.3800048828125
+    237.3800048828125,
+    245.25
   ],
   "1y": [
-    306.6099853515625,
     308.1400146484375,
     303.1099853515625,
     297.0199890136719,
@@ -411,29 +410,30 @@
     205.25999450683594,
     209.75,
     225.91000366210938,
-    237.3800048828125
+    237.3800048828125,
+    245.25
   ],
-  "lastClose": 237.3800048828125,
-  "oneYearReturn": -22.579166947015807,
+  "lastClose": 245.25,
+  "oneYearReturn": -20.409557882376898,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is the Options Market Predicting a Spike in Autodesk Stock? - Zacks Investment Research",
-      "source": "Zacks Investment Research",
+      "headline": "Is the Options Market Predicting a Spike in Autodesk Stock? - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0daaUgwanE3SDNjYmExajJpUG5INHZVWTY5R0VyRUJYM21NOVVRS2ozUzJnWkZYNXowZERNNTkzZ0E3bkNlZkFEMUh2di05ZnlqbHIxUWprTVNfak95ZzdHWWRERUxadmo4V2pLVk9Wem5ocFc3Vi1GMGJsNUFvOE5mNFVBUTBrV3V6WGwzSXgxVnM3QVgzaG9hbmhlUVM1?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVmhUZDc0WkVvcWNFYzJyRndoMHhRbFNJbEo3LTFWRFZLLW1aTVlBbnB3cGpiMFRBOTJxbURDRzJ4blJycmtHU2l2V1gxaFF3WTVfTm9YZ1ZMQV9pNmJBd1BpN1pRd2xHVWx6LTQ5LUxfc1FpOU5TLTMtUXZ6QmR5QnZhVGF2Zlg0MGZOcU9RNUwxS3NKWTJBYUNEZ3QxZ2NULVlVd2VGNXl2QQ?oc=5"
+    },
+    {
+      "headline": "Autodesk Inc. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOT2k4U3VJQ1I2bW5EUHd4UGhmaGNBcXkxVG5ucC1Hb3JNOGVJLW84ZERad1liWmxOWWVsbWZ4Um1DNlhtUElmSy1LVTB1M3k0U0t4Ml9UaG9CaGtJeTlsMlJBMUU0RE40bkRsQ2VHa1A3R1pKQXVYSFZSRDdBdGxyN09rRkhJTFdvTHZtLWJFcmFSSkVlWXNHWmw5VWh2YWJhbV8zUWhlcjJveGUyZTZMSFBMQU1WckY3TDVRUWY2Q2JZTk0teWVZdHJmdWFNdEJiMTk2eHpBaXpSVDFZZDAwWHVTeTdYZzVzcmw4ZDVsNFFpLTdYS3k5WlczekdnZw?oc=5"
     },
     {
       "headline": "Autodesk Shares Rise as Analyst Upgrade Adds to Improving Sentiment - Quiver Quantitative",
       "source": "Quiver Quantitative",
       "when": "2026-07-27",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmFESi1Yc2g0MUIyZ0Nmck9oWjJRUzFpN1RseEZlYnhzTkUzWGtBM09JNEZMWFhfUTJQdF95Q0dmNjl1NHhRR0FNRlRpaVhSNUNVb2xQTEg1S1ZXRzBwUjVGQlJ2QzdZVVRPX3FjX0FnWWIxTE1YejhYeDJXSE5xR0FRZDRMMzI2WVk3ZWdZVmpoTnVmZGd6Zy1HVndma01yQnc?oc=5"
-    },
-    {
-      "headline": "Stock of the Day: Where Will the Autodesk Rally End? - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVZoNjAzSlc1MGlzZkd6eTY1ZHFnMFFJdDNDTVlobGhMblh4UldtZFZwYnhDU3dla0xCcVItRzBOS3YtbEZ3MHdTY3lsenBZa05maWxSc1d2bEFTeHZTaC1pRzJtdU51LWRHejR1LUtjRmxGZk1FUzRlRkdDZVQ0VUljVzNnOE9iTGRrUFpwOVB3V3RsNWZQQUpCWjBWWm05ZkE1NThKd1lHQkdFeTNfTVVuVzFKdw?oc=5"
     }
   ],
   "insight": "Tracking Autodesk (ADSK)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:15.634Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:08.986Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    75.56999969482422,
     75.12000274658203,
     74.52999877929688,
     76.58999633789062,
@@ -24,10 +23,10 @@
     78.16000366210938,
     79.05999755859375,
     79.16000366210938,
-    80.83000183105469
+    80.83000183105469,
+    80.19999694824219
   ],
   "6m": [
-    72.93000030517578,
     72.44000244140625,
     71.88999938964844,
     72.30999755859375,
@@ -158,10 +157,10 @@
     78.16000366210938,
     79.05999755859375,
     79.16000366210938,
-    80.83000183105469
+    80.83000183105469,
+    80.19999694824219
   ],
   "1y": [
-    78.91999816894531,
     77.41000366210938,
     77.62999725341797,
     77,
@@ -411,15 +410,22 @@
     78.16000366210938,
     79.05999755859375,
     79.16000366210938,
-    80.83000183105469
+    80.83000183105469,
+    80.19999694824219
   ],
-  "lastClose": 80.83000183105469,
-  "oneYearReturn": 2.4201770228384945,
+  "lastClose": 80.19999694824219,
+  "oneYearReturn": 3.6041766621159037,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "American International Group, Inc. $AIG Shares Bought by Healthcare of Ontario Pension Plan Trust Fund - MarketBeat",
-      "source": "MarketBeat",
+      "headline": "American International Group Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNGlzLWw2WjcwZkRJenZVbUtjUlMtLWVRdHZvSU9YdWZkTVJFRllPLW5zeFVTRWhrWWhTc3Q5ZVpsWVlqRWx1ZFBKdU1CNmI5QkVtQXJPZWUyazY5MTkxdkp6NTRmbWRIRlBTWnVDWUNJeHBQR0Rlc3k0NGF2NnFYWF9KMGJuTGFQNml3dEU4TnZWR19IM1UzNi1HT3RiNWZhUzdWN3JEcW5BNVdKb2dodnJTVTZOcDBwOWR3WkdBcGdqWVo5VDY2V0tCQzltTkVCZXZQcWgtYWZYWTRUb0JDdnRFaU1tSHdfZVBhNlBwRlBGRmRp?oc=5"
+    },
+    {
+      "headline": "American International Group, Inc. $AIG Shares Bought by Healthcare of Ontario Pension Plan Trust Fund - marketbeat.com",
+      "source": "marketbeat.com",
       "when": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd01NLWRJYTduLUhQd2Y1b0swMGNpdDNMdExFQVBwS2k0dzhXdnpqWlpseUNEU1ZQeE1URTU5ZE5ZTXhyQW11ZDhDenlYQU5uS1A3eXVrUlZIVzJyRVpJS09kczVNMTJncDgzcUlJVldXYnRHVXNPeXFybVBFdElFczVpWi1fQ045SHJSLTNZaGt3SWhQSlBsU2NjUVFRakZHeFgwYThidVZReFdvTmhPaDlfcEFHbkdaemJudjdyZW9QWlI2b2ViY2l2QU1fU0tsZXM1RExBbUdWVUF2YldlMmF6T0JDeXBRRUtMbXpGc2FrQQ?oc=5"
     },
@@ -428,12 +434,6 @@
       "source": "Yahoo Finance",
       "when": "2026-07-08",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdndGSUk4RjFWeUpBeXlqa1R1YWhfQ0xHdnNCRjdWa19DWW5NZkM1ZnY5eGZkdFplY0otam5FYTY5RUJVcWFtYnNYNEFGUEs1ZGxPRUFYQmgxRDVwZ3ZOblJUMWNZRm5EN2lxeVdWdXZPSzh2N2NQckItTVk3ZkZ1Z3dZdW9ZaVZzM2pVV2d3MGdZMWQtTEFpLXRMUjFMeTY3cGFJ?oc=5"
-    },
-    {
-      "headline": "American International Group (AIG) Lifts Dividend, Is It Still A Bargain? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY1lFVXRnWWkyb0l0clNqSWF3S3dzZXBHTWM1WnM1M01wbDdocEM4a01CeUI2Rmx1RE95aGx0aDgzVG1tNFdDNmZ1RkZrZjdYR29KYUlMNktIR2t1djltbTd1ZXM2SUtYMnBRZXI3WVlicHlqd3B5ZW1WSHRLNks2TEx1am54LWlMZ3FtVFFGZzd2dUoyTDM0anpINldZbTV1X1kzOWtJQV8wZDBJdi1Sd2xsMGMxOUIyMFc0NXpQQWhFTnN2SUZKb0JkeVY1cVF6ckp5U0lJZE5mTkZp0gHiAUFVX3lxTE9fLTAwZFBIZ3JkQXpxNzRLMEFoWm90c3MzM0Z1MmQzQU1pVFFUdjFRR2xQaTBQay1qaEh1ZlE1cTg1MXhaWFNuMWpkZVN2S2I4UnhpSkVkQVRXRTZmZnRiM2JMWlpmbXhoQnZESUhTczNUcjRtR053X3A4MHpqaWJCR0xwOHYxZUpsVkFDdzh3UERjZXNJU200SDhWWlhEdDBVZlpOaGhZTWNsTGNQcnZzNjBXV29EVEpEMGhWY2NMR1NZWjZqLWFzWDNDb1YwX0VGREptLS1Yb0VHWUQ3V1Y3WlE?oc=5"
     }
   ],
   "insight": "Tracking American International Group (AIG)."

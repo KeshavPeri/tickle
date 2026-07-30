@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:48:00.168Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:53.669Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    100.44000244140625,
     99.41999816894531,
     97.08999633789062,
     96.11000061035156,
@@ -24,10 +23,10 @@
     96.7699966430664,
     96.91999816894531,
     99.69999694824219,
-    99.0199966430664
+    99.0199966430664,
+    99.01000213623047
   ],
   "6m": [
-    114.33000183105469,
     111.27999877929688,
     114.12999725341797,
     115.05999755859375,
@@ -158,10 +157,10 @@
     96.7699966430664,
     96.91999816894531,
     99.69999694824219,
-    99.0199966430664
+    99.0199966430664,
+    99.01000213623047
   ],
   "1y": [
-    109.37999725341797,
     109.52999877929688,
     109.02999877929688,
     107.93000030517578,
@@ -411,12 +410,19 @@
     96.7699966430664,
     96.91999816894531,
     99.69999694824219,
-    99.0199966430664
+    99.0199966430664,
+    99.01000213623047
   ],
-  "lastClose": 99.0199966430664,
-  "oneYearReturn": -9.471567809924979,
+  "lastClose": 99.01000213623047,
+  "oneYearReturn": -9.604671560586992,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Regal Partners Ltd Has $91.16 Million Stock Position in Wynn Resorts, Limited $WYNN - marketbeat.com",
+      "source": "marketbeat.com",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUtURENHUFJTekZDTlpNLTZRV0h1ZGQxYjB5anRKV3ZBYi1XdUVKclVISjFjQTZoYXlldDJNSHppUmdHbHV6UGlJdjlUSFJOdzdUeXQxYTFxTEJuUDVhSHJ2aXM1cGhzbkpJdkpnVjlGWmEtQlJ5QWVtQ050V2JLQ3ZSZFZYVjdnbk9FWWhxQnd2Z2xGYWFvUW5uR3k2c1NqSkNOd0E5b2RKYjBJRWV1eEZucGlVdTlHY3g2cVdNWUhxcHl4MWN5b25EbFZKcExsUFhRZElZSQ?oc=5"
+    },
     {
       "headline": "Mizuho cuts Wynn Resorts stock price target on labor cost concerns - Investing.com",
       "source": "Investing.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2ZLNlpyNmlkNF9pSkpwSTZ1WWVRaVNPaWZiNm52ZEZOaklYOGRFa3NsWDY2ZHNzOHJabThaeXJLMGtNamJlY21FV0ZhNEdsU2wySm56dVFScU5jSWNTbVNvZHgweUFUSkpLWE9FalRaVXg4Z1lUeFRGczFBWEtOcVZJRU9iUzNWSVRpZmpzUXI0dnhHR3c4QmZGMWJiMVNWNTZUVGJBb1Jfa1B4NFN3Sk1qeTlGOFhKRzhsaDNYYndnWkJt?oc=5"
     },
     {
-      "headline": "Wynn Resorts (WYNN) to Announce Earnings on Tuesday - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1JJTUZOT0haR0N0LUxRU3pDSmtwQ0tjdVRZUE1HS2JTUnh3TVFZZEpiMDBsaUR5NTIwQVdncEw4R0FETENFcmM0dGNZWWhkRXM1MGgzbk5qQlY2ejVoZ0tmS0dMZGs4dWlVeHVGSHNHYlM2VE8wOUdwNGtwTUk5N19hbFVSVzZ6X0JRZWsweUVHMDBaZ3lLLVhwU1J0blBXTGxISVFR?oc=5"
-    },
-    {
-      "headline": "3 Reasons WYNN is Risky and 1 Stock to Buy Instead - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vRjBlWlk3YUd4YmNiUW1ORE9KVDd4SlllTXhtajlaLTBaX3NqdFlzaWVoQl9PTTB4SGNHRFB0WkNCcTNrTnI5RkhKckhhbmtuRm40QkhBSlBGS19tZGV2ektoNzlyblhia0ZHQnUzdUZkR2NteXhrSEx3VQ?oc=5"
+      "headline": "Wynn Resorts Ltd. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM3llcFV4aFE4MmJHeC1QY3lLdTBxRW1qLUNsNlY3VWQ0S005Uk5MeE8zUHN2NjJjczZCQ1lRWHlFelBEOHMwUGctUWJ4aHdyd0w2RWQ5MzVISjEyVlVFUFpGQUY5eHJ3aVdvMHR6YWx6cFpRRS14Q3Zyd3ctbzNzSUlNSUZPZnBXcDY1RXg3c3hPTWZiTE9KRlBzbVhSb2hUNW9NZ09qZ3hvcmxWV0FVZlV1ZzM0SExMT3B5aHo4dGNZY2k5NFZiTTlkb3NvUnNxTDZ1VmF3bmRfRjZMem1Qc3RDQk1EMUk?oc=5"
     }
   ],
   "insight": "Tracking Wynn Resorts (WYNN)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-07-29T04:47:42.702Z",
-  "builtDateUTC": "2026-07-29",
+  "builtAt": "2026-07-30T04:35:36.665Z",
+  "builtDateUTC": "2026-07-30",
   "source": "yahoo-finance",
   "1m": [
-    126.62999725341797,
-    134.9600067138672,
     132.7899932861328,
     129.6199951171875,
     133.75999450683594,
@@ -24,11 +22,11 @@
     132.10000610351562,
     133.69000244140625,
     140.5,
-    155.83999633789062
+    147.4499969482422,
+    155.83999633789062,
+    165.64999389648438
   ],
   "6m": [
-    230.3800048828125,
-    230.6699981689453,
     221.8300018310547,
     232.44000244140625,
     237.1199951171875,
@@ -158,10 +156,11 @@
     132.10000610351562,
     133.69000244140625,
     140.5,
-    155.83999633789062
+    147.4499969482422,
+    155.83999633789062,
+    165.64999389648438
   ],
   "1y": [
-    350.3999938964844,
     343.79998779296875,
     338.6499938964844,
     328.5400085449219,
@@ -410,29 +409,31 @@
     132.10000610351562,
     133.69000244140625,
     140.5,
-    155.83999633789062
+    147.4499969482422,
+    155.83999633789062,
+    165.64999389648438
   ],
-  "lastClose": 155.83999633789062,
-  "oneYearReturn": -55.52511442567859,
+  "lastClose": 165.64999389648438,
+  "oneYearReturn": -51.81791745838097,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "BlackRock reports 7.5% Gartner (IT) stake with 4.99M shares held - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNEJKaEc0S3hVOEEwQTlUdk14SktQa3MtcUlXbmtHOTRidFMwbUo4SG1rdm5WNzZkVDR1TzNXR3ZyZW1zVUJzSldMR3BDVWRRSzBRSWxjU18yTGtkMHVadjBDYmRBT2g3b1pKNlJ0U1RpVTFTcGxkWnpkNmF3TEpPc1dfa3dCZjh4eVFHRGFEcmoyZUdTd0NldXgtWGtvVWROeTBqRHkxdERqOHhmQ1EzOVp1VFlpcVRVM2xwN2JwU2ZSQQ?oc=5"
-    },
-    {
-      "headline": "Gartner (IT) Stock Looks Discounted After Fresh Agentic AI News - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHowaXVVb25laGNPV1VxR3UtRTc1aF9vSzRkWFROMjNkSkduSEVfNDRkV25ERFplb1pmMXB2RXlPby1FWHliYzFEcDh0RExBWTV0T2daUzczUHowckc0Um1sYWF0OUxkMjllWUp6eGVBWjhCWHd6aTBJQ1ZwQjZSYUpYVDFMeVVDWjRudW1mUTU2U0JNLUZoOU1SZlgyMlV2SlRR?oc=5"
+      "headline": "Why Gartner Stock Is Climbing Higher Today - fool.com",
+      "source": "fool.com",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU042RUxFbVRFVi1YeV9ILTQyT2gyblQ1YjZUMmV4bGRpcGszb0NKSHh2WXU2STNaVlItZEdONjA0QThuU1JOOVcxVGlYNTVvMUVnRUZvVF9FM2JYTmxSelVuZ1Z1cUpQT1VSbl9JbmxHNXltelljeUQ0WEF1aDZSTjVIc3BZMExuX0tQQVFR?oc=5"
     },
     {
       "headline": "Gartner Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRzIzZjdyQjdZdHJyMXJETzZ0RF9JSTc4X2tOVGxXWUxqOGZKYWpqcmg4V2ZIZDlEQXpMTFZDeXZBV2FDOHQ1OEl5TC14R3ZPUWZIQW1nSmY5eThINlhZR3ZxaGVfU3R1cFF6Rkc3cVJDbE9QMHh0YUVZQXN0cmtnV2VCRUd1ZnVkNF9GVWlSb2phRlZDbFlyRUowWVBHbEdJaFhpT1F6VVVxUGdxTHlDeXNkTS1DVXBDZEFjQUVSczQ?oc=5"
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTnZLMm5ta0ppMEUxd3pKQ2xBWFFZYWpLaWR0RzFYS1kyaGh0SFJ4Z0pHbi0ydFZNa3ZMOGpaTzdBUGE2dlBWRHgxX0Y0cEJzMUpHOC1rZjROSl9vMDNCY3pzRm9FZ3dwODRtMC00YzhsaTM0STJPZ0UwTW5uMjBYbjhpMU1GWE1pNlhPcUFlT3kwV2xCNWN6QWpQNjZSeW9qV1FvRGdVR0s1dk8zaFIyVkExeWdVNVY4ZnMwV0UxbmpfY2dxa3k5dDU2NmRXcFBBS2p6U0otN2Y?oc=5"
+    },
+    {
+      "headline": "Gartner, Inc.’s Stock Price Skyrockets to $165.65, Marking a Robust 6.29% Uptick - Smartkarma",
+      "source": "Smartkarma",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPejYtTFNkNmFwQVZsUTVDa0UyaDA5UHRzNXNFMkhwSl9ZU1lmTGJPT2dIS3E5VTF4emdNRmVvUEs0b21kcHppTWRZc2lhQ1QwWjZJaFVDdVR1ckVlQzFQeV9qUks4aGxGcFllU0pIaFBEa0xocHFlTWRFQTNrbTNYSUt1ZnhtdTFlTDYzOUFNWFJlWlRKSjBrYTF2bWx0NVlkd2tJMXU1ZnphQ3VaVXI3NTdzSkcyWkhhYVJTSWE2WQ?oc=5"
     }
   ],
   "insight": "Tracking Gartner (IT)."
