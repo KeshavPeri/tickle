@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-30T04:35:13.860Z",
-  "builtDateUTC": "2026-07-30",
+  "builtAt": "2026-07-31T05:00:30.308Z",
+  "builtDateUTC": "2026-07-31",
   "source": "yahoo-finance",
   "1m": [
-    22.020000457763672,
     21.31999969482422,
     21.690000534057617,
     22.649999618530273,
@@ -24,10 +23,10 @@
     22.399999618530273,
     23.34000015258789,
     24.3700008392334,
-    24.770000457763672
+    24.770000457763672,
+    26.75
   ],
   "6m": [
-    19.3799991607666,
     19.709999084472656,
     20.06999969482422,
     19.84000015258789,
@@ -158,10 +157,10 @@
     22.399999618530273,
     23.34000015258789,
     24.3700008392334,
-    24.770000457763672
+    24.770000457763672,
+    26.75
   ],
   "1y": [
-    28.049999237060547,
     21.760000228881836,
     21.959999084472656,
     22.440000534057617,
@@ -411,12 +410,19 @@
     22.399999618530273,
     23.34000015258789,
     24.3700008392334,
-    24.770000457763672
+    24.770000457763672,
+    26.75
   ],
-  "lastClose": 24.770000457763672,
-  "oneYearReturn": -11.693400600750238,
+  "lastClose": 26.75,
+  "oneYearReturn": 22.931984001061664,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Baxter International (BAX) Stock Is Up Today - quiverquant.com",
+      "source": "quiverquant.com",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMW1uU3gyOTFHSHRCNnE2Y1VUTUtXMVc2eEQ1RmhsVVQ2bWNudklhQUMxMWZNZHVhVWNrd3hvbWFRRW9scjRCd0FEbExCcWdpVWZlV185ZGFreU5VRkxDQ1pTdW5oUEFleEZZYzBmbXl2dGdfUlpPVU5nZ051a1YwRVVzMjRIZVluS1VRYkp3?oc=5"
+    },
     {
       "headline": "Baxter (BAX) Stock May Be 19% Undervalued On Cash Flow - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd1g0c2pGVi1Qa3Znd0dLNDNwQmtIS0dzeW1VU0RtRnJ4bERxZ2lzTmY4bnZtQVNEYm5fMF9Ca3dUNjNfZG5XTkV0OVZJb01FMVBCNEotUkdYSU9hM1VMWGdJSUltQVJTVVJJVWdMakN4TUlHZGpyTDd4d2VXTWNRX1o3V1A3dzNsTGh1MlBtVmk0QQ?oc=5"
     },
     {
-      "headline": "Baxter International Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGdXOE0yTThzVXdJM2RISXhhUkVGbVZ0eTMwN3JwT1cyNWJ2NWp5YVV6cUxQXzM2TFlVTENoeUZOU29WZWs4TXZKbS0wUURzeHYzOUI1NDZZN24wcUJYYlFsUXlJbGVQMmxRa2JzOTRwUmV3ZFo1X0ktSEQxZTZqblFaRVJySF9TUklqR0lyUHVBY2NvQmZIUHJNYmg5LU5vbUw3Rk5ZR3JxRVBtM0tzQUhwcXBGWXdIX1U4eGdRNnllWnhwY0V1N1gyWXRMUWRtVUE?oc=5"
-    },
-    {
-      "headline": "Baxter International (BAX) Could Be 19% Below Fair Value On TD Cowen Target Lift - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS0VZSVcwWXIzZWVudjMzUERtMjdjeGdiYWFYUTlYWkFLR0c5Yld4cUpqR0l4S3pOSmNmOVFTekxxSFNXWG9LODM4TEdBRVF0dnFhcFZ2d3ducnFCR1FWTWUwRjRqQW9oZWNRYlNnVkpvUG9FdVB6alBOLVdpSlV0ZEhKTl9manlBOS1Hd0JnaVdQQ3lOQVp0Q05nUHdmWFFjNjRkaHFUbGEtWkJlazFYNFV0a1N0eUQ5R2d2Q0F6MlYzMWRiZGE3X1pTMkxZa1YzLWVV0gHYAUFVX3lxTE1mXzJ0TjdJdWkxQkU3enNBcWk5VEpqZnhXdjk3b1FKS3BhRVFUU3phS0hjWlFqYncyUkR1TE9fNWhNTmdRaVNoM2N2WG9tTnpaVkxmV2xkOVVfODhzN0RWV215QlF4V1Q5WTltRk1DVHFzNW1HN3hUb2R1TGVVTXNmekJOT2FlSFh6MlRHbXR6cnJyQXg2NEp2T0VKVmZmUE5TR1BQZ25kLXhwNmZiQ2hJNm1uVGVTM2NaWlJ1WTlLTmJoTVQ0ZTc0Ql9wUEJtMXBRd1E5bnZhYQ?oc=5"
+      "headline": "Baxter International Inc. Stock 12‑Month Price Target Raised to $23.1, Implies 7% Downside - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVnhPdVZRM3hfcWtkMTIxRTdtQm1WWHVITUVCa3dCeWIwYVoyd1IxSkEwUkRIX3hoTXE0ZlBqaTNkcVJyQkp0T1c3aDVwRUxFNDFPcElTV2dleTRIQWdJMlhucmVzbFc3N2x2TWJCaGR1LWRpdWZYOExDM3RsNk5TWUx3bWtUbGNOY09SY1JXYWZIWElKRWpnazhtTVVjSHg1cXluZDFGY2hRQ2NfNlg4WGEwV3FBeUV2d2tNdkR4bnd4czN0REQ2MmFPakZqclM0c1Uwc3lSTXpaNzlfZ3c2YUF3?oc=5"
     }
   ],
   "insight": "Tracking Baxter International (BAX)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-30T04:35:51.605Z",
-  "builtDateUTC": "2026-07-30",
+  "builtAt": "2026-07-31T05:01:11.800Z",
+  "builtDateUTC": "2026-07-31",
   "source": "yahoo-finance",
   "1m": [
-    75.5,
     72.16000366210938,
     72.66000366210938,
     74.43000030517578,
@@ -24,10 +23,10 @@
     65.94000244140625,
     68.18000030517578,
     70.73999786376953,
-    71.19999694824219
+    71.19999694824219,
+    70.37000274658203
   ],
   "6m": [
-    83.72000122070312,
     84.26000213623047,
     82.55999755859375,
     82.30999755859375,
@@ -158,10 +157,10 @@
     65.94000244140625,
     68.18000030517578,
     70.73999786376953,
-    71.19999694824219
+    71.19999694824219,
+    70.37000274658203
   ],
   "1y": [
-    87.63999938964844,
     87.75,
     86.91000366210938,
     88.43000030517578,
@@ -411,29 +410,30 @@
     65.94000244140625,
     68.18000030517578,
     70.73999786376953,
-    71.19999694824219
+    71.19999694824219,
+    70.37000274658203
   ],
-  "lastClose": 71.19999694824219,
-  "oneYearReturn": -18.758560652555246,
+  "lastClose": 70.37000274658203,
+  "oneYearReturn": -19.806264676259794,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Should You Buy Uber Stock Before Aug. 5? - fool.com",
-      "source": "fool.com",
+      "headline": "Uber Technologies (UBER) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWw5T1RfNDhvTjB1ZWdycVZLeDZ1T05zQTlEa1hsNm1uSko2dnZjMlFyanF5LWptcmNucGVFQXdvQzYtYzNWY3VCUHVRSEtaWGJEd3NldjZFb0tXYXZJOE1zTGRUWjNMenF2T1QyeV9TRk55VHRNWjd3VndPLTZETE5lck1nc2pmTWdKc2VWYjJJQWM0b3ZfbWVza0huaFoy?oc=5"
+    },
+    {
+      "headline": "Should You Buy Uber Stock Before Aug. 5? - The Motley Fool",
+      "source": "The Motley Fool",
       "when": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0hIamkzb1ZELXRuUmhHY1IwZF9rZVJLSk1lVm5QOVkxYVI0MksxNjNoSnRlZjlpU0lwODRzQmVRb25MNnl4MERBd3lSLTRNUHVVelNUTXZrd1lSTFhzemlteVhkdUxVOGtwQXZISV9ibUIxWThSZzBSem0wbW1YUzNNQVpHYjBz?oc=5"
     },
     {
-      "headline": "Fund Update: New $16.6M $UBER stock position opened by Ethic Inc. - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUdqY3l0Z0FjQWp1QlZnbTNkMUQyOTFTQmIxRmNKMW1DT3diTkxHZlZHSEs3NlR3aTRQVjc2LWhGT0dCV3ptbFI0TjhQTjJCZDl5Vkh1NnJnSnk0T1l1WTUyaWtOM2xqblkyMFZiOGJPSEFJa0hjbkgxb3R5aFJ2bkpPNF9FWGpYLVNMWl9fdWd3ZUF4dWxFdW1RR2hjdmNqc2owRXpaZw?oc=5"
-    },
-    {
-      "headline": "Uber Technologies, Inc. - Uber Announces Acquisition Offer for Delivery Hero - UBER Investor Relations",
-      "source": "UBER Investor Relations",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFRvQ3BZelRVSVFYQUlWaGlBZDdCSUJRN3hVU2V6RnhXV0g1c1JXMXgyRzZlYkNUeDBMblhNZWFOd1V0WWx0aGFmbnU4dllRaXRrQ3A5R0lXa3NlOWZDNU9aQnd0TmhXcXI3ckphRlVialVXdDZYUDYxWEtNa29MSnA5SW5wbVAwZXE3b2k4OEVIMGlhR1YwTnlpODJGWWRIU2V0MXpLdDhHenVPbmYyQ3NkR3dNeWRvaGFJUGpNMFJhbGZlNXlYdk5NVk9jdw?oc=5"
+      "headline": "Uber stock hits 52-week low at 67.15 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnYtOGU3WVhPUm1ZRllVbl9wRm80Z1lrWTRUal9oUjZZZXA3NGlZWUJHb255QndhMDFiVy1FMGxaNmZnWnlTQUxFRGNWVFMxSkhDNzlkTS01ZkNvdmFMamk3OXpvRHJGeFlzV09zQUk5MWRMZEVrVkNPR25XMzdnRTRTTjFCSkhHR0JrY3FPRzNhNXZKbWR3T3MxTQ?oc=5"
     }
   ],
   "insight": "Tracking Uber (UBER)."

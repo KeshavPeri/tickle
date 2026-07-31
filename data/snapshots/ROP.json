@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-30T04:35:47.216Z",
-  "builtDateUTC": "2026-07-30",
+  "builtAt": "2026-07-31T05:01:07.066Z",
+  "builtDateUTC": "2026-07-31",
   "source": "yahoo-finance",
   "1m": [
-    334.79998779296875,
     338.3900146484375,
     354.67999267578125,
     364.20001220703125,
@@ -24,10 +23,10 @@
     367.3399963378906,
     375.0199890136719,
     390.9200134277344,
-    408.07000732421875
+    408.07000732421875,
+    389.25
   ],
   "6m": [
-    403.760009765625,
     404.6600036621094,
     407.4800109863281,
     407.6099853515625,
@@ -158,10 +157,10 @@
     367.3399963378906,
     375.0199890136719,
     390.9200134277344,
-    408.07000732421875
+    408.07000732421875,
+    389.25
   ],
   "1y": [
-    552.3400268554688,
     550.4000244140625,
     542.1099853515625,
     546.4199829101562,
@@ -411,29 +410,30 @@
     367.3399963378906,
     375.0199890136719,
     390.9200134277344,
-    408.07000732421875
+    408.07000732421875,
+    389.25
   ],
-  "lastClose": 408.07000732421875,
-  "oneYearReturn": -26.119783560245445,
+  "lastClose": 389.25,
+  "oneYearReturn": -29.278709532329227,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Roper Technologies (NASDAQ:ROP) Price Target Raised to $415.00 at JPMorgan Chase & Co. - marketbeat.com",
-      "source": "marketbeat.com",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVlVISHFUV1d3T0lIYXY1dEVudmRBa3Y5Z2dxY3hKR3RNNUlZWUJYU1FtbEdWZ1h0NTBLcXA4bTh6MXBfX2Znc0drWEVQdm5KejExYWxPYUxabnI3d1ltaDMyTzNYbkZzNHBoanVGVkxmLTUtZ29kZzM0bFozR3lqWU5ydUVSYlFPM3NVdC1FYU5SeUZZM216WFpwSTVuRjNqbVZqWXN3U2hUYjVWRjd0b2hEOXJfYU5YcDhuNGJTcjQyRXZtLXFiZEs3N20?oc=5"
-    },
-    {
-      "headline": "Independent Director Richard Wallman Sold A Bunch Of Shares In Roper Technologies - simplywall.st",
+      "headline": "Why Roper Technologies (ROP) Is Up 14.9% After Q2 EPS Surge And Completed Buyback Program - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVXZFcGZxbFFIVDM2TnlTSU5JcGY4Nkx5YW5wYmdpNFpWbVpONVYydmlmVXh2cFBDTUZUSjlVekJ3ODBDUlpEdzllU2xSMFAtTWRtNWE0NHUtUVNucWlmdUxHV241MEgxMVV4TjExNktGWHNxYzc4NldrcDlKc3dBNjBjYWNEbkNqM3ZvdlUxWmxCN2RaTnZNcWFFeDFfMjJ3dkZvam1pelRSSGhCQnBYdW42elVkMkhmQWIzeHM5RGJNUGdUeXBQbi1yeDB1NEJ40gHWAUFVX3lxTE5md2JLZVZDVUpMTUxkdExMVEc1S2tDZXFOWEtjdHV4MTlrVjQtUFNCNWpBMll2a1BzOXowZlNHR09jS1JHUzQ4cWJrMzdDYjVwelB3RXJEajR5aGJwVE9rZG1oa0RUYlVOSmZuODVXZVhkZVdWQXpKRE4xV095V3RCVW5KamlEOVBGMGZyRmV6SUF1VUczUmJST2h2Qk55WnMySWdDZTBHUUZSNUNiLWZnd2tHWVllRkMxS0gybDB3aUlYV3hpTXl0YjRkMGlDZzhObWhtQXc?oc=5"
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYWZBbFVWbjRlZElUVnhLNEFSQlpncWNFb1hxYmtaQ0d6R0VmUWZDZ2xaUVVnSDctQndmTnUyVWNnS0FrZFVtVlBMbEwzVW5IY2hsalFjM2ZnSlhSdUUwQ3JJZG5RUWN6Q2pBM1pESFFTUDh6YXhiMWNtUjlBQ1phSnZSTVpTRG1oU2IwNGk0Skliei1mR282TlM0YnhnSnZObm1FVWYzenZtdXhmNlNxUWdhYzNQdUVWc3g0SW9JYUg5VG1ncllUYmtTMXpGYkNmUkhHY2xn0gHWAUFVX3lxTE5hZkFsVVZuNGVkSVRWeEs0QVJCWmdxY0VvWHFia1pDR3pHRWZRZkNnbFpRVWdINy1Cd2ZOdTJVY2dLQWtkVW1WUExsTDNVbkhjaGxqUWMzZmdKWFJ1RTBDcklkblFRY3pDakEzWkRIUVNQOHpheGIxY21SOUFDWmFKdlJNWlNEbWhTYjA0aTRKSWJ6LWZHbzZOUzRieGdKdk5ubUVVZjN6dm11eGY2U3FRZ2FjM1B1RVZzeDRJb0lhSDlUbWdyWVRia1MxekZiQ2ZSSEdjbGc?oc=5"
     },
     {
-      "headline": "Roper Technologies Stock (ROP) Opinions on Breakout Patterns and Insider Activity - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnJWWGhid3lMVzhaTU1HUVVxQ1owZDdGUUFJYkFXS0Y1bE5FbGcwbF9YYW1CcnRfTFFXTkhSbU1yLVRHSmQ0dmxMWGJYVmE4U05KaGp0ZV9UNEw5VVNRRUJkeGhkcEFDMVkxU005dFNYMkUyRXpiWnM1VnFvR3ROeDVNYnNiN01XTkMyMFNkUS0ySEtrOWhqVzJYSUtvUEFqUUVFUDRuR0dmVHVNal91ZEZmVGF3RFZkSGc?oc=5"
+      "headline": "Roper Technologies (NASDAQ:ROP) Passes Quality Investing Screen with Robust Profitability and Cash Generation - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcXppeWt6Q1hkZEhhOWpJNkdGU2FkaFB2SURJd0p4aloyNndZQVdnckNiQkZHeXdUR3JlVmxRUmJ4by1vR2h1SkxfSWtQNkVrMmFkZkZjdGUtYkJJMmhhdnVMX2tDZUN4MFNuY2xTOVdqSnQtdXQ5eHVYMnUtU3ZLRVNndVIydjBSaGlSZ21IakFDMDlYMmVFekV0djBRZzBJOWYxTk5zTHZTQ1RSWlgwSl9nQ2xMQXY1eG9SOEFYWUI4SjdOcE9XblRUM2tyRi12eUZuNHlrS3E3YzJjUkFNZVl2Z29aWmluQXVWcDVB?oc=5"
+    },
+    {
+      "headline": "Kensington Investment Counsel LLC Sells 3,006 Shares of Roper Technologies, Inc. $ROP - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSWlGd3BjdXh1WUlFM0otcWRTT3BwLUpqLU5rSnNSZU9mQ1FnZ01NZTBjQ0tSOG85NnpqZXg4LWJJbE45bm03QlgxU0RFRHdxUGswQm9xRlpXTVpibWVDblpfSXUwa2x4UVNjSzNOLWFqekFLcXpyb0dBbW5KV3ZSWi1MRUZlNTkwUG8tOF9rNVNCRUduZEVXaUtCSXdKWDFFeVFuWEZBOC1NWTc2WFU4eGlpeTdZODlLZ3RtX0VjVW9halFaSFB3ZEQ0UTN4b1dScVBxYjlicHN0dw?oc=5"
     }
   ],
   "insight": "Tracking Roper Technologies (ROP)."

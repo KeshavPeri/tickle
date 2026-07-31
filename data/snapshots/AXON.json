@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-30T04:35:12.809Z",
-  "builtDateUTC": "2026-07-30",
+  "builtAt": "2026-07-31T05:00:29.709Z",
+  "builtDateUTC": "2026-07-31",
   "source": "yahoo-finance",
   "1m": [
-    510.6000061035156,
     560.6099853515625,
     593.9600219726562,
     597.0399780273438,
@@ -24,10 +23,10 @@
     502.3399963378906,
     525.47998046875,
     547.6500244140625,
-    531.2000122070312
+    531.2000122070312,
+    525.2999877929688
   ],
   "6m": [
-    620.52001953125,
     610.25,
     607.2899780273438,
     613.1400146484375,
@@ -158,10 +157,10 @@
     502.3399963378906,
     525.47998046875,
     547.6500244140625,
-    531.2000122070312
+    531.2000122070312,
+    525.2999877929688
   ],
   "1y": [
-    748.5999755859375,
     755.489990234375,
     742.469970703125,
     744.8800048828125,
@@ -411,29 +410,30 @@
     502.3399963378906,
     525.47998046875,
     547.6500244140625,
-    531.2000122070312
+    531.2000122070312,
+    525.2999877929688
   ],
-  "lastClose": 531.2000122070312,
-  "oneYearReturn": -29.04087235759591,
+  "lastClose": 525.2999877929688,
+  "oneYearReturn": -30.46896787738969,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Axon Enterprise Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "headline": "Axon Enterprise (AXON) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance Australia",
+      "source": "Yahoo Finance Australia",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWGdNaDRFSE5scTd2N1VGa0VWLTdWUUdaQ3NaV0pKOTRPTzBYQ2tXQjUxQVJLWThPSTJZdDdPZTBFU3NyYjFEcWJYczZpOHVHZE95Q3JJNHVLQURxNUdiQmR3NWQxSnJyZ2wxOVBBNDFoRHJvYXJPQU9OUEJ3OHdjYWc0bExnRnJ5?oc=5"
+    },
+    {
+      "headline": "Axon Enterprise Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaUNSMktpQ3ZEYnhJeE5jTDdOdWNkNkxLRHUzWElmbG9hb0hlR3BoY0s5YVlqM0h2bWxXaFNRazhsNHlqQzZaODBmd3d0M2FYdk5TYjM1TjNFN18xeVBGTWtEQWRGb054clFCN3I1dktzZUFLekpYZzdNc1dacTF0M1VnbFZ5ZnNIVUpOdG02QnJaV1BsVHZCcUxrRXcxc24yWEVJZWNZM3BqUFgyN29na0pReG5HZVhsT181Q2g2VGRvN0o0Q1NFWDJMZzd1UUU1NHB1eA?oc=5"
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZTdpNUZPQ2h2X0M1N1JOLU1NSEl5cnE5Vnd3SU8yZUxyTWpYamNTdnFnb0ZPU3NERTNuZmwxRjVtUnQ1U1FfRFFPaDJHblJ1d3FjX3AzZF9Sd1pSUHEwU0JEV2pEVmJEN2VMa0NHckNWT01uV29JbUR0cjl4QnJCRjhjZ205bWJLaGRpS2tkUUF6Y2hTaEtTbU9HVGl2ZmxlOC1uNC1VZlhNWVhJc2FvRHFPc25nd2JhVzdTeTdPZTNOTG9JY3htcXBuVzlPeURBOVg4Rm91cWhZbkRCQWItX3k0QQ?oc=5"
     },
     {
       "headline": "Axon Enterprise (AXON) Is Up 7.1% After Recurring Revenue And Margin Gains Strengthen Visibility - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMVJuUC1ZVEdjS3YyR19fQ0hTSjJUSkJEZ3E1YUhuNExibjRPaDdpdjhISnJIMFZKTXVkYkNBcGZBRFBoT1kxOW1WeGdxaUlrT2ZiTTZHdWVMQW1XOGRlcmQxRU9Ub1hJR0RqZUFQank4ZVRoNkJEQVdFaVRkVWpGMlB2Zl9aazI3UlljMDhHOThXYTNhd2dDTlhfMzVjMk5IbVZZQzFPbVVnc2c3OER5a2g4d1BaNjRVYWlsWGp2RzRLSWFfVm1jNGZRVWprTklRZHV0d0FR0gHbAUFVX3lxTE9CV2xmSk5XWHd2TVVUd1YxWml4dFFqd0ZUVmdyQzdRVElkQTlIdlVWQXVKUmVzcXNDZnpVamV6V0xWRlZVU1Z2TE5JQnNWcFhmaV9vYzRnNWk1ZGsxWU9wRmVmREdvczdTd0d5aklGeEZQLTc3VTBJeU1xRFRVMVpLdXJLT3NpLS02UkZGNXpURzc2enJQdmZFOEExT01PVHVOc1RlRHBSUGFFUE1TbVJPUDVhTmtPcjVxRzItWUNtTS1GV3RYQndheHRYMW94QlRXb2JVMGs1dXFuOA?oc=5"
-    },
-    {
-      "headline": "Axon Enterprise (AXON) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1QaTNXaXBSa3FqSFRQS192eDUzdzQxdGxUMGk1aEQ4VktxRUFtUGxHMU5OUGx1azBEWHVuZG1vLUlCcm1QeE1VZWx0S3NjVW9haGdfV196NS1idDlGTk9uWGNPYVdDc1NuMTVXejRuWGJEUHRyeE1Za2dDT3RubnlvRXh1ZFhMUUFxZGkzcTk4RkNUZGxkZGVjMkFtZw?oc=5"
     }
   ],
   "insight": "Tracking Axon Enterprise (AXON)."

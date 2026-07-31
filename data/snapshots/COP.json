@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-30T04:35:19.586Z",
-  "builtDateUTC": "2026-07-30",
+  "builtAt": "2026-07-31T05:00:36.958Z",
+  "builtDateUTC": "2026-07-31",
   "source": "yahoo-finance",
   "1m": [
-    104.19999694824219,
     103.95999908447266,
     103.22000122070312,
     104.7300033569336,
@@ -24,10 +23,10 @@
     120.26000213623047,
     115.58000183105469,
     114.0999984741211,
-    118.05999755859375
+    118.05999755859375,
+    119.02999877929688
   ],
   "6m": [
-    95.5199966430664,
     97.1500015258789,
     96.87999725341797,
     98.3499984741211,
@@ -158,10 +157,10 @@
     120.26000213623047,
     115.58000183105469,
     114.0999984741211,
-    118.05999755859375
+    118.05999755859375,
+    119.02999877929688
   ],
   "1y": [
-    96.66999816894531,
     95.33999633789062,
     92.76000213623047,
     92.8499984741211,
@@ -411,18 +410,13 @@
     120.26000213623047,
     115.58000183105469,
     114.0999984741211,
-    118.05999755859375
+    118.05999755859375,
+    119.02999877929688
   ],
-  "lastClose": 118.05999755859375,
-  "oneYearReturn": 22.126823000726873,
+  "lastClose": 119.02999877929688,
+  "oneYearReturn": 24.84791624854638,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "ConocoPhillips Stock (COP) Moved Up by 3.57% on Jul 29: Drivers Behind the Movement - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQUo4cnRqNEQzZ29BdHhqaUZaS3AydkJQelJJT3l5TUVKS3JPcGpBUjBTbHh2d2c3cG9fdXRSckJkcUJuSmxVay13b2Z2QXp4dWs2N19XZUNuNjBqMllxRG5rdndzeE9tMlZIUzRDWUZTZ2tOR1RXNWVqeXB4NEJOX2NoeXdid1dFY3c?oc=5"
-    },
     {
       "headline": "Why ConocoPhillips Stock Got Mashed on Monday - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ1lqVzN0WXJ1TmF5OHJTZkVEaWFZdHBrbnExTUROQkxQb19iQl9sYnR0bE04SzRMWnVseHdFTzJoRDVEeEtuVDZ4OHNrMElHQVBIUVhUc1V3dVFFQkEwVDlQV2FOd3lyME54UHlMc29rY1VOUG5OWGtkdDkyaHhxVk93VUdFTXlsbGFPcVFaVDdwNm1JU1hyOUNEdUV4c0x2bUE?oc=5"
     },
     {
-      "headline": "Chord Energy, Murphy Oil, Genesis Energy, ExxonMobil, and ConocoPhillips Stocks Trade Up, What You Need To Know - StockStory",
-      "source": "StockStory",
+      "headline": "ConocoPhillips Stock (COP) Moved Up by 3.57% on Jul 29: Drivers Behind the Movement - TradingKey",
+      "source": "TradingKey",
       "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWHRpX0dzaV8tWUxRYnVOQTdDM2ZkMUpnWUpicE5VaFN4SUZhLXMzRjZPQlhpT29VeHRoaXJacjhlNEU0UmJ3ZW5fdlZjZTViR0R4N0RlQmVHN0s2ejl4Wndza1Bpc0dNaGhsS1lBWGNMYlpUaFV1dzdMbG1scjFxb1ZHRUczVWtBRTlZX1cyb3ZlN3hHNGpDX1VKYXVTUnFCY0F0S2IwZGRTYWVkLWlHX3RkTnZmcWIxc1dwcjkydVhfUWtmTXBLQVgzWWJlUm1VNjRtSV9lMHZCdmZ3VE5SUFhKbnVoMnZLNVFWREI2NFgzRDRsNEQ1b1kxRFA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQUo4cnRqNEQzZ29BdHhqaUZaS3AydkJQelJJT3l5TUVKS3JPcGpBUjBTbHh2d2c3cG9fdXRSckJkcUJuSmxVay13b2Z2QXp4dWs2N19XZUNuNjBqMllxRG5rdndzeE9tMlZIUzRDWUZTZ2tOR1RXNWVqeXB4NEJOX2NoeXdid1dFY3c?oc=5"
+    },
+    {
+      "headline": "Why ConocoPhillips (COP) Stock Is Up Today - quiverquant.com",
+      "source": "quiverquant.com",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWFRfWVNic05RRVJOT0RFaW8wSkVLckdIdnRBZkZPc0d4VDFUOEtGVnVsZU9sRkJNblFxWjRYRlZIdmZ1R0JpaG4xWEtGOHZUcmJvd3NScHhqcGg2MkNuTGpMcEw3LXJZZThyNmp2UUxPcUtIbXhHRDBrWmFZVmtNcnNOV29tQQ?oc=5"
     }
   ],
   "insight": "Tracking ConocoPhillips (COP)."

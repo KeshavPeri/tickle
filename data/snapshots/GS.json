@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-30T04:35:32.627Z",
-  "builtDateUTC": "2026-07-30",
+  "builtAt": "2026-07-31T05:00:51.383Z",
+  "builtDateUTC": "2026-07-31",
   "source": "yahoo-finance",
   "1m": [
-    1020.2100219726562,
     1011.3699951171875,
     1019.6099853515625,
     1021,
@@ -24,10 +23,10 @@
     1061.22998046875,
     1048.22998046875,
     1033.3399658203125,
-    980.75
+    980.75,
+    1024.8599853515625
   ],
   "6m": [
-    943.3699951171875,
     953.010009765625,
     954.6500244140625,
     918.8800048828125,
@@ -158,10 +157,10 @@
     1061.22998046875,
     1048.22998046875,
     1033.3399658203125,
-    980.75
+    980.75,
+    1024.8599853515625
   ],
   "1y": [
-    730.75,
     723.5900268554688,
     709.5700073242188,
     726.030029296875,
@@ -411,29 +410,30 @@
     1061.22998046875,
     1048.22998046875,
     1033.3399658203125,
-    980.75
+    980.75,
+    1024.8599853515625
   ],
-  "lastClose": 980.75,
-  "oneYearReturn": 34.21142661648991,
+  "lastClose": 1024.8599853515625,
+  "oneYearReturn": 41.635449261971374,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Goldman Sachs Slides as Investors Appear to Lock In Gains After a Strong Earnings Run - Quiver Quantitative",
-      "source": "Quiver Quantitative",
+      "headline": "Goldman Says Microsoft Shows Wall Street How AI Bet Pays Off - Bloomberg",
+      "source": "Bloomberg",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3owOHM5SV9PLXJKRGFPdHd6TExBOGN0Q0NKaS0xX2pIUThBdTFhMTRJeEZ0TE92eVZTdmlfQTBuamxLck5FYTdpYkQ4YVFPT1ZQQVktQzZMS05LOVhRaHducDNyRGtwV0l4NnRveEd6U1U0X0NpNWhUMUpld1NHbEptSGM5VnFBV2sta3Z0enVxanZtY0YzQWZzUHhoVGpVUlNqYzlHYzN0UTNTZlgyNkJrT0N5dw?oc=5"
+    },
+    {
+      "headline": "Europe’s Consolidated Stock Market Tape Could Invigorate Trading and Boost Investment - Goldman Sachs",
+      "source": "Goldman Sachs",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXF0RDBwZzFCeGtlUHhIZFpTbzVfb1FwTDdVM29uYVUwQ0hRZk54b2pseVVjR01mXzN3VTFCUURjQnRpZUNBcHZjTW0xcGhfbGVUOFFMSHhNemtBamhWcEVLUV9taU5HNUV1WnpuT2RZWDNKU0xnT0NtVndQZnhPNk9uQ0xpZ0V0MFo0VTN4dERaSzBPcnNOZWktS25sWTNIYVdzeGZqYXZNaDFNMWlpZGY0UmRYYU13U3NtdG9tM1g?oc=5"
+    },
+    {
+      "headline": "Goldman Sachs Slides as Investors Appear to Lock In Gains After a Strong Earnings Run - quiverquant.com",
+      "source": "quiverquant.com",
       "when": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHRTUXlnaFJwQ21pcm5UcEw0ZGRNbVBfdUN2ZU8tTEVDTThkcjhlMDlRazVEWDZqUUN4QU5PQ1ZxUUNseU4yM2pJN2VveXVkZVdxNlduTXNmeEFoLUFoNGxGLVc2dXRMOXZvVk8xby1aQ0dJd18xTTZmdWdGN1ZjdkdiSVBzRnBlYldPUXJYTVlBckdLR1g2ZGVWXzljSi0wci1Vc0oxclBCQ1VMZ2xvLS1RT0ZwZFB6NkE?oc=5"
-    },
-    {
-      "headline": "Balancing the Risks to Portfolios from an Innovation Boom and Inflation - Goldman Sachs",
-      "source": "Goldman Sachs",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZWFaQlFpWkFaY1hhQV9xSGdmUnN2b3BJQU93Si1GRHFvaXoyTFpiQlRuT01ETngyczA3NG9OVzVnX1NzU21Rd2tUODZyUHUwS18zd1BRQlNCX2xyaEVzOEU1WHBLeEJQc3FLS1FHUnYtMnVwNC1hdWFEWGhrcUNOWktlNkxTNWZvQ2tXOF9TeXJNMVJBOURnOEtwUVdQNEZtUXY4cEdaZmw4U1ljcXhFMDFCWFBMVHFYVVE?oc=5"
-    },
-    {
-      "headline": "Guardian Partners Inc. Boosts Stock Position in The Goldman Sachs Group, Inc. $GS - marketbeat.com",
-      "source": "marketbeat.com",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMnlkT0VaMHduM3oxa2JHS0x2ZjV5WjJhdUtDN29oblc3N3N5djJOMVBVTGZRclQ4Rk9PYXIxQUZ6YU5XdU9JVkFwXy1vaW1VNmp5cEFnRzVUbzQySnBYcHpkazQyOU83VmNMbms4anJsTm05OTN2NDlqbkkwV2J3Qm5Kb1dnTUZweHQxSjF6ZjNyRWlFYmlZcEl3Yk9vdlBvNDI4bmh0ejQwZ1VlQTZFOFM1Vmx4RVk3aVhNeS1jNk55VThWMVlNOUhkTmxQOGJMMWdWbA?oc=5"
     }
   ],
   "insight": "Tracking Goldman Sachs (GS)."

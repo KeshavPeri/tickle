@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-30T04:35:43.985Z",
-  "builtDateUTC": "2026-07-30",
+  "builtAt": "2026-07-31T05:01:03.588Z",
+  "builtDateUTC": "2026-07-31",
   "source": "yahoo-finance",
   "1m": [
-    278.3699951171875,
     281.0299987792969,
     279.17999267578125,
     273.3599853515625,
@@ -24,10 +23,10 @@
     269.239990234375,
     267.6700134277344,
     259.1199951171875,
-    240.97999572753906
+    240.97999572753906,
+    245.16000366210938
   ],
   "6m": [
-    230.6999969482422,
     233.72000122070312,
     236.75,
     232.47999572753906,
@@ -158,10 +157,10 @@
     269.239990234375,
     267.6700134277344,
     259.1199951171875,
-    240.97999572753906
+    240.97999572753906,
+    245.16000366210938
   ],
   "1y": [
-    220.94000244140625,
     213.77000427246094,
     209.9199981689453,
     211.99000549316406,
@@ -411,23 +410,24 @@
     269.239990234375,
     267.6700134277344,
     259.1199951171875,
-    240.97999572753906
+    240.97999572753906,
+    245.16000366210938
   ],
-  "lastClose": 240.97999572753906,
-  "oneYearReturn": 9.070332698782087,
+  "lastClose": 245.16000366210938,
+  "oneYearReturn": 14.684005595864729,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "NXP Semiconductors (NXPI) Stock Rebounds As Margins Strengthen And AI Growth Builds - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObEs3ZS04dWxWSHRJeXI4dFlIWmVLQ1pKYjRSbExwdlZlTm44cl91SHZ5MEEwWjdPalI0empKdTc1OW5KQjFZbzdlZUx6NnFkT0t6cEx1XzJFeDczZk1BSklyUEVaZ2c3VHp6VWZVcExhS1pxX0pscExlS0JwbEQ0VFRJOWZnNUU1OHdfdHdWVGRndXlIWGJnaWRtVnREME54UzFHOGJwMDBlaExENWdqWjdsaW9Sa25pUUpERHY4aE81MEFrRTRSUUNzUkVmb3h5SVBsNUl1bFE2U1pfbzZJStIB4AFBVV95cUxObEs3ZS04dWxWSHRJeXI4dFlIWmVLQ1pKYjRSbExwdlZlTm44cl91SHZ5MEEwWjdPalI0empKdTc1OW5KQjFZbzdlZUx6NnFkT0t6cEx1XzJFeDczZk1BSklyUEVaZ2c3VHp6VWZVcExhS1pxX0pscExlS0JwbEQ0VFRJOWZnNUU1OHdfdHdWVGRndXlIWGJnaWRtVnREME54UzFHOGJwMDBlaExENWdqWjdsaW9Sa25pUUpERHY4aE81MEFrRTRSUUNzUkVmb3h5SVBsNUl1bFE2U1pfbzZJSg?oc=5"
+    },
     {
       "headline": "NXP Semiconductors (NXPI) Stock Looks Stretched On Cash Flow But Reasonable On Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1AzekIzSVUtWkpYQWdiaGRMdnhHOWpyMUpZRW5uWmFJYTJjRUhwbUcyWTNaX1Fua1B2OWVZV2tnY25iN3ZNekZ5TEtqc3ZaRkFXeGJlaU9CZTVTVFFMNFlvSkJGRzFRekdldEc0Q2wtaHRpVDhuQlBnaFNEdUd0WjJQbXR0RkczNHNSbnQxZmlJbUpybGxYMWllT3FHalNPUkE?oc=5"
-    },
-    {
-      "headline": "NXP Semiconductors (NXPI) Stock Looks Reasonable On Its 24% Five Year Return - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR2RqY3RtWEZya1BZVjE5QjNRWURsRW9vRGZSdDFUSDR5SXpFSEY1bzBLQWFDSFJSbkx4cnRZY29aYmVKc0lxa0xuS29ualIydk5Yd3VrelNfV2ExTnVzWUFmMVAweEtNa0xPWmt0UksxTllWdXpNZUxxWVdpNVptTENuTlEza2NZd0xvVk00SWxCVUYxaDhWeDc2UFhRV3htSkVkQjJUcmRzeGx0akE0a2ljRy1WenNsY216LWxNSDBhbXpvSnR0dHRkXzFCclJxQkNURXRodkQ2eFnSAeABQVVfeXFMTVhVQndwSjJtX2FucS13YXFTemFwV3RreHBkaHVITXRzODlubGUzd2ZJMTZfX3pHSUJFbjNUZE1SNkVhdTlCazFHQ050dFV4bEhsZWdhWmYwcXIxQ2EzeGViVXppYTRoOHI2QlR0SEhZY0JBWHlpNjBPZGF5eG5rTnZHMlZMWnJYa2oxdmRNMHRja0Z4cE53TXBDNlZKN2pmUUdBbE1kZHJSMFdRMjlTNHZDS1hVMjIwc2c0RV94Uld5emxFRFlqVEkwdXQzaDVYdHRraG1aYmdsbHhrYS1hSms?oc=5"
     },
     {
       "headline": "NXP Semiconductors Fails To Impress With Beat-And-Raise Report - Investor's Business Daily",

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-30T04:35:13.354Z",
-  "builtDateUTC": "2026-07-30",
+  "builtAt": "2026-07-31T05:00:30.236Z",
+  "builtDateUTC": "2026-07-31",
   "source": "yahoo-finance",
   "1m": [
-    57.880001068115234,
     56.97999954223633,
     58.36000061035156,
     58.72999954223633,
@@ -24,10 +23,10 @@
     62.04999923706055,
     62.130001068115234,
     62.619998931884766,
-    61.06999969482422
+    61.06999969482422,
+    61.72999954223633
   ],
   "6m": [
-    52.099998474121094,
     52.06999969482422,
     52.45000076293945,
     51.720001220703125,
@@ -158,10 +157,10 @@
     62.04999923706055,
     62.130001068115234,
     62.619998931884766,
-    61.06999969482422
+    61.06999969482422,
+    61.72999954223633
   ],
   "1y": [
-    47.959999084472656,
     47.27000045776367,
     45.65999984741211,
     45.849998474121094,
@@ -411,12 +410,19 @@
     62.04999923706055,
     62.130001068115234,
     62.619998931884766,
-    61.06999969482422
+    61.06999969482422,
+    61.72999954223633
   ],
-  "lastClose": 61.06999969482422,
-  "oneYearReturn": 27.33528119393982,
+  "lastClose": 61.72999954223633,
+  "oneYearReturn": 30.590224126172462,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Bank of America to acquire information security consultancy MDSec Consulting Limited - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQlZmczY3NjFXR2hvWUFfemw4SHZ5cndaa3E1MW1CeDc4N1FXZ1RIY2UyN05LQ2d5aEN4Z1UtYkoyV3ZxRTBhdXJqMUcxU0tCSXpwMFZ2WHlnOGxmYnZvNzZCbUpzTmx5d09ZRHMxQ2JhdjNiLS1CcGNvUWZWQ0w4YjdaaUVSVHNaYTIwSUV5WldUN2xLb2hxV2RvZE1FX2I3RTNUdWV6bldjZGxtNjBEeUtma2ltQ1JtR0REbmQwSG8tVVIyRG1VQUh5djBPLWRDM05nZHNZRQ?oc=5"
+    },
     {
       "headline": "Bank of America (BAC) Stock Could Stay Reasonable Despite Fresh AI Expansion News - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1pRUGNMVzlFWF9ubHdZQVdWNmVvUm8zcEhfS2g4Mk9fcldsYmVEdDhUSTRrRkxVc0RLX1k4bEVWM1dqOS15OTA5WjJsUVZQc3dSdFhYYjVBQmNwZzdqTkVqNkEwaGVnUzFNTmJaZm14N3pYM0NFVm0yR2VrbnNCNGtvbzJfY2tMQXRxaU16eGVvRkJwVGUySQ?oc=5"
     },
     {
-      "headline": "Bank of America vs American Express: Only One Financial Stock Deserves Your Money - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN0NIc2dCMGRYT3BZLU1yQmhvWFVMdC05MnY3YWplcXcxVkI2eEg0Q0I3UkU3SlVJU0tDS0NnQ2ZxWVdjaDlWcXhXQ3hOc1ZzRnptRWFkMVpuemljOWlTZW1EMmY4QnVBR213Y0hvNjNfNldhTEllN2dJd2x0djFTUnU4SzUyM1BLMmhrSEdjQ2xmanZTRWVrV09QWGptYUNnTVI2T1JSVVVGTGlMc2h1MVFERmF6Z2w5LXdRV2hVTE43QQ?oc=5"
-    },
-    {
-      "headline": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Bank of America (NYSE:BAC) Stock - marketbeat.com",
-      "source": "marketbeat.com",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPT2ZuYVMzM1lzX0J3eWVhaURlZDdoSnQtS2Uzc0FVXzlEbmJQRm9IWG52Z0hGNTNJa2RhaFRqc2FhZzJOOElGbFI0X0YzOGlCSFNYWGRJWU8yUkg5allZWHpDTjdoTVZwWVgtRG5mM2lYZXgyVlJaNVE3VGN3U0Y3TzNWN1pPQVk0ZWxVTkNDZ2YyRnhycHNUUEF3elUwR3JVbVVmSU5EcWhHcjFuS05vdm9KOWd0MDJEWFZuT3BUdXlfRDhfbWh0dHlRS2NaekprMW9qQS1nd2g?oc=5"
+      "headline": "Bank of America (NYSE:BAC) Trading 1.1% Higher Following Analyst Upgrade - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmNteTJEQ0NPOGlBR2hEMHl2czBvc21nZ2VuanBxcmJsWFYwUTZQdUN4dHZNOUx3ZFVyYW1EYWNNQ18wV25jZllKc3QxV1FuaDM1ZVFOWEMwMmg5NmNvR255eDhXTG9PaUFFRjd4cXZtQUhBa1pDT25NUFhJb1RCV0RHTnpCYXVyR1NPeGEyWlB1dTVnM1lLOGFmUkk4MzVOQzdzS2xETnVCVTFET280b1Q0OGQ5dmg4OG1xQ0ln?oc=5"
     }
   ],
   "insight": "Tracking Bank of America (BAC)."

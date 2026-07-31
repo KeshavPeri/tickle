@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-30T04:35:15.992Z",
-  "builtDateUTC": "2026-07-30",
+  "builtAt": "2026-07-31T05:00:32.094Z",
+  "builtDateUTC": "2026-07-31",
   "source": "yahoo-finance",
   "1m": [
-    43.47999954223633,
     42.68000030517578,
     43.060001373291016,
     45.13999938964844,
@@ -24,10 +23,10 @@
     44.25,
     45.5099983215332,
     46.060001373291016,
-    46.040000915527344
+    46.040000915527344,
+    46
   ],
   "6m": [
-    91.19999694824219,
     91.70999908447266,
     91.29000091552734,
     92.51000213623047,
@@ -158,10 +157,10 @@
     44.25,
     45.5099983215332,
     46.060001373291016,
-    46.040000915527344
+    46.040000915527344,
+    46
   ],
   "1y": [
-    106.76000213623047,
     104.91999816894531,
     105.41000366210938,
     106.79000091552734,
@@ -411,29 +410,30 @@
     44.25,
     45.5099983215332,
     46.060001373291016,
-    46.040000915527344
+    46.040000915527344,
+    46
   ],
-  "lastClose": 46.040000915527344,
-  "oneYearReturn": -56.8752341754562,
+  "lastClose": 46,
+  "oneYearReturn": -56.157071289756,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Boston Scientific stock gains as medical device maker tops Q2 forecasts - Yahoo Finance",
+      "headline": "Boston Scientific announces results for second quarter 2026 - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2dSZXd3bXJHNEtzeVNlZU5QRTN1dTY5VDY1elNLZnVVTVRlTjFRRFMwRWtQaDBzeUIzRC1XSXpqYzBhNUVwSEJmU1RyY1o5MDZaempYeG1meGVMYWFXbU1Tb0M3X1o3Ym1vZ3VOd01EbElfTjVBWkhBVmdKMm9SMmRMTkVzSkdKWWpMX09JNEMyNU5heEN4TkcwX3VJZkpqRWg0ZWhXX19pd1lfRGYwVlJSdE5WUQ?oc=5"
+    },
+    {
+      "headline": "What Are Wall Street Analysts' Target Price for Boston Scientific Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUxuRnp0MHZPazhHVU1SZTc2WG1BQnltamFoaThWQ1JXWF9yYkl4X1hneVE4b3ljbjExZUFJSUw2cFdHTkNMZDJ6dnU1R2stMUtUOHc2c1VsNDN5MUYyTjhTTHdoQTF5NllOTWJkZzlPSzZzMlBJODZtdUpwYkxPUjM2Q0ppYjRYZ0ZFbDQ1VV9remhKMjJlTzJ2T3dKVWM?oc=5"
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaG8zYld3b0dGaTd2eTNRcEcwXzRpN1dtYmdENVVSX1V1UXNGVnZPYXMyZVVVdDFXMDQ3Z1hpRVd0c0FMNEJ0X1AwMkxFZjVvUmU0RTRHSXRhdFBJQXpLdE5iWlk2ZG1sQ1djNkplTDN0cTZGQlRkZ3pxdlFRSjBpQlVJNVRTYVpwNkhnZjlIWlc5N0M2UHpUU2pxVVlkcEU?oc=5"
     },
     {
-      "headline": "Boston Scientific stock slips as outlook disappoints (BSX:NYSE) - Seeking Alpha",
+      "headline": "Boston Scientific Stock: Attempting The 2027 Reset (NYSE:BSX) - Seeking Alpha",
       "source": "Seeking Alpha",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVEs3eWRCdUlxSFNyeXRLRXVYMGY4ZXZCd2RwMThuV1YxSm1yVjRuU3JmQU8ybWVXUlAtTHhoeUw1Sm81ZlVQdzFkR3pTeUNjaTk1UTBrT1U2UVhvSkY2eWl5bGRidElwT0FVejBfeDVyN1VZQjk3eEJmb29lT0ZjdHRDOHJsWnNpNmNyYnpsVzI5Vjc5?oc=5"
-    },
-    {
-      "headline": "Boston Scientific Corp. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMWlTYlluallqSDh6UTN1T2dOTlJsTThJMG9XeTJOcWc4NnN5dVh0S2kzMnRfZG5aeUhENU1SSS1KRjVKdDV6MzZMS2ZWYVFodS03eXY4Xzd5MWZCREE1YmxGSkMzX1hZRTdJNzFHOFRycFI0QTRtZ0I5Qms3cGVqN2cxb0lwcXhpTnEySkdoZ2dMZzhXRWVSNzNJODY2R3RuVndzVkttUDlGTzlHWG5ENGVtVEFoSmFiZWRVcTBVeVVjUWlkZzFFb2N3VmRoOWlXcU1OVnFmaWhYQmgxbUsxSmZIczZOa3hhTTJnX2hsbzQ?oc=5"
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXVuR3hvbjE2cmI2TEZPWlZJTDJ3WkdxZXM2NXJNdF9PYTVZYVpkRVZyRmRyS3dnNkNMS1A2bnNYMFQ3c21DX0xPaEhLb1Z6dnJKQkxaTzVBengyNVJOMVZGc1BxeWxMU0trSDc0ZENHTkdnSUlndEgzS1VZZkVJU0F4dUg5V2g4ZGVGMA?oc=5"
     }
   ],
   "insight": "Tracking Boston Scientific (BSX)."

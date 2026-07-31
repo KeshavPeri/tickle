@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-30T04:35:16.473Z",
-  "builtDateUTC": "2026-07-30",
+  "builtAt": "2026-07-31T05:00:33.313Z",
+  "builtDateUTC": "2026-07-31",
   "source": "yahoo-finance",
   "1m": [
-    136.08999633789062,
     134.69000244140625,
     138.3000030517578,
     141.5800018310547,
@@ -24,10 +23,10 @@
     139.4600067138672,
     143.8800048828125,
     147.0500030517578,
-    147.77999877929688
+    147.77999877929688,
+    149.4600067138672
   ],
   "6m": [
-    165.36000061035156,
     170.2899932861328,
     170.1699981689453,
     169.22999572753906,
@@ -158,10 +157,10 @@
     139.4600067138672,
     143.8800048828125,
     147.0500030517578,
-    147.77999877929688
+    147.77999877929688,
+    149.4600067138672
   ],
   "1y": [
-    157.3699951171875,
     155.74000549316406,
     153.94000244140625,
     156.02999877929688,
@@ -411,23 +410,24 @@
     139.4600067138672,
     143.8800048828125,
     147.0500030517578,
-    147.77999877929688
+    147.77999877929688,
+    149.4600067138672
   ],
-  "lastClose": 147.77999877929688,
-  "oneYearReturn": -6.0939166521224815,
+  "lastClose": 149.4600067138672,
+  "oneYearReturn": -4.032360702319691,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CBRE Group Inc Stock 12‑Month Price Target Raised to $181.27, Implies 23% Upside - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV2lZcmxIdF9PQWhwdWVHV2xodVVfOGs5QjgxTW84WVNFN3lPRFp4RmZXcHB2R3hkejkxZENiUEtyOUN1Q1FxWXE3djBPR0s4am0yd0drVFpOUlpEVlNQejg2eE5lLUd4Y3VSdlRUSFhqNjg5ZEhyQVl0VHpNdkpxZEVpRU9CTFBWZnNDeUpTakdwNVZ4a1ZISWkxQnZOdnFRN3FFN1RYc0NkV1dDcmk4Mjd2Z3pJbFdRSHV0MGVqNnB3RkxYbUlhd1dyc1V5cE9QUUx5bHhR?oc=5"
+      "headline": "CBRE (CBRE) Stock Lags A Stronger Earnings Outlook And Data Center Push - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVzkyWUF0UW9Ea3h2SjlZWERvU0dVMzAxUDRHR0ZFRnJ5b0hhTlh0bVplaU41S2p6WHhMTVZGZHZTbjB2bUN0bmw3YlBGc2Z5TmE4MTdndUJBTFYyR1NoX3FWQlB4MU9KQjAzTmVka0U4WnhxazI2dTNZWEdpUkNPbEJKMlNhZzZBd1Y4LS1jczA0dVFMblpfdlozc0psRmc3c3hNUGw4UlFOQ1dJd0REd3Y4VEJtM1ZkazA1Z290QmhOeWcwdU8wS1U3dzVMT0lIeGNvWWxMUUxpNnl5cmVXTUxGdzhqc3BrbVM0TWVn0gHzAUFVX3lxTFAtTFUxa09IcmVvMVpQV1dRNlhqZTNJN0J6MWZDLUUwa21zbUY2UzVlTzBVWWJlMDZHVTlrZU5LN24zUkxCdTFfUERuRHZweGlMMGFjYUtPVmZSTWhXUDhHYjVQUkJsVVFlWGdEVHF1RGdXNVFILVFlQVpFU1Q1d0tRamxLSURYckJLcVhCSERmSy1zYmlWOGdUNWV5dXBPNW40YkhkaVc4LUhIQ0NwNGg5dHhKbUMwXzNQZ2JfNHdwd1k0WTVlZjlHeGw5NVRqSEVVRzlLbHRLM05tdk5hUEtNblBISFlscXo2X19yMXJ4ZGJ5OA?oc=5"
     },
     {
-      "headline": "CBRE Group (CBRE) Posted Strong Sales, Is The Stock Still Cheap? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY2NWcU5fQnNwQm9GYTVNdTc5WEJjbHdqdzM0SmtWcTdKcUNzaEV6M2FFUEtUYjdKZkgzcVJVQzZfM2gtaWU3VGI4T0RuZnlRY3BlY3NLZE1jZDBpeFpwOHFZQmYxUENBZ0QwU2FQS056MkRwNm9jMkRVeVF2UkpZZXF3aUtiRG9SeXlQU2poZFpTblZNbW5MSFNlSGtNdmM0Z3ZpakwzOEllYU1jbHJvX2s0YzIxSWFhWkcxNEc2OU5GY2YwRVNJV0xhcGtIamUxTE1WQkRDU0c2X19NZzJ0VVlvWm91VFpsUEJBMjdR0gHzAUFVX3lxTFBrNWc3d29fQkxMeXdCSE56YjRkN0dMQnJwV2VxVllpUVdlcGM1b3d4TTNfdW0tR3V5TUdtc1JER3FDel9oTU8yQW1IRnduM3U4RFNzX3d1b2tnNzRCN1FEWHRuNjJmZWlZamRuS290Um4yZ1hfWUxLUWZqWEp1SUlNUjFzeVd1cHFvMmlLeE9RV3dGMFBRbDRDcExsbElVbmYyYW9GdFZDTWV5TVVTQ1ltczR3bE5DMGp2RzFrNGxaRnZvZzQya2d0ZTBjajN4ZWpzNUVCYlA1eUVzVUtPeXpBQlo2Vi1xRlVGSTYzRWVHRjJJTQ?oc=5"
+      "headline": "Keefe, Bruyette & Woods Issues Positive Forecast for CBRE Group (NYSE:CBRE) Stock Price - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWE42amdfTk81UG9xczF2WnVFYm9MSGo5aUU1MHJwZWw1bjdyNjFsZGg0VllNdGlUTlNTc3Rya1ZhM0VNenp1NERTWnZVanFiNUdVSlI4UzNzSkE4ZHQ3emVJX3ExUnRvb3FkX0haeGFxeGJqM25EWi1vSGd0RTFhcnhlWnRsREhSaGowNVBNWlJDRkxtZ3FjNDhHUVdDeExnNVlDNkIwY3RoTzRyRDYwUzZKSzU0TnRkZEEwa1pUUktiWmlRTXRnSFVMUG41TVZ5?oc=5"
     },
     {
       "headline": "Can CBRE Group Stock Keep Its Winning Streak Alive in Q2? - Yahoo Finance",
