@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-31T05:00:40.602Z",
-  "builtDateUTC": "2026-07-31",
+  "builtAt": "2026-08-01T04:52:34.775Z",
+  "builtDateUTC": "2026-08-01",
   "source": "yahoo-finance",
   "1m": [
-    162.8800048828125,
     157.05999755859375,
     158.57000732421875,
     156.8800048828125,
@@ -24,10 +23,10 @@
     147.64999389648438,
     151.16000366210938,
     147.16000366210938,
-    145.52999877929688
+    145.52999877929688,
+    143.05999755859375
   ],
   "6m": [
-    158.11000061035156,
     155.74000549316406,
     150.50999450683594,
     150,
@@ -158,10 +157,10 @@
     147.64999389648438,
     151.16000366210938,
     147.16000366210938,
-    145.52999877929688
+    145.52999877929688,
+    143.05999755859375
   ],
   "1y": [
-    142.83999633789062,
     150.3000030517578,
     153.27999877929688,
     154.8300018310547,
@@ -411,12 +410,19 @@
     147.64999389648438,
     151.16000366210938,
     147.16000366210938,
-    145.52999877929688
+    145.52999877929688,
+    143.05999755859375
   ],
-  "lastClose": 145.52999877929688,
-  "oneYearReturn": 1.8832277445898276,
+  "lastClose": 143.05999755859375,
+  "oneYearReturn": -4.817036158456277,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "BlackRock, Inc. Trims D.R. Horton Inc (DHI) Stake -- Shares Rema - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-01",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTRGWFBIcUx6WVo3bEtZelBueUtaNnppNGxkdlZrLWZMRjAwMUF5WFkwQkFoTTN4MmwtZTRwbklELWUtZWdvNHpxS3pUa3B3bkRtV3M4emFBQ0s5NHluMnpMSDJXckNQeGlJUG4tNVRhNHZaWDA4Zzhla0M0SVJVb1hzbUcyS2RmcS1Cd1RaR296c0FfTnJOZHpaSWlCSnR5djktcEhObVFpclktRGVXb0U1Z2ZWZkhWNlRqekUzYw?oc=5"
+    },
     {
       "headline": "D.R. Horton Earnings: Builder Offers Hope for Housing Market - Barron's",
       "source": "Barron's",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1taF9XS2hZenJ4TF9kZmsyUHB4Tjd6SGFJakR6ZGwwRmVDd1JFbFNpUTRxMEZHbHhxVU9SalFUem5YMEI4Njc2SldRSF8yZkpQa0VIMEw2UzJfejF1Z1BrQ3ZZaFpJMXhVRDJ6cE1YeVlKRGw2NVFSU3lhREM?oc=5"
     },
     {
-      "headline": "D.R. Horton Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "headline": "D.R. Horton Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU2ZBOWw3V2tDMTVyV0RYc3FJenBDY192UlppRm95S0pld0JxTWFRaUU0U201QTJPZmNSYklqX3gzbzdyRHFBZlQ1aEhNTFlGQUstdWJjeFM5TEdqVXBkeVN4OUVBTmVTVmphRXptZ19jU3BnZ0s5bk15dFdHZWMyeGdmZ25ibkVBWlpQTzN1dmtESjZhNjFzZkhqS2ZkYjluSy1jNHlOTUtQUFFuVEhfRzlHd25fYkgyMGFXWXBEMllhMFZ5emtHSDVVNmpSS2gtSkJDTjBVbnFXb3dudnVwY2Z3?oc=5"
-    },
-    {
-      "headline": "D.R. Horton (DHI) Retired 9% Of Shares, Is The Stock Still Cheap? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaGdYS05fbXJpOTN5Vk9yWmpNMlBLd3VLcWhqZlZjLVJrMG8xT1FFb18tUDRXNU9wdjNUQVFlMjZkeW5fTllacnNwUTNZay1IdGFudDlNRGxOQ0VJbHAxd3B3dWEtUnZWLWU4VDY2cFpINDRxeUVhbTNKS2dYa2o0bzVpTEd0cHFGcmF5MU1ybHpZWkg5OW1HSXhIbEJxeDNJa1JockIzYnd1cWJfaXVPaWdUMzNZazc5Q1JnOXA0OV9FMUFlMV90V1lXRUnSAdIBQVVfeXFMT1dReWNERVRBOE51VGk3MGxaZXk5N0tzOTE1WU5RcXp4VTlCYjZVQTlCZEM4bzNkOENxLTR4WEoyUGdQX2lUMTFWN3NFNXRMUmpmV2FBeDFuU2RHY0lydmI2dk5HN1dZQzQ3UEZOS3BILWhfMGxGamwtb1daellsNzZkVEFyLXpWOFBmZFl5ZnpGdm8zOWpGOVZaU2RBVlRuX0NGM1dGT2t0WVE3b3c5QTJtWk1ZZjA4aVh6SUhGQ1ZVUE9OVkpDdHVoeWFYLXZ3aERn?oc=5"
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaE1qOE44UnMwakFzNHlaaUhkM1FmWEdFWV9GTU9GQVU0b1RiODlpUGFBVDRFQ0RfOGpBM0NvdTZ5aTZrMDRPTkVlRDNicmFFQlJnclkwUThyV2h3VGZSR1Y0WWR5d1VNUmhlLU1yem5zWkpjMTF5UzBaZ1E1LWlzd0lobnktRWx3VDhDYmZRSlVNN3NkdkgtdTRMLUJvZ19tWTZkSUlkMzRZUFZQZklia3pxX1k0Z1c3VDd5QTF1bWlFTDhoaE00WjhkeUFMMW1VV0tiZzlGbVpDcThYdTRVRmR0VWg?oc=5"
     }
   ],
   "insight": "Tracking D. R. Horton (DHI)."

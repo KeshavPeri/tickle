@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-31T05:00:25.243Z",
-  "builtDateUTC": "2026-07-31",
+  "builtAt": "2026-08-01T04:52:16.921Z",
+  "builtDateUTC": "2026-08-01",
   "source": "yahoo-finance",
   "1m": [
-    136.80999755859375,
     135.0500030517578,
     138.50999450683594,
     135.97999572753906,
@@ -24,10 +23,10 @@
     133.58999633789062,
     133.02000427246094,
     129.39999389648438,
-    127.77999877929688
+    127.77999877929688,
+    127.8499984741211
   ],
   "6m": [
-    118.9800033569336,
     117.18000030517578,
     116.62999725341797,
     118.0199966430664,
@@ -158,10 +157,10 @@
     133.58999633789062,
     133.02000427246094,
     129.39999389648438,
-    127.77999877929688
+    127.77999877929688,
+    127.8499984741211
   ],
   "1y": [
-    113.13999938964844,
     113.58000183105469,
     115,
     113.23999786376953,
@@ -411,29 +410,30 @@
     133.58999633789062,
     133.02000427246094,
     129.39999389648438,
-    127.77999877929688
+    127.77999877929688,
+    127.8499984741211
   ],
-  "lastClose": 127.77999877929688,
-  "oneYearReturn": 12.939720230357278,
+  "lastClose": 127.8499984741211,
+  "oneYearReturn": 12.563828502391122,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "American Electric Power Stock: No Signs Of Slowing Yet After Q2 Earnings (NASDAQ:AEP) - Seeking Alpha",
-      "source": "Seeking Alpha",
+      "headline": "American Electric Power (AEP) Stock Faces Margin Squeeze Despite Revenue Growth - simplywall.st",
+      "source": "simplywall.st",
       "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMDdWNU9QNlZuZ3N2OWZ4Mjc4N1VuU3FORHE4dlZHVkhwNm9BclNLVDlOLWNMUmlvM2NMNUN3dWs2TEdtUDlOYVYyU0lqeUhQNWN5RlJtNXpYcFB0cVRfWUxVcExDSUtNNWtzaG5uYjlhb3d4MWNoX1JhLVYzNDhNRk9GRmtuNURSVGowVFAwR081QVlqWUxTa2dzZm5BUUF1em5oaFVGWkQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQW5ac0RnSWNweDB0b1M1eGpLVXl3WHI5Z005SjBJaWFtaFlJVTY3WEIwZVhHRDVUUVh3UUJpZlVZMlV2NDV0U2c4RkNVUml5RXJaSTh5S2xCaTVocGl1UTdnbmctbkthVWtZOU1VZUpSWHFBZzlMck9abjAxNE5NdGZTNEJ6VlBsTTkxd2ZTUVR1Z1kzcUNtX1FhcUJ1MnJpaFo3bnM4Y0lQNWY2MmlsRzZGQW8yaWRXYUd4emlrVE9OUnIzbWx1ejRZd3JxUFF5SFp0VWxMZHB6Z9IB3wFBVV95cUxQc3Z0MVVNRlBpOV93b1pacTRzZ2lidEFVekN3YUxocEZtaVVQanAzZ3RsbURSLTk1QXhmQU1RN21ncHRRaVAwRUh2TmRKUDhBRWJKY2cydy13ZUxXOEpYY3FuSGp6S3dJLWRnWWFOYl9hcEQ4YVRJZklWUEZ0blJjTy1qNjg0Sm1NSE5FWkxrdGszX3QwaGI5SWJ1V09fc29VWEVFc0ZFVUFOSTQ2cURhajktZW1leW51RFJjUTJFaTN5dGc3QkFNS3BXVXZva0NjMlZONXNvQk5zdlM1MVd3?oc=5"
+    },
+    {
+      "headline": "Mizuho Cuts American Electric Power (NASDAQ:AEP) Price Target to $135.00 - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaUljNmFYU1oxNWFHekNHVGhuaG90bkh0R05PU1c5T01nRnNyc3RnckE4NWFibkVxdEd6TDdHT2pfNkNsd3phZnBIM3Z4UVUyYWNQdDB0Y1ZGMkw3enRlc0dISHpveEFwdTVLTWMzLUl5VDRMdjR2M0tXUW1hYXNsdmsySnpXZlJpajRuUWZpU0ZoU0dMS0U4VFRQLUN4WGJ4b3FvbEl3RXc4LWg3NEJ1dC1DcVNvWmxISWdZZnN3?oc=5"
     },
     {
       "headline": "What's Going on With American Electric Power Stock Thursday? - American Electric Power (NASDAQ:AEP) - Benzinga",
       "source": "Benzinga",
       "when": "2026-07-30",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTzJVU01ncWxxc3JFanpFYV9jb05XcWtRdnhXX1hjZHhXd253cVIzWnhUaUVGNXhpY0poVkFrQzZCSTA3anlfNjlERlpyekVGTnZ6bjhfdkFsd19BZW0xMVlOSEtTZ2J6djROclRMQXJPSmpXWEhNTFFRVGFIc0NGWU00Q1Q4TThDSDVseHJaUEg5cjRZV2xEQ2dvTndTajFNQkZFRDFGYWxvdkFQQnF2ODh1VnptWGUyQ2g0aW1yWmNvVThSdy04WTdlMkFOOTFxNU1NemhR?oc=5"
-    },
-    {
-      "headline": "Fund Update: 649,975 AMERICAN ELECTRIC POWER CO (AEP) shares added to REAVES W H & CO INC portfolio - quiverquant.com",
-      "source": "quiverquant.com",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWGRXME1UQkJGX1FGM2hRR2tZZjNCbTVHZWhDRXlDb3ZjQ2xTZkVwSDhXVnNUazBzWlhzaEszcUdmSC05NTlEU3p0Sk84Ym13TUt2Y0NxSm1nMktrWmxSUXBCWGNzN3ljVWNzQkZZQWVTMTRRT2ZDSmI1dUMzWURMZVBzV2ROcTdSckdYZTlYMkNHejk2UVIyQzVNM1FoMU5PSEVib3lHR1JSNDhKQ3pma3Frb0hQdk1PN25XMDh5VTlVOXU0U3ZoQUc5VUFkSWJpVU1UY0ItbjhsUQ?oc=5"
     }
   ],
   "insight": "Tracking American Electric Power (AEP)."

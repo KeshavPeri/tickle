@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-31T05:00:55.792Z",
-  "builtDateUTC": "2026-07-31",
+  "builtAt": "2026-08-01T04:52:52.056Z",
+  "builtDateUTC": "2026-08-01",
   "source": "yahoo-finance",
   "1m": [
-    397.67999267578125,
     402.3800048828125,
     426.010009765625,
     432.8299865722656,
@@ -24,10 +23,10 @@
     356.8299865722656,
     361.79998779296875,
     353.1000061035156,
-    352.9700012207031
+    352.9700012207031,
+    353.3299865722656
   ],
   "6m": [
-    523.6900024414062,
     525.8099975585938,
     523.989990234375,
     528.8099975585938,
@@ -158,10 +157,10 @@
     356.8299865722656,
     361.79998779296875,
     353.1000061035156,
-    352.9700012207031
+    352.9700012207031,
+    353.3299865722656
   ],
   "1y": [
-    481.0899963378906,
     483.1199951171875,
     483.3599853515625,
     477,
@@ -411,29 +410,30 @@
     356.8299865722656,
     361.79998779296875,
     353.1000061035156,
-    352.9700012207031
+    352.9700012207031,
+    353.3299865722656
   ],
-  "lastClose": 352.9700012207031,
-  "oneYearReturn": -26.63119085669019,
+  "lastClose": 353.3299865722656,
+  "oneYearReturn": -26.864963126487755,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "UBS reveals what’s next for Intuitive Surgical stock - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0VCeGNYZ0FfTmtCcVg0dnR2Qm82Z3Z1cVdPM256ZjROZnl5OE9FWDdMLWZpWUdUNVhCVzFiM0hWZGdvN1E3ZkwxMjl2MTRhcnlvYmU2Z09MUHJFWURSby1sald4bDYzUkRjanhHZVZZNnluc2hZUHZiM0lZWXh2ZDZFYnljWEdrX1BXem9Pb3JTeGNOM0d6d2lOYlA4Z1hjaHltX0J2Zw?oc=5"
-    },
-    {
-      "headline": "Should You Buy Intuitive Surgical With the Stock Down 35%? Here's What History Says. - Yahoo Finance",
+      "headline": "Intuitive Surgical (ISRG) vs. Medtronic (MDT): Which MedTech Stock Looks Better Positioned for Growth? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWdJY1RaVThJOFZ4N3VKWC1IVHRiTUdzN2x5UzRjcXplem1paXprMnhZN3k1MGk4YWtJUk82cGhhbkpRRXoyaEhfS1VmS3g1YzlmTUZOWkpDamNjY3dxNUxwVXRjWVYyc0JHVEVfV2RiSnlnLTlzdWY4di1CUlN3V3ZET3BkUUc1Vkhid3paQ0dvVklqMXVNamFYTnpLckk?oc=5"
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd1JMaXZZVGZ5SnhPMDJxLUdQbjU1ajQtdkNfNjduLXFtRTJWd3E5UVUxZ3AxU09OMGFvOTc0YlY2MUN4SHNyX05OLUh6aFNoZ0JGdGtZOWpWMTREYzlRNWhnV0xqMGt4RWhObU5qd2dnNDBWNGVhNGpuYzVvUzR5dFFyVXNsb0xzV1dTVkZOdDBvTW4yWXo5SVI5LUNwZw?oc=5"
     },
     {
-      "headline": "Robotic Surgery Giant Crashes After Guiding To Its Slowest Growth In Years - Investor's Business Daily",
-      "source": "Investor's Business Daily",
+      "headline": "Is Intuitive Surgical (ISRG) Undervalued Following Its Bylaw Changes? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWk4xa2Joalc2MkhfVEtNQ29SZ0lrbGluaVlWNXNHTWtxcndfSnJ4WjdRRHNyZ0pMSHpVakM1OHplWWptY3hCcVhwellMM3ZHRlJmU0dqdFFua1gwbDNHXzQzazkxVXBQb2tXWFIxX1VpRElENTRCaV9LaEp5NVE3LUxmQkF3SXVORURzZTFLVnAzVHlJc0lpLUZwOXVhZ1A3d25abHBqdU9pTzBCZzJSVVFyVWRyTFFCbjBuckN1REZQN3VIOWtPY3lVR2xHR0N4c1lNamRB0gHbAUFVX3lxTE4zRFpORlVLZ2t5TldTMU1GVDFHQmgwZzFCLUItVUdEVW10V1hTRHFDb2s3YUN5UTI0bWI1QjA1MHJTYkZ4aHZ2YU91cm5IdHYwZHhFdmNtdWtobTQ5VVFvcElWdmIzQmNCNVFNNndnUnQ2b3JMQjNJV1kxZnBGcXpVc25kLV9RTkZtejNmVHhVVzJxWkdMR3ZNZ3hQV2Y2OVdLTm5OT0x0VjZnWHMzRnctLUJ0QndqdlRPMF9fOEJicTV2VFVCVXpUWTRPci1KbTk0Q25RV3JoekVNRQ?oc=5"
+    },
+    {
+      "headline": "Why Intuitive Surgical Stock Plunged Today - Investopedia",
+      "source": "Investopedia",
       "when": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2VpeXA2ZTdIaDlVVHRMODYxRVpTSDJuZGdZQnlQTDlUYzV1U3dIQ0c2TS16YmQ2RE16Yl9lMF9WeTRBeG5WUTVhT0UtQzVWNEVaWHpLT2RFMnl4TnpmSUdhcEJqM0lCZWFmZDU3WmZUc1pVeDFfTFNSM0ZWSTltcS1PZV9XM3RZYWJFbFNUOXVPeVh2US1qRWdsczRzVnhvZlFCUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnh4RzUyQUtHSU5weXVDdGNta05KbUtIQ0tKdDcxM0IzNlNlY1ZNR0ozLVd0TWlJZXNaRDhKZGY2UTNtZl9LMFhNc25JQzhFSk5rdTVaeDlTRWNmZkJKN2pqNWNXZjRnZ2lENy1FTURMUXlBbmVLdk5UZU5fWGo3Rg?oc=5"
     }
   ],
   "insight": "Tracking Intuitive Surgical (ISRG)."

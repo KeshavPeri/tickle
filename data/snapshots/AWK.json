@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-31T05:00:29.378Z",
-  "builtDateUTC": "2026-07-31",
+  "builtAt": "2026-08-01T04:52:21.859Z",
+  "builtDateUTC": "2026-08-01",
   "source": "yahoo-finance",
   "1m": [
-    131.5800018310547,
     131.7899932861328,
     136.86000061035156,
     133.08999633789062,
@@ -24,10 +23,10 @@
     134.55999755859375,
     138.0399932861328,
     138.08999633789062,
-    136.80999755859375
+    136.80999755859375,
+    134.1699981689453
   ],
   "6m": [
-    130.99000549316406,
     131.55999755859375,
     129.7100067138672,
     130.74000549316406,
@@ -158,10 +157,10 @@
     134.55999755859375,
     138.0399932861328,
     138.08999633789062,
-    136.80999755859375
+    136.80999755859375,
+    134.1699981689453
   ],
   "1y": [
-    140.24000549316406,
     145.72000122070312,
     147,
     141.5,
@@ -411,18 +410,13 @@
     134.55999755859375,
     138.0399932861328,
     138.08999633789062,
-    136.80999755859375
+    136.80999755859375,
+    134.1699981689453
   ],
-  "lastClose": 136.80999755859375,
-  "oneYearReturn": -2.445812749727471,
+  "lastClose": 134.1699981689453,
+  "oneYearReturn": -7.926161786304493,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "American Water (AWK) Stock Faces Valuation Doubts Despite Steady Growth - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOG9uNEVQVlZ0aDdvRk0xbGpuQ0J2RFVtNW5PUE05dE5LRTJiX0V5ckhuWWJKODZQYXhZODNQQnFzckpBblNPOGd0OEZFT2VOSUt4cDNkcW1xaWUzWG9BcmdjRnBqMUIxQXl5dlRXeVhFbE51RHNiUGV4WUVWMUdFeWIzYlZOX19lSU1jbHp4bmZOWHFFRGxuWEFxcURIc0M4UDc2SVpJRE9EbGVnRl91NFFiSi1aR3JhRVpDel9ld0dUSllMTXNUaGVyckY1aDItcGlJ0gHYAUFVX3lxTE9zZUJHRzJUV0Z5RnlTQS01OTJRYlNrY2JkVXhldVR2ODVJckVaRnVpZ1RiaDQyS0Fsb2U2bWlZZXdWX3lmdHNPa0tIdlBDOFRPd2tXaWZRa3FhYTlHYjhOc3JuanNkWi1PY3hDVEZPNGx0SjhoV3hBYjNxMU1jbHd6MHYxNWlhNGNQTzNwbUkwZmQ2VFoyR2xZVXhoQUk0UmE0ekpqbFdUQXZBRkJlT2s5YnhCQ2w0SllTX1Y0bGtFemRBWFIxZG9uTktZZldqRHYxa1puWjVpMQ?oc=5"
-    },
     {
       "headline": "American Water Announces Quarterly Dividend - American Water Newsroom",
       "source": "American Water Newsroom",
@@ -434,6 +428,12 @@
       "source": "Yahoo Finance",
       "when": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVER6NjJMU2x1RXZwcGhNRk53MjJlV3Nadmg5dHRyREpGSHFvMFU3VUpzQm5BSTNLdS1KeF9SekplcnBFUm9jZU5ZV1RWb2RrWnBDNWVmYndhYXcxNWRJOHJPamtMY2FCWnNwTU1rejVhS0pOd3NYX0lqUVlQRjRsOFQ5U3dnYXNFS1owa2hIakJkbUw1dVhz?oc=5"
+    },
+    {
+      "headline": "Is American Water Works Company (AWK) Fully Priced After Its Acquisition Push? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-01",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTzY4NFlaSUp4QW1ad0tnLXJYM1MzZ09zVmw4Z0ZzdFZnMmFDeG14ZHFNUUV1dl92V3FYYXkyRG1CNVhnbEY3UFl2ZGY3QWZCZG9ERHlPVC02aTB6b1NmS3djTFdGb1NnRHNQd3FXaktISUU5TWg0cEVpUElfNnFXZGMxSWNsQ1lxUjA2ZkF4b2JYb3JnaGpZb20yTFNMbUhqbEhlNXdiUW1DakhZR3BwT2tOdVBzWl9qUmpFXzc0SEZyNzNiNnB0TmJRMy16Y0xpRGdj0gHYAUFVX3lxTE5iOEs5bVBUTDBONEo0bzNwWWxsUW5OVlduNEplWlBDZjdpUVY1UVZKLWUzM3FOQXRUbkh4bGxZRFJSNFJrX2Vta3JRczhmR0o4bmhoVTRCMkE3azhKaXVvc2VidkJ4QjJfZjcwSHUzSGVPYVNIYUlvVjU3NGhlV3VoN0xJVmlTWUtBWndFbkEwWS10UEJhLU4zZ3M2bVlmMW8zRVU3ek1MM3F2NzljN28zYjZtd1pFbGNLZkRnLVJUZmVNaFNhekppcGhDdlBGd1Mxc1lZNmdwMg?oc=5"
     }
   ],
   "insight": "Tracking American Water Works (AWK)."

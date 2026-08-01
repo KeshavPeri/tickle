@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-31T05:00:47.979Z",
-  "builtDateUTC": "2026-07-31",
+  "builtAt": "2026-08-01T04:52:42.319Z",
+  "builtDateUTC": "2026-08-01",
   "source": "yahoo-finance",
   "1m": [
-    38.880001068115234,
     40.79999923706055,
     41.79999923706055,
     41.27000045776367,
@@ -24,10 +23,10 @@
     43.15999984741211,
     44.93000030517578,
     46.810001373291016,
-    46
+    46,
+    44.77000045776367
   ],
   "6m": [
-    60.58000183105469,
     61.29999923706055,
     60.5,
     59.099998474121094,
@@ -158,10 +157,10 @@
     43.15999984741211,
     44.93000030517578,
     46.810001373291016,
-    46
+    46,
+    44.77000045776367
   ],
   "1y": [
-    79.41000366210938,
     78.36000061035156,
     78.95999908447266,
     72.22000122070312,
@@ -411,12 +410,19 @@
     43.15999984741211,
     44.93000030517578,
     46.810001373291016,
-    46
+    46,
+    44.77000045776367
   ],
-  "lastClose": 46,
-  "oneYearReturn": -42.072789474068514,
+  "lastClose": 44.77000045776367,
+  "oneYearReturn": -42.866258155886946,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Fidelity National Information Services, Inc. (NYSE:FIS) to Issue Quarterly Dividend of $0.44 - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU0FwUWZ2N3ZJZjNsSGxheEp6NEphZmZpSWY3ZGNkc2FRVzlPU0k4REo1T09HU0RhazJlSVM0T0xpeUtsMjc3UnZ3eVZMNk8xZHl1X2Zway1DUF9Tc0xfRTlQZkI1UHVERjNGcEYzUl9kZ05Ha3FxYTlNZllteDdsU2duN2d4WG1uOGRrMmhta3VBelQzZi1NMHdDVHJvak10cmMtdlZTbEF3NDJ2Yk1SdUE1TG5PRHA4RGl4OVhTVk1TeW9Ta3ZldG1IZkk2N3UtclVqWGN3?oc=5"
+    },
     {
       "headline": "Fidelity National Information Services Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPcC1HckJZR0pQWnFHa2g3c2ZTdVhPUUtqMFpFRUxEUlhjSUdtZG8xYzBsSjUxM2p6R28zZnIxWDVjaXdvTlctZXhhS3cxbG9MeGRON3QxV0QwLV85eWZOb244akpTb0QyazJKVEVJb1hvZkpmdHdnZE1qOE1HMG01SXV2dHpZblg4ZFlvYjlMVGliYUtTMWx0VWlpekUwS1NjaGJ2VlhhcHBWRWFzY3gyeWVJenFzWUxhQldRZWVVS3JjeERDNkpfbTZWYy1IRVZuMW8xOXJHal9WR2hyZU5DZWVvc2ZYbm1pVTNaWnNXRkg4MmpVRmM5SUdGYlNGY2dJNVBqek1JRDVZQQ?oc=5"
     },
     {
-      "headline": "Fidelity National Information Services, Inc. $FIS Stake Boosted by South Dakota Investment Council - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY1hqZEVYc2Npd003OHN0OW9hQ1dxWFotU0RUc0tnMHM2elBkWHk3eGd1ZzBEUFNvNUprS1JqdU51ZldIRWEzVlRIZTRndVhWYy1LT29SdWVmcjlPR1dFcDZWUWlvWmswWFJPRDVTYU9EYTRnaUVrSkw0VzlwbXNiNWlfRG4tVjNDcVB2TFlDWXV6VVE4d3RGRDZFdFdPSl91c05aSVBhODBqY2FvS0VuR080d0huRWlYelRNTl90blhYMzFvYlFUdm5BYVhLaVFmam5XWEtPdkZuVklpdHc1RmRKWWV3cFRCNVBnWQ?oc=5"
-    },
-    {
-      "headline": "Banking Solutions Offer Hope for Fidelity National's Q2 Results - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVA4LVMyNDk5SUFOWHFWY1VKWHRmOXgwRlJ4VDJOeV9VeXZCWTNKbFVmVGRPUmxkcmw0VW5fdEc1WUtfcDBES2FuVVlTMXFsNU9zUFJpamhnSlQ4eUpWS3FveW0yckVvVWw5REluQUIzNzZkZS1LSlBYUjkybHptam1nTU9YRzZjQWFkVTFtWkUza0dtZVMyTHlXeTRJM3k3akxjSjV1bHlqblA4QU9TcUlQMzJBdzk0eGtZ?oc=5"
+      "headline": "JPMorgan Chase & Co. Trims Fidelity National Information Service - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-01",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmk0VmRuZmhHaHFfekIxQV9ob01CU3hqM0tpLW1HS1gxQ1o3aEk1R2JtMEpJdFZwTTExWmtDZnM3RUI4WkFORGMxaFBfQk1mMXMtTERwOHg0NTh2RHAyeUZWek1ZZjl1NEl0LXpjc0hfX0RQVkVEZVdzU0g0dUVpdm5FWF9YbDVQTU9DQWVtN0w0aDRFTURnNjNkMzM2RmZKVkk4Um1TS0c4bEFYWlZ6Y09OSjFBc19iWUlYNGpvRWhHNTA0NXRMYWZsY0NrSW1IZTViaEs0bEExeG5xZ3B3?oc=5"
     }
   ],
   "insight": "Tracking Fidelity National Information Services (FIS)."

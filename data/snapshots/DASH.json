@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-31T05:00:39.840Z",
-  "builtDateUTC": "2026-07-31",
+  "builtAt": "2026-08-01T04:52:33.895Z",
+  "builtDateUTC": "2026-08-01",
   "source": "yahoo-finance",
   "1m": [
-    184.52999877929688,
     188.8699951171875,
     192.00999450683594,
     188.4600067138672,
@@ -24,10 +23,10 @@
     184.3699951171875,
     195.52000427246094,
     193.52999877929688,
-    197.52999877929688
+    197.52999877929688,
+    196.16000366210938
   ],
   "6m": [
-    206.47999572753906,
     207.64999389648438,
     207.22999572753906,
     209.41000366210938,
@@ -158,10 +157,10 @@
     184.3699951171875,
     195.52000427246094,
     193.52999877929688,
-    197.52999877929688
+    197.52999877929688,
+    196.16000366210938
   ],
   "1y": [
-    250.25,
     248.35000610351562,
     258.0199890136719,
     255.27999877929688,
@@ -411,12 +410,19 @@
     184.3699951171875,
     195.52000427246094,
     193.52999877929688,
-    197.52999877929688
+    197.52999877929688,
+    196.16000366210938
   ],
-  "lastClose": 197.52999877929688,
-  "oneYearReturn": -21.066933554726525,
+  "lastClose": 196.16000366210938,
+  "oneYearReturn": -21.01469746678917,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "DoorDash Q2 Preview: The Odds Are Against Investors (NASDAQ:DASH) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVWJWanVrOTRBbXZCbDJhbUxrVlFaS1llUEl3dExPdkpNY0N4eWYyX2JJUVB5bmdzVUNlZDhkZHNlTFhUUU5wTDg1alg4NWhxb3BVTndiMllmWERZRlJzWllQbDJNQXN1UHoyV0dkS3Z6WWJBVjlVOEdTSTBUQ0swaHE4c3pKMmwxYUJyb21paHNfRTdyRVE?oc=5"
+    },
     {
       "headline": "DoorDash (DASH) Stock Trades At A Premium To Fair Value - simplywall.st",
       "source": "simplywall.st",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWE0b2d5bGt1SlE0U0Q2OXRTYzc3d0RJYmg5SHZzVjVPRV9QYzBNOVl1eWRzQWlEcWZsMTJoQlRibVZSeFZEbUJPQjJfbDZhNlVCaWRyeHRObEhEREtWTkpkTTNuak5Kc3ZZTXd4MnJ6eVh2ZktHUThrcktOZWZTTmJDNGNQUS1uOFlUZTRJczBxdjJGeDBvbHVCRXY2ZlZpT3l1WF9EenpGelRNdU5YUHJQeXUxQ0RjelBvQXZwa3FzWGIwTW1tN9IBzgFBVV95cUxPZGNjQ1F1a0pKOHpPTzJUZ1BHNGdFVmxWWDZxUXVEUmlKenFvZFV4TmNMY25rQWtobEJtYTFBektva0JfVnljcWlVTDhxaUhvRFM2OGRmZmhVLVVMdGZYbmtPT0FPVkhlcF91QWdra2tQZ1NSUFpvampkTW11ZGViYkJteXBxcWhTMVNVWkZveVd0cmVzWlo0Qnhuc2E2dU4wbGNacDZuME1yTnZ0WkliS29HQWJHTUIxdU0yUUVYSzJNa1NBVWwyU1RONmNaQQ?oc=5"
     },
     {
-      "headline": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONWtVLTRJTlR2clR6NWZtRGc1aGNGeW1QY1V4YXNkdzM3b054SGVIRXo5djgybFc3UTVieE9QQlBCdTlOaDl2bEdVZzdUT1EyeWxDU0xQWnpoSHJzc3RkaVpXSTE3d2l4VjBHa2hNa1BmQUoyTnBEcWlGM3Y1UXVNd1ZNXzEtcVZHMzR1UjFPSnVjaUlrSm1vSnhQanVVY01QOEZyd2gwTzdQeHFMTGQ0NndJeW1HWGdfMDQxN1l6azQ0UkFsWWY3cUF1dnh2TzktSDdXR19kX3dUVGFRbmRyNUNvcGU?oc=5"
-    },
-    {
-      "headline": "DASH Stock Alert: What to Know as FAA Approves DoorDash Delivery Drones - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeHFsWU43Wk0yeVVyRnpnNGxuRUlLRzhPTVB6dUV2TWl1eWt6dFpoeVZGRDdsdHB1c1pXbEY5ZEY0YlZzQS0tRzI1cUhFTWtWb1FuYVdWUkQwWXF3bHNaSVM4aVlwT1hTZXRMamhBQm9oS2k4MFZkOV9DM2RWaGllQ2puMWw0YVU1VEgxdUJSYTFDbWNpSEhDMXozSWM3dG9hMVRFN2ZWN2N1by1JS28zNElMSks?oc=5"
+      "headline": "The Manufacturers Life Insurance Company Sells 38,706 Shares of DoorDash, Inc. $DASH - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN2JjTHV0eHNWbVVGdDlLcVVZUDNlZjRaUW9ESTl4Z2lGc0w3NktJUHl2SnNNSjkzZmsweGd4UFc1SGd5VXcxNEZlN21FWjJERVBaTXRlVkNXdjM3SGtuVGstN0toUUpMc1VvTlJmU0NrTG5ELVE2bnBYRnBZR1Rzam8xT0N4YWI4d2hGVzlEaENsZUlWSUwzbF9kbDRuUXpIN1hJMHBVUWRrVFVvMEVyTGh1OXF3MWNQSlhqOVRWRGVxa0xoa3RiS0ZuZTN4OG9KM1B2elB6b0M?oc=5"
     }
   ],
   "insight": "Tracking DoorDash (DASH)."

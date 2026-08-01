@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-31T05:00:48.921Z",
-  "builtDateUTC": "2026-07-31",
+  "builtAt": "2026-08-01T04:52:43.522Z",
+  "builtDateUTC": "2026-08-01",
   "source": "yahoo-finance",
   "1m": [
-    61.09000015258789,
     61.79999923706055,
     62.650001525878906,
     63.599998474121094,
@@ -24,10 +23,10 @@
     62.91999816894531,
     64.08999633789062,
     59.540000915527344,
-    58.47999954223633
+    58.47999954223633,
+    59.209999084472656
   ],
   "6m": [
-    54.439998626708984,
     54.720001220703125,
     54.59000015258789,
     54.75,
@@ -158,10 +157,10 @@
     62.91999816894531,
     64.08999633789062,
     59.540000915527344,
-    58.47999954223633
+    58.47999954223633,
+    59.209999084472656
   ],
   "1y": [
-    47.93000030517578,
     46.54999923706055,
     47.220001220703125,
     48.400001525878906,
@@ -411,12 +410,19 @@
     62.91999816894531,
     64.08999633789062,
     59.540000915527344,
-    58.47999954223633
+    58.47999954223633,
+    59.209999084472656
   ],
-  "lastClose": 58.47999954223633,
-  "oneYearReturn": 22.01126469828395,
+  "lastClose": 59.209999084472656,
+  "oneYearReturn": 27.19656295360992,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Fortive Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXhaSEI2MkhMOVY1VWdUaWhPNmpwTVR2OHBHVWxLMzhVVFh4Wkd3T2pUWG1hbDRacHRfWGd0MU1PY01EVUhBdnBPbXdLUHFUS1RGdHVpM0I5VHUtaVpRZWpiUmtPcjNHcnVFYXVLVFNmanJLeUZVeEZEcXJGTFF6QlZSLTRNR2tXRERHanlJYWM5TDdOb09acEgxaktwaTVxM3lPSDNjVjRCRHQybWpMY09pTDViajJvaXlTQUg3Rld0YkNaTlRXdXNUVWNmU21kREN0dEo4VTl1Zw?oc=5"
+    },
     {
       "headline": "Fortive (FTV) Posted Fresh Earnings, Is The Stock Cheap Or Pricey? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2RLVXdYS3BEc2N2YWJrMXI3T0lWU3RSaGtSZHEwTlZGejEtR3ROckNnR3FLSTdyd3BIdFJJTllWbjktMUVRLWFVMXRMSTZUUDkxWU4zTEdVOE9vU0lodWhmaXZfR191LWgxbElCOUx5N1lTMTdYMXpPYm1UWVBTVUd5dHkwNGd3Q2ZqNy0yWlNabGs4V2dXSDRab3JnTjA?oc=5"
     },
     {
-      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ycjhxcXZBa1pOcmRGYk5LamJjTHhVUk5aU3RqWXZoblZwN2lnLWlBT3NVeUxaLXpSN2NibmMzWXZ1VjlFb01vY0Z3WlYwQk0?oc=5"
-    },
-    {
-      "headline": "Fortive Corp. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbDhVVTNSRTliaEZEQzZlSi1mTGtlNnZUeVFKNElJRGZENU1wVDJwdDhZTWRxelFGdlZfdXlkeXBKS3R5aUc0akR4RmFyTzBVTlJQWlM0MktiVkVKelpRSHg3QWRXZ29kd25vNG93V3lNRC1tdW9mZFJ3ZWQ5blQtT2VzZ1hycDFpTGJ3Q0Y2QmhKdnNrUzV1a0VlbUlFR1hWeTAyS3U3bFp4Y0hjMWoyamtXTDVYd1pGZTMtZHRncS1EM2o4S1lGWEdFekJsNWxEaXMwOGE0cXhMVEh6QkFycUZn?oc=5"
+      "headline": "Fortive (FTV) Stock Dips As Profit Strength Fails To Win Over Investors - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFpnRTB2a2RNZ2s2TG90SDhwNmdOYmVkOTNzWHFZNXNaa0hjOURHdVcwQ0wtVEU1RWg4RXJyWUtJZDJnZ3hMTFp2MXZmU19QZV9jTVFmWkVQSURPR2FlRkdOQlFqd0VLZW5wQ2t0OHVqSWJsOXRMbVFGTHRUWU9CNDl3VXI3VWZxdFc0V1ZlRlFDZXV1WWp5VzhzQmZrM2Yzbkw4aG9DTjVqUENyU3JQaWhhVUdjSkpSNWNrTVRqNkZsUmlXMmfSAcsBQVVfeXFMT2dHS2JfOFhFM1lqZTlyUjF3WFU1OFlTNUhGeFZnN3FRandXckFsN0tDSGVtWlJLY0c1TFJibmYwQ2pvR3A0TXJpYXVEdXd6Ukt4QWlTOG5CelBESXhPV2NaRm1neXFoVnhTT2k2Y1hfWVBydHlGMG5mdUU2aXlGM0h6V1BqOVF6c3ZfX0o2cVMyMHk1SjNfTE5MVnVjd1Z1OWtxRFlMTzQ5dHBYa1BRUV8xMlp0Q2dESUNCZzNHLXM1RTVRLXY4czJJdVE?oc=5"
     }
   ],
   "insight": "Tracking Fortive (FTV)."

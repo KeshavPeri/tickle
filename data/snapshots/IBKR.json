@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-31T05:00:53.880Z",
-  "builtDateUTC": "2026-07-31",
+  "builtAt": "2026-08-01T04:52:49.775Z",
+  "builtDateUTC": "2026-08-01",
   "source": "yahoo-finance",
   "1m": [
-    87.04000091552734,
     93.25,
     91.33000183105469,
     95.98999786376953,
@@ -24,10 +23,10 @@
     92.2699966430664,
     90.91000366210938,
     86.26000213623047,
-    90.4800033569336
+    90.4800033569336,
+    87.98999786376953
   ],
   "6m": [
-    75.80000305175781,
     77.20999908447266,
     77.58000183105469,
     75.3499984741211,
@@ -158,10 +157,10 @@
     92.2699966430664,
     90.91000366210938,
     86.26000213623047,
-    90.4800033569336
+    90.4800033569336,
+    87.98999786376953
   ],
   "1y": [
-    65.55999755859375,
     63.61000061035156,
     64.9000015258789,
     63.709999084472656,
@@ -411,12 +410,19 @@
     92.2699966430664,
     90.91000366210938,
     86.26000213623047,
-    90.4800033569336
+    90.4800033569336,
+    87.98999786376953
   ],
-  "lastClose": 90.4800033569336,
-  "oneYearReturn": 38.010992566111334,
+  "lastClose": 87.98999786376953,
+  "oneYearReturn": 38.32730234159201,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "How Stronger Earnings, Dividend and AI Integration At Interactive Brokers Group (IBKR) Has Changed Its Investment Story - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-01",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0M1NUdfRjlXZ1Z3T1FwVHBta1Zfd05PVS1QOGZpZFZobkhEbFdsSWJvNExYcWJJSEZjazlVS0VlRFpNUmc2QzY5VVZjU1p6bGRHc3liTHR6XzBDVGJaNXl4c29PcnhhWnNnaUFEaVdTbmdBTEtnX3BkazZWWlktYS01YUswNW43X2NXQmNLRENJUUpRR2szMmFoT1c4bENMZHR5RWdPMTVxaFRwTkJzYmVrYk93NlhnaEVheDJwSWFadG5Nb1g1c0Nyb1B4Z3lFenBEdFBqRVZDdURhcWRjT3R6MXNUSXBRTTY5RU5CQdIB9AFBVV95cUxQVkZjZHpwNjJuajM4bk1kQU5MWnJaT3NRNlNoYlZPQzBGWWI3TzZDVk1vTmF1ZlRDQU1qd2lmSnVqXzNQdjAxbWJ4MmM4RVdPbG5MaVJEa1VURi1ZbDdfNkVLU1QtcFlyNUNxcXQyQ09pTW9feHl4ellFQXZhMjkxR0tVbHJ2TUpzSlJzLUN1ck5nME92OGRrbDZSS0MtR1c0b3hCZENzU3JrNUZoTWNTalE0NG1PTGdFekhtLXdKZWN4QW5hczNBaXpfRTRRREIzU0dVc2FRU0NZQ2YtRDRSS21OUFR3VDk3Y2RWamJmQ25oUVky?oc=5"
+    },
     {
       "headline": "Is Most-Watched Stock Interactive Brokers Group, Inc. (IBKR) Worth Betting on Now? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFLd3A2RXM0RUoxT0ZUdVN3S2V4SmJvNW5kSGxLRUNMeXkya0ZtQjZ5RXQyVDNWdi1oSFBYLVZ3bXBhZVRoQ3ZvemF5RVhGV2tRMzRKWTBSeUVsb1diemZqWnkzcFRzcFJESDFVNWhtV2plRXVrS2Y0bnZRbXJIX2ticXFlTTVSTm1scmhXZkUwV1UxTE1rdVN5VmxMdXZreEZCajV3?oc=5"
     },
     {
-      "headline": "Interactive Brokers Stock In Focus As Apple And Amazon Stir Options Trading - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNFh0SmNGUGNyVENTeVNMU3VSOGR0TWRfTXo2bGQ2anV3WEc3eTg4NjhuWGp4NVJNOWJNY01UVW1zc0o4X1ZVT3M4N1U1dXpoVWJhV2NjZWQxNG8xMFg2WjBmclUxNEt5WC1nUk9uTTY2RlY2akRjTk1ROWpUTXJFZ2VoTC0tTmhuYzQwU1drMGRvcG44SmVkaWk4VkJNeDlZRmR1WEtlVUg5b3FKYVNrbURhMWxlcVFFM2taWTVnWTdPdTBjTnItUWg0YnY1bFhKdWVzOTRGOF9nVVdMVm1LdlVwLVhYa3BmemxVQTcybkNlZGfSAfMBQVVfeXFMUDRYdEpjRlBjclRDU3lTTFN1UjhkdE1kX016NmxkNmp1d1hHN3k4ODY4blhqeDVSTTliTWNNVFVtc3NKOF9WVU9zODdVNXV6aFViYVdjY2VkMTRvMTBYNlowZnJVMTRLeVgtZ1JPbk02NkZWNmpEY05NUTlqVE1yRWdlaEwtLU5obmM0MFNXazBkb3BuOEplZGlpOFZCTXg5WUZkdVhLZVVIOW9xSmFTa21EYTFsZXFRRTNrWlk1Z1k3T3UwY05yLVFoNGJ2NWxYSnVlczk0RjhfZ1VXTFZtS3ZVcC1YWGtwZnpsVUE3Mm5DZWRn?oc=5"
-    },
-    {
-      "headline": "AI tools analyze Interactive Brokers portfolios; clients review trade instructions - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWDd6dF8tVmVRVk9UVE9NUlQyNTBZeU00ek1kWG1pNXpxdnlWNTl2dGtIcEVHVGhlMWs5M0dSMUlydGRzSmg5QVNKTkNSNW5ZcHJVdmM5VHlKX2swZFpmTDkzRl8yX0NHeUhtOGx1RzdFM0xGclJJZlMwTDhlNFRFZlZVZWk5ZVo3YVlYZW1pc05mNTFXc2JTLWtJS19nR3NkZnh2aHdEVzlxX1VMd2tnc0dYTkpoTHpXYndPbzFB?oc=5"
+      "headline": "Interactive Brokers (NASDAQ:IBKR) Passes High Growth Momentum Trend Template Screen - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLUd0WHVRNzhfc3NnaTUxUV9Wb2hoUDRfTlpSNjg0UGgxWVlLVHBNbFAxQkRfUFJWYVVEeGpQUE1rSWRyelNtOU9xQlJkSjBZSlM0Zl93LVB5dGVwcjJ2NGp6b3g5Z2lKR1hSMzFyVElwNTN0M1lNM1lfamJGczN0Y1F1bWJob24zUjVZd1RwXzMydXJfdXl3RU92eHo4b3hVNm8wSFdaRVlLYTdqeWxhR2x4ZUJUS1ViQ2k5S1VsT09zTkd3b2JxYU5qSHg?oc=5"
     }
   ],
   "insight": "Tracking Interactive Brokers (IBKR)."

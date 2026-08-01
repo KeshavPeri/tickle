@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-31T05:00:35.651Z",
-  "builtDateUTC": "2026-07-31",
+  "builtAt": "2026-08-01T04:52:28.780Z",
+  "builtDateUTC": "2026-08-01",
   "source": "yahoo-finance",
   "1m": [
-    24.549999237060547,
     23.729999542236328,
     23.790000915527344,
     23.3799991607666,
@@ -24,10 +23,10 @@
     22.799999237060547,
     24.190000534057617,
     24.610000610351562,
-    23.670000076293945
+    23.670000076293945,
+    23.959999084472656
   ],
   "6m": [
-    28.889999389648438,
     29.229999542236328,
     29.299999237060547,
     29.43000030517578,
@@ -158,10 +157,10 @@
     22.799999237060547,
     24.190000534057617,
     24.610000610351562,
-    23.670000076293945
+    23.670000076293945,
+    23.959999084472656
   ],
   "1y": [
-    31.14339256286621,
     30.477975845336914,
     30.515464782714844,
     30.468603134155273,
@@ -411,18 +410,13 @@
     22.799999237060547,
     24.190000534057617,
     24.610000610351562,
-    23.670000076293945
+    23.670000076293945,
+    23.959999084472656
   ],
-  "lastClose": 23.670000076293945,
-  "oneYearReturn": -23.996719276766132,
+  "lastClose": 23.959999084472656,
+  "oneYearReturn": -21.3858584111369,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Comcast vs. Shopify: Which Stock Is a Better Buy in 2026? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc3Z3d1VPMG9hRDB6MjBSeU1MZk9GbFB5MTdoSWw3OVBNZ2tmeVB1Y29IQ1BQWkdRbVltdkUzRXFNRjA1UHBteG5fTFRVb3dGR3I3VXpEYjlJSjliYVk3NkZvcVh1R3pNUzFWWnNJejZ5SExsSFl0SlVjZXFUb3IyM0lHcWRsX0YzRm95Y3VzcjRUZkRjZ2YtX2dzOWhXbzBzaF9XcUJoVW9iQ3c?oc=5"
-    },
     {
       "headline": "Comcast (CMCSA) Stock Could Be A Bargain After A 47% Fall - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3o5LUx2SkhlUjdpRVU3ZGpQZVVobGdIa0tldWpWdzIzd1pSdTZ0X1FfRENPbFhvYnlmT1ZLcFgyWW1XdS01QURfeDRTNGQtc1JUcUVIV1dUbDZtZkJuUXVwUDFfRHRmaEVUaVp0MllMSGdJTWhjMEVmOXRudGx3VjRBNGs2b2ZGalFuNnh3cG16TE54VWVXUVNmb2djMkE?oc=5"
     },
     {
-      "headline": "Beyond Broadband: What Could Power Comcast Stock From Here? - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdm9aMnZQRVRtVnVoc2pMWkVobjI3N3FZZVlpUzY3d2N1ZElyN05uQS1iRUNnUVVPNEhqYmRaTWZWbEFZR1M5Q2ZEQWw1OTJwM3pkUW0wY0NnZjhlaW1uY1JNX3QtWEJGcXQ1UjIwMF9WMmE2T3FLbUx5SnFZQXN4c0F0NllXbUVoYmRHNV9JWExGc2tlbkdScUhhbllkd2lpOWRQRXlKR3pJaGh2MjRsTzExWEJoUWNab1Bz?oc=5"
+      "headline": "Comcast vs. Shopify: Which Stock Is a Better Buy in 2026? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc3Z3d1VPMG9hRDB6MjBSeU1MZk9GbFB5MTdoSWw3OVBNZ2tmeVB1Y29IQ1BQWkdRbVltdkUzRXFNRjA1UHBteG5fTFRVb3dGR3I3VXpEYjlJSjliYVk3NkZvcVh1R3pNUzFWWnNJejZ5SExsSFl0SlVjZXFUb3IyM0lHcWRsX0YzRm95Y3VzcjRUZkRjZ2YtX2dzOWhXbzBzaF9XcUJoVW9iQ3c?oc=5"
+    },
+    {
+      "headline": "Why ‘The Odyssey’ Box Office Success Isn’t Lifting Comcast Stock - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaEdia212cnJWWW9lNEN1QkkxMzhmUzVyWU1CR1JGMk9ia2doSXgyWlRubUVqZS1Ed2RCQ0sxbzhhci1sd3hWeWNLOFNQdVFnQUdVOVZFZGpFX19Wc1N6OFpKdzJVTzVMMkYwZ1BFQ1ZrZTdFNDkzSzRxeE41N2pZQmVZVWJud2U3SFJ6NEdGd1c?oc=5"
     }
   ],
   "insight": "Tracking Comcast (CMCSA)."

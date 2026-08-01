@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-31T05:00:45.913Z",
-  "builtDateUTC": "2026-07-31",
+  "builtAt": "2026-08-01T04:52:40.865Z",
+  "builtDateUTC": "2026-08-01",
   "source": "yahoo-finance",
   "1m": [
-    91.19000244140625,
     89.56999969482422,
     90.72000122070312,
     88.88999938964844,
@@ -24,10 +23,10 @@
     90.51000213623047,
     88.5199966430664,
     92.45999908447266,
-    92.41999816894531
+    92.41999816894531,
+    94.02999877929688
   ],
   "6m": [
-    109.5,
     109.48999786376953,
     109.48999786376953,
     112.36000061035156,
@@ -158,10 +157,10 @@
     90.51000213623047,
     88.5199966430664,
     92.45999908447266,
-    92.41999816894531
+    92.41999816894531,
+    94.02999877929688
   ],
   "1y": [
-    104.77999877929688,
     101.97000122070312,
     101.2300033569336,
     101.04000091552734,
@@ -411,12 +410,19 @@
     90.51000213623047,
     88.5199966430664,
     92.45999908447266,
-    92.41999816894531
+    92.41999816894531,
+    94.02999877929688
   ],
-  "lastClose": 92.41999816894531,
-  "oneYearReturn": -11.796145022282376,
+  "lastClose": 94.02999877929688,
+  "oneYearReturn": -7.786606204133475,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Expand Energy Corp (EXE) Stock Price & News - Google Finance - google.com",
+      "source": "google.com",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nSk9YcEEzdkpKQ0Mxck90NjR3UEtrdDNYUmh6R2FrTHMtbUE0RUpYSVdnbGFaNFNpUzJEcWdHZC1XYU1DTm5mM24zODlwUC1xeWRQd0dVY1Y0Tzg?oc=5"
+    },
     {
       "headline": "Expand Energy (EXE) Stock Still Looks Undervalued On Its 115% Five Year Run - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMjdYMlFHOWhQT0h0V01SUVcwTmxLMEZSMXkwbS1TQ3lMdHdLT292X0Vvdm8xdVByRGRQMXRjTzJWUzZVMlhjLWpLU3NwVWlsR1Jlajh2QUdSQTdCVy13TWdna21zVF9SaVk3NThaWEt2V0w0STM3dklTZWNfSkxTU2JxRkpKcWlscWtIMF9kZVd5U01mallHd3N3?oc=5"
     },
     {
-      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIMVRjLWhDQUVzbGs4aHRZV2tQaHA1Rm8tdEhtTlczaWVXQ1otaEU5dDJVdmVRLVNtdjFjbWZRdXhVYWJleExEOVJFTVpIZHM?oc=5"
-    },
-    {
-      "headline": "How Investors Are Reacting To Expand Energy (EXE) Earnings Beat, Reaffirmed Output, And Bigger Buybacks - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMThFUXR1Z0JkMWtYcW9yWE4xRkU4eDRQNXdpQ3p4VllxWXp3eGNockV2NFl3SF91clFBck94a3ZEMWM0REEyeHZXUkprdWJQWjVkek51X3pTcjEzcmljRXJJX3NjdmZHaXBEUi1qVktQOVlXX2lMN2hYVWJTRkp2NDJuY3BUMHFrdS1Ja2RZcUxtbFdEUmptYjVwbmNFS242cVgwUElybjdJUzlSY2MxWTA2TnpQdTFzcGlSOGgyZUZjcGp5VFF5bTRxYzBkUdIBzgFBVV95cUxQMThFUXR1Z0JkMWtYcW9yWE4xRkU4eDRQNXdpQ3p4VllxWXp3eGNockV2NFl3SF91clFBck94a3ZEMWM0REEyeHZXUkprdWJQWjVkek51X3pTcjEzcmljRXJJX3NjdmZHaXBEUi1qVktQOVlXX2lMN2hYVWJTRkp2NDJuY3BUMHFrdS1Ja2RZcUxtbFdEUmptYjVwbmNFS242cVgwUElybjdJUzlSY2MxWTA2TnpQdTFzcGlSOGgyZUZjcGp5VFF5bTRxYzBkUQ?oc=5"
+      "headline": "Middle Man – Expand Energy, Already a Giant, Broadens Its Scope and Reach With Twin Eagle Deal - RBN Energy",
+      "source": "RBN Energy",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONlhvSUdGaFVBVVZXMnh0b19ESlk5VHNKNDI2Q2lKaHdGTERVUWVYSzkzbUpuXzFWV1pfT0htc2hCX09sNWtibXZUQk5VdFZvdk94ZXd2U0hvdS1FMV90WFRmdWZvc1N2a3dGNHBxMlJza3Y3TjNjTzFOY0w4WmREUGxfVHoxZFYwUUZJblVsSG13dmZzbVpSOG9yVGxIamhFbkVfZUdVQjRXQTBkQS0xWQ?oc=5"
     }
   ],
   "insight": "Tracking Expand Energy (EXE)."
