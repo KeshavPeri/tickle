@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-07-31T05:00:57.543Z",
-  "builtDateUTC": "2026-07-31",
+  "builtAt": "2026-08-01T04:32:08.847Z",
+  "builtDateUTC": "2026-08-01",
   "source": "yahoo-finance",
   "1m": [
-    109.7699966430664,
     111.44000244140625,
     114.72000122070312,
     113.01000213623047,
@@ -24,10 +23,10 @@
     111.44000244140625,
     113.08999633789062,
     113.20999908447266,
-    110.19000244140625
+    110.19000244140625,
+    109.30999755859375
   ],
   "6m": [
-    100.0199966430664,
     102.19000244140625,
     102.2300033569336,
     101.13999938964844,
@@ -158,10 +157,10 @@
     111.44000244140625,
     113.08999633789062,
     113.20999908447266,
-    110.19000244140625
+    110.19000244140625,
+    109.30999755859375
   ],
   "1y": [
-    124.62000274658203,
     130.63999938964844,
     133.13999938964844,
     134.2100067138672,
@@ -411,17 +410,18 @@
     111.44000244140625,
     113.08999633789062,
     113.20999908447266,
-    110.19000244140625
+    110.19000244140625,
+    109.30999755859375
   ],
-  "lastClose": 110.19000244140625,
-  "oneYearReturn": -11.579200760025305,
+  "lastClose": 109.30999755859375,
+  "oneYearReturn": -16.327313174149342,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Kimberly-Clark Corporation $KMB Shares Sold by Waverly Advisors LLC - MarketBeat",
+      "headline": "Kentucky Retirement Systems Purchases 10,646 Shares of Kimberly-Clark Corporation $KMB - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVW0zZ3BwT0dVUTA2amM0TGQ2NkRzMVFxRnlDTkJVZEE4LTBocXBPSlkxS0lOU1U2SG5WMlNMSjRjQURHMkJiWXBqb0hBVG9lbGVWdTNMVzBjZl9CWDNJQ1NROGZqY0ZkX3dOWVVNVXVvbkJyOVNFcDI0TFZHcURJVUxTUGUycHNHOHdqZTFYaV90WS1mRHQ4WnpqXzNibldfb21GYXo5dldDUEJOOUlHXzV2Z2U1RUFGMFF0SFBmZHRlS0NwWnc?oc=5"
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSG5Rcl95b3ZEQWxvcWlWSUstZXhqaVZUcGxwQ1dMV2tPU2R4anNnc001bWNBaERiNTZSZ2tNeURZZXRkekxYUzYyd3c1Sk5oZmhhR0JWRHdPS3BxOXhDeVNUamlJOThBRmtaWHFPcEtFZnZDdVNoUnZXWm5FYjVnUV84c1RxS2RKN3ZUUE9UQkVucGJnVWZZTUUyTWRKdi03ZjE2YnFmVTRBdkhKWVZUZ3JSbklLYXl6bFdlWFJTTnM4WW9BeWFUMi1oWnJzTG05UHdwd0pNSEhJbGlkbEE?oc=5"
     },
     {
       "headline": "Jim Cramer Says Kimberly-Clark’s Acquisition of Kenvue Creates a High-Margin Powerhouse - Yahoo Finance",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWnVsSlp1d2RsQzZyZ3BrLXcySkZ3aVotMVVLOHN6QVpDenotS3ByNHNSSnRaY3hCS3hIWWt6c3hSUjgwTVN6elNLYXo4TmJkbFBMeDNZd29LeTBQa0xpNzJGVVBZMkRQREVHd0dLLUhkSmJMOG52ZW8wTlJiQnBMUDFLWk51TUtqRVhkMFZPQ1ZxUU40VThJcjJSOA?oc=5"
     },
     {
-      "headline": "Johnson And Johnson Talc Settlement Puts Colgate And Kimberly Clark Stock In Focus - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTzhCcnIxUWNFUENZb3dFLWE3eWpQdUlnWjNCWWlWOGJUbUhmWDJ5bmlzRkUwQlJrWC1LS01PeFNuN0JTbzN0Z0oybEZwUlllVWxIVW4yNlR2WUxWYkVOM1VyV0dRREwyTXZ5NjVraVdSUzZBeXgtaTY4b3pGRGpDajh6eUZXUUluZktJeHloWEhGOGluVW9RX0lxTHBpZEV0cEN0OUtvNjF5ei03RWJURWdSZGtucUZHSUhvUDZEY25aS1ktMjRVdkpxWExPZ9IB0wFBVV95cUxNU295ZWRkYUVwc3RiVzVlUktoRWJLTjhUeXVBOWRwek9MSlVmemJCekhzM1hVZjNaY3FZR1U3TnlNWTd3N1RDaW90SWZRd0JYdlRZbnFEZ2hBLThtbjdjdkxuSGpvTHJsbW5ISnd2V1ZISk13OWlIanhmdXdEUTRfY3ZOazdHdEtTTURmYWdSRkxGMmlFRVB2S2owcXF6WUtGenBTcEJycHpWdFhZOHY0U2s3TTA4Y0wzRXRYRC1vQUtUaUlITEp4NXVYWWlkSnVfYzE0?oc=5"
+      "headline": "Kimberly-Clark Corporation $KMB Shares Sold by Waverly Advisors LLC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVW0zZ3BwT0dVUTA2amM0TGQ2NkRzMVFxRnlDTkJVZEE4LTBocXBPSlkxS0lOU1U2SG5WMlNMSjRjQURHMkJiWXBqb0hBVG9lbGVWdTNMVzBjZl9CWDNJQ1NROGZqY0ZkX3dOWVVNVXVvbkJyOVNFcDI0TFZHcURJVUxTUGUycHNHOHdqZTFYaV90WS1mRHQ4WnpqXzNibldfb21GYXo5dldDUEJOOUlHXzV2Z2U1RUFGMFF0SFBmZHRlS0NwWnc?oc=5"
     }
   ],
   "insight": "Tracking Kimberly-Clark (KMB)."
