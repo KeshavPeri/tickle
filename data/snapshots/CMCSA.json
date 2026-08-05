@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:19.322Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:22.400Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    23.729999542236328,
-    23.790000915527344,
     23.3799991607666,
     23.40999984741211,
     23.190000534057617,
@@ -24,11 +22,11 @@
     24.190000534057617,
     24.610000610351562,
     23.670000076293945,
-    23.959999084472656
+    23.959999084472656,
+    24.559999465942383,
+    24.93000030517578
   ],
   "6m": [
-    29.229999542236328,
-    29.299999237060547,
     29.43000030517578,
     28.700000762939453,
     28.40999984741211,
@@ -158,10 +156,11 @@
     24.190000534057617,
     24.610000610351562,
     23.670000076293945,
-    23.959999084472656
+    23.959999084472656,
+    24.559999465942383,
+    24.93000030517578
   ],
   "1y": [
-    30.515464782714844,
     30.468603134155273,
     30.140581130981445,
     29.681350708007812,
@@ -410,29 +409,31 @@
     24.190000534057617,
     24.610000610351562,
     23.670000076293945,
-    23.959999084472656
+    23.959999084472656,
+    24.559999465942383,
+    24.93000030517578
   ],
-  "lastClose": 23.959999084472656,
-  "oneYearReturn": -21.482437658807875,
+  "lastClose": 24.93000030517578,
+  "oneYearReturn": -18.17806613776371,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CMCSA Stock Climbs Overnight As Universal Heads To Europe: Comcast Makes Its Biggest Theme Park Bet Yet - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVhZSElaX1RIWHlCNG4xR3VNMVVhTGNUZVVwdHl5eU9heWdpcTFhd280Ql9PcGg4LTUzbGlyNW5YSUVpMVlYT2dXWnpnQl9mVUJYUnp1RW44QlF2YzY5aGNWSWptdXVRQVpfOXNmM2k0OU5LTXMtN3E2eG04ckdrXzFPXzEzTlc1LTNLYXJ4U2ltd0dzYjROck41LW9HbFdHdk96U3pvb0pQOWJF?oc=5"
+      "headline": "Comcast Corp. Cl A stock rises Tuesday, still underperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2MzX1VZVG50NmlSNkZQSy11Wkp4WF9reGRXUjZ2RUVtZy1mMkxfV2Q2N3Z3Y1FHLThXbmhkRHdjRmpxa19JMFhLX1Q1VE9ucUtHN1NKdjNUQjZTa2NOUzNUaTlkNDJoQWFfcEc1elQybTI2S2YwY21hYVRHM21GU1RTcVpyb0JvQjJ5SE9yVmlSRWk1MTVRTHVPWlpvckIxU2dXM3l2T3RrYnVtaUFFYTRZWUl6MDNsaEhZMVZaYXJVeWZEUjlVTnRNcFl2NS1nei1RYUxFN1FmUQ?oc=5"
+    },
+    {
+      "headline": "Is Comcast (CMCSA) Cheap On Network Expansion And New Ads Tools? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS2V4X1VOMG8ydHpyWEs0Qk5sTTlZc0tGSUlKLU5Xci10ei1PQ2lSVHpjbDF0WGYtMlJncWxDX1pueVJ1UEdkUndGeXI2S1FhR2N1eDBhbkx5NjRfaVFuSWEtVjZENkRTQTdSYXhpS29PMEZiQ0dkYmw1b3d5eWF6cF9ya1Z6YXZSMUxzeFBxZHlnU19DQVQ0OU9RUDhXeUl3bTRNbldqbVF5ang5YmNpS3NGZDNZQ2x2d3dwYmVhOGtfbzRs0gHKAUFVX3lxTE9mVjBtQ0l0SHFkQlo4VmFhX04tODI3clppY0R5bFlXdkkwdUU0d3dwZkM1MXZoYkhGakNybnpfSHNYVjJST2w4LWwycnZ2cS0xR3VTWFNmLUJKWDAwa0M2VWNMMlEzNEkzbW5Kc2tRSm1KUmxuNXFpeU8yQUlJRUtBQmpCTVVuWnoySmxIMmZRYlAzZ1FneFRfbnN6aUs2c1E2cDllT1RIWUcyV0w4VnRmMXpWdzhUeC1EQ0J5OVdjTjBoNi1QamU3MVE?oc=5"
     },
     {
       "headline": "Comcast (CMCSA) Stock Could Be A Bargain After A 47% Fall - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-30",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3o5LUx2SkhlUjdpRVU3ZGpQZVVobGdIa0tldWpWdzIzd1pSdTZ0X1FfRENPbFhvYnlmT1ZLcFgyWW1XdS01QURfeDRTNGQtc1JUcUVIV1dUbDZtZkJuUXVwUDFfRHRmaEVUaVp0MllMSGdJTWhjMEVmOXRudGx3VjRBNGs2b2ZGalFuNnh3cG16TE54VWVXUVNmb2djMkE?oc=5"
-    },
-    {
-      "headline": "Pacer Advisors Inc. Trims Stock Position in Comcast Corporation $CMCSA - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUowUUpSamVMaU1TNExva2llZEd4enhyV3QzNERLaWVnVkZtUTZDLTZNZV9JTUptRjlPVnRtSUFnNXlMU3BUanRGRmhiVVVwTWZYemVoRnY3VllsQXhNOXRYM0dyNWE3RGh0YzFuQXBGQm5rNkhiSHBnSjlpTHJJUnRla1prcmY2eUZ4RTd2VzZiemRhaDFGRWxtUXVFZ3FfWi14Sm9IVG8wNjBHWnBGTjhuSFVkSGxWbzZsWmRDaEdDNE43ODAzeg?oc=5"
     }
   ],
   "insight": "Tracking Comcast (CMCSA)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:14.971Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:18.030Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    34.060001373291016,
-    34.11000061035156,
     34.439998626708984,
     34.36000061035156,
     33.5,
@@ -24,11 +22,11 @@
     33.33000183105469,
     32.38999938964844,
     33.16999816894531,
-    33.86000061035156
+    33.86000061035156,
+    35.2400016784668,
+    35.77000045776367
   ],
   "6m": [
-    25.770000457763672,
-    25.309999465942383,
     25.549999237060547,
     25.5,
     25.65999984741211,
@@ -158,10 +156,11 @@
     33.33000183105469,
     32.38999938964844,
     33.16999816894531,
-    33.86000061035156
+    33.86000061035156,
+    35.2400016784668,
+    35.77000045776367
   ],
   "1y": [
-    25.1299991607666,
     25.25,
     25.190000534057617,
     24.860000610351562,
@@ -410,29 +409,31 @@
     33.33000183105469,
     32.38999938964844,
     33.16999816894531,
-    33.86000061035156
+    33.86000061035156,
+    35.2400016784668,
+    35.77000045776367
   ],
-  "lastClose": 33.86000061035156,
-  "oneYearReturn": 34.73936228065775,
+  "lastClose": 35.77000045776367,
+  "oneYearReturn": 41.6633681495591,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Franklin Resources Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Franklin Resources Inc. stock rises Tuesday, still underperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV0tKNXhPZW5RanZxVEtiZURWNnBjR0NPMHdLSnNoRExrejVDdTRwblE1M2lpdURvbHRsMDA4M0VpQTE3Ri1MUURhbU1BZmNWX1ZrcHM3a3N2VF9SWk5tTl9lSTgwNTcxRTljcFhvREQ0c0NFZDBZbE5TT3FCeGppejhOX2g4bDkwY2xqMEtVQnhiTUx4Q2VrMmVGcjEySElkc0hGYnFUS0tiMUJvZlVMT09oci14bHVxQ19RN2xvNmxUbUVDYzRudkNvbUlLX05VeGNHYXZJUnRsMDJrZmU3eg?oc=5"
+    },
+    {
+      "headline": "Franklin Resources Stock: Is Wall Street Bullish or Bearish? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV2RIZjBqdHh4WXdzUlRieVZzQVRfRTUxc19sYThlU2p1QXZvMEpwaXkxanhOSm96U3lfYTRnSUVTT2xIS0tBa19pUl9FeWVtLTROTFo4dUMzZi02TUtGaHVEMUZmVml0alZzeXBoWGVFTW82dWZQaG9wekNlSV9RQlFXbVJycGFPeUZnYzN5Rm5sZEtUMmhCN3RfdVg2a2JoVjE0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc3VNUWNPbWhjQzBjSTdiY3A0SDZoSHcwMlRYOFRGaWJzN1dBazFXcVp1RlNnMzRicHAwRU43d3Z4cUh0bVg2UXB0N3o4MDBITWdFbHdSaTBpaXJPRDhDczd1ZXB2TlJSR0szWm54dE8wMS03R1lmV29HOHlTbk5kME5Telh6V1dfTzBZN0s2eXl6RWJIeW5uR1NuMGtZaVJxVVV5Qw?oc=5"
     },
     {
       "headline": "Franklin Resources stock hits 52-week high at 34.95 USD - Investing.com",
       "source": "Investing.com",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUFFXQVZGVXo5OTB5UlEySUhVYVdySzV2RUJMMldIVjdDeUFwQkZkQ0M5ZjJ6YUg2OVFyMjJQTjdJMGd0Yjl3M0pZVEJYb0FYT3YwMlpaSzk5cXV5eXo1YkdIU2lIUU5GSzZkdm9Tck04b1c4WTBkYzlSWGxYS25Ndm0taXE1S2lyMTBTU3Jrb2hyWEx3bDc3dDNBOXV4QXU4T3VQX3ktNlEwNFZ0U3hv?oc=5"
-    },
-    {
-      "headline": "BEN Stock Price and Chart — NYSE:BEN - TradingView",
-      "source": "TradingView",
-      "when": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YaVhrSHM2ekVTS2lhT3hreGpuWERCQ0FOWmc5OHNFTmEwMVV3d1VvanhiWGdHa3VRdkUzbGRmTnZkR20tRDVZRGVYcHFLcHdVYW9sYm5qMHk?oc=5"
     }
   ],
   "insight": "Tracking Franklin Resources (BEN)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:32.070Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:33.895Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    86.91000366210938,
-    88.51000213623047,
     85.61000061035156,
     89.31999969482422,
     86.88999938964844,
@@ -24,11 +22,11 @@
     102.91999816894531,
     105.0999984741211,
     99.33000183105469,
-    82.73999786376953
+    82.73999786376953,
+    88.44999694824219,
+    89.08999633789062
   ],
   "6m": [
-    105.9800033569336,
-    103.69999694824219,
     106.0199966430664,
     103.8499984741211,
     103.3499984741211,
@@ -158,10 +156,11 @@
     102.91999816894531,
     105.0999984741211,
     99.33000183105469,
-    82.73999786376953
+    82.73999786376953,
+    88.44999694824219,
+    89.08999633789062
   ],
   "1y": [
-    158.14999389648438,
     153.42999267578125,
     154.82000732421875,
     150.25,
@@ -410,29 +409,31 @@
     102.91999816894531,
     105.0999984741211,
     99.33000183105469,
-    82.73999786376953
+    82.73999786376953,
+    88.44999694824219,
+    89.08999633789062
   ],
-  "lastClose": 82.73999786376953,
-  "oneYearReturn": -47.6825791609412,
+  "lastClose": 89.08999633789062,
+  "oneYearReturn": -41.93443225526961,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Kaplan Fox Announces an Investigation Into GoDaddy Inc. (NYSE: GDDY) for Possible Securities Law Violations - FinancialContent",
+      "source": "FinancialContent",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSHdNSlhmYndsVGd4b21qUVFUVExJbWFKaWkzYmxJVUFxXzQ3VV9kZlNqWThhb0pWQ1BOSlFlOEVEMWdHdHZNNUpVX0ZhWndqQXF4bkV4bFdFTExyY3p4NFZQMEZIelU0d1Y0cy1OVUF5NWdIcWpFam1ILWpxOTN4YjI2UEdGamhDcDNnTjYwSnF2ZjNLeTBxMmhteGw2YWI2REJZcWNieFRySC11RnBYWDlrbHZBWk9JZEh5eXNBVC1xR1h3ODZVLTdjeTdiQzNKai1SSUNKU2h3bVRsSXJneEFBWGJjMVNlUklGUEctTXNMYlBnem9LQ1F3RHlmb0U1eVpObS1B?oc=5"
+    },
+    {
+      "headline": "GoDaddy (GDDY) Stock Gets Fair Value Trim As Analysts Reassess AI And Execution - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmVBSEhWS0JPazdHTzRZR0VvZWdIT0FtYldEMDBwQWRtY2NXcFUyU1BGZzViaWJUNE1BSElQRVFWY3o3cFV2Z3VXZHlha0hDVjZBZEtJR20ySk5rVkttWUR6UmdYR1NYSFV5T2JEQlBIUkN4TUFycENWa2k3SE55eXBMYmtCUkF3RVo5T1lmaWd4NndTLVZnWQ?oc=5"
+    },
     {
       "headline": "GoDaddy Inc. Cl A stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOENRUHMtanNMSnJfN3kyWm5Od01fTEhTMjhDZnYzY016RnpzSVI0TlNrQkxfejlCVXdudXhLT215NGZLMWJzajZUMjZfLWloY3hoSTlfZ1hzdUV0a0E5YllOSW8wZ3RGSGo3dzY1cV91dURnejQ3ZUpQV2RURUJsbE0tRTB2cHVGT3F2Ql9WRXd2SFE4QzdheEdKTUNuSmk0OVE2d0l4dWhWeDZIU3BIVmk3ZWZrOXg4WWRLVEhOVy1wUzI5Zy1V?oc=5"
-    },
-    {
-      "headline": "GoDaddy (NYSE: GDDY) affiliate files to sell 4,500 shares, notes prior 8,373-share sale - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNUt5cmRfMC1ZeThuSWJtWVY2cDhTbThwcUkwM1VmNGJ1bDZUMkRRRUFLcC05Yl9TVjR2STVHNXRjaVZHWkV1Vi1VNFg1a2tkQzV2SFlRRFpIU1FxTm5GN0dGbTFrQkQzdDQ4VTJQemc1eVphQ1plc0NHaVFZaDhhUVg5eGk2WE9fRzRSdjI2S3BIQUk?oc=5"
-    },
-    {
-      "headline": "Wedbush Has Lowered Expectations for GoDaddy (NYSE:GDDY) Stock Price - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeWJPWlFQVlJ0S1VqRmdSNGx1UjRITzdJY2Z1WktDSVF2NjBVZVo3dGYybjRmY1YybXROOGliWEF6aVVjX0FHSldhSGRRRXVYTDBuNk4taTZLemtIaHczdVF3QVRnbExpNVRaSEwxbmlxRlVYX0F6dFNkT2FHNGV2cDlvb1ZXdkVLN2tRcUdmYWxpTWEtWHNibjRTa1JRblVCUEtsMmNjN04yM3ltV0laTVh2OUlhU0tja0xj?oc=5"
     }
   ],
   "insight": "Tracking GoDaddy (GDDY)."

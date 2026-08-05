@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:51.592Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:52.506Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    661.2000122070312,
-    652.0800170898438,
     654.97998046875,
     641.7000122070312,
     639.510009765625,
@@ -24,11 +22,11 @@
     649.6699829101562,
     631.3499755859375,
     649.1799926757812,
-    655.5700073242188
+    655.5700073242188,
+    670.5599975585938,
+    684.760009765625
   ],
   "6m": [
-    621.6199951171875,
-    610.6599731445312,
     607.530029296875,
     616.02001953125,
     620.3099975585938,
@@ -158,10 +156,11 @@
     649.6699829101562,
     631.3499755859375,
     649.1799926757812,
-    655.5700073242188
+    655.5700073242188,
+    670.5599975585938,
+    684.760009765625
   ],
   "1y": [
-    552.260009765625,
     552.1599731445312,
     548.9600219726562,
     550.1300048828125,
@@ -410,29 +409,31 @@
     649.6699829101562,
     631.3499755859375,
     649.1799926757812,
-    655.5700073242188
+    655.5700073242188,
+    670.5599975585938,
+    684.760009765625
   ],
-  "lastClose": 655.5700073242188,
-  "oneYearReturn": 18.70676777817712,
+  "lastClose": 684.760009765625,
+  "oneYearReturn": 24.014786125466735,
   "marketCap": null,
   "topNews": [
     {
       "headline": "Teledyne Technologies Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOR203YmdjRUtMR1VNT243RGdEekl4SlpieEprX2xpdkJ5Rk50dTRyeEtDMjZXVDhxZTRTUHR1TldBMDJNRFFrT24wYURLd1NrT3VYc0hMZXNBbGEta3Z4cUpkeGYwaGpfaTRlc1pyX19oVUdJMnZZM3FOT00zTU00QUtjV2todUZwZ2dwdDJuWnRqMmlRZFQySFVRejZDMlhjMFhkQ1BVY1M0UGFPVnZZU09uQ0cwWTN2dTRHQ2VlWkQtRm5RLUVoS3U4X2VjQ1VoWDFha1lGSmZSYmJDZUdfbE1mRFNvUmRGNFNB?oc=5"
+    },
+    {
+      "headline": "Amundi Sells 20,841 Shares of Teledyne Technologies Incorporated $TDY - MarketBeat",
+      "source": "MarketBeat",
       "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQN0J2QWZGVWc0bld4QzRUR0p2Y0k5RHpCM2pMam5maTlaWUdGZkZObF90MG5DYjlmNVZhN201VXE1Wk5tb211dlVBcFVVaXM3elZUN2drWUpOTWhtWk9BNXktdTFFYlFISjJJckpjNGhFbjFIR2I2elc1azAzaEowRVVuTVFtYzU0ZF9ZSnNYYVoyRUtoOEQ3Y0t6V3Frc3pnOFdWSHpDc3pKdy1Hd2hZRmJwRXdzeWp4WHJUTjRTVjVpSkktNmR4ZWVVUkVPS0NDOTVQMTlJRUVHUjktUFQzVTlZZkEwcEpGZTJJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0xYbkZFQVlVNEpLclZQeFRMMEZPaDZFZzd6MVhpV3JuYzFEek5nMGZoamxOblJMRS03QnFCTzE3MmhFcE5MMURMWS05cEtBaVdTMm5VRGRCcmJ6anprSHRPWlFGbl9GZGhhS0w3WG80cnhFaUZGTXh1bzdMQnZ3QUpkc1ItZnVLakp5SmFYUnh4R3FnUTNScHR0SUZSNmQ1QUNHVE9fYllCM1ExTjBJU3dweHBNTENtbHktSVFoT2poQUFvUmNB?oc=5"
     },
     {
       "headline": "What Teledyne Technologies (TDY)'s Earnings Beat and ESOP Shift Means For Shareholders - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVnFjdnk5NzJyVDZSdlh6cUFsRW1rdHhIRUk0OURpNVk2dVprUmpiMkxjeDJfaDdhWldiak1IOU5QZldFT1NuVmRWS083dEpHdmdwck1PR004US1jeGRiVEIyZlhVbXlldlZsYzVWVWlPSVJBbG9qRnEyY0hIUXY2UUhoRkVhelBnOEszNEh6bUpIeTlZQlpETEZKb1Q0UGQ0MldTcmdzMlRVdWNTaHRaWjg5U3l4QkZIN055SlAwMUxUdVBmOTM1SG9QY1NDR1I5cWVj0gHTAUFVX3lxTFBWcWN2eTk3MnJUNlJ2WHpxQWxFbWt0eEhFSTQ5RGk1WTZ1WmtSamIyTGN4Ml9oN2FaV2JqTUg5TlBmV0VPU25WZFZLTzd0Skd2Z3ByTU9HTThRLWN4ZGJUQjJmWFVteWV2VmxjNVZVaU9JUkFsb2pGcTJjSEhRdjZRSGhGRWF6UGc4SzM0SHptSkh5OVlCWkRMRkpvVDRQZDQyV1NyZ3MyVFV1Y1NodFpaODlTeXhCRkg3TnlKUDAxTFR1UGY5MzVIb1BjU0NHUjlxZWM?oc=5"
-    },
-    {
-      "headline": "Redwood Investment Management LLC Takes $1.05 Million Position in Teledyne Technologies Incorporated $TDY - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNExUbjVOVm8zRVR6R2FQaE8zeE9VaGhWWllvTlA0N1FiWnNYMmc2X0Y1YXptM0hPbDZiUHZISWJudk9YalFjblFUMk1QVkdHSmd3NHc1TjBMOEN1aEswX1VYMVVOQTB0UFV3c0dpLVZtcEFtSUtIN3JNRkRjcGlvLWpGLTBNMEpDdlYtbUczUzlWMkRtbzhZMm1mRDBUelM5azhHR1oxN0N3a2k5bWZKZDB5NGRvelVLd0JXWDFva3FaeVhqR2NhbGNvTUtVSXk5LXRIbVM0REtCTTZuY0t2MmppVzZIMnNVWkVrSzVQWmdsOU1KcUE?oc=5"
     }
   ],
   "insight": "Tracking Teledyne Technologies (TDY)."

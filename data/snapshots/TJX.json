@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:52.104Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:53.089Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    151.35000610351562,
-    154.25999450683594,
     151.30999755859375,
     154.11000061035156,
     152.7899932861328,
@@ -24,11 +22,11 @@
     160.8000030517578,
     161.6300048828125,
     159.25999450683594,
-    157.33999633789062
+    157.33999633789062,
+    157.5,
+    157.5500030517578
   ],
   "6m": [
-    153.4199981689453,
-    153.24000549316406,
     150.0800018310547,
     148.00999450683594,
     147.7899932861328,
@@ -158,10 +156,11 @@
     160.8000030517578,
     161.6300048828125,
     159.25999450683594,
-    157.33999633789062
+    157.33999633789062,
+    157.5,
+    157.5500030517578
   ],
   "1y": [
-    129.22000122070312,
     128.77000427246094,
     132.10000610351562,
     131.97999572753906,
@@ -410,29 +409,31 @@
     160.8000030517578,
     161.6300048828125,
     159.25999450683594,
-    157.33999633789062
+    157.33999633789062,
+    157.5,
+    157.5500030517578
   ],
-  "lastClose": 157.33999633789062,
-  "oneYearReturn": 21.761333270040414,
+  "lastClose": 157.5500030517578,
+  "oneYearReturn": 22.349924535532406,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "The TJX Companies (TJX) Positioned to Benefit from Retail Experience E-Commerce Can’t Match - Yahoo Finance",
+      "headline": "TJX Companies Stock: Analyst Estimates & Ratings - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0dxeTlZQlJVRzI2ckZKS0pVd253V19TNm1mZWhZVnFock8wcHk2bW9vUjFlRmhKa2I1YXBxUXRqby10QWVVWmQ3M2oya0o0VnRaSVFRZGFqVl9XUk9nUHVqWHIxMWhIcjFQbzBLR01wUkpvd3ZPLWF1a0lQWGxJc0VoV2F1WkFQLTY2Q01HYnlFc3FmbzJwZFJOb3Rqd0h5UVJz?oc=5"
-    },
-    {
-      "headline": "TJX Companies Stock: Analyst Estimates & Ratings - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR0U2cUhpZU5ZalFPWkdSeFV3WWpVbDJHSHJFZnRLeHJjX2czenU0OGU5QVVZdWFxblJhSXhxLVBTekwzMFFQSnpyNE12LVpRenBRdEpKcnkxc1NXbldLRUtOU3ZtUmJzOGpzUHRXcW9qTWZfNXI5UFFicmtzMXExVGltOHRXNnR6V2tQMXoyRkh4Mlk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGNEQXd5bUtqTWJ0ei1nZVZUWGZiUkRKUlNPRWQxUkZoVnZmeUw4OXEtUF9uSGkyZXhGNEFWeHZlb0pvR01mVTZ0dkhEa09DRVoyellSZXpRODRGa2ZXYmNJV3BmOVlXTnlSYU1GN3ZxS0tSWUZuVDFiWEJBbF9Jb0hoOWNpMkRlUzVKd0ZJS3FEVTJiQXBmZEhMRmRIUm9pd1EyQQ?oc=5"
     },
     {
       "headline": "Quality Investing Spotlight: TJX Companies (NYSE:TJX) Passes the Screen but Trades at a Premium - ChartMill",
       "source": "ChartMill",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3BsTEJDYlYycnFTcGZQMmhFYkpJVUZVYTZlbnFFcTdZdmE3RGVXVWxLWkh6LTlFSFBfY21XaWVXUUpyZ2U3MkNpWElWUzZJOTRfSmRsRG1BZ2IyV1V2MjRQTnVOWEItSWc0MTdPMVlyZHU2NGRUY29nVlg3R1V1RlhKQ1R6MGExYzVyNi1ZMFRtbDVXa1RkcGpneGc1cXg3V05HNnlHYlBlNmVPelhKWTFvRkFRcEZaSVRHY3UyVi1xcm5ad1BXdzZOWHdwM202ZlRNbnBjWnhZdw?oc=5"
+    },
+    {
+      "headline": "TJX Stock And Two Blue Chips Built For Sharper Rate Volatility - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMDRBcTdoQ0M5MkJwdU0wTzBNM2JrNHZGa2UtcXlJLWh1eEJXdllrWTV6S3ZTdnFrOTBMcEUtZUxEX3NVVWltNW5iQ2lJZFpwVTVSTnNORzItTmJiOGJXWERuSFZzejEzZzk4enJ2QXJFNU1fUHdVNWVsQmRVZlpYSy1tOUJSbVpwb0dNbkNPOE8xVi1iMzJpVjEtWXdJWlZzWDJfSnZydFVRT0RtS1BCeF82MzVYaUVFUHBrVGo2VGRPdFAxU2fSAcsBQVVfeXFMUGF2ZUdEWm9JN1N2bmp2ckUwc3JHcHFvaHd4NnhFLUMxQndubE9CSXlfQUh5VUREY1hfZldPbHIxRklRUkxDV0V5YWRQa1VDZXhqOGVVSHlpbVZKSVdoT044a3FvYjA5ZDFEbUVJNWpVbEJ5cWIxeEl3RGRFVGZBS0lkVmpQVXdYM2lLYURZbkNDZkprVlU0cDFOWFNrYUhiRlVwc3gzbzgtTm9jdEp6QlZFSXhzR1R1UmZWcmNjTFdIUXRPRkNQYTl0Ukk?oc=5"
     }
   ],
   "insight": "Tracking TJX Companies (TJX)."

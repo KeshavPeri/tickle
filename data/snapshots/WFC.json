@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:55.572Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:56.130Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    85.94000244140625,
-    85.51000213623047,
     87.44999694824219,
     87.18000030517578,
     85.55999755859375,
@@ -24,11 +22,11 @@
     86.87000274658203,
     83.87000274658203,
     85.43000030517578,
-    86.44999694824219
+    86.44999694824219,
+    87.88999938964844,
+    88.38999938964844
   ],
   "6m": [
-    88.04000091552734,
-    86.95999908447266,
     88.05000305175781,
     88.70999908447266,
     88.02999877929688,
@@ -158,10 +156,11 @@
     86.87000274658203,
     83.87000274658203,
     85.43000030517578,
-    86.44999694824219
+    86.44999694824219,
+    87.88999938964844,
+    88.38999938964844
   ],
   "1y": [
-    77.58000183105469,
     77.95999908447266,
     77.61000061035156,
     77.05000305175781,
@@ -410,29 +409,31 @@
     86.87000274658203,
     83.87000274658203,
     85.43000030517578,
-    86.44999694824219
+    86.44999694824219,
+    87.88999938964844,
+    88.38999938964844
   ],
-  "lastClose": 86.44999694824219,
-  "oneYearReturn": 11.433352549415522,
+  "lastClose": 88.38999938964844,
+  "oneYearReturn": 13.3786562694472,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Do Wall Street Analysts Like Wells Fargo Stock? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWXZSOFJMeUZieHFPOExpNV9yblpucWlzWmlYNGlIMXhRd080ZEtsVWU5Q252ZW9hSFg4aGp1aGxGMTVSc0lOTlFXRGVzbUMxUkpNR01paUI0MEpnRi15ZlBGNGtXRENVYWV2OUdxb2llRjdoZ3VCV0dQRHZvZW44VUhVZ3VONkdxWUpPdjRpdDBNSDRsbHM1MUlKb3Vqdw?oc=5"
+      "headline": "AI Boom Is ‘Trickling Down’ to Old-Line Stocks, Wells Fargo Says - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS04yUHlwWTVwYkd5SXBqZk84SmpoOFlRcjlQTHRnRVV5cHBmMlNoMDNVS1B1Y20zemdjbzBRbE9RcEl0QnpMRGFGUzgwRzFnTWdMbFU3WlVBMGVQVHljR2J5UFFZSy1kajFpdEUyeC16NEdmWUNINGZLQWQ4WlFBckIwel8tdWF0N2FZajA2ZHJkbGtseDJoTFptaEs2dUg3WjlZM2d1MU14YUV2RFFFNjRR?oc=5"
     },
     {
-      "headline": "Wells Fargo Stock And 2 More Rate Sensitive Stocks To Reconsider Now - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdldMc0dUYnhJZ2hsUHpwYThTaUhOUjNfd3o3M0h0em9RdjdmeTNPSW54N05JMUtuOTdxMXN5bUFCNEdESTJ0T3ZEM3JRZnVGVElRcWVVNC1KWVU2VzE0ZEVvZjEyYThlYm9taTQtaVFISXhRaENHendsZXR1dFg2bzJVak9yaTBZX2dKcWszb3FrOUVRMHJ3aGdON0I5X1lEYkdwLTVHRzlEckVpMG9Yb3ZXOW4tV2V2TGk1dUJiQktSUdIBxwFBVV95cUxQX29IenNRMEI1TmVmZmNzYW9xblczNkN2aXhoVG1hRmMtUXk3WGZ0SU1EU3Yxc2R2MUpQV2R6cGxfQmE0aEx5SEpqcjBsVlVNN3BUaW8yZXMyRlBUdTVvN0FXdFkxWlpqZmVZWHpkTGl0MGxlZzJOSjFxSzVsaVlxUjc2am1Na1haMlNPMG9xcFdnc0ppNkN1aVVLT3laNEdfR1ladkUwbGpWV0VqQkJRZ0J6Y01zN0kwUHVzYWl5SHZLWFI1WWVF?oc=5"
+      "headline": "Wells Fargo's corporate and commercial clients could move funds 24/7 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXZsNVZsMkJqUlh2VDFTV2hEb3o3ZXBocGI3SjZjWEVjRzlaWlBtZDZTbTZDUVBiYXdldlY1YUhTNU1JNndpbDFPblEzZlpBel9vTkhFWmRvNmtFeWE5a2ZDTkdUV1gwOUZKNnZNNFdZSmFNYkowNVRkWmtTLXhLZ1prTE1tUjRKSllVZVFoWGVlWVFVdWdjTG9KdUx1Q2dMQWUzRVV4bzZsZEtpT1FJVW5n?oc=5"
     },
     {
-      "headline": "Wells Fargo downgrades eBay stock rating on Depop marketing costs - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUTUyLWJUZ3FMM25leURCLVRNN2VDZXhGQU1DSVE4am1BdjBsb21OcFFoZ0MxcVhRZndpdHJYUVZhSkx2NERUWVFmcy1GdXEzcDI5alVIdFV5Q0VMLVBNa3ZuSTBldzgtTEVzNmh4U0tHdmlQcHZVbFJSak9ZS1l6SUpQZFdrNGJjWEN5OVN5V1ZRb21hckYycHJQRGVZWHVpaUd6bm12UnFMTnBFV0E2dUg2VFZBcjBxcEF6N0d0V1VJRms?oc=5"
+      "headline": "eBay Stock Tumbles as Wells Fargo Issues Analyst Downgrade Over Competition - tikr.com",
+      "source": "tikr.com",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvbzFQa1Vva1JGWmc4dmZmel96YzZWN1lUNVg2bVdZSVRTXzViblVJSHNiT0FzcmJLV25UMTAyR0NzZWtOQ1NxQmNBZ0pSbWZCZTNkT2o0U2w0c25Dazh6WUNQNnUxTDgxT09zRE8yREoxZVNSRlBQZjR2c1Q?oc=5"
     }
   ],
   "insight": "Tracking Wells Fargo (WFC)."

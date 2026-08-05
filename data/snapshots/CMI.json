@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:19.723Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:22.688Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    682.3200073242188,
-    661.7000122070312,
     678.239990234375,
     660.1400146484375,
     669.2100219726562,
@@ -24,11 +22,11 @@
     641.5999755859375,
     606,
     632.97998046875,
-    634.2000122070312
+    634.2000122070312,
+    648.8499755859375,
+    635.9600219726562
   ],
   "6m": [
-    583.0700073242188,
-    571.780029296875,
     569.9600219726562,
     576.22998046875,
     577.8599853515625,
@@ -158,10 +156,11 @@
     641.5999755859375,
     606,
     632.97998046875,
-    634.2000122070312
+    634.2000122070312,
+    648.8499755859375,
+    635.9600219726562
   ],
   "1y": [
-    361.5899963378906,
     373.2300109863281,
     381.67999267578125,
     384.6099853515625,
@@ -410,29 +409,31 @@
     641.5999755859375,
     606,
     632.97998046875,
-    634.2000122070312
+    634.2000122070312,
+    648.8499755859375,
+    635.9600219726562
   ],
-  "lastClose": 634.2000122070312,
-  "oneYearReturn": 75.39202373685086,
+  "lastClose": 635.9600219726562,
+  "oneYearReturn": 70.39359195473492,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Cummins Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeDNSYnpGX2tXLVhvSHVZTE9Ebm9ONUFuRmI0d3gweW5ZVzRYd1R3bUFSbWUxTE55dm1hcV83NEE4Tl8zZFdqYUZOTF81bjhIVVVBU3B1Vnd3M1BLVUY3YkU2czROWlc1NFYtdTR3bFgzVlY2N01rWDJCblNSZGZ4Mzk4RnVNTEczOUEyalNoX0UyOGU4Vm14UmFiVUZFNFM1a3lIanRtaU1XWElHMTF0Z3M3bTdJekdoVkNWUFJ6Vkh1VlI3M2JJNmxoaDdwUF9zTmRVWW5LVFA?oc=5"
+      "headline": "Cummins Reports Strong Second Quarter 2026 Results; Raises Full-Year Outlook - Cummins",
+      "source": "Cummins",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHIwemRydHhBZS0yS0ZJOWVXckFNZ3JQYnlsSVY2aFQ4VHRxV2dIODdqSmlReGVEc0VtWnpZRTNTR2QtT3VWcE1aaUg1Rl9ZR0xVemhrclE0Y2hZcGN2Z2VZdHBZOHMwZWIxUXh1UlRqNjl6ZndPYThxRS0wWDQyRXNQd2w5NXVwSHQtU3FyWV9qRmNjMDd6UFlGeFlhVkxwSTJJVw?oc=5"
     },
     {
-      "headline": "Cummins Stock And 2 US Industrial Names Backed By Data Center And Infrastructure Demand - simplywall.st",
+      "headline": "Cummins (CMI) Stock Catches Margin Squeeze Despite Record Sales - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNemZYVXp4akF3T1ZNbnBjM2tZY3RmVlB5dUpIRDZSdnMwczhzYmVPdFBrbnJMZWhTNzFHWDY0VVhoeU1nT3AtX1YxR2FtOTRGdW1tSzM2SXJ1TkNDcGpWV2xlVlgtbjg3YWp2cTNUd19sS3Y0QXR3VEdBRTh5UldQemlsT0lYb29qcmNYQVljemR2Yk9ZZ05TVUtjRE1VQ3BfbmxUQUJNMWF4QWRLQkV2Vk5fMEN0cnBTUll0NmJBd3hENGtMUWFGcUFZd2N4YldwSmxOc3V1c9IB3AFBVV95cUxQU0ZvQjJSVmdzRkdCdktuYnNCeGgxOVlHaFJaVHRkWnU1Z3B1eVlpSG5rclhvRy1mMkxuV1VEMlRYUTdTVUpLbjEwSmRsSDh6bklCWHlJa21tdFYxTmlVZzJsQTgzMmV5ZmVURWMydmQza0VYckVwdjRIQVIxV3lQMnVqY0lLaGM2Yi1DUXc4Ujd5TDdyMS1IdlVyRjV2UTJlSGdicUFqU3FnZk1nb21kNkpqRkZya2RhamJjVWdyUG1SbTAzVHY0UDVBQmtzZ1huaDlFYWhXbDRMbWRB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM0FUeVhycXBfczg5bFJTS25NY2RydThENnlCVXI1TDhOcWE4NGFDek90aElCeGZ1NFdiNjhXX1dvc1djOFVzcHBURHhpcTU5a0VzYXFoYnRWZldtTnU2Q0hKUUR2dTBjT0dTYzlyUE9hX0l3LW8xYTNvTXlEQXlJNEhHQUFQQWhxem51LVpTTjBIbWt3LWhQR21OdlV6dW9MTmZUQXBPc0JMZmN0eTgxaEk4LVlYR3RZRGVFMDFUaExfWUNNNzJJ0gHMAUFVX3lxTFBrWDlVZjIyMVMtRG1HVzlYQkgyU2sxSk5SemlHNGJxOTRyNkFzcWZNY0t1a1ZRZVpXUl81VE05Q3FfeklLLWdLS2R5eGxDM1o5UndGbVkxT0hRU3RaUG9Ud1VhRkFRdTFNdFBjR2RZdG1Td204WTNYbVYyUHRhT3NhZ3ZscWdhbjdIVWRRSGdYN090Z25BQXJiQkU3eXdJRE53ckZvaE1HQ1YtSUR0a2pnTXEtZE5qMW1oSjBPVWYxSGVQOGlKMkxGb1NpMg?oc=5"
     },
     {
-      "headline": "Cummins Inc. Increases Quarterly Common Stock Dividend - Cummins",
-      "source": "Cummins",
-      "when": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQW5lWGlfNDNncjlYNmN3c1U2dmEwcDlHYW5YVVJhOWlYNFFoeVNnSTRmMlZQM2J6dU5mYm9IMVc2bGVPVW1wZzZINjViMHVXOXlLcWxEQy1xamM3d04wbVRXT0tlS0MxdzE3ZE01LTR1Sk0xbjJfdFNLZHVYSzAtU2JISXRxS0Rsd0lRSE0xRHd2S3NVNXp2SG1GQVppaEE?oc=5"
+      "headline": "Cummins Shares Slide After Earnings Miss Offsets Record Revenue - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHJ6WDFqMm11Z0w4QzRELXlGeFRnSldGeEtraG9CSVRjN2ktNU9TeEw1bHgxS0IzQ1JwOEZIMFU2VjZMRzM2X3BwcGJYSldGYUhBVXc5eUZDbFZIeWRXUDRUQm9ycU5GX1FEcTZfbUo4eFlTRzR4Y2hJcXZHaDN0dGF1YzBUV3hOS2xGb2VIakdnZUk4SjhQeVNzQW1wWUdN?oc=5"
     }
   ],
   "insight": "Tracking Cummins (CMI)."

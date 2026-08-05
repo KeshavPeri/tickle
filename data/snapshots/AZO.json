@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:13.964Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:17.050Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    3218.14990234375,
-    3159.280029296875,
     2957.7099609375,
     3074.860107421875,
     3070.169921875,
@@ -24,11 +22,11 @@
     3118.800048828125,
     3142.169921875,
     3006.570068359375,
-    3016.25
+    3016.25,
+    2990.27001953125,
+    3028.030029296875
   ],
   "6m": [
-    3698.6298828125,
-    3700,
     3786.030029296875,
     3799.989990234375,
     3782.139892578125,
@@ -158,10 +156,11 @@
     3118.800048828125,
     3142.169921875,
     3006.570068359375,
-    3016.25
+    3016.25,
+    2990.27001953125,
+    3028.030029296875
   ],
   "1y": [
-    3967.760009765625,
     4011.25,
     4072.800048828125,
     4060.330078125,
@@ -410,29 +409,31 @@
     3118.800048828125,
     3142.169921875,
     3006.570068359375,
-    3016.25
+    3016.25,
+    2990.27001953125,
+    3028.030029296875
   ],
-  "lastClose": 3016.25,
-  "oneYearReturn": -23.981037346606822,
+  "lastClose": 3028.030029296875,
+  "oneYearReturn": -24.511560503661578,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "AutoZone (AZO) Could Be 24% Undervalued As International Expansion Comes Into Focus - Yahoo Finance",
+      "headline": "AutoZone Inc. stock rises Tuesday, still underperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRGdvbmdtQS1tZTlrajJOU0lPZkZubHN5MWJmSEhHOWRodkFsWEU4NHpidlE1QllwYXZISFFGVmFGVGxnd2F0VG1YR0lNVmV2ZnRIZ01JVU1fY3l3Z3BmLWU4VThHOVZuaXdWMGJEM1JiUHJpZkd1cDZwT3N4cnh5SnV5dG43aURaWVJ0U2NEZmNsNDlNRVRnZllVWHlpMGs3Qjg4TDdFaGd2czdWcVlMNGdLRVJBYWZNMGt2Uk9LbmxQaFhKMGkwcFFRRDB5bE9vOTFv?oc=5"
+    },
+    {
+      "headline": "AutoZone (AZO) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTItSThnY19pdmZDd3RqSHY3XzdUdlI3eDBsem1tUThlaXZrWHhsZHRjR01DZ3N4V0RlODB3UXcwWDlVT3U4YzExX2Z1eWY4a2NRcURfekdxb2JkM2dhdmt3a1lfVTJOSXkxRjdFZUV1cjJtMko1Y01Lb1g0ZWwxV0FSbXpVTzRMVVlHV1p5UEM2dXRzVkZWaFgxMFQtaTg?oc=5"
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZWxPbHcwSjItb1RhdUV6aUJYLVVmd1o4cHloU2pMUGx3bXJMZkFRdWJxaGNMM3Q2Uks0QlR1cUs1T1BuTDMwRXlzRXJId2FLSE9KbXp1T3NEOTlYeExUN2ttWGpxRXNxSGJVdUxJajdrelhnQ19aaTAyNXQ1ZjdVV19PMEMyaGhkUGtfZndBZmk0cktVWEpUdE1KZ09mSEE?oc=5"
     },
     {
       "headline": "AutoZone stock has worst day in four years, despite retailer beating Wall Street estimates - CNBC",
       "source": "CNBC",
       "when": "2026-05-26",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ20xVHJDMFZwTmd1WDRxNHdWSnMxMUVFT2hyLVpjeUg3b1FyNDFLQkdRNUc4RmFvVzNHQWhPR2RMcGhvLUR0bGRPQTRZcndtcjNjWnN2ci1OMFBlR01RRmFQSVVlNTdCdklfSVhFbXFLQmx2QTdGVUZsQ1FqUGNVdFJYWXlFNl9pVGx1MkU5OGhhNlZBZ3d6dm56WVpVNG_SAaQBQVVfeXFMTTc1MmUtZm5KNHRTNVlhM2kySkZPOHRlQldGc3VDTVozb1pMTTR5eUZIUnhCd1JQcU1oc256MnRjTFZQYjFDcjk3QkFBWTMxc0lQRGpkeXR4akJnVHRWYXRkLU9NazRUOUdOYUg4Qnh6cWN1OHdmNkc4XzRDS0JqZ2pORlVaaW5mUTZ5UGlLZTdNdGJRQUhlOVpuLWVNQ05heEkwN1Y?oc=5"
-    },
-    {
-      "headline": "AutoZone (AZO) Could Be 24% Undervalued On Its Commercial Growth Narrative - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ08xMFg4cHNxYld5YUJaemZGR1ZmRFFrbTZtZHR3aDhjOGlFTUhIZ1VOMzNxMXYtSThRZjZtd1R5bnRLQ2FlaEJ3WWppOW9ILVE1S3l2X2lNVmozeU5tLXBsUTJMOUF4aDhRYkg2NkZMSlNHaHhSdGx0eldPdjV4NWsyOXdpNl80YXdzczVucjZLZENZajdWTHd2WVhCamlkOUdYSHd2NG00d1FsWlpUTFhxTmNKRlpXeGFqeURBb9IBxAFBVV95cUxPVy1NT2pkaFpwNWFxbUlzd0s1dElQYlppNm5sZHoyTEtfa0RtaXZUSFJFMk5mVzdCamdtS29aS3EzNVhYSldmd3I1TlJTQzlPZTd0Z2wyYTdwQzhWTkEwRi1aZ1ZoTHZ3VDJzTXNpb1U1NzhPWFpjbDJIWlBBbGJ5WXJwdU53aDBMSGtzaFVEMEhGdVU4WU03VUliR282WE5kNFlnaTYwNUItZHdFb0RLOWlfZUZjT3FCRS10UlhqTUZsQWVV?oc=5"
     }
   ],
   "insight": "Tracking AutoZone (AZO)."

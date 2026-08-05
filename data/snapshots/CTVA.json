@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:22.377Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:25.191Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    83.54000091552734,
-    85.80000305175781,
     86.38999938964844,
     86.75,
     85.18000030517578,
@@ -24,11 +22,11 @@
     88.94999694824219,
     90.51000213623047,
     89.33999633789062,
-    78.70999908447266
+    78.70999908447266,
+    76.04000091552734,
+    78.30999755859375
   ],
   "6m": [
-    71.55999755859375,
-    71.69999694824219,
     72.62999725341797,
     73,
     73.05000305175781,
@@ -158,10 +156,11 @@
     88.94999694824219,
     90.51000213623047,
     89.33999633789062,
-    78.70999908447266
+    78.70999908447266,
+    76.04000091552734,
+    78.30999755859375
   ],
   "1y": [
-    71.91999816894531,
     72.30999755859375,
     71.16999816894531,
     71.05000305175781,
@@ -410,12 +409,20 @@
     88.94999694824219,
     90.51000213623047,
     89.33999633789062,
-    78.70999908447266
+    78.70999908447266,
+    76.04000091552734,
+    78.30999755859375
   ],
-  "lastClose": 78.70999908447266,
-  "oneYearReturn": 9.441047119574637,
+  "lastClose": 78.30999755859375,
+  "oneYearReturn": 8.297607803316714,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Corteva, Inc. (NYSE: CTVA) director acquires 412.9081 deferred stock units - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2prVkVxcDlXampXMU5JRkQwUmNVN0dvazY0ZFdyakRQOXJQR0xuWkxsblhUZGtpdG9KRW9yQlhwYTV2UGllY25hamFfV1VFUEotTUJ0OF82S1NLS2czMGhsZjlCVl9KcEFpMTkyZ1JJbTIycUF6MDdrTWZ4Z0pTRXk2Xzg1S09ta1hrcE5SeTJhU1cwdlBsVnk0Z1Z1LWUtSlV1ekNvMFE?oc=5"
+    },
     {
       "headline": "Why is Corteva stock tumbling today? - Investing.com",
       "source": "Investing.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR1ZKQ2xfWWg5MlBfWGN6cXpNbFF5ZlUtV2xKSlNVRDNYRXpncGNkTWYwX2RuZGhYeUVJRklzOFlzMUFDZ1B2b2g2d1l6Mk5jSjlOWjJZR2NZOTA2cU1xX0xweGx6X29ZTi1ORWdaeWZrOHVMNkF5WEFSMW1HRHY0VEk0blEwTGVQS19ZYW9BaHJ3eTFJWVVuMUR4VE9kQQ?oc=5"
     },
     {
-      "headline": "UBS Group Issues Positive Forecast for Corteva (NYSE:CTVA) Stock Price - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNUxEbF9JdGxlb0VvbFlhcFB0T2xSdzQtbjFjaXhmVGJLdXNjYkpFUWZmQ2JrUHlKSGw5aVY3cWltS3M5b3kxWExfc2I1V3ZZSFdJakZWVURORjlsSlhJM01vQmNoanhic0V4N1pwcnlrdEdwT0hIdzQ5SVhiZHRXaXFiNWxadmVvZ1FuRzNNaXhLellzSm9Ka3BYRy10RU5ZaXhKWjFjTjlCZ0JCMWRkYTY0eVRGZ3Q3Z0tjR2l3?oc=5"
-    },
-    {
-      "headline": "Corteva Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOE1KSTVxdG5xWHNHb1NRVk9ZNGlsekVuaExRV1lacUlLSkQ2QlJrNWF6SXdSN3czY05DLWtkbmhveW81ZVJKZFl0a0V5bTd5ajM2RFUtdVNRbDJYMFpOZy1jUHlKR2p5SDI3cFlXRUxCaE51MlFneF93REdPbzJYbVJENjBPN1FETVR6WHZvOXNiazNjNklqNDhtZno0Nl9pRThWUmYxUjV0SmtXVXVQZkR6LWRCaHZRVVB4VWlsWDBMOHIzdk1iYkw1eGlxVWlpNkl6ZW9aNkdvbmcyRUE?oc=5"
+      "headline": "ADM, Corteva Raise 2026 Profit Forecasts on Strong Processing and Seed Demand Outlooks - Successful Farming",
+      "source": "Successful Farming",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHJmQW1va09tNWd3Sk94VDFRZVgxTlhQSm9FamFlMHoxc2pTSGQ2cWNLUThrVXVMNVV0Qy12T3VaTVN6TE15Nm0zVFM1NzZTV3l0U0FoTnZicnhtMW5uX0dzTHBsdmM0ZWpqR1I3UjlRNjdrcTNUX2RTVTZISEdPdDZwYXh3VjVncHJ5SHhMSHdiMXRmV2NiVm5yblIwMjlub1hOT1JQNVBJanV4c1ZQZ0U3RDZGcUdrUkNFaXF2Y2RTcmlaS01GNFV3OA?oc=5"
     }
   ],
   "insight": "Tracking Corteva (CTVA)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:17.470Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:20.428Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    138.3000030517578,
-    141.5800018310547,
     140.5500030517578,
     143.72999572753906,
     139.94000244140625,
@@ -24,11 +22,11 @@
     147.0500030517578,
     147.77999877929688,
     149.4600067138672,
-    146.80999755859375
+    146.80999755859375,
+    148.42999267578125,
+    151.0500030517578
   ],
   "6m": [
-    170.1699981689453,
-    169.22999572753906,
     170.30999755859375,
     169.38999938964844,
     169.5,
@@ -158,10 +156,11 @@
     147.0500030517578,
     147.77999877929688,
     149.4600067138672,
-    146.80999755859375
+    146.80999755859375,
+    148.42999267578125,
+    151.0500030517578
   ],
   "1y": [
-    156.02999877929688,
     156.47000122070312,
     155.8800048828125,
     154.36000061035156,
@@ -410,12 +409,20 @@
     147.0500030517578,
     147.77999877929688,
     149.4600067138672,
-    146.80999755859375
+    146.80999755859375,
+    148.42999267578125,
+    151.0500030517578
   ],
-  "lastClose": 146.80999755859375,
-  "oneYearReturn": -5.909120869599403,
+  "lastClose": 151.0500030517578,
+  "oneYearReturn": -3.4639215994510857,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "CBRE Group Inc. Cl A stock rises Tuesday, still underperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVC11bFVkQlg3RDN4TjlDS1B6SE1KZjNMNW03WEVNRlQwTldrdXV4ZGk0bU5IeTJBWmdBaXNvZlc2LWtSLVA3VmVvYnBYSVJSaHhRVmhlbDlFV3hheU9ZNkZudVY5dERqbWZnQ3ozbkwycWJMNmZEeDE3ZXVianQ1RkRWTEs5UHczSnNtMHhXLUJYMG56OHlZcDNmSzE2WksyMHFsX1FISXNCeWJiM1A1QVoxUU1uRVJjcl9CajU0QlJPWDM4cTRDbmpXTkhHQkpSWnM3ZDVwSGdvZkow?oc=5"
+    },
     {
       "headline": "Is CBRE Group’s (CBRE) Aggressive Buybacks and Rising Earnings Quietly Redefining Its Core Investment Story? - simplywall.st",
       "source": "simplywall.st",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYjJwU3FxNTlsSmxpcTI2OXRtUVF1WUVBSTNQV2VtdER5ZU9DbVRoZldhdVB5YnhVTXQ5WnNXRkNOanlubWUzekJxS3ZlR2N5SEloTnpGLUoyY3EyeWs1TXlRS3RhYkJZVFlKMG5CZUpGbnVuQnZNWHVpQk42ZzRPd1RCejJnNTJHXzF2aGpLMzF0LUg1TVY4aDlnZmFUS201M2FzWmNaN0NpUEwwOWMxbldRdnRYTTlSOVpoQ05lN0tpRzJLNk5HSVRkajFSd2lpUFZLUE1BbUx5R1pZOXpLXzRZTFRDb2RmQXlHUFNtVHJrZ9IB8gFBVV95cUxPYjJwU3FxNTlsSmxpcTI2OXRtUVF1WUVBSTNQV2VtdER5ZU9DbVRoZldhdVB5YnhVTXQ5WnNXRkNOanlubWUzekJxS3ZlR2N5SEloTnpGLUoyY3EyeWs1TXlRS3RhYkJZVFlKMG5CZUpGbnVuQnZNWHVpQk42ZzRPd1RCejJnNTJHXzF2aGpLMzF0LUg1TVY4aDlnZmFUS201M2FzWmNaN0NpUEwwOWMxbldRdnRYTTlSOVpoQ05lN0tpRzJLNk5HSVRkajFSd2lpUFZLUE1BbUx5R1pZOXpLXzRZTFRDb2RmQXlHUFNtVHJrZw?oc=5"
     },
     {
-      "headline": "CBRE Group Inc - Google",
-      "source": "Google",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5VWNuSUJPek5DYUQ1RFNFSDkyYXR2VFl6blRxS3g1MVlVMlRsRThOUll5TEVWLUZiQ3N5d2hQX21hcV8tZlpiM2Y1bmdsSFcwTjVFNE9UNVRidw?oc=5"
-    },
-    {
-      "headline": "CBRE’s Q2 Earnings Call Revealed a $10 Billion Data Center Bet. Here’s Where Shares Could Go in 2026 - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN19fU1ZhX1NQdlpVOGNDaUpqYjFDZE1SV0tiM2owUTVLYW1vRGw1NHBCX1FoYmNVbGFQOW5PeUk5ZlZfSzl6THA1Uk4yRjRrd0ZvNGl4b201TC1pTm02aDhsempobnhneThoZHFXY2xZMlNMRWctaHVIVWtwUjVYdlhiZTAtb2VGdEd3RkRxUmw5R0kyS013UHB6R1pfQXVYVDFYbng1V1lBSVRmdnYtWDNHb25QSkpNcjJiZVVzcw?oc=5"
+      "headline": "Can CBRE Group Stock Keep Its Winning Streak Alive in Q2? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUTlWYXlTS3JWVWh3Wk9NY05lQ2poOHJfcFk4X1NISG5nNHJJcGFkbFdvVXpaQjlBWWhuZVhQT1JyUktwZ3BrMnVma1drY25WcHBFTU1FZWNoclUzT3YzRlFlUDJMaGR6WEFJZW9hWVVUVjVsX1BHWElGTmVRWXZ1Y1ZVZVhhV1pBSG5xVHdQMFh3dzZzMUE?oc=5"
     }
   ],
   "insight": "Tracking CBRE Group (CBRE)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:20.723Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:23.546Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    288.4200134277344,
-    296.510009765625,
     298.54998779296875,
     304.4800109863281,
     309.57000732421875,
@@ -24,11 +22,11 @@
     319.5799865722656,
     318.6099853515625,
     312.2300109863281,
-    311.3399963378906
+    311.3399963378906,
+    308.3699951171875,
+    306.2799987792969
   ],
   "6m": [
-    352.4700012207031,
-    353.4800109863281,
     355.510009765625,
     356.1400146484375,
     350.5400085449219,
@@ -158,10 +156,11 @@
     319.5799865722656,
     318.6099853515625,
     312.2300109863281,
-    311.3399963378906
+    311.3399963378906,
+    308.3699951171875,
+    306.2799987792969
   ],
   "1y": [
-    293.6400146484375,
     292.3500061035156,
     283.7799987792969,
     278.3999938964844,
@@ -410,29 +409,31 @@
     319.5799865722656,
     318.6099853515625,
     312.2300109863281,
-    311.3399963378906
+    311.3399963378906,
+    308.3699951171875,
+    306.2799987792969
   ],
-  "lastClose": 311.3399963378906,
-  "oneYearReturn": 6.027782593133483,
+  "lastClose": 306.2799987792969,
+  "oneYearReturn": 4.764834063608298,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Cencora to Report Q3 Earnings: Is a Beat Likely for the Stock? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcXkwd0E5Nl9HQVF6U0VzSjNuQU5leE50bjVxclNCZDY3ZWxxblRWYkRRdEdndDlFTi11X1BzVXU4bzVrM3hmN2hwYVhPbktHdkcwdy1WUWJJRURlUW5zaDlBNktHaXZXUkpLUktlTFNyQmItRGlfNTVqZl9TVlVIdE9RRGVaYTJNR2taNWdBVUtJLVJEUHdFVnFpZTU?oc=5"
-    },
-    {
-      "headline": "Cencora (COR) Stock May Be 38% Undervalued As Cash Flow Holds Up - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMi1CeXRMZUJNZjFURXFNUzlVNHpOY2xqNGFxTkM5RjVjcHBTMk5ubGhjdEJYYWRIOHZIcEhqM0FPTzdHV3NCVVM0YVhEWHlfR3BPTmoxVV9udzBVZXV2azlpVmtXRnBUdGVHeElobERqaFFJeUVGNmF6OG1kZTdadlV0MkJ4MVlQMVZ6ZmxJVGVxd1NDWmpFdVpoWWh3YjVyQWJpQThBazlyRUZvZG00dkVhMl9XT3BiaWp1OWZuUDhGdG_SAcgBQVVfeXFMTm01blBmeHdteHVfMEI0eDhudGx1ck1tai0tbmtwUnVjazZRaFY4b0RWV0dHTUZhVVZhMXVfSFVfN0tfY2NJT2hGMmpqR3Jfc0dla184Nm1QOUwwQVZWVkNsYWlkRTUyVU9Ta29wSzNrQXFVRkZFVGJpRmpaSjJ4TE02VFBvZmpNQ0kyOE5xRWVzalBHSnVjMVdUcU1VaEFqaUtFSWZpWmRGQWRETVZheWlOUGlUSnpjNUx6MG5xOVV4WUM0TUh2SUg?oc=5"
-    },
-    {
-      "headline": "Thirst Responder Gets Positive Feedback at Cencora Pharmacy Event - Stock Titan",
+      "headline": "Cencora, Inc. (NYSE: COR) grants stock to director in lieu of cash - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmFZc184ZVZVZHdRR0pZU29wQm13clRYUHFkRGR5Q0szWnlnSGNWS1ZkTU9IWGtKSHlGeUVXX2x4bXQ0U1Y5WDdyTkF2VjZrSHRMd3NrazhqSVRVdUNlMlZfNDc4MG1jTW41R3hTTlFzU1hHRFVnVFJNZ3MwRUp5bnd0RmhPRWZUakVMV3J5VHVHYTZ2WEZSVDhSMHRmRk9BNkNIQ3NyUWhnYzZ3NDdnU0wtN24?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc0JpOGl3bkVtZ3ZtXzhMZWtZaDc0MURpT29CLWNIdXY1SWRpMERBZmxZRFE1bDg1LUMxVlhDQnY0MFRYclZFd1F4NzJtOXUyZk1WTURvTkJkdGxGU25lZzZWNUkwUmFGM1lyM3o5LXRtbUxpRTliRUpnc3VWelJnazZSS3FTNXV4bXlyVGdEVEVmWFQ0SklfMGlDNnR2bWRNbmV2cnVucw?oc=5"
+    },
+    {
+      "headline": "Cencora Earnings: What To Look For From COR - StockStory",
+      "source": "StockStory",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXd6eEZhWHg1bkVzc29wYy1scVJRQmVKeVh1MkFIUjBvdzdYS3cxUjdoajBoR3ZYLVd6TWU0OFZDTVdiMDMwMzJ3dV9YOGpTU1NWNlRkVFduMFJIUHl4djZiN3A5MU9vQ25vWWtBYlBHWVMtZXo3N2FoM3hQM1h1RGJXUUo1VEZjWEpzczlrQkxnMTlGT3FkOV9Xb2FuNnMtX0E?oc=5"
+    },
+    {
+      "headline": "Cencora (COR) Stock May Be 38% Undervalued As Cash Flow Holds Up - webull.com",
+      "source": "webull.com",
+      "when": "2026-08-02",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZeDA3RTVPLU1USVpUZjREZU9pRU41bHdTU0V2QnpadkJwSzZKekNvbGJBN2VvOTJ3dno2cFVSSkxWVklLU2lBUkRNWnFRc29XMDFYZFZjYzc?oc=5"
     }
   ],
   "insight": "Tracking Cencora (COR)."

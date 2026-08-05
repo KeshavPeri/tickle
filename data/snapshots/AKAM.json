@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:09.907Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:13.374Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    112.80999755859375,
-    113.16999816894531,
     112.7300033569336,
     114.37000274658203,
     126.56999969482422,
@@ -24,11 +22,11 @@
     111.79000091552734,
     107.41000366210938,
     113.75,
-    115.18000030517578
+    115.18000030517578,
+    117.87999725341797,
+    123.3499984741211
   ],
   "6m": [
-    97.02999877929688,
-    95.08000183105469,
     98.66000366210938,
     103.26000213623047,
     102.0999984741211,
@@ -158,10 +156,11 @@
     111.79000091552734,
     107.41000366210938,
     113.75,
-    115.18000030517578
+    115.18000030517578,
+    117.87999725341797,
+    123.3499984741211
   ],
   "1y": [
-    75.5,
     73.6500015258789,
     74.4800033569336,
     74.76000213623047,
@@ -410,29 +409,31 @@
     111.79000091552734,
     107.41000366210938,
     113.75,
-    115.18000030517578
+    115.18000030517578,
+    117.87999725341797,
+    123.3499984741211
   ],
-  "lastClose": 115.18000030517578,
-  "oneYearReturn": 52.55629179493481,
+  "lastClose": 123.3499984741211,
+  "oneYearReturn": 67.48132507611525,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Exploring Analyst Estimates for Akamai Technologies (AKAM) Q2 Earnings, Beyond Revenue and EPS - Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkh6ZFVDOEFoQkp2S1lpUF8wVV9uMXFMbzlYZHJFWkszam9EYXVGUks2cGhCMEhuZTFGcWV1ZWptR3ZRbVBnZlhiREdlQUZYUjVUMUNCVU02S3h4TWpUUVZkYTB4bmdBWUdVb0pNQ0lwaF96bThNc0IzU0EwMm9DZDlFX1hNVFdkdnpmNHlJLVBGUWhiLUlTZ3ZoUXc?oc=5"
+    },
+    {
+      "headline": "Quantinno Capital Management LP Lowers Stock Position in Akamai Technologies, Inc. $AKAM - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUTdZWk5mN0d2TGZDZXdJcjliUlhTcS04ekVGdzNkTzNRSjYwN2tZSlhxY1hqMzJNZmlya2c0X1NJOExRT1lfc1NaRnJVRFk4cTEzbTNYa2p6eVdfN2NKWEJPeEV0VjJoSFFmNFRic05ETE1NQXNQTXlKNjRaUl9TdlFlVV96c0puVzcweVBhZHROZUx4UW9EOGF3a0pTWG10TW9MMVh1TzU2NUxZOHFVd2pVeHJoQzBER0t6N2V4Vmd3WVRmTC16TnNTQzRqbEUza05rX3JCakZmM3pfa0ZF?oc=5"
+    },
     {
       "headline": "Akamai Technologies Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSC0wYmFDb2ZDZ05xLUZZXzlkQW44V2hnTk1BZndQRVBwb3pLTXJVbFQxLWZWQWk5UUtRN1dQYzdua1F2b0lxbzJUZDBXUVN3WmlRRnlQdlVXR2NWYjZGbkZjQmpYSTJWUzNiLXZiWEFSZmdOalZmWExoVGQwa2k0cE4tZDNLMTlnRWQ3Ym9IczlJWjZkNnhIalU2QjFUV2lTODRjMXJxN1AyWnQ0U1dxQzRSYk1mcFBNWGVqVEgzMDU3c0g5UVNMeTBLWmU1VWY5dUVCN0FCY2E4bVZKbnBXTnJWNXZLTDBh?oc=5"
-    },
-    {
-      "headline": "Can Healthy Revenue Growth Boost Akamai's Q2 Earnings? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmEwN0VuY21uU3VYSWhxc2hVbE44bklZakU3Rk9SWHVJNEtOVFZEOFI2dWV1YlJpLXI2MVByQmdzclJScVlhZEExVHZicVViM0xaOGEtUHotcEtNWTI1YnZnZ1NfejVxY3lGYkg2YWdoZWkxSnhaeXFjTXRpaGgwdDhkeXh3by14c0FCTDdmd1ZTajR2cVVocFU4Z2sxUEhRWDFB?oc=5"
-    },
-    {
-      "headline": "Arkadios Wealth Advisors Takes Position in Akamai Technologies, Inc. $AKAM - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSEg5V2lNSXFidUo3U1dEdzJ4VlhieU5OUVI2dHVXZWhoMW5HM3k4WGZKVTdXbXc0NzJ1QXVJM24zb2F5V1pqaWpEbXRROW5FNzh0bjNieF90aVFxZHVxYUpFNjVlbXdFWnhLV1E4Tm9pbXBYenQ2ZVdaY3BQVnNJdnRfTW9Lc2FUbkpQZHVxRHA4QVFfUmthZ2Y1WjJIX2RXT0tKdFpQQU8wN082bXNlYUNFMzhmUmE1Y1lkLVJUSUZfMk91N2lhVXV5TXU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcTR3Q3dWVVZFdExmSkNUWlJnMkQ2c1hlVGcxaWZrbVVIc3A2ZGlrNVg5MGFUZ2YxZHNFSjVzNjNYU2puS3c1Skg5a0xxNmxOMnIxMVJ3Y2hlVDVvZGR0ZkZZa1c1LUhjeHlXVEVBQ3dNWTM2bTVIUVFVeXJlZnlnbnVYU0RhT3BZcFJqbWxyU0JYNmxTemk3eEZwRGt3TEQtRXlaVzFMaHBzSHNlMDF6Um1RQzMySkJ0c1VndHZVNnRNcHBJSU5QWE9YUkhHdzU1?oc=5"
     }
   ],
   "insight": "Tracking Akamai Technologies (AKAM)."

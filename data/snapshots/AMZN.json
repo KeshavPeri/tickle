@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:11.471Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:14.710Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    241.6999969482422,
-    242.6699981689453,
     244.16000366210938,
     245.97999572753906,
     243.6199951171875,
@@ -24,11 +22,11 @@
     230.86000061035156,
     226.64999389648438,
     235.5,
-    271.5799865722656
+    271.5799865722656,
+    284.0199890136719,
+    277.4200134277344
   ],
   "6m": [
-    234.33999633789062,
-    239.16000366210938,
     238.4199981689453,
     244.67999267578125,
     243.00999450683594,
@@ -158,10 +156,11 @@
     230.86000061035156,
     226.64999389648438,
     235.5,
-    271.5799865722656
+    271.5799865722656,
+    284.0199890136719,
+    277.4200134277344
   ],
   "1y": [
-    211.64999389648438,
     213.75,
     222.30999755859375,
     223.1300048828125,
@@ -410,29 +409,31 @@
     230.86000061035156,
     226.64999389648438,
     235.5,
-    271.5799865722656
+    271.5799865722656,
+    284.0199890136719,
+    277.4200134277344
   ],
-  "lastClose": 271.5799865722656,
-  "oneYearReturn": 28.315612758813653,
+  "lastClose": 277.4200134277344,
+  "oneYearReturn": 29.78714078490497,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Amazon tops $3 trillion market cap as stock continues post-earnings surge - CNBC",
-      "source": "CNBC",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qVDNrbTdTYVBLTUV3RXFZZkVrT21nWE9DRXJwcFQtYmtYTTlZSlAxNGM3aUxBTVVSTVVrY3hIdkpIeWcyMENiWUExbEdhR1BtRXNJb3lsZlFJdWZNcEdaaW11Wk9rdk51aUZmSTd2Sl9ZakZILWlpWUNHS2lmYVnSAYQBQVVfeXFMUERiZ2wtdTI0YjRhUDl6RnVkNmhtYWFKYUVEWkRXR1FySll6Y0czZ2FuUm5ITjZGUFF2UFZxSlU3Yk10Y2tiRnlBNmpBR09KQmNuVmZfMXA2b0p6U0kwcmxsSThUUWVHUWQ3ekJOV1l6RTYtU2xfODhFb0kwRlAxT2EtOXFr?oc=5"
+      "headline": "Jeff Bezos Plans $4 Billion Amazon Stock Sale—but There’s a Catch - Barron's",
+      "source": "Barron's",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBNEc2aWVtU3JZdEpJbE1JSXVrd1hQTFFsNGlGRVJlRHJXZU9RaG01NHFhdjNTTUtIRVh6MEZSVnUxRkN3X1RIblJ1eHFGR0VncVdaNFVaS0oybjYtSFN4eEFsUTUyR0M4UTNGdUllWmFhZVBOQjVXLWFR?oc=5"
     },
     {
-      "headline": "JPMorgan resets Amazon stock target after AI payoff - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5eFhMclUzSkFaLWRtVllfS0RvajlGaTFuaFQ0cmtfY3pDX3JvV0tLYnVrMVZaUUcyVGtVOTRVT3YtNXhWX1pOYTQzdW8xT25lMnRpNHE5d0x2WnJfZGJFYlVDUVh3NWFFUVIySmRJWHhtRm40TzRZOEhB?oc=5"
-    },
-    {
-      "headline": "Amazon, Meta, and Microsoft stocks surge as AI hyperscalers post strong earnings results - Yahoo Finance",
+      "headline": "Is Amazon Stock a Buy After CEO Andy Jassy's $1 Trillion AWS Revenue Prediction? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdVM3SFhBd3JhQWFwQ0ZkVWV0S2Z1eWthREVxYUxjYjFaY1NMQjM5T1dwSTNIeGhoX3hmTmpJMUpXY3lLTE0tMm5kbFFIcWM3Q2hfbVctZEhmZ1Nna1loeEZSbmhlSjE2aUhtbG9YRkdYVGRjOW11bnhVTHFZV0tWcWRiVEcxeThkRnE3bEtTcmczUVlFcnJESEFYQ2xtMmRzSzBlZ1hUMTYtS1h3eHdRRDVQZlBMMFl4MU5mV3hZQ2dTQjJfbkk5VE5XQWFIampLNG1CNERKMDcyXzJnSWlv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc1JaWDRJMTZhRXFockxneHVDcWN1WVQ4Nk5uRGtJb0ZLYkZMLUlSZ0pGNlgxcGdmdUhVOElsdjZiV3E2X1c5b0lUbUFKeVNqM1Y2bEtReE1abG9hZjRaWlFNZXlaQWhHY0pINDNrVFVGV3Q3NW44MVlXd2ZMUDRzLUIyNFowakxZM2FxN2dFQ2U4Y2NR?oc=5"
+    },
+    {
+      "headline": "Jeff Bezos sells $4 billion in Amazon stock - The Business Journals",
+      "source": "The Business Journals",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd2w0cEJIWnFFMjFPbGRVRGJlaTN2TUt2SEd2TFZCUkNLUW5PaW5fS2Zra2c2SElrMWZNRWo5NGR3aG9tb2hXT09weEp2emtIWWFKbUY0LXNKWEdmRldjOGRxbkVxVEZVU3hUU0VFVkZRRnRuSGJ6RVVtUFBYNzZMblp6M05fbFZMRzVzY3Vmdw?oc=5"
     }
   ],
   "insight": "Tracking Amazon (AMZN)."

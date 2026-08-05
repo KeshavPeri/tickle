@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:25.683Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:28.106Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    228.02999877929688,
-    234.91000366210938,
     235.7100067138672,
     234.30999755859375,
     230.72000122070312,
@@ -24,11 +22,11 @@
     239.4600067138672,
     240.9600067138672,
     238.86000061035156,
-    240.08999633789062
+    240.08999633789062,
+    233.67999267578125,
+    227.99000549316406
   ],
   "6m": [
-    109.16999816894531,
-    108.12000274658203,
     107.51000213623047,
     105.61000061035156,
     105.87999725341797,
@@ -158,10 +156,11 @@
     239.4600067138672,
     240.9600067138672,
     238.86000061035156,
-    240.08999633789062
+    240.08999633789062,
+    233.67999267578125,
+    227.99000549316406
   ],
   "1y": [
-    139.52000427246094,
     140.52000427246094,
     127.80999755859375,
     127.69000244140625,
@@ -410,29 +409,31 @@
     239.4600067138672,
     240.9600067138672,
     238.86000061035156,
-    240.08999633789062
+    240.08999633789062,
+    233.67999267578125,
+    227.99000549316406
   ],
-  "lastClose": 240.08999633789062,
-  "oneYearReturn": 72.08284761017644,
+  "lastClose": 227.99000549316406,
+  "oneYearReturn": 62.24736589895299,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "DaVita Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUEpTSDFqTDJtUTI2YmdmWU4wSE1LUmhmN1JTWndPMVd2clFlbHVjek55TENoZmFfakFkY0Y1bVhIZWQ2SWN5SXFqQXQxVTQzcHhldkhoczd0dGZPZzVidzV4cnJFVFY5M3FCOXBCMmp5UTc5X2N6LUN6TEJGX3h6eWNSM09UY3pqS1FGeUo0R2VtR2hyMHRtdHFSaGlFUmFKTGxsVmVkZGVuTndNM1daR1BKU21DRXpDVFgyQ1ZVQ2hHVnRxQURhbVRGc05EY2dTU1pYenJWMVM2bjhz?oc=5"
+      "headline": "DaVita (NYSE:DVA) Beats Q2 CY2026 Sales Expectations But Stock Drops - StockStory",
+      "source": "StockStory",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzRsalQyWUw2OWVhZUZqcXcyVDdJSVdlaWZLbXNfRlVHZ1FqQllBb3A4TGpOY0ZLY3JzMXYtaGRJazJPeGMtdjA3SlozaGFMdFdJWVFCaThpeHNBNThNOE5SZEpySGh1ZGcxWHBzV0VYSG8yZkJwWG5FaFd2VGNySjItLTB5YUhCSjJSN0NkVnZFaWl0RzVxM3lCWUxjZHhOMUJWaHRDNmNodWRpSVF6ZV9Ma09iemJCQ2RYQ01n?oc=5"
     },
     {
-      "headline": "Here's Why You Should Retain DaVita Stock in Your Portfolio for Now - Yahoo Finance",
+      "headline": "DAVITA ($DVA) Releases Q2 2026 Earnings - quiverquant.com",
+      "source": "quiverquant.com",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGdJRHNUUTZyLUp4anRPbXNnOTBxUThKSDBNRlpNMmhTZzNmaHFjeURWUWhzMUU1Zk1QZUhTLXYxajZIZk9zcEdmaUlrWmRKUU5IVVRkNGxQSDRCOElOUldRM3BHdmhENTVrRUJmeWE3WFFBUjlaQVlaU3VVX0Y0dUtsTDM?oc=5"
+    },
+    {
+      "headline": "DaVita HealthCare (DVA) Q2 Earnings and Revenues Top Estimates - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdWJUUDdPUXc2aEpkX0daMVk4LWZibFhRcEVXY1BSRF9scTY4a0hydmN0dzloMlNxUDJHdFJBUWxFMVJLRHo4dk43ajN3dWltVHA2NVBDb3IxX3M0QUJSdDNzY3hpWVFpLUZPT1gtZGlDZEpZNkRxR2FVNzBLb1dFWmowT3FXZzZST2l6YXZPcXFmZGVn?oc=5"
-    },
-    {
-      "headline": "Can Volume Growth and RPT Recovery Support DaVita's Q2 Earnings? - TradingView",
-      "source": "TradingView",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWdHM3laRFFnSmJBWnRrUEpFZURvZWlOdHJEMTVoMDRzTkRpZEQ4VHBUMldfMU1yMzNwRFZHQ0xDSEdKSkZnZmlnQk40RGlMNUR4NklfclhtU2lXaDM5N01jV3NuQUFKekwwSlZoWnVnYkVqbFdsTWZ0c2lEM2NZQmc2ZVRQaDBPelVTR0pNTHZuSHdwN0J0b0dDSS1lWktNQUE3Z0FhZ0pSaVZILXJEWEs4SHNRaG1GNHpn?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOUo1Q1gzTW1TSXVKbm1mV1NhMTR6bGZBUGlSbjhwTDZwY2Z6UjhIcGxsNEpEbTl3WVhYRFIzSWRfcjBLRzB6ampVcG9TeUF4ZGNVdGd1TTg0ZXlXS0Q0Q2s5R3NmV29fUExWWHJsbnhQNGU4ZVVTM1NyWWtRQXhMeFozU1BhLTBhcXR5NW1iZkhOSnRiWFVwd2Nn?oc=5"
     }
   ],
   "insight": "Tracking DaVita (DVA)."

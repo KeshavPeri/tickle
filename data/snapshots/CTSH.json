@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:22.319Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:25.025Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    41.06999969482422,
-    41.9900016784668,
     41.369998931884766,
     43.939998626708984,
     42.43000030517578,
@@ -24,11 +22,11 @@
     50.310001373291016,
     55.970001220703125,
     53.900001525878906,
-    55.349998474121094
+    55.349998474121094,
+    55.16999816894531,
+    56.130001068115234
   ],
   "6m": [
-    84.61000061035156,
-    84.18000030517578,
     85.61000061035156,
     84.6500015258789,
     83.30000305175781,
@@ -158,10 +156,11 @@
     50.310001373291016,
     55.970001220703125,
     53.900001525878906,
-    55.349998474121094
+    55.349998474121094,
+    55.16999816894531,
+    56.130001068115234
   ],
   "1y": [
-    71.26000213623047,
     69.9000015258789,
     70.88999938964844,
     69.12000274658203,
@@ -410,29 +409,31 @@
     50.310001373291016,
     55.970001220703125,
     53.900001525878906,
-    55.349998474121094
+    55.349998474121094,
+    55.16999816894531,
+    56.130001068115234
   ],
-  "lastClose": 55.349998474121094,
-  "oneYearReturn": -22.32669546051039,
+  "lastClose": 56.130001068115234,
+  "oneYearReturn": -19.699571040303397,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Planned 5,000-share sale by Cognizant (NASDAQ: CTSH) stockholder - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2RSeHd6OFFmOEFwamlrcjVzbFM5cV9JNkJMS3hLeE5iWWsteHNjVlJQOXJIa3pLSkIxODJ4OHRzYnpQTzV6SEZzMTAxbTNfVWdrU3dCQ0NYUHZUdUM3YTdNRnBGcWlHZFJpWDhTdWNQTkQ2WVhELU8yaE92VFBsSTZIMHJHMURMOHJVUWU0MXZZSFF4RXZYNTFGRHBVdkJHS2w1X0dhcHpyYUVVNXVvcUt3?oc=5"
-    },
-    {
-      "headline": "Cognizant Technology Solutions Corporation $CTSH Shares Purchased by Pacer Advisors Inc. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONlVZbHN2djZlRnVwNnk3dUhGYjJWQXcyQmtibmtEbUxYLVBUV3BHWl92enRmYTdKcUNoYTBlcEZvcU91aGxzZEkzNTY3YzM2TUhRdTVaek1XUHhLUXZ3LXRvYkVHczBWcUVaTjVuUzVWLWNEVGV1ZDZWNk5BS2lVNzJPcnhqMWxnSzNtY0tnWVFTV0h2cTRyanZhV3BNR2hfSmhhcmRIbDMxRnR3Y21Yc2tCSWtNaUFodGJCeC16ME5Ldkk4VEFVOU9kTVdfM1J1ZW1ibkZQSmRVbDNBbFNxUA?oc=5"
+      "headline": "Cognizant Technology Solutions Corp. stock rises Tuesday, still underperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbU5LNnh4c1pxZUlCYV9uaDdWYVptb1Z6SFNVOWw0WVlRQ1NwM01kUVlseTBqMzBKcm9qNjhMempYVlh5REJ0M1RTampaX1JhRFVMdjk1RDFsc1FQOVBBSFNTQVBjMi1IbHVnZkh1SUppTzByR3VZbGxzNEptOFNVdEVkUTF4Z192OXNjbFdBbFRRclNXZXdBR3lOTDFTQW0zQUV2NzgzSXNydk1MWjFqWnd1UjhiMGUwQzVwQVVLSlpxMGtFdFptSTlYRjQ2T0RmSVhHX3dGM3pkX1JNTnp0NlhwQ1h3dzEzSk1FTGZHR1BEUQ?oc=5"
     },
     {
       "headline": "Is Wall Street Bullish or Bearish on Cognizant Stock? - Barchart.com",
       "source": "Barchart.com",
       "when": "2026-07-31",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQlBoMEx2aU5WTGlxSXpyY3dHdUh5M3hpSVRzd0lqQVplUlJyRU55ZjNwMF9UdTR0eXhYTGozSVJ5MXdjdi14NXdLc0RnYUhyWTNLRml2X3BybVNZaERPVDZ4c044WXl6OF9hMENXNEVnVjA3aXhPemlvaXZBOTFyRWJjb2EzRmNjc21aelBNWkdDSlFUSG1zN2xpMG8?oc=5"
+    },
+    {
+      "headline": "Cognizant (CTSH) Form 144 details planned sale of 12,000 common shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFVkRlBwblRuRml1VWdDLXRRLWlMQ3ZLaTV6T08wYU9uUVNzdVZET3ppMW9pV2xYem5GVXBka1dQZllHTTFGRVJCR2VJbXZEYXpoaGZmaTdUZFJTaGdwTy1JSE1HQmFuU2tXdVFzOFhLc0Y2Rm9nb1BPN3Flb1Z6a3FsVXpmbEo0endjbmoxWTh0YWVuWlYyNGlvNXo4QUlQWVNKdFFTbGVCV3dsc2UzaTZB?oc=5"
     }
   ],
   "insight": "Tracking Cognizant (CTSH)."

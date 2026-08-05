@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:14.642Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:17.894Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    77.2300033569336,
-    77.98999786376953,
     78,
     78.72000122070312,
     78.06999969482422,
@@ -24,11 +22,11 @@
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
-    86.26000213623047
+    86.26000213623047,
+    85.25,
+    86.3499984741211
   ],
   "6m": [
-    67.05999755859375,
-    67.05000305175781,
     66.75,
     65.73999786376953,
     65.55999755859375,
@@ -158,10 +156,11 @@
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
-    86.26000213623047
+    86.26000213623047,
+    85.25,
+    86.3499984741211
   ],
   "1y": [
-    66.22000122070312,
     66.9800033569336,
     67.43000030517578,
     67.55000305175781,
@@ -410,17 +409,19 @@
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
-    86.26000213623047
+    86.26000213623047,
+    85.25,
+    86.3499984741211
   ],
-  "lastClose": 86.26000213623047,
-  "oneYearReturn": 30.262761320007353,
+  "lastClose": 86.3499984741211,
+  "oneYearReturn": 28.919071583149403,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Best Buy (BBY) Stock Is Down Today - stockstory.org",
-      "source": "stockstory.org",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWUpheUI3WTIxNkJiNW9zZlRhMDJJWmZaZVhqczVYREhUZk9fNExHQjdCcm0wYVZjZVhXV1lZUS1McmpMMnRfZFNxcUw1UGFTTkFFRktuRGVKYjdwbFd3aUthMDkyNGRyd0xLdDVjZ3FIVzd4V292WXkySzNYcnRPb2N0al9YOUNXQmJXd3hxb2JWeHRGZ0wtU1FFTWlmZw?oc=5"
+      "headline": "Why Best Buy (BBY) Stock Is Down Today - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ1RGWVhoaTkxTGczcDdyVkxvNVhwbHBwSEw3UkVOYTJmMW1TLVQzX3pMcGdnWXpRbE9aVEhtcTRZWU11azNFMGd2ZTZnaWRoUnpFV0ZzczRHS3hQUVRuVmM2RFFCZ2NsUVJEZ1BBeWZCR3JkQ2MtUHlzbkJMeWg1QTlPWnJmTnNDUHJRRmNLN0k?oc=5"
     },
     {
       "headline": "To keep growing, incoming Best Buy CEO says he first wants to go smaller - CNBC",
@@ -429,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1JEcWdzVmcySFlFeFJJa3lfLXBFRDdBbnFaUTRrMlRmdXhnQUtZZVdoMGtiSFo5b0R0TUd6U3ItQnZqdHMyVmdESHJtVTJfVXF6dnlaZGVVa2xNQUF6UDEzaW5wUHk1R3ZWVmNwNWZHckFXdTl4cnV2Q3A3NDFkaEpnb9IBiAFBVV95cUxNZk5uX0h4LUs2Q0wzdDBsVWJ5cnNRbF9WR0twcXh6VUl5UGg1YUR6cmsxNjFwUFRGWXRHYUd6aUR1VlR1a3N1RHJ4WFIwc2xDd2hwUnJoRVZ6QUZtY2JUZzBBMmFyVkNtV2pBWE1OOUo5SjdMSk1KNFNIMVlqWUUxMnh0ZjUtVUg4?oc=5"
     },
     {
-      "headline": "Best Buy (BBY) Could Be 9% Overvalued As New CEO Pushes Smaller Stores And Media - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnZzejlZWEVzblQ2dk5FNl9Wa3BBejlpYVlXR3VrWm90X2tXZTF4Y2U3cDVOMlFUZUlEM3FEZlRSQTB5dHpXRjIwb0NfUzQxb0ladWJUaWpsVkRFOEVUd3R5eDJhTmkyZnVVWUlZUUVNS1BZRVgtU29VRHhqNktUUGFRYVJISXNaZzFkTDVESjNQeVd3dGNRNmN6ajBEZDhIVHQ0cDJmX2sxdzlOSGsxZ0lEdFdZNjJINl82VHd4UdIBxAFBVV95cUxNcWdKelp2bDZiczdlbXdRVV9PNmFSNmNGSFZLUjdkNTZrZWtrV1pQVy0wbHZFOHFkYzh3OUZLUUVIQUtZT1pkOGR0SHJIazdDTHZMY0VaaHVpTkh5UllGZUlBN21qU3k1RUdyTVFXLXA5a3NFTzRNQTJBNDhNUnVlLVBjaFpGcGN4ckZsVU9zbmRYRm5zMzF5dlRuYThHeG1QbmFlVGNrVndzMElGbXh2SzlQQWdCR2F1Qm1xQUxWNkhuV1V5?oc=5"
+      "headline": "Best Buy Co. Inc. stock rises Tuesday, still underperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWGU3UUtJVjBHejBRRlM4YjJ2S2k0aHl1T3Q2RXZFbXVOUS1tQjJGX2YzTVoxMHE4RlJUZjlCNlZZSkxIQm4tZ1dWVVB6N0tVcGJ0bnFRNzd1TFkydlZDM3VuS09ZcDhjQnd5T0xBYXI5Vjd0WnBTa1RMdjRrbWw2YlRLaW1NQVhlVGJNOVpUMU9WRG1LTGNOV29DaXI5Y1VRcDFmTGtuT2xZb1ZwaktjRFk2N0JMWTQ5RTR5ZUtzX0JhOEJidUFzb3BFdkNfaE9DVzQ0RUM5bw?oc=5"
     }
   ],
   "insight": "Tracking Best Buy (BBY)."

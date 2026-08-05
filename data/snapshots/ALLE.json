@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:10.384Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:13.777Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    139.92999267578125,
-    140.5800018310547,
     140.13999938964844,
     139.32000732421875,
     134.99000549316406,
@@ -24,11 +22,11 @@
     161.22999572753906,
     158.47000122070312,
     157.05999755859375,
-    157.39999389648438
+    157.39999389648438,
+    161.27999877929688,
+    165.36000061035156
   ],
   "6m": [
-    166.9199981689453,
-    166.8000030517578,
     166.94000244140625,
     166.88999938964844,
     164.89999389648438,
@@ -158,10 +156,11 @@
     161.22999572753906,
     158.47000122070312,
     157.05999755859375,
-    157.39999389648438
+    157.39999389648438,
+    161.27999877929688,
+    165.36000061035156
   ],
   "1y": [
-    166.72999572753906,
     165.39999389648438,
     164.49000549316406,
     163.74000549316406,
@@ -410,12 +409,20 @@
     161.22999572753906,
     158.47000122070312,
     157.05999755859375,
-    157.39999389648438
+    157.39999389648438,
+    161.27999877929688,
+    165.36000061035156
   ],
-  "lastClose": 157.39999389648438,
-  "oneYearReturn": -5.595874809654084,
+  "lastClose": 165.36000061035156,
+  "oneYearReturn": -0.0241797385783716,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Allegion plc (ALLE) CEO has 11,292 shares withheld to cover RSU taxes - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWJkWDcxNzJ0YnF3c2FfWDJlUFEzNExBU2dVcjZZNjhva09XMm9MUHlfZWJvNWl1TUdNRldmN29SSEhyZGJFTHJCN1V1UE4xOE4zRzNtUkNiOGFubjIzYzk0aEFXeGpPN0kxWUliUXc5THdIaU16NzQ1a0dEbkJYcndaZzZMVFB3Qk9RalkxcEM2aU5IQUFtbHA3QjFjZFZjb2NOM3FidWVSdw?oc=5"
+    },
     {
       "headline": "Allegion PLC stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNT2cwSEZfZE1vdlgwbDJSMXlZZ1E3RjJZeEs0VVFQbFZid0RyblRYemF1Q0s3d2dqVFZiQ09sbWZiSThoWExLdXZLcnVrMDMxcnhVcTRld21qZFdlRnN6UVR2dERoNkZWSFBBcGFCSUFiM3RrR2t1UXF5YlJYaldVbXFhaGM3bUZQQm5ONS0yeTBTNnFwUmhmZ3pVR1BpRjBRajF3YW9sdUV6U2lnQzhCVlZTNzRMejhQdXEyRENpeU90c0tRYzZ6enF2bUF1WTNoeFVBY01BOHV3Rm04anp4cU9fSGluNkhSbVFNb1dLQkxLSjJBNjlMRnFR?oc=5"
     },
     {
-      "headline": "Boston Partners (ALLE) discloses 4.45M-share, 5.18% Allegion plc position - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV9FVUtKWjJjWjVCWXpDVGtxT1VSVGhkSXR3SmhkYWppNmdkTzV0RXVOTERuaWd6QkV4LUJqQU0xQ2Z4cUs2T2cwNVlLODdRVGw4dDBQalp3TUNKd1FvSGx2eWZDSGFyVVA5cFhZbDMydF8xTEhwRERNU0xHQ0diZjRYRlY3TTRFVVk5bEdCVXYxQTh3aVNNU1MyRW5QQ184ZFROY3M2NUVjNGZzbzFCWFVTSW96bE9vSWJ0U3NRMTdiYXdqbVE?oc=5"
-    },
-    {
-      "headline": "Here's Why You Should Hold Allegion Stock in Your Portfolio Now - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-06-25",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZW95aS1xZWp1OFJPSldITUhoUTBuOVh1OGpsdnU3VjJybDY3V3lIODVhc1BPX21CQ2c5V2wzN25SdTdvWFg0bGRoTzBfR0hzUXJwa2xpdkwwbUJYWkxwS1JGME1HRExvTkVXMUdITm5TT0p0bmF6Z1N0MmNHMGVZQ3d2WlZjOUdJYlhzVzlKV3diU2R6WEhrTjhR?oc=5"
+      "headline": "Allegion PLC $ALLE Shares Sold by Cetera Investment Advisers - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOTNqS1FCN2ZrVHdpNnRTcDNOdmhOOHlZdklwVm5KR2NwY3JFQ1Y2Y1c0Znk1Z3k3bkM0MVVmRE9LQXN1d1RnQkptNjNVOFlTdU1vOXlGTWFSaklCOE1ibmJ4YmxmSzRDN1dId3p3OFc3Qnh2WWxrOFRLVG9Bc2IydEhkemY4WUFGUXZDM1gzU3UzREtDVG1rSTVDZ1drV2Jfd3MzdUNSaWtVdkxGRGpzVEJyQ1kzbWs5Q1o0bA?oc=5"
     }
   ],
   "insight": "Tracking Allegion (ALLE)."

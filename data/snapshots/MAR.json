@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:42.128Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:43.410Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    368.32000732421875,
-    372.95001220703125,
     379.75,
     380.75,
     371.1600036621094,
@@ -24,11 +22,11 @@
     383.5199890136719,
     381.1199951171875,
     375.4800109863281,
-    372.8299865722656
+    372.8299865722656,
+    346.8299865722656,
+    345.20001220703125
   ],
   "6m": [
-    321.6700134277344,
-    319.70001220703125,
     316.70001220703125,
     313.95001220703125,
     312.07000732421875,
@@ -158,10 +156,11 @@
     383.5199890136719,
     381.1199951171875,
     375.4800109863281,
-    372.8299865722656
+    372.8299865722656,
+    346.8299865722656,
+    345.20001220703125
   ],
   "1y": [
-    259.1300048828125,
     259.7200012207031,
     262.7099914550781,
     260.5899963378906,
@@ -410,18 +409,14 @@
     383.5199890136719,
     381.1199951171875,
     375.4800109863281,
-    372.8299865722656
+    372.8299865722656,
+    346.8299865722656,
+    345.20001220703125
   ],
-  "lastClose": 372.8299865722656,
-  "oneYearReturn": 43.87758250568944,
+  "lastClose": 345.20001220703125,
+  "oneYearReturn": 32.91237124001455,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Why is Marriott International stock sliding today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGs3R0l0UWdjQjNHS2JBcE4zMGdIa0FKLXI2YmNnNlJYNEttN0s4STdSYzVyRDc5U1VqczhWUTd4TXRFRWpsdkZxejkzYjdMQnJDOS1aeGdSakkyYTdOdWx1M3ZBR0ZINEp4Y2h2VmFkYTZ5Mnk3bk02MHQxczhZTElta1dOVE1EcGw0TkYwOWFveF9SdVVINFU1cHVtOW5uNlZQSFY2QVBaLUkwQUNjdg?oc=5"
-    },
     {
       "headline": "Marriott International Reports Second Quarter 2026 Results - PR Newswire",
       "source": "PR Newswire",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmZvSkk2cG9qclVsNDBDdHVGUEFsU2ZMRDExSFk4bkxLRlFqN3lJZWpfMXlaNDFuNFBld0NVd1ZxR20zczNJeVBpRGNza04xSk1FVlhnRno5MGs3R1ZURUpVc205aW5rb1laaFRNdDNsZ2gzcWNNeEd2YUxTbkdjb1prV2ltSllJNFdhMTdkY2JndFZEYl9pTEdpRW81M3BoZ3l6V0hneHJ6ZEFhbHJ0cXMwVW0?oc=5"
     },
     {
-      "headline": "Marriott Outlook Comes Up Short As Middle East Conflicts Drag On Results - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2VsY0U4czlKc0tqZDNIZzNic0hwOERUbFdMdFZ6MTJVZEM3aGI0QWxKdl96dmdhVVlLb00zRzc4WmlhdER2QlYtVXM4WC1xbFNRLTNJWllRRkdoUFJwVGNiNzhIX1ZIZzBkUkx6QnJya0NiYUpRQTcyRjdPRUppNWs5S3k5YTZWTi1nakEzRTJINVlKclZkQ1EwczNEUXhEVk5teDdjRkJYUW8?oc=5"
+      "headline": "BMO Capital Markets Issues Pessimistic Forecast for Marriott International (NASDAQ:MAR) Stock Price - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTGFseGVycEpfbC11ZGlmSXpVaHJoM1FJVFFKeGZtNHM3MjBoM0laR3F1Sm4wVUVkVFlnYmVuWmU5MXJuT1ZkSjVtQjJzWjloaFdQaGNhR0E3c1Vpa2pDRGdoWi1WY2dXaUx2WkFCMDRNRy1PNEF1Y3pwYVE2Znc3eFI4Nzl4UTloSUZvTmJ3aDA4NmZZb18xekJjdjJ4MlgwUnVZdGpHZGV1ZzZCa2ItUzl6QVVMcUdjQ3pEODBfZDVHSFZWdm9naDhDZXNuSDBoMGNZOUtGdHUxTFJTb2JtSVZIUFE?oc=5"
+    },
+    {
+      "headline": "Marriott (MAR) Stock Falls As Fee Growth Meets Owner Pushback - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeEY3ZGpwazJnMXlmOWk0Q3RtcTItRllyOVBIQlBBOTgzbkgxaWlDdGNFSDdtQUt1LVZZcjZZRDFNNnlDYlZFc1JKQlhkS1lzaXBwNGtiQmpQeHZ0MDZLaW1tZXFJRlFFQW9LY2ZiV2E5SUZHTzg3bWhkWjk0dVRnbU83S0VOY2IxNl9tY1VSaTkteFNaYVNySmZJaC1CZGF5bHp2UTlUQXBzcXl2d0pPdFlvSEU5TkJmRkpCSnlVSHVWLURtMEtBWm9odUk1NmhZd21KZVNTLXVxdmlwbjZ6T1pR0gHnAUFVX3lxTE1UQTR2N3pybENRakV6TVEwX2ljNzNkWDQzbmdJcDNlUWU3RDI0N1pUY3RLZnpGemlVQ2ViZTJ6RWtfTnU4YWJvVTB1VVFNZ3VOMFdqUjlsRk5rX2VOVldTZ1dabkZkSTJ0Q0RsMmJobnFEcWUxUjI3VFNVdXNLSFczZjMwZjBBTXBCQXVYcmVaWTdlQ2FoQ091V0lITGpTS1d4YXFtLS1NbHJyREpDSV83TjFoSVpWd2k4YjN0bHJRSDlMWG94TEJ5d2RvOWNiWG1NQm1aeUNGTEhlUUt6RHF6OEk5VUZqQQ?oc=5"
     }
   ],
   "insight": "Tracking Marriott International (MAR)."

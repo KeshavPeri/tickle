@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:40.707Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:42.081Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    56.2400016784668,
-    58.220001220703125,
     58.25,
     58.540000915527344,
     59.31999969482422,
@@ -24,11 +22,11 @@
     59.189998626708984,
     59.869998931884766,
     57.86000061035156,
-    57.7400016784668
+    57.7400016784668,
+    58.220001220703125,
+    57.790000915527344
   ],
   "6m": [
-    62.650001525878906,
-    64.25,
     63.689998626708984,
     62.11000061035156,
     61.81999969482422,
@@ -158,10 +156,11 @@
     59.189998626708984,
     59.869998931884766,
     57.86000061035156,
-    57.7400016784668
+    57.7400016784668,
+    58.220001220703125,
+    57.790000915527344
   ],
   "1y": [
-    71.58999633789062,
     71.75,
     73.7300033569336,
     73.76000213623047,
@@ -410,23 +409,25 @@
     59.189998626708984,
     59.869998931884766,
     57.86000061035156,
-    57.7400016784668
+    57.7400016784668,
+    58.220001220703125,
+    57.790000915527344
   ],
-  "lastClose": 57.7400016784668,
-  "oneYearReturn": -19.346270942737018,
+  "lastClose": 57.790000915527344,
+  "oneYearReturn": -19.45644471703506,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Kroger (KR) Stock Looks Fairly Valued On Current Earnings - Yahoo Finance",
+      "headline": "Kroger Stock: Analyst Estimates & Ratings - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMk1COXJ2N1hoX1BfZklTMXQ4WHVmUUtFNEVwU1dVeWJRYV84SUt1ZVJycFdfZDY2Si1KXzBpT28zU1JhZ0cwY3dJVXBzaUNCZWd2aEhPN2V2d1FRazRIOWlyemVuR2pKRm1GaW9FQUs2dzBWQ3VDUG5kR0dBTmhHTXdrdzdNOENUSEFkdjdNbzVQVGw3V0ZFbQ?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFRjMmJKRXlKQi1ZV0xIZDAxQVU1YmNPTzktcXYtM3E3ZzBmMEFMdFQzUlItQm9NaERudGcyWXZCaU5SU2ZybTQ5bFMxbzVoMDJsalc2SDlIMVZSTTVibXdia0g4NlgxREJqLV9wUUlibzYyQVZOWlpMaUFzbXMtTnNxUWIzb1Z0T091UFYzT09GQ1JLLS14UzBKRFZmbnlsZ1JYLWRR?oc=5"
     },
     {
-      "headline": "More than 3 million bottles of eye drops sold at CVS, Kroger, more voluntarily recalled - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkdDalJPZ0Q4b0dNMnhZbmZCS21UNnR5bzhjWUFDbFVpRGdQNEJaTXoxaE9ENUg2UFk4dGV0Y2R6cGZYVTBwUjF3eXUtU004Yy1EOTdMZFBTNnVfck40UzM5SzVBVldPZmZGUXEtZEotUG1kN1I1R0tyTE5ZU1c2Z2MydENHMFRoV2RXazNTaVpNTU5ZRjRvUXo0NNIBoAFBVV95cUxPcW9nRURveWM4WEVjWEk5Q29IbWZSSHBvSnZsc2ZMSWlLbUJocDNBRjd5d001cEdHdXhKZGh0Y05CejJIS2hjaDFiYjNXMWxMazF4R0wtdFdZOEN6SW1aSXI3MHphZ0dDWDZyRGxWMFFkQy1uVzZhT0NHelNpbk50Nk4wSGFPVk1vbjZ0b2VrSV9TajVjWXBhVGk4czFkX0Jr?oc=5"
+      "headline": "Golden Harvest to get share of Kroger funds to fight child hunger - WRDW",
+      "source": "WRDW",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFIzWElJd01JMkhEVU9WdExESXc5SmJBaXVLblc2aVpKU2REZkUwbGRiQ3cyb3NwV3BGU0MwVnVXcTNmWEpURHNsZ1JFQ0FuMzNQVTNTWGlYLTh3d2dMeVNhX1RUNlprUks4N2Z2WGhjRUlKTnFSRzlDTk9vWFc2b2xGVjhneG1LSTZZN0tKcTB0VjDSAacBQVVfeXFMTnpWMWF2bjQ2YTNmS2xZckRZOEhycVNVcC1KVkFJZFRjTFF4TUZodmFnQkpidXYxYi13c1Y5VVB4VzV6aTdLYnJoNUQ5ZU5UeGtieEJ2UGtiVUdXWnpYM3N3VkV3UUtpdUtWdXJBbENidWlfcE9yMEo0UlF2OHU3dnEzRXRJd3Zha0RBTTVuc1ZvRTVOVDBFQ0pPRm9QbzE0cWJtQUJvVVE?oc=5"
     },
     {
       "headline": "Kroger Stock Leads Consumer Retail Picks As Fed Inflation Cools - simplywall.st",

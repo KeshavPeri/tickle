@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:10.872Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:14.235Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    237.1300048828125,
-    234.6199951171875,
     237.13999938964844,
     231.6999969482422,
     231.33999633789062,
@@ -24,11 +22,11 @@
     241.42999267578125,
     235.25,
     240.00999450683594,
-    241.7100067138672
+    241.7100067138672,
+    243.77000427246094,
+    254.0500030517578
   ],
   "6m": [
-    221.9199981689453,
-    220.74000549316406,
     219.8000030517578,
     220.55999755859375,
     222.49000549316406,
@@ -158,10 +156,11 @@
     241.42999267578125,
     235.25,
     240.00999450683594,
-    241.7100067138672
+    241.7100067138672,
+    243.77000427246094,
+    254.0500030517578
   ],
   "1y": [
-    184.49000549316406,
     184.9499969482422,
     185.47000122070312,
     182.24000549316406,
@@ -410,29 +409,31 @@
     241.42999267578125,
     235.25,
     240.00999450683594,
-    241.7100067138672
+    241.7100067138672,
+    243.77000427246094,
+    254.0500030517578
   ],
-  "lastClose": 241.7100067138672,
-  "oneYearReturn": 31.015230916031005,
+  "lastClose": 254.0500030517578,
+  "oneYearReturn": 37.36145295685141,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "AMETEK (AME) Q2 Earnings: What To Expect - Yahoo Finance",
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tRjF4aTRjSW42XzQ1dHp6bU8yVkNldUdxbl9Gdy1wQ19yQzk5MEJHdGxqNDlYS2d1dUwyYzcwTmNSaTVfQUd0eGo3THdYX00?oc=5"
+    },
+    {
+      "headline": "Ametek Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWVlaM01fWm8zbjlpbzB0Y0hRSFJvQjhIYmUxSG12a21CeWpnNExfbkdOdUVxcTFxenRmMEFmaktGcTdJN1dOZVgtQXNHckVOWGNCdWZnc2dSQ0VKRVcyc3lzakgzQmVvVzFCT1FOS2JDT1MtcmNJbnJPMlZkUkZQRTZabXZ4U29jUlkyVm5VQkt0Z1pkUGRpcF93SzNYdVo5RFRoZUx4Q3BWYS11eFpUNlREYW5hUl9MMmQ0LXZsR1RZOFZPa3hDenJ2X2FYSTNVSG1iT3JKaw?oc=5"
+    },
+    {
+      "headline": "Ametek (AME) Tops Q2 Earnings and Revenue Estimates - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbElrd2l4RUptZnRueXpnRkdlckdVZHU0RkxydjNZNXl5cjc5Ni1xbWZLeVRLX1dxc0VjUEtSVUVWUTYxMnVsZ0dlYk1KSEUyQ25DT0xTVEhDeFhrZWN5cUlOb0dkdUMxbzNhbElLNjdOTm1IMnFObGpGSGZndFR3LTItbjdTQzRlQjZqYWJtb0ZweFhJRGE3OUhR?oc=5"
-    },
-    {
-      "headline": "AMETEK, Inc. $AME Shares Acquired by Bank of America Corp DE - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXdmTjFlbEdzTnNUVm9YR3JGTXRBeEwtcG9CSnhBSHRQV0d6R0tNVC1wZThQU3dGbE5ISzJiWHJibzZYLVRqc3lmNDVEQlFmUXhDdlRtVnRkMWd1alJmSmtGVXhURURibW90cVVlZU5wRHVNTXdjam1WdkM0aUZwaWJqRkdDdDRyUDRFMTZJTjd0Uzh0VUpNejRwZmNpek13YjMzOWxncjQtaHFjUGNXMmR0NTBQSXhFMVE?oc=5"
-    },
-    {
-      "headline": "Ametek stock reaches all-time high at $244.90 - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkZobmVVZ3FWYWkzWHUzaHFPeVFJYjVuUnlNNHRhdGp3Qy05Ykx1UGpNTDRyM2M4Q3JPNFlhWHlTY0N0Y21Fd1o0VnNxdTBQX2lkcG9vNXVFcmRvZS0wMVYzbWlJT0FaLUg4WUl6UGpTR3pGUEM5TUlrdWhDcEtsS2JfSlFjbGlSWnVzVlFrdXFrT1lNeVR6RWkzS1Bpand3?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHlIUllvZnNycUFXazZCVGRSRlh3N2JiSzJtMUJCX2M4WEQ1Y3lxTGZLUmhZR25YR1RHMDItbVNjdi1sdW1WR0g3M3d5cTBlVk5BRmkyTzhzLVBpRVVCSVotZEJ0RXVXSThVYVpISHJCcGtoNlUzaVY3TFc0dWJsQlgwZXhvanBrWWFrZXJ3eDNDVDFjZ1E0?oc=5"
     }
   ],
   "insight": "Tracking Ametek (AME)."

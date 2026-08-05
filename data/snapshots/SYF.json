@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:51.141Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:52.115Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    76.7699966430664,
-    76.33000183105469,
     77.05000305175781,
     75.5199966430664,
     68.26000213623047,
@@ -24,11 +22,11 @@
     77.12000274658203,
     74.97000122070312,
     77.16999816894531,
-    75.79000091552734
+    75.79000091552734,
+    77.83999633789062,
+    79.08000183105469
   ],
   "6m": [
-    78.0999984741211,
-    76.61000061035156,
     77.51000213623047,
     73,
     73.41999816894531,
@@ -158,10 +156,11 @@
     77.12000274658203,
     74.97000122070312,
     77.16999816894531,
-    75.79000091552734
+    75.79000091552734,
+    77.83999633789062,
+    79.08000183105469
   ],
   "1y": [
-    69.25,
     69.98999786376953,
     69.44999694824219,
     68.44999694824219,
@@ -410,10 +409,12 @@
     77.12000274658203,
     74.97000122070312,
     77.16999816894531,
-    75.79000091552734
+    75.79000091552734,
+    77.83999633789062,
+    79.08000183105469
   ],
-  "lastClose": 75.79000091552734,
-  "oneYearReturn": 9.444044643360785,
+  "lastClose": 79.08000183105469,
+  "oneYearReturn": 12.987575717573518,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQmEtNGg4TGp1ME15eE5ZSEozUmlpSUtLd3FGaWNlRUdzVWlqVF85ZnpxSEVUcC00M29NX0hfM1JJSnJHLWN5OWhyUWl2Um9FQnBRVlJLQ1FaVkRLTFMwWGdGSFFJMzdpNGlLZzI0aGFOS2taLVFyclo3bHdMTlY1NFl6YUdGWHh6amh4M2lzU3dvZUVwUnFQeDJvYVJBNFJpUTFqM2lLRUZJMVZKTTV0RW1FUk9UTkU0UjRVVGxaRktLclZ2TjJ2Yl95bGlBVUFKZjdtTzdqQVRFdE5ITVVoeHBVZw?oc=5"
     },
     {
-      "headline": "Synchrony Financial (SYF) holder files Form 144 for 4,000-share NYSE sale - Stock Titan",
+      "headline": "Synchrony Financial (NYSE: SYF) officer sells 610 shares in 10b5-1 trade - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTzdyOWRUVUJOc3RyaWVEeHRPcmxIdG5LT3Frb1NJX2N2TFl1YS1zVkRYb2dxLVFDZC1xcVVYbGNqYXF2UjFQc2trN2FmVGUyb2dQUVVRLXZBNFlGbDdWdDM5NEZ1WTBGWi1yZXhhOFV4dU5PYklSQThCNFRxRWxSZ0doZHh4cFhJeWlZNzRsUVR4UEFfRjlnVXhmQQ?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlo2Z1d0M3B6RlpDWVNEdEFleUVvSUFLbV9BTVIyRFUwZ1dGY3NydEh5T09QVUVtR1dQdmJzYy1RekR6ZW1Od09HcXpUSXd5VkRRS3dTdFplRzN2cFhEM0Z6dFFMeTFBbGpxdk9oRW1qbGdMQ3ZLY2JBUmtiWDIwYUpSaWtHaDVoZjNPQjN0OGRRWGtsYUJOWklyQWtCakgybnF2VEQ4YUxOMXZOU2hqbTRR?oc=5"
     },
     {
-      "headline": "Synchrony Financial Stock And Two Consumer Lenders Under Pressure From High Rates - simplywall.st",
+      "headline": "Synchrony Financial (SYF) Could Be 13% Undervalued As Guidance And Note Sales Land - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLTNyMEN4VURzSTFoOFB5QWluZjdGN3JXOHUxcXNhcmxrLWVBWExPVkxmQTFucU9SV3A1SFZKb05FWWNYRFR2T015UmtkaEhlVWJFU2hTOUxZZDdrVzZKVmxoVUZ6QU1USl81LUZodWhCam5PMmpJWWhmdXVDN09OYWlhT1prNXhQWHVuUWdyaVhLd0pFZXRjVk94VG9SR2o3V0tsRDdQcS1uWlRTWnQzUENSdmRLVUZhZTRWcVNydGdJZlZrT0hYTXI2MEFVR3dRX1dzVjBQdmJPNnZBeWlXMGlrWdIB6AFBVV95cUxNeHAwdjd6X3doRWk2YVJhWnBYTE5WNjRNZmNYRWpIcFg5Qm45ZkI1Skt3UzJoUU9teERFcHk0bkpJRzdfV09Ydm0wcHo1S3JqVi03WllVZkZkc1NvbGJGSmV5WElucFhJcW9MNEVqeVp0VzlIb2xaOFlYWDBWaExxU251UXlHdVRXWlNLTWY1SFY4YVViN09WLURvcUJQSnF1b3JFOEVQNEY4aTY5SzF2aVZYNmQtTEg3b1VuRGZHMG8zc0F2Z2tFSzExa2pRRkg1VmR3UUpCSU5iaVVOejRHQk14dEx0YkhO?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSGNxSUppSnJ6Z0dmdDM3dklOZHpBVnhxN0p4QTE3bXczMjhSZ0Q0ckkxT0JRSUI3RzNObHRLSnRlMmw0UFhfcjRsNTdUNTF1ZmNTV3l2ZWkzc1hlRmRrblp2VGVyTW80QzJzRy15Q2tIS0p3OEJOaFp1MW5Db0l2cWhHZUtaNk40bHV5QWtwc3hDd084RmhIYXJIRzh1YzlIVjR1ald6bGVPOGZpMS1BYTgtVkgyaHhFWUh5MVVuM254YWZpVElSVUswMnpHVDNhSDBRbVJBVk8wZGx0UkdtRkRQWlhSeEnSAecBQVVfeXFMUEhjcUlKaUpyemdHZnQzN3ZJTmR6QVZ4cTdKeEExN213MzI4UmdENHJJMU9CUUlCN0czTmx0S0p0ZTJsNFBYX3I0bDU3VDUxdWZjU1d5dmVpM3NYZUZka25adlRlck1vNEMyc0cteUNrSEtKdzhCTmhadTFuQ29JdnFoR2VLWjZONGx1eUFrcHN4Q3dPOEZoSGFySEc4dWM5SFY0dWpXemxlTzhmaTEtQWE4LVZIMmh4RVlIeTFVbjNueGFmaVRJUlVLMDJ6R1QzYUgwUW1SQVZPMGRsdFJHbUZEUFpYUnhJ?oc=5"
     }
   ],
   "insight": "Tracking Synchrony Financial (SYF)."

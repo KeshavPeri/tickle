@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:12.467Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:15.697Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    118.44000244140625,
-    118.61000061035156,
     122.16999816894531,
     119.33000183105469,
     118.13999938964844,
@@ -24,11 +22,11 @@
     124.69000244140625,
     119.7699966430664,
     120.25,
-    125.58999633789062
+    125.58999633789062,
+    129.4199981689453,
+    133.1999969482422
   ],
   "6m": [
-    139.72999572753906,
-    136.30999755859375,
     131.55999755859375,
     131.72000122070312,
     132.88999938964844,
@@ -158,10 +156,11 @@
     124.69000244140625,
     119.7699966430664,
     120.25,
-    125.58999633789062
+    125.58999633789062,
+    129.4199981689453,
+    133.1999969482422
   ],
   "1y": [
-    142.02000427246094,
     145.5399932861328,
     145.8699951171875,
     141.11000061035156,
@@ -410,29 +409,31 @@
     124.69000244140625,
     119.7699966430664,
     120.25,
-    125.58999633789062
+    125.58999633789062,
+    129.4199981689453,
+    133.1999969482422
   ],
-  "lastClose": 125.58999633789062,
-  "oneYearReturn": -11.568798366637038,
+  "lastClose": 133.1999969482422,
+  "oneYearReturn": -8.478766598284839,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Apollo Announces Conversion Rate for Mandatory Convertible Preferred Stock - Apollo Global Management",
+      "headline": "Apollo Reports Second Quarter 2026 Results - Apollo Global Management",
       "source": "Apollo Global Management",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHlmRVpIa0FnYUhnT1hxd0tVRm1HYmFJb1ZNVXBjVXdZMHc1bFZEcGI4TkxDUWwtMUZKTFRsOVU5N2FCRUg0cEhHZXdWLTFOV1VrZVprSHoyYkswbFhpWmNjUlpsTWt4OXV0X0hteGIyb09wVW51a3lMaEJVZGptQ1VKeFZiMm9WdUYwMXNidHd4MG5lRl9OSmJxUXlaa3dxVVE4X2VkbmtsSXFWM0xwamh6NS1ZemxaR0E?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2g2eFgzSmtibDZKUU52TkRINWlUNXVKMVpfek5vQ1RRY2pfSXZxUFR4NlY5X3h5U3JFRmMyMFBySDhrdmhNSHJMM0x5OVNFQVZ5eExJSTR3dmNvRFE5d2NOVjdILXdIbWlFNGhtSnFkN19ZbWU3NkdNM2xXbmlzVlFCWm9OcmFoQ2FOdWR3ZGc1Y25QeTNabEJQQ2Z6dnBPZkJqTA?oc=5"
     },
     {
-      "headline": "Apollo Global Management Inc. $APO Shares Bought by Empowered Funds LLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2pYYnNPM3ZlNUIzd04yS0NBVURlRUhldHlQZnVpRktEdVg0ZHhZZjBKck5GVWEzMDV4d1lXZDI1dkZfdGVORzFlQ2F5Qm5lMHdKaDl1SDJ1TVdScDMyLTN5YS1IVGUzMERiX0YtUXk5c2JZN01RUGhBMVdMOWpfSU5KZl8wS3J2TzU4RlN6VlNUUjZxVEFseVRyYkt0dl9RLUlIVHNqODlQRmw2WnJsT1psaVgweDUwUlNXQThSLTdtY2tzLVRuV1F3?oc=5"
-    },
-    {
-      "headline": "Apollo Global Management Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+      "headline": "Apollo Global Management Shares Rise as Revenue Surges Despite Earnings Miss - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOFZGTHozbXR3cFh0MHZoZEdEZTRGel80QWMxWmhlY2xOeGRkZDlrb25TOWcyWEdVMnpLVkhWRHFXVGRFMThGOGN6LWhTZXdlVG5ucHRuaDQzczc4RFZ1ZGR1bndubmRISHZkUm5DYUpBXzI4UGtaTDdRb3B5M3BoN2VMNGVkUkhKVUFWaEE2X1ZtYjBSUEhlcnZsdkFlQzlVNUE?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWDFzY0Z5eGtaM2VjSG9wb1FicXAtTFlITGJjdW42WHVKd0c4ajJhYUIyRE9PQjA2VzQ0RmJFenpmVFZKcGdWbGRNNnF3ZGJVcjB2UldVaHlFNmg1bVQwRlMtTHU1bXVKQkctVW5TbHJyWjhoZXdMT1pOTlRwQXYxaXBDOVhQdmNNNFlFOWdRVXRHcG1NbmRRNWE4VDlrYWNvdEk0?oc=5"
+    },
+    {
+      "headline": "Apollo Global Management stock rises 2% on revenue beat despite EPS miss - Investing.com Nigeria",
+      "source": "Investing.com Nigeria",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLUhVYWVaVU5Cdld1cGNhaF93U211YnNsbGhzOHFtVUVYWUtNbnJjMk5jMzRaeGFQSG5HeHNJVl80MHZBNVZXa3p1Q2tZaWV3MnBNNUVIZ2VhOEdnQnEwaGVEaUZzRkV6Y3NfM0NOcjZPMXY4V1NUcFQ3QjdNQlN3eGpmWHJWUU1FdTUxMlNSNmxOUjRsS2thSUUwS2hJclpWaDhuUTJ6d1NPRjE4Z21FM2ZGSm9hVlBUQm5GdXdSV3NtMVptLU94amJ1T08?oc=5"
     }
   ],
   "insight": "Tracking Apollo Global Management (APO)."

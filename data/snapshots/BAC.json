@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:14.333Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:17.400Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    58.36000061035156,
-    58.72999954223633,
     59.900001525878906,
     59.86000061035156,
     58.29999923706055,
@@ -24,11 +22,11 @@
     62.619998931884766,
     61.06999969482422,
     61.72999954223633,
-    61.95000076293945
+    61.95000076293945,
+    62.47999954223633,
+    62.900001525878906
   ],
   "6m": [
-    52.45000076293945,
-    51.720001220703125,
     52.02000045776367,
     52.16999816894531,
     51.810001373291016,
@@ -158,10 +156,11 @@
     62.619998931884766,
     61.06999969482422,
     61.72999954223633,
-    61.95000076293945
+    61.95000076293945,
+    62.47999954223633,
+    62.900001525878906
   ],
   "1y": [
-    45.849998474121094,
     45.560001373291016,
     45.41999816894531,
     44.91999816894531,
@@ -410,29 +409,31 @@
     62.619998931884766,
     61.06999969482422,
     61.72999954223633,
-    61.95000076293945
+    61.95000076293945,
+    62.47999954223633,
+    62.900001525878906
   ],
-  "lastClose": 61.95000076293945,
-  "oneYearReturn": 35.11450997736807,
+  "lastClose": 62.900001525878906,
+  "oneYearReturn": 38.05970068024021,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Bank of America doubles down on Apple stock for rest of 2026 - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcmdQVWxKNU9YUHczcENTX2RjdFlhQ2FMZTBpMXpFXzhYY1RpWHl1cHI4Z3JDZ1JPUUIzX1NZNjR4b3h4Yno4TUFmNllSbjBBMjg5ODZUaGk2eGROanNWRHJRcHV5bXcwVjhHOEQwaEZiVHRSVnJiRElIaXJCTDA2V3I4V1M1QXpHclhuaFJPWVZsYzRfV0MyeHBZWFpDV3RXMG5QbG93?oc=5"
-    },
-    {
-      "headline": "Bank of America (BAC) Stock Still Looks Cheap Following Its 111% Run - Yahoo Finance",
+      "headline": "Bank of America (BAC) Stock Could Stay Reasonable Despite Fresh AI Expansion News - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQllLNEt1S0hScS1mZjVRZlc4dGt0alJVb09SajFrSWNZUkZlc2xYRmUwbENKV0FGdzFaMUhfd0tFOUdfZGRnRlhvM0tHQmpmR2tiQVpFQ1ZTRDZqVm5rWFVLWTd5MGQ1LTBZbURKcjAwTkFRZGZieXYzYjUyUExSYnpmZ1B5NEF6RnZZWWsyRU8tZUlqS0RDNQ?oc=5"
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1pRUGNMVzlFWF9ubHdZQVdWNmVvUm8zcEhfS2g4Mk9fcldsYmVEdDhUSTRrRkxVc0RLX1k4bEVWM1dqOS15OTA5WjJsUVZQc3dSdFhYYjVBQmNwZzdqTkVqNkEwaGVnUzFNTmJaZm14N3pYM0NFVm0yR2VrbnNCNGtvbzJfY2tMQXRxaU16eGVvRkJwVGUySQ?oc=5"
     },
     {
-      "headline": "Bank of America Corporation $BAC Stock Holdings Lessened by Rathbones Group PLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR01DU1RRQVZYSE1UdE1DYXVhbS1ONzl3ZWZUb2FadkpOZktTR1FwWjFEUmZSbGlob1MySmJCMExxcnFzRjNBZmNfa3BKNFRjcDRsbVlmVU1qaEVxVDNUNVV4Z2FILThQRWpraU5pSXBOd2Y1Yk9SdUFLbFQyU3RGTTRoMktSZ2RocndYV0FyWTJ4bU54OV9oSlo3Ym9mREtlVmExOFhKOTFWc2x5RXN1RWVEMXlxZVlXdjQzUnZoZ1RiMXFLaHRLSDJnZEZIdTVjT0NVNFdB?oc=5"
+      "headline": "Bank of America sees Mastercard opportunity Wall Street missed - thestreet.com",
+      "source": "thestreet.com",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDNmekczVkdUQldJX0s4VU5qQ3VPNXN1NTVsQ2hYWTZHeVJMMWFyS0lieDUyWHZ0dHRtZ2g1RkNpT1FsVDctQnBwWXZ2aUlmckRGdk83cnhVajVSNmRCdVJ0endKV1hSazc2U3VXaG4zSUJvNnNIWDRrN1ZJb29uSV9kaDEzVFVlQmhPN0l4dzl4cnVPa2x4LU1PZkJESFU?oc=5"
+    },
+    {
+      "headline": "BofA Report: Financial Wellbeing of Employees at U.S. Companies Hits Four-Year High, Even as Cost-of-Living Pressures Persist - Bank of America",
+      "source": "Bank of America",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeGg1STBLV0cxTU5McDhYR2ZfbzdlSTJIbmt1UENWV1lhVFlMbV9wUVZCSDhyNzU5dGkyX0kxX3RVZFdZbkMxcndqdlVvTER1cUxST1VLV29PNV9qcmlEb3d2VWNNU0VlSjd4NnhDSUZMdGNRTlJJNDZ6b1pnVUJvVTRXOERaZDZVRER2bllFRWl4bDM4TldqeGhEcEpZOTZMVHEtVC1CZFRPN3YycTg0eGlURHVQRU1OR18xNFZyMXhSRWFTNkhZMWRmY2szWUE2bFJnSDVra1dESEwx?oc=5"
     }
   ],
   "insight": "Tracking Bank of America (BAC)."

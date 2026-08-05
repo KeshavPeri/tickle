@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:24.475Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:27.035Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    193.72000122070312,
-    197.92999267578125,
     193.6199951171875,
     194.19000244140625,
     190.77000427246094,
@@ -24,11 +22,11 @@
     199.0500030517578,
     196.49000549316406,
     196.1699981689453,
-    194.97999572753906
+    194.97999572753906,
+    197.5,
+    194.77999877929688
   ],
   "6m": [
-    240.0800018310547,
-    235.00999450683594,
     236.7100067138672,
     235.75,
     224.5399932861328,
@@ -158,10 +156,11 @@
     199.0500030517578,
     196.49000549316406,
     196.1699981689453,
-    194.97999572753906
+    194.97999572753906,
+    197.5,
+    194.77999877929688
   ],
   "1y": [
-    197.4600067138672,
     199.0399932861328,
     195.1699981689453,
     198.49000549316406,
@@ -410,12 +409,20 @@
     199.0500030517578,
     196.49000549316406,
     196.1699981689453,
-    194.97999572753906
+    194.97999572753906,
+    197.5,
+    194.77999877929688
   ],
-  "lastClose": 194.97999572753906,
-  "oneYearReturn": -1.2559560933884841,
+  "lastClose": 194.77999877929688,
+  "oneYearReturn": -2.1402706242618894,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Abbott vs Danaher: Which Healthcare Stock Looks Better Positioned Following Earnings? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlRsdllDbnI2UXFVOFJXLVZyeFEyY19odFA2MElOVDlXRFppa3ZnS2JXdFp1WlVPb04tc2ZzNE16ZWhEb0pOREFRTWdUbS1XbHhhelZLY2tZLWJYcjlySlhiTEZwWkdrY1dSRXEzLUVzUGZXNXJvYUU4YjRiSExpR1dYTFNYay03eUZRaTN2T195MXRjTW9ORlE0aw?oc=5"
+    },
     {
       "headline": "Danaher stock rises after naming new CEO, backing guidance - Investing.com",
       "source": "Investing.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUG5iSjdtLTJ0X3NkSGF0dllHVTBnTlY1YVIwaE56UHJEbElUdDRJZHprTkZvT0loTTNnZEhfU0Rrdng5NW9NMldLbjlwbnJsa1hDWjlDUThhdUllMjF3RFVNQ2JjSEllSHEtSExHQWFnTTFnd2pfeWl4QmhkMTZWUFBQM0Y4WVE1X3FNeFlRU2hJSWtSQmwxa3I4T2wyQmN1djJXTjMteElON1JWdFJLd1h5bjBXNktvN1BN?oc=5"
     },
     {
-      "headline": "Danaher shares slide despite second-quarter earnings and revenue beat (DHR) - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb2NaVEd1LXNnUlo4aEJDSnRyVFdsODNuMEtLXzJVSEptOGoxMG9zdkdDZ2lyOWJDX19lWkRRZHEtZzRINXVJV2RJeDB2blZFVWZHWmZuYUctVkpCbHZKdy13Nm5PckdwMjloME5XeHA0Y0VEM2dvM3ZoOTFlR2diakpHU0JUVHhib04xVHdSbGVLcXlIX3Z3S1d2T1BaeWx2SWc?oc=5"
-    },
-    {
-      "headline": "Danaher's Rainer Blair to Retire; Julie Sawyer Montgomery Starts Oct. 1 - Stock Titan",
+      "headline": "Danaher (NYSE: DHR) director adds phantom share units via fee deferral - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHA0YnZNem1lRFUxNDFXdG83aGZxU01HdTdZbWpUbVFTU3ZvRF9mWGM0TlZDTTJKLXY5WHJEeUdFdEx0MkQ3WVRIejc3UU1xNHVveXNUakttQ05rcWRtOVpDLUdkMDN2c1J2Z2dYQzVGRkg4M1hVX3NZUWlmVWU5MjVxWFhHdGNvMjRjb0kxRW95WkVxcXJNMWtTbHlUS2t6THlvRzA1Q3lheWtLOWphWDlvU25qWmZD?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3pWTDZDYlpYSHVOLUdLd2hwcm5kWWpYYzVIWWE4eFViVTZIVDZlWmlqOF93UUlPQTMxZld2TzFBS2R5dkdwRmlmVHNpQmtSTU1xbmxscjcyWFBYd2N6LWE1bFZCZHY4NkZpZ1VSaHZzakVxWlBZTHpMUm8zYktlWVpFT250Y3JvQzJNOFNwRXhvSnR0Z0FLaTdCSENaNmVzZEo5cm5zM2M3WnRW?oc=5"
     }
   ],
   "insight": "Tracking Danaher Corporation (DHR)."

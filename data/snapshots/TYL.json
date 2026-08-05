@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:53.743Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:54.498Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    301.6700134277344,
-    318.1000061035156,
     319.010009765625,
     321.45001220703125,
     314.2900085449219,
@@ -24,11 +22,11 @@
     333.3500061035156,
     333.5,
     323.30999755859375,
-    309.6000061035156
+    309.6000061035156,
+    305.5400085449219,
+    313.3299865722656
   ],
   "6m": [
-    440.5799865722656,
-    434.760009765625,
     439.82000732421875,
     426.1600036621094,
     419.1199951171875,
@@ -158,10 +156,11 @@
     333.3500061035156,
     333.5,
     323.30999755859375,
-    309.6000061035156
+    309.6000061035156,
+    305.5400085449219,
+    313.3299865722656
   ],
   "1y": [
-    602.989990234375,
     608.6799926757812,
     611.760009765625,
     600.1900024414062,
@@ -410,29 +409,31 @@
     333.3500061035156,
     333.5,
     323.30999755859375,
-    309.6000061035156
+    309.6000061035156,
+    305.5400085449219,
+    313.3299865722656
   ],
-  "lastClose": 309.6000061035156,
-  "oneYearReturn": -48.65586309597315,
+  "lastClose": 313.3299865722656,
+  "oneYearReturn": -48.523035036053244,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Tyler Technologies Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "headline": "Tyler Technologies Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUGxUZlZRdnEtV3R4MTYxNHRUWElTcE83TTVfZkdYYUlIazRDSHdWcGs0X0JIanNJcmZPUGNFWFpwN0k0elVxR1lBNy1ZWVhSRUFnOHhHWnpBbm5hSHJTQ2NsVWxRd2psZVdPT1JmV2ZGdU16aVM3a0xBZU9QOVFDaS1xSUt5UWItR3d3eWZ0WGZhem5MeEI2LTg0bG93Z1AtemdzOXFINUUwQ3RsZmQ0U2ppZ1JNVzk1VG9PQ3FUTy02bEwwWFNvV05zT2dHczBuVTZ1RlhyU1RKMlFRa3Z5UXV2YVZzSlRaaXhWWg?oc=5"
-    },
-    {
-      "headline": "Tyler Technologies Inc (TYL) Stock Price & News - Google Finance - Google",
-      "source": "Google",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9acGVuR2JhMlRCdU96WkdSQVg0NEhvX2Z5aUhxeEhtSnloOTFwbEl1elI0QmNNbHQ3RUFyamo4MFdJejZub3VVUHB6cmJGS05LN0xHY0xYT2Y?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRVk2S2xjS3FUa0NCdTV1ZHV3aXB0LTY1WjdDZ2pmempHWF84bXlXMG80azNMbmFUVGFQWllPWHllSnRYY1ZLeTJsVDJkNkpPNGxkcjE4dnBBMjJTSmxMMUtLeXBKSDVROGRTMk9YUEdjTXN3TDBkeGd1NFY5MU1hZWNrSG1iT2MyVzVPSlFJRlB0bExWWjY2WktmLTlqTG1mY0ZwaWhxV3RiSlFUMVNKaUZvd084MnpkZU5hTTlUSGFna3dLZEZUc0kzYjdfSHU1R3ZLSnJzNTY5T0h4UXp3VUJMeENlZElPTHlkQkJPdGhHeWdPY29weTUybmxpb2Nvc29GUVVaaTI?oc=5"
     },
     {
       "headline": "Why Tyler Technologies Stock Got Thrashed on Thursday - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-30",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQzF2ZzZaV3dnQWJDNURuU21LdnkzZzRqbEs0WDVMZnNhT0FzODI0c2g3aDlYclRUMjZ3VldNRmFuNWEwa25NNTJMNmplY1hnNktWNGZrTkg5bVJOdVQzMzJadk1aRU1qMk5TX0ZsbEVSYTBnRzhUZkJ3bXhYTi1JUE94a3ZDWUtHY0dWcWhkR1QyX3NiWG5zTnlRdThoQQ?oc=5"
+    },
+    {
+      "headline": "Tennessee Comptroller's Cloud System Now Supports 86 Counties - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRkRUZHZ4cVFTWXJoeEtmR29Vd1hjTHNiMXFSeWNzaWdxRXZXR1A3dVVfSlBNYVJ1WktxSjdiYXdQOVNwb2txZTVieEJOc2ZILUo2LW94SWY1Z3VwQVBWSWhwNU9BNTZycVZCM3Z0VHFpMXRkQ04wTk03R3licEJkazg1eTBvaDRra29NNnZhbVZYcGp1WjA1bVNfdjBYbEdOQnZWUVQ1cUtvM0I3ZG1YVVlvX1RZbVQ3aVlld0xB?oc=5"
     }
   ],
   "insight": "Tracking Tyler Technologies (TYL)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:54.759Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:55.394Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    255.89999389648438,
-    256.42999267578125,
     259.1300048828125,
     266.7799987792969,
     267.5799865722656,
@@ -24,11 +22,11 @@
     281.1499938964844,
     290.9200134277344,
     286.5799865722656,
-    290.0199890136719
+    290.0199890136719,
+    298.8900146484375,
+    299.20001220703125
   ],
   "6m": [
-    251.5,
-    250.60000610351562,
     251.5399932861328,
     249.6300048828125,
     253.5,
@@ -158,10 +156,11 @@
     281.1499938964844,
     290.9200134277344,
     286.5799865722656,
-    290.0199890136719
+    290.0199890136719,
+    298.8900146484375,
+    299.20001220703125
   ],
   "1y": [
-    268.2900085449219,
     268.2300109863281,
     273.2200012207031,
     273.989990234375,
@@ -410,29 +409,31 @@
     281.1499938964844,
     290.9200134277344,
     286.5799865722656,
-    290.0199890136719
+    290.0199890136719,
+    298.8900146484375,
+    299.20001220703125
   ],
-  "lastClose": 290.0199890136719,
-  "oneYearReturn": 8.09943709294399,
+  "lastClose": 299.20001220703125,
+  "oneYearReturn": 11.546061198305543,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "VeriSign Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObGhKUGtjTGdrdExnTm1GWF9VM2l4REJDelYxLVFRc1lLeE83a09zcVZUQk83bk5tSnFoZG9HOC1pYTNUb0E5SHhOQmJzd1RwWXhCeWVHS0FzZzJUblltczM1X2dteHlZTkNEaWplZ2tYLTJrbU4xV21ZZ1Y2TjNNZUpwRjRHdG1VdEE0YlNteXZEQnRXRFdpZEJ4YThrM1VhYWVPRFdpejN2RGk2V1ZzMmZRU0VqMzBPMkVvdWNwcFVCQlhud1ZfREFtX3NKZjBPYmQ2Tm9UMFZ6Y2ZkV3VsNlZWSllhaDd4dGowNW1xWldaSzJLM0VtY2t3?oc=5"
-    },
-    {
-      "headline": "Pacer Advisors Inc. Increases Holdings in VeriSign, Inc. $VRSN - MarketBeat",
+      "headline": "VeriSign (NASDAQ:VRSN) EVP Sells 500 Shares of Stock - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEM1VmZpTXlsTDRpSS1tSmdUTU5SUGQxSFI0ZE5Ua2o0Rnk0YXRtQTFpdnVYMFBoRjBzdzVPcktTU2tUVDY1QUVZTXZoemV3cnR3OWNuRzdqbWhSRk1LZzVSZExSaUptUmpaZWpVbkNyNlpETVExVGg3OFQ3aVNBbjYyekhqTnFwa2pXUjIwdXB1QVNzTkNkNGEzVGlRZF8yTGxTV3k1cXJwS19FX3FqellyRWFTM003c25F?oc=5"
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGoxWHQtaDlqMUdwS3p0M0wtc3F4b242VHdYZ0M5SXFYUEl3eHdNNGVMU3BjQTE1UFJJT3hwMjNmd08zYktXSmFOMkpmLVljdDlpT1FQSzJ3Mzl5MXlOX18yR2pqaTlDaHVJMmpuVmE1MnhnaG1JTXZtSVRlSi1PbUVrUFJHNTZPTFUzb3ZFNXdfUkFLSG9aMF9iQ0RHNHlrYlVyeTB3?oc=5"
     },
     {
       "headline": "VeriSign (VRSN) Stock Looks Fully Priced With Cash Flow And Earnings Rich - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX045VXlmQ24wamk3SFZkR09zUFpBQmdYWFNIMGprZmtaSkV1RWRmVnEtSGNycEZPUVJwMkVCSTFXMVg2VjJ0VUU3Z1dIeWYxSm9WRDVOQUhNcV82cFBBV1JPTEhMQ2I1OE9pZVMwcDNkbTA4OExMUnJuUXFRSmg1ejV3UzhiSnhUM3NQa2dqNEh2QmIta2h0TDlxYTNkVEhLbEE5SEpuVVRTRWt4Ni0xX1VlQlFhNnFQeC1yNlpWYTNLY0tXM1HSAcsBQVVfeXFMT2tRZkZZNTVoOVVRUnd6YWZrV29aWUlZaUpDLXVtSGdfNzJDR2lWNUt4dEthV05HV2VlSUhMSWVoRHdRTUtwZ09xb1BOY1UydlhzcC1YM2xSNjItVTJvd1hlTVQ2UURacUxMUHNJLUJrTnpnX2pXRzd1OUluNlhuOHJFWFdEV1puMU96NEFuZEdTc3dIc19sdWVQS3RMOHIya3llU2RERmt5TDlKRDZ0UmE0Q3B3OXR2cGFRNnBpbTNycWZrdHUtdWhVbGs?oc=5"
+    },
+    {
+      "headline": "VeriSign Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYXg5SlpHVW1PbjhvdS1LSlozUDN6U3lQTGR0ZHhsODdSb2otdWRzU0x6WUNCOGZ2LVEyLVIzY09EdlE1dHRUME5UZ0lXV0trUmJRSEw3b01BSWFiYVItVmhoOGVLNUhCRF9KQ1JZQ2JLWEdGY3BJVEEyZk85RDEyTWJzVFAwQkNrZ0h4MW9xZ0c2VWhCTmhxRmItcWhyRDFQNTFoUmFURFVuc3lrSzFjcEg1QzFqTVZjOHloTjRaaEExZw?oc=5"
     }
   ],
   "insight": "Tracking Verisign (VRSN)."

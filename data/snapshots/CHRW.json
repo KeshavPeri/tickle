@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:18.572Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:21.547Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    191.27000427246094,
-    189.85000610351562,
     188.57000732421875,
     190.9499969482422,
     189.9499969482422,
@@ -24,11 +22,11 @@
     169.33999633789062,
     173.75,
     146.9199981689453,
-    147.72999572753906
+    147.72999572753906,
+    147,
+    154.75
   ],
   "6m": [
-    177.89999389648438,
-    176.66000366210938,
     178.11000061035156,
     180.42999267578125,
     184.27999877929688,
@@ -158,10 +156,11 @@
     169.33999633789062,
     173.75,
     146.9199981689453,
-    147.72999572753906
+    147.72999572753906,
+    147,
+    154.75
   ],
   "1y": [
-    115.02999877929688,
     116.31999969482422,
     117.73999786376953,
     117.81999969482422,
@@ -410,29 +409,31 @@
     169.33999633789062,
     173.75,
     146.9199981689453,
-    147.72999572753906
+    147.72999572753906,
+    147,
+    154.75
   ],
-  "lastClose": 147.72999572753906,
-  "oneYearReturn": 28.427364422547086,
+  "lastClose": 154.75,
+  "oneYearReturn": 33.038170912998865,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "3PL stocks drop in wake of stunning Texas case against C.H. Robinson - FreightWaves",
-      "source": "FreightWaves",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGt6R3RvNVlEV1RldzF6dmJ4UE9PZkZWazU0TXgzUUlmS0stNS0wMEljMFVjSkdvbkRTLUprYTA1eDU1a1gyRHk1NFlmMEVDS2V4c253TkVhS2ZIb1o2VTNqWVk1X1ctUWNmMm04b284MlBsRFo0Z1lLb3NoUVFvNWt4eVdlUUI2azFKY2ppN3pGUGYwOThXOU5Mc0lxZnVONGJ3?oc=5"
+      "headline": "C.H. Robinson Worldwide Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMnJ3OS1xWmFTeXJ1enhXVlRrR0JYUzhlSnU4TWwzLTIzdXVicENhV3hQTV9xRGJHN3NQRTRtQmxKZGJvM3BfZDB0ODBDajktS19wcVJsUnF2ZXpQdzJLdFp3c3JRSUZqTVhDRTRGc1NOb2NyMkdnNGRxaDF2dWJxMGhQUC0wZEo4WlJaTzlCNTBHb2Y3MUdBM0VlQndkYTRnbVdVODdROXRYLU42eVA1ZWMtYS1ZNW1mOWhZLWpkbVl3azBBX21CemVvSHVLamg4bmNGS2Z5UUQyT3FrSlEtY3o4Q0hqMlFhZDZqRw?oc=5"
     },
     {
-      "headline": "Amundi Has $56.23 Million Stock Holdings in C.H. Robinson Worldwide, Inc. $CHRW - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa25TWnJVWDF4bDEtU2w4NHBCd1JvZU5ETWh3OVQ0M0VMOUVZZDFKVWo1V0J6VHNoV3l1clJsNmx2TkJZUFhKUGNmOHIzdGtKb1daME5qQjRSTl9CcXBVUVpuaFQ3cl9PR044NE96NFh3a25adTZNTnFMNkN0ZURacGJCZFl5YWRyV2V6c0VJcDdEamNrZGFOOTczNnFiTWpRTUNlb1d1Qnpsb2pqc0JmMGFiYmhwTWx1eUlCcGkxdDhFY3RxVVFsNzNUalJLUQ?oc=5"
-    },
-    {
-      "headline": "Is C.H. Robinson (CHRW) Turning ESOP Share Issuance Into an Edge in AI-Driven Logistics? - Yahoo Finance",
+      "headline": "C.H. Robinson shares slide after $604 million jury verdict in Texas lawsuit - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT0FpWXlGMUtJRDdOQnBTdElib2liLVJZMGhBLS1nUTVmZlAwaEJCbDJ1aWczM2hSM3piZmRuTE1aV3hDN2hrV1hOVll3RWc2N25sOTNkVE55eXFLeml6UzA1bkRmcUpnM3EyMmRSNHluNjd1SHVvbVpYTzdTVjd0VFY1enEwOXRKalNVUmo4ejk4dkNN?oc=5"
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNWItRUZsbWFBMVd2bno1X1dHbWFOamhhb0p0WGwyNmJ3V2JlOHhHaFRlNDNsZEdodWlBZkM2V042N1RwY2thNTFiZmpvWFA4ZFlTVzc3TDJiUGJOMFoxVG1qWWdyVjNMVE5XeDE2VkVsRGYzeHlPR0ZFbXFVUUFtX201aWViMjlVN1lHakFuNU1aRDJR?oc=5"
+    },
+    {
+      "headline": "C.H. Robinson stock tumbles on $604M jury verdict - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGhEdVBBcWxLS0ZBc2h4Qk9rSXpzM0JDdi1KNk1fb2FjTTJLczAyNWlhWnp6bi1QY3A3Tkg1T1VYQ05LX2VfcWdHUXZBRTJrZG9YeFplVUwxQjl3MVNfTUQxaGhrV1ZWLXJENjZVX0MzeloxTllKTS1WZTBpWE9rejFuMThseFVFZnN1VXRhR2hyZ0xBQ1BNY0JBTGx1emtGZklWeURuMk1DUFd0?oc=5"
     }
   ],
   "insight": "Tracking C.H. Robinson (CHRW)."

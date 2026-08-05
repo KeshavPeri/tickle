@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:17.661Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:20.857Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    28.520000457763672,
-    27.90999984741211,
     27.510000228881836,
     26.68000030517578,
     25.639999389648438,
@@ -24,11 +22,11 @@
     28.229999542236328,
     27.809999465942383,
     27.770000457763672,
-    27.809999465942383
+    27.809999465942383,
+    28.739999771118164,
+    29.59000015258789
   ],
   "6m": [
-    28.489999771118164,
-    28.549999237060547,
     28.670000076293945,
     28.690000534057617,
     28.719999313354492,
@@ -158,10 +156,11 @@
     28.229999542236328,
     27.809999465942383,
     27.770000457763672,
-    27.809999465942383
+    27.809999465942383,
+    28.739999771118164,
+    29.59000015258789
   ],
   "1y": [
-    29.719999313354492,
     29.280000686645508,
     29.239999771118164,
     29.010000228881836,
@@ -410,29 +409,31 @@
     28.229999542236328,
     27.809999465942383,
     27.770000457763672,
-    27.809999465942383
+    27.809999465942383,
+    28.739999771118164,
+    29.59000015258789
   ],
-  "lastClose": 27.809999465942383,
-  "oneYearReturn": -6.426648356461648,
+  "lastClose": 29.59000015258789,
+  "oneYearReturn": 1.0587413206030845,
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Amazon.com vs. Carnival: Which Consumer Stock Is a Better Buy in 2026, the E-Commerce Leader or the Cruise Provider in the Rebounding Travel Sector? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMklCQzVCS05vdDFfZ0pqYmNGU1NQVGxMYWQ1LWZiVGlsR3h6cTY4TkVzaWZ3Z1ozUmtFMjZJcGU0RXREVjhSSWRhSkFNdTV0MTB3cVRMM1kxbW5KWVZHRGo4VXJrZzM3U21oTFFreWgwbDhERUxoV2dPb2g0Tl8tTnM4VllZeGEzQjBVZ1NFZ3FWTWoyNFJLZWxVUDVvdjNpcjhOS0dSZHNzd29iMnBLdldGVThtX0d2T1hlQldZZW5yd3hVMEVva3RnblpPd0hmVFB0WWd5cG1YNGhnalZLUVlyUnE5ckRZSUxEaDUwcW5FaFAxU1dBZ1l2SkdRZXE2STd5cnpfenFjaUtTTVp5dFBkdEpSdkNrY2h6OHZXRG9FOW8?oc=5"
+    },
+    {
       "headline": "Carnival Corp. Ltd. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcjV3N3F3dmJmRXpFZjdJT2VxWHZhcEN2SUhqTzFLOWFRaFpwM25BZEktWVU4QVRNRDEwa2g0N3lqa3JsbGJLSmdzQVI0S2NMS25JSzQtRVZQc0RrTU0wTmh5OEpkMFpfX0F1d1JDVThaUmZVa0gwb05WRi1SUGJWdWxwNzZweXB5SGk3N1g0NzNVTjhzemEydG1lQVM5VTljX1o4MGFFWXZwMlFzWG93V3ZzX3M5WE42UktWNEpWWXZUN2pGdFkyOGhCaU9NaE8yV1U1MUJSNFMtNTRNOWFoZg?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRVhNZWFzRmxjNlhBQWNNaDNreUI5YjJybnViWVF0MmJ5bFhxRV82Q2l5dGtRSzNBZkl4cjd2V2lQdVhyNzVqY3dRZ2FBNFNVZW1XWGFFM1plcEZHOEJSemgyb0tvT3k5UjU0VFlnSUMydGh4cDFUcXlhOFBzMFNPeWJhQ1NBZ3VVcHJoZkhaNDNyVnpLOFNvZENyZHh3bWJDRUdJd0N3RnFjZkRFVDdTcGVlLS0wcFBUOWx1T1VHZkF2SlJRVGdkWXZrRkhxMU1DaF9IWUZDcnZGeVBxTlFSZA?oc=5"
     },
     {
-      "headline": "Carnival vs. Royal Caribbean: how the oil drop affects each cruise stock differently - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSDJyZWN3SlAwbzBZOEYwMzY0bk9pbDBSQUJFbUEwZlZuUDROWXI3c3ZPWWZNOXVmc0t1dHF5cnNTMVFRNkF0bzlaWU9fVDhiUDlxekoxdmUtUm8yS0w5NFhHTEpuN3dCV0o3Vk5wR2dOTEgzdTlRYWFuVzh3Q2NLMXNHZTVfc1M0eTBIYjJvdEhEUTk2c3I5MUhTSVNRSkdQQnFKaHB6WjJvSU5UVnVMQWV1a1p2ZVNKRzFVMTJQNzlFSVlhRk1CVDlOeG9jakw3M0RGVnM0UE5KWm9t?oc=5"
-    },
-    {
-      "headline": "Do Options Traders Know Something About Carnival Stock We Don't? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlV2NEdKeDRpX2hHVGM4cWNLakVKYkFlN0U4dVltYWtKWFZQN1dmejJ5V1N4Zkk1Q096OTFSN0RTSGdFWjlLcTB5T21qLXY5Ukt5b2RHby1ZVWltOGRPTHB4alFueU96QmMwOTRVYVdCdDdoMzB5c3lmMVVSTkRFY3l2Tm1FQlEzOEc1R2tUVjQtX0syVG1zOFdBb1FkUndiYjVETjlrRWY?oc=5"
+      "headline": "66,917 Shares in Carnival Corporation $CCL Bought by Lazard Asset Management LLC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaFBsTVhLSGtkekQ0Q2h4Zzk4V3U4cWxiTHNucWdWMWVUMEdxM2dWZ1lfQUNrd1p4eXR0eWVxSHUtbXZwSl90WmRRZHNZUEhtLXQ1M0loRnBuOE9XYjJjdXNlbTBGbV9HSEhEN1VaQ19fVERaekV1c1FlYWw2dWJTT3JhWExmTlc0UDZMTHI3Vkw2dlUyYjV3c2VYbkpGNW9JeE9iN0p6QXIwTE5PRTROcFZTcm5sVmdBbllBTGxXZ0Z2NkhSUk5oVkJHRVNHR1NwcU1xeGx3?oc=5"
     }
   ],
   "insight": "Tracking Carnival (CCL)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:48.361Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:49.359Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    119.77999877929688,
-    124.55000305175781,
     124.9800033569336,
     125.04000091552734,
     122.61000061035156,
@@ -24,11 +22,11 @@
     127.51000213623047,
     132.4600067138672,
     136.3000030517578,
-    137.1999969482422
+    137.1999969482422,
+    139.86000061035156,
+    141.67999267578125
   ],
   "6m": [
-    164.7100067138672,
-    162.13999938964844,
     165.77000427246094,
     164.6300048828125,
     161.91000366210938,
@@ -158,10 +156,11 @@
     127.51000213623047,
     132.4600067138672,
     136.3000030517578,
-    137.1999969482422
+    137.1999969482422,
+    139.86000061035156,
+    141.67999267578125
   ],
   "1y": [
-    216.41000366210938,
     214.7899932861328,
     215.7100067138672,
     206.14999389648438,
@@ -410,29 +409,31 @@
     127.51000213623047,
     132.4600067138672,
     136.3000030517578,
-    137.1999969482422
+    137.1999969482422,
+    139.86000061035156,
+    141.67999267578125
   ],
-  "lastClose": 137.1999969482422,
-  "oneYearReturn": -36.60182310127462,
+  "lastClose": 141.67999267578125,
+  "oneYearReturn": -34.03789882937328,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "PTC Inc (PTC) Stock Price & News - Google Finance - Google",
-      "source": "Google",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ld0h4cjFISGxkbTlzbFNKQ0Y1bXRlbDYwMVozYi1CaWgwYUxEYnBhRFFGWmc4YktzU3NPZDl1QVE5T0F3cEM2YWZubTd5NG8zN0xqdHpyTHJYUGs?oc=5"
-    },
-    {
-      "headline": "Is PTC Stock Attractive After Its Sharp Pullback and Mixed Earnings? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnlTaG1lTnBDaEVBdUJ1anI1NXZOZHVSemROUnV0RFNBMFhoejF4eV9UMUZtYjFKbVVwc1VpMVFHZ21TRDZJRmRDOUJoTjhzb19LbkdLXzNlT2NxYi1MRGotYVp0MTJ6ZEI5SklmSW5Ld0FPdDNsZ3pkMmxab0ZPV3lITWZoUXdjcmE2NTg2SjR2WmdIdjdZdlcxM2xjWVRqdnc?oc=5"
-    },
-    {
-      "headline": "PTC Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "PTC Inc. stock rises Tuesday, still underperforms market - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFVOSkdiRHhic2szNWd2dG85QmdLaDJqQmd1eDhXUm1PUkk4c2IyWVBLanlvRnZ0aWMwNXFuWEtPNTc0TjMtWGtaUDl4ZUVuYi1NNnNXQWdkV1pEalplcE5HRjRQRzdnb3BBeVg5VUN2anlGdnpHYUl3UGlSTm96U2N3Y0RTTlNGaWx5TkNrRUg0TUlZclFrcno0cE9XUFpFbzJXNWVXdVdkMzBwbjJCTko2Q1ZaTVNNRk1V?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSHRVamtjeE9pWFBDN2p5NmZKblZJckZyeFVjbVBESWUxWlZRSE54MDBTaWt5dDlLYXFGRkEwdzVDNmNOSGgyUHFVelE0b05UR01TMzRNWlRZMWJFOFZEV0NmTnE2SUhfNzE3amdPXy1YMlo1a0lUejBLTUMyYV9fZ2ZqT0M0RUIzTUVUaktHTTZNMTJONVNPVW5NRUtMN3BWbGVtOEVYbUJxdmhINXZ5WnBrbEhOVzNJbnFSNkp4eG1uOWxETHpHdnYzYnA?oc=5"
+    },
+    {
+      "headline": "PTC Inc. Stock: Is PTC Underperforming the Technology Sector? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-15",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3hDZVVzLVpKSzNQaUMxUkFXSl9SWmd5dngybTRPM3FISWJ5Y1NlQkphWmtwZ0VSVjYxamduM1hITHZMZEk1MWlZdWVESFAxN3EyQ05VMDI4Zmk1MlVzQlltanR4UkNsMWJyYUMwTmVjMlNXVnV4bGJrT0V6Z3NiWHVvNVRCZTE2V2VtSEsxZmIyVmRwY2ZTTGdUVFh6a28?oc=5"
+    },
+    {
+      "headline": "Pacer Advisors Inc. Has $60.57 Million Stake in PTC Inc. $PTC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHhJLUNhUmNXYUhxanQ0Z240R3AxaGtEYkNRTm5sUkpKeWoxWTdfRlNzbW5UQU1IWGplSi13aFRaNF9TaXI3cWgxUmdnOXBLQ2EyelJuQ3FhUzZUVzdQd3dSRkNfT3hKSHk5ZHVlVXVkbzlneGMxVmdvby1CY2dkN1JnVHQ1RWllZ1hDZ0R0YlF0ck15cG9KRTZUSXhER3MtNDhmN2hsQmQ0TkNsQkRDNUMyLVlNc01w?oc=5"
     }
   ],
   "insight": "Tracking PTC Inc. (PTC)."

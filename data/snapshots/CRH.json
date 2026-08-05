@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:21.293Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:24.085Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    105.19000244140625,
-    107.52999877929688,
     107.58000183105469,
     106.20999908447266,
     102.94999694824219,
@@ -24,11 +22,11 @@
     103.4000015258789,
     99.70999908447266,
     96,
-    95.01000213623047
+    95.01000213623047,
+    98.58999633789062,
+    98.83999633789062
   ],
   "6m": [
-    124.48999786376953,
-    122.83999633789062,
     122.75,
     123.68000030517578,
     122.45999908447266,
@@ -158,10 +156,11 @@
     103.4000015258789,
     99.70999908447266,
     96,
-    95.01000213623047
+    95.01000213623047,
+    98.58999633789062,
+    98.83999633789062
   ],
   "1y": [
-    98.22000122070312,
     97.94999694824219,
     97.5999984741211,
     106.91999816894531,
@@ -410,18 +409,14 @@
     103.4000015258789,
     99.70999908447266,
     96,
-    95.01000213623047
+    95.01000213623047,
+    98.58999633789062,
+    98.83999633789062
   ],
-  "lastClose": 95.01000213623047,
-  "oneYearReturn": -3.2681725153512238,
+  "lastClose": 98.83999633789062,
+  "oneYearReturn": 0.9086262556176725,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "CRH PLC (CRH) Stock Up 3.8% and Still Undervalued -- GF Score: 8 - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0tIVWxJckFIMTlKZ3U5YjBoQUliSHVaY1ZaSWE2X2twQnowMU5OYTRBX1cySGFiRkJXM0ppZWo4Y3N2Ymp6SXJ5V2RMTGxuSmc2dlEzLTlvRG9TQjFrNFJ4c3lTd1lmbnNaLUNXNUMzT0oza0lOU0pMRjdoYlpkMTBSQmhmZTRFUEJQcEhUb1dpWUxzVllzUGFhWWlfN2NU?oc=5"
-    },
     {
       "headline": "CRH PLC (CRH) Stock Forum and Discussion - Moomoo",
       "source": "Moomoo",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxObVNwX1UzXy1VWjlmQmRjb1o0dFpZSXVVaEpFV0NqTHdoOGZ0RDhOTThaNk9KX0hyc1ZWdjdoeVNQcjZNbzFGS0U0dVVlRWs2Skl0cExtNmZPeVd3VjNabE9vZXJMUnhWYUFpMzAyREpDNW9YNXVqRHNrTDIzbG1KZzR5U1BlT01XUDFxREtCTWFxenE5UWhMeEZJMkhrNUFVNGpEMGd6UURGcjlLbHdZcGF1STBVZHBQZld4aEhUQVlDWXhyckRHcHhwN3R6UmhXTHRaZlZRRkt5RHlxa3B2dUtDd0NibjNkYmhyMEdsczRZbDIyMWVkbVd0bmVyNUp3WkUwZEZleDZrZWhtaGhYeWplTEhWaXFkY3lHdlpFR3lnT1Fh?oc=5"
     },
     {
-      "headline": "CRH Reaffirmed Guidance in Its Q2 Earnings Call. Here’s What That’s Worth. - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3pvc2JNVnRFV0pJMHY3UTF6UXdBaTNUM1hNTmlza2tnR0ZoOHdaTXN6N2EtTExxQTc3WHRrbUpCTE9NTDdvaWhkbDBldUVycXpfTUFiTjJmTG5iRGhhRmpFd2pLdk9NU2ZacXJWT0tXVFBhSXowWVlhX1lfUFUteTlEbUk3eWRmZFBScWgzSndLVzJVM3ZFYkJEY3Q?oc=5"
+      "headline": "Quantinno Capital Management LP Buys 31,603 Shares of Crh Plc $CRH - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-02",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOTU2UjRWYVA5dEFDczRWUHVpV1c1eHV0enRJVXBlZVh1ak8tS2lXZmpuU3lzTDBzSDhrYjVEQU1NUjhjcGY1d1BmXzdOLTdvTDJlckJCT2pPQ25kSXYtMHJaSk5xeUMyei1ESXJpRDBwOXp3XzNRclRQdDFXUlVYZFZ3VzZrRXRBQW1kaGFCOGlINkpVSGU2ejV5NVNHRmhndjZqYkRVV2hMTmlUdEwwS2FieHNvNTJ2dENjMDJtRGxJVlU?oc=5"
+    },
+    {
+      "headline": "CRH PLC Stock 12‑Month Price Target Cut to $142.02, Implies 48% Upside - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOURMZnM0eFBVMTZVcDhKQWtxQ1JrWEVESmJXbXpGelkzVFc3U2JrNDlYLWU1MmdGSGc2bkR4LXlkUWM3NDhVZjc0OEFIRmt3SVJUN1F4Nk9xLW5LeUtDUnJnd1lCRUQweFlaNmcydi1CRWVmWVZ5b0kwQ1BaeDVXLTBObldNdGpiUjZKTWswVC03dkt6VmJCQllPZ1ZuUFp5VVNuV2ZEcFBnQ0hqVlB2RVpOVGt6RDJnYW5fRnFrS21xTFNZRnlYQQ?oc=5"
     }
   ],
   "insight": "Tracking CRH plc (CRH)."

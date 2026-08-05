@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:31.605Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:33.447Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    232.0800018310547,
-    224.57000732421875,
     233.05999755859375,
     227.72000122070312,
     224.3000030517578,
@@ -24,11 +22,11 @@
     202.58999633789062,
     199.24000549316406,
     206.00999450683594,
-    211.02999877929688
+    211.02999877929688,
+    232.72999572753906,
+    243.6300048828125
   ],
   "6m": [
-    239.67999267578125,
-    242.14999389648438,
     242.97000122070312,
     235.0500030517578,
     249.41000366210938,
@@ -158,10 +156,11 @@
     202.58999633789062,
     199.24000549316406,
     206.00999450683594,
-    211.02999877929688
+    211.02999877929688,
+    232.72999572753906,
+    243.6300048828125
   ],
   "1y": [
-    183.4199981689453,
     186.83999633789062,
     185.00999450683594,
     185.60000610351562,
@@ -410,10 +409,12 @@
     202.58999633789062,
     199.24000549316406,
     206.00999450683594,
-    211.02999877929688
+    211.02999877929688,
+    232.72999572753906,
+    243.6300048828125
   ],
-  "lastClose": 211.02999877929688,
-  "oneYearReturn": 15.052884574189354,
+  "lastClose": 243.6300048828125,
+  "oneYearReturn": 30.394995535227924,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzRiNThaN3Q4VnVnaUZDUFNjMmt6NXJhMk5pNm5CYXBMQWZlTENUMElHOGpCczlhRVNrVDRMRDFuRUxNdzlOSmE1ZDhzODM0UGVwSFJYbVVQbmxuNjlrT3BwYW13RG5kaFdwS2FvLVZheGtyOGVoRVQyUEVMUmI4RWZRcw?oc=5"
     },
     {
-      "headline": "First Solar tops S&P 500 leaderboard in delayed reaction to Q2 earnings beat (FSLR:NASDAQ) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMnE0cUIyOVBZQ0VMSWZGUTQ1Smlaa2pNYmtLTTFhNTFGd1ZMT2FZRjYxYkgzb1BBUmpIWTgwMFRFSHNDb2FKYm8tQzBTOXlVQm1vQ3YzbktFY09BUHFRY0ZIeVpuX2otdVJvd09YV1RpeXVMUGRYYjlsSlBZblFfY3hGdHJ3VjVwbkxZT3hwc3hFRFRPM1ZmMzJiOFRGRWd4d0NZREpLa3p6cTkzTTFOemhIQ1lZcXE5a2J1UmEzU3VMb2xvSmc?oc=5"
+      "headline": "First Solar Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOc3dOTmNSakZtSWRjYi1fcE5PM3JaUVVTeTZfV3E2SVlTV3hkMmdWMUZncmdUd1hlRzhIdmV1SlZPdVQzUmptUjB6NHdBR2xmS0h1bmRJck45bDVkbWx5RVpaMEQyMEE2UDBPaGlVbXRxSkFyTkVDcEpRN3pIdUM4dDZIYU9xT3ExLUY3NVFyUW1vaDIzTmQ1WGRYdnhoVEstZTJXUUJ1R3lGbmdMU1c3ZnEtM0dXcndSY3BiTzFKbFhoSlJHejM3a2MzZnVmMFhmX0Z4Vm9Zb1hKMDhZcENEaHlBOTl2c1lCckEycXpob0xGV2pIblZRYXl5LVo4Zkk?oc=5"
     },
     {
-      "headline": "Why First Solar (FSLR) Stock Is Up Today - TradingView",
-      "source": "TradingView",
+      "headline": "Why First Solar (FSLR) Stock Is Up Today - StockStory",
+      "source": "StockStory",
       "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRUd2ZkZIeHhUYWJyRkpBTUR5QXZwWmZDeDBtUzVYOFVGRkc1VUxMaXBFRk50V1VpNnVocndKd2NfQlcyZVNmUHBJc2R0MnphdjdQWVBsN0Y5a0ZaSzBfOFI4azgyOERuYWpUT1VsM2ZvUl9pdG1PN1dmc1FoYzNUcS13cjhSOC1vMzRoXzdfdHhSSGZudVZ2NElxZTdmNDZv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeW1IM3hvREFYb3pZaG1mXzZnVjVzbDVvbTFudTVoanhEOU9OcFBGTXpOeWNPR0l3eTB4ZFI2OVRYcWNCalp2Y0VwbGRBUjIta2Q2WVkyWTFodVgzNEFNNTBlQ29QMTNWS2phcU4xSUNJWlU5VV9qNmlMeGJ6eXF1bUVXQzdMcG9fMU5MNUREVUVXRHoyQmlwN2xGUUxNNmxNMkl1bQ?oc=5"
     }
   ],
   "insight": "Tracking First Solar (FSLR)."

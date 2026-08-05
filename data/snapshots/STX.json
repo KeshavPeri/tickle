@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:50.687Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:51.767Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    915.1900024414062,
-    820.1599731445312,
     868.260009765625,
     827.6400146484375,
     860.02001953125,
@@ -24,11 +22,11 @@
     747.2999877929688,
     764.4299926757812,
     851.6799926757812,
-    856.1300048828125
+    856.1300048828125,
+    831.0599975585938,
+    845.3499755859375
   ],
   "6m": [
-    346.5299987792969,
-    346.1000061035156,
     358.2900085449219,
     371.760009765625,
     442.92999267578125,
@@ -158,10 +156,11 @@
     747.2999877929688,
     764.4299926757812,
     851.6799926757812,
-    856.1300048828125
+    856.1300048828125,
+    831.0599975585938,
+    845.3499755859375
   ],
   "1y": [
-    154.80999755859375,
     151.74000549316406,
     147.27000427246094,
     148.10000610351562,
@@ -410,29 +409,31 @@
     747.2999877929688,
     764.4299926757812,
     851.6799926757812,
-    856.1300048828125
+    856.1300048828125,
+    831.0599975585938,
+    845.3499755859375
   ],
-  "lastClose": 856.1300048828125,
-  "oneYearReturn": 453.0198426356653,
+  "lastClose": 845.3499755859375,
+  "oneYearReturn": 457.10422102496943,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Seagate Technology Holdings PLC stock rises Tuesday, still underperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY0tCdWVTN0prREJxN3ByOENsWkxCSmtpa1NrWlltSHFteG43YktqeENxcXg0QXF4a2VQOVRXeXVhZ1N0SnpNdTFIZXY4M0FDLW43Ml9oN2ctNDBIMzV0WVF6TC1ZWGJXWHBOaDg0d2s5ZlJXd0ZMWnVuenFhN2t0cnd0bmNOTHMwVjF1SDZjWkdpOXhZazFqdzNwOWZoYUx5N0VBMV9BOGMyR1d4UDlCbDEyeTdEODltRUROWXJqLUZtYmY4UkF5NVhxQ2tEbXN5ZVdLTHh6UDRUWU5GZXFxZkRuWUJxQlUxX1BENA?oc=5"
+    },
+    {
+      "headline": "Seagate Technology Holdings PLC Stock (STX) Moved Up by 5.12% on Aug 4: A Full Analysis - TradingKey",
+      "source": "TradingKey",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRWV0THpyYWUzemhBZGdRamhRRjNuZHJ1STNRT1QwUmxCY3NtaVlCWVVLVmZFYjUtcXJwQVJjMnU5RFJEZHpDT1NyY2tDV1BrZEhON3pldmZXTzhFZzVuUW1fMTVsbkMxWW9jMjB4ZnYwX1NRTUx0TGhLWWVBdFQwejk1VG5qMGVSNkE?oc=5"
+    },
     {
       "headline": "Seagate (STX) Stock Looks Below Fair Value While Earnings Look Fair - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMi0wak5nWURDN1Z6VktEb3RzTU1yYmFiWWRWeXFvT3hvWTlNQkxjZmNkd0hxN3FEbnZRRTdWRV9RbGpqVGFydFFoMS02U2JyRWx0bGtoWGxCVWR0VjV4NF9PYWozZXJPN3M4RU5DY0swVkZkd3RWeHBqR1RuZXJ1b3dFN0prQUtKMXI5Wl80T29ydmoyV2FxR3VkX1hRY0hHcjN0emR0WnJJVjl1ek9MQjh6QXpUMGtJcVZHSnRBR3Z3T3lidmFxTlZHSVMtU1Z6bWZMRHJzZXPSAd4BQVVfeXFMTXIyWXR3bmhTcFNyU1ZCOENvN19vT3FqY3RGSEZLbWk4b0hJZmlLZjhLeTh5Nlh4LXVFX2NDa1E0TTZsdGFKRFFMNVVlOEpId0xrNkN6RGVqWGlNMUU3Z3dwMVMzUDhsMGhiWXE3S3JyWnNUcDViYmNLUkVBTWNpbjJUelhSYWN6VGY4Qk1IWW5IYVN1SGxVQmVGSXRYTXVCaUR5aVhVS2Zod2xjTzd3enJadFdyWGJiOEJRRmNITk9Yc2ViZmhILUNsaWZMWDBzbXBEWUpZT2tpeWNMRVVn?oc=5"
-    },
-    {
-      "headline": "Seagate Technology Holdings PLC stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdkpYam13bHhVQXZDWGRqc3ZRdG9YZzBZeUVUZG1TWGp5bWtyd2RNbWlfTmZUT1JoSVM0a3hieHMtXzk1RjJjdzI1M2ZvQTB5anFWb203aHRUQmxGOEJEdXQ1R0ozbFU5dGtsQUV2M2lFb3F4RVpUV1BmLVBTYVlFSGtfd0RENGFhdWZ3ZWN0VHZNM2s2cDNROHJ5WGFOS19sc2tsdGhaRmNPcGJoVWkzVkFLV1BySDVNOEdoTWdnOHFob0NSQ2JoUEpxQzduS1l2eTlqS0ZDOGthdlR0cFFSYzg3OEJZWjN0bUtvRVN2N1NXbjVGbXBVLQ?oc=5"
-    },
-    {
-      "headline": "Seagate Technology Is Soaring After Its Strong Earnings Report. Should You Buy Western Digital Before Its Earnings Report? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWptVGhTVkNQNGlEYXVUSy1HZGpBS3BkN1EwNWlJS0U3bnB5WVlkTDBzN2VfYXRVdE9JUHp4aVQ1QmFyQ1hJNDJVWHo2VkQ3QnRseGpTQmZieXJ1eEVKSU9PVUw5ajNKdk0wVkZWWHJNMlUza3NZdjFPYUVxejhzVmhfb3lRcG40RURVOGVaRnE2NGZ2eXBV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcjJZdHduaFNwU3JTVkI4Q283X29PcWpjdEZIRkttaThvSElmaUtmOEt5OHk2WHgtdUVfY0NrUTRNNmx0YUpEUUw1VWU4Skh3TGs2Q3pEZWpYaU0xRTdnd3AxUzNQOGwwaGJZcTdLcnJac1RwNWJiY0tSRUFNY2luMlR6WFJhY3pUZjhCTUhZbkhhU3VIbFVCZUZJdFhNdUJpRHlpWFVLZmh3bGNPN3d6clp0V3JYYmI4QlFGY0hOT1hzZWJmaEgtQ2xpZkxYMHNtcERZSllPa2l5Y0xFVWfSAd4BQVVfeXFMTXIyWXR3bmhTcFNyU1ZCOENvN19vT3FqY3RGSEZLbWk4b0hJZmlLZjhLeTh5Nlh4LXVFX2NDa1E0TTZsdGFKRFFMNVVlOEpId0xrNkN6RGVqWGlNMUU3Z3dwMVMzUDhsMGhiWXE3S3JyWnNUcDViYmNLUkVBTWNpbjJUelhSYWN6VGY4Qk1IWW5IYVN1SGxVQmVGSXRYTXVCaUR5aVhVS2Zod2xjTzd3enJadFdyWGJiOEJRRmNITk9Yc2ViZmhILUNsaWZMWDBzbXBEWUpZT2tpeWNMRVVn?oc=5"
     }
   ],
   "insight": "Tracking Seagate Technology (STX)."

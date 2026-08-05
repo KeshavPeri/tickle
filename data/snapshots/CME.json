@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:19.444Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:22.285Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    231,
-    236.60000610351562,
     234.75999450683594,
     240.75,
     243.07000732421875,
@@ -24,11 +22,11 @@
     260,
     265.44000244140625,
     267.2200012207031,
-    267.7900085449219
+    267.7900085449219,
+    266.1700134277344,
+    262.6300048828125
   ],
   "6m": [
-    281.3900146484375,
-    282.739990234375,
     284.04998779296875,
     284.4800109863281,
     286.04998779296875,
@@ -158,10 +156,11 @@
     260,
     265.44000244140625,
     267.2200012207031,
-    267.7900085449219
+    267.7900085449219,
+    266.1700134277344,
+    262.6300048828125
   ],
   "1y": [
-    287.1000061035156,
     284.6099853515625,
     281.3500061035156,
     280.95001220703125,
@@ -410,29 +409,31 @@
     260,
     265.44000244140625,
     267.2200012207031,
-    267.7900085449219
+    267.7900085449219,
+    266.1700134277344,
+    262.6300048828125
   ],
-  "lastClose": 267.7900085449219,
-  "oneYearReturn": -6.725878491145491,
+  "lastClose": 262.6300048828125,
+  "oneYearReturn": -7.722842345675041,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Live Cattle - CME Group",
-      "source": "CME Group",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52ZjVWcmlPT2hlZHJFdlA0OUxJN3FmbWdOQUJrdjNmb0ZDc3RselBpcnFjOGtjMm9ieFE3LWU5emR6TnVBYmVTNzRVcDFycjN4SWNPUkluMWI4NmZGWnVMZmZYYTZuMU9GU21CVVMwT1NqOTJT?oc=5"
-    },
-    {
-      "headline": "CME Group (CME) Stock Gets Fair Value Trim As Analysts Debate Earnings Strength - Yahoo Finance",
+      "headline": "Coinbase vs. CME Group: Which Crypto Stock Is the Better Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXV1U2hSRkZIQUdnaklKNHl2WWwxYzFlUl9qVzhHbVdvQkZoRVh3ZXN4TkJFdkp0WlpCWXdZR2JzaUhRYXk4VTd5ZXhoYW11eXVRM21CUlFDbVdnOFIwcmZ2UzdWVVIxYzU3QzNkWEFhY3ZsMWJDOUtZXzJ3SHN0QlgwU3M2ck1DYkljclRjaU1ObVU?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXVYYlF5SG03SGxyYUg0ZFdpbm9QY2UtM2VVZlJqTmFYQW4zSG1hcFlOa1lrbTYxMEpKcERaWjZJY01GYS00YnRaZURmSEVvTmYtdmtjZXpLSTlXZktGU3lUZm1LNDVtMWs0OHUtckhlbnRUY0JqV2VLR05ScS1aTGMwUjctX3N4T19IbEh1QmdRNFViazBtWQ?oc=5"
     },
     {
-      "headline": "Traders Are Getting a New Tool to Wager on the Biggest US Stocks - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "when": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQVlLaTVCbVJNSmhFRTBOODZkM1FvY2g2VWNrejZ3SGpmNEw2NndIQlhHdUVkWGVyd3lMd1RoTGJYRXdNTHZKbnVIZmc2bzJUSDNkYVB3MnJCMFdySVV4TVk4V3ZNaWhlU2FIUDYydWFSd2pwYzFTT0loZ01NZ0N1SHV4U0Q5YmlTdmY2WkxmV1ltR0J5NzBqNXQxcTBHckg0eXJaZXUtRVBlbXQ3eHVuVWdlOXRsUQ?oc=5"
+      "headline": "U.S. Farmer Sentiment Rebounds, but 46% Cite Input Costs - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFNqWjY0V1JRdmZsdjhqd2JIbXZXdFpBMEdCbmpwMWpzc0pLZDBuNFhySkhsU0JTNk1xNkVsNmZWbkw3dk5ndTdfdDU5elFFcm1BclNQMzUtSzc3cXJVVWZZSzZoX1FPc2NxLXI5XzR2aDdvU0xtVmFIaktXVVY1UkcxM2w4LXVwWFRGbkcxM3NNamQwSEY2Z0Y5TW54MW41RkZ4NUY5cW45SkJk?oc=5"
+    },
+    {
+      "headline": "Why Micro Single Stock Futures are a Game-Changer for Individual Traders - CME Group",
+      "source": "CME Group",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNWZBNHVkZjVlRS1lbEl3VmMyN2pWbUh4YkxBU3NXMVNLQXhQdUdFRVRsMWR2WlNYZDNSTVo3cjVxR3VBTmlrQWJSZUE2d0ZSZzBTdmtIVTFNNTZHTmVwelYwaG5fa3lBLXV4RVBLQzFOQncyLUZ2NE1nQVRxWTFENmdrVDhweVRHNWUyNjFZWXgtZ0x2ZzZFMUtBLXp1c3JWY0lnVXRnNG9CNTVfcXU1WUpnMUIzT0lsOFhKcTlYMA?oc=5"
     }
   ],
   "insight": "Tracking CME Group (CME)."

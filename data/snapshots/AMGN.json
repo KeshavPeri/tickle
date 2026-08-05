@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:11.130Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:14.659Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    361.3299865722656,
-    374.1499938964844,
     366.44000244140625,
     368.1000061035156,
     367.989990234375,
@@ -24,11 +22,11 @@
     393.1000061035156,
     387.6400146484375,
     387.6400146484375,
-    385.1600036621094
+    385.1600036621094,
+    378.8699951171875,
+    390.0199890136719
   ],
   "6m": [
-    347.07000732421875,
-    344.75,
     349.69000244140625,
     351.32000732421875,
     342.2200012207031,
@@ -158,10 +156,11 @@
     393.1000061035156,
     387.6400146484375,
     387.6400146484375,
-    385.1600036621094
+    385.1600036621094,
+    378.8699951171875,
+    390.0199890136719
   ],
   "1y": [
-    301.94000244140625,
     300.0799865722656,
     284.6700134277344,
     284.70001220703125,
@@ -410,29 +409,31 @@
     393.1000061035156,
     387.6400146484375,
     387.6400146484375,
-    385.1600036621094
+    385.1600036621094,
+    378.8699951171875,
+    390.0199890136719
   ],
-  "lastClose": 385.1600036621094,
-  "oneYearReturn": 27.56176741995377,
+  "lastClose": 390.0199890136719,
+  "oneYearReturn": 29.972009619424185,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Amgen Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "headline": "Amgen Boosts Sales View By $1 Billion After Smashing Views - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSFVxUWRiaTRpakEwWklpdWdubmtRUjUtTVhCT0d2aUxYRHZ1Nml0ZEFUYUJKVlNjV0xWUDA5Xy1CMGduUHY4ZEVzeFNVLU5SaWVXS1FOOWZTODBhUWNRLV8wTndjNE55QnVRb2kxbEZxeXVuMXI4UkxkSG8yTUd0VWtRMA?oc=5"
+    },
+    {
+      "headline": "AMGEN REPORTS SECOND QUARTER 2026 FINANCIAL RESULTS - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1ZISlctV0dzM1p1MzlNUmVjTG5xeDdKMGZQcDNYX3k5WFRTVnZZdXp3OUw0RkEwa3JwQWxoVXdWQmJEUFp1Zk5NRXdWWXQyUUVScDAydFZWM3ZoQ2pSQ2x6WTRoMnNZUnNlaWpBbGRfcGtPMHY1Ny1NNWtKQ0pqUUkzaGpYU2RpNDlhYjlobFZQYVd3MjNHV3pqcDA3VE1GSi1ncGpVWEUxZUU?oc=5"
+    },
+    {
+      "headline": "Amgen Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ2UtcEd2cHJmbVB3Z0dZUjQ0TldQUkkzZUJqMDN0dGxBMDA5ZXhMZzJUVnI5ZngtNm92ZUVNb0c3blMzX3lVSmVzQnJSal9Yc1l6UHdYckQyLUpxOGkzU3pnYjVSRlloM255OHc2emhKcUtyY2puNkF6eGtuREo2TGxqX2dzVmxfSmptV1Nka181OV8yR0NnSkFGOFpRbnJ5a1plY0hUVkJrVnJxZ2JhcGFFcERiUk1YVm9URWRHNjl2bEJCdkx3M3lfVy04SWhod21zVXI3dWRSS28?oc=5"
-    },
-    {
-      "headline": "Amgen (AMGN) Stock Still Looks Below Fair Value Today - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODl5b1AxUDl6bWo3SFFIR1ZSQ1NLMjBnMk5nVnBINWhrSmR4MS12ZkRuVm9OZGNmMW9lcjdES1pCOVpEcGJOOVlkMnpHM3lsRHpMaU5hb19nQjR1MVlLYUJxS2FHR2E3S3diT1VOeHowRTBSVy11LVI3S2NyX3pucXUzZTBOYzJCZk82UnRmdklsRjN3RWU3Mg?oc=5"
-    },
-    {
-      "headline": "Amgen stock jumps as investors appear to look past Tavneos overhang and toward earnings - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzF0SHNiNVFrYTJuLXZYQjEyRlIyMXFJbFJGMVJXNU85c2cwWW9XNkdzcDN1bzhhdjVVbEJMUV9Cei11a0ZhWHBIMFgzelpTQ0pqZ3hOMnRBMkRKcW1qR2ZxaHhHLXQ4N1BWVTNJQUc5U1ZnYWdZakhQMmtoVWE3NmNOcE16R01OQjFlNGV0LV9NRXNULWt0cUdIbUdEUVNuUHZCNGFVTXdDNWZXSWR6UnZiQ2FiWFNZNEFVZQ?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdUwwVGlpVmItYWRKdlUwY1Iyb0gxd2xMcVhtakY1bEtDRzVmVVJRSjc0NldsVE83ZXFWUURKX0JvdHMtNXlRaDVYN3ZVRnlaWXJFSmNmdVp0enlBLXl4MnRwLWdVM2VYdm42Q2ZQeXlsTGZZNzdyNmZwSkZzSC1vMjZwM2FiOXNhNXphWEwzM2pRTkFXSUhuM3RzbVR3MlZWdnRjZWEyVjViNE9NaUpUWkVLWFZOU2tobWlfQnhOV2ZTQm9tMlE4WGpGWHgyYTNXd0xndkVR?oc=5"
     }
   ],
   "insight": "Tracking Amgen (AMGN)."

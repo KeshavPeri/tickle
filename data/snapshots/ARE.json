@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:12.662Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:16.148Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    53.0099983215332,
-    52.58000183105469,
     49.869998931884766,
     49.40999984741211,
     48.040000915527344,
@@ -24,11 +22,11 @@
     54,
     53.77000045776367,
     52.4900016784668,
-    51.45000076293945
+    51.45000076293945,
+    53.029998779296875,
+    48.869998931884766
   ],
   "6m": [
-    58.09000015258789,
-    59.689998626708984,
     57.15999984741211,
     58.13999938964844,
     54.61000061035156,
@@ -158,10 +156,11 @@
     54,
     53.77000045776367,
     52.4900016784668,
-    51.45000076293945
+    51.45000076293945,
+    53.029998779296875,
+    48.869998931884766
   ],
   "1y": [
-    77.12000274658203,
     78.13999938964844,
     73.8499984741211,
     74.55999755859375,
@@ -410,29 +409,31 @@
     54,
     53.77000045776367,
     52.4900016784668,
-    51.45000076293945
+    51.45000076293945,
+    53.029998779296875,
+    48.869998931884766
   ],
-  "lastClose": 51.45000076293945,
-  "oneYearReturn": -33.28578976844017,
+  "lastClose": 48.869998931884766,
+  "oneYearReturn": -37.458408864079416,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Alexandria Real Estate Equities (ARE) Q2 FFO and Revenues Top Estimates - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWJNYVZ2WlNmQ2NIQlVjTzl4NkEyZXdKZ0g2VWVaTk5aaG1NaDJmZnljajZxeF91ckdTcHNLdGhoTEx6LUVldFR4STJ0QUp4RzRHak9Ca0dEbXhCaGtuZFJaOWJiZTdMdFktZ3llanZaTXVNeWlHeWZHWkxDLUI2MzZGR1hHUEs3QlhaNkxyb3lFQTlra3RTNl9KVTM?oc=5"
+      "headline": "Alexandria Real Estate Equities Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeUNXbnBiQjZTbHVjdjVNeENXeTk4MlJHdkp5Q1VaMDhDV3hGelgyV1Rqc1ppdVcyZnBZZ09mUEpfOXNPVjhmYXpGWnFDakltOUNLY2dlWGsxUERrY3N3ZWxoTHAzUWhzbjJHNlpHanJjRm84TzRKcjdsRU40SDlsNnFSMnF1QkNuSXNtV3Q2cTVOanFQYjdGSHRsTjlMQ1ZVRE5lZXFobGtTZC1VUDZpcWlNMXkxRnRIMEg0a2djOFE1Y2VGU25UR2MwdmplTHRQdXB6XzNQMlptWnR2NnF5WE9TMWctd01JWGFGbklLbV8wRDU1d0tHNkREYlA0QW8?oc=5"
     },
     {
-      "headline": "Alexandria Real Estate Equities' Q2 earnings better-than-feared, Q3 guidance optimistic (ARE:NYSE) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUF9lYTdpVVlsaHNqYXpYOERzNnFkQW55UzRCdzhyOVlFQlFqcndQM2EtTE9ORENUbnNsNUN5a1l1djhuZG5MdEljVi1uYVNrbjAxUVdUUUJlNDdlQmV2R3ZSamx4MnZPV19LcTMyYUY4S2tvMGl2SXJaX3YwbEcwWWdKWWduazNnbEFUN2xpTWdxM0dEdTU5TlNFY0U1djkwNkg2M1E3NXQzc0JfYzVPYlR3Mm96OFIyX25sUVdoOC0?oc=5"
+      "headline": "Alexandria Real Estate Equities (ARE) Stock Price Slides As Occupancy Weakens - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR1E2alRSLWkydkdRRVNUc2FrcFV4d0VzMXE2N3hGQVBqdGR0OC1RdlVDYkRYNVRFRTNIZDRZT0pnLU94Um5Lel94aFdQVkExLXRoRmhzQTNTY2Nvc0NOcTVUTW1POU5hM0FibGxkZm1vbmZrQVhROE1KeWxrZXJFR3BONVE0TDBZSVVXQUFtZnhtMmtLNVN6RnVjNm1zVDdjMktab3RJbHUwZVpFQUkzekY2Z2Zta01QSnp4Q1FlQlVsaXIteWEzZFgxajVOMVFack1wUTJrdnVIUWRSeWdwRlUyaTnSAeoBQVVfeXFMTVlfZHFmLUktZ0NCb1Y3TlpkVXhLQ3BPRS1qX2Utb29NUHFodjlIQ0tMNXdTcmFzODdhWDBpUloyaE9jLU1fR2lDV256MWpFZkZ4SWU1U2t3aEFyazFicTV0X2luTVIzRmZtNmpFcXJ1WHU1RTYxeVFGZ1RqVG82aXNDc082UjUtYWlmRmFtUUljQ25Eamt4NDA4SU9kZm5qUlF5akhrVjU0Q3hPRmRGdmZaSlpiOVZjaklzZktURlEybno4SGgyMEF3VGpEcl90RE4zYWROc3JyeXlIOVF0VE12TjFCd3FyZXJR?oc=5"
     },
     {
-      "headline": "Alexandria's leasing volume rises 60% to 1.04 million square feet in 2Q26 - Stock Titan",
-      "source": "Stock Titan",
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
       "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORVNVUHVuc3RMcUlBd0pnNWotTm5xa18tbjZyT2FWcG1Ca1FGVjJTbVJFWXJsTnRmVS01VFl2NzNJQ0t3d3RORXBrWmlCT3M2S2hGbHhidU9OcF9XN01iTHhIaWpabEhMeDdBRVRyZkk1YXJMZW43bk5PWXA0WlprSXNoXzdIVWVmaWU1bUVhQmxWdHNUaWg1QlcycVJrcW1IVncwRU12VEtaRXdQTEFaYTBDMEoxNy1Bd3ppRA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MMTZPSGE5Vy15MmhhaFNBNHN3MVFnNDlTYU1ZUTRlWl9zSGpLNVI4UGo2UV95aEdkTUZmZXJfMnFCb1V5blRPMlRuQVRUUTA?oc=5"
     }
   ],
   "insight": "Tracking Alexandria Real Estate Equities (ARE)."

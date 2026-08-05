@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:24.528Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:27.239Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    176.32000732421875,
-    173.3000030517578,
     173.6999969482422,
     174.89999389648438,
     176.3000030517578,
@@ -24,11 +22,11 @@
     193.17999267578125,
     188.17999267578125,
     193.19000244140625,
-    188.52000427246094
+    188.52000427246094,
+    191.22000122070312,
+    193.88999938964844
   ],
   "6m": [
-    158.7100067138672,
-    159.16000366210938,
     161.57000732421875,
     163.16000366210938,
     163.2100067138672,
@@ -158,10 +156,11 @@
     193.17999267578125,
     188.17999267578125,
     193.19000244140625,
-    188.52000427246094
+    188.52000427246094,
+    191.22000122070312,
+    193.88999938964844
   ],
   "1y": [
-    172.91000366210938,
     172.1699981689453,
     169.49000549316406,
     171.22999572753906,
@@ -410,29 +409,31 @@
     193.17999267578125,
     188.17999267578125,
     193.19000244140625,
-    188.52000427246094
+    188.52000427246094,
+    191.22000122070312,
+    193.88999938964844
   ],
-  "lastClose": 188.52000427246094,
-  "oneYearReturn": 9.027818101754086,
+  "lastClose": 193.88999938964844,
+  "oneYearReturn": 12.615439072834242,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Digital Realty (DLR) Stock Faces Earnings Split As AI Backlog Hits Record - webull.com",
+      "source": "webull.com",
+      "when": "2026-08-02",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoSXVVUmRITERSV3hRTzB0NXJFdWw0NWl0SkY2bFViSVdiWE1zMkM3Sk5qc1BpYUZyLVBaZ0hMamRtLVAwYjAyeng0aUF6azNyZ3drM1E4TDg?oc=5"
+    },
+    {
+      "headline": "Digital Realty Trust (DLR) Is Down 5.3% After Raising 2026 Guidance Despite Weaker Q2 Profitability – Has The Bull Case Changed? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM19OX0NiUnA3dk5WR2ZDb25oZWdEU191cUZWcmNlVUJQTTBrSU9mcDR0UHFxd245OE9hWnpqb0xaWDBMUFg5b3MtTF90QzMwV1FvNG5TeXRvZHQ2NEt5TDVKX1lTS2pTTHZrUEN5QnNRMkdUX2UyeW9ncmhveGNTWkNTZklGdlUwWmtGQmtwcmt5YVBpQ2JvWEJqd3RISm1fQXhKOERsbjM4OUJlcWJ1aHVfRXY2amsyUGVXcUEteTVXbWN3RFVKRUhta19Sbi1HbUNqTzNtdUEwVG_SAdsBQVVfeXFMUDNfTl9DYlJwN3ZOVkdmQ29uaGVnRFNfdXFGVnJjZVVCUE0wa0lPZnA0dFBxcXduOThPYVp6am9MWlgwTFBYOW9zLUxfdEMzMFdRbzRuU3l0b2R0NjRLeUw1Sl9ZU0tqU0x2a1BDeUJzUTJHVF9lMnlvZ3Job3hjU1pDU2ZJRnZVMFprRkJrcHJreWFQaUNib1hCand0SEptX0F4SjhEbG4zODlCZXFidWh1X0V2NmprMlBlV3FBLXk1V21jd0RVSkVIbWtfUm4tR21Dak8zbXVBMFRv?oc=5"
+    },
     {
       "headline": "Digital Realty Trust Inc. stock rises Monday, still underperforms market - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSmZHejhncHE3d19iWklDMzdTYk0xLUNkZ1YyUFlaUkI5ZmVvRDdsLTF3MktwQWhRUkVTTUp5WlZtMkdVdHdYeVZ0UjB4cEo2ek1CdlI3ZzI1R0pDampMMC1GcmdSN0R3Ym1NWnQySjhFVUEteEhPUlVUeTJIYTRxZy1VRUtydXlZeF9HNU5mMkFfVWItSm9aZ3dGeXdxVmR2bWsyOUtQNi1uUVFveHpfMkI4R3UyNjhrZ21YR2MzaGFjd0J6eHItVnpJSzJ6WTNkWkJyYk5SZ3hOTVdxSHd2MHRn?oc=5"
-    },
-    {
-      "headline": "Digital Realty (DLR) Stock Faces Earnings Split As AI Backlog Hits Record - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQelBIc2NGSzBXVmxtTjIzS0h5V3A4bzhvN3FoNkxNd0tYNk1SaFgxRU9wYlA2d3dscGhyTkhwT1FrYlRvb05nT1hEbU5ULU1LRDhxb3lXWU1PaVdtTUN4dWg0dXJzQkU4dEplTF8xX3JnSWZ1RnRuZ0drd2lQZjYzUVNVWWczNHgzZHdFSHgzdkhxUXUwMjNmNFhXa2JlNWQ2b2RaaDhOQWUxb3dfc3BZblhpLVdFM1hFWmppRzNjUmtnd3c4bU9TSEg0enVpejE5VjB4OdIB2gFBVV95cUxNQnRKYWVUZTN0c0NjaDRKSkFWZnRsZjZUMmNCeG9UdHdFV3BvbjRpQXVHR29BTVgxVmR2aU5PalZEMzR4ME0yRFZRb0ROblBTZllYMFJ2S2hka2lUX01zYmhFMklzTEFJN0ZOTmVMbE0wa3kxUzR0X3NVVWxKS1JjMkVNbUlwU3dWcXowWG9kcmg5Y0dUTXNlLU81WTRBRm9aWERseHRoakhvS2pWNDdndURyLTBtSU53R2l2TG93MGt0dmkyTm1NUUYxN0gtWUx0NldlNFNFSmdIUQ?oc=5"
-    },
-    {
-      "headline": "Edgestream Partners L.P. Makes New $2.39 Million Investment in Digital Realty Trust, Inc. $DLR - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbGNFeGJNZ1RHTi1RNVZBWUcxb1NzRkl4alA0UVBZRzJfa3preEZvYzJpVDVkaDI5ZWpYNlVHYTBDcjdtX0NIelV4eTBSUUQ2WDZORVh4RmI2SVhRNUM3MG5pcE91MjAxMFVBUTlsbG9DanlDenkxV3E0NnR2bkdSZlpvRUVDa1dIdWRjOUlJRmtoTWd6M0JPWEMtSXh3allvMEVHTzRXNTUxczhaVTE5b3ZUUk9DZ3FjYTBTMjQ2RXVvbFdBd0hTM2w1WExnMHRWVFM2eW5jcE1LdF9kWll5T2pB?oc=5"
     }
   ],
   "insight": "Tracking Digital Realty (DLR)."

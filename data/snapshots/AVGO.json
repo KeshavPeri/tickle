@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:13.097Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:16.643Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    369.3399963378906,
-    360.45001220703125,
     373.8999938964844,
     370.7799987792969,
     388.69000244140625,
@@ -24,11 +22,11 @@
     380.9100036621094,
     370.32000732421875,
     387.8399963378906,
-    389.2799987792969
+    389.2799987792969,
+    392.2300109863281,
+    418.1600036621094
   ],
   "6m": [
-    325.489990234375,
-    320.04998779296875,
     324.8500061035156,
     332.7900085449219,
     333.239990234375,
@@ -158,10 +156,11 @@
     380.9100036621094,
     370.32000732421875,
     387.8399963378906,
-    389.2799987792969
+    389.2799987792969,
+    392.2300109863281,
+    418.1600036621094
   ],
   "1y": [
-    297.7200012207031,
     292.92999267578125,
     301.6700134277344,
     303.760009765625,
@@ -410,29 +409,31 @@
     380.9100036621094,
     370.32000732421875,
     387.8399963378906,
-    389.2799987792969
+    389.2799987792969,
+    392.2300109863281,
+    418.1600036621094
   ],
-  "lastClose": 389.2799987792969,
-  "oneYearReturn": 30.753727389218742,
+  "lastClose": 418.1600036621094,
+  "oneYearReturn": 42.750832662237606,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Microsoft joins, Broadcom exits Goldman’s top-stocks list - Yahoo Finance",
+      "headline": "What Is Going on With Broadcom Stock on Tuesday? - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV05zYkFXeDhWVFMwT1ZfVlZpRkJpdnlYTkY4QW9uYlU0Qy1VdEhGQmtyMTFZQThFN3preEpUQ1FFQUVqcjJfVjgxVS1aWGVfV0hDSmZNWGZiTHpOdUhtV0xneWI4dHhab0Fldmp4SHNrZm9MZ3JzaWgtMmNteUhvc0lTVjhaT015NmM0eFlGZnUzLTN4VHl6NmVuMmRBc2M0RVJaRg?oc=5"
+    },
+    {
+      "headline": "Broadcom Stock (AVGO) Falls as Goldman Sachs Removes It From the ‘Conviction List’ - TipRanks",
+      "source": "TipRanks",
+      "when": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGJJZ09ucXU2RWUtcWF5U2VoeDlJOEtFZC05Z196Ukg5M2dDOTRxb0FUYU1vRDVzeFNlVUIzT1RGdG1oVGFzZm5sNlAtMlBuMnhvTzNvMmMtUVhjWDdMbkdST2JTSFh2TWM3WWRCbmdqbklGQjZFenFhaXo4dWd4b19rTWp5WVZwTWZxRkRLOFpyWE1IdjBTRXhWVWlJb3JZM1VFM2ZiZzJzU25jdU1KTEptUWU2MUU?oc=5"
+    },
+    {
+      "headline": "Intel Soars 10%, AMD Jumps 8%, Broadcom Rises 6% as Chip Stocks Ride a Risk-On Rally - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzk5b0J4MEtXc05QQ3Ewd2ZjNnoxaXNFRWxFUWtuM241RWJzdmFlYi1iOE1tMzkwMXdrTHM3YnZIa2gyRDI0MmZmMk82ejR6OXNkcTF6YXNGUzJFRTE0RWZTMFA2aE5qd1FBUVBsbUg5alEyWXFRUzRrbDZNMTFObUE0RmViVDdsQVZXRTVBRTd5dk5DTTJNcG9fZDZHSXBuX1lETzlR?oc=5"
-    },
-    {
-      "headline": "Broadcom Stock Slips After Losing Major EU Antitrust Fight - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNanVzZFg0SWdEVGw4eDdHMEpmLTZwSXByTmhSYlF4b2dNWXNHRWN5aUVfVXRsU3FreWRiNF9MM3MyVkJ3TUN4OHJMZUxBdmd6aW5kZkltQmVmamxoUHNza2xYdTRzR1lyakxQV2c5QWJsclRxVzNuNEF4bUxCdXJoVVpOZ0xENFRJaWlkZHFjbW9IMGVWTnNpZ3dqUTRXQQ?oc=5"
-    },
-    {
-      "headline": "1 Nasdaq 100 Stock to Target This Week and 2 We Question - stockstory.org",
-      "source": "stockstory.org",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYlVvSkFXaVppYWhEdGZ2M3dVbDRQYl9tTld6R0lIYkNRQzlTX1l4S1YwZUhodWNuUGY4WTM0UkhHSUNueVNLYXkzNVFvUFpzMGxuMlp3NTFUUGYwM3M2Qi1CbjY0QkV5Q0ZsdnJqVU5HRTZuc3Rvd1hJTHJwbnFfa3FTOHlRQ2pmdkFpczQ3WlBUVXkwdUhQRDFPcmgyajBUT2VCZkxaeXNTQ18zc0dMcFA0RXpEbnRseEE?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQmNqbXp5anB3YXNTQ3JyZXF6YWV3N1NGaWNaRjYtaXhaWWkxb1hVWVNYWVRodHY2TlZpb2N6R3N0VmZpbEVMc0hsNDZyazU1TDU3ZWRNSWNqOGRUaEZYQ3Y5MF9YTV9SV2ZwZ1lOdVMzUnU0RWtxYXotcEo3c01aLTY3dEVoOGl4QjdjbWhveUlPYmM?oc=5"
     }
   ],
   "insight": "Tracking Broadcom (AVGO)."

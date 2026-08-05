@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:40.618Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:42.118Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    81.29000091552734,
-    84.13999938964844,
     82.95999908447266,
     84.05000305175781,
     83.4000015258789,
@@ -24,11 +22,11 @@
     88.2699966430664,
     89.08000183105469,
     88.48999786376953,
-    87.58999633789062
+    87.58999633789062,
+    86.86000061035156,
+    86.55999755859375
   ],
   "6m": [
-    71.87000274658203,
-    72.87999725341797,
     72.55999755859375,
     73.55000305175781,
     73.05999755859375,
@@ -158,10 +156,11 @@
     88.2699966430664,
     89.08000183105469,
     88.48999786376953,
-    87.58999633789062
+    87.58999633789062,
+    86.86000061035156,
+    86.55999755859375
   ],
   "1y": [
-    68.95999908447266,
     69.05000305175781,
     69.51000213623047,
     70.43000030517578,
@@ -410,23 +409,25 @@
     88.2699966430664,
     89.08000183105469,
     88.48999786376953,
-    87.58999633789062
+    87.58999633789062,
+    86.86000061035156,
+    86.55999755859375
   ],
-  "lastClose": 87.58999633789062,
-  "oneYearReturn": 27.015657628703167,
+  "lastClose": 86.55999755859375,
+  "oneYearReturn": 25.358426839910447,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Coca-Cola Europacific Partners (NASDAQ:CCEP) Stock Price Expected to Rise, Wells Fargo & Company Analyst Says - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUTVkYUF2WlNQTGtBQnZERVdoUHh1aENzcDZCU3ZuMzB0U3pKR19ONlRFNU9DNnpvNUJFbWlJNE8wMmxRQUdiSHNvRUN6cWVVT2g1ZnNuZGZ1TVluMUhqdFFFZ0N1ZTFIa1ZvZGppZS1NNlItQ2x1cXFJWWI5YW4zdm5qSExXTXlZN3Vvb2NfSkJabUZRcUR0X2Q2VllXQVNmYndlOTRBTmlFMVN6dGo0SUVqaUVrNFZkTExZbXhQNEdvR255U2k4YkpTV2w4Um94Z25vU1JLVDlBZUNBQlNsSnpYME4tTTRzQ1pTRUhR?oc=5"
-    },
     {
       "headline": "Coca-Cola Company (The) Stock 12‑Month Price Target Raised to $95, Implies 8% Upside - TradingView",
       "source": "TradingView",
       "when": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdVBZbVJiV0tyTHJ5U1RtbVlLY19odFoyNjVFUDN5RW5DX1hSQmlEdy1MZG01RXg2NWlDT21GMG9pLUZWMmMyS2pJdmZxWnJBeFp6bHZBRE9yOHRJSnV3c2Fqb0oxdDI3NXpnNWl4TEFGMXNDRndMb2hzMXA0NkI3a2xGWjlQdEExTmdaSERONkk5eGlHTWZnMEV4MVVoT1prSUxwOTJWeWFFNUFtdklJTlhBWjVyc0txRnFyUFB6OE5Sd2VSTm8yTE8tZS1tRElCdW1UbFdUQVg?oc=5"
+    },
+    {
+      "headline": "Coca-Cola Europacific Partners (NASDAQ:CCEP) Stock Price Expected to Rise, Wells Fargo & Company Analyst Says - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUTVkYUF2WlNQTGtBQnZERVdoUHh1aENzcDZCU3ZuMzB0U3pKR19ONlRFNU9DNnpvNUJFbWlJNE8wMmxRQUdiSHNvRUN6cWVVT2g1ZnNuZGZ1TVluMUhqdFFFZ0N1ZTFIa1ZvZGppZS1NNlItQ2x1cXFJWWI5YW4zdm5qSExXTXlZN3Vvb2NfSkJabUZRcUR0X2Q2VllXQVNmYndlOTRBTmlFMVN6dGo0SUVqaUVrNFZkTExZbXhQNEdvR255U2k4YkpTV2w4Um94Z25vU1JLVDlBZUNBQlNsSnpYME4tTTRzQ1pTRUhR?oc=5"
     },
     {
       "headline": "Coca-Cola Consolidated Repurchases All Outstanding Shares Held by The Coca-Cola Company - investors.coca-colacompany.com",

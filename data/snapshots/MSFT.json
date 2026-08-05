@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:44.078Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:45.376Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    384.2799987792969,
-    390.489990234375,
     386.739990234375,
     388.8399963378906,
     383.3399963378906,
@@ -24,11 +22,11 @@
     393.3500061035156,
     390.5400085449219,
     451.1000061035156,
-    464.7200012207031
+    464.7200012207031,
+    487.6499938964844,
+    492.80999755859375
   ],
   "6m": [
-    451.1400146484375,
-    465.95001220703125,
     470.2799987792969,
     480.5799865722656,
     481.6300048828125,
@@ -158,10 +156,11 @@
     393.3500061035156,
     390.5400085449219,
     451.1000061035156,
-    464.7200012207031
+    464.7200012207031,
+    487.6499938964844,
+    492.80999755859375
   ],
   "1y": [
-    535.6400146484375,
     527.75,
     524.9400024414062,
     520.8400268554688,
@@ -410,29 +409,31 @@
     393.3500061035156,
     390.5400085449219,
     451.1000061035156,
-    464.7200012207031
+    464.7200012207031,
+    487.6499938964844,
+    492.80999755859375
   ],
-  "lastClose": 464.7200012207031,
-  "oneYearReturn": -13.240238124159207,
+  "lastClose": 492.80999755859375,
+  "oneYearReturn": -6.620559439394837,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Microsoft Stock Is Surging Today - Yahoo Finance",
+      "headline": "678 Billion Reasons to Invest in Microsoft Stock - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnpCZllwRTZEN1dERUtOUmg4bTIwOGIxUHhZREl6ZWNIV0g4cEFDa2tqRHVieWFPRFBfdHJudVNtZVQtVW1meFgwcUFkVlV1Z2pIN0VKSHJLX28yRUl6WEx3TUZMQTV4NnM1akE5aHNtbGtMZzZvNWpEOTBQWThCSDNCbzhLaEhGOTg3UmZuWU1iNzBIU0wzSTBiXzZDRHc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVTFwLWpnR2hEa3lMTXBIYmd1RnRkUTI1Z0NTWlg4dy00bE5VMEY4aEhDWFhXYWRtY1dhRGZNUmoxMTJDM1gwT3RZLUdxR1RBYzJkLWdGM3lkb0xSeVNYWXRKWWdnS2Y0NWdDUTR4TUFnMGp0UC11MVpxSmkyNDJUbFlnZHRVdWhnTzF4bnlXcWUyQmN4WFMtLVpZYTVFWFZobTBN?oc=5"
+    },
+    {
+      "headline": "Microsoft’s In-House AI is Significantly Better Than Frontier Models; Microsoft Stock (NASDAQ:MSFT) Gains - TipRanks",
+      "source": "TipRanks",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb20wWFZsdlV3eGhNSnNzODRxM0tTTzV3NW42VGQtQ0VhWG5VODFMM1M3a0dBYzk2WFZpY3MtTmVaNFhnblZDRHNlNXBjZDMwc05rbTdzdzNnRkdxcXI4V1QzNGtnaTFXNXNLNzY4V0tnckY0ek9qUXlvS3VvZHpPM3o4NHNydHhqdEF1MGVzaXhQdlBtVUY4Vk84RDRpU3RIckV4MF8tdVBVS29nb21vX2Q0M2d3aElTb29KeVdEWHhfZnd3czUwUFZ3?oc=5"
     },
     {
       "headline": "Amazon, Meta, and Microsoft stocks surge as AI hyperscalers post strong earnings results - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdVM3SFhBd3JhQWFwQ0ZkVWV0S2Z1eWthREVxYUxjYjFaY1NMQjM5T1dwSTNIeGhoX3hmTmpJMUpXY3lLTE0tMm5kbFFIcWM3Q2hfbVctZEhmZ1Nna1loeEZSbmhlSjE2aUhtbG9YRkdYVGRjOW11bnhVTHFZV0tWcWRiVEcxeThkRnE3bEtTcmczUVlFcnJESEFYQ2xtMmRzSzBlZ1hUMTYtS1h3eHdRRDVQZlBMMFl4MU5mV3hZQ2dTQjJfbkk5VE5XQWFIampLNG1CNERKMDcyXzJnSWlv?oc=5"
-    },
-    {
-      "headline": "Microsoft joins, Broadcom exits Goldman’s top-stocks list - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1VXTlZlOU11clgzM0dmZjBBR002OTh3TjhIZmRDcjg3UWRRLUxXdzNKbnFHSGltWHJwSE9jdHNIb1dhRXNMMVo2NDQzaVg5d1M5RWw0Rk5hRU80RGJfQlZEdDQ5M0JwS25ZUmt0REhWc1NhbXJfLVJMNWZYN3FyV3pVSzkyRGZmVTJ3MFdER2dvZFdEaVh2YTBiMU1vOE50VWdOQms0TE9nYXNZWEtSNg?oc=5"
     }
   ],
   "insight": "Tracking Microsoft (MSFT)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:51.262Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:52.250Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    83.52999877929688,
-    84.83000183105469,
     84.2300033569336,
     84.62000274658203,
     83.16999816894531,
@@ -24,11 +22,11 @@
     85.19999694824219,
     85.31999969482422,
     84.70999908447266,
-    85.23999786376953
+    85.23999786376953,
+    84.9800033569336,
+    82.79000091552734
   ],
   "6m": [
-    76.83999633789062,
-    76.20999908447266,
     75.62999725341797,
     83.91999816894531,
     83.51000213623047,
@@ -158,10 +156,11 @@
     85.19999694824219,
     85.31999969482422,
     84.70999908447266,
-    85.23999786376953
+    85.23999786376953,
+    84.9800033569336,
+    82.79000091552734
   ],
   "1y": [
-    79.47000122070312,
     79.25,
     81.47000122070312,
     80.37000274658203,
@@ -410,29 +409,31 @@
     85.19999694824219,
     85.31999969482422,
     84.70999908447266,
-    85.23999786376953
+    85.23999786376953,
+    84.9800033569336,
+    82.79000091552734
   ],
-  "lastClose": 85.23999786376953,
-  "oneYearReturn": 7.2605971491582615,
+  "lastClose": 82.79000091552734,
+  "oneYearReturn": 4.466878126848383,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Sysco Corp. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMExvSFN1MzNKRkVNbnp3SU41X0UzQk1wMFMzYWxseEk2bkpNSkJMLUZyZF9TSGV3VEZycTFNekdzeEhnQmw5MFBxOXlqSEpRNXFaaEd6MGhya0lVc0hOMEdWaGFBVFNuZGJqdDMzRGpCX2JrWGZjMHNYVzRnZ2V3b3M1OXNCWWx3SXVTemFXYzVrVnhzRmZOdXg2eFkzMlQ5aGtkVHUzaUFXcC1vaGoxSExYRXNKWmlPRXc2Q1BfNGVLcUxMMmRDdGtBV1hETlVmdFdJYmxFSl9IMGVfUnc?oc=5"
+    },
+    {
+      "headline": "Food distributor Sysco forecasts strong annual results on resilient demand - Reuters",
+      "source": "Reuters",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR2MtWVVaMFJTXzVuQnhFcEZ5MjBDVW9zR1FJVENQTUE1bGZVbDdUcUhPZ1czQVhOZklsYktvZm9tVkJ1MDBZYkt6Tlo0eHBocnY4cEhYaTNrc3NuNHljdE4xWV9paXh6bThheFBTbUxXMnl2NXZLd2t1OHA0R1B2bU9zZFJGQWtYS0pZX1NWNklyQ2MtZGFjU1RiVl91ekl1azZvVnFaalgzb2Z4ajdSVmJ5QlZwREhrU0dkS1AzTExMbWJHNUwzWA?oc=5"
+    },
     {
       "headline": "Sysco Stock to Post Q4 Earnings: What Investors Should Know - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFpWVmtiWVFFOUpJLS1CbEFHUFVQOVBBV0IxdmY0ZGhfTUhYWWYtcS1oZTludkh1ZWtlaXE0S282b1I3RmRwTHJOQVZwYlI3bi1pc2UwRTMtdThEdGk0dy1yNGRzeTVaWTYtdDIwbUxNVGlaOGZIc3RzMjVQQ0RyNGZvSHpjQ1o1NGxvWk55bGdNa3NMT0JqMQ?oc=5"
-    },
-    {
-      "headline": "Why Sysco (SYY) Stock Fell Today - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VUW9taW9yNjkzOTZ5SXJLNzNPR2drdDlTNVRVS1Z6Y1ExcVk3YTBlVFlMd0pNeGtETDl0NTlpeFJmek0tZThCaEFwbVAzR3ZkUUVXMXJCQWlwUi1iblRibXk4Mi00a3FRZ21MZ2JrS1A4UjM1VVJsaw?oc=5"
-    },
-    {
-      "headline": "Sysco Corporation $SYY Stock Position Decreased by Bank of America Corp DE - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1FwVEdtWUp5LTZTOUVTZ0tlRjViSjJjcjYybllYNldMRk9JeTJTMFBjNERSWVlNRjFfWWdnWC1COWtSUy02RkZ3cWxSSHBQSkhVeURLM2lTTG5udy1ZbWpST21fMTl5V281RnpkcTN3dVQxcDlBeTJxRXlBUE94MEo3cmxYZDlfeUlNMzFUQ2tzaURzSF9SNnZUNFFoSHVjbjNHMmw3MUJaUFljZzYxbzA3anhYOEltR3dSNGU4TDMtT0dWZ2JfNG1CcTA3R3c?oc=5"
     }
   ],
   "insight": "Tracking Sysco (SYY)."

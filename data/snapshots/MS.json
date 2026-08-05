@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:43.788Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:45.244Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    211.86000061035156,
-    213.92999267578125,
     222.10000610351562,
     222.0399932861328,
     218.07000732421875,
@@ -24,11 +22,11 @@
     211.5800018310547,
     203.1300048828125,
     210.05999755859375,
-    210.4199981689453
+    210.4199981689453,
+    211.22999572753906,
+    217.0399932861328
   ],
   "6m": [
-    183.0500030517578,
-    179,
     181.8800048828125,
     182.66000366210938,
     182.33999633789062,
@@ -158,10 +156,11 @@
     211.5800018310547,
     203.1300048828125,
     210.05999755859375,
-    210.4199981689453
+    210.4199981689453,
+    211.22999572753906,
+    217.0399932861328
   ],
   "1y": [
-    141.36000061035156,
     140.4600067138672,
     141.3000030517578,
     140.9199981689453,
@@ -410,29 +409,31 @@
     211.5800018310547,
     203.1300048828125,
     210.05999755859375,
-    210.4199981689453
+    210.4199981689453,
+    211.22999572753906,
+    217.0399932861328
   ],
-  "lastClose": 210.4199981689453,
-  "oneYearReturn": 48.853987875221186,
+  "lastClose": 217.0399932861328,
+  "oneYearReturn": 54.52084786544803,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Morgan Stanley Shares 24 AI Adopter Stocks to Buy Now - Business Insider",
+      "source": "Business Insider",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUEJNemQ5QVZ6VVY0cVRpM0ZwRU5pdHR1ZnVUc054OGQ4dy1IZEUxY2tlTHF1WTNZQnNYV1l5VVJ4U01Tb096YVVxcjRpZkhZdTFLLTZKMk1ZQ2hCdDRBamduOTZVSW9aczJjTFdOX0Zaay1OZGdmeWRmUk1hMXRreEgwQ28tdjJaTG5wLVRrMGVBbEtnTWVSY1BIbU1UOVphVFVyeG42NFplQQ?oc=5"
+    },
+    {
+      "headline": "Circle (CRCL) slides after Morgan Stanley slashes price target to $38 from $106 - CoinDesk",
+      "source": "CoinDesk",
+      "when": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWNnZWVWeHhrNXVvM0g1SGYxZ3ZPT202cy14bXN2R1MxZWVjMkQwa09Vc1EwcHJRanN6V2diakNWZXhMSGdnS0laREhzS1NlMHk2ZEFxWlVJS211VDRVU2tDX0hNMndQU2NrMUVIb0FBMjBHeVozbFFBakU5a0pxOTNOLW05Y3JfSlB5bnFsc0w1ekFua0lnMmgtZ2NocHFuQjVFVkJKb0xHNk91NklhR0QwcWRFcFk0?oc=5"
+    },
     {
       "headline": "Morgan Stanley Sees 36% Upside to Korean Stocks After ‘Washout’ - Bloomberg.com",
       "source": "Bloomberg.com",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1loWmphdUM5THpHSHRkeEJrZ3ZRZnNKVG4xQldWMnk5cjJib19JU0Z0MjdwZlJGT2dHU21iZmlLRmFnbUhWWVdtRlVLR01RVzI2a0JuQVJmZ1lSSklPM3BtWmlSSzVTcjNLOGl0TDNYbE4zeDBPdXdsR2d3TkZEWlhYa2RvWF9jRC1OWFRyQm9ZTUFnNUw3blJLQjhUMkdLMVNGSVU2WW9lOG1ncXBwdA?oc=5"
-    },
-    {
-      "headline": "Here's What Morgan Stanley Says About Buying the AI Infrastructure Dip - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjk5WllMMW5BcjlwUkI4bzBDVm91NnllMGY5Y0V0bjM0bUJIZ3ZxY1F0Z1hGMzgtMUlDNlFHSjc4ZFpKM2QtQURSU1ZCaFZlUTM0ZEo4ZXE5elhVaXl4V0hjb0lxZVhITGhrTXF5Y2VrbE5CMXdSNWpLck8xa3JVS1hZMng4Q0dJNzJqVXVNOVJfZkZSRDc3dEtyT2c?oc=5"
-    },
-    {
-      "headline": "Morgan Stanley Hits Circle With Drastic New Price Target Amid Crypto Contraction - TheStreet Pro",
-      "source": "TheStreet Pro",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzQ4UTB5YUIzMjNWNHJ5LXRkNkluQzYwTno0VmR6WGs1SjQtUlVrRnl2dUZEVTNiakwtejRadnJEYjJrYmg5Z3Z6X25ZVHJsQVBVYVh2WnBNOTdsck9JUjY0b2JUNEcxM3BqLVNTUVBMRE1TNC1uZ0tTQXZvMmZCN0VBd1U3alYtWm9ZaG9qdGFKUWEyMlJqVFpCZi1aT2ttZnBNa1BoOWJWa1QycFkwQmZB?oc=5"
     }
   ],
   "insight": "Tracking Morgan Stanley (MS)."

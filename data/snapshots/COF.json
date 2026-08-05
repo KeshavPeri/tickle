@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:20.330Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:23.177Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    204.82000732421875,
-    205.1199951171875,
     206.5,
     202.88999938964844,
     191.9499969482422,
@@ -24,11 +22,11 @@
     212.41000366210938,
     208.7100067138672,
     210.13999938964844,
-    209.00999450683594
+    209.00999450683594,
+    217.67999267578125,
+    221.91000366210938
   ],
   "6m": [
-    235.07000732421875,
-    217.3000030517578,
     220.17999267578125,
     217.11000061035156,
     218.41000366210938,
@@ -158,10 +156,11 @@
     212.41000366210938,
     208.7100067138672,
     210.13999938964844,
-    209.00999450683594
+    209.00999450683594,
+    217.67999267578125,
+    221.91000366210938
   ],
   "1y": [
-    210.7899932861328,
     212,
     212.8800048828125,
     207.2899932861328,
@@ -410,29 +409,31 @@
     212.41000366210938,
     208.7100067138672,
     210.13999938964844,
-    209.00999450683594
+    209.00999450683594,
+    217.67999267578125,
+    221.91000366210938
   ],
-  "lastClose": 209.00999450683594,
-  "oneYearReturn": -0.8444417837618363,
+  "lastClose": 221.91000366210938,
+  "oneYearReturn": 4.674530029296875,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Capital One (NYSE: COF) card president sells 690 shares in 10b5-1 trade - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOUN0TW9hcG9zUVJzSWEwS2tCZ0dIcGJYT3dIcGhsOFVjR05MZGl5eGhSVm14aGNSaFd3a2RpMEdPcHZjR0M5RldLdV9fbXB6SkJLQkU4UEsxdG0wMjU5SFIwZExBMl9oZ2c2TlloWjE2MVlES05ha3gzMWduUDFtUlVmYkNmV2ZxaWJVZWlYYmthU21xUWxramtLdE5WZ19EZERraUtOel9YS1lVVFJ4WF9XMHY5TE91MHhF?oc=5"
+    },
+    {
+      "headline": "Capital One Financial Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSWNRWVdwVHpqYm1LcWpWSExmTXZFVDdxTzJsVWk2dE1Ga3NyNFZjOC1IelM2MzV5R1VXb0ExOWFlLW5PRzc5XzhxUXB5QjB6Y1Z4YUQ2SjZLcVFEZGphTVVBWjcwa2ZhYWdWdVpqNFlBN3RVMmhtblRuOUVWTUhoR1UxdFc0endScFY3anRPMGVoV3ZtZndyUmxPczhxVHFHTGQ4c1ZoaUpRcmliZFhveUs3MXlYQng2M2xwcURFd3J5eDdpWk5kQTgxUXk4elpLRFNTUUk5Q0NobDFZTjdjWUQyT3BYUjRKU3lQUQ?oc=5"
+    },
     {
       "headline": "Capital One Financial Corp Stock (COF) Moved Up by 4.01% on Aug 3: What Investors Need To Know - TradingKey",
       "source": "TradingKey",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVEpxLVJpend5Mk5tU2NGX2RIRV9YdUxpTnd1STZOd2t1M2FnbG9KdWxFcDRWQ1NjNUxCU3NEX1dGLWFHVFY1QUhOTFYxQnlLWk5GY2xmU0hoZEtja3pfOXpza0c3cEpYbmxGNXlDck1TU1BaTHBKUUJkUW5FbXZUNmU3UDRmamVHalE?oc=5"
-    },
-    {
-      "headline": "Capital One Financial (NYSE: COF) exec sells 9,726 shares in 10b5-1 plan - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNF94a1NqNzBGSlo4MkVSVk9jTDN1NEF1SVl4VGgzYVZHdHZoaW5MMERxRmFQRTBzWkl5MFQyYUFRQ0cwS2hnNThVVGw3NnNwWWhSN3VHX3BLVGJ3Vjd1YzFtVERqejltWTZGS2JHM2Y1WHE4cFFkQUtlc1lsQ3RocEV5S3NEMENmRzNiRXBUM1RiTE5oNkFwc3A0WE5WcFMwdWtpVkJCVnZvWHh2VVpSM080UUNKZTZkdXYw?oc=5"
-    },
-    {
-      "headline": "Capital One Financial Corp. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQUpRamMtQ1F0enNLQnl3S2lpQms2MDdpTUxoZDVrR2F3VFBzeVpoem9yUHFGMHlBaFAxSFVIV3FHZElOWGJ4UlluQzEzME1lQ1l5dnh1S3pUNUxyZkZuZk1yVHpOVzl2Y1c2cUVTR1lHM0FUb0N3VUhhMDY5MWtsLVZYU29obmRFSy12cG5ldWNwRnp2TE95WFpFckdBS1RsZThOclZqYm40Ulhid1pnNWxWTU1jYjBieUNaVEpFUC1uMFlWU01SUmdGZHpXeERFR0ctdU14Q1RUVVdUc3BSY2Yxemh2anRnWENFSQ?oc=5"
     }
   ],
   "insight": "Tracking Capital One (COF)."

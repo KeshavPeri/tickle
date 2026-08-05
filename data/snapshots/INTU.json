@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:37.737Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:39.286Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    267.0799865722656,
-    275.3500061035156,
     272.1400146484375,
     281.1700134277344,
     272.1000061035156,
@@ -24,11 +22,11 @@
     312.989990234375,
     333.1300048828125,
     315.5,
-    316.07000732421875
+    316.07000732421875,
+    318.3900146484375,
+    323.6000061035156
   ],
   "6m": [
-    547.6900024414062,
-    563.969970703125,
     561.77001953125,
     545.4000244140625,
     538.7000122070312,
@@ -158,10 +156,11 @@
     312.989990234375,
     333.1300048828125,
     315.5,
-    316.07000732421875
+    316.07000732421875,
+    318.3900146484375,
+    323.6000061035156
   ],
   "1y": [
-    784.8699951171875,
     769.27001953125,
     779.469970703125,
     761.6099853515625,
@@ -410,29 +409,31 @@
     312.989990234375,
     333.1300048828125,
     315.5,
-    316.07000732421875
+    316.07000732421875,
+    318.3900146484375,
+    323.6000061035156
   ],
-  "lastClose": 316.07000732421875,
-  "oneYearReturn": -59.72963557142646,
+  "lastClose": 323.6000061035156,
+  "oneYearReturn": -57.934145633194014,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "META_TITLE_QUOTE - Yahoo Finance",
+      "headline": "INTU Stock Drop: Intuit Pricing Issues Lead to 20% Stock Drop and Securities Fraud Class Action for Investors - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX0R4MDd1UlRvZXlnZHBhVGVlV2xTSUhIS1dZQkh3RFJEaEpzS1pfLTlmal85blhCV3VpY0lyR1lmLVZSSF9BeE1sLWFYdGtvcEk1WnMzWU1DNGh4RVZvZVNkems5MWhwbllRRjd5SzhyaEtEY24yeTlDbURLbWRsVmZvSU1zM1NraHROckxqcHdyN0piSWtPQzZYbTN6d2FXTGJ1QkZjd3J1bnM4aWJpbVlNV3Y1NzgzekFuSlIyajdVSFFFUFdfN3RtR25LNi1xZ1B3ckQ3aEw3UkdmZWtTdmRpUkN2T0xOeDI1WlJ5ZXd6c1pjWUE?oc=5"
+    },
+    {
+      "headline": "Intuit, BILL, Workiva, Elastic, and Autodesk Stocks Trade Up, What You Need To Know - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqS2FBdm11SnVGWUZWS0N3R3Zoa25FOG00ZzNiNExhbXpvNG5YSzdJWF9VNk16U25sUjlDa1oyYTVVR0diaWtabVpsN2xrZw?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVW9ZdlhiQml5THhmTldrV3VqTGpoZ1g5ckw4bngwZF9VM1ZnaHEwaE5ISjRsZ0s3TGpKTWotbEF4NjF3TU5LSkpIcmd1dlFHZ0V3dEtVR2IxSWVyTGctNVR3VHA2U3VJcEo5aWNQZ1ZIa1Q2d0FFcG1TSTY0TTVudzJsUnczZy16YlpZZUZIYjBMLUNLSkk2cmFCS1RVVTFRVmpB?oc=5"
     },
     {
-      "headline": "Intuit's (INTU) Hold Rating Reaffirmed at Truist Financial - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDl2UmZqWFBVN0RLUW44MEg2T3A0aFpRN3ktellsMF9IQl9zazlKMXE1UEZOSTFaLWxpY2NxNktNTXFoVlVYTUJobDFCQkdsdmZ5aVJfNDh0V0JOenF1eUp2a0RoMkxETzNOQzZGMjQwQ0E3RjJTeUtDXzJadXpubHFzVmx0SzR4VnNJWC1BUFNJWkNpZkd6T21jcGlvaldkRVB1aGxsTldCNHZuVUE?oc=5"
-    },
-    {
-      "headline": "Robbins LLP Reminds Intuit Inc. Investors With Significant Losses of the Opportunity to Lead the the Securities Fraud Class Action Against INTU - Business Wire",
-      "source": "Business Wire",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNNzVMYll2MU1HclcwMG5EUnVfS0djUmVhYm1TakVFQkhEZ1V0TEl6NXNVQTlJaFR3Unhpd19neVM4VEtCVW4tMTNGZTBMNXdxenhESkRMdTNEaTMwNm9PZDZHcFVwYTFHTUhuMWVseFh1MnVqeXlHQmZLZjliYmN5Snc4bjY5b1VRSHFEYU9wTmI3XzJnbndVVkZMMjNoZjEtcHIyQUJZUGlrcHAySXBONGpfcUx3N0JIcFZLdXZ3cTJXaV9aOE1MZnR6anc0RmtXNXZWdGx3b2pGQVJUU0hRSVZ1NTdQLVdweXYzNHdSaURwa1NNZ1ZMY1VHb3BWZVRqVTlsZGdYY1M3YUJLVHQ5eDVtbWFwMldkcVFDd3hRVG1BbmJwZDFF?oc=5"
+      "headline": "Intuit Inc. stock rises Tuesday, still underperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmdHMzJGTk9ZdGZMbFlUaFpqcHdPZHRxaWNIQWdYR1dsenJPX0lYV2tZWGN4ejU0RC1JVTM0Y01oemVFU0pMWHR0cnFaRUtSbTQzNTBpZC1UNHZ2M2dDb2ZtdHVlX0xDdXFPb085RVdEZFhUYXkxOXNjcVNla3VYbmZFUFkwLTZ1amktNXVieXRKczJyNU9JUW1KNUxPcWdvNFhMUkEyQ2xXZFFOUUdFUTNmMks1cVdDY0NmLVVYQkdmM0VQSnplczBHSmlOVmdX?oc=5"
     }
   ],
   "insight": "Tracking Intuit (INTU)."

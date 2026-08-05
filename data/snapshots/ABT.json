@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:08.263Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:11.863Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    92.18000030517578,
-    95.4000015258789,
     95.62999725341797,
     95.83999633789062,
     95.18000030517578,
@@ -24,11 +22,11 @@
     107.2699966430664,
     108,
     105.61000061035156,
-    105.69999694824219
+    105.69999694824219,
+    107.12000274658203,
+    105.45999908447266
   ],
   "6m": [
-    108.61000061035156,
-    107.41999816894531,
     108.7699966430664,
     108.2699966430664,
     106.05000305175781,
@@ -158,10 +156,11 @@
     107.2699966430664,
     108,
     105.61000061035156,
-    105.69999694824219
+    105.69999694824219,
+    107.12000274658203,
+    105.45999908447266
   ],
   "1y": [
-    129.92999267578125,
     130.69000244140625,
     130.92999267578125,
     132.05999755859375,
@@ -410,29 +409,31 @@
     107.2699966430664,
     108,
     105.61000061035156,
-    105.69999694824219
+    105.69999694824219,
+    107.12000274658203,
+    105.45999908447266
   ],
-  "lastClose": 105.69999694824219,
-  "oneYearReturn": -18.648500803044758,
+  "lastClose": 105.45999908447266,
+  "oneYearReturn": -19.305228315567025,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Abbott Laboratories stock rises Monday, still underperforms market - MarketWatch",
+      "headline": "Abbott Laboratories Stock (ABT) Opinions on Q2 Earnings Beat and Guidance Raise - quiverquant.com",
+      "source": "quiverquant.com",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONTM3Q1lyU21jVGE3b1YwanczMzRxdG1sbXZkX19CWmdZU2pEX3l4VkR6WUp3NDBZYVVTZFpvS2o1SERQWS1LazNUa3VDV0FfTkx6alBoYzFHd0FrQ0NaSlh0cjBuV1J5LTlqUk04N1N2dHFlZWhhbzdDUUVEYnY5SXZWWVpUU0lkSnMtdHR2ZUlzbkpCaG1xbzY0OXVBVDdlMDdmWFg5NmU2X2FkUDVoT3BzcWt1RGs?oc=5"
+    },
+    {
+      "headline": "Abbott Laboratories stock underperforms Tuesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU2hTYlBMUTg2Tm1icXBJbWRfNTF1a05sWk56R05WU0pBQVQtbjFHVkV6RVo3MERibk5KZ29EOHVYeU9Ed3VROVYzOVhFQ00tcmRQanoxRHBOLUpRNDVzOUE3M2wyWUNVTnVkaWNwSEdqOVA3MHdqUEdQOXRsUEtzUlJ3TGdCVTlibzVUdHBNOXlFZmJwTDNKd1JGS3VqS09aWTdBdWc5LTVwWnBLNFVHQW11UEZpOXZlOXdJSjd0VDAzcElxZ1lXUzdieVRkdzRNellzZVd3YTQ2aHM?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeTFZV2hjYzlabUJmdnJ6VDFFcG9sajFPWm84cDY2VGhSYmxtZ2FZVWRhMktMcWJTUHBuelVwbXAwOVJ2N0d3c1FCZ1dnSS1MQmZUb242SVlSQzJWbEhXNS1zLXd2N3hpVFVFQkVjZmk4eElkRW9ienJOTjVseDhMcTJ2RDVZQml2VGZrSC10R3JhbzJtV3BNNWlCT2g2WHVWeTNxMXdYcUxmUTBlb2xoVFZrMHk2VGdBR2Rscm9COE1HM1FFd2ZRNm9qOW01T0NsajZyT2hMdGZUQ2VhVmMzTmVkWTZQTkc1ZXc?oc=5"
     },
     {
       "headline": "Abbott (ABT) Stock Looks Like A Bargain Below Fair Value - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV3pHY0xhTFFEWGtsUUFzNUt1YjZjRFBVcFhaQVo4cjMxMExybjYzZEJScnFUZ2JINU9kcl9SV3c4aUx2UjBweFFZSmVUMEJJMk52TURRV2plbFBQY01sRkQ2aU96QXUwdVdYX0RRSFlDVzZCTi1ud2FxVXV4M0w0eGo3MF9WQ3d6MURTcVlGcmwwVGNZaUVYUVFMVQ?oc=5"
-    },
-    {
-      "headline": "Abbott Laboratories Lost 16% This Year: One Analyst Sees 35% Gains for the Healthcare Giant - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUTZHNG9tbFQyZGZSX1ZBcTFkZkxLRl9zS3VLR2g1MExHcjFkNGZIdk9YQUxsSm4tYVA4YUs5NHZqejg1M0pRRUo2cjZpQlUtOUNSTXFkb1lidm1UY0d4ZTR5bHBYUVFpdVE2TXBvQXJXLXJCSG14V0s5V2RGRkJFS3M0QXBBcHh3X09ENDZxLUlNal9mN3NsOHVmOVF6RG1qRVpDc3RTY3hWU1RtZk1FbGZ2bTZGTE1LOEpNdEJ4TWJ4YnNPSmpiekljd1A?oc=5"
     }
   ],
   "insight": "Tracking Abbott Laboratories (ABT)."

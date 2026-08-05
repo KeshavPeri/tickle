@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:07.837Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:11.371Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    251.05999755859375,
-    261.07000732421875,
     254.75999450683594,
     254.64999389648438,
     252.74000549316406,
@@ -24,11 +22,11 @@
     263.20001220703125,
     263.29998779296875,
     257.4100036621094,
-    250.94000244140625
+    250.94000244140625,
+    245.10000610351562,
+    243.8000030517578
   ],
   "6m": [
-    218.11000061035156,
-    219.25999450683594,
     220.77000427246094,
     223.92999267578125,
     218.6699981689453,
@@ -158,10 +156,11 @@
     263.20001220703125,
     263.29998779296875,
     257.4100036621094,
-    250.94000244140625
+    250.94000244140625,
+    245.10000610351562,
+    243.8000030517578
   ],
   "1y": [
-    197.19000244140625,
     198.5500030517578,
     196.3000030517578,
     198.86000061035156,
@@ -410,29 +409,31 @@
     263.20001220703125,
     263.29998779296875,
     257.4100036621094,
-    250.94000244140625
+    250.94000244140625,
+    245.10000610351562,
+    243.8000030517578
   ],
-  "lastClose": 250.94000244140625,
-  "oneYearReturn": 27.257974204839048,
+  "lastClose": 243.8000030517578,
+  "oneYearReturn": 22.790228811129392,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "AbbVie Earnings: Maintaining Our Fair Value Estimate Following a Steady Second Quarter - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOEgyTmpXWnk3a0NaamE3R1RvaEtvM19ack1TSmJhRFVaMk50a1hMNmFXUXlfbm9lTmdlZkxKeUpvallXZENMR3VOOWVOTk1JYWR6Zk5MT0p3a1k5R2RqejZQdE1uZE5qWkx6Z1EwVEltV0ozWjlDVWRxWldXemgwOUp0UFdfR3R1SkJTd3R6bVRqZDBKYTVVQjJBaU8zN3hMSi05V3F5MmJkb09FbF9BU1VZZV9BSmVpa0E?oc=5"
-    },
-    {
-      "headline": "Why AbbVie Stock Slumped Today - Yahoo Finance",
+      "headline": "What Are Wall Street Analysts' Target Price for AbbVie Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2FTbjF0cUdmS2hpRTlLQWxJMHV1dUpyLU5nYWxyRzNQZUdMM0F6cWN0RDNITVRXa3RJLWNEaUFXQjk1cW9mMnBEeG5MY1dwbFZGR2JicEdEMVd2djQ5OTRESkVlVW5qa3hmOW51a1I3MUktd2d5Sko1ZVdGejA2X21zbVl2M2EteGVaTERSMVRpaGlOYW0wWE84Yw?oc=5"
+      "when": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONHEyYVBWaXlKV0tjRUJNLS04dHphM1hTMHBYTW5SMlhrY3NVbzR3RnpYc3BUZ1ltYzd4VzFuZk5CcC1iS3k3WW9INXBkU255YjNxVDk5OGNtRDZwZFdEZm04QmNLcFB1V0JTMUpGY0dLY2hWWW9YVkZ0SkI4dTZoemszaFNueUVtMWJEbkp6S1lHeEJ1MWlVV01jQmszb28?oc=5"
     },
     {
-      "headline": "What Are Wall Street Analysts' Target Price for AbbVie Stock? - Barchart.com",
-      "source": "Barchart.com",
+      "headline": "AbbVie (ABBV) Lifted Guidance, Has The Market Already Priced It In? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQkhTd3pGRE1MbWFzTnBFckFfd3dYcWVuOWJDMkJ4dlRtR0RBQlBBX0lpU21takphSUN5UzRMbEdrcTNXbFFUWm9mOVRQQ3FtcjUxR1NqM2dqOVRnRGREZWZLYXVRMzJYV2NDVzZOTFBDMVI4amJ6SUdhYmpsMGFubjVPLVhlT3RTazRxWlBpcUFUVE42ZzRrUnVESzVZQV9uOEVSMXFmd3VJdFh0TTRla0ZqTlNQOVpkZ0JQQW94b1FMVjFRdWVaLUxaQzRXV2h5UEIyRFppbzFjUdIB2gFBVV95cUxPQkhTd3pGRE1MbWFzTnBFckFfd3dYcWVuOWJDMkJ4dlRtR0RBQlBBX0lpU21takphSUN5UzRMbEdrcTNXbFFUWm9mOVRQQ3FtcjUxR1NqM2dqOVRnRGREZWZLYXVRMzJYV2NDVzZOTFBDMVI4amJ6SUdhYmpsMGFubjVPLVhlT3RTazRxWlBpcUFUVE42ZzRrUnVESzVZQV9uOEVSMXFmd3VJdFh0TTRla0ZqTlNQOVpkZ0JQQW94b1FMVjFRdWVaLUxaQzRXV2h5UEIyRFppbzFjUQ?oc=5"
+    },
+    {
+      "headline": "AbbVie’s Growth Now Leans On A Single Molecule - Trefis",
+      "source": "Trefis",
       "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkNFVVA5T19FVmdpcU1PaEptVG5vaGFvek9oSFZ3MTBFUU1XMUg3S0RaemJKOWpfM0ZsSHVBR3lYZHFaU0NkX0tFNV8wMjJYbzczaVBvREMzVUFxNjNidTh5Q0lHdlFVM1Fxc0l2djVVcndjblBJOWlJSjdvcmk1bGE4cFNvbG52NEM2cHVrNFA0TDdoTHc5T0tPV25hSHZSUkRscWFB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMHlIU04wNmFCMFZyeEkyM0dXMjktYm51aDF6QU5VcFFJdGN4Y01RRWRCZzJMM29oM2t2Ui1BRmdlQ1MwWkJPenNHNXJ6eUN2WlpkcldvWjVYM3lIbkZoNEt5V2tSWDc5bjE3ZG5VVjYzR0RFZW8yQmRULUNSVEpaZzhuX2ljRno4dXM4a2txWUs3NjVHRW0tT1FJVEZReHhXajg1SFJuSkdqUQ?oc=5"
     }
   ],
   "insight": "Tracking AbbVie (ABBV)."

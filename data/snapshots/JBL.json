@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:39.172Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:40.697Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    375.3399963378906,
-    341.29998779296875,
     338.2200012207031,
     321.0799865722656,
     325.2099914550781,
@@ -24,11 +22,11 @@
     302.95001220703125,
     287.1400146484375,
     308.5199890136719,
-    315.04998779296875
+    315.04998779296875,
+    318.3900146484375,
+    340
   ],
   "6m": [
-    244.6999969482422,
-    243.13999938964844,
     241.80999755859375,
     242.27999877929688,
     243.6199951171875,
@@ -158,10 +156,11 @@
     302.95001220703125,
     287.1400146484375,
     308.5199890136719,
-    315.04998779296875
+    315.04998779296875,
+    318.3900146484375,
+    340
   ],
   "1y": [
-    222.2899932861328,
     219.61000061035156,
     220.67999267578125,
     220.49000549316406,
@@ -410,12 +409,20 @@
     302.95001220703125,
     287.1400146484375,
     308.5199890136719,
-    315.04998779296875
+    315.04998779296875,
+    318.3900146484375,
+    340
   ],
-  "lastClose": 315.04998779296875,
-  "oneYearReturn": 41.72927136105259,
+  "lastClose": 340,
+  "oneYearReturn": 54.819907588476966,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Jabil Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZDFhUzctNzlZX3FZakpjSmlqSWhHTV9fWkhYcE9LbFdib2h3Q3FsSUh4TmRmc1ZWaVJISEpWSERBaEItMUZ6MFk2OXo2X0VCUmcweW1RT3B3R1IyS1M4ZUhpclUwT0FSeXQyZWNJN1JMOWxvLUstRlE2bFlnYTRUc0M4NnBpRzNGYS01TkJuMHR5QjZmM0RYeXRrUk82UDlPQ0YtNk1kcTg1c3ZlYTMyT1Z3eXFYTHZlbVJwZGtKN0FmRUNzZkRNUTQ3N2ZTQ19KVFdfbkln?oc=5"
+    },
     {
       "headline": "Jabil (JBL) Stock May Trade At A Discount On Cash Flow Despite A Very Large 5 Year Gain - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcjI1UndEc2tqVjkzZVNwSDVWM3RKTEhwYWNNUkQ5NmFjaGFOTkFLbTRMeVpHWXItQ1NhYnNjUmpNMWg3WGhtUUJ2YzM4S2s1cWpHMWxFQThOMmtuV2E4VjRHVUhlb1lZQVVhU3VlY0hnZVdocDFybEdVcnVMUjMyRU5va05QYmVodWJfckRUZm5ORXVi?oc=5"
     },
     {
-      "headline": "Jabil (JBL) Earnings Beat Puts Its Valuation Back In Focus - simplywall.st",
+      "headline": "Jabil (JBL) Stock Still Looks Reasonable As Its 437% Run Continues - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWlzUEJ2LXctUWVlNFBJOF81ZGRWY3dVNHRrSWU5QWpMamEteU5MeGVuYXgtbTF0S2lNcFFna0h0X2wtR0oyOXE2WmNrX19oVmRjVy1LVkQ5bXZYMEkxZFBlZ2FyeUdnSjNNZ0FZNkZpR1ZVNXNUZjN3blJqb0R2TXpZSi1rZXpVTGdyREpYbFgwWGpQMktzcXBnQ1VvRE9UVjFiNWxXRHFBaGxTcHNFbnlrMNIBuAFBVV95cUxQZ0VHeGctWlRMTFdMbzFkNUdKMHpfeWg3LUxwY3phazRCRFBJQmM2WjRXVFRGZkNpNThXX3dGYVN2Y3B2R1hMVW9LWmZ1N1MyNDExbWJSM1NJb0Y0OE1tM2RnZzNRa1hqa3RtcFpGbkJicjRyMGdWUF9MNllCVTdCZjhwZEc1QUhSN0x0QzVnQ2wzLUJfYkxxVS1JbEN5V3hlOVRuM2NlRUlFS3YtcmpLdW9Sa3R3RC15?oc=5"
-    },
-    {
-      "headline": "Jabil, Inc. $JBL Shares Sold by Pacer Advisors Inc. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzJpMGRWcGNkalBJMjBSbTRocnc4eVVuQVBHT0FWNDlxWWpfMG0xT0pNOW5iRnNLZ1NKdmNWdGZUWmRPTzM2alV5dTZ0OGVoeGtUZVhKY0l5UHg3MXpDNFQzdUowZkhJa2NpX1BZT3AyZDhEQmFHaUwwY19ybzFhRnBHSzV2Sk55WHBVcndPU1lBYTZTekZyTWVqRDlWT1llR3NCWk96WHRtMFVK?oc=5"
+      "when": "2026-08-02",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbk9QZjVnYkMyb19PVm04YVdJVGNpb25MekIzd3gtNE0wc2Y4dnp1NlFIQUFYU2JoNmRGYWhJSzlSMXdmN3hCWUxKaW1iUWExUnYxTmpOTXJPWW81SjVNS09QaEZ1eF9DWVFuMm9DYjVDUkNxRnhORVBTYlF0dllmdmhqQ0kyTHB5WGM4dVNGUFg5NTRNNDQ1VUt2OVFhdGNYTFVDMXJJdlJHNU0xOWN5dm9kNmFJa0tP0gG-AUFVX3lxTE0xQmFIelRBVUtVUWROSW91ZkpZV1JxcXBkRk91dEhVV3c3blo4WEpZV1NKVEtxZF9ZTGp0eUtaWmkzb0xkanRMeUpIM2ZHUXVDRVBhQUktV1hMcG1rNGh4NWRXOXNBVFNNdS0xYktzUE9vTFdfYl9pX0NCUVAyZG9wcmwwZmwzWkpqdTJyd0tuWkF6UmIwejZVNjExaWNsYUdDZWJyTEtBVzg4ekxBU2tZQnJUdFFfVHpkblNxanc?oc=5"
     }
   ],
   "insight": "Tracking Jabil (JBL)."

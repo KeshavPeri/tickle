@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:52.554Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:53.161Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    173.05999755859375,
-    177.52000427246094,
     181.7899932861328,
     184.72999572753906,
     180.13999938964844,
@@ -24,11 +22,11 @@
     182.38999938964844,
     181.52000427246094,
     173.33999633789062,
-    172.7100067138672
+    172.7100067138672,
+    177.08999633789062,
+    177.2100067138672
   ],
   "6m": [
-    185.38999938964844,
-    186.02999877929688,
     187.9600067138672,
     184.49000549316406,
     186.25,
@@ -158,10 +156,11 @@
     182.38999938964844,
     181.52000427246094,
     173.33999633789062,
-    172.7100067138672
+    172.7100067138672,
+    177.08999633789062,
+    177.2100067138672
   ],
   "1y": [
-    241.00999450683594,
     238.92999267578125,
     239.22000122070312,
     242.92999267578125,
@@ -410,29 +409,31 @@
     182.38999938964844,
     181.52000427246094,
     173.33999633789062,
-    172.7100067138672
+    172.7100067138672,
+    177.08999633789062,
+    177.2100067138672
   ],
-  "lastClose": 172.7100067138672,
-  "oneYearReturn": -28.339068648471137,
+  "lastClose": 177.2100067138672,
+  "oneYearReturn": -25.8318285078867,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "T Mobile (TMUS) Stock Looks Fairly Valued On Raised Cash Flow Outlook - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM2d6SUd4VktYUW1CTXpveWhsdmViTld4OEx6N09hQ2tvbWk4Rl81dTBxMVhBVDhqZ2FpMnp6MUNQYUdlRjhaNTUtUEZoclZGX1pHdXNtMVZ4R0FfYXdvYmZNelNhcEd2QmIxMk5NZWp2YVNZeDJYV1p1aWYtc0RETTUwN3ZFcHdKSnRQQUcyYnl2SGp2N0NpZ1Bid2FsV0s3UVVVb1kwOTMteXNjWVJKMW1MQnVPaHJwNVoxUWdBUVNWMEFrbEgw0gHMAUFVX3lxTE55OGFMemlIWVNpODlGeEhaZXZaWkpycjhJOTV5XzRjaTZmZ1Z1LU9qRjltTzVfLVRabHJybTB0eWZIWTB6c2NkZ0ZZUzdHbkpNbzc1OFRuWkhVdUtrRWxkc2xtQXpZQUxrRmNiX282eGpFYWpEUTZIdW5tQlpIa2VhUjBaSGpyX3NhYVZLdkx6R3dPN0tWaEFrdUs1WTV2VFVwa2tJUFBvWEZyVlY5Zk9uakNDZ240MHo3eVU0czZVN2t4Z25aNE1ZWVJGSw?oc=5"
+      "headline": "AT&T, Verizon and T-Mobile Shares Fall as SpaceX Looks to Capture Market Share - Moomoo",
+      "source": "Moomoo",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcHBYbm5odmNHbWlpZXJ5eWMzSHlmd0lwWHdHM21yNEhJNkFmZmktOXVZTC11amlJa05hUzZKNGhqVzd0dWU2a1RHSFhzWFJOeUU1THBRSWVzOVEyQTJLQ3AyZTBUblhUTlI4cmVESlJZWkZtdko4dE11alpvRV94QUZfa3ZsWFgxSERhOWJUTHRXVVk?oc=5"
     },
     {
-      "headline": "T-Mobile expects temporary hit from new pricier plans - Reuters",
-      "source": "Reuters",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0J5azlZbEJLaGI4dlFlYVpLRHFwQW9PNTBRTVBZN3lXekVDNmlTQ29rSy16RHFIeEpNbGlqOVpUdnA3ZWk0dTVObVFrX0FtUTZCUkJOTDlDOGZYcE9ET3hGTnQyQXY1QllZcG5vMUEyb20zaUFLUXdpM3prSEpMN2ktZnFZUHplR2pEWXdzY1hJM3ZiUnZYY3lCSFRKc1BneEhVVDlzUEpqaWp1djREQjJodUI0SXZldEZTM1pmWVBWTjR5VWQza2lR?oc=5"
+      "headline": "Should Investors Buy TMUS or Wait for Better Risk-Reward Ahead? - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUmVpU3lXRkE1QzRxNXgwV0lmMnJtQVlYTy1vUkNlNnRjc3B6eVdvNjlmWWRjejBiRmNGdkhmaVpZRU83SnJvMUpOUTFaaERHU0JfOUt2M1lvaUUtbFgydGJRWHhtLXFkZGstOFZ3SzhKOVJ4VUtIaTBIcFVCSlZDUkJQS2ZET2Nxblo5eERSUF9la3lNaDdkS1BueDRzYXBud3Z4LVFoWVIzaGk1TVV3cVpvSDZwemQ3ZUE?oc=5"
     },
     {
-      "headline": "Pacer Advisors Inc. Has $368.66 Million Stake in T-Mobile US, Inc. $TMUS - MarketBeat",
+      "headline": "Dodging Deutsche Telekom: T-Mobile's Strategic Win - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2ZDX05uTy1PSkZLX0tEdFVVQWRMdkhPSnpfZFJaeTFOdjZpQW1vNUxLSFZtSGlQWDRXaVJnazRVaDNEcHlvZjVlUUpvdlREdHNFOXl6QlN3UlBpMTZVcWw1Z2NQa2JPdEd3dFVkS011LTk5WlNhOVctZGlRdGhmSzlXcEtYZUh6cW9GZmJjcVkxcDBER0ZrWUNNMlZvMDkteDIxY2JMdHI5VkVNdzhRY2pMTlhFcVFjUnBOVkNsTkFHejhyV1E?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNV9haGtnZ2JmeXkyVFpGbWJTQkduS0FZb2V5V1VEM2w2Sm10MFZCOGJWSnJEQ1YwcEtMNFpoVVNWZHZOWjQ0ekE4NE9iN2gtSGVNazc5MEJQeU9nNmdtaHJ1UURWZlB3S0F1akZJVlBmenFTZ1c5VUgtd21OVVlWZ3ZqWmhUX2ZBLWQxWjJB?oc=5"
     }
   ],
   "insight": "Tracking T-Mobile US (TMUS)."

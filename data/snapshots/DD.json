@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:23.442Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:26.187Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    138.47000122070312,
-    139.91000366210938,
     141.0500030517578,
     139.61000061035156,
     136.97000122070312,
@@ -24,11 +22,11 @@
     140.77000427246094,
     138.10000610351562,
     138.83999633789062,
-    137
+    137,
+    141.27999877929688,
+    142.92999267578125
   ],
   "6m": [
-    131.3699951171875,
-    132.4199981689453,
     132.60000610351562,
     133.8300018310547,
     133.88999938964844,
@@ -158,10 +156,11 @@
     140.77000427246094,
     138.10000610351562,
     138.83999633789062,
-    137
+    137,
+    141.27999877929688,
+    142.92999267578125
   ],
   "1y": [
-    89.00836944580078,
     91.12970733642578,
     88.87029266357422,
     88.97071075439453,
@@ -410,29 +409,31 @@
     140.77000427246094,
     138.10000610351562,
     138.83999633789062,
-    137
+    137,
+    141.27999877929688,
+    142.92999267578125
   ],
-  "lastClose": 137,
-  "oneYearReturn": 53.91811000809583,
+  "lastClose": 142.92999267578125,
+  "oneYearReturn": 56.84236990701954,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "DuPont de Nemours Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "DuPont Earnings Were Strong. The Stock Is Down. - Barron's",
+      "source": "Barron's",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JLXUwX0cySjNpOVNlQm4zNExkZU5fWnpyWWV4bmRHQTBHZ2pvVmJiTmF0LVN0Z2o0cHdEeFBja1pySzNUVjVldmpPM2dOb1JfWFpYczhsYWgwZEk4UWg1Z003SXhCRGVSNEtQb3RJb1pJeWdEc3NNUg?oc=5"
+    },
+    {
+      "headline": "DuPont de Nemours Inc. stock rises Tuesday, still underperforms market - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ1Z1bW5RLUg3Y0FEM0JjNEs1M3k4MUJ5V3ltblFtMkx6czl6MXRZV04tMFMzNWVMQ2hmMlp3d3dpMWlEQUF0clh0dzFvYTFNTUNKU3JLQ3hHdEVqYS10TXFyY1gyOGJuLVpTRVZQdW9WY2hxUWE2djJnVXc4RG82MkhwbHpEY1ZjNXRoQ2NwZnlIM0ZhUlRxcjM5Q2F0LUZaaWtQcmtIaXY2bW9uaFNyYTBLVk9yaEhlLXIyQTcydGNIaDFWWnJ1NWhoN21FRGZSZnBRR0pyUm1FbEFWSDR6cU8zckxHUQ?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWUFpTloxNzZwRzljanRjZi1KQlFLQ2pwa3ZSaEc1ZkNOVnZuT0ZPa1Qtc2hQZnhwQ0p3eDgya0tBakd1YkxVSnVRdS1pczdMaHRSLWpTQ2w4bm5TTTFDOEJ1TVpybTQxWjZ3U2xyTl9USWlKRXV1aEIwcHBZMVVvdzF6VHZvN0tlb0d4ZTJDY1hsemo5ZGE1cmZVdUs2TU9NenhHd2NralBfX1B1MDJSWWQ3d08zcVZsNE1xYVBvTUw2R21ScWM5dklaMVlPMGNaSE43b1NQZmdtbm5KWDJV?oc=5"
     },
     {
-      "headline": "DuPont to Report Q2 Earnings: What's in the Offing for the Stock? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbUZRMHZfLURyajFVNkFnT2l6UzBqaTVfWUFmNGtvY2NERjJQWkxocnNzb0lDbE1rWHFhRXdaZUwwWFpzQ01fZ1ZJSExsYl9Pa3N1T1ZZaXVjd3JPbG1SY1FXTk0wX1plOWw2RFVvQkg2MFYtaHFxeUtOUnNrSjlQeDdXejZ3enZxeGJXYzJhNjFyMkUxZmc2bXUxQzM?oc=5"
-    },
-    {
-      "headline": "DuPont: Updating Our Valuation Following Reverse Stock Split - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZlpkejY4MG1jTlZuZlZ0T1VMem1IM0Z0VUtleHA3ZkoxaHBPemhHMVVJQUNGczRxMmxFLVhFRVM1N2l0cG1Pal9Lejc1cXJueXBLT0gyeWtzMloySFEzSkRKWG9pSFptQnJaYXlEYjRteXBsX2ZFMVhGMzlGZ0V0VENxaFlmd1c1amdZMWxDV252aXBjOEZRa0Fn?oc=5"
+      "headline": "DuPont narrows annual sales forecast on water business weakness, shares down - Reuters",
+      "source": "Reuters",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTk9GckNiTUNodFhOdzAxX3kwMGlXVmxxanJhd2o3UWZ2UkZmdmxxWGRhVDAycmdrUlQyeVF6WEFnSkhNTjJvbVgwakdYNkdvdUs1ZTR0Ml9MMTIyRDZaVGhnc2M4a2MxY3RwQVFmQ2pxdk9qb2ZsQUp2aEUzb1BlRDRaRVNnQTFCbmppbTdZTkN6dGcxbWY1R0Vablp5TnlLaTRDRWdGMzUxek1vU0ExQW1aVWs2OTJjVUIzMHpLTXNwWEk?oc=5"
     }
   ],
   "insight": "Tracking DuPont (DD)."

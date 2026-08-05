@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:21.159Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:24.013Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    28.790000915527344,
-    30.010000228881836,
     29.239999771118164,
     29.270000457763672,
     28.59000015258789,
@@ -24,11 +22,11 @@
     30.690000534057617,
     30.81999969482422,
     29.56999969482422,
-    29.1200008392334
+    29.1200008392334,
+    29.350000381469727,
+    29.399999618530273
   ],
   "6m": [
-    41.27000045776367,
-    41.400001525878906,
     41.540000915527344,
     40.369998931884766,
     40.619998931884766,
@@ -158,10 +156,11 @@
     30.690000534057617,
     30.81999969482422,
     29.56999969482422,
-    29.1200008392334
+    29.1200008392334,
+    29.350000381469727,
+    29.399999618530273
   ],
   "1y": [
-    45.7400016784668,
     46.54999923706055,
     47.11000061035156,
     46.11000061035156,
@@ -410,29 +409,31 @@
     30.690000534057617,
     30.81999969482422,
     29.56999969482422,
-    29.1200008392334
+    29.1200008392334,
+    29.350000381469727,
+    29.399999618530273
   ],
-  "lastClose": 29.1200008392334,
-  "oneYearReturn": -36.335811607671324,
+  "lastClose": 29.399999618530273,
+  "oneYearReturn": -36.84210504750425,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Copart's New CEO Seeks Faster Growth - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2tReUdQTGRVa1ZpZExsU3NwTlcybkpnRXRwYktOVVNGbmNxSHBsbzRiR2tpNzQxY2ZNSHRUVjVHYlpqZC1nQTFtWHB5ZjZ2SXVPRWJRWDJJc3ZJZzFDcFRxV3FEbmcxVkFpaHZSM0pqbW1kQnNMaU1rZy1vSTh6TDc4c2NaU1Q3dlZLQlZiRnc?oc=5"
-    },
-    {
-      "headline": "Copart, Inc. (CPRT) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+      "headline": "Copart Stock: Analyst Estimates & Ratings - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOei1SZ0VzN2cyb183MEY3MWQxNlQ1c0RUbks2bTFRZ09NSlNlU3EzYzRybDBWazJvdGxnejNCMHFERjg5bzNGbHpnV2JfSkVvQUlJdWF1NGF4bERBbE5ZMXFralNGN3NtOXBLY1IxZDJWalZ6XzZxRzluT3lROFM2LUFYT1c2NzZoQkFfVnphdU11d0NLMUhN?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUk4dUs2dFRzd0IzSEMzYU1fcEh5YWF5Ykk4WmJrMjdhdEpja0dOWjdnYXlPZjI0SUlyYjdReUVHbmhTaE1GRlJnQV9JODA1TGtyUFVEX1ZSNWg5X1RPaDRsajJhVGFqMXF2UUpKcFlMM042cXlibklNOE9YdkF1V0R2TlVocWF0TFNYU0gzZm9iZThVY3BfUEFSSzdlaDgtdF9Ia1hR?oc=5"
     },
     {
-      "headline": "Copart, Inc. $CPRT Stock Holdings Increased by Pacer Advisors Inc. - MarketBeat",
+      "headline": "Rathbones Group PLC Buys 65,355 Shares of Copart, Inc. $CPRT - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRTliX014Y1VvVTVmNkdVOHlpMVBoTzNtaXRSSXZCTTZoS0REN2tDa1ZxMTg1NjVIaXZyajMwTUM0b3V2VTd3UnY4SkRBNFZqandITm50TmxLZUpvcjR0Z0NleC1BeWpOLUdEdzN3OFViN29rMEYyUGVtX19Vc3lNYU8tcDd0LVpDWXJyRTZucU00ektiLWg4QTFzdE9yN000cVBwREZ4eG5OcGs1N1QtR2JOLVFkbHo3b0JUMS1rbkE?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUDlEb1NwazJ5UlNPT3ZQaFd1VnF6MVZENkNiS3U0TVNIREdoVzE0WS1hQlBQT1dtWTA3MlFGWWxNMVpTY0lwM3N0Q3pBTFNYSjEwT2NoSVlOUjVvZmtmVllBQTJJQjJFdTFyMUNXQ2dQS284WmljYVNTWWlBVDB4SUw3Z0V0V2tPOUZjcWNpeW81RW00Q1NmZGw2RlZiSVNTMVBTLWR1emRWTnowYUZnd0NPLUxBOUtY?oc=5"
+    },
+    {
+      "headline": "Copart Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa185UG8xNjI0QUdfNzJJSXpYeHlsUTlOM2VlT1lrTnFtbC1PWnVJWHZXeG1rODNod0VEZ2R2LXBrVHo5eVhRWUNKNkpGNlVhV09JSUhvU2JDU19zUHFFUGZmQmdSSHo3ZmhsSlJwdTJkODNsTElBaVpfbFJ1ZGphWVdSX2RSWmRaUzNKU2xPUUlLa3BJd1M0OGdaMGJvc1V2Uk9ZVm9lU2ZFa0RZU25uMExrOUpOWHA0NlVXekU1eFVUVVNH?oc=5"
     }
   ],
   "insight": "Tracking Copart (CPRT)."

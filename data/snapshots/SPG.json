@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:50.275Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:51.391Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    223,
-    226.05999755859375,
     225,
     227.19000244140625,
     219.08999633789062,
@@ -24,11 +22,11 @@
     236.6999969482422,
     235.61000061035156,
     230.44000244140625,
-    229.3699951171875
+    229.3699951171875,
+    229.16000366210938,
+    225.89999389648438
   ],
   "6m": [
-    185.10000610351562,
-    184.72999572753906,
     185.3300018310547,
     184.55999755859375,
     183.75999450683594,
@@ -158,10 +156,11 @@
     236.6999969482422,
     235.61000061035156,
     230.44000244140625,
-    229.3699951171875
+    229.3699951171875,
+    229.16000366210938,
+    225.89999389648438
   ],
   "1y": [
-    163.94000244140625,
     169.30999755859375,
     167.52999877929688,
     166.35000610351562,
@@ -410,12 +409,20 @@
     236.6999969482422,
     235.61000061035156,
     230.44000244140625,
-    229.3699951171875
+    229.3699951171875,
+    229.16000366210938,
+    225.89999389648438
   ],
-  "lastClose": 229.3699951171875,
-  "oneYearReturn": 39.91093796595896,
+  "lastClose": 225.89999389648438,
+  "oneYearReturn": 33.42389531268306,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Simon Property Group Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc09sc3JXVWhfR3h3WEZtNTRHaUdtQjFfYUJVVGZpdmMtNHdDNzI0eFRKTEtSSzFWczg3LUx4S3hkWDBZN1dVNmF0NDlQbVhNU2ktUmtRQjI4b1ZmS2w3dkREOWp3Y19WMktOOWo3WDA4SEpTdG5RaXpLWXNEM1N0LUtBb2FURDUtZG9BbV9fbjB0RHU4emhreHdfcHoxdVEydk1pZU1FSzNDVGRnWFF3czBPQVFWa1EzY1BwQmV4VjdyQ1h5UE9lVXluNk00RHZITy1iQ2hnd1ZsY0tVcDROcWxpNllVUnpyNjZVb3Aydzg?oc=5"
+    },
     {
       "headline": "Simon Property Group (SPG) to Announce Quarterly Earnings on Monday - MarketBeat",
       "source": "MarketBeat",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbXh6UFZsRXBrb2FYSjZCd2JqZjFId1V3NWZNWVpRVlZsNlR1QVhGYjFENmNCWFlUTHpHcXNaN2VsRGFwSFAtcTlSVzBjbWlfWWVnQlRFVUFWQXAwU3hfaWlkc1ViS2pTZzc0ZlVwLWlvM2hZaGpkQjdZeUdwcHFxT0NWZjZxU3FmTGpYMlltX0NKWkJKMHJCUlJnSzNxcF9mUnUzSG9Jcmczc05FLTJFQWl2eXVoOGFLRkVJ?oc=5"
     },
     {
-      "headline": "Simon Property Group (SPG) Downgraded at Wolfe Research. Here is Why - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXphSjRuVnUwT1N2dHpRZ19VWVRadjRpcTA2MkpoclVGVENBRzRLY1Rmc1ZoV0VBQXk0ZGZ0NUhFOHI0VHpRd3ZKNHBudEJ6ckQwaHZiR2lWb0Q4bk02ZDZQUl95LVd2YlEtdk9BYXgybEVhZjVQaDFGNDhLeEtWSXNDWFkwblVWSHNVTWdzcGlpNklpWFh1Y29IOHljV2dnc1E?oc=5"
-    },
-    {
-      "headline": "Simon Property Group Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWHBiNDQyeUJpeHkwdlRZaTdRSkpKTXh3ZkpSckY5OHdsZndCMEZoRE5FYzJJd0JiY01peXZIUW5zamxJSGJUNlNqUS1GcW8tb2dnWVdadFhDUlB3dUpERzlyOWI1dE8xbzlBT1F0ZEpuN3FXM3hGX2twWkZtdUpFeklLS2tPYm5UVl95X2hNUmZSTXB1ekxPaEgwRFFRMEx2a18tUVhKTjB2OUxMeXhTdWJGYzFUdWRsZWdxajFMUHZ6cVFkZHNQT2NncDl1NVpiYlVXQkNJTWNKQzBZZWVlcXVyQ05RdVBac1g1UmgwVnBzQQ?oc=5"
+      "headline": "Simon Property Group (SPG) Stock Looks Reasonable On Cash Flow But Stretched After A 136% Run - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZE41TU9lVHEtN1hiOThNZjNtWHpNY1ZOV3BqTkJlZEMyd1R3NnI5Nzc5MVZGNUpJTDc0cDhsU1dwamMtbGQ0d3hzZVc3OFdsM1dWR3FkMjF6aEE1QktjUUlkSzVKS1JvNnNBM0lIcHJ2VjZlQTBlSDhiaTFhalJxSnh5YjhKSnBYYkUtVUFfWXZuX1Q5VFB1ZkNreUNuMHFjbDRJV1laSXJpa1BDekpvZXpJQ196Wllyd0MwNHdaMWh2RFE4R3JMa2hrX2xHTEh2dEZYcTRB0gHbAUFVX3lxTFBQR1BNVzFucVk2QlRNU3lXeC1NVm03OWZ1dkhhb0RNbFB0M1dJaUJIbVlsaUhzcUFFUVlTWFlwM0laM0laemR0YmEyQk9CTVcwSGI4QWdRN3hpS2lKN3RIZkFtZllyckFJY0hiMFFnSmo5TDBNckd2dFlEbEZZejZlbS1NQ3Z4ck92WDFldy1YMGJyek9YUUpGejBYWWRiTFVGSU54U2VxNG5rMXdjeHppMXlRR01jREphcDBNYXRSdXdMQ09qYTU0NnhubkQ5aGcxcVBQRno0RG44Yw?oc=5"
     }
   ],
   "insight": "Tracking Simon Property Group (SPG)."

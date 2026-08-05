@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:46.345Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:47.494Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    94.62999725341797,
-    91.22000122070312,
     94.69000244140625,
     91.0999984741211,
     93.79000091552734,
@@ -24,11 +22,11 @@
     84.38999938964844,
     78.86000061035156,
     83.73999786376953,
-    81.61000061035156
+    81.61000061035156,
+    80.4000015258789,
+    80.77999877929688
   ],
   "6m": [
-    63.06999969482422,
-    61.97999954223633,
     61.130001068115234,
     62.630001068115234,
     64.93000030517578,
@@ -158,10 +156,11 @@
     84.38999938964844,
     78.86000061035156,
     83.73999786376953,
-    81.61000061035156
+    81.61000061035156,
+    80.4000015258789,
+    80.77999877929688
   ],
   "1y": [
-    47.970001220703125,
     47.2400016784668,
     46.97999954223633,
     47.59000015258789,
@@ -410,12 +409,20 @@
     84.38999938964844,
     78.86000061035156,
     83.73999786376953,
-    81.61000061035156
+    81.61000061035156,
+    80.4000015258789,
+    80.77999877929688
   ],
-  "lastClose": 81.61000061035156,
-  "oneYearReturn": 70.12715975318741,
+  "lastClose": 80.77999877929688,
+  "oneYearReturn": 70.99914460019689,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "ON Semiconductor (ON) Stock May Be 8% Overvalued Despite Earnings Nearing - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONkZvNTNvMnh6NjZBZ1VubW1PUldoZ3Q2eW40NUc3ZFZ4UVF2RHdzMkphYWQ1NmFmMVA2d3BzR3VzamFPUnFmTzh3NjlPRUFOODJnUzN4dFBKckp1X0dqaXB5VkF6elpnMFphMG5iRElkQTB5eUdMNUNpWEY3ZnNtV292WDFzVkxfOGpSRkw5R3lBYWJsUDdJSEFVelhWUFcxcFNr?oc=5"
+    },
     {
       "headline": "On Semiconductor Rises on Solid Earnings Beat as AI Data Center Revenue Grows - Barron's",
       "source": "Barron's",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjBZVVF0RnlQTFU3WURXTjMtRFZ5MVJRUlFKSFM3S0JIbTdjcXZkWnREVVFYSFNORXVxanBIVUdDUXpaRU5QRHA4QklreTJnM3dRcGNMcTFXNnlYSVRtSVRSVnROdjhhaDYzR3JmY1dyVHpBMVdxS0YwenQwcEs2b2g1cldHdw?oc=5"
     },
     {
-      "headline": "Stocks to Watch : Palantir, ON Semiconductor, Snap, BWX Technologies - marketscreener.com",
-      "source": "marketscreener.com",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVnZqQW92aTdJcG9OQlAtWVVnLWJXaVY4Q29VV1p0M0cxOXJHWERad09ZN0JfU3hvU0xXNS1jUEV4VFB4RldkbERuaWlaOHJGV0UtdUxMeFNCcUJNUmxBSXloZjRBQk80SGltTnRlcVpldkZlUWJ5aUh1MlpWZHNEV19zdm01eVBWbDVEZ2RqQWpfODYtRk1RX3VYakFJZF9SNnVTR1habEVob1dNR1piNlNlWHNyaWs?oc=5"
-    },
-    {
-      "headline": "Earnings call transcript: ON Semiconductor beats Q2 2026 estimates, shares jump after hours - Investing.com",
+      "headline": "Why is ON Semiconductor stock surging today? - Investing.com",
       "source": "Investing.com",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRGloTG1tODFCcDlZY20zWnN6dE9jdUpKOTZ3R3BOQUJNWndHcVlrZzlQbDFENkpvTGRFNDZjY0hoUEljM3ZXdnRvSTBmYmFhQVFGU2xFZG9CVmdSLWpZUjNTVnBtVzRSMExyV3g2aE92TWszMFF1MFRaWE1xWTRwdUZybjV5M2xsMUJCelpQcXgxZC1GQ1RBSmZadWVxS2lUTnpSOTdSOFFZZjFuc0IxRE5NRGR4a2RXTURWRkxPOVhERGJRcTZLb2c2eVY4cmllSUZsMUI1QmRLMUpUUFE?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHhNalB2MGZyTFZfNVJKYjg1QjNPYVU2TVp3aVExRDdETGpyT0pIZVUxdnJPSmppQWRBYjN3X2xLRzBGdDdpLUFRVEhaNXZRY2xOSlcxR3liWUVuYXdTWThnNkx6SExFaDlMUVAyTm43SXktMy1JWGp5Q0g4RmJvSDdtTE5QNHNJWGNDTFBjU04zaFlEdkdqVy1VeDJ5c0dzdVVqUXZwblY?oc=5"
     }
   ],
   "insight": "Tracking ON Semiconductor (ON)."

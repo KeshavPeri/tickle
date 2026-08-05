@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:48.219Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:49.106Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    111.06999969482422,
-    112.94999694824219,
     114.27999877929688,
     115.47000122070312,
     112.66999816894531,
@@ -24,11 +22,11 @@
     123.93000030517578,
     122.62999725341797,
     122.7699966430664,
-    122.08000183105469
+    122.08000183105469,
+    122.9800033569336,
+    123.54000091552734
   ],
   "6m": [
-    108.7699966430664,
-    107.69000244140625,
     108.9800033569336,
     107.41999816894531,
     107.69000244140625,
@@ -158,10 +156,11 @@
     123.93000030517578,
     122.62999725341797,
     122.7699966430664,
-    122.08000183105469
+    122.08000183105469,
+    122.9800033569336,
+    123.54000091552734
   ],
   "1y": [
-    101.7300033569336,
     103.18000030517578,
     104.08000183105469,
     100.68000030517578,
@@ -410,12 +409,20 @@
     123.93000030517578,
     122.62999725341797,
     122.7699966430664,
-    122.08000183105469
+    122.08000183105469,
+    122.9800033569336,
+    123.54000091552734
   ],
-  "lastClose": 122.08000183105469,
-  "oneYearReturn": 20.003929816772292,
+  "lastClose": 123.54000091552734,
+  "oneYearReturn": 19.73250683284816,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Prudential Financial, Inc. Announces Second Quarter 2026 Results - Business Wire",
+      "source": "Business Wire",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRXlvZXpZcFRqOXVrRVc3T0xGSldLM2NGQXB5RW9SbnJLLWVpTUEtcjQyWlg2MUR5NXN3VU5kaEZNbFpfdWRtRVRoUVVUdDZPb2lfeXNkUlFNYjI3b0ZiV3liTE9vOW9CM3JDMDctSzdzTU04SHpWMGxqbUJ4d2drQnBRYmwzVzNWUUFtSFpReVBUSi1HbXNvMk9NTWZhOElBSXdadXhENFc4X0p6ZzA5WUZjcTBwaFEwMDYyUA?oc=5"
+    },
     {
       "headline": "Prudential Financial (PRU) Stock Still Looks Cheap With Strong Returns And Earnings Support - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1FBbzUwaW1oLUZuc0ZJb0RNU0xUcC1GTzVGdWc1X2tBVm56enF1VXhKUGhpbGZLZGFtc21lREU4a19HNS1xcnRyOEh0aVc3VElvemF5N3NYalB0SzdyOEljVUdpNVNFbTdGZ1JuM3Rfb0pxYWJIYW1LQzdvdURwcF9pRTB0bzNsMGtCZzZyNXRuMFpfcWhGNnFNS1YxdU5VVlYw?oc=5"
     },
     {
-      "headline": "Prudential Financial (NYSE:PRU) Major Shareholder Sells $5,314,963.50 in Stock - InsuranceNewsNet",
-      "source": "InsuranceNewsNet",
-      "when": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR1RJcXNCMDRpM293d3pDTTEwM3FVUlVoZ1EwMVYwTFNDWnN1MmE1dGxsSkwtWnlWSVRqdHhlVGNWSzAyVy1JMlIyNXRJeW5RNmROa1hLWFlCajhCTjdHU0QwQ2JYVndRWXYxMzYzdFNsSXBEQmo2dWRSU240X1pzckprZGxLb3JQZm5tUjRIbDZpcmVjd2swZTQ4SjNjVk04eHhUTWdyLVZENFEwc2dR?oc=5"
-    },
-    {
-      "headline": "Prudential Financial (PRU) Stock Looks Strong On Earnings While Broader Checks Stay Mixed - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWGNNTUFxdl9ac0N3YzZVZlppbGstQzNpTFFmV0ozSmlRbWRjVm9lUGtIanlvczJzd1VWZUhnSThpeWFYMmwzclJsZ1lGUzFuQ1E3UTlRN1hOcG81NkxCRkxFemcyNE5EbzFwb3RXQmxkbVdpcG00a2YzS1hiNWFoZTNWeElzaFNTc2ZPMnRLSmRXay1mZV9QZWdXclN6MFN3Vk1XaXpkRVAtbHJWbVhobUVDY0o5aFk2NWFGR3hXTjFCUVI5U0FDYUVVRU1VZlBfcUdndzR6TGXSAdgBQVVfeXFMUFhjTU1BcXZfWnNDd2M2VWZaaWxrLUMzaUxRZldKM0ppUW1kY1ZvZVBrSGp5b3Myc3dVVmVIZ0k4aXlhWDJsM3JSbGdZRlMxbkNRN1E5UTdYTnBvNTZMQkZMRXpnMjRORG8xcG90V0JsZG1XaXBtNGtmM0tYYjVhaGUzVnhJc2hTU3NmTzJ0S0pkV2stZmVfUGVnV3JTejBTd1ZNV2l6ZEVQLWxyVm1YaG1FQ2NKOWhZNjVhRkd4V04xQlFSOVNBQ2FFVUVNVWZQX3FHZ3c0ekxl?oc=5"
+      "headline": "PRUDENTIAL FINANCIAL ($PRU) Releases Q2 2026 Earnings - quiverquant.com",
+      "source": "quiverquant.com",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOenBmcGVDMU1VQ1UwQmt4VUZ0SGxSMUdINGVFcnVGWmpUcEpDRFhCenB4M0tPSFBNcFd1QndvdUdCY3FQLUhURmRtMG9mcEhfUjhGU0FBU3JJQ19MZ3dYeHdubkN5dkxOS21KMzRkXzVBTjc5ZEFrNWg0b0l5dHQ1OVFaMnZydkxHNWlxT3IyZ2JlOU94TVZr?oc=5"
     }
   ],
   "insight": "Tracking Prudential Financial (PRU)."

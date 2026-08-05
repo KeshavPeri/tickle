@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:07.643Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:11.368Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    147.30999755859375,
-    148.92999267578125,
     147.64999389648438,
     148.8000030517578,
     142.9499969482422,
@@ -24,11 +22,11 @@
     153.11000061035156,
     153.00999450683594,
     152.0800018310547,
-    151.52000427246094
+    151.52000427246094,
+    150.63999938964844,
+    149.9199981689453
   ],
   "6m": [
-    133.8000030517578,
-    132.14999389648438,
     133.38999938964844,
     132.22000122070312,
     131.5500030517578,
@@ -158,10 +156,11 @@
     153.11000061035156,
     153.00999450683594,
     152.0800018310547,
-    151.52000427246094
+    151.52000427246094,
+    150.63999938964844,
+    149.9199981689453
   ],
   "1y": [
-    130.9600067138672,
     129.9600067138672,
     130.5,
     120.02999877929688,
@@ -410,12 +409,20 @@
     153.11000061035156,
     153.00999450683594,
     152.0800018310547,
-    151.52000427246094
+    151.52000427246094,
+    150.63999938964844,
+    149.9199981689453
   ],
-  "lastClose": 151.52000427246094,
-  "oneYearReturn": 15.699447544711129,
+  "lastClose": 149.9199981689453,
+  "oneYearReturn": 15.358564499788013,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Airbnb (ABNB) Stock Looks Reasonable On Earnings While Cash Flow Suggests Upside - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-02",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlZSdFhZcXk1UlF2Y1pISzFyQ2dZZUlIZDl3dkcyN2hNZVp3RkRlQl9pTHBEMVJxZEllV0p3eVpmUTV3TndqRjd5bVE5YklFVWt4VG1OUmZJLUNuQUNramRyT19DMUM4Tm1PRmxDblRNNGtvbDhqT00zcnlTRnZ5ZUhwY3JCUDhsS2k2UnJKRHp2Rlg2ekJmUDdkX0lLb2tLdTc2dHREd0ZBUnlQOVRhNlZtNk9rYWszU2l2eWlOZ21kbFpOMmt6dFU1VFJ5b3B1V1pCMtIB1AFBVV95cUxNSlZSdFhZcXk1UlF2Y1pISzFyQ2dZZUlIZDl3dkcyN2hNZVp3RkRlQl9pTHBEMVJxZEllV0p3eVpmUTV3TndqRjd5bVE5YklFVWt4VG1OUmZJLUNuQUNramRyT19DMUM4Tm1PRmxDblRNNGtvbDhqT00zcnlTRnZ5ZUhwY3JCUDhsS2k2UnJKRHp2Rlg2ekJmUDdkX0lLb2tLdTc2dHREd0ZBUnlQOVRhNlZtNk9rYWszU2l2eWlOZ21kbFpOMmt6dFU1VFJ5b3B1V1pCMg?oc=5"
+    },
     {
       "headline": "Airbnb (ABNB) Heads Into Earnings Focus, Is The Stock Still Cheap? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQlZaRXdkeV9qcU00Q1RoSjdQSXpjTmhteXVoVTVjcHdTSmp4S29fSUphLTB6eTVWNmV2WmF5ZlQ1TThRdFdmMmtVWVhGUG96Q3VBbnZ6ZUNPTTFwM2NYQnlNNGlTdm1HVjNzRTl2OWJwOVBRdmZGcDZpak12eFVGeXdnbTVUVHQ3RE1YUlYta0h4VGRCaVV3R3BrN3U1dw?oc=5"
     },
     {
-      "headline": "Airbnb (NASDAQ: ABNB) holder Elinor Mertz plans new Class A stock sale - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYWwxclZ0NmRxZkwwNFRlQVBiQkg1bWNuaGVCNFQzMzlDTHdhakliRzh1RFNNQWxjWWk1aklPYllhaGpyaGoxYUxHRUtGcW1qTVJyM3IxckpybThUcEVuWW1VMUwxMnVaNHZHMnBpX21uY1ZWQ2cyOHpzU05yWFhWbV8tN2p1ajJkMUZ4ZHBwN08?oc=5"
-    },
-    {
-      "headline": "Lombard Odier Asset Management Europe Ltd Decreases Stock Holdings in Airbnb, Inc. $ABNB - MarketBeat",
+      "headline": "Bank of America Corp DE Has $267.21 Million Stock Position in Airbnb, Inc. $ABNB - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRmRvUFNtS19ELTh2ZElsYnpnc1k5VDhHUEhTT1pRMGJjTjJ4VGpsd0ZqNXJRMndmTXctekFCLWFndkd4YkE5aUlxbnhfWElPbGlMZm5WaFczLURlTWVzMVpiSk0yaWVmY01NYWtoVkF1b1lFSUdQZHdCZ1dTbHBZQU85YXVOYm5la3ZUeFZ6VElZLUtTdWdiQi1mcDZISGVBZ3ZsYVIzVXcyclA1WXFjbWw1akdudHJGUThONTlZU1VZNXV1TmxDaEo1WDR1LXp0a0hwVTN0NDRueDJBRERF?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXZxS21hRjJRWThaNkVJekJBZk5BTEI1UXYzSGpRNkdaal9yM0RTcEJoN1BXOUZnWUxadUhGOHhvUHNOYVU2NDRJTTY4Tl95OGdrSU5KNEphdzhtdDFfdHJFR3pIVFlKNFNpb1pMR1A0US1oMTFqMl9Dak1xQmJoUHBxOVcxTDBVMXpyRloyYzk1NGFELXI0bWV1T2l6Q0RiZjVUX3BkNjBGdWhCUFJ2WmFpd3RWcjhwZGR6MlY5bkcwRlJiTXRqSjdocXhOQ0lmOXc?oc=5"
     }
   ],
   "insight": "Tracking Airbnb (ABNB)."

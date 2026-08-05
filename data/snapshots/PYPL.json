@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:48.426Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:49.553Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    44.06999969482422,
-    45.470001220703125,
     45.09000015258789,
     45.650001525878906,
     44.529998779296875,
@@ -24,11 +22,11 @@
     58.31999969482422,
     58.349998474121094,
     57.650001525878906,
-    57.209999084472656
+    57.209999084472656,
+    57.869998931884766,
+    58.540000915527344
   ],
   "6m": [
-    57.150001525878906,
-    56.619998931884766,
     56.599998474121094,
     55.5099983215332,
     54.08000183105469,
@@ -158,10 +156,11 @@
     58.31999969482422,
     58.349998474121094,
     57.650001525878906,
-    57.209999084472656
+    57.209999084472656,
+    57.869998931884766,
+    58.540000915527344
   ],
   "1y": [
-    68.01000213623047,
     67.83000183105469,
     69.41999816894531,
     68.22000122070312,
@@ -410,12 +409,20 @@
     58.31999969482422,
     58.349998474121094,
     57.650001525878906,
-    57.209999084472656
+    57.209999084472656,
+    57.869998931884766,
+    58.540000915527344
   ],
-  "lastClose": 57.209999084472656,
-  "oneYearReturn": -15.880021632883329,
+  "lastClose": 58.540000915527344,
+  "oneYearReturn": -13.696005697694218,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "PayPal Stock Hasn’t Looked This Good In A While — Q1 Earnings Will Confirm If The Comeback Is Real - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3NHc3VxMFZUenJwVWlEa3MyYzVPOFRvVTFFLTBQcmRfVG5DSlBpb2ZyNUlTbWx5UlhTWWd5S3JxRklvTmg4V0VxVEhlaHo1dkZ0UlVqcmVpcGlGMl9pUzI3UUl1NmdjN1hzdFllOVVJbGN2YzBtTTNRcXk2TnM2amtZZ1M2N1lrYlZ1dlhpUFI1YU1GWkYtWjBmZUxpZUJRSTVRRW9salJhdllkSWZB?oc=5"
+    },
     {
       "headline": "PayPal Stock: Buy or Sell? - The Motley Fool",
       "source": "The Motley Fool",
@@ -427,12 +434,6 @@
       "source": "Yahoo Finance",
       "when": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSm9TbVpMRjZRSkVtUWd0cC05SENNOURnTTBTa2pLeFpRZzMyTmdpODRZQ3VoVnplcXM2aFJCNV9UeklGS0daMEF2VVFDSFVvSk1jX3V2RFJVdEhZdjA3QlVmbFdaRHZQbWVVUnVDLVFnMW9VbUlpV2wwQ29SZ2JhUjNiNnpZRVN3cy15MjFVU0lVYkFyU1NENDBtYUlYdU5sMk10YzYxbVlxVEVSS0FlVjdQR0hUWkVZ?oc=5"
-    },
-    {
-      "headline": "PayPal Shares Pause as Turnaround Momentum Collides With Overbought RSI - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWUx2dEhid2VOVmh0WVg0NUtKcXRRQU0xWjNjNXNFWnpOUDBpMlpfZFNuS0RCWGtzVThUNTNOTGNrU2p4ZWdpSWlPWGJKZ2RnTWdDUFJlbTFpamZlOFJYRXBUd1JRb0xXSHhsbFM5a2NKaXEtSm95MDZhZEZHZ19nYTd6d0t5MURXUS1mYnVTcFlWZFcyNG1lMFUtSllOdUdfNHFycHhIZVhISzlxeko2dUxMeXFVR29tTjFweHJBTlZBVExXa28yQ3REWWQ?oc=5"
     }
   ],
   "insight": "Tracking PayPal (PYPL)."

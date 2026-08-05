@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:20.826Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:23.680Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    340.94000244140625,
-    352.4599914550781,
     356.54998779296875,
     357.1000061035156,
     345.8500061035156,
@@ -24,11 +22,11 @@
     384.32000732421875,
     392.8500061035156,
     390.1199951171875,
-    382.1099853515625
+    382.1099853515625,
+    385.7799987792969,
+    396.5199890136719
   ],
   "6m": [
-    327.1400146484375,
-    320.5199890136719,
     324,
     317.9599914550781,
     317.6400146484375,
@@ -158,10 +156,11 @@
     384.32000732421875,
     392.8500061035156,
     390.1199951171875,
-    382.1099853515625
+    382.1099853515625,
+    385.7799987792969,
+    396.5199890136719
   ],
   "1y": [
-    324.3399963378906,
     318.5799865722656,
     315.07000732421875,
     304.5,
@@ -410,29 +409,31 @@
     384.32000732421875,
     392.8500061035156,
     390.1199951171875,
-    382.1099853515625
+    382.1099853515625,
+    385.7799987792969,
+    396.5199890136719
   ],
-  "lastClose": 382.1099853515625,
-  "oneYearReturn": 17.81155258862626,
+  "lastClose": 396.5199890136719,
+  "oneYearReturn": 24.46481440343918,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Amundi Cuts Stock Holdings in Corpay, Inc $CPAY - MarketBeat",
+      "headline": "Corpay (CPAY) To Report Earnings Tomorrow: Here Is What To Expect - StockStory",
+      "source": "StockStory",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYUZpelZUM0htYk5uM21FR2lVeUZoaUpYOFFjc2F5a2M5NHlvREdDWjNoUGg2Ykdla2Jtd2JFQWFFN0ZzTUdXWEptRmJNd1ItT2NOYkQ5d2o3eTVmaEY5MVIzVlNtdTk3d1FwNkJLWjlQQ3U1bklONjJVRmhMbkowekVXamxqendSbGwzM0lxdmlwOFUzOGZCMXdielgwNHQtV2dhME84LUhBQVo4ZW53SHVrX2U0TGdCSFZB?oc=5"
+    },
+    {
+      "headline": "The Manufacturers Life Insurance Company Cuts Stake in Corpay, Inc $CPAY - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQlQtUHlCZkw1ckdfeFAzN0cybzViOEE1enY4SGg3YnNRZk9tNTdzbjBBOWZRUVdfeFNZWHN5MGJMZ29XemVjcFV1dDNzelBxN0hXeEE3Z2s0SkJjRW5MeTk2emphcjVsNF9FYzF5YzA3QW1saUF4Q3NJaFcwWW1CLW1ocTFhb1dyU2I1clJsMHlSMUgzc0t2NVR0MXZub2hmand3aXBFYl8tdw?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb1J0VkhrMnhmbkljZUJ5RlhnaFJzbjFiZFpjQldEYTVwNEd2aVN4SEpZREkwYWdDRjBXbzVuU1Z0b3UwbE1wek1ubWYtcXBrc3BLNlo2SEpjTTU2bFRka09KTkVOWDVqVERQaUhtMGZZWTR3Tnk1cUF5NXp1bzlHaU9UVGVVMHgzcTZzV2VJNmszMTZ6VVVQT19ZX05uM1NVQU0xNmRzZUlIbkhwT2ZONDAyZWNsTldJZ2Z2UTNtRXYwN0k0WWtTVG1vbw?oc=5"
     },
     {
-      "headline": "Corpay Inc. stock underperforms Friday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT2x4Tmk3OFJxdHhrcGFyWHQwZFktN3RhZDFFSjR3cXlrZVNTY3lLSlRES1dLaEVVdWQxYlFJT3R1eWRic2xhTXdHZ1VnS2pXanZQbWtOSC1PbjY4dmxrRVFUam1uOWRNX0Q1ZjRPSzBqOFpjMVI0UV90VGJkOHVvOUhObFhZU0RTei13SFJqbi1JZFMweVVtUXY3M1RjVzZPLUR5V2p4Nk5oWFkwcVJlUWtnRzFFd1FUMFMta2dSVVNMUTZwb3pNc3N0UDJUTWF3YlNWWkxteWtMcTQt?oc=5"
-    },
-    {
-      "headline": "Why Corpay (CPAY) is Poised to Beat Earnings Estimates Again - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0tzandkNWVCTFZad2xQV0wyWUZER1gyT3FGb1hfYUpQZ1pDTWsybUJKVjB2d2wzd0YyN0pRZThzQ1NDRkxJOWtJZ0stYWFRVEZiVlRLTWNJdE1qUUVJVjdnNFE4R2o2Q1ZMWmpfb2xLUnZha2JncEtTU2hzNGhqdm5QWVdjcVo0UzJERjlHQUZUNG9wTEFV?oc=5"
+      "headline": "Corpay Inc stock hits 52-week high of 395.51 USD By Investing.com - Investing.com Canada",
+      "source": "Investing.com Canada",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGZtY0dyMWZwUUhFaFRrMUYyS2NzM0ptdl90ZlBvMk9ncHdhd1JHWGpEdlFPMTVxazZIczRJY0dralFqLXBjN1JtLUNXaUs0aDhNNlM0NWlJQ2FINVV5b2tscVQzOGIyQzFFY2VvQkFqSFhhVnpWVWprbHoxMjlyWXFSYzg4UlYyNFFpN1YwbHUxbGk5b041ZGRJMVZNS1J3LWxmSEVCcjZ1bE0?oc=5"
     }
   ],
   "insight": "Tracking Corpay (CPAY)."

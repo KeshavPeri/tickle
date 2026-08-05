@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:33.096Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:35.084Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    75.5199966430664,
-    76,
     77.8499984741211,
     76.02999877929688,
     76.23999786376953,
@@ -24,11 +22,11 @@
     90.30000305175781,
     89.4000015258789,
     88.4000015258789,
-    88.86000061035156
+    88.86000061035156,
+    87.68000030517578,
+    88.30999755859375
   ],
   "6m": [
-    81.13999938964844,
-    79.68000030517578,
     79.43000030517578,
     86.37999725341797,
     84.9000015258789,
@@ -158,10 +156,11 @@
     90.30000305175781,
     89.4000015258789,
     88.4000015258789,
-    88.86000061035156
+    88.86000061035156,
+    87.68000030517578,
+    88.30999755859375
   ],
   "1y": [
-    52.77000045776367,
     52.58000183105469,
     52.470001220703125,
     52.95000076293945,
@@ -410,29 +409,31 @@
     90.30000305175781,
     89.4000015258789,
     88.4000015258789,
-    88.86000061035156
+    88.86000061035156,
+    87.68000030517578,
+    88.30999755859375
   ],
-  "lastClose": 88.86000061035156,
-  "oneYearReturn": 68.39113102050055,
+  "lastClose": 88.30999755859375,
+  "oneYearReturn": 67.95358403056633,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "GM Stock Alert: What to Know as General Motors Announces AI System for Cars - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVJTaE4xd2ExODZZMDh1Zl8wMW1Kc2JaVFhSaERRUlNZSWxUd0s1clJJNVNMYkpDWENJR1Iwd3l3QkI0Vl94aWVoSHFSNU56T3lsSmN4UHJQeUFINzZTV1lnY1d0b3lfZXNZbkRrN3o0NGxCYTVmVnNGNXc0SUdEYVZoUlhqMmxqeTBIYVF2ODN6TVF5NlE?oc=5"
-    },
-    {
-      "headline": "General Motors Co. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVWpiZTB6U2dQNU0wT3IxUG8zU3VBUDEwWEVKUEtIY0t1TEdvc0daTVZmYXBuWW9XVkNldzRtbndhQTRuVlBaakk2enpwQVRpVHBVbGRhU0J5Tkd5Z2VXdnVHR1l3NkI1eHM4TUlwSE9xVW5MeFVmQlZxX2p5U3dFYkctZXRGdGVpMWNfa09taTdnVnZ0UDVpNWJvcWRVaVVfTFI5MnFQVEFnSC1pbl9IUlNId2dTdFE2Skxra29SWHU4bWtkeGd0S1ZNLU5uZlFaOHp4SFZtUWNBZy1qV1hxS29UVmNLdw?oc=5"
-    },
-    {
-      "headline": "Insider Selling: General Motors (NYSE:GM) EVP Sells $3,537,600.00 in Stock - MarketBeat",
-      "source": "MarketBeat",
+      "headline": "General Motors (NYSE:GM) shares climb 7.5% as gap with Ford (NYSE:F) valuation remains open - TechStock²",
+      "source": "TechStock²",
       "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdVRKZGJFVUVRVEtDbzJ4a1duSXEtM0ZxejV3UDRfSTVsWEo5eGxZYkNHemxDdFBrVEE5dkZ0NjFNa1YtMHJ6S3B0eTlOSDdJckFOVVdEMVFLbFctWkNTRjBERUt1SmF6dE1uRmlNLWMyMFZCMDBWTXFWWnpsTXdYUXZacFZtUkxETXh1dl83dW9xRkg4Z2NXRWpQSjRiM1MtY043YmpWZ2J6Vk11Z3B3RjZreVpMdGNza1VfLQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZFJTaF9vekk5Ymhma09rS0xBbmRCVnUwQVA5bExGaFNZem5uZ0dLbW81VVMxOUw1MFRGRmhjYjNnUnRrejJJOVhibHVIeEcyV0plSjJnYUY5QWJEckFPdWYxMklyR0dyLTBwbjNzQk9XWmRFNWY3aGhzWVBQN3QwbTRDS1ZMLVp6UFJad3B6UjFCX1Z5amtTSHZjNE9FYzdQWlZNUlprbVU?oc=5"
+    },
+    {
+      "headline": "GM Stock Alert: What to Know as General Motors Announces AI System for Cars - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlR0N0djcEVWTUtIUFhhMGFKd19RcUloeW5hNjhFSnJBa2pfVDRJWllTaTNfTXljTmNlSkZjYVhiRWJwZEliTFBXSWZleHlwTXU4VUlmVnlWcXFwVG9DenNiY1ZySW5HSXRjWGxVS0Y2MWt0dF95SjZvSHBVSmRSSXJuUURHZ0k4cEtYVTVMSGR5WktMdzZOaE5LX1FDM2xsc015UWRFUEYzSXpPck54M3ZlWXdpY1dfOVE?oc=5"
+    },
+    {
+      "headline": "Q2'26 Earnings Deck - General Motors",
+      "source": "General Motors",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hVlFJT1VnaHJVLV9seWZQbldHSUZDZENma2Y4YWJRWXplVlRIX1JWRGNpSGpDeXp4TUY1WWdZQVJFWG0tNzZWdVZVNTFnUEVnUU0xeXFrRmF2Y0xwQ05GWEJubkdzVDZZQ0lUZmd4YXdBVnFjdmlockhDZ1JVUQ?oc=5"
     }
   ],
   "insight": "Tracking General Motors (GM)."

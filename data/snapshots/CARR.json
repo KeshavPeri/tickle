@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:16.940Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:20.044Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    72.06999969482422,
-    70.06999969482422,
     70.0999984741211,
     68.66999816894531,
     66.73999786376953,
@@ -24,11 +22,11 @@
     63.15999984741211,
     59.91999816894531,
     61.38999938964844,
-    61.810001373291016
+    61.810001373291016,
+    63.16999816894531,
+    65.69000244140625
   ],
   "6m": [
-    57.439998626708984,
-    57.29999923706055,
     57.369998931884766,
     57.06999969482422,
     57.90999984741211,
@@ -158,10 +156,11 @@
     63.15999984741211,
     59.91999816894531,
     61.38999938964844,
-    61.810001373291016
+    61.810001373291016,
+    63.16999816894531,
+    65.69000244140625
   ],
   "1y": [
-    66.54000091552734,
     66.37999725341797,
     66.11000061035156,
     66.36000061035156,
@@ -410,12 +409,20 @@
     63.15999984741211,
     59.91999816894531,
     61.38999938964844,
-    61.810001373291016
+    61.810001373291016,
+    63.16999816894531,
+    65.69000244140625
   ],
-  "lastClose": 61.810001373291016,
-  "oneYearReturn": -7.108505375948328,
+  "lastClose": 65.69000244140625,
+  "oneYearReturn": -1.0394619472151156,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Carrier Global Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNDVyeGlpakZ6ZHRQMnFDM3c4WlQyN3I3Z3huQy16SkVOLXQtNlNnOUV4M2RGei0yN2pDVFRoNjFJck5mR1UtUndEeDRjVHVIQTBPaVl5aGFTcm9nYWMwY2E5UHEwNFh5ZWUyQ2l3WDJmWWVyOTRPb0s1ZWs3YVQySERqWGxtX18zU3VTS0ZIWlgtREpPZzZaR2o2Q1pQSnAwRHRTNThmZE5ZQnhnOHJwWHFzbnFyd3RnU1BLeFdTNGRrYnJYbzROTnUzZ3hiWGhrTjctM19VMXh1d3pORzA1dW44cw?oc=5"
+    },
     {
       "headline": "Carrier Global (CARR) May Find a Bottom Soon, Here's Why You Should Buy the Stock Now - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTFsU0J0S1hPcFFySjhmeFYxVUF2ZHdzR0lVTVJ5SXNQcUlfRHY2ZC10bzBkWGNtQjBXSG1YcGU2dUVHaEhMQW5YSnpyNldGWHdRWXFQV0pXNnREMVl4NTlDamZvYjlrb3BEOE9la0o3N2g5WnRrRXZTQThSbUNJUDJFUUQxOEN5QTF6cjR4ZXZuRFRMUGI1YXhSdw?oc=5"
     },
     {
-      "headline": "Why Carrier Global (CARR) Stock Is Falling Today - stockstory.org",
-      "source": "stockstory.org",
+      "headline": "Why Carrier Global (CARR) Stock Is Falling Today - StockStory",
+      "source": "StockStory",
       "when": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0FPV2VlRGc5QkRWYVg4ei1pMnpITTFraW85dnRIUmxyTl9KV09BY2gzUXN5NmNYNWtzcmdVODBqM2ExUl93ZHdNSGtTaWlYX0kyaTVTQW5mVV9NUTJsdTc4Rzc5TkJETWR2Wld2TXVMdmtZcXc5VTI4YnVwcVlEVTNDNGducENYSkk5WGxUYzd3SmY0Zzc1RFpEQVZ1T2hoZFctV2VJZVhPQQ?oc=5"
-    },
-    {
-      "headline": "Carrier Global Stock And 2 Cash Flow Picks Trading Below Fair Value - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTlU4M0pZNzA1YnNVMVdhUzVmT1E3UnpkSGh4Vjh1VzhyOGpLTWtWV1d6WjlzVUhkYXNoM0pEMFNFRW9FT3kwQVRJZ3doWUpwSHNUS1JvX0ZlbFduYkw2ek56UGNOWTRrNnA5Yjd4SWprenBXcjd1c2pVNjlQRGRJeGZzYW9oOXFubV9TcXhORUI0VjJyanN6cmVjcWx1dTJIUGJHZU5GTnN4eHU0cnR0T2ZTUXdJSnF1b2huRGZTOWRiSW14ZUHSAcsBQVVfeXFMT2NOaHF5SzNNU0otVEZ3YWxZdFNPbUZ6YUhJSzM4SzJadi1FWjJsZUtVN09MSGp1QThsMkthSkU3NkkxVFVZbmpZMklySWkyN0RVNUdNZWREWE5JTW9hLTRxcmx4amFDVTRfVGgwLVRiVU5JajEyRHFoUUNNOGZYbDFBRGh5SkRFQTZ6eXdCRmxVU1I2RG9DM1Z1Z2lBb0d4dFdsVlZ5YlZ2N0VfczdRU3RabHZwdDgzREFGS3VDMUdLaWg2aDB4WlJmVm8?oc=5"
     }
   ],
   "insight": "Tracking Carrier Global (CARR)."

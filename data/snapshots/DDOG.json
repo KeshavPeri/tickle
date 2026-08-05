@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:23.509Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:26.147Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    264.4800109863281,
-    260.3599853515625,
     255.3699951171875,
     256.80999755859375,
     261.0899963378906,
@@ -24,11 +22,11 @@
     250.8800048828125,
     264.20001220703125,
     268.55999755859375,
-    267.9700012207031
+    267.9700012207031,
+    273.6000061035156,
+    288.1499938964844
   ],
   "6m": [
-    131.25,
-    130.1300048828125,
     136.63999938964844,
     138.2100067138672,
     140.55999755859375,
@@ -158,10 +156,11 @@
     250.8800048828125,
     264.20001220703125,
     268.55999755859375,
-    267.9700012207031
+    267.9700012207031,
+    273.6000061035156,
+    288.1499938964844
   ],
   "1y": [
-    139.1300048828125,
     132.94000244140625,
     136.9600067138672,
     136.3800048828125,
@@ -410,29 +409,31 @@
     250.8800048828125,
     264.20001220703125,
     268.55999755859375,
-    267.9700012207031
+    267.9700012207031,
+    273.6000061035156,
+    288.1499938964844
   ],
-  "lastClose": 267.9700012207031,
-  "oneYearReturn": 92.60403350550514,
+  "lastClose": 288.1499938964844,
+  "oneYearReturn": 116.75190958679833,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Salesforce, HubSpot, Okta, Workday, and Datadog Shares Skyrocket, What You Need To Know - stockstory.org",
-      "source": "stockstory.org",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU2dXS0pLMmt5NXpielZNQzFsU0hzcHFFS1dkQmdZbW5fcVlBWERGb0NrRFNFV2xIMndGNEJUb0U2MGRCWVRoWGpkQkY3ckFoWkVSN0VzOGZEdmgtQ0xsZ0Q5VjM0S3c2dHhXVW1nYzgxTHVHeVZmdnkxU28tV2J5LUFiUEY5dnFZclVDTlNwRWRONEZSLWJtRnpydHB3bEoxblRfU1B3VTZ5Nm1oTDZlMGhmbWFRRkVienBJYUdYejhNclBkLXFNdlRRMEIta0doUW15cldzSG4?oc=5"
+      "headline": "Salesforce, HubSpot, Okta, Workday, and Datadog Shares Skyrocket, What You Need To Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnpYazR2Y2RBZURtOXhUZW1IVlN6ZWY1Q3JMZk5Td1U4X0c1eUxtYVNIVnhSN3NfWEk0YTJfdlhXYTNtQ3M3bExmNEc0bkZQUGFKNHZ5RWlyUzljNDNrRG5wcWpWa045aWE0M3VYcXVQVzZSYWdLRkhCWkxOWXo4UFVEZ2JKS29fb1FvdU5QQVFVekNzTktxZ25vOXhTdWozVTBZWmFFOA?oc=5"
     },
     {
-      "headline": "Cantor Fitzgerald raises Datadog stock price target to $327 on AI growth - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ2gzQ3h5eTUzUy1jZm1CUnJ2WmJGbk1ZR3lLY0FPamRyLUFwQnMyWnZIbHZ2SkloNTRLWjd4QmExQXdkYlRQMUtQamNicHdZZ3dBb3RRMzRXYlNtWW5udWNmYkh6LXphemZ0eFdyWWZDckZhMTdYakp0QXBHVk9xZGFGeDVHbkk3Wlk3U1NKNjEyLUFuQVhfSDBrQkstVnJtZUpCcEh4czNrenRYVjBob3BQLXZWandDMm5wTnZ1cVNpTDZ2RlhtZ2JyVQ?oc=5"
+      "headline": "Datadog stock gains analyst confidence with pri... - Pluang",
+      "source": "Pluang",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcHpXX2pXMzMxRWZXRi1TdGlsdWtMZzB0Qk1zMjNCTHRYRFkxV3NsZUo1a1dyU2FmRmtwMllIcmhXaFFXMDJXeEpUVFkwU1pEXzFuVHZQanZNYy1HMVdXLXo0ZjREVE9XdDRmWmJvWFROeEVNZlR1VWM0UlZBaHQ3MWNmZjVOTWJ0RWNhZDlEOA?oc=5"
     },
     {
-      "headline": "Datadog Fetches Sales Growth From AI Complexity - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONE5kem00aXdlejBZT3FyWkJndXIwLUtycHQzU1hhcC1WQmNRVFFNT2VaTENZS1c0WlRFNVdzUzRTeUNEX2paWWZkdng0Sm04b2poMjExbFczS3l1SXdxc2F4VGZWYkRlZjJyaGlBY3hUWjdYU08wZ0t5TGRyTXhxWC1hU3hPRmcwYVNxRi13NC0xZll4WEIzS09EY3cwUQ?oc=5"
+      "headline": "MongoDB, Cloudflare, Okta, Datadog, and Unity Shares Are Soaring, What You Need To Know - StockStory",
+      "source": "StockStory",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX0s0YVFtNW9Iamg2LUhkamplXzQxeVUwazdXRXYzeEFrbDAxUUZIcE1aRDRvYi1tUE83ZzFybDF5UmZsQjZ6VmFIOFc4Rk9SYThpTEx5eW5KM20wSjR4TS1oWG9wTktQZlhORGdZNUZfVEFadkVKTnFqRl8wLVlHMmotLVhUYm1ZRWs0aHJNNU9wWXJHSDM1SmUyYWUtVEh6YjBzUzZId0lQZXJzTy1tSDNxVmJLYlQxdXE0SjVXeUwtQks0YmtWZVAxOHB6blo1dGxpQ3hmVHNueWM?oc=5"
     }
   ],
   "insight": "Tracking Datadog (DDOG)."

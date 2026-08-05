@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:27:29.535Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:42.062Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    19.329999923706055,
-    19.829999923706055,
     19.559999465942383,
     19.780000686645508,
     19.290000915527344,
@@ -24,11 +22,11 @@
     19.75,
     19.790000915527344,
     19.309999465942383,
-    19.239999771118164
+    19.239999771118164,
+    19.010000228881836,
+    19.549999237060547
   ],
   "6m": [
-    17.75,
-    17.799999237060547,
     17.639999389648438,
     17.5,
     17.34000015258789,
@@ -158,10 +156,11 @@
     19.75,
     19.790000915527344,
     19.309999465942383,
-    19.239999771118164
+    19.239999771118164,
+    19.010000228881836,
+    19.549999237060547
   ],
   "1y": [
-    22.18000030517578,
     21.639999389648438,
     21.440000534057617,
     21.760000228881836,
@@ -410,29 +409,31 @@
     19.75,
     19.790000915527344,
     19.309999465942383,
-    19.239999771118164
+    19.239999771118164,
+    19.010000228881836,
+    19.549999237060547
   ],
-  "lastClose": 19.239999771118164,
-  "oneYearReturn": -13.255187076672662,
+  "lastClose": 19.549999237060547,
+  "oneYearReturn": -9.658041642957018,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Kenvue (KVUE) Stock May Be A Bargain Despite The Acquisition Bid - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-02",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSkhCMTl5RVJkc2lzUGVsc2FGbGVXU2Z5VGpoNWRjc3FBN2dMZTNMWFV5WVhlSW1Yc0hSbGR5bU5Yb0sxUHdRNFZOX3NmWHdiVUNpY2ZNN05KZjdSaENybmNzYTF0d2xsbGEwQUNET0NmMU5hWU9FdHBFaTM3Wm9SVnZjdGtGM2c4OFFocWRNMDQtQjZrMDVLeHN3?oc=5"
+    },
+    {
+      "headline": "Sei Investments Co. Sells 55,003 Shares of Kenvue Inc. $KVUE - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTUFOazR4aFMzcDN4My1yN2NJVUNxdVpyNlFMNE1hcFlha3hGYldCM0gzQ2hDUXRucl9wZzVWb2Q2WFlxaENhdWdYWTNEOEg3T1lxRjY0MUdWamhqaVotb0ppUll6d0xDbEl2ZjhRcFpESmFFT0NZaVZRMy0zOFQ1SFJ2OXQ1MkZKcHZMUmJzVF9xU0x1NndqcTBVTnJUb0d3cUhLYkpmeUZEcWptQ2hXejVPMjZTZFZk?oc=5"
+    },
     {
       "headline": "Kenvue Inc. stock falls Monday, underperforms market - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZlU4dTc3TkY4Mlh3VU5JdndZZWNMRnpxVFJzcFk1S3hKZ1JER2c5TjVlYlB5WHNFOUU4eVFrV3VTXzEzVGRrZ19yaWY4RU5jeERXanF6NVhUaWhjWnVyalN3ejdYbzFGRUZZbHVoa3k4dDRFTmxXcGpfOFVRWmVFSGVpRXpRU19uMDhTWFpVbWNyWGh4cEdRd0pkLU1BS01MV3U1SzRTSHRETDhWcVhMQXBHbWpyR0ZYa3o3VFZUR2FEbFhZVm8w?oc=5"
-    },
-    {
-      "headline": "Is Kenvue Stock Attractive After Margin Gains and Deal Uncertainty - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3h3b0FxWmlpU2NiZERjd0NYeXVvenNKSDJuVks2NXdKWG9oaER5MUNfS0pKSnhVeGRDNmJjSEo1S2lPbVJjOC1yQUxrYXhQODE2T3RTbm1vNUFtaHNBUkM5dHpoSTFqVTZkZXgxLUM3MmYxQkZEb3NhdjZrWGFQTUd1VkZFMHpZMXp4V3Y5dE9xMDlSTTR1V0k4VEcxZzN0X3Zv?oc=5"
-    },
-    {
-      "headline": "Kenvue's Q2 Earnings Coming Up: Here's What Lies Ahead of the Stock - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRzI1VTFveVRRVnFITDZEX01wb0VNS1ZiVU92c2pzSXRXcmlRXzdqTGFJTWg5N0lKdDQzOHRqMGVRTGhUN1RpdnByYnMwekhxdjVPZXlRel9uZ3p3bWhTNjk0SVFtM2Z1c0tFS0JkeE9NTWNnaHl4S21rcVgwQ3pxVnRwTm5aaU9DYVRDVFdiOGgyWVdNcVBwX190SlJhak1ZOHo4Nmh6ZWdjSkkwQWZWNmRtUVN3bkd0Z0xzdklPTQ?oc=5"
     }
   ],
   "insight": "Tracking Kenvue (KVUE)."

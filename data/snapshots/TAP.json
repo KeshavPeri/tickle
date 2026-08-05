@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:51.490Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:52.254Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    39.040000915527344,
-    39.779998779296875,
     38.86000061035156,
     39.27000045776367,
     38.790000915527344,
@@ -24,11 +22,11 @@
     42.5099983215332,
     42.7599983215332,
     41.54999923706055,
-    41.560001373291016
+    41.560001373291016,
+    41.91999816894531,
+    42.290000915527344
   ],
   "6m": [
-    49.7599983215332,
-    49.349998474121094,
     49.13999938964844,
     48.459999084472656,
     47.7400016784668,
@@ -158,10 +156,11 @@
     42.5099983215332,
     42.7599983215332,
     41.54999923706055,
-    41.560001373291016
+    41.560001373291016,
+    41.91999816894531,
+    42.290000915527344
   ],
   "1y": [
-    48.61000061035156,
     49.220001220703125,
     50.209999084472656,
     49.5,
@@ -410,29 +409,31 @@
     42.5099983215332,
     42.7599983215332,
     41.54999923706055,
-    41.560001373291016
+    41.560001373291016,
+    41.91999816894531,
+    42.290000915527344
   ],
-  "lastClose": 41.560001373291016,
-  "oneYearReturn": -14.50318689269722,
+  "lastClose": 42.290000915527344,
+  "oneYearReturn": -14.07964269261508,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Healthcare of Ontario Pension Plan Trust Fund Decreases Stock Holdings in Molson Coors Beverage Company $TAP - MarketBeat",
+      "headline": "Molson Coors Beverage Company $TAP Shares Sold by Quantinno Capital Management LP - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUVZFazB3blRnU0NqXzVPZzFydHhaaDcwX0JoZmVrSnNJTWo0eVNxVUk2RURqRVpNUk5DbzVUY3BUYi1KemFyZHExR2d2MDZCbnZDMy1JMWJiVFkxQnljdm5kNzgwbm56ZUN3TWxzaE91YnN0TkZkRG5wZGNhWVRyem9Zd29iekwtVVpFZzRuUzBNbGhrU3BudWFpNjgwSTZHeHoyNGg5WDg0TkFuRGdXMFZoVHpmYk9yLWg2N0Q3VllHcFFBa1p4UEZOQVltRFE3RmZ0Y2V2Sm50Z1pkMm1ZQXB0c29hc1pHVEl1Z096UFVnUTdKdzh6NDlLWmM?oc=5"
+      "when": "2026-08-02",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWHR0ZlhlQXlQQXF1azA2dVpUM3lCM0FIWFB4N3hSbTE0VVJsc2ZJbjJXUDlla19zRW1GUDFmRkZJVUc3ekJSNGZmVkhPaHczaWZsUXNFa3pyR1NTZnpoVHE0VlFlNi0wQWpsVTdiU2YtaHdMbGF1NkpFaGRxcHhwZFoxelU2anJPcVlRRi1VYWN5czE5czlEeWJxQ0twSHpjY3c3V19yQW5PLU9PY0ExZ3FBLVl3a0tjV2FHandpTUhMcUt3VGcyb0d1N2tKdDVGM0NWcFE3ajk?oc=5"
+    },
+    {
+      "headline": "US60871RAH3 Bond Risk Profile - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EenB6cEZGMjNkejdwWkFGckJLSktHc0xPOURpNHBfa3RVNU40dHpDN1ZEVHBiSUw4c0JCZXVWNDh0MS1UTUxhWjZiWmVkWW1UQ0toZWJxaUY4aUltU1VWTGcyV2ZTTFh1UUZXekpIUmZMYzVz?oc=5"
     },
     {
       "headline": "Molson Coors Beverage Company Announces Regular Quarterly Dividend - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-16",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWxtNllvYW5uZGxseHUwNEpsT3U3TVBKV3J6Qmt6RG9Hcnh6Njk2NWtmQjhYejUyVVhTU0VxbW1PLWx4N2RBdkVEQkJJUjBxaFQtT013bDF4bkhDQ3haN0NEMkJTTXFROUZma2pER2JvTm5mQkxfQi1nS0lYRDhneFN5eXJNcW95MTlvVjY4bEJrOFRldHB5NG5UMWlGZzlIMFF5WDk5aw?oc=5"
-    },
-    {
-      "headline": "Pine Valley Investments Ltd Liability Co Invests $11.58 Million in Molson Coors Beverage Company $TAP - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUVNvSDNvWFNuMXF4MTFMdVN1X3FaNDJsY0tKOURqTGs3cFYydnJPeGVhTUZTQXlVMVJkZ0tLX2NLRmdBX2NPRkZ0ZkJ0THF0U2RIajhCX1JqSWVjR3pJQy0zQ3NRNTNPZnRMaVI4RUhLVzF1UUVHTm44dXg3cUFkcWpUNTF4TElva2kydFI0eWVYM29pQ2c0ZjE1SjBZZEFtemlpTHpXRE81VVRBcUFEdXRCR21sVTBVM3h6VEhvTDVMMFFRcXQ1X2JwVXcwSDdlSDNkQWR6OS0xZVFQUGJwdm8xR1FXbXdpWmlmS0xCN1U?oc=5"
     }
   ],
   "insight": "Tracking Molson Coors Beverage Company (TAP)."

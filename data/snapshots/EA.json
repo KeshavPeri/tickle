@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:26.219Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:28.517Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    205.4499969482422,
-    205.2100067138672,
     205.2100067138672,
     205.44000244140625,
     204.88999938964844,
@@ -24,11 +22,11 @@
     208.8699951171875,
     208.91000366210938,
     209.58999633789062,
-    209.86000061035156
+    209.86000061035156,
+    209.91000366210938,
+    209.6999969482422
   ],
   "6m": [
-    204.3800048828125,
-    204,
     204.39999389648438,
     204.3699951171875,
     203.94000244140625,
@@ -158,10 +156,11 @@
     208.8699951171875,
     208.91000366210938,
     209.58999633789062,
-    209.86000061035156
+    209.86000061035156,
+    209.91000366210938,
+    209.6999969482422
   ],
   "1y": [
-    159.77000427246094,
     160.99000549316406,
     163,
     162.75,
@@ -410,29 +409,31 @@
     208.8699951171875,
     208.91000366210938,
     209.58999633789062,
-    209.86000061035156
+    209.86000061035156,
+    209.91000366210938,
+    209.6999969482422
   ],
-  "lastClose": 209.86000061035156,
-  "oneYearReturn": 31.351314388444617,
+  "lastClose": 209.6999969482422,
+  "oneYearReturn": 30.256531333025166,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Electronic Arts (NASDAQ:EA) Sets New 12-Month High - Here's What Happened - MarketBeat",
+      "headline": "EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners - ea.com",
+      "source": "ea.com",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54NHQ5aWh3R0tEeWpoTlR3M1hfX2JaNzZQZFY3ZVJuN0R3LURSN2pkU05WNGJDNm9XRjVENjdlZ0R2U1k5V2E2cm9DM2dtV0gyQ1NwcnZ2akRCYVRXZ2E5NWVSdDNUT1h3VDR1QkZycw?oc=5"
+    },
+    {
+      "headline": "Electronic Arts (NASDAQ:EA) Announces Quarterly Earnings Results, Beats Expectations By $0.76 EPS - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObzZyQm9hel9hbmhtc0s2LUY3M2VURVl6SzlGODJac1NTMzJrQmJ6OWtMSndRdzJwVUc0a3hXeWhJeXF4SHdhajJlUWlFZWZ3SFNYSFNybXVkWlVnSkFyM1pfOWhjcnd6RGxvUXpDTGRucVdqZ2dMX3F6aWVmWDNMbHlibTZiTVktcDRrdC1lMDRoWEFaY19faGpqMVRVVV9HbEdZQTl3d2ZVcnhIWnRuZzJfNzBoUVkyZllUcFZR?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmJCSjlES3BHdUk5U25fUG1PWl9GUG1mVVg0Nkc4RmNKYUo3M1kzdG1GendUazNSMmVSeTVQVHUzWGhuR290ZlhWYnpJVW8wZTB0T05vSVdPWVliamx4OEtHY0VKcEV5ZU5yd2Ryb0ZnSE1ta2FuaUFPbFFvT3V3dy0yQXg1UUlacmpFLWhZYU5ka05NM1NPNDEtREFhbjBhN0hzc2VYLU9FV1NPOERWNDVILUNmV0cwUWpUTldiLXZGNDBxbFFGb19SX0VyQ05ZSFdXS2VjMkVRa2FJOHc?oc=5"
     },
     {
-      "headline": "2 Cash-Producing Stocks to Research Further and 1 We Avoid - stockstory.org",
-      "source": "stockstory.org",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVRhM1pjYk1LZVVReEF4bFBKOGxEUnk4YVhUTWZ5R2tOWGtPYVN2cTFobFp4SWVRNGQ1ODFzLUxzNk5aOUx3Ykh5UW9ud2lidEkyeTA4c3N3N3IxQ3lzb3ZOSHVvZjMteWt2Tk1nRlpBUjhHaVRwbVNhT0p1MGJTTWNvT1ZnNE5VU3d4MHBXRWRuNkw3Slh5RGE0QjlRQjZGUF9feUJ3V0duQ0FQSDA1WnJ4a0wzQU5aR0E?oc=5"
-    },
-    {
-      "headline": "Electronic Arts (EA) Stock Could Be 29% Overvalued Following FC 27 Launch - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRmxHb244eHAtSlNHVmhyZ1lpVWpEX1o2MHp0emVaRUYtbGZrODNCRGEzbHB6MUJFb1c1cEk3QVdMYW9ERk9QRlByV0JFbXVwWE05ZU9ldGlDdlZvUy0zdml4MGNOdlIwcmNlalZrUEwtTkh3b3VHVXM2cWNzeFBkZVMzUURZTVJ2MzVvVUhLZnJGdEM4V0s2eXRUM3FpaG1LVFFodUpaOEhjQ0F5eUd5aUJEWEpRTXpBNVdpaWRRWk8xbTl2NlF1VtIBzgFBVV95cUxQZjliazJsSWY1XzM0eTFYblFuazAzbGhOaXk4QkRLamJ3V3RhZzJXbzdRWlVudmxFem1nUzZtakRGYzhOckN6Q3p3SDI1c3ROd1M5Z3BnVHFzeFJzVEZKVDdZLVlISHJ0cVVnTnVfTTdmT2RjOWZ5VU84Z1g1eTFtMU1YR3ZkNW5CY2lQaUtaSmxSTldndjhTdDdYUWFnUGRXZHd0cWZQWFI5TlpGaWdpbGtGakVkM3lwYno1dnVwNXc5TmpvcVloajZ5TTV1Zw?oc=5"
+      "headline": "Electronic Arts Inc. (EA) files Form 25 to remove Nasdaq listing - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVlQ0VE1ia1BBdkNWaGpnb2E5RXA4VDFqdzlLSjVzQnQyX255YXNhMzF1ZzhRcktHSUVvbWhrbEdJbEg0ZlNWdF9JZHZhX0F3aVc3VXM0Y2dNaEtGcEpDVDlYNThZSGRqUS14SjdWQzFvTUhFQVF6T3RNUTJ6Q2cxeXJaR0F0NU4yS3hQWnlQbG41Nm50VmtHWTBLM2JDUQ?oc=5"
     }
   ],
   "insight": "Tracking Electronic Arts (EA)."

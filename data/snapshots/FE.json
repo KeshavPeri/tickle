@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:30.569Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:32.319Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    47.06999969482422,
-    48.529998779296875,
     47.709999084472656,
     48.38999938964844,
     48.099998474121094,
@@ -24,11 +22,11 @@
     49.650001525878906,
     49.130001068115234,
     48.709999084472656,
-    48.310001373291016
+    48.310001373291016,
+    48.43000030517578,
+    48.279998779296875
   ],
   "6m": [
-    47.04999923706055,
-    46.560001373291016,
     46.77000045776367,
     47.52000045776367,
     47.40999984741211,
@@ -158,10 +156,11 @@
     49.650001525878906,
     49.130001068115234,
     48.709999084472656,
-    48.310001373291016
+    48.310001373291016,
+    48.43000030517578,
+    48.279998779296875
   ],
   "1y": [
-    43.84000015258789,
     43.52000045776367,
     43.439998626708984,
     43.439998626708984,
@@ -410,29 +409,31 @@
     49.650001525878906,
     49.130001068115234,
     48.709999084472656,
-    48.310001373291016
+    48.310001373291016,
+    48.43000030517578,
+    48.279998779296875
   ],
-  "lastClose": 48.310001373291016,
-  "oneYearReturn": 10.196170632173821,
+  "lastClose": 48.279998779296875,
+  "oneYearReturn": 10.93749602818318,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Amundi Sells 360,511 Shares of FirstEnergy Corporation $FE - MarketBeat",
+      "headline": "Bank of America Corp DE Purchases 573,731 Shares of FirstEnergy Corporation $FE - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWmVKbDJsQzljMmJQMVlmYVJmMmd5YzFDaFo3OE5ITFhxa1pMR0lEelZpU3VmTjItOU9nWVVnMFl1cElQdzNwT2RuNFFCLTJQTjVGTUxnd21oT3V1SmFVRUhQSjE0QXk5NFRaTHBnNU81MlFYNVhCQUJQN0JFd2FBNmlpOWxnZmk5amFoOHFOQnI1RVNXU0ZxbHhJRnNJc0pzc2NnTW1BVEt6endQdy1UaGdEUUw3VjZw?oc=5"
-    },
-    {
-      "headline": "Is FirstEnergy (FE) Undervalued After Its Q2 2026 Earnings Update? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXFuZGhyVzNWTTBYUkJuaEtCWjNnRWRqYVFvYlpWWmNDS1lubUFaYUNGRUExQjBkbWxkUDY3YlJoZldEY2ZuVFRHUnowOTcxNkxLNHJxcVJMN0tDQ3BHTmRXb01HWWVTMklVZTNmWEVjZmJHWS1qckdUMFBtZkZKSXV4cy1MR2h6ZWFGNmtGcGdjekVWWnVtSm43RjdxdGtV?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQME5mS2Z1Q1Mtd3k3R2RJZk83dFUyTVZVXzBnUkw3eHp0anR1NUo3ZF9CbUNSa3RyZ2UzdzVzT0ZCYVZjR3JZdFNEM0NCeEF1WHRtbnp4NVJjMkxhZ0M2QzY5cU14cEpOVm51RnVqT05NMkphTFZYSVVVSDhlZFdDampwanR2VzJZeWNRTkNPdUpXbkNMQVpkT2pZcEIyc1I2aC0yNGVVOWt6UjYzVlJyNTgySmZwSG5DVnBndEhYVEk3VGRUaDdrMUZDaTA0WlZYTUpfdw?oc=5"
     },
     {
       "headline": "FirstEnergy Corp. Declares Increased Common Stock Dividend of 46.5 Cents Per Share - FirstEnergy",
       "source": "FirstEnergy",
       "when": "2026-02-11",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONnE0M05pVGZnVGMwODJWaGlKQ0MzT1NxQ0xiMjI5MmxMWUtoWjNUclNIUDhzLUtVZkcxTEh2U29WWXJaQUtwSHdKUXlIZXhpU0dnQ3NwUzlNNVFWT3pYSlJUMXZkWHhZNjRmaDZWSlEta3dmY2xxNVBQWjRRT0d3LUIyeVM3UmZLb21iRHR6QXVwRkRmc2xmcjV0Q0xwNm9LN3VDeVNqTkczWjdVX3pWN2gtb3o1c3lXXzNGY1VkV2ZFZDE5VVZodW04NWQ?oc=5"
+    },
+    {
+      "headline": "Is FirstEnergy (FE) Undervalued After Its Q2 2026 Earnings Update? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXFuZGhyVzNWTTBYUkJuaEtCWjNnRWRqYVFvYlpWWmNDS1lubUFaYUNGRUExQjBkbWxkUDY3YlJoZldEY2ZuVFRHUnowOTcxNkxLNHJxcVJMN0tDQ3BHTmRXb01HWWVTMklVZTNmWEVjZmJHWS1qckdUMFBtZkZKSXV4cy1MR2h6ZWFGNmtGcGdjekVWWnVtSm43RjdxdGtV?oc=5"
     }
   ],
   "insight": "Tracking FirstEnergy (FE)."

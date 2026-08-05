@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:32.133Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:34.090Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    362.8599853515625,
-    373.5400085449219,
     376.8800048828125,
     374.6400146484375,
     374.30999755859375,
@@ -24,11 +22,11 @@
     393.19000244140625,
     380.9599914550781,
     382.20001220703125,
-    383.4200134277344
+    383.4200134277344,
+    382.42999267578125,
+    385.760009765625
   ],
   "6m": [
-    365.8299865722656,
-    363.2699890136719,
     363.5400085449219,
     366.6199951171875,
     356.67999267578125,
@@ -158,10 +156,11 @@
     393.19000244140625,
     380.9599914550781,
     382.20001220703125,
-    383.4200134277344
+    383.4200134277344,
+    382.42999267578125,
+    385.760009765625
   ],
   "1y": [
-    312.7799987792969,
     313.760009765625,
     314.989990234375,
     312.7300109863281,
@@ -410,29 +409,31 @@
     393.19000244140625,
     380.9599914550781,
     382.20001220703125,
-    383.4200134277344
+    383.4200134277344,
+    382.42999267578125,
+    385.760009765625
   ],
-  "lastClose": 383.4200134277344,
-  "oneYearReturn": 22.584569001895275,
+  "lastClose": 385.760009765625,
+  "oneYearReturn": 22.947475063435633,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "General Dynamics Stock Drops Following Earnings Beat - Barron's",
-      "source": "Barron's",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQlUwWktLUW53eUdaOGRyZlZxZ1owXy1LRzVsOWQ0NHRVYm1UYXpYWTV0dkRrUVh2bEptSzRoMlk2cHExWU9HYmUzeWdMeDVmUncwaDZtVzBSRE1qeDNvQUJiU2NNcGl4SXRFWXRPVzZMd0NILXhJcDFvSzJ1YkNOS05iM1dOUQ?oc=5"
+      "headline": "General Dynamics (NYSE: GD) files legal opinion for 1,010,925-share rescission offer - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXA2SmNRSzlHY3lqQ3lRMk0yMklkOU84cXZ5RDlSZzg4VDUwcExDaDVCajBjLUJETkt3WC1IdXRaUFd3Mk1tQlhGalc4WWpBVHJDM2NJSWtSaWx1SkVMQWRMUTlxS2ZxSGswT2V2MTJnMmQwdW9pS1FEZDVGaGxNNThvZlFPTTBBQVZBOXZGNW8taGJGUEJJbi1NNEZKRzY2ZWNoVFUtX0RpdmFO?oc=5"
     },
     {
-      "headline": "How To Earn $500 A Month From General Dynamics Stock Ahead Of Q2 Earnings - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOGRSWjJYMjhORGZhUVJxRjBkQk1lU1QxNGU4UkhlNjFsTDg5amVVbVZuemFRZEx1a0hrVm9qcmMtbGhYUHowUmRCUE5KVWNLVUJUUGl6d2NISGZ0bWdER1puUFYtQUE2RVNXTnNHeEM1SzNhdlJjU1JMVXNhNlV0ZHhNSlVNbGNqbS1lY3puWm5GZlNCdlkyN0pJUXg?oc=5"
+      "headline": "General Dynamics files prospectus supplement to rescind up to 1,010,925 shares - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRkhORlBIWmZydWxoNUVoZGpENV8xMlpKYURfSUpBVWU1RWtHM1VrN0IzOFJKUzMzd3dkcmE5eHJVWGh6ZnVkR3g4TUdXUkdUcUpHZGM4X0gwZHNiWG0tNExzOHVQMTgtVF9zdnJfdGEzYm9xWXlpN3B6UUhfT2wtNDd6cmo3bkxqSFZxR3N6TWpseG9ZQUpYTDY5Sm9vZk9BUTNIOUFsQ21XUVRKWG1QYUdNeFBOQm5QcTF5ZTltT1kyNlZHSXNKY2JrZW9wZHczaXNRRWpfQQ?oc=5"
     },
     {
-      "headline": "GD Stock Eyes Best Week In A Year – What's Fueling The Momentum? - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc0JKcjVhZEt0cjNsU25LS0FPaUgyb09GNThNRWM1TWZhc04tTlpTZkJMR0FPd3F3YWtyUTJoM2k5SG1QRzlOYzhrTmp0aEpmdm9mUlpTV1NLdzdZeXhLOXJRSHlaX3dvZWF6cnVHREVaOFR6YjRUS2ZnR3pueF9FbmVQVzdLeXJuNVY1dTRHRE1uMFFUUHBpZ29YTnR2R3NhSXNTaERvdTJUamtSS1NWV2RobW1QcGlmNTRUaG9JblhsX2c?oc=5"
+      "headline": "Wells Fargo & Company Forecasts Strong Price Appreciation for General Dynamics (NYSE:GD) Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOWdJMF91VDNiMHZoMjlJU1c3OUl5OGd2V3l0WjdnWi0xU0xIcmlmWlFGZzhycFIzQzNTdjBlajVoSmtBQWt5TXpna1lCYnVaZVJvUTU1eWI3YWJUSUQwYW5NYVVub29aOVJhU3FTSFpUV0NhMncxS3Z1U0x3S0VNTllMdjd6OHZWNUJxdG1wS2VpY2tEV2lfcWRtMU1COHJmMTljWlEyakVQVUdxem9pWThTYUpoeklnSHJFVTJfcHUwc3RuWktpWkh5TlNaSUk5aUxBX0pwdUczdlk?oc=5"
     }
   ],
   "insight": "Tracking General Dynamics (GD)."

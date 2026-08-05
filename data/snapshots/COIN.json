@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:20.315Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:23.297Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    159.24000549316406,
-    165.47999572753906,
     168.8699951171875,
     163.50999450683594,
     159.36000061035156,
@@ -24,11 +22,11 @@
     167.89999389648438,
     160.08999633789062,
     163.5800018310547,
-    146.25999450683594
+    146.25999450683594,
+    146.5,
+    150.72999572753906
   ],
   "6m": [
-    223.13999938964844,
-    216.9499969482422,
     213.47999572753906,
     210.8300018310547,
     209.42999267578125,
@@ -158,10 +156,11 @@
     167.89999389648438,
     160.08999633789062,
     163.5800018310547,
-    146.25999450683594
+    146.25999450683594,
+    146.5,
+    150.72999572753906
   ],
   "1y": [
-    318.1700134277344,
     297.989990234375,
     303.5799865722656,
     310.7900085449219,
@@ -410,29 +409,31 @@
     167.89999389648438,
     160.08999633789062,
     163.5800018310547,
-    146.25999450683594
+    146.25999450683594,
+    146.5,
+    150.72999572753906
   ],
-  "lastClose": 146.25999450683594,
-  "oneYearReturn": -54.03086767004339,
+  "lastClose": 150.72999572753906,
+  "oneYearReturn": -49.41776547293184,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Coinbase Reports Record Share of Global Crypto Trading Volume, But Its Price Still Drops. What Does That Mean For COIN Investors? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdmRKY2ozc0R1OXhWMlFtRlIwaTVRc0g4R2FUY3R3bEItQmlCTUZkVFM4MUVFYm50aGhJa242NU1TYU5udEtramVrWWJrbDduNjRISm9NblAySEtpVHd4V0phbjBMeW9aY05IX3l1QmJoMUpGNGtIcExFdUVkWEhlN1FxZXpEX0JDY1FMdUtGVkJmZ29NdVo0RFJ4WHViSElzX1kzU3Y3SW8zd1BDOVhiWmJWMnhfRkhzU3RCOHlXeEFJSG9QZEM0WjVINENhbktHcGdiVHFzbjM5WTdwbDFRWkFsTnZrX3Y0V2hqMHFTS3p6SW1Qd3FfcFlVOGdsdw?oc=5"
+      "headline": "Why Visa, Mastercard and Coinbase aren't abandoning USDC stablecoin for Open USD - CoinDesk",
+      "source": "CoinDesk",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0dwR3B2YkdtdXVTREZ5NGZJX0Fpd20tdk5maFFSVENYOGlrSlBiUlFfV3ljcDR0YjFGS1FaOUFEdXBCUTdZZUtCUWs5ZjI0UEdRczlXRlFPLWRxczNkOWtTV2RaUm9TNU1LTHdpcUJOVjlKcDNzMUg4dEVhM1BIX3hqak9oQWY5aldvNnhhZ01SN0Zzck9NakR5Ulh6eXdveWxGdWR5UkxacmpUdnA4NWhXWER4UQ?oc=5"
     },
     {
-      "headline": "Coinbase Stock And 2 Founder Led Companies Worth A Closer Look - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSU84dVFGQ3A4MHpEZkswTXFfaTRXdnF1MnBkR05sMUpvOHBGR2tNLWdZQ1hOZGQ0Yk1pVTE3aW1GUTI5bzd6aXVlUWFldU5WWTdUZ1hiM2J3aGVkNk5QTURrN1dVLTBSeEFQVjdBSEZ6VWxNalZVVk1lSldJX05JNWgybDBoNU9udW1wNnZuci1YVkI1TFY4MURIUGZGRDNPN2RfclpLcll3YWVTVTlyWU5RN204MUx1TlpTa0FNQzVrN3JJZjVlRG1XMzhlb2dhTnNkaGo5UDJHVEFRUHVxZlVn0gHnAUFVX3lxTE1wY0NQSEh3RTF6YXlJdVpLVmU0WUMzVUR5QjdudW9WeDhwenNjbGdqYlRuYmkxVFNpSS1nTXlSRFQyWWlObk16TUV2OTd0c3hSQnBJSmdNTmE1azRsVFNkcHdzcl9VaHloLUM0VlBJX0VZNEcyQ2p6X0JGVGt2VWE2UkhIdDZRMVlIT3BQa0xUNkY3Ri1uMTRKWTZ0YTB2bjlTRmxFT0NZRl9vR29objN0dzNXaEJvV2wtTURfZnNIZEIteEJlTnFURkcwSUg0RDduV1YxVmVIbDFfOVVRODFuU0NRRnFwcw?oc=5"
+      "headline": "Investor Cathie Wood Buys Coinbase And Circle Stocks - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTXBXc01XQy1fT21LQ2U2S2M0b2J6MUZ3QUdvem9oZ3BSclF0TTFsVGQyUEJyUnpiUWdKc3ZnZFZIektncUc4SlJtaFVEdTRiQ0Q1MmlVYnVFM3NFNzlTQUNFOUt3Ml9qbGlSU1UwcEhybnVqbjBCZ0N1WHNsVFpvcjdTQkMwbHpLY3N4VWZVVmtQVnJZVE14TDlTbURMUDJh?oc=5"
     },
     {
-      "headline": "Coinbase Sinks 15%, Strategy and Bitmine Drop 8% as Bitcoin Slides Below $63K - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNFQ3aWptaGVWOWNkT1h5MTZBUjBLSjZJc3lxM1d1TUpBeWgxRjhiV1NKaVdYYXVheEtWVXNvNG05XzNlejg5WjlOZUVKNnpwYU5qc2tBMEtucDVOeTgyd3hrOFppNmM0MXN0a1cwV2d2TXc4WlRfYTR6Q3RsdkswRERfakM3di1SajJBZV9wcENIRzlUbThzX2lkQWVQZE9CeHZwMWNxZHdSNUNFNzNtX2piUXloMDg1?oc=5"
+      "headline": "Cathie Wood's Ark Invest snaps up nearly $10 million in Coinbase and Circle stock - The Block",
+      "source": "The Block",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFlCQS1KTDdaVEhLVXpZUHhyX3lQeUk0d04tUWZVVXVaNHA1eGppck05bC14QnZkOXpNbGJSMkYxcHB5czBGeV9BQ3dxVk5kdHMzMVN5dEF5TkpoVkZ6bEkxdkRFQkpJN3JoTTZYOTdFX1E3ZU03ZTNLaUExWEhIZ2ExVkxxbHpIZDZ5RW52ZDJjRmRPNmtCamFobmU0ajB6cy1RT0FSOWtFcDAta3ZIUTdCMG9VQQ?oc=5"
     }
   ],
   "insight": "Tracking Coinbase (COIN)."

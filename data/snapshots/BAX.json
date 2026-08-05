@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:14.487Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:17.767Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    21.690000534057617,
-    22.649999618530273,
     22.579999923706055,
     22.860000610351562,
     21.979999542236328,
@@ -24,11 +22,11 @@
     24.3700008392334,
     24.770000457763672,
     26.75,
-    26.15999984741211
+    26.15999984741211,
+    28.100000381469727,
+    28.350000381469727
   ],
   "6m": [
-    20.06999969482422,
-    19.84000015258789,
     19.649999618530273,
     19.56999969482422,
     19.610000610351562,
@@ -158,10 +156,11 @@
     24.3700008392334,
     24.770000457763672,
     26.75,
-    26.15999984741211
+    26.15999984741211,
+    28.100000381469727,
+    28.350000381469727
   ],
   "1y": [
-    22.440000534057617,
     22.84000015258789,
     22.5,
     23.540000915527344,
@@ -410,10 +409,12 @@
     24.3700008392334,
     24.770000457763672,
     26.75,
-    26.15999984741211
+    26.15999984741211,
+    28.100000381469727,
+    28.350000381469727
   ],
-  "lastClose": 26.15999984741211,
-  "oneYearReturn": 16.577536652499532,
+  "lastClose": 28.350000381469727,
+  "oneYearReturn": 24.124344098384448,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVJGMVIxWXlKYjZ1UHR3TEZMNkR4bW9yQmhFSkJJNThvS2lTbEJIVmo4clJDWXZveEUwamxKbUJ1Zzl0YkxFaUxqaVhPSUlDRHl2LXJnSGZ1eExmS053MmxrQ012V1ZhRjdIYXpnZTNKdEFiMFBDRlU2bExCVktsSDlva1RZR0xTSVg5NFhla0lFSHN3OE5DcjlQNHAxY2NBZnhqNXlUbjNWdw?oc=5"
     },
     {
-      "headline": "Baxter International Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXdpRVZLc0VBTXZmeVZiNDNvaFN5dm9vREo1NFNWWl94VXdHSDFTX09BSjJTejBGaXE1NDBQd25pNFhRQlZfdS1UYnRMY3JjQm5rY2dxRHRfTUo0NUZQY2tEaWdIWkRiT1NzMUVST3RCMXZBZGRpZ2FTbTVvOTBiczB3cWE2OHkxaTFTLVRMeVVSUFdMN2VTWnVhUkxBY0E1WlhrRGJMME5yRVE0TjlhRnY3UUZYNzRhOU9LVndWZGxsTGRGN0phWlVyR1pvQ2hjdGc?oc=5"
-    },
-    {
       "headline": "Why Baxter International Stock Skyrocketed by 19% This Week - The Motley Fool",
       "source": "The Motley Fool",
       "when": "2026-08-01",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVpUVDJfY2h4X2x6QXNPbkZGSGNMTmdGOVE0cDctb0lDeHVJUmtqODNxd3AyZTVvQXdnRTdpMUk1X3FSeUZ5LXdjSm4wVXRyQXRfdDNyd0tEdWREVHc2ejZNNjVCZlAtUWZDendfOG1ocU9HQWtETmZSa1JvXzJ1ZU1YT0p1QjhkWjZxUjQ4RWNNZUY4dkhiRw?oc=5"
+    },
+    {
+      "headline": "Baxter International (BAX) Stock Cools As Margin Pressure Tempers Guidance Lift - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNk9WOG5TdFdqNVJ2aWlsV1ZNTFg2ZU1FalY3bDU0cFF0N1hScHQ1cVUzNjBEbEF4TlZmV3ZTVWxDNmN0amdOUmtqM05RRmVTZDF0Y2Rac3UwY2NWVDMtOTdvTE5US0piU0pRMFBHVFV4ZUdoTGphdXI5Zzl6aTZGcVo5YzZoSWtZbUt0NlJGYTNCcTUyYjgwaXVvTGdXdFZhYlMwY01zMk42RkFVS0pETE9Sc0lISUlLc05qNlN2MTZKUFJUZTZKYXRCZTZKR0lwRjlKdNIB2gFBVV95cUxOWnRyRDFXbGt5R1czdjM0ZEVBZjgwb3AtWmI1VDdXMGVPQ3FsU3ZHUXZVRks4MlJKRXpDLW9HZVJHbHBDX0tVOTVVOWFycHE5bzZEZkl2bkxTR2M5dENVdjRKMDNsdTJTeWVyV05SZGppcU9BNDUwcno2RlVYdVFTMTFrYVV4YVNvNnNlTC15ZDRHVTJNRmxIc1FRWmhiRklZZzQwaEJqSEdXZ3NHVHRSandNNkhBTnlKYlVGUWV6akl2ZzdrUGZESDhlbkFGb21aZl9lSzNwYThfZw?oc=5"
     }
   ],
   "insight": "Tracking Baxter International (BAX)."

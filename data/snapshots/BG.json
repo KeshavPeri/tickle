@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:15.004Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:18.222Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    104.88999938964844,
-    106.45999908447266,
     108.77999877929688,
     110.91000366210938,
     115.2300033569336,
@@ -24,11 +22,11 @@
     117.37000274658203,
     107.77999877929688,
     105.06999969482422,
-    106.2300033569336
+    106.2300033569336,
+    105.4000015258789,
+    106.7300033569336
   ],
   "6m": [
-    112.66000366210938,
-    113.5999984741211,
     113.88999938964844,
     116.1500015258789,
     115.30000305175781,
@@ -158,10 +156,11 @@
     117.37000274658203,
     107.77999877929688,
     105.06999969482422,
-    106.2300033569336
+    106.2300033569336,
+    105.4000015258789,
+    106.7300033569336
   ],
   "1y": [
-    80.5999984741211,
     82.41000366210938,
     80.97000122070312,
     82.75,
@@ -410,12 +409,20 @@
     117.37000274658203,
     107.77999877929688,
     105.06999969482422,
-    106.2300033569336
+    106.2300033569336,
+    105.4000015258789,
+    106.7300033569336
   ],
-  "lastClose": 106.2300033569336,
-  "oneYearReturn": 31.7990141042518,
+  "lastClose": 106.7300033569336,
+  "oneYearReturn": 29.510979995267387,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Bunge Global S.A. stock rises Tuesday, still underperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNFp4a2JvenhDb3BMWEM4eUJONVFxQUhOTnF1SWtSeTcwT001RUNyRjBQQ3RrajduclNQMkc5TThUbVZ3dGczdnZwMHNENjZHX2x5VURsQ2ExZDIyaEwza3RfUWp3ajZsUl9pN0lDclg4S04zTURwdnpkRmFUdWdvVTFyV09pX0hDMzNOSlFudW93WUxiRGFjbXo5M0x4LXB5N3BQTnFfM2E2NXZwZHJXbDFHZXdTRWdpNGlyb0diUkVzNDZQOEF5dlkwbjBpVE9uR1M3cFJEaVk?oc=5"
+    },
     {
       "headline": "A 6-Day Losing Streak Has Bunge Global Stock Down 15% - Trefis",
       "source": "Trefis",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWxHZm1jSDBwQXhTdXEzSDZoZ2t0dHByNC12SGlwb0FQZDF4Y0pha29KVE1qY3dkSHh6WFFJaldKSDljMzFMLUd5aWpjZUthMXdmeXVfTXlmcjJoTGZzbzE4QWRSVEF0RDU5ZUhNbXpmYnF1WjU3dlYtUmZNUzdka0RGWjg1Nk5tMTVSUmJvbmxpaGZaQmgxM25pb0t2bXBlUnFINUE5UjBnZW84QXFHRA?oc=5"
     },
     {
-      "headline": "Bunge Global SA (BG) Stock Price & News - Google Finance - Google",
-      "source": "Google",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhRFpRbDduMjhOUU9CSzRwUER4cS1LZzE5Wno3YVRFWmtybzhiZ1hYVTU1bDZRV1lmT1gyZDFNQVgweUxKaFRQaFloYnEzRUx0Q19aZUpRdw?oc=5"
-    },
-    {
-      "headline": "Is Bunge (BG) Using Buybacks and Viterra Integration to Redefine Its Core Profit Engine? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ0VCV2ZEQlBVV3B2Qy1xVi1mVTY3UXJsbDUyaHEwME0yNHdzYjVnNzEyaXMtNVVkcjFKeW5rS1JpV0JYVG5aQm5ESFZmNy1mRG4xS2JrSXFoSDVsV0pNb0YyS2xZaU1pLUlzemx6OFAxY0Q4MHVyNGRWTHlabnQzNFJkZHctWmljQXdGYkZYX3A2UmZFNHExSFBrQThVS1BsOFg0Mko2N0lyT2tyTkszbmRsaF9XaTB0TjJLb011ZzJpLXJMdUJYcXB0NUljMzZjRVFNeGtLV3F1bE5h0gHcAUFVX3lxTFBnRUJXZkRCUFVXcHZDLXFWLWZVNjdRcmxsNTJocTAwTTI0d3NiNWc3MTJpcy01VWRyMUp5bmtLUmlXQlhUblpCbkRIVmY3LWZEbjFLYmtJcWhINWxXSk1vRjJLbFlpTWktSXN6bHo4UDFjRDgwdXI0ZFZMeVpudDM0UmRkdy1aaWNBd0ZiRlhfcDZSZkU0cTFIUGtBOFVLUGw4WDQySjY3SXJPa3JOSzNuZGxoX1dpMHROMktvTXVnMmktckx1QlhxcHQ1SWMzNmNFUU14a0tXcXVsTmE?oc=5"
+      "headline": "Bunge Global SA (BG) director Christopher Mahoney purchases 6,500 common shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM24yQUZTOUtUREs2ZGNfeHh4YzdfU3ZEaENOdWZteUxXOVNrekttZU1JMGtwNDBCZzYyMGJQck9BYkJ1em1xRi1VcnFUa1BqdEtuYUVxWmhnMUFTTTJjZVlWb2VXVDViUGdqYXFjWUUwY1Z4YkpfWXJLMmxKZnhOV0k4Z2ExVnZtcjlNMl9KbXFtRzRwSjVuMzN4LURsVjZMblJmYWZQdlBwV3M?oc=5"
     }
   ],
   "insight": "Tracking Bunge Global (BG)."

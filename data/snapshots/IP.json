@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:38.070Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:39.554Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    38.34000015258789,
-    38.790000915527344,
     38.58000183105469,
     37.91999816894531,
     36.66999816894531,
@@ -24,11 +22,11 @@
     44.09000015258789,
     42.63999938964844,
     43.150001525878906,
-    40.83000183105469
+    40.83000183105469,
+    41.45000076293945,
+    42.310001373291016
   ],
   "6m": [
-    41.84000015258789,
-    43.040000915527344,
     43,
     42.20000076293945,
     41.4900016784668,
@@ -158,10 +156,11 @@
     44.09000015258789,
     42.63999938964844,
     43.150001525878906,
-    40.83000183105469
+    40.83000183105469,
+    41.45000076293945,
+    42.310001373291016
   ],
   "1y": [
-    46.060001373291016,
     46.11000061035156,
     46.33000183105469,
     48.040000915527344,
@@ -410,10 +409,12 @@
     44.09000015258789,
     42.63999938964844,
     43.150001525878906,
-    40.83000183105469
+    40.83000183105469,
+    41.45000076293945,
+    42.310001373291016
   ],
-  "lastClose": 40.83000183105469,
-  "oneYearReturn": -11.354753335437518,
+  "lastClose": 42.310001373291016,
+  "oneYearReturn": -8.24116067395466,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGhBZzl1MVBOMmRMWjFFYnVtaEhfWlN5X0hiYnpGeDY3Qk5nR0lqb3pFeXZBRDJPeFpVOXF3REJNTUlqZnFBdGIxTHVDSklMdUVoUnAzZjFQY01BbGFzZXpvNXdSdmdEY3RlMW9wYTJ1NEVmTjNmbFp5MEF3TnU5aVVNdDZwRF9KWHFRZG9fQThFX202bkM4RnNQRVlWVGdaNnBxNmt1YlhjbGs?oc=5"
     },
     {
-      "headline": "International Paper Co. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNE5NeFZGb1dzd0xRWER2alVSX3ZaYWtFOFdiakVXallVZ3VkMl9MLU5YczdSOGoxZkhENXFjdnVRR2t3UGxRQjFQVFZEX3RUdk1VNEU2RWpBV2E0dHFVdFotN2YxalVoM3N5X1ZpNWN6MEpZOG1IYlpzQjhJNzF3TkxEWVQyMG9qNUpLTmRTVTI0d1hYRkd0b0hzQ1Z6TlBFeWZUb21DREdWa2pTOWVnVWlDUEtYN0g5R09KUGZEVDBfci1RbzU2RDNBMWlOTE0?oc=5"
+      "headline": "International Paper (NYSE: IP) accounting chief sells 3,500 shares at $41.96 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZThHMkx6OENNVW4wVWZKQ0pQbl9nRHVnZTFtaE5kWWhURzc2Z1dMM2k1VHp0MS1kX1FKQnpWMEYteFY3S3M0aERiMmRsNHY1NG1nWE04VGtpQklmSS05cFNaQmdVd3drNjB2T3RtQ1BsWjBhczBRb0xBbldSalZ3ay02OWFxMDdPU0FJUDBJZG40X1pLYW95NmN4ZVJjc2pzNHQyQlhDWWZYS0toVDNiNDlwaWNvME5mOGc?oc=5"
     },
     {
-      "headline": "Is International Paper (IP) A Bargain Following Mixed Q2 Earnings? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLXg5NEtCX0hnb1ZuU1pvNkpSSUxkT2dnN2xBaUQ3Z1ZhM1lxWEF1NXBrRjVkZTBUYmduaE9JcmlnWlRQVmVtVE9Dd0pjZGd5NWJZMEtUaVBaMlY4ZmJKSTQ1OEMzcEM3dUJwQWthX0JwdElsV1N1YkE4dHo4TnZQYjdoZFZqbHR0Z1NaZXhkbEZraEpzOW1PWFhrZUJIYU55c1FNTGZkU19GV3hYRGYyME9nSnlTMElCVzdZR09mLVZBQjFSaWpOVjBfakwzZ2FSWjlPeG5R0gHWAUFVX3lxTFAteDk0S0JfSGdvVm5TWm82SlJJTGRPZ2c3bEFpRDdnVmEzWXFYQXU1cGtGNWRlMFRiZ25oT0lyaWdaVFBWZW1UT0N3SmNkZ3k1YlkwS1RpUFoyVjhmYkpJNDU4QzNwQzd1QnBBa2FfQnB0SWxXU3ViQTh0ejhOdlBiN2hkVmpsdHRnU1pleGRsRmtoSnM5bU9YWGtlQkhhTnlzUU1MZmRTX0ZXeFhEZjIwT2dKeVMwSUJXN1lHT2YtVkFCMVJpak5WMF9qTDNnYVJaOU94blE?oc=5"
+      "headline": "International Paper Stock (IP) Opinions on Q2 Earnings Report - quiverquant.com",
+      "source": "quiverquant.com",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRVRQbjBIbVhKUXFaTXJtN01pVlhSUWVFV01tV2R4SnJQWWI4RUVtQ2d0VUNnQlFiU2t0dWE1dVBNOHNfZ0FzeGhiSndESWxUcF96THdRcFVxVmNYZS12Tl8zWnFUUUFvQXV3TThLdHYtSlBwdmk5eG1ZVFMxR0FFSDVNTTg1M19GYUVUdmlFdk5aclBMZkFteHpCT0ZQcDQ?oc=5"
     }
   ],
   "insight": "Tracking International Paper (IP)."

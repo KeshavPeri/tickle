@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:46.061Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:47.254Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    279.17999267578125,
-    273.3599853515625,
     280.510009765625,
     273.1499938964844,
     283.80999755859375,
@@ -24,11 +22,11 @@
     259.1199951171875,
     240.97999572753906,
     245.16000366210938,
-    229.16000366210938
+    229.16000366210938,
+    224.1699981689453,
+    237.60000610351562
   ],
   "6m": [
-    236.75,
-    232.47999572753906,
     231.0500030517578,
     229.4199981689453,
     240.02999877929688,
@@ -158,10 +156,11 @@
     259.1199951171875,
     240.97999572753906,
     245.16000366210938,
-    229.16000366210938
+    229.16000366210938,
+    224.1699981689453,
+    237.60000610351562
   ],
   "1y": [
-    211.99000549316406,
     208.47000122070312,
     205.9199981689453,
     205.91000366210938,
@@ -410,29 +409,31 @@
     259.1199951171875,
     240.97999572753906,
     245.16000366210938,
-    229.16000366210938
+    229.16000366210938,
+    224.1699981689453,
+    237.60000610351562
   ],
-  "lastClose": 229.16000366210938,
-  "oneYearReturn": 8.099437579145203,
+  "lastClose": 237.60000610351562,
+  "oneYearReturn": 13.97323581917819,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "NXP Semiconductors N.V. stock underperforms Monday when compared to competitors - MarketWatch",
+      "headline": "NXP Semiconductors N.V. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY0wtRjZTY2lBQzFYUTNxSjN4c05YeTB1eDlTS0VXMnhKOHdSbDVmSVVJU2FfeHowVDVWbmNSR2tZMnpzbEV0SkdBb0J4emFFWXlTZmpLemNmZ1J2XzJ5WjJRbVBHTG9ZTHJsZEpheUswQ2tXdzVTZlVORmk5MVF5NnZHdUxHTUdYZzYwd3pmdGZ1VFBnb2c2Nmd5YXpndEt0aGJqXzJvUmJzQUhkTHluSUM0NE96UTd2STJEM2I2ZDBobndkVTZIV3JiOXkxNXpIaUxMX00ydzJNTU5DbGJGdDljeXZoZENjdjRRbA?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYy0wZWdWNmNpRXpJRXJkbnotekpsa3hJVFktbmxQV0pjYm5vWU1BX2VGQjkwa011U3o0b3lJNnFDeXNSdWdtX2k0bklBUmNoMHA5Y3U0TlRGbmNOaXFhYjF6T1V1WEJlQmNKRFplOXNTMGVIWjhYNVVwZTc4RllIR2JfS0hpSkhLZG54Z2lISVVHdWZlQ2hlakZFaG1jekdGdDc4U25hSTVfdGdvU0IzU01pQ0FlQ01vOUVxc09iX2pkYUNHNkRCM2N6SE9zblBqZVltMmhBbEd4MDZ1YkJhWWRUbE45YnRUTThFV0hqMU0teTNmOXphUERIMjRQbms0a0ZyZWt0Qmk?oc=5"
     },
     {
-      "headline": "NXP Semiconductors (NASDAQ:NXPI) Shares Down 4% - What's Next? - MarketBeat",
+      "headline": "Ambarella reportedly in talks to be acquired by NXP Semiconductors, shares spike - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNODZ3SUkyaXZZQ0k1b2F2dGF1VWQxc0ZKczlzNDNwc19zcGdmODk0dThqUnFRWnlmYjNSeFY5cDVDTXdZSnlUV0ZfX3AwYnJrMy16ZFI1cnlPblRuVzNqSEZGc3NhaHhnUG1JRGVRdzIzcW81bGxoanlFU1Rid21rT2ZPNmdTRnhNek81R3hYbjlXZEw2UnVMaHVlbEJnVFdsUUE0Xzk2Wk8teEFrZnpyaTJBTzluLVpHVUFrZHF6MTV5WFdFTzJjYTBZTHU0MTVyUXc?oc=5"
+    },
+    {
+      "headline": "NXP Semiconductors (NASDAQ:NXPI) Cut to \"Hold\" at UBS Group - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnhaQ2xnekx6OHVEaEduYTY2UWE0ZjR1c3hJeWVSdGdHYXFFSk5Zd3FvYmpKY1p1Ri03UktYOVBuaWtUNklNOGpDcDF3OHFyVHJSTENHLUI1LUZGbUdZN0hVS1ZSU0g1R3ZERDRHTHhBYmlrcUtWMGRjVUVmRzJVM2FJelhQUEIxRC02U1IxUlVRS2dGMFJDcjJTWDVmVThvd2d5MDhKZzBsQi1U?oc=5"
-    },
-    {
-      "headline": "NXP Semiconductors (NXPI) Stock Looks Stretched On Cash Flow But Reasonable On Earnings - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1AzekIzSVUtWkpYQWdiaGRMdnhHOWpyMUpZRW5uWmFJYTJjRUhwbUcyWTNaX1Fua1B2OWVZV2tnY25iN3ZNekZ5TEtqc3ZaRkFXeGJlaU9CZTVTVFFMNFlvSkJGRzFRekdldEc0Q2wtaHRpVDhuQlBnaFNEdUd0WjJQbXR0RkczNHNSbnQxZmlJbUpybGxYMWllT3FHalNPUkE?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNFZkTWJxd3dycDBSQ21uQ2YyUDZsSmxSaDh0VlpZb3g5LVYtQmtJakxLcHhUWEVDQVZfQlltMmZmZmsxUTg0N2YtbWs5MjFXd3IwN1pDY2pkM01FY2JfWHhYYVRoVVhpWkpxa09UZVAycWQzUUJLVk1TdHEyOGVoZ3U0cDd6SFhLWDVibzNBR2lnU25BWkZMOGRMNG9NdE5pMzJ5RnZHR2FTbzNF?oc=5"
     }
   ],
   "insight": "Tracking NXP Semiconductors (NXPI)."

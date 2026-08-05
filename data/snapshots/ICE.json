@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:37.080Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:38.565Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    126.7300033569336,
-    132.99000549316406,
     134.91000366210938,
     136.4499969482422,
     137.1699981689453,
@@ -24,11 +22,11 @@
     152.72000122070312,
     154.27999877929688,
     156.27000427246094,
-    152.47999572753906
+    152.47999572753906,
+    151.8000030517578,
+    149.1999969482422
   ],
   "6m": [
-    174.35000610351562,
-    172.92999267578125,
     175.10000610351562,
     173.27999877929688,
     172.44000244140625,
@@ -158,10 +156,11 @@
     152.72000122070312,
     154.27999877929688,
     156.27000427246094,
-    152.47999572753906
+    152.47999572753906,
+    151.8000030517578,
+    149.1999969482422
   ],
   "1y": [
-    188.4499969482422,
     187.39999389648438,
     188.0500030517578,
     188.02000427246094,
@@ -410,12 +409,20 @@
     152.72000122070312,
     154.27999877929688,
     156.27000427246094,
-    152.47999572753906
+    152.47999572753906,
+    151.8000030517578,
+    149.1999969482422
   ],
-  "lastClose": 152.47999572753906,
-  "oneYearReturn": -19.087292015495382,
+  "lastClose": 149.1999969482422,
+  "oneYearReturn": -20.384203944714656,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Intercontinental Exchange Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZUQxU3EzLThwd0JJTnczMTF2VDhvM0VWTDR4VE5wUGNWMDFZR09oUXlXVm9tNE1SNzJldjdVMjFQVTNaVW9EVUlnUEktTDFYdDAzV0h6Qm5RdDRfRkkta0dWamYxcnBMN0RfQ3JWVl9GZ0xncWtGNkgxbjBnc2xPQ1ZfTnV0elJmNDlvS0hXcjJiaHAyRXA1enNaTGR2Qll5ZkxndGNSRy1tS3RWc2xnb1YyM1E1WVBkb0VlN1dtVzQ1dktIbVBCQ2dwTS1CSUhPaUNpUE9Lc3VmQ2t2aV9mVlhfd1hIbDI4dzNJSVB6QjhIZ3lHWk80?oc=5"
+    },
     {
       "headline": "Intercontinental Exchange Stock: 7 Straight Green Days, Up 13% - Trefis",
       "source": "Trefis",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdVVnZFBaNWhvQnEzMDZGRVNCTkxHdTFMcWU5MXFQY01rMl9TZGpDbEdTWWhKazEwYlhVZUgtZmx5anhONm5laE5VSk8xZFBKYl80RjZpc2haYWJxU0FyQng2VXNNVFAwNXc3Nm9DbnI3R184RTRsc0RKZ1cxX2d3RUJneEQ0eXRoMV8wQTh6ZDF0RDZJd2hwQmlrVXlQZ3VMSnFBa3VQeGJZbGtBd05zaXBOV3l5U3RQekpV?oc=5"
     },
     {
-      "headline": "NYSE Owner to Buy MarketAxess in $6 Billion Deal - WSJ",
-      "source": "WSJ",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTjh6MVJXeDBuT19QTHdxME5BaGNhc1o5Q0syTWhBZDV3MEtiWnhzdUtmb1BDeVRwMHN6SnB6ZzUyd3d0eTljUW9XbHc1SnJQOEl1QS1NOFVORVpHMm5KWUlBa3EtMjhaNVc5TjN2Z213SGR4VHBKMGJudzdYZ2JQSHk2ODVOekNBNGxWVjliMENXaHRDLWZwWENmbkFFdmtFaXhDWG11SmppVDhlVXc?oc=5"
-    },
-    {
-      "headline": "MarketAxess Stock Surges 30% on $6 Billion Intercontinental Exchange Purchase - Barron's",
-      "source": "Barron's",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTHZ1SDByMFZkbEhtby1nNXlIeC1ScG9fR0pIQmtCRmZlZEV6bnROeUlkZmJVTDhmVW9lLVpoVHM5YkJUbl9uNmIyVGtLMi10QkllX21SMk1EUzJXNmxNdTRVVGZPZF9TQUFDSHdvZkVETmU2QjZtNXpLTExmZFU4NFBtaFVNSTM2OG1fbThVRmo4QkcwUHdF?oc=5"
+      "headline": "11,075 Shares in Intercontinental Exchange Inc. $ICE Bought by Edgestream Partners L.P. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNVJpd0JYZ292YUt3c1lQZFU4TDlIeUdpRldrQVFPOUpQaHJzWTZia2hEMmFlOWFWWU5OalE4UnZKM00xSUM0U05heTdzZG5jR3U0OGhhYlZDLUZiRlhnSWd1eG1NWC02VGRmX2xNZ01xaWxQMkstLUcwY1NqMVJ5YVFrbzhsd0JKZG5HS2ZxY2ZnMlZ3YlhYNENXaGlZWnY3MERjRzNXRW82TjREaWZna3pFYlFtV1hEYlowMDJnNHFhaW1ybGhPeE9MRElWOTM1X2tNTVV4LVhMMFU?oc=5"
     }
   ],
   "insight": "Tracking Intercontinental Exchange (ICE)."

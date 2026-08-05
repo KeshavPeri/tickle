@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:35.065Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:36.875Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    278.9700012207031,
-    291.5,
     294.1000061035156,
     289.4599914550781,
     289.4700012207031,
@@ -24,11 +22,11 @@
     299.8999938964844,
     280.3999938964844,
     319.8999938964844,
-    326.45001220703125
+    326.45001220703125,
+    325.95001220703125,
+    323.05999755859375
   ],
   "6m": [
-    424.1400146484375,
-    418.5799865722656,
     413.55999755859375,
     422.7900085449219,
     425.3900146484375,
@@ -158,10 +156,11 @@
     299.8999938964844,
     280.3999938964844,
     319.8999938964844,
-    326.45001220703125
+    326.45001220703125,
+    325.95001220703125,
+    323.05999755859375
   ],
   "1y": [
-    265.6700134277344,
     270.9200134277344,
     267.489990234375,
     266.45001220703125,
@@ -410,10 +409,12 @@
     299.8999938964844,
     280.3999938964844,
     319.8999938964844,
-    326.45001220703125
+    326.45001220703125,
+    325.95001220703125,
+    323.05999755859375
   ],
-  "lastClose": 326.45001220703125,
-  "oneYearReturn": 22.878004933676795,
+  "lastClose": 323.05999755859375,
+  "oneYearReturn": 19.24552692552087,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkxzaXk3eTBjOVVFVUxMUkh6NVcyQmZhdzNmamVJbDR6c1EtLWo0U0gxUC1adTdpWDlPNzV0UE9pTHd0UHdGQTdNdGxIcklNMTZtY2l1RW9lX0NZal9YZ0lSbGFKNzdLRlFuLW53SzFxY0lSRWdaZkhtcXVxUkhGc0x6S2RCYm1VQnp1MlNLUVZFS1lGVE1aZFJYNEt3djRFUkgyR0hSMA?oc=5"
     },
     {
+      "headline": "Huntington Ingalls Industries (NYSE:HII) Stock Price Expected to Rise, Wells Fargo & Company Analyst Says - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXZPdXBWZ1luWTcya09HSUNfZ3A0WVBLazcxNjc3ckdKNnhGN0hOTDNfZFFEcG5VSUdJY2FWcXNDMV9tQzZVbnVMTlc4VTNMRmdPVjVneGtvV3RQcm1Md0piU0JOaDVSeFhkdk9YTXJ3bzVDZ20xQ1drR1Fmem1CTjBrLXVVZmJUMFZERmhjRUI4bXNQeTVrYkhQRU9lRmFNdDR4RzVvc3otRHktNVdFc2hsWTlXaERJYkhvOFFxRm1DUHJEbnBycF9GTGpTeGkxUEtrM0FmakRBN2laUnJfTHcteE9ZZHEy?oc=5"
+    },
+    {
       "headline": "Why Huntington Ingalls Industries Stock Is Heading Higher - The Globe and Mail",
       "source": "The Globe and Mail",
       "when": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb0oyVVlQMF9sSEp6bnJVQm5pRTM1T25pUWFkR3RPLXlrNmpEQXZGdVl6QlVGbzB1VUh4R1Fhd0VOTUtCNl9jWE9tQmZUbWZmaTFWc01FVFR4eWFOcXp6X1JOMUFJazdGOEsxaHF1UF9PZlhxVzExc3l2cHhvQldUcjh2MWFKVE90REFtMVMwa0dWdV82RU04TG43MjZGVzVwWW5Sa0x1a1NYYlUyVEdpSmc5N2sybWJqOUxEX2tfbnI1SzF1dU9Cc3FiSEZOZDBSS3htMGpCQU1pQQ?oc=5"
-    },
-    {
-      "headline": "Huntington Ingalls Industries (HII) Stock Rises On Shipbuilding Strength And Margin Gains - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOC1BaGc1UzVCX25UNjZHcC1aZ21lMHRzOVd5M2xKOTU5VG5FS0xpdTRvSkdxTE03NFFMVHJQcDRkZXBma09TS2RmT28yM2xrUmxBZU5HZnoyOUNjSFBEU0VTQ3lEYUszSmVLakhpa05Cc3FxN0F0WDZyS1E2RlFTci1tM0hJRmFKZFhwMmUtNUpVajlMMktmUDh1S3l3dk01Q3VuVHRyRDBaNWpUQ1l3QmVoQURmX29BMjZBelZIckJiQWR1dVF0Q29RQjUyRHgwd3RGUzVsdS1ERHJBcVJDYjNjZzjSAeoBQVVfeXFMTzZOWW40UXZLZVhxNFQ0QTNrVmx5cks1aFBnVlk0WEpkbjE5OXFsa1VYcDFCYnJQSzMwbk1XSnBJR0FJWjdDV2tZdXpPbm44OEVQeWdoNy1CUlJka3ExX01rQVNsUTdrbE9mZDdFMTNFUVV2SUk5RUdpOHBjR2JHMy1rdTZiVElwU1BDYUJKN0lQaGtlMDNhdkZrVHpuN3VCQXpHTWNPd01wSjJQQUoxbFNFWXV5TVo3Nk1jYmhDbWtSdDk2c3p1RU96Z2ZxeEpIeVlVdzVnRW1EbXJtUTZoLUNtQ1VYLTFPczVB?oc=5"
     }
   ],
   "insight": "Tracking Huntington Ingalls Industries (HII)."

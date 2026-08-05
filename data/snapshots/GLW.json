@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:33.124Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:34.939Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    220.6300048828125,
-    196.7899932861328,
     194.8000030517578,
     185.3800048828125,
     184.02999877929688,
@@ -24,11 +22,11 @@
     126.01000213623047,
     124.05000305175781,
     135.22000122070312,
-    138.25
+    138.25,
+    146.63999938964844,
+    159.88999938964844
   ],
   "6m": [
-    94.27999877929688,
-    93.30000305175781,
     94.94999694824219,
     109.73999786376953,
     104.27999877929688,
@@ -158,10 +156,11 @@
     126.01000213623047,
     124.05000305175781,
     135.22000122070312,
-    138.25
+    138.25,
+    146.63999938964844,
+    159.88999938964844
   ],
   "1y": [
-    63.4900016784668,
     63.16999816894531,
     63.97999954223633,
     64.76000213623047,
@@ -410,29 +409,31 @@
     126.01000213623047,
     124.05000305175781,
     135.22000122070312,
-    138.25
+    138.25,
+    146.63999938964844,
+    159.88999938964844
   ],
-  "lastClose": 138.25,
-  "oneYearReturn": 117.75082114525873,
+  "lastClose": 159.88999938964844,
+  "oneYearReturn": 153.1106601618538,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Is GLW Stock Falling Today? - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUlGenBEVUI4ekdJMzQybjlCUmNabTVvVzNBSFU3QjFabnprSVpFdXJSalpjZEJGWEZ6VEQ3cklEWVpQQWtHRmlQRHo5MGd6VmdNOGt4TmFfcExTWTJSR2ZjaEVqczJ5ZmN4MnZoUnd1SER5M2d2RVFaOVRacWpXTEFkeU5ZeTMwc1lCOVJKNXFRM2M5dlM1emxR?oc=5"
+    },
+    {
+      "headline": "Why Is Corning Stock Surging on Tuesday? - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcWZrN0tBYUFweHhiNVNJdFZZSTBHMDU2djNCRHZlSVhuYWhXYndUWnROVVBhXzVkUDV2S1JTUEN1MUdCWWVWWWVNNnBSWU9OSk43d29FX0dCMjFhalBFNUdVVng3bm04WV8yNHQzTjJJOG5SV0hsa1F1NnBHV3R4ay10ekt5M0J0OUJhVG14UGJyN0tEZFpXRW44MVlLcFFnaWc?oc=5"
+    },
     {
       "headline": "Corning Inc Stock (GLW) Moved Up by 6.76% on Aug 3: What Signal Does It Send? - TradingKey",
       "source": "TradingKey",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMHJfanFLU0RhZ0kwTFpZbDZLM05mSHRvTktLTzR4YkYya3RfTVRGNjVvTzZrcHNnMGQxRUpMTS1PaTFQbWp0aVpOaXRNampIS3NxcFE1eGxWZ2E4OEllV25VMUFYWEJQT284N0llOVJablhDM2NiSkF5bkh6MGZsMm45VHVxT2xTaWc?oc=5"
-    },
-    {
-      "headline": "Corning Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWw5QS1QNk9EMGFCeE1Sa3lmMmJaQTA2U0ljWGoxZ2dleF9IOVU0VGV0bVhkeWNFVzZFWjNkQWhMX3o1VlZKdk5xOGFBQnJLZ0MxWE1IUk5fU3RNamVsOEpzV3VXZUJBaFRPVnh1ZmxKLTY3bFQzdFJ4SVhOQnFyNWFKeXVlaUFQQmFFb1VsdmJHaEEwT21JZ1BJaUV1MEhTTHdUUUJKRU5LUVFsZDhqQnQ3UE1xNXlOV2FURWkyaGE?oc=5"
-    },
-    {
-      "headline": "GLW Stock Sank 46% In July, Its Worst Monthly Drop In 24 Years — Truist Sees It As A Buying Opportunity - TradingView",
-      "source": "TradingView",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR1E3bGNkZ0t5S2RGc3o3Z2I0UXF3Nm92SWJZSFh0WXBka1Z3R1lWeTJ4MDc4NnQxSlRaY0F1TC1YdnFzUkRlZ00wOFQxY053UWZpMWY2RkVpWllOMlhwS1hBWHZmajFicDJoZFk3bEhqbjJCaHVPenY1YnVBSjZESkxRQzNDanBIY243VUpBNkktWG5mU1lTZEFuSk5qVWtBR1cyWG9FbWxXS01MNHF6MDk3TGx5Uy1tR1pxbDl6RkRnb2RzaHhoRnRYZUswMDljeXJlWXdsSUlCZXIwZUlla05vb0xva095MENCbE8wVWg?oc=5"
     }
   ],
   "insight": "Tracking Corning Inc. (GLW)."

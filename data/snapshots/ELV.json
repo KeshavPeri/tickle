@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:27.163Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:29.455Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    416.19000244140625,
-    417.8900146484375,
     408.1700134277344,
     418.8500061035156,
     416.0799865722656,
@@ -24,11 +22,11 @@
     385.7300109863281,
     375.9800109863281,
     376.3999938964844,
-    375.8399963378906
+    375.8399963378906,
+    382.7699890136719,
+    378
   ],
   "6m": [
-    372.239990234375,
-    371.05999755859375,
     376.92999267578125,
     322.9200134277344,
     341.8500061035156,
@@ -158,10 +156,11 @@
     385.7300109863281,
     375.9800109863281,
     376.3999938964844,
-    375.8399963378906
+    375.8399963378906,
+    382.7699890136719,
+    378
   ],
   "1y": [
-    274.92999267578125,
     276.4100036621094,
     276.29998779296875,
     283.4800109863281,
@@ -410,23 +409,25 @@
     385.7300109863281,
     375.9800109863281,
     376.3999938964844,
-    375.8399963378906
+    375.8399963378906,
+    382.7699890136719,
+    378
   ],
-  "lastClose": 375.8399963378906,
-  "oneYearReturn": 36.703890572284806,
+  "lastClose": 378,
+  "oneYearReturn": 36.753371799841524,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is Elevance Health (ELV) Entering a Major Earnings Recovery? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcFhRaGVoQnRhaWlSb3lFQW5sUjNwNk9aOFJNRkUzTUZsRVcwSTY3STB6ZmVJcnlYaGdZcWhrd2pzZkV2QzNYZHBQN1E0V1dOcHJadU9iaDBsekl5OVoySHE2LVVhZmlGNGRkdmZrWU1ncERzQWhTeVhLMktQX2p0a3J1Rm83SFNPZHNybkJUWmk3dnBFTVZjZjFsbw?oc=5"
+    },
     {
       "headline": "Elevance Health (ELV) Updates Cancer Care Model, Is The Stock 16% Undervalued? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWWVFRmJaaDQ0M3pqU1BBZzN3V1J0bnpucjdLMXF6blY3cjVtSXFIOWRrc1g3NTBIejVwUVFfVm0wZlFoY0ltUEpjQUlWcFJfUFh4anBSX0dMOEJ2Z1BzMlRaQVJTaUpBV3hyM3d6eEZYVWMzN2s3LS11MXhTXy1IVWY5UF80WEg1cEl6RlpSU3lNVWR0amtvcHNlR3N4Rk01NjBtd2phNGpZN2NHZ2FHaDBYdDg0cm1wenhnbmI5SU03eFVLVTQ3MG4xRU9SazNJYlUw0gHTAUFVX3lxTE9ZZUVGYlpoNDQzempTUEFnM3dXUnRuem5yN0sxcXpuVjdyNW1JcUg5ZGtzWDc1MEh6NXBRUV9WbTBmUWhjSW1QSmNBSVZwUl9QWHhqcFJfR0w4QnZnUHMyVFpBUlNpSkFXeHIzd3p4RlhVYzM3azctLXUxeFNfLUhVZjlQXzRYSDVwSXpGWlJTeU1VZHRqa29wc2VHc3hGTTU2MG13amE0alk3Y0dnYUdoMFh0ODRybXB6eGduYjlJTTd4VUtVNDcwbjFFT1JrM0liVTA?oc=5"
-    },
-    {
-      "headline": "Elevance Health Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLUZZSE9zek5KQjhGMnA5UFdnUk9VYUlmUFVTNDFaUnptc0wyYmFYclo5cHZEbkpzOW83aUE2cWozdlVub01hdjdpcDNydEJCYjY5czJwTmRmUGV0bThmQWVQS3lZVDZPSmFxTkUyMWdiZ1BVcWNQZU5PUnhFSjBFRmVRMUViYXJmTkhDN0dWVGs0TmZOeXVXTTI3S3M3YzNLRE1UMVRBcmlFbE5lRXItb3NjS1QyZkNnazkwMVhmclVfS2tSR0dwb2MtaWZfQ05iU3UyQmNPc1MzNXJxbU5xSHlhNA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUTE2UkZrNy1VcmFYYnFVR3FYMl94ZnItZVp4WkNwbW1BbGhZNGVMYm8wQnR1MjFZOGpNSTVkUFBUc1dzV09fM3QtTTRFWEhZTC1FRThZcW1teHZhVzlaLWd2RjYxemM0eGN4NE13clBSYVZuTllMN2lMUjRaTEpVZWRrOWdHbXQzUnR2b1dRLUR1RVNpOVZCcG5wb0pwRTUzNUJDcmJycTJONmNwQW5oS0VPaVQwQXJkSHZmLW5CeHdhQWFjWXV0YV9QNkEtUdIB0wFBVV95cUxPWWVFRmJaaDQ0M3pqU1BBZzN3V1J0bnpucjdLMXF6blY3cjVtSXFIOWRrc1g3NTBIejVwUVFfVm0wZlFoY0ltUEpjQUlWcFJfUFh4anBSX0dMOEJ2Z1BzMlRaQVJTaUpBV3hyM3d6eEZYVWMzN2s3LS11MXhTXy1IVWY5UF80WEg1cEl6RlpSU3lNVWR0amtvcHNlR3N4Rk01NjBtd2phNGpZN2NHZ2FHaDBYdDg0cm1wenhnbmI5SU03eFVLVTQ3MG4xRU9SazNJYlUw?oc=5"
     },
     {
       "headline": "Elevance Health CEO Snaps Up Stock After Post-Earnings Slide - Barron's",

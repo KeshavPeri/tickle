@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:38.982Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:40.511Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    124.62999725341797,
-    127.88999938964844,
     128.97999572753906,
     130.2899932861328,
     129.6999969482422,
@@ -24,11 +22,11 @@
     140.61000061035156,
     135.91000366210938,
     132.75,
-    134.92999267578125
+    134.92999267578125,
+    138.72000122070312,
+    142.67999267578125
   ],
   "6m": [
-    140.08999633789062,
-    137.88999938964844,
     136.97999572753906,
     136.77000427246094,
     136.6999969482422,
@@ -158,10 +156,11 @@
     140.61000061035156,
     135.91000366210938,
     132.75,
-    134.92999267578125
+    134.92999267578125,
+    138.72000122070312,
+    142.67999267578125
   ],
   "1y": [
-    139.9199981689453,
     145.2100067138672,
     146.9499969482422,
     146.97999572753906,
@@ -410,29 +409,31 @@
     140.61000061035156,
     135.91000366210938,
     132.75,
-    134.92999267578125
+    134.92999267578125,
+    138.72000122070312,
+    142.67999267578125
   ],
-  "lastClose": 134.92999267578125,
-  "oneYearReturn": -3.5663275860959622,
+  "lastClose": 142.67999267578125,
+  "oneYearReturn": -1.7423138358992496,
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Jacobs Solutions (J) Matches Q3 Earnings Estimates - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMzgtYlpBYjNqMmxOeVlSWUdwcFlISUljRVBBSFNHREQteDdMVWZCSHFmdUpuMmEwdWRZaThXLXYyRzQ2TkFZT0xNR3M1YjNmbzNiWk1TUm1NXzExZFhuU2lyc1FVQUtkVVVjZmNzRU1aSFYyNGptT3JPMDgybmJMNUdUakhOcFIyTmw3c09tZjFueDdhbXlGS3B3?oc=5"
+    },
+    {
       "headline": "Jacobs Solutions Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb0UtejlXZnFqTll6Nm40eWI4bl9rRC00RldrUTJmTU93VlcyXzlTa1pIVy0zY2hqbzljNUFUMlJCYXE4ZDIyY3V4dHp6T19ldzlod09kdm5vS193RmJBdEZNc0h1YlpxaGJ3SVAySm0xeFNhUUcwZTZfdFRXOHRHc1hUUHFqMFdoakhaMlliX0lMVHJoRERxR2lNS1kxVC1Cd1pFLXJhclVvMTl0SzJSeGlWQnBpYThLQVhKUGhZSXhVNW53Mm5zSF9pWTgwOVppT19yTnBfeHdzSk9VZGhEaDdKVzc?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblpvbkZYRjJfaHhJTmlNdHU0NTU5eG5YQzJWTTVyZ2ZiRWl4Q2ZuVV81SUVrX3BtX2hKNUlrUUJZNjFGNmhyLURYcjVXSng3RkgyMFNVc0Y0X2RES0UwVXB1NUxzNVhPanFNU05uRF96SjladG9wZmRRZy1zVTdfV0U4aXRaMTFSTkpNMTJKQU9oRUpVSWU1Nl8zX3RXX0NRai03UVhUaHZ6cUlPUFYyVW84ZG5WVW5XR2Q0MC1INzF5UXRNd29TbEVxbnZ6UGRPa1BzNVU3NUhmek9sLWc5WEZfSmQ?oc=5"
     },
     {
-      "headline": "Jacobs Solutions (J) Stock May Be A Bargain On Cash Flow But Full On Earnings - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0hvcGk5YmZrYnczZkFobDlQelBWRzZjRWxfMWNEbWo5TXN0Wk5pcFVxZjBHNnVlb1Z6VEx6ajhGQW1naXJkT3pWa3BlX0NoTjVoTGZZMUphZ3U1YUJuamszMV9lUTJYa3F3bVdpN0dhQ1dxMWVPX1JIMklEekZLNmRKSHhtTVU1LVN4YUJDQzJoVjMzaHFacQ?oc=5"
-    },
-    {
-      "headline": "Jacobs Solutions (J) Q2 Earnings: What To Expect - stockstory.org",
-      "source": "stockstory.org",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOG1xUkp3RnR0eTFjYmpDSnhtUUJyMzRWRk1PX2R3Q1p2M0VLbVFDc3R1ZFNtMWFxT2N2VzZ4aWcybk5mdHpfWlRPZHVQUnVoTTBNQmFQcGtFcV9WLXpVaUw5NzdybUZxYXpIRjQwdU1GeVpyUE1UeU5yN0luSWtRWGc4X0czY0pmX20wd0FhMXM4VWp6akpmUkJwWTlSSHNG?oc=5"
+      "headline": "JACOBS SOLUTIONS ($J) Releases Q3 2026 Earnings - quiverquant.com",
+      "source": "quiverquant.com",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ3lvR3NqSWlRMm4zUnF3SGRtazhjbWxTeXVlYkNfZlVEQ0ZCMGQ2QUg3U0V4ZlhlN2dNd3lpWGJCR3Jnb2xRQThuZ1hvRUE5N3JHbVQtVFdDbnAxaEJZNnNveHMtNGtnV2txQWRPZEdzQnY4bUp6eDZpOGNWSlBUYS1iVVUzSnpFTWJ3U3RWUQ?oc=5"
     }
   ],
   "insight": "Tracking Jacobs Solutions (J)."

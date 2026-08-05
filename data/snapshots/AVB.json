@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:13.095Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:16.394Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    190.42999267578125,
-    193.9600067138672,
     194.35000610351562,
     195.38999938964844,
     189.1199951171875,
@@ -24,11 +22,11 @@
     190.38999938964844,
     192.4499969482422,
     187.77999877929688,
-    185.61000061035156
+    185.61000061035156,
+    188.77999877929688,
+    189.25
   ],
   "6m": [
-    175.75999450683594,
-    178.77000427246094,
     177.77000427246094,
     176.02999877929688,
     172.97000122070312,
@@ -158,10 +156,11 @@
     190.38999938964844,
     192.4499969482422,
     187.77999877929688,
-    185.61000061035156
+    185.61000061035156,
+    188.77999877929688,
+    189.25
   ],
   "1y": [
-    182.72000122070312,
     186.30999755859375,
     186.5,
     188.24000549316406,
@@ -410,12 +409,20 @@
     190.38999938964844,
     192.4499969482422,
     187.77999877929688,
-    185.61000061035156
+    185.61000061035156,
+    188.77999877929688,
+    189.25
   ],
-  "lastClose": 185.61000061035156,
-  "oneYearReturn": 1.5816546466402854,
+  "lastClose": 189.25,
+  "oneYearReturn": 1.5780164671418833,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Avalonbay Communities Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPazVWNXBQU0tBTGtjTHFGUlR6RlJuTnEybWlCQzB4b28yWmFkMk94QzJwT013WEV4aEg1MDdGUDJOMU1YLV9fQUVmRHdvVmlRbUNfWndNd3dEck84aXdpYk9NQktJZHdiMHI2RXgxRndGb29ZS0l4WS1UaXFJalh5X1lNRy1Lb2hGYUx2Z0ZpNVAyaVg4aTRuUXVMenduOUMzNHVKekpHbmJaLVF4WUtXQWxqbTB1RUNnSTY3cF9PRzA2VURYSFFtdkE3bW9rS0tNWWxubWE5WktzT3ZUTzZiUEJZSWdyYlVwT25n?oc=5"
+    },
     {
       "headline": "AvalonBay Communities, Inc. $AVB Shares Purchased by Groupe la Francaise - MarketBeat",
       "source": "MarketBeat",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeXB0djdpNFpTZkpxOTFUUnVDMG5DVlVFUVd3QWJsYnRPQ1p2T1lDNUduTHpRYXhYSlJ5U1ZfM1FNU1ZpTEt3WEEzQnhISU9NekdtVEVCMURyaTJDY1NlVmQ5UTcwOTcxUzlBU3dObER5TkZrMkwxZEFVV01EM1VZQkp6ZWNWdTk0UGw5cWE0M3lWUlE1QVRVc3pjVDdSSm02TFJ0M3FEY2ZOVnF5WFlYM0tMSnAzZ3dRUDFBRjdwUG9kWW44b2hWcFRn?oc=5"
     },
     {
-      "headline": "Avalonbay Communities Inc. stock underperforms Friday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTk5IMEd6UldnREp5V014M3UzYTZZRDJwZ2xXRHZ6dmpKMXFoOUpIcUNtaURwWGFyaGlSaHhMN2RJdUNaSF9DQS1jeDE0SE1Pcnc0R3dqNWprUXB0b082NTFBeWd2UVFVQ01vbWQ0b1k3TWFfRE5zSklOOTVHbkhFdnE4VFBZMENYYWRhSjdmVzFUNnZRRDh3MVQ1UDhIa0d0cm40MjA0SS1QYUNXUGFnWTVyYVFqTm1DUm1vZmRTTTFkdmZ0RlN6eFg3NlRRamRudVEzLUZKeS02SzJxTDNvd0lBOFdXNmtyLUp0X0VWRUU?oc=5"
-    },
-    {
-      "headline": "AvalonBay (AVB) Stock May Be 32% Undervalued Despite Raised Guidance - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmxRU3A2RDV5bmh2Y1A3SXBYVjRpUTVOem10bVljajVGVHA0ZlF0R2FDRDdoam1NVjZSWmpvM0YxVjZjZ19tOS1WY1hYREUzckp5anQwRnI2aTJnQkVFWXZ2M0JDY0ZfZkV2TVc5WldvUi1HUTROSUpiLWMteW1yUkg4V3VQUXVBWk1WVEVFNHRDbEtWWUlMX014eDdVbXFwcG5xRGI5UnY2WTZlamlDZmdOY0pWZkVxZXhRY0V3UzFZNjUxLUQxUXRGVWYxZkJQdmE4NUtpNNIB3AFBVV95cUxNdDJiaEdVejQzUW84MWRuZzNzTVpWZGVGN3VPZF9FdEs2R1hXcTMwWFoyQzRxMHMxYkZwbFBlUk54dGJxYTl3R295cmtidnFLWTVHd2pLek15blU2MXNNOElfbnBfY3NUcmNmQmJ3cVdhQnRVcG5Zci1zdmdrNXhiNE5QNVNCQm04MU9VZHlwRWpHMWlxZkQzejZxZW1rZHVVQmpRNDhick0xU1BRc3lqZkhiaTVLbW0yb1dCWFNmbFBmbTNuZDZ1SGlLSlB2Ti0wT0FDc1o5c1pQOVZE?oc=5"
+      "headline": "ETFs Investing in AvalonBay Communities, Inc. Stocks - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SQTRLMmpiaV9TNVZpb3V5S0lOaHFRc0JjalE0bWd6bm5mcXE5eHJZaVB6eUFCSHpuUDIxRmdhR29LeHd2V0VPck9BemJWTzloM0M2QzhPRDFxQkI0OGhkdA?oc=5"
     }
   ],
   "insight": "Tracking AvalonBay Communities (AVB)."

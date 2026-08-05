@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:47.087Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:48.108Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    108.93000030517578,
-    110.87000274658203,
     112.55000305175781,
     112.87999725341797,
     110.73999786376953,
@@ -24,11 +22,11 @@
     114.08999633789062,
     113.18000030517578,
     113.94999694824219,
-    113.69999694824219
+    113.69999694824219,
+    115.12999725341797,
+    115.25
   ],
   "6m": [
-    92.1500015258789,
-    91.20999908447266,
     93,
     92.2300033569336,
     94.05000305175781,
@@ -158,10 +156,11 @@
     114.08999633789062,
     113.18000030517578,
     113.94999694824219,
-    113.69999694824219
+    113.69999694824219,
+    115.12999725341797,
+    115.25
   ],
   "1y": [
-    75.87999725341797,
     76.12000274658203,
     76.80999755859375,
     75.5999984741211,
@@ -410,12 +409,20 @@
     114.08999633789062,
     113.18000030517578,
     113.94999694824219,
-    113.69999694824219
+    113.69999694824219,
+    115.12999725341797,
+    115.25
   ],
-  "lastClose": 113.69999694824219,
-  "oneYearReturn": 49.84185696332592,
+  "lastClose": 115.25,
+  "oneYearReturn": 51.40566978654635,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Fund Update: New $83.2M $HONA stock position opened by PRINCIPAL FINANCIAL GROUP INC - quiverquant.com",
+      "source": "quiverquant.com",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDhPUWdpcHp3RlE1SVVDVkRUYlB6R0lIdFlPdjBCRF9hSGxTWVJHcTI2eU12Z0pDWnd0M21aN005b2syeU5oQmpPajFESElCcFRtajRCWG43T0t1NXVOZERQRFhEbDJ2b2xZb3dRUTlFT3BiSUxiRUZYc1NTQ2lLZkdPRjZzRDhmSkVXU0dKX2d4Z09aMWpVbDVRLTdoV01lYW01WFd6dEFHelUwZm50bVpGLWFqUVRoa3pQSDZNbG8?oc=5"
+    },
     {
       "headline": "Principal Financial Group Inc. stock hits new 52-week high - MarketWatch",
       "source": "MarketWatch",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMjJDTWk0NW5WdHpoX1lwZjc2YkI2TloxcFcwWnlFb2FuT2ktMjFsMVY1elkxSGJjdkVfdnNzdUlzbG5UU1h1ZURsU3VQQU4wMmpoa08xX1F5REYtczhEOFBkaXVJM0NiNHJ5MkNhMjZoVGp6eVR2eThzMmwyb2V1cF9DWERkUGdCbnZOU2VBTHlsNzVOcGNVXzFOeDVCdG81N2t0T0lJems5WWVfM2NnYzFsT09Fd1dyVzd6TmtqbVRhSWxKbk9MTU9iSkpLVlhW?oc=5"
     },
     {
-      "headline": "Principal Financial Group, Inc. $PFG Shares Acquired by Empowered Funds LLC - MarketBeat",
+      "headline": "Principal Financial Group (NASDAQ:PFG) Sets New 52-Week High After Analyst Upgrade - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM1l1aEQxdE1DRWVjV0VTbWMxNjdHSmZZc1oyY3NNU3dtbWlHWWpNTTd4RENEZmRsbFdvRlJhY2N0V0c2Unh3cnNQS0ZWeS15LVdYRGFLYjdGeE42RGU1bk42V2ZmMWtiNVBkUDMzb0tXa3piSWlXU2R3cUdKdFJFMzFOQm5YbHJ0b2pHVjl6ZUZSRXFTd2VTa3ljbHZEcGpTRUdDNDJWNG9NT3JUOFQzV0Jza25KS0ZiYVNzNkcxeHlBWG1PbTZTT2NYQm94Zw?oc=5"
-    },
-    {
-      "headline": "Principal Financial Group (PFG) Stock Looks Overvalued on Current Earnings Expectations - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamFTWUQzQUFFaUhielVjTXd6WENOakNNTGVVV19XVlN1RS1Mb1JybEx0SUtCbHB0Y19WcFlCZC1xZldQaHNqcmNpU20zbGpNbVRFS0U2bzAyYUJlVkpzcDVtMGdjUjRQVVhYNmdmZFhodzRKUU80RVZlTllmb3Zkay1IS3J2S0dyNC1QQkRXUlhlcHNFN3dIMkk1UDFubXNjdEE?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOXNLRlJLd3Q4WUR4VkJoMksxcUI3WjFnWXZzLUlleTdEcHJRQzRtR281UmdRY1gtOWpMUU03a0gtdC1fUndZWEsxNlR3Vk5ZeHdDN0NPbG9oOW5EUW85VnNrSmpPU3h2LUFJZW1VdktzdGhDYV9HSURubGVlVUFfUld4TTF0VlphQWdVcG1IQ1NsVnBCT3E4Rl9WNUdwZkRUMWNXOWNCV1RTRENNanhhMUFZRjRQTkpPcm9DS054S1BaRmFpMlJZNk12VF94dw?oc=5"
     }
   ],
   "insight": "Tracking Principal Financial Group (PFG)."

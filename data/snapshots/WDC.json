@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:55.197Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:56.034Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    598.3699951171875,
-    539,
     577.4600219726562,
     532.0999755859375,
     550.2999877929688,
@@ -24,11 +22,11 @@
     463.510009765625,
     462.0400085449219,
     533.0399780273438,
-    544.8400268554688
+    544.8400268554688,
+    527.219970703125,
+    548.5599975585938
   ],
   "6m": [
-    243.2899932861328,
-    236.38999938964844,
     240.85000610351562,
     252.66000366210938,
     279.70001220703125,
@@ -158,10 +156,11 @@
     463.510009765625,
     462.0400085449219,
     533.0399780273438,
-    544.8400268554688
+    544.8400268554688,
+    527.219970703125,
+    548.5599975585938
   ],
   "1y": [
-    77.29000091552734,
     75.83999633789062,
     73.77999877929688,
     74.44000244140625,
@@ -410,12 +409,20 @@
     463.510009765625,
     462.0400085449219,
     533.0399780273438,
-    544.8400268554688
+    544.8400268554688,
+    527.219970703125,
+    548.5599975585938
   ],
-  "lastClose": 544.8400268554688,
-  "oneYearReturn": 604.9295127463402,
+  "lastClose": 548.5599975585938,
+  "oneYearReturn": 623.3122679945676,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Sandisk and Western Digital Are Set to Report Earnings Soon. Here’s What to Expect - Investopedia",
+      "source": "Investopedia",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdjdrZUI3T1VnT3RNZGw4cmFpSEUwOHo0WlBtNXUzRk1vbE5oQXRGYzhzbDk3MGdkR2FEY0hUcllNS1JCRHRxckJQeWJKSjJTRkFNb3NFeFFTeF9PcUZZbHhwVWtLQXNhSFBEM0RHREt0U2ZHZ2tmVkhYd09NQ3E2cmd4TGZZT1JWQzlGNDVjSFJzdmtha3pnMmJFY2d3d2l4VGxLck8wSHNmRWN1ZXh6Rmh2Y2UxbFdNLXQxdk1ZRl9QUEpzTUxJWA?oc=5"
+    },
     {
       "headline": "Is Western Digital Stock a Compelling Buy Ahead of Q4 Earnings Release? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNXzczSHRqdzVCbFZRVDFPYzB0ZWs5enlOWklEOV95UWZ1TFR1cjZFTjl2NFpKc0Y0Sm53aEVLQjhfYzRJWTlFMGs5NTZUMVo5cV9MaGo0YkRJM0N3VlRlR3FwS1A2NDBEaHVBUkotMHJWSGhTNXhRbU02S2hZeE1VUW50NkpQd1ZIOTFoUWdwQk1HdUh4akQtMmlVbkh5eExKR3NV?oc=5"
     },
     {
-      "headline": "Are Wall Street Analysts Predicting Western Digital Stock Will Climb or Sink? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYkpHT1JEbFhqZmdJclVDWU1MMjBpczVYYlIyQkdORzM4RmpBWFJwbEdyNWxqbDhwcTVrMUVXaDdrdVBONmJ3RGt5azVyc1BKVFhjT1V5bnY0Ym1WeVgzVHMwOVpFX2l0Y0RFTThjejVWcXlVUm9Sb0dnR3VjazRhMlJUWTZYcWpRN3p6T3k5RDVtUHFzYURIejlhRXloc0dqZzl4a21WU3MwaDUxV19kamJNSzJ2eTkwWHptdA?oc=5"
-    },
-    {
-      "headline": "Prediction: Western Digital Gets Back to Its High Before Sandisk Gets Back to Its Own. - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQl9ZenVqNE45Q3RDazFGdnkzVmswa2MtaUlOSW1tX3hPanZDWkVuTFRyOTQ3QzhRNXU4cUZsOEd5cXhQOUNmOVFSUXJDRkxsV2owWVg5RVVWODEyR3hZTnJYcjlWOEVPZHZYZDdTYXFxTW4tOEhIaXVId0FtNVc3NkRNckV3RmE5U1NBN2JTS3pTLWdWQW9ZOA?oc=5"
+      "headline": "Buy Western Digital (WDC) Stock as Q4 Earnings Approach? - Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbVN3YV9yQXRpX3NveV9LQ0ZrdVJPeFphb0dzX1hSUmhLeGItcXIxRkFYWldXVnZ5TjZleTRZRFdrd1NBMXpTMmhhZnBhOHNmdTd4ZmRLMDJSNHhCeEdlTHhpdzBmQUdDUWpRbElPRXhwdnpVUUN3RXNzQlJ3TkZiRmV6d3FBemhRaGhKeVlERlZySUVCOW9BUzl3?oc=5"
     }
   ],
   "insight": "Tracking Western Digital (WDC)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:53.487Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:54.303Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    250.32000732421875,
-    254.99000549316406,
     258.4100036621094,
     257.7900085449219,
     251.3800048828125,
@@ -24,11 +22,11 @@
     247.6199951171875,
     246.42999267578125,
     247.42999267578125,
-    242.9199981689453
+    242.9199981689453,
+    245.14999389648438,
+    240.22000122070312
   ],
   "6m": [
-    241.10000610351562,
-    245.72999572753906,
     245.6300048828125,
     245.52000427246094,
     243.17999267578125,
@@ -158,10 +156,11 @@
     247.6199951171875,
     246.42999267578125,
     247.42999267578125,
-    242.9199981689453
+    242.9199981689453,
+    245.14999389648438,
+    240.22000122070312
   ],
   "1y": [
-    225.99000549316406,
     225.9199981689453,
     227.2100067138672,
     226.49000549316406,
@@ -410,12 +409,20 @@
     247.6199951171875,
     246.42999267578125,
     247.42999267578125,
-    242.9199981689453
+    242.9199981689453,
+    245.14999389648438,
+    240.22000122070312
   ],
-  "lastClose": 242.9199981689453,
-  "oneYearReturn": 7.491478500934575,
+  "lastClose": 240.22000122070312,
+  "oneYearReturn": 6.32967562307792,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Take-Two Interactive Software Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbVJZdmZxYUV5Y1dzUzIzQUlkRXUtRlc4VEFHWm1zM2IwTzg4TW11MVVCaVBScm1tUlcxS1d4WkVvbFMyYVFTbzlDLWFpV2l2TkdzdXVkU0x2b1hiTjVvQnoyOWsybnFBREMxcDVtRkNLSXV2Z0RzLUlEOW85NGk4X3ZVSTdWVF9qeGdMM2xlRDB4OFVfdWFVcGUwYnR6em5fczRTaTlucGlldmJsb2dJQmhCX1hMSG9HOTAyS1dHYVNrdmY0bThWRGhmaThsSzkyZ1k0LS1WXy1zVXM0UVJZS3poM3BoZWZvN29icFdCWnN3ZmZhbnFkMF9aaHo?oc=5"
+    },
     {
       "headline": "Take-Two Interactive (TTWO) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3hOZ0N6OC1CdElfRnhMZ3dVeVlIb2Y3RXJFbEhHY1Ixd1JJT2NBQUZrSVRPbkxqTXdNOGFVU1ZXLWhDd1FRd19BdGEtTnlwc0tsU3I2UFd6bEhCVVQyUm1PNTVhX3lrLVc3RF8xSm1fZWd4Nm9hSm9xdGhRZnRrblV4cy1iVmVVOGw4QzgwaVhhUzJRNG5ialNzTU1EZDNaSGc?oc=5"
     },
     {
-      "headline": "Fund Update: 29,951 TAKE-TWO INTERACTIVE SFTWR (TTWO) shares added to Raiffeisen Bank International AG portfolio - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRFROWi1TRGlua2kteUM0bmxuQzBfYmFQRmpvVmpxeDlxTF9PTXAzc0VzQjZ1QzdLUkdTRkVucHY5NHoyM0ZMSEx4VFE5Tk5MS1F0NVJzVW5zRlNVdlBSdzg4T1RfanFxTVNOUWthdU9YbWZJaEcyalhCYlRSckI5N2hWZGNXdEsxZlJBSkxGVS01OU9oTVMwTF82dkxTeVRiRnp1VFI3RlE1d253ajFlS0JVRlB2NjZzUkc4MnMwbExlazJ4OEFTY1NiVmdFek5tek1TT29BMzRKbFI5aGhoNTJQM1JRdjRj?oc=5"
-    },
-    {
-      "headline": "Bank of America Corp DE Purchases 58,703 Shares of Take-Two Interactive Software, Inc. $TTWO - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0s1eWVqOEl4aUVRbVNVQzlVY2xuQlByMml1YWo5bi1oTnc1RUFibnhEc2J5cG9lMS16MFJZM0E1QWtwWG94TmJfZ0VaUmstV2VHMllZRVkyY0FTemNCeUFUNHdhdkhsSmx4dkZtU1NNdkRiU0c1dzdDbTQxX1dwQmlQWGpyR3VBb2pGSTdJZTFzY2laQlpKSnd2dGFoM3c5cGJoQkZhcGI3Z0R4eFg5QmgxQm9ndjhhamVudjlHLXlJSXExU0JkNWxnSTNES0xJM3d5TVN5RTNndlhhUE54U25fTQ?oc=5"
+      "headline": "Take-Two earnings preview: All eyes on GTA 6 updates (TTWO:NASDAQ) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjRVRXM4S25tMkR6QWg1SUk1Y0FTNE1od3dfR085NE02SzBwMkE1TTE1NTN0S1F5d3NiaHlBLWUwellUTFhQWlY1ME1lZkdBU0lwTVR6UWZiX2czcTh6cUgtR1ZIaEdBejh1U2lmZkxpUC1PRVVTTFd2bUpfaEIyRWdhd252a3d5X2hNTVZRS29CV0U?oc=5"
     }
   ],
   "insight": "Tracking Take-Two Interactive (TTWO)."

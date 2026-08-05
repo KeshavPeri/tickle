@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:10.193Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:13.733Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    243.1199951171875,
-    250.3300018310547,
     248.3699951171875,
     251.4600067138672,
     251.1699981689453,
@@ -24,11 +22,11 @@
     272.4200134277344,
     274.3900146484375,
     265.3800048828125,
-    264.0799865722656
+    264.0799865722656,
+    262.67999267578125,
+    262.55999755859375
   ],
   "6m": [
-    195.27999877929688,
-    193.64999389648438,
     196.02000427246094,
     194.77000427246094,
     197.3300018310547,
@@ -158,10 +156,11 @@
     272.4200134277344,
     274.3900146484375,
     265.3800048828125,
-    264.0799865722656
+    264.0799865722656,
+    262.67999267578125,
+    262.55999755859375
   ],
   "1y": [
-    203.02999877929688,
     205.5500030517578,
     209.00999450683594,
     205,
@@ -410,29 +409,31 @@
     272.4200134277344,
     274.3900146484375,
     265.3800048828125,
-    264.0799865722656
+    264.0799865722656,
+    262.67999267578125,
+    262.55999755859375
   ],
-  "lastClose": 264.0799865722656,
-  "oneYearReturn": 30.069442033210546,
+  "lastClose": 262.55999755859375,
+  "oneYearReturn": 27.735341114288737,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Will Weak Property-Liability Underwriting Hurt Allstate's Q2 Earnings? - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSUhYUl9YUDlqalZicXdkLU9ucTZOQnhTYmdlU2NDUkY1SFBadEdKWTU5VG9yM1FSNDJhUWFmUjJvbHV0NXBOdUpFdkxfNzBVQ0ZjSHVJQ0gzaUVHS3dOWkhCTHVYUzkzeGVUYlpQZjdaZS1KcGdVQ1A2Nk5DUnRGbFlLdjFVTlRaR0ZvVWt6c216LUdWV2lkMTVSTmtheTVEcklxbjlydDlIaDM5bHkwWXhPSXdNVXBENHdCVmtqNUlISzQ?oc=5"
+    },
+    {
+      "headline": "Allstate to support Team USA at LA28, set to bring 15,000-plus athletes - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM052R1RPUFFhdXZjcVo3eFgzOEpZdkRyZHhYOTZUb3kwSDJxZUZScW5pTHVLTXBwbUI2U2ZOSUhJaGJiOTc3a2NUTlZuazVNZU1uRHRfMDRBc0VrZXBXWnBEZ3ZqVWRLdEhoNmJKa0xMVGltZWhkS01OdnBDMkRXXy1EVkxTeFd6NFpWVU40eGRnR00ydzFTTGFkU1VGcDcxVkxZUHlBNElCRXRvYmtKSVlrOFNwM25OLVVYZF9Jbw?oc=5"
+    },
     {
       "headline": "Allstate (ALL) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-30",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXNnTnNrUVd1bk1Yd19CclktbWF1M3V4UEpsRDJYMFl1dTFVVGpPekZlZ3RlcnNfaE4wSFd1NkgxQXdkbEtxaGhDVkJIa0s3VVJ2cDZOR3NCLXVhbE5BRjhOODFKNmVmSXVwQU5PbEJFRzN5NFNLb3RnTmZTa3BvSkJhOHYtdnRjamlJeTF0RDNIZVlYMmRsdWJ6Z0VUdFFtbTIw?oc=5"
-    },
-    {
-      "headline": "Allstate (ALL) Stock Still Looks Undervalued On Earnings Strength - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZzRZNl92STdKUnUzVTRpYjBnVHgtQ2t6T1FKWkdOOXpac085dWgycE9STmRld25Ja0t4cHIwMHBMNFYzWncxQ2tXcjZ4Nnc2YWxGWUk3V3p1M0ZXVWFNQy0xb29GYVRvS0czVUM0Zm8zR2xhU2hXdG5lclNha3ZiZngzZGpEWUhmTW4zeS10RkVNY2daclB5MHEwamJOWmotOTU4eVZhbXdnVDhyUVR0QUtNX1p1Qlk5V0YzLUFRYjE2SknSAcgBQVVfeXFMTVd6bjZyUVEwaUZSM29FTzlUV2ZGdXFrVG0yWFhQbVVJcEVOM3JWYkFQQTRodHU0YzZCNVhXb29JbXFsb2JON1RKRXB6YjBXaGdYQ2pQTkw2VzEwcUFsUENVaC1HMDg0MjhmWFpqV1lPVHZBM29HVHVSem5ZNEV6ekxPNjRnUFRkYUhtal9DeDc0bUZ6YVVHWkVRYkNzaS1uMVZwTE5KR183SDJrWktCdzJkN0ZPT0paUVB2a0tFbUlXT0Z3XzJnNVE?oc=5"
-    },
-    {
-      "headline": "The Allstate Corporation $ALL Stock Holdings Cut by Vestor Capital LLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYVJXX3p2c3lEdkpGNlRINU0zUkJGUFdCc0ZlZm56N01UUk5lcU03el9hR21qbjQ1SnRjbUVxYWNiSW01YkhWTW1CVWVFWjRkMUllUlpyaWRNN1FvTDJueDBHVG1nc3N4U01xN0VULUNyS1ktMk9UZExaZk84TGlGeVREc21tSXQ5Wm5aY3F6WXlibzRvUHhmMTJ0a0dOUG5Ocmh3YjdMLVBLYTZlbFkxbC1OemFuQ3dub3lIcHJaWHN5eFU1NWcwbnVR?oc=5"
     }
   ],
   "insight": "Tracking Allstate (ALL)."

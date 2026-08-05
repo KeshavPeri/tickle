@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:13.017Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:16.117Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    113.62999725341797,
-    116.9000015258789,
     121.83000183105469,
     120.69999694824219,
     118,
@@ -24,11 +22,11 @@
     127.9000015258789,
     124.5999984741211,
     124.12000274658203,
-    128.08999633789062
+    128.08999633789062,
+    138.57000732421875,
+    142.91000366210938
   ],
   "6m": [
-    161.52000427246094,
-    155.88999938964844,
     149.69000244140625,
     149.3800048828125,
     149.8000030517578,
@@ -158,10 +156,11 @@
     127.9000015258789,
     124.5999984741211,
     124.12000274658203,
-    128.08999633789062
+    128.08999633789062,
+    138.57000732421875,
+    142.91000366210938
   ],
   "1y": [
-    188.5500030517578,
     187.97999572753906,
     189.2899932861328,
     186.9499969482422,
@@ -410,29 +409,31 @@
     127.9000015258789,
     124.5999984741211,
     124.12000274658203,
-    128.08999633789062
+    128.08999633789062,
+    138.57000732421875,
+    142.91000366210938
   ],
-  "lastClose": 128.08999633789062,
-  "oneYearReturn": -32.065768090849964,
+  "lastClose": 142.91000366210938,
+  "oneYearReturn": -23.975951212784786,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why is Ares Management stock surging today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2VfU1ptWVJ6MWY4QXA4TUlETHEyRmExN214U0tMa25VUV9peXFEaThxTjh0U2VLdkFPOFpWV0lqOFQ4aHY5MTcyQ3ZWOVpTQ2gxQUplOFNtS0ZvNWg0Zl9pRFNSaHF1OFRzbG4wcTFaVXZsdm5DMXVRaDcxUWhxc2RFQUktMmdVaUJLQlliZ0RTcUdyTVdkYnd2OEUzcC04SV9seloxRQ?oc=5"
+      "headline": "Ares Management Raised a Record $36 Billion in One Quarter. Here’s Where the Stock Could Go - tikr.com",
+      "source": "tikr.com",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWVV3bEFlelRSVEVvajFKSzViZDdkWEdoQmhVWkJMa0doQmw1a2MzQWJWLV9lNXdvcy1BcnU4UnlseUtmckpjaG91dHFVZE9vczdNWkxvdWRmakU4OVkySFhMMWJHeUNLZV9LMS1ja2NnODNZSGpVQzdmUlJ4ZkFXY3NXckpUblBiQURwSEVKNzdQSm1xRExJVXdKaHZZa1J3ZjNCWUdjS3dXYmVJZUdWUU5VeFE?oc=5"
     },
     {
-      "headline": "Ares Management (NYSE: ARES) director gets 1,728 share grant - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVNKcGI0TzhhUXJaVHFoR2xFN2E4cFRXcThJbC1MT1pFLTFObXZrOFdtTEdYOWk0VUlheXkxX1daRWNyWVU3Q2ZjRDBzdWhLSzNyOExEYnNJTW8tRkFNbzRDdGpoZU9iNzd4QlktckxuU1M2Znd3X1FGS24yYmJaNlh3TGZENm00Mkx1RzlPQkctT1J2bjFYWFR0WVRIUDN6UEJYa21RcmF3a3RfR01ZN1hVRUc?oc=5"
+      "headline": "Ares Management (ARES) Q2 Earnings Meet Estimates - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGt1MHBka29kU09XZVRDLThnVWpCR0dfOGNnLUJ0YnRCSnNCSUNZbDlqTVhaZ0EyREw5dWtCaE1wQkw2eXdMTm1aR2RRbXFiWmhURlJrQThYYkxQLWwybnZxcUN5Q0diNURJMTBUbGNNdmNpMFpQQWZ1UzNBdjhZaGtPZTcwUldLQlItYktBaE1EZHUzUVBkb1lEMUtMQQ?oc=5"
     },
     {
-      "headline": "Ares Management Gains as Strong Q2 Results and Record Fundraising Lift Sentiment - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkxzc0FWZ1JsclA3V3RxUDUyUzhKV0l2Wk9aS1llMU0xdzUtbWlVdVBNUFNhaTVWWVdFa1JDOWFpUGNJOHZxQWU1LWNxM0dsUU0xMk1oWE5fbnNXbkVkU0dHbVFOOVhVclRfdjFicDVCUGplRFRqUnJPSW03d2RDQWNldXQxZG1RbG4xZlY0OTljOFIta3lrelVIbmFTWG5YTXhsTE0tS1R3Tnc3WFAxSEo0cw?oc=5"
+      "headline": "Ares Management (ARES) Stock Climbs As Fee Margins Take Center Stage - webull.com",
+      "source": "webull.com",
+      "when": "2026-08-02",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sVFZIV0N2QTBuRW1CSkdjczVxS0RrQmt4cnFsalJCNFZ2dXRfNzJic1JDMC1jU2RhMHdJOWwzOTlnZkhqQVJ5QXBtLUVZNU1uVFYzYXg4TnI?oc=5"
     }
   ],
   "insight": "Tracking Ares Management (ARES)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:40.291Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:41.680Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    266.19000244140625,
-    235.5500030517578,
     233.30999755859375,
     216.47000122070312,
     221.17999267578125,
@@ -24,11 +22,11 @@
     190.8000030517578,
     170.19000244140625,
     180.3300018310547,
-    182.82000732421875
+    182.82000732421875,
+    182.75,
+    195.4499969482422
   ],
   "6m": [
-    150,
-    151.2779998779297,
     154.30299377441406,
     161.63299560546875,
     162.72000122070312,
@@ -158,10 +156,11 @@
     190.8000030517578,
     170.19000244140625,
     180.3300018310547,
-    182.82000732421875
+    182.82000732421875,
+    182.75,
+    195.4499969482422
   ],
   "1y": [
-    91.56199645996094,
     88.34100341796875,
     88.8280029296875,
     91.20600128173828,
@@ -410,29 +409,31 @@
     190.8000030517578,
     170.19000244140625,
     180.3300018310547,
-    182.82000732421875
+    182.82000732421875,
+    182.75,
+    195.4499969482422
   ],
-  "lastClose": 182.82000732421875,
-  "oneYearReturn": 99.66800025397431,
+  "lastClose": 195.4499969482422,
+  "oneYearReturn": 121.24493653700932,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "KLA (KLAC) insider Virendra Kirloskar plans to sell 1,565 shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOENvUDNDY2FSNEVmUzBZUVNsNURaanE3WENlOW02YUNaYXhZWGowZHBxWTJzaXVZaC1JNVpGT3pvZUlPeDhBODFFMm0yNWdLN1RPMWJlSjdQb29wLW5FYmJ6TUdFXzlZRmU4Q01CVlpzMnVFb256c3hJM3dVSVIxTzE1dVJGREM2UEdsbl9R?oc=5"
+    },
+    {
+      "headline": "5 Must-Read Analyst Questions From KLA Corporation’s Q2 Earnings Call - StockStory",
+      "source": "StockStory",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTnpkLUo0VGdTNy1rZE9aMWNrcWFmZG9NZ2R5NnZEM3U2OEtHSGpqdlpoTEIwRURidkFselRBY0l1LWJ2dlZnM1YxOENod2NnN2pEYXhQRTdNY2x2TW9HUUZ4ODV3U0MwNmVXdXVNNktmQXRuYjJQazB2a1dmNjcyWmtQQXJfRnJicDhvQXMzYUp0cURXdkg1Xy1HRENmWEtoY3kzYnlmWG1JNEFyT0ktTzh1Qmd0aElsQXhGaURUSjVKMjltQVo5eldUbnY?oc=5"
+    },
     {
       "headline": "KLA Corporation Cratered 40% Over The Last 30 Days: The Next 12 Months Will Bring 75% Returns According to One Wall Street Pro - 24/7 Wall St.",
       "source": "24/7 Wall St.",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVWJ1NHZ0VWFNX1VNOEY1QXhob0ROYWRzQks3TEpJSE13a3o5N1Izc2ZSRENJQTZhZm5weXRZbXo0N1VqaHloLUxWZ0wyRE5aV21PcmV3cjYyZGlVQnZrajlnRU1OTDd5VGpkdVNBUnhzSkJZQW05X2JnblRMc0JreTV4ZUw1dmlQZ180cENLV0tIcjVxVFN3ZzhwV1FIZXNRS01EOUlESl9NT1prVzFPSTJiUHhwQXFTRlJoa3MzMnE1cWVLNWF5TW82YVFpRTF6d044Sm5zR2FNQ3BpYmE1LVJRRzhITzRWY1R1MXZEQkloM0dyeGlUcXB1NA?oc=5"
-    },
-    {
-      "headline": "KLA Corporation (NASDAQ:KLAC) Q2: Beats On Revenue But Stock Drops 10.1% - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnhkVnoxYk03cm8tVTI0T2hrVmxwZXhuRjZ0Q3dPX25tX3ltckdIZ0ZNMU5PMkctUHBKSl96MU9xTGh4ZU4yMkMwR0ZITVRSU0pnWnRvdUdLM044OUt2TER2WVdMTS0teUNtSGRrZ081MHZIb3M4bGI0UklFT2pQbk5CTGx4VjI0bEpsSEZWeC1vV2tlRlhhNV84QQ?oc=5"
-    },
-    {
-      "headline": "KLA Corp posts Q4 beat but shares tumble on limited near-term upside, soft guide - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnNGT1dOc0ctc0RJdU50OWIxeV9fTVdMOFZhVXZTT3ZOaDFjVlh4WEdTdmc4SmJ1akxhVG5PdS11dGNUV1dndGRuaUtWMmR1R3lHTVl3aDZyb1RCRmRGdDFjdzQzb204SUZmWTV4bTJDLVVtZFBYcmFISDU4QjhYaExvTHNOSTFxRDFwQnhITk5MWFlnaG9aZUtGQUxQc0YwSVREY1MzM05qcEVzZm9Na0NyNXFQdE9VQjdIUklR?oc=5"
     }
   ],
   "insight": "Tracking KLA Corporation (KLAC)."

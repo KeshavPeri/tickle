@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-04T04:43:27.636Z",
-  "builtDateUTC": "2026-08-04",
+  "builtAt": "2026-08-05T04:43:29.972Z",
+  "builtDateUTC": "2026-08-05",
   "source": "yahoo-finance",
   "1m": [
-    85.23999786376953,
-    88.2699966430664,
     86.8499984741211,
     89.55000305175781,
     85.98999786376953,
@@ -24,11 +22,11 @@
     100.4000015258789,
     106.88999938964844,
     103.66000366210938,
-    105.55999755859375
+    105.55999755859375,
+    107.26000213623047,
+    112.05999755859375
   ],
   "6m": [
-    219.0500030517578,
-    218.2100067138672,
     220.44000244140625,
     218.0399932861328,
     218.35000610351562,
@@ -158,10 +156,11 @@
     100.4000015258789,
     106.88999938964844,
     103.66000366210938,
-    105.55999755859375
+    105.55999755859375,
+    107.26000213623047,
+    112.05999755859375
   ],
   "1y": [
-    153.3000030517578,
     149.3300018310547,
     151.30999755859375,
     157.74000549316406,
@@ -410,29 +409,31 @@
     100.4000015258789,
     106.88999938964844,
     103.66000366210938,
-    105.55999755859375
+    105.55999755859375,
+    107.26000213623047,
+    112.05999755859375
   ],
-  "lastClose": 105.55999755859375,
-  "oneYearReturn": -31.141555474754867,
+  "lastClose": 112.05999755859375,
+  "oneYearReturn": -24.95814894225111,
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Why EPAM Systems Stock Rocketed Higher This Week - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-01",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdUVsbldzRDliWWpRNWMyT3VVR0k2Y3lyOEFFUi15ZVZvSnJXU0QwUGc0ZWI2TmpIRXA3ZkNGblAxVG5DbEV1eXlVekMyX3R4OGtkREpZS3Y2VzlXTktDT1VuWVY1M1o2aEhYUHFJeG96UTRtVWRxbEtSRXUtVjQtaXA2RTc1ejRDMWlHSDJ0bWl1ckxYY0E1UGgzaUk?oc=5"
+    },
+    {
       "headline": "EPAM Systems Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWGdXQUw0YkIzNE1lZHNGaERtWHFZTng0TUpDWmJ1Q2dFc1AxSGtqY1plbzd1ODhueno5MWNtRFd3NTFLdDMtSWVQTGd1emc2cnp0dmRwTklBSjNUV2JSU2tHcGwtZDlVaFd6VTctSGZxeU03UnpzX3VxelI4YmVqbTR5bjJvdE9UUzVDdXBNZnhOWjRDWHBob21mT3FHYlhFVW5sSmlEQ3A1bjNJWXNhVEFGZzBNVV9PaGE0aXU4VXYtVkJFSkpj?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTUE4ZTZkd3Q1ZzBWQ3VCSS16c3M3N1RHSjRlOC0zcGV0WkRaTW04bUtSN09UYVdrME4tRGQ0WlZQWC1BZkhaNC1MZHpTbXV4eG1YQTRkSWJ5eGp6dHduS0liSGRaTnRPTC16MXEwbTE3Wk5ZdUNRQVFFUGNNWHZCZUtyMmg4d1ZSZkd2N0tYaDZlanZxdklJUC1QdVlXVXFld0lmYWJQaXZGSXNVNFlxS2JqczNSLXJ0SkZjZTVJaDVJV2JOUTdrNVVSZ3VlcjBGb1NEV0x3NEppZl9wUklR?oc=5"
     },
     {
-      "headline": "Why EPAM Systems Stock Rocketed Higher This Week - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaFViWFJ1X3V4N1ZzLWFQQzBnUDJDbHRYTWIxZFB0Uy1vVTQ2OHRyWmZGUUtUdVo2RWdUdFdOdXhyX3VXT0paUElKRklGczJoQ0FNVDFmSTlvaHNsTFdPLXMxRHA4WmowNGN5WDAxX2poNWZ1TGpQRnk3ZzNrNWQxRHY2c054clhQdm5acWpGSG1YQ1pzM2c?oc=5"
-    },
-    {
-      "headline": "Why EPAM Systems Stock Rocketed Higher This Week - aol.com",
-      "source": "aol.com",
-      "when": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaXp0RkZUaTNZXzc4dTJvSXd6ZmpZeUlEbTFKMHBuWWpyXy16dldvN0ZudHk4cU9YZHBqaXM0Q1NGOS1jRHNPVzdFOFAzeENsLVpMQXc4NmlJRDhiVGFfMnlFdWpZaWY2R2lSUzQwTVc0TFFvLS1sM3FwVTRwbnpWSw?oc=5"
+      "headline": "Morgan Stanley Issues Pessimistic Forecast for EPAM Systems (NYSE:EPAM) Stock Price - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQekhCd2I2ejlsUHF1TVYyU19uRW1tQ2tJTkNBRWZ3Tk04MnRDNFNuOGRmODVvbE9NMS1pX21sZXQwMi1vMnNuMjN6ajhOY3dHcTRCMURZZi03NG1aOUYtZ1BmcjVTZTlPeG5sZDUyamdCVTVjaU44bl9JVDR1T3pacllRYjV4QTZYMFkxRndzdmhSd2QtMHpBX3ZoRFhEbmNQb3JuSjVtdjZZYjNtLXc3T2tmNmU0WklkM1IxNHB0Rnljb1M3aE5uWUY5VHhtem8?oc=5"
     }
   ],
   "insight": "Tracking EPAM Systems (EPAM)."
