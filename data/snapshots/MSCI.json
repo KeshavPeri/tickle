@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-05T04:43:45.130Z",
-  "builtDateUTC": "2026-08-05",
+  "builtAt": "2026-08-06T04:44:07.013Z",
+  "builtDateUTC": "2026-08-06",
   "source": "yahoo-finance",
   "1m": [
-    614.0399780273438,
     608.0900268554688,
     604.22998046875,
     603.3499755859375,
@@ -24,10 +23,10 @@
     575.739990234375,
     572.239990234375,
     574.4299926757812,
-    571.469970703125
+    571.469970703125,
+    571.8699951171875
   ],
   "6m": [
-    594.1599731445312,
     581.75,
     614.8699951171875,
     608.239990234375,
@@ -158,10 +157,10 @@
     575.739990234375,
     572.239990234375,
     574.4299926757812,
-    571.469970703125
+    571.469970703125,
+    571.8699951171875
   ],
   "1y": [
-    557.72998046875,
     548.2999877929688,
     545.489990234375,
     546.6799926757812,
@@ -411,29 +410,30 @@
     575.739990234375,
     572.239990234375,
     574.4299926757812,
-    571.469970703125
+    571.469970703125,
+    571.8699951171875
   ],
-  "lastClose": 571.469970703125,
-  "oneYearReturn": 2.4635559707274624,
+  "lastClose": 571.8699951171875,
+  "oneYearReturn": 4.298742996346462,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "MSCI will list stocks added or removed from indexes Aug. 12 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMVI3RWFrOUZKSkFIVjVDTUt1M3g3NTFDR014VXFZVWRBcjhteERiLWw4Mk8wWXFjRjhkTWNONXFjMFh1STc1UTROQU9tVHppU1RITGktMzdRd19EMFlJeXVVcFQ2d3hWQUR3dEVZS084YmJzVjNCd1BvX0ZBTndtZFo4V3FoN2d4WXZDTFlqNm1ISWdNVUlTMTdWTmFnSXFYTzBwZFVMM3NmLTVuT2VORTJHTHQ3QUU?oc=5"
+    },
+    {
+      "headline": "MSCI Inc $MSCI Stock Holdings Lessened by Bank of America Corp DE - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXhFVHlqM3RxWFFkSmVHaWdrZHpVWEM2QnBOYlI3Q1lLeHQ4RldQZDk0REZ4aEVqNTFzN2tHWFJPY3lMd01BcVpFWHhvRVRZblNQM2d1aHFJa3lYUXQ5SVNDVjd4bGRxQXdKbjFPNG9KNnJIclljU29hRlJHb2ZhMWdISXFQMkhnVjUyam1wZFJyZklha3VJbnVuamc5azR2T2pSV2RaMkVRaFBLcHROQmVwM3BRYzJwU0JmSVNqdzVLTnM?oc=5"
+    },
     {
       "headline": "MSCI Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
       "source": "Revelio Labs",
       "when": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IX1ZOY012Ykx3bnN6NzVJcVhLdGQ0OGxzOW5GZDJsYjBhdThuTVBYV3dId3dIdnJoT2xiV0g0cHFURzVQYlU0SHpkT1BHUWpJZG1URDhxUDIzRWYxdWVhTldR?oc=5"
-    },
-    {
-      "headline": "MSCI Inc (NYSE:MSCI) Receives Average Rating of \"Buy\" from Brokerages - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWVlNS08wWXFCY0FrNzhqRFl1dGJmeWUxQWM0bVNJbmtHVl9IU0doNDBlVmZua0JZYWxWZU1SYzNiY1VNSUVLZzgtLWh1VDJCa1VfRHRZZUtWdVRDNDVIdjZDdGNFcXNYeThIZnVWRGxSTFI5Q2hKQlZ6eEZPZUVEUGJwaGVrYjlXYnhYX25qdjVfb2tHb3JZWE5GTjkzQWpSRU43S3Ric1BpRU5mZmt6eTRvWjFiNlJjZkE?oc=5"
-    },
-    {
-      "headline": "MSCI Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUkZMLXVmUUZ0d2pTSVAzN2JDS0twVndvR2Uwd0o5UFVvZnJ4UG8wQld5VHUyS3VlQzlvWTBnQkFFN1Fva2RUR3ZsR0N5VTc4OXRFNVk1TGtia3AtTUFlR0w5Vm50aWVKZmtXSUdvc0FvZ0o0cGdhLVhiRzRiekQzbC1VamVsTnZBOXFqZ2xjQnRBVk9NbXZSSEpuSWlDckpjSDB1ZjFoUzlHYW92VW9kaWxPU21XNWxGeFJYUEx5VmpLX0J3NDYwb1pXREpkWmZaUXpPOXFWUjhrVkdD?oc=5"
     }
   ],
   "insight": "Tracking MSCI Inc. (MSCI)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-05T04:43:53.258Z",
-  "builtDateUTC": "2026-08-05",
+  "builtAt": "2026-08-06T04:44:14.402Z",
+  "builtDateUTC": "2026-08-06",
   "source": "yahoo-finance",
   "1m": [
-    192.3000030517578,
     193.5800018310547,
     192.91000366210938,
     188.17999267578125,
@@ -24,10 +23,10 @@
     183.80999755859375,
     181.80999755859375,
     183.91000366210938,
-    184.50999450683594
+    184.50999450683594,
+    183.07000732421875
   ],
   "6m": [
-    203.5,
     199.19000244140625,
     194.8800048828125,
     201.10000610351562,
@@ -158,10 +157,10 @@
     183.80999755859375,
     181.80999755859375,
     183.91000366210938,
-    184.50999450683594
+    184.50999450683594,
+    183.07000732421875
   ],
   "1y": [
-    163.4499969482422,
     155.61000061035156,
     160.74000549316406,
     163.2899932861328,
@@ -411,29 +410,30 @@
     183.80999755859375,
     181.80999755859375,
     183.91000366210938,
-    184.50999450683594
+    184.50999450683594,
+    183.07000732421875
   ],
-  "lastClose": 184.50999450683594,
-  "oneYearReturn": 12.884672959194104,
+  "lastClose": 183.07000732421875,
+  "oneYearReturn": 17.646685049907056,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "TKO Group Holdings, Inc. $TKO Shares Sold by Cooper Investors PTY Ltd. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcXFXME8yQ2dmZkNtOWQ2b19tM21XSG4zOGtVZEI4OFZtV0plWndJUWhmZUR2TTFCVnhVSEJ0MUc5TGl5SW5lak5oNHpCTVdfb3dOb3hPX3BGcUstY0h4OHg5QnFRLXdxdFlMUjdibUcxcUs1MFdDektVYWM3eURaR3duMzJ1ZlNjYzZNWWVCbm4tNk9kUlN3UnNBRDZsRm9LdzZxSW03QmJ6YW0yN0hJUENmWGcwVFlzbHZZZzhpOFYwX3RaY2c?oc=5"
+    },
+    {
+      "headline": "TKO Group Holdings (TKO) Stock Stalls As Profit Strength Meets 59x P/E - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWWlZdlVWV3BrZ09sRnpuTkw2cFJwY3RObGFxWndUMWRTb01xaUt1WW5GNF9DM2gzVXE5TE5xaTR1eU4ySnNjVGxTOExYZU0xT3phaW1pUFhVRHdoMzE0QVI1OVlzczE4U0RDMkJRdnVRLTRBMl9vaXBsM1NiZHZzLThhS3hLaTRUeUlKRXlHRWgwblBKYUxPZ1BPUkQwcDJvbGp3NHJicUUzM1FKUTg2U3F3Xy1tTFVIRU5mZThwamd6TUhNWEY0RWpkVdIB0AFBVV95cUxQQ2RmeFBhbFZQYUEwY3VBVjlIZm9xblN6a3pMbFFJWmI1bC1Od0QxbUphemFHNTFvWlVDUl8xZTNnMHJ5cVRjb2RJVWw3WWF4R2RyQXF5Z3J4LUFvbExtY3JselVqYUs2X0cyY2taNjFMZXlkT0tyY0R0clhJU1RDQ0RKbWZQRG82YzhnUGdYd1J2T3g1aDJWWVo0S1dFTzU5UzRWZDNZRGl6LTF5bS1wWWFBY0hja1Q3WlhxSzI2MVZMNHVyb29UUXRnZngzZW5U?oc=5"
+    },
     {
       "headline": "TKO Group Holdings (TKO) Q2 Earnings Lag Estimates - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGVfS3RZQWFuZ0oyWW05MVRhR3ktdUEwOUgtQnpqaHQ2N0dJNUNKM0s4b1JfZTM4amNXRDNOOHVHUlBsdk9rY1pFRzI1c0lNR0hmY1NBdDVueVRSYjlwTm01TzRGZ1lhbHFibldUTWhoTXZ6bUVHbXo2NGtwU05hVXA1S2xaQ0tZMjBuUlRTVkdKWFdG?oc=5"
-    },
-    {
-      "headline": "Quantinno Capital Management LP Buys 10,368 Shares of TKO Group Holdings, Inc. $TKO - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUWtVaUl0ZnNtbXlzVDZCWkNQZFRwU2FzT1p6RFI4QmVMQU1ETjl5N0lZNVFEYzdWTmI1TzVZc1pkbHA2UWdMX3NPSVBweGYyR2t2eHhyRE15QmlPQ180TWVRTGhycWsxMTdqMS1UUkRLUzF4RTE4Y2ZNcnRaY1FjV3V3MkRJazFBQnNPNnBsV3VtQ2xvc2hKNG81a1ExTWFqUUs1UHFzQ0NIYnFVMmFoZmU0cDNLR3NmMHY2SkZVbWJwZGxFQkh6U01jMllTcXNsT1NUbkZaNA?oc=5"
-    },
-    {
-      "headline": "Bernstein reiterates TKO Group stock rating on raised guidance - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0dCV2ZIeENNbUJGSzFHODhTc1ZBVlF3eDVUYXotcm9wbkczVFdDQkNfdlg4bnNiOTAtOS1QbW5idUtaaEg4cmVxM240bk1fZGl6TW9sSG9HeGl2bkVpTk1pOHR5d1FNXzNpUkpRZGF5V2xoNm1VTXoyM21USmVUblRBMGUyQ2d3d0VQR1BCeEh5WFVIcEw1VjJGOG1YOGdZRXlid2JJM1UtcEprTnZxVlVMbDBJTlNSVlR5VmtkUQ?oc=5"
     }
   ],
   "insight": "Tracking TKO Group Holdings (TKO)."

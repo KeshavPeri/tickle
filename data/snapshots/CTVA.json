@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-05T04:43:25.191Z",
-  "builtDateUTC": "2026-08-05",
+  "builtAt": "2026-08-06T04:43:48.745Z",
+  "builtDateUTC": "2026-08-06",
   "source": "yahoo-finance",
   "1m": [
-    86.38999938964844,
     86.75,
     85.18000030517578,
     83.86000061035156,
@@ -24,10 +23,10 @@
     89.33999633789062,
     78.70999908447266,
     76.04000091552734,
-    78.30999755859375
+    78.30999755859375,
+    78.66999816894531
   ],
   "6m": [
-    72.62999725341797,
     73,
     73.05000305175781,
     73.83999633789062,
@@ -158,10 +157,10 @@
     89.33999633789062,
     78.70999908447266,
     76.04000091552734,
-    78.30999755859375
+    78.30999755859375,
+    78.66999816894531
   ],
   "1y": [
-    72.30999755859375,
     71.16999816894531,
     71.05000305175781,
     70.91000366210938,
@@ -411,18 +410,13 @@
     89.33999633789062,
     78.70999908447266,
     76.04000091552734,
-    78.30999755859375
+    78.30999755859375,
+    78.66999816894531
   ],
-  "lastClose": 78.30999755859375,
-  "oneYearReturn": 8.297607803316714,
+  "lastClose": 78.66999816894531,
+  "oneYearReturn": 10.538148367232344,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Corteva, Inc. (NYSE: CTVA) director acquires 412.9081 deferred stock units - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2prVkVxcDlXampXMU5JRkQwUmNVN0dvazY0ZFdyakRQOXJQR0xuWkxsblhUZGtpdG9KRW9yQlhwYTV2UGllY25hamFfV1VFUEotTUJ0OF82S1NLS2czMGhsZjlCVl9KcEFpMTkyZ1JJbTIycUF6MDdrTWZ4Z0pTRXk2Xzg1S09ta1hrcE5SeTJhU1cwdlBsVnk0Z1Z1LWUtSlV1ekNvMFE?oc=5"
-    },
     {
       "headline": "Why is Corteva stock tumbling today? - Investing.com",
       "source": "Investing.com",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR1ZKQ2xfWWg5MlBfWGN6cXpNbFF5ZlUtV2xKSlNVRDNYRXpncGNkTWYwX2RuZGhYeUVJRklzOFlzMUFDZ1B2b2g2d1l6Mk5jSjlOWjJZR2NZOTA2cU1xX0xweGx6X29ZTi1ORWdaeWZrOHVMNkF5WEFSMW1HRHY0VEk0blEwTGVQS19ZYW9BaHJ3eTFJWVVuMUR4VE9kQQ?oc=5"
     },
     {
-      "headline": "ADM, Corteva Raise 2026 Profit Forecasts on Strong Processing and Seed Demand Outlooks - Successful Farming",
-      "source": "Successful Farming",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHJmQW1va09tNWd3Sk94VDFRZVgxTlhQSm9FamFlMHoxc2pTSGQ2cWNLUThrVXVMNVV0Qy12T3VaTVN6TE15Nm0zVFM1NzZTV3l0U0FoTnZicnhtMW5uX0dzTHBsdmM0ZWpqR1I3UjlRNjdrcTNUX2RTVTZISEdPdDZwYXh3VjVncHJ5SHhMSHdiMXRmV2NiVm5yblIwMjlub1hOT1JQNVBJanV4c1ZQZ0U3RDZGcUdrUkNFaXF2Y2RTcmlaS01GNFV3OA?oc=5"
+      "headline": "Cooper Investors PTY Ltd. Makes New $2.69 Million Investment in Corteva, Inc. $CTVA - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXljbFpjRUNicG85c29hRW5yYzEyOFl2NHF6Z0liQnpkYU9DVWdpNkdzTnZ6dkRucnVkVHcxYkVSVlI3WmlHUXBqWEh5VEdMQk43ejMwWW1rMFozVVJxVUFENHlSdVZxTTVibTdMdzF4UDNtRjFTeXNrRHk3OURaVHpTN2ZIZzRtZXJqcFhSWHloeTBnZU9PV0Y2VEg3UW1yb0FKcFNxbU1sbHc2RXl5T3NUZ2ZFekl6bnJhQThwbnVmUkJHLUtwMGNnSG95ZVZ2bEc5RQ?oc=5"
+    },
+    {
+      "headline": "Corteva raises full-year profit forecast, shares fall after revenue miss - Reuters",
+      "source": "Reuters",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUMzWUh4cTF0cWhCdzBWMXBJTW84bmExTUtBTlhxTVZDbldEVnMzUFZEbkdMSkpfcUFqS1ZSZzRLdS1MaWpQX2I4eGl2bC10bUNWV2l6WURFak5lbzc3S0xJMmhRVk54Q3BrXzY3dXNuZzRmaVNKMWhlZmtEdEc1YUtMNlJjd2xQX3NHRENR?oc=5"
     }
   ],
   "insight": "Tracking Corteva (CTVA)."

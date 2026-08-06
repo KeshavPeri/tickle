@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-05T04:43:27.650Z",
-  "builtDateUTC": "2026-08-05",
+  "builtAt": "2026-08-06T04:43:50.967Z",
+  "builtDateUTC": "2026-08-06",
   "source": "yahoo-finance",
   "1m": [
-    27.329999923706055,
     28.639999389648438,
     29.030000686645508,
     28.5,
@@ -24,10 +23,10 @@
     30.09000015258789,
     30.290000915527344,
     29.889999389648438,
-    30.329999923706055
+    30.329999923706055,
+    29.670000076293945
   ],
   "6m": [
-    28.18000030517578,
     27.809999465942383,
     27.780000686645508,
     27.15999984741211,
@@ -158,10 +157,10 @@
     30.09000015258789,
     30.290000915527344,
     29.889999389648438,
-    30.329999923706055
+    30.329999923706055,
+    29.670000076293945
   ],
   "1y": [
-    22.3799991607666,
     21.299999237060547,
     21.610000610351562,
     21.219999313354492,
@@ -411,29 +410,30 @@
     30.09000015258789,
     30.290000915527344,
     29.889999389648438,
-    30.329999923706055
+    30.329999923706055,
+    29.670000076293945
   ],
-  "lastClose": 30.329999923706055,
-  "oneYearReturn": 35.52279294485521,
+  "lastClose": 29.670000076293945,
+  "oneYearReturn": 39.295779995476096,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Dow Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "headline": "Dow Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSDN4ZW81YlRRcUNNUlJYbXgyYkJkMGFxaDNrdENJWTdJektuR1hsX1pvRktTUFNVLTFsOTR2T2VuS3FocGtPYWdOcHg2dG1yN1RCd25PTUVMN1pMVUlWR0k0RjQzdl9YTXZNbFlNUE54cTd5aE9PUV8zb2JDSURuczZISU51SmR6c09nTkxxUFhpd0QtQlQ2djQ4V1BxZTBhdmhMXzFlYmFRNDRCcEJadHNGNThPLWt1RzhpcjRwbnV2S1lPNjVfUkR5RWZaVzhIdm1qdFJLenA?oc=5"
-    },
-    {
-      "headline": "Going Into Q2 Earnings, Is DOW Stock a Buy, a Sell, or Hold? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWRPU1A0TzVtNDRuYV8waUdYdmZhZUo0RGJxbmd1NldURXNCNU5PREpYWm8zNEozNHUzQnFwOThYZTcxT3dQYzFzNDFjU3VlYTgwam9qUlZLYy1xSnVoOWQtZlU2aFlwNHJzY2Raakw1TU9MXzRtS3NFbEpNMDNjOXpyVngwVzQxRFZ5enVFbjJmYjZ5ckVJ?oc=5"
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRFpQMWZBQzhlOG5SRzdpRjRJNTA5Um8tS2RfRkNKWm9haHBwX0MzdVRIdnAzUm9kLW91YjFaVXRKRTJFbXFta0FzUFUwbzZZOHFjYzc0bWZfeWtmMUM1bE9qY2RDaERJVndSci1MajhTUkFTZHptS29vaUIxRENhWHNyV1hrU0E2bjR0RUdqeU1WbGU3LTJkeWluaVVkQmNKVmIxZ3M5ZU1vRHhVVHR1dXlwYVFqNC1ZaGVYdVB5S1JHSHhMeUpMYlA4dHZhZW5JcnZZczExUjIxSm5Q?oc=5"
     },
     {
       "headline": "Dow reports second quarter 2026 results - PR Newswire",
       "source": "PR Newswire",
       "when": "2026-07-23",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0tYUXFJMzVTa0FjS25NX1VOb0xqOGV1TjVDM1VvR1NKNUFkdDgzX2tOdTlPRkdNNnpIQWtTNW1ZQkxXcHVyZ3dsLXRncGdwaDJzQjVSUGpfck42Z0cwZmwwMXpJV1hrVUhia1JkU0pqWHduZXdKMDZlcFAzSEN3U3ZCWDlPUjFTdE5xSTNEQXZxZk5tcjhYOHNUZw?oc=5"
+    },
+    {
+      "headline": "Going Into Q2 Earnings, Is DOW Stock a Buy, a Sell, or Hold? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWRPU1A0TzVtNDRuYV8waUdYdmZhZUo0RGJxbmd1NldURXNCNU5PREpYWm8zNEozNHUzQnFwOThYZTcxT3dQYzFzNDFjU3VlYTgwam9qUlZLYy1xSnVoOWQtZlU2aFlwNHJzY2Raakw1TU9MXzRtS3NFbEpNMDNjOXpyVngwVzQxRFZ5enVFbjJmYjZ5ckVJ?oc=5"
     }
   ],
   "insight": "Tracking Dow Inc. (DOW)."

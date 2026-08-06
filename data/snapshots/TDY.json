@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-05T04:43:52.506Z",
-  "builtDateUTC": "2026-08-05",
+  "builtAt": "2026-08-06T04:44:13.823Z",
+  "builtDateUTC": "2026-08-06",
   "source": "yahoo-finance",
   "1m": [
-    654.97998046875,
     641.7000122070312,
     639.510009765625,
     631.52001953125,
@@ -24,10 +23,10 @@
     649.1799926757812,
     655.5700073242188,
     670.5599975585938,
-    684.760009765625
+    684.760009765625,
+    683.72998046875
   ],
   "6m": [
-    607.530029296875,
     616.02001953125,
     620.3099975585938,
     625.3200073242188,
@@ -158,10 +157,10 @@
     649.1799926757812,
     655.5700073242188,
     670.5599975585938,
-    684.760009765625
+    684.760009765625,
+    683.72998046875
   ],
   "1y": [
-    552.1599731445312,
     548.9600219726562,
     550.1300048828125,
     545.9299926757812,
@@ -411,12 +410,19 @@
     649.1799926757812,
     655.5700073242188,
     670.5599975585938,
-    684.760009765625
+    684.760009765625,
+    683.72998046875
   ],
-  "lastClose": 684.760009765625,
-  "oneYearReturn": 24.014786125466735,
+  "lastClose": 683.72998046875,
+  "oneYearReturn": 24.550049748942676,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Teledyne Technologies (NYSE:TDY) Reaches New 52-Week High - What's Next? - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGx4MXFvVmd0UnFCMFMtVU1GbWhjRUFIdXZpZmhfNVVqZ0t6dWxyYi1IVDVVZHcyckowdWZFOGRZZjBERWJlNzZ0T2Uxa0o5UVQ4LXQ1SXgzajFrSWk3VUZ2bzh5M01nZmJHVnlJR3BIdzRJdmo0dl83ZVR4SjFIaWpGQ3lNSkFVVUxyOFZCWkNzZHF3a2ZJSkh0QnZ4dG5MY2xGZUFUY2haNVAzOGgya043eGlySHBpNWZv?oc=5"
+    },
     {
       "headline": "Teledyne Technologies Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOR203YmdjRUtMR1VNT243RGdEekl4SlpieEprX2xpdkJ5Rk50dTRyeEtDMjZXVDhxZTRTUHR1TldBMDJNRFFrT24wYURLd1NrT3VYc0hMZXNBbGEta3Z4cUpkeGYwaGpfaTRlc1pyX19oVUdJMnZZM3FOT00zTU00QUtjV2todUZwZ2dwdDJuWnRqMmlRZFQySFVRejZDMlhjMFhkQ1BVY1M0UGFPVnZZU09uQ0cwWTN2dTRHQ2VlWkQtRm5RLUVoS3U4X2VjQ1VoWDFha1lGSmZSYmJDZUdfbE1mRFNvUmRGNFNB?oc=5"
     },
     {
-      "headline": "Amundi Sells 20,841 Shares of Teledyne Technologies Incorporated $TDY - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0xYbkZFQVlVNEpLclZQeFRMMEZPaDZFZzd6MVhpV3JuYzFEek5nMGZoamxOblJMRS03QnFCTzE3MmhFcE5MMURMWS05cEtBaVdTMm5VRGRCcmJ6anprSHRPWlFGbl9GZGhhS0w3WG80cnhFaUZGTXh1bzdMQnZ3QUpkc1ItZnVLakp5SmFYUnh4R3FnUTNScHR0SUZSNmQ1QUNHVE9fYllCM1ExTjBJU3dweHBNTENtbHktSVFoT2poQUFvUmNB?oc=5"
-    },
-    {
-      "headline": "What Teledyne Technologies (TDY)'s Earnings Beat and ESOP Shift Means For Shareholders - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVnFjdnk5NzJyVDZSdlh6cUFsRW1rdHhIRUk0OURpNVk2dVprUmpiMkxjeDJfaDdhWldiak1IOU5QZldFT1NuVmRWS083dEpHdmdwck1PR004US1jeGRiVEIyZlhVbXlldlZsYzVWVWlPSVJBbG9qRnEyY0hIUXY2UUhoRkVhelBnOEszNEh6bUpIeTlZQlpETEZKb1Q0UGQ0MldTcmdzMlRVdWNTaHRaWjg5U3l4QkZIN055SlAwMUxUdVBmOTM1SG9QY1NDR1I5cWVj0gHTAUFVX3lxTFBWcWN2eTk3MnJUNlJ2WHpxQWxFbWt0eEhFSTQ5RGk1WTZ1WmtSamIyTGN4Ml9oN2FaV2JqTUg5TlBmV0VPU25WZFZLTzd0Skd2Z3ByTU9HTThRLWN4ZGJUQjJmWFVteWV2VmxjNVZVaU9JUkFsb2pGcTJjSEhRdjZRSGhGRWF6UGc4SzM0SHptSkh5OVlCWkRMRkpvVDRQZDQyV1NyZ3MyVFV1Y1NodFpaODlTeXhCRkg3TnlKUDAxTFR1UGY5MzVIb1BjU0NHUjlxZWM?oc=5"
+      "headline": "Teledyne Technologies stock hits all-time high at $693.50 By Investing.com - Investing.com Canada",
+      "source": "Investing.com Canada",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUUlkN213RjlSWGJGdUNGUmFTVW1XbTNQSEl1TG5aV2pXeUFtZEFlaFdKVXJxSVdqczBkNzVaUXgySXdCVVBkSjRra2Yxa2F2RjU4dl9YUEFIMzEzRGR4TnFva3BiRDNDSFZYMWJuN0FUem5wQ25Odjl4aWgwdFV6eURfcHQwMTc2VHU0eUcxMllXdlJPblFzMGZzV3pkVEVnYkxDOTFhMDBpY19uUUd4VUpkYWlfUQ?oc=5"
     }
   ],
   "insight": "Tracking Teledyne Technologies (TDY)."

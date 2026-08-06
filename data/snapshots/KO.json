@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-05T04:43:42.118Z",
-  "builtDateUTC": "2026-08-05",
+  "builtAt": "2026-08-06T04:44:04.348Z",
+  "builtDateUTC": "2026-08-06",
   "source": "yahoo-finance",
   "1m": [
-    82.95999908447266,
     84.05000305175781,
     83.4000015258789,
     82.62999725341797,
@@ -24,10 +23,10 @@
     88.48999786376953,
     87.58999633789062,
     86.86000061035156,
-    86.55999755859375
+    86.55999755859375,
+    86.83000183105469
   ],
   "6m": [
-    72.55999755859375,
     73.55000305175781,
     73.05999755859375,
     73.43000030517578,
@@ -158,10 +157,10 @@
     88.48999786376953,
     87.58999633789062,
     86.86000061035156,
-    86.55999755859375
+    86.55999755859375,
+    86.83000183105469
   ],
   "1y": [
-    69.05000305175781,
     69.51000213623047,
     70.43000030517578,
     70.33999633789062,
@@ -411,17 +410,18 @@
     88.48999786376953,
     87.58999633789062,
     86.86000061035156,
-    86.55999755859375
+    86.55999755859375,
+    86.83000183105469
   ],
-  "lastClose": 86.55999755859375,
-  "oneYearReturn": 25.358426839910447,
+  "lastClose": 86.83000183105469,
+  "oneYearReturn": 24.917276884669484,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Coca-Cola Company (The) Stock 12‑Month Price Target Raised to $95, Implies 8% Upside - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdVBZbVJiV0tyTHJ5U1RtbVlLY19odFoyNjVFUDN5RW5DX1hSQmlEdy1MZG01RXg2NWlDT21GMG9pLUZWMmMyS2pJdmZxWnJBeFp6bHZBRE9yOHRJSnV3c2Fqb0oxdDI3NXpnNWl4TEFGMXNDRndMb2hzMXA0NkI3a2xGWjlQdEExTmdaSERONkk5eGlHTWZnMEV4MVVoT1prSUxwOTJWeWFFNUFtdklJTlhBWjVyc0txRnFyUFB6OE5Sd2VSTm8yTE8tZS1tRElCdW1UbFdUQVg?oc=5"
+      "headline": "The Coca-Cola HBC share price fizzes 4% after announcing an earnings upgrade! - The Twelfth Magpie",
+      "source": "The Twelfth Magpie",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTVJ6c25NUzBDZTFMX29jRjBlX3ZDeWZLMkVxSlNoVkdFZnZsMDRvZmU5S2JpQ2xXTDlIaTQtTGlKc0M4X0pUU1JjbFNEaktKclZ2MmhydmllTEJFWTRDMmZpaFNBQVlRRWlLRFV1UlFsb29fUFNSLXlPNHRFVTZYTHpaQURvdk5IeGdZRjZ1QkN0ZHAyczZDQTdfd1MtaF8ySUlWYVVXcFlxazdRVlVwOWRwdXN2ZlRs?oc=5"
     },
     {
       "headline": "Coca-Cola Europacific Partners (NASDAQ:CCEP) Stock Price Expected to Rise, Wells Fargo & Company Analyst Says - MarketBeat",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUTVkYUF2WlNQTGtBQnZERVdoUHh1aENzcDZCU3ZuMzB0U3pKR19ONlRFNU9DNnpvNUJFbWlJNE8wMmxRQUdiSHNvRUN6cWVVT2g1ZnNuZGZ1TVluMUhqdFFFZ0N1ZTFIa1ZvZGppZS1NNlItQ2x1cXFJWWI5YW4zdm5qSExXTXlZN3Vvb2NfSkJabUZRcUR0X2Q2VllXQVNmYndlOTRBTmlFMVN6dGo0SUVqaUVrNFZkTExZbXhQNEdvR255U2k4YkpTV2w4Um94Z25vU1JLVDlBZUNBQlNsSnpYME4tTTRzQ1pTRUhR?oc=5"
     },
     {
-      "headline": "Coca-Cola Consolidated Repurchases All Outstanding Shares Held by The Coca-Cola Company - investors.coca-colacompany.com",
-      "source": "investors.coca-colacompany.com",
-      "when": "2025-11-07",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVk12c1NhNll3SWMwWUJFUkZHV0VJYkpHbXNxRUFEak1aNldVa1dzWDgyNVZOMUN1UUx1OWV0bkV5ZFRjTGdxLTNuWmdjYXljQ2JaaFMwWnF1S3l2VGU1V205Y1Q4OTAxM1hhakdtcW8yLUdGY3NUMnNkajRTZUtraW5uZDFRVF9IM1k0UUFFYjdualVldEJkdzZXUER6eWY4Q1JLWUczT3FPejVrSHAzQ0I1cmhqV1lxTk5HbThWWFdCZ0lGWVpPSGtsQWNuSkFuYXZZYVVZX1pnX1ZTZGlFaVphNUdENFdJaHNsUW5kX3dUQ3k4Mmp3eA?oc=5"
+      "headline": "Coca-Cola Company (The) Stock 12‑Month Price Target Raised to $95, Implies 8% Upside - TradingView",
+      "source": "TradingView",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdVBZbVJiV0tyTHJ5U1RtbVlLY19odFoyNjVFUDN5RW5DX1hSQmlEdy1MZG01RXg2NWlDT21GMG9pLUZWMmMyS2pJdmZxWnJBeFp6bHZBRE9yOHRJSnV3c2Fqb0oxdDI3NXpnNWl4TEFGMXNDRndMb2hzMXA0NkI3a2xGWjlQdEExTmdaSERONkk5eGlHTWZnMEV4MVVoT1prSUxwOTJWeWFFNUFtdklJTlhBWjVyc0txRnFyUFB6OE5Sd2VSTm8yTE8tZS1tRElCdW1UbFdUQVg?oc=5"
     }
   ],
   "insight": "Tracking Coca-Cola Company (The) (KO)."

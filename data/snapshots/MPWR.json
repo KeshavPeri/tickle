@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-05T04:43:44.876Z",
-  "builtDateUTC": "2026-08-05",
+  "builtAt": "2026-08-06T04:44:06.583Z",
+  "builtDateUTC": "2026-08-06",
   "source": "yahoo-finance",
   "1m": [
-    1346.1300048828125,
     1272.81005859375,
     1315.510009765625,
     1374.1300048828125,
@@ -24,10 +23,10 @@
     1316.1800537109375,
     1426.030029296875,
     1344.3699951171875,
-    1335.030029296875
+    1335.030029296875,
+    1345.4599609375
   ],
   "6m": [
-    1068.1400146484375,
     1095.489990234375,
     1161.780029296875,
     1183.1500244140625,
@@ -158,10 +157,10 @@
     1316.1800537109375,
     1426.030029296875,
     1344.3699951171875,
-    1335.030029296875
+    1335.030029296875,
+    1345.4599609375
   ],
   "1y": [
-    802.780029296875,
     805.8499755859375,
     797.9400024414062,
     804.2899780273438,
@@ -411,12 +410,19 @@
     1316.1800537109375,
     1426.030029296875,
     1344.3699951171875,
-    1335.030029296875
+    1335.030029296875,
+    1345.4599609375
   ],
-  "lastClose": 1335.030029296875,
-  "oneYearReturn": 66.30085211090488,
+  "lastClose": 1345.4599609375,
+  "oneYearReturn": 66.9615935595468,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Monolithic Power Systems (NASDAQ:MPWR) EVP Sells 30 Shares of Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjAzaGlkYnQ0WGZpelltZjVuNDRkUG4ySW5uZVFEX0lwWWhLUEp5VEhudHJlQkY2WE5RTE1YM284RlpqUE43bUZ6NkVGMEtJTEVRYk51WGlqUDFMMHZTN3lFOV9TX3ZzOWM4eU55XzFUcTUxaUVZYS1YUm5QWVotTXdzdTZva0E1N1FPM3o3S25vTXRVTnoxQXhYY0JyX1VwSjV6RTFlc0JyUlY2dGltcjF0M2hneFRzT0E?oc=5"
+    },
     {
       "headline": "Monolithic Power Systems (MPWR) Stock Looks Fully Priced Following Its 195% Run - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDZ4UXdUZjh6QnZqWUxTbzc4WEt0OWs5N0pRZjhDY3hYV0tVQkZYSXFlU0c4Y0owWEQyN2VnZWJaT05rOFd3SW5vcHB5NGFYMDNidEZkNUhNV19ydjdrWllxVkZGZ09aN01LUzA4SHZQWmUxRDNpaWViYXVsQ2VtWWVBVnhCdzN3by1lZXFpcDVFb0xaRDdON3d5b0doUkh5OFE?oc=5"
     },
     {
-      "headline": "Monolithic Power Systems: Why I'm Selling The Best Quarter (NASDAQ:MPWR) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNajdYQXpTbVp5TWliZ0xSRUdXTW91V2xWdElZWktoQ0JzMm45TlpmNklHdVZDb3JPYWJWRjFua3ctd0dXYk9TRkdxT1ltQjZpeWFyZmM0d01ZNk40X3lhdkhCenkxdlZRWXVSUzd4dkNoNS1CY2RIcmJGN2lUUF9GMXNSSXNXbW5xYTViQnpLYmxDbXh2dlItWDlabkVzdw?oc=5"
-    },
-    {
-      "headline": "Monolithic Power Systems Stock And 2 AI Infrastructure Picks With Strong Earnings Growth - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUVRwMTU0dUNMR0cxSmQ4b1U3MmZEZzREX3RqbC1oaVVlWmpBM3ZQVnBYWUlzbkFNQmZhYXhkUl85Qk1oYjRhZFZIdEdobXJDU0JPTE03QkpjYms3Uko4dHRTVEhXbkViUkdadEY3OURDOVJKeHhhaXk2OWZlZ29KYTJfczRqMVFnSEE5X3F5WlkxVVJ1VTIxSjBvQnRRS0F2SmsxLWNxeUo1YU9Mc0o1NzVmYjdINFlsaVlXUE53MTA4am9yS0RDSTNFQkdVS2FHSmd3ZUo4UE5vclZOaW9SRFFfd9IB6AFBVV95cUxOS2p2dm14MjhMWUtOdGd5UzZCZkNSYlRTaUdPM25MSUl4b3ViaXR6SXl4NUN2OTVYaEhIMC1jWUROT0w1RXpCWElBSnNNdzJlRGdGT1FOSVZVMGtQMjlBdXFHU1Z6QkIxU0RvdjMwbEVfMDFzY003NkZ0OUxEb2RoMGg1SjdCaUo4eDJiX0V4YVlSaTAtdkRVWl81MHh4SThaX0tOUXNxVlhnaThrSVZTOGdkdjdGdWVtbDY2MnVKYnFHZjRMd05LSEVOQ082UmtrSXhzRmEyRTFYTXFvZGt6bWx1MFp5dHEy?oc=5"
+      "headline": "Monolithic Power Systems Surged 8% Friday. Here’s What Could Drive MPWR Stock in 2026 - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-08-02",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1UybHNSOENkVHFKTkF5Z1pzOEU2a3lkYlpyUGZ1c0p2cEJiS2FoR0lmOVk0cXVKMXNxVi1weWRScjJlMldqSTdjSGY3eDRxVHAyZFFVVERkTG1ObTJkMWJkWXdxOHU5aF9jLXI3OENwajlXRDZ3OGJlZlJ5Rlg3QnFSZDh3d0EzRERCdmxndGtkby1yWDFnajB0cjR0NnpsSGFTMWdOVzdHLUZD?oc=5"
     }
   ],
   "insight": "Tracking Monolithic Power Systems (MPWR)."

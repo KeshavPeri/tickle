@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-05T04:43:21.340Z",
-  "builtDateUTC": "2026-08-05",
+  "builtAt": "2026-08-06T04:43:45.156Z",
+  "builtDateUTC": "2026-08-06",
   "source": "yahoo-finance",
   "1m": [
-    113.19999694824219,
     114.94000244140625,
     117.0199966430664,
     114.0199966430664,
@@ -24,10 +23,10 @@
     125.7699966430664,
     125.19000244140625,
     118.30000305175781,
-    118.11000061035156
+    118.11000061035156,
+    116.70999908447266
   ],
   "6m": [
-    91.6500015258789,
     91.73999786376953,
     93.16999816894531,
     94.02999877929688,
@@ -158,10 +157,10 @@
     125.7699966430664,
     125.19000244140625,
     118.30000305175781,
-    118.11000061035156
+    118.11000061035156,
+    116.70999908447266
   ],
   "1y": [
-    92.72000122070312,
     89.9000015258789,
     82.88999938964844,
     80.91000366210938,
@@ -411,29 +410,30 @@
     125.7699966430664,
     125.19000244140625,
     118.30000305175781,
-    118.11000061035156
+    118.11000061035156,
+    116.70999908447266
   ],
-  "lastClose": 118.11000061035156,
-  "oneYearReturn": 27.383519257309064,
+  "lastClose": 116.70999908447266,
+  "oneYearReturn": 29.822021249772877,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why CF Industries (CF) Stock Is Down Today - quiverquant.com",
-      "source": "quiverquant.com",
+      "headline": "CF Industries shares slide on quarterly profit shortfall (CF:NYSE) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemx6WXpzNFRkSmdZZlhoT0YzdjctbDMtM05oV2pkaXpnTkxJTWJWTHNJQ0t2VThFeVpLOFJBMXFpWllncW02RGFDQkJISDhkMTJSOXlQMmJTclJiaElMNkNyOWFzckdvbi0xLWNNUHkzbk4tdEFrMHBuWElGM250MUdYRFVYWnZwZjRWdVcxSmo5dDg0Y2pSMUVR?oc=5"
+    },
+    {
+      "headline": "CF Industries Gets Permits; Blue Point Construction Starts in August - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0s1VUJDcFlRb3JGdUJLTlpFOVJpZVJ5VEFyd2wzdGdoYnJlUVJMNWVFYkZoNEp0SDlidjZ2WXJuNDZFNThVYzdicVl4TGxQSnVXclJQdHNfYTdsS19aMlZmbkNoMzVjRmZwTkN2eTM5bHR0Ukt5cG5VdWdWWEt3WGtmV3V5NUdBVHJQUTlxVWhTa193d0FwNTFzemJzUkFNVmpaY3VsNnJKcDFlWUExRGNManVRa0FrVmJoTjhB?oc=5"
+    },
+    {
+      "headline": "Why CF Industries (CF) Stock Is Down Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeEhaRnk0WVMzTU00YjJTcGw1MVgxOHNnUHhRd2pCZWw3M3NxZFZaWWhvVUVaRmlhcGlxUHZwS3o0N0FhYjdjSHdwbUIwTkYwajFFZTBXVTJ1akE3NXI2SEFVOVZiamZfb1ZaN1FSWWFnMmZxUkZlakxKaTR1cG85NUFpS0Y1Zw?oc=5"
-    },
-    {
-      "headline": "CF Industries (CF) Stock Still Looks Cheap On Earnings While Cash Returns Support Value - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMkFqb0F5cTR5bzN1TXlkdVpoUlg4TFFFZWQ1OU1sSmF6djBQRE1mYlRIeW5wcEYzNV9fWS1fRTBBZll3ZE9wbGRiT2hrdUYyNFJsQkxENDdsR2U2V3duZjRocFdEUzRKNEswYU9wVFVQbklDeVpsMlgxV1RBdlQ1Q0ZTcDJoUE9KZWhjblVDUlhJVXJXUWpXRg?oc=5"
-    },
-    {
-      "headline": "CF Industries Holdings (CF) Looks Fairly Valued Following Its Share Price Run - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNFdfdlotRWt3ZjQ5b0YzTHpYTEFveXVtMlduVjFLQko4VDdQY19YVlZWelZncVgxNVMwZHNub0x0TGt2YlBSUHZmX0hmeGFqQ25nZE9lZjVUbE05eHZaUmpZZTluY0RISG1hWDdUWnNmcjJFVmpGTTZiR3ZyQ1UwRlZyY0JTMUdFaEFCdmRHcl82TjVmcU14al9kVGJYWmFJbkhERWt0c1paNHR1Uy1qY1NvUEZJMzdhZUxIc0EzaHZwY0piblljQmFaR3M3bm9LWFRZ0gHYAUFVX3lxTE9aS1hDREIyUkNSbGhQTEZpbEVsWmFRZkhqM2x0QTljT1o3cHpWNnlmdEc1RmFMUTZ6VGtfcVI1Vkd5eDNzbWtPM2RXMnlsTnREZ2dwQmhuTTdWOFBhdWhfbE1jTGd6MW9YM3FIWGV1TnRDLVZKTUtkWmJuQlZDWGtaY2NkUkktcGJyUXItaGw4aGJMd3J1elJBaUJuNjZENlNzS0xJSm41RktYQmNyd3c1RDJDSTFqLW1adDBPNEx3bHVfV1JhQ1lRYzNEcUgycTJ5NVBZQlItSA?oc=5"
     }
   ],
   "insight": "Tracking CF Industries (CF)."

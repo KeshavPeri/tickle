@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-05T04:43:56.202Z",
-  "builtDateUTC": "2026-08-05",
+  "builtAt": "2026-08-06T04:44:17.398Z",
+  "builtDateUTC": "2026-08-06",
   "source": "yahoo-finance",
   "1m": [
-    110.6500015258789,
     111.54000091552734,
     113.0999984741211,
     112.20999908447266,
@@ -24,10 +23,10 @@
     111.0999984741211,
     111.19999694824219,
     110.70999908447266,
-    111.55000305175781
+    111.55000305175781,
+    112.33999633789062
   ],
   "6m": [
-    117.63999938964844,
     116.94000244140625,
     116.56999969482422,
     117.41000366210938,
@@ -158,10 +157,10 @@
     111.0999984741211,
     111.19999694824219,
     110.70999908447266,
-    111.55000305175781
+    111.55000305175781,
+    112.33999633789062
   ],
   "1y": [
-    99.30999755859375,
     103.36000061035156,
     103.12000274658203,
     103.7300033569336,
@@ -411,18 +410,13 @@
     111.0999984741211,
     111.19999694824219,
     110.70999908447266,
-    111.55000305175781
+    111.55000305175781,
+    112.33999633789062
   ],
-  "lastClose": 111.55000305175781,
-  "oneYearReturn": 12.3250486296129,
+  "lastClose": 112.33999633789062,
+  "oneYearReturn": 8.688076310479154,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Why These Analysts Are Backing Off Walmart Stock - Investopedia",
-      "source": "Investopedia",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFpFM2xIRk40aXVORk1wTTlHa25VX19wQlpJeEtZNXlGcFNpQldZQ3cxOURQdXY2LXFOd01rYzBkdncyaHVDM2htV1Q2Rmx1X0dTdWRMQ19MU0lMWi1qZFFGUFlZVm92bG9Jd3ozaldYdnhtcHdyNFQ0a0lnYllZV004RDVmTTFfYkpHZ0FYNGVQWGdfaGhWSkM3dlJYSlJiMW1wdjlrbw?oc=5"
-    },
     {
       "headline": "Walmart (WMT) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEkyUlRONnNybjVHSThqbnVIYXctbVBNaFBmeE9makNZVWVUM0J4Mk5xQXFHZnNiaTlCdy1GUWx6WW50REI4Ny1KNmxIR1kwdjI2YmV1X0xsM0YxdkU0N2I5RF9zaGZ0c21xVmpRaC1fdFpSXzROQ0VVTE1nUmVmank4U1BPMUE2Mm01cU5PRmtBMU0tb0tGdA?oc=5"
     },
     {
-      "headline": "Walmart Stock Slides After Analyst Downgrade: Time To Buy Or Stay Away? - Benzinga",
-      "source": "Benzinga",
+      "headline": "Why These Analysts Are Backing Off Walmart Stock - Investopedia",
+      "source": "Investopedia",
       "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmVIY3AybG9iOVVNZHA2cmIwN0h6ZmRfQThKelA5VFVSRjI2djR0bDdBYVJjbDBYTTY5aWlORnFOUW5TM1hyNWN2c1VnMmtJV2JkeHBBTDdGN2o5VXBXZUt2TC10WGdoVGl0T2Y2UFNOSjNEaWs5cFJ5blcxQm1GYWdQYVNpY0VVWGFEY0M0VUc3bGczbnQwZjZGTER2anlrcS16UVNyRzNOS0xqQ2FqM0dkMktwdUc5?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFpFM2xIRk40aXVORk1wTTlHa25VX19wQlpJeEtZNXlGcFNpQldZQ3cxOURQdXY2LXFOd01rYzBkdncyaHVDM2htV1Q2Rmx1X0dTdWRMQ19MU0lMWi1qZFFGUFlZVm92bG9Jd3ozaldYdnhtcHdyNFQ0a0lnYllZV004RDVmTTFfYkpHZ0FYNGVQWGdfaGhWSkM3dlJYSlJiMW1wdjlrbw?oc=5"
+    },
+    {
+      "headline": "How much does Walmart pay? Salaries for store managers, pharmacists, team leaders and more - Cleveland.com",
+      "source": "Cleveland.com",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTnJFTWtkVU1WU2dMZUVTWmdxdXpNaW1mbFFjdFZpckxtcXRING9QMlFEOHJ4Wl90NjRyWjdwMHlCRG8yTkQ1SUVFS0Q0bGtrekNDZjlwcVUtYlp1cjNjSGRNZzk1Z2pNLXNQV1NUMFpjTVNzN1pzek5RUENvakVVTU1sXzlud0FMVHhzX1M2R0RBblNyMm83Sm1uV1Vlb0pDaFYzMEYyRWZ5RzI5MXVNZ3hWak9QUkh3SkFzT2VoQUE3TTB1bVJPR0EwZ9IB3wFBVV95cUxPV0M5M0xJNl8zNnZFZzEtR3EzTDhBOHhpSFNhVUFnXzRPUFpxYUt0d0R3bENLSGNaTFByV1FnNGptMnhLVlRUWHpmbkgyTk84N0hwUm9Ja3g2a2N1Qy1pc21GdnhwRzNuYVAzcmpjUFhUbTFhbWtSTWlmMHljUmJuNFNzcXowY2JpYnhyaGpjZ3JkSnI4SFRiSFc2Tl9UQ3V4TGs5dXNMMnEyclE3VVAxWTdscWVMM2xiWXNMWlVEVFZobWhSV1F5ZUFvYjhFSy1yTmppY3JtcmZ5WTFMNjVj?oc=5"
     }
   ],
   "insight": "Tracking Walmart (WMT)."

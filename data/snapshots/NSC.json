@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-05T04:43:46.410Z",
-  "builtDateUTC": "2026-08-05",
+  "builtAt": "2026-08-06T04:44:08.282Z",
+  "builtDateUTC": "2026-08-06",
   "source": "yahoo-finance",
   "1m": [
-    321.8999938964844,
     322.739990234375,
     319.2200012207031,
     323.7699890136719,
@@ -24,10 +23,10 @@
     333.92999267578125,
     335.4800109863281,
     336.6499938964844,
-    341.2699890136719
+    341.2699890136719,
+    341.739990234375
   ],
   "6m": [
-    288.260009765625,
     288.9700012207031,
     284.4700012207031,
     290.1600036621094,
@@ -158,10 +157,10 @@
     333.92999267578125,
     335.4800109863281,
     336.6499938964844,
-    341.2699890136719
+    341.2699890136719,
+    341.739990234375
   ],
   "1y": [
-    279.8699951171875,
     282.95001220703125,
     280.4700012207031,
     280.0299987792969,
@@ -411,18 +410,13 @@
     333.92999267578125,
     335.4800109863281,
     336.6499938964844,
-    341.2699890136719
+    341.2699890136719,
+    341.739990234375
   ],
-  "lastClose": 341.2699890136719,
-  "oneYearReturn": 21.938755482085494,
+  "lastClose": 341.739990234375,
+  "oneYearReturn": 20.77751386853725,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Norfolk Southern Stock (NSC) Opinions on Railroad Consolidation and Tax Developments - quiverquant.com",
-      "source": "quiverquant.com",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZFNNY19XRnlueVpvblUzWVBmMnA2TmduR0Mwbjlsb0duZHpNelBHVlZrRFM1eVowWEZWNkphRWxTOWFjaHF3cE5qbnpZczEzdW9SOTJndXh1RFVBb2U0cEZjY0Zud0VxZXMxdG1YNWlPTEtNY3RVTk9ScDZUTE8zd2JiRjZ0U21IYnRMS1ZIa3JUclEyeVU1TUt6U1ptV1o5U2pNMkJxM1pHTG95bkF4czdXd2Z4VDQ0QWlyazZB?oc=5"
-    },
     {
       "headline": "Is Norfolk Southern Stock Attractive After Its Strong Earnings Beat? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNXhOV3dBdWtQRGtnRWU3aVo3ZDhaemlpeUxINlRLaEpzZ3h1UUdHREZKMUpIbTZJQ2NSOHNwNjBXeVhudm93bXpXZGRKSzZMeUloTVJRRnFqUVhsV2VzU3h5TXJ1cjdtVUZwczBDOHRGcTI1eTBDQm1IT0lGU3gta1dFQmJ4M0d2dUd5cVVFb3dENV9hQzcwM3A4Ul9lcnJwWUJReUhrMTI?oc=5"
     },
     {
-      "headline": "Norfolk Southern Corp. stock rises Tuesday, still underperforms market - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "Norfolk Southern Stock (NSC) Opinions on Railroad Consolidation and Tax Developments - Quiver Quantitative",
+      "source": "Quiver Quantitative",
       "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcmZfWWlQc1EwNXlBVkVIV00tUVZtOGhuaHNBd2NpNDZONGV3dFRocDF5enpjQTdzNFZVZURqTktaektxcEFiMXBpcjlWb1NzTUlkemxkUzl2bXkzMEZaYURsYTZxRHFFbXptLTA1NWpUUEFRMUZvdHhTRUxYVllET0JzRDJ0MVh3dUg5Y2Z2alhuaTJTcjZLVlVoSWI1aEY2RndRbzRkQjk1RWl3aGprZDV3MVgzdm5fR1Z0RFBKMW00N3FFOGp2Nk4zRW5zWjdlSHRwTXo3VTdFaVVGSTdV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZFNNY19XRnlueVpvblUzWVBmMnA2TmduR0Mwbjlsb0duZHpNelBHVlZrRFM1eVowWEZWNkphRWxTOWFjaHF3cE5qbnpZczEzdW9SOTJndXh1RFVBb2U0cEZjY0Zud0VxZXMxdG1YNWlPTEtNY3RVTk9ScDZUTE8zd2JiRjZ0U21IYnRMS1ZIa3JUclEyeVU1TUt6U1ptV1o5U2pNMkJxM1pHTG95bkF4czdXd2Z4VDQ0QWlyazZB?oc=5"
+    },
+    {
+      "headline": "Norfolk Southern Declares Quarterly Dividend - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQklQYkVnSG1RUWt6bTNKWG56TzlCZVgtQnJjcWo2bmg3c29FUDVETnZna2RsMnh5QmpzTDIzejE5SWpTZE1yZTZwVjBhbVpEdkVhZlpvbkZYX3NHSkpHRmFqY0h5N1R3V0ZxVmNnaW9KNy1HTHp6NFZSLUpMZVBOSGtXWWt0dzhkVk9lRDJCQXdhb2NZRlJuSnU0UlNwUGFTS3c?oc=5"
     }
   ],
   "insight": "Tracking Norfolk Southern (NSC)."

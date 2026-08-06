@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-05T04:43:24.742Z",
-  "builtDateUTC": "2026-08-05",
+  "builtAt": "2026-08-06T04:43:48.294Z",
+  "builtDateUTC": "2026-08-06",
   "source": "yahoo-finance",
   "1m": [
-    28.700000762939453,
     29.8700008392334,
     29.34000015258789,
     29.190000534057617,
@@ -24,10 +23,10 @@
     29.459999084472656,
     28.760000228881836,
     30.030000686645508,
-    29.81999969482422
+    29.81999969482422,
+    30.209999084472656
   ],
   "6m": [
-    65.80999755859375,
     66.22000122070312,
     65.19999694824219,
     61.93000030517578,
@@ -158,10 +157,10 @@
     29.459999084472656,
     28.760000228881836,
     30.030000686645508,
-    29.81999969482422
+    29.81999969482422,
+    30.209999084472656
   ],
   "1y": [
-    96.55999755859375,
     96.29000091552734,
     95.33999633789062,
     94.5,
@@ -411,29 +410,30 @@
     29.459999084472656,
     28.760000228881836,
     30.030000686645508,
-    29.81999969482422
+    29.81999969482422,
+    30.209999084472656
   ],
-  "lastClose": 29.81999969482422,
-  "oneYearReturn": -69.1176465940473,
+  "lastClose": 30.209999084472656,
+  "oneYearReturn": -68.62602679693079,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CoStar Group (CSGP) Stock Looks Reasonable Following Its 68% Slump - Yahoo Finance",
+      "headline": "CoStar Group stock edges up as CEO buys $2.5M in shares - Investing.com Nigeria",
+      "source": "Investing.com Nigeria",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVQ0VTZibmFUb3BwQWlzekRvTE4waWxVZk1ZaTZabkZEVUZsQnBNdUx0LTh6eDZZMjlrQ0F3RGlKTGRfTmRDZ3VXN1h5V0Q0WF9fVUQ4ZEJyV2ljYnQzYjVPdHZaTFp6alkza2YxU3JTUHJSVW01Zi1JSDJBYjJZYm9qZy1paUJaZm9JaDFjbHBrUi1LZFc0dG9TbTdBdF9LUUhMOG9LcElMSUpyUGtlbFZjbzM?oc=5"
+    },
+    {
+      "headline": "CoStar Group (CSGP) holder files to sell 3,500 compensation shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWU42ZEV5Y3JNTWJOZFJKZGRELTFpV28xMWNPUEs4RnVQd3lFVkRjdk5jdld3OS1xTVVHMTdKd1BpdnUzYWdKb3Z6T1Z2TncxNUlYUGx5UUd5QVBXdE1fNmxhTGVGakIxOXB3dHJQNVFsNGJVSTA0MVNTVWQyUkNVT1ZwR3JkMlNUTDhmc2djaHVSa3JWTUlPVQ?oc=5"
+    },
+    {
+      "headline": "CoStar Group to Report Q2 Earnings: What's in Store for the Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeE8xZldJQ2l0QkdUeFMyejdGSFJaRHVFZ3RnM21PMmZIbkhfRF90R0wwMFFFRUlRNGRWcnpNbFRSQ3RYSXo2ckp4X0Y0NW5LVzBLaVJXOXNVeWF6dEV6S2d4RFB2dy1oVDl4X3MxOF85MTgtZ3RzTGFHNWpDTTB6SUNvbXVxai1tMEMzV2NOWFNMS2JHc2xqcDNn?oc=5"
-    },
-    {
-      "headline": "What CoStar Group (CSGP)'s Upgraded 2026 Outlook and ESOP Share Offering Means For Shareholders - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT05mcWl3ckFrWUJ6bG52TUlSaVJPWjROelhiZXk1ZnRZWktIU2pUejN3VzRjYjJRRklYbUJCd2xzTW9VejFraG4tOXNWeVhDY3VBZVdYdVp5ajk3a2xuSmV5Z0NNMmZsOWdBeGlJQU9RWGNQNWtpdFcwMXdrZUEyZEVQM2FZWVF4Qjh3SUZVaXpESW1ncHFub1JoYl9LWkV0R0J4MlE5NmE1TFVpaHh4SFJJZ2hBbm5xLTlQRjlTTHlvMnBhWFpDMGFkcURoV0lYNWR1WGtxejFTUGxlcERjTGlDWm45NmhhRnowV3cwdXg4ZUnSAfgBQVVfeXFMUG45NzFnRHZFR1h2cmk0Ym1yRVpVTERJR201MWxIUFIxcUVuTTVkUjdYYzdWVDRGem9jdXlrdkYxTDRNV2tHYjM3dWNEd2NDSm11T1VHMFdUb0Q1Z0ZRbmZBOS1CaHVERGVJbkRQNFZoQkNaRjR0amIyRFZpeFJnNF9fakg0UzFYa29NNE11a1VVUjRXbzhZQ01MU0pfZVdqWl9NN0l1X25TV1gyZFVvRHUxckZCazhna0tUcnFCakVmVENtR0dWOGhiNW45REI4bjJOQkRaWHAxLWVseGNWdmloLUI0X3JxZzRVbmJtRnFld29ycHA0U20?oc=5"
-    },
-    {
-      "headline": "CoStar Stock Slumps After Earnings Beat on Lower Revenue Expectations - Barron's",
-      "source": "Barron's",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CVmV6SEtlNzlweHVsZVZlYVFKdnRlUXV6cmJJVWsxQWJSdDRkN0pXdkdFZ0VubndDa05IS2lwZFU2MGtaTkxBaHFEbzJYbnJnS19QZU14QmlOQW13X1ZIbkRxeEV1NWIwN21RUXZ0UE4?oc=5"
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR3VodlFfOE9Jem5lSlVORlRFNUVjenNVeXYzdmg1UlJOb2xGeUlRTDg0cEQ2bFFOVENlRldMY1JNeUVtQ2JyVFZWM0xGOURRYlZSc1kxMGV1SWlYWUhyZ3ZRakZuRG8tNW5KazlZS01YZXplWC1NeTljYmpDYUcyQzdzNEV3cFI3bmtULXdTWTZPTEI3NWd6MWo5bEg?oc=5"
     }
   ],
   "insight": "Tracking CoStar Group (CSGP)."

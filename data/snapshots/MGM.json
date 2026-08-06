@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-05T04:43:44.283Z",
-  "builtDateUTC": "2026-08-05",
+  "builtAt": "2026-08-06T04:44:06.139Z",
+  "builtDateUTC": "2026-08-06",
   "source": "yahoo-finance",
   "1m": [
-    46.880001068115234,
     46.63999938964844,
     46.599998474121094,
     46.439998626708984,
@@ -24,10 +23,10 @@
     45.65999984741211,
     44.56999969482422,
     44.5,
-    45.720001220703125
+    45.720001220703125,
+    44.5099983215332
   ],
   "6m": [
-    34.099998474121094,
     33.47999954223633,
     32.75,
     33.34000015258789,
@@ -158,10 +157,10 @@
     45.65999984741211,
     44.56999969482422,
     44.5,
-    45.720001220703125
+    45.720001220703125,
+    44.5099983215332
   ],
   "1y": [
-    34.970001220703125,
     35.09000015258789,
     34.709999084472656,
     34.18000030517578,
@@ -411,12 +410,19 @@
     45.65999984741211,
     44.56999969482422,
     44.5,
-    45.720001220703125
+    45.720001220703125,
+    44.5099983215332
   ],
-  "lastClose": 45.720001220703125,
-  "oneYearReturn": 30.740633756786167,
+  "lastClose": 44.5099983215332,
+  "oneYearReturn": 26.845249723518698,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "What Are Wall Street Analysts' Target Price for MGM Resorts Stock? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWtSeGFUaHNUTG5rMUVEVVJXQ2tmUWQwbXNVaUhRNjFYenRmZXpCSUxZeWpLMGNONTNxSXFfUlFkUFhmb0lmNDA1dG9McjJBVjhGSjYtYnhJcHV1anVHUW5Wc2J2XzN2UXU5eEVUTkJlbVptTlFzZ3E4emhSdnY4M1VwV3Y5aU03dzVRNXE5UVpzbnlmXy12UEZ6cjd1OXB1bG1HbzgzNnpVc1Vm?oc=5"
+    },
     {
       "headline": "MGM Resorts (MGM) Stock Looks Undervalued On Cash Flow While Earnings Look Overvalued - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWRBS2w0RXRxMDU1X0RIZTZvQnNRU29pNXkxV2VDUkFoSGptNXRTOTdDXzFhRXhsQnlSMU1Oc2NCWFY1M3NXTGdCRHd5aThPSzNhelpMaVY1a2Fla01Hb0lmUFR6SHdwTkI4elppQnRhMTNVQ0lqTndERVJDWkZaQV9RaW1ET0xHMUhEOEc1Vkt2b2Z0cHRj?oc=5"
     },
     {
-      "headline": "MGM Resorts International $MGM Shares Acquired by Quantinno Capital Management LP - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMS0wWGJqVF9XSzRGdmUwbjctMmZMN1FESTJqUUtGUUVnNDR1bUZRRm5Lc0R2aUtRblduUWtTOXQ1ZV9CUDFDSFZsei1BaklmWnA2WVFlSGRVVHR2b2pBdVFyUm4xOW51SThkcjJud09NR09iX0l0YmFLZDlHbVRKZlJ5UFFwb1lOdmFfSlUzRVVyV2JhYUZTaUgzMFd2cFRRRktDUWx6UEt5bkZZa0U5cmtrbURHdjFBTUpCandIa0RJQUlIRHpXSS1FdkRrVlJ1amk1OFFBdlc?oc=5"
-    },
-    {
-      "headline": "MGM Resorts (MGM) Stock Shrugs Off Record Profit As Margin Doubts Linger - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRzBKSHhudjkzRnhIdXZnWVNMQ0FrQmE2VzlJWEZHYnhCV05VazNHRlhNZzdBTE1TR1hiU2Z3NzNTWTdLclRiWTF2OXVwOWNJWVVhcEJvYmFMNWYxa0E1NDQ1Rmd3a3FkZmRqMGJXM3Z0VzlhS2FZMk00YTZnbHVGQkpNSGZSalRaMzFXZU1RRHlteHk1Yi1MSzA3aFNRNFBtTS04TDRUNGZhM3R0S1ZaT0REeVE4Ylgtanpyc0Z5b1BoV0lsalA5ajFfT1ZlZ2dsUTFVaTlBTFBDcWJIZVZZX1N1UEbSAeoBQVVfeXFMUEFQbWw4UlNJTzVQN0RCRHBjNmpOMnVQQTFXYVhQRmlobXVIcjg3SnA2NGtuSWRRZVllMkdQb1FSS2F5UzZDUmxUX29Nb0QxY0tiWDBTQ001LW12amFoWFdacHNDcWs2eUowTFlOVjVwNlpSMlBxeW4yLUdEdFF4dkM3Nms2UEE5ellmamlZc294eTRaRkduSU8zRFhRekkybzlDS0w0Y2VSZE5oQ18yOGh1Y00tV1FXWHhndkEtdXVOUlM5YlB0VzhFWlBCbUVFQXA5M01rRHJnSzNua2hudVlyQlhLYUVlbU53?oc=5"
+      "headline": "MGM Legal News: MGM Resorts Hit with Investigation over - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOa2VVOEgyMDdpWnVzQks0WkpUU2sxY1hhcklDVzVSR01YRmozbkZVVWpQQ3FJWHZJZkc2NTB0UGhKZlZicnpNZG9pU3ctQjN4Ri0yU1dvSTNJU1BhX0tEMTAxQmlNRkJzdTlXN2sxQjVfT18yZWtKLTZRWWNILUZJVG1XbEZLVGRDTFpnX1JDNndtRFJPaFNDMUhKNlF2UVNsQmxCVHNTaWxYT1psYWJ2ZTRJWEg3aHducWNNMFJtaDVPc3Npdy1oOHNLQVNibmpnX2tXb1BEa1lyUERSV0t2bWtLNHl1NTFXM2g0emVEbEM4WWUxMGYzUmtOWERRMWp3ODBMQzByVXNncGUxRlR1SElORmhWRTkxcWw5WFlGbEtuUk5nQmZzUVNjYndwZw?oc=5"
     }
   ],
   "insight": "Tracking MGM Resorts (MGM)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-05T04:43:19.237Z",
-  "builtDateUTC": "2026-08-05",
+  "builtAt": "2026-08-06T04:43:43.231Z",
+  "builtDateUTC": "2026-08-06",
   "source": "yahoo-finance",
   "1m": [
-    144.77000427246094,
     148.60000610351562,
     147.07000732421875,
     147.32000732421875,
@@ -24,10 +23,10 @@
     154.77000427246094,
     153.9499969482422,
     157.33999633789062,
-    168.41000366210938
+    168.41000366210938,
+    163.41000366210938
   ],
   "6m": [
-    208.8699951171875,
     206.4199981689453,
     204.88999938964844,
     195.9600067138672,
@@ -158,10 +157,10 @@
     154.77000427246094,
     153.9499969482422,
     157.33999633789062,
-    168.41000366210938
+    168.41000366210938,
+    163.41000366210938
   ],
   "1y": [
-    265.3299865722656,
     266.8900146484375,
     266.4800109863281,
     265.94000244140625,
@@ -411,10 +410,11 @@
     154.77000427246094,
     153.9499969482422,
     157.33999633789062,
-    168.41000366210938
+    168.41000366210938,
+    163.41000366210938
   ],
-  "lastClose": 168.41000366210938,
-  "oneYearReturn": -36.52809249427184,
+  "lastClose": 163.41000366210938,
+  "oneYearReturn": -38.772529996162575,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0JlVUJwd0hFMkJydTJFdGZCZzVPWWluV3FhdzFnaUVlbW4wcTFFam1ZaHhCUEVmNkpjcTV2ZGZHUE1TUTlaQ0kwOFFnOFkydXdSR2Itc0dLcHFOOWlVcy1wU0s5eGRPYjlDTDNMN2NCUHpJdWE3TUVGeE9zS0JmTG9RZ29Wc1k5ZmhKZklGOTBOMll0Mnh4Z3RfQ2FjblhKVnZNR0NRWV8?oc=5"
     },
     {
+      "headline": "Broadridge Financial Solutions Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTkJ5ZF9ubnJsRmJCOExUTjJYYzlna2cycGwzR25OSjhwd1I0WHVtNHhCNzdvbzJKSXR0V0poMDB6bkliNkRqaGRoaXktUVE3Sm9MMDh1bmVKZTNGZlkydkc2YUlFS2tZRDY3YUs2RFhwT2NPRDhrUWJ2dzFudzRrLUFnWUJjclBwcXVzVU5raUZ3TWhHeXVrdnBTOTc0elFGZVc3dXpNVEJoMWp2c0xITGpMSmRQN2NBWl9CNUZqR0VWWjBZTFdqN0E0TVhFaVlLTE9WSC1IYm5acjV1dHNsVlNzVTF5SXRaRWtNZ0FNaU1wcS11cEZNbS1QLVk?oc=5"
+    },
+    {
       "headline": "Why Broadridge Financial Solutions Stock Is Soaring Today - The Motley Fool",
       "source": "The Motley Fool",
       "when": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVhzd2lpS0dUZVVSUm9jMWYtT2RiU2lUcHZnVFh1NFIxZ1lqSnQ2Q0lKQU51a0hEY1VyUnRlbFRiMFp5SjNodjh6b1hDTnJLcEtJTDgxRE5fWHFXbk1xX2JYdm5Jekx6c24wYkt6a3V3dW81WlFkZnd6ZjRfeHBZREJRRFRZbnliaXpqazVuU2VSZ1V1MGF4dw?oc=5"
-    },
-    {
-      "headline": "Broadridge Financial Solutions (BR) Stock Surges On Recurring Revenue Strength - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbGhDM1QzMW9jaUl6NGVYb2VLSjlCTG56NENCSmNvVWdsRTB3aFM5UEpENXU5YXpfNmhhLUs0bXdpODZhOE53NTJQMWpvX2RZUkozU09vRUZ1TWsxck1BME9UeEhselhSSkllQ1dwbzFFTjJ1WHNtTkhmTFZGRmd4TWFpMW1TdENrVkpmeWhnUW13UGx2VS0tZ3NmUGNHVXM1Rm5qb2pkYUNRWmthSzdZVWpnTVFkcTR6RGdIQWk3TjRucERaaVZqN3Z0NWJUOEowYlE4T19iRTlKb25pNng0N2pPRHZWN2w1c3pn0gHwAUFVX3lxTFAwUXB1M05tM2hIUkI2ZXJCSzg2eldMcUZxaFB6cEFVRlA4NEhwZm9sRVRkaWdVREFfTGpKVjBSWVpqOTFjXzB5cV9TR3o0bjhiaDc5NERUYUVwOFczUDBod1BIQU90ZWNwN0lQUEoxMUZucjNvZUpVOFFaajRVSVZwS0xNaTY2V0NOWUlrb2RuSVZtV1ZaYU04NkJONWtxUGVJWXk2MkxOOEd4LTRuSjZma1V3bERDdFR0WmVaM1AxOWtCZVd2bEM1NWpLRy1JVEhVWkdQbXVHSVJFNUtMcklfWEhIaDV5a09yamgxTjdKYQ?oc=5"
     }
   ],
   "insight": "Tracking Broadridge Financial Solutions (BR)."

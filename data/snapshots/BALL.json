@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-05T04:43:17.469Z",
-  "builtDateUTC": "2026-08-05",
+  "builtAt": "2026-08-06T04:43:41.986Z",
+  "builtDateUTC": "2026-08-06",
   "source": "yahoo-finance",
   "1m": [
-    62.95000076293945,
     62.65999984741211,
     60.290000915527344,
     61,
@@ -24,10 +23,10 @@
     65.30999755859375,
     64.9000015258789,
     65.1500015258789,
-    63.75
+    63.75,
+    63.4900016784668
   ],
   "6m": [
-    57.209999084472656,
     57.0099983215332,
     56.2599983215332,
     56.56999969482422,
@@ -158,10 +157,10 @@
     65.30999755859375,
     64.9000015258789,
     65.1500015258789,
-    63.75
+    63.75,
+    63.4900016784668
   ],
   "1y": [
-    54.29999923706055,
     52.54999923706055,
     54.040000915527344,
     54.060001373291016,
@@ -411,12 +410,19 @@
     65.30999755859375,
     64.9000015258789,
     65.1500015258789,
-    63.75
+    63.75,
+    63.4900016784668
   ],
-  "lastClose": 63.75,
-  "oneYearReturn": 17.40331656669654,
+  "lastClose": 63.4900016784668,
+  "oneYearReturn": 20.818273264009648,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Ball Corporation (BALL) Stock Is Down Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWVQZ0dvaTFCOG1SQ1RJMTd4eUc3TUx6T3RXdklTOTZ0aHpvYnRwVVNUT2dlMTlnUlc3aXBJWUhETlc5SHRLZm9BdDl0Y0ZVZnZISmNiUmFFYVdNbGlXdWtTZGFHWllXR215QWV3WkZCN2FERnJLWWpWUUZ2SW1DRVl0TEx2dWx1QzRocw?oc=5"
+    },
     {
       "headline": "Ball Corporation Beats Second-Quarter Expectations as Packaging Volumes Increase - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRjFKUko4dnpQRWRGWVZid0Y1Y3dIVjdCU3JYaHVQeExCWkppaWd0eF9Ral83TzdiLWNnMEVjZlFod09QaEpDODZRdGZ6b040TzZjS3BhNW1FMmRtOFpUcWNNd3pNOHNSZ3R3dnVQa2xCT3hzNjBkSjBhVGVzbk5VaFR0VjZoRmh6SnRqWnRzcGNVUVRyazJqaG02V19hVVc3LUtGZA?oc=5"
     },
     {
-      "headline": "17,648 Shares in Ball Corporation $BALL Purchased by Redwood Investment Management LLC - MarketBeat",
+      "headline": "Sei Investments Co. Acquires 29,843 Shares of Ball Corporation $BALL - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYVhReUR2WU9VbTJKMGZXSG5RVDFUU0xRM0RMMlh1dlVaamE4MVEwRWg1MERYZUZ6Q0xCWGlNY2NrNGNTMVNXOGhBdUlrRm9Zc1pQMDVsNHVoOFZndVBSaFd0dHVULWU1X2NYWk9DTzVDZE0tTVo0WE9qRk4zVzRNeXZGdUFxVWNfcmxXWHhkU3prSGZ1VUNjZnVLXzAxS2RQQXBvUGFCMWtCS1N0aUNUbzQ1UmVLbVZXYUZhUTY0U19Hemt6WGJCd3ZrbUJrWUxNTjF3V2Z2SktoaDdVcUE?oc=5"
-    },
-    {
-      "headline": "Earnings Flash (BALL) Ball Corporation Posts Q2 Adjusted EPS $1.03 per Share, vs. FactSet Est of $0.99 - marketscreener.com",
-      "source": "marketscreener.com",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc2tUQWJfTUx4dFlvcW9GcFRma3NxOXczTW5vX1FLUGFERUhWWEUtcXk2SW43U19rUkEtOVZYcndXUDYwLVZQeTdwb3V4eUU3RnY0ZzJkTVhGR0p2WjFmc2ZZUXA1MFFhdmVRZmRCQTJScEJ5RFlEQkROTHRnXzJVTU5XMmRPVmlNUWZPVlBvd3FEWUJvdjI2Qk9TX2FWSmNJWkdCQXVaX2p0eWRER25LSFNjSkQtd1FVdDk3bnROT2FlYkFnamxrT0JtMzBsVjBIY2wtUl9MWG5GektYbGQw?oc=5"
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZVBsTGstcWttOEk2YnZEdUVCak1FcGlqOFRuQUZKNEFXZlhHTWdaNmNPMWFDMFRuQzhLM3YtZEtxMkwtSEhLenFLeWJzT0dYSUMyUzZZSW5rbVFkcWpFQk9VSlJ2UFJVLUhiZFVLTi1ZODRWMUktVEQ3ejZRU2tIRDh0TEtLTkJMbjAzUzFtanNNSEN1Q2hQdE8yZTcxYVU5ZG9KVUpjMk4zUVR6NG0yOFRlZkxkLWtXY0cyRjVCajJTTzRT?oc=5"
     }
   ],
   "insight": "Tracking Ball Corporation (BALL)."
