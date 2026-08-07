@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-06T04:43:43.231Z",
-  "builtDateUTC": "2026-08-06",
+  "builtAt": "2026-08-07T04:10:55.513Z",
+  "builtDateUTC": "2026-08-07",
   "source": "yahoo-finance",
   "1m": [
-    148.60000610351562,
     147.07000732421875,
     147.32000732421875,
     147.47000122070312,
@@ -24,10 +23,10 @@
     153.9499969482422,
     157.33999633789062,
     168.41000366210938,
-    163.41000366210938
+    163.41000366210938,
+    164.75
   ],
   "6m": [
-    206.4199981689453,
     204.88999938964844,
     195.9600067138672,
     197.11000061035156,
@@ -158,10 +157,10 @@
     153.9499969482422,
     157.33999633789062,
     168.41000366210938,
-    163.41000366210938
+    163.41000366210938,
+    164.75
   ],
   "1y": [
-    266.8900146484375,
     266.4800109863281,
     265.94000244140625,
     263.4700012207031,
@@ -411,29 +410,30 @@
     153.9499969482422,
     157.33999633789062,
     168.41000366210938,
-    163.41000366210938
+    163.41000366210938,
+    164.75
   ],
-  "lastClose": 163.41000366210938,
-  "oneYearReturn": -38.772529996162575,
+  "lastClose": 164.75,
+  "oneYearReturn": -38.17547537985783,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Broadridge Financial Solutions Stock Is Soaring Today - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Why Broadridge Financial Solutions Stock Is Soaring Today - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "when": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0JlVUJwd0hFMkJydTJFdGZCZzVPWWluV3FhdzFnaUVlbW4wcTFFam1ZaHhCUEVmNkpjcTV2ZGZHUE1TUTlaQ0kwOFFnOFkydXdSR2Itc0dLcHFOOWlVcy1wU0s5eGRPYjlDTDNMN2NCUHpJdWE3TUVGeE9zS0JmTG9RZ29Wc1k5ZmhKZklGOTBOMll0Mnh4Z3RfQ2FjblhKVnZNR0NRWV8?oc=5"
-    },
-    {
-      "headline": "Broadridge Financial Solutions Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTkJ5ZF9ubnJsRmJCOExUTjJYYzlna2cycGwzR25OSjhwd1I0WHVtNHhCNzdvbzJKSXR0V0poMDB6bkliNkRqaGRoaXktUVE3Sm9MMDh1bmVKZTNGZlkydkc2YUlFS2tZRDY3YUs2RFhwT2NPRDhrUWJ2dzFudzRrLUFnWUJjclBwcXVzVU5raUZ3TWhHeXVrdnBTOTc0elFGZVc3dXpNVEJoMWp2c0xITGpMSmRQN2NBWl9CNUZqR0VWWjBZTFdqN0E0TVhFaVlLTE9WSC1IYm5acjV1dHNsVlNzVTF5SXRaRWtNZ0FNaU1wcS11cEZNbS1QLVk?oc=5"
     },
     {
       "headline": "Why Broadridge Financial Solutions Stock Is Soaring Today - The Motley Fool",
       "source": "The Motley Fool",
       "when": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVhzd2lpS0dUZVVSUm9jMWYtT2RiU2lUcHZnVFh1NFIxZ1lqSnQ2Q0lKQU51a0hEY1VyUnRlbFRiMFp5SjNodjh6b1hDTnJLcEtJTDgxRE5fWHFXbk1xX2JYdm5Jekx6c24wYkt6a3V3dW81WlFkZnd6ZjRfeHBZREJRRFRZbnliaXpqazVuU2VSZ1V1MGF4dw?oc=5"
+    },
+    {
+      "headline": "Broadridge Financial Solutions (BR) Opens Proxy Voting To Tokenized Equity Holders - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLXdVLUs5a3l3bkdyY3k3M1Z6OEZQVjE3VVBYaklkOTk0cmhfb0l2cmp5emExNE5lcTE4VXR2M0o3YmFPNFdLLURWUENGMFN3VkxIX2EtbEZtYjkzWlpxY01oTG9zZEFlaS0wMmtDUzZNdXBtakVqOEVuMU42TkxVaHJYMVQtd3A0bnpDQUNFSEFBdXBZQ1FyQW9NNDJGYW1kVWQyUWZlUExMZmFwS0M1WXBCWkRpNG1KQkRPZzRZZnI1ZWc1aHB0dU8tUzhMRVV4a2lLdjJwaE9PcEkwamF1V0FRdzNjZzMwenNnetIB8gFBVV95cUxQOUU5ZFlOV3AzNVFyelYybWN0YjB1cTZwSTJGODZNV2tnazBncUh1OVBxRFNYUmN0b0VSUTFUUUREZGZaSjJ4V2Fsb2dBQkt1VmZING5yZEtpZS1CV2ZBT3l0ZUFlRnYxUW9JYzJEdEJmdVpldERNOHVXRkNIMWdnc2hTLXhzSDZqYWRlQl9lQUh5am83MENPQTJRUTU3b1UxcXNGZFo0ZHBlM3ZnNFk4Sk1valA1RkdSXzh0aVY2WkFVTE1FaGZtR2lNclpfelRmVHpWYVpYdUM0a1hVMU9wYS1oQzFVVGtFQ3pUOWR6QnBwQQ?oc=5"
     }
   ],
   "insight": "Tracking Broadridge Financial Solutions (BR)."

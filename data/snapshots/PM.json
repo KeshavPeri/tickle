@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-06T04:44:10.382Z",
-  "builtDateUTC": "2026-08-06",
+  "builtAt": "2026-08-07T04:11:21.702Z",
+  "builtDateUTC": "2026-08-07",
   "source": "yahoo-finance",
   "1m": [
-    187.7899932861328,
     187.07000732421875,
     181.1699981689453,
     181.6199951171875,
@@ -24,10 +23,10 @@
     190.82000732421875,
     187.41000366210938,
     186.91000366210938,
-    188.92999267578125
+    188.92999267578125,
+    188.0500030517578
   ],
   "6m": [
-    178.8800048828125,
     178.58999633789062,
     177.88999938964844,
     179.44000244140625,
@@ -158,10 +157,10 @@
     190.82000732421875,
     187.41000366210938,
     186.91000366210938,
-    188.92999267578125
+    188.92999267578125,
+    188.0500030517578
   ],
   "1y": [
-    166.99000549316406,
     168.1699981689453,
     170.17999267578125,
     170.32000732421875,
@@ -411,12 +410,19 @@
     190.82000732421875,
     187.41000366210938,
     186.91000366210938,
-    188.92999267578125
+    188.92999267578125,
+    188.0500030517578
   ],
-  "lastClose": 188.92999267578125,
-  "oneYearReturn": 13.138503180368676,
+  "lastClose": 188.0500030517578,
+  "oneYearReturn": 11.8213742637024,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Philip Morris International (PM) Faces Brazil Lawsuit Pressure, Is The Upside Already Priced In? - finance.yahoo.com",
+      "source": "finance.yahoo.com",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGRJOW8tMF9sZnBycUVDb0cwb0twQUxFa2FMTmU2UnMxUmZmU2prNFRfSHZmc3k1NDhBMTN6X2tnNXQ0VkFWU1c3MDZ2UTVYby1XR2FpWU0xT21DV3l3RlNhMWstcjQwcWUyX2FvSFBrMjZWZUpyRlkxbFdoWUZuRUNnMy1fV0dXS0hRRFNQazhQNmY0TGRUSFZGbG5zOXQ5ekxz?oc=5"
+    },
     {
       "headline": "Philip Morris International Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZzdqOHBWVTc2NExNNmdudktvMWFicVlidDNvaEUzak5yY3NIOVVIYTRiTmw2YTdlbHNLZ0luR0EyaGdRNXQ0NFB5ejFSOXdFbGxyLVZXM050SlJ1TWlUQ2Q0N1UwUk9hWkdBanJVeTdZQllqb2M1SmFrTTA2NDAzOEgzVWk3Vk56ODBKS1ZVX2NpR2FRUVpFUzkySmh5bzZlQ2JkUUtPeXd1aFc0a090ODNMYVJreTlNQ0pNTEhERlBpX1BMaUF6WWVwOHJUNkN3elRISkZpX3lMMDEwMjFySEtkQVhkZXV2UHo1bmdMR2JKN0k?oc=5"
     },
     {
-      "headline": "Philip Morris International (PM) Faces Brazil Lawsuit Pressure, Is The Upside Already Priced In? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGRJOW8tMF9sZnBycUVDb0cwb0twQUxFa2FMTmU2UnMxUmZmU2prNFRfSHZmc3k1NDhBMTN6X2tnNXQ0VkFWU1c3MDZ2UTVYby1XR2FpWU0xT21DV3l3RlNhMWstcjQwcWUyX2FvSFBrMjZWZUpyRlkxbFdoWUZuRUNnMy1fV0dXS0hRRFNQazhQNmY0TGRUSFZGbG5zOXQ5ekxz?oc=5"
-    },
-    {
-      "headline": "What Are Wall Street Analysts' Target Price for Philip Morris International Stock? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZHZNSExPdUZEdXBZTkYyRG0yWHY1VVZFZXc5RExxSWdHS1BrSlJxMW4xX2NDNjgxN1NVa3FnLURKMm9EbE9vSktNNi14MzJPTDg0cy1DeWR3RXpFVjZFNDcyLXNQT21KV25xdUhqTGhTUlluTUZfYW5VMUlUaGRod3laYi1SdDBqOTZrbTh2UHBENUFxdWZ3bENhcU5UT0xySmg4aFdKYXdtZHZVZEdTZ1RiUUFFcjhpZmpDQlpqc3RKUQ?oc=5"
+      "headline": "Philip Morris International Inc. $PM Shares Sold by Hamlin Capital Management LLC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTDYya3FLV1VTclZKdV9IZ1U3N3VTOE50S19YOGVyNVBKX0o4QVpUWXU3WnNaV1FKeW9EQk1tbWRQLTJUdXlQX1ZDTDJPLTFTVUI5RE1HakxTTWYtcGVuSEhEc0hkaUZVcG1tWEgwOTVZVlhVemxHN0JmZ0UxeWpDWXlXdkZucmMwRXlyRExEanJpeW5zTlJKbUw1TE1MaHRSeGEtV09IbnZnUUhPMFl1SFZYRVJOZ1p5SWF2WTlacVN0aDZjbHVKdF9DcXdRUExRWTVYeTJJQQ?oc=5"
     }
   ],
   "insight": "Tracking Philip Morris International (PM)."

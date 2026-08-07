@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-06T04:44:13.475Z",
-  "builtDateUTC": "2026-08-06",
+  "builtAt": "2026-08-07T04:11:24.793Z",
+  "builtDateUTC": "2026-08-07",
   "source": "yahoo-finance",
   "1m": [
-    75.5199966430664,
     68.26000213623047,
     71.56999969482422,
     72.44000244140625,
@@ -24,10 +23,10 @@
     75.79000091552734,
     77.83999633789062,
     79.08000183105469,
-    79.25
+    79.25,
+    78.66999816894531
   ],
   "6m": [
-    73,
     73.41999816894531,
     73.37000274658203,
     72.62999725341797,
@@ -158,10 +157,10 @@
     75.79000091552734,
     77.83999633789062,
     79.08000183105469,
-    79.25
+    79.25,
+    78.66999816894531
   ],
   "1y": [
-    69.44999694824219,
     68.44999694824219,
     69.43000030517578,
     69.5999984741211,
@@ -411,12 +410,19 @@
     75.79000091552734,
     77.83999633789062,
     79.08000183105469,
-    79.25
+    79.25,
+    78.66999816894531
   ],
-  "lastClose": 79.25,
-  "oneYearReturn": 14.110876144546546,
+  "lastClose": 78.66999816894531,
+  "oneYearReturn": 14.93060873097026,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Synchrony Financial (SYF) Stock Looks Discounted on Earnings as 145% Return Tests Value - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdG5LeUl3UjhqUm13VnRmenRMbUtPbEhrQzNyV3dxTXJMRkZzc3hXdU15WDRuSFB1b3QxaDZnNlFvUUNNNXM2RHRXZVNFVmN6WUQ4TWxwT3lmN1IxOW5FSzNSYTY2bDhNNmwxcUFOVDBzV1J0UUJKYWg5eWZ4QXVmSnVEUndxdk9Ha2RFcnVBN0Q5bXhpTThVMWc4aHhRYy1ZWlI4VGJjbjdSNjlDNm9FSHJpQkcyWERiTElFSC1DNnBaSWFyUG5mWUQ2N1B3RUE1RFhRT1ZYZVVMS2g5TFY5bW5zY0oxN1o10gHoAUFVX3lxTFB0bkt5SXdSOGpSbXdWdGZ6dExtS09sSGtDM3JXd3FNckxGRnNzeFd1TXlYNG5IUHVvdDFoNmc2UW9RQ001czZEdFdlU0VWY3pZRDhNbHBPeWY3UjE5bkVLM1JhNjZsOE02bDFxQU5UMHNXUnRRQkphaDl5ZnhBdWZKdURSd3F2T0drZEVydUE3RDlteGlNOFUxZzhoeFFjLVlaUjhUYmNuN1I2OUM2b0VIcmlCRzJYRGJMSUVILUM2cFpJYXJQbmZZRDY3UHdFQTVEWFFPVlhlVUxLaDlMVjltbnNjSjE3WjU?oc=5"
+    },
     {
       "headline": "Synchrony Financial stock rises Tuesday, still underperforms market - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSGo5eGlvLXZCMFlsdlRyalpTSTF0WGp0cThlVmtBTW9aRjdIYVhmYTJQTGdISUl4YlV2c0xNbF9xSEluWG9UWWdYcGFlbHhhX0Myc0VTbDliY24tTDZ0MHk4NDhISXhYSzkwVW1UdlY0RUZPVHY4MjJJYXZXN1hKVGNRNjR3QlVMRDJNNlhFQUFXN3VsQVZLN2tiM05zV0VrVnBvTVFKRG5nSVVySV9GZnliWVdsdWdkWk9takdqVFJEUHZH?oc=5"
     },
     {
-      "headline": "Synchrony Financial (SYF) Could Be 13% Undervalued As Guidance And Note Sales Land - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON3NSV0ZqZkJlcmZUenlrVDE2ZlMyTnRvbExqZW9ZNzlfb05QS3ZwWlhoUFlzck1IQ25NYndndGNndjFuQU8ta1Q1Mm5XZExIOU1IRkdvT2dsa2JQTWJRYnNGWnE2U1lsbnVhM1ZMUS1MU0Fnelo0YlZuV0pVTFI0bHJQUVBoOVJabXpWZnZJRGJ0YnFLNkZFcHRyNlZHdlo1UGN1cWl6czViYlhQaFNYY1V5bWpGLXhfZTlmeG42SnRkYmJrazJNRVBuNVZEcE1abVZnVTJac0VPM3pIM3ZJMk5n0gHnAUFVX3lxTFBIY3FJSmlKcnpnR2Z0Mzd2SU5kekFWeHE3SnhBMTdtdzMyOFJnRDRySTFPQlFJQjdHM05sdEtKdGUybDRQWF9yNGw1N1Q1MXVmY1NXeXZlaTNzWGVGZGtuWnZUZXJNbzRDMnNHLXlDa0hLSnc4Qk5oWnUxbkNvSXZxaEdlS1o2TjRsdXlBa3BzeEN3TzhGaEhhckhHOHVjOUhWNHVqV3psZU84ZmkxLUFhOC1WSDJoeEVZSHkxVW4zbnhhZmlUSVJVSzAyekdUM2FIMFFtUkFWTzBkbHRSR21GRFBaWFJ4SQ?oc=5"
-    },
-    {
-      "headline": "Synchrony Financial (NYSE: SYF) officer sells 610 shares in 10b5-1 trade - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlo2Z1d0M3B6RlpDWVNEdEFleUVvSUFLbV9BTVIyRFUwZ1dGY3NydEh5T09QVUVtR1dQdmJzYy1RekR6ZW1Od09HcXpUSXd5VkRRS3dTdFplRzN2cFhEM0Z6dFFMeTFBbGpxdk9oRW1qbGdMQ3ZLY2JBUmtiWDIwYUpSaWtHaDVoZjNPQjN0OGRRWGtsYUJOWklyQWtCakgybnF2VEQ4YUxOMXZOU2hqbTRR?oc=5"
+      "headline": "Price to earnings forward of Synchrony Financial Depositary Shares, each Representing a 1/40th Interest in a Share of 5.625% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A – BOATS:SYF/PA - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnJ6U25sRG9LeWxURnlFYy11YzlSYkEyazZmM2FhbWVEakhyRkRJcmR3Q3pLTHZpSHk3bkhlazBUMEFKUkViaExMR0h6YVdmTmN3akoxb25OYkRueDA5dThWSURBOVFMUTZvMzl1dU43Z0ZYd3lWZU5EOHotQUh5WldxSlV0QTRWVWdPc1FZZmEweWk0X3hvQ3IybjM0SDNWT244?oc=5"
     }
   ],
   "insight": "Tracking Synchrony Financial (SYF)."

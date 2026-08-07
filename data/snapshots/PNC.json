@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-06T04:44:10.373Z",
-  "builtDateUTC": "2026-08-06",
+  "builtAt": "2026-08-07T04:11:21.976Z",
+  "builtDateUTC": "2026-08-07",
   "source": "yahoo-finance",
   "1m": [
-    254.00999450683594,
     246.52999877929688,
     250.91000366210938,
     251.91000366210938,
@@ -24,10 +23,10 @@
     249.8699951171875,
     251.72000122070312,
     254.13999938964844,
-    255.3699951171875
+    255.3699951171875,
+    252.75999450683594
   ],
   "6m": [
-    223.6999969482422,
     221.38999938964844,
     224.4600067138672,
     223.3000030517578,
@@ -158,10 +157,10 @@
     249.8699951171875,
     251.72000122070312,
     254.13999938964844,
-    255.3699951171875
+    255.3699951171875,
+    252.75999450683594
   ],
   "1y": [
-    188.55999755859375,
     187.1199951171875,
     189.74000549316406,
     188.52999877929688,
@@ -411,29 +410,30 @@
     249.8699951171875,
     251.72000122070312,
     254.13999938964844,
-    255.3699951171875
+    255.3699951171875,
+    252.75999450683594
   ],
-  "lastClose": 255.3699951171875,
-  "oneYearReturn": 35.43169199386153,
+  "lastClose": 252.75999450683594,
+  "oneYearReturn": 35.079094218947645,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "PNC Financial Services Group (PNC) Stock May Trade At A Discount To Fair Value - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "PNC Financial Services Group (PNC) Stock May Trade At A Discount To Fair Value - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "when": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2drMkVpOWx5ZmdUQktleW94SEpDSXRxV085bC1EVW1PbWVqMUtRT1NRcWt5c28yYWx3Wk9CVVZ6Vy0wNVZqOWF2TEllMWg2ZXRmVHdhYTNzMXltekc4dzNnNzZxem5zZTlSQ3ljREtqUzdxY0h3UTVtczRsT2pDLU1acWFaYlJkdVpKVGZkX2Q0ZDJ3UndDaTlRT055UQ?oc=5"
     },
     {
-      "headline": "PNC Prepping for Its Best Year—Is Anyone Noticing? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObFFFd29vLUp1TmFlQjI5QUNkdE9KQXZ2WXVMTnVKUlBpNDludHJuSTFXTDc0UjJOT3JHVUxMeHVzTWJSY1BqbGxjV1hUSEFqRVRhR1hQR3JrWklrZjctV2RJR3dZU3pOZjdxYmRyTVhYTXZ6cnVISlhxMXk5SkhZbWxzdzl6SzA0NzBlSnVScEV0V295RzA3Uw?oc=5"
+      "headline": "PNC Financial Services Group Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSUw5VkROYUFJNV91ejJROEFDV0NkR0g4TTRudVhndUdXWFJaOEQ1UkVyUUZGZHhTSEttbElmeHZRdlBYTWF0Nm5zTEV1RXNTQzUzSXFrWDkyaUc1aHZBZVpBRUFuUUp0MjJiYUdPV3JDbWRJbGZ3cVVWdlVjY1dTU2NiNldTbXpMdlBIVDUydU9iTVVKZlRpeHMtSFBicHhvd0xVdmxqWG9BVTNtWVVadTZnRkZ2OG5QSktYdkp2YW41T0tTcTYxMFpsWUVGcHNXZkpLVWV4TmtSUjJWVVZPbUJLV1k?oc=5"
     },
     {
-      "headline": "Is PNC’s US$2 Billion Branch and Cybersecurity Push Reframing the Investment Case for PNC (PNC)? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbU5kdnNMbk1yOWY4T0pBVk94UjdheWhQZlA2YnlGSnctU2NTZDlYYXZTVkt3R3lxY0pSeFhCd2NxMXlpX01RV1lHZjhGRjlfSEg2aVA2SklGTVBKbjlCYjVmbVZLbzNJRkEzR0Y4SDRwN3JHU2w1VVBHdkdEbGFVQUlVWXJ6MTkyXzZvRklCS1dKQUhwYXk1V3pkamhnNFNiZnpRUWQ1QnZtTFJXWjNTZElsdTd2QWVBRTJFSVhITUpMdUVsR0dEQkJkUXZMUThqQ25DeGNiSdIB3AFBVV95cUxQOG5IX2FqSnhoLTRUR3ZLS05HUXZhdWxkaVJqUGMwaEZNWXdWUDNYZk4zSGtnWERnZnB5XzdmWkxkOUZvdUU0VFFaYWViWHduelFtbktpdnFPT2E5MVJkMnJ6MWxvcG5WSG9BYlJzZkZEUDFBdzBibS13NnNZeGJ3V1lJYlBJem0zUC1IM3lpbWJzalpUZGxieHVvZkVxYTZnWkEyeWdhaElhekwyZDQyRHEwWEdpbXYwcXdiNHZ0ZmdONnloLXIycmZiS0thMnZEUEdxOVBibkNxMVA1?oc=5"
+      "headline": "Pnc stock hits all-time high at 256.65 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1I5SXNCYWFjR3Q5MHhkbi1JaXdQd3FMVF9JS2YxS21DX2pPNFZ4enExZWlabWRpRGo3aGtRb1B6ZzRCSzhhMncyOEFSMFVqRmdlWXpHMHcydTc2NHkxaFU0UWJweVAxZnhQQVdNZzB0clpQNlk5RlR0SFczZU9oMUZPRmU4X3JhVGJWWTBQRjNoU2lvT2w1c1RaZjNIdw?oc=5"
     }
   ],
   "insight": "Tracking PNC Financial Services (PNC)."

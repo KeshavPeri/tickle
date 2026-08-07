@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-06T04:44:04.295Z",
-  "builtDateUTC": "2026-08-06",
+  "builtAt": "2026-08-07T04:11:15.896Z",
+  "builtDateUTC": "2026-08-07",
   "source": "yahoo-finance",
   "1m": [
-    58.540000915527344,
     59.31999969482422,
     59.86000061035156,
     60.540000915527344,
@@ -24,10 +23,10 @@
     57.7400016784668,
     58.220001220703125,
     57.790000915527344,
-    56.68000030517578
+    56.68000030517578,
+    57.31999969482422
   ],
   "6m": [
-    62.11000061035156,
     61.81999969482422,
     61.75,
     62.849998474121094,
@@ -158,10 +157,10 @@
     57.7400016784668,
     58.220001220703125,
     57.790000915527344,
-    56.68000030517578
+    56.68000030517578,
+    57.31999969482422
   ],
   "1y": [
-    73.7300033569336,
     73.76000213623047,
     74.23999786376953,
     74.3499984741211,
@@ -411,29 +410,30 @@
     57.7400016784668,
     58.220001220703125,
     57.790000915527344,
-    56.68000030517578
+    56.68000030517578,
+    57.31999969482422
   ],
-  "lastClose": 56.68000030517578,
-  "oneYearReturn": -23.124918317468683,
+  "lastClose": 57.31999969482422,
+  "oneYearReturn": -22.288505918210948,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Kroger Co. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "headline": "Kroger Co. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRzRRUEhNMzVpYUlXZk91cXUwZzQ3Y1lKS3czUVItSmtHdEtiaHd5ZktrbGJ0Zk5XU093ZmRCRHgzeE5vbGpHc3NZUkFYZFRMSTFqNU9ybjN3SzdHSG9MdlhGVURWSlA3WXlraHAtVm1VOHBKRkd4VHZsTjRjTnFmTEhIMXBlTThDWjZrOHFscVU2dUtTLU10TGtPQmk2OFlnWE9Nd3ZYU3E0cEVpTDR3U1RocG1jUFdTWW5BY3VEekoydnhBX2d2NjBYVUs3MEJzYkFuQkFDeGc4ZG91bDNz?oc=5"
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVlJ5MHR5R25WNGN2VF9hWGhoLUNhMmtwNUdfOTlUOUlsRGNiY1UtbGtOMVJYS2FmLXFCNmpUbmMzMVd2S2lURU1Rc05RS2xYVTRYeDY0bWk3Nnp3SU1sWDlHenBLcEdzVW5jbnFUV1JvcTFyWlBpR29zb195Uzk5TlNPd2dQdmctZ2NYeG4ySjdXeWJpbTZ2bGlMMkFsTGk2Y0I0MUZZMzVtSzJtdzgyT0pWSWM0bS1BR3dXT2E2eDZLM2U2QzA0cVhmM2RTbGhBTWVhNmFn?oc=5"
     },
     {
-      "headline": "Kroger Stock: Analyst Estimates & Ratings - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Kroger Stock: Analyst Estimates & Ratings - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "when": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFRjMmJKRXlKQi1ZV0xIZDAxQVU1YmNPTzktcXYtM3E3ZzBmMEFMdFQzUlItQm9NaERudGcyWXZCaU5SU2ZybTQ5bFMxbzVoMDJsalc2SDlIMVZSTTVibXdia0g4NlgxREJqLV9wUUlibzYyQVZOWlpMaUFzbXMtTnNxUWIzb1Z0T091UFYzT09GQ1JLLS14UzBKRFZmbnlsZ1JYLWRR?oc=5"
     },
     {
-      "headline": "Kroger Stock Leads Consumer Retail Picks As Fed Inflation Cools - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdmdKNEEycVc5SVZIQkRaRFZvTHZSblRURnowUzVxSEV3WUpYaHdBUDBWM1ZEWXE4WVVLbkhWQnppd3FnWGlEVkFYcmk4MFoxX2VTaVZ1S0hyT0EwYmJ6VGJ3czYxV0FHWUF1ZE13WUZfdXl0YXFXSHh2OC02dTVhQ2ZhZmZldzJSQ3FfSVNra2s3NWNOcU1ZQnFlbDZ6RmhteHYtZW1QRW5KcjdBeUxqMnRPSk8wWHRYclc1eFN3ZVlsZVVtZ2JtSlFLSdIB0AFBVV95cUxOOGdOd3ZwakRQYUt4ZV9qNVpVN3p3TW0xaHJ6YVZheGNvSmJqMG1rZmJOTTIxbzl4VGRld2xlbU9YbFFrVlJPNWM0dmpuQ0dQaXJ5WE9GWnlJXzNEaTZ6c1JyOEZMT0FIWFd4aV9jYXcwWFVqRTU4OG9yUVBXOTZRV0lZMXltSzVyV0xubm1yMGc5NS0tall2X1RLS2JxZXEwTkkzR0x2UmFmN3B4TjlBRXYzbzF6WEx3aGs0ZDNBTmJnUmJmS0s5REVtNVdaeElY?oc=5"
+      "headline": "More than 3 million bottles of eye drops sold at CVS, Kroger, more voluntarily recalled - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkdDalJPZ0Q4b0dNMnhZbmZCS21UNnR5bzhjWUFDbFVpRGdQNEJaTXoxaE9ENUg2UFk4dGV0Y2R6cGZYVTBwUjF3eXUtU004Yy1EOTdMZFBTNnVfck40UzM5SzVBVldPZmZGUXEtZEotUG1kN1I1R0tyTE5ZU1c2Z2MydENHMFRoV2RXazNTaVpNTU5ZRjRvUXo0NNIBoAFBVV95cUxPcW9nRURveWM4WEVjWEk5Q29IbWZSSHBvSnZsc2ZMSWlLbUJocDNBRjd5d001cEdHdXhKZGh0Y05CejJIS2hjaDFiYjNXMWxMazF4R0wtdFdZOEN6SW1aSXI3MHphZ0dDWDZyRGxWMFFkQy1uVzZhT0NHelNpbk50Nk4wSGFPVk1vbjZ0b2VrSV9TajVjWXBhVGk4czFkX0Jr?oc=5"
     }
   ],
   "insight": "Tracking Kroger (KR)."

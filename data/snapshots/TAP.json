@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-06T04:44:13.684Z",
-  "builtDateUTC": "2026-08-06",
+  "builtAt": "2026-08-07T04:11:25.111Z",
+  "builtDateUTC": "2026-08-07",
   "source": "yahoo-finance",
   "1m": [
-    39.27000045776367,
     38.790000915527344,
     38.7400016784668,
     39.16999816894531,
@@ -24,10 +23,10 @@
     41.560001373291016,
     41.91999816894531,
     42.290000915527344,
-    41.869998931884766
+    41.869998931884766,
+    42.40999984741211
   ],
   "6m": [
-    48.459999084472656,
     47.7400016784668,
     47.56999969482422,
     48.040000915527344,
@@ -158,10 +157,10 @@
     41.560001373291016,
     41.91999816894531,
     42.290000915527344,
-    41.869998931884766
+    41.869998931884766,
+    42.40999984741211
   ],
   "1y": [
-    50.209999084472656,
     49.5,
     50.689998626708984,
     50.310001373291016,
@@ -411,29 +410,30 @@
     41.560001373291016,
     41.91999816894531,
     42.290000915527344,
-    41.869998931884766
+    41.869998931884766,
+    42.40999984741211
   ],
-  "lastClose": 41.869998931884766,
-  "oneYearReturn": -16.61023761135064,
+  "lastClose": 42.40999984741211,
+  "oneYearReturn": -14.323232631490686,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Molson Coors' Q2 GAAP Pretax Income Drops 49% to $283.1M - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYlF4d3NJVm5tVHNieGhhSzIwLWlBN3hkNk50eDVWS3RFdDJ2YVlfS0I4RmJBMkJKY2JsR0FoVUx2dXhZT0tYWkJXSF9feTNBSHN6QzlHOS1qNHZfUWdKWGI0ZnhYQjVVaGU4bjB4TVMwRkkzMFp0ZjRYb0Nnc0FnNXp3c0VPS3hIcFEyaE5hMHk4QUZFY0E1a2M3X1RtTVBEWTV6UU5FRG9sYlR6d2RBSA?oc=5"
+    },
+    {
+      "headline": "Molson Coors beats second-quarter expectations and maintains full-year outlook - finance.yahoo.com",
+      "source": "finance.yahoo.com",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOel9vSmJ1TmhfZE5hdFo4bDJSS3RNT29IXzk2NERsMTdha3pHLUhQaWg4R1FtSkpVb0trSjhrVDNIN3gyMFd2NHZoeGh2bk1haTZjYW42T2NwdkhZMXVlZUhHUVd1SzRuanRISDkwcjdUbHlYNmd6T2VGNkJWSkFfYU1FZFRpSV9odXpNWjQtLVlab0wyVFJIa0M5V3hubHM?oc=5"
+    },
     {
       "headline": "Molson Coors Beverage Company $TAP Stock Holdings Increased by Amundi - MarketBeat",
       "source": "MarketBeat",
       "when": "2026-08-05",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM3UtR1RyalhocmVERVVBclU5UlJVOFMyejM1NzF0czE2VGZzZWpBcWY5Ty1SSUhYN2thb29jbkFyNnRxeFhnT0IySWh2WlF0MVNLMzRIa3Z5dmVEcEVIQUJjdDN5ODVNQlZFdVRzMzFtWl9weTI3cFpONHZudkVZQzdtV2pIekZiRnY2Qm5qUHhsMk9NZFoxTW5qbU5YaV9yWDkzb3ZwQUpqTUx3NUY4bDNTSmlrX0RCNDg0djlFbkE1MGV5RHp1MA?oc=5"
-    },
-    {
-      "headline": "Molson Coors Beverage Company Announces Regular Quarterly Dividend - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWxtNllvYW5uZGxseHUwNEpsT3U3TVBKV3J6Qmt6RG9Hcnh6Njk2NWtmQjhYejUyVVhTU0VxbW1PLWx4N2RBdkVEQkJJUjBxaFQtT013bDF4bkhDQ3haN0NEMkJTTXFROUZma2pER2JvTm5mQkxfQi1nS0lYRDhneFN5eXJNcW95MTlvVjY4bEJrOFRldHB5NG5UMWlGZzlIMFF5WDk5aw?oc=5"
-    },
-    {
-      "headline": "California State Teachers Retirement System Raises Holdings in Molson Coors Beverage Company $TAP - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaU84Um9CV0Q1U0YyNHVvWUhXUGF2UFE2NmxsR0VDaHhlUHEtRW81OE9ocVZwTkRQUjZXdHF6SkRnRndMQ1JDZ2szVWhuRUlIN2ZQYWZpTkhuRjcxaXU3VDBHdU04RHFSUHFMN0NjQUhYbGE5anMwS1hJSDhhTEptWWxjNmFMOFMzWEd6T0toOWtiallKMEgwQVlUSHk3aWdBZE8xQkJDci1XQWZzMWgtb2h2bWROSUd2TmRVZExZalJNanhjSjNXaFQ4X0hmMWNRWWt0eE03a2dnWG1hRzFubmV2b3h4MUxFVGp1VWt3?oc=5"
     }
   ],
   "insight": "Tracking Molson Coors Beverage Company (TAP)."

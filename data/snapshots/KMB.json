@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-06T04:44:04.106Z",
-  "builtDateUTC": "2026-08-06",
+  "builtAt": "2026-08-07T04:11:15.884Z",
+  "builtDateUTC": "2026-08-07",
   "source": "yahoo-finance",
   "1m": [
-    114.73999786376953,
     110.9800033569336,
     109.93000030517578,
     112.41000366210938,
@@ -24,10 +23,10 @@
     109.30999755859375,
     107.55999755859375,
     111.56999969482422,
-    112.37000274658203
+    112.37000274658203,
+    108.66000366210938
   ],
   "6m": [
-    100.63999938964844,
     99.54000091552734,
     98.66000366210938,
     99.98999786376953,
@@ -158,10 +157,10 @@
     109.30999755859375,
     107.55999755859375,
     111.56999969482422,
-    112.37000274658203
+    112.37000274658203,
+    108.66000366210938
   ],
   "1y": [
-    136.67999267578125,
     136.77000427246094,
     136.16000366210938,
     134.14999389648438,
@@ -411,29 +410,30 @@
     109.30999755859375,
     107.55999755859375,
     111.56999969482422,
-    112.37000274658203
+    112.37000274658203,
+    108.66000366210938
   ],
-  "lastClose": 112.37000274658203,
-  "oneYearReturn": -17.78606323667647,
+  "lastClose": 108.66000366210938,
+  "oneYearReturn": -20.552752600894376,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Kimberly Clark (KMB) Stock Looks Below Fair Value As Shares Fell 16% - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Kimberly-Clark (KMB) Beat On Earnings, Is The Stock Still Cheap? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWmtnMmtWalNGdG1QdWxWRUtERUJNX1VYd2Vzbl9DOTNydzFCYU5TY2trM1lhZXZHU1g4czZJMWRySUswWDctMldaS1RWT0o5bkNWb0NSWFlCNUYzdjhNWGpYY0R5QXMta21GdHhSUHVlMlZNQXNoRlhjZkQxVTlZdGhkV1FBYTA3bGtfZlVkdVhFMGNMVWFOX1ZKc3Z2cUtkV21acXB4cG44U2tUaURTUVNMME9YU19YMEZWeDFTNGZ2ZTl2QjBXbGIwYkZBUdIB0wFBVV95cUxPTkJTemhhY3p3RFZIWFdwTUJuTDRoVlNfZVVmc0JaYTA3aVBmNjJyTVgyYTlFS0pwdGhicE94cEFjdUg0VU1QLTBBdjE4cUcyU0pyWnhpR3VsZl82ek1RX29ralEzWnpXV0tXU2l6RUNxcUVRdURrcDNtREJCVm91QWd4OEtKTDhacU4wb3RJclNlZUhEYmdqUzFadDg2OVp0Q3F6VXpPMm5aRVp5SmZ4bzloaG5uSVBURTlvNXhuMTJBbHdlakU5b1JFOC1BZWFSZ1NR?oc=5"
+    },
+    {
+      "headline": "Kimberly Clark (KMB) Stock Looks Below Fair Value As Shares Fell 16% - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "when": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOHVqdEFaM21RU25Pb3VIQXFFV2haY1N6LVNjUDJqWXNuS3JxSURBcDk5ck45bk5uXzQyLUJyMzJJOF92TVBwRjVsTEN2NkVUeW03YzNCWTFBTHZpZmNWUzF2UzlyaU9qWld1dHZqdHg2U2pxLVBmVm1VSDEtbFBpWGNqVTFPNEFBelQ4VGEyYlhneTFRejQwTndiZw?oc=5"
     },
     {
-      "headline": "Kimberly Clark (KMB) Stock Rebounds As Margin Pressure Clouds Value Case - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbTR2WEtORGpPaGZ1UmE5QzJfQVJkbGxMVTNId0MyMk5ydXIwa1VBVnhlbmc3OUdWRkwwVFJmbkZFYkpJUVppZEJWZl9aZnJySVNnR2NmbWVIbi1tWjVLeldNX3Y4UkNZTW4tMFhYN1hzT01uZ2ZEc3BobDFQT3NyMExpZHdLT3dqWkpDNkluMzFvMy1HVHVmYVpJV3BnQUh2YmlpTUc1bWJRN01iQ2lXTllJdEF2SXMwOEZXX3ZnQXIwLUlQNjR6M1VGZC3SAdIBQVVfeXFMT0JaMTJBdGRrWjlHTEJJSk1tbjVmaFdPejU2WENWWTluMWhPMUhhTld4ZTV6VlZ4cGhnaDhQNTBxNG5YR2htX0hRQzZKWUZkVE1YUUtyNUdMazBNZXJpM1dEMlNteHRURnhsU19OanVteGg1dEhIRXZxNmN6TkhNNm5xMWptNDhSZmFWQlFtWEk3V2k2eVdYLVlZRFdXSDZjeDlscFVuakN0MVNVbEs1UzhNNWZGREhJc182Y1lrTXd2LUQxc2ttZEsxeFFEVnlBZFBB?oc=5"
-    },
-    {
-      "headline": "Jim Cramer shares his take on Kimberly-Clark's next report - CNBC",
-      "source": "CNBC",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGh2ZjdZZHVaeEhYYktxdFIwUTVtbV9reFZtYlQ3UThGR29PcDRBSk92Z2JKMzZ3RV9IQ0tUVmlIdV9mLUVZSkY2VnkzV0hUeFZaaW1oLUlIZ3pzdWw1dHQxLUR5WG5VM0Q2bHd4N0RKdDJNZ0RjTnZSeG1Pdm9vQ1BaQ3dUaUk2WlI4R0M0WGkteFFqQ3RmOTdhMVgxR3RvekE?oc=5"
+      "headline": "Kenvue Posts Higher Profit, Sales as Turnaround Continues - WSJ",
+      "source": "WSJ",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSFozcjI2NG5CRlhQdndLaGRMa1J4bXdjcnhEdTZza1JrMWYxOVc5eWZTMEtCNVRFRGttNm52X0pEclduOW05MzJoYUxBUy16Mkx3ZlNRRmpfVS1RcDBpdktWNVE4eTZBU1JIc2tIamRfRVJPdVQ3eVlIS2ZkeDZUcjNFTk9WZzI3UGpNWTROblM0cGIxdFpPLXVsT0pQRWxDTWoyZ25R?oc=5"
     }
   ],
   "insight": "Tracking Kimberly-Clark (KMB)."

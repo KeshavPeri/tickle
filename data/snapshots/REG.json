@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-06T04:44:11.503Z",
-  "builtDateUTC": "2026-08-06",
+  "builtAt": "2026-08-07T04:11:22.916Z",
+  "builtDateUTC": "2026-08-07",
   "source": "yahoo-finance",
   "1m": [
-    80.73999786376953,
     79.72000122070312,
     79.44000244140625,
     79.62000274658203,
@@ -24,10 +23,10 @@
     80.29000091552734,
     80.30000305175781,
     79.43000030517578,
-    79.06999969482422
+    79.06999969482422,
+    76.95999908447266
   ],
   "6m": [
-    71.29000091552734,
     70.44999694824219,
     71.9800033569336,
     72.87000274658203,
@@ -158,10 +157,10 @@
     80.29000091552734,
     80.30000305175781,
     79.43000030517578,
-    79.06999969482422
+    79.06999969482422,
+    76.95999908447266
   ],
   "1y": [
-    73.19999694824219,
     72.54000091552734,
     71.91999816894531,
     71.54000091552734,
@@ -411,29 +410,30 @@
     80.29000091552734,
     80.30000305175781,
     79.43000030517578,
-    79.06999969482422
+    79.06999969482422,
+    76.95999908447266
   ],
-  "lastClose": 79.06999969482422,
-  "oneYearReturn": 8.019129769544332,
+  "lastClose": 76.95999908447266,
+  "oneYearReturn": 6.093187363055578,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Regency Centers (REG) Stock Looks Cheap On Cash Flow But Fair On Earnings - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Regency Centers Corp. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRk9Ba2dyZmgyU21jaDVocC1yaVFMTUNjdEM3cUhNWkdlX1FRWjU3YkU2QVl4eHVpUy1HMjZVOWNxZGIyR3d0dkM5dU84NEJDUGVLWmctcmVpTXg2MlloUkJ3bmZpbkZnOEJDWWxVckhyYk42WGFxcTM1cVktTURjZ19PZEpSeXZxVmhHcTFaNmFGNWxTY0h0bklSbnYxc3pkLUdnaV94d3JueFBNOXp4QlNQZnRXWDNYeUFyZmJWY0NrRE5ZOWhYa1BBMmRzdWxqVlF1SQ?oc=5"
+    },
+    {
+      "headline": "Regency Centers Sets October Dividend Payments for 3 Share Classes - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVVltS1gtMDlvM1g4WXBrd3JJdGlEVUMwUnM3Y2RnN2NJcXFCNFhtaVF0SXVWU0Z3YkhRSGVLZGd2dkdQNjZtVTZacmJ0NlRQR2lGblBXVUd2VTNuWlJpYTVQdE95SW5GVktqaVVZenNiQVNlTzFXVkR6NVlrcjBSMllRXzlsQnJLT3lXN2dZWEc4UQ?oc=5"
+    },
+    {
+      "headline": "Regency Centers (REG) Stock Looks Cheap On Cash Flow But Fair On Earnings - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWdDaUk5TVdVRzM0eEtYTmdqOFczUjAyR01DU2xXblZ6dzhndzk5LTg4c1Y4ZW9YTVcwd1hBMENnQmVtWmlfNTJtMUdFZWNVR2UxRTJSRzFkUFVraS1HNVZfdUdKZXAxY1VfTnVKT2dtNllKdHNhV0NxYmtRSXBPbm5GNHV1VWMxVGxOSFhHMFVjUkc2MFRVZnNrX3c?oc=5"
-    },
-    {
-      "headline": "Regency Centers (REG) Stock Holds Firm As FFO Growth Meets Earnings Quality Questions - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTXhCVVkyNXlyTWUyN2NfcE1sMjdCcW1lS0FyU092NUVyZkZGMFd5aFV6VTRlRnBTNFhuSUxpSVFiY1lrN1FlZUFkXzFCdlZkdmp2Y3ZMcDZfQm9IRlRiWTZHX1F6emdoSDg4YzR5TjQtMkl5bDBqNXJtVnVRam83UjNTaDA1eFNiOExGOUY4elJ6Y2dJaWZfMHpCTVVobE1QSTZBeWRfVFFlakNSaEVROVRRRVktUExTeUNFc0l2RW9CT2h2WVU2MGprSmVzU3JTVUHSAdcBQVVfeXFMTkZGV1EwUnQ1cXNGRTc3VUl3UFdMc3NLQVRfY3p6TUk2QlpaVmlQdnBOeGg3TGpMZ0s4amlIWWJZX3JycG9kc0pzbDdVakQ1SklmdnpWOUZod2x1S2lVTzlqSnhGRmwtUjdVclE4ZXc1dVJjaWtPUE9ETlp4M2IwdEdQR29Bb1AwdTFaSVdXeG5NcGdGTk4zNWtDSnhTb2NMcXF4cXVTWXUySHhESGctWVJBYkwwMVFSNjlQTmpvbmJOaWxXOUhkY2JkdlpTRTNkU01IM1hPVk0?oc=5"
-    },
-    {
-      "headline": "ETFs Investing in Regency Centers Corporation 5.875 % Cum Conv Red Pfd Registered Shs Series B Stocks - TradingView",
-      "source": "TradingView",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rRHd2ajRFS3pVSEdna0xlVHJaamRzNzJmdmlDZUJORjVXanVRUFBDTWpZSUR6SkQ4WmgxbG5mQXVxcXlqTVAxMW1NZGtwZHAxblE0WlAydTBVX3RwbnBfR3pKQVU?oc=5"
     }
   ],
   "insight": "Tracking Regency Centers (REG)."

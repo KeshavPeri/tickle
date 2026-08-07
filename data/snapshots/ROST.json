@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-06T04:44:12.023Z",
-  "builtDateUTC": "2026-08-06",
+  "builtAt": "2026-08-07T04:11:23.406Z",
+  "builtDateUTC": "2026-08-07",
   "source": "yahoo-finance",
   "1m": [
-    214.6699981689453,
     217.72000122070312,
     220.60000610351562,
     222.8800048828125,
@@ -24,10 +23,10 @@
     251.07000732421875,
     252.91000366210938,
     251.05999755859375,
-    253.22000122070312
+    253.22000122070312,
+    254.30999755859375
   ],
   "6m": [
-    186,
     186.0399932861328,
     186.5,
     188.64999389648438,
@@ -158,10 +157,10 @@
     251.07000732421875,
     252.91000366210938,
     251.05999755859375,
-    253.22000122070312
+    253.22000122070312,
+    254.30999755859375
   ],
   "1y": [
-    146.5500030517578,
     145.14999389648438,
     145.22000122070312,
     146.49000549316406,
@@ -411,29 +410,30 @@
     251.07000732421875,
     252.91000366210938,
     251.05999755859375,
-    253.22000122070312
+    253.22000122070312,
+    254.30999755859375
   ],
-  "lastClose": 253.22000122070312,
-  "oneYearReturn": 72.78744179300503,
+  "lastClose": 254.30999755859375,
+  "oneYearReturn": 75.2049660711376,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Ross Stores (ROST) Stock May Be Expensive On Its 130% 3 Year Run - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Ross Stores Plans Live Audio Webcast After Q2 Results Aug. 20 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDN2MjlSeTROak85emwxdGNpNVd1UW1OV0p5aVBCRDcya0lMYXg4cGN1N3hLWjR5OHZxYUFsY2hLbzJZenQ4Q2JKbnBqRDdTOTcxaXg3NTJyRDZkSGpBb3BUek1qTm85Q0o3dXhPZGVUNnJhSmJ2NXFtX3ZTaTdSR0ZZOHNjTElDZUZKYzZmOEJuTzBOT2IteTJhT25qQTZsYTBFc0Z4VWtQRS1IMUZpRE5JZHdTVE82Y19vWFdB?oc=5"
+    },
+    {
+      "headline": "What Are Wall Street Analysts' Target Price for Ross Stores Stock? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2sxMWo0akFvQ1MzREdldk92SnpRc19GNnZiS1ZPQXh3VldXMFE4SjlGV2gtNkFvT2NFVGhQRkdDd0JiMFFsdVJpVWZXWGl5M2pqSTFCZUZwc0N2ekVNUTRBNEdWX0JoWHdvS0p3d0gwb2ZoZmRUTTBXY3lBeU1NQ2k4X09uQzJoRXhyR0JJYmNhWlhhc3N0NU83QWJwN0wzdlloYk5NZklqYU1E?oc=5"
+    },
+    {
+      "headline": "Ross Stores (ROST) Stock May Be Expensive On Its 130% 3 Year Run - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "when": "2026-07-31",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUlUWUhmVEpSXzRVVU5Vc253Z2d3NUNaN193dklmSTZKTmRwdk43QWJTcDNvQzhaVnhQYlQ4Ui0yZ2NFTS1FRTg3R3Rod2s1V2RaTUxTNzZkdlpPLUxOaUJiRXZkVTI1dC1KajBoWEl4QkNscGh2bi16Nmp0anBQWTE5djFsNUZuOFdObTFnVC1WS3BteGc?oc=5"
-    },
-    {
-      "headline": "Ross Stores (ROST) Beat Earnings Expectations, Is The Stock Fully Valued? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQnZETEh1akZOR1MtVGpreGNrcVFvQ0JoMXl1d2J5TFdjVjRIZkJTekREckpVdVo2a2VSNkFIT092Ri1KLVJYSVZ1UXZIUXN2WTQzVUJFdk9wOUZtLXdzTXZISnpLMGUxOFd4THhNRDh4Zk5vdkxxVXV2LTVVZzAtTWc5bGFva282Ny0yUHltMk1ZSnZnYjlnbk91eUZienJkQXh3VzQtYWJWak5FN0ZoQUp1aGJSUGItLXBRdldXbkZQTGFHVHhF0gHMAUFVX3lxTFBQVUpwQllWbC1RZXBZdXVDMVJMUWp6Y2h2MjlrNWZYVnZjZG8zS051MEIxaVZjQ01GY1ZjOHdaNXdfVUthZm5kQldVZzNoOFFid2hQUkROaXozRHRucFprVkwtZUY0WVZEN196ZFB5TGpYSGdqMnZxNzZQb1Yxc19vckREMGoxN3ctdXU2VHRINlVrVVlIRmstaVJPa0lSNUNMbHRvS0JfRGFKenZlcWpFUTF1S0RaNWtGcHRCeUh5SG8xeFFvVDV2ZzlqOA?oc=5"
-    },
-    {
-      "headline": "Ross Stores (ROST) Stock Looks Above Fair Value Following New Store Expansion - webull.com",
-      "source": "webull.com",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pY3dfWFprMm1zYl9tRVRnQmVWVTExQUN2enNCYlFoQzIyWFNVNU82VWl5dmF5ZUd3eTAyRFBFTkhtS3RESEprb2U1YUczdDE2UlM4YUNzdG0?oc=5"
     }
   ],
   "insight": "Tracking Ross Stores (ROST)."

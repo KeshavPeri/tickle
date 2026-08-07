@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-06T04:44:12.230Z",
-  "builtDateUTC": "2026-08-06",
+  "builtAt": "2026-08-07T04:11:23.660Z",
+  "builtDateUTC": "2026-08-07",
   "source": "yahoo-finance",
   "1m": [
-    103.61000061035156,
     103.87000274658203,
     106.41000366210938,
     106.01000213623047,
@@ -24,10 +23,10 @@
     105.25,
     103.37000274658203,
     104.97000122070312,
-    106
+    106,
+    105.16000366210938
   ],
   "6m": [
-    95.72000122070312,
     95.16000366210938,
     93.87999725341797,
     91.94999694824219,
@@ -158,10 +157,10 @@
     105.25,
     103.37000274658203,
     104.97000122070312,
-    106
+    106,
+    105.16000366210938
   ],
   "1y": [
-    88.98999786376953,
     91.0199966430664,
     92.12000274658203,
     91.73999786376953,
@@ -411,29 +410,30 @@
     105.25,
     103.37000274658203,
     104.97000122070312,
-    106
+    106,
+    105.16000366210938
   ],
-  "lastClose": 106,
-  "oneYearReturn": 19.114510107383367,
+  "lastClose": 105.16000366210938,
+  "oneYearReturn": 15.535055526856148,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Starbucks Stock a Buy as Growth Rebounds but Valuation Stays High? - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Insider Selling: Starbucks (NASDAQ:SBUX) CEO Sells $236,251.71 in Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQUt2N3M5emFHVjg0LWJRc2ZqX2QyWF9meUVHLUM2ZHhkTldmQ01tdVlMV1BuaTlIVk50VnJzZ3hrMWNpYlRLTmV1TEZCS3NjUXhrZmlGOFQ0ODBGa3I4cmw1SW9NeDFKN1pOOTZNRUc0ZHdlWUMzWjRZbVRaV1ZYLU9YSnNkYnN2QmhiSjVSWWhpVktyVlhnd1gyMnE0alZDWU8ta25tdlM5d2t3Z0g2aUdMOHRkZzdrclE?oc=5"
+    },
+    {
+      "headline": "Starbucks CEO, international Brady Brewer sells $236k in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbjhnMFdoaGtSYWNIX2x6UHhZOGlzMGtxWnRpZXdIVTRvUFNDZTVtOHkzSnRxOW51by1NSml6aXJrY0JWZ3VhZVFMdGs1SV9FSUNDVnlQaXNQNEVsalczMTZla3lpcDc1Zm0wdnpCcTZJeUdsLVpsYUxvQkFzMVdWMVExLWc2TGdNbVlCa0tid2NHYmxmT3dReEpHNC15a1Jjd0ZDSGNzQTBtODZmVVJXT0txYW5MNkFkM0p4SnJQMjV1WU5pNW5hNlpLNFQtUQ?oc=5"
+    },
+    {
+      "headline": "Is Starbucks Stock a Buy as Growth Rebounds but Valuation Stays High? - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ09hX0hFa0ZhYmlSVUtkWXhaRXNORmFMUU9CNTk0b1JXTW9aWkVfX05pblpzRnZITWF3YTl5Y0lERHh1X0JzU3Fvdjh0N2g4VVNURjJtXzg3Q1hiNkdDZmRjYWNBbWZjSnlMOWZxLV8tWXZyc1RqQWdxSFJseVhQajFpd29NaHVVZXFKWG4zT1VyelZrR1loV05iLW5OR2ExR0E?oc=5"
-    },
-    {
-      "headline": "Starbucks (SBUX) Stock May Be 48% Overvalued Following Raised 2026 Outlook - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWGZET1ptU091NFl6SlNSWUdLUzk0dVVJRFg3YkRsbFJja0x5NDVCV2tVNTVqS0pJQmo1clVhMmIzRDY0bkJXMjdnS0ZnZFNtY3E4OWtGNUxKQ01wYnZjOHZGb05VMy1hYVNhX0MwLWNiWnp3S1lVSnlTZHNxT1BxU0ZBcy1LX2dHUUtZY1lROWZGQ2U0WHpudlVGS19MdTUtVEowcng5S1p5djcxMlR0V011d0hoWGNBYXlfVEc0UFk3Yi1oTURGTzBTLVVrSXp2TW10R2w5UGzSAdgBQVVfeXFMUFhmRE9abVNPdTRZekpTUllHS1M5NHVVSURYN2JEbGxSY2tMeTQ1QldrVTU1aktKSUJqNXJVYTJiM0Q2NG5CVzI3Z0tGZ2RTbWNxODlrRjVMSkNNcGJ2Yzh2Rm9OVTMtYWFTYV9DMC1jYlp6d0tZVUp5U2RzcU9QcVNGQXMtS19nR1FLWWNZUTlmRkNlNFh6bnZVRktfTHU1LVRKMHJ4OUtaeXY3MTJUdFdNdXdIaFhjQWF5X1RHNFBZN2ItaE1ERk8wUy1Va0l6dk1tdEdsOVBs?oc=5"
-    },
-    {
-      "headline": "Brian Niccol’s Turnaround Is Working, and Starbucks Has Rewarded Long-Term Believers - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORGwxRlpJVzBFQlJ4amRZckE0WTZoSWNpeGsyZUd2YzU1TFR6dUpObkZWRkp3Q1Rjdk9INVRBNkhjeXd3VWc1YjJza1F4TEtIN04yaDJXUE8zeU52VXdncU16UkNxbDdZcG5tWWxyNWJjcVZiRUdLWDN0S2ZNN2RfNUpGS05BSG4wTE1pX1ZTZW1Gb1dtMFRPU2V5eFRRbFVGd19CSjhPU3BzNFM5X3hwSWd6LVVWajg1Tk9mN3VsYW1xSlNO?oc=5"
     }
   ],
   "insight": "Tracking Starbucks (SBUX)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-06T04:43:53.659Z",
-  "builtDateUTC": "2026-08-06",
+  "builtAt": "2026-08-07T04:11:05.532Z",
+  "builtDateUTC": "2026-08-07",
   "source": "yahoo-finance",
   "1m": [
-    74.75,
     73.80000305175781,
     73.93000030517578,
     74.81999969482422,
@@ -24,10 +23,10 @@
     71.58999633789062,
     71.94999694824219,
     72.69999694824219,
-    72.47000122070312
+    72.47000122070312,
+    72.05999755859375
   ],
   "6m": [
-    70.62999725341797,
     69.9000015258789,
     68.91999816894531,
     69.12999725341797,
@@ -158,10 +157,10 @@
     71.58999633789062,
     71.94999694824219,
     72.69999694824219,
-    72.47000122070312
+    72.47000122070312,
+    72.05999755859375
   ],
   "1y": [
-    65.43000030517578,
     65.93000030517578,
     65.04000091552734,
     65.69000244140625,
@@ -411,23 +410,24 @@
     71.58999633789062,
     71.94999694824219,
     72.69999694824219,
-    72.47000122070312
+    72.47000122070312,
+    72.05999755859375
   ],
-  "lastClose": 72.47000122070312,
-  "oneYearReturn": 10.759591751018913,
+  "lastClose": 72.05999755859375,
+  "oneYearReturn": 9.297735818358154,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Eversource Energy (ES) Stock Could Trade At a Premium After New Project Win - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Eversource Energy (ES) Stock Could Trade At a Premium After New Project Win - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "when": "2026-08-05",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3djUDRheVhaZ0t6emhKTGJrN0k5YnUzSzhId0pTNXFxN1JNa3pPb2pTWDVnYUZDaWRKazlxVENhRHItYUUtTjctMWVNUWQ4Q05OZmpOU0kxZ1k4ZjJfTFVNMEZyNUYzeXBBUk9XS2g3RXhzSWFaQlpnaUNUc1laemdJY0JzU1ZRUU1DY3pORGFMbmRDeU1RVk9fMjBuUQ?oc=5"
     },
     {
-      "headline": "Eversource Energy (ES) Stock Finds Support In Debt Relief Despite Profit Drop - simplywall.st",
+      "headline": "Do One‑Time Charges And Big Grid Bets Reshape Eversource’s Long‑Term Story (ES)? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS1ZBRllJVmNIQ2JGeUFSa1ZpdHNQMUJrOXQ1TXZ5N2dHRkFaM2docUdockhsUExjdGN6bGhUTS11eGEyNFRSeGJEbDlQOXhBMzFWb1N1ZFI0NFEwcXhMNmsxNmVBMWhMSmx0eTZ1V1RLdENobHlKX0J1MHZQeU1IWVBCMXpaNjdxZ190VFYwcktjeFB0YWstSEJXRjgxcmowdmpQZ204SEQxUnBJdjN5LU44a3lPd0gxTHlHTXlqeDdXWlNrdXRnakV2OWZOd9IB0wFBVV95cUxPaGVjNnUxMHR1X3c4LXpGQm15c21ZamlJVVVxaDhHZVlCcHBYcDN0QlRqWHgwTzUyM0ZraVhnNGlMWUEtRzVuX2FZdFNjaFJIWU5CeWRnS3dqcTBXdVhVeXBRcTZhQk4tWE9LdldYeWVtY1VnSWhzWTV5QTE4MHNBOC1mdWZJYUVCZk93M0d2VHViVldNWVh4WUxtQ2lxU2N5d3FYMTZ2bmR6Vi1wZWpEOWpJZklPd0U0MHJFQjY4Y0VtbW1yOE1hV2gtVFk1Wndwd3BB?oc=5"
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTGFxOWFFM002S3gzMGktYXRwRG9CQTFIMHBkNm92V2xxaXp1dzJWYThhd25rSDVpTGZVZ3JFYXhxVi0tRS1VdXFBQ0E0WDBuRnV3Um15R0loMUtkSHkyS0tKNFpfb0dJbG1LVUlUVzE2M1M4dDFsc0tmMDBlRE1oTHUyQnF1UEVUZFVlSUR6dGNhSERfMUVJa2pvaVZaa3c4SkpPYmRkVU5sMkQzdFZzSjZYemtoLW5XQjJJMWVwYlhWRVZrNjJ2Z0N3d2tLVWs3WFRv0gHTAUFVX3lxTE5MYXE5YUUzTTZLeDMwaS1hdHBEb0JBMUgwcGQ2b3ZXbHFpenV3MlZhOGF3bmtINWlMZlVnckVheHFWLS1FLVV1cUFDQTRYMG5GdXdSbXlHSWgxS2RIeTJLS0o0Wl9vR0lsbUtVSVRXMTYzUzh0MWxzS2YwMGVETWhMdTJCcXVQRVRkVWVJRHp0Y2FIRF8xRUlram9pVlprdzhKSk9iZGRVTmwyRDN0VnNKNlh6a2gtbldCMkkxZXBiWFZFVms2MnZnQ3d3a0tVazdYVG8?oc=5"
     },
     {
       "headline": "Eversource Energy stock rises Tuesday, still underperforms market - MarketWatch",

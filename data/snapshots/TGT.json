@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-06T04:44:14.268Z",
-  "builtDateUTC": "2026-08-06",
+  "builtAt": "2026-08-07T04:11:25.597Z",
+  "builtDateUTC": "2026-08-07",
   "source": "yahoo-finance",
   "1m": [
-    127.55000305175781,
     132.4199981689453,
     132.27000427246094,
     135.13999938964844,
@@ -24,10 +23,10 @@
     144.49000549316406,
     149.35000610351562,
     148.11000061035156,
-    147.6999969482422
+    147.6999969482422,
+    147.0800018310547
   ],
   "6m": [
-    104.0999984741211,
     101.73999786376953,
     102.83999633789062,
     105.47000122070312,
@@ -158,10 +157,10 @@
     144.49000549316406,
     149.35000610351562,
     148.11000061035156,
-    147.6999969482422
+    147.6999969482422,
+    147.0800018310547
   ],
   "1y": [
-    105.38999938964844,
     105.66999816894531,
     105.4000015258789,
     104.01000213623047,
@@ -411,29 +410,30 @@
     144.49000549316406,
     149.35000610351562,
     148.11000061035156,
-    147.6999969482422
+    147.6999969482422,
+    147.0800018310547
   ],
-  "lastClose": 147.6999969482422,
-  "oneYearReturn": 40.146121836631785,
+  "lastClose": 147.0800018310547,
+  "oneYearReturn": 39.188042376893975,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Target Q2 Preview: Monitoring Sales Momentum, Shares Fairly Valued (NYSE:TGT) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTRiWDlHTGU4d0tWVlhHaTItMG5uaDB6cWwxOGtfc3V1bW1fNVQ0UE1uOGU2a2ZVcXNLYmtIcjRXT1ZVVmtNRzZSalJ1MG9rRmJDSjRqQ2I1a2FOSWZSRVVST0hRbnJQUFZOamRyd2ZxOWo3MlhmWGExZktHXy1rQ0ZZRGhRQnlaaVQtQ0NSRW1uN044SUhyMkZMNU1fTGZGbnI2MG0tX24?oc=5"
+    },
+    {
+      "headline": "Janus Henderson Group PLC Raises Holdings in Target Corporation $TGT - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemUtSW81RFRDbnFhRVhGUFItRjlTT2JkRnBjUXRzOUJxc1NNQW9MOWxCQTQ2QnduUEtyUU9QT3B5ZXRybW9qREE2QkFIRWNNSzNNNENfSE9ZZTBqbnNzYUtqeDR6dXl4dk55OTJtdm9BeVlyX2N6T0hBal9BbmJMaURWWHZ6LVJyaTM1VDhDNzMwSUlwcUdPaU02WDJIQlVxRzMyMWlBUGJtQVBHWkdZR0FfMGtEN2taUS1xdWdiV3ZQMVZXVHV3?oc=5"
+    },
     {
       "headline": "Target Corporation Increases Quarterly Dividend by 1.8 Percent - Target Corporation",
       "source": "Target Corporation",
       "when": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaXVyZXdycllIcnI1cmZydU53OFlfd29aQ1RpcXNaZG1MWWNReWhsNWhFVE4zTEhlSnVvX1IzSlllTndlcFU3UExhOXFNZ3gyNTI4aTMyYzc4NXVvZ2E3RS1UdWQ4Ykx3LV94SmthNkpDNkNQeTRHNUc4eHpRcUtXR3dpUXlQalF4cktIMG5hS1JwM0ZKYTVoRnFVbmJaLU9Ib2dUZTNCbzFZdUJEa3FlZVRmbw?oc=5"
-    },
-    {
-      "headline": "Target Corporation (TGT) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWZyWXpPMUxnVEVvQXR1aGZ4UDVCaS1Hc0RDX3pweXFsWTd0b2poU2pjZDZPLTBaSXIycThVbi1lNzZnMkd4VzZuVHJKZGExTXU1NjVFNjlQd2piakdiMm5sSUQzOWh4amNzUUNCSGw5ZXRjdWNmMi0wWXZ4WGZPVzB6dkgwaTVsYjRaY29ydVhHWEgtcGljbVJvSnJQMGZtaURRYWhReDVWMHM?oc=5"
-    },
-    {
-      "headline": "Target Corporation Reports First Quarter Earnings - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-05-20",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGtueWZmdk5OQVBOb0tEYjN4cWZJbUM1WHNxS3JLcjdvSEF4Ml85M0FheUZMSm5FZHZTU0FubkVBNmx4WUhiaV82WHM1RFo0d0F1R29wMHF6clZiOURfY1VXbU5FczlkYzFmOWhqdUd0NWtSZEg5YWZhWU5FWm5za0VCTEExYXg1dkVEejBUQnA3X3dESmd6bHc4OURwM2stQ1pleG03aEQ?oc=5"
     }
   ],
   "insight": "Tracking Target Corporation (TGT)."

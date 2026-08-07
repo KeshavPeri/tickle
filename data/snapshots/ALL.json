@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-06T04:43:38.581Z",
-  "builtDateUTC": "2026-08-06",
+  "builtAt": "2026-08-07T04:10:50.919Z",
+  "builtDateUTC": "2026-08-07",
   "source": "yahoo-finance",
   "1m": [
-    251.4600067138672,
     251.1699981689453,
     248.63999938964844,
     251.61000061035156,
@@ -24,10 +23,10 @@
     264.0799865722656,
     262.67999267578125,
     262.55999755859375,
-    264.5899963378906
+    264.5899963378906,
+    275.1099853515625
   ],
   "6m": [
-    194.77000427246094,
     197.3300018310547,
     198.38999938964844,
     198.99000549316406,
@@ -158,10 +157,10 @@
     264.0799865722656,
     262.67999267578125,
     262.55999755859375,
-    264.5899963378906
+    264.5899963378906,
+    275.1099853515625
   ],
   "1y": [
-    209.00999450683594,
     205,
     206.8000030517578,
     206.5,
@@ -411,29 +410,30 @@
     264.0799865722656,
     262.67999267578125,
     262.55999755859375,
-    264.5899963378906
+    264.5899963378906,
+    275.1099853515625
   ],
-  "lastClose": 264.5899963378906,
-  "oneYearReturn": 26.592030664465128,
+  "lastClose": 275.1099853515625,
+  "oneYearReturn": 34.19999285442073,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Allstate (NYSE:ALL) Releases Earnings Results, Beats Estimates By $2.93 EPS - MarketBeat",
-      "source": "MarketBeat",
+      "headline": "Allstate (NYSE:ALL) Reports Bullish Q2 CY2026 - StockStory",
+      "source": "StockStory",
       "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSHlUQldaV3UtN2JiYy1rekhGaHlBOWVJRU9VN3hQenFLVmlnWW9wZ1ltcXNaM0M3T3puYlJ6Vkg3aGtqdVd2ZXV0amhjLUV3WEdEU2xCTmlZUDNkdVBWTzVfVF9zZG5IMFdSWlk4S215RGlDWHhXV05VZDZSNmE5aWNaWEdPa2ptdUVfY0dhZ1hqMjYwNkw1QjFBajdZX3czSF9tVzkxYjdUZ3hzdTkxLXdlZmM2TTJvajBNd0p5MmM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeXNhSE1uMUd4VDV1WG1BZ1NVSmFfcmFFLTRzWXJEY1ZyQ182V1R5cElFYldoRVVFVUN5cHlHa3UxS2hKN2syT0xhalhUVTBoZnUzZjNEUzJCWEh4OC1ZWGgyRzlLZl83M3BUMl8yR3hHajJFbzQzTWw4cy1DOWpWbWJrWEV5OGFQQ0EwUlVYdTFpelFvbm5QOFFmR0lQVms?oc=5"
     },
     {
-      "headline": "Allstate set to report earnings amid margin concerns - Investing.com",
-      "source": "Investing.com",
+      "headline": "Allstate (ALL) Beats Q2 Earnings Estimates - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekVWYTV4RXZjZDN4Y2o1MUFEdkc1UkxVWkc2eF9QVkoyaks5eEc5RFBLZk5nMk0waHJBbGhOdjctV1V0SmhheGdQZzlhd0NBMmZKenUxTHUxLXdYblB4aURYUUMydHhYUzF4MlN1N2tqOG9NeE1ENnV0aE9vVmhmSnJLSzc3MGtibjFjdTFXWXFncHZWZWY4NzVwWEFCUFBIVnRlSFBLM284WHQ2c2NxcDVMMA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFlLRHg4SGFoWnIxWFlPcDQwQUFTRUpQcmFjN1dGbmJBRDBlMGQ0T21HTndqRGdWcHZoY3RIY21fMDlhbG8xZEswWFBUd2ZDbEI2OWEwU0hhZDdDN2FTRDVhMHU0Ml9BdDI2WXh2SU4wTlJ5ekRUbzNWR0toZkhIRUhmNWhCaVgyVUF2MWZnUElVR084OEprd3NGUFFLbndhaUFn?oc=5"
     },
     {
-      "headline": "Earnings Flash (ALL) The Allstate Corporation Posts Q2 Adjusted EPS $8.99 per Share, vs. FactSet Est of $6.06 - marketscreener.com",
-      "source": "marketscreener.com",
+      "headline": "ALLSTATE ($ALL) Releases Q2 2026 Earnings - Quiver Quantitative",
+      "source": "Quiver Quantitative",
       "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZWQtajRRcVR5aUZDOEJNNkFhcWx0WWlvWkRPcGtQN0tvOXh0d3UyanNMTlJzUGJDRzF0OWRZV2ZkUmNIMEtRTlljQUN6SlI1ZUwycldOMUZYajJXSUc3SWhiRndLLXRvdzlUWGtabVJKWVMzN2ZWMzYwODRCc2ZLRTNlMU5rck14X1BtZ2g4T0wzZ1ZWMC1vTzMyeHUzSmZMYktRanV5WVVDd2N4S2J6LVktSHVqejVtS3lSTnJucFhjbGxYS2I0ZzlxTXBHSld3UXNEMi1UMTBlVk5IZS16cmNn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkRzUGhpT1huQjlWenZ3NFUzMGFtcEhyOUJiWUctS0VJOXFNeEpKam44Mm9Wd0hBQnhaV1lLX094NXlyLWltWXRMdmhRYjYyMVcyT0sxalcwQU5vanVNMW56dlE0VDAxTVExRGRCMWkxbWVLN25iNGI0SUJqX1c5SUxqV1hRanM?oc=5"
     }
   ],
   "insight": "Tracking Allstate (ALL)."
