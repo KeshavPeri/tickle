@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-07T04:11:07.084Z",
-  "builtDateUTC": "2026-08-07",
+  "builtAt": "2026-08-08T03:09:50.744Z",
+  "builtDateUTC": "2026-08-08",
   "source": "yahoo-finance",
   "1m": [
-    57.5,
     60.529998779296875,
     61.52000045776367,
     59.970001220703125,
@@ -24,10 +23,10 @@
     63.63999938964844,
     67.30000305175781,
     69.38999938964844,
-    68.18000030517578
+    68.18000030517578,
+    69.62000274658203
   ],
   "6m": [
-    63.630001068115234,
     65.12999725341797,
     60.22999954223633,
     60.7599983215332,
@@ -158,10 +157,10 @@
     63.63999938964844,
     67.30000305175781,
     69.38999938964844,
-    68.18000030517578
+    68.18000030517578,
+    69.62000274658203
   ],
   "1y": [
-    40.79999923706055,
     41.869998931884766,
     41.459999084472656,
     42.150001525878906,
@@ -411,29 +410,30 @@
     63.63999938964844,
     67.30000305175781,
     69.38999938964844,
-    68.18000030517578
+    68.18000030517578,
+    69.62000274658203
   ],
-  "lastClose": 68.18000030517578,
-  "oneYearReturn": 67.10784701006735,
+  "lastClose": 69.62000274658203,
+  "oneYearReturn": 66.27658113830314,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Do Wall Street Analysts Like Freeport-McMoRan Stock? - finance.yahoo.com",
-      "source": "finance.yahoo.com",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEdjd2d4TmcyVnpMMHBfUGtCYk9URURYWC1NM0Q5aEc0Z1FxTVB4UTEtNzY4aC1sczZkWGVZbUpMTXA4cGtwTE9ZTUphZ0N5T0JMSE8xb2dHVmtad3NfUEJTMHNMazdzUEJPem4wYVFIc2NPX1FLQURYR0duUkNJcmh3c2pmTG93ek1jZGVCSV9fSGxlbHJXOEs0ZDNGMjdRT0pqcA?oc=5"
+      "headline": "Freeport-McMoRan Inc. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUDJQQ2M2SXMwbWt2OUhSVF9vOWNCOVRfX1VxT0V1MUVzRkJaNHRPUEY3V01PTEh6VnFnZ0FLamZna3NtT0RVV09KNVVyaXo2UEhSejRjQVdUMVhVT0x2N1NEMW1WZ2oydmJjSGxMZDd1ZXJ1MTlVNEhtNEJVSXNaMEFhZTROeENxeTN2RDNtMS10c3pBZFBlMlppWE9zNjBYNF9waE9IUFJLUnZFdFgxR2pyQVRsMTVmUnZGQ3FXQk9RaG1wcWVsUmdod0RYOHJpYXhJV2hBOUhLM21QUkExVU04RjRkRy1ESFhtc2JycUpLcmlDQUVRbENYS1ZxY3FuT1JtNg?oc=5"
+    },
+    {
+      "headline": "Another Bullish Signal Gets Triggered; Guardant Health, Freeport-McMoRan, Sphere In Focus - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcnJLa0tsdzBJUF9sTFFjV29panlCeHp4NENWMFo4cmJ1V3N5bTkyMEFucm11LWJlYURGOG9scXV0VDRrVkNGT0o2QzZ6WUd3djVyVXluaVZwS2l4LTFCTGFBS2RkTTlVTC1JWnBvTlpBWkYyNnVGdDlOQlA5QXprQw?oc=5"
     },
     {
       "headline": "Freeport McMoRan (FCX) Stock Trades At A Premium Despite An 89% Return - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-05",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa3VaU3F1aDZlOS15VHZRS0lHQ3hRcUhvOVV1Und4R1lLU1ZUTFVOOEdRazJmSENlMUNRdE1rcjhUQzAzM3hyckJnZHpCbmFwc0o4LW5WSEtveGE0aFlEbUFQSDJZS3U4T1JBYmJ6QURHQW9rXzlkMS1RdFVnbUdIcGJfSWRRYUJYN3VRYTllZjlaTGRhWHg3N29Pb29QQmQ1YmJuMTRkWktjcUdVTTlOMDYyNXNqeXk0TnFBQVNvN09STmlwdEk4VGxySDJsNHluT0lv0gHTAUFVX3lxTFBrdVpTcXVoNmU5LXlUdlFLSUdDeFFxSG85VXVSd3hHWUtTVlRMVU44R1FrMmZIQ2UxQ1F0TWtyOFRDMDMzeHJyQmdkekJuYXBzSjgtblZIS294YTRoWURtQVBIMllLdThPUkFiYnpBREdBb2tfOWQxLVF0VWdtR0hwYl9JZFFhQlg3dVFhOWVmOVpMZGFYeDc3b09vb1BCZDViYm4xNGRaS2NxR1VNOU4wNjI1c2p5eTROcUFBU283T1JOaXB0SThUbHJIMmw0eW5PSW8?oc=5"
-    },
-    {
-      "headline": "Freeport McMoRan (FCX) Stock May Look Reasonable Following Lower Copper Sales Outlook - finance.yahoo.com",
-      "source": "finance.yahoo.com",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcHJyMGFfUWJ0TEk5LXJUbWkzc0xrMU1yNWY4dzRTMUVGVlFXbkRMeVlLLWVlZWpaWGdqTTJZaS1uY1BDWnFlaXYwT3Mzb0VBdnBQTGRmUEdsbWljOWNTamx1WkJXOVFsVjJkbW5HamdfX01yemc0Y1pjNFpqRWp1TTV5N2hTZm1TRnhRTXV0Ynl3bkZ2RVdaM3BMaw?oc=5"
     }
   ],
   "insight": "Tracking Freeport-McMoRan (FCX)."

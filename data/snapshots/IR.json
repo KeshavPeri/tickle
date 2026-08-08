@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-07T04:11:13.933Z",
-  "builtDateUTC": "2026-08-07",
+  "builtAt": "2026-08-08T03:09:57.422Z",
+  "builtDateUTC": "2026-08-08",
   "source": "yahoo-finance",
   "1m": [
-    76.70999908447266,
     77.05000305175781,
     78.8499984741211,
     78.55999755859375,
@@ -24,10 +23,10 @@
     87.77999877929688,
     89.45999908447266,
     90,
-    88.23999786376953
+    88.23999786376953,
+    86.97000122070312
   ],
   "6m": [
-    85.25,
     88.87000274658203,
     86.08999633789062,
     88.94000244140625,
@@ -158,10 +157,10 @@
     87.77999877929688,
     89.45999908447266,
     90,
-    88.23999786376953
+    88.23999786376953,
+    86.97000122070312
   ],
   "1y": [
-    76.27999877929688,
     75.88999938964844,
     76.44999694824219,
     78.43000030517578,
@@ -411,12 +410,19 @@
     87.77999877929688,
     89.45999908447266,
     90,
-    88.23999786376953
+    88.23999786376953,
+    86.97000122070312
   ],
-  "lastClose": 88.23999786376953,
-  "oneYearReturn": 15.679076135117501,
+  "lastClose": 86.97000122070312,
+  "oneYearReturn": 14.600081591996988,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Ingersoll Rand (IR) Buys Lone Star Blower To Grow Mission Critical Industrial Reach - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVlOenFGLXBCdlA4TFQwT1hDOGxBdGdpc1kzNTBkSmRXWjRjMlV6S1pLQ1I3eWFQanh2QUE2azRybTlISWY4WDBsZktYTEliNGp6Vll2TTZydTNDOVl5Z3l4dmlSaTFhSjlaLUtRQ1poLUZ2d0Z2RzZNbTk5R1hUS3NSVDNsejJtZnc0ZmFvaDRDbGloSHkw?oc=5"
+    },
     {
       "headline": "Ingersoll Rand Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMGFUNEtfdzlJNGVFeGhyX2pFb1VvNnJFNmtCT0ZiQXVPeVQ5UlBNSUtUNmpwY01QRzVLZWdqd2FLbFlhcEdjSExkYXZrdkdmVll1cE5WeGZTSkFhVjlQVUJzcnZaQjl1NlozdHhydko2NXd5Y0ZwOVkxUnZqWllYY0lqZVZvZXB1Vlh1RXlVRWpOQk5vM091ZHBPekVUVzBTT1Q5ZmVMdWxpaWRfZ2lnQzRZYjVJaHdqQ3VwX3JCenZqVERJZDVpUDJiaUI2R0ZCamZ2bHZyTUw4OFNnTW85RFNxbzFvYUJtcGc?oc=5"
     },
     {
-      "headline": "Ingersoll Rand’s Q2 Earnings Call: Our Top 5 Analyst Questions - StockStory",
-      "source": "StockStory",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdW5rQ2FhSU9ILXItSElwQ25Na3ZsbS1kMFRySEEzdWhxeHdrSURVYlBBbkt6UVRSb18zSEJiVm9WQ2VkSEJMMVB1Q0s3X2NFTGR2OTVCY0NzM2M2SlRWLU43aDJ3dEJIX0FPbFl0TmFIaGk0czdlaEhmMzFjcFlNcUJqTjBJNThEMWNnZFNzakh5OTFDRHh1WS1iWTczbngtMEVybzVFSXd5WVEzLTdmZE1XSkxkWXE1OWRaLQ?oc=5"
-    },
-    {
-      "headline": "Ingersoll Rand (IR) Stock Looks Fully Priced After A 65% Run - finance.yahoo.com",
-      "source": "finance.yahoo.com",
-      "when": "2026-07-11",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQUlWRGFQWFBpM0ZRanVyR3RlOE9PQ0syd2ltOFUtOUNZUlBOQlVuQ0xCS1ZmZ3hrdEZZVmFKSHlhT2M0OE5acmx0QUhGYlptblE4dEY0ejR4dGlLeS14WThIVllTVERhTUZzUWVESV9tLUpFdVlvc2ZsWnlONUNzM2lORUpYME1uMUNKVFdYZWRSakUtSnBSN1Vn?oc=5"
+      "headline": "Why Ingersoll Rand Stock Is Soaring Today - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbDZPX1EydTBGLUpuM0otSGFPWjVvMHJnVXpCOVROQjMxN2JhN1BDSlRveXJvLVh3MDRzcWZFMTRlRmlsRFBZZGg2cVA2aTVIb2piS2F2MTMwalVScHdOWV9mZE9rR0ZGZXZxQmlSTnpfN052d1NPaHBoUzdkaXZWNU1aMXZxZ2VhQ1U0?oc=5"
     }
   ],
   "insight": "Tracking Ingersoll Rand (IR)."

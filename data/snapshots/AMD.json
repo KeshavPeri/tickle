@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-07T04:10:51.069Z",
-  "builtDateUTC": "2026-08-07",
+  "builtAt": "2026-08-08T03:09:35.332Z",
+  "builtDateUTC": "2026-08-08",
   "source": "yahoo-finance",
   "1m": [
-    517.4099731445312,
     546.719970703125,
     557.8900146484375,
     534.3900146484375,
@@ -24,10 +23,10 @@
     484.6400146484375,
     518.5800170898438,
     482.04998779296875,
-    489.2799987792969
+    489.2799987792969,
+    483.3599853515625
   ],
   "6m": [
-    252.74000549316406,
     252.17999267578125,
     236.72999572753906,
     246.27000427246094,
@@ -158,10 +157,10 @@
     484.6400146484375,
     518.5800170898438,
     482.04998779296875,
-    489.2799987792969
+    489.2799987792969,
+    483.3599853515625
   ],
   "1y": [
-    172.39999389648438,
     172.75999450683594,
     172.27999877929688,
     174.9499969482422,
@@ -411,29 +410,30 @@
     484.6400146484375,
     518.5800170898438,
     482.04998779296875,
-    489.2799987792969
+    489.2799987792969,
+    483.3599853515625
   ],
-  "lastClose": 489.2799987792969,
-  "oneYearReturn": 183.8051137479039,
+  "lastClose": 483.3599853515625,
+  "oneYearReturn": 179.78698814582123,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down - CNBC",
-      "source": "CNBC",
+      "headline": "AMD Will Become a $1 Trillion Company By This Date - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWdQQ2h0cURWNDNadFh3SFV2UW8yOW10bW02ekp3LVp4U0RGQy1GUVQ4RVZmVFZfNXk5d1N1VEtNN3V6N09zSmFFWndUMkJqczBkaWlhaU5IRW5nOHF0M2VBb29UdDFzZUpybEJwdjlid1N3ZmxudDFBYlNkSmJXb2I2eHJqZUFWaGljQWFMRWt1aW1vandRbg?oc=5"
+    },
+    {
+      "headline": "AMD earnings send the stock sharply lower. Here's what to know. - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FSkxiYWZwZ3B4SElFOWl3R0tlcUowc0ktU3JLN3lBTG9iSFBoMllXVExVMjR2bHY1NjhkSzZzRE5hdzZjcVBkM2NoMkl1Y3YyT09xd2NSVEx0ODA1NkZSbnh3aGl0ZTJJRVdkS1NLVWl6Z9IBd0FVX3lxTE5DZjZ1S0J3SURPUW8tNlIwbG1CeDIwRDlPY1lRQmN1YW9GQjZ4RjEtMmtQS0tvS0RMS2UxQW5Bc0UxU0hnbUxuYk10MlFxNXFVSWJ5MUc1YWVHRG4zSWEyY3dTS2k1RFA5dW1sWVBCdkNZLTFMRjgw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVzhabXVKMFllV2RPbEFUTHZoaUs0c01ZRDAxT2ZhTElhV0xvQTEtUTMyN0NPQ2NoekdTWGdRd1Q1X2kxeFRXMHdYOVlyd2dwWjVUX1RDX0F2SUVtbGVqVUlXQ01wOEtSbGVaWXJJMXZ1WDA2SFZfYzl5OHJrc21KLU83RENxdw?oc=5"
     },
     {
-      "headline": "Advanced Micro Devices vs. Sandisk: Comparing the Latest Quarterly Revenue Trends as AI Demand Spikes Sales - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "AMD buys chip startup that hardwires AI models into its silicon - CNBC",
+      "source": "CNBC",
       "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaXptUG9vMktZLXBvVGhEWWU0ZWpobE5jbXFjWGZZQkpIUDRmNmxrck1ZaUQ4bnZiUnFaWWVoYzU5T1F5Z2NibDUyZmE1WkM1cDNMbjY5UGtpajkxTm53UU04ZWVZbHJIUHA5Q1BGTFlxclNudG5yTndIbTFnMGhyeGFnQnlYNkJFWHlnLWxTeXFnZVJkY1k0RDVqd1dRRHc?oc=5"
-    },
-    {
-      "headline": "Advanced Micro Devices (NASDAQ:AMD) Shares Up 1.5% on Analyst Upgrade - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeDV4VURBbWI2S3NlQjVKSjRHSnVkNXNUaGVxczJqcEJfN2ZtLXBmam5nTkJxaVdWQmExc1lVanZpTWE1MmV6dm9tZmIwM2NoalhwaHVma3VNc2NZSTlpWGxSamFpTEF1RUpSS196UENNTnRjb1V0eXEzSG51MU1VTnJDSzR5Uk8tbjlKVDZfTWhoX3lhb0RYVUxGLVk5aF85eW9DVjRHcUNodWtkRzd1SzF1TWh0WDhvMHc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFZXOEd3NjlDdkg4QWd5V2ttbUNKSHRGWWN5SGVkZ0RfdDNpbGFGV0FWSmI2VVU1S2NKczFtbjF4WXZMa0lxVTB6VEItS2s4dk51cll6SkxJX3hOQUstMEVMQzZEME1sR3hwSE9FT1pJSy1ybDBtbEtXWE9FZEJVOVNyVlRZbnVHOURCaTBjX1RkSzNBLTRoT3Z0MjJDR2Y1a3VyONIBqgFBVV95cUxOWEliVmlNaTFTb2dyN3FVMndGZE85LXRDZWg1Tl9lSExCYXJRVGthMWNTREpMdlF2aE5SNXQ1a19xNzdkcmY5VndEcUw5T2pNalJLb3ZBeHg1RXNwRWc1Y1VsQjVMa2VHRHhvV2pISXdQUzBKellzYm9KUUlVSDNnYnpFeUNPMkJUY1lzcC03VTZWWm5zTmV5aGQwOC03ME5yVENHZGhMLVJvQQ?oc=5"
     }
   ],
   "insight": "Tracking Advanced Micro Devices (AMD)."

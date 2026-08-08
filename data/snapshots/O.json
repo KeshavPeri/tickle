@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-07T04:11:20.482Z",
-  "builtDateUTC": "2026-08-07",
+  "builtAt": "2026-08-08T03:10:04.453Z",
+  "builtDateUTC": "2026-08-08",
   "source": "yahoo-finance",
   "1m": [
-    63.22999954223633,
     63.16999816894531,
     63.310001373291016,
     64.16999816894531,
@@ -24,10 +23,10 @@
     63.47999954223633,
     62.900001525878906,
     62.70000076293945,
-    62.36000061035156
+    62.36000061035156,
+    62.5099983215332
   ],
   "6m": [
-    60.06999969482422,
     60.779998779296875,
     61.15999984741211,
     60.529998779296875,
@@ -158,10 +157,10 @@
     63.47999954223633,
     62.900001525878906,
     62.70000076293945,
-    62.36000061035156
+    62.36000061035156,
+    62.5099983215332
   ],
   "1y": [
-    57.09000015258789,
     57.439998626708984,
     57.38999938964844,
     57.65999984741211,
@@ -411,12 +410,19 @@
     63.47999954223633,
     62.900001525878906,
     62.70000076293945,
-    62.36000061035156
+    62.36000061035156,
+    62.5099983215332
   ],
-  "lastClose": 62.36000061035156,
-  "oneYearReturn": 9.231039487963256,
+  "lastClose": 62.5099983215332,
+  "oneYearReturn": 8.826601351043074,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Realty Income Corp. (O) Q2 FFO Meet Estimates - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNem03TWlwbmxYcGUwYi1nWXczdkJpeHpicWpkS3RWa3VXR3pWUGl5R2VMWVNQY2l3dmE5U04zMkNtN2g4VkFmX3gzTThQd3pveHpDUTducURHRUxSTTJHS1lYaTM5QmI2M2RWbVpzbGxYR2R3RGdFdm5SQ0ZaekNGdFZqRkYxWm9Mb05FY01B?oc=5"
+    },
     {
       "headline": "Realty Income Raised Its 2026 AFFO Guidance. Here's What That Means for Its 5.2% Dividend. - The Motley Fool",
       "source": "The Motley Fool",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON0FCMWxoNnI2dFZTeGk4Q1NwTzM4Nk4tbnhsUVM2MXdoSmFjYk05ZXZHbUlFcUFtOFIwTVFEWGZvOXpRTktrUFVmd1l1MWE1ZkhsdU9ZMFpUNnZoVnVwRTJoTXJiM3VzNE0tbDJFM3FPdVNBX3FWeDNNbzdlVW93XzAyMlZTY1B2bWZaRkZmOHpadFFzaVYwQUROWF8zS2JQdXJreUZKN2ZERldMWHk2SFk3cG9YME5LdTgxMURNUlRMZWRxLXlF?oc=5"
     },
     {
-      "headline": "Realty Income Announces Operating Results for the Three and Six Months Ended June 30, 2026 - PR Newswire",
-      "source": "PR Newswire",
+      "headline": "Realty Income Q2 revenue beats amid stable occupancy, lower costs, same-store rental growth (O:NYSE) - Seeking Alpha",
+      "source": "Seeking Alpha",
       "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY0lPT05DenJvUHpudGR3LWMwNTMyV2M5TUNKXzhveEgwbmRuUWo5ZU14VVR0bnE0OXZER1VkT3F6OEpnMW5pZU9zYUhHWTg4MmluTXVCU1ByMVJMRmRjZkZ2bTlpYzhJUU1oN0ZHTVF2czY0cHFMY2k0ZUkydXA3eUowSlFuLVZ1dHBhRjRFd05YS2RIRzMxOEhIUXZLYUhuWXdzVXoxWlpWY3VSc3V5a2xKdkh3T1llNnZXTTdmeVNVc3R2ZjNENktUdEtFa2dxdnUtUWpqWTBYaUIxV1E?oc=5"
-    },
-    {
-      "headline": "Realty Income earns Fitch A rating, boosts financing - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS05OUmo1VlhMLXNTdG94UWxLVnBLTUZNbFJvZ2wxNlpwdGxBd09YRTVzc0UtMndONER3Q1VRWjRIUDdIM3JIajVpWkpHN1FYNEpEdzk2eVFvSkZvY2tsaHQ0SmhXTnBMRHphQmd6UFhHMjVFMGhmOWVRQUtBNU5xQTR5VUEyMWtZTjVmVlVRelZOaHNWOWlHXy1GaEE1SVJ1cVdieWROOFlCVEJoZHBxak5KZmlienp2cWVwRGQ4QXR3cjFEaEU1SHAyOXVDUXVO?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDg1Xzh1Smg3ZFU1YWw3THRXRm9Ra0xteVF2OGsxQjdWUUdxOWkySEtEaUJ0aVNpSnRoN1JYRGt2VkZZdTFjS2p0Q1BRYjN1ZkNJSVRzTk5hY2QzWW16Sk9kQlNDNDhwRWQ0d3NKcjhoRzB6QWo0cUVqbk9KR1FyM1VZTVhqSUU2WDNCamRVei1idFNjelZOaW5Cei01SDJvWDN5NEFmUkNlUjBubDF2ZWpoQ3FpQnNIdVRIYzZEblhEQWJyX3c?oc=5"
     }
   ],
   "insight": "Tracking Realty Income (O)."

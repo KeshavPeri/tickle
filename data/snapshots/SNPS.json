@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-07T04:11:24.049Z",
-  "builtDateUTC": "2026-08-07",
+  "builtAt": "2026-08-08T03:10:07.781Z",
+  "builtDateUTC": "2026-08-08",
   "source": "yahoo-finance",
   "1m": [
-    434.5,
     443.3699951171875,
     445.5,
     433.82000732421875,
@@ -24,10 +23,10 @@
     392.07000732421875,
     403.8599853515625,
     400.82000732421875,
-    405.9800109863281
+    405.9800109863281,
+    415.989990234375
   ],
   "6m": [
-    511.3500061035156,
     480,
     465.1199951171875,
     457.8900146484375,
@@ -158,10 +157,10 @@
     392.07000732421875,
     403.8599853515625,
     400.82000732421875,
-    405.9800109863281
+    405.9800109863281,
+    415.989990234375
   ],
   "1y": [
-    620.3300170898438,
     619.4199829101562,
     616.1199951171875,
     625.7999877929688,
@@ -411,15 +410,22 @@
     392.07000732421875,
     403.8599853515625,
     400.82000732421875,
-    405.9800109863281
+    405.9800109863281,
+    415.989990234375
   ],
-  "lastClose": 405.9800109863281,
-  "oneYearReturn": -34.554188931416945,
+  "lastClose": 415.989990234375,
+  "oneYearReturn": -32.84201322017855,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Synopsys (SNPS) Increases Despite Market Slip: Here's What You Need to Know - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "Synopsys Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObjgzU1NJMm51QXFJWWRzTnBQRHF2WFBKS0lFekdGYi1YN212YzBGVExueENsbVZUU2VOOTV4a3c5cUhoWnFZc2RxeDFrZ2JkV3BlSGpFUDBCZEdQUnVURk9XVlhvb0tPNGZ3ZXZBYXFNdWxkYWIzcWVPLUQxdmhOSmZ5MVJiMlFIX0t4bzRiSnY4NGJvZHZrT2hfa3ZreWNBdUVZT1hWbk9GakJQNERDdGdpOHFVRWNMYWxZRTBSYklYdkhFWGIzR2xWRHBIMnJScHA1c2UxSGhqQQ?oc=5"
+    },
+    {
+      "headline": "Synopsys (SNPS) Increases Despite Market Slip: Here's What You Need to Know - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-08-06",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0hqNWpuZkozRElFWmdidUNkQ1MzVzdQU3BueTdfTzBneGJFb2JTZUM0R1c1OW9OVWFwczRiSkdFZEoxLTZ5ZnJHdDRDcWdUNFJ6MjZtbjliUkhfUzY3VmtDU1oyTkkwMFRuVzgxb2t5NW1BVHVqamtDZVdKTXZmcElhWVJkV0xWSEZDelFSUmZBQThRYUZwRzBFZVdBUVBNU0MtSU93?oc=5"
     },
@@ -428,12 +434,6 @@
       "source": "Investing.com",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLXhjXzRsNzBaRW1DZVljS0dNR1diejFOMjJaN0dYSnk5V1pkUFd0NjRMNnBOQ1NWOTdRTng1UmF5ZDgxcTZ4RHZSdUtFOVp3MkNxNldBMHdqUDhwbDdWY3J3MENBaWtoZlpoSzg1anpSSmNpcklXSE9zbmNoaDZoWnFPWWgxSlFQN2NFN0l2cTJGR05YbWpPVHVrMmZqRENDRzZsdXhyVHJfSmw4S2h3VFhKbmc5VERWQ3piNXpueEIwRmdWYUpUNQ?oc=5"
-    },
-    {
-      "headline": "Synopsys (SNPS) Could Be 28% Below Fair Value Following Its AI Chip Design Push - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSGx4QlpKTVdVeXdSSEdpaGt1UzF1V0dRLWItX1lub3c5VW5sTVE0NnJZcUhVZ1owQWF1RmlnRGw4djZaTm9JQ19BSXExQVQyMHY1djlqNWhOeENZVDEzUHJNOVJCWlZGemlkM0JOeTE3V2NEamwxOHlGREYyU180WHNEanpfUDVYWXJrV3YxMExVdHl4UFJ0Y0ZELWlrdlhrajRLOUFMUGVmQUxRZnpIQXZFaG0tckRUeDV1N0tTejNkcGs40gHKAUFVX3lxTE9Xd1RWdXlMMWFhU0djdTlCYXBwc3hpVFhjXzc2d2VyTHhFenZlbmJRSjZ0Z1VNQ0ZJMVllalJRamtVbWVxZHg0MzNZZVFsTWxCeHFPdzF2anVyVmszQkdvYXEyOUYxM3VMeWhPVUxZN3BTeUg0NUhady1BSEFJbVpmcURJdHJlbVJTdnRtUWY4YVREOFN6N29pMldoTjBuYm51ZVI5MVB3TW5ienBlcVM4OC1jbVJLZFhfRXRRNmlaWEdaSWNDaWRzMEE?oc=5"
     }
   ],
   "insight": "Tracking Synopsys (SNPS)."

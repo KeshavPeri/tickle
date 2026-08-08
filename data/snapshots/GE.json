@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-07T04:11:08.804Z",
-  "builtDateUTC": "2026-08-07",
+  "builtAt": "2026-08-08T03:09:52.521Z",
+  "builtDateUTC": "2026-08-08",
   "source": "yahoo-finance",
   "1m": [
-    356.0299987792969,
     359.0400085449219,
     359.2699890136719,
     353.4200134277344,
@@ -24,10 +23,10 @@
     368.92999267578125,
     377.2799987792969,
     381.2200012207031,
-    374.54998779296875
+    374.54998779296875,
+    370.0799865722656
   ],
   "6m": [
-    292.4800109863281,
     298.8599853515625,
     306.7900085449219,
     308.7099914550781,
@@ -158,10 +157,10 @@
     368.92999267578125,
     377.2799987792969,
     381.2200012207031,
-    374.54998779296875
+    374.54998779296875,
+    370.0799865722656
   ],
   "1y": [
-    272.0199890136719,
     275.010009765625,
     275.20001220703125,
     279.6300048828125,
@@ -411,29 +410,30 @@
     368.92999267578125,
     377.2799987792969,
     381.2200012207031,
-    374.54998779296875
+    374.54998779296875,
+    370.0799865722656
   ],
-  "lastClose": 374.54998779296875,
-  "oneYearReturn": 37.69208253814894,
+  "lastClose": 370.0799865722656,
+  "oneYearReturn": 34.5696423514414,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "GE Aerospace (NYSE:GE) Shares Down 1.8% - Here's What Happened - MarketBeat",
+      "headline": "GE Aerospace Stock: Analyst Estimates & Ratings - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX0JpSko0SUpFcElLLW9WaHdHMFpYVXZrdmxFMjdpSnllZTdKaGNqbEVkOUFIbjNDbnNtTGVXV1djLWhOWHc1M0lEanU3VmFaNEFOYXlRa1VVV3liR0E3YmhjNVV2TS1adjUtcy0wNkpDLUlRSXJUeWdldkRLdjFyUm1NVm1vYjB4NGg2U2hMYkNvTEs4MmVnV0p6emhPUjVMbTlv?oc=5"
+    },
+    {
+      "headline": "GE Aerospace (NYSE:GE) Trading Down 1.1% - Should You Sell? - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMnMxNUQzRjdxS2EzSFdPQl8yUUVQcXhZWTExMjFFd1YtSlRBcFMxckFvMXB0Q1R1Z2Ixb3JpWk9HNVV0MXVldFR6Rm9CV2RfaGh4Rk1ZSGZnQ3dVRUY5YUNCLVlNV3lrZ0I5WUxrcEl1UlMxQVNoajk5RXZvSWQ2UDVTTEtFMzdzNDY4ZVRhaHJNTGZnWmRENEg2QWkyekcyUm83eW0zOWZ4TGNG?oc=5"
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ1ZDN0lBOWtwcVFxaEJKdlJTdjVnRGswS29GZDctaVRPR2x2TEEzQ0h1Qm1BV0dVWExTbi0zRlhvdVpVakZpYXpidXFvQk5OWi1oWDI5VHNxZkI3alBwQ0tOTGNkOGpybzFnTlpzY1Jkb1VQa0docXcxVlFicm1HNU9yb2hmNEdqMF8xakFHQ09BcHdpZzJvaUpsWHFTQ3lYZGxua1poQVg?oc=5"
     },
     {
       "headline": "GE Aerospace stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-05",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTEdVT2VNTGZaUTd4Qk44VUxwbXpNQUczWGNLWDY1MU9aVF9fNXdISXN1RDQyZ05CRWFSMjFMeVhCSkNRaGtyMXg1dmVxRUZSdWc4ZkVLMjZ2bUo0TThVUWdJdC1aVl9QRUF6OVFNaExBbjdBWGlMREdhQ2VySmNMbFRKankzRGVVU2FuQkM0U190amI5VmUzb2hiTVRMR1dhZXZvR2pRRjl4Szk0TUJET1lGUV91czN6WHV1UTNXUWtYaGZrWVpBTmtsa0F6Z29WZkx0d2FlbXZtUQ?oc=5"
-    },
-    {
-      "headline": "GE Aerospace Stock: Analyst Estimates & Ratings - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUmtVcTUwaEtKZVpSN1l4MzZqRU9zLWNMRHQtaWNmbTJlT2xsdlBfbF9fUmJRMFNkcjJ6MXNUMGwxbEZOV2tCMUFtYThvYzRjN1FMNlhPX2p2RjliLXRlUGw3R2drMmtBcldESGd6eTlJbTBzYmV3MFhlVUVXd2thRjRZbzJKbUY5YlBYMVlqOVpNdw?oc=5"
     }
   ],
   "insight": "Tracking GE Aerospace (GE)."

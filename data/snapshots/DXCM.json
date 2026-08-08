@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-07T04:11:03.602Z",
-  "builtDateUTC": "2026-08-07",
+  "builtAt": "2026-08-08T03:09:47.488Z",
+  "builtDateUTC": "2026-08-08",
   "source": "yahoo-finance",
   "1m": [
-    74.05999755859375,
     73.0199966430664,
     74.95999908447266,
     76.3499984741211,
@@ -24,10 +23,10 @@
     87.30999755859375,
     86.94000244140625,
     82.66000366210938,
-    83.0199966430664
+    83.0199966430664,
+    84.75
   ],
   "6m": [
-    73.36000061035156,
     74,
     73.04000091552734,
     72.52999877929688,
@@ -158,10 +157,10 @@
     87.30999755859375,
     86.94000244140625,
     82.66000366210938,
-    83.0199966430664
+    83.0199966430664,
+    84.75
   ],
   "1y": [
-    76.4000015258789,
     78.86000061035156,
     77.8499984741211,
     80.16999816894531,
@@ -411,29 +410,30 @@
     87.30999755859375,
     86.94000244140625,
     82.66000366210938,
-    83.0199966430664
+    83.0199966430664,
+    84.75
   ],
-  "lastClose": 83.0199966430664,
-  "oneYearReturn": 8.664914901795015,
+  "lastClose": 84.75,
+  "oneYearReturn": 7.468931453286453,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "DexCom (DXCM) Stock Sees Fair Value Lift After Analyst Target Increases - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "Why is DexCom stock surging today? - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb1lYYm96OU1VdGRMMU1ocG9JelJUamRFdUN4OUdzLXRLSUZrVDYzSGhBbXpaQ2dPUmV3LVpPR3pmVVVLSHhTZkZGZXZ5eF9vOHUwY2wtRUpsYlc4aXFsRHFiVDRfLVE5NTZUUzc5OUtSME9Jc2ZUbDg0bm9KSEFaTUt2TUpnM3ZZSS1FZ0w5NHJqZEJ4R0hTUmp3OA?oc=5"
+    },
+    {
+      "headline": "DexCom (DXCM) Stock Sees Fair Value Lift After Analyst Target Increases - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmxyZXVtVUhsNkdhSEJkTWtWZ2RMQmRBT29KQWcwMWwtLUpqTWVBeDR1WXJlMlZ0V1BWMUtxYng4YXljeWZvbjR1Uk5aRDBVUUJFNmFfaHpwWGtkYUZrX252OW1CLWo0d05oaFVMNll6U2lleFlqcE9NVGZOT1duS2t4NVhVS3dBR2hrUDdad0E1Q2ctdlhz?oc=5"
     },
     {
-      "headline": "Why is DexCom stock surging today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb1lYYm96OU1VdGRMMU1ocG9JelJUamRFdUN4OUdzLXRLSUZrVDYzSGhBbXpaQ2dPUmV3LVpPR3pmVVVLSHhTZkZGZXZ5eF9vOHUwY2wtRUpsYlc4aXFsRHFiVDRfLVE5NTZUUzc5OUtSME9Jc2ZUbDg0bm9KSEFaTUt2TUpnM3ZZSS1FZ0w5NHJqZEJ4R0hTUmp3OA?oc=5"
-    },
-    {
-      "headline": "DexCom Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "DexCom Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWi1tLVlFazh4aU1GNU5NdGpLb3IwSzZzT1hHWFZNX3ZaRDBtOUFuNldDcUwwenpVMGpJb0E2ZkFMQUU4UXg1Sm5BOHNaMUk3WTBEcFhtaWo5VGxpLXBBR0dWYndvc0JPR2ZaVE5kd2t5Qm9QdGVObUdRUkFmSG8zb2ExRjItRjZkY1pZTjAycXpfWEszRGlqZHI1eG5yTXZOWGVXWEJMQl9wQV8wQm5BbG84WEowanVwTXJQdkl6SQ?oc=5"
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRS1RN1VobzFmRm01OTlKYXFJUEV3TUd4bVlBM2tPVWlYY3B6VUM5Q2o5c3V1b0FQYTYwaXo4OVNmekpHN3N4dlNPc2NGV3ZDMzA0T3FMT3p5cktfOFU0dTlNbzh3aVN5ZkZzLWpmRHNwVVNNMVhybmMzeHVMU2JWTW9ZY2M4SzA3ZGdRZzZ1ZVpLWDh1RVN1c3pCTHVGSGpJOFlqaGVLMm5QVjRNbE5NSVdUdTZHVzNoeFVfaGdvV3RuRXBTeHBXeQ?oc=5"
     }
   ],
   "insight": "Tracking Dexcom (DXCM)."

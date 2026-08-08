@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-07T04:11:22.556Z",
-  "builtDateUTC": "2026-08-07",
+  "builtAt": "2026-08-08T03:10:06.510Z",
+  "builtDateUTC": "2026-08-08",
   "source": "yahoo-finance",
   "1m": [
-    44.529998779296875,
     45.31999969482422,
     46.31999969482422,
     47.650001525878906,
@@ -24,10 +23,10 @@
     57.869998931884766,
     58.540000915527344,
     57.93000030517578,
-    59.779998779296875
+    59.779998779296875,
+    59.06999969482422
   ],
   "6m": [
-    54.08000183105469,
     53.11000061035156,
     52.689998626708984,
     52.33000183105469,
@@ -158,10 +157,10 @@
     57.869998931884766,
     58.540000915527344,
     57.93000030517578,
-    59.779998779296875
+    59.779998779296875,
+    59.06999969482422
   ],
   "1y": [
-    68.22000122070312,
     67.6500015258789,
     67.08000183105469,
     67.97000122070312,
@@ -411,29 +410,30 @@
     57.869998931884766,
     58.540000915527344,
     57.93000030517578,
-    59.779998779296875
+    59.779998779296875,
+    59.06999969482422
   ],
-  "lastClose": 59.779998779296875,
-  "oneYearReturn": -12.37174185046029,
+  "lastClose": 59.06999969482422,
+  "oneYearReturn": -12.682929249857422,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "PayPal Stock Hasn’t Looked This Good In A While — Q1 Earnings Will Confirm If The Comeback Is Real - Stocktwits",
+      "headline": "PYPL Showered Owners With Cash. The Stock Still Lagged The Market - Trefis",
+      "source": "Trefis",
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX1loWVRvX0U1Ny1NaFRONW0tdnA2QlM3eXNIQ1ZKOHFZbTV4VlBnRzZ5dHpYd01MRlZyM2RFdVBhS3pPSkZKczl5Wkg3dWphaS0xLUFYejliR3BfdnlkX1FnZTgtUnVGNXh5Sk1qZjNpLU41NVhsWnFydmlQUG9KbzI2NnVfa0xmUHQwdG1lRGNiWGF3cE5IQmwxUlJCNDVaQzJ2eThOVVJKY3hpd193QzBYWnB2VW80WDNZN1ZPQTFVVHc?oc=5"
+    },
+    {
+      "headline": "Paypal stock rises as CEO keeps door open on potential deals - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSm9TbVpMRjZRSkVtUWd0cC05SENNOURnTTBTa2pLeFpRZzMyTmdpODRZQ3VoVnplcXM2aFJCNV9UeklGS0daMEF2VVFDSFVvSk1jX3V2RFJVdEhZdjA3QlVmbFdaRHZQbWVVUnVDLVFnMW9VbUlpV2wwQ29SZ2JhUjNiNnpZRVN3cy15MjFVU0lVYkFyU1NENDBtYUlYdU5sMk10YzYxbVlxVEVSS0FlVjdQR0hUWkVZ?oc=5"
+    },
+    {
+      "headline": "PYPL Stock Climbs Overnight: Michael Burry Adds To PayPal Bet, Says 'The Body Has Yet To Show' - Stocktwits",
       "source": "Stocktwits",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3NHc3VxMFZUenJwVWlEa3MyYzVPOFRvVTFFLTBQcmRfVG5DSlBpb2ZyNUlTbWx5UlhTWWd5S3JxRklvTmg4V0VxVEhlaHo1dkZ0UlVqcmVpcGlGMl9pUzI3UUl1NmdjN1hzdFllOVVJbGN2YzBtTTNRcXk2TnM2amtZZ1M2N1lrYlZ1dlhpUFI1YU1GWkYtWjBmZUxpZUJRSTVRRW9salJhdllkSWZB?oc=5"
-    },
-    {
-      "headline": "PayPal Stock: Buy or Sell? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VNHREZVltbk03TFF5SjlKWjQtemQ3bkpmQ3duLWZWWTlfUzRrYkJXRU0zcWRqTndwYmdTWmRheGxESlNBbEE2Ymp6SEhkTXNtR0ZVdE9Uc3lHdDlhQjB2bnJOZkpKQzVKRVoyb25mVmJoWlVqWVE?oc=5"
-    },
-    {
-      "headline": "PayPal (PYPL) Stock Looks Reasonable On Earnings But Weak On Returns - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOWxieGdDVUhscFFwT2NVb0hOQVQ2U2hKOV84NXA4ZzVpWW8tNXRhLWZXTTdxTEhqMmFMVk1adlRpbTB5SmwzTGowTkFtaFVMQjBKd2F0X0xGaW1pb0FmaS1CUjN1Ri04RnhTcHBpak4wQXJUdzVSS2Q2dUMxU3I0TjBWN1I2NWNiMFZPLWFrOXh2SWVBeDRjdlFsdzFpNFZpMHNmRFhoeXhtMUdpVXlSWFBaZUNva3E3eXZiRGE3VENLYUhIRmpyNFBUdE5sck5tZ3VFekxlbzd4TEtyQWtxNXpB0gHnAUFVX3lxTE82VHJwTjhJVEl5NndWOXR5cjZNc1loWThzMWRIR2ZrTzZtUU9jTVJWa3gwT2FjaDBPaVp2dzlvVGxJWmE3d1hLT3pVUC1RV01ZLTN0QjFYc0FyV2JiZkU5VjJXMURWQmlUWE9PY3Y4VzZuaDRFb2JnU2xTWFNEZDJSYTRoLWk2RjJRbVJpTDJZdm53MENZYnJFR1V6blJkRm5IRlMyMFBIYmt1MHBHZnI5Uk9jOTVlS2FuX0lyR1lyVDhZNmVvb3U4YjhtT3J6U1puZ1ZsckhuUlRBbE83a0Q1bFpQdVdVOA?oc=5"
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZEdhUlIxclBLbVlFXzFZdDFYTWtQNWtfU0hoeE13UUlETHVXTTJxbVprRDJEWGc2X2x2YnRGblNvc3I3ZlhvX0RpcEpTNlVWM1RURGN3a3BfTGs3WDY0M285Z0NtLVFaZ3BZb0VhRDAyT1BGTUI4Tkl3SE1pQVlCWFFsN0FiRVM0TU9tVmVkNGkxRTR6Y2JXS2FtZzIxNjhCSXc1OEZDcjZBd0tvRGVxeDl2QzlYeG9hQVVoS1M1NA?oc=5"
     }
   ],
   "insight": "Tracking PayPal (PYPL)."

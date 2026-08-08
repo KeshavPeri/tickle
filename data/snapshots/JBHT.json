@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-07T04:11:14.592Z",
-  "builtDateUTC": "2026-08-07",
+  "builtAt": "2026-08-08T03:09:58.205Z",
+  "builtDateUTC": "2026-08-08",
   "source": "yahoo-finance",
   "1m": [
-    276.45001220703125,
     282.6099853515625,
     279.9599914550781,
     283,
@@ -24,10 +23,10 @@
     266.9100036621094,
     274.4800109863281,
     272.6600036621094,
-    267.25
+    267.25,
+    268.5199890136719
   ],
   "6m": [
-    205.05999755859375,
     205.2100067138672,
     202.72000122070312,
     211.7100067138672,
@@ -158,10 +157,10 @@
     266.9100036621094,
     274.4800109863281,
     272.6600036621094,
-    267.25
+    267.25,
+    268.5199890136719
   ],
   "1y": [
-    140.3300018310547,
     139.44000244140625,
     137.77999877929688,
     142.8300018310547,
@@ -411,12 +410,19 @@
     266.9100036621094,
     274.4800109863281,
     272.6600036621094,
-    267.25
+    267.25,
+    268.5199890136719
   ],
-  "lastClose": 267.25,
-  "oneYearReturn": 90.44395105313697,
+  "lastClose": 268.5199890136719,
+  "oneYearReturn": 92.5702698739596,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "How Q2 Earnings Beat And CNBC Spotlight At J.B. Hunt (JBHT) Has Changed Its Investment Story - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLWhfdUo3TEdQYzU3WjE3eGRobzd1d3VwLWtWNE84U2JuaVVQemM3dUxZbldsa2JKajJBZUFxb3ZCT0ZqVXlkR184WC1UdXRKUW11VWRSVFN1S3gzXzl1dEZsZkRoalVNVUU1b1RkRkNNTXZpQmt4S1F3a3N0R3JHclNMYXU1RTF0cURnc2dWWkxVZUNXR1RycUtSeHlpOHN3Umt5M2VwV29way00TG05VmRVNW9JRUxlYVNYS0VkcGNsZU5Bd1dJSlBoSkpYeVJUNUdQZ2N5UW50WVAwa0hTcy1aOW5WenZZaEHSAeoBQVVfeXFMUC1oX3VKN0xHUGM1N1oxN3hkaG83dXd1cC1rVjRPOFNibmlVUHpjN3VMWW5XbGtiSmoyQWVBcW92Qk9GalV5ZEdfOFgtVHV0SlFtdVVkUlRTdUt4M185dXRGbGZEaGpVTVVFNW9UZEZDTU12aUJreEtRd2tzdEdyR3JTTGF1NUUxdHFEZ3NnVlpMVWVDV0dUcnFLUnh5aThzd1JreTNlcFdvcGstNExtOVZkVTVvSUVMZWFTWEtFZHBjbGVOQXdXSUpQaEpKWHlSVDVHUGdjeVFudFlQMGtIU3MtWjluVnp2WWhB?oc=5"
+    },
     {
       "headline": "J.B. Hunt Transport Services Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -428,12 +434,6 @@
       "source": "MarketBeat",
       "when": "2026-08-06",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdmZxWUZMX05WZm1GbVVjaWVJUWc0cERFQWtXeUQwVk1kazI0dXBQaHhrWVZTTEZSQlRadDRpRFI3WW9sQks5QXNmNUprYXZzMUhXNi1OS19HblVqRUxtcWIzdWdCYmhTRTZucFJqaXktbGdOamZHdnlCZy1wNXhsVjlsUGJfLU95UjMzSUVXaGlRZTBWMGlDRlJNNW9tRTNKU09DN0JfX1pxXzZTNEFYNEN0MlVvTS04U0lCY0pEVG9RMzlwUlZhclFzbWQzMmEyQ0E?oc=5"
-    },
-    {
-      "headline": "J.B. Hunt Transport Services (JBHT) Looks Modestly Undervalued, Is The Rich P/E Already Pricing In The Upside? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUU92TlhKMjFPN1lCamlpYWdTZDNHV1Q5MERWaHpROEpZbW9WVzR6VTFwQlFBX1pkQTlsU2pGRy1KejRNbXdhSXlnYnFvYlphV0dXaXRCNzcxUDBHZTY4T2NWdEtORXlFRGNYOGtvOFZlNG9qcGVvMlprZWFEWTdYZ244Sld2T09BcVdRRTloWGZVQjZTN19WN2F6cHhMbWowMVh2QlBsQ0Q5Zy1iRTBjRlZsLXVTMFBCcEJmanVMUTZFU3RWdWx6Y1o4endmd2NpU182bE8tU2tvVU5MWGRwT3AtaU16NWZ0Nndn0gHrAUFVX3lxTE1RT3ZOWEoyMU83WUJqaWlhZ1NkM0dXVDkwRFZoelE4Slltb1ZXNHpVMXBCUUFfWmRBOWxTakZHLUp6NE1td2FJeWdicW9iWmFXR1dpdEI3NzFQMEdlNjhPY1Z0S05FeUVEY1g4a284VmU0b2pwZW8yWmtlYURZN1hnbjhKV3ZPT0FxV1FFOWhYZlVCNlM3X1Y3YXpweExtajAxWHZCUGxDRDlnLWJFMGNGVmwtdVMwUEJwQmZqdUxRNkVTdFZ1bHpjWjh6d2Z3Y2lTXzZsTy1Ta29VTkxYZHBPcC1pTXo1ZnQ2d2c?oc=5"
     }
   ],
   "insight": "Tracking J.B. Hunt (JBHT)."
