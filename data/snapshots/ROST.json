@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-08-10T03:27:39.344Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:49.387Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
     220.60000610351562,
@@ -11,8 +11,6 @@
     232.72000122070312,
     233.4600067138672,
     235.77999877929688,
-    235.80999755859375,
-    238.2100067138672,
     232.38999938964844,
     238.88999938964844,
     243.35000610351562,
@@ -24,7 +22,9 @@
     251.05999755859375,
     253.22000122070312,
     254.30999755859375,
-    255.22999572753906
+    255.22999572753906,
+    254.8300018310547,
+    251.80999755859375
   ],
   "6m": [
     186.5,
@@ -145,8 +145,6 @@
     232.72000122070312,
     233.4600067138672,
     235.77999877929688,
-    235.80999755859375,
-    238.2100067138672,
     232.38999938964844,
     238.88999938964844,
     243.35000610351562,
@@ -158,11 +156,11 @@
     251.05999755859375,
     253.22000122070312,
     254.30999755859375,
-    255.22999572753906
+    255.22999572753906,
+    254.8300018310547,
+    251.80999755859375
   ],
   "1y": [
-    145.22000122070312,
-    146.49000549316406,
     148,
     150.27999877929688,
     147.3800048828125,
@@ -398,8 +396,6 @@
     232.72000122070312,
     233.4600067138672,
     235.77999877929688,
-    235.80999755859375,
-    238.2100067138672,
     232.38999938964844,
     238.88999938964844,
     243.35000610351562,
@@ -411,29 +407,31 @@
     251.05999755859375,
     253.22000122070312,
     254.30999755859375,
-    255.22999572753906
+    255.22999572753906,
+    254.8300018310547,
+    251.80999755859375
   ],
-  "lastClose": 255.22999572753906,
-  "oneYearReturn": 75.75402395131815,
+  "lastClose": 251.80999755859375,
+  "oneYearReturn": 70.14189024229307,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "What Are Wall Street Analysts' Target Price for Ross Stores Stock? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2sxMWo0akFvQ1MzREdldk92SnpRc19GNnZiS1ZPQXh3VldXMFE4SjlGV2gtNkFvT2NFVGhQRkdDd0JiMFFsdVJpVWZXWGl5M2pqSTFCZUZwc0N2ekVNUTRBNEdWX0JoWHdvS0p3d0gwb2ZoZmRUTTBXY3lBeU1NQ2k4X09uQzJoRXhyR0JJYmNhWlhhc3N0NU83QWJwN0wzdlloYk5NZklqYU1E?oc=5"
+      "headline": "Ross Stores Inc. stock outperforms competitors despite losses on the day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcFBweUhSQnVTN3I3RlJoM1lUS2VXc2ZvOWhiZnhfMTd1dUVGRVRSRE1jY2RhWnpnR1lIUFZqMGhnWVJZRDBaQkxXbmdmLUhkTldsSTd2ZjI0U3ZwQ2RRTVNhM0tiU2tuYmFfdFBraVJldUNVbTAtN3pwb2g3NmRKVWZjOXdpNXhRR25GUVlqZ3ZQVTlqaG1mZlE2VTVJUlZOOENFVzczSEs2SFg4bEJFSDNTc190NkJhbHJfM0xBd2dIOFZ3R1NDSklYdzh2eGJBb2VUYlRrU3NURFJuZ21NRGdqNA?oc=5"
     },
     {
-      "headline": "Ross Stores (ROST) Stock May Be Expensive On Its 130% 3 Year Run - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUlUWUhmVEpSXzRVVU5Vc253Z2d3NUNaN193dklmSTZKTmRwdk43QWJTcDNvQzhaVnhQYlQ4Ui0yZ2NFTS1FRTg3R3Rod2s1V2RaTUxTNzZkdlpPLUxOaUJiRXZkVTI1dC1KajBoWEl4QkNscGh2bi16Nmp0anBQWTE5djFsNUZuOFdObTFnVC1WS3BteGc?oc=5"
+      "headline": "3 Reasons We’re Fans of Ross Stores (ROST) - StockStory",
+      "source": "StockStory",
+      "when": "2026-08-09",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWx5TGxOajNGZ2tfSzIwUF9RTFVmbUREZ2pVdHhqSEdodnpmZmtnd0NzN01HMkFrQkxLUjlRd3NKTnZMVld5RVNPNW1scG84dmtBYWJqaVRVQ1JWWGdfQ2x2LWFnTDh5MUR3QXJxcHBwUTQ0YzNrVXVxMFcyLVBWOHdoZnpFeFZSenU0UHIxV2RsY2FWWHUtUUxxV2U0aTR0VHE4?oc=5"
     },
     {
-      "headline": "Ross Stores Plans Live Audio Webcast After Q2 Results Aug. 20 - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDN2MjlSeTROak85emwxdGNpNVd1UW1OV0p5aVBCRDcya0lMYXg4cGN1N3hLWjR5OHZxYUFsY2hLbzJZenQ4Q2JKbnBqRDdTOTcxaXg3NTJyRDZkSGpBb3BUek1qTm85Q0o3dXhPZGVUNnJhSmJ2NXFtX3ZTaTdSR0ZZOHNjTElDZUZKYzZmOEJuTzBOT2IteTJhT25qQTZsYTBFc0Z4VWtQRS1IMUZpRE5JZHdTVE82Y19vWFdB?oc=5"
+      "headline": "Erste Group Bank Expects Stronger Earnings for Ross Stores - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel8wWkpCZEpfX2tneGFNbWx4MnM1bzNOMGhiN2piS2UyWEdycExTaDMwVzc4NUVQSzJDLVY3azl6NERRTlgyVTR5ZlhmZzJPLWxrWjdvckRsME5wVW4zUkQzUV9TVjZLZkpLaGIwby1XT2ZNZjgtaV8xUzNQY3FyTVV6QWtaZHJGbjNSM3RMNEl4QlpiOUxkb1RUOE9yQ0hRVXdMWk1CSEE2dFMyUjFLNlln?oc=5"
     }
   ],
   "insight": "Tracking Ross Stores (ROST)."

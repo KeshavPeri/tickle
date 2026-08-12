@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:06.994Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:19.893Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    302.4599914550781,
-    303.44000244140625,
     306.1300048828125,
     302.2799987792969,
     296.57000732421875,
@@ -24,11 +22,11 @@
     306.2799987792969,
     317.2200012207031,
     325.010009765625,
-    320.4599914550781
+    320.4599914550781,
+    325,
+    333.8699951171875
   ],
   "6m": [
-    352.1000061035156,
-    359.2200012207031,
     363.55999755859375,
     361.75,
     329.9700012207031,
@@ -158,11 +156,11 @@
     306.2799987792969,
     317.2200012207031,
     325.010009765625,
-    320.4599914550781
+    320.4599914550781,
+    325,
+    333.8699951171875
   ],
   "1y": [
-    285.1300048828125,
-    290.70001220703125,
     289.1499938964844,
     291.0400085449219,
     294.8699951171875,
@@ -411,29 +409,31 @@
     306.2799987792969,
     317.2200012207031,
     325.010009765625,
-    320.4599914550781
+    320.4599914550781,
+    325,
+    333.8699951171875
   ],
-  "lastClose": 320.4599914550781,
-  "oneYearReturn": 12.390834344770601,
+  "lastClose": 333.8699951171875,
+  "oneYearReturn": 15.466021844950436,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Cencora (COR) Stock Is Up Today - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tRlJxRE05NjVJN1Rka3pnSTdiaXU0Y2RpRm5VOG9CVks3LVpJZzFsVGw4MnNfYzd5UVVwZFdrYkhuM2hOZG0xMUtRT3ktdXhxS3ptRnBQY2xkRnB6TnVTMjhWZ0NJbWdKQmhZTlVFWWRYM1BteXhkWGF0Vlk?oc=5"
+      "headline": "Cencora Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbS1wOEs0NmlOelFBVlR4N3A1RWR6WG1KaGtwRVlsNmE2c0tpckk3S3FyamNmdGd3MUJva2kta09jUVNTQXlKWGE0bjdmbUdqSmNhZFVuY0RBVmU5dzBGLVo5SG9NVENYYjBjTEJRMy1RWm9kenFWUkUtTjlIaFNSZUV4elBDT2pEc3JrOGVKc2JuVU9IWmZJMENkN2tCZHFpYXlxcEEwbHpTX2hTYXI1MTlJZG5FV19fUk02QTA4c2ZJbUVTRXYxRnA0R1JhWktUREloVGVIb0o?oc=5"
+    },
+    {
+      "headline": "Cencora (NYSE:COR) Stock Price Expected to Rise, Wells Fargo & Company Analyst Says - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWDgtMDl3eklUa040U3RuM182dUw4NEh6WWk0Z2pDRi1NRGtmUGxrdnFLQm1mWXB2U0RiRTZVWjFHU3BEaldVb0h0NW9rdWFXbGFyVVd3dllpQm92TGt5Y21yVFduWEtBZGhQUnk1SWxnaWYwSDk0d3o2ZFU1NTU3VkljMGJiNFF0QlEyNEtNY1JVRXVZMEY2ME1GemhJWjl5OHB5cXdnTXZmQ2pqZmxsRXVWMVZWUW5uYUVicjJwdmd0eWY5Rl9hWmZUSQ?oc=5"
     },
     {
       "headline": "Cencora (COR) Stock Looks Undervalued As Its 167% Five Year Return Builds - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-25",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTNzWHFwQmtWRm1rcEdfUS00QnNreHI2bVhzWklqS09xMmxzM3dSemxXLURNa24tcjZXTTlSdjNhNWZwVE8yWEdsOHRibXdjcmYxT3FMbG44a0tJWXR6eXgyWkRWSkFuX2VEZ2J1VnpaVUlzd2lYMzQyS2M3Y0tSc3J0MDJCM2dOaHpTWDlKWlVoUlZBN05HYTdPMk5qZDFrVEE?oc=5"
-    },
-    {
-      "headline": "Cencora Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbWV1RmRCNldkVkp5dkExWlViT1ozR0hOTWJZaWp5cGF2VUtZM3A3WE5HcFlYNFFPZU9YWnJpS1lVYl9QTmItdVRMQnRlMnM4TC12Qzh3Wk5SNmxyVTA0NlhhRXVrd0l3ZzlMZW85azN5dk5XeHlIYVVnMjJab0dEMmVodmh0NlFOdTctSGZMQzNIMWM1dk12RXR0UVVjZjBoeUVZbjBYeWRyZjcycG1CQ3h2cktFUVRjQjhlcEZBVV8?oc=5"
     }
   ],
   "insight": "Tracking Cencora (COR)."

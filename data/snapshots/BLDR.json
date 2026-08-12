@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:01.290Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:14.918Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    74.54000091552734,
-    75.69000244140625,
     73.51000213623047,
     75.16000366210938,
     76.05000305175781,
@@ -24,11 +22,11 @@
     75.37000274658203,
     75.86000061035156,
     72.51000213623047,
-    74.69000244140625
+    74.69000244140625,
+    71.9800033569336,
+    75.0999984741211
   ],
   "6m": [
-    115.2300033569336,
-    114.4000015258789,
     113.2699966430664,
     118.55999755859375,
     123.80000305175781,
@@ -158,11 +156,11 @@
     75.37000274658203,
     75.86000061035156,
     72.51000213623047,
-    74.69000244140625
+    74.69000244140625,
+    71.9800033569336,
+    75.0999984741211
   ],
   "1y": [
-    132.1999969482422,
-    128.75999450683594,
     137.4499969482422,
     144.39999389648438,
     138.14999389648438,
@@ -411,29 +409,31 @@
     75.37000274658203,
     75.86000061035156,
     72.51000213623047,
-    74.69000244140625
+    74.69000244140625,
+    71.9800033569336,
+    75.0999984741211
   ],
-  "lastClose": 74.69000244140625,
-  "oneYearReturn": -43.502266137987704,
+  "lastClose": 75.0999984741211,
+  "oneYearReturn": -45.36194969695011,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Corning, Sunrun, Coinbase, Builders FirstSource, and Blue Bird Shares Skyrocket, What You Need To Know - StockStory",
-      "source": "StockStory",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNzU2bk52VHlvTWs4UHpHR2ZMS1llOGpKNzRpMFpOVUtFRDdKOTBYdlc5V20yWEJ6T3dCU2U1eFRlUmowTnI2cG1xVXVjM052emh3Y2sxQWFSZzZpTVlrTUxndUw0djJZaUVBbktCQ1g0YjY2dVNNN1FZc3V6ZkQ2dy0weGpiRGJZaUd4bVREaWVoODFqQjRsSlFRcEEyNy1IRGotQXVUUGVGNmFVVVlQbS1EOWlodEFpYU5LNVMyYTF0ai0wYU5wVDFFcTBPNDdQNUJISkNtak96aktlNWFLSl9sekM2eXEtajdxUw?oc=5"
+      "headline": "Builders FirstSource Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWUJwNl9ia0hieV9kdkNSNlh1UTJsVkNVRHY5c3U5UWl1OElBaWFGWl9fTkpLQjhBNy02ZmRzblJoc0tWblJURXlZRl9wd1A1OW9JNTM5d3VOUHdyY2FoaW1qS0NpMGt0YTliR2YxV3RvSENtVWJMbzE2aVV2R0NDRm9oa0NYRTc3SXNxeXIyY2RiekVoVWVnLTN4dWZDY21wQ3IzWFBKTUp5bGtvS1NoWGQzbEtjVTJyaWRKSmJlbVg2V19kTjhiWnFSSV84RWVzNnc?oc=5"
     },
     {
-      "headline": "Builders FirstSource Stock Down as Q2 Earnings & Sales Miss Estimates - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDU3QVlrdEpMRU00WV9FYU04SUxPT3dIb19LM2tLaUw2aS1TaEF1WG90M0pXSmNCdG9XeUhoNkgyTzVycWt6WWQ3cktMTmZ4RzdUZ2xfdzRnLVd5NjNYV3hVSS1tTTRCMUU5M1oxUmxzR0pjZHhRdTl5ZlRMUVBSZnZTWXdpNXVPaTl2UVpQRWQ1bC1CeVdiNHVHT0sySnpo?oc=5"
+      "headline": "Builders FirstSource, Inc. (BLDR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-08-08",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QZlBwYU0zbWNwaEhhZFpIaUtadTN5cTdTcVRCX25QbnIwSVpLT2k5ZXVNOFpNSy1CLWxzU2szQUNFVGpSdjUwelhFbTZjTFoycFE?oc=5"
     },
     {
-      "headline": "Builders FirstSource Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWUFUZVpNcU1zNjVoRFN3aE9sY1RYRUU2NGdESVBzMkhpa3VtMWxxaVRtakh6QnFiSURvUGYtSmRVVHFNQ242WGdiSld0NUdMeWZPaDItenUyVG5vcVpvNTAyTnN0T2xjaWNRbzhJVUxmWDZRNGRhQVFuMkFUX2JXcXFiel91eFZjcUJWWHMzZ0xPOURuMnBFSkp5SU90cVFfenNFUU50TjFtUXN0azV2N0x3bnVTZ2sxNmg3aTk4dms3ZlRwR0NTUlRoczdjdUVxU3NDbkRCX2ZiSFJHX1JzdFF5c2JTNzRTN0hCQlpGbG5PQQ?oc=5"
+      "headline": "Builders FirstSource, Inc. (NYSE:BLDR) Receives Consensus Recommendation of \"Hold\" from Analysts - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUTYwSzRoNjQ3OVhRNzB5bFN4T1V5djlCZGl0RldEaFBIVm84SDJXWmtrb1Y3RFpyVlAxal9fUnVTSG5zenRVMmpaUm1NN2xRb3pxeE8xSUw5bEx6aHMtVFJmYUYtMGpTSTlnakJaSml2Yi1VY0h5bVhLT3RNWjY0UFlMMmcxN3oxRnRDeC1weFlBWW1ITkZnRHNvNFhPdDBfMnl6NHRhbFBFcl9nR1FBWXdlZGJnemtjWnhkUFdzem9uT3NsWnlNVlBWWjVjamhwOHo5Z2VNNDlzOWs?oc=5"
     }
   ],
   "insight": "Tracking Builders FirstSource (BLDR)."

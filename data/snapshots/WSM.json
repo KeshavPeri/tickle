@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:46.650Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:55.722Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    219.77000427246094,
-    221.75,
     216.64999389648438,
     220.33999633789062,
     222.83999633789062,
@@ -24,11 +22,11 @@
     248.8800048828125,
     248.24000549316406,
     246.88999938964844,
-    251.77999877929688
+    251.77999877929688,
+    250.82000732421875,
+    250.58999633789062
   ],
   "6m": [
-    205.66000366210938,
-    204.64999389648438,
     214.02999877929688,
     216.02999877929688,
     215.8300018310547,
@@ -158,11 +156,11 @@
     248.8800048828125,
     248.24000549316406,
     246.88999938964844,
-    251.77999877929688
+    251.77999877929688,
+    250.82000732421875,
+    250.58999633789062
   ],
   "1y": [
-    199.4199981689453,
-    200,
     206.97000122070312,
     210.1999969482422,
     205.44000244140625,
@@ -411,29 +409,31 @@
     248.8800048828125,
     248.24000549316406,
     246.88999938964844,
-    251.77999877929688
+    251.77999877929688,
+    250.82000732421875,
+    250.58999633789062
   ],
-  "lastClose": 251.77999877929688,
-  "oneYearReturn": 26.25614336130574,
+  "lastClose": 250.58999633789062,
+  "oneYearReturn": 21.075515707550863,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Williams-Sonoma, Inc. (WSM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oMG1vZWQzWHpLOFNrMDl4RG51WkwxQjFGNXBXbkgzVlh4VWktQWFyeTJRdXVOYWNNdE8zN1FIMUhsTG15UjQ4RWx1bW9qR0hu?oc=5"
-    },
-    {
-      "headline": "Williams Sonoma EVP Karalyn Yearout sells $250,000 in stock - Investing.com",
+      "headline": "Williams-Sonoma stock hits all-time high at $253.46 USD - Investing.com",
       "source": "Investing.com",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVJHd01mdGZzcXdxOURKeUtKQVRsQ3lYaXNfVXpzWVhzWDd4U2dGRC1fNnRYbDVHTnNCYmdTSUdHM2ZZTk9KUUZOcGw4NVJTbkhSbi04TGg0dVdMV1RSUkcxY3ZmcVlKbHlYczNJeGNpNU9JZzlYaFlNQ1U0cGItbUFuY2l3T25XbTNNMGdaYTlVQ1BHbVFXb2QxWVNRcVFVTlY4TG1mZS1SNDFVdUFNQ1E2VmZacTExaVBNaGdEOA?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVFkSkt2VllLV1dnZDBmRTJtSGkwWnFZNmFaMUNzVlFWLWYwNVUzUHVyUjRiSjdxMnh3aDhYUUFFczFWNGswSDZ4S2tFVDR0a2NleTR3b3hKQk55cEI3VTJVeUJmallRdW12b3lVem1LQzh0VEphZFBhWnpTOEJVZVJKWDRQcFdKQklLRkdHNjNaSy16bnRVeGp4UThyV1pGRExnVDMxWGUyMUhq?oc=5"
     },
     {
-      "headline": "Royal Bank of Canada Sells 13,098 Shares of Williams-Sonoma, Inc. $WSM - MarketBeat",
+      "headline": "Williams-Sonoma (NYSE:WSM) EVP Sells 522 Shares of Stock - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbkNmNlF1dE1WWlVvbE0ydHh0UFYyNXIybndkQVJwWDF2QzBFcFlIaFRXQ3BVbjlyZVJzMHhWT2tmVmVPUEdLWHpySDNiNERQWlVtMDZyN1FGOVNVdGJZWGNleHhJSGIzU05NalV2ZU9idVQ5VXJmZWpkaEhKNGkwUGFiUXZwT1otNERhSzZNLS1wYkNzX0VUcXJSQXVVRDQzM0VaNTNGTE1kdC11UjVOa1N1QWRHVjI0ek5UWjFtYkZYSDh6ZHc?oc=5"
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZTI4aDlremhnSzB4eXNVY0VwdTN0OG1pczVYSUt3WkNGSm1JQXdaZGI4bXFFdGVLRWZGa005WGlGS3Rrd1JhdWQwT3BrWEtfSDhCYzM1ci1NNDJxX01BQ3YxV1Z4dXBIZlJjOWdXSnJJMmt0WTNHVi1IbWEzOHF3T2hnSlBDSUNnSWd2cUVVWG1qTHd1Y1kwc2VEYWZXWG1xekdZQ0VIZmRyZVE?oc=5"
+    },
+    {
+      "headline": "Williams-Sonoma, Inc. (WSM) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-21",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdlpaVk9BeUg2Q0JsbC1takJkWmdXR0ppZFBnVVNLNThuRW5uU2RabXlTc1VIZGpuczBRV21sVEZIX1FENk81akp1UXdqa1NwV2NzM2tuSHF0eG5mMVU2aFRQZ0Z4ZUJKUEhGUDhSOWR1eXZ2ZC1mNlp5UUgtbTNnZnl6bDIzNlZiM2l1dWszSXlvSjNCUnhma1dJNUQ4QQ?oc=5"
     }
   ],
   "insight": "Tracking Williams-Sonoma, Inc. (WSM)."

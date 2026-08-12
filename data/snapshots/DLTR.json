@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:11.812Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:23.973Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    120.91999816894531,
-    124.91000366210938,
     126.37999725341797,
     124.55999755859375,
     127.02999877929688,
@@ -24,11 +22,11 @@
     130.7100067138672,
     128.75999450683594,
     129.67999267578125,
-    130.89999389648438
+    130.89999389648438,
+    129.3699951171875,
+    128.05999755859375
   ],
   "6m": [
-    117.30999755859375,
-    117.58999633789062,
     117.22000122070312,
     119.69000244140625,
     121.83000183105469,
@@ -158,11 +156,11 @@
     130.7100067138672,
     128.75999450683594,
     129.67999267578125,
-    130.89999389648438
+    130.89999389648438,
+    129.3699951171875,
+    128.05999755859375
   ],
   "1y": [
-    116.12000274658203,
-    114.29000091552734,
     114.05999755859375,
     115.4000015258789,
     114.62999725341797,
@@ -411,12 +409,20 @@
     130.7100067138672,
     128.75999450683594,
     129.67999267578125,
-    130.89999389648438
+    130.89999389648438,
+    129.3699951171875,
+    128.05999755859375
   ],
-  "lastClose": 130.89999389648438,
-  "oneYearReturn": 12.728204271711826,
+  "lastClose": 128.05999755859375,
+  "oneYearReturn": 12.274241889938724,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Dollar Tree Inc. stock outperforms competitors despite losses on the day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR1B5cS1hVU9QeEdkdkswMHU1UG1qY2NCUFJPR0FiUEJBZW94MHgyakQxY2k2ZXFVeU9WWmVZV0NOTDhyZ21RckhYbnZmamhidmNtNWtFSFhLaWJ4RWhGNmh1dm1oQmc0ek1mWkttZkdESW9qbFB6eWN0Y0c5X3MzZWg3YnNHNXo4NGtZMms1WVVGbDdWUmk5dHhpdG9XdVhlRzBxdVRkaGpWQ0JpY2RmQWkwTkpwaWJmMUxwQV9TMndwZTYzTWxnM1NIUQ?oc=5"
+    },
     {
       "headline": "Dollar Tree Stock May Not Be a Good Bargain This Month - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1ByS0h5aDd5NUFLVFpibXQ0cW4xMjJCbFd4WkQ3YlF1R2d4SzJHRml2V1pKWTRWMFdTMWhObE9ZcjF6blNtbU81ODdiQlNJWkJGZ3k2bUtmWmtuOFZqVXFWbW9VeFJsUGhIR1ZXeGJpV1NILVEzYldhc2toNWV0eEwyX25yMFliUmZRWnlNS1FuOUNz?oc=5"
     },
     {
-      "headline": "DLTR Stock Eyes Best Week In 4 Years: Wall Street Revels In Discount Retailer's Earnings - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY1l0V0FGb1lpYm9xTVUyeW9uVHJQVl9pX0RkR1RmdU5IT2J6dUs5QkVlUWE2NDh2b1F0X3lGeTNGSmIwVlhkMm9sV1Rpa3lWMnFEdHIwSnNsNEZsUTZCdTJKVGdPYUdyanowVUF6UGd0aDY5RXlLQ3JJdFZTMzVkdWZqUWYzN3BkUllvbHpKakJUSnhpaXlaLWEtcU1nWElraUJyTURKVXNnYWJSU1U1eExZa1d4SHI4N2F2SERISU8tYjRVWDJTQ2ZPeHgtRm53a2N5VUJnU0pUcTFMeGNacFdWdGp5U0E?oc=5"
-    },
-    {
-      "headline": "Why is Dollar Tree stock gaining today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlVwc0pEUjQ2THNIbDlvODl2QmVwZ2lFRU5CdC1QRGRCWUs0SGhJbFBwUktWcGZ4aWFrWVhXOEoxQ2IxTV9BQ1Q0WDFaM2l6RUtRSXJmdDEtSHFBN0twNVRLa1NaZGlPblcydGhneFlOZktLX0V5OXVCWnVaejd6ZDEzR3R0cmVQV2dodHZBMWFBQ0pNZWFyU1ViMWNrUzQ0WHc?oc=5"
+      "headline": "Dollar Tree Announces Secondary Block Trade by Selling Stockholders and Share Buyback - Dollar Tree",
+      "source": "Dollar Tree",
+      "when": "2026-06-25",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcExIYlc1QTZvSlIxSF81Z2tENmx0SUI3OHFlUFdSZGVaRUstT2UwUEE2SmpVWkZHdXJxZGhMeXJQa3BEUE41REpwbUoyOXhLZ2ZUNkMwZW43eWxJWXZyTlhmcXJkVVFjVW51MkFWeVdKQVhZaUZ1X3FnOHlMN1JOM2xtaWpkTmJhU2VBX0FGcEFSeHU1QWotSHdkWVItLWpDczFKZzMtSmlRb29kMGx2T2hpblFXeUowRWg0V043TzBxQQ?oc=5"
     }
   ],
   "insight": "Tracking Dollar Tree (DLTR)."

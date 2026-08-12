@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:08.870Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:21.560Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    177.69000244140625,
-    179.63999938964844,
     183.75,
     184.3300018310547,
     192.3699951171875,
@@ -24,11 +22,11 @@
     203.64999389648438,
     201.39999389648438,
     202.14999389648438,
-    203.0500030517578
+    203.0500030517578,
+    202.7100067138672,
+    205.27999877929688
   ],
   "6m": [
-    189.64999389648438,
-    191.38999938964844,
     190.91000366210938,
     190.72999572753906,
     192.61000061035156,
@@ -158,11 +156,11 @@
     203.64999389648438,
     201.39999389648438,
     202.14999389648438,
-    203.0500030517578
+    203.0500030517578,
+    202.7100067138672,
+    205.27999877929688
   ],
   "1y": [
-    226.27000427246094,
-    223.8800048828125,
     223.30999755859375,
     225.10000610351562,
     221.36000061035156,
@@ -411,29 +409,31 @@
     203.64999389648438,
     201.39999389648438,
     202.14999389648438,
-    203.0500030517578
+    203.0500030517578,
+    202.7100067138672,
+    205.27999877929688
   ],
-  "lastClose": 203.0500030517578,
-  "oneYearReturn": -10.262076626269462,
+  "lastClose": 205.27999877929688,
+  "oneYearReturn": -8.073977419916469,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Cintas (CTAS) Stock Looks Reasonable After Its 106% Five Year Run - Yahoo Finance",
+      "headline": "Cintas Corp. stock underperforms Tuesday when compared to competitors despite daily gains - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRjRNd0hFZEZJclVuOHd3a1FvZzQ3ekpOZ0NUcGlKT0gxa1h3ZjFGTVhhWk5PeXY4MnpOdExDMWhEVWFTZWRTSzh1Y1JMRWl5RTFxcUZsZU13eTdXVWZDUnMxRVMxYnlVbTBnTmVKX2RpQk5FSG5paks1N1A4dy02NmNMbTNRZzZzRUIzZlk0S25yeHFNUEJpNGZlY2MtcUZ2b29lVTBCeWUtbExYcVdoLWtFRHRfTGVlY0w0QnJzb2cwT1BuSUROd28tMlVScEh1a1BrM0EzZTg5U0ZnZmlKWkZmQVhwWVZja3dCenpXSzlDYy1lZ1ZLWVZB?oc=5"
+    },
+    {
+      "headline": "Cintas earns second straight spot among U.S. News’ best workplaces - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONFp4UFdGUzBkTkJCc2RyaEp3YlQ0QzlvUWhfUHdoZWVwVWo1elhBNG1rWUJaT1I2QkhnRzhJWXk4YkR5SmtXbzFCZzlibkFGb0t1VHJ6Qjloc01HcDZYQlJsb21YcDhaclR6bHFWcW9nUWcycWlYSVVMeWJ3MVdxbWpWZGN2Z3YxRWlfZ1hoYjg1aGdDSHoyb1VhZzZoU0UwUDRRWndPZms5MWhEcWhyeWpRLXFkaHVLZjZhLUhObVU?oc=5"
+    },
+    {
+      "headline": "Cintas Corporation (CTAS) Looks Attractive After Weak Share Performance - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3lfTEE0Vm9EWG0wUW53M2tUWUM4a0tMeW5CelU5ZDRFQWxtZTJJUm1Vdmk4OG9UWmlDOVBYQVM2RUVIMjlTR3p2Vk04ZzVGcGxGRk9fYXVpQUliTVNIc2Zsd1BNbXRHTVR3VTB5WG5vSFlud2xBdTVPNzh4V3B3MGdQcVlMdzBxV3JualhtWGEzWEszNEctclE4UjQxM09X?oc=5"
-    },
-    {
-      "headline": "Cintas Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc1V3YkJERVFZYkNJbnFPUUQ2ZjZjNEV0dXZ0Yi1UNDMyQ3lLMEptSWdHLWZUbWhYTjhOSjZ5Vno3MTV1S1I2NjR5M21KbE9DZzJMMDlJeXpmTGNCdF9UVUxHZUp3OXZnTmJ3cW54RExSbW5uS09OUWpVdF9tVzNfUDJfaGdQQWpVbkdnVVJJSEp3TlpoZ242eEdDenM1M1B3Q2p0R0RheGRuNVB4UExSNnVpNDlrNWF0U2VUek1lNU9scVROeENPTkF3?oc=5"
-    },
-    {
-      "headline": "Cintas (CTAS) Names Jim Rozakis President - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZnpsMHVPcEFQaHYtYmdyTWhaOHR4OGJnQ3BPc0UxeTZ5YUN1V3JrelF2X2k0NWwyWGdOc09aVkNGYmo3cUpONFpYMDVMeWpKMnk1RmpRYzdzS3ljZlliT0J6REJFRzl0SjhUZEhheVNXNzVyckcyTmFBeDlnZ2dqZU1TT0Z5ZTl5MkZyaElkbzNCYWJoRGJVUFN6ZEFSd1RZNFdnODdXY3lyUUpBU2sycXhRVlhOZDhaSDRv0gG7AUFVX3lxTE9memwwdU9wQVBodi1iZ3JNaFo4dHg4YmdDcE9zRTF5NnlhQ3VXcmt6UXZfaTQ1bDJYZ05zT1pWQ0ZiajdxSk40WlgwNUx5akoyeTVGalFjN3NLeWNmWWJPQnpEQkVHOXRKOFRkSGF5U1c3NXJyRzJOYUF4OWdnZ2plTVNPRnllOXkyRnJoSWRvM0JhYmhEYlVQU3pkQVJ3VFk0V2c4N1djeXJRSkFTazJxeFFWWE5kOFpING8?oc=5"
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSlJ0ZVFpdUZ3U3pqR2R2QXM3WUpSUzVxWnN3NXA4NmVCSDNwSUlIb1VNY0pQaS1YMHdOZ244YU5rampGRS16QV9NdG9tY3ZsdjYtZ3p5QVJONkdreHRBbm01UmNaVlhiRmZSU24wdnlvZV93c05wZ21fYi16TFJnTHoxd0U1TlR4Mm5keWNGWkUzR1AtSmdCVERqQUNKTDg3Vk90VVRaRXI?oc=5"
     }
   ],
   "insight": "Tracking Cintas (CTAS)."

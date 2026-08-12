@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-08-10T03:27:41.386Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:50.804Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
     71.56999969482422,
@@ -11,8 +11,6 @@
     74.27999877929688,
     73.62000274658203,
     73.41000366210938,
-    72.20999908447266,
-    72.80999755859375,
     71.7699966430664,
     72.9000015258789,
     75.30999755859375,
@@ -24,7 +22,9 @@
     79.08000183105469,
     79.25,
     78.66999816894531,
-    78.58999633789062
+    78.58999633789062,
+    78.19000244140625,
+    78.47000122070312
   ],
   "6m": [
     73.37000274658203,
@@ -145,8 +145,6 @@
     74.27999877929688,
     73.62000274658203,
     73.41000366210938,
-    72.20999908447266,
-    72.80999755859375,
     71.7699966430664,
     72.9000015258789,
     75.30999755859375,
@@ -158,11 +156,11 @@
     79.08000183105469,
     79.25,
     78.66999816894531,
-    78.58999633789062
+    78.58999633789062,
+    78.19000244140625,
+    78.47000122070312
   ],
   "1y": [
-    69.43000030517578,
-    69.5999984741211,
     72.36000061035156,
     72.58999633789062,
     72.83000183105469,
@@ -398,8 +396,6 @@
     74.27999877929688,
     73.62000274658203,
     73.41000366210938,
-    72.20999908447266,
-    72.80999755859375,
     71.7699966430664,
     72.9000015258789,
     75.30999755859375,
@@ -411,12 +407,20 @@
     79.08000183105469,
     79.25,
     78.66999816894531,
-    78.58999633789062
+    78.58999633789062,
+    78.19000244140625,
+    78.47000122070312
   ],
-  "lastClose": 78.58999633789062,
-  "oneYearReturn": 13.193138401919317,
+  "lastClose": 78.47000122070312,
+  "oneYearReturn": 8.44389242511627,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Do Wall Street Analysts Like Synchrony Financial Stock? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWU3cEg0WDc0ZWRZdFg1MTVFLTVIRXJVTW00MnYySk1uSkQyRWw4elRPamFYbjdzOTluYjJNdGJTQ05OS2dDeXpYOWxSLWd6cEN2ajMtNnUtdk8wV1F4OTJWQUt1WTl4cFJSbUczbUVoa21uOXhFZTVrV1Bpb1llaExEaERoZGRkRlFjMFhSR1ZETENLQUZlTVdHYnh3ck0?oc=5"
+    },
     {
       "headline": "Synchrony Financial (SYF) Stock Looks Discounted on Earnings as 145% Return Tests Value - simplywall.st",
       "source": "simplywall.st",
@@ -424,16 +428,10 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLUtCdF9mdFB5eHFXT0oxZGFKaWhaTXNpUm9hT3RucEpRNTJ1QnVtV3NiZzllSk5JaDhYclVTLWdXRHRTM3k0OEcyd29SVUh6MENBV2NpTUppVW9rb0ZvQ0NoWFdQcGlFazR5YlM2emlxYUNsWjZNdzRXcHdCNmtiX1BycC1MUnBGRmQ0Ml9LWWpmLUhPQnVQSzhLSWtqRWhucDhWdnU4NktPNUktVS0zMEpseENSZ1pvUHY2dnJJUHFka0ozblhWSzJqLWd5R2l6T0xYSWd5RDM1VF92aXY4VG5DMNIB6AFBVV95cUxQdG5LeUl3UjhqUm13VnRmenRMbUtPbEhrQzNyV3dxTXJMRkZzc3hXdU15WDRuSFB1b3QxaDZnNlFvUUNNNXM2RHRXZVNFVmN6WUQ4TWxwT3lmN1IxOW5FSzNSYTY2bDhNNmwxcUFOVDBzV1J0UUJKYWg5eWZ4QXVmSnVEUndxdk9Ha2RFcnVBN0Q5bXhpTThVMWc4aHhRYy1ZWlI4VGJjbjdSNjlDNm9FSHJpQkcyWERiTElFSC1DNnBaSWFyUG5mWUQ2N1B3RUE1RFhRT1ZYZVVMS2g5TFY5bW5zY0oxN1o1?oc=5"
     },
     {
-      "headline": "Synchrony Financial stock rises Tuesday, still underperforms market - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSGo5eGlvLXZCMFlsdlRyalpTSTF0WGp0cThlVmtBTW9aRjdIYVhmYTJQTGdISUl4YlV2c0xNbF9xSEluWG9UWWdYcGFlbHhhX0Myc0VTbDliY24tTDZ0MHk4NDhISXhYSzkwVW1UdlY0RUZPVHY4MjJJYXZXN1hKVGNRNjR3QlVMRDJNNlhFQUFXN3VsQVZLN2tiM05zV0VrVnBvTVFKRG5nSVVySV9GZnliWVdsdWdkWk9takdqVFJEUHZH?oc=5"
-    },
-    {
-      "headline": "Synchrony Financial (SYF) Stock Forecasts - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
+      "headline": "Do Wall Street Analysts Like Synchrony Financial Stock? - webull.com",
+      "source": "webull.com",
       "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcW16NkdVVnlDM2NGVmFPaW9uOUg0NlQ4Wk9feHM5SDVIakxaZmV4dXUzZnRFd1k0OUw5RjJTaWdFYlNBYlVreWp4ZmlFTHo2c3p6NnVSNzU4ZkxhVUVCSEJKMFh0SGF6eFNWRTlCMVBwMEpyUHk2R0xaOWpPM2E2UVY2d1RRdF9aRUhVWW9rblRzSHc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GTDdtV1NPZVJhdmJqNWVyU0REeUtWcDd6anI1bjhpazVrX0k3ZnBfM2VIeHA5NTVHMXQ3SS1vODVFUWxIQnR2a3F0TkZDdUEzT2k1TWhqNl8?oc=5"
     }
   ],
   "insight": "Tracking Synchrony Financial (SYF)."

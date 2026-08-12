@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:43.281Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:52.736Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    337.4800109863281,
     338.9200134277344,
     341.510009765625,
     336.8299865722656,
@@ -12,7 +11,6 @@
     368.9800109863281,
     368.5,
     369.6300048828125,
-    372.0799865722656,
     376.3699951171875,
     387.260009765625,
     390.3500061035156,
@@ -24,10 +22,11 @@
     377.1499938964844,
     382.45001220703125,
     386,
-    384.30999755859375
+    384.30999755859375,
+    375.6199951171875,
+    375.6099853515625
   ],
   "6m": [
-    284.2900085449219,
     284.510009765625,
     285.6300048828125,
     288.2300109863281,
@@ -146,7 +145,6 @@
     368.9800109863281,
     368.5,
     369.6300048828125,
-    372.0799865722656,
     376.3699951171875,
     387.260009765625,
     390.3500061035156,
@@ -158,11 +156,11 @@
     377.1499938964844,
     382.45001220703125,
     386,
-    384.30999755859375
+    384.30999755859375,
+    375.6199951171875,
+    375.6099853515625
   ],
   "1y": [
-    264.8699951171875,
-    264.260009765625,
     263.92999267578125,
     269.29998779296875,
     268.5899963378906,
@@ -399,7 +397,6 @@
     368.9800109863281,
     368.5,
     369.6300048828125,
-    372.0799865722656,
     376.3699951171875,
     387.260009765625,
     390.3500061035156,
@@ -411,23 +408,25 @@
     377.1499938964844,
     382.45001220703125,
     386,
-    384.30999755859375
+    384.30999755859375,
+    375.6199951171875,
+    375.6099853515625
   ],
-  "lastClose": 384.30999755859375,
-  "oneYearReturn": 45.09382136265073,
+  "lastClose": 375.6099853515625,
+  "oneYearReturn": 42.31424838971294,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Travelers (TRV) Stock Looks About Right As Earnings Support Holds - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa2ZBM2R5Z2UzTjh4Yncyd0I0RXFQQmlGU3NYaXRVT3QzRG9TQWZiclZFQURSdGR2NHJYZDU3RTdKNWlsNms1MnlKeTE0VVB4clRRLTI0cXZxTzUzam5CRDlhdWhNWlFTcld2R1QtSU10THl3Wl9mTW1NaC04SzhVMlVQTDRBTWUyd3FxMFViZzdIZW92akNHZllqeF9iZlRMeGVBbUFlZFI2RGZicWxWNmJORVpNU2FvNGVORHgyRFBfNElSZ1RoaXZWaUFlaEJsUXfSAdcBQVVfeXFMTzhySVprTnJjck5Ua2NoU2ZGcFBiOUNGZERYbU5ucGNBVGk3WC03Z2UyaFFUVzBVRWxBZTN5eThHcENOVGk0Q1pWYzdmQnpGVm8yRUZyQzBId1k0czhqMlh0aTg1dk9VVGg2azI1NVZtbUhsVHJJazRDYklCQjlITHRPMlZONE1rNUdhOHgweUFxVS1qSUFMcmFXZzFJX1VGZ0M1bndZN2JjVzRYZDkyb3dMWVE5STlGVm5HQ0hjLVhwOElEZG1TczBoNXppM2hEcjR5ZWc3emc?oc=5"
-    },
     {
       "headline": "Travelers (TRV) Stock May Be A Bargain On Fair Value Yet Fair On Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-25",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFpFWXdSSURIWG56YjNGUkpvT0xZT1BDM055dFRpVTRHbG0tdkpwdy1jcnAxQ1FTU1dJajB4SlE0emdkRTVsX1dHZkt2RkF1Qy1DVThPczBVeS0wZE8xUEZGajVQQU5mZlpBTi1za3lJeDU5X3AzdWw3RC1KVkNmTVQ2c2xvMmVNRENJd3FxRkk0QjQ4MHkwS01PemY?oc=5"
+    },
+    {
+      "headline": "Travelers (TRV) Stock Looks About Right As Earnings Support Holds - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa2ZBM2R5Z2UzTjh4Yncyd0I0RXFQQmlGU3NYaXRVT3QzRG9TQWZiclZFQURSdGR2NHJYZDU3RTdKNWlsNms1MnlKeTE0VVB4clRRLTI0cXZxTzUzam5CRDlhdWhNWlFTcld2R1QtSU10THl3Wl9mTW1NaC04SzhVMlVQTDRBTWUyd3FxMFViZzdIZW92akNHZllqeF9iZlRMeGVBbUFlZFI2RGZicWxWNmJORVpNU2FvNGVORHgyRFBfNElSZ1RoaXZWaUFlaEJsUXfSAdcBQVVfeXFMTzhySVprTnJjck5Ua2NoU2ZGcFBiOUNGZERYbU5ucGNBVGk3WC03Z2UyaFFUVzBVRWxBZTN5eThHcENOVGk0Q1pWYzdmQnpGVm8yRUZyQzBId1k0czhqMlh0aTg1dk9VVGg2azI1NVZtbUhsVHJJazRDYklCQjlITHRPMlZONE1rNUdhOHgweUFxVS1qSUFMcmFXZzFJX1VGZ0M1bndZN2JjVzRYZDkyb3dMWVE5STlGVm5HQ0hjLVhwOElEZG1TczBoNXppM2hEcjR5ZWc3emc?oc=5"
     },
     {
       "headline": "Analysts Conflicted on These Financial Names: TransUnion (TRU) and Travelers Companies (TRV) - The Globe and Mail",

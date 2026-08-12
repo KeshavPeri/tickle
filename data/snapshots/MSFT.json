@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:33.266Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:43.788Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    384.3599853515625,
-    385.1000061035156,
     390.989990234375,
     384.92999267578125,
     395.6300048828125,
@@ -24,11 +22,11 @@
     492.80999755859375,
     487.4599914550781,
     499.8599853515625,
-    499.989990234375
+    499.989990234375,
+    506.05999755859375,
+    503.80999755859375
   ],
   "6m": [
-    433.5,
-    430.2900085449219,
     423.3699951171875,
     411.2099914550781,
     414.19000244140625,
@@ -158,11 +156,11 @@
     492.80999755859375,
     487.4599914550781,
     499.8599853515625,
-    499.989990234375
+    499.989990234375,
+    506.05999755859375,
+    503.80999755859375
   ],
   "1y": [
-    522.0399780273438,
-    521.77001953125,
     529.239990234375,
     520.5800170898438,
     522.47998046875,
@@ -411,29 +409,31 @@
     492.80999755859375,
     487.4599914550781,
     499.8599853515625,
-    499.989990234375
+    499.989990234375,
+    506.05999755859375,
+    503.80999755859375
   ],
-  "lastClose": 499.989990234375,
-  "oneYearReturn": -4.22381210655361,
+  "lastClose": 503.80999755859375,
+  "oneYearReturn": -4.805002105853627,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Microsoft: No Dead Cat Bounce Here (Q4 Review) (NASDAQ:MSFT) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHplRjBGLUMyNmpDQlc5b1Q4c21pOGNBWHhqVzhOdUJSbzhaS2d4eG5sOHZRb0ctNjRTMWdaNUZJaEo0dTV6RXY0VGtmWkpad1piX2wyZnduYVdrOHVycUpKZjg1Sms1SVFRd3MyeDZZV1BBN0xsTzZSWHlCMF85bF91dk10dnJhdXBTcQ?oc=5"
+      "headline": "After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "source": "Morningstar",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjBfRnY0TGNTZklUb01LVDl2dmNiX1ZfUDdiM0pMNldvR2F5MWhzMk41UTBTS2UtbUwxWmN0dXYyNUtLR2sxeWV6bVRRYUVvOWpOVTNYc2xZLXVkaG5zcTR6Qi13eWFBNERrM3M2WjZYdm9STldxSDFlaW9ncGloUFZFdUttLVFraERQMXNjcFN3WTYtUnpEWDRRcHRveWNsZ3VPNHY1YVM?oc=5"
     },
     {
-      "headline": "Microsoft Corporation $MSFT is Fairbanks Capital Management Inc.'s 5th Largest Position - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOGZlZ3RqRU9ta0ItM09EUDdVQnBaWVlhYUNrZkM0WG1xcjExZmJQOE9KRTdaaDc4WUFJVWtzNURKOUxESmxJZWZGUlVjeE93bGJNWEhoNk9sRzhqcWpLT2ZzZ3hkTmozeG9pUHZtSXRqeGtPWWRZS2MweFNNY0FJS2pWakJQaGdBQkMyVVhBWVdyNXQ2cUVNUFRXSHNCemlsem5qdG9yMWVRZEFZTERrX3loeXZydmtNVjExQVlKQkVOekJCN2I2Z1VkOUpvUlU2TWVVZ3NRdWlCa05DUHc?oc=5"
+      "headline": "Microsoft stock just cleared a big hurdle but still trails the S&P 500 - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVEpDSHI2ekgwei13NHYtQk9OVTFINTJMUW5mZjJySjJQR3VDR0dTdVJkd1JucGR1dU54amFUM0ZnZ2FzLUxabzlMVXJpY3JJcG5GdVVCTjFZSkVvLWd4NzY3U3hLZjhVR2Z5T2pmYkZiaEtWMzA5X29NMGptYkxZS01vdXc5WXdpdndfbHU2UU14aTIzM0laUWJfSzg1ekt2RkM3NlN6dkJfVWxEZV80SzQ2SF9kRzd1MHFHWGNOaVktaXh4ZzI2c3RjTTR2UQ?oc=5"
     },
     {
-      "headline": "‘Position Yourself for What’s Next,’ Says Top Analyst About Microsoft Stock - TipRanks",
-      "source": "TipRanks",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVZzei1mLWdaTEZyemtJWHA2cEJVY2x1VjgydVhpa2lGQ0xyTnYyN2htdDM2dTFsSE1yX3JWTk9oaW9QVUxfTTNwSzdWODg4UThGaWNERE84M2g5UXA0VHZzSHg5cDVtdXdWcl9JN2Y3YURZclNELTcxeS0yQVFOVjluS0NZSE5aLUVkSTEzbWdZMjBRendadmVQUE95SzNkem93?oc=5"
+      "headline": "Microsoft’s stock is charging back. Here’s the case for it to rally another 30%. - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkhzME9NRF9RLWw2cF9EblFxMExvdU5JZGRPcnpIdjJsZjc0SWxOd3NCQm5GWjRJY0RkeklEbGFCOU1ZclBNbzBaVE5ISm03UWVNaWRKVkxDWVJUMjJaNDh6bVdncHk2RkY0RnE3R2EzZ1EtWHVULTRDU2R0LXdEV3gwVm4yZGMxQzZlTGFaUE9LYUFncUJueTdQWERJU1FRVkFTUVR6YXdIQ3lwQ05kbUl6aEpjX2tzTEE?oc=5"
     }
   ],
   "insight": "Tracking Microsoft (MSFT)."

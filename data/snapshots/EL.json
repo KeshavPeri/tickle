@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-08-10T03:27:14.396Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:26.252Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
     81.98999786376953,
@@ -11,8 +11,6 @@
     82.83999633789062,
     82.12999725341797,
     83.63999938964844,
-    82.37000274658203,
-    82.62999725341797,
     79.91999816894531,
     80.29000091552734,
     83.19999694824219,
@@ -24,7 +22,9 @@
     86.97000122070312,
     86.95999908447266,
     85.48999786376953,
-    88.3499984741211
+    88.3499984741211,
+    87.19000244140625,
+    87.77999877929688
   ],
   "6m": [
     115.20999908447266,
@@ -145,8 +145,6 @@
     82.83999633789062,
     82.12999725341797,
     83.63999938964844,
-    82.37000274658203,
-    82.62999725341797,
     79.91999816894531,
     80.29000091552734,
     83.19999694824219,
@@ -158,11 +156,11 @@
     86.97000122070312,
     86.95999908447266,
     85.48999786376953,
-    88.3499984741211
+    88.3499984741211,
+    87.19000244140625,
+    87.77999877929688
   ],
   "1y": [
-    90.69000244140625,
-    89.13999938964844,
     91.69999694824219,
     95.26000213623047,
     89.5,
@@ -398,8 +396,6 @@
     82.83999633789062,
     82.12999725341797,
     83.63999938964844,
-    82.37000274658203,
-    82.62999725341797,
     79.91999816894531,
     80.29000091552734,
     83.19999694824219,
@@ -411,12 +407,20 @@
     86.97000122070312,
     86.95999908447266,
     85.48999786376953,
-    88.3499984741211
+    88.3499984741211,
+    87.19000244140625,
+    87.77999877929688
   ],
-  "lastClose": 88.3499984741211,
-  "oneYearReturn": -2.5802226312619245,
+  "lastClose": 87.77999877929688,
+  "oneYearReturn": -4.274807305781983,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Estée Lauder Companies (EL) Launches Glimmer, Is The Stock Still Undervalued? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaXpheTM2b1FsUnJ0X2l5RzFETjgyM0U1Nll6cGRfRUJUdndERTNjVnFzU1VJZ3d1M1lsLU5oOTJVa1dHSjBQYmhwMXpCRkVLZzJqdEFnUFg4N3FYQzFhOXI4SVVCZHY0dDRJMVhWVkpxTGFBRnFfdEhOMHVJTkxaMVhwWlg5WWtuMUtONVZCVDRKay1PVHdpOWVoYTJRbzhnaWdmQUZDa2ZyUTZISURuNzBOWW9nMl9vYnlVNk1ieEkzaUl0N3J6NEo0eERmZVBaeWsyedIB2gFBVV95cUxPV1VLcWM4LXhGY3Rhc0N3bXNQZVFXdHlQQ3d3em9oZng3cWZ3YjEzS1ppSGlJY1FOM0dELVdTSnBvWG1wd3A5T2tDakkwU1IxRS1QckVKeXZUTmJucE1HWDJZcDN5V2tlX2Zqa01zNFVlYmpaTVBZRFptcnd0bmdGckJLV1NnYXlVeGtKa2xCWjE2dUJMcTJXTHF2Tmgya2ZJTmx5RVV3Ry1wYmNGNUkzYVhLaWo2aFYxc2dMLU5taEtLVklkT25XV3FKUFVMLXhRcFFEdm5pYmdMUQ?oc=5"
+    },
     {
       "headline": "Estée Lauder (EL) Stock Trades At A Discount To Fair Value After A 72% Fall - webull.com",
       "source": "webull.com",
@@ -428,12 +432,6 @@
       "source": "Yahoo Finance",
       "when": "2026-06-20",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUldGU050YU5Ccl85MGpxdEdCZVdMajN5Y1RrdUd6S09zUFAybUJiM2FZNzc3QmhMWVpBVmp0LTA5czZjQUpwWFdvRGxIN2NFYjJnOEFmY1lkbXdadVRNNHR6NzF5ZlhoWGNtaDJQVjRSaFIxZTNpNXk0Q3NXX19xWjVUTk1tQkNFbzMxa2N5WQ?oc=5"
-    },
-    {
-      "headline": "The Estée Lauder Companies Reports Fiscal 2026 First Quarter Results - The Estée Lauder Companies Inc.",
-      "source": "The Estée Lauder Companies Inc.",
-      "when": "2025-10-30",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0p4V3I0QmhWQ2RVcDRieEhwM1hYZFZyU1ExcW9XaVJyWlREcWtTQmx4dDdEWFhUUHk3ajkzcmZsR3llYlNMLWdhR0gxUkw4R0J5WWN4SFpCWm5xQTJETDJZclM1NjNTaUFjZ3J1ZHR3Nmg3UzVfUklnbXhmNlpBQmp4NGlCNnN1Y1ZjdzJ6MkJRX1k0QS1XTHdObw?oc=5"
     }
   ],
   "insight": "Tracking Estée Lauder Companies (The) (EL)."

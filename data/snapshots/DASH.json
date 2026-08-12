@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:10.272Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:22.646Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    192.35000610351562,
-    191.82000732421875,
     189.57000732421875,
     187.7899932861328,
     190.16000366210938,
@@ -24,11 +22,11 @@
     202.3699951171875,
     207.27000427246094,
     213.25999450683594,
-    216.25999450683594
+    216.25999450683594,
+    209.86000061035156,
+    212
   ],
   "6m": [
-    207.67999267578125,
-    204.6199951171875,
     207.6699981689453,
     202,
     195.8300018310547,
@@ -158,11 +156,11 @@
     202.3699951171875,
     207.27000427246094,
     213.25999450683594,
-    216.25999450683594
+    216.25999450683594,
+    209.86000061035156,
+    212
   ],
   "1y": [
-    259.19000244140625,
-    256.0899963378906,
     264.32000732421875,
     254.1999969482422,
     247.44000244140625,
@@ -411,10 +409,12 @@
     202.3699951171875,
     207.27000427246094,
     213.25999450683594,
-    216.25999450683594
+    216.25999450683594,
+    209.86000061035156,
+    212
   ],
-  "lastClose": 216.25999450683594,
-  "oneYearReturn": -16.563141915273246,
+  "lastClose": 212,
+  "oneYearReturn": -19.7941910844616,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTU1SRFVSMGlhazF6WjVGeWRVbFNvdm1ZUC1Ia2RTX0REU01rSVl3UFlwVTV3TFVKTUZ3YlhKeGhwVmdwSGtFOEdMd3VxeTVQOWVKNkR3bzJTWUJZcXQ1ZkM3WmFhTUdyQUR6QXFiU0ZSLUJXNUFaUjY1aGpGUFJlTkhrQW44alVaUmFCTUpjQjNJMERjc3B5T3EwM3dKMEdjc21fZjVwMzBETmRBWjFkTUZUWGtGQQ?oc=5"
     },
     {
-      "headline": "DoorDash, Inc Is Expected To Deliver Shareholders Profits (Technical Analysis) (DASH) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR2RBUkdBbE1jQ2JZeDdjM3dSY2djaVJjZ0hibG1JMFI4NzVrcXJwZXdXNUJOc19RYjNnekpvQ0ZSLXoyQnFqVmM3bEQzYVVCZF9aSzdIYUQ1eGdZVXQ1VGVNRndyQ0xwQ0lfSW5Bd0dXSkF5YnhoMVZUcTQ1ZTRIUEhPcVBxZUZ5Skt2Qkc1N216MHRxdjR5YmFTUlg2M2VPUXphV1MwNWgyR2RmVkNUUXhZOXo0Z19oY0ZDOXY3X3FBUE05dGpF?oc=5"
+      "headline": "DoorDash (DASH) director Alfred Lin reports 8.33M-share restructuring via Sequoia funds - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHhtUFoxNkVDT2p3aHRadllSS3dUcF95bXN2SUVDaFFNWjU4V2djNlpPOVB1a0JDV200SmxjVWRuY3BUckh6dUlYenF4aW9ITzdZbnhJQnA0Ql9qY3pxZzl0TV9TakcxNGpCeWtUTVB2ZkhkQmNuNWVlWHFPMmdVbVJNR2JTYWk2VVBLY1dLdGdmMXZ0dkxQR3Z4U21YVzgxM2xZR3BtTUhSbFE?oc=5"
     },
     {
-      "headline": "DoorDash Stock Wavers After Mixed Earnings Report - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92NlF5V3FyQW1QVmU1OXdUa3ZxdzVBaVpLVHlsRlR1bERMWnFyOV9OUk1yQno5ek5mMHFJeDBmaGh5WWF0Ul8ycmZNSmc5TDJfa3ViZnZneTBBNDYwYzlSSDBOcmdlc294VGg3U0c1TzJzRUJ4c2FlTA?oc=5"
+      "headline": "DoorDash Director Andy Fang Sells 15,000 Shares for $3.2 Million - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTNGelJFelVscFZBSld3cHBhbFF3R3RvclFvN1lnSW1BS05iV2tzRDVsaWlxMFpmVXlDaVJfTTBTdHlYY2hPQ0lMN3VvR1lnZGppR0FfNHV5TVJrOGVjckJnVkpMQWtmWHhlV0VaZ2ZjeHpvWThBQjVkMjlJcW1raGJkbG14RExCQVR0ZmVFX29vVlYtMHV1TmRrQi0yMnVQV1Via3g5S1k2RDZidTVnTUdxLVRxMjg?oc=5"
     }
   ],
   "insight": "Tracking DoorDash (DASH)."

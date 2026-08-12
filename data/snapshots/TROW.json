@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:43.309Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:52.700Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    117.05000305175781,
-    118.55000305175781,
     113.6500015258789,
     116.06999969482422,
     118.58000183105469,
@@ -24,11 +22,11 @@
     115.79000091552734,
     114.9800033569336,
     113.62000274658203,
-    114.0199966430664
+    114.0199966430664,
+    113.7699966430664,
+    113.75
   ],
   "6m": [
-    104.81999969482422,
-    105.68000030517578,
     106.6500015258789,
     102.66000366210938,
     97.0199966430664,
@@ -158,11 +156,11 @@
     115.79000091552734,
     114.9800033569336,
     113.62000274658203,
-    114.0199966430664
+    114.0199966430664,
+    113.7699966430664,
+    113.75
   ],
   "1y": [
-    105.05999755859375,
-    105.2699966430664,
     107.63999938964844,
     109.94999694824219,
     109.05999755859375,
@@ -411,29 +409,31 @@
     115.79000091552734,
     114.9800033569336,
     113.62000274658203,
-    114.0199966430664
+    114.0199966430664,
+    113.7699966430664,
+    113.75
   ],
-  "lastClose": 114.0199966430664,
-  "oneYearReturn": 8.528459254413661,
+  "lastClose": 113.75,
+  "oneYearReturn": 5.676329101632409,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Weekly Market Recap - T. Rowe Price",
+      "headline": "Metamorphosis: How flows, ownership and technology are changing markets - T. Rowe Price",
       "source": "T. Rowe Price",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOTJ4MWEtOGhTaVlRUVNnTHRSOVAtd09RZUhMdUcwMU04MVpOSFBLSjJMeTBITkFfRkg2OVpxZ3otWEw2c1RaV1h1ZWdaTHVuRVJBZjF4dHFuNDcza1FfR2RxRkZiOC1pc0YtQlpLc2gtc2hkeVZpTHM2QkZRMGJJRlVhOU1jdUt1WUM4bWRKRkYyVnF1MlJrXzVVRGFTaU82?oc=5"
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV3N5bXg2TG9GME1SSmhEMFRqenlhZzN2YnRoUlgyTXFPbl9KWGlXVVRDVnlOZjVfQzdwQnQ3ZDZOYlJXSC1ENDk2eUE5YmRVLW5oZ1BZdXhZcXJIMzFyTGk1OTBmRTFCZHBpTnU4V1p3NFB5YXBtLURfdE1zOXVOLTJlRUdsM005S25iSVUySDI1ekZkNFhqWlFoVGg5eXR3cUlyaTM3aGk?oc=5"
+    },
+    {
+      "headline": "T. Rowe Price Group, Inc. $TROW Shares Bought by Assenagon Asset Management S.A. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVHFnQnlXR3EwdjY4Ym05RDFsRXVFVnkzRlQ2dTh6cmF2My02cnMtSldSTDFPZUtiWm5pWUl3UkJkdFhfeUlQMXF2em0tVWMwY0ZfeTBqaFl3c0FTTHFZQUdCckRFQnlvMWFMVFNCSnlTR3RoWm8xNDY5cGVWLWQ0a2pfWEp1eE9vVEtkbGJLVUNxUGR4eFVhdldlV0ZPWmhmRE54WkVaaXlVaHlMRkRvbkoxS2RHbUgzZEpTLWRnSElXNTFfamNyT3N0Um9wUHoz?oc=5"
     },
     {
       "headline": "How A Top T. Rowe Price Manager Literally Scoops Up Melting Stocks - Investor's Business Daily",
       "source": "Investor's Business Daily",
       "when": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV3I3V1lJQ3JpT3lVTXBDM1phYkpHVUpac0xsQUlHSFRKMkRfczB3RmExZHZWci1pellxSUhCOUZoX1NwaVJYMTdLdlViSTJxV21UQjZlN3B0UTBFTFdDRlZtdGV4TVdJT1lSVVhHZlEyUXpDaUVpMXVhaV9iNUNGa2ZfRlZKeWpvQlhNNXFiQXFldHk0OFhBdk1KLTBHSGxZa291d0dB?oc=5"
-    },
-    {
-      "headline": "T. Rowe Price (TROW) Stock Looks Cheap On Value While Outflows Cloud Earnings - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEstUEVYNkdYemctckRTdHVneXFiR3RQcm5WQ3BOVE5meHBaTHdJUktGV0JLcUlvMWloZTRJRGpCVFhXSmxkdVVYMlJlWFhtMHFjc01OSkxGUzNUSkFSX19rbVNpTGRBZmlzQW9CZ2FnZnljeUltVWkyNTVkeG5fb200LTRTRW1IeFJCTVN4RGsxUQ?oc=5"
     }
   ],
   "insight": "Tracking T. Rowe Price (TROW)."

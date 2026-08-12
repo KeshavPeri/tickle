@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-08-10T03:27:27.721Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:38.497Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
+    129.6999969482422,
     125.83999633789062,
     125.83000183105469,
     126.54000091552734,
@@ -11,22 +12,22 @@
     132.30999755859375,
     131.75,
     129.49000549316406,
-    129.63999938964844,
-    130.5,
     132,
     134.55999755859375,
     135.22999572753906,
     140.61000061035156,
     135.91000366210938,
     132.75,
-    134.92999267578125,
     138.72000122070312,
     142.67999267578125,
     144.6699981689453,
     144.02999877929688,
-    145.07000732421875
+    145.07000732421875,
+    147.3300018310547,
+    147.6199951171875
   ],
   "6m": [
+    136.6999969482422,
     136.2899932861328,
     135.25999450683594,
     136.8800048828125,
@@ -145,24 +146,21 @@
     132.30999755859375,
     131.75,
     129.49000549316406,
-    129.63999938964844,
-    130.5,
     132,
     134.55999755859375,
     135.22999572753906,
     140.61000061035156,
     135.91000366210938,
     132.75,
-    134.92999267578125,
     138.72000122070312,
     142.67999267578125,
     144.6699981689453,
     144.02999877929688,
-    145.07000732421875
+    145.07000732421875,
+    147.3300018310547,
+    147.6199951171875
   ],
   "1y": [
-    148.16000366210938,
-    147.85000610351562,
     149.80999755859375,
     152.17999267578125,
     148.3300018310547,
@@ -398,42 +396,41 @@
     132.30999755859375,
     131.75,
     129.49000549316406,
-    129.63999938964844,
-    130.5,
     132,
     134.55999755859375,
     135.22999572753906,
     140.61000061035156,
     135.91000366210938,
     132.75,
-    134.92999267578125,
     138.72000122070312,
     142.67999267578125,
     144.6699981689453,
     144.02999877929688,
-    145.07000732421875
+    145.07000732421875,
+    147.3300018310547,
+    147.6199951171875
   ],
-  "lastClose": 145.07000732421875,
-  "oneYearReturn": -2.0855806300718016,
+  "lastClose": 147.6199951171875,
+  "oneYearReturn": -1.4618533322849132,
   "marketCap": null,
   "topNews": [
     {
       "headline": "Jacobs Solutions Inc. (J) Stock Price, News, Quote & History - Yahoo! Finance Canada",
       "source": "Yahoo! Finance Canada",
-      "when": "2026-08-08",
+      "when": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ic0phbXVlTWVmMW00SzE1ZjlTdFRJai1fc2ZGLXI5SmpCYVl3WHhEMGRLSjJTRHphWjFSNjN0dVBfVXVoUmJ1WUhSemwyUQ?oc=5"
     },
     {
-      "headline": "Empowered Funds LLC Buys 9,001 Shares of Jacobs Solutions Inc. $J - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX0x0NXN5c01GRmRDdW9XOUF2ZURGNWRUbW1qUVNXOVlyMUFiYkRMU3AyYnhuV1k5SVV4djA4UGVuU0pWb2VGWHFCdVZ2VWVxVV82SGEzS1dyMElzeFpMdm5sY2plWHBLQXBSbWhRU0RZZ2g5blVlVjVwQXdzWWJyWHBiWVduLXJSamtmQU16YXhqT2d5N3VsSzJSVlh3SFBxQXRzSkNZMTBxLTZWMlFQNjVWOEFBMDV1akZ5UWExMV8?oc=5"
+      "headline": "Jacobs Solutions president Patrick Hill sells $2.48m in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa25SQWY5THY5eWk3bm9kUGtDaS03UXRPSUU5ekl1c1NmRXQxa3BtV0ZVN2x0alB2UEJyQVVjTzZSVk9TODlQU3JnTUdBT004VDVCZlNhd1VwSmxCZzJ5UllkblFkSG5ldU1HUGktY1R4LXVKeHJwbkk1S0pkSU5ZR3JOZEpBUmk3S1UzOW9kd2pxVndtdmhLRVE1TldRa0YxeF9uNVhldXU3SEh0VzlaNjJXcmlTQXU5R0EtcTRlRzhSdw?oc=5"
     },
     {
-      "headline": "Why Jacobs Solutions (J) Could Be 10% Below Fair Value Following Raised Guidance - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ0JnSDBXOFhmOTcwbkZFdVNqRjktVjMyQkR5T09kM3VvUXlzdk5lbk9icXBPZ3c1VjlFaldoNHdWdVZLb0RWbFczc0tacFFSN1h5ZWI0UGNOSk9DMUE0N2lEX01rOUhPcl9KMGl2VmFqNmNCLTNJSXlOR3poYkJvX09yQVJ1am53R05sR2R6N0tiYnNtVHNSbDlWdTJzOU55SENnazFFZXdKeTBDeDNSMFJ5QW9lV2NKblI4QnZmMTdpUjdMM0hxbVN1ZTg1UVgyS2FBNkhwTnPSAd4BQVVfeXFMUHNnU1ZoUFQzTkhTR2ZFMUtwcHZuMmJuU0FLa3l4dEM2RmRTS2FoaXNSSmRJWFBwUWFyLVZYLUg5SEJGd2EyV3JCTDJyUmlwR1NxbFR2VGJRRExQTXRxWUNiWDc2T2VhT3hkb1pjTnhqdTNuWjl5ZWxoLWtEbk9wR3g1UENvU0NBcF9XZXlMNjBJbV8xdGhSNW1iNkNoWTktb2lpdlFtaF92aUFHMC16M05yakVSWnFLX0VwbUhqbmpycXdHSlFxd3k0MTM2WTdUdm9nbklBR21VdkpMb3Bn?oc=5"
+      "headline": "Jacobs Solutions (NYSE:J) President Patrick Hill Sells 17,201 Shares of Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlhuRXBHQU5PY1JFN05nMGM4ZE9aX3Q4dTN1cFZXcTBCbjlUaDlhUTJSQkVabkNsTllhOEhzZW1OWjBSYkYyZlE2bHVUZzJsOGt1TWoycFl5VG92RUxRX2FIdTA5TFVKUEFBUjhrR3ZUWGw5Y1d0emJ2d240ZERxY0psUk9DM3VkN195ZWhpZ3c1T2t6WGlmMEpKZWtULW14MUZabnpzWDNFNkRPbG42UDhJZ0oyaEs1LWRESENLeXpkcElLNXc?oc=5"
     }
   ],
   "insight": "Tracking Jacobs Solutions (J)."

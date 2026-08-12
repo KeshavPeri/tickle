@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-08-10T03:27:32.030Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:42.575Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
+    46.599998474121094,
     46.439998626708984,
     46.880001068115234,
     47.2400016784668,
@@ -11,22 +12,22 @@
     46.900001525878906,
     46.130001068115234,
     46.34000015258789,
-    45.66999816894531,
-    45.4900016784668,
     44.9900016784668,
     45.540000915527344,
     46.29999923706055,
     46.20000076293945,
     45.83000183105469,
     45.65999984741211,
-    44.56999969482422,
     44.5,
     45.720001220703125,
     44.5099983215332,
     44.70000076293945,
-    44.470001220703125
+    44.470001220703125,
+    43.36000061035156,
+    44.130001068115234
   ],
   "6m": [
+    32.75,
     33.34000015258789,
     33.540000915527344,
     33.4900016784668,
@@ -145,24 +146,21 @@
     46.900001525878906,
     46.130001068115234,
     46.34000015258789,
-    45.66999816894531,
-    45.4900016784668,
     44.9900016784668,
     45.540000915527344,
     46.29999923706055,
     46.20000076293945,
     45.83000183105469,
     45.65999984741211,
-    44.56999969482422,
     44.5,
     45.720001220703125,
     44.5099983215332,
     44.70000076293945,
-    44.470001220703125
+    44.470001220703125,
+    43.36000061035156,
+    44.130001068115234
   ],
   "1y": [
-    34.18000030517578,
-    34.380001068115234,
     35.400001525878906,
     36.45000076293945,
     36.33000183105469,
@@ -398,42 +396,41 @@
     46.900001525878906,
     46.130001068115234,
     46.34000015258789,
-    45.66999816894531,
-    45.4900016784668,
     44.9900016784668,
     45.540000915527344,
     46.29999923706055,
     46.20000076293945,
     45.83000183105469,
     45.65999984741211,
-    44.56999969482422,
     44.5,
     45.720001220703125,
     44.5099983215332,
     44.70000076293945,
-    44.470001220703125
+    44.470001220703125,
+    43.36000061035156,
+    44.130001068115234
   ],
-  "lastClose": 44.470001220703125,
-  "oneYearReturn": 30.10532716106839,
+  "lastClose": 44.130001068115234,
+  "oneYearReturn": 24.66101459304833,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "What Are Wall Street Analysts' Target Price for MGM Resorts Stock? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkhtbEdOcE1uMlB3ejRrRVM4X1BZNXdMV2RtTGg2ZEk1eHlNZ010Mko1NEJwNEpCQ1hMY0N1N2RMUkFhSGQ5ZFYtU2UwZWlqZjZBQmlpRXoyZlNwUm1IYnJxNHd0QlBrWW1jNC14QnVzSXZoZEVwbHV2eHpNN0RRMGJKVkJLMklBaDZBV0Exd2pTekhFVHFzS1VCM0JpTkU?oc=5"
+      "headline": "Bank of America Corp DE Reduces Stock Position in MGM Resorts International $MGM - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY1ZVbUxDbVFPclhTMlRnTVQ2UWdqMWttX0pMMG9jLTlVRGJzLXdURktoZ1gwN01ER1FBc3B2VWVzbFdaTlQ3dlZhXzI3LVZpQXJVYVRQejNtZDhIRkVQOWhBdTFyeTA0NENkV0lHRUNfYTFFN1pwS2U1LW1weC1ud3BEMW9NV2FSTWt2N3p0T2dzS2NHRHNJUDJWR1liLV8tTm82MzFjRW5sSHVUZWNFTTctVlAyekVHWXdWUE1wYWw5cjhLOE1VRGdpYVVvRjVYc1RkMm9JRQ?oc=5"
     },
     {
       "headline": "MGM Stock Is Already Trading Above Barry Diller's $48.30 Bid — Analyst Says Board Should Ask For Even More - Stocktwits",
       "source": "Stocktwits",
-      "when": "2026-08-07",
+      "when": "2026-08-08",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY21YUFllQlRQZ3BUWGhLNGFLSkNBb1VOeXlXcnY3cWdkckl3N1FNbFlwWGhQNlE2eGhuR2M4aVNRSVZ3ajRJbHFkWWtIZnlUSmc4V0lnc3FSMkE5d2RieHRIaUM2emdTOW5BWTV5Rk83WXVuTlhueGV3b0Q3MXhFWG1pczlsSzRDVEtfbGNJSnVhU0NCUUFUNnZUcU1PX0NtOFNSQ0xnVlpISURweDlzM2l5LWQyYXRXeW1KVlVjTGpqQ0lEVEhVZjBDc3QzLUN1dnlRdmhGQ0w0aG9NWllWdlowakpqUnFzbHZJc1dpNmo4QzJtWUVpTG5xYw?oc=5"
     },
     {
-      "headline": "MGM Resorts International $MGM Shares Sold by First Trust Advisors LP - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHFsMUgzb0VmNEhUZ3d2X1FuWFVleXpqbFdvSTNfV05UdHpoZFg2dHJNcW9VODhEYmxUb1plaXYxQ08zcE1TT3dxdndWUzEyZ1hIRFAxSHRROC1TSmJibW5uWnQ0M2dWOGxFYlctdHBGUE51LUZEd3NhcGxxZGJQM21lTTNVNDJsbTIzRnZQZDZtcVJ3Y0IzcGVxWWJYZFc2ZjMxb2l2RVFnVlRpdDR0V3lnNWZaTERVdGFMNHNzN2JuMi1KX3FzMw?oc=5"
+      "headline": "MGM Resorts International stock underperforms Monday when compared to competitors - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaXVQOVVjR2FPV19XdDFDcXRPNW9EMnA4RmEwY2lia0Z3alVrcDR5T2ZlaWdCZDBkSkpaLWxubGs2R1JYMXhWTjhkVHI5ZTcyOUFPazVCN29OZ2NERUNTbXFUTXdJVXBObTRESWJVWlZTZmlia0ZpZi1CQ2dzMGtSdGFmXzdUTXRUSHBaRThjZ1ZZNlFnTUR3Qzd5S25EZGJKQTlKT29mVVoxYWNHVlFlbnpELU9ScVU2V1pVVlBQWENCVVI0TjlHUzVqTFk0R0czQXlPYTN3Y2lVQnFhYk1VZm1OSGIxS1NsXzdLQV9UbWg?oc=5"
     }
   ],
   "insight": "Tracking MGM Resorts (MGM)."

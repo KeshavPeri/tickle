@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:26:53.441Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:06.842Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    94.4000015258789,
-    93.93000030517578,
     92.11000061035156,
     88.95999908447266,
     89.2699966430664,
@@ -24,11 +22,11 @@
     105.45999908447266,
     105.70999908447266,
     107.95999908447266,
-    107.80999755859375
+    107.80999755859375,
+    108.62000274658203,
+    109.72000122070312
   ],
   "6m": [
-    106.08999633789062,
-    109.30000305175781,
     109.41000366210938,
     109.0199966430664,
     108.19999694824219,
@@ -158,11 +156,11 @@
     105.45999908447266,
     105.70999908447266,
     107.95999908447266,
-    107.80999755859375
+    107.80999755859375,
+    108.62000274658203,
+    109.72000122070312
   ],
   "1y": [
-    134.27999877929688,
-    131.36000061035156,
     131.02000427246094,
     129.39999389648438,
     129.27999877929688,
@@ -411,29 +409,31 @@
     105.45999908447266,
     105.70999908447266,
     107.95999908447266,
-    107.80999755859375
+    107.80999755859375,
+    108.62000274658203,
+    109.72000122070312
   ],
-  "lastClose": 107.80999755859375,
-  "oneYearReturn": -19.712542047464062,
+  "lastClose": 109.72000122070312,
+  "oneYearReturn": -16.257061789941382,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "AbbVie vs. Abbott Laboratories: Which Healthcare Stock Is a Better Buy in 2026? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVFpmcEpnbHAwdlc3WVpuZktEWVVmM2Jia2hWaHBNdnBPRDhBSDBfQzZiY0dHNE5NT3J1UlNlTEN4QVhhU0FvM0ZQNDBCWTdXT2toYm92SmxqTk1RckFFeUFOM2l2UVkzdm1PR3gwemRIaGZ5T21wQ2NtMmFXaXJ0V1lQdURIYjdoNU53Yld2UlBSQjFSOVRJVndKTklRWVdYOG9RbmV6TGx6S2Vzamp6ZlMwWWUtT0NvaE5zNG9fN1hXZ3pKVVZDRQ?oc=5"
+      "headline": "Abbott Laboratories (ABT) schedules NYSE sale of stock from vested awards - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTDYtQUlUYmdwZGQ4Mzd1d0lmTnBsSVlxYnpHaGgtelU2R1JGTndDTnpyYUtvNlU3dThXQWJKN0twb1dLd1BuQ3ExTTBRUUZ4X0FUeml2Rk1TNU1aalVmYzJ6eG9oeS1GU1RSeFRTNDIzcERzN2M1RWlfQjBFLXQzZExFYXQxck5KQjVTQXRmRW8ycmJMS2NNLXkzOA?oc=5"
     },
     {
-      "headline": "Abbott Laboratories stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbEpaREF0bGpQZ2Q3NU1lRjE1MDRiTGZPWWFLR0YwQXFreVJpTTJQdHpvZUV6UU9HNER6ZWpmQ3ZacUZaVWNqNy1UWUFfYmpQOU5zMHJuMjh6X3Z3OGlFTWdjNU9FN3lBMUlLSFhRa0VnWERCR0pSREE1aXpuMlctcXUzSE9WdUxGX3FtVTVWeGVYR1hXc1I4NEYwb1JIbGE0Rl9MY192SWxrUTN5S3YycE1VNVc2Q1owbDF3Ul9QMnpqNlQwbjZGalJ4aUJEZ09DMGo2UGc4Tnhta0ZxWjNyVGpGOA?oc=5"
-    },
-    {
-      "headline": "Abbott (ABT) Stock Trades At A Cash Flow Discount But An Earnings Premium - simplywall.st",
+      "headline": "Abbott Laboratories (ABT) Just Gave Investors Something To Think About - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONTVBUnRTaTB4X2dhQkJCbmxjMWdpRDhzR1E1NmdQb2F5bVViVGNTQ25mRi1leGctTHI2bmY2NlRvX2RpNlFRZndpMXB4NVhfQnhzWk1aOWVhYTZnbkhVTFFRVVhqclFMd01wbkxMc3RQWEpGeGRDQnp1aVlWT1NqMXR6V1lJUG5xOHVlRHB4OEh4b3o3N0EycHBOTlp5Q041SkxLT1lmRFFaQ1JKRHA2WFljQk5JVzRiQ0NyTkpMQjZPcC1sZnhGblN0WS0xMUxrWjFV0gHYAUFVX3lxTFBpNU9JOTB4NFRmM1FuMVBEN2FnN0NTVGF0MHVLcXBHZVptSS1INWV1TUxnMFJpUUdhZTBOaXNmYUpUT0hBT2RTOHNWc25jb0RuTXBhR3NmYkZaMmlCZUgwSmcyMHhzUTc2aHkxMWpaUGNHYmt5bXNzV2I4eDg5a3l5UGNOYmZKRFFBNmRrOUpucHZISUE1LWN5dXhLTDdBcm15R0pEYVNKTmotUThmVHhzZDJrWXJNMEJsMkpqUmJHRV9Ec2dLUGcySWF0VDM0OEVoZ1dxZ2w1Yw?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdEcxSXBoZXVKX3dlLXp1VnBObjY0X29VVDVNWWdTWE11aWt4NnJTQS1fdDNuYzVTY2FtdkpFYklKZUtkeGp2YklSX2ExTmhwSGJaSElUenRVc0t6LWVLaUhrclZlR2R3SFN5aUdkSmJ0eEFxaFJVUXYyYkR5SF83azVuZnNVTDBXdTU0S2VoenF4bDY4U0p3Z2gtbzNmWmctbHFhWVN1d2tzLXBQRFZRbjlHMC1sN2xkX1FLWTVzOFFoSDZHa0FwZlNJVG1Na0xTci1r0gHYAUFVX3lxTE93OG1HeHBNcVhjaWRfZlNoOFI2TlZ2YXF5dVQwLV9SR3l5R0E4MmJ3V0IyTXhmOFFhOHhrTWVyZDc4TUNESEYyWVc2WXl4MHllU1NrWnYxSWFEc29SMG9TMG1fNEU2OEc0TzJCdDRuSjdGb0Zxd21HZDJWSTliaGlLQzRTcXRveXhjb080ay1pUlhjcUU5emU4U2NqTUhEODhMRTJ2ZzJFcE1pM1dWUUx4QU9IVWNhRTZJYlZEdUZoWDM0VFRPc2tDYVIzUEhyZ0EtRFA1aHRmVQ?oc=5"
+    },
+    {
+      "headline": "Why is Abbott Laboratories stock gaining today? By Investing.com - Investing.com Canada",
+      "source": "Investing.com Canada",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaFREVUVXSEtYWEZRa2xYOXB1TlhGcElmMERBcm16akJ0cER5Z0VPajd4S0U1VEJPS3FGWWJSZWUxQldLNnZHWDhBd1ZFRTBJN1pwckk2UWtDSUhfVThOazlkY1haYVpIYUljM3V5V2VJMUNhVjBYN29HdUh0VjFCSGlobncxbkJyOW5SOGNKSnBFOTZTSGdfZnQ1OGwwTGlkaWpXSXd0UzNHT1U?oc=5"
     }
   ],
   "insight": "Tracking Abbott Laboratories (ABT)."

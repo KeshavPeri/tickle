@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:09.719Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:22.190Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    174.0500030517578,
-    176.39999389648438,
     182.1999969482422,
     181.75999450683594,
     181.60000610351562,
@@ -24,11 +22,11 @@
     190.39999389648438,
     186.41000366210938,
     189.22999572753906,
-    186.55999755859375
+    186.55999755859375,
+    194.91000366210938,
+    196.66000366210938
   ],
   "6m": [
-    171.19000244140625,
-    176.89999389648438,
     174.02999877929688,
     178.0399932861328,
     181.22999572753906,
@@ -158,11 +156,11 @@
     190.39999389648438,
     186.41000366210938,
     189.22999572753906,
-    186.55999755859375
+    186.55999755859375,
+    194.91000366210938,
+    196.66000366210938
   ],
   "1y": [
-    155.00999450683594,
-    153.4499969482422,
     154.44000244140625,
     155.8699951171875,
     155.16000366210938,
@@ -411,29 +409,31 @@
     190.39999389648438,
     186.41000366210938,
     189.22999572753906,
-    186.55999755859375
+    186.55999755859375,
+    194.91000366210938,
+    196.66000366210938
   ],
-  "lastClose": 186.55999755859375,
-  "oneYearReturn": 20.353528269021684,
+  "lastClose": 196.66000366210938,
+  "oneYearReturn": 27.33747769572924,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Assenagon Asset Management S.A. Cuts Stock Holdings in Chevron Corporation $CVX - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNFdWdnFOT0UwdVM5Z2s3TGpOczY3a1pwOGZqanV3TzJKZlhYT1ZidEJweTBPek44UEpOVUpkTVBTeG8zWHN2M1hWamdJTVkxWktCZk1UWGtOVVFvMjVMMjcyUDd5UFZUcVA5RTktdDdsSUtSSldkOW9QNGtSbWZLcmVXVDZtQTBsM21YMEtjUVQ0WTBoUFlmZWF5X0tWdGhoMDNaUktXeTJWZHRCSTFoY3o1cnRNVURnaEt4WXBCTnhEa25MamlMenkyVUprTGtHV0dB?oc=5"
+      "headline": "Chevron Corporation (CVX) Stock forecasts - Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZzBpcnRpaFQyQVRGUDJITjZBNmhWNU9KUWtJTmVIeThpUEN6R0pJaXdpZFY5WHJwdTJtTlVkSVVjeGNBd2xYTy1FYzYtbm44UlFocGt2NERYSUxTNnZRMWZSaUtQeVpMc2JZY09qV0t1NmEzcnB6U2hWUDhjY29WSnRxd0kzSnludVdLMw?oc=5"
     },
     {
-      "headline": "Chevron Corporation (CVX) Stock forecasts - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbkwxNHAtNW5CUFFfU214ZXlkeEpqT2NMQjBvbFVpcFVLbnM0bi1CUGx5bjYwRFJMMWtvOUhSVVJKZ184ak9CVEYzSE5haUs5cXl6WXJLU0JidTBTZEpOeF9FT0VFQXRlYjJHT2tfOXJyY0toeEwzYjl2SmRod0YySWVTQ2J0Z1FhMmZrcTZTMmg?oc=5"
+      "headline": "Chevron Corporation $CVX Shares Sold by Generali Investments Management Co LLC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVEp4b0xWYW50am9Bbk44a2lwc1kybVg5RkwzTEZNUXE4TEdrZXRMWVpiQU5weUtjeGNOMk5ZNU10a3BiWFd4SFl4N3EtODdSaEJzS19SdDdqN1VBQkhUdk4tb2htbnJmUURqN0tVOENnNnRkcGhDVjcxV0Via3JubkdibE9sSDV5aHdoY2RLN1pLT2VsejZWdWZiby1XVEhiM2hQWUtjMVpHTlpEeXR3NjJWQXVyY0hTSUVuTFRBRUw2QWJyYlBhUGprbXdEM1pweENlbg?oc=5"
     },
     {
-      "headline": "Evanson Financial LLC Purchases Shares of 16,254 Chevron Corporation $CVX - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdnYwMm5pLXhvcUtILUNNSXFwOHR0NWZUTUFaQzBnYVFoSW5LaUtxMm1MOEtrSGJ1Q2wyN05ZTVVXOExqd3lmNWZkYVRmeG02Y3lYVXJnRDQzSDZjZDBuck03aFA2c00yM2ZId1FZZm96QV95X1NBMUxCTmZRNWtsREhKYzVoT3JHYi1uWThZOXlEaFQteFlTbUpBTWktZlk5RTZZcXdSUF9vYUpZeXkyTUtFZ0xOdTNKb0I2WFBlZ28tbGtBdGRIRWEtcm4?oc=5"
+      "headline": "CVX's Q2 Earnings Beat: Can Strong Momentum Drive the Stock Higher? - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWtlS2V1YWcwOWUzczNYdGtmTld2TU1SQ2Npa0RPYndtdXNxZ1Z3SWJMQ1hkTGZ3MnFUMUNmWTNjUUdvSFk1d1JVVzBZejJNWXZaMVBhcDBvRF9VYXg0b0FYVFJ3VVFhWWVBSzR2V3hHQzJKaWFIZTUzS2dWLWNGd1RnRTBYQ3dwMmlHd2gyTDl3Rnd3YWh0V1VDVmFoVlVlTWVodTRPX1NtWm0tNlMzcEtMc1hzZjRwUktVSUR3?oc=5"
     }
   ],
   "insight": "Tracking Chevron Corporation (CVX)."

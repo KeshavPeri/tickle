@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:03.969Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:17.508Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    250.74000549316406,
-    251.3800048828125,
     257.57000732421875,
     256.42999267578125,
     258.114990234375,
@@ -24,11 +22,11 @@
     267.25,
     265.1199951171875,
     261.1000061035156,
-    269.8900146484375
+    269.8900146484375,
+    270.42999267578125,
+    278.3599853515625
   ],
   "6m": [
-    287.45001220703125,
-    280.67999267578125,
     270.8800048828125,
     268.45001220703125,
     250.4600067138672,
@@ -158,11 +156,11 @@
     267.25,
     265.1199951171875,
     261.1000061035156,
-    269.8900146484375
+    269.8900146484375,
+    270.42999267578125,
+    278.3599853515625
   ],
   "1y": [
-    335.7650146484375,
-    331.489990234375,
     338.57000732421875,
     327.6300048828125,
     326.2099914550781,
@@ -411,29 +409,31 @@
     267.25,
     265.1199951171875,
     261.1000061035156,
-    269.8900146484375
+    269.8900146484375,
+    270.42999267578125,
+    278.3599853515625
   ],
-  "lastClose": 269.8900146484375,
-  "oneYearReturn": -19.619375791421977,
+  "lastClose": 278.3599853515625,
+  "oneYearReturn": -17.78362544529776,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Constellation Energy Corp Stock (CEG) Moved Up by 3.25% on Aug 11: What Signal Does It Send? - TradingKey",
+      "source": "TradingKey",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbW13cl9vaDlma05nY25MQjQxazg5MXBJU1Jud1ZCWmZUQm03V05SUVdwODBXbG9yaVNkOG1zQTY3UXZkMldmaUxaQ3d2TEhWSUJkQjZTZ1RFMDVsbWt4U2VCa19LS05RYnpmMjVLWUI5bS1UdGt5V19mQlFTbklpZ0lWZVEwZkZna2c?oc=5"
+    },
+    {
+      "headline": "Argus lowers Constellation Energy stock price target on rates - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdHBxXzlVZGNSVF9jMVFzc09ZUWs1QURqNnJydW9XWndMNTB5NTdhT2NPMXNrbUVIV3pmQWlENU5SUG5CTjE5dFZKWWR6VGdRRTdHM2hnWGE4MW1nZXZRdmliSnlqTFdtZGdOc0xBcV9YdzdGUTFIWVhQOUFrTnh2SU9NazlBbURlWm5GOGR4T2R6bmQ1RHZHSC1POVllUldkOXZ6STJjdWw5VEg4TU5MYTdsTTZWREhNNGJoanZnNkI5c3o2V0V2cg?oc=5"
+    },
     {
       "headline": "Constellation Energy Stock Gains as Earnings Outlook Reaches $12.50 - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-06",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXNxOEVXcC1fZE9DQ1F3NHBPbXV6MXNmWFNtcnhzdnpsQWFwYjg4QXo1UUhSOVQxejFwNTBzSVpiYVdLWktfbTdpVFFJaEhVSmhKVG5tX1JaQVBMbjg0dHk5V0pHT0haM0t4ekJXS3F4VEs1dnJUUWh6Q25hMGV3UU9sTTAxZ2RlM0FpRDNPV0tpendGMUlZcjZJbFZpdGJvempEa2dKZXpWdw?oc=5"
-    },
-    {
-      "headline": "Constellation Energy Stock: Analyst Estimates & Ratings - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRXN5WW45NFFBaFhiT1pfYjg2LXJ0c3NPelhXZm9qcTFkUkVoRGRzYmxKUEVUajE3Z0NsdHJJZjZYdzZCUXQyQ19iNzdoVjZvaHhYTHVwUVhWdDF3bUNKcGRTR2lwR1JaaHJTdldxMHJacm0xOE1IN0dmMENyTV8tckFPbTZsb1A1UXNGalBCa2RtdGZYc1A3TVNDZjQ?oc=5"
-    },
-    {
-      "headline": "Constellation Energy Corporation Declares Dividend - constellationenergy.com",
-      "source": "constellationenergy.com",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlFnb1RCZGhSNWYzWFp1UlZrazdRTnY2cVhxUmFLaEVXNXhlRXZuM2h4RWhzbXhwR0p4ZDVHOEJ5NjFnR09SUVNteFZ6R3RERkc5NWlYV1hzaGNMWV8zZzhvOWl1U2RhQzhXS2ZDazRjQzdDMzUzSURMUUxmTnhvbWZOZUJ2NjFrMjlIZGs4NElpODVyTllhdlRlWTFpbnFNRklrRFdFbFBKR0RkSHgyQjln?oc=5"
     }
   ],
   "insight": "Tracking Constellation Energy (CEG)."

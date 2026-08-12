@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:45.530Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:54.570Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    187.00999450683594,
-    185.38999938964844,
     193.72999572753906,
     190.5399932861328,
     191.94000244140625,
@@ -24,11 +22,11 @@
     192.8000030517578,
     188.75,
     189.75,
-    191.82000732421875
+    191.82000732421875,
+    181.17999267578125,
+    180.97000122070312
   ],
   "6m": [
-    216.58999633789062,
-    217.4600067138672,
     214.14999389648438,
     192.49000549316406,
     189.50999450683594,
@@ -158,11 +156,11 @@
     192.8000030517578,
     188.75,
     189.75,
-    191.82000732421875
+    191.82000732421875,
+    181.17999267578125,
+    180.97000122070312
   ],
   "1y": [
-    265.0400085449219,
-    267.4200134277344,
     260,
     264.19000244140625,
     267.70001220703125,
@@ -411,29 +409,31 @@
     192.8000030517578,
     188.75,
     189.75,
-    191.82000732421875
+    191.82000732421875,
+    181.17999267578125,
+    180.97000122070312
   ],
-  "lastClose": 191.82000732421875,
-  "oneYearReturn": -27.62601828406333,
+  "lastClose": 180.97000122070312,
+  "oneYearReturn": -30.396153376652645,
   "marketCap": null,
   "topNews": [
     {
       "headline": "Verisk Analytics, Inc. (VRSK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
       "source": "Yahoo! Finance Canada",
-      "when": "2026-08-09",
+      "when": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VQXVzUk9TQUhNSE1CU19OYU9TbW9kT3VEc0RSN3NPWkJwUGRZVDBuMmZMNXB0UndLY1ZhRzBsQW94Uk5HUG5iWnZVMTc4LXZZQWc?oc=5"
     },
     {
-      "headline": "Verisk Analytics (VRSK) Q2 Update Puts Its Pricey Valuation Back In Focus - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVkE3M1VxaFQ4QXZXdG9BQ0V2dmw4MFAtSGc3QTFKMFNmc2o0RmpjaGZhTnZwWlVGcUlKX0pabDBGc0cxN0N1T1E0NlFHd091STk1LUJja3BVODJnSDN4US1HRnVYX1g1SnpvcGsxLXpxZm5Ob2wwUWgwSGFwcEpvMWM3S0JHX3AzVE5oMFRyVWRnRUt5cHlROHV2dktvTkQ4ZHV5Q2RsYjBfbjhKV01rcUVBRGZGZVBkajBId3BZSW1ab3FOM242N0pkbWNtMVRQRy10SGhlQnJMYU54YzVN0gHkAUFVX3lxTE0zVC1DRGFscjBSUEoxT2ZRY09PbDN1NXFWUUJfQXZzV0FMVi11YkE5eUVNNmlXWTBnZUVuTHFmTVE1RkE2NXVha0pNa2JCd3h0OFpENU9IMkRhckN2TVNIUDNOQzVxa3p0TmdtOFVjNDBmUzc4MTk2WW01NkpSWDZ2RlB0SldFTVZNSmkzb080ZFBOUENwUDhFNy1UeXVlOWZnUDkxMGozSXVtYjRFckVlSXRoejB0Q2stWGVLT0VjbFA2Y1pCMkZJNkFsN3E0LWVDUFRmeW1TTzQwaml2RmZNMVZDTQ?oc=5"
+      "headline": "Stocks making the biggest moves midday: NetApp, Intel, Apple, Doximity, Verisk Analytics & more - CNBC",
+      "source": "CNBC",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGZLdkVFSUdDeER4ay1qUjN1UnN6T1NjNS10alduTjBVM0IxLV9ERmcwcGJLcEFsZHprdEkzMnRXNXM1Rnp3V0dKdlhkb0RKODRsaFNUeGFlWlZUSzRLaE44WTVxU25sNkplQnQxTkJmOWZ2NWdVLTAyUUZEMWhWT1BBRHJ6czYtSmppRThtSUFqWVFWNTRTUU5FSVR2VFBVMFE?oc=5"
     },
     {
-      "headline": "Verisk Analytics Stock (VRSK) Opinions on Earnings and Acquisitions - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTjE1cEFSYWFXZzRMT25YY2sxTTYtRm5xeHhrTDBFM2VHNzItZDhMdEJRd0VDNkprMTNuRGFaSG5OaV9qcUtYdktWTUFuaWV1MkttelM0NUxZbzhrTkYxZjBvZk9aTE9OSDZEOEdrSmctSVFBYm9WUXEwQUFhZHRMV01SamRNaWlqUEN6RlcyeXYwbkZCNHprNjZ5Zl9vQ2RKN1ZYbVh1RQ?oc=5"
+      "headline": "Verisk Analytics Inc. stock underperforms Monday when compared to competitors - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXhxem4yS1lwZURNUl9lOUNuZVRoWkFjY2tEZW9SbnpHcGNqLWZSS1I1QVNnWUdUNF9QZEJBTUhaSkFsRTZKMDBINmxKSnM4Y3QzRC1KMjdCZkU4Wk9LdUNXYlJnVkMxOXJwdkdBX25mSlV1QUllVWZBaHRIRUZpbzQ1MW5wOW9fVjR2eHR6WEZMeUNVclc4YkhPMXNyZkZBcVhlVmtWOG1FOTFNYXctWFkxWEpnZ2M4Y1IxanhxYTlKLW5ORklmRnJVTHRoVXBDbnc?oc=5"
     }
   ],
   "insight": "Tracking Verisk Analytics (VRSK)."

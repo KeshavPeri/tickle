@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:38.125Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:47.910Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    9.329999923706055,
-    9.40999984741211,
     9.550000190734863,
     9.119999885559082,
     9.25,
@@ -24,11 +22,11 @@
     8.380000114440918,
     8.760000228881836,
     9.0600004196167,
-    9.1899995803833
+    9.1899995803833,
+    9.270000457763672,
+    9.380000114440918
   ],
   "6m": [
-    11.260000228881836,
-    11.210000038146973,
     11.180000305175781,
     10.8100004196167,
     10.75,
@@ -158,11 +156,11 @@
     8.380000114440918,
     8.760000228881836,
     9.0600004196167,
-    9.1899995803833
+    9.1899995803833,
+    9.270000457763672,
+    9.380000114440918
   ],
   "1y": [
-    10.510000228881836,
-    10.119999885559082,
     10.970000267028809,
     15,
     14.380000114440918,
@@ -411,29 +409,31 @@
     8.380000114440918,
     8.760000228881836,
     9.0600004196167,
-    9.1899995803833
+    9.1899995803833,
+    9.270000457763672,
+    9.380000114440918
   ],
-  "lastClose": 9.1899995803833,
-  "oneYearReturn": -12.55947307090564,
+  "lastClose": 9.380000114440918,
+  "oneYearReturn": -14.494075787461554,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Paramount Skydance Corporation $PSKY Stock Position Lifted by Amundi - MarketBeat",
+      "headline": "Paramount Skydance Corporation (PSKY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EbDBVQm0yTnV6TnNENEktUkhMbG1sMzJ6SkNRSE1pV1dQTkNqMTBfN1BiSkVRUnFPZGUyVVhOMG8zSDFsWkFvSUdCVjJpcUNUaEE?oc=5"
+    },
+    {
+      "headline": "First Trust Advisors LP Sells 733,720 Shares of Paramount Skydance Corporation $PSKY - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLVJVZnI4aU5hZ21zVFVYWEk5VkRuQ1ExX19hdmdQODBsWHNXaUpYcFB2OUZHYzdESmFySTkzNEI5Ykxxb2hsS2NndWtRZWRoaXRWRGpDSXFfcUFlclBjNVFLa215NF93RWIzaURmQXliZzlISzNOVHBaSFd1dzFqanIyWFUwdVkyS04tMl9QTVJvT2ZSSFVRZVMwam1zQXg2OVNJdF9JRWdwZHdWY1BpWFVQYk9jd3FveWJKRjEzakN1WHhzM080?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR2txenE5aWd3cThTUUtOR3NZeEI3TDRqV2xrUmJDdjNGRzRjc3RCV3dnX0c1bVVzY1hWU2FaZHVWb2t3TE1nM29ienE1NmtWTlg5dEUwSVkySkhlYjlQRWR0R0RyMjljWVBVZEQ3WDFnNXZCTUtSWVZydEZiVzhJeDVyY1pIaVlUVzFsX2tTWXM1VTlDSG5iM1BVbURLOFVGbTE4NlBOMjVRWEFUR1c1NmpHaExTSjFOUjZBZnc0TEdJbHVISXY0MkRnY3cyTnBBV2V3eF9NTE43MVE?oc=5"
     },
     {
-      "headline": "Paramount Skydance Corporation Class B Common Stock Q2 2026 Earnings Call Summary - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRy0xMnNjcFhfNUVNc0k1TEQ5RHg3bXZCVWRuWlZVSFhSSklPSXB5MnBtRk5DUExaSWxtWktIZnRIbHY3ZHplckJBa0l3b0lSVkc2eldCcm5Qc191dVdrQmlKdXlHNWxYOGZFRHprXzRYSVVXYVRzYVk2cEQxOE5FZzFWZHVDak45NjA3Uk5TdFJNLWhDbndVYmFnUEZiNFV4eGNOZmhR?oc=5"
-    },
-    {
-      "headline": "Paramount Skydance Corporation Stock 12‑Month Price Target Cut to $10.35, Implies 23% Upside - TradingView",
-      "source": "TradingView",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYkpmaFNPemJjTkt3dkhYV1d1cHFUeFdpUUR1SmdEUnZRa2t3R01Ja005QVFMZGJKbXBRd3djSFFVckJGZnRleVhpbVVjLXUwYkpyZ3V3enlKU2ZnY0FwNWtQdHFzczVwbWhwUDBSTzRVYWt1NFg1M1pHTWh4MjJ3dDJmN29jTW1QUmFELWxWUWYteThTeFNrTy05WFY5bGdnVTBzemRTbmZuQjctWkZuUTdxa0JTRG1CNVBhbFM3TnBuV2lGeWV3MmxaQnMtWGl1a05pZWg3OHNrMThnV0lTNGo0Y1VMZw?oc=5"
+      "headline": "Bondholders Get Until Aug. 21 for Paramount Debt Offers - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORVZXUUNTMldzX2U5Z0FmVVBEN3RWTklNTHFmZDVibDE4UTFLNUxDTkc1YzVzUVVpd0tlN3BIUnVleEdsU2NVQVVOYTlKRUJlS3gzX05Fbmk3RXVuVjFHS2MzNkdCbEZSTU1ZRllaQmxNTWxibWVqTFNNbDRtbTJJSzVZdUhYcWxhdkhDd0xzdkdyNHBkTkw2aXJQdVZrTDk0QXZsdW55OGU2cFZpUXd5R0g1ZGFLRGtneHdR?oc=5"
     }
   ],
   "insight": "Tracking Paramount Skydance Corporation (PSKY)."

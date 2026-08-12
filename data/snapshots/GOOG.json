@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:21.600Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:32.917Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    356.239990234375,
-    355.0299987792969,
     350.6700134277344,
     357.3299865722656,
     370.2099914550781,
@@ -24,11 +22,11 @@
     375.3500061035156,
     360.1300048828125,
     356.6199951171875,
-    353.4700012207031
+    353.4700012207031,
+    355.8399963378906,
+    343
   ],
   "6m": [
-    338.6600036621094,
-    338.5299987792969,
     344.8999938964844,
     340.70001220703125,
     333.3399963378906,
@@ -158,11 +156,11 @@
     375.3500061035156,
     360.1300048828125,
     356.6199951171875,
-    353.4700012207031
+    353.4700012207031,
+    355.8399963378906,
+    343
   ],
   "1y": [
-    202.08999633789062,
-    201.6300048828125,
     204.16000366210938,
     203.02999877929688,
     203.82000732421875,
@@ -411,12 +409,20 @@
     375.3500061035156,
     360.1300048828125,
     356.6199951171875,
-    353.4700012207031
+    353.4700012207031,
+    355.8399963378906,
+    343
   ],
-  "lastClose": 353.4700012207031,
-  "oneYearReturn": 74.90722332920825,
+  "lastClose": 343,
+  "oneYearReturn": 68.00548287982731,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Alphabet Inc Class C Stock (GOOG) Moved Down by 3.38% on Aug 11: What Investors Need To Know - TradingKey",
+      "source": "TradingKey",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaE9nbHVtaWQ5cU9IVEpzMkFnVGdXLS1VeGY3dXJPNTJPWkhleUE4SzNiMUliWXdyTng2WGVNZVg0V1VyallLWk9CSmRITFg3SFVxWkxCOGFhUTh2R1hRbUowRlVpejRGLV9RVTdPeHZrTXBwTHFSUmxQVWhUYmg4WllaLU1IcHBXdkhF?oc=5"
+    },
     {
       "headline": "Alphabet Inc. (GOOGL) director shifts Class C stake via gift - Stock Titan",
       "source": "Stock Titan",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWU4WlQyY2Fuc1N6b2hJM3UwczhsTU4tcGlUYklDX1FhbkdaUGVfeFBIYmhLVmhaSnBNd0poRUthZU5jemRxNTl6VWdtM24tVVZJaS1mOXBEX3dZdDd0d0t4UlBSaXV6Q3V3V012ck10NFJ1LUJONnFqUXd0ZlFLQ3MyN3RvS1ZxeTl5U29ELU1pcFVCaVRTTmc0aWxKRnNrOG5VVjBXOUlpQQ?oc=5"
     },
     {
-      "headline": "Alphabet Inc Class C Stock (GOOG) Moved Down by 3.59% on Aug 5: A Full Analysis - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmdMNVhhOVFrMUppcFpTRDVwZWFONjBpTG5TYWoxemRPVTJBM2R3TDVpZldzbjYxbmE3Z25FbzhPQ1ZlaDVOY0QzREVJOURicVNOQ3RlSTdtQ1ZyUl96eGw3SmZ6SGRQdno4RWJ0bW5LTUFoRi15TWp6OWNEUGFDOTBnMXFhb2R4R1Vv?oc=5"
-    },
-    {
-      "headline": "Key facts: GOOG AI shakeup, stock down; UK class action; $1.5B bid - TradingView",
-      "source": "TradingView",
+      "headline": "Fisher Asset Management trims Alphabet Class C stake - The Globe and Mail",
+      "source": "The Globe and Mail",
       "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTHlRS0FGSExhYlVYWi1EVG5YcG5wZHd6VWNOZEhNMWVkb3BKN1Y0akFuUXZ5blp1TGNLLURUVHhfY1k0c25haS1LaEI0S2ZBNkdPWWN6OFZVaUxqTlhVM1ZGckNVSnRYS0w4V25wcjhlUjJybGk1TGR0LS1JRW0xQXdQZzhBSzlwYTFlMHhQLU5xY1AtNGl1cDRrMjZDQWxHSXIxZlQ1NmZ1R0dPRjRScjctWkNWU1NBMldMVllXU0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWTlKaHFuZ0FQUXlYN2I4dmFHOW11VUlHVHA0Z2JSSl84R0ljY2VZNTdPZ2xSRXRVbVZpZ0hqcHBTeGsydFlLS3I3aGpIaFNsZ1lBRTFuZGREb0xtSWNXUUtGbTRwdno5ZDFWNDZkQ2I5RENxWHF1NnNqamR2bk9yQWF6WUp0c0NzQ3FxVEJLT3FOU3l5bTlVdG5RR001M2xHVmE4YmxDODFYSDQ1dlFhU1E4ODhDT19BVGgzbzhwWEtNTmM5Y1REcFVsQTU3UTZJdDVV?oc=5"
     }
   ],
   "insight": "Tracking Alphabet Inc. (Class C) (GOOG)."

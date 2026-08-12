@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:06.870Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:19.987Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    108.0199966430664,
-    109.04000091552734,
     112.8499984741211,
     111.87000274658203,
     111.45999908447266,
@@ -24,11 +22,11 @@
     117.94000244140625,
     115.04000091552734,
     116.76000213623047,
-    117.61000061035156
+    117.61000061035156,
+    123.02999877929688,
+    125.91999816894531
   ],
   "6m": [
-    102.80000305175781,
-    104.2300033569336,
     101.79000091552734,
     104.91000366210938,
     107.58999633789062,
@@ -158,11 +156,11 @@
     117.94000244140625,
     115.04000091552734,
     116.76000213623047,
-    117.61000061035156
+    117.61000061035156,
+    123.02999877929688,
+    125.91999816894531
   ],
   "1y": [
-    93.91000366210938,
-    93.52999877929688,
     94.58999633789062,
     95.87999725341797,
     95.6500015258789,
@@ -411,12 +409,20 @@
     117.94000244140625,
     115.04000091552734,
     116.76000213623047,
-    117.61000061035156
+    117.61000061035156,
+    123.02999877929688,
+    125.91999816894531
   ],
-  "lastClose": 117.61000061035156,
-  "oneYearReturn": 25.236924740750084,
+  "lastClose": 125.91999816894531,
+  "oneYearReturn": 33.121897710133005,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "ConocoPhillips stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT29qM0x1MGxqZ3BHZ2JUN19hYWI4RENPYjVJd01hdGtzZFM4NjRzWlVFUTl0VTEyeHlTR0s0NmRkXzRnaWpRU2hscmxvMGlNanBfNWh5d3BNYXlPZ2F0Y3BrRDg3MUgzVVJrQVJxNGFZZlItUHJIcThzTW1feGpwc1dEVDg5ZnQ2dHotT2hodEl3MEdUSGRhSXRSb0IxeVItb2hZVUswMGhSaG5mNEx5bE9OQUZNTEdHRkZIV1BPOGZpWXRocG1IR3hXU2VPcy0xMVBCQUI5T19oV1ZB?oc=5"
+    },
     {
       "headline": "ConocoPhillips Stock Rises as Profit Doubles Before CEO Handover - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalZnWjU3cVVuY1ZKd1pubGNWQm1TbjgwcldWb1E3ZzRWeTVpaXpJclRoaFhnQVM3ZzBmWHJ5MXp0R19uNXpQdElIbzk0YnRVbU5XYXZYU2xEdDJYOFJIRlFYaklaUFpWRzdlWGF3QnFEeVFFS1ZjeU1LNFZfTUdfdko2TkNhN01Cc0hkMzJMcHppak9yakUweVVWTVhhWUpwQUZLMDVVRXNxZw?oc=5"
     },
     {
-      "headline": "ConocoPhillips’s Q2 Earnings Doubled the Buyback to $2 Billion. - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYW04SUVsR3gtR2NfdUJyRU1fYnVIZy12eV9uQmRwakcxM3BfREtWdi1JUEJhbk95LWV4ZHBpbzVyUjFsLTYxR3FmSk1nazZTOXJST2EwZkQxY2d3bDlxdFc0bFFZcmpFMEppYUxCbHNEZ3MyNUF6YnpaR3JTaU1iaVFlRmthTjlQaGhqU0pn?oc=5"
-    },
-    {
-      "headline": "ConocoPhillips CEO Ryan Lance departs as oil producer posts best profit since 2022 - Reuters",
-      "source": "Reuters",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGt3YncwTUhHZ2ZpUlJfYkg4TlA0bkJJN0VsYWEzMU1saHg0THZ2U2VxY0s4T3FtdXJib3BsblVsVW9XS0JQbmk1bWx6WGRSbE5wbHNNWDEycmt1ak9PbnhYUzNYb2o5SGQ1alRETEVXZnlnYUJlYTNHRGYzWjhLdndFc2hSUXZsU0Z0MXpId2w3RXlBLTFLYk41OHFMZ0JO?oc=5"
+      "headline": "ConocoPhillips Stock Rises After Strong Q2 Results and Higher Oil Prices - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObm9GOS1JdTlWdUt3YzFSc3FYZVo2OWc4dS1rSUpBQXhPanQwbVpSaktNWWdNWjNXd0tUdU95UnZuSkRYemtES25MT0FSMHFNSVJ6U0dHcm9RTXBEbDBaT1NQaTJrdHVDVnRJRUNMSF91bkFNNERIOEdjNFk0eWU1TVV2Z1FTUEdMVFFKbjRFbHhHZEVJYXJCMFItampOSThqS1l2RXFUTXI?oc=5"
     }
   ],
   "insight": "Tracking ConocoPhillips (COP)."

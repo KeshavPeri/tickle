@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:15.574Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:27.309Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    68.08999633789062,
-    68.69000244140625,
     69.72000122070312,
     68.72000122070312,
     68.26000213623047,
@@ -24,11 +22,11 @@
     67.69000244140625,
     67.73999786376953,
     66.69999694824219,
-    67.06999969482422
+    67.06999969482422,
+    65.83000183105469,
+    65.08999633789062
   ],
   "6m": [
-    61.86000061035156,
-    62.31999969482422,
     61.61000061035156,
     61.790000915527344,
     63.08000183105469,
@@ -158,11 +156,11 @@
     67.69000244140625,
     67.73999786376953,
     66.69999694824219,
-    67.06999969482422
+    67.06999969482422,
+    65.83000183105469,
+    65.08999633789062
   ],
   "1y": [
-    63.20000076293945,
-    62.29999923706055,
     62.70000076293945,
     63.9900016784668,
     63.5099983215332,
@@ -411,29 +409,31 @@
     67.69000244140625,
     67.73999786376953,
     66.69999694824219,
-    67.06999969482422
+    67.06999969482422,
+    65.83000183105469,
+    65.08999633789062
   ],
-  "lastClose": 67.06999969482422,
-  "oneYearReturn": 6.12341595754242,
+  "lastClose": 65.08999633789062,
+  "oneYearReturn": 3.8117951289784417,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Equity Residential stock outperforms competitors despite losses on the day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbS01ZGJncXpuRGZVRU1WeXZkQ183eG52d0pzdHQyTnE0TVdaVGF5VlFJT3VtQ2JTTngwSzFrM0xjQzFvV3lTVC11c3pzLUtkQ1RrVlBCRVZWZ0tjbDhNeUphSlZmdEZPbmpyem82QzF1a2w3MnpLQ3Qtd1lOazZlSlJJcmRkb2dpMFlGNms3OTlWQ19lOHFwTGhIVXJOMXY0LUE2b3JYeVY5RDVlclpNbExpTzhkc0ZuMHNSU21XRzdUMkN0dENWRWZUcEs1bDZvR2JaZ3RhaWJYengxQ0pJbm5CampyVlk?oc=5"
+    },
+    {
+      "headline": "Equity Residential (EQR) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmM1NXFfaFJRR1RZT2pkYWNqMV9FakJwbFUzRlprNUVxdDhoMzM2R0F3RWxDNjhKYXhfd1NNam9IY1N0WTd4YjMtSDJPT1o3b3MtLXRvM1RNOXkwdUVRdGtBQmpIeEhENVdULUZ5ZVVQVXZvcy1MbDh3d0MzY2Q0Y0pOZzlXWW52WG5QVl9YbkdzMEMycUM5ejhXTnZMWVph?oc=5"
+    },
     {
       "headline": "Equity Residential $EQR Shares Sold by Aurora Investment Managers LLC. - MarketBeat",
       "source": "MarketBeat",
       "when": "2026-08-08",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNzZ0c2Q3NkdoTjllQ041LWV4U0gzY1Y5MGJWa2tQNzZmQXBtQ19SVDk5U2xvc05Mbm81OGppd2h4OExST1R0bm42NUNSOUpIelhDUnkzMkNfVVJ5N3huLXlnbDNPOWdQYjYzTG1uV2NESHlmN0RQZ0xaX0xKZzFZaTI2d2JFTnhlOGR2MHFOT2RHeTh0aFhibEtna3V2eHlpRzRPd2ZYdWRhME1FSWJDeDFXZGVlc1JLMXJzS1lLaVZBVGxXUHFORg?oc=5"
-    },
-    {
-      "headline": "Equity Residential stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYUI1cThjZ1RTUHhTaEEzakJta2NENGRraGx2ajZVZHJ6WWtGMFlScnFOX0JjRGpvaC13cUJUbXgwRVpNWEVEd0dBM0cyT0FFdnV5TlJSRE5qeWtMb24xc3NsdlZfRnJXQThwQ1lMMXBvSEMtdjQzX2FpaTUxV1F1WHBvNnJTRnUzUEZhaHdIVnlMcDdCVkdvdVRMR3g4WVZ2MnRjZGEycjdTcmt2MXBnLUtxR3FBUV9oOXpVQTAtUEhLOE1nY3drQ1NyOWlfUzktTnNaV2h5b0FEbG1KbUtTQUo2d2I3NDA?oc=5"
-    },
-    {
-      "headline": "Equity Residential (EQR) Reports Mixed Earnings, Is The 7% Discount Enough? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLXU1cEJoZ2duTUI3dnVmNlNMV0E3OHQtRkgwNmRULUduUkgtRkFTOXJ6ZGVVZG9yRUZ2YXVfejJSX1BuY2lhUV9lMHF3QXVlcDlYc0VxeXlITkVXYkNWS3JGM3pnRTZHUXNpNDk0UkRpdHlJM1NQcmtwSFhNZXZBZG90U0hXZksway1xRmk2ZTNnaGk4SGliWHJBMEE1WXQ0eDJHR3lXZ2lRNno3a2RaY3ZIdDRMUmdzU0JrREdGMXY0cDBTb0ZvSXpqcFJ3NnhKY1kw0gHYAUFVX3lxTFBKM2xSV2lQQUZrd2RDWGxUbDRUVHlCTmJ4cGNHc3pYTjF2MTk2aG9wdDZla19FekdzNlRJbk5nYXN4NjFuNHJXeFNFWEwzUElxOERoV01QdkVUdXJOTlRGLTlGTk5yWXpsQ04xTmUwQTdTRkt3SEtZRDZWU3lRbnZDQXdxWVNlamozdzlrTWo3aHQzZUtFdDBrZjhKS2ZHcUF5Y2UzSkQ2OV9JNklGUnU2LWdhRUxaeWNjVzZMbHlmZEYxSDRUWU5iRlI1ZlFHam5CWmZVMXA5ZA?oc=5"
     }
   ],
   "insight": "Tracking Equity Residential (EQR)."

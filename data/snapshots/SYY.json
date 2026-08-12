@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-08-10T03:27:41.481Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:51.053Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
     82.02999877929688,
@@ -11,8 +11,6 @@
     82.25,
     81.69000244140625,
     80.77999877929688,
-    81.22000122070312,
-    82.12000274658203,
     81.7300033569336,
     83.11000061035156,
     84.08999633789062,
@@ -24,7 +22,9 @@
     82.79000091552734,
     84.20999908447266,
     84.3499984741211,
-    84.29000091552734
+    84.29000091552734,
+    83.87000274658203,
+    84.26000213623047
   ],
   "6m": [
     84.11000061035156,
@@ -145,8 +145,6 @@
     82.25,
     81.69000244140625,
     80.77999877929688,
-    81.22000122070312,
-    82.12000274658203,
     81.7300033569336,
     83.11000061035156,
     84.08999633789062,
@@ -158,11 +156,11 @@
     82.79000091552734,
     84.20999908447266,
     84.3499984741211,
-    84.29000091552734
+    84.29000091552734,
+    83.87000274658203,
+    84.26000213623047
   ],
   "1y": [
-    80.6500015258789,
-    79.87000274658203,
     80.75,
     82.19000244140625,
     81.19999694824219,
@@ -398,8 +396,6 @@
     82.25,
     81.69000244140625,
     80.77999877929688,
-    81.22000122070312,
-    82.12000274658203,
     81.7300033569336,
     83.11000061035156,
     84.08999633789062,
@@ -411,12 +407,20 @@
     82.79000091552734,
     84.20999908447266,
     84.3499984741211,
-    84.29000091552734
+    84.29000091552734,
+    83.87000274658203,
+    84.26000213623047
   ],
-  "lastClose": 84.29000091552734,
-  "oneYearReturn": 4.513328358066351,
+  "lastClose": 84.26000213623047,
+  "oneYearReturn": 4.346751871492841,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Sysco Q4 Earnings Call Highlights - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-09",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXNLYWFnNXZWY0E3QUhEaUR4WXBVdjNvREpZN0p3d185VUN5ZFdfaFdTUW1GTm5yMnpfMkRxV3ZyNm9ldk1fZHFHNVk3TGRWeWFmTzJ0UGNTSU1TX3VOMFVkNDlUUEFFMTFHcW9jTl9rTDBmMXlmVG9NaEcwV0ktSlZ6VjgxUTBZNVFxcHg3VE1nekg0OXJKYg?oc=5"
+    },
     {
       "headline": "Sysco Q4 Earnings Call Highlights - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +428,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRlhhU0p5VGJnR292S2RVaEpYaGd2R2ozQUJpMlIxLVZaOWVtZU5YNXlDNEU4VnluV2cxX2tvTmtqd3pIbmhKWThZRi1HU0FHWlZ2YkJoWXlaTTh1RWp2dEhVWUZSNkI0cUhBNjJiR2FIcFRxY2NONC1LMkoxRERmRGh0RjgzU0V0M2Q1WGxmaHZlcjNmaVVxUnpobXJFLXc?oc=5"
     },
     {
-      "headline": "PensionDanmark Pensionsforsikringsaktieselskab Trims Stock Position in Sysco Corporation $SYY - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaERpeDhzcldJZ0Q1T04zZy15OXc0Q3U0QmlxM0dfbTN6dTRHbEZjQ3BGVm4zcGZHVG5fRktvNi14OVhqSnVvWHhNZjA0aHdkMEEwY2VKa3hUeU9JX3RCV0dBODBvWVNpV0RHMlNxa2tydzEtQnExWE9rRU52ejFKb3B6bDNXeW1rZ0NmY2FhaDd2NE5SSnlMSmhoV0dBMTkwVkR6dUlqS3cxUTVrWkxVYXkzR2VINktINTNUTG8wY1ZkeExrOTBPYS1GTjZCUllFTjRqZnhha1QyTVprUXpvdkNFbzdERVJF?oc=5"
-    },
-    {
-      "headline": "Sysco Q4 Earnings Call Highlights - TradingView",
-      "source": "TradingView",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWlpETVZ0YkMxWXpJNkJOaGtIc3NiMl80OHJEQTJHYlpKbVBBaldaSmgtTVhGMVJEaFlKWUY5dmZob2N0X1k3eS0zdzBSSGJsQzIwV3R3UThuUjN0R01fY1BEMUUydlJ5MkZ4V3dTVlB5REI0X3dicG1GVl9fV3dxRnpyVDlMOEI1N2FPYi0yRHFmT1lyT2hlM3BR?oc=5"
+      "headline": "Sysco (SYY) Beats On Earnings, Is The Stock Still Cheap? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlh1dEEyaWtTTFJmRTBFcXNoaG5BMWJQcnpvcm9kd2pfSVlQTlBaSWxrcDIxaTZ5NlJKcmI3NDEtdVRHQ2w5bjJ2eDVndkpXeWstaHllYlRaRnZxWG5HOEpPX2V4VnR0R0dTajI0b29CaW1qdm9Zalc1eWZJZWJ6RHhIRU5NUkttX1VtcTE4TGI0d3lWYXVxRjJVYUE0NHJtY0dCeXRraU5zR0taYXVkQkJqemdERDhWWTNZODhBMkLSAcYBQVVfeXFMUEhYLW02VVAta3NtdE0yX1JnaFdoazVDOWI4bmVvaWxGYWlVS1kxQ0d2a3ZKLUNxbG14czFtRTQ3OHVFcUt1c3QwZTMzN0FPTmkxRUNaQndOa3VQSEt0anc4NmxKemFVSjctcmI4Y0FMZkRmTjZndlpnQmtraUp4Q19jUndoWGNqM3lYU0pJeFo3Qm45ZXFEc3AyS0hZdmo4UTQtMWF5WHNTLXpxaHltZGtPdm8tVUFMOW54ZDd0enFFSDRiaXd3?oc=5"
     }
   ],
   "insight": "Tracking Sysco (SYY)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:37.090Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:47.157Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    123.72000122070312,
-    124.75,
     123.75,
     124.55999755859375,
     125.38999938964844,
@@ -24,11 +22,11 @@
     131.67999267578125,
     133.00999450683594,
     129.5500030517578,
-    132.89999389648438
+    132.89999389648438,
+    130.0500030517578,
+    132.4199981689453
   ],
   "6m": [
-    127.26000213623047,
-    125.08999633789062,
     127.06999969482422,
     130.4600067138672,
     134.57000732421875,
@@ -158,11 +156,11 @@
     131.67999267578125,
     133.00999450683594,
     129.5500030517578,
-    132.89999389648438
+    132.89999389648438,
+    130.0500030517578,
+    132.4199981689453
   ],
   "1y": [
-    121.63999938964844,
-    120.19999694824219,
     123.33000183105469,
     129.9600067138672,
     128.5500030517578,
@@ -411,29 +409,31 @@
     131.67999267578125,
     133.00999450683594,
     129.5500030517578,
-    132.89999389648438
+    132.89999389648438,
+    130.0500030517578,
+    132.4199981689453
   ],
-  "lastClose": 132.89999389648438,
-  "oneYearReturn": 9.256818943879544,
+  "lastClose": 132.4199981689453,
+  "oneYearReturn": 7.370466393362,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "PulteGroup Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR2VubUdoV1FvVUpXc1dmUFhkdENyUi16bkY4VjJfSVdGcmY4UnAxaGxNTFFGdEdnRVo0WUt2U0FHUkY2UVN2V3M5TEhNTmViMGJfWEtqVlgxSWd4Y2dYMWN6d2tiQjM1em5zRU45dnJyODkxUFJLMGFCbmg2T0ZtQ2FPdWYydjdzcW1ldUdQZ1BvdFN4c05pb0ZxalEyRWJlcHRGSG90OXJyNE5RUUhvN3NLUEZPRTMxMTZKUFdYUENTMFFzUTdXYU1FUHhGYWR6NHZkQWc2alhuZ1Zm?oc=5"
-    },
-    {
-      "headline": "Pultegroup Inc (PHM) Stock News Today - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZlpEWEkzSm9iUGRnZEpEWkk3YkJVQk9wMTNkVmlZa3B1NTRTb01XenpKSlpNd3EzZkktYmdNRXpmMks4VnJBbVdpa1hFb05Qbm5Sc0VOVUg2R0o1Sm1Z?oc=5"
-    },
-    {
-      "headline": "PulteGroup (PHM) Stock Still Looks Cheap On Mixed Housing Demand News - Yahoo Finance",
+      "headline": "Are Options Traders Betting on a Big Move in PulteGroup Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGZnOHNWeUhjOGFycFVXUElEYlFQY0hjbFZMSkJxWEVBMHBrWDg4bUY1S0E3dmgzdTV4Q05tdWEyWGxNdHJlLTZCNy1qLUZYZ2wxNmw0R2RyMjdZcU12TzZnX25XUjQ2Y3BWUWxBRENaN1c2UkFhYm9MRVE1LW93eG5pLTR1V1NENVgxNDdkUDk2OGRuS0t6MGFR?oc=5"
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0xrZ3FKbHJnX1o5NlZ3OTRyM0I2NUtINmlKbWRadFJQdzhaSmE5Qk9CWkd5QWstMUY5aG0zdkl3bU5WdjVfc1NOUVAtUmsyX0VBdEdMejNWVWxXR29rbEVRX1RRY3BjYmRvbEtrOU5sbWJZWFNoTmM5c1VvSVhxX2xkZVREOWtPRXNfYzR1QlA2VnNqRjVUY3k0SWJtRzg?oc=5"
+    },
+    {
+      "headline": "PulteGroup Inc. stock outperforms competitors despite losses on the day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSDhMOTFKUVhLUWowUHhhTEJWLW9QM1dZMFhpMFlvQ0swSTB2X2p5MVY1RTBoU1gxUGlOWk5wY01TQ0szRlQ5Tm1pV09xTnhSQmRpMHM3eWZtVThfbDRkajlRNkJvRGV4Tjg0TmR0WVVvcFE3Z1Q5RmkwcmFsdGJicEdLUUhJeWRMU3lNMXFpUVRKQy1fel9QMy1kcGpfY2hwcVFQSkl5MldmVFV1Y3FkYnRkamdWS1NBRG8zdTZKZ3RZYjNIZUZNTUtVUWRoeXRLS01FR3dzRlBFelY0YUdzYXl3?oc=5"
+    },
+    {
+      "headline": "Unpacking Q2 Earnings: PulteGroup (NYSE:PHM) In The Context Of Other Home Builders Stocks - StockStory",
+      "source": "StockStory",
+      "when": "2026-08-09",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONFkwd3RwX0NJdldJVEV0MmczbHZTaU5STlVrYjNuODVYYmgxNEhndTh6TkFyRzVocmVqdzl6b3FPT1J4VkdiOU5aR20yeUR6T2g4bndnYlAxR1REZG5UY252d043ZG1lWWZWTzE2TzFvbF9faTNOZXFIRDBhN2l2LUI4VDNwSk1EdEtob095RUpSdFlPclFYUWFKVzZFbFZ2SGVBQnlDc3NxdUxzNVdiS2dXdVNQUTlIekN0REx3elhiaFVaRlhOUmxCdTk3RUJZeDNiNkRpSTA?oc=5"
     }
   ],
   "insight": "Tracking PulteGroup (PHM)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:32.883Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:43.318Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    179,
-    178.30999755859375,
     181.52999877929688,
     178.0500030517578,
     176.22000122070312,
@@ -24,11 +22,11 @@
     191.4499969482422,
     191.47000122070312,
     193.2899932861328,
-    191.64999389648438
+    191.64999389648438,
+    190.7899932861328,
+    191.25
   ],
   "6m": [
-    187.9199981689453,
-    188.19000244140625,
     188.25,
     188.49000549316406,
     189.75,
@@ -158,11 +156,11 @@
     191.4499969482422,
     191.47000122070312,
     193.2899932861328,
-    191.64999389648438
+    191.64999389648438,
+    190.7899932861328,
+    191.25
   ],
   "1y": [
-    203.6699981689453,
-    203.35000610351562,
     204.41000366210938,
     209.35000610351562,
     206.99000549316406,
@@ -411,29 +409,31 @@
     191.4499969482422,
     191.47000122070312,
     193.2899932861328,
-    191.64999389648438
+    191.64999389648438,
+    190.7899932861328,
+    191.25
   ],
-  "lastClose": 191.64999389648438,
-  "oneYearReturn": -5.901705887231501,
+  "lastClose": 191.25,
+  "oneYearReturn": -6.438042867932686,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Accel's 130 Employees Expected to Join MMA Across 7 Offices - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDN6eUVmSWJSOEpnRkFzR1JZWjZGYThzV0NhaFM2ay1ubERhajQzVTV5UWh1WWRnSWpxbnpxVk5mSFpmcEM1OEludl83WjdHLUNYamVITGZyQ0FkcXpQUy1oZUFraGNiTGFOcjVvUTdNd2huT0l3YUtZazlQWU9DQXhEczJxbE1WMl9VQ3NHZW1CeGs1Y2JWejB4UDdDcExldEpsNQ?oc=5"
+    },
+    {
+      "headline": "Marsh & McLennan Companies, Inc. (NYSE:MRSH) Given Consensus Rating of \"Hold\" by Analysts - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUnZXWWEwRzV4V2ZOMWU0R1NPdUFYb0RtRk82cWVwYm0zLWJIRGJzWmxXNWVHeVh6MHJCR2hjZlE3d3Y4LS1GdGxIVFZ2UTJYT1psMjVJSklaMWlNQmRSSU1qTXI4Q0p0c1BaUW5wVFVDTVkwZm5haXA3Q1pJQzVRb2lUWmFmQWxiVXFGaFp2bDhNT3RVbEt4S2lsSENOMldIY3JycTUzSmFPdTNSUVZKTHctUkdCdVpiSWgtRzJERGlDb095ck10WWZ0ZDRHeFU?oc=5"
+    },
     {
       "headline": "Marsh & McLennan Companies (MRSH) Names AI Practice Lead, Is The Stock Below Fair Value? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeDRncW9UYUxTXzNWRTJaRnpFeXg2S3RvMHFqMVVLdV9VSVNXcVdmNkRmcnIzYWhXTHJ2YlREUDYtV1R6blRPZVNNLWhvZEpxY3RYN1hXTXhOWU9VLXhNbVJZTy1kOFVFV1ZReFlxMlNjOUlzTWRnVkhZVlBZcFE5M2RjZl92b3AwR2c4T1RwaFhHRnNSanVNTmUwMGRnS0pEcjJyRUJuN3psR2t2M2NIc2NRbi1GeC0weFdSbFA1YUtTNjIySlNMU3BYbzViaWtsanJzU1cxaWrSAd4BQVVfeXFMTTFNbU1LSVNiekxYOG5xdjRDa3dNVlp4MDRVdnIxcHBnODRCSGVKYjVZLTlfaUVsS01tcHg2QXVGblhORDRPdGF1S0NzSW9uMVVheTJFUk5iTlBFTHcxS0JyTDNFYXYtUVVxaExnQm5udnFGN1lQZjlwVmw5ZzBwRVZETXAyOTdIWEhXZV9abjEzWnQ1SW1vQ004VzdpODB4M0N3Mk5GRUdpZTBMblp1bUtSbFlJNThuZ1hYa3psYk52a2pCRk5rQWNYYmxCYW4zWnF6RmxFMlNhN0taYU9R?oc=5"
-    },
-    {
-      "headline": "Marsh & McLennan Companies (MRSH) Names AI Practice Lead, Is The Stock Below Fair Value? - Sahm",
-      "source": "Sahm",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdFJIUjB3aEFuYmg4dXU4bkNDSVZBTG10eFpKM0pDck1lcl95LTJ2WllhRVhxb00wbGJoaEVFMU92Ml82SWhRTkpxZWNGWGF3azhNeFBhUmxKaHlSNkZnR0xTMGlCakZfWjNmSExaTmVGSVBnZ2lOcUZDUUI5dnczbWFDSTBZQ2FNTjVwOWprUWtTM2FDQWtZaFdfUzFaUjdCSzc3cGlzZm5ScVFwdnRtdnFMWTVvbVZTV3dIRm9KUmRrRlZMUXBXZk9TdjFKVkk?oc=5"
-    },
-    {
-      "headline": "Marsh & McLennan Stock: Analyst Estimates & Ratings - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-05-15",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSlNKOFVaT3FDNE9SM19MYi1aRUJFVGhBRXE4QWNLTFhfdmtJZEZScjVURzF2eDMxSHl2UjNQYnA1SHh5SnhjX2Q0TlJ6Wkp5YTAxSVRiM0xkbGxkbWdZSmhoTm44aVQwN09ZaE9idGRTZFB1ZFFFMDRTbWRmSmpXVmxEalh1LUJLMlpnVlNQbzJDZWdBRXVVQkpOdUlqVFFRdkxZTjZR?oc=5"
     }
   ],
   "insight": "Tracking Marsh McLennan (MRSH)."

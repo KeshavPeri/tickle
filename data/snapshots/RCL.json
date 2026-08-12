@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:38.698Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:48.584Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    288.0799865722656,
-    285.3699951171875,
     288.6099853515625,
     283.0899963378906,
     292.1700134277344,
@@ -24,11 +22,11 @@
     325.739990234375,
     327.4200134277344,
     320.54998779296875,
-    320
+    320,
+    308,
+    307.1499938964844
   ],
   "6m": [
-    345.9800109863281,
-    324.6499938964844,
     334.04998779296875,
     326.2900085449219,
     328.6499938964844,
@@ -158,11 +156,11 @@
     325.739990234375,
     327.4200134277344,
     320.54998779296875,
-    320
+    320,
+    308,
+    307.1499938964844
   ],
   "1y": [
-    301.44000244140625,
-    302.8599853515625,
     313.0799865722656,
     313.4200134277344,
     312.29998779296875,
@@ -411,29 +409,31 @@
     325.739990234375,
     327.4200134277344,
     320.54998779296875,
-    320
+    320,
+    308,
+    307.1499938964844
   ],
-  "lastClose": 320,
-  "oneYearReturn": 6.157111666757445,
+  "lastClose": 307.1499938964844,
+  "oneYearReturn": -1.8940823208488542,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Royal Caribbean Group (RCL) Stock Is Down Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUN2WjFxWGJ0NGlBTnYtX3I4QUR0WGMyUWtUQzhXY3pLQnlwZXZOVHZVcngwNV9SckRnc0UtWjl0YmRyRXUyT0w3d1B6YzVXQV84WGhmX0pKbHlRQk1DM3dTaVl5cnBlNDl0cHFveTlQYzRJdlBCWElGNERpd0lGNlNuY1hyU3NCQTA1bkpZRFR5QQ?oc=5"
+    },
+    {
+      "headline": "Royal Caribbean Group stock underperforms Thursday when compared to competitors - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVGVtUTBLVG5EVFlPSjVxNXhlcGVKM0dISU1URzIyZGk1MkJIZTd5R2lzR1VNS2Q0SUx3NU44TV9kX0hGMzVzbGdYc2dDS1BZWXdKSnFIUktrV0d6VHV0cEhwVndfZzJzN2VKNVRpNnJVVjdsdVBPNHNmdGNkOG5FM3h3UnluYi1VREdyTnFYMEx4Nllhc05HeEZyTGZmMWR0R1Uxa25yeFpTeHpxUUxaZ2ZuZFdKWW1iX3pRWG5JdWtsdkxucnlDcjFwY25mTnhOUkNxV0V6TkpIWXFqVzdGY3NlWUNNbURTdWxKeEpB?oc=5"
+    },
     {
       "headline": "Royal Caribbean Plans to Use $1.25B Debt Sale to Repay Loans - Stock Titan",
       "source": "Stock Titan",
       "when": "2026-08-06",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2NlM2dLR2Q4bGRWT1dnOUtRX2JSR2Uxd19nT1VmRmR0cG8wN0FTRG1SaWpET2JrRmY0NGpBRjVVT255YVNZZDVZcXpCT0RMblZNU2hkUDdyOHZfMjJUS293ZFZKb3pHS2xiMXg0Tl91azU4dmpoNjV0cFdwaTVZb1RUUFROSDlhUTQ1dWZRdU1DNWo5MlZ4NVFjV0FlVzdCUVJ5VkNweVR1REJBZEhKcXgwVVpTT1k?oc=5"
-    },
-    {
-      "headline": "Wealth Science Advisors LLC Grows Stock Position in Royal Caribbean Cruises Ltd. $RCL - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT25HN3drZi1VNDdFbWgyQTVkSnpyODBYc0dCUUQ1THJvYzJlSm5RUHROaEdKUW9ZN2xYTkNOSkt4ejBONGxGVlgySDk3alBPWFMtMmRjSV9EWFBsN2tPbmt2Y3owZ19KN3phUVdVVXpXc0dmb0V5eWFKamxxUGxmSVl4RHRhQ1lMbm5raV9rNFprWGdoQk16UURDR3dDT2V6RjRtS3FVSlhNS1lqbkxuUlVGU3RoaV9hSzNxRDFHVDd5Sml6Mmx5a3JTQjFWbVpHVDVvSUFGcEY0amQ4?oc=5"
-    },
-    {
-      "headline": "ROYAL CARIBBEAN GROUP REPORTS SECOND QUARTER RESULTS ABOVE EXPECTATIONS AND RAISES FULL YEAR GUIDANCE - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOHVZMXNuN1NUZldZSFRid29oamY4OUptYmNEalc5ZF9TNmh0U193bFJ3dElLNHlicWJ4Mnd4Z0hROXl4MVZ5X2EwTUs2bDV2M25BdDZzMHlWOUlxc1dRQzJHdGljQVo0bWowUno3RV9XclVDZHBTNWFUUUN0RVBsQ05MTkU4MVRTUW1DRjEzNUpsYmZSdW53OWNtQlZoT3U0Mi1OZXpZY0ZqQlNrekZaV1JyaWxPODhXUjl1NlF6ZjJIS0gxOGV4LUVQNUp1U0UyX0gzYU5BYzBhTkhtUU41NWdGS3M0emdFQlZrd3VB?oc=5"
     }
   ],
   "insight": "Tracking Royal Caribbean Group (RCL)."

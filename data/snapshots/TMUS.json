@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:42.736Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:52.174Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    181.47999572753906,
-    187.61000061035156,
     188.41000366210938,
     187.1300048828125,
     187.6199951171875,
@@ -24,11 +22,11 @@
     177.2100067138672,
     173.4600067138672,
     179.97000122070312,
-    177.19000244140625
+    177.19000244140625,
+    178.1999969482422,
+    178.5800018310547
   ],
   "6m": [
-    189.27999877929688,
-    197.2100067138672,
     194.99000549316406,
     197.67999267578125,
     201.7899932861328,
@@ -158,11 +156,11 @@
     177.2100067138672,
     173.4600067138672,
     179.97000122070312,
-    177.19000244140625
+    177.19000244140625,
+    178.1999969482422,
+    178.5800018310547
   ],
   "1y": [
-    244.97999572753906,
-    248.8699951171875,
     252.27999877929688,
     250.83999633789062,
     250.30999755859375,
@@ -411,29 +409,31 @@
     177.2100067138672,
     173.4600067138672,
     179.97000122070312,
-    177.19000244140625
+    177.19000244140625,
+    178.1999969482422,
+    178.5800018310547
   ],
-  "lastClose": 177.19000244140625,
-  "oneYearReturn": -27.67164440705078,
+  "lastClose": 178.5800018310547,
+  "oneYearReturn": -29.21357115302567,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "T-Mobile US, Inc. (TMUS) Stock forecasts - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdmduYjZTUFE5VS1uSVctRXdfRlBfaTFjUkZHTmZRa2MxS1VKbVIzOEJRVFVrMEFRbmptQWNKRkdwVk1zaTQ4RnlObG9CTXdCMkZQVEJzRV9oUDQyNlVfTzJrNFRxY1Q3anJtNUFQLVJzTmkxWGJvMkZfbDRCOGVtZkx5VElBNUhZUGd4cXJB?oc=5"
+      "headline": "T Mobile US (TMUS) Could Be 27% Undervalued On New Plan Rollout - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03el9mUGdoRlJNS3lRZV9ERkNoLTg4VHp5Wm5jQmlOV05uMFNkOXJOZHZoUFdVd1BGZEg0LTR3dDdtbS13Ny13SVdYRVdPVTIxRnMwRHNzZlZhOEdHaUs2bnJsTXhqakdYM1N4aS1ENE1fNHlKd2t0eERxSQ?oc=5"
     },
     {
-      "headline": "Verizon Stock Faces Fresh Questions After The Outage That Hit US Mobile Networks - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc1dVR1hvQk9SUTlnc1NWOUZWUHROTDQ3VzVsd3JzVGZ5cnhOMGdjUng5dGlYUzZ6TFQ3NEhvNFZRcHpkMk9uMzI1ZFAzZHV5NWpGRkNvdHd5Z21RQVhidVlTM3hEV1BWWUptNUlqeEVyRWFvOVMtYVZLSDloc3dMVE5XdXFFUkd1ZzRKQWloa2lFSDdyeGFrRldMSjFCU0N6bzJkelVCMjhHeTR2MC1uNGdFOGh4UHk4cEtUZzZidW1TUF8tTUZRRnYxSVhuN2ZwaHfSAdcBQVVfeXFMT2Fabzg4alRXTGtSNWZxc1d0WERHYkR5cDFTVUxrb3dvVHlNdldwQ0N3S1RJeUFYX3hmSVBrRFlvYkxxQlFER2xWeDZkM1o5RHZVR2p1aUNGblRxOVdFMUE0VjlDSmgwVjRfVG05NFpoblVlNGo3VlhTVkFDZ1RkRVA0TUduanBYRWktdXdkbnVQbDdxc082b3hJUTNXTlhnT1dfNlg3NzI2RjJKWnFkTFJiekRhc2F1TDFTSXBkQ0JJOVcyeXRkVC1OSHJIeTJuOXNpSzBqYnM?oc=5"
+      "headline": "T-Mobile Trades 800 MHz Spectrum for Cash and 600 MHz Licenses - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaGgwNEpIUDZrSFFGUkFVb3c3TG5la1lMa2tQelNIQXBfOGdWOVRHX24xTW5xdWQtYzk4bXFkdzBYX2FjdzFhSDJOanNLd01tZUVtSDZqRUc4QW5XSjcxdGVxaFdhM1JTWk1VUWRRUHBYS0dRUW8xTjVZT1F4WUJhZ3c1Qk53RVF2ZXUwOFlTNFpzSG15S2Fhak05YXdnREc4WGxiTjBMUEhfMU10bzJYYVVyWlVKWUc3Tmc?oc=5"
     },
     {
-      "headline": "T-Mobile expects temporary hit from new pricier plans - Reuters",
-      "source": "Reuters",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0J5azlZbEJLaGI4dlFlYVpLRHFwQW9PNTBRTVBZN3lXekVDNmlTQ29rSy16RHFIeEpNbGlqOVpUdnA3ZWk0dTVObVFrX0FtUTZCUkJOTDlDOGZYcE9ET3hGTnQyQXY1QllZcG5vMUEyb20zaUFLUXdpM3prSEpMN2ktZnFZUHplR2pEWXdzY1hJM3ZiUnZYY3lCSFRKc1BneEhVVDlzUEpqaWp1djREQjJodUI0SXZldEZTM1pmWVBWTjR5VWQza2lR?oc=5"
+      "headline": "KMG Fiduciary Partners LLC Purchases 6,405 Shares of T-Mobile US, Inc. $TMUS - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeGxZMktLSzVzNnZkd3A5T29tY1I0UGc4YUMwd1RUbEtBbFJPWkdBcjBWSlRMWnVQcXpPS0l5dC1nc25mN3lvaDBXQU5jem5KM0xzc1FKQlE2T1FNMlFUX1ctSmZ6LVBrQVRCSzdBN09PeVM2TXJDMnRXMkV3UDRKN0VvenJYNmZsOUZld3RHcFFxdm5PbGpCMERFV0E5WkhSNDBtdTBGMDNvekk3cEM4aWhSN2pMX0t2RW1qRUtlVTZWU0dqRUMxZjlxbWpMQQ?oc=5"
     }
   ],
   "insight": "Tracking T-Mobile US (TMUS)."

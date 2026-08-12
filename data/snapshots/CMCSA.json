@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:05.639Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:18.735Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    23.350000381469727,
-    23.56999969482422,
     23.969999313354492,
     23.190000534057617,
     23.489999771118164,
@@ -24,11 +22,11 @@
     24.93000030517578,
     24.75,
     25.170000076293945,
-    25.360000610351562
+    25.360000610351562,
+    25.200000762939453,
+    25.649999618530273
   ],
   "6m": [
-    29.239999771118164,
-    29.75,
     29.59000015258789,
     29.760000228881836,
     30.5,
@@ -158,11 +156,11 @@
     24.93000030517578,
     24.75,
     25.170000076293945,
-    25.360000610351562
+    25.360000610351562,
+    25.200000762939453,
+    25.649999618530273
   ],
   "1y": [
-    29.681350708007812,
-    29.43767547607422,
     30.084348678588867,
     30.87160301208496,
     30.83411407470703,
@@ -411,29 +409,31 @@
     24.93000030517578,
     24.75,
     25.170000076293945,
-    25.360000610351562
+    25.360000610351562,
+    25.200000762939453,
+    25.649999618530273
   ],
-  "lastClose": 25.360000610351562,
-  "oneYearReturn": -14.559142338796532,
+  "lastClose": 25.649999618530273,
+  "oneYearReturn": -14.739721000556463,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Comcast (CMCSA) Expands In Waterbury, Is The Stock Still Cheap? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2l3QUVYWVhNNGlNZTF0Z3VzRUpLNm9oNGFwWWZjNlJWclNuenhCSGhIR2NPRFhiTHZBZ2JPYVpTSkZmYTVLZkNWZUx0ZFEteXFtVUtFbjB5SjVqN2ZoQ1ZUcTdMM1FUNlRTOHdudFBtQmNnTkdDMEloamlqSDhYcVNVNnoxV2FMbjFfUklVQmRmWm51cHFCdDMzeUZaakpyTjFFNQ?oc=5"
+      "headline": "Comcast shares sold by Congressman amid Univers... - pluang.com",
+      "source": "pluang.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDljY0xqZlRQV1RjZWdMcUQxaEFGb2dLZHBkdXh4VFRZSVd5dFE1VFlLRUVWOFJIcGhYRHRFZzgxcmNEZTFaa3JzRlYwTnVGRE8wN19hY2pfVzBkMzBCWEZOYWNta3VyeExRcnVHb1FDNTFjQzRNcVZEMndfcDJxRmJLMWdnNlFZQmVIZTRXQ0E?oc=5"
+    },
+    {
+      "headline": "Comcast Corp. Cl A stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN0J3c29OaGZGZVNkbGswdEZDVm1rUzNPQVV4N19yVnIyNVh0OF8xNHZZdVdZRHVrYS0za1NOQzE4WUlDVlJXTjk5Y2FwUDZ0cFZmNDJGZVJSUXhicXhRMXZDMkJ0VWZHMDNZTEJRY3ZRZDJfQ0tzWXo2SFVlUDVwZW1NZ291c05rLU1vUWNFTzc5Q3hLUFpTWm40bUh0TmlXYkxiQkdROFNnZ1E2dnNQZ0lpdDlCMVlKMzN0VkVTU3dBaUVYZlYtbGNBOUtfNzYyYXI2QnZVOHNSUlBzTE90Yg?oc=5"
     },
     {
       "headline": "Comcast Stock: An Irrational Discount Ahead Of A Major Catalyst (NASDAQ:CMCSA) - Seeking Alpha",
       "source": "Seeking Alpha",
       "when": "2026-07-24",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOWNGOUFNMDdZd2x5bExSaVBIZUhsMFFwQVEzUVBoUkEtazAzd0F0NnJsR0JlM0trMDVrRlJpSGNjSU8zTWEwcHZTUzN4VzgtMkNXWkRsVS1YUktqdmFPSnVvYkw5NDVDLXZfR2Uzc2VSTVdSdWNxTjNvV0VIWjZZc0VpN0l2WU9VVGg0X3M2V3dyd3ZKSXBjVGptbUdDZw?oc=5"
-    },
-    {
-      "headline": "Polianta Ltd Purchases New Position in Comcast Corporation $CMCSA - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0N3dGJibUNYc01YWGcwbTg4c1FaVHZPM3dGRm1CU1NfMk5WclZ0emUzaFQ4YTdlaUVpVFNxNThjcVpTU0hiZGlvZlRsYWNvNUVqTy1PX2JrVV9WZFRQeUJ0X3I0cTZaRTc3cVh3WjNPU09nWFFyd095NEtjY2tjZTZ1WV95OGEzUEQ0eTlKSkFOclJrWk5xS3VMWnpnRFBNRXpGaHJQSkhuNjdOQlp2N1c1b045Zm9hZFNfU3hUN0ZyekU?oc=5"
     }
   ],
   "insight": "Tracking Comcast (CMCSA)."

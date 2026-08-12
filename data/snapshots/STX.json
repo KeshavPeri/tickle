@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:40.874Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:50.712Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    890.0900268554688,
-    910.3400268554688,
     860.6599731445312,
     878.3099975585938,
     828.2999877929688,
@@ -24,11 +22,11 @@
     845.3499755859375,
     837.6599731445312,
     852.9500122070312,
-    812.760009765625
+    812.760009765625,
+    800.989990234375,
+    820.52001953125
   ],
   "6m": [
-    446.57000732421875,
-    407.69000244140625,
     432.95001220703125,
     444.45001220703125,
     418.6300048828125,
@@ -158,11 +156,11 @@
     845.3499755859375,
     837.6599731445312,
     852.9500122070312,
-    812.760009765625
+    812.760009765625,
+    800.989990234375,
+    820.52001953125
   ],
   "1y": [
-    150.4499969482422,
-    151.69000244140625,
     155.58999633789062,
     156.9199981689453,
     155.72999572753906,
@@ -411,29 +409,31 @@
     845.3499755859375,
     837.6599731445312,
     852.9500122070312,
-    812.760009765625
+    812.760009765625,
+    800.989990234375,
+    820.52001953125
   ],
-  "lastClose": 812.760009765625,
-  "oneYearReturn": 440.2193594229389,
+  "lastClose": 820.52001953125,
+  "oneYearReturn": 427.36039516920397,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Seagate Technology Holdings PLC (STX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pTVVRVndzNXhRd2FUQzFoTWlObUpjX3RHcDQ0VUNMSDZwT1RHRmpZM1VDMWRTanQ1TDlzS1R6UTV5Z1M4ckpBam5KNUF6ekxE?oc=5"
-    },
-    {
-      "headline": "Affinity Capital Advisors LLC Has $4.15 Million Holdings in Seagate Technology Holdings PLC $STX - MarketBeat",
+      "headline": "Seagate Technology (NASDAQ:STX) Stock Price Up 2.4% - Here's Why - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdWdhY2RYTUFRZ3dkRXd5Y0dXYmh6bGw2VXR5M1d0VXNGeGREZldndWRManlRM3pYMFpTZTRhVVJRTXNTbndkYy1fMjlPRElSTExHem9URk9xMjUtYm9UbWNUNnlIbmloVDdJTDJJSEVqS0F4cXFLVmF0WUhLeGR0a3hFNHByZ0pRUXE1NFBtSm9Dak1oLXdsQjVEY3RiV05LdnJEcW1vYWI2SVdvem1oUzY3MnFyMlZqTnZjNmNtSjNZbENrQUVacmhmanhRU2VURW1Sa0h4VGZoM2NzUEhCNkN5aF9fMHFfUUE?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN1NQTllneUNhdHJ2cDJBYUY5QUR0cjZuYXZ4bkgtcHlkR2h3QlZvcjM3U00zUUFLd3JwQk81ZmkzOWc1TVM3SjBMUVYtbjEzQlNvdjBBRnZhX1IybzBoakoyR092M05LdFB6TkQxVlQxWHlkM29aQ1dlRGpqUEkxMWNRZVh2TkMwZlZhdHBnUjJsYkI4U1FkQmROZGQ4T0pCSTZHZ2tSUjVqcTNkb3Bz?oc=5"
     },
     {
-      "headline": "Seagate Technology Holdings (STX) Posted Strong Earnings, Is It Still 27% Undervalued? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNV9raEh4Mk1scVk0UGdsWHVpRFhxUEtidER4VHJXTlpSOG1YQkZ4aTZSTU1oUU9ZWk05OGtfSmRGdjhVSWkwS09wVTlXNHcyN2c3djZ0bXZSMXpjWmZIWTdoUnprRjA2dEdtQ3FxOHM1Mm1vekd4NmZYLUNfaDJGUzU0YU9aRG9VaUhTR1NfOUllWFBqdEJpLUhNN1hhbHZPQm1PaVM4dHRvMW94TzBseWJxVGYwRmNUQ3JGX2kzOVgwMTA0TXhDdE1LWGV0M3IyUHV3YnFYME3SAd4BQVVfeXFMTWtxY1U4ZTRxQVNjODlEcFZJSFhQeU1CVkpkY1VTTG5fSE1ma1ZSaFphcUFkUHFtYVF1RTJqQ1lWRm5PRnZrNkRfWlhURFNRQ0t6eXotT1FLV0dzR2h6dENiU25iRWdhQktwcmNPdEY1ZG5tYWVjRHlNX1FvZnkzVFFDUEZ6TDVUSjREOWRfM1luUWx6cVVmeE5IWEctbzBlOTdhSnZDQkZpbFBYRVFwcXJscE1nbHVKQU53dkhzMl9nX3VtR0hiSUROVmgxY3NEYVFzWXVCZDdUOGNxYnln?oc=5"
+      "headline": "Seagate Technology Holdings PLC stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU0xreGtUOEMweVhib05TZmk2c0NPSEhTTzQwUlVlOTVtNzY2RVUxaTZvd0R1M2JjdzQxanJLeGNjdVZxZFczZl9XaFowTUJWdkszYkJKOXVUUkJTQ2dxX2NFUmRVS0VuRG9WM0FoLWZxRE80bHNYajE5MUcwOUZLQlRCUGpVV0VZYUUtdl9kM2txTi0zU3Vvalh3NWVMLWhfTVdoNElHb3JlU3h4dlI3QzF1NlkwY1RZUHRaZENJMFJOQUxDYU1pSjZ6N0YyYXdSQWNydVpicnRtT3hqNDB4andZWFplTkVZVXFiYVIya2hxaDQ?oc=5"
+    },
+    {
+      "headline": "Seagate Technology: AI Runs On Disks Nobody Else Wants To Make - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmJvQlBRUWtxbzA5YV84dlVHWkpEcVFITmNxZTlMSWlEcUhzR0FXekNJVmNXXzIyOExnMmk3UTVzY2Fhd0ZaaklIMGVJWU1DVzh6aVBuWDhueUY0TVlMSnN2RmRJRWZzQmFwMUNudUpKZVVfZEkzeXRESFlyVnhkNGJEbjExNkx5Wjc3MWtYbXRwdw?oc=5"
     }
   ],
   "insight": "Tracking Seagate Technology (STX)."

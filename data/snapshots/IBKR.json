@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:25.372Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:36.219Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    95.27999877929688,
-    94.08999633789062,
     93.55999755859375,
     95.61000061035156,
     97.41000366210938,
@@ -24,11 +22,11 @@
     88.62999725341797,
     88.73999786376953,
     86.0199966430664,
-    87.83000183105469
+    87.83000183105469,
+    90.66000366210938,
+    89.77999877929688
   ],
   "6m": [
-    75.66000366210938,
-    74.87999725341797,
     75.2699966430664,
     74.93000030517578,
     73.44000244140625,
@@ -158,11 +156,11 @@
     88.62999725341797,
     88.73999786376953,
     86.0199966430664,
-    87.83000183105469
+    87.83000183105469,
+    90.66000366210938,
+    89.77999877929688
   ],
   "1y": [
-    65.91000366210938,
-    66.18000030517578,
     67.62999725341797,
     63.4900016784668,
     63.91999816894531,
@@ -411,29 +409,31 @@
     88.62999725341797,
     88.73999786376953,
     86.0199966430664,
-    87.83000183105469
+    87.83000183105469,
+    90.66000366210938,
+    89.77999877929688
   ],
-  "lastClose": 87.83000183105469,
-  "oneYearReturn": 33.25746768475265,
+  "lastClose": 89.77999877929688,
+  "oneYearReturn": 32.751740980973445,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Empowered Funds LLC Has $2.06 Million Stock Holdings in Interactive Brokers Group, Inc. $IBKR - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcWhvUzUyX2NTSWRic3ZiMDZzcGk5dlF6VDhUbzc3dS0yT0JwaFVJcFNWSWJVR0hyREJXNDE3VHNzbHRKX3ZkWXhyV2JBLWlDMnNTMEtPS1FvdEQ0aFVOLWd5Q0VOX1pPanJidWl0QmZmVGZXb25wS3BMS2Y4dl9zMjZfSzJYY2Z4aXNHcWpCNVFOam9mS2J6UUVHUmVXX1lmTmFtWVRLbVcyS0RlVDMxU0ZPaWhVeGc3ZTdncE5FWjlHTmotU29LOUR0VzFTTldKN0t3OWJ1WGJVbzJyOE80VHRVOA?oc=5"
-    },
-    {
-      "headline": "10 Best Online Brokerages For 2026 - Forbes",
-      "source": "Forbes",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZbEMtWERzN0xIQzJXYURQQ2IweHU0TWc0RkhRWDhEM0RLMFNhYUxma1N2eDN1S0NtRkxtT21XbTFNT295YlNLeXJsdU9oamQzMGJRTDVEMWo2RUFwRkRkQWZ4eVd6WTBmZ2xUaHVwWnFBQQ?oc=5"
-    },
     {
       "headline": "Interactive Brokers (IBKR) Stock Could Be 43% Above Fair Value Despite AI Connectivity News - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-05",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGx6bE4ycVY3dFhiYTZJR3FIM01pLTdDaG9Yd0RBaEJUbVBlVGF4WVAyZTN5cWVtc2dvUDllOGxuRk1nUm9vcGUzU3RrdENqeEtVcEdXd1hLSXZQM1lZYzNkV294eFJsWUJmV2h4UmV2eG5zVGlVVWR6ZXQ5ekFRS0g2ZW1BQm5maFRUNnRVQ2ZSMmJnbmRhS2k5d0JheEx3ZnlN?oc=5"
+    },
+    {
+      "headline": "The Best Brokers for AI Trading - NerdWallet",
+      "source": "NerdWallet",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0M081WkFzbHRZcERsMlV0My1mOFYwamZ4djlOaGx3NnF5Vms5U2dMUFdfM0NEMmRpUFdhOHg5blhNQjR0S1NsV2lOM01BRk1WWUxzYVFEMDktSDZJUXlMSGpBaDdvZzQ4enppdw?oc=5"
+    },
+    {
+      "headline": "What's Driving Interactive Brokers' Solid Monthly Performance Numbers? - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUHZkOGtFbkhLZE5qYUVLNGdFN0szNy0yeDF4TEpHZVFJcUxBTWpxcTJHQmhoQ0tEUVA5NWhTNVMzNEdJcjNFeXZfa2VqZ2pCV2dRLUpXWmp4Tno0aldpSHRrSlJwSjNtaHpybkF1U0ZyRTRwRFZYeGtLcG1GTFl6SzlwazVEeTU2R05WQkhxZXRGWkpTNHp6S096LW9fTEo4YUgwTXdfRHhzZEZZTUNGdTRNOUM1MkVRNk5oeTg0ZWdfZVVKUnVYRWhQbTlVLXA2dERZR0Z3NDRqaHdDU09BRnp5U3JaV1E?oc=5"
     }
   ],
   "insight": "Tracking Interactive Brokers (IBKR)."

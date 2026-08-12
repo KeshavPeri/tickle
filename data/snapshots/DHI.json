@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:11.275Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:23.555Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    149.5500030517578,
-    151.5800018310547,
     148.85000610351562,
     149.99000549316406,
     151.5500030517578,
@@ -24,11 +22,11 @@
     150.3699951171875,
     151.4499969482422,
     146.00999450683594,
-    151.0800018310547
+    151.0800018310547,
+    146.66000366210938,
+    150.7899932861328
   ],
   "6m": [
-    150.4199981689453,
-    148.83999633789062,
     149.77000427246094,
     153.8300018310547,
     158.22000122070312,
@@ -158,11 +156,11 @@
     150.3699951171875,
     151.4499969482422,
     146.00999450683594,
-    151.0800018310547
+    151.0800018310547,
+    146.66000366210938,
+    150.7899932861328
   ],
   "1y": [
-    156.5,
-    154.9600067138672,
     158.25999450683594,
     165.5500030517578,
     163.89999389648438,
@@ -411,29 +409,31 @@
     150.3699951171875,
     151.4499969482422,
     146.00999450683594,
-    151.0800018310547
+    151.0800018310547,
+    146.66000366210938,
+    150.7899932861328
   ],
-  "lastClose": 151.0800018310547,
-  "oneYearReturn": -3.4632576159394968,
+  "lastClose": 150.7899932861328,
+  "oneYearReturn": -4.720081814725744,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "D.R. Horton (DHI) Stock Looks Reasonable On Earnings While Cash Flow Stays Strong - simplywall.st",
+      "headline": "D.R. Horton Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSV9kbVE0QTM1VEtfUklQdHZ4RGNPdDJEVE8xSVdEX0phQTZoOG52M1JLMEwwc3BRVEVDSWxsSm8weU40MDNqS2FvWTNnM2dVVWZudlEwSVFZUXl4SE1sdEMxUUd6THJ6OWx1UnRPT3pfaU44ak5ieHRmSmUydHhsLWNBMEtKRGE1ZUU0ZUxReVV0WVZ6WEdmTEFIa0FDNHc5NUR0RjdZeXpBNUdaNGJYNmU5aV9QUEFQMEdNa0Nxb1ZHd29DQ3NhU29MZTI2SUpHLWRpTUJfOWNzTjFw?oc=5"
+    },
+    {
+      "headline": "The Bull Case For D.R. Horton (DHI) Could Change Following An Earnings Beat Amid Higher Cancellations - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeWpqNWlFMDg0OGZaYkhLR0hQMElweWZuUEp6cmdjV2ZVQTBRYTV0ZU5rQTNzU0dwbWhaMmp1RE5mNUkxcVZXQkt2LXJxWTFCZzFLOEplRXBwWUJPdWlLVDlGd2l1ZGNHVWp4Mmt5UHNvTmNIQllQbk5UVWJkZUt6bm9Fd01qckw0dUdZM1NVcXRNRXJ3NUZrYzVUbExBY3laWVl3LUJqME0zZEE5ZHE4QW9XVF9wMzlLa1dBdDVYVlo2c2ZGVDdtc2VfRlZsZ9IB0wFBVV95cUxPUFhQN3h5SlEzN0ZPc09JaTU4Zm9UaVkybHpwR1A5UWstOU9DWXdOVTIwMEVrb3ZSNENSR01KQjJIcXE0bW5yZGtYbFlndVhSVWtGUDM4Q28xY213TGxMZDRrRjdkSXUwWDNkSktENlVOUHhUaU9wWWVTRmg5bmdVQW13UUhUazFmQ0FickZ3SUJ4MEQ5N0h6Q3o2YWVuTjdpWHpWN1JpcTdvajVCM2pXRkVzNVF1OEEwWVhfVXFVdHdKaU9OdDlYLTFhUV9vVUp2WmdZ?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY0J3NGNFeWltX0Yxa2M2TmxhQkF4MUZydUNseF85dTFGR3hZcEcwcWthUXZrS1JvbjNxZVRoS0M1LWpkWGIxMGFvYnpXdU1GclZZU1ZXRlQ4VVk2dktDTE5VaFdHcWIzZzd6T0szWHFLUGhyaXBsdV8xTUVFSmhuRUZqRWZ2UERXSTBKSjF2WTg4ZU0tOVc4YUw5T2JpWDQwSF83V3pidDdfcHo3cGx5NTVraFg0eUc1VFNsYmU1VFJQazRDUEgzNUVKU3hTYjhJd2VyMNIB1AFBVV95cUxNY0J3NGNFeWltX0Yxa2M2TmxhQkF4MUZydUNseF85dTFGR3hZcEcwcWthUXZrS1JvbjNxZVRoS0M1LWpkWGIxMGFvYnpXdU1GclZZU1ZXRlQ4VVk2dktDTE5VaFdHcWIzZzd6T0szWHFLUGhyaXBsdV8xTUVFSmhuRUZqRWZ2UERXSTBKSjF2WTg4ZU0tOVc4YUw5T2JpWDQwSF83V3pidDdfcHo3cGx5NTVraFg0eUc1VFNsYmU1VFJQazRDUEgzNUVKU3hTYjhJd2VyMA?oc=5"
     },
     {
-      "headline": "D.R. Horton, Inc. (DHI) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OV0FNQ3FxWXB4Y2J6THE3NlJ0cXFfa1JGZ2hhOGRiREdWbU9CN29zeEZIZldBQUgzamwwaDlYSHAyQ2dBWUpJcjg4SXU2UFltdEdfS3JOVUoyejR6R0lNUg?oc=5"
-    },
-    {
-      "headline": "Polianta Ltd Invests $2 Million in D.R. Horton, Inc. $DHI - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0xxVVk0dzBBUTJTeXkzX3FOZHhTbF9UVWxkUGNsVHBmVHIzSVl5QmppbVBpUGlLQVdDVWpReFN6ckZIeHNXeTIzUGFEMUJEMFh2Y29ZemFFTGYxTFcxa3NlcFVENjNXS25RRDF6eFhfYzcxcXVoRkVCb3NCSHZjVl9CWjJhNHNpVlRtTkRqRlhwTzVsUzd4RU92Znhya1lWdUFOUTR2b3JqeGphcDJQSk53?oc=5"
+      "headline": "Are Wall Street Analysts Predicting D.R. Horton Stock Will Climb or Sink? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0RLa3dmS28tZ0QzdkxUME5jUDNhdjhTS0luajhDQklFT3lQYXlYeDlCQzNJM2dMcW04U3VCMTdvQW85Q3RGd29QSG9zYXZYOVlvVGlKckJWWU5GWlRmdnNWeEFSd1ctQ215WEVLVkxkLWltS1EyQ1VYQkJPNy15bTMtRE1tbWFGM09RaklWWXM4X0Ffb09MdnFHOVNsRWtCUkpZT3ppQ1JCeGs3RXdYaGNEMW82dw?oc=5"
     }
   ],
   "insight": "Tracking D. R. Horton (DHI)."

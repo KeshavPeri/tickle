@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:45.573Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:54.764Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    269.9800109863281,
-    270.1099853515625,
     270.30999755859375,
     268.8500061035156,
     270.5199890136719,
@@ -24,11 +22,11 @@
     299.20001220703125,
     293.4100036621094,
     292.5299987792969,
-    294.55999755859375
+    294.55999755859375,
+    293.3399963378906,
+    287.6300048828125
   ],
   "6m": [
-    244.2100067138672,
-    244.22999572753906,
     251,
     243.57000732421875,
     240.97000122070312,
@@ -158,11 +156,11 @@
     299.20001220703125,
     293.4100036621094,
     292.5299987792969,
-    294.55999755859375
+    294.55999755859375,
+    293.3399963378906,
+    287.6300048828125
   ],
   "1y": [
-    271.8900146484375,
-    267.4200134277344,
     263.0199890136719,
     267.5,
     266.82000732421875,
@@ -411,29 +409,31 @@
     299.20001220703125,
     293.4100036621094,
     292.5299987792969,
-    294.55999755859375
+    294.55999755859375,
+    293.3399963378906,
+    287.6300048828125
   ],
-  "lastClose": 294.55999755859375,
-  "oneYearReturn": 8.33792404604092,
+  "lastClose": 287.6300048828125,
+  "oneYearReturn": 9.35670933659015,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "VeriSign, Inc. $VRSN Shares Sold by Bank of America Corp DE - MarketBeat",
+      "headline": "VeriSign (VRSN) EVP Indelicarto sells 500 shares in Rule 10b5-1 trade - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0FEblFFTUdmMGszczBhZU42dXRHeFowUFZtNW1maDNDN1dxYlRzS3licDV5MHlfcG5jUk9QRUtxZnZzVVc1TnJZTGRuVG5ic0Q4OEVQcUszdEhTdWcxTEtqTGtwTF9nd0lyNTFGWUZtR3VCZ01XOWFaZ1cxdjBNMXl0ZTBuQ18tY25lS21US1N0SzRBNmxXT2ZueHE2Tml3Rzd4UV84RG00Y1k1X1E?oc=5"
+    },
+    {
+      "headline": "Insider Selling: VeriSign (NASDAQ:VRSN) EVP Sells 500 Shares - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnFGdEE3bXphY2VBOUVObG1QMmRIM3dlQzZPVlZKcHk5VTg4TmxrRXNkUkVhaE54UVFDTHJBeW9Da3VVTm9iaDZkdWhCQTZ2N2s1N1JPMUpOdkZaWWpXeHdOeFdJN2NMQmMxNzBYU2g3NkdMTTA0UldwSEhPSkV4bUFyVTl5X19OTUdEaU9DZXJXQUU0QjlSM1Rjel90dW1RNWVHR1FqWFRtMFVuQ3REUE9EanE5aVNI?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnI3NHJJOE9RdWdRZUVqY2JBcUxQVFVsYkxhRlFhdThaeFNVQTR6eTJKdXBrWUdSNzNKZFNtdk4xZjhQcV9OVEJuLUVLMkxEalFudzdLZUdjNVdMaUdZWFJHYVpwV0lDVlBRZ0Y3YWxRY2N2MmgzbVVnVDZQYkprMDBHc2lhOW14OG1xRnc0Z0pINm9Zbnl3Tk5wb3FCY0xkbEs5MmFwbzlMVk8wTkhj?oc=5"
     },
     {
-      "headline": "VeriSign (VRSN) Stock Looks Strong On Cash Flow Yet Stretched On Earnings - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3VLcFdlbXBxRDA0b1BzZW04bnFTNy1oTXRtUDZtWmNhLUViWjJrR05aVnptQTNmRGJ5ODM1aW0tcjRIVXB2c19RM2JaaWNCbXlJaHFyNHYwdjNOWjdQTWlYaXM4bEEyelUzSl9lZEJ6Mm42VEtGeDloR3BtcEtPM0JXbWZTTU9rcTdXcHR4d041ZmFaTXN0MDRKQ2tnZw?oc=5"
-    },
-    {
-      "headline": "VeriSign Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUlZRcWJkaGNEZ0YzNkZFY2M2dDFtQ3A0UzBEQm4zNkhJWWxCNzFjdGlkb1N0T2Y2bFRVNVFlWHoteWpQMWxLM3Y1TUVmMGNWZjBaQTB1RmxSd0p4VGZxdThJaU1fRFVPMjVSV2YxbzVNWDV2VW11dXNIRU1pZlZ0SXp5T1VCSjhZTVZTNzB0MUlfRkd6VGpvYmd6QjBFbUJkQl9xMlN6ZkJYYjgzR01SS2ZiZmI3bm42MFV4NlFhSkRUMjY3MmZnSzhyU3QxbHRaNGdtajh1aDRXZ0hiUDE1TWhJMA?oc=5"
+      "headline": "Wrapped VeriSign Tokenized Stock (xStock) price today, wVRSNx to USD live price, marketcap and chart - CoinMarketCap",
+      "source": "CoinMarketCap",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc1JmVTgwVmg2UXhueHI3dUp0S29ndXB0eWdIVS1wYWdlcmJMU3dOTkwyNkxlNlRrNlp1NXNscWNlTkNiMm1nOEJFdXN2UU1GMG9pWTNQbnBVdWI4MFJwM2tXdzE0a2lybGY3ZVFkZWZoa1hFZUtQQUtZV2JRVEhXY0d2cw?oc=5"
     }
   ],
   "insight": "Tracking Verisign (VRSN)."

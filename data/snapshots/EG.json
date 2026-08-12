@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:13.976Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:25.949Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    371,
-    370.5799865722656,
     377.8900146484375,
     371.8500061035156,
     364.1300048828125,
@@ -24,11 +22,11 @@
     369.2099914550781,
     373.2799987792969,
     370.3500061035156,
-    374.9599914550781
+    374.9599914550781,
+    369.8999938964844,
+    365.70001220703125
   ],
   "6m": [
-    329.6199951171875,
-    331.2799987792969,
     331.760009765625,
     329.8299865722656,
     333.4200134277344,
@@ -158,11 +156,11 @@
     369.2099914550781,
     373.2799987792969,
     370.3500061035156,
-    374.9599914550781
+    374.9599914550781,
+    369.8999938964844,
+    365.70001220703125
   ],
   "1y": [
-    329.79998779296875,
-    330.3999938964844,
     328.2099914550781,
     336.760009765625,
     337.1199951171875,
@@ -411,29 +409,31 @@
     369.2099914550781,
     373.2799987792969,
     370.3500061035156,
-    374.9599914550781
+    374.9599914550781,
+    369.8999938964844,
+    365.70001220703125
   ],
-  "lastClose": 374.9599914550781,
-  "oneYearReturn": 13.69314897927118,
+  "lastClose": 365.70001220703125,
+  "oneYearReturn": 11.422571441456059,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "The Bull Case For Everest Group (EG) Could Change Following Q2 Beat And Annapurna Re Launch – Learn Why - simplywall.st",
+      "headline": "Everest Group (EG) On Mixed Quarter And Shelf Filing, Is The Undervalued View Still Intact? - simplywall.st",
       "source": "simplywall.st",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV2VKNlJDYUI0ekVvV0ZuUzhsU2tPX1JzbmlYSnZKQkowQVJkTmxGMm52VjQ3bHJLMXkyLTFGRzFZaDU4VkxEUDFxRjRPMWcyZGhKSDhZUGFsbTRMYlNfM1d1Z18xM19VY29sM3UxRzRmRG14SEFHRXYyWTY1MWJFQXh1YWZGVXpiYXk5UVNOYzViOXBrc3ZGakpjTkp4SzdYemQtZHpBeEVTSURrdTVmR2Zoa25LbEpzUC1SdmxXWC14bnlfWG9BSdIBzgFBVV95cUxOVVQxdGltbUcxbHlObG9KS0RSWU0yeHZ6RTdEclNVM0R4OUxla1N5MmMzWlNvakQxSW0tTVZLcmVUdmY3MkctVjJTcHJETzR6S1lLc1FNT0tJR3FVWHp0VGZwRjRtOVFuZGRHb0JCU3lRQTJMb1dvNWtGdXh3Szl2X0VzUTNXSHkzME4xS2FPV3dfNnd5MGdfbVVkYl95Rm9TRDMzZnF5WXZNYTRVUERweFU5YTQyMFh3QUwwbXBOdlhNTXBaY1dZMnhvLUgwUQ?oc=5"
+    },
+    {
+      "headline": "Everest Group Ltd. stock underperforms Monday when compared to competitors - marketwatch.com",
+      "source": "marketwatch.com",
       "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWxHZzRPMVVPb0lUM19zNncxQ3p0RDQyVXhSQlNpN3VXbnVDWVl5OEFGbUhBMU56SUJhaV83TjZpdS1oRG5Hc1hvNm1GcE91Z21TeFJ1eFZPRDg4LVJ1c2ZDWkhKTFVCcWVUblFIRlVkdl9pU0R5cWdOOGVBeFhLcHEweWNDLUZIT1Q2WUJrRXIyTXVZZExvRVFtZDJfb3NxTlkyQ2pqSDNkZ3A4akN5V2ZpRC10OGJBamxTNFp5bVVJVjJpcXRBejY4cDk5QdIBzgFBVV95cUxOVWxHZzRPMVVPb0lUM19zNncxQ3p0RDQyVXhSQlNpN3VXbnVDWVl5OEFGbUhBMU56SUJhaV83TjZpdS1oRG5Hc1hvNm1GcE91Z21TeFJ1eFZPRDg4LVJ1c2ZDWkhKTFVCcWVUblFIRlVkdl9pU0R5cWdOOGVBeFhLcHEweWNDLUZIT1Q2WUJrRXIyTXVZZExvRVFtZDJfb3NxTlkyQ2pqSDNkZ3A4akN5V2ZpRC10OGJBamxTNFp5bVVJVjJpcXRBejY4cDk5QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcE9uYm1TT2VGV055VWdlaFMxRDNkQlZRSUtBVklsaEJMaEVneVg1ek9Kai1BNzIxMVdSQTBrV0R1WXFadFY3bVlVWUk5RGJpZExvTHNBdVRHZ3JBNldIVzhUcktoQTcyb2wtNGQ0MWt3RWd3QW8tX2duM0VHN0tvSG1kUGRDdkM5YzZxd3lueDJHTTM2YkJDWUJmZTh1enJPa0VVNzNESnhUSXZqVlg5WW5GNm5WNE1vcDRxVnVCVFoxQ0hkRWRuYV9mX0VSdkE1RTdxMzg4QVFOOUVzVG1lcGFaVjBaUQ?oc=5"
     },
     {
-      "headline": "Everest Group, Ltd. $EG Shares Sold by Royal Bank of Canada - MarketBeat",
+      "headline": "Everest Group, Ltd. (NYSE:EG) Given Consensus Recommendation of \"Hold\" by Analysts - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX0JrWXJSNWdGVzN3M0FseDM3UklONjRUNTlwNjN5SWVDeE5NeVhaZjZBQ1puSjF3TkpGUnBmenpQcVotc0NkdTZSRThEaW5lWi1fRVNpOVVSdG9DVXBGNGlyOW82cWo2V1ZOcTVRbkMxS1d6OXRFN2dGVGV3TEg4cFZOUThZXzZ1Mkl4WVYzaW5LLU9qYnlHVUpMam1nbXlNczNEOGNJeGN5dHkyeFFNWlV2TXdRRGg1?oc=5"
-    },
-    {
-      "headline": "Everest Group (EG) Expected to Beat Earnings Estimates: Can the Stock Move Higher? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZlByMTBucm1TaFpHTDlKOFJhRjIxNWRvYU5PTkU1c05iZHp2WThuS0JpX2hnalRLNnNvbkZLaUZvX09BUGo2SUY0SGF5Sk5hSlJEVms5NXMta3hiV3c5UEI2ajMtdjlxR3BTN2FmVl9SWUEwSmdVRWxSa3BncUhfYnlQOFhnWnNLTTRyMXFoaWl1TDlqdm9IWlB4NA?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMXBaNzAwVi0tY1puNkJJRTRsWGxlNndVeUpFeUxCQjRZMmJzTjJ0djRLM2hSQUNKdUtvcUI5MnBxcXNLVDF5QW0yWUpZTUVQQkRXVzhQOUdxQ1pob0szUVVkOTlqb1VUbDBjT0VrcHVEd2lVWE5KVHB3Y05YRnp5c0wtQkh5OW9wak9XTWtSLUprSkx0c1RpM1Nnd1U0MHozcVpoTVZnQ1R2d3YtMkY3TWNabjNXOU93bjJfNmtDRm8zWWJlQ25ZRw?oc=5"
     }
   ],
   "insight": "Tracking Everest Group (EG)."

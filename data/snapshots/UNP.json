@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:44.977Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:54.096Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    285.0400085449219,
-    286.9599914550781,
     289.1300048828125,
     288.29998779296875,
     288.3599853515625,
@@ -24,11 +22,11 @@
     296.3500061035156,
     295.5400085449219,
     295.3800048828125,
-    293.1300048828125
+    293.1300048828125,
+    292.239990234375,
+    292.8699951171875
   ],
   "6m": [
-    233.5800018310547,
-    235.10000610351562,
     235.22999572753906,
     241.49000549316406,
     249.75999450683594,
@@ -158,11 +156,11 @@
     296.3500061035156,
     295.5400085449219,
     295.3800048828125,
-    293.1300048828125
+    293.1300048828125,
+    292.239990234375,
+    292.8699951171875
   ],
   "1y": [
-    222.24000549316406,
-    219.64999389648438,
     218.8000030517578,
     223.17999267578125,
     221.52000427246094,
@@ -411,29 +409,31 @@
     296.3500061035156,
     295.5400085449219,
     295.3800048828125,
-    293.1300048828125
+    293.1300048828125,
+    292.239990234375,
+    292.8699951171875
   ],
-  "lastClose": 293.1300048828125,
-  "oneYearReturn": 31.897947101080753,
+  "lastClose": 292.8699951171875,
+  "oneYearReturn": 33.85282953945307,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Union Pacific Corporation (UNP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuTWtEVlJaMkR5TW5CaVVzUUswNXlrS3hQRFpWeEU1UmxBS2lGT3RNRXJ1NXZoXzZlSjc3V3Nqb09SSHY5aGJxZDhZUjh5R2tz?oc=5"
+      "headline": "Zacks Industry Outlook Highlights Union Pacific, CSX and Norfolk Southern - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWx5dFh3TmtJRnlsLUpYN1RFdUtId1oxLWZPckUzOUxWSHVORmplNWJ3UzNLTmZGd3IwRGozY29NdUpQZHFtTGV0cUp2YUFZUGJlVzJFTE1SVEVfQUR6ZUhkZEpGaUpZdUNXS2lJbW80a2Z3b1dFSTNMLVN6RjlpeVlIVXZjUlVKN0RFY1NSdVpKTUFTRnZ0akEyMl9VeDdCSFJmUnhEY1JXbkhYSlZOQVMtUGNUdE1FMXhQcnpQeUx3Y05qWWdN?oc=5"
     },
     {
-      "headline": "Maj Invest Holding A S Sells 174,494 Shares of Union Pacific Corporation $UNP - MarketBeat",
+      "headline": "Handelsbanken Fonder AB Reduces Stake in Union Pacific Corporation $UNP - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNajJuQS1KUWx1UFlSWjZSOC0zNjYwUUEtT2xObnk0WXphU3lLLUpjVTR0Z1hUNlRlWlc2OF9zdk5WVHhSbGJyZTRUUTR3TUkwVVpZUktDWjZPSlozTnQyNlRDekhsZ2VhWmZZNS1KQmJFVVVqWkUydGNLQ2o5Umlyci1LT3F4ZlF3UnFfd0V1bzFCX0lYM3h4OWRWV0FNdVN5emZjTXBiSTVpRWJCX2pFdi03bHZrOWdMMWhsRnprbXFiSTRCVk11bUVFRUxjQ3VuWnc?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1c5bldLdHRSYXFXYnNFWDEzNUFVS2NKb3owNUVZenF4LWlCM0RjSE5aOVpNUkl3Vm9BS3lRYTFRaFZubS1XSEN0VFkwV3hsRmZwT3NadjJNRV8wLU52NTBzekRnOW5Ec0tsNHNiLS1GVS1FdUVKNkJsQm05dE5iUllxRjdWR3hfS3NsWk5VY2JVbFlmeXYyOWdlZENGYUY4OGotRERVRzR3cDhKeWQwNDlYVEFlNmVrc3otV1dqc3VrRjVQQXJIMFNrNA?oc=5"
     },
     {
-      "headline": "Union Pacific Boosts Dividend as Stock Surges 26% This Year - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeGRzUUY4X0gtd2tyVTV1SlU2M2RrenpPYml1T09vSHNkR2hsdUdENWNQdVpTU1NiYkV1M0F4MHljTF95d3BVblFtRlhJM21OR2p1MG9najRQUnJxeFdad0E4NW42cDlGaVNLZUIwRlhsYTRtbUx3eXJvQl9nanEyVkNPSDZDSlpuc3NlVUlvMlFRMWZacWkxTm5EczF4S29ySDJRNExhTzhYUVhjQm42XzhweDZzVkVkMFBOWEc5QWRpZWJXdU9ZN01waWRsclFCZWYwVFllR0tKZw?oc=5"
+      "headline": "Union Pacific Railroad Company - Encyclopedia Britannica",
+      "source": "Encyclopedia Britannica",
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CcnR0eEE2MTdndEhIdV93Z0Y2TDdsNVRBeEplWkc3aDF5VnBseEF1ZHFBOEVmeDhQeVFFYUlHR1M0dEl3WU03Y1pZQVJ2YTBqUXY1cm1vV0J1ODgyT01SajdfWDg1M01LZmtvQmxLNno?oc=5"
     }
   ],
   "insight": "Tracking Union Pacific Corporation (UNP)."

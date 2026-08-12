@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-08-10T03:26:56.740Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:10.036Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
+    490.5799865722656,
     500.1600036621094,
     506.760009765625,
     518.22998046875,
@@ -11,22 +12,22 @@
     533.2100219726562,
     527.8699951171875,
     526.219970703125,
-    528.3699951171875,
-    526.8200073242188,
     520.1099853515625,
     528.9000244140625,
     538.010009765625,
     546.6199951171875,
     540.2899780273438,
     544.4600219726562,
-    545.8400268554688,
     552.0700073242188,
     553.5800170898438,
     561.030029296875,
     559.8200073242188,
-    551.97998046875
+    551.97998046875,
+    557.530029296875,
+    562.97998046875
   ],
   "6m": [
+    499.6700134277344,
     521.3599853515625,
     527.1900024414062,
     532.1799926757812,
@@ -145,24 +146,21 @@
     533.2100219726562,
     527.8699951171875,
     526.219970703125,
-    528.3699951171875,
-    526.8200073242188,
     520.1099853515625,
     528.9000244140625,
     538.010009765625,
     546.6199951171875,
     540.2899780273438,
     544.4600219726562,
-    545.8400268554688,
     552.0700073242188,
     553.5800170898438,
     561.030029296875,
     559.8200073242188,
-    551.97998046875
+    551.97998046875,
+    557.530029296875,
+    562.97998046875
   ],
   "1y": [
-    504.9599914550781,
-    506.6499938964844,
     517,
     509.260009765625,
     513.6900024414062,
@@ -398,42 +396,41 @@
     533.2100219726562,
     527.8699951171875,
     526.219970703125,
-    528.3699951171875,
-    526.8200073242188,
     520.1099853515625,
     528.9000244140625,
     538.010009765625,
     546.6199951171875,
     540.2899780273438,
     544.4600219726562,
-    545.8400268554688,
     552.0700073242188,
     553.5800170898438,
     561.030029296875,
     559.8200073242188,
-    551.97998046875
+    551.97998046875,
+    557.530029296875,
+    562.97998046875
   ],
-  "lastClose": 551.97998046875,
-  "oneYearReturn": 9.311626625741267,
+  "lastClose": 562.97998046875,
+  "oneYearReturn": 8.893613243471954,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Ameriprise Financial (AMP) Outperforming Other Finance Stocks This Year? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbnVkcERJVFJPeW1PZUw0R2E2ZHRWZURLZU80NWEyREUyZElpV1c3ZXYtNnVEcjJkTDVTV3huUXBlVEdoanZzM0gzU3hNT1JDRGFOX2xKaE0tbWNBZmJocWR1dWdLYUFGMzc5R2lCQ3RhZUM1WVJkUVFjZGRCakh5TTFidXpMdUxlazFBa3dxdVhqaFpfekFzbkhDakhDMVVyMWgxOEgtZEFDaG1zNFE?oc=5"
+      "headline": "Ameriprise Financial, Inc. (AMP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JTlctTkVwRHlPMXJmSHNnY0ZyOFNCMnVQUXdYODl5OGl6MlZzUkY0bXpTNE5ETm1wU0xDalc5VENKSTMtYy04REpaWDBwcnow?oc=5"
     },
     {
-      "headline": "Ameriprise Stock Leads Shareholder Yield Screen With Big Buybacks And Dividends - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN0h4ZWVGMlBnZ1ZuclRiTVVFY2MyNndQRU82YWtvSVZqcVFYV3ZGNnZLUnQ4Q2t4WWxwNm9DMXpGRjdLREh1VGRZNkRna25kb3k0ZWM2bkt2Mm5SRlE0NTY2ZnJBNHdjUjB6cGpZVENOOXFSTzNHMWVta2NGbnZ4RHdMcTdwbGMxamstODQxQVFFSjItekZaUGVON2JWTnh2QWZLUmU5Z3h1QjFpMzdzWVNLNGw2RkNlQ0FmSkQzaWl3SV9ZdjdiZm80SU0wd25sckN6UEVKaXRpenZCVFd4OEVJdnlpR3RfX2c3R0Zn0gHuAUFVX3lxTFA3SHhlZUYyUGdnVm5yVGJNVUVjYzI2d1BFTzZha29JVmpxUVhXdkY2dktSdDhDa3hZbHA2b0MxekZGN0tESHVUZFk2RGdrbmRveTRlYzZuS3YyblJGUTQ1NjZmckE0d2NSMHpwallUQ045cVJPM0cxZW1rY0ZudnhEd0xxN3BsYzFqay04NDFBUUVKMi16RlpQZU43YlZOeHZBZktSZTlneHVCMWkzN3NZU0s0bDZGQ2VDQWZKRDNpaXdJX1l2N2JmbzRJTTB3bmxyQ3pQRUppdGl6dkJUV3g4RUl2eWlHdF9fZzdHRmc?oc=5"
+      "headline": "Ameriprise Financial (NYSE:AMP) Sets New 52-Week High - Here's What Happened - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR2FJMC03VFpyQjUtT0JjVnlvVUs2WGpVZGZXYkZGdEhTX2JmaEdWekRHRDZwcWtRWVJOQlhfdElUeE92cVZmajJUeHZtbGpjN1VIblk5TEpybWtlQ29uR3JzcEpDekZaaHdWcDd5MFNNdmRBa0Y2aVY0N0NKY3VHV0tXZWdvVUVJcVdTRDVDS1dnYzl2OXNhTmRKbkVhZ0l4MHBVM0xUR3lOV2lFVjZCVEFxVEdBdm5GdmRkeXZyTUpLQQ?oc=5"
     },
     {
-      "headline": "Ameriprise Financial Inc. stock underperforms Friday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHlzcHNJUGFqZVFqU3VIRmxwWE1PRk5fNksxaU1wampPR0VMZy1tRjR2LV9yUW0wTmRQcFR1WHVWZXlhTFp4S1JNYjMtaEp2T3NaejZPSll3ajFSRkxWMDQ2OXljTkh1dVExdXJkcEIyZm8za3Q0bVUyb1NzZk1La1JCb2ZNTUdlM1g5czFudmxJN2JLM3hWVjN6anE3NURUbFVlemxxUmk2MTlFNVFpeF9rYlNiZkhJVFNPNFZXT0RwSlBUWkRnMG5OMDI4RGEtQ1h2a3lNZw?oc=5"
+      "headline": "3 Reasons We’re Fans of Ameriprise Financial (AMP) - StockStory",
+      "source": "StockStory",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFJwcUxKdVRzM0lGS1pDQm5kREJuWW1UaDVjbk5CODhEQXJWd0k4RkxTSVl5aVB4T3B1VlFfcXZOcTFOeXFxZi1sVTBmci0yZGlxdVZyLWxackNNR1ZNazRYRnpfcU85RjdLUHJ0WkU0dV9FdE5palVUUDFqVzh4QzFwVDdsMnZyV0hsM01iM25jU0NfZ3djS09tTm1DdUdvMlJURHE3aDByUQ?oc=5"
     }
   ],
   "insight": "Tracking Ameriprise Financial (AMP)."

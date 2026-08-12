@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:26:56.204Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:09.611Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    546.719970703125,
-    557.8900146484375,
     534.3900146484375,
     548.1300048828125,
     529.1400146484375,
@@ -24,11 +22,11 @@
     518.5800170898438,
     482.04998779296875,
     489.2799987792969,
-    483.3599853515625
+    483.3599853515625,
+    469.55999755859375,
+    474.32000732421875
   ],
   "6m": [
-    252.17999267578125,
-    236.72999572753906,
     246.27000427246094,
     242.11000061035156,
     200.19000244140625,
@@ -158,11 +156,11 @@
     518.5800170898438,
     482.04998779296875,
     489.2799987792969,
-    483.3599853515625
+    483.3599853515625,
+    469.55999755859375,
+    474.32000732421875
   ],
   "1y": [
-    172.75999450683594,
-    172.27999877929688,
     174.9499969482422,
     184.4199981689453,
     180.9499969482422,
@@ -411,29 +409,31 @@
     518.5800170898438,
     482.04998779296875,
     489.2799987792969,
-    483.3599853515625
+    483.3599853515625,
+    469.55999755859375,
+    474.32000732421875
   ],
-  "lastClose": 483.3599853515625,
-  "oneYearReturn": 179.78698814582123,
+  "lastClose": 474.32000732421875,
+  "oneYearReturn": 171.11747104776643,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "5-star analyst resets AMD stock price target - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMEFqUEV5LTFsdkhpYXVpbkJYTjV6aHk0Rks4QTEtc000WTdPR0QzT19vSGx3emlONXpUcFBsclhsYV9ic2t5WUZZOENHbHN0ZW1hSjlZWlE1c1lMcml1S3ZKTmF3WDVfYVkxQUFsQUNkYTZ1S1BuQVRtME9TYXRWZ0lpcVpiUm00bWtWYnh3?oc=5"
-    },
-    {
-      "headline": "Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031 - Yahoo Finance",
+      "headline": "Why AMD Stock Tumbled 18% in July - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV3AzNGo5U2J5cU1oNGxfR1lCUU9vUVhKZTUwOGhZNWpYcWtSM1pFMzhpN1FBQng3SjU4NlpuS2lwVmltWWdVbTBHZHc0LVFpcGtLZlpUTGFONHA1bHA1eERkSlZwaDA4NnZaZzl2SHJURmtjSVhsOW5sX2VSQU5nRU9kNjVyelVnbEFVUEx1SDhOb3RfZmdQa2JBOEpEZw?oc=5"
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZXVHWVFFc1NYZlRONnhmZ0dXemtDMXRfcVNhc0drbm4yTF9WRllfZENSblhxaXJpT1ZmakRpaXBYVkZZQU9SeHpZdXZSckZMMkpKc3BYUFY1RHRxV3dWaWU3LThkeUF6LU1xMkNfcnpqR0gteXhOcHBQZUs0bVN5RlZFUnhWdlN3eFZMMmNNLVdLMEE?oc=5"
     },
     {
-      "headline": "AMD Will Become a $1 Trillion Company By This Date - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWdQQ2h0cURWNDNadFh3SFV2UW8yOW10bW02ekp3LVp4U0RGQy1GUVQ4RVZmVFZfNXk5d1N1VEtNN3V6N09zSmFFWndUMkJqczBkaWlhaU5IRW5nOHF0M2VBb29UdDFzZUpybEJwdjlid1N3ZmxudDFBYlNkSmJXb2I2eHJqZUFWaGljQWFMRWt1aW1vandRbg?oc=5"
+      "headline": "AMD’s Bigger Risk Sits In Its Revenue Mix, Not Its Multiple - Trefis",
+      "source": "Trefis",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORW1OMU5QMDd0X3BiTWhRcWNLMkdnUmQwekJJMHBCLXZCNDhvTHhkakNxMGt1Y2RfU0ExaGJ3MHVVaWJJeWNJWWRfcDJQYkNWd0c2ZXJqUC0yMFZLTzNxWnBHc1p4RkE2aUhUS3JJOVFlbXRBNmc5S2RWRzVNQXJ3RVlKTWROSU9HVHlyMFJ3Z1Iwc1kwdFFqdmllY0FCbnZKaEVLall0YmZta2NBLU03U0FkNUJic0VE?oc=5"
+    },
+    {
+      "headline": "What's Going On With AMD Stock Tuesday? - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdTNBSEwtUzBNQVVKTGVoLTc1WFFVTV92YXdDZm1LdnZ4VXhtLWhMSS11b1hvMVFXNGRWeTZlMGNMd3Y3c0cwcV9qekVaSFBnV01Vc2UzU28tck4wemFJa3BqQ3N0cXZTeE54bHVzeG1oRW9aQ0xYUnUyVHN4dC1wbXl0VEd3U3A0V1NkVzEtY2dRSUJPOFJ3?oc=5"
     }
   ],
   "insight": "Tracking Advanced Micro Devices (AMD)."

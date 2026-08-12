@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:26:52.808Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:06.269Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    146.88999938964844,
-    148.6199951171875,
     146.3300018310547,
     146.5399932861328,
     148.3800048828125,
@@ -24,11 +22,11 @@
     149.9199981689453,
     152.49000549316406,
     151.63999938964844,
-    178.07000732421875
+    178.07000732421875,
+    184.6999969482422,
+    184.97999572753906
   ],
   "6m": [
-    131.77000427246094,
-    129.3699951171875,
     131.30999755859375,
     122.07499694824219,
     124.61000061035156,
@@ -158,11 +156,11 @@
     149.9199981689453,
     152.49000549316406,
     151.63999938964844,
-    178.07000732421875
+    178.07000732421875,
+    184.6999969482422,
+    184.97999572753906
   ],
   "1y": [
-    121.0199966430664,
-    118.30000305175781,
     121.61000061035156,
     124.55000305175781,
     124.63999938964844,
@@ -411,29 +409,31 @@
     149.9199981689453,
     152.49000549316406,
     151.63999938964844,
-    178.07000732421875
+    178.07000732421875,
+    184.6999969482422,
+    184.97999572753906
   ],
-  "lastClose": 178.07000732421875,
-  "oneYearReturn": 47.14097856853717,
+  "lastClose": 184.97999572753906,
+  "oneYearReturn": 52.1091972692527,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Airbnb Stock Rallies On Earnings Beat. AI Paying Off, Says CEO. - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42NEtRZUN3bHZNOEZCOXdfNE9iZzgwcHBNYzFmTEY5QUNqVXZfN0ZPRmgwRTJkdHcxSXNra1NxekdmeUcteVBJSUU0b3I2dE5SWloySXliZll4X0gwdzZsbjc1RWlROUNuSk9TMlROS3dPT2ZYZktnbUQyb2Q?oc=5"
+      "headline": "Airbnb CEO Brian Chesky sells $35 million in ABNB stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2wtSURnYVVrVFdpMWlxT0pNMEptUGJJbGVDYmNtTzZmb1lmeFdONTVpdTNCeVV2NnFwZ1AwRTA3aFdPbFFXX3R2emxvQ2M5bWtTVkstbk1qN0NQQUNfMkkwb04yb0lqZnFxRFJSQVhkY0w0eGM4eERFcjBuc3BtQkE4amlScnhBR1Y3SG9lVWZEUlJoT1l1UTZGOTNPZko2d2d5RWw0eHo1b3VnLW9xUVhyV3V2eEhBNFZN?oc=5"
     },
     {
-      "headline": "Chesky says Airbnb will spend ‘a lot more’ on AI as earnings beat and stock surges 15% - CNBC",
-      "source": "CNBC",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50Z01tcGlyODFpMHRFMmZESXQ2WmF0eXdES2s2enRWdnRlMnVUSUFzWnZSZi1yTlZxWDNBc0d0RmxZNWxGZ0JmMXZSSmlFZjRvVlB4WktVV0xpNGhoZXJMdXF2NXh1X3hiaWF4eHVmY9IBdEFVX3lxTE5EWVZTWnlOTHd3ZVhrbHg2b3lkS2dwRWJLeFRZQWIyTHJHdFNBU1JvbGs0SGtDdXlaYWpOZEhPc2J5aGpBdU5UVW42WFlmcXNibk5hWTB0d1A0NVMzeWU1M3hHdi1zZHVCN25MbElVeU1pVW95?oc=5"
+      "headline": "Airbnb director Kenneth Chenault sells $1.42 million in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbnlUZmlSU0thRVhjdDRyTllxZlVLelJBNHNqRDNfaEhMb0VpRTgzZEFpV1RQNk1ILXZRWlVReDNuWlZjdElUY2dWVlJjdi1zNFMtbVNFT2prMXJxUURqMW1CajB1Rl9pOEd2SWtSbkppRzY1U3A3YlZZSVFPV1A1Y0ZqWU10cnZoY2ZrdXVQMFpyUFIxcVd1RXJWMFZzX3FSWkF2dkU2azFuci1aelhJWGZwWkVvcHhxanAwdVZHc1NIQQ?oc=5"
     },
     {
-      "headline": "Airbnb hits four-year high as investors cheer revenue forecast raise, AI payoff - Reuters",
-      "source": "Reuters",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUFoX09xbjhoRkMwSkV6RnpjWDJ6V2dSRzBNdzdKWVAtRUpzRjdJUjNkQ2NvVUxEa3A4VFg0WXZKZ0I1cGV6VmdFQTVxU2RNbW82eTkzMWRjX2dwcGdQVlRDd2FsS3lreVJVMkpvVVlkZUZBanI2YlRCeXlFd0oybXVEXzlsNUFfdE94ZC1XZ183UHFvTWJ0LVVwVF9yY1NLZE1TQ0pWU19YRzhGN0wwdXhR?oc=5"
+      "headline": "Airbnb CSO Blecharczyk sells $92.6m in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2RGTVk4VTZabFRMd2NaTTdIOFpjVGk4aDU1WjU0aTdlaVkyVGRVOEFQRzRhZ0FRZ0JEZzJadzJTRER6b1MzQ29mS2FpdDUxMzd4RGM2UjZoaFd2MVc1d2pFSEdTdDNUMHlxNHhIZGMxMnowV21DRnR2YkFzY2hXdklha1VyazBZY3FCY0RMYTJhX0RrTkg2SjZOaDJ1RzEwYUFpbXB3TVV4NjA?oc=5"
     }
   ],
   "insight": "Tracking Airbnb (ABNB)."

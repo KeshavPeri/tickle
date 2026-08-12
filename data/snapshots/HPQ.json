@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:24.287Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:35.179Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    24.1299991607666,
-    24.219999313354492,
     24.770000457763672,
     24.6299991607666,
     23.75,
@@ -24,11 +22,11 @@
     28.81999969482422,
     28.520000457763672,
     28.18000030517578,
-    30.049999237060547
+    30.049999237060547,
+    29.799999237060547,
+    29.06999969482422
   ],
   "6m": [
-    19.389999389648438,
-    19.440000534057617,
     19.809999465942383,
     19,
     19.81999969482422,
@@ -158,11 +156,11 @@
     28.81999969482422,
     28.520000457763672,
     28.18000030517578,
-    30.049999237060547
+    30.049999237060547,
+    29.799999237060547,
+    29.06999969482422
   ],
   "1y": [
-    26.110000610351562,
-    25.510000228881836,
     26.600000381469727,
     27.139999389648438,
     26.93000030517578,
@@ -411,10 +409,12 @@
     28.81999969482422,
     28.520000457763672,
     28.18000030517578,
-    30.049999237060547
+    30.049999237060547,
+    29.799999237060547,
+    29.06999969482422
   ],
-  "lastClose": 30.049999237060547,
-  "oneYearReturn": 15.089998217567768,
+  "lastClose": 29.06999969482422,
+  "oneYearReturn": 9.285711571174112,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PbDBVWF9UYVZEWmYzMmpkX0czd3VxTDdHNlAyaEF3SWdsUUhMbEdEYUQ4WUZhYzU3dkxtX2Vxa2U5TG16UUVNZl9hdTllR2ktanI1am4xdHk0QTVDWERmdVhpNk5JUmZ0Rk85RG12TWFnNHZpMVM0UjQzdlE?oc=5"
     },
     {
-      "headline": "HP Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMGM4NDNYMnRPcmJGM1BLQWNGTkpBNnd5V0Q2SXAtWExvRkpwbXVlZkIxNms1UWZUZmo4cjYwY1BGWVFQX0hFN3lSV0Y2WHRHS3JNNlh5RHV4QjVBMWVMeW42S01SbVZTa3ZPWG1MTU0tTjBmbXZuQ0o3SWstdGhKUWw1Z2VkVUhGRUNaTmk1QkVNeHBqY2ZsdFM0OFpFY2lSd3AxVUhoa3UyNnAwcGFtTFAxd0hpUzJKSnc?oc=5"
+      "headline": "HP Inc. (NYSE: HPQ) CCO McQuarrie sells 21,048 shares in planned trade - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUItY19yZDJHWGlFQ1JCWlA5YTNXaGtEdExCclNWanRHem80ejZLSU9pVmtpNTBwN0MwdnVXSG82YnQzNFk0ZHVVMXlpN3pHT2tqU3lrc25Hb1hqS2FuLWJWb0tpWlBkVzFEbUxTTGxpUWZ6VGcyTU1Xd21QOHRHZUpLOE9pNUwtbzB3QktOTXp3WVJmVmJFcVJFSGdXc01l?oc=5"
     },
     {
-      "headline": "Maj Invest Holding A S Has $164 Million Position in HP Inc. $HPQ - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2o2VHlTYXlnWFh4Smc2Q084OGo5ZWtWblhxT2RvQnFUNjVpMzRJSkI5cnBUcTh0NG1IWHd4YWZrNlBwM1lDMVZ0cjdFTkVtZGZGSjlQWmlwc2t6OWRTQlVyRXJXMXZUNURpd2ZQdVo1djBDRms1ZkZyVk1xaHFULURUR1lYdG9MSi15c2c0RlZTV0NjWDI2dm5XcG5DSU9NalktVDh3NDMzMVdycmlVRlhXWEIyX2ZPc3JQMDQxZw?oc=5"
+      "headline": "HP Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMGM4NDNYMnRPcmJGM1BLQWNGTkpBNnd5V0Q2SXAtWExvRkpwbXVlZkIxNms1UWZUZmo4cjYwY1BGWVFQX0hFN3lSV0Y2WHRHS3JNNlh5RHV4QjVBMWVMeW42S01SbVZTa3ZPWG1MTU0tTjBmbXZuQ0o3SWstdGhKUWw1Z2VkVUhGRUNaTmk1QkVNeHBqY2ZsdFM0OFpFY2lSd3AxVUhoa3UyNnAwcGFtTFAxd0hpUzJKSnc?oc=5"
     }
   ],
   "insight": "Tracking HP Inc. (HPQ)."

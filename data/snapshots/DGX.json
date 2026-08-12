@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:11.058Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:23.458Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    208.0500030517578,
-    207.44000244140625,
     207.35000610351562,
     206,
     201.77000427246094,
@@ -24,11 +22,11 @@
     233.72000122070312,
     235.83999633789062,
     238.5,
-    238.35000610351562
+    238.35000610351562,
+    237.6300048828125,
+    237.5
   ],
   "6m": [
-    182.35000610351562,
-    187.02999877929688,
     185,
     185.1699981689453,
     189.22999572753906,
@@ -158,11 +156,11 @@
     233.72000122070312,
     235.83999633789062,
     238.5,
-    238.35000610351562
+    238.35000610351562,
+    237.6300048828125,
+    237.5
   ],
   "1y": [
-    176.9600067138672,
-    178.36000061035156,
     178.67999267578125,
     179.0399932861328,
     178.44000244140625,
@@ -411,29 +409,31 @@
     233.72000122070312,
     235.83999633789062,
     238.5,
-    238.35000610351562
+    238.35000610351562,
+    237.6300048828125,
+    237.5
   ],
-  "lastClose": 238.35000610351562,
-  "oneYearReturn": 34.69145403509849,
+  "lastClose": 237.5,
+  "oneYearReturn": 32.91919058388867,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Quest Diagnostics (DGX) Stock May Be 32% Undervalued As Guidance Rises - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbEMxOFM5TmxBS0lMa3ZlV0dkY3F0bm83NFFpMXhneE5jSUMwUTBrVFBYdFRvVmhaUGwyRTU5bDhZMl8wbE41SW80WXV0ZHZLbWV5OTRMWUtjUTVJS1Y4ZlBvYW9CUzBNc2ZKMTRuaG10ajRTd1YyaGlUZXVUaVhLYzh5Z2NfV1YtRnRKZ1ZGa2NnNFcxcHc1ZFpDWU4?oc=5"
+      "headline": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history - Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5"
     },
     {
-      "headline": "Quest Diagnostics (DGX) Lifts 2026 Outlook As Investors Ask If The Stock Is Fully Valued - simplywall.st",
+      "headline": "The Bull Case For Quest Diagnostics (DGX) Could Change Following Raised Guidance And New Self-Collection Services - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0FQMVN0ZWtaN01CMGdxX2lLSWxMY1FSMVF5UVVTUUdVOUFrS0JFMng0ZGxEd1pzNU1aRGpFS0N4bjB3QzdaZEtTR0RFWXFsRVhRWEJUS2tvVjJ4eG50NldTNEVtZmpYeWY3ejU2VW9seUFtY3FONjFENnpTdzRDYjdMZUxUOTdRM0REaWQxYnlQU2p3MlJyVFNieU50YmE3SmxHYXZPUjRjbWY5MF83cFhyUVNhWWE2VUxUb1FtSnJSRXpnNkxRRDhTUGFGTnRn0gHWAUFVX3lxTFA1WUNmM3RILTBxWmlpaVFoeTQ5cWRONHM0cDAzZ201eTYxeUtqRzRiOUwxTlYxRzlwWUM4bG1pQkNEVFNtNS01ajg3S3AtWXNuUVFrcmMwdXMxWjR1dHFGd3p6MlMwdmZmaTJYNHFrNjRxT0RXQzRoSnEyZ0RmdGw3VFBHU0JxUHRhbzZneDBuSlJNX29vQk0wZUhGeWlrT2NFTGNhU2JxT3dvdDdKVWpSQnlIcHE1aTRhdXI5ci15WFBFcGh0dWhoSTVvTjJGQXdoNkpFWGc?oc=5"
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV0lJV2tOTWZqZEhsWGlDbEt4SVFGY0xmM2RNQTVUdTdMNGZDNWZUR01KYmhqWkd6cUc2UEtjaWU1S2pqSWt1WkdoZEl2bkVwYktqZGlxdHZUM3IyWHJBTFVRREFHbTBfVzZaajhmNzZXMUJMaWM1S2wxc2IzRzNyRlhmaF80c2J1c0RqZlNqUDB3bmZtRDlBaGNoa1pZcXQ4ajU3cUxkVGtyZlg1UVE3OUxyNVd5WnIwSWFwVFEwWWI3RFZHSENfLXJlcld1YlNCMjZF0gHYAUFVX3lxTFB4cFBFeVFhejJPaFZtRm91SjQtbnNCb0RWazZCekdHNUY1ZkE5WFdZS2E4X0JNb3FBaTM0bG0wRGYybzNrSjZDVE1CSk92cjJWZUxSRjFVd0ZaeW5OZTRkOVlsYUJ3eGxybFdqRmlNTlBtdFdtanBKNmNsZVgtS1ZaWGdRbDNpMUltTGcyZTA5RGpGSEwyMFZ6aTYyQWxleWFmemQxXzRKcmhNZlFUX25IcmgzMGlZbVM5d0Z6Ymw3ZEpSYmtHdDZrLVhZRmxtWmc5blR0UXVoOA?oc=5"
     },
     {
-      "headline": "Quest Diagnostics Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2paWmUwR1NfVDR1NnBZcnRDRGpwR3kteXA2bER1Ykc1TjBGTUUyb3BZN3NxVFhDR3V5MHVoRHlXZTVrU0FlOHJoT0pLVlhlVlI0ODNyTDR1dHRxN2NYeEhfUmhMVFBfdmF5MU5PWXF1UUdpUjZsazMtem5SUGRsWTlpeXlIVTh5NS1GcHZVQWxBSkN4akQ0ZERuRkE3a3RFdDlOZjRFN3dEUEx2TmNGTHE1aXB1OE1KbFUxRGptY1BpS2RSV2hlWmUwM04xQQ?oc=5"
+      "headline": "Quest Shines As Deals With Hims, Oura Bolster Consumer Biz - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRllvaGdnTjU5VF8zV3ZfOWZsWl9QN3lKT0Jqb3hTcVRpMHAxRFA3VEdERDhpUm9hN1JOcU01OWVCVEVnbFQ2eEd3S0JxaEVnNWhYU1M3dnIxcWlISm1qRTB4aDJDSl8yemhtd0pNVmZiR2w3R0dvMjk2WDZGR3NyT2VLd01kckdhT0RCRVJqRHlHU2czNE15a08taUFLUG1vYlUw?oc=5"
     }
   ],
   "insight": "Tracking Quest Diagnostics (DGX)."

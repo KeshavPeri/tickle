@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:43.655Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:52.947Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    406.54998779296875,
-    407.760009765625,
     394.760009765625,
     396.17999267578125,
     394.4599914550781,
@@ -24,11 +22,11 @@
     327.3500061035156,
     321.54998779296875,
     319.5299987792969,
-    328.5799865722656
+    328.5799865722656,
+    330.8800048828125,
+    332.80999755859375
   ],
   "6m": [
-    416.55999755859375,
-    430.4100036621094,
     421.80999755859375,
     421.9599914550781,
     406.010009765625,
@@ -158,11 +156,11 @@
     327.3500061035156,
     321.54998779296875,
     319.5299987792969,
-    328.5799865722656
+    328.5799865722656,
+    330.8800048828125,
+    332.80999755859375
   ],
   "1y": [
-    329.6499938964844,
-    339.0299987792969,
     340.8399963378906,
     339.3800048828125,
     335.5799865722656,
@@ -411,29 +409,31 @@
     327.3500061035156,
     321.54998779296875,
     319.5299987792969,
-    328.5799865722656
+    328.5799865722656,
+    330.8800048828125,
+    332.80999755859375
   ],
-  "lastClose": 328.5799865722656,
-  "oneYearReturn": -0.3245889106719505,
+  "lastClose": 332.80999755859375,
+  "oneYearReturn": -2.35594380517959,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Cardano Risk Management B.V. Raises Stake in Tesla, Inc. $TSLA - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ1QxMnFFNWpLR1l5dXE2SEl2ZHh6MmxhLU82MlRJU2c1U0dTMlBhcEt1ZEVKekZSRW42WUFkaUR2dWFZUjhteGJPdVN0YVlJaFhmTkhqeFk2aU5fdnJYVElNZW9iTVBvUHJ3Tzh5V016ejd3MWdwUnJZTkdsSURWZkgxdkFHOUlwNlFnVHFWMTg1UktKQzFhRllya3phc3N5SGtkSk5ETDVCaXZQY05aS0dVd3VFdG5lSUE?oc=5"
+      "headline": "Tesla Stock Surged 40% From Here Last Year. Here's How to Play TSLA Stock in 2026. - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSVZPbHBhWFZjNFZvWmJYVHJSSGRlY2lVYjhLVFBNZ19uSXlQOFdId0E1cW1sTjRCclZhdlZMbDlyd21VQXM4REVOYzBId040QXNPYXRpbldvUDJHcVhKeEsxVFYtM0xvQmd6bHFlTW5NR2dMLVdRVmY2QS1nLW5nOWN3X3pDSzNzSVlnZlYyYklPVVlRTVkybXQtazEyQzFmT0xIZ0FoTEJjTDZyXzJIOUVFTFdGNzhJYTIyLWlQazQ?oc=5"
     },
     {
-      "headline": "Tesla Inc Stock (TSLA) Moved Up by 3.31% on Aug 7: What Signal Does It Send? - TradingKey",
+      "headline": "Tesla (TSLA) Stock Analysis: The Path Back to $400 Per Share - Blockonomi",
+      "source": "Blockonomi",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUtGdFhmYVdOSTRSTFJLdmpTQkcySC1vX0pqZ1JXeE14d2ZVNWNDeEZqbVcwRFBId2M5aDA1RG13NlhEcXBnSTlSZ2RqczY3Tm0wY0pTMk9yd204QmRsMnBLVzVvT2sza0dVMEVib3k4c01uZ1NSWllpVDJnY1h2Sld5X0ZVckk?oc=5"
+    },
+    {
+      "headline": "Tesla Stock Price Prediction: Cathie Wood's ARK Expects SpaceX Merger by 2026, Can Shares Recover? - TradingKey",
       "source": "TradingKey",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGhJeVJGNkZNNk5BSmZ6OGFwemZyXzd5OUx4VENvSkRpS0EtWUFJSXhxX2NpTzcyQUNYT3V3bGN0X0tXRG1laVFBQy1UMWFsUTdhTHFIay1IQS1IQU5CRGsyTGppZVNqT2NwNmhvaGZUUGZRX2UwemVreE5zV1UxeFplRXJIRmR6b3Zj?oc=5"
-    },
-    {
-      "headline": "Tesla, Inc. (TSLA03.BK) interactive stock chart - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tNU13Q1dqOFBtWFBqNnZvRHJ0MUhFYUJzcHYycm9uTlp3cnh2TmFnZ2RCVHJkbGF6SmxiZ2lDQ2ZqNk91ZU1iMGVpUHQxSXpXZ2FKS0toN212NTYwbEhSMw?oc=5"
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2NzMUMweUpMMkNfV0w2THhxWDNRUm04bHlmQ0xjWlhuN2c1WU9GSk5Jd2Z2akJGdEw5alpoMndDa0NodG9XODFJelp1WUdxcC00YmRRbkpTUEx6ZUhMVlVlS1V1b0ZLWXRudnNnQ2tmODBsakM5YWY5ZXY3S1J2a2QzU0xZaTdPaEVxaG5XeGpaSzBjR3lKdnVWVmlxWV9UWHFab1BGWk56TmVhX1lweUpra1NHeFJ4RUJ6NFBSNTRrSWE5U2lLYjV6dzBBR1phZEE?oc=5"
     }
   ],
   "insight": "Tracking Tesla, Inc. (TSLA)."

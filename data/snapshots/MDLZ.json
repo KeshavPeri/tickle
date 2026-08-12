@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:31.745Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:42.349Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    58.29999923706055,
-    58.83000183105469,
     59.86000061035156,
     58.79999923706055,
     58.720001220703125,
@@ -24,11 +22,11 @@
     62.08000183105469,
     62.599998474121094,
     62.75,
-    62.61000061035156
+    62.61000061035156,
+    61.529998779296875,
+    61.779998779296875
   ],
   "6m": [
-    57.310001373291016,
-    58.470001220703125,
     58.689998626708984,
     59.470001220703125,
     59.400001525878906,
@@ -158,11 +156,11 @@
     62.08000183105469,
     62.599998474121094,
     62.75,
-    62.61000061035156
+    62.61000061035156,
+    61.529998779296875,
+    61.779998779296875
   ],
   "1y": [
-    61.83000183105469,
-    61.560001373291016,
     61.38999938964844,
     62.189998626708984,
     61.459999084472656,
@@ -411,29 +409,31 @@
     62.08000183105469,
     62.599998474121094,
     62.75,
-    62.61000061035156
+    62.61000061035156,
+    61.529998779296875,
+    61.779998779296875
   ],
-  "lastClose": 62.61000061035156,
-  "oneYearReturn": 1.26152152061738,
+  "lastClose": 61.779998779296875,
+  "oneYearReturn": 0.6352816314153589,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Mondelez International, Inc. (MDLZ) Stock Forecasts - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVGtQLTQ5YUc4cFl4WHVCWnU5R2tiV2tkUUNXU2JVTHM3ell0a2ZlMjUyVHFTaU42cFVOQ1kxMWRlN3ZlQzNDUE9CNVJsLVdaSHNwQjQtakNMd2FVLUN6TGh4RmZmZEt1bE1wa3FYTE9ZTFEzcHduTUtrZHhiZmpVdzhTRi0tRElNQnhZ?oc=5"
-    },
-    {
-      "headline": "Mondelez International, Inc. (NASDAQ:MDLZ) Receives Average Recommendation of \"Moderate Buy\" from Brokerages - MarketBeat",
+      "headline": "Charles Schwab Trust Co Acquires New Shares in Mondelez International, Inc. $MDLZ - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc01vZTluQlFWVldPdFVfYlBkNHpjeW9CeXV0VWY3Vk5LS2pWYlFtN0FfWGtyMkltRWlESjZPdkZ0d2d1bVdoMTZXenpqak5WSEE3VnZrOFRZLTZyV1lGLUFBMTFFckx6TmhFbjIxXy1aMWhUa1g2Qk40WFYwMzNyeEVyaGlKYjhDdmxTMUM3dWE1UzdfVEM5bHBRc2tQdXh6eTVwaVBZVFZjbUtxLUZhQ3dndjB3N3RpRzV1MFBTTnhCYTJXX3hNSUJpU1RMQllHQmdpWjkwZnBhN3BoYzZ1d09iVFlWQklMZzlF?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQm5fc3l4UjhTQWZMVDhiVXl0QWNOUnJtWUxFQXlmNlJsRUUwblIxNjIzUlRZWi1SaWlIb0xHVVd3UkgtN0NfNmM1ZTJDMVN5V09PUjMxLWg4Z2YtTEswclp6aGlPWHJBRWV5ekc5ZzJXcWYxaDJxN3d3bGdUR0J4UTJ0bHgtYmh0MG5RU2RYbEJSSmtXMS1vaDduaUkzdHpVeXVZSnF5OGlnNHFDZ1U5U3VhcHJ6Sy15dU5QZDJzbF8wZU9PN3N1ZmpPTUR6T1JFR3dTbnd3?oc=5"
     },
     {
-      "headline": "Mondelez International (MDLZ) Stays In Focus As Earnings Strength Meets An Undervalued View - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORTlOVXJnNExINzhrVldBcDNwTkk4MFNKVkNGYkJMZndjVHRNbWcyRW5pd05Ia09oSUE3Ul9Rckc2WTdzeE5tZTY4enZZZlhVYnF4Z1NmOFBVanN1bmlBWnZpX3NmUEtGUXl2MGI5QkNUajdhUzZ1LXdDZU4tNU5nZF84OC1tNC1KMVRaYkVOU0Framc3WnVtR20yWkhKRkJUWkw3SFgzeFdVampqc3FFRk12ajRVWVRObF9oN0hLaHFuMHVLaW9wLVNBN2RlYk45clFUR183c1FPLW43dktBVDlUVnYtakpPSlHSAe8BQVVfeXFMT2x3eU9sWW5EMXRHc0VPVnZyNDloQndfS1RwNTREQTFDZnRmdW0zdnFEWXppS1Q2SThicWJ6eFJwMGdxVmV5NFRKSUw3eHBaRldKUnNhR0RBUWg0LTB3RDE2RmZsc0l3SDhRMThSVXJVem1jcmxhTmNHb2dibEhSWFkxSG1hMkdQNC11NDkwM2NURFBOQUF5alJONHNUTXBuYjkxckJWWEdXVm05RUF5VUV3Zi1lS3FLaHU4eUZUY21wbEYxOUdxb3pDRk1LVTZTMTdZczBfdWlJRmw1Y19jMmFRVFdXSklJMk1UcEdsTjg?oc=5"
+      "headline": "Mondelez International Inc. Cl A stock underperforms Monday when compared to competitors - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDZpWXFVT2NNSDlBRzhReGViRVdvaWFDemxXY1IwMm9WTDg0RHNjdHFtZnZJZ2VQcnBoYm1GWFZDTHEtV19qa20wbG5nc0ppS18xQU02UmI0ZUtVQkMybFdsS2VzRnRlcEhjNXhiZXdGOHUyaU1ibHFNWXRIVE9oMlZDbmhKNXNfYmNNQTB0TEZFNjEtNnBnQ01DRTViUUQ5dVl5TVJfVktOblB5ZUxRMEVrdGZUaVZESGNEWmVQV1lNZUlhWmx4UFd0M1RwdzFDLWxlRmtuMDIzX1RQTjhEMg?oc=5"
+    },
+    {
+      "headline": "Are Wall Street Analysts Bullish on Mondelez International Stock? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-04-30",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUnFkSnNYeXJIcHZxZXhmZVJWanl0N2dHVlY4TThHOHFsaklFYXNuZG1RNHRqUTNzWGx3OE03U013amZ3emVwbnFCRmoxV2ZTNERHalpuVlBwMDM5ZXk1TktacjNPd3dGQ0x2RUwzSWpkQUZtZ0NybmJUZVBJbjVCYjJpdTRrWjZiYndrUkRielI5VDlmWE9LQ0JuV0RFVVZsRTZleQ?oc=5"
     }
   ],
   "insight": "Tracking Mondelez International (MDLZ)."

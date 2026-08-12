@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:36.570Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:46.843Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    137.86000061035156,
-    137.3800048828125,
     138.49000549316406,
     135.4499969482422,
     135.39999389648438,
@@ -24,11 +22,11 @@
     139.10000610351562,
     138.77999877929688,
     138.44000244140625,
-    139.02000427246094
+    139.02000427246094,
+    137.72999572753906,
+    138.41000366210938
   ],
   "6m": [
-    148.69000244140625,
-    153.6300048828125,
     155.1999969482422,
     162.85000610351562,
     166.17999267578125,
@@ -158,11 +156,11 @@
     139.10000610351562,
     138.77999877929688,
     138.44000244140625,
-    139.02000427246094
+    139.02000427246094,
+    137.72999572753906,
+    138.41000366210938
   ],
   "1y": [
-    145.2100067138672,
-    144.8699951171875,
     146.8699951171875,
     149.35000610351562,
     148.6199951171875,
@@ -411,29 +409,31 @@
     139.10000610351562,
     138.77999877929688,
     138.44000244140625,
-    139.02000427246094
+    139.02000427246094,
+    137.72999572753906,
+    138.41000366210938
   ],
-  "lastClose": 139.02000427246094,
-  "oneYearReturn": -4.262793302946057,
+  "lastClose": 138.41000366210938,
+  "oneYearReturn": -5.760190465266852,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Here's How Many Shares of PepsiCo You'd Need for $20,000 in Yearly Dividends - Yahoo Finance",
+      "headline": "Coca-Cola vs. PepsiCo Stock After Q2 Earnings: Which Is the Better Buy? - Finviz",
+      "source": "Finviz",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPclJPNWdXWmdXLUpPLUppRnpPT2tPYzRLbE9wdC1MSTBVcmpLeVUxVzJ2cXhwNU5RcTFZRnFjQ1lYRER2cTFBeThIb29PUEtrSU9wRnc1bXpEY21ZcEFiTUxfX1ROanI5S0dtZGt5M25nYjNRbnhhUWNqQmw5ak9IZENvSVVBS2xKay0weEl5bFk3a1NkSDQzNmxJU2t0V2xs?oc=5"
+    },
+    {
+      "headline": "PepsiCo Stock Drops 9.3% in 3 Months: Buy the Dip or Stay Wary? - Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWh5Yk1ZYzhmUVB2aVF3OUh1RFlFZGV6QkhtazlDcmZ2S2N0Mms2dDB2VnBVeWRmT01XYzFFRTJyMUpvYTg5VmhzblZjRFZZdThhS2M1N18zQzM3dnJIOFVlR1JidzkyMklRejNMMGNNeEZkR2JPb0ctWnQwVVczUVZDZW1pTXB2Z0plamZXVHh2eDdJRDNKZlB0VW5EMlNkTUE?oc=5"
+    },
+    {
+      "headline": "PepsiCo (PEP) Stock Looks Reasonable As Shares Fell 16% In 3 Years - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU0pqREU0bEFjNDhmbkh1QmhjbXo0TUpXYU1acWpZeUhwZi1LQlBVbVJIRDdwMy1ERXBlZlg4QjE2MEk4ZDBVam5nSDNSRnNOcFVjYVpmcXBUai04WTJOdTlKc25rNmpCb2dCSXFoRE40aUl6Qm0xSUcyOUFGS1FnZ2NRblJVa21YV01IckR3bWdUR1hSRlYtaUgzdw?oc=5"
-    },
-    {
-      "headline": "Are Wall Street Analysts Predicting PepsiCo Stock Will Climb or Sink? - Barchart.com",
-      "source": "Barchart.com",
       "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnRtbk1YZHNKM0ZqWlppY1ozYWFSb1ZxUVh2ZEVEQ2tYelVXUDMtTlpuV0pQMVAyVkdmX2sxRUp3UWtFMEw5QUs5X1ZxVHBLRFQ5U0RyMEJ4SWtYYkpwbjVaNW1TaXg4YUhmLURFNVNxZlRTcW5GVUFMdEtvb1B2WTQ5Q0dscGN5V1h4TmEtWHpDOWhJQ1hHRDJzZTFoSzJaVXJxQzhkOW1DdFU1T0tDZ3Zn?oc=5"
-    },
-    {
-      "headline": "PepsiCo Stock Rebounds From 52-Week Lows; Can Q2 Earnings Fuel a Bigger Rally? - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSWtjeVctTnZoWm9PWVFQc3Zrc3NwRmJXbml5WTV4aVR4eFlFNWF3MTZFQTBQaEpEZm0zSE9DNk1FR2M5a3BmUXZQREZTT1hBMm5lNlVqWTdfZklLNHVXZ0ZGVktobTU1NXJ2WEpmdmliNk1scks2b3Zid0MzMlBadnJ6TE9BWm5DTnFVU2swMUg4SWNRcE9DUmhvX0dDcnREaHhHZlRPLUwyREZDTzdNUnVJLVJiNk9tWUNSTGRGdFcyNEI1WkZoNUl3WGVrZURHN1lldw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObEI3cGVBQkk4WWU3ZUFQc01fdW0yZE1xS1E0c0FRN1dYNV9sU1RKdWFhQTNLeF96cFlDc0toTVp3SnkwOWJhS0ZuNTVMb2Y0S1NMWmpFSHYxWUg5MThTLURKWnNtTnRHeGNUbkgyb1RDYUMyNDh4YXlhVVNUektqendoWE1oWE15YU43WFl4VS1aZjdYS1pxUVBQV0VkR3Za?oc=5"
     }
   ],
   "insight": "Tracking PepsiCo (PEP)."

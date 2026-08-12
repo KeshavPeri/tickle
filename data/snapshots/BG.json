@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:00.737Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:14.340Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    113.62000274658203,
-    114.31999969482422,
     117.4000015258789,
     116.62999725341797,
     115.72000122070312,
@@ -24,11 +22,11 @@
     106.7300033569336,
     106.62000274658203,
     109,
-    108.37999725341797
+    108.37999725341797,
+    112.6500015258789,
+    111.5999984741211
   ],
   "6m": [
-    115.1500015258789,
-    113.87999725341797,
     113.9800033569336,
     116.87999725341797,
     117.2300033569336,
@@ -158,11 +156,11 @@
     106.7300033569336,
     106.62000274658203,
     109,
-    108.37999725341797
+    108.37999725341797,
+    112.6500015258789,
+    111.5999984741211
   ],
   "1y": [
-    82.94000244140625,
-    82.22000122070312,
     82.5199966430664,
     83.23999786376953,
     82.0999984741211,
@@ -411,29 +409,31 @@
     106.7300033569336,
     106.62000274658203,
     109,
-    108.37999725341797
+    108.37999725341797,
+    112.6500015258789,
+    111.5999984741211
   ],
-  "lastClose": 108.37999725341797,
-  "oneYearReturn": 30.672768342373807,
+  "lastClose": 111.5999984741211,
+  "oneYearReturn": 35.23994548477491,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Bunge Global S.A. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTjhLc1RwNDJYQmJzQlZRVm0zU0dtNkMwdWJCQUNSMmZUcmxLUHNLa3JTeGhHNXBGOE5GSWtFQlM1bFpoaDFNSjQ5aUtnQ3JXR3JGSUw5MExXRVRfOXJYUGJOcGtVQVgzY3V5LVFyelZHa0RfTW8wYzFNMmVqbnlQV2s1a2Nac3ZIVllOYl9nSmptNjhoZVlqU0pjdTd4Z2IxVVBBbXlfYld2N2VUUjVEbDdPOVItMlZvQ1dFZS1OVUQ5LVhkUHREbWYtQkJJWU5OVkxHZDFrVS1FVGluM2U0?oc=5"
+      "headline": "Bunge Global S.A. stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONzFucmNWVVc5WC14Y19SbDl0eTNGOEJWQTVsYWVqdlE0VHRyUmhfREJQOGxmN1REVVBWVFlHT09maGxQQm1lcmxfYWhGSGpPZGU5cTFsNldRc2ZpTEJTYy1zU202SlpUWTlQMHZuWHFpSnVhQlBscUtUakNlUEx4eF9MT2hwa081OUE3RndWZGN5SDRwUW9qQVU2ZG9wRzRJV2RrWDN4Sk51d0hkZlFsNXVVQTJuNVlXTG5HVU5nWTJuTHM1Z2V3?oc=5"
     },
     {
-      "headline": "5 Must-Read Analyst Questions From Bunge Global’s Q2 Earnings Call - StockStory",
-      "source": "StockStory",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMEJwVE84cUNTeEs0YTdrdEZNNXNSTU43Qk0zWDREbmFXSHNDQXN3NnpDcWd3OEZROTFtdVJaLUthN0REOUhTWUEyaFUwQWFnRnRneDFobm1VOVBwejB5c19LMkM2OHZCck9HbTlaV2JRRUVQWk5yTU5IYkZ3VWNkN1dtNGhDM2hDRkpXTlBweGlFU1lpMV9BMlZJVFFsRGVObWtwUDkwWU5CSFFhNllkN3AzQmhmU2pFanR3SUFJUlBIaHc?oc=5"
+      "headline": "Bunge Global (BG) Is Up 6.9% After EPS Gains Outpace Strong Q2 2026 Sales Growth - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb2I0VVBib2pRR2dVelFfLWtJOVpOdXhhNFJZQjRUTkJPTFFLaTdFRm5lR21DMFQtb242ZERTQjczZWZ1NFVfNEREVHNSUUNWSmpQT1JHWldveDYzTFlHRVZzZGRxWk42X1BjWEVjZm1ZeXUxLS1hRUdCcHVMZnB4ZGd1MVpoU3ExWmRCbllQcTAzamcxSnNxb3g0aUVqcS1GUmE2UlRQSFI2MmZPUU9QLXEtX1YzU2hoblNlMUZBRXA0TUJ1WmVUbjF2WWsyWTY1Q0R1eVZwdGkyd1Ff0gHcAUFVX3lxTE5vYjRVUGJvalFHZ1V6UV8ta0k5Wk51eGE0UllCNFROQk9MUUtpN0VGbmVHbUMwVC1vbjZkRFNCNzNlZnU0VV80RERUc1JRQ1ZKalBPUkdaV294NjNMWUdFVnNkZHFaTjZfUGNYRWNmbVl5dTEtLWFFR0JwdUxmcHhkZ3UxWmhTcTFaZEJuWVBxMDNqZzFKc3FveDRpRWpxLUZSYTZSVFBIUjYyZk9RT1AtcS1fVjNTaGhuU2UxRkFFcDRNQnVaZVRuMXZZazJZNjVDRHV5VnB0aTJ3UV8?oc=5"
     },
     {
-      "headline": "A 6-Day Losing Streak Has Bunge Global Stock Down 15% - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWxHZm1jSDBwQXhTdXEzSDZoZ2t0dHByNC12SGlwb0FQZDF4Y0pha29KVE1qY3dkSHh6WFFJaldKSDljMzFMLUd5aWpjZUthMXdmeXVfTXlmcjJoTGZzbzE4QWRSVEF0RDU5ZUhNbXpmYnF1WjU3dlYtUmZNUzdka0RGWjg1Nk5tMTVSUmJvbmxpaGZaQmgxM25pb0t2bXBlUnFINUE5UjBnZW84QXFHRA?oc=5"
+      "headline": "Pacer Advisors Inc. Sells 9,693 Shares of Bunge Global SA $BG - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnd2aHhPdWZ4YWd2UjBxMTVpWEdhNDFvNkhBS2RzZGpybU44cUxmbUxTTThGcGRlV2xHV1RHMW41RHlDTHBIamhXajR2MnlmdXB6QV9lZ2M4VnVEVXo1N3g3WTZmd1lCVndMYlJGTndSU0dSc2lMTHJweHdRVUczU2M1MkVFbnFUei1TUWhTRERwdVdzcWNWczFQYkpkLTFjTExTZjFBdjBCRzZ6aUV3NWVyaDFjdHFZNjBN?oc=5"
     }
   ],
   "insight": "Tracking Bunge Global (BG)."

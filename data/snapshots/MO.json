@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:32.493Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:43.059Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    71.58999633789062,
-    71.79000091552734,
     71.87000274658203,
     70.16000366210938,
     70.5199966430664,
@@ -24,11 +22,11 @@
     68.06999969482422,
     68.44000244140625,
     67.75,
-    68.3499984741211
+    68.3499984741211,
+    65.54000091552734,
+    65.02999877929688
   ],
   "6m": [
-    59.7599983215332,
-    61.9900016784668,
     62.22999954223633,
     64.16000366210938,
     65.16000366210938,
@@ -158,11 +156,11 @@
     68.06999969482422,
     68.44000244140625,
     67.75,
-    68.3499984741211
+    68.3499984741211,
+    65.54000091552734,
+    65.02999877929688
   ],
   "1y": [
-    64.19000244140625,
-    65.66999816894531,
     66.01000213623047,
     65.5,
     65.55000305175781,
@@ -411,29 +409,31 @@
     68.06999969482422,
     68.44000244140625,
     67.75,
-    68.3499984741211
+    68.3499984741211,
+    65.54000091552734,
+    65.02999877929688
   ],
-  "lastClose": 68.3499984741211,
-  "oneYearReturn": 6.480753816004542,
+  "lastClose": 65.02999877929688,
+  "oneYearReturn": -1.4846285793342004,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "MO Stock Eyes Best Week In Six Years: Altria’s Pricing Power Offsets Falling Cigarette Volumes In Q1 - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTC1xX3VCcnJOaVV1Nzl6YmVLTlN5NFp0TTRHcU9JUi11YkxJanMxLUZfTGJQanZPaW1xc1pGVDFLMDVoT2ltcFRfa3ZvenlraGxLSE9za1BQVkRIM1JCOGJmLVk0dW9VLWRpUzR5bFFJRUd4YjNGcE5CX2xCam5LaVRMRjVMZzFXMm0xV3ZqVXFZa1V3Q1JSMWNMQWpKX2lYR25INEU5M1F0R0prWXZWWHhkWDN1Vkg4ZndpeHhsRDJFVzNyQUFLaGFWMEhXbVZuR1RoYm9YR29HeUV2c2pBVkQwdkZ6VE9BZi1ycmpGa0ZWOHliZ1E?oc=5"
-    },
-    {
-      "headline": "Altria’s Lower Outlook And Legal Scrutiny Might Change The Case For Investing In Altria Group (MO) - simplywall.st",
+      "headline": "Altria (MO) Stock May Trade At A Discount Following FDA Pouch Approval - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQUlhQ0hOcjd0cE1mbFpuV3dFX0xJR21BWHVSYnFTM1pNOUZQeEJJaFRlZW5XVkp1dW9iS2JUM2tZY2ZBSmpRVXVucUxmd25Vb09NY0xaTDlHYTRrZFBFOU1idjByRlVkSksyd2J2RHB1TElyblRUNjJ2RTc1X284N0ppRkxrUk9VbHk0eE1sUUJjSmZuRUhweE1QMExvLWZkSWZKVVBqUFB4bERFSl85Nlp3SzY3QllxU1FLTDB1R3oxREg5dmxBQ0RucGY2VVg1QW5vdEN5bEpWV2d50gHcAUFVX3lxTE5BSWFDSE5yN3RwTWZsWm5Xd0VfTElHbUFYdVJicVMzWk05RlB4QkloVGVlbldWSnV1b2JLYlQza1ljZkFKalFVdW5xTGZ3blVvT01jTFpMOUdhNGtkUEU5TWJ2MHJGVWRKSzJ3YnZEcHVMSXJuVFQ2MnZFNzVfbzg3SmlGTGtST1VseTR4TWxRQmNKZm5FSHB4TVAwTG8tZmRJZkpVUGpQUHhsREVKXzk2WndLNjdCWXFTUUtMMHVHejFESDl2bEFDRG5wZjZVWDVBbm90Q3lsSlZXZ3k?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTHNBdG92QXVxN3FpSDdRanNCN25rdl91MkExdkhGRmVIdmo4d2h2bU5HV01QTkM1SXlWbk5SZzFZaEJGNjJCdjZudHEzcWQwZDd5dmpmZ2JBN2JsYTl4LVRoYUZVbDJFWEJqSmsza1p1N1VjeGRWdVZsT0VsYzJ4QTQ4c1J0XzQ0aWc0UnNaRnp6Y0ZPcmNseGpnWHJfak9ZZGVqZTlPNUtpZzhhWUJGdlhWREZuNDNCdEhJUldNblVMXzNESjM0Q25RQU5TbEg4LUJjQTVn0gHbAUFVX3lxTE1OUWxhZmtKclNnYl9wNEloR2FLUXMxUTJXRHlMZkJjcndhMzBpV2VXMjUxZ3dMbzRRaGNIbmZTWmZzN0dEeDkzdGhFSk1ESTFXbmZJeG5ZQmpyLUF1cXF1ZTA0eVE5VEROeEJBSHpQRW1GWTV1SGRJVDZLV3RTOWdxc0tDMVRTWTZKTU92LW9Xc2phU2JuOUs4U25ieUlhZ0NIYlY5ZDRSOUI5X1JseDQ5M3RWSXZLQ3FnWG1LNEwtaTk4VS1OVHhZZjF0MTNkQ2xvWld6cUM1alpyQQ?oc=5"
     },
     {
       "headline": "Why Altria Stock Is Sinking Today - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-30",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcU1VUFZaNi1DZ1dqTmptVmRqWXpMaHhvS1lCamlrcG1SMlhPcTBMUldhNGFaLUdxV2tBUXY2eE1fY1A0VnByR0pacGNlY3Q0OEhlcTM5cjBjR0RRYndHQlAzU21PUEpGRzA3UFFKZ051UThKQjBCUjVYdDh1a3B4VmJNbHBoVU1GTHl6bW15MGVodHRZa2JwOTlDNA?oc=5"
+    },
+    {
+      "headline": "Why Altria Stock Is Sinking Today - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaG9mV3BidHlJaGJBaDJmX1ZPdm5DdllJazdSUzhFRmpVbnI5bDFkdGRjai1RRmxkaHJCOEV2VEVBbk5GT1JpNzFCU2pOSE5wOUlNdkpsTU1TbE5CSTNxYUotd0xtWW9nYVdFc0VLTHEyel9wbTk3b09faXJ4VjBhOHpR?oc=5"
     }
   ],
   "insight": "Tracking Altria (MO)."

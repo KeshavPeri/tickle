@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:28.340Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:39.034Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    335.4700012207031,
-    336.4700012207031,
     334.5299987792969,
     342.8900146484375,
     346.9100036621094,
@@ -24,11 +22,11 @@
     357.5199890136719,
     359.239990234375,
     356.29998779296875,
-    357.5199890136719
+    357.5199890136719,
+    359.7900085449219,
+    362.0400085449219
   ],
   "6m": [
-    306.4200134277344,
-    305.8900146484375,
     308.1400146484375,
     314.8500061035156,
     317.2699890136719,
@@ -158,11 +156,11 @@
     357.5199890136719,
     359.239990234375,
     356.29998779296875,
-    357.5199890136719
+    357.5199890136719,
+    359.7900085449219,
+    362.0400085449219
   ],
   "1y": [
-    288.760009765625,
-    289.55999755859375,
     292.8500061035156,
     290.5299987792969,
     294.1600036621094,
@@ -411,29 +409,31 @@
     357.5199890136719,
     359.239990234375,
     356.29998779296875,
-    357.5199890136719
+    357.5199890136719,
+    359.7900085449219,
+    362.0400085449219
   ],
-  "lastClose": 357.5199890136719,
-  "oneYearReturn": 23.81215435747374,
+  "lastClose": 362.0400085449219,
+  "oneYearReturn": 23.626430254179066,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "JPMorgan raises SpaceX stock price target - Finbold",
-      "source": "Finbold",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OTGh5RVk4S0pSaGZ6NkV3VEthQWRSQ0o4SEpwOUNfX0dwN0I3QkRhbzE0SjRDWDZlOUVvSkwyeGtRdEtBMktBY2pMM256LVZUWHlKRnhTVHVoRVFYY0NQOTlhM1VCT2t3WUN4cVBoTQ?oc=5"
+      "headline": "JPMorgan Chase stock hits all-time high at 363.02 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc083OHhmaGlNbFQ5XzZuSEw2MDlQTHJ5Y3dEQkxDeVhBbWdQUkE1WFVHN2xaTXRuSzVWRHphNGdGUVBXMzl6NnZfT0JtSVJtNmlOa1dhbDd6d3BHQ29SclhWVE03UFVGaExCa3RSd3hPUVR6VnoxRFJiUlRLcWVZdUFKTlFqM3B0MGxCSmxfV01KWF8wMzhMTnc1WlhQbHlJUXFZVnhuanRTMkRo?oc=5"
     },
     {
-      "headline": "JPMorgan Has Consistently Beaten Its Own 17% Return Target Under Jamie Dimon. Is the Stock Still a Buy? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT0NVbXBYLXJqQWxFNXRlWlJqVHgxNGxydWRtb245YXBxYzJGWVd2bE1qUmdMakdwNTFBVWY0eDR1ZmRSWEUyU2hRWmJRQjJ5YjhFWXVRZFk0Q0cxblBaMnppOVVVTFlKWTJKM0dTdmRqNFNPcWNmN3hRYkZBZGp1U21PQ1RvdVl4VXJJWXNEdnR1UmZmamFBag?oc=5"
+      "headline": "JPMorgan Chase (JPM) holder plans NYSE sale of 2,500 equity award shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbWhrN2dwd3ZTdjlSQVU5OVFlNUhTbHhNQ2h5czFnUjl3Y2tiMHg5SllPdll3djdWaTNOSWF5NmRtMk5vQW9xRldhQkRuOHhlRWw0YTAxbHFJaFItcjFnOWlwSGk1QldnbVFjVXMwR3NSWS0tOEJRdUFGbWQwWVhiMy04NlZtMkV1a1ZPZm92ZmV0UjB5N0VoVw?oc=5"
     },
     {
-      "headline": "JPMorgan Chase: Here's One Trade To Consider As Earnings Approach - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQjBuTDE1dTlzV1BveHYxZzM5RmY2S2dzSWVnVS04d0JsR0lLQThKUlpITWE3SmRVQmZmbkhrVEVvdW9ianZBaUF4Sk1OX08wUEw3dUFTOURiYTRNNXVFbzFpT3ZzajM3dzhMWHJranRaNW9Sc0toZ0txTGJfSmFJWU1Fc0NvUG9XYzlJb0tkREhCVjhpSkNPd2lR?oc=5"
+      "headline": "JPMorgan Chase & Co (JPMpA.CL.PFD) Stock Price, Trades & News - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZVQzR3RGT0dpeG4yUjZCdlI0Umk0b1laZTVXNFNnZTJCbzZYTDlKRWlwSElvbmVaNm9iV0gzdElYcENWeGJlOXBISGx2bS1Yb2N4MVludkZkcy1jM2lnSU9Fa2s5alFKakpQWVBWeG13cUtFbEVkaDk5YlVwbU1BajJhUC0td1FnUDlpR0hVU1NROVV3Mm83QkRBc3FZSUo4WURMejBWWUJ0bkZnM2xyMGVVYVd4cFhFV0R1eHRCQzI2VU0tbFE?oc=5"
     }
   ],
   "insight": "Tracking JPMorgan Chase (JPM)."

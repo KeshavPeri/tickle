@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-08-10T03:27:12.116Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:24.253Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
     21.56999969482422,
@@ -11,8 +11,6 @@
     22.329999923706055,
     22.510000228881836,
     22.290000915527344,
-    22.600000381469727,
-    22.190000534057617,
     22.079999923706055,
     22.270000457763672,
     22.520000457763672,
@@ -24,7 +22,9 @@
     21.6200008392334,
     21.790000915527344,
     21.100000381469727,
-    21.40999984741211
+    21.40999984741211,
+    20.899999618530273,
+    20.510000228881836
   ],
   "6m": [
     17.139999389648438,
@@ -145,8 +145,6 @@
     22.329999923706055,
     22.510000228881836,
     22.290000915527344,
-    22.600000381469727,
-    22.190000534057617,
     22.079999923706055,
     22.270000457763672,
     22.520000457763672,
@@ -158,11 +156,11 @@
     21.6200008392334,
     21.790000915527344,
     21.100000381469727,
-    21.40999984741211
+    21.40999984741211,
+    20.899999618530273,
+    20.510000228881836
   ],
   "1y": [
-    16.959999084472656,
-    16.770000457763672,
     17,
     17.139999389648438,
     17.040000915527344,
@@ -398,8 +396,6 @@
     22.329999923706055,
     22.510000228881836,
     22.290000915527344,
-    22.600000381469727,
-    22.190000534057617,
     22.079999923706055,
     22.270000457763672,
     22.520000457763672,
@@ -411,12 +407,20 @@
     21.6200008392334,
     21.790000915527344,
     21.100000381469727,
-    21.40999984741211
+    21.40999984741211,
+    20.899999618530273,
+    20.510000228881836
   ],
-  "lastClose": 21.40999984741211,
-  "oneYearReturn": 26.238213462013395,
+  "lastClose": 20.510000228881836,
+  "oneYearReturn": 20.64706016989315,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Healthpeak Properties Inc. stock underperforms Tuesday when compared to competitors - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMllhWFVkdGNGdE1tdVJYYjRpbkZXUnk0WHZaMzFxMXY1SHBPRFpRaUFJc3JSZkU5YWQ3S1FucEZ0QXNxOFlLR3oyQlpfNG9IaXI2VmZCcVR2a0RtbFNNaHNnVjYtZGhmQi1uWUFvVDBxcmNOb2VuTjBBR0tRRjRKb2t6Wk1Jc0MtVHN4RjZmYXVSaTVEa0lHS3hpdEVHenFna1ZTeU1hN1F5Yk1QbmVhbjQwMUNrNzZFdHFXTDl4YjMtc0tmNEkweUJLN1ZuZlpneElka0V3RjB1MC1mM0IyZDVIR3poM28tcFR2WHozRUw3QQ?oc=5"
+    },
     {
       "headline": "Healthpeak Properties (DOC) Stock Looks Below Fair Value Despite Rich Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +428,10 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGVaVzdKbEFCRzM1R3FfYVdROTlSWl9hMDJYa0FvUEI5eHFScDZrbDFCT3VNd1dnMFVvb2F1emd0NUtEM2lrc0JsS1FLSWFCb0lsdWl0U0tPWmV6T1QycURnVnZ6UnVCT2Z4VzRHN003anROaWJONmZoTlVYU05nb1lzalhfZUhwZy1lSWU1a3FGcEFvOTBqLUxtLUV6TTNOWXdGMw?oc=5"
     },
     {
-      "headline": "HCP Changes Name to Healthpeak Properties - Nareit",
-      "source": "Nareit",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTdTSGNIbG1DSU5BSGg1WXBaT1VNc3Z1b2o1R1N4Wk1pQmEwdndxUnE3WWo2aU9tNm9Gak85VUNPWUNBQVIzSE9HaFU5Rzc3RlVYSjdzUjdKRW8zQWhfTk5xaDJZaXhPS3F2ZDdaMG5LV0pqbkVtZkN4dEU4SUhhdXR4XzExZUxmbkIyRWdjbHdtMlk?oc=5"
-    },
-    {
-      "headline": "Pacer Advisors Inc. Purchases 47,729 Shares of Healthpeak Properties, Inc. $DOC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMTM0a2FJU2pfWVFtTUZUbmFqb05jbUdFRWJNQzhLTkJ0VXRiUGpYYm5IQ2hPTUNwZzMtU29GZTc0OFJGT1hBc1h0UWJrcXJjTWVKMG9Cc280d3FPUUFnbVExdWFYdEE4RENWNjdORWRpQUlSaG1sZUFsdHRpaTc2bVFId3R1S2dCVDNkclR1MGlxaE8wdXRaRGw4d21JdDFxbkRyTTdEaFhaM1ZaZzVjcWhreHFiQlNCWWZBUjZ3LUZrdm1zVkppdHU4R19OYThv?oc=5"
+      "headline": "Healthpeak Properties (DOC) Dropped, So What Is Driving Attention Today? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeUNHTHluWER4TE84V3Vla2tmV01WRThsQjRlMU1TREIwY01NUUsxTUgzZF8zTDJVWEowV0tXRERCdUx1cFZTeDg1LXZtWFJRXy1FLS1VRG9Xb2F5N000MU9OeGt0bXhSNWU2eE55eGppY2tOUVhCSUpMc0Q3aE9MRjVBMEF6U0c0a0hPYURxRS1uQlg4SXFyZWFYTWRicmh3cUxxeXJGN0NaSm9MeDdyNWlicXZIVF9nSlRNU2pJRWkzQkFRa0l6MXd2NDA5NkJOTzZCbHBjUdIB3AFBVV95cUxOc25qSVJKcnRnMkZ6SWU5UGRQclUtMTVySUtaZFQ5eEIxYk04QXRiTkZtUVh3N0t3LXQ5M0lpWjRMOGRuZUZhWXU0RFVocDVmMjA5TE1xc3BfTUtJaEg3UGgtRmZsWEJJLWJNYnJfY0FkOVgxZEUzak5CNUVFemVOeW1Ha3Q3VW5ZMzU2czAtN21UOGtKNHZBd3JmTk1ubFNHRDNsTTVpTV9kdE04Z2dPakdZM0hVaEZFLVNSMTRxZDlZT3dkaXh6VVpKdXZvdmtmbHc2el9HY3REcEk2?oc=5"
     }
   ],
   "insight": "Tracking Healthpeak Properties (DOC)."

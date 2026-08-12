@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:03.302Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:16.653Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    267.8500061035156,
-    268.07000732421875,
     277.1300048828125,
     274.9800109863281,
     277.1099853515625,
@@ -24,11 +22,11 @@
     288.4200134277344,
     284.760009765625,
     289.1700134277344,
-    286.5799865722656
+    286.5799865722656,
+    285.0199890136719,
+    282.7300109863281
   ],
   "6m": [
-    265.5199890136719,
-    265.05999755859375,
     263.9200134277344,
     268.67999267578125,
     271.20001220703125,
@@ -158,11 +156,11 @@
     288.4200134277344,
     284.760009765625,
     289.1700134277344,
-    286.5799865722656
+    286.5799865722656,
+    285.0199890136719,
+    282.7300109863281
   ],
   "1y": [
-    252.5800018310547,
-    253.24000549316406,
     248.52000427246094,
     245.42999267578125,
     243.7100067138672,
@@ -411,10 +409,12 @@
     288.4200134277344,
     284.760009765625,
     289.1700134277344,
-    286.5799865722656
+    286.5799865722656,
+    285.0199890136719,
+    282.7300109863281
   ],
-  "lastClose": 286.5799865722656,
-  "oneYearReturn": 13.461075498745458,
+  "lastClose": 282.7300109863281,
+  "oneYearReturn": 13.765494175817569,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMU5iWW1mR0tiaUxWb1NkQzZybVJNcHFMM2VvaW40bjQ2OGx4VXJBY3hMbHhITU1TbTd4S19oZTMwRXFDTlB1OFRpeG5EN1hpUTNYSWtWNWhtOC1YTmJjOXRVWnlCR0Q5ZjlZa1BoZHZ3ZFdrS3B6dmZtd19yVWtncDhhVjZtZDB4QmJPeHhyRG5Va285eWJFZVJQRQ?oc=5"
     },
     {
-      "headline": "Cboe Global Markets Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "Cboe Global Markets Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
       "when": "2026-08-06",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa1I4OHk2X2JtcHltd2xDb3d3ZzQ2QVFQSUZFZzhKZmlYdzVGVGdYY2s2aV9UcGIxS1VMdW5HMk9DZm9WQndteHUza2FkZUtyWW42ODNGX1FKeHVfVkQzcC01V1hPYWN0bXQtazFYTXAxVUlfekt4dG42czZUMWoySWJJcUVYb0JmejFhdDJCNlBDLVFBMVlZeFRVVTk2Rmg3UnpFNHU0eV9VVzVwb1ZjWWJxVEMxTFZZM25XUmlBVlNwaGRSdl9rTnE4clFHUTVo?oc=5"
     },
     {
-      "headline": "Cboe Global Markets Inc (CBOE) Stock News Today - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtZ0xxVDNlaElneUtRb0dnS0FuUTRhZkRkT0FjSGZYWmI5cE1xb1NtVGhRYzdfMGxyekRHQkZJc2l2bUQtOGRmRUVheDJKQm0xSzROSFVUdjZXY2FKdEZ3UGktLUxSUnpfeFp6cTV1TlZwUQ?oc=5"
+      "headline": "Is Cboe Global Markets (CBOE) Undervalued After Its Fixed Income Clearing Expansion? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-08",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRjZiQVZHQmlmQzdMVnBHT0xweEJfMXJJUldwVHptaVRZX2xwVndMaVdZT0NHenNtUHN5bjMzVWpEaGdfdVFpeGszMWRaSC1jcEhXbUdXSHJmVmdRRnl6QjBleUItUjZxQzdvd1d2UzJ0eWd4alhfTW5oWXZtZnJORjVYbElvb3NRVk9YTElmbFhVSHlxSWpuVFdGSWJZUHRSMjI1OHBZMS1MT0xNWHBLZkxaOFdsLWRRSHByTkQzdmZiT3pyY3NHbGpUeGtnWjVvcmlHblM3MlptQlhpeW00S1ZHVUXSAeoBQVVfeXFMUDlCSGlFU3duUEhCMXJtNVBHMmRfdml6dkRtdHNQekY1LXNLMThfajZSSEE2YmpGRVZEMlJqYlpkbFU2TW1zajBWOHUwZjZCcjdhenFYQTRzSkxZSHBwdDJjdGtacmpZRlh1ZWMtbTRsWU91b29kaHFmblpVNklaYm93SjFiRk96azczWV9rTkZpWDgyVFN5QnNfYXdhTWI0OFBqYkxLLW1fQmVFeG0xaThlOGpCSXk0SGJNMERCUkhhT2F3bmZXbEdhb2pLT1RrZWZaR0pqWl9JVW85UHZSQmlPazhXR1U1NUtR?oc=5"
     }
   ],
   "insight": "Tracking Cboe Global Markets (CBOE)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:29.102Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:40.120Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    229.52000427246094,
-    231.52000427246094,
     222.25,
     230.3699951171875,
     224.5,
@@ -24,11 +22,11 @@
     195.4499969482422,
     192.8000030517578,
     193.22000122070312,
-    198.11000061035156
+    198.11000061035156,
+    192.74000549316406,
+    200.47000122070312
   ],
   "6m": [
-    168.4709930419922,
-    142.79400634765625,
     141.0449981689453,
     135.5540008544922,
     130.7220001220703,
@@ -158,11 +156,11 @@
     195.4499969482422,
     192.8000030517578,
     193.22000122070312,
-    198.11000061035156
+    198.11000061035156,
+    192.74000549316406,
+    200.47000122070312
   ],
   "1y": [
-    91.4800033569336,
-    91.01799774169922,
     93.5530014038086,
     94.947998046875,
     95.54100036621094,
@@ -411,29 +409,31 @@
     195.4499969482422,
     192.8000030517578,
     193.22000122070312,
-    198.11000061035156
+    198.11000061035156,
+    192.74000549316406,
+    200.47000122070312
   ],
-  "lastClose": 198.11000061035156,
-  "oneYearReturn": 116.56098965953537,
+  "lastClose": 200.47000122070312,
+  "oneYearReturn": 114.28494886593974,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "KLA Declares Regular Cash Dividend - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeEdZSW1uRVg0Y1NJWEVJQVJJZlZnMGdoLWVicENLMFVla1lVWkRQc0dmUHh3U3hpYUFHUTlzd2dScTh2Y3QySTRDdjc0enlCSDlXWlRVeUswUXR4anFsRVlOWG1fMF8wcGJkWUZYU2dwcmxlWFZqbDA3dkRzRVVLWk9mRU5Ub0dXdnNhTHc5V0FadVYz?oc=5"
+      "headline": "Why is KLA stock rallying today? - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ3RFYjVsa25RN05JX21GeF9qcjJudFRzME92WXBLeVVibEUzbUhvOWYwd3c1WmtRZjI4WXdmaGhUdndObzhVbV9nanltZVZQRXZfRjFrMmVzQXdPM3JKYjFkcTNKTG9qYUVFaHh4MzZuVzNfUExXTkczN2pIMmRNbXVzQWpUSGVSa2ZkOVZBTFhjZTJGaWQxVg?oc=5"
     },
     {
-      "headline": "KLA Corporation Has Had a Rough Month: A Wall Street Pro Sees 70% Upside Because of It - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOajg4WF9kQUs3cUdzc3JKdE5qWVdBRUVqV1RrNXV3S1RpT1g5Y0RqRkw3MGNNVUVxVkVyX3hKbExUSzhmd252MU9NRmxiNU9MT3VoMDN1MlVYTWx2WU1RWHdHWU9kOTg1eVJaT2RhZjVraHJfQjFmeHpVLW1qM2JKb0NWOEVhaG9vSTZfY1VNN1Iyd2F4VnZrNHAtNHFqVUpiUDVlUzFRQU1Dd1F5VHAtRXl1UGl2UlgtVXRNd0ZPbFlGTjktNkVZ?oc=5"
+      "headline": "Handelsbanken Fonder AB Raises Stock Holdings in KLA Corporation $KLAC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeUNHSG40WjZOcncxaHNyaXNKT1d4eGJkNGd2ZG5FM1p3MVFCbklIcDBEa2l4VTFIZ3YxVVhfbWNSV0hxQ1hUMjVVMmpXRk9hMkYteDAxZWZnV0hiRF9sbzc5MW1XNEtrT1lmTEpkUTZRMTRuTDQ2MzlINlF1OVRTNXJTQjVxWmhNLWhON2RwZ2FZcW4zajFHeUpXWkNaS2NkeUtsUmd2Ti12QXJfSW1reDE3RE9PdFhmaGlfc0tHeWxrZy1rMHlnNm5R?oc=5"
     },
     {
-      "headline": "KLA Stock Gains Amid Broad Semiconductor Rally, AI Demand - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMnNKSEhkNlg5a3M0YnhQUG5MZ0xhZTJ6Q3Q1a1p2a3R5aWZiZFEteFBVZmdvRHNZbnRSdS04T3NlYXM5Umw3WmdDRzZRQUFGdnc5b194elBhOXZXNjZRa09YNW0tUFdPeExDMkQydU9YMkVOMmNIZG4tTkNvcnEwa2RuMk83bVFBZDc5ejVmY1gyOV9vd0xkQW5CZlY2TzMzNWJSblhONUZMU0hQZ3c?oc=5"
+      "headline": "KLA Corp (KLAC) EVP Wilkinson sells 1,661 shares under Rule 10b5-1 plan - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMDlQT1FheWdFRERnaHV1aXlYaGFSTEhpWjJ5Rjc3NmRRWXZyUkF5V3pPSDRlWGVOVlB0ZEpCWG15YUVyS0RWaEFjY0RnbVFZRGpDWkQ2T3RlM0Zfbmp1SnZaOTdTVnphcm5BYk9NTnZkUVYyQkhjNVpBLW5wVWVMMnZXd2tHVmNEXzd0U3JVeFgzdWJiWnR3UXpOMF9xU1JiU1c3eQ?oc=5"
     }
   ],
   "insight": "Tracking KLA Corporation (KLAC)."

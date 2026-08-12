@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:14.331Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:26.381Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    74.63999938964844,
-    75.19999694824219,
     75.97000122070312,
     76.58000183105469,
     76.68000030517578,
@@ -24,11 +22,11 @@
     70.69000244140625,
     68.31999969482422,
     67.2300033569336,
-    68.62000274658203
+    68.62000274658203,
+    67.83000183105469,
+    69.88999938964844
   ],
   "6m": [
-    62.16999816894531,
-    62.279998779296875,
     60.75,
     61.47999954223633,
     63.459999084472656,
@@ -158,11 +156,11 @@
     70.69000244140625,
     68.31999969482422,
     67.2300033569336,
-    68.62000274658203
+    68.62000274658203,
+    67.83000183105469,
+    69.88999938964844
   ],
   "1y": [
-    53.77000045776367,
-    55.25,
     55.959999084472656,
     56.279998779296875,
     56.02000045776367,
@@ -411,29 +409,31 @@
     70.69000244140625,
     68.31999969482422,
     67.2300033569336,
-    68.62000274658203
+    68.62000274658203,
+    67.83000183105469,
+    69.88999938964844
   ],
-  "lastClose": 68.62000274658203,
-  "oneYearReturn": 27.617634670624625,
+  "lastClose": 69.88999938964844,
+  "oneYearReturn": 24.892781510142964,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Edison International Stock: 5 Straight Red Days, Down 15% - Trefis",
-      "source": "Trefis",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmdMM1ZuQUw2OTJMdVRJalpTaFhRN0t3Zm5FZldNOXNYRTZZaUVfbXo0bU04ZVEyNGpZQ29LRWhiRWtJMFdFc1BkZ3hPd2tiNWl0THloQkNlTXV1MDFoYzUxUnZNb3RSSnMzSHNhUUh5a25XdnV4ZG9WTnJYVmlzUGhTdUFPMEctU2tpczRJZW9ZeVZIZ3oyTGYxaEdxUE5NaGxsclhDYVBEZWlNMkF1TGFJWGE?oc=5"
+      "headline": "Edison International stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc05ycTZkNHNRa19WTHU3UzFCODhDRXo5V0FKaElrYzEwajVvbHEzSEhxVU11N0Zaa3gyQ2RvdFFTamUxMkc1NXlfUUp2dkhWaHBDUEczZGo0Z1E4OVNicXoyLWJBUktYNGVoZXYyeDZOelEyZGsxWm1KT3hsd0NoTDFVSVZXMjJLWmM1dndoWEpVT2NmdTh3S0RZZmM1LWFKS0JEQV9SNXVDb2o4ejJLNjhyWjlibHY1cUhTV0gxMWhLTUw3bXhrcVg1U1g0LTNUcUVhbmM1ZkxpTUxzOExnUHA1a2k?oc=5"
     },
     {
-      "headline": "Edison International $EIX Shares Sold by Pacer Advisors Inc. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelJWWGhGUlNraDFSMVVVNEFmTGVlRDM5c1J2bTBFZVkydmRuWlVHTE1WMk5nS1p5VTRmU1AxbElLUk5vdVlJbkdyQzVUY1hraTVzYXR2VkNEc0VoRTFFWjFySmE2SndyYnFTUEZXVlFjOUU3ODBKNjNiV3hwZDFPbXQ3Wm1TWkFZeVpVUFhWd0lKTjBlWWd0YUd5TmVyTGxsUVJDWlVSZVVwUkI1MTdaMW1ncTNQaEJDb2tz?oc=5"
+      "headline": "Why Edison International (EIX) Is Getting Attention Today - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU01qUGhENmJyUUFlOWNQaGoyQ3REU1N6SXMtcmgtejhPN1JPMnBqcmU3akJKRWo1bnd0NF9mY3RrS25jalJmTkpkNk1pT1VqMEYzWVdnX2NkRndrNzdtekxkWG1XWWZpdFNUSktCb0JTX2NPTlFrUXhsRlp6dHhKaTREWUxIVFpBMk5GYXB1NVBiRW1vcmNWcVlKeXR0NHUxbWx1cGpQa01SVUZrV1RoSF9GYlpvQXdTbkVKM192VFZiYk50WFYzTGFVRE9vNDhSNFHSAdIBQVVfeXFMT1NNalBoRDZiclFBZTljUGhqMkN0RFNTeklzLXJoLXo4TzdSTzJwanJlN2pCSkVqNW53dDRfZmN0a0tuY2pSZk5KZDZNaU9VajBGM1lXZ19jZEZ3azc3bXpMZFhtV1lmaXRTVEpLQm9CU19jT05Ra1F4bEZaenR4Smk0RFlMSFRaQTJORmFwdTVQYkVtb3JjVnFZSnl0dDR1MW1sdXBqUGtNUlVGa1dUaEhfRmJab0F3U25FSjNfdlRWYmJOdFhWM0xhVURPbzQ4UjRR?oc=5"
     },
     {
-      "headline": "Why is Edison International stock sliding today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2JUMmxKRjBzLUNFU2pIN0xjUFFFUVU5YnFDX1FwSXlkQWRUeXhDbkVVVGxobkpvcmduNkJsc3R3a3Zlb3N6X0p3MTNxZWlieDN0dUJ2MmctSnJCRTJxdGxrWTUxcjJkbDJ0SlA2Q01jY3RaOFV3RmpjWTJiM1RnUS1oWTlwOUs4WVdob2o3REw5OEtublRrQ2lmdUJuY0s0SWtWbkQwd3AwVUdtY1E?oc=5"
+      "headline": "A Look at Edison International (EIX) After 3.0% Gain -- GF Value $72.50 vs Price $69.89 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVIzaEd4Skw5ejBkRFJDOVZlZEJSRlQzdmRnamdDS2pHdUUzYVB0WG1lSUtQVUU0dDU1Z05xOTZ0a0lEN0dYUDN5TFVOT24wcTF0ODVVa3lVUEpMNnRya0Rzcm1wdmNqUEIyU1plQWpMTk1ubktJLUV6Y2RtS1NZejBrVUI1VkZOZ1lrczRldmxxR2l3VDBPbTFwVjRoNUhIWlZaSS03RVIwbzVJUEtZUmJleHVaZw?oc=5"
     }
   ],
   "insight": "Tracking Edison International (EIX)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:44.385Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:53.627Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    311.010009765625,
-    309.4800109863281,
     314.2200012207031,
     301.2900085449219,
     303.5199890136719,
@@ -24,11 +22,11 @@
     313.3299865722656,
     306.5799865722656,
     306.3299865722656,
-    312.45001220703125
+    312.45001220703125,
+    318.6300048828125,
+    322.92999267578125
   ],
   "6m": [
-    380,
-    369.3999938964844,
     362.8800048828125,
     332.04998779296875,
     343.239990234375,
@@ -158,11 +156,11 @@
     313.3299865722656,
     306.5799865722656,
     306.3299865722656,
-    312.45001220703125
+    312.45001220703125,
+    318.6300048828125,
+    322.92999267578125
   ],
   "1y": [
-    594.3499755859375,
-    584.2000122070312,
     563.9400024414062,
     580.2999877929688,
     573.239990234375,
@@ -411,29 +409,31 @@
     313.3299865722656,
     306.5799865722656,
     306.3299865722656,
-    312.45001220703125
+    312.45001220703125,
+    318.6300048828125,
+    322.92999267578125
   ],
-  "lastClose": 312.45001220703125,
-  "oneYearReturn": -47.42996129527831,
+  "lastClose": 322.92999267578125,
+  "oneYearReturn": -42.73681751999249,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Tyler Technologies, Inc. (TYL) stock price, news, quote and history - Yahoo Finance Australia",
-      "source": "Yahoo Finance Australia",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyYXN2cjlCbzliQTRpVGYyYWpidG50aUM2akxQUVB3NmNUWkJrU3JBOEVxUUpaYjF2VHBSVk9vVzJkcnl2bnlnUF9rUTlIeEMx?oc=5"
+      "headline": "Tyler Technologies, Inc. (TYP.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pMlg0V3VMelhsZ0w1ZFN4T1k3NjFYclloWExDMnZua0pGVHE2OGI4XzBUZENnWDBXNGV0aVB3MDRNUHcxM1NhQlFhcFc2dmJFeUVn?oc=5"
     },
     {
       "headline": "Tyler Technologies (TYL) Lands Record SaaS Bookings, Is The Stock Fully Priced? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcVNROEZ0Sy1GY2JCM0VsYS1seU9WanhhdFZQUHExUGxjRGU4MU91NXVLMFhtanVGRzF1blpjeFBwR2hIZlJMb19JTEcyZGFzWmdZT0Z4dElQZk16cHJ6RmZPQ3BDNEdNOEVDSnJCTVUzU2E5aUs1cy1YY0t1UEFGYmVja1FYd2VFV3FkaEg4TG9HcnhYdkVsM21ZN3oxd0lnczRJRHdKSFNhRlhUZGtDUE9JMEMyZVRfaklCbjQ0b1M3bllvcmRXamxjTXoxTXI5MVFiYtIB1AFBVV95cUxOcVNROEZ0Sy1GY2JCM0VsYS1seU9WanhhdFZQUHExUGxjRGU4MU91NXVLMFhtanVGRzF1blpjeFBwR2hIZlJMb19JTEcyZGFzWmdZT0Z4dElQZk16cHJ6RmZPQ3BDNEdNOEVDSnJCTVUzU2E5aUs1cy1YY0t1UEFGYmVja1FYd2VFV3FkaEg4TG9HcnhYdkVsM21ZN3oxd0lnczRJRHdKSFNhRlhUZGtDUE9JMEMyZVRfaklCbjQ0b1M3bllvcmRXamxjTXoxTXI5MVFiYg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYW9WZGdYSWJGeW50b2FMeGMtTU1hS2NXRFYyNklmb3VKaGlRdnR4N1RHM2JKOEhKcm1wLUNlY1ZGZE1FSFV5blpZWjBDSXNGckRDQUs5a1hocTNzbUJEaWlyaXNURy03M083a2U4dzRId1lGRHhrU1pDMVNHbG1HaHA5RHBsY05aS0stY3hoT09xeDljZUY1aHZ1V1E0bkloNV9FYmZTUmlZVnhpTXhpcWxscTIyX3hELVBhZU9uMm16NGtLWHExb0gtdXNnRU3SAdQBQVVfeXFMTnFTUThGdEstRmNiQjNFbGEtbHlPVmp4YXRWUFBxMVBsY0RlODFPdTV1SzBYbWp1RkcxdW5aY3hQcEdoSGZSTG9fSUxHMmRhc1pnWU9GeHRJUGZNenByekZmT0NwQzRHTThFQ0pyQk1VM1NhOWlLNXMtWGNLdVBBRmJlY2tRWHdlRVdxZGhIOExvR3J4WHZFbDNtWTd6MXdJZ3M0SUR3SkhTYUZYVGRrQ1BPSTBDMmVUX2pJQm40NG9TN25Zb3JkV2psY016MU1yOTFRYmI?oc=5"
     },
     {
-      "headline": "Tyler Technologies, Inc. $TYL Shares Sold by Seilern Investment Management Ltd - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUzFyczBMdnRfRW1wS1VIdk82X3QwNERZS2RtSzI1NXhQT2lJTXVGOEtRZi1feTYtS3VkVnJuUDNMWjBMclgyTEF0Y1JVbHdNQVpGV1RubHp0ZlZZQWgyMFJ6Q1VhXy16Vms0NVg5cERBV2UwaVhtaVUzMTlKaXZTaHRIQUtFaERpcVl6bHhVYUg4Z0swLXFGWkNKZkdSZVNjdEs3Nnh2Z1NkMlIxTlNVckxjektLRWxNU3AyTlZtZk9FeHlTeG5kTG9mYVZZNUFheWc?oc=5"
+      "headline": "Tyler Technologies Inc. stock underperforms Monday when compared to competitors despite daily gains - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQa2dPUjhRTVhkbE9VRExzNnI3Q0U5RTJ0VWxVT3hQMFlvMnVVUEU2ZWdZc0MtLWtFbTlSUmZGWU40a1BabzdrZDI5NkFNQ1NZRWNPNjBXUlBpLThLSkpSYXBJWHFyYXdZN01aRlFwRWFkc1ctcUE2ekFOYi1ONWVSSVd0bGItVHBGc2tUQmhBbHBGRkpNbF9ocUx0bXJ6ZFZiYURubjZTSG1FeHlmMjNDcHJnYkVIYUdEOW9PcVRpYjJCS3A3a3hCQzF2eUhLZUZNRm5VR21CRW5YSzVtelZvRzRqbTI4UkIyRVhUMks0NlZvaXFaa3BUS042aFNYd1p0TGpTZm5KOA?oc=5"
     }
   ],
   "insight": "Tracking Tyler Technologies (TYL)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:04.617Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:17.932Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    134.35000610351562,
-    130.72999572753906,
     131.3699951171875,
     127.91000366210938,
     131.24000549316406,
@@ -24,11 +22,11 @@
     153.07000732421875,
     153.1699981689453,
     157.44000244140625,
-    152.57000732421875
+    152.57000732421875,
+    153.2899932861328,
+    157.69000244140625
   ],
   "6m": [
-    191.52000427246094,
-    206.1199951171875,
     213.61000061035156,
     212.74000549316406,
     224.17999267578125,
@@ -158,11 +156,11 @@
     153.07000732421875,
     153.1699981689453,
     157.44000244140625,
-    152.57000732421875
+    152.57000732421875,
+    153.2899932861328,
+    157.69000244140625
   ],
   "1y": [
-    256.57000732421875,
-    258.7699890136719,
     263.1000061035156,
     269,
     263.20001220703125,
@@ -411,29 +409,31 @@
     153.07000732421875,
     153.1699981689453,
     157.44000244140625,
-    152.57000732421875
+    152.57000732421875,
+    153.2899932861328,
+    157.69000244140625
   ],
-  "lastClose": 152.57000732421875,
-  "oneYearReturn": -40.53474569557881,
+  "lastClose": 157.69000244140625,
+  "oneYearReturn": -40.064614677597625,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CHTR Stock Edges Higher As $1.4M Insider Buy Stokes Retail Interest - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeG5rU09qRmJZT0RHZERpdTB1VWxiSUNfQzU0N0pHSU5hU0dRZG5FVF9zQk9xV1poaWlUYS1OR2VneHRIY3lVMUNlMThGNFVQRk1rRzR4QXFMa3NQcEJNUThCN2VmT25hSEs0NWN2ME5yaG5MNWNuemhsYzl3ekxrVmV3SmcwLVFKLUFxOTUwT1ZoVnJDSWtDX1NrMkVMZlMtSnJLZWU0Qnd6NUwzWUk3VWRpSFZmc3dQTEJLZjFqUGZ1V2dLMmY3SkJ3?oc=5"
+      "headline": "Charter Communications Inc. Cl A stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeDlyYjBhSW1LQTEyRnJqZmc2UjNlazkzLXhIcWpXMWczNjdaMXRLUXYxbUo2amp6dkdqN1dkWmpxMUtxZ0tEbHVCWXI2eFRlQVBEemJwMjFsZUtxd054LVFJNzN3QUE0bnhEWlNlbjQ4cUhfV1lkcnJFUEJqSWh3RDZvRFZ6ZXMySjhpU0xYLWlvZnVrTE15WUVuSVpOZWVJbHVaRE1OUVJTVmJYcnZoaG9uTFMwa2tobHVPZi1obVJJUUJvUDdETDJvWnAySWFZTVVvR3AzUENSYkFOT0hUR05vZjgxRW8zSjlZd3JSY0E2YUU?oc=5"
     },
     {
-      "headline": "12,500 Shares in Charter Communications, Inc. $CHTR Acquired by Polianta Ltd - MarketBeat",
+      "headline": "Assenagon Asset Management S.A. Has $10.98 Million Stock Position in Charter Communications, Inc. $CHTR - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUEoyNVQ2aHk4ZXc3NzFEcUVkSkF1RXlDNzBhaHZsSURBcEY4UlVkbVNOQmZrUzh0OE90bnVXUEYyb2dENGJyMUEtQnZycGZsWXdsd1NBQzNEQnhVWkQ1NjA3RmFGTjhjLXRBNmNVZDR5SVRqT0FJNFdUQXJxV2lSQldfLXhuTE5VVDJyTEFZSWktNjRoRDAweUFxekxNVldLQzNQVE0weVJaVWhTaEFweURkbjBuR1JJMkdjRy1ETDRMRkdwN2hNVEVUNnV5dw?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ2VqR0IwUVNsMC13ZXFXY19FUTk4MEw1dHkxRW9GZXlQNC1WZldPbWt5VFplLThPLXNsYnhaVkRjaDREM3FZOXBYV3QxczlRaG1rTWFDdlNNLWJSMU9DZHdxVTVYdzkzQ09LQWk3VzRPb2V5b25Mb210Z29MTzhYbEFvZnMwc2NkanZqbkFQYXBMMnNDTC1zSWVLM245elJhZm5LZXpHTjd3TTEzeEJ5ZHUwVHV2NndEU0JrZUMzOXBseDZFRkRhRTlBcUxXcmlpcDNqWkFERERxemZkZTdaREdfdTAyenI5aUZiXzZR?oc=5"
     },
     {
-      "headline": "Charter Stock Outlook: Can the $34.5B Cox Merger Help CHTR Recover Before Earnings? - TradingKey",
+      "headline": "Charter Communications Inc (CHTR) Stock News Today - TradingKey",
       "source": "TradingKey",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYV9ZUjd5ZFVoNWFiemJ6U2dYajlkVWRTT2FPYWR6dXBWR2l5bEhZVDRwYnlma25tMTRLNVl3RzhyLVZHd1ZlN0JHYWh1WUhzTGpQTVBVazFWQzh1QnJRTGN0MmJ3MTVUU1I5ZUo1WWxpOFkwSjdtZU41WXFYT0V4VnR0dkYtRTBDclBCLU5ia3dOdXhQVDBFMVRTVWZVTEctNFpkNWNGYVRPUVpnQkJ4Wk9xN0tyQ21PTDNjZ1pqaUpZUDZOUlE?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BOW0yLTRHQllMQjV3bUFhdlFPUm1zOEd0R0puLWYzU1lvM0xaeU9aQkw1YTUxWDVNekdaT3JPNURxVUF1MGhGOGZvNU9UWWpYTUw1NnVjeEJiMUdOU0w4eg?oc=5"
     }
   ],
   "insight": "Tracking Charter Communications (CHTR)."

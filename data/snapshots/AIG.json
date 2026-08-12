@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:26:54.979Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:08.695Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    79.11000061035156,
-    79.16999816894531,
     79.9000015258789,
     79,
     76.77999877929688,
@@ -24,11 +22,11 @@
     79.31999969482422,
     80.12000274658203,
     79.97000122070312,
-    78.77999877929688
+    78.77999877929688,
+    77.61000061035156,
+    77.30999755859375
   ],
   "6m": [
-    74.36000061035156,
-    74.87999725341797,
     73.91999816894531,
     74.12999725341797,
     76.37000274658203,
@@ -158,11 +156,11 @@
     79.31999969482422,
     80.12000274658203,
     79.97000122070312,
-    78.77999877929688
+    78.77999877929688,
+    77.61000061035156,
+    77.30999755859375
   ],
   "1y": [
-    78.12999725341797,
-    78.62999725341797,
     78.4800033569336,
     79.88999938964844,
     80.30999755859375,
@@ -411,29 +409,31 @@
     79.31999969482422,
     80.12000274658203,
     79.97000122070312,
-    78.77999877929688
+    78.77999877929688,
+    77.61000061035156,
+    77.30999755859375
   ],
-  "lastClose": 78.77999877929688,
-  "oneYearReturn": 0.8319487376539879,
+  "lastClose": 77.30999755859375,
+  "oneYearReturn": -1.490833012606485,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "AIG (AIG) Stock Hinges On Underwriting Strength As Profit Cools - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQM2NxdXl1SG1xOTNCZnpBZ1g2RjFVZFN4U0d4UmlkaF9UX2hLaDJGeGlrZGhLUWxfamdjSUZVaTR6OWJFVjlGZW44MTdNZE5sWlU2OFg2OEtRbkEwOC1MWG1MS25mNDU3dE9IQWFZN3FJZzgzbTBPalZFd1Znd0llMkE0YnlhTHRONnVfY0JjUC1JaF9vNk9jeFlLd3V0NkhGWlNVRHg2SkNWYlV0amxsNHZDRmxiNmJUYkRDWWJvNnMzMzgyX3B6eG42SWp4VzEzRC1uMnVQWjBpaUxWVy1kTXhzNNIB4wFBVV95cUxQM2NxdXl1SG1xOTNCZnpBZ1g2RjFVZFN4U0d4UmlkaF9UX2hLaDJGeGlrZGhLUWxfamdjSUZVaTR6OWJFVjlGZW44MTdNZE5sWlU2OFg2OEtRbkEwOC1MWG1MS25mNDU3dE9IQWFZN3FJZzgzbTBPalZFd1Znd0llMkE0YnlhTHRONnVfY0JjUC1JaF9vNk9jeFlLd3V0NkhGWlNVRHg2SkNWYlV0amxsNHZDRmxiNmJUYkRDWWJvNnMzMzgyX3B6eG42SWp4VzEzRC1uMnVQWjBpaUxWVy1kTXhzNA?oc=5"
+      "headline": "American International Group, I (AIG) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9adUh4OVJYbmlSQWlVX1lvN3hURloxY3FrNEJzc2pSSW9tVUgzdFpuQTlpWDQxWWMxVFFsZ3I1WG80ek53dHFUcklpeUQ4XzNp?oc=5"
     },
     {
-      "headline": "American International Group (AIG) Q2 Earnings Top Estimates - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFlnWUhtRDd0dFkzV3hGb3JQX0RKQnN1ZVhQM003S3dqM29YNXpsNUJjNTFsZHktanhlVlpmZzZIbGNkdnIwN0xmeGppYzVOY1FQRENrdWNhb1JBeXB2MnlpVDM5cGdfaVA1eEUyZU9HQ1dZR2F5MnNJNElleW8wV00wZjhPSXMzd2EtLXl2VjFDcG5ONW9UejBtQmRUcXo2c1E?oc=5"
+      "headline": "American International Group (NYSE:AIG) Stock Price Expected to Rise, Keefe, Bruyette & Woods Analyst Says - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQa0RyaWpnSVY4T1Rfc3JnVEsya1ZJajA5aVR6Njk0WFp2bmxhYkdRVWtQNUoydVhiaWRFLUxmc2tBZkJjVGxidGRCZDhxaVlMZDR1QVhjNmdvcXpRNDZUY3hHeWRVd29aUGV3TjBqY1AycDlOQTFJTDJXRkZ5cVFQYWVDbUVnUV9Bck56a1dZSFJ0dmtlM2dhZndzc2l3U195aVk3VXpDM1NZaEJTdEZBR0p3WHlRWG4wbTI0MVowRUJ1M1FZR0Uwel9uTjNjOTlBYmQxT2ZpZ0xBMS1uaFJUemZSTTlUaE5a?oc=5"
     },
     {
-      "headline": "American International Group Inc (AIG) Stock News Today - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMTJ1Ty1oM1dCRVRLbWhmU1R3OTQ0a1pNbXdKcHlNZFZOVE5iLS1Fczh5OTRRMGRPLWEwVHpJRjlmdWZPaGtMX2RVRjY2UGluOVdHUldCZTAzQVRmaXln?oc=5"
+      "headline": "Wells Fargo cuts American International Group stock price target on ROE outlook - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMzBzVnZjNnpfRHFJSW1KQXFuTWdfeGF4OXVvVU02YWhyOUNHODVleUk5QTBLOF9CSFlOdnFNOWlPRXJaZWVsbjVuZU1UbXFhR0U4RncwNFBGSjJYaGJwR1lCV3hOZjFMWGR5VUNSLTMtblZrcFBnTHNwYlhjb0FQVnRoSkhBQm1sSTZpLUxzV1R6elM4Z1F4OEwxWEZqNTU3VHBvb0JMdlBxa1d0SU43RWktbXVQZTJDZjdmSzJrRHNkUXZFOUN1NkR6MkxrMm0wLXJjZEZ3?oc=5"
     }
   ],
   "insight": "Tracking American International Group (AIG)."

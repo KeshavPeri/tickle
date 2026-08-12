@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:33.641Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:44.070Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    39.31999969482422,
-    38.849998474121094,
     38.540000915527344,
     38.34000015258789,
     40.11000061035156,
@@ -24,11 +22,11 @@
     41.2400016784668,
     38.150001525878906,
     36.61000061035156,
-    37.2599983215332
+    37.2599983215332,
+    36.72999954223633,
+    36.79999923706055
   ],
   "6m": [
-    31.020000457763672,
-    31.149999618530273,
     31.540000915527344,
     28.899999618530273,
     30.610000610351562,
@@ -158,11 +156,11 @@
     41.2400016784668,
     38.150001525878906,
     36.61000061035156,
-    37.2599983215332
+    37.2599983215332,
+    36.72999954223633,
+    36.79999923706055
   ],
   "1y": [
-    36.09000015258789,
-    35.70000076293945,
     36.41999816894531,
     38.7400016784668,
     38.65999984741211,
@@ -411,12 +409,20 @@
     41.2400016784668,
     38.150001525878906,
     36.61000061035156,
-    37.2599983215332
+    37.2599983215332,
+    36.72999954223633,
+    36.79999923706055
   ],
-  "lastClose": 37.2599983215332,
-  "oneYearReturn": 3.2418901745596584,
+  "lastClose": 36.79999923706055,
+  "oneYearReturn": 1.0433857419555133,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Match Group, Inc. (MTCH) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4WVdTMWVzeTZzbEhiMG43VDhjUWRmcVN5ZXlKYmh4SlM4RFcxbmdNTHlWeVBWdmJueDhiT21zU1hGMFlyVUttN0ZVdnU2T283LUdUVy1ibjZPaW9GSjg5cTBR?oc=5"
+    },
     {
       "headline": "Why Match Group (MTCH) Stock Is Falling Today - StockStory",
       "source": "StockStory",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMG5uVVVoWkc1Z3prQ2RUakFvYlg1ZEpnT0Y1akJiVVB2WEZnZHMyTWlkU1haU3FidHNxTGREcXU0SHkwVWMxT3pBU3VIX0owZ05ZTWl5WDVxMnV0cUI1bzV4OTBDWk9kQzZ4LXRqZnZlWjBaRTdsWkllZlQxTTIwNy1TZTVLc1lJT3U0THlNLVFhYWtKcF9UQUhUM1Z4dlBRTy13VTZOSTJOYU0?oc=5"
     },
     {
-      "headline": "Match Group (MTCH) Stock May Be 50% Undervalued Despite Mixed Q2 Results - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNDFRV1dOdFRueDlZOEpSc3ZMRllzTm9zZUttRHp2bzVUSU51d0Iya1p0R3JnVFdhUE0zVXI0Y01vMzdmeEdkRl9YUmVqUklhS1V4S19ESzR2b01xd3gtUnI5cWpPM2dzaEFERkZRTy1VUFVvblNWQUZPVmtyRWxEQnBsYV93RzMtUjcxTVB3dkVTeTZDdUE?oc=5"
-    },
-    {
-      "headline": "Match Group Inc. $MTCH Shares Acquired by Bank of America Corp DE - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRExaM3ZOYmhlY0hyUjNtS2xIVVRoeEhzQzdnSXJyZDhmTWQ4b2dYaHdCZWZnQlVtSFdPTEd4NzFHNG5nLVJ4VGR1QzRhTlJmQXVKYmNaT3pVNGJLdHl3U0d2X2s2T0pULXJJTWNVUW1PN25rblFKazRtSWdEQm9MYml1LTkyTHo0RlY4OURjU2JUVHVENHVmSTRhQmVrTDI0R2d0SzhtTHZRTENFbWE1Nmx3a01TZ1RqR3hoLVd3OGUwZw?oc=5"
+      "headline": "Match Group Inc. stock outperforms competitors despite losses on the day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQai1GTzZ6UFBZNVE2QlUtSTI2Q0xKeGdkMkwxN0c1S2tlQXJIM3NTTWFhSzJFNVJOcFdKMXZQS25pT3M0RGw1YzhPMmNnWmVMcV90Ql9LN1drSUYwdkNGOThQeC04c3ZxZXlpcGhZMllKby0zci1NbEFsT1RrdVZpbzE0Sy13Y0NuRVhTRndxemxNNTJNMlhkYm5RTHdUbnFCV1ZZa1V1dmpCV0x6VkRXNlg0LTFOZGVyU092TmxDbERtZ2ZEekVtcVJUaktHcDl0Y0VIT1A1WGNvYXB3eVhkeGJCcw?oc=5"
     }
   ],
   "insight": "Tracking Match Group (MTCH)."

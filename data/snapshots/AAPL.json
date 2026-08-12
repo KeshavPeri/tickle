@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:26:52.857Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:06.492Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    316.2200012207031,
-    315.32000732421875,
     317.30999755859375,
     314.8599853515625,
     327.5,
@@ -24,11 +22,11 @@
     309.3800048828125,
     311,
     312.4100036621094,
-    313.3299865722656
+    313.3299865722656,
+    308.260009765625,
+    304.9100036621094
   ],
   "6m": [
-    258.2799987792969,
-    259.4800109863281,
     270.010009765625,
     269.4800109863281,
     276.489990234375,
@@ -158,11 +156,11 @@
     309.3800048828125,
     311,
     312.4100036621094,
-    313.3299865722656
+    313.3299865722656,
+    308.260009765625,
+    304.9100036621094
   ],
   "1y": [
-    229.35000610351562,
-    227.17999267578125,
     229.64999389648438,
     233.3300018310547,
     232.77999877929688,
@@ -411,29 +409,31 @@
     309.3800048828125,
     311,
     312.4100036621094,
-    313.3299865722656
+    313.3299865722656,
+    308.260009765625,
+    304.9100036621094
   ],
-  "lastClose": 313.3299865722656,
-  "oneYearReturn": 36.61651547148692,
+  "lastClose": 304.9100036621094,
+  "oneYearReturn": 32.77161409355349,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Apple Inc. $AAPL Stock Position Raised by Gibbs Wealth Management - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSEVnNUhBZFdaNG1TV1hUYkR1SWVHdFNGbTBHcjdJSmt6Q3VHdHA3YzhxSzZ2YUxjN3JxNm45QUwtVTlQeHI0QUJ1TnZ1c1VQN2FWdURuN0VIaVNCeWtjUzNnQVhvMHlicV9UUzBiSVNPX2RERDJHZ3pJUEZQLU9iSHhIdmpWU3RaQktDbHhZWjI2WWVQQkxLTDY2eWdYTjZjZVJYMVZLOUE4b1ZfeTl0bFduSGM4T2c5TmhKRmQzeEdOQQ?oc=5"
+      "headline": "Amazon.com, Inc. (AMZN) vs. Apple Inc. (AAPL): Hedge Funds Favor One over the Other - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQekJxM1pDRHlPVHkxbmdiQU8yMXI5MHV6UVNUVEM1OVVtMFBPZzJibmlRcXYtYlg1RkFEYzJtMWtuVFN2dkhJUWRnQ003RlRObEZmdFlobWx5RnRIQnZaX0lCYk4zNU55SGtyWmpWOFF3ckxrUzZTeHE4ekd2REVWdXc3M0tKMXcwaVhHcUdrUHA?oc=5"
     },
     {
-      "headline": "State of Wyoming Boosts Stock Position in Apple Inc. $AAPL - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZTJQTUo1eEJXRjUtbnRGd2ZKWHAySGpzak05SzE0V21ueHRLdmtOQkZvUnNvSnAxZjZFemU0bmRXY0ptck8tcGlDeHAwSTB5Ukh6Y2Q4NGtJRTJJc0Z4R1dCNy11ZUQtMU9iS3YtVDRSeHFpbEVNTVBfSFcxa05IeDNRNHZrQlRMWEJJNGFhNmptRlJCZi03eUpMNEI3ZlFfRjBkOC00cWwxZ01lZDdiN2dQM29TRjBy?oc=5"
+      "headline": "After Earnings, Is Apple Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "source": "Morningstar",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjZpRVNZOXZfQ1dxcFNtTXJqRjhtdnhNczBRaVc4UElvcnhVV3pRZk1YVTRZYTRmWm84LWp6R2htcm9YS0tCOXJDcVFOUEU1TkRtYWZkTUJFX1YtNG9CdUxIOTAwb0hFeThvWEplWVpUTWpSMmdDLVljenpmWUpLX1dqb2hwU0ZPMXRZZHR5TEVpUnBqTW1mTUFDWnpkUVl0ME1F?oc=5"
     },
     {
-      "headline": "Apple Inc. $AAPL Shares Bought by Davis R M Inc. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUo2c2lodzl3Q0hndTNzUXp2emFQb0V2VHNDNGhDaTBySXNhdlZQTVdMRF9TSGNDbHRsUUZ4bzRqU0xMb2FXNW52ZlB4dDBKczByTVFJY1A5cEg1b0VMYWtyMmpMdzU1eWN2NUtHaUpVRFE0bXcxcmJvUF8wbU5STlFrcWZuWFNHZmN3U3BELU82bnF2dUNNNVNDSm9PRE9vMHpsV2VSV0w5QQ?oc=5"
+      "headline": "Apple Inc. SEC Filing (Aug 11, 2026) - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2RuT1E1OEZSME5ocnZpbUh1M0NLczY3bTgtdXBJckRlVXdpRUE3Qjl1eXNyeklsOXpoTHBkX0trRHhSUFJORXVzMGY1RFVaSEpXNkd4X3J3bmhPdmdtU0wtdjV0bFNteWZ1Y0R1R2J5ZldmVl9ON0djS1V6RlhwdjNCZmxxZ0dTT2dqbkxycw?oc=5"
     }
   ],
   "insight": "Tracking Apple Inc. (AAPL)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:36.096Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:46.383Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    144.22000122070312,
-    140.63999938964844,
     131.5399932861328,
     127.94000244140625,
     132.49000549316406,
@@ -24,11 +22,11 @@
     145.74000549316406,
     144.38999938964844,
     143.47000122070312,
-    147.02000427246094
+    147.02000427246094,
+    151.0500030517578,
+    145.47999572753906
   ],
   "6m": [
-    169.00999450683594,
-    164.5800018310547,
     160.05999755859375,
     154.6699981689453,
     146.6699981689453,
@@ -158,11 +156,11 @@
     145.74000549316406,
     144.38999938964844,
     143.47000122070312,
-    147.02000427246094
+    147.02000427246094,
+    151.0500030517578,
+    145.47999572753906
   ],
   "1y": [
-    250.0500030517578,
-    252.67999267578125,
     253.86000061035156,
     244.17999267578125,
     244.9600067138672,
@@ -411,29 +409,31 @@
     145.74000549316406,
     144.38999938964844,
     143.47000122070312,
-    147.02000427246094
+    147.02000427246094,
+    151.0500030517578,
+    145.47999572753906
   ],
-  "lastClose": 147.02000427246094,
-  "oneYearReturn": -41.20375825709176,
+  "lastClose": 145.47999572753906,
+  "oneYearReturn": -42.692824636506806,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "ORCL Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YTHlnTkdhSUl5RzM4Q013aDVVR3VOZ3ZtdGNPSnktN254SU5JVEs4ZWM4VGphVkNudzBxS3ZHaDVpdUs2dGZia1QwT2NvWnJ4?oc=5"
+      "headline": "Oracle Corp Stock (ORCL) Moved Down by 3.69% on Aug 11: Drivers Behind the Movement - TradingKey",
+      "source": "TradingKey",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPek45aktHOW1BM1A0bEU0eGhXdloyZ3UwMFJ5Mkt1WWlXeUIyTmxmQUN2NDJ3SHpheFRqMDJpOFdnY0gzNVk0Ml93UkVxMk5tWWZpbkVjdkw4SHN1c25kWU1LZnh4b1QybzE5cFh4MjRzSHQ2QVVnRTc2eEIzdTdUNWRiUS1Ici02enFr?oc=5"
     },
     {
-      "headline": "Breakwater Capital Group Decreases Stock Position in Oracle Corporation $ORCL - MarketBeat",
+      "headline": "Oracle Stock Is Gaining Monday: What's Going On? - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVp0Q1BpWXJmSXRsY2ZCc1I4MEpNOWZfTkJRc3EwRjkydVVGbFZiUHhneWpmdFc2ZWd6UWdiUnNuUEprZllYSTNxV0dod1dUdDVudG1WOE84ZEQxMjZ4RnNmX2M2TEI2YmJGR0hPU3ZxODNKMEV2MWdzN1hCY1ZHNWVwM041NkcxR0J3bnY1ODVEMWZSTmpGNnpnUGE4N3c?oc=5"
+    },
+    {
+      "headline": "Sapient Capital LLC Sells 5,605 Shares of Oracle Corporation $ORCL - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLXFidVJ6ZzJMQ1htN3F0MUhXdnM2NFEtRlVXcmdNREdFZFB5UmpBblZDSzRDbjF5bF93MkZOWUxsVmxoX3Jod01OTDFVcVNvLThoQ1N4bHZ4YzNqMFI5QzJ3eXpyUDBGbTk4QmNxbjdncU1oUlZFckZ4MGMzVThHZkV3SlRZMW0zaDJNQXNyQnhYcmxycU05T1Qzd3ItWDF4ZHU3a0FBb1dXWmxXbUlwLVRWZ0dPd2MzQ1M3dndVNXFqUTFoT0NEODFUSmRDWDNqUFRV?oc=5"
-    },
-    {
-      "headline": "Oracle Corporation (NYSE:ORCL)’s Stock Is The One To Watch, Says Jim Cramer - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFlXQ2Z1MndjMXgyUEJvWnFnSFh2S2ZGaHFfNnI0alRTM05NR1h0LUYtdUo1VWlqX3dSZkpGSHJQT19VZDllOERLQjE1ZVRQSllEcUozdDNpYnhVR1BpUGRMYW9jMnBuUEpjX1VfWEZfaEtPc1RMMWVOQkZKcHNjWFNYY0otdkJMS1pvaHhGMWtYVUNCMXUwUks2bGZvNEtk?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlV5NHl2Vlg3bXB4UklvSVdlbm1aT0xFcDhad01NZzZTbXNtU2s3Wkc1NzlLZy1wVzJTd0JqNzh4NVVOeE5DYVpudVBQTHViQ0Jjb2FET0pXZ3drWV9OX3hfLUNMLUtWZjJjS01ObXZaRmNSMTM5V2phX3JXVVUtU3pkTjloZ1VMcjF1RWJ2eTMzNXJyeVdOcFVwOEtNUndXM19WSGtDb2JkU0o3M2ptUlpJYmlmTzVpZmJFZHRGWWZSeDA?oc=5"
     }
   ],
   "insight": "Tracking Oracle Corporation (ORCL)."

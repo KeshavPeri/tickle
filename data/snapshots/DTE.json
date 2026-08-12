@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-08-10T03:27:12.783Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:24.841Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
+    151.38999938964844,
     149.27000427246094,
     150.27000427246094,
     150.63999938964844,
@@ -11,22 +12,22 @@
     148.91000366210938,
     148.19000244140625,
     145.9499969482422,
-    145.02999877929688,
-    148.5500030517578,
     148.1300048828125,
     149.4600067138672,
     147.22999572753906,
     146.0800018310547,
     143.52000427246094,
     141.6999969482422,
-    141.8699951171875,
     141.72000122070312,
     141.72000122070312,
     139.66000366210938,
     139.97000122070312,
-    139.8699951171875
+    139.8699951171875,
+    136.77999877929688,
+    137.63999938964844
   ],
   "6m": [
+    136.55999755859375,
     134.44000244140625,
     134.3800048828125,
     132.92999267578125,
@@ -145,24 +146,21 @@
     148.91000366210938,
     148.19000244140625,
     145.9499969482422,
-    145.02999877929688,
-    148.5500030517578,
     148.1300048828125,
     149.4600067138672,
     147.22999572753906,
     146.0800018310547,
     143.52000427246094,
     141.6999969482422,
-    141.8699951171875,
     141.72000122070312,
     141.72000122070312,
     139.66000366210938,
     139.97000122070312,
-    139.8699951171875
+    139.8699951171875,
+    136.77999877929688,
+    137.63999938964844
   ],
   "1y": [
-    140.25999450683594,
-    139.9199981689453,
     139.88999938964844,
     141.49000549316406,
     139.92999267578125,
@@ -398,42 +396,41 @@
     148.91000366210938,
     148.19000244140625,
     145.9499969482422,
-    145.02999877929688,
-    148.5500030517578,
     148.1300048828125,
     149.4600067138672,
     147.22999572753906,
     146.0800018310547,
     143.52000427246094,
     141.6999969482422,
-    141.8699951171875,
     141.72000122070312,
     141.72000122070312,
     139.66000366210938,
     139.97000122070312,
-    139.8699951171875
+    139.8699951171875,
+    136.77999877929688,
+    137.63999938964844
   ],
-  "lastClose": 139.8699951171875,
-  "oneYearReturn": -0.2780546163713345,
+  "lastClose": 137.63999938964844,
+  "oneYearReturn": -1.608406612207402,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "DTE Energy Company (DTE) stock price, news, quote and history - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wTXBpVmRxVnBrU184NjcyZmF2b1pJWUxzUjJXdjFMSUI3ejl5NGYyTElKZ3pENmRIdlluem9IZGRtOERmdk5CN0tQTkp0ZmRC?oc=5"
+      "headline": "DTE Energy (DTE) On Its Grid Upgrade Story And Whether The Pullback Is A Buying Chance - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONnVaQXZ4eDhOZjBQRTFmczVXT1AzOVJSUTVNSGZCVWlhV2ZMSUpiSzF3bzR2U0lhNmlhdU1UVFIxSnZJb0oxTDZpUGxaM09nSEtnaWYyRkRXR1R1SUp1eGJGblZ2UDkySzV0alZIMW1ybmcxRklWOFdrZ2xOcHdCX0dwOWxOamJZVlE3X3JUYldfVGRnSHF0Y3pGNmZCbVpSOGI1SHZBWF9DeEZzcFVaT1pfdUlheXV5WG1LTmo2NzAtcnFjWjZRR1U5c9IBywFBVV95cUxONnVaQXZ4eDhOZjBQRTFmczVXT1AzOVJSUTVNSGZCVWlhV2ZMSUpiSzF3bzR2U0lhNmlhdU1UVFIxSnZJb0oxTDZpUGxaM09nSEtnaWYyRkRXR1R1SUp1eGJGblZ2UDkySzV0alZIMW1ybmcxRklWOFdrZ2xOcHdCX0dwOWxOamJZVlE3X3JUYldfVGRnSHF0Y3pGNmZCbVpSOGI1SHZBWF9DeEZzcFVaT1pfdUlheXV5WG1LTmo2NzAtcnFjWjZRR1U5cw?oc=5"
     },
     {
-      "headline": "NewEdge Advisors LLC Sells 291,421 Shares of DTE Energy Company $DTE - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWFBna2ZBWS1VeVA5OGxTa1pDQUZCNGI2TU93NWc5dmRQMnlIZVlCbkpDTnJNUlJsZlNmZVlYOHpzSnNFd3FkS2lRd2IzSl9DQzJaakl6U252N3ozM1pQZVMzQm52VjBMcmptd29vT1NvQU40dGtTa3R0eC0yM1VURXFNaGIzU09ITDdRVzNOMUsxTXlxcUUzQ0hTTUdkWF9KQmRrVTBZbHVvTnozS2ZRRDdXSlRnZGo2QmFuTzlEMkFseG5OQlE?oc=5"
+      "headline": "DTE Energy stock hits 52-week low at 20.01 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3YwMTlWc1pndS1JLVBUdlVRTUswckR2M0ZwcjlfeE83cmR4VEdua3psNmtERlNDRFdNRndfMnRsODVuOUN1Qmt1RnA0Rzc2TXpMbXFyb3B0QWhlOERHeGhaSFpoaFhmb3owQVllU05lWjBpNWhxUHhYdTY4dnBOTDNqd0tuLUxEVm5DTGhuUVNtVjZCdWpzWDcwSHN5SHBMXzA0?oc=5"
     },
     {
-      "headline": "DTE Energy Co (DTE) Stock News Today - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NdXV1TXZzelNCNF9pVGF6YmZCdXF0cnFIaTh5Rks0dkhYaEVhLUczemd1Y0VjTGhOT01GNTIzcE12NUFfcEtsR1J2djdCZktFckM3OWVtN2NqZFdUd0ZZ?oc=5"
+      "headline": "DTE Energy (DTE) Stock Looks Fully Priced As Its 45% Run Matures - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ044SEFiRjBEN1hLdmhOT09lOERzVFAxTHdjaXZ2WFdIS1JWZ1U1Z0dSVXlYRlpHb0I0X2U1OGx1ZjBpeVg1NUR2UXBtbHAxVUVYbVR0dkV3bnM1bl9wNWZiRktxbG5wUW9EM0NhZkNhNU9aTkJOUTV3VXdHSTFpbS0tY1hEa29MNFlFRExCTnVNRGliaXc?oc=5"
     }
   ],
   "insight": "Tracking DTE Energy (DTE)."

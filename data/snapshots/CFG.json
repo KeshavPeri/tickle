@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:04.322Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:17.728Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    69.86000061035156,
-    70.33999633789062,
     70.36000061035156,
     70.31999969482422,
     71.12000274658203,
@@ -24,11 +22,11 @@
     73.68000030517578,
     73.5999984741211,
     72.43000030517578,
-    72.66999816894531
+    72.66999816894531,
+    72.66999816894531,
+    72.98999786376953
   ],
   "6m": [
-    63.4900016784668,
-    62.97999954223633,
     64.86000061035156,
     65.97000122070312,
     66.5999984741211,
@@ -158,11 +156,11 @@
     73.68000030517578,
     73.5999984741211,
     72.43000030517578,
-    72.66999816894531
+    72.66999816894531,
+    72.66999816894531,
+    72.98999786376953
   ],
   "1y": [
-    47.279998779296875,
-    46.93000030517578,
     48.13999938964844,
     48.54999923706055,
     49.209999084472656,
@@ -411,17 +409,19 @@
     73.68000030517578,
     73.5999984741211,
     72.43000030517578,
-    72.66999816894531
+    72.66999816894531,
+    72.66999816894531,
+    72.98999786376953
   ],
-  "lastClose": 72.66999816894531,
-  "oneYearReturn": 53.70135373346561,
+  "lastClose": 72.98999786376953,
+  "oneYearReturn": 51.620271685056565,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Citizens Financial Group, Inc. (CFG) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rQXRIeWN4cmdubTFENjNpMzAxZFNiMWJGaHA4ZTJONm1uck1DWV81dUl4WHRBVnlleHR6Y0hlVlhKVm1fam5UaHVuWG4tWUti?oc=5"
+      "headline": "NewEdge Advisors LLC Increases Stock Holdings in Citizens Financial Group, Inc. $CFG - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPczdBVEpPMVJOOHZRcTYxbFZQX2xFT1dDbmZzQ0dESjZjQ0l2d2o2SFRaeTJ0LXY0ei1kVWttUjM3Qm1BbEpLODhDb1dESGsxaXU1N0liVnBDZVlDRnUteHlrc2tGQ2ZQUFFHeHk5NHhtN0R0QWx3WjB3U1ZxRlE2TU8zRUxkVFZjSmtpSDNwZ0FmOTloYndXczBaellHUGdjakVVSkxLTkxwNjFycXRBYXo1VE8wZXJJRzZuV0o2bXBWUWU3Sl9kX0dvUTA4MjRvbm92WHRWUlFJQQ?oc=5"
     },
     {
       "headline": "Fund Update: New $9.9M $HONA stock position opened by CITIZENS FINANCIAL GROUP INC|RI - Quiver Quantitative",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTNnaHl3bVY0dHBCR0xlamdGakdsR2huYWJMRlhzQ28ydWJQTnUwN1ZMaExDaFhWamEtcUJ4TW1EZ2dhMkdqa2hGX05xaExkZXFCZXZRSDdEelFxaUtrcnNaekswT0RSWVJvYWVCbVZVYTlCTk1oS3JXYlhOX1JYbE5ob3J6ZTQ4NVFGZFNvOE9BbFVFdC1YSUVCZXNaQ01Scy1sdW9DdF9HdWV5ejBUTE9Odlh4OVlFRnVRMFltRzg0MXh3?oc=5"
     },
     {
-      "headline": "Citizens Financial Group (CFG) Stock Faces Valuation Friction After Strong Q2 - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcUt5UFVqV0FRYWtoaVBPdVpXaVExTktpdHdZX3djZG5GWWRkZ0lxb3ZYSUpNZFI3RVNyeGY4UnE2cExDYWRqNm9hZTd4UjM2a2N5a21qUjhFakhKTVZFbGRnYzVTOHJ2ZndHN2RBZHBDNlZ0cl80QzkzRENveWpxdUZVSjRHUEdNc2VINWRQMXlqOE0zU0pWYlBlS3lzTjE2d3h4cDQ5WFlTRWVFOFAtT2pQTUN0cUE1TTQwVkNHX3ZkeFhGVUVMbTRITzJFU2JoaVHSAdcBQVVfeXFMUDJkUjZ3Rl8yb3B0ZVdoZ3FueHJjTWFrckNVRFAwZUpDSkFzLVN5SFgxd0IxSG5VZmtrc0RaRWFVcWdQYmlMZzY5NlBlaGlmZEN2WVhNNlFEc1Y4NDRGY3g1dHE0dWxMSjhtZnB6a1NSZzJIOWp1eG9aSDRXRjVZUnJocm9HbWc5Wmc3d0N6MnJvWHBvRjBYREVSNUdyenNCWDB4MGFvX05LQW0zTWpUUjBNOGFvT0xycUQ1WU1YN1VuMXBZcFlfclVFWHBiZU9lbXhOY3FtSEU?oc=5"
+      "headline": "Citizens Financial Group (CFG) Stock Gets Fair Value Bump As Analysts Lift Targets - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjB3Zk41dEZRajlic19qRmpwUmptYUNNLWh4NzN2QTktd1NQME1HUUVzOFR1R190bHE5NTdjWU1DUnBZYmJJZmNGejRtdGVNMUV0NVlWRXh2VnJvSmVLNFB5X1l3b3k5cWF2ZzRXZk4tNldVZ29YNUFtYlhsTE9UT0pmY2dCcXFIWEdyR3NCR3dVa0tFa2dpLU9fQkZZRHJZ?oc=5"
     }
   ],
   "insight": "Tracking Citizens Financial Group (CFG)."

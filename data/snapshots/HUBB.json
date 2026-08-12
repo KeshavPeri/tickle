@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:24.896Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:35.980Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    485.4100036621094,
-    490.94000244140625,
     477.0299987792969,
     483.8900146484375,
     479.9200134277344,
@@ -24,11 +22,11 @@
     502.239990234375,
     513.5800170898438,
     507.7300109863281,
-    513.989990234375
+    513.989990234375,
+    504.8999938964844,
+    519.6199951171875
   ],
   "6m": [
-    497.9700012207031,
-    487.94000244140625,
     495.5899963378906,
     503.8599853515625,
     487.1600036621094,
@@ -158,11 +156,11 @@
     502.239990234375,
     513.5800170898438,
     507.7300109863281,
-    513.989990234375
+    513.989990234375,
+    504.8999938964844,
+    519.6199951171875
   ],
   "1y": [
-    418.6499938964844,
-    417.5400085449219,
     432.1400146484375,
     443.95001220703125,
     437.6700134277344,
@@ -411,29 +409,31 @@
     502.239990234375,
     513.5800170898438,
     507.7300109863281,
-    513.989990234375
+    513.989990234375,
+    504.8999938964844,
+    519.6199951171875
   ],
-  "lastClose": 513.989990234375,
-  "oneYearReturn": 22.77319902731551,
+  "lastClose": 519.6199951171875,
+  "oneYearReturn": 20.243434420188635,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Hubbell Incorporated (NYSE:HUBB) Looks Like A Good Stock, And It's Going Ex-Dividend Soon - Yahoo Finance",
+      "headline": "Hubbell (HUBB) insider plans 547-share stock sale and discloses 2026 vesting - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWFicFlfeHV1R2ZPTXFuMzVndTJXTkhTb2lQTjdfUlR4TmxpMm5POUdjX20zSFRLa3FtcG80VkhxaS00Skw1c19Gak9KejhMcUJRVFVTQmFKaUNhZ29RV2ZGQTAtWGh5VDFvRU82Y0xkb3dQUGppV3JMdlQ0SC1pcXV4eXRMV0E0N1VOZDFmTTZZdw?oc=5"
+    },
+    {
+      "headline": "HUEC Forecast — Price Target — Prediction for 2027 - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kYkRVY3dVcUVaWUJoeWhRWEJnTXlUcXhqenFkb2JQMTJqVTZoQ2UwazRrM19kUDFkSC1RbG1oblNsLUN3ZXdhTGJMV2NDR0JUNzdVUTdZVEpQNVpWNm5hSGdJZzFMemhQT2pyTTFfUno2Z1dvNnc?oc=5"
+    },
+    {
+      "headline": "Is Hubbell Incorporated Stock Outperforming the S&P 500? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-05-24",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXE4R2Fxc2RlT3NSLUlZbXZuWXZ1MnptYVdnQVF2bldoZkZ3Y2pQdFp1MnlfWFdMNFRjTnp6bW1Ock1yTUVPRWs0dXBsUno1bUwyMmtTSzRUWXF4WlBBelNhZTRHUW5IMVBFZnh5VmNzODVUcVM3QXJWbE53RnNJZzk4bkxHRUJwTlBpNVcwWER0aFBsMlZBVF9hdklLYUxycHRB?oc=5"
-    },
-    {
-      "headline": "Do Wall Street Analysts Like Hubbell Incorporated Stock? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVEzTE9yemt5dmxMY015dkFwSVlRTzRYalVHbE9wRTBEWHhudTFTdU9FcUFIazZDVnY2alFaaTNocE1kd1o1SWV6dTRSQm5QSVh1WkJvRGg2VzU1UGlvREsxZDBQcGJCZl9rbWVFMGl6cUowRFJ4eGdvTGlSaXUtQ05CaEpZeERicS1JaWh2czZCT3lYY1pBME9saTNmbXps?oc=5"
-    },
-    {
-      "headline": "Hubbell Incorporated Declares Regular Quarterly Dividend of $1.42 Per Share - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX082ZlJmQ3h4WG5WQnZwMDY1blBGNm90aXVnMmVqX3pOVmNWX2JHYTcwWFBHcUEyU0tNRWhSay1Idzg4Uld1MEg4ZmJkT3NfVTR3dHNCUFFacXRIc2J5MUEydEZkUEducTFMRDVIbU1nUFYxMkNjc2xYZmhocnZtWXlheGtWQzFRSGFieFFwcGhaZFlJZGN2clc3dGpMdTUyOEE2elFiYThSb0pqbjgw?oc=5"
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2tMWFlsZWZpS1RRS3IzdVEwbExkU0ZDSHR1YlNIZ3BrdEVtSEp3a2dEMnB2X29sd05YSkJBUDhUeXhQQjFoYkZDU0F2NDZoUVRVTFBoVGRTcEc4UDRnSHNkZHNqZEx6cjhkZl9CQWNBZDBMXzdZcXBmODlXbmxzblN2SmpkSGY1T1FfVWc2NExvZTNmbS00ZkcycG9ESXhwM08zc29STGVkcWM?oc=5"
     }
   ],
   "insight": "Tracking Hubbell Incorporated (HUBB)."

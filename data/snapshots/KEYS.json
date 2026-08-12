@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:28.557Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:39.409Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    322.1700134277344,
-    322.04998779296875,
     320.8299865722656,
     325.7300109863281,
     322.7099914550781,
@@ -24,11 +22,11 @@
     341.239990234375,
     336.0199890136719,
     336.9599914550781,
-    340.9700012207031
+    340.9700012207031,
+    335.4100036621094,
+    343.70001220703125
   ],
   "6m": [
-    221.1699981689453,
-    216.3300018310547,
     223.25999450683594,
     227.16000366210938,
     221.60000610351562,
@@ -158,11 +156,11 @@
     341.239990234375,
     336.0199890136719,
     336.9599914550781,
-    340.9700012207031
+    340.9700012207031,
+    335.4100036621094,
+    343.70001220703125
   ],
   "1y": [
-    164.9600067138672,
-    161.49000549316406,
     167.08999633789062,
     170.22000122070312,
     164.47999572753906,
@@ -411,29 +409,31 @@
     341.239990234375,
     336.0199890136719,
     336.9599914550781,
-    340.9700012207031
+    340.9700012207031,
+    335.4100036621094,
+    343.70001220703125
   ],
-  "lastClose": 340.9700012207031,
-  "oneYearReturn": 106.69858592582115,
+  "lastClose": 343.70001220703125,
+  "oneYearReturn": 105.69754009210615,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Keysight Technologies Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTmhKcTVrRkxzMnRfbDZwdDBENmt0cHF5QXlpa2Z0TFk3V2MyUmUzR25mUW5FU0E1Nm45MWpVSk5PT3JLT25LZkkwY2pQTHY1NElVaHlpdUpGTVV6aVoyMjRjSVJtYjA1SFAxWlFJQzVjd19KakdlbzFkTExITU9welJmdzlSSDZZU19Ud1RNakJBWW9zNFd1LXk4QjRYYXBEaE9pZkh5bjZObEpSNmlXY25MeDhhUk56R285MWJZWXYxc2RDUC1vN3lEVlNoeEx4bU5J?oc=5"
+      "headline": "Keysight Technologies options point to 8.9% move on earnings - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMy1BSnZSbTBxTGVRcVhyYmxyS1daR2htVVZIM09hbnlCTDNiX2V5YlN1b2FfQ05IdWQtYy13czEwNE9rV0piYUxOVXZha0I3WFhXRmZVenRFTVZEVmc2ODBrSHhINTBSLWpQT2EtTDlwT255TzVzR3Awb1NPSF9hVG45eDZ5ZExUNTE1Z0JCNjg5S0k3Z1BjZV9adUhlUDRRWEIwRG12RTNzbEtzanRXejkyN3VFRW9pZ1hORA?oc=5"
     },
     {
-      "headline": "Keysight Technologies Inc. $KEYS Stock Position Lifted by PensionDanmark Pensionsforsikringsaktieselskab - MarketBeat",
+      "headline": "Keysight Technologies Inc. stock underperforms Monday when compared to competitors - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUWRkOGpjNTlGeGFyRDhBSG95MklrcWotZXBhU01LLW54VlNVQXdEYlpkVFFraWJkaV8xdV9WRENEVTBOaVJmUUJLOTBqano4VkQ2RlZYaVptWEpHQVQ1Q0N6bktQaUU0NFNHQXRuRFFGTDhwbkhGLUlyZHFRY1ViN1pFRzByUWU2S2Q4TGlWemEtZHd5XzVkczY5UmdNWHpYa055cmtGUk01T1d5OG1TeGZBNzFZa2o1aTY3c0FySXZBNHo0am9vMzhiWlBHeGotamdveU9FVnlMM0F2UzRTaGRKb1RLcmhRTjV3T1NkLVQ?oc=5"
+    },
+    {
+      "headline": "Keysight Technologies (KEYS) Projected to Post Earnings on Tuesday - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQb2ExN0F4d3NuMFp3U204bzhjSXpSajR4M2VueURIdXlaTUkyMGlTQ2wwNEIzQ0IyeXBxeGxITmUtTWF6d3RwZ1JfaW1VaDdvUlUtemVJbWFGcEZORmRacUpvSXJpYVFnWm5LX3JSS0ZkZUhvdGd2Zi1yZC1xR2dJXzlMV0l5Um1Mdi1sUXIzbXJ6UG14M2lhdGpSTE9yUUlSYnFXS2drN1BPa2tOVm5yeE1RQ0tqeUNZdnpPWmlYNXp5RHgxeVBQbUNqMWVnaHJyMWlhakxqQWdXUHlKNmJVNUF4eHZFeHFQVGJ4V09WbTFPbTRyUVE?oc=5"
-    },
-    {
-      "headline": "Keysight Technologies (KEYS) Could Be 12% Undervalued On AI Infrastructure Momentum - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXo3eDRpLTJ6MElWTnQtSmZIdGt2UENrcDAtOWdsLTlub2cxdGRKOTRfME5nV1hqajc5RW5jcFJ4R2FwX3lQOGpKcWtReWZHUWxSYThBamtwekhNb0xNdlRicnZ2VFdIcWZvUTZVY0I4RkNLWXpyQ3BQaWprYjdpcTZGOGdlbWxkWnFuaXV2b2JHcF9ycERaS2FtR2prcmJndHVSYTEtMDRpa2xkV2FPdFh3WWk1TERiMDNwU0EwQ2RXSmticWEwckozdjc5ZUHSAdQBQVVfeXFMTlZaTGFyX2lLQV9RTFJHeGhNenR5YlJCYkk5Z3ZLeFBwaVViNE5wOTF0NlNrOXMtYUZRNl9uNHU4RUNuR3ZUeDVFUHN6amRSbzlKblZ2TUxJTkZfZGhkaUhxWU85RE1MaUpiUm80c3R6UWxlYldBWXZabVk2dVUxWTc4UVdxWjVsaWtiajUwdUVxTE9ZeHhMWGJqRkEzQWZsR0tvX18wbG85NElXUkl6S2JwcnZsNGFrS2xZcnIwMk9yM1ZhczBMakxvdjFIRXpYUi04VDc?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzUwcTJ0VXA1cXRySzNzbmlUSTJCQWVpZmJ2Mk80VnRGbVlYQ3lKZFlGaFpaVUs1WFhfWnAzRVVHMmlTNV91VS00NEdFTFJITHhGdUVUZmxMQkF3V1Exemx3X09kaW9TSjZNSEY5NkVCdDJvMWVTYVhuc2pseHh2eGVLbmhva2dlZkU2S3pVa0U1WUxYdzBJazREVS1EQkhpTXNVdW1XSHVkeGR4ZFJkV1NVa2dRNnBOWGc?oc=5"
     }
   ],
   "insight": "Tracking Keysight Technologies (KEYS)."

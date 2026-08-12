@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:43.826Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:53.216Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    19.75,
-    19.530000686645508,
     19.790000915527344,
     18.940000534057617,
     19.3700008392334,
@@ -24,11 +22,11 @@
     19.34000015258789,
     18.959999084472656,
     17.670000076293945,
-    13.800000190734863
+    13.800000190734863,
+    13.390000343322754,
+    13.5600004196167
   ],
   "6m": [
-    31.25,
-    30.329999923706055,
     29.75,
     27.18000030517578,
     27.270000457763672,
@@ -158,11 +156,11 @@
     19.34000015258789,
     18.959999084472656,
     17.670000076293945,
-    13.800000190734863
+    13.800000190734863,
+    13.390000343322754,
+    13.5600004196167
   ],
   "1y": [
-    54.22999954223633,
-    53.17499923706055,
     53.27000045776367,
     54.36000061035156,
     50.7599983215332,
@@ -411,12 +409,20 @@
     19.34000015258789,
     18.959999084472656,
     17.670000076293945,
-    13.800000190734863
+    13.800000190734863,
+    13.390000343322754,
+    13.5600004196167
   ],
-  "lastClose": 13.800000190734863,
-  "oneYearReturn": -74.55282997008527,
+  "lastClose": 13.5600004196167,
+  "oneYearReturn": -74.54477134767804,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Trade Desk (TTD) Stock Is Falling Today: What’s Behind the Drop, and Are Its Peers Moving Too? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREZVN1pUaDlRQXZEcmlUeDIzMkh0VWtYQThqTzJ2MF9RaTk1Yy12X0pVTHl4RWRhNnVGajVjaUNBUGFMQWxfNVcydXJqaXBSSUo5S1ZDck5nemlJS0JJcVlXV2xZRzJqQS1Kdkt0N2ZVR08wb0NkV1R4UEVPbmxmZnRmNHowa2lWOV84SVd0elplNk1Hb21JYg?oc=5"
+    },
     {
       "headline": "Trade Desk Stock Tumbles as Things Go From Bad to Worse. Here Come the Downgrades. - Barron's",
       "source": "Barron's",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1paXVncVZ0Sm9xOTljby1Pb3F6NTlSeWZWUHlrdG5VUTE1R0VxbmNjb3VaWllEWHJUUEc5ZkhoQm00RjFqWXlOV1dQZHJOWmw2d2dIY3lPWWVNbFZsSkVFX2gzWlpSdmsydHZZMVFGNWRoWWlFRnhzWWtNYkljdw?oc=5"
     },
     {
-      "headline": "Trade Desk Stock Drops After Q2 Miss And Analyst Downgrades - StocksToTrade",
-      "source": "StocksToTrade",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55ZEtCWlBoRGZlbzU0QjlmUjNZS0UwSER0dEZUMHVJREd2RTdNeFNqS053ZHJiOTB0Y0Nta1V4Zk85SGJFTE80bGd5ajBqRHRiNG1iVVE2SGtXWW1jaVN6V0kzUUprVkd1akEzNDVGTDdGWG9NdGc?oc=5"
-    },
-    {
-      "headline": "TTD Stock Crashes Overnight: CEO Says Trade Desk's Customers ‘Operating In Different Environment' - Stocktwits",
+      "headline": "TTD Stock Sinks Over 26% On Earnings Miss, Weak Outlook — Retail Says Trade Desk’s Guidance Is The Real Problem - Stocktwits",
       "source": "Stocktwits",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMVZnRG1jYTJBbnZFR1dpSGlIWXRIdkdleHYyUXpfQ202QktVSUdKZjMwSnVQVWc0V1FUemtxd1ZPSHB6cWEtRUhoQVBPTWRmUG5sMDl2d3VkdHlKOW1DQjhveTIzZV9laVZScHY1RWRiN01GQ1ROMVNVNWdtN0VqYnJDZDR3NnZXcDBhSlRXVmlfSldrLUJ6Vk1VSzY1cEhmZzRKWVlMQ2lRMnVkWlBGX1ZfamNFczE5TFFNNENydnVZdnhKX3BscmNIVmJ6Sm5veTNKNXVIRDVSMExoMzBIVWJBZmx6YTl0a01oLQ?oc=5"
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdmRQRTZXb1dhN3FTVGZ3allPME9nQ29TNnAwNnVoR1BmSDMtSjRqNlNUS3JwaVl2cEVkZTV1T2swb3lGSTBKTVY5aUY3NWF1T0QtVFJVa2xNNWRPaE1xdWdRWDlseTdhMFQ4cmE5ZzBuZ24tR0ZZUE9iUnV5T1RuZDJza3JzVW9OYnJHMkZxLUNCV0QwZGotZ2dDSkZVVnNUWmsxMWhXelpqRF9Md3hGWGdCQThhV1pOSmQ5cUFrZU8zb0dKaElPbkNHajV1TVpYMjNiTmdYN1c2eGVVdUJ6dEc5TmQ?oc=5"
     }
   ],
   "insight": "Tracking Trade Desk (The) (TTD)."

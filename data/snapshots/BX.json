@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:02.167Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:15.597Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    122.1500015258789,
-    123.08999633789062,
     122.04000091552734,
     124.55999755859375,
     127.05000305175781,
@@ -24,11 +22,11 @@
     137.1999969482422,
     136.02999877929688,
     133.4499969482422,
-    137.1300048828125
+    137.1300048828125,
+    141.66000366210938,
+    147.1699981689453
   ],
   "6m": [
-    142.94000244140625,
-    142.4199981689453,
     141.27999877929688,
     133.8800048828125,
     134.5399932861328,
@@ -158,11 +156,11 @@
     137.1999969482422,
     136.02999877929688,
     133.4499969482422,
-    137.1300048828125
+    137.1300048828125,
+    141.66000366210938,
+    147.1699981689453
   ],
   "1y": [
-    168.91000366210938,
-    170.07000732421875,
     173.74000549316406,
     176.6199951171875,
     174.67999267578125,
@@ -411,29 +409,31 @@
     137.1999969482422,
     136.02999877929688,
     133.4499969482422,
-    137.1300048828125
+    137.1300048828125,
+    141.66000366210938,
+    147.1699981689453
   ],
-  "lastClose": 137.1300048828125,
-  "oneYearReturn": -18.814752288366627,
+  "lastClose": 147.1699981689453,
+  "oneYearReturn": -15.292970233769312,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Blackstone Inc. stock falls Thursday, underperforms market - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "Blackstone Inc Stock (BX) Moved Up by 3.50% on Aug 11: What Signal Does It Send? - TradingKey",
+      "source": "TradingKey",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTZFb3I4YnhiSUZ1TG9GRnFZZjZhN0J0NDVUaVJ3WWpuQ3MtSlVSREJ5RTlTYXdsX2RReFhxczhZMVZ6emR3Q3pJU0FjRXdTRF9HMVdscU9Fcm1iaG16Q1Q1RGJkQ0Rxa0Z4Tmo0dGRnRGxDb3lWcTZBT0hJUEcwT3V4Z2NVcWpp?oc=5"
+    },
+    {
+      "headline": "Blackstone Inc. stock falls Thursday, underperforms market - marketwatch.com",
+      "source": "marketwatch.com",
       "when": "2026-08-06",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2FQZmJTMHFJRDJmVFh1Y1ViOHpLZGoyZU1LVUdKYVQteXNheUxzT29wSEItUnpmV3NmY1lpbnh2ZjZOUTVaRER2SXlLcUJCSHJ2ZUk0VF9rVERYX0R0dUgwai1fZjdaNUU4d0h5aGtuMndjcS1oRzhRR09MYi15dmw3NmNIeDhRakJESnk5WEZucTV1cnJYaU9KdkFBU090ZVBrSU9mT2pDTXF4QU1ZUlRiWVNUdWc?oc=5"
     },
     {
-      "headline": "Blackstone Inc. (BX)’s Profit Jumped 26% on AI Bets but the Stock Barely Moved. Here’s Why. - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUU9UN3hHMlhFbnNhcHpFU1UyMGlfZUd6S2JtVUt1R0VqUU51UmVoNS1LT2lVVTE5OWFsR2hjQ0F1UkRmSDZ0NHhETmx0bXFXOVNtblEzMHVUUFhTMndCcmJGVGk0aHEtMTk3TkJRcG1qZUlNVjZkZldwVnBlZjBxZjU4SFBXa1liQUdmUzdReFFSb28tV3llNWJXenM?oc=5"
-    },
-    {
-      "headline": "Have Blackstone Insiders Been Selling Stock? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGYzd3JWdzJxWXdoV3BhdGNBbWFMZlpuaVZTRFpKTGc2UFpJSC0xWXJSck5ucWtFLUV6N1J1bnR1a2ZMTWx4Y2pUQ0hXS3BTUHZFUzdpQ21TQUNHRlhtUTQ0WGlUN0ZqOWZHRV9PMkZLOEtGbXp4LUE1TEpsb1hHU1hidGVWTy1kY0M4MGRYV2FrLVZvbGhjWU54bHRPUUZwdGVJck85eVk4b0kzRmNaY2ZOZEZDRkQzZTRXdWJ3US13Z9IBxwFBVV95cUxOOFJiaktMRENMYTVsUTJvN2M3aGtaUmFNaTVXVUs1U2pPbzRZbXNOU3NjendjOXgyX2g2cnJrS05Sc3BiaWNmODVnNkc4WElyWXVkbjFVam5sNVUxdVFQTWtVNFNmQUxmMnN0UHJLc3dHQ2c3N3F6UFJISFFwMDJKVDhiTFFpbTduUTV4dmRDX2hhYkpHYzhkODBxSFNSX1I2LWd0VXE1b2MzWnF2QVdTWUJfdDhicVFtQjNRNjJlS21EblZCNG1r?oc=5"
+      "headline": "Blackstone affiliates (NASDAQ: BAER) file Form 144 for planned stock sale - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWUZlOGdPd2pscHBfZndDUHNBUjNOTzZEd0llSVBEdFBjcWJORzJmUWhveUUwdkM0RjNnQWpjalcySWwzRGVhSy1YVUZGdF9zdW9HMzlodVAxSE91bDJEcl9wMldxM01YcGhYWU1tdGdsMXZaczNMbjMzQlc5ZXl5VG9mRUFHQnY0bmhUeW1obzNSVEdjT2hIWks5WHlRM2Npa3hzUVdPLUF2Y01aMS1QVTZNaw?oc=5"
     }
   ],
   "insight": "Tracking Blackstone Inc. (BX)."

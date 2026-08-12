@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:40.077Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:49.808Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    28.239999771118164,
-    28.309999465942383,
     27.65999984741211,
     27.649999618530273,
     26.889999389648438,
@@ -24,11 +22,11 @@
     31.690000534057617,
     30.31999969482422,
     29.3799991607666,
-    31.1299991607666
+    31.1299991607666,
+    31.459999084472656,
+    31.600000381469727
   ],
   "6m": [
-    30.1200008392334,
-    29.110000610351562,
     29.709999084472656,
     29.670000076293945,
     33.7599983215332,
@@ -158,11 +156,11 @@
     31.690000534057617,
     30.31999969482422,
     29.3799991607666,
-    31.1299991607666
+    31.1299991607666,
+    31.459999084472656,
+    31.600000381469727
   ],
   "1y": [
-    44.599998474121094,
-    45.20000076293945,
     46.43000030517578,
     46.06999969482422,
     45.4900016784668,
@@ -411,29 +409,31 @@
     31.690000534057617,
     30.31999969482422,
     29.3799991607666,
-    31.1299991607666
+    31.1299991607666,
+    31.459999084472656,
+    31.600000381469727
   ],
-  "lastClose": 31.1299991607666,
-  "oneYearReturn": -30.201793215688976,
+  "lastClose": 31.600000381469727,
+  "oneYearReturn": -31.94055530095028,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Supermicro (SMCI) Stock Looks Like A Bargain At This Price - Yahoo Finance",
+      "headline": "Here’s How Much Supermicro Stock Is Expected to Move After Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc3VsSWJ6Z2ppblZxNW5vUEZTdVE4WE5FNnZNV1FCVjYxTDdJdnJ1Q0JqZUUtMWRLNlNvZnMwWlVjdzV5WVZGaUhaTDByWUxwemotU0U0czhaUjZnVExOWFNObVNvSUVHYnpXbUJzUDZnMHM2SW1hdkJNTXRQbnEweU9uMlJXR0Vub0Vxd3RKRXhZb3A2Ykp2SHhSRDd6dllFQUE?oc=5"
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZVRHcV9qS3BiNXByMXRiMXpNc2I2Q21ZWThOVVZ4Nkc0OXc3bVBQazdRZTBrU1hJelB5UnN2WmF6VWJGODN0eHZ1Ukp0bHZDS01zejBBNEhrbENWY3FHYk8welNhc1hyc1dxcTNienNlRW9DZDhwdWRIUDhGQkI0Mm8yT0c4RVQ3amF4bWZHYU14MmZic0o0MVEzVFY3QXh3WHc?oc=5"
     },
     {
-      "headline": "GRRR Stock Slides Premarket Despite A $2B AI Deal With Supermicro — Here's Why - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ1BTMU05cW9QemR4N2U2Vmk0VEtFWDhQZjVIR3hKU0w1UHdNSVRzeWlNVTBqa3dEWXZfT0JyT1ZxVFMtOUlWdEs4Y0N3azVZcG9WLXNsTlNzMWNmcWlwaTJEd0paLUQ5cUJBTUpVeDlUc3phUTIxOFYydjNFcENwVGY3cE51VkJzR1h6cjZqM1ZDc3BKMFZoc3RJOGJPV1dGTm9zUVZwTWFWM3RTRk5mcWl5RUJNbXE1YjlnQzlR?oc=5"
+      "headline": "Snake-Bit Supermicro Surprises With Big Earnings Beat - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmRZLTBlcUJUaGVkaFlZdU1ZMlpIdTZlYzhvR1RSUlRLVk9fdUhYS2lJQUV5VnV0TkRHanBzMzNDRkhZc1BsRE5PV1ZjRGwycEtvbEY2Y2NWZnJZZE9UYW9KVzJrNkpMWDl1V1A3QjV3WnBjcFQ2V0tHSnNsa0I2TWZtdlZ5NktCT214bXNKd2pYdw?oc=5"
     },
     {
-      "headline": "38 Industry Experts Will Share AI Infrastructure Advice at Supermicro Summit - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb2M2S2E1dk56Vm80Y2hXVlJZR0M2em1ocXd0ekdxUDhKWE1zWTVFQnNhTlBkaE1vWTUtTnYxLTlsNVhrN2JpWHNLWUFkaHI1UEM4M0dIV24tU01zRGliamlpdlQzNVlWWHkzM0l3QkRLWHAzamZ3ekhfdFF6N3A2TXlwaFZScFZYNWYtQ0FJOVJzMVNyVmhuRnFhNXR1QVdIcWZfX2NuWlA0OE9jMXF5WXRBbjdIanNqNHN6eVR3?oc=5"
+      "headline": "Super Micro Stock Climbs as Earnings Soar Past Expectations - Barron's",
+      "source": "Barron's",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNXp6ejc3MVlDc2VWNXZSSVVHZy1mUVItX3pJRlhreFdfZWlPOHg3czlZNDJRTTlOUWVQUW5SWlQyWUFuNkgzUVhZcUNvOWFtX05WeG54aHo1NDREVzZsVDlqMERWNFQyMUR2RHN0bzBhZzI3UFkxNGM4dVlUZ0xCWVN5SE9scDdIZGRR?oc=5"
     }
   ],
   "insight": "Tracking Supermicro (SMCI)."

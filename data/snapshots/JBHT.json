@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:27.887Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:38.618Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    282.6099853515625,
-    279.9599914550781,
     283,
     280.8699951171875,
     276.2799987792969,
@@ -24,11 +22,11 @@
     274.4800109863281,
     272.6600036621094,
     267.25,
-    268.5199890136719
+    268.5199890136719,
+    266.1400146484375,
+    265.3800048828125
   ],
   "6m": [
-    205.2100067138672,
-    202.72000122070312,
     211.7100067138672,
     220.61000061035156,
     228.22000122070312,
@@ -158,11 +156,11 @@
     274.4800109863281,
     272.6600036621094,
     267.25,
-    268.5199890136719
+    268.5199890136719,
+    266.1400146484375,
+    265.3800048828125
   ],
   "1y": [
-    139.44000244140625,
-    137.77999877929688,
     142.8300018310547,
     145.85000610351562,
     144.4499969482422,
@@ -411,29 +409,31 @@
     274.4800109863281,
     272.6600036621094,
     267.25,
-    268.5199890136719
+    268.5199890136719,
+    266.1400146484375,
+    265.3800048828125
   ],
-  "lastClose": 268.5199890136719,
-  "oneYearReturn": 92.5702698739596,
+  "lastClose": 265.3800048828125,
+  "oneYearReturn": 85.8013032841063,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "J.B. Hunt Transport Services, Inc. $JBHT Stake Increased by Bank of America Corp DE - MarketBeat",
+      "headline": "J.B. Hunt Transport Services (JBHT), Why Is It Drawing Fresh Attention Now? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUVR3V2NjZXAwTjViamREaGw5eFh5LUhWdmFzRzNuTE5pUUcxSUticUZtZDlUeHlPWl9xY0RmZ3F2YTU2NnZfN1BlMS13M3hwV05CTHJNV05HYU04LW83WGtLQzBLT0gtdE1WSXVpUDlaVnowN200RWZJbUJOdlNZUVo1SS00VU1SNnpFZ2RCazMzSVgwUjRN?oc=5"
+    },
+    {
+      "headline": "J.B. Hunt Transport Services Rings the Nasdaq Stock Market Opening Bell - Nasdaq",
+      "source": "Nasdaq",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcndzMVFtX2RCSlQxeVlWMTNSUWl0TmpnajVRdXJCcGhEVFViMERqbm52cXlhaVNZdWViU0t1STdLbHJneFBRU2d2NTJnOFduTTYzYTI5dVJqS2tvYTJoUmJVVDdIUkpseGFnZVR1NGdla0ZXUGtKUmhOMmdoYWZkaTVfNm53SFZPSmNDd2cyaHlidm9zSDFqVjIwUQ?oc=5"
+    },
+    {
+      "headline": "Empowered Funds LLC Sells 6,317 Shares of J.B. Hunt Transport Services, Inc. $JBHT - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONTdRemlnaFk4aDBnanNvc0hFa2luWXRhOTN2R0JQVTc4QU1yaGZsc2I3XzRUdGRoeHA1ZXpEZ0hEVWp6X3o2a0psTFAzVndPS1ZrUmQtRzU5ajJ6NTRJTEs0Mk5DZHM2VDJ6VlB2TzF4aUQ1WTdCb25xZ0gyMENDaHgwLVBNb24wVXY4Nm1WVE01UlMzbVZlQXRETTl5eXdEdTBrSFlPSW9GVVdaaWwyc0VoX2RyZGNTSVBWVzBaUEs2bnlWLUtDTUFST2J2aDdGUVNBZFp3?oc=5"
-    },
-    {
-      "headline": "J.B. Hunt Transport Services Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTThYQTc3MXhXVTRhT1gzWjAyNDJITjdfZFV0SFNVS1ZuWjc3aEFnMGFZTEFPUDM0a3BBWGdVaFlzTXlwdHZwbmZvaDNMNlFuTXMwZXFOZDZhQXRvbDlTWmV2QkZvbmVLQnFCbHlFYWhqUDNzZmx2SGRWT01rdWlTd2lOOHByT1drZ2h1VEhtbzlMRGd0MEVJRi1ZVk83Z0JwWjVfc3BiTzBQSDZRNXlRa0h4RTRldXQxbjFvcE1wRjAxX3FSTTRQcGN0Nk41TXNwdDd3d181bWNFRTRqOUdKUXc1MA?oc=5"
-    },
-    {
-      "headline": "How Q2 Earnings Beat And CNBC Spotlight At J.B. Hunt (JBHT) Has Changed Its Investment Story - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLWhfdUo3TEdQYzU3WjE3eGRobzd1d3VwLWtWNE84U2JuaVVQemM3dUxZbldsa2JKajJBZUFxb3ZCT0ZqVXlkR184WC1UdXRKUW11VWRSVFN1S3gzXzl1dEZsZkRoalVNVUU1b1RkRkNNTXZpQmt4S1F3a3N0R3JHclNMYXU1RTF0cURnc2dWWkxVZUNXR1RycUtSeHlpOHN3Umt5M2VwV29way00TG05VmRVNW9JRUxlYVNYS0VkcGNsZU5Bd1dJSlBoSkpYeVJUNUdQZ2N5UW50WVAwa0hTcy1aOW5WenZZaEHSAeoBQVVfeXFMUC1oX3VKN0xHUGM1N1oxN3hkaG83dXd1cC1rVjRPOFNibmlVUHpjN3VMWW5XbGtiSmoyQWVBcW92Qk9GalV5ZEdfOFgtVHV0SlFtdVVkUlRTdUt4M185dXRGbGZEaGpVTVVFNW9UZEZDTU12aUJreEtRd2tzdEdyR3JTTGF1NUUxdHFEZ3NnVlpMVWVDV0dUcnFLUnh5aThzd1JreTNlcFdvcGstNExtOVZkVTVvSUVMZWFTWEtFZHBjbGVOQXdXSUpQaEpKWHlSVDVHUGdjeVFudFlQMGtIU3MtWjluVnp2WWhB?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdDQ2bXJiSm9aa3o2TzEzd29XcDFNdUZvY3Z2Z3RVU0NyU0x0dEZKcUNfQ3RfNE9ZMjFySEZJUUlKLVZzMzNTZGphQ291Q1ZpMVl6UWV1TXNEb3lTQ3VFYk9YUHFBSW0xOWVUaDRONXdWdDZXdUNzUEdHQ3lLWTZIUko5WHFRYlpadzk4WG9vVm40alljQ3JuZjdTbEtnOWdRY0VZb0ZJR0c3eUNzOHdrcV9kTlNQazFFYmZVZ2hJNlhwbEV1MURELXp4VXhHZXZjby1n?oc=5"
     }
   ],
   "insight": "Tracking J.B. Hunt (JBHT)."

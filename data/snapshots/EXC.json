@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:16.908Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:28.418Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    46.380001068115234,
-    46.79999923706055,
     47.09000015258789,
     46.91999816894531,
     45.7400016784668,
@@ -24,11 +22,11 @@
     45.84000015258789,
     45.7599983215332,
     45.31999969482422,
-    45.61000061035156
+    45.61000061035156,
+    44.5,
+    44.869998931884766
   ],
   "6m": [
-    44.40999984741211,
-    44.779998779296875,
     43.90999984741211,
     44.0099983215332,
     43.43000030517578,
@@ -158,11 +156,11 @@
     45.84000015258789,
     45.7599983215332,
     45.31999969482422,
-    45.61000061035156
+    45.61000061035156,
+    44.5,
+    44.869998931884766
   ],
   "1y": [
-    45.31999969482422,
-    44.709999084472656,
     44.61000061035156,
     45.22999954223633,
     44.650001525878906,
@@ -411,12 +409,20 @@
     45.84000015258789,
     45.7599983215332,
     45.31999969482422,
-    45.61000061035156
+    45.61000061035156,
+    44.5,
+    44.869998931884766
   ],
-  "lastClose": 45.61000061035156,
-  "oneYearReturn": 0.6398961109447302,
+  "lastClose": 44.869998931884766,
+  "oneYearReturn": 0.5828251916070847,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Exelon Backs a Platform Connecting Residents to Energy-Saving Programs - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc1liSk9ITzVIbl9BTndiSXk1UkNPVmhqNkpISXdSQjhhTC12bmhGaHFhZUVsRzVOQlAxNDJzZGMyMnpiNUtSbkc0TU12MnU0QzNaQkpSNExjbHozbVZRWUNSZ1YwZzZTbzlyM3hVV0pwSTVjdk1oVnFUa0U1UXpWRllSX2VCOEwwOUJGbmh2MXd4LV9jMUpia1hIak1rQThUR0h3VnQyMnVsak1tajBaLUo0MlV3WUdjdkE?oc=5"
+    },
     {
       "headline": "Exelon (EXC) Could Be 8% Undervalued Following Second Quarter Earnings - simplywall.st",
       "source": "simplywall.st",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVhPYm5XOThUSlBYeERkTjY2cUt1cDktVm1IWXl0TVpOZy1DZmNuNUpITW5abUNMSDIzc1RMOTFyZmRvMUQ0MmF3QVE5bnlNWXA0UHp4a0tlNC1KM2I0N1NZa0dhX1dDY0V6YklfakE0bXdfbWVudmF4eGZUSXlBLXRlWFNITVdPbzFjQjFLeDdxUTNHTmROQmNabnZhWVdzTFZTdVVPeldBb3c1Y056X2ZpWkhLVDVkd01zTEpnT3FQNG_SAcgBQVVfeXFMTkg1S2Z2RmtGR1JxcUlFb082dXNCUjU5RVRPNUJMMlBCQ0h2ZHVicnVXcGxuQm9xUW1PY3A4bXB4eUVvTGdqU2psYUlfb3poZlF6OEVXZklNZFcwQmF2SjBET3pwY3ZmZ0xkczJMakFqVEZrellMWHBsUHpmb1lYVThXT21pMXV6MElzUkRNVm5NeEl4Q0F0REl3UzVIVXVIU2NrNDFBTVdDS2szNzZJdGw4SG1YNWFYODNUYUFLUDZtY1M5RUdkVEE?oc=5"
     },
     {
-      "headline": "Exelon (EXC) Stock May Be Undervalued Following Data Center Load Reset - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXBUbWNqdzltM3c2N2FlbDY2SzVvV0lBX01EeUxjMEl4UzZGbUxTb3BmV0tubFItZnpTdHl4RV9DLWJoVnVNSjJQVmlIaXI0WmEzcHhjWW11S0o3ZG5TX202Z2U3ejBEQUFWRTFuZnY3QldtUHIyYW5xeGdBSUVKZFNTRVlzcUIwRlNtNWUtUzVNNTBjakhqZ0RzdTlCZw?oc=5"
-    },
-    {
-      "headline": "Pacer Advisors Inc. Cuts Stock Position in Exelon Corporation $EXC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSllDUS1aNjNSN2dEU2prRFEtcVlyODhua1FHNm5DUjk1MC0waFotbHg2bGE2SXRBVEZhcmJZNzFxVE1sTWhnWGFXdVJCeFZZeTVYYS0wSXZvOWdST0c1NXJvQWx2SEotWWI3SVA5Z1pzT01iZTVPd0QtaFR5LVBOWUV5Ym1DdFRWZWMtNDE0Z0Z5TjdLY0x2V2d1d3R6MmdUNEJFY0N5RlN3M2FYV3ZVcnotdnZWX0JPUzRZN3dIeVpCblU?oc=5"
+      "headline": "Exelon Corp. stock underperforms Monday when compared to competitors - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZElXd2MwYkxDM0s2ajFUVUFPWDZpVWpob2pUaUhjNTd1Z2pzaUowbGhzaWtld29KR2NLcV9sbExxMDlhUDFUWUhETE5pZmpIeHliZllueTJhSklxNFFBbnpGekhmQ3FaRlZpeGNoLXJwM05IV0lGTWJ6VjNkLVlvZjlPUnh4T3pyTmpqUVRrbGtvWUNjWHl0RFlyOXlTd1dqWlk2UGlxRnFJblo0clFNTTZ3TzVhTFVNdUJTdm52ZXpUZW9ZVEE?oc=5"
     }
   ],
   "insight": "Tracking Exelon (EXC)."

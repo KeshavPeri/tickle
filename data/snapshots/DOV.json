@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:12.118Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:24.286Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    211.57000732421875,
-    215.3300018310547,
     214.27000427246094,
     214.14999389648438,
     212.25999450683594,
@@ -24,11 +22,11 @@
     209.92999267578125,
     210.39999389648438,
     210.83999633789062,
-    211.1300048828125
+    211.1300048828125,
+    210.10000610351562,
+    208.4499969482422
   ],
   "6m": [
-    202.52999877929688,
-    201.49000549316406,
     207.32000732421875,
     211.66000366210938,
     220.02000427246094,
@@ -158,11 +156,11 @@
     209.92999267578125,
     210.39999389648438,
     210.83999633789062,
-    211.1300048828125
+    211.1300048828125,
+    210.10000610351562,
+    208.4499969482422
   ],
   "1y": [
-    173.52000427246094,
-    175.2899932861328,
     177.99000549316406,
     182.8300018310547,
     179.39999389648438,
@@ -411,29 +409,31 @@
     209.92999267578125,
     210.39999389648438,
     210.83999633789062,
-    211.1300048828125
+    211.1300048828125,
+    210.10000610351562,
+    208.4499969482422
   ],
-  "lastClose": 211.1300048828125,
-  "oneYearReturn": 21.674734718941327,
+  "lastClose": 208.4499969482422,
+  "oneYearReturn": 17.113315644146088,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Assenagon Asset Management S.A. Purchases 130,433 Shares of Dover Corporation $DOV - MarketBeat",
+      "headline": "E. Ohman J or Asset Management AB Raises Stock Position in Dover Corporation $DOV - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObmctOGNzSWtDSy1GQ0RNYWtBdzNTTXRza2k2dGZNOGpaZHhlYkhXYkdXMnRVN1l3Y1BwUGhCd3pabzVlTWdQMUFXaVBnSzI0ME9uLThsWENCaGdOcllWTHc2RGZHRHNRY1gzNmJ0Y1BsUUM2RElzbS1xV2IzUjVzV25EUXZQVFFTTWRCWjMxWFRNVS1RWHliU2F1b2hlbXNyd24zWlVzbFZadWZncGF1WkZObjBJSzdoR2d6UnpmbDJMSUdIWkFTVTFoYUp5dmYwVzJ3c3V3?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMGw0cWZxMEJHRllnZEVHRzg2WHdMS1h3SmtoVENacXZYWkdhUlZxeDJTVm1nYXYtdkQ4cFlMUXFEbnNyQzZ0akJhZWc4THItZjc2bUVSa0V4VWN3b2xiWkQwWWFsMmdrcGx4cUkwVzhRLURldEVKMTdOMXpLanVPWUVITXBOYlViOGdqcWI3OHE1ZERob1hrNWZBV3lOSjZYOWtad3ZyM01iY2F3UGJSVkU0ZWNPQ3JwWlZuYXliMUhvTXppOWVIbFIweDc4elljWW80MlNVZw?oc=5"
     },
     {
-      "headline": "Dover Corporation (DOV) Stock Forecasts - Yahoo Finance",
+      "headline": "Dover Corporation (DOV) Surpasses Q2 Earnings Estimates - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3ZXRGprY2dEeWRRQXpVNWR0MWliUE5EbktxSXFwY092MmFteXhlNTBZaVQ2VWJvS2p1REZ5Mi1oTjNRS0pCR0JNOExKMDdnT3BSSkEzc2lOb3BPN0NJdGUzby00d3JOMWlXQnpqXzAtY0dTaWphZ1hld1FHRHJwOS1tZVd0OWpLQlRKNVlnUQ?oc=5"
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd3htZ21wWnlBQXI5YVRyMDBwY20wd3lSaE1aS0djRTQ2emE5a3UtRjQwQ1htbnYzcE5CY3ZaUEVraHpJeFlBRzZYaFZXTGRMVG5aZnd4cHY1Vm5CRGRqb1NBbUdfVjBSRHZ4VE9ZMmNac2xaYlJWZmtDRTFITmdLT09zaWYycDY2MW1YX2xJUktJc3N6MEwwb05SbWhpRzkw?oc=5"
     },
     {
-      "headline": "Dover Corporation: Worth A Second Look After Solid Q2 Report - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWno5RGstRGZxTENHczZzQm9icWxaeVlxRnk2RnUxcHNUaFdHQ21IcmxYVnBBMTBCTC11OXJMSVZHOGZyeFFXazdabWNSaUUyTDJOLUJCYzlJOUJKZFJKR1k2VUloT0xsQ1BUQkRhbWRJbk1uSUVWcGYtTTJvbGdxcGNDWUFaYlVlRnVxR1NFNXhqY0l4RWM2S2tndmdGSkdwMkE?oc=5"
+      "headline": "Buy 3 Stocks That Recently Announced Dividend Hikes Amid Volatility - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1hZWlBYUlhET29ibkVpSEtKdXdwRlZfY2J4NGlVQS1MY2VLa0poRVZWMmpmcjJJWHcyeWJfeTNHc0ZXMDY3bWtQS2J3cjN5ZnJEVGV4VERMYVJ5Nm44REZJd2lpcERaci1JZXZLUGJnNGM5OFg3ZEd2cW96YXY4azVESzNRQXZ2Q2l0Zm0yekJHSURaeGhDMEZrZEY1dk02eHhTU1dDaG9CSUI4ejZwT29Ub3ZCVUZZVldCeFFCN1Y?oc=5"
     }
   ],
   "insight": "Tracking Dover Corporation (DOV)."

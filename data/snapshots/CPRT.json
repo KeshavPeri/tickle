@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:07.634Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:20.444Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    28.329999923706055,
-    27.520000457763672,
     27.450000762939453,
     27.520000457763672,
     27.280000686645508,
@@ -24,11 +22,11 @@
     29.399999618530273,
     28.90999984741211,
     29.010000228881836,
-    29.65999984741211
+    29.65999984741211,
+    29.59000015258789,
+    29.399999618530273
   ],
   "6m": [
-    40.279998779296875,
-    40.58000183105469,
     39.68000030517578,
     38.939998626708984,
     40.15999984741211,
@@ -158,11 +156,11 @@
     29.399999618530273,
     28.90999984741211,
     29.010000228881836,
-    29.65999984741211
+    29.65999984741211,
+    29.59000015258789,
+    29.399999618530273
   ],
   "1y": [
-    46.189998626708984,
-    46.689998626708984,
     47.20000076293945,
     47.650001525878906,
     46.86000061035156,
@@ -411,29 +409,31 @@
     29.399999618530273,
     28.90999984741211,
     29.010000228881836,
-    29.65999984741211
+    29.65999984741211,
+    29.59000015258789,
+    29.399999618530273
   ],
-  "lastClose": 29.65999984741211,
-  "oneYearReturn": -35.78696529715534,
+  "lastClose": 29.399999618530273,
+  "oneYearReturn": -37.71186622180185,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Copart Stock: Analyst Estimates & Ratings - Yahoo Finance",
+      "headline": "Copart (CPRT) Stock Looks Undervalued With Shares Down 42% - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUk4dUs2dFRzd0IzSEMzYU1fcEh5YWF5Ykk4WmJrMjdhdEpja0dOWjdnYXlPZjI0SUlyYjdReUVHbmhTaE1GRlJnQV9JODA1TGtyUFVEX1ZSNWg5X1RPaDRsajJhVGFqMXF2UUpKcFlMM042cXlibklNOE9YdkF1V0R2TlVocWF0TFNYU0gzZm9iZThVY3BfUEFSSzdlaDgtdF9Ia1hR?oc=5"
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmRlYmw5V2wydzBMektDVkJfYWJIZjMtcjRGTmhrSUJlbkc4ejJaVUd4bndMYUhScmM1Zm90b2N1ZWpmZDRnQkJFMlFKUGU0c18xRFlQbVJQRnFaU1N6ejBLbE1LRzhnU1ZfYk5ySkNZdndqNUtKWHlDUGE0N3Rqbno2VThRdzJtVmZjdUhUallMMFU4WGN4SlBRQl95OGhXeXc?oc=5"
+    },
+    {
+      "headline": "Wrapped Copart Tokenized Stock (xStock) price today, wCPRTx to USD live price, marketcap and chart - CoinMarketCap",
+      "source": "CoinMarketCap",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOENTNlJqRzlDX3hRRk9na3d0YnV4MXRrbFFwV2oycGR2RjFYeEtLUTU5RlRxTW5Od2U1YU5sVG00QzJDZDU0MWxrODJuN3RMb1I3MWlEb0pnSHVCVTJ1X0JRVk4wSWMzWWxkaFhWMmtVcldDa0F3aHd4eHdkWGlEcA?oc=5"
     },
     {
       "headline": "Copart, Inc. $CPRT Shares Purchased by Seilern Investment Management Ltd - MarketBeat",
       "source": "MarketBeat",
       "when": "2026-08-09",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSUhadmc5TVFhaHBuWS1PUU1ZNUJGbFZiM0ZYckhtTk1obWVGdXNQRl9CeVc3NzhlNFpJTTVTRDFBa1ZGb0ZWMDNNY0Z3b2JzTThzY2otd2tVTndJaU9SaXhJQmttYm9EZ1BNaTlNS0REYkU1eElEZGFrMGtIUzBFbDkweUE4aDFPd3RsU2hma0ZPeWlxSUJYMkIyNk1lbUFzRVBnLW5wU3V1LXQ2b09xc3VRVGZkTG9LdVNuNVBCdXRDUEtWb01wS3pB?oc=5"
-    },
-    {
-      "headline": "Copart CEO Jeffrey Liaw Sells 27,745 Shares for $846,000 - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbkpFOTNsNFJkMjNrMjJvVFVfODFtOXlSZFlMV1B5V3ZSbHhtYjUxRW40R08wdkJ4Mm44ZE5lMzdGNFJfaXFKV0VIOWVKRF8zY2M1M1FjY2ZzYkVyYXc0ODMxZWF4RTZOcTJONmgzR0N3TTBfYjhSakttU21tZ3IzWUlDd3hlREgteWVxcHhIY2xYbXVXcXBBZl9ZeTBQejVNZnAwa3FB?oc=5"
     }
   ],
   "insight": "Tracking Copart (CPRT)."

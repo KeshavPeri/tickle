@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:17.946Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:29.369Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    60.529998779296875,
-    61.52000045776367,
     59.970001220703125,
     61.95000076293945,
     60.970001220703125,
@@ -24,11 +22,11 @@
     67.30000305175781,
     69.38999938964844,
     68.18000030517578,
-    69.62000274658203
+    69.62000274658203,
+    70.51000213623047,
+    68.87000274658203
   ],
   "6m": [
-    65.12999725341797,
-    60.22999954223633,
     60.7599983215332,
     64.66999816894531,
     61.86000061035156,
@@ -158,11 +156,11 @@
     67.30000305175781,
     69.38999938964844,
     68.18000030517578,
-    69.62000274658203
+    69.62000274658203,
+    70.51000213623047,
+    68.87000274658203
   ],
   "1y": [
-    41.869998931884766,
-    41.459999084472656,
     42.150001525878906,
     42.7400016784668,
     42.279998779296875,
@@ -411,17 +409,19 @@
     67.30000305175781,
     69.38999938964844,
     68.18000030517578,
-    69.62000274658203
+    69.62000274658203,
+    70.51000213623047,
+    68.87000274658203
   ],
-  "lastClose": 69.62000274658203,
-  "oneYearReturn": 66.27658113830314,
+  "lastClose": 68.87000274658203,
+  "oneYearReturn": 63.39264591555899,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Freeport McMoRan Stock And 2 Copper Picks Trading Below Fair Value - simplywall.st",
+      "headline": "Freeport McMoRan (FCX) Stock Climbs As Profit Strength Meets Volume Risks - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOakRueDhfS3RUSHBlT2RHNThWdDlxWmRqVk9uaklxdjBvU0NELTFKU2hlLTNYME5RSXZWRVFaNExKTmpFUWN4U1htRGZzRjdBN0duUlhOb1lkMGViTzZaQ0F5VTdpTU0tbTdHMzJJbjZvUksya01KUHZraTlENVZhR3c3RmwtN1ZpQlJBTFJVWXp4OEU1NWRTN0pKUzF5RjlNZ1JzVnBiQ0xBdUcxUllFZ1JId1VBZlFFN09TVnB5UGVxaTZicUE4Z0VGSGJKVzJmc3JN0gHTAUFVX3lxTE5qRG54OF9LdFRIcGVPZEc1OFZ0OXFaZGpWT25qSXF2MG9TQ0QtMUpTaGUtM1gwTlFJdlZFUVo0TEpOakVRY3hTWG1EZnNGN0E3R25SWE5vWWQwZWJPNlpDQXlVN2lNTS1tN0czMkluNm9SSzJrTUpQdmtpOUQ1VmFHdzdGbC03VmlCUkFMUlVZeng4RTU1ZFM3SkpTMXlGOU1nUnNWcGJDTEF1RzFSWUVnUkh3VUFmUUU3T1NWcHlQZXFpNmJxQThnRUZIYkpXMmZzck0?oc=5"
+      "when": "2026-08-08",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1RRd0I1M0h4YkRiTmQtaDVYbE5mY2tfbHNiSjFCLXM1QjVlNENkRE1sbnFqUWZkdkxmVzFqNXU4Y1VORFlacUgteG5jSDRxV0pKMHlmUDhJY1RmMkZPX2lnUjRxdmotU25hY0ptUVBDczhYZ0N3NjBQYjlEM1Q1V2RNYTZ0eEpLWk1sVi1vRUlUUGJaVm1hbGd5elhkM0Foa3BDV3h6UHZOSHplNDV0cExHYkZFb0RrWkJ3SGNrUTJsUjdMUmlSQ05LcVQ5Z9IB0wFBVV95cUxOWWk0am1pYnJIZ3dOVGZOQk5fM0xSSVpULXJyMFpiWENUVy1xY05Tb18xR1N5ZTdqMm8yX3NVX0ViTWx6M3lPTjFWWFA5MmtXa09nRWxoMDFMTXphZm1tUkRLbmI0NjJQZ29WU3RyMVVjeWxTMUxPMnV6aWRlRzlPOHB1d2ZHT3Zva2JfZmZlUHVsekVnUndQbm56ek1wTWxtREFFNVlzMkd5SjdoNy02MmlPaVlzbzRzcFJnRjFZTGVUSkFXQWdOOE5jZWNIYTlPa1dr?oc=5"
     },
     {
       "headline": "Freeport McMoRan (FCX) Stock May Look Reasonable Following Lower Copper Sales Outlook - Yahoo Finance",
@@ -430,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcHJyMGFfUWJ0TEk5LXJUbWkzc0xrMU1yNWY4dzRTMUVGVlFXbkRMeVlLLWVlZWpaWGdqTTJZaS1uY1BDWnFlaXYwT3Mzb0VBdnBQTGRmUEdsbWljOWNTamx1WkJXOVFsVjJkbW5HamdfX01yemc0Y1pjNFpqRWp1TTV5N2hTZm1TRnhRTXV0Ynl3bkZ2RVdaM3BMaw?oc=5"
     },
     {
-      "headline": "Freeport-McMoRan Inc. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbi1keHNIaEpvTHlYT0hISmFoUGxKOUdFaVNOaC1JUWVneS1BUTlXSWNReW9qY1J4MWdTb3lRXzZkRnVBXzctQjgwa0NGc0U1Y2YyU1R2YWN6eUM3ejFicHJTb1dWZU9QeXpGRV9DemN3MEFsXzlVWHlEMFBuWVMxb2FTUzlNVWtQN3gzRnZtSkJ3eHNmWkF4bGduN1hQSmJkUmJ1RmtYdlVhbXJEYnNTbk9oY3VwQ0YyUnphdC1UM3UxMjFJS21mbmxNcGUzVzNvWE02VmxRZzFDeHlCZS1hMWNtajFkZ19vX0d5dVZxVDI?oc=5"
+      "headline": "Freeport-McMoRan: Robust Q2, Grasberg Ramp-uP, And Copper Near All-Time Highs (NYSE:FCX) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblMwVl83NW4yWDljS1g5aEhtM2tRMjdyUW41X0pveW4zMTNGcnJKZEpLVG9YVkswcm9PUm5XWl9pam5Ua2lfU1hib2MxZUhpUUdXQ0g2aVBuWW9mbTdvVDVCZ0xGSV8xQ240dTZZNnpoUGRPY3A5ckVpOVlYWExmUGhzTlJJaEhHNHhTeTB5LVZVMk5ucU42WlJpSWh2eVZqN0dOdVNUUTVRMXZ3YlhwZFJNcks5UQ?oc=5"
     }
   ],
   "insight": "Tracking Freeport-McMoRan (FCX)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:43.700Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:52.785Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    30.1200008392334,
     30.43000030517578,
     30.239999771118164,
     30.549999237060547,
@@ -11,7 +10,6 @@
     31.010000228881836,
     30.510000228881836,
     30.299999237060547,
-    29.639999389648438,
     29.360000610351562,
     30.31999969482422,
     31.020000457763672,
@@ -24,10 +22,11 @@
     33.119998931884766,
     33.40999984741211,
     34.09000015258789,
-    34.560001373291016
+    34.560001373291016,
+    34.619998931884766,
+    35.290000915527344
   ],
   "6m": [
-    50.959999084472656,
     50.880001068115234,
     52.97999954223633,
     53.470001220703125,
@@ -145,7 +144,6 @@
     31.010000228881836,
     30.510000228881836,
     30.299999237060547,
-    29.639999389648438,
     29.360000610351562,
     30.31999969482422,
     31.020000457763672,
@@ -158,11 +156,11 @@
     33.119998931884766,
     33.40999984741211,
     34.09000015258789,
-    34.560001373291016
+    34.560001373291016,
+    34.619998931884766,
+    35.290000915527344
   ],
   "1y": [
-    59.2599983215332,
-    59.529998779296875,
     59.29999923706055,
     59.72999954223633,
     59.689998626708984,
@@ -398,7 +396,6 @@
     31.010000228881836,
     30.510000228881836,
     30.299999237060547,
-    29.639999389648438,
     29.360000610351562,
     30.31999969482422,
     31.020000457763672,
@@ -411,29 +408,31 @@
     33.119998931884766,
     33.40999984741211,
     34.09000015258789,
-    34.560001373291016
+    34.560001373291016,
+    34.619998931884766,
+    35.290000915527344
   ],
-  "lastClose": 34.560001373291016,
-  "oneYearReturn": -41.68072502166608,
+  "lastClose": 35.290000915527344,
+  "oneYearReturn": -40.48903647629011,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "TSCO Stock: Analysts Turn Cautious On Tractor Supply After Weak Q1 Print, But Retail Says ‘Oversold’ - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNzlJSVJOMzBhZW9YMHlrTnlROFJhMXZfa05TMVpRVC0wYkEzekN2eVN0NEloMF9RdjVpX25Cd0VPMl80ODhmVGJRQjdwNVd1VE5vbURxUUdSb1d0cS1jb2VmcmxWVXg5Q240WlQxdUw3V2lMRURzQUpUNDhsVWw2U011SWVtazd5MzJaVlhxdFNEWGEwV3EwTzAwM2xhUmR1RkRqQ2t5Y3pHaThla1J5M2MzQmowQjNwcGJ0OEJYdVJqUndlRE11WDlnQ1ZUZnphY19XSHV0bkVkZm93Zks5VDlxbWstdW9aWDFwZnR5Tmw4Zw?oc=5"
-    },
-    {
-      "headline": "Tractor Supply Company Reports Second Quarter 2026 Financial Results; Updates Fiscal Year 2026 Outlook - Tractor Supply",
+      "headline": "Tractor Supply Unleashes Another Animal Days Event to Celebrate Pets, Animals and All Those Who Care for Them - Tractor Supply",
       "source": "Tractor Supply",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQZVJCVDN3SThKY0phT0tlRUdPYkk3VWN2cm1JYnBSc1BEdE1XYVBJZEtFV1FmSjd3NXFJd0Jyc0ltQkp5b3YzOFE0bzdMaG1NNk5obWlsM0lCMV9PWUp2aU4yUDd4QXZVR1JrSXU0UTRTZm92VzBCaUEya2oyai1QNUpLNEV5aXEwUU9GODBOTWE1aFRzcnVkM21xY3otSWRteHFIVGhEbXRzRDZzTDVfRGU0UTRaMmxEMDBWa0E0dHVucWRPMVpzSkJQOWdHMmUyY3pIUUtnX2hlM1hJbndnOE1HZGJEWmNxWTJGcWIzdlhGVS1aX1RxQWlWWjhsd1BiVTduclotYUhXM3FJRVpWMDVEcmc2c3lxWENMWDR0ZGVBUDhCYzlB?oc=5"
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOX2RoZ0QwNTFJeGZFUGR3TTg3d0JfSHhTa3kzY1lkSXp3S0VKM25NTUh5SWlMUkxpUTliNzREc3lPS1RZRkZqc3NaTHExYUZYVks0Wjc4UEhxWkxNZjFxNjdwMDFKQjU3Y3kyY3Z2cFRVWGVlQWlFc3FFWl9RRlV1MUg3bC1JOUFGajY4bXV0amM2ZlMtektSaUZpOVVrRGozR1BFaHBjOE5rd3VTUlZ2MVd2Y0hHSWk0NE1kZlFVM3R2VE50SW9ZQklHUEVjLTFhY3hIb1lnZnQxWURfWE5sWlE5eE9CbHZvUU9oNk8yS2RhNUpMMUIydmdHdGFVeENWaE5tMUVKcUJJM2ZWMHhXbG11clo3Ui1RREZac1VSZzdZVTNYNk1CQzI1MEVpS3U1?oc=5"
     },
     {
-      "headline": "Tractor Supply (TSCO) Cuts Its 2026 Outlook, Is The Stock A Bargain? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0ZKR3BiN1VyVmN5SnJNcnYwUG5WMG1IaVhfMGxHcDRURF9pVVJrVjU2bXdpOUhrRGxxRFVkbDJWVWxMODlKQTdFbXN4VmNXY254TE9zRFJwLWtwZ05kazd6Y2wwVGprV0oybV9IazZSSFNlNjhXeURfbENwNGdzZ05oQVU1WHhCOXhVSVgzTUplYzRFX1FVQVFn?oc=5"
+      "headline": "Tractor Supply Co. stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTklhbVhFa1VZR0VXdFVBajZreFVPSXRacG54TUpBU21sNzVUX0NQZXRuY3V2NFZfSVFVYzBZVlJVS096dWxhMzAxM2pLaUJYcXh5M0F1N012SlhwV2FFSG45UmEyUG5QWF9mTjhQMUJvc1Q0TjVyaXpaeGxsOE5nVlhaOGdXM2V3cFN3eWtQd3hzLURsSUhxdkpQWEwtMk5GTDhZOTI4LVRSSkFaZU5pNWZGRHBGYXJtd2dKS0lkZUt0b2UyakNVOVVaVlRHOXpWSDRPVWhzOHBHQk5ZVkp3eQ?oc=5"
+    },
+    {
+      "headline": "Tractor Supply Retrenches; Strong Earnings Power Stocks to New Highs - WSJ",
+      "source": "WSJ",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLWY4VFFwbTF4ZHJGbFRYaXY4UUlTc0dMNHBFRVdGYW5fMHRpZEZuS29oaGdMVGFsU2FDLXdQQWFGalVIOGdKNHJuamJaZVhnZ1F2TGc3VE04LVVpdVlZM080LVZLSFNCNXlVcktUWFlkU0oyVVhvOS1LUnhSc0dvZW1QY0tNVFQtNmpuaUtneFlzNWlDNXpKelN0Tzd2MXFadmpXMmZWOHJyR0Rm?oc=5"
     }
   ],
   "insight": "Tracking Tractor Supply (TSCO)."

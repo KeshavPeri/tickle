@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:10.267Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:22.751Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    134.7899932861328,
-    134.67999267578125,
     132.66000366210938,
     134.1699981689453,
     134.86000061035156,
@@ -24,11 +22,11 @@
     142.92999267578125,
     147.3699951171875,
     144.0500030517578,
-    142.47000122070312
+    142.47000122070312,
+    141.5500030517578,
+    144.49000549316406
   ],
   "6m": [
-    133.8000030517578,
-    131.75999450683594,
     133.2899932861328,
     135.89999389648438,
     143.49000549316406,
@@ -158,11 +156,11 @@
     142.92999267578125,
     147.3699951171875,
     144.0500030517578,
-    142.47000122070312
+    142.47000122070312,
+    141.5500030517578,
+    144.49000549316406
   ],
   "1y": [
-    88.45606994628906,
-    87.74058532714844,
     90.28870391845703,
     92.87447357177734,
     92.41004180908203,
@@ -411,29 +409,31 @@
     142.92999267578125,
     147.3699951171875,
     144.0500030517578,
-    142.47000122070312
+    142.47000122070312,
+    141.5500030517578,
+    144.49000549316406
   ],
-  "lastClose": 142.47000122070312,
-  "oneYearReturn": 61.063001450563625,
+  "lastClose": 144.49000549316406,
+  "oneYearReturn": 60.031099376128125,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is DuPont De Nemours (DD) Cheap On Cash Flow Or Pricey On Earnings? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeFJiVHFRM3Z6OXI0ZzVUMEdldHY0OFJLQW5aVFdOVEhkTHNLbkM0OFJRMndBV0VpQjZSR0FHZlBocUg5a2YwTFB3LXNrTlFLX2NFaEw0alBqODkxMV80M1lmVmFmMm5mX3owX29Tdk54V3UxSjFZQjhxTHNpNnhWTGh3QnZ3R2VNc1h5dUZHdndQWjRiZ1A1QU1kbDROaGFveklKSXdPYWp5V09iSlhLaUwxY3l5MXNuVDFUS3o3cnFwdGhDVHRLOTVMbFJ0N09ZOWRQTVFZaFDSAdgBQVVfeXFMTXhSYlRxUTN2ejlyNGc1VDBHZXR2NDhSS0FuWlRXTlRIZExzS25DNDhSUTJ3QVdFaUI2UkdBR2ZQaHFIOWtmMExQdy1za05RS19jRWhMNGpQajg5MTFfNDNZZlZhZjJuZl96MF9vU3ZOeFd1MUoxWUI4cUxzaTZ4Vkxod0J2d0dlTXNYeXVGR3Z3UFo0YmdQNUFNZGw0Tmhhb3pJSkl3T2FqeVdPYkpYS2lMMWN5eTFzblQxVEt6N3JxcHRoQ1R0Szk1TGxSdDdPWTlkUE1RWWhQ?oc=5"
+    },
+    {
+      "headline": "Fund Update: 5,946 DUPONT DE NEMOURS (DD) shares added to Glenview Trust Co portfolio - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOERUWXZieUdRX3VVZ2toVHBPWVpNX3c2U3o1SWNNU2QyMmFwbXJoUVRCbEJEMVREeWRDdTVabmdTVGx1alZCUGNFaDJlV0hfVEFFaFQ4cnpNSVlHNVU2Z2VhdDltYzBQTkhkS1FKMFExQU9xTVlGQ3JNbDVIZi1YeVlKbjZFZE1nNzdESy00TkpNYm1zQkg1STJ2X3dZSVZuWDVlYTQ0NWxXUTBfeUZFanVQTU1ZenFPVDlRM1h2dlVva082?oc=5"
+    },
     {
       "headline": "DuPont (DD) Stock May Be Fully Priced On Its 62% Run - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-05",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUlEV3VfSGVCalBPMm0tZk5Mb0xmYkRqWkQ2WGJBZjJLUWxWUFJjOGRubUVINWhlZXhCOG1NZ1ZQbkxnLWFDQmZfUHRxeDh6OGlkMjVCSngxN3RpMDlKM2dRSjBfNVFGUENWdFN3S1hPSkUyYmtiSEhpUWhSR2kwYUlkRVNSYmRlZFRiRU1uOGZabmc3?oc=5"
-    },
-    {
-      "headline": "DuPont Earnings Were Strong. The Stock Is Down. - Barron's",
-      "source": "Barron's",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JLXUwX0cySjNpOVNlQm4zNExkZU5fWnpyWWV4bmRHQTBHZ2pvVmJiTmF0LVN0Z2o0cHdEeFBja1pySzNUVjVldmpPM2dOb1JfWFpYczhsYWgwZEk4UWg1Z003SXhCRGVSNEtQb3RJb1pJeWdEc3NNUg?oc=5"
-    },
-    {
-      "headline": "DuPont De Nemours (DD) Reported Q2 Results And Buybacks, Is The Stock Fully Priced? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ1Z0TGE2WFpfR1Ric0MzTjl0b1V1QWllOWpxSllISDF2bXN2NjJwZWs1MlV6RFpKMUtqOU5FQzRJbWR4a2pkZmQxSUxSUm0xUU14NmlsaU5HVVNjdmJhLUt4eVNwUG9IbUJGWXNpdDhYNFBmNVZWTzA0LVF6ZmxrLTI0WFFtUEZsdkFEQmxHZXc3NDFsdEdIU1lFNmt3SFJaM21HX0pleDBnNDRKbnZSZkswLW5NYzJjcko4V1QyOVhlS0tOZXYzWWprMm9vbXF6MGdF0gHYAUFVX3lxTE5FbUlmQUdfRzlGQ1J5eWxRUWd3ZUJETGdKSHV5djhlTng5dnZpN01fUUhBN09aQmw5QldiRy0wNFNCUUE3S3RrMjJMSUxRejd1LVJ0UmxmTUdCNWdOdVZ2NTFBc0phNjc5Nm1wNlB0RUVyZllnRDZpay1ERlFic1pySW91LXV3cDk0MThLVC1TS3lrTU1rbmJUbnFaVEZkM1NzQ2JVcVhkbkJzX01XRjlTZVFsWVRJQmNHSDgzVVlab2ZfV3lRbzc1Tkh6Q1NCWDNRa1hCaUUySA?oc=5"
     }
   ],
   "insight": "Tracking DuPont (DD)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:14.983Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:26.847Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    87.29000091552734,
-    83.88999938964844,
     86.37999725341797,
     84.5,
     85.93000030517578,
@@ -24,11 +22,11 @@
     112.05999755859375,
     109.87000274658203,
     93.06999969482422,
-    97.43000030517578
+    97.43000030517578,
+    97.37000274658203,
+    99.9000015258789
   ],
   "6m": [
-    208.9199981689453,
-    208.60000610351562,
     210.4199981689453,
     183.3300018310547,
     184.77999877929688,
@@ -158,11 +156,11 @@
     112.05999755859375,
     109.87000274658203,
     93.06999969482422,
-    97.43000030517578
+    97.43000030517578,
+    97.37000274658203,
+    99.9000015258789
   ],
   "1y": [
-    158,
-    151.8000030517578,
     152.92999267578125,
     160.8000030517578,
     159.3000030517578,
@@ -411,12 +409,20 @@
     112.05999755859375,
     109.87000274658203,
     93.06999969482422,
-    97.43000030517578
+    97.43000030517578,
+    97.37000274658203,
+    99.9000015258789
   ],
-  "lastClose": 97.43000030517578,
-  "oneYearReturn": -38.33544284482546,
+  "lastClose": 99.9000015258789,
+  "oneYearReturn": -34.67599142722017,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "EPAM Systems Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRk9KaEZiQVJtY281U2dTbWJxNG11eFNkRFF4cmEzM0RWelo2QnNXZE9zRDdsdjQ0X25jZTJLZUx6cHVyQmtqRW93QnFuWDB0dVRKWlI1S3hLSTh6TzZ3ZUpaRjV0ZmxoRy1oYVFXTHN3bzVRMmtNOEQ0X3phWndnVWp4X3BnRGxWWHpyOE9ScnByTTZwZDl5TkNNNVQ3XzhSeUxNbGZDR3VvcXZ3WkUzMmlkSXlOMGRXUU05ZWcyZE15OWZ4Um1mMjNPQUVQSTEyQXctTHkwSTJXX1NVa0Rr?oc=5"
+    },
     {
       "headline": "EPAM Systems (EPAM) Stock Fair Value Moves Lower After Cautious Analyst Target Cuts - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZTdLMncycGpxMkhxbllLNlhDUGZwY2kxS09hVGRKVFR1NVIteGVBa3Y5bnhjaC00aU83VVlhWElGU0pqYk9oTXJ5QWVocUtldDZxeVNpWE1QeXpQTjZ1Qlp4Q3JhRGRDdGpEQWRiRUkwUS1LMGNZWmFNNmxIQU5WTEN3d21rVDRIUjNVQlN4OW1ROXI1c0ZvMg?oc=5"
     },
     {
-      "headline": "Bank of America Corp DE Acquires 85,480 Shares of EPAM Systems, Inc. $EPAM - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE9vYVNJdHFFa19yeHhnT3VxdDJHM1JTMVdSaTY5TDkxNzl5Tzh0OWZ3RmNBaXFObnNOVTYyYmxpQnQ5T0ZnckpkVG1oOEdrc2NwdFNkYXNCMmFoUExtT3BOYU9kZjQwYjdMUXJSbDdWRUJHUUdZWTRJZzZ6OFpxbVdFeVUyaHZVMHdjS3ZLWmtZWEUzV0dTS0FtaE1ZdXdCaG9DQ205cHlCc09kb2RXM1hSdE5BSTF2LU8wd09HMGlOaXhYUGZoWnNrdw?oc=5"
-    },
-    {
-      "headline": "EPAM (EPAM) Stock Climbs On Margin Recovery As Growth Questions Linger - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTGpPdkxZUGZGSTV1aURsOTYwWkwwVWJlWXlWb210bWQzclBNS05UdHBSa1FPS2g0Q0RjZl9HVHRkbWlQMGdGLVhZWHBLRzRpQW04UzZ6SG1kNmlsU0NSNGJjZ1BNNkpaY0NXLUxkTE9ZT1pxX1lXME5LbEhYWW9RWFowMUlfLWhoOFl4UGFGbG5KdEVYc1huLUlvYjdSUmJGNUlIdVEwTE44VXBrMHZ3MXhWaVdMcjdvTnhTRTJYeWZpUE9DQmczbWpzMFFUZ9IBzgFBVV95cUxNTGpPdkxZUGZGSTV1aURsOTYwWkwwVWJlWXlWb210bWQzclBNS05UdHBSa1FPS2g0Q0RjZl9HVHRkbWlQMGdGLVhZWHBLRzRpQW04UzZ6SG1kNmlsU0NSNGJjZ1BNNkpaY0NXLUxkTE9ZT1pxX1lXME5LbEhYWW9RWFowMUlfLWhoOFl4UGFGbG5KdEVYc1huLUlvYjdSUmJGNUlIdVEwTE44VXBrMHZ3MXhWaVdMcjdvTnhTRTJYeWZpUE9DQmczbWpzMFFUZw?oc=5"
+      "headline": "Guggenheim cuts EPAM Systems stock price target on revenue outlook - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQndnYk1ra1AtdGlTNWVqdlA4QVZBNGtJa1RLUDVuNDVsNjRZS2V5TEIzUWRxQjhRTmpDaW1BZVZ2dENkV2p4ZGtlV0tBTEM3ZVlqNkFDSW1tWjhfVGtGcjgzcGFlUVZlV1RPUUdaTFJsaHl5QmFINnlsdmcwZy1XU01FVnF5LWthR1dxRm9zdGVPRWFHLUs3U2UtZ1Jpb0NqZ20wVG8yYWdhd2RxcXRrZ0l0XzFiazJqbGJnMWRVZWs3TFll?oc=5"
     }
   ],
   "insight": "Tracking EPAM Systems (EPAM)."

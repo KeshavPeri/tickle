@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-08-10T03:27:42.704Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:51.780Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
     132.27000427246094,
@@ -11,8 +11,6 @@
     140.2100067138672,
     139.60000610351562,
     139.58999633789062,
-    138.47999572753906,
-    137.9199981689453,
     134.47999572753906,
     136.77999877929688,
     140.33999633789062,
@@ -24,7 +22,9 @@
     148.11000061035156,
     147.6999969482422,
     147.0800018310547,
-    149.6999969482422
+    149.6999969482422,
+    152.02000427246094,
+    152.2899932861328
   ],
   "6m": [
     102.83999633789062,
@@ -145,8 +145,6 @@
     140.2100067138672,
     139.60000610351562,
     139.58999633789062,
-    138.47999572753906,
-    137.9199981689453,
     134.47999572753906,
     136.77999877929688,
     140.33999633789062,
@@ -158,11 +156,11 @@
     148.11000061035156,
     147.6999969482422,
     147.0800018310547,
-    149.6999969482422
+    149.6999969482422,
+    152.02000427246094,
+    152.2899932861328
   ],
   "1y": [
-    105.4000015258789,
-    104.01000213623047,
     106.26000213623047,
     105.36000061035156,
     104.25,
@@ -398,8 +396,6 @@
     140.2100067138672,
     139.60000610351562,
     139.58999633789062,
-    138.47999572753906,
-    137.9199981689453,
     134.47999572753906,
     136.77999877929688,
     140.33999633789062,
@@ -411,29 +407,31 @@
     148.11000061035156,
     147.6999969482422,
     147.0800018310547,
-    149.6999969482422
+    149.6999969482422,
+    152.02000427246094,
+    152.2899932861328
   ],
-  "lastClose": 149.6999969482422,
-  "oneYearReturn": 42.03035557972576,
+  "lastClose": 152.2899932861328,
+  "oneYearReturn": 43.318266727389734,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Target Corporation Increases Quarterly Dividend by 1.8 Percent - Target Corporation",
-      "source": "Target Corporation",
+      "headline": "Target stock rises 50% YTD amid mixed analyst r... - pluang.com",
+      "source": "pluang.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSFVoZHpGbzlXbG1RR0VNbHIzamJZMnB5SGZ5VkNtdmlKZVRpT1JYdXNOUGtVOGRiR0owbXlpSVltTERibFh4ZXAwZUpXNXB0Z2w4cmJiM25lT2pxNWpNWjEyWm51cUlKbUs5QTdVTzZHSnlMcW5QXzNhSHJtdFZLcU91YkJjMURuSXVQSA?oc=5"
+    },
+    {
+      "headline": "Target Corporation Increases Quarterly Dividend by 1.8 Percent - corporate.target.com",
+      "source": "corporate.target.com",
       "when": "2026-06-11",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaXVyZXdycllIcnI1cmZydU53OFlfd29aQ1RpcXNaZG1MWWNReWhsNWhFVE4zTEhlSnVvX1IzSlllTndlcFU3UExhOXFNZ3gyNTI4aTMyYzc4NXVvZ2E3RS1UdWQ4Ykx3LV94SmthNkpDNkNQeTRHNUc4eHpRcUtXR3dpUXlQalF4cktIMG5hS1JwM0ZKYTVoRnFVbmJaLU9Ib2dUZTNCbzFZdUJEa3FlZVRmbw?oc=5"
     },
     {
-      "headline": "PensionDanmark Pensionsforsikringsaktieselskab Has $7.46 Million Stake in Target Corporation $TGT - MarketBeat",
+      "headline": "Target Corporation (NYSE:TGT) Given Consensus Recommendation of \"Hold\" by Brokerages - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNEMzanZrV1V1bGNqS2kwNFg3MlVNazZKMGZqZnZtd0NEdzZZMzIyaUtwa1pCNzAwWThEVmNoeU1kdzR1aTV2TjQ1OUxlVm1IaDVTTWd3cGRfXzNabjk5VWN3Q2owOVN3dk5YTGJVbTJzQ1RBWTRxS0ZseVpPMnBJdHdTTUE1eFV6YUhYWURrWVUwODVZR3A5aHFiQS1kcGd0Y285OFFGM2NPb3lzeTVNTmF0dGpVVVZUTEdLMUtFNDdESXd1YWNhRHRPd2FRbnhQRjkzeUtOeW5tSWJpaHY0akpjQ3lEbGdkNDhz?oc=5"
-    },
-    {
-      "headline": "It Might Not Be A Great Idea To Buy Target Corporation (NYSE:TGT) For Its Next Dividend - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM0w0Ty1HSkt6MW5xRkYxYWRDUVpQdUpZRmRzWmRHbVRaMmEwWlZoRFplQmxhQjJDWEtwbVBWQWhaSm5KZmJvVEhNYnRjMUZwN2o1dVdmSXVJX1cyR1Z3aVFhd0JYM2dyYzl5X1hOa2kwdGU0TkVhanQzS01aai1JZC0xRUVaS251dUdYcmV5N2FnR0hjMkFZLW0wWEJuU0NCVHk0dlpiMTB5cnJFeVQxUmFuSTJGdGMzak9IQUNwWHpNRVMtbXc1bHRhOGbSAdIBQVVfeXFMTm9ETzJZRTIyNjd4dXQ1RFduZjZyT2RIU0FFSUs3ZDYwcmJuUjdPSjlCMG9pOWktX0RHN1dSemFSaXRNN2Q2OGxMazVWVG5mT04yWHBLQ0JLR3ZMN3ZpQk1BS251bTNiNjZZNTVYTU5IU2NTVEJab25PbTd2TVRsZWxkNVVrQ1RIUUVlQWhFU19ReWNYY3Y4dXJjRUdXUlN0QWdoUTNRd1JlOG1PVUdCRzJSakpRLVRrWlpETjZyb1lGN1pxUUUwSTkyYjhIU0VIbDV3?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRUx3VGVrLVJmcmo4dnNsVklSWWp0a0JvdEtWNE5RRHNEaVMtNjY5LVJfckdNcm1QMjBwVVdxN0M2eklJemFTYzJKd0p6UnpvWnVOb2k3RTBVdm14OVQ1ZmhiS19fNDRFaGhXbkRlQlVwQzBIcW1jWDJFSEYxdk1uYnB0cGhLOTJPNXQtWXdvVld2QkhCXzBaVlcwaTA1MUN0SEZ3QjUwWmI1Q2pPR190R1BGbWhSaWQxd3FQcUNrdVVEUnh0VEJ4NWRKaTJBQQ?oc=5"
     }
   ],
   "insight": "Tracking Target Corporation (TGT)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:26:56.915Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:10.414Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    247.0399932861328,
-    245.33999633789062,
     247.30999755859375,
     247.49000549316406,
     254.9600067138672,
@@ -24,11 +22,11 @@
     277.4200134277344,
     272.6499938964844,
     272.260009765625,
-    274.4800109863281
+    274.4800109863281,
+    278.0899963378906,
+    272.2699890136719
   ],
   "6m": [
-    241.72999572753906,
-    239.3000030517578,
     242.9600067138672,
     238.6199951171875,
     232.99000549316406,
@@ -158,11 +156,11 @@
     277.4200134277344,
     272.6499938964844,
     272.260009765625,
-    274.4800109863281
+    274.4800109863281,
+    278.0899963378906,
+    272.2699890136719
   ],
   "1y": [
-    222.69000244140625,
-    221.3000030517578,
     221.47000122070312,
     224.55999755859375,
     230.97999572753906,
@@ -411,29 +409,31 @@
     277.4200134277344,
     272.6499938964844,
     272.260009765625,
-    274.4800109863281
+    274.4800109863281,
+    278.0899963378906,
+    272.2699890136719
   ],
-  "lastClose": 274.4800109863281,
-  "oneYearReturn": 23.25654855500249,
+  "lastClose": 272.2699890136719,
+  "oneYearReturn": 22.93763828643531,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Jeff Bezos' Amazon Stock Surged 14% After a Blowout Earnings Beat, Adding $25 Billion to His Fortune. Is the Stock Still a Buy After the Rally? - Yahoo Finance",
+      "headline": "Amazon, IBD Stock Of The Day, Rides Cloud Momentum To $3 Trillion Milestone - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0tHVVp0aUlFVnc1WFNFaFZzM0xsR0RvSVlWcjM5OGtaZUpIMktRSmkxX0RvVGtqckZDUlFWbkpmUU9fNWFDMHlyc2NyanotUkU2VnREbEpxd2d5QzR3OGNKSGY4UzJQczNoMzczOWlWd0lxMUhFS21xM01sMlA0X0RBd1F4WGVhaDVGZGM5NmZ2b2NxVjhqNVJfcw?oc=5"
+    },
+    {
+      "headline": "Amazon Stock And The Profit Signal Everyone Is Chasing - Trefis",
+      "source": "Trefis",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTI1cDl3SUlZNjJUQ1ZORmphbGxLYXRsRVdrSFQ5SXhkSUNnSTJxdDRqVWs3TnFaTGZnSlI5RkRycGExaUlTd2dyX0F6emJ5dXNTbmZvcHdCUDBSNXZURlllN055LUM3dmxJSGZ6Nk5PVmprcloyd1hpYklXTjRfOUh3SVBpVGtSQ29zb1YxN0RnUlM0YlpLOXM2WDYxNXJxY19vN1JOcXJPd1FzNW1rUVl3UWlYdw?oc=5"
+    },
+    {
+      "headline": "Amazon Stock Hits a New All-Time High: Is It Still a Buy? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTi1BWFNHN09xS1hDa0tRM09JeWo4WHV1aGRKT2tRM2NxSmVaTEZ1RS0ta0VrNWJEcTRIWEtTVUJFWG1nNjYyRnpqQUNwVlpQejQyWFFPdWU2TWRLQ3VyaElZMi1mdWVlX09lb2NVVi04RExZQ0VIdmpHZ01kanhrMEhXenhpMFoxV2l0Y2VQbWozYWN2Nmd2WHo1Yw?oc=5"
-    },
-    {
-      "headline": "After Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelJiZkYwQjU0RnY4VVNiQUVrdWo2dGZRbUZudUcxbGs1N1BDUHVIcGRGakMxd2FyM1lYM0J4d3dra0IzbUZKZ0JHcVB1SEZzYkNPMHA2bWJuZ3kwakRmV1VOZ2JYa0NOQ3ljMUI5U2lFZmx4RFlVcTJmTVNDYjViUmh1TERBa3cySEIzc01IRFBDSU5sOGlzd1ZB?oc=5"
-    },
-    {
-      "headline": "Amazon's Stock Just Soared 15%. Here's Why Now Is Just the Beginning. - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNm55WDRWWUdyczJUcmNBNWlXUXZLd1hMMWdPd2wzZVhNNmg2Y01hcWNWZC1FMmZfQjIxcGlUaXVtM3JPRFZCRkZlcEZ6X3RNTVMxRl9rLVdXTUY3Ym8xSEs0blozdTFqLWdvcFE0eExfQXdINmZ2VlVFWUpMQmdEZkhLazM5MTRtTnZtbHhBc1pjSGNNS24zTw?oc=5"
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa1p4cDNGeTYxcGJZX1pkMnFpY2Q0dmtkcWR2VWl0YWJsUzREUUVabkk2bm5RR2FtRmlSbUhoQXBxZmRla09HdlhLNFZQWjJkdVRnMkwzUGpkS3ljWVZQdFcyaGtZRlpJMW5rY3lMZFllWlhsSzkzQ3VoREZiaV8ydktxRW9aUEN6YVp0V00ydXotVnZ6bm5F?oc=5"
     }
   ],
   "insight": "Tracking Amazon (AMZN)."

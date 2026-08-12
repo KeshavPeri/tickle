@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-08-10T03:27:31.895Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:42.420Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
     91.1500015258789,
@@ -11,8 +11,6 @@
     93.69999694824219,
     94,
     92.98999786376953,
-    93.37000274658203,
-    93.2699966430664,
     92.54000091552734,
     94.83000183105469,
     95.19000244140625,
@@ -24,7 +22,9 @@
     96.12999725341797,
     96.26000213623047,
     99.94999694824219,
-    97.7699966430664
+    97.7699966430664,
+    97.02999877929688,
+    96.80000305175781
   ],
   "6m": [
     78.2300033569336,
@@ -145,8 +145,6 @@
     93.69999694824219,
     94,
     92.98999786376953,
-    93.37000274658203,
-    93.2699966430664,
     92.54000091552734,
     94.83000183105469,
     95.19000244140625,
@@ -158,11 +156,11 @@
     96.12999725341797,
     96.26000213623047,
     99.94999694824219,
-    97.7699966430664
+    97.7699966430664,
+    97.02999877929688,
+    96.80000305175781
   ],
   "1y": [
-    76.2699966430664,
-    75.30000305175781,
     76.55999755859375,
     77.36000061035156,
     77.91999816894531,
@@ -398,8 +396,6 @@
     93.69999694824219,
     94,
     92.98999786376953,
-    93.37000274658203,
-    93.2699966430664,
     92.54000091552734,
     94.83000183105469,
     95.19000244140625,
@@ -411,29 +407,31 @@
     96.12999725341797,
     96.26000213623047,
     99.94999694824219,
-    97.7699966430664
+    97.7699966430664,
+    97.02999877929688,
+    96.80000305175781
   ],
-  "lastClose": 97.7699966430664,
-  "oneYearReturn": 28.189328630257037,
+  "lastClose": 96.80000305175781,
+  "oneYearReturn": 26.436789627211986,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "MetLife, Inc. (MET) stock price, news, quote and history - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50c05LV1BuXzNBXzBoZ3lXMDVERzZENndhSldyQ2toOVVsQnoxOV9UbWlBSmZYWGd0ZGN5eFVTVm43NFRfMFhQYjF5R3lSNlJp?oc=5"
+      "headline": "MetLife (NYSE:MET) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWE5lVTA2djhOZjBCVVdJTE5wQWNyenRQSFFiZGRCX3M2eDFQOERPQjY3UWNrc1NobFpQWVViSzR0UVhUUEtXUFBPbEFDR3hMZE1aeVlpSnczUWF0WTdyU3VCMGdxSVlfNWRjNWpFRzF0VHRsVXdycUJfVDFkUE43c2tqOWI3UXVzcHpOeTZadmNJaDhIcVVaUUt5MGRyVU9kTVROdHpUZkNmbWwtcEVrellkQ1ltTlJQWDBwUzItM0NXbEpQUkV2OQ?oc=5"
+    },
+    {
+      "headline": "MetLife’s Charlie trains to become a service dog for a veteran or first responder - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQUNieWp2Y1UwRGtadTRyN3lRVkpxaFY3V3RDeXlaMko1dVhOSm43WDB5R1Npb2lqUi1RQXo1SnlkRlRieXpwSXBDMGV6RGFoMlRGdmJGZzRscVlETEZqdmVEeWVDOU9rRElPMEhCYml6V3lCTm1rWDNFU2dLVjdyR2YxSF9tWU51aEtHdVBsZ2cxTTdUTnlNcnFpX0JMTWhlX2x6X0JhRVEwZ2Vpd0ExeEpmNkh0eDI2aVE?oc=5"
     },
     {
       "headline": "MetLife Stock: Analyst Estimates & Ratings - Barchart.com",
       "source": "Barchart.com",
       "when": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ3c4MHJjTFJmVUtUdUE5TFNrZU9FVmFOS1d1ZW9VVkFLQWtlLW1OcWdscHpfY09FTTBtNWVCSzVIM1Z3NTNyOTlRQmtQMTd4cE9tdXdjdi1vSlBpX2ZOLUVzQzVKWDVVbjk5MzhkOUw4VmJ0MTBWNVVVX3VfR0dSWEZVcEdJUU5WZXhB?oc=5"
-    },
-    {
-      "headline": "MetLife’s New US$3 Billion Buyback Could Be A Game Changer For MetLife (MET) - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkI3Y0RRU1VkRXJuS0hSZ1UtTVhuUVRIR25NVDBBcU4zcmVKQkQxcDZ1UVNPLU1NWmlUX19GM185bTVnejFoUDdTVDc1eWdJRkFnNXBZVzl6U2VERldKcW1sN01Kckx3bEVwSENSaWRVLVVYMkVxZGdYZVBHdXUyYlpvXy1HcGttOGFWMk9hU0ZrLVVfU1pNQjB3MWt5Z3dJSk51ZHpVeXdmVVR5ZUYzV0lQb3Q5ZTktZnJub3RrQmd4Z9IBxwFBVV95cUxOek5fenoyNEVMcGVLTkV3Skc2V2M0elZMbWtTVFowQmk3aXNjSHREVEVSX1dvWm1hSGVPWE1vOXNMRTAzV1hHQ2g0S1BqWVVPeTVNZEh2TkhRdmZlUVVxLTJuNTlQT254UGJqdUh5UUhXWm5WQ2Iwc3NId1RqdjRUTFFsNFNoNWVraF91QlNhUXM4ekJMSWdBWkMzajRnQzg0V2hKdEsyM2RpMVJWZ0FzX1Y2YjBpSFliTWVjemlCRmh2UVVQSzBR?oc=5"
     }
   ],
   "insight": "Tracking MetLife (MET)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:43.048Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:52.173Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    139.92999267578125,
-    140.72999572753906,
     136.1300048828125,
     135.36000061035156,
     140.25999450683594,
@@ -24,11 +22,11 @@
     155.97000122070312,
     159.16000366210938,
     162,
-    162.36000061035156
+    162.36000061035156,
+    164.77999877929688,
+    160.5399932861328
   ],
   "6m": [
-    127.33000183105469,
-    126.91000366210938,
     129.6699981689453,
     127.02999877929688,
     129.9199981689453,
@@ -158,11 +156,11 @@
     155.97000122070312,
     159.16000366210938,
     162,
-    162.36000061035156
+    162.36000061035156,
+    164.77999877929688,
+    160.5399932861328
   ],
   "1y": [
-    109.08999633789062,
-    107.95999908447266,
     110.86000061035156,
     113.52999877929688,
     95.69000244140625,
@@ -411,18 +409,14 @@
     155.97000122070312,
     159.16000366210938,
     162,
-    162.36000061035156
+    162.36000061035156,
+    164.77999877929688,
+    160.5399932861328
   ],
-  "lastClose": 162.36000061035156,
-  "oneYearReturn": 48.83124581603682,
+  "lastClose": 160.5399932861328,
+  "oneYearReturn": 44.813271154846426,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Tapestry Inc stock hits all-time high of 162.0 USD - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaTF5bGlFRWJEeGtLS0l1dzJRa3dnOVQtRWhlMkFndWNsLUItOTI1Zmc5ZU9McnZwR1BOcDM1bzhCc2dEbUU5TUZhdC1WY0IxQUZIbmIwaUtnenRpWS1zdDBBRk0wZ2V0SVJ0Ykl6dERrcXFDdnN2YkNOWGRMOHgtakl1bU9MWW5MT2FDdU5hU0VzQUtSTGFrNW9EVE1rSDlrOG9CQjg2RnI?oc=5"
-    },
     {
       "headline": "Are Wall Street Analysts Bullish on Tapestry Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZjZpV2tLMjFpbnVYQTFYdXo3Vmc5REprUUJJQ2tXSl9WT2ZPb3AyUzN1dWJ4RGR3MmFqem9CSHFpYmNqTF9Ja3VWN0JaUXRiNHZxNm1zWUY5NkNRZGdjeTNFdUtvWVVRaGxRUlozaEFXMUo2VXFNWlM3SWlOMnNhUndDbk9wTzhWRG16YUtEV1J2SGVoUjdnLXRRVk1ud2dxLVN0MA?oc=5"
     },
     {
-      "headline": "Tapestry Inc. stock outperforms market on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNmx4VlRRREJ6OVpMWmFla0hQMjhCNWhTcXZSMXF4Tk0ybE54SVhBbFl0aFd5bUlJSzhtcUFmXzIwYTFGUHBJWndBdl9VSG5FWVp5WE9aSElPTl9Uc2VSOERhdkdLeDlJS2swaDdtR0VQbE0xcDItalJMbml0QWttQTM5U3VSbFNWa0NYSTNQcnlnVUZhd09tZGdQVUdwNzRCZmlGRTZBbGhmcUlDZ1ktbzIyUVNIZzFxY3ZN?oc=5"
+      "headline": "How To Earn $500 A Month From Tapestry Stock Ahead Of Q4 Earnings - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUNrRFhUQTdrUXIzbW9XWW5ZRlh2YURBMlRhaFlCUXZWZFprOTJBbXBUdkdpa1FhQW1jUWpJY2lFaGRicHNEV25pWEJvemc0Wnl6blhjOVFfU0xUc3ZDV0hmVkgxek1uR2xtVlY3NG5MTElxeEJCRW0tbDlrNGdGSndWU1EtcUhvVWU2OENMc0EtN21NSFVCMnp0MnlueEFLcWdOU1pqa3lkNW9kWTBuU202ZUU?oc=5"
+    },
+    {
+      "headline": "Tapestry Inc stock hits all-time high of 162.0 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaTF5bGlFRWJEeGtLS0l1dzJRa3dnOVQtRWhlMkFndWNsLUItOTI1Zmc5ZU9McnZwR1BOcDM1bzhCc2dEbUU5TUZhdC1WY0IxQUZIbmIwaUtnenRpWS1zdDBBRk0wZ2V0SVJ0Ykl6dERrcXFDdnN2YkNOWGRMOHgtakl1bU9MWW5MT2FDdU5hU0VzQUtSTGFrNW9EVE1rSDlrOG9CQjg2RnI?oc=5"
     }
   ],
   "insight": "Tracking Tapestry, Inc. (TPR)."

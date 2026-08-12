@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:44.363Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:53.436Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    308.5299987792969,
-    311.4599914550781,
     298.57000732421875,
     305.54998779296875,
     301.19000244140625,
@@ -24,11 +22,11 @@
     283.6300048828125,
     277.7200012207031,
     278.3999938964844,
-    286.0799865722656
+    286.0799865722656,
+    280.44000244140625,
+    281.239990234375
   ],
   "6m": [
-    218.97000122070312,
-    215.5500030517578,
     225.00999450683594,
     225.2100067138672,
     222.9199981689453,
@@ -158,11 +156,11 @@
     283.6300048828125,
     277.7200012207031,
     278.3999938964844,
-    286.0799865722656
+    286.0799865722656,
+    280.44000244140625,
+    281.239990234375
   ],
   "1y": [
-    187.22000122070312,
-    183.7100067138672,
     192.97000122070312,
     193.2899932861328,
     193.7100067138672,
@@ -411,29 +409,31 @@
     283.6300048828125,
     277.7200012207031,
     278.3999938964844,
-    286.0799865722656
+    286.0799865722656,
+    280.44000244140625,
+    281.239990234375
   ],
-  "lastClose": 286.0799865722656,
-  "oneYearReturn": 52.80417941832082,
+  "lastClose": 281.239990234375,
+  "oneYearReturn": 45.74285560205597,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Are Wall Street Analysts Bullish on Texas Instruments Stock? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUV9ZSkhHS3NFNGRNc01Jbm8tcG5wdnRuakZQR2xWTUo5VnBiUWdWZzN3V3lDUlZXa1Z4WnBTNnN2M2J2SGhTaWlGOTJLbGxoWkNJbUJLUnlxMG9KRzBrY1Z0SXlxZGhvY0VGNW4wYnV0VkI5VmJjclRnRy1qRUtMNFVURUZpN01GN1pNeTJFdC16bDJ4anlZbGVGUmRyRU1LajB4bHZ3?oc=5"
+      "headline": "Texas Instruments (TXN) Stock Looks Stretched Against Its Fair Value - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaGZvclVYWTk0LWdneVY0OGgtemZCT21ZR3N0UG1veFdzTWdtQ0JfZmVCUXlYc2U0MW5lV04yeTdtWFFPaWxTTkhwcUFKWm1MYkdIamxMVWdqT0lyLXMyUGUwUmhHeE9aYjFDQU82MnhGX0dZLS1aQ2tjZWZOTy1yS3JRdUZWNEZpLURxemptMjhsaXV5dlNvZ0V2TldlYVU?oc=5"
     },
     {
-      "headline": "Cardano Risk Management B.V. Acquires New Holdings in Texas Instruments Incorporated $TXN - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ3IwdVJRQ0dvTndHTk5jTm5ic0RxdUZCUFREQXFiVzBQWW9oUTFNdG1lNjdpVkJwUnJtV3docnlUa1YxdmZKY1ZNdWZ5MUdSRklZUTZoSXhVd0gzR3B0NkVLNGI1LTEzZ2lJSFRzcVlFT0N3a2JyNjNQX0F2N29KTDdhMjhYXzI1WW94OFdudVF5dGE5QVRTa01WbmlsR2M5RUVYOXRkanlXdGtnY1cxaHdicm9HZk1fejJSMXpVcGJ6Qm5VZF9VeXYzTk14ZlZXS3Y1b2I0SU5VSGZVaE14OA?oc=5"
-    },
-    {
-      "headline": "Texas Instruments Stock And 2 AI Infrastructure Plays Investors Should Watch - simplywall.st",
+      "headline": "Is Texas Instruments (TXN) Overvalued, Or Is Fair Value Higher? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZzlvWks4VlhZbDg2aWVraVRCWnpzVUxRcDlOTGNXLTBZWmE4blNvQnUtZGJFUGgtMGhSNjZDR3lTR0FEcE42WUtBNlRQMTdDdk1uYVhQUXVXaHhYc3JFbmN5WXJsZjRUYm9KMURfXzBJalp4VnNjNktzT3VxZE9yVHZ4MXl0S000RkZqOVJKb3R1YmFFdmxTTWd3a0tBcUdtSXV5dng2TGtNLVRURnAteGRfaENIRUFhOFNPaEY1bjZfRUZ4aFltQnBtakFjX183T1pvajdBanXSAd4BQVVfeXFMTlNvUmNvWG14bmp5bUFMVEo5Y01WbDd0R1h2Xy16LUxwcVl5azJyWS1GcWsyck1aTHVFcHhfNnFCc3ZReFZJWHFSZDlYS09pT0N6bFc2VVNmUzBUWjhtMUltSnpRY2poanlDTjJWMVUzR05FV0s1MkNBTmpVZktKOXl2S1I1b3lBdDd4Mi00UWQ0T05sdzNBRVUwYm1XelpOc1RFYVdHUVRzaGMwb1VoMXZfTUJtNTE4cXVxQl9fbHpDUnp1aTFQWW5kVzRXdHl0bFdEY0lqZ3NTOWdKN2t3?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOc3NWMFpab1VUNlhvT2hUWnd6WG5XSXk2M0hTU0hWSHUtNzlKOFQteXRVU2h2aVRDckVJZV9BY2l0T3poVkQ0ckZwYURMTktpMnhycXdLZExLXzRIS2F3b3ZsdUd4TmdvdHdqajNnTUZHeWh2eTJFc05QaXBHS3ZoTzdsVHFUQzdid2lBYlA4eHA5akFhUE5PY2hkbW1JOU9LU0h4eWJ0WHdaSTd5RzB2ZDBZNndPVDlwakFHaHZDaDRIemZFZVZqbkM3RWl3dmpQeTMtVGV2UmVQdjhG0gHcAUFVX3lxTE5zc1YwWlpvVVQ2WG9PaFRad3pYbldJeTYzSFNTSFZIdS03OUo4VC15dFVTaHZpVENyRUllX0FjaXRPemhWRDRyRnBhRExOS2kyeHJxd0tkTEtfNEhLYXdvdmx1R3hOZ290d2pqM2dNRkd5aHZ5MkVzTlBpcEdLdmhPN2xUcVRDN2J3aUFiUDh4cDlqQWFQTk9jaGRtbUk5T0tTSHh5YnRYd1pJN3lHMHZkMFk2d09UOXBqQUdodkNoNEh6ZkVlVmpuQzdFaXd2alB5My1UZXZSZVB2OEY?oc=5"
+    },
+    {
+      "headline": "Texas Instruments Incorporated $TXN Shares Acquired by Handelsbanken Fonder AB - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcEUzM3VibjBMczV5Y1VFbUtQNnFsNzNWc3dkeVdEakN2ZVlmOE5mWk9MSjF3QW5OeW8xRXBac1RkMVhwRlZRRXZNZE0tcjJSMHQ4SElsWEM3Mjd4aklsU1BfdzczbndCZzA5TDN4SE5yY25lVDhPQzRmUjJMQjg3OVQxaDg3eElPenlhMzlYTXZzWVdCeFhOajhrRlBUclpxSkFlTkFVV1JHRGJybFpCejdQMi1yaklwRWJGUzEwTUF3T3NMZXdSYjRMYlFaQmQ3SEpWeg?oc=5"
     }
   ],
   "insight": "Tracking Texas Instruments (TXN)."

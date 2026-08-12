@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:26:54.009Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:07.415Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    241.27999877929688,
-    241.9199981689453,
     251.0500030517578,
     246.44000244140625,
     247.47000122070312,
@@ -24,11 +22,11 @@
     270.6199951171875,
     270.0899963378906,
     273.510009765625,
-    271.32000732421875
+    271.32000732421875,
+    273.67999267578125,
+    271.0899963378906
   ],
   "6m": [
-    245.97000122070312,
-    246.82000732421875,
     247.55999755859375,
     235.0800018310547,
     234.6699981689453,
@@ -158,11 +156,11 @@
     270.6199951171875,
     270.0899963378906,
     273.510009765625,
-    271.32000732421875
+    271.32000732421875,
+    273.67999267578125,
+    271.0899963378906
   ],
   "1y": [
-    305.80999755859375,
-    303.7200012207031,
     299.6300048828125,
     304.95001220703125,
     301.67999267578125,
@@ -411,29 +409,31 @@
     270.6199951171875,
     270.0899963378906,
     273.510009765625,
-    271.32000732421875
+    271.32000732421875,
+    273.67999267578125,
+    271.0899963378906
   ],
-  "lastClose": 271.32000732421875,
-  "oneYearReturn": -11.278241558393347,
+  "lastClose": 271.0899963378906,
+  "oneYearReturn": -9.525083629753329,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Automatic Data Processing | ADP Stock Price, Company Overview & News - Forbes",
-      "source": "Forbes",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82VW42S0Z3bXNyZzlZclhqZGM1RGM1aDNkYXYyc2pkMGNuejlLQ1FKMjRld0pQWjc2VzZYd053Y29aSnZ6bmlZNW5PSXVvbFlwOHFQbDJaZmNIc2xnSlo3ZE5sbGdGQjJCNmJF?oc=5"
+      "headline": "Automatic Data Processing, Inc. (NASDAQ:ADP) Receives Consensus Rating of \"Hold\" from Brokerages - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNTV3dktXdzVjMm93UFRabl9qVUNXQXlQVktUQ1hNWndWcXZFaGFXbngydVMzOXV2dms4SGdsckdiRFIxV0toTFVkMlRPTWhDeDhCQXFTNUdidlp1dHh6WEEtQ2R2am81NFBCMXBONmotNDFLX0tFZU1xaU9na1EtRWZJRHFuWEN0TmgxakM3NnVSYVh3S0hndFFBUnFoY1BGUUFaNnZtbDhBT3pMMVZlbkp5ZFZ3S0hwZU45R2lGdlJ4Ukt4dUVSNVB6dTNXSUNyR2R3WU5wX09tSUU?oc=5"
+    },
+    {
+      "headline": "Is Automatic Data Processing (ADP) A Better Stock Than PAYX and WDAY - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3pKMnBzdUdETmpOTl9KcGJ6X3Y3Qm41VXVlUlBQdFo3LUdxRTVOX2lxZGxjMXJiZm9FYW5TaEc4WTFtMzZCS1VSalVzWFdROUNqYmpZZjZNcFVaaDlHNUdRSVlDWll2VHQ5czl4UGprQXNvamx6RVFFc1dFeTlmVHlISlJIRmwySks4eE4xbjM1SG1BNnlxaTlEal9KSHFWVFFV?oc=5"
     },
     {
       "headline": "ADP (ADP) Stock Looks Fully Priced Despite AI Growth Hopes - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc1A2R3VMaXpEZXRXLV9Fa0N1VnJhQUNYUXkybkEwUzZMc0FHWlZlM2ZYMkRiZGhWbzlpdU4tSHJmZW9rSjA0YnFkV1ZyenM1TmIxUUNnbVROTFhjVFp6VUNVOEV1UFJ4SEswTzNhMVBtSGYtRmRpeWxpOGwzclVGVTJxX1Bqc1Z4clNRdk9oblpta0JmVEF0NXBmRlJGdWdkNFROaVJJcl9pVHZIaDdPRlV2MWZ5azVjUDA5dmt5aEhYVXVoNkhsM1pZX2VHUExMZ2tYWTkyeUhUaU1kWVQzdjFkTk3SAeoBQVVfeXFMTlRSOVUxVnF3M01EVVN6NVZxaWdybVdTaURiMXdfY2FJc2RzVGVvS3lqN2VHbGphN2tmMmNNWDdTTEVZeWc3bVJrYVpjWDBhWVJGZW1TMlhheDQtaV93LVFGeTdJcTMxNzBkaVhSbkVwU3ozT3pVMnZ2Y25UaFU2eWlNMTBkbkdNUHF1WFBnOW4xQkFSc3o4WkpBNHI0RTZ0blZCY2NjUGdOb0ltdVh5WlJvMkNJZTlSdkp3SjhjRHBOY3JkWkNKTlE4dDJSandBbGUyOEIwQW5MMlFXVmNnWXlFdVNETTFJN2VR?oc=5"
-    },
-    {
-      "headline": "Automatic Data Processing, Inc. (ADP) Stock Forecasts - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObHNmck5nMnNUV1lsRmVtLWV6cVBFajZRT2h4TWRiOXJ0UFE0SGpTdGlodU45OGdzLUJrYUVUNTJiVGJMS1g0VS1PX2YwTUxKUTloVkF3bXFTdDRQV3hmcGR6MllzNUtDZ01SaE5TT3F6MnhTSV9CMG9paHhyYkZMelFNcS1lWnRy?oc=5"
     }
   ],
   "insight": "Tracking Automatic Data Processing (ADP)."

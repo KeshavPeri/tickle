@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:21.515Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:32.842Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    235.86000061035156,
-    233.94000244140625,
     226.9499969482422,
     225.1199951171875,
     226.5800018310547,
@@ -24,11 +22,11 @@
     218.6300048828125,
     217.41000366210938,
     211.17999267578125,
-    212.22000122070312
+    212.22000122070312,
+    206.08999633789062,
+    215.86000061035156
   ],
   "6m": [
-    170.00999450683594,
-    168.0399932861328,
     170.9600067138672,
     173.27999877929688,
     177.17999267578125,
@@ -158,11 +156,11 @@
     218.6300048828125,
     217.41000366210938,
     211.17999267578125,
-    212.22000122070312
+    212.22000122070312,
+    206.08999633789062,
+    215.86000061035156
   ],
   "1y": [
-    196.25,
-    196.52000427246094,
     198.86000061035156,
     202.85000610351562,
     198.97000122070312,
@@ -411,29 +409,31 @@
     218.6300048828125,
     217.41000366210938,
     211.17999267578125,
-    212.22000122070312
+    212.22000122070312,
+    206.08999633789062,
+    215.86000061035156
   ],
-  "lastClose": 212.22000122070312,
-  "oneYearReturn": 8.137580239848727,
+  "lastClose": 215.86000061035156,
+  "oneYearReturn": 8.548727721926333,
   "marketCap": null,
   "topNews": [
     {
       "headline": "Generac Holdings Inc. (GNRC) Latest Stock News & Headlines - Yahoo! Finance Canada",
       "source": "Yahoo! Finance Canada",
-      "when": "2026-08-07",
+      "when": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1Y3QtTFgwYW80RUVzOEYtNEoyTTdlQWtSeEp0VENfWHVzSVNlWnN0OGUxZFpfSnozNWJsaVRGMGgydUF5Z3ozVGxXQ1JSNXdGUnVfazU4TkQ?oc=5"
     },
     {
-      "headline": "Generac Holdings Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdXZVSklJTFl4Zld5enVaUDM2WHdlQU1SZHJpRENYVG1BQmZ3QVd0NjBnUGNlZFNrX0hJOHZWY29DaGRyRWpLQzE2LXNhOUxQZHpLd3dKTzNsbTBIRDlvZlFfbVNnUjhLTGVIU08xYWYyMTVFLVptM0h3dFltYml3YUltMTZqaWJISW9sWWpWeWxmeEVfdFpndklPSXpNOWFyQ0h4Tnk1M0I0OFYtejlMemlfNHQ2azNEZlhYanVNdHk4ZVVNRmJVQTdqR25ENjV5OVluRE01WEM1NjgtRW5uYmpqSnpDMHZsb2c?oc=5"
+      "headline": "Generac Holdings Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUklLaEN0RUp4dzRybVg0b092Y0ZMU3dpUnVvdTJqaXdrenptTHBNOXJjanVDMm9jRG9pYkJxVmVyUXBhWHNEeW9mZmxPckZiSnhoWHBrc01PMUpMdjBxQ2VsdnZxSjZYUlVOZTR3WVdOeklKR0lKNnY2TnBhRXF5WldpSnZEQTFoUERRYXoyd00yNGpzRnB1dmRlTk1tdjNXWnFnUm5NZ2t3Rl9PZmdiU1F1VXdySDlmcEdIRk1kaC01LTMtdENtZlVnNl8?oc=5"
     },
     {
-      "headline": "Generac Holdings (GNRC) president sells 550 shares in 10b5-1 trades - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORFBZcThmWldFNjNyeU1ZcDJUclFJek5mWF9XOXlNMW56NHdnb3NsejYwa0RYSjZaTlJfT0Q2QlFwSndHME1VM1FVSm1kRUhpUXRidUt1OUE1Z2pZY2p5eEJPWXNBbVVScXllSkRQNkp4OXpLWTEzR0VIZS04ekZIZm0yNndlaldRam1FbFpwWnZlSzQ2dno3TU9PUHp3aVJoUlVHdzNTa0lyN0dsYzZ4SG53cGU?oc=5"
+      "headline": "Generac president, home power gen, sells $125,023 in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjMzQTE5TUpEY0lLVVJyeDAwTHJNbUw5bXBDSmFvRkltclZpYXBTZzBsREVFYzd3WUtzMU5yLXg1MG5pWmliTGptSVRtTmNYRU9tUXBJTGh6U1NubVVuU2FRSk9rTkU0X3RoVnlPWkJoNFBwcThRcWVxYTI2VlhLM2VzR1Q4TWpKMUd1XzlkUU1CX09YWU4wQm1JelF1WEtPeXJsdkQ4NWJfWVNQWXl4R2JYSDVTOG1WRi1CeUtBdUI1Sncxc0E?oc=5"
     }
   ],
   "insight": "Tracking Generac (GNRC)."

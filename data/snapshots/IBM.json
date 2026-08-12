@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:25.434Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:36.482Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    295.29998779296875,
-    287.55999755859375,
     290.2300109863281,
     217.07000732421875,
     211.1999969482422,
@@ -24,11 +22,11 @@
     235.14999389648438,
     235.9199981689453,
     233.42999267578125,
-    237.27999877929688
+    237.27999877929688,
+    236.30999755859375,
+    238.4199981689453
   ],
   "6m": [
-    309.239990234375,
-    306.70001220703125,
     314.7300109863281,
     294.30999755859375,
     289.04998779296875,
@@ -158,11 +156,11 @@
     235.14999389648438,
     235.9199981689453,
     233.42999267578125,
-    237.27999877929688
+    237.27999877929688,
+    236.30999755859375,
+    238.4199981689453
   ],
   "1y": [
-    242.27000427246094,
-    236.3000030517578,
     234.77000427246094,
     240.07000732421875,
     237.11000061035156,
@@ -411,29 +409,31 @@
     235.14999389648438,
     235.9199981689453,
     233.42999267578125,
-    237.27999877929688
+    237.27999877929688,
+    236.30999755859375,
+    238.4199981689453
   ],
-  "lastClose": 237.27999877929688,
-  "oneYearReturn": -2.059687705933343,
+  "lastClose": 238.4199981689453,
+  "oneYearReturn": 1.5547104954040023,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "The Unusual Cash Offer Sitting In IBM Stock - Trefis",
+      "headline": "IBM Lands $240 Million AI Deal with Together AI to Scale Inference - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWm50NXJ4TnFjRUd1ektxelF3clBQV3N6ZGdGekZxZTQ3eWxBenVwX1NMdTNoY2FvYkkxUnplZUFiMlJENldNcXM5bE82VFl4Y3JIYU9JV1F2V1NyQjhHdHRLSHpKZ2laTW5XX1Vrc2FfYXEtN3FlNGVrZ2RCd1ZUZ1hBVktDSndzczZfaXdUTGtIeF94OG1EMDZZMWFuemJkeHVWYmRYeW10MUFfUS1OdHN3dF9PYjd1dFlqRkhDVjk?oc=5"
+    },
+    {
+      "headline": "IBM Stock Options Price A Band Half Above Today’s Price And A Third Below - Trefis",
       "source": "Trefis",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHd2ZldSbERLb1hpX2VSdXIxLV9sbjFmbUlQWjUwUkVVZE13NXgzbTd3bWhLb0JQN1dFcFlTdjFpOVJHUjF5ZVpwdW42N0JzNFhqM1JVU0xHUEtaRXFFdGphTWlhdmpQQ0R1WW9DNTM3T1l1VUwzSjhFakRmOGl3TzNBM0lTcGgzcG5iRTYxeU5IdXUzWDFTem9hdXl6REZ2S1hDaDRB?oc=5"
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMnpWM05vNDQ4OU5fbWVUOTlxRkE1dXNzcjBUNnJVc0dCa1QtSDlSTW5nVjFvUHdyQTN4cWN4ck40dTMydDF1QnpudmdpVlVOSThDTjc5cUZuNlJjUVVQVzVFa2NxeVBxeE1YQjZYQVJyVnBqN3FtWWtMWlFfdGlOaEpFbWVBYkN3b2J0TGl4VlFLMWN1NngyNkFlcWdMU2xvTmx3SjEzVXdsdzNmZUNVcjdLeGlsbGZITmE2WUdaRnBZT1N1QWpDZlYtWGQ?oc=5"
     },
     {
-      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VRXowczcyaUhxMVNGRi14M2pUY1NTMmJsUE8tWGQ2ZDdmRjRycTNFTXVYM05KYm5kdDRTaUFGc2lTYUhYWkVhUjhXR0FzZHM?oc=5"
-    },
-    {
-      "headline": "IBM (IBM) Stock Still Looks Cheap On Fair Value Despite Weak Checks - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVhqSmF0clBmbXY0elF4ajEyZXlPVlViemY3UnpSU3VPbjBmZThtbTRnSVpYSXhOS0wteVRnZ0VYNlVCV1ZUUjVRU2JzaEhVZDBFd09iMm9DZTY5WGtFYVFOUnhOR1N2d1NrWDR5ai0yNk4yLWZMRHhVd1lMR3VYOTgxaldXX0wyNDFJN1hoYTZXNVNM?oc=5"
+      "headline": "Together AI Serves 400T Tokens Monthly, Plans IBM Cloud Cluster - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYmtkTGlPc2xvVnhIYlpsYnVrREhkQ1hPMXBLNVJJRzMxVjZ5LUl4eHdaLWk1aUFVNkk5LWRFSEZ4c2dxRWpEYmVlTDlJMzhjeGNTaS1WUUZ2N2xKdFdZODhsQlBmYk9XWmVVNV9FamFjTmh5VDZQN2EwMlhUWkU0aW5Vb0xZNDAzOHU1WFhhUFJxMTJtN1pZVFJSa2luWVBybnJ2R1poUkVyR19UZWZWU3ExVU1hTUhfS3pGRg?oc=5"
     }
   ],
   "insight": "Tracking IBM (IBM)."

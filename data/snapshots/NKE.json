@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:34.339Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:44.685Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    42.779998779296875,
-    44.369998931884766,
     43.7599983215332,
     42.86000061035156,
     42.77000045776367,
@@ -24,11 +22,11 @@
     41.529998779296875,
     42.45000076293945,
     42,
-    41.70000076293945
+    41.70000076293945,
+    42.11000061035156,
+    41.31999969482422
   ],
   "6m": [
-    62.599998474121094,
-    61.810001373291016,
     62.18000030517578,
     60.93000030517578,
     64.22000122070312,
@@ -158,11 +156,11 @@
     41.529998779296875,
     42.45000076293945,
     42,
-    41.70000076293945
+    41.70000076293945,
+    42.11000061035156,
+    41.31999969482422
   ],
   "1y": [
-    74.19000244140625,
-    74.0199966430664,
     74.9000015258789,
     77.19999694824219,
     76.38999938964844,
@@ -411,29 +409,31 @@
     41.529998779296875,
     42.45000076293945,
     42,
-    41.70000076293945
+    41.70000076293945,
+    42.11000061035156,
+    41.31999969482422
   ],
-  "lastClose": 41.70000076293945,
-  "oneYearReturn": -43.79296483259552,
+  "lastClose": 41.31999969482422,
+  "oneYearReturn": -44.83311234573522,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Nike Inc. Cl B stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3AySXdFczR4YUo4Q3RQeHVqdmVpRHh2UUpoUWJhLVNvaEVLWHptMms4VzJYc0xaN2ppYzMtaGJ4VEd5STNLMjhxQWEwLWhZLXZRVjBWOG54Mk1heW9DOHZBM0Y2RGpudVV4RFNxejcxX0VWaGt4WTN6QnRaTHdYMWItMUdpeVlDMTV5bVpTUFhnZllBY2RRSllaUWQ0bnVWMkRaSXpXREdmTV9aWFpBdkRJU0I0ZEtENHBoQU5RdHM0ekdSYTlqdQ?oc=5"
-    },
-    {
-      "headline": "NIKE, Inc. Declares $0.41 Quarterly Dividend - Business Wire",
-      "source": "Business Wire",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN1EzZUwwbG1BdlRGSDQtd2Rael9EVHRMZVd2aUFLTWNfVTVJWUxBN0NZMFpFWW5IbEJfZXZJaV95RExPeGNweVl2eEM4R0tSaElGXzVKWFk4b3FuRjFyMXBzQi1LQTVfM3EwckZHX1BZdkQtU0hwSzBjSlJ6ckJUNWpJR3A0YXR1WTdrZG5xV04xMElVSmNUSGFzZXdsQ2swWEI5NA?oc=5"
-    },
     {
       "headline": "NIKE, Inc. Reports Fiscal 2026 Fourth Quarter and Full Year Results — - About Nike",
       "source": "About Nike",
       "when": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM0k4MGU4UWpyeWt6OGpYS3l3czZWem9NOElHRndyVGhVNGgtSTh3ZnlDNjVuSmZ2RHZsYkJ1MTVGUmJGeDIwWDNpTTN1cFZiT0JSZ2NQZDFiRUpLSGdac0JkbTJGMTk4VzI1U2M4cjMtWllfb0Q4VjFxaUZkakotUHZ1VGRKaWNkR1FjOTA4ZWEwUDdvdDlWTHFBM1N3SEEyVEpPV2NoeDdQdjI1aFE?oc=5"
+    },
+    {
+      "headline": "Nike Inc. Cl B stock outperforms competitors despite losses on the day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3AySXdFczR4YUo4Q3RQeHVqdmVpRHh2UUpoUWJhLVNvaEVLWHptMms4VzJYc0xaN2ppYzMtaGJ4VEd5STNLMjhxQWEwLWhZLXZRVjBWOG54Mk1heW9DOHZBM0Y2RGpudVV4RFNxejcxX0VWaGt4WTN6QnRaTHdYMWItMUdpeVlDMTV5bVpTUFhnZllBY2RRSllaUWQ0bnVWMkRaSXpXREdmTV9aWFpBdkRJU0I0ZEtENHBoQU5RdHM0ekdSYTlqdQ?oc=5"
+    },
+    {
+      "headline": "NIKE, Inc. $NKE Stock Holdings Boosted by Rockland Trust Co. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-08",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHB5eE9rWUtra2htQjRkeENaZUJDbGhyN3JubHJiNDctQlA0dEtyUmNud2JnOF9RX1BzRHdMNlFza18zQWVMX3RJM1RKZHk4TkJCZnVaS2VQOExvQ3dsbGJWcVh0d3JYTXpKbzliXzBDYlVyS2lDYm1Jcm5aVnFsTTNFV2F2WFltUHJfN2NtWmxNYWxKQTV5RjhnRUplbnd3QWU5Y05JRFhCdERnNkRKQkhGOUp4dWs5?oc=5"
     }
   ],
   "insight": "Tracking Nike, Inc. (NKE)."

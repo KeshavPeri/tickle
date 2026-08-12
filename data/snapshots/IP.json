@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:26.595Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:37.814Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    37.18000030517578,
-    37.93000030517578,
     37,
     36.5,
     36.7400016784668,
@@ -24,11 +22,11 @@
     42.310001373291016,
     42.25,
     40.529998779296875,
-    41.58000183105469
+    41.58000183105469,
+    41.34000015258789,
+    41.79999923706055
   ],
   "6m": [
-    39,
-    40.31999969482422,
     40.689998626708984,
     42.060001373291016,
     44.689998626708984,
@@ -158,11 +156,11 @@
     42.310001373291016,
     42.25,
     40.529998779296875,
-    41.58000183105469
+    41.58000183105469,
+    41.34000015258789,
+    41.79999923706055
   ],
   "1y": [
-    47.54999923706055,
-    47.15999984741211,
     48.36000061035156,
     48.63999938964844,
     47.7599983215332,
@@ -411,29 +409,31 @@
     42.310001373291016,
     42.25,
     40.529998779296875,
-    41.58000183105469
+    41.58000183105469,
+    41.34000015258789,
+    41.79999923706055
   ],
-  "lastClose": 41.58000183105469,
-  "oneYearReturn": -12.555199793468837,
+  "lastClose": 41.79999923706055,
+  "oneYearReturn": -13.564932362483953,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Are Wall Street Analysts Bullish on International Paper Stock? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGhBZzl1MVBOMmRMWjFFYnVtaEhfWlN5X0hiYnpGeDY3Qk5nR0lqb3pFeXZBRDJPeFpVOXF3REJNTUlqZnFBdGIxTHVDSklMdUVoUnAzZjFQY01BbGFzZXpvNXdSdmdEY3RlMW9wYTJ1NEVmTjNmbFp5MEF3TnU5aVVNdDZwRF9KWHFRZG9fQThFX202bkM4RnNQRVlWVGdaNnBxNmt1YlhjbGs?oc=5"
+      "headline": "International Paper Co. stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZDA5SldrSG1Pc1lzNlFlWndWaV9LSVdkMjNKN1RNVGJqOHhBSU9JUkVSVTgtWWRDTkVBRThWdVo3eW8zTlNNam96X0o3TjFZVTVZYmgzeHlmQlNJQ25tSUlvcE41UXktSnpoZjZHeTVqUG5KUTNrYzFKTGF3bG1Lbkd6a3JOQ1dUSzNDZk9KR2tLNW1WbjRZYnM2alVzUjBVcFZraU0wT2EzRURXa21Bd3UtemRhbmkxU0E5UVJTekNpNExqUWVRQmZEd0lnVFJpUTRHS0Yzakp6STNrVTlBSnY5eWpxQ0E?oc=5"
     },
     {
-      "headline": "Why Is International Paper (IP) Stock Soaring Today - StockStory",
-      "source": "StockStory",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHJiQmxHUDBEVFVDMC1CWDdhRkp3TnlOa1kxM2cyZUJDeUhTNTRxUWFFYmRqVlYyMWZMN3pOMzh4amk1SVVxakM5OWgtQnppVmdHcE9JZHF5R2dzUDVNR1F3b1NOOUx2NlhEeVJERmVqOVQ2Q3ZpNUpEOUJndkJlaFBLVy03ZW42TVVGaU1tT0RsSmVaNWpIZkNEWURHcF9vR1pyV3hoVURyOWM?oc=5"
+      "headline": "Is International Paper (IP) Undervalued As Quarterly Sales Fell And It Posted A Loss? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUVI5VEZnMGR0ZFY3Uk14dmZXTGNFU2RsMFhpUG9MelBfMzZhZ2RLd3pKeUtua0F6Wk5ra19yMWdZZ0R5c0tKRGVEcFM2VkdXYW8yUm1TTzhuR0NXLWVYTzM3WklTWGF3Mk1EWHJfLUduc3NJSnJwdXRFM1Q2VWhhUUg1S3JrV0FrcmVCd21lM19NcWtZYXdxUW54MlhfcldGdjdkZnRjVDNEaVpLdzFhMk96YXpNSlpaemwzTVhyRElDSmhINENnamZZR0REbXpfRzg1RzZB0gHWAUFVX3lxTFBRUjlURmcwZHRkVjdSTXh2ZldMY0VTZGwwWGlQb0x6UF8zNmFnZEt3ekp5S25rQXpaTmtrX3IxZ1lnRHlzS0pEZURwUzZWR1dhbzJSbVNPOG5HQ1ctZVhPMzdaSVNYYXcyTURYcl8tR25zc0lKcnB1dEUzVDZVaGFRSDVLcmtXQWtyZUJ3bWUzX01xa1lhd3FRbngyWF9yV0Z2N2RmdGNUM0RpWkt3MWEyT3phek1KWlp6bDNNWHJESUNKaEg0Q2dqZllHRERtel9HODVHNkE?oc=5"
     },
     {
-      "headline": "Bank of America Corp DE Sells 353,391 Shares of International Paper Company $IP - MarketBeat",
+      "headline": "William Thomas Hamic Sells 24,500 Shares of International Paper (NYSE:IP) Stock - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeHNvdFYtamhlTTJKWjFVOEsxT0xBVmdqSk96end5bVhBU0NyVnlsczVLcm5teWliQ0ZaekcxSWRpQkpMTS02bmdzWmowRUpVaUlVTlk0YU9udjVJV1pkanR6YmVXeFFpRHduVEdfZm5uQm1hYjRhUHBpLTdMSVo5eTlXZG1nQXpBMm52RHdBVTIybFpMcERvQmtvSnNTZnp5Vmd4ZkNvT2tPN0dzU1JldkxKSXhYaU1vNE9YM3VBMFpWY3lPUjFfOGhIcTlvZXNXVmVLQQ?oc=5"
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYThyWXVUTXhoNnRJcS1NWG1NbXM2TDY0YllLeUVOUGI3aW0tUm5SeVg4NnRXY2htSnF4OTFCbmt6YkkyOGZBM1l6VW9rODhyckN0MnJiamVLRGdxM0daTXlxVnM1UC05d2xKODhsNUd6X2l0ZlhRaGl2S0FJNEJ4NGNsTDIyY0xxcVU5S1BhWDlHNXJFTks2ei14UFM4OWhKX0hTUGJ4NXc2MVZnNmtlT1dnbHVTNXgtM3Npdm9OU3o4X1E3VmNtZQ?oc=5"
     }
   ],
   "insight": "Tracking International Paper (IP)."

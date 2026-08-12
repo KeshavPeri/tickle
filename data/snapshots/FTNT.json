@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:19.619Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:31.056Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    163.72999572753906,
-    157.50999450683594,
     160.6199951171875,
     166.8300018310547,
     164.50999450683594,
@@ -24,11 +22,11 @@
     168.2899932861328,
     164.1300048828125,
     160.11000061035156,
-    159.63999938964844
+    159.63999938964844,
+    164.2100067138672,
+    161.88999938964844
   ],
   "6m": [
-    81.51000213623047,
-    81.26000213623047,
     81.29000091552734,
     79.30000305175781,
     81.12000274658203,
@@ -158,11 +156,11 @@
     168.2899932861328,
     164.1300048828125,
     160.11000061035156,
-    159.63999938964844
+    159.63999938964844,
+    164.2100067138672,
+    161.88999938964844
   ],
   "1y": [
-    74.38999938964844,
-    74.56999969482422,
     78.47000122070312,
     79.33000183105469,
     77.25,
@@ -411,29 +409,31 @@
     168.2899932861328,
     164.1300048828125,
     160.11000061035156,
-    159.63999938964844
+    159.63999938964844,
+    164.2100067138672,
+    161.88999938964844
   ],
-  "lastClose": 159.63999938964844,
-  "oneYearReturn": 114.59873732955394,
+  "lastClose": 161.88999938964844,
+  "oneYearReturn": 106.3081392522474,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Fortinet (FTNT) Fully Valued On Its Raised 2026 Revenue Guidance? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3F1V1AxcDJodF9BdG5YWEJFTkxaTGJEMUh3UWRsYm4zZ2dEcFZ6amlMQjYtQVdUazkzRXR3aFVBeWc4NWNhV1VtNUtlVWxqaDYzMXJlU3BhQkQ5LWtnYjF1cTRUdDN5Tl9aaS12ci1ZTE1sQkRWNVhrQVk2dUk3ZHVYanNXWkNxMVFzY0hycHVkejVYb2tkUzB3RWVkUFVUU3N3T0F3dVBKQy1QUUZleVRoaHZwa01pTVFhTDdvcS1WS1VvQ3fSAcsBQVVfeXFMT01xMFU5ckZvSXdCd0FlNEdySUZaajhQM3lmU2tnRWtDcXFUcE1oYzA1eGtXd2tNUzBlM0hnTlI5WmVnQXcyMVFJaVFWMGtPWTBpWl9JdTk4WTNIYnNoRzFtYm5rQjNidUFHQmcxU2ZHZEtxMXZUZDhaUW1vMG50WUwtWmJqQUJWaDlEd2NBZDc4QjdNQWlIdkhzZ2NFRktyNDYyb0QtUjluenlMM1N3ZDZydGtINVFTZ1lPdTlOalRRRTBzSHU3MFB2V3c?oc=5"
+      "headline": "Massive Update for Fortinet Stock Investors - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTWJGVTFOdks3aE85UERuVVJOLWhFVFVVYWo3enJjRGZtR0t1TG1UOG5iRGhuMFBJaklSVFlTZ3dPMGVzcnVtWkNSclRDanNaSU9vNmV5ZW5MaWNHX3J2dk91UXNnMmp1a3FGdFY5VFhlOFpyYlY1a2JKVjNaXzU0R2d4clkxdlU4WFRFNEVDMA?oc=5"
     },
     {
-      "headline": "Birchbrook Inc. Trims Stock Position in Fortinet, Inc. $FTNT - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd2pSMmRfNUxkaE9MZi0yb2ZHN1RCRkNjOXJHRkVhMTJuWkxKbmZOME9xOENBZ2RFTmY1THl6NFF6aV9oeGtOaXZaNUJrY2F5MFZpV055X2I4Qzdna2c3WEhNam04eWRsaDF3dEpoaTVRbzRid2NPQVRuQVdiSUZteXM2LS1XemlGLXVVRzktVlNpX0lqWnFFaURobUszdFdPemN6SjZvbktvTkZsXzVtQUpZeVhQV1A3?oc=5"
+      "headline": "Massive Update for Fortinet Stock Investors - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVzFxYlJITDdtWktYbkZJX3pVTzFrSVRDTDM4QUV2eE1ORU1EenV6TnVpSUtJZU4tV2wxcGtJQVV2bnd2eF9wdnFOREg3Z1B5cWRpZkhsUVRvYmpkak1JYW5sRjE2Rng2dkhvUjV6MW1aakNXMmxiX1Nnckp5MHAxa1BWcTBFaFc3OVAxQ1dzeVhWU0tSN2RjaHZaemZ4WjAzbUFkOF9qWTZLWlVqdy12YjM0Z2xDR0pURW5EVlBSYzNZLWg5eTdyRXhn?oc=5"
     },
     {
-      "headline": "Fortinet Stock Rides A 5-Day Winning Streak To A 12% Gain - Trefis",
-      "source": "Trefis",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUUdiOWh2N05VTVRpVlFoVFBtaEN3aERvckNfaV9HTE1XNzdSTE1BNjR1RTcyYXRmRFc5U2R2OUNidE9STl8tVDgzNFdhQ2pUTVBncXl3bDhJc2dnaHRXRjhXYU8wWFJOQkMwVnliV0wtQk1pRFFCelEzWnVHVHE3TVA1cjl2NXVNaS1FN0Z6eXp6NWRCYmRES3ZoQXEzU3J4U2FHU3dxR0xUU0VOU0YtdDVrbDVTUkJr?oc=5"
+      "headline": "Fortinet Inc. stock outperforms competitors despite losses on the day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaU1JNmpmNW0wRDFnRFJLdndqNnN1ZUJQM2t0cDVTM19jdkduSW9QNXJGU1czSkljMUhkM0h5RV9HVUJRVGxuMVRVNVZMMFZ6YmZoODNmamROQ1hMbzE5UTNuZ1dJMEN1WTl3c1g2MnB6SmloRl9TNFdlUkdGTkxkNURtR3cwcDYxWVY1X0FnQk01TVJPUjFDNkFJc2phdHY1ZHRKWE1lMTBhaE90VlM3NW9IcU1wSFExbk9VUW5fUUk4Q2c1UkY0?oc=5"
     }
   ],
   "insight": "Tracking Fortinet (FTNT)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:29.469Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:40.538Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    59.86000061035156,
-    60.540000915527344,
     59.310001373291016,
     58.7400016784668,
     56.560001373291016,
@@ -24,11 +22,11 @@
     57.790000915527344,
     56.68000030517578,
     57.31999969482422,
-    56.72999954223633
+    56.72999954223633,
+    56.47999954223633,
+    56.25
   ],
   "6m": [
-    61.75,
-    62.849998474121094,
     63.060001373291016,
     64.16999816894531,
     66.80000305175781,
@@ -158,11 +156,11 @@
     57.790000915527344,
     56.68000030517578,
     57.31999969482422,
-    56.72999954223633
+    56.72999954223633,
+    56.47999954223633,
+    56.25
   ],
   "1y": [
-    74.23999786376953,
-    74.3499984741211,
     73.55000305175781,
     70.33000183105469,
     69.2300033569336,
@@ -411,29 +409,31 @@
     57.790000915527344,
     56.68000030517578,
     57.31999969482422,
-    56.72999954223633
+    56.72999954223633,
+    56.47999954223633,
+    56.25
   ],
-  "lastClose": 56.72999954223633,
-  "oneYearReturn": -23.585666521251884,
+  "lastClose": 56.25,
+  "oneYearReturn": -23.521417177350273,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Income Investors Should Know That The Kroger Co. (NYSE:KR) Goes Ex-Dividend Soon - simplywall.st",
+      "headline": "Jet.com Co-Founder Nate Faust Set to Become Kroger eCommerce Chief - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2ZIZ2FBSjYzb2pqTENWckVVZGJZd042M0dPaEZZV0NpNkQ4T051R1d3NEZpRTl1c1U1T2xieC1jNEY0dmVOZHlrendkLWhFN0k0dUphSkI5Wi15SHhwOGQ3RC05Y1pIckJ0OG1yaGViamIxTjJaNHBUMXdOMHl1Ull5NTVfUjMwZFB4X2xDYXQwMUtqbUpVbVRFZnI4bnd4aEJSWFh0Ui12bkNkWEZsVVlHdw?oc=5"
+    },
+    {
+      "headline": "Kroger (KR), The Latest Update Raises A Bigger Question - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVWhJZmJ3VmRkWEYtMGpoTXcwNEgxOVl4ak5VdWJlNFhnUW5hRFgzQ1dkYnpJYnBlREw5RUlhRzIxLWlxTElmX2d2WDFvd2tjWk5pdUxzUHNiOUNlSjB1LW1obl94cjlBbW5GdzJaekFmdThrQmxyNWRmY01BY1pXcWUxZ2FZTk1VVjVwS2ZiTU5sZ0R2LVZZakVLLVJzZ2daVGN3aFpKMXNJNGxNX200aXYxRjlFdmdEZmhuTGVKM1gxZFp4QjZoT1JSbUfSAdIBQVVfeXFMTUlXQjg0LUxfSG5tYkhjaG9rUXIwU3IwOWx4TVZhMFJvcnhVTF9aWlUyaGR2YnNVUkMzS2FNLWcxa25uSkZRLXNoRnZ5djdmR004ck5hSzYxS2pBYUpMWndjdHFLUlI0RzNrejlEdmt6NnBHeEJYNXdXV0Z3cl9lcVVaUTBydjZ0ZDcyV3ZoRDVvQVY2UEVXRVhlNUNaeG5jVWIxemliMlRmYVFXUmxIdUhVTzdyZjlQY1pHd1BkWnVZa0FFVkJybndObDl3MEhJend3?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOREZrSXQtd0pUMW5JczRMcllXNllOZXMxWjNXSzJiR1A3TjVjNDBmOHZwUEVUQ1kzRWgxVWlWVDliM3ZDaFBkTXV0andQOUtDRE02VkNaNXpkeFZWNENfMzZvMUNVN3RPSThIS0RRMnRTU0dwblVyb0czaEtwSGJsb0hzTnl1QWw1WlJCLUVoN25vcFcyMTBVcVk5M2tveWxBSlNpTENJd2FIc2t2VVNPMEVRbzRRYVM4dDZONDdsaTXSAcYBQVVfeXFMTjNxNkxzVnV5N2NsQVAybEZGVXNnWlRwd3ZLQnlhNm1wdlVBNE8zc0pVcXpfQTlzSUVzVDlIUHc0RFRydUNKN3AzTFVUYjBNMmg3THI3WUMyclQ1MkVUNlZjc0tBeTY5OUxSc21VVWxMRjU0SmtHblhkZ04tTGhfVzNwaFRLMGZ6anh6dGpMQmJFbHpGZmhGR21RbjNkUHo5bUt3cDhkNFRLOWsxaGx4VXBKTlEzTW81T2U3MTVjTlhxT1o4cXlR?oc=5"
     },
     {
       "headline": "Kroger Stock (KR) Opinions on Congressional Share Purchases - Quiver Quantitative",
       "source": "Quiver Quantitative",
       "when": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV1d4b2hzZmtYS1hKd1ZmRTVDU2hqNDk2bkVnMHdFUGdLVF9CSnlMcDcxeWt2OXdFcHVHRHNDTWN2YTNaM3U3cWMzRWltbVozdUNwRWxYMHVJeG1hSk5tOTRRSmhoeHh4Zy1VVHo1eGlwS2tMcTB3eDlpT29VTkFvN3ExSEU0dVIzLXhIazJmdVhOa0tuUFgyMTV2VkY?oc=5"
-    },
-    {
-      "headline": "Kroger Stock: Analyst Estimates & Ratings - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFRjMmJKRXlKQi1ZV0xIZDAxQVU1YmNPTzktcXYtM3E3ZzBmMEFMdFQzUlItQm9NaERudGcyWXZCaU5SU2ZybTQ5bFMxbzVoMDJsalc2SDlIMVZSTTVibXdia0g4NlgxREJqLV9wUUlibzYyQVZOWlpMaUFzbXMtTnNxUWIzb1Z0T091UFYzT09GQ1JLLS14UzBKRFZmbnlsZ1JYLWRR?oc=5"
     }
   ],
   "insight": "Tracking Kroger (KR)."

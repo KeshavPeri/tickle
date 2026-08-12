@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-08-10T03:27:46.997Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:56.072Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
     77.41999816894531,
@@ -11,8 +11,6 @@
     81.5199966430664,
     79.94000244140625,
     79.29000091552734,
-    80.37999725341797,
-    77.45999908447266,
     76.48999786376953,
     77.1500015258789,
     81.23999786376953,
@@ -24,7 +22,9 @@
     84.63999938964844,
     84.19999694824219,
     79.0199966430664,
-    79
+    79,
+    78.9800033569336,
+    79.06999969482422
   ],
   "6m": [
     62.209999084472656,
@@ -145,8 +145,6 @@
     81.5199966430664,
     79.94000244140625,
     79.29000091552734,
-    80.37999725341797,
-    77.45999908447266,
     76.48999786376953,
     77.1500015258789,
     81.23999786376953,
@@ -158,11 +156,11 @@
     84.63999938964844,
     84.19999694824219,
     79.0199966430664,
-    79
+    79,
+    78.9800033569336,
+    79.06999969482422
   ],
   "1y": [
-    73.38999938964844,
-    73.02999877929688,
     74.54000091552734,
     76.94999694824219,
     76.04000091552734,
@@ -398,8 +396,6 @@
     81.5199966430664,
     79.94000244140625,
     79.29000091552734,
-    80.37999725341797,
-    77.45999908447266,
     76.48999786376953,
     77.1500015258789,
     81.23999786376953,
@@ -411,29 +407,31 @@
     84.63999938964844,
     84.19999694824219,
     79.0199966430664,
-    79
+    79,
+    78.9800033569336,
+    79.06999969482422
   ],
-  "lastClose": 79,
-  "oneYearReturn": 7.644094095935973,
+  "lastClose": 79.06999969482422,
+  "oneYearReturn": 6.077272234582487,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "XYZ Stock Jumps After Block's Record Quarter, But One Analyst Remains 'Skeptical' - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaThPRWZtRG55czBGU25hLWtGZ3F0SlRMaWI0SW1QTENEd2ZZbWUwSXNXazFVVV9CU0lNWnozeFhvMkFta2tVMkpodXozekhBb3l1VG4zX2ZUbDk5Q0VzckZOemFGZ1dsYnVlSjlSeEhsQXd5aU5ENWFycExGUVJhTGdlcmRQV0I3bmlLRzBXMXpKekNYSWdyb0pQd25lTkZTc2ltNGNQNmVPQlloY1NsNUhDc3pyV2dpMkdRSm5ULVN5M3ZiMGo3Wl93TkJNdw?oc=5"
+      "headline": "Block, Inc. (XYZ) director Eisen sells 18,000 shares via Rule 10b5-1 plan - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc08tSTJ0UHI4Wk5jY2xFZ2pKWV9HSVlaSlhHYmNIZm1iOHgyOVQ2VnVuVUstY1NsdEJ4X3cxNGZlOUFVSHpOU0hBTDh1WW1sWnF2LXZMWkQ0T3NlRXNILTkxRFZ1YnpQMWstR1VpSDZFT2w3UVlkQnVDWnUwWkRiSWNrR1RVcmM3WnMxR0Fma2tCSVhfM2s2Skp5VHo5M282Mk55dA?oc=5"
     },
     {
-      "headline": "PensionDanmark Pensionsforsikringsaktieselskab Decreases Stock Holdings in Block, Inc. $XYZ - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOenBFU0VFUTJPUWFibVI1ckQ4VElUMm5OcjExVmdYWWtIeXhMUmxOcTlpYWFLRlo4cW5nS0FYSU5NM0V6R0FzMGxGR0NHQUhMamh0NGhwSkVoVGpsUjdndDA0ajVZQU9LalJLbnE5N2FIT3ZwV3BpSVFqSlNFQVdRckVKYTJLTHFCYjlTamxqVTZVdk1QRWpLUTd2bXZOVUh5eXVFdnBBVWdkUjNWcVE0YVU3V2NOancxR1BOTE1HdVpNMWpDMDl2UVJCbGJDcDJuMzk3QS1GcHY1Z2VDc28tc2plOA?oc=5"
-    },
-    {
-      "headline": "Are Wall Street Analysts Bullish on Block Stock? - Yahoo Finance",
+      "headline": "H&R Block (NYSE:HRB) Beats Q2 CY2026 Sales Expectations, Stock Jumps 12.2% - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbERmenVUaXBUMWlVbDdOaXUtb2ZDQzJKZDZ6eWI5N0RMekhjRzhQSXZvcE00Q0Z6a1d1UGI5cVR5ZWdaSThuNzVYZEc4SEc2aWxLMnFfS2wyZmNNVmN2WG5vdGdfemhSRGhINU05eGFXdUlxamgwc1VTNklxMVZOLXF4d1A4VDBPeFBtZ2NWSm45bmJfZ2lGVjRoeV9lUzNJ?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLS1JdlBhamw4UHBiQm51SWljVjZsbVlpRE9fYUdPZEdvSTRPTzFIQTltVjFYaUxqSVFtMkhRdXhLalBBcVBVRUNTTC04bkVYYS1TNjZlY1NaZzM4UjVmSTJUaXNuR21PcE9wM1Q4Mk5mY1IweVVFc29fWXZKbUlEQU0tQ0pXOFJqUUFz?oc=5"
+    },
+    {
+      "headline": "H&R Block stock surges after big Q4 earnings, strong guidance, dividend boost (HRB:NYSE) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ09kMkozcmprUWJKcTM4ZXRrX2JfajFFTUZnVF9xcFM0bVZPY2QwdmpxbU91Mmo1N3NNdTdYaE5TUkJETUpabU9zX001TEUwanRYSEwtSDlTZ09TZFlyamlMQ1ZmaXlYSlJNeXMtRGZ1SlV2Q0pKTFpHNk8ycG5DMXJOLXNBbk1xdGREeVYxZFAwUGg2MTZaS2lLM2VTS3ZZV0tDTjhWVVRMR3pBNEViM0ZB?oc=5"
     }
   ],
   "insight": "Tracking Block, Inc. (XYZ)."

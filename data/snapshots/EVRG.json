@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-08-10T03:27:16.347Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:28.177Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
+    85.91000366210938,
     85.27999877929688,
     85.70999908447266,
     86.44999694824219,
@@ -11,22 +12,22 @@
     86.55999755859375,
     85.58999633789062,
     85.16000366210938,
-    84.91999816894531,
-    86.55999755859375,
     86.6500015258789,
     87.18000030517578,
     85.83999633789062,
     85.66000366210938,
     84,
     83.25,
-    83.01000213623047,
     83.2300033569336,
     83.83999633789062,
     83.05999755859375,
     83.0199966430664,
-    83.37999725341797
+    83.37999725341797,
+    82.08999633789062,
+    82.02999877929688
   ],
   "6m": [
+    76.6500015258789,
     76.37000274658203,
     76.7300033569336,
     75.95999908447266,
@@ -145,24 +146,21 @@
     86.55999755859375,
     85.58999633789062,
     85.16000366210938,
-    84.91999816894531,
-    86.55999755859375,
     86.6500015258789,
     87.18000030517578,
     85.83999633789062,
     85.66000366210938,
     84,
     83.25,
-    83.01000213623047,
     83.2300033569336,
     83.83999633789062,
     83.05999755859375,
     83.0199966430664,
-    83.37999725341797
+    83.37999725341797,
+    82.08999633789062,
+    82.02999877929688
   ],
   "1y": [
-    72.41999816894531,
-    72.41999816894531,
     72.62999725341797,
     73.2699966430664,
     72.80999755859375,
@@ -398,42 +396,41 @@
     86.55999755859375,
     85.58999633789062,
     85.16000366210938,
-    84.91999816894531,
-    86.55999755859375,
     86.6500015258789,
     87.18000030517578,
     85.83999633789062,
     85.66000366210938,
     84,
     83.25,
-    83.01000213623047,
     83.2300033569336,
     83.83999633789062,
     83.05999755859375,
     83.0199966430664,
-    83.37999725341797
+    83.37999725341797,
+    82.08999633789062,
+    82.02999877929688
   ],
-  "lastClose": 83.37999725341797,
-  "oneYearReturn": 15.133940018756388,
+  "lastClose": 82.02999877929688,
+  "oneYearReturn": 12.942312930400865,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94c3FMRWdseHZSUlVoT2NkWUtoT0V2MEFjMUlKMUZEVW9hWkFpYmszM0liRGVVZ0s4Z05YSkhNdE0tS3Y4dnpNNUFjbG90bTlw?oc=5"
-    },
-    {
-      "headline": "Evergy Inc (EVRG) Tops Q2 Earnings and Revenue Estimates - Yahoo Finance",
+      "headline": "Do Wall Street Analysts Like Evergy Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZnlabWZIX0FJX1YyY2REVGJtM210eEh0dHZGaTVvcV9NQWNIUGtWLXljMURxN3JKQjc4bUxHd0VObGpqbmhjTXFiRkR2ckZDb25Wd1FTRVR1Sy0tWk1wdlMxUHEycTRXT0xJaktoX3A4VTJuT3h3TC1EclNFMl9CUzQwMnp1TmRrdEZIenVYZzkwQQ?oc=5"
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemRibWpiVzdtVHdWWVVVV0hxZVNhbTMwOTRvNVpRYnhYdG85MmtNdUpyY0xZUXBMWTNZZzJKcFBqOWE4c1FPcUoxMnlMLWVlaE9NZTZwcmtjQm1LZEdBeDJWbDNCR21pbnVqcFJvYWJKdHdYNW9fRWhvZnZjUFNJeDBiQUJQM29UVE9xRWZRVHJ0UGZoUjJaNGIyVmZlTEU?oc=5"
     },
     {
-      "headline": "Results: Evergy, Inc. Exceeded Expectations And The Consensus Has Updated Its Estimates - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Evergy Inc. stock underperforms Monday when compared to competitors - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQjhYdGhVN01GeVFJaWFIclFYdzNZWUpoeGNNa2ZuYXh0d1FmSlZiYTRUS21haC1zajJVTDlBZVYzVFU4NjJFcTVKSENLUFlKV19VRFNfckMzaXR4bUZfODFtWnlQVWVoN3NmNHp3MEp5X3lYcUs2cUFPTzR5VTVwcTVRWW5XeHNIUXJCWXVNRDBjT0xrVzZvQm5fUGVpbF9fNHM2bVpNZGxaeHJqRmREUTZNVmVVbnI2SlJHT21HN3h3QmQtODNSNkpMb0g0UW8yS1h3VGVHQlc2VUxu?oc=5"
+    },
+    {
+      "headline": "Evergy (EVRG) Stock Holds Steady As Capex Demands Come Into Focus - webull.com",
+      "source": "webull.com",
       "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSllhQlFXR1d6MkdRSHNiam8zYjhZSXMxTmtwaHdjcDJlY0RBSkNnak1YN1VFQWxUZUR1Q2g5TmgyeHY4S2NMSUJXNTh4dmRpUmh2VC1Xc09VbkdWSkFtbXE5cjNUVnZXbEtzeTc4V1poOXpwdDMwMnRQWDNCQ2JNdF9WS2lCd19YTkJLZG9JZFVsMXFUd0MzVXM1NktiVXhFLUpxUkFrYTFINnZuRkN3bHpieFV0ZUZaaWZqMTBzcnJrSUVi0gHKAUFVX3lxTE8xZFRCR2JCMHRWcE15UVZyYWFZdlNnUTBmM0xCNmNmdkFJLVB6Y1l4UC1qNHZrWjcwYVRtVmllVDA3aGN2NGxmUDA3SVBybk9sS2xOck5QTHQ2SkMzdGpMTV9tTGQ2blloeTdxWVVKWjhuZUFwckFqRklOTWp6dXBPcTVFY18waVdRYldqYklZd19oQ1c4OHk5R2laWVNqRVFuUnp1STRkWTlXSUtVUkoyMnlzX28wckFhc2F4TGxYZ2hXMHdvSEluOWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SYnAxTkI5OUhTN0FrMWhnU3JjcUVSbGJrZi1XUUJlbWVuVGt1bmsyb0M0WWNoSVVnTkMtRGhfVmo1UjdVaVprU3Vad3dPWmQtcHM4QjB4ZGQ?oc=5"
     }
   ],
   "insight": "Tracking Evergy (EVRG)."

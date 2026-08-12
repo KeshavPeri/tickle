@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:26:54.583Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:08.022Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    133.85000610351562,
-    135.42999267578125,
     135.6300048828125,
     134.94000244140625,
     132.5,
@@ -24,11 +22,11 @@
     128.35000610351562,
     126.47000122070312,
     125.26000213623047,
-    125.7300033569336
+    125.7300033569336,
+    122.83999633789062,
+    123.58000183105469
   ],
   "6m": [
-    119.20999908447266,
-    119.77999877929688,
     118.33000183105469,
     120.66999816894531,
     119.9800033569336,
@@ -158,11 +156,11 @@
     128.35000610351562,
     126.47000122070312,
     125.26000213623047,
-    125.7300033569336
+    125.7300033569336,
+    122.83999633789062,
+    123.58000183105469
   ],
   "1y": [
-    112.5,
-    112,
     111.98999786376953,
     113.11000061035156,
     112.86000061035156,
@@ -411,29 +409,31 @@
     128.35000610351562,
     126.47000122070312,
     125.26000213623047,
-    125.7300033569336
+    125.7300033569336,
+    122.83999633789062,
+    123.58000183105469
   ],
-  "lastClose": 125.7300033569336,
-  "oneYearReturn": 11.760002983940971,
+  "lastClose": 123.58000183105469,
+  "oneYearReturn": 10.349142055868098,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "American Electric Power Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "American Electric Power Stock: Is Wall Street Bullish or Bearish? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTXY5N2xOY1RUaDVaNkRQRDFhemhZZjVCUmtnVkNTWmpNUERUdlpVcHhfSjBwUFgzcTEwQkRBX01MREE3SThNSTc3WVN2TEVzZEZfRktJdWVkbGozZnZBeHpVWFNlWnhZNnFEdDJCakF6SlBoeldaU0dETDlRTjFGZ2JtNFdrT0F3SzNaenNYazF5TWpma1hTekZZQjRCdFZv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTHA3dGYtS1FiNURjUDg3SXhFcU96SlA1UmtMelJXUHBwU3Q3djEtcU9qS2NlSmdYeFhua0VURUhQdmxTd3FtVkpQVTAwU1FaN1FUbDlweXBrVV9zTmFRX3VGV1RJTlhvQTFKVlhQZS1CTEV0NkppR0tJOHRiYzhlQkxpYi1WcmFUTi1uZEJwdVZqRTR2eHg0V1pRSm1sYjBnNldic3AtcDVWN1k?oc=5"
     },
     {
-      "headline": "AEP Declares Quarterly Dividend on Common Stock - AEP.com",
-      "source": "AEP.com",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LYmtaSklxOHRNbDlfVFVhWVJVdzlLVUNkRm9KWkxsSlprbEtudTR2MjhsOGpubzJJRUhnNENpSjFQc0dkX1pRbUFzaTVtblpabHZ2R0UzVQ?oc=5"
-    },
-    {
-      "headline": "Citigroup Has Lowered Expectations for American Electric Power (NASDAQ:AEP) Stock Price - MarketBeat",
+      "headline": "Constitution Capital LLC Sells 19,600 Shares of American Electric Power Company, Inc. $AEP - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdkE4RlU2YXN2YWxENEo4eXFnNlhITjBBUGpISlpJU2I2bzcwOFZzWW9Kc0EtcDN0YmxXMy1WWU5oUEtZdHpMcFJMelJoY29DYUVEM1dVMDl3MXUyX0FiXzZiaE9KVlctb0t1bUFoVTVfWC1ValFFWjVQaTBTMXlTZ01mNVQ2MWxnX0pKTVpFdHpuRlJodzNDdjNUZ2tqNTVpX1JNdWlTVXJvZTVXc3dZT0VQM09EOEFyQjVMWG9Ld1F6WnJ0WmUweFFqZC00dFdnU3JVYQ?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUnVhSnJfOUpCRTNYNWxxcXBkZllmSjJySzJ1c0NmT3I0VzBHYmR4OGZLdGtUaTFtLVlES2lFZ3JsQlYtd3lkcDZOQng0X05PUjdITHpuY2o5cFQ1X0VmNXJhdzVndFZvTHZZVHUyY2hYa2RPd21PZmVleUR1LVY1cnFueHYzZFpZenVhU2ZkOUpXclptaGpsQ3ROZUZLMWNZOHh4YVlQMUMwWlNDMk1DUVFodWdvSlZWaVhoQTl3X0hfNWxUVGF1bXFlSUItRENEaHp4WmJtSlBkTE1FU3ZUYQ?oc=5"
+    },
+    {
+      "headline": "American Electric Power Co. Inc. stock underperforms Monday when compared to competitors - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdjFlazQxVm9iMGdzcVR2Ynp3bkJXUWh1aldQUG40NWczWXZRdzlJUmI5RXlnSUVwR0NBblpfMWJPVUhGMFZLRWdHckNSMEQxV3dZZGt6a0VhT2tEdllERGlXcUxnRWpfYTN1RGxpMUFNMGNkbVhPcTZBdXluNUtYTS03cGJnNGVPbWVLWm9RTTQ1OFZDYlJnRFFSYTM1cC1KM0tMaVBHODBGZXR4c0xhbE9JVkFTVWItTW5CdE0yTUlCZ2hZSnRrcFVaZF9CTndBQ2Q0NWlOWEN6QXpKay1r?oc=5"
     }
   ],
   "insight": "Tracking American Electric Power (AEP)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:25.052Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:36.020Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    397.760009765625,
-    392.2200012207031,
     406,
     406.7699890136719,
     407.7799987792969,
@@ -24,11 +22,11 @@
     362.1600036621094,
     363.82000732421875,
     367.239990234375,
-    385
+    385,
+    385.70001220703125,
+    372.82000732421875
   ],
   "6m": [
-    196.6699981689453,
-    195.1999969482422,
     187.1999969482422,
     193.02000427246094,
     192.07000732421875,
@@ -158,11 +156,11 @@
     362.1600036621094,
     363.82000732421875,
     367.239990234375,
-    385
+    385,
+    385.70001220703125,
+    372.82000732421875
   ],
   "1y": [
-    266.67999267578125,
-    266.6700134277344,
     274.94000244140625,
     281.989990234375,
     281.3399963378906,
@@ -411,29 +409,31 @@
     362.1600036621094,
     363.82000732421875,
     367.239990234375,
-    385
+    385,
+    385.70001220703125,
+    372.82000732421875
   ],
-  "lastClose": 385,
-  "oneYearReturn": 44.36778557590087,
+  "lastClose": 372.82000732421875,
+  "oneYearReturn": 35.60049611321007,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Humana (HUM) Could Be 25% Overvalued As Lower EPS Guidance Clouds Results - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmdZbmIyaGpFUWpBcXc3anFyRWRNcWw4R0doemZyNDNyaGZMWktSYTV4Q3FVMDRjNmtEMHhvNFdtU1Mtb09hOTJMdktUZFVzTkJsQ3Y3MF84MmViWjhYbDJtSEJ0X0h5T0lzQ0xsU1hYcHJZUThyZFdILTRUNDBKWkhNZ1NTUm1QYWVoY2s1UHM0NWgwQVo2NE8yeFhvOXZXMDVYeWJWbTFLcUI3S0cyWTlFYXo2S04zeEVOMFI0Qy14QdIBxwFBVV95cUxQX0VRbm5nNWJwQS1lal9oLXphMGlXcjlocF85MUdRM1BwMjhCLWNoQnNIczVZeXc2dWVQWDljOVB2anhhczhZMENXVWdLT0F2NjY5dHhraGxjNWNKeUMwYU5MaHI3RjU0c0llWVZoLTZ6S1Q0Rk5mMTVBVXFRZUdkSE5XVTRRaUpHcTI0TjhlSWxoTTVLQTVEajQ2dExXU215d2dNcDVrcUdQYW0yY0RBTlFMMEljbm9QbDBCN0V1X0lpblZQUDlF?oc=5"
+      "headline": "Humana Inc (HUM) Stock Down 3.3% but Still Overvalued -- GF Scor - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2VxaWlfcEpJalhfcnVtdW0tVFFEakpwcEFHY1UwWFRORHFNNVhKVzNIcG9BNVBxcEFmLUFucjBvXzRzVGtJRmk4bFV1dzE0a0lZelJJeV9vOVd2OHlUallFYXpjeTNCN2VlYkk0eW5QTXpEQS01cUVlX3RjUmI2a2xWdEQ5X0poa25ZaVItN1BRczhKRUFqVkZkSk5xbVRLQXY4U21B?oc=5"
     },
     {
-      "headline": "Humana Inc. $HUM Stock Position Decreased by Gradient Investments LLC - MarketBeat",
+      "headline": "Humana reports above-average retention at 81% of participating providers - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzZ3V2hzTEVJM0R3eTBmSk5VREJPSHk2SXJ0bXhRWUNrT3Z6YnI2RVpxVTJyTU5qRVV4SGxRZ1VWdXp5MzBmUGhTVWpCa05lN0E4TC1xU0FCeDhpaDBmdjJuNXRpVzJFak9iMGotSXFDZ0lENHVOaEZaVjhsbURRNVhnUUJVYUJoTmNBMzJfRFBaZzRKd3ZJemNvbHFDdHVhVmNNZUVZb0hGZmpMN2d3YndyZWgzVFhweUUwSQ?oc=5"
+    },
+    {
+      "headline": "JPMorgan Chase & Co. Issues Positive Forecast for Humana (NYSE:HUM) Stock Price - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZWsxQm15QWR6N0NQcEIzUTdZYkF2aXB4TWY0bFlobnlqSEd2VWZOb3JhTmVWOW9UREdEbmJZRjJ4Q2VNNjRyeEZtRTlsbzBWZnRFZzVlMUdCcmxCZGdjaHhDY29HeTBNbmQwSVRPZWJMTnp6cjluMExqZnBYb0tDQjkzWkFiRy1aQWs4UGc5aVpXMGROUWlndFczb0dObTFwdGROblhBZ0pzdmRsOTZabEZIMEYxSXpra3ZoSURLZENSd3VIR2JB?oc=5"
-    },
-    {
-      "headline": "Humana leaves annual adjusted profit outlook unchanged, shares drop - Reuters",
-      "source": "Reuters",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdE01VmpSVUZkMTlGMHF5T0xCMnBIOFZwQWRmbXVJVFBrWnNxM3FZMHpveWZqM0dKRVZJYXZFY3lCRjg1eDVUU1FaRGpGV0ZqNUVKV2RTVjc5RTlVbkdxOVA3RVJwMUhrS3FzaHVCajRHSkpza2JfVVdiOE5ZM1Z2R3dnTVZwbDJZRUdnOHY0SmtEUmE0bzA5RTVtSnBoWG1WUDJCYXpEMkhKVl9KaDR3Z0FrVnphMVk?oc=5"
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFhXaldka3dEdUdJOVktd1dlWmI2VlVpZmZ5V1RIeE1BQjRITWNmWkRuZE5hS1JpR1dIc240aUl5eVRXd0dMbzc2SVY5S08tLTduclZXdFJrYjNqaVhxQzRGR3J5MEZlZE1rTlZURDYzY0dFd0d0a2NsUDZwOUI2X1J3QWlRbHB1cHVRN21SWFY4SF82YWJFSnB1UlF6eFRJSkNxenRtZlpmMWxpeVZYa0NrUkJ2b3htNmN3N3gzR0s5R01QNmc?oc=5"
     }
   ],
   "insight": "Tracking Humana (HUM)."

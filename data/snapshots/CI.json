@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:04.947Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:18.061Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    291.79998779296875,
-    293.4599914550781,
     304.5,
     303.3500061035156,
     297.80999755859375,
@@ -24,11 +22,11 @@
     274.04998779296875,
     270.5,
     275.25,
-    282.489990234375
+    282.489990234375,
+    278.3999938964844,
+    273.8699951171875
   ],
   "6m": [
-    271.2699890136719,
-    274.1099853515625,
     271.5400085449219,
     275.3900146484375,
     271.7099914550781,
@@ -158,11 +156,11 @@
     274.04998779296875,
     270.5,
     275.25,
-    282.489990234375
+    282.489990234375,
+    278.3999938964844,
+    273.8699951171875
   ],
   "1y": [
-    274.8999938964844,
-    277.0400085449219,
     280.4700012207031,
     287.1000061035156,
     290.3500061035156,
@@ -411,12 +409,20 @@
     274.04998779296875,
     270.5,
     275.25,
-    282.489990234375
+    282.489990234375,
+    278.3999938964844,
+    273.8699951171875
   ],
-  "lastClose": 282.489990234375,
-  "oneYearReturn": 2.761002730596165,
+  "lastClose": 273.8699951171875,
+  "oneYearReturn": -2.3531950207830072,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Are Wall Street Analysts Bullish on Cigna Group Stock? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNVJWTVFOVGV0Y2gyLXJKTE1FVW0tQ1kyNjhoaFZZVk4yUFR5UU1WUUI4b2FDUTRrdXhVS21KQThIN3k1di1jYlYzckdxRjNFZXVtcjAzZDBRT1B6UTFlU2czbnhXUmhSS05PT05WdjRiSjJ3WXNQTDJ0WlMyd2FNYkF5c2hiWl80Z0stc3R4cHdSSU5VVGlMUzVLNmlyUQ?oc=5"
+    },
     {
       "headline": "Cigna (CI) Stock Still Looks Cheap Following Raised 2026 Outlook - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjdobHV2TTNVREp6eXNIcWdGQVhuQ20yMUoyeWd2N3BYYkR2ZlNNY0NIOFJaU0JKZllmWTU5NHFYREFsakhHWVJHZVhZdmVnUHJGSUdocnFqQUFSWExTZzU2ZWRMZEVERVJoSTdNWTZaclAwMEZQcWZwZDRUNk5sUTZhRFdVM0JBVEYtV094MWpldmFzWnc?oc=5"
     },
     {
-      "headline": "Cigna Beat Earnings and Raised Guidance. Why the Stock Is Dropping. - Barron's",
-      "source": "Barron's",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsOVRVNDdEY0NUOGFkLUphalF6LW9KTDNOemVEVkk4REwtZkZYaTBxdndBckRRQ0t4dFh2eWlBMHhmVVNxLXAxLVNGSkI1dVNOZkpMeHNBd3NiNGFzU3Q0cTRnT2lZRnVsN3o4M196WDFXeEo3VG04?oc=5"
-    },
-    {
-      "headline": "Cigna Stock (CI) Opinions on Recent Analyst Downgrades Following Q2 Earnings - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY24wdTU2VTQzUnBBWXdyT3lIeklPV3k4NUVvM1MxRjB2ZHdCNUFkM1ZFTnRjTnh5S1R2MkJmbG9XSmRRSXBVSm5oX0JuQkdsMFJ4WkVrTVVndVZfSmpnTGpiRERUVWphRS1zdVpDVElCTGs3YUN0bFoyS3Z0ZzUxMmFLVVR2ZVBVLV9HSExlMWZ0dU9QNVBZOVBpUDYycWZZZTJxcU1fUVB5R1JjYjdGNjZxZw?oc=5"
+      "headline": "Cigna (CI) Stock Looks Undervalued As It Raises Full Year Outlook - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVG9IOXFMNkVSeVh3Ylh0UUJrcV9BN2dJMkh5dndsRnE0V1dMaGNSQzdEV1loSTlUeURiRlFQanVoYi1oVm5ZMGdUVXBQdFFLRGdPakgxOGs2TGdFRXZDODV4ZWI4dTVwZENGWklZYVoyV1hSMG1wQ1UzRkhRdnAyZmxtZ3d4eXB5ZkJjNl9hNUhkMWxnTUtmUnNjSEE2V1dpWDdKOTVrNFJhbnFfMDRGM0hLcDc3cFJwTFNQdGM2OFo2ay1sSTNDdFotbULSAcwBQVVfeXFMUFRvSDlxTDZFUnlYd2JYdFFCa3FfQTdnSTJIeXZ3bEZxNFdXTGhjUkM3RFdZaEk5VHlEYkZRUGp1aGItaFZuWTBnVFVwUHRRS0RnT2pIMThrNkxnRUV2Qzg1eGViOHU1cGRDRlpJWWFaMldYUjBtcENVM0ZIUXZwMmZsbWd3eHlweWZCYzZfYTVIZDFsZ01LZlJzY0hBNldXaVg3Sjk1azRSYW5xXzA0RjNIS3A3N3BScExTUHRjNjhaNmstbEkzQ3RaLW1C?oc=5"
     }
   ],
   "insight": "Tracking Cigna (CI)."

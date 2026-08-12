@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-08-10T03:27:16.349Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:27.949Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
     113.93000030517578,
@@ -11,8 +11,6 @@
     114.87000274658203,
     113.23999786376953,
     111.91000366210938,
-    112.22000122070312,
-    114.87999725341797,
     115.80000305175781,
     115.94999694824219,
     113.76000213623047,
@@ -24,7 +22,9 @@
     108.86000061035156,
     106.86000061035156,
     106.48999786376953,
-    107.18000030517578
+    107.18000030517578,
+    105.6500015258789,
+    106.56999969482422
   ],
   "6m": [
     96.02999877929688,
@@ -145,8 +145,6 @@
     114.87000274658203,
     113.23999786376953,
     111.91000366210938,
-    112.22000122070312,
-    114.87999725341797,
     115.80000305175781,
     115.94999694824219,
     113.76000213623047,
@@ -158,11 +156,11 @@
     108.86000061035156,
     106.86000061035156,
     106.48999786376953,
-    107.18000030517578
+    107.18000030517578,
+    105.6500015258789,
+    106.56999969482422
   ],
   "1y": [
-    90.47000122070312,
-    90.08999633789062,
     90.88999938964844,
     90.9800033569336,
     90.29000091552734,
@@ -398,8 +396,6 @@
     114.87000274658203,
     113.23999786376953,
     111.91000366210938,
-    112.22000122070312,
-    114.87999725341797,
     115.80000305175781,
     115.94999694824219,
     113.76000213623047,
@@ -411,18 +407,14 @@
     108.86000061035156,
     106.86000061035156,
     106.48999786376953,
-    107.18000030517578
+    107.18000030517578,
+    105.6500015258789,
+    106.56999969482422
   ],
-  "lastClose": 107.18000030517578,
-  "oneYearReturn": 18.470209858523518,
+  "lastClose": 106.56999969482422,
+  "oneYearReturn": 17.251623292409874,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Entergy Corporation (ETR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UZHVJZndmYlBfbV9CWTk2cFBGT0VDUFQwQUlZMzNaeGg4N2R5R3dGLVp5V0JUOWtTLW1LY19JSk5tYy1qUXU0V2pMdU5lbl9Z?oc=5"
-    },
     {
       "headline": "Entergy reports second quarter 2026 financial results - Entergy",
       "source": "Entergy",
@@ -430,10 +422,16 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQODdOeEtHbFpFZWdxRUs4bHJMeGZhNWVMQ1E1TFVLVkEzdlRFajZRd1BTSDlYWWQzNnlFelFMVlBIdGNXY1FMX3lJT3hIS0N2UWR5MzlSTnR3YklDVmNXTGE3VDJFbHQ3ZFBQSFRWaC1DRmVBV2VSTmZYWFp2Q3VIeFhjcWEzLUJSbHc?oc=5"
     },
     {
-      "headline": "Entergy director Ralph Ropp buys $106,075 in company stock - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWp4clNVY1hBbWFRczlPbUlQVVRTbEZHanhnWnZuM0ZJeDJUOVNVTnlnYkRWSzlQbllYZTlGRFRkUlEtR25rdmJkRTBfUE9MODJQQmNSYjZtMThJdC1zOEFhYm4xdlNpZXJNdEdWSU12RzNuY1BxVVFuUnhud0dUSlhnUVJucjFMOVpXNURHSF9hMmZMYnB4TExIdmVnd1loSFd5WHNUVk81WUxxQi1BSGhpUWNaNGlzdUF6NXJR?oc=5"
+      "headline": "Entergy Corporation (NYSE:ETR) to Issue $0.64 Quarterly Dividend - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSkVQb2hheTNIN3R2c2tmaVR3NVhBZUdzZ01aWjZPZTVyeUdFZ2FDZGJqdjROeEd4ODl3c0RHeXhaTS1CRlFMWS1qQk96VWYzWVBTY2ExT3ZhNHdqcGJFaFZKRU5ramVDMDFMeVY0Z1pIbXduR3dCSC1ON2xEdTJlaWxlWk05WF9uMWdYYkdheXlxaGxTdnpodW1ZTVROVi1YeVNMT1dON0dVeGdjYW5KTnhWaw?oc=5"
+    },
+    {
+      "headline": "Entergy Corp. stock underperforms Monday when compared to competitors - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN2hmalVTbk9oeU5LaGJGbGNsOGttX2czY21jZW51QjlZMS15N3FudWxYTGVoVUVzUXREWDVHdkh2TkluaVdIUWx2LXktMDVZMTlaQUZyU284bWFIcEE2ZUQ3OXJHeEFDa3RPeGdZLVhpU01PUTZ6REtxTGttSWg0RUNRNllaRjc0U3BEV2s4V1hHLUo5eTJpWmdIRmUyS01BZEYzMVdtcDZwdWtoSkhidFVYZTV6SmZFRUNyOWtINm1yQmhxS0NJ?oc=5"
     }
   ],
   "insight": "Tracking Entergy (ETR)."

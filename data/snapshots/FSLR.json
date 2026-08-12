@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:19.543Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:30.978Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    228.5,
-    227.8300018310547,
     221.02999877929688,
     220.5800018310547,
     223.82000732421875,
@@ -24,11 +22,11 @@
     243.6300048828125,
     236.8000030517578,
     244.13999938964844,
-    250.0500030517578
+    250.0500030517578,
+    239.3300018310547,
+    240.91000366210938
   ],
   "6m": [
-    224.00999450683594,
-    225.52000427246094,
     230.5500030517578,
     239.0399932861328,
     238.05999755859375,
@@ -158,11 +156,11 @@
     243.6300048828125,
     236.8000030517578,
     244.13999938964844,
-    250.0500030517578
+    250.0500030517578,
+    239.3300018310547,
+    240.91000366210938
   ],
   "1y": [
-    184.64999389648438,
-    182.1300048828125,
     184.72999572753906,
     184.83999633789062,
     180.0500030517578,
@@ -411,29 +409,31 @@
     243.6300048828125,
     236.8000030517578,
     244.13999938964844,
-    250.0500030517578
+    250.0500030517578,
+    239.3300018310547,
+    240.91000366210938
   ],
-  "lastClose": 250.0500030517578,
-  "oneYearReturn": 35.41836518659024,
+  "lastClose": 240.91000366210938,
+  "oneYearReturn": 30.41195757803785,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "First Solar Stock Powers to the Top of the S&P 500 as Regulatory Decision Approaches - Barron's",
-      "source": "Barron's",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzRiNThaN3Q4VnVnaUZDUFNjMmt6NXJhMk5pNm5CYXBMQWZlTENUMElHOGpCczlhRVNrVDRMRDFuRUxNdzlOSmE1ZDhzODM0UGVwSFJYbVVQbmxuNjlrT3BwYW13RG5kaFdwS2FvLVZheGtyOGVoRVQyUEVMUmI4RWZRcw?oc=5"
+      "headline": "Baird Just Upgraded First Solar Stock. Here's Why. - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3hFdDBkSUEtbTYyTTlrQXVTeGNKdE51MHM1QThYVk1ZcDI1Rk1ybjJxMG02WU96V0ltckJ6bnNUR3p6VVdVTTRmcjlIclp3bktUWDhZc09HNGtRWTFSZ1BYR0swRjVXdXMyeFpJMmhCZXVURm9RbENuTDN2S0RWOHB0LUM3cG9IOVR0cDRKd3hnUU5XWEdF?oc=5"
     },
     {
-      "headline": "ETFs in Spotlight as First Solar Shares Jump Post Q2 Earnings Beat - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmVlZEdPVkhXZHlnTDJLaHVYLU9hVnFOZlBpd09jZVZMM2pNZDAzYmFGQkd4N20zd0JjVV83N2YtWTkyNklES3gzTlI2a2Q5RjlQd045bHFDRV92SUh3NUd4OU1vTzF3RjNxbDBXcjdqMjRNNllXMnZzazNlTWxIV3pxTHVVSDhGNHJWb0oyV05MOU5mdWRvT3IxTlRCeE0?oc=5"
+      "headline": "First Solar Stock Scores Another Impressive Bull Note - Schaeffer's Investment Research",
+      "source": "Schaeffer's Investment Research",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGN6QmJmbGJabTBYR25uc0ZWcTl2VEZ6RzZoRl9OVVRDWnBCb2pZM3A0ZjVFM1dWLV9VSVJzdS1LUGFwTHVaR3RUc25EY1RHaHM0MmtRLU9EVjhRUXA1c2tYM09BcUpWLWFzNnZsa0taR3VQWmhYYmJETUx1VTBnM3hrS2FNQy1OTmhHQUl1azFicXVzVlkybEJxVzV5NXp0dFVQMnZFRmFvZ3oyQ0ZrYmV3?oc=5"
     },
     {
-      "headline": "First Solar Shares Jump 7.73% After Hours on Trump Polysilicon Trade Action Support - First Solar (NASDAQ - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY3F0R3JvS3RMYzh6eTN5S0RjaUg0czZpb2ZsR2ZLQkVzeVRMTUhjY1c0cUZTR29uOGswdFE1ZklmVlkwYlh1OVg3dklRZFdqa1dudGNudmVpUXRTeEdkcm9iSGNpRWt0Y0o5cFB3OGdDbXpvYXJkcFJ3N2tYYUhndVFFam1vSURCUnR5dXMxWW4tbENMbTJOckJLUVhjR05YNThoNEhLVXp2cU1pbWxETFRQenItSlBxT3g2cnJEaGM?oc=5"
+      "headline": "First Solar (FSLR) insider plans 3,700-share sale and details RSU vesting - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFVEdHBNb0xWVGJmbmpzMFl1dmFkY1NiT2FGbUZXU2JzSlh1ZGZPQ0RpZWwxenlicGwyVnpicmNmSUlmTmE4WkdzRkV6LVRRMlNmbE1GdFBVQy0tREQ1czg2eGV6TTdZanBCX0lvSGJwdFNpQ3FJel9EaUhkSmtmemRMRFJoekpOeGQ2QW5YUkNvRF9VTm53?oc=5"
     }
   ],
   "insight": "Tracking First Solar (FSLR)."

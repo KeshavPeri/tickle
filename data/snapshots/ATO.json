@@ -1,8 +1,9 @@
 {
-  "builtAt": "2026-08-10T03:26:58.643Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:12.359Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
+    177.08999633789062,
     174.72000122070312,
     176.1999969482422,
     179.5,
@@ -11,22 +12,22 @@
     178.0399932861328,
     177.67999267578125,
     177.3300018310547,
-    175.0500030517578,
-    178.47000122070312,
     178.0399932861328,
     179.22000122070312,
     178.22000122070312,
     179.3800048828125,
     177.6699981689453,
     174.25999450683594,
-    172.77999877929688,
     172.88999938964844,
     172.64999389648438,
     172.1999969482422,
     171.97999572753906,
-    170.19000244140625
+    170.19000244140625,
+    167.9199981689453,
+    169.2100067138672
   ],
   "6m": [
+    166,
     166,
     166.33999633789062,
     166.52000427246094,
@@ -145,24 +146,21 @@
     178.0399932861328,
     177.67999267578125,
     177.3300018310547,
-    175.0500030517578,
-    178.47000122070312,
     178.0399932861328,
     179.22000122070312,
     178.22000122070312,
     179.3800048828125,
     177.6699981689453,
     174.25999450683594,
-    172.77999877929688,
     172.88999938964844,
     172.64999389648438,
     172.1999969482422,
     171.97999572753906,
-    170.19000244140625
+    170.19000244140625,
+    167.9199981689453,
+    169.2100067138672
   ],
   "1y": [
-    164.2899932861328,
-    165.0399932861328,
     165.72000122070312,
     166.97999572753906,
     166.1300048828125,
@@ -398,30 +396,29 @@
     178.0399932861328,
     177.67999267578125,
     177.3300018310547,
-    175.0500030517578,
-    178.47000122070312,
     178.0399932861328,
     179.22000122070312,
     178.22000122070312,
     179.3800048828125,
     177.6699981689453,
     174.25999450683594,
-    172.77999877929688,
     172.88999938964844,
     172.64999389648438,
     172.1999969482422,
     171.97999572753906,
-    170.19000244140625
+    170.19000244140625,
+    167.9199981689453,
+    169.2100067138672
   ],
-  "lastClose": 170.19000244140625,
-  "oneYearReturn": 3.591216383457871,
+  "lastClose": 169.2100067138672,
+  "oneYearReturn": 2.105965162597441,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Atmos Energy Corporation (ATO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hQktHYmx0WGFDX0hnY2pMYjVmLWpQQ0xlM2VTOTdvNlJqRERJTE0zSlpwYU5QYTFWbzRxVktlS0lRQ2FzN0ZqdnQyX0U3NnNz?oc=5"
+      "headline": "Law Firm Partner Plans Retirement, Joins Atmos Energy Board Sept. 1 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDJfUzJPWXVCOXZhckFWQWdYaUNORGtSRzFWTUVfcG9vS2ZRREhBYi1vaVlnUG5uRnFsN3ctcGVWNTEwcmtsXzRSd2o4OWdDOWg3QnpUZkttZWFHUDNlOFptMEprNkRxOElQbEtNTEQ5LTJlV29vMnFqYUhsOUktak5Ua3hrcVFNMGxZdFNrc3EwYUNEaE9EQXUxekI5X0FMT21qYXd5SU05ZFBLcnBOZU9qU1RzbzA?oc=5"
     },
     {
       "headline": "ATO Price History for Atmos Energy Corp Stock - Barchart.com",
@@ -430,8 +427,8 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzcEVyMzBJMUp6VkxqUUpVNlJkcjNSMUxvc1k0eVdNY0F4TE4tWUQ4Qmlfamk4TlRjQ2ctNmRIc2tyNlFDUzB6eGpSa2JoS2MxZmlmZ3EteVliRk0zaW5lMS13QWp3S1B0bWFnd0piN2IzNDh4OXc?oc=5"
     },
     {
-      "headline": "Atmos Energy Corp. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "Atmos Energy Corp. stock outperforms competitors despite losses on the day - marketwatch.com",
+      "source": "marketwatch.com",
       "when": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdDFvZHJCaTVWVmJnb0ViSFRtbVRsQTVBcHZxajUtUzJHWmVwM25DZGFLVGxERFlEdHZwcFczangtWUdobW42dmZkZTJCY2EwaFFudlpzM2RVUTQxdUpJSTluekdsS1g3Sm5Mc3pKWDRRMWRRbldkYjdnOVRrUGhvT0pLTFRWSUZyUnA4OTdLTHRqRTZSdXBFN19GNlhzci1Hd0xFRFVEcURRX3VQSFBOV2NqMlczal9jSUZZXzJTRzAxdnNnbFlyVWV5MVlQYnJYNW9XdWFsRDZjYkM5MmIxUmFsSG9IQQ?oc=5"
     }

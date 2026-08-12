@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:26:56.095Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:09.444Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    588.6599731445312,
-    602.5,
     575.3900146484375,
     595.7000122070312,
     579.4299926757812,
@@ -24,11 +22,11 @@
     546.6199951171875,
     534.239990234375,
     527.47998046875,
-    539.1400146484375
+    539.1400146484375,
+    522.1199951171875,
+    525.6099853515625
   ],
   "6m": [
-    341.3399963378906,
-    322.32000732421875,
     328.3999938964844,
     318.6700134277344,
     297.6000061035156,
@@ -158,11 +156,11 @@
     546.6199951171875,
     534.239990234375,
     527.47998046875,
-    539.1400146484375
+    539.1400146484375,
+    522.1199951171875,
+    525.6099853515625
   ],
   "1y": [
-    184.8699951171875,
-    184.3800048828125,
     188.4499969482422,
     190.02999877929688,
     188.24000549316406,
@@ -411,29 +409,31 @@
     546.6199951171875,
     534.239990234375,
     527.47998046875,
-    539.1400146484375
+    539.1400146484375,
+    522.1199951171875,
+    525.6099853515625
   ],
-  "lastClose": 539.1400146484375,
-  "oneYearReturn": 191.63197321808835,
+  "lastClose": 525.6099853515625,
+  "oneYearReturn": 178.91217504021574,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Applied Materials Stock: What to Expect From Q3 Earnings - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2dFTmp1T0E0MjlLMzU4YlVhUVRKbTBSNmJkSXpsR0c4YU5lWE5QcV8xUENOOUtQRDl3Wm1OTHVUZUVGOGQ1UU00TWhzbEZLOWZhbHNnV1hZVE5RUEVlWkNvZ283Rm9PWENFR3E0MjJNX0Y0bFNHZUJDXzZ3RW4xVEV6SFpvSm9zemlPWVBkeFI0RWhLVVh1UWMwdVRjRnQ3aWp6Sk56MjUtTjBxV0g4MGUtMGN0S0tBMGpLM1YzaDlqcHM?oc=5"
+      "headline": "Here’s How Much Applied Materials Stock Is Expected to Move After Earnings - investopedia.com",
+      "source": "investopedia.com",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVVFhSlBfamxfa01GVk9yR0FaS3JoWDZwWWtXdm4xc3JGYXlGYUY0X2JwMmRadVBNYktYLXQtMHNDenc3aGJ3WkdJX0pVLTFFZFk2aHRmNWJCUnpCTU5oczl5czk4c3EweENiTklZQU1OV3o1eVBWVzdLTEpIX25iRDVycE1KbFdHNHk3RFo3MGRpZElqUktYZXd5eXZUOTdSV1cxbGlnczZrS0ZnMlV5SkRTUGRzM0EtcWZ6YnRIM19QYUMzM29N?oc=5"
     },
     {
-      "headline": "Applied Materials stock splits: History & prospects explained - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FMnd6OTgwb0JZOE1jT0FiQk5YNjQxTHZESnZZU2R3SzhUUE5oRlpDRHJQTHVkUXgtNFhOWkpFTUZJV3dDNTc3NWlvWEwtX19PSVRFc3RlbUI2T2w1d3JSV0EyWU5hd3Zaa21aMU9JSmRRTEctYkhoekxYYzJVUQ?oc=5"
+      "headline": "Should You Buy Applied Materials Stock Before the Huge Investor Update? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORmlSa1B3aFZhTjVxTW9ITEVHTGdMZm1LQ1NQcGEwYmpoUDB0UTd2SW1FbzNDM1FTcFh0YXJUVUcwb01VN0wxSEFzZ290d21TYnV4bWlLeGk3eTdZbHpBR2xXNHRUbkFwN2lBUVpnUDRYNGZULUpYWHY1VUlQX1lKM1Q5ZFdVR3h3T1lNRkR0eGVFRlk5b1lN?oc=5"
     },
     {
-      "headline": "Applied Materials (AMAT) Stock Faces Fresh Scrutiny After Michael Burry Short Bet - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMzZxNzQ1clIzbVVWVWhJcXVRbXBIcFp2R1ZSdDJjWFNWQTNHQ1loMzB0UmZTcFN3S2dMb0R5TTJmTnJiRVBSTkJWRUJwTjc5dkFGWC1LZlVCc19jZjFjOXpFbTFJZzVTb2NuT05kVG5aMm1TM3BrLWlyWG40cE1janMyenVTeFhMUVJLa1RCa0FZcmhJdkRCWkp2NEVJRGdM?oc=5"
+      "headline": "Is Applied Materials (AMAT) Priced For AI Demand Or A Premium? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdE1vUEhLSUphQ1hZNkJPOE5zcUt2Z2RKajZFZ3ZoU1FYbUlka0dtNXRKbWVsaHVyRWJla2ctSTBTTk5MdW1UVlVmd0hHdGZWX1NDNWd1dC13a05pSW9jZGFZVVlSTGRHWmZuRWdaQ0JVdGpzOEc3SHhhRndXenFnSWhTdExwQjR3cFAwcHBud1FlTWxHTFVkNDV1R0lSWnRJT2FXR0hUQlRMYzJVUDhRXzRiMGtEajVVcWxjMVVjdWNnckZ5Q0xMWjByZlV6YW5GRWdKV0ZDckFhaDRPZHfSAd4BQVVfeXFMTnRNb1BIS0lKYUNYWTZCTzhOc3FLdmdkSmo2RWd2aFNRWG1JZGtHbTV0Sm1lbGh1ckViZWtnLUkwU05OTHVtVFZVZndIR3RmVl9TQzVndXQtd2tOaUlvY2RhWVVZUkxkR1pmbkVnWkNCVXRqczhHN0h4YUZ3V3pxZ0loU3RMcEI0d3BQMHBwbndRZU1sR0xVZDQ1dUdJUlp0SU9hV0dIVEJUTGMyVVA4UV80YjBrRGo1VXFsYzFVY3VjZ3JGeUNMTFowcmZVemFuRkVnSldGQ3JBYWg0T2R3?oc=5"
     }
   ],
   "insight": "Tracking Applied Materials (AMAT)."

@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:35.933Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:45.875Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    97.87000274658203,
-    95.95999908447266,
     90.37000274658203,
     93.7300033569336,
     92.54000091552734,
@@ -24,11 +22,11 @@
     80.77999877929688,
     76.91000366210938,
     78.33000183105469,
-    81.16999816894531
+    81.16999816894531,
+    79.77999877929688,
+    81.11000061035156
   ],
   "6m": [
-    62.20000076293945,
-    59.88999938964844,
     61.529998779296875,
     59.43000030517578,
     62.060001373291016,
@@ -158,11 +156,11 @@
     80.77999877929688,
     76.91000366210938,
     78.33000183105469,
-    81.16999816894531
+    81.16999816894531,
+    79.77999877929688,
+    81.11000061035156
   ],
   "1y": [
-    47.65999984741211,
-    47.099998474121094,
     50.0099983215332,
     51.88999938964844,
     51.619998931884766,
@@ -411,12 +409,20 @@
     80.77999877929688,
     76.91000366210938,
     78.33000183105469,
-    81.16999816894531
+    81.16999816894531,
+    79.77999877929688,
+    81.11000061035156
   ],
-  "lastClose": 81.16999816894531,
-  "oneYearReturn": 70.31052964502425,
+  "lastClose": 81.11000061035156,
+  "oneYearReturn": 62.18756915140183,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "[Opening Market] KOSPI Surges Past 6,400 on Semiconductor Rally - Businesskorea",
+      "source": "Businesskorea",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LMWNpYmVWaUk3aVI1TEJ1aHktQ3NNZzhoZVlPU01hYXVxaUR2TVgxSmZsRjhLSDF2QXFxZVJ5MkpmU2lBQ0lJYTdELVEwN2JNRVlQcHVWMnV5TW1tMExWY0h1cGVOZE9NLXZxaUpoUHRLNWcz?oc=5"
+    },
     {
       "headline": "Price Prediction: ON Semiconductor Stock Looks Ready for Its Next Move - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSU54VUtndmh3aWZSeEpqRUFQbnhnQ203VUZtQ0dxWU4wX2k0SVNvUXA2QXFseWkzS3Z1SWhnSFB4dnQwTW5FTzBiTXRYNVdXbkpoNzdpLXJIc0hKY1hUWHFiR0libk5RSDY5OUs2VGttblBKWnBfZTBkVV9YbHlvdmpaa28zLURiZVdiN0d2SUZmNTlYSXlVVW9WN2VjNlF3YjFuTTZRZEJ3Znc?oc=5"
     },
     {
-      "headline": "Why is ON Semiconductor stock slipping today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLUlfTm9jRmdUZTVneEYzLXAzNXZCUG1rN3U1cGhNaU9kU25hVVIwb0w4VlctcTZpTXotX2lDdVN0eTR6dTZBS0ZCeW9RRjFfZ2tJN2VLQzRUbWdVQ3BSTmN6WFBJakkwYWtwbnRRTXprbXJzSWtCUVhEeVY4NHU4VWxDSm5sSklJaXNyLXVmeDJIZ2ItNk1vMnVEUzhGNXRUcHVPdXlJLUtUUQ?oc=5"
-    },
-    {
-      "headline": "On Semiconductor Rises on Solid Earnings Beat as AI Data Center Revenue Grows - Barron's",
-      "source": "Barron's",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjBZVVF0RnlQTFU3WURXTjMtRFZ5MVJRUlFKSFM3S0JIbTdjcXZkWnREVVFYSFNORXVxanBIVUdDUXpaRU5QRHA4QklreTJnM3dRcGNMcTFXNnlYSVRtSVRSVnROdjhhaDYzR3JmY1dyVHpBMVdxS0YwenQwcEs2b2g1cldHdw?oc=5"
+      "headline": "Why One Prominent Analyst Expects 85% Returns for ON Semiconductor Despite Current Turmoil - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaWJHb3h5MDVUUmU5V09KY3JnWWl2Z1RTMUU3UGpLcDJoZDN0eEQ3cWU0UDdjRXRfZTBOcjZZZkJ3UThlbEZSb2otN0Q5T2JPYXVwVHBmeTgwU1VGX2NPNHZQSnlUU0I4bGloTG1ORFNBek41amtidWJZbXNzVWVKZ1VibS12SHdVU21XVnRPMkwtRERhc2pXeEs3S0ZGdkNseFhsWUJLbWNaaW1QSG9QRVozNG11STVJWXFLQ3A2cXBkYmdvQWFzTDV0SWx0Zw?oc=5"
     }
   ],
   "insight": "Tracking ON Semiconductor (ON)."

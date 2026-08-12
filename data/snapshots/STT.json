@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-08-10T03:27:40.849Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:50.336Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
     180.16000366210938,
@@ -11,8 +11,6 @@
     185.66000366210938,
     182.5,
     182.5800018310547,
-    183.3000030517578,
-    185.24000549316406,
     184.2100067138672,
     185.39999389648438,
     184.66000366210938,
@@ -24,7 +22,9 @@
     185.22999572753906,
     187.0500030517578,
     184.9199981689453,
-    184.67999267578125
+    184.67999267578125,
+    186.67999267578125,
+    187.22000122070312
   ],
   "6m": [
     131.42999267578125,
@@ -145,8 +145,6 @@
     185.66000366210938,
     182.5,
     182.5800018310547,
-    183.3000030517578,
-    185.24000549316406,
     184.2100067138672,
     185.39999389648438,
     184.66000366210938,
@@ -158,11 +156,11 @@
     185.22999572753906,
     187.0500030517578,
     184.9199981689453,
-    184.67999267578125
+    184.67999267578125,
+    186.67999267578125,
+    187.22000122070312
   ],
   "1y": [
-    111.08000183105469,
-    109.83000183105469,
     111.41999816894531,
     111.5,
     113.5999984741211,
@@ -398,8 +396,6 @@
     185.66000366210938,
     182.5,
     182.5800018310547,
-    183.3000030517578,
-    185.24000549316406,
     184.2100067138672,
     185.39999389648438,
     184.66000366210938,
@@ -411,18 +407,14 @@
     185.22999572753906,
     187.0500030517578,
     184.9199981689453,
-    184.67999267578125
+    184.67999267578125,
+    186.67999267578125,
+    187.22000122070312
   ],
-  "lastClose": 184.67999267578125,
-  "oneYearReturn": 66.25854306040367,
+  "lastClose": 187.22000122070312,
+  "oneYearReturn": 68.0308780267819,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "PensionDanmark Pensionsforsikringsaktieselskab Acquires 5,775 Shares of State Street Corporation $STT - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQ1AwUkpEdVFMZHZjMEZnUUk4dWdJSFBOXzRTOU13NXViLXotQVNDRWpVY21LVGxWbVJRUldlX0JDZF9WNEV3WkFzcVJWbHh6WmtEMEIwSWdKcUdKeks1QnZzdTBZaUN4ZWVTUUcxMkVfTkVyNnNaQVpHUEU5d3BJeEI3aUtlSFQyY01FeEFlZ0JoZjdIclA5cHFsWUNZanRnM0ZoZDJYOFd3RjhkZmxJT25lejNnT3h4UDhMTldGQWhITEE1SG1mSjZ4Ny15bUpHbU85TUlyOVdsTFhwX2xWTTJhMmJaNWFwbFkwY3docGhlUQ?oc=5"
-    },
     {
       "headline": "State Street Corporation (STT) Is Up 1.27% in One Week: What You Should Know - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +422,16 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHFwZEhWMEFVTllhUTgxUnl6NU9VMUdCZ3FyejlWLUpDakwtSnN3MWpjdDlOa01LR29kYVZBak5WNWI0VVY1RzZGQmVrQUJkMW5ZQzExLURCd2pidEVCUG1KSnRHR2JpQm5CeUlTbWdtOTFoSERhQnp1cnEyWE5jaG04WGg1ZmprSy1YRVZDQ0VzdjBmVTJ5ZG9tWQ?oc=5"
     },
     {
-      "headline": "State Street will release 2026 results at about 7:30 a.m. ET - Stock Titan",
-      "source": "Stock Titan",
+      "headline": "Hennion & Walsh Asset Management Inc. Buys 8,841 Shares of State Street Corporation $STT - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWXFpUWlidXBmSjhJdGl2N21wUHYtYlJxZUl2NEFUczNYSDN2cVd3M2dtM3dHcnBMdkRWNGxESEwyY1o1QzYxWnFjODdYMmRrZ0E1R3NyTmYzMy0yTWVkZDNXYUl3OUplVDRsUDZ3MlBobF9uTXg0RU9JOWJXQm9QMU8tT0RBVnZXd2ZyWElRcVp1bGhxTnNqZ2JCMHlJc2tXR1c2c1l4UVZPSEotTmUyRk1HTjRnY0F5SzRKQ2ZtTG5EYnpsUHlVZ2JQNVY3NUxfa1NjWERQb19FWUVH?oc=5"
+    },
+    {
+      "headline": "State Street Corporation (NYSE: STT) Announces Remaining 2026 Quarterly Financial Results Release Dates and Conference Call Webcasts - Business Wire",
+      "source": "Business Wire",
       "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlZ3VF82ak5iR3Jadm9SdGFvdW1IMzg3Zm52T1B4bTQ3WWlNY05GdDA4NjBHVkdGQ0NrVHk1cnZzazg4TkVBN2t5YXlReEJQTnRreG80d2FIdE9WSlhCM25XMm9wWks5RTZTNFZRdDB5ZUFxZGhBQkV4VWRLek5LWmVvdW1vUElxWUY0Z3ZpWjEtWVBoZnBqenh3TW50UWtCWlI4WHhQbjZaOXZudXc4aGpMcEtVWTAzNUM5eGt3MA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPN1loRmR0blZaQmE1MDVBcEoyemxsT3JvbDg4eDN2RkpuQVNqNWJGWUhGZ1RPY2IzMFpXN0diUlpnZXhETzBnS09zSXdJMFNQMGNONE9ZWFd4M244MTRSR2JaQVhQdUF3M1laVHhRTTZTNW43MThUb3BVSGltQjhucUprOWF3RGdKOWdFekkwYTM0TlFkMXRodzRXaWlJQS1tdG5nLVNrdVhDVzFGTy1YanVHS1N4ZUVPMlpZd0gxZkdJOFFxOTAzMnlUV1JHWDR1clV1UUlfd1BhOGZkVFZiOTNLYWMzUlJyUDVrak9FR085M1J4SGZRaTJXQXlWcGhORVNjX1lqNXJwNHdJUDQyTDdqSFg?oc=5"
     }
   ],
   "insight": "Tracking State Street Corporation (STT)."

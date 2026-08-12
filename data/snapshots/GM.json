@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:21.240Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:32.597Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    76.6500015258789,
-    77.8499984741211,
     76.72000122070312,
     76.87000274658203,
     77.63999938964844,
@@ -24,11 +22,11 @@
     88.30999755859375,
     89.16000366210938,
     86.94000244140625,
-    87.58000183105469
+    87.58000183105469,
+    87.95999908447266,
+    89.3499984741211
   ],
   "6m": [
-    86.26000213623047,
-    84,
     84.2699966430664,
     85.70999908447266,
     86.29000091552734,
@@ -158,11 +156,11 @@
     88.30999755859375,
     89.16000366210938,
     86.94000244140625,
-    87.58000183105469
+    87.58000183105469,
+    87.95999908447266,
+    89.3499984741211
   ],
   "1y": [
-    53.529998779296875,
-    54.0099983215332,
     54.15999984741211,
     55.58000183105469,
     56.41999816894531,
@@ -411,29 +409,31 @@
     88.30999755859375,
     89.16000366210938,
     86.94000244140625,
-    87.58000183105469
+    87.58000183105469,
+    87.95999908447266,
+    89.3499984741211
   ],
-  "lastClose": 87.58000183105469,
-  "oneYearReturn": 63.60919825936351,
+  "lastClose": 89.3499984741211,
+  "oneYearReturn": 64.9741483121338,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "General Motors (GM) Renews SAIC Deal As EV Push Raises The Valuation Question - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmhhV242ZFVJZFQwWFNxNXNNU2xPMEhJX3pRSTc4dHU0RUZXdzV1cUVXYVNPVGNkXzIzN2h3WDBvZnc3aGI4WXUwbnlFdEZ4cUJnVXVSZkN2bDhDS3h0c09vb0ZpSEFGNkl6ZUJXUkE2RUkzZEZNVHdhZmRBaF9QbW9nTjQ3LUd4eUlkUkZVdDA2RVc3WGI3ckUwVlh2Rm54elZFb01lQTZ1WFdvUGV3RDRsbVVPWWFvYml6SDlIYXlPcFEtNm1KX0lNOTjSAdIBQVVfeXFMTXN5aTNCOXRjVWJkUzhFN2dCSGdLU0FiQm1ma2ZJOUxVNVU5T0YxdjY5V19ZZVNjbXdSTDBWX0l0bnZNUDJLUmxGUmdPbC01VmttRXBrWmFjZGdEOS04OTNNTG9iajBJR3RUa1l6TGJZdHhMZkw4S2RkVzY3R2p2Yy12VWVmOEo5cHVtLWtYbE1GS3dfLUU0dkRySEFBb0hmcWlzUFgtRUMxYkJEenRrS2kyRmdjRDNUbm1rU1B0NFlVR0dYWDdlVDc1RG5PVnltM1Fn?oc=5"
+      "headline": "General Motors Dumps Another Major EV Battery Stake; GM Stock Rises - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS3ctU1J1djJMb1ZvZ1VjT2RZOGphSEVaMjVYV3dMbnc1N2QxeC1TYnExRFJQM3dBTEpPazVvUklXMHFXU2NtWHVpWDVXdGJ2YzNHWmRxOFZrazRsUGlfTmJWUnhidmQ0Zm10RFRfQzR6T25CQ0JfUkt1WTNWMHpNSDRlN05jSjg0dnFNN1k3bE0?oc=5"
     },
     {
-      "headline": "Q2'26 Earnings Deck - General Motors",
-      "source": "General Motors",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hVlFJT1VnaHJVLV9seWZQbldHSUZDZENma2Y4YWJRWXplVlRIX1JWRGNpSGpDeXp4TUY1WWdZQVJFWG0tNzZWdVZVNTFnUEVnUU0xeXFrRmF2Y0xwQ05GWEJubkdzVDZZQ0lUZmd4YXdBVnFjdmlockhDZ1JVUQ?oc=5"
+      "headline": "TD Cowen reiterates Buy on General Motors stock, sees software growth - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU29sVWJGSVg1YXlnbXNqLUtpSWNyX1lvSG1EYjI1RVVxYk5IZEtWbEQ1OFdQeEVXZVRVMTlJMHNjNjZzV0JUSzJCem5FZER6SU9Hd3dqd3p5akx4d3QyaWlVSG5DWUwteXF6RGwwWTNPZGN6bEtlWG1vMDB2RkhyV09pZjJ1STdjcWFiSXQ3YzJPS3VSaEI3SUt6SHJSZXhoN3YyYW1qOVl1LXdPSzNmR2dWOVU2VlpjVHdYYnc1dDlfMndxb1Bv?oc=5"
     },
     {
-      "headline": "Ford, GM, Stellantis stock prices all drop for week ending Aug. 7. - USA Today",
-      "source": "USA Today",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaVFDZHhCU0prZ1AyY1BMYXlpZ0lUd09hRjNzMGZpNDVsRWM3eENGYUdWNDFMamc2YURicVM4aUdSN2ItSHNENnlTZkRhU0NBZ3B1NXk3ckN6VnNIRFRvS1ZjN1ZZSXZYZjhaa1VjZVBqNFNObFRXaldZeHVWQU9FMENKVktpR1BpOXo0Y0IzR1Jmbll0UXZnRWtuQTlmbUlJQWxTZlVEVG9VOEFRcFp5VUlmOU9TLVRxdzgzSzJhQUtueUZsb3A5UUJGUEYxVHNiTlFr?oc=5"
+      "headline": "Erste Group Bank Predicts General Motors FY2027 Earnings - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXpsNS1hZl9JeHFENm4xQW9fdG00a0x5RXVzRlphd2psdllFdkR4emc5cW02SGR2NWZjNzlBS0xjWFFDQ3diWVVFOEhkaGp0R1RwcEtEaFdRZkg2Q1JZSUlLSTZlTVJMczJjXzl0M05INGl3MUdlWVk5NnRHUDNWZi1NQURnRVllblhNOWFpbS02cnY2cV9RRS1Cc2kxeDBTTzFXdTBpN0lvVmJvWmVr?oc=5"
     }
   ],
   "insight": "Tracking General Motors (GM)."

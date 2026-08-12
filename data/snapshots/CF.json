@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:04.154Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:38:17.446Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    114.0199966430664,
-    116.91999816894531,
     120.91999816894531,
     119.19000244140625,
     117.81999969482422,
@@ -24,11 +22,11 @@
     118.11000061035156,
     116.70999908447266,
     116.7300033569336,
-    114.3499984741211
+    114.3499984741211,
+    121.4800033569336,
+    117.80000305175781
   ],
   "6m": [
-    94.02999877929688,
-    93.2300033569336,
     89.83999633789062,
     92.5,
     94.69999694824219,
@@ -158,11 +156,11 @@
     118.11000061035156,
     116.70999908447266,
     116.7300033569336,
-    114.3499984741211
+    114.3499984741211,
+    121.4800033569336,
+    117.80000305175781
   ],
   "1y": [
-    80.91000366210938,
-    82.62999725341797,
     82.9000015258789,
     86.41999816894531,
     85.2699966430664,
@@ -411,29 +409,31 @@
     118.11000061035156,
     116.70999908447266,
     116.7300033569336,
-    114.3499984741211
+    114.3499984741211,
+    121.4800033569336,
+    117.80000305175781
   ],
-  "lastClose": 114.3499984741211,
-  "oneYearReturn": 41.32986441535889,
+  "lastClose": 117.80000305175781,
+  "oneYearReturn": 42.09891542038653,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "CF Industries Holdings, Inc. (NYSE:CF) Passed Our Checks, And It's About To Pay A US$0.60 Dividend - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWHIyYjJwSm5pVDRNcnd6dTZQUlFIMDJYV0dRRTMxT1ZMZS0wT3JKMEpzdnJLY1lpZnNFdlZobVdjOHRFbnNTZ1RDVVNmS0lTN0RIQ2d6T1ZGVEVUNlFvZjZtcVRUUDJTT01BM2Q0V2FuMDZLSHBXTzdkaVJQMFRkb3EwS0lOazcxdlkxZFU2Y25JZXNXT1Q0TS1MbGRUeFFlRDJsNWFfb2NKcUZ1NVFDQ2N2RUwycU9EcG5kdVluSFdiVEJLdm5oOHFsZXZHVUdCbzVwMUtfQ0lMTGPSAdsBQVVfeXFMT1hyMmIycEpuaVQ0TXJ3enU2UFJRSDAyWFdHUUUzMU9WTGUtME9ySjBKc3ZyS2NZaWZzRXZWaG1XYzh0RW5zU2dUQ1VTZktJUzdESENnek9WRlRFVDZRb2Y2bXFUVFAyU09NQTNkNFdhbjA2S0hwV083ZGlSUDBUZG9xMEtJTms3MXZZMWRVNmNuSWVzV09UNE0tTGxkVHhRZUQybDVhX29jSnFGdTVRQ0NjdkVMMnFPRHBuZHVZbkhXYlRCS3ZuaDhxbGV2R1VHQm81cDFLX0NJTExj?oc=5"
-    },
-    {
-      "headline": "Has CF Stock Topped Out? How US-Iran Ceasefire Erodes Key Competitive Edge For Fertilizer Maker - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0FrOVliLS1KVEtEN0pTTVFkWHJZTml6REdzckdkc0JoWXN1XzhjbExhdUR6S1lzS09WSzNLNUg4NXA3eDFTWnFTS19qNFlMUG9QOXNEUURmcEcyYk5iYm0ySDM5UERMRkUzRW1HUmVQUzBIWVU3WjdWOGxmblU2RnBqMkRiQ0JGT1lyZ2xpSzVxWHl0dzFhV0lMeUtCOGVkRkJpZ1hoREs?oc=5"
-    },
     {
       "headline": "Why CF Industries (CF) Stock Is Down Today - Moomoo",
       "source": "Moomoo",
       "when": "2026-08-08",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQajNYTWEyYnJVZGM0MElKbGVCNDRRQ0x6RERmODVLb3A5ZXdVcU9OdWwzRnZiMUNCNUxmMHNvS1VPdVhqWXlDeTF3ZUFHZXhTTHFxZTF4clhUcHNZQW5YUmI4aUdnaFpQbWd0S2p2cW9icks4S0w4WGJSVF9tblVJT0lTeWFraGVFVlE?oc=5"
+    },
+    {
+      "headline": "CF Industries Holdings Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+      "source": "marketwatch.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcjhoWHlpMTVxUWJaY1pobEoxS1RKcFI2cnA5SVRGVUt5dVpKbFNuTG5DZ0p1WjVKX0FhRDlKdUZ2bjlGUGZ6dlg0eUtQWHpSRGRaWDZFMGxleUVfNEdwdk16S3hlTHdfbVQyZWFUdVZYcDZhT0NzNTNLYXhGak5aN2dIRVNHZWNnaUdUNGhhcmRpZ2tLV1lHaW14Wk1JWkdlSzF2S2pPd3hSSkt6QVFuS3BaNHZ1dS02d1FEZi1jNEtvcm1fU3R5aEc0eFljOUUxLTk5UQ?oc=5"
+    },
+    {
+      "headline": "CF Industries, Nutrien and Mosaic: best fertilizer stocks rated after earnings - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1A5RDJ6Rl8wNUh4MDFZb0dEdEF3M1MySmkyQl9NZU9Ma3dzTUxqRlNiQjd5VUJrSDdraEw4c1ZOb3drYkM4T0Fvd2Z2WmR6TC1CZzBtSGxtNURlV1NSbnE0WEh4bWhjR1VSeEJOQlQzV0laUllIX0RFUzkwUGFTd1FzTmQ3QjFXVmt2a2JjbjJmdDl6WlFxMm4wMkZaZ0J2bzN3Y0lBX3VGUk5IWF9BN2ZsX01SUXFqeVhKUF9UT1BFNW92TmxOV0dkcmxtc2tKb1F4eg?oc=5"
     }
   ],
   "insight": "Tracking CF Industries (CF)."
