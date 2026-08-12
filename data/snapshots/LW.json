@@ -1,10 +1,8 @@
 {
-  "builtAt": "2026-08-10T03:27:30.590Z",
-  "builtDateUTC": "2026-08-10",
+  "builtAt": "2026-08-12T03:28:29.772Z",
+  "builtDateUTC": "2026-08-12",
   "source": "yahoo-finance",
   "1m": [
-    45.2400016784668,
-    46.45000076293945,
     46.97999954223633,
     46.5,
     45.54999923706055,
@@ -24,11 +22,11 @@
     53.18000030517578,
     53.29999923706055,
     52.04999923706055,
-    52.27000045776367
+    52.27000045776367,
+    51.810001373291016,
+    52.59000015258789
   ],
   "6m": [
-    45.959999084472656,
-    45.93000030517578,
     45.02000045776367,
     46.290000915527344,
     47.779998779296875,
@@ -158,11 +156,11 @@
     53.18000030517578,
     53.29999923706055,
     52.04999923706055,
-    52.27000045776367
+    52.27000045776367,
+    51.810001373291016,
+    52.59000015258789
   ],
   "1y": [
-    51.54999923706055,
-    51.650001525878906,
     52.970001220703125,
     54.72999954223633,
     54.83000183105469,
@@ -411,12 +409,20 @@
     53.18000030517578,
     53.29999923706055,
     52.04999923706055,
-    52.27000045776367
+    52.27000045776367,
+    51.810001373291016,
+    52.59000015258789
   ],
-  "lastClose": 52.27000045776367,
-  "oneYearReturn": 1.396704619513357,
+  "lastClose": 52.59000015258789,
+  "oneYearReturn": -0.7173892002228468,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Lamb Weston Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVloxWlpON1VtcEdNZmxmOTUtS1BDLWlTLVVmbkMwWEZubjhaR2hwbVlTQmE0MW1XQUFSa1RMQWFFbzVVZ2xWTDI3YkpNVm5ZczlZcmJSNDE5RlVhckYtaVJ5dTI0dHFoZkJ3ZWJpZnZpMGU3OG9MLU1nbXV0VFl5N1l4VVhHN2o0Qy1DNlB1Qnl2OWI4Q3pLREZjcGV6M0NWc09NVUkzWHpnbUUyREdVcFlOXzkwMGxGMmNka0hUOUw0aXd6UEtiWEM0NXo1V1NXd1E?oc=5"
+    },
     {
       "headline": "Executive Parts Ways With 3,820 Shares of Lamb Weston Stock - The Motley Fool",
       "source": "The Motley Fool",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQblROSndJcWRpVkNjTm9CQml2bzlFckE4bUlpYzhFaWZEbXpnTjdpcUVId1hyWk5ZMEZqVmpXSk0tcWxadnEtUTMxM0tlUWNraEc2ZTh6NlBoREhRXzlXZi1sRTdLSldMNXlvMFlvM2VPSElKejMyMlhIMTh5VlBGQnZaSWFLZEprVHZhR3ZYSkNta21VTDhnTmRBNGdTc2xqLWlMOTFyaE5oaDdBT2c?oc=5"
     },
     {
-      "headline": "Lamb Weston Holdings, Inc. (LW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBocERsSEFiQVYtWm4xcTRNd2VpZldjMElBMnVvVGY1dkUyTU9vdTZTaVhMN3QyNGdvRFdlNEI3TmdxaWF4b0lFYURVMDh0bHdoSzBDNmxnM01CdkJaVFI4?oc=5"
-    },
-    {
-      "headline": "Lamb Weston Holdings Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVXNaV2hlc0RFR1phV2lRS1lWYUtKUUNaUFZES2V1WTlIUUhuamNzSV9TV0U5YmYtRFQtdjlQSmt4eXFFMV8zdXBpVGtmT3ZXMUdRc29VaUV0VElwWnhVNWtVRjAxNVR0WlA5eGZBeWE0cEZBckJTQmVUQkx5TkN3bkxFVmhLcWc2NHlZb1EzNldhTURrNFZVaHhvZU5KUkNPMUtUaWp3cU1NT2ZHWVRxNGY0X1ZseGlNWkZSZzNDd3MyeTdJVjYtTjBfUEJkWG51UTZwOG5jd2JwQQ?oc=5"
+      "headline": "How Lamb Weston Holdings Inc. (LW) Affects Rotational Strategy Timing - Stock Traders Daily",
+      "source": "Stock Traders Daily",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORGxiSURDTlJPVjhraWJKTHljczZGSE1OUlZBclRLWnFLSUJVeWRTVDVxRzBCMlVfOEtWQUh3Sm5pSEZBSkczZHdHcV84RmRYeXEzQllaLWtWOTVkMVlnZnFsYzJxYTdpXzFpOEpidjgzYTNCQUdWX1RfNktucTAzQTlPX1ZYbjFEa2J3YWN5QmJGWkwzVWdCd0hQOFVzWG5fbVIzaW5pLTJkREN2eEhHV3J3YjJRQk5VdFNBd1R2VE5ITVZUbGFnN2ZpcEVmMkpLQ2M5dm5YOFY4WEduOWhuZA?oc=5"
     }
   ],
   "insight": "Tracking Lamb Weston (LW)."
