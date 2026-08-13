@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-08-12T03:38:26.381Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:39.161Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
     75.97000122070312,
@@ -10,7 +10,6 @@
     77.62999725341797,
     77.25,
     78.16999816894531,
-    80.37999725341797,
     79.63999938964844,
     79.75,
     78.63999938964844,
@@ -24,7 +23,8 @@
     67.2300033569336,
     68.62000274658203,
     67.83000183105469,
-    69.88999938964844
+    69.88999938964844,
+    69.4000015258789
   ],
   "6m": [
     60.75,
@@ -144,7 +144,6 @@
     77.62999725341797,
     77.25,
     78.16999816894531,
-    80.37999725341797,
     79.63999938964844,
     79.75,
     78.63999938964844,
@@ -158,10 +157,10 @@
     67.2300033569336,
     68.62000274658203,
     67.83000183105469,
-    69.88999938964844
+    69.88999938964844,
+    69.4000015258789
   ],
   "1y": [
-    55.959999084472656,
     56.279998779296875,
     56.02000045776367,
     55.5,
@@ -397,7 +396,6 @@
     77.62999725341797,
     77.25,
     78.16999816894531,
-    80.37999725341797,
     79.63999938964844,
     79.75,
     78.63999938964844,
@@ -411,29 +409,30 @@
     67.2300033569336,
     68.62000274658203,
     67.83000183105469,
-    69.88999938964844
+    69.88999938964844,
+    69.4000015258789
   ],
-  "lastClose": 69.88999938964844,
-  "oneYearReturn": 24.892781510142964,
+  "lastClose": 69.4000015258789,
+  "oneYearReturn": 23.312016757556055,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Edison International stock outperforms competitors on strong trading day - marketwatch.com",
-      "source": "marketwatch.com",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc05ycTZkNHNRa19WTHU3UzFCODhDRXo5V0FKaElrYzEwajVvbHEzSEhxVU11N0Zaa3gyQ2RvdFFTamUxMkc1NXlfUUp2dkhWaHBDUEczZGo0Z1E4OVNicXoyLWJBUktYNGVoZXYyeDZOelEyZGsxWm1KT3hsd0NoTDFVSVZXMjJLWmM1dndoWEpVT2NmdTh3S0RZZmM1LWFKS0JEQV9SNXVDb2o4ejJLNjhyWjlibHY1cUhTV0gxMWhLTUw3bXhrcVg1U1g0LTNUcUVhbmM1ZkxpTUxzOExnUHA1a2k?oc=5"
+      "headline": "Edison International (EIX): AQR reports 18.7M-share, 4.86% beneficial stake - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbWRzZTRJQ1dOZTc3cHFyZV85NlliOEQ3cDBiemtLWjU3Nm1rdGkwTEVKSnBRTTYwakdWRUI3WDVOUnlQQU8wTDY1YzNubFZPVFhHcy1Sem93UEowOURtV0xtdEtoTUhCYWlkclBiR0ROTTlmZ0xidGFVOWhSUzZWUUdLNFJIam1sU0VTUHBMeklXM0FQaTRYV0prbGkxeDlpRFVYdnZ2LXlNOHRTd1JFLVhLaWpVZGt4d2JoTl8ycE9VVVpTOEZYd25n?oc=5"
+    },
+    {
+      "headline": "Edison International Stock: 5 Straight Red Days, Down 15% - Trefis",
+      "source": "Trefis",
+      "when": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmdMM1ZuQUw2OTJMdVRJalpTaFhRN0t3Zm5FZldNOXNYRTZZaUVfbXo0bU04ZVEyNGpZQ29LRWhiRWtJMFdFc1BkZ3hPd2tiNWl0THloQkNlTXV1MDFoYzUxUnZNb3RSSnMzSHNhUUh5a25XdnV4ZG9WTnJYVmlzUGhTdUFPMEctU2tpczRJZW9ZeVZIZ3oyTGYxaEdxUE5NaGxsclhDYVBEZWlNMkF1TGFJWGE?oc=5"
     },
     {
       "headline": "Why Edison International (EIX) Is Getting Attention Today - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU01qUGhENmJyUUFlOWNQaGoyQ3REU1N6SXMtcmgtejhPN1JPMnBqcmU3akJKRWo1bnd0NF9mY3RrS25jalJmTkpkNk1pT1VqMEYzWVdnX2NkRndrNzdtekxkWG1XWWZpdFNUSktCb0JTX2NPTlFrUXhsRlp6dHhKaTREWUxIVFpBMk5GYXB1NVBiRW1vcmNWcVlKeXR0NHUxbWx1cGpQa01SVUZrV1RoSF9GYlpvQXdTbkVKM192VFZiYk50WFYzTGFVRE9vNDhSNFHSAdIBQVVfeXFMT1NNalBoRDZiclFBZTljUGhqMkN0RFNTeklzLXJoLXo4TzdSTzJwanJlN2pCSkVqNW53dDRfZmN0a0tuY2pSZk5KZDZNaU9VajBGM1lXZ19jZEZ3azc3bXpMZFhtV1lmaXRTVEpLQm9CU19jT05Ra1F4bEZaenR4Smk0RFlMSFRaQTJORmFwdTVQYkVtb3JjVnFZSnl0dDR1MW1sdXBqUGtNUlVGa1dUaEhfRmJab0F3U25FSjNfdlRWYmJOdFhWM0xhVURPbzQ4UjRR?oc=5"
-    },
-    {
-      "headline": "A Look at Edison International (EIX) After 3.0% Gain -- GF Value $72.50 vs Price $69.89 - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVIzaEd4Skw5ejBkRFJDOVZlZEJSRlQzdmRnamdDS2pHdUUzYVB0WG1lSUtQVUU0dDU1Z05xOTZ0a0lEN0dYUDN5TFVOT24wcTF0ODVVa3lVUEpMNnRya0Rzcm1wdmNqUEIyU1plQWpMTk1ubktJLUV6Y2RtS1NZejBrVUI1VkZOZ1lrczRldmxxR2l3VDBPbTFwVjRoNUhIWlZaSS03RVIwbzVJUEtZUmJleHVaZw?oc=5"
     }
   ],
   "insight": "Tracking Edison International (EIX)."

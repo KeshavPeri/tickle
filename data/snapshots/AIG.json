@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-12T03:38:08.695Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:21.175Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
+    79.16999816894531,
     79.9000015258789,
     79,
     76.77999877929688,
     78.02999877929688,
     80.5,
     79.80000305175781,
-    80.23999786376953,
-    78.25,
     78.16000366210938,
     79.05999755859375,
     79.16000366210938,
@@ -24,9 +23,11 @@
     79.97000122070312,
     78.77999877929688,
     77.61000061035156,
-    77.30999755859375
+    77.30999755859375,
+    76.13999938964844
   ],
   "6m": [
+    74.87999725341797,
     73.91999816894531,
     74.12999725341797,
     76.37000274658203,
@@ -143,8 +144,6 @@
     78.02999877929688,
     80.5,
     79.80000305175781,
-    80.23999786376953,
-    78.25,
     78.16000366210938,
     79.05999755859375,
     79.16000366210938,
@@ -158,10 +157,10 @@
     79.97000122070312,
     78.77999877929688,
     77.61000061035156,
-    77.30999755859375
+    77.30999755859375,
+    76.13999938964844
   ],
   "1y": [
-    78.4800033569336,
     79.88999938964844,
     80.30999755859375,
     80.01000213623047,
@@ -396,8 +395,6 @@
     78.02999877929688,
     80.5,
     79.80000305175781,
-    80.23999786376953,
-    78.25,
     78.16000366210938,
     79.05999755859375,
     79.16000366210938,
@@ -411,23 +408,24 @@
     79.97000122070312,
     78.77999877929688,
     77.61000061035156,
-    77.30999755859375
+    77.30999755859375,
+    76.13999938964844
   ],
-  "lastClose": 77.30999755859375,
-  "oneYearReturn": -1.490833012606485,
+  "lastClose": 76.13999938964844,
+  "oneYearReturn": -4.693954222868473,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "American International Group, I (AIG) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9adUh4OVJYbmlSQWlVX1lvN3hURloxY3FrNEJzc2pSSW9tVUgzdFpuQTlpWDQxWWMxVFFsZ3I1WG80ek53dHFUcklpeUQ4XzNp?oc=5"
+      "headline": "American International Group Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRWIyMVRHQmRKRXRCQmdhVlVDbU1na0diWVYxUXhhbGZ4S0tCUXcwdlh1RlpxblI1WmpxYm9rSUpGRUhmS2w2NE9DMlVVaV9ELV9iYUZhamoxX3ZSNkVVQy00eE5EVW8wSmFSQXNUOXdrOGtLa1NSTzhfNFZOZHB1bWI4ZmJnRVBISWVWZmx1R0RTTEYtRDhPTEpQLS1Na1VPTE1FRTRiSmJrM2RVcGozLTBabFhXVnhnbm9UVEgxX3dfc0FvZ21aN1V4bDhTUl9xZU1pUjFxSS1Od1VmUkxnWmNVMkNYeGhYQUMyMVY3dU1pdXpCYUZpSUJuemViQQ?oc=5"
     },
     {
-      "headline": "American International Group (NYSE:AIG) Stock Price Expected to Rise, Keefe, Bruyette & Woods Analyst Says - MarketBeat",
+      "headline": "American International Group (NYSE:AIG) Price Target Cut to $81.00 by Analysts at Morgan Stanley - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQa0RyaWpnSVY4T1Rfc3JnVEsya1ZJajA5aVR6Njk0WFp2bmxhYkdRVWtQNUoydVhiaWRFLUxmc2tBZkJjVGxidGRCZDhxaVlMZDR1QVhjNmdvcXpRNDZUY3hHeWRVd29aUGV3TjBqY1AycDlOQTFJTDJXRkZ5cVFQYWVDbUVnUV9Bck56a1dZSFJ0dmtlM2dhZndzc2l3U195aVk3VXpDM1NZaEJTdEZBR0p3WHlRWG4wbTI0MVowRUJ1M1FZR0Uwel9uTjNjOTlBYmQxT2ZpZ0xBMS1uaFJUemZSTTlUaE5a?oc=5"
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZW1iR0p1VWN2c3NjR0FmOGExUUtFY29MLUN3M3YxcUdaMUlPdEs1eHZRUHBFWVM2R3g5ak0zMUdkZVRyMTdKaVVZNHIxOF9nNFVfM3ZrMnVfLVlhejN4X1Y2RC16bmJOVTVSR0xEeFJGMFc2WmVCelBVcl9XYzkzU2tfNFNBa0xLczl4andKMDRDRFMzV2dMZUZaT1pIelllODROQ0NDWnlmSlMwX2pubXBNeXJRWXE3azFIZGF2N2Q4X3piRkdJb1g3NFlVQXI0YkRUbV9tZThjUFVnNXc?oc=5"
     },
     {
       "headline": "Wells Fargo cuts American International Group stock price target on ROE outlook - Investing.com",

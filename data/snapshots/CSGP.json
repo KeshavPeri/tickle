@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-12T03:38:21.207Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:33.745Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
-    28.770000457763672,
     27.68000030517578,
     28.489999771118164,
     30.3700008392334,
@@ -24,10 +23,10 @@
     29.579999923706055,
     30.239999771118164,
     31.479999542236328,
-    31.1200008392334
+    31.1200008392334,
+    30.5
   ],
   "6m": [
-    61.18000030517578,
     51.72999954223633,
     52.34000015258789,
     50.9900016784668,
@@ -158,10 +157,10 @@
     29.579999923706055,
     30.239999771118164,
     31.479999542236328,
-    31.1200008392334
+    31.1200008392334,
+    30.5
   ],
   "1y": [
-    88.45999908447266,
     87.55999755859375,
     87.97000122070312,
     89.66000366210938,
@@ -411,12 +410,19 @@
     29.579999923706055,
     30.239999771118164,
     31.479999542236328,
-    31.1200008392334
+    31.1200008392334,
+    30.5
   ],
-  "lastClose": 31.1200008392334,
-  "oneYearReturn": -64.82025643080085,
+  "lastClose": 30.5,
+  "oneYearReturn": -65.16674183368964,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Here’s Why Baron Opportunity Fund Sold CoStar Group (CSGP) - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjF0WUltS25BV2VIbXVzSWpBVDlXWkQzVDFuYjhaQ1ZadlJQZmRjQ0prNkJYM19RdnNWWnBpakpBVnpIT3M0dndESld3UVVzazVUNzEyWGRXd2NNZGJOQTdmc0hOcUtmSzRaSWJCVkxDbVdDWGZFRFBBZTU2M2VfX1lzZ2lzQXB3N054WEQwaVdMSDQ1akdDejdqS0U?oc=5"
+    },
     {
       "headline": "CoStar Group Stock Is Down 52% This Year & Its CEO Just Bought $2.49 Million of It. Here’s Why. - TIKR.com",
       "source": "TIKR.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbWUzZEtjelhPekp5LVhWcTVHU2d0bExPNEZ1Z2I4cWpuUkZsUURTa01LZFN2RjJYZ3lVNGdoMjBPTGRJdjhRZnN3UVZhc2RwTUhSMDJRN3QxWWkzQmRpcUJmeHFpckk0d1dsTHo1VGw2bnJ6Y1RqTEdsOFlRX05NWWU2eFJIVG5Bb2RrWG9YVU9haUE5dkVkZ2NqUzVaSU1wU08wZDA4V3dWMHJ1bGF4bWpZMUE?oc=5"
     },
     {
-      "headline": "CoStar Group (CSGP) Sees US Industrial Demand Outpacing Supply By Late 2027 - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSlN2SXExdFhuU3FCc3d5c0FOUWRZcS1Ud2pENlBfOVA3bHo0RFhWRjFsOTFpY25mdDAtRnNtQndkNGhFODQtOWNZN0ZBS2tjNG44RkpLNXk3NXhNNW9Jcm1nejdURlp4bE9HbGo1bjNvc2J6VFRyTFBhREo5elc0SDgycFBjNWRSZF9YSENyaEk?oc=5"
-    },
-    {
-      "headline": "PensionDanmark Pensionsforsikringsaktieselskab Sells 98,500 Shares of CoStar Group, Inc. $CSGP - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRjBLLXVJR3ZEUGMxb0dZRWhSSHNjcmVfQnhtcFBBZmowck5UNHN6Vlk3Z0swajhod0lHckJtbVd5eVlZSVViZUpkU2NIbFhpNkV5bXNOWkRVWGJyRUF3alZOOG9PMjR2eVFMdGVUU01XOGZRb3BXUzg0OExQamlnTnNvcU1UUFp1Uy1vbFJueXl6NEw1WU1JUEVaMEdUT2hNajk0alR6U0J2M0M5Xzc5cXlLVWpWZW91ZFBDV1d0NGl3UVZOU3hkeXlzUHIxc2drb1VJSThSdkRBVEFzOUdJeHdrZmZPdw?oc=5"
+      "headline": "Store Openings Outpace Closures in CoStar’s U.S. Retail Outlook - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOekFfbWFadjE1WjZZSUw3NEVNcnZZUzNZYUZaMXpQUGRCSFB2ZDdCaXZUeG53V2hzNGNaSElWRUw2cnVQUDFtZ3ZPUG1aZHN4TlgweVJ6UG9BVEwzd1h0VXA1N2xtUkFkdHotQUEydjlGSEpnWkpaN3ByajhabnNPUXRNblU1UXVsQlE?oc=5"
     }
   ],
   "insight": "Tracking CoStar Group (CSGP)."

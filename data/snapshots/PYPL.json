@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-12T03:38:48.273Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:42:00.973Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
-    47.650001525878906,
     47.369998931884766,
     55.52000045776367,
     56.72999954223633,
@@ -24,10 +23,10 @@
     59.779998779296875,
     59.06999969482422,
     59.06999969482422,
-    59
+    59,
+    59.20000076293945
   ],
   "6m": [
-    52.33000183105469,
     41.70000076293945,
     41.029998779296875,
     39.900001525878906,
@@ -158,10 +157,10 @@
     59.779998779296875,
     59.06999969482422,
     59.06999969482422,
-    59
+    59,
+    59.20000076293945
   ],
   "1y": [
-    67.97000122070312,
     70.62999725341797,
     69.37999725341797,
     69.2300033569336,
@@ -411,29 +410,30 @@
     59.779998779296875,
     59.06999969482422,
     59.06999969482422,
-    59
+    59,
+    59.20000076293945
   ],
-  "lastClose": 59,
-  "oneYearReturn": -13.197000234819672,
+  "lastClose": 59.20000076293945,
+  "oneYearReturn": -16.182920763069106,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Jim Cramer Examines PayPal Holdings Performance Under Enrique Lores and M&A Speculation - Yahoo Finance",
+      "headline": "PayPal's Venmo: Can Monetization Sustain Its Mid-Teens Growth? - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOektJQ3pNUXhiZGhPdzFIR1dKNy1LZFVrWkVQNEJvX2V2R2hmaXB3T2xSclZPRUZ3M0xDMXZEMnBjd0k2M0YxQ015bTBMTEpLTFNtcEdkc3NkVFZiSjFkMjIwOXVlcUZneDA1VHMzcjN4bjJVcGFvOU5pYTdiUFBaOUo3bHNXWnRlUmhYVHVhd0xPSHNva3RXNGRYWXhUVGtLNGJRV0FQN1ZEdUEyXzdMTnd3MzZjbUU?oc=5"
+    },
+    {
+      "headline": "Paypal stock rises as CEO keeps door open on potential deals - Yahoo Finance",
       "source": "Yahoo Finance",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSm9TbVpMRjZRSkVtUWd0cC05SENNOURnTTBTa2pLeFpRZzMyTmdpODRZQ3VoVnplcXM2aFJCNV9UeklGS0daMEF2VVFDSFVvSk1jX3V2RFJVdEhZdjA3QlVmbFdaRHZQbWVVUnVDLVFnMW9VbUlpV2wwQ29SZ2JhUjNiNnpZRVN3cy15MjFVU0lVYkFyU1NENDBtYUlYdU5sMk10YzYxbVlxVEVSS0FlVjdQR0hUWkVZ?oc=5"
+    },
+    {
+      "headline": "PayPal Rival PAYO Stock Heads For Best Month In Nearly 4 Years: Nuvei Deal Sparks Analyst Downgrades - stocktwits.com",
+      "source": "stocktwits.com",
       "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnFLNzJFZHRqUURoTnV4N1BGWWFNTGVuN2ZWZzF2dGNvQXdrR0xWMDN1UVI2YWtaamlXNmlLZy1rOWZUZ0M0VDlTSHM0a09VVV84UDNnYm9Va2poLWVqaUtwQVZyMFNJZm1Nc3l2bHBmQjhiUlJDdUVtemU2UDZqUHM1Ukh6VWZmdEY3ajlwVl8yam9iMDRBRDF2Z1Z5eDVsN3c?oc=5"
-    },
-    {
-      "headline": "PayPal's Board Reportedly Called $60.50 a Share Inadequate. The Stock Trades at $56. - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYV92dWVtZVpETUJyLVdxYkhrSzN0SDcwc0VzSGNhM0NSM2VkVVVJSjZ2XzZwSUE0T1lFMVBrbnlFYzQxSTBSTlJTeVZYVHhJSDZTdDREc3RmVVJ1eFJRVlJCeTFBc3ZrZGI1ZUlUd0d4ME10akhKbjVhZUNNTXZVREhWRlBiV0FZX29PcDdhSzFoak8tR0pqag?oc=5"
-    },
-    {
-      "headline": "PayPal (PYPL) Stock Looks Reasonable On Earnings But Weak On Returns - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOWxieGdDVUhscFFwT2NVb0hOQVQ2U2hKOV84NXA4ZzVpWW8tNXRhLWZXTTdxTEhqMmFMVk1adlRpbTB5SmwzTGowTkFtaFVMQjBKd2F0X0xGaW1pb0FmaS1CUjN1Ri04RnhTcHBpak4wQXJUdzVSS2Q2dUMxU3I0TjBWN1I2NWNiMFZPLWFrOXh2SWVBeDRjdlFsdzFpNFZpMHNmRFhoeXhtMUdpVXlSWFBaZUNva3E3eXZiRGE3VENLYUhIRmpyNFBUdE5sck5tZ3VFekxlbzd4TEtyQWtxNXpB0gHnAUFVX3lxTE82VHJwTjhJVEl5NndWOXR5cjZNc1loWThzMWRIR2ZrTzZtUU9jTVJWa3gwT2FjaDBPaVp2dzlvVGxJWmE3d1hLT3pVUC1RV01ZLTN0QjFYc0FyV2JiZkU5VjJXMURWQmlUWE9PY3Y4VzZuaDRFb2JnU2xTWFNEZDJSYTRoLWk2RjJRbVJpTDJZdm53MENZYnJFR1V6blJkRm5IRlMyMFBIYmt1MHBHZnI5Uk9jOTVlS2FuX0lyR1lyVDhZNmVvb3U4YjhtT3J6U1puZ1ZsckhuUlRBbE83a0Q1bFpQdVdVOA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdDRrWmdWUVVZeDFYOF9idzV4RG1OSXFMTkZ6MHdVZUZOemdnSkl6TmJKNVVPWS1sRTQ3dDBnWUI1ME01MlhLM2VEck53YU9SWTZmWG9GdTIzeFU1bmhXVlNVRVZIelpKV2pmSnhDRUQ1cEt0c1hmMGs5M1dPNkhRU3JILU5TX25sQk9JVWRLU2dFR3I0aEozdzBjYW5BVDR1Uk1ydUJvY1dzMmo4dmVmM1JCMk01U2E3MDlGTnVuOXFaajhHZ2ZUWk90dUVQbW54cko3Qm91YjN1SnNDdGtpMGljZS03S1pfUk1WQ3NreU1uOWY4YkE?oc=5"
     }
   ],
   "insight": "Tracking PayPal (PYPL)."

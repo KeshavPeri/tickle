@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-08-12T03:38:09.904Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:22.619Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
     360.45001220703125,
@@ -9,7 +9,6 @@
     371.5799865722656,
     366.2900085449219,
     364.1700134277344,
-    366.239990234375,
     366.04998779296875,
     371.5,
     376.0400085449219,
@@ -24,7 +23,8 @@
     404.8500061035156,
     410.95001220703125,
     417.20001220703125,
-    414.29998779296875
+    414.29998779296875,
+    416.17999267578125
   ],
   "6m": [
     344.67999267578125,
@@ -143,7 +143,6 @@
     371.5799865722656,
     366.2900085449219,
     364.1700134277344,
-    366.239990234375,
     366.04998779296875,
     371.5,
     376.0400085449219,
@@ -158,10 +157,10 @@
     404.8500061035156,
     410.95001220703125,
     417.20001220703125,
-    414.29998779296875
+    414.29998779296875,
+    416.17999267578125
   ],
   "1y": [
-    284.9800109863281,
     289.3299865722656,
     290.2900085449219,
     296.4700012207031,
@@ -396,7 +395,6 @@
     371.5799865722656,
     366.2900085449219,
     364.1700134277344,
-    366.239990234375,
     366.04998779296875,
     371.5,
     376.0400085449219,
@@ -411,29 +409,30 @@
     404.8500061035156,
     410.95001220703125,
     417.20001220703125,
-    414.29998779296875
+    414.29998779296875,
+    416.17999267578125
   ],
-  "lastClose": 414.29998779296875,
-  "oneYearReturn": 45.37861317327436,
+  "lastClose": 416.17999267578125,
+  "oneYearReturn": 43.842675142775924,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Amgen Hikes Sales Outlook By $1 Billion After Second-Quarter Smash - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSFVxUWRiaTRpakEwWklpdWdubmtRUjUtTVhCT0d2aUxYRHZ1Nml0ZEFUYUJKVlNjV0xWUDA5Xy1CMGduUHY4ZEVzeFNVLU5SaWVXS1FOOWZTODBhUWNRLV8wTndjNE55QnVRb2kxbEZxeXVuMXI4UkxkSG8yTUd0VWtRMA?oc=5"
-    },
-    {
-      "headline": "Amgen (AMGN) Stock Sees Fair Value Lift After Q2 Beat And Analyst Target Hikes - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMTVySjNocWZxTDM5cV9IeWNtX0VoZlhuNURjbUVzZjlMaDRXNDd1SFVkbEdnR1JGSFdBT21fUlVtTE5rVi1Xb012UFlzNDBWQWVGVzVObTM0RS1pZU5VdXhHNHBteEk3QU83bDVwMHlWbGxfdWFPckJWUVlpMXYwQUN1YkxPbUdzdk50VWVqZGM5OFdNYXc?oc=5"
+      "headline": "Amgen Stock And The Price Of A Promise - Trefis",
+      "source": "Trefis",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUV1YTdBbGhkMko4cndoSHBEMXFldzUxX25FQ1FtSzhkNk5ibXF2RExBT0Z6R1FQMVAwN1BxdlpJLWxFbmkwNVVCeHVtcDBzZy1zSWpCU3lNeFEzMjZjZkpBUDZvVS0zQzZjcml3T1BWSUFQS3pxV0FUODhiOFhoRzA5MnJIYlZ5djI3TEJKanBLaHNJQVMyN1p1LXJqSWVZ?oc=5"
     },
     {
       "headline": "AMGEN ANNOUNCES 2026 THIRD QUARTER DIVIDEND - Amgen",
       "source": "Amgen",
       "when": "2026-07-30",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYUVlTExYMWR2V0RaN2k5SXVoM1hnZ3d1eGJ5anRKOUFxbWxiOTE3NnZ0UjBYak51MmcwXzdTM3VqVWEwU3A2XzhNa2hrdU5xTmZScVV2MEJsU0xJRFl5UHRiRk5qWk5OWTViVmhYTWNHMk1waXhCZnR5MmdUVy1jQTh0OGtqakNQTEtqUGlpMU5pSFh0aTg2d1NEMU1UZw?oc=5"
+    },
+    {
+      "headline": "Amgen (AMGN) Stock Sees Fair Value Lift After Q2 Beat And Analyst Target Hikes - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-08",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMTVySjNocWZxTDM5cV9IeWNtX0VoZlhuNURjbUVzZjlMaDRXNDd1SFVkbEdnR1JGSFdBT21fUlVtTE5rVi1Xb012UFlzNDBWQWVGVzVObTM0RS1pZU5VdXhHNHBteEk3QU83bDVwMHlWbGxfdWFPckJWUVlpMXYwQUN1YkxPbUdzdk50VWVqZGM5OFdNYXc?oc=5"
     }
   ],
   "insight": "Tracking Amgen (AMGN)."

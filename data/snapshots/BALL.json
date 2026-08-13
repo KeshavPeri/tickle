@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-12T03:38:13.566Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:25.770Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
+    61.689998626708984,
     61.29999923706055,
     60.459999084472656,
     60.79999923706055,
     63.150001525878906,
     62.709999084472656,
     62.25,
-    62.54999923706055,
-    62.349998474121094,
     62.22999954223633,
     63.84000015258789,
     64.66999816894531,
@@ -24,9 +23,11 @@
     63.130001068115234,
     63.45000076293945,
     62.58000183105469,
-    62.900001525878906
+    62.900001525878906,
+    62.13999938964844
   ],
   "6m": [
+    56.869998931884766,
     56.689998626708984,
     61.77000045776367,
     64.80999755859375,
@@ -143,8 +144,6 @@
     63.150001525878906,
     62.709999084472656,
     62.25,
-    62.54999923706055,
-    62.349998474121094,
     62.22999954223633,
     63.84000015258789,
     64.66999816894531,
@@ -158,10 +157,10 @@
     63.130001068115234,
     63.45000076293945,
     62.58000183105469,
-    62.900001525878906
+    62.900001525878906,
+    62.13999938964844
   ],
   "1y": [
-    53.5,
     54.88999938964844,
     53.63999938964844,
     53.849998474121094,
@@ -396,8 +395,6 @@
     63.150001525878906,
     62.709999084472656,
     62.25,
-    62.54999923706055,
-    62.349998474121094,
     62.22999954223633,
     63.84000015258789,
     64.66999816894531,
@@ -411,29 +408,30 @@
     63.130001068115234,
     63.45000076293945,
     62.58000183105469,
-    62.900001525878906
+    62.900001525878906,
+    62.13999938964844
   ],
-  "lastClose": 62.900001525878906,
-  "oneYearReturn": 17.57009631005403,
+  "lastClose": 62.13999938964844,
+  "oneYearReturn": 13.20823479798992,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Ball Corporation $BALL Shares Acquired by Royal Bank of Canada - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWUgzUU5SQjUweEM2NFlJRk1zYjJXZExpMUJ3TnZyblNwM1FqM2xpTnZJRzVkMncyRnFialB5aU9hbmVDUldpMmtpdm5pcEFBMVFsSGRwckd4T1ZLSjBvYWZ5MlQ0SHdQN3oxRjVKLW83QzBPSVltdk1Dajh1ekxUYk5DWjdUcUpmNm1ObTRvN09ockxyckZfaTNabFNWY0dEX0duT2Q5bG5HT0llc251RkxZOUtJZHpiTHg4dHZFUQ?oc=5"
+      "headline": "Ball Corporation (BALL) Stock Forecasts - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd0NuV3hjUGhkRlhNQmd4cEQ3S3BKY2hyQUl2c05VRlBjU2lXUjZuXzJQakFkaG9MVUV1ZHFiaUVvSGJaZ2FwYVJJWUpucW1lelRkVHc3NG9PVko5LTZDamMtQUJmY2J4ektGcVZHQ053S2ZYc1A2MmRJMEhqZU9nejh6Sk43c09Rb2V5WXNFNA?oc=5"
     },
     {
-      "headline": "Why Ball Corporation (BALL) Stock Is Down Today - Quiver Quantitative",
-      "source": "Quiver Quantitative",
+      "headline": "Ball Corporation stock shows 20% growth potential with strong financials despite recent dip. - Pluang",
+      "source": "Pluang",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1VETXN4MjRaNVU4V1RVUlh4LUFtaUZ0S2ttbW1oM0h5TWdnUE5ZdGpEdFJOZGNFNkxlb1dBeGxTNWxjbW5fc0FGUnBSSk5nVWZZRHZTT29HSi1qMXNjMTVuU0o1azk4bXlIRzlGZG93WHVxMFFLNGRNTUtxZnRwNWYtYXcwQ3pqbk5VaTNhS01GR0NJQUFxQTVxWnVwUVRJNVVr?oc=5"
+    },
+    {
+      "headline": "Why Ball Corporation (BALL) Stock Is Down Today - quiverquant.com",
+      "source": "quiverquant.com",
       "when": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWVQZ0dvaTFCOG1SQ1RJMTd4eUc3TUx6T3RXdklTOTZ0aHpvYnRwVVNUT2dlMTlnUlc3aXBJWUhETlc5SHRLZm9BdDl0Y0ZVZnZISmNiUmFFYVdNbGlXdWtTZGFHWllXR215QWV3WkZCN2FERnJLWWpWUUZ2SW1DRVl0TEx2dWx1QzRocw?oc=5"
-    },
-    {
-      "headline": "Ball Fell 8% Over the Last 30 Days. Here’s What to Expect in 2026 - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-05-26",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY3gxTmU4dHZqdXczMTFNQzFXdHlpczBwT3VoRkE4UHFfbTY3OWxGenRaYUFfNGhwUjFoU1NKNUJJRU95ZWVJcFNKUmdJVTY3YnF2QWFwMnkzam5kekc0MnQ1cTVSSUtFV3F3emZTVlRsTEt3Q0NEbWpBd1ZqVndpb1JDOXZtWXR0YUFrLTZFemIyUQ?oc=5"
     }
   ],
   "insight": "Tracking Ball Corporation (BALL)."

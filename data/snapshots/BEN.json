@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-12T03:38:14.033Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:26.487Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
+    33.5,
     32.83000183105469,
     33.13999938964844,
     33.630001068115234,
     33.33000183105469,
     32.630001068115234,
     32.22999954223633,
-    32.630001068115234,
-    32.380001068115234,
     32.290000915527344,
     32.4900016784668,
     33.220001220703125,
@@ -24,9 +23,11 @@
     34,
     33.77000045776367,
     33.52000045776367,
-    33.36000061035156
+    33.36000061035156,
+    33.59000015258789
   ],
   "6m": [
+    26.6200008392334,
     27.06999969482422,
     27,
     27.829999923706055,
@@ -143,8 +144,6 @@
     33.33000183105469,
     32.630001068115234,
     32.22999954223633,
-    32.630001068115234,
-    32.380001068115234,
     32.290000915527344,
     32.4900016784668,
     33.220001220703125,
@@ -158,10 +157,10 @@
     34,
     33.77000045776367,
     33.52000045776367,
-    33.36000061035156
+    33.36000061035156,
+    33.59000015258789
   ],
   "1y": [
-    25.690000534057617,
     26.030000686645508,
     25.6299991607666,
     25.329999923706055,
@@ -396,8 +395,6 @@
     33.33000183105469,
     32.630001068115234,
     32.22999954223633,
-    32.630001068115234,
-    32.380001068115234,
     32.290000915527344,
     32.4900016784668,
     33.220001220703125,
@@ -411,29 +408,30 @@
     34,
     33.77000045776367,
     33.52000045776367,
-    33.36000061035156
+    33.36000061035156,
+    33.59000015258789
   ],
-  "lastClose": 33.36000061035156,
-  "oneYearReturn": 29.855974763899717,
+  "lastClose": 33.59000015258789,
+  "oneYearReturn": 29.043408630492205,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Rising Equity Markets and Better Flows Have Been Lifting Franklin Resources' AUM to Record Levels - Morningstar",
-      "source": "Morningstar",
+      "headline": "Can Franklin Resources (BEN) Stay Cheap After Its 46% Run? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHZOQk1wQjREX0NiNlZHbDBYZ3Naalhndy1NeDZYR2s2UmVHb0htaHFtTFF6OEV6YkYwOFhfWktJdkhSc09YV1ZMT3NleHB4Y1dBMldRZGNPNlg4UDM2U25IQ0tYZG9xbkdsdWo1U3BGc1JHcDJmem9idDJINm5jcnloNVEwRWNHN1Zab0pQRk16c0hMTDhDSXlNcXNJeEp2a0dTNWRncTBxOTdBNHhUZlN5T05yZW1rdjRVcVFscUQ5NUw1cmY4REhLUDNMdUdFSnhHanZjLVBzQdIB3wFBVV95cUxPd1Jlc0lMTnRlY1hwdy1wSkNFUkJydTA0YU9MQlFnQnhVTFltVzgwLU1wOW44NUs5aXd4ZWUybnA1ckNXbUtIYTZIUGpOcm9STktDT3BLTGJqVHRuVUJTbldwckd4Ymd1WUhEV3BfTzVWSnNMWTVRV0RNMEN1aUZES1VaNTRCamotLVBYVnBMV2tkeXV4amptNktrOUhSUzNlSEU1ZTZBZ3ZqUlhmbUhyMHNWQTFIQU9GajBSZE16ZGkzVUZIaUJlbkFvbWpReXhUN2xvSzJBYjdNS20xcndj?oc=5"
+    },
+    {
+      "headline": "Franklin Resources, Inc. (BEN) Stock Forecasts - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcFdmaFpQRVBsV1hKZnVTWkxNNGpPb05LUm9QV1lfVk1iR01NUkl6SzFSa2l6UktjQXVEcGNiczdYZHJJNzNSQ05RVUZOb1NqRnpLTFNiRW95LVcydzJoRlFVUDhCcTZ2bTIwV09VSXRDLTFXMkMxMmp5U0xUZjRzY3RLZXJYcUJFTldic0pJaw?oc=5"
+    },
+    {
+      "headline": "Franklin Resources Stock Jumps 6% On Thursday — Hits 52-Week High - stocktwits.com",
+      "source": "stocktwits.com",
       "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSUE1WGtUeEdOaXl1MVFIakw5ZDkxcmNEOFNfUlRqYjAtcTJpYWhtVFF2WGJwVloteDBmNkFZT3pxNDM0M3YtOTRwMk1NenBlSUZ2RHU2d2g5Z1gxRExXRjNoRTZ0S2QxNlRlS2NBM3VwZ2s0N3VZSEllQlgzQzVFN3JCaU9tY2ZOMDBjUURiSDlsMWtEeVJYU0JXVWVBRTlJR1FhLXlOSW9aZU5PNTdhQWZZVzVYU3ZGeGV1cUpFV05HdmQzTDhWRnkxeWhENTVYZ1czV0lzaVFUZmFPMmVhVVFn?oc=5"
-    },
-    {
-      "headline": "Franklin Resources, Inc. (BEN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLZENTWlY1N1JURmFJcjdQYmJVWVdDZkwydkktQjhjd1gwUG9PQ09jMGtRYzNhNGJMNG1sRnJGSkJuRWV5ZHd6OUhVV1BxOXF1T25iS0trYjQ5dTdoRmZmWQ?oc=5"
-    },
-    {
-      "headline": "Franklin Resources: A Better Business At A Higher Price (NYSE:BEN) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFRkTXp4SnQ0ZVJVLVFzYnR0MFpzRUwzaXZRNkNCdDIzZEFkRk51WURKdFBkR3QtREFCeWkyeDM3dGRRcHNzeWdpTHFLdC1vdkNsTjNuNVlBREk2MGQ2QTFyZDBXRHlxTGJxc0hZWTN0ZlJUTFRYU1FIcXltUHowQXdUMXlKMHB0UWtIUW4yRUFUTEtGNzdVa0gyaw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObVY1dmRxaS1JcnJYWlVBM3VRSUNzWlZQWlkwRmVDMk5xNU9zM0FfRkttQlVBeGkwcTJscFN3aExLbU5sc1FmTElla2FUUzVrSjNPWm5VdF9PaE8xWTBXVnVKQXJ6TWk0SWRMU2kybDQ0WWEtMGZ1QkdkNl8zXzJfTEh4UmNwck0yR0ZBcm83ZDVmLXEwbjlkUmV5TFdTMmRnZWliS21ITHVyam1jdVA1Wk9yYzk2bW80RldmNFltRQ?oc=5"
     }
   ],
   "insight": "Tracking Franklin Resources (BEN)."

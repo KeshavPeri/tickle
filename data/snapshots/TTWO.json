@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-12T03:38:53.296Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:42:06.232Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
-    243.1999969482422,
     244.10000610351562,
     237.0399932861328,
     243.8000030517578,
@@ -24,10 +23,10 @@
     232.47000122070312,
     246.5,
     253.57000732421875,
-    250.5
+    250.5,
+    243
   ],
   "6m": [
-    220.3000030517578,
     221.80999755859375,
     212.1699981689453,
     200.75999450683594,
@@ -158,10 +157,10 @@
     232.47000122070312,
     246.5,
     253.57000732421875,
-    250.5
+    250.5,
+    243
   ],
   "1y": [
-    232.55999755859375,
     236.13999938964844,
     233.16000366210938,
     232.17999267578125,
@@ -410,29 +409,30 @@
     232.47000122070312,
     246.5,
     253.57000732421875,
-    250.5
+    250.5,
+    243
   ],
-  "lastClose": 250.5,
-  "oneYearReturn": 7.714139417672743,
+  "lastClose": 243,
+  "oneYearReturn": 2.905056588499458,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Take-Two Interactive Software (TTWO) Stock Is Down Today - quiverquant.com",
+      "source": "quiverquant.com",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzJhTXRHSWR1RkFpRFpWNEpTUElyMG9fT2hHRUd4b3JoNXktMkpidDh2QXRoRk5wOXoxd0lXOFJSTDlkMWNTWkItYk4zRFktWjFldXFyMnhZT2kwWkZhZlFjOWlpdGR6THRMb2V5cXM4RUdwOXlINmhZTlNyMDRUWGxnT2MtUWMzb3NKN2ZmR3ZTOTk1X1k4bGVUUUNXZw?oc=5"
+    },
+    {
+      "headline": "Take Two Interactive Software (TTWO) Stock May Be 9% Stretched Following GTA VI Launch Confirmation - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-09",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT04taXFLM0xPamtzLU9xSG1URUQwYUtLYktsRUlFMkhDSDZkazNlUVhvUndUU0p5cDdvcjBzUXVHTkpralFJcEQtWTdsdGg5UGhFN19zMVo4bG9nVDgtNHZMVXhMQWlEeFh0dGpsM0tVRjNvWGpDZmY4MExfMGFDbnlOMUd2clNhUlRWeGZJajNnQm1zQUZEUDgwZUV6R3A3Smc?oc=5"
+    },
     {
       "headline": "Take-Two Sticks To Its Guns On Full-Year Outlook. TTWO Stock Rises On 'GTA 6' Preorders. - Investor's Business Daily",
       "source": "Investor's Business Daily",
       "when": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZy1ubkdXMFhKYmNhdjN5UDBmQllaTEJ2cERyaXdHRnZvT1l3ZHMzeGNTbndndzMxWGNKTktDUlc2U0JrdmhXTEx2WDcyUG5TUWVRbklnSUlHd2Y0RTZfaXJSSVJQQ2tNM3lPS0VYSUhFMmhuc3l6Nlkzd0RGR0puTDJlY2tSUnltcHp6bXdfQQ?oc=5"
-    },
-    {
-      "headline": "Take-Two Interactive Software (NASDAQ:TTWO) CEO Sells $10,105,600.00 in Stock - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdjg0SkVSVU9jSEZUMEZTYXpiVzVUN0s3VnFUbDJLUDBDRzhKclBOVHdrcHN6Sk1wRmxleGpBa0p4SFBGZU5ZdW9RZDJXYmJqUERpeWd3V2R1SGRtOFI1cldmMDg0RkVNbXhSbGFvVFZTN05jV1EwWXNPM0M0aWN4Q3R0ZVZXOHFJVkZmQzJ3VGlxRWd2NEZPTXJGLUdnRVFxV0d2enAyaWpJcVN6NGY3NXVHZndWbFdsWUREd3pnU3NIQQ?oc=5"
-    },
-    {
-      "headline": "Take-Two Interactive Software Inc. stock underperforms Tuesday when compared to competitors - marketwatch.com",
-      "source": "marketwatch.com",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOEZCYl94RnlkS0NKckJRY2ZfUVhyekxFUUpGZGNzR01saEYzeG5EbFZUNXNoOFZrNW5lWWxkcFpBM3k4TUlMQ3E3ZzZKZ1RXeS1Ed1dVQnVSRXZXYkFDdVNSOXp6UlhUckVZcWFVYmtPZnBSNG10Q2oyV1hMc042Nm01cllMNTFiQ0J5eExkbWg1QVNOV2dLbkNpdXFUVk1qaE5nR0x6dGJoR0I5cWw4bVFFZU1EdXZ0bWxYNGFublItV2puNkZ1azJaTkVQUk5neVNBcTcyMEVUb2ZsTlhfQkpoZDVyVS1JYlZQcUhtTWhINmkzODJYOEhmR24?oc=5"
     }
   ],
   "insight": "Tracking Take-Two Interactive (TTWO)."

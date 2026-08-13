@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-12T03:38:46.898Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:59.751Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
-    229.52000427246094,
-    230.72000122070312,
-    234.47999572753906,
     226.5800018310547,
     205.22000122070312,
     205.8000030517578,
     207.9499969482422,
     212.22999572753906,
+    205.89999389648438,
+    204.5399932861328,
     207.07000732421875,
     213.8300018310547,
     215.75999450683594,
@@ -24,12 +23,10 @@
     215.33999633789062,
     215.3300018310547,
     213.9499969482422,
-    212.35000610351562
+    212.35000610351562,
+    207.3699951171875
   ],
   "6m": [
-    208.25999450683594,
-    208,
-    203.0399932861328,
     201.02999877929688,
     205.5399932861328,
     207.55999755859375,
@@ -145,6 +142,8 @@
     205.8000030517578,
     207.9499969482422,
     212.22999572753906,
+    205.89999389648438,
+    204.5399932861328,
     207.07000732421875,
     213.8300018310547,
     215.75999450683594,
@@ -158,10 +157,10 @@
     215.33999633789062,
     215.3300018310547,
     213.9499969482422,
-    212.35000610351562
+    212.35000610351562,
+    207.3699951171875
   ],
   "1y": [
-    243.0399932861328,
     249.19000244140625,
     250.9499969482422,
     247.14999389648438,
@@ -396,6 +395,8 @@
     205.8000030517578,
     207.9499969482422,
     212.22999572753906,
+    205.89999389648438,
+    204.5399932861328,
     207.07000732421875,
     213.8300018310547,
     215.75999450683594,
@@ -409,29 +410,30 @@
     215.33999633789062,
     215.3300018310547,
     213.9499969482422,
-    212.35000610351562
+    212.35000610351562,
+    207.3699951171875
   ],
-  "lastClose": 212.35000610351562,
-  "oneYearReturn": -12.627546095463241,
+  "lastClose": 207.3699951171875,
+  "oneYearReturn": -16.7823776694461,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "The Progressive Corporation (PGR) stock price, news, quote and history - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
+      "headline": "The Progressive Corporation (PGR) stock price, news, quote and history - Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
       "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93X0JTa3RZZnE4NUY1dEludjN3S0JReEs2dE5iM01fTXRpMVNQczd0YnlGc293aThCTEVQY2Y5dlY4Tlh3MHktdHI4d05fQWtK?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03cDJLZVI5RVFQejdPTzhYRXljazNVRmpLT1V4YWxtTm0xNm1BM2NfNnlSZ3dhcFFZWi1Vdnl5YXgwb3NQOXdJQ19NalVLSU9Z?oc=5"
     },
     {
-      "headline": "CoreCap Advisors LLC Sells 22,011 Shares of The Progressive Corporation $PGR - MarketBeat",
+      "headline": "Handelsbanken Fonder AB Decreases Stake in The Progressive Corporation $PGR - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVM4YkN4a2VWbm5sLWFaZ3BDRElvU0JEQWYzYXhOZUtZNUwtdkp4TEhLSHFHRWo0eklrekFuWkdKSklHdC1iVEQtRG1uRnE3Qk4xUXQ0MXhFVmxwdnFSUXhTYjVoSGJTZXRuMy1QT2VUdUtVSEg0Tkc3dzNnWGRpNHVreVAyLTQ2N3dtaGN0MHo4Q2NTZ2U4alBENnMxd2tSLXVjVG4wUGJyYi1jRXFhNGYzRU4zZ3dpcy1VNVVPbEhYeGZvZGEwRDBoNjhJNVVZ?oc=5"
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ0pCZ0xxRVVOZjBucnQ4S0Z1RlU0R1hMbmJVWWp3NXpXTm1NWU1NbjUzRWJseFMwUGU4aWR5U19oRFNwM04teUpjWDNOOEVkd1ZHZVNtN1hsNzRyTUQyOHVoNF9vck4xWXc3LTVQSHhVNm8yV3NOVkZWTWRTcHlHMXV4TmEtaGU5bjJnR3N4QXJ4ZUhmbDE5S1NRZlRmajhGU05uTkdZR1BuNEdIXzlpYUdSN3V2QmhiUWN4a1hoREJCY29GbXBOWGZMWUdMbHlW?oc=5"
     },
     {
-      "headline": "E. Ohman J or Asset Management AB Sells 12,612 Shares of The Progressive Corporation $PGR - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQVZud0Q0U1lCZGdkZ3NpS01TSWx1bEpxWXN6Vy1RTUUxVEV3X3IzanlNdktIcHJYRzl4SXZrb0k3TC1EZVh4VWN0eFNOYnZJVUJqRGo5bVUxWTdKM2d0aURzRGhHY1JmZzUtZF9wbkFhX1F3VlNCVF9scHNJMkVtWXhWcWQtSEhLMEtzaWRPeTR5MWFmNlBOOTRRTi12Y0lLYUpwazE4VW1WSzZpWnc1eG9saHJhVFZFTXYzQ0Q4ZEVVWkZVcjU4cjZtSGF1aldWOWxpa3NRRWU3bEJ1UnBGVg?oc=5"
+      "headline": "Progressive (PGR) Is Winning Market Share. Can It Keep Growing? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ3l3dDJYeWllb1E4V01ld192NE1BN2t6RDd1RmV6djVIdEU2WHJ1YnBCZkRFT0MyYnlZQThta3RfQkVOcnZCMmpnQUtRT3BMal9MSmVmb0t2R0RFb1h1VGc1aW1WUS1xcVJTQ01sUkNtSFR3eG1KLUxGTjBDWnlUcVhfNmpqSUVRbENoSGs1U0xQN0V4SlkxenVJVWRnVEtQdHlN?oc=5"
     }
   ],
   "insight": "Tracking Progressive Corporation (PGR)."

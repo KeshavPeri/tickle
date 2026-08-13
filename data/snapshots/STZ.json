@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-12T03:38:50.520Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:42:03.332Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
+    134.05999755859375,
     134.50999450683594,
     131.33999633789062,
     131.63999938964844,
     135.72000122070312,
     132.8699951171875,
     134.36000061035156,
-    130.66000366210938,
-    132.0800018310547,
     129.27000427246094,
     130.16000366210938,
     129.7100067138672,
@@ -24,9 +23,11 @@
     132.52000427246094,
     135.75999450683594,
     133.38999938964844,
-    133.97999572753906
+    133.97999572753906,
+    133.9600067138672
   ],
   "6m": [
+    156.6999969482422,
     155.66000366210938,
     160.6199951171875,
     166.67999267578125,
@@ -143,8 +144,6 @@
     135.72000122070312,
     132.8699951171875,
     134.36000061035156,
-    130.66000366210938,
-    132.0800018310547,
     129.27000427246094,
     130.16000366210938,
     129.7100067138672,
@@ -158,10 +157,10 @@
     132.52000427246094,
     135.75999450683594,
     133.38999938964844,
-    133.97999572753906
+    133.97999572753906,
+    133.9600067138672
   ],
   "1y": [
-    169.97999572753906,
     170.3699951171875,
     169.50999450683594,
     168.22999572753906,
@@ -396,8 +395,6 @@
     135.72000122070312,
     132.8699951171875,
     134.36000061035156,
-    130.66000366210938,
-    132.0800018310547,
     129.27000427246094,
     130.16000366210938,
     129.7100067138672,
@@ -411,12 +408,19 @@
     132.52000427246094,
     135.75999450683594,
     133.38999938964844,
-    133.97999572753906
+    133.97999572753906,
+    133.9600067138672
   ],
-  "lastClose": 133.97999572753906,
-  "oneYearReturn": -21.178962763185616,
+  "lastClose": 133.9600067138672,
+  "oneYearReturn": -21.371127221243402,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Constellation Brands (STZ) Beat Expectations, Is The Stock Still 24% Undervalued? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSkF1N0ZPY09pNW9pLUpyT0xXbk9XVmtPaE8wR0ktcERpXzZybnZWM3R4MUNSdkxLMDU2YXE4bThpMU9IaVg2bUE5S2VYS0tvS0h5TlhlNURqVW9jZmtTRmpmUTlaVGxQZ2stdE5QaklCc01rUFdkTVVVY2lUSFk5NkpuYUh4Tk93c3NubnRuZnROd283cEpUMHVLZFRKbzJrQUpKVWkwWDdHdWpGVGNZdFhhY01zMDVjWDVGbEsxYkg3bFlWQWkteUhsZUcxV2NwVi1scDVTVnN0eTVPVlF3WDUtc9IB6AFBVV95cUxOWW1BWGZPWUM5NWZDSTc4R0JLS2ZsYVR2UnU5QTl0NG9LMGFZQzlJZTBrRHdwNDl6cmlERGsxZVVUM0tEekVQRU8yeDljYjhXNm4tbE1TcWlCa2hDQlpTdi1ZdHg3Y3RuSzdPTVp1a0gxYk84RkxraWFPTkNEMjZCTTV6SkdvdHM2Z25fVTZxQW5mWG83aGJZbXVnbHp6Q3I5Sm5JLWpaOHA1cEFlRFZBcmhVV0FwSExHOUgtdmlGenQ4TnRfQTNVR25VZXpSaF85d1JZcGt4bnB5Y0JvUmo1bmhPY0dxal9Y?oc=5"
+    },
     {
       "headline": "Jim Cramer Asks Why Constellation Brands (STZ) Stock Remains Cut in Half Despite Strong Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,14 +428,8 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRlFXZnEtdDhoM0MxUGpQMWU0TmxtUnNyR0JqcG9yQUNGWDZEcm40SVlaOW5WWkRTdllFcnlYZjlCUEpvRm1EOGdGZG9aVHBUbjk5S3Y0UTVNZXVwX1AzaFRpQ1RQZkRDd2hYeGZOSmwwVG5vUnhHSGZWZjRiYVdHYWl5UWhObjlKSmV3M09yT2xyMXlRX1N4M000SC1EYVk?oc=5"
     },
     {
-      "headline": "Wrapped Constellation Brands Tokenized Stock (xStock) price today, wSTZx to USD live price, marketcap and chart - CoinMarketCap",
-      "source": "CoinMarketCap",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWGlLWW02bTYtcmtteVdINld4OHdDbkpZM19HUXZtTUppck1yM0R6OHNtaFdjczNoelNkWnlUUC16SjNfMnlsUUh0NkMyYkFIZi1maHNlRWVGcERkNFNubF9GQ3JMQlBfbjNFZ0N4UzVpUEpIVmtKdGFyeUhYNWdJWWd3VEhBZ1lTakV1b1BHT3RpM3c?oc=5"
-    },
-    {
-      "headline": "Constellation Brands Inc. Cl A stock underperforms Monday when compared to competitors - marketwatch.com",
-      "source": "marketwatch.com",
+      "headline": "Constellation Brands Inc. Cl A stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOWN0TFRwV2JkclVIOU1YUEFTQ3F3UlRPZTRPZGlEQmpEXy1fVVdpcWx4SGcyckhvN3R0UzJUNVQxSTRpRWlkWWpab1V5TXZBN3VIemhOaHlmbDFnem1CT2VsamdKQVVpX05YM1lzYmRvTzZXV3lYbW5HYVI0RkExR2xvZzBiNmNvR2xzbk5IM201MlZNSHN1RVJDdWc0QU5oQVBveDRWWk1DWjl2V3oyUUdBR2J3Y3JjTVhiajAxRGVIaWFPQTNHVGZjQ3Q5YVh0SnVtaHdDQjlvemRPdTg4OHBLeW56NXgzRExMZzZKaEJuWVRLZEE?oc=5"
     }

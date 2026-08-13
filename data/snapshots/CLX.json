@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-12T03:38:18.458Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:30.958Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
+    96.55999755859375,
     95.05000305175781,
     94.75,
     96.94999694824219,
     98.70999908447266,
     96.31999969482422,
     96.29000091552734,
-    95.69000244140625,
-    95.76000213623047,
     93.80000305175781,
     95.55000305175781,
     97.41000366210938,
@@ -24,9 +23,11 @@
     105.5999984741211,
     105.1500015258789,
     107.69999694824219,
-    108.25
+    108.25,
+    105.76000213623047
   ],
   "6m": [
+    112.79000091552734,
     113.29000091552734,
     114.9800033569336,
     117.7699966430664,
@@ -143,8 +144,6 @@
     98.70999908447266,
     96.31999969482422,
     96.29000091552734,
-    95.69000244140625,
-    95.76000213623047,
     93.80000305175781,
     95.55000305175781,
     97.41000366210938,
@@ -158,10 +157,10 @@
     105.5999984741211,
     105.1500015258789,
     107.69999694824219,
-    108.25
+    108.25,
+    105.76000213623047
   ],
   "1y": [
-    122.81999969482422,
     122.88999938964844,
     121.58000183105469,
     122.16999816894531,
@@ -396,8 +395,6 @@
     98.70999908447266,
     96.31999969482422,
     96.29000091552734,
-    95.69000244140625,
-    95.76000213623047,
     93.80000305175781,
     95.55000305175781,
     97.41000366210938,
@@ -411,17 +408,18 @@
     105.5999984741211,
     105.1500015258789,
     107.69999694824219,
-    108.25
+    108.25,
+    105.76000213623047
   ],
-  "lastClose": 108.25,
-  "oneYearReturn": -11.86288856133112,
+  "lastClose": 105.76000213623047,
+  "oneYearReturn": -13.93929313898337,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "PensionDanmark Pensionsforsikringsaktieselskab Cuts Holdings in The Clorox Company $CLX - MarketBeat",
+      "headline": "Canvas Wealth Advisors LLC Purchases 40,989 Shares of The Clorox Company $CLX - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbDY2VTc2LWpGMjhkQTUzVmNuV0tnVlROQ0RibUtybzhXSXk0b1kta2xUMk1RQURCT2tBaThzZUUtRThDR2tTZFpHQVFPeWJyR0dGcWxpdWdheTFMWm1scVlfX1ZZZy1CWHdQR3JDM0xpNjNYa3lxTUk4MlR1b2lYRzZVM2VPRk11dW9iTHhsQnRfUG5sT0lZdUJjbklhZk9EWlk0Rm1meUJxVk5ka1N5ejFHT2lQVU1mb0o4MmM2Nm5ycTdybkZTeVRUYWZ3eWt1SjY5ZGtqdVJMM1IyTVM5UQ?oc=5"
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbEpBU244OXBvQWV5QjIydVI0dllHTmVLby1pQzk5cDFGMDE2S1VFM3Uybld4blY3TlY3VmtqbFRad2ZvcHdwcEJZRjBVR0NjaGZITUp6VktIS3pHdVV4Yk5rSE5Mb3czN1pXMjh1aGQtRHhCdEJxdWhJeFo2ZDlXUXZhSkN3VXFidE9BREhDWlZJVGRISS1iUGF5N1ZiRVhkTkZkZ1JyZmp6cW1xUVpleTdhWjNyZkw4QW1rei1Ub2NXODhRS1FBcERLOTgzTUpxWUE?oc=5"
     },
     {
       "headline": "Clorox Reports Q4 and FY26 Results, Provides FY27 Outlook - PR Newswire",
@@ -430,8 +428,8 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb3oxRDhSV2pTZC1GZzdRT3VadjZLV3Q0X19ZcHpXb1B2SENEWXVnY1Nlck5pX1prUjRFS3NmRFhULTdtOHp0ZkxuUDhfb3JMM01jWHhnZ0ZvTUxjNkoydTZhVVFBYjYySzBjX05kUU5VS1RUWU5IYTJnaW1kLU0wbjhLU1V5OHV4NFQtLXZEcE0wUU1oMXV1d3FIWm9rcTd4NXlKaVBabDczVmpENUtsZk9R?oc=5"
     },
     {
-      "headline": "Clorox Co. stock outperforms competitors on strong trading day - marketwatch.com",
-      "source": "marketwatch.com",
+      "headline": "Clorox Co. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSTJWQXF2M0pQcUJVNXhRRWZObFl1cmZ0b19LWXZCUGY1bWVmbGtLbFhBTHFUZWtiM2lBbW5WY0VjOEw4VjBaaTM3Sndyd0NIVXhITnM3UkdTMDZxaUhoYTZQSXR1S3B1MUJyZlJwTDh0WXZld0NhdkFUQ1dsT1FhTW9iUzBsbF9LdE9aYTJpak1ObVBpQ3hTVlBQbzkwUERxMVpESnVRRk9SZ0pIMXFnVVd3OXFlUGk4OUFMR0JPeENFZFlqYnFLSzF1b1lwUVhEWHpjX3Zn?oc=5"
     }

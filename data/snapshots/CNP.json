@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-12T03:38:19.448Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:31.907Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
+    43.540000915527344,
     44.130001068115234,
     43.7599983215332,
     42.720001220703125,
     43.34000015258789,
     43.130001068115234,
     42.9900016784668,
-    42.720001220703125,
-    43.68000030517578,
     44.22999954223633,
     44.560001373291016,
     44.0099983215332,
@@ -24,9 +23,11 @@
     40.66999816894531,
     40.68000030517578,
     40.029998779296875,
-    40.18000030517578
+    40.18000030517578,
+    40.529998779296875
   ],
   "6m": [
+    39.689998626708984,
     39.380001068115234,
     40.189998626708984,
     40.349998474121094,
@@ -143,8 +144,6 @@
     43.34000015258789,
     43.130001068115234,
     42.9900016784668,
-    42.720001220703125,
-    43.68000030517578,
     44.22999954223633,
     44.560001373291016,
     44.0099983215332,
@@ -158,10 +157,10 @@
     40.66999816894531,
     40.68000030517578,
     40.029998779296875,
-    40.18000030517578
+    40.18000030517578,
+    40.529998779296875
   ],
   "1y": [
-    38.470001220703125,
     38.630001068115234,
     38.439998626708984,
     38.119998931884766,
@@ -396,8 +395,6 @@
     43.34000015258789,
     43.130001068115234,
     42.9900016784668,
-    42.720001220703125,
-    43.68000030517578,
     44.22999954223633,
     44.560001373291016,
     44.0099983215332,
@@ -411,10 +408,11 @@
     40.66999816894531,
     40.68000030517578,
     40.029998779296875,
-    40.18000030517578
+    40.18000030517578,
+    40.529998779296875
   ],
-  "lastClose": 40.18000030517578,
-  "oneYearReturn": 4.445019574245291,
+  "lastClose": 40.529998779296875,
+  "oneYearReturn": 4.9184510966785275,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +422,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGxYdFpHaHhRSG9FeGcydlVjLWNOTjF1ZVplc21VU1FtWUIwcHZNTHlwUjNOVzM4UlhNNmFDZkQ3Um1iN0prM0VGUGN1VmRoUWN4RWRvTjBFdUFmVUstbDNFTk1CQlFWV1lESnVHZGR1VlZhd0hMaE56RDlGS0pMVE9xOHVsdDdCU1ZiWDA5amlnUUk3czJRcTB5clJQZw?oc=5"
     },
     {
-      "headline": "CenterPoint Energy Declares Regular Common Stock Dividend of $0.2400 - The Saline Courier",
-      "source": "The Saline Courier",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZWVXZ2phdnhfR2ZvbVA1eEh5UElMNzVmOU52ZUZCaU9tVTF6VTBJamVMZ05GNTFMWlc1Uk1ucUFXQ29mbmRERnV5RWM3WmVDdlRSNUpWWlhCZ0RSZUU3WGxoYlVZVXdRUC11LWlvNlJ1YjV5YmxDclV2aGt0R0d4N2FsenZiLVUtam5pT1U1bXdSVlM2T2xldllwY3lVU1NEeXhhVC10aWxWWVZrSGViY3dJU1pKNUtvM1ZDcE1KWTFkeWpUcW1XY2lvZlRzNzJGVnRHR1RFQVQzOWcyaXZ1MmEzNXI5NlhLXzA0blRrWHF6eVpFbXRiU2ZKbEhYOUt6aXZrVGZuYUlwUQ?oc=5"
+      "headline": "CenterPoint Energy (CNP) stake of 6.9% reported by Capital International - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa3piQ0NzdVI2VW9LNC1VQzR2TXJRWVVtVVJRMm5JT3BqYWF4ZXpaWGd2cDdoNU02WjJ3dGdZdThtbzJvY3NpV01kRGpVckFUd0w0aTFleHZIUTBIUV9xcEJLcVBSRWVwOFYwd3B2VFRSV2xWSUZOMTVhdlhYdjg1ZjR2ZEloX1REd0N5TWhDeHNWSkZPY0dtUHV4VDJleHlxQld5RnJwYjk1RVd1cDZ2NXh2bzVmRlA5R3gwTl9lZHRESVVseEdIR2Nn?oc=5"
     },
     {
-      "headline": "CenterPoint plan: More large customers could save Texans over $5B - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVc0VUZHNUJBTzVvTmRYVWJpb1h5S19XOE81T2VvMHZ2OGhvMFB5TVlWNVhFUkZtQVljYWcxb09MWkpXZzRaZHQ3YlQ0X3hNN3JzWkhvVlhXVmxNelJzcmZaUDhhdWhlNVl5aEV0M3RRbDczLXBST2VHWnppd0pLYXE2ZU1JTndDM2NxUG9xd3Z1YjFNeUM0c01qRFRtWms1bXh0c3VKeDBCRDVWbkJLV3Y4eXZPU2tmTEstcg?oc=5"
+      "headline": "CenterPoint Energy (CNP) Stock Looks Pricey After A 72% Five Year Return - webull.com",
+      "source": "webull.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EbklLbE5QamExellaQTg0MVRZcHdsSHRwSC0xYUw2ZW85RDBac3RvU3N0dXRhb2RRRGFkR1E1Rl96VExvMnBxdlU0eE9iZWJjeUNYaTZjTHA?oc=5"
     }
   ],
   "insight": "Tracking CenterPoint Energy (CNP)."

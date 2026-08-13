@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-12T03:38:31.522Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:44.266Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
-    87.87000274658203,
-    88.91999816894531,
-    90.86000061035156,
     91.0999984741211,
     91.2699966430664,
     96.20999908447266,
     94.3499984741211,
     94.83999633789062,
+    92.31999969482422,
+    89.4000015258789,
     87.62000274658203,
     93.16000366210938,
     96.41000366210938,
@@ -24,12 +23,10 @@
     90.3499984741211,
     91.06999969482422,
     91.48999786376953,
-    90.73999786376953
+    90.73999786376953,
+    91.81999969482422
   ],
   "6m": [
-    99.23999786376953,
-    100.5199966430664,
-    100.16000366210938,
     94.0199966430664,
     95.70999908447266,
     96.1500015258789,
@@ -145,6 +142,8 @@
     96.20999908447266,
     94.3499984741211,
     94.83999633789062,
+    92.31999969482422,
+    89.4000015258789,
     87.62000274658203,
     93.16000366210938,
     96.41000366210938,
@@ -158,10 +157,10 @@
     90.3499984741211,
     91.06999969482422,
     91.48999786376953,
-    90.73999786376953
+    90.73999786376953,
+    91.81999969482422
   ],
   "1y": [
-    140.41000366210938,
     143.32000732421875,
     143.6300048828125,
     145.9600067138672,
@@ -396,6 +395,8 @@
     96.20999908447266,
     94.3499984741211,
     94.83999633789062,
+    92.31999969482422,
+    89.4000015258789,
     87.62000274658203,
     93.16000366210938,
     96.41000366210938,
@@ -409,29 +410,30 @@
     90.3499984741211,
     91.06999969482422,
     91.48999786376953,
-    90.73999786376953
+    90.73999786376953,
+    91.81999969482422
   ],
-  "lastClose": 90.73999786376953,
-  "oneYearReturn": -35.37497649944414,
+  "lastClose": 91.81999969482422,
+  "oneYearReturn": -35.933578703279814,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "GoDaddy (GDDY) Just Gave Investors Something To Think About - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcXZvV0dldUhJY041VldSdWhQUkdxWkNvLTNRWUhSMFNtSE1PUnJmblQ4aVZrM0tmNHF0LTBNSG9Zd2RPTWViMzM2NHVzb0lKVUtvUjAxVEhJQ3lzSzRvSHVwYVV2b3NRVlBJUWdTOGxPZUNaUnpFWlhwa1dfTjdhc3lZeFBqM1g1cnBOOGtWelJMTGo2NkIwUUZUeTRyZw?oc=5"
-    },
-    {
-      "headline": "Kaplan Fox Alerts GoDaddy Inc. (NYSE: GDDY) Investors to an Ongoing Investigation Into Possible Securities Law Violations - FinancialContent",
+      "headline": "Kaplan Fox Notifies GoDaddy Inc. (NYSE: GDDY) Investors of an Investigation into Possible Securities Law Violations - FinancialContent",
       "source": "FinancialContent",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNckljRUltUmlscVdHTHlzVUM5aFozVlNNcjJJWlB5Yy1oWWtiWHJWbi1ESm12OXAxbTU5TmlpRmFRRnk4M1BiSGUycW9vem15Rmo0bGRlUzNHcU9WemJwcEtUSGozZWFVZGpIRlBlNWlZVGdtMTlPZ1VlRnFaQjU2c3k0LWpad2hpYVBHQVBvOEJYVkFKMHlBNXNpVE5uSVM1ZGJkM04wYWluaFJOQW1oOTh1UDFZVTJPRVNjQWJaQjhzNWpFR1hiSUZRRnFBaVNXeXNsekFEUTQ3ZmRrMGpKNkl6dEo1RkZKWlRYcWxYQzdoSjc2d1hXckh0WEg0WDRPTVg4SkxtRlZLakVDcURPLW9rNlk0QVllb1E?oc=5"
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORWd1cmRiem1nUVJzSldyYnBzZHNwd29kZ0FNYlA3SF92YVg1ZXNRLVNsSzBwejM1c2NQX3pVREhlSnBjRjlFNGdZUjF5cHl5amxpM0hsOHJlcVFtOXBoYWlib1lBVWd2N05RVjdKZ1d5REdScTIyS3F0bUM1RDc0Q0JMa0lZQ2xEUVNfNU5SQkFtOU5zbHlUYUdVN2RtZWhrM05ISUgyMlZfdVFJa1V0NXJfSnBVdEpoVXVnSDY2TkFwOVEtV202cTFJQlBpVUlGMVBWNHlwZFdTVUVmNHFaSEdiOTJuT0ExbVIzSHpyREVSV1U2ZlFPbTFXNU5DLTZpOXFGVTBqNzFPM1RPMmxYN25n?oc=5"
     },
     {
       "headline": "What Are Wall Street Analysts' Target Price for GoDaddy Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGJQbDZDY0wtUjNGWnpqUFdoTjRhNk9GaVREZ2duejFINU4yZUM4UzJZVk9sQkFUaGktOHUzeTlTRDNhamNlTXpsTUdlaDBwaHlTVlg3ZDMtY2wxbWN5dEJGR2pPT2VkanRFWkE1QUxsbzZLRnhJUmJ2aHBBTnN2cFJ5aUdqWEJUem1Mc0dQNmIzMDI2M182THVEczQ2SDA?oc=5"
+    },
+    {
+      "headline": "GoDaddy faces securities investigation after st... - Pluang",
+      "source": "Pluang",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcm5sbkVPZDdZem02NGJkeHpaUXBYQ1VZQXRDSkNOV1pXbVQtMWgxd1NJQzVXQzQzRDBjYk43YjVDdTZTOWQ5QUFuRDBhMmlubk5sakFEYktzN0pFUzRTeDhCX0d0RjR0b0hDM3k4UTZqTkNTTlh5dDZlR0N5dVpmVE1JUVBIZlNEMnVJcA?oc=5"
     }
   ],
   "insight": "Tracking GoDaddy (GDDY)."

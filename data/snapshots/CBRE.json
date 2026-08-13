@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-12T03:38:16.745Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:29.154Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
-    141.05999755859375,
-    139.52999877929688,
-    138.02999877929688,
     133.1300048828125,
     141.41000366210938,
     143.69000244140625,
     140.9600067138672,
     138.6199951171875,
+    138.27000427246094,
+    137.08999633789062,
     135.5500030517578,
     139.4600067138672,
     143.8800048828125,
@@ -24,12 +23,10 @@
     147.4499969482422,
     148.17999267578125,
     143.94000244140625,
-    147.4600067138672
+    147.4600067138672,
+    147.39999389648438
   ],
   "6m": [
-    171.61000061035156,
-    170.3300018310547,
-    169.36000061035156,
     163.35000610351562,
     165.88999938964844,
     166.17999267578125,
@@ -145,6 +142,8 @@
     143.69000244140625,
     140.9600067138672,
     138.6199951171875,
+    138.27000427246094,
+    137.08999633789062,
     135.5500030517578,
     139.4600067138672,
     143.8800048828125,
@@ -158,10 +157,10 @@
     147.4499969482422,
     148.17999267578125,
     143.94000244140625,
-    147.4600067138672
+    147.4600067138672,
+    147.39999389648438
   ],
   "1y": [
-    156.1199951171875,
     159.66000366210938,
     158.5399932861328,
     158.92999267578125,
@@ -396,6 +395,8 @@
     143.69000244140625,
     140.9600067138672,
     138.6199951171875,
+    138.27000427246094,
+    137.08999633789062,
     135.5500030517578,
     139.4600067138672,
     143.8800048828125,
@@ -409,29 +410,30 @@
     147.4499969482422,
     148.17999267578125,
     143.94000244140625,
-    147.4600067138672
+    147.4600067138672,
+    147.39999389648438
   ],
-  "lastClose": 147.4600067138672,
-  "oneYearReturn": -5.5470078620101875,
+  "lastClose": 147.39999389648438,
+  "oneYearReturn": -7.678823427544837,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CBRE Group Inc. Cl A stock outperforms competitors on strong trading day - marketwatch.com",
-      "source": "marketwatch.com",
+      "headline": "Do Wall Street Analysts Like CBRE Group Stock? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3M5ZnNmRjcyY3dVUm4tTms0RVI2S2tCVlB3SkpkeTVaVTl5VFVoTHhUamtZdlRpNTdtT2k3aTVlUkpIRDNYN0JFSjIzNGVYLVJxVnZsbF9qdmx2bDdPMUw4ZnFIV3NZR1p0YWQtQkE4azVTaDd4UklBYXZlUjBtbjhEdUNnblRDcGc2SXZYWnhESmpyVjhWdGJpRDc?oc=5"
+    },
+    {
+      "headline": "Did Robust Revenue and Heavy Buybacks Just Recast CBRE Group's (CBRE) Investment Narrative? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmdzcmZTcFZuODRCaFFkclJXUTd6NjJYY09xal9fdjhJc2RiVGZfMTRRQmRGU2FORFNTM0pLSTlINE15UzV6YlUwU1piNVBLUjdvbnhKRmZsZTdHTl9BVERQZjViczA1Q09OTFBHSnEtM3Vtd0MzVkVUWkZyZ0hnd0ZfUXZKYW9fSGpaYkY2TV9TQUxoc0Y2MTFSS3FTTDFKNUs1eDBqbnNqVTNzV194U0NVNHpJVXgwd1hwRWM3ZGtwUC1rRVBqdUJ2dTl5S1BIQjZHU2FqMU9ERjU3V1ZETkpaMlBXZ2lUbHpsYk5B0gHzAUFVX3lxTE1TRXF3dXpYZGZCMjFKejVXbWFhc3hQaVg0XzNnYXQ3S3EtVHdtNEdGdnVjMTZKTWpDMEEtSUF4U0hTUjFvTktYbWpBRmZOeGdVcWxHUE9rNF9OaTBKM21XWjB5VnlDRV9BM1ZvampUdzZRZ2gxNU9aemdIWElPaER5NEh2VEJFV3p5RGlLY0xyMTJkYW1uUDY2NjViajVjT1REZXZOSGNMUjhsb2RIeVlQT1daYlE5RTZBYUhmMkF2MWdnOE9Rcm1wZFdhRXpySGh4aUtlOExVYlhlNk1xeDBXUDhRWGF2T05KNHd2cVNkdGVhbw?oc=5"
+    },
+    {
+      "headline": "CBRE Group Inc. Cl A stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeVBmY0RTZWQtdWlJOG9Ya2pqWHQxZFVmdnFQVzJsbjQ5VTdoeUNsQkxfQTN1Q0pTeEw1dW5wOHJLLVFHT1dlMW5fRnlyR21menJTSWFVRHRjM2lmSGNnZXdyWnFsOU9wbi1aYTFyb2liaU00cUZGYVFnWVJNcGUzalVyOXl4aGZ4dUtLbHA2M3JoR2dXRVFqZFB6ZXRLbmtDc09zd2V6bDBUTkJYbkZZR0ZMbHFxeUxwZ3hwTVd1RDBtZ2NBMWVmX3JJMGpER19IbjU1dlItejRKNV83MlNNOFpPbw?oc=5"
-    },
-    {
-      "headline": "CBRE Group Inc (CBRE) Stock Forecasts - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT1dVVVlXYmZuWWxzeEstbzlfMmtHVHFBMEVRcERWSE5GbVN1TjY4UmEyNHk4M044R0MzbVltNk5jbEFOYkVFejN4VlBfbzNESjNLVXZ5SEVRNXFqMV90aTZSbUVOMzAxWUxESmhQUkJtOEZxdG5nWG1waTF3SGlaN3Y4My1HamdUaUF1SWc1SQ?oc=5"
-    },
-    {
-      "headline": "PensionDanmark Pensionsforsikringsaktieselskab Decreases Stock Holdings in CBRE Group, Inc. $CBRE - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeWhiSDI1dmJlcEY4NVd4LUZrc3Jhd1dkNzc4VS0wRklYLWJ3VDFkUnVBSkh5TUVyR3M3dWpsWmdZNE1ZZDdBQUhqWXI0SnRjejdmSDdkNmNkMW1HbEpEMlhPbi1VYW42aWJ4S3c5Yy0xMHBuWjNGS2ctdU0yQk5sS2FGaVJRSTZtWk80a1VuY1ZGN2xWYm10TVFCYWVVSG44eXZkVWc1YlJPbGlyNllVeDNmNHh6cTN4Y3dqRHowcHlOenp4WWUxdTBFT2VLRFVvZ1Z3U0FkOXVOTmctUm0xUW1LbVNUMGx3eTJJ?oc=5"
     }
   ],
   "insight": "Tracking CBRE Group (CBRE)."

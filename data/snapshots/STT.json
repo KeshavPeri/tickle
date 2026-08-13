@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-12T03:38:50.336Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:42:03.412Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
-    180.16000366210938,
-    180.22000122070312,
-    178.1699981689453,
     183.64999389648438,
     186.58999633789062,
     185.66000366210938,
     182.5,
     182.5800018310547,
+    183.3000030517578,
+    185.24000549316406,
     184.2100067138672,
     185.39999389648438,
     184.66000366210938,
@@ -24,12 +23,10 @@
     184.9199981689453,
     184.67999267578125,
     186.67999267578125,
-    187.22000122070312
+    187.22000122070312,
+    190.11000061035156
   ],
   "6m": [
-    131.42999267578125,
-    130.86000061035156,
-    132.5800018310547,
     130.08999633789062,
     132.02999877929688,
     128.7100067138672,
@@ -145,6 +142,8 @@
     185.66000366210938,
     182.5,
     182.5800018310547,
+    183.3000030517578,
+    185.24000549316406,
     184.2100067138672,
     185.39999389648438,
     184.66000366210938,
@@ -158,10 +157,10 @@
     184.9199981689453,
     184.67999267578125,
     186.67999267578125,
-    187.22000122070312
+    187.22000122070312,
+    190.11000061035156
   ],
   "1y": [
-    111.41999816894531,
     111.5,
     113.5999984741211,
     111.06999969482422,
@@ -396,6 +395,8 @@
     185.66000366210938,
     182.5,
     182.5800018310547,
+    183.3000030517578,
+    185.24000549316406,
     184.2100067138672,
     185.39999389648438,
     184.66000366210938,
@@ -409,29 +410,30 @@
     184.9199981689453,
     184.67999267578125,
     186.67999267578125,
-    187.22000122070312
+    187.22000122070312,
+    190.11000061035156
   ],
-  "lastClose": 187.22000122070312,
-  "oneYearReturn": 68.0308780267819,
+  "lastClose": 190.11000061035156,
+  "oneYearReturn": 70.50224269986687,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Wedge Capital Management L L P NC Sells 42,410 Shares of State Street Corporation $STT - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeF9Jd0pCWWlNWFZ4QlgzUjNieU5QWFFEWllFblNXeWFDdzIzaTZkZTZfLXd1VjIwZlRXSEE3TmZhaFRXTjlpWHJOZDBrTlItVkR2Y2UxTjE4R1FKb3ZoV1NiMUtnVk5jcU83azlWR0tJRFVrNkh3bGJUWXk1WURFbTBxTTQtTXVMaEVOWnlHc2dYYmF0TS11VTJxQ21uM291Njh5aUVxalI1UWc4TW81TENJYUg2Ti12LTVLS2xpZ0lZVEM5aU43MzdoNXRiMVlXbTUzbV9Dd1RRVFNUekE?oc=5"
+    },
+    {
+      "headline": "State Street Corporation (STT) Raises Approximately $495.7 Milli - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR1oyaWRFR01SRTFfWWRrMDdDY05vbDVWUmpWWjdaaUtaYmJ3b2t2by0zM1hSZHd6QjdpZW9McmJwRllQLWNMZ1JkR2x2UHFyQWFmanlQVmNtcWRoWnJxYjdPTzFDa3BiQVNWbzd3d2JaQWR6SS13YUJ0eXNQTWFwZjhWYVBueW1TT2duWDNHLWZWOUtNLWVlaVVSdzdCVmxoMkZlclQ5RFhFZTRKc0lSZjVrWXZqUm9aV0lmaEdIV2J2Tjl2TG9adEg0MklzZVE?oc=5"
+    },
     {
       "headline": "State Street Corporation (STT) Is Up 1.27% in One Week: What You Should Know - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-23",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHFwZEhWMEFVTllhUTgxUnl6NU9VMUdCZ3FyejlWLUpDakwtSnN3MWpjdDlOa01LR29kYVZBak5WNWI0VVY1RzZGQmVrQUJkMW5ZQzExLURCd2pidEVCUG1KSnRHR2JpQm5CeUlTbWdtOTFoSERhQnp1cnEyWE5jaG04WGg1ZmprSy1YRVZDQ0VzdjBmVTJ5ZG9tWQ?oc=5"
-    },
-    {
-      "headline": "Hennion & Walsh Asset Management Inc. Buys 8,841 Shares of State Street Corporation $STT - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWXFpUWlidXBmSjhJdGl2N21wUHYtYlJxZUl2NEFUczNYSDN2cVd3M2dtM3dHcnBMdkRWNGxESEwyY1o1QzYxWnFjODdYMmRrZ0E1R3NyTmYzMy0yTWVkZDNXYUl3OUplVDRsUDZ3MlBobF9uTXg0RU9JOWJXQm9QMU8tT0RBVnZXd2ZyWElRcVp1bGhxTnNqZ2JCMHlJc2tXR1c2c1l4UVZPSEotTmUyRk1HTjRnY0F5SzRKQ2ZtTG5EYnpsUHlVZ2JQNVY3NUxfa1NjWERQb19FWUVH?oc=5"
-    },
-    {
-      "headline": "State Street Corporation (NYSE: STT) Announces Remaining 2026 Quarterly Financial Results Release Dates and Conference Call Webcasts - Business Wire",
-      "source": "Business Wire",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPN1loRmR0blZaQmE1MDVBcEoyemxsT3JvbDg4eDN2RkpuQVNqNWJGWUhGZ1RPY2IzMFpXN0diUlpnZXhETzBnS09zSXdJMFNQMGNONE9ZWFd4M244MTRSR2JaQVhQdUF3M1laVHhRTTZTNW43MThUb3BVSGltQjhucUprOWF3RGdKOWdFekkwYTM0TlFkMXRodzRXaWlJQS1tdG5nLVNrdVhDVzFGTy1YanVHS1N4ZUVPMlpZd0gxZkdJOFFxOTAzMnlUV1JHWDR1clV1UUlfd1BhOGZkVFZiOTNLYWMzUlJyUDVrak9FR085M1J4SGZRaTJXQXlWcGhORVNjX1lqNXJwNHdJUDQyTDdqSFg?oc=5"
     }
   ],
   "insight": "Tracking State Street Corporation (STT)."

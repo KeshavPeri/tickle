@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-12T03:38:49.387Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:42:02.029Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
-    220.60000610351562,
-    222.8800048828125,
-    219.4600067138672,
     220.92999267578125,
     225.80999755859375,
     232.72000122070312,
     233.4600067138672,
     235.77999877929688,
+    235.80999755859375,
+    238.2100067138672,
     232.38999938964844,
     238.88999938964844,
     243.35000610351562,
@@ -24,12 +23,10 @@
     254.30999755859375,
     255.22999572753906,
     254.8300018310547,
-    251.80999755859375
+    251.80999755859375,
+    248.25
   ],
   "6m": [
-    186.5,
-    188.64999389648438,
-    190.11000061035156,
     191.1199951171875,
     189.27000427246094,
     189.22999572753906,
@@ -145,6 +142,8 @@
     232.72000122070312,
     233.4600067138672,
     235.77999877929688,
+    235.80999755859375,
+    238.2100067138672,
     232.38999938964844,
     238.88999938964844,
     243.35000610351562,
@@ -158,10 +157,10 @@
     254.30999755859375,
     255.22999572753906,
     254.8300018310547,
-    251.80999755859375
+    251.80999755859375,
+    248.25
   ],
   "1y": [
-    148,
     150.27999877929688,
     147.3800048828125,
     146.94000244140625,
@@ -396,6 +395,8 @@
     232.72000122070312,
     233.4600067138672,
     235.77999877929688,
+    235.80999755859375,
+    238.2100067138672,
     232.38999938964844,
     238.88999938964844,
     243.35000610351562,
@@ -409,29 +410,30 @@
     254.30999755859375,
     255.22999572753906,
     254.8300018310547,
-    251.80999755859375
+    251.80999755859375,
+    248.25
   ],
-  "lastClose": 251.80999755859375,
-  "oneYearReturn": 70.14189024229307,
+  "lastClose": 248.25,
+  "oneYearReturn": 65.19164360959513,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Ross Stores Inc. stock outperforms competitors despite losses on the day - marketwatch.com",
-      "source": "marketwatch.com",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcFBweUhSQnVTN3I3RlJoM1lUS2VXc2ZvOWhiZnhfMTd1dUVGRVRSRE1jY2RhWnpnR1lIUFZqMGhnWVJZRDBaQkxXbmdmLUhkTldsSTd2ZjI0U3ZwQ2RRTVNhM0tiU2tuYmFfdFBraVJldUNVbTAtN3pwb2g3NmRKVWZjOXdpNXhRR25GUVlqZ3ZQVTlqaG1mZlE2VTVJUlZOOENFVzczSEs2SFg4bEJFSDNTc190NkJhbHJfM0xBd2dIOFZ3R1NDSklYdzh2eGJBb2VUYlRrU3NURFJuZ21NRGdqNA?oc=5"
+      "headline": "Ross Stores, Inc. (ROST) Stock Forecasts - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzNfcGdtajl6S3djbk8tTEt5MHlNVEtoeHdYenZObjBtQndhc3pWQS1KT1c3MVZhbXUxYW9fcHFrRVExN1JSYW5ubmZtdHV3M3NIQkU0cG9fQzk5UnpJT0ZISE55ZVV3SHoxVnRpeVE3X3lwVkFaeHBLXzl5S0lNQ2UzcnNGclVLZjNlYTcxdw?oc=5"
     },
     {
-      "headline": "3 Reasons We’re Fans of Ross Stores (ROST) - StockStory",
-      "source": "StockStory",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWx5TGxOajNGZ2tfSzIwUF9RTFVmbUREZ2pVdHhqSEdodnpmZmtnd0NzN01HMkFrQkxLUjlRd3NKTnZMVld5RVNPNW1scG84dmtBYWJqaVRVQ1JWWGdfQ2x2LWFnTDh5MUR3QXJxcHBwUTQ0YzNrVXVxMFcyLVBWOHdoZnpFeFZSenU0UHIxV2RsY2FWWHUtUUxxV2U0aTR0VHE4?oc=5"
+      "headline": "Ross Stores Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMk50bjV1X1BodnBmeVBKd2lBZnVkUTd1R0ZkT09VbEYtcndnek5weER5X0txREtJSC1hdWJ0bk92Y0hLZV8xVUJHaW9jOTV2ZXlzVzdTanRhTTVTTzNZZHkzVlRmMlE4YnFaTHB1d1N6OVVGXzNpdTM2YkxXcmFCb3JhdTQ4U0JjYTgtVVM2R3hlTmlaUEpBYjVVdW5uajBuWEw5U2trbnNyTC1GZjMxZm9xZ3c2MzZvS2xiTXlSNzRqbjQwY0xfNF9Da1dUTXVlMXB1Q0l5dVQ5ZnRYUTlzV01LMA?oc=5"
     },
     {
-      "headline": "Erste Group Bank Expects Stronger Earnings for Ross Stores - MarketBeat",
+      "headline": "Ross Stores, Inc. $ROST Shares Purchased by Handelsbanken Fonder AB - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel8wWkpCZEpfX2tneGFNbWx4MnM1bzNOMGhiN2piS2UyWEdycExTaDMwVzc4NUVQSzJDLVY3azl6NERRTlgyVTR5ZlhmZzJPLWxrWjdvckRsME5wVW4zUkQzUV9TVjZLZkpLaGIwby1XT2ZNZjgtaV8xUzNQY3FyTVV6QWtaZHJGbjNSM3RMNEl4QlpiOUxkb1RUOE9yQ0hRVXdMWk1CSEE2dFMyUjFLNlln?oc=5"
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa0dkTG9XdGNUdjBfZEhJOGFDdUZMUEs3SVlEcUxVVktvTlZmQ0MwNzIyWnBjOXlwNjNpUFBod1cyeUNaVVBkMmhpZlNwdDBNWE93RXhBTFNMQ3lhc2lNNUU4NUpNTFNSclRwRWxTX2o2RV9YTWxxTHlISnA1Z3BqdVAxNWVrT19KTHNWRlNoVXZxbENXVldyTzA3dzFMVC1fRVRsMTlRZkx2blBTQkpxb1hFTk1CZU5CcHdHY2FOc21uZjA?oc=5"
     }
   ],
   "insight": "Tracking Ross Stores (ROST)."

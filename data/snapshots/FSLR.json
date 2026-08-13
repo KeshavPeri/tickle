@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-12T03:38:30.978Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:43.735Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
-    221.02999877929688,
     220.5800018310547,
     223.82000732421875,
     211.92999267578125,
@@ -24,10 +23,10 @@
     244.13999938964844,
     250.0500030517578,
     239.3300018310547,
-    240.91000366210938
+    240.91000366210938,
+    226.77000427246094
   ],
   "6m": [
-    230.5500030517578,
     239.0399932861328,
     238.05999755859375,
     234.36000061035156,
@@ -158,10 +157,10 @@
     244.13999938964844,
     250.0500030517578,
     239.3300018310547,
-    240.91000366210938
+    240.91000366210938,
+    226.77000427246094
   ],
   "1y": [
-    184.72999572753906,
     184.83999633789062,
     180.0500030517578,
     199.9499969482422,
@@ -411,12 +410,19 @@
     244.13999938964844,
     250.0500030517578,
     239.3300018310547,
-    240.91000366210938
+    240.91000366210938,
+    226.77000427246094
   ],
-  "lastClose": 240.91000366210938,
-  "oneYearReturn": 30.41195757803785,
+  "lastClose": 226.77000427246094,
+  "oneYearReturn": 22.684488620050367,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "First Solar Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXR0WFdPUzlhVW1XRVhTMThaVHFySTJKaEpkVXlwUGp0U08yVVppdmkwd1A2SjVTYTdsd0NZRnFzS3lfMlMzdWlBb09TMEJoal92WjgxUlpmNzJSdGxLU3ktUmhXd1NHN0FlbjBLNVdsbm9UY2lFcFd1VHV3dV91SU1xZERLd0lrNWJLNHFOTHN0TjVIWjFNdU5TWG1icE95aHBFdmdraUYwd0hKT0ktb0VON0RNbUdsWGwtaXV4em5lQjdJQ2MxLVBqTS1JT2s?oc=5"
+    },
     {
       "headline": "Baird Just Upgraded First Solar Stock. Here's Why. - Barchart.com",
       "source": "Barchart.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3hFdDBkSUEtbTYyTTlrQXVTeGNKdE51MHM1QThYVk1ZcDI1Rk1ybjJxMG02WU96V0ltckJ6bnNUR3p6VVdVTTRmcjlIclp3bktUWDhZc09HNGtRWTFSZ1BYR0swRjVXdXMyeFpJMmhCZXVURm9RbENuTDN2S0RWOHB0LUM3cG9IOVR0cDRKd3hnUU5XWEdF?oc=5"
     },
     {
-      "headline": "First Solar Stock Scores Another Impressive Bull Note - Schaeffer's Investment Research",
-      "source": "Schaeffer's Investment Research",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGN6QmJmbGJabTBYR25uc0ZWcTl2VEZ6RzZoRl9OVVRDWnBCb2pZM3A0ZjVFM1dWLV9VSVJzdS1LUGFwTHVaR3RUc25EY1RHaHM0MmtRLU9EVjhRUXA1c2tYM09BcUpWLWFzNnZsa0taR3VQWmhYYmJETUx1VTBnM3hrS2FNQy1OTmhHQUl1azFicXVzVlkybEJxVzV5NXp0dFVQMnZFRmFvZ3oyQ0ZrYmV3?oc=5"
-    },
-    {
-      "headline": "First Solar (FSLR) insider plans 3,700-share sale and details RSU vesting - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFVEdHBNb0xWVGJmbmpzMFl1dmFkY1NiT2FGbUZXU2JzSlh1ZGZPQ0RpZWwxenlicGwyVnpicmNmSUlmTmE4WkdzRkV6LVRRMlNmbE1GdFBVQy0tREQ1czg2eGV6TTdZanBCX0lvSGJwdFNpQ3FJel9EaUhkSmtmemRMRFJoekpOeGQ2QW5YUkNvRF9VTm53?oc=5"
+      "headline": "FSLR Deadline Alert: Levi & Korsinsky Reminds First Solar, Inc. (FSLR) Investors of Securities Class Action Deadline on August 24, 2026 - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZGEzZ1dkQVVPS3c3VU9vSnRqT2stZmZlYWRLa0E1WmhBR284SWs4czdvQkp2Nk9ZSkVLZm1CREd3bkNOemp1Nm9IU20wZHZYNDRuTkJKdlNmT3VFZDdsdW5Ld2lTMnVKak54dC04NHh2V2czSC0xTVVBLVNHYlE1cUtuVHVNU0o1YTE0YkdKTlJJWTBZdDFOVlB0N3I5T3plR3hwbHFaV2dsb0dSMnhHOXpPLUxBczdVamN4S3VKRlotS2QzeDZJWWhXOXU3NFZ3WlUwbXBTN1BEdTlqQlAzMHpldm9VQ3BkOUFuVHVlLXlwQVFoS0c4YXM0UlRiR0ZsMlRyNGg3VFNOVjF6Q3h0MGJ3?oc=5"
     }
   ],
   "insight": "Tracking First Solar (FSLR)."

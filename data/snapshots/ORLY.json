@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-08-12T03:38:46.260Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:59.039Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
     87.27999877929688,
@@ -10,7 +10,6 @@
     86.05000305175781,
     84.52999877929688,
     87.97000122070312,
-    86.52999877929688,
     86.11000061035156,
     87.4000015258789,
     90.58999633789062,
@@ -24,7 +23,8 @@
     93.37000274658203,
     93.52999877929688,
     92.2300033569336,
-    92.56999969482422
+    92.56999969482422,
+    92.05000305175781
   ],
   "6m": [
     98.01000213623047,
@@ -144,7 +144,6 @@
     86.05000305175781,
     84.52999877929688,
     87.97000122070312,
-    86.52999877929688,
     86.11000061035156,
     87.4000015258789,
     90.58999633789062,
@@ -158,10 +157,10 @@
     93.37000274658203,
     93.52999877929688,
     92.2300033569336,
-    92.56999969482422
+    92.56999969482422,
+    92.05000305175781
   ],
   "1y": [
-    101.88999938964844,
     102.63999938964844,
     101.5,
     101.54000091552734,
@@ -397,7 +396,6 @@
     86.05000305175781,
     84.52999877929688,
     87.97000122070312,
-    86.52999877929688,
     86.11000061035156,
     87.4000015258789,
     90.58999633789062,
@@ -411,29 +409,30 @@
     93.37000274658203,
     93.52999877929688,
     92.2300033569336,
-    92.56999969482422
+    92.56999969482422,
+    92.05000305175781
   ],
-  "lastClose": 92.56999969482422,
-  "oneYearReturn": -9.147119197815098,
+  "lastClose": 92.05000305175781,
+  "oneYearReturn": -10.317611458363531,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "O'Reilly Automotive, Inc. (ORLY) Stock Forecasts - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTHlENVpxMnZKZENIQUxLbGloNUdfbno3UVdGeXh2R3lZUUhzQ0s3czVQQ3I2Tk12Zi05V0Z6SVNuSnJZcnp1WXJoMGF1ZnhXQVE0WkwtdzI1d1RvYU5HUGhYWnhtaU56RUw5WENJYldVZDVDdzk1cElwTm5VRHN0RllkWGEzUlpPSVE?oc=5"
+      "headline": "O REILLY AUTOMOTIVE INC SEC Filing (Aug 12, 2026) - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa2dFWE1LQVZNcHNacEZ1S18xQWVXSGN5MzI2SzR2cEdCblE5aDRLS0pGRUVHSFlWRHB3MUJtTlFVbVF2QVJFelNfcGJ4bnZoamhCand1RDN2LWswV3UwaWM0VnFpNGlnRlpzeTRsQjExWWRyMUJSenpRS2VldzhkdVN3MFcxNm5hd2FtenBSOGtVS0xLY2EtR0F6akRyT3lHSkE?oc=5"
+    },
+    {
+      "headline": "Handelsbanken Fonder AB Decreases Stake in O'Reilly Automotive, Inc. $ORLY - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeVV1QV9rZUNDMmcyNXBCS29oR09tb3VqTVU0RnFoejhRRHdKc0NIVWhSVjJCR1Y2TVhtRnVuQnVuamhUZWpLTzVlZHo3MUJOTWszUzhTM0xJSTJVODFpdmR1bTB0NjNmaXFNak0xRmtvelZ5YnBUenhKN09DTU9QUVd3WEdJdkVVbXpYd0pwNXBRdUF4N2MyRVcwMXVpQnpnb21uSEdKR1otdW9sZVlNTGFxelhZSER4SFoydnNZcDZVOE1OTmNxSU9zbw?oc=5"
     },
     {
       "headline": "O'Reilly Automotive (ORLY) Stock Faces Premium Valuation After Solid Q2 - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-09",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUlPLWU1Z0Zqa09HSm14Ql9JaDlVamVpbzd3MWxJMG1hX2RSYUotZF9UdjlXTHpnNlBwR1hzNXU1M24xQXdOSjB1TmNsY3MxWlFJQkdLVS1TU0VLOXQ1SkgzNUFFNE1RRXVrLVVLSUlWaURtMTZYLURvMXpMWFo1ZVlsRGdTZ1pPandaV1RwSDRGS241RDBHS1dKVG0talpQVGRLYjNfUjkyY1p1clhVZHA5S3UyZFVfVmVjbVRfSW91Y2dtdWx0VzJQUUVfd3fSAdQBQVVfeXFMT1J5MUR2bVlac2xVQ0doMXZnRGVGWUtHLVVNT3hFeVhuTWVJZFd0WUN5aEVoMVl6Zk5wZHpBQ1p4UzkxNk1uZGtfcmxjYnJQS0N0YTJrRzItbVZDY1lkR2FVbXoxa3pnY3VpWXhGamQtS083bFczcFBGS18zNjR0OURlczhSZGR1d2lEZW42bTVMbFdSVElRczBZWEJoRjZhQURfVG0yY2pVVUNvVTM5TU5fRXVLVlF3LWxqd0FtMnJqaHNGajFVdGZnNC1IcXRseDNTNVo?oc=5"
-    },
-    {
-      "headline": "NewEdge Advisors LLC Buys 18,827 Shares of O'Reilly Automotive, Inc. $ORLY - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZXZxcFZZQ3BnU0tjcDN5MDNMZV9RN0dWSUUtb3ZLLWMtMlI0aEFULTZDY3BzMWF3clF5eHR2MzlzNm85Q3FiZ3J2RU5kckpfYVRlTkxuMnM2VzYzLVZPVnJKSTRBMV9SbjI0TUl5ZlR4eWhqNXo3ejBoVXhnbzRvTjlkRG5pZjBZb1FzZzhOTW5GWVF6enR1VWJqWHotTmM0bFJwTF9TYk4xZ3B0UGxLV2xIUUs2OWhHeUM1U00tUGpfSENCRjBOTEpn?oc=5"
     }
   ],
   "insight": "Tracking O’Reilly Automotive (ORLY)."

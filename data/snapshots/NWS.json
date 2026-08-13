@@ -1,32 +1,34 @@
 {
-  "builtAt": "2026-08-12T03:38:45.469Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:58.079Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
+    31.1299991607666,
+    30.93000030517578,
     31.40999984741211,
     31.149999618530273,
     31.65999984741211,
     32.540000915527344,
     32.41999816894531,
     32.209999084472656,
-    31.209999084472656,
-    30.950000762939453,
     29.75,
     30.190000534057617,
     30.920000076293945,
     31.809999465942383,
     32.63999938964844,
     31.799999237060547,
-    31.270000457763672,
     31.790000915527344,
     32.720001220703125,
     33.130001068115234,
     33.869998931884766,
     32.45000076293945,
     32.5,
-    32.66999816894531
+    32.66999816894531,
+    32.68000030517578
   ],
   "6m": [
+    30.610000610351562,
+    31.100000381469727,
     30.8799991607666,
     28.84000015258789,
     28.09000015258789,
@@ -143,25 +145,22 @@
     32.540000915527344,
     32.41999816894531,
     32.209999084472656,
-    31.209999084472656,
-    30.950000762939453,
     29.75,
     30.190000534057617,
     30.920000076293945,
     31.809999465942383,
     32.63999938964844,
     31.799999237060547,
-    31.270000457763672,
     31.790000915527344,
     32.720001220703125,
     33.130001068115234,
     33.869998931884766,
     32.45000076293945,
     32.5,
-    32.66999816894531
+    32.66999816894531,
+    32.68000030517578
   ],
   "1y": [
-    33.279998779296875,
     34.040000915527344,
     34.400001525878906,
     34.029998779296875,
@@ -396,44 +395,42 @@
     32.540000915527344,
     32.41999816894531,
     32.209999084472656,
-    31.209999084472656,
-    30.950000762939453,
     29.75,
     30.190000534057617,
     30.920000076293945,
     31.809999465942383,
     32.63999938964844,
     31.799999237060547,
-    31.270000457763672,
     31.790000915527344,
     32.720001220703125,
     33.130001068115234,
     33.869998931884766,
     32.45000076293945,
     32.5,
-    32.66999816894531
+    32.66999816894531,
+    32.68000030517578
   ],
-  "lastClose": 32.66999816894531,
-  "oneYearReturn": -1.8329345935284025,
+  "lastClose": 32.68000030517578,
+  "oneYearReturn": -3.9953013330595954,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "News Corp stock hits 52-week high at 35.3 USD By Investing.com - Investing.com Canada",
-      "source": "Investing.com Canada",
+      "headline": "News Corp stock hits 52-week high at 35.3 USD - Investing.com",
+      "source": "Investing.com",
       "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTRobHZQLXQ4U2llZVFUTE1OcFFFX0gwTURUdXAtX0R2OE5MM0FNZ1JCQ3oydGVRcWVCWGlBS25FRE1ncTJvbHVEdVNyMmhzTlhqS2lMbmlidy1lenZoSktGZFY1LVFWck5WQ3d3WHJYT0liYkQ0ZU1oQTFHYzNHc01uR0oya3E4TWRtTGdLSEhXT0h1TnlaNzgwTXBtekRIdGIyd3JpRQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakU1T1pMblFqOTVBdWI3ZmMwM3hFRjlJYzRHNHpUQm42akVsMlVtakNWUHl1OFd2WkMyWm45Y29IS1ZkREFIVzRSdThvSUlQcGwtd2ZhUDNHTFZQSUo3UV9OaGw3RDVqNmtUMkhXcGdvQzBYLWtKb0Nkd1dnZTV4cm54b2VKZk5fSXpGMG9xOWR5RHVSaElyc1VSMHZWX1BmdlE?oc=5"
+    },
+    {
+      "headline": "Wall Street is quietly buying into the Murdoch succession plan - afr.com",
+      "source": "afr.com",
+      "when": "2026-06-21",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSFhWMGE4ZUxrTGxobWZWY2daUzZPdWNvQ2w2T2dtdEJ0V1BSbHNMYy0xa2hZbXZCSzdLOTRVa010Y0V6NTUzM2x1SnBNR3c2ZTZuVU9ualBOVTJpWnlORmlpOEVfUFJQN1MyMG80X1cxNzZfQWRfekZlTTVTbXE5b1AwUll5NjhTd1hhTlVqazBieTJpRVFPbWJlMGV3NUtPeWVsc2FJQUdRZEt1NnNMREI0Vi1qTHcyd0NOWHJ3?oc=5"
     },
     {
       "headline": "Perpetual IM discloses 4.4% News Corp (NWS) Class B stake - Stock Titan",
       "source": "Stock Titan",
       "when": "2026-07-15",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMm8wcV92QkVKdlhJdXhIRmNIRkhreUlKRExwOUtDMVBWaklfczdodlFzeVRIbldLaDAzQVd3TGF4RUJSU1hOZW1oVHZ0eV9RWmRIN1RGX0dsbVIzNkJQQ2pCNGd4bExPek9SQmg1NXBGeE1kQmVyZ1JXVkpRWDBYdVhWaFRYVWxtQVp0TTZBVTV1VHJVeHFWRXBqd3NGbjF3RV9aT0FWTFZrQ1hnRk5BeDJXVEp2SWV0VFBvMy1fS3o?oc=5"
-    },
-    {
-      "headline": "Wall Street is quietly buying into the Murdoch succession plan - AFR",
-      "source": "AFR",
-      "when": "2026-06-21",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSFhWMGE4ZUxrTGxobWZWY2daUzZPdWNvQ2w2T2dtdEJ0V1BSbHNMYy0xa2hZbXZCSzdLOTRVa010Y0V6NTUzM2x1SnBNR3c2ZTZuVU9ualBOVTJpWnlORmlpOEVfUFJQN1MyMG80X1cxNzZfQWRfekZlTTVTbXE5b1AwUll5NjhTd1hhTlVqazBieTJpRVFPbWJlMGV3NUtPeWVsc2FJQUdRZEt1NnNMREI0Vi1qTHcyd0NOWHJ3?oc=5"
     }
   ],
   "insight": "Tracking News Corp (Class B) (NWS)."

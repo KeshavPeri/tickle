@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-12T03:38:31.056Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:43.753Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
-    160.6199951171875,
     166.8300018310547,
     164.50999450683594,
     160.77999877929688,
@@ -24,10 +23,10 @@
     160.11000061035156,
     159.63999938964844,
     164.2100067138672,
-    161.88999938964844
+    161.88999938964844,
+    160.83999633789062
   ],
   "6m": [
-    81.29000091552734,
     79.30000305175781,
     81.12000274658203,
     78.93000030517578,
@@ -158,10 +157,10 @@
     160.11000061035156,
     159.63999938964844,
     164.2100067138672,
-    161.88999938964844
+    161.88999938964844,
+    160.83999633789062
   ],
   "1y": [
-    78.47000122070312,
     79.33000183105469,
     77.25,
     79.11000061035156,
@@ -411,12 +410,19 @@
     160.11000061035156,
     159.63999938964844,
     164.2100067138672,
-    161.88999938964844
+    161.88999938964844,
+    160.83999633789062
   ],
-  "lastClose": 161.88999938964844,
-  "oneYearReturn": 106.3081392522474,
+  "lastClose": 160.83999633789062,
+  "oneYearReturn": 102.74800532643864,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Fortinet Lifts 2026 Guidance on Firewall, SASE Demand: Buy the Stock? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3ZHY0lqMl9EMUdyMkpoeERlZ3ZrZ0lCc2NfODR3S3pETk53eHZMR21LcnNlY3Y0NDNZRkwtOUpSOVdtVWRBT3pUZDIwbnd4Um1PYTFRR25abFZGTzRLb3ozeUNoS3RTWXpudk1ZNXBHamtpSW9rWlVhTkMyV0RfcXROWlExYVBseFRabkxIRndLb3lVV0R0cnlEOFdNbkk?oc=5"
+    },
     {
       "headline": "Massive Update for Fortinet Stock Investors - The Motley Fool",
       "source": "The Motley Fool",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTWJGVTFOdks3aE85UERuVVJOLWhFVFVVYWo3enJjRGZtR0t1TG1UOG5iRGhuMFBJaklSVFlTZ3dPMGVzcnVtWkNSclRDanNaSU9vNmV5ZW5MaWNHX3J2dk91UXNnMmp1a3FGdFY5VFhlOFpyYlY1a2JKVjNaXzU0R2d4clkxdlU4WFRFNEVDMA?oc=5"
     },
     {
-      "headline": "Massive Update for Fortinet Stock Investors - The Globe and Mail",
-      "source": "The Globe and Mail",
+      "headline": "Handelsbanken Fonder AB Trims Stock Position in Fortinet, Inc. $FTNT - MarketBeat",
+      "source": "MarketBeat",
       "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVzFxYlJITDdtWktYbkZJX3pVTzFrSVRDTDM4QUV2eE1ORU1EenV6TnVpSUtJZU4tV2wxcGtJQVV2bnd2eF9wdnFOREg3Z1B5cWRpZkhsUVRvYmpkak1JYW5sRjE2Rng2dkhvUjV6MW1aakNXMmxiX1Nnckp5MHAxa1BWcTBFaFc3OVAxQ1dzeVhWU0tSN2RjaHZaemZ4WjAzbUFkOF9qWTZLWlVqdy12YjM0Z2xDR0pURW5EVlBSYzNZLWg5eTdyRXhn?oc=5"
-    },
-    {
-      "headline": "Fortinet Inc. stock outperforms competitors despite losses on the day - marketwatch.com",
-      "source": "marketwatch.com",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaU1JNmpmNW0wRDFnRFJLdndqNnN1ZUJQM2t0cDVTM19jdkduSW9QNXJGU1czSkljMUhkM0h5RV9HVUJRVGxuMVRVNVZMMFZ6YmZoODNmamROQ1hMbzE5UTNuZ1dJMEN1WTl3c1g2MnB6SmloRl9TNFdlUkdGTkxkNURtR3cwcDYxWVY1X0FnQk01TVJPUjFDNkFJc2phdHY1ZHRKWE1lMTBhaE90VlM3NW9IcU1wSFExbk9VUW5fUUk4Q2c1UkY0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWXhTRjhsQWZaRFhEZVE5Yzhtc3hwUFZ5Y2REVzFPazFTMEM5b0QyaGRnQlpZZ0s4NW1uRkZxTGx3MXlQWFBRN1FuMmdYd2VzcFM1c0FiYmRQczB6dms1R0tBOWlNRnJPYWU0U3hZS2VBM0xSS21WMTdJa3FldWd1ZTZtR3Q2UmxMMmtTTlpCZVRYa29PcXRvOXRPSHhiOHNqanpwOXpzMG11WTA3b1pEUWxBUkFrSU0yYzNURDVtTEVwT2pS?oc=5"
     }
   ],
   "insight": "Tracking Fortinet (FTNT)."

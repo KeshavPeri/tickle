@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-12T03:38:12.427Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:24.675Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
-    194.52999877929688,
     191.75,
     190.2899932861328,
     195.5,
@@ -24,10 +23,10 @@
     186.5500030517578,
     187.5500030517578,
     183.83999633789062,
-    181.75999450683594
+    181.75999450683594,
+    179.7899932861328
   ],
   "6m": [
-    175.32000732421875,
     174.2899932861328,
     177.80999755859375,
     169.6999969482422,
@@ -158,10 +157,10 @@
     186.5500030517578,
     187.5500030517578,
     183.83999633789062,
-    181.75999450683594
+    181.75999450683594,
+    179.7899932861328
   ],
   "1y": [
-    186.92999267578125,
     191.05999755859375,
     189.32000732421875,
     190.5800018310547,
@@ -411,15 +410,22 @@
     186.5500030517578,
     187.5500030517578,
     183.83999633789062,
-    181.75999450683594
+    181.75999450683594,
+    179.7899932861328
   ],
-  "lastClose": 181.75999450683594,
-  "oneYearReturn": -2.7657403153662776,
+  "lastClose": 179.7899932861328,
+  "oneYearReturn": -5.89867288625118,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Avalonbay Communities Inc. stock underperforms Tuesday when compared to competitors - marketwatch.com",
-      "source": "marketwatch.com",
+      "headline": "Vivmark Residential expected to trade on NYSE Aug. 18 if merger closes - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFczUTFvNE1wMllCZEtpTVNZY2c2MVRlR3UxaGRDNUYwXzBWeFJoSGtLcnh1MUZoZEU3aXA5ekFHeTNRTzRSTlRJOVRtQ2x3SjQwUjYxb2VwTVdlZHRjaXVHNnJJaHJnb2RFRERiWDdBdkkxUzFaRmJvcmRfMTY2RUhSUTdTNFBEejVfVkdUb0djSUtfcDBpSzFBRE1CanY5cVZIOUpuUGJaV1F1Qk1OYW1xQUhtZTZ1LW5nQw?oc=5"
+    },
+    {
+      "headline": "Avalonbay Communities Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRkpZQ2t0c2xVNXlmVno2M1hIV3N4RENUQzlhTDN0SEdySXpSbUY2b2l3bjhqRWhLb0ZySlpuZlI2XzlISndjRmRZQWpQeWdlR3JPS1Y3WGlWc1paTVQzUlVuU1Fmd29IdUtsSVhZUnhzMmV3ZEpfYzZxZS16RjlOMU55amxTNnhFSGhuamVrMHN4cUtxX21QYUhzTm1VWm5VWmRYRzNCTTVfQjViOThjOEFGSHJKT0dfamNSeTZ6bkJvcUE2Sm9rWGloTDlTblRzMU1za0J4SzYtVTRhcF9BYXJMODBHYk1NbVpRZjUzZlh4QQ?oc=5"
     },
@@ -428,12 +434,6 @@
       "source": "MarketBeat",
       "when": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQckFHRjBnemRzSHpfdTVZc0JwSjBTZHhJbW9UZjROVzBXVmlpM3ZVV0FUZkNiY0J0R2lCWVVZd2tjYmYzUDA5aWF2QUVSNV8tdFprT1pwd2dZeEF0TUVtYkVLWldqTG5FRFZHRF9BcnAxSkZtQUxuM0V4bVQzM0ItS0wxNm5VYVpobXlQS1ZkcTVwbjRnVUxTelZaaUVtblRQVzkxQmlrbmNiX0IzRmhWbnVlOV9DQzRTb2RWYVV3ZDU3Z1NUNzFMNnFPZXowc055amdOVm9IRFRLM1hZWUhXeGVNT2d3SHM?oc=5"
-    },
-    {
-      "headline": "AvalonBay Communities (AVB) Faces A Valuation Test, Is An 9% Discount Enough? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOenRLaS1Dd0g2RF9xVVBpU0VabjhYTzc4LUQyX1VFWkZick4xdkUyaWpUV1dhWTlWR0c4ODR2TmNTbmJ4TDROSDlTUjhxN0ZjZVdVcTFnWFhpZjVfNk9YdlBpWDBUZ0t4enhIWVg3OXVzSThNQ1NkNkFpbjhDNTJ5NkJnN1JyeXFJOUFVc3dJSVNtakI3RThTcHdmVFlXRWYtVXVka0xiNmstY0I3ZW5fS293R3BMbndKcEFtVlV3bS1ETGZ5ODJtYXhIT2R5cndBdmpDT3NuMNIB3AFBVV95cUxNUUhTLVA2VXFnME5qVUh4Q0duNklZZHo4djVBdlpUa0RYQjAweDhHbExJbHU4UnNtRFg2TmtPWVZ5aURmZk95cWxPQkJkeWtualBQcUxfTWhRMVp3el9BTU15eEdhZ1hxZHdBLVdOV3hpWGd4LTBUb2Y2cU52TzdtcmQ2RGlnRVhMaktUVnlLc2ZqaGhKOHhMT0hOZFl5RlVzVkpBcmluT0YyeUJEZUJtekh2QUh5UDBuRXd1OUpZbS1rOG9uVXNkeEF0YkE0TGp0QXMyZnFvRTh4LWwx?oc=5"
     }
   ],
   "insight": "Tracking AvalonBay Communities (AVB)."

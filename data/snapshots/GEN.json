@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-12T03:38:31.807Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:44.555Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
-    25.989999771118164,
-    25.90999984741211,
-    26.15999984741211,
     26.56999969482422,
     26.450000762939453,
     27.010000228881836,
     26.739999771118164,
     26.68000030517578,
+    26.110000610351562,
+    25.579999923706055,
     25.06999969482422,
     25.84000015258789,
     26.739999771118164,
@@ -24,12 +23,10 @@
     28.100000381469727,
     29.170000076293945,
     29.290000915527344,
-    29.010000228881836
+    29.010000228881836,
+    28.639999389648438
   ],
   "6m": [
-    23.899999618530273,
-    23.989999771118164,
-    23.790000915527344,
     22.450000762939453,
     22.93000030517578,
     22.43000030517578,
@@ -145,6 +142,8 @@
     27.010000228881836,
     26.739999771118164,
     26.68000030517578,
+    26.110000610351562,
+    25.579999923706055,
     25.06999969482422,
     25.84000015258789,
     26.739999771118164,
@@ -158,10 +157,10 @@
     28.100000381469727,
     29.170000076293945,
     29.290000915527344,
-    29.010000228881836
+    29.010000228881836,
+    28.639999389648438
   ],
   "1y": [
-    31.850000381469727,
     32.15999984741211,
     31.510000228881836,
     31.469999313354492,
@@ -396,6 +395,8 @@
     27.010000228881836,
     26.739999771118164,
     26.68000030517578,
+    26.110000610351562,
+    25.579999923706055,
     25.06999969482422,
     25.84000015258789,
     26.739999771118164,
@@ -409,29 +410,30 @@
     28.100000381469727,
     29.170000076293945,
     29.290000915527344,
-    29.010000228881836
+    29.010000228881836,
+    28.639999389648438
   ],
-  "lastClose": 29.010000228881836,
-  "oneYearReturn": -8.916797860511794,
+  "lastClose": 28.639999389648438,
+  "oneYearReturn": -10.945275107166779,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "FMR LLC Adds to Gen Digital Inc (GEN) Stake -- Shares Look 12% Undervalued on GF Value - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYkh0THlWeGhMZU02VHBJN2NPNWNDdUYzd19qTEdncTRMMS1RMUs0cXRXSmJBd2Y3bzBDWnM5LUpmNDBxSTNRUEVEeDVnX2NTQW5icUt4am1sa2stZEFud3FJV3BRZ0pKdlM3S2dDZXBkLWI0RDJ4TjVWaXRRcEJkdk1jODB5T3ZxU0dKZW9BcW9YYmZySi1kaEREUWZnRXFodmU4N1VNVGFTcUMyazFHV1I1dnFfQ1FRVWRJ?oc=5"
-    },
-    {
-      "headline": "Gen Digital Target of Unusually Large Options Trading (NASDAQ:GEN) - MarketBeat",
+      "headline": "Travis Michael Witteveen Sells 30,000 Shares of Gen Digital (NASDAQ:GEN) Stock - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWTlUdXRJOV80anYyLURZdWk4M3NmdkQ3dlItdVFzZEM2RkFGU3BNT2ZUSVpxMER1NGQ0c0tvVi1jeTI1ckdmYnk3MTlyRndab0VtWjBPTUlCQkNoaHRrTktkQkdZVkJDRW9FNmVTME9IbDktaF9tQ1RMQXV5RDBaODVLNGd5OENUcFBFV0FCekVpNEVaRUt5Yzlvb0dMajF4d3VCZWFObWZlaTFHd3NpejQxTUNNRVJU?oc=5"
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQanpwRnNmc01LYlpXaWtLQWYwVTB0cVAzSC1EZ2lvbFU1RnBZZFlqd0M5Qk13dDhnLVI2ZUJHZlBLMnBXQ2lRMkNxZWFQUDFQNXJBLXk3TG16SjNwSC1zWGdyakEzVjlMVmhZR0o5Zlc2Sjh0dnFwWVhUcFZYMU1fdVlqTXVqa2pxci1wby1ubkU4dXdXaU5PUElHc2M0cnFaNlpLV2llR0hXVnFZTkdIQzhHQzdYT1pJVjVMZDREc29tdEZJU2g0?oc=5"
     },
     {
-      "headline": "Gen Digital (GEN) Stock Looks Below Fair Value On Cash Flow And Earnings - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYVRyU0RLTEUzX1NSSG5ycWs1dDZ2cXYwTkkyNXpERzRFSlBubmFtd1FmTC1BOXlKOG5wQjBPdUpaeE5rSGp3LXZDb1F3SzZTMWdsTjNOWlh3RkhuSVEwbGl4V2dBWTlwOUp0NFk5UVVLSEdtVlRqNEZoVjk3bnZCaVlMTk9xbDcxbzBqbUtRQ2cwOXpRVElF?oc=5"
+      "headline": "Gen Digital (GEN) product chief sells 30,000 shares, retains large stake - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPakkzZ0Y3NmlKc0JlZ3RWelZnT1h0dnp5T3lNVk80Q2h1YkRaQzRqUWRqVF9lV3l0d3BLMFR4dUVjSW53TzF3MkxnVkhtUU9fN0RfNEVZd2pnN2EwNDMtX2l1QlAzSTRxOC14NmFMb204NGRxeXBXblItcFpLRkprODdxSzVZR3hWbFcxQmlqcmgxeG1udVJrUDVkcmx1cWpmbF9XOTY1NGRQU2RS?oc=5"
+    },
+    {
+      "headline": "Why You Might Be Interested In Gen Digital Inc. (NASDAQ:GEN) For Its Upcoming Dividend - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlJBaExaODhEYnQ2NHNsLXU4dm01SmdUb25tT3hJdUxzdUJxRnhTUlFvbkppeWh6c3ZsdVU4dktIdlVXZVlSVEJnVVZYRlpKblEtV2IzQUZDLXpIbjRzTFRKMWNuX3huNkdmRm1WWmxGVVd4MDNVMTVOZU5sUFB1Ty1Ba3VvNTgyRWtySzlZazdGbFltQTNNSW1tN3lOaGVXSlo5TTNsdlB4MV9RbHhxcDl6cTh3WUpxUXpTdlZCZFpZekZoNjVqdjVNM3pmZ9IBzgFBVV95cUxOYlJBaExaODhEYnQ2NHNsLXU4dm01SmdUb25tT3hJdUxzdUJxRnhTUlFvbkppeWh6c3ZsdVU4dktIdlVXZVlSVEJnVVZYRlpKblEtV2IzQUZDLXpIbjRzTFRKMWNuX3huNkdmRm1WWmxGVVd4MDNVMTVOZU5sUFB1Ty1Ba3VvNTgyRWtySzlZazdGbFltQTNNSW1tN3lOaGVXSlo5TTNsdlB4MV9RbHhxcDl6cTh3WUpxUXpTdlZCZFpZekZoNjVqdjVNM3pmZw?oc=5"
     }
   ],
   "insight": "Tracking Gen Digital (GEN)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-12T03:38:35.179Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:47.902Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
-    24.770000457763672,
     24.6299991607666,
     23.75,
     24.139999389648438,
@@ -24,10 +23,10 @@
     28.18000030517578,
     30.049999237060547,
     29.799999237060547,
-    29.06999969482422
+    29.06999969482422,
+    29.280000686645508
   ],
   "6m": [
-    19.809999465942383,
     19,
     19.81999969482422,
     19.149999618530273,
@@ -158,10 +157,10 @@
     28.18000030517578,
     30.049999237060547,
     29.799999237060547,
-    29.06999969482422
+    29.06999969482422,
+    29.280000686645508
   ],
   "1y": [
-    26.600000381469727,
     27.139999389648438,
     26.93000030517578,
     26.739999771118164,
@@ -411,29 +410,30 @@
     28.18000030517578,
     30.049999237060547,
     29.799999237060547,
-    29.06999969482422
+    29.06999969482422,
+    29.280000686645508
   ],
-  "lastClose": 29.06999969482422,
-  "oneYearReturn": 9.285711571174112,
+  "lastClose": 29.280000686645508,
+  "oneYearReturn": 7.885045486822287,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why HP Inc. (HPQ) Stock Is Up Today - Quiver Quantitative",
-      "source": "Quiver Quantitative",
+      "headline": "Why HP Inc. (HPQ) Stock Is Up Today - quiverquant.com",
+      "source": "quiverquant.com",
       "when": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PbDBVWF9UYVZEWmYzMmpkX0czd3VxTDdHNlAyaEF3SWdsUUhMbEdEYUQ4WUZhYzU3dkxtX2Vxa2U5TG16UUVNZl9hdTllR2ktanI1am4xdHk0QTVDWERmdVhpNk5JUmZ0Rk85RG12TWFnNHZpMVM0UjQzdlE?oc=5"
     },
     {
-      "headline": "HP Inc. (NYSE: HPQ) CCO McQuarrie sells 21,048 shares in planned trade - Stock Titan",
-      "source": "Stock Titan",
+      "headline": "HPQ Beats Q2 Estimates But Lowers FY26 Guidance - stocktwits.com",
+      "source": "stocktwits.com",
       "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUItY19yZDJHWGlFQ1JCWlA5YTNXaGtEdExCclNWanRHem80ejZLSU9pVmtpNTBwN0MwdnVXSG82YnQzNFk0ZHVVMXlpN3pHT2tqU3lrc25Hb1hqS2FuLWJWb0tpWlBkVzFEbUxTTGxpUWZ6VGcyTU1Xd21QOHRHZUpLOE9pNUwtbzB3QktOTXp3WVJmVmJFcVJFSGdXc01l?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMy1mdVdLWkVybVBEZXkyb1JXWllnTmp4MXRmTFFUMzQ1Z1ExaWdVeElnVEFPTEh3UnMyaWZ0YjBnZ29nWVlWQzlvX2YzbGZXNHZaZWsteGlHYzNkcjRGd3RiV3VpRTdELUdNVFc1LVFjRUlGNnVKUGpHNlV5cW5YUmhJLWMtVUxjOHNycEJPdFJvTzVmWXE1TE9BWFVKLUZfVnQ5WHBxUzFIN0ZiY2MwT2dLS2tjSC1KbXR4Ul9DelpPVHEw?oc=5"
     },
     {
-      "headline": "HP Inc. stock outperforms competitors on strong trading day - marketwatch.com",
-      "source": "marketwatch.com",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMGM4NDNYMnRPcmJGM1BLQWNGTkpBNnd5V0Q2SXAtWExvRkpwbXVlZkIxNms1UWZUZmo4cjYwY1BGWVFQX0hFN3lSV0Y2WHRHS3JNNlh5RHV4QjVBMWVMeW42S01SbVZTa3ZPWG1MTU0tTjBmbXZuQ0o3SWstdGhKUWw1Z2VkVUhGRUNaTmk1QkVNeHBqY2ZsdFM0OFpFY2lSd3AxVUhoa3UyNnAwcGFtTFAxd0hpUzJKSnc?oc=5"
+      "headline": "HP Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXl2aE41Y2d5MUZvVkhQVFltajZmdTRUbno0NWJvVUVDbFU3V0pfYnhhUjJyZUFKeDVOY0VnaGFTMm9tSlJzQ0l2cm1aUzBNYUtrRkdlVGdMb2RPU2NZZ1JKRVlYNFRra3FHcHpEbGRXRlplZHdJUVR5WVJNNXczU2tVc2FoQ3BGTlBRT0lSZ0NPYTlUUC1LeWtwRm9qdXZKOVozOGNCbkdHaUw1MWFJUzNHT25GZEs0ckZoOTVsMXc?oc=5"
     }
   ],
   "insight": "Tracking HP Inc. (HPQ)."

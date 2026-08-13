@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-12T03:38:15.597Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:28.000Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
-    122.04000091552734,
     124.55999755859375,
     127.05000305175781,
     128.97000122070312,
@@ -24,10 +23,10 @@
     133.4499969482422,
     137.1300048828125,
     141.66000366210938,
-    147.1699981689453
+    147.1699981689453,
+    146.41000366210938
   ],
   "6m": [
-    141.27999877929688,
     133.8800048828125,
     134.5399932861328,
     126.83000183105469,
@@ -158,10 +157,10 @@
     133.4499969482422,
     137.1300048828125,
     141.66000366210938,
-    147.1699981689453
+    147.1699981689453,
+    146.41000366210938
   ],
   "1y": [
-    173.74000549316406,
     176.6199951171875,
     174.67999267578125,
     171.6199951171875,
@@ -411,12 +410,19 @@
     133.4499969482422,
     137.1300048828125,
     141.66000366210938,
-    147.1699981689453
+    147.1699981689453,
+    146.41000366210938
   ],
-  "lastClose": 147.1699981689453,
-  "oneYearReturn": -15.292970233769312,
+  "lastClose": 146.41000366210938,
+  "oneYearReturn": -17.104513809455025,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Blackstone (BX) CLO John G. Finley reports 45,000-share stock sale in Form 4 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0Z5RkNmY3VKWXJZaUgwWFVSWUdQNDBUWVh0bWVFUW0zNjBTeFNSVEVwRHp2eFVUSG82eWVyTzB6bmo2RHRsYzNLaDNLaF9Nd2FyMi1VOUVtMHk4SHVKS0xCYnBUQVpjdmx6ZDJ2OHk0THVzNzlGcGJUX21hTzJ6RGJmc3RTaWhQUWcwaHllT3F1ejcyTG5hXzRJLW1RSUhFNHYxZ3l6MV9IZw?oc=5"
+    },
     {
       "headline": "Blackstone Inc Stock (BX) Moved Up by 3.50% on Aug 11: What Signal Does It Send? - TradingKey",
       "source": "TradingKey",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTZFb3I4YnhiSUZ1TG9GRnFZZjZhN0J0NDVUaVJ3WWpuQ3MtSlVSREJ5RTlTYXdsX2RReFhxczhZMVZ6emR3Q3pJU0FjRXdTRF9HMVdscU9Fcm1iaG16Q1Q1RGJkQ0Rxa0Z4Tmo0dGRnRGxDb3lWcTZBT0hJUEcwT3V4Z2NVcWpp?oc=5"
     },
     {
-      "headline": "Blackstone Inc. stock falls Thursday, underperforms market - marketwatch.com",
-      "source": "marketwatch.com",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2FQZmJTMHFJRDJmVFh1Y1ViOHpLZGoyZU1LVUdKYVQteXNheUxzT29wSEItUnpmV3NmY1lpbnh2ZjZOUTVaRER2SXlLcUJCSHJ2ZUk0VF9rVERYX0R0dUgwai1fZjdaNUU4d0h5aGtuMndjcS1oRzhRR09MYi15dmw3NmNIeDhRakJESnk5WEZucTV1cnJYaU9KdkFBU090ZVBrSU9mT2pDTXF4QU1ZUlRiWVNUdWc?oc=5"
-    },
-    {
-      "headline": "Blackstone affiliates (NASDAQ: BAER) file Form 144 for planned stock sale - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWUZlOGdPd2pscHBfZndDUHNBUjNOTzZEd0llSVBEdFBjcWJORzJmUWhveUUwdkM0RjNnQWpjalcySWwzRGVhSy1YVUZGdF9zdW9HMzlodVAxSE91bDJEcl9wMldxM01YcGhYWU1tdGdsMXZaczNMbjMzQlc5ZXl5VG9mRUFHQnY0bmhUeW1obzNSVEdjT2hIWks5WHlRM2Npa3hzUVdPLUF2Y01aMS1QVTZNaw?oc=5"
+      "headline": "Blackstone Inc. (BX)’s Profit Jumped 26% on AI Bets but the Stock Barely Moved. Here’s Why. - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUU9UN3hHMlhFbnNhcHpFU1UyMGlfZUd6S2JtVUt1R0VqUU51UmVoNS1LT2lVVTE5OWFsR2hjQ0F1UkRmSDZ0NHhETmx0bXFXOVNtblEzMHVUUFhTMndCcmJGVGk0aHEtMTk3TkJRcG1qZUlNVjZkZldwVnBlZjBxZjU4SFBXa1liQUdmUzdReFFSb28tV3llNWJXenM?oc=5"
     }
   ],
   "insight": "Tracking Blackstone Inc. (BX)."

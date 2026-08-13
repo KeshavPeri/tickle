@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-08-12T03:38:29.650Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:42.294Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
     313.739990234375,
@@ -10,7 +10,6 @@
     312.9800109863281,
     306.2200012207031,
     315.19000244140625,
-    321.0199890136719,
     315.6199951171875,
     314.9599914550781,
     310.7900085449219,
@@ -24,7 +23,8 @@
     315.8699951171875,
     318.57000732421875,
     325.0799865722656,
-    322.42999267578125
+    322.42999267578125,
+    326.7699890136719
   ],
   "6m": [
     270.1853332519531,
@@ -144,7 +144,6 @@
     312.9800109863281,
     306.2200012207031,
     315.19000244140625,
-    321.0199890136719,
     315.6199951171875,
     314.9599914550781,
     310.7900085449219,
@@ -158,10 +157,10 @@
     315.8699951171875,
     318.57000732421875,
     325.0799865722656,
-    322.42999267578125
+    322.42999267578125,
+    326.7699890136719
   ],
   "1y": [
-    185.6728515625,
     185.7373046875,
     186.1966094970703,
     183.1265106201172,
@@ -397,7 +396,6 @@
     312.9800109863281,
     306.2200012207031,
     315.19000244140625,
-    321.0199890136719,
     315.6199951171875,
     314.9599914550781,
     310.7900085449219,
@@ -411,29 +409,30 @@
     315.8699951171875,
     318.57000732421875,
     325.0799865722656,
-    322.42999267578125
+    322.42999267578125,
+    326.7699890136719
   ],
-  "lastClose": 322.42999267578125,
-  "oneYearReturn": 73.65489351966296,
+  "lastClose": 326.7699890136719,
+  "oneYearReturn": 75.93126462314993,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "FedEx Freight (FDXF) Stock Trends and Sentiment 2026 - MarketBeat",
+      "headline": "FedEx (FDX) Could Be 8% Undervalued Following Its New Automation Rollout - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaF9jN0llTVFBbWFBaWM4OXBHc2Q0NTFNUGxKTG9DTC00Ym9vMVJuNzV3TDdLSmlZa3hUOUFVZWhHanBIbWlUdlZYbVNZLW5tQl80MXptVVhsYkxGRi10NjVUay1BcDVkaW1XWHhycDByY3lwV01WbG5ULThaRDZNOGxJcy0xSkY2aG00cW5VdUhQNmVnMTRFMjhSNHRzMHRhNWZSM09tRklaU0YwOEZRa09EQWFaY015VUtXMTk2cTJTWTYxVmfSAcsBQVVfeXFMTkxwaHpuQmVDaU1nR2M2M1drb0gzLVRsM19JWl9FX0pMbEF3ZUlFbmU3OFBCVlprZ25ua1pVREs1b2ktZ1duOG9zQUNsS3FVSTJhRkhGMjIxa1JFZno4WWo1TkZJZ3NhWHhsZ0pSZmZxeWdLeG1lY2RERGJfQW43N1NTYkRsd21XMUNMM3RGT2RNUk1WUWFaVUpNTkJkRnlBM1VNZ0tNMWVUcU55WHVDM3I3NTA2VXhsbnYwd0NtSUd2TlhjWk9tdS11d1k?oc=5"
+    },
+    {
+      "headline": "FedEx Freight (FDXF) Stock Forecast and Price Target 2026 - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4dVBVNTkxaHczU2dhZUxfNS1SZHctNXdzUjJhcm04SXp3VEhpUTl6aFAyVlh5Z2lWOVBPem9HVEk3MWhIQnBpbldmNkdUMXZnbUZqWWc2THI0RjhVQUVlTlhKTnZpbkpZNmprUUZRd09TMWM?oc=5"
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PZS14VTlVVUtrR2N3WDFnQUtXbGYzWkNCVjFaTFJTV3VvTzV2RVVkcEw4Qlc1MjBlZHVFV1o1bE1Ec3RvLUNSSjl0R3I5bmZON2JiSUJPdFdVRTVvZUlNR04zcw?oc=5"
     },
     {
-      "headline": "FDX Stock Drops Over 5% As Weak Guidance Overshadows Post-Spin-Off Earnings Win - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLWc2MS1PQ01oSHVSM1hzQVFtY2E0d1BSdHZnWmhVaEVuLU9Vc0VWUU0yX0p1a3cwTkZ3dEJVRzFtMXFyV0RXQXhDZG4tSXptS0N2eUNHTlJhYWRjVUJJTFh3N1psdHlOVVhzWGlHTFg2NE1DMGh4SnlGOEtqZWRjY01xamZTc1EtLTNoeFVvbThRZXJhc2s3a3hYXzlYRk54TllIc2F1RGI1eUNEaGUwMG4yLXc1NGRVaEhrVFVYQ2xWTVF1aDZyclF5UnhPUjdP?oc=5"
-    },
-    {
-      "headline": "FedEx Freight (FDXF) CFO Witt Marshall awarded 20,723 restricted stock units - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1JFb3hBa1NKUkVWWEFkaWNscy1IcEV1Q2hOWmI0a1Z5VXVld1hScFM4eVJYUy1CZWxhbHd6VEpmYjAzN013enFjODdybEJMRTlXQUlMeVZwQWRCamI1blhPd1d1RVVNRWF1NEVUeHd3YWZhckJDUG53Y0dTc3pKRElPb0xQTmR0RDM2WVBWSUdSV0NKaU5qZ25VVWZtSXk1Y2l4dVE1Vnc1X2g2TEtfNGFqbjVucnFUOE9DWXlDVm96ZGFKSVJR?oc=5"
+      "headline": "FedEx Completes Spin-Off of FedEx Freight - FedEx newsroom",
+      "source": "FedEx newsroom",
+      "when": "2026-06-01",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb09VcDZKa2tvekNsang2SGNKSllzQ0pXU25ZY2xabUlFU1hKTGFRSWJuZnRXdFM3T3BPSktzZkdqVkZPYkJoOXFVUl9ldXA3aFFZSEZuQUpUVmpDUVJvWnMwVlJfWGh0UURoN3dhZFh4T0ZKRzVaaEVlTXk2c21NUHRLdmlpM1UtMWtMUndNeUlTakFwbHNN?oc=5"
     }
   ],
   "insight": "Tracking FedEx (FDX)."

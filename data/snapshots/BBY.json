@@ -1,32 +1,34 @@
 {
-  "builtAt": "2026-08-12T03:38:14.043Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:26.387Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
+    79.98999786376953,
+    82.80000305175781,
     81.6500015258789,
     83.9800033569336,
     85.37000274658203,
     85.29000091552734,
     85.41000366210938,
     85.12999725341797,
-    85.22000122070312,
-    87.11000061035156,
     84.43000030517578,
     85.43000030517578,
     88.44999694824219,
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
-    86.26000213623047,
     85.25,
     86.3499984741211,
     84.5,
     80.0199966430664,
     82,
     82.43000030517578,
-    83.27999877929688
+    83.27999877929688,
+    83
   ],
   "6m": [
+    65.1500015258789,
+    65.0999984741211,
     65.9000015258789,
     65.56999969482422,
     68.5,
@@ -143,25 +145,22 @@
     85.29000091552734,
     85.41000366210938,
     85.12999725341797,
-    85.22000122070312,
-    87.11000061035156,
     84.43000030517578,
     85.43000030517578,
     88.44999694824219,
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
-    86.26000213623047,
     85.25,
     86.3499984741211,
     84.5,
     80.0199966430664,
     82,
     82.43000030517578,
-    83.27999877929688
+    83.27999877929688,
+    83
   ],
   "1y": [
-    70.23999786376953,
     72.7300033569336,
     71.73999786376953,
     71.62999725341797,
@@ -396,44 +395,42 @@
     85.29000091552734,
     85.41000366210938,
     85.12999725341797,
-    85.22000122070312,
-    87.11000061035156,
     84.43000030517578,
     85.43000030517578,
     88.44999694824219,
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
-    86.26000213623047,
     85.25,
     86.3499984741211,
     84.5,
     80.0199966430664,
     82,
     82.43000030517578,
-    83.27999877929688
+    83.27999877929688,
+    83
   ],
-  "lastClose": 83.27999877929688,
-  "oneYearReturn": 18.56492214139645,
+  "lastClose": 83,
+  "oneYearReturn": 14.12071520561443,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Best Buy Sales Momentum Improving on Replacement Demand, AI Adoption, Truist Says in Upgrade - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSk16eG5zaWJWYTJTQTlHNzQ5X0UtUzk3b0ZWOVJnNk9CMTNwcVJIMGp0U1dObTVvRlFSTkxoYWVVYWFPWWpjT29rM2VlMDkwcjVOVS01UTcwZkpMMDkzbS1QVXZPUVpZNE81Y0hSWGpSNXJMUWdMZDJudlNWV3pSdXZmcU05Zm53bThucVJ5dkJmTC1aMkZBMHAtM1dWNXc?oc=5"
-    },
-    {
-      "headline": "Best Buy Stock Just Scored a New 'Buy' Rating. Here's Why. - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOC11TEZFWmpTZ3hmdFA4VGFUVXdEZnFJeXh1eTl3c0dHcmJMZnh1Mlh4X19EUGxMdFBheWFwcWpYY3Z0UU10U0dvUzh6eVpRUVRQSzVOTFNGWjMtR29TaGhmVjNTU3cwRFI3NTUtMlk0dTlKZUNJTWcyUTVVNVVmX3hxekRzVHh5bk85V1prcnJHVnpKbm5CYnhvRENuZUk?oc=5"
-    },
-    {
-      "headline": "Best Buy (BBY), Why Is It Back In The Spotlight? - simplywall.st",
+      "headline": "Best Buy (BBY) Stock Looks Undervalued Despite Its CFO Change - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaThkM1NOMzdFVWRjeUMyWjRqN0xNZElEczBjemtzTERVcHFFTFp1V3FIRG1ubUQ2cFNzMTdkMklONS1UYlhKM2FzOW80MWRjYkxpaWw0VTRBSk9lUXFHREk5ZlBTbDNyQWZpQzUxTDFCc283VVVFVTFacnIzU0ZLekJfNkY4V0x5WUdWc1k4c1duTmVuelpkYWU0ejFaQjNyOUVTOWU0NnAtUdIBrwFBVV95cUxOekVPX0NjRkpNT0lrY1lWWlgxV2JsS0xtZWlzTW5fWW83aEItQnR0UUViOXBTMEM1NGsxdlZYV0ozVktoYlNOWmRhNVJPTUwzN3REOWRVZnZHWFFpdXZQb3gyOHcxQzRRRy1Fc3hXaVVWbEZIeTNmNTVoTFlLbl9ndHdsekZCNTN5RGItQ0hoUnh2ZHhmNDF5eWhxY0Zvc0JROHJrc3REdkJGdXZhN2JB?oc=5"
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHBDUTV1MTJuSklqZ2piQ0ZHdzEyTEp5b0NULWt6QmxQdEI2VnEtVXVrYktIb1BEaVdMZldpLWFBajBzZ21iTGhEVjQ0XzRKd2U1Mjl5ZW04NzY0LW9YemdHQmlOSGp5ZzEtSlpFMlQ3VzFUSDM5N3drN1pCcU40ZFVVX1BKLUhtSS0zaXBVdEU5RkRla3diQ3pzRzNuX2RPbzYtNmx4eXBpRjU5cmVQV2QyVGFlbHFrTjd1THJ30gHDAUFVX3lxTE1Zbmlyci01dXZVSVlFT3RXbXE5bVJUN09paFdDZ0lhNE5zeHhfSXIxOFVQNWxSS0ppMzNzeVpuLUd3WEFmaUFvZUx5WDF6dUtfVVh2UFEwanVKZFhfNkc4SUdNUnAxRkFOem9nUmFPLUtnWlBXaXVVcEs0aDJ3QnE4ZUw4VkY2RzlMY3ZuTkdOVGJvTFV6Yms2Nnd2b3lmNVhRbVR3U2JCSGduUTVOc2tLdHlBOEpINlZ1Y3pmUmRNRm1YVQ?oc=5"
+    },
+    {
+      "headline": "Here's What to Expect From Best Buy’s Next Earnings Report - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXU0TC1fM2FGNjRHNFhoVjZGTGx6VkdaODlPY3lJNEFielNrYVBudlh0NzF6ZGZDYXZKSWVvcFFtWVQydGhTUU9oY1pzSDBnU3lkTnNxYndSN24zb2UwWThtQUMxZ3VMT2tZQWJ2X3JUNGNwTG9hdVB4b3IzYXRBQmhQQTE4N0diRGpYaGsxYnRWckliTFE?oc=5"
+    },
+    {
+      "headline": "IonQ, D-Wave or Rigetti: Which Quantum Stock Is the Best Buy After Q2? - Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1c5ekRDNm9FX0tNWDZVdVVxR2hKWVc2MkVZTTI1MFdTSUdqazhiakVrMFh1WDVtRmdyRHE0WGFoQi1PTldERk1wOVBtc20yQldDZ19PTnN4bFYwSE9peGttNnVJd3UwSEtIUmdDUWdWbS1JZnQxZnBVaE14UTFSMEdub2xPV3FVQ3NrZXIxUlRmaW02MmpNN05DTlNQeDg2enl1UWFlXzhGTUVp?oc=5"
     }
   ],
   "insight": "Tracking Best Buy (BBY)."

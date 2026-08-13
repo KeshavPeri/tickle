@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-12T03:38:38.348Z",
-  "builtDateUTC": "2026-08-12",
+  "builtAt": "2026-08-13T03:41:50.795Z",
+  "builtDateUTC": "2026-08-13",
   "source": "yahoo-finance",
   "1m": [
+    28.979999542236328,
     28.399999618530273,
     28.729999542236328,
     30.299999237060547,
     30.299999237060547,
     29.6299991607666,
     29.65999984741211,
-    30.100000381469727,
-    30.5,
     29.799999237060547,
     29.93000030517578,
     30.110000610351562,
@@ -24,9 +23,11 @@
     31.690000534057617,
     31.579999923706055,
     31.739999771118164,
-    31.360000610351562
+    31.360000610351562,
+    31.540000915527344
   ],
   "6m": [
+    27.290000915527344,
     27.40999984741211,
     26.530000686645508,
     26.84000015258789,
@@ -143,8 +144,6 @@
     30.299999237060547,
     29.6299991607666,
     29.65999984741211,
-    30.100000381469727,
-    30.5,
     29.799999237060547,
     29.93000030517578,
     30.110000610351562,
@@ -158,10 +157,10 @@
     31.690000534057617,
     31.579999923706055,
     31.739999771118164,
-    31.360000610351562
+    31.360000610351562,
+    31.540000915527344
   ],
   "1y": [
-    21.040000915527344,
     21.520000457763672,
     21.34000015258789,
     21.1200008392334,
@@ -396,8 +395,6 @@
     30.299999237060547,
     29.6299991607666,
     29.65999984741211,
-    30.100000381469727,
-    30.5,
     29.799999237060547,
     29.93000030517578,
     30.110000610351562,
@@ -411,10 +408,11 @@
     31.690000534057617,
     31.579999923706055,
     31.739999771118164,
-    31.360000610351562
+    31.360000610351562,
+    31.540000915527344
   ],
-  "lastClose": 31.360000610351562,
-  "oneYearReturn": 49.04942607301954,
+  "lastClose": 31.540000915527344,
+  "oneYearReturn": 46.561339426685755,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +422,16 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQME9RR3JUd3VwdXlYbTRFbkhONFN4OHZhVUFpVnFMSWdYLXlOQmdKOXlFVEd5MFFtUGdZempBMHlKa3VNT3hqRFppOFlpa29CVnA1Rnk5M2NfMVpHVE1vSjF2SjZtTlVKLTJkTWRTRzJ2b0JITU5OalBHdkpKWjkyc21BRmkyUDBVN1NXemtSR1haNlRBblQxZXc2VWZNY2FCbEtyS040TXQ3cUVOWmNjRkdLY0Q5Uy1PQ0pKMg?oc=5"
     },
     {
-      "headline": "Will Earnings Rebound And Steady Payouts Change Invesco's (IVZ) Capital Allocation Narrative? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQck1GVGtkSG9NcUpXRXFOM3MtT0ZwNXVRNmtiSUFzS0x4NE1EeEtmdUwxdUNOcXFFQTZoaTl3dXdrNW1Tdjd5bU9OLUNVbWUtM0Q5Slg4RmFJQjNkSHhMYjR2elpPc19mVlZQMnE1VzBjUDNldkhBY2xONHc4RVRFUi0ycndXYWgySm1oUE5LYl9sdnJ3eWNpdEFhbTY0V2ZGeFM1VmlLaHRpZllvdFVLNEdyci1WSjBsajI3cHE0OWdOVUdobnZ0UEdVa29yWUZ5dXNR0gHYAUFVX3lxTFBKQUUtaFBDX1RiRWNLbGttWVRpZlRYUkx3U2tFeGtqcURVNVRmb2lub25pcUtPcTRpbWliSmFPOExudVZvRVN4SnNNaVdnektoWTBSNlJlclRsaWNTcktYTGZ0Tk5aanJrVjVUZ3VLekNia2xtaGI3bHJSazd6ZjFIdnNmMDRGMWVFSjZtNmtsZ1pHeTVINGtTWWVXTV9kcVZmMkRiX19qZE9sNVdmMjFwcGNKTWYxUVRPWGx3djhuUFRTYUwtQ0FSbzJlRjBMRExoaFJHdGJ5dw?oc=5"
+      "headline": "GenWealth Group Inc. Acquires 42,036 Shares of Invesco QQQ $QQQ - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd3FjMkdOeUVXaGdjZE1CQkZzMlhBcmo2OURrV3lTS05lbUVOZWVkOEEzYUM1OUtVanhoYXhjOEk5Wmt5ZXlSdnJIb0hHbjhoV1VtLTE2WEhuNjBzQmtsbnBadWZ3b0E3OEFfNFA0X01Ib01KSG5leTZSRXQ4cVhCcWhpX0h2Z3liYm8wdFY2YWNSa2w2T0FocDZmMHBBcU5ZU0U4RDQxWTNxSVM3M2JQLS1YLU5sc1ZxMGZOZDhn?oc=5"
     },
     {
-      "headline": "Redhawk Wealth Advisors Inc. Cuts Stock Holdings in Invesco QQQ $QQQ - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkFhYmlfVDliWDY2RV9obTFCdV9jZzlyNncySE5veHJUWm5MTjNTMFdHVEo0Q1M4THFrMVFfRzJva1gxeHBOLVBhTHZSRnpsNUxZOW1EMnFpSldRSmJuRDc5Um1ZSk53RmhfamVHZWh4RXVnQ1RUc0hsa2hBakQ4MjY4LVAtM0hDNVMxZW9xcDBhNnNjckt3N3dZWGNHMmYyRWpUaWZvQjl0dFRtN0hEdFpoX2xQNVZIVDJoX0VYa1JJRWdKbFE?oc=5"
+      "headline": "Precision Trading with Invesco Esg Nasdaq 100 Etf (QQMG) Risk Zones - Stock Traders Daily",
+      "source": "Stock Traders Daily",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGp0ZEJJeDYtZVVhLXBQTG4tY0cwTy1XWF9VN2Ezbk1LQmY0TUhmUHZRNmhOYUpvaldRZXZIUS1sU0JvcHlibkZoLUpZMnZDN1dCcGdQSWhjSWdWekVoT3l6UWJYWHF3NEd4TVl6ZTJ0YzI4MWJxZlZJY1dINVhKVm1aWHRFQ3NYQWJEekY2MUd3U0tsNWVscF9wMGVGSHFiVGdXNDd1dXBwNW5GZ19JUlZZQ2N4U2lvdUtmODdVUWlqOEs0S2xaYkpWUW1OQ19SdERNMGFPVjZHZGs5WXc?oc=5"
     }
   ],
   "insight": "Tracking Invesco (IVZ)."
