@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-13T03:41:25.994Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:38:57.103Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    60.619998931884766,
     61.59000015258789,
     61.4900016784668,
     61.27000045776367,
@@ -24,10 +23,10 @@
     63.16999816894531,
     63.86000061035156,
     64,
-    64.80999755859375
+    64.80999755859375,
+    64.08999633789062
   ],
   "6m": [
-    54.45000076293945,
     55.380001068115234,
     54.939998626708984,
     56.529998779296875,
@@ -158,10 +157,10 @@
     63.16999816894531,
     63.86000061035156,
     64,
-    64.80999755859375
+    64.80999755859375,
+    64.08999633789062
   ],
   "1y": [
-    47.2400016784668,
     47.709999084472656,
     46.939998626708984,
     47.91999816894531,
@@ -411,29 +410,30 @@
     63.16999816894531,
     63.86000061035156,
     64,
-    64.80999755859375
+    64.80999755859375,
+    64.08999633789062
   ],
-  "lastClose": 64.80999755859375,
-  "oneYearReturn": 37.19304668893737,
+  "lastClose": 64.08999633789062,
+  "oneYearReturn": 34.332419970112475,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Bank of America sends blunt message to Nvidia stock investors - thestreet.com",
+      "headline": "Bank of America (BAC) Stock Still Looks Like A Bargain Following Its 139% Run - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU0NNMVh5Qk9xZ3E5OXMtbTJhNjIzaFRQRzZSd3l1UFc2QmtDclMxTUNXV2RNVWF5VmUzSERhN1M4WXVlcTRZSGtReWxSV0VJYzdoY3kwamNEVUxPQ0pTS2FDQnZpN1hvOE9ZTkVKM2stVTJPUmhHeHotTGRHOXdsY3JiUTFiMXhzLUJSbWRkZk85VllQbWdkaw?oc=5"
+    },
+    {
+      "headline": "Bank of America reveals Rocket Lab stock outlook after earnings - thestreet.com",
       "source": "thestreet.com",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZGRjRFdEcVdBQVYwMmFDYzhkMW91U0JzTl9YeVozc0ZFQjlzTVhacHhuQ1ZHbGlqV01PNU9DWl82WHE1cTRpc0h6UEtqd2xYckh2b0ZSZ0hZREZITXlHOTB5SFV5dUxmOXc0MzUta1AzSWlCM0hJSFJwOFNuNXNnUEdWNk4yZ2wtY2pseUlCS2kwaVhFLTZMYWtpelhaeVJCNnZjWXFOSQ?oc=5"
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSnBDYUtIclhhYnpGWVZJNzB1eEsyd0tUWUFaUGN1T01hNXFXWEpsRVpCUnNuRFlQQlVFSDU4Szluc3lteWRDSTF5aV8zRmV3bmV4cjBVU3JyUWNzV1RaaW1iTFJCQUhpRWc4ZDJPclhmck8wSFRVOURqdkMwZktjbmdtUk5HYlhPY0t1U2R1ZUptQVM2Q1dRV3o3dHg4N1pWVDUzQ0dVbWhKQQ?oc=5"
     },
     {
-      "headline": "Bank of America Stock Rises on $250 Billion AI Push - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY2hsM3BuVkJKdEl1LXpxS3MtS1poZnNXUDZ1aWJJVjRDcHpYbE00MlVuSFVIUnBtT28wSHROalVvTWJ2YzZfVXdBZ2RqQmNncm1VRmdYNGNjdmNJVndhcjd0MXZyRzI5cDRORFZ1czJqa283YlJ2ekRweE0wSU96WlRCSQ?oc=5"
-    },
-    {
-      "headline": "Bank of America Enters into a Joint Venture Agreement with Jio Financial Services Limited to Acquire up to 49.9% in Jio Credit Limited - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNem8tampqX21WS3pPNHgxdWZMT2ZUbEx1elFlUHV0RDNBSHZfX3ROUUM4S0FaNWpLbzExYUZJa2Q3WTRudkxMRlZGdjVWUGR5NGFlZHl6UXVaQ1BQbW1zUTB6VTk4aGgyWTFGMTkyNl9DbktfUzJXeExkRXFCV05ZWUpRMHVNWEg1VWJjQ2pXNzlMX0pNMEFtTWJNZF9uYVhmNXZXWnlSLW9MYUc1N2kxSG92MzBPOEUtNUpiYWRvNUd0cDdkOWREdm51cXVaX1NZdThYUkxSeEhIaDI2QThfb0FaYk1DczYxX2l1aHJCbExWaFd1SDkzYmwwcGRQbDZHNURwQTQxdWZkWVhRLUNyS1NRbktCZENX?oc=5"
+      "headline": "Is Bank of America (BAC) Undervalued As Fresh Bond Deals Draw Investor Attention? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYXBkcmlhbTk0VXhIY1c4MzNteG5ncW00cHV0LWR6a3NVcVNFZUUxVnluTk1YOEgyOEZqWVhXMUdzSWxOalJLTmozYkY5dzQ4Zm5SVV9oazBpUDN3dDc2OHFZaXBLajNtWTJJX05acF8yZ0hIZnpPNy16aVNFMEhHbFRLVWk1WDcya3JNYWJRWHZnb01nSXBoVzBib3VRU01TSDZIQUJGYkN2UkZDRmJtU2xEb2xhMGNidlRMOWdvcHAtR1RpSXfSAcsBQVVfeXFMT0ZoTnhXZ3otLVhfbkZfdUhRN1c5VG02Z1pkbDY3T1otN3ItZXduOU9EcHEzZG1uMlFkNGp1dlpMNzhnVTlfM0xGMGFvWGdfV0gxYnd3UmJlX3ZwelJ0NnRFcHN6ZTg3eUdjcGRJdFVFYjhpNjVtVEVHUjlVdTNqQm1aNS04V3QySE16clExNk9IZnJ2dFFkS3VLQi1McTQ2Q0pTUzJEQTdFc2dGUEhvSG5EdllMZzZtZFpyUDRZRjY0WFo3cENrUjRleDQ?oc=5"
     }
   ],
   "insight": "Tracking Bank of America (BAC)."

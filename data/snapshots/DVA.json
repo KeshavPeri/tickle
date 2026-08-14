@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-13T03:41:37.731Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:08.307Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    232.41000366210938,
     231.61000061035156,
     234.00999450683594,
     236.97000122070312,
@@ -24,10 +23,10 @@
     183.77000427246094,
     183.69000244140625,
     178.33999633789062,
-    181.5
+    181.5,
+    179.1699981689453
   ],
   "6m": [
-    134.72999572753906,
     142.05999755859375,
     149.22000122070312,
     140.8300018310547,
@@ -158,10 +157,10 @@
     183.77000427246094,
     183.69000244140625,
     178.33999633789062,
-    181.5
+    181.5,
+    179.1699981689453
   ],
   "1y": [
-    134.69000244140625,
     134.38999938964844,
     135.3800048828125,
     133.25,
@@ -411,12 +410,19 @@
     183.77000427246094,
     183.69000244140625,
     178.33999633789062,
-    181.5
+    181.5,
+    179.1699981689453
   ],
-  "lastClose": 181.5,
-  "oneYearReturn": 34.753876835778776,
+  "lastClose": 179.1699981689453,
+  "oneYearReturn": 33.320930859938755,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "DaVita Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdmhOemx0dlhfbW0xbTdWQzhCVFM1aGtObEVxLVpPTEFFY3luS1h4VUZxVElZSmhYYkVqZnFHN3I5OUNHR3RFeVoxb1plRWM0NHRnRGFjdUhJdVhhV0YxWUVNUFAzc1BULU9HN2cyYVRJV0oyZjJfdFlCYzNKbERQNG9rVWIzV1E3T3h2OWhGSDdHaDVFdVNXcVlJRTVrdTl0aklheHQwTzJMWUJ1bmg1VkZOVEw3WFlaR1ExX2Zma1lBNktISF9PN25YQnFhNVhPUnFmMkFHcmRDS3Bs?oc=5"
+    },
     {
       "headline": "Are Wall Street Analysts Bullish on DaVita Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVk1FZlZUcTNVaVNLaWx2NmxCMFJEZGhKUnZOUGRjSTQ2QVJ1T19ob3puRURkWkN4QXJneGFQQTVic0xoeWJoUHRSdlQ5OFNJd2M3YU1VRUUxTWRuNmdhME9wRl93OUtFYjBQbFduQWlfZHJrVzRZeHZiZWljQ1pKdmlvdnZZVkFaMFpIYUhvN1ZUMEFLVXdramd5RDk0T0hpbmc?oc=5"
     },
     {
-      "headline": "DaVita Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY21MWEs4N0NvOXhKS1NiaUpjUDdPbndtbVNrQ1djWGhYWERCYUxrU0xuZ3Z0ajFFX2ZtRHl5VDkzVUg1LWVtOVFyUDVmYnhWZzg0YVlGc0g0YVFhUXZTN2VmSU5oRWFwMExfWjJqcVN1NXFYLUVfWFFpSHczUWF3TUZDT3MwS1lLNGdHeGdmVEo3YjlVWGRCcV90UGVkQnpyZ3RQQWdOT2RaZGREZWhlelZma0tiWmhXSVNFNHFXdw?oc=5"
-    },
-    {
-      "headline": "DaVita Inc. $DVA Shares Sold by Wedge Capital Management L L P NC - MarketBeat",
+      "headline": "DaVita Inc. $DVA Shares Sold by Empowered Funds LLC - MarketBeat",
       "source": "MarketBeat",
       "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSnVELVVhVTVqZDVFV2V2dTdZUFhqYk5wX3FKWmdFV1hIc2ljdjJRWEx0LTd6ZUVmZzdieDNRTWw1czJQZ3dDZ2w2N0hmODBOYTAxb1BHSFJyZTZocnV0QjNRaDZURVRnaU9QdXFpMk9OanpIR2hRckR4UXBvQXFkX3A2VUZMRnM1UzBfalh1TW1jandsRmh0TURGWV9VREFPeV9BcFl4RUVWRmwydlZ1djRnOTlnSzB4MWJ3SzBBOVo0QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTU91XzNVWnE1b2IyYlpJWHBJQ0hJclhzakdMVjk4Rko2dW5fTFZjNWhTbDEwc2N4YkR0UExtclM2QmV4Rkpid1VtY1Bkd2NhSk43ZGZQbFo0Tzgzd0o5QXlNX3FFcDZtUnFjcXpLaFJOVHdGVTM0Q0tENTBTMlItazY0b052WkVTc3dhSUdaMGpsam5BY1JUM3czRXVBX0tfZ2d1am4yQ3dJTUF5dFdR?oc=5"
     }
   ],
   "insight": "Tracking DaVita (DVA)."

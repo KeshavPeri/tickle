@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:42.981Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:14.015Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    57.06999969482422,
-    57.18000030517578,
-    57.04999923706055,
     57.939998626708984,
     59.369998931884766,
     58.0099983215332,
     57.400001525878906,
+    57.65999984741211,
+    57.66999816894531,
     57.150001525878906,
     57.40999984741211,
     57,
@@ -24,12 +23,10 @@
     57.09000015258789,
     57.130001068115234,
     57.599998474121094,
-    58.0099983215332
+    58.0099983215332,
+    57.939998626708984
   ],
   "6m": [
-    50.220001220703125,
-    51.95000076293945,
-    52.75,
     54.09000015258789,
     53.790000915527344,
     55.08000183105469,
@@ -144,6 +141,8 @@
     59.369998931884766,
     58.0099983215332,
     57.400001525878906,
+    57.65999984741211,
+    57.66999816894531,
     57.150001525878906,
     57.40999984741211,
     57,
@@ -158,10 +157,10 @@
     57.09000015258789,
     57.130001068115234,
     57.599998474121094,
-    58.0099983215332
+    58.0099983215332,
+    57.939998626708984
   ],
   "1y": [
-    42.97999954223633,
     43.18000030517578,
     42.47999954223633,
     42.77000045776367,
@@ -395,6 +394,8 @@
     59.369998931884766,
     58.0099983215332,
     57.400001525878906,
+    57.65999984741211,
+    57.66999816894531,
     57.150001525878906,
     57.40999984741211,
     57,
@@ -409,23 +410,24 @@
     57.09000015258789,
     57.130001068115234,
     57.599998474121094,
-    58.0099983215332
+    58.0099983215332,
+    57.939998626708984
   ],
-  "lastClose": 58.0099983215332,
-  "oneYearReturn": 34.969750905946235,
+  "lastClose": 57.939998626708984,
+  "oneYearReturn": 34.182487765670516,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Will Comerica Account Migration and No-Fee Momentum Checking Change Fifth Third Bancorp's (FITB) Narrative - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdENlWkw1S0RYRHp0LWJySld1YTRfYWRxNEt0Vmx0Zk4zbm1NcGI3UjE3VmVBV3RTaU9FU21TWFBCNERkN1A1c3ZHaE5rbzVYYWYzM1dRcXNBeE9zSXlTLWYyRC16TkFlZWp2RG41TVpVb3hJT1BMNE1hMWdnQ3FDcE5YLUQ1ZW5LWnRHLWx5NEtPS0YzaXoxb2NiUno3RURZWmZOVXFteVI0TzlfNzlMZF9Ecy1NSk5SQWdqakdzSlZIWGRFRTNLWER4eFQ3UdIB0wFBVV95cUxQdTRPbFd4R1ZmTEc5dV91UmxiX0F4dkFBdkZMYnNvN1RGNU85VENHRC02NUtEbEI3MElJTXlsemdwUDZUNjQtVnpVNERTTE9McDNVcTJWMWNHOFlHQVVHY0tBczBqM3dJVlJMdFJfeV80a0JaMDNPbTFlVU9GYkk0ekdiamlnZmliZHozSGZCektkS3VncV9fbjhYQi1sT1JvblY1Tmt0SWNKSFAyVk9jd3Yxam1rVVVEbHhLbVdkRjlBZkp1VXU4cjVxZmdqM284Z2ZJ?oc=5"
-    },
     {
       "headline": "Fifth Third Bancorp (NASDAQ:FITB) Receives Average Recommendation of \"Moderate Buy\" from Analysts - MarketBeat",
       "source": "MarketBeat",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQczY2RnBiTUhJM0Ffdm11VGN1NkdhNUhfNGxkTEpLbWoxajVtQ0Rod2c4Z2N2UkpfUDVNd1BVSWVIaE9TZ2c5VnhGV0lkZFQ3eUViendLYVowRERrcHp6N2t2czlxV2N4S3RSa0VRU0Z5Z2x2Mk1GRmxWS0VNX0R4b1lKYUNtbjJmZWk3QVhVZndxQ1NGVmNlNXJZU2Mxc3RYaEpFTzFSbk1hb3U5dGJxc0s4WmJxVDcydmt6dEo2dWhzMndRcXpBOTNid3Y0N0VIWEhlRGJxNlZCUXZJZzFv?oc=5"
+    },
+    {
+      "headline": "Will Comerica Account Migration and No-Fee Momentum Checking Change Fifth Third Bancorp's (FITB) Narrative - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdENlWkw1S0RYRHp0LWJySld1YTRfYWRxNEt0Vmx0Zk4zbm1NcGI3UjE3VmVBV3RTaU9FU21TWFBCNERkN1A1c3ZHaE5rbzVYYWYzM1dRcXNBeE9zSXlTLWYyRC16TkFlZWp2RG41TVpVb3hJT1BMNE1hMWdnQ3FDcE5YLUQ1ZW5LWnRHLWx5NEtPS0YzaXoxb2NiUno3RURZWmZOVXFteVI0TzlfNzlMZF9Ecy1NSk5SQWdqakdzSlZIWGRFRTNLWER4eFQ3UdIB0wFBVV95cUxQdTRPbFd4R1ZmTEc5dV91UmxiX0F4dkFBdkZMYnNvN1RGNU85VENHRC02NUtEbEI3MElJTXlsemdwUDZUNjQtVnpVNERTTE9McDNVcTJWMWNHOFlHQVVHY0tBczBqM3dJVlJMdFJfeV80a0JaMDNPbTFlVU9GYkk0ekdiamlnZmliZHozSGZCektkS3VncV9fbjhYQi1sT1JvblY1Tmt0SWNKSFAyVk9jd3Yxam1rVVVEbHhLbVdkRjlBZkp1VXU4cjVxZmdqM284Z2ZJ?oc=5"
     },
     {
       "headline": "Fifth Third Bancorp (FITB) Stock After Strong Multi‑Year Run Are Valuation Concerns Justified - Yahoo Finance",

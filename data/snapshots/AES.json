@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:20.756Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:38:52.684Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    14.760000228881836,
-    14.800000190734863,
     14.8100004196167,
     14.800000190734863,
     14.770000457763672,
     14.800000190734863,
     14.819999694824219,
+    14.859999656677246,
     14.829999923706055,
     14.84000015258789,
     14.829999923706055,
@@ -24,11 +23,10 @@
     14.729999542236328,
     14.729999542236328,
     14.699999809265137,
-    14.710000038146973
+    14.710000038146973,
+    14.729999542236328
   ],
   "6m": [
-    14.729999542236328,
-    16.09000015258789,
     15.75,
     15.59000015258789,
     16.049999237060547,
@@ -144,6 +142,7 @@
     14.770000457763672,
     14.800000190734863,
     14.819999694824219,
+    14.859999656677246,
     14.829999923706055,
     14.84000015258789,
     14.829999923706055,
@@ -158,10 +157,10 @@
     14.729999542236328,
     14.729999542236328,
     14.699999809265137,
-    14.710000038146973
+    14.710000038146973,
+    14.729999542236328
   ],
   "1y": [
-    13.050000190734863,
     12.9399995803833,
     13.3100004196167,
     13.359999656677246,
@@ -396,6 +395,7 @@
     14.770000457763672,
     14.800000190734863,
     14.819999694824219,
+    14.859999656677246,
     14.829999923706055,
     14.84000015258789,
     14.829999923706055,
@@ -410,23 +410,24 @@
     14.729999542236328,
     14.729999542236328,
     14.699999809265137,
-    14.710000038146973
+    14.710000038146973,
+    14.729999542236328
   ],
-  "lastClose": 14.710000038146973,
-  "oneYearReturn": 12.720305158237952,
+  "lastClose": 14.729999542236328,
+  "oneYearReturn": 13.833075887936042,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Pacer Advisors Inc. Has $502,000 Position in The AES Corporation $AES - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXkyUXV6TWg0aFdqZk1saGVfbWNwZkNfaHRjVEc5M0ZVQTNDR21jdTdhMEk1NEhYN2NlaVJ3YnRlZmJ1T0NVRlBxaC1FYVpTcW9OMkF5dHdvZVUwSldldVN1ME84MTJmWlBEcGhZbzJVY0FKbUQ1SnIybWJCblh2cVk4ZWQ0LXRoYU9NSGlvekg5V21lQnZoeVZaM1c5SldXV1BoOEQwV2lBelYzbHIzV1Q5ODc5dGtsNjVXRU1tM3R1YlpS?oc=5"
-    },
     {
       "headline": "The AES Corporation (AES) Stock forecasts - Yahoo Finance UK",
       "source": "Yahoo Finance UK",
       "when": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQzkzR1QzTU9yOFFOYk1Wam9NUFNwWVhzN3BjdU5mNU5ZSFRlcHBLMDhCdXQtMWRvNlNzMUlkNDBUSEFHN0FJNUNjUzlZbjQxakZOcFBwNE5JU0tpTlYzWk1vd3Flc3NrcnJaeEhEVWh4ZTFIYjdFUXJIdmk2dU9uYnhRMkZQR1gxWnhXSXhBLWY?oc=5"
+    },
+    {
+      "headline": "Pacer Advisors Inc. Has $502,000 Position in The AES Corporation $AES - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXkyUXV6TWg0aFdqZk1saGVfbWNwZkNfaHRjVEc5M0ZVQTNDR21jdTdhMEk1NEhYN2NlaVJ3YnRlZmJ1T0NVRlBxaC1FYVpTcW9OMkF5dHdvZVUwSldldVN1ME84MTJmWlBEcGhZbzJVY0FKbUQ1SnIybWJCblh2cVk4ZWQ0LXRoYU9NSGlvekg5V21lQnZoeVZaM1c5SldXV1BoOEQwV2lBelYzbHIzV1Q5ODc5dGtsNjVXRU1tM3R1YlpS?oc=5"
     },
     {
       "headline": "ETFs Investing in AES Corporation Stocks - TradingView",

@@ -1,22 +1,21 @@
 {
-  "builtAt": "2026-08-13T03:41:51.432Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:21.322Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    282.6099853515625,
-    279.9599914550781,
-    283,
-    280.8699951171875,
     276.2799987792969,
     298.4100036621094,
     291.4100036621094,
     290.6099853515625,
+    293.260009765625,
+    292.239990234375,
     289.3699951171875,
     288.29998779296875,
     280.9599914550781,
     277.6199951171875,
     276.1400146484375,
     269.2099914550781,
+    271.75,
     266.9100036621094,
     274.4800109863281,
     272.6600036621094,
@@ -24,13 +23,10 @@
     268.5199890136719,
     266.1400146484375,
     265.3800048828125,
-    275.9599914550781
+    275.9599914550781,
+    282.32000732421875
   ],
   "6m": [
-    205.2100067138672,
-    202.72000122070312,
-    211.7100067138672,
-    220.61000061035156,
     228.22000122070312,
     225.25,
     227.91000366210938,
@@ -145,12 +141,15 @@
     298.4100036621094,
     291.4100036621094,
     290.6099853515625,
+    293.260009765625,
+    292.239990234375,
     289.3699951171875,
     288.29998779296875,
     280.9599914550781,
     277.6199951171875,
     276.1400146484375,
     269.2099914550781,
+    271.75,
     266.9100036621094,
     274.4800109863281,
     272.6600036621094,
@@ -158,10 +157,10 @@
     268.5199890136719,
     266.1400146484375,
     265.3800048828125,
-    275.9599914550781
+    275.9599914550781,
+    282.32000732421875
   ],
   "1y": [
-    145.85000610351562,
     144.4499969482422,
     143.4499969482422,
     142.52000427246094,
@@ -395,12 +394,15 @@
     298.4100036621094,
     291.4100036621094,
     290.6099853515625,
+    293.260009765625,
+    292.239990234375,
     289.3699951171875,
     288.29998779296875,
     280.9599914550781,
     277.6199951171875,
     276.1400146484375,
     269.2099914550781,
+    271.75,
     266.9100036621094,
     274.4800109863281,
     272.6600036621094,
@@ -408,29 +410,30 @@
     268.5199890136719,
     266.1400146484375,
     265.3800048828125,
-    275.9599914550781
+    275.9599914550781,
+    282.32000732421875
   ],
-  "lastClose": 275.9599914550781,
-  "oneYearReturn": 89.20807672727706,
+  "lastClose": 282.32000732421875,
+  "oneYearReturn": 95.44479978450723,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why J.B. Hunt Transport Services (JBHT) Stock Is Up Today - quiverquant.com",
-      "source": "quiverquant.com",
+      "headline": "Final Trades: LPL Financial, J.B. Hunt, the IYH and the DRAM - CNBC",
+      "source": "CNBC",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeFd4ek9YSy1TYVp4VHNzeXVDQlpVeElvMkswc09YclRkNkd2cmI4TWw0WThzeVBraHpCbHZrWVByU3p4OXpsTUx3V3FMcmVqbzlLcW9OaGVzNUxDT1FXUjJ0REQxREl0SzhKOUNpQ2Niamd2cTIyZHBvVDV3Mm1YN1NLMzhuUFRnOEFEWVZBWXQyMWRPZlpSb1lWSlRvNWdn?oc=5"
+    },
+    {
+      "headline": "Why J.B. Hunt Transport Services (JBHT) Stock Is Up Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3hJbU1CNFZ3WEp2RHZLbXF2bHVBRi14bTA5WFNySTFQckotZzVaQmFQQjZMVTNOVkVkbGtWWDdiUDZ3UHowMy0zVmxXeWlaQ0trUHpuZkg1ZEVDa2RrYWFWc2YxTnNQR2UxREN5NVFIRzF0VWczQjN0TjZMUTYyT1hXcEloNTVCcXlGVVFJMDVPVlhTT216TlVB?oc=5"
     },
     {
-      "headline": "J.B. Hunt (JBHT) Stock May Be Cheap On Cash Flow But Rich On Earnings - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM3l2UHMxSTAxaEg3R3lWT1BuNEhNRE9zQUNJOEhpWW9pLW80bFNXMHlzUnlLaU1ESmJfSndyUWZtVnNtT0NpVURLejNpb0NnX0hWb09qaUF4a000a2g2MXZ6VXRieDROQ1J1MFRnTVZfLV9JU3RvWFRFVzEwR1ZIUlhoSG1NRjJaWk44bTVhQm5NckZTZGdSbFRGaXo5TXhrUnVaTDB4SHh4djhMbVR2dS14MWt6Wi1PSWEwSEh0LUc1VGFZZy1BazRQcmdFUlNPaFBPZmVGZkM3MWlrZHZwSlV6dkZPQQ?oc=5"
-    },
-    {
-      "headline": "J.B. Hunt Transport Services (JBHT), Why Is It Drawing Fresh Attention Now? - Yahoo Finance",
+      "headline": "J.B. Hunt (JBHT) Stock Trades Reasonable On Cash Flow But Rich On Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUVR3V2NjZXAwTjViamREaGw5eFh5LUhWdmFzRzNuTE5pUUcxSUticUZtZDlUeHlPWl9xY0RmZ3F2YTU2NnZfN1BlMS13M3hwV05CTHJNV05HYU04LW83WGtLQzBLT0gtdE1WSXVpUDlaVnowN200RWZJbUJOdlNZUVo1SS00VU1SNnpFZ2RCazMzSVgwUjRN?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmhjakdfVkpuSnpWNDdlREpodks5TlhlWS1QOW80a2lFTjNGaHNPdElTQmVlR0hNZXdXZU1USWNZMFVKRDBHVTNKblMwUkdoTGh6NlYwc2xVNUF6aF9PcFA2VkJ5Y1VNR2p1ZXltTElPWDJadkVnWTUzcElheXZ5T1ZDUWp4OU9rV05iOQ?oc=5"
     }
   ],
   "insight": "Tracking J.B. Hunt (JBHT)."

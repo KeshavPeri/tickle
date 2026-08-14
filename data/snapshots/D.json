@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:34.867Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:05.827Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    70.08000183105469,
-    70.80000305175781,
-    71.30000305175781,
     70.97000122070312,
     71.69000244140625,
     71.04000091552734,
     70.36000061035156,
+    69.8499984741211,
+    71.08999633789062,
     71.45999908447266,
     71.0999984741211,
     70.2699966430664,
@@ -24,12 +23,10 @@
     67.38999938964844,
     67.1500015258789,
     68.0999984741211,
-    68.04000091552734
+    68.04000091552734,
+    68.54000091552734
   ],
   "6m": [
-    60.16999816894531,
-    60.029998779296875,
-    61.43000030517578,
     62.33000183105469,
     62.52000045776367,
     62.33000183105469,
@@ -144,6 +141,8 @@
     71.69000244140625,
     71.04000091552734,
     70.36000061035156,
+    69.8499984741211,
+    71.08999633789062,
     71.45999908447266,
     71.0999984741211,
     70.2699966430664,
@@ -158,10 +157,10 @@
     67.38999938964844,
     67.1500015258789,
     68.0999984741211,
-    68.04000091552734
+    68.04000091552734,
+    68.54000091552734
   ],
   "1y": [
-    62.099998474121094,
     61.18000030517578,
     61.13999938964844,
     60.400001525878906,
@@ -395,6 +394,8 @@
     71.69000244140625,
     71.04000091552734,
     70.36000061035156,
+    69.8499984741211,
+    71.08999633789062,
     71.45999908447266,
     71.0999984741211,
     70.2699966430664,
@@ -409,29 +410,30 @@
     67.38999938964844,
     67.1500015258789,
     68.0999984741211,
-    68.04000091552734
+    68.04000091552734,
+    68.54000091552734
   ],
-  "lastClose": 68.04000091552734,
-  "oneYearReturn": 9.565221557745488,
+  "lastClose": 68.54000091552734,
+  "oneYearReturn": 12.030076125594448,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Dominion Energy Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0xKb2ZxM0JYbHE0SUxaelJ1ZE94MVNWUEd3Nk9WSXdaWFBKb0t4Ni1fQ2ItUm4wZTV0Ymk3dzFwNHdrZlktdkxsT28yNXpWbmVKNjd1VXlFT2ZBUll3NC16eVhtQnQ0aW9zZEVYc0drTXZyVXZYbGxraUNuckRuVlRLZng1ZjFlQ3dvMEQyblBISjVyTkR6aS1EcHhTN1JhMHpTTzVkWTlfYXUyVUl6QVRHN2dHZHJEYUNoSHRObkthUnZrMXVuQllBeW1HLUwwNUdOWENSYThYT1BvcGNXUVNMZw?oc=5"
+      "headline": "What Dominion Energy (D)'s New Data Center Cost Rules and Mixed Q2 Results Mean For Shareholders - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOczF6VWVZU19LVmFEMjdIUm8zalJSLU5sSVlmTG1KZ1V3eHhDOWtSVFRHc05XQ0ZQN1VfZkl2VDdTSjRmeVFEMUtGUi10WGlDb3ZEQmFRcWt3QVItTWRiVXhGeml6bU1NR1lzWUIxUFo0bGJ6WTBqYWFpRzV3RlBCUGZONmVOLXUzOEJvWVFUNGFZMGFNTTJuYkJ3Y3d3RmxBYl9tS2VJRGJvQzNiSjd5VGlhVmVkOWpkNktyN1lwNkhhY3h4Rk5kR0d30gHPAUFVX3lxTE85WF83ODJYTUxlaDlCTUM0cDAwcGU2cVNZWWd5bGVVVzZtSTVYYmh3VXlpdlVjcUZSR1RXLWRMbUdzS2dxSUl6VE5ORmQwZmFGSjBBVHJRZUgyQllyRmdlNzlBNWFFSnlpXzdEakpCcTdNd1pESDhRaFAzZGVaV1hHWU9yRGktMHloM3ZpX19EU0FlR2hsaXYxZUJOUVZXQ3pEa3YyVUF1LTZDN3gyWXlMTktUcU8ycDFUdWdqblYtUjJBNzl5QWF0NDhNdkt5Zw?oc=5"
     },
     {
-      "headline": "Is the Options Market Predicting a Spike in Dominion Energy Stock? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZENVMlhxanVQS3dsU2FUQzdZNEE3RVZObnFoUDVkYkFSQXhoV0V1YVBPZmFRR0hRZ2tGSUNfMkJzamtnZFFza2t4bUo0eXJNWkxWTFU5UTF5YVB3anJOLXZoOV9PRko2RUJCaTJWekVmOU5ySW90bTYyei1ienJ3ejhHLUhuM3BnaDNmRnpHck96NmpCRUN0ckV4T1pBdTNrZXhRdG9pM21Ndw?oc=5"
-    },
-    {
-      "headline": "Dominion Energy (D): Capital Research Global Investors reports 8.4% ownership stake - Stock Titan",
+      "headline": "Wellington group discloses 4.65% Dominion Energy (D) stake via client accounts - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQXzgzWF9iY2p5eUZFbExrNlFqRF9QcnQ0Tl9Ib1RJRXh5YnVVUThDd0d0c18xbV80UU9oVHNNN0I3dnQ4T0NYRURNRmQ3S0tNdFBrall5bGtSODhGZWFUOU1LZHN4bXhPXzJNX2cyOVFkRXRYSkJUd0RDSmc3eERIQkFMNjBfMjZNM3dEVVAxU1FGS2FwMWdXcXFsWlZnb3Frc1ZjNHdOclRFcGF5WURrb0w1RXZKa1Rvb2lEUDUwT2JERjk0VTFz?oc=5"
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPalVzcnZrdndGSnp3ZEJESmFPODZLV0pVYjlLNEtSSlM1cTRwUi1DUmFSX2U2QmF2TE8ydnZvdlNVaWZZNmJkYjFKTUhEUzFkVzNCcFJ5RWdrQjZDUjNzZVoyZWJJc1QyYmZZak1yb09WTG4xVWZnOU9MdWJVNzl3M2t1R0pLWmQ0SU42WWxQUGZhOERXOHBqc3lMeldvdW83cHBSc1dDSTY2akZiRVZ3aHQyYlVRV3o1QWJVSUZYa0pIenliMFc4?oc=5"
+    },
+    {
+      "headline": "Dominion Energy (NYSE:D) Price Target Lowered to $66.00 at Truist Financial - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ1JkemVoSnNDYTRLalU1NmtWb0lwZDBXRWhOMkN6NEVwTmhrUkoxclphSXU2RnR4YUxqRFFiZzA0dkVILUxGVzVnUmp5ZjdVcjFyajRuQm5ic3VVUmJsVTVoX1AzUGRFREVac3h4eWhET1BfSlRDWWNXNFN0bXp1U3NPdmVRZVlERU1LTktwSllsYWJWV0RYTFBvNHBlZUp1MUNpZUEzYTZrdEJycXA2R0lfS1hWRTRGYUxpSXFxY2VqUQ?oc=5"
     }
   ],
   "insight": "Tracking Dominion Energy (D)."

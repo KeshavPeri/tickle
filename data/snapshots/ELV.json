@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-13T03:41:39.059Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:09.835Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    426.7900085449219,
     390.3299865722656,
     372.8500061035156,
     373.1099853515625,
@@ -24,10 +23,10 @@
     394.20001220703125,
     397.70001220703125,
     390.3699951171875,
-    399.1400146484375
+    399.1400146484375,
+    398.2200012207031
   ],
   "6m": [
-    338.6499938964844,
     340.6000061035156,
     332.25,
     338.9800109863281,
@@ -158,10 +157,10 @@
     394.20001220703125,
     397.70001220703125,
     390.3699951171875,
-    399.1400146484375
+    399.1400146484375,
+    398.2200012207031
   ],
   "1y": [
-    294.42999267578125,
     295.42999267578125,
     309.57000732421875,
     309.32000732421875,
@@ -411,29 +410,30 @@
     394.20001220703125,
     397.70001220703125,
     390.3699951171875,
-    399.1400146484375
+    399.1400146484375,
+    398.2200012207031
   ],
-  "lastClose": 399.1400146484375,
-  "oneYearReturn": 35.56363977088443,
+  "lastClose": 398.2200012207031,
+  "oneYearReturn": 34.793355818049406,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Elevance Health Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObjVkZ3ZZVGpGNlJuVVE5Wjk4bG5mUUhuOXlvd3lEMG9RSFJIbnoxd3VRQWtqdE9abEFxMFBJeU5tOE5GNnVrT01TUXNlVldZcFZNUnpjaGJJdzdDbVNkNVJZeGUzU3JINHZoZXJxV3ZTUjJDbGpIVkZpQ0huaGhWaUlZVF91UHZXZXRWczI5Vy1YbVBsSHUtaEllRUZja2NfWUNxRWx4eW9xYVM3R05ldThoSGhfd0M3YTJQb1dCd2hMYWdmNVlTeGxEaTROVnQ3WFdxZkEtT1V0bkZjS2tFbkJqSQ?oc=5"
-    },
-    {
-      "headline": "Elevance Health (ELV) Stock Looks Below Fair Value But Its 37% Run Tests That - simplywall.st",
+      "headline": "Should Elevance’s Data Partnership And Cancer Care Model Results Require Action From Elevance Health (ELV) Investors? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOXhldHNUMzJUNXg2TFczTlZYS3B5NDI4ZnFZRjlyNk1ocXhhdEtOUlVlRWc2V1lCNXBxR3lpamQzTjJjUFA4ZmRMODhSbnRMcS10WVQ1MTRvU2FwclBWRG16a1JIeHNtcWlWQ0FpbWlZZUVFbDVLSHduZW1zel94cF9Xa1ZaS1Z4MjN2SjZWcE9hRVg5UDdKckh6Y09yUFZyc1I1dlpuOHBRT3NWYncwWFVpWkpMbzZVX1hESjhoSjlzdW9xR2taak85ZEvSAdIBQVVfeXFMTUNIb2pYdGJxbHNYQ2FCVXRlMjlwdk5UWlM1empONGpUSGk0TTMyQXFSTFF2Z1pYQkdDWTlvWHJVeWI1OWVqWVN1SXBDbmF6dk1ya1d3VUlkTzh2Z2l6OE51bmZRdnFlY01FNnFqNHlLUW1VSE5xWXZuV0t3NHhOMEdmSUVGWE5oRHlBTkpXRkhKT2wtYlVoaUlDdG1wanAzelk3WVhUMUNhdUIyLVFEWlFxVWprRHVPUDI3cDRoVG5sdXRmZG9PQnZmUHhiQ3UxbF9n?oc=5"
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeGxVVE5NeGdmcVM2VGc1Njc4eE93MVg5bDd0eDgyM0lDTXRvMWszTUdVZnpZbUM3Z3p0bXV0RF9YdzFfc2x5eWhsNHd1dDd5SVZOd0xGekZmWTZINGxBNFZyeXl2YkRmXzdreEVUZUhjMGN6X2I5QU9EUE1oamx3ZFNsWndkRVRZVlZDN2l2Tm11WUdCLTVJTlhuU2NQVG94ZWtlUEVCZUttQmNMbTBZcEkyX2d0M3JHenF5WHR6RWxiT0Y3Y01ybHJCN21WbEFDS1lv0gHTAUFVX3lxTE14bFVUTk14Z2ZxUzZUZzU2Nzh4T3cxWDlsN3R4ODIzSUNNdG8xazNNR1VmelltQzdnenRtdXREX1h3MV9zbHl5aGw0d3V0N3lJVk53TEZ6RmZZNkg0bEE0VnJ5eXZiRGZfN2t4RVRlSGMwY3pfYjlBT0RQTWhqbHdkU2xad2RFVFlWVkM3aXZObXVZR0ItNUlOWG5TY1BUb3hla2VQRUJlS21CY0xtMFlwSTJfZ3Qzckd6cXlYdHpFbGJPRjdjTXJsckI3bVZsQUNLWW8?oc=5"
     },
     {
-      "headline": "Elevance Health (ELV) Stock Still Looks Reasonable After A 43% Run - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWk5VLTlxMmJua2h2aGQ1WFpEZkM0bzFNaTducW5FQVpDVnc4UWJiOGUxVm1WbDFpdDZRcDUzNVM5VGdrZllKNU9mTUJKTXhJRFdVSEVLOC05bWVvV054Vm1vUmVXeFRkMHVzeGRLUm9vS2NTMTJTcmFvWHZnS2pYRS15Vk9aU3RVMG5FdEJTRUQxWTd5Y2JrS2hHUDI?oc=5"
+      "headline": "Western Wealth Management LLC Increases Stock Position in Elevance Health, Inc. $ELV - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbndoNjIyUV82Rjl5eEpVVjUwOFVUZzhvcm9wOERKZGtkdVdzZkVsRWkyVE9tWFpZRTBxYXJrOXNoeVNyWGRjYVgydWxWMkJabmZ4NXpUdDdkUzZldU1YdmZBNmROX1ZCWV9fX2twOTlURDVlZEItcDVLNWNyYUl2WDVOdkZFSVFXd1FYWWIteUJoQmVWb2Z5QkVKS2VZeWRIR2tFQV9aQS1MdnRzSndSNUt5b093cm5wX1NFNlVyc1d0czVQQ3ozeFRabU1vX05FQU1DWVVKa1ktQQ?oc=5"
+    },
+    {
+      "headline": "Elevance Health Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdjRHOUNEWUFZRWhiTVVyU1hjYmdwX0dOVUZFVDVsTFB3bnFzeEM1dFVXWk8xUFRMaVphaGZCaFBNMDRFMnFvOWEwZkRZM1RtcVNkZXpUeHJoOUpyQ2I2NjR1enZBNTRuMnVERVBYZFYwRUVfd1N1V0kwMGVBU01XV0xhNzBTdWt0dmVfc1BnVUpfaTliNTNOR1BvMEQ3b2NnR3I5RC1kTXhNRll1QUFlSVhUS1dTdUZVVGVWYzN5VEQ1TmN3bEVyUUgxbng4XzVwYXE1a0xTLXRYY3cwOFFfTkVCanZFZGJrR0E?oc=5"
     }
   ],
   "insight": "Tracking Elevance Health (ELV)."

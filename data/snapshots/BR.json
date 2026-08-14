@@ -1,22 +1,21 @@
 {
-  "builtAt": "2026-08-13T03:41:27.591Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:38:58.603Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    147.32000732421875,
-    147.47000122070312,
-    151.0399932861328,
-    146.02000427246094,
     147.38999938964844,
     153.05999755859375,
     149.91000366210938,
     150.02000427246094,
+    145.00999450683594,
+    144.1199951171875,
     144.39999389648438,
     148.9199981689453,
     152.77999877929688,
     158.17999267578125,
     159.1999969482422,
     154.77000427246094,
+    153.9499969482422,
     157.33999633789062,
     168.41000366210938,
     163.41000366210938,
@@ -24,13 +23,10 @@
     166.5,
     173.39999389648438,
     170.72999572753906,
-    169.27000427246094
+    169.27000427246094,
+    172.24000549316406
   ],
   "6m": [
-    195.9600067138672,
-    197.11000061035156,
-    198.33999633789062,
-    185.9499969482422,
     190.1199951171875,
     193.5399932861328,
     181.91000366210938,
@@ -145,12 +141,15 @@
     153.05999755859375,
     149.91000366210938,
     150.02000427246094,
+    145.00999450683594,
+    144.1199951171875,
     144.39999389648438,
     148.9199981689453,
     152.77999877929688,
     158.17999267578125,
     159.1999969482422,
     154.77000427246094,
+    153.9499969482422,
     157.33999633789062,
     168.41000366210938,
     163.41000366210938,
@@ -158,10 +157,10 @@
     166.5,
     173.39999389648438,
     170.72999572753906,
-    169.27000427246094
+    169.27000427246094,
+    172.24000549316406
   ],
   "1y": [
-    261.67999267578125,
     259.2300109863281,
     260.6000061035156,
     260.05999755859375,
@@ -395,12 +394,15 @@
     153.05999755859375,
     149.91000366210938,
     150.02000427246094,
+    145.00999450683594,
+    144.1199951171875,
     144.39999389648438,
     148.9199981689453,
     152.77999877929688,
     158.17999267578125,
     159.1999969482422,
     154.77000427246094,
+    153.9499969482422,
     157.33999633789062,
     168.41000366210938,
     163.41000366210938,
@@ -408,12 +410,19 @@
     166.5,
     173.39999389648438,
     170.72999572753906,
-    169.27000427246094
+    169.27000427246094,
+    172.24000549316406
   ],
-  "lastClose": 169.27000427246094,
-  "oneYearReturn": -35.314120677852245,
+  "lastClose": 172.24000549316406,
+  "oneYearReturn": -33.55707356651385,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Broadridge Financial Solutions Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQQ3E1ajNWUm43dnQ0OW1IZEVRLXFucHVZcFlnY0FRaHlhVGVBNGNJTlJpRGl1T1ltM2s2QmxMU3RJR2Q5ZlFieWRZaVotY3gtUjVmWmlzVmZ0c3dZNWZCOEpEaDZUTXk5TkhtNG9hem5iTHp2SUxCSUc4VVFTVVpidk9wSW02dV8zSjh4anZpLWlUX2VwY2lfcXE5UEF5eno0cjdjZmE4WG5XNlZHVEUtS0dKeFhEUW1PeXRod0t0Q29GeFpsbUFXN1NwZTdSRWxvSGpEZVgxRm9PYWZRYm1uUW5iSjRZRlg2M0JiVTBnY210QWR3THpVYlF5WngxVEw2RGI1R0UxQ0FFUEp1TWoxM0hYT2QtYmp3RFE?oc=5"
+    },
     {
       "headline": "Broadridge Financial Solutions (NYSE:BR): A Quality Dividend Stock with Solid Fundamentals - ChartMill",
       "source": "ChartMill",
@@ -421,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWtJN2JPdW1lOWl1cjRSRmswYWtKa1V2TDV4cmF2eF8tOFZQclF2emFBSzNwNEFXR2NnaE9PLXVFQzFlMFNvYW5adGY2WmhMa051anRYeWJFbldENVdlbENpM0tYWVdEclB0andDOG5uSFpDem5ZeHhHb21UUWVWR00zazdPRWhLM0Rlc2dsV2MxM2F2TElzYTctdm5PeF9peVY3cDgyZ1I3TWhCT1ByNTBxazYzb09yblZlTzB5NjQ3M0pDYmVEMENwaWNNRXFxUVE?oc=5"
     },
     {
-      "headline": "Broadridge Financial Solutions, (BR) Stock Forecasts - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUjcwT2QtX2ZIWmRLU1F1czJzb2dVTXRQUXNiZ29BTURlTnlmbGxMMVM3dG1oY3ZaWXkzV2h4Q2puVVZUdmdQX01wRHpsbGJrOWctam5oazRjdlpsbi1qaWNBcmhXT3lub211UU42QTVZZ3gxR3AxNUhnclk5WGtGaDNibjQyVU1kUEFGc2NKMXMtMUE?oc=5"
-    },
-    {
-      "headline": "Broadridge Financial Solutions Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbWRtVEtCZUdRcVF4bUxyNmxhWXRnWGU0aHFTSFF6MEhmdlRzUnNSem5ubzVfdl9nTzAxUDI1NHZva2R5WUpnOXhlUV9pYTk4OFNmYzFFYnhtYndaOTJYUFUtdTNha25rRE9Md3JGQUpPNmROMEhTS3Zkck1pQjJ2VHltaC13cmVTVVN5TnFSTkVJZXNTVHo3cGRNYXBaVVptam1XNVdjQ21KbUtEalF1V1hleDFYZGp1V0NOYTZObHVsYmxRZkFmdGtJYkFRZGtKTF9BN1oxaHhsSjdHV3kw?oc=5"
+      "headline": "Why Broadridge Financial Solutions Stock Is Soaring Today - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0JlVUJwd0hFMkJydTJFdGZCZzVPWWluV3FhdzFnaUVlbW4wcTFFam1ZaHhCUEVmNkpjcTV2ZGZHUE1TUTlaQ0kwOFFnOFkydXdSR2Itc0dLcHFOOWlVcy1wU0s5eGRPYjlDTDNMN2NCUHpJdWE3TUVGeE9zS0JmTG9RZ29Wc1k5ZmhKZklGOTBOMll0Mnh4Z3RfQ2FjblhKVnZNR0NRWV8?oc=5"
     }
   ],
   "insight": "Tracking Broadridge Financial Solutions (BR)."

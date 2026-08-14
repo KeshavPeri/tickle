@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-13T03:41:58.602Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:28.213Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    93.7300033569336,
     92.54000091552734,
     88.12000274658203,
     87.37000274658203,
@@ -24,10 +23,10 @@
     81.16999816894531,
     79.77999877929688,
     81.11000061035156,
-    83.31999969482422
+    83.31999969482422,
+    81.55999755859375
   ],
   "6m": [
-    59.43000030517578,
     62.060001373291016,
     63.099998474121094,
     65.19999694824219,
@@ -158,10 +157,10 @@
     81.16999816894531,
     79.77999877929688,
     81.11000061035156,
-    83.31999969482422
+    83.31999969482422,
+    81.55999755859375
   ],
   "1y": [
-    51.88999938964844,
     51.619998931884766,
     51.09000015258789,
     50.529998779296875,
@@ -411,29 +410,30 @@
     81.16999816894531,
     79.77999877929688,
     81.11000061035156,
-    83.31999969482422
+    83.31999969482422,
+    81.55999755859375
   ],
-  "lastClose": 83.31999969482422,
-  "oneYearReturn": 60.57043876444094,
+  "lastClose": 81.55999755859375,
+  "oneYearReturn": 58.000773433212096,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "ON Semiconductor Corporation (ON) Stock Forecasts - Yahoo Finance",
+      "headline": "ON Semiconductor Corp. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONkJiejhzVFRaVmNMY0VLMk1lU01qcUhxaWZlUDJaTVUzRmk2dkFPSmVoeHdqSHpScHg4UFR0R2I4anhJNmhMcTJESjd5ejlPcU10YmFBTU9wdjNWeTlnTEpvQS1RYmJXR2FWQ1lNMkpoZk1UV0piQjctUUQxN0pxcnFPZjFzWUdjcmlHRmJyMkZibk1zSGJJV2FzVENMU3RHaXFuQmZuMEhIZDNfanlFVV96OHM3NS1FRXFpREdBZ01HSGF2RHowbkd2RW1VVzNhSENFS1BTaFRQRjRSbXBXTXhxVlBBeEhwYUEyOXRB?oc=5"
+    },
+    {
+      "headline": "TXN vs. ON: Which Semiconductor Stock Is the Better Buy Right Now? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdVRmcmdUNmRDQ2cwVzVXUk0yRUt6OWo2OXRIdTloSmtfankyNmVfRGlwTjhfbXN6d2ZUZUlHVkp0bUZTX3BIcTItUy1lNDNDQXdBX05KYlQ5OV9sQVNPZnBiZllVcGRVdHlxV3hJUHpVNGdRcHJVZTdEb0FwNHUzWExuWHhQckx2aUhOQi05QQ?oc=5"
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWxBLWZIbVpTZlBUQmdwZ2NtZUFsLURTc2ZjajB5Qkl4RVNFM2EzdDFEUzJvSlR3MWc2bGFkdWFPNnI0SGxzd2M2R1VjZFVoV2ZtSU1reE9CeEY3SDExdzdTUE9GRVBMWVhkMnVaYW8zdzVFQ29qcC1JeWRNTnc4YVVzczhGRjJnbEFydmI3XzNsalpXZ05YYnpDdHE5QWM?oc=5"
     },
     {
-      "headline": "U.S. Semiconductor Stocks Rebound as AI Demand Fears Ease - 조선일보",
-      "source": "조선일보",
+      "headline": "QUICK SPARK: Semiconductor Traders Get New 2X ETFs on Everspin, SiTime and UMC - Benzinga",
+      "source": "Benzinga",
       "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbG5ZUHBWMHl1TkxXSy1IZFZ5djZPc0hhTThudWl4UFBDa09BZDBMZ3RrRlJ0Z3JZNTk3QjdQMm5pQXZDd2xQNnNSVTBYNFZuM0FoRlRXTFRuUGxfTzFrYm94cS15WDZpUHZoZ0c1TTdFUnM5TVBQd29PUDBEUy1qbWV1UU13eDRYYTVJV3N3?oc=5"
-    },
-    {
-      "headline": "1 Semiconductor Stock on Our Buy List and 2 We Brush Off - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTG51YlZfMkZnODd1Z0tERkZ0TEVhMkdaaF8zSUlURU9wa2VmcG5CQ0NHQ1MwSS1OOGU3UXNxNFI4bUZtZm5KUWFTbW9MM3pQY3ZtMmFiQUNzMFpBX0ZsY2U3S1VBTDJUMVVWdlBUcFQ0QUpjM3JZM0dXRHVsb1lrSVlfMGd1RXlJOGFxaTdBbU5YUW41Sk4tZDlzTUVwejJFZVE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS2Q5UFlhdzNGUmZWd3hrQTFVZldGU2w3Q3NfQXpVVW56SnNIbXI0OUdNS1NNeDJSSDBidFVFNS1jZHFmeXpXMW9aZ09PWnRtT0wzZlVNQk9SXzlTcWdxV2lMMnNYTnVaV3BfdS1yVFJFNFhBelVxMGRaWU14eWhPNnpXRF9ONmJpSWlxT2JHWTVia0oycVZwQ2FvQnBYOUN4TS1jajNwdlhrUkVzVWdKRTVoQktWWUloODlpNWxkMl9KY2NrU1pzdUtR?oc=5"
     }
   ],
   "insight": "Tracking ON Semiconductor (ON)."

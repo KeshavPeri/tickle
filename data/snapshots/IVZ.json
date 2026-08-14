@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:50.795Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:21.068Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    28.979999542236328,
-    28.399999618530273,
-    28.729999542236328,
     30.299999237060547,
     30.299999237060547,
     29.6299991607666,
     29.65999984741211,
+    30.100000381469727,
+    30.5,
     29.799999237060547,
     29.93000030517578,
     30.110000610351562,
@@ -24,12 +23,10 @@
     31.579999923706055,
     31.739999771118164,
     31.360000610351562,
-    31.540000915527344
+    31.540000915527344,
+    32.36000061035156
   ],
   "6m": [
-    27.290000915527344,
-    27.40999984741211,
-    26.530000686645508,
     26.84000015258789,
     25.770000457763672,
     26.81999969482422,
@@ -144,6 +141,8 @@
     30.299999237060547,
     29.6299991607666,
     29.65999984741211,
+    30.100000381469727,
+    30.5,
     29.799999237060547,
     29.93000030517578,
     30.110000610351562,
@@ -158,10 +157,10 @@
     31.579999923706055,
     31.739999771118164,
     31.360000610351562,
-    31.540000915527344
+    31.540000915527344,
+    32.36000061035156
   ],
   "1y": [
-    21.520000457763672,
     21.34000015258789,
     21.1200008392334,
     21,
@@ -395,6 +394,8 @@
     30.299999237060547,
     29.6299991607666,
     29.65999984741211,
+    30.100000381469727,
+    30.5,
     29.799999237060547,
     29.93000030517578,
     30.110000610351562,
@@ -409,29 +410,30 @@
     31.579999923706055,
     31.739999771118164,
     31.360000610351562,
-    31.540000915527344
+    31.540000915527344,
+    32.36000061035156
   ],
-  "lastClose": 31.540000915527344,
-  "oneYearReturn": 46.561339426685755,
+  "lastClose": 32.36000061035156,
+  "oneYearReturn": 51.640114240708115,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Rising Equity Markets and Continued Inflows Spur Invesco's AUM Growth - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQME9RR3JUd3VwdXlYbTRFbkhONFN4OHZhVUFpVnFMSWdYLXlOQmdKOXlFVEd5MFFtUGdZempBMHlKa3VNT3hqRFppOFlpa29CVnA1Rnk5M2NfMVpHVE1vSjF2SjZtTlVKLTJkTWRTRzJ2b0JITU5OalBHdkpKWjkyc21BRmkyUDBVN1NXemtSR1haNlRBblQxZXc2VWZNY2FCbEtyS040TXQ3cUVOWmNjRkdLY0Q5Uy1PQ0pKMg?oc=5"
+      "headline": "INVESCO Ltd. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRnRUSEY1ZklCc2xUc3k1MThpUnB5TGRKZ0xNbFZfWFhUdXBhQkppTVgtTmpBRHhLMFZWMUZXQ29TVVdYb0VxMjhJN093VjNhaHV0cHVwTXNfb3pWTmxNSnV6XzJfMGF4eFF2bmJvV3Aza2RVZnVlWURZMEZXb09Bd2lWbVBqY3hONUI3N3FnRnhzVVk1UVlqQmQxSDRkZmRsS211VkNhZVhtclJ5U19SY3VpZ2ZzOC1RQll4TGlOWGZUYWE5LU9DbEsydTVIMWZkeGtwcHJ6bHE?oc=5"
     },
     {
-      "headline": "GenWealth Group Inc. Acquires 42,036 Shares of Invesco QQQ $QQQ - MarketBeat",
+      "headline": "Invesco QQQ (NASDAQ:QQQ) Stock Price Up 1.2% - Here's What Happened - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd3FjMkdOeUVXaGdjZE1CQkZzMlhBcmo2OURrV3lTS05lbUVOZWVkOEEzYUM1OUtVanhoYXhjOEk5Wmt5ZXlSdnJIb0hHbjhoV1VtLTE2WEhuNjBzQmtsbnBadWZ3b0E3OEFfNFA0X01Ib01KSG5leTZSRXQ4cVhCcWhpX0h2Z3liYm8wdFY2YWNSa2w2T0FocDZmMHBBcU5ZU0U4RDQxWTNxSVM3M2JQLS1YLU5sc1ZxMGZOZDhn?oc=5"
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR1hSa3JsMF9RNlpVYlJWNG5Yb3RjRlp0cFMtZXRLU1VzbnZlRmZHSEN5VjlQZVA3eXcxUlFDMUR5QVZVTFRsZzUxMkhWV1o2ek1oQ01fcXlpUU1qa1F5Yl9MTFpKcjZvVlRLMThYUDN1aTlvUlcwODhXajhhSFZPdWo1X0VScFhJQmhpdWlfbkNoT2xQaS1uZFZKUTNUYTduYXJ6VHIyMTl5UWZWTWVheW9xTQ?oc=5"
     },
     {
-      "headline": "Precision Trading with Invesco Esg Nasdaq 100 Etf (QQMG) Risk Zones - Stock Traders Daily",
-      "source": "Stock Traders Daily",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGp0ZEJJeDYtZVVhLXBQTG4tY0cwTy1XWF9VN2Ezbk1LQmY0TUhmUHZRNmhOYUpvaldRZXZIUS1sU0JvcHlibkZoLUpZMnZDN1dCcGdQSWhjSWdWekVoT3l6UWJYWHF3NEd4TVl6ZTJ0YzI4MWJxZlZJY1dINVhKVm1aWHRFQ3NYQWJEekY2MUd3U0tsNWVscF9wMGVGSHFiVGdXNDd1dXBwNW5GZ19JUlZZQ2N4U2lvdUtmODdVUWlqOEs0S2xaYkpWUW1OQ19SdERNMGFPVjZHZGs5WXc?oc=5"
+      "headline": "Invesco (IVZ) Stock Still Looks Below Fair Value Despite 133% Run - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdnhhSVVZUDFEa2dVWTdlRHJtWXZzaDdKc1VHUzNLMzg0aUVVVTBoS3M5QWdGQU40Z1RJUzZfR0ZsR3ZWNWt0N243dS1PQVJ3TURqc010bHdXRmRKWWpuWFhnWlloSVBWLUZKR3NPVlNWelRmUjFtYkV1X0xLTFVyTjVIa1dXbVJfVjRJQTZhRnpST0ZSZ1lJNFJNd0JVWk9QNVllQ2RYREVoLXR6c2RYX2RBYkgzSk1STUdUSEJLemVtUFZKekRrZG9qdFZuWUlxajFsQ09JRnDSAdgBQVVfeXFMTnZ4YUlVWVAxRGtnVVk3ZURybVl2c2g3SnNVR1MzSzM4NGlFVVUwaEtzOUFnRkFONGdUSVM2X0dGbEd2VjVrdDduN3UtT0FSd01EanNNdGx3V0ZkSllqblhYZ1pZaElQVi1GSkdzT1ZTVnpUZlIxbWJFdV9MS0xVck41SGtXV21SX1Y0SUE2YUZ6Uk9GUmdZSTRSTXdCVVpPUDVZZUNkWERFaC10enNkWF9kQWJIM0pNUk1HVEhCS3plbVBWSnpEa2RvanRWbllJcWoxbENPSUZw?oc=5"
     }
   ],
   "insight": "Tracking Invesco (IVZ)."

@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:33.206Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:04.256Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    104.70999908447266,
-    102.70999908447266,
-    103.91000366210938,
     103.95999908447266,
     105.58999633789062,
     102.91999816894531,
     99.94999694824219,
+    99.73999786376953,
+    100.05999755859375,
     98.0199966430664,
     99.87000274658203,
     102.86000061035156,
@@ -24,12 +23,10 @@
     100.4800033569336,
     100.5999984741211,
     101.29000091552734,
-    97.98999786376953
+    97.98999786376953,
+    97.69999694824219
   ],
   "6m": [
-    122.41000366210938,
-    124.5999984741211,
-    122.01000213623047,
     122.95999908447266,
     121.7699966430664,
     127.12999725341797,
@@ -144,6 +141,8 @@
     105.58999633789062,
     102.91999816894531,
     99.94999694824219,
+    99.73999786376953,
+    100.05999755859375,
     98.0199966430664,
     99.87000274658203,
     102.86000061035156,
@@ -158,10 +157,10 @@
     100.4800033569336,
     100.5999984741211,
     101.29000091552734,
-    97.98999786376953
+    97.98999786376953,
+    97.69999694824219
   ],
   "1y": [
-    113.6500015258789,
     111.75,
     110.83999633789062,
     111.52999877929688,
@@ -395,6 +394,8 @@
     105.58999633789062,
     102.91999816894531,
     99.94999694824219,
+    99.73999786376953,
+    100.05999755859375,
     98.0199966430664,
     99.87000274658203,
     102.86000061035156,
@@ -409,15 +410,22 @@
     100.4800033569336,
     100.5999984741211,
     101.29000091552734,
-    97.98999786376953
+    97.98999786376953,
+    97.69999694824219
   ],
-  "lastClose": 97.98999786376953,
-  "oneYearReturn": -13.779149539688728,
+  "lastClose": 97.69999694824219,
+  "oneYearReturn": -12.572709666002515,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CRH plc Stock Outlook: Is Wall Street Bullish or Bearish? - Barchart.com",
-      "source": "Barchart.com",
+      "headline": "Crh Plc $CRH Shares Bought by Handelsbanken Fonder AB - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlhVZ2x4bDFiRGtwZ2FvZkthX3R3MVdvSVhMaXdDSlhSR2xPenlQb00xdk9JNk5zQlk3aEZ0NVBnanVXZjN1bzhMTkRsTjctZ2RMTTduZTdxcENJOTMzQkpiYjA0dm94ZmpYMG01X0ZNWkVqdDIwUjdGVTcyVW5CZ3g3bDJjUkg5dzMwME00N08wMk5mdjVkSEJ0YUtnbXRyaEZJcU1zb1I3X0xqMDRkcTdpWQ?oc=5"
+    },
+    {
+      "headline": "CRH plc Stock Outlook: Is Wall Street Bullish or Bearish? - barchart.com",
+      "source": "barchart.com",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWROT3V6YWthU2VOZGxjVTFYa3lxZ1poeXNvdDlFQ2pkUUV3LThvMzd3dWJ6Nl93bVNlWktkR0pjdnVwblR0MTF3R2o5ZHdiQnljVGxabGZWek9QZkFRaFY1bTNUZHdBampjU0RWM09UWHFOYWkyRlcwbmNDSnFDc2JqalVKQ0tib2RZcHFoR1VRS1d3X04tZUdxVzVGY2xG?oc=5"
     },
@@ -426,12 +434,6 @@
       "source": "GuruFocus",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORG9DejB1MVQ2ZWNWRTk5REZwRFR5Ukd3OURRM1UzeTBwWHpsS3NmN0ZoRTl1UWJ0VnNnN2R0M2JDM1pzWGVCalJfT1ZmNVVzLTBLTHBxN3RBSUZ0NG5FMkFZWEU4Q1dkV3cxRUdXTTJ3Ujc5cHJwdFg3MTN1M2NnaUtJek9VRVdMcHFJNkJFQ0hpcjY3eFhNMXo3TQ?oc=5"
-    },
-    {
-      "headline": "Crh Plc $CRH Shares Bought by Handelsbanken Fonder AB - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlhVZ2x4bDFiRGtwZ2FvZkthX3R3MVdvSVhMaXdDSlhSR2xPenlQb00xdk9JNk5zQlk3aEZ0NVBnanVXZjN1bzhMTkRsTjctZ2RMTTduZTdxcENJOTMzQkpiYjA0dm94ZmpYMG01X0ZNWkVqdDIwUjdGVTcyVW5CZ3g3bDJjUkg5dzMwME00N08wMk5mdjVkSEJ0YUtnbXRyaEZJcU1zb1I3X0xqMDRkcTdpWQ?oc=5"
     }
   ],
   "insight": "Tracking CRH plc (CRH)."

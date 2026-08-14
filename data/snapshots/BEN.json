@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:26.487Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:38:57.626Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    33.5,
-    32.83000183105469,
-    33.13999938964844,
     33.630001068115234,
     33.33000183105469,
     32.630001068115234,
     32.22999954223633,
+    32.630001068115234,
+    32.380001068115234,
     32.290000915527344,
     32.4900016784668,
     33.220001220703125,
@@ -24,12 +23,10 @@
     33.77000045776367,
     33.52000045776367,
     33.36000061035156,
-    33.59000015258789
+    33.59000015258789,
+    33.86000061035156
   ],
   "6m": [
-    26.6200008392334,
-    27.06999969482422,
-    27,
     27.829999923706055,
     26.90999984741211,
     27.200000762939453,
@@ -144,6 +141,8 @@
     33.33000183105469,
     32.630001068115234,
     32.22999954223633,
+    32.630001068115234,
+    32.380001068115234,
     32.290000915527344,
     32.4900016784668,
     33.220001220703125,
@@ -158,10 +157,10 @@
     33.77000045776367,
     33.52000045776367,
     33.36000061035156,
-    33.59000015258789
+    33.59000015258789,
+    33.86000061035156
   ],
   "1y": [
-    26.030000686645508,
     25.6299991607666,
     25.329999923706055,
     25.059999465942383,
@@ -395,6 +394,8 @@
     33.33000183105469,
     32.630001068115234,
     32.22999954223633,
+    32.630001068115234,
+    32.380001068115234,
     32.290000915527344,
     32.4900016784668,
     33.220001220703125,
@@ -409,27 +410,28 @@
     33.77000045776367,
     33.52000045776367,
     33.36000061035156,
-    33.59000015258789
+    33.59000015258789,
+    33.86000061035156
   ],
-  "lastClose": 33.59000015258789,
-  "oneYearReturn": 29.043408630492205,
+  "lastClose": 33.86000061035156,
+  "oneYearReturn": 32.11081435454405,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Can Franklin Resources (BEN) Stay Cheap After Its 46% Run? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHZOQk1wQjREX0NiNlZHbDBYZ3Naalhndy1NeDZYR2s2UmVHb0htaHFtTFF6OEV6YkYwOFhfWktJdkhSc09YV1ZMT3NleHB4Y1dBMldRZGNPNlg4UDM2U25IQ0tYZG9xbkdsdWo1U3BGc1JHcDJmem9idDJINm5jcnloNVEwRWNHN1Zab0pQRk16c0hMTDhDSXlNcXNJeEp2a0dTNWRncTBxOTdBNHhUZlN5T05yZW1rdjRVcVFscUQ5NUw1cmY4REhLUDNMdUdFSnhHanZjLVBzQdIB3wFBVV95cUxPd1Jlc0lMTnRlY1hwdy1wSkNFUkJydTA0YU9MQlFnQnhVTFltVzgwLU1wOW44NUs5aXd4ZWUybnA1ckNXbUtIYTZIUGpOcm9STktDT3BLTGJqVHRuVUJTbldwckd4Ymd1WUhEV3BfTzVWSnNMWTVRV0RNMEN1aUZES1VaNTRCamotLVBYVnBMV2tkeXV4amptNktrOUhSUzNlSEU1ZTZBZ3ZqUlhmbUhyMHNWQTFIQU9GajBSZE16ZGkzVUZIaUJlbkFvbWpReXhUN2xvSzJBYjdNS20xcndj?oc=5"
-    },
-    {
-      "headline": "Franklin Resources, Inc. (BEN) Stock Forecasts - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Fund Update: New $1.5B $HON stock position opened by FRANKLIN RESOURCES INC - Quiver Quantitative",
+      "source": "Quiver Quantitative",
       "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcFdmaFpQRVBsV1hKZnVTWkxNNGpPb05LUm9QV1lfVk1iR01NUkl6SzFSa2l6UktjQXVEcGNiczdYZHJJNzNSQ05RVUZOb1NqRnpLTFNiRW95LVcydzJoRlFVUDhCcTZ2bTIwV09VSXRDLTFXMkMxMmp5U0xUZjRzY3RLZXJYcUJFTldic0pJaw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVF0MFhQZnRLRWlUY2ZXdkRmQW00ZmhhTGJvdDNNVXhYQnlQQU5lblhfTXBQdlFMRURWb3Znc0ZEcnE1eUZnNjdrYm5WZlBxMEYzU3NiT1c2dWZTRTdpeEFyQWxKRDlSdWE4bU55bHFHdks1VTZOUDlUNk8yQUI3UEFkMDRabkpYVEdSUjFiU01QelJyQ1JDRWJiWFNPODZTd1loUlozQkJkX2gxbm8zTjlGZ0g?oc=5"
     },
     {
-      "headline": "Franklin Resources Stock Jumps 6% On Thursday — Hits 52-Week High - stocktwits.com",
-      "source": "stocktwits.com",
+      "headline": "Why Franklin Resources (BEN) Is Getting Attention Today - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMmRnUXIxZkcxNHRvSUhLbHpYTlhaVVNLWFMtZEdMR3hnT3BwcDd5M3dqUU1sSXByWG1fbTZfWlNPanJhSDJ6LUhENVh2a0dyV1RCVktZc29pY3QycExENEY4azhkSFpBM1JGYXdVMFlLYlMzbHRwdGlqc3hRZHFnRFFqdWExRUNjSG9DYV9DejNldWYwVW9HSHJwTFBGQUZoMFJ3ZXNDNEZUSmlXYUItX0YxMTNaNmNKZU4xaE5wUlZFcGlSR2JIRHVFQU1zNThieXhEU2VoRnJDNWNTdlHSAd4BQVVfeXFMTjJkZ1FyMWZHMTR0b0lIS2x6WE5YWlVTS1hTLWRHTEd4Z09wcHA3eTN3alFNbElwclhtX202X1pTT2pyYUgyei1IRDVYdmtHcldUQlZLWXNvaWN0MnBMRDRGOGs4ZEhaQTNSRmF3VTBZS2JTM2x0cHRpanN4UWRxZ0RRanVhMUVDY0hvQ2FfQ3ozZXVmMFVvR0hycExQRkFGaDBSd2VzQzRGVEppV2FCLV9GMTEzWjZjSmVOMWhOcFJWRXBpUkdiSER1RUFNczU4Ynl4RFNlaEZyQzVjU3ZR?oc=5"
+    },
+    {
+      "headline": "Franklin Resources Stock Jumps 6% On Thursday — Hits 52-Week High - Stocktwits",
+      "source": "Stocktwits",
       "when": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObVY1dmRxaS1JcnJYWlVBM3VRSUNzWlZQWlkwRmVDMk5xNU9zM0FfRkttQlVBeGkwcTJscFN3aExLbU5sc1FmTElla2FUUzVrSjNPWm5VdF9PaE8xWTBXVnVKQXJ6TWk0SWRMU2kybDQ0WWEtMGZ1QkdkNl8zXzJfTEh4UmNwck0yR0ZBcm83ZDVmLXEwbjlkUmV5TFdTMmRnZWliS21ITHVyam1jdVA1Wk9yYzk2bW80RldmNFltRQ?oc=5"
     }

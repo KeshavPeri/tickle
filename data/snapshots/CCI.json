@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:29.399Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:00.326Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    79.66000366210938,
-    79.83999633789062,
-    79.05000305175781,
     79.47000122070312,
     78.7300033569336,
     79.16999816894531,
     78.18000030517578,
+    76.19999694824219,
+    77.5,
     74.56999969482422,
     74.9000015258789,
     74.12999725341797,
@@ -24,12 +23,10 @@
     75.58999633789062,
     73.61000061035156,
     73.63999938964844,
-    73.97000122070312
+    73.97000122070312,
+    75.7300033569336
   ],
   "6m": [
-    86.80999755859375,
-    84.95999908447266,
-    84.41000366210938,
     86.11000061035156,
     78.37000274658203,
     80.87999725341797,
@@ -144,6 +141,8 @@
     78.7300033569336,
     79.16999816894531,
     78.18000030517578,
+    76.19999694824219,
+    77.5,
     74.56999969482422,
     74.9000015258789,
     74.12999725341797,
@@ -158,10 +157,10 @@
     75.58999633789062,
     73.61000061035156,
     73.63999938964844,
-    73.97000122070312
+    73.97000122070312,
+    75.7300033569336
   ],
   "1y": [
-    101.81999969482422,
     101.05000305175781,
     101.69000244140625,
     100.55000305175781,
@@ -395,6 +394,8 @@
     78.7300033569336,
     79.16999816894531,
     78.18000030517578,
+    76.19999694824219,
+    77.5,
     74.56999969482422,
     74.9000015258789,
     74.12999725341797,
@@ -409,29 +410,30 @@
     75.58999633789062,
     73.61000061035156,
     73.63999938964844,
-    73.97000122070312
+    73.97000122070312,
+    75.7300033569336
   ],
-  "lastClose": 73.97000122070312,
-  "oneYearReturn": -27.352188722837706,
+  "lastClose": 75.7300033569336,
+  "oneYearReturn": -25.056901464768206,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Crown Castle (CCI) Stock Sees Modest Fair Value Cut As Analysts Weigh Tower Headwinds - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON194a3JGanB6bklsV0ZmWDd2UG95REZ5VzYwU0lnUkJhTTVTaE4zRkVwZUNNOGVsQ3Y3aV9mZUt6M1d5cldJZ19velBPY2pLbF9TMl9BMmJEaWJHTmVfZnlsRkNpMDYwOFFySURpSnhLRVgzNXk4c3U3b0wxX2NnMHhwVzBSYkZOYTVTOHdLTnp0MlByR0Rv?oc=5"
-    },
-    {
-      "headline": "Crown Castle Inc. (NYSE:CCI) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObnFlTkpWbF82TDNQdTR4M3V6WlBnX2s5a2M5NlFsdU1uV2twS3JOTTVHR0FMLXJYcExHc0ZjTUs3SnlRaGl1dDZXMER2VHU0OHNQZl9FdEV6cV8wcW02OUxoRzhtblNxcUU5NkR0ZmdPVWFLOWlyMnA1Rk0xcUJoanpRbEZrMVJNNDBDZTdVbXhGaTFnbVlsSVNqdmtaQXh1MTlaaEpVQnBCRFZaWE94c3pXMTBDWEtLcDltREJSNFlibHpPNHJlLXNJdzhjbWkzbXlrWGlB?oc=5"
+      "headline": "Crown Castle Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNanRlN0NIUnByNXVuQ016SGpPN0Flb0trUFlwZW5rNjk0SlhFRVhuNVNFcFhsMVRpcEJENmRoYzBwMmpLNGRacDVRWEVmNnBaMG8xQm5CdFN3eHhxLXhBWTBjcU90Q04wRDNaN1R0WURybUZhZ0otbENHRzBQYTVleUZ6dnhsck92N2prNExIU2l3UEF3Nmlzc0toeTVLcTFOd05kY1hFbm12Q25kM0l2dHRaWWN6bnBoSTlYbWh0Y1hkMWc2cWg4OUVLZkJQMEl6QVdESWF4RVQwQlhKU1BJVXRqanVOVVNxRVE?oc=5"
     },
     {
       "headline": "Crown Castle VP and controller Collins sells $113,835 of CCI stock - Investing.com",
       "source": "Investing.com",
       "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUZuTFc1ejM5azhMUkwtVHNVVVNCa1pLNFhvTHRvSm9DM2d3ZmtEbWpVb2tSUXhKMWJNRUFlbkJ0ZWZ1TW5WdUVIcVBDZG1KQ1RBT01MRzdnUW1UcHQ1Q3VSTUtpVWxoMFZ4b0NrS2VCb0dNc1I5WmJhbE9nNExKd3NsMUtESWtJekx5MUQwajI1ZjRXR3p4RWtfT2lzX2Fvd0VQYWRhU0o1YWNMa2lYb2xCU21yOGJaai1OaWlwYXZEYTYtU3JlZTIwRV9tQVNPUjNR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR3FOczFRSnl6SlBIWXYteE9JRW9kSS03SnJDRXFSdWE3NzBOMVBvSDZjd0RHUkExQnk4UmVRaE4zS3BIRlFJNVoxdmNkdGtkTnJwVDBmandwSzQ0OGNkVndXSFRmcWhlNktBZVczZTEzeFIzS0VUTTJCZkc1QURDVmFyMHVlLU02eUlfSXBTNVByUF9iQWVlVGNLd2ZETVpCMmhvZWlKU2RQTjF3em1nTzYxaFk2OF9mUEk0OHZNU3dKR0JaS1hQQQ?oc=5"
+    },
+    {
+      "headline": "Crown Castle (CCI) Stock Sees Modest Fair Value Cut As Analysts Weigh Tower Headwinds - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON194a3JGanB6bklsV0ZmWDd2UG95REZ5VzYwU0lnUkJhTTVTaE4zRkVwZUNNOGVsQ3Y3aV9mZUt6M1d5cldJZ19velBPY2pLbF9TMl9BMmJEaWJHTmVfZnlsRkNpMDYwOFFySURpSnhLRVgzNXk4c3U3b0wxX2NnMHhwVzBSYkZOYTVTOHdLTnp0MlByR0Rv?oc=5"
     }
   ],
   "insight": "Tracking Crown Castle (CCI)."

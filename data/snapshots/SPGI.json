@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:42:02.879Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:32.324Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    430.5,
-    437.8399963378906,
-    438.8699951171875,
     444.4800109863281,
     457.3800048828125,
     450.8399963378906,
     448.3500061035156,
+    431.260009765625,
+    429.05999755859375,
     420,
     426.3999938964844,
     439.8299865722656,
@@ -24,12 +23,10 @@
     408.19000244140625,
     410.94000244140625,
     408.69000244140625,
-    410.1000061035156
+    410.1000061035156,
+    422.6700134277344
   ],
   "6m": [
-    499.3282775878906,
-    499.2052917480469,
-    442.9612121582031,
     440.40679931640625,
     427.3509826660156,
     415.59130859375,
@@ -144,6 +141,8 @@
     457.3800048828125,
     450.8399963378906,
     448.3500061035156,
+    431.260009765625,
+    429.05999755859375,
     420,
     426.3999938964844,
     439.8299865722656,
@@ -158,10 +157,10 @@
     408.19000244140625,
     410.94000244140625,
     408.69000244140625,
-    410.1000061035156
+    410.1000061035156,
+    422.6700134277344
   ],
   "1y": [
-    532.2421875,
     533.7275390625,
     526.461669921875,
     521.4853515625,
@@ -395,6 +394,8 @@
     457.3800048828125,
     450.8399963378906,
     448.3500061035156,
+    431.260009765625,
+    429.05999755859375,
     420,
     426.3999938964844,
     439.8299865722656,
@@ -409,29 +410,30 @@
     408.19000244140625,
     410.94000244140625,
     408.69000244140625,
-    410.1000061035156
+    410.1000061035156,
+    422.6700134277344
   ],
-  "lastClose": 410.1000061035156,
-  "oneYearReturn": -22.9486095362338,
+  "lastClose": 422.6700134277344,
+  "oneYearReturn": -20.807906189333934,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "S&P Global Inc. (SPGI) stock price, news, quote and history - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11Zms0RDkySW1CUDdPdkRKaV9UbHdYLTNSTlBXUXdNR0FCNjNFQTFRcWRiZkhJdWhMdlJRTHMxcldmd3hvUTBHaXdBcmNjdHAtbFVkd0VsaVNNbktaLTNleHN3?oc=5"
-    },
-    {
-      "headline": "S&P Global’s Shares Drop as Company Misses Profit Estimates - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVpRMW41RnRoM0lfQlRJMlI5a3NxS3A1ZGMwRXl6cHFjV0xMSGRJcnQtaGdnX3NWVTc3N2hZa3JQVzRDbm1aa0hnMmxWYmhCWHJtanFEN1Zwa2F2N2d2cTVLRGVZNXJ0YTlVelFuWWZ1RklLbHY5Ty1ZZEpoRzdCYi1rYm9xYm9kNnZoQkFKZEVuSGZlTU1XNnExNkpWVGk5NGFBYlAzSW1rano1YlpV?oc=5"
-    },
     {
       "headline": "S&P Global Stock at $429 After a 16% YTD Decline: Is S&P Global Undervalued Heading Into 2027? - TIKR.com",
       "source": "TIKR.com",
       "when": "2026-05-08",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWhFVHJFVnFoMEYzOUJpQ0dXeDJUQlhtQ0NrUHAtT2YyclY1YnE5WkN2aEVQSWRyU3lDOXdkWWdicURwcFVnQjRlaDFFV1dLTzRoaW92VGtlNEM4cVlPMHdxNU1XR0tOdVkzQkpiblNwbE91bkhqd0ZfTml3cTljN0llczR4aGFtTlZTMVBUX2xNUk1LSUFscGFod0RRanNXUmQ1Tzh2dnBwQWh4YkN1SW9XWUI?oc=5"
+    },
+    {
+      "headline": "S&P Global’s Shares Drop as Company Misses Profit Estimates - bloomberg.com",
+      "source": "bloomberg.com",
+      "when": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVpRMW41RnRoM0lfQlRJMlI5a3NxS3A1ZGMwRXl6cHFjV0xMSGRJcnQtaGdnX3NWVTc3N2hZa3JQVzRDbm1aa0hnMmxWYmhCWHJtanFEN1Zwa2F2N2d2cTVLRGVZNXJ0YTlVelFuWWZ1RklLbHY5Ty1ZZEpoRzdCYi1rYm9xYm9kNnZoQkFKZEVuSGZlTU1XNnExNkpWVGk5NGFBYlAzSW1rano1YlpV?oc=5"
+    },
+    {
+      "headline": "Down 12% In Last 12 Months, Can S&P Global Stock Give Better Results in 2026? - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-03-10",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLTFGM2pBdnlYdzA1ZUFYeDFqV01lVGhoTHR6ODNIT2NPaHMxNXNBV09yaGVWSWN0d21oa0hyTWJJQkNKS19xdWxuY2xDUzhVSTI5RU1Dd0dtSk1jWVdjbl83a29nNTU0dGluXzhmRXNURG9mZ0gtTzljLW5qbUc4WkV4d0NzeU4zOUtidnRFZ1lCdUxFdEx6UDlTd1hNWWUxT25GWTRLaw?oc=5"
     }
   ],
   "insight": "Tracking S&amp;P Global (SPGI)."

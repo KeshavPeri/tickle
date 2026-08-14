@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:40.140Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:10.926Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    74.81999969482422,
-    74.86000061035156,
-    74.63999938964844,
     73.79000091552734,
     75.04000091552734,
     74.62000274658203,
     74.05000305175781,
+    73.05000305175781,
+    74.45999908447266,
     74.62000274658203,
     74.91000366210938,
     74.69000244140625,
@@ -24,12 +23,10 @@
     72.33000183105469,
     71.16999816894531,
     71.12999725341797,
-    71.55000305175781
+    71.55000305175781,
+    72.22000122070312
   ],
   "6m": [
-    69.12999725341797,
-    67.91000366210938,
-    68.54000091552734,
     68.23999786376953,
     67.7300033569336,
     67.36000061035156,
@@ -144,6 +141,8 @@
     75.04000091552734,
     74.62000274658203,
     74.05000305175781,
+    73.05000305175781,
+    74.45999908447266,
     74.62000274658203,
     74.91000366210938,
     74.69000244140625,
@@ -158,10 +157,10 @@
     72.33000183105469,
     71.16999816894531,
     71.12999725341797,
-    71.55000305175781
+    71.55000305175781,
+    72.22000122070312
   ],
   "1y": [
-    66.30000305175781,
     65.51000213623047,
     65.52999877929688,
     64.54000091552734,
@@ -395,6 +394,8 @@
     75.04000091552734,
     74.62000274658203,
     74.05000305175781,
+    73.05000305175781,
+    74.45999908447266,
     74.62000274658203,
     74.91000366210938,
     74.69000244140625,
@@ -409,27 +410,28 @@
     72.33000183105469,
     71.16999816894531,
     71.12999725341797,
-    71.55000305175781
+    71.55000305175781,
+    72.22000122070312
   ],
-  "lastClose": 71.55000305175781,
-  "oneYearReturn": 7.918551671711886,
+  "lastClose": 72.22000122070312,
+  "oneYearReturn": 10.24270930493784,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Wedge Capital Management L L P NC Increases Stock Position in Eversource Energy $ES - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcGVWQXV6RmZOSEU4NGdHOHRvTXp5dmNydmFvLVk1WUdWMDRUYUhIVXd1TXdzN0x0X0tQMGJ4UkN1M1BfOHhidi1nYTNOcXhidWdqVE43a0FXelZQYVY2WDc4TEhGT0J5aTRiMHhrUHItMjJNQXhXY0NBSXpQZC02dkxlSW1jeUtIT1g3dkZwdzAyZkdwTHFISGVVYlVnVlVBcG9sWmR1WENNaFlYUFpzX1FNcURuQV9ZOWs4SGdXQW5wR1Y4OGVGdVkwOGNocXR4bUtScVNwaVNXWmc?oc=5"
-    },
-    {
       "headline": "Eversource Energy (ES) Stock Could Trade At a Premium After New Project Win - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-05",
+      "when": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3djUDRheVhaZ0t6emhKTGJrN0k5YnUzSzhId0pTNXFxN1JNa3pPb2pTWDVnYUZDaWRKazlxVENhRHItYUUtTjctMWVNUWQ4Q05OZmpOU0kxZ1k4ZjJfTFVNMEZyNUYzeXBBUk9XS2g3RXhzSWFaQlpnaUNUc1laemdJY0JzU1ZRUU1DY3pORGFMbmRDeU1RVk9fMjBuUQ?oc=5"
     },
     {
-      "headline": "What Are Wall Street Analysts' Target Price for Eversource Energy Stock? - Barchart.com",
-      "source": "Barchart.com",
+      "headline": "Eversource Energy stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObFd6bnNBWEMxcnNMLTc1bVZrU0UzRERnTEMtOGVVZWN2UUVveG9tVlVYU1o3V0FWZjN3SWphdjRhR0JYZl9wSkM5OTctVmxqM0tmSzl2RlhsVk5WT1ZFRkl6Wm0tTTR5RndoeHlQQmFQZXVjblR2dVhOeFBEdHh5cVB4VWxnZi10V05WU3VDdlFJWjVaUDVIcFIyMTZrN1NaSHN1YWktelpUc1BpOXZ4UWRKZ3JHR1JET0hnTWNfbUVvRTNjdnlldzU2VG5yVmdTZDVQS09Vb0FlNFFJN0ZEdlUyeHFmQQ?oc=5"
+    },
+    {
+      "headline": "What Are Wall Street Analysts' Target Price for Eversource Energy Stock? - barchart.com",
+      "source": "barchart.com",
       "when": "2026-08-07",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0NUhkY3Y2Nk10NlZnMkprOFB1X0lFTHU3N1pRVmVseVhuTFdJNFBnOG1NRllSTmlET2lCc0hwaDVpbVB2ZjRlbzFmclBOT0xZdWNRa19lV0JLTXJXQ1N6dmszNkJEZngyMkp5VXU5dVBvZVpKQWMtc2ZVR2ZRNzcxQy1SS0V3WkNoTWNwXzQyYnhvdG9rS0dXZzlzMEpPRko4LUVCZHBPdEtzVXYtUk5JbnY?oc=5"
     }

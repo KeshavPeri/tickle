@@ -1,14 +1,13 @@
 {
-  "builtAt": "2026-08-13T03:41:22.619Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:38:54.378Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    360.45001220703125,
-    355.25,
     358.32000732421875,
     371.5799865722656,
     366.2900085449219,
     364.1700134277344,
+    366.239990234375,
     366.04998779296875,
     371.5,
     376.0400085449219,
@@ -24,11 +23,10 @@
     410.95001220703125,
     417.20001220703125,
     414.29998779296875,
-    416.17999267578125
+    416.17999267578125,
+    417.8399963378906
   ],
   "6m": [
-    344.67999267578125,
-    338.5899963378906,
     366.20001220703125,
     367.79998779296875,
     384.32000732421875,
@@ -143,6 +141,7 @@
     371.5799865722656,
     366.2900085449219,
     364.1700134277344,
+    366.239990234375,
     366.04998779296875,
     371.5,
     376.0400085449219,
@@ -158,10 +157,10 @@
     410.95001220703125,
     417.20001220703125,
     414.29998779296875,
-    416.17999267578125
+    416.17999267578125,
+    417.8399963378906
   ],
   "1y": [
-    289.3299865722656,
     290.2900085449219,
     296.4700012207031,
     292.6199951171875,
@@ -395,6 +394,7 @@
     371.5799865722656,
     366.2900085449219,
     364.1700134277344,
+    366.239990234375,
     366.04998779296875,
     371.5,
     376.0400085449219,
@@ -410,29 +410,30 @@
     410.95001220703125,
     417.20001220703125,
     414.29998779296875,
-    416.17999267578125
+    416.17999267578125,
+    417.8399963378906
   ],
-  "lastClose": 416.17999267578125,
-  "oneYearReturn": 43.842675142775924,
+  "lastClose": 417.8399963378906,
+  "oneYearReturn": 43.938814302398086,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Amgen SVP Rachna Khosla sells $1.35m of stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdExOWFRsUmlHVlVMTVBaYWttd0hiaXFCNktUSmNZX2hxS0hqUEt5Sk5zNnl4dVBiUDhpNDBDaEtMei1oLTdseEtfVTJYRnFzWk5nTXkxLUlCbHBiWkswaUpJRmdKRmtHdnFZWGhRT3FFU1RhSWZkd1VwR0RPblpVNmgtTHRocGVLVFl0SXFGa192QnRmWjJCWHFjclMzcHBUVi1zMy1JeEZ4RThV?oc=5"
+    },
+    {
+      "headline": "Insider Selling: Amgen (NASDAQ:AMGN) SVP Sells $521,370.36 in Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTGlVcGZ1NGJBdW9sUUZCeVN4bWVCalUwVG95eTRUa0VXNmp0ODE4QU84WGN1aUNrc2hWNDctNTlQMkgtM2Voa1NRUktKYXMxWnpuZ3F5ZTVJc2ZWRjcxWWFVS0FCbFc2M0x3WGJTZkFUcnI1aVMtRlIyRi1RWGs4RkhNbDItT2d1c3hhUFNoNjNMWFhVTzNzQkFzY1dzZEpXQnlvY2FZdTRvWWpvN1B6dU1BcFg?oc=5"
+    },
     {
       "headline": "Amgen Stock And The Price Of A Promise - Trefis",
       "source": "Trefis",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUV1YTdBbGhkMko4cndoSHBEMXFldzUxX25FQ1FtSzhkNk5ibXF2RExBT0Z6R1FQMVAwN1BxdlpJLWxFbmkwNVVCeHVtcDBzZy1zSWpCU3lNeFEzMjZjZkpBUDZvVS0zQzZjcml3T1BWSUFQS3pxV0FUODhiOFhoRzA5MnJIYlZ5djI3TEJKanBLaHNJQVMyN1p1LXJqSWVZ?oc=5"
-    },
-    {
-      "headline": "AMGEN ANNOUNCES 2026 THIRD QUARTER DIVIDEND - Amgen",
-      "source": "Amgen",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYUVlTExYMWR2V0RaN2k5SXVoM1hnZ3d1eGJ5anRKOUFxbWxiOTE3NnZ0UjBYak51MmcwXzdTM3VqVWEwU3A2XzhNa2hrdU5xTmZScVV2MEJsU0xJRFl5UHRiRk5qWk5OWTViVmhYTWNHMk1waXhCZnR5MmdUVy1jQTh0OGtqakNQTEtqUGlpMU5pSFh0aTg2d1NEMU1UZw?oc=5"
-    },
-    {
-      "headline": "Amgen (AMGN) Stock Sees Fair Value Lift After Q2 Beat And Analyst Target Hikes - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-08",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMTVySjNocWZxTDM5cV9IeWNtX0VoZlhuNURjbUVzZjlMaDRXNDd1SFVkbEdnR1JGSFdBT21fUlVtTE5rVi1Xb012UFlzNDBWQWVGVzVObTM0RS1pZU5VdXhHNHBteEk3QU83bDVwMHlWbGxfdWFPckJWUVlpMXYwQUN1YkxPbUdzdk50VWVqZGM5OFdNYXc?oc=5"
     }
   ],
   "insight": "Tracking Amgen (AMGN)."

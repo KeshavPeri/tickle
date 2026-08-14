@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-13T03:41:20.271Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:38:52.175Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    205.9199981689453,
     208.97999572753906,
     217.05999755859375,
     218.35000610351562,
@@ -24,10 +23,10 @@
     249.0800018310547,
     256.07000732421875,
     251.58999633789062,
-    249.50999450683594
+    249.50999450683594,
+    257.9599914550781
   ],
   "6m": [
-    240.7899932861328,
     243.41000366210938,
     238.05999755859375,
     240.39999389648438,
@@ -158,10 +157,10 @@
     249.0800018310547,
     256.07000732421875,
     251.58999633789062,
-    249.50999450683594
+    249.50999450683594,
+    257.9599914550781
   ],
   "1y": [
-    287.010009765625,
     283.75,
     286.7300109863281,
     289.6499938964844,
@@ -411,12 +410,19 @@
     249.0800018310547,
     256.07000732421875,
     251.58999633789062,
-    249.50999450683594
+    249.50999450683594,
+    257.9599914550781
   ],
-  "lastClose": 249.50999450683594,
-  "oneYearReturn": -13.065751709988065,
+  "lastClose": 257.9599914550781,
+  "oneYearReturn": -9.08898979556718,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Autodesk (ADSK) shareholder files to sell 2,400 vested shares on NASDAQ - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaVAtSTlBVlktNDFrQTZ1bkt1NlY5RVN5T1JfRThYQ2ViSnF1SnBFVHdfODI1M1pWWGo4ZzlyNnRIdll1X3NuZmt5V3EzekZHZnlFRXI2cTVzSXUycy1FUG1JYmg0OGhmQ1puRTRtc3YyZkVwRTQzU2pDV0NQWktQNjBqR0FyR1NBSXBQZGJRN0gwTWs?oc=5"
+    },
     {
       "headline": "Autodesk (ADSK) Stock Stays Reasonable On Earnings But Strong On Cash Flow - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUNMdXRTb2NNcEJVSHJ5eFNVT0tVVTYyNTA5ZDhoX2FuaUFYeFgzdTh2YmtreXdfTHgxQTExNy1yeERoZVdNOVBEc0ZYZUtRWWdIMHJoamVlYUlRUklrSmFJWFZtZVFYbjZJcXZNVjd6Q0sxZEJwM01SeEE4bmx0ZnFQSlJfU1Rvck9XZHpzU2NvY0xhSEE4dzYycmhmVjhPUmRN?oc=5"
     },
     {
-      "headline": "Wedge Capital Management L L P NC Grows Position in Autodesk, Inc. $ADSK - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcnVGZDJfQWxPbkp5LWlTLWZaTE5rVXhnR1NmZ3hMbVBFWUV0ejNaWElUd20zYjNHRGlnT3pzQk1IRHJtZHpuanRBaUhJVTQtX3AzU3A5Y2VEMVVQRVM4RUt1MHhtbHE1bE9YZ0haVTNPVHZJdE5FdlZVZEFiMzk4M1VrTG84V21UNENtSWlTTE5GYVRnNUZZcXEtTHRkRzJnTTRTRkJBU3l6OWI0RVhlT3VqZGpoVkdBNld1ZDBjUzFmVTJTNm95QWdn?oc=5"
-    },
-    {
-      "headline": "Goldman Sachs initiates Autodesk stock coverage with neutral rating - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkl6UGtMdThuMFNCWE1kdTRhcjZDNUhzVFVyR05ZOS1XODFhcVVhNTBfNlZQTW1xY2g2VjZFeE43elhRR0NEYVBxY1pHQ2VSTVdsMVRLclVYLTF0a29PUl9RYnJsUkFVQnFEby1RZ0VrdkVjOEhQREhHb1JMWWdVU1BuUXlhSG5yZ3dZSjJYUXh4RnZjc1dzM255ZUw1S0VnYXdFdUoyMUVXdEJKWERnVVcxaGoxLUV1ckk1TzNVVlhUQ0FuT2dBbEc2SUpkbFRO?oc=5"
+      "headline": "Autodesk: The AI Story Is Real, But Growth Still Needs To Catch Up (NASDAQ:ADSK) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZnJmRGVta09aYkd5MEtZNVhFWUR4UGhTbDRtdmh4REMzR3l1Qjk1NEFEa0E1STY3c0VKOXFiZzZCTTlycml6aUFEclN3UC1tUU8tU014UzVZamJfZVVidm0zUzc4ekZHejQtNVBBQTJabHBRREJuNkhzajMwejhhX0Y4SlVTUWx3M3ZmMWpqdkptMWZaX29FZkJ4SkpaVnRBVGoydGlRRTJNREpFZHFmUkpvMFhDQkpZcFdQeU9jcGJ4Zw?oc=5"
     }
   ],
   "insight": "Tracking Autodesk (ADSK)."

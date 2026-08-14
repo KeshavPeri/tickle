@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:42:04.320Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:33.415Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    198.17999267578125,
-    200.97999572753906,
     201.33999633789062,
     202.57000732421875,
     203.30999755859375,
     203.13999938964844,
     209.00999450683594,
+    200.27999877929688,
     198.7899932861328,
     202.94000244140625,
     207.5800018310547,
@@ -24,11 +23,10 @@
     216.3300018310547,
     214.27999877929688,
     218.69000244140625,
-    214.1999969482422
+    214.1999969482422,
+    214.74000549316406
   ],
   "6m": [
-    227.1300048828125,
-    226.35000610351562,
     215.7899932861328,
     208.69000244140625,
     215.91000366210938,
@@ -144,6 +142,7 @@
     203.30999755859375,
     203.13999938964844,
     209.00999450683594,
+    200.27999877929688,
     198.7899932861328,
     202.94000244140625,
     207.5800018310547,
@@ -158,10 +157,10 @@
     216.3300018310547,
     214.27999877929688,
     218.69000244140625,
-    214.1999969482422
+    214.1999969482422,
+    214.74000549316406
   ],
   "1y": [
-    206.2899932861328,
     206.97000122070312,
     202.7100067138672,
     203.6999969482422,
@@ -396,6 +395,7 @@
     203.30999755859375,
     203.13999938964844,
     209.00999450683594,
+    200.27999877929688,
     198.7899932861328,
     202.94000244140625,
     207.5800018310547,
@@ -410,12 +410,19 @@
     216.3300018310547,
     214.27999877929688,
     218.69000244140625,
-    214.1999969482422
+    214.1999969482422,
+    214.74000549316406
   ],
-  "lastClose": 214.1999969482422,
-  "oneYearReturn": 3.834409772430343,
+  "lastClose": 214.74000549316406,
+  "oneYearReturn": 3.7541693127669107,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is TE Connectivity (TEL) Undervalued Following Its Q3 Beat And Higher Outlook? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcml5bGkwODlJbk9jLXZsTVU2S21rWjFndTVZeFl5R3JIQm55aS10VFJ1VlBYMXNGdnIxZUk5bGVQMDdLbk9tSkZSRjJqTFVCT0VockhSRms0TWdobThWQVEwVVUydmdMa3lxTDJQOTBtZ2kyZUVCYXRFRnotU3d0emNyaE5fVXhib21zempIM1ZoZFdLaUFkbGVoa3RVZGRaeFdEYU55VWthQVoyaXl3RVR5ckFVbjlJcjR3T0twd0JwQ0tfMWfSAcsBQVVfeXFMUDZycE5vOWNQTFlUam9UYm5wUkt4Nk16eFNpTU1mWDhoTUljR3ZpTmdWTUd2XzliQ0Zzdk5rVDdQX0pIRXdPSmc5TDRQV2k2Q2JpTmh5T21Jc1QzalktLVBGVUdjY0JjdlgxNnZOY20zZEpfTXRMZEE3bVdOYjVLWlpUNEdRN3I5T19wd29uUWpRY0F4ZU9GdE9ZWTFCQlVhYVRTTUI3N1o5YzBDeEsyMXRZejh6TjJSa3pIc2xsVXFHWmxEZnhPZTN0c00?oc=5"
+    },
     {
       "headline": "TE Connectivity PLC stock underperforms Wednesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -427,12 +434,6 @@
       "source": "Yahoo Finance",
       "when": "2026-08-08",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMzJ0VkV4RjZaUlo3dHZnc005OG10dGxKMlRQY3hLTGR2VmxtU1d1cGNuMzFZY3lESG5xb0NUdUZla2RKLWlGZzZOZTRubXJoeFdaN3NhRFBKNENGSkxFb0daM0VhVXctRW1wckVIREVqVXZURWtEQlhJYmVDd280VmZYbGppMXpPU0x3OHFyU0U3eW9pRms1eE13VlQ?oc=5"
-    },
-    {
-      "headline": "TE Connectivity Ltd. $TEL Shares Purchased by Wedge Capital Management L L P NC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQXE2X0tGQXlYLW9oQWlUM0QxX1pibS1VNmV0WVotZUtXU3R2OE5KWkxENVdBZlFvcHZCSGRtb3ZIVDkwZlQ4NWdjY0JKbnZVMjRoQ1dZeWFWeTRiYzRha0pJMkctamtUcFJwQVZoNjNzWTBaaFV1Ny1jZWR4X2h0Y05PUGxra3FkWE9RWHFTd2llZVdxNHBoU25XZFZCeXhwb2JuenBfTWxMdWRtclpaaTRpM0kyWWk0a3ozOTZnd3d0VEI1ckczT3hodVdBMUI1WkpneA?oc=5"
     }
   ],
   "insight": "Tracking TE Connectivity (TEL)."

@@ -1,15 +1,13 @@
 {
-  "builtAt": "2026-08-13T03:41:43.190Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:13.946Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    1756.0899658203125,
-    1732.030029296875,
-    1775.0999755859375,
     1736.699951171875,
     1680.5999755859375,
     1674.06005859375,
     1712.1800537109375,
+    1773.510009765625,
     1791.06005859375,
     1831.1500244140625,
     1733.5999755859375,
@@ -17,6 +15,7 @@
     1626.3199462890625,
     1519.9599609375,
     1697.8399658203125,
+    1729.68994140625,
     1770.9599609375,
     1775.8599853515625,
     1737,
@@ -24,12 +23,10 @@
     1694.550048828125,
     1674.8399658203125,
     1688.050048828125,
-    1738.8199462890625
+    1738.8199462890625,
+    1727.6400146484375
   ],
   "6m": [
-    1142.0999755859375,
-    1176.260009765625,
-    1209.969970703125,
     1119.81005859375,
     1147.969970703125,
     1230.260009765625,
@@ -144,6 +141,7 @@
     1680.5999755859375,
     1674.06005859375,
     1712.1800537109375,
+    1773.510009765625,
     1791.06005859375,
     1831.1500244140625,
     1733.5999755859375,
@@ -151,6 +149,7 @@
     1626.3199462890625,
     1519.9599609375,
     1697.8399658203125,
+    1729.68994140625,
     1770.9599609375,
     1775.8599853515625,
     1737,
@@ -158,10 +157,10 @@
     1694.550048828125,
     1674.8399658203125,
     1688.050048828125,
-    1738.8199462890625
+    1738.8199462890625,
+    1727.6400146484375
   ],
   "1y": [
-    702.0999755859375,
     689.8599853515625,
     680.8599853515625,
     695.760009765625,
@@ -395,6 +394,7 @@
     1680.5999755859375,
     1674.06005859375,
     1712.1800537109375,
+    1773.510009765625,
     1791.06005859375,
     1831.1500244140625,
     1733.5999755859375,
@@ -402,6 +402,7 @@
     1626.3199462890625,
     1519.9599609375,
     1697.8399658203125,
+    1729.68994140625,
     1770.9599609375,
     1775.8599853515625,
     1737,
@@ -409,29 +410,30 @@
     1694.550048828125,
     1674.8399658203125,
     1688.050048828125,
-    1738.8199462890625
+    1738.8199462890625,
+    1727.6400146484375
   ],
-  "lastClose": 1738.8199462890625,
-  "oneYearReturn": 147.65987847214072,
+  "lastClose": 1727.6400146484375,
+  "oneYearReturn": 150.4334287149598,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "How Upbeat Earnings Revisions Are Reframing Comfort Systems USA’s (FIX) Backlog-Driven, Modular Expansion Story - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "How To Bank 17% A Year On FIX Stock Without Selling A Share - Trefis",
+      "source": "Trefis",
       "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY21BYlRid0hxSjh6NDNBWFNmamJZUmFDLUUyMHQ2WklrMVJfMkV2cmNEZjMtN19wdlQzSTBHX0gzZnNqc212SFRwQ1l5eG85ZXJLVGRadXVEWDdjNEdpU00xTFN4V3hTaTNzN0NZUmFDYkFxa1dYX1Uxa0pTMk5nSHFoRmhJcWpKY2RhYmZLU3Bjd0cwM0FTSmw2VjJBYTlCbDUxdF9IbDcyd1hjSlI4M25BY1YzcWZrV0FoX1ZBWnpjM2FiWHVYT256bmhacktXbFdkcm1n0gHbAUFVX3lxTE5pTDBkcGNxZHhqM01fZHFRMm11TXlhc0x1eVVWMEhGejQ3SFp4RzFaeTlCMUU0aklxeGpYZVNvOTdNU09LUFFLbGVpWXh6UDh5djJ2Yk9GUlI1SW9qeHlmVUVwWE1vSGN3TnR1MGljSS1FbTFVY1UwYzl0c25OZWxmX3VmajJTVHFGRk1ZSDd1azZzOC1Kbl9MZVU4dlAxWUlnVVdmdDFYSnBJamRLcnhGR1phbGl4Mno2OUU2YWZManNVZDJVbm5PRExGVElra2c5bm1tQW00ODNYRQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQODRtS3dJVXJWZ1A0amtNR0Y4cjkwN2F4ZXA4QzIxOUE0cmtsN0l5TmRMeFNQNnU3bVF4TGRZbTZLSHoxOVE3T1hYQmszY1FVaTl2Q2RPb3hxZFRqV1lnR1FqVE1RV0tkRjh6TW1peVNrWlYwRVYxUC1qdXdtejgxN1I5RUVpWmxZSTBMMkpZSG5SV3RVaEVGQlJSazh2blU4N3R0ZEhXd3Vvd0Vid3hJSzBCM1VvZEhSWnc?oc=5"
     },
     {
-      "headline": "Comfort Systems USA (NYSE:FIX) Director Franklin Myers Sells 3,500 Shares of Stock - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM3JFclBhRUtnNk5JaEtkUXBYSlYwbHB0VDRtME5QN2JTREtZTGo0Z1FXOWc1UVdsV25kemVKOWQtakx5U2tFZ1FxYmhaV2NOZ0JSM2MzZ1JDLU4wb0Vua0N0dlFDSERSRl81alJTUjVXdndkWjduTjk3cWF2Wm8tTDFyTFB4cXY0Ujk2S3J2YjZZNXNzeFh2T2N1OTh2TTRCbjNQWGZ5aUlWdUM5WkJUN1BTZUpzcmd5d2JmM2JIX3l1cFhxenhIUGFHeko?oc=5"
+      "headline": "Comfort Systems USA (FIX) Could Be 21% Undervalued Following Record Backlog Narrative - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-08",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmFaT1M5SWVxa3dfRlBKY1FWV2NvaF9PVVpjU0F1QUcxQ1lwc3ZucFlWRDdLZEZQQWM5ME92dVpleWdkRmlpelNsT1BNS1dDSmNob01wOVNaQmw2RDhUNFpzVGVDd3NRR0VvNHQ4SlE0TlloVVJLZnNxejE3TkJFNkNoRTl3b1JvUFZ1aFh5VzcxeG1xbHc3TGxR?oc=5"
     },
     {
-      "headline": "Comfort Systems USA gains as investors continue to digest blockbuster quarterly results - quiverquant.com",
-      "source": "quiverquant.com",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOW9uUTQtYlNsMGFEX1ZhREZtOUxwdUlFSDJZTURFcEJYY0F5c1UwTk9fYzE5bjhKNGd6X3ZtWFpYdk01VGFKWUV1S094YTZzdkVzN2JHcVJ1UHF6ZzZHMlNUd2hfOUVvbFhKQnR0WV93OXlGY09IUmxQRE5kZ21ITGZBLVBidlhUMzlfS3hPNXZnak1XaXZJYWoyRzBTX3BfRENKSFM5eDZqUzR6Z2xfaF9LSndXZU1rbHkxZw?oc=5"
+      "headline": "Can Record Backlog Strengthen Comfort Systems' Revenue Visibility? - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1ZqcTdLSXpDNlhXU1hSX2pOLWJzTWxGWnpiSGJERnhqRFdoQzdBbXRpSUF3aGRTeHNURVNUNVg0RlYyal9XcVpMYURqWllzMHpIb1ZndFhOMEo1eVRnT2tkN0RYekZQdHhkTGsybXBWenROWWh1QUJta1FYa280QVZSVDNHSTA4QWV2LWZKSjBXMWc3a1hzVHhuOGloaldQQ25oeGxhMWdXU0VBa0JyRzZhcWxXV1A3eHFZWQ?oc=5"
     }
   ],
   "insight": "Tracking Comfort Systems USA (FIX)."

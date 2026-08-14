@@ -1,15 +1,15 @@
 {
-  "builtAt": "2026-08-13T03:41:34.296Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:05.364Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    85.68000030517578,
-    86.06999969482422,
     84.91000366210938,
     84.44999694824219,
     86.6500015258789,
     87.30000305175781,
     86.77999877929688,
+    86.94000244140625,
+    88.52999877929688,
     88.77999877929688,
     89.25,
     87.58000183105469,
@@ -23,12 +23,10 @@
     76.86000061035156,
     76.83000183105469,
     76.47000122070312,
-    76.22000122070312,
-    75.52999877929688
+    75.52999877929688,
+    75.79000091552734
   ],
   "6m": [
-    72.80000305175781,
-    73.19999694824219,
     75.04000091552734,
     75.12000274658203,
     72.47000122070312,
@@ -144,6 +142,8 @@
     86.6500015258789,
     87.30000305175781,
     86.77999877929688,
+    86.94000244140625,
+    88.52999877929688,
     88.77999877929688,
     89.25,
     87.58000183105469,
@@ -157,11 +157,10 @@
     76.86000061035156,
     76.83000183105469,
     76.47000122070312,
-    76.22000122070312,
-    75.52999877929688
+    75.52999877929688,
+    75.79000091552734
   ],
   "1y": [
-    72.33000183105469,
     71.87000274658203,
     71.76000213623047,
     72.29000091552734,
@@ -395,6 +394,8 @@
     86.6500015258789,
     87.30000305175781,
     86.77999877929688,
+    86.94000244140625,
+    88.52999877929688,
     88.77999877929688,
     89.25,
     87.58000183105469,
@@ -408,19 +409,13 @@
     76.86000061035156,
     76.83000183105469,
     76.47000122070312,
-    76.22000122070312,
-    75.52999877929688
+    75.52999877929688,
+    75.79000091552734
   ],
-  "lastClose": 75.52999877929688,
-  "oneYearReturn": 4.424162681091317,
+  "lastClose": 75.79000091552734,
+  "oneYearReturn": 5.454289716347254,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Capital World Investors (NYSE: CTVA) reports 6.6% ownership stake in Corteva - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ3FQNVdYTUYtRkZpWFQ0aTZna3I1dURyM1gxeXFVODNBZ2Y5S0Y5MWkxcGhxVWppdUphemN0VUxEN1lFb3RhX0w4MF90Y1l2aWE3OFZQdV80VVVKV0ZTaldlbWQyQ2dzTjBFQ2RIa1ZIZFlHRU9NUmxoWGY3Ml9kWW4yOUphdkxORFFONzlHdzZCb25BSHR2a1pPOE5zSGsxVkRIQXFtay1SamFEaUJ6RW5BSWlMTnd3YUZKQnl0RUp6R0Zj?oc=5"
-    },
     {
       "headline": "Are Wall Street Analysts Bullish on Corteva Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -428,10 +423,16 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOE1zcGEyS21ZZVNqZkRHcGFKSmtUS1EwNzloTG9nNW01VjRlaHNGMVJsTHNVaXJmdEF6emF2Q1ZSWGs2ZHladV80WHN3Q1ludTZ3dkpFX3hINTB2MlBNSzVPTlVmb3ozR24yUThCeXc1dnl1Wm5oTnVudHFoV1FQYWF1bVUxYjY2YzBNUFI0YTJWakdwUXN6VXlLUFVIMHlpTDBn?oc=5"
     },
     {
-      "headline": "Corteva Growth Improves, But Valuation Limits Upside - TradingView",
-      "source": "TradingView",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYy1CTXh4TlFZaTJYQVJVNXBHSzRGd1JmTzRGeDZpOUdxeVNMNlhKQ3pUTjVRcnpNYkxwRzF4dDA5eTZubzVKYnJXYnhjMURvS0VxZFZmUk1McVM4RGl3TVJ0VDg4NEJLOFRLOEZDcmF4ZV83dHhGUzdxV0JEUXBHYkNmaHpIUUJPWmdtQjJOaGhzNmZucGNaYlM4MHpPWmhKNDNSYnhjN2lxTnM?oc=5"
+      "headline": "Corteva (NYSE:CTVA) Stock Rating Lowered by Zacks Research - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUNJcF9GYkI3ZXE2WlQ1VlhEMkxQNUptd0c1SXE4WVRPa0VyRXEyLS1HVUp2QnZBYURvYUxMUmxSdk0xeEQ4OTR5VENFX0ZhQmpnY3NQWVZUQmdlTFNWNkV0d0dFdHFuLUVPQXpyZ1ZuR1BYWjZ4dThJVFFlWUJDc3ZsTlRpanVZZUVKQ2VMMGY4ZHBYYXc2aWpUZVpLQjRTdGI5TENqS1gySjl4ZUE?oc=5"
+    },
+    {
+      "headline": "Why is Corteva stock tumbling today? - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR1ZKQ2xfWWg5MlBfWGN6cXpNbFF5ZlUtV2xKSlNVRDNYRXpncGNkTWYwX2RuZGhYeUVJRklzOFlzMUFDZ1B2b2g2d1l6Mk5jSjlOWjJZR2NZOTA2cU1xX0xweGx6X29ZTi1ORWdaeWZrOHVMNkF5WEFSMW1HRHY0VEk0blEwTGVQS19ZYW9BaHJ3eTFJWVVuMUR4VE9kQQ?oc=5"
     }
   ],
   "insight": "Tracking Corteva (CTVA)."

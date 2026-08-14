@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:22.824Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:38:54.593Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    169.5,
-    168.8300018310547,
     168.6300048828125,
     168.9199981689453,
     170.05999755859375,
     167.05999755859375,
     163.38999938964844,
+    166.05999755859375,
     164.64999389648438,
     166.6699981689453,
     166.74000549316406,
@@ -24,11 +23,10 @@
     172.5399932861328,
     169.11000061035156,
     169.5500030517578,
-    170.42999267578125
+    170.42999267578125,
+    174.19000244140625
   ],
   "6m": [
-    173.6999969482422,
-    173.1300048828125,
     176.5500030517578,
     171.49000549316406,
     171.27000427246094,
@@ -144,6 +142,7 @@
     170.05999755859375,
     167.05999755859375,
     163.38999938964844,
+    166.05999755859375,
     164.64999389648438,
     166.6699981689453,
     166.74000549316406,
@@ -158,10 +157,10 @@
     172.5399932861328,
     169.11000061035156,
     169.5500030517578,
-    170.42999267578125
+    170.42999267578125,
+    174.19000244140625
   ],
   "1y": [
-    204.14999389648438,
     203.4600067138672,
     206.1199951171875,
     203.1300048828125,
@@ -396,6 +395,7 @@
     170.05999755859375,
     167.05999755859375,
     163.38999938964844,
+    166.05999755859375,
     164.64999389648438,
     166.6699981689453,
     166.74000549316406,
@@ -410,29 +410,30 @@
     172.5399932861328,
     169.11000061035156,
     169.5500030517578,
-    170.42999267578125
+    170.42999267578125,
+    174.19000244140625
   ],
-  "lastClose": 170.42999267578125,
-  "oneYearReturn": -16.51726780741472,
+  "lastClose": 174.19000244140625,
+  "oneYearReturn": -14.386121747073544,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Truist Financial Reiterates \"Buy\" Rating for American Tower (NYSE:AMT) - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWFNlcG9HN3pnXzNHeHV6bDZoM1lVVVVOS2djbDl2QThQcUZIdnByYUhINGNVSkI0WVZrVTBGYzBXWHh1RFBiRmg2MzZObVcxZld3WWF1NHU1bEFYX0U0WjBwd01QN3czRTcwNWJiVW13SXNDR2wtMTJGaEpmOVg4LWk1SHp0LWdlQllGTkxpV1g2Mm1KaWo3RXh2cnRISkd5T2ZJYkRxLVBkMW45TGZRYjZyaEhsbWs4U0k0?oc=5"
+      "headline": "Do Options Traders Know Something About American Tower Stock We Don't? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ1VXWHNVb2dxWHZncUtPWGNmSkJ5dTJZb1lzcEtwM3FlUlZ0bzlranVNNXVzc1dkazJ6TmFkVVZ1d29IS3RpS08wSS1kXy0zTlpoVG1oUWd1Wnk4UzR6ZXBtb3ZnRzZEZDYtUzRnVFBUeUktdm5hbmFweE52czNDUTF3dEpDY1JuUmR1RmluVkItbnl3NmMzdVVqZ0g3cWZnb2pFWXRjLUk?oc=5"
     },
     {
-      "headline": "American Tower Stock Outlook: Is Wall Street Bullish or Bearish? - Barchart.com",
-      "source": "Barchart.com",
+      "headline": "American Tower REIT stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV09YNWpUTjRiaDJvcVV0a2RWNmxwZ0FObkVQSk1IRVFxWHdsckZ2d1lnN3J5blVEdjBadWgyRlJlVnY5ejk4Zzl6Mi16X2g5akpSUFFaWmtQcTlWcmRLaGpYNDlVdXRTWjV5OFFEV05rNndNU3BsbzFRWC0zanV2SVNNZG9QOU1KcDVGeXRiZEpGQ0pRbGdQdTZqLTRZVUltMFhndFZvbWRac2VUemJOdUcwQ2t6ZlNmRGF4Z1dqUEJlZmphb1h1QVFaY2xNaUdjVEpZLWVzZDRycTVRRlpTTFpKZ2haV2Fpc2pheG9R?oc=5"
+    },
+    {
+      "headline": "American Tower Stock Outlook: Is Wall Street Bullish or Bearish? - barchart.com",
+      "source": "barchart.com",
       "when": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMl9BUnlyWGE3ZllqaG5RTG5NZzJzOE85WkUzTFVseFdsUDlON2NaLVNsUUVoR083VlREY0oxMnFFWWJMaHgzUDd1UDZROUM5T1lRVXN4MmJWOUw5SWl1UjBWbWRPdXg5MUFzTm9IY0VQa2M0X0pNMjlHZERkbXhueUxxYXZLUVBHR2hEZlQ1MkNWeDdJeG1iUnU5TEtMeDdyX2pqd1hfWG9Gdw?oc=5"
-    },
-    {
-      "headline": "American Tower SVP Sells 5,000 Shares for $894,450 - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWi1HeXdMT0ZLN053WmstUVNPc0preXlkODdETFZ3cWQ3NnBITTFMWHlSd3paUDBPOEtka2o5Q0RyRWFqVF94MjR4UFR6aG1EUjRFWDZ2c3VMaWlyNE40WUJzN2JpdzZkMlBsTzBrZjJmSnp5eG5obHFhRWZzRUtBREFPU0c5bVJ2TXZtSDlsNUpDZkNIcndnaGptdHU2QQ?oc=5"
     }
   ],
   "insight": "Tracking American Tower (AMT)."

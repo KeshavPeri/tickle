@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:37.564Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:08.425Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    125.4800033569336,
-    126.86000061035156,
-    126.37000274658203,
     124.33999633789062,
     126.11000061035156,
     125.01000213623047,
     125.8499984741211,
+    125.91000366210938,
+    127.94999694824219,
     129.25999450683594,
     130.52000427246094,
     128.8300018310547,
@@ -24,12 +23,10 @@
     124.8499984741211,
     121.19000244140625,
     123.19000244140625,
-    123.48999786376953
+    123.48999786376953,
+    124.48999786376953
   ],
   "6m": [
-    121.3499984741211,
-    119.48999786376953,
-    121.66999816894531,
     122.20999908447266,
     123.41000366210938,
     121.86000061035156,
@@ -144,6 +141,8 @@
     126.11000061035156,
     125.01000213623047,
     125.8499984741211,
+    125.91000366210938,
+    127.94999694824219,
     129.25999450683594,
     130.52000427246094,
     128.8300018310547,
@@ -158,10 +157,10 @@
     124.8499984741211,
     121.19000244140625,
     123.19000244140625,
-    123.48999786376953
+    123.48999786376953,
+    124.48999786376953
   ],
   "1y": [
-    125.70999908447266,
     124.26000213623047,
     122.44999694824219,
     121.45999908447266,
@@ -395,6 +394,8 @@
     126.11000061035156,
     125.01000213623047,
     125.8499984741211,
+    125.91000366210938,
+    127.94999694824219,
     129.25999450683594,
     130.52000427246094,
     128.8300018310547,
@@ -409,29 +410,30 @@
     124.8499984741211,
     121.19000244140625,
     123.19000244140625,
-    123.48999786376953
+    123.48999786376953,
+    124.48999786376953
   ],
-  "lastClose": 123.48999786376953,
-  "oneYearReturn": -1.7659702783160176,
+  "lastClose": 124.48999786376953,
+  "oneYearReturn": 0.18509232543462403,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Duke Energy announces equity units offering - Duke Energy | News Center",
-      "source": "Duke Energy | News Center",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRk9CYzhoQ0lDekc5dnkzY2FWRmxlWXlkNmw3eDJGdWF2b2p0blRXdkY5blk0UzFYbDdoNl9sZWlhT0Q0YXlyNjVQZm96dTBhYXlYR0UxSE5ERl9DMHl5MXY0WlJsOXF2TS1ZME5zSzhqdzZVbVllUlRLa1B0WjN6S1hfTHZDUHJS?oc=5"
-    },
-    {
-      "headline": "Nuclear Energy Stocks For AI Power Demand Starting With Duke Energy - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNGEzS2czSW1wQURSa1pxZ1FYUVhFQjJjQmpVQnZMQTVEYWdRTGlWVC1jQUZteVA2dEFOQ25zWi11MHBtZ3hKUW93WUdLY3JOYU1rWWhJNUVQRXBXazRLbVhjeWMtSkJiMzF2RV9SQmdsRzJZSnJMdTZlUnA3VmJJUGNORFUtRW90SkNpWHpKY3VORW1OalRUVVNva2JETzAzOC1ld3I3eWNaWG53LTc4ZFJSZnNWUE5ORXQxUXByRXRtVVRuT0RNRm9ZVU1lcTFlWWVGZGs3UWhzd9IB3wFBVV95cUxPZGxtZGVoa2J6MW1KdjNINmxBWlE5aF9jRW1xT1BGU29mSGdXdnAwaUZacEszb3gxZ3RuNkFvcE1ROF9TbnVUc1RUazBoUGxSZndpZV9jMTBsN3JsNTRHTnVzYXl4QTBEbEtiNFE5cUQ4dHBmRVFZS19XQnloWlJSdTNoQVY4SHhodEJoSlRLVEpiZUxCVk1PQWdUdHVYR1k3ZTRwNjFHWERoZWR6NU1YbUZETE1HQml1VS1wUzlhLW5BVHgwODIxUlNGdEFrY3pWZlR3ZTF4bndiRmNlNlVj?oc=5"
-    },
     {
       "headline": "Why is Duke Energy stock slipping today? - Investing.com",
       "source": "Investing.com",
       "when": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmFnLW5nSHMtQVFiQ1lkZ0N5cXpPbWtSN2M0OXBZUFoyaWItWnFHbmZ4R1pCWEduakd0X0RGM0tBa01SYzFoUFhNVjJadUZjNmdxTkozUW1vRkNsQkhySlVIT2JtMm1ac2labkNaM3E3RExrMEc2Qmc2YU5LOXQ2THV3UFlvcnZkWVIybzB3WmRreFQtRVY2T2hiclUwZHJmd2dZ?oc=5"
+    },
+    {
+      "headline": "Duke Energy Seeks $1.75 Billion in Equity Units Offering - bloomberg.com",
+      "source": "bloomberg.com",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFNDOXVPY2tTZjIwZW1JdFVUSDNScmhuRUw1MzhybFlvS3dHQVE0dnd4VGhLZjZsMEdwWkJDU1lUd2oyeTlScEpmSzNUUkhUdHUybkJWNHNxSXg0bVdHdlVrc25Ob3BfQmVRVG5nSGxYeGgxWm9qOWs2S0R3cWpEMEFRRnhvLVJCbDNWMjY2eks5bkdaZV94Z2xRMGxNeFVGX0c1UXZQUWVLVUNZWVVTMmw2UQ?oc=5"
+    },
+    {
+      "headline": "Duke Energy (DUK) Stock Could Be 29% Pricey After Data Center Savings News - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-02",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTBqTVdxQ0tiRHhuOXJ2aHlQc2xOTklLYUUxQjJXUEpscjV4alZPZl9mNV9RMUtGVy1CYmpVbEZmWjktaVJZT3NQQU1laXZPb3RpVDg3TElRaXBSTlRmek5rTUdiSWREYjVJWFVmek9xaHNhSzUxb1lQWUlqcENlam1jZjZzMmdWLUFlUnRNeEFWcnprcmVZ?oc=5"
     }
   ],
   "insight": "Tracking Duke Energy (DUK)."

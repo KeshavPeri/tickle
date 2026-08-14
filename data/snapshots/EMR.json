@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:39.604Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:10.458Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    138.8800048828125,
-    135.3800048828125,
-    136.08999633789062,
     136.25,
     139.0800018310547,
     139.5399932861328,
     136.5800018310547,
+    139.25999450683594,
+    139.6300048828125,
     144.89999389648438,
     147.94000244140625,
     149.3000030517578,
@@ -24,12 +23,10 @@
     158.25999450683594,
     158.7100067138672,
     164.3800048828125,
-    163.8000030517578
+    163.8000030517578,
+    164.2100067138672
   ],
   "6m": [
-    146.9600067138672,
-    148.6300048828125,
-    152.10000610351562,
     157.32000732421875,
     150.94000244140625,
     157.3800048828125,
@@ -144,6 +141,8 @@
     139.0800018310547,
     139.5399932861328,
     136.5800018310547,
+    139.25999450683594,
+    139.6300048828125,
     144.89999389648438,
     147.94000244140625,
     149.3000030517578,
@@ -158,10 +157,10 @@
     158.25999450683594,
     158.7100067138672,
     164.3800048828125,
-    163.8000030517578
+    163.8000030517578,
+    164.2100067138672
   ],
   "1y": [
-    135,
     134.3699951171875,
     131.75,
     131.8300018310547,
@@ -395,6 +394,8 @@
     139.0800018310547,
     139.5399932861328,
     136.5800018310547,
+    139.25999450683594,
+    139.6300048828125,
     144.89999389648438,
     147.94000244140625,
     149.3000030517578,
@@ -409,29 +410,30 @@
     158.25999450683594,
     158.7100067138672,
     164.3800048828125,
-    163.8000030517578
+    163.8000030517578,
+    164.2100067138672
   ],
-  "lastClose": 163.8000030517578,
-  "oneYearReturn": 21.333335593894674,
+  "lastClose": 164.2100067138672,
+  "oneYearReturn": 22.207347384849907,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Emerson Electric (EMR) Could Be 2% Undervalued After Higher Guidance And Q3 Results - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcFZSQUNJZW1wMFJRRF9HM19jTlE5OW9neU5zWXhhYWVzWC1OdDhENjI0QUpmVXdELVcwMkdnV0M1eUhpZ0Z4eDMzZFllbkhOcEZKdk1ONmlETmJ0MzNWeVh6MmJBTEtia1FsQXZIWF9MV3Rybnh0U3FKSHpwbENYc19xTnZTeTk4MjhidmxQV0tsaDlkWnZoaHR2RE9iQ00xT3JzX2hjWGZqazl0NnB5dW5vNHphU1UtQVNCWkx5Smt6OTVWQ3k1SXhtUkdISm0wVk1qckw2WmXSAdgBQVVfeXFMUHBWUkFDSWVtcDBSUURfRzNfY05ROTlvZ3lOc1l4YWFlc1gtTnQ4RDYyNEFKZlV3RC1XMDJHZ1dDNXlIaWdGeHgzM2RZZW5ITnBGSnZNTjZpRE5idDMzVnlYejJiQUxLYmtRbEF2SFhfTFd0cm54dFNxSkh6cGxDWHNfcU52U3k5ODI4YnZsUFdLbGg5ZFp2aGh0dkRPYkNNMU9yc19oY1hmams5dDZweXVubzR6YVNVLUFTQlpMeUprejk1VkN5NUl4bVJHSEptMFZNanJMNlpl?oc=5"
+      "headline": "Emerson (EMR) Stock Trades Near Fair Value Despite Raised Guidance - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1ZUNFJ4OF8xNFJZRDFhYnRqLTV6cnZXQTU3aHdJMmdpSUZ5SmlMZ2lPdXhCNkNBeWVrOHJYLTVGVHMxUGpLa1VpTWF6YXdoTF92c0RLcmJtWUg5S1FtMFRsYmMxeFU5b3RmbHJkMTgwcTJ5VDBuR1BjUnZETWU1Z01pcWxiLS1CVVIyUS05Y2E4WkpnUEdtaDN3?oc=5"
     },
     {
-      "headline": "Emerson Electric (NYSE:EMR) CEO Sells $1,562,431.50 in Stock - MarketBeat",
+      "headline": "Mission Wealth Management LP Increases Position in Emerson Electric Co. $EMR - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3pNWXBoZDVQd2gzZThoU3hhNzdLTjZPX21IOGNhbTZVS0J3SW94TTdudTVtUEtzRGdIZk1hTTdKV2c3OXZoaDQ2ZFdKakZIUDhMMEtPVTdoRC1ZckFCZk5uSWVzbWRKS3I1X3FZOGVXekp2Z0lzcVE2endNdVAzLWc5cWhJMHdnMFBCSXQ3azFhN2h1MTUzMEUwTzZZdkFST2d5R3ZJZVNaMkE?oc=5"
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmlSUVAzT21ybGxnT1ZXdHZWdDQzR05OZzhLRi1DMDVGLWE3LURwNVNScjRlblNDdnNwREl6WHFTUE9LT3M0MU5nVklNYmNZMHZiMnJDSUd1OVdXRWVwZG9wY1FaNWJReUdQVUlLTDd0bUdycmVlX1MtRzNlMDdGenAtb0tmT0R1czR4TGtTZzBUbk9xU19sOGVWU2FBMFgyaHpBV1ctdzg2TnB5OUluS3dVcTcwTC1zSEFYVTljLS1ZbzdOLW52U2FyVEY1eWNo?oc=5"
     },
     {
-      "headline": "Emerson Electric (EMR) CEO reports sale of 9,650 shares and details remaining holdings - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGlIcTNaUHUyeVhGaHhGcnZvMFFtTzhCSTdsTWZMYjVuNDlqWkpTRlV0LW9BV0JiSUtpcS1xNFVrT25pUXctRlFld005eWJSX0Q0VVMxVWVaMGFOd1hLY3oydll0eXBmTC1tTWZPdFRyMlBVbjdldV9iMjVFTkpZY1p1UEZ4aUhodkRodGJQQmJaLVpQZFlWekV2ZGVmRW1oci1SN2RiWHhyLW9nZjN4TkpR?oc=5"
+      "headline": "Emerson Electric CEO Karsanbhai sells $1.56m in shares - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRmRIdFc0WFR6YkJyNWxjWkVjUTgyNmQ3dzZfSk9hWTluYUhKSGJZVkdaNzVBRHRtSHlGUElXbjYtcVAxS1VCQUlPQ3RaVzl1a2RzOXRCQW9qeWs1QmJRM2k5YXo5WUNOemItZ2t2YzI2NlhCTE1ZOVhVSnB2SmpaaGdhMU0xX3VwRU5GOWVyb3BmcEMyZlV1cnNoeVRETjhTaG5QVFNPSVF1ZVpRZ0NUNkV0T2lLT09kOWh2Y1JrVW4wYU0?oc=5"
     }
   ],
   "insight": "Tracking Emerson Electric (EMR)."

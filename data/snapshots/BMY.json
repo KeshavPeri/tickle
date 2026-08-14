@@ -1,14 +1,13 @@
 {
-  "builtAt": "2026-08-13T03:41:27.547Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:38:58.508Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    59.34000015258789,
-    56.95000076293945,
     58.720001220703125,
     60.5099983215332,
     60.7400016784668,
     60.15999984741211,
+    60.93000030517578,
     60.7599983215332,
     61.5099983215332,
     62.09000015258789,
@@ -24,11 +23,10 @@
     64.72000122070312,
     64.83999633789062,
     63.61000061035156,
-    63.70000076293945
+    63.70000076293945,
+    64.6500015258789
   ],
   "6m": [
-    55.88999938964844,
-    55.9900016784668,
     57.619998931884766,
     59.52000045776367,
     61.9900016784668,
@@ -143,6 +141,7 @@
     60.5099983215332,
     60.7400016784668,
     60.15999984741211,
+    60.93000030517578,
     60.7599983215332,
     61.5099983215332,
     62.09000015258789,
@@ -158,10 +157,10 @@
     64.72000122070312,
     64.83999633789062,
     63.61000061035156,
-    63.70000076293945
+    63.70000076293945,
+    64.6500015258789
   ],
   "1y": [
-    47.849998474121094,
     47.810001373291016,
     48.439998626708984,
     48.189998626708984,
@@ -395,6 +394,7 @@
     60.5099983215332,
     60.7400016784668,
     60.15999984741211,
+    60.93000030517578,
     60.7599983215332,
     61.5099983215332,
     62.09000015258789,
@@ -410,29 +410,30 @@
     64.72000122070312,
     64.83999633789062,
     63.61000061035156,
-    63.70000076293945
+    63.70000076293945,
+    64.6500015258789
   ],
-  "lastClose": 63.70000076293945,
-  "oneYearReturn": 33.12435275706556,
+  "lastClose": 64.6500015258789,
+  "oneYearReturn": 35.22275605286958,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Bristol Myers Squibb Stock Falls on Report of $400 Billion Merger Talks With AstraZeneca - Barron's",
-      "source": "Barron's",
+      "headline": "Is the Reported $400 Billion AstraZeneca-Bristol Myers Squibb Megamerger a Slam Dunk -- or a Disaster Waiting to Happen? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0RmeDlaYkdJUnhfX05id2F4eHE5TUNvY1NoanZ5bGF0aXBrSXhVT0pDUk5iVndIcEdTdzNvWm85R1JqTHh3Sk1keVYxSzZ1Y3lES0k3eVFyQzNkWDlpRWFjLU9Jcy1HWk9SM25JaG92cFpTYUxMQ3kwRUIyelB0SFpvT3JqVjVvNUp3QUN2RGhUYlJleGs5NQ?oc=5"
+    },
+    {
+      "headline": "Bristol Myers Squibb Co. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN0tOMjBXWThKQkZCR2tZWGhuNjFxVnhUZVNJTi1KbWNyOXFqU0dJam5ZOV9EaVN3YUFPcEdkdllHTFRHbWF4SER1SWZOSHVGVHZyZ3BVNWpiRXc0RDlXT3FkRF9mTnhUQUg5VW84eHh2WXBGbHg3c3ZfUnoyVzMxRE9majc1bTBiWHcxRWJONlZaZUtYUFdqN09FRTlBZ2FPR2xiYTdBajNyT1BKTV9HZkNZdW45N2JlZUlwTGtVbXJQY1RTRTA4NUZwZXFidXN4d1RsTmJHV1Z3czdNcW5qajVsN3RXTEt5?oc=5"
+    },
+    {
+      "headline": "Bristol Myers Squibb Stock Falls on Report of $400 Billion Merger Talks With AstraZeneca - barrons.com",
+      "source": "barrons.com",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVNxR2RaMDVGV0pubWNuTTk5QmJzS2RFMTJFWG1OVnFaWGNyWVVpMDl0NlhMV0JwNldzeE90cG9mRk1BWm02ZXd4WWkyNjc3LThpOUVudlQzQnItNThySXhBQ09jQkhtZWhhY19GLU4xOTNNbVNzWkM3OHdrMUE1RFZ3S2JTeGhkLTI3TTZyMzE?oc=5"
-    },
-    {
-      "headline": "AstraZeneca PLC (AZN) vs. Bristol-Myers Squibb Company (BMY): Wall Street Doesn’t Buy This Merger Talk - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFZvMnQwT3BFYzdCc2tlTTM1R3d4RzFRb3NyNUxHbjBBdmU0WnpRbUx6YUxtS0dVT2tyT2lLLUUyV3o5Z29Zc0RfUl9lcFl6b3paT0xQOXJFbkRnWDVOTHkzbjRNZmJreEZpaGNremhRc3lmZUQ3ZW42UWFFNUVrWThQcldEa2ZlV2xHclBYR191bF9pOUNleEdpVQ?oc=5"
-    },
-    {
-      "headline": "Bristol Myers Squibb Co. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNjU2WWJyUVIzdFBVanZlTV9hazdJWjc1SFE4djQ5cy1za1dKME1iVEZ4Tm1oZUt6dDVGN3JuODRtN2lxZ2Z6QzFMZGZ5cnIwU0w4V1I4OHZrcmlqOVlwNmNiX09ZS0kxUGNSQWVCaVFoN09zSVZRblpOTmlXU1pBdkJUNk1DTWFwWHBDN0dnZEZWR1ROSEhaNjJCM3liYXVYaUFwSGo5aEZQUEx6NTRGdWR6cEw0R2N2MTNZWU8wa3d3SXZuc0lnbVhTc1F3eXZxczZIVWI1TnZKQ1BNVTVBbUh4Q1VCVnBUWm1XNXZhSQ?oc=5"
     }
   ],
   "insight": "Tracking Bristol Myers Squibb (BMY)."

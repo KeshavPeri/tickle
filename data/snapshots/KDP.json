@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:51.889Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:21.863Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    31.25,
-    30.260000228881836,
     30.280000686645508,
     31.3799991607666,
     30.90999984741211,
     30.440000534057617,
     30.209999084472656,
+    30.200000762939453,
     29.670000076293945,
     29.68000030517578,
     30.1200008392334,
@@ -24,11 +23,10 @@
     30.010000228881836,
     29.299999237060547,
     29.18000030517578,
-    29.559999465942383
+    29.559999465942383,
+    31.1200008392334
   ],
   "6m": [
-    27.469999313354492,
-    27.969999313354492,
     28.450000762939453,
     28.010000228881836,
     28.40999984741211,
@@ -144,6 +142,7 @@
     30.90999984741211,
     30.440000534057617,
     30.209999084472656,
+    30.200000762939453,
     29.670000076293945,
     29.68000030517578,
     30.1200008392334,
@@ -158,10 +157,10 @@
     30.010000228881836,
     29.299999237060547,
     29.18000030517578,
-    29.559999465942383
+    29.559999465942383,
+    31.1200008392334
   ],
   "1y": [
-    34.81999969482422,
     34.630001068115234,
     34.779998779296875,
     34.650001525878906,
@@ -396,6 +395,7 @@
     30.90999984741211,
     30.440000534057617,
     30.209999084472656,
+    30.200000762939453,
     29.670000076293945,
     29.68000030517578,
     30.1200008392334,
@@ -410,29 +410,30 @@
     30.010000228881836,
     29.299999237060547,
     29.18000030517578,
-    29.559999465942383
+    29.559999465942383,
+    31.1200008392334
   ],
-  "lastClose": 29.559999465942383,
-  "oneYearReturn": -15.106261559398298,
+  "lastClose": 31.1200008392334,
+  "oneYearReturn": -10.135720821890436,
   "marketCap": null,
   "topNews": [
     {
       "headline": "Keurig Dr Pepper Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdG54UEY1dUExRDZhUGg0b0pEZllnMFUtVmZtc2dXXzVmS0ZiUGdiX2VxTm1UNjFBRm5Pc2RGbi02cmdKazkwaVJHVjAwS19IZWdEZ3JEdXd5X1BCTXV3eU1KUzdtYXl1U3hhOElUSDRuc3RuSkFwRGhxRFVTczVQdGtjR3lzczZqZUlRZkNrVlQ2WTFiYmdQbUoxQ0FfU2ZJRTM3Y2Z3OGxhS2JnMzZUYVZXaWhHYWMyZ3hJcjNXYno1QlFIOGpselN2bV9lNUZRWG9MNjQ5UmtoalBwdmNiTXBLbEU?oc=5"
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUFR6ZG5LcGdWb1E4WldjbHo5Z3MwRTFJak5XV2ljc1ZOZXl0bTJEUkxfeW10VE90Mm0xdEVhUmo4TW1zRHdDam52U0pDdTNpTHBRYmZKTkh4OTVlUmV5MExPbFZnY19UaXE1Z2VZZnJNZEtXVGo0N0lzVGF2clV4anN5eTFZTUFIVWpLdFlySGVUUDJWSjk0TkZWbUNfM3lRazBnSVNtZXVXUmlPaE9qNHNZTkI3dXlTOUNTMC1aRlRtMmZSWXNzMTdvSkY?oc=5"
     },
     {
-      "headline": "Capital World Investors (NASDAQ: KDP) discloses 8.8% Keurig Dr Pepper stake - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbC1lMG5GYUhxelFMVzZUV2o3dFVPTk1wY1VhLTRmanI3T3BGOXVya3N2TkVDR0xSWjRnblJhTGxDMUdPa0QyR3VOLTlibDRsWE05MlYwZWV5TktkRzUxSGM1akY3Rkp2V1RQV3JGaWtpTE90b1NyS1R5TXVJYlF4OGxGSlpyNTNhckc1S0pqMmptSVk2MTR2RllxSkMzNDdvLUNrVEZEWVpjMjVka0ZZRnlYQWxnQmE4NmxrbldBeTNQbUVBbHZDZ05B?oc=5"
+      "headline": "Keurig Dr Pepper Shares Rise After HSBC Upgrade - marketscreener.com",
+      "source": "marketscreener.com",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnkwUVVqempFZnFuV09sSnNXeV83VVFBZEYtNndxQ0RJeFpzNmJFOUJyeHpTZ1hvRDZLd3BiZzZHbFZjRUtRLVNZVlhYamI0SnBwVWlySHk3eVBycEhJUldnbzJSbnZfRVpmQXV0OVA0dzRzS25QbHBGR0FXODk0UlFERjFUMXJJRXBKbkM2TnJZTGVJVkZHWkc1SnpXWi04QVE?oc=5"
     },
     {
-      "headline": "Keurig Dr Pepper (KDP) Stock Looks Overvalued As Earnings Beat Lands - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOREo4VzNqWXNzS3E3a25yT3I4cDhsUzFxTlJaMW4yV1k0UXpLQWdIaDc4WDRqNTF6NmVjaVVURm0yUnNFZzh1OHYxM0szZ1FDVWxPVDhIQ3JMLW8zUVR2TW1pOFIwQ1U2d0d3Z3ZWS1pDM1dsaGVDTTJVNGhodUZxSEMzem1xaWcxanBDUlpoaHplTkJlRVV4Y2hpeEstb1NWeFlUc3ZYT21UclgwRmFxVndoMHVzVURmSXFMVDB5RWR5SXJpMTFiWVZNS25rS1RDQ3QyNC1GaThjQlc3eVI2UtIB5gFBVV95cUxPZGhPWUNNUXJWT2hyYWhxaWxpVEZPdERSZDRTVUE5dGNJOTAtRFlub290SmNKcW1TYUg0OWgycTZDVXJ5U1RXNm5NZGVGelk4SFI5MGhFOHRNYU5XSldxbDFnbTlQVGlYNDZyZThzOThteTNiOWJQUE5oYkdocFdWNkxraWhxcG9TNzJqRk5DVXhmLW9Qa3p5eGlNeUZGa1NCNHVjN18zc3lLc2o0Q2tYNmE1WW93dGNvTWZnTXFIakgyeWQyeU5QeDBrQ1lONE1hNDB5aVhMTHVmRl9EcW5WYm9qNS03dw?oc=5"
+      "headline": "Keurig Dr Pepper Inc. Stock 12‑Month Price Target Raised to $36.27, Implies 23% Upside - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaTlxUTVhd2dVRkNDTFhuOU5aWFl3MkVhM0Z3bXJjUldSSllkc3p3RmpGcUpxQktMcXpVLWVBYk0zWFFSNEVrWWIyN3hwR2FleEFSclpEQzFOcjFTMER6MDlZUFJjOGJvU20yQW91MjkxcThhYUNEMndGSEpBcDRLX3FVTFhkaFBkVnJvckR4X1dXMTUxLXpFTzJlS09kMFdlV2RtRktDV29NbktIVTM1d3A3enpfb0pFVEEzcFlGX0FTV05CQTc4RnFKa3FjU1ZrbzlBaTROWnN4NTdm?oc=5"
     }
   ],
   "insight": "Tracking Keurig Dr Pepper (KDP)."

@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:57.017Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:26.670Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    88.08000183105469,
-    89.20999908447266,
-    88.01000213623047,
     91.36000061035156,
     94.25,
     91.63999938964844,
     91.87000274658203,
+    90.23999786376953,
+    90.9000015258789,
     90.41999816894531,
     92.08999633789062,
     93.94000244140625,
@@ -24,12 +23,10 @@
     94.58999633789062,
     95.62000274658203,
     95.0199966430664,
-    95.66000366210938
+    95.66000366210938,
+    97.58999633789062
   ],
   "6m": [
-    96.88999938964844,
-    96.80999755859375,
-    87.70999908447266,
     88.48999786376953,
     85.51000213623047,
     84.83000183105469,
@@ -144,6 +141,8 @@
     94.25,
     91.63999938964844,
     91.87000274658203,
+    90.23999786376953,
+    90.9000015258789,
     90.41999816894531,
     92.08999633789062,
     93.94000244140625,
@@ -158,10 +157,10 @@
     94.58999633789062,
     95.62000274658203,
     95.0199966430664,
-    95.66000366210938
+    95.66000366210938,
+    97.58999633789062
   ],
   "1y": [
-    95.56999969482422,
     95.4000015258789,
     94.68000030517578,
     94.33999633789062,
@@ -395,6 +394,8 @@
     94.25,
     91.63999938964844,
     91.87000274658203,
+    90.23999786376953,
+    90.9000015258789,
     90.41999816894531,
     92.08999633789062,
     93.94000244140625,
@@ -409,18 +410,13 @@
     94.58999633789062,
     95.62000274658203,
     95.0199966430664,
-    95.66000366210938
+    95.66000366210938,
+    97.58999633789062
   ],
-  "lastClose": 95.66000366210938,
-  "oneYearReturn": 0.09417596272110336,
+  "lastClose": 97.58999633789062,
+  "oneYearReturn": 2.295592009416944,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "NASDAQ, INC. (NDAQ) exec Nelson Griggs sells 3,226 shares at $96.16 - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFdETk03MUVsQmxrdHpXOHgwZmNseDRVRUZjd3NOamZtNjI1ZzRiUy1uUWFRbTFfc2E3SS1IS29MLWhuRDVvWFNOWV9EamktdkdiZlJzeUZtb3BSREViYXh1Q2ZkMTN5M09yVXczVjgtd29EdWpFNmpRRFlyaFpOeDBxbjhpUmladTV3SXk4dnM1Y2dMOE5KY3VZZjE4TkE2ME01UGVSTQ?oc=5"
-    },
     {
       "headline": "Nasdaq Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
@@ -428,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRndES0huR08yU1JpNGZwTGFLSkM1c2lFRjBNNkRtbU9aUEwybG9BWmFXcEN4MkM4NU81TnlwS2NDbmhkUWROaFZUeEluZHNfWUlZSFpvWjdKVlBwU3F5SzJLeUVWZHppZUxqNWM4X3BNUU1qYWVHQi12Sjg2anpWMC1CemhEZWtxbk9zcXdSazlKRlhrS1V3LUg3bVZpM25HdW9kZFBEek5jNGRvekhsaGVPbVg5b2ZBTHozVV90RQ?oc=5"
     },
     {
-      "headline": "Assenagon Asset Management S.A. Has $23.30 Million Stock Holdings in Nasdaq, Inc. $NDAQ - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSGRGT19OM0RaUERfMW9uV1oycWc0YWF3U1Zvd1BrQWhvMm9VX053YmhLWlFoN05YZVMzenJObnM0OGNWQU1Vem9JRHBzZndTZFcwWTlYeG1FdnBpY0w1cmttWVg3b280SUxncndMLU9TRTlhclppYzA3YWRvSTE0S1dhVEZlME9pWTBkeFdKTV9fbm9nV1VYX1FzNWozZXBHQUl2aVlnT2psQlJ3VUVaUkRFNWxQdkdmdjhqYkl2Yk5vNmdZN1luQnNiTS1mNkRWcncwazl3Y2c?oc=5"
+      "headline": "NASDAQ, INC. (NDAQ) exec Nelson Griggs sells 3,226 shares at $96.16 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFdETk03MUVsQmxrdHpXOHgwZmNseDRVRUZjd3NOamZtNjI1ZzRiUy1uUWFRbTFfc2E3SS1IS29MLWhuRDVvWFNOWV9EamktdkdiZlJzeUZtb3BSREViYXh1Q2ZkMTN5M09yVXczVjgtd29EdWpFNmpRRFlyaFpOeDBxbjhpUmladTV3SXk4dnM1Y2dMOE5KY3VZZjE4TkE2ME01UGVSTQ?oc=5"
+    },
+    {
+      "headline": "Nasdaq, Inc. (NDAQ) Stock Forecasts - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNellqMDBpYzB1QWFqazdfdjhPM2YzWTlocmh1Q2FNU2k1dFZwcmtuVWlvWF9DMXpoZGZicl9haFJqdWpTaWx0VXlFYzZGUWphZ3VzSVlPcXA3RkU3TTlDRTFBQ3JCRWthV2YyOXJJQl9mZW1hV3ZLMTBhYmtIUjM3RFlPSDNHZFpp?oc=5"
     }
   ],
   "insight": "Tracking Nasdaq, Inc. (NDAQ)."

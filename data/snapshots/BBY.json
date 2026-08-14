@@ -1,22 +1,21 @@
 {
-  "builtAt": "2026-08-13T03:41:26.387Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:38:57.375Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    79.98999786376953,
-    82.80000305175781,
-    81.6500015258789,
-    83.9800033569336,
     85.37000274658203,
     85.29000091552734,
     85.41000366210938,
     85.12999725341797,
+    85.22000122070312,
+    87.11000061035156,
     84.43000030517578,
     85.43000030517578,
     88.44999694824219,
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
+    86.26000213623047,
     85.25,
     86.3499984741211,
     84.5,
@@ -24,13 +23,10 @@
     82,
     82.43000030517578,
     83.27999877929688,
-    83
+    83,
+    85.3499984741211
   ],
   "6m": [
-    65.1500015258789,
-    65.0999984741211,
-    65.9000015258789,
-    65.56999969482422,
     68.5,
     68.18000030517578,
     70.41000366210938,
@@ -145,12 +141,15 @@
     85.29000091552734,
     85.41000366210938,
     85.12999725341797,
+    85.22000122070312,
+    87.11000061035156,
     84.43000030517578,
     85.43000030517578,
     88.44999694824219,
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
+    86.26000213623047,
     85.25,
     86.3499984741211,
     84.5,
@@ -158,10 +157,10 @@
     82,
     82.43000030517578,
     83.27999877929688,
-    83
+    83,
+    85.3499984741211
   ],
   "1y": [
-    72.7300033569336,
     71.73999786376953,
     71.62999725341797,
     71.80000305175781,
@@ -395,12 +394,15 @@
     85.29000091552734,
     85.41000366210938,
     85.12999725341797,
+    85.22000122070312,
+    87.11000061035156,
     84.43000030517578,
     85.43000030517578,
     88.44999694824219,
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
+    86.26000213623047,
     85.25,
     86.3499984741211,
     84.5,
@@ -408,17 +410,18 @@
     82,
     82.43000030517578,
     83.27999877929688,
-    83
+    83,
+    85.3499984741211
   ],
-  "lastClose": 83,
-  "oneYearReturn": 14.12071520561443,
+  "lastClose": 85.3499984741211,
+  "oneYearReturn": 18.971286612241382,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Best Buy (BBY) Stock Looks Undervalued Despite Its CFO Change - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHBDUTV1MTJuSklqZ2piQ0ZHdzEyTEp5b0NULWt6QmxQdEI2VnEtVXVrYktIb1BEaVdMZldpLWFBajBzZ21iTGhEVjQ0XzRKd2U1Mjl5ZW04NzY0LW9YemdHQmlOSGp5ZzEtSlpFMlQ3VzFUSDM5N3drN1pCcU40ZFVVX1BKLUhtSS0zaXBVdEU5RkRla3diQ3pzRzNuX2RPbzYtNmx4eXBpRjU5cmVQV2QyVGFlbHFrTjd1THJ30gHDAUFVX3lxTE1Zbmlyci01dXZVSVlFT3RXbXE5bVJUN09paFdDZ0lhNE5zeHhfSXIxOFVQNWxSS0ppMzNzeVpuLUd3WEFmaUFvZUx5WDF6dUtfVVh2UFEwanVKZFhfNkc4SUdNUnAxRkFOem9nUmFPLUtnWlBXaXVVcEs0aDJ3QnE4ZUw4VkY2RzlMY3ZuTkdOVGJvTFV6Yms2Nnd2b3lmNVhRbVR3U2JCSGduUTVOc2tLdHlBOEpINlZ1Y3pmUmRNRm1YVQ?oc=5"
+      "headline": "What Are Wall Street Analysts' Target Price for Best Buy Stock? - barchart.com",
+      "source": "barchart.com",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmVhZDkxWHo3RUIwdjFRaWdoNV9fSl9lV1NQUl9hWS1BcGk4UHczV25FalFHX2lNMm0zRTZCX1diOXczQjRjWWNmejZ4YmZtQXAxRlExemwwMEpLOTA4c1h2VTdoVEFtZnJKZy1LWHpHcTJIalVRM2JlMktRQ2FZZTRLMWNrWlBFZ1p4REtzTXprUWVhdThxY0E3WWVWaTJFOG11dEJ2eVc?oc=5"
     },
     {
       "headline": "Here's What to Expect From Best Buy’s Next Earnings Report - Yahoo Finance",
@@ -427,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXU0TC1fM2FGNjRHNFhoVjZGTGx6VkdaODlPY3lJNEFielNrYVBudlh0NzF6ZGZDYXZKSWVvcFFtWVQydGhTUU9oY1pzSDBnU3lkTnNxYndSN24zb2UwWThtQUMxZ3VMT2tZQWJ2X3JUNGNwTG9hdVB4b3IzYXRBQmhQQTE4N0diRGpYaGsxYnRWckliTFE?oc=5"
     },
     {
-      "headline": "IonQ, D-Wave or Rigetti: Which Quantum Stock Is the Best Buy After Q2? - Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1c5ekRDNm9FX0tNWDZVdVVxR2hKWVc2MkVZTTI1MFdTSUdqazhiakVrMFh1WDVtRmdyRHE0WGFoQi1PTldERk1wOVBtc20yQldDZ19PTnN4bFYwSE9peGttNnVJd3UwSEtIUmdDUWdWbS1JZnQxZnBVaE14UTFSMEdub2xPV3FVQ3NrZXIxUlRmaW02MmpNN05DTlNQeDg2enl1UWFlXzhGTUVp?oc=5"
+      "headline": "Best Buy Co. Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZll6LVo0eERsZk84c2sxYUczdWpRYWlaSndXN2t4M1RXU29aQlVvZTU2Z1pRMGJPV0lOeG5oQ21lNUR3N2NPSnBPenBtblVpNU43ZWhad3pjcEl1Z2pEYnNNb1VPZFAtUjRuWXhldG9VN2R1N3NwYmJzeUMybTVodmE4X1BqMGZGV214TVVCQWdKcGFadFQ4UERfdWZLcHl2d0hYS3huLTZySUF0M0w0ekpIZ2tiY0dmNHYtTUdBOGFyLXA1Ync?oc=5"
     }
   ],
   "insight": "Tracking Best Buy (BBY)."

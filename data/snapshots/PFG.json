@@ -1,22 +1,21 @@
 {
-  "builtAt": "2026-08-13T03:41:59.437Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:28.925Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    111.66999816894531,
-    112.2300033569336,
-    113.61000061035156,
-    112.91999816894531,
     112.95999908447266,
     113.12000274658203,
     113.94999694824219,
     112.05999755859375,
+    109.56999969482422,
+    108.25,
     107.31999969482422,
     109.4000015258789,
     111.29000091552734,
     114.08999633789062,
     113.18000030517578,
     113.94999694824219,
+    113.69999694824219,
     115.12999725341797,
     115.25,
     114.8499984741211,
@@ -24,13 +23,10 @@
     113.4000015258789,
     113.80999755859375,
     113.02999877929688,
-    113.7699966430664
+    113.7699966430664,
+    114.93000030517578
   ],
   "6m": [
-    94.76000213623047,
-    94.72000122070312,
-    96,
-    95.29000091552734,
     96.4000015258789,
     95.5,
     97.33999633789062,
@@ -145,12 +141,15 @@
     113.12000274658203,
     113.94999694824219,
     112.05999755859375,
+    109.56999969482422,
+    108.25,
     107.31999969482422,
     109.4000015258789,
     111.29000091552734,
     114.08999633789062,
     113.18000030517578,
     113.94999694824219,
+    113.69999694824219,
     115.12999725341797,
     115.25,
     114.8499984741211,
@@ -158,10 +157,10 @@
     113.4000015258789,
     113.80999755859375,
     113.02999877929688,
-    113.7699966430664
+    113.7699966430664,
+    114.93000030517578
   ],
   "1y": [
-    78.33999633789062,
     78.08999633789062,
     77.63999938964844,
     77.69999694824219,
@@ -395,12 +394,15 @@
     113.12000274658203,
     113.94999694824219,
     112.05999755859375,
+    109.56999969482422,
+    108.25,
     107.31999969482422,
     109.4000015258789,
     111.29000091552734,
     114.08999633789062,
     113.18000030517578,
     113.94999694824219,
+    113.69999694824219,
     115.12999725341797,
     115.25,
     114.8499984741211,
@@ -408,29 +410,30 @@
     113.4000015258789,
     113.80999755859375,
     113.02999877929688,
-    113.7699966430664
+    113.7699966430664,
+    114.93000030517578
   ],
-  "lastClose": 113.7699966430664,
-  "oneYearReturn": 45.22594072172478,
+  "lastClose": 114.93000030517578,
+  "oneYearReturn": 47.17634229086235,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Principal Financial Group Inc (PFG) Stock Forecasts - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXppMk1jeE44aV9WSWROUDhsVDJVbjhrWnl1cnRhbVZ2eVVmTlFUVlJZWS0zSTE1ZUxvdXAtVlczejVVSTQ4Q29yYnB2S0RWMmdndHBxTXF0MDlkNnF4LWg4ZGpFME1ZSElPVnM1SWVIMDBjQjlhSEdRa0gzMzZRT2gzaEJXeVU3NEF0dkVtWjlhZGM?oc=5"
-    },
-    {
-      "headline": "Wedge Capital Management L L P NC Has $37.41 Million Stock Position in Principal Financial Group, Inc. $PFG - MarketBeat",
+      "headline": "PensionDanmark Pensionsforsikringsaktieselskab Purchases 9,685 Shares of Principal Financial Group, Inc. $PFG - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ1phUzBaWk9zUGdWeDRIc1d2WXNSMXdKUy1pMTlYMGk1Mm1sMU51MWVGcDhjeS1ZcmJhT2l5aDV5X0RrSUxycENhcXlOdGtKNlJ4aXhka0wzSXR6T29HN3NRQkNVSjd3RWxwQURrWnpFWVo2VUJKYmJuaDA3NlpVVWlnd3RSbGZ1VlJnekZqN2hqQmRrQTg3a0c3aHRqQWJuNWFjZzhxbWtONElscC1Bc0VEZjVIOVpNcFUtZTgtZTdVVlBMQkpfS0FhYWZ5NUo1elZPU2k3bTk4OVRlU3RqNUQwRS1zZHhTVmRseWRIMWdfRTgyb3c?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTkdEWmw2TWZwU1o2YzhNc2UwWUI2NnJPeEZrYng5WTZGQUJ5NF9QbjE4ZUluaE5mMmNmWnAzQXJwYXg3MktiQ2lpY0V6TTJpU1FLa05Pal9MbnZuYkwwNTJhUm1xWWZ1Uml3WXo2clYzZVZ1bHNuS011cWx5LXZuSUEwUEljem5JWWI1c1ZGajRXbGMzQWlhNkttMG12VGwwVl9ZRkxsZzQxM3Nma1dWRXNSNVZlSFg3VU1ydnN2YVFrUWRHRjBUQ0dJNFI1WURaQVRkV3dFMWR6Ykk4OGJfS1hTSVdvMWRBZ3ktZ1U5NHpoQjhfYTU4NnBB?oc=5"
     },
     {
-      "headline": "Principal Survey: Only 1.4% Blame AI for Staffing Cuts - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWEVnV3hoNVpTNHlKbVpRWlFNeVc5bHpxSWpVeFhNRzVBVVRPaTU0clJqcnhoa0s1ck9La05TbUwyc0VyWk5RMGlHVF83MlJhbU0yaURSVWFOUUFLMElBR3Z5LTZDNmFlb20xTFBVRy1ycnJ5SWMzdWpSbjlWb1JFQml5Y0RpWElNMjM0MjNWV3ZfNEZ3Ymc0eVk4dUpFTXBUYXNScjdwUm5ZMFI5TTBHSlB3RVYydndxZkI5WQ?oc=5"
+      "headline": "Principal Financial Group (PFG) Stock Looks Overvalued on Current Earnings Expectations - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-22",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamFTWUQzQUFFaUhielVjTXd6WENOakNNTGVVV19XVlN1RS1Mb1JybEx0SUtCbHB0Y19WcFlCZC1xZldQaHNqcmNpU20zbGpNbVRFS0U2bzAyYUJlVkpzcDVtMGdjUjRQVVhYNmdmZFhodzRKUU80RVZlTllmb3Zkay1IS3J2S0dyNC1QQkRXUlhlcHNFN3dIMkk1UDFubXNjdEE?oc=5"
+    },
+    {
+      "headline": "Principal Financial Group stock hits all-time high at 116.32 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczJDckpYc056MFlNTENaM0JOQ1VNUllqUzYweXQzUm5raEFDU25xdmxsSUcyVGVOOFEyMU1yRFZfc29RVUo3S3UzQ1ZQM0FaLXVQYVZEYUExQ211aDJJa180aUE2YmNnMVRFd2FBTjNINWJ6YUVnTXRrR3FZUUZMZDVaSkdSamVMUlNVX1p6Q0htUGhXSzdjVUJpYl9jMzAtVVRlY1ktNEt2dFZLa1daaXgtaDJrenJlLVln?oc=5"
     }
   ],
   "insight": "Tracking Principal Financial Group (PFG)."

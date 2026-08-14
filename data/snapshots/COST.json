@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-13T03:41:32.757Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:03.806Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    921.75,
     916.5399780273438,
     945.5700073242188,
     940.8699951171875,
@@ -24,10 +23,10 @@
     947.8200073242188,
     952.75,
     944.3200073242188,
-    949.5750122070312
+    949.5800170898438,
+    961.8499755859375
   ],
   "6m": [
-    977.9199829101562,
     978.3499755859375,
     989.2899780273438,
     1001.1599731445312,
@@ -158,10 +157,10 @@
     947.8200073242188,
     952.75,
     944.3200073242188,
-    949.5750122070312
+    949.5800170898438,
+    961.8499755859375
   ],
   "1y": [
-    978.8499755859375,
     975.3900146484375,
     972.0399780273438,
     979.3499755859375,
@@ -411,29 +410,30 @@
     947.8200073242188,
     952.75,
     944.3200073242188,
-    949.5750122070312
+    949.5800170898438,
+    961.8499755859375
   ],
-  "lastClose": 949.5750122070312,
-  "oneYearReturn": -2.9907507901179975,
+  "lastClose": 961.8499755859375,
+  "oneYearReturn": -1.3881666676052937,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Are Wall Street Analysts Predicting Costco Wholesale Stock Will Climb or Sink? - Barchart.com",
-      "source": "Barchart.com",
+      "headline": "Are Wall Street Analysts Predicting Costco Wholesale Stock Will Climb or Sink? - barchart.com",
+      "source": "barchart.com",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVnNnRzE2eGd1SnNaV05XLVZ3dWRWZnlDVUw2TGR2dVFVQ3QxclNvSmF6TmxZaU5HR3p6OXpXYWhkMTZOS2ZFVE13M1ZNWlJTZGxjQlBpU05WTlNQSEEwaXVvVFdoTWdtZHpETW5HaUxwYVJqUmdCWkNNUC1QVjR4UHhDQ3FJX3lHY2d2bFM2NEhWa3ZJVWlTNlVqcGVBMjR5djltaXNUWHpZUkhOVGRiYVpfNVRvSWw2SldHdVN3?oc=5"
     },
     {
-      "headline": "Costco’s Stock Has a Problem: It’s Almost Too Good - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTNDN3hpTWNFSkVneDh2amEwSE00QTJkU3A1eGpvV2lQQU1oWkZzMlozZ0FoU2NPeTlPcnhFUGVadFloM0ZWakVWbWhtOXZnN29mUFllVEROck9kX2FPSmJHTWhuNng4TUQ3YjF3Z1c5ZXM2aGd3RC1KMnhIbnFVRVpPb0dXanZxMExHMi1IcWN3MC1BVnNFa2tCaDE?oc=5"
+      "headline": "Costco (COST) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdmxuSy1aaXFkcXVVMS02bVJwNV9fMk5fR05LRWtDcVJnNnBxR01mYTNNWXBMblpxb3pMQUgxVm53UE8zZ3NKMVZvbmhSRzBaYlY1ODBnWnRRdjJ3RG1iRmtleEZhZ25Ic3BkUVRSdXRIa1pWcjJaRWFNcWR6Tm5jYVBuZlFuRlR6UUE?oc=5"
     },
     {
-      "headline": "Costco's Viral \"Cloud Couch\" Is Back in Stock, and It's Basically Made for Lounging - House Beautiful",
-      "source": "House Beautiful",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2JOdXE0RzY0dE9OdmVOWHVvaE84cEFLenptSHY2eEY2ZDIyVHF4cVpFcjZjS0NrMkNRUklGcmtIRDNlZGFaRHJSQjBiSFc3eHphMERvQ0VFVWlDek5GME14STRVYVNpNGZZdjNPSnlsQWRhWmkwT0pPcFVsY0dIbU5WUG9Ga0R2b0RsMEhGSXpDZF9nWmRBM1JPeGNCMktqWnc4?oc=5"
+      "headline": "Costco Is Priced Like The Best Of Its Group. Is It? - Trefis",
+      "source": "Trefis",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWlTQWtlQ05nUURNLXVoV0cyRTZRVjNHRXVtcGpkb0NtelBBakMtRUVoZDVoRkh5eWRUWDdkWVhrYUQ0MmJZTkdVMmRQVE54bUNoRmpuQ1ZCVE1UT1hzUFVWc2o5UzM2MUlVbVJqc1pDOFlSSXlXZkw4d0FkMlBBRG5XbXBlLS1xWXNyRkNIbjZIOGRQaE5WRFRONHlWSTlnLUJSYTBMWldYYjN1SVdR?oc=5"
     }
   ],
   "insight": "Tracking Costco (COST)."

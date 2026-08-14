@@ -1,22 +1,21 @@
 {
-  "builtAt": "2026-08-13T03:42:01.429Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:30.961Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    79.44000244140625,
-    79.62000274658203,
-    79.94000244140625,
-    80.33000183105469,
     79.98999786376953,
     82.37999725341797,
     82.68000030517578,
     82.13999938964844,
+    82.08999633789062,
+    82.22000122070312,
     81.18000030517578,
     82.1500015258789,
     82.33999633789062,
     80.97000122070312,
     81.11000061035156,
     80.36000061035156,
+    80.29000091552734,
     80.30000305175781,
     79.43000030517578,
     79.06999969482422,
@@ -24,13 +23,10 @@
     77.12000274658203,
     76.11000061035156,
     75.81999969482422,
-    75.73999786376953
+    75.73999786376953,
+    76.86000061035156
   ],
   "6m": [
-    71.9800033569336,
-    72.87000274658203,
-    71.9800033569336,
-    72.48999786376953,
     74.25,
     75.4800033569336,
     75.22000122070312,
@@ -145,12 +141,15 @@
     82.37999725341797,
     82.68000030517578,
     82.13999938964844,
+    82.08999633789062,
+    82.22000122070312,
     81.18000030517578,
     82.1500015258789,
     82.33999633789062,
     80.97000122070312,
     81.11000061035156,
     80.36000061035156,
+    80.29000091552734,
     80.30000305175781,
     79.43000030517578,
     79.06999969482422,
@@ -158,10 +157,10 @@
     77.12000274658203,
     76.11000061035156,
     75.81999969482422,
-    75.73999786376953
+    75.73999786376953,
+    76.86000061035156
   ],
   "1y": [
-    72.0199966430664,
     71.11000061035156,
     71.0199966430664,
     70.33999633789062,
@@ -395,12 +394,15 @@
     82.37999725341797,
     82.68000030517578,
     82.13999938964844,
+    82.08999633789062,
+    82.22000122070312,
     81.18000030517578,
     82.1500015258789,
     82.33999633789062,
     80.97000122070312,
     81.11000061035156,
     80.36000061035156,
+    80.29000091552734,
     80.30000305175781,
     79.43000030517578,
     79.06999969482422,
@@ -408,29 +410,30 @@
     77.12000274658203,
     76.11000061035156,
     75.81999969482422,
-    75.73999786376953
+    75.73999786376953,
+    76.86000061035156
   ],
-  "lastClose": 75.73999786376953,
-  "oneYearReturn": 5.165233815740898,
+  "lastClose": 76.86000061035156,
+  "oneYearReturn": 8.086063775343248,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Are Wall Street Analysts Bullish on Regency Centers Stock? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMm1tX1lWRDZYZ1lraFl5RE9MdlJWeWlFWVNCY2xuZmZhSVZfNl8wV2N5YmJsT2xMdTQtX0xoVGl5WGdPa1Q5b2g0UFdsS0FBd2hnWXpwSEthOGNXY3JwT1lOVW1MaFVJV1Ruc2l1Z2k4c21WR29VN2k1T1JkRlFWeXdwZ2pUalhiTUhEak5kM2pOZEZCdFhlcUp4R3E5UjQ?oc=5"
+    },
+    {
+      "headline": "Regency Centers Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMi10WWRlbnMyZnJOcUgyOUxxeF9DdDNtWFl4VnJvdGdFNUJwYUxucDhsMTh0YllaLTRoOThiNG9nTEpQc2d6YTVScmFQOTd5YlRQR3VlRlhfNHRJazdyQV9vN3NrYkRaQTBJZGZrVGFQUnBwZXZjY0JKbU92clBhbEQ4dzlWUlhDLXZldkJYeXZMdTFUbDdvRFBWR0g1eDl0SHU5blhkRDkzM0duOHl2eHVmamNXRi1qSHJMNng3NG90YTlnVDhSMTNmSW80eEhHMlN2bjZjU19xNlVSdUcyMVNSb1M?oc=5"
+    },
     {
       "headline": "Bank of America Corp DE Raises Stock Position in Regency Centers Corporation $REG - MarketBeat",
       "source": "MarketBeat",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTHdwWXd5S2pWLTIwajZhd1RlanhTMXNISDNiNjh6c0U0NXRlTjI0UEllbm1rZ2FhdTNvNkdKOFlJbWNkVTlMVTQ2X29PVUlkSlVoTmkwVTE2aThlY0czUVY5N1daeEFBVWpNaUpFRi1ieVVoYlFjYVg0VlBSd1UxMllrTUhlN0ZqcHdSLUpsV19XWlcxYjNidjhvdGduUE5QVXdCTTA1cVRrSXpFcWk0NVBxME13QTZLdWlHeU9HNHZyXy1iS0dEOXY2bDRmbWh2WEpuTTNnaE0?oc=5"
-    },
-    {
-      "headline": "Regency Centers Corporation (REG) Stock Forecasts - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONGE0cHY1Q1lqOWoyV2Y0bU1hcEdYZFBJUmJSOGN3TVBHOFllNW11MnZYVl9GTmV6dXh1UUVrODFwS0tNbTdBVUZFdTEteWNHTEpBY1M5Xy14eC1scm1xVzVEc1Jsc3Q5TXdwYmtJVjF3YUhsNUhrUm9zaEdBNjA3RVFUMURDMTFrN0E?oc=5"
-    },
-    {
-      "headline": "Precision Trading with Regency Centers Corporation (REG) Risk Zones - Stock Traders Daily",
-      "source": "Stock Traders Daily",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVWpzMEpsNVpBUE1sVnNsZENzMXRVbnp6ZGJob2JfMWZIM2wwcjdXS2RhV2pjZEZwbkFmSUFrd1YyN0dpNnZSeFc1bXAxVFZvbnctZGUzWktGVG1OaXo3Q0xrMkVRSGxkX1MzNmgwVjNjcGNURUVoSGNSakZSREFiMmJGUVBua3VodF9RaFFtN1FsWWs0QWdvMTJzMWEtZXRKLWppWWJwYjdSeXVpUTFfOUtqcEtSVWN3b1RXbzVORTJSS2RVVTdiZFdONTdfNkZrZGFkUEJjOW1ZaWtyM2c?oc=5"
     }
   ],
   "insight": "Tracking Regency Centers (REG)."

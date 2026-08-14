@@ -1,22 +1,21 @@
 {
-  "builtAt": "2026-08-13T03:41:57.692Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:27.442Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    182.86000061035156,
-    183.5500030517578,
-    184.11000061035156,
-    186.63999938964844,
     191.1300048828125,
     188.52000427246094,
     184.67999267578125,
     182.77999877929688,
+    185.05999755859375,
+    178.66000366210938,
     177.9499969482422,
     180.52000427246094,
     182.52000427246094,
     180.86000061035156,
     177.64999389648438,
     182.50999450683594,
+    182.19000244140625,
     182.1999969482422,
     182.41000366210938,
     184.3800048828125,
@@ -24,13 +23,10 @@
     185.5,
     187.86000061035156,
     187.77999877929688,
-    191.3300018310547
+    191.3300018310547,
+    190.47999572753906
   ],
   "6m": [
-    150.66000366210938,
-    149.42999267578125,
-    151.6199951171875,
-    149.83999633789062,
     150.8000030517578,
     147.47999572753906,
     152.14999389648438,
@@ -145,12 +141,15 @@
     188.52000427246094,
     184.67999267578125,
     182.77999877929688,
+    185.05999755859375,
+    178.66000366210938,
     177.9499969482422,
     180.52000427246094,
     182.52000427246094,
     180.86000061035156,
     177.64999389648438,
     182.50999450683594,
+    182.19000244140625,
     182.1999969482422,
     182.41000366210938,
     184.3800048828125,
@@ -158,10 +157,10 @@
     185.5,
     187.86000061035156,
     187.77999877929688,
-    191.3300018310547
+    191.3300018310547,
+    190.47999572753906
   ],
   "1y": [
-    125.97000122070312,
     128.49000549316406,
     126.0199966430664,
     127.05000305175781,
@@ -395,12 +394,15 @@
     188.52000427246094,
     184.67999267578125,
     182.77999877929688,
+    185.05999755859375,
+    178.66000366210938,
     177.9499969482422,
     180.52000427246094,
     182.52000427246094,
     180.86000061035156,
     177.64999389648438,
     182.50999450683594,
+    182.19000244140625,
     182.1999969482422,
     182.41000366210938,
     184.3800048828125,
@@ -408,29 +410,30 @@
     185.5,
     187.86000061035156,
     187.77999877929688,
-    191.3300018310547
+    191.3300018310547,
+    190.47999572753906
   ],
-  "lastClose": 191.3300018310547,
-  "oneYearReturn": 51.88536951415832,
+  "lastClose": 190.47999572753906,
+  "oneYearReturn": 48.24498994801039,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Fund Update: New $586.4M $HONA stock position opened by NORTHERN TRUST CORP - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWkxYzhqQk9GNFlKWlZ5ejdDYjFDelZEZzkzYUZfT3N4bm4tLTgtaGdqWG1xQmtGMUJiTnVjcjdMbjhZZjFWcW85ekJ5ckZrUXZ0M1Ywc2VwV0IyMnNaX1ZjTzZFUldxM3AxSzRVYlhLc254RUlTSmt2TGNiYzVJYldoNWtOdEdVM0J3Tk9XaGtVcVgxLXVNZm9BTzhHSGZhMnJOQ09ValNHa2FmdFo2M0xveWc?oc=5"
+    },
+    {
+      "headline": "Northern Trust (NASDAQ:NTRS) Reaches New 52-Week High - Here's Why - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDMybHlXNnBsQk4zUTd1eDhxaEJjQS1yMnRaeTBSUzB0NUR3VFdIYWZLaTNsLW00SDJPODRwNUZ0Q1k2amlHTVpkNVdrRnl4U2E3cVp2Mjc4RHQ4SHV6dnk4alFXTTl3Yi1md1MxNlpHUFh2Y21GNDdFcERndGg5amU0RG12bWtKRnZnZjZwbmVRU3ltWXdLbHR3aFhsSUJqWEFVZy0ta2lZUFdWVG11YXJHMzE?oc=5"
+    },
     {
       "headline": "Northern Trust Corp. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc19mOTA1UUtGT0drMGlHeklvbm13bzBvLU9qalZoUEFncHI3RWRfZ1A0ajBrZDlzZ3NxS0Z3djFUWDhiTU1uQlFLTDBGX0ZMSlAzd3lmZDVVQUdqakNfd1ZwOE5TTURINThadTBlemc0dWRXV1A1RGd0WFozalJSSTczVnJHcDlmOWVrY05DVHNUbjFzUlhWV1lZNW5mS05icmRoOWU3dXlQSFJSTjJsNnIzMm9vQnVTMk9ncC03LVlqTW5vQlFOTmN5RUNDMm9wWDlGTmJEYlMtSndoZHAwS1pMSQ?oc=5"
-    },
-    {
-      "headline": "First Sentier’s Singapore Unit Trust to Get Custody and Accounting Support - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnJrMGZEQnNoM0ctbVJ5aHBsSTk3NzV0SkhITkgxczBXc1h6eDR5RTNJN0xWNHJvQW92OGdQTG1kdDBUVnZrNEFMajdnV01URnR0UTNPaEUyMWh2R2psTVZTMnhnRVRiSnRUTG54M3RiSkh0OUc5ek1YeUlCN2E5T2lHVXliWXQ3SWdkbXF6MmpxZGVJRzZRWXA0dW42UmNxX0ZVS2Q0SWtsQWJidWw4aHhoRkZtMGhNZkE?oc=5"
-    },
-    {
-      "headline": "Northern Trust shares edge higher after strong second-quarter results driven by Visa gain (NASDAQ:NTRS) - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaHRiNHNNQTJBWWQ4Q3VZcHIwd1YxNDBGZVI3bzFVb3A1YzEwUW05RzM3aGhhcnhnUXhhRklpR2N4VnhxZThKcnMta0pfaUFKR1Fqd2sybURhUkdfb0xVckM1bWpsaXM1VkVjQTRzN2tSRldkd1pBSGN6bTVGVkd1TXNsQWNaSEd3NTYwMTU1dV8wdWtaRjl4TDlQdjg3bE0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcmQ2TU1nYzN3MzNLeDBjSHRQSWxxSkFFdGxvcE1Hd2pHeXhSRzdMQ1h2N1lrVDdIODhFdC1pU25mcmJTSlBObzYzZS1QQmRnTE1acTdVQWlFTExYMkIxd0RObDVERkctSDlyVFkxQ3oyZGx0T0JwenRENW5QLTJPOEp5M09XRVA0OUhIZkFrQXVPMGFpOEtEdEVfYUNsX3AteU9iUDZjaXFYcTB3Ul9fbC1KV1lFUWtWSWhGU0pfS0YxcmNWV0I2RlU3VQ?oc=5"
     }
   ],
   "insight": "Tracking Northern Trust (NTRS)."

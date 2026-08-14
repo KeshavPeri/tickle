@@ -1,22 +1,21 @@
 {
-  "builtAt": "2026-08-13T03:42:04.206Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:33.390Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    634.5999755859375,
-    623.8800048828125,
-    623.0999755859375,
     624.1500244140625,
     630.8599853515625,
     635.52001953125,
     626.5900268554688,
     647.47998046875,
+    650.5,
     651.219970703125,
     655.3499755859375,
     651.6500244140625,
     649.6699829101562,
     631.3499755859375,
     649.1799926757812,
+    655.5700073242188,
     670.5599975585938,
     684.760009765625,
     683.72998046875,
@@ -24,12 +23,10 @@
     691.2999877929688,
     690.25,
     681.739990234375,
-    686.489990234375
+    686.489990234375,
+    673.6599731445312
   ],
   "6m": [
-    620.2999877929688,
-    613.22998046875,
-    640.4199829101562,
     629.72998046875,
     628.469970703125,
     647.5599975585938,
@@ -145,12 +142,14 @@
     635.52001953125,
     626.5900268554688,
     647.47998046875,
+    650.5,
     651.219970703125,
     655.3499755859375,
     651.6500244140625,
     649.6699829101562,
     631.3499755859375,
     649.1799926757812,
+    655.5700073242188,
     670.5599975585938,
     684.760009765625,
     683.72998046875,
@@ -158,10 +157,10 @@
     691.2999877929688,
     690.25,
     681.739990234375,
-    686.489990234375
+    686.489990234375,
+    673.6599731445312
   ],
   "1y": [
-    550.1199951171875,
     541.9199829101562,
     538.469970703125,
     536.5900268554688,
@@ -396,12 +395,14 @@
     635.52001953125,
     626.5900268554688,
     647.47998046875,
+    650.5,
     651.219970703125,
     655.3499755859375,
     651.6500244140625,
     649.6699829101562,
     631.3499755859375,
     649.1799926757812,
+    655.5700073242188,
     670.5599975585938,
     684.760009765625,
     683.72998046875,
@@ -409,29 +410,30 @@
     691.2999877929688,
     690.25,
     681.739990234375,
-    686.489990234375
+    686.489990234375,
+    673.6599731445312
   ],
-  "lastClose": 686.489990234375,
-  "oneYearReturn": 24.78913624801762,
+  "lastClose": 673.6599731445312,
+  "oneYearReturn": 24.309860198717914,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Simon Lorne Sells 6,449 Shares of Teledyne Technologies (NYSE:TDY) Stock - MarketBeat",
+      "headline": "Teledyne Technologies Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYTNqWGx5WGttZ0kyZ0ZoWmhGQjEteWxOZlFrb0Z5V3Q1amNiRzI1UldkREhUUXFSM0JtdkRqTG1GSWRsQjlXdHVpd3g4MGl2NWl2OEx5MHhlanFvNkgyaHMyTTdFTDVzOElWclF1WWdUREVOdFdQY19CUzczVE5mVW13ZDVpZklod3ZZc2h5TGxPVVVFQm50dHJCYTNUY2FVb3lKYXRUVlRyRnN2aElVVzJiSjlQbnI2MTdhZnJwQWFRVDNsc0lwRl9zdm9MMEVzTGtkZzNpZUo3VEFUcmlQUmIzbVJnRm42MGlyV3k4WEZhQUk?oc=5"
+    },
+    {
+      "headline": "Teledyne Technologies (NYSE:TDY) Stock Price Expected to Rise, Morgan Stanley Analyst Says - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQzdWZnl4cllJSzRadS1weXBfelotQXpnR1dDRlhFUW5SSXE2ZE5ya2R0b2M0SG1OblZ4RmhVU2FQd0NvN0lSaGwwaGpWc1VyMVhVSUtFV1JrZk1hVHNNcFNQWEU0ZVBQVHdtbUhHMWY4T2J6TTFJcXhORnpkTmlXbFV2LUIzN243aVV3NnAzUS1JSzdpTFh0U3BzY3Ayd3hFUl9pR01qMDNTOHFLN2RYaTAtRGYtZHg1dlIzc2NDQQ?oc=5"
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORHIyanRjQV9pclhyTGRPTGNhS18wejd4VVJzSGJOOXVIbURfUy1lbVpTSTRMNGJpU0g0ZW9raF9XSGxLNGZpX0p1RFZGYnRlMUFrNGE3SkRMRF9ldHhubmsyLTlWZW9tVTFEcldKSzhSVjdOQ1RMY0tMb0Y1cElMLW1TOTNrRk5FMVgwdkZqVVo0SzNRWFJlZV9MbWVmb0FqZUFYeXdZR2ZPUXBNUU5ucVRKbC16dUVNaFdQQXd3dDNuN1JOZnh6Q3JtZGtWdzFZalpnTFNlSQ?oc=5"
     },
     {
-      "headline": "Teledyne Technologies (TDY) lists option-based common stock for potential sale - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTVJakgzeTBkZjNWb25QV2tzdll5Z1F5Sk9WeGdLaXY5RVd6WXZIenBPYlg5MVhXN25CVzRsUC1EdnlyMWRkclU2RXJlaHdmVkJid004cWhpZmVrY0F6UjgzNGVZRUdsWXZXVUVZZC1OTTV4ei14VjNfT0FwQ1l1TFFYdUprMTVDb0VnM29Wdm04T2FjYkktWUN0NXNCV094VW5J?oc=5"
-    },
-    {
-      "headline": "Teledyne director Simon Lorne sells $4.39m in company stock - Investing.com",
+      "headline": "Teledyne technologies director sells $321,342 in shares - Investing.com",
       "source": "Investing.com",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSXI5QVRGdFRwa3BUWlBxQVp1bkxWR1BabHlKcEVCdDczdXMxQ3l1VFljOURac0FleW8wYk1ReWtYNy1ZaXlwV1JVZkJzbTBBeV9pS1BWX1QxQXA5dnpKSFUtdk9kcWVJLWZqbVFQUGhPQ1U2OXhFRkR6bG9zVUphc3Rxemg1UWlhNW1GRFBCLWhzWk55T255NnhBWi1CbFQyVlJtQmlFU2dCRnNaRVlSSUs0NGVKX20weFJzaUZSNWxNZE9WakxyREpB?oc=5"
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU0hYV1A5Wnk4SUdiRi1RbzFFX2N3M1JCQ1hpbV9KSW1FZkhETkdLTmtqaGJBY0MtNjF5YkNickgxdWVoZktDQTFieXpsTFZtNTNQamNVTEZhOXNDS3BOYl9QUVhaeWhfaEpkYzlzVnlzQTFnRkVvUjR6Y2pMbEdmXzZBOG54MEhZM2M4OFJCUkNIRVkycUhRTDJkLW15UkZjNm9yeVZ3R0gyT0oyTmotQ3JhY0llUU1nQ0RUZERZMWxGTFJv?oc=5"
     }
   ],
   "insight": "Tracking Teledyne Technologies (TDY)."

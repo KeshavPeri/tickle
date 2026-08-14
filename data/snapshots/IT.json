@@ -1,22 +1,21 @@
 {
-  "builtAt": "2026-08-13T03:41:50.702Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:20.838Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    132.69000244140625,
-    133.24000549316406,
-    141.30999755859375,
-    132.97000122070312,
     133.75999450683594,
     142.88999938964844,
     140.19000244140625,
     141.05999755859375,
+    134.77000427246094,
+    132.10000610351562,
     133.69000244140625,
     140.5,
     147.4499969482422,
     155.83999633789062,
     165.64999389648438,
     152.9199981689453,
+    151.02000427246094,
     151.52999877929688,
     185.7899932861328,
     186.41000366210938,
@@ -24,13 +23,10 @@
     185.60000610351562,
     193.1699981689453,
     187.27000427246094,
-    179.4600067138672
+    179.4600067138672,
+    183.3000030517578
   ],
   "6m": [
-    212.6999969482422,
-    209.61000061035156,
-    202.39999389648438,
-    160.16000366210938,
     157.8300018310547,
     152.02999877929688,
     156.3300018310547,
@@ -145,12 +141,15 @@
     142.88999938964844,
     140.19000244140625,
     141.05999755859375,
+    134.77000427246094,
+    132.10000610351562,
     133.69000244140625,
     140.5,
     147.4499969482422,
     155.83999633789062,
     165.64999389648438,
     152.9199981689453,
+    151.02000427246094,
     151.52999877929688,
     185.7899932861328,
     186.41000366210938,
@@ -158,10 +157,10 @@
     185.60000610351562,
     193.1699981689453,
     187.27000427246094,
-    179.4600067138672
+    179.4600067138672,
+    183.3000030517578
   ],
   "1y": [
-    242.66000366210938,
     243.07000732421875,
     238.69000244140625,
     238.94000244140625,
@@ -395,12 +394,15 @@
     142.88999938964844,
     140.19000244140625,
     141.05999755859375,
+    134.77000427246094,
+    132.10000610351562,
     133.69000244140625,
     140.5,
     147.4499969482422,
     155.83999633789062,
     165.64999389648438,
     152.9199981689453,
+    151.02000427246094,
     151.52999877929688,
     185.7899932861328,
     186.41000366210938,
@@ -408,29 +410,30 @@
     185.60000610351562,
     193.1699981689453,
     187.27000427246094,
-    179.4600067138672
+    179.4600067138672,
+    183.3000030517578
   ],
-  "lastClose": 179.4600067138672,
-  "oneYearReturn": -26.044669906230073,
+  "lastClose": 183.3000030517578,
+  "oneYearReturn": -24.58962540480643,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Gartner shares slide as investors continue to weigh slowing contract value growth and cautious analyst sentiment - quiverquant.com",
-      "source": "quiverquant.com",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU1VXNU9SVkFMbkRyaW5VM2JYS1NhMFNhcEl0N295OHcxX3NBRjBPQ0Z1djlaNEpKNGdkNkVOZy10RXZUUHl2QUd4NmYzbTFzbEZOeWhWUzg1X1pQZjkxdDExdFB4WlBtVHM4ZjR0SzQwejNsV0Z1bkdSLTVscWRseGhfMkR3RWlROVBubDdmbUpYN0tkSWR1cWZEaEJtOC1xT1RpbmJCaFVNOTg2enBlVmJWS29DR0ZwbWpTTFo2b2NqNHg3YW9ZdDQtN1JSekVSdkNkTlVsV0ktSHJLUlE?oc=5"
-    },
-    {
-      "headline": "Gartner Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeVM0YlFJcDZqSE4wa2dWUjF2NWd1RFNsYmFHbkVTSjhBVHc1c0d2bFJiY09jLVpwOTl4NHg2cXpxSTBMUHpXVUhrVFNWTXYyS1E0cHlpaE9Qbkl2MldOTFBoVkx6ZnlCaTRJSUpRUnZlS2NQU0ZNYVhVOXJ6c1hjaHdKX0dtZ0xqdGJhQUh2MnpSblE4dXlTY2dVTkowS0NncWs4WXMtR1hqa3NDZTZkMTFocnlsMXNJdkxuUG5SZjg5MGxjdVNjTnFR?oc=5"
-    },
     {
       "headline": "Why Gartner Stock Skyrocketed This Week - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-09",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTW1pUm0xeUtsUzIyUmVHbEhzZ2R3cWs3VDNrNWlwMGpiLUVDdGpKNm13MUNxNnNubXpOenlfOTBnbzFqczV4M2FlcXVYbG1NUllwRmlvMlBkZ0FGMmFNUnF0LUp0WlJPcnk4R0ZkMm1jN3ZXX3BQMklMeHJ2QllUVTZkcGdkdFlFZUZlcFBqYnlDNnlmN18waFBSb3gxTlNs?oc=5"
+    },
+    {
+      "headline": "Why Gartner Stock Skyrocketed This Week - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-08-09",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQTY3QmxVdFRkM2xDT29lQnBWTHVpUllzRDEzMExLR3NrbXR5c2hlaGIxZ19FNzJSSWI1MmwzVWRkRHlHelFUVHRVSUZyU25oaWc1ZElUM2dhaFZkSExhUlNpZkxEeUlWNVpzUlJmeFhoS1NGVE1sanNlRk5BcElleDI5UFNLV3ZBamc?oc=5"
+    },
+    {
+      "headline": "Will Raised 2026 Guidance and AI Demand Shift Gartner's (IT) Capital Allocation Narrative? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOUJHS3lWaGhmTExTeE9PdlZaUkpHTlNJQWxkcjlEbG1zTEtyYW56UURlSW9pMWZ4Z0pnV250MDBYQ01tclY0RjNwMzYwNmhGQWYySmtyeGg0alJfZjB3UDRta2hQcE9ZcnZNV0QzQ1VaQlpRVU1lX3Z2YVhmWDVQSk5iTGlTQThfLVdwbzJGTnhwOExVV2lYNFZ6a3BnR01valkxR2M3dU0zS3dSMUtOMU9IVERKUmdheWFWOVdRLWk1bGY20gHEAUFVX3lxTE85QkdLeVZoaGZMTFN4T092VlpSSkdOU0lBbGRyOURsbXNMS3JhbnpRRGVJb2kxZnhnSmdXbnQwMFhDTW1yVjRGM3AzNjA2aEZBZjJKa3J4aDRqUl9mMHdQNG1raFBwT1lydk1XRDNDVVpCWlFVTWVfdnZhWGZYNVBKTmJMaVNBOF8tV3BvMkZOeHA4TFVXaVg0VnprcGdHTW9qWTFHYzd1TTNLd1IxS04xT0hUREpSZ2F5YVY5V1EtaTVsZjY?oc=5"
     }
   ],
   "insight": "Tracking Gartner (IT)."

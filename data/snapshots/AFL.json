@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:20.947Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:38:52.850Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    121.91000366210938,
-    123.30000305175781,
-    122.05000305175781,
     121.01000213623047,
     123.0199966430664,
     124.72000122070312,
     124.08000183105469,
+    123.58999633789062,
+    123.58000183105469,
     124.33999633789062,
     125.5999984741211,
     126.55999755859375,
@@ -24,12 +23,10 @@
     124.61000061035156,
     121.94000244140625,
     121.06999969482422,
-    120.7300033569336
+    120.7300033569336,
+    121.0999984741211
   ],
   "6m": [
-    110.94999694824219,
-    111.94999694824219,
-    112.04000091552734,
     113.62000274658203,
     117.47000122070312,
     117.1500015258789,
@@ -144,6 +141,8 @@
     123.0199966430664,
     124.72000122070312,
     124.08000183105469,
+    123.58999633789062,
+    123.58000183105469,
     124.33999633789062,
     125.5999984741211,
     126.55999755859375,
@@ -158,10 +157,10 @@
     124.61000061035156,
     121.94000244140625,
     121.06999969482422,
-    120.7300033569336
+    120.7300033569336,
+    121.0999984741211
   ],
   "1y": [
-    105.69999694824219,
     105.30000305175781,
     105.37999725341797,
     105.76000213623047,
@@ -395,6 +394,8 @@
     123.0199966430664,
     124.72000122070312,
     124.08000183105469,
+    123.58999633789062,
+    123.58000183105469,
     124.33999633789062,
     125.5999984741211,
     126.55999755859375,
@@ -409,10 +410,11 @@
     124.61000061035156,
     121.94000244140625,
     121.06999969482422,
-    120.7300033569336
+    120.7300033569336,
+    121.0999984741211
   ],
-  "lastClose": 120.7300033569336,
-  "oneYearReturn": 14.219495593789947,
+  "lastClose": 121.0999984741211,
+  "oneYearReturn": 15.00474355598751,
   "marketCap": null,
   "topNews": [
     {
@@ -422,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSlRxYzEyQTZsT1BwTU8tclhkX2hwOS1ncjVXblhTcFZaY24wQ3IzZDRSb2p0S0J3Xy1HTnFaU2dBMXcxMmtTSGEzYUVpbkdfVGlzbGtQanhDaF9WcmhnYkVTYU5BVjNjZmpMZEdzVTE5T1lJeHRlNVYydnAyZ1hmMF9lUHR0MHJFaThqZGxRZXJzcC12R3RfdjNVWW53RkhOR1ZhYjFtd1lsQ1hDMjFMN1ZvUnVBdV82bXVhVG11SE9TdmRTQmJtdmJVT3NLVmd3aG10QnhwNExYMmdIbnV0aS1ZQUVMY1ktc2FaNkdLRmNlZmpVdHRWeHVNR3VXQjVr?oc=5"
     },
     {
-      "headline": "AFLAC INC (NYSE: AFL) director sells 600 shares under Rule 10b5-1 plan - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZlY0N2w3VGtEVUlYTGZsdjVzZ0hSMDFIRXFhd3Yya0tacHZUbWtoU2pUNFJseWw1S1Y1TW9ObVZmX1NqbWR3SFJDb3EzdXQxNTgxd2xKNFJvUUl1RVNxWlNFVFM4Tnc4cy1xT0ZnUFRmN2xvRVBDdU5KSk51VnhzNnFUWm1qbUxsTUZEYjl1R1Y2d2JlTzBsSVYtZmtydE44dXc5bA?oc=5"
+      "headline": "5 Revealing Analyst Questions From Aflac’s Q2 Earnings Call - StockStory",
+      "source": "StockStory",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNmJfS1c0dTN5OWFERG54WlV2OG1SbjAzdHhkZGszNFA0TlhKam03MEZlTm5kSUMtWWl5cW4ydHFwRmNvaGdFaFRfcmR2S2hqRXp5WU1CNDNNNjEyWDVhUzlVMkYxR3N1Y0lKbUhTcG5kaWo4c2dMM2xBWFN0UU16Y3ZuUG9MUFNhNjRVWUg5RUtzWnVxczdFX3owcXMyanYzQ3hTRU5lZVJBYnd4b3VBMTBLVHRYSFEyNDlj?oc=5"
     },
     {
-      "headline": "Insider Selling: Aflac (NYSE:AFL) Director Sells 600 Shares - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbUQwa2hWWU0xUkJpdk5pZFd2TmN3ajA2aG9LYlYzdDZRMXJTaVVzR2JqX1Z2OEptd0VBQk8xQWJySUV5LXF6ekFRSGl4RjkwTkFUZmhhSllhSmNsYWtzVTlBUnh4WnA3YmNmcWNCMkFUaVNPV0Zzd25mbW9NNGFrVGtiYWhhZ3dWOTJENkZaMV9Gc0RhcTA5ek9JUS1PbW1tNUpWVExBbmg0THlMNmc?oc=5"
+      "headline": "AFLAC Incorporated (AFL) Stock forecasts - Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZCd3NOM3hGUzdXR2c2bUlYSVE0ZDFvVjRldWNBU21WdEhsN3E3YXlkeVZKSmNYLWpZVjBURHZIeGFFNnFUNldkZlViaC01WHB0VXNnclgxbmRkcU9xVW0zNGp3U1dNS1ZpY29VUU1tSV9vX3l2UDg5M3VFQVZoNDVDZXExWFJ6QUwxc2dkcF96WFdi?oc=5"
     }
   ],
   "insight": "Tracking Aflac (AFL)."

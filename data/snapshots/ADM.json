@@ -1,14 +1,13 @@
 {
-  "builtAt": "2026-08-13T03:41:20.195Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:38:52.088Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    82.04000091552734,
-    82.27999877929688,
     82.30000305175781,
     83,
     85.9000015258789,
     85.66999816894531,
+    86.19999694824219,
     87.31999969482422,
     86.3499984741211,
     85.91999816894531,
@@ -24,11 +23,10 @@
     76.58999633789062,
     80.48999786376953,
     80.45999908447266,
-    79.7300033569336
+    79.7300033569336,
+    80.1500015258789
   ],
   "6m": [
-    68.08000183105469,
-    67.38999938964844,
     67.33999633789062,
     65.43000030517578,
     66.33000183105469,
@@ -143,6 +141,7 @@
     83,
     85.9000015258789,
     85.66999816894531,
+    86.19999694824219,
     87.31999969482422,
     86.3499984741211,
     85.91999816894531,
@@ -158,10 +157,10 @@
     76.58999633789062,
     80.48999786376953,
     80.45999908447266,
-    79.7300033569336
+    79.7300033569336,
+    80.1500015258789
   ],
   "1y": [
-    59.81999969482422,
     59.31999969482422,
     59.75,
     59.66999816894531,
@@ -395,6 +394,7 @@
     83,
     85.9000015258789,
     85.66999816894531,
+    86.19999694824219,
     87.31999969482422,
     86.3499984741211,
     85.91999816894531,
@@ -410,29 +410,30 @@
     76.58999633789062,
     80.48999786376953,
     80.45999908447266,
-    79.7300033569336
+    79.7300033569336,
+    80.1500015258789
   ],
-  "lastClose": 79.7300033569336,
-  "oneYearReturn": 33.283189173656986,
+  "lastClose": 80.1500015258789,
+  "oneYearReturn": 35.11463576907629,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Wedge Capital Management L L P NC Takes Position in Archer Daniels Midland Company $ADM - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOHZPQ0xCMDFKSWtHRjU0UjN5a0puSnN1NVZ5cXI0S3FBR3BQMUktMDljZHFjVGRzcFJVTjJNekZteC1rMkxPRFU3eDR5SHB6UmQ4SWlRb1kycjJmZElNSTFQX29QeTJxS0d1QTI0emI2MUtrZW41TlIzMmZ6OWJMMGczeTNMSmpsZWphYzVVNHRWcTlvRnZUeFoxRFJLcDRWMEYxVG91MnJXc1VEXzZKeUt4Z1JEaTEtcjVRZWRpNGJlRzhWNmZFeXlvcU0xaTl0ekxGSzNJZnpSR2FpNkNUdA?oc=5"
+    },
     {
       "headline": "Is Archer-Daniels-Midland (ADM) A Bargain Or Fully Priced Now? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQWNBM0FqWmt2T1FWR1RlcF9FTl91YTM3aW9hbHRMYlAxa05jV0ZBTHdRMzd5MUY5M0dMckZ1S3JkcFNCNmZ2cFAyeUJyZUhfRFFMUE9pcVpCdDZQQWRLT3RILVExS0JKRmppRXpIc1pWOTZmcDhQbGp3ZDIxUmdSVndKX29QT0JwMV9xcnVoQTBSUTRTMWJVREZmakdkdmtZVU4xcjFNRW8taVFZbE5vMDBJZy03a3Y2bG9BekhvUjQ4WWVaazZiZEl6bkpZZkpUQVV4azZIWHhUVDFBMHVxUTU5M3PSAeoBQVVfeXFMUFpnNlBCSXRaN3UtdWJKMnJkRjlqcW5rZXlIdzRpdUo0X2VlMjBjWUdkLXZrR1dNNGpFQXo3S1FiWmJTSXZIV19nd0hZbjRGODBPalJQdnZFZEtZOElKZnJIeFF6QmFrekFCbkZFYndEQzNWT1QwM01qZTZPeXl2N3UwdDFXVFlJbFpPOGRsN3RSQTVNeUlxWTR3RWFqLUtld2xLcU9MaHBlNG9XSUxpczRTbFl1M0I0bTNmVmdCZW52OUVGb0Y0YXdNTzJHNHB0ZklmYUtaaVZ2RUowUjdURnpoZGxSUWNIZEhR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWmc2UEJJdFo3dS11YkoycmRGOWpxbmtleUh3NGl1SjRfZWUyMGNZR2QtdmtHV000akVBejdLUWJaYlNJdkhXX2d3SFluNEY4ME9qUlB2dkVkS1k4SUpmckh4UXpCYWt6QUJuRkVid0RDM1ZPVDAzTWplNk95eXY3dTB0MVdUWUlsWk84ZGw3dFJBNU15SXFZNHdFYWotS2V3bEtxT0xocGU0b1dJTGlzNFNsWXUzQjRtM2ZWZ0JlbnY5RUZvRjRhd01PMkc0cHRmSWZhS1ppVnZFSjBSN1RGemhkbFJRY0hkSFHSAeoBQVVfeXFMUFpnNlBCSXRaN3UtdWJKMnJkRjlqcW5rZXlIdzRpdUo0X2VlMjBjWUdkLXZrR1dNNGpFQXo3S1FiWmJTSXZIV19nd0hZbjRGODBPalJQdnZFZEtZOElKZnJIeFF6QmFrekFCbkZFYndEQzNWT1QwM01qZTZPeXl2N3UwdDFXVFlJbFpPOGRsN3RSQTVNeUlxWTR3RWFqLUtld2xLcU9MaHBlNG9XSUxpczRTbFl1M0I0bTNmVmdCZW52OUVGb0Y0YXdNTzJHNHB0ZklmYUtaaVZ2RUowUjdURnpoZGxSUWNIZEhR?oc=5"
     },
     {
-      "headline": "Is Archer Daniels Midland (ADM) Stock Undervalued Right Now? - Yahoo Finance",
+      "headline": "Archer Daniels Midland (ADM) Stock May Be 36% Undervalued After Raised Outlook - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbWFncUlTNkl1cG1iTlVVTEZDdUFodnlNVElKOTk4UTAtbms1V2dYNXFWWUFaYjNpMjZoejBWOTJkdmVqV0JaOVg0VnRlOE9FdTJlUkVsSTNQaS1QZ3dZZ091UkYyQTZoZnEzTlpWTTU1U1Zuck5GblFuRmhRWHBpZERQcWRXY0tSNVJYbGliU1FtQXVjT2VDWDR3bkVBUQ?oc=5"
-    },
-    {
-      "headline": "Archer Daniels Midland Company $ADM Shares Sold by PensionDanmark Pensionsforsikringsaktieselskab - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR3d4UnhlTUFhR1Vnei16cW5rdkpxaXBzLTRKZWlXX1FGM3BvV0hQeEVhNlpBQjI4LVNkeEd3ckxwUFlLM0hjWjVwT1NzenlMX1JSNzRFcUZXNFJ0SXFoaGUyUnZNdUR1ZHZjM21jVFIxblJRX3hmUVlxOVZWekJqZVZ2dnIzVGRiRGhvQkN4NEFzcnBzNzhQLTBMNWNsbUx5c0VMcHFleWJrTmpsaFZaQTg1LXpsY1dzajdTV0hLd3dEODZMWU4yUGhmenp5Si1oMGV3MEJmZVN4SkkwMFdtRGctMFFOYzhyU2F1NEZR?oc=5"
+      "when": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlB1dVlWWDFhaEliTWc0anlzTklFeXNqYklwYUUxZ0hNaXVmM2RlaEFfVlZ6amdBNlRZaFUzVDVGY1FjeUphQTJISFR5LWpxWVZWNnFjR2Z3YnV4RVhsdmMtY2x4OUhHVzg1WE1IX3lpd3o0M1FYRE93QUlzRUlvUTJKNEhUX1BOVS1WTTFma0xvdWhSZDZkS1Q3YUhTdw?oc=5"
     }
   ],
   "insight": "Tracking Archer Daniels Midland (ADM)."

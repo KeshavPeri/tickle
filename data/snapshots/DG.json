@@ -1,14 +1,13 @@
 {
-  "builtAt": "2026-08-13T03:41:36.050Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:06.765Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    123.44000244140625,
-    120.13999938964844,
     121.27999877929688,
     127.16000366210938,
     125.75,
     124.75,
+    123.19999694824219,
     120.23999786376953,
     115.16000366210938,
     117.2300033569336,
@@ -24,11 +23,10 @@
     126.58999633789062,
     122.41999816894531,
     120.06999969482422,
-    119.5999984741211
+    119.5999984741211,
+    122.08000183105469
   ],
   "6m": [
-    143.50999450683594,
-    148.0399932861328,
     149.25,
     144.89999389648438,
     146.64999389648438,
@@ -143,6 +141,7 @@
     127.16000366210938,
     125.75,
     124.75,
+    123.19999694824219,
     120.23999786376953,
     115.16000366210938,
     117.2300033569336,
@@ -158,10 +157,10 @@
     126.58999633789062,
     122.41999816894531,
     120.06999969482422,
-    119.5999984741211
+    119.5999984741211,
+    122.08000183105469
   ],
   "1y": [
-    115.79000091552734,
     114.69999694824219,
     112.7699966430664,
     112.30000305175781,
@@ -395,6 +394,7 @@
     127.16000366210938,
     125.75,
     124.75,
+    123.19999694824219,
     120.23999786376953,
     115.16000366210938,
     117.2300033569336,
@@ -410,29 +410,30 @@
     126.58999633789062,
     122.41999816894531,
     120.06999969482422,
-    119.5999984741211
+    119.5999984741211,
+    122.08000183105469
   ],
-  "lastClose": 119.5999984741211,
-  "oneYearReturn": 3.290437454416526,
+  "lastClose": 122.08000183105469,
+  "oneYearReturn": 6.434180539815264,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Dollar General Stock: Analyst Estimates & Ratings - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Dollar General Stock: Analyst Estimates & Ratings - barchart.com",
+      "source": "barchart.com",
       "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUlKODRQQUJ5cjdaNWZSc1g2MXl3Z3ppZ3hWcGtnTU5xWmw4VG9QR29wRUNQODJ5Z3pjdS1WUXB1VXV6bks0RFkzd1IwbDRRQnY2ektObWloRmhsZjVUbkdCLUM4NnViVWZfZHNJdF9LZmlHMFpuWFRoTU5wci1RZ2ZPWDhoYUtPUmxOSThQZ3JKWXZRRjMyd0pDdXljNWVRNFhtVVhB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzFXZFNKUmN2aTJjbzZ1dUxTaHBwYTk2UkN6NWlxb1BNM3IySmVPRG1YNmpLN0V2OGFuVTV0ZndPLWxjTmdEN19XZjNHMkZMZlgzMzA0dG4yZXRQSTB4OGRhbGE2SFVKWDhPTXdpam5laUFmWktuYlZMUDI3THR0REg4TWk2d1llZnJndVMxQ1JMZm1q?oc=5"
     },
     {
-      "headline": "Handelsbanken Fonder AB Purchases 97,888 Shares of Dollar General Corporation $DG - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV1lLUTJ4NUlUSnhDdWlkR3lHcE5aX1huQlE5YUlodjMwRGd0cVRWTEU0NXRmOEdOaWJ1blEweXpSSDZMZ3JvVkhjYm5RbXY0SVdWVTRSZHliSjBYWFRpRXJ1dmJQQ3dEUDhTeHlXMjlZbVBrYnRFVm5pZGRvTmN6bVNyam5oYUZKOXR2c2ZZRHVwRlhYS2liTXVaczZJVVVScHFHVElVSTFoUWpXR3dLTmVSRG1DMUlGSllsQ0x3VlFtV2hxWXYxOWZ3TmdmdUU2a0Q0N3pYNA?oc=5"
+      "headline": "Dollar General (DG) Flags Customer Pressure, Is The 9% Undervaluation Enough? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObnBHR3JBQVVYUk5RRGtWZU8tOGZLYU1lSU85dFFUQjZyUXVJRVZXUFdXUlFUdk1WOUdSeVlxcFJDSk9ody1YSUxFV19QX1JLUnhwUXc4RXE2ZmVRQ0FFVWlqS21VcVJVQnotX3J4aVRfaXhjeEppbUNoTjVJdjRyWTV5Uk5VOEpSaGZIalhUbDdLd3o5a1hsXzV5UzdKTDVwSHloVWtrQTFlM2dpNVpBZUZfd1diQlRkNjBxYTVaVjhUbW1Nd1NqWEVfcUVfMW5FTmdheWRn0gHbAUFVX3lxTE51X19SdFJBU0R6SkdZS1RKU09MaU9SVks4UG9Dc1N3NnpxM2VvVjl0dTJiSXdIcXBRUlBHTzlENDd4TllkdWNqaXVwMzBWSXkwQlVNaHZWdDVUbm4xQlhxQXFiZm1DbHM4aG5IakltSmg3cnFKZnFTdEwzc3oxM082VHRNaFdaWUJweWNxdHlTaS1VaG9BeUpFZUVmM0dGdlE3cEJfTExjNW9rRmwybEQxN3g1SXFRVVJzOEo2WEJ1cVhVYWpjR0lyMzhjdGEwNXZOcW9LNnNjMjM3QQ?oc=5"
     },
     {
-      "headline": "Dollar General Corp. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdE1pMXJUaDVnR0I0bVhJc0NGazRleWx2T0xSc1FxSmUyM2x4eHgyOHdTV20wMzFmZUI3TFJjd0ZDbmJ2ZVhWaUR6dkw3QjY5WlE1VGVORUlPUU45azJFc2JmWmgtdGRuUTVJa1FiS1FxUi1yTWVhME9LSkFqbVFhbm1qWDBDTGJJRUNrdGMwalBoMldneHV2aWJqRWtmMk5HUzBFSW5VZWhOT1N2bHV4OXFjLVZPWTh4YkV5TkV0dFpScG11TTVxb3RYdnZ3ZDla?oc=5"
+      "headline": "Wolfe Research raises Dollar General stock price target on turnaround - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa3I5MUo3LVh0dWg5ZTF1Y01mMDB3SGFwS1lCYXZxUG5CS3VoMmp6YlVxUlF1dTNTNjBZdUhzeTFxQzZxTmNSenpzc291M0FaTlVHVVBNZFRXa01tRS03eGJmY1V1WTkxVURpbzZCajEwUm1aenRHVTBIb2pBSFh1cDd5YW5PT1BfNVVVb216Yko0MmRRYW1ZUTlyYmdCblM4dHBrOVBWbmdVQV8xdG1pcTkxbmdvblJIVlNRMElORUdfSEFFLXhfa0RFb01MaG85NC00?oc=5"
     }
   ],
   "insight": "Tracking Dollar General (DG)."

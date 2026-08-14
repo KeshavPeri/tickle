@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-13T03:41:42.963Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:13.535Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    49.540000915527344,
     50.36000061035156,
     51.720001220703125,
     50.630001068115234,
@@ -24,10 +23,10 @@
     52.40999984741211,
     52.220001220703125,
     52.720001220703125,
-    51.560001373291016
+    51.560001373291016,
+    55.5
   ],
   "6m": [
-    58.119998931884766,
     59.720001220703125,
     58.439998626708984,
     60,
@@ -158,10 +157,10 @@
     52.40999984741211,
     52.220001220703125,
     52.720001220703125,
-    51.560001373291016
+    51.560001373291016,
+    55.5
   ],
   "1y": [
-    134.2899932861328,
     134.6199951171875,
     136.6999969482422,
     137.05999755859375,
@@ -410,29 +409,30 @@
     52.40999984741211,
     52.220001220703125,
     52.720001220703125,
-    51.560001373291016
+    51.560001373291016,
+    55.5
   ],
-  "lastClose": 51.560001373291016,
-  "oneYearReturn": -61.605477733972556,
+  "lastClose": 55.5,
+  "oneYearReturn": -58.772840578632525,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Fiserv Reports Second Quarter 2026 Results - Fiserv",
-      "source": "Fiserv",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUtGQUlTVGE2RExIUUFZazk0bGdoUFVoem9aWUFTN1hNSU5lX0JhNEp0NjA0NVZWVkNQeTlWbGY2WGdUYmtfSEUzQzFCRnZsV091NDRNX0ZiYWFjZHkwVmdwRzkxLTB1bWY1dGhVYVgwYzlWTVVvUWxKTXctbmpGTnBYZlJWV2lpQkh2cVI5M3FKMEk2Y2NCWHJKWEM3dkZzdDREc2lWNi1iZw?oc=5"
+      "headline": "Why Fiserv (FISV) Stock Is Up Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJZVhMMnVvX2FJMUpTMmE0UzMtbWxkYnhGdXlpOFNIbUJXMW9JZWt6TTB6Tlg2RUNFaEZqUDJYZGh1dHc2X3JCcG9Eb1kyaV9NYXJqLWNNR1pZSlNWR2VOcWI5X2pXaXA4eXJwZ19ZRXM4N3JfUjAxemxvN1M?oc=5"
     },
     {
-      "headline": "Fiserv seeks investor lawsuit dismissal - Payments Dive",
-      "source": "Payments Dive",
+      "headline": "Fiserv seeks investor lawsuit dismissal - paymentsdive.com",
+      "source": "paymentsdive.com",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0ZiYXJRWHBsdlhzTDJTVGlQTVdySDAwWU5YU1RWWGdBNmc5UjJKWHRHV0puU0htaGpuUEFrRXJEeXFtd2lISVEyOUhGREFURWh2OFAwUWtrRTBBbUNVeW1jV0d5MTBWbnF3cEZOYzFKRUhwMnJUTTd5M3dfQ3B0dEdxM0J3WlNoaDJsZ3QtVmFPR0RTOFVVb1pZRkZLMlExNjFpV2hCV2Q?oc=5"
     },
     {
-      "headline": "Michael Burry Stays Bullish On FISV Stock Despite ‘Thesis Violation’ Triggered By CEO Exit, Buys The Dip - stocktwits.com",
-      "source": "stocktwits.com",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOemFaTXJlX1hqOFRqLUVZNEh6NHJDc0lsSVNvRjFwd1NiTTdNZmppSVJqS3RrUm4yekg4MWVBY2NJeHV2eWtsZERzbUdNazEyYTE1MVpyRlJUdS1OaDNxdDg2QmljT0k0SkN4M2o4UDRLdm5tZ2w2a0VDNDl2bFRPeGhHSWpiaVpWejl0Tmd6VDRRdlIwb24zTVRkSk84T1BSOUM0NUJGcURuaXNmMEVmQmtrVURfTFFDSXpQX2VBX0s5amlzZWttdUZR?oc=5"
+      "headline": "FISV Stock Tumbles Pre-Market — Why Are Investors Disappointed? - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmlGdlFMUjg2VnY4Vkp6X3VZenRxV0xoM29pLWJzcHJQaktwWDVBaWxtNEV4NXdUSW5hYkNmQmhiMkFyN19PZmxrQzZ0eWZRdVEzd2FVUTdIaUx1TXZPNzUtMXJXZHRubzhnb3A2cF8wZUJxLTdHMkYxZ1BRRmZSeXNvT0RaWHN0RHJzd0tIYXYxS0V5YUtUVmRVb2tleXpYSTdXMUFSdFZfejd5cjZwM1BPOA?oc=5"
     }
   ],
   "insight": "Tracking Fiserv (FISV)."

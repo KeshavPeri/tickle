@@ -1,14 +1,13 @@
 {
-  "builtAt": "2026-08-13T03:42:08.394Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:37.864Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    87.66999816894531,
-    85.29000091552734,
     87.51000213623047,
     88.06999969482422,
     87.51000213623047,
     86.33000183105469,
+    87.73999786376953,
     86.41999816894531,
     86.19000244140625,
     86.30999755859375,
@@ -24,11 +23,10 @@
     87.25,
     87.5199966430664,
     87.44999694824219,
-    88.93000030517578
+    88.93000030517578,
+    88.11000061035156
   ],
   "6m": [
-    92.2699966430664,
-    92.30999755859375,
     93.13999938964844,
     92.01000213623047,
     93.97000122070312,
@@ -143,6 +141,7 @@
     88.06999969482422,
     87.51000213623047,
     86.33000183105469,
+    87.73999786376953,
     86.41999816894531,
     86.19000244140625,
     86.30999755859375,
@@ -158,10 +157,10 @@
     87.25,
     87.5199966430664,
     87.44999694824219,
-    88.93000030517578
+    88.93000030517578,
+    88.11000061035156
   ],
   "1y": [
-    77.88999938964844,
     79.41000366210938,
     77.0999984741211,
     77.44000244140625,
@@ -395,6 +394,7 @@
     88.06999969482422,
     87.51000213623047,
     86.33000183105469,
+    87.73999786376953,
     86.41999816894531,
     86.19000244140625,
     86.30999755859375,
@@ -410,29 +410,30 @@
     87.25,
     87.5199966430664,
     87.44999694824219,
-    88.93000030517578
+    88.93000030517578,
+    88.11000061035156
   ],
-  "lastClose": 88.93000030517578,
-  "oneYearReturn": 14.17383618184308,
+  "lastClose": 88.11000061035156,
+  "oneYearReturn": 10.955794669473622,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Wells Fargo (WFC) Taps Debt Markets, Is The Stock Still Below Fair Value? - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Wells Fargo resets Microsoft stock price target for 2026 - thestreet.com",
+      "source": "thestreet.com",
       "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkZpbnFINEFFN0gzUm5uRWZTWVIxY0pHTDNGc21OS3hnWmp4a0RnQzd2OGlwMVROQVNaR19ZbUp6UUJDZzZad2c1U3FwRms3eXZIUEdhOGVPR3doNnd5b2JZZmMydkc0OXQ2dEprUXRwQlZheE5nZHEtc1E2cjJDWldISnpqNHJDN0dIc0ExX3NYTGxLR1pmcEp3SU12eHpuTnc2SWE0LVlHdlNDcWEwNjRnVXRlSkV6Slhtckx5clZpUdIBxwFBVV95cUxQc05JX3Y2cGJleXFEN1VKd3BmVHpjZlFfUXMxbWpyNEtYTVhjUkhQdEw1UFRJdXFibmFMVXAzeV92WGRHWXlWSDNLSVBtdm1kWDJVTGtQNUFUTU91SXRBY1BoNkhVLThNUXF0NUkzWThBNXdfZVNHOVJ2Q1hHU3E1TGxDWUNMcDdWdWtmOTAzLWl4ckNYUWpkOHhuSFNISlVHSExoM2c3S0ViM25MaklZZDhkbUoxUVd1d0xBaHlLTDd4OWhvYXlz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFdIZUVDQi14TEhYUXhtN2N3S3RackNfMm9uWTZJdllZSDdMbkZFV0JPTGk4b3hPY2hiN1ZBVnE4dGJYaDN2eU9iSjhkQk5YakRMLWtXUnoxWFlzZlk4a0xRY2ZGUW1IeU9BQVVGRkxKSVNRM2E4bGdncGNxRm5OOVJPa3hiYVFrdzhvc0RHZUl4OTlNV1Z1S0JrQmhhVFB0?oc=5"
     },
     {
-      "headline": "Salesforce (NYSE:CRM) Stock Price Expected to Rise, Wells Fargo & Company Analyst Says - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUVBWMmVwTzN4dzJNQjVZcnB4QkhQVlpjeXZFam9xQlUtRWZfM1p5bUZ4OVNjT3FSTTd2RURoTTVkcktScGpiMUFLRDk2YUhDMGdfV0Nwemk1am0xcXJEdlQ3SWhmUEZTajI1N2NMOThaVU5HUG9SU1NrLUpWOGIxcmw0R0hTWFE4VmE5cnM1VFh5aHRPLU1telpPeEpxOEdHVVJubldDa2F0ZUtHdm5xdHg1YmJxNmt2aUtCQVZQdDdmUzIySjk4RDRuT2pEWnM?oc=5"
+      "headline": "Workday stock gets Wells Fargo upgrade, target raised to $215 - eciks.org",
+      "source": "eciks.org",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HVnFwanBrTXU0eTZFMDJpT0U0c3hGY0pZb2MzTEdyeV9yYXU4cXBDbjR6NWhjRFdqU2lmRzFOeWk5RGI1QThudXpLNHhZWjZ0VFNpNHRyQ2ZZV0RickM0cnozNGdGdGMwUi1iMzNkUQ?oc=5"
     },
     {
-      "headline": "Wells Fargo (WFC) Stock May Be 25% Undervalued On Tokenized Deposits Launch - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVBiWEhZTS1ZaDE2VUdkUFZKVlhEU2twNndkYlRIU2ZUMTRJaW9aal9oQkFVdGtCVWJqWVdkaU9RU3loRE1hdXZoU3p1OXRkUC1xQ3AyLXIzMk1ZU1AxOWlodFZOLUR2WGtac2ZTaGJBVmZhZ09WOHhKQkNkUGFPcXJDOWZPN0x4TUdZbThZMGdWeDl5?oc=5"
+      "headline": "WFC Stock Gains 20.5% in 3 Months: Buy, Hold or Sell the Stock Now? - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0hnZFExaS1GMk0zWkE2MHNkNEpnRnZXcGFKYS1zZGFEcXZPdktpSEFNRWZCYm1RVGhuZHRHV0w2TC0xRlcwM3h0cXBIZWcwdll1azU5VUN6ZF9hbkwxc2hoU1Rwd3ZNN0NXUHVhX3V4UGM3c1I4R1A3bDB0TXgwT2VGQnhIM1loWE9pT1Q5bC01S084QURjRTEyZlVUeHhnYXI4dF9UOUpQcmVPNGx6dXAzZEhxeng4OUxR?oc=5"
     }
   ],
   "insight": "Tracking Wells Fargo (WFC)."

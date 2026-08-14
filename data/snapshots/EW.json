@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-08-13T03:41:40.965Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:11.695Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    92.20999908447266,
-    91.79000091552734,
-    90.08999633789062,
     87.2699966430664,
     87.83999633789062,
     85.7300033569336,
     85,
+    84.55000305175781,
+    84.37000274658203,
     83.81999969482422,
     82.62999725341797,
     83.04000091552734,
@@ -24,12 +23,10 @@
     89.72000122070312,
     92.02999877929688,
     93.66000366210938,
-    93.05000305175781
+    93.05000305175781,
+    92.55999755859375
   ],
   "6m": [
-    81.36000061035156,
-    82.6500015258789,
-    82.0999984741211,
     79.7699966430664,
     78.0999984741211,
     78.70999908447266,
@@ -144,6 +141,8 @@
     87.83999633789062,
     85.7300033569336,
     85,
+    84.55000305175781,
+    84.37000274658203,
     83.81999969482422,
     82.62999725341797,
     83.04000091552734,
@@ -158,10 +157,10 @@
     89.72000122070312,
     92.02999877929688,
     93.66000366210938,
-    93.05000305175781
+    93.05000305175781,
+    92.55999755859375
   ],
   "1y": [
-    77.68000030517578,
     78.18000030517578,
     78.26000213623047,
     78.30000305175781,
@@ -395,6 +394,8 @@
     87.83999633789062,
     85.7300033569336,
     85,
+    84.55000305175781,
+    84.37000274658203,
     83.81999969482422,
     82.62999725341797,
     83.04000091552734,
@@ -409,15 +410,16 @@
     89.72000122070312,
     92.02999877929688,
     93.66000366210938,
-    93.05000305175781
+    93.05000305175781,
+    92.55999755859375
   ],
-  "lastClose": 93.05000305175781,
-  "oneYearReturn": 19.786306238670207,
+  "lastClose": 92.55999755859375,
+  "oneYearReturn": 18.393447425538017,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Wall Street Bullish or Bearish on Edwards Lifesciences Stock? - Barchart.com",
-      "source": "Barchart.com",
+      "headline": "Is Wall Street Bullish or Bearish on Edwards Lifesciences Stock? - barchart.com",
+      "source": "barchart.com",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWnVEeGF0LVJPb0RxN1hxc3dkcUFZelFTbnpXcnR0WjhmOHFSZWh6SGo1Z0gwa3RRbDB2dFZYZVlwa0xUeHNraFJGNWtmR2hERWtTeDZLbzNDZDR0cWZMWmJSVnE4VmFVRnBDdW9BNDJmUTdINzBXdjV6UGk3ejBERElQcWdhYzZwbnVIWUZzVG9CbjREZjJVSHM3YUdmd0QzWjNLeTMxRzlzeWc?oc=5"
     },
@@ -428,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2xDeWd4SDBPS3ZwLUZwTUVnSmZPRlFjeGVPNXFBMG9XQmx1SldlNXlYYm5xa2xjLVBqcWFBZ2w2Q2ZsRG9ZcWF0cWNrMWdhRXBMVmNOQWhrbHQ1SWpoLWRsbEFqVnE1SVNHamp4WnNhYTZIYkpjSi1UM1ZLSTc5Q2dZUjlldlkzaDhKS1ZNM0cwNjhnQWxraElLVndlUVdrejhEYXJXRFZPdjdqS2V3bUtlLVdqQlBxemc?oc=5"
     },
     {
-      "headline": "Edwards Lifesciences (EW) insider files Form 144 for cashless option exercise - Stock Titan",
-      "source": "Stock Titan",
+      "headline": "Daniel Lippis Sells 619 Shares of Edwards Lifesciences (NYSE:EW) Stock - MarketBeat",
+      "source": "MarketBeat",
       "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHpSd09KRVhzNy12SkoyVFpEQTVOcmViVWVxM2tDT0dLRjYzbTR5WDdZQmcyS09TbW5aY0h0SUVRc0tURXhFMDFucHQyRHVGVjMwcTl1cF91LVB3SDM5VEIxY3RoZm5hS3ROWEd0LXFRdU5IdkIxeXphTGFTWFdrVEJ6MGtBelR0R0ZqeXpERzNXTTg3a0ptM1FkLWR5NnJXY2c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTRYUWFBckdLVDVxbWJhYzZ5YnVGMFZVSGlzVnhYUUQ1dWcydXotVjZ4dW5XaURVWHJWZVp5SktLeHBsSVJvaERsTi1hU3pjMW90cGZFdndodC0wSHJ3Ty02SzJCV1N6cFpfcnMwWXVZZ09ybTB5WnBlcldfTGgwcmNmN3NMcnZyWEFrcUlaRGR2MXRIUDYzeVprMUxZaHU4RzFBaF9iMWs2Xy1uNDZ0bkJEckpJN1FZV3RqMC1n?oc=5"
     }
   ],
   "insight": "Tracking Edwards Lifesciences (EW)."

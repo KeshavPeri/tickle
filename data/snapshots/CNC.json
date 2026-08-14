@@ -1,14 +1,13 @@
 {
-  "builtAt": "2026-08-13T03:41:31.659Z",
-  "builtDateUTC": "2026-08-13",
+  "builtAt": "2026-08-14T03:39:02.926Z",
+  "builtDateUTC": "2026-08-14",
   "source": "yahoo-finance",
   "1m": [
-    68.29000091552734,
-    68.72000122070312,
     66.61000061035156,
     63.88999938964844,
     66.44000244140625,
     65.83999633789062,
+    67.58999633789062,
     65.88999938964844,
     63.7400016784668,
     63.40999984741211,
@@ -24,11 +23,10 @@
     65.7699966430664,
     66.56999969482422,
     64.87999725341797,
-    67.06999969482422
+    67.06999969482422,
+    66.04000091552734
   ],
   "6m": [
-    42.79999923706055,
-    42.5099983215332,
     40.959999084472656,
     39.91999816894531,
     38.459999084472656,
@@ -143,6 +141,7 @@
     63.88999938964844,
     66.44000244140625,
     65.83999633789062,
+    67.58999633789062,
     65.88999938964844,
     63.7400016784668,
     63.40999984741211,
@@ -158,10 +157,10 @@
     65.7699966430664,
     66.56999969482422,
     64.87999725341797,
-    67.06999969482422
+    67.06999969482422,
+    66.04000091552734
   ],
   "1y": [
-    27.06999969482422,
     26.93000030517578,
     28.489999771118164,
     28.989999771118164,
@@ -395,6 +394,7 @@
     63.88999938964844,
     66.44000244140625,
     65.83999633789062,
+    67.58999633789062,
     65.88999938964844,
     63.7400016784668,
     63.40999984741211,
@@ -410,17 +410,18 @@
     65.7699966430664,
     66.56999969482422,
     64.87999725341797,
-    67.06999969482422
+    67.06999969482422,
+    66.04000091552734
   ],
-  "lastClose": 67.06999969482422,
-  "oneYearReturn": 147.76505523067294,
+  "lastClose": 66.04000091552734,
+  "oneYearReturn": 145.22837046843574,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Insight Wealth Strategies LLC Sells 23,735 Shares of Centene Corporation $CNC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVTN4RW9DS2ZGZS1yakh4c052TFhYd2R6Mk1hWFFSMzZybjVfQ3dHczRDT0pRZnhFejd3QXVSRG96MlVhdWV1ZmtJdXJCWUdybWQ2c2EzOUQ1V2NyaTBuWG42RXRWMHpvVW9zNmVrRVJkbFoxc0dlUUtzSGFJUlRzeWZUTGhxTnVDdVVDWFhtZWFmaXJjclJrTGtCU2tOeVhEVWRMaXhvVEZlSnQwMGc4ZjRXMnRIREpMaV9wd0V6eGIyNU02RTM4WVlpc1V2SFdmckE?oc=5"
+      "headline": "CNC Stock Falls 4% As Centene Reportedly Eyes Employee Buyouts Amid Membership Decline - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUpGYjBZTWlENFFuYzAxMkpfYjRKSFRqMFRicDBENm9fX1FZakRoZm9mU3NQWTQwYV84OW5yQklnWUZMMXNnUy1IMzlIcHMwdENiX3Mxcl9sbzQxMzA5ZGlVZ2h1R3o2NkhHb0JqZTZkV29xdm1fLV9fTFFYaldOTVE1Z2xqN2NtMENjemY5dHllSzRDZUpBV1JSNkpzc2xPX3ZneGNVZkdKbDZKVVM0SDlZNHh5WE5rTkc3SlBhZ2hFa1h3RUQ2d2FBNWRoSGh1WmpZTm9tZTdGVnB2TGJIag?oc=5"
     },
     {
       "headline": "Is Centene Stock a Smart Buy Ahead of Q2 Earnings? Key Estimates - Yahoo Finance",
@@ -429,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRlFDNC1kcHlIYjE2aXpMNk1EUVJtSEVyNVNHWDdhRXo0MmtYZVAzZnFkak9YdFNncEFTT0hNQk1MWjNkMUNPYnVkcVM2Y3ZTMU1aMjVFWklrYThHZ3RWNjFiZzZua2xsSHJ1ckNiSjZsZ0cxdGFpTmdDM2RsbHhuUkdSbmw5NFFhWm96SmU4bFkzNmdW?oc=5"
     },
     {
-      "headline": "CENTENE CORPORATION REPORTS SECOND QUARTER 2026 RESULTS - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcFRabFhhTHNGLWx4RkNKVG9qWkRJWWo3OGljbjAwQ2QyMlhYeDNYSnJWS0xrZ0tCOHc2NFJRSFVfWmxxcEp2OGNBNVZ4ZGl5U25QWVFfbHY2bzNaeHh6LXRUczZ5VDNQdmkxdjl5Smd5MlJpZnNZNTJVanlNampyLXVEcnRESEdQTVBmdXVnX2dvOE1Mc3R0RDREVzJ4eWROVzUzNzU1VVJFaC1ISWdjQw?oc=5"
+      "headline": "Insight Wealth Strategies LLC Sells 23,735 Shares of Centene Corporation $CNC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVTN4RW9DS2ZGZS1yakh4c052TFhYd2R6Mk1hWFFSMzZybjVfQ3dHczRDT0pRZnhFejd3QXVSRG96MlVhdWV1ZmtJdXJCWUdybWQ2c2EzOUQ1V2NyaTBuWG42RXRWMHpvVW9zNmVrRVJkbFoxc0dlUUtzSGFJUlRzeWZUTGhxTnVDdVVDWFhtZWFmaXJjclJrTGtCU2tOeVhEVWRMaXhvVEZlSnQwMGc4ZjRXMnRIREpMaV9wd0V6eGIyNU02RTM4WVlpc1V2SFdmckE?oc=5"
     }
   ],
   "insight": "Tracking Centene Corporation (CNC)."
