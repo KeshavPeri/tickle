@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-14T03:39:17.272Z",
-  "builtDateUTC": "2026-08-14",
+  "builtAt": "2026-08-15T02:33:48.565Z",
+  "builtDateUTC": "2026-08-15",
   "source": "yahoo-finance",
   "1m": [
-    378.8500061035156,
     385.739990234375,
     371.17999267578125,
     370.4200134277344,
@@ -24,10 +23,10 @@
     414.0299987792969,
     411.44000244140625,
     414.5899963378906,
-    411.739990234375
+    411.739990234375,
+    404.67999267578125
   ],
   "6m": [
-    493.6400146484375,
     513.760009765625,
     501.69000244140625,
     497.5400085449219,
@@ -158,10 +157,10 @@
     414.0299987792969,
     411.44000244140625,
     414.5899963378906,
-    411.739990234375
+    411.739990234375,
+    404.67999267578125
   ],
   "1y": [
-    393.6499938964844,
     395.7900085449219,
     393.6199951171875,
     402.69000244140625,
@@ -411,12 +410,19 @@
     414.0299987792969,
     411.44000244140625,
     414.5899963378906,
-    411.739990234375
+    411.739990234375,
+    404.67999267578125
   ],
-  "lastClose": 411.739990234375,
-  "oneYearReturn": 4.595451954369301,
+  "lastClose": 404.67999267578125,
+  "oneYearReturn": 2.246136572154112,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "HCA Healthcare Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQ3VJQVhTYjMyV2tLU29jbWdNOVlmWkw4UEl4SWpDR1JhUk1KNUxIb1ZjYjJoN2NaR1VaZ3hYbWhNeGQzandaaUJDcWd0RnBPTTFXcGxLQW1iaTFsQUJuSzlubjdwVlN4ZHJYMm9wck5nT0c4RmF6U1RnVWk5dzJBZDNzeHluQ2tZb09wdkdJbGx0LXNLaW1BRDc1Y0xrN2FoLVI0d0VtNmsxcnBycWhPNWQ0QWcxdWpKdVhGQ3RPX1hmdjZuUnV0dUFPQVkyYzlJMW1HSjFtbkt6N2JsMlpNVTRPWTctTjA?oc=5"
+    },
     {
       "headline": "Could HCA Healthcare, Inc. (HCA) Stock Rebound After Guidance Cuts and Payer Pressure? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -427,13 +433,7 @@
       "headline": "HCA Healthcare (HCA) Stock May Be 49% Undervalued As Wage Pressure Builds - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeUYwLUE1LTNzMlBiQVVpeTB1T1VXN0l1Wkg3Y2dSVnVGX19PZENvWnp3MW9INTRXcGtqdVVTWm9va0NGVlQ2Z3cyUGZScXZMUmh0d3VmQnoxS3NRSmE2dXBFQV9KQnMwT1diZDU0TkgzZV9EWFVGTVpESlJaOFV2djYyRzJ2aXFlUC16WHpvOWQ5ZTBqNDl5ODVwUl9QTFd5R1hvOGNXV3RVRmZBMkxtRzBZdWJ0MzNMdmszS0ZxRmU3MFpncXZxVzdPb27SAdIBQVVfeXFMTkQwM0VPdWpoZFFmT09ic0NHYXdYenZlaTFla3I4VVdVUGJaNmxtLU9WWllGT0M1cmpTWTZXVlVmZ05nU2t6LU1NanUybUJYdVlCLXlQc2FNXzQzV09MQk1YbXQ5Nml0eEdoUnl4eFpJVzQzNGJQcGZtVjkwdXVNWmd5S3RPaGFMSzZEYWVSQU1ZRERYNDUtdk9nXzYzN3ctWXJQaVRaTVZqMkd6NS1NREQzUDJZNDMzcHZYakRHQXVHeVFJTW91UGVPRk9LN1FDeXF3?oc=5"
-    },
-    {
-      "headline": "HCA Healthcare's H1 ACA volume dropoffs 'almost one for one' shifted to uninsurance - Fierce Healthcare",
-      "source": "Fierce Healthcare",
-      "when": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZXRUUXhtTTZpdy02eEJRWEFycTdldzBuODd5ZFNzZTdRRWJsVEF2c0ZDTXlSYnZCU3l2M3dvSXNPLWQ1WGthM2FSblhnWDU5VVM3amtWdkxwUlhzdVI5SERKeUlmbzVUUWJ6VUxCY1ZWdmdCNzVHb3E1N2tuVDJrbnZhdU9INk9UdjRLRWdieHA3OUkxOWdqQy0wc2NybzUwLWJzOExESmdKUlpRa0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORDAzRU91amhkUWZPT2JzQ0dhd1h6dmVpMWVrcjhVV1VQYlo2bG0tT1ZaWUZPQzVyalNZNldWVWZnTmdTa3otTU1qdTJtQlh1WUIteVBzYU1fNDNXT0xCTVhtdDk2aXR4R2hSeXh4WklXNDM0YlBwZm1WOTB1dU1aZ3lLdE9oYUxLNkRhZVJBTVlERFg0NS12T2dfNjM3dy1ZclBpVFpNVmoyR3o1LU1ERDNQMlk0MzNwdlhqREdBdUd5UUlNb3VQZU9GT0s3UUN5cXfSAdIBQVVfeXFMTkQwM0VPdWpoZFFmT09ic0NHYXdYenZlaTFla3I4VVdVUGJaNmxtLU9WWllGT0M1cmpTWTZXVlVmZ05nU2t6LU1NanUybUJYdVlCLXlQc2FNXzQzV09MQk1YbXQ5Nml0eEdoUnl4eFpJVzQzNGJQcGZtVjkwdXVNWmd5S3RPaGFMSzZEYWVSQU1ZRERYNDUtdk9nXzYzN3ctWXJQaVRaTVZqMkd6NS1NREQzUDJZNDMzcHZYakRHQXVHeVFJTW91UGVPRk9LN1FDeXF3?oc=5"
     }
   ],
   "insight": "Tracking HCA Healthcare (HCA)."

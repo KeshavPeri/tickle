@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-14T03:39:38.232Z",
-  "builtDateUTC": "2026-08-14",
+  "builtAt": "2026-08-15T02:34:05.994Z",
+  "builtDateUTC": "2026-08-15",
   "source": "yahoo-finance",
   "1m": [
-    255.1699981689453,
     265.0400085449219,
     267.3999938964844,
     264.69000244140625,
@@ -24,10 +23,10 @@
     378.0799865722656,
     383.05999755859375,
     378.3699951171875,
-    379.6300048828125
+    379.6300048828125,
+    376.0299987792969
   ],
   "6m": [
-    245.25,
     241.0800018310547,
     251.39999389648438,
     257.7900085449219,
@@ -158,10 +157,10 @@
     378.0799865722656,
     383.05999755859375,
     378.3699951171875,
-    379.6300048828125
+    379.6300048828125,
+    376.0299987792969
   ],
   "1y": [
-    327.7099914550781,
     317.8999938964844,
     317.4800109863281,
     312.05999755859375,
@@ -411,29 +410,30 @@
     378.0799865722656,
     383.05999755859375,
     378.3699951171875,
-    379.6300048828125
+    379.6300048828125,
+    376.0299987792969
   ],
-  "lastClose": 379.6300048828125,
-  "oneYearReturn": 15.843280577806695,
+  "lastClose": 376.0299987792969,
+  "oneYearReturn": 18.28562629722509,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Zebra Technologies to buy Motorola division for $3.45 billion - Crain's Chicago Business",
+      "source": "Crain's Chicago Business",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0tJZ0FNc0RWQ28zMG9aN3h2RDh0aWpuVDZRRGEtM3hjUEs3NHhHbTltOTVKMnFMYVI2REFVQzBHS2EzMGw0eUxzX1lvbUNxcjk5cHFieW83Ql9nWjBkYmxhNU5BV2RKSUFleGNNRW9McHJlQVFka2VZaGlWWkpJSGU4MGZrVFNDQ0lJYk9mUHBnT2FvcTVJWWh0SG10SXkxU2RiM0w5d3NEaS02N08xTjVMYWU5RzNaUEE?oc=5"
+    },
+    {
+      "headline": "Handelsbanken Fonder AB Has $13.68 Million Stock Holdings in Zebra Technologies Corporation $ZBRA - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUi1vbkVUcTFOQXlPcHpORUg1a2pORDBXQWl1V3ZCQVBocXlxeENyeXVCcWdXOG5sRklDUVJCVjhjc0FTOHBrR0psVlVxb1BTT3YzMXNaWjA3UTlLNmUyNF9IQ1ZBRWp3d1VwM3hfbW9GR0gtcmJjS0tTckFRemtDX2lJN1hyTFNydldRam5zQ0diQnhxcHlud3lETWc0OU5CUG1xQXo0UGtZNzRuZHJYd0ZOYnhNTXh1dTdRVjZjbDV6SDJacDg4U2VqbFg2Mi16ZF80b3dleHozSUlGVWtUUk5jRk9hdjBXVmVz?oc=5"
+    },
     {
       "headline": "This Insider Has Just Sold Shares In Zebra Technologies - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTTFQOWNkdmI5eXN3TWRXQ0NyaU52RUZmVTRSa2FDaFdPcVEwNTN0XzN4SnlWNzBlT3NwV1BVZlpMbzItYmZZZGVDLWZVM3FRZGV6d29mcTkwZktBVU9CMzhKR1hwTVZra0NwOTNzcWdtZFB1Q294R2F1T1F4dkRtSW5ENW9OZGVXLVVURkxNdlZNeVphLTRYZXBfdE9CUWZ1Yk9uWU81TjlIRkt2TU5OWTRaeUNOY1NSUHc4eUN2TnhzazBpdm9nUmFLVXbSAcwBQVVfeXFMT00xUDljZHZiOXlzd01kV0NDcmlOdkVGZlU0UmthQ2hXT3FRMDUzdF8zeEp5VjcwZU9zcFdQVWZaTG8yLWJmWWRlQy1mVTNxUWRlendvZnE5MGZLQVVPQjM4SkdYcE1Wa2tDcDkzc3FnbWRQdUNveEdhdU9ReHZEbUluRDVvTmRlVy1VVEZMTXZWTXlaYS00WGVwX3RPQlFmdWJPbllPNU45SEZLdk1OTlk0WnlDTmNTUlB3OHlDdk54c2swaXZvZ1JhS1V2?oc=5"
-    },
-    {
-      "headline": "Zebra Technologies (NASDAQ:ZBRA) Upgraded by Zacks Research to Strong-Buy Rating - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZElGTkMxTFVmdUNPMDVncXpOeEZEWGwxSVpDbU1NYmREUnRfM0FmaWhac2pUZXNBTHk0Q041bXN1UGhRamZRQmFWQnF6cUdBUkRLQUxFVzA4c2JZc0VJVFYxS1VpY21fUFBoSFRDVU0xOWYyVGgyLTBIbklOeUpkdm5yLWNLN016U3VfeW14ZWt3b0ZWcDVobjZjN2xJakhhYm93Y2s2MnFweTBXVGk5MkNxd2xwOS1FTS1BelJBR3VtclExdkMwOVpsMA?oc=5"
-    },
-    {
-      "headline": "Zebra Technologies Stock Jumped 20% Today on the Best Problem in Tech - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2p2MXhXT1RTSmtac1Q0dXVfVDZ5NmF2MjZrNjhoV051OGhMWmszUjBtZXZlbXRFYkhPY3NRNFktVmxWVHNDcWpKd3NIeGdNbUxwdVRpU2k0VnE4UlJsUWE0aVFYRzNYVm9kU0c5UzhzanE3VjAwNENNdHQtWDYwbU5ZcXJpbEw3SzlDY0haelVCY3FfSEJoR0c2WXVQbnJp?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU25OeU51TjQxT0J6aTdablRuVDFzMlNGSVQxNVZMbjNJTFZLZXRCQ2tWdldQUFZtRU52Tk9jTWc0djdBa1BlUXRmRVZhWW11ZkhPUGVuQ0JVbWN1bVZFUG9LYjgzZU1nR3V4OV9IcEd2WXRZTDhOVlZ2dE9uWXlwM3dDeDFjYmN6enJiZTVldE4zcTVLcFhXel9qdnFfemdxR21oUG5aenotNTI1aUE1WkFrZ0J4d2hsVWFXSFoxd1JMbjVIZ0Jv0gHMAUFVX3lxTE9NMVA5Y2R2Yjl5c3dNZFdDQ3JpTnZFRmZVNFJrYUNoV09xUTA1M3RfM3hKeVY3MGVPc3BXUFVmWkxvMi1iZllkZUMtZlUzcVFkZXp3b2ZxOTBmS0FVT0IzOEpHWHBNVmtrQ3A5M3NxZ21kUHVDb3hHYXVPUXh2RG1JbkQ1b05kZVctVVRGTE12Vk15WmEtNFhlcF90T0JRZnViT25ZTzVOOUhGS3ZNTk5ZNFp5Q05jU1JQdzh5Q3ZOeHNrMGl2b2dSYUtVdg?oc=5"
     }
   ],
   "insight": "Tracking Zebra Technologies (ZBRA)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-14T03:39:34.676Z",
-  "builtDateUTC": "2026-08-14",
+  "builtAt": "2026-08-15T02:34:03.264Z",
+  "builtDateUTC": "2026-08-15",
   "source": "yahoo-finance",
   "1m": [
-    30.170000076293945,
     31.010000228881836,
     30.510000228881836,
     30.299999237060547,
@@ -24,10 +23,10 @@
     34.619998931884766,
     35.290000915527344,
     36.43000030517578,
-    36.16999816894531
+    36.16999816894531,
+    35.83000183105469
   ],
   "6m": [
-    55.279998779296875,
     54.47999954223633,
     55.61000061035156,
     53.779998779296875,
@@ -158,10 +157,10 @@
     34.619998931884766,
     35.290000915527344,
     36.43000030517578,
-    36.16999816894531
+    36.16999816894531,
+    35.83000183105469
   ],
   "1y": [
-    59.689998626708984,
     60.4900016784668,
     61.099998474121094,
     62.279998779296875,
@@ -411,12 +410,19 @@
     34.619998931884766,
     35.290000915527344,
     36.43000030517578,
-    36.16999816894531
+    36.16999816894531,
+    35.83000183105469
   ],
-  "lastClose": 36.16999816894531,
-  "oneYearReturn": -39.40358686361131,
+  "lastClose": 35.83000183105469,
+  "oneYearReturn": -40.767067553563265,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "TSCO Stock: Analysts Turn Cautious On Tractor Supply After Weak Q1 Print, But Retail Says ‘Oversold’ - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNzlJSVJOMzBhZW9YMHlrTnlROFJhMXZfa05TMVpRVC0wYkEzekN2eVN0NEloMF9RdjVpX25Cd0VPMl80ODhmVGJRQjdwNVd1VE5vbURxUUdSb1d0cS1jb2VmcmxWVXg5Q240WlQxdUw3V2lMRURzQUpUNDhsVWw2U011SWVtazd5MzJaVlhxdFNEWGEwV3EwTzAwM2xhUmR1RkRqQ2t5Y3pHaThla1J5M2MzQmowQjNwcGJ0OEJYdVJqUndlRE11WDlnQ1ZUZnphY19XSHV0bkVkZm93Zks5VDlxbWstdW9aWDFwZnR5Tmw4Zw?oc=5"
+    },
     {
       "headline": "Tractor Supply Unleashes Another Animal Days Event to Celebrate Pets, Animals and All Those Who Care for Them - Tractor Supply",
       "source": "Tractor Supply",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOX2RoZ0QwNTFJeGZFUGR3TTg3d0JfSHhTa3kzY1lkSXp3S0VKM25NTUh5SWlMUkxpUTliNzREc3lPS1RZRkZqc3NaTHExYUZYVks0Wjc4UEhxWkxNZjFxNjdwMDFKQjU3Y3kyY3Z2cFRVWGVlQWlFc3FFWl9RRlV1MUg3bC1JOUFGajY4bXV0amM2ZlMtektSaUZpOVVrRGozR1BFaHBjOE5rd3VTUlZ2MVd2Y0hHSWk0NE1kZlFVM3R2VE50SW9ZQklHUEVjLTFhY3hIb1lnZnQxWURfWE5sWlE5eE9CbHZvUU9oNk8yS2RhNUpMMUIydmdHdGFVeENWaE5tMUVKcUJJM2ZWMHhXbG11clo3Ui1RREZac1VSZzdZVTNYNk1CQzI1MEVpS3U1?oc=5"
     },
     {
-      "headline": "Tractor Supply Stock Surges 21%, With A 9-Day Winning Spree - Trefis",
-      "source": "Trefis",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQXlWOWlHbXZ2WlExSFhVTEY5WkVYWlZ4QnFBSlc5eDhRZXpmWTRsLURrN25PZDEzY0hZVERUeTY5UXp4VXVCbEhJS2hlYi1feUtNNDBCN0RtSXdpcjJJWmJzbFhvQ3I0OHd2ZFdteWR0NUwtcDl2N19rVjYxZ3A1ZmFGZFY1eHpHM2lLdDhVeF8tR3NQTmJtQlM5R1Z1VWdHdVIzUlZWMXA4QmVFR3VyQnpNc1EySngycEZCelRvc0hHRk5uS2c?oc=5"
-    },
-    {
-      "headline": "Tractor Supply Retrenches; Strong Earnings Power Stocks to New Highs - WSJ",
-      "source": "WSJ",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLWY4VFFwbTF4ZHJGbFRYaXY4UUlTc0dMNHBFRVdGYW5fMHRpZEZuS29oaGdMVGFsU2FDLXdQQWFGalVIOGdKNHJuamJaZVhnZ1F2TGc3VE04LVVpdVlZM080LVZLSFNCNXlVcktUWFlkU0oyVVhvOS1LUnhSc0dvZW1QY0tNVFQtNmpuaUtneFlzNWlDNXpKelN0Tzd2MXFadmpXMmZWOHJyR0Rm?oc=5"
+      "headline": "Tractor Supply Company $TSCO Stock Holdings Decreased by Alecta Tjanstepension Omsesidigt - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYXFTVHB0TG85T1NFU0dUQ0pKZUh6cFE4RGNOWnQ1XzVBTDZrbUtqZE8tT3hELUdzNGRxaGk1bHZkSDh2dGV0WVYtZjdoMTI3VjdMeVJBYU9BekdSdzR1UHlocEFEQzRiSFNGUUJQSmw5THkzd1NEdzRtUVQwVVhidkpUR1dGeHpaTVA1MHRORE5FT05QU1NxcjR4Y0stS2h1c05MWlZEQ2FqUU5CMjRWUkt1X1RnVTlVa0ZPOThfcXkzTTdOdGZtQTRWNVBoZlg4dTgtUkpFVlBqS0VwQnpGdmsxbw?oc=5"
     }
   ],
   "insight": "Tracking Tractor Supply (TSCO)."

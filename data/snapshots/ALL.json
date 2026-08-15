@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-14T03:38:53.714Z",
-  "builtDateUTC": "2026-08-14",
+  "builtAt": "2026-08-15T02:33:29.006Z",
+  "builtDateUTC": "2026-08-15",
   "source": "yahoo-finance",
   "1m": [
-    239.47999572753906,
     241.86000061035156,
     249.89999389648438,
     253.72999572753906,
@@ -24,10 +23,10 @@
     269.6700134277344,
     262.2300109863281,
     255.83999633789062,
-    260.4800109863281
+    260.4800109863281,
+    261.4100036621094
   ],
   "6m": [
-    207.1199951171875,
     215.19000244140625,
     207.5500030517578,
     199.94000244140625,
@@ -158,10 +157,10 @@
     269.6700134277344,
     262.2300109863281,
     255.83999633789062,
-    260.4800109863281
+    260.4800109863281,
+    261.4100036621094
   ],
   "1y": [
-    208.6999969482422,
     206.77999877929688,
     207.08999633789062,
     210.3800048828125,
@@ -411,18 +410,13 @@
     269.6700134277344,
     262.2300109863281,
     255.83999633789062,
-    260.4800109863281
+    260.4800109863281,
+    261.4100036621094
   ],
-  "lastClose": 260.4800109863281,
-  "oneYearReturn": 24.81074019896964,
+  "lastClose": 261.4100036621094,
+  "oneYearReturn": 26.419385436364625,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Allstate Corp. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2tXankxNFZWYlFQS3ZDR3FBRW85ckdpVVhMZ084am5LeERHNU9YMTlwZEhwd19PeWZfUE1UeGs5UkZaVlFMVU9iSHlFaFBPLVd0QnV2WWg1RG5rZ1pWUXJLNkNtM0E5c2VGYlkzWUJoSkFBMkpQamVzazh2Qlh4V1VpNlVGWmdxcmg2azd0ajAzLUpKWHBJalNIcjVEeVNQRTh0X3JrTlJmdldhNnd3aElRQmtzNmRZdHRBd2FZdHYzTHc?oc=5"
-    },
     {
       "headline": "Fund Update: New $36.1M $VCIT stock position opened by ALLSTATE CORP - Quiver Quantitative",
       "source": "Quiver Quantitative",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRndIVk1DTGpiLXVoV1dodFVYc1Y3emtvdlNzSk1NODA2SUhzZFNOaGJYbTdONlV0aUhzUGZxU3FFRFhNTVF0bUZVRkJoamxIcDVpM2FzazZTY0VQNzA5TEdnZXBSVEJ4WlJ5X05KUmpYTU9sWk5yQkZhSVNPRkpVM0xJX0ZIWlloaFl6cF94bVFEWkVpeGFhcGdQOGN5YTcyRkpad0xxZGZGREU?oc=5"
     },
     {
-      "headline": "Allstate's New Campus Recreates Storm, Fire and Collision Damage - Stock Titan",
-      "source": "Stock Titan",
+      "headline": "Allstate COO Mario Rizzo sells $14.87m in company stock - Investing.com",
+      "source": "Investing.com",
       "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQTRZUmJRbkdUc3NYRUplRTZVTkctN2ZCd1FpbjE0cjVsamh6TzQ2UWRYT3JBNkdMYURYZXFxdV94R2lIdFFZMTNHUTJJeE85bWZtUTBDcUJVQko0NkJzcExwQ3JPQjBwMG82RFF4YjIwdnZQTE5TdFFJN1ktMkswYkQtUEdGeTNSdmdFVnUwRmI0WmNiX2d6Q2JxRVpTYkZiMnJjLWpHLTJRM0N2TVVPYWl2TmJaYzREZlo2MFlR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmFpVDl3OFNqbmJVMHI1UHFER19oY0ZvaWJJMWpRRkZiYmE3SEpaaUZRaXFMRXhrM3g3ME5iU1NkdFZBMmhwOWZFcGpKVjJTVU1ESWFuWDZGT2R0N21RQWRETU85Y3pVZDM0cGIyYWduZDhUTDFFTWRQYkc4MnRsQWtUWFRoX2VOWEs2Um1FQ2VXSERGeVFyQlB2WUxDbHdrWGJ5b0NNcFB0dUtoYTZaT2lQLXU3ZVV1d0E?oc=5"
+    },
+    {
+      "headline": "Allstate’s Q2 Earnings Call: Our Top 5 Analyst Questions - stockstory.org",
+      "source": "stockstory.org",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ0VBeEl5amsyQ2dUellVc1dkNXhuRkVkRjBiMlBSUWxpSUxFZFdyeVptVGdoMWlxVklMOEFrRHA4M0c4TjJDczZPZjVIMUNoU3Y0clVESzNaT18xM3NqbHdNQU9XWkRDeVFheG9Rcm9yVVplRDlnUVNyU1BBLWdPV2Q1aGQtd1p5NURzWmdsMXZzUGp5dXZzWmpDTDh1akQwRXFLZEl5bXV3dzNWWFV4b3pXN05vQQ?oc=5"
     }
   ],
   "insight": "Tracking Allstate (ALL)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-14T03:39:07.787Z",
-  "builtDateUTC": "2026-08-14",
+  "builtAt": "2026-08-15T02:33:40.952Z",
+  "builtDateUTC": "2026-08-15",
   "source": "yahoo-finance",
   "1m": [
-    29.700000762939453,
     29.299999237060547,
     29.920000076293945,
     30.3700008392334,
@@ -24,10 +23,10 @@
     30.579999923706055,
     31.260000228881836,
     30.56999969482422,
-    30.360000610351562
+    30.360000610351562,
+    31.06999969482422
   ],
   "6m": [
-    32.400001525878906,
     30.600000381469727,
     31.780000686645508,
     32.08000183105469,
@@ -158,10 +157,10 @@
     30.579999923706055,
     31.260000228881836,
     30.56999969482422,
-    30.360000610351562
+    30.360000610351562,
+    31.06999969482422
   ],
   "1y": [
-    23.3700008392334,
     23.360000610351562,
     23.239999771118164,
     23.530000686645508,
@@ -411,29 +410,30 @@
     30.579999923706055,
     31.260000228881836,
     30.56999969482422,
-    30.360000610351562
+    30.360000610351562,
+    31.06999969482422
   ],
-  "lastClose": 30.360000610351562,
-  "oneYearReturn": 29.910139153197633,
+  "lastClose": 31.06999969482422,
+  "oneYearReturn": 33.005132204731666,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "DOW INC. (DOW) executive discloses 11,042 shares and multi-year stock options - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT1R5b2JpcVdjSnZhUmJFcTA3dS1aZDExQU9wVW1fR2JUVWRLMWhDc3FYWHJ0TFppclplb1pZdXRqZHl3cnBnRFZSUXpUelVQNWdteERRZUxiOHZSdUlLcUFFRnVnWmRCR0pOTVBTdnZyOU5ZdjRrblYtLV9TYlJNa1plLXZQSkNhdUpVZVYwal84M2V3ck1mOWV6Z1k1M3FiZms3eFZ6VU5xWnRIMS1pVm1ncXh4TkJO?oc=5"
+    },
     {
       "headline": "Dow Inc. stock outperforms competitors despite losses on the day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdzZ1WFRLcFpkM2oxdDREbXdyZzhUYVNIX0VMRGFpRUxDQ1gtdWIzQlZjNmQ4WTZBNHVnQm9JdkNkRjh2bVF4QVZnWXJKWXdSWm1hNG1SZVBKeTdUYlk0TnBtam9LQ0NOYzV5eGg2OFI0eXlfVGhlVTIta3pwOHBmbWhGNnJ4RGxWZEVObGRwSV9IVjc4SnE0UUpITFVBc1ZabEp6cXVDYWF5NVRhSGYzb3JlQnZTdl84ZXFtbmhBdHBodzNGODFWcHY3QmdpLWlfMTlZWHV6QTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVBjZllOdlhQVkZvYXNkSlFEOTY3eGZrZVdjVGhXbUNKTjZ4cWFmYmhqbEhOTmtuYVVXaVhZNF9idjExYkZRTVNBTnB2NjRPTTNaVnYyS0t5T0xyX0t6UEpLQTNOVHlIWXlWdEtBOTl4NkV5SThpcE1NLWFSVnpoc2MzbXJlYWQ4ZVlteENnSklFcHE3WWhWWWJoTldWNTM3S2VBbXBRQnRmUUFoVTlZbzRGbFBIbk9LX0JuTkc4aGk?oc=5"
     },
     {
-      "headline": "[US Stocks] Dow Inc trades sideways, down $2; Nasdaq rises (morning of the 12th) - Moomoo",
-      "source": "Moomoo",
+      "headline": "[US Stocks] Dow Inc trades sideways, down $2; Nasdaq rises (morning of the 12th) - moomoo.com",
+      "source": "moomoo.com",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT3ppMzhHaV9wNi13UjdKUE5WTWxLV1dOQVpOUDMwNldnb3pDVjQ4TG9ReFNjU3lSazExWDl0X2J1NFhLUmZ2WjRfLVViYzFVc3U5NHZqdElrS3pYOGktclNVdF9Zc2tER1NJS1N0dWVrZi14V3NkdlpFZmJUS2ZBNXZtVndZeWpHWXlPVWFDdkRZcHpkOTFIT2J1TQ?oc=5"
-    },
-    {
-      "headline": "Dow reports second quarter 2026 results - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0tYUXFJMzVTa0FjS25NX1VOb0xqOGV1TjVDM1VvR1NKNUFkdDgzX2tOdTlPRkdNNnpIQWtTNW1ZQkxXcHVyZ3dsLXRncGdwaDJzQjVSUGpfck42Z0cwZmwwMXpJV1hrVUhia1JkU0pqWHduZXdKMDZlcFAzSEN3U3ZCWDlPUjFTdE5xSTNEQXZxZk5tcjhYOHNUZw?oc=5"
     }
   ],
   "insight": "Tracking Dow Inc. (DOW)."

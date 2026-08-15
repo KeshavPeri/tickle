@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-14T03:39:31.626Z",
-  "builtDateUTC": "2026-08-14",
+  "builtAt": "2026-08-15T02:34:00.533Z",
+  "builtDateUTC": "2026-08-15",
   "source": "yahoo-finance",
   "1m": [
-    105.11000061035156,
     108.37000274658203,
     105.48999786376953,
     104.80999755859375,
@@ -24,10 +23,10 @@
     104.6500015258789,
     106.66000366210938,
     108.48999786376953,
-    108.55000305175781
+    108.55000305175781,
+    107.69000244140625
   ],
   "6m": [
-    96.97000122070312,
     96.06999969482422,
     99.44999694824219,
     98.9800033569336,
@@ -158,10 +157,10 @@
     104.6500015258789,
     106.66000366210938,
     108.48999786376953,
-    108.55000305175781
+    108.55000305175781,
+    107.69000244140625
   ],
   "1y": [
-    93.05999755859375,
     90.5999984741211,
     92.54000091552734,
     90.93000030517578,
@@ -411,12 +410,19 @@
     104.6500015258789,
     106.66000366210938,
     108.48999786376953,
-    108.55000305175781
+    108.55000305175781,
+    107.69000244140625
   ],
-  "lastClose": 108.55000305175781,
-  "oneYearReturn": 16.645181495315455,
+  "lastClose": 107.69000244140625,
+  "oneYearReturn": 18.863139354430267,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Starbucks Leads $1.3 Billion in Dividends Due August 14 - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdl95RnNLc0NPQW1LT1Foa25FRlZaazV2OW8xWjBrbXRmcTgtSENJT0VXOGFfbmxBLVBPZWNsakZhSlhBdzc1S1d6VVJDU1FBaUgwMzY2TVdnWUVPRTFwZU9LTm9razBCSjdQV2Y0dlRnNzBDWXNMOTNKNmZzOEotSkJhaUJKQXp6REp2T0daZFRWRlY0RlJ6ZVhQUkdIU1JqUmVIU21QTnNmWjhvWTFNemlfcUhEX1h3RUd5bjY1QXNFd3BfdVZPUFRKYUV1dHZF?oc=5"
+    },
     {
       "headline": "Starbucks stock hits 52-week high at 109.45 USD - Investing.com",
       "source": "Investing.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlh0Tk4weFFyVXdfNG9CcVNDYXp0aEZ6Q1pSRUZqWkl3aHRKakMxMXRZYWFZVy1NU2lHWnFzczgxaEZ3MmRwcVprTnpXY1ZTd0J5bTNIeUh0NFFtWEV3ZFpVc2FLSnp5c0dyYUtXUEpnc3p2eHF3SmJvSGFuaXh6LVUtanlNU0dHb0FVRGhZVVZsUG5EdzZMTTJYa3hMaFpkSUVuUg?oc=5"
     },
     {
-      "headline": "Starbucks Sees Unusually Large Options Volume (NASDAQ:SBUX) - MarketBeat",
+      "headline": "Summitry LLC Sells 109,607 Shares of Starbucks Corporation $SBUX - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXluN1FuNVIxb2h0aGJQdVZVZ1Z2eDY0T0h6OUI3SUlScF9JWENtamJidHVldElBZ0FueGVrQWxuRDFXMHJoaU03aldtb3dOOWVjRXdDRDVSU3V3Z3VBb2pCeXNuNmNpWGtBbWdRVEtzSDl6cF9ZVVc3VnBxS3QxZC13VzA2dVVJdEVxMmEyYWZMS3YxczBPd28yUE9tdlNsVTZtTnRGZ1Z1RV80ckRz?oc=5"
-    },
-    {
-      "headline": "Starbucks (SBUX) Stock Could Be 49% Overvalued After Q2 Beat - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaE5kS0lnR2xJMUxldFdoaHBtV0lYYy1oalAwejRDSTdkYzFKbncyaGF0TWhaWXJhRGRJYmRRQVhJb09Kb2NRS3N4V201Z1p6WkJVOWhLZ0FLUFZXcFFuUEFIclQ3c0liV2txcWh3ZjVPMjJOd3dQUzVRRW1DaDVVSV8taXBiRWtLYklia2J1SFphelEwZWhkZl9HeEtoMjdYMDV6T2VuRk5RdUlNM01sZGlINzhIbFdCT3ZURUo4NVlUTW90VVJ5cVhGVTI2bGfSAdQBQVVfeXFMUEg1ZGcycEU4ZUtWT3RpOUlLWVd4YzlnY0ZYa0dWckVwdEJvaDFidFJxc0l1M0hnLUlxLWpfclkwd2RsMzdaNnpQU3lEQ1J4LUdVN0RVMEhYUExkTmtocnlSNGtFVFJGSnEyRHh5aDJpdUF1Z1Q3Tm5PNWo4ZmN2Ylp6clFJZHZYOFN0cFZqcXh3YkVZbTNiUF9iU0JvOTc2UUl3LUVEMm9fZmdYMHZIYWVYZHVKSHNNeUd5LTVXY25SR0sxS0ptaUE5d2ZCTnhGWVN1WXU?oc=5"
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTzRDdlh5QnRmTGJaZ21NUUVZbWFBLWxsQzZIMko0QmxkVDg1SlVfdDRLWF9udy1MbVcteG9TVjg2R18tZC1Ec05zQjJ5bktDSG5CaXVDcExHUGpueks2ckxrcDM1NlRscXVFMDVrRmVLaEFheksxSlhFNHA0SkRQWEF6R0xWNTRhQXRLZ3ktLWRpTEIyTFpwV2JodDFaa1I1M1dMYmxHR012bEs4Ul9FaUJMNUMwRUxfQUJXSWkwUlE?oc=5"
     }
   ],
   "insight": "Tracking Starbucks (SBUX)."

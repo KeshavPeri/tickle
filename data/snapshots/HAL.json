@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-14T03:39:16.920Z",
-  "builtDateUTC": "2026-08-14",
+  "builtAt": "2026-08-15T02:33:48.286Z",
+  "builtDateUTC": "2026-08-15",
   "source": "yahoo-finance",
   "1m": [
-    35.25,
     35.040000915527344,
     35.220001220703125,
     35.11000061035156,
@@ -24,10 +23,10 @@
     33.63999938964844,
     33.79999923706055,
     33.290000915527344,
-    32.84000015258789
+    32.84000015258789,
+    34.41999816894531
   ],
   "6m": [
-    34.34000015258789,
     33.84000015258789,
     34.97999954223633,
     34.900001525878906,
@@ -158,10 +157,10 @@
     33.63999938964844,
     33.79999923706055,
     33.290000915527344,
-    32.84000015258789
+    32.84000015258789,
+    34.41999816894531
   ],
   "1y": [
-    21.350000381469727,
     21.1200008392334,
     21.329999923706055,
     21.110000610351562,
@@ -411,12 +410,19 @@
     33.63999938964844,
     33.79999923706055,
     33.290000915527344,
-    32.84000015258789
+    32.84000015258789,
+    34.41999816894531
   ],
-  "lastClose": 32.84000015258789,
-  "oneYearReturn": 53.81732817714918,
+  "lastClose": 34.41999816894531,
+  "oneYearReturn": 62.973469702734484,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Halliburton Co. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZzJBYU9WSzh0eEt1NjZLSTctWEx3SEV6clM5dGdaZmdsNk1YMFk5T0NpeDdxUUl4bGhzOTdESXhlejBjWTFRcm1BbWxRYkk4WDk3cjNxOUM3TzlxOENxY0swS2N1WlpjdWVvemY1WVF2c1paenRZLUZxTGVLYlp3RDBFeEVEWFM5TFRFV0R2bVY5eVBtU3NqaWpmRVJFTlBLaWh4OWR6eGhWVHNKUmRKSUhFSlJzV3JhdE85SDhLa1c2Zm5I?oc=5"
+    },
     {
       "headline": "Halliburton (HAL) Stock May Be Undervalued Even After A 94% Run - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2FBMGxJRXJSbEViVUlzbVc3U2ZFVmI3aHVsUk1GU3BSY1AtRVAyYUIyTnpxMFBmdEdpSnpEbTBmWGhiWER3eTk4cC1rUTdTRXAwNG9vck5Qd2hjZjVLQWlxMlhKaWdpU1EwcnVYRmpYa000XzVsc2VmUHVQVlhqdWZfYTg5VEVKNlM5Y2FEV3R2aDkzU1NNUlJDamJqa3p6X0htWA?oc=5"
     },
     {
-      "headline": "Halliburton Co. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSlZPdWZYZHVxX2RUTlhkY0o1cU0wZGYyUmtPb1FreE02R3F1MzlZczBVZ1RwZjdoR0NTaUdUZ0tkQzlYcUttdDlOUEk2WmxZck5nYjZGSEFVa20wZF9UX3dHSXZvaVluLUpWdnMzRDdaVWJqLUo5b09ZdHJ6SDMyaEU3SXZjU2F6MHktZ0Vkc0t2U3dZaG9SUWh6VkZxYktoT1lGQW1obnZpQjVFWDhpRXhvczF4d24yVXE1eFVsZDlkRC1ReDZ5TnJn?oc=5"
-    },
-    {
-      "headline": "Halliburton (HAL) Stock May Stay Cheap Despite Nuclear Waste Push - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUEZOOVBlTF9lczFTRDhwWUpnX3NKUkJvcTNpdmZVX0EtQ1JiQmp6NUhlckVVai1UbXV6eDMyTTJnUFlRYXNtWDM3aVZXN3kzd243V3g2cUtRcF9wM1JDUWt3dlpCLWFPa0NQMkRGN280ZTZmN1pWYy1qY0FoOUFSdjJRQi01LTFjbXFaU3lqYTdUdldXS3FNUmpXU1ZvbFFLU0xKcUlITUl3N002UzlYOFNCN2Nub0M5a08xYllzMk5HcEnSAcgBQVVfeXFMT2lGd2RjaVFBZFMzUjUzcW5UODdxQktpaTkyR18teG40SklFLTlNbTR2OElLTlJmckZUS0FSanFzMW8zNjBMOUtFNkNYM1V2SlEyMjlqMHlJOEVmci1lQ2pMRVNseERWOEhfR0NMSzFYLVdNWWpkbGs2STFza2VpemdKTV92R0lfWVZ0UGNhR29LbURfWms0N2V3YVljR05sUUtTU25iYmRaVDBRNDRVSWdBSUt3MG9PRTFLbGROLUowUFF1UDJ0ZnI?oc=5"
+      "headline": "Peabody Energy, Borr Drilling, Texas Pacific Land, Halliburton, and Transocean Stocks Trade Up, What You Need To Know - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQckEzNmt3SVVQcThPc3RDQU93VE13R1M1VXZTNkF3eFpyR25jdmJLMXFuamVSYVp6WEZQM3lnR2RYS21NeV9qZGpFLXAtTlV3RmJoZDQyV19RdmdIeEpoak5TM3ZXcWRPdWZ1eVc5eS1DUE5jSEZ0clFrZ3BfQTF2MTA3MTlEaW5oWlN0NHoybFp4b1ZGbmdVLXBCSEZrZUNKSXltaG1ENTFqd1VGb2VyYlZfYU1ELWZHXzlnODZBQWp0VUxsdThKanlpajBIc3ZYYnR5UnN3Y2E1TWR1V3BHbENHWnpTbngwTndtQ2E0NTNCQWw2bUNfX3JxbVpReldTTm5v?oc=5"
     }
   ],
   "insight": "Tracking Halliburton (HAL)."

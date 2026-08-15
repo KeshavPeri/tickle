@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-14T03:39:27.546Z",
-  "builtDateUTC": "2026-08-14",
+  "builtAt": "2026-08-15T02:33:57.356Z",
+  "builtDateUTC": "2026-08-15",
   "source": "yahoo-finance",
   "1m": [
-    212.5,
     207.39999389648438,
     202.80999755859375,
     203.27999877929688,
@@ -24,10 +23,10 @@
     217.5500030517578,
     217.5,
     224.08999633789062,
-    225.3000030517578
+    225.3000030517578,
+    225.16000366210938
   ],
   "6m": [
-    174.19000244140625,
     171.8800048828125,
     185.41000366210938,
     190.0399932861328,
@@ -158,10 +157,10 @@
     217.5500030517578,
     217.5,
     224.08999633789062,
-    225.3000030517578
+    225.3000030517578,
+    225.16000366210938
   ],
   "1y": [
-    182.02000427246094,
     180.4499969482422,
     182.00999450683594,
     175.63999938964844,
@@ -411,10 +410,11 @@
     217.5500030517578,
     217.5,
     224.08999633789062,
-    225.3000030517578
+    225.3000030517578,
+    225.16000366210938
   ],
-  "lastClose": 225.3000030517578,
-  "oneYearReturn": 23.77760562762771,
+  "lastClose": 225.16000366210938,
+  "oneYearReturn": 24.776950662233148,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzQtZEZJVFB3dV9zbTdwMUs5U2hKLWpUZkY3ZXhpeHBjSkxnU2xtN3ZBbTJTUDZjNm54ZEhMV2phQjBFYWg0Zm0zc0NmMW1uTElPX3ZUTW1zR3pYa1BVOW82M29BUG9qZGdvUWpXbVB5WVg5dDlJWDlkczAyY0o5Nk5ndFB5NzZOOWVJODZpakJ1TDhRRlVmbzdxSFZGYkxGSGJyWmt1Q0R2OXA3Z3BWdmV0OGdfaGM?oc=5"
     },
     {
-      "headline": "Jim Cramer says Nvidia now signals something much bigger - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVEtVbkRUMVVCYzMtUGVMUmRSOVhfc2Fja3lwRXhtZVpHRjI5UU42RlM5d1pUVUpHWktTQ3Boa0JFLWtkR3hVLVhoX1VGOWhtNHVEd3B1ZVh1WVJCMlptQXlXVUx0REFpeG5pVFRuQzQtRnBSN3hreHZqS0Uyc1hHQQ?oc=5"
+      "headline": "Nvidia Stock Rises as It Bets on Robots - barrons.com",
+      "source": "barrons.com",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MVUU1THRjOV9UMnBtSFF1dl8wRG5vOVZmNlZzNXpFbS1VLThKRUlMWE1kZ2w4eXBreUlfVmszVURxTEgyNTRlVmVmWm1WYlNnYmVUd0hzN0ZSeE9rUFVRTTJNSHRXRG5RMmJjS3lDQ2VnUFJhcGc?oc=5"
     },
     {
-      "headline": "Gamco Investors’ Mario Gabelli Boosts Nvidia Stake by 15,553 Shares - The Globe and Mail",
-      "source": "The Globe and Mail",
+      "headline": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter - CNBC",
+      "source": "CNBC",
       "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcDhxQ3RiSHJ2ZVB3U2Y4Ni1TMG5ybFRKbG9zejFRdDFFb1NubjlucFdLcU1tMW5iejdyWDRTQVIxcVI2QnB1UHdaOEhfeXlYV0pZX2FENlR5bEd5bWpjd3JHQ0o2cWs3YmktbEotWDFRU3Z1U0xncFFzcDhOdldnanRtd2xnd2syZ3c2aTZHYjhHM0ZhZ2FkanFPaXlCdWNyY29kUkNRZFE5UkdXTXF4SDJLbFNQZW9FaElIS1k3SWZTZnRhaUVnRnoxbkRYN2RBdUxKbWRiZ2JidVcwV0c4bm9EdlZoeGhx?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOczZFNXoxeDBQS1Y4T3ZvdW96QzNlUlBGOWZ3WEtqbDZXaTc5MTZESDJyRTNha1F3WWhwdHNfYXd5RDhqR2psbjFYRWZsR2tJNmVBc1J6THl2cWt0TFduRHRySG5YR250N1hQUkdKLUNHd1hZM2wxbkNRWlJWZ25UVHpFa0Q5bmUteGJ4bjh6c1IyY1lHZlBwMUMzLW5YS09sQ21oN1F3aGTSAa4BQVVfeXFMT2ZZMHJZWGxvZ1FCZTQ4SVFmUVJqck5xTGdLNzNOYjRSYjRIU1V1OHNvM2lqQnpKQWYzWGVIbGpsNTFpWE1mTHcyNmZfWDBHUnVhMm11NzBjbGF3Wk1WZ0FnVjhmVjBOZXk3a09aZ1R4eFJqUHhwUmY2VXg5ckdzOGR4YTF6X1BLY1hSd2hsbWd1NnJfZ093cXY0MkpMeFEzbUFFRXByVlRzNnpzM3dB?oc=5"
     }
   ],
   "insight": "Tracking Nvidia (NVDA)."

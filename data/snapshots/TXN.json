@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-14T03:39:35.500Z",
-  "builtDateUTC": "2026-08-14",
+  "builtAt": "2026-08-15T02:34:03.752Z",
+  "builtDateUTC": "2026-08-15",
   "source": "yahoo-finance",
   "1m": [
-    301.19000244140625,
     291.2200012207031,
     284.0199890136719,
     284.07000732421875,
@@ -24,10 +23,10 @@
     280.44000244140625,
     281.239990234375,
     276.5899963378906,
-    273.42999267578125
+    273.42999267578125,
+    279.5799865722656
   ],
   "6m": [
-    222.9199981689453,
     223.97999572753906,
     221.44000244140625,
     218.77000427246094,
@@ -158,10 +157,10 @@
     280.44000244140625,
     281.239990234375,
     276.5899963378906,
-    273.42999267578125
+    273.42999267578125,
+    279.5799865722656
   ],
   "1y": [
-    193.7100067138672,
     194.57000732421875,
     194.3300018310547,
     195.94000244140625,
@@ -411,12 +410,19 @@
     280.44000244140625,
     281.239990234375,
     276.5899963378906,
-    273.42999267578125
+    273.42999267578125,
+    279.5799865722656
   ],
-  "lastClose": 273.42999267578125,
-  "oneYearReturn": 41.15429415046689,
+  "lastClose": 279.5799865722656,
+  "oneYearReturn": 43.69120421853703,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "BigBear.ai vs. Texas Instruments: Which Technology Stock Is a Better Buy in 2026? - fool.com",
+      "source": "fool.com",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNDRqSVhCUldwaUVmNFhtTnRScFZSU1ptUWxzN1VVSjk2ZzJIQVJnU2RNZ0d1RDdtVmtRd3Y0NFBiS0RYYURQUjlud21PXzFMXzlLZFZOLS12dTgzY1RwRU1fYUdkdzhlVUk5RWl6ZUxmRzB2YkxkYkpDTnZOaExCM2t6dlpvM1prOHNkZkhuNFlNR3FfaE5VMHRvN21BTnlSQzFYdzlHb1pvNlFva0xfRGhKRW1WaFZjRllXZ0J1dFdVS3VkUHhRX1NR?oc=5"
+    },
     {
       "headline": "Texas Instruments (TXN) Stock Looks Stretched Against Its Fair Value - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaGZvclVYWTk0LWdneVY0OGgtemZCT21ZR3N0UG1veFdzTWdtQ0JfZmVCUXlYc2U0MW5lV04yeTdtWFFPaWxTTkhwcUFKWm1MYkdIamxMVWdqT0lyLXMyUGUwUmhHeE9aYjFDQU82MnhGX0dZLS1aQ2tjZWZOTy1yS3JRdUZWNEZpLURxemptMjhsaXV5dlNvZ0V2TldlYVU?oc=5"
     },
     {
-      "headline": "Texas Instruments Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "headline": "Texas Instruments Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRFhmVUZ6R2w5UTZzbVA0b2Vtc1lxbnhZV2FtY2xTV1A5a2pzSHhQUjVRLXpRdW5mZzdXdEh0TVpQdVB6ck1UT0RNaGdjNk5lU0c5V19iY3BRdlZEVm9wZlVkV0EyNS11NHVVaVJZUEF3UnRzanN6UHNvUWE0bl91NE9ud0hhRmVOcFFJNzhIZDhhTHY3blNBTi1Mam9VLTlNYTAwTWh4bG5fZ0ppdkpIdW5pVGxXVkk1VU4wT2JxTXhmOVN5NnFtblpzM19QRExTVTByc0g2SnB4MEtFMG01Mzd0SFl3dG42YnZ1cFB1cw?oc=5"
-    },
-    {
-      "headline": "Is Texas Instruments (TXN) Overvalued, Or Is Fair Value Higher? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOc3NWMFpab1VUNlhvT2hUWnd6WG5XSXk2M0hTU0hWSHUtNzlKOFQteXRVU2h2aVRDckVJZV9BY2l0T3poVkQ0ckZwYURMTktpMnhycXdLZExLXzRIS2F3b3ZsdUd4TmdvdHdqajNnTUZHeWh2eTJFc05QaXBHS3ZoTzdsVHFUQzdid2lBYlA4eHA5akFhUE5PY2hkbW1JOU9LU0h4eWJ0WHdaSTd5RzB2ZDBZNndPVDlwakFHaHZDaDRIemZFZVZqbkM3RWl3dmpQeTMtVGV2UmVQdjhG0gHcAUFVX3lxTE5zc1YwWlpvVVQ2WG9PaFRad3pYbldJeTYzSFNTSFZIdS03OUo4VC15dFVTaHZpVENyRUllX0FjaXRPemhWRDRyRnBhRExOS2kyeHJxd0tkTEtfNEhLYXdvdmx1R3hOZ290d2pqM2dNRkd5aHZ5MkVzTlBpcEdLdmhPN2xUcVRDN2J3aUFiUDh4cDlqQWFQTk9jaGRtbUk5T0tTSHh5YnRYd1pJN3lHMHZkMFk2d09UOXBqQUdodkNoNEh6ZkVlVmpuQzdFaXd2alB5My1UZXZSZVB2OEY?oc=5"
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNazlyTzdmTlpBOF9HbndZbmt0NEtBYi0zb0NLRFVPZndOUW04R21BOWMzUU0yY0laX0J6RTZZdk1uNGlsSEktRVZVWlk5RzJ4dFVCbGVwTHh5aWZheVhhUl9vcDlRV2owa0tfaWtTbVhMMV9zZVBUZGNuTTVQWE1YdV8wX05MMHpIc180UnBnREFsdC1KQjVmRkpsNTJneWhCU2NiMXoyVlhtUXdyM3pVa00wRkppa1dRdl9sQkduMlRXQ1d2bHRXTkgtY2hWQ0tpNlZyMkp0SHk1WmdUcXp6ZWJ1MUprQQ?oc=5"
     }
   ],
   "insight": "Tracking Texas Instruments (TXN)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-14T03:39:28.483Z",
-  "builtDateUTC": "2026-08-14",
+  "builtAt": "2026-08-15T02:33:58.111Z",
+  "builtDateUTC": "2026-08-15",
   "source": "yahoo-finance",
   "1m": [
-    82.7300033569336,
     86.25,
     86.05000305175781,
     84.52999877929688,
@@ -24,10 +23,10 @@
     92.2300033569336,
     92.56999969482422,
     92.05000305175781,
-    92.58000183105469
+    92.58000183105469,
+    91.05000305175781
   ],
   "6m": [
-    96.73999786376953,
     92.86000061035156,
     94.22000122070312,
     92.72000122070312,
@@ -158,10 +157,10 @@
     92.2300033569336,
     92.56999969482422,
     92.05000305175781,
-    92.58000183105469
+    92.58000183105469,
+    91.05000305175781
   ],
   "1y": [
-    101.5,
     101.54000091552734,
     101.38999938964844,
     103.05999755859375,
@@ -411,29 +410,30 @@
     92.2300033569336,
     92.56999969482422,
     92.05000305175781,
-    92.58000183105469
+    92.58000183105469,
+    91.05000305175781
   ],
-  "lastClose": 92.58000183105469,
-  "oneYearReturn": -8.788175535906712,
+  "lastClose": 91.05000305175781,
+  "oneYearReturn": -10.330901880231732,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "O'Reilly Automotive (NASDAQ:ORLY) SVP Sells 3,000 Shares - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTlpjbWR3VDhJdlYtcjE4amhLSUI2dE5yVnJhUVdMbFRiTDBCRVZLWkR5ZHJGaC1raUxoYTByQ3ltc2lMVVZZS010NUR5Rk5ZblkzMnpXaGMtTGFBUnc2SmpTRTAyWEpEUjZzWW5UbWoyYm40Sm5aOWh1eGxOSEpQY3NQYXVha0gybE15a0Jfc2FkbVl3Unc4U1lXMGo3TEliWS1QbjBvdVA?oc=5"
+    },
+    {
+      "headline": "O Reilly Automotive Insider Sold Shares Worth $279,000, According to a Recent SEC Filing - marketscreener.com",
+      "source": "marketscreener.com",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbnp3ckQzaDF3RVJhSmRzS2gzTDViOHAydXJjZmJES25wNjhRd1dWcW5vUndxak5lbW1uSXBUN1otc3RfLWl1OU9UNGpvM2F6M2hkSkJYaE1vaVljRlBncnd5eEt6MVAwZGxhay05SGhOWXd1Q1Bid0JCbG84NWZDUU9JTlFrSmxhLXlBdk14b2pXbFpaZ3AyNzdVWFgzaE9KSV9HSUhPY3NJZzVsWElCb19ha1ZJMEtPZXRic2pNTDQ4TllBTmdvdDlaN2FkanNLeFZJZTNR?oc=5"
+    },
     {
       "headline": "O'Reilly Automotive (ORLY) Stock Faces Premium Valuation After Solid Q2 - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-09",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUlPLWU1Z0Zqa09HSm14Ql9JaDlVamVpbzd3MWxJMG1hX2RSYUotZF9UdjlXTHpnNlBwR1hzNXU1M24xQXdOSjB1TmNsY3MxWlFJQkdLVS1TU0VLOXQ1SkgzNUFFNE1RRXVrLVVLSUlWaURtMTZYLURvMXpMWFo1ZVlsRGdTZ1pPandaV1RwSDRGS241RDBHS1dKVG0talpQVGRLYjNfUjkyY1p1clhVZHA5S3UyZFVfVmVjbVRfSW91Y2dtdWx0VzJQUUVfd3fSAdQBQVVfeXFMT1J5MUR2bVlac2xVQ0doMXZnRGVGWUtHLVVNT3hFeVhuTWVJZFd0WUN5aEVoMVl6Zk5wZHpBQ1p4UzkxNk1uZGtfcmxjYnJQS0N0YTJrRzItbVZDY1lkR2FVbXoxa3pnY3VpWXhGamQtS083bFczcFBGS18zNjR0OURlczhSZGR1d2lEZW42bTVMbFdSVElRczBZWEJoRjZhQURfVG0yY2pVVUNvVTM5TU5fRXVLVlF3LWxqd0FtMnJqaHNGajFVdGZnNC1IcXRseDNTNVo?oc=5"
-    },
-    {
-      "headline": "Zacks Research Has Optimistic Outlook of ORLY Q3 Earnings - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdC0teVNjeXRMSTRXamhQWGJxZDNvOUhZRzg5THpMZEdsb0cwMWxlbXhlN3NxNWxBN21hb0RueTM0SmpTMm9kY1gweFp0NkROMGxYQURVMXdMV1hQS0ZiRnp3Ym9udy1XUHVmeUg3Zm1BYjhnOUxYbkppNWEwbmV1N3UwRnBwT05VSXQwbFpEOHhTMVpDY0xQZGQ4ak93QXpxWUxYWndhQjd2OFktYzNMMg?oc=5"
-    },
-    {
-      "headline": "O'Reilly Automotive Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3lmUGlLNlY4UGRlM01ndUtMdmtqS1RQUWlPNGZuRTVKaUI5QmNmb092SnRQT2s2S0dUNS1tQk9JMWF0S2lwRWFHVmpvQ3N1My1jb0pXSHAzRl83WnQtRGFjakZBdmFDYnNLUHR0X2RYS1B5anZIcE1HYlhLNTdtNjdPX05yRE5TVkVBdkJkZE9Ga2tHdEhUZ0gxVC1Wem5EN2kxNXE4clNSQ0YwdndYTzVIUkp1S2pnd2poTGV0MUc1VVpmNG1GemNiWktOOHFUVVBZamFn?oc=5"
     }
   ],
   "insight": "Tracking O’Reilly Automotive (ORLY)."

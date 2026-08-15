@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-14T03:39:12.840Z",
-  "builtDateUTC": "2026-08-14",
+  "builtAt": "2026-08-15T02:33:45.077Z",
+  "builtDateUTC": "2026-08-15",
   "source": "yahoo-finance",
   "1m": [
-    251.19000244140625,
     262.4599914550781,
     258.0899963378906,
     255.7899932861328,
@@ -24,10 +23,10 @@
     284.1199951171875,
     282.95001220703125,
     277.989990234375,
-    287.17999267578125
+    287.17999267578125,
+    283.489990234375
   ],
   "6m": [
-    225.42999267578125,
     209.17999267578125,
     207.32000732421875,
     203.22000122070312,
@@ -158,10 +157,10 @@
     284.1199951171875,
     282.95001220703125,
     277.989990234375,
-    287.17999267578125
+    287.17999267578125,
+    283.489990234375
   ],
   "1y": [
-    374.9599914550781,
     369.6199951171875,
     371.1499938964844,
     374.1000061035156,
@@ -411,23 +410,24 @@
     284.1199951171875,
     282.95001220703125,
     277.989990234375,
-    287.17999267578125
+    287.17999267578125,
+    283.489990234375
   ],
-  "lastClose": 287.17999267578125,
-  "oneYearReturn": -23.41049732763644,
+  "lastClose": 283.489990234375,
+  "oneYearReturn": -23.302312109902253,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "FactSet Research Systems Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "FactSet Research Systems Inc. stock underperforms Friday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVTA2VDA3djhfQTBjWmw4S25FY3l3dDVwb1VQT1FFTDNQZnBUM2MxX2VNLUtqS01tNXZfWXkzQkxycEtwdGdrQlloaXZ0TWhmakhGUFR1MnVhWXZ6aFhLUVdWODNkckN3RExXcU5FZ3cxWEswbF9vd0MtR29YR3AyT2RBOFBIdzVDMXhPSGhCbUpyejRJSHdxWTJRYk9hb0hOeXUtMmV4NUVCb0JDc0Y0YjZMenNscEQ3ZGtxVHNCZ0V4bFA0ODF1Z3JuS2VRbkhpN0tVSTNndTBXWENEYzdNY2pubDZCQkNoMDBja05Dbw?oc=5"
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQ0U3elE5VE9veEFqRHltbXVyNkxsVUJVdXE4SkprdlF5OExtSG1uaF84QUVLVThSUENMZ21MSzRaOEFlZmhMa0RiRUpsSk1NdVplODl2b1I5WFRQOEQyN3M4UnNUUGZlT3dVVk1GVzljRTIwUzMzNl9LVG9Hc0hYemZEdzhEdFV4ZzV4UjJqNUV0VnlNakxCdUFLS3pGQVJ0NEtwSDhCT3hkbkFET1U1blFxaERMNWhHNlQzam04ZURDakxGb1gxeVFOS1dtOFkzS0JPVDAtbzk2VEdHeUNBenY3NDA0MlZ2RHluTzVqTDhDSWs2?oc=5"
     },
     {
-      "headline": "FactSet Research Systems Inc (FDS) Stock Up 3.3% and Still Under - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbXBsSkh2aWlhU0pXd29LREMtZHJQUUxfV1c2M01jWjNVRmloWW8wXzlNaDIwLTQ2X3U0dmJGdVdELXpHc1NZVHpxaWZMZEQ3b0NiQWtmb0ZLRDNmd19jd0l0T0VfWEVteHNRLTVMTkFuLXVsUlVLRmNJZ3FDNnRaVWJoTEt2RDRiUzZURHJyQmFqVmtVaERLamplMEd3TlNSdm5OWVRVa2hPbEl6QmlOVUE1TjU0NU5HSTVndQ?oc=5"
+      "headline": "FactSet Research Systems (FDS) Reaffirms Its Dividend, Is The Rebound Already Priced In? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZmVTTFIteTU5UjRSWkxaU3RuRGZzd25Mekx4ZlgxbDFZNVItc2J2Q0VRU1BqczVzY1l1UEhvMUFBTjNobXNBSWxwZFc0cHE5U2EyU3ZwTG5KRkZJYXpWV1N3eFhhOHp4ZjU3azdkdnRtS0RKel9BM0JVeFQ2SWVzWjBDaVEyVTV0dzBxSXY1TF8wMXJyeUQzZ1ZEdWFHWWN6MFhhRFJ2c3pzQjB5cGdQMkhqYkhUYUl2V29ZOFl4N0xyMVY4cGYzSnJGV0dBWUMwc2lpYTdmcWhxYUQybVloelhNcGVnTGxkUlHSAe8BQVVfeXFMT2RPV1o3Vm85WVlfX0ZlSDBTeGNFbVhGSFJhbTV5N2gwamZlUzEwdHNQdkZoTURZNU4zeWN6UnBCa0c2NC1qRVc5N2l3ZC1OUkxKZ0g2WjRwSjlscDZjOVhxOENMNTZ0dFN2emlfWE1QRFgtaWJCakliMGtWQW4xTVRZbWl3ZFNZM1VQSVp3RUFVT0p4Q0xkZnI5Qng0ODZfLUxPSkJSNlpNMFlYWFZqTEFFQlM5bXUteU9xdHJMOXR4V0Fka2dtMFZnSVRSVnZOd0NjaktYZlRmZ0tQNVRxaDkta2xnZVBpY1NHSGhzN1U?oc=5"
     },
     {
       "headline": "Has FactSet Research Systems (FDS) Fallen Far Enough to Trade at a Discount? - Yahoo Finance",

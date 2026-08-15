@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-14T03:39:23.316Z",
-  "builtDateUTC": "2026-08-14",
+  "builtAt": "2026-08-15T02:33:53.634Z",
+  "builtDateUTC": "2026-08-15",
   "source": "yahoo-finance",
   "1m": [
-    335.42999267578125,
     320.9599914550781,
     313.29998779296875,
     306.760009765625,
@@ -24,10 +23,10 @@
     306.3999938964844,
     311.4100036621094,
     326.1099853515625,
-    337.010009765625
+    337.010009765625,
+    332.3599853515625
   ],
   "6m": [
-    209.77999877929688,
     213.30999755859375,
     231.00999450683594,
     229.27999877929688,
@@ -158,10 +157,10 @@
     306.3999938964844,
     311.4100036621094,
     326.1099853515625,
-    337.010009765625
+    337.010009765625,
+    332.3599853515625
   ],
   "1y": [
-    107.37999725341797,
     99.51000213623047,
     98.87999725341797,
     100.33000183105469,
@@ -411,12 +410,19 @@
     306.3999938964844,
     311.4100036621094,
     326.1099853515625,
-    337.010009765625
+    337.010009765625,
+    332.3599853515625
   ],
-  "lastClose": 337.010009765625,
-  "oneYearReturn": 213.84803351249647,
+  "lastClose": 332.3599853515625,
+  "oneYearReturn": 233.99656136732608,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Applied Materials is Down 6% Premarket. Will It Drag Down Lam Research, KLA, and Other Semi Equipment Stocks? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLTFxSnJFR0lWc2pCM3lmZVpsU01pV21CSFNBbTJDbVRCVHdGR2x4MV96REhqVWRpVS1JNkdLQ3NCUnZNRVNUZzJTaFhmdEY4anY2LVNQZnJXRnN4cEZENlk5MGNZNDFOc3ZhaHJsMFV5XzBSZHhDUUg1YThtSXhNcjBuejEwYnB4dmJUZ1c5aDIzOW42bVk2LU5aQ1FRMzVJ?oc=5"
+    },
     {
       "headline": "What's Going On With Lam Research Stock Thursday? - Benzinga",
       "source": "Benzinga",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHNhRm9CNEtlRlY0aDFNS1hGbjZienlVOHFLS3VTcTRWQ2c0SnpMaFNvZElzYmY5d2ZETmtuelhCUE8xUHR4MFlvUXdWOURSZzZiaklUNVNSY1M0ajd3YU5XZXF3NHpCd2V2T3ZiUm5hRkxNRGxmdEV6Vk5ablUwclZUZnN0Tmc4djZQV3hPQlFjQ0EzNFRnM01hNXhobDRXclE?oc=5"
     },
     {
-      "headline": "Lam Research Corp Stock (LRCX) Moved Up by 3.22% on Aug 13: Drivers Behind the Movement - TradingKey",
-      "source": "TradingKey",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUDJPN05FN1paeUM3SXRuZVVIeHNjcUhNbDgyd2ZMYkhVSU5Xdnc4NmRycjRjN25nOFRmZVN5bGNKTnYxd1dXSXJscElJWWVCZVBManlteVlGdmo2bjMwdlFQMXlOWDBZTjZiQ29odUdEeXpoaXFVS1JOX0pxVkt2QzlUUkpQM1hPMXZR?oc=5"
-    },
-    {
-      "headline": "Lam Research Plans Labs to Handle 50% More Experiments - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHoxSGgzUW01QmFGWmFpVEl3LUVGdVB4aFJyUTRocVdSS1NMV2VHUkdrNDNvWHZidDdiS0tLUmpEY3A0bkh5N3RVRUFEZUNieWNlbjdVd1k3ZkdJMjlhaEs4SjJVV2V3WnhHVUZwREx4bVUxX0FGcWNoamdodkNCanNEbGJLUEtWNXdJWHZLX3U1Um5OWVE5RnlBcTRaZVpGSWJGc19RVTQ3MS11NHdqbUZuTGxKeGlKVDR5RnlqZ2M?oc=5"
+      "headline": "Why Lam Research (LRCX) Is Up 10.2% After $3 Billion Global R&D Expansion Plan And What's Next - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMFFyWjNlT0RyZ29CMUdFbGh3QmRESWR1UjFzdl8wZlU5c0gzVEhneXZudVhCWWl2UXE4SFViZmRha1hpN3hyamQ4MkVCWGFwbUcyRkF4Wl9OZUpwV29IZFlhdzBnT2tTS2ZRR3dOejFjN2U0M3VkdHBjOVJLNXZURlk3NGQ4WEZYdmhuVUhhR1lfSm9CRWxSWjI3aGlTN0tja2d6MU5NWlBkVkw4RkhXaVFldjZMbk56M2xBYTc3V1RTYktCUUpVSHNsWlh2VGFnTkVN?oc=5"
     }
   ],
   "insight": "Tracking Lam Research (LRCX)."

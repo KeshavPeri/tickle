@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-14T03:38:52.477Z",
-  "builtDateUTC": "2026-08-14",
+  "builtAt": "2026-08-15T02:33:28.169Z",
+  "builtDateUTC": "2026-08-15",
   "source": "yahoo-finance",
   "1m": [
-    111.37999725341797,
     113.0999984741211,
     111.55000305175781,
     110.41999816894531,
@@ -24,10 +23,10 @@
     107,
     107.81999969482422,
     108.81999969482422,
-    109.12000274658203
+    109.12000274658203,
+    109.73999786376953
   ],
   "6m": [
-    104.75,
     104.80999755859375,
     105.08999633789062,
     104.26000213623047,
@@ -158,10 +157,10 @@
     107,
     107.81999969482422,
     108.81999969482422,
-    109.12000274658203
+    109.12000274658203,
+    109.73999786376953
   ],
   "1y": [
-    101.43000030517578,
     100.55999755859375,
     99.94999694824219,
     101.86000061035156,
@@ -411,29 +410,30 @@
     107,
     107.81999969482422,
     108.81999969482422,
-    109.12000274658203
+    109.12000274658203,
+    109.73999786376953
   ],
-  "lastClose": 109.12000274658203,
-  "oneYearReturn": 7.5815857421562525,
+  "lastClose": 109.73999786376953,
+  "oneYearReturn": 9.128878806731104,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Ameren Corporation Directors Declare Quarterly Dividend - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRW9GeENvUlA5OGZtT0RoVXRLNW5TcTJqbVJORmlPZGpXal9JNTE4RjctTFhmMldzMnc2b1N3T0Z4anZoN0ZxVVJJNDktS2wxX0Y0d3hHSE5XMHlndTlMbExBS2FOajJla1NHU2szdVl0UlpZOUV0WGRUMFZoMHZkUEZ1d1NzLUplZFRHb25kbFp0Vi1zd2RPcXptZlpsWmZDbWNjTFdrNVV4c3lsY19Fag?oc=5"
+    },
+    {
+      "headline": "Ameren Sets Sept. 30 Date for 75-Cent Dividend Payout - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWJwVjAteWZnQkNMaWd1cnB1QzhwZHpzRkNVZjVMbFdRdFhlazl5cFloNHlIRHdDck5FLXdpQl9vRmpXU2pJRXl1QUV6cGhmdVA4aXdyVEJ0bDF6NFBaeVhOSkFpUDVHMlVQNXYxVnphZjFGYlNTVWR4VGlSTHM0VDVSNFRldEhmTmU5cXV0aTZRRFRKZTN4VjFXbHRWZS1IOWc?oc=5"
+    },
     {
       "headline": "Ameren Stock: Analyst Estimates & Ratings - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNExHMGFjTTJIb3lURlBNY0lmTWYxcXRnYk5yYkVCSGRKTGh2MTNZTG1sTG00bWhsc3RWTEVvVjhqTnlmRy1MNktFaFpyUzJBM0tsZE9QUnVyRTM5Tkp6X1JIcFlhOTBadWVWdmtScnRqRXFRTC1ZM3RTdFFlY3JIamRNNWllWkYtU2RNMU1JbGJlMi1CZHN3TV9DS2s1ek80NDVUcHpn?oc=5"
-    },
-    {
-      "headline": "Assenagon Asset Management S.A. Has $11.61 Million Stock Position in Ameren Corporation $AEE - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcGN6d05JS0dWemJsaEJGM25tSzdFUzlkZGZodjljQlN4OG1FdkdmVG1hZHhtN0xlX0UyTk9SREg4LXZ3cXhVYVZiSTctcVpZR05MOXNUSjhNQ2RXMEEtQ1E4S0phaHlLcHJNVVlGSGIxaXhwQk1fd09SWUhrcmg5MGVpYnU3Zy1WX2I4UERQMkZBOXY1YWtlcGlCa0ZWUEhNaE1sRklJc1N2UTlid2hoNHJpSTlRMG1BeVRXR3dKVGhYRWJDdTJydGs0aGtfLWJqUjNvem9vaFF3cHd2alJuTzdn?oc=5"
-    },
-    {
-      "headline": "Ameren Corp. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX1VnVi0wYlZWQ2d1UFl2SDB1SThMUFNhRk1lTUNwUzNiQWxXYnBvV25SdkJfRnhDQkh5czhJakl6TVZUejBuZ3U5dkEybFpRSE5yeFk0VXJHN0JwM3RJNlV4dmhmaEZkOU5GTlZaUmluRUVVckpKM0JWVDlib3BPU1FiYVVHQTlvTl83LWtaaURwbUVOQm81dkc2OHFCZzRsaXhDYWRKNUVQenFaZzhLSktWZDFrb2FtUGhzZWcxd0dPZU5xYXFMVWhTS0F4THNNQmhmaFJGeDNwaEdaV1E?oc=5"
     }
   ],
   "insight": "Tracking Ameren (AEE)."
