@@ -1,20 +1,20 @@
 {
-  "builtAt": "2026-08-15T02:33:48.960Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:42:45.295Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    284.8599853515625,
+    280,
+    277.7900085449219,
     271.04998779296875,
     269.1300048828125,
     270.0400085449219,
-    268.760009765625,
-    277.2799987792969,
     287.0899963378906,
     287.5899963378906,
     288.25,
     299.8999938964844,
     280.3999938964844,
     319.8999938964844,
-    326.45001220703125,
     325.95001220703125,
     323.05999755859375,
     317.70001220703125,
@@ -27,6 +27,9 @@
     327.7099914550781
   ],
   "6m": [
+    420.29998779296875,
+    429.6400146484375,
+    413.1400146484375,
     369.3800048828125,
     397.7699890136719,
     405.82000732421875,
@@ -140,15 +143,12 @@
     271.04998779296875,
     269.1300048828125,
     270.0400085449219,
-    268.760009765625,
-    277.2799987792969,
     287.0899963378906,
     287.5899963378906,
     288.25,
     299.8999938964844,
     280.3999938964844,
     319.8999938964844,
-    326.45001220703125,
     325.95001220703125,
     323.05999755859375,
     317.70001220703125,
@@ -393,15 +393,12 @@
     271.04998779296875,
     269.1300048828125,
     270.0400085449219,
-    268.760009765625,
-    277.2799987792969,
     287.0899963378906,
     287.5899963378906,
     288.25,
     299.8999938964844,
     280.3999938964844,
     319.8999938964844,
-    326.45001220703125,
     325.95001220703125,
     323.05999755859375,
     317.70001220703125,
@@ -418,22 +415,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Have Insiders Sold Huntington Ingalls Industries Shares Recently? - simplywall.st",
+      "headline": "Huntington Ingalls CEO Kastner sells $4.25m in HII stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaEQ1Um9EZTQ2X1NxbTA4cXNTMTdiLXRlZHhfS3lrOTBBeDdxYmVheTFZS0dkbVUzVmdqSUN1Y216NTV0R2swU3RuTDlTQk1ZSWtuejFOMVY3eUJnRTkzVVlTaDFwVTRZbldBbUVDOWpLLWxuUThvWUF0Ukpocm01TVBRMFdDLTZxN1hUeTZHM0t5aGpHaHhKcFZkOUw0bjQ4cEhNSFdodk9rRUxuZUtOd2JZVFVuYWZwdGVn?oc=5"
+    },
+    {
+      "headline": "How Investors Are Reacting To Huntington Ingalls Industries (HII) $2.2 Billion Autonomy-Focused SOUTHCOM Award - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX3pPTWg5T1V0NFVIUXk2M29USUlsMFJkdm5qbDIwSGNqdS0yejZ4cExzUG1Ca3pfRTRxUHgyNEJTVHdhU1J6VkxEcUY0UzJ2NE1rY0kycjdaWUpXdGRNZGRRS3lQT2tHLWNTLWM4WnRtUzJmb3hWNVlmOHAyb1NGcmQ2X2JEVTkyb2hsVWdhVnh0dFFmaXVmX21GOVF3Mm42WEVvLXBqUFB3Z2tvcE9ZUldLak9USFRNblB0OTllSEtSY0pXT2hGR0ppVXk4WGc1dmN6REsxdVpRbDFMWW9FVjdrX0c0amfSAewBQVVfeXFMUGJzUktjNE1vTmtqZ3ZnT2xPUEZfOWlXR2lOQTRrS04tRHd5SlMzc3ZQZXhjc05jcTFja2RkYXdqTzNLQ2k3cFRpTndDbEpSX0NwUW9zY2pycUZrZ2pabjl5NkFKQThIX2tCV1o2RFk0RUdQaGpPc3RtMXF5eXQzWnlDUzFLQVBwWkdnUUtKZVFiaXN6M012Njh4NHFWLWVWbTBxTlRtd2Zlb2VWTERWaGRXd0RPblNYZXhRN1JENzlKd0pucUd4WXB1LUY0R3NOWlVac1RxSW9tcDhveVlxdWdzZzFUODNFU0NCMk0?oc=5"
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSnJXWkNqMFBXUXVSRDFxWm5iQXRTVDVua2oxMDBRYUl2ZUQ0REo3N1dpMW5LY2RvMFcxN1ZzY1c0TXNTcmRVazVSSWNjM0cyUEtBN0w3NWdmYTZjY3RHUUJhMGNKWmU5Tk8xOVhNZkJXbnBueURyWWlqWjh3ZkJzT0liQVcxdXp5Y3lSYjlQdi12TjBJQ2c1NG1wNng4LWMtR2ctZHdRckhwMURZMzZWeVdVVU1HN2Z5c1JWOUg5MVlMM1VaY3ZwSXZWYzZLQW14NDRLNlJJMW5JNzFvYVJRNGlNZFZhd9IB6wFBVV95cUxNMnVOTFlrby1LNTJjbzNpakwxamZGZ2lsc3hsekJHTUlXQXdlTm5ycnN3aGFZbjhzOEYtQjhPQjBxSEhMdlIzX3MwTjB0UUJpU1ZYclVheTM4XzNQeS1tVm9LOUhPUVF1U0NxQUJDSmwxWXo5OXJwMG9MT1R5dkloSTV6N2VCaTRZMy1rLXdpODg2MFVxT1pGckNBY21qaWR4c3R5WmRkenRNd0JyMDUxNW5FTld0UHhqNmFRRHlrT01Ya2dxU2xqZWVORHlVYVFzc3dwRTE5d1p4REVLdi1oZ1lUbmtDMXZLcUc4?oc=5"
     },
     {
       "headline": "Huntington Ingalls Industries (HII) Stock Could Be 33% Undervalued Following New Submarine Contracts - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-02",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlZnSW5sZnZYZEJGcDVNQWw3Tk5DeHRQYUhrcHJFdnVsNk5yZ3hDSFFJZDI5Y25MX3lQOEs5N2pMTUpRMG5kSzJZRmd5MXFHWGpfTkhFMEZGV1RwNDZBcEJCODhZRFdRRFcwWlo1TW9sT29nOUZmWjVDV3FDbzZZTGY4czhGZHpMdi1wNUV4NkdIc3hyV0FhSnlzLXRhSzl6LThtZVBkUQ?oc=5"
-    },
-    {
-      "headline": "Melius Research Has Negative Outlook for HII Q3 Earnings - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmtMams4d3d4WkxRaVJqRlRVNkpjR3kwNEp5SDgwdEZsVDNubWppRElIWmJZS2Z2X01jVzA5bDhzLUNqY3o5TnBkYU9GWTdTVlN3Mmd1dHVrXzRjaFpNc0VlbDIzcjJQRGV5TDFiSWNRemY5NWRMeWR6M0hLc2hzVVVnS0xGcTUzRGRtVzRXRjVTamI1SlJmNldiTDZJLW1Xd0dLZjdYMmVNWDJ4MmJN?oc=5"
     }
   ],
   "insight": "Tracking Huntington Ingalls Industries (HII)."

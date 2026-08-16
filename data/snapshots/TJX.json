@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-15T02:34:02.527Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:43:03.195Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    150.33999633789062,
+    150.97000122070312,
     154.7899932861328,
     154.4600067138672,
     155.6999969482422,
-    155.0500030517578,
-    155.41000366210938,
     153.47999572753906,
     154.22000122070312,
     156.3800048828125,
@@ -27,6 +27,8 @@
     152.11000061035156
   ],
   "6m": [
+    152.07000732421875,
+    153.94000244140625,
     155.39999389648438,
     155.86000061035156,
     156.24000549316406,
@@ -140,8 +142,6 @@
     154.7899932861328,
     154.4600067138672,
     155.6999969482422,
-    155.0500030517578,
-    155.41000366210938,
     153.47999572753906,
     154.22000122070312,
     156.3800048828125,
@@ -393,8 +393,6 @@
     154.7899932861328,
     154.4600067138672,
     155.6999969482422,
-    155.0500030517578,
-    155.41000366210938,
     153.47999572753906,
     154.22000122070312,
     156.3800048828125,
@@ -418,22 +416,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "TJX (TJX) Stock May Be Pricey Despite Steady Earnings Expectations - simplywall.st",
+      "headline": "TJX Companies (TJX) Nears Earnings, Is The 14% Undervaluation Case Convincing? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdC1LcUxzOVpvejBEZU5JUkVvVUExX21HWGs3d3dFSnBxaWZXWmFSbU1TSGsyeUxJX1NFOTd6ZnJpMURjQzhWcnJhR29Kc0kwbkMyWjA1aDlPOHRqUi1MekFFQ3RSWDR5SllkR0dpQ1IwY2NIYXNEcHJBd3g3S2NFSXZ1LWpRRTh4WXNaWm5oeE5oYTlUenRlUXNzd3ZnY2hEVmxndEdHd0l2UlZ1a3doSmZnaG54TnVRRW1SYld6V1hVd0dWa1HSAcsBQVVfeXFMT3JGNUVkenU2R2VmbU1OSW1RLTBlUzdPeF9CRG8wdER5VUY4T0wwV1pXUHA5YWRXV3JaYmY0eTN5NXY5RmowOEhDcWs5NHJQS2N4SDBOdDNmYXFRVk5aUHNjeXJ2ZzVuUVVieUUxNVRYTmZHRUNCelppRlNyazRNVk1tUHFnMWlBVXV4aXFSSWN5MlRNVHlVbks5Q3UtRENsMW9CZEhzQVZEZkptTy0tUFh0Y1FiWHdBNFdfVUxmRmFURWRDN3ZEay0xRWc?oc=5"
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHdWQVlJbFprc3N6VXNIaTRuWXcweHdLN3g4NDZ4TEFGV0loMFpPUkNqVmhrYWxRcDc4X2dyMk1iVXhKeHZxRzdwbU9JU056alRYS1lWbVZ6YmNCRVFyc3FOdTZXV3lwcExzdlltVFZfMC1PTXVkREcyc2ZVZmhWNVZhU052TmlPa1NzRVBmQ0ttaVJwUDJDNUVnZ0R6dVNBNGNPTnROZ3U0c1RqVGdmUjJ6NEJvd09wV0dMYlBBTkdBTjIzVHfSAcsBQVVfeXFMT25QaEdPVnptWGVDSUQtVGZvRGEzbjdYTkFONW83Zjc3ekFqZHJGc09EeXRwZ1B6cXQ1akZJNlNqMjE0WVJZVW5uODVOZF9OazhxZXZSSTlXS3VwblgzSTVTekI2SXgtY3BSQkxDbjRoVlVDOHc2ckZIZFctOHhCRTJvMWlUWlpGTnoxaHZiVTJDSXV3cFlqT09XdGdkUURLNVREODJnWWJBZHd4T3FIT05SZ1poRXEyNmI2ZTlFZkozaGhqRkVaUTl4Znc?oc=5"
     },
     {
-      "headline": "The TJX Companies, Inc. $TJX Shares Acquired by Hendley & Co. Inc. - MarketBeat",
+      "headline": "The TJX Companies, Inc. $TJX Shares Acquired by Union Bancaire Privee UBP SA - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1VhbC03dnRCUnJsZXRMZ1I0S2VWQzA2WE9tNnc0bjdqbXNIaTVLdUpqeE1icUt4MV9rMllYejBaM1BpdEQzd2pHM3hnNE4yUE5LM0NkNHRyVTVmZjlMNWJScVdrcGhYUk83MmE5OEgycURIM2t4bk40OHpuUnhMOGdvdmlpWFZlcXpMWVpCYzZnZzhNaTIxN050dVdyNHdkMkZfOU56cDNXVWk0SmR4TDYtMEtVZ1R5eVpSVQ?oc=5"
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV3NTajc5bE1PNG85X1JaUjhtU0NTelFNX0g2MTQ2emJDXzk1Rk1zRHFPWm9SX292ME1ycThoZzFQaFZtN3ByOEVoOGVQMWlUWTY0UmJtcm1VM0FaOVhzWm5jTTNPUnhUa0FJZlVpTTJYWk45dExkNFFEemRvdTAtUndLMlBWNGhwQjE1UTVfWnJEaVprSThhZFdickVSeWl3Z2FiZU5wZXVtYmhsLUxzX1hRR1l1UkpBdHZRTVFBZ0dpZ3RCaHFWWFVuU3lUYnc?oc=5"
     },
     {
-      "headline": "TJX Companies Stock: Analyst Estimates & Ratings - Yahoo Finance",
+      "headline": "Is The TJX Companies, Inc. (TJX) A Good Stock To Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGNEQXd5bUtqTWJ0ei1nZVZUWGZiUkRKUlNPRWQxUkZoVnZmeUw4OXEtUF9uSGkyZXhGNEFWeHZlb0pvR01mVTZ0dkhEa09DRVoyellSZXpRODRGa2ZXYmNJV3BmOVlXTnlSYU1GN3ZxS0tSWUZuVDFiWEJBbF9Jb0hoOWNpMkRlUzVKd0ZJS3FEVTJiQXBmZEhMRmRIUm9pd1EyQQ?oc=5"
+      "when": "2026-06-29",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOFV0ZlQwRW0yVElHcmxXQUVhNVdOYjNHNms4YWpLZ2tqUktRei1sdXF3VUVmeHE3Nm5QMGM3QXA2QzhPc3BUcU82X0NJaUpJdmJsX1VOb0kya1UyNHV5REdSV2tHSGFSd2JYZWh3R3A2Y0IzWVJNYUlIR1NGcFd4ZDhkYUxDdkJuaC1XSUZGa2V5YkNOTGc?oc=5"
     }
   ],
   "insight": "Tracking TJX Companies (TJX)."

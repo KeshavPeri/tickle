@@ -1,20 +1,20 @@
 {
-  "builtAt": "2026-08-15T02:33:39.808Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:42:33.027Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    132.66000366210938,
+    134.1699981689453,
+    134.86000061035156,
     134.2899932861328,
     135.2899932861328,
     135.75,
-    138.7899932861328,
-    139.63999938964844,
     137.39999389648438,
     137.6999969482422,
     139.9600067138672,
     140.77000427246094,
     138.10000610351562,
     138.83999633789062,
-    137,
     141.27999877929688,
     142.92999267578125,
     147.3699951171875,
@@ -27,6 +27,9 @@
     146.25999450683594
   ],
   "6m": [
+    133.2899932861328,
+    135.89999389648438,
+    143.49000549316406,
     137.0399932861328,
     140.19000244140625,
     141.3000030517578,
@@ -140,15 +143,12 @@
     134.2899932861328,
     135.2899932861328,
     135.75,
-    138.7899932861328,
-    139.63999938964844,
     137.39999389648438,
     137.6999969482422,
     139.9600067138672,
     140.77000427246094,
     138.10000610351562,
     138.83999633789062,
-    137,
     141.27999877929688,
     142.92999267578125,
     147.3699951171875,
@@ -393,15 +393,12 @@
     134.2899932861328,
     135.2899932861328,
     135.75,
-    138.7899932861328,
-    139.63999938964844,
     137.39999389648438,
     137.6999969482422,
     139.9600067138672,
     140.77000427246094,
     138.10000610351562,
     138.83999633789062,
-    137,
     141.27999877929688,
     142.92999267578125,
     147.3699951171875,
@@ -418,22 +415,22 @@
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Use DuPont Analysis to Pick 5 Top-Ranked Quality Stocks - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZWRnUTAzRTh3RE9LdDBlc1AzdEV2cURwajFuaTVPR1QxQVlSWUZDVTN6RzVNcUJYVnl1ZVRHMnQ4SDVCLUVkSlhhMV9TdnZmMV9EbGxrUW5FbUtqOTU2X3VLVFpIVEVtbDJ6S2hCSkNJRmNTQTdiTnRpRENDeGtQSzJKZXZKX2xEWmpWSmduSzc4Z2VVZWc?oc=5"
+    },
+    {
+      "headline": "DuPont de Nemours Stock: Analyst Estimates & Ratings - barchart.com",
+      "source": "barchart.com",
+      "when": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUHgwbnFNbGQ3d1FHckp5NkxxdHE3Q0Y5WWZpaDJOZlYxWE9ZNnVjMkI4U0xFN25rdkhNZG5XMzk1ZjhuNnBEZU1fOW4xMHBhaXowWHdPUVdUMHRyYkVId2hTbDhfQmVxR1RqalpGcW93b2dDNWx0X29iQk1lTjg4Y2dwTzFvVTVMV252MmFPdmpEbW5CRjJDOQ?oc=5"
+    },
+    {
       "headline": "DuPont de Nemours Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-14",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ1ZHbUZYWkNLZnY3M1I4UVhiczBWeC1XMDhEQThKY2NjaFd5NlkwT3JXTjJCMG84OG8ybV8yWmpHT3hrQjR1dkl4S1NtOGxUOWZlTGY5VHp6TWcyNUNyVS1ob1FCM1paT2FmVXU0TGgwNnZQMUVyYzlZRVY3VjdCX05uR2w3NVdsMlNrUm5EdjZRQTREaDF6bGp1b2hqYy1BX2JEQTVpa29ldHA5TmRSSEllUnJiNXJqT0tqSkk1dkhGZWVZMHZOVXZiRExmUnBnWmc3YWZEa0xHU1pSZUNVSlVlVXlVQQ?oc=5"
-    },
-    {
-      "headline": "Direct Lithium Extraction Sustainability Award Could Be A Game Changer For DuPont de Nemours (DD) - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcGxVa1ZVVVdNVl9zT2VaVGNPbl9hVlpYYWY4Vk5kYTZCdlM3OS16RTdIazIxN2Q2OVRsUDdGZWdIR3JGTFRfV043ejN2RHVHWG9SR2dQZ0Vnbk0tNjV2cklrY3MtcmVYaGdpVWJKa3dJOWhVVENOWlBmQWh0SEdTbWtFR05NVzVHWFRuLXVZVVFfQWxxYnVTNGNuOUxId0hyUlNfb25UVVdldUZtUUxMOXZNbHUxd2MydVJNeWJJVTRHcmNMa0p6RHNPcnlqTGpoS2tJ0gHYAUFVX3lxTFBvTWFZZFhEN1JVSENRQWZ1enYtTWdHWDFhYlNlWnh2Mjg0RV84YUhodzlpdzRFVG5pTXFZeEtTa0ZXXzlPOV9faEJoWk5iOGZEUWdvcnBGYnNBeGNjcTVKTmJ6VWZkRWh3anFZUVFlX0lkQXE5SWVGQ0UyeHY5UjIwazhtbkxHVG1zTl9ZcW5Da0FIOHpUbzJkcVNtYkw2V1p2RzFfOWpvcW5KWGxORGVvTFFYZWJRRWd3ZmR0SWxhTEQ0WFhTdHJ5NnZWTVNKOTc2VElGa3BHdA?oc=5"
-    },
-    {
-      "headline": "DuPont de Nemours Stock: Analyst Estimates & Ratings - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUHgwbnFNbGQ3d1FHckp5NkxxdHE3Q0Y5WWZpaDJOZlYxWE9ZNnVjMkI4U0xFN25rdkhNZG5XMzk1ZjhuNnBEZU1fOW4xMHBhaXowWHdPUVdUMHRyYkVId2hTbDhfQmVxR1RqalpGcW93b2dDNWx0X29iQk1lTjg4Y2dwTzFvVTVMV252MmFPdmpEbW5CRjJDOQ?oc=5"
     }
   ],
   "insight": "Tracking DuPont (DD)."

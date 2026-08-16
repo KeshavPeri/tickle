@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-15T02:34:02.352Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:43:02.950Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    51.95000076293945,
+    52.79999923706055,
     53.25,
     52.5,
     51,
-    51.380001068115234,
-    51.72999954223633,
     51.20000076293945,
     51.7599983215332,
     52.119998931884766,
@@ -27,6 +27,8 @@
     53.099998474121094
   ],
   "6m": [
+    54.029998779296875,
+    55.11000061035156,
     55.13999938964844,
     55.810001373291016,
     54.779998779296875,
@@ -140,8 +142,6 @@
     53.25,
     52.5,
     51,
-    51.380001068115234,
-    51.72999954223633,
     51.20000076293945,
     51.7599983215332,
     52.119998931884766,
@@ -393,8 +393,6 @@
     53.25,
     52.5,
     51,
-    51.380001068115234,
-    51.72999954223633,
     51.20000076293945,
     51.7599983215332,
     52.119998931884766,
@@ -418,22 +416,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Truist Financial Corp. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR01oR1QyZGFUQkNOcFFsel9YVnZ5Smk3am4yWXdzdUhLRXFkOTR5QmV1OTV6VUxlbnJrUW93Q2NXUEpBU0JoREZvbGpnUmJUbG5STVF5bVBqeXJOaWthb3Q4VERsNnJNa0pWUmRfOXNWNkVHNVFLOXNYZHNiY0x2OVVOOHdSVWlCSTc1b1F6cjVRdGNyX0VUdHlmNDJKM0o4eFJFUGJZYS1aT3lCLWlIZjk3REpKNFBuMVFPaXN0Qzl0cko4ODgwcGVmQUNzV3RLWHd4ZE52VG1HdGxpUzNPU1NyT2NpZw?oc=5"
-    },
-    {
-      "headline": "3 Reasons to Avoid TFC and 1 Stock to Buy Instead - stockstory.org",
-      "source": "stockstory.org",
+      "headline": "3 Reasons to Avoid TFC and 1 Stock to Buy Instead - StockStory",
+      "source": "StockStory",
       "when": "2026-08-14",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWRsME5yY2J5Q21FWWFDN0JLMFNRT1V3d1pJWEtteGxVRmJrNHQ5ZTVqSnhyRENwN3VLcTlGc3h0MnRyNkRocWZGZ09ta1V3SEhzRXZldFh3YUxTM1prT3NKcUQtTUVhR2ZOY1FJU1NsSEJzWU0ya1FtNFFJNHV1ZWFsbm1UbWZjYlhEelFremNnaE52dzlwWlNwVEt5Xy1iZUQwYjBjZm82YVpNM1l3?oc=5"
     },
     {
-      "headline": "Truist Financial Has Lowered Expectations for Globant (NYSE:GLOB) Stock Price - MarketBeat",
-      "source": "MarketBeat",
+      "headline": "Truist - Forbes",
+      "source": "Forbes",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwT3VxSThFOGY3OXFjZmFxWWdscDYyNTFuOE15REp0bmpJNC1vRURmTDItZ2VrVF9uSDVGMlc2b0VxYVJTemRqaUxPYUdDeVlVNWc?oc=5"
+    },
+    {
+      "headline": "Truist Financial Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRDBrVDdBeUNVNE9MMDJ3QTdsRDZVMUpDajVwNVUtNjJpaEkxTFlUVkNvVThXYW5oVFNkbG1NMWJqS3UzUW5OTm9nSEpnbkdvdkFBUVFWSXRrdFc2dDFxc3FQR1Utck5tX0JLNnRKdlV0Y2MxZ2J5UW5mM0paOVFLVXIwSmJQbnNuOVU1TEZyV08wc0dVQkd6SWdOR3dGdTJqU0tXa3pTeWhHX0dHaFRuRTI2bnM0d25Ob1l2dE9ZSEUyRmNhMGl3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR01oR1QyZGFUQkNOcFFsel9YVnZ5Smk3am4yWXdzdUhLRXFkOTR5QmV1OTV6VUxlbnJrUW93Q2NXUEpBU0JoREZvbGpnUmJUbG5STVF5bVBqeXJOaWthb3Q4VERsNnJNa0pWUmRfOXNWNkVHNVFLOXNYZHNiY0x2OVVOOHdSVWlCSTc1b1F6cjVRdGNyX0VUdHlmNDJKM0o4eFJFUGJZYS1aT3lCLWlIZjk3REpKNFBuMVFPaXN0Qzl0cko4ODgwcGVmQUNzV3RLWHd4ZE52VG1HdGxpUzNPU1NyT2NpZw?oc=5"
     }
   ],
   "insight": "Tracking Truist Financial (TFC)."

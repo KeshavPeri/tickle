@@ -1,12 +1,13 @@
 {
-  "builtAt": "2026-08-15T02:33:38.032Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:42:30.851Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    231.2100067138672,
+    228.22000122070312,
     229.16000366210938,
     224.35000610351562,
     219.6999969482422,
-    219.39999389648438,
     218.6999969482422,
     229.2899932861328,
     226.5800018310547,
@@ -14,7 +15,6 @@
     240.42999267578125,
     234.8000030517578,
     234.6199951171875,
-    232.50999450683594,
     230.8699951171875,
     234.1199951171875,
     260.7200012207031,
@@ -27,6 +27,8 @@
     280.04998779296875
   ],
   "6m": [
+    201.41000366210938,
+    201.6199951171875,
     183.6999969482422,
     189.2100067138672,
     185.6999969482422,
@@ -140,7 +142,6 @@
     229.16000366210938,
     224.35000610351562,
     219.6999969482422,
-    219.39999389648438,
     218.6999969482422,
     229.2899932861328,
     226.5800018310547,
@@ -148,7 +149,6 @@
     240.42999267578125,
     234.8000030517578,
     234.6199951171875,
-    232.50999450683594,
     230.8699951171875,
     234.1199951171875,
     260.7200012207031,
@@ -393,7 +393,6 @@
     229.16000366210938,
     224.35000610351562,
     219.6999969482422,
-    219.39999389648438,
     218.6999969482422,
     229.2899932861328,
     226.5800018310547,
@@ -401,7 +400,6 @@
     240.42999267578125,
     234.8000030517578,
     234.6199951171875,
-    232.50999450683594,
     230.8699951171875,
     234.1199951171875,
     260.7200012207031,
@@ -418,16 +416,16 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Lowered 2026 EPS Outlook and Rebounding Demand Could Be A Game Changer For Charles River (CRL) - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeXBoX3pWTEhxa1lFXzFmVjZPY2psTFJxTU82ZDBYV1hlOUFrS2JSOWJOTlAyZENhRXNhVXRocDNxLU4xaVY0b3RIS2xEX3NoU0JzZHNZZTFaZ0NsNWVIdlIycFI4UkY3N2pDemtKX014Sll1UDNhaElNQ2UwMGttMGppRi04NjRmT3RsWGVqREQtYjYzN1JFeExoa1dwU3VHNFJzRzlRRm5yaS1ILTFEMm5uNmYtUnFVYlNMdXZSNXU3cGxEOFhWSE5lQTZ4TUNYcWRISEJ1NXpWZi00dUt5N1FRLTM5MzNSckY3NDNWVmJiR3pfSzl5emhGWWYyc2ll0gGGAkFVX3lxTE05MDhiZGQxZVpEQldzRjhENzhVYkJKVE5WUlVaSE1ndl9VZUNQaHNKb0FacTJjaXg5U01RVTZoc2owcE1LU1VEYnlpbEVvNEdLblhFVGdQYUhiQjhCYmEzRjVyX1dvaUwwei14ekRhNVN2N3c2NlJjVm5lSnA5NkdvczFJMEFZN1NwSHdwOHJKQTJsZWQ0OVZFY18yamtKN0hyVDBXMFpMdnZIZzYxWWJGR0dVejdrb0pRUUJQSXRRU24tYXNNeGNZam1DX3FhYXlKd2FJZ2NoYXRjbC0weWN5V2tVcmxFVGFpaUJKc0ZFUVI3SXhSQ1F2UUJNTzJHa3FzNHZXeEE?oc=5"
-    },
-    {
       "headline": "Charles River Laboratories stock hits 52-week high at $285.13 - Investing.com",
       "source": "Investing.com",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVdwYTVsNE9CQS1KNUxYUUtrU2ZseVBfSWFEekhNUGNLU2xYQXYtMTdSVVZ6akRzZXVlaWx6Y21EXzVJRkhsT01iTkI3RHZLWFNTNk5YMUhvbkVzOXFma2QwNW90M3VTVUt0bDNRYUx3bHdLOG8yNnZzd0lMeWU0Mm5BTG9YX2hWVkQ0VXlNallUUTNYQURCc05rZnNiREVIS3paWU1GajNqZ3pkaTJZT1BNWERyZw?oc=5"
+    },
+    {
+      "headline": "Handelsbanken Fonder AB Increases Stock Position in Charles River Laboratories International, Inc. $CRL - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPY3l4NDh1TVJpRkltV0FTc3dSNlZrdDhfLW13OTNsQXAzeFI4cXc5NGxRbVRoRUs4ek1NUWhGX0R4VlM5Y2tSSVJXVTlXemQwUzBpWkRRamZkcDA5bXpRel9IMzUzMktZODZ6SU9mUHRvNjJFSWVheFhadTQwSmdHTURybVVlRDk3RXNvS3JkUlB1cDQ2OUpqaWdjYlB0dkxIV3VmdGVrdS1ISU5XMVZZb1hUamg1TGdJVHF2bDRZc1BBNV9PMGdlNWVSZXNIMVpoXzRQdGRvR0xINnlnVkFMdHRRb05Uc2t4NS01eGw0cjNLbUU?oc=5"
     },
     {
       "headline": "Charles River Laboratories International Inc. stock underperforms Thursday when compared to competitors - MarketWatch",

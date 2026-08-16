@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-15T02:33:54.824Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:42:53.019Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    92.54000091552734,
+    92.19999694824219,
     93.69999694824219,
     94,
     92.98999786376953,
-    93.37000274658203,
-    93.2699966430664,
     92.54000091552734,
     94.83000183105469,
     95.19000244140625,
@@ -27,6 +27,8 @@
     97.66000366210938
   ],
   "6m": [
+    76.9000015258789,
+    78.01000213623047,
     75.31999969482422,
     76.37999725341797,
     76.27999877929688,
@@ -140,8 +142,6 @@
     93.69999694824219,
     94,
     92.98999786376953,
-    93.37000274658203,
-    93.2699966430664,
     92.54000091552734,
     94.83000183105469,
     95.19000244140625,
@@ -393,8 +393,6 @@
     93.69999694824219,
     94,
     92.98999786376953,
-    93.37000274658203,
-    93.2699966430664,
     92.54000091552734,
     94.83000183105469,
     95.19000244140625,
@@ -418,22 +416,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is MetLife (MET) Undervalued After Earnings And Its $3b Buyback? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnpBbTYtdllqR3cxeUcyWDk2Z1lZWVQzaTEwSGZfc2xNNkIzb0VPSDhXdnh5N0RUeGMtZUdoMDBDRlBaS0FZeTVOR0FzMFZXVDlpaTg2aXVGNlJNb2pWOWUtdDNGREpycmI4VHU4TlZzSmczcUZuRWNkWERDeDE4aVpWUnlHVGwwXzBvX2lDVk53MGN0SzRmc2IwZGVmR1NRaUhJaTJRa1ZNb3YtTW41anQxT3ZHd3dMLWU1TmZlalN4d9IBxwFBVV95cUxQcjkxQTcxTWFuZjBlMDVOa0VIZGpzSy1EVzM3MTZjSXh3R21sV2FGdHNVamc1Ym01dHBrLWYzQjRfeGRZSnI3OHlnLXgzQXc2SklqQ3FTQ0FoRFpfYk1uQlZJT3g4Ym93OEd2ZjM3REtxdTRuYm9rZklBekFkQTd5MDJpeHhxVkFGQ0ljR1Y3cXZHb1lWdl95cXJqOG5jSV9UR1RuTmxrUE9pQnB5LW9XSkdTb0ttVjY2ZHZrbXAtT005X3FRSmlN?oc=5"
+      "headline": "MetLife - Forbes",
+      "source": "Forbes",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwTGUwOEdSVVJ1SkMwWGhtODY4WGRqNURKU3R2dVBySkFfVnNQV3dFNlU5VkRlWllCaGZoTDBwQjc5M0NwZTRMaWJHY0ozazU0N2xr?oc=5"
     },
     {
-      "headline": "MetLife, Inc. (MET-PF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1RVBhRm9MZzlURnB1QzNhdEFTb0ZkRmNKV2hZeFc3dHVvUHc2aEpQTHUtcEdTczlkNzhOSU9CTWdkLUFROEN1OFdFMkNYa3NjeTk1Sw?oc=5"
+      "headline": "SWS Partners Invests $3.15 Million in MetLife, Inc. $MET - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzlackFiMTVvWGtZaXFPTGhpb2JzM05QSGxzNlJvaDdtTi16TGM3RDk5dmptVU5HU2pPNVJiUEFOd3BKdkpVM2o1MDBYb2YxSnpGZGJNcU9lRHBmY1ZRSnVlY3BXTEVkeFdCTUw5Y3pYVHJLUjVVYUoyaXFRcUJkOFFERDJlcU1vdHpTTXZmV2NCTUNiMXZjYm9IM2ZIWmRMdGt1S19lSlphUkV1NGJLbmNB?oc=5"
     },
     {
-      "headline": "MetLife’s Q2 Earnings Call: Our Top 5 Analyst Questions - stockstory.org",
-      "source": "stockstory.org",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWRYc0c5aXFBV2ZIWlQ5MTNHYVNKaS00OGJEczVyLTJnWk4xa1ZTaUh2OXFlVzFNeVQ5NjlVcDVfRE82YmtPNzhINExFZVc3azZZV2JpdXVSZjBmS1hQa19mYTRodlRzYnd5akFPSEhzaHRuRjk1M2FWOEVPQ1FyUDg0aFFWSlR0V0JJZWJKUDE0YU9uNEIyV2xHV0tfQ2IxX3V4MzlSOU80Zm1kS3JpT1F4eHo?oc=5"
+      "headline": "MetLife (MET) Stock Looks Below Fair Value While Earnings Sit Above Fair Value - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdE9JRGttR3lnb1pVVHk3UEkzY1lvQUotd2ZDcENDTnVkMjdpTGh3cFJKN2ZoY3hoYjRyLUtFZFZCNDRqTHhsWDNQR0N2YTg5QVdsbkZiLURnRHhyWHNvMHlvSjNMWVVleG5oMmkzODNyU0lGRjBIXzFablBRV2pIWEtNLTBQSTNHZk1nUGxHVFVNd3JtS19KLV93?oc=5"
     }
   ],
   "insight": "Tracking MetLife (MET)."

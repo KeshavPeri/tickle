@@ -1,20 +1,20 @@
 {
-  "builtAt": "2026-08-15T02:34:00.323Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:43:00.195Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    360.5899963378906,
+    346.6499938964844,
+    348.510009765625,
     364.2099914550781,
     363.1400146484375,
     362.8399963378906,
-    350.69000244140625,
-    336.7099914550781,
     355.1199951171875,
     367.3399963378906,
     375.0199890136719,
     390.9200134277344,
     408.07000732421875,
     389.25,
-    391.9700012207031,
     392.57000732421875,
     392.760009765625,
     394.5299987792969,
@@ -27,6 +27,9 @@
     399.3399963378906
   ],
   "6m": [
+    372.6099853515625,
+    348.82000732421875,
+    359.7099914550781,
     351,
     362.4200134277344,
     351.7099914550781,
@@ -140,15 +143,12 @@
     364.2099914550781,
     363.1400146484375,
     362.8399963378906,
-    350.69000244140625,
-    336.7099914550781,
     355.1199951171875,
     367.3399963378906,
     375.0199890136719,
     390.9200134277344,
     408.07000732421875,
     389.25,
-    391.9700012207031,
     392.57000732421875,
     392.760009765625,
     394.5299987792969,
@@ -393,15 +393,12 @@
     364.2099914550781,
     363.1400146484375,
     362.8399963378906,
-    350.69000244140625,
-    336.7099914550781,
     355.1199951171875,
     367.3399963378906,
     375.0199890136719,
     390.9200134277344,
     408.07000732421875,
     389.25,
-    391.9700012207031,
     392.57000732421875,
     392.760009765625,
     394.5299987792969,
@@ -418,22 +415,22 @@
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Summit Global Investments Takes $1.02 Million Position in Roper Technologies, Inc. $ROP - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM1ZsLUk5N0xjRU9NeC1MMk9hT1UyWGp2Y3NrdGpoTUNjMzk2ZkpHRVFVWDMwZlQ4ZVEzR1dDRURLZ0wyMWRicl9ra3VjVWlXaV9pMlJOQnkzWGFHTE5Ld0lmZmpWUkt6VHdhbDJ2T3Bwek03c1ZOMDBFTEswQUVqdloyNTdvOEdtSGlGYllIQ0pCR0U5eFZfbWdndDBWejlfWXNHNHZCc2JFb1Vrakl6SnRwSVRmUndrX29HMkh4dWtVenM4X1Y5NXJHR3puY3hSYzFXak9OV1hwenM?oc=5"
+    },
+    {
       "headline": "Fund Update: 3,716,889 ROPER TECHNOLOGIES (ROP) shares added to DODGE & COX portfolio - Quiver Quantitative",
       "source": "Quiver Quantitative",
       "when": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOXzZmWjN5bUJJMnlZM0cySmhJN3U4NUcwSXhpZENQdThKWlZnR3NIcG1lVjNaaUtIZmhrLW9KOEFfckRGVW1wU1l4WkFlZXp3UzBWQkFMNVFDRGt5aVB1VzBEWFZPWWRHMEV6ckgzdFBaaHJWaFhMdm4zeUY4SXMzc3kwWWFqVjZObHFHMzc0RWJvWW95b2pnOWtqWG5ZV2dud3Vsems0YWt2WktOYVdhNTZpeWZoME5Nc1laUmhPV2owRjRLeDNWRzlR?oc=5"
     },
     {
-      "headline": "WindAcre boosts disclosure of 8.55% Roper Technologies (ROP) ownership stake - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVlrM1B2akgxMUJSRklrYmVLalRIUlR2V2pibDFvdUk3QnYtX0l3T0NRdUNNczBIcVZCMzQzaDNieXVnSkxQOXJRcWRaNS0zcWxMSHk5VHduWlRJNkhpbk10TFVpUjhTaEUtTnF0ZHZTYnFnMXhVUGZ2YmtOUnJZLWxudEhmTzhqcWEyMDFRajg1LTE2Yml6cXZlYWNHTEZDQmFmWnpTdlNQdGRZbUVzYXlTYjJZR180R1I3aUdKSGYya3RRcXUwQ09B?oc=5"
-    },
-    {
-      "headline": "Handelsbanken Fonder AB Grows Stake in Roper Technologies, Inc. $ROP - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLUoteXZrZ1hCSWo5QWFZR0d6NTJPQVhBY0hUa3VkVU1FcXhLTHpGaWd2eEN6RzhUV1gzZU5QajQ0VHZ2bUJtTlo5T2M2a1ZkcTRmWVF6SXBKUHZvR3R1M21RTi1FU1ZwV3EwZHRWSzh1RVRodl8xVDN6ZFJnTENLSHp2UmR1WlY1eGV2LXVOdHduNTlsREk0d0w2SElyZjBhb25YdXQ1c1RFQ1lManlteHJ4bWJDNW85TU52OTBZLXNSNm9S?oc=5"
+      "headline": "Roper Technologies - ROP - Stock Price & News - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LeE5vZk9UVGNCQU5oUHRhMEZfNjVfOG9nZmFDeEJ1bDBNODJfXzFfamFDa182c0o4RHFWZ2RJQVdlaE9zcTVKbkRLaw?oc=5"
     }
   ],
   "insight": "Tracking Roper Technologies (ROP)."

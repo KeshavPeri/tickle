@@ -1,12 +1,13 @@
 {
-  "builtAt": "2026-08-15T02:33:45.887Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:42:40.957Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    1775.0999755859375,
+    1736.699951171875,
     1680.5999755859375,
     1674.06005859375,
     1712.1800537109375,
-    1773.510009765625,
     1791.06005859375,
     1831.1500244140625,
     1733.5999755859375,
@@ -14,7 +15,6 @@
     1626.3199462890625,
     1519.9599609375,
     1697.8399658203125,
-    1729.68994140625,
     1770.9599609375,
     1775.8599853515625,
     1737,
@@ -27,6 +27,8 @@
     1774.06005859375
   ],
   "6m": [
+    1209.969970703125,
+    1119.81005859375,
     1147.969970703125,
     1230.260009765625,
     1283.6500244140625,
@@ -140,7 +142,6 @@
     1680.5999755859375,
     1674.06005859375,
     1712.1800537109375,
-    1773.510009765625,
     1791.06005859375,
     1831.1500244140625,
     1733.5999755859375,
@@ -148,7 +149,6 @@
     1626.3199462890625,
     1519.9599609375,
     1697.8399658203125,
-    1729.68994140625,
     1770.9599609375,
     1775.8599853515625,
     1737,
@@ -393,7 +393,6 @@
     1680.5999755859375,
     1674.06005859375,
     1712.1800537109375,
-    1773.510009765625,
     1791.06005859375,
     1831.1500244140625,
     1733.5999755859375,
@@ -401,7 +400,6 @@
     1626.3199462890625,
     1519.9599609375,
     1697.8399658203125,
-    1729.68994140625,
     1770.9599609375,
     1775.8599853515625,
     1737,
@@ -418,6 +416,12 @@
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Comfort Systems (FIX) Stock May Be 32% Undervalued As Cash Flow Holds Up - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWTk1NjI1Wk95SHBRckRJdHdYVG4xYUcwLUlKUFhicmRHWFUwMDloRVMxRmgxY3BVTDJrcnNFaTM3QTVtY2t4TVU4Wm5PX296NThMZkxXcDhmZExUX1VqbVpwVjlnTWpSY0pLc0JhVkpoRUVQUDU0V1dGcl9Xd1pEb04xejJqVjBaRWFaTUN5Mk02aEttNEZZTm5iV1I3SnJydXVOTmRwVGUzWVJGMXBwVDAzd3VnOGhpb3JUYWFKSUpiRlpMT0ZDUG1tUUZJY0tGTUdmcUFyd9IB3AFBVV95cUxPQl9pNzJ6bFFjWEVVaENEei1PYm5GazVvdDY1V3I2NTNwbUhjSW5NUHozYXNlQVhPTVYtWm8yRVFrX3BZRmZ4ZnItbVJZUTJLX1dQUjVYeWtjbFl3VEQ4THBUOFNoal9CN0ZqNUE1Y3hWaU9RaGFuZXp5eEdlWTZLeG8zOTVUQTdZWHdLcnVsbWhqWmtGeXhoSU1wVW5DUWtzYmotUXFYVWNzME14YkdST3lyYldxaEZLWGJxeVFFQ1ZyS3VNVzZLVFY1U1dGWUFaOFFlWV8xOW9uSGYw?oc=5"
+    },
+    {
       "headline": "The Bull Case For Comfort Systems USA (FIX) Could Change Following Analyst Upgrades And EPS Estimate Revisions - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-14",
@@ -428,12 +432,6 @@
       "source": "Trefis",
       "when": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQODRtS3dJVXJWZ1A0amtNR0Y4cjkwN2F4ZXA4QzIxOUE0cmtsN0l5TmRMeFNQNnU3bVF4TGRZbTZLSHoxOVE3T1hYQmszY1FVaTl2Q2RPb3hxZFRqV1lnR1FqVE1RV0tkRjh6TW1peVNrWlYwRVYxUC1qdXdtejgxN1I5RUVpWmxZSTBMMkpZSG5SV3RVaEVGQlJSazh2blU4N3R0ZEhXd3Vvd0Vid3hJSzBCM1VvZEhSWnc?oc=5"
-    },
-    {
-      "headline": "Comfort Systems USA (NYSE:FIX) Director Franklin Myers Sells 3,500 Shares of Stock - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM3JFclBhRUtnNk5JaEtkUXBYSlYwbHB0VDRtME5QN2JTREtZTGo0Z1FXOWc1UVdsV25kemVKOWQtakx5U2tFZ1FxYmhaV2NOZ0JSM2MzZ1JDLU4wb0Vua0N0dlFDSERSRl81alJTUjVXdndkWjduTjk3cWF2Wm8tTDFyTFB4cXY0Ujk2S3J2YjZZNXNzeFh2T2N1OTh2TTRCbjNQWGZ5aUlWdUM5WkJUN1BTZUpzcmd5d2JmM2JIX3l1cFhxenhIUGFHeko?oc=5"
     }
   ],
   "insight": "Tracking Comfort Systems USA (FIX)."

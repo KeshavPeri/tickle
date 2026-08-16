@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-15T02:33:29.006Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:42:19.206Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    250.35000610351562,
+    239.47999572753906,
     241.86000061035156,
     249.89999389648438,
     253.72999572753906,
-    251.74000549316406,
-    251.8300018310547,
     254.52000427246094,
     259.9700012207031,
     261.2699890136719,
@@ -27,6 +27,8 @@
     261.4100036621094
   ],
   "6m": [
+    201.77000427246094,
+    207.1199951171875,
     215.19000244140625,
     207.5500030517578,
     199.94000244140625,
@@ -140,8 +142,6 @@
     241.86000061035156,
     249.89999389648438,
     253.72999572753906,
-    251.74000549316406,
-    251.8300018310547,
     254.52000427246094,
     259.9700012207031,
     261.2699890136719,
@@ -393,8 +393,6 @@
     241.86000061035156,
     249.89999389648438,
     253.72999572753906,
-    251.74000549316406,
-    251.8300018310547,
     254.52000427246094,
     259.9700012207031,
     261.2699890136719,
@@ -418,22 +416,22 @@
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Allstate president John Dugenske sells $8.89m in company stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2FTNzkyQjE3T3Q2LW5taXVyQjJzdXhpYlpzTEtjZm5JMWZTYXhYTGNiTGxoWDByUXFEVGJZUnNrWU84RkliZmxrSDB2VW9wMEprWDNqdkFhbVFfeUVaTVQyQ2RfaERHcmZTU21ZTDJzNVFNZXJYeVZqVjNtOTk2X0NHRUF2TlZzcXhTQkJUM2c2QW1jMU5pWWJaUGxDbU96T0RFVVZfMG5kenVoanc3Q0hoOFozQ2UzSmJaVjZtOEdxNEEzb1NzdFZzMVZ1dw?oc=5"
+    },
+    {
       "headline": "Fund Update: New $36.1M $VCIT stock position opened by ALLSTATE CORP - Quiver Quantitative",
       "source": "Quiver Quantitative",
       "when": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRndIVk1DTGpiLXVoV1dodFVYc1Y3emtvdlNzSk1NODA2SUhzZFNOaGJYbTdONlV0aUhzUGZxU3FFRFhNTVF0bUZVRkJoamxIcDVpM2FzazZTY0VQNzA5TEdnZXBSVEJ4WlJ5X05KUmpYTU9sWk5yQkZhSVNPRkpVM0xJX0ZIWlloaFl6cF94bVFEWkVpeGFhcGdQOGN5YTcyRkpad0xxZGZGREU?oc=5"
     },
     {
-      "headline": "Allstate COO Mario Rizzo sells $14.87m in company stock - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmFpVDl3OFNqbmJVMHI1UHFER19oY0ZvaWJJMWpRRkZiYmE3SEpaaUZRaXFMRXhrM3g3ME5iU1NkdFZBMmhwOWZFcGpKVjJTVU1ESWFuWDZGT2R0N21RQWRETU85Y3pVZDM0cGIyYWduZDhUTDFFTWRQYkc4MnRsQWtUWFRoX2VOWEs2Um1FQ2VXSERGeVFyQlB2WUxDbHdrWGJ5b0NNcFB0dUtoYTZaT2lQLXU3ZVV1d0E?oc=5"
-    },
-    {
-      "headline": "Allstate’s Q2 Earnings Call: Our Top 5 Analyst Questions - stockstory.org",
-      "source": "stockstory.org",
+      "headline": "Allstate (ALL) Could Be 3% Above Fair Value Following Strong Q2 Results - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ0VBeEl5amsyQ2dUellVc1dkNXhuRkVkRjBiMlBSUWxpSUxFZFdyeVptVGdoMWlxVklMOEFrRHA4M0c4TjJDczZPZjVIMUNoU3Y0clVESzNaT18xM3NqbHdNQU9XWkRDeVFheG9Rcm9yVVplRDlnUVNyU1BBLWdPV2Q1aGQtd1p5NURzWmdsMXZzUGp5dXZzWmpDTDh1akQwRXFLZEl5bXV3dzNWWFV4b3pXN05vQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFoyWFZ3RHR1ZTJyZl8yaDVQQzVOSHZmbnRfZGRFVEk2THplcVdnR0xjSlQxc3VkVFlfLURPek84cDhWaS1kTDA2QXVYQnU1ODdCdzZTYUNRS3k5czB3Vk9tU0Jib3hTODktdkdXSXlvTU9STHItMVBFcU1FVEMxRExjTU90Wlp4NE9QRlBfY25ZWVlUWDFB?oc=5"
     }
   ],
   "insight": "Tracking Allstate (ALL)."

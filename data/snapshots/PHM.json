@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-15T02:33:58.674Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:42:57.847Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    124.55999755859375,
+    125.38999938964844,
     129.02000427246094,
     126.08000183105469,
     123.18000030517578,
-    124.26000213623047,
-    126.75,
     124.66999816894531,
     128.75,
     130.58999633789062,
@@ -27,6 +27,8 @@
     130.17999267578125
   ],
   "6m": [
+    130.4600067138672,
+    134.57000732421875,
     134.0500030517578,
     135.08999633789062,
     132.3699951171875,
@@ -140,8 +142,6 @@
     129.02000427246094,
     126.08000183105469,
     123.18000030517578,
-    124.26000213623047,
-    126.75,
     124.66999816894531,
     128.75,
     130.58999633789062,
@@ -393,8 +393,6 @@
     129.02000427246094,
     126.08000183105469,
     123.18000030517578,
-    124.26000213623047,
-    126.75,
     124.66999816894531,
     128.75,
     130.58999633789062,
@@ -418,22 +416,22 @@
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Are Wall Street Analysts Predicting PulteGroup Stock Will Climb or Sink? - barchart.com",
+      "source": "barchart.com",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcE51MGFkU3NqZjFqSDZBQ3dLTkxCZEdTM05kb3E5enl3cGxRMXcxckxPWlRiQWpzS3pYZ0JNaV95X1dCT1JDSVF2UldNU1Z3a3ktRGRTMHpZWU9PNE9rclVLR0VnZHk2b3hyVTd3RjRzTFFpMktJaHREcTBDdDYwb2c4Y3czbTdhdFVsRE5FbHlMaVhRLWJHQVc1QW9RdzBTSlFIZGdtSFBBbi1KeU94N2ZxOVh0QQ?oc=5"
+    },
+    {
+      "headline": "PulteGroup, Inc. $PHM Shares Sold by Milford Funds Ltd. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUVLUXpVYjZuZ0QzVmM1cFBycEJzS1BObkExTzUyUGxYeUx0WE9KUGZWZk5hWjJmeFJkR1ZJUlZvZU1rekZpeGpUUm9EMERqeUtCUFJnYzV0SnNIa2FNNGdMeWhmM0dXMFFnZHdxdm9fV1FOU0FiR09hcy04SmJWNDRya3A1a2p4NjZqSEhkdER5MS1EWHZUcXU1eFFkQVdrUThlMFJuMlNXc1VpdlFsRDRn?oc=5"
+    },
+    {
       "headline": "Are Options Traders Betting on a Big Move in PulteGroup Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0xrZ3FKbHJnX1o5NlZ3OTRyM0I2NUtINmlKbWRadFJQdzhaSmE5Qk9CWkd5QWstMUY5aG0zdkl3bU5WdjVfc1NOUVAtUmsyX0VBdEdMejNWVWxXR29rbEVRX1RRY3BjYmRvbEtrOU5sbWJZWFNoTmM5c1VvSVhxX2xkZVREOWtPRXNfYzR1QlA2VnNqRjVUY3k0SWJtRzg?oc=5"
-    },
-    {
-      "headline": "PulteGroup, Inc. $PHM Shares Sold by Greenhaven Associates Inc. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaTZacHZfRjVZMUUtUWhvVG83bXZrd1pLdWNWVjlZeG1uMmZjdmg4dVdad1dxeDRlOWlJaWdHZFBjNUVsbDJuVzVKVHd6R09RYmdvamEzMnN3dG9jRFc1ZVZPWTdmQXRScmR1alVpZlpYNmVaQ3RZaUtueHFEUFdMY1Z0S3JZYkRFdVcyYkJhSWQ2RF81TjYwa05WUE9CM25MSTlUaHlMQTFFTzN6VFRkakUwT0pmMkNvcEtoXw?oc=5"
-    },
-    {
-      "headline": "PulteGroup Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSDhMOTFKUVhLUWowUHhhTEJWLW9QM1dZMFhpMFlvQ0swSTB2X2p5MVY1RTBoU1gxUGlOWk5wY01TQ0szRlQ5Tm1pV09xTnhSQmRpMHM3eWZtVThfbDRkajlRNkJvRGV4Tjg0TmR0WVVvcFE3Z1Q5RmkwcmFsdGJicEdLUUhJeWRMU3lNMXFpUVRKQy1fel9QMy1kcGpfY2hwcVFQSkl5MldmVFV1Y3FkYnRkamdWS1NBRG8zdTZKZ3RZYjNIZUZNTUtVUWRoeXRLS01FR3dzRlBFelY0YUdzYXl3?oc=5"
     }
   ],
   "insight": "Tracking PulteGroup (PHM)."

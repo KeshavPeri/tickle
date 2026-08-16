@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-15T02:34:01.388Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:43:01.942Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    131.33999633789062,
+    131.63999938964844,
     135.72000122070312,
     132.8699951171875,
     134.36000061035156,
-    130.66000366210938,
-    132.0800018310547,
     129.27000427246094,
     130.16000366210938,
     129.7100067138672,
@@ -27,6 +27,8 @@
     139.17999267578125
   ],
   "6m": [
+    160.6199951171875,
+    166.67999267578125,
     165.57000732421875,
     164.3300018310547,
     163.61000061035156,
@@ -140,8 +142,6 @@
     135.72000122070312,
     132.8699951171875,
     134.36000061035156,
-    130.66000366210938,
-    132.0800018310547,
     129.27000427246094,
     130.16000366210938,
     129.7100067138672,
@@ -393,8 +393,6 @@
     135.72000122070312,
     132.8699951171875,
     134.36000061035156,
-    130.66000366210938,
-    132.0800018310547,
     129.27000427246094,
     130.16000366210938,
     129.7100067138672,
@@ -424,16 +422,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRlFXZnEtdDhoM0MxUGpQMWU0TmxtUnNyR0JqcG9yQUNGWDZEcm40SVlaOW5WWkRTdllFcnlYZjlCUEpvRm1EOGdGZG9aVHBUbjk5S3Y0UTVNZXVwX1AzaFRpQ1RQZkRDd2hYeGZOSmwwVG5vUnhHSGZWZjRiYVdHYWl5UWhObjlKSmV3M09yT2xyMXlRX1N4M000SC1EYVk?oc=5"
     },
     {
-      "headline": "Berkshire Hathaway bulks up on Alphabet, Delta Air, exits Constellation Brands, among Q2 trades (BRK.B:NYSE) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0pEX1ZUYmRvdHZvY1ZXVjZtZ0I0RmNTWmc0ZDRjX0REYXFHZFVpdHFkVjFLdUgxaVVCWW5kcUt4cXhpWVVfdDNFSzhldHVFb2F6cHlSdnJVcDdiVkZDamc4QVBoUGk0VkFnUFkwMVdBU0VYdHRWLVFwNzdZTy1vbHo4UXJFRUcxVEwwdFY5VWRlVXVTY0RCeE5iUjZhQUp2aGpxNFRzTGxtSExrZVg5Y29XSEhlMGdOZm9WTExOYlluZDNQMmFPWExn?oc=5"
-    },
-    {
       "headline": "Constellation Brands (STZ) Beat Expectations, Is The Stock Still 24% Undervalued? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSkF1N0ZPY09pNW9pLUpyT0xXbk9XVmtPaE8wR0ktcERpXzZybnZWM3R4MUNSdkxLMDU2YXE4bThpMU9IaVg2bUE5S2VYS0tvS0h5TlhlNURqVW9jZmtTRmpmUTlaVGxQZ2stdE5QaklCc01rUFdkTVVVY2lUSFk5NkpuYUh4Tk93c3NubnRuZnROd283cEpUMHVLZFRKbzJrQUpKVWkwWDdHdWpGVGNZdFhhY01zMDVjWDVGbEsxYkg3bFlWQWkteUhsZUcxV2NwVi1scDVTVnN0eTVPVlF3WDUtc9IB6AFBVV95cUxOWW1BWGZPWUM5NWZDSTc4R0JLS2ZsYVR2UnU5QTl0NG9LMGFZQzlJZTBrRHdwNDl6cmlERGsxZVVUM0tEekVQRU8yeDljYjhXNm4tbE1TcWlCa2hDQlpTdi1ZdHg3Y3RuSzdPTVp1a0gxYk84RkxraWFPTkNEMjZCTTV6SkdvdHM2Z25fVTZxQW5mWG83aGJZbXVnbHp6Q3I5Sm5JLWpaOHA1cEFlRFZBcmhVV0FwSExHOUgtdmlGenQ4TnRfQTNVR25VZXpSaF85d1JZcGt4bnB5Y0JvUmo1bmhPY0dxal9Y?oc=5"
+    },
+    {
+      "headline": "Constellation Brands Inc. Cl A stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZFVtQkZqbndsTW55dEdzNm05MG9IWGpkRW5VNThFQm1xV3gzQWFBUGpwNndNeG14NkNzVS1KVEhrdEEyZ293VWJsVjd5cmhtb0tMS0toMkFGM25uZVNDLXFFbGlnX1JEeUdsZTg3bXplYWxuMWRHSXB3a0RjY25rUTFXVk5oUzMxeTVSOW5zdDBPSjVXM2tvb3NTRC1ZaVB4anJROEIxVllESkJpZzRmcXNiaE84bGlaUVR2djZGVGZ6NDFkU3ZfQkJydHZjN2JsN0ZpUEd5SkM5ZEMzYlZETjVYNGdGaDhxQTFLMWVIMVg?oc=5"
     }
   ],
   "insight": "Tracking Constellation Brands (STZ)."

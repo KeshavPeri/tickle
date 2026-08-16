@@ -1,12 +1,13 @@
 {
-  "builtAt": "2026-08-15T02:34:01.453Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:43:01.774Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    56.58000183105469,
+    57.5099983215332,
     57.630001068115234,
     59.349998474121094,
     59.79999923706055,
-    62.95000076293945,
     63.15999984741211,
     60.470001220703125,
     60.209999084472656,
@@ -14,7 +15,6 @@
     64.68000030517578,
     61.189998626708984,
     62.47999954223633,
-    62.279998779296875,
     61.290000915527344,
     66.79000091552734,
     66.98999786376953,
@@ -27,6 +27,8 @@
     69.62000274658203
   ],
   "6m": [
+    55.93000030517578,
+    59,
     60.91999816894531,
     62.099998474121094,
     61.54999923706055,
@@ -140,7 +142,6 @@
     57.630001068115234,
     59.349998474121094,
     59.79999923706055,
-    62.95000076293945,
     63.15999984741211,
     60.470001220703125,
     60.209999084472656,
@@ -148,7 +149,6 @@
     64.68000030517578,
     61.189998626708984,
     62.47999954223633,
-    62.279998779296875,
     61.290000915527344,
     66.79000091552734,
     66.98999786376953,
@@ -393,7 +393,6 @@
     57.630001068115234,
     59.349998474121094,
     59.79999923706055,
-    62.95000076293945,
     63.15999984741211,
     60.470001220703125,
     60.209999084472656,
@@ -401,7 +400,6 @@
     64.68000030517578,
     61.189998626708984,
     62.47999954223633,
-    62.279998779296875,
     61.290000915527344,
     66.79000091552734,
     66.98999786376953,
@@ -418,22 +416,22 @@
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Skyworks Solutions (SWKS) Stock Trades Near Fair Value Despite Rich Earnings - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmpOWGFmOGZXUTNSM1ZuZ1NBNVphdDBYUXp5UXZRZzdkakJBSjlrTkxUVmVJTG5jaW93ZGlFV0xpeXB2UE9YYnNhSV9xd0IwZVdWemlyT3I1aVZmWHBDOEM0bDlGVnRYeFhiN3BnQldZWVFMN203ZFhmaHRaRVgyRTlDanpyMlJwUk0wREZFdmhIWHhwZGVLdzl5QlJrbTIxc3Rj?oc=5"
+    },
+    {
       "headline": "Skyworks Solutions Inc. stock underperforms Monday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTElfM09MS005MTBQaGZnQkcwM0xGNjVUZU1oNVRoWG1HcXZKNnJLU3ZMSmhUaHo1dkViMkc5dGl6VS0wN18tXzZaSTFYaGlPUGdrZDhxVmNObHNmLXBfQlBYMzg5bllremZwWjZPX256RFluNFd4VXVDUDM2dGIzTkRiME5tTm1ZWV9acS0zUFFNcEx1Zmt6WG03WDV5WmxJYWZsUmpkanlPQTVDYkN4Mm1EUUl6Y1AweWpHNFpCQUEwbGpaaVhWeW5HS2Zfb3oyeXg3Rw?oc=5"
     },
     {
-      "headline": "T. Rowe Price Associates discloses 7.8% Skyworks (SWKS) common stock position - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV20tSElLY2JiSzBJR2RxN2VmV05uckRzNUJ2NmI4Ul9iRFFsLTJZX2JVc25DZzhIT0loWXlKLTJFWEQwN0t2OWw3dFFXaG1BWjZRTHJPRUhJeW16MW9XUElsb2gyWlVkY2MzRWdKSFEtbU00cHBzaUU3WnAtbTlLODlrYlJEX0FNdFAxUDRnV0huU1NZVEZiRzNhN1o1ZFM3QXdiREx1RUNyQ1J4QjJJaWlXd3FOcVM0bEFUWG5KRnRvMWRrMG9JUA?oc=5"
-    },
-    {
-      "headline": "Skyworks Solutions (SWKS) Stock Trades Near Fair Value Despite Rich Earnings - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmpOWGFmOGZXUTNSM1ZuZ1NBNVphdDBYUXp5UXZRZzdkakJBSjlrTkxUVmVJTG5jaW93ZGlFV0xpeXB2UE9YYnNhSV9xd0IwZVdWemlyT3I1aVZmWHBDOEM0bDlGVnRYeFhiN3BnQldZWVFMN203ZFhmaHRaRVgyRTlDanpyMlJwUk0wREZFdmhIWHhwZGVLdzl5QlJrbTIxc3Rj?oc=5"
+      "headline": "Wedge Capital Management L L P NC Acquires 34,543 Shares of Skyworks Solutions, Inc. $SWKS - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM3gweWVqaTZTeEZ6MGt0ektvQ3pyclltVjYtMm1ycjFXMEhaaDIxa21waGxFdHp0QVR3MlBCNjZWelhlT3FTSFpZRE5WSXNxZFA0MTJURzQtUWhzZzZQZ19CZHBDS0dHRVVGbXdfZHc4NFJOTGRlVl82b1VGY3pRdm56bTdfOFd4SUZMWjNrbzBYT1FNN0lqa2xvTVZpdHBCeDdkQkdoaURfVERsOGZBQWRnZXFjM2pJS1BNSG1ZdXBjMng3ZGFEVlBJbWZFUG9iZEFsa0hiVUh4MDVNZnIzbA?oc=5"
     }
   ],
   "insight": "Tracking Skyworks Solutions (SWKS)."

@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-15T02:34:05.735Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:43:07.461Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    158.17999267578125,
+    152.57000732421875,
     152.10000610351562,
     147.9199981689453,
     147.3699951171875,
-    147.1699981689453,
-    147.57000732421875,
     147.3699951171875,
     148.9199981689453,
     147.8000030517578,
@@ -27,6 +27,8 @@
     148.11000061035156
   ],
   "6m": [
+    158.74000549316406,
+    159.57000732421875,
     161.08999633789062,
     162.92999267578125,
     158.89999389648438,
@@ -140,8 +142,6 @@
     152.10000610351562,
     147.9199981689453,
     147.3699951171875,
-    147.1699981689453,
-    147.57000732421875,
     147.3699951171875,
     148.9199981689453,
     147.8000030517578,
@@ -393,8 +393,6 @@
     152.10000610351562,
     147.9199981689453,
     147.3699951171875,
-    147.1699981689453,
-    147.57000732421875,
     147.3699951171875,
     148.9199981689453,
     147.8000030517578,
@@ -418,22 +416,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "YUM Stock Gains — Yum Brands Offloads Pizza Hut Chain In Massive $2.7B Divestiture - Stocktwits",
-      "source": "Stocktwits",
+      "headline": "Yum! Brands Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd2J5U1Rqc1Joei1HTlpFYWc3T3FwNWJrYkpUZkw4ZzdTNkZnYmg5S1htdmdqYW9mSzd6X2RSVUhHQmZCcGFFQjAycW1FekJrbnloUHRhX3duR3NTd0Rud2Q2UFVneEZSd2hGOVNma3IyVjRKc0NpOVplZkhpMm9OeEtGczFMdHZSQjBiRGN2dldva3Z5VXktd1lyTmtkMEs2bmQ0Y0JRblFYbnR3VHp5b180d2htSy1BTTV6Q19BeFhXY1FtelNXYmsxWjhLcXI0dG5faU5BR0Q?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHE5Vk95Yk1hV3o0SlFjS0x2aDdwZXBtWlZMMnFnM0ExTnB2UV9KLWZfZVcwZy0tNmdDX3NsSlZDSnA3MjVoZ0VVb1dSMTQ5SUV5V1M4U0c2ZGRZTEZjZ09LTVh0YVBZSlE0U2ZuaUQyLTk4UGZ0d3lCLXZxZUUzeEo5aXZFSFBOdUpOcW9GSlBpNHpMVzYxUQ?oc=5"
     },
     {
-      "headline": "Yum! Brands Stock: Is Wall Street Bullish or Bearish? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVl6MlhrOV8xMUpVTEVkaVl5Mk9iN09WMlN3UlJ4SlFaZ1E2VnFPVmo2Vlg2TXRaa1FURk5HMzNxdHZIM0xDX0lpVWJlNGVnbElpRGJSbERqLUdpbXRhNUxWX19Kb3BVWDByOXYxTlZpcldrSTJod3RrYkhzS1pjRzEyTDRWZE54NjZBQ2ZPMXY1RkMyNklkWDJB?oc=5"
-    },
-    {
-      "headline": "Q4 EPS Estimates for Yum! Brands Reduced by Zacks Research - MarketBeat",
+      "headline": "Yum! Brands, Inc. $YUM Shares Bought by Empowered Funds LLC - MarketBeat",
       "source": "MarketBeat",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUFrLXNHSDVmeW10ak9CblhwUGZrLUFCbjNUTjRkT05ZLUNBNUlnaUpfR2Y3V3hYOG0tV0ZxS2dHWk15WUlyOU1qM0k3S01uVFkwaG9Qc0F3SlpxUGVwQy0xY2RaUmxVXzliY1U4YlNPWHl3TndBSXhPN2FnWXZLbGhDdmFsTnlMaUEyOGdkUDhLeXVmZFFmb2ttcVNhZnBPMl81UzQwdnlmRjhfOWNKTmxTWkYyZWs?oc=5"
+    },
+    {
+      "headline": "Yum! Brands Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlRDamRqVGgzR3lsZmREdHFNcHF2c0hoejNOU2xDQ0dVUW9mbjVHc1h2YlhnYTBROFhaRDcyRmZTMVZiN0RwN1FOMGhSdl9rLUhwUGFjZkRadmJCT0R0bjVsYkp4NjFPTU00YVRtdTI5clFPeXM2bjA4YjFnbFpmbEVUYWloVVNOejgxOFJiaTVrejVEUlNwMjRnR1RVNjlEeDlucFdoZDF4LTQ4a0pyaw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbkx1S0V6RWtYWmVja2cybTJkdGRXMjdvbE9SZkVrX3hCTDF6VlFhNWRZSEI5Vnh2aXh0dkVqbUl5Mm5xQ2JnR2tGMGZTQ0VCMWl5M3dxWXEwQXdTQk9lQmRHMzZJQ0JtejlhQjRuVGpNbk5xYm9mVG1qT3IxaGU0VXZaS1Rya2NJVnMtMEM5T0FVX0JOSFNBTWxKNHBZODdIeGhQSjViY2d1cnk4NWhVU21IempsSWN2Y3ZqY0ZFUm12eDk3N09kVE4wQXd1TDZrckRJSXltUUNZaVM5US04LUtR?oc=5"
     }
   ],
   "insight": "Tracking Yum! Brands (YUM)."

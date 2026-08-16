@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-15T02:33:32.529Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:42:23.858Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    33.13999938964844,
+    33.630001068115234,
     33.33000183105469,
     32.630001068115234,
     32.22999954223633,
-    32.630001068115234,
-    32.380001068115234,
     32.290000915527344,
     32.4900016784668,
     33.220001220703125,
@@ -27,6 +27,8 @@
     33.86000061035156
   ],
   "6m": [
+    27,
+    27.829999923706055,
     26.90999984741211,
     27.200000762939453,
     27.68000030517578,
@@ -140,8 +142,6 @@
     33.33000183105469,
     32.630001068115234,
     32.22999954223633,
-    32.630001068115234,
-    32.380001068115234,
     32.290000915527344,
     32.4900016784668,
     33.220001220703125,
@@ -393,8 +393,6 @@
     33.33000183105469,
     32.630001068115234,
     32.22999954223633,
-    32.630001068115234,
-    32.380001068115234,
     32.290000915527344,
     32.4900016784668,
     33.220001220703125,
@@ -418,22 +416,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "How New Product Leadership and Debt Issuance At Franklin Resources (BEN) Has Changed Its Investment Story - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUVdWZDMwU1RlNkYzaFJnODlMaTVObG0wcXgtLVB3YUlmek5TRnJKbXlTMDByMUhZMndpTWF6b1ZHN1l6LWhTSGJ5RXp0emFuR1c3U0g3Q1lTRDhYdkRma3NwWndCd3dCc2FhSlFOZDliMnRONVh1LUhfdVZyYTQ2elF5dS0zR1pTQ3ZnZEk3cXhhUkYyQTZ6VEdNb1Rka3RUZ2I0QWJUMFczaTVFUEdzMjg4Wm1tVHJSWXJORThub3BBdUY3QW55Q3ZmeThuOFZNRnZ3cnk2WFdEWkcybTltNFNn0gHnAUFVX3lxTE1ZLXE1REtodHhZdzZDbU1hNGtsT1NEZVdFYnZ2LWtUY3FIRm1Zeks5Y3RqR2ZPOTZmSDlNRkR1NC04YjFYakt0T3J5RXlxZml5Q1ZrbldqVExHTUhhcTZpT3ZmY0RUbUY1RjM1dUdvbEV0ZWJuTExndUJWVGkxX21GYW1qbDU1VW5FaUxjNGd2bEFVbnBBRUxtekp2d3daOURnOV96YUtxVklRYUI4eEVrZFktYnFrVWx4N2dYaXg3a2wxYTI0V3llZDliclJ6NTBxOC1FMFlEaTdCVFdnazF1MWNzM3I0aw?oc=5"
-    },
-    {
-      "headline": "Fund Update: New $1.5B $HON Stock Position Opened by FRANKLIN RESOURCES INC - moomoo.com",
-      "source": "moomoo.com",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXN0QnhZZG9FUFZYSXRRMjVzNzRmUWpSUEZaWUlXQ0ZEbW9NckluaHNMYWRVbXVBZHVVVERfd0VTdUlOSHJpampEaGF4ZVJacjA0WHFLdmhkdFpnZUJZc05HR01XZXJ0NmVYLXpXVzgzLVh3eFdsd2xwU0JhVWx6YkJqdElHNWxHSVpVRFBSdk5KNnVFSlE?oc=5"
-    },
-    {
       "headline": "Franklin Resources Stock Jumps 6% On Thursday — Hits 52-Week High - Stocktwits",
       "source": "Stocktwits",
       "when": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObVY1dmRxaS1JcnJYWlVBM3VRSUNzWlZQWlkwRmVDMk5xNU9zM0FfRkttQlVBeGkwcTJscFN3aExLbU5sc1FmTElla2FUUzVrSjNPWm5VdF9PaE8xWTBXVnVKQXJ6TWk0SWRMU2kybDQ0WWEtMGZ1QkdkNl8zXzJfTEh4UmNwck0yR0ZBcm83ZDVmLXEwbjlkUmV5TFdTMmRnZWliS21ITHVyam1jdVA1Wk9yYzk2bW80RldmNFltRQ?oc=5"
+    },
+    {
+      "headline": "Fund Update: New $1.5B $HON stock position opened by FRANKLIN RESOURCES INC - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVF0MFhQZnRLRWlUY2ZXdkRmQW00ZmhhTGJvdDNNVXhYQnlQQU5lblhfTXBQdlFMRURWb3Znc0ZEcnE1eUZnNjdrYm5WZlBxMEYzU3NiT1c2dWZTRTdpeEFyQWxKRDlSdWE4bU55bHFHdks1VTZOUDlUNk8yQUI3UEFkMDRabkpYVEdSUjFiU01QelJyQ1JDRWJiWFNPODZTd1loUlozQkJkX2gxbm8zTjlGZ0g?oc=5"
+    },
+    {
+      "headline": "Why Franklin Resources (BEN) Is Getting Attention Today - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMmRnUXIxZkcxNHRvSUhLbHpYTlhaVVNLWFMtZEdMR3hnT3BwcDd5M3dqUU1sSXByWG1fbTZfWlNPanJhSDJ6LUhENVh2a0dyV1RCVktZc29pY3QycExENEY4azhkSFpBM1JGYXdVMFlLYlMzbHRwdGlqc3hRZHFnRFFqdWExRUNjSG9DYV9DejNldWYwVW9HSHJwTFBGQUZoMFJ3ZXNDNEZUSmlXYUItX0YxMTNaNmNKZU4xaE5wUlZFcGlSR2JIRHVFQU1zNThieXhEU2VoRnJDNWNTdlHSAd4BQVVfeXFMTjJkZ1FyMWZHMTR0b0lIS2x6WE5YWlVTS1hTLWRHTEd4Z09wcHA3eTN3alFNbElwclhtX202X1pTT2pyYUgyei1IRDVYdmtHcldUQlZLWXNvaWN0MnBMRDRGOGs4ZEhaQTNSRmF3VTBZS2JTM2x0cHRpanN4UWRxZ0RRanVhMUVDY0hvQ2FfQ3ozZXVmMFVvR0hycExQRkFGaDBSd2VzQzRGVEppV2FCLV9GMTEzWjZjSmVOMWhOcFJWRXBpUkdiSER1RUFNczU4Ynl4RFNlaEZyQzVjU3ZR?oc=5"
     }
   ],
   "insight": "Tracking Franklin Resources (BEN)."

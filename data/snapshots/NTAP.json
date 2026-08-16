@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-15T02:33:57.059Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:42:55.734Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    174.5500030517578,
+    162.10000610351562,
     159.69000244140625,
     163.8800048828125,
     161.16000366210938,
-    165.75999450683594,
-    166.5399932861328,
     164.63999938964844,
     167.74000549316406,
     169.8000030517578,
@@ -27,6 +27,8 @@
     207.0800018310547
   ],
   "6m": [
+    95.48999786376953,
+    100.52999877929688,
     99.58999633789062,
     103.33999633789062,
     103.68000030517578,
@@ -140,8 +142,6 @@
     159.69000244140625,
     163.8800048828125,
     161.16000366210938,
-    165.75999450683594,
-    166.5399932861328,
     164.63999938964844,
     167.74000549316406,
     169.8000030517578,
@@ -393,8 +393,6 @@
     159.69000244140625,
     163.8800048828125,
     161.16000366210938,
-    165.75999450683594,
-    166.5399932861328,
     164.63999938964844,
     167.74000549316406,
     169.8000030517578,
@@ -418,12 +416,6 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "NetApp Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMVAzUWotbndzVjA2VkF2eHlNdDY1RlhNWlI0bGVGM19MMTJIdS1CVGRJM0VBYXJNc1NLRXZvTmVkYWYyTVJuVWJzSEtLU0g0blF3SGtwSHBTcTJ0ZjJFVF9YdlJXLWFEODhsTEExTm5hMDlYZHA3M2JxUk1qY09WdDNkSlNrUjZGUV9ua1lNNmVHV3dqdVk4QUJPc2pIWGp3Q2U1bTlMcktnQ2JKU2lobDVQbHFBMzIxOFZoUEhMSlBvMjd1VFNEcGpFcHE2aENXdTdHaGt0bElXZTdwRXhOWXN0Wl9WS2hFeEE2Wng4V2hVMW95SmNJ?oc=5"
-    },
-    {
       "headline": "Why NetApp (NTAP) Outpaced the Stock Market Today - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-12",
@@ -434,6 +426,12 @@
       "source": "Quiver Quantitative",
       "when": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VcncxNjdFMEFzdE02aVpFMmZodW9GT3JaVjkzNUhkRDBqcVJNdTlhT2xLU0JzVE5TcE5id01tNFBUUTNUeTE1aFdWbFVyUVRvWTFZdFlqWlRwSF80dlRKLXRILVNLM2xEYjJZM1lPbHBJd1pxclF2SHVicU0?oc=5"
+    },
+    {
+      "headline": "NetApp Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMVAzUWotbndzVjA2VkF2eHlNdDY1RlhNWlI0bGVGM19MMTJIdS1CVGRJM0VBYXJNc1NLRXZvTmVkYWYyTVJuVWJzSEtLU0g0blF3SGtwSHBTcTJ0ZjJFVF9YdlJXLWFEODhsTEExTm5hMDlYZHA3M2JxUk1qY09WdDNkSlNrUjZGUV9ua1lNNmVHV3dqdVk4QUJPc2pIWGp3Q2U1bTlMcktnQ2JKU2lobDVQbHFBMzIxOFZoUEhMSlBvMjd1VFNEcGpFcHE2aENXdTdHaGt0bElXZTdwRXhOWXN0Wl9WS2hFeEE2Wng4V2hVMW95SmNJ?oc=5"
     }
   ],
   "insight": "Tracking NetApp (NTAP)."

@@ -1,12 +1,12 @@
 {
-  "builtAt": "2026-08-15T02:33:36.106Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:42:28.137Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    91.47000122070312,
     94.06999969482422,
     92.9800033569336,
     91.93000030517578,
-    90.5,
     91.62999725341797,
     90.08000183105469,
     90.75,
@@ -27,6 +27,7 @@
     91.94999694824219
   ],
   "6m": [
+    94.37000274658203,
     94.87999725341797,
     94.41000366210938,
     94.16000366210938,
@@ -140,7 +141,6 @@
     94.06999969482422,
     92.9800033569336,
     91.93000030517578,
-    90.5,
     91.62999725341797,
     90.08000183105469,
     90.75,
@@ -393,7 +393,6 @@
     94.06999969482422,
     92.9800033569336,
     91.93000030517578,
-    90.5,
     91.62999725341797,
     90.08000183105469,
     90.75,
@@ -418,22 +417,22 @@
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Why Colgate-Palmolive (CL) Is Getting Attention Again - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUXc0ZWNCZGNrZHdfY1JmX3J0MXV0VWx3Mkw1VGR0SmJOS2xjdzU0cU1WQ2JqZGpuZlhYU0FtMFhRb0lTdm5pcEtWMG8yVld5YW10QzRobTVScGZ4YjFhTTNKVmsyU2EycHNaVkpNZUUyQjVzdjhWbkxodjhRZVVMbkNUR09oUWNRU19xQTFoa3NIYVJTNU1NN0NFbzh1SzMwWWswdlI4dzE1Z0RKNm9JREhNZFFqVDloQXNCaVR1anlGQdIBxwFBVV95cUxPS1dkOU5nNTlUeGxxZFUtWE12Z2loeUlrUzBoRjd4ZDJ3QWZnOVFFQ0t5ODJCR3dFSVV5RUNzMXJpRGJkdnBJOGJNeTRTSDUweHJCX2wtRXc4azBjZzZsUXdKdDBqbi16UFVtakpXcF9QdnJXNVoyaWdCZDVuTDJTYlAzYnJpV2dXTWNiQUQ0WFp6RnpCSHhOanh3em1GQlhzck5fUTlST1pjSG9IemN0S2F2OUFhaEtoYzduV0pKQVFoZlFXcnhV?oc=5"
+    },
+    {
+      "headline": "Colgate-Palmolive Company $CL Stock Position Increased by Qsemble Capital Management LP - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNWh0dGxlc2RFMHJ3VVJjejVrRGtoOFBPTkx4aGxFOXBwaV9aS1VHVk9xdEg4cmQ1NnZoWE5uRTE4WnN1NXBtWXVQbmZSRGhZajJEN21ZQWVHSG1UWUd0Q2pNRUw5Z3p3dXBkUU12UnlLWk9mOXJZWG50MW41aGRJZ0ZsUzVIeUlWSlAyaEN2U0RoMHlXd1Y2NkVLZnp3U1FnTnpuQVROeGt6RV92QkNZMm9adERSX0w5ajIzQzM5YlZjYUNVRjM3ZlI3M1NQRmFtRFNHSmNUdWQxZGpaYi1CMQ?oc=5"
+    },
+    {
       "headline": "Bernstein reiterates Colgate-Palmolive stock rating on international strength - Investing.com",
       "source": "Investing.com",
       "when": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjE5RkNncTd6LUIyeUFXdVNPLVBxTWRnZEF3dHp0Tk5jMi12MnNoQVdWalhQVTZqRHp2aHpmOW5zNUtGU1VlLVRDSGQ3Mmt1cXlOelQ0Mzh4QXFuWldYZUNmOFZ4VV94Z2pKN2ZVa1pjeXhqOWpNd3VGbHNqa3Rob0lodmVoYUlqMG5PQUNCcGFIaURUN1BIbFEtRHBBak9sNC1JLWI2UFV1c3h3UWdjT0VES01wajRnX2U2Q2N2SGpSazhMRWxUcko5MldsN082UGF6eUpIYXZIa01n?oc=5"
-    },
-    {
-      "headline": "Handelsbanken Fonder AB Boosts Stock Position in Colgate-Palmolive Company $CL - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaWpPMlRSLXNuUXFsdWItSGhuT1NWbnFOSGlRdFRlenlTeHRTWEJVTjNsb082RlZ5cXRoSWFGcEI3TTFXcTYyQVNUT1lXOG1wbzZIMmwxTXlqM3B1RURrdUdnRk5fY3pORjVCNkM0NkpJYmN2QjJYbFgtWE5idF9yLWlnMUJPdm8zY2pTc2Y1bk5JWi1PNUE2clJUZFB0MUJ5ZzIwVDlJLTQtNFVHT25ZVUdWZTROZHdsUXpMWVNiUEVyNi15RGVMTy1uOTY1VlRDZjhxRg?oc=5"
-    },
-    {
-      "headline": "What to Know About Colgate-Palmolive Director John Cahill Selling 4,170 Shares for $389,353 - fool.com",
-      "source": "fool.com",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb1Y4RUxQdU9QMXFYd2I3b08wOENCSWM5aWpVbWVFaHhBZXp2R0sxWWxldC1LZk1ZNlB1TDFUSkltMGlYeHExYmxqN0d0MzBSRlZramNGMXhoTzgxVVRQN045SWFXc0ZwbEVuOVptODYtSkxzN0p5TjZnUmNxMVFqYk9oNjFXdFM1YWZ4MDQxVmEwN25KaTRBUVFVRW82emNCcEN4cXpPVjZIeG5oS3RwQzE3X1d3ekx1bWNMWVVqelItcHVKeEFLSkkxd2s0YVhLci0yZXo5d0UzLU0?oc=5"
     }
   ],
   "insight": "Tracking Colgate-Palmolive (CL)."

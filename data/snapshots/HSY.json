@@ -1,20 +1,20 @@
 {
-  "builtAt": "2026-08-15T02:33:49.676Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:42:46.346Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    175.24000549316406,
+    171.4600067138672,
+    170.27000427246094,
     174.72000122070312,
     171.4199981689453,
     171.6999969482422,
-    170.6300048828125,
-    172.3300018310547,
     172.13999938964844,
     174.3000030517578,
     180.19000244140625,
     183.38999938964844,
     183.91000366210938,
     177.22999572753906,
-    175.0500030517578,
     177.6699981689453,
     179.0399932861328,
     179.5800018310547,
@@ -27,6 +27,9 @@
     184.22000122070312
   ],
   "6m": [
+    198.00999450683594,
+    201.47000122070312,
+    205.7899932861328,
     224.3800048828125,
     231.52999877929688,
     230.5399932861328,
@@ -140,15 +143,12 @@
     174.72000122070312,
     171.4199981689453,
     171.6999969482422,
-    170.6300048828125,
-    172.3300018310547,
     172.13999938964844,
     174.3000030517578,
     180.19000244140625,
     183.38999938964844,
     183.91000366210938,
     177.22999572753906,
-    175.0500030517578,
     177.6699981689453,
     179.0399932861328,
     179.5800018310547,
@@ -393,15 +393,12 @@
     174.72000122070312,
     171.4199981689453,
     171.6999969482422,
-    170.6300048828125,
-    172.3300018310547,
     172.13999938964844,
     174.3000030517578,
     180.19000244140625,
     183.38999938964844,
     183.91000366210938,
     177.22999572753906,
-    175.0500030517578,
     177.6699981689453,
     179.0399932861328,
     179.5800018310547,
@@ -418,22 +415,22 @@
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Bryn Mawr Trust Advisors LLC Purchases Shares of 5,789 Hershey Company (The) $HSY - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTDN6NEI3OUotRVNCR0hLaVA4eG5sTUw5LXROUGRTRkRlMUR4dnUtT0VWSWhXVko2cUpNWnJUWTdramFqU3V1UUxxZjR6di1iUzdEYkp0c2xpelJDT1pnUlB0MjVjbFZETUszb2JXN2RMNVVlb3U2bzhnQy02OVdKWGZuaFNsc21pOEFuMWM3SHJ3elQ4UE1rNnplT29IVmI0VFQ5ZVJneUVvRGl1bHFGRG5ldUxqank2bzRDaWp6Y2Z1NWpuaUhKaEhOUk1falBCeFJyUg?oc=5"
+    },
+    {
+      "headline": "Hershey (HSY) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-23",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONmpfb3pDd0VZTS1kWHp1OTY5bXZJRWNrN1ZtMmxHczl6aTQ5UmpEWGpyYlhLMzYzWFQ1ajlpQjZiZEgtMmxSa2o3VEx2QVRrN3ZFQ3NqMjJwb3B6SU1teHBXbFFzeDRrdUZleDQ3bkZ0TXllWGNTMVZxaUlFM1dBUEVLc2wtcVdIV1lPVk5DWXkwOFM2YThJN3B3U3dFamRD?oc=5"
+    },
+    {
       "headline": "Handelsbanken Fonder AB Boosts Stock Position in Hershey Company (The) $HSY - MarketBeat",
       "source": "MarketBeat",
       "when": "2026-08-14",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZjc3N0xkSDk4QkxLb2ZXWkV2akVGbGJVTGJvNFkzQ0RWSTJjQ3pVeUEza3VDSUQ1cGxvcGdqTjFyNEdzajF6MS0zQXFxN2R0WXVoV0FoT01xekcwN2FJX3pRVGxGeWlMWHpaRTdYQWtpX21YSUVfaFk4VEZ2N1BFNmgtQXJmemZXZksyaFJwWVI5NE96MVVUTmdYMDdRS0VMTWswVWktdGY3U3hSYmNwWUhvd1VYaHpXNDl5Vjh1Q3h5OHFJUFVPQnRUaklDQQ?oc=5"
-    },
-    {
-      "headline": "Mirae Asset Global Investments Co. Ltd. Increases Holdings in Hershey Company (The) $HSY - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcXhXOVZuTFB6ZmxiY09fdXgtWE5xdFNpeTJSYkswaEhtT2kzUFpzOUJnX1lsX2xsOUFQOEtpM2pUUTVmX0FVZGhxd0l3THRvdW5UdlQzT3RFRzRReGFpcDFYaUFyRjQ0YXZjcExwMC16QXJTSVJXTnhIUmZMOEJ4OEluX1dTeWhkYmtsZkVKTzVBc3NQLVVJODdmT09VWWFTSFB1SnAtUE1LWmZWZW9fdUlGRVdCNXU5cUFOaGZrT3hYY013NHFZVmtNYXBQcU9zMWtjOE5UdFZkM3Zu?oc=5"
-    },
-    {
-      "headline": "Hershey Q2 Earnings Beat Estimates on Pricing and Margin Gains - TradingView",
-      "source": "TradingView",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkJYWDhnQnQ2NzQ0dGdkMGZVVTlzWDlSTVJFWmhsY0M4SGhIZFRYRW5RbF82ZmVMaDRsSkFNWnZsY3d3Q2ZVUS1MWG1FNm9jcG5JN2JtYU9lb0tvckYtdTFVRjVnNlY2b25xTmdDd3A0M0YxRmNSQm9hVXl4aklNdGtvUXhkNnplR3BsTnlGaVdGRGQzWUZHWGdSOUhfNV91UnR6MXlwblRWeDdud0ZuaDFWNlVXa2NyU0E?oc=5"
     }
   ],
   "insight": "Tracking Hershey Company (The) (HSY)."

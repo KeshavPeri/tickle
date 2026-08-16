@@ -1,20 +1,20 @@
 {
-  "builtAt": "2026-08-15T02:33:44.351Z",
-  "builtDateUTC": "2026-08-15",
+  "builtAt": "2026-08-16T02:42:39.049Z",
+  "builtDateUTC": "2026-08-16",
   "source": "yahoo-finance",
   "1m": [
+    265.6300048828125,
+    266.2799987792969,
+    267.1099853515625,
     270.95001220703125,
     268.7699890136719,
     265.0799865722656,
-    264.94000244140625,
-    261.0799865722656,
     257.6099853515625,
     259.94000244140625,
     278.3699951171875,
     295.7900085449219,
     304.2699890136719,
     292.92999267578125,
-    294.739990234375,
     298.0299987792969,
     312.05999755859375,
     319.6600036621094,
@@ -27,6 +27,9 @@
     332.69000244140625
   ],
   "6m": [
+    276.6700134277344,
+    234.4600067138672,
+    236.47999572753906,
     231.3000030517578,
     236.85000610351562,
     236.4499969482422,
@@ -140,15 +143,12 @@
     270.95001220703125,
     268.7699890136719,
     265.0799865722656,
-    264.94000244140625,
-    261.0799865722656,
     257.6099853515625,
     259.94000244140625,
     278.3699951171875,
     295.7900085449219,
     304.2699890136719,
     292.92999267578125,
-    294.739990234375,
     298.0299987792969,
     312.05999755859375,
     319.6600036621094,
@@ -393,15 +393,12 @@
     270.95001220703125,
     268.7699890136719,
     265.0799865722656,
-    264.94000244140625,
-    261.0799865722656,
     257.6099853515625,
     259.94000244140625,
     278.3699951171875,
     295.7900085449219,
     304.2699890136719,
     292.92999267578125,
-    294.739990234375,
     298.0299987792969,
     312.05999755859375,
     319.6600036621094,
@@ -418,22 +415,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Handelsbanken Fonder AB Raises Stock Holdings in Expedia Group, Inc. $EXPE - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd3lvLWFYb0Y4VEZRUEZOenpNM192VTdYSnpheDliOG1BNkRKeGRnaE5ERXFjS2RhNTNGVm92WHJkbFRaNWUtSnhYczFnOFB3TUJZdG8zb3FmcnF0LWJqVXdLWkVoTW5zTU5HQlpFS0ktVkpXbWh5Rl9qN3phZWl3VVFzckNCNzBDTTBvRTRWWFNZLWpPUy1RamdSSDNnNDJESE1xSG0zVnd2UkR0QkZ5S2NvdWNYcHZZbjU0R0l2aU9GNWVYMFhLRDVhTzA?oc=5"
-    },
-    {
-      "headline": "Expedia Stock Is Up 60% This Year. The B2B Business Deserves the Credit. - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelRPZzFySzVrUGxOVGJneGxHUDJVTFk2QnNPeXpOR2pKa2dNMlZQYndNM01udzhKZ0VqMnkxOWN4dXQ1bGhQRnR6SXFXMGlTaWp6SmxVMVlCVHV0ZWsxaFZjd3dvSGF1aXlrb1VWS1BMTmZJYnk0M0dMRFVnVTRhYmpfa3J6N2hxcHMwdWRrS3FrQ2NjSTNhdDFXRQ?oc=5"
-    },
-    {
-      "headline": "What Expedia Group (EXPE)'s Upgraded 2026 Revenue Outlook Means For Shareholders - simplywall.st",
+      "headline": "Expedia Group (EXPE), What Is Behind The Fresh Attention? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOHRXdHdBM21ZRWJPaUs0M3l6cVk3N0J3VnRQcTh2b3JrdklMRlVLQ1hGSlNXX29YR280d2dfYVZoWktXeU0zR1lDWkNZdGN5TFdOVmwzamdQbFdtZ29NYXd0dTFWQ0tnRXlFb0tsYmZ0Sk1WS1VpZE45Mk5veWdlaDJCbnZMZlNsTmsxS2Q3M3ROaG1Bemw1OTcxWllWNzM3N0NnbzlPeFhqTldXeFFyLTZSWXB2RU9ubGg0N0hZZUI1OUtPZkJyc0pUemJjSlRvc3Y5S0VLT2dmSEhuR0HSAd4BQVVfeXFMTzh0V3R3QTNtWUViT2lLNDN5enFZNzdCd1Z0UHE4dm9ya3ZJTEZVS0NYRkpTV19vWEdvNHdnX2FWaFpLV3lNM0dZQ1pDWXRjeUxXTlZsM2pnUGxXbWdvTWF3dHUxVkNLZ0V5RW9LbGJmdEpNVktVaWROOTJOb3lnZWgyQm52TGZTbE5rMUtkNzN0TmhtQXpsNTk3MVpZVjczNzdDZ285T3hYak5XV3hRci02UllwdkVPbmxoNDdIWWVCNTlLT2ZCcnNKVHpiY0pUb3N2OUtFS09nZkhIbkdB?oc=5"
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaVhzX05ubWM0ckQxSEF6aXNpdk1wWUNUenpBUVBDaGZPTXM4YXFWZUNkWXgySnI4RjdmOXExb3p2STNWYmtYVlkxMFdoR1RlcnBNZ25ueTdMYUMwb1kzM2dzTmdxdE5YVUJUYjgzeHNOSV9DNjlEb0kwRmU1NVIxOC1STVh6djQ4Wjk3QlViNklSdFRCTTM5dk1sakRpR2dqXzhSa0dJc080eE50MDhDLVVNZjUzenh6dnhOZkdPNE50bFUxaTR3TncwTlQxeDTSAdQBQVVfeXFMT0Z0QUtWbmJVYkdIVmFibTc5eXhUY3pQYjdPZnF5dkZYc3VUOEU5d2N4cHRCcl9WZ1JoajZkYTlrQklvVjBtZXQ5TVRvSXEyRG1JeF9hQXBRMFRjRDJ2TFQ3d2lEYWk1cFgxcGg1Y2hVT3pydEhZSXpibHFaS3JpQmJwMl9BaUN6WmRoU2FTTjBBaUdSN3EyR3NwWjJueU10a1VtNUxxdGVoVzdCOXZpNDdqYW5RaFVSQ1NWOG5XUWMxT1drS3VrTGVIWngwMmtOYWZzUGo?oc=5"
+    },
+    {
+      "headline": "Robert Dzielak Sells 3,003 Shares of Expedia Group (NASDAQ:EXPE) Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZnVadmNVb01BcjhrNmZuUXZIRU5rTWVQM3dVTC1MOVFQdnlyWXFHbm9yWExVSjY1a2xiR3l5dFBKbElYMElRUFczdERDZFFRQno2d2NoM19LcERJT2taY0NYWVlhalZXcmdPa01LZXltekhCU1BYZnJ1QS1YT0RSZEU3enV4WjYwRHRiVGZBRmJfcV8yM0JGVXRhQjdmN3FNcjdYb09BWDRoZTVMdFlFemZVcnNZUGgwbU5YOQ?oc=5"
+    },
+    {
+      "headline": "Expedia group CLO Dzielak sells $945,945 in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWtldU5RUW9oRjdJR3BvWEFYOVlnNE1WU1A4ZGVKc2tkYzhPcWpTa0I3WlZ3ekFhb2NneWlCSG5WOV9fOGlxSjg3Z0VzTWg4a0dINGRTQ2FsWVlBQ2VjQVFEeUpzZkZRWXVqR2VvanFWaEdHS21femlJTTdwTVZhZ0J4LUlQM0tNUlRSbnBobTJUcUgtOE5mNkI3UzRLSUJVdjVwa2poSG9PVVY1bXBfX21B?oc=5"
     }
   ],
   "insight": "Tracking Expedia Group (EXPE)."
