@@ -1,13 +1,14 @@
 {
-  "builtAt": "2026-08-16T02:42:21.783Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:41:53.680Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    120.30000305175781,
     124.79000091552734,
     125.43000030517578,
     125.68000030517578,
     121.2699966430664,
+    120.77999877929688,
+    119.56999969482422,
     121.27999877929688,
     126.51000213623047,
     127.76000213623047,
@@ -21,13 +22,11 @@
     138.1699981689453,
     136.85000610351562,
     137.66000366210938,
-    143.11000061035156,
     142.35000610351562,
     149.4499969482422,
     144.02000427246094
   ],
   "6m": [
-    131.60000610351562,
     137.22000122070312,
     121.87000274658203,
     130.4600067138672,
@@ -142,6 +141,8 @@
     125.43000030517578,
     125.68000030517578,
     121.2699966430664,
+    120.77999877929688,
+    119.56999969482422,
     121.27999877929688,
     126.51000213623047,
     127.76000213623047,
@@ -155,7 +156,6 @@
     138.1699981689453,
     136.85000610351562,
     137.66000366210938,
-    143.11000061035156,
     142.35000610351562,
     149.4499969482422,
     144.02000427246094
@@ -393,6 +393,8 @@
     125.43000030517578,
     125.68000030517578,
     121.2699966430664,
+    120.77999877929688,
+    119.56999969482422,
     121.27999877929688,
     126.51000213623047,
     127.76000213623047,
@@ -406,7 +408,6 @@
     138.1699981689453,
     136.85000610351562,
     137.66000366210938,
-    143.11000061035156,
     142.35000610351562,
     149.4499969482422,
     144.02000427246094
@@ -416,8 +417,14 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Ares Management Stock Is Down 14% This Year & The Street’s Target Hasn’t Moved Since March. What’s Next? - TIKR.com",
-      "source": "TIKR.com",
+      "headline": "Ares Management (ARES) Just Moved, What Is Drawing Attention Now? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMFJrd0xfRnA5UXBoTXRLN2hkTWRyREdSZHY3ekprWHVJaWt2MnZDQXNNQVNubWFtZUZpMDVEN2xCRmdzTU9hNUNXM2lnSDJVZ3ZoYVZOMl91X3Jmc0JFN3pTTkwzbVdTcGQwQjh6X1dkbHBZY3k5cEo0VnpBY2RIMDQ3ZjlhQS1sNHM3X0dzb3dYR0RzMV9jLWhObVZ2Ui1FeTZKRlg2TDdyOTBkaWZ3WVNWTnhFSkRVcVY0ckEzYWg2Zl9OUm5pbERLcUhBdVd5SnMtVk5ZNjhsVER0V2gw0gHkAUFVX3lxTE1LWC04WU9PWm5YZWxnZjE4cUVLVDBSUE5KMGl0Q3kyOWlRblB6ZTNxTUptTmppajkxYW1lWnQwM2hCNlR0WlVDY1RTNzdfYm5lb2FsRDUtUjBSZXpReGpzQVhzMHJWcVhCWTM0a0RQOEhzbF9EOTdyUGVwX0FDUGZraTgwRjNaX3NuQ1FMeHEzdXQxQUx1a056ekNEZHBiZ0JOa19mWDZhdXZQV29iOWl3cWYyUlVfaS10WUhQekQwNUtpZk1HbER4N0pCT1Y1NXl3QjZ2Z2FiRERua19ZQkZtSnhjaw?oc=5"
+    },
+    {
+      "headline": "Ares Management Stock Is Down 14% This Year & The Street’s Target Hasn’t Moved Since March. What’s Next? - tikr.com",
+      "source": "tikr.com",
       "when": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMUZwaDVzVmlMeWE4MUFNRDlnbDRjd0g4aF9ma2Yzd25mY25jM29TdV9PellxRkgyTm0zY0syZ0RaMEJWbDVzY0pKZTBYeC1MQk5vZjZBX3VyN3I0bGQtSDR5MDJCRXpqT3NBeWhVaWdfMHM4RnBrQl9CaXVWOXJHLUM0TTd5QW9veEYzVElZdXpxQnBBWnRlVU04WFFHdW9adFhjdmNZa0hVZVY2NTVhSjZ0Q1dqbXo3enRoQkF6OA?oc=5"
     },
@@ -426,12 +433,6 @@
       "source": "Yahoo Finance",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObmNkODU5X3pPOEhXQ3pwTi1qR2lZOGM2M0c5X3VmcEtVd0FhSUdKdnJfallfRWJVYUtwVGFQQlEyWlhiaVMwa2lqbjhsazd2aVhDTEVMZnBZaVVrbGN3VktPZUVtdzRKVnBKeUQ1bFg3NU1LUU84SFBuV0M3RHUwa2gzVzQ0QV9hRk1JTzVMRjh0WThHSzM2OEV0bTI4MXRydzZSdGJ3aw?oc=5"
-    },
-    {
-      "headline": "Assenagon Asset Management S.A. Sells 38,003 Shares of Ares Management Corporation $ARES - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQ0VFVTBreG1SZGRyYVJMOFRHM05wZ3M3X0hBY0J6N2ZfSkRaZXE4eGcwOXhPOGxqcWpPb2xIUVdTQjZ0bnE0OGlBdlE3WWxOZ3lSV21EZkR0Q1BTT3ZxWmM5TXNURDlwYXBrbU1oV05iR3NUcElXblRTYk1GM001TnkxN0F1ZTExMXFmSGpsTGFqTk9BLXZjd0w0UWRVWGQ1T3VlZjFmMVhMaTZxcW9tVGcwd3BkOHBaaXIyNnBTMDFUT0xobjFOUXNKdXVpNXpSLXItbWp4ZnByeGhVWXc?oc=5"
     }
   ],
   "insight": "Tracking Ares Management (ARES)."

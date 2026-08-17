@@ -1,20 +1,20 @@
 {
-  "builtAt": "2026-08-16T02:42:55.860Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:42:21.197Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    184.11000061035156,
-    186.63999938964844,
-    191.1300048828125,
     188.52000427246094,
     184.67999267578125,
     182.77999877929688,
+    185.05999755859375,
+    178.66000366210938,
     177.9499969482422,
     180.52000427246094,
     182.52000427246094,
     180.86000061035156,
     177.64999389648438,
     182.50999450683594,
+    182.19000244140625,
     182.1999969482422,
     182.41000366210938,
     184.3800048828125,
@@ -27,9 +27,6 @@
     191.41000366210938
   ],
   "6m": [
-    151.6199951171875,
-    149.83999633789062,
-    150.8000030517578,
     147.47999572753906,
     152.14999389648438,
     154.8000030517578,
@@ -143,12 +140,15 @@
     188.52000427246094,
     184.67999267578125,
     182.77999877929688,
+    185.05999755859375,
+    178.66000366210938,
     177.9499969482422,
     180.52000427246094,
     182.52000427246094,
     180.86000061035156,
     177.64999389648438,
     182.50999450683594,
+    182.19000244140625,
     182.1999969482422,
     182.41000366210938,
     184.3800048828125,
@@ -393,12 +393,15 @@
     188.52000427246094,
     184.67999267578125,
     182.77999877929688,
+    185.05999755859375,
+    178.66000366210938,
     177.9499969482422,
     180.52000427246094,
     182.52000427246094,
     180.86000061035156,
     177.64999389648438,
     182.50999450683594,
+    182.19000244140625,
     182.1999969482422,
     182.41000366210938,
     184.3800048828125,
@@ -415,22 +418,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Oppenheimer Asset Management Inc. Purchases New Shares in Northern Trust Corporation $NTRS - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObkR2R1g3VUV2a05KVlloX1Z0N2Z3QlB6M1ZjSDlFa0oteVRNYkREcnJVNlVwMkFUR1F2ZUlSb0VPYmxDc0JIVmVnTTBWbE5kdkJ5Q08tTTRoTEVHaTdFR2dDTUpnY0FtUDhhT1REbUUteVd6eWNfajR6LVNCVzVfSW1PNGlkQkl0V3dvQ3d4WUN0Q29iMlNESnBmcjUwM3djdUNEc1A1Qnd0UUxhbWVQWFhzYXlydG9ZWEhNOTZEanpxcUpWOW5DTHFFYml5V283dHdrQ0JheXFqNDBCWDl5aUZ3aw?oc=5"
+      "headline": "Fund Update: New $568.0M $HON stock position opened by NORTHERN TRUST CORP - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUEZqbUtfczZVRmU5dXk4WFhOb21QcDNRbzI5Y3RQN3lOc3FyUzJYS21YWFBwSmJUZlZQUXVkZ3hnaWhwNVFiaVhsMFZmYlhwdktYQVNtWVVjYVVtamx4aG0zdFd3NnJNZlA2SlBHNUZmdXluTEM1Q1ViLVdoQ0RtMWZISUtNOEhSUXotWGtSS2lFTF9JeTA5U01SNFc4T0V6czVOd2tzdHkzejFFd3NzSW5Zbw?oc=5"
+    },
+    {
+      "headline": "How Northern Trust Corporation (NTRS) Affects Rotational Strategy Timing - Stock Traders Daily",
+      "source": "Stock Traders Daily",
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY05kNnZPV3RlbkJJd2VwUjBIdFI0bDZfZURJSVVIMmI1Z1pBRl90UDgwMUxvel90RU1wYzRuNVZ3RkFYQUhvbTlOczBqWFdPUm1oQ3NXY1pEamUxQjlEX21xRFAxOFlzSFpNakdPM2FsTHZ2VUliX0tQY1hCOEdNdGYzcU5zRWN2bzVMMkdXTllIQ2dmbXVDTE1CSHJ3X0dKSl9tSU1RWWo5UHdacDk5cVdCU2IwWFFobm1kZm1NUFZwT3RSbTJPWWtVMUVhNkZRT0dmdXVCemxOS0tGeVZiY0puWQ?oc=5"
     },
     {
       "headline": "Northern Trust (NASDAQ:NTRS) Passes Minervini Trend Template and High Growth Screen, But Setup Rating Calls for Patience - ChartMill",
       "source": "ChartMill",
       "when": "2026-08-14",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPU3NWcUpaMndVMDFkUWI5YzVRaWFNdzdQUDI2cDJKcXJQa2dFb2czalQ2ZmVzRUgwU0w0N01vN3VqZExaRXdnclBSMjNNWU4wRHpDaVlhZGs3am1vdk1iWE9SZTgxLUlQUDRNUFFWRnA1bm1YMk9NSW5rX3RoMFlUdHpySlVya0NVdkxraXBXVEJ3U1RqVk9BYWExNXVTbHdaZWlONzliQUI3MnVPN0ozdzVwM1FRR29hRjZ0OXZBNm5yTTdQeHI1WDNqRFJkVndrekFObzZBVFlFaVF5ZUMyVTNNZElBa0R2UGF3OEdzM1lRNllyMVRuSlJoeEk?oc=5"
-    },
-    {
-      "headline": "Fund Update: New $568.0M $HON stock position opened by NORTHERN TRUST CORP - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUEZqbUtfczZVRmU5dXk4WFhOb21QcDNRbzI5Y3RQN3lOc3FyUzJYS21YWFBwSmJUZlZQUXVkZ3hnaWhwNVFiaVhsMFZmYlhwdktYQVNtWVVjYVVtamx4aG0zdFd3NnJNZlA2SlBHNUZmdXluTEM1Q1ViLVdoQ0RtMWZISUtNOEhSUXotWGtSS2lFTF9JeTA5U01SNFc4T0V6czVOd2tzdHkzejFFd3NzSW5Zbw?oc=5"
     }
   ],
   "insight": "Tracking Northern Trust (NTRS)."

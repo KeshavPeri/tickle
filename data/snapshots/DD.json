@@ -1,20 +1,20 @@
 {
-  "builtAt": "2026-08-16T02:42:33.027Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:42:02.631Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    132.66000366210938,
-    134.1699981689453,
-    134.86000061035156,
     134.2899932861328,
     135.2899932861328,
     135.75,
+    138.7899932861328,
+    139.63999938964844,
     137.39999389648438,
     137.6999969482422,
     139.9600067138672,
     140.77000427246094,
     138.10000610351562,
     138.83999633789062,
+    137,
     141.27999877929688,
     142.92999267578125,
     147.3699951171875,
@@ -27,9 +27,6 @@
     146.25999450683594
   ],
   "6m": [
-    133.2899932861328,
-    135.89999389648438,
-    143.49000549316406,
     137.0399932861328,
     140.19000244140625,
     141.3000030517578,
@@ -143,12 +140,15 @@
     134.2899932861328,
     135.2899932861328,
     135.75,
+    138.7899932861328,
+    139.63999938964844,
     137.39999389648438,
     137.6999969482422,
     139.9600067138672,
     140.77000427246094,
     138.10000610351562,
     138.83999633789062,
+    137,
     141.27999877929688,
     142.92999267578125,
     147.3699951171875,
@@ -393,12 +393,15 @@
     134.2899932861328,
     135.2899932861328,
     135.75,
+    138.7899932861328,
+    139.63999938964844,
     137.39999389648438,
     137.6999969482422,
     139.9600067138672,
     140.77000427246094,
     138.10000610351562,
     138.83999633789062,
+    137,
     141.27999877929688,
     142.92999267578125,
     147.3699951171875,
@@ -415,22 +418,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Use DuPont Analysis to Pick 5 Top-Ranked Quality Stocks - Yahoo Finance",
+      "headline": "DuPont de Nemours Stock: Analyst Estimates & Ratings - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZWRnUTAzRTh3RE9LdDBlc1AzdEV2cURwajFuaTVPR1QxQVlSWUZDVTN6RzVNcUJYVnl1ZVRHMnQ4SDVCLUVkSlhhMV9TdnZmMV9EbGxrUW5FbUtqOTU2X3VLVFpIVEVtbDJ6S2hCSkNJRmNTQTdiTnRpRENDeGtQSzJKZXZKX2xEWmpWSmduSzc4Z2VVZWc?oc=5"
-    },
-    {
-      "headline": "DuPont de Nemours Stock: Analyst Estimates & Ratings - barchart.com",
-      "source": "barchart.com",
       "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUHgwbnFNbGQ3d1FHckp5NkxxdHE3Q0Y5WWZpaDJOZlYxWE9ZNnVjMkI4U0xFN25rdkhNZG5XMzk1ZjhuNnBEZU1fOW4xMHBhaXowWHdPUVdUMHRyYkVId2hTbDhfQmVxR1RqalpGcW93b2dDNWx0X29iQk1lTjg4Y2dwTzFvVTVMV252MmFPdmpEbW5CRjJDOQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGxvc2hJd0ZqVkxSQzgyb29nR2FET3NZVWpudlF1TUhLNllxUGhPSk1DUXo0SW5iY1M4Z2pVS1pyUXlFVjB4SFhWVzBIRGZGSnFSb2gybnI2VFR0Wldkb2c0Smg1Ni1lZFRaWnBKZ1U3UThMSWhrTjA3UlgzRTdOVlg3TGFvMGUwcnJSa28wVnY5WTBnOWY1ZzRqLXB1QkZIY2E5ZXlB?oc=5"
     },
     {
       "headline": "DuPont de Nemours Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ1ZHbUZYWkNLZnY3M1I4UVhiczBWeC1XMDhEQThKY2NjaFd5NlkwT3JXTjJCMG84OG8ybV8yWmpHT3hrQjR1dkl4S1NtOGxUOWZlTGY5VHp6TWcyNUNyVS1ob1FCM1paT2FmVXU0TGgwNnZQMUVyYzlZRVY3VjdCX05uR2w3NVdsMlNrUm5EdjZRQTREaDF6bGp1b2hqYy1BX2JEQTVpa29ldHA5TmRSSEllUnJiNXJqT0tqSkk1dkhGZWVZMHZOVXZiRExmUnBnWmc3YWZEa0xHU1pSZUNVSlVlVXlVQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVdiZFBIblQ3azVpa1ZkbTBIODJRQV8tWFBYbFpzUV9RSW10MV9IMGlVYlBqc0M5M0tlOGVYVTN1ZjM1dlpud1UweGtFVEhYN1JwQURtbDBiQVhtT2hqQVNQeFRmMWRJVG1YOU13U3dHNWJNa1F1YzdjSHlWUUVlSHNIa3JVM0V6M0hxenZ4MGRDRFAyOWZkRlZpWVB6V2Q2U2xvNEJsYzlqTDJ5YWRMaHo3bmtzVzVIOHNoTVFSZDdHZUh1M0c2eXlpMG82QQ?oc=5"
+    },
+    {
+      "headline": "Is DuPont De Nemours (DD) Fully Valued On Strong Q2 Results And Higher Guidance? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUl6U29xcjFPU1FhZVRYY29BVGtUTmhSYnVtdW5abzNvdVkxYTNGTk1YV08wTXhwZi00NGcxay16YnhJaE4yc1NFMm0yak84T1pPQjJLRy1zSVVwck1rSjg2bTIySXg4emVBRjZob1paanp1d082TjVCQWI5RFZadnNHaWZ2UnFxRm5ubnJZaThyajdFVC1XWUpxbFR1WUN2TVBMMkx6Zm5MV0NwQ3NzbFl5MmxpVEZoeWZUMVBOYzJpYUxGUEtZamhLQXlZNkN6dENr0gHYAUFVX3lxTE9OeVV4X2U4RS1Rb3l6ZHZXMUtXYlg2dTVTeWZaQngzZ3lqamdPNXNnMmlSVzJEZUJsQS1kNEoxWVVzYnk4SFNsQjZkUndvZWJEM1NfUzVsX25VelJMbmhSY2k1cmotbzJ4cURwaXBjbEFuc3hlTVJoOURINlpOYWtDampyUk1mSmRyenpuWDdzMGFVMTZ2eVVxRC0xQ09PZV9NZGU3SmZxVjJ2dnA3NjhqUWpCTVJfYUZabDZwZ01ySUxGRVhIQUw1Rk1KTHJWSlctQTBNSDR1NQ?oc=5"
     }
   ],
   "insight": "Tracking DuPont (DD)."

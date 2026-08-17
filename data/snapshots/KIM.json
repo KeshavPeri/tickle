@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-16T02:42:50.403Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:42:16.449Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    25.25,
-    25.09000015258789,
     26.030000686645508,
     26.1200008392334,
     26.030000686645508,
+    26.100000381469727,
+    26.139999389648438,
     25.739999771118164,
     26.100000381469727,
     26.3799991607666,
@@ -27,8 +27,6 @@
     24.40999984741211
   ],
   "6m": [
-    20.899999618530273,
-    21.510000228881836,
     21.690000534057617,
     21.829999923706055,
     21.760000228881836,
@@ -142,6 +140,8 @@
     26.030000686645508,
     26.1200008392334,
     26.030000686645508,
+    26.100000381469727,
+    26.139999389648438,
     25.739999771118164,
     26.100000381469727,
     26.3799991607666,
@@ -393,6 +393,8 @@
     26.030000686645508,
     26.1200008392334,
     26.030000686645508,
+    26.100000381469727,
+    26.139999389648438,
     25.739999771118164,
     26.100000381469727,
     26.3799991607666,
@@ -416,6 +418,12 @@
   "marketCap": null,
   "topNews": [
     {
+      "headline": "What Is Drawing Attention To Kimco Realty (KIM) Today? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS1FhOTBfTkJfZXBNWV9TZ29jVFVRN2Nkc1ZaeWhRTU9BZDJKUGsxRU8xbGgzQTVXOTMwZ1c2ZENnSk51ajJ0ekhOMUFDbFdfcnFMV2xxN28zRUFocXNrVk1TQ1p2aUlpd0N1YVBBczZqVmNNMVlqM2lJS1ZQRVdZclM5TmZ4ZnZEVzJ3d2pZZTYwUGJGMDlQRUhhMU45RHR1UmNyeVk1S2xDaVdiZm96NmU3bXA5UUtXdmVBUlNHaWpyUnUy0gHEAUFVX3lxTE9LUWE5MF9OQl9lcE1ZX1Nnb2NUVVE3Y2RzVlp5aFFNT0FkMkpQazFFTzFsaDNBNVc5MzBnVzZkQ2dKTnVqMnR6SE4xQUNsV19ycUxXbHE3bzNFQWhxc2tWTVNDWnZpSWl3Q3VhUEFzNmpWY00xWWozaUlLVlBFV1lyUzlOZnhmdkRXMnd3alllNjBQYkYwOVBFSGExTjlEdHVSY3J5WTVLbENpV2Jmb3o2ZTdtcDlRS1d2ZUFSU0dpanJSdTI?oc=5"
+    },
+    {
       "headline": "ETFs Investing in Kimco Realty Corporation Depositary Shs Repr 1/1000th 7.25% Cum Red Pfd Registered Shs-N- Stocks - TradingView",
       "source": "TradingView",
       "when": "2026-08-15",
@@ -426,12 +434,6 @@
       "source": "MarketBeat",
       "when": "2026-08-15",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbkZBMEZBT2s1Uy1TUnQ2a3pBTHZkUFJvNnRuY1VDNXJhWkN1Xzk1ZFVyQTYxZ1F5NnM4V21uTGlqTjVZQ0lKaGVJUWRxTTdPbmpPMFAzTXRFcnRxaTJsTVBiNW9zZU1iQU95X2VEUGZXaHV0Vjl3c1pnUTA4YUpoMHdNM2lkYmJZeG1xTjhKcFE5dGxzYnBfbUdZUGhzQWJBVGZCZkFXV0VuVkV0eTNIMzg3dElGajNHSmVRbTRueDVVUXJsR1ZBN1FQalBhX2pDQi1BTnEtUzM1MjRCaGFMY0JR?oc=5"
-    },
-    {
-      "headline": "How Investors May Respond To Kimco Realty (KIM) Dividend Hike, Earnings Upgrade And New Exchangeable Notes - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdWp0cW5lNk41TUhlblhBdm9md29hcENuOWxCd0pUSkR2Y1BfN0tZOERELS1ld0pneklyT2d6ZXlUTnd5dkxiQWpxaHZPZnpLcDA5NGFPSXlNbGltQ1h5VzBtdEI0NW82ZkZfRlItcEFWLUpnYXI5TG5NM2VHQ19ZZmFMNmxrbzNhSzUxMlhwYnZtOFlYZEVOeHluSFRPcmRFVlZtN2x0ZjZFY0REazZRZnNyUy1tcHZGeEhzV1VPSjF4ZGEyWTU2OE130gHPAUFVX3lxTE4wOFdEbnJZcGt4aHZObFdsUnZMQ3BCYzZOa1VYSGF1YTZrQklGcGt0NmpGcXRCR0hQMnVZN1Y2U2xMMG1uSVJua0ZVNTBSV1JFYmU0ZTdRZ3poWWxjcDFUZnM2NzI0Ml9fb0tPeTFDWWV5NHFtNVBlX2Y3RmppYjZfYVNEd2NpZG1MMWdyalU2S3laUnppemJycUc1VzBUbmtGME81Y0p2aFJJc0RYYzNLRjlJMDBhVHlnRWloeFZlS0w2eTBJQk1YS3dzMjJZOA?oc=5"
     }
   ],
   "insight": "Tracking Kimco Realty (KIM)."

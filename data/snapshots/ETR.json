@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-16T02:42:38.332Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:42:06.974Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    115.41000366210938,
-    114.23999786376953,
     114.87000274658203,
     113.23999786376953,
     111.91000366210938,
+    112.22000122070312,
+    114.87999725341797,
     115.80000305175781,
     115.94999694824219,
     113.76000213623047,
@@ -27,8 +27,6 @@
     107.83999633789062
   ],
   "6m": [
-    97.3499984741211,
-    96.83000183105469,
     96.88999938964844,
     97.95999908447266,
     98.1500015258789,
@@ -142,6 +140,8 @@
     114.87000274658203,
     113.23999786376953,
     111.91000366210938,
+    112.22000122070312,
+    114.87999725341797,
     115.80000305175781,
     115.94999694824219,
     113.76000213623047,
@@ -393,6 +393,8 @@
     114.87000274658203,
     113.23999786376953,
     111.91000366210938,
+    112.22000122070312,
+    114.87999725341797,
     115.80000305175781,
     115.94999694824219,
     113.76000213623047,
@@ -416,22 +418,22 @@
   "marketCap": null,
   "topNews": [
     {
+      "headline": "Entergy - Forbes",
+      "source": "Forbes",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VSGE1SHZTUXFWWHNPSnpsX1Z6NzRSYXlCQ29ZMEtTNHpoS0RVbkNMR3pIZGlxS1pwczZwc1EyUVlfQmtfd2Y5MVVFbDFiYmlZb19B?oc=5"
+    },
+    {
       "headline": "Entergy reports second quarter 2026 financial results - Entergy",
       "source": "Entergy",
       "when": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQODdOeEtHbFpFZWdxRUs4bHJMeGZhNWVMQ1E1TFVLVkEzdlRFajZRd1BTSDlYWWQzNnlFelFMVlBIdGNXY1FMX3lJT3hIS0N2UWR5MzlSTnR3YklDVmNXTGE3VDJFbHQ3ZFBQSFRWaC1DRmVBV2VSTmZYWFp2Q3VIeFhjcWEzLUJSbHc?oc=5"
     },
     {
-      "headline": "25,384 Shares in Entergy Corporation $ETR Purchased by Dockside LLC - MarketBeat",
+      "headline": "CORDA Investment Management LLC. Purchases Shares of 14,972 Entergy Corporation $ETR - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU09OcU1QeWNBNjU0M0hrRkhfckMzdFdlaE84cmE2TXRQcGZidl9yQlFqNUFSdVc0Q2psSHFBa3BRcDc2MWFLcGRKcjBUZklmZkpWQjQ1dWZJejJYNklMaGZXckJYSEVkMzRMaDludS00U0swLXJfck1rVHNFc3U5MWRiblZtYks1ZjJ0TWJyZXl6TkNkc2tOZWU2TmJWRXZQS3lGdnpacXY4OC1ZVnlkSEw4RkcxalVUaTltX2RzSmFGOERh?oc=5"
-    },
-    {
-      "headline": "Entergy Stock And the Utility Names Tied to Rising US Power Demand - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORS1mLW5ZSDlmdVBaaW14ekNlSW96QThOdmlJbGVOcENtcDdFWllZNjU4TlNIVEpsVTlWZXY1elh5aEItd0VhVmJOVklfZVI5SGlEbTRlenF1d2lyVEM1NWVFYlA0elhxZGs4UW1JX3lsZ1QxT1U4NVlzODVMN1JZbkpZWmk0dGd6eURwcVRINmI2amdJR0dVdmM1T3JKWW1qdUJDM09XbEE3Q2ZVMlhRd0t1UVpENmc0dUgyMHJkcHLSAcYBQVVfeXFMUFRJTXJGMXVybGZwUjBlZnBXVFlCZmI3ZTdOUnVsQkhPaFpnNTRWa3J6N1ZRdHdabUhOejd6bEtPYmZXV2NSMU5yQmd3Y09yNHptLWxkcjh2dUVCMWl2V2JWd1VaQWJ0Wnp0ZDFEMFJmMEwtT282bmhzSkZVQXV2WHdaZGl3UXllNGZhWnZBQmJQTnN6aE9xSzdWeFlpTUxPZHMzUjRSOG9saE5iQU5WYjRiT2h2a1VaQWlaZnppN0pYVHBaN29n?oc=5"
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdzZVWm15bTRyMnNPQlNxU29TS1hJLWhQTXBiSEtpVlRmVXJ2dGJ1TUxQeE5RdU1VTDNMa1l3VUlSYURTaFM4bHVWVDBhazJfY1dJcnFBOHhYRXVwNS1EcUxiajA2QVNWYnVNOHpGcGY1S2VmQTRqNzMtQUI5Qkh6NWprdEpyNHczYTl6R2pKR0tHUjBTcFBoTVZVRnRkWDZkc2dQVzduYWVSY3pJTE1yb2RuSGJGZGFwT2FxZTVCQTAwanFyaW9rSnE4OWMzSFJYYkpKR1RuX3JCQQ?oc=5"
     }
   ],
   "insight": "Tracking Entergy (ETR)."

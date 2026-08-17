@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-16T02:43:02.153Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:42:26.131Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    82.8499984741211,
-    80.7300033569336,
     82.25,
     81.69000244140625,
     80.77999877929688,
+    81.22000122070312,
+    82.12000274658203,
     81.7300033569336,
     83.11000061035156,
     84.08999633789062,
@@ -27,8 +27,6 @@
     82.98999786376953
   ],
   "6m": [
-    84.62000274658203,
-    84.6500015258789,
     84.62000274658203,
     86.52999877929688,
     86.47000122070312,
@@ -142,6 +140,8 @@
     82.25,
     81.69000244140625,
     80.77999877929688,
+    81.22000122070312,
+    82.12000274658203,
     81.7300033569336,
     83.11000061035156,
     84.08999633789062,
@@ -393,6 +393,8 @@
     82.25,
     81.69000244140625,
     80.77999877929688,
+    81.22000122070312,
+    82.12000274658203,
     81.7300033569336,
     83.11000061035156,
     84.08999633789062,
@@ -416,22 +418,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is Sysco (SYY) Undervalued As Strong Earnings And 2027 Sales Guidance Lift Hopes? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDhEWndGWnRTQzNjc180b3lxOE5qclhqV3J3U0RJSEdXNVNPaUg1dmdZcXA0Q2pRZEoxM0Y3N1cxMkdtdzhoaEN1WjhnV2lCeUplLXh4a3lpWjBCTXptcTJXT2N0TVlpYWRLX2x0THlVcDIzZ0RRUmxDNTZwWV9GMDg2WEhkN3ZCN2lpejlyMkpjMnFFY2xTNHF2TUVTV3lRTDNGaDBoT3pfbktRZDAtNEtnYi1YSkhzUnJQRGNENVFWN0ZmTlJ2a01mbUozeWdv0gHQAUFVX3lxTE5kOERad0ZadFNDM2NzXzRveXE4TmpyWGpXcndTRElIR1c1U09pSDV2Z1lxcDRDalFkSjEzRjc3VzEyR213OGhoQ3VaOGdXaUJ5SmUteHhreWlaMEJNem1xMldPY3RNWWlhZEtfbHRMeVVwMjNnRFFSbEM1NnBZX0YwODZYSGQ3dkI3aWl6OXIySmMycUVjbFM0cXZNRVNXeVFMM0ZoMGhPel9uS1FkMC00S2diLVhKSHNSclBEY0Q1UVY3RmZOUnZrTWZtSjN5Z28?oc=5"
-    },
-    {
-      "headline": "Sysco (NYSE:SYY): A Dividend Quality Pick for Income-Focused Investors - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEJySkV6YmxPUjExZ1RNd1ROZW11T1F6RjZPSUhXMGVjczRiX1FiTVUwS2lxLUJHUE15eVdfaE9lQzJEQ0F2SFN3akZLd3hsNnI5bjltN2tQaF9PalRhTUExN0hWVjF4MllsU0ZjTHFNbXJJVHR6NmRzUmtfTG5RWkk0a1NvdC1sVmItd3hybDVTaXI3WVZ2WndkaUllTkRjVUpmd2NJOGgyLWJoS1UtR0RoMm51ZHF5?oc=5"
+      "headline": "Stoneridge Investment Partners LLC Takes $1.14 Million Position in Sysco Corporation $SYY - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU1hjQTlMcHF3d0p6QjhTWHAtY3ZDMl9vMG1XSFRjRmlkRmpocWFIODhaT1ctZ2xVeG5TUXdBRnFIUjlCMGUzVUlkVlAyQUpsRzBGZ3Z5NFRjRk5lTi1EODhRUmFzV2ljZE96RVZMQ2lNSXQ4UDdhSGFKaVAtbnVBUW9iWWhZT0JKVEVtV19jZEhuSE9OTzRJak1TOUFHSVlfcEREbEVTeFhRbVVfM0FZaFp5Z1NqX0lSSUJYUE9qZ3ZiRE9JdGxDVGZJVWlRQ0ZfR0U2eDJKb29NUVhISWk4dQ?oc=5"
     },
     {
       "headline": "Sysco EVP Ronald Phillips sells $558k in company stock - Investing.com",
       "source": "Investing.com",
       "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ3BQVjZaZk00aFoxMWhFY281cnBrY3lpaTNKeGkxQXFoeVlzU1pwQlVRSUo3aHZCS0dmaVA3cEdhcUZYZEFDcUNVdE5wNmVyZXFyeXRXcVZXRUJUV3JJQVhqbVg2YWdtaUdraEtDdmh1ZHlWUTFFREVzemNqU01VLUVsUmhKUmNJZm5EVldHT2ZDVklJT0pEdE53ZktwRG1LY0ZuaUZUQzRjOENuSFc5SU1UaGlVRS1YamxyRkRXcldraEJD?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaW1mREpIMzVObGFaS0tlSW12a2s0TC1wTVpkb29fMmZQZ1RUMWNLS1J0TTdYX01MNkpXWjZoV0hQM01yUmJXbDJjOXZXM2pMNWZjeWxHZ1ZoV2xOcjV6clBoRmlYaDZ2N1FaUFhRV2xFd0F5R0xIWU9qOVNqQTR3ZmVXdEpsX0VMNGpqVVg3NzItLUFyc1NlUlZ3clVST2d6UHg2WVNIUXVsRXdnNk00OUh1ZFU5VExVemc?oc=5"
+    },
+    {
+      "headline": "Meet the High-Yield Dividend King Wall Street Is Sleeping on. Here's Why It's a Buy in August. - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTkNnMUs3blBXNUUzOVd6OUxpUS0tQnN1TDA2UXdVQ3dNZWpGQ0RmQzJlcUZSNVpEMnllUEQ2ajZoSTVwRi1NcmJXb1Z4YlpsT25XbGJlNEZJM01CT002ZnUyd0UzcTh1ZnVnVlE5XzFfLURraEZlMXFXcU8xcjFTNE5leTYwZkdzRFdick9kN25WeUxNbU1UZW9NVV9nbHBpaGlLeXlTaVEtaW1sUFRaTmlPcTItNndxYjRYVWhpRHAzeEh0TjhqQTFZUWhSYlN6MS1xY21Pc3J1WVpBZWVwaDdOM3ZqQXVMUGg0QWE2NnhsS3FnN2R2bG9TeUtTa2s1UFJHSjFJbW9wV1k?oc=5"
     }
   ],
   "insight": "Tracking Sysco (SYY)."

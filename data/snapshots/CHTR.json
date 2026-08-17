@@ -1,20 +1,20 @@
 {
-  "builtAt": "2026-08-16T02:42:27.768Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:41:58.638Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    131.3699951171875,
-    127.91000366210938,
-    131.24000549316406,
     133.3300018310547,
     131.3699951171875,
     129.16000366210938,
+    127.79000091552734,
+    129.22000122070312,
     126.5,
     123.30999755859375,
     131.61000061035156,
     139.97000122070312,
     145.1999969482422,
     142,
+    144.97999572753906,
     144.10000610351562,
     153.07000732421875,
     153.1699981689453,
@@ -27,9 +27,6 @@
     154.27000427246094
   ],
   "6m": [
-    213.61000061035156,
-    212.74000549316406,
-    224.17999267578125,
     223.52999877929688,
     231.13999938964844,
     238.25,
@@ -143,12 +140,15 @@
     133.3300018310547,
     131.3699951171875,
     129.16000366210938,
+    127.79000091552734,
+    129.22000122070312,
     126.5,
     123.30999755859375,
     131.61000061035156,
     139.97000122070312,
     145.1999969482422,
     142,
+    144.97999572753906,
     144.10000610351562,
     153.07000732421875,
     153.1699981689453,
@@ -393,12 +393,15 @@
     133.3300018310547,
     131.3699951171875,
     129.16000366210938,
+    127.79000091552734,
+    129.22000122070312,
     126.5,
     123.30999755859375,
     131.61000061035156,
     139.97000122070312,
     145.1999969482422,
     142,
+    144.97999572753906,
     144.10000610351562,
     153.07000732421875,
     153.1699981689453,
@@ -415,22 +418,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Charter Communications (CHTR) Stock Looks Cheap On Earnings But Weak On Debt - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGt2Q2lFeWtNVnB0clppSzk4SDdjSVJJWUJyY0JKVlczeUptRjhWRzhzMDd2bHhXdUlJQkRkdkhIa0V3MmFyRENkdEUzVU5iMzBvanliMGItenhNZXZ5STVlQmViSzR0WlN1Y2ItdndKeXpvY0hPVmZoQ1hSb0ZpcXljN1FhM3N5M2xFVERMaUpYYjlsVklUU3hhZlh1dkZOU0JIbUozcjFoaVd3OFBtSG5fRWVtaXlXckwtQUVORW91LXNNWHBlY0RfRUI5S0lfcjhzdNIB2gFBVV95cUxQQ216ZmxyLVVuV2xrN3daTlA2WHcxdzV5eVJ4N0V3T1oyQmR4b09aUldWY3AxNDZwZjQ3VzBJdHZXN1BldVdXMl8xY3lmT1NRNy1DUnJ2eWo2djgxaWVBOEE4cE1RbGJIMHo3dE5kbm9UVTJOLVpGRHFHaThMT1ZRWVZYVW91NDZGVXZiV3dpWUNJMVgybDhXRzk1R3h0MlFhbDJ3bDI0bW5TelE4T1ZYY0RkbkhXcE5zM1NNNlBsUEFRcHdMQkc5Nl9YVVBXOEVjZjlzVjR2LXpaQQ?oc=5"
+      "headline": "Charter Communications (CHTR) Stock Looks Cheap On Earnings But Weak On Debt - Sahm",
+      "source": "Sahm",
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYVR4MDh0Smd5Q3BvLXhIQ3FDcXlqdVFLVjNJNk55LU5Rd2U3MU1nTkUtWlA5bGt3ckR0cjZuWUNhTk9QNkFKZXNsRjBzZjNVeGxzd2tNYjh4OHp0cVBPMS1NeE9PLUN4UGhPeEpSc3BRSnlPUElKZC1CUjEta3BvNjZiSC0wZTc5TnQ1b1NJLVIycXRka29XQU8yZXpiWlBqTnJTb2tza3VQV0wyZnFwLU9yT205a0drQ0MyNEVXc2JSNTV1?oc=5"
     },
     {
-      "headline": "Charter (CHTR) Stock Still Looks Cheap On Fresh Deal Financing News - Yahoo Finance",
+      "headline": "CHTR Stock Edges Higher As $1.4M Insider Buy Stokes Retail Interest - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeG5rU09qRmJZT0RHZERpdTB1VWxiSUNfQzU0N0pHSU5hU0dRZG5FVF9zQk9xV1poaWlUYS1OR2VneHRIY3lVMUNlMThGNFVQRk1rRzR4QXFMa3NQcEJNUThCN2VmT25hSEs0NWN2ME5yaG5MNWNuemhsYzl3ekxrVmV3SmcwLVFKLUFxOTUwT1ZoVnJDSWtDX1NrMkVMZlMtSnJLZWU0Qnd6NUwzWUk3VWRpSFZmc3dQTEJLZjFqUGZ1V2dLMmY3SkJ3?oc=5"
+    },
+    {
+      "headline": "Charter Communications (CHTR) Stock Sees Fair Value Cut As Broadband Pressure Clouds Outlook - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcC1KTU9MNURScUVkSGFhXy1ZRHFORjZJV2hZcjN0UDNuOFlkZzBPYXZsOEVIMmp2QlJFdWFObkxPbkNrTkdfWEVVMXF1dU41TUx2aS1WNXllbHRRaVE4NFFtQmhBWTlna3h2VlYyanBZV2xMNndOUW9mSjlGWXJsVzVtcjFlcW1IOE5NX3JseTVIbm1jRXA5YlJOTQ?oc=5"
-    },
-    {
-      "headline": "Charter Communications Inc. Cl A stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUNRY2M3S0s3OG9qYlF2MWFQdUlweWZTRTQxOHZvaUFPQmNTMVhTcm1MZnYtNHpCdlNYazVmd3E1azRqc3V2V1JETFFUb0hqaTBxZTl3WFNtUVlwWjVVYTRHSG1JaGlqSG4ySDZiNktjWmNwTzRkdzIybHRMeXg2NEJuNE1fQ1A4VjdTN1kzUmgtWTNnZFg2cHp5TkQydDB6Y3dwOXFEVUJydTNFbmxmaGJ1QUs5YlhaQlBEYjF2R1pLeDZmSGJwbjhrRjFZVldWX09RemNIOGVfSjBoWUpfZnQ0SGY?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVpUam5mVWNnM2tCQmI5MTFla0x2c1NoQ1NJaERobGlHTUdrbnNkMnlIUExBRzhEUE1LNkhUcDVYdWx3dHFGWkMwYm80NHYyeTRwazZaSlhjeDAtR1Q0elpLdDh1bEdMVFVEekw2WVc2XzZ0MXkxU1VOdVAzUG9tMEdtOTBOX1VHcEF6TzhNVFdoVXZQbmE5ZHBRbDNZRWtrZ1FhVkZR?oc=5"
     }
   ],
   "insight": "Tracking Charter Communications (CHTR)."

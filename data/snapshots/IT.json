@@ -1,20 +1,20 @@
 {
-  "builtAt": "2026-08-16T02:42:48.808Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:42:15.146Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    141.30999755859375,
-    132.97000122070312,
-    133.75999450683594,
     142.88999938964844,
     140.19000244140625,
     141.05999755859375,
+    134.77000427246094,
+    132.10000610351562,
     133.69000244140625,
     140.5,
     147.4499969482422,
     155.83999633789062,
     165.64999389648438,
     152.9199981689453,
+    151.02000427246094,
     151.52999877929688,
     185.7899932861328,
     186.41000366210938,
@@ -27,9 +27,6 @@
     181.08999633789062
   ],
   "6m": [
-    202.39999389648438,
-    160.16000366210938,
-    157.8300018310547,
     152.02999877929688,
     156.3300018310547,
     159.75,
@@ -143,12 +140,15 @@
     142.88999938964844,
     140.19000244140625,
     141.05999755859375,
+    134.77000427246094,
+    132.10000610351562,
     133.69000244140625,
     140.5,
     147.4499969482422,
     155.83999633789062,
     165.64999389648438,
     152.9199981689453,
+    151.02000427246094,
     151.52999877929688,
     185.7899932861328,
     186.41000366210938,
@@ -393,12 +393,15 @@
     142.88999938964844,
     140.19000244140625,
     141.05999755859375,
+    134.77000427246094,
+    132.10000610351562,
     133.69000244140625,
     140.5,
     147.4499969482422,
     155.83999633789062,
     165.64999389648438,
     152.9199981689453,
+    151.02000427246094,
     151.52999877929688,
     185.7899932861328,
     186.41000366210938,
@@ -415,22 +418,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Gartner Stock Skyrocketed This Week - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTW1pUm0xeUtsUzIyUmVHbEhzZ2R3cWs3VDNrNWlwMGpiLUVDdGpKNm13MUNxNnNubXpOenlfOTBnbzFqczV4M2FlcXVYbG1NUllwRmlvMlBkZ0FGMmFNUnF0LUp0WlJPcnk4R0ZkMm1jN3ZXX3BQMklMeHJ2QllUVTZkcGdkdFlFZUZlcFBqYnlDNnlmN18waFBSb3gxTlNs?oc=5"
+      "headline": "Oppenheimer Asset Management Inc. Purchases Shares of 22,158 Gartner, Inc. $IT - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNXVUbnBnc0dHVUhXRHZWd0d4bk1qUG03aTV3Tkd3XzB1MlRnQlJVNlBlYnhPcFd2WGpNNnc0LVFrZk92amN3Q29DUHMzd29YT0dWa0hDdFhDZ2o0elAwcVpqVTZ5N3FiVWRzTXl5X0RGc0RtNXVTOGpzcUJ2dTVBZDB3dHZmM093M0ZMbEEwVVV4Z29RWGtwODltZEJQbjhXajIxbHExVzA2T2dyalRjY3JfRE5SN3ltYWxEelZGeHVDeFlYR2k2dk45ekc5T1k?oc=5"
     },
     {
-      "headline": "Why Gartner Inc. Stock Is Soaring Today - The Motley Fool",
-      "source": "The Motley Fool",
+      "headline": "Why Gartner Inc. Stock Is Soaring Today - fool.com",
+      "source": "fool.com",
       "when": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2d0aFlxaFZNaVRMbzRNVG1mcG5fcG5FOEVUeHc5bVRrY2FPQjFsSnpoSUdHRzNEZjdra2ZTLU5tNFpfdUdSS0lsMUFpYTUyejNrVjJIeDE3SmxhRkQycmxzVlY2SnNrT0U0bzFPS09ZLVN0N3phcmNfTGtaSXg5aE9DWkk0bm1V?oc=5"
     },
     {
-      "headline": "Gartner Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "Zscaler (ZS) Stock May Trade Below Fair Value As Gartner Recognition Lands - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWjNiU2pyNElfX3ZGZHFCTjNhZVM5LTJxaU85OWxicTFnODhUYktQbXR3RnhxYk90WnFxLXRIS0k1S2JVRUZXRFhiZFcyZVdvYm1uQnpNamdEaGZaWnlFMGk0Vk05SFdBbWhrT1RJd3NIZ1dxTzJKUEg1aUc2MVkwRGRibHRUVllBeW53Rm9GdmNmTnRLdGxtVExnT0hXU2NpSUxaa1AteGtVMFRhY1QwQVNwbnNSY3BSeXVzVzEyN19PRlJuU3BjUWhQdFc4VnloNVdBbWdnR0gwaXdyLWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRDI1Wkw2Uy04YjBMSU9GcTR2bmZaWmpzc3dsZHltMWhmTG54Q2tkUi1CNTlfQnl4eXQwMk05ckExdjhnTGd6QVJtMm1jTkRBRkNkaHgyWE8zQUg3YnZLLUlnd3dvYmhRTDNOVkY1R055ME9NUmx2UjJpRTdoMGppVkhBTVkyaUF2ZzVob1h1SnQwSWpmbWc?oc=5"
     }
   ],
   "insight": "Tracking Gartner (IT)."

@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-16T02:42:28.359Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:41:59.079Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    94.75,
-    96.94999694824219,
     98.70999908447266,
     96.31999969482422,
     96.29000091552734,
+    95.69000244140625,
+    95.76000213623047,
     93.80000305175781,
     95.55000305175781,
     97.41000366210938,
@@ -27,8 +27,6 @@
     105.69999694824219
   ],
   "6m": [
-    114.9800033569336,
-    117.7699966430664,
     117.61000061035156,
     119.36000061035156,
     119.58999633789062,
@@ -142,6 +140,8 @@
     98.70999908447266,
     96.31999969482422,
     96.29000091552734,
+    95.69000244140625,
+    95.76000213623047,
     93.80000305175781,
     95.55000305175781,
     97.41000366210938,
@@ -393,6 +393,8 @@
     98.70999908447266,
     96.31999969482422,
     96.29000091552734,
+    95.69000244140625,
+    95.76000213623047,
     93.80000305175781,
     95.55000305175781,
     97.41000366210938,
@@ -416,22 +418,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Are Wall Street Analysts Predicting Clorox Stock Will Climb or Sink? - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Are Wall Street Analysts Predicting Clorox Stock Will Climb or Sink? - Barchart.com",
+      "source": "Barchart.com",
       "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGpUczJKRUFnVVByUVZJMDZ6TUtZTTR6Qi1VMDhqMlgwZ0FibVpYNEo1eGYyck5UZG5IY1ZmajBZS3Y1TDNJNnl3WXNEUmdRaHVVbUNBRzNQbE12VmV6elNnU2J4SkVFcVVrUjNkaUlzYzBQbGNsenQtdm9Xejd2blkwV2RRWUdHaWw4V0tkN0dYU2NhWE44VUktbjl4TnlEUkhVX2VB?oc=5"
-    },
-    {
-      "headline": "Clorox (NYSE:CLX) Cut to \"Sell\" at Wall Street Zen - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmdOdFNidjFsTDJVVmlMOFhlYmhPem1jbnVsc29vbnZyeXF4cjVocUFWYXJyMWxJeGNYNlM2c0ZhaXZTUS11TmlfX1lpMkZGZG9iUUIycHpxVnFyVWIxa0ZGSTRNU3JsV3RJT1pBMjJ4Qnd3OUZ0b3M4Z2pBYm9KbEFadVg1bzNUa05XS3ZmeGxqOXowNDNhOXNESkZWS1Fy?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWxYejlTa1RfbnhlZnV3OXcxTktGZ1pSekhnM1l4dHpUM3ZvUW50U3YzbmdtQmVCRTdCWWgwb0RWeVNVR2NLdDhkZUJ5RFBxa3p0bXRUYTlNVUt1Z1Q2cldVLUpTS2lRRHk1WC1YdnhpWUJvNmZ0dUhsQ21ZU1pSMEtwelZ2bUNOVnlyQWU4Yk9UeTZfU2kxVzVHMjM3MDE5elhnQkF5cnRpaGVSTEtTNw?oc=5"
     },
     {
       "headline": "Clorox Reports Q4 and FY26 Results, Provides FY27 Outlook - PR Newswire",
       "source": "PR Newswire",
       "when": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb3oxRDhSV2pTZC1GZzdRT3VadjZLV3Q0X19ZcHpXb1B2SENEWXVnY1Nlck5pX1prUjRFS3NmRFhULTdtOHp0ZkxuUDhfb3JMM01jWHhnZ0ZvTUxjNkoydTZhVVFBYjYySzBjX05kUU5VS1RUWU5IYTJnaW1kLU0wbjhLU1V5OHV4NFQtLXZEcE0wUU1oMXV1d3FIWm9rcTd4NXlKaVBabDczVmpENUtsZk9R?oc=5"
+    },
+    {
+      "headline": "Assenagon Asset Management S.A. Has $2.85 Million Stake in The Clorox Company $CLX - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRzVGbDdEMWpEMGcxUE9mVmFvdUFiVnBVSG9xb3laeWo5bmI5TTJZcWE5azA2NlZ4aWRPenBCRzlDdmdPTTRNNFFwRXI2aUppYklkN05fVzBocjZ5b19WTVBhTVM0ei1YWHB3RExqa2lmNXZTVkZSZHNhcktDZkVGejZjMzhLUTFUSVFQc1NJb2JhcTlLeGRkVW5IUTBDRzBsSF91MTNBODdocUI0NXA0Z0VWa0xmemRaS3ZqbklTZXJGZnhFSU84cTFRWWFULXQ1dzc4Yw?oc=5"
     }
   ],
   "insight": "Tracking Clorox (CLX)."

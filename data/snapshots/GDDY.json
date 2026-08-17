@@ -1,13 +1,14 @@
 {
-  "builtAt": "2026-08-16T02:42:42.022Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:42:09.841Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    91.0999984741211,
     91.2699966430664,
     96.20999908447266,
     94.3499984741211,
     94.83999633789062,
+    92.31999969482422,
+    89.4000015258789,
     87.62000274658203,
     93.16000366210938,
     96.41000366210938,
@@ -21,13 +22,11 @@
     90.3499984741211,
     91.06999969482422,
     91.48999786376953,
-    90.73999786376953,
     91.81999969482422,
     100.5,
     94.91000366210938
   ],
   "6m": [
-    94.0199966430664,
     95.70999908447266,
     96.1500015258789,
     97.22000122070312,
@@ -142,6 +141,8 @@
     96.20999908447266,
     94.3499984741211,
     94.83999633789062,
+    92.31999969482422,
+    89.4000015258789,
     87.62000274658203,
     93.16000366210938,
     96.41000366210938,
@@ -155,7 +156,6 @@
     90.3499984741211,
     91.06999969482422,
     91.48999786376953,
-    90.73999786376953,
     91.81999969482422,
     100.5,
     94.91000366210938
@@ -393,6 +393,8 @@
     96.20999908447266,
     94.3499984741211,
     94.83999633789062,
+    92.31999969482422,
+    89.4000015258789,
     87.62000274658203,
     93.16000366210938,
     96.41000366210938,
@@ -406,7 +408,6 @@
     90.3499984741211,
     91.06999969482422,
     91.48999786376953,
-    90.73999786376953,
     91.81999969482422,
     100.5,
     94.91000366210938
@@ -415,12 +416,6 @@
   "oneYearReturn": -34.97533619043587,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "GoDaddy (GDDY) Following Its New Credit Line Is The Upside Story Still Intact - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV3ZFQ0F0LVoybWdUZkdEQXkyYk9QSlVqczVBMlVNTTNwZHNrNUVLNnhEMDl5aUx1V2ZrYUFVN1B0a00wZnM0MVVwQk1xMFlrdUk3WWhQQjdmMzdpcEhEaGhpaTZLRlphdHBKdXQ1SGkyVko4NW0yYk9zYmw1c1UySGlTUEdTOXFlWXpUdDFrQ2hmRVVxWFhnUlpvaFdtY2p6bUxTSHNyWFFlMC0weEZILUdqU3RFSGo3alNsY0t4WF85WjRNZjBr0gHHAUFVX3lxTFBXdkVDQXQtWjJtZ1RmR0RBeTJiT1BKVWpzNUEyVU1NM3Bkc2s1RUs2eEQwOXlpTHVXZmthQVU3UHRrTTBmczQxVXBCTXEwWWt1STdZaFBCN2YzN2lwSERoaGlpNktGWmF0cEp1dDVIaTJWSjg1bTJiT3NibDVzVTJIaVNQR1M5cWVZelR0MWtDaGZFVXFYWGdSWm9oV21janptTFNIc3JYUWUwLTB4RkgtR2pTdEVIajdqU2xjS3hYXzlaNE1mMGs?oc=5"
-    },
     {
       "headline": "GoDaddy Stock Jumps as Investors Reassess Strong Cash Flow and AI Traction - Quiver Quantitative",
       "source": "Quiver Quantitative",
@@ -432,6 +427,12 @@
       "source": "Barron's",
       "when": "2026-08-14",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObFV2RHNUYUlVRE1qanhUMUxHNFlXRmk5X0s2XzlGWk1SdzhEUHJjV2Y2Y3d4ejd4emU0Wm9yRFF0cncwN194Sm1uRkN1OC0zdFNYdGlUUGcyR3BhZmI3aHMtX2Q1aFRJNjF6QlZlNUJacGVHUnBrZGNRb0hvbVdxdzdsbWUyWlpsdXZCMVNsRUlMMXY0cU9NQmFaQ2drV2phM1djbnRWc2hUX09qVHdpeFNHc0gtejgzVWR4OGZyQlBGX2V4YmdKTg?oc=5"
+    },
+    {
+      "headline": "GoDaddy CAO Phontip Palitwanon sells $207,582 in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWh3VmdpaXhjWE8xaHdGemdKNjIyOHFBZ19SUDg4ajE1NVVmNGdNRXYzRHdkbzNVa3R4X0JsY1Q4Yk5vcXRCRjFtTDY3RDBmN2d5S1FKVUNUWDRkYmlWd3J2WVNKQzQ2UkZrNm42eVd6aEtYdzVCVWQ3bWdSdHc2VXpQN1FWZTQ2ZkxxWWlVM3F5aks4MUtiNGlzaFNLNl8tRnZJdmlPbE1nenNMSmpORDN6cmZMN09I?oc=5"
     }
   ],
   "insight": "Tracking GoDaddy (GDDY)."

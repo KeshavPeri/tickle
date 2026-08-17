@@ -1,20 +1,20 @@
 {
-  "builtAt": "2026-08-16T02:42:47.721Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:42:14.276Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    114.2300033569336,
-    114.87999725341797,
-    115.08999633789062,
     116.6500015258789,
     117.25,
     115.6500015258789,
+    117.38999938964844,
+    115.79000091552734,
     116.69000244140625,
     117.66999816894531,
     118.87000274658203,
     129.92999267578125,
     127.0999984741211,
     122.98999786376953,
+    119.5199966430664,
     118.43000030517578,
     120.5999984741211,
     119.80000305175781,
@@ -27,9 +27,6 @@
     120.16000366210938
   ],
   "6m": [
-    102.66999816894531,
-    100.91999816894531,
-    102.5999984741211,
     102.76000213623047,
     108.38999938964844,
     109.02999877929688,
@@ -143,12 +140,15 @@
     116.6500015258789,
     117.25,
     115.6500015258789,
+    117.38999938964844,
+    115.79000091552734,
     116.69000244140625,
     117.66999816894531,
     118.87000274658203,
     129.92999267578125,
     127.0999984741211,
     122.98999786376953,
+    119.5199966430664,
     118.43000030517578,
     120.5999984741211,
     119.80000305175781,
@@ -393,12 +393,15 @@
     116.6500015258789,
     117.25,
     115.6500015258789,
+    117.38999938964844,
+    115.79000091552734,
     116.69000244140625,
     117.66999816894531,
     118.87000274658203,
     129.92999267578125,
     127.0999984741211,
     122.98999786376953,
+    119.5199966430664,
     118.43000030517578,
     120.5999984741211,
     119.80000305175781,
@@ -415,22 +418,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "55,370 Shares in Incyte Corporation $INCY Bought by Summit Global Investments - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQXlSRzE5cldvby1NUFl0WnltM1E3bTZObjZaMTR0ajVhLTRkd2hrR19kbmFtQkkzcWtSblBDZWRRN1RvZ0F1WERURHVNdEtmUTdKVVZnaXNteEtQblZDS3hieHBCV3duejE2SjNZdkNJaHBhLWY5SGlTUUxfS0tNZjY0Tk1JRHpqT1QxX09BSDdVcFBuSzB4RDhuY3JPV3F4Tm5WODNiVWVIQktrSHo4Z1hzWmRHaW5leXUwVkVuSk9RUk1CVGtMZTVOSVRRNDg1Q1E?oc=5"
-    },
-    {
       "headline": "Incyte Sales Growth Drives Share Price Gains - Yahoo Finance UK",
       "source": "Yahoo Finance UK",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3UtVGkxV0JHMFdxbFc2NHlBSndKVjR2TDNvZXBJRFFXWk15WkdqSnV0cEF3US1UWUl4bHJ5U21uYjRueVItREw1OWpuNFV5ME9pM2llcDY4Y3B5U2N5Uml4amNIaU9TNVhEWnBrTm9pVm5TeVotdmI1Uk5HY2VTZzBCV3dPSGRG?oc=5"
     },
     {
-      "headline": "How Regeneron Pharmaceuticals Went From Cheaper Than Incyte To The Pricier Stock - Trefis",
-      "source": "Trefis",
+      "headline": "How Regeneron Pharmaceuticals Went From Cheaper Than Incyte To The Pricier Stock - trefis.com",
+      "source": "trefis.com",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUDdLbTI4UzUxc1BKUkl2STNTMi1Sd2RGYkxmVWgtOXlUb29FNkIwcG9qRWN6c1drcGEyM2RVWEh1V3p0WHc0SkVieTdEcldKcjNQOUdfeFk4cDdYYndtRjVpMkczRGl6YnRNVzczaWFOZy1JUmRzZmRvdjRTbHVDRmJ1YktZN2liSm9PNWtMeXRwanV5NF90LXVNekFCSDhramZiXzNjT2ZOOUc5ejFsd1NGRnBpbzBBNVFaMnJnc3JLbG5MNEIzRDNfa0NMN280Xy0waDhYbFc?oc=5"
+    },
+    {
+      "headline": "Incyte Corp (INCY) R&D chief sells 10,803 shares under Rule 10b5-1 plan - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1keTJOblRpeUlTbER0dkFQRmJPQ3BBZ2IyVWoyYnNyU3hKNzVwZHV4OGVkSEdaR25CSUtqcDFGdFlKTDhFVWloNmRoWG5BM3lNRDA1anJHenFQOUFRelFhNHRYUnFvLU5Xdjl5b1BQUnlBQ2tOYXBNWlNYRE40VkRaZ2VYbWloNTNZRjhzc1NhT1VRdTFZcFFkQ1ZqN2dmckUwbnV3MHI?oc=5"
     }
   ],
   "insight": "Tracking Incyte (INCY)."

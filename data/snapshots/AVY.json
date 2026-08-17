@@ -1,20 +1,20 @@
 {
-  "builtAt": "2026-08-16T02:42:22.323Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:41:54.140Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    159.24000549316406,
-    157.16000366210938,
-    156.7899932861328,
     163.05999755859375,
     160.41000366210938,
     158.36000061035156,
+    155.75,
+    157.67999267578125,
     155.1999969482422,
     160.89999389648438,
     163.02999877929688,
     169.1300048828125,
     167.13999938964844,
     174.82000732421875,
+    169.72999572753906,
     172.27000427246094,
     173.3000030517578,
     175.5800018310547,
@@ -27,9 +27,6 @@
     178.92999267578125
   ],
   "6m": [
-    187.08999633789062,
-    186.82000732421875,
-    193.1300048828125,
     192.8800048828125,
     191.50999450683594,
     189.4600067138672,
@@ -143,12 +140,15 @@
     163.05999755859375,
     160.41000366210938,
     158.36000061035156,
+    155.75,
+    157.67999267578125,
     155.1999969482422,
     160.89999389648438,
     163.02999877929688,
     169.1300048828125,
     167.13999938964844,
     174.82000732421875,
+    169.72999572753906,
     172.27000427246094,
     173.3000030517578,
     175.5800018310547,
@@ -393,12 +393,15 @@
     163.05999755859375,
     160.41000366210938,
     158.36000061035156,
+    155.75,
+    157.67999267578125,
     155.1999969482422,
     160.89999389648438,
     163.02999877929688,
     169.1300048828125,
     167.13999938964844,
     174.82000732421875,
+    169.72999572753906,
     172.27000427246094,
     173.3000030517578,
     175.5800018310547,
@@ -415,20 +418,20 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Is the Options Market Predicting a Spike in Avery Dennison Stock? - Yahoo Finance",
+      "headline": "Is Avery Dennison (AVY) a Solid Growth Stock? 3 Reasons to Think \"Yes\" - Yahoo Finance",
       "source": "Yahoo Finance",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2tzUFZid0VCWXU2RUozckRQSzUyLVd5bWxLMUhpMzdhclQ5eV90c3VjSUtCMnBEdEV2MlM5SEdlSEJDOVc0b18yREZxTHhPdXlaXzZxV2RlbFgtSjF4MVl1RllHRGhGOVBYVk83elVfRXYtTDB4djNxTG5STmF5aEdtYVE4b0ZRMENuZk04MlNLLXkyQ0hDVmdLZmU?oc=5"
+    },
+    {
+      "headline": "BofA raises Avery Dennison stock price target on valuation - Investing.com",
+      "source": "Investing.com",
       "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMlFySGlBSzg3SW1UTlVYbU1ZSEZZY1hqNEZsN1M4SE5OOUpHWERpRnh4bHNaOG1Cd1Q1NTROZk4xQXJ5dUVDcDFWYS1jN0IxWnYxbUVNYWlCNXI2NDIxdjI2WlZLRHo5emhTQ0d0eUgwT1k4QzBmeWU4RUVHeTlscjdEdXdnQVVSdHduOXdub0pzblAwSTQzbmltUTJUOFUzRXJVQjdB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMy1QNTNZRUJhTU94SFFVekhhZzBBR0ZoR1RLSU9EZUtFenNpRWQ5VlVQaHMwVmpSVjRGc2FjMW9fZzB6akhlQ3pKVVRzQXpON0loa051Vm5MUWwweXVSZjBmUklER0R4ZHV2dzI5bG5rblhxR29XVExmUmNFYW9ORzZZQnV0a1pOQklRNWs4aS1pTXpjeFNldzVydEhlUWhTU09xS3c2Mk5ma2VfeHEteVZyRTU2cXNGaUE?oc=5"
     },
     {
-      "headline": "Surging AVY Call Options and Upgraded EPS Outlook Could Be A Game Changer For Avery Dennison (AVY) - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVVBfdU5EODNUY2tqZTVzWjMxNy1PYTNaazc0ak9FNHZXaGpRVENJM1FWZzJyVV9pOVNDS3BuamdoNWEza0JjYlZiUHhWZHpFXzVDYjNPcXVfN1ZWT3hiSVVEbUl4NktzMlR1MmFzRGhGQnNVQlZKeHlzNXh5V2xmUUVLUXhFNTVOd0VJanN6UE9mdlcyRndQN3RmczhmUHVwYVhIR3dwN3ZEVjNrRDJQZy1qd05NOTFoTmRlNXVwNDJ4WEgya0tDSFNIMVJ3MVpB0gHQAUFVX3lxTFBVUF91TkQ4M1Rja2plNXNaMzE3LU9hM1prNzRqT0U0dldoalFUQ0kzUVZnMnJVX2k5U0NLcG5qZ2g1YTNrQmNiVmJQeFZkekVfNUNiM09xdV83VlZPeGJJVURtSXg2S3MyVHUyYXNEaEZCc1VCVkp4eXM1eHlXbGZRRUtReEU1NU53RUlqc3pQT2Z2VzJGd1A3dGZzOGZQdXBhWEhHd3A3dkRWM2tEMlBnLWp3Tk05MWhOZGU1dXA0MnhYSDJrS0NIU0gxUncxWkE?oc=5"
-    },
-    {
-      "headline": "Executive Sells Nearly $300,000 Worth of Avery Dennison Stock - The Motley Fool",
-      "source": "The Motley Fool",
+      "headline": "Executive Sells Nearly $300,000 Worth of Avery Dennison Stock - fool.com",
+      "source": "fool.com",
       "when": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHBPNGd2QWs5LVdIWjJ2SlNNcXZ1VXh1Y2ZpbXF6cTlYS0ZlRUdabG1GUEV0blBKSU8zSTE5a1pNVGxDMFBteVFTWkxwNDFTM3I2ZlVKcVVWS1FZbWh5dWd1UGo4azdPN09YeUJzMXI2M0h5QWNqUXI1Tl84U0RGbENHNWw0OE9DMkozX0lTU002VHlYU3NBQy04U1hjb1pEc2J6SHRjbDB6NkZMQ1N0ZFhEOA?oc=5"
     }

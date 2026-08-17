@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-16T02:42:18.636Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:41:51.225Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    79,
-    76.77999877929688,
     78.02999877929688,
     80.5,
     79.80000305175781,
+    80.23999786376953,
+    78.25,
     78.16000366210938,
     79.05999755859375,
     79.16000366210938,
@@ -27,8 +27,6 @@
     76.63999938964844
   ],
   "6m": [
-    74.12999725341797,
-    76.37000274658203,
     75.95999908447266,
     76.72000122070312,
     74.9000015258789,
@@ -142,6 +140,8 @@
     78.02999877929688,
     80.5,
     79.80000305175781,
+    80.23999786376953,
+    78.25,
     78.16000366210938,
     79.05999755859375,
     79.16000366210938,
@@ -393,6 +393,8 @@
     78.02999877929688,
     80.5,
     79.80000305175781,
+    80.23999786376953,
+    78.25,
     78.16000366210938,
     79.05999755859375,
     79.16000366210938,
@@ -416,22 +418,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "AIG (AIG) Stock Looks Reasonable On Earnings But Weaker On Value - simplywall.st",
+      "headline": "The Bull Case For American International Group (AIG) Could Change Following New Parametric Cloud Outage Cover - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR3dhLURuNzBRZURtamJnYmExenNRdU44ZHFOZWg5Wng5NS13dDdnZ0p5NHVDV0oyQWdBREZlNkVPbmREbDlHTWhnWUNHNEQySmUwcEJkeTNyc0ItMldpendSWkt3WDB4clpqaXlOUm0wb0JnaFdXS1kwbnpybV9hVUI4SkxIS0Q0QnRGZzNRSjZnMUYwcGVtWlZHbm5OSWphZnJKcThjUi15d0FvSzdNYm5QNHNEZnY0TnlIM0l6cURaYlBtVzVzdEQwM25rUG94bDNiWUtxWnlwQmtScTJtSVl3RdIB4wFBVV95cUxNR3dhLURuNzBRZURtamJnYmExenNRdU44ZHFOZWg5Wng5NS13dDdnZ0p5NHVDV0oyQWdBREZlNkVPbmREbDlHTWhnWUNHNEQySmUwcEJkeTNyc0ItMldpendSWkt3WDB4clpqaXlOUm0wb0JnaFdXS1kwbnpybV9hVUI4SkxIS0Q0QnRGZzNRSjZnMUYwcGVtWlZHbm5OSWphZnJKcThjUi15d0FvSzdNYm5QNHNEZnY0TnlIM0l6cURaYlBtVzVzdEQwM25rUG94bDNiWUtxWnlwQmtScTJtSVl3RQ?oc=5"
-    },
-    {
-      "headline": "American International Group (NYSE:AIG) Insider Peter Zaffino Sells 36,829 Shares - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZHRnTmlkNkt2ZEZuMVRvWW1xZnV4U1hmWTZYU0l6Q080anZLa2gxMnc2NmdRa1BxbU4xeEc3eTA1cXFjdTBVMllnNWkxcVA4SFBqTVhWdnMtU1VEdEVYZzZuS0NTdXZSY1pkc1ZlQ1E0TGxaVDViTDE3dlZjX3hhYXpwNHE5bmpvRTJRMGxVT0pwZ0pBX3ZYZjZGdC1TODZTYUdqTkNFdU12Qkt5NVdFaVFJWDBjbE8wbkNKeTNSc0lDUzhWWGFLVTQxYw?oc=5"
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaDhJT1I0YmsxUERVbDMwdzNrWVQtQm1EZnVlWi1PU1BxTUFoWnI5NEZtOU5QU1BZS2VHWnFfbkczdF9fcExUWWdFYkRQV1pPc2pGTVVtRnpMaTBjOHZtdHBQZUxKSXJ4U1ZQc2tFekhhcVBlMEd1czNRZXdSMXlrWkFKYXlIMzFrcFFGRGI2SnNqVDJhNUF0eWw0STljUHFuRG0zVU43bEFMcTlRd0pZLWlXci1HNmY3eHhTWUpoTGNPTUZlblJYeEhYN05jdjhSTXNSbTBlZnp4ZVZfNHfSAeMBQVVfeXFMUHMyMmd5TWl0ZmlSZjRyYW1ZbWdreU5wcWxZSEVkamlPSlBjNDdVcXljZVBOR2NkcUhnLUZVcnYzcFZCRU9rWW5XQlVfZG9fcTJacmFNNzVXTmhKc3JoNVR1OUZHQVdUc0xnMnpXRUVldFBsRVZLN0tQdE5STnphakVBSW5ycFNFWWJkcnZxejZXeXk3cFdVTktPSUNudWNFejlTSWpRdk9MZFhVdE9ZZTlqbVY5YXZSN194ZFNWSkozd3Y3VjE0UHVPSFVNa2tPZWlUdDBweU9jNUtzM045cWN1dFU?oc=5"
     },
     {
       "headline": "American International Group Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRWIyMVRHQmRKRXRCQmdhVlVDbU1na0diWVYxUXhhbGZ4S0tCUXcwdlh1RlpxblI1WmpxYm9rSUpGRUhmS2w2NE9DMlVVaV9ELV9iYUZhamoxX3ZSNkVVQy00eE5EVW8wSmFSQXNUOXdrOGtLa1NSTzhfNFZOZHB1bWI4ZmJnRVBISWVWZmx1R0RTTEYtRDhPTEpQLS1Na1VPTE1FRTRiSmJrM2RVcGozLTBabFhXVnhnbm9UVEgxX3dfc0FvZ21aN1V4bDhTUl9xZU1pUjFxSS1Od1VmUkxnWmNVMkNYeGhYQUMyMVY3dU1pdXpCYUZpSUJuemViQQ?oc=5"
+    },
+    {
+      "headline": "American International Group (AIG) Could Be a Great Choice - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV1FDM1QtMVJrVlZPY0ZhTHlPUHFVc0l0MUEtTFRDd1E0UnkxMDJVanV2LWdNaUdCcDVWZkx5ek9lSGpDTVQ0bTlMY25UU242RFpZdkpqZFV0SHBucTJwMjhYRDdIVmtkUEk4MTZYZ29VWlZTLTAtUldwcC1zN1hKa0NUUUhwWEVXYkkyNzZuZmZsOWZPLWREVGdTZGhNX0M1V04wLXpR?oc=5"
     }
   ],
   "insight": "Tracking American International Group (AIG)."

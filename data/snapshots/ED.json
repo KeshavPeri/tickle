@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-16T02:42:36.214Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:42:05.091Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    111.95999908447266,
-    110.30999755859375,
     112.38999938964844,
     112.37000274658203,
     111.05000305175781,
+    109.80999755859375,
+    112.08999633789062,
     112.79000091552734,
     113.01000213623047,
     111.5,
@@ -27,8 +27,6 @@
     108.80000305175781
   ],
   "6m": [
-    107.44999694824219,
-    108.37999725341797,
     108.87000274658203,
     107.33999633789062,
     106.68000030517578,
@@ -142,6 +140,8 @@
     112.38999938964844,
     112.37000274658203,
     111.05000305175781,
+    109.80999755859375,
+    112.08999633789062,
     112.79000091552734,
     113.01000213623047,
     111.5,
@@ -393,6 +393,8 @@
     112.38999938964844,
     112.37000274658203,
     111.05000305175781,
+    109.80999755859375,
+    112.08999633789062,
     112.79000091552734,
     113.01000213623047,
     111.5,
@@ -416,22 +418,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "SWS Partners Takes Position in Consolidated Edison Inc $ED - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2hGbGlhU3loNE8xVjc1Y2NQeGdvVldpVkFsMlgwUGhMQWcwTHNhRE9MSENfdmhsbGtFaDB1VzdDalRvTmtUVFFzQXQ5N1lPaGRqSmxiUEswYWZObU1FZmVQa2szdFdUV1c3VHBiYl9pekRhbjBlbjlZQ1pxQ1hpZHljOTJ5dDJ3b0NnNUJaeWd5cmxFck94UklfU0YzR2VuLTRiQUZ6WDJlazA0VW1NVmtuVkdjSF9ZbUE?oc=5"
-    },
-    {
-      "headline": "Do Wall Street Analysts Like Consolidated Edison Stock? - barchart.com",
-      "source": "barchart.com",
+      "headline": "Do Wall Street Analysts Like Consolidated Edison Stock? - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORzZzNFBqT2twUnBRejVvdG9CdHdSUjhDOERQN2pRaXgxb1NQVThMY2tzYVZ0UXZhcHZES3pNN2JwLXhEdHFEckVZLXE1UnczWnk3VEs4aGhqSWc5eUtaaWNRdjF0a2I5TkFZZ2xXWWR3UVhtNjkwS1pCTmtLOHpnSnY3SkcyRF9qSjZvOXJuVHpTNlcxbm53a2hrSmtDeWs?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGpZbkFlVEtSeXIxRU9TZGFzTEdrV01LM2l1WEE0MGJmMTZzQmNVeHRuOUlXUG5zU25SS01wcXFpTzFnM3dEdXpkTURwZ2daVlRXb0dQem1lTmtkVHBUenhpYWVJZXFiQ0o5cGtNVjNuRjBRYkhqcWtXd0Y5T1QyMWFkTnlwTlhmenlVX2daSjllZzlpRjdyeVFPWnN3enlYejBqT2xJdmg?oc=5"
     },
     {
       "headline": "Consolidated Edison Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUzBkeGIwN0pVVjFMZVhxWmUwR1FtWDhCVmlVUFlfSjJzM1gtZVppWWwzdTlsMGNKMTBjTngzeW1TUkxPUzlOX2xtZW1WbG5lMi1Gc3FKUWcwbTVKUEttVFREdm0xYkZNWDVzSjQyY1J4N1BVRFBZZXdJSmtkSURfZDNMcHBpYjNxTHF0Slc5Y2wzR0J2aDJhZ1BFYmVSLXIxclVONzFNNC1TN2JvcjRaRzFIeDlJc1ZJQ04wV192LTBXQkd2UERucVM0NjFIMEMxcEFkclY1Y1I2X3dQM1FUSmUySGx0UGk1S3MwR083Zndadw?oc=5"
+    },
+    {
+      "headline": "Assenagon Asset Management S.A. Sells 112,991 Shares of Consolidated Edison Inc $ED - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNODBWYmhMQ25DaTVGX1g1RDRDSy1jUWZ4Y2xsT3E1SnpKRmY0cG94RlkyWDNnYzhlV0Y0aFFmb05wRnlDU2daU1RxY0Rub3ZyaGZpYzdEN3I3a20wQ2N0S050Wm5pYi1OY19hVVY3aFE5RHhiVzl6aF9HZWpmYU5SMmtFZ0J6TjhHN3o2WXBEeHowamFaM2JYMFVRWnFCa3dPRFlNYlh6ejd3WUJfMnI4bVBOT1BGNTJDTHNadEJmaVdqcncwSnZRNTlUZmMzQzNncmlDX3hMcw?oc=5"
     }
   ],
   "insight": "Tracking Consolidated Edison (ED)."

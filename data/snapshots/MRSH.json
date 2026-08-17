@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-16T02:42:54.166Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:42:19.385Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    176.22000122070312,
     182.14999389648438,
     182.17999267578125,
     182.10000610351562,
     181.58999633789062,
+    175.99000549316406,
     176.39999389648438,
     180.74000549316406,
     183.30999755859375,
@@ -27,7 +27,6 @@
     187.82000732421875
   ],
   "6m": [
-    189.75,
     187.50999450683594,
     185.02999877929688,
     171.13999938964844,
@@ -142,6 +141,7 @@
     182.17999267578125,
     182.10000610351562,
     181.58999633789062,
+    175.99000549316406,
     176.39999389648438,
     180.74000549316406,
     183.30999755859375,
@@ -394,6 +394,7 @@
     182.17999267578125,
     182.10000610351562,
     181.58999633789062,
+    175.99000549316406,
     176.39999389648438,
     180.74000549316406,
     183.30999755859375,
@@ -417,22 +418,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "7,633 Shares in Marsh & McLennan Companies, Inc. $MRSH Acquired by Bryn Mawr Trust Advisors LLC - MarketBeat",
+      "headline": "Focus Partners Advisor Solutions LLC Buys New Position in Marsh & McLennan Companies, Inc. $MRSH - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaHJTakRwRjd0X2tfSUJvaDUwcXpBdnJ0OFg0eXpOd1RTS2pHY1Q3N1FTRW1aRE9jTmJxcnlrQnY3b1FzdW96UHhoU1hUUGNqaU4xWlN6TlZNRzNleWtOUV9ycUs4MUNFdURmRVJlUjB0bTl4Uk1mdGZycTd2cmZadTczTGlJcHhCaEUySElLUnhYTEcxNC1XVGRFWWt5aXdJMzNhejY1STg0OEhCaXJhRUpFVTlsaFgtTGtHV2NDZWU5amgwMXZQbEZadEVXMjQ1Q0JaOGFURWJoZllMTmlEcGczWUg?oc=5"
-    },
-    {
-      "headline": "Accel's 130 Employees Expected to Join MMA Across 7 Offices - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDN6eUVmSWJSOEpnRkFzR1JZWjZGYThzV0NhaFM2ay1ubERhajQzVTV5UWh1WWRnSWpxbnpxVk5mSFpmcEM1OEludl83WjdHLUNYamVITGZyQ0FkcXpQUy1oZUFraGNiTGFOcjVvUTdNd2huT0l3YUtZazlQWU9DQXhEczJxbE1WMl9VQ3NHZW1CeGs1Y2JWejB4UDdDcExldEpsNQ?oc=5"
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUXo0Y3FwSFo0RXo2bGRfaWxJQkRRQ3hoc0ZFTk5ld1dSLWtOQXhrLVRCY1IzUnpLWlBkOV9OX2Y0cTlhS3duREx6SUt2TzRXOFZBbk44TTAwbGRGdWJZblNXbGF1ZnBMS2JrZ3MtZUEyYmJCS0g5dnpJejNCTk5hNzFMX3BVNnhReVFNaVd5NEstdm13RGVZR2N3cUNqLXBSOEVVVVJSWkZ5WEZGV1VyMkpuNXVPQ3EwbW83VVlXaFBVNnc2eGJ5clVMa2pTRVRJTkFXQm5xcnRVOFlxWFdBMzJUNGloVW8?oc=5"
     },
     {
       "headline": "Marsh McLennan (MRSH) Stock Looks Fully Priced As Q2 Earnings Near - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-04",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSjBKb1lPM3gtNGFiTVFpX25ISDN4WGVGa2VwM3RKQTFfd0JRYjd0elctUnBVUGVETUc3eXRiNnVPWEpURHMzckY1UXpHVWlKUXBWOEhGRVRSM3FIZV9NMjFORFk3RTE5YU52ZWQ4NExub1kwZWV0dzQ3Q1lieXVxS3BIVHpBQm9Ka3kwU3pzYTVOOVhycmdoTHc0RFY?oc=5"
+    },
+    {
+      "headline": "Accel's 130 Employees Expected to Join MMA Across 7 Offices - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDN6eUVmSWJSOEpnRkFzR1JZWjZGYThzV0NhaFM2ay1ubERhajQzVTV5UWh1WWRnSWpxbnpxVk5mSFpmcEM1OEludl83WjdHLUNYamVITGZyQ0FkcXpQUy1oZUFraGNiTGFOcjVvUTdNd2huT0l3YUtZazlQWU9DQXhEczJxbE1WMl9VQ3NHZW1CeGs1Y2JWejB4UDdDcExldEpsNQ?oc=5"
     }
   ],
   "insight": "Tracking Marsh McLennan (MRSH)."

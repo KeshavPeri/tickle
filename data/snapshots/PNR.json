@@ -1,20 +1,20 @@
 {
-  "builtAt": "2026-08-16T02:42:58.405Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:42:23.168Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    76.52999877929688,
-    75.68000030517578,
-    64.33000183105469,
     65.69000244140625,
     62.45000076293945,
     62.119998931884766,
+    61.47999954223633,
+    63.02000045776367,
     62.06999969482422,
     62.880001068115234,
     63.18000030517578,
     66.7699966430664,
     66.58999633789062,
     66.16999816894531,
+    65.44000244140625,
     67.06999969482422,
     68.4800033569336,
     69.0199966430664,
@@ -27,9 +27,6 @@
     66.16000366210938
   ],
   "6m": [
-    105.51000213623047,
-    94.79000091552734,
-    97.27999877929688,
     94.97000122070312,
     97.3499984741211,
     97.5199966430664,
@@ -143,12 +140,15 @@
     65.69000244140625,
     62.45000076293945,
     62.119998931884766,
+    61.47999954223633,
+    63.02000045776367,
     62.06999969482422,
     62.880001068115234,
     63.18000030517578,
     66.7699966430664,
     66.58999633789062,
     66.16999816894531,
+    65.44000244140625,
     67.06999969482422,
     68.4800033569336,
     69.0199966430664,
@@ -393,12 +393,15 @@
     65.69000244140625,
     62.45000076293945,
     62.119998931884766,
+    61.47999954223633,
+    63.02000045776367,
     62.06999969482422,
     62.880001068115234,
     63.18000030517578,
     66.7699966430664,
     66.58999633789062,
     66.16999816894531,
+    65.44000244140625,
     67.06999969482422,
     68.4800033569336,
     69.0199966430664,
@@ -415,10 +418,10 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in Pentair plc of Class Action Lawsuit and Upcoming Deadlines – PNR - FinancialContent",
-      "source": "FinancialContent",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeUV0eloyaU51RWRVZG5YYUhUOUpCMk1YRkVPblYwRkYxQ1FycGlsSGpKcmw1ZXVkOXdMQXQtVUxCdVVGSTZVX21iLVJxenBkbTI2OVRNb3Z0MDlPVGxUWHRCVjRhN1dUNzV3dnczem5tZklqLU5RZy01N2Z0Y3lvR09QdjZUTzRfWF9iTE80MlZJMjdMNmwxeU1hOFp6eURDVXVyNFNRRlZja0xEMTI5Tlg0RTZjRlJjbE1Sc2VoSFV3R2hUMDNBb2gxWnV4R2VYTnh4Z3JBNUU0OG5fczh6WHlIZ3E1bnZESjFCYjlQb1Q0U25nNnpNRnRnWmFxdXhXQllvcGFzdEFOc2hWOTZTSng4Q1R0ak1Sbm4yVlRiWGltblhHYnRKMzhib1dqM3MzXzNDZFdNUUY4QmxkeUE?oc=5"
+      "headline": "EXPANDED CLASS PERIOD - Law Offices of Frank R. Cruz Encourages Pentair plc (PNR) Shareholders To Inquire About Securities Fraud Class Action - businesswire.com",
+      "source": "businesswire.com",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPSmJWa09MbzhpTGRKN2JfaExKYlVoS2RWWUVweC10ZWZ6TkJLNnJlNjZkZ3c4cjR0MjdpUXdzLTBnbVJIM01vaUVqYlRvWFhaMnB1OEJmb2tIUkdRYU5XdmVGdlYzbC05LTRDQUt4Sk5VakdIUDVkR01yUkhUbTNHSHBwR010QkZyd1Zac25QWW9wbkpScV9XcE45eGlET0pYcS1KdUNXVGstSElxTHBaSnRnZm4tSnVMVHVKZ0VCTTlNNFhNNTlSVTJBRklTM01nVmdVMUpkTzdteUZadkJwWm40bE50VnJkaHZzTVdNd25leXE5RVAwRmQwY21maGlWTFYzWUNwODd6SkdqNlVvd2ktZmp2eXd4bm1UNFNxVHROUQ?oc=5"
     },
     {
       "headline": "PNR Investor Announcement: Pentair Sued on behalf of Investors to Recover Losses after Pool Inventory Issues Lead to 15% Stock Drop - PR Newswire",
@@ -427,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOT3hOai1Ncm5Na3FnSTAzVnJwNzZ5aFB0TEl4ZWVaMGszZlA3TWZhRUdIVUNFVU5wVXU3bnhMSy14YlJmLVBRcE5TWmFSY3k1Q1ItZjJQSFdNTVFIR1hvN2JsNzhReEVvOUQyYktwZEdQUC1RNENqeWY1cW5yeTJFSkdGMXJFU1FVeFRMSnEtNFI1a2tQRzJreG1Cc0NwbktFTFFYbXJYdk1pLWk3aVdPb20zX2gySHAwLUVpUjBRUmJ3S2lPSThYR0pYMUxMT1M5N3NTQTZsYlJQbUFNcFVFcE1QTnVOdU4zRWg4VEdNdWk0MUhPR3BpVksxU3FET1VNT3NsY3VxYUE3WEJqdE5FY0dIUQ?oc=5"
     },
     {
-      "headline": "EXPANDED CLASS PERIOD - Law Offices of Frank R. Cruz Encourages Pentair plc (PNR) Shareholders To Inquire About Securities Fraud Class Action - Business Wire",
-      "source": "Business Wire",
+      "headline": "Pentair PLC stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPSmJWa09MbzhpTGRKN2JfaExKYlVoS2RWWUVweC10ZWZ6TkJLNnJlNjZkZ3c4cjR0MjdpUXdzLTBnbVJIM01vaUVqYlRvWFhaMnB1OEJmb2tIUkdRYU5XdmVGdlYzbC05LTRDQUt4Sk5VakdIUDVkR01yUkhUbTNHSHBwR010QkZyd1Zac25QWW9wbkpScV9XcE45eGlET0pYcS1KdUNXVGstSElxTHBaSnRnZm4tSnVMVHVKZ0VCTTlNNFhNNTlSVTJBRklTM01nVmdVMUpkTzdteUZadkJwWm40bE50VnJkaHZzTVdNd25leXE5RVAwRmQwY21maGlWTFYzWUNwODd6SkdqNlVvd2ktZmp2eXd4bm1UNFNxVHROUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZk5YNVRjWWRvRVI5NWkwUGprWjQ3N1IzOEtWVDBCSkszcTdfMnBqTE16NHNOY2NfLVNpQmYxQkVtbWd0Y1prcmtJQmwtS1JuazZRbkFLM3JzeWhJaUZZZW1xWVA4RHo0emZrdTFtWjhXX2Q2ZHJWQWdyajhCdzUtb2czQXNGak9FQmlvOTNjNG9LaVpBaElGdThIYlFGa0ZyWm9XWGplcTI2LTJ4T0dZNEZyRWNZbmRIZ3VESnBWVnF6bUlqQVE?oc=5"
     }
   ],
   "insight": "Tracking Pentair (PNR)."

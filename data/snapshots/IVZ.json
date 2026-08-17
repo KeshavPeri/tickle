@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-16T02:42:48.911Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:42:15.475Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    28.729999542236328,
-    30.299999237060547,
     30.299999237060547,
     29.6299991607666,
     29.65999984741211,
+    30.100000381469727,
+    30.5,
     29.799999237060547,
     29.93000030517578,
     30.110000610351562,
@@ -27,8 +27,6 @@
     32.54999923706055
   ],
   "6m": [
-    26.530000686645508,
-    26.84000015258789,
     25.770000457763672,
     26.81999969482422,
     26.889999389648438,
@@ -142,6 +140,8 @@
     30.299999237060547,
     29.6299991607666,
     29.65999984741211,
+    30.100000381469727,
+    30.5,
     29.799999237060547,
     29.93000030517578,
     30.110000610351562,
@@ -393,6 +393,8 @@
     30.299999237060547,
     29.6299991607666,
     29.65999984741211,
+    30.100000381469727,
+    30.5,
     29.799999237060547,
     29.93000030517578,
     30.110000610351562,
@@ -416,22 +418,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Invesco (IVZ) Stock Still Looks Below Fair Value Despite 133% Run - simplywall.st",
+      "headline": "Invesco (IVZ) Expands Real Estate Credit, Is The Upside Already Priced In? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWk5jdjAwWHQwMWdUYUxEbWFxSXR3TzlHUEhOMTFrbzVJRzhhZG4yZUVncGdxSzRXS09GbFlUYjlJUUNZWFc2X0Q3T2E1WlZ4Z0xhUDBYVVBxV1l2X0tlVTFxMVhNYWljcVJLWndLdTlzc2Faa2J6cERHdGVZUWI0ZUM3ZE9kbE5zeC1qR000RDUxdDBiUU5OR1BjcDZDLVQtWVNoR0hxU0dDSW5kdmtXcmRQSnFLUzZISTY5NGljZzgzOVFfRjQ1U3NkeEZwOGpGdTJn0gHYAUFVX3lxTE52eGFJVVlQMURrZ1VZN2VEcm1ZdnNoN0pzVUdTM0szODRpRVVVMGhLczlBZ0ZBTjRnVElTNl9HRmxHdlY1a3Q3bjd1LU9BUndNRGpzTXRsd1dGZEpZam5YWGdaWWhJUFYtRkpHc09WU1Z6VGZSMW1iRXVfTEtMVXJONUhrV1dtUl9WNElBNmFGelJPRlJnWUk0Uk13QlVaT1A1WWVDZFhERWgtdHpzZFhfZEFiSDNKTVJNR1RIQkt6ZW1QVkp6RGtkb2p0Vm5ZSXFqMWxDT0lGcA?oc=5"
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUEpDS3JZbWJIS2ZNd2ZSUXplSG9OajNFenpiN2JQRHdsT1VlcHpFbHZ1ejVuTzNBSzh4cmVDVWFJOE5YbC14eWs4clptZHJ5RDBmeHNMNk5EcUtRLWJlbTZ4VXJVN0ZZejNadFo1X1dxU0d0UjFhQ1o2OEp4LWdvSGhXSEpra1h2dldyZHJwcHgtOWt0ZXhFaTVYYkh4NXNMNHpUS1BIMlVlRUhMZVY5U1k1WlJpb3R2Y1BmaG1keGNfVXRjT2Mzb0FhMFR2YnVhbmZJ0gHYAUFVX3lxTE8xc1hpTmdxZjYycGFIbzBhTFlrN25FVW5ENzJUc1hGMThiVkE1ZUpQOVd0UTVIc1VzSnNyQTZrMnFYUEVDekFyUGhneXRKb2tzWk9oLV9mM2FYMTF3eGtoUjdaVU91dG5RZW5YMGc3RHBWZzJDRjdfc0MxSks0Nmd6WVA3SWw1eHJlelJ6UVRPNkpiT2RzdldPNlZUUmR1UnE3NGM1VGRIcjNrR25BZDFYVDdhUjVfbHkyYzNIc3JwTHhkVTFQcC00UkdGMzFDNk5uQm5fXzFDVA?oc=5"
     },
     {
-      "headline": "Novem Group Raises Stock Holdings in Invesco QQQ $QQQ - MarketBeat",
+      "headline": "Invesco (IVZ) Stock Price, News & Analysis $IVZ - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFRydHBnamNfVXNQcWVKT2d2UHlBaTBOU01UNTdRM1Mwd0owcVkyaGhDeERZMDB3RV9ZR0kwY29vZVZKTTQtQnFOd252clZGU05BWkIyNXhibnlOZjh3NlJxU2xPZk1OWmJCclVXYWlzWFpFOFFiWTk1TEFROVRVTVVqRVhhX29EaGNtNHJqdFlzbHJlOE1kczBBX2xXeXhfTmxONXRrUVo0Z3AzRjFMSXpmUQ?oc=5"
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNFZMWnhsdEVDb2VJWFJiOGtrRmxneFUyZHJQTEFyX0NvdURTZExDUUdlV3NiNjlKYmJkWjQ3bTZjeUNzU00tZ2Q1VXRsWUVEVEk2M2FR?oc=5"
     },
     {
-      "headline": "Invesco stock hits 52-week high at 32.56 USD - Investing.com",
-      "source": "Investing.com",
+      "headline": "INVESCO Ltd. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejEzZVNDcm5ScUluSW9mempTSjR4YW5CYTlVemVOcklBRXJJeDZPYVVMWkN2WXYxRk1fU3BCdGhUUzkwTG14a1FQLXZzb3l4a29nR1Z3V0lkbVNLbll4Nm5iaW5VelRibGFLR2FyTDNtM0ZlU3dlcEFudENQQUJ3S2ZoTExjWEIwRFRrdVU0c3k3NHJsSE5rYjR4dUlpWXhk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVUlJZTl6SUVhc2RUVXo2dlN2ZTdONmYtZHB5d29obVNSRjFmZGxoanp5OWluM3RFUU1Md1VzdjV3aGM0dlpYeXpGVTAwcEhoOVF3UjBXZDdwbmJ1WDBTVkJqWHFuQkRCZ21HNnNtQV9hV01EZjVYTDVnVThraE8zaTRvSHE3RHNxc2RWazBjejhYMkJ4T3dRbEFWVHZ2QW0wbnlSOFlOR3BoMERzS05PRWRRRVRRcGNONFBtUUVCakw?oc=5"
     }
   ],
   "insight": "Tracking Invesco (IVZ)."

@@ -1,20 +1,20 @@
 {
-  "builtAt": "2026-08-16T02:42:22.827Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:41:54.517Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    3078.97998046875,
-    3032.070068359375,
-    2970.570068359375,
     3062.159912109375,
     3046.43994140625,
     2994.1298828125,
+    3013.030029296875,
+    2972.449951171875,
     2923.5,
     2957.409912109375,
     3075.260009765625,
     3118.800048828125,
     3142.169921875,
     3006.570068359375,
+    3016.25,
     2990.27001953125,
     3028.030029296875,
     3066.06005859375,
@@ -27,9 +27,6 @@
     3025
   ],
   "6m": [
-    3722.409912109375,
-    3671.610107421875,
-    3720.5,
     3605.030029296875,
     3681.260009765625,
     3634.2900390625,
@@ -143,12 +140,15 @@
     3062.159912109375,
     3046.43994140625,
     2994.1298828125,
+    3013.030029296875,
+    2972.449951171875,
     2923.5,
     2957.409912109375,
     3075.260009765625,
     3118.800048828125,
     3142.169921875,
     3006.570068359375,
+    3016.25,
     2990.27001953125,
     3028.030029296875,
     3066.06005859375,
@@ -393,12 +393,15 @@
     3062.159912109375,
     3046.43994140625,
     2994.1298828125,
+    3013.030029296875,
+    2972.449951171875,
     2923.5,
     2957.409912109375,
     3075.260009765625,
     3118.800048828125,
     3142.169921875,
     3006.570068359375,
+    3016.25,
     2990.27001953125,
     3028.030029296875,
     3066.06005859375,
@@ -415,22 +418,22 @@
   "marketCap": null,
   "topNews": [
     {
-      "headline": "AutoZone Earnings Preview: What to Expect - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdDFrZVhvQmVWQnVxWk1tREpzN3h0Nkk2VGo2Q2ctbHRUYklkcGhfUFVQM2tKWlNoNlNvQWJfT1A0dzc5dkZFcF9teG5sWEVSMnVCNjhpcE5iaHJOV013TGVtelhUdWdnMzdkM3FLLXk0OXRaZDhoZmxJTWlWdTQyVHlBZm5XNEszdlc0cWxfRkZBb2RWb0I0bW5nUTB1Zw?oc=5"
-    },
-    {
       "headline": "AutoZone Shares Dive Post-Earnings But Wells Fargo Sees A Buying Opportunity - Stocktwits",
       "source": "Stocktwits",
       "when": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeC0xVWpCM2lIV3phVllRNTJoMkx2TkFvOFdLbmxiVUN1ZGpQMWpYVmtSWHpzTzVDNmNpNWlieS05LTNLYnZwQ1VraDdBOXluUHJsQWRPeDJqLTlZWXdMcDd6cG43UXZtRklBRThSaDB2blBDZXVrT216X01HaHU3ZHR1NVNLRUEtcTNJWmd2NFk1VkRnaHdfWGFhcEExSGc5dHpJcG1sa0dNRGNtdkpaNG9BaHZDeG5naXY2Y2pic2ZfUVJjQU1IRHZpWTFJdmJoekxHTw?oc=5"
     },
     {
-      "headline": "Oppenheimer Asset Management Inc. Purchases Shares of 2,830 AutoZone, Inc. $AZO - MarketBeat",
+      "headline": "Summit Asset Management LLC Makes New $6.54 Million Investment in AutoZone, Inc. $AZO - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQWRteGN6UENSaWpyNVhNN2w2Y0NoMkN4b3RYbkdCdVU4aGw0WDA1WXo5QXZvM2hhWk5NMXpYTHZic2w3eHc1cS0xd0c4Q0VHeHhzWFB0MEE2NDd6dDFBWXl5UFcxaTNtWnluRmR6WGdQNUxqcEVEbmZtLV96dUlBaGJHX2dYY3lrcWk5LVR0WUFfSHRfTzRuT2tqUHFFZUZwQjg2WDdlNmVFd0VyTW1KMDNvaE5laHNhN1VJd09helh1R1NKOFNBN1ZyZTJfTnMw?oc=5"
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ1U3bE9KczNoeHRTRm9zazRVSExfNUktNjRuWE56WGNlY0VOLXhoYndvdXlRcHA5Q20zVTFfa2FvamM2S2dJNHFnMTBKOUpSX3R3TGtxeHJ4Tm9kUlhLcklvX3F1TjZ2R2RCRV9VWk9ha3ZFNHZIREd3RU9TS09TWTJ1c0hWYlY0ZXFKZVNYdk1IMnVQSk8wX0l5Y2pGZmN5N195Z1dwVk1JamlITnVPUUxacE5OUV9yYlUtRlQ3TnJ0YkJvazVTaUhRYkRxREw1dVZTR1hfTTU?oc=5"
+    },
+    {
+      "headline": "AutoZone Earnings Preview: What to Expect - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdDFrZVhvQmVWQnVxWk1tREpzN3h0Nkk2VGo2Q2ctbHRUYklkcGhfUFVQM2tKWlNoNlNvQWJfT1A0dzc5dkZFcF9teG5sWEVSMnVCNjhpcE5iaHJOV013TGVtelhUdWdnMzdkM3FLLXk0OXRaZDhoZmxJTWlWdTQyVHlBZm5XNEszdlc0cWxfRkZBb2RWb0I0bW5nUTB1Zw?oc=5"
     }
   ],
   "insight": "Tracking AutoZone (AZO)."

@@ -1,13 +1,13 @@
 {
-  "builtAt": "2026-08-16T02:42:47.209Z",
-  "builtDateUTC": "2026-08-16",
+  "builtAt": "2026-08-17T02:42:13.901Z",
+  "builtDateUTC": "2026-08-17",
   "source": "yahoo-finance",
   "1m": [
-    137.61000061035156,
-    139.83999633789062,
     141.75999450683594,
     139.64999389648438,
     141.57000732421875,
+    138.6699981689453,
+    142.52999877929688,
     143.2100067138672,
     145.7899932861328,
     148.72999572753906,
@@ -27,8 +27,6 @@
     154.72999572753906
   ],
   "6m": [
-    163.07000732421875,
-    164.85000610351562,
     168.2899932861328,
     169,
     169.47999572753906,
@@ -142,6 +140,8 @@
     141.75999450683594,
     139.64999389648438,
     141.57000732421875,
+    138.6699981689453,
+    142.52999877929688,
     143.2100067138672,
     145.7899932861328,
     148.72999572753906,
@@ -393,6 +393,8 @@
     141.75999450683594,
     139.64999389648438,
     141.57000732421875,
+    138.6699981689453,
+    142.52999877929688,
     143.2100067138672,
     145.7899932861328,
     148.72999572753906,
@@ -422,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDJDMkRNU1NPVVRaWmFkalZqVVJUSkVPWWt4Z3ZmcmljN2Y3bnNCbUdCMzNFa2JfT3VKVEd3eU50RktVc2wzaDRPejhLRUI5dC05QTdPSVBDaE1iTl9QVXFtcnJ2aHpOM2VRVEpwU2tmR0VNWTcwV0YzaG1LMEtYc211Q1BiRlhtZGJNX0V4amExOXN1MUtzUDdjNmNTOHppR1E?oc=5"
     },
     {
-      "headline": "Pecaut & CO. Takes Position in Intercontinental Exchange Inc. $ICE - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT2NGLVVJVEp2d1U4c0hDYXFBbXZSSV9jcF9lOVc0VkFtRUNrSnpDQVNYUkktaWIyTUNiQnJzSmFscjFMaFk2Sk5UUUhyUnN6M1Z2QXVhQUE4UkJpQVJTYVIxc2ZkRy1nNE81WmpMeHZTcFJJX19veU1GQ1RTZnpwMDJ2YjBtSlJOY0hwcFJOT0NiQUFUSHpiaVVGYndVM3o4dkhSLWNwbGxCdEJET3RpWEw3dEl1YVdkblVCcjBkOA?oc=5"
+      "headline": "Intercontinental Exchange (ICE) Tests Its Bull Case After Perpetual Futures Rules Ease - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMGxPYUh4UUpPSHN3bnNwOG5rVU5uUXJzQTRhSG4tajNrbERoUDVISEdQZ3UzY2xpWEhqWHYyUVg1SjVwZkVOdlZCb0ZaZWZidWhFMGtqVjNWMFdnQTBZVEozdV84S1NTSjFfVUVIWHFCOVZ0Y0Y1bEUyUzhwcEI1bGg1dC1aNGo2YVJ1bEQyTHYzNmNESDZ4U1N5ZnZDQWhmZWJmQzBlRk9sb05fQmVHWTlhaEJPc0I3T1VDLUV1cjRMVVR4MzhPcVVuQ1JYeVBCVFA1VzEzYkoxX2xVdWIyQ3VnMEZ0OXdaYmFJ0gHwAUFVX3lxTE8yMXV0LVVVUXpxM2NCVnAzVC1aOUlacEhET2FWUDR1dTlpdkpPa0NKd0QtWjdXVEU4b00yY0lhby01SDNFQ25YUWNDMG9wcm1jUFV6WjZzbnpDQzkxVVg5YnhlakJ2ZUpBT2dsdXo0ZVdOWGdid0kyQ1l4MmlmYnBRLU9xNzM1ZEZyZVYzUTBJbjg5Z0lfREtiWW52b1NHTlcxc2M1dE9FSFBsbUtJRlM0ZGdKR3RMSVhNcWdoUVdHUWRWRGJFWmtYX1pHWnA2S181NTJCZkFXSE5oZHU1c0R4dFB4WGVER1ExbGd3MTBPSw?oc=5"
     },
     {
-      "headline": "Intercontinental Exchange Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWmdVSVVnaXlBNlRrdGw3Z2dqRy12LUpUOHl6MGdjc1dJekZUZ0djOGFMaldxZjJXN2pxTHJQUVFfUjQyazYzN3ZCSHNleHNBMVNDTl9jTXhWR29DenUyNEdDU0lnanJnaUVraXVtV1BCYWNnOTRJbU5xXzlTSnpuM0hnbmRlM0VNRWg3QVhESGl0N19SLXZRWGlpWWFFNXpPTW8yRjNDU043ZWdQZzBRbDJpX184ZmQ1czVVdTNRZm83VnQtX0RYMC1UbjJxNXltRUd5ZDFzUkpOcjB5eVh2MnFGdnVTUk1zemN5MGcyQnc?oc=5"
+      "headline": "TFR Capital LLC. Makes New Investment in Intercontinental Exchange Inc. $ICE - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONklyMUJYLUpjTUljM2d0LVBzd0FWS0NrM2Nua0lLeUxpVElIeEtfY3cxdmVyNVpVSnZIWnZsbzlhVXVuOEhRSFdaOXVlblVJaFQ2Q3hpUmEzakxZa2RuMVpsa0lFbmtuWkhtQkRFYXBpbmxTWEoyYWducFZiMGotdnR3cmVZMkFLUE9UeVdxTVQzVG5la3RJOEFYa0poVE1sUWJ2SUI0clFhRHgzV2ROZmk1c2xNbkUzc2x0WGQ3WDlBanRjZTVwWTRfakNWV2c?oc=5"
     }
   ],
   "insight": "Tracking Intercontinental Exchange (ICE)."
