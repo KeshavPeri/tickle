@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-17T02:42:15.600Z",
-  "builtDateUTC": "2026-08-17",
+  "builtAt": "2026-08-18T02:36:54.228Z",
+  "builtDateUTC": "2026-08-18",
   "source": "yahoo-finance",
   "1m": [
-    298.4100036621094,
     291.4100036621094,
     290.6099853515625,
     293.260009765625,
@@ -24,10 +23,10 @@
     265.3800048828125,
     275.9599914550781,
     282.32000732421875,
-    279.7099914550781
+    279.7099914550781,
+    283.3699951171875
   ],
   "6m": [
-    225.25,
     227.91000366210938,
     226.27000427246094,
     229.0500030517578,
@@ -158,10 +157,10 @@
     265.3800048828125,
     275.9599914550781,
     282.32000732421875,
-    279.7099914550781
+    279.7099914550781,
+    283.3699951171875
   ],
   "1y": [
-    143.4499969482422,
     142.52000427246094,
     147.22999572753906,
     142.52999877929688,
@@ -411,12 +410,19 @@
     265.3800048828125,
     275.9599914550781,
     282.32000732421875,
-    279.7099914550781
+    279.7099914550781,
+    283.3699951171875
   ],
-  "lastClose": 279.7099914550781,
-  "oneYearReturn": 94.98779881884525,
+  "lastClose": 283.3699951171875,
+  "oneYearReturn": 98.8282252472139,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "J.B. Hunt Transport Services Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVGxMY2NNR2oxeTc4RXlISHlLRTE5Mjg3UjdGZ0pFMlJJNzBWNll0R1M1RGxXdlhTMmNTdnVaUUFMUFQtSVRfSmd6RXp2elVGNldsbXp2bURzSmhuUzRVNVdOU2VDTHJna1o4aEdYUmZoNDEwZk9NUy1MV3A0U2NoXzJLSUFhOXA2TGZTZFRwUnFHdlZEeUVIbHdaWWlzcmtKN1o4UFFRT05SWDBYanFfVjhVMDJXeWJOb3BkOXZxNUJ5UXM2UVF5Vld1UmI3el9Wcl9LVVpVMXM1Vzg?oc=5"
+    },
     {
       "headline": "Why J.B. Hunt Transport Services (JBHT) Stock Is Up Today - Quiver Quantitative",
       "source": "Quiver Quantitative",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3hJbU1CNFZ3WEp2RHZLbXF2bHVBRi14bTA5WFNySTFQckotZzVaQmFQQjZMVTNOVkVkbGtWWDdiUDZ3UHowMy0zVmxXeWlaQ0trUHpuZkg1ZEVDa2RrYWFWc2YxTnNQR2UxREN5NVFIRzF0VWczQjN0TjZMUTYyT1hXcEloNTVCcXlGVVFJMDVPVlhTT216TlVB?oc=5"
     },
     {
-      "headline": "J.B. Hunt (JBHT) Stock Trades Reasonable On Cash Flow But Rich On Earnings - Yahoo Finance",
+      "headline": "J.B. Hunt Transport Services (JBHT), Why Is It Drawing Fresh Attention Now? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmhjakdfVkpuSnpWNDdlREpodks5TlhlWS1QOW80a2lFTjNGaHNPdElTQmVlR0hNZXdXZU1USWNZMFVKRDBHVTNKblMwUkdoTGh6NlYwc2xVNUF6aF9PcFA2VkJ5Y1VNR2p1ZXltTElPWDJadkVnWTUzcElheXZ5T1ZDUWp4OU9rV05iOQ?oc=5"
-    },
-    {
-      "headline": "J.B. Hunt (JBHT) Stock May Be Cheap On Cash Flow But Rich On Earnings - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQclZqNzZGMkYxeFBpZGtjYVZPZkFMWmYwb3dzS2tTU0NuYzF2UDcwSmM3czhoVDR6akkwMHdBM0VCV1ZsMlNJOGhhLTlLbHhMYUZTX29zeUNTeFh5eG5faVZPWnBrQkxFMU50dEpud0gyUGwzOXd4VXVtc0JjeE9hRm1iWS1hMFRWdUV4SklXNk5aa2x6WnFhYW9rQkwtNTNjd1pLdU1rb0lFSzJzN2VCbGFza25qRXMyelVpUndzQXZLR0JJVWtNUFVKRkxVcFpoem51aURxak0zQU8xUkFhMGxQOGJCZ9IB6wFBVV95cUxOX0JwRUhkV2FVX0xabHU1NkVZWjFtWkFoVml4bi1sMUxmXzhvSndIZ2p1VUN2TEdaMWJVS2I3LXJJdGNnb2ZPZ1I0WjR1Tl96b0RZUFpQd2dGc0xBUWJaWGh6ME5pLTNzQjd6VVd4VGF4ZmlBVEdvR2htTkZsQTUtOTM2bUFKeXR5YUFBZFRnY2RHRldqU0JGQ0dVWGlpUndudV9MTDFBQ3RRUkJaN0V5WldVOF80eVhfU2ltaXhFYmxIVlh6V0lyVWxMX3ZJUm5jTm1tT25wZFE3SUxFaTE4VE5xam41a1FnZWQ4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUVR3V2NjZXAwTjViamREaGw5eFh5LUhWdmFzRzNuTE5pUUcxSUticUZtZDlUeHlPWl9xY0RmZ3F2YTU2NnZfN1BlMS13M3hwV05CTHJNV05HYU04LW83WGtLQzBLT0gtdE1WSXVpUDlaVnowN200RWZJbUJOdlNZUVo1SS00VU1SNnpFZ2RCazMzSVgwUjRN?oc=5"
     }
   ],
   "insight": "Tracking J.B. Hunt (JBHT)."

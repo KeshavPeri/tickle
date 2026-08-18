@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-17T02:42:10.454Z",
-  "builtDateUTC": "2026-08-17",
+  "builtAt": "2026-08-18T02:36:48.602Z",
+  "builtDateUTC": "2026-08-18",
   "source": "yahoo-finance",
   "1m": [
-    184.55999755859375,
     184.75999450683594,
     184.25,
     184.33999633789062,
@@ -24,10 +23,10 @@
     181.0399932861328,
     177.91000366210938,
     180.6699981689453,
-    181
+    181,
+    179.41000366210938
   ],
   "6m": [
-    146.9499969482422,
     146.50999450683594,
     141.4199981689453,
     141.9499969482422,
@@ -158,10 +157,10 @@
     181.0399932861328,
     177.91000366210938,
     180.6699981689453,
-    181
+    181,
+    179.41000366210938
   ],
   "1y": [
-    135.42999267578125,
     135.99000549316406,
     136.77000427246094,
     139.10000610351562,
@@ -411,12 +410,19 @@
     181.0399932861328,
     177.91000366210938,
     180.6699981689453,
-    181
+    181,
+    179.41000366210938
   ],
-  "lastClose": 181,
-  "oneYearReturn": 33.64838646437287,
+  "lastClose": 179.41000366210938,
+  "oneYearReturn": 31.928815659271333,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Globe Life Lags Industry, Trades at a Discount: Time to Buy or Hold? - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGMwN0NMSjJVY3c0REVuc0EyZVpvSVJVS1liSHVPNDI4Y3pFaEQ1MFBqaExqeW9ZbXlQcjUxS1Jlck9YQUhGdmdvaTNOZDZlYmNnS0o0aXBOdXQ4THJHS2ZRRmZrYy1HR0w2ZWtyWUZTT1Fialh5SFVvemxfWUdzUmVjR2NaSVVZb1hQQzI3d3lTMjNHLThFZ2RpRWpmSm9jNU5VdEhNTFIyY0tscmFJSVVXOTVqSkRCcFhEenF3?oc=5"
+    },
     {
       "headline": "Is Globe Life’s Bigger Buyback Amid Weaker Margins Altering The Investment Case For GL? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX0t1U3hfck0wRVZMbVFqRTVjWVhPTGxLT01mUGtsb1ZRX1RBbXpxUklMajUzZjVNd2FpcjU4VURuZTRaLVlhWjRmdFg4NmxhbGJNU3lDbmNBNnV6b1RhemlyNmxmRHJ0OTNKQm5aWTRkVC02VnhRQW1Jd2lQTzNZelV2enRBZlNYMXBWVExyTzJ0QlRya1dJWGJyaw?oc=5"
     },
     {
-      "headline": "Summit Asset Management LLC Buys Shares of 5,659 Globe Life Inc. $GL - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWxHTTkwM1Y1Q3BXZVM2VHBEZ2FJd1VXTFpSZy1lQWJCeXRYVnl5MDdZUW1FTWF6Q1o2SGllMWd5QVI2NE9oZ1ZmUnZSVGMxZXM0T2ZRTHlieGczTXZRNkcyaFBTOTB2MC13QnU0UGxzdjZmMGNCbTJlT0p0b3UyWDRyaHo5ejBuTEY2RXZhdG9Zak1qLTVnNWF4TEdHc3hkZkdoVV9tU1ZEU1RDU0RkUmwwUHpMTmNOWDZsNmNJeGx5bW1n?oc=5"
-    },
-    {
-      "headline": "Life Insurance Stocks Q1 Results: Benchmarking Globe Life (NYSE:GL) - StockStory",
-      "source": "StockStory",
-      "when": "2026-06-24",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlZkRWhBYzlndVBRNC1yZTlSM1Bzanh3Nk5HRm5mVlh5Y3RiM2FrT1A3YmhmbGNXNVRwN3l6NTNBaXBfaDNtOXNaSm9vOVFhenA0MXd2bGVvNktlWXdaR2FQdnZkQXVmSWQtLUMyZ0t5LV9NMF8tSGdwSXplZGxUekJSUWk4ZWxVdVZpSkV5bUN5bWlSYkE4V1gxcHFUR0dJdUc1czdaZjZ6RFY5TXNOeVhCbjdqWktRaWc?oc=5"
+      "headline": "Globe Life stock holds steady as investors digest recent gains - AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0RQVnhwbVBQZUNueVJTQmtDdUFMS3IwWDBzZ3FsMjJDYnN1VjZIY2NoMkVQWDAzcU9JYjV3VVRXOVRlTzB4ZnJiZmlJRHZ1d2tpU21iRW05bV9DR0s1eWdtcWJaemNLRGlTNzh2Z2Y2R1lmSk9hX0RNRklQNUNDdGpaTC16N0tWMmswcDhyV1JiMnd0Y2Z3TndwWFY5TWNNbjE4Si1mXzZwWE8wWmgwb1IwRkQ3WEthNjRWdHVxcXZ3Nlk?oc=5"
     }
   ],
   "insight": "Tracking Globe Life (GL)."

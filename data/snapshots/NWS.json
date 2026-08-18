@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-17T02:42:21.449Z",
-  "builtDateUTC": "2026-08-17",
+  "builtAt": "2026-08-18T02:37:01.029Z",
+  "builtDateUTC": "2026-08-18",
   "source": "yahoo-finance",
   "1m": [
-    31.65999984741211,
     32.540000915527344,
     32.41999816894531,
     32.209999084472656,
@@ -24,10 +23,10 @@
     32.5,
     32.68000030517578,
     32.93000030517578,
-    33.16999816894531
+    33.16999816894531,
+    32.68000030517578
   ],
   "6m": [
-    28.09000015258789,
     27.389999389648438,
     25.649999618530273,
     26.270000457763672,
@@ -158,10 +157,10 @@
     32.5,
     32.68000030517578,
     32.93000030517578,
-    33.16999816894531
+    33.16999816894531,
+    32.68000030517578
   ],
   "1y": [
-    34.029998779296875,
     34.22999954223633,
     34.56999969482422,
     34.220001220703125,
@@ -410,29 +409,30 @@
     32.5,
     32.68000030517578,
     32.93000030517578,
-    33.16999816894531
+    33.16999816894531,
+    32.68000030517578
   ],
-  "lastClose": 33.16999816894531,
-  "oneYearReturn": -2.5271837825476755,
+  "lastClose": 32.68000030517578,
+  "oneYearReturn": -4.528189476450346,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "News Corp stock hits 52-week high at 35.3 USD By Investing.com - Investing.com Canada",
-      "source": "Investing.com Canada",
+      "headline": "News Corp stock extends buyback as Class A trades around $29 - AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQODFiU19fNThLeHlEaF9wSjcyRnVBbjBocUQ3WnVubTVpMUdNVEpDQktoOW83eXFuY2xISEoyQ1pBMG1CamN2ajNMS0Fqek9xR2ZVZGRydjctdlJ2Z01YdmZsV01EMVFHQ0lVOFlkYkJSZWM3RmRqc2RhaXQ2VTJCTWxNd04yODFna2t3azkwY1VWaS1iOTFkRDF1dldpMHJFSFVRM0JJSWlOLWVBX3otdTJXRmFzRXJKbnBWRk1XWQ?oc=5"
+    },
+    {
+      "headline": "News Corp stock hits 52-week high at 35.3 USD - Investing.com",
+      "source": "Investing.com",
       "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTRobHZQLXQ4U2llZVFUTE1OcFFFX0gwTURUdXAtX0R2OE5MM0FNZ1JCQ3oydGVRcWVCWGlBS25FRE1ncTJvbHVEdVNyMmhzTlhqS2lMbmlidy1lenZoSktGZFY1LVFWck5WQ3d3WHJYT0liYkQ0ZU1oQTFHYzNHc01uR0oya3E4TWRtTGdLSEhXT0h1TnlaNzgwTXBtekRIdGIyd3JpRQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakU1T1pMblFqOTVBdWI3ZmMwM3hFRjlJYzRHNHpUQm42akVsMlVtakNWUHl1OFd2WkMyWm45Y29IS1ZkREFIVzRSdThvSUlQcGwtd2ZhUDNHTFZQSUo3UV9OaGw3RDVqNmtUMkhXcGdvQzBYLWtKb0Nkd1dnZTV4cm54b2VKZk5fSXpGMG9xOWR5RHVSaElyc1VSMHZWX1BmdlE?oc=5"
     },
     {
       "headline": "Wall Street is quietly buying into the Murdoch succession plan - AFR",
       "source": "AFR",
       "when": "2026-06-21",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSFhWMGE4ZUxrTGxobWZWY2daUzZPdWNvQ2w2T2dtdEJ0V1BSbHNMYy0xa2hZbXZCSzdLOTRVa010Y0V6NTUzM2x1SnBNR3c2ZTZuVU9ualBOVTJpWnlORmlpOEVfUFJQN1MyMG80X1cxNzZfQWRfekZlTTVTbXE5b1AwUll5NjhTd1hhTlVqazBieTJpRVFPbWJlMGV3NUtPeWVsc2FJQUdRZEt1NnNMREI0Vi1qTHcyd0NOWHJ3?oc=5"
-    },
-    {
-      "headline": "Perpetual IM discloses 4.4% News Corp (NWS) Class B stake - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMm8wcV92QkVKdlhJdXhIRmNIRkhreUlKRExwOUtDMVBWaklfczdodlFzeVRIbldLaDAzQVd3TGF4RUJSU1hOZW1oVHZ0eV9RWmRIN1RGX0dsbVIzNkJQQ2pCNGd4bExPek9SQmg1NXBGeE1kQmVyZ1JXVkpRWDBYdVhWaFRYVWxtQVp0TTZBVTV1VHJVeHFWRXBqd3NGbjF3RV9aT0FWTFZrQ1hnRk5BeDJXVEp2SWV0VFBvMy1fS3o?oc=5"
     }
   ],
   "insight": "Tracking News Corp (Class B) (NWS)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-17T02:41:52.691Z",
-  "builtDateUTC": "2026-08-17",
+  "builtAt": "2026-08-18T02:36:28.175Z",
+  "builtDateUTC": "2026-08-18",
   "source": "yahoo-finance",
   "1m": [
-    168.55999755859375,
     168.61000061035156,
     169.35000610351562,
     174.5800018310547,
@@ -24,10 +23,10 @@
     197.85000610351562,
     210.5,
     203.6199951171875,
-    198.82000732421875
+    198.82000732421875,
+    201.8000030517578
   ],
   "6m": [
-    128.6699981689453,
     137.49000549316406,
     141.74000549316406,
     143.4499969482422,
@@ -158,10 +157,10 @@
     197.85000610351562,
     210.5,
     203.6199951171875,
-    198.82000732421875
+    198.82000732421875,
+    201.8000030517578
   ],
   "1y": [
-    137.3000030517578,
     138.0399932861328,
     132.77999877929688,
     131.47000122070312,
@@ -411,29 +410,30 @@
     197.85000610351562,
     210.5,
     203.6199951171875,
-    198.82000732421875
+    198.82000732421875,
+    201.8000030517578
   ],
-  "lastClose": 198.82000732421875,
-  "oneYearReturn": 44.80699410419519,
+  "lastClose": 201.8000030517578,
+  "oneYearReturn": 46.18951960788757,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Arista Networks (ANET) Shares Just Moved, So What Is Driving Attention Now? - simplywall.st",
+      "headline": "Arista Networks Inc. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS2xjRVg4ZzVxQUFvcGJPSXNZejg3SkNPZTR2MDdzcTR3Z1JBdGtXM2lncFhZa3dYb3JwUWtObUNJRDZON1BrOWhtTUR5d1JpZG9ORDAwWmRkNmtkT2Z2QmdJZ3ZSb0wzb0x4bHpQbkRSUjc3anFfZzl2SHloWDBWTjBCZWVjbWFSUE9OamNPZ2daSnh0X0RsUzFfdFZpTXlGbzN5WE5IQ2sxNXJvZjBrVGc1RXY3YlhjT24yWFZYeDR1NTVZRUV1YzZDNVBkc0xHLU5wY0tJeWR5Nl9qcUZwUTIzeU1uVjNRM25J?oc=5"
+    },
+    {
+      "headline": "The Bull Case For Arista Networks (ANET) Could Change Following Its Upbeat AI Networking Revenue Outlook - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUWlJYUMtUmZFVTJselBOY0cxSndjckhvZDc2cklRdEVjR2I2VjlQUnBITk56WFVadExoLW1kUE8wQUlEdFBTcnZ1aUFPODV3b2l0ZDVacmhRcnhmXzFDbHlDaWxEZmRUMkZRVGROQzNaemQ4TmVwalJLQkdKY0FTc2Z2eVFiZmlqNVVUOWJBNXhfVk9KZlJMdFIwZktlZUtRQl9vSkdfOHhJanl4NDh5SlhYRjl1dlJoZmRNUlc5QUx6dEZWei1B0gHMAUFVX3lxTE5RMXZqVHU4c1BCb2pXQ011Vk8tc3BLeUdnVW4zaGFodkpiU3V5VFgtQ2Q1alhrdzliN2REQzB6dXlndGd6MndBVjd2bDZ6UU1PSGhYZm5CclptUlBQb3E2R2d5X0hTa1FFeEpIQkw1Qk1CU1VmWkpfTU9jUGFaQVBCNHA3ald6VWVIZ0M4VWJETEdub0ZfczVMMUo3c3RXUjNWSGtIM3BuQlZPM3dwNkx1b3pjYmM0d3g4bzJPOHJQQnYtT1ZySlVPZXpsWQ?oc=5"
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXFGenYwWmZmMVVLek5nbVM2Rk9pcV92eUpxbGpFVFlMMHZDUzVHOFAyUmhkQm1tUmtaU2xDOGVwZXpNVU5NeUlqNzdYNHBNd3lEYmk4RjdaV1BMQU1iOGxvNVBqOEp2LUh6dllIeWptYjlwT1UxT2hUVUxWb3dvT1dKMk1LRjZPZjY1ZWNGenZUQnZVUWhxX19iMXlvNlBVYzZNYUdOdGlCT2xOd3B5a1F5akJ5OFdkR0pkYmd1ckVobjZPMk0yQW1n0gHPAUFVX3lxTE5nRmUzYTFlakpRMWxsemFWdmdIN3d3U3EydzdpTXBBR1Zja2pEQUhfXzA1d1pJakhWQjZoa2RCY3M2ZkNOQTJIcXRUSnFfX2o5V1JrN01GU0htT1hwMm1UemRwR1IxR2xYZXFlLVRhRTJkb09NR2J2cDNJem8zUGRrSE9jMzRpRHk2bG85TWF1OWNCcXB3Q2o3bWZwZWNLQ1B5V21lWWhJa2JIQnpBSVk1N0VfNExjQmczSmhuMkZ3RTFUdDZNaTdvV2RNTTFOdw?oc=5"
     },
     {
-      "headline": "Arista Networks Stock Is Priced For Its Peak Margin - Trefis",
-      "source": "Trefis",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWkpZZDJlWUVTVDMwZkppTDlyeF9WeGZhUGQ0MnBDeG9uTkxIODlZQlJIU0dwb2YxVWpPdmFGZnpmQk9IcWZGSmNOelpaSUtaaWwzcG84eEZpOGR6ejVOWERWZFNmM0hjaHZqYS1tZ0wxbmhiRGpxMmp1OF9Vdm0ybmM1czEwMnVLT0NlbUh2ZDNBbXpzV0dDbEZXWDVUWGhRMjBj?oc=5"
-    },
-    {
-      "headline": "Fox Run Management L.L.C. Decreases Stock Holdings in Arista Networks, Inc. $ANET - MarketBeat",
+      "headline": "Arista Networks (NYSE:ANET) Trading Up 1.6% - Should You Buy? - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVElWZTNWbFN1cHVwUTVKRk9wajVHRTE5OTAtZ05fQlBTR2NmSFBaQWNKa3hiU0ZuVXB0dFBJTEtZTk9HU1RWMHNYZDN4VXd1RHdOekJZUjRpRUpFU0xnQl9oTjV0eW84X0lSazFEUzl4b1V0S3lCcldiZXQ0ejRJeUltYlhoZklOUERvemQyRzJGbVl1VnA2QnN6b25VTThQb3BoeWNNdGo1X3IxemF3UDQzRVdZblItLXVadmNCS2FHdzlhOEtVYWVaa0NMa0xydGc?oc=5"
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYks0NmtDbWcxWW1oOE5zeklra3loNWJMUFl0RVFaQ0FYWVFUZUpEUWtzbjFfaEJldG9DT0dwN2V4b2FHOTRUOERyUzJ4SVh6T1hfdmlWakNMUDg4RHRXODh3a19nZFY5UzhMdmppN0NTamtxN1VOMzNvSUZYVXczSWRwX3czWlBiRVZ6ZUFTalhhYmRfQzNUOEJGOU1MbHpUUjhoandFVmNwdVE?oc=5"
     }
   ],
   "insight": "Tracking Arista Networks (ANET)."

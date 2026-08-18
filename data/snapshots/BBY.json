@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-17T02:41:55.193Z",
-  "builtDateUTC": "2026-08-17",
+  "builtAt": "2026-08-18T02:36:31.097Z",
+  "builtDateUTC": "2026-08-18",
   "source": "yahoo-finance",
   "1m": [
-    85.29000091552734,
     85.41000366210938,
     85.12999725341797,
     85.22000122070312,
@@ -24,10 +23,10 @@
     83.27999877929688,
     83,
     85.3499984741211,
-    86.41999816894531
+    86.41999816894531,
+    85.44000244140625
   ],
   "6m": [
-    68.18000030517578,
     70.41000366210938,
     67.08000183105469,
     68.04000091552734,
@@ -158,10 +157,10 @@
     83.27999877929688,
     83,
     85.3499984741211,
-    86.41999816894531
+    86.41999816894531,
+    85.44000244140625
   ],
   "1y": [
-    71.62999725341797,
     71.80000305175781,
     74.0999984741211,
     72.2699966430664,
@@ -411,12 +410,19 @@
     83.27999877929688,
     83,
     85.3499984741211,
-    86.41999816894531
+    86.41999816894531,
+    85.44000244140625
   ],
-  "lastClose": 86.41999816894531,
-  "oneYearReturn": 20.647775349204846,
+  "lastClose": 85.44000244140625,
+  "oneYearReturn": 18.997212827158094,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Best Buy Co. Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON0V4UVc2QnRnNk5HMUhQVkxFZE54M1JhNTgwN1plcHlXaDRyVi1WX3hnXy00WUZRek5tWTFVekQycXMtcjlVdG5xTElEc2FoUUtkcGE0ZS00eFMyZzh2ZXpPN2JEX1dGMXB4ZW5QY2lVWVp6cmY4UUJuU195OW9YZXM3eUpTTVFPd0NfbkFLejh4c0RILWtLWHNfdktnY1ZPa0xvMTc4ZC11bjZDZG9NZEpTbmNwVVFoSFhDcUxDNGs1bm9ONWlHRGM2TG1mQWZQdFJpNnRNV2NCMmt5NEdENk80WQ?oc=5"
+    },
     {
       "headline": "Here's What to Expect From Best Buy’s Next Earnings Report - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXU0TC1fM2FGNjRHNFhoVjZGTGx6VkdaODlPY3lJNEFielNrYVBudlh0NzF6ZGZDYXZKSWVvcFFtWVQydGhTUU9oY1pzSDBnU3lkTnNxYndSN24zb2UwWThtQUMxZ3VMT2tZQWJ2X3JUNGNwTG9hdVB4b3IzYXRBQmhQQTE4N0diRGpYaGsxYnRWckliTFE?oc=5"
     },
     {
-      "headline": "Best Buy (BBY) Stock Looks Undervalued Despite Its CFO Change - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHBDUTV1MTJuSklqZ2piQ0ZHdzEyTEp5b0NULWt6QmxQdEI2VnEtVXVrYktIb1BEaVdMZldpLWFBajBzZ21iTGhEVjQ0XzRKd2U1Mjl5ZW04NzY0LW9YemdHQmlOSGp5ZzEtSlpFMlQ3VzFUSDM5N3drN1pCcU40ZFVVX1BKLUhtSS0zaXBVdEU5RkRla3diQ3pzRzNuX2RPbzYtNmx4eXBpRjU5cmVQV2QyVGFlbHFrTjd1THJ30gHDAUFVX3lxTE1Zbmlyci01dXZVSVlFT3RXbXE5bVJUN09paFdDZ0lhNE5zeHhfSXIxOFVQNWxSS0ppMzNzeVpuLUd3WEFmaUFvZUx5WDF6dUtfVVh2UFEwanVKZFhfNkc4SUdNUnAxRkFOem9nUmFPLUtnWlBXaXVVcEs0aDJ3QnE4ZUw4VkY2RzlMY3ZuTkdOVGJvTFV6Yms2Nnd2b3lmNVhRbVR3U2JCSGduUTVOc2tLdHlBOEpINlZ1Y3pmUmRNRm1YVQ?oc=5"
-    },
-    {
-      "headline": "Best Buy stock climbs 15% on earnings beat as retailer aims to reinvigorate sales - CNBC",
-      "source": "CNBC",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50eUpMdHRvVTBlRTByRjNrZTBvTlNTYnFaV2wwVkNyOXpLUVlHYnR1VUF1Y0YwWFhEOHE2ZHBHMW9KeVRsd0lWSWRDbGJrdEpPN0lYWUQ4WVpNeXVySWhjTVFCbDd5V0gxOHR2UlVqVUhILUM20gF6QVVfeXFMTVN1UTNZclo1ZXRwUUxpODFSSTZWLTg4c0dPWUxPT0xlSXpaN0NLZG52Uk15cDFvVDhIMV8xRDRFZHA4aVpwT2tlZjI4Mk5iM3BJd1RMY2x1Wkw4Zk5DNkktdHhoaC1TX2FvRFo2dVdXRG02M05Xc25CT2c?oc=5"
+      "headline": "23,978 Shares in Best Buy Co., Inc. $BBY Bought by Tulsa Wealth Advisors INC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNVRBQkxsZDAxdFhvNm9jTDZpZ1dndHdTSUtzM1pvNjJIZzQycDhyZy1OMVpSZVJzU2lUdDcySHFqcFZXQTdSa2RrVDV2eXFqUmtkTGVIcThrWWJQcDhwNFRLMWI3QmZJakVCRk1qdXVraXVwb3lOdEU2WHp3SGo4LUd4dGdnV0NGMkZQUUlJNHYtRnUwWVBPWkJmZWRwYmVMTVZzTXRsUFFlaENfTjlEaVB2VWJTb1VOUXJVcGRpT29HZ25Mc3FvUmRiMkI?oc=5"
     }
   ],
   "insight": "Tracking Best Buy (BBY)."

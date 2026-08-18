@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-17T02:42:19.274Z",
-  "builtDateUTC": "2026-08-17",
+  "builtAt": "2026-08-18T02:36:58.491Z",
+  "builtDateUTC": "2026-08-18",
   "source": "yahoo-finance",
   "1m": [
-    1305.6500244140625,
     1312,
     1328.800048828125,
     1383.260009765625,
@@ -24,10 +23,10 @@
     1402.1099853515625,
     1425.010009765625,
     1362.550048828125,
-    1402.010009765625
+    1402.010009765625,
+    1415.989990234375
   ],
   "6m": [
-    1155.989990234375,
     1229.8199462890625,
     1206.1800537109375,
     1142.02001953125,
@@ -158,10 +157,10 @@
     1402.1099853515625,
     1425.010009765625,
     1362.550048828125,
-    1402.010009765625
+    1402.010009765625,
+    1415.989990234375
   ],
   "1y": [
-    826.469970703125,
     850.3099975585938,
     844.7999877929688,
     826.27001953125,
@@ -411,29 +410,30 @@
     1402.1099853515625,
     1425.010009765625,
     1362.550048828125,
-    1402.010009765625
+    1402.010009765625,
+    1415.989990234375
   ],
-  "lastClose": 1402.010009765625,
-  "oneYearReturn": 69.63834857458346,
+  "lastClose": 1415.989990234375,
+  "oneYearReturn": 66.526325022634,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Insider Sale: Monolithic Power Systems Interim CFO Sells 105 Shares for $141,148 - Currently.com",
-      "source": "Currently.com",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZnFFSmY4WktHZ2NncHdLQTJ6WGFsMGl5cU5rbGNUY0dUVVhjX1F2bW1KM3luM09vVDZ5SGo5Y2JzR2RkeU1VbjJSTXdDMkoxNUxUUm9jaFFSVVJrSFJlWEVVSThhTkRqUDdsMzQwVGxpOHcyYlctOVFTeDRGVlg5MHhLRF9PSFkwTkZCMFVvVVZiUQ?oc=5"
-    },
-    {
-      "headline": "Wall Street Thinks Monolithic Power Is a Buy. Here’s Why It Might Be Right. - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTmJSRmRyUWx1WjBZYzBoVzQ2Y2ZXQ2dWLWFLMzlWVWhiU2ZqUW5NSUxQS1RYVUxRYjYydFBiNjZZVkhrbHlURnl2ekFFbTlmNE1BXy1GY2FDOTRuSTJIRWw1NjVJN2pYaFN1SGFCem1Ub0JhbnR3OXBHd0FEeXFPd1BObFJDWTRxc2N2TWRNSm8wRDRjRWtJa2JuckxCbzBvZkoxenVTRl8yLW9hXzdudWg1RVdvUWM?oc=5"
+      "headline": "Monolithic Power (NASDAQ: MPWR) insider to sell 6 shares after prior stock sales - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm9PSGJMYWlMWlY3dFdDMWlrNU9zZFJtbnhBUG1YY29Mb3VTVktWOUxaV1p5anBJMmlnN2JsU2NZSUVobWxTTDlmZHZlMFNrNkxjYjRickpubk1OT0xXQU1GV3A4S1A2ckFYUml0enhwc2JvaFozU2hsTTFRMEZ2UFg5WlBVZnZHbVMtc3RSTXdtY0E4TndFSXVBaDVFOERGRnRLZ05EQ20?oc=5"
     },
     {
       "headline": "Monolithic Power Systems (NASDAQ:MPWR): Strong Growth with a Technical Setup - ChartMill",
       "source": "ChartMill",
       "when": "2026-08-15",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdTUxQVFTTzZtWnZmVWxlZHcyTHFCRVpuakxMMGVvNHFzNlh2QjVVOUxhZ3M5S2Y1Qk1kOC1UMFpHRkgwMFVBR3FEM0hJV3RJUndJVlEtZjY1eGZtSVcySklYcjhDYXlGYTNwc1I3TXBqQjRVdVdDZ2tiY0FmdHEwV21vN1hrdi1ZU2dfMzB1XzN4VE91OWtlS3FrYlBfUnM2V0w5YngzS2IyNkFKOExzb0tYN0R4TXhLRkxraTRQZUJodw?oc=5"
+    },
+    {
+      "headline": "Flputnam Investment Management Co. Makes New Investment in Monolithic Power Systems, Inc. $MPWR - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQm1lQmlBRDVESGJ2SmFEVGpNZ3J1WV9BMVVpTV9UdWFfOHpySURFdVpZdnE2RzF2SkMtT1h3azF3MEZLS2NHQ0w1UmFLang3b0Q3V2lMOUxkUXY0QUUzRklrRHVTZjVjM2xrTU9XVWE0Q3FUOFRXSTlvLTNSOFFUWlVndTljMGRMdDltQ3FLdE5WS2poQ0pMeWNxZk1helVKTWpUMUJaa21uWHhlR3QtUWVoNXZUSnhNbnZiczlRcUdkWW5TYU1KenB4ZXphNFR3NU1GM1Y1RE5SOHhlSnJjMXFQbkYySFU?oc=5"
     }
   ],
   "insight": "Tracking Monolithic Power Systems (MPWR)."

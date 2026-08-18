@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-17T02:41:52.693Z",
-  "builtDateUTC": "2026-08-17",
+  "builtAt": "2026-08-18T02:36:28.105Z",
+  "builtDateUTC": "2026-08-18",
   "source": "yahoo-finance",
   "1m": [
-    249.88999938964844,
     247.22999572753906,
     249.99000549316406,
     247.5500030517578,
@@ -24,10 +23,10 @@
     272.2699890136719,
     267.2799987792969,
     265.1300048828125,
-    262.6499938964844
+    262.6499938964844,
+    261.30999755859375
   ],
   "6m": [
-    222.69000244140625,
     210.32000732421875,
     208.72000122070312,
     206.9600067138672,
@@ -158,10 +157,10 @@
     272.2699890136719,
     267.2799987792969,
     265.1300048828125,
-    262.6499938964844
+    262.6499938964844,
+    261.30999755859375
   ],
   "1y": [
-    231.02999877929688,
     231.49000549316406,
     228.00999450683594,
     223.80999755859375,
@@ -411,29 +410,30 @@
     272.2699890136719,
     267.2799987792969,
     265.1300048828125,
-    262.6499938964844
+    262.6499938964844,
+    261.30999755859375
   ],
-  "lastClose": 262.6499938964844,
-  "oneYearReturn": 13.686532175154491,
+  "lastClose": 261.30999755859375,
+  "oneYearReturn": 12.881762217725756,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "After Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? - global.morningstar.com",
-      "source": "global.morningstar.com",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcUJfbTBpX1RKdW1fTE0zclVUT21KTS15TTJ3NFVJYzhOS3JCZkR6UEFyWTRVbjBNOWRrSHhYbkRnNjVKNG1NV3AwN1ZZNzlmZzVJbUNhd19NbEtBSFVBQlhteVlpWkhqXzdtbk1GYXhYckZKZG9uNk41Z0RIajZZMTBlM0h5dW9xdTFYTzV3TmNHRVp2aEVpZDR4MFFGV194TDRGRw?oc=5"
+      "headline": "Here’s how Amazon’s stock could nearly double by the end of next year, according to Morgan Stanley - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV1RUWEpINjJIaFN6OGk5c19KQ0pJc1BuMUFnSXNrX0hLZXJsUVdNN0xkWV9OYnAyODVic2NhdXlJS1FDSVk1OWVHNlNnR3A2TXhhbWhPVUJoeGc4TTVpMnFGZXBfUnNsT2gxT2VWWmhfSWN0TEpRSmxRQ0ROaWJzT2d3cEtlSHNGbC0xZDBGdjBDcGhkdDhNM1Q5b1JUdEk0RXp6LWJhX3ZUYS1wTXZWRHctODZZeWxoT2ROWktwTDlGa0FMRUdBcG9UZE5UaEQwbmpLUQ?oc=5"
     },
     {
-      "headline": "Amazon shares appear stuck in a rut. Trader Mike Khouw is betting things will stay that way - CNBC",
+      "headline": "Amazon’s Stock Could Hit $500 by End of 2027. Why AWS Revenue Is the Key. - Barron's",
+      "source": "Barron's",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LOGU0SG9wME5XTTFVbFU5VXotS1pWRUg2dnVFZ3JZY3AwSmROVFkzRXF0TjBDUExqdEVTalZKU1hsVzZOYVZwQUpTckFpTWtzbWZwTEFiYUM0ZGdqeWZLOXJwTXVOcjhlQzhIa010ZDRtVjlNLU1CaA?oc=5"
+    },
+    {
+      "headline": "Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout - CNBC",
       "source": "CNBC",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYjRlZzBxMk52R0hZRlB5T3BZblFOUlc4Q1VOVkEzd0RpZ3ZGOUtYM3ZJVTlPZlpZb3JIcGhSNFJjXy1kS180dU1BUjI1aFhwRFFOVnR4YVlWY29WbVFuQmxtMmREUkpqRTZDVURwR1lvZDZrTUxWRTBfR29YNm5FV0VoOVlEUXQ5R081V0QzQ016WllvU2JZUlBmY21PMzB2TTFfTldvS093Um50UzNyanM2QXduWDlZa1VBak1fMTg4UkIxelHSAcsBQVVfeXFMUFo1OXhvRGc0UDl0c0xyT21hV0JNZ2pHMzZQZDBLNGhLOTh6ZXhSbUdESkFRaXNmaHdjN3poV0NCTUUzb0tfalNXRkhIMjVOT21tRzVQNVF1NFJHT0xRSXNfR0hJb0NxRDRoRUItaUg4eGJzYlJPdms4U2E1TEN2WXhIOTB0Y3Npa0lVMjk4SnBYdjNjbFpNV1JPVTFpd1VVa1gzWEtuZkhDQWExYl9aeElzUUdYbHZTenlBRUVaOWpCZXdmNGxqaHVwRGM?oc=5"
-    },
-    {
-      "headline": "Amazon (AMZN) Stock Gets Fair Value Bump As AWS AI Demand Lifts Analyst Views - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVBrM1U1NDFNZVRhZWR6VVhzMTRIMlFaR3dTMlh4OE10cllDeUtqZ2ZDc0w4LTM2bXIwdTMzZXlEb0k5dEtsSV80WFpXNVg2WXVkMGplSGlmX0p3MDVZVThBNmxuU3lZMFZXa0FqR3VQRnBWZVgxVVpiM1lQQTE4ODFkZWYwNVJUU2FCbXhWeGtnR3p5WjRN?oc=5"
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRDlSZnlyczVwT1BoOWxsUWI3OV9hd0dkaXY1c2JwblFOTHBUeW5fT2JacS1iOUxja0ktSlZrZ2VyT0MwbDlCTnA3ckt6N1Z0d1NvMlhSZzVKdVZKSS0wNmVocGJwVUdZbVF4eGRtdzZ5VmpFTjVMN3MyUncwWG93QmEwYmRCblpyWk5SeFA3dHkxTW9UVjVwNVhHTm93Q2p3akNLM3l3?oc=5"
     }
   ],
   "insight": "Tracking Amazon (AMZN)."

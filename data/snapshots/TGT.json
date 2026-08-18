@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-17T02:42:27.015Z",
-  "builtDateUTC": "2026-08-17",
+  "builtAt": "2026-08-18T02:37:07.565Z",
+  "builtDateUTC": "2026-08-18",
   "source": "yahoo-finance",
   "1m": [
-    140.2100067138672,
     139.60000610351562,
     139.58999633789062,
     138.47999572753906,
@@ -24,10 +23,10 @@
     152.2899932861328,
     154,
     155.50999450683594,
-    154.47999572753906
+    154.47999572753906,
+    151.00999450683594
   ],
   "6m": [
-    110.8499984741211,
     115.55000305175781,
     115.5199966430664,
     113.2300033569336,
@@ -158,10 +157,10 @@
     152.2899932861328,
     154,
     155.50999450683594,
-    154.47999572753906
+    154.47999572753906,
+    151.00999450683594
   ],
   "1y": [
-    103.0199966430664,
     104.94999694824219,
     105.36000061035156,
     98.69000244140625,
@@ -411,12 +410,19 @@
     152.2899932861328,
     154,
     155.50999450683594,
-    154.47999572753906
+    154.47999572753906,
+    151.00999450683594
   ],
-  "lastClose": 154.47999572753906,
-  "oneYearReturn": 49.95146647380142,
+  "lastClose": 151.00999450683594,
+  "oneYearReturn": 43.8875644572996,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Here’s How Much Target Stock Is Expected to Move After Earnings - Investopedia",
+      "source": "Investopedia",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDJDbGthMzNpaGJ6Zno5amtZWTRKUl8zM2RfVHIxcC1iTWdpWVU5eFItUVpPemNMaGhZOVB1M1F6dnNSc0N0UnMyUFY3NFh5VjlhVlhuMTJsanNVY2d0SmlCWno3UVdJc0pCQUFuRHJkYTV0cDRDMThsTkZ0NkY5eDJGWGJsQzNBTFd2eFdnZF9kSUF2UEJYa0JLNURrSTB6S01LOVlaVFlsd0Y4N0FTTWRoZXF4SmM?oc=5"
+    },
     {
       "headline": "Target catches Nike in an unlikely market-cap race (TGT:NYSE) - Seeking Alpha",
       "source": "Seeking Alpha",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcFNzUEJDeXFNdU5XekVPTnlCZFg4R25zLUxmeGNjXzY1aTBBSWxCVkEtdWhSaDRSalpEVHJyRkpFeDh0OGhBV1dMakxDMW1kZTFkT3JtM0szbG1iWG5VVDIydEx3Q0UyYUhHdDNJM1Z5NldBLXE4a2dFSUFYNU11ckx6SXlzSWozaHRMTmk1bWVkQQ?oc=5"
     },
     {
-      "headline": "Target Stock Is Up 54% Year to Date. The Merchandising Reset Is Just Getting Started. - tikr.com",
-      "source": "tikr.com",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWtVYW12WjdrOFNsXzJyeWsyeWhDWjB1RC1WWUFZeFh1OXkzWGhlLVNvWGp6QUJwYUctN0s3dDJJeGxrVEFWYXdFX2JZY0hmcDhuRGVBOHNxTWpkRVFBOWUtZUNHQWJTTkNhVl84ZHhkejFDSmdhZ2lGUXpJTkFnYWpDaFVVVC04V2plYm9CMVBoVHloNV9MamlWRUh4ZnhYZzRsc3lQdGRJaTNT?oc=5"
-    },
-    {
-      "headline": "20,200 Shares in Target Corporation $TGT Acquired by M3 Wealth Management LLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX3pIY3I4NWVPZmNGUFkyR3QxVzk4QTBFZ3dodnRVYzU0bFpuOTJPcTZYWS1pS0JPV3MxYkhUTXhVZTZISy1RX0ZLY2lhTVZuYjhNaERzWDNCbHdWRnVzazdtUlEyNWpOOXhMSjVUbVhCWDkySHpVN2EzMjJLSTNWckpxRGtHc3BNUTBIcnYzVjdPYmJBSE1ldDZFS2ZaVHpXQm9WUF95amJKOTQ2OEM4U3dISDlJM1lnYTZNbmlEazBhei1hUU5hWWJvQU8zSjdaMHc?oc=5"
+      "headline": "Target Corporation Stock Analysis: Key Levels & Earnings Test Ahead - The Cryptonomist",
+      "source": "The Cryptonomist",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOEE5U3ItM01RcDRUTm50YUxBMjdCNzhRX19NNTlLYVp2UTljbTRsWXF6aXNRTzY5dXE3V0FwNU9PdF9kTHppU1NzY1pFcDhOaEUtUmJKeVNBNWJkaG53VWxSSlVseUh0TWFIUFFHRElkeGJac1BmbHJ3WXQyYnRBbHNVZHE5OXpQdTRZNHZ4VDhQZ3kzVFAzODRkeGVPWlh4YVB0Q2lMUUwwVmI4cm9EYi1HWHR4dWM?oc=5"
     }
   ],
   "insight": "Tracking Target Corporation (TGT)."

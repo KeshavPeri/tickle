@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-17T02:42:23.064Z",
-  "builtDateUTC": "2026-08-17",
+  "builtAt": "2026-08-18T02:37:03.091Z",
+  "builtDateUTC": "2026-08-18",
   "source": "yahoo-finance",
   "1m": [
-    255.1999969482422,
     252.86000061035156,
     250.13999938964844,
     250.3800048828125,
@@ -24,10 +23,10 @@
     254.22999572753906,
     255.4600067138672,
     255.1999969482422,
-    256.9700012207031
+    256.9700012207031,
+    254.5500030517578
   ],
   "6m": [
-    238.50999450683594,
     242.47999572753906,
     240.9499969482422,
     240.3300018310547,
@@ -158,10 +157,10 @@
     254.22999572753906,
     255.4600067138672,
     255.1999969482422,
-    256.9700012207031
+    256.9700012207031,
+    254.5500030517578
   ],
   "1y": [
-    191.27000427246094,
     192.00999450683594,
     192.99000549316406,
     195,
@@ -411,12 +410,19 @@
     254.22999572753906,
     255.4600067138672,
     255.1999969482422,
-    256.9700012207031
+    256.9700012207031,
+    254.5500030517578
   ],
-  "lastClose": 256.9700012207031,
-  "oneYearReturn": 34.34934672488094,
+  "lastClose": 254.5500030517578,
+  "oneYearReturn": 32.57122563101543,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "The PNC Financial Services Group (NYSE:PNC) Sets New 12-Month High - What's Next? - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQW85YVhVN29ZSFVmN3dtUXpSQU81cXgwVUJhNmtqUjhEaDk4WW9NbXhzWHVlanVKZWgtTDlRQkI0Vjl4SVNZYVB3X1BSMXJ5aUpiT3dxVV9hcUx3VlJ6UklTaGJXVHBIRzdiR0lPWTEtWk02a2EwbkpGMDlZcWZqZ3dqamt4b3hJN2lRY2MwVEMycHI5NmRhZ3V6T241NTF6Tk1LYlA2cVB3VDU5Rm5pZWRXaUg2U0xJcUtxTWliM292MWdUS3Yw?oc=5"
+    },
     {
       "headline": "Why The PNC Financial Services Group, Inc (PNC) is a Great Dividend Stock Right Now - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYW1QSVk1b1RSOEMyNHFtc0lJREZmeWVMbmowSWJaMkRxRkt5ZTZWb3RyZGhOcldZNTFaZzRFeXRTTHowbW5TTHotbGc1RWVsOHZvRTA3TWptOVlNZUpoVk9iSWcwSkdyeEFxWjRWTXpJV3hnOEIza2Q1U0hucktaZjRITlEzOUdMMnE5S0JHNzViYjBwaUpnUmtvb0FRdw?oc=5"
     },
     {
-      "headline": "Focus Partners Advisor Solutions LLC Buys New Shares in The PNC Financial Services Group, Inc $PNC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUW1mcC02WDhXNDM2bGhxSVAxTEdaYWxfUHZ5bTFLNGhqejZmY3JHbGlQWmxFYnRuQlQ4OF9ONkpBb2pVb3M1TXNqSVJZTFQyWkZ0dmNzczRyRFlsemZSU3ZiUGhtVTB6TDM5TmtZa3VBNnJYbmVGQWtlRlNSSnF1c2NWcGJWQzRxNXprQ0VMQlV2SDgwdjFsZmdMNFJ6VjFENWZwQWt2Q0hkbnh1dEJtWnd0MUpzaldzY1VtTEtkd3VmOEFNcUFxVmhIR0pyTlcxZGQwLUtucmU0MWk0VU9rMm9Hb2NzM1JZLTRUV0VB?oc=5"
-    },
-    {
-      "headline": "PNC’s 300-Branch Expansion and Earnings Beat Could Be A Game Changer For PNC Financial Services Group (PNC) - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT3RNZ2FNMUxRVm55TlR0eTNsT0JrbnVxT2x2OWYybklaLVdXS19YWnpaRVdkbk5vdUlULVQweENadExrUWNGYnZ3ajhWd3pwMkhkU3lxS01sYjVLb2xZNENqZWtLdTF4VURUQ2dkZ3A3cVJQSG1MblhXMElCMFhnVFJDNFRrSkZxX1lyMFhOcTA1d09QUTB1MW12eGlrR19tVlpQdEVZaFpsT2xZYWk4bl9kRUFTYnBiS3ZSRG1RVHBlZHJKeXNTdGU5Y19ITUNYOUdkemdYVdIB3AFBVV95cUxPdUR6Q1FFLVRkbjBtNndwMm1TTURkejRtdDJ4aC1JX3NBUDdBWlFxa3NkYkd0aEZRQlpEN0lUT2pwaHpOMVN1MDJaZ01iVnVEUG1VdThlN3RYdmd1U3FlNDhmVHBpSXdSSjVzdGZpcGl4Q0tkbGEzMEIzbFRENEZYXzNlSjJldmpqdXpEZm5VMkVoMWFJdm1laWs1MUdMMlBNQXUzN3pwYXphcl9pMVRNc2lMcW5qWkp1ZE5mQ0lrZGFydWQ0NWtkeVRBSzl5NVNwcjVPMkFzY2RNUnpq?oc=5"
+      "headline": "Pnc stock hits all-time high at 258.2 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0MwUkVHZmVETFoxWUN1M3NvUGYzYWZ4ZXBmSm82TjVySkFDMW5ySHZOSGRJS2lUQ2RPTlpSRlRVeDVuVXlSWnl3dExIMnRFMnk2akJjTWxXY2FrNjlyMmtSbHhKS0VDQi1WbnZhQ3hVQ0Zyd0F0ZGthTXgzWUNveFlQMUdmd2lHWmpudXZHUFVOdG5hTTY5NjluQ1M?oc=5"
     }
   ],
   "insight": "Tracking PNC Financial Services (PNC)."

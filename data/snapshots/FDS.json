@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-17T02:42:08.221Z",
-  "builtDateUTC": "2026-08-17",
+  "builtAt": "2026-08-18T02:36:45.955Z",
+  "builtDateUTC": "2026-08-18",
   "source": "yahoo-finance",
   "1m": [
-    262.4599914550781,
     258.0899963378906,
     255.7899932861328,
     246.9499969482422,
@@ -24,10 +23,10 @@
     282.95001220703125,
     277.989990234375,
     287.17999267578125,
-    283.489990234375
+    283.489990234375,
+    276.760009765625
   ],
   "6m": [
-    209.17999267578125,
     207.32000732421875,
     203.22000122070312,
     204.80999755859375,
@@ -158,10 +157,10 @@
     282.95001220703125,
     277.989990234375,
     287.17999267578125,
-    283.489990234375
+    283.489990234375,
+    276.760009765625
   ],
   "1y": [
-    369.6199951171875,
     371.1499938964844,
     374.1000061035156,
     387.6400146484375,
@@ -411,29 +410,30 @@
     282.95001220703125,
     277.989990234375,
     287.17999267578125,
-    283.489990234375
+    283.489990234375,
+    276.760009765625
   ],
-  "lastClose": 283.489990234375,
-  "oneYearReturn": -23.302312109902253,
+  "lastClose": 276.760009765625,
+  "oneYearReturn": -25.431762274846008,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "FactSet Research Systems Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNFV3ajhLVkJpU29PQnBwdWNkMFlOS29DNTlvTU5SMEZhdjgxVGtTRDR0MGhzQUNGVFJmcmw5bHpSTTBRLWpMeVNVX084RHdfMFhiaHB3Uk5HaTZOUGNMUml5OXYxS01BSlQtZ2lYSkNieUc0WlpiOTRELVVJQVJROVEyM1dIZ3JpVFFPQlh6d0sxX1JVanhWOTBfcmR1bUtxdWRQajhoOGo0V3JielQzRm84eGdzUlp3aUg4OEpsMEVrYU04TmpKWmRIbUtSdXpZREUzUzJNZ1l1elpMRGJHOUUtcUp6UUh5LVFoNG0yZUpTaVlO?oc=5"
+    },
+    {
+      "headline": "FactSet Research Systems (FDS) Discounted Despite AI Workflow Integration - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZE1JYnlTWk5UZ0lodk0zX1pDd19TanNHUHIyV3VJU1dwQkZzR3NhY3dMbUlqZHZIVlgwTUdFRFdlY1Z1TlN4NGFVNmsyazZObi1vTnNNVVBPOTlqWXlnUFktd1lLbnFrSGFmbXZlcExtSHN0a3h1b3dDN2lMZXFuZDVNT2QyWVJ1TnFPUXFteDBLY2o2MWprRUcxNVBmVlpMWVgzVk9RSQ?oc=5"
+    },
     {
       "headline": "These charts show why stocks keep rallying. Profit margins are the highest on record - CNBC",
       "source": "CNBC",
       "when": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3NUYlVqelp1V3FoWUlCUlQ1R2R6S0ZfbTV5bzFSNE44RDAxWTNqX2pkQ1h4WXM4ZVBmWGdMWWlFdUlqV2FUeXVLOUhSWngyTmZ3SkFDb1ZDR1laMHV6YjRxOTJuWUlCUXVyREJkeFNpS0RuSW8wZl9LMEQ2OWhyWjAzSmtvYW9OUTFzX3hzaGZYdno4bUJHQ1RwV2RoS01Pc3lWVnRwZHh3WGtXXzVHdDEyUjNRSEXSAbwBQVVfeXFMTkZTb01XTEVhOGRVd3FzWUE5QnRGYVpjLXlTWmE4WE5fbUxYeC1jQ1JoYTlPQWl1b05WV3ZTQXVGMUF5dW5nR1JKZGJqVzlvenNoMlBDSDRwcTg3OHR6QXV6SzlzTGlIeTFtYUNmWldJUzhHYzh2VmR6Vkw5N0VBN0ZNbkNSRDU5eml6b3VsX0pQMTB5aGdvYWplNTJaM2JZSkJzNEVKd2NQeEVZWkVDUXR2T3dkNGhiMDFiaDk?oc=5"
-    },
-    {
-      "headline": "FactSet Research Systems Inc. stock underperforms Friday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQ0U3elE5VE9veEFqRHltbXVyNkxsVUJVdXE4SkprdlF5OExtSG1uaF84QUVLVThSUENMZ21MSzRaOEFlZmhMa0RiRUpsSk1NdVplODl2b1I5WFRQOEQyN3M4UnNUUGZlT3dVVk1GVzljRTIwUzMzNl9LVG9Hc0hYemZEdzhEdFV4ZzV4UjJqNUV0VnlNakxCdUFLS3pGQVJ0NEtwSDhCT3hkbkFET1U1blFxaERMNWhHNlQzam04ZURDakxGb1gxeVFOS1dtOFkzS0JPVDAtbzk2VEdHeUNBenY3NDA0MlZ2RHluTzVqTDhDSWs2?oc=5"
-    },
-    {
-      "headline": "FactSet Research Systems (FDS) Reaffirms Its Dividend, Is The Rebound Already Priced In? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZE9XWjdWbzlZWV9fRmVIMFN4Y0VtWEZIUmFtNXk3aDBqZmVTMTB0c1B2RmhNRFk1TjN5Y3pScEJrRzY0LWpFVzk3aXdkLU5STEpnSDZaNHBKOWxwNmM5WHE4Q0w1NnR0U3Z6aV9YTVBEWC1pYkJqSWIwa1ZBbjFNVFltaXdkU1kzVVBJWndFQVVPSnhDTGRmcjlCeDQ4Nl8tTE9KQlI2Wk0wWVhYVmpMQUVCUzltdS15T3F0ckw5dHhXQWRrZ20wVmdJVFJWdk53Q2NqS1hmVGZnS1A1VHFoOS1rbGdlUGljU0dIaHM3VdIB7wFBVV95cUxPZE9XWjdWbzlZWV9fRmVIMFN4Y0VtWEZIUmFtNXk3aDBqZmVTMTB0c1B2RmhNRFk1TjN5Y3pScEJrRzY0LWpFVzk3aXdkLU5STEpnSDZaNHBKOWxwNmM5WHE4Q0w1NnR0U3Z6aV9YTVBEWC1pYkJqSWIwa1ZBbjFNVFltaXdkU1kzVVBJWndFQVVPSnhDTGRmcjlCeDQ4Nl8tTE9KQlI2Wk0wWVhYVmpMQUVCUzltdS15T3F0ckw5dHhXQWRrZ20wVmdJVFJWdk53Q2NqS1hmVGZnS1A1VHFoOS1rbGdlUGljU0dIaHM3VQ?oc=5"
     }
   ],
   "insight": "Tracking FactSet (FDS)."

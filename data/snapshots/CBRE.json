@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-17T02:41:57.486Z",
-  "builtDateUTC": "2026-08-17",
+  "builtAt": "2026-08-18T02:36:33.839Z",
+  "builtDateUTC": "2026-08-18",
   "source": "yahoo-finance",
   "1m": [
-    143.69000244140625,
     140.9600067138672,
     138.6199951171875,
     138.27000427246094,
@@ -24,10 +23,10 @@
     147.4600067138672,
     147.39999389648438,
     151.88999938964844,
-    152.86000061035156
+    152.86000061035156,
+    147.9600067138672
   ],
   "6m": [
-    166.17999267578125,
     169.6699981689453,
     170.97999572753906,
     170.3300018310547,
@@ -158,10 +157,10 @@
     147.4600067138672,
     147.39999389648438,
     151.88999938964844,
-    152.86000061035156
+    152.86000061035156,
+    147.9600067138672
   ],
   "1y": [
-    158.92999267578125,
     157.83999633789062,
     159.97999572753906,
     160.83999633789062,
@@ -411,12 +410,19 @@
     147.4600067138672,
     147.39999389648438,
     151.88999938964844,
-    152.86000061035156
+    152.86000061035156,
+    147.9600067138672
   ],
-  "lastClose": 152.86000061035156,
-  "oneYearReturn": -3.8192866955028,
+  "lastClose": 147.9600067138672,
+  "oneYearReturn": -6.259496865973809,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "CBRE Group Inc. Cl A stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdnpKejlZV0pUamFBaXV6VlNjNWdHN3lhQnJ2S281WXI1WDFaWjZaVldneHByS3lqcmQ3SlpMNjhITldNdnNIWTl2azRhdVZjaUM5aVFhV2daU1BnVnJtNUhqR3YtZWRUcGFlblY3WDFQRFFnN2VNbkQ2RlMzbW9rRjVPNnFmNGxVNzF3MjNEZ0xleXlwTUN6RGU1RDFicmdfTnFYbkJWSEJSRnR1clN3cFhSWUNNZ05KbVF0TjE2YUFDUUpxOWpWa056b3VrWUxUWllQX3VQX284SGhvYjhEWWd6U2djWkJ2?oc=5"
+    },
     {
       "headline": "CBRE Group (CBRE) Stock Sees Modest Fair Value Lift As Analysts Turn More Positive - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYTJXTk4wSUptbldiQUd1SHlTSWMzc3VkV2hKMHRVQl9FMjVBQW56ckIxQWwyUFF5akFwYjl0cGR5SlRPUXlmaGtMcjlVbUkzMlhfWHdwX0FPdE1DejNDYlUxUmRiZEVXa1lhUUNQYmR3UHdOeUNObVdmV09aaXZ4X0VSaFk5OGhjdnRObzhNdmlaR3Q5YkE?oc=5"
     },
     {
-      "headline": "CBRE Group (NYSE:CBRE) Insider Sells 228 Shares - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1NoQzVmUFV6amRuLTZtQnZuNFpzZldKczBPVHJDeENpSkE2bllfazMtYWViZmtWUGxNZ1Y0d1ZJd3VmM1RyNXIzNTJBeXdLRWdZeTc4Q3JMbk9PYUFaNXBHOTBRN0JPSDEzdnVmRy1jdU9id05rUmRfZUVkQVJvQ3Jva2NNVll6R1VoQ1R2dGRwQXJNdWV0VWhNNGQwM0U?oc=5"
-    },
-    {
-      "headline": "CBRE Group Inc. Cl A stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOalZDdGtUSEpndlN3eUNsN1BBSkJXS3JFa3Vvbk1KQUthc2gzQjdjRE1CUTVvcjZodzFJSDI5T1NIUDBmV3BsZ2c5cEZGSWVOV09hVDZ5NDJCWGpUTHI3MFZicFdmMmlyeEJaYmlkd3dsWkVCTXdmVjNHNTRkQXF3aG1Pam5ycFlmbW1tZTlXNXFRaF9IeTg0ZjdMRWhLdWhlekRYaDlxT3F4aDYyb1V5TGhHYjFlY3NmVlkyUU5GR2tzOEVIR0NzQl9rbw?oc=5"
+      "headline": "CBRE Group Inc (CBRE) Shares Fall 3.2% -- What GF Score of 93 Te - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY21aQlFialA1Z1JCWmo1YVZLRWdGSmp3VzNveER0bVhJVkhxb0loTE56T05nWXlNek9ZdGZJQU96a1N4NWk5UTFaTzdNY2p0ZzVZSjhkdDhCVDFVYmxhM1N3ZlRZalVaWVZRTXdLUk1XbElXY1RKbkl5R2hmR1JyZGZ2N0k1akV0eDhxcU56amJuTnJFNVZoUHQ0d1BtVl9JM1IxNFRvZnFmSHJ6SGc?oc=5"
     }
   ],
   "insight": "Tracking CBRE Group (CBRE)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-17T02:42:17.544Z",
-  "builtDateUTC": "2026-08-17",
+  "builtAt": "2026-08-18T02:36:56.599Z",
+  "builtDateUTC": "2026-08-18",
   "source": "yahoo-finance",
   "1m": [
-    118.79000091552734,
     116.33000183105469,
     116.66999816894531,
     116.62999725341797,
@@ -24,10 +23,10 @@
     125.61000061035156,
     120.87000274658203,
     119.55999755859375,
-    119.55000305175781
+    119.55000305175781,
+    115.73999786376953
   ],
   "6m": [
-    170.08999633789062,
     172.85000610351562,
     175.67999267578125,
     180.6199951171875,
@@ -158,10 +157,10 @@
     125.61000061035156,
     120.87000274658203,
     119.55999755859375,
-    119.55000305175781
+    119.55000305175781,
+    115.73999786376953
   ],
   "1y": [
-    198.4600067138672,
     203.6199951171875,
     197.66000366210938,
     198.1199951171875,
@@ -411,29 +410,30 @@
     125.61000061035156,
     120.87000274658203,
     119.55999755859375,
-    119.55000305175781
+    119.55000305175781,
+    115.73999786376953
   ],
-  "lastClose": 119.55000305175781,
-  "oneYearReturn": -39.76116143938214,
+  "lastClose": 115.73999786376953,
+  "oneYearReturn": -43.15882494881764,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Lululemon Stock Fell 43% This Year, 40% in a Year, and 68% in Three. Here’s What Changed at Each Stop. - tikr.com",
-      "source": "tikr.com",
+      "headline": "lululemon athletica inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOWhtV0N0QkdST1lYd3FIOHFEZi1SdktJaFpxSDY3U1FjRGdZVkk5a2hMWkx0Q1Q3eHlvRTZvLXotZXVqbDNDT3dLT01BQjBTaUJnWV9GU3UwX0NJZVlkQWJoU0RlTUpEWXA3ckdQdFUyRTV3VlBYN0hPMm83QVB6SEd1QUdQM0lpY2N2a1lkVmNkc1N5dmxJX19YM29MZjlkNVZTOWFULVhmRl93d2YxLWJZbmcwa2VnT1BZbnRPYk56ektRRVZhMjVnNnBhckZSWi0zcDhn?oc=5"
+    },
+    {
+      "headline": "Lululemon Shares Slump Amid Sector Sell-Off, Soros Exit - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaV9wSU5TMndoQWdtM2FkUlBWV01kYWZMYzVmNmtkeHUyTmp6clN5WFZteUpvQkNYOF9nc0N0R3M3cVpQaW5mblNEcm9kZEQtNHVaUGJXUDB3VXc4YjNrR0w0NEY0bnotN0JPZkRuUWRVcWhqNWFPeUVCaU5Ra2RBWktGcjZYYmtQUjUzaTFFa0pfTlpZckJ1QXBTMkZIak1hai1Nc2VEN0I5ZlBFeF9GRnVYMmdoZw?oc=5"
+    },
+    {
+      "headline": "Lululemon Stock Fell 43% This Year, 40% in a Year, and 68% in Three. Here’s What Changed at Each Stop. - TIKR.com",
+      "source": "TIKR.com",
       "when": "2026-08-14",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSlpxTG1DSDhNWGJ3Q1pzdUxlRlhSdTB1cGlqQV8yeW1JVW04MEN0S1I4dWZfdU1zaWREejBJNDJTU3ctSy01YkpJMGJ2RnNtWlVKS2xPMnVkSUhYWjRQWmlDYzBfazdtMUF6cHhqS0NrRmZ3d0EzeEZhdjI2WHhrS0dlUW9KS0w1RW1YMW56ZElCWThSWUgyWllvRUlWczduVFZTWXVwRnlDcHhzZVVtMDB3N3hIUG9mamVCSg?oc=5"
-    },
-    {
-      "headline": "Lululemon (LULU) Stock Could Trade Below Fair Value After A 70% Reset - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdmR1bDJwQXgtMU1zM3ZpRnZnbWV1NWY3UGdWZm5INUtDZW5qWHdDdGVCQ2w2aHFCMFIwTmI1LUkwdjk3WWdBcXVFei16a0EyN1VQdWhvTVZZeFp1VDRZUm9fSDRNQjd4OUZ0cWV4WmtibEhQclNqMU0tZWRYWGdRZDRtY0tMZENKbTczSThtWDg3bFQ3V19NdEFFS1hSdFJRRUZpdUZGVGJOWTZMNHY3cVJkVFBMRTZXdUJKQzJaYW9GTVpFTXI4UUtyZV8wUnFhaElWRDJnZFMyOEJ1S0cwdNIB5gFBVV95cUxPV3BvRDk4djA1S2RyakI0Rk9MclhjWXM1VUptX3VpQm9XZU1KMDh3TDNBOFJycDN4amEzSlFhVDFrVzhCQTVQZHo0SmUwVjdZRzN6S19zX0t4SHp1UmRZMnVjQmp5Y2lPR05saWVVRGxnLTQwU2ZqTDMxbnllN2c1aEFfUnZUWUx4Z0JNOEtnRC1fN1F6dFYtZXVFRXVMOXd6VDd5RXVDcG1kM3pjOElCek9NYnBPTEdTcUtwOHNOU241ZVdYdmR6N2k3NzhkMW1GZjRxOFVoUUNId2xIQl9sb05XeFNHZw?oc=5"
-    },
-    {
-      "headline": "Oppenheimer Asset Management Inc. Makes New $4.26 Million Investment in lululemon athletica inc. $LULU - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOX3Y1cHFGbV84eFBlRTZrWUNsUXlyNW5xR0pPYkh4SmdSZkg3M3dMYjk5UDV1OWhuNUFCNGR5NFo1bGdXbHRRbWYyZ3J0bTlnRXpTQkhWQmJGU3VPVnRvWnBQbnFHQWlhSlhwWDNMMDF3TU1UOHNfb3QxZU5IaGxBV20yQTlSMW01VHVXNW5WVENlTjUtVUpTOW5GRmF1eXRUZHlxM00tTjhPbzJyQ2cwRkJNNFdaQ21PaDlfV19aRl9MOWlKZEF5VW5pNXc2a0ZSWFFCcklBdEJRaXRYRmJEMkRRLTdlS1MyQUttYmJVNA?oc=5"
     }
   ],
   "insight": "Tracking Lululemon Athletica (LULU)."

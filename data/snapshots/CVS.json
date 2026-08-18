@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-17T02:42:02.018Z",
-  "builtDateUTC": "2026-08-17",
+  "builtAt": "2026-08-18T02:36:38.956Z",
+  "builtDateUTC": "2026-08-18",
   "source": "yahoo-finance",
   "1m": [
-    106.5,
     107.47000122070312,
     107.61000061035156,
     110.5999984741211,
@@ -24,10 +23,10 @@
     93.5,
     94.72000122070312,
     94.98999786376953,
-    97.16000366210938
+    97.16000366210938,
+    94.01000213623047
   ],
   "6m": [
-    76.33000183105469,
     78.3499984741211,
     75.7699966430664,
     75.69999694824219,
@@ -158,10 +157,10 @@
     93.5,
     94.72000122070312,
     94.98999786376953,
-    97.16000366210938
+    97.16000366210938,
+    94.01000213623047
   ],
   "1y": [
-    68.5999984741211,
     70.16999816894531,
     70.97000122070312,
     70.81999969482422,
@@ -411,29 +410,30 @@
     93.5,
     94.72000122070312,
     94.98999786376953,
-    97.16000366210938
+    97.16000366210938,
+    94.01000213623047
   ],
-  "lastClose": 97.16000366210938,
-  "oneYearReturn": 41.63266154993044,
+  "lastClose": 94.01000213623047,
+  "oneYearReturn": 33.97463957443264,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CVS Health Stock's Next Leg Sits In Aetna's Unfinished Margin Repair - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQckpUWGYtM3BMUkZ3MHVubG1LOFB2OHVnLTdpUTk5Um43a0RJYWVJVlQ1N18yTkp3bUhvaGlKTmpKS3NSZ1NQYlZqeFNvUnRNNXpscXFWSTlQMDliUnBES0x6ODVnR0lyemEwU1U5WUFiSVJSTjdFTGZGYl9fcXZqVlpITnhFQ0NQaENzY2lpMGE?oc=5"
+      "headline": "CVS Health Corp. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1NHUVN5cmRkdFltTjlMTXJLdVJOTVhwcTl1OHc3NEs2NVExa0VYd3NWb0x2V25Sb3ducHFTY0xWQU1BU2lhZnVHVDNPdlU0cGp5TlJIa3cxNWVLTHowQW10QUlOTkZuQXRJek5KVDFPTVJUN2IzMjYtX0N3YW5EQzg4OElSMW40ei1GUjVrVTU4bFBJUWFfcy1xUWJ6aFVrcmY4TU1ZNFFvaFFJWVY1ejZWWjM3T01DeTlBXzZReHRCQzJvX2h2UmJyZw?oc=5"
     },
     {
-      "headline": "CVS Health Stock Is Up 18% This Year. The 2027 Outlook Just Spooked the Market. - tikr.com",
-      "source": "tikr.com",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY292aUFVOFMyUVZPU1pJaHJsUEsxRkpqczM1eTNXUUFRVG1rVHFkbXNuYUlySElTUTVQSEVuOGRObVB3VjgtY0gtckhzUDN3X3kzNk56MHlwcTVMRDFhLTg0V0tHdS1ubjBmZXhiNTJkOWJvVVVWdDJvREN6NENFTGpacEJUclYxRmY1TldCX1ZPVmFtNVllcUVfVWFmWFRWNjEtaw?oc=5"
+      "headline": "Why CVS Health (CVS) Stock Is Down Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFVBVzlYUlRack1RU2IyaG55ZHcyMVdtZXV4UEswMjdwRGVtMUdDbEFaYXc5azZzMkZXbGpMNFNVXzRHVU1DaHlEVnJ6YjROQ1V5Ny1STmZRS3hXYVV6OU95SzVYaEdlbzJ1T3lsbHVab0lGTTVGZ2JYVk02Y0JjNHEyZw?oc=5"
     },
     {
-      "headline": "Orca Investment Management LLC Invests $3.60 Million in CVS Health Corporation $CVS - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX2RFTWtaU3pvWXI0RkNzY25WMHJXa0p5cEljdDJYRDF4Y0ZWSldjQV9Ha0dITndDbG94TjlYYUgweFo1M2FkT3JUa0FIWmJUajdPdFBzN2FOZ1dSbWdWckFER1VzVVFlMkptNEtUenc5d0k4bldDaUtBbXkwbkdiOFZSQWM1Q2NJVFdQX3lUMmpfRWtXSnFTTjFNdFNsQ05FVUJ3NTluOVhKYzRDYmRKWHZqY3BVYm5tS0ZBRHIwb3VEcERLZHhseU9MN2FNSnRpVjhqaFB6NDI?oc=5"
+      "headline": "CVS Health Corp Stock (CVS) Moved Down by 3.46% on Aug 17: A Full Analysis - TradingKey",
+      "source": "TradingKey",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRjUzMHI2UXpIMENFYUFVX2xCbFB5MWtPTXZTbGVFcWJvM1Mzb2dyV1ZEdzRtS29iUUtpbHdlVER3OU5sVWwtN2hRSk5vSndoQndrcThCT05TNGE5bmExNk45LWp6a2lHSm5yeXVQTS1vTm9qQ1NiMkE1SHlyZW5OcFkyYnl5aS1selE?oc=5"
     }
   ],
   "insight": "Tracking CVS Health (CVS)."
