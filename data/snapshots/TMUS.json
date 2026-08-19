@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:37:07.567Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:40:01.103Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    192.42999267578125,
     195.63999938964844,
     190.77000427246094,
     190.94000244140625,
@@ -24,10 +23,10 @@
     177.1300048828125,
     183.3800048828125,
     182.61000061035156,
-    180.1199951171875
+    180.1199951171875,
+    182.75
   ],
   "6m": [
-    197.38999938964844,
     197.66000366210938,
     199.42999267578125,
     209.5399932861328,
@@ -158,10 +157,10 @@
     177.1300048828125,
     183.3800048828125,
     182.61000061035156,
-    180.1199951171875
+    180.1199951171875,
+    182.75
   ],
   "1y": [
-    255.17999267578125,
     258.2200012207031,
     259.010009765625,
     258.1600036621094,
@@ -411,10 +410,11 @@
     177.1300048828125,
     183.3800048828125,
     182.61000061035156,
-    180.1199951171875
+    180.1199951171875,
+    182.75
   ],
-  "lastClose": 180.1199951171875,
-  "oneYearReturn": -29.414530806872925,
+  "lastClose": 182.75,
+  "oneYearReturn": -29.22701605759741,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMU9YVi1HcTFHRU5OOWdXN1o4VVhfU1hscHBHLXZ1eVBleHc4VEFwOFNqZVJhRjhBYWl5aTNvUjZxMkpjQ1lSX1hqWUZmeHJjUC1VQmxlbUdNSzdvMFZ1WE55Q0N5czBEWXUzZmZzdktBdWRxWjFMckVkRTlZN1V6TENlTl9zMGNQc3hrX0dxcUhlQQ?oc=5"
     },
     {
+      "headline": "Trust Co. of Vermont Takes $3.26 Million Position in T-Mobile US, Inc. $TMUS - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObnlHNzY4NXlyV010M3lhOWo5VzRVM3E1NVdNOHV3UExEVlBaTXB6X1UyWEl6TGo4R1BFWUZFN040WUl3WlhvNkxtdG5JaXk2UlBmTDlhMUNrekM1Tk9tTGhvY3BubVBsQ1RkSnVLUnZpR3JsZEJQZXZzOFRIRDlhQWRQRE5Sd1pyT0pyN0RtMTk4WldTVl9yMkRwOFA4Q1YzaE13YXpJTkM3QjRVSktnbXpWUERMYTI4ekVRdFRxTk9lX1RGNl90a19HMA?oc=5"
+    },
+    {
       "headline": "T-Mobile US Inc. stock underperforms Monday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZkozTUlESVU3eDRLSjVxS0Z6RWFBZ0dhTElqRi1BMThNME15SHhZNXhlZUFvSDhBYXNpTmkxOEZ0dXh0S3g4VEkwamlXbG1wQTZfd0owLWVkV242LVl0VDNjNkxZNzdUdjZrUmRDT09oQmRaMUhyYWt2WnRTZldfWnhBZWFwNUdKaGN2eVRnM3V6c3R1ZFZxdmVRSUs1SVM3TkowVDZLdkVMTXZndU43V2FMOHFLVVk1eTFITjMtNnRGbWVKWEVwQTJ6SmNWdEtDNDRXeWRfQWUwTTJnZXppVEJxWQ?oc=5"
-    },
-    {
-      "headline": "T Mobile (TMUS) Stock Looks Fairly Valued On Raised Cash Flow Outlook - sahmcapital.com",
-      "source": "sahmcapital.com",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOU1QX3VyQkJsWFUtLXdSbmhxTlVNdDNYVWhsbVhEdUU5emZCX2pIRjFXa0ZPcnJkWkxiTUdDNDlMbFhlNlA2MGhjczlYRlFtcjJucHB1cWlTYjdEMHVCVjFyTUQ2UDhxVkpnMEYyTlAwaGxpOXhlcVVKVm81Zm9yLThwa1c0a2hwQkJUUkxSUmZmdk1CQk9jVEZjQWNTV015UExSNXJpcXdDM0QwMF9pcDBHZzZubHBlN0Fr?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYlNvM0xJSTE0ZVRCcTNfX3NGbXZWSkN2VzN0VUd3ZGtnT2hpV3FVSEd6NGR6LTJ6c01ZN2lBUHR6SUVUODBrcGZqMURab29Iem9feXA0NkpoU3hMdVV3dko2YTVQWE5lRzhlRFpoZE1WYzBpNTRmTFdQUHJaeEYzd2NsaWFyRTFNMy1FN0IyNVlvOENMVm9HZk4wU2JBdHZzOVZGSWtlMzFvMExLSlBhRFFSVENpanF4Vlh4bXdfczFyV1poRTIwWi1rVQ?oc=5"
     }
   ],
   "insight": "Tracking T-Mobile US (TMUS)."

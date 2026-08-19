@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:36:24.632Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:39:24.505Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    254.38999938964844,
     254.49000549316406,
     253.3800048828125,
     256.1000061035156,
@@ -24,10 +23,10 @@
     248.75999450683594,
     250.82000732421875,
     249.4600067138672,
-    250.3300018310547
+    250.3300018310547,
+    258.9200134277344
   ],
   "6m": [
-    219.02000427246094,
     223.42999267578125,
     223.25999450683594,
     222.44000244140625,
@@ -158,10 +157,10 @@
     248.75999450683594,
     250.82000732421875,
     249.4600067138672,
-    250.3300018310547
+    250.3300018310547,
+    258.9200134277344
   ],
   "1y": [
-    206.57000732421875,
     206.19000244140625,
     209.14999389648438,
     209.5,
@@ -410,17 +409,18 @@
     248.75999450683594,
     250.82000732421875,
     249.4600067138672,
-    250.3300018310547
+    250.3300018310547,
+    258.9200134277344
   ],
-  "lastClose": 250.3300018310547,
-  "oneYearReturn": 21.184098831033644,
+  "lastClose": 258.9200134277344,
+  "oneYearReturn": 25.573505195196166,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Wells Fargo raises Abbvie stock price target on HS drug potential - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUmt3cjVGV3l0VUxKU24wNmlnX1NsVDhrS0hXSVRoUmRScVFYUnV1ZVZHT2ZpZENJQjFfTy1VQmNCNm1lNTNNMmE5Mm5EVk4zSXFQbU95cUp4YklZdXVhTTVaSTdQdUJFeDlqTUc1Si1XWnIyaDRZWDREenRYSm5WSVN0dENIZ28yVWdia0tlVld3M3ZYZUJ2ejBFb1dSQjJsUDRpM0d3dW9ab1ZJbUxLdURwLUtBakRXcndTSzB4MWhlUjQ?oc=5"
+      "headline": "AbbVie Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZlZGVFJhNWJWOXVaeEpMMVN6VDRhWTE2dDZJZmdQSTlnNjJqeEFZa3JwWXFiQ2FWZUdTVWFGS2R1ZW5jZEFoRU1kazJiYlNVbldxNHN6QS1SV3Y4bk5rYXUyU25VVjEtMjBDczFrT1g4X0NmV0hZWFhOTVBuTTRGT1o2d3dZQm9vYXVTWU1HWlF3cU5nNl9pZUxHQnNxZEdsSXVZdV9INEotd1hHWGN1Ym5hN0lZMk1WVGwwRWN6S3Mwamk3ZS1Hb0hSeEJTV1NLT2wzMHVLZw?oc=5"
     },
     {
       "headline": "AbbVie (ABBV) Stock May Trade At A Premium Despite Cash Flow Upside - Yahoo Finance",
@@ -429,10 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY3NIamdVWEJVS1RZWG9CLW1QYVhJZXFPSDhBeVd3MWlKVURpNWVVUTRpd0djM01iVHlUb29OVThQaktsRy1MZWRVOG01dHJldDMycF9kWHRpdWY4VC1Ndmhub2RyMlhfWXp1aXh3Snd0QUhtcUVPT2phY1FmTmhYVW9Pd2dOYkZVWURDQmJjSy0wVVVoQXdn?oc=5"
     },
     {
-      "headline": "AbbVie (ABBV) Stock May Be 45% Undervalued On Raised 2026 Outlook - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSWdOWTE0bGFjZkJDTmhUeWhMT2ZSWWN3ME5zS0tRUlVDZmFOS0d4eUxwa2F0MFNYXzFQcFNDWDZLdDc3NDd1dTdXT1NWb08tSWxFUmFVLXdYbGxBMFZkeE9vTEVfOERRRGM1MjB4VmZaMlk0Y0pJQ19LV2RIOWJxRjZ2ei1hcEI5MGhOQjVmTmpQTWMxOW01a0hVNzZVanZKZnBYY1ZtWU96N1RMYjMyWjR2V1ZPQ094NkdVeXlMQmQ3dk8wTEtERFk0XzYxVkluS1pERtIB2gFBVV95cUxQY1N0cTh2azFqN2U0RFYxVFFKTWtwMjNnU0lVdmU1RVZoU0llZ0ZaRkRNbF94TnZwb3ctajdMUkdOTXpDVWVfeHBtOFJwYmNUSG9fVWJUX2lHbHMxNjAxN0pTcXlVTjNhU2tBMmZvQkVIaEpzNmlwUmhvU2tWcm1OQnhJVVdjb3JXUEhFOUdrTDFxR2NOTHJGMVdqZzJRSWRxaTZnVFJ2TEUtRGZDSU5ZTjdVRVdYOTFCMFEyeExiZGVRZnJ2RHpvUUdxS0NGdXpweTJsSHVvQkgzdw?oc=5"
+      "headline": "AbbVie Inc Stock (ABBV) Closed Up by 3.48% on Aug 18: Key Drivers Unveiled - tradingkey.com",
+      "source": "tradingkey.com",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSG5IUFVqdU5aTE5venJ2bmRVZjJPY05ZQnlpbFFVS1dfQ0FIQnc1Ym9pc3RVa0ZtMEZZdkpBUGUzcGxVeVczYXg2STJaVXF2Si1jYzBxal8zZDdHbFdvbXlPbko0My1OWk1QWnFoMjVCNW91Rm9TNE8zOFJ1cFNMUnUxdlQ5N2ktb0U4?oc=5"
     }
   ],
   "insight": "Tracking AbbVie (ABBV)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:36:51.141Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:39:47.244Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    24.84000015258789,
     24.219999313354492,
     24.809999465942383,
     25.100000381469727,
@@ -24,10 +23,10 @@
     29.280000686645508,
     31.299999237060547,
     30.110000610351562,
-    29.399999618530273
+    29.399999618530273,
+    29.959999084472656
   ],
   "6m": [
-    19.649999618530273,
     19.43000030517578,
     19.809999465942383,
     19.760000228881836,
@@ -158,10 +157,10 @@
     29.280000686645508,
     31.299999237060547,
     30.110000610351562,
-    29.399999618530273
+    29.399999618530273,
+    29.959999084472656
   ],
   "1y": [
-    26.829999923706055,
     27,
     26.469999313354492,
     26.579999923706055,
@@ -411,29 +410,30 @@
     29.280000686645508,
     31.299999237060547,
     30.110000610351562,
-    29.399999618530273
+    29.399999618530273,
+    29.959999084472656
   ],
-  "lastClose": 29.399999618530273,
-  "oneYearReturn": 9.578828558077841,
+  "lastClose": 29.959999084472656,
+  "oneYearReturn": 10.96295957212095,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "HP Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN2JqZFZ0bVJQbzNjTGxnOThvd05wRWR2VnZmU3g5YXZYV3BtS19SM0Mxa0o1WU1ZVlhvUmQwSmI1bUtGNmFHaGIweUN0ZklkLTFBaGtGR0VqMkFtel9COVN3S2pneW9nQjNIU2w0Z21GVElhdmR2QXdyLWV6dkZDWmNSa0FiVTNNeEpxVEl5OG9YUmhuM0RSU2RxV3pTeXZhV0o3QzUtQU1vb3JpYlp6bHNBVlMyeU1pSGlKOGNMbm5paUo3M3BkWHVOTlU5RlJUN0g5ZjRxdw?oc=5"
-    },
-    {
-      "headline": "HP (HPQ) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ1lDOXRxdDRFdGZ6NFRST2JhWUUzNFBfMGxZc1RNSnVLaXRLYVdVc3czdlVfU2tWT1RBZkwtSjV0SGdJWWt3VkYtYTRUaHg2RjZmUjNkczFFa0JXelhSZUJ5VGk3SXgyN1dETEdQVUhzd29VeUpOb3pBelJFQmYwZkdzSjFHSWxQcmE3VU5FUHh2U3M?oc=5"
-    },
     {
       "headline": "HP Eyes Fresh Low After Dialing Back FY Profit View As Rising Memory Costs Bite - Stocktwits",
       "source": "Stocktwits",
       "when": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFFjN0JVVTlfSkRUdkxXY0JoUjdRZ3R2Wmh2S2xfZ0pXUlR6Qm43RktZWFUzVkdzV2I1RFQxaWFGbmVBVzhIZGNJZWVBNW9xb0haRUZtSFZ2dzBCbFNkUktDbnJhUThPWXE4STMzeFZLRWhGZWRkdlZJNExDU1drTHFfWEp6ZzJsSGxLQUU4MzBKOXF2QWtUYkdkWkpUTE0?oc=5"
+    },
+    {
+      "headline": "HP Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRUxubk9Qd0hqN3BWQjY3LWczLUtGYUNvMlRkNVZ1bkxkT1V3ZF9KZFF3cmQ5RC0yX1VYZ1B1bTdZR2ozYzNvTHk0LURrenhyNUpoUjVwMk1rNHdhckF6TlNZVnpSSWJuRzBHOUs3VEZVTmVTenV4ZjVEV29rSVlpaEs2TC1Gc0t6SzlJanBnZUlESV9lcDZnS0tvT29oQkVRLU5Lel96a1R6OUQ3aG10OC1Nc2oyRnFic1RpeDV2cw?oc=5"
+    },
+    {
+      "headline": "Commerzbank Aktiengesellschaft FI Buys Shares of 3,673,187 HP Inc. $HPQ - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSE1BdTBVVFpEY0xodEtWOTNYM3AzdGdWaVpMV3VMbXdmT2ROWnNzQkwwZkVRYm1KcWlKbDl1dDgtM3lVRXZvVWptNTgyMlE4SGV2Z1ljdndhT0tHZWdnZ3VJaVcyYjhfcHdubjVXMG1md2FtcFk5cE1zMmVmcE5QdlhZdnhuVzhBUzcwRlhOd0g5RUp0eVNzUGN3aU9aUnZRakZBb2htWUFjYmp0Qm1Ra3o4UVpjT01FREdtMllnUHItRGJJZ19N?oc=5"
     }
   ],
   "insight": "Tracking HP Inc. (HPQ)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:36:30.811Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:39:30.120Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    22.610000610351562,
     22.06999969482422,
     22.209999084472656,
     21.739999771118164,
@@ -24,10 +23,10 @@
     26.950000762939453,
     27.049999237060547,
     26.729999542236328,
-    25.90999984741211
+    25.90999984741211,
+    25.940000534057617
   ],
   "6m": [
-    21.729999542236328,
     21.729999542236328,
     21.940000534057617,
     22.270000457763672,
@@ -158,10 +157,10 @@
     26.950000762939453,
     27.049999237060547,
     26.729999542236328,
-    25.90999984741211
+    25.90999984741211,
+    25.940000534057617
   ],
   "1y": [
-    23.610000610351562,
     24.329999923706055,
     24.270000457763672,
     23.850000381469727,
@@ -411,12 +410,19 @@
     26.950000762939453,
     27.049999237060547,
     26.729999542236328,
-    25.90999984741211
+    25.90999984741211,
+    25.940000534057617
   ],
-  "lastClose": 25.90999984741211,
-  "oneYearReturn": 9.741631417206046,
+  "lastClose": 25.940000534057617,
+  "oneYearReturn": 6.617347371147546,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Pzena Investment Management LLC Takes $1.39 Billion Position in Baxter International Inc. $BAX - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSWdCQUZRYXFreWtZZ3VraFFNWTUtaFh2TlNaN0ZRcm1tRHlKYXB2ZkNybEptSkwtZTNUeUNMM29MV0diZHB4VEYtRThkUEszOXNTam5vTFh1aXZ2bVVVeDE0aDFQVzBUYkFpeGszM0VwQXdDWGtvUDZjV01Hb3JfNjdaaWRXbHVCSnhwelNtbkNaR2p1LTY0SUR5WmxpbFdmZmxPLUc0dERjTGxJODMyd3BDSFMzUmlhNUtVMnpUMG4td2EzRUxGbjY5NEg4UTV6WHhENFJ6SWFhenIzR295Y2J1U0Radw?oc=5"
+    },
     {
       "headline": "Baxter International Inc. stock underperforms Monday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaDFSXy02MVFycXp2bkYwMGY1N3VpVElmaDJWRmdFNkMya0luVXBxWWtnVjA0SUFzX0ZkbThoR3NXaEliY0JITEZlQVVmRkZsYlNodFlLaTQ1Z0R3T01SQjNZRVM3VFE3U0FjUE4wdnlJSHhvdC1MMTdGam5nTWI4Zy1SZDZYSzNLU1ppT1djdl96RUpfVmg5ZVdQV2xuQXlZNDZ0VHVyUWhUbFRVM2dJdnI4bTRjZjBwczUwbk9xZ01BdWM5b0sya3RxVVJsY05ZYlUzVXc5NWRiN0FuX1ZZRVRGZzZGQTBETmE2QUpFOA?oc=5"
     },
     {
-      "headline": "AMG National Trust Bank Invests $2.52 Million in Baxter International Inc. $BAX - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTWpIU0JsZU9TNUJneVhYVnVHMlFfeVVKeHFobk9jd0gyOG0wUHA0SUhucVY5M1JtVm1GUWpIY0xHMmY0ci1ZalpJc3VESElzbzZXUU1sbEhKbW0xazBhb0NkbnBHd1hmRlFfc0VVYTZsRWxIVF9BaXozUmQxWHhFN1Y0MmNOVnpRcWwzaUlzQXdBbU15eU5pX0ZOdS1pdFpUQksxU0puU2xtLVRNc2xPWk9GYkFjQWN5MTlXdHZ4Q3JKTWo4Y0pMUHBPM3lQajNGaWc?oc=5"
-    },
-    {
-      "headline": "Baxter International (BAX) On Earnings Beat And Higher Guidance Has Fair Value Back In Focus - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkEtZnNFNHRUSUt6SGJva2pwdzVaZlZwVXBTcEkxYkpHT21MYjE0SGNabEdmMWl3SEpaYk5MQjhJMkNnZTUwdVpvNk05cG9FVEhHT184TGZDN1hiQW4ycEhpUzJSTGM4QVo2N0xRcHJuQ25UZWZ4Y040cE9Ga1UydFNZSlhYRHdfOTFwUzlUVWJPbWNidlRSeEVBdlQ1cnN0aEF3SDRCM0V3ZUZ4bVRFUUd6eVhQUUFyVEYwNC1Xazg5ZzBjS2ExUzFqanAxM3hxQVR6QtIB2gFBVV95cUxPY3kzdVpZenB2RFZIVGpZYVlGZEJZNmh2Vk9LNmZPS1U1TUxJbTBVRFhoeF9DQldselV3QWJlS2JzY3kzQkJOSE5MNm9zX29helBVaTZsakJYNlpQV0MyekJEakhWWThNVHdRb1pWczF4UVVCbWtkbk5qX1VCYkl0S1B0UWpCZkhIYkxybjZTWXlXNVdabEVnSWVwVDhkd3RvcG9DYkE3UHJRMGtMTW9DRkExMXpyR2VCdTh0OVdtdVlxeXVHZXFpS0VrMkMtWG5PZU13Y1lZbkdSQQ?oc=5"
+      "headline": "Reasons to Retain Baxter International Stock in Your Portfolio for Now - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHpPeV9kTmRUU0tUT0ZPOGwwaFpMc1MtVlJ2aXN6MnFnU2RiWHp4R1R6NkdCYndDNkU2YnZIbklCWmIwWF9seGhxVTkwN21UVlE5QXNPVlZQZGczaGJXcEp0eTc5cERMREoyeU01SUFSbTNqcEstV0s5T3hpSGg2aGliaWJtLTZ1ZlBRVFJkbktjUVRzVlo4Zk5PT2R0MkQxN3pmLWMxdU9iQQ?oc=5"
     }
   ],
   "insight": "Tracking Baxter International (BAX)."

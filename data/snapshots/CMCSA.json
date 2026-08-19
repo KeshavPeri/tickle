@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:36:35.741Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:39:33.971Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    23.790000915527344,
     23.780000686645508,
     23.809999465942383,
     23.520000457763672,
@@ -24,10 +23,10 @@
     25.469999313354492,
     26.18000030517578,
     26.18000030517578,
-    25.56999969482422
+    25.56999969482422,
+    26.200000762939453
   ],
   "6m": [
-    31.3700008392334,
     31.610000610351562,
     32.310001373291016,
     32.47999954223633,
@@ -158,10 +157,10 @@
     25.469999313354492,
     26.18000030517578,
     26.18000030517578,
-    25.56999969482422
+    25.56999969482422,
+    26.200000762939453
   ],
   "1y": [
-    31.330833435058594,
     31.76194953918457,
     31.19962501525879,
     31.490158081054688,
@@ -411,12 +410,19 @@
     25.469999313354492,
     26.18000030517578,
     26.18000030517578,
-    25.56999969482422
+    25.56999969482422,
+    26.200000762939453
   ],
-  "lastClose": 25.56999969482422,
-  "oneYearReturn": -18.387106593175123,
+  "lastClose": 26.200000762939453,
+  "oneYearReturn": -17.511358266542697,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Comcast Corp. Cl A stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeXN6Vml4RDBnZFpwNWxUVjhhTUUxSm1jMnBoeExzTjdwbnBjRXJsdkIzcGVsWmVjNlNFcEdqYWRScHhQc2hpTUdrRHgxRTdGQ1VyMEdGeGJIY1paWXpkamJSNDNhSTkwNE92dERfZ2NuOUY5TTBfTWREM3lXcERfWERqV0h0SWY1M21lZEROOG9adGhmLXFvd3IxdjF3aGRQQTczTWw2c2t3LURHQmdxV0pUWFo3WTcwUFVEQkJueDV2U05vWkl2ZDF0TVcybkJ4ckhTUUtsNEJGUlVvOGVUQg?oc=5"
+    },
     {
       "headline": "Comcast (CMCSA) Stock Still Looks Undervalued Despite Cybersecurity Settlement - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWI1aUE0Z3dMTl9wQ0huWldUR0s0NG1CX2R4T0lSV2NyaUtzXzZiY29ra2ZQdkVrd0RxWmFEZWdvS25sZGMtN1MwRnUwQ1lQa05lZDBlYmRySTg2WXdZV3ZweDNvMFVfa3Zock1fSGYwLTE0UDc5RFhZU0NSd3gwQ0xRTloyOFBvUmN2QmxHN19YdVpoaUtmZElxWkc?oc=5"
     },
     {
-      "headline": "How Comcast’s API‑Driven Global Connectivity Push Could Reshape Its Convergence Story for Investors (CMCSA) - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "AT&T, CMCSA, CMG Hit 52-Week Lows: What Dragged These Stocks Lower? - Stocktwits",
+      "source": "Stocktwits",
       "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObFpvZjNRNUVXcmF0eTZTSWQxNmhzcXJPTVliOTlHejlSTDBva1c2ZEdEb1JmTE9YRXdSR25FTjNpeEJPZm43ako1ZktoZzZwT29kVmRtWGVwUjBMWE5PQ0RreElNY08wVGUxZmJDc1pfVW9PY2d5VEtqMS1LT0o1c3E2WUJLcGFiRXZjcTBlSTdKb1BlUW5uTll2YkRHTWtlRFFqdWtrN3pscWJMOVlVZWNiZFFWYjM2Qk5xdWJvcmNUMFhX0gHKAUFVX3lxTFBWcUZIMVlxTDJnNDZyeW1MS0JDTzBQZFpCWC1jYkt2LTdRM19YV2t3M0xCazZlWl8zUDhBYUxHLUR0ZlR6b0N0SzY1eU0zQzhzVjZQZVlpa1E0TlVGdmpaU2F1Yllnank3OUp2U2lRVFlyZnBkQkdVa1h5RVQtSW1TOUVLQzFtbnAtamlFZXNrVHJabmxKMjZwSFZrS3pUa2pBNGZjNFFYeEdXUWc4WlBaSjRJOWV0UkQ5bml0empUZm5rUzRuUFQ0ZFE?oc=5"
-    },
-    {
-      "headline": "Beyond Broadband: What Could Power Comcast Stock From Here? - Trefis",
-      "source": "Trefis",
-      "when": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdm9aMnZQRVRtVnVoc2pMWkVobjI3N3FZZVlpUzY3d2N1ZElyN05uQS1iRUNnUVVPNEhqYmRaTWZWbEFZR1M5Q2ZEQWw1OTJwM3pkUW0wY0NnZjhlaW1uY1JNX3QtWEJGcXQ1UjIwMF9WMmE2T3FLbUx5SnFZQXN4c0F0NllXbUVoYmRHNV9JWExGc2tlbkdScUhhbllkd2lpOWRQRXlKR3pJaGh2MjRsTzExWEJoUWNab1Bz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2ZRT2haanpVQ2FpTWtDWW1QRFFxT0tWaklCWFUyS1RteEZib0VLa3d3bmNZVW5UUmM4UUI2MlZVNkp6UE9WenZfczI3ZFVfMGVlNVQ1cVJvaFVvdHJPRFVUV3lQNTVfTHRyQW5OZThiZWR3MkJQcUdCZk50S2F2azNfQzJOTDN6X1dHeDI4R3dDc2RNd1plamd3?oc=5"
     }
   ],
   "insight": "Tracking Comcast (CMCSA)."

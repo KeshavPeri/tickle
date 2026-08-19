@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:37:03.766Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:39:57.809Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    135.47000122070312,
     136.35000610351562,
     134.5800018310547,
     138.77999877929688,
@@ -24,10 +23,10 @@
     142.0800018310547,
     142.58999633789062,
     142.3000030517578,
-    140.75999450683594
+    140.75999450683594,
+    133.5800018310547
   ],
   "6m": [
-    92.7699966430664,
     98.22000122070312,
     105.19999694824219,
     109.30000305175781,
@@ -158,7 +157,8 @@
     142.0800018310547,
     142.58999633789062,
     142.3000030517578,
-    140.75999450683594
+    140.75999450683594,
+    133.5800018310547
   ],
   "1y": [
     95.30000305175781,
@@ -361,18 +361,13 @@
     142.0800018310547,
     142.58999633789062,
     142.3000030517578,
-    140.75999450683594
+    140.75999450683594,
+    133.5800018310547
   ],
-  "lastClose": 140.75999450683594,
-  "oneYearReturn": 47.70198321020895,
+  "lastClose": 133.5800018310547,
+  "oneYearReturn": 40.16788830374628,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Qnity Electronics director Karin de Bondt buys $138,136 in stock - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWN5S21nV0RHWG1XbmxMckVEamh1d0pyMG56Rk5hTHFvZTNRZlRpenVVaUJFeEh3S2oydUdmcGI0bndGNnVxUTJ4c1hxeWdtcTl4d3hDSHliT2RlZXQ1OGFuSE80MXlGUVBnTUNEM0VGdUxvZWpYLV8zVlhNUnV1NmdZUXZtdkNnbjd3dTdMYlh2QmZuNmpEd195WlRMX25SMmZnbWxEeUhFUHZKQkdycFZTQ3lEem9TUzdUZU9kLVI5c25mQ2c?oc=5"
-    },
     {
       "headline": "Qnity Electronics (Q) Among Our Best Up and Coming AI Stocks - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -380,10 +375,16 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUjJiOHZraU1WOG5QXzBWMUMwb3RSNS1Qd3RQM2Y4U2w5TzNlQVFrMVVMMERSUFA3N3B4bFV3UFpld3hNM2FiMkJRNEliVTlDNnc3V3k2ck5vanpFLXVEcEFtUVVGUTEyQ0JZM1VPZjVpeFFNa0x2QmwxeURGQ3FCMHRkYU1RbGRMa3lsaVZtOUt0RVRCaUlkNVFpTQ?oc=5"
     },
     {
-      "headline": "Qnity Electronics (Q) director Karin De Bondt purchases 1,000 shares at $138.14 - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFlOYTVqUUpiWHZNVFB2eHVpSW5NS0R2MUJKWk1QZHhoQUlqVHFPS1VTaXlFZXItMllpbnV6Z0xWMlhtWldLOEk0ZEp5Y3hvMFpMa0NYWnZlSWRsMWZDOXhIOHhhN3VYNTc1QXM4dHZoX2xtcV9LWThYSWJNUS0xelB4al95cGZkb3pvd0VITXZ0SG9talc3d1M5T2EteEwzcWhEMG05MlNDZjNFMVliRldR?oc=5"
+      "headline": "Qnity Electronics director Karin de Bondt buys $138,136 in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWN5S21nV0RHWG1XbmxMckVEamh1d0pyMG56Rk5hTHFvZTNRZlRpenVVaUJFeEh3S2oydUdmcGI0bndGNnVxUTJ4c1hxeWdtcTl4d3hDSHliT2RlZXQ1OGFuSE80MXlGUVBnTUNEM0VGdUxvZWpYLV8zVlhNUnV1NmdZUXZtdkNnbjd3dTdMYlh2QmZuNmpEd195WlRMX25SMmZnbWxEeUhFUHZKQkdycFZTQ3lEem9TUzdUZU9kLVI5c25mQ2c?oc=5"
+    },
+    {
+      "headline": "Qnity Electronics Tops Q2 Views, Raises Full-Year Guidance - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXJuSnA5LS1yaGx3V21CY2w1eTMxZ0VrcWw5ZDNMQnROM3ZIeEs2UFNOZ1IydDJpQm54UVRWSFF2VC1YSjFYOXEwdXZvWTd0ZWpHZnB0bWROd3c2XzhtNmFfYmVKTTNYSVZtU2R2M3dveVhOR3UzZkt0YU9xakNwSi1YRE5zSjlS?oc=5"
     }
   ],
   "insight": "Tracking Qnity Electronics (Q)."

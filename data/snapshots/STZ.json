@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:37:05.851Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:39:59.771Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    132.8699951171875,
     134.36000061035156,
     130.66000366210938,
     132.0800018310547,
@@ -24,10 +23,10 @@
     133.9600067138672,
     136.35000610351562,
     139.17999267578125,
-    130.55999755859375
+    130.55999755859375,
+    131
   ],
   "6m": [
-    164.3300018310547,
     163.61000061035156,
     165.6300048828125,
     163.1999969482422,
@@ -158,10 +157,10 @@
     133.9600067138672,
     136.35000610351562,
     139.17999267578125,
-    130.55999755859375
+    130.55999755859375,
+    131
   ],
   "1y": [
-    166.25,
     165.89999389648438,
     166.3000030517578,
     164.92999267578125,
@@ -411,12 +410,19 @@
     133.9600067138672,
     136.35000610351562,
     139.17999267578125,
-    130.55999755859375
+    130.55999755859375,
+    131
   ],
-  "lastClose": 130.55999755859375,
-  "oneYearReturn": -21.467670641447366,
+  "lastClose": 131,
+  "oneYearReturn": -21.03676623295159,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Constellation Brands is the biggest decliner in the S&P 500 after Berkshire exit (STZ:NYSE) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWczR2VQVmItVG9xWTQ3RlJuWFdnQ0l4b0tCMmRkZ1lQUS1LcG1Mb3Y4amFHNk10LVhVSG9Dc1ppOElXelItdUNfN01VLW02bFFYeXVhdmd1Vk5ZMk5PY0EwaVJaODZ5eVFqcTdpekNkRWxDbUVxX3gtR0Z0bjVjc25idHExa0RHbjYwUW9LZ2dvQ05sV3h1SHVaT3VKVFlETlBaSGp1SGFncVM5RjdRVU9wYXpkN1Ew?oc=5"
+    },
     {
       "headline": "Constellation Brands Inc. Cl A stock underperforms Monday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVnIxMU9TXzgyb0FWa183Y21mWW1DeEduSnZlRTVvV2hWLUNnQzhQSDh0RmhRNVVlR05SUkVpVmF1YkZXUHU0Z0Zsa0pJdUtlUkxaXzVSdmRvbkVrSW5QeWhpcFFSOWJhN2w2ZzRwS1cwbnlnTDlERndUMUw1cFZWX0RBcTVpX0VLdmZ6MTVqQkZCV2x4RXd3bHFvQnpYMkpXUS05ZVZOU2pIWmJidkp4eUhmcWVVSzkyWGtwdVZ6U3QzdzYwZnRQM0xFRzdXM2xjMTdWdDVqbWZyS2YyYnc?oc=5"
     },
     {
-      "headline": "Why is Constellation Brands stock sliding today? - Investing.com",
-      "source": "Investing.com",
+      "headline": "Buffett Exit Slams Constellation Brands as Outlook Sours - TipRanks",
+      "source": "TipRanks",
       "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZi1FMjVpc0w4N1l6T3lMNWJfejUta3dsempiSXFYa3dUTGlldWFBWmV1MVV4dXBNcWpnZTU0MURFaE12a2gyV181WjlmTmtjdjFDYjhYYjJLSkhMNjVHX3g4RFdRVE16b0JfMVNpTkJZOTZFYnlQbTl1S0gzLURnNUZ5MzZXS2QxMVYtN0J4S3o5MHVpaXdiekpiekpnMmQ2YnY0bmpMb29KbXpYUmc?oc=5"
-    },
-    {
-      "headline": "Constellation Brands is the biggest decliner in the S&P 500 after Berkshire exit (STZ:NYSE) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWczR2VQVmItVG9xWTQ3RlJuWFdnQ0l4b0tCMmRkZ1lQUS1LcG1Mb3Y4amFHNk10LVhVSG9Dc1ppOElXelItdUNfN01VLW02bFFYeXVhdmd1Vk5ZMk5PY0EwaVJaODZ5eVFqcTdpekNkRWxDbUVxX3gtR0Z0bjVjc25idHExa0RHbjYwUW9LZ2dvQ05sV3h1SHVaT3VKVFlETlBaSGp1SGFncVM5RjdRVU9wYXpkN1Ew?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1ZfUkZzcUZ2a1FHbE5Pc1d4a1FRcGM0VzctbmxiaXlOcXJaRFVFVFBRNTJqRUdRUnZuNkNvT2hzZFJIZFFaaWpId0h0SEVDa3JIa2I0YjIxQmh5OUI1Mml4Q3hJMEJYSG1vREZ0cUpLVmptSVNkdXE0YUZic0F2Wi15UEZqSUdXTmtVYUhNS0RpdUVmN045RU44cw?oc=5"
     }
   ],
   "insight": "Tracking Constellation Brands (STZ)."

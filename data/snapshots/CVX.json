@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:36:39.092Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:39:36.936Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    187.3800048828125,
     189.7100067138672,
     191.07000732421875,
     192.97999572753906,
@@ -24,10 +23,10 @@
     196.60000610351562,
     197.6999969482422,
     200,
-    202.6999969482422
+    202.6999969482422,
+    205.74000549316406
   ],
   "6m": [
-    180.86000061035156,
     182.60000610351562,
     182.25999450683594,
     185.82000732421875,
@@ -158,10 +157,10 @@
     196.60000610351562,
     197.6999969482422,
     200,
-    202.6999969482422
+    202.6999969482422,
+    205.74000549316406
   ],
   "1y": [
-    155.32000732421875,
     152,
     153.22000122070312,
     155.5500030517578,
@@ -411,29 +410,30 @@
     196.60000610351562,
     197.6999969482422,
     200,
-    202.6999969482422
+    202.6999969482422,
+    205.74000549316406
   ],
-  "lastClose": 202.6999969482422,
-  "oneYearReturn": 30.50475623859668,
+  "lastClose": 205.74000549316406,
+  "oneYearReturn": 35.355266771818464,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Chevron (NYSE:CVX) Shares Up 1.4% - Time to Buy? - MarketBeat",
+      "headline": "Chevron Corporation (CVX) Drops as Oil Price Retreats - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWG5FRld5U1psbTZvT0Zzd2prN3dDd1ljUTZOVWtrRENwbC12bko0OHQtTmFoUnBQLTBIOGktTnYzdDBrSWZfblJVSlhGT2duR1NZS1FUaUdVZ1NaOGMybDhZYklGU3RBbFN2YVJ4SzEtdXA3QnltakxlcXhjX1NCeUJxVFdnV3JxMjJUakpxRS1tcVJG?oc=5"
+    },
+    {
+      "headline": "Insider Selling: Chevron (NYSE:CVX) CEO Sells 317,100 Shares of Stock - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTEZWLXpUcjF0T1VtVWVBTXQ0bmRWZTBMNXlZOUtHNnlmejlqdHMzemxsLU9TVzJRdzhxYVdtRVRtUUVjTnVUdDNPZlZuaEFQRHVpSmJJa0ZOWS1UNFNLTWFFbkg0Vnh6MU5XRmozT0gxZ25NN1VNR01aUXlXRmtUYnlrZmc0ZVlkeFJxeThlTXJoOU1pYjRzZVB3?oc=5"
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObi13TnMyTjBSZll3T3NueFN6Nm10TEQtYUxFRHNKYnNvcWdjQThjWFljMGJ6M3hYckQ1YlgxZG5qT1I5UmxhbDd0Sk1aVVlJcG0zQXg4UDhPdmJWbklManJGcjNxM0xSWGZWUTBnalo1c2UyamF2VXlRQXhhLVp2VFZCWThGMDM3ZnBaTXBMRjMyd2REQ3ZxRG5jbFJNSWpzNHZ0MC1qdHZlQ1RZQWVvX2pHMW1pRFlBRUE?oc=5"
     },
     {
-      "headline": "Chevron Makes Major Oil Discovery in Angola’s Offshore Block - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb01SekRSMmNlck9iQW5BOGRfNlV4LTk2XzloQndlX0UzcWJyZkgzZXRjYlBYY09JdXYwQjQ2YUQyX2k0X2xDNnNRNm83Y0Q4Z3FRX0pCQjI3QTk0RlRlWXVWelFmaTFLOVVsLXZXNVNUc3p3dEpGTHFJZDFQQ19ZeXV4MmZFLWJwWENuQm1vOHM4S21wMDJjQUlYeXotOTlLU2g1aGJIX0RNNl9kZWZEQVY3ZTlTRTZT?oc=5"
-    },
-    {
-      "headline": "Chevron (CVX) Stock Climbs As Cash Flow Strength Masks Earnings Dip - sahmcapital.com",
-      "source": "sahmcapital.com",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTRzVjJUc2xKTGQ4ZHl5OV9SMGFDLVZxNFdwNmsxWFpMaDNsN1dURnRtbTlGcW0zRjFMTWxvX2R6MXRhV285WDFiUHo1MGd1T2tWLUhMRTdvTVU0c1k0VlBESktBc3RxUk9qMmNDMHlmNlNoenFuVUJiNXp4VDA4eTBDZ2dTWXd5bUE0bV9zN2pPVzF5V2lDZkRnNWxHRTFyWGRNTi1hNWQ2Sjl5Z2R0NGtfcFRkNC1E?oc=5"
+      "headline": "CVX Stock Has A New Bull Case — Why Bank Of America Favors Chevron Over Exxon As Hormuz Risks Push Oil Prices Higher - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUjlTbERWbzB0RUMxQjNSZXczOFdrM05MQUtOLU5VbnY2enRQZzdMRjZIZGJZNnh5bVRUQVBXWTl4V0xEQnJRMGpfMldQZWZvNGdndE45QThfRkw2bG5BcWQ2X0lWaXpHSGI3N3BDQWs4eXhCSVdKNmgwMXdBUFkzUUVFWWZqM2VJQnp6NVBnUzNVZWhaT214UkZzR1YycWxOb0lEMUFGeWZ4cjhud1ZfWGNkWkRDT25RekQ4UXRPR2N0T2RIZGJwU2RCUnh0RjUwSW40QUtoVmthZlFfaHRtS3RVTmkwRzNKbklYcDAzZTR6ZVE?oc=5"
     }
   ],
   "insight": "Tracking Chevron Corporation (CVX)."

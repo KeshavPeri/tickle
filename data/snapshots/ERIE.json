@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:36:44.048Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:39:40.993Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    227.30999755859375,
     225.00999450683594,
     215.82000732421875,
     210.86000061035156,
@@ -24,10 +23,10 @@
     258.1700134277344,
     255.8300018310547,
     255.99000549316406,
-    247.75
+    247.75,
+    256.95001220703125
   ],
   "6m": [
-    287.7099914550781,
     269.57000732421875,
     278.6400146484375,
     280.489990234375,
@@ -158,10 +157,10 @@
     258.1700134277344,
     255.8300018310547,
     255.99000549316406,
-    247.75
+    247.75,
+    256.95001220703125
   ],
   "1y": [
-    359.739990234375,
     362.9700012207031,
     364.2799987792969,
     359.82000732421875,
@@ -411,12 +410,19 @@
     258.1700134277344,
     255.8300018310547,
     255.99000549316406,
-    247.75
+    247.75,
+    256.95001220703125
   ],
-  "lastClose": 247.75,
-  "oneYearReturn": -31.130814831404248,
+  "lastClose": 256.95001220703125,
+  "oneYearReturn": -29.20902241428119,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Erie Indemnity Company Stock Price Forecast. Should You Buy ERIE? - StockInvest.us",
+      "source": "StockInvest.us",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90R3hiSzF6NHpCZl9YbXl4ZUhFX3lZemI0ODZPVFh4dnBpdFRiTWZrU2h2dGR3eWpvbG96NEQyT1NjQWdraUh0aA?oc=5"
+    },
     {
       "headline": "Erie Indemnity Co. Cl A stock underperforms Monday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -427,13 +433,7 @@
       "headline": "Cloud-Native Claims Automation Might Change The Case For Investing In Erie Indemnity (ERIE) - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOHZiNTBFRE5OTDloVU4zMWJpZnRvejMxdVY5TFNoQlZPYjdDUjdGZ296WE1uclFKSkVoQ2FRSXFjZHBsY0VseVpKX05XZlVPREZLMF9rZHpBQ251WFhsOXVJVUpCOE5ZNzN5NXVHWGtKWTNsaDZwUjdSN2dDSlZwNU55U1VtUktmS1pXRVBaZ3NDU0RtVW1XTHlvbzMwWnFHNmlLZGRQcy1BLWVHeHN5NjJCTVdjQUh4WVFEUjdVQ2hQZldTNnlqOV9jcDk2RTNKTUt5edIB1AFBVV95cUxQOHZiNTBFRE5OTDloVU4zMWJpZnRvejMxdVY5TFNoQlZPYjdDUjdGZ296WE1uclFKSkVoQ2FRSXFjZHBsY0VseVpKX05XZlVPREZLMF9rZHpBQ251WFhsOXVJVUpCOE5ZNzN5NXVHWGtKWTNsaDZwUjdSN2dDSlZwNU55U1VtUktmS1pXRVBaZ3NDU0RtVW1XTHlvbzMwWnFHNmlLZGRQcy1BLWVHeHN5NjJCTVdjQUh4WVFEUjdVQ2hQZldTNnlqOV9jcDk2RTNKTUt5eQ?oc=5"
-    },
-    {
-      "headline": "Erie Indemnity Company Stock Price Forecast. Should You Buy ERIE? - StockInvest.us",
-      "source": "StockInvest.us",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90R3hiSzF6NHpCZl9YbXl4ZUhFX3lZemI0ODZPVFh4dnBpdFRiTWZrU2h2dGR3eWpvbG96NEQyT1NjQWdraUh0aA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzc4Qmh5TE1ZWElLZC1iVzZSZG5VVDhJRXhGdV9aVHl3RUhYS05OZ3dEdXpKNm5va0JsU1NHMUozUnRlVlpicy10S1VjRkotNEc5OVdTZVlXVDcza25kQm5wS0xkdzAtcmROLXJFcVd6U1YwYWRHUXpUa2c1cThobkhISklXN0o3S1FHQXNXT2gzWkNwMDVvNFVRWDVRMlluN2owQXRmVUllend0bUxXdmU1QWR3VmpLMWdPR19QUEpETjdKa0M0d3g0TWNEeTDSAdQBQVVfeXFMUDh2YjUwRUROTkw5aFVOMzFiaWZ0b3ozMXVWOUxTaEJWT2I3Q1I3RmdvelhNbnJRSkpFaENhUUlxY2RwbGNFbHlaSl9OV2ZVT0RGSzBfa2R6QUNudVhYbDl1SVVKQjhOWTczeTV1R1hrSlkzbGg2cFI3UjdnQ0pWcDVOeVNVbVJLZktaV0VQWmdzQ1NEbVVtV0x5b28zMFpxRzZpS2RkUHMtQS1lR3hzeTYyQk1XY0FIeFlRRFI3VUNoUGZXUzZ5ajlfY3A5NkUzSk1LeXk?oc=5"
     }
   ],
   "insight": "Tracking Erie Indemnity (ERIE)."

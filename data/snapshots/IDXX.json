@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:36:52.326Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:39:48.316Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    567.4400024414062,
     563.8099975585938,
     552.4600219726562,
     545,
@@ -24,10 +23,10 @@
     570.5800170898438,
     566.9299926757812,
     550.9600219726562,
-    546.0900268554688
+    546.0900268554688,
+    553.3200073242188
   ],
   "6m": [
-    644.6099853515625,
     639.7899780273438,
     646.530029296875,
     648.72998046875,
@@ -158,10 +157,10 @@
     570.5800170898438,
     566.9299926757812,
     550.9600219726562,
-    546.0900268554688
+    546.0900268554688,
+    553.3200073242188
   ],
   "1y": [
-    637.8599853515625,
     636.7100219726562,
     639.8499755859375,
     633.0499877929688,
@@ -411,23 +410,24 @@
     570.5800170898438,
     566.9299926757812,
     550.9600219726562,
-    546.0900268554688
+    546.0900268554688,
+    553.3200073242188
   ],
-  "lastClose": 546.0900268554688,
-  "oneYearReturn": -14.387163422003008,
+  "lastClose": 553.3200073242188,
+  "oneYearReturn": -13.09701618800948,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "IDEXX Laboratories, Inc. (NASDAQ:IDXX) Receives Average Rating of \"Moderate Buy\" from Analysts - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMWFJRC1hMzVVRzFBc01PMEtSd0lSYktBMXNLMkdNRmNuQzA0dW1INUpRMXE5M0p1OTV2S2lGOWE1SHVrNXplMkZJamd4YVFwQ0pnUktyemdoRUJfa1ZWaWtjdkZKX1d4MTQxRE9rZGtoUjA2U2tRQzhrbTlybHBGMEZOcW93VC1OeFRLMFhMME03dkpSWXo5QXFoOEI5aS1rTGhkOXc3ckdWU3ZoR2pMV3pVbWpaWkhrSUpJLUQ4cGxMaU9iYTdLc1FzNTFCRDNBMlNkcjVOekY?oc=5"
+      "headline": "IDEXX Laboratories (IDXX) Could Be 22% Undervalued As New Cardiac Test Expands Its Reach - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb1JJY0FJZkt1dGp1cjlFb3dnSjZCRlhIaU1oZ3Iza25tOXIyNXV6ZDFKMUtEa1hBSnEyWFIzZFRkSzQ4eERjU0NzeUY4QmZQWlhUNDZNalNIbEhic3hLREpyZlBaeWg3Q0xTekFheUh2MnBYakpFekI2dmJsWmhBQUhFMnMyQ0pCLS1FS24yWmVmYzJpTXY5NFRIbFQwbFh1UDk2T1JGRGtlNDhGU2RXLVloMnZJcTNzUTZDSVlVVGhkTm9jc0UyU1VkQUhEa1ljM1pZalpB0gHbAUFVX3lxTE4xWG93NUxsdkItcXB0MlVZb0hmb1Z2b0ZTZEpyLU5tTUgxZV9aTzRBbXg4Znp4d3RFX2pCU0U0M0tvVXY3T1dOc0FJZkVmVTh5UUVMbzJhLThZRkpmSEFNOUFRNkVWOWJTSVpHNnBnQlRNVEpIWVAwWFdQbldxYWVGVW05cXhqQzdzSklQSENZOEkxVnlPYk1NYWJ3RFdKNUpaam5MRVU0bXVpWXQyNlh2dlMySi0zLXJuR21ZNld0M0Q2UHVIU2pzdDN3b0IzeF8tZkF1MF82bjNhbw?oc=5"
     },
     {
-      "headline": "IDEXX (IDXX) Stock Looks Fair On Cash Flow But Rich On Earnings - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTDNxbnJvSGx5NEpYMi15VWgzSW1Wa3Z5X2VoWDA1c1g4QzdFM3BQb2JQMnRQV3htNDFHQVFoSFNBb3p6UzBzS2dPSjQzaDBQZHJtd0tWQjd0SmJJTXlKaWVpdVU2ZjhSamRjaWg3Q1NkTEpab1BFWGxVN1NFbV9nU3NydU11MkhpdGI5UE9ReFNwWXdwWlhCS3NkZjM4Z2p2dzQ4cFkySmJBSHFESWIxeGVncWhQWFc2QWlMbHJ0Smt6Z2VhMkZGSDNCckdCUTRnbWV6ckdn0gHbAUFVX3lxTE9YcFNLd2hUYkx2YXRqNWtlTEtOd19OMVI0RHR5S0dGMzM4XzNrSFNtUHI4eEx3SDMybDN5clM0c3FyamQ3c0tyX0VZdjhCS2RpV00xUThrN09DS19mUnN2bHdKblpIQnNYZVhBMlVzcU5HUWlNcTBuZmNTS0VvRDktMHpkcEZkblFQU0tlellpX01keHlTcjIwZTZ6SDdxeFBHQXVqWGRaREtPYU92WWpwVXdVN0pOU19UclZwWl9oUGM1YW1IQzlseEJaVkhwNGhmby12WFhFYWR6aw?oc=5"
+      "headline": "Plato Investment Management Ltd Takes $1.48 Million Position in IDEXX Laboratories, Inc. $IDXX - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdndCNjJYbXptX3FfbHd1RXpyTDFkYU44NjFIMVRNNGhZckt1WDVocXlTZVlKeVAwX3EwMHhMOWo5THlPLXdPd25qRUhqelNsRFdrMEhvclVONnE3a0g3MUw3dzdBNnFtdVhMNmxQQ3hiUENFbnlVWE50MjU1R2ZwamZHV2pvSDV6Y3dLcmJNakdoVHJIRF9vc1pyTVVMOEd3ZVoxYkpwNEx2NjYtMnJlbERxZFk0X2lTeUx5WHZVaktKbFo5ZXFYWHItQXZyM3B5aXJteUhGalExdVNhVFcxWlNKM1A?oc=5"
     },
     {
       "headline": "IDEXX Laboratories Inc. stock underperforms Friday when compared to competitors - MarketWatch",

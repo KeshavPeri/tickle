@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:37:08.528Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:40:01.807Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    18.59000015258789,
     18.639999389648438,
     18.25,
     17.579999923706055,
@@ -24,10 +23,10 @@
     13.489999771118164,
     14.5600004196167,
     14.140000343322754,
-    13.399999618530273
+    13.399999618530273,
+    13.420000076293945
   ],
   "6m": [
-    27.040000915527344,
     27.040000915527344,
     28.1299991607666,
     27.229999542236328,
@@ -158,10 +157,10 @@
     13.489999771118164,
     14.5600004196167,
     14.140000343322754,
-    13.399999618530273
+    13.399999618530273,
+    13.420000076293945
   ],
   "1y": [
-    54.95000076293945,
     52.529998779296875,
     52.529998779296875,
     52.29999923706055,
@@ -411,29 +410,30 @@
     13.489999771118164,
     14.5600004196167,
     14.140000343322754,
-    13.399999618530273
+    13.399999618530273,
+    13.420000076293945
   ],
-  "lastClose": 13.399999618530273,
-  "oneYearReturn": -75.61419575526597,
+  "lastClose": 13.420000076293945,
+  "oneYearReturn": -74.4526929599263,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why The Trade Desk Stock Plunged to (Another) 7-Year Low Today - Yahoo Finance",
+      "headline": "The Trade Desk Stock Just Crashed. Should Investors Buy the Dip? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN2Q0NkZfc0dFQWhGM005NURZWFFwdFFtQ0pBbnRQTUFJb2VIM1J3QUt1VExzR2dwVGtNUWhIelJKSkFGeGFGSkh5WGNfZkJHSFpXT1ZSYWluZWdiU2lDRVRIUTZKRkJhR203b0JTUHptQmFuVFZIa3VlS0pCU1VxWG5SREU1d01UQTRsOHNLVGZLazBjanZwVA?oc=5"
+    },
+    {
+      "headline": "Trade Desk (TTD) Stock Looks Reasonable On Cash Flow But Rich On Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM2NSNXBMSjRURzhBZ1F6V3dDTHpCNHNuQzVoQjFVUDViOWYxSnZCR2UzVDJ2YWhTTndVck15SVRHYnlCc05nTUFrSEpteTBhSjNHUy0xZ2d0MnptMGhYbVVvcE1oYkNRb1pKams3NTZhUGRwanFtSURGcjVKUzE1OUstZVVfWTVBYmJHeEUwNmN5T29obk9keQ?oc=5"
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV1NDSWNWT1hTdEs5eW9zcVU5MFhtVmhWaU11WmgybnpZNU1UbXhtcjlvNnctRFFvWng1QTZwYXNvRkV2Z05fZHh5NG1wUmdISDR0ejh6UFhTcm9KZ2tGbWhJSHpqVWNwQ2F3RWJXTlhFUjNEcGlVVVByTlZ1VHJyMHF3bGZNV2JQdWNCOVpGQkxNaEJmVmc?oc=5"
     },
     {
-      "headline": "Why The Trade Desk Stock Plunged to (Another) 7-Year Low Today - fool.com",
-      "source": "fool.com",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGs5MTd5aGVHSFpwb2VBQTFXeC1qRW5aR0RRX3JJQjdjbHllYnlXaS1Rcnl5eVU0VW02R3FsV3JFMDdhTWJIVGozT0FJWGdpS0RqMVNZdlhQSUhPUmc0NDdVOGVhUFd3RkE4TTBUeW9LSmxSa0ppd3dZXzBNS3dVTGJ3QWp6NTFuZWhZUmwwVW9NUGd5VVBXWA?oc=5"
-    },
-    {
-      "headline": "Is Trade Desk (TTD) Undervalued On Weak Earnings And Softer Guidance? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVTFGVThmWFpvX1pKc0Z3ZkFzWE15WHk0S0VsakJYTGhSZ1lZaHFTa2IzUDdrcGFqWklQUmtpdFhSY0x2cDg2Z040TWRnRERCempqS3ZkNzFlMjFOdU9WbUtJd000T0hsdmlYc3djZ2s5VmdHbFAyWHg0MXVTQWt1aFVnS1c1UHJxX3phLTMzeE1QbzBhUm1xNW5OZmVCbjJabDRzSG9WekFtYVdLZjE3aWQweUNlN04tRHhHYmRpNlFtWGPSAcgBQVVfeXFMUDlhdzJlTmNUdUg4LWlJWnNxR3FCZVVpX2xQcnJIT1NHOFlWMUM2SEZnOWl0SUFEQXJrMFhkLUxENWswUHFiY3FZR3dGc3ptTUJETUtEVHdLUmFlenRCNzhqbU9ZOTFiRzI1MHRCN3kyQnBiQW5ydktHRHktVzdYNkZwc1pzVkJHbnUyVU9Ua2p3dGNUbjNrbW9RSjJ6cFNpN0lXaWlVdk5xTVlMbWFxWmxNbnVQajRjdl9rMDZlVXRVWnFsZjBuMFI?oc=5"
+      "headline": "Why The Trade Desk Stock Plunged to (Another) 7-Year Low Today - AOL.com",
+      "source": "AOL.com",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YRHZpQmdDTzJjbHVtcXFST2N6Y2RBVklSSDJpdExGNDhiWFJxZHdyV0pvUy0tZEJPdWJSUnRuN0tWc3VTbFNSU0hYNndLVmxDWnJvalduWEJ2eUZzR1hzbE1IOXBIWHpCODZZdHZfR19YaWRSbndCLTB1TE0?oc=5"
     }
   ],
   "insight": "Tracking Trade Desk (The) (TTD)."

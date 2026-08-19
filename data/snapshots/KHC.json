@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:36:55.137Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:39:50.576Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    25.8799991607666,
     25.860000610351562,
     25.790000915527344,
     25.959999084472656,
@@ -24,10 +23,10 @@
     24.530000686645508,
     25.3799991607666,
     25.510000228881836,
-    24.75
+    24.75,
+    24.81999969482422
   ],
   "6m": [
-    24.639999389648438,
     24.579999923706055,
     24.899999618530273,
     24.989999771118164,
@@ -158,10 +157,10 @@
     24.530000686645508,
     25.3799991607666,
     25.510000228881836,
-    24.75
+    24.75,
+    24.81999969482422
   ],
   "1y": [
-    27.270000457763672,
     27.670000076293945,
     27.420000076293945,
     27.5,
@@ -411,29 +410,30 @@
     24.530000686645508,
     25.3799991607666,
     25.510000228881836,
-    24.75
+    24.75,
+    24.81999969482422
   ],
-  "lastClose": 24.75,
-  "oneYearReturn": -9.24092561592252,
+  "lastClose": 24.81999969482422,
+  "oneYearReturn": -10.299965210016179,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Kraft Heinz Faces a $7.4 Billion Impairment Charge. Is the 6.2% Yielding Stock a Value Trap or a No-Brainer Buy in August? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZzYyaTNVNnFoN2JJNVk1Y3NDSWxuVkIzenBGMnBEdHRuNHB1UjZ3bU5hV3V0MTdISFNHc2R3cTZLRU1yb09PYnVKZWNwWGtCVEtyYnF2SUFYaXlXdURoNzY3OFREN2hzQ1lsTWk3Nm4tSEdwNDB0R1VBWWZpZ016Rjl2dnEwZGZOTDFaX04xT1BtQk1SaHVsRQ?oc=5"
+    },
+    {
+      "headline": "KHC Stock In The Spotlight After $600M Investment Plan – CEO Says Most Of It Is ‘Dry Powder That Hasn't Really Even Been Deployed Yet’ - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZU9OaV9QX2RrcW1PNTJONGxEeE05OEl2MkJ6Q3RWSmpaWXhiZEJyZGQ2WWtYMkRyWHdkOHVNVXFQUkc3QlNPbFpSSlVOMVNVRXFZLWRza1Y3MXdOcVVyc296RkxOSTg3Y2FKejdsTjNZQlpfSU5naWFzSENFcGN0bGtvVkg5cmdSRnNxVFVsa3E0bXRzY3c5SElmLXdLZXVIMFdPdWtjNEpYUQ?oc=5"
+    },
     {
       "headline": "Kraft Heinz Co. stock underperforms Monday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRFFDcHpCbG15QjV4aXNZc1pneU9OdW1YcmRiRTJwZ001WGtpVGVOa3JPLUxzeWFQVmZHN0o1bGlReFBNSmg5ajFRc0o4RlV2WWZ3bE1mcWpmQUJnNW9kLUUzeUFuSkUyYmlMTlEwSjFFYXNLOXY2ZHFVdnFZTDlnbnRjUFJNSjYtaUlxSVBMcWpUbUlVWHE0dzVBTld3c2RPNGdENlBLWnF1ZG5WUHl6cEJIelZrSDVYVk12WlItc0QzeDZtalhzRnhYbkU2YjFqMmVuTE9KSk52UnB2aTdYenV3?oc=5"
-    },
-    {
-      "headline": "How Investors Are Reacting To Kraft Heinz (KHC) Impairment-Driven Losses Amid Robust Capital Returns - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcXFCdldpeGJubktlaVNzRi1JTlBjdTk5aTRvZk9EZkMwODJvWUVYcXA5VHpiLUk1OTZhNkhPTTNENDRya1hDY016T3g5RUZkTm5rTndtMWhJV0lpUjg1bnZ0WWRqcmFheWM2c05IRG1LU25wOGVpd0g3X0xPcEdXb3RSY3FJajhNRGdKaXhyRTU4OHZfUTVRYVlheDZ6emh4dFpVU3NyUS1VYUMwVTZfRUYyNVNFT0FuMVpCVXFQUWxHeTVmaXlVM1Fya3l3NUtKZmV5SDN3Z3djMktYM1ow0gHfAUFVX3lxTE5xcUJ2V2l4Ym5uS2VpU3NGLUlOUGN1OTlpNG9mT0RmQzA4Mm9ZRVhxcDlUemItSTU5NmE2SE9NM0Q0NHJrWENjTXpPeDlFRmRObmtOd20xaElXSWlSODVudnRZZGpyYWF5YzZzTkhEbUtTbnA4ZWl3SDdfTE9wR1dvdFJjcUlqOE1EZ0ppeHJFNTg4dl9RNVFhWWF4Nnp6aHh0WlVTc3JRLVVhQzBVNl9FRjI1U0VPQW4xWkJVcVBRbEd5NWZpeVUzUXJreXc1S0pmZXlIM3dnd2MyS1gzWjA?oc=5"
-    },
-    {
-      "headline": "Kraft Heinz (KHC) Stock Looks Close To Fair Value Today - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkYzWkw1Qjc1ZjJIY3U4YkhoUmhXZkd1emhfVjVraUNxdDBvN2RDLXdDcGJFamJMSDQ3SS1kaXUtRmY1SmtmWVZFRkg3aUh0ejJoODdSdU84UlhnN2VocHJRRTBFUzhGcWxMZ3lDSVYzU3JjMTE3S1JET1V5cE9BWUdmRGl3ak9USFRUTVhyZE5neDN2LVRR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRUcxSUpEcHBGcWRzYXpxdXhmZTlUWDFXMXpVNTNPODhoYmRtYnkySF91LXFXaHlKSnI0X001c0ZtLWdwT3p2QTlpME5vdWV5UGphOHZHbGItYTYzU0UyT2xPNlB5VERXR1dtaGw1RG42d0UwZ0M4dk5RR0lzd0VhMWYtWEhTNFhlbXRrTTNVdXNDWmdoanB0cFNRWTQwQTE2Ukdsb3gxNGcxQVFOa0ZycUhJN1pBdXN2Tl9oUTUycl80cE4yUHI0RDlB?oc=5"
     }
   ],
   "insight": "Tracking Kraft Heinz (KHC)."

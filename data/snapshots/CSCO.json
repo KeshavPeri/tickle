@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:36:38.064Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:39:35.967Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    111.94000244140625,
     110.69999694824219,
     112.18000030517578,
     112.20999908447266,
@@ -24,10 +23,10 @@
     123.87999725341797,
     113.47000122070312,
     111.68000030517578,
-    112.9000015258789
+    112.9000015258789,
+    111.61000061035156
   ],
   "6m": [
-    84.81999969482422,
     86.77999877929688,
     86.29000091552734,
     85.54000091552734,
@@ -158,10 +157,10 @@
     123.87999725341797,
     113.47000122070312,
     111.68000030517578,
-    112.9000015258789
+    112.9000015258789,
+    111.61000061035156
   ],
   "1y": [
-    66.94999694824219,
     66.76000213623047,
     67.11000061035156,
     67.0199966430664,
@@ -411,29 +410,30 @@
     123.87999725341797,
     113.47000122070312,
     111.68000030517578,
-    112.9000015258789
+    112.9000015258789,
+    111.61000061035156
   ],
-  "lastClose": 112.9000015258789,
-  "oneYearReturn": 68.63331840501775,
+  "lastClose": 111.61000061035156,
+  "oneYearReturn": 67.18094223933694,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Cisco (CSCO) Stock Is Down Today - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMFFjemo5UF9NcVlfazJ5ZzlGSTNhV2hDRWZQYVNTNFA3U2ZnUFhZWWVLWlhLenZGUXhWSEstZW10ZEI1QXgxY0pFRWdxdzEweUR6VHpDdW9wYUNmT0dfZXctR1VWT09ieDdYYmwySHhuX1dRSm9NWTNDVXhxbU5WV0FaT1FqQUtiakFtLWQxMHRTaFBQ?oc=5"
-    },
-    {
-      "headline": "Cisco EVP and CFO Mark Patterson sells $578,979 in company stock - Investing.com",
-      "source": "Investing.com",
+      "headline": "What Kept Coming Up When Analysts Grilled CSCO - trefis.com",
+      "source": "trefis.com",
       "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOci1Dbm5hek9SUk9xQ2FwNXA0Zk1vRGFuVXRjSFlESUM3QmYwSmh2SnBrQVlrc2ZLSzU2REluQzRHaHR4U2ZweDJyQ0tWc0I1UWxmeXY4dmUxNXYzcDYzVGxOYktUNUVMUERGQWhWQjAxcGJZdVVxMVFJWlBwQUNhTnIxNl95U0E4TDRTT0t2SjdmV1FSTnhtaHdtc08zTXBENGsxb1lqaWlPZnJRd3M5XzFsck14ZkJPRW95anBhYVk0NC1lTWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTU1pT0l5V0t0LVU1QklfMkJXcGZKU3NZN3NhNVBzbnlvOW1tdlhZNUwzVFBPNE1NbmhHbWtqSHNJYXRVM1pDanIwWnVUcFNRc3R4MVdBZlJSZ0pfRnVzU0ZYUG84M3pQMHJRNW1CMWNjc2ZMcWJXYm4tNFU3dHpnNmtwMmt1ZXdhN1BwVjQ5WXRZWkp1MHJLYmVpVlBIeUZ5ZkYta0FpeXN5ZGM?oc=5"
     },
     {
-      "headline": "Cisco Beat On Every Line, Then Fell On What AI Costs To Ship - Trefis",
-      "source": "Trefis",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ05zRy1GY2xLWUZfU005X1J6Mmo3RHFTNF9MWEFYVW1WZWNHUE4zNGd1LXpUaHFNMHBxZUhrQV9KQzZ1N29YSTR1NGdXWWswVFVYRlFaV1JWUGh0bElDcEdGcGdHaVowWTh1WmI1VFJ1MGpmSHlQX2c2Tm1uWFp5bDgyX21uUXp3WmhSVVVLS3Z6dXdUOVZaZEZsaXQwcFNXd1ExaFVDb2dtUXJKTlFjMXJQOHFVeHZrS1NvXw?oc=5"
+      "headline": "Stocks to Watch Thursday Recap: Lenovo, Applied Materials, StubHub, Cisco - WSJ",
+      "source": "WSJ",
+      "when": "2026-08-13",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYU1PZFFsYlNpdVlqQnJhdUozS2pUSjc4bERFN0JGeklwc2V0QVlzajRBc0ljMXNMdHo2emxnVG0yQ1p4cmNBd0xIZG1sd2x3OFItNlUxTUtJaF81TzZReEhSZ0ZySFFJdllvY0haRy15bUsyQ0JQeTFZMnc5ZF9wSFFkUS1aR2FkTDRRWEluOWM5ZEJGelpCZldJQzByQjRHLWxDSUY1RkdSRm9YNzNqSnczd0tiUkdjU083UlIyUnRJLVhoamZiZEVjdkphMEJIQ2hLRHFaSGIyX0Jxdk84TEZ1bzBpMUtMZkhSb2pJclV2ci1ZLTg1VGxocGp3ODQ?oc=5"
+    },
+    {
+      "headline": "Cisco vs. Broadcom: One Stock Looks Like the Better AI Play - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbW05NUdzTm85VkpRd2lyV1lLZHZqZmhDN3BjWmJ4MkhyM0JjX0lQandYSEZUZW84WDFBazhMX05EYV9YNl9pYmlzbkljM3lkOVZjVEpCcENLZDVCekpWQ0VsU19XMXltY1RTX3BtRVJYLVFJSzBkMXhZSkdGRm9YbWlqTTFjZDVSTVBpTDdvUGowYXRIVFE?oc=5"
     }
   ],
   "insight": "Tracking Cisco (CSCO)."

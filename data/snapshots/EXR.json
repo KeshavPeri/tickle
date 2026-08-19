@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:36:45.343Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:39:42.174Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    148.16000366210938,
     147.27999877929688,
     145.5500030517578,
     145.0500030517578,
@@ -24,10 +23,10 @@
     146.75999450683594,
     149.39999389648438,
     147.89999389648438,
-    146.88999938964844
+    146.88999938964844,
+    146.9199981689453
   ],
   "6m": [
-    140.00999450683594,
     140.36000061035156,
     141.44000244140625,
     142.47999572753906,
@@ -158,10 +157,10 @@
     146.75999450683594,
     149.39999389648438,
     147.89999389648438,
-    146.88999938964844
+    146.88999938964844,
+    146.9199981689453
   ],
   "1y": [
-    136.86000061035156,
     139.4600067138672,
     139.63999938964844,
     139.02999877929688,
@@ -411,15 +410,22 @@
     146.75999450683594,
     149.39999389648438,
     147.89999389648438,
-    146.88999938964844
+    146.88999938964844,
+    146.9199981689453
   ],
-  "lastClose": 146.88999938964844,
-  "oneYearReturn": 7.3286560971549815,
+  "lastClose": 146.9199981689453,
+  "oneYearReturn": 5.349197688183061,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Extra Space Storage (EXR) Stock Faces A Bigger Question Than Raised Guidance - sahmcapital.com",
-      "source": "sahmcapital.com",
+      "headline": "If You Invested $1000 In Extra Space Storage Stock 20 Years Ago, You Would Have This Much Today - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXlVTFZZWU4yVjNXUXd2cFA1TXRTei1MejVSaFJZRjh4VC0tanZHblpSYnR0RFlELU5yWVNiR3lqSUJMOG9zaW9pbmFmaEVKcDB6Q192Z3lWSUNULWdkSlJJZUFiVnNIX2pIN1FTUzZmdDdxSWRJdjFJN3ZpazB3MnRyWFN4NUJOOWJWUlJveU5PZ1VzOUxXVEUxVGVMa0hOamRQODdTTk1zWVNkXzl2QUw5d003aklTLXVGY3NYWloyMVlEQ0pybnNn?oc=5"
+    },
+    {
+      "headline": "Extra Space Storage (EXR) Stock Faces A Bigger Question Than Raised Guidance - Sahm",
+      "source": "Sahm",
       "when": "2026-08-16",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc1BiX3dkdGtHbkFjUHV6OVJqZ3FVd0dUU3ZZNWtUVWF3YlVtSDhSTk5YZnQ1TUxmWnFZRUdDQWJwb0ZkNHR1Q0YyOGlzZWc5X1BuQjEwcU5aZEFyLWVzOTJkNTBDek4xR0xVWVZKeDBjZXJkRDhTRmFfdHhKV2k4bVhwNkMzc1loSC15NEZ6WFBqSW9hc2RCS1B1ZU4wel9zNGdIZ0VhMFJTM2JjWERFRjhTaV8ybDdoT1FBaWl5ZVdhdTAw?oc=5"
     },
@@ -428,12 +434,6 @@
       "source": "Yahoo Finance",
       "when": "2026-07-22",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHh5UHpfODA2bUJ3MmpUR3lTUzdXS3dGWmdyd2pPUWc1LVNtWUs2SzJRdURWc3NIVjllbDM4Wmg3NXVYWVZmYmk0WE9vWFk3VzNObkFKVE0ycDh1SnRlOS1CMHZ4Mi1oZlZCcXRLSlhQcXg5TU14cDhOMUNTb0NOY3J2bjRrSkZuZk9WbkVqN2w4MEdLVzZF?oc=5"
-    },
-    {
-      "headline": "Extra Space Storage (EXR), Why Is Attention Building Around It? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOThNdThUZVo0RlpFWDhhZnlaWGQtR3NhU2lQbnM0Tmt2OHUwSGlZQUkzNG1lY3JHT21Ga1daY09JQkhzT1NvT3JtNFUwWFJjYjdXZTdhb3BlWWxLaUpuaWRtWFNZallaOHZBdFZ6cDBqTzJTVzVrZ1hsTXJreXpieUdFYTJ0dmRndE9zZDJnTlJjRGJKd1pZZ0gwbDZ6UC1kWHpkdjF1LXlob0luZ2dTN0dJb1pYODd6bDVKYlBNVnYwbnRVX3c5NkVjRGpVSWdYOWpZ0gHYAUFVX3lxTE9YOXFZUjdDb0owRTdIRjRZcktFNlZMT2dXbzg4Z1RjZldLbWJ5eEg4TGhIRG5INVNEWFhxX2ZjTS1CVWlmMWJ3dFdkS3BuV1d2SFVNSUxReTh0dkFYWFQwTmlGbnNJRnZrajR4MjlaN2x2T0l6VUZBRWRadjVYYjlXcTZxZ2NGb3Z5cjd4SEt5NjhQc3FtMVJicmVBOGg0RWhSNjV6bFpqYm9weXVuQ3VtdU04S00xc2o4UkEzVm5DNWMwTGttTmlQUmhGb005cy1tOHk1aXB0bg?oc=5"
     }
   ],
   "insight": "Tracking Extra Space Storage (EXR)."

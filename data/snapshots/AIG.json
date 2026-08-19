@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-18T02:36:26.512Z",
-  "builtDateUTC": "2026-08-18",
+  "builtAt": "2026-08-19T02:39:26.161Z",
+  "builtDateUTC": "2026-08-19",
   "source": "yahoo-finance",
   "1m": [
-    80.5,
     79.80000305175781,
     80.23999786376953,
     78.25,
@@ -24,10 +23,10 @@
     76.13999938964844,
     76.02999877929688,
     76.63999938964844,
-    75.80999755859375
+    75.80999755859375,
+    76.12000274658203
   ],
   "6m": [
-    76.72000122070312,
     74.9000015258789,
     75,
     78.44000244140625,
@@ -158,10 +157,10 @@
     76.13999938964844,
     76.02999877929688,
     76.63999938964844,
-    75.80999755859375
+    75.80999755859375,
+    76.12000274658203
   ],
   "1y": [
-    80.37999725341797,
     81.29000091552734,
     82.52999877929688,
     82.58999633789062,
@@ -411,29 +410,30 @@
     76.13999938964844,
     76.02999877929688,
     76.63999938964844,
-    75.80999755859375
+    75.80999755859375,
+    76.12000274658203
   ],
-  "lastClose": 75.80999755859375,
-  "oneYearReturn": -5.685493718563035,
+  "lastClose": 76.12000274658203,
+  "oneYearReturn": -6.35994354867547,
   "marketCap": null,
   "topNews": [
     {
       "headline": "American International Group Inc. stock underperforms Monday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZU00dTZDQnBzWG05S1NmWTkxNm9wXzZPYkhkS3FmSkExVHgtMW1iRWJfbmN1aTFYemJsbkh3Y0lfMkZTbmFfMXBQbUhUWlljOTNWc0lzb05UUVgyVmZYczlZa2FISXdEX2tpSnZCUVcxSjlzNTVYOHlscmU4cjk4S0RxUG1EWGxXajZtR1picUNkUGFTN1RkNWkzN2ZtMXdTZUk4Slg3RDVtRUJaUWxMdFNBd2FrMjRER1RNck1PTEU3QWx4dzlGczFqSWRXc1k4SG12MEM0TEh1cDZJUmRLUFhCWFp3T3N6MjZkLXdWeEF3NGlob0lFbnhB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdWZVS3NKVkMwNTdNNncxNm9DVW1zUjBWcXhwaXdON19VY1pXcUZ1YVlZWG5kcG8wM0JKMzhKUFB2UXFMQ3BwUTVMQ1VUUng0VG0xRzdVLUZTNlhDZmVOemUyWXdxOXNXR0U4bnBxblRLOGtMaDdDaFZlYzBjM190aXdpNHlDTjlOUm51Mk9RdWdyNVdrUGZYcE9MWHhiX0NXS2JBVmp5SUlraG1velF5emExWm1ERS01TlRjNFZrZF9fX0ZpMkNxUTJWSmhNZHdtdUJkVFRtdFlSY25zMG9sUHB3?oc=5"
+    },
+    {
+      "headline": "If You Invested $100 In American International Gr Stock 5 Years Ago, You Would Have This Much Today - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYnpTcnpzSHBmY1VOTTBra1JGbV9XbkpWWDRzeUFRUFhtcnV5SnY2bnRoRmpobFNtaU04bnh5NDhVa29mQk5fd0RHeEwxOVN5aDFoSkl2RVAxZDhZdGl5SGpPb3NGYUppMy1WUy10akx2a1Zkc3BSN1BDaE5BMDlNMWFyakxtRTJqZ3YtUC1ON2NjQUJKemhpd0g0N0t4VHBWOGxGV3pweTBtRlI0Z25yUGlYSWV0akZpNWIyRVpCc0xnN05qYVVOTTNWeGpnZ0k?oc=5"
     },
     {
       "headline": "AIG (AIG) Stock Looks Reasonable On Earnings But Weaker On Value - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-15",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWXFqWGItWXlxeXpDSkktLXMyZ0VUcWxIVXByQTVkR2syaU14cDBaTEhkZWJvZ1hlUU9kZ1I2cTNkNzE1NXY0aDZZT2l0X0ItVTVzYVdHa0R5U3JwZ084eEh4VzEtSzRqb0F4VnlhT09Fdk1sZjlHdUtDbzdIdDJnYXQyb2liMURqcHBsbktZbUhRRmhCaWh1YUNNQzI0S3BXbDRDNHJuQlFhbFVvUEZwR2FKRl9lSDFxdFFNQ0k4ZVpHQUhoM2dzNUFMV1ktMHJaQk1LWmxQSmU0ZEFzYXfSAeMBQVVfeXFMTUd3YS1EbjcwUWVEbWpiZ2JhMXpzUXVOOGRxTmVoOVp4OTUtd3Q3Z2dKeTR1Q1dKMkFnQURGZTZFT25kRGw5R01oZ1lDRzREMkplMHBCZHkzcnNCLTJXaXp3UlpLd1gweHJaaml5TlJtMG9CZ2hXV0tZMG56cm1fYVVCOEpMSEtENEJ0RmczUUo2ZzFGMHBlbVpWR25uTklqYWZySnE4Y1IteXdBb0s3TWJuUDRzRGZ2NE55SDNJenFEWmJQbVc1c3REMDNua1BveGwzYllLcVp5cEJrUnEybUlZd0U?oc=5"
-    },
-    {
-      "headline": "American International Group(AIG.US) Officer Sells US$18.1 Million in Common Stock - moomoo.com",
-      "source": "moomoo.com",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXRxVm9sMEZpenIzb1gxN3Bpc1NYeXpzNVM1R3VBWktfc1NOU3ZTTmhfcWx4bDZoeVdYanR2U2w1aThiNWhaMlJhMnU2YWk3cl95Y1RrUjZId2phOG5qemJxdFhwNklDYUVsTXR6YkVNdmlxenlIT2hBZWM5OHU1VGpUeVJWUmhUUUFfMFJGcHh2TXlNbEI4RFh6cUJITHlHVUVtdjFDcUxSUQ?oc=5"
     }
   ],
   "insight": "Tracking American International Group (AIG)."
