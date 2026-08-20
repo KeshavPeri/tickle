@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-19T02:39:30.485Z",
-  "builtDateUTC": "2026-08-19",
+  "builtAt": "2026-08-20T02:38:05.382Z",
+  "builtDateUTC": "2026-08-20",
   "source": "yahoo-finance",
   "1m": [
-    199.9499969482422,
     203.16000366210938,
     197.74000549316406,
     200.6199951171875,
@@ -24,10 +23,10 @@
     210.64999389648438,
     209.8300018310547,
     209.14999389648438,
-    212.5500030517578
+    212.5500030517578,
+    221.55999755859375
   ],
   "6m": [
-    193.80999755859375,
     188.99000549316406,
     191.1999969482422,
     195.5,
@@ -158,10 +157,10 @@
     210.64999389648438,
     209.8300018310547,
     209.14999389648438,
-    212.5500030517578
+    212.5500030517578,
+    221.55999755859375
   ],
   "1y": [
-    138.86000061035156,
     138.99000549316406,
     139.1199951171875,
     139.30999755859375,
@@ -411,12 +410,19 @@
     210.64999389648438,
     209.8300018310547,
     209.14999389648438,
-    212.5500030517578
+    212.5500030517578,
+    221.55999755859375
   ],
-  "lastClose": 212.5500030517578,
-  "oneYearReturn": 53.06783963524835,
+  "lastClose": 221.55999755859375,
+  "oneYearReturn": 59.40714353701549,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Biogen stock hits 52-week high at 219.94 USD - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1RYYUZSTnAzeG9KRjM0NzJpSlV4TW5BSGJ5RXFMbFJpOHFyTFZIbzA4dW1pZDJwdVhyb1VyOV90ZTdBLWZuVkk2R2V4bGVxbFpQQlgxNnpVcjlMRlQ1N0FUYnRJSUFicTZnWm9lcGtmbVVwcnh4bDVNWnlZWmJZMm0xOXM1YXoyNklXZUZaRzhrdmhzWTU5VXNQOEYyMHd4?oc=5"
+    },
     {
       "headline": "Biogen Stock (BIIB) Opinions on Analyst Upgrade and Acquisition - Quiver Quantitative",
       "source": "Quiver Quantitative",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWQwT2dPcUtVNXg2WE5iRl9lVnZJa0UwdDcxQ0Y4OTdCTkdSNThFcUxaVWFKcFRKaHVqMTRJbnRQQzVnQ0pGZzN6SnJDa3h1bElrSmtCOUhaN1lzS0RtVmNHVldaVGlhdV9LVi1XNnIxOEoxZG0tdGlGX0ZXVWFMSmdqY2dEcl9lYjJ0ejJEWGc0SHpMRkVCa0RQeERpUDJHdnc?oc=5"
     },
     {
-      "headline": "Plato Investment Management Ltd Invests $1.49 Million in Biogen Inc. $BIIB - MarketBeat",
+      "headline": "Deutsche Bank AG Takes $193.16 Million Position in Biogen Inc. $BIIB - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNEh1RFN4WldTNHJqREt3RWhHTEV3SFlOTmRTb01GUWNOOVptSzlfeW9wOFRDbVphZ3ZPbmtkQS1kOWUwc1NESmhPVHVseXdGYUZrV2RTUURBNVFJdG1heTBSeE1KX0pZaUdycVppQVVqZ3pHVWgwT2l0QjdCTVZYalFkTkRsc0h4d2ViOXdIa0JZdUpxMUlGdEhaNU8xUVQ5eXkyMUJVUExyOXpfMVI1SWhjamE1MU4xTzRpaWlrNUVfRGRfSzlCeTFxcw?oc=5"
-    },
-    {
-      "headline": "AAIC26: Biogen stock drops after unveiling tau-targeting ASO data - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
-      "when": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWRsTVNULWt1Y2Q0RVFPNmktOFFFLXhiYkdyeGJLeTBMcDhwMVViMnNjbWFzbF9Yc3lfTnVnVENFeVc4cjNzSmhYMTVsX1lTcFoyNTNVd19YY1BKZDRZSlVJOXdtVEs1dVBSNFY2aUR4R21nY0ZIT0k5a1MzTmIxM0dHbWxTMGRsVmdvWVBkVjhSdE5kbU93UDRuWl9BZXBBNS0tLXdOTHNtdw?oc=5"
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWmJ1b2NpTGVGN1BVR1RUajVGZXJYb29TdzBYTG9hTXVKNmhoZ1dYSUlVOGk5OGhCQ25meHI2NHZMemVPbHJkbkZDQXlVNkpmWm5veUVZY0pKS2ExRy1GRlRhTTNUWDFDT0hqNFlGd1ZKX0VEY1hvSGZjV0RGZ1pKV01aTy02WWNfQjVObF8ybWNwbmpfUnRINXh4bGktbW50YlZmWlJmc3o2X1FjUlFXNjF3TVNCenNHYjR3UjJWMURhSUE?oc=5"
     }
   ],
   "insight": "Tracking Biogen (BIIB)."

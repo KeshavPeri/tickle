@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-19T02:39:43.164Z",
-  "builtDateUTC": "2026-08-19",
+  "builtAt": "2026-08-20T02:38:19.954Z",
+  "builtDateUTC": "2026-08-20",
   "source": "yahoo-finance",
   "1m": [
-    1263.8299560546875,
     1227.3399658203125,
     1221.469970703125,
     1206.18994140625,
@@ -24,10 +23,10 @@
     1110.699951171875,
     1085.780029296875,
     1064.4100341796875,
-    1078.1199951171875
+    1078.1199951171875,
+    1161.5899658203125
   ],
   "6m": [
-    1372.760009765625,
     1380.6800537109375,
     1363.31005859375,
     1337.6400146484375,
@@ -158,10 +157,10 @@
     1110.699951171875,
     1085.780029296875,
     1064.4100341796875,
-    1078.1199951171875
+    1078.1199951171875,
+    1161.5899658203125
   ],
   "1y": [
-    1384.9300537109375,
     1344.1099853515625,
     1361.719970703125,
     1415.9000244140625,
@@ -411,12 +410,19 @@
     1110.699951171875,
     1085.780029296875,
     1064.4100341796875,
-    1078.1199951171875
+    1078.1199951171875,
+    1161.5899658203125
   ],
-  "lastClose": 1078.1199951171875,
-  "oneYearReturn": -22.15346961181531,
+  "lastClose": 1161.5899658203125,
+  "oneYearReturn": -13.579247347344904,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Fair Isaac Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTnZ0QURFWHg5elF1bnBGeVQ4VERhR1o1Zmk0VW9KVFlNZ0plSGJnWEJoOFoxNktxNFFlaFBOZXpSaEpwd1FuWVpSUFZrOFdFWXVYbGdremNvY2lOcmNKWHZ0c28ySHp3UlJhNERRZE5YSm5hRHlya1VfMWZlcUJPekF4QVZNeDVDQ3E4LTRrT2NackZEZFRhcTNiTlJnckV5UUk4dXVBcTluVVFnM2VKS2ZjeFRQTHVNMFpYT1Z6ZlkyOVJwSGc?oc=5"
+    },
     {
       "headline": "Fair Isaac (FICO) Stock Jumped, So What Is Driving Attention Now? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2tUX0tCSVMtb1pqQnFGcFcySFE2VGdqWEFtejN1bTdDWXVubGJkMEJpM0ZwODJCM2hWdm54bU81RnlxMTJONl93dHluY2hUM2hHSDA3YUdGZXFGRGQtck02R2dtQkk2SlpxdFBZUmlxemtBak1iQ1pJSEdoemphMjNnUXZlQWJuOUlBV2pOU2dULWRmQmFhdg?oc=5"
     },
     {
-      "headline": "Capital International Investors Buys Fair Isaac Corp (FICO) -- S - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSk5wX1ZScHBVb1V5RWtyWHV5UGtfczJXMkhFd2VHLUwzazB6dnh2eGVteVpQTmZaM0NQVS03bWZRczdUZnZPbEVTQXNLUTAzMG9fWG9RbFpCVmF4LXVzYjhqYnExOTJiNE02NU0tdkRzbmlBZkx3blJaN1hZWlk1U2t0OExISE9OZXVPVUVVVjdQSmtYaHc1VFdhcGFvX3Z2NVRYMnJYMFJTcDR5M25qOE5rc09OaU1SSzNFR1Iyb3lPa1FEbUZGYVBYZDR6VkJu?oc=5"
-    },
-    {
-      "headline": "Fair Isaac (FICO) Stock Seems Undervalued On Cash Flow And Earnings - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVU1RV2d1Vk16WlhpYThIbERmeDgzWXZSaEVlM3RSOTNIOG1PdDB1ZndQTkhHMTlWUmlvSGFJdlJTZUtMekk2dzh2QWVHb0gyblVBYnZVbFFqb1Q4THZJcThuMW9laTluNmFsMFM2YkhuRWVkSVZIb2pralFJR29XRmZsa2ZwQ0xGRGVINmVZSmtpYVlvbW5xd1BZMVpGc0hJZFowXy0tOFZOLWpfbVh5N2o4azRMZ2d5amlOT1FvUXlXanhKRHfSAcsBQVVfeXFMTXFBUEJiNExnRVRKX2RSaWJlTHVHTTBqWHJ2OWFETmIxa3NJWjFJdFBkWUtfdkF0bWlqWVV4TlpBTXA4OFYwTGRMaWdQZ3BITnpKMTg5XzBqTks2Q1AyZUVyQlhPWDI0Tnp4Q01MNjN6bk5GeGd6dDdOVmk0YTUxTEFCTEVTSll2M3JuVGZqZ2F0WXhjbU9CVzFiaHlBd1FRQlJuNndKS25Jb2NYZzlXMUg3b05rSUdGbkJ0MzhyTzQxM1Y0S29UeUNMX2s?oc=5"
+      "headline": "13,791 Shares in Fair Isaac Corporation $FICO Purchased by UNIVEST FINANCIAL Corp - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcFVxZkVNQ3l3T1kyb010ZVBtSzctMmFrcF9VTkdnbzE5VVBackpXa0x0RUY0WGlrUFpUMmpfWGllUVZoWEhzNDNIRGlKVUdQRjdLclpCVUJISTgwaExGb3BtSTU1X1diNjV2Smo4cmpVcnJ4UmQtQ0xYV0FLanpsYV9yb1JKLVc4SFk2emExWVpPMmVQdk9oMjhOaEppZy1RZXgyYUpYdmQtZXNhT0RHeUJ1UnRVTllVaE5Fb0EzQnBvZUdYTjhaUFJ5cGhfN21UdHZMRWRJQQ?oc=5"
     }
   ],
   "insight": "Tracking Fair Isaac (FICO)."

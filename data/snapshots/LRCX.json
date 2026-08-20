@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-19T02:39:51.550Z",
-  "builtDateUTC": "2026-08-19",
+  "builtAt": "2026-08-20T02:38:29.985Z",
+  "builtDateUTC": "2026-08-20",
   "source": "yahoo-finance",
   "1m": [
-    306.760009765625,
     322,
     319.2900085449219,
     319.7799987792969,
@@ -24,10 +23,10 @@
     337.010009765625,
     332.3599853515625,
     343.8399963378906,
-    327.9200134277344
+    327.9200134277344,
+    307.1700134277344
   ],
   "6m": [
-    229.27999877929688,
     226.61000061035156,
     235.1199951171875,
     231.2899932861328,
@@ -158,10 +157,10 @@
     337.010009765625,
     332.3599853515625,
     343.8399963378906,
-    327.9200134277344
+    327.9200134277344,
+    307.1700134277344
   ],
   "1y": [
-    100.33000183105469,
     99.1500015258789,
     98.41000366210938,
     100.08000183105469,
@@ -411,12 +410,19 @@
     337.010009765625,
     332.3599853515625,
     343.8399963378906,
-    327.9200134277344
+    327.9200134277344,
+    307.1700134277344
   ],
-  "lastClose": 327.9200134277344,
-  "oneYearReturn": 226.84143072170738,
+  "lastClose": 307.1700134277344,
+  "oneYearReturn": 209.80333706556794,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Lam Research (LRCX) Stock Is Down Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3M3OWV4OXhxV2Q0dTc4eFZROHhUQl9yN3RGM1lsUkl6NGVoUF9SOGR3NUZTVzF2S3FWM0FaS3B6dmdxQmx2aDVJbUFqMGt1Y01NemtiWHRIc0hGR1B4Q2Rsb180dFZwdVNsc0MzdVZxeTZlTEc4TlRFLWpyNjNIMFZFZk1UQ3M?oc=5"
+    },
     {
       "headline": "Lam Research (LRCX) Stock Looks Fully Valued After Its 499% Run - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpKY3oyM0thMVptaTRxM1VzSHVmM1dkLXNDRGJkTld3alVtc3Byb2RMcVg2T3dXclpWWDNOTzd6VE5rMWlJMU9mRVhiMlN1Y1ZPdW5vYjJyWmdmWWhKNjdMR2tKUlBuTGY0MDl4T2JDMXVXaXBLV1pGbFc3X3Y4M2tIUHh2TG1JbC15Rno5UmdkMzNsWEN3R19n?oc=5"
     },
     {
-      "headline": "Lam Research (NASDAQ:LRCX) Stock Price Down 4.6% - Here's Why - MarketBeat",
+      "headline": "Lam Research (NASDAQ:LRCX) Trading Down 6.3% - Should You Sell? - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjROaTBpcEg3WW5UYmRvelU0bmItYnBQOHREazRsWDhOQTZYYy1BWG5wRW1vZ2hlZXpsbFBuY201Vi1lejNyZlBmRFF3N0V1Zk5ZYXRBOVBzX18tUlJGR0laVHZINVBmUXZ6ZmdiQS1WN0MyUTR3R2VVZmhQX3FnVlFuWnE0akNwRUJNZXB0NlV5MHdnS0o2MWFld19sZ3FBcW04WWdyS3BkREk?oc=5"
-    },
-    {
-      "headline": "Lam Research Corp. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPd3BpUWtxQjcxTWNoLVB2WE1JaWpZS0NPamxJZWM2eFNiYWczUTExaDA4enAtclhfemhVLUtTeF9rbFAzaXRKT19hMWVUOUM5OHdfRVhfcWxkNXJVMFcxZGpFYjRoNGxWeHUtMW9yTUZ3czEzSHpkQ1ZSYzBJaTh3bng3M1pYUm9GcTAxWUFKTXRyclZGT0dVQlhHMTZENzg3enlPbFl0Slhub2NxdlNlbjhZZVdiVkVqR1hvV1lPanVUU0pTVnFGVGxLbkhiN3dlLTFGRG81MUNsbGZQNUpnM1U1ZU5sVG5zTEVvUXBaNUltNnQtNzU4RlJoWWs1WU95VS1kOW1UUQ?oc=5"
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEF3Q1J0UjBfUFJGbmRwam4xd0dzcVl4YlF3aE9CWDhTdUM5bFE3anhuTGZiTk9VYTJBN0RodXUwLXFoQVk0TVJKQkFha3JqLXpOdFZBT2JHOE1aWUF0Z0Zxb3h5d1pwa0hwRVpnZFdia3dTWG1uYWZRWmRENDJUWXF6ZTlqeXBSLUZaSVp3VGIwTW5XNDNleXB3YkdSeEVQX3VxTU12NjVaX1RuMEE?oc=5"
     }
   ],
   "insight": "Tracking Lam Research (LRCX)."

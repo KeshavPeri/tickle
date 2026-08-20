@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-19T02:39:31.742Z",
-  "builtDateUTC": "2026-08-19",
+  "builtAt": "2026-08-20T02:38:06.893Z",
+  "builtDateUTC": "2026-08-20",
   "source": "yahoo-finance",
   "1m": [
-    14.640000343322754,
     14.850000381469727,
     14.829999923706055,
     14.369999885559082,
@@ -24,10 +23,10 @@
     15.390000343322754,
     15.619999885559082,
     15.539999961853027,
-    15.520000457763672
+    15.520000457763672,
+    16.219999313354492
   ],
   "6m": [
-    19.18000030517578,
     19.329999923706055,
     20.020000457763672,
     19.940000534057617,
@@ -158,10 +157,10 @@
     15.390000343322754,
     15.619999885559082,
     15.539999961853027,
-    15.520000457763672
+    15.520000457763672,
+    16.219999313354492
   ],
   "1y": [
-    19.270000457763672,
     19.25,
     19.299999237060547,
     19.65999984741211,
@@ -411,12 +410,19 @@
     15.390000343322754,
     15.619999885559082,
     15.539999961853027,
-    15.520000457763672
+    15.520000457763672,
+    16.219999313354492
   ],
-  "lastClose": 15.520000457763672,
-  "oneYearReturn": -19.460300523704273,
+  "lastClose": 16.219999313354492,
+  "oneYearReturn": -15.740263307249391,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Conagra Brands Inc (MIL:1CAG) Stock Price, Trades & News - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN0QzY05nd3B6ZlZ1NUFKamp2bVk2dFJMSDhZWWxVOGh5cllZME40cE50TTJNOC12aW5HWVdVZVpybWdEVEFYcHF4NDBZdlNOZDZCY3BzRzdtbERmRHRTN1JKWnZRWGFHcW9QRm9NaFVWY3UwdV9VcUI4aUJ5c0RfRFNMbnA4MjQ4UTNUVnFaejRBaEtrLXpUWFJ0aHpGdmUtTGh4U0dEM2ZKSndQQjJXLUN1NGRKa3Z4TkhPcw?oc=5"
+    },
     {
       "headline": "Conagra (CAG) Stock Looks Fairly Valued As Margin Durability Stays Key - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOam91YU10VVNWUUV1b1ZrMHg3THZFcHQ4U0hibnA0Q3FSYVYyT3I5d2pRcmI0cXZTQVNrRk95WDVCMkhWem55RFFBWUpaR2RXM2pVZW9QUmhlSlBId0lfeFdtVlJhTVUxRzdpR3oycExPRHFhVGpLUFhBWENIaklGUTJMNGkzVDNUaTBnZ2hNdVcybXNPdHdJeUtYTQ?oc=5"
     },
     {
-      "headline": "Conagra Brands Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU192RS13eXhZcDM5QmhkRHhrbWI2UjNYejZNNGRsQ1ZDZnpzX045UnV5TXVZTVNaeTFNV2RLR2ZKYmZMMVhhekZkdWxiRnBreWJBMHB0NHYtQWxDT1pna1Q0a2I5NHNJOTNlZ1pUZVA4S0J3WVdVUjFvOFhkaTQ5TW9ZaDctSDdFdlZIN09mbDF3am5nbnFfeGw2RmwtR0RDX252ZUQyV254Q0NRWV9ad0hUQ29PZW50a0dXc25ZT1NVeDdXTHlmVjVn?oc=5"
-    },
-    {
-      "headline": "Bank of America Corp DE Sells 243,950 Shares of Conagra Brands $CAG - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0xjV0xyRGtWOFdOVG1QRldNMUY3YzBCUl9tX0FJazJyVjg2Y05Oc0tudkt6bGNSazhNSjJibndmQlN6Ym5BQTVDUk0takZtdU1mWVN5ZGRMUWRnOEsxcXdFRHRReHUtOW14VXh4d2s4eDB2VC1nTGRrSjNQaHFnSnNENGhEa056eEF0SW1Pdm9HVzBZQUx6RDhUbVRuWndmSnBMWVJhMEFESmtDWDFobldPak9hTjBxbjdXbnFpSGZFWG5X?oc=5"
+      "headline": "Snoopy and Charlie Brown inspire new baking mixes and hot cocoa - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYkJsTDdxUHRzTzFnTWdXZ1lXenFQdWhablhCQ2pzTG5Ib0dmTFQzUkFxLV9WM0NEamJwaXBWaVVoVFg1OFpUZE1qcHlTRFNwaXBsQkhtdkROT3RNaU9UdGluRnNfR0o3QW10Yk5WdFZ6c29STXZoNC1NTXhGYlpDMUJ3b0N3WjRpNGs1YWlyU1hVRTVocDNQekdkUGdsT3JzTUo3dDZzSEw5SFFzLUVYWkhMb2VUald5NHl0V2k3RQ?oc=5"
     }
   ],
   "insight": "Tracking Conagra Brands (CAG)."

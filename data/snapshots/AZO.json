@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-19T02:39:29.573Z",
-  "builtDateUTC": "2026-08-19",
+  "builtAt": "2026-08-20T02:38:04.123Z",
+  "builtDateUTC": "2026-08-20",
   "source": "yahoo-finance",
   "1m": [
-    2994.1298828125,
     3013.030029296875,
     2972.449951171875,
     2923.5,
@@ -24,10 +23,10 @@
     3040.3701171875,
     3025,
     3019.300048828125,
-    3073.199951171875
+    3073.199951171875,
+    3076.889892578125
   ],
   "6m": [
-    3634.2900390625,
     3664.840087890625,
     3735.85009765625,
     3788.7099609375,
@@ -158,10 +157,10 @@
     3040.3701171875,
     3025,
     3019.300048828125,
-    3073.199951171875
+    3073.199951171875,
+    3076.889892578125
   ],
   "1y": [
-    4128.7998046875,
     4158.10009765625,
     4127.68994140625,
     4110.60986328125,
@@ -411,12 +410,19 @@
     3040.3701171875,
     3025,
     3019.300048828125,
-    3073.199951171875
+    3073.199951171875,
+    3076.889892578125
   ],
-  "lastClose": 3073.199951171875,
-  "oneYearReturn": -25.56674829128755,
+  "lastClose": 3076.889892578125,
+  "oneYearReturn": -26.00250546367459,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "AutoZone Shares Dive Post-Earnings But Wells Fargo Sees A Buying Opportunity - stocktwits.com",
+      "source": "stocktwits.com",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeC0xVWpCM2lIV3phVllRNTJoMkx2TkFvOFdLbmxiVUN1ZGpQMWpYVmtSWHpzTzVDNmNpNWlieS05LTNLYnZwQ1VraDdBOXluUHJsQWRPeDJqLTlZWXdMcDd6cG43UXZtRklBRThSaDB2blBDZXVrT216X01HaHU3ZHR1NVNLRUEtcTNJWmd2NFk1VkRnaHdfWGFhcEExSGc5dHpJcG1sa0dNRGNtdkpaNG9BaHZDeG5naXY2Y2pic2ZfUVJjQU1IRHZpWTFJdmJoekxHTw?oc=5"
+    },
     {
       "headline": "Why AutoZone (AZO) Stock Is Up Today - Quiver Quantitative",
       "source": "Quiver Quantitative",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yd25qOTVrNmxFR3JtZDlPSzZaVE02MkdPVmt0VHFLbXphSVpuRzVLbTRKZWYxMUl4bThfdG1OVEZ5dWF4TElpNzVGUmR2bkM4X25mN2JyQnZHSXU1TG5BU2JFaWJjSXBuT1l3aE9kdUZVSFp0cXBUUENuSHFUQQ?oc=5"
     },
     {
-      "headline": "AutoZone Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTzNCZ1dWd1VHTUR6dGVHYzlMdzBzUDByN0QxQlAwV0x5bXVoOUFMOWZoZ19VRk83T3oxSlRoLWR1QVFDMHM4bkU3UG1rZnY2T3BsZjlLdlFiOHl0cEk2b25kQ3ZjTDhuOS1yekhMN05ST1hyS1paQmhpWlRuQzlQSTZHc1M0aG9mc0RnMk5NT1pKVGFiWGdoOV8zQTFTTTZCTFhVMmNOMmtKUHY3NkdFLWZiVnZna0h5YW5LYW5HcTNPLVFGdW5BRU1fWGxBS2pfUDJBVzlCT3FvZw?oc=5"
-    },
-    {
-      "headline": "AutoZone Stock And 2 Auto Parts Picks For Investors Watching US Canada Tariffs - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaXBTMzR0VXo2c2RGWTlLdUt5MFB2azZVc3dtcUhFWE9kYXZUamdHdzNsMlk2UHZYWTg3aWNTUU9oeVRObWJ4dVZrbzNWNWdycTVEcDJXVDFmTmdCdFQzN1RVUkprN0dIM0gwVHdYZEJKbWtfSDlrbkQ3ZVVRTy1Bb3ljWTEtdGNUcEhqRmhpc2JkbDYzdDNFbEE1Nl9jVkhmMUtJVUVxMy1CSzVFUGh5ejM0MnpNX3ljZkdlZ0Z2WEtPcGN4dTFtVjZwNznSAdIBQVVfeXFMUDhSM0Z3cjBiLUYzVVpDLXktR3I0ZmpUVW5pQ2t4QzdHMkRRa2VlOEVweVFpZC13T0stenJfWlUxY0ZGRTRZV2ZvNUlsU1IySFAzdjRFb3RzSkZXRFdWUTJTN3hFOUpNZ2Q4YjJHU0s2MHc1QTV3Q3dDaDVpVjJIeldMNHlJc1c4RTVXUHdwbW9jTEFUZG5meVBFblUyQWJpOHhNUFZCaGhKcGQzYnhSZ2RIZ3cxV215dnJYWUJuaHN5TDE3b0tnbnR1S1FPVnNtcV9B?oc=5"
+      "headline": "Deutsche Bank AG Makes New Investment in AutoZone, Inc. $AZO - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWhMRjI1QXNKbFEzZkMxYVBnX3NyNGxodGRLM29ESUx3alZvRkZmSVEtV0pGR0pNWU1ibk9tWGVYSVZXbG1DWTlrRk9ZNmZWMzJ2VFJYeGJsWjFOUEVtYW9tT1hlbXd4QklENUczTEZHUnpRQW5Hc0pKVjN5ZmR1YnhRRlpPbExHeTVXcWtRUDh5eW1zMmlTS0sycGROc3Rsbl9pdktYV1F6QzYyUTEtNU50ZHE3c29Cb2c?oc=5"
     }
   ],
   "insight": "Tracking AutoZone (AZO)."

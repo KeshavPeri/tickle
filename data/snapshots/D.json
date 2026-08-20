@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-19T02:39:36.974Z",
-  "builtDateUTC": "2026-08-19",
+  "builtAt": "2026-08-20T02:38:12.714Z",
+  "builtDateUTC": "2026-08-20",
   "source": "yahoo-finance",
   "1m": [
-    70.36000061035156,
     69.8499984741211,
     71.08999633789062,
     71.45999908447266,
@@ -24,10 +23,10 @@
     68.54000091552734,
     68.7699966430664,
     68.7699966430664,
-    68.61000061035156
+    68.61000061035156,
+    68.29000091552734
   ],
   "6m": [
-    62.36000061035156,
     63.790000915527344,
     64.6500015258789,
     65.12000274658203,
@@ -158,10 +157,10 @@
     68.54000091552734,
     68.7699966430664,
     68.7699966430664,
-    68.61000061035156
+    68.61000061035156,
+    68.29000091552734
   ],
   "1y": [
-    61.29999923706055,
     61.52000045776367,
     61.25,
     61.900001525878906,
@@ -411,12 +410,19 @@
     68.54000091552734,
     68.7699966430664,
     68.7699966430664,
-    68.61000061035156
+    68.61000061035156,
+    68.29000091552734
   ],
-  "lastClose": 68.61000061035156,
-  "oneYearReturn": 11.924961605662729,
+  "lastClose": 68.29000091552734,
+  "oneYearReturn": 11.004552027615135,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Dominion Stock Clocks Best Day In 6 Years — This Analyst Sees Further Upside After NextEra Merger - stocktwits.com",
+      "source": "stocktwits.com",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa3Itc3ltYTVxU3drOFBZbXFXa2dBbHBzeGtyeU9FRXRYcjRYeG43Zk5EeWNaVGVSTk9UcERNVVVGY21UMF9ZNi05SFhiTnlHSWpzNW9PaGZ1WWlFQVNhZGhHSTdvRDhBRkxhcVhVaVB6ZnRoWHVNUGd4bTdTYjVvb3VoQ2dCRzZyb0FpT1BLY3VwdURZSS1UVHgtRGFnRnZXNUMxZXlpSHpjM0xCOWVlbHpoT0JPOG9ySVZVX3kzRU1JbG11d0xCNHpuWGJOQ2ljUUNJbGptalQ5TS0zdHlHS0JfN053eVoxQzlQbnZ5ZEw?oc=5"
+    },
     {
       "headline": "Is the Options Market Predicting a Spike in Dominion Energy Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZENVMlhxanVQS3dsU2FUQzdZNEE3RVZObnFoUDVkYkFSQXhoV0V1YVBPZmFRR0hRZ2tGSUNfMkJzamtnZFFza2t4bUo0eXJNWkxWTFU5UTF5YVB3anJOLXZoOV9PRko2RUJCaTJWekVmOU5ySW90bTYyei1ienJ3ejhHLUhuM3BnaDNmRnpHck96NmpCRUN0ckV4T1pBdTNrZXhRdG9pM21Ndw?oc=5"
     },
     {
-      "headline": "Dominion Energy (D) Stock Discounts Growth While Funding Strain Persists - Sahm",
-      "source": "Sahm",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUXQ5djF0VEhLQlhxMXhpVTc5SXZrMWx0YWZaeWtSbVYxS2FuelVoSXBldXpxZ3dDbXNISHNGSDdjbXk2OHdfMElCSl9kUjE5OFVNY3hkdjd4LS1GVTdPREJWQ1plNC1QWG9RakFXNHBONXZwb2Z3aV9fQzdTMkp0V1l4X3UxYXJaNHZqU1lRSHpmMUJsMTlaeDUycG5sYmZmOUtlS1VudTBORHJjTFJsOW9JNXJZZVhxdlB0QnY3VQ?oc=5"
-    },
-    {
-      "headline": "NextEra Energy and Dominion Energy to Combine, Creating the World's Largest Regulated Electric Utility Business and North America's Premier Energy Infrastructure Platform Benefiting Customers - May 18, 2026 - NextEra Energy Newsroom",
-      "source": "NextEra Energy Newsroom",
-      "when": "2026-05-18",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPU1BRVm5wa1A0WFQ3Uk9hZEdLZ0dzOW9fZjFURVZKRklab1UyT0VTekhJS3djN01BaVRQUGIxUFJUMURxSE1vZ3JiZ1FHSm1seW1TdWx5MnBQX3VXWkJyY2NhUk9kQVdzR1BHOFR4VXZUalBGWDloRFJXRExXQmFUQk5QWS1EUlJna3VrWWtqajhBMVh2LUc3V2hWT0I4RnlXNDZkUUlRTWZBbTJsZ01GV1F5ZTNpT2VzOHBtaE9Id1hvb05UdE56NnhTVDRuNUNYbVhpNHQ3bTl5TFZKSzYtMHk1QnhmQ1Mza2pFZ3FYdFBPQ2YwN1dRcWgyUWU2NkFEX1NaODdPOVh6RXYzT2s2SzdvZnRCVFhVNUtjS2M0d3JEM0RTeVpiR1otT0l1WkJyNXJhdEJScEFBRzZFQk15eFlCcFRTQWd3UGQtclhDZ3NiUVVyV096bS1EZHI?oc=5"
+      "headline": "TD Cowen upgrades Dominion Energy stock rating on merger outlook - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGpBNmxuM01DdHh0aDY0M29qbGl2WFdXR3hMc2ZYOFFPX01jTFJldVVncGEwUXVZQUlKSUlRN0FpTkp6ckdxbW5mRnptNHN6RHZUVTVpR2huVS16eW92cHhjZi1oTG5OZzlqNnNfSW10bGg5NXVIY0YzbmFRakhDbTF1VkZJSjMxZnFpMVN0MWhqRF9xNFlDWFdXcWp1bkIyRllndDRrcEpXTmw3T3FIbk5TYXBUeVZJRHFNV21iaEpmWl9PTWlHYmRWV0c?oc=5"
     }
   ],
   "insight": "Tracking Dominion Energy (D)."

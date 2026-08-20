@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-19T02:40:02.186Z",
-  "builtDateUTC": "2026-08-19",
+  "builtAt": "2026-08-20T02:38:42.044Z",
+  "builtDateUTC": "2026-08-20",
   "source": "yahoo-finance",
   "1m": [
-    317.9599914550781,
     299.739990234375,
     284.32000732421875,
     288.1600036621094,
@@ -24,10 +23,10 @@
     328.95001220703125,
     328.6400146484375,
     320.4800109863281,
-    332.2099914550781
+    332.2099914550781,
+    346.8800048828125
   ],
   "6m": [
-    355.239990234375,
     360.510009765625,
     339.25,
     287.0400085449219,
@@ -158,10 +157,10 @@
     328.95001220703125,
     328.6400146484375,
     320.4800109863281,
-    332.2099914550781
+    332.2099914550781,
+    346.8800048828125
   ],
   "1y": [
-    570.260009765625,
     567.9500122070312,
     566.6699829101562,
     561.1400146484375,
@@ -411,29 +410,30 @@
     328.95001220703125,
     328.6400146484375,
     320.4800109863281,
-    332.2099914550781
+    332.2099914550781,
+    346.8800048828125
   ],
-  "lastClose": 332.2099914550781,
-  "oneYearReturn": -41.74411921473937,
+  "lastClose": 346.8800048828125,
+  "oneYearReturn": -38.924201527023385,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Tyler Technologies - forbes.com",
-      "source": "forbes.com",
+      "headline": "Tyler Technologies Inc (TYL) Stock Up 4.4% and Still Undervalued -- GF Score: 83/100 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREh2N0thbzVueGtuQ1RTOE02UEV0MS1Ldlo5MlpCV0dXOG5Kb1RvaFRCOGE2cFhMNWRfT0MzV09scjVXc3F4QmZuV1NtclpsaFR3d040dzJ0LXVDMVJNdHFFX0gzdmNOMDJyTFA5WVI1S2NxSmFvR2dycjFkMGhLY1JESWtLWFltTjBVc0xfTVVmSlhxNmZCa2tScl9CUWpvTHZEMjVMMVdmUGsxUnQ5UFlkVnU?oc=5"
+    },
+    {
+      "headline": "Tyler Technologies - Forbes",
+      "source": "Forbes",
       "when": "2026-08-13",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qaUtpQnYyaVNhZS1lSTJTY09KellJdEZ5Z2k4aDZXWExDM1NSNlR1d2Z4Rk5GM1hJUUxtcW9xVWpaWUNOLVVaaDZhUmJTaTFFQ3FCNnI5TlZKRWVERkl2TlVR?oc=5"
     },
     {
-      "headline": "Tyler Technologies (TYL) On Tennessee Cloud Rollout And The Question Of Valuation - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Tyler Technologies Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQVl2SXUxWEpVTUVzUThIajNFc2NLQW9xaWZrM1RyTzJZalYyMlRsZVp3dlpuTHFReVlna3R6N29kYUFsd1hhTm9DVnpRNlFWaVRqNlpUcWFSM0hVTnFSWjRuaU1VOXNaUGExSHpkbUptc2hZMUxYT1E4ZzhOUnN4TWlNRldxNVFJUHlwS2RNdWFkMVA0eGMtSnVaczhrTDVOajhlVzFlODZsWElwejU4R3dPUklUZ0kwWHV4QXdScUx6M1JWcTJMSFFsYWdBM0XSAdQBQVVfeXFMTlFwZ0VWZEF4YXlaOC1pSzRhMm5jZ1hXWFJ0RlN0bkRFZ1lJTDNiR09DMVNUVl9KMkNzejVCZXJUTkZnUE9mQlQteWVFUFE1MFBTc210LU5iYnIwdEp0V1VQckZBUU1uSWlUZWY3ckZfLWk1c1NBOWhSME1TQTljOFF5c25sZmF5MENCZkdxVUVsanp6TjllRjdGR05KMmpIMklZVXFjNGNMZDFDdENha1ZSb1RFNnJDQm5rX05TSFR6ODJmcUx5amtoeG5EaURpN3YxY1Y?oc=5"
-    },
-    {
-      "headline": "Tyler Technologies Inc (TYL) Shares Surge 3.7% -- What GF Score of 83 Tells Investors - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQXBlYUxiLXA4WkVBYVJPSEE3WHpGY3lHMlJkSEIyRGJ3YVFyMTNDU1l5UTMwTWlzcnBSV2wtQlRSZkh1TkZMV05MTWNtRm1YaEZ3a08wRjJrUTJ2M0YtZkQyQkJLSDI3UWUxRWVFZlNYLVRiVnVtSVNVcFQtRzF0cVJNS015dW1OZXZPdW5HTGdFcVIxTHU3Y1ROUFJlY2ZsTmxGVXc4RlJXdXA1QkZJSEhydGR4QXdR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTTZqODUzd21abTRxVm84SlRILTFiTGg0V1p5MmQ3RG82N0preFpuSy1hazc4a3N5QVFWSEp6NGZiZXhWaHNEVjg1X2trbGZxTThwZTlZb1BPelRCSy1RM1hGc0U3ZVBPbjhCX3FRLWJfT1pXWml6OGhLT0RlNXNTR2NnMnVFOG5LcFZtczFlVVJoaktTWnRfeUI0ZEh0d1ExVmF0RUxHZ3RyRGhPTTFWM2lycFlMMmJwLXVlWXB2c1pYbVZuYjNGSERDaXp1cnFnOHRsZGtYaVNpdkp1a2RCU0JVa3JZVHM?oc=5"
     }
   ],
   "insight": "Tracking Tyler Technologies (TYL)."

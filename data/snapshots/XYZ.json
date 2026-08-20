@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-19T02:40:04.134Z",
-  "builtDateUTC": "2026-08-19",
+  "builtAt": "2026-08-20T02:38:44.369Z",
+  "builtDateUTC": "2026-08-20",
   "source": "yahoo-finance",
   "1m": [
-    79.94000244140625,
     79.29000091552734,
     80.37999725341797,
     77.45999908447266,
@@ -24,10 +23,10 @@
     83.08999633789062,
     82.87999725341797,
     80.19999694824219,
-    79.43000030517578
+    79.43000030517578,
+    80.93000030517578
   ],
   "6m": [
-    55.970001220703125,
     56.779998779296875,
     57.29999923706055,
     53.810001373291016,
@@ -158,10 +157,10 @@
     83.08999633789062,
     82.87999725341797,
     80.19999694824219,
-    79.43000030517578
+    79.43000030517578,
+    80.93000030517578
   ],
   "1y": [
-    74.30000305175781,
     74.18000030517578,
     74.08999633789062,
     79.12000274658203,
@@ -410,29 +409,30 @@
     83.08999633789062,
     82.87999725341797,
     80.19999694824219,
-    79.43000030517578
+    79.43000030517578,
+    80.93000030517578
   ],
-  "lastClose": 79.43000030517578,
-  "oneYearReturn": 6.904437473366432,
+  "lastClose": 80.93000030517578,
+  "oneYearReturn": 9.099487695107262,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Block Stock Rips Toward Best Day In 4 Years After Layoffs: Jack Dorsey Concedes Pandemic Over-Hiring - Stocktwits",
-      "source": "Stocktwits",
+      "headline": "XYZ Stock Jumps After Block's Record Quarter, But One Analyst Remains 'Skeptical' - stocktwits.com",
+      "source": "stocktwits.com",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaThPRWZtRG55czBGU25hLWtGZ3F0SlRMaWI0SW1QTENEd2ZZbWUwSXNXazFVVV9CU0lNWnozeFhvMkFta2tVMkpodXozekhBb3l1VG4zX2ZUbDk5Q0VzckZOemFGZ1dsYnVlSjlSeEhsQXd5aU5ENWFycExGUVJhTGdlcmRQV0I3bmlLRzBXMXpKekNYSWdyb0pQd25lTkZTc2ltNGNQNmVPQlloY1NsNUhDc3pyV2dpMkdRSm5ULVN5M3ZiMGo3Wl93TkJNdw?oc=5"
+    },
+    {
+      "headline": "Block (XYZ) director sells 18,000 shares over three days - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVW1wSVJSVEFEdWRXa08xUEJjaEpPclVnQmN2SlpUbngwTW95aGQ1aTU5YlNOekttSDZxTm9BcjFqQVZmRDcydDJOTUcxdUpaZ0JUVXFGdnFCLVluTy01VzdrcFNBSFk2ZDlXQ2pVZHpLSXNvN2h1b3p6ZktWTG9xSzlKMlhXRy03Qi1WbVpNRl9mVnAxZFhhTDNKNUh3ZTVaTFFCdQ?oc=5"
+    },
+    {
+      "headline": "Block’s (XYZ) EPS Surged 65%, So Why Did the Stock Drop? - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVmNqemdoLTNoWEgwRnhiSzFjU0J3MW1Va0NFRUVKQkxGUThpeFdyR0xtaE1UN0hVcFlsVDM4emxkOGF6dFQ1TGRuNzBDUDg3dEpkeS1uZjBLRFU1UlczZGd4Mm9CSHpaTlhOSDY4SUlBYURNc00yeTkzTlptdXNpQnlvS1FtYk4xRVI0bnNPUFpUdHlWT0ZFLVZhOWJhbFRXTjNYZlg3UzlFbDRMNmpXZl8tYUtxejZkdkpMV0FHRm8ydw?oc=5"
-    },
-    {
-      "headline": "Should You Stay Invested in Block Stock After Its Q2 Earnings Beat? - TradingView",
-      "source": "TradingView",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ3dqU3JlWlYtTDl0MjgtU2JFZ3h2ZmhTemZfNTU2U2p6YkhNMzh4STNBTE9uRUlwdW9RN2V4R25td1hOY3JqVEtCYjFqVUxSM0IxTW84VGFnOS1TMmpEWEpzY0w2RUJnMDZfeVlnZW04bnVmcHdocDhFVjJndmRjNzZiLVdDZEEwOHl5aHEzd2h6YXNuVGdLckFXbjRvZmlERnZlLUY3NzVRMkpTR1ZQdmthUl9kV2VNRDdKR01jdw?oc=5"
-    },
-    {
-      "headline": "Cathie Wood's Ark Invest scoops up $15 million in Block Inc shares as stock dips 3% - The Block",
-      "source": "The Block",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY1FZeXVaY2VJbnc4czZBbzZ3bFFkdzdJRHhEeFJINFFqYS03UUJUazhUb0FWc3dSYWo2YS1Ob3EybWlDVGlDTFYyU0lyR1FBODNfLVhtR3pIMXBTdUlsOXRTZWtHQ3E3QTNYNU9oendLZnNPS1NfYm1JTnBzZTF2SXItcDFzMVY1ekNsOWg4V2k5V2hPa2pJa3dGamJDNEk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkJsR2RrbUJRYzFlTXlYWlFTMGxuSk13WTVOSFdSY21hWndGYktJM3RuN0JYNWQyOXBoS1h6ZFJoekM0c3lfcEtNejFyenZfNVFzRU1OOXk4czBmLU81WUllUlp0OXlBY0ZEWDMzTHBybFczcXI4d3YxblAwRHc0MDg5OElucXRSMS1OS0p5cWxUQQ?oc=5"
     }
   ],
   "insight": "Tracking Block, Inc. (XYZ)."

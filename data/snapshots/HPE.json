@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-19T02:39:47.086Z",
-  "builtDateUTC": "2026-08-19",
+  "builtAt": "2026-08-20T02:38:24.621Z",
+  "builtDateUTC": "2026-08-20",
   "source": "yahoo-finance",
   "1m": [
-    44.560001373291016,
     46.720001220703125,
     48.130001068115234,
     47.63999938964844,
@@ -24,10 +23,10 @@
     59.81999969482422,
     58.709999084472656,
     57.61000061035156,
-    55.689998626708984
+    55.689998626708984,
+    53.130001068115234
   ],
   "6m": [
-    23.90999984741211,
     23.969999313354492,
     23.809999465942383,
     22.200000762939453,
@@ -158,10 +157,10 @@
     59.81999969482422,
     58.709999084472656,
     57.61000061035156,
-    55.689998626708984
+    55.689998626708984,
+    53.130001068115234
   ],
   "1y": [
-    21.34000015258789,
     21.040000915527344,
     21.81999969482422,
     22.450000762939453,
@@ -411,12 +410,19 @@
     59.81999969482422,
     58.709999084472656,
     57.61000061035156,
-    55.689998626708984
+    55.689998626708984,
+    53.130001068115234
   ],
-  "lastClose": 55.689998626708984,
-  "oneYearReturn": 160.96531503518048,
+  "lastClose": 53.130001068115234,
+  "oneYearReturn": 152.51900549541202,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Hewlett Packard Enterprise (HPE) Stock Dropped, So What Is Behind The Fresh Attention? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGNaREtPSzIyVXFqS3hMZUhSYTVTZm9CdHJPSmdkd0lSanZybzJ0dF9uUUVmMms4RWpQaWJLdFBGSXZRTS0xa1p6NHZQNzdRdm5qcDRpUnZBaEtpSmRMZVBFdXplUndmTnhYZmF4OXlXU1NWZ2tCMk5iRUVwOFNlUWFrWVEyODRjelZYZDRGcEJ2V0tlcjV5Yjhpc1BTY3JRT3pV?oc=5"
+    },
     {
       "headline": "Why Hewlett Packard Enterprise (HPE) Stock Is Down Today - Quiver Quantitative",
       "source": "Quiver Quantitative",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2ZJa3hqY21oaDBPTGVNNm1YYnI2d0VTd2NhRGVQQlNpNnFzUWpKbXZVenBwenV5azRMdlZQS2hjU29HRWJFdXo4ci1CbXBsM25sRkJMOXB5REhHOUw3NVNhNFNVc0hsQWpnaGViT1dmUXFHVkxBbzhJT2Y2Mkx2ZmVIUFpjRC16VmZrbTlYNDduc1BXdHhyOA?oc=5"
     },
     {
-      "headline": "Hewlett Packard Enterprise (HPE) is a Great Momentum Stock: Should You Buy? - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONloyOFZrbnlySnVlallMLWxqdkgtcUJ3dXJCc2hCWjVfOGxsclBFV29fWXpPclNNRUp2UHh5NTE1TW8xVXhHQ21ESkZDbEhsTkMyMjdJYVBSM19RMEM4WnVSalMwR2Fxd0dKMy0wUXk0Qk9qaVEyWjBxMzRZSFZLaFB5b1djVFRWUEYwOTNB?oc=5"
-    },
-    {
-      "headline": "Why is Hewlett Packard Enterprise stock surging today? By Investing.com - Investing.com Nigeria",
-      "source": "Investing.com Nigeria",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFp0MlJHU0dlTEozMldWM19SX1R5Y1RBWEx1NWY1ZS1MYU9kWmVIVEplNHdhWEc2NVpzWUZvSnIxcVMzaDI1c1ZNM0ZQMHdRaUxhZ0UzeGVpam1Tal90Ul93MHIwY1gwQzd2R1ZaclUxaTdLMVphVkY3X0o4cnZWSXczelpGd2lHOVhOeDdPOG5BSWxQcmU2NWloeG5RNzF6Z0llNk9OLVBBNnh2WDRadFBkVDQ?oc=5"
+      "headline": "Hewlett Packard Enterprise Co. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSGVjbWVfRUJ2U1llX1dIR2tybC1vRWx3SkNQMTJCcGRqeGRjYjMzeXVvMjFWSDJHanFERlE3dzdacHZ4Ukt3ZTRSNUJaMXJ2M1lZYUxQSHd5U1RMQ3dGU2lqQkdsNnJYVmx4Q1U4Q0ZrTGNnbFVkSm5Hd2pDOXhidnF5UFIwaGhuY3NpZF9ZYVBSdFdnXzRfOHEydGdMZkF0YUZ0aDlXZFE5cDJUckVBTHlKNGpxTV9TZ2VKU2NSWXZMdUhQMzE3S2MxTlFyRHZEZzZOTUZoY003cGd1cmhJUWh1blU0eG44V0l4S0ZLSWlzN3NzLVMzV1Bn?oc=5"
     }
   ],
   "insight": "Tracking Hewlett Packard Enterprise (HPE)."

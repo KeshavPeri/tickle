@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-19T02:40:00.504Z",
-  "builtDateUTC": "2026-08-19",
+  "builtAt": "2026-08-20T02:38:39.973Z",
+  "builtDateUTC": "2026-08-20",
   "source": "yahoo-finance",
   "1m": [
-    203.13999938964844,
     209.00999450683594,
     200.27999877929688,
     198.7899932861328,
@@ -24,10 +23,10 @@
     214.74000549316406,
     216.22999572753906,
     217.3800048828125,
-    204.97000122070312
+    204.97000122070312,
+    203.57000732421875
   ],
   "6m": [
-    226.4600067138672,
     225.77999877929688,
     228.4600067138672,
     225.44000244140625,
@@ -158,10 +157,10 @@
     214.74000549316406,
     216.22999572753906,
     217.3800048828125,
-    204.97000122070312
+    204.97000122070312,
+    203.57000732421875
   ],
   "1y": [
-    203.38999938964844,
     201.5500030517578,
     200.3000030517578,
     205,
@@ -411,12 +410,19 @@
     214.74000549316406,
     216.22999572753906,
     217.3800048828125,
-    204.97000122070312
+    204.97000122070312,
+    203.57000732421875
   ],
-  "lastClose": 204.97000122070312,
-  "oneYearReturn": 0.7768335885717603,
+  "lastClose": 203.57000732421875,
+  "oneYearReturn": 1.0022348012280617,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "TE Connectivity Stock: Analyst Estimates & Ratings - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdFliZXAxbENmXzJxMGhOTW9hdTVMTnZvTFYzX3FYbnVybExaY0FSSFRPX0FnU1R4NHhiV2QwcU8tdDhKTWVVbDR2U2hTci1BSjFRR3diQTNSVVBjYlZDd3EzWGkwb21ZdlNmLUFmdDhyNjhZT005NDJzS3VSWWFBNk1ITVM0X0E4bnd3YTdLSVZwNUlhWVE?oc=5"
+    },
     {
       "headline": "TE Connectivity PLC stock underperforms Tuesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdjFrOEZaYndxdG5CNnFwcXFZSEs1LWkxWFQ0TVlhNlBsZU5Fam5Uel8wa28zZm8wS0phX2pwWFF5b05zWlJEQWJ1TzFlRjdleHZxRlB6Sk1YYU56cWhieWJqTl9Yei13ZFVTdnQ5TmpfeDZMUEJaUDVvWFMxblh1R3FBaUNWazYxNF9PLUJUWDBGeDRBbnNrY3oyRmpsSWM5YnRDM2c2LVh0b2ZtUU4tZEZ3cGNfaHJ6TURKd2doNXAzdXlNOG9TZEJISnUtTTFhYXc?oc=5"
     },
     {
-      "headline": "TE Connectivity PLC (TEL) Shares Fall 5.7% -- GF Value Says Stil - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEZhSzlnUW55RjlxMl9LekhfelNmT1lyV2E3MngyX1dHSU5JSGQyM0hZcjNsR0xhVGZLZzhnWHNUY09Zb0JqVlpHbE5MOGZvZk1INkQwVXJtVzBxYWlhbXlhRU84d3NzajR3QjRvb0ktSmlwWDhVbmtxUTRsNWFGdGY5VjZYaTFrZldUejlsOXFqS0tzYVZTZTZlRDdPYUl2eWluak0wS01FZms4?oc=5"
-    },
-    {
-      "headline": "TE Connectivity Slides as Investors Appear to Rotate Out of AI-Linked Industrial Names - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0dzZVc0NGo2czg2WXloRkJPd3F2Z0JtQTN4NjBxSnRWNFJ1eE9QVTNfeE52RDlOa3JSUlFDLXpvU01BVndCS2FCNHZBXzJwRVFtNXRpVHNxa0pQQkh2Z0hBMFRqcHJVeFVWZmFGY1liRVlqR3dETnlxbFlIWDdLN0dRVmg1ekdydVU1NHBLYWpfZEVBLVpMTEkzNVh6RWVQNDlmYVpPNUVfOW5OSWFsVjNsenBzdW01OEtn?oc=5"
+      "headline": "Foster & Motley Inc. Buys Shares of 25,438 TE Connectivity Ltd. $TEL - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVTlKUmlCSGt6enlyMWp6VFB4TEgxSjg0S1JPMGRYRmdIZWRKRzlfSF90MXBaa1BsUDFWVlRPbmdWY0trV1lDM2x0djEzMU9IOWFtbVZ5SHNlYzlnNmxzc3JnNVhJejFfYVYtS2gwR3NRa3AwNG53dlJkUDdvVU1xUVd1T1kwNzI1SkZINl9td3FTdW9oNHZONFZhWUEwdDZ3MmVoaEVZbWVnUnl0a1ozSlZqdjI3dFVvQ09iS2U3cUs?oc=5"
     }
   ],
   "insight": "Tracking TE Connectivity (TEL)."

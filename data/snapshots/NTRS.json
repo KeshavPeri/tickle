@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-19T02:39:55.448Z",
-  "builtDateUTC": "2026-08-19",
+  "builtAt": "2026-08-20T02:38:34.051Z",
+  "builtDateUTC": "2026-08-20",
   "source": "yahoo-finance",
   "1m": [
-    182.77999877929688,
     185.05999755859375,
     178.66000366210938,
     177.9499969482422,
@@ -24,10 +23,10 @@
     190.47999572753906,
     191.41000366210938,
     191.47000122070312,
-    190.5800018310547
+    190.5800018310547,
+    185.39999389648438
   ],
   "6m": [
-    154.8000030517578,
     148.94000244140625,
     146.5,
     144.2100067138672,
@@ -158,10 +157,10 @@
     190.47999572753906,
     191.41000366210938,
     191.47000122070312,
-    190.5800018310547
+    190.5800018310547,
+    185.39999389648438
   ],
   "1y": [
-    127.36000061035156,
     127.87999725341797,
     127.30999755859375,
     130.05999755859375,
@@ -411,12 +410,19 @@
     190.47999572753906,
     191.41000366210938,
     191.47000122070312,
-    190.5800018310547
+    190.5800018310547,
+    185.39999389648438
   ],
-  "lastClose": 190.5800018310547,
-  "oneYearReturn": 49.63881981605827,
+  "lastClose": 185.39999389648438,
+  "oneYearReturn": 44.97966678016097,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Northern Trust (NASDAQ: NTRS) notice covers 1,800-share sale for Thomas South - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkx6OG9ROENpcXhGNUhVNWJYX0p5eXFSWG5fWk1PcHkxOV9VR3FWa2RiUkw0MThZT2oxWjBEbGpGQVdCTy1wZXI1cElPRk8xVnJSY1FEdk9ZSE9QeFpJbnhSVWJEUDgyMWVYOVFMVDk4RFFuMzI1bzVsUkVyWExzUWFZaUltcE8yUjlfN1AtQ21waTlObG9FNVREMkE?oc=5"
+    },
     {
       "headline": "Northern Trust shares edge higher after strong second-quarter results driven by Visa gain (NASDAQ:NTRS) - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaHRiNHNNQTJBWWQ4Q3VZcHIwd1YxNDBGZVI3bzFVb3A1YzEwUW05RzM3aGhhcnhnUXhhRklpR2N4VnhxZThKcnMta0pfaUFKR1Fqd2sybURhUkdfb0xVckM1bWpsaXM1VkVjQTRzN2tSRldkd1pBSGN6bTVGVkd1TXNsQWNaSEd3NTYwMTU1dV8wdWtaRjl4TDlQdjg3bE0?oc=5"
     },
     {
-      "headline": "Fund Update: New $475.5M $SPCX Stock Position Opened by NORTHERN TRUST CORP - Moomoo",
-      "source": "Moomoo",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVZxMG90SjNmTGtyaHUtcVFuNEI4YXVjeGdxSkRkXzN3UTRpTmZGVWYzM213VjEweTBQb2Z0UGNnUVgyVnhpcVhBcWdhNDJPc1ROeE9vb3lDd2h0cm1jR1F4LVY1M0p2a3dDM3V4QXhUdllZaUg1OU1QVmZSRUUtaWlOUmRGM0ZWLWRmTjc5a1JOeGphYXVnNHp3?oc=5"
-    },
-    {
-      "headline": "Invested as One: Northern Trust Grants Employees Company Stock - Business Wire",
-      "source": "Business Wire",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY2FUbWJxNDRBZlItc2laTWxNazBzN2Y5MmhiZ3Q5d0U2aWNVajRRQnUyMUQ1b1FsUG0wdk9NWklEYUFtRG1fNnlRVFBXVnNKbkQtZXFYZzdhZG01TTA4aHRUOXkzYWlNT25KUXQxTkNYbTFDSFQyRGFGZ2htZHg3aFBTcnlXQm9kdnprandRa1RDazJDNjNUQVRZaUtEdktEV1JpYzk1TC1WR3ZwSmtDZjllZWpZZ1J6RHc?oc=5"
+      "headline": "Will Northern Trust's Expanded Singapore Fund Administration Role Redefine Its Cross-Border Moat (NTRS)? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWE1UeE53eFlDR3luNUZLb3phSXdvclhucEFCMF83aEdqWldZUXNCNG5DdGZ5N1Z2Tno5cnBFc0xiQTRlcjBncUtaa0lvemJTc3AtOHYzb3ZTbXgtVl83UE1TazlKRG9kREtZblVmQVpEX1U2ZDR2M2lkRk1BdWpSZUFwZlF5Wnkzb1lvRm9faUdFUmhodkhscERaaVJBRjJaMWlheHRwOFZNVkRlVFVhb3liaHE5cDhhaVAzMTBIS05NMHd3SEY0UnN0NkZ5enZBVnFyMlN5aGsyLTc5MW0w0gHkAUFVX3lxTE1tTnN2al9pRkZLa25BTlhJR1MyYzVvbkQ2blBuQktaRWJVSk0xa1ZYdXFDMElPdEttbmlldUJaUWZLUnB1YVM3S29ad3VDTVN3eldLc21na1FYVjNtbnZvSEFNb1ZHLVBYaDJQNWZEaTJPMWNpckh6N2NFNUJZYnVwNWJUeE1ocVkwNV94eG1ybzhvaVRCYThFR1JOT0Nya0NRb3kzbVFlUG1SUG5meGN6VU15d0pmdmMxS0RFQy0zd2E5Sjk0T3dTb3AtalFmd2tMeGxDVzBMdTE1MUNSTGIwWjdzYw?oc=5"
     }
   ],
   "insight": "Tracking Northern Trust (NTRS)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-19T02:39:32.553Z",
-  "builtDateUTC": "2026-08-19",
+  "builtAt": "2026-08-20T02:38:07.525Z",
+  "builtDateUTC": "2026-08-20",
   "source": "yahoo-finance",
   "1m": [
-    78.18000030517578,
     76.19999694824219,
     77.5,
     74.56999969482422,
@@ -24,10 +23,10 @@
     75.7300033569336,
     75.9800033569336,
     74.44000244140625,
-    74.02999877929688
+    74.02999877929688,
+    74.6500015258789
   ],
   "6m": [
-    83.08000183105469,
     84.54000091552734,
     86.06999969482422,
     87.80999755859375,
@@ -158,10 +157,10 @@
     75.7300033569336,
     75.9800033569336,
     74.44000244140625,
-    74.02999877929688
+    74.02999877929688,
+    74.6500015258789
   ],
   "1y": [
-    102.41999816894531,
     102.86000061035156,
     102.80000305175781,
     103.79000091552734,
@@ -411,29 +410,30 @@
     75.7300033569336,
     75.9800033569336,
     74.44000244140625,
-    74.02999877929688
+    74.02999877929688,
+    74.6500015258789
   ],
-  "lastClose": 74.02999877929688,
-  "oneYearReturn": -27.71919536926583,
+  "lastClose": 74.6500015258789,
+  "oneYearReturn": -27.425626013105113,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "70,223 Shares in Crown Castle Inc. $CCI Acquired by Commerzbank Aktiengesellschaft FI - MarketBeat",
+      "headline": "Crown Castle Declares Quarterly Common Stock Dividend - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMElObDRycEFSOWlzWVV1VHZ1Y3IwZ1pNVWtNMFFfX0RPamFKa0FtT20zeFNXMGlXUFpYNUlRSEs4SGl2TUJvTEZ6WWxPMU11OTJWakJGZG02Z2Yyb2owQU5tZ0R2VXhYN2JHYlF1X0pPVjk5bTl1SFdhVmxUSjMyWUhJUGJGZnVwUXZTZzlwZ0xmbFp0V2xYMGxoMFlFS3VMd0w1Tmd3?oc=5"
+    },
+    {
+      "headline": "Compass Wealth Management LLC Makes New Investment in Crown Castle Inc. $CCI - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdnQwRmNhT25idHlYX2FPSzA2OUE3aW5ZUmVfV2dGUHR0SHRjSnlWVEk1NTA5QWo3TmY1ZE1jZmV1dnd2M29JbFhiT3ppc3hoWnRfd3lFSVA3MVQtcUxtM0o3Qy1XbzR5d0dOY3NKb04wa2dVVE91dHBvS1NiNVNIRFNmOFEzbmpraVllLS15NGM0T21lZ3I0Yk1FaXVFLWlJSlFUd0djVllZcV9rYWlPZnNoTnFUTkMwU2s1dzFra3JkOGhsMUdVMlNWV3JucTg3NHdiMEFXQ3ZWUEU?oc=5"
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNekFTb0E3cmljdm5CM3dQVzhOT29oUk8wckh5UzhkQ2FWSUd5eV8tNmxBSDczTGRsNjBCblF4OXE1RkZkX25hMW1sYWQ4REVTYUctTzdQOHBoakRwSWVmcV90ek1rQWpid1VNSGNYV1plYnpRMk53SUhmWlNvVGE1X2ppMm0tLTBDNDBQMVkwMkNNYnpCQWNuNnhwOV8zSzhzMWNMRnFtR0FpTnkxdHRjVms1TEludFZXMzgyY3FwSDY4VlB3SmRQWS1uclEwM2M3?oc=5"
     },
     {
       "headline": "Crown Castle (CCI) Affirms Its Dividend, Is The 21% Undervaluation Case Convincing? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-16",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMGFXMWJabENvdU1VTmhaeGFNdlZ3UkdkcW12cjAxeTI2Zk1rNGJHcWRnYnMwbm50VVhMZndwX2FTRnZJVzFyRExGYjdGWFVqYTNoRnlqMGZMeGR2c1U3SzVlUWdUSlRiRGNEdDJyeURqWUZPWjVvMWRWS0FwbWVKWEZNSEJ5THM0T2tYZ2NpQWNfMWVqN3lMeTQ4Z1A2SkJHTHhoWGNhdWIydXA5ZktKRlh3S0kzcnFLMjhGZWhveTIyclp3WlR6aE9Yd9IB0AFBVV95cUxORVhLM0pPU1NKNUtXSUFzM2JHai1HamlIN2ZKeF9EaU52aEczUzBCc1ZUSWtjbkltVmMxaWNpQlJhNkxtMzlnNEs4T2hDODR5c3ZqU2ZLaVMtNmVNVk81QVVFckpzNmxkLW5xeUQ4V25JZG9wcVJ6eUg2TkVhdnVtT2Z5TVJGcmxCcW9mOUViUlZzdmRPb0NQMVY1MEV5TzNDUUQ0T2RVbzNOWWxhWjQ3TFJKejlsMTM1UElCSXhRMno1YzFITlhYOUV5bFZzZmRm?oc=5"
-    },
-    {
-      "headline": "Crown Castle (CCI) Stock Sees Modest Fair Value Cut As Analysts Weigh Tower Headwinds - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON194a3JGanB6bklsV0ZmWDd2UG95REZ5VzYwU0lnUkJhTTVTaE4zRkVwZUNNOGVsQ3Y3aV9mZUt6M1d5cldJZ19velBPY2pLbF9TMl9BMmJEaWJHTmVfZnlsRkNpMDYwOFFySURpSnhLRVgzNXk4c3U3b0wxX2NnMHhwVzBSYkZOYTVTOHdLTnp0MlByR0Rv?oc=5"
     }
   ],
   "insight": "Tracking Crown Castle (CCI)."

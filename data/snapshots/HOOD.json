@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-19T02:39:47.025Z",
-  "builtDateUTC": "2026-08-19",
+  "builtAt": "2026-08-20T02:38:24.546Z",
+  "builtDateUTC": "2026-08-20",
   "source": "yahoo-finance",
   "1m": [
-    99.27999877929688,
     106.36000061035156,
     104.4800033569336,
     101.58000183105469,
@@ -24,10 +23,10 @@
     99.37000274658203,
     95.55999755859375,
     96.25,
-    91.52999877929688
+    91.52999877929688,
+    95.7699966430664
   ],
   "6m": [
-    86.55999755859375,
     85.5999984741211,
     77.97000122070312,
     71.12000274658203,
@@ -158,10 +157,10 @@
     99.37000274658203,
     95.55999755859375,
     96.25,
-    91.52999877929688
+    91.52999877929688,
+    95.7699966430664
   ],
   "1y": [
-    107.5,
     105.33999633789062,
     106.30000305175781,
     109.31999969482422,
@@ -411,29 +410,30 @@
     99.37000274658203,
     95.55999755859375,
     96.25,
-    91.52999877929688
+    91.52999877929688,
+    95.7699966430664
   ],
-  "lastClose": 91.52999877929688,
-  "oneYearReturn": -14.855815089026162,
+  "lastClose": 95.7699966430664,
+  "oneYearReturn": -9.084868072453032,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance - CoinDesk",
-      "source": "CoinDesk",
+      "headline": "Webull Climbs 7% Ahead of Q2 Earnings, Robinhood Gains 7% on Tokenization Push - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN3NxZXg0MkhxOVZMQ3RaN0Q1d2RjMmxtYkVOMDFDS0xjSDJhNUhiWDkyR3RMcnZFbk1WV19adC1ick9wNmttWXdqSXJaZHVlNHZIWHlSOG5xMTliZWE5b1BiTGkyS0tPUjdEWElhSkZ3STViejVBVWh5N21Va3VOSUJyblE3Ylo0eVVVbEdvTnRaOExJWWtpa1d0N2VqWlZqQXo1ZlZlWXNXcEdXaFoxOVBrdVk2UFl5d2Vv?oc=5"
+    },
+    {
+      "headline": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance - coindesk.com",
+      "source": "coindesk.com",
       "when": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORGd0NDlPX3Y5WkV3MmZFTjlqYTRFbkZlQS04ZG1TSXZDOG1FaFBKRWRCMHNrX1d4UHpBNF9aNVpNREhrODE3OVVyVnQwNHNHaW81bVlOVGJEdUl4SWdDV3VDY2FVbWxRQUFWQTdlOGlxdnBLeVpRZmFkRERmQlRXMllpQVRPMmJoZUFtV2M3ZzdCcG1lajFZWFVmNkZNazRQb05mdmw1VFpCX3dNWVVjb1Q1UGZob2Y0d0U3RXR2V20zamstN0dla1hR?oc=5"
     },
     {
-      "headline": "Why Is Robinhood Stock Falling on Tuesday? - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmMwMGNJX3J6OEZTVjJTM213MUI5WG5MZkxvMFE0ZTdGbmZUZDlNMHZaQzhRS2s2N1RsN19oc2RCVW10OEpxQ245Q0hDdnJxamFnNlZNS1huQkNCbUFGUzhBeW44TUdWVktzbDRDTzJjQzRhdGJkeFFhYVF4T21jQVdXc25ENm1wMEl1LWtZeWFWQTVMOGdlYXhzallqS3lQN1lWbw?oc=5"
-    },
-    {
-      "headline": "Robinhood Accelerates Global Expansion with Robinhood Chain Mainnet, Stock Tokens, Agentic Trading and New Suite of DeFi Products - Robinhood",
-      "source": "Robinhood",
-      "when": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMlhyNTAxQlpzMUF0Yk9Ha1lCTzIyQ2c0NU1xVEVDTzBCZ01JUTlkUTlhV0g3TEdwaVpBNjNKN1pOX0ZlMWlQVEdqVDV6Wk5zek5zaEVuSkdYMkxMaUlDVnpQNTlDV3NxLURQcEdPZ0gyRms0SFRRR0p1LVR4SnhhNGRmYjdSR01BQnhGWVczUlkyU3l2ZG5xN1VCNXNGZTVOS1doOHFSWmZtMHZ1WDZxdEhyNU5iUWNtSXpNdDFOMV9pLU5UU09ZSQ?oc=5"
+      "headline": "Uniswap processes $638.5M in stock token trading volume on Robinhood Chain - Crypto Briefing",
+      "source": "Crypto Briefing",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55VVlURXd5aWo5cTItSGNNLS1LTlJsc1VGSDh4UDRYcFZHODIyS0hVZWJ3c3dnQ0c3QkxFUU5YU3ZXMlZzU051YllXaHlhVV9vVEk1RUNiakdVZHNjY2NXVGNPd2JQdHJfR1FHdUh4aExCaUhHc3FaanNR?oc=5"
     }
   ],
   "insight": "Tracking Robinhood Markets (HOOD)."
