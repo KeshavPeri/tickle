@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:23.234Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:28.930Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    1361.6099853515625,
-    1354.010009765625,
+    1395.010009765625,
+    1371.219970703125,
     1367.4599609375,
     1382.5999755859375,
     1398.949951171875,
     1398.9000244140625,
     1358.9200439453125,
     1355.489990234375,
-    1382.219970703125,
     1371.25,
     1300.449951171875,
     1285.0699462890625,
@@ -24,9 +23,12 @@
     1322.6400146484375,
     1317.6800537109375,
     1314.1199951171875,
-    1306.949951171875
+    1306.949951171875,
+    1300.3399658203125
   ],
   "6m": [
+    1197.6500244140625,
+    1190.1500244140625,
     1188.030029296875,
     1202.469970703125,
     1116.5999755859375,
@@ -137,15 +139,12 @@
     1402.030029296875,
     1395.010009765625,
     1371.219970703125,
-    1361.6099853515625,
-    1354.010009765625,
     1367.4599609375,
     1382.5999755859375,
     1398.949951171875,
     1398.9000244140625,
     1358.9200439453125,
     1355.489990234375,
-    1382.219970703125,
     1371.25,
     1300.449951171875,
     1285.0699462890625,
@@ -158,10 +157,10 @@
     1322.6400146484375,
     1317.6800537109375,
     1314.1199951171875,
-    1306.949951171875
+    1306.949951171875,
+    1300.3399658203125
   ],
   "1y": [
-    999.6300048828125,
     994.0700073242188,
     1021.8599853515625,
     1013.4500122070312,
@@ -390,15 +389,12 @@
     1402.030029296875,
     1395.010009765625,
     1371.219970703125,
-    1361.6099853515625,
-    1354.010009765625,
     1367.4599609375,
     1382.5999755859375,
     1398.949951171875,
     1398.9000244140625,
     1358.9200439453125,
     1355.489990234375,
-    1382.219970703125,
     1371.25,
     1300.449951171875,
     1285.0699462890625,
@@ -411,29 +407,30 @@
     1322.6400146484375,
     1317.6800537109375,
     1314.1199951171875,
-    1306.949951171875
+    1306.949951171875,
+    1300.3399658203125
   ],
-  "lastClose": 1306.949951171875,
-  "oneYearReturn": 30.743369525516584,
+  "lastClose": 1300.3399658203125,
+  "oneYearReturn": 30.809697127920987,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Grainger opens Oregon center that creates about 150 local jobs - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSzlZSS1pQ0dLZGlMRWFaaXpFZnF4aVdmSnJfeXBidEJFdWczX3ZRbENBREpsV2pkMzVITmQ5NjBPbWZsazVGVXUwOEIwb21IVlp1ay1PVDZIaGxHZWUybjFwR0tyZ3RrblBLaEY1WmM5V0tma095VGJRLWRDQ2ZpVDEzN2o3ZUJfalIxV0kzMVFKM21CVDFPdGFGVDUweV82YWJLaW1DcW9Gel9wTnc?oc=5"
-    },
-    {
-      "headline": "Wealthfront Advisers LLC Takes $12.51 Million Position in W.W. Grainger, Inc. $GWW - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHpyUlVfLW51LURWLUxpVExZWmJNLXpWSGc3dWVtamVfT1VqN0VxbnhaeDFXdlFrRjA0NDczVHRCZlhqLU91VmlCX1VtWnFLUG5uOU1GNk5DbVZBS0FpTzdfRUJfM0xvbHMzQ05td3lmYlpvTXBVNzBILW9YdW9CM3ZwbUlxSXhsWWFLTW5XVjhDTXBleFBET3FfaWRRcG9mOEIxcUR3R2Mwdkg2bkdhUU5TVDRmM1prOEFqZzdtOHVmeFE0anNaWkROMGF5VHlaNWc?oc=5"
-    },
     {
       "headline": "Why W.W. Grainger (GWW) Stock Is Trading Lower Today - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTVUVjZwaXY1Q3lUT3g3S1dpSFVCSXF4cGJ5OFp4US1YM3g3QVU1N0ljSnpnNndIZkVSTGlZMVROVmlXcjVwVnB2VUpqallLYmJEaEZ4RmlLa29DRS1Db283RXNrOGgzVHRObTRjMktidldjT1RPS0tDeC1QaGVhN3NKSWw4NFA0UWFwekFB?oc=5"
+    },
+    {
+      "headline": "Meeder Asset Management Inc. Buys New Shares in W.W. Grainger, Inc. $GWW - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdUVqbEh6MUxJWmFhM0hQQ1lYUF8yMnZCVUU4M2djTHkxR2xQc2E1UG5vWHU3RVJ6MXJpRVA2OFVlNnNiTkJoeWhqNl9xMFh4VHpyQjVTdjNXS3dRZ29nOTJCRVVvbldSRW5HcHotRGtVWWdrbndyM2JiUHFHZ2pUOXlxTWZiWnh3cXZDaG5SNksweVViell6N3VuWXBrVG9XcXh3c3VVYjlxWmIwUGxFUlpqSmlYMVBaNUYtMlBqenAxSXdwbUE?oc=5"
+    },
+    {
+      "headline": "W.W. Grainger Earnings: Firing on All Cylinders, but Shares Mostly Reflect That - Morningstar",
+      "source": "Morningstar",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWmpQTGNhZXNQT2tZOXBZUE0xeDc0VkxFSTVhS1ItMVBaMEp6RF9tUk1MYlUyaHpYV3lyeWp6OTczVUFRd0VzM3RQTW5kUkMxN0h1N1FScjJNeWdwUHBDNTBNWHVqTzJUZHB6eS1tQm1pRFpRMmlLRUlLeHE3TDM4NUoxRU9QNXFJWVgzanZJWm9jbXpIQ3hNNnMxMTNaX3Fqdm5GclVZc3ZES09OQXItQlRrMjV2a2lkdHFYSm15V0wyR2Y4a0E?oc=5"
     }
   ],
   "insight": "Tracking W. W. Grainger (GWW)."

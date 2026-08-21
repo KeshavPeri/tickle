@@ -1,11 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:21.232Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:26.579Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
     94.83999633789062,
-    92.31999969482422,
-    89.4000015258789,
     87.62000274658203,
     93.16000366210938,
     96.41000366210938,
@@ -19,12 +17,14 @@
     90.3499984741211,
     91.06999969482422,
     91.48999786376953,
+    90.73999786376953,
     91.81999969482422,
     100.5,
     94.91000366210938,
     92.37000274658203,
     95.80000305175781,
-    96.83999633789062
+    96.83999633789062,
+    98.19000244140625
   ],
   "6m": [
     98.06999969482422,
@@ -138,8 +138,6 @@
     96.20999908447266,
     94.3499984741211,
     94.83999633789062,
-    92.31999969482422,
-    89.4000015258789,
     87.62000274658203,
     93.16000366210938,
     96.41000366210938,
@@ -153,15 +151,16 @@
     90.3499984741211,
     91.06999969482422,
     91.48999786376953,
+    90.73999786376953,
     91.81999969482422,
     100.5,
     94.91000366210938,
     92.37000274658203,
     95.80000305175781,
-    96.83999633789062
+    96.83999633789062,
+    98.19000244140625
   ],
   "1y": [
-    146.3300018310547,
     146.02999877929688,
     147.07000732421875,
     145.94000244140625,
@@ -390,8 +389,6 @@
     96.20999908447266,
     94.3499984741211,
     94.83999633789062,
-    92.31999969482422,
-    89.4000015258789,
     87.62000274658203,
     93.16000366210938,
     96.41000366210938,
@@ -405,34 +402,36 @@
     90.3499984741211,
     91.06999969482422,
     91.48999786376953,
+    90.73999786376953,
     91.81999969482422,
     100.5,
     94.91000366210938,
     92.37000274658203,
     95.80000305175781,
-    96.83999633789062
+    96.83999633789062,
+    98.19000244140625
   ],
-  "lastClose": 96.83999633789062,
-  "oneYearReturn": -33.820819294667096,
+  "lastClose": 98.19000244140625,
+  "oneYearReturn": -32.76038946640945,
   "marketCap": null,
   "topNews": [
     {
       "headline": "GoDaddy Inc. Cl A stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZ09xd3pnc1lCS2FuekVidW1xMTV2X19BcGgzTjZnTHhJSVhsOXdzS3FFMXl6bzQxdkRWQk1oazg1blJzMGsyVXVtRHVfWWMzWW1XU0tTaXhYMmVRanNrSjNwWWNvRktkbHJIcEZ4dVhCUmRNVjdIaG9icktvRFh5TUc5eDB2Y2EyX3hON0NfbWg3Q05Ka1JXQ05VUFR5Qnd2d1hGaDNYMGFhNnJNRjhLVzBPZmlpT1RaSVBSdmExN0xzQTg0Qlo1azAzelhLUk9aNEZhZ1VXZ3hRd2ZZVFRKY05BZzFzcG1WUmV6N3ZxXzhyeXNsdlU4Z1Z5QzNqZjBlQ1VN?oc=5"
-    },
-    {
-      "headline": "GoDaddy (NYSE:GDDY) Stock Price Up 5.4% - Still a Buy? - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbEc4ZExGT2xWN0VHYjctSDlBYWE0cFNMbUhNRkI4NVdyMXBfYUR2c203SFVKYmtTdjBueDFMRGhCRG9xYVRkU2J3ai1kUWlMLXBOXzE4d0p3SzltdWZvNk5sUWFVUkxjdG5hVHl5anpBT3R5UUc2ajh5TFVxdWdhTTFNNGEzT1pTVFQ3aGduS3huVGF2dXlKVEdFT2tkc1dNWGc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWEVkaC1yWFpYd01xYmhaWFJHRnVsc2tlbEVjMFJ5Y3dkS2JidDkwajVOZ0c3WnBHZXgteEVCMDBQTXRhXy05QUFUMDBINDI3SENDeFg0dk5PNGFNSV9RNWFnUldXc0ZrS3dOVkEtVmc5dDNRX2ZXaWtKQlp4c0otOUQzUWIzQUZNVXZBTnJRQXFwM0FGMkZLTmZHRWxVYUxseGJ1clZEVWxWX2RjWmYxcXdfcFloWmwxdzdPOG1wQmF6TG5uR09vX3RIOVJVUnU2RHVuanhnQlJPMjZnNDNuRFFmU3laOXh6LVFwQm44bTlkbXdFM2REQk9ndWRlNl9tRFVV?oc=5"
     },
     {
       "headline": "GoDaddy Inc (GDDY) Stock Up 3.7% and Still Undervalued -- GF Sco - GuruFocus",
       "source": "GuruFocus",
       "when": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXY1QUFDZUdJNm04NTRNS3Yyc1RMR2tzQ2d3cEJRZDNwSXEyYWdrT3AtaXhKVkFjOVo2Xy15dW1sQWx5SXY1OGVUdkFNMS1WX01QVjBqd29vNW14WU9UMjdzOXpWZ040UjAwSER6Zldkc3YxUWEyb1dqSUx4RFlOQkhNLW5YMXR2dHNoYTRoLTlrS3hUWFZPS1RhTmtKMERiMHBFUDNkQQ?oc=5"
+    },
+    {
+      "headline": "GoDaddy (NYSE:GDDY) Stock Price Up 5.4% - Still a Buy? - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbEc4ZExGT2xWN0VHYjctSDlBYWE0cFNMbUhNRkI4NVdyMXBfYUR2c203SFVKYmtTdjBueDFMRGhCRG9xYVRkU2J3ai1kUWlMLXBOXzE4d0p3SzltdWZvNk5sUWFVUkxjdG5hVHl5anpBT3R5UUc2ajh5TFVxdWdhTTFNNGEzT1pTVFQ3aGduS3huVGF2dXlKVEdFT2tkc1dNWGc?oc=5"
     }
   ],
   "insight": "Tracking GoDaddy (GDDY)."

@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:08.220Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:10.435Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
+    123.56999969482422,
     122.95999908447266,
-    127.3499984741211,
     126.70999908447266,
     125.06999969482422,
     119.77999877929688,
     122.91999816894531,
     127.3499984741211,
     125.7699966430664,
-    125.19000244140625,
     118.30000305175781,
     118.11000061035156,
     116.70999908447266,
@@ -24,9 +23,11 @@
     118.30000305175781,
     117.77999877929688,
     119.72000122070312,
-    119.0199966430664
+    119.0199966430664,
+    125.69999694824219
   ],
   "6m": [
+    94.94000244140625,
     96.30999755859375,
     96.93000030517578,
     94.16000366210938,
@@ -138,14 +139,12 @@
     121.41999816894531,
     123.56999969482422,
     122.95999908447266,
-    127.3499984741211,
     126.70999908447266,
     125.06999969482422,
     119.77999877929688,
     122.91999816894531,
     127.3499984741211,
     125.7699966430664,
-    125.19000244140625,
     118.30000305175781,
     118.11000061035156,
     116.70999908447266,
@@ -158,10 +157,10 @@
     118.30000305175781,
     117.77999877929688,
     119.72000122070312,
-    119.0199966430664
+    119.0199966430664,
+    125.69999694824219
   ],
   "1y": [
-    85.43000030517578,
     86.36000061035156,
     86.51000213623047,
     86.16999816894531,
@@ -391,14 +390,12 @@
     121.41999816894531,
     123.56999969482422,
     122.95999908447266,
-    127.3499984741211,
     126.70999908447266,
     125.06999969482422,
     119.77999877929688,
     122.91999816894531,
     127.3499984741211,
     125.7699966430664,
-    125.19000244140625,
     118.30000305175781,
     118.11000061035156,
     116.70999908447266,
@@ -411,29 +408,30 @@
     118.30000305175781,
     117.77999877929688,
     119.72000122070312,
-    119.0199966430664
+    119.0199966430664,
+    125.69999694824219
   ],
-  "lastClose": 119.0199966430664,
-  "oneYearReturn": 39.31873606215541,
+  "lastClose": 125.69999694824219,
+  "oneYearReturn": 45.5534924268807,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CF Industries (CF) Stock May Be Cheap After Blue Point One Push - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT29KTWVqY2dlN3V0bmdRbURrNGppUnVRNUg4OGF5UW9XTUVybUNqeW9ndWc2SHNSYnZMeEVXSHIySzJNZUt4MW1fOS1TTkxFc2tlNXRSZHBaSnVxaTFIaG5NMEU4dnZBeHprNnQ4Z1FLTVI0V3lNbzF2ci1rVFd4S1o5WTBJZTRHcV9zWXlrdkVHSzJCM2c?oc=5"
-    },
-    {
-      "headline": "Has CF Stock Topped Out? How US-Iran Ceasefire Erodes Key Competitive Edge For Fertilizer Maker - stocktwits.com",
-      "source": "stocktwits.com",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0FrOVliLS1KVEtEN0pTTVFkWHJZTml6REdzckdkc0JoWXN1XzhjbExhdUR6S1lzS09WSzNLNUg4NXA3eDFTWnFTS19qNFlMUG9QOXNEUURmcEcyYk5iYm0ySDM5UERMRkUzRW1HUmVQUzBIWVU3WjdWOGxmblU2RnBqMkRiQ0JGT1lyZ2xpSzVxWHl0dzFhV0lMeUtCOGVkRkJpZ1hoREs?oc=5"
-    },
-    {
       "headline": "CF Industries Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOW9WQ1c0X0ZaZTZCWS0tQmoyWTJQa0NTYWIwQWdsMzd4MDdDLWVwMjBmUkxGS3VBa1lLSEtjSEZ0NWoyd0lOcThVLXZWYVQ1SVBCZjNHRnBIQ1ZfalBoa0Y0c2VLN3pNTWRZVktDMmNYNzFVQThVNWpBWGVkcnlhdDhiUUZ6dG15NjFqdW5tUERTVU1oYzJOV2FFcUhWR3VnS2MzRHFFUlFzc05TZ1R1VERtbmxBTTJ6LUszMmVISTcwTjVxQ0lYMUtDaWpRRXFZNnhPWG9QTWtJSWs3Y3VmclQ1S0tHbVBUSk4ybg?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaXBpR2l4YXUxcW5UbGZqekhQZlJIMENlQXNYQWhDLUlGaVpERXkzUWNvbmFWMkZ6ODVsdFlna1RzOEc3Mk9sTHo1cjhjbE8wTmNtVWM5cGtCQ1ZHZ2pGT1hHdlE3VGNIcWdsdl9LaGdvRmFGZlAyUVJRS2d1UGt0QmR4c1dzemlqMzZMZDJoZjJVWVBWSUhhX21YU252TU9tZjZ3ZzlCcXNobS1NdkhBbWk3bV9kRmg0MlJNR1g1UUxYT1U3a2pMbEFQaktvdnR3VDdybA?oc=5"
+    },
+    {
+      "headline": "CF Industries gains as investors focus on tight nitrogen supply and supportive 2027 outlook - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajkwZW5rTUU5LTRpY3Atb2RUZ2sxaXl5YWlpTk5GbnplcFBNbDFRbGczOEZqY3VwWGxMb3Z4ekxweHNzdGZRTm1tbFNIRTZ2R3ZUQjJ6YmtSbWxfQVcxU1BYWTJoUlFNR2w1cV9QOU1oa2hUVG9OYTVndVhOa2tYVVp1SUI2MmtHcVUtb0NoZVBWd1BpN0VqU2hkeTQwTTBOVEt2ZzVDMHQzQjZMcjh2UWRnY1U3MzdnazA3cThfalc5dw?oc=5"
+    },
+    {
+      "headline": "A Look at CF Industries Holdings Inc (CF) After 5.6% Gain -- GF Value $119.49 vs Price $125.70 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNVFUeE5XaDJmZmJjQnNaRGtVX3Y4YmdTSWVCX3g5eHhadFdOemUwT1ZWLUJTZk1BSmlQclJXX2NIa21fYnZ2dFZjdlVLaHRqZjNGM3hMX21fYkZMY0Ffc0thZ0Y4eS13Y3BFWHlWMjZwQTl2N280c0NET2RYRWgxa2xHaEd3bWdPbkt3UjZMcFdjcDdQSE4tVE9HY0p4bndjbHlBMjBKYVhvdEdoTUlfZTR2T3c1YnJlQzBDYldFYw?oc=5"
     }
   ],
   "insight": "Tracking CF Industries (CF)."

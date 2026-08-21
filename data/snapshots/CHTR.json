@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:08.625Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:10.978Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    127.79000091552734,
-    129.22000122070312,
+    131.3699951171875,
+    129.16000366210938,
     126.5,
     123.30999755859375,
     131.61000061035156,
     139.97000122070312,
     145.1999969482422,
     142,
-    144.97999572753906,
     144.10000610351562,
     153.07000732421875,
     153.1699981689453,
@@ -24,9 +23,12 @@
     154.27000427246094,
     144.10000610351562,
     148.35000610351562,
-    152.47000122070312
+    152.47000122070312,
+    147.75999450683594
   ],
   "6m": [
+    231.13999938964844,
+    238.25,
     248.19000244140625,
     241.07000732421875,
     238.0800018310547,
@@ -137,15 +139,12 @@
     133.3300018310547,
     131.3699951171875,
     129.16000366210938,
-    127.79000091552734,
-    129.22000122070312,
     126.5,
     123.30999755859375,
     131.61000061035156,
     139.97000122070312,
     145.1999969482422,
     142,
-    144.97999572753906,
     144.10000610351562,
     153.07000732421875,
     153.1699981689453,
@@ -158,10 +157,10 @@
     154.27000427246094,
     144.10000610351562,
     148.35000610351562,
-    152.47000122070312
+    152.47000122070312,
+    147.75999450683594
   ],
   "1y": [
-    266.6199951171875,
     267.9800109863281,
     277.5799865722656,
     273.44000244140625,
@@ -390,15 +389,12 @@
     133.3300018310547,
     131.3699951171875,
     129.16000366210938,
-    127.79000091552734,
-    129.22000122070312,
     126.5,
     123.30999755859375,
     131.61000061035156,
     139.97000122070312,
     145.1999969482422,
     142,
-    144.97999572753906,
     144.10000610351562,
     153.07000732421875,
     153.1699981689453,
@@ -411,29 +407,30 @@
     154.27000427246094,
     144.10000610351562,
     148.35000610351562,
-    152.47000122070312
+    152.47000122070312,
+    147.75999450683594
   ],
-  "lastClose": 152.47000122070312,
-  "oneYearReturn": -42.81374089978211,
+  "lastClose": 147.75999450683594,
+  "oneYearReturn": -44.86156114294122,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Charter Communications Completes Major Senior Notes Financing - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcDZmRk5pd1JBTC00NExYZGI0OF82eEEtb25Bb19WWWJIMUprRVAwT0NxQTI0Q1hvbG9rejRpWnBLMFRtMG01Sk5ScUV1bTJqdmNSM3RqR3RlOUR0dk9WRHhvUGZDaUVHa2FIODF1UUV5UW9Ed0tiS3ZONUdqTDVEOFFvTlVCR3hyNTRWcHkwaFdXejBkM2k3YU54TlV5Z3ZYX2QzbmZGNHNqa3pYeFF6V3NVU3l6OWRoVE9HY2RFNTRzWTNwM0pvN3Z2N3hUWmtna1NKeDh3R1FsMjRtWnR6UkZn?oc=5"
+      "headline": "Charter and Cox Communications Complete Transaction - Charter Communications",
+      "source": "Charter Communications",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWWhsYnhqNWctdW8yYTEwbFRGLWZBekFqeGF2SkxoX25RTldoUFV0YTgwa000eWdKRy1aT0hTR3ZrTHNEbFZGYUc5NTFZS2x5ajctMndCR3E3SjMyaEdLUXZiZjFheDE0VU5WeDg2Y1FUQmk3RktXWkh3ZmFvekYxRzdaSEhBdnhYX1FybXFKZl9waFNa?oc=5"
+    },
+    {
+      "headline": "Charter Closes Its $34.5B Cox Deal. Why the Stock Is Sinking. - Barron's",
+      "source": "Barron's",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQTUtzVkR6SkdYZFBuWjVIekZ1UjlOZzdvVjNLQU9uV3FTSUEzUFhoeUY0S3dfdGY3RHpsdTRDeEtuZVQzOHVPSk5pMHkySHhFYjRlSTFBcHlhZVJ3WS1iQmVvZVc2c3RMemM4NUFta3dzd3FQLV8xa3lB?oc=5"
     },
     {
       "headline": "Why is Charter Communications stock sliding today? - Investing.com",
       "source": "Investing.com",
       "when": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGl5eWtyeGMxYXByR3lfdjRkU015VmJVaHQ5WnFSNE5qb2xWTzdGT1FLOG4zb3JYQmlzcGVpVklzc1NBMHpOay1kT1VzQ0FUVkhQMWJDNmtER0RDQV9lVmoxd3FsQ3RhSXhBVGlEY09feEFXWXhMTUFsS3NkZ0IwSTYtdkNwdnZCYUJ6cF9QenBKaHJQdHRIMHIwVUQtVTY2cVRvUGpXNXpTYXBrQ1NmeA?oc=5"
-    },
-    {
-      "headline": "CHTR Stock Edges Higher As $1.4M Insider Buy Stokes Retail Interest - stocktwits.com",
-      "source": "stocktwits.com",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeG5rU09qRmJZT0RHZERpdTB1VWxiSUNfQzU0N0pHSU5hU0dRZG5FVF9zQk9xV1poaWlUYS1OR2VneHRIY3lVMUNlMThGNFVQRk1rRzR4QXFMa3NQcEJNUThCN2VmT25hSEs0NWN2ME5yaG5MNWNuemhsYzl3ekxrVmV3SmcwLVFKLUFxOTUwT1ZoVnJDSWtDX1NrMkVMZlMtSnJLZWU0Qnd6NUwzWUk3VWRpSFZmc3dQTEJLZjFqUGZ1V2dLMmY3SkJ3?oc=5"
     }
   ],
   "insight": "Tracking Charter Communications (CHTR)."

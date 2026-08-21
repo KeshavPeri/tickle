@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:28.331Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:35.545Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
     30.209999084472656,
-    30.200000762939453,
     29.670000076293945,
     29.68000030517578,
     30.1200008392334,
@@ -24,7 +23,8 @@
     31.440000534057617,
     30.280000686645508,
     30.790000915527344,
-    31.059999465942383
+    31.059999465942383,
+    31.65999984741211
   ],
   "6m": [
     28.709999084472656,
@@ -138,7 +138,6 @@
     30.90999984741211,
     30.440000534057617,
     30.209999084472656,
-    30.200000762939453,
     29.670000076293945,
     29.68000030517578,
     30.1200008392334,
@@ -158,10 +157,10 @@
     31.440000534057617,
     30.280000686645508,
     30.790000915527344,
-    31.059999465942383
+    31.059999465942383,
+    31.65999984741211
   ],
   "1y": [
-    35.18000030517578,
     35.20000076293945,
     35.13999938964844,
     31.100000381469727,
@@ -391,7 +390,6 @@
     30.90999984741211,
     30.440000534057617,
     30.209999084472656,
-    30.200000762939453,
     29.670000076293945,
     29.68000030517578,
     30.1200008392334,
@@ -411,29 +409,30 @@
     31.440000534057617,
     30.280000686645508,
     30.790000915527344,
-    31.059999465942383
+    31.059999465942383,
+    31.65999984741211
   ],
-  "lastClose": 31.059999465942383,
-  "oneYearReturn": -11.711201829146239,
+  "lastClose": 31.65999984741211,
+  "oneYearReturn": -10.056820564772421,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Danica Pension Livsforsikringsaktieselskab Buys New Position in Keurig Dr Pepper, Inc $KDP - MarketBeat",
+      "headline": "Keurig Dr Pepper (KDP) Could Be 13% Below Fair Value As New Launches Meet Mixed Earnings - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORC0ybWtHbDJtdUg3V1lVZnd0ZjVXRjBab1A5WFcwTV9OVjVVR0tfNVh3TE5lNUl5WXNlNGliYlVKS1JJaGF6SGFLeG1oa1NpdHZlLW4telRuMjlIT1UxaDRTNlVidjVQNjE0dDZzTGJYQWhmTkhhSjI1SVRKRS1JZFUzRFRrXzJjV0dLc2V4cDFtUXNJcWRTSjI5Ym9yWlM3TVhua2kxRlhyTTNhdXFvbjZVckVQTHIxYmt3ZjVqQmRkR19Lc2FKcFBQc2hNNEhtNWRCM3M3ejZPMXQzNjU3MNIB5gFBVV95cUxPR2RhS2pmQTJGWVpFeXJVNk5aV0owd2NZanZaWWR3MWRxMWZHcXlxNFN4ZWxkUmRNLTBKdXA1Z3l5RmV3VER4QldmSU81a0VPRWtpakpYMThZdTVseWd3NWVYZ0FpMThzRVNmVk9CZ28tT1RwZ242bEMtLWVVVE1MeFkteFE0bXRDNVdzQ05xTmJ1LTZCQUF5Rnpwa3JXaF9hYkxFeE1YRm81b0R4V0FnYVp2eTludmwzMDVxT3hjLW5JTnhDQWJ6bkk0V1J1NUNjVlYxSjB4MXNQamFlRE1XT3FWTGtrQQ?oc=5"
+    },
+    {
+      "headline": "Keurig Dr Pepper stock rating resumed at Overweight by Morgan Stanley - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVgzbXlQM2tGSkZQUm1ncXg5N0lmSzd6QUFkYU84TWtFUUtKWHBsbkE1ZnJ0ZlBIaS1qcTFlUnRuMHpTOVRMenlydDdUVHV1NnR0N3Rhb2NVVVZvV29zRVNmaE9BYk50dWtEQ1ZzSkd5Q19jVDVYSW1DMUpMcnVMUDJpclF5Rnlnd3VvWlBicXQxa0pkVUx0REpPMmE4Nk5RV3laamJncjNjd1k0c0lCVGFFZDBjREdnU2pMcDlVVVd0N2thdGVpUA?oc=5"
+    },
+    {
+      "headline": "Danske Bank A S Purchases Shares of 1,032,839 Keurig Dr Pepper, Inc $KDP - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdkYxS3lyVTI2b1lzVW1DQ21xTUVaZ0hUWWg3cE9QRnBXamwyY2s2ZmVrZW9meTEzV3M2N013ZEZTUXA2dmZheVVPcW1OcW4wRWY5bHRfTlBzdXdwcXlvNTFRZVpGZXNXLTZWN2lIVTlFajB1YUU2bkRMNm5MYUpRMEJwdkx4aHlfZldqUTJTUjR5Nm5MdGJYNkp5TmRNejJHY3BQTGUzSV9qTnJ2VUtqNjNhSS1COUNsUmRVQ3NrU3hyb1YzcFJPc1IzOFpxaXJMV09Xa25BbXlISFFyVHBjSzZTTQ?oc=5"
-    },
-    {
-      "headline": "Keurig Dr Pepper (KDP) Stock May Be Fully Priced On Strong Q2 Growth - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc0k2SXkxMVZ3aEREeXZYczBqNE9wSnJoVFJOOG0wNnIwUVJNc0hGbEROakx2WVZqNU1xYWxXYUJ0R0NMR24wZUtLRHJ3TjgyRkg1RFgzc2hWS2hGM2Y2WlhMcFVNYVQ5SXplSVVfNHlWSnE4R1lnWGFpR0d3cG1nbnJvcUU2TEhpa0VfN1FnbG5RWkhya3c?oc=5"
-    },
-    {
-      "headline": "Keurig Dr Pepper Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZEpfZU0yYnc2cFpXdGxFMHJVVFFUSVRSclRGZ3VGbDJHRWQxT3hRbjYxakgxaGJtNHl4SVZyZVUzQW1MV1htWU1RYVNNVFVreVVqeVpTdXF1U2dyZ3VTX1FjcW1iREltVld4SzNKNmdSbG4xc0Qyc3ItTjBKdHZiSXQ3LXd3aEkzaXJlWk9qWDZVcHhsSUtfeW9UYzB0ZndCRTBYMnFZYi1KTWhsRUdxaS1oOTNzQ2JQTWhoV1AxVDZUNUtRU1d5QUpBUS1iZkFSSDFCXzlvMUR0d3dtNDlkSTlnWGplOEdTOTdFcWZR?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmFOSFUzTFFuRDVXN21VOGpIUDlnMjZpUTEwTmhFUFFSLUVQZFpVVHJVaEhTT1Azd05pbWZGbEJFR3BST1N3Rl9VYlBDckN3TDktaWR4cWtfaFIta0liMFZaOGU2bjYyU2JzeEh6clF3bThSbzVvRTQzNzFPT19RYnpybU8yNEhFVUlSaVJCcXY4NWZ2ZDRNeTl6Y0I4Vll1enUxRHY2a2NlVlI2V2xrMG5uVkdFWEFyejU1QzdjU0lNMlIweW84Ug?oc=5"
     }
   ],
   "insight": "Tracking Keurig Dr Pepper (KDP)."

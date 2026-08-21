@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:16.879Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:21.308Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    139.25999450683594,
-    139.6300048828125,
+    136.5800018310547,
     144.89999389648438,
     147.94000244140625,
     149.3000030517578,
@@ -24,9 +23,11 @@
     163.1699981689453,
     162.0500030517578,
     157.77999877929688,
-    157.60000610351562
+    157.60000610351562,
+    154.72000122070312
   ],
   "6m": [
+    160.00999450683594,
     161.69000244140625,
     154.6699981689453,
     144.97999572753906,
@@ -137,8 +138,6 @@
     139.0800018310547,
     139.5399932861328,
     136.5800018310547,
-    139.25999450683594,
-    139.6300048828125,
     144.89999389648438,
     147.94000244140625,
     149.3000030517578,
@@ -158,10 +157,10 @@
     163.1699981689453,
     162.0500030517578,
     157.77999877929688,
-    157.60000610351562
+    157.60000610351562,
+    154.72000122070312
   ],
   "1y": [
-    130.88999938964844,
     130.08999633789062,
     133.77000427246094,
     132.3800048828125,
@@ -390,8 +389,6 @@
     139.0800018310547,
     139.5399932861328,
     136.5800018310547,
-    139.25999450683594,
-    139.6300048828125,
     144.89999389648438,
     147.94000244140625,
     149.3000030517578,
@@ -411,29 +408,30 @@
     163.1699981689453,
     162.0500030517578,
     157.77999877929688,
-    157.60000610351562
+    157.60000610351562,
+    154.72000122070312
   ],
-  "lastClose": 157.60000610351562,
-  "oneYearReturn": 20.40645338713293,
+  "lastClose": 154.72000122070312,
+  "oneYearReturn": 18.933050638912693,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "18,573 Shares in Emerson Electric Co. $EMR Purchased by Meeder Advisory Services Inc. - MarketBeat",
+      "headline": "Could Emerson Electric (EMR) Stock Win as Investors Look Beyond BP p.l.c. (BP)’s Energy Cash Flow? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS2xSSF9KWnFsMmhKRGxXNlBFU1ctcjJENjRDZ1BONXdLN0ZnSU13a3M5QXVXNDh6ZnZjX2ZKWnN1TWtuT2JnYlBlckNvODlLVS1YWjNuNFNhZXBOa1p1QlhXMzRPNnowUmxMZkFWNDJQM2FtN00zeUZtZVA0LXpENHZIaG5oU2RUVnpzUGNlWjRkdUpKb19jUTZ1c3dhUQ?oc=5"
+    },
+    {
+      "headline": "Danske Bank A S Acquires New Shares in Emerson Electric Co. $EMR - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMjk2SHowWHVhY2F5NHV5X2h2S3Bod3RVUVFGYUtRUjc1WEZzanJRVmpRVFVuWW5PWUFGTU1aTFNVZFdNVHY0eHNib21XcC1nVkVZbGFLSmFpbWt2SzlvVllSaXNEZmRKYnlMNEtac3dRcmdsNXdpLVgxblVjQk12ak00aGkyTGhldUZLZHpzN085bUJ6elJxLXlHVGFsaHViYVoxcXhwa1pfMVQxNHpsT3FIMy14SHk2a2hRLTJkYWxQWkdUZkd1dVE5UVNBdEd0SFpkSkM4LXRBUQ?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZUJISHFiRzRpT1IwR21tcjc5Y2xJRnFpNXdlb1AyaHN4SE42QlRLWk9JYXVPVU1IOUtiX1pYVXNpTGNYU2tVOXdyUDE0YV9wWEYwUnNnWEFyR2pfcGZjMjBHV3FkZTg4MXp4SE9BUXpORFhLdmpyVmtUMHc1VWl2Vm5TRnFpZEYzT1dyNGdDMGR0aFk4Q2dUQmxUTjFOY1VEM2lKbU1abGxGcUZWUmtQWnhSYmlwMHExSGFHRVcxZ2Y?oc=5"
     },
     {
       "headline": "Is Emerson Electric (EMR) Above Fair Value After Raised Guidance? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN3JMbTUwNFV3dF9IZERGMjlUNnE5aVh5SWszMHNNcVVGdTFIVzk5QXowUWQtSjhEWjVWWmV2bk85RmJCaHJUem9vX1JmZGRpMHFwZXVXM1NNUzVRUlpSeUlVRDRyUkE5QUpmc1h3ekJlRlNTeWNRYU95UlhTZVY5b25PUVRyWnRwbXZOWFJvdFNBSFA5X0F5ZHl1ZWZuUHBWbnVpRjJldWtEeDNnWlR0TjZ0YktmRkFpdWdNQ1V0TFlpSDZmaDh3N2k4TFJjd0xkbmw40gHYAUFVX3lxTE4ySVZJNE5mVDNCZ3JrODIweFVvaEZOajFxcjBBQUQxTXl0bHdKelQwcHlWelZvRGVXcU43VVFqOXFfTGVyWjd2N3NqQzQyVm10VlhfVWNzbGlTQ2FieWMxWklHbGFhMVVKNlhlZk9HQW9qOU8yUmQ0empvZzZQYmVEREtQZDJNTnFVZnMxUEFnWXdWVUJDcnFSemQ0b0dRd2F3cUpFaGVLSzJ1UUVCZ3FWUnJDOUZXR3BSYUhWSkJPM0NPbWY2YnJ6Q21JTy11elhtS1hnaDRIdg?oc=5"
-    },
-    {
-      "headline": "12,918 Shares in Emerson Electric Co. $EMR Bought by Compass Wealth Management LLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYjYyRzJlemt4bnVBeUs3aEJhX3dVRWh3Q1ZXNklCSmM2dFRoMzJhLUVBSDhvek9qX3l4WFRXSTNqcXhycXBENlZKQUg0V1dWWm9vTlZNa05sRmhnTWExd0ZZd3RUenJmcVduMk5DdDk2SGxOUy1TVllHV0VqQ0lxRHVDZDNZUjRkbEYyZmZfTnRjWFJubmVmYTRmZUZNbVRORkx3UDJXMU5VRG9FOC1SOFMxU29qUTFhZjJRNFI0V2h1dUJyX2YtN1NLLVBzTy1jNndKUnVFbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVTlVYWpRdGJraGUtdHhINVc2VllOVHhrRjJiTXk1Qjh6MC1vRng5TXJhWmotTkVlR0lxVk42OFVzZnhCZGVlX3F4THpRbUQ1YnNneFQwNWFHanRVVWc1cjRObjg5aUtiNkFva0dENGJibGtVU3BXNlJTTHpCeGpudE41dE0yeFh4WXB5b1dVdVA3aVp4UW9wQ29oUGtKRUk4a2hBRVUtU0NVQ3BNS0xmd3hZVlctTklzaTQzSW9MbEVTdV9US0tzeGs4Qy16blZOTFJZ?oc=5"
     }
   ],
   "insight": "Tracking Emerson Electric (EMR)."

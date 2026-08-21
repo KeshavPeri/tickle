@@ -1,11 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:36.953Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:45.932Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
     134.5800018310547,
-    138.77999877929688,
-    138.74000549316406,
     138.66000366210938,
     135.05999755859375,
     132.97000122070312,
@@ -19,12 +17,14 @@
     133.3699951171875,
     138,
     134.3699951171875,
+    138.24000549316406,
     142.0800018310547,
     142.58999633789062,
     142.3000030517578,
     140.75999450683594,
     133.5800018310547,
-    126.04000091552734
+    126.04000091552734,
+    133.52000427246094
   ],
   "6m": [
     105.19999694824219,
@@ -138,8 +138,6 @@
     135.47000122070312,
     136.35000610351562,
     134.5800018310547,
-    138.77999877929688,
-    138.74000549316406,
     138.66000366210938,
     135.05999755859375,
     132.97000122070312,
@@ -153,12 +151,14 @@
     133.3699951171875,
     138,
     134.3699951171875,
+    138.24000549316406,
     142.0800018310547,
     142.58999633789062,
     142.3000030517578,
     140.75999450683594,
     133.5800018310547,
-    126.04000091552734
+    126.04000091552734,
+    133.52000427246094
   ],
   "1y": [
     95.30000305175781,
@@ -343,8 +343,6 @@
     135.47000122070312,
     136.35000610351562,
     134.5800018310547,
-    138.77999877929688,
-    138.74000549316406,
     138.66000366210938,
     135.05999755859375,
     132.97000122070312,
@@ -358,34 +356,36 @@
     133.3699951171875,
     138,
     134.3699951171875,
+    138.24000549316406,
     142.0800018310547,
     142.58999633789062,
     142.3000030517578,
     140.75999450683594,
     133.5800018310547,
-    126.04000091552734
+    126.04000091552734,
+    133.52000427246094
   ],
-  "lastClose": 126.04000091552734,
-  "oneYearReturn": 32.25603030366591,
+  "lastClose": 133.52000427246094,
+  "oneYearReturn": 40.10493179097349,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Great Lakes Advisors LLC Buys New Stake in Qnity Electronics, Inc. $Q - MarketBeat",
+      "headline": "Why Qnity Electronics (Q) Stock Is Up Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVEVHam5VMGthTm8xTUJjTkNhWGhBQjk5YmthbEE0YjlQYnZmMWItX3hCMHRvYmt4UHFvRGc5YkRPTGFMclRtVEFwMHhKdk5OWXFzWVJjaG9FMUNKMTJqeWQ1amtlRDBNdXY0cWhOaUtmVlJ3X3ZnUUtpcjNXMnMyZFdqTmduam8?oc=5"
+    },
+    {
+      "headline": "Qnity Electronics (NYSE:Q) Shares Up 6.3% - Time to Buy? - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeENkNjExTFNBOE5GdjVYTEwteHVQci15UUxfWGM2QWo1d1pGdmRwY1podXZCQXZub2JVZksxSXhrUDZtak9tbF9yZXRYc3BfNWtsWVZTSW5VblRCekdiNGZteGFWZmdHRy1LT2RFeTl0ZXNobXYzZzIxbGpSTFZDOWpaWXAyeEhSQlF4cTUtYTR4bTBfbk0xUVVYd0ZuRGkybGZaQ3dGX3B5UnUxbW9aMzdSSXphX19SRHNacmV1ZEpyV2M1VFE?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMlVmSi1uZUVqOUxFRmpsMkVhclVpVHN1VFlzNExlNndEdS1Db3FkMmxvZFMtWVJfdGFRV0tYWUY4OXd4ZGh6eFB3bS0yWHNYY3RBOU9iS2JNM2NjMmVqcHVONmZwT2lGWExnZEt4RUp0SW13clhfRlFTZ2EzSmRsOVZJRm1LUm5YbWFWRHNXeHdPYWZBdE5KQWpfMXhWdTQ3T2lPTg?oc=5"
     },
     {
       "headline": "Qnity Electronics (Q) Stock Looks Fully Valued After Raised Outlook - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHB5eThBOFVBUzdEWUxrTXI0MmpudDNBdG5QZXZ2eGZjcURZRXhVX1huNzFMdTNWRXlRUTdsMWlqX3FVa3lna0RpSDZxWlQ1S3hub3VYRFdrTWx3RUp1RjMxdzJZMDBlWnpMNkVMMXJ3bHpTQ0VBb2dOYVRJZlp4U3ZRSDJlNDdza2V5Q2VuaXN4blpLdUxpdUJhS3Y?oc=5"
-    },
-    {
-      "headline": "Qnity Electronics: A High-Moat Semiconductor Materials Play (NYSE:Q) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2hDcmhHV0thUlVpOFZfSDRKWElRR2wtbVpBb2FsR3hBUVVUR0U3dVZwclBkX2VwTUY4aEFtUE5oVXRHbnpVU3ZUTUR1QlFxcTRWRWZfNFh1RnBoQWtJYnd2YlctOXpVVWpJeGpoNDQ1bUMyWmpsOVh0OXFIYUZnWVJVSTV6akJpMXV1RHZJcXVadVBqZTJJdGVZdVM3UQ?oc=5"
     }
   ],
   "insight": "Tracking Qnity Electronics (Q)."

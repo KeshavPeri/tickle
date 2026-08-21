@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:40.671Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:50.139Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    138.47999572753906,
-    137.9199981689453,
+    139.58999633789062,
     134.47999572753906,
     136.77999877929688,
     140.33999633789062,
@@ -24,9 +23,11 @@
     154.47999572753906,
     151.00999450683594,
     152.47999572753906,
-    159
+    159,
+    158.25
   ],
   "6m": [
+    115.5199966430664,
     113.2300033569336,
     114.61000061035156,
     112.69000244140625,
@@ -137,8 +138,6 @@
     140.2100067138672,
     139.60000610351562,
     139.58999633789062,
-    138.47999572753906,
-    137.9199981689453,
     134.47999572753906,
     136.77999877929688,
     140.33999633789062,
@@ -158,10 +157,10 @@
     154.47999572753906,
     151.00999450683594,
     152.47999572753906,
-    159
+    159,
+    158.25
   ],
   "1y": [
-    98.69000244140625,
     97.05999755859375,
     99.23999786376953,
     97.12999725341797,
@@ -390,8 +389,6 @@
     140.2100067138672,
     139.60000610351562,
     139.58999633789062,
-    138.47999572753906,
-    137.9199981689453,
     134.47999572753906,
     136.77999877929688,
     140.33999633789062,
@@ -411,12 +408,19 @@
     154.47999572753906,
     151.00999450683594,
     152.47999572753906,
-    159
+    159,
+    158.25
   ],
-  "lastClose": 159,
-  "oneYearReturn": 61.11054419559946,
+  "lastClose": 158.25,
+  "oneYearReturn": 63.04348236199646,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Target Corporation Reports Second Quarter Earnings - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdFRBMnVEYVVtNmJPV1paelNXWUZ2Uk1lckhQV3NBQlBqVmpxNENmektPbDRCcUdkQzJFdE8wajVnQnl0UGNrMlUyYWhQZGRXVXlRZzlKM2lQZDNBUmNPTVdVSkNfSzVUUVMybmlLWUcyTHZ5VWMxUDExa0lZZW1pLUNDdFo1X29KU2FvY05PN0VwVV8xX1ZCZnVyQU5IQ1Y3Q3RDZy12ekdCQQ?oc=5"
+    },
     {
       "headline": "Why Target Corporation (TGT) Stock Is Up Today - Quiver Quantitative",
       "source": "Quiver Quantitative",
@@ -424,16 +428,10 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSW9zVEZyVXplak9VbGhObDI4N2tvTEhkTndpRXdlM2NVMUJQUTVFQmhBdTB5allZSlpwQ3ktSjB5RU95QUFTek9sUTh6cHRINVhrYzBTQ3FCSFd1T1VUajJDWWZ2cHVDLXl4aFFIZl9mUkZkdnRRbnlBTDhZbkFLTjIzNGN6eXVXQXZV?oc=5"
     },
     {
-      "headline": "Target Is Making The Most Of A Tough Environment (Q2 Review) (NYSE:TGT) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnUxQ1lPMFB4aVRsMVRQdXIyRkRKWFBVbkF4cGNBR3VIWVRGanBPM3RoNzdZcFpEcjR4Yk5mRXFZdFBRS3BjaXFMVWd3OE56eC1LLThvQkM5cVhOTkprTU15a0lvbFh2c1UzQnNPaTBEalAzbWpOVkVYdXRCb01pX3pLZTBZT1BSU3AzZFYxOXZjVlIwNGp6V3pLM1ZPRWhZ?oc=5"
-    },
-    {
-      "headline": "Earnings call transcript: Target beats Q2 2026 estimates, shares slip premarket - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMkxDR2NoUGZBeHRwRk00S1JUUk1xckJRS2hqMzh6TTNINnVUc0R4eFNpMjF6N1BnZ005dWlsRlk5a1J6eXdjSUtoQmFodzJsSlJSUFhlTVJkU2w2dGdHM0o0YW1HNjFwNHhzV2doeVJRa3hUWVcwMGZqb3hYTUExS0hEdEp5SGMwWHhreE9tc2Y4RVdTUnIxaDVxeGVIODJZWlFRVmZDemNBZDdOQ1ptakhuQjd5RjgzYV9Sd2ZvTTZDSUM0cDdYZ0ZYQmFmUQ?oc=5"
+      "headline": "Danske Bank A S Increases Stock Position in Target Corporation $TGT - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR09jTW1DRFhjc2R3R1h0dm1MQWlxbjVhNjVQUUhsdnNUTDNJRk8zN016UnVDNFVyS3VxSUlOQUw4d091QXRwVElheF9DRlJrSmk5bW1CXzBjak5VWDdEdnVsUmRtNXYxSl9vVTdfd3BKaGpINzhmcmdRYlJkUlJIcHBfRGhSWWozS1cySmI1Zk9XSUNiNHlXZFUxWXUwUnFiUFp5TWduZjZfMUItSEZEYXhKMU1tUTgxU24zTXRhWG1Yd3FrQXc?oc=5"
     }
   ],
   "insight": "Tracking Target Corporation (TGT)."

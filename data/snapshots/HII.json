@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:24.185Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:30.256Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    268.760009765625,
-    277.2799987792969,
+    269.1300048828125,
+    270.0400085449219,
     287.0899963378906,
     287.5899963378906,
     288.25,
     299.8999938964844,
     280.3999938964844,
     319.8999938964844,
-    326.45001220703125,
     325.95001220703125,
     323.05999755859375,
     317.70001220703125,
@@ -24,9 +23,12 @@
     327.7099914550781,
     318.3399963378906,
     317.6099853515625,
-    311.760009765625
+    311.760009765625,
+    301.3999938964844
   ],
   "6m": [
+    397.7699890136719,
+    405.82000732421875,
     399.3699951171875,
     392.70001220703125,
     406.760009765625,
@@ -137,15 +139,12 @@
     271.04998779296875,
     269.1300048828125,
     270.0400085449219,
-    268.760009765625,
-    277.2799987792969,
     287.0899963378906,
     287.5899963378906,
     288.25,
     299.8999938964844,
     280.3999938964844,
     319.8999938964844,
-    326.45001220703125,
     325.95001220703125,
     323.05999755859375,
     317.70001220703125,
@@ -158,10 +157,10 @@
     327.7099914550781,
     318.3399963378906,
     317.6099853515625,
-    311.760009765625
+    311.760009765625,
+    301.3999938964844
   ],
   "1y": [
-    267.0899963378906,
     266.4800109863281,
     269.9800109863281,
     270.7200012207031,
@@ -390,15 +389,12 @@
     271.04998779296875,
     269.1300048828125,
     270.0400085449219,
-    268.760009765625,
-    277.2799987792969,
     287.0899963378906,
     287.5899963378906,
     288.25,
     299.8999938964844,
     280.3999938964844,
     319.8999938964844,
-    326.45001220703125,
     325.95001220703125,
     323.05999755859375,
     317.70001220703125,
@@ -411,29 +407,30 @@
     327.7099914550781,
     318.3399963378906,
     317.6099853515625,
-    311.760009765625
+    311.760009765625,
+    301.3999938964844
   ],
-  "lastClose": 311.760009765625,
-  "oneYearReturn": 16.724704796215267,
+  "lastClose": 301.3999938964844,
+  "oneYearReturn": 13.10416596761092,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Huntington Ingalls Industries (HII) Stock Still Looks Below Fair Value Despite A 63% Gain - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNE5KOHk5NG5oRFBBandpUUk4RTIwdUFpcm51VmtJNk1IVjFOeDI5SGk4Q3JJNzIyUUpndnAzMlZIZi1CYmQ3S29kQ1loNzF4dVNLVmk3WUFrNU9GeHU2dkRlNHUwZUFDV1lwUGNjVGtaVE1SVmgtUmlrV0ltbnA4WVp5blpwVll1Mm1rXzMxZGI3ZURhT1lrMmhtWkpBSUlaNmc1NVhuMnN0MTVjdmx5N1gzLWtKQTRuanNhT1BlVWUwRDl5UjRJNWw2YUNLdHZTcEsyOGhocmhHWFhQOXlmY1JVSm7SAeoBQVVfeXFMTjhmT0NTM2hQeGZCVFkyVUhpVDVvVzZwME9HVkFxeklaQmVWUFJRQ01hRUM3UE9SQWZuNTJTUUVockJDSzRsd0ljSHZFMHZjTU00RkpJNUQ0alR5dkIzNHZ0dVBUMjRXdExPRzR1OTNCbTl3NzhBb0MtdHdLNXRxVUs3OG5tOTJSak1qQjhxRnBMRmhIX19IVDY0WWRUZU1Hd0dBdnV4QlgtSTNYNFdSNkZ5RUM5ZkliMUxrSEM2QWpCYzdoelpnOEh1ZFNkSEgxVTBrY2NZSGwycXo1Z3otckU1RGR4Y3JFWlZB?oc=5"
+    },
+    {
+      "headline": "Huntington Ingalls Industries Inc (HII) Stock Down 3.3% but Stil - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ0JWRnpzQzJaUlRFQ2s0N2JwMmY4SzRQbVJiUVVTNFFQdnYyb0VEWFkwZ0pIeUgySjNKTmptMU9rem41WGRadGRaMktMdnNITmN6T1Rmc09uT3dXRFU1WHo2bXA2ZUh2ZWc0ekg3SS13MUU1Rm1sM2ZUMXpZa0xhZEpNTC1hWmxxdVlGQjRNeW14LWdyTnBxaHRDTFlIb1ZnTHNwZWE0b3ozT3F6cjZudUZnZDh5dmNrU0FiWWkzcFl4b01H?oc=5"
+    },
     {
       "headline": "Huntington Ingalls Industries Inc. stock outperforms competitors despite losses on the day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPemxkNEwzOFJzNTRjVVk3ZXdhWlNSMC1wZkZGQWpCRDFFSEhhMGtsZW1IdDUxNGg1bWlOX2hwd3lPWDRGUk1wU0dGWUF2cWJwRG42SE9ueXQza0w4emRlNmFIbDQ5VVV4dy1taVBSNDVCR3NybVN2M3ZGTHQyRlBNbzdtM1UzNXhLazloN29LMzVYYzlCdm1Kbko2anFZRVNxamZ4emJ0OHJGR1F2YjdlVEFVOWF5TVdLbk9QSTlCMzBvT3hyNWlUZ3NMLUVVMHVKZ3JNbWhYMkZLQVJCQzNoUk85WUVBR2laRFNqaGY5aklkRHE2dGgtUkVGZw?oc=5"
-    },
-    {
-      "headline": "Why Huntington Ingalls Industries (HII) Is Getting Attention Today - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORkk3cnRobUJkVVdnQVVfcTdrMlhjLWZWWXV4Q1VMai1wVWtvY3BEenZLWXJ6VmM5Z0VldDdyLVdNZVh1bUVrU0thWHJ2RUItYXpXQ3lKUGVTNDBRRlhCM3dENHBfTUFtdE82R2R6R2NMY0gxWUMzNHdaREphY25pbC1TRmlnNWtScWI4cUJrcmtWeUtTSWF3X1BXcmp5MlplRmxjZWJhWDRYc2lDRmFDeEx4RWxRenAydjBaNkRNQ3Zrd1RJVFVqYU40X3dGNTRaTlRVQmlvTUZvUGxyYkJBSHZScFrSAeoBQVVfeXFMTk10YWMyVy1VTENNS1N2NnZ2V0RGT1JFenpBNGxXQzRoUEJPRXNuZ3hpbWw1SW9lVHp0bnJJZ2N5bHdpV0pyNTE0bm5BWW5wOENtSUNuVFNxS3FjYXZJTUloWENzVTlEbzRaQzRtejlSMHgybVJaZ3FNcUM5SUtRa3Jaa0Iza2ViQ2VJdWx5MVlqak91QVdNNHp3aHZELWFzdzhxS0JqQ09fUU41R2lsSHJHWFkwOXhUOVRQcUpnUmlBTlB0WVR5b0paMmw0bHFNTG1LeXR2d3VVNWdSMHdyRWxvYldacGo1R2t3?oc=5"
-    },
-    {
-      "headline": "Huntington Ingalls Industries (HII) Stock Could Be 33% Undervalued Following New Submarine Contracts - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlZnSW5sZnZYZEJGcDVNQWw3Tk5DeHRQYUhrcHJFdnVsNk5yZ3hDSFFJZDI5Y25MX3lQOEs5N2pMTUpRMG5kSzJZRmd5MXFHWGpfTkhFMEZGV1RwNDZBcEJCODhZRFdRRFcwWlo1TW9sT29nOUZmWjVDV3FDbzZZTGY4czhGZHpMdi1wNUV4NkdIc3hyV0FhSnlzLXRhSzl6LThtZVBkUQ?oc=5"
     }
   ],
   "insight": "Tracking Huntington Ingalls Industries (HII)."

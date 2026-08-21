@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:22.775Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:28.376Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    119.12000274658203,
-    120.37000274658203,
+    124.81999969482422,
+    122.4000015258789,
     120.05000305175781,
     124.20999908447266,
     127.69999694824219,
     129.7100067138672,
     129.97999572753906,
     124.83000183105469,
-    124.37000274658203,
     128.52000427246094,
     132.5500030517578,
     131.32000732421875,
@@ -24,9 +23,12 @@
     135.02999877929688,
     132.52000427246094,
     131.88999938964844,
-    134.5399932861328
+    134.5399932861328,
+    132.9199981689453
   ],
   "6m": [
+    148.50999450683594,
+    146.02000427246094,
     146.67999267578125,
     149.25999450683594,
     147.61000061035156,
@@ -137,15 +139,12 @@
     125.66000366210938,
     124.81999969482422,
     122.4000015258789,
-    119.12000274658203,
-    120.37000274658203,
     120.05000305175781,
     124.20999908447266,
     127.69999694824219,
     129.7100067138672,
     129.97999572753906,
     124.83000183105469,
-    124.37000274658203,
     128.52000427246094,
     132.5500030517578,
     131.32000732421875,
@@ -158,10 +157,10 @@
     135.02999877929688,
     132.52000427246094,
     131.88999938964844,
-    134.5399932861328
+    134.5399932861328,
+    132.9199981689453
   ],
   "1y": [
-    136.99000549316406,
     136.3300018310547,
     139.5,
     139.25,
@@ -390,15 +389,12 @@
     125.66000366210938,
     124.81999969482422,
     122.4000015258789,
-    119.12000274658203,
-    120.37000274658203,
     120.05000305175781,
     124.20999908447266,
     127.69999694824219,
     129.7100067138672,
     129.97999572753906,
     124.83000183105469,
-    124.37000274658203,
     128.52000427246094,
     132.5500030517578,
     131.32000732421875,
@@ -411,29 +407,30 @@
     135.02999877929688,
     132.52000427246094,
     131.88999938964844,
-    134.5399932861328
+    134.5399932861328,
+    132.9199981689453
   ],
-  "lastClose": 134.5399932861328,
-  "oneYearReturn": -1.7884605509804932,
+  "lastClose": 132.9199981689453,
+  "oneYearReturn": -2.5012863025815704,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Fidelity National Financial Inc. Purchases New Stake in Genuine Parts Company $GPC - MarketBeat",
+      "headline": "Meeder Advisory Services Inc. Makes New $882,000 Investment in Genuine Parts Company $GPC - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbEI3UmtHU3pZNUdvOEMtSEhCZnJ5MmplekNQRWxEV0JjNjh3SERHVXp5YUJOOVRtRkRBVlQxNlB1a3FRUkJHc0VwdERQWGFIRm5GTF95OGdILThyYXJNQkVYSkp4UWQxUzMwNVVjU0hHUXRpVWxEQl9ybm9ZYVdvblh6OXQzbEFSeHFvbVNIQWs0T29rREVBcW9nSnBnV1NTcUk0czBSVWFHYnhCREsxZE5SOEl3SktCWXJ6MFdUamZHcVFSSWRPQTRDS0JPZzBYX0l0QjdDX0U?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV1Rfd2lHV2xTNmI3T18zNi03TDF5RmZwWkxDbHF4Qzk5LTZDSnZlQ050T3lvemw1S3RaWm5sM19laVpVQlA1ZE9vcExTcGRDaVkybVQ0aldLd1FlOGRIUTVfQ1JOTnJiZVl5UGdjM3FkN3h5cWtMX0VRaHNuMW92QklqQXBscUhUUFc1UVRVTnBfMDJwekFPOFkzZ2FSaUs5ekcyT19KY192d0t2OGxVc0NoRU1TOFNZMWt6YWpKRkVRZ3IybzlsUXVUeC0tZ2M0ZzlmOVNxSjYyZjNKSHI0?oc=5"
     },
     {
-      "headline": "Genuine Parts Company Reports Second Quarter 2026 Results; Reaffirms 2026 Outlook for Adjusted EPS of $7.50 to $8.00 - PR Newswire",
+      "headline": "Genuine Parts (NYSE: GPC) HR chief now holds 21,311 shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdV93WUd6eUpmVlJJZURiVEhpSzNvRnBwdUJENVNBcndsUDdiZDNXd08yU19xNGNVUDJLMm9kMUFPSy0wNWI5a0hwZXhTVU5QNGlEOHlNc0ZMR19oWmRVajYzZmg5TTdRVU5tZTdUZ3M0V2FxZHVOSXN1QS1QYmxLcWhSclM0YUlWaUk0X2d1VW5XR3NqU2FwS1BBSUhRM04tdlBCNGdiZGxGYnhucVE?oc=5"
+    },
+    {
+      "headline": "Genuine Parts Company Declares Regular Quarterly Dividend - PR Newswire",
       "source": "PR Newswire",
-      "when": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNDNkRV96X2JsZXpVbmFOeDR2dnlPOWZZSHcwWkN5MWlObXY5M3VmOUczYjBQMlljT240bmlETWxYT1o5NUNCcXZUVWVDcTRzYWVGd0lsZlhMNFJBa3BMYzUxVlFHUk50S3hUMzBfMHUwemg4NXRxSndRRzRvcXh1YjVrVDdrb1paem1BcHl2aXFSeDNZd0hKOXNRRGZpYzJJbkpkcHNVMnA1cDFRcGRDUW1KbzRuZFV1anVhQTRTQ0RkSXBZcFVfb3VYd3VUc0QzMkxvNUxYcWtCT3FJcF9jek9pUkZnUUxLb0NtcWVNSzRidjlHTFpweHcyR3F2U2M?oc=5"
-    },
-    {
-      "headline": "Dana Stock Rises 10% Despite Q2 Earnings Miss Expectations - tradingview.com",
-      "source": "tradingview.com",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWZHV2gyN2hSUnFKQmVpOVM0WXItWU15a203N3NWNWdlR3AtajRzMk1aa0VRRmpJZU93c2tWbEVid2JaVUZwYlNVZlo0ZGdoRHZJT2tvMG1rMHB2bTBOSmFvM2ZPTlZZX3N6T3NWYjY5U1dXNURLdEtVd2h3aGtyenlhanlmajNiYm53bjRTcDFHdjhsMWdBLWVSTEF2eHRGR1JuRFdqdHRtcnFNM05KTGRCbw?oc=5"
+      "when": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOEU3Wl9TMHhZdFR1SUJyNE5MX2ExX05YcVFHamRsVHctM2hxMHVlbkk3ZlFRbVVDQ1IwUU82WVNjWkljRjVKLXRCa1pNczVicWJTbWg2M3FDandRbHBsMXFSTUkzajF6dnplUko1OEdnWExKSWowTkoxdjM3Y21LeHBuRFlzQmh3d2hfeFotdEtGT0x4ZGVFWUlaQ3BRdFBBakladWVFZDBxdG42NDE4Qzcxaw?oc=5"
     }
   ],
   "insight": "Tracking Genuine Parts Company (GPC)."

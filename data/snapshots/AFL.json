@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:37:59.772Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:00.523Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    123.58999633789062,
-    123.58000183105469,
+    124.08000183105469,
     124.33999633789062,
     125.5999984741211,
     126.55999755859375,
@@ -24,9 +23,11 @@
     121.44999694824219,
     120.9800033569336,
     121.7300033569336,
-    116.51000213623047
+    116.51000213623047,
+    116.16999816894531
   ],
   "6m": [
+    113.19999694824219,
     115.87999725341797,
     116.25,
     115.87999725341797,
@@ -137,8 +138,6 @@
     123.0199966430664,
     124.72000122070312,
     124.08000183105469,
-    123.58999633789062,
-    123.58000183105469,
     124.33999633789062,
     125.5999984741211,
     126.55999755859375,
@@ -158,10 +157,10 @@
     121.44999694824219,
     120.9800033569336,
     121.7300033569336,
-    116.51000213623047
+    116.51000213623047,
+    116.16999816894531
   ],
   "1y": [
-    107.9000015258789,
     108.19000244140625,
     108.45999908447266,
     107.37999725341797,
@@ -390,8 +389,6 @@
     123.0199966430664,
     124.72000122070312,
     124.08000183105469,
-    123.58999633789062,
-    123.58000183105469,
     124.33999633789062,
     125.5999984741211,
     126.55999755859375,
@@ -411,10 +408,11 @@
     121.44999694824219,
     120.9800033569336,
     121.7300033569336,
-    116.51000213623047
+    116.51000213623047,
+    116.16999816894531
   ],
-  "lastClose": 116.51000213623047,
-  "oneYearReturn": 7.979611203514697,
+  "lastClose": 116.16999816894531,
+  "oneYearReturn": 7.375908630615739,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +422,16 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSlRxYzEyQTZsT1BwTU8tclhkX2hwOS1ncjVXblhTcFZaY24wQ3IzZDRSb2p0S0J3Xy1HTnFaU2dBMXcxMmtTSGEzYUVpbkdfVGlzbGtQanhDaF9WcmhnYkVTYU5BVjNjZmpMZEdzVTE5T1lJeHRlNVYydnAyZ1hmMF9lUHR0MHJFaThqZGxRZXJzcC12R3RfdjNVWW53RkhOR1ZhYjFtd1lsQ1hDMjFMN1ZvUnVBdV82bXVhVG11SE9TdmRTQmJtdmJVT3NLVmd3aG10QnhwNExYMmdIbnV0aS1ZQUVMY1ktc2FaNkdLRmNlZmpVdHRWeHVNR3VXQjVr?oc=5"
     },
     {
-      "headline": "Insider Selling: Aflac (NYSE:AFL) Major Shareholder Sells $1,686,487.00 in Stock - MarketBeat",
+      "headline": "Insider Selling: Aflac (NYSE:AFL) Major Shareholder Sells 14,200 Shares of Stock - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc291YWhIT1RLbXNsdG4yUWlZdlB1NTlYdEEzTlNQOV93TjNBRDY3cUFKNFhvVGpPQ1ZpTk1oT1ByX3dEc0xFZ29ENERwdEV2dUVWYnhzalNkNk5LT2J4UThqTTFGTEx2VnBlbGRyTnJzSVdDQi01OS1nYXMwSmVDQmc4ZW4xank2N0plT3JNQTNGZFp4RnFzRWgzNGpPTnhoOG1iRGU1MjQ5Q0dsdDlPb2RDWEJXVTNkU19tbUVBMXZ6cmRh?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3ZCeHNIR1dEYVE1Yi1OX3dvNjRfa2tWWEc2QUVRVmtKeHItLWx2V2JNbTRBTGlHTDlUbDJtN2lrbmFVTWduN2dCYTB5amVrZmdRdXREaTM1NGhvb09SaXYwZXh4cEhpTnpfbmI2b0VQaHpYdzZjWWpEY1V2OW1wTHhTUkZDaHhzREVhZUItSHpWOXNFZ2tJZUxQd3MzZ0pmcWxOMVJGZllac1VnTHVhaW1Yekw3LVIyUTVKelR5cFBfVmFtVlVRdg?oc=5"
     },
     {
-      "headline": "Why is Aflac stock slipping today? - Investing.com",
+      "headline": "Japan Post Holdings, AFLAC 10% owner, sells $1.73m in common stock - Investing.com",
       "source": "Investing.com",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbko4LTdTNGtXZjFqYk1hYUU0WXdWR0VuRjF2S1hCRTU4enFvb2JYU0ZJeHhzR0JsWGJRVk9LajFLd0dZWXlWcEFfMWRqWnc0WDdMS2NkWDZSTzZUaEZQa3VqQU9URGRRTmNGYjJSX01obGxELVlEWjZ6RkVpeXl6YjZIZ01GbUNPZWRQUHVoc0d1cnZvYU8yektINEpUdGhzOWFmS3Nn?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLXExYUxuNWlYbDVYaW9JYUJOTGRRUmIwSi1WY1JCdFNBY0lsODM3NkVYbk5MRFhKSF83UlFOT1hqSzV4dzRFaXpHMFhBRWFJdW56UTEwYkFXSDA5NWFpLUN4VkpKcUZESGZyV0tKdkVncWNWbXFpa05kZHZ0bXQ5cGo2dy1sX2R2WmhEdkg3ak1pU3FmenNPRjJ4WGdFMXEtYXNYeUYtdUVwU0dDSm5tSHM5NGVBWTR2N3JDU24zSzhWek5r?oc=5"
     }
   ],
   "insight": "Tracking Aflac (AFL)."

@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:25.940Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:32.571Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    552.4600219726562,
-    545,
+    567.4400024414062,
+    563.8099975585938,
     539.3699951171875,
     544.3200073242188,
     556.2000122070312,
     569.5399780273438,
     569.77001953125,
     558.7999877929688,
-    559.0700073242188,
     567.8400268554688,
     588.0900268554688,
     584.780029296875,
@@ -24,9 +23,12 @@
     550.9600219726562,
     546.0900268554688,
     553.3200073242188,
-    562.2000122070312
+    562.2000122070312,
+    545.8599853515625
   ],
   "6m": [
+    644.6099853515625,
+    639.7899780273438,
     646.530029296875,
     648.72998046875,
     617.2000122070312,
@@ -137,15 +139,12 @@
     576.0700073242188,
     567.4400024414062,
     563.8099975585938,
-    552.4600219726562,
-    545,
     539.3699951171875,
     544.3200073242188,
     556.2000122070312,
     569.5399780273438,
     569.77001953125,
     558.7999877929688,
-    559.0700073242188,
     567.8400268554688,
     588.0900268554688,
     584.780029296875,
@@ -158,10 +157,10 @@
     550.9600219726562,
     546.0900268554688,
     553.3200073242188,
-    562.2000122070312
+    562.2000122070312,
+    545.8599853515625
   ],
   "1y": [
-    639.8499755859375,
     633.0499877929688,
     645.5499877929688,
     641.3499755859375,
@@ -390,15 +389,12 @@
     576.0700073242188,
     567.4400024414062,
     563.8099975585938,
-    552.4600219726562,
-    545,
     539.3699951171875,
     544.3200073242188,
     556.2000122070312,
     569.5399780273438,
     569.77001953125,
     558.7999877929688,
-    559.0700073242188,
     567.8400268554688,
     588.0900268554688,
     584.780029296875,
@@ -411,29 +407,30 @@
     550.9600219726562,
     546.0900268554688,
     553.3200073242188,
-    562.2000122070312
+    562.2000122070312,
+    545.8599853515625
   ],
-  "lastClose": 562.2000122070312,
-  "oneYearReturn": -12.135651534220802,
+  "lastClose": 545.8599853515625,
+  "oneYearReturn": -13.773004363428038,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Rationale Behind Baron Focused Growth Fund’s IDEXX Laboratories (IDXX) Holding - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU1k1cDczZlhMalhrYTZORkF2WGI0MnFibHZfeFR5dlNJZmx1Q205dHFyTThVWXV3aTMyblp4dUk3d09QVk1QYUU0YktTenl3QXFwR1FLUFRxNk4xSDJ2QmNVMkZqcnlQeGEwYTVOZW5ibmpOZENlWlRVNlhwanB6MWljMVFySHg5WG1RQlJfS3UzQmJfY19Wckh2TEdDdDdIWHdZcg?oc=5"
+    },
+    {
+      "headline": "Stifel reiterates buy rating on IDEXX Laboratories stock at $675 - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM241Y2NzUFh2eDRLNGROZmVsU21QWnJNdW15MVdmRk1LUHFYbC0zY21tdndJQnBxanJlWDJ2ZkhWT214MEpocTRpTTJPN0ZYOXE2VFNVdHRyX0UyY0V0Z0hmM21XeVpLVEtfNkFibHV1M01wVUYzMUR1Z3c0SUo2ajN4QW5TQ0FXWEZYUmNiRk9xbEw1UkVzZWZJQXB3TDc3cnBvSGtQY250VklZSW9mZFhjbTFfNERXTGNNY0pMOWVWS2xNaDg3Qndncw?oc=5"
+    },
     {
       "headline": "IDEXX Laboratories Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZkZOQjhUR0NOVGh0ZDkyTWVKWTNlXzlsMkdJeF83WU9jUVVwMjhzTXI5OGkwS0I5dHNIdXJpVUpQd2NncG5MNC1GYVNzdTNHbDlWeHI5UWxGNGdLcHUtWFQ2Sy1rMkRlajVWcEVmWE9PYXlxTF9BRS15M1Fmc05ZU3lBM1ZGRFdFYnZZbGdyUG9UOFVUTjhtZGlmM2pCN2czRGlDXzFLbGpVZ0lxNkFVWldGWVNZc0ppRFFEV0t5WEd3Z3BCZngxVmNDMGk5WUpDQmZJUFQ0djNHU0Vqc0J2WXp3eGVoVVpJeDVzdmFrTW90VWloU2NfaGRzbUZKMDVyQjJ6anVOOFE?oc=5"
-    },
-    {
-      "headline": "IDEXX Laboratories (IDXX) Could Be 22% Undervalued As New Cardiac Test Expands Its Reach - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb1JJY0FJZkt1dGp1cjlFb3dnSjZCRlhIaU1oZ3Iza25tOXIyNXV6ZDFKMUtEa1hBSnEyWFIzZFRkSzQ4eERjU0NzeUY4QmZQWlhUNDZNalNIbEhic3hLREpyZlBaeWg3Q0xTekFheUh2MnBYakpFekI2dmJsWmhBQUhFMnMyQ0pCLS1FS24yWmVmYzJpTXY5NFRIbFQwbFh1UDk2T1JGRGtlNDhGU2RXLVloMnZJcTNzUTZDSVlVVGhkTm9jc0UyU1VkQUhEa1ljM1pZalpB0gHbAUFVX3lxTE4xWG93NUxsdkItcXB0MlVZb0hmb1Z2b0ZTZEpyLU5tTUgxZV9aTzRBbXg4Znp4d3RFX2pCU0U0M0tvVXY3T1dOc0FJZkVmVTh5UUVMbzJhLThZRkpmSEFNOUFRNkVWOWJTSVpHNnBnQlRNVEpIWVAwWFdQbldxYWVGVW05cXhqQzdzSklQSENZOEkxVnlPYk1NYWJ3RFdKNUpaam5MRVU0bXVpWXQyNlh2dlMySi0zLXJuR21ZNld0M0Q2UHVIU2pzdDN3b0IzeF8tZkF1MF82bjNhbw?oc=5"
-    },
-    {
-      "headline": "IDEXX Laboratories, Inc. (IDXX) Stock Analysis: Unpacking a 26.86% Potential Upside in the Diagnostics & Research Sector - DirectorsTalk Interviews",
-      "source": "DirectorsTalk Interviews",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNLXExUlYzOGs4NXJ0S195dHplaFBrWklSakEwdHpmTHl4OWhyYWRaMnE2X1B1cGMtY1NiU0ZUZHBYWmphQzJ5bUFiWTBVNk10anFZdVhtMHVLVVNRbkM4TVBHSm5BUVN3bWZ0TTVkdnRXT1hKbUdkY2pMYjk3TkFpVWFwS1loS18xdk5QVFhBQVlyUnV6X1labW5uTjB6ZUJDcUs3VlBDbVVfVHdvRVpHSXBBUFFTUXhSZmU0LVlsNkV3N1BKblB0WG5CZFNUMWM3V2NWU3NBNjdocFR5Q2ZaTUJGdmNwck5mS2l4aDFHc3pncHJyeEE?oc=5"
     }
   ],
   "insight": "Tracking Idexx Laboratories (IDXX)."

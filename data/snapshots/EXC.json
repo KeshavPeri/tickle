@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:18.464Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:23.159Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
     45.88999938964844,
-    46.70000076293945,
     47.279998779296875,
     47.529998779296875,
     47.150001525878906,
@@ -24,7 +23,8 @@
     45.86000061035156,
     45.56999969482422,
     45.310001373291016,
-    45.29999923706055
+    45.29999923706055,
+    45.060001373291016
   ],
   "6m": [
     44.63999938964844,
@@ -138,7 +138,6 @@
     46.2599983215332,
     45.959999084472656,
     45.88999938964844,
-    46.70000076293945,
     47.279998779296875,
     47.529998779296875,
     47.150001525878906,
@@ -158,10 +157,10 @@
     45.86000061035156,
     45.56999969482422,
     45.310001373291016,
-    45.29999923706055
+    45.29999923706055,
+    45.060001373291016
   ],
   "1y": [
-    44.880001068115234,
     44.63999938964844,
     44.959999084472656,
     44.599998474121094,
@@ -391,7 +390,6 @@
     46.2599983215332,
     45.959999084472656,
     45.88999938964844,
-    46.70000076293945,
     47.279998779296875,
     47.529998779296875,
     47.150001525878906,
@@ -411,29 +409,30 @@
     45.86000061035156,
     45.56999969482422,
     45.310001373291016,
-    45.29999923706055
+    45.29999923706055,
+    45.060001373291016
   ],
-  "lastClose": 45.29999923706055,
-  "oneYearReturn": 0.9358247748431942,
+  "lastClose": 45.060001373291016,
+  "oneYearReturn": 0.9408646715617391,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Exelon (EXC) is a Top Dividend Stock for Your Portfolio - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVVo0a0x5Y2hubFdBYkYxTVczRlZibGlzNnljZGk1NUNoQ1U4MWZ0SmxMcDNBd1NXTnlFcUlPV08ydFNXOWpSN1VwWlkxSGY3enFScmRlcXdqUHhLZEVYbFJBUTlKWS01Z3RNVzY0X1A2TFFUUFBrMDBNa0VFZTJ2a0xLZDh6MDJuMzNoQ3liaHNRMTg1eC04?oc=5"
+    },
+    {
+      "headline": "Exelon (EXC) Stock Looks Like A Bargain On Earnings Yet Fair Value Stays Mixed - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenp4Wm0zbnEzTDhoR25JbGppeVd2eGFiVnRvaTA4Vng3ckNZa012T2tqY1hRMnBqd0lnQ3JnQ05fam1ESHVUTzREcndTZGQ5M1BOcUJ6R3VkVlpXTHJMXzhST2NsWnVlQ1VUSUdfX3UwOE0yREpsV1htMGVzMXdvVHhIRDR4ZEsxMGFEeGdVYXdtbzg2SVo2VkhFZE12NmxNZ3hnLVM2aFZnUGxGaUdGVzJVelp0NU9YQzRnX19EazRPdHfSAcgBQVVfeXFMTV9OTnhRa3dSQWdYQy0wWk1pbUVna1RQcXljSEl0Mk9oY09hU3hTRUNZQnlYNEJvQUFxWkNGRktWNmhIekhUQlF6U0tOa3hFcmg2LXBrRkE3WC1yRDZHLXVIbDhCRmRZUktBWVRsalJmcnI5ajlONTZmN0QzNWtKUXBRR1M4Z2ZsbXZ1QXdKenJ1eG1YdVNvdGZTaGNQQkJxNDFEbG9BbjlkOTFfZXBPdmZjbUdORFNQb2dUeEhfclpNbkhiYWwzX1c?oc=5"
+    },
     {
       "headline": "Exelon (EXC) Stock News & Updates - Stock Titan",
       "source": "Stock Titan",
       "when": "2026-08-15",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yUk90UGNNMUZQSUhTSHJPdDJGR0hYT1ctTllrd2M2QzJvNzRxVmtzWEotUUdZYnkxalV5aEJCR01BUm90LXN3SDduekw?oc=5"
-    },
-    {
-      "headline": "Exelon (EXC) Restores Power As Fair Value Still Sits Above The Stock - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzFYMFFBRGFaVVIzWnVTUzdONTNCM0RFZFplOHhyUGQyRHB6Y1hVR0x3YzhMZVBZSHE4ZlRza1UxNkpQSDlfdTMzOUxqU3V0c3NFNjREaXdtcWhvMHE2bFNjcGRHSjhlN0UwUlRyUDdGZkFwU1BqdUUzUWxJSFI0a3hCb0VwS0U1Z3d2UUl2cE56blphdFQ3MjJ5UQ?oc=5"
-    },
-    {
-      "headline": "EXC Stock Forecast: Why Investors Trust Exelon for Recession-Proof Cash - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-07-14",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRElFYWZTOEhLMWNrMVNZaXJvWm5RS0UzQVlCaENaRFpzTFZnZUVYREkyZ01pNHJUWndpU0NPTWZzZXpJWk1xOHZxVldUQkRjSUMwZGZsQ1Q3eWRmanI2ZXpNdmdzaVZKbV9wbkhDX09JZTBaRUNoRG94b3g5ZDBZc0ZhQ2hBRnNYcU5xVGV6S2JkbEplS2Y2RWhqNEs?oc=5"
     }
   ],
   "insight": "Tracking Exelon (EXC)."

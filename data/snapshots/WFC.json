@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-20T02:38:43.761Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:54.104Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    87.73999786376953,
     86.41999816894531,
     86.19000244140625,
     86.30999755859375,
@@ -24,7 +23,8 @@
     88.81999969482422,
     87.54000091552734,
     87.4000015258789,
-    85.94000244140625
+    85.94000244140625,
+    83.69999694824219
   ],
   "6m": [
     91.91000366210938,
@@ -137,7 +137,6 @@
     88.06999969482422,
     87.51000213623047,
     86.33000183105469,
-    87.73999786376953,
     86.41999816894531,
     86.19000244140625,
     86.30999755859375,
@@ -158,10 +157,10 @@
     88.81999969482422,
     87.54000091552734,
     87.4000015258789,
-    85.94000244140625
+    85.94000244140625,
+    83.69999694824219
   ],
   "1y": [
-    78.16000366210938,
     77.83000183105469,
     79.0999984741211,
     80.19000244140625,
@@ -390,7 +389,6 @@
     88.06999969482422,
     87.51000213623047,
     86.33000183105469,
-    87.73999786376953,
     86.41999816894531,
     86.19000244140625,
     86.30999755859375,
@@ -411,29 +409,30 @@
     88.81999969482422,
     87.54000091552734,
     87.4000015258789,
-    85.94000244140625
+    85.94000244140625,
+    83.69999694824219
   ],
-  "lastClose": 85.94000244140625,
-  "oneYearReturn": 9.953938606413455,
+  "lastClose": 83.69999694824219,
+  "oneYearReturn": 7.542072438761441,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Wells Fargo (WFC) Stock Declines While Market Improves: Some Information for Investors - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
+      "headline": "Wells Fargo (WFC) Stock Looks Cheap On Fair Value But Full On Earnings - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS25POWJTaHBKOGRrR0kyU2VUc3NPRWlrS1I3dklUWkZNdG9YcFhFS3MwaE5GN1NZb2xSSVVPaXdiT3QwdkVyaDV2cl8zb0VMSzdneUJqSDhPYjIzRWNCaXAzYVBNYjExNGU1RlVJRVd3ZHg1T2VjTFl4RGJ4bzFzNkljRF92dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV1psQTV3cC1Db2dxNHBubWd2bldxS1pBZHAwZHBLa2tDLXhFUnBPc2tJeVZKaE5RVjFnbjFRUXRoTno2NmFlcHVLSUFVQmtBcVFOU0dOU1p1R0xVeWtrelNfamt3cEZqRzdFZnUyejlJbXd4b1dVemE0czlvYnllRmk5VmNrR1h4TThFY3lOVnZWVXZGbzBR?oc=5"
     },
     {
-      "headline": "Which Big Bank Stock Has Dominated in 2026: Bank of America, Wells Fargo, or Bank of New York Mellon Corp.? - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNlp6Rm5WTzI3QUEzQldSOUZHN29SeVg3cXBqVzhEXzRHNjRWYXdYbkxMTmdtdVdsRjQ5VXlYSUh1SENJRW9faTh0dW9fVG5NbGpJVWRacExhTGxwNWNhaWlQU0FFNzM1aXkybnJwZmFBSDA4Zll1T2wzZ3FBcWpWMHBmYXhEaVEzX3pjekI3dU5lQkRQUEg1R2lvaGtJQUdzR3VIQUk2bllQMGxUV29aV3llSWpHdzRZV2JOOUhUbUk0Mm1Wc0V0eWpHaHl2VlFiQmpXQ2xxcTNxNXdMLWNF?oc=5"
+      "headline": "Wells Fargo (WFC) Stock Still Trades Below Fair Value While Earnings Look Pricier - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObEt6NEMzcjZ4Z2lWa0pUQlY5NnNqZUdaaFpZMmhMTjBhNUpYenJWR1lWejE3NXFNaThtMl8yaVpPclRmd2FJa1NncGhJNS1ZYWpZekFNOFVib0VwZTlyU0EzN1RZX3pXRDc5aHB0bWdQaGtDVUIwa3hTT082MlRzSmtQX1FCR2RfOTRBRVo1d185X25aS0UxY0RrUEpsWndPU2JMZzluY1piY1lCeVdHVnR1YUJ0c2lWT3huTFBzT19Xd9IBxwFBVV95cUxNV2ppUU1iSlA5THppU0tuUTVOdXN5SzR1TkpvMHAzRlc4YlVseEVYb2ZhWjZScUxhNWpOa0liMFFwYUFiUDROMzBQVEdKQS13YVdON3hBcHJKWTVUX2JiSkFTeDNkV3dCNFluUS01Qmcybk45VHRUVTFWUnhpdFkyLVB4WEhlZXo3T0xmUXpVLV9QU2ZIWk5RVWxOWTFLMkNEMjdna3lFa052dWdxWWN2clN3RnlXUVBGUnRPVGZPUUQyV1YtZTVF?oc=5"
     },
     {
-      "headline": "Wells Fargo launches new Series HH preferred stock and completes depositary share sale - Investing.com",
-      "source": "Investing.com",
+      "headline": "Wells Fargo (WFC) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+      "source": "Yahoo Finance",
       "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNlJ5N3ZHRTRwSmlVdlJEaUljYUpDX28yNXlzbUF6ZTIzS3hlUzBtUHlnR2JqdlpzS0pYRUhTY1Fka3NaMFVVNlZxeWE2czdmMndNQnV5dnNlMlUxQ2tMdEhXRDAtZzdkcmI0MS1oSkZRcFNVU0lwX1JZRUtWTURiSU82OFZOQmdFMTZzZnhzWW54WFo4Mmc2ZnNJZDQ3aDkwQksyRWtuMjhhS1hwSGhpdHFqa1gzdm5SVmVJR0l2UnJDMVNBbEViMExrUW1ZRHpwUWdYUVRpOUxyUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkUwdnNuemcxSUd4cU9VN0xHMnVSRlhnbFlvX3hnMC1pbFJNWFBQSjU0YmFDZ3I1bzRzajhWYlU5a1pSczZDNFF6eXR4NWJnSGdKZHBkNDFIRTRrUnI0Y0I5eUw4N2xtY0FfbTZmNWZoWk0ybEhFTjNVcTJUdHpNazhqTjZnVTYxUG1HWER3ZENwWjdVeGU2R3Fncw?oc=5"
     }
   ],
   "insight": "Tracking Wells Fargo (WFC)."

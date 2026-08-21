@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:05.591Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:07.253Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
+    72.69999694824219,
     69.73999786376953,
-    71.02999877929688,
     70.55000305175781,
     72.86000061035156,
     72.72000122070312,
     73.68000030517578,
     67.76000213623047,
     66.01000213623047,
-    66.44000244140625,
     72.4800033569336,
     75.37000274658203,
     75.86000061035156,
@@ -24,9 +23,11 @@
     72.51000213623047,
     70.20999908447266,
     67.62000274658203,
-    72.55000305175781
+    72.55000305175781,
+    70.31999969482422
   ],
   "6m": [
+    124.30000305175781,
     128.4199981689453,
     126.94000244140625,
     120.56999969482422,
@@ -138,14 +139,12 @@
     74.26000213623047,
     72.69999694824219,
     69.73999786376953,
-    71.02999877929688,
     70.55000305175781,
     72.86000061035156,
     72.72000122070312,
     73.68000030517578,
     67.76000213623047,
     66.01000213623047,
-    66.44000244140625,
     72.4800033569336,
     75.37000274658203,
     75.86000061035156,
@@ -158,10 +157,10 @@
     72.51000213623047,
     70.20999908447266,
     67.62000274658203,
-    72.55000305175781
+    72.55000305175781,
+    70.31999969482422
   ],
   "1y": [
-    132.75,
     133.22000122070312,
     144.4499969482422,
     141.91000366210938,
@@ -391,14 +390,12 @@
     74.26000213623047,
     72.69999694824219,
     69.73999786376953,
-    71.02999877929688,
     70.55000305175781,
     72.86000061035156,
     72.72000122070312,
     73.68000030517578,
     67.76000213623047,
     66.01000213623047,
-    66.44000244140625,
     72.4800033569336,
     75.37000274658203,
     75.86000061035156,
@@ -411,29 +408,30 @@
     72.51000213623047,
     70.20999908447266,
     67.62000274658203,
-    72.55000305175781
+    72.55000305175781,
+    70.31999969482422
   ],
-  "lastClose": 72.55000305175781,
-  "oneYearReturn": -45.34839694782839,
+  "lastClose": 70.31999969482422,
+  "oneYearReturn": -47.21513357568105,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Here’s How Much You Would Have Made Owning Builders FirstSource Stock In The Last 10 Years - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWc0czdLcEM1MzBNOFdzREJTZld4WjlJUE11ZDJaWnZQWmlKTWs3cGZ6V25SeVhqWVVZOTRkc0o0NGxsZU9EWG1Lc0NOdDFuTllhejJld2JMU0ItU1FCZ3RDZjhvMjlCS0RzbkcwaFk1cHZ0Sl9fdklTaWlZdkExeGFnbzBOWXpTVUNJaUhieE9VV01MUndFdDRhUl9PNGV4X2VLOHl5alJobm8yTHJuYjRrTVhTc3B4LVY3UnNVV3llUGd1M1lN?oc=5"
+    },
+    {
+      "headline": "Is Builders FirstSource Inc (BLDR) a Bargain After 3.1% Drop? GF Value Says Undervalued - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVVFnOUJtajlPeTgzQUFQYzB0Z1F1V3BENHlYQUxwUXhmZVRSZW5wanNqdkZ3dkVTWHUtV01fOFpnXzdXWGRvVEs0OHZ5SXNDVU1DMWpIQU9RT01HQnFPNnBhNF9ObGJSU0RuX1dnbnVrcTlQU0poZEMwYk5vZW1RWjFkby1tME5mOVdpXzlqYWw4YWY0S0ZUT3BFRnUzY1laN01YOVJrakdYNWoxU3NEZk85QUFLbzVkNDBKVmtR?oc=5"
+    },
     {
       "headline": "Builders FirstSource Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeHB1X0VVOTRTWHpfaUpCQXRBLWU1SS1zOFpTa1VBODR4NW9wanR2Wi1zTHJ1MDNUMFlhS0k3YVN0dTFkaXc0MENNeGFfeFJpNHRXWjJFRWxiN1dZRjVZcUtmRUQ5QV84RUwwZkVQXzlGNWR2Nl9fMnpoSUFVNFpSVmM3cDZsSGRlQnVjdklpRkdfUmx0UU52bjFXWVJGREhmQW5HNWtwbWdWN2dQUnBubmNRRUl1dGJUWGQ4MzFrOTQ3bkRKTURPNkZ1Q2JrbUhMY3c?oc=5"
-    },
-    {
-      "headline": "Builders FirstSource, Inc. $BLDR Shares Purchased by Main Street Financial Solutions LLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVTd3cmJ3N3dhV0FZTFNueE5ncThvWDQ2dFMzM0tqZVl4NzRUMmk5eDlkXzBzbmY3YS1xWEJqOHk2dW1wenB2dGpIb1dQT001NkMxd1dMZTFZM2lyS0NmcjhTTTUtX1FkalZ2VEk5ckxVY1pHNzhGNnllWjB0R0VpWEIwZFRySGY2bTlmMGdXMHAxNW5kU0UyaGtRQVpIQkpQdkR2Z1o1N3lFTHNCREJHd0VSTm1CQnVtM055QXJKcVBKaHZKRVF3c0FQQWgya2F1X2xTQl9zNFdrX01hdThJ?oc=5"
-    },
-    {
-      "headline": "Are Wall Street Analysts Predicting Builders FirstSource Stock Will Climb or Sink? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1Y3SEV1LUU2MnZpMHBqUlNubUdTVVItRVlEYkRpX0lzZTd1V2tjeDgxbFlPMVBvUDFodHZaS3BiTmFFa3dfUjdWZkFNaVE5WUZfZjNPVUI4dFIyM2F3Q0huTE1NeEphMGRmRjJ6RnRPVHZUZDcyekJGaHlUWWJlM2IxbVJHeHdtOXNfTDdCSUJsZkp2cEFHRU1OMkxOX21aeUlZa2FmWlV2OUlCRHgzdm1wWlNlUS1FRnNna2ZYQVNQbGM?oc=5"
     }
   ],
   "insight": "Tracking Builders FirstSource (BLDR)."

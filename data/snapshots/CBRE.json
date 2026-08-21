@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:07.331Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:09.417Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    138.27000427246094,
-    137.08999633789062,
+    138.6199951171875,
     135.5500030517578,
     139.4600067138672,
     143.8800048828125,
@@ -24,9 +23,11 @@
     152.86000061035156,
     147.9600067138672,
     147.3000030517578,
-    155.07000732421875
+    155.07000732421875,
+    151.7899932861328
   ],
   "6m": [
+    170.97999572753906,
     170.3300018310547,
     149.49000549316406,
     136.27999877929688,
@@ -137,8 +138,6 @@
     143.69000244140625,
     140.9600067138672,
     138.6199951171875,
-    138.27000427246094,
-    137.08999633789062,
     135.5500030517578,
     139.4600067138672,
     143.8800048828125,
@@ -158,10 +157,10 @@
     152.86000061035156,
     147.9600067138672,
     147.3000030517578,
-    155.07000732421875
+    155.07000732421875,
+    151.7899932861328
   ],
   "1y": [
-    160.83999633789062,
     159.1199951171875,
     164.41000366210938,
     164.97999572753906,
@@ -390,8 +389,6 @@
     143.69000244140625,
     140.9600067138672,
     138.6199951171875,
-    138.27000427246094,
-    137.08999633789062,
     135.5500030517578,
     139.4600067138672,
     143.8800048828125,
@@ -411,29 +408,30 @@
     152.86000061035156,
     147.9600067138672,
     147.3000030517578,
-    155.07000732421875
+    155.07000732421875,
+    151.7899932861328
   ],
-  "lastClose": 155.07000732421875,
-  "oneYearReturn": -3.587409316741313,
+  "lastClose": 151.7899932861328,
+  "oneYearReturn": -4.606587516330894,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CBRE Group Inc (CBRE) Stock Up 5.3% and Still Undervalued -- GF Score: 93/100 - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRElGaXBGLXBpRkZMbzUwemNhWXV2b2RsbkpQcTlMTHBsVUZ4RjRTdkhxVEFNeWFFaDN2NmZLaG9kdTctc2Zva2g1ellXWkpkbjFwd3NRY0xfN2w0bmVBU1drODZUR29BU2NFUzByOFI1T2M2QTlWX1Ixb3RvcWhkUVpRaHBDWVJPVk00dEwyWEsydi1kdTBSX2hIdGE0UlJWMkUtV0xLTkZhTkk?oc=5"
+      "headline": "CBRE Group (CBRE) Is Up 5.2% After Broader AI Role And Leasing Strength Data - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNl9kRm93eFEyRENNRGx4Z19rVlFsMlZsa0VOaHJhVmdNdWxBZGl2TkRyUXJKYXE4aUtzSTZ2b1JJZ2ZqWUE2bC1NRFYwN0g2R0lTQVJKM1FnVmEtMW5lTmhuQXhneVB5Yy1pamhzOENaVVFtNFZtNVVTYTRiWTFQeU5WVkZYaW1pRWtfcDB3Sk4zVnBjMWpFOVBUckxnVWVtVXBONm9OYlhXNW1ZZm0xSHZoVGc1Vmk5MzFkRGZza2JPU0FCRTNsN3haMU5aQm9ibVZHQkYxMU1IR2pXZEpPaW1mcVVIajdreGNScHM4RFZfaUHSAfMBQVVfeXFMTTZfZEZvd3hRMkRDTURseGdfa1ZRbDJWbGtFTmhyYVZnTXVsQWRpdk5EclFySmFxOGlLc0k2dm9SSWdmallBNmwtTURWMDdINkdJU0FSSjNRZ1ZhLTFuZU5obkF4Z3lQeWMtaWpoczhDWlVRbTRWbTVVU2E0YlkxUHlOVlZGWGltaUVrX3Awd0pOM1ZwYzFqRTlQVHJMZ1VlbVVwTjZvTmJYVzVtWWZtMUh2aFRnNVZpOTMxZERmc2tiT1NBQkUzbDd4WjFOWkJvYm1WR0JGMTFNSEdqV2RKT2ltZnFVSGo3a3hjUnBzOERWX2lB?oc=5"
+    },
+    {
+      "headline": "Here’s How Much You Would Have Made Owning CBRE Group Stock In The Last 15 Years - Benzinga",
+      "source": "Benzinga",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekU3Z0p6dUFXSUpVTy1Wb1UwUHljQm5NZUgzLTJqNTl1ZE9HcWFfZU5ERnRoeDNKc29Jb2puVkM4QjUzd0hmSUZpLW9qc0ZYRl9fd2ItRlM2Ti1lVVdwZVpEZktZUmVvV3YxMWkxT01nVExKdkQ0YUdVc3FNSDA5ODg2ZE9Rb1EyZTktcFhtVnlmMWo0V1pRNVgtdm0yemRQTzA5bHBUMFdtRG1sem8zd1hLbU9BUTRneUE?oc=5"
     },
     {
       "headline": "CBRE Group (CBRE) Stock Sees Modest Fair Value Lift As Analysts Turn More Positive - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-15",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYTJXTk4wSUptbldiQUd1SHlTSWMzc3VkV2hKMHRVQl9FMjVBQW56ckIxQWwyUFF5akFwYjl0cGR5SlRPUXlmaGtMcjlVbUkzMlhfWHdwX0FPdE1DejNDYlUxUmRiZEVXa1lhUUNQYmR3UHdOeUNObVdmV09aaXZ4X0VSaFk5OGhjdnRObzhNdmlaR3Q5YkE?oc=5"
-    },
-    {
-      "headline": "CBRE Group Inc. Cl A stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNWV5dDVUUkFZV2tjZ21UWmdnX2hsQ1lhallOMHRjekNOWnNhYjhleXZSakZoSUszT2duRkFFSlVoOXNXRmRCYjA2QlAxR0thZ2xpTkxPVnlNN1plZHJMZDNfODItMHFJSld2X1AyMF9qWGFqTDlaLUk1bGU0Q3k4Mk5GaTgxZDZzOHlueFp4RUFiMWFvUjlxaHNQdGpRNWdjY1c3MklQdWYxcm1OV2tTOUdNaUExT0RsUGRxd2NFM185VjZ2dkRud0N6Xy01MDg1?oc=5"
     }
   ],
   "insight": "Tracking CBRE Group (CBRE)."

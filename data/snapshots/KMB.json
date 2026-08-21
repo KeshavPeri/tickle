@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:29.184Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:36.436Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
     108.05000305175781,
-    108.87999725341797,
     107.30999755859375,
     109.69999694824219,
     111.44000244140625,
@@ -24,7 +23,8 @@
     110.38999938964844,
     107.91000366210938,
     107.72000122070312,
-    109.87999725341797
+    109.87999725341797,
+    108.69000244140625
   ],
   "6m": [
     105.87999725341797,
@@ -138,7 +138,6 @@
     108.3499984741211,
     108.4800033569336,
     108.05000305175781,
-    108.87999725341797,
     107.30999755859375,
     109.69999694824219,
     111.44000244140625,
@@ -158,10 +157,10 @@
     110.38999938964844,
     107.91000366210938,
     107.72000122070312,
-    109.87999725341797
+    109.87999725341797,
+    108.69000244140625
   ],
   "1y": [
-    133.25999450683594,
     132.97000122070312,
     133.49000549316406,
     130.75,
@@ -391,7 +390,6 @@
     108.3499984741211,
     108.4800033569336,
     108.05000305175781,
-    108.87999725341797,
     107.30999755859375,
     109.69999694824219,
     111.44000244140625,
@@ -411,29 +409,30 @@
     110.38999938964844,
     107.91000366210938,
     107.72000122070312,
-    109.87999725341797
+    109.87999725341797,
+    108.69000244140625
   ],
-  "lastClose": 109.87999725341797,
-  "oneYearReturn": -17.544648219401378,
+  "lastClose": 108.69000244140625,
+  "oneYearReturn": -18.25975675445548,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Piper Sandler reiterates Kimberly Clark stock rating on deal upside - Investing.com",
+      "headline": "Kimberly-Clark stock trades at a discount as Kenvue deal reshapes the outlook - Investing.com",
       "source": "Investing.com",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY1pHa3ZJaWF6blBwWENiTTRIM0psY0lMNjI5b0xnV0JwRHFWYUh0ZVdCOEhUMDBaRmZIZlExNFlOb0trTjN2aDNuN3AydzQ4M2k0TnQwb3gwVFczdDlYQlRILXNLVTQtc2l6NXJPdkVNZ0NuR3NuQ2thWkttLWVRcDI2VFRjM1pXTHNZRDR3WVJHay1FZkQwRjlfZzZwTlhDSTBwazY5eVM0MWxnX19Ya1JDdGNSc3dLOEUyMkJvOE94bjlfN2lWMldVejhtcVZw?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdTVzNFc1dmxBRUV3RFAtNVJ2ZG9HOG0yUTdKcENNUUxRN2NtVk9TTVBfTHFaaHpsc1lVcWoyTDJFTnlpSVRJZGRKS3FsLXItQ2pVZjF4cXJSb2pyTnQtSFhocVFaRE1QNTlxZGV6T21NQ29HRzVlTi1pUjlSV3NldkdnOXZ2bHNPOHczb0VzbERoaEZGakZOMmdvclJiNHppTHllcTRBQjM1MWxpeFA2VG9sU0ZGMF94WV9kczAtc3k2ZXYzbTJTUXdCY1RQYUJoYkx4ZQ?oc=5"
     },
     {
-      "headline": "Kimberly-Clark's purchase of Kenvue sees in-depth China review - report - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFVWX1EyNnFLekY1dlg5X2U0RmItei1qaUlMY1B0UnROQmJJbWE1T2N3Rl9POUdqTnJObjBlaGZoMlhIdlh4b1MyUWdTeVQ4RzNZN3FPWExDWUdKYUY1cjBOekVRbGY4RDA5ZFA5NnBVejdjejAzaFBuNlhjaHlteW9kRl9iOUF2dm9TcEJ1WEpxZ2VRODdrU0tQYmV2YjBTZXV5cXNtTVc?oc=5"
-    },
-    {
-      "headline": "11,468 Shares in Kimberly-Clark Corporation $KMB Purchased by Trust Co. of Vermont - MarketBeat",
+      "headline": "Johnson Financial Group Inc. Acquires Shares of 12,828 Kimberly-Clark Corporation $KMB - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMWlhaWoxeVhQWldDbk5HWEFQVGtTNF9fZndqOHZqQzVwTEQtVndmeGxwa3VoNjQ1SmFKU29SSkQwM2tGLWlIbjJic0JfLUdLTDBMT0ZkZGgxY0ZoVTRUVG00NW1sNEg3OTc2NkVPRnVOSWcxY0V2MmZvR25UOHNTdzNZNmZXQnVrM2dweUczeEFPeEZXMVhnWWg0VzgyR3BEaUl2aDVuRTJWX2lTaVRjVGlJdGhXbE9tWUFiRXIzLUxjaU14WTVFa3RpU1FGdnlyZTdHR1N6Yw?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR25OaGFFZ2ZsS0o1SzB2Zmkwc1lXZ3UxMG9taXlhNkNkQmg0Y2FoV2VLN040aWZDZDd4ZmFId2ZPMmVjNWdiTXJkYlR3OFdWeEMzZFl6S0cxanNmMFQtdl9SMmFxZ2NTZ3h5Mi1KNkNLUlhXOTVhb3pYWWZlYTZYYkw0aktSeUh5emx0NFdFRUNKVEs2M0F1SDVLUVpTWVdObV9OLTFPQ0JuMjhxSTU1ZHZ3OC1lXzlUYTBJR2NOSFVxZVZCUjZzSXpYQm52MXYtRi11Slpkci1OSXFJ?oc=5"
+    },
+    {
+      "headline": "Kimberly Clark (KMB) Stock Looks Below Fair Value As Shares Fell 16% - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOHVqdEFaM21RU25Pb3VIQXFFV2haY1N6LVNjUDJqWXNuS3JxSURBcDk5ck45bk5uXzQyLUJyMzJJOF92TVBwRjVsTEN2NkVUeW03YzNCWTFBTHZpZmNWUzF2UzlyaU9qWld1dHZqdHg2U2pxLVBmVm1VSDEtbFBpWGNqVTFPNEFBelQ4VGEyYlhneTFRejQwTndiZw?oc=5"
     }
   ],
   "insight": "Tracking Kimberly-Clark (KMB)."

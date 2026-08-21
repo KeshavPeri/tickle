@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:03.826Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:05.052Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    131.52999877929688,
-    133.8300018310547,
+    135.11000061035156,
+    133.64999389648438,
     134.41000366210938,
     134.66000366210938,
     134.55999755859375,
     138.0399932861328,
     138.08999633789062,
     136.80999755859375,
-    134.1699981689453,
     131.3000030517578,
     134.00999450683594,
     134.16000366210938,
@@ -24,9 +23,12 @@
     136.1999969482422,
     134.35000610351562,
     136.27000427246094,
-    138.7100067138672
+    138.7100067138672,
+    137.2100067138672
   ],
   "6m": [
+    124.33000183105469,
+    122.94999694824219,
     125.02999877929688,
     123.69000244140625,
     128.3699951171875,
@@ -137,15 +139,12 @@
     134.3300018310547,
     135.11000061035156,
     133.64999389648438,
-    131.52999877929688,
-    133.8300018310547,
     134.41000366210938,
     134.66000366210938,
     134.55999755859375,
     138.0399932861328,
     138.08999633789062,
     136.80999755859375,
-    134.1699981689453,
     131.3000030517578,
     134.00999450683594,
     134.16000366210938,
@@ -158,10 +157,10 @@
     136.1999969482422,
     134.35000610351562,
     136.27000427246094,
-    138.7100067138672
+    138.7100067138672,
+    137.2100067138672
   ],
   "1y": [
-    145.6199951171875,
     145.8699951171875,
     146.1999969482422,
     144.39999389648438,
@@ -390,15 +389,12 @@
     134.3300018310547,
     135.11000061035156,
     133.64999389648438,
-    131.52999877929688,
-    133.8300018310547,
     134.41000366210938,
     134.66000366210938,
     134.55999755859375,
     138.0399932861328,
     138.08999633789062,
     136.80999755859375,
-    134.1699981689453,
     131.3000030517578,
     134.00999450683594,
     134.16000366210938,
@@ -411,18 +407,13 @@
     136.1999969482422,
     134.35000610351562,
     136.27000427246094,
-    138.7100067138672
+    138.7100067138672,
+    137.2100067138672
   ],
-  "lastClose": 138.7100067138672,
-  "oneYearReturn": -4.745219499396019,
+  "lastClose": 137.2100067138672,
+  "oneYearReturn": -5.936785283610342,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "American Water Works (NYSE:AWK) Flashes a High-Quality Breakout Setup with Strong Technicals - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZlNEcmlXMmd2S2poV1hQZkhmVnh3bTFFTEc0WUYxTlhpbnFWOV9ITHNLVlV0WHpsaEpRUWVSa29fbXk5VUgweDNZaTBqV2x4Z0RYaDBHM2pBNlpNcEtGSXZORjJPRjkyODZWSDFLWUNHeC02M3FYdVhLVUpzUVRfWGxzeXg5NHJ0WmdQM3ZNZG9aek9BWmQtU0J4bzJhQmVDc29Wbl9QRzNGYlpnOVU5ZXh6Yl9HSEdleFUtNmRjRzZtN0lxajlPdGQ4UFYzdUhwQndSZ196dw?oc=5"
-    },
     {
       "headline": "American Water Works Company (AWK), What Is Behind The Fresh Attention? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +421,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeEkwWThRb1NFTnpaWVFfOUw4UTJwN28tWlNacC1JNDVUWlAtcV9XSlZ5aldvUmFMekJFSFkzeTBZWmRCZE9jMWJTUGVEMHFMOFBRRDRkWUJtdzBqb2VocnNqY2JBMUdJQjYxTlV0S01rZy1YdFdORlJ6S0RKQk9vZklMZEswbjE0ZVZXajdGTWxHcC1ZWFZMRWhHUW9IZw?oc=5"
     },
     {
-      "headline": "90,433 Shares in American Water Works Company, Inc. $AWK Acquired by Wealthfront Advisers LLC - MarketBeat",
+      "headline": "47,612 Shares in American Water Works Company, Inc. $AWK Acquired by Edmond DE Rothschild Holding S.A. - MarketBeat",
       "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVDEzcU9EckhHSVNZZUM0MmwweHc5TmpySmpnRXVUZnFTZUJ3WDJnNl82MWVkcWhGUXF5NTNpQklySjRYYlJhME1BZjllN2tZQW5VXzcwYmQzaGlWYV9wX0MyUzVNdUxhclJhUUptMlRVX0hBN05TWmdwNE1jY2dpUC1RSERyQ1VLeFB3c3hxNW5yUzBUYnBYYXRhLWdYSEl5czdzRXdPQWlaUi1GTTNoTi13dEhVczA0czVQUFVTb0lsRmtIOURBaklCNTZ3VlkySUtRQ3F1elVoTUlhSThjdnF4VVlsb3hCUE9IWG1n?oc=5"
+    },
+    {
+      "headline": "American Water Works (NYSE:AWK) Flashes a High-Quality Breakout Setup with Strong Technicals - ChartMill",
+      "source": "ChartMill",
       "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQkowZHRuSExBSi0wLThUaHlXYmFObVVoR3p6cWI1M0YxTWFiWDRmMkp1OFBmMjFFLUFIS3hHc29fTG1HX3VFNXl4dDBuaEE5TXJIUGhrejRhR3dBUFAwMVVwWHliYkEwaXEycWFkS3NhbUFrZWdWbTFwa3k5TFRSOTRzWXQ2VGFKWjIzaEFlUVA3MlBMWUwtSzMyTmdxTjJiM3JxVEN0T1NvTjJlSnlXYW1XWGNjeGpramxTT2ExSEpOdjFOWDJhMmxJaHkwTzNHaXAzdHh4bUY5dWlRRDUxd2tkWHk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZlNEcmlXMmd2S2poV1hQZkhmVnh3bTFFTEc0WUYxTlhpbnFWOV9ITHNLVlV0WHpsaEpRUWVSa29fbXk5VUgweDNZaTBqV2x4Z0RYaDBHM2pBNlpNcEtGSXZORjJPRjkyODZWSDFLWUNHeC02M3FYdVhLVUpzUVRfWGxzeXg5NHJ0WmdQM3ZNZG9aek9BWmQtU0J4bzJhQmVDc29Wbl9QRzNGYlpnOVU5ZXh6Yl9HSEdleFUtNmRjRzZtN0lxajlPdGQ4UFYzdUhwQndSZ196dw?oc=5"
     }
   ],
   "insight": "Tracking American Water Works (AWK)."

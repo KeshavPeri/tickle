@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:43.014Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:53.295Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    266.1499938964844,
-    262.5899963378906,
+    277.6600036621094,
+    277.6099853515625,
     261.5799865722656,
     280,
     274.82000732421875,
     281.1499938964844,
     290.9200134277344,
     286.5799865722656,
-    290.0199890136719,
     298.8900146484375,
     299.20001220703125,
     293.4100036621094,
@@ -24,9 +23,12 @@
     284.239990234375,
     272.7699890136719,
     276.739990234375,
-    273.0299987792969
+    273.0299987792969,
+    276.8999938964844
   ],
   "6m": [
+    224.1699981689453,
+    219.8699951171875,
     220.0800018310547,
     215.67999267578125,
     218.14999389648438,
@@ -137,15 +139,12 @@
     275.2200012207031,
     277.6600036621094,
     277.6099853515625,
-    266.1499938964844,
-    262.5899963378906,
     261.5799865722656,
     280,
     274.82000732421875,
     281.1499938964844,
     290.9200134277344,
     286.5799865722656,
-    290.0199890136719,
     298.8900146484375,
     299.20001220703125,
     293.4100036621094,
@@ -158,10 +157,10 @@
     284.239990234375,
     272.7699890136719,
     276.739990234375,
-    273.0299987792969
+    273.0299987792969,
+    276.8999938964844
   ],
   "1y": [
-    271.4200134277344,
     272.239990234375,
     269.54998779296875,
     266.3900146484375,
@@ -390,15 +389,12 @@
     275.2200012207031,
     277.6600036621094,
     277.6099853515625,
-    266.1499938964844,
-    262.5899963378906,
     261.5799865722656,
     280,
     274.82000732421875,
     281.1499938964844,
     290.9200134277344,
     286.5799865722656,
-    290.0199890136719,
     298.8900146484375,
     299.20001220703125,
     293.4100036621094,
@@ -411,29 +407,30 @@
     284.239990234375,
     272.7699890136719,
     276.739990234375,
-    273.0299987792969
+    273.0299987792969,
+    276.8999938964844
   ],
-  "lastClose": 273.0299987792969,
-  "oneYearReturn": 0.5931712003216589,
+  "lastClose": 276.8999938964844,
+  "oneYearReturn": 1.7117263551535966,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "VeriSign (NASDAQ:VRSN) CEO D James Bidzos Sells 3,300 Shares of Stock - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVFNyRWc5cTh0WDAydU5mQjlSakxxTzdtNWZ5UDk1TGs1TzZocVRIT09iSDBUX3JuTnBTSXRKa1JkOVNDdDVJNFBMcXowV1k5dkQwa285RnRJNGNCOXRsem1HR3B1VThmODhKVms2SG5fZnkzUkNSbGd4RzZhVWI0Vm8yMmp0ak45LWdQVERTTjF4VjRvZXl1ck01azFEVWhtcjJQaDVvam54dldVRlpBQmJfZ2dfbDdZUV93?oc=5"
-    },
-    {
-      "headline": "Verisign (NASDAQ: VRSN) insider unloads 3,300 shares - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGkxQVoxZkJBa1d5cmlucVBRTVBKeXR3VElXLW9VM3BXeVVhMG16aTB3WXJSSlBESEdIM2FITUFuUWZodGNSY0dSQ2Q0UXlvdjVwVGc0a2RfUzM5dWlFWW0zM3lqWS1qWmpoRk9jMTdaWW92dWFUbFdBbmt4NmxFWUN6eW5wZjc0aEgzSUVScG9SdlVQTXQ3UHB5ZWZ5R3c2aFF6WnVwQlJVbHRndnc?oc=5"
-    },
     {
       "headline": "VeriSign Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS3BHdHJYRkhTV19DOHcyekFENmQ1Q1RfSUFaaWpDaWI3aWQxR241QzgtcEVQZHhzN05jV0lEZTA1c2stQXhPaV9RMVRTeE9lMkJxYXdDZW40TlhXZU1MYXRSNXo5dWpFeF91UXZnQ2RCZ0RXcDV5aElpdWYxbDRlNmpIdjViUzZjcmdmcWFoajNRcjZTQ0dNaldtdUd2WTB1eTJvSmY2dzdNd0xlajBZMTBzY0FyVDhqdkt5SU80YzY3RFZXZHFlTURfMHp2Z2szcHQydTFoVTJMUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzlJOHZEa0hYOUVXdWVwY1c4M2VwQzNoekNUUG1KcFNkc0V6Q1hPc1JEdFhuWThJbVBObENoLVdNTGQyTW1UVTUtX1kwWG5XQ0paWFlwbGVvTXN1Sm1kaGtuU0k2Zm5WSEt3aDlBTG9EZGx6amVRYm5ENENCQnNYOTA4RTJsQWE2UDl2STFFOHkxZGk0QndOVEhFY3YyN0J0US1vSF9QT1doS2ZxWXVCNWpvYlZFLWZKU0VjQkVJMk9LZw?oc=5"
+    },
+    {
+      "headline": "BlackRock Inc. Invests $2.12 Billion in VeriSign, Inc. $VRSN - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkRSQmJLc3FiMFNjQzcxZ3VRaWhZM01kZ3pHb3JBOUYwTkVJeEhMWFlEOURNS3JmaXlHS0FXcEF4MDNrb0lnYVhUZ0lxN3k1UlZ6NXNMQll5THVnb08xV3lTLWwzN01GQVJKV2tpSWJYLXhGOS1raW5vaG9YVnozek1NVVJ0VXludTl2d0ctYWpWQkwzMDNQdzY0YWM5Mmk3eWFZNjNIekFIcWdSZW84T2F5SGljZw?oc=5"
+    },
+    {
+      "headline": "Verisign (NASDAQ: VRSN) counsel withholds 707 shares for RSU taxes - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeGdyZUtrdVpiYmRQd3F4bWpEa0I0VnI3ZS1uaWV3bUJRVjlwYjJxS0ZJVE1BUDBBZEUzMVFFZDgxamxMbWR2RGJZR2k0RU15N2UyUUUzU3poUnUyampJTzEtcXhXR1BnSzUyd2I3dkZJTVdmdjBNRVFWZTlTMVlFaHRhOGNBVVlpMzlOdEN2TUFMVEp1TDR1RVFWS2RIS2J2Z3QzM1ZUYy1EdHJDbVE?oc=5"
     }
   ],
   "insight": "Tracking Verisign (VRSN)."

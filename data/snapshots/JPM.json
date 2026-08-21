@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-20T02:38:28.248Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:35.329Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    345.2300109863281,
     348.2099914550781,
     349.8999938964844,
     353.2099914550781,
@@ -24,10 +23,10 @@
     362.8399963378906,
     360.9599914550781,
     363.25,
-    357.260009765625
+    357.260009765625,
+    351.54998779296875
   ],
   "6m": [
-    318.2799987792969,
     310.82000732421875,
     302.6400146484375,
     302.54998779296875,
@@ -158,10 +157,10 @@
     362.8399963378906,
     360.9599914550781,
     363.25,
-    357.260009765625
+    357.260009765625,
+    351.54998779296875
   ],
   "1y": [
-    292.239990234375,
     291.4700012207031,
     296.239990234375,
     294.8999938964844,
@@ -411,29 +410,30 @@
     362.8399963378906,
     360.9599914550781,
     363.25,
-    357.260009765625
+    357.260009765625,
+    351.54998779296875
   ],
-  "lastClose": 357.260009765625,
-  "oneYearReturn": 22.248843999448628,
+  "lastClose": 351.54998779296875,
+  "oneYearReturn": 20.612751336550975,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Jamie Dimon Has Run JPMorgan Chase for 2 Decades. What Happens to the Stock When He Steps Down? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ18yTEttUldHVkFrU3JVUmpSSzhrRkItbFo0cFVFS3M2RXVMcjlfRXM3SGRlck5JOGh1cHlvc0xxdWNpLTQzenQ1RWxnR3gyc2YzY3pRWXd3b0I4cUNBblQtQjhoM29WUjhhNVdHNW1ERWlaVExwc01JUS1zbDhQNmFBNUtxYV90ejhCNUFRQUpfTUpndzF1NA?oc=5"
+      "headline": "JPMorgan Chase & Co. stock outperforms market despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU8zZ2xhUEJjUTc3WmJqUUg2RjA4NmF1dVEtWFoxZDZRRTYzMWt3S1h3VVA5U210d1Z5M3c2TUVfelRBanhXWkJPZlVId3hPcmNBY2RVMEZPMnROM0xaS2Q2b3pUQjMtSG9Ccm5mdjFOYXcteVdiM0lkTWJOZWdpbl9VeE5YampULWE0SlFpTm9udlJ3Mm9wOHA3bzJWaG44ZWhnSFIwT3pyS1JQU05vd0djQ0pnbDJ3czhEVXNMaW0tdWc0Q2ZtQ0d3RnNsclJOTVVSZUE1WHg0VVItNUlv?oc=5"
+    },
+    {
+      "headline": "Explainer: Why India's market regulator barred a JPMorgan entity from the country's securities market - Reuters",
+      "source": "Reuters",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWhlLUo5SzJWeS05N0hTbkcyWDZPanNENUpYMGdGQjlubmg1emk2dVpoV3ZEYUVweU9EMGNlUWY4Ym5CbTVvSV9rcWl4c3pWRHhBVzBUa19RZFVTbEN2WXJMSFBObktFZjlTX1ltVk1oNm5Fa3hINThEcUdZcGxuMXEwVTcyZXdRdHRPWGs1eERxYVdvSHVraHdtNTFqM3h4UGFVb0RPQkRJWjQ3M3pXdmk3NkRWWXRRMXJ2c0dhVTBwLVNheGE3TUdB?oc=5"
     },
     {
       "headline": "JPMorgan Chase & Co. (JPM) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUo4S0xSblFyRTBOMDN4OURpQ1JNUTBFenpnVjNaMVMzMHhURDRQXzd6R2NFRzJjVktaTjRqUmNzLV8xaGNmMU92ejNSY0NjRWhVbUpFdG9tSlJxb0N6aHU3UzFnZWN3ZWtwUDJfQWVTM094N05mZ25mUDlkZEY2N3NEcnp4bnJfUnJkUWl2YkVTODlPRWtJ?oc=5"
-    },
-    {
-      "headline": "JPMorgan Chase & Co. stock falls Wednesday, still outperforms market - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeHVMRk5PUExxdFBYNDU4WWh6N01zZ0dRNkpVbHBmNTVDOC0zWi1yanhuTTZDMEV2MFdrQ1FPeHpyM3M2amRrTjgtTWRkTk5yTzVlM3FvVElWTHlnanlWdTFqcDBfQkVoUjZxbFRxTnYzUkVLbUlEczNqdUI0VU16cnFrb0ZLLUFWOGZvWGdKZ3pCY1N1X3duOG5yeFhwZzZDNFFsY0U0alhPMDgxZXFCRTc3cE1oUFdYVjl4NU1yN2lkUzcwU21EUE0yM0F3alZzRldxaXV3dkNJdw?oc=5"
     }
   ],
   "insight": "Tracking JPMorgan Chase (JPM)."

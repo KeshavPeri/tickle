@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:14.639Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:18.800Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    211.4199981689453,
-    214.52999877929688,
+    214.17999267578125,
+    209.6300048828125,
     197.8000030517578,
     202.1999969482422,
     205.85000610351562,
     203.0800018310547,
     197.99000549316406,
     204.05999755859375,
-    204.6199951171875,
     205.72000122070312,
     209.92999267578125,
     210.39999389648438,
@@ -24,9 +23,12 @@
     207.07000732421875,
     206.47000122070312,
     203.05999755859375,
-    202.3800048828125
+    202.3800048828125,
+    199.8800048828125
   ],
   "6m": [
+    223.66000366210938,
+    224.99000549316406,
     229.47999572753906,
     233.07000732421875,
     230.57000732421875,
@@ -137,15 +139,12 @@
     217.50999450683594,
     214.17999267578125,
     209.6300048828125,
-    211.4199981689453,
-    214.52999877929688,
     197.8000030517578,
     202.1999969482422,
     205.85000610351562,
     203.0800018310547,
     197.99000549316406,
     204.05999755859375,
-    204.6199951171875,
     205.72000122070312,
     209.92999267578125,
     210.39999389648438,
@@ -158,10 +157,10 @@
     207.07000732421875,
     206.47000122070312,
     203.05999755859375,
-    202.3800048828125
+    202.3800048828125,
+    199.8800048828125
   ],
   "1y": [
-    178.74000549316406,
     177.41000366210938,
     183.07000732421875,
     180.50999450683594,
@@ -390,15 +389,12 @@
     217.50999450683594,
     214.17999267578125,
     209.6300048828125,
-    211.4199981689453,
-    214.52999877929688,
     197.8000030517578,
     202.1999969482422,
     205.85000610351562,
     203.0800018310547,
     197.99000549316406,
     204.05999755859375,
-    204.6199951171875,
     205.72000122070312,
     209.92999267578125,
     210.39999389648438,
@@ -411,29 +407,30 @@
     207.07000732421875,
     206.47000122070312,
     203.05999755859375,
-    202.3800048828125
+    202.3800048828125,
+    199.8800048828125
   ],
-  "lastClose": 202.3800048828125,
-  "oneYearReturn": 13.225913988546093,
+  "lastClose": 199.8800048828125,
+  "oneYearReturn": 12.665577338862427,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Mitsubishi UFJ Asset Management Co. Ltd. Takes Position in Dover Corporation $DOV - MarketBeat",
+      "headline": "5,706 Shares in Dover Corporation $DOV Purchased by Patrick Mauro Investment Advisor INC. - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMU54cloteUFXR3JLTzRvUllYTkpta1pKck01VFpzUTMyRldoX0Vycy13UkNlS1FNX1ZXTnR1MHlhTWNoUkRxUmxEZ0p2UDRKeWEwYkNUdjlUVjNIUnVidFFpczVxOWlHdHQ2Q0g4OTAxREI1MHk1YkhWdFZNaVByVUZGekJOd2hDRUJxc0dKV0VidE9sdUJ5M3cyUnV2ZUg1ZFZ0T256a2ZXRlI1V3R6UUxpajFmRlM5SjNwR3FrUXpCTk1UMTMzT2xQc016eFVxRFJQNndn?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcUFrSU9FcUZ3cXAxZ1U4RlRQenZQanNmZEo3bENIWU5mRWhOeWlhNEJJUHJzZ2E4aGhteTVoMldGTWYxRGh3UnV6czBJX1JUUnV6S2tLM1U2eU11cWRBdllfdlRIV0FTZ2xuUkQ5aWVnUjdxWDNRM1o1elVfeDlRR2UyMlFMWHROMnlQUWo0S1VjdUgzV2VYX0pTY25wTTR6T2JxcjlLTTRUTWEyU0lXeEJNc3QycW5ZTzFlMlBPb3VLZ1ZxazVYb1VIejIyY1NxNjR0ZW01TTFhUlpUanI1bg?oc=5"
     },
     {
-      "headline": "Dover Corporation (DOV) Surpasses Q2 Earnings Estimates - Yahoo Finance",
+      "headline": "Dover Corporation (DOV) Stock Up Slightly Since Jim Cramer Said It Could Be Different - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd3htZ21wWnlBQXI5YVRyMDBwY20wd3lSaE1aS0djRTQ2emE5a3UtRjQwQ1htbnYzcE5CY3ZaUEVraHpJeFlBRzZYaFZXTGRMVG5aZnd4cHY1Vm5CRGRqb1NBbUdfVjBSRHZ4VE9ZMmNac2xaYlJWZmtDRTFITmdLT09zaWYycDY2MW1YX2xJUktJc3N6MEwwb05SbWhpRzkw?oc=5"
+      "when": "2026-07-05",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXdIRUlOVWtvNU56UHI4b1BuZWo1OVZfdm12U05MMEpvVXp6MmxrVFRtdDZLaXJ6RmtHNlVyVTZKMW5LX05RLUNYSXN4M09wZ2xXU2I0dnc2MkxYUE9walE3UzZmUmdWbGg0UVJrdE5UemRER3pXQkxReHJJNFdHYmk0T1lnMm9FWDlTS0dLbldpT3lSc1c1djRqMzRPMlBMM04w?oc=5"
     },
     {
-      "headline": "Dover Corporation: Worth A Second Look After Solid Q2 Report - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWno5RGstRGZxTENHczZzQm9icWxaeVlxRnk2RnUxcHNUaFdHQ21IcmxYVnBBMTBCTC11OXJMSVZHOGZyeFFXazdabWNSaUUyTDJOLUJCYzlJOUJKZFJKR1k2VUloT0xsQ1BUQkRhbWRJbk1uSUVWcGYtTTJvbGdxcGNDWUFaYlVlRnVxR1NFNXhqY0l4RWM2S2tndmdGSkdwMkE?oc=5"
+      "headline": "BlackRock Inc. Makes New Investment in Dover Corporation $DOV - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWVvNXhXaHJjRGdIWTk5RnBjbDhjeG5FekViLVVHNU5XRVRxeU5XeElqRU9Kdnc5SjUzd0ZmRUZCX3ZuS2M1bnotbnpKSndEckc2RmRyOEZHakxSaWMwalZYaWJ2bnJGb2tVTnY2RWM0Vk90UHlvWGJtWDhJSlA1WUpFdHBrYmpQcDJaTVZCall0QWVxbXRwd0dXdmJOdndaY0FCQkJ6WGtoWTZHeWpXVnR5NGhNN3dvZmhkbw?oc=5"
     }
   ],
   "insight": "Tracking Dover Corporation (DOV)."

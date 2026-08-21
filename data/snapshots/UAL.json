@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-20T02:38:42.098Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:52.013Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    117.69999694824219,
     117.26000213623047,
     115.3499984741211,
     118.2699966430664,
@@ -24,7 +23,8 @@
     125.33999633789062,
     122.26000213623047,
     118.72000122070312,
-    115.77999877929688
+    115.77999877929688,
+    111.70999908447266
   ],
   "6m": [
     116.36000061035156,
@@ -137,7 +137,6 @@
     118.80999755859375,
     115.41000366210938,
     117.5199966430664,
-    117.69999694824219,
     117.26000213623047,
     115.3499984741211,
     118.2699966430664,
@@ -158,10 +157,10 @@
     125.33999633789062,
     122.26000213623047,
     118.72000122070312,
-    115.77999877929688
+    115.77999877929688,
+    111.70999908447266
   ],
   "1y": [
-    99.83999633789062,
     97.19000244140625,
     102.9800033569336,
     102.33999633789062,
@@ -390,7 +389,6 @@
     118.80999755859375,
     115.41000366210938,
     117.5199966430664,
-    117.69999694824219,
     117.26000213623047,
     115.3499984741211,
     118.2699966430664,
@@ -411,29 +409,30 @@
     125.33999633789062,
     122.26000213623047,
     118.72000122070312,
-    115.77999877929688
+    115.77999877929688,
+    111.70999908447266
   ],
-  "lastClose": 115.77999877929688,
-  "oneYearReturn": 15.96554790272644,
+  "lastClose": 111.70999908447266,
+  "oneYearReturn": 14.939804793008621,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "United Airlines Holdings Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "headline": "United Airlines Falls as Fuel-Cost Concerns Likely Weigh on Airline Shares - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS3NZRWxKdWFrOFFYcUdBd21lbGFraHNWR29GeDd6V1MtRzNRRzE2Vm1jMkxIeThIdnZMNnZvRFp3V1pkWVFzeGFiM3RWd0RBb2tlT3NjVlM0U1JGNWZqWVIyd2tiaFd4WnlYVmtrcnQ3NXhGRkRpNEs2S2RZMEhqaEtHUUVBcXMzdnF2d2UtY3JkTEt0OFlBdkpsYnVvT0dTU1Y0QWltbWdkdmM?oc=5"
+    },
+    {
+      "headline": "United Airlines Holdings Inc. stock outperforms competitors despite losses on the day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPLXlid0JfNEZycU1Cc1pncFNUN0FWTU1jd2h4XzlLSlhramxCSmtLZTV1RHZoUjMzZTdzam9JODlTZTJ2NVRkOFQ0YjJFN1pGZzNvbHpjU1BKRy1KaWlRbFdzc2w1SXlicUEzLTU3cHFaWU53Vm9wNnhNYUpuNDNPS3Y2bVRhQ3BlSFF5ZnVGc1VaSVJrMEk4VmdCR3hfTlE1SGNYeWlrU1EyT1BnMS12VEFhNTk3eFRfOUFWOERiOE9ZN2d0SU1uX25oS1Q5VklyZXR4Rm83ZC1VT013X0VjbmpmYmY4RkdzUEE5N3FJM3ZGWEI5?oc=5"
-    },
-    {
-      "headline": "Meeder Advisory Services Inc. Buys New Shares in United Airlines Holdings Inc $UAL - MarketBeat",
-      "source": "MarketBeat",
       "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQ1Z4NFdPMU5jSl9GaXQ3TXpnb2IxaS1EbkJhVWstakVSV0Zib0FRN3dRMldqQi1lakxVcU1sTUxWdWFlZW9sUUFOWWVzU2hRTC1XN1N4VkZJdHJocUpmQkZaU0tocEE4dFhhd0c1NE1Pd0Z3Tk1WQXpsZWZtTkZVVWpJd3A2VENJbzNwWDVQY0RNaUZrc0xNUnN3dUFmdEFZMC1rNEtKZGRORnJ2elBZQkx4cjgtQXhxSHRlak1DSmdxSlowek1hT3F1MlVITGljOEZCTDBVc1U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOURQZUs2OXNabjJMeDBRQXVfYjlXal9NQ0FqS0VkZFNiaGFqYjhvRUxDT3ZqSkZnZ3piM2JrV1JfZDNVSGlma1NzTVdZN1dSbFpGQThZTE05WlJQMlo1MXo3VHNVN0l6eFBZMGVEQjZ5TWFWa2lZSEVyLUNRbXBiMGxSdG93SzFVWlBOWHJUYk1lSThoeWVJRXVETFhMVVdZRTNUMkJlUDRPazl3QkFiUDV3aDZXcU50Z3k4dGJGeG5aY2ZpZGZrSXpfSGdMbU5uS3ExSk5ieGYtR3IydWNvakhEeW9uNWtGSmZTWTU5V0FVb2g0?oc=5"
     },
     {
-      "headline": "Is United Airlines Holdings (UAL) Still Below Fair Value As Its Rally Continues? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEREbTJWM2NZaXNWUy1idE5XdnhYT2JwMThoelY4dkJvRTMzTlJteE0zSDZPTV9tUjVGV2doNjdEeXB3SUpWZVUzNlJXOFRQTWFhSF9kMnpEbGVqN016REpWR04xTTUzTHF0QWxsRVpkMnBKLTZSekpaejZ4b1VDV05BZVYtUjRKdk5TNFk2aXR6RTBIc0tKbVRld19BNXhU?oc=5"
+      "headline": "A Look at United Airlines Holdings Inc (UAL) After 3.5% Decline -- GF Value $93.47 vs Price $111.71 - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSGdXS05Ib0RVa240RWpjc3MtLVhMaVY2WkY4TUVJYm9YLXdBSlV0ZDZkcXhUWklVX2d3dTM2dFFpRHdqN1BnR0lQbkc1UngyZnk1Q1FzRVBBemFWaml6T2NweXVITGY4Q1BGaGVYZGlCNWU2cm1wQjh0N3VyUWdxT3NaZ0xPS0t5WHNrQkdCSlhqNm9wZGRZTEF0SkxSajloRWhwdm9uWktIa0dibVdhZmN4TGh4RzBYS0RJZVRsMERLSmlGaUE?oc=5"
     }
   ],
   "insight": "Tracking United Airlines Holdings (UAL)."

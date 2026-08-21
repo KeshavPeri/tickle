@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:44.262Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:54.621Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    288.82000732421875,
-    286.510009765625,
+    293.42999267578125,
+    293.29998779296875,
     288.3699951171875,
     295.1099853515625,
     302.6400146484375,
     316.1600036621094,
     315.92999267578125,
     336.04998779296875,
-    335.9200134277344,
     341.6300048828125,
     339.6300048828125,
     338.07000732421875,
@@ -24,9 +23,12 @@
     331.5899963378906,
     326.05999755859375,
     327.8999938964844,
-    335.4599914550781
+    335.4599914550781,
+    341.1499938964844
   ],
   "6m": [
+    330.0400085449219,
+    290.0899963378906,
     289.7699890136719,
     280.0899963378906,
     282.9800109863281,
@@ -137,15 +139,12 @@
     294.3299865722656,
     293.42999267578125,
     293.29998779296875,
-    288.82000732421875,
-    286.510009765625,
     288.3699951171875,
     295.1099853515625,
     302.6400146484375,
     316.1600036621094,
     315.92999267578125,
     336.04998779296875,
-    335.9200134277344,
     341.6300048828125,
     339.6300048828125,
     338.07000732421875,
@@ -158,10 +157,10 @@
     331.5899963378906,
     326.05999755859375,
     327.8999938964844,
-    335.4599914550781
+    335.4599914550781,
+    341.1499938964844
   ],
   "1y": [
-    335.7200012207031,
     337.1499938964844,
     339.25,
     336.4599914550781,
@@ -390,15 +389,12 @@
     294.3299865722656,
     293.42999267578125,
     293.29998779296875,
-    288.82000732421875,
-    286.510009765625,
     288.3699951171875,
     295.1099853515625,
     302.6400146484375,
     316.1600036621094,
     315.92999267578125,
     336.04998779296875,
-    335.9200134277344,
     341.6300048828125,
     339.6300048828125,
     338.07000732421875,
@@ -411,29 +407,30 @@
     331.5899963378906,
     326.05999755859375,
     327.8999938964844,
-    335.4599914550781
+    335.4599914550781,
+    341.1499938964844
   ],
-  "lastClose": 335.4599914550781,
-  "oneYearReturn": -0.07744839886798074,
+  "lastClose": 341.1499938964844,
+  "oneYearReturn": 1.1864155635215956,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Willis Towers Watson Public (NASDAQ:WTW) Stock Price Expected to Rise, Morgan Stanley Analyst Says - MarketBeat",
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12Z05kSFdzLVBRUVhiZTdkTUJNWkYzbEs4SkstTkZuMFRVOFJ5Ym5JZHFVMUhMbnhfN0pERkJkdjFFTzFtcncweGVnYXdPUkk?oc=5"
+    },
+    {
+      "headline": "TD Cowen Increases Willis Towers Watson Public (NASDAQ:WTW) Price Target to $455.00 - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRGFoNzZuYWJyRXY2WnZSMW5zYktsZjQ5YU1aXzBOY1JYODlCMXFROVo1dkJYX1hGY2g2MmlDdTF2LXRBVWhRR1hoUEdwVHlqbHZHdFRYMUttWkRoanRNeHhVVWliWUhzTVQ2aUNQaElhU0tISlVEUldicmFsa2Y0aU9Idi1wN25zMjhEU0dLelg1VEg5OGxETW5BaThTOUtjTjRjekQ4MmUzOTlWUE1lanl1b0Rrb3FsaGlwNGhrWWszX2I2ZDF2b2NCMWpSYlNHRk4wbW1CbERXRTVSVnlKUzZn?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkxSOGxERWZTR25SVkxuc1lPRDBuaTJkcVRqc3hHV2MzVTk5YUY3VXdnTjl1VmJWTFNfNm5SYmROTElIRTZIdk5KRGhlQ0hqRThQWTdhQzRILXBYcjB5aVA4aXpYcnBKN3EybG5naFJMZWNNRHdodVRFUnN3M2RvT0lBSkxFTjlHTnQ4Sm9zUWtHMG5RSE15UmhKQnU2dEp6SFRpYmd5TzNJRHNQekxWNmlJV0VVa3A3NVcyc0FYYjJSTFVoY09uUnNWQlQ?oc=5"
     },
     {
-      "headline": "Willis Towers Watson PLC stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVjdFLWhNY1hVMVgtMzhhT2kwWHlqSUU2X2otYThrZzA5SFRSMzFZSk55dmFyRG5laWltc09JRlowZ1M3bE9NQ2N2Tms5aXpJbWZHLUJjWGdCX2J6LWd3UUxyQ1ltZlBoanNNX3hDZkJWVmNCLXBRU2lBZ3FIZmJnQnU2YVpZVDVLNlZhUkVISDdkTjdkcWdDZmZGNTVYOEFDeklkbG5iM2wtQTJtdFMzYXgwOGRyUGl6ekY4UWdCZmg0NERnUG1TeG1SNjRlWWJUVkVYRVhjSQ?oc=5"
-    },
-    {
-      "headline": "Willis Towers Watson (WTW) Expands Hong Kong Role, Is The 12% Discount Enough? - simplywall.st",
+      "headline": "Will WTW's Dual Role for Jayne Bok Redefine Its Integrated People, Risk and Capital Strategy? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHRxdVkxNGhvZWNkemwzQmR3aW03YWlzOTQ5WXp1SmFyUzFVWUt0S3JVeHlnUGdxOVJ4aThCNG5yNTdMN1JtVEdaUEpreU5ZeENxRmNFTlo5Qk44WUdQTDd2bW92NFdDNUMwT3JVY3NNZUYxYktaTHA5SE1vVkk3bV9hSUpIWWZGelpaNU04a19SNDR1bVlJY3Q2QjYxX0JkNG5lbUFUNEZEekN0dGpTRXp4M0dYOUIwcENVVTlFLTBLZHdNaWRWUFZ6YmRKSXdjMklxbFl30gHbAUFVX3lxTFB6aUNOejJlMFlkZG5taWJPNXI1cVBOel9aQTRBblBYcnBkVERGTWsyeUgta25lOHRUa3hhcDk3d0Q2UGh3NGhCb0ZtdEVEcEJMSlVVYkRBSlJ1b3RMbEs0YjlrUDByV2VWNnFCYmtuVXBxY3ZSb1dNa19SdktHZkhabVRhOEJzRTJHbTQtZkNGMHhNUk1vb1JLcVpjckRGNWo1bld4TVlXTjhjOTZ4T1JCbVotTUtJeExjNzZSVS15YXlDb0syY0dpNEtva1RmeGVTdklJUEx3QTQ0RQ?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQklvTlFGay1yb05GQ1EwalFUZ3lrX3M4UG05RWdiZDdfNnN1T3dybGhtOHRkSjJrTEswVkYtZlJQa1ZQTkZiZHRqOUVseVhUTWlZcjhERVd4NUd6UUpyUGc2ZnM2VWhCamlYWjFFeHNHbEhHM0p4NXFYdHl0MVFYUjRYa21LOUJlSTV1WTUwNUJudWJKa05xYlQ0N2h3OGQySHplVkRyTjRSV0l6TG5wRXN0bEVpMmdqbVFONUhYNlFUQkpSdnNsS3BUWmtfUFd5Z2FLSEdpQm1jLTDSAdsBQVVfeXFMT0JJb05RRmstcm9ORkNRMGpRVGd5a19zOFBtOUVnYmQ3XzZzdU93cmxobTh0ZEoya0xLMFZGLWZSUGtWUE5GYmR0ajlFbHlYVE1pWXI4REVXeDVHelFKclBnNmZzNlVoQmppWFoxRXhzR2xIRzNKeDVxWHR5dDFRWFI0WGttSzlCZUk1dVk1MDVCbnViSmtOcWJUNDdodzhkMkh6ZVZEck40UldJekxucEVzdGxFaTJnam1RTjVIWDZRVEJKUnZzbEtwVFprX1BXeWdhS0hHaUJtYy0w?oc=5"
     }
   ],
   "insight": "Tracking Willis Towers Watson (WTW)."

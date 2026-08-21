@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:44.728Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:55.111Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    262.3999938964844,
-    262.75,
+    267.3999938964844,
+    264.69000244140625,
     256.95001220703125,
     259.9200134277344,
     264.5899963378906,
     284.3999938964844,
     282.9800109863281,
     288.57000732421875,
-    293.82000732421875,
     291.6400146484375,
     368.8299865722656,
     368.989990234375,
@@ -24,9 +23,12 @@
     376.0299987792969,
     371.260009765625,
     366.4200134277344,
-    354.6499938964844
+    354.6499938964844,
+    360.5199890136719
   ],
   "6m": [
+    251.39999389648438,
+    257.7900085449219,
     256.57000732421875,
     252.5,
     274.1499938964844,
@@ -137,15 +139,12 @@
     265.0400085449219,
     267.3999938964844,
     264.69000244140625,
-    262.3999938964844,
-    262.75,
     256.95001220703125,
     259.9200134277344,
     264.5899963378906,
     284.3999938964844,
     282.9800109863281,
     288.57000732421875,
-    293.82000732421875,
     291.6400146484375,
     368.8299865722656,
     368.989990234375,
@@ -158,10 +157,10 @@
     376.0299987792969,
     371.260009765625,
     366.4200134277344,
-    354.6499938964844
+    354.6499938964844,
+    360.5199890136719
   ],
   "1y": [
-    304.739990234375,
     308.510009765625,
     322.7900085449219,
     319.54998779296875,
@@ -390,15 +389,12 @@
     265.0400085449219,
     267.3999938964844,
     264.69000244140625,
-    262.3999938964844,
-    262.75,
     256.95001220703125,
     259.9200134277344,
     264.5899963378906,
     284.3999938964844,
     282.9800109863281,
     288.57000732421875,
-    293.82000732421875,
     291.6400146484375,
     368.8299865722656,
     368.989990234375,
@@ -411,18 +407,13 @@
     376.0299987792969,
     371.260009765625,
     366.4200134277344,
-    354.6499938964844
+    354.6499938964844,
+    360.5199890136719
   ],
-  "lastClose": 354.6499938964844,
-  "oneYearReturn": 16.377897637826816,
+  "lastClose": 360.5199890136719,
+  "oneYearReturn": 16.858441412503552,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Zebra Technologies Corp. Cl A stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTE9VR3hvT3Y2WXBLT3RvOTg5SEgxQlVjSTJWLV9qb2lheHdaTVJfMFVUejhpdndiOUpyT21FSkJ6aE5oSGN4M01HYjNiY3h4QjBEUDRPVlJEby1SaG5lbWtPcElVdTVQbzFuMUZpV2pZUFppd1YtcWJ2VWExVzlVRGtad3U0Qk9IUi1VaTA1WFVqbFFHS25RbklBMGJleC1WNHdHRjJxNGZ2WHhJRHM4endteElFNEVNclp0a1pBb2JOYjk3cFpQM01XVEZCalZscmFyblNHU191cjhBRUFmaTN5Z0hxVUpZV2RteFVwbDg5UnFwSl9sUg?oc=5"
-    },
     {
       "headline": "Zebra Technologies Stock Jumped 20% Today on the Best Problem in Tech - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +421,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2p2MXhXT1RTSmtac1Q0dXVfVDZ5NmF2MjZrNjhoV051OGhMWmszUjBtZXZlbXRFYkhPY3NRNFktVmxWVHNDcWpKd3NIeGdNbUxwdVRpU2k0VnE4UlJsUWE0aVFYRzNYVm9kU0c5UzhzanE3VjAwNENNdHQtWDYwbU5ZcXJpbEw3SzlDY0haelVCY3FfSEJoR0c2WXVQbnJp?oc=5"
     },
     {
-      "headline": "Why is Zebra Technologies stock surging today? - Investing.com",
+      "headline": "Zebra Technologies Corp. Cl A stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTE9VR3hvT3Y2WXBLT3RvOTg5SEgxQlVjSTJWLV9qb2lheHdaTVJfMFVUejhpdndiOUpyT21FSkJ6aE5oSGN4M01HYjNiY3h4QjBEUDRPVlJEby1SaG5lbWtPcElVdTVQbzFuMUZpV2pZUFppd1YtcWJ2VWExVzlVRGtad3U0Qk9IUi1VaTA1WFVqbFFHS25RbklBMGJleC1WNHdHRjJxNGZ2WHhJRHM4endteElFNEVNclp0a1pBb2JOYjk3cFpQM01XVEZCalZscmFyblNHU191cjhBRUFmaTN5Z0hxVUpZV2RteFVwbDg5UnFwSl9sUg?oc=5"
+    },
+    {
+      "headline": "Zebra Technologies CSO Michael Cho sells $1.31m in stock - Investing.com",
       "source": "Investing.com",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS19zYjdyR2xYUmwzWGhmdWVOVnc2bE15bjZTNjVzbXdEdTl2U3UzeGVGbFRLa2tlYWs3dDlFWGl1OTZwdW9kbE4ybTc1ZmRfQUNydlV5U2FWQ2ZqYVpzd1EtWm9Zdk43RmtmSmpfRVRIM1ZJbE04cUtfTFNDbi0xc3JzNVBMX2lXY0NlTEdNQU5UNU1uYW9lVDVlNERSWmozaDB2MTNlOTVxTVk?oc=5"
+      "when": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeW1vcTJDcUpaR0t6cWhzSzVJd3o2emVubEhrdHBiajY5U0YtdVR1MnY4d1R2RnJWM2ZtUzJsQ0phSmtqTzBoTi1nNHdFMHhYNXJhb0EwbmpVSjVQSTR6b0ZBLU9IY1FsV2tycm4wWHdkNk9hclEybGFmOWpxTG9yTzVJbVZjZzJ2cDZJVGdMbnloalF3YTBFN01wU0FMYl95dEZMM0VSM1o0bmk0ZXdxWWVFdk1HY0FVQlZn?oc=5"
     }
   ],
   "insight": "Tracking Zebra Technologies (ZBRA)."

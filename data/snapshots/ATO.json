@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:03.270Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:04.683Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    175.0500030517578,
-    178.47000122070312,
+    177.67999267578125,
+    177.3300018310547,
     178.0399932861328,
     179.22000122070312,
     178.22000122070312,
     179.3800048828125,
     177.6699981689453,
     174.25999450683594,
-    172.77999877929688,
     172.88999938964844,
     172.64999389648438,
     172.1999969482422,
@@ -24,9 +23,12 @@
     169.9199981689453,
     169.89999389648438,
     170.50999450683594,
-    171.30999755859375
+    171.30999755859375,
+    170.52000427246094
   ],
   "6m": [
+    171.3800048828125,
+    171.4600067138672,
     174.1699981689453,
     175.97000122070312,
     177.77000427246094,
@@ -137,15 +139,12 @@
     178.0399932861328,
     177.67999267578125,
     177.3300018310547,
-    175.0500030517578,
-    178.47000122070312,
     178.0399932861328,
     179.22000122070312,
     178.22000122070312,
     179.3800048828125,
     177.6699981689453,
     174.25999450683594,
-    172.77999877929688,
     172.88999938964844,
     172.64999389648438,
     172.1999969482422,
@@ -158,10 +157,10 @@
     169.9199981689453,
     169.89999389648438,
     170.50999450683594,
-    171.30999755859375
+    171.30999755859375,
+    170.52000427246094
   ],
   "1y": [
-    166.08999633789062,
     166.7899932861328,
     168.2100067138672,
     165.4499969482422,
@@ -390,15 +389,12 @@
     178.0399932861328,
     177.67999267578125,
     177.3300018310547,
-    175.0500030517578,
-    178.47000122070312,
     178.0399932861328,
     179.22000122070312,
     178.22000122070312,
     179.3800048828125,
     177.6699981689453,
     174.25999450683594,
-    172.77999877929688,
     172.88999938964844,
     172.64999389648438,
     172.1999969482422,
@@ -411,29 +407,30 @@
     169.9199981689453,
     169.89999389648438,
     170.50999450683594,
-    171.30999755859375
+    171.30999755859375,
+    170.52000427246094
   ],
-  "lastClose": 171.30999755859375,
-  "oneYearReturn": 3.1428751494964478,
+  "lastClose": 170.52000427246094,
+  "oneYearReturn": 2.2363517815659293,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "410,650 Shares in Atmos Energy Corporation $ATO Purchased by Energy Income Partners LLC - MarketBeat",
+      "headline": "Atmos Energy (ATO) Stock Looks Like A Bargain On Fair Value Yet Rich On Earnings - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSDFpUHJ3TW93eGZtQU9kT0wzRTJMU0hCM1RvQ2oxM0hLdFpDaXRYY3hFYVYxckRmT3psMmR0dUR2MzJwbUpfM2gwTGFkTkUtckFqTVU4amtWWFZYNW9wbm9lNnluSGZaT2h0eWF5d0xVZnRjY0lPM0pSZVVHeWZ1eXNONDlMWHlIdDJfcW95eTJTUi1ZNHB2SVpsNTQzeVNJYWYwcFdwRUZsTkZkUU1GZVhkUkRlMGxpSDdncEM3bW1Hd0tNcl9oVtIBzgFBVV95cUxOMVJFWS1MdkxIZWFKQ05Sd2NlbjdNRzh4V3RTSzIyakJEQ19HajJ3Qk5udldQc0ZGMUREYmJhdUlKUjdQYnRVeGV2M2ZnQTRremN5VHE0UjNST1dLY3pPdGdtYmJxaUJYQlJKc2JiVTctWDJVb1J6VkFpY2kzR2U0TVY3THhqX0pGMkl3clRhOEtLRVJzRGgweTZ5SnhFTHRvZ3RNdVJfd2lMX0VwN2h5c3g0Q2NBam0xeThuMFo1SDZCaHliWDNCb2FWYW40QQ?oc=5"
+    },
+    {
+      "headline": "BlackRock Inc. Makes New $2.62 Billion Investment in Atmos Energy Corporation $ATO - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU3JWZ0QyUWk1V2k2WUhiSUNrMlNHOU83eFd2dl9EZVpqa3NQT3JpS2JtWllBQzkzc2hJVDZYdkFuZjJJcEI5azVMdVN4cDE5WDNLUmItLXZpakR2WTYyT2tWS3FkaFRicjFtZUdITFN4a1QyVnh0RFJMNmYzRjZKOWlfYnJQajMzSjJINmgxbUJLOWo3NmNmM2lQdEV5VjJDa1F5MjJuYlR2Wk9uVWpOZ2Vad0p3WEMxV3ZPb3I1X3BBTnpXU3ZwWVAyMjB1V1dpYkFkaVI5enBTSzY3M1Fj?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ2xCR0Z5UEtFY09PS2YtWHZZQlBhMUlPcUhDXzhNSFZwYTMxczhTVEJaVXBHdE13VGZEYUdWT1JkZWhVbHJGYXMyOHgxX2stMzhIYk9UZ21HVnRQR2NZS2pCcEF2Wk9hZm15cnhwN2pBMDRTR2xKRUViWFBSLXlnOUtnQm4zN1BNTDJrOXJVYTMzV2pzSjhYODJOQVk5NmV0aTgyUEJIUThTTlE5R0tldjF6c1RsZ0xhQUNHQ2JWU2ZNMUdHeV9BdzN0aEJkN2VmMHFpY2xn?oc=5"
     },
     {
-      "headline": "Atmos Energy director William Ware buys $50,278 in company stock - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1pMaDFIN1dPZlFaaVZtVGZTSkk5VDlJYUF5REEzNUhmYS16Y1g4UWNtZUJRcXFGeFc5TjhmUEh0eW5mNHJKZWd1YzFvOVVEa0hQQm5rMkVROWFWZHUzaTNoM096d2s0NUVnX1N6dHVCdVVMdkdIdmhBaWkzWlJHNVU5eHQ5VnBVM0U2aEp4QW9OcUw1eEhDRF9RSVRjTnVHbjItdm1RenAtOXpldEZPMWhiclhLU2g4RENxaWR0VGNhR3dPX2c?oc=5"
-    },
-    {
-      "headline": "Atmos Energy stock holds near $170 as institutional buying and steady outlook support the shares - Ad-hoc-news.de",
+      "headline": "Atmos Energy stock holds firm after August 5 earnings - Ad-hoc-news.de",
       "source": "Ad-hoc-news.de",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQXpyczRYZGJ0TVFqWTJTang0Mnp6OGdOLVd0SjVvUkhSaXgteWlSR3h4V0tSaDJKd2hiQ04yMHZxd09XeUhYQVQzLUw3THFOWFJwRy1UWWUxTWJid1RqV1VDWnBMS1dGUEh1emlPZGQwLTEtOGJjRmZpV1Y4WXY2WHFCbm9lMDVRUHlNZEIxeDBfTjh4dkV0ZXJxZ2dTSEJQNkJBUWJYTmJTZEVZcXd1di1iRnpVMlBtTm5jVzFBSkY5bHA5dFh1ODZlVQ?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXpXaW9HQ1dtUk5TVWs1VjlSazhhQ0NiV1JDcHlMT0QwaWdMZERHa08yc3RLVDM2Tmp4UUtVSVhKT2ZvMTJCbVlXVUlzeXJCaF9INU0wYlZIbVhHX2EyWVZpMjczVHVUMGp1S3lzVmJucW9hOUdsOEp4UGhkS3A2Zm0xbVVfX3YtbUsyU0VjQ3hGODJISG4zNFItTUJ3OGlXcmhxZTJRcjVabkxOcXNCc0tGWVBOZmM?oc=5"
     }
   ],
   "insight": "Tracking Atmos Energy (ATO)."

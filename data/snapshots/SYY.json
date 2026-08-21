@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:39.487Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:49.125Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    81.22000122070312,
-    82.12000274658203,
+    80.77999877929688,
     81.7300033569336,
     83.11000061035156,
     84.08999633789062,
@@ -24,9 +23,11 @@
     82.98999786376953,
     81.8499984741211,
     81.95999908447266,
-    82.45999908447266
+    82.45999908447266,
+    83.05999755859375
   ],
   "6m": [
+    86.47000122070312,
     87.62000274658203,
     88.04000091552734,
     89.91000366210938,
@@ -137,8 +138,6 @@
     82.25,
     81.69000244140625,
     80.77999877929688,
-    81.22000122070312,
-    82.12000274658203,
     81.7300033569336,
     83.11000061035156,
     84.08999633789062,
@@ -158,10 +157,10 @@
     82.98999786376953,
     81.8499984741211,
     81.95999908447266,
-    82.45999908447266
+    82.45999908447266,
+    83.05999755859375
   ],
   "1y": [
-    80.9800033569336,
     79.72000122070312,
     80.29000091552734,
     79.33000183105469,
@@ -390,8 +389,6 @@
     82.25,
     81.69000244140625,
     80.77999877929688,
-    81.22000122070312,
-    82.12000274658203,
     81.7300033569336,
     83.11000061035156,
     84.08999633789062,
@@ -411,10 +408,11 @@
     82.98999786376953,
     81.8499984741211,
     81.95999908447266,
-    82.45999908447266
+    82.45999908447266,
+    83.05999755859375
   ],
-  "lastClose": 82.45999908447266,
-  "oneYearReturn": 1.8276064042819575,
+  "lastClose": 83.05999755859375,
+  "oneYearReturn": 4.1896591655134525,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +422,16 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQWctcllOOFpTenJ4SGMyNlg4TGpRZk1KUkJVWlpWckNDRUV0eVBSLU8xNGVkMXlIeDhxT2Vhem80aGZLb0M1bXVQS3NndExMTWloRHV0cW9tU01DYXNudkV1LVZfcjBGcm0tZEtVb0tza0xYVWcxYXRDT3o3dGgxeW9tYll2YzZFUnZsSkpnekJfTHFkMXFJ?oc=5"
     },
     {
-      "headline": "Sysco: Buy This Dividend Aristocrat Before Its Next Growth Chapter (NYSE:SYY) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeFE1QmsyMGVzekhOY2FZX3JULTlhTDdxZzN4TGdwVmJBYnViVkVqaDdMR1JOdm1KTmxBMEtZTkFaa25YSDZDVUZBaV82ZWdDY2hqbXBjTDI4TWtGbTdfcU1Hc25fekRIT1Jmd1kxbmVrVEFmaU8yY0dPRFhOZms0blB6QXJrRVB1dXNtNnVaTERCLXg2MGFMYTJBVU5zTDNMeGVkWWFPekgyeXh2?oc=5"
+      "headline": "D.E. Shaw owns more than $1 billion stake in Sysco, sources say By Reuters - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeXpRVF9HNHVSN0NnWnh6LWkwRXJ0c0hYZTc0UWFGUjNJaGs4T1ZQNXBFRFZMSjFRZUZQNDFjaDdrcDE4Mm14R3RJQ2J0N1FTazNFMm9ZSGtSWGxydnNWQjAyRExMbE9CYnF4NEcxR2Rwa2ltY2xKalZZZFBlQ1VzU2ItSXFTRGlLWG1uVVl5ZWIwMnVsejFqSTN5ZGxzS0FCRkJhSDNCc0pSZEhFdDg5Qm9scVdmelU?oc=5"
     },
     {
-      "headline": "Rayburn West Financial Services LLC Makes New $9.58 Million Investment in Sysco Corporation $SYY - MarketBeat",
+      "headline": "Wealthfront Advisers LLC Invests $7.98 Million in Sysco Corporation $SYY - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOek1jSE9Cckd2d1JfZWxUaE1CdzBUVm5JaXpXcldWSFFSeHFGMFVUZjBPMVFFcERFLXp6LUFYTGpILTZSZkxPWGUwdGNMc2hrbkVGa0pNQ1ZGbEh5UE9XV1VVeVJtM1BGMkFuTEhTR1A5eDlXQUxWVElHY1pnTEpCc1RKZmRlVkRtNFJNT290dm53WUdsTTlBTjBfU203ZnJPV18tU1JHMUFMWkQtNEtLYk1yX2VDX2J6ZFhabW5EY3NYNmZWZ2Vac3lkaEdnb2tscWRzbUZYYVdxX0hRME1NUFBoNlprdUVHaFE?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlFqZlF0dnU3d0VyS0FveTJEYi05UHdObVN6VUFzSldibFhTRGx0bHQ5cThrZFh0X1F3TF9IZWc0N0dtaXlKbzQyc0hmcTBwUmc3SnhZY2lEV1pFTnVKWVNpdzJDSlBUVEpVZ0hXZGpSSmVOdDdjQ08taU00aDI4eHlJdGxCOWNYRTdwaXBfQ2tTMk9YMHJIbi1WY0czeGtHLWNSU2dPN2x0TXRWNUUwdzlCcW0xQWxtc0RkbjJNazY1aGljM19hUzdn?oc=5"
     }
   ],
   "insight": "Tracking Sysco (SYY)."

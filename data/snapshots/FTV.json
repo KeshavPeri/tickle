@@ -1,11 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:20.926Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:26.168Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
     60.9900016784668,
-    60.66999816894531,
-    60.25,
     60.619998931884766,
     62.310001373291016,
     62.91999816894531,
@@ -19,12 +17,14 @@
     60.869998931884766,
     61.709999084472656,
     61.75,
+    61.68000030517578,
     61.540000915527344,
     61.810001373291016,
     61.619998931884766,
     60.63999938964844,
     59.45000076293945,
-    58.900001525878906
+    58.900001525878906,
+    59.400001525878906
   ],
   "6m": [
     60.70000076293945,
@@ -138,8 +138,6 @@
     62.45000076293945,
     61.779998779296875,
     60.9900016784668,
-    60.66999816894531,
-    60.25,
     60.619998931884766,
     62.310001373291016,
     62.91999816894531,
@@ -153,15 +151,16 @@
     60.869998931884766,
     61.709999084472656,
     61.75,
+    61.68000030517578,
     61.540000915527344,
     61.810001373291016,
     61.619998931884766,
     60.63999938964844,
     59.45000076293945,
-    58.900001525878906
+    58.900001525878906,
+    59.400001525878906
   ],
   "1y": [
-    48.040000915527344,
     47.7599983215332,
     49.310001373291016,
     48.5099983215332,
@@ -390,8 +389,6 @@
     62.45000076293945,
     61.779998779296875,
     60.9900016784668,
-    60.66999816894531,
-    60.25,
     60.619998931884766,
     62.310001373291016,
     62.91999816894531,
@@ -405,34 +402,36 @@
     60.869998931884766,
     61.709999084472656,
     61.75,
+    61.68000030517578,
     61.540000915527344,
     61.810001373291016,
     61.619998931884766,
     60.63999938964844,
     59.45000076293945,
-    58.900001525878906
+    58.900001525878906,
+    59.400001525878906
   ],
-  "lastClose": 58.900001525878906,
-  "oneYearReturn": 22.606162371744308,
+  "lastClose": 59.400001525878906,
+  "oneYearReturn": 24.37186686226842,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Mitsubishi UFJ Asset Management Co. Ltd. Takes $43.97 Million Position in Fortive Corporation $FTV - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMThiT1ZtRnU5NnQyZnBsOVVsX2JvSUtUVGl6WkNKcElOQVNEX1phUzc5NVdacmQwZDZyczFNcFpiVW1xT3FMX0FpRk5JUDF1Z1NLRGVqcUxUdWlfazMwV0QtM3JFODRIdnk1Q1NyM0FWN1FUbHNacVlKN1R4RkhWbW5vOFh2TmhuQjdTYm9GY2FScWEzNUcxUlpLYkJEc2hjSks4a3p0Z0NPX1pQN1NJRHlSTm9qUkxSU2hjcFpJZjdHTS1lOHBsNFZzQS1kUENsWlItLWJXNm51YnVWYmVSbjExS2dyaUtFYUE?oc=5"
+    },
+    {
+      "headline": "Fortive Raises Quarterly Dividend to $0.07 a Share, Payable Sept. 25 to shareholders of Record Sept. 4 - marketscreener.com",
+      "source": "marketscreener.com",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMDZhM2Q2ZHNYdWZtSV8zRTJLYl94dUY5dHBSZWU2ckpZZmVNQWs0VXRXbUdOMDNpdUgwcTNJOURlbVUzdXhvM3ZFOE1sVzdBUk5jdUFKVkREWUhoRXdlOFFBb1h4QW9hMGwtRDlJcHFrbEQ3V2ktZFYyaTRwazlXLWt5R2FvUFJkdXBIWndWYVRtX0dUTW9uZURzU2ROV21QM0VDMG1RalRLaDVjNUpQVDFvWXhod1BKSHVnYzJFTXJ2OGtYM0lhQWtQWDJRbG1RWDdUQVhnSFI4RXpxOTFEV0tjaw?oc=5"
+    },
     {
       "headline": "Fortive (FTV) Stock Looks Undervalued On Cash Flow Yet Overvalued On Earnings - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaXZTTlg0UnFXX25IeEZPZm00TUZXZ1BFUVkyNnJOZE5wblBQWHhPS1I0LXMyZUM3c3FtSjZpXzBhck1fbTFKQUdfRjB0ZE5GcmZKeXk2MmpNRDZHOXFTRmFqUlRRUUZXazQzSHZkekVxZ0dfSzY1ampnc2FLdXpieEF6X3ROYkJGV0FoUjl3aU9UZWo5eUNVa05makRwcjNra0R6RkpQZTNrM0xnWV90SDBzUThaMmhmWE5VRkJQTDVjVTFBRXdN0gHMAUFVX3lxTE81SkZXQW8yQ0g3MU9WeUQwTGMyZ0U5Umc4elRYa3ItdkRxdU9NbWRQRjM4aDBzbUtoT3VUcUxSeks5TEVOR2thZW9US3ZLWC13QXhwdmhaQjVVNmcwR3J1ekp0NG1wclpWcU1PWGFPejQ2Vy1ZWHlhanl4eEdtY0dlbElacWZmb0xBN2c4Q0NFdUx5V0N2eWxiX0dXWF9nZmloZGhNVktLTnh4bnF2b1poSDVNeEhTRlBfZjNUdW5qYXFmeUd6a2hlMUVNRQ?oc=5"
-    },
-    {
-      "headline": "Fortive (NYSE:FTV) Earns Buy Rating from Argus - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObTIzUEVkY1kwVEFQR2pvcFI2WEo4TkZzakpOaW1GY3RONk5OVTc1VjVkbTZLTUVFUF95X1pFNG81RHB5S2l2Sm02dDVqX1VDVE45T1FCQnpUZC1OZEo1Ukx2TlplRnRDRHFaeGw4OFpJczQwN0RNdVVwRVQzbWFzYjdWNndUTWttdFQwbzN5Zkd2NDRYdVY3cHAzOVZGZw?oc=5"
-    },
-    {
-      "headline": "Fortive Stock Outlook: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGFVV0RFT0ViU1B2V3h6R3FndFdweUdnNHZfdl85ZlpsSFJhcUtra1FwNllTQ1BmX3NkSm1BMVZSS3hLTldhSzU4eURQSUpqSy1nUTllT2NvVjk1bHJMbG5maFlZa1QtekU4dU9SNThJR2x2U2xvcTR6VXlnOV9mMmppVGNubERyNnJQU25XWnBDQXVaTjd1bDlvNW1KOTQ?oc=5"
     }
   ],
   "insight": "Tracking Fortive (FTV)."

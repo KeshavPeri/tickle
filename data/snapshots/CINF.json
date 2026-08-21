@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:08.888Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:11.045Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    180.50999450683594,
-    179.22999572753906,
+    180.7899932861328,
+    180.36000061035156,
     179.3800048828125,
     182.80999755859375,
     184.22999572753906,
     182.6300048828125,
     181.3300018310547,
     174.72999572753906,
-    177.67999267578125,
     178.02999877929688,
     179.4199981689453,
     177.7899932861328,
@@ -24,9 +23,12 @@
     173.1699981689453,
     171.05999755859375,
     171.35000610351562,
-    168.49000549316406
+    168.49000549316406,
+    168.19000244140625
   ],
   "6m": [
+    172.64999389648438,
+    168.6999969482422,
     163.08999633789062,
     163.4600067138672,
     165.11000061035156,
@@ -137,15 +139,12 @@
     176.2899932861328,
     180.7899932861328,
     180.36000061035156,
-    180.50999450683594,
-    179.22999572753906,
     179.3800048828125,
     182.80999755859375,
     184.22999572753906,
     182.6300048828125,
     181.3300018310547,
     174.72999572753906,
-    177.67999267578125,
     178.02999877929688,
     179.4199981689453,
     177.7899932861328,
@@ -158,10 +157,10 @@
     173.1699981689453,
     171.05999755859375,
     171.35000610351562,
-    168.49000549316406
+    168.49000549316406,
+    168.19000244140625
   ],
   "1y": [
-    153.64999389648438,
     152.9600067138672,
     155.39999389648438,
     153.30999755859375,
@@ -390,15 +389,12 @@
     176.2899932861328,
     180.7899932861328,
     180.36000061035156,
-    180.50999450683594,
-    179.22999572753906,
     179.3800048828125,
     182.80999755859375,
     184.22999572753906,
     182.6300048828125,
     181.3300018310547,
     174.72999572753906,
-    177.67999267578125,
     178.02999877929688,
     179.4199981689453,
     177.7899932861328,
@@ -411,29 +407,30 @@
     173.1699981689453,
     171.05999755859375,
     171.35000610351562,
-    168.49000549316406
+    168.49000549316406,
+    168.19000244140625
   ],
-  "lastClose": 168.49000549316406,
-  "oneYearReturn": 9.658322281924436,
+  "lastClose": 168.19000244140625,
+  "oneYearReturn": 9.956848234211229,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "1 Insurance Stock Worth Your Attention and 2 That Underwhelm - StockStory",
-      "source": "StockStory",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTFAya2tSTDZmVlE1aUJocW14TG5DV3YxUXYzLUdZaHotenhGTmo4UFBXbGtLbUIwQTVWRHgweUZjdEVFUmJVRjBKTUZObVo0bHlzakN4NG5oMzdTTHNGNzU0eEt3WHc1WDRsZ3FlckJiM21jb3lGdWxUamF2eTRWNmdoWnlVcnJRVk1DbG1tSnBZUkhqTTBSbWM4Vjh2TUFLb05RWkNBcGFha25MbmwyTjBrZ2MtYUZTSW1DOHZLMA?oc=5"
-    },
-    {
-      "headline": "Cincinnati Financial stock holds steady as analysts see upside from recent gains - Ad-hoc-news.de",
-      "source": "Ad-hoc-news.de",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVlZpWDBLVkhjM2I5WmlDNXE1UmVodXEwaUVFTGhrckYwdld3U01BdmdsMjcySExwZGI4RGhNSGFYWHcybTY4Vm5nMHlOV2NsMTRtNTM3SmNLVlpPMFBNY3Jncy1zaHpEaFBOV3N0UlFIZUZBa05oeXR2Z01MN2NfU2NEekNxbktHaWxWMERzLS1VdV9SdmFRVTZkQlQxY0FWNmhKRzk4T2JKLUlxd1NoZzBYZ2tHSTN6T0EwcG9xVHR2VmhWUTRkeXg1TjFLb0VZbUQ4?oc=5"
-    },
-    {
-      "headline": "Cincinnati Financial Corporation $CINF Stock Holdings Lessened by Janney Montgomery Scott LLC - MarketBeat",
+      "headline": "Mitsubishi UFJ Asset Management Co. Ltd. Acquires 18,901 Shares of Cincinnati Financial Corporation $CINF - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM3A0UmQ3UGp3UGMwbXU0bzVESWwxMS1CZVRkQVlWWmE0RUZqeFBTUDRDdmVwbjROV0NXNnlQbF9FM0poUUsxd0NTNE9tekJCLTl1cS1idGZIREp3c05jSmV3SG5wbDBaWTBmTTVWUlFYNVYtaEswU0dDMXBENjRXUEhodTk4aTNWX1JLZFFOY28xYWFmbTNGeUpkNFpicHNoaFRiRlhGcWcyOUowVTRXaTZjZmFfOVVxdXRDSW1Hdzh1SS1EUWNvUExxQlFna2pDWnYwUDFtYXpaTC1nUEktNlI2MVhVVVFq?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWUpVTTAtaFp4c0h4TzZoZFJDWjVlRHpNcTRTYTI3c04xX1o4b0tXMktRa1NJTTZEa184cEt4TjVvWUpiSTdSYXQ0cE9XUU80TnBvaXFKcngzenhGUERWVkJkRW5xUFNQdjh6MHBRTHNPS3MzWk9ERzRkY3JTVllMSVNVTW03alE3WmVRd0J6T2t4b2t2RTlrOHU4VjJmeXpGbUM3QTUwLTFHRmtoWFl3LWJ5ajVMWDJPMGVWWk15T1FOYmx1OUZYLXgxNkZsNU1KMk1sLUxmWmpTOTRnbHQ2TGFuZWg2VFc2QWRPNWJRSHg2LXdH?oc=5"
+    },
+    {
+      "headline": "Cincinnati Financial Corp. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQV1BNM18wS1dCWS1SNUp2UXJGdmxNU1gxOW5iUW9ic0dOLVpBb29vOEgtc1BtV2xJN09XRGJ3LXJrLW84YU5DejNhbFpPMnFIUGRNVGJhbjhpN3ZFLUZYQnQ2VHNUTjlsR1E0NzF2SlRFSHpIYmdOdHlIdGp6bm40UGh3eFhOcGc2c1pRYXFLV3JvR25ieFVndWUzQmNvdFFvb3ctZ290dXhLSjBsbE1GQk5GdnNJaXkySmxmejV0MFZVWUFaTFVFOWhiaWV1ZW9GczUwcEF1VVBfcW8tenpCVEdmYWRucFY1dG5JRnFxNk52MnI3?oc=5"
+    },
+    {
+      "headline": "Cincinnati Financial stock holds near $170 as analysts see upside - Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYzRVMENlVkhPTXdDZS11amJsOVA2Y0VfTVdPSmhhX3ZZbXY4d19wSTdhX2NMNU9OWkxNQThGQ1pZNU1GbTJhcHVXeXBmTTdfQldlaWhPUkZOUzdiaXZiZzZ5OEV5SDQ3S3ZnWFZ0a2QzVmw3VXZBZnlHX25MODYyNEFCSEw5c1lMVndKdkRnZE9iSHROTDc3anR0SDZadFN0UVhSaExGYzY5V2t4cElhb2g4SjdnN0dtX1BQdzhfd3BuTUJaVlE?oc=5"
     }
   ],
   "insight": "Tracking Cincinnati Financial (CINF)."

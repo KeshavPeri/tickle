@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-20T02:38:05.501Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:07.001Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    179.39999389648438,
     177.86000061035156,
     172.8300018310547,
     177.4600067138672,
@@ -24,7 +23,8 @@
     212.05999755859375,
     204.75999450683594,
     208.25,
-    213
+    213,
+    209.8699951171875
   ],
   "6m": [
     171.24560546875,
@@ -137,7 +137,6 @@
     184.61000061035156,
     181.67999267578125,
     179.4499969482422,
-    179.39999389648438,
     177.86000061035156,
     172.8300018310547,
     177.4600067138672,
@@ -158,10 +157,10 @@
     212.05999755859375,
     204.75999450683594,
     208.25,
-    213
+    213,
+    209.8699951171875
   ],
   "1y": [
-    225.59120178222656,
     228.42959594726562,
     228.8347930908203,
     228.1439971923828,
@@ -390,7 +389,6 @@
     184.61000061035156,
     181.67999267578125,
     179.4499969482422,
-    179.39999389648438,
     177.86000061035156,
     172.8300018310547,
     177.4600067138672,
@@ -411,12 +409,19 @@
     212.05999755859375,
     204.75999450683594,
     208.25,
-    213
+    213,
+    209.8699951171875
   ],
-  "lastClose": 213,
-  "oneYearReturn": -5.581424134785816,
+  "lastClose": 209.8699951171875,
+  "oneYearReturn": -8.124866987184411,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Booking Holdings (NASDAQ:BKNG): A Strong Fit for Affordable Growth Investors - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlMxdXVHZ2ZiUlhVR3lobWZsMHlXMDRGYjctZG85LS15ZmNRTHg0dkhLbFB0dGdGM0t6em9pM1pWSERWT1JvLXBmNnNmVFAxdmJONHdLa0JienFrQ18xWlFkOFRZUWVFZTRFakV2Z2dlQ3NwdDhTNldYdmdqSExjRDMwdjdMVnJicjJUMHhKc0l1akpFWEowRGt4dS0wOGlzV3ZzRENrS1lQbkVLNUdnd3NtOWlQVFcyWTlwUGt6cUdkQQ?oc=5"
+    },
     {
       "headline": "Booking Holdings Inc Stock (BKNG) Moved Up by 3.07% on Aug 19: Drivers Behind the Movement - TradingKey",
       "source": "TradingKey",
@@ -424,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTNRY1hMc0p5MFlZMFdnb0VjN1p2bENzTF8zQXpPN3RJYjBUNUtfMWVMYmwwc0xyZ0ZxdmJTaWZWMjBRUk5YZ01SanFnV0FYOVMybzdPb0F3SkFPdDZKOG1sd3BuRC1zcHJhUmhPMV9GaEZ4eUhoRWdjbUNCQzdjRW9kdEkwQjJnNWhV?oc=5"
     },
     {
-      "headline": "24,013 Shares in Booking Holdings Inc. $BKNG Bought by First National Bank of Omaha - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVGJfb291dXNSLXdxM1pPQ1Z2cDFZOTZJUWtaT0U5XzRjdXNYNzFMUGZnOG05ZE9vUUtjcWtneS01ZEI0MERvcFhuY2hHQ1RUa1Z1dUhObmpySFhNdHZRZVA5RTQ3LVRFVkNRanB3dHdtazhJLTdoQmVsMnF6dGpjcjJPZk96UkF4N1dTY3lrNm15WDBXaXJOamc5R3dOclJadFNPM0Y4SWljQ0Rvd2ozSGx3S3ZocWI0cDlTZm4zMmlSRzhLbFJRM2xFY2JkaldmOVlfMXhnQWw?oc=5"
-    },
-    {
-      "headline": "Booking Holdings Stock Jumps As 'Resilient' Travel Demand Powers Earnings Beat - Investor's Business Daily",
-      "source": "Investor's Business Daily",
+      "headline": "Booking Holdings Reports Higher Revenue on Strong Travel Demand - WSJ",
+      "source": "WSJ",
       "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONm9fYmsyUi1QVTNQcmVQQXJYZ19vdnFYSHNWOXRUZWoxdG9KMDhKUlJuUXY3SWNVSDdOU3RVVlJfakc0ZlVlMm0zeV9fQlZ5YzdXcTJZdU5ibEN4RFk4cFlVZ0ZwSVdub2lRQlJpZjdqdmQ3QU1KNk1lQUlRemFybV9hb0g?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ0YyRlRzMUZkSEdEZUEzOXRjV1JpLWlIVjZWZlFodWVBb2wwVDEtV2lBWEdaU0FUR2VvYnc2SEk5TktVNHp1ZUhmV1NlWE9SZjZoZG1ER0wtM09KS3ZHdHBfMXotQWU5NzNpMEpwRm9wT1hFbnJ0RGpldzBqeVl6YWRGcENfU0NDVnM0R2Y0TUduRGowb0dNa0dxVmRtLXZfYzJHMXUzRnNvb195c0dF?oc=5"
     }
   ],
   "insight": "Tracking Booking Holdings (BKNG)."

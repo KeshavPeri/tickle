@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-20T02:38:37.071Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:46.293Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    287.8999938964844,
     285.8500061035156,
     283.4100036621094,
     293.5400085449219,
@@ -24,7 +23,8 @@
     305,
     301.7900085449219,
     300,
-    300.55999755859375
+    300.55999755859375,
+    287.6199951171875
   ],
   "6m": [
     347.29998779296875,
@@ -137,7 +137,6 @@
     293.95001220703125,
     286.9599914550781,
     286.1600036621094,
-    287.8999938964844,
     285.8500061035156,
     283.4100036621094,
     293.5400085449219,
@@ -158,10 +157,10 @@
     305,
     301.7900085449219,
     300,
-    300.55999755859375
+    300.55999755859375,
+    287.6199951171875
   ],
   "1y": [
-    329.1199951171875,
     325.0299987792969,
     344.6700134277344,
     344.9700012207031,
@@ -390,7 +389,6 @@
     293.95001220703125,
     286.9599914550781,
     286.1600036621094,
-    287.8999938964844,
     285.8500061035156,
     283.4100036621094,
     293.5400085449219,
@@ -411,29 +409,30 @@
     305,
     301.7900085449219,
     300,
-    300.55999755859375
+    300.55999755859375,
+    287.6199951171875
   ],
-  "lastClose": 300.55999755859375,
-  "oneYearReturn": -8.677685337356847,
+  "lastClose": 287.6199951171875,
+  "oneYearReturn": -11.50970796622119,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Royal Caribbean Group stock outperforms competitors despite losses on the day - MarketWatch",
+      "headline": "Royal Caribbean Group Falls as Cruise Stocks Weaken With Fuel-Cost Concerns in Focus - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZEs5S3dSM1ozSTR5MFZPY3FERXc3c0h2b2RlLTNLSmpMRDd6UU0yUlRReHhiZ1RoMzNSMWg2NlFJWjh2QU1xVjNKTnQ3d1VuTnRGWHlXOWE4Rm1KTElLTElNR0JLdkhhcWpyTEpWUS1ReGxrUEowOTBpS2ZTNm1mUUg5ZW9rc1JEWVNzYlNHQUVtcmFHOUVydUtQbTZkM3hvN1pWUi0wVmZqNVdvNVJWUzhxSmM3bHBJ?oc=5"
+    },
+    {
+      "headline": "Royal Caribbean Group stock underperforms Thursday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTWxYV19QUU5EYVdYSGFqaU5HbkY2ZjM0ZkdjVGpBNll0NXRUZFp3c3c0Qml3Vk50YVN3SVN4c1FtTEk0eDVzdW1acHpqbXRJaHpPZXcwNDlDVDQ0SFlUZWFSaENMR0ktZGV1b0cyQWdqbUpJNDVNYlFxSU5rQldPdVdrWlpSNVhfX3Rnb0NaLTlpbW8ycmZmZk15Zm9EbXhOSnJrMzdGNUZoakRNTmNDbzdYWjBnelAtQ1ZuRFVKbk0yUE8yV2hhQmRWdUhsTkVSNHVV?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZjllSkJVN3dVWUJmSGtnZW1aSWsta2tRdkNOd3FXS2F6aGluOEJ5MGVmWHpNcWl5aDdJZl9aTjVZVVZ2RlhEWWFqUWZyNEtnMXNiWjE4MTJPYm1KODBBcGJKbEhsb3BvYkhGcE1iU0ZCSk5ONDB0bjdjSGRWcnBtV3RzRW5tS3RQaUw0Rm1OeVVXU1EyWWp0MVdHWkZHUzFodWFCSEEwa0JubU05S01YcjZ4c015dUN6TFdBWUo1OGVXSzBjYXFtcUxDVktxVEJxTUt3aFpGdFRTTzlVaFlBbVc0YldXZDMzYVBTSlZn?oc=5"
     },
     {
-      "headline": "RCL Vs NCLH Vs CCL: Why A Wall Street Analyst Picked Royal Caribbean And Got Cautious On The Rest - stocktwits.com",
-      "source": "stocktwits.com",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNXzh0a3pOVDR6QS1JZnJVeWxfWXRpU2dRTTZyQ1d1TFp6ZXgzV0I4U0lURGtHRjc3eTFHVHUtR1lDOElqb1RsN1N2T0FvMjhRbmJVcGJFcEd3QnozZHdlandiTXdodzlTZ3gwT2pjTEJGczlzYWg1TEhtR0gtTVEwQ2NBYVowUEF0UmVFRUVyX1hUTlZHLU84QWZhMldvcEt2aXBoSjI4NXJwMTFweGlFTkkwMUc3c3hCRzlDNUhfbXN0T01pNVViWkppRnFMYWMxVlRuYWkzWnFucVFtOEpPcUJLNEFaVGpZOU5MYTd0VQ?oc=5"
-    },
-    {
-      "headline": "5,411 Shares in Royal Caribbean Cruises Ltd. $RCL Purchased by Commerzbank Aktiengesellschaft FI - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcEJvZ1ViRE9OWVNrc3FlRGU2eDlTd0lhdnJ1Vzg0c0FlZFhGRUxtajRxaXFEZXNRSlpVSWdHWGlEY25fMVRVdGZ1Uzl0YWVDWEk1dGExbEMyNHhESl9YODdoZWNYUndtS2kwcEhjazFzRFQ5LTN5c1o4NmJtTjIwbzVkMUlNLVF3dXZzUWl6YnhQUS1vZGZheWNWTTlHZ3gwaEIxWU1lc0NkTEU0ajFYa3BtTmpqN3VJUHRjekxjelNkWXpVMmNTTUJ5aHVnd3lDWHFJS0tOcmVKMWJPSXh3Ull5bWFBQndxdHc?oc=5"
+      "headline": "Norwegian Cruise Line Drops 5%, Carnival Falls 4%, Royal Caribbean Slips 3% as Oil Climbs - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHU2eFBTN3E0a3FIdUZOaEQwZkNSZ1NvRVA5bkRCb2lmMkhwVmNBWXFMdVRJMmpiakJUd0FpZF9PQnBZdGwwZjZyQURhdEs4dzkyWXdMU19nMi0zVWNNeDVGcmNKd3RXdnRicTFzUHNRUnVuTnBra3cwRG5lUGF4V3FlTmNkWHdUc3ZlZU1id29HZElvaWFvN2pmY2JJRFZuSGdJR0FoY3FWYXVXaE5kbXM3cy1TWjUxWjFwbk9SWlgxVWRJemVz?oc=5"
     }
   ],
   "insight": "Tracking Royal Caribbean Group (RCL)."

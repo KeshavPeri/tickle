@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:42.044Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:51.913Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    299.739990234375,
-    284.32000732421875,
+    319.510009765625,
+    317.9599914550781,
     288.1600036621094,
     297.1499938964844,
     315.8800048828125,
     333.3500061035156,
     333.5,
     323.30999755859375,
-    309.6000061035156,
     305.5400085449219,
     313.3299865722656,
     306.5799865722656,
@@ -24,9 +23,12 @@
     328.6400146484375,
     320.4800109863281,
     332.2099914550781,
-    346.8800048828125
+    346.8800048828125,
+    348.1400146484375
   ],
   "6m": [
+    348.3500061035156,
+    355.239990234375,
     360.510009765625,
     339.25,
     287.0400085449219,
@@ -137,15 +139,12 @@
     316.2300109863281,
     319.510009765625,
     317.9599914550781,
-    299.739990234375,
-    284.32000732421875,
     288.1600036621094,
     297.1499938964844,
     315.8800048828125,
     333.3500061035156,
     333.5,
     323.30999755859375,
-    309.6000061035156,
     305.5400085449219,
     313.3299865722656,
     306.5799865722656,
@@ -158,10 +157,10 @@
     328.6400146484375,
     320.4800109863281,
     332.2099914550781,
-    346.8800048828125
+    346.8800048828125,
+    348.1400146484375
   ],
   "1y": [
-    567.9500122070312,
     566.6699829101562,
     561.1400146484375,
     554.9600219726562,
@@ -390,15 +389,12 @@
     316.2300109863281,
     319.510009765625,
     317.9599914550781,
-    299.739990234375,
-    284.32000732421875,
     288.1600036621094,
     297.1499938964844,
     315.8800048828125,
     333.3500061035156,
     333.5,
     323.30999755859375,
-    309.6000061035156,
     305.5400085449219,
     313.3299865722656,
     306.5799865722656,
@@ -411,29 +407,30 @@
     328.6400146484375,
     320.4800109863281,
     332.2099914550781,
-    346.8800048828125
+    346.8800048828125,
+    348.1400146484375
   ],
-  "lastClose": 346.8800048828125,
-  "oneYearReturn": -38.924201527023385,
+  "lastClose": 348.1400146484375,
+  "oneYearReturn": -38.563886362826096,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Tyler Technologies Inc (TYL) Stock Up 4.4% and Still Undervalued -- GF Score: 83/100 - GuruFocus",
-      "source": "GuruFocus",
+      "headline": "Madison Asset Management LLC Purchases Shares of 138,684 Tyler Technologies, Inc. $TYL - MarketBeat",
+      "source": "MarketBeat",
       "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREh2N0thbzVueGtuQ1RTOE02UEV0MS1Ldlo5MlpCV0dXOG5Kb1RvaFRCOGE2cFhMNWRfT0MzV09scjVXc3F4QmZuV1NtclpsaFR3d040dzJ0LXVDMVJNdHFFX0gzdmNOMDJyTFA5WVI1S2NxSmFvR2dycjFkMGhLY1JESWtLWFltTjBVc0xfTVVmSlhxNmZCa2tScl9CUWpvTHZEMjVMMVdmUGsxUnQ5UFlkVnU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRWZiSUNzVUczWUY3M1h4OURMZzNqUFBCX0NtYWxRcDFOSTdTQ0JyMVh0V09iWDRtVnZVMUhpekdIcVpORE44YmpQT1VWSC1lZHNkQ19qVzU5UTVCWFk3eERoSG9qUFNrbU1TZXRzUmlzdGM5RVNyYzFKUzByNFdNaE1Jdkl4R0JIZ1BhcE9aRGctVnBua0hNVkEzbFB5WjNKdW95SEVSR1hCY29XUTFzUUVMYzBNMENFaVJFQjNKTXlPZkV3cFo1WVRIRmVncS1Qd1NEMDFRNjkwSEE?oc=5"
     },
     {
-      "headline": "Tyler Technologies - Forbes",
-      "source": "Forbes",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qaUtpQnYyaVNhZS1lSTJTY09KellJdEZ5Z2k4aDZXWExDM1NSNlR1d2Z4Rk5GM1hJUUxtcW9xVWpaWUNOLVVaaDZhUmJTaTFFQ3FCNnI5TlZKRWVERkl2TlVR?oc=5"
-    },
-    {
-      "headline": "Tyler Technologies Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "Tyler Technologies (TYL) On Tennessee Cloud Rollout And The Question Of Valuation - simplywall.st",
+      "source": "simplywall.st",
       "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTTZqODUzd21abTRxVm84SlRILTFiTGg0V1p5MmQ3RG82N0preFpuSy1hazc4a3N5QVFWSEp6NGZiZXhWaHNEVjg1X2trbGZxTThwZTlZb1BPelRCSy1RM1hGc0U3ZVBPbjhCX3FRLWJfT1pXWml6OGhLT0RlNXNTR2NnMnVFOG5LcFZtczFlVVJoaktTWnRfeUI0ZEh0d1ExVmF0RUxHZ3RyRGhPTTFWM2lycFlMMmJwLXVlWXB2c1pYbVZuYjNGSERDaXp1cnFnOHRsZGtYaVNpdkp1a2RCU0JVa3JZVHM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQVl2SXUxWEpVTUVzUThIajNFc2NLQW9xaWZrM1RyTzJZalYyMlRsZVp3dlpuTHFReVlna3R6N29kYUFsd1hhTm9DVnpRNlFWaVRqNlpUcWFSM0hVTnFSWjRuaU1VOXNaUGExSHpkbUptc2hZMUxYT1E4ZzhOUnN4TWlNRldxNVFJUHlwS2RNdWFkMVA0eGMtSnVaczhrTDVOajhlVzFlODZsWElwejU4R3dPUklUZ0kwWHV4QXdScUx6M1JWcTJMSFFsYWdBM0XSAdQBQVVfeXFMTlFwZ0VWZEF4YXlaOC1pSzRhMm5jZ1hXWFJ0RlN0bkRFZ1lJTDNiR09DMVNUVl9KMkNzejVCZXJUTkZnUE9mQlQteWVFUFE1MFBTc210LU5iYnIwdEp0V1VQckZBUU1uSWlUZWY3ckZfLWk1c1NBOWhSME1TQTljOFF5c25sZmF5MENCZkdxVUVsanp6TjllRjdGR05KMmpIMklZVXFjNGNMZDFDdENha1ZSb1RFNnJDQm5rX05TSFR6ODJmcUx5amtoeG5EaURpN3YxY1Y?oc=5"
+    },
+    {
+      "headline": "Tyler Technologies Rises as Investors Continue to Weigh Buyback and Post-Earnings Outlook - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSDJrRUxqY2JVZEJLNnBRWDNPSUtxZ3FoSE5kTTY3VzhZQWFZXzQyaEpuZEdOZE1zRjFDLXV5Wm5zenFBdHRMOWJlYnVWREV0NGU2dVRCZlhXcmc5aWZma1dSSXdCUy1qdENGVl9tYXZRNEVhQzJZbG1obmZxQ05CWFVmZ3g3aHIwcENUa3NIYS1BcTN5TU9fQkRWZm9NN3lIdWN1TndOdThDZGJEU2xDR0VLNmJQMmlxemE2UFB0dw?oc=5"
     }
   ],
   "insight": "Tracking Tyler Technologies (TYL)."

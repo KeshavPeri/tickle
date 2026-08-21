@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:37.834Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:46.870Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    350.69000244140625,
-    336.7099914550781,
+    363.1400146484375,
+    362.8399963378906,
     355.1199951171875,
     367.3399963378906,
     375.0199890136719,
     390.9200134277344,
     408.07000732421875,
     389.25,
-    391.9700012207031,
     392.57000732421875,
     392.760009765625,
     394.5299987792969,
@@ -24,9 +23,12 @@
     399.3399963378906,
     389.7099914550781,
     394.1700134277344,
-    407.32000732421875
+    407.32000732421875,
+    410.45001220703125
   ],
   "6m": [
+    362.4200134277344,
+    351.7099914550781,
     348.8399963378906,
     333.79998779296875,
     319.82000732421875,
@@ -137,15 +139,12 @@
     364.2099914550781,
     363.1400146484375,
     362.8399963378906,
-    350.69000244140625,
-    336.7099914550781,
     355.1199951171875,
     367.3399963378906,
     375.0199890136719,
     390.9200134277344,
     408.07000732421875,
     389.25,
-    391.9700012207031,
     392.57000732421875,
     392.760009765625,
     394.5299987792969,
@@ -158,10 +157,10 @@
     399.3399963378906,
     389.7099914550781,
     394.1700134277344,
-    407.32000732421875
+    407.32000732421875,
+    410.45001220703125
   ],
   "1y": [
-    540.52001953125,
     526.9400024414062,
     536.8400268554688,
     530.2899780273438,
@@ -390,15 +389,12 @@
     364.2099914550781,
     363.1400146484375,
     362.8399963378906,
-    350.69000244140625,
-    336.7099914550781,
     355.1199951171875,
     367.3399963378906,
     375.0199890136719,
     390.9200134277344,
     408.07000732421875,
     389.25,
-    391.9700012207031,
     392.57000732421875,
     392.760009765625,
     394.5299987792969,
@@ -411,29 +407,30 @@
     399.3399963378906,
     389.7099914550781,
     394.1700134277344,
-    407.32000732421875
+    407.32000732421875,
+    410.45001220703125
   ],
-  "lastClose": 407.32000732421875,
-  "oneYearReturn": -24.642937799518513,
+  "lastClose": 410.45001220703125,
+  "oneYearReturn": -22.10687928315487,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "headline": "What Are Wall Street Analysts' Target Price for Roper Technologies Stock? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmVJSUVIdldZQkd6Sm1sYzEtR2JBRFc4bEUwQnBtR2p2UWRvQ0V4TUthd25EY3JfMXBZemdyNFF0TG1jMWxJTGRIWVp3Rmp3bGFRT291amJlZ0tfbC1GRVNPNGVsYjNBd1IwYjZ2ZnlNeXVTUzMzX0F5THc3MkRrZnk3VVRfVU1FSm91MVFsWlBhMmhrY0hNTzJ6ZEtTTGd6Nl9rRzFPdWpZU3Q3aVAzUnF3Y1Q1QQ?oc=5"
+    },
+    {
+      "headline": "Roper Technologies' $3.2 Billion Bet On Itself Looks Smart (NASDAQ:ROP) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOW9qbDdiQlhnLVFDR3dHa2VQMEhJRlhxejdwNUhUVTRPeFNxeHZnSVBVWXhXdUo0c285MzQ0WFVzTURsbU41QTBsZUwxZUZpeHJzcktBbXBDdkJwengyOHQ3SFB6ejc4aF9oOFBDcWZCc0ZRczRkWDdWUmxRZVdXU1ZYd3k1YVJFekxwNXR1Q2pxbk1hWVhFaEtJa05DUQ?oc=5"
+    },
+    {
+      "headline": "ROP Stock Quote Price and Forecast - CNN",
       "source": "CNN",
       "when": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OZEtkTlg1WXBhQjlkLS1sLWNVN0ZpWXE5Rm1pejJROThZZEN5RUcyRldSRXNqTUVEalN4ZWhObl9BZE5hVzA0YnhpNW5QdWs?oc=5"
-    },
-    {
-      "headline": "3,270 Shares in Roper Technologies, Inc. $ROP Acquired by Plato Investment Management Ltd - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEhSSlRtdnhxTE1hOXJtUFlqdXl3VE5mUW1FRi1nOFVsc3ZfanZpbjZRT21VUGRMNmJQVTdGdHo5VnY3cVBzNEo0YkszSEFXYV9jWndFTGRQLTB0ZG5HNTBHWHVGZUw4Umw2blFXQTA3TUJtLVRpeDJwOU1RXzE2WktjMWZJYmVqRy1GNlpBTGJmYXF3RGhBVmRTTUh2TWpVdlFmZmJVdnI1S2EtUWxrei1DMlh0anczREYzRE8tMUtaazYyeWNlbDBPYjc2RmxSZGExWXNSaEJDd05IMGhV?oc=5"
-    },
-    {
-      "headline": "Roper Technologies (NASDAQ:ROP) Flashes Bull Flag Breakout Setup Amid Strong Technical Trend - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVjE2cERVdnNzekhKZjhBWXA2NGNBMjItaU5OdWpSMWRHMWkwcWVMWUV5cy1fZGkwcXQyTDl2V2RTUmFseVFoUWJQRVA4SlRmYzJnNkhGSzAyVG1BSjh6OTcyQVZTM2FGb0ctbFowcjBrbGZFNUl6TFluTVQtOGNXejgzaVBheVNDMXFoT2pJZlY4dU9XeXZwNmVvZ05WZFEyY3Zla3JOdXUwNDZCWEtubkRjZjlsWllBUE5VSDhQajFUangwMTRyMGVtOV94cTJFZUZMQkxfdw?oc=5"
     }
   ],
   "insight": "Tracking Roper Technologies (ROP)."

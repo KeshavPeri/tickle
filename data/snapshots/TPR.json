@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:40.918Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:50.668Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    142.16000366210938,
-    143.72999572753906,
+    141.4600067138672,
+    141.1199951171875,
     139.1300048828125,
     142.60000610351562,
     147.42999267578125,
     150.89999389648438,
     150.11000061035156,
     152.5800018310547,
-    152.3699951171875,
     155.6300048828125,
     155.97000122070312,
     159.16000366210938,
@@ -24,9 +23,12 @@
     128.97999572753906,
     129.02000427246094,
     132.25999450683594,
-    131.72000122070312
+    131.72000122070312,
+    129.82000732421875
   ],
   "6m": [
+    152.10000610351562,
+    154.64999389648438,
     153.17999267578125,
     154.6699981689453,
     152.66000366210938,
@@ -137,15 +139,12 @@
     144.19000244140625,
     141.4600067138672,
     141.1199951171875,
-    142.16000366210938,
-    143.72999572753906,
     139.1300048828125,
     142.60000610351562,
     147.42999267578125,
     150.89999389648438,
     150.11000061035156,
     152.5800018310547,
-    152.3699951171875,
     155.6300048828125,
     155.97000122070312,
     159.16000366210938,
@@ -158,10 +157,10 @@
     128.97999572753906,
     129.02000427246094,
     132.25999450683594,
-    131.72000122070312
+    131.72000122070312,
+    129.82000732421875
   ],
   "1y": [
-    98.87000274658203,
     98.38999938964844,
     99.66000366210938,
     98.47000122070312,
@@ -390,15 +389,12 @@
     144.19000244140625,
     141.4600067138672,
     141.1199951171875,
-    142.16000366210938,
-    143.72999572753906,
     139.1300048828125,
     142.60000610351562,
     147.42999267578125,
     150.89999389648438,
     150.11000061035156,
     152.5800018310547,
-    152.3699951171875,
     155.6300048828125,
     155.97000122070312,
     159.16000366210938,
@@ -411,29 +407,30 @@
     128.97999572753906,
     129.02000427246094,
     132.25999450683594,
-    131.72000122070312
+    131.72000122070312,
+    129.82000732421875
   ],
-  "lastClose": 131.72000122070312,
-  "oneYearReturn": 33.225445091086264,
+  "lastClose": 129.82000732421875,
+  "oneYearReturn": 31.94431154542425,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "TPR Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zcFZBeUlORWt1LWZSdDZESVNjekdEQnBxU0dLaGNWZFYzd1EyMHBlMjF0RnJNa2RRZkg4eGhFUG9rSWxIWHpRVmI4M1NjSG8?oc=5"
-    },
-    {
-      "headline": "Tapestry (NYSE: TPR) gives David Howard long-dated options and new RSUs - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWVtd2dqZUVxUm91cDdpSlRXSFRkTWxJdU0xOTBCMUFMN1BiekNidEZPWEZEWlNtT0x3TGhubkpadk5NaEg2Rl9XcHdOY01wQ1gzQ01NMGtGcnI5OHI3ODJwRGk5TzFaSzRCWks5RDlBSGNuY1QxaXMzZlNaUElNS2puMFc0RmJBY3RFTE5JOTUtV0UxWElkM1dtSmVCcDlkZjRmaDRTdE0?oc=5"
-    },
-    {
-      "headline": "Tapestry Inc. stock rises Tuesday, outperforms market - MarketWatch",
+      "headline": "Tapestry Inc. stock outperforms market despite losses on the day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOai0xZ3lDbVlBck8tSU1JSTI4WjFpQzlFQ2g0V1hmQ3pRLWgzeGtnTTZqbjNZeG1TdDBSS1FXRHd4ZWhqWHBISGlLUU5Yb2JjZGZtcXBuaHdHLTNtbkJQTFd3eTVpaUFEbmpLUW0tQ1BobVZBN1lDdGhLd1RPZmJwc3N4dzl6djRFTF9mNk1ieUZuRHlzc0tnMFZPUjVNa2sza1h1UHEwam9VNUJhZnRwdnNmNDVJcWJ6c2txcTlHRFdKejdBOExzLQ?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaFVJUEpMcHJSWFBNRWJsUTFFMk1QTW1pNWtOQ19OQ1hRaGk0eVZjY21SVHpnUy1ybHhnMG5fZTk4WHNoVk9pRzdVZWN6WG0ta0VkYWdQZjhTYU9ZQ2tLU1RneHFRY1BGbC03S0hXNFQ3QXRfeE1MUlh3MVF0ZllCNXJuU1JlNTJxSzFCNno0aFF3T2JRb3kyd0J2R05vR05yaVlKU3hHWDFyWVZ6Y1R2QVMzY1hkMmY2XzRDY1J2RGVKLTRvWGxXUk9qdmlOVTFFdWM4U3JiMTU?oc=5"
+    },
+    {
+      "headline": "Tapestry (NYSE: TPR) CEO exercises options, sells shares in preset plan - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXQ3X2YwQzdhNFhPWlU3SkNpYk5qbnhKdEVmQ2dPYTAwUGpON0FicVp5VVdZMzFKWVRRNkVNa0xCZGJaeUJEdm84V1JkNS00QktGaUM3WEdJaDN5ZXBQZkVKOFhYd0VocUpRNjdMNkRGQURJX09GQzQ2Vy1HYkZBLTB3MnQ0d1ZLWkF3Y09xbXBjMkZRY3FWWEh1MWJUZkp3ZGx6MkpLSk0?oc=5"
+    },
+    {
+      "headline": "Abacus FCF Advisors LLC Takes $11.48 Million Position in Tapestry, Inc. $TPR - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSkE0TXgzQTdueDRuYjRibmd0aTU2VVJ5NkVXUUR3bHJnX3pHbFV3czVhSlJFalE1S1lsNHFPZHRUcnNXWUM5M01iSnY2SjhfcnRfMHEwdkRBOU0yS0UwaE9CcXRCbnB4Qi1KU3htLWJNMDgwMEgtTENlOVkzajB0VTRuY0xWY0tVUG5QblpvQzB3eWRXZVZoYmFtMUhNdnYtajM5VmhscU1WUXRTZV9JQ05FMTNXT1Mzb3JjQjdRM2k0aS1jNkdha2lnb2s?oc=5"
     }
   ],
   "insight": "Tracking Tapestry, Inc. (TPR)."

@@ -1,11 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:39.398Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:49.043Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
     73.41000366210938,
-    72.20999908447266,
-    72.80999755859375,
     71.7699966430664,
     72.9000015258789,
     75.30999755859375,
@@ -19,12 +17,14 @@
     78.66999816894531,
     78.58999633789062,
     78.19000244140625,
+    78.47000122070312,
     79.41000366210938,
     80.08000183105469,
     81,
     80.75,
     80.58000183105469,
-    79.62000274658203
+    79.62000274658203,
+    76.70999908447266
   ],
   "6m": [
     73.94999694824219,
@@ -138,8 +138,6 @@
     74.27999877929688,
     73.62000274658203,
     73.41000366210938,
-    72.20999908447266,
-    72.80999755859375,
     71.7699966430664,
     72.9000015258789,
     75.30999755859375,
@@ -153,15 +151,16 @@
     78.66999816894531,
     78.58999633789062,
     78.19000244140625,
+    78.47000122070312,
     79.41000366210938,
     80.08000183105469,
     81,
     80.75,
     80.58000183105469,
-    79.62000274658203
+    79.62000274658203,
+    76.70999908447266
   ],
   "1y": [
-    71.58000183105469,
     71.2300033569336,
     73.19999694824219,
     74,
@@ -390,8 +389,6 @@
     74.27999877929688,
     73.62000274658203,
     73.41000366210938,
-    72.20999908447266,
-    72.80999755859375,
     71.7699966430664,
     72.9000015258789,
     75.30999755859375,
@@ -405,17 +402,25 @@
     78.66999816894531,
     78.58999633789062,
     78.19000244140625,
+    78.47000122070312,
     79.41000366210938,
     80.08000183105469,
     81,
     80.75,
     80.58000183105469,
-    79.62000274658203
+    79.62000274658203,
+    76.70999908447266
   ],
-  "lastClose": 79.62000274658203,
-  "oneYearReturn": 11.232188753646026,
+  "lastClose": 76.70999908447266,
+  "oneYearReturn": 7.693381256882441,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Synchrony Financial stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNczZ5d0MzRmQxeWZTTkROV0I2dks0UlBBdi1HQTROYzRINVRzLW5hLWdSd05xV3ltVkFUcXlwZ0VpMWh2aVlJZHR1aTBMUHNYb3dwNWZVTEttSUttMnh5dEZZTHd4YVcwYlNYVnYwUmVPU183UlZ4WFFDamRUdVMxVjMwbkIyOTYwTk82Q1FuRW9ralRwVmpuVzliUGxMUDBKV1o3dGhrOVZuVGZsVGlYN0FRaHB1YUZzaVZiYXRlbDNwVV9UWjgxbWdJU1k2QWVwVWRmSG0tZy1GWHRuWVB2RXUzUzY1alY0a053?oc=5"
+    },
     {
       "headline": "Synchrony Financial (SYF) Stock Trades At A Discount Despite A 164% Return - simplywall.st",
       "source": "simplywall.st",
@@ -423,16 +428,10 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWDItd1lnWENmMGd4a25YenFFbXVOODNvOV9LQ3NkQXpKMnZnenZRSWhwVFpoRVRmd3B4dFZYd0locHcyNmxmZUM5TGR1Q0VKbG9CZ0pGVXRDWkZOU3BIYmZjdV9kYlNUN3FYZFZXY01wVUt5cUMwODZMUjhKR1l2Z0xKbUYzOG0zbXU0clQtOTZlS2RrOWdhY1NEQVg4ZnAtMncySEVqUm9EejZPMmluVzducjVRR2JnQlBHdm00SzJLOGRLRnAtVzZpUDVkU1hCYXZWNmlnS1ZNZk5FOFBqOGJZMNIB6AFBVV95cUxQcy1RMkpyY3piVkZYd3RIOEF3b1ZRejZnVHRiRzJrUUhCX2FrSlhEa2xrX1JQUUxJbzFVVi1mTHYxSTNQVmRsRzRKWHVWNWhNQ1kzV2RONVBUTktsYkpwUHg0ZXJlQy1NdWxQeHAzN0FLb0VvaEhrOFQ0Yi03UUNMVnp6OWxSQ0RzdGFOamFadXA1SDc4eFRMUVU3aW5TeVRJQkMzVEphSlhzbF9aU25HS0d2V2lyY05xdm4zeHl2Uk05Q3VESm9CSGtEQkZEdVBnXzB4U0RLWFk2d2drYTFLUWJqRm9aeTJ2?oc=5"
     },
     {
-      "headline": "Synchrony Financial (NYSE: SYF) logs new insider stock deal - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2J6aWZVbC14ZDQ5bnpBQndNQW0yNnplMGRlT2dZcnR1dDlTcjZmczA2OXo3cTVSWTlRSGFUMms3ODNpa0pfbm13b2FTTTVTS0tEUXhONFV1Y3FTMzlacUExN0EyOGxuaU8tNXlucnBRT3lVUUhfS196QUlQdVl4OTVIdUhkam9hdmZ5Y0JjNm11SG9QM2w3Y3lnN1dHS28tTWNESy16U0Q5dXdLa25qZXNR?oc=5"
-    },
-    {
-      "headline": "71,341 Shares in Synchrony Financial $SYF Acquired by Foster & Motley Inc. - MarketBeat",
+      "headline": "Meeder Advisory Services Inc. Acquires New Stake in Synchrony Financial $SYF - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcllSdEdMNDRBcWEzby16NEFGV3pJLTBEV1VLM0pGZG9DeUZ4ak9Ga2I0YTdYZlgwYUYyR2ZzNGhseXhtUFpjOTAyVGlGVlFSVUhERGprQ05pZDktOW1Xa1d1MTdjeG1ITi12VVVYRF8yZDlZMF9Xa1pZaWExemYyQnVxYnFxZ3hqd19INkZneWNOcy1OcDZkUmE0NFVibElzSnNMb3JlSjZpVUJ1dHpaMER2dGFpYlRlYWQyZEtkcG9RTlJLNjBwenpn?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR0gxZk1kaGJBaEdrbm54cWlpeVVVdC1MbFZrNGRBUnVWbDRHMEoxZmVMbEZxdXhDVmVyZDkzdm1GbGRFWmh5MFRVT0NIZzd0STJiQkJBc2hNMThZNHVBZ0ZjWGVHeGpwdGZKOW9IeHV2MU41T3hxU1IxUkhUbEtQNVJxRExfd3JkSEhYU1E2Z0VZeW5vZ2lmWUQtd3NZMk96alNUWlZSOTFqNXZtM3lfdHFUdVpxWW41U0h0eGs0a3F4end6Smg1c3cwQ3MtMUdR?oc=5"
     }
   ],
   "insight": "Tracking Synchrony Financial (SYF)."

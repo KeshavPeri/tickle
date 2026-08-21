@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:25.953Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:32.252Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    138.6699981689453,
-    142.52999877929688,
+    141.57000732421875,
     143.2100067138672,
     145.7899932861328,
     148.72999572753906,
@@ -24,9 +23,11 @@
     154.72999572753906,
     154.30999755859375,
     156.17999267578125,
-    157.24000549316406
+    157.24000549316406,
+    158.61000061035156
   ],
   "6m": [
+    169.47999572753906,
     164.80999755859375,
     151.99000549316406,
     149.8300018310547,
@@ -137,8 +138,6 @@
     141.75999450683594,
     139.64999389648438,
     141.57000732421875,
-    138.6699981689453,
-    142.52999877929688,
     143.2100067138672,
     145.7899932861328,
     148.72999572753906,
@@ -158,10 +157,10 @@
     154.72999572753906,
     154.30999755859375,
     156.17999267578125,
-    157.24000549316406
+    157.24000549316406,
+    158.61000061035156
   ],
   "1y": [
-    181.3000030517578,
     179.22999572753906,
     180.6699981689453,
     179.13999938964844,
@@ -390,8 +389,6 @@
     141.75999450683594,
     139.64999389648438,
     141.57000732421875,
-    138.6699981689453,
-    142.52999877929688,
     143.2100067138672,
     145.7899932861328,
     148.72999572753906,
@@ -411,29 +408,30 @@
     154.72999572753906,
     154.30999755859375,
     156.17999267578125,
-    157.24000549316406
+    157.24000549316406,
+    158.61000061035156
   ],
-  "lastClose": 157.24000549316406,
-  "oneYearReturn": -13.27082027225618,
+  "lastClose": 158.61000061035156,
+  "oneYearReturn": -11.504767956661393,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Intercontinental Exchange not necessarily considering perps, looking to invest in Polymarket - report - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc1M0V3JUUXAzTGJ4RjNnMEM0eEthYXdKb1FBbzFWcWdFWVk1SWN3cmpxZ3pOcV9OZmF2bG1qS1ltRVMwNGctT2dJSkNSNlE1eW5ZYWtFdzB3U0sxZHl2RmVLNkxtaEtaNVVLWUpNSUNwVDl0UlFTRjR2ZTNNVFlHbzBPQnFVbklRS0FqX0JtNVVaWDFtblVWSjJpVVVIYTlhQTktVFMxYmpjeXlzelZhMjZzcm1JZWYwTVEzSG84ZF9uNFBpUmhnaDl4N1Y1RExQQjFOdA?oc=5"
+    },
+    {
+      "headline": "323,573 Shares in Intercontinental Exchange Inc. $ICE Bought by Madison Asset Management LLC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRE10WTlsbExGWEoxX3VJdGs0MVJtM0pRUnNwLU5WRGNLSVJtajJHUUtUWGMtamJjNC00ZzlWYnowN19fNzdtMW5qcGRCT0ZFTjYtakY1Ym9TS3FNQXpvc1Y0RENkSVhDU01wakxpRkZYWUkwRXV2RjJuVVdKNHFRZmE5ODBrOWpLQm85UnVOUk8xRTE5ZkJMQmVBQ3dzZmh3ZHUtQW4tZFo3VkpOZEQxYkhpbGlxWlVyM20zTmVWeTlteTFtV1hhYW5zUjNyMUlxczZWYjFoaVp4Y2djeF9yb0o1NEc?oc=5"
+    },
     {
       "headline": "Did Regulators Just Create a Headwind for Intercontinental Exchange (ICE) Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-14",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDJDMkRNU1NPVVRaWmFkalZqVVJUSkVPWWt4Z3ZmcmljN2Y3bnNCbUdCMzNFa2JfT3VKVEd3eU50RktVc2wzaDRPejhLRUI5dC05QTdPSVBDaE1iTl9QVXFtcnJ2aHpOM2VRVEpwU2tmR0VNWTcwV0YzaG1LMEtYc211Q1BiRlhtZGJNX0V4amExOXN1MUtzUDdjNmNTOHppR1E?oc=5"
-    },
-    {
-      "headline": "Great Lakes Advisors LLC Makes New Investment in Intercontinental Exchange Inc. $ICE - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd05leWVQQVFKZm9neTh1cnpDZkFFRDRuMXBzeFRkcVZIOEluLWxJaURBUjJvamlKcVlUdlpkd0d6NHZGeHJGaEt2YnhjN2ZZcy02M19VY3NOVDZxSVRGbVQ5S2VLMmlEclUwbk9nNndqMlhkUDB0YXBQcW9pRU1LN2ptWWJFblp3bk9KMUhfR1BueVZtcnJBTFY1MGhyX3BGekJybUh6N093Vld1bDZjeEp2dHlVRDZCMF9makdPSHdkZzk3OEwzRU1ybEd4aHFYMTVwbHpOcG9icms?oc=5"
-    },
-    {
-      "headline": "Intercontinental Exchange (NYSE: ICE) officer plans sale of stock from vested awards - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMTJjMjI2SkVZdjBoc1c3cFcwVEdDaFZIb3N5ZVlaT1VnT0NDZmdXUnVQcnhxNlBHUmRVc1BaN0laMTNreVh3bUhURXRZQ0VCbzRXMldxS3NpazNpak9kUmsxZlQ1Umlkakh5dnUyeGRUXzlpemdXM2tjQnZzY0s0RExhUTI3Qy1qRV9qZmxtcU9TRXR3TTlIaWlTcWpocGNuRFpFU2c3Q2c?oc=5"
     }
   ],
   "insight": "Tracking Intercontinental Exchange (ICE)."

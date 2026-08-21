@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:39.852Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:49.453Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
+    626.5900268554688,
     647.47998046875,
-    650.5,
     651.219970703125,
     655.3499755859375,
     651.6500244140625,
     649.6699829101562,
     631.3499755859375,
     649.1799926757812,
-    655.5700073242188,
     670.5599975585938,
     684.760009765625,
     683.72998046875,
@@ -24,9 +23,11 @@
     679.6699829101562,
     677.27001953125,
     665,
-    648.6300048828125
+    648.6300048828125,
+    633.9500122070312
   ],
   "6m": [
+    656.3800048828125,
     659.9199829101562,
     661.4299926757812,
     646.2999877929688,
@@ -138,14 +139,12 @@
     635.52001953125,
     626.5900268554688,
     647.47998046875,
-    650.5,
     651.219970703125,
     655.3499755859375,
     651.6500244140625,
     649.6699829101562,
     631.3499755859375,
     649.1799926757812,
-    655.5700073242188,
     670.5599975585938,
     684.760009765625,
     683.72998046875,
@@ -158,10 +157,10 @@
     679.6699829101562,
     677.27001953125,
     665,
-    648.6300048828125
+    648.6300048828125,
+    633.9500122070312
   ],
   "1y": [
-    541.8099975585938,
     542.4400024414062,
     551.0599975585938,
     541.1300048828125,
@@ -391,14 +390,12 @@
     635.52001953125,
     626.5900268554688,
     647.47998046875,
-    650.5,
     651.219970703125,
     655.3499755859375,
     651.6500244140625,
     649.6699829101562,
     631.3499755859375,
     649.1799926757812,
-    655.5700073242188,
     670.5599975585938,
     684.760009765625,
     683.72998046875,
@@ -411,12 +408,19 @@
     679.6699829101562,
     677.27001953125,
     665,
-    648.6300048828125
+    648.6300048828125,
+    633.9500122070312
   ],
-  "lastClose": 648.6300048828125,
-  "oneYearReturn": 19.715399827532114,
+  "lastClose": 633.9500122070312,
+  "oneYearReturn": 16.870070303399096,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "7,133 Shares in Teledyne Technologies Incorporated $TDY Bought by NewEdge Wealth LLC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUXdBNTczVy1MMmJiTTNNdmpPOURsdTN5THgzcUhtU3BMdF94aFlGSU12ZTBEQnU2Y0h0alI5REpoMlZYX1dlTERDc0RBRm5iWnphQThyeUdYR3YwaWRJTXMtNFYtR3J4cFpuRVNpR19jUWpHU1JpSVFTSVhXN2M3NXE4X1c2NnJQX2M3NHlxb2VzMEpMZGpVVmZwSE9HNVZSSmNpQjM3S1BKOU82UFVQQ1l1YjlucWtRVVpLMWlvRVdqWTVrYUR0SlN5elpMV2hXYXpQUjNUZGt1S2s?oc=5"
+    },
     {
       "headline": "Teledyne Technologies Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +428,10 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNczc0LW0tSWZiaFBDVlljcjFtZVdaQjRvMWNXR1l5bVQtMTJON3F5b3NJYWk4RDdsVldOVUFmNnhWZ0N0M1Y2Z2hidkhlTzF6b29LYXl4Mkw5ZWxjTTZHU05zLV94bUhNZldSSG9QYi1LQkZRNHFJbnZWcDFVbjdDdVFhZVJnaFF5WmRSMTNPYjhBRHJIZXROQVBzYkhfRHJqNjFicmd0Z3hVdkdTVngyRVdmbDRnTFJtNUJJT3Z5aEFkTllIVGFQSjMtTzBvNmRqZVoyRkVlbDd1dw?oc=5"
     },
     {
-      "headline": "Danica Pension Livsforsikringsaktieselskab Makes New Investment in Teledyne Technologies Incorporated $TDY - MarketBeat",
-      "source": "MarketBeat",
+      "headline": "Teledyne Technologies (TDY) Stock Forecast & Analyst Ratings - Moomoo",
+      "source": "Moomoo",
       "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQU1wUjlvUHVJMS14UFUwaE8zMXB1emdxOGJzdWJxb1hDdUpLMUp2N0tEXzgySWctb3BEVV9KY09hUVprU2lhYjRZRzJpLUYteUlwRW8wUkp3WUx3UGlFTS11anpKZTQyUjluaDBHZTg2eTVDeEp2WlJzTF81Ry1WNHd5THRYanQxMnQzSlA4djJNTW1nRG5za3JCTHN5ZUFpQ1R1LUhfOUczR21XekRJQjdmWUxiRmxzQlBTT1d5UFhtMUFRWThHejVuZTluWS1iV3YxT0NZWHJwUWF5QzNZekE1dXFjMXE2OE1GTXhKeWRodThCSjBlTldB?oc=5"
-    },
-    {
-      "headline": "This Insider Has Just Sold Shares In Teledyne Technologies - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNWJlYmh1bi0wQmJxcXdDMnE4TWZYbDZmUDF6N3RqN3NQeV96azhmcTNyRHMxZjRENmd2WmhqUzJ5b3VvU0ZZSVQ0U3ZMUDJoREw2RDZlWm5mS0RRVkhEQlIwRXZpOF83YURUZnZFMkJsOUxoV0ZjREZ2bHBmMi15WUppR1pQcnNXQnAzQjJ4ZDlJMzZ2RDhpdkNvTmFXZEVvRFFXV3l0WThTbGhyU3R3azJnbWRDSVFtWWZ2SkpCWjl6S25XeDJZSEtzamdGQdIB0wFBVV95cUxPQ3dXYnk3NzQ0elVhd0NfY2xETzFKdUQyc21lWk54d0pMcHBIRHZhV0dZS0xEUm5qdjlUXzJTN2lZX01fQUhDb2FWa1N6cVU5TjUxZXdMYnRLRVNqelJ2cmJCVE5kXy1hMHc2b1ROa3VzU0doNHlRSS1ZcWVJSG1OSms2SVFyT0ExNkFZb3RSa04yc1A4NU5YTUcwUXdmMVVXTlZCQW5jU0pYdzEtRlRqWmpLbnNmcjFtQ0RGSV9LMzBnUU5STnhpaXVNZlhIaUtMZUdF?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPTEdPTmlEOTd4dnZtMUhGTmZweWp5dWxGY3pOMmdUcGJRR1RXbFJ5VW4zbWs3bXp4NV9tOTFuSzVxd2wzQ1lZNktMS0lQTUxSSDlFZnhhQ29DQ2JuX2lHWlF1TFJ4V1lOS0Z0eFZfNGc4Ti1nTG5QdG1NUjRKbzd6bTRZYW9DczQ4V29xN055aTNHNFBxOUFTeTNheHQ1NnZ2QnpORk5heUFjMHpxTnRmSkxNTklhTjlmd2NZRVZrc3NGazBrVWxQSzAyRlM2TjBCdDFjYlBPRWctaHhLVDBPMmZ6S3cxLTMwQXJJTFVRcW1zTk5WM29SRlo4TXVDTGZoeGo2aFpPSDE1MzdSVktHaVlBdjZ3eUliRVhjWEQ4eEpSVFVqdGs2aV8zWmhEdkNQcU94WXNkOTVTRnZ4QWV5YVczOA?oc=5"
     }
   ],
   "insight": "Tracking Teledyne Technologies (TDY)."

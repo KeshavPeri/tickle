@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:22.158Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:27.821Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    184.33999633789062,
-    184,
+    184.75999450683594,
+    184.25,
     171.0800018310547,
     173.47999572753906,
     174.3699951171875,
     179.1699981689453,
     179.67999267578125,
     182.97999572753906,
-    182.25,
     184.08999633789062,
     183.89999389648438,
     183.86000061035156,
@@ -24,9 +23,12 @@
     181,
     179.41000366210938,
     178.0800018310547,
-    171.4600067138672
+    171.4600067138672,
+    170.49000549316406
   ],
   "6m": [
+    146.50999450683594,
+    141.4199981689453,
     141.9499969482422,
     143.92999267578125,
     144.10000610351562,
@@ -137,15 +139,12 @@
     184.55999755859375,
     184.75999450683594,
     184.25,
-    184.33999633789062,
-    184,
     171.0800018310547,
     173.47999572753906,
     174.3699951171875,
     179.1699981689453,
     179.67999267578125,
     182.97999572753906,
-    182.25,
     184.08999633789062,
     183.89999389648438,
     183.86000061035156,
@@ -158,10 +157,10 @@
     181,
     179.41000366210938,
     178.0800018310547,
-    171.4600067138672
+    171.4600067138672,
+    170.49000549316406
   ],
   "1y": [
-    139.10000610351562,
     139.6199951171875,
     141.24000549316406,
     139.38999938964844,
@@ -390,15 +389,12 @@
     184.55999755859375,
     184.75999450683594,
     184.25,
-    184.33999633789062,
-    184,
     171.0800018310547,
     173.47999572753906,
     174.3699951171875,
     179.1699981689453,
     179.67999267578125,
     182.97999572753906,
-    182.25,
     184.08999633789062,
     183.89999389648438,
     183.86000061035156,
@@ -411,29 +407,30 @@
     181,
     179.41000366210938,
     178.0800018310547,
-    171.4600067138672
+    171.4600067138672,
+    170.49000549316406
   ],
-  "lastClose": 171.4600067138672,
-  "oneYearReturn": 23.263838382774658,
+  "lastClose": 170.49000549316406,
+  "oneYearReturn": 22.11002109695419,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "What Are Wall Street Analysts' Target Price for Globe Life Stock? - Yahoo Finance",
+      "headline": "Is Globe Life’s Bigger Buyback Amid Weaker Margins Altering The Investment Case For GL? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMEV2cWRFRjBJS2NvT19CTU1hZWdmSmd3aWs4NFp3NzRwVVZsYlJLQzVoR1ByWm0zQ3JHZFV6MEVaZmp3X2FUbUt1dzRaejZIT04wWERzRFJkR1lteUc3b3lXYTlXQVpZNE96dFlVeWZqT2oyVEROREYxSFhBbWFFWWFEcnMtMHp4RGtQeWlvOU55S3h1TVhvbWplWnEzZEk?oc=5"
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX0t1U3hfck0wRVZMbVFqRTVjWVhPTGxLT01mUGtsb1ZRX1RBbXpxUklMajUzZjVNd2FpcjU4VURuZTRaLVlhWjRmdFg4NmxhbGJNU3lDbmNBNnV6b1RhemlyNmxmRHJ0OTNKQm5aWTRkVC02VnhRQW1Jd2lQTzNZelV2enRBZlNYMXBWVExyTzJ0QlRya1dJWGJyaw?oc=5"
     },
     {
-      "headline": "Globe Life Lags Industry, Trades at a Discount: Time to Buy or Hold? - tradingview.com",
-      "source": "tradingview.com",
+      "headline": "What Are Wall Street Analysts' Target Price for Globe Life Stock? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0c1OTZqdDhHRkhpQlF4Y2ZfQWlNZHdtYVpXRHVVNkdQR1FGbnBfd0otYWhPbEtRUnNLY0tPN1gxVGhhMjNBNncwSENCR1N5NXgxc0Ztc3dkRFZCbUJpR2k2SmdaeGxSd3dlQ19Ha0FULVlYMkdKazVtWnFUYlZnUHREV3ZuVks4b3FYMzhFZUdzdUNSS3FUbGlXQTBvWXJWN2F6ekVmYS1ORVE?oc=5"
+    },
+    {
+      "headline": "Globe Life Lags Industry, Trades at a Discount: Time to Buy or Hold? - TradingView",
+      "source": "TradingView",
       "when": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGMwN0NMSjJVY3c0REVuc0EyZVpvSVJVS1liSHVPNDI4Y3pFaEQ1MFBqaExqeW9ZbXlQcjUxS1Jlck9YQUhGdmdvaTNOZDZlYmNnS0o0aXBOdXQ4THJHS2ZRRmZrYy1HR0w2ZWtyWUZTT1Fialh5SFVvemxfWUdzUmVjR2NaSVVZb1hQQzI3d3lTMjNHLThFZ2RpRWpmSm9jNU5VdEhNTFIyY0tscmFJSVVXOTVqSkRCcFhEenF3?oc=5"
-    },
-    {
-      "headline": "Globe Life stock holds below consensus as buybacks and institutional demand support the valuation. - Ad-hoc-news.de",
-      "source": "Ad-hoc-news.de",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcE5jLUh3NXJBYXlPdXkyN295b0h1VDlXSXhqeWlEbUZndzB1MkQwRGlRc2FyZk5NUkc3WTcwV2F5czd3blFhQUdQc29SbHVyQnY5R3hsZ2VhLUxweGVqalRBWEhzekYwbG5Nam5xQWFMRmVDN2FIemJNbHNFMDJ5QlB2enp1MmFfWVBKSTV0OS1CRGVsTjI4SnZuN0Z6cnFEOGNNYUkxQ3l4c3I4UWNva0tSVVNQbjQ2WXExLTI4dzRVVllDUEt0SC12VQ?oc=5"
     }
   ],
   "insight": "Tracking Globe Life (GL)."

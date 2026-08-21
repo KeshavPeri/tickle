@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-20T02:38:38.481Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:48.033Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    389.07000732421875,
     377.6099853515625,
     373.5199890136719,
     373.4700012207031,
@@ -24,10 +23,10 @@
     421.5,
     413.2200012207031,
     404.4100036621094,
-    401.239990234375
+    401.239990234375,
+    397.9200134277344
   ],
   "6m": [
-    437.45001220703125,
     438.2099914550781,
     423.3500061035156,
     437.0899963378906,
@@ -158,10 +157,10 @@
     421.5,
     413.2200012207031,
     404.4100036621094,
-    401.239990234375
+    401.239990234375,
+    397.9200134277344
   ],
   "1y": [
-    601.1300048828125,
     598.1699829101562,
     606.52001953125,
     597,
@@ -411,12 +410,19 @@
     421.5,
     413.2200012207031,
     404.4100036621094,
-    401.239990234375
+    401.239990234375,
+    397.9200134277344
   ],
-  "lastClose": 401.239990234375,
-  "oneYearReturn": -33.25237686104275,
+  "lastClose": 397.9200134277344,
+  "oneYearReturn": -33.47710102539514,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "The Hidden Volatility Brewing Beneath Synopsys Stock - Trefis",
+      "source": "Trefis",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcGk4Uk1uX0tKMGp2Wng0bERzaEVoNVJCVWlYQTFPTXYwb2xFREpkV041Zkp6anhmN0tzczFlU0tXci1QS0ZzaEZmR3RRc05lcDNfMFhoUlRqUzhwWDBYbTh2aHd0ZXkwcURRUG9xOFNkWFFlbmxnQnlCa2xpRGM4LWttTGZaWWlUanNPNnhOSkJyTlgzRFQyTGdHOXdmcy1Yb3M2VDVMWDM2RUlWNy1YdkdOY1ZVd2diVHJ6T2JRdw?oc=5"
+    },
     {
       "headline": "Why Investors Are Moving On From Synopsys (SNPS) - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc2lLTVBORzFWaExHYzB1WDBkY3dTUlViN245b0puT1JuNmw0bnJwLWpEVVl2eXA5MHk3OHZ5QUJfbDlZcndHNWhRZXhMOVJFTy1qZWdLOXpaOElRYzlRaURORk9GLUY1RGd3S1U2RV9GOXdabTY0SG9SLWY3dEMyU2lCX05Na1llMkZ4S2tqVHUtODR6TUtlZWdZWGFHR0dn?oc=5"
     },
     {
-      "headline": "KeyBanc reiterates Synopsys stock rating ahead of earnings By Investing.com - Investing.com Nigeria",
-      "source": "Investing.com Nigeria",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjlBV1BnSzFLNHZ4UXdOMmNPajk0WWRLMkpTRFA5bjFtR21fNTg2RHAzblhEX2VWV0kyWm5BSzVvX3ZlQTZfSnBPaUxSckVpZWdJZUE3XzRfdG5Ga1B1RnpUbnBwVllPSFhXQmdHbnNfWEwtNldqVF9MZ1QtY1ZGWlg1ZVNZQXU0TnQxeTdLQUFwcC11QkJJMm9pRlp0Z0Z6aUxEYUhwbzRFZGx3T3lYSWtaVDRBVVBYY1Zz?oc=5"
-    },
-    {
-      "headline": "Synopsys Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeDVjaHlYRFUzeER3VC1JM29BOGVQSVFhZ2tGNjJKZGtaZmNyZWRsN2w4V1NvbHh3cnFuNFhQem9UWkNSbmE2UXh4WWs5d25ON3ozcGEwOEVLYTFfQmotc1plZ0wxcW80THFlbjZPWFhOcUxGUmdtdkdvdUlUcDRGeGpGS0E0OFlpYXJFa09nNGpqekw0YW9iU2dTckgybmRoNjY3eU5iQm4yTHQxM3FGLWhRS2ctaGRVaFR5RmlkZFlfbHpGVlVR?oc=5"
+      "headline": "51,679 Shares in Synopsys, Inc. $SNPS Bought by Westport Asset Management Inc. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOclFPMjkyc3E3YU9DMDVGRklJSzFrcjNSYWlLNzRQZVhfdTlLYVhTbG90elJ5MHV3NkpkWkR0Q2l1OW1jemY1LUJ4WkNVdWptSjJpNTB6c3kxa2gyNDZFVEJIc0E4VXh2elhsLXJPTVhDcTJNbVJnU1JNUElrOEg1bVlTRl9hTDBGUXJPaUhyRmRJQ05iOXY0ZzNWUGs4YzJWZWNONzM1cWZGX0swVEw0Z0tVTi1hQXM4QlhoQU5EV1FNTnJGaGRMQXNVUVVMbUU?oc=5"
     }
   ],
   "insight": "Tracking Synopsys (SNPS)."

@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-20T02:38:20.774Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:25.898Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
+    126.0199966430664,
     125.58999633789062,
-    125.05000305175781,
     124.83000183105469,
     126.08000183105469,
     127.12999725341797,
     126.12000274658203,
     125.77999877929688,
-    124.08999633789062,
     124.08999633789062,
     123.6500015258789,
     122.81999969482422,
@@ -24,9 +23,12 @@
     118.38999938964844,
     118.0199966430664,
     117.4800033569336,
-    117.55999755859375
+    117.55999755859375,
+    117.25
   ],
   "6m": [
+    105.76000213623047,
+    106.11000061035156,
     107.6500015258789,
     106.94999694824219,
     104.75,
@@ -137,14 +139,11 @@
     125.36000061035156,
     126.0199966430664,
     125.58999633789062,
-    125.58999633789062,
-    125.05000305175781,
     124.83000183105469,
     126.08000183105469,
     127.12999725341797,
     126.12000274658203,
     125.77999877929688,
-    124.08999633789062,
     124.08999633789062,
     123.6500015258789,
     122.81999969482422,
@@ -158,10 +157,10 @@
     118.38999938964844,
     118.0199966430664,
     117.4800033569336,
-    117.55999755859375
+    117.55999755859375,
+    117.25
   ],
   "1y": [
-    96.43000030517578,
     96.30999755859375,
     99.44999694824219,
     99.1500015258789,
@@ -390,14 +389,11 @@
     125.36000061035156,
     126.0199966430664,
     125.58999633789062,
-    125.58999633789062,
-    125.05000305175781,
     124.83000183105469,
     126.08000183105469,
     127.12999725341797,
     126.12000274658203,
     125.77999877929688,
-    124.08999633789062,
     124.08999633789062,
     123.6500015258789,
     122.81999969482422,
@@ -411,10 +407,11 @@
     118.38999938964844,
     118.0199966430664,
     117.4800033569336,
-    117.55999755859375
+    117.55999755859375,
+    117.25
   ],
-  "lastClose": 117.55999755859375,
-  "oneYearReturn": 21.912265048788804,
+  "lastClose": 117.25,
+  "oneYearReturn": 21.742293606296297,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +421,16 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXR3VF8tZXFudEZPUnBtODgzbHVVS1lYbEpOWHN4Nk5kWER6cjhzNUJTeFlMbzFQV01OMkt1bWV1dTlzbDhOTmYwWFlQUDNLb182YTlPanloSWNPbzFBX2dFc2p4Y0hUMG9fYWQ3U1dDRW9KZUt1UjJ0ZW03T1RxczB3eWFRa3ZEdTJPZHVueUdoVERoZldCQw?oc=5"
     },
     {
-      "headline": "Federal Realty (FRT) Stock Could Be 20% Undervalued Following Raised Guidance - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOHh2U0JOU002Yy1HRUZaMDZfYlJnT2FLUWJTeU5wZE5lTDJ6UnFWY3FUelVCdFMyMl9UMHFQR011X3IxV3hoUy1vZEQtN3lqcExCOHNYSHA4MjVRY1d0SUN0bHROQUZBdjZtQm5vT051QXpfNDJIYzVRQWFOMGxiXzVzV3BsRWV6dkpIbFI3WFlYbHM1ZklCQUY3NA?oc=5"
+      "headline": "NORGES BANK Buys Federal Realty Investment Trust (FRT) -- Shares Look 6% Overvalued on GF Value - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlgtZGhXM3BwTVFGZzA4blJ3R3FvSzczd0RsV2JFcmZvdlYyQW5odUNvRnRFYnZGcmhFMnhnYWQwampsZE1NbHNQVDRwVHVmUGtoZW1kcnc3MDQ2d3ZZZW5QaUgtcDZqdnJPbVZiYWNiXzhvYVNYd2wyVmpWNENZM0MyN2ozXzVxUTdMRXIwcUFIYWJmTWdSME1GRUpUZ3NBZ2l4VmlXaUZsckd4S1liRV9hbmhZN3E4SHZ0Z2gxamxZWGxyOXFz?oc=5"
     },
     {
-      "headline": "Federal Realty (FRT) Stock Stalls As FFO Outlook Improves - Sahm",
-      "source": "Sahm",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHdVQW8tN0M4SEg4RFVINWxNbEJEeml5T0xwdVBSSVJCSXFVSktSMjBNVmhOQ2trbGduX2o1d0NKaXFfa3Y4d2xvYWZZeHBNX2VhM3lDYWY1U0djQzIyMXBCa1ZTRHFubWZVT2NsblVtZG1hVkpHU29LaUFENXFpVHE3UXkxRTlHcmppUmMzczRNS25pSTF3R2dzUDdIYzAyQU15V2JkRWp5ZVU?oc=5"
+      "headline": "Retail Concentration vs. Diversification: Is O Defensive Enough? - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaWhKUDhxR3hZRm1JMmdYNXY0aW5iWTVYOTBVT1VxYWExaXFIWXFyMzNZNEliN1h5NGlGeHBWUmRlVXlaRkhpUDN4VWVGLTF5cjFwSHNZZzRUYlAtVEg1b211TUZDaWtJR0tKeGlvNHZSUy1uZUhBSllZWldXcHVUa2RaSTFEaVRITWZVZkF6LU11LUY3ZWFuUzVKblVJMmhYZGdWelk1VlkyaHdJYjgzZURWaVJkRElK?oc=5"
     }
   ],
   "insight": "Tracking Federal Realty Investment Trust (FRT)."

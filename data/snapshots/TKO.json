@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:40.528Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:50.306Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    181.6999969482422,
-    181.64999389648438,
+    185.1300048828125,
+    182.7899932861328,
     179.42999267578125,
     180.6199951171875,
     182.86000061035156,
     186.05999755859375,
     187.35000610351562,
     183.80999755859375,
-    181.80999755859375,
     183.91000366210938,
     184.50999450683594,
     183.07000732421875,
@@ -24,9 +23,12 @@
     201.27999877929688,
     195.13999938964844,
     192.11000061035156,
-    201.69000244140625
+    201.69000244140625,
+    195.4499969482422
   ],
   "6m": [
+    211.89999389648438,
+    209.38999938964844,
     214.11000061035156,
     210.3800048828125,
     199.99000549316406,
@@ -137,15 +139,12 @@
     184.77999877929688,
     185.1300048828125,
     182.7899932861328,
-    181.6999969482422,
-    181.64999389648438,
     179.42999267578125,
     180.6199951171875,
     182.86000061035156,
     186.05999755859375,
     187.35000610351562,
     183.80999755859375,
-    181.80999755859375,
     183.91000366210938,
     184.50999450683594,
     183.07000732421875,
@@ -158,10 +157,10 @@
     201.27999877929688,
     195.13999938964844,
     192.11000061035156,
-    201.69000244140625
+    201.69000244140625,
+    195.4499969482422
   ],
   "1y": [
-    182.61000061035156,
     184.24000549316406,
     186.1699981689453,
     183.72000122070312,
@@ -390,15 +389,12 @@
     184.77999877929688,
     185.1300048828125,
     182.7899932861328,
-    181.6999969482422,
-    181.64999389648438,
     179.42999267578125,
     180.6199951171875,
     182.86000061035156,
     186.05999755859375,
     187.35000610351562,
     183.80999755859375,
-    181.80999755859375,
     183.91000366210938,
     184.50999450683594,
     183.07000732421875,
@@ -411,29 +407,30 @@
     201.27999877929688,
     195.13999938964844,
     192.11000061035156,
-    201.69000244140625
+    201.69000244140625,
+    195.4499969482422
   ],
-  "lastClose": 201.69000244140625,
-  "oneYearReturn": 10.44849776424189,
+  "lastClose": 195.4499969482422,
+  "oneYearReturn": 6.084450239279902,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "TKO Group Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUxlbjZBbTFBZDhjTi0wemZBSGtmLXhURXpfeEdVNnNFRDE3cm9HVzNiUlJCSXVpM0RNek1EWEVTbTlic1hUSDlYVkFhQnlqSm0yeUxnMXRiYkJvcUVocERMNWZGNU90WjVTTHEyWHc0eWRtNngyN3AxTzVOWmV3cDhUZ0ZfdkVLLXFTamlnUm5mcGpKamZZ?oc=5"
+    },
+    {
+      "headline": "TKO Group Holdings (TKO) Is Up 6.3% After Lifting 2026 Outlook And Retiring 12.7% Of Shares - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXFVT3VuZVlzdGtUT1o4cmsyX3lzWklzeEZQWjk0UW9nemh5WGRQMFd0NldjM0hPb05lYU1OTlZZZlo4MHZvVGNLaUFLN0t1Y0MzOTlfeHc2dnNiYWRrdkZ6dERNNmpZeFZ4UUFiZ1poRkpFNkhfcnVmYmprN1dsbWlQVWp5end6Snk0aHY4emI1US1aLUFNbEtPWW80U3U2el9XcXFzUlBfZlU3YXdVOTNKYW9JU0xtaXZQRzVIdG5ZOG1GN21oSmVLa9IB0AFBVV95cUxPcVhNSHlPdWZFckRtdWN6ZWM1RGRNbHg2X0JWZFBZcndGY1YwYXozRXVpdXNpeGFwdXhuODdCcklkeWVCY0ZBZENwZWJGQ3BFeXNQMVpfcjVaQnNaTjJ2d2NLdFp6SmxKT1htZWtUSUpHRHBaUUtjcFI5Ui0wOE0zVU5pcy00d3dpUkphNGEwbTgwYmpVa0g2LUtDd0ZVaEFTNi1LbVVQVWIwSnktVTJvakFTalQ4d0lfQTdobWdjbm5uYzRScERVZGYyNV93REo5?oc=5"
+    },
     {
       "headline": "TKO Group Holdings CEO Ariel Emanuel sells $4.8m in stock - Investing.com",
       "source": "Investing.com",
       "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX0o5SHVUbm1iWkxKdUl0Nnd3Nk1mLUV3ZXpJUFdORFh3N0kxQjlGS3U4M3JzOVlySmtRUmc1T3ZSeTJwYnZ3WVZrNzNNWEEtMU14MUlXX1lodER0bU1mbWM0UUNpaVFVa3lUVEp4d29fY2l4UmRLZWZadklPNDAtOC11ODQ3Wk01bHVGMDlWUVlrVEtlRHRpYzBNREs2bHdDTGlIU2FoMWZjam1abURyV19RNkxXS2xjUHNNcg?oc=5"
-    },
-    {
-      "headline": "TKO Group (NYSE: TKO) COO sells shares under preset tax plan - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSXp6OWJ4NGd6cDBkMFFvWE1hTUtpcjZCVE1McmNpcm9kUHUydFNJdTFUb0htNHQ0cUQyVjJKV1lHWF9rSERma005dGRzYy1xVE1ZNlk5NU9lQU85Yl9IRVgtNGVTTlRwcW5WLTVOenhlSlllbnU5czRBMl96VG5wY0JmMWdrU1ZxeE40ODRGZE4ydWltYWtuOC14OU5ENmFrbHVQSUVOZzUwTzZIT2ZqVHFtV1JZQQ?oc=5"
-    },
-    {
-      "headline": "Ariel Emanuel Sells 24,702 Shares of TKO Group (NYSE:TKO) Stock - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWY1d20teUEzQmN4VnE2X3oySTFtSEFsbWZ2Q21Ub05XMUtWR1FOLVJnLWtTSkFYV05Kclo0Z2dFVGxpb1VMT0pYM0Vid1g3cGhfYTBVSWtMVkp5dk02bm13d01uaWgzSzZHOFBiNkFhanU0LWxDTkg2WnduZThLWWY4anI5LWMwRnlZcUZzRFRINFpqR1ZXZDhROE83Y09sSHdNWWl2T1hUbVVJUUtYdEc2MA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmdRS1hRV2Zldzhpa3M2dmVIWXRGVlctcmFYQkpma1o4LTRMM1cwbjVoNTBWTkpyS3BGZDV4b2pHODdoYjRIRHAybW1qMko3NW1KbndKSTdnQWhYN1Byb1NPb3p4ME5Jc2tIUlVCTUVhUXpHdXFvRC1fOVp6YmZVQm9kanNNUndqNlgxVmxwa00wQVhFWk9QME8xRmJVYlk1dDBBTDA1cC14UWhvZ2ZzVk1NekZ6dVRYLUc3aWhuZHoxWVoxbEx3?oc=5"
     }
   ],
   "insight": "Tracking TKO Group Holdings (TKO)."

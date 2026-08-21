@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:19.954Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:24.986Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    1227.3399658203125,
-    1221.469970703125,
+    1257.1099853515625,
+    1263.8299560546875,
     1206.18994140625,
     1237.3699951171875,
     1280.5699462890625,
     1336.219970703125,
     1373.0799560546875,
     1139.5400390625,
-    1122.969970703125,
     1045.4599609375,
     1046.989990234375,
     1091.550048828125,
@@ -24,9 +23,12 @@
     1085.780029296875,
     1064.4100341796875,
     1078.1199951171875,
-    1161.5899658203125
+    1161.5899658203125,
+    1149.75
   ],
   "6m": [
+    1391,
+    1372.760009765625,
     1380.6800537109375,
     1363.31005859375,
     1337.6400146484375,
@@ -137,15 +139,12 @@
     1241.219970703125,
     1257.1099853515625,
     1263.8299560546875,
-    1227.3399658203125,
-    1221.469970703125,
     1206.18994140625,
     1237.3699951171875,
     1280.5699462890625,
     1336.219970703125,
     1373.0799560546875,
     1139.5400390625,
-    1122.969970703125,
     1045.4599609375,
     1046.989990234375,
     1091.550048828125,
@@ -158,10 +157,10 @@
     1085.780029296875,
     1064.4100341796875,
     1078.1199951171875,
-    1161.5899658203125
+    1161.5899658203125,
+    1149.75
   ],
   "1y": [
-    1344.1099853515625,
     1361.719970703125,
     1415.9000244140625,
     1423.8699951171875,
@@ -390,15 +389,12 @@
     1241.219970703125,
     1257.1099853515625,
     1263.8299560546875,
-    1227.3399658203125,
-    1221.469970703125,
     1206.18994140625,
     1237.3699951171875,
     1280.5699462890625,
     1336.219970703125,
     1373.0799560546875,
     1139.5400390625,
-    1122.969970703125,
     1045.4599609375,
     1046.989990234375,
     1091.550048828125,
@@ -411,12 +407,19 @@
     1085.780029296875,
     1064.4100341796875,
     1078.1199951171875,
-    1161.5899658203125
+    1161.5899658203125,
+    1149.75
   ],
-  "lastClose": 1161.5899658203125,
-  "oneYearReturn": -13.579247347344904,
+  "lastClose": 1149.75,
+  "oneYearReturn": -15.566340750196545,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "56,713 Shares in Fair Isaac Corporation $FICO Bought by Mitsubishi UFJ Asset Management Co. Ltd. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcnpNUlo1MTVObXdkV0hkLUpkUklyNXpsOGl6cGZxalVyVDV2NmdnQW44TGRZaFlla3FEQ2paTURMNWtzaEtqeklIR1ZjSHVKcklIUEJYZEJxQU1SRkk4Mm1VMGhvYjltZ09ES0FLOVJ3TmlTUFVaTHpFQi1GRjdKNUR6a3BvTVRkbVV4OXh0ZzhLRUtVZ291Ymx3QjhtMHF5M2tTb0ctOVhfa0pVVlAzTFpQVkFoRjZvczV4MXdFTDBuM1kySW9nV1AzM2tJd3pnZzlOd2o5SThCamJBUF9fNDh0dDR1cHRC?oc=5"
+    },
     {
       "headline": "Fair Isaac Corp. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
@@ -428,12 +431,6 @@
       "source": "Yahoo Finance",
       "when": "2026-08-14",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2tUX0tCSVMtb1pqQnFGcFcySFE2VGdqWEFtejN1bTdDWXVubGJkMEJpM0ZwODJCM2hWdm54bU81RnlxMTJONl93dHluY2hUM2hHSDA3YUdGZXFGRGQtck02R2dtQkk2SlpxdFBZUmlxemtBak1iQ1pJSEdoemphMjNnUXZlQWJuOUlBV2pOU2dULWRmQmFhdg?oc=5"
-    },
-    {
-      "headline": "13,791 Shares in Fair Isaac Corporation $FICO Purchased by UNIVEST FINANCIAL Corp - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcFVxZkVNQ3l3T1kyb010ZVBtSzctMmFrcF9VTkdnbzE5VVBackpXa0x0RUY0WGlrUFpUMmpfWGllUVZoWEhzNDNIRGlKVUdQRjdLclpCVUJISTgwaExGb3BtSTU1X1diNjV2Smo4cmpVcnJ4UmQtQ0xYV0FLanpsYV9yb1JKLVc4SFk2emExWVpPMmVQdk9oMjhOaEppZy1RZXgyYUpYdmQtZXNhT0RHeUJ1UnRVTllVaE5Fb0EzQnBvZUdYTjhaUFJ5cGhfN21UdHZMRWRJQQ?oc=5"
     }
   ],
   "insight": "Tracking Fair Isaac (FICO)."

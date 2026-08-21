@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-20T02:38:20.056Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:25.299Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    50.61000061035156,
     50.220001220703125,
     49.970001220703125,
     51.02000045776367,
@@ -24,10 +23,10 @@
     54.38999938964844,
     52.209999084472656,
     51.720001220703125,
-    52.08000183105469
+    52.08000183105469,
+    51.380001068115234
   ],
   "6m": [
-    62.59000015258789,
     62.11000061035156,
     58.81999969482422,
     59.36000061035156,
@@ -158,10 +157,10 @@
     54.38999938964844,
     52.209999084472656,
     51.720001220703125,
-    52.08000183105469
+    52.08000183105469,
+    51.380001068115234
   ],
   "1y": [
-    139.9600067138672,
     140,
     139.67999267578125,
     137.25999450683594,
@@ -410,12 +409,19 @@
     54.38999938964844,
     52.209999084472656,
     51.720001220703125,
-    52.08000183105469
+    52.08000183105469,
+    51.380001068115234
   ],
-  "lastClose": 52.08000183105469,
-  "oneYearReturn": -62.7893688676891,
+  "lastClose": 51.380001068115234,
+  "oneYearReturn": -63.29999923706055,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "FISV Stock: Jana Partners Cuts Fiserv Stake Amid Push For More Board Changes - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeW91WW9mcGJYMU1wMi1pYUtPaHlOZ3E3d0tiTE5STjk3SExKZTE4WUpDbVNiVTFaZVBQZlUyUHhXV1ZGUExuNW5NeVpXWERpSXVxUGlDclZJel96ZjFkb3BSQkwtRGRyVmFvTVpSaGV1NUNRVzA3Yk5uaUxKTlIxV0RCcXlLS3FoZzB5TDRrSHBDVUpJaVNBeG53?oc=5"
+    },
     {
       "headline": "Fiserv Reports Second Quarter 2026 Results - Fiserv",
       "source": "Fiserv",
@@ -423,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUtGQUlTVGE2RExIUUFZazk0bGdoUFVoem9aWUFTN1hNSU5lX0JhNEp0NjA0NVZWVkNQeTlWbGY2WGdUYmtfSEUzQzFCRnZsV091NDRNX0ZiYWFjZHkwVmdwRzkxLTB1bWY1dGhVYVgwYzlWTVVvUWxKTXctbmpGTnBYZlJWV2lpQkh2cVI5M3FKMEk2Y2NCWHJKWEM3dkZzdDREc2lWNi1iZw?oc=5"
     },
     {
-      "headline": "FISV Stock Clocks Best Gains This Year: Retail Revives $15B Debit Network Card Sale Speculation - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmt4dTZhWHVjSV85N0ZDVUl2VVczRmV1NmdqczdtVEZ3WGo3WXYtaWU4U0YyX0QzN29DdnpFY1YwcU1uYVN5ZERLSFlyT1dfTUxsSWJlNGpSbm9xeUl4UFI5dWM1V1FBazNUcGgxN0wzQy01TlYxMlJfQTVDT0pqZ3NSOGxLUVZWMjhJekRteDBOQW4wdWhTbg?oc=5"
-    },
-    {
-      "headline": "Fiserv Stock’s Real Problem May Be Governance, Not Payments - Forbes",
-      "source": "Forbes",
-      "when": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXA2UTdNOWMzTlVpVDViRldLMGhPWTJkbHV4VWlWSm05VlRtTDJZSGhaVzRRbkczWk9Xa2ZiVnppbDdaeHVOLWFobHlCdEc3d2ZzOWFCOHlkUFlSejFOeThlci15QV8yWEhiTkIzRjVnOTNjdm0zbW1Gd0FodktuZG5aenBQOVRJTTF4Qm1rVHFjbFdMazlqNUtDUHBIVzhjdGhiNnRIekw2UlU?oc=5"
+      "headline": "FISV Stock On Track For Worst Week In 2 Months: Truist Sees More Upside But Flags These Risks - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQXJudDk0VjF5Z3pxNi1ObXpONWtCQmtKdDNIOU4xd1UzYTVTQW5yWlU1Q2QyMHNwa3k5NEUtYW43M05YU1hLSno5YUk5R1Vhdy1GZV9ha25ycnhBTVFpREtiZ1ZYVEgtZ2J6QzNvZDdsNzN6ajBYZUR0YWZqSlAyd1Rsb1VzNUx2YUtfaFJMenk3RGctWFNqeEhrOUFhVWc2bno0NWRQVGtYb1BsRlJ1N0RnSjh2SUEyalFMVHl3NGVsc053T0lQQ1N6cy1oSS15Tzk3X01kbVJ4OUNRbWp3a21Da1BaVkhi?oc=5"
     }
   ],
   "insight": "Tracking Fiserv (FISV)."

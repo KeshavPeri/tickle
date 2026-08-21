@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-20T02:38:08.990Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:11.656Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    90.5,
     91.62999725341797,
     90.08000183105469,
     90.75,
@@ -24,7 +23,8 @@
     91.94999694824219,
     90.20999908447266,
     91.45999908447266,
-    90.87000274658203
+    90.87000274658203,
+    89.69999694824219
   ],
   "6m": [
     93.93000030517578,
@@ -137,7 +137,6 @@
     94.06999969482422,
     92.9800033569336,
     91.93000030517578,
-    90.5,
     91.62999725341797,
     90.08000183105469,
     90.75,
@@ -158,10 +157,10 @@
     91.94999694824219,
     90.20999908447266,
     91.45999908447266,
-    90.87000274658203
+    90.87000274658203,
+    89.69999694824219
   ],
   "1y": [
-    86.05000305175781,
     86.27999877929688,
     85.94000244140625,
     84.05999755859375,
@@ -390,7 +389,6 @@
     94.06999969482422,
     92.9800033569336,
     91.93000030517578,
-    90.5,
     91.62999725341797,
     90.08000183105469,
     90.75,
@@ -411,29 +409,30 @@
     91.94999694824219,
     90.20999908447266,
     91.45999908447266,
-    90.87000274658203
+    90.87000274658203,
+    89.69999694824219
   ],
-  "lastClose": 90.87000274658203,
-  "oneYearReturn": 5.601393984756816,
+  "lastClose": 89.69999694824219,
+  "oneYearReturn": 3.963836598669437,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Danske Bank A S Reduces Stock Holdings in Colgate-Palmolive Company $CL - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUW9SeWFiTEZvZTlKV2RuQzhtM2ktYnVVQU5ucmoxZWlsSUd5OEdEZnIweWNyQTQ0T0tfVkF0b2FLVjNXeTRFSzNBOG9TS0JhSVFFbDU1RVNJX21HRHA3TjZuNzNGVVlMV1J3YmFRdTFsenVYWHhSLTROSHZrYUNGbllfMm5SeFR1U1JiS2haQ0QzazdtLVNFb2diSTFmTXpBS2tFSEo0NlFCOTF3V1g5NkpCZ25UNDBRbHJ0TGhBV25kSDlHaEphR1pSTQ?oc=5"
-    },
-    {
-      "headline": "Colgate-Palmolive shares fall over 2% after Investor Day. What Goldman Sachs and other brokerages are sayi - The Economic Times",
-      "source": "The Economic Times",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZTlCaGFsNnNYbTFKSEFTOW0xby1uQzM2c01KWHlMZXZGV2hIQ1N6QVFiaHpMV0h3QlNqdGpRWENFMXlLTklqLU9VTWdSSUZsNzRsMmdoUEY5bHdUYkk4eGZtUTVEenFkV1ZmOFBTWnlpZmQ5UFkxbmdkZ2R2OU1Xa2NrQVM1eGdGRTNVUEdLMjBwMzB5Q05Fd3U1NnQwMXVId0NNT29ZY3RUOHM2a1oxT1lGVlQ3MmtkLXhRXzlId3JEcDV3SHZWcnFleW9iei1EaUlnbUdoelBRQjFYUGM4Vi11MlIyTEJGVC1OdHJEV3Jhd3VSZV9RZFQ5UWxvRk5mZHVqc0JXWUQzLWNp0gGSAkFVX3lxTFBvS2hwZV9LQlotYmo1WF9lcHZINHI2aVMxZ1VjLTQ1SVVEdjZZYW00a1BHWGFLOTZlMlN5V2VRWGhWa0dDbnFOWTQxRmFPXzhZczhaVHprcnJvUm56eUNxckhQaGIwWHhSR1o1WFBOQ0FNdWQ2d1NqTmFJdjd1b0gxaVZ4a0tObkRwYXh5cEVacGt2SUNvaURyLTNHS001ZWF6YXpsWEhCRU9ZT0h5QmplTEFwbXVKZlhVTVdlVGV1VmZJbGZTZmJ2c3REbmZsMk9ESzJYUFBPSEQxQkhNY0dfeFkwTDFPSkZwWDhhMWJGTG83M2hIZTlRWHhsaUtVaU5BX3V3bGxDNUtzbHZCaklKVlE?oc=5"
-    },
     {
       "headline": "Colgate-Palmolive Stock Slips Below 50-Day SMA: Time to Be Cautious? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUNnV0p4WUxxZFBnUk5oLThxUWhPT1doMU5Pcy1ZM0p2NXYxX0JQemxzT1J0QWo3TVI4cEVZNXhBTS0wcVZabzJiT2RyNmg5S1hkUEdCRFQzUk9xTGxudklUQXN3dExaZHNXZDNtOE9LV2xjeUw4NEhWTDFFV2ZXX3VQV3pVTE1OeVduQTFoRzVfR3RGOVo4TkVQOWhtYWdmTkE?oc=5"
+    },
+    {
+      "headline": "Colgate-Palmolive Company $CL Stock Position Lessened by Tocqueville Asset Management L.P. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN3lpRmlkMk4ybVJWUXZzcHJUOVgzQTEydlBUUjU0bkZvWGlHYXRuYTZKUmFTSEM1b0NZSmFjYzdHbWM5S19BcURacVczU0p0NG5MUGlscV9kaVoyQnZaZEZhX1YxR19NcS1MUUlTempBSFViUGNrdnVocVFsZkxBQnB0ZUFrekthMkxPRm9wTzl2R192STlmYzdvVEp3SjFOSHVjN0t6dFFTcWk1azlzZ3RWZ21rZGZiVzRmamdCVnlualBaMkdpMWxjUER5UmtVM3E2VkZheENNa1dzYUZzLVVB?oc=5"
+    },
+    {
+      "headline": "Colgate-Palmolive (CL) Stock Could Trade At A Discount After Its 32% Run - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWticFJEVHNma1Jubl9rUE5FS1ltSk1nVGt1YjFzNEszeHJPblJlWThZTnlvZkNHamhfOERJYVc3dUxaeWZSaURpM2JOc1M1cVBOMksyOHowVnp6eG1PUlM1RTVmckdDbTFQUHhybWo2ODZhbHdWTUJfcUYyU0F0YTN4aTJjTUVkOWRHSlN5Q2hyekZFSi1JaTdVSXFJUQ?oc=5"
     }
   ],
   "insight": "Tracking Colgate-Palmolive (CL)."

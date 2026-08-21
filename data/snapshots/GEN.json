@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:21.704Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:27.070Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    26.110000610351562,
-    25.579999923706055,
+    26.68000030517578,
     25.06999969482422,
     25.84000015258789,
     26.739999771118164,
@@ -24,9 +23,11 @@
     28.479999542236328,
     27.40999984741211,
     27.639999389648438,
-    27.540000915527344
+    27.540000915527344,
+    28.174999237060547
   ],
   "6m": [
+    24.600000381469727,
     25.170000076293945,
     24.670000076293945,
     23.549999237060547,
@@ -137,8 +138,6 @@
     27.010000228881836,
     26.739999771118164,
     26.68000030517578,
-    26.110000610351562,
-    25.579999923706055,
     25.06999969482422,
     25.84000015258789,
     26.739999771118164,
@@ -158,10 +157,10 @@
     28.479999542236328,
     27.40999984741211,
     27.639999389648438,
-    27.540000915527344
+    27.540000915527344,
+    28.174999237060547
   ],
   "1y": [
-    31.440000534057617,
     31.190000534057617,
     31.579999923706055,
     31.1299991607666,
@@ -390,8 +389,6 @@
     27.010000228881836,
     26.739999771118164,
     26.68000030517578,
-    26.110000610351562,
-    25.579999923706055,
     25.06999969482422,
     25.84000015258789,
     26.739999771118164,
@@ -411,29 +408,30 @@
     28.479999542236328,
     27.40999984741211,
     27.639999389648438,
-    27.540000915527344
+    27.540000915527344,
+    28.174999237060547
   ],
-  "lastClose": 27.540000915527344,
-  "oneYearReturn": -12.404578728634466,
+  "lastClose": 28.174999237060547,
+  "oneYearReturn": -9.666563787662872,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Travis Michael Witteveen Sells 440 Shares of Gen Digital (NASDAQ:GEN) Stock - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2xBYmVmdGhwWHRNYjZXcTRsbGswSjFhUy00eEdLcDljUmhEcklWY3NMeEM3T0VOX3p5LTA3aDN4UjFQaVlEY01lUTZwMEgwMGpVdUJlaUlubWNBWnF1bTVySTZjZ3F4dHFpU1NER09SS3N6ZTBqTlNXTWtaVFhscUZtamJHSk9mUUJtcXhMWlgzaks0X0kyejZ4bFdNZ1hndkdmX0swaVJXbVVWZmRIY3VDQkN0S2RVdEFmTU1McVREMFl0?oc=5"
-    },
-    {
-      "headline": "Gen Digital (GEN) director lines up new stock sale - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmtILU85NjM5dllIcDZ5cmgzUGgwTm9rNmhXWS1PY1ZsMWp5X21wZjFTZzBid0xSSV8yVU12NWJ4bmtTRVg4eTl6MFhHZTNSUUpvVURPR280VUpwS042M0pXX2tkQWttamFiV192Y1hDTzZmSFhxZDZNQlJ0cGVYSTJnb2lIZWFFWGNieVBTVXAtUXBtdGc?oc=5"
-    },
     {
       "headline": "Gen Digital (GEN) Stock Looks Below Fair Value On Cash Flow And Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-05",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYVRyU0RLTEUzX1NSSG5ycWs1dDZ2cXYwTkkyNXpERzRFSlBubmFtd1FmTC1BOXlKOG5wQjBPdUpaeE5rSGp3LXZDb1F3SzZTMWdsTjNOWlh3RkhuSVEwbGl4V2dBWTlwOUp0NFk5UVVLSEdtVlRqNEZoVjk3bnZCaVlMTk9xbDcxbzBqbUtRQ2cwOXpRVElF?oc=5"
+    },
+    {
+      "headline": "Deutsche Bank AG Acquires Shares of 5,891,498 Gen Digital Inc. $GEN - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3RiWmdCQXZWVTh4Yk9zQ2EtRFlGY0ZLemJmTzc3ZDVTQnAtSW5QS0hpTXh6N3JOaHB3dkVHYmxWVTJCcktTVXZ2dmIwVWh4bHA4Nm9BM2swTjRVT2xYMmJzQVFHamRjR2ZfS0YyNTBuX1pDdlo0Ukh2aVNmM0drZFJNX190czJWZGVfRDk5TW5KTVdaV0tNVzhuUEhoQ1dLMXh3REkyNGhnenFOdHhxNWJvY01vNExpc0NZcFJ5ZjBPQQ?oc=5"
+    },
+    {
+      "headline": "Gen Digital Inc (GEN) Stock Down 3.8% -- Now Undervalued? GF Sco - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYWp3VGhhRzZtN2p4bmxjajQ3OGNfUjlTZDNZUXplU2ZLRzhkOU9LMm5CTW5hZHNHaEt1ajByRkVraW9EbHpfdFlvVlBhS3BpTmI5TTUyQlc4WGQyejJsc3lhcDRvcnNhNGdIQTFoLWk3X05sNnNhc0c5X1Iyb0VHRlY4RVBwOEFWSVc0d2F1YTZVMjgxOTBvWTdDWDgwclJnQS1STzZR?oc=5"
     }
   ],
   "insight": "Tracking Gen Digital (GEN)."

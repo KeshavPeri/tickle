@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:03.068Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:03.991Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    50.61000061035156,
-    49.63999938964844,
+    50.220001220703125,
+    50.04999923706055,
     50.119998931884766,
     50.939998626708984,
     51.38999938964844,
     54,
     53.77000045776367,
     52.4900016784668,
-    51.45000076293945,
     53.029998779296875,
     48.869998931884766,
     50.099998474121094,
@@ -24,9 +23,12 @@
     48.13999938964844,
     46.939998626708984,
     45.84000015258789,
-    50.54999923706055
+    50.54999923706055,
+    52.939998626708984
   ],
   "6m": [
+    55.900001525878906,
+    56.20000076293945,
     56.86000061035156,
     53.7599983215332,
     50.400001525878906,
@@ -137,15 +139,12 @@
     50.13999938964844,
     50.220001220703125,
     50.04999923706055,
-    50.61000061035156,
-    49.63999938964844,
     50.119998931884766,
     50.939998626708984,
     51.38999938964844,
     54,
     53.77000045776367,
     52.4900016784668,
-    51.45000076293945,
     53.029998779296875,
     48.869998931884766,
     50.099998474121094,
@@ -158,10 +157,10 @@
     48.13999938964844,
     46.939998626708984,
     45.84000015258789,
-    50.54999923706055
+    50.54999923706055,
+    52.939998626708984
   ],
   "1y": [
-    77.45999908447266,
     77.41000366210938,
     80.93000030517578,
     80.41999816894531,
@@ -390,15 +389,12 @@
     50.13999938964844,
     50.220001220703125,
     50.04999923706055,
-    50.61000061035156,
-    49.63999938964844,
     50.119998931884766,
     50.939998626708984,
     51.38999938964844,
     54,
     53.77000045776367,
     52.4900016784668,
-    51.45000076293945,
     53.029998779296875,
     48.869998931884766,
     50.099998474121094,
@@ -411,29 +407,30 @@
     48.13999938964844,
     46.939998626708984,
     45.84000015258789,
-    50.54999923706055
+    50.54999923706055,
+    52.939998626708984
   ],
-  "lastClose": 50.54999923706055,
-  "oneYearReturn": -34.74051144522462,
+  "lastClose": 52.939998626708984,
+  "oneYearReturn": -31.61090799350777,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Alexandria Real Estate Equities Rises as Investors Weigh Balance-Sheet Steps and Lower-Yield Tailwind - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc3UwcnZ0QmE1RTJ0QndVXzR0TGw2ZXBUSkRIMTRISy01VW0zMk9ub3Y0cUVJTkF3aDJqWUtRMzJSeS0tY3FScWhuVmtJQUdfLXdkVlJGNTVoTmUxbEZWZkVuRDgteFpWd2FDMXllQXBGaGdiMUtGSTFGNGVhQ2dTNjdFTkhLUk1TQXVYR1FDdkYzWE83bGFhM1Juekd2a1lMYW1tZUtQV0o4aXIzcW5WNnJreU4tNUZSbWUzQ2dJX3RuTC1NbWdERWVFcWE3WU0?oc=5"
+    },
+    {
+      "headline": "Alexandria Real Estate Equities Inc (ARE) Stock Up 4.7% and Stil - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeHlVU21kanZlTlVZSlpwRmdnSXZmMExBUy1McEo3dUR3S2NRcDVwTVBhWk1COTNZRlZrdnh2cW1LY0dCU0pjaVNJcnJQSjQ0Ti1ndVgtNmVlNzVQOFh4Y0c4Z216TmowY2NDV2VmLVMzUUJZVnNLVFRDTjFlMnhORnhTNFJxLWJ6aFM1a25hbGp6UFZ0VGROUjlaVXR1WGQ5a3lBckN0V2V6cnlfbF9pSGJzemx5Z3plaVJ0TTNBLVR4cUxDSUE?oc=5"
+    },
     {
       "headline": "Alexandria Real Estate Equities Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX3I2eDRod0I1TXd3dlZRNmZLQ1JoVXpRajZvdlJQMk93eUpCdHRiSUQ1OF9OZWFmWkRkN2Z0XzJNdVRWUGZESXRsWkRmTXdUTTZXV0UxdWw0Q01rdVNVVE9vOThCc0s1cXB0M1Q4b25yci1IMTVWYWV2OGdFME5SSWNWOVZ6XzFQczRZZXgzdFllU21SSVpNNzZrSWpGajBKMmpsY3J4SGhiaTlJalJZUGxPa2YtSkVCeERxNHVDaGQ5WmhldUZ0Z016b0JHYjNNazJuLTJkdUVPc3FuVlhVOA?oc=5"
-    },
-    {
-      "headline": "Alexandria Real Estate Equities (NYSE:ARE) Chairman Joel Marcus Acquires 5,000 Shares of Stock - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdVVEY2hZanRjQ2d0M1A5M0k1emMtaHFuTTZyeExkT21QYU1oSnRDVlNFRnRHT2lyenNKbjJnUjJlUGpSemtCamM5WmkxVC03X0lGTDRlOE5Md2VLQm5WdFFfMjJoblBlb2ExYUNMQ0VnbjNXbm1YWU9SbjZYZ25nVkcwQVZsQmpUdU5FTGxTd0ppVVhza1VuXzhYZVNjdjB4UEdZNWx0UDYtbkZuQlo3Z1Z5VlNha19mcWhIRDVETFM4Q0VlYUljWVBMSm5nSTc4S1RmbXNDU1FIWlNo?oc=5"
-    },
-    {
-      "headline": "Alexandria Real Estate (NYSE: ARE) insider buys 5,000 outside trading plan - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOem1uVkhSQkhvRzNmcG9zZDFnSzdxdjliUE5WSVRkRExYVG5uckVyc0hpa1hCNnN6dkpURTVhdDBDTVlqWE02TnBxNkZkSEhUaEczMGhmQWxrVnVRT1FTQVVKNlZkc1A3THRKbDRWeGVVWHpOWVQySm9lQTg4NkVURDFwS0prWXgyZTlMOFlXN2szZ2JvWmlhSmJvRm9QU0lnMmRYNnhobXZmamlfZ0h2ZDNPbXkzUDlaMnowMG8xUXFYd2cxWVdR?oc=5"
     }
   ],
   "insight": "Tracking Alexandria Real Estate Equities (ARE)."

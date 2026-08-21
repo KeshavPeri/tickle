@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:17.634Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:22.307Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    73.05000305175781,
-    74.45999908447266,
+    74.05000305175781,
     74.62000274658203,
     74.91000366210938,
     74.69000244140625,
@@ -24,9 +23,11 @@
     72.36000061035156,
     71.91000366210938,
     72.22000122070312,
-    71.98999786376953
+    71.98999786376953,
+    72.1500015258789
   ],
   "6m": [
+    67.62999725341797,
     69.30000305175781,
     70.22000122070312,
     70.31999969482422,
@@ -137,8 +138,6 @@
     75.04000091552734,
     74.62000274658203,
     74.05000305175781,
-    73.05000305175781,
-    74.45999908447266,
     74.62000274658203,
     74.91000366210938,
     74.69000244140625,
@@ -158,10 +157,10 @@
     72.36000061035156,
     71.91000366210938,
     72.22000122070312,
-    71.98999786376953
+    71.98999786376953,
+    72.1500015258789
   ],
   "1y": [
-    65.70999908447266,
     65.41999816894531,
     66.52999877929688,
     63.38999938964844,
@@ -390,8 +389,6 @@
     75.04000091552734,
     74.62000274658203,
     74.05000305175781,
-    73.05000305175781,
-    74.45999908447266,
     74.62000274658203,
     74.91000366210938,
     74.69000244140625,
@@ -411,10 +408,11 @@
     72.36000061035156,
     71.91000366210938,
     72.22000122070312,
-    71.98999786376953
+    71.98999786376953,
+    72.1500015258789
   ],
-  "lastClose": 71.98999786376953,
-  "oneYearReturn": 9.557143306643031,
+  "lastClose": 72.1500015258789,
+  "oneYearReturn": 10.287379311068687,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +422,16 @@
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBRZGh6em9ROFl2blpTZWstNHl4SDFsellFeDcwMzF3cXN4eGVfbHROZHVVcXl5clFSckpXSjY0VnMyM0k4TFE?oc=5"
     },
     {
-      "headline": "Eversource Energy stock holds around $72 as institutions add exposure - Ad-hoc-news.de",
-      "source": "Ad-hoc-news.de",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRm9oQmR2TF82OGR5T3phbzQ0Y3FlOW5sRndMZlFwODNfM192ZTQyQ0NFeWdqUVJNUU5kOHVVZzMzLXI4NDZTUDJOVjVDZmxLTFMxdFFNRjhMdDA5c3l0OXBfNFk5UmoxLTR4OUZsTlBnTS13VFJnQjJRYzBDaUQxbWpnMm92bDl1aVNDWmtSNUJ1WXRSMzZhWFU3UW9lS0wzRVRwV3pvLVlXLW5Vb1ljUlVhX1pmNk5vZVNlbzJqbHkxZkxFUXlTT0pkcw?oc=5"
-    },
-    {
       "headline": "Eversource Energy (ES) Stock Could Trade At a Premium After New Project Win - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3djUDRheVhaZ0t6emhKTGJrN0k5YnUzSzhId0pTNXFxN1JNa3pPb2pTWDVnYUZDaWRKazlxVENhRHItYUUtTjctMWVNUWQ4Q05OZmpOU0kxZ1k4ZjJfTFVNMEZyNUYzeXBBUk9XS2g3RXhzSWFaQlpnaUNUc1laemdJY0JzU1ZRUU1DY3pORGFMbmRDeU1RVk9fMjBuUQ?oc=5"
+    },
+    {
+      "headline": "Eversource (ES) Stock Could Be 23% Overvalued On Dividend Limits - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaXJvOWZpMDVSZy1wQmhyaE5aamotVmRYTkVVYVg4UFhyZ2hGS3YxWE9jVlY3OWZvb2J1c3JzeXlUYzVBZUNPNi01cnE3T3JtV05jY1RwaXBqUVJ0bmM1LVlwS3VBaVdSVks1TFk3TDV3WmJEd1FlODV4Q1pQT0RpWW1qd2xSRm5waHBRTWROTUNXdzkwUkxFS1JqQThDTUh0MnNTY3FZZVhIUnFkMExsakdUWWMwWmlDbnY3d0RuVE1iMEdKQ3pjeE44cjhwQdIB0wFBVV95cUxOd0JRRlZFREV5VVZ5MnhQTk9Sb2wxVnZBd1F6d25fOE5DbUx6QW1UNGZyQkJwemVLUllMLTYwdWN4WkIzaHI1RHEzNm9mWDhsV2FFQmhQd0JHcWZBM0djc0NTU2t1QklhaU92Z3JvOVFDdjY3WWtKa0Y2TUJoaHRoaWJpTXJqb0ZGazJLbmpmdDc4TDE1dk8tN08wTUJzdGY3LTY3eXA2OHNuTVZvSF92ZkZuTWlDNm93NjhtemVfVXpTdmFUUUN3dVhDWkNkZ0lra05j?oc=5"
     }
   ],
   "insight": "Tracking Eversource Energy (ES)."

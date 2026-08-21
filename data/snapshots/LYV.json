@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:30.578Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:38.419Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    177.8300018310547,
-    177.9199981689453,
+    180.22000122070312,
+    180.86000061035156,
     176.05999755859375,
     177.24000549316406,
     179.39999389648438,
     180.8699951171875,
     184.42999267578125,
     183.55999755859375,
-    174.1300048828125,
     181.69000244140625,
     183.6999969482422,
     183.52000427246094,
@@ -24,9 +23,12 @@
     188.4600067138672,
     184.44000244140625,
     179.83999633789062,
-    184.19000244140625
+    184.19000244140625,
+    182.02000427246094
   ],
   "6m": [
+    140.83999633789062,
+    147.91000366210938,
     149.32000732421875,
     151.11000061035156,
     154.8699951171875,
@@ -137,15 +139,12 @@
     179.85000610351562,
     180.22000122070312,
     180.86000061035156,
-    177.8300018310547,
-    177.9199981689453,
     176.05999755859375,
     177.24000549316406,
     179.39999389648438,
     180.8699951171875,
     184.42999267578125,
     183.55999755859375,
-    174.1300048828125,
     181.69000244140625,
     183.6999969482422,
     183.52000427246094,
@@ -158,10 +157,10 @@
     188.4600067138672,
     184.44000244140625,
     179.83999633789062,
-    184.19000244140625
+    184.19000244140625,
+    182.02000427246094
   ],
   "1y": [
-    161.89999389648438,
     162.47000122070312,
     165.72000122070312,
     165.83999633789062,
@@ -390,15 +389,12 @@
     179.85000610351562,
     180.22000122070312,
     180.86000061035156,
-    177.8300018310547,
-    177.9199981689453,
     176.05999755859375,
     177.24000549316406,
     179.39999389648438,
     180.8699951171875,
     184.42999267578125,
     183.55999755859375,
-    174.1300048828125,
     181.69000244140625,
     183.6999969482422,
     183.52000427246094,
@@ -411,29 +407,30 @@
     188.4600067138672,
     184.44000244140625,
     179.83999633789062,
-    184.19000244140625
+    184.19000244140625,
+    182.02000427246094
   ],
-  "lastClose": 184.19000244140625,
-  "oneYearReturn": 13.767763672167685,
+  "lastClose": 182.02000427246094,
+  "oneYearReturn": 12.032992493919306,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Live Nation Entertainment (LYV) Could Be 10% Undervalued Following Its Recent Pullback - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlJva2NRRXlEbHlTZ2pObWJYVGhnblFSNTdVaHNWZmR4b1lKY3Z0dnFyMWRnVDZNRnZyUGQ2RDlzaUhRYk4yaHNlUEsyYmxXemFabUctb2dWeHpadXhYVXBCdnN3cDV6SXZWSENwTXZJdVZaOU5FeW5sc0thTzRxM09yNTdvcXVLSHZCaXNSOF9vUkZMTC1CaTJGSV9yVkduTkE?oc=5"
+    },
+    {
+      "headline": "Mitsubishi UFJ Asset Management Co. Ltd. Invests $71.15 Million in Live Nation Entertainment, Inc. $LYV - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbUlBQm55QTF1RXI0Z0JneUpGMUxGeFY0bmp2T25LV2lTS3pWNDhKb015aWtsMDlWdVI1NFhqMjM0NVF6ZzVMdVJodjF2VF85Yjd1NE5nZUtBMXNoR1d3UW5nUkhQOEVqREQyZ0lISjBtaFhWT1lrZlExWnNwa3NyTDVlOExmNWRIUlJPUGFHR1h5LW0yWjVvTXFLNlNnTnBaWU1qTFJSVmpya0I0MVE0enNjak5idUtZbnpCUzVDRkhzMHJyMElrdTluX1BGQzBrX0lSNzF4S21LeHJGZElDam5qcDVwemJIRHMxSndR?oc=5"
+    },
     {
       "headline": "Live Nation Entertainment Inc. stock outperforms competitors despite losses on the day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZWhvYzhLZU4tSXdEUkZqRlh4Z0dLdnluZFVTQkpQeE1RbkRlbVhFSVNybEpfamR0aGtyVnVIRDh5Z0Z2YkNGLWRLN1R3b2JaOE4zTFhpVXAzTE1xaXhTa3FOSEpJV2FpZlQxOEprVGNsQXRUVkVXOGJvdjdXeExMUWFSdW1VWE43U3I0T3Y1WGNoS0NwbU9WaVBhNVFjcU81eTk2ZmhjN1hzV3V5Vi16Q2w1Yk1zZmU4UzRHY2FXNzRDTjhhMnNDYkFmOUptZmJieGNSbTl0V0lYUGh0OFVWTUczZER3WTFLd1RZRV8tV2huZE1Fc1E?oc=5"
-    },
-    {
-      "headline": "Live Nation Entertainment (NYSE:LYV) Raised to Hold at Zacks Research - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSjU3djZuVVFPeTBtdFk0aE1pa2FqMHZ5c2NBaDlYRUpici1rdC1UY05fQTlPRHVsN3RWUWFRNV9RR1lCaU5HWW1Lb1hIVms2bmJzR1R2WkhENVc5TVJmbHBocnpSSnRSd2dYV1FhdktsS1lUQnA3MHI5c1AzWVBOVDd3S09PZGQ3R0hEdUNZQzdfbk04c3Z3d0hyUk15d20zYjdkaHpuNkZsNU0xYUtJYWctRGRkQ0VHNkpnZQ?oc=5"
-    },
-    {
-      "headline": "Are Wall Street Analysts Predicting Live Nation Entertainment Stock Will Climb or Sink? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeE1sYmxvZy1VbzV3RmRxRFhaYmtXRTF6Sk00Mm11NWc5alVwSXdzOGtkUEZzYWtBd3pMZFE0VEtrd1l3emZwQlJfZ1dTMnFCOHNhQjdxUkd6cXE5NmRfbzJHSGw4YUJCZTNhNWFmVDNuNjZJNGJUeFFoMTA1UUUwSkZLRGo5WXpPZWZBbVNnakFGbXY1SVN6S0ItYVRuU04wUXRZ?oc=5"
     }
   ],
   "insight": "Tracking Live Nation Entertainment (LYV)."

@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:40.946Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:50.716Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    51.849998474121094,
-    50.099998474121094,
+    52.720001220703125,
+    53.209999084472656,
     50.349998474121094,
     52.90999984741211,
     55.77000045776367,
     58.380001068115234,
     58.2400016784668,
     57.060001373291016,
-    56.58000183105469,
     57.790000915527344,
     59.810001373291016,
     58.58000183105469,
@@ -24,9 +23,12 @@
     57.599998474121094,
     55.689998626708984,
     56.9900016784668,
-    59.25
+    59.25,
+    59.68000030517578
   ],
   "6m": [
+    66.1500015258789,
+    66.93000030517578,
     68.87999725341797,
     65.12999725341797,
     66.01000213623047,
@@ -137,15 +139,12 @@
     53.75,
     52.720001220703125,
     53.209999084472656,
-    51.849998474121094,
-    50.099998474121094,
     50.349998474121094,
     52.90999984741211,
     55.77000045776367,
     58.380001068115234,
     58.2400016784668,
     57.060001373291016,
-    56.58000183105469,
     57.790000915527344,
     59.810001373291016,
     58.58000183105469,
@@ -158,10 +157,10 @@
     57.599998474121094,
     55.689998626708984,
     56.9900016784668,
-    59.25
+    59.25,
+    59.68000030517578
   ],
   "1y": [
-    80.19999694824219,
     80.2699966430664,
     82.58000183105469,
     81.43000030517578,
@@ -390,15 +389,12 @@
     53.75,
     52.720001220703125,
     53.209999084472656,
-    51.849998474121094,
-    50.099998474121094,
     50.349998474121094,
     52.90999984741211,
     55.77000045776367,
     58.380001068115234,
     58.2400016784668,
     57.060001373291016,
-    56.58000183105469,
     57.790000915527344,
     59.810001373291016,
     58.58000183105469,
@@ -411,17 +407,18 @@
     57.599998474121094,
     55.689998626708984,
     56.9900016784668,
-    59.25
+    59.25,
+    59.68000030517578
   ],
-  "lastClose": 59.25,
-  "oneYearReturn": -26.122191702528948,
+  "lastClose": 59.68000030517578,
+  "oneYearReturn": -25.65092462809908,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "3 Reasons TRMB is Risky and 1 Stock to Buy Instead - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
       "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVRHY0ZKdm5haG05WmJxeHpRbGp3WTluM25NTXc5Z0RNWS1HVG9rR3k2c3k3VWhsek9lVTRsand4ZjdCQ2R1emd5OVF1N1J0YXNheXYtODZVX3psWmNzSEVYLXpSenVSX3NoVU5YUmNRbEpKY1A2YVNacXFWNFF3MUhSUXFQNFoyeURkTTVEank?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwLXlDS2dFcERwM0hkT1VnYjVJX05lNDRGOXlKY1VEdW5yVlN3MFQ3T1ZzMExwMkpNOVZoMTI4eGhVYldwMm5SZDBVTEFwVGtM?oc=5"
     },
     {
       "headline": "Trimble Inc. stock outperforms competitors on strong trading day - MarketWatch",
@@ -430,10 +427,10 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN2RFdFFPTzlXXzczcmUydGc1VHVjZUZ4bkZZNDlxVVc5Z3BZUEZYU1FMS1Q5d2czY3U0OUY2Si1ONE5hMUI3R3dReUZHdFRqS2pEVmJJcTRFenNTTm5FQUZKTWVIVEFvbWpHci1tcDZZdUs0R3JIbFJpUmprOWNpdV9YRld3d19oTFdFeGZvczJGWTJMLVJLV0tXLUhBZ0JmajR2YTRSWklnRUJVS3NSTk1rOVNLLW5KTUdzcHVZdW4zSVdVV0JtRmJCejd5Qk5kRmFYbEV6R3Q?oc=5"
     },
     {
-      "headline": "A Look at Trimble Inc (TRMB) After 4.0% Gain -- GF Value $66.98 vs Price $59.26 - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdXVpOW8xZkRGVFVzV0ZLNDUtbW9RSTQzbHo5OXRWRFhRMzFKR2I2anZReTFKV09hTFJTVG9NRGVxaEpvRFZ2VWdFNFNYeDVMOGttdzcyQjl2bkFqSG5fczFGUFpBbDlRWXZaVEtuOEhOS2lxcVlFNTZBWkdRckx0UVFFSDMzOVhpQlZDbV81dG1BRXJrdWhDZXdnblZMb3d1dEhyenRoOGJ2MnM?oc=5"
+      "headline": "Trimble (NASDAQ: TRMB) holder plans sale of 10,941 shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONE9GRy1KUEZnbnplc2Vxd0dOa2VPRGYxRkV4QkRoZ3BBaUI2LTEwN0o1QnFCUnp4eFVRZUNyeXRXWjFEd2xrcGttc0cwVFllMnZ2aWw4NmU0R1dFMmNhYllsZVV2dkFlZXFhYVhleGtMMUdOQjZ6YW5EUWIyZTI5LVRqSTFhZVNLX2VwV2MxZDdRdw?oc=5"
     }
   ],
   "insight": "Tracking Trimble Inc. (TRMB)."

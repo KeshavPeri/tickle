@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:41.566Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:51.408Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    57.04999923706055,
-    57.060001373291016,
+    58,
     56.75,
     57.45000076293945,
     60.709999084472656,
@@ -24,9 +23,11 @@
     58.16999816894531,
     58.61000061035156,
     57.9900016784668,
-    58.54999923706055
+    58.54999923706055,
+    58.400001525878906
   ],
   "6m": [
+    65.4000015258789,
     64.95999908447266,
     64.33999633789062,
     63.310001373291016,
@@ -137,8 +138,6 @@
     57.83000183105469,
     57.77000045776367,
     58,
-    57.04999923706055,
-    57.060001373291016,
     56.75,
     57.45000076293945,
     60.709999084472656,
@@ -158,10 +157,10 @@
     58.16999816894531,
     58.61000061035156,
     57.9900016784668,
-    58.54999923706055
+    58.54999923706055,
+    58.400001525878906
   ],
   "1y": [
-    56.58000183105469,
     56.970001220703125,
     57.61000061035156,
     57.459999084472656,
@@ -390,8 +389,6 @@
     57.83000183105469,
     57.77000045776367,
     58,
-    57.04999923706055,
-    57.060001373291016,
     56.75,
     57.45000076293945,
     60.709999084472656,
@@ -411,12 +408,19 @@
     58.16999816894531,
     58.61000061035156,
     57.9900016784668,
-    58.54999923706055
+    58.54999923706055,
+    58.400001525878906
   ],
-  "lastClose": 58.54999923706055,
-  "oneYearReturn": 3.481790990195055,
+  "lastClose": 58.400001525878906,
+  "oneYearReturn": 2.51009351331401,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Tyson Foods' incoming CEO and CFO set for Sept. 10 fireside chat - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWmMwTnRJUzF0RmN1Nm52emljMTdKM0lDeE5oRUJBZFlRdEpqMEwzWjBvNlRmMjBUSWpYNXVOcE9JSVBYc0V6NGdUM0g4OWxhN2Z2aGg1bVhjbUdPZG5OMDdSSkpTd1dtdFFLZ0ItcW43OU9nUFdDaGtnaHk3OVJ0d25nT0dBWWpWdHZETTlBR3Y2RHZYcXE5M3g2emhCck5xNU8xRzZVaVlGWDZDRDM4YVJXa0ZkZw?oc=5"
+    },
     {
       "headline": "Tyson Foods Reports Third Quarter 2026 Results - Tyson Foods",
       "source": "Tyson Foods",
@@ -427,13 +431,7 @@
       "headline": "Tyson Foods Inc. Cl A stock underperforms Tuesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPLTI0RHZfQU92RUFueTQ2dF9BQVR0QnBvak5uRzMydjFRM045OTZ3MXB2NjBTY25MZFM2ZWFITDczNTEtRHhZSXpKeXRPZGc1RlRfaXlSRnJ4cGpwV2lNZzZvZzI3Ymp2S1VWX2F3VjloVGlkWnhlckd3TW85TDVrb2hZXzNkUzVtNnhsdGR3U0hJaEEtXzJMQThESXJ0UGhjOHpfYUJ3QXVpaVMtTWdvekpJZm9YNjRtMnRlWEprb0hsZ3RaQVZlVndULXdEWTRleXRrYlhKU1htd09KVXloZ1ZtM0Nwemx1TWI0?oc=5"
-    },
-    {
-      "headline": "Tyson Foods (TSN) Reshapes Its Beef Network, Is The Stock A Bargain? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYng0dC1yellKbWV6Y0dQNTZvemFKdVhzV2kzeG9BcnI5RGRNdTBSb21lVjJWM1ZFMEhXX2s0ZEpneUtDWDVxblJRaDJ3M3dKejhXU3B6anUtMEl3VGwwMkFWSnZoYVhuNzY2N3FtcWQ2UGoySmRZOEMwWDFUeklnRXFZN3M4VmphSXJBMlJleGhSOWt6M1hiaVVB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVU9YTXlKQUNvQ0hKYTJrekt2VDl3cFBjNmZxUmd3STA3NS1XZk92R1dzM0Job0lLUXhuN0VBYmFtM08tNFloZVNSQ3o0SmJlX1lIS3ZDTG1xSTU5RjBQamZtRjI2NGw5NHNuVnVtQTRzZ2puOXVWYUllckZQZTBhVmdOV3d3Q2tvcGx0SW5LUkNCaWYtaHJ0eWl0d1A1b2o5aEc0VzlHbFpuTDRuNHRyUjhBSUs0OGdpbUtGZzlUUDg1QlJDdFZNNWVKSURhN3pTTnA0?oc=5"
     }
   ],
   "insight": "Tracking Tyson Foods (TSN)."

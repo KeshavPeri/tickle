@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:39.055Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:48.470Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    130.66000366210938,
-    132.0800018310547,
+    134.36000061035156,
     129.27000427246094,
     130.16000366210938,
     129.7100067138672,
@@ -24,9 +23,11 @@
     139.17999267578125,
     130.55999755859375,
     131,
-    133.52000427246094
+    133.52000427246094,
+    134.13999938964844
   ],
   "6m": [
+    163.61000061035156,
     165.6300048828125,
     163.1999969482422,
     162.36000061035156,
@@ -137,8 +138,6 @@
     135.72000122070312,
     132.8699951171875,
     134.36000061035156,
-    130.66000366210938,
-    132.0800018310547,
     129.27000427246094,
     130.16000366210938,
     129.7100067138672,
@@ -158,10 +157,10 @@
     139.17999267578125,
     130.55999755859375,
     131,
-    133.52000427246094
+    133.52000427246094,
+    134.13999938964844
   ],
   "1y": [
-    166.3000030517578,
     164.92999267578125,
     167.6199951171875,
     163.67999267578125,
@@ -390,8 +389,6 @@
     135.72000122070312,
     132.8699951171875,
     134.36000061035156,
-    130.66000366210938,
-    132.0800018310547,
     129.27000427246094,
     130.16000366210938,
     129.7100067138672,
@@ -411,29 +408,30 @@
     139.17999267578125,
     130.55999755859375,
     131,
-    133.52000427246094
+    133.52000427246094,
+    134.13999938964844
   ],
-  "lastClose": 133.52000427246094,
-  "oneYearReturn": -19.71136390724822,
+  "lastClose": 134.13999938964844,
+  "oneYearReturn": -18.668522799646066,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Constellation Brands (STZ) Stock Is Down Today | STZ Stock News - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVHFwWDZwN1h1RXpGRzZCU2kwRHpZeW42a3JrY2RZR2RQeUs3eWdKNHhxWmZiMk9DSTU0STA2bEFUUzUzaVUyb1hCWkxUUTBiUUVJbmdVUjhGejhqcDdkZ09PMkc2SjJLQnEzR05ISXdUV2tBS2dodjJvRlBDdDZzSklWUnVFa2lYWHVpamxtSU0?oc=5"
+    },
+    {
+      "headline": "Constellation Brands' Premiumization Plan Sets the Stage for Growth - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHd1VE9yazBBdnNPZDVTdlNlVWxMZWtGRmdQdUtKMHZ6SF9lYjJaVUhZLWRzUUVLRE9FdzZlTWZmUDFRNGt0MFVNOE1PVkt6TnduQ24tcVpUWGY5MG13M0Q3N3phdTFOOUh0T2pIZ3ctNUF0R0pqS2UxY1J3SkhYNzQ4akFublhXcDR2ZlpXOWpmMnlvazA2dDljR2YyTC1lWHMycm00NFYydWp1V2tPNDJPc01fWTNURFlhXzRFTQ?oc=5"
+    },
     {
       "headline": "Constellation Brands: Berkshire Sold, But The Fundamentals Say Buy - Seeking Alpha",
       "source": "Seeking Alpha",
       "when": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejYwcEFyeHJVQ2RzWklrYTB0REdYdnF3WW96bUdrMXdEbktGR0hJZGRKV3M4YjRRSWQtSGNHSEdVMGhnSHU2ZGxqUENuY04xQVZ6dUFXajVUOWpzMXZxbUpJOWtUQ2g2S1NleFJSNDRrNjBKdjAzcWt4ZTVaaWFwZzVfaWtYSmFNT2JFWjVMR2IwaFdZNlpDcF9iUmZMVWo2bHVPbGh1bUo?oc=5"
-    },
-    {
-      "headline": "Constellation Brands Inc. Cl A stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPTEU1MTRfM2pUMTY2bUlQY0RaQXpHS1NydHp4Zy1DTERxYl95RnVHYmtGWGk0cGRCVlBSOXRFY3hQRDVPSlc3NEtxXzg4cmREdjZ5NE1LM3I3UEZTLS1ybWI0bUNHcS1HSnowNS1YbGw2bHVoQUd0SDZRU0JTRmYxZEFnckVIVTNIZFdWbXFuT0xVR0NKR0pXb0ltWkYzM2dITTFTNUEya1lCRTRrTndmOElSZFVKZlA0Skh0OXJzbXZRQi1hZG9yX2RmeVVuSVd5TGRYXzA4S1JKRm5DRmt3N0pQZmd4akwyZldzRUU2aDkyRmIxMFdJOGl3V0ZwcndaZWtBTVlpZHBrUDVhWUFCNE9EVDE?oc=5"
-    },
-    {
-      "headline": "How Prolonged Flat Organic Revenue At Constellation Brands (STZ) Has Changed Its Investment Story - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNERHR2Q5Z3Z4WktWVzJFZlRwdnFEbTlMUFB1aDVYb19WcFpFVUhFUThqSkFMUTJfRUs1eTFiMzJUa29OUkl2OW02a1pPT2V1RWRwWW1hcHhJaG1wTUdkV0Q2MENkeWJndXV4LWRGU2sxM1hGcmZVcC1pMWZwblBXRTFEanI5RTR1MzVJRWdZcGFTZzIxY0JpWVBETzlHYm9QS29MOFVsU09ja21kZ2Q4R29oa2Fqc0ZEX19uZ2xnVnZXOFdiUDRwc1ZlZzhDMDdNbllLbHpLdjlNYlR2T1Q0eUJ2c9IB6AFBVV95cUxNdkxmOE55ZU1BbWxEN183MTZoUHJiZGduY2NOUENkdEFBaVRpa0ZqdnhEOFVHT2xmMkxkZXYzRlU5bHVVeGNvQWw2NTV1aUhIc21ic2xUM3FFLXJTcDFxTjV1b0tZdW9YRTFlZVhTS2psOHBtYk1BcVJ0bDhPVEZEdXRRNFhNRGZWVnU4cTkzRzhKYzktdHp3cWg2ZW5fSW9fcDBwN2lQS3R4WWlfa3Z3X3F3VWtubFZRX2xQem5DTm44N2hac0lrcFl1X2hKS1JqRjFydGJBb1NFSC1GYm0xUVEwc1hCdWNF?oc=5"
     }
   ],
   "insight": "Tracking Constellation Brands (STZ)."

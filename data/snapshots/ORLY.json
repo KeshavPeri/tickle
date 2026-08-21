@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:35.130Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:43.774Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
     87.97000122070312,
-    86.52999877929688,
     86.11000061035156,
     87.4000015258789,
     90.58999633789062,
@@ -24,7 +23,8 @@
     91.05000305175781,
     90.2300033569336,
     90.76000213623047,
-    91.19999694824219
+    91.19999694824219,
+    89.08000183105469
   ],
   "6m": [
     93.44000244140625,
@@ -138,7 +138,6 @@
     86.05000305175781,
     84.52999877929688,
     87.97000122070312,
-    86.52999877929688,
     86.11000061035156,
     87.4000015258789,
     90.58999633789062,
@@ -158,10 +157,10 @@
     91.05000305175781,
     90.2300033569336,
     90.76000213623047,
-    91.19999694824219
+    91.19999694824219,
+    89.08000183105469
   ],
   "1y": [
-    104,
     102.87000274658203,
     102.30999755859375,
     102.47000122070312,
@@ -391,7 +390,6 @@
     86.05000305175781,
     84.52999877929688,
     87.97000122070312,
-    86.52999877929688,
     86.11000061035156,
     87.4000015258789,
     90.58999633789062,
@@ -411,12 +409,19 @@
     91.05000305175781,
     90.2300033569336,
     90.76000213623047,
-    91.19999694824219
+    91.19999694824219,
+    89.08000183105469
   ],
-  "lastClose": 91.19999694824219,
-  "oneYearReturn": -12.30769524207482,
+  "lastClose": 89.08000183105469,
+  "oneYearReturn": -13.405269317916424,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Advance Auto Parts Plunges 21% as Revenue Miss Overshadows Earnings Beat; AutoZone Falls 4%, O'Reilly Automotive Slips - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd1p2bjkybHktQ2RmSlM5dUp3dmNiNFpZZ0JoWEt2VjY3Vi1LWUhkSmlxNkttdFRDMkZ4SUkxSnltZXh6MjdtTy1HalZ3R3lHcFU1X2tNUGp4cFAzV0Y2TC1VTzFqanNIVkJOQjJCSXZMb2k5bWwwcnIxcHBYSmdWdkVtcWU5aUVaZUg0dUxBcnl1czRMd3JXSVBBejVvUjRIOU92MG9XQTd4Vk1vNkNhNGlzbkdrWVk5ZlhzLUlEcWRFSnNrQVNzNkh0ak9kdnBxM0ZIMGJXOEh4TnlwNmlucjdPRGg5ZFcya3VSVHp3?oc=5"
+    },
     {
       "headline": "How to Buy O'Reilly Automotive Stock (ORLY) in 2026 - The Motley Fool",
       "source": "The Motley Fool",
@@ -424,16 +429,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWxxWnR6ekxna3AwUmdVSUUtNVRKcGtQdmpLdGtQSDZFM1ZQWlluOFBVUGNQck9MZ0g1REFRVThlcFRGSlRDQnBraFFyenA4LWJJVGo5OVFHSVBOX2lPX0YybWpTZGVYOVpqZzFoUEs0cElweF9QbmVhTFJreTRwbk8zaXpuUkRrWFRoaUN1VUpTSWEzZ1o1b1d3?oc=5"
     },
     {
-      "headline": "JLB & Associates Inc. Acquires Shares of 214,638 O'Reilly Automotive, Inc. $ORLY - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa0VrcER1aTNQTHhYQzJobHN4c05ZWUhSVGJLOHA0aXd1eTRoblJ1VVZKNkZPVHJEd0gzMml3djVrWk9LQ1VUb2xQM0c4TUFOV0thNTdJc3RaOFdMM1o1WG11NG1rNWIxOWs2VVBfb1BKamowbmd2M0Y0amQyMVlEcnFZaWZ3Z1VRamlUXzhtcGFCTGFkYW02dnAwdDExZGhUOU9kVmExcEo5UHN0azVFNUp3bmJhd1kzbnBVOElDLWJTLW9UanpLRnZkcDBCQQ?oc=5"
-    },
-    {
-      "headline": "Is O'Reilly's US$1.6 Billion Debt Raise Quietly Rebalancing Its Funding Strategy and Risk Profile (ORLY)? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjRvOWt2SWRoclQ2SV80b3RNcTdKUlIzUFJtSUhlV2VuMTFyNzJkUC1hY3l1OVB3ZXRQSmxNWEtoOHM0ZHNJZXgxQjY2enZMRmVNbnc1RVZ4aHp4YnpHOWp6Sm5tVVRaeUxQU2wyVDdsdlNQZ2gzdWJPSTlPTWlmQzUtaGVfUEcyb3lLd1ZqaWhOaXRXeTVCelVVYUdYTTBWZjRTQkVINDQtOWduN0M1SUx0b0xUbWNDbDU2WlBGRTlIdDMwUXZ2ek5memg1Yy16bDhVTNIB1AFBVV95cUxQZjRvOWt2SWRoclQ2SV80b3RNcTdKUlIzUFJtSUhlV2VuMTFyNzJkUC1hY3l1OVB3ZXRQSmxNWEtoOHM0ZHNJZXgxQjY2enZMRmVNbnc1RVZ4aHp4YnpHOWp6Sm5tVVRaeUxQU2wyVDdsdlNQZ2gzdWJPSTlPTWlmQzUtaGVfUEcyb3lLd1ZqaWhOaXRXeTVCelVVYUdYTTBWZjRTQkVINDQtOWduN0M1SUx0b0xUbWNDbDU2WlBGRTlIdDMwUXZ2ek5memg1Yy16bDhVTA?oc=5"
+      "headline": "Why O'Reilly (ORLY) Stock Is Trading Lower Today - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDBGaW9PSWZqdkNmQ2dsZ1A5MWQtbWV2ckRFOGVBZVhHaC0xcFBTY0hVYmdyUG5zeVNoc1pLSXlqOWlWS1pucFN1Yjk1WFpjN3lENklTRHFHWHliU2hsdEhibXVpYi0xekZhSERiamVTVEx6cjVOdzU1d1FRRmh3TFBteEFWR1BJZE9wcG1POHpDazRLN2dRTUl2a1c4VVhVQTFOLVpCdEplTE01RTVUVEphN1hWM3BpNlJydEt0ak5URWFwNzlhTnN3?oc=5"
     }
   ],
   "insight": "Tracking O’Reilly Automotive (ORLY)."

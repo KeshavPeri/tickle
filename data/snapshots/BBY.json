@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:04.885Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:06.366Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    85.22000122070312,
-    87.11000061035156,
+    85.41000366210938,
+    85.12999725341797,
     84.43000030517578,
     85.43000030517578,
     88.44999694824219,
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
-    86.26000213623047,
     85.25,
     86.3499984741211,
     84.5,
@@ -24,9 +23,12 @@
     86.41999816894531,
     85.44000244140625,
     87.2699966430664,
-    89.20999908447266
+    89.20999908447266,
+    85.7300033569336
   ],
   "6m": [
+    70.41000366210938,
+    67.08000183105469,
     68.04000091552734,
     67.08000183105469,
     64.87000274658203,
@@ -137,15 +139,12 @@
     85.29000091552734,
     85.41000366210938,
     85.12999725341797,
-    85.22000122070312,
-    87.11000061035156,
     84.43000030517578,
     85.43000030517578,
     88.44999694824219,
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
-    86.26000213623047,
     85.25,
     86.3499984741211,
     84.5,
@@ -158,10 +157,10 @@
     86.41999816894531,
     85.44000244140625,
     87.2699966430664,
-    89.20999908447266
+    89.20999908447266,
+    85.7300033569336
   ],
   "1y": [
-    72.2699966430664,
     72.38999938964844,
     75.38999938964844,
     74.31999969482422,
@@ -390,15 +389,12 @@
     85.29000091552734,
     85.41000366210938,
     85.12999725341797,
-    85.22000122070312,
-    87.11000061035156,
     84.43000030517578,
     85.43000030517578,
     88.44999694824219,
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
-    86.26000213623047,
     85.25,
     86.3499984741211,
     84.5,
@@ -411,29 +407,30 @@
     86.41999816894531,
     85.44000244140625,
     87.2699966430664,
-    89.20999908447266
+    89.20999908447266,
+    85.7300033569336
   ],
-  "lastClose": 89.20999908447266,
-  "oneYearReturn": 23.439882701352634,
+  "lastClose": 85.7300033569336,
+  "oneYearReturn": 18.427965298743654,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Best Buy (BBY) Stock Is Down Today - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ1RGWVhoaTkxTGczcDdyVkxvNVhwbHBwSEw3UkVOYTJmMW1TLVQzX3pMcGdnWXpRbE9aVEhtcTRZWU11azNFMGd2ZTZnaWRoUnpFV0ZzczRHS3hQUVRuVmM2RFFCZ2NsUVJEZ1BBeWZCR3JkQ2MtUHlzbkJMeWg1QTlPWnJmTnNDUHJRRmNLN0k?oc=5"
-    },
-    {
-      "headline": "Foster & Motley Inc. Invests $1.96 Million in Best Buy Co., Inc. $BBY - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0VTdWh4cWFTdlk3a3JjWVYyQVlYa1Y3VEhmdzIwb19xX3hDMV9DMDJOVHNsbTd2d1RIMWtvM0RiZHNvQzhBU2dFLVloakhtT3ozWEgxWjZmTExhT0JMQXZadFdfRTRZVnJVdGM3U2NEN0Z3OV81RGdNcmduMV8zaWEzNUZ0M29EekozNC1DLTZsb0lqT2pQb01wQlVZeW9mdGpuQkdmUzc1M3NVZzBxeWY4b3JFSGJBMlpBaVJ3?oc=5"
-    },
-    {
-      "headline": "Best Buy stock climbs 15% on earnings beat as retailer aims to reinvigorate sales - CNBC",
+      "headline": "To keep growing, incoming Best Buy CEO says he first wants to go smaller - CNBC",
       "source": "CNBC",
-      "when": "2026-05-28",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50eUpMdHRvVTBlRTByRjNrZTBvTlNTYnFaV2wwVkNyOXpLUVlHYnR1VUF1Y0YwWFhEOHE2ZHBHMW9KeVRsd0lWSWRDbGJrdEpPN0lYWUQ4WVpNeXVySWhjTVFCbDd5V0gxOHR2UlVqVUhILUM20gF6QVVfeXFMTVN1UTNZclo1ZXRwUUxpODFSSTZWLTg4c0dPWUxPT0xlSXpaN0NLZG52Uk15cDFvVDhIMV8xRDRFZHA4aVpwT2tlZjI4Mk5iM3BJd1RMY2x1Wkw4Zk5DNkktdHhoaC1TX2FvRFo2dVdXRG02M05Xc25CT2c?oc=5"
+      "when": "2026-08-01",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1JEcWdzVmcySFlFeFJJa3lfLXBFRDdBbnFaUTRrMlRmdXhnQUtZZVdoMGtiSFo5b0R0TUd6U3ItQnZqdHMyVmdESHJtVTJfVXF6dnlaZGVVa2xNQUF6UDEzaW5wUHk1R3ZWVmNwNWZHckFXdTl4cnV2Q3A3NDFkaEpnb9IBiAFBVV95cUxNZk5uX0h4LUs2Q0wzdDBsVWJ5cnNRbF9WR0twcXh6VUl5UGg1YUR6cmsxNjFwUFRGWXRHYUd6aUR1VlR1a3N1RHJ4WFIwc2xDd2hwUnJoRVZ6QUZtY2JUZzBBMmFyVkNtV2pBWE1OOUo5SjdMSk1KNFNIMVlqWUUxMnh0ZjUtVUg4?oc=5"
+    },
+    {
+      "headline": "Best Buy, Dick's, Floor And Decor, RH, and Zumiez Stocks Trade Down, What You Need To Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQzhiT1g4azZJeThEaVAzb01xZ3pKM3hFaUI2bnFTSXowcjRDTThxeTN1VGhPNy0tUDFRdnNKQXFXeEQzYUQwQXVwbEthVW9GczBIYWJZdzN4Q3VwSmM0QW90aU9HNGU1WDdfbGF0OUlRQzVEYnM1dkF4RzhPUGJrWXJTcjIzamFqQ3RlOXl1eVVyVWhPZGc?oc=5"
+    },
+    {
+      "headline": "Best Buy Co. Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSzJWMjlKa1dGNFN2TUY4VHFCbzdSQ3Zzd091SEEwZkc3N2tqNjlKSmVKN2lpX2F3UFpTSzB3ZFYya1BrXzhXT3RqbUdMQ0UySjNmRzZKLXYwYTZqOGdabmxXam16UlFlOTFiazBkUGNNeHB4bC02VXlUcXVJN2xvc09CZENmeHduVjNCazVkSEYwR1FHNlRxQjZhNHB4enR4NmVTVk9xVmtmSjRyQ2NvalJWOFhFTGNDV3haZU1Va1VrajF2UXFVcll5MFJFTF9Va1pfVlR5Nzgtcjc4a3hlQTNNY1NuZw?oc=5"
     }
   ],
   "insight": "Tracking Best Buy (BBY)."

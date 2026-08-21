@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:35.584Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:44.328Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    109.56999969482422,
-    108.25,
+    113.94999694824219,
+    112.05999755859375,
     107.31999969482422,
     109.4000015258789,
     111.29000091552734,
     114.08999633789062,
     113.18000030517578,
     113.94999694824219,
-    113.69999694824219,
     115.12999725341797,
     115.25,
     114.8499984741211,
@@ -24,9 +23,12 @@
     113.9800033569336,
     112.97000122070312,
     113.13999938964844,
-    111.63999938964844
+    111.63999938964844,
+    110.54000091552734
   ],
   "6m": [
+    97.33999633789062,
+    95.93000030517578,
     93.63999938964844,
     92.80999755859375,
     90.51000213623047,
@@ -137,15 +139,12 @@
     113.12000274658203,
     113.94999694824219,
     112.05999755859375,
-    109.56999969482422,
-    108.25,
     107.31999969482422,
     109.4000015258789,
     111.29000091552734,
     114.08999633789062,
     113.18000030517578,
     113.94999694824219,
-    113.69999694824219,
     115.12999725341797,
     115.25,
     114.8499984741211,
@@ -158,10 +157,10 @@
     113.9800033569336,
     112.97000122070312,
     113.13999938964844,
-    111.63999938964844
+    111.63999938964844,
+    110.54000091552734
   ],
   "1y": [
-    78.72000122070312,
     78.66999816894531,
     80.72000122070312,
     80.27999877929688,
@@ -390,15 +389,12 @@
     113.12000274658203,
     113.94999694824219,
     112.05999755859375,
-    109.56999969482422,
-    108.25,
     107.31999969482422,
     109.4000015258789,
     111.29000091552734,
     114.08999633789062,
     113.18000030517578,
     113.94999694824219,
-    113.69999694824219,
     115.12999725341797,
     115.25,
     114.8499984741211,
@@ -411,29 +407,30 @@
     113.9800033569336,
     112.97000122070312,
     113.13999938964844,
-    111.63999938964844
+    111.63999938964844,
+    110.54000091552734
   ],
-  "lastClose": 111.63999938964844,
-  "oneYearReturn": 41.81910271653737,
+  "lastClose": 110.54000091552734,
+  "oneYearReturn": 40.510999730978256,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "9,747 Shares in Principal Financial Group, Inc. $PFG Bought by Plato Investment Management Ltd - MarketBeat",
+      "headline": "Wealthfront Advisers LLC Purchases Shares of 71,257 Principal Financial Group, Inc. $PFG - MarketBeat",
       "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUHExdzBFTlFwTE9kMDd3QjhXMWVyRkxIUjNnc2QyMnlrbEhZckNOdndqb0pBcUJNYktHeG0ySE9WelFSaXNaVXFQUnRNSV9ZcndkVjU1ZEo5WHVaM3hWdFJmMXZzM0tMR3paTVV3YUZpXy05Y0M2dDY3Vkx2aE9FOWRQMmtQT0NmMU1RU3VfLW1LeE0temhhUk5RaUZ3bjl2MnBuWmhxd3FxT2Q3RnJCa2ZLTXlpTlpHenFKR0RyY3dhM0ZobzZUMnZqbkFiWmswMDhGMWVKWnkwZ2llbmc?oc=5"
+    },
+    {
+      "headline": "Principal Financial Group Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXN1SzBicmZGME5aLTJXTzBtNHF1amRTdktlQlJaLWVJdVFDVFdLTXlNNkV5OXZyUzlvUDFnM3ZESGhrcVkxSmoyWXNTYWdJLUtYWjA1YWdQWGZXSTgxUnNPTXZKc0g5V2Y5dENXZGRwMnJPRHNlaWg2X1czNE1fcnpMcnpMdTVUR1lkaU9XMF9lUmV1Y2ZQVFZDcjlxYWdONHFHeVBlRS1LS3pCU2J5NGxoUmFLb3k2Z2Z1RTRoUm85VzkxTDgtMDNuVl85RWlLamdieEZqenhtMjJYMDNid2xqeFY4dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSkFkLURzcTZhdmVWZDFtdlc0czBfZ3dtc253RzgtN2dkSDBNRHh0eXdKUlZ2YWlyODExRmU3NHVXWnAyU2xPUlRZY29PMUNVUHZqSHpRbFdIT0R1Y3BhSHJscDVzYnc3WjNPY0NJLTVpNUZ3V1MxcjlzN0FYYnVuOTdldnNzNlF2LWpTcWRRYVNfZV84a3lHcXBIdTRiaDhuYlNnLTFLRV9ZWjZ6bkNtWlRlcTc3cl9paEg4RVF3bl93UTRWSU9qejMtaEJnaVhFaDNrSWNFRmt2NGE5VnhObkhWU2drX1RHQnNJWGc3WVFNRWVJd3dtZFF3?oc=5"
     },
     {
       "headline": "Principal Financial Group (PFG) Stock Looks Overvalued on Current Earnings Expectations - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-07-23",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamFTWUQzQUFFaUhielVjTXd6WENOakNNTGVVV19XVlN1RS1Mb1JybEx0SUtCbHB0Y19WcFlCZC1xZldQaHNqcmNpU20zbGpNbVRFS0U2bzAyYUJlVkpzcDVtMGdjUjRQVVhYNmdmZFhodzRKUU80RVZlTllmb3Zkay1IS3J2S0dyNC1QQkRXUlhlcHNFN3dIMkk1UDFubXNjdEE?oc=5"
-    },
-    {
-      "headline": "Foster & Motley Inc. Buys Shares of 29,615 Principal Financial Group, Inc. $PFG - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLU1NVDNFM3E4Q0VNU2syQmNzREpLZGlsYmFYRHlTM1Bub3ppNUhnOWZNM3RTUjNidkJyRFgyejhhLXdQWUZzNVhwZHZwbWdHVlFkNnN1Y29BTlpjRWZzUjdERThvZENzaGdIRVM0MWRzXzgzZmlyQjIyUFEzNXZvOXBibXZzeWNsTm5VYjlSMDZTTmpkaTdBSVh4ZTlLNnFSZWxvMHFsN2NkTWN5MXo4OC1GYVF1a3J4all6OEFlSDJiQnVvMWgxdWZNbUtKZw?oc=5"
     }
   ],
   "insight": "Tracking Principal Financial Group (PFG)."

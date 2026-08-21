@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-20T02:38:04.399Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:05.802Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    204.8000030517578,
     208.64999389648438,
     209.22999572753906,
     209.52000427246094,
@@ -24,10 +23,10 @@
     231.6699981689453,
     225.9499969482422,
     223.05999755859375,
-    222.1999969482422
+    222.1999969482422,
+    215.10000610351562
   ],
   "6m": [
-    242.58999633789062,
     236.25999450683594,
     239.35000610351562,
     242.9600067138672,
@@ -158,10 +157,10 @@
     231.6699981689453,
     225.9499969482422,
     223.05999755859375,
-    222.1999969482422
+    222.1999969482422,
+    215.10000610351562
   ],
   "1y": [
-    225.6199951171875,
     224.4600067138672,
     230.1199951171875,
     226.8699951171875,
@@ -411,10 +410,11 @@
     231.6699981689453,
     225.9499969482422,
     223.05999755859375,
-    222.1999969482422
+    222.1999969482422,
+    215.10000610351562
   ],
-  "lastClose": 222.1999969482422,
-  "oneYearReturn": -1.5158222865703717,
+  "lastClose": 215.10000610351562,
+  "oneYearReturn": -4.170008166436226,
   "marketCap": null,
   "topNews": [
     {
@@ -424,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTVpTbjcwSUxpRi1Uc2pFQ1lJckxrRDlRYi1MaVlsMk92LWlKbmVBelRXVjZ5VG1wU2ZuMUlpWFdTQ2lGVjd0elNaSmk0LVFfcDVQeS1EcGY4emI2bU9UandsaldTbzVJWE12c0ZLY0J1Y0JZek5IdmtpT0djU3BqRXVCOHQ3SWZIMWV4RVBVRQ?oc=5"
     },
     {
-      "headline": "Boeing Shares Dip 0.5% While Netflix’s Slide Reignites Debate Over Its $715 Billion Valuation - TechStock²",
-      "source": "TechStock²",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSFJFR051QUdYUEF5dml6d2FTZzhVcGpHX2ZtV0VWN3JtVjZlalpuWnItUVFQVHZzYXpDSVhOVkhzSkVvUU5KNXYyMldHd2g1eUxBcDA5MHA5eVczcy1rdXByN2V3WjBoazBlRmZDSFJHYW5EbExUN3M2V2t0eWhUcG1vV0JhWmFqRGpvYjNkR2poTVZ5emxOWGNSTTZ0ZkUt?oc=5"
+      "headline": "Boeing slides as labor vote uncertainty appears to outweigh recent operational progress - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcS1NaXNyYzRFeEptYmJlTi1hNE8tNVh2Y1ZwUlN2VzFiRG4yUnpuV21TS1U3dnYyTmhNWV9FbVdWWjlZNHhKbUZmc3ZjbTZVbWJidE5LQzhtM2hoWTI0VUtyNHVwVTFsOVcydFhhbC01UVdiZ1NtcVVOZXdObXRxTlZoNkR2N1ZtSVRYM1FfbHpZTU1RRnJVZ3UzM0lqTE5XeERVQ1RTV1d4S0UzRUZZc2FDRWJSQjhNY2JDQw?oc=5"
     },
     {
-      "headline": "Boeing Stock Slips as US Army Grounds Apache Helicopters After Fatal Crash - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzVJVzBCRDNQYVB3U0ZkVVFmYjc2Z18xOXdlM3pkcUJBUkJxMEREdzBNcm02S2o4bmhoTkpndWtKNmRaUkc3LTRZaGFKb1J4ZUlKc0NGZmtydW9VMnNvcDVncF95THNIMEdMTmpyRGFFSGdEeXI3V3h2d3FyRThSREFUZzIzcTd0V3BjZldpcDdSZw?oc=5"
+      "headline": "Boeing (BA) Stock Still Trades At A Discount As It Gains 6% - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2UxNkNsUHhBTHhRTFY5Um9saGkxRUlyTUVCTVdwdzNjMWNDczZieTNtRkhMeU1ITHF6MG1sTHV3TEIzaXVZS0xuWHIxTDJNSWdJN2JPejcyc2cyZEZQa29saXZORlNEclpoQjRrQ1lsMG5BbnpJWjZhQzlTSUJ1WjZMcHUxMWtnTENCU3NrUUdBNEtQUnk1SUNDWWhnSmNEYUUtN1BtRnNtYTJ6eDlzU095TmlrTS1pRTBuZmRhWdIBxAFBVV95cUxQX29nZzNhQVpSd292MlpmZFJyLVpONV96cWxFaFUybmVuckg0VjY1bWRaRHNTUmtlTmtyWWNyN3F6VWtMZjk1LTJyY0pjUUszVllsbHIxa3AxU2FOeWlsbUhJLUFTREJRQkdRWS1vcUxpa19TcGpEZGJ5N1R1UmlDSlNiWFlpMEpUbDU5WUNxNElOWGpXb1BBU203d2U3cUVrcmQ4Q0lWZnJ5ano5V1Y4QThZSjFoWWRsc2Mta0lMTWo4dDBY?oc=5"
     }
   ],
   "insight": "Tracking Boeing (BA)."

@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:09.935Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:12.909Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    42.720001220703125,
-    43.68000030517578,
+    42.9900016784668,
     44.22999954223633,
     44.560001373291016,
     44.0099983215332,
@@ -24,9 +23,11 @@
     40.83000183105469,
     40.630001068115234,
     40.540000915527344,
-    40.400001525878906
+    40.400001525878906,
+    40.20000076293945
   ],
   "6m": [
+    40.25,
     40.970001220703125,
     41.04999923706055,
     41.65999984741211,
@@ -137,8 +138,6 @@
     43.34000015258789,
     43.130001068115234,
     42.9900016784668,
-    42.720001220703125,
-    43.68000030517578,
     44.22999954223633,
     44.560001373291016,
     44.0099983215332,
@@ -158,10 +157,10 @@
     40.83000183105469,
     40.630001068115234,
     40.540000915527344,
-    40.400001525878906
+    40.400001525878906,
+    40.20000076293945
   ],
   "1y": [
-    38.5,
     38,
     38.04999923706055,
     37.70000076293945,
@@ -390,8 +389,6 @@
     43.34000015258789,
     43.130001068115234,
     42.9900016784668,
-    42.720001220703125,
-    43.68000030517578,
     44.22999954223633,
     44.560001373291016,
     44.0099983215332,
@@ -411,29 +408,30 @@
     40.83000183105469,
     40.630001068115234,
     40.540000915527344,
-    40.400001525878906
+    40.400001525878906,
+    40.20000076293945
   ],
-  "lastClose": 40.400001525878906,
-  "oneYearReturn": 4.93506889838677,
+  "lastClose": 40.20000076293945,
+  "oneYearReturn": 5.789475691945929,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Danske Bank A S Buys New Stake in CenterPoint Energy, Inc. $CNP - MarketBeat",
+      "headline": "Wealthfront Advisers LLC Makes New Investment in CenterPoint Energy, Inc. $CNP - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm5NbGlCMkJtTW1tcVl4VTBsT2Y1NGpCa2VoOEhzZ3VLbTZrYm5wcVpDbmt3Qms0UldGWGNLQkVpS19FTklCNjlIZDA3SUs5LVplNV9UV3QwR3JxcWZxRFBBS1JtOUFCOWcxQW4xV0VGdzRQRXJFU3NRQ0Y5bjdUa1c0Y05MN21sdTd6OHlsQkRLakd6ZmJwdlZ1dFdjV3ktWk02TmtKSXlfUk54SEZYMC1OVmtjR2laZlJuOGFn?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVHF5ZEVoWWxVSHVLY05Hbjh1aElVRU1WS3ZQVHQ4N2VPYUZfWHJUZm93a0pLWm9IT2c2T0d2eWYwSmNSWXhldjRZNnNfUVdsNHJDNzBpTV9wMWU4clljanliLWlRZURTeDdVSGxGNlhwc3hLOWFuTGVsN0wxcVRJcFh3dFJvZUI1SV9zVmVOckFlTHF2QVo3Q1VwVW52RUJaZmJxdUpvNklUUXU5NVUyY0M2Yy1LUlNKcV9YVE9DQWVCcG9SRkNESUJ0dzE1cWREclE?oc=5"
     },
     {
-      "headline": "CenterPoint Energy (CNP) Stock Looks Above Fair Value With Strong 5 Year Returns - Yahoo Finance",
+      "headline": "CenterPoint Energy Declares Regular Common Stock Dividend of $0.2400 - PR Newswire",
+      "source": "PR Newswire",
+      "when": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGFQUkNFemtrcUFwS3FwdDRJM29FNE9NODd3R0lFdkQ5WUpKaTVDbVRpcmZNZGtMU2ZkcTdwbkNRdmRFTDY5RjVqc0xtd2V5TlgxV1I0bnRlbHhuSmZXNWVxVTdPMFpRRFZzeVdweVBhbFp4Y3RYcUQ4ZHdZbmJuQlNyNnExZENjSDAtUk9Pbm9XREZRdFlHNUd3NVV6ek9lWVZfVE9rbGtNQXRBZVpjcG1oRmRMeE52NnEwbHB5MFBZUQ?oc=5"
+    },
+    {
+      "headline": "This is Why CenterPoint Energy (CNP) is a Great Dividend Stock - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORzJBWlBiVm9KWWNQUzR4VEwzSkhsZjR6WnloaGRSaklxVnFIQkJOQldfa1NRQVJBcTk2ZGdpQ2pOTkcyWG9FbGdMTU0xM3FJcW5oZlR0dTBTMW1jc3VYWWNQTzI1MEdYejJjd1RuazNwd2lKWG1zUUt3emZGOTVnLUVsTzd6SlEzOHNuX2F6d2NvajZtMVZsWGJyb1F3NE5S?oc=5"
-    },
-    {
-      "headline": "CenterPoint Energy Stock Outlook: Is Wall Street Bullish or Bearish? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYS1YRmZaQVlnZFVUQ24tZ0JTSXk1SmdRSV9XeW9xU1Bsc3VmMFFtQjFaUVJMLWx3MmZkRTR4YjJPNU5tZXIwcHhKaFp5NzNQSFAxanVnVHRIRWFCZjlVV0NGVXR0dDZyQTFFRF9jOVYzVlphRGc5cE9DTXg2bU1uc2NNUHhvTGlpQjZGVF9PNjluWm1kMEttT1AycEIyVF9ReGFyUUdmazhsTW5mVk1R?oc=5"
+      "when": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGxYdFpHaHhRSG9FeGcydlVjLWNOTjF1ZVplc21VU1FtWUIwcHZNTHlwUjNOVzM4UlhNNmFDZkQ3Um1iN0prM0VGUGN1VmRoUWN4RWRvTjBFdUFmVUstbDNFTk1CQlFWV1lESnVHZGR1VlZhd0hMaE56RDlGS0pMVE9xOHVsdDdCU1ZiWDA5amlnUUk3czJRcTB5clJQZw?oc=5"
     }
   ],
   "insight": "Tracking CenterPoint Energy (CNP)."

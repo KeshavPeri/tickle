@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:02.076Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:02.914Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
+    362.7799987792969,
     359.3999938964844,
-    352.3299865722656,
     355.7799987792969,
     361.70001220703125,
     367.1700134277344,
     381.260009765625,
     377.1600036621094,
     366.57000732421875,
-    360.54998779296875,
     357.6300048828125,
     356.6499938964844,
     359.9700012207031,
@@ -24,9 +23,11 @@
     355.8299865722656,
     347.2200012207031,
     343.20001220703125,
-    348.42999267578125
+    348.42999267578125,
+    351.92999267578125
   ],
   "6m": [
+    310.3399963378906,
     317.9200134277344,
     309.9700012207031,
     314.489990234375,
@@ -138,14 +139,12 @@
     367.2099914550781,
     362.7799987792969,
     359.3999938964844,
-    352.3299865722656,
     355.7799987792969,
     361.70001220703125,
     367.1700134277344,
     381.260009765625,
     377.1600036621094,
     366.57000732421875,
-    360.54998779296875,
     357.6300048828125,
     356.6499938964844,
     359.9700012207031,
@@ -158,10 +157,10 @@
     355.8299865722656,
     347.2200012207031,
     343.20001220703125,
-    348.42999267578125
+    348.42999267578125,
+    351.92999267578125
   ],
   "1y": [
-    374,
     375.2699890136719,
     375.1000061035156,
     370.94000244140625,
@@ -391,14 +390,12 @@
     367.2099914550781,
     362.7799987792969,
     359.3999938964844,
-    352.3299865722656,
     355.7799987792969,
     361.70001220703125,
     367.1700134277344,
     381.260009765625,
     377.1600036621094,
     366.57000732421875,
-    360.54998779296875,
     357.6300048828125,
     356.6499938964844,
     359.9700012207031,
@@ -411,18 +408,13 @@
     355.8299865722656,
     347.2200012207031,
     343.20001220703125,
-    348.42999267578125
+    348.42999267578125,
+    351.92999267578125
   ],
-  "lastClose": 348.42999267578125,
-  "oneYearReturn": -6.836900354069185,
+  "lastClose": 351.92999267578125,
+  "oneYearReturn": -6.21952115042173,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBabG04NUdRR2lZZkFudGtYbXNwQ3htZFlkcGk3TnhSQXg3azdRMllMcGNiaUpMSXhVV19vRkdGQWRRM2lrY25SOWI2WjhNZGM?oc=5"
-    },
     {
       "headline": "Do Wall Street Analysts Like Aon plc Stock? - Barchart.com",
       "source": "Barchart.com",
@@ -430,10 +422,16 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSndqYkdBaG81SlZkdXkwZUNmVnJ5bmhSSlM1TFc0VFVxWnY3eXFqUHM4LTVJZWVBcnBlNzg2a0tVSGUyNWlfMEVjdDlQWWdFSDNzeWxHRG1JQ2xLeUVncGc5bC12WklNc1J6Q2w0eGwtbk14dVZMUDJ0bkh4a1NMa0liQUtDTTRyVG4yWmpNRQ?oc=5"
     },
     {
-      "headline": "Aon PLC stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "headline": "AON's Buybacks Offset Balance Sheet Risks: Is the Stock a Hold? - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcl9Ba1B1S0RIclI3a1R5NHJJcWZ0djZRTDYyOFRPT3R5WVVRT01tcnhWQXpBN1VvRnd6Zlg3V0JYakRkRENKeGxpRUxFZXU0TVM4N2p1Rl9fc0RzbXBsMnlXTXFqa1dxWFo4NGE0SW1DRmppc0ZiU2lvT2x1ajVBdkw3U18yZWNSV2hwZ0p5SzRDVTEwY2NuZXJwUXgtLUdOQUg4cE9BT2txZzR4dzZnRlY2U1Vodmt2?oc=5"
+    },
+    {
+      "headline": "Aon PLC stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORmVBLXNrWTVSSzBzTkl3TVViTWlYZ212ZUp6WWRybWxIVk1sZW9nZmM4T2ZGTk5URlBudnVENkdkMGJDeF9HLTB5aDdhN3l2NTluUmZUTE9fRkpmS25BendfUDA3eE1VUjBvT0QzWi1wenlmOElyNmtqVUhud1Q5aXFPbUl2cmoxTThlUThUazBCUG5ZeUFiVl9WakpUX2pidFh3d3d5S3ZyT0VMRWRVRUc1NTlmbURId0N3V3pWWTFzNUtPU2F1ZGtiVk9UY211NmRyZU9RTUxVUQ?oc=5"
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPczNuWVRpMW9hQ1FmQ1NXNVZKeU5leFZiLWRsN2NmYks2azBfaE05emIyZGVVMVNfc3JHd09LS3E3SjNCd2tycGVkLXhBNzRyaDZ2Q1NvalFrTWk4alZ3dkg4TERYREV0ZDRqY0RVb3JuWmJPZGMybDlLdTlVSXkzRFFTeUZ3WHgtSGdZSmdHQzZiLUJtSmlGbGtyNFlIa0ZSdmQ5TDhNV1JqU2RRUmVyQXlLSHFsVk5ybmwtVkpjYkdQdGFrRDVlQlZXZXg2WDFHR0hv?oc=5"
     }
   ],
   "insight": "Tracking Aon plc (AON)."

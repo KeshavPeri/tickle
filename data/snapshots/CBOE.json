@@ -1,17 +1,16 @@
 {
-  "builtAt": "2026-08-20T02:38:07.339Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:09.407Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    274.3999938964844,
-    281.79998779296875,
+    273.4100036621094,
+    278.2099914550781,
     284.8599853515625,
     285.07000732421875,
     288.8699951171875,
     297.3900146484375,
     307.80999755859375,
     296.5199890136719,
-    310.2300109863281,
     297.8299865722656,
     288.4200134277344,
     284.760009765625,
@@ -24,9 +23,12 @@
     296.1400146484375,
     295,
     290.989990234375,
-    280.75
+    280.75,
+    294.1099853515625
   ],
   "6m": [
+    273.3599853515625,
+    280.8800048828125,
     274.07000732421875,
     268.6400146484375,
     270.6000061035156,
@@ -137,15 +139,12 @@
     277.8900146484375,
     273.4100036621094,
     278.2099914550781,
-    274.3999938964844,
-    281.79998779296875,
     284.8599853515625,
     285.07000732421875,
     288.8699951171875,
     297.3900146484375,
     307.80999755859375,
     296.5199890136719,
-    310.2300109863281,
     297.8299865722656,
     288.4200134277344,
     284.760009765625,
@@ -158,10 +157,10 @@
     296.1400146484375,
     295,
     290.989990234375,
-    280.75
+    280.75,
+    294.1099853515625
   ],
   "1y": [
-    251.92999267578125,
     249.25,
     246.42999267578125,
     249.0800018310547,
@@ -390,15 +389,12 @@
     277.8900146484375,
     273.4100036621094,
     278.2099914550781,
-    274.3999938964844,
-    281.79998779296875,
     284.8599853515625,
     285.07000732421875,
     288.8699951171875,
     297.3900146484375,
     307.80999755859375,
     296.5199890136719,
-    310.2300109863281,
     297.8299865722656,
     288.4200134277344,
     284.760009765625,
@@ -411,29 +407,30 @@
     296.1400146484375,
     295,
     290.989990234375,
-    280.75
+    280.75,
+    294.1099853515625
   ],
-  "lastClose": 280.75,
-  "oneYearReturn": 11.439688866783069,
+  "lastClose": 294.1099853515625,
+  "oneYearReturn": 17.997988104939818,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Cboe Global Markets Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "headline": "This High-Yield Exchange Stock Just Raised Its Dividend by Nearly 20% - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzN4RFo1QU1vRzBEbDhHd2JuejVsSVVoWWxWUDVuX0J0c1FSVVRSbE44ZDh1MTFtVEhDcjFybEVfeEJJUVR4MmFvQ1k5YUxGVzVfalJxdmZ3by1fa0hkWlhfSW9PanJXTDVzR0JBQnJQdVk0MHpoRG16RjVVN3BOMTYycmRaTzYtSkZEZGFKdmNoS2ZPNVEtX2JFUGxlOVhrcjJJRzlqUC0wTnlqWnAxeEZR?oc=5"
+    },
+    {
+      "headline": "Cboe Global Markets Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNM3FIc2tKTVJuUTh2M0lSbW0xcFNCZi1sVDNHTTU3T2hqQ1FqY2R5VDhPNE1tUV92aFpCRG1iTm15SXhkWXdIQkdhTkZZRVVWQ3R6VUJwWXJlRVJVS0JubXlPdzJjYUFvd3V2RTJQSm9yMk4tQmJSWkprRGRlVDVSbm9sTmhWQmFzSFF1V3ZZaTdCN0pQRXMzTWNlM0dobzhUYjhVOTE5MDZ6Ymtpa1hTQ3ZQWS1jQUVPeDdMZG1BNnZIZnBuOHdLYjRacGZ1YlZyaHBPdjhfWE1za0hPdFVpUy1JOEdHMXlYa1ZhNmhoNmtWUQ?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObzFGTG1IRUdPWVNrVUxncEZ4WWwzcEZ4QnZqWGM2TmpOQWlub2ZwdHBpbnhfaGRLYVRRdUg3UGR0RTB4MnBpUF8ya1kyMUxDX0FmcHlGd1ZYRUpjdUhpdVdOdXBtblNFcVlmUjJUOVc0Umk0NWYzeG50UW9tOG9VRGQzd25URThnYVNpV19vejNqTWdqZ0dRYTZSYWE2UzZTYVBPWGR5RDBtZ1BtZkl4NFowbk9nM09icVhhMTQ1bjAyZmpQSEpRbEh0aEcyakZB?oc=5"
     },
     {
-      "headline": "Cboe Global Markets Inc (CBOE) Shares Fall 3.5% -- GF Value Says Still Overvalued - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS0k3SE8zekJ2YnR1Y2JHdDNmYVRPSEdQQWJJMERoNTBqd2NZVURKc2JiVUZPRjA1WFRGbUh0cWgxa1FuNXVlMmJLNnd0LS0tbTRKMHl0Vjh1ZVZmeXhabEFYeE0ycHVkQ19yalhKMW1TWlR6NVF4dnNuWS14WHJiSHh1R0ROVGQ2SDdaMzVhRmpNbkdqa29GSENYTk5UUGlERUZQVkJRT1hpbUR1Rm80TjBqTQ?oc=5"
-    },
-    {
-      "headline": "How Investors Are Reacting To Cboe Global Markets (CBOE) 16th Straight Dividend Increase - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmdzWHhTX2JLU1FMcUZBVGVOemx0M1JDRGNlNFk3QVdkX1F2aVZHRTQ4dXNQbDVsMXVNOTVEdEZTM1ZUMWZ4T3dKeGdJNGNDR3dERXltbjNFUGhObVhJU2VYS1llN2k1SDNaUDZ6UDRRdWZTU3Mxek1NNlJHTkZQZTJfOElDTjJyeWhmX3JDMGFRdTdQdmxsdmVNRDdaWWdCTkdRd1VB?oc=5"
+      "headline": "Cboe Stock Soars As Dividend Hike Ignites Rally - TipRanks",
+      "source": "TipRanks",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVdUUUNRUnBEN1ZQeWhRaFNGWjRvOFlYWDFGYVFLV050UlNGQjlZaFU0OGV5TE1ULVhmTUJZX2w3dkJOTVVsU050LWJGbTB6MkVmQ3d2TmFrSVN6QWNJbWk5YkhHWGxXMkZLWXIwMUU0eHZtZV95dkZNNkJFLTBPUDVrbGFicldwa2ZXeGJqQQ?oc=5"
     }
   ],
   "insight": "Tracking Cboe Global Markets (CBOE)."

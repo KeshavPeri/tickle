@@ -1,10 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:02.654Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:03.690Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
-    118.4000015258789,
-    119.04000091552734,
+    118.23999786376953,
     119,
     122.61000061035156,
     124.23999786376953,
@@ -24,9 +23,11 @@
     140.75999450683594,
     134.5399932861328,
     133.85000610351562,
-    133.6300048828125
+    133.6300048828125,
+    129.97999572753906
   ],
   "6m": [
+    133.9499969482422,
     132.42999267578125,
     126.94999694824219,
     125.37000274658203,
@@ -137,8 +138,6 @@
     123.33999633789062,
     120.47000122070312,
     118.23999786376953,
-    118.4000015258789,
-    119.04000091552734,
     119,
     122.61000061035156,
     124.23999786376953,
@@ -158,10 +157,10 @@
     140.75999450683594,
     134.5399932861328,
     133.85000610351562,
-    133.6300048828125
+    133.6300048828125,
+    129.97999572753906
   ],
   "1y": [
-    135.33999633789062,
     134.00999450683594,
     134.1999969482422,
     133.88999938964844,
@@ -390,8 +389,6 @@
     123.33999633789062,
     120.47000122070312,
     118.23999786376953,
-    118.4000015258789,
-    119.04000091552734,
     119,
     122.61000061035156,
     124.23999786376953,
@@ -411,29 +408,30 @@
     140.75999450683594,
     134.5399932861328,
     133.85000610351562,
-    133.6300048828125
+    133.6300048828125,
+    129.97999572753906
   ],
-  "lastClose": 133.6300048828125,
-  "oneYearReturn": -1.263478277928241,
+  "lastClose": 129.97999572753906,
+  "oneYearReturn": -3.0072374781653335,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "86,404 Shares in Apollo Global Management Inc. $APO Bought by NewEdge Wealth LLC - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT2dDU25BMHRoM19FWEtoek15YnRCZHA3MXFoSXJiTXo5aTBIcVN6TTdSV0pkUkVLRkdha0lKYWlZM0lKNGNvVUJfczhaTmZyN0Qta3lFM1NaUGs4SU1lU1E1em9YZG42NXhuSGRUNmlYb0dIakw5STdnUElCbm5pMVk4M0hnVDhwalVVcVowaGpZdU9OWDZ6ekhTbURsQWR5MV9yRGlrZ1NiN3NtamtHZUZSYi1IUmJ2ck9xOTBpc1lRbmg4cGlUUm9HamJRUXRRaGRtNw?oc=5"
+    },
+    {
+      "headline": "Apollo Global Management CFO Kelly Martin sells $422,535 in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObHF0Wm4zZm5TQUxyY0l2OW5POFE3V1ZqYk9KSVFXVmh1QVBtMHFUT2NsaFF1MzI0Z3NEM0NSaGZyREIySExZS3NuX3N0NHRHMi1KYnRoX1ZsVGI1NlFSWDRPbzJJMXdrSjhUODYyQVVSUms4bFM5X0tRdkFnckZrbVJhVmcwT1pJTlhSUEMxS0dhdGFaMXZUbDhUenBVOFdwanFnWVJMTXRFSmNfTzhGR0N3bjV4ckVCRlJPVFhBMFRxbDkxOXdZ?oc=5"
+    },
     {
       "headline": "If You Invested $100 In Apollo Global Management Stock 5 Years Ago, You Would Have This Much Today - Benzinga",
       "source": "Benzinga",
       "when": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa09lV0ZUMnBfWk9iaHBpQzZ0V1Ywa2FLWDhuNnZnZF9BN0RaUDZvMjA3Z3Bha2V0bkNRWHdIVXBkal9BTDluR2NOTWVlM3M2TmRwWENwdlJZTXFfQVZtclBlSmN6aTRmaEw3Mzl3SHFBSl9WUWVTR0N0X3JhZjh0d1pQYlBxRVo4RGpidEczTlplYmlDMnVuNVFzRHZlcmQ1YnE2MXlwNTlWQ0F1OV9NNlVWZEtzZE9SXzFKandyaUhjUzQ4Vm5Lek54UWRtUQ?oc=5"
-    },
-    {
-      "headline": "Deutsche Bank AG Purchases Shares of 1,456,257 Apollo Global Management Inc. $APO - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdV9VX3JQSzJONGlhVllydVRNamVubHdwTUk5cU9iQVpJUFJUOHVIb1ZJdzBtZmNfT1d6RFlRY2RYTlJVOGpEWjlOazlCVllHcHN3WXFNN2pPZHhDY0ZadGtDUGpGdUhwcWszV0lYRHRxZVZFYzhya1F3LUd3U0p4VU1KXzNvRGNmbTEyeUFBQms4anBoSUVvenpwWFdtS1BoQnZheGFPZ0hnSHdyWDJxMEdjRDVoTmFjYlVpeUM5RkwtaWszcm1RMVRKZGdYU3BucDJjQg?oc=5"
-    },
-    {
-      "headline": "Apollo Global Management (APO) Stock Climbed, What Is Driving Attention Now? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmNWd2pESG03RWswQ3hYZ0NORFNYVmxNejgxa18zWEdDblRUdW5PTlF3SVl2MExxVFBwNGNrTTZZZGVsNkRUbHRMdnFlQ21xcG03VjA1QWtuTEVWVXB5dmlsTFVjWHBhbl8tOFgzWER5cEJiV2kzTm5ha1hBRHVDYk1QbDFuQkZCdTZkMkxmWVRuSmlQZ0E0aUtuV2hRMUZm?oc=5"
     }
   ],
   "insight": "Tracking Apollo Global Management (APO)."

@@ -1,11 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:34.456Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:42.768Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
     28.290000915527344,
-    27.530000686645508,
-    27.34000015258789,
     26.329999923706055,
     26.760000228881836,
     27.290000915527344,
@@ -19,12 +17,14 @@
     29.670000076293945,
     28.520000457763672,
     28.489999771118164,
+    28.6299991607666,
     28.670000076293945,
     28.940000534057617,
     29.15999984741211,
     28.700000762939453,
     29.389999389648438,
-    29.450000762939453
+    29.450000762939453,
+    29.649999618530273
   ],
   "6m": [
     22.739999771118164,
@@ -138,8 +138,6 @@
     28.690000534057617,
     28.43000030517578,
     28.290000915527344,
-    27.530000686645508,
-    27.34000015258789,
     26.329999923706055,
     26.760000228881836,
     27.290000915527344,
@@ -153,15 +151,16 @@
     29.670000076293945,
     28.520000457763672,
     28.489999771118164,
+    28.6299991607666,
     28.670000076293945,
     28.940000534057617,
     29.15999984741211,
     28.700000762939453,
     29.389999389648438,
-    29.450000762939453
+    29.450000762939453,
+    29.649999618530273
   ],
   "1y": [
-    29.610000610351562,
     29.739999771118164,
     30.5,
     30.139999389648438,
@@ -390,8 +389,6 @@
     28.690000534057617,
     28.43000030517578,
     28.290000915527344,
-    27.530000686645508,
-    27.34000015258789,
     26.329999923706055,
     26.760000228881836,
     27.290000915527344,
@@ -405,15 +402,17 @@
     29.670000076293945,
     28.520000457763672,
     28.489999771118164,
+    28.6299991607666,
     28.670000076293945,
     28.940000534057617,
     29.15999984741211,
     28.700000762939453,
     29.389999389648438,
-    29.450000762939453
+    29.450000762939453,
+    29.649999618530273
   ],
-  "lastClose": 29.450000762939453,
-  "oneYearReturn": -0.540357460702564,
+  "lastClose": 29.649999618530273,
+  "oneYearReturn": -0.30262324573147364,
   "marketCap": null,
   "topNews": [
     {
@@ -423,16 +422,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0Z2dzdFRHBUNDE5SkVUdGV1QnduVnRJYXNKMjE3R0kyTGVFYkZGUkhYTUNTd3RRZmMyUXdoVHdydXlrc2dEQUNRSllPSkpOeXNDQTRtZ1l2c2lkRjRoMi1PVDdJLU1RNmpHWngwWFI3UEdWNHB3ZnI5cXpmWm15ZE9pN3NWMnVuSmQ0R0hPRTh0UVBxYm96enA0N1lweWhHYlVvVg?oc=5"
     },
     {
-      "headline": "Resilient News Corp stock steadies as buyback and 2026 results frame valuation - Ad-hoc-news.de",
+      "headline": "News Corp stock holds steady as buyback details highlight capital return - Ad-hoc-news.de",
       "source": "Ad-hoc-news.de",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRjlzQjBOaThiODM3TV9jUTFpeWlZMngtM1M1WDBJTzd6UnczMkRkNm9JSVJWV3FtOGRFa1lGb3ZwSDRCYmdla1NaX09sR09PRURJN3NjMm1kMWR0aHZXOGF3Q1RUM0g3QUF3YmlzdnVlZXNHME5CRnhNSVZhcmN5SXM4WXAyMkhFeGpTZGFBcGpWdUFaTzNuT3p4SHFfOHRyVlNtRnZJTk12ZnhyZkhnVWMxODMtcFozMFJUNTAxQ1otZ1A2MldmNVdKTQ?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeHQ1Z2NncFl5eEtySmk4dm9CQ1owQ2sxSjBrX01TZ01JUnlhbnBYcjBKTlo2SmhsbGg1eV8xT25NTzBrc2hYR0ZWUXFPRGVCUkdxaUd3WU93NkpjdkpGbVF6eW03UFhXR1NSdExibl9DWXFET3dla2V5OWVscERPY05FUlQ3bXZFRGlrR3gtWGRpZmZJY3lGODNrdmVwcU1sWjVEejdHSV9ldnFXdUxqVkFRZWg2SHVIaXVhc3c0R19PTDRJcHlWUV9hMmxTNUpP?oc=5"
     },
     {
-      "headline": "News Corp (NWS) HR chief sells 21K shares after awards vest - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTG9ZMFg5VmotYTRQTTFoT1prWlE3R1RzdEllUlE4dU9XNlBqdEo3djJ2TWtLNkdFSFU3N2dHNXJWTm1sN1FlQjBJSnVEX0JpUzkzUlVNNkRad0J2WWNpZTVIS2ZTdzRGYlNsMk9NcUdkUTF5MzRReVJfMnFtSmw5LU93LWJMNzN2UWhkTThaM180aDNTellrdkE5OTc5OVZDYmFuaQ?oc=5"
+      "headline": "News Corp (NASDAQ:NWSA) Flashes Bullish Breakout Setup with 9/10 Technical Quality - ChartMill",
+      "source": "ChartMill",
+      "when": "2026-05-14",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbmc5Z1ZtS0laWmJRS09YTUJ3RS1DTi1HYnlUck5wVUh2ZVNvVHZUQV96QzJuNmdnMzBrQmxHWlc2Q1lidXV5NDVFcmM2SFA4SFJaY1VmUjhTUXNpYVNtRUdfRWZNVVdjdUhFOVFQOHhsQzhiVmp2Ym43NWFLSDE1RjlKUEhzUTd6LWdBX24xc3g5SkFiY2ptSVY4dzJWOGdsazVibVVkRzJCMTlxZDBRUm5JNTZObnpnX1ZQNjhiNE03azhDMUlaUUtn?oc=5"
     }
   ],
   "insight": "Tracking News Corp (Class A) (NWSA)."

@@ -1,11 +1,9 @@
 {
-  "builtAt": "2026-08-20T02:38:12.190Z",
-  "builtDateUTC": "2026-08-20",
+  "builtAt": "2026-08-21T02:45:15.572Z",
+  "builtDateUTC": "2026-08-21",
   "source": "yahoo-finance",
   "1m": [
     86.77999877929688,
-    86.94000244140625,
-    88.52999877929688,
     88.77999877929688,
     89.25,
     87.58000183105469,
@@ -19,12 +17,14 @@
     76.86000061035156,
     76.83000183105469,
     76.47000122070312,
+    76.22000122070312,
     75.52999877929688,
     75.79000091552734,
     76.68000030517578,
     76.01000213623047,
     77.91000366210938,
-    78.56999969482422
+    78.56999969482422,
+    79.45999908447266
   ],
   "6m": [
     73.62000274658203,
@@ -138,8 +138,6 @@
     86.6500015258789,
     87.30000305175781,
     86.77999877929688,
-    86.94000244140625,
-    88.52999877929688,
     88.77999877929688,
     89.25,
     87.58000183105469,
@@ -153,15 +151,16 @@
     76.86000061035156,
     76.83000183105469,
     76.47000122070312,
+    76.22000122070312,
     75.52999877929688,
     75.79000091552734,
     76.68000030517578,
     76.01000213623047,
     77.91000366210938,
-    78.56999969482422
+    78.56999969482422,
+    79.45999908447266
   ],
   "1y": [
-    72.95999908447266,
     72.9800033569336,
     73.37000274658203,
     73.5999984741211,
@@ -390,8 +389,6 @@
     86.6500015258789,
     87.30000305175781,
     86.77999877929688,
-    86.94000244140625,
-    88.52999877929688,
     88.77999877929688,
     89.25,
     87.58000183105469,
@@ -405,17 +402,25 @@
     76.86000061035156,
     76.83000183105469,
     76.47000122070312,
+    76.22000122070312,
     75.52999877929688,
     75.79000091552734,
     76.68000030517578,
     76.01000213623047,
     77.91000366210938,
-    78.56999969482422
+    78.56999969482422,
+    79.45999908447266
   ],
-  "lastClose": 78.56999969482422,
-  "oneYearReturn": 7.689145669884585,
+  "lastClose": 79.45999908447266,
+  "oneYearReturn": 8.879138708512293,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5QVMyWDYtMWVOSHYxLUJiX2l4ODFadmJhRFprWFk4TmIyc0xnajBtSHJwTVd6N3ZFWVlobGw5WW9GRktQdUhMNVFteW9YenNI?oc=5"
+    },
     {
       "headline": "Corteva (CTVA) Stock May Be 32% Undervalued After Debt Exchange Offers - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +428,10 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNnk3MnB6OGpZdWM0LTdPc1hVc2l0V05qTDJwdDFmam1yVUpMTkVrMEUyREdmNzM4WXNyN21EY1BBQk1XV21UZkdHTllnalNoRmFmTGNCT0NFaGlxWkJWUk9vLVpMdVBwTFBERWlNLUFaU1k5dTdzeUNzSjJpbkdfN2xYR0xtdkF1N0hoTVdBcU1rUkRG?oc=5"
     },
     {
-      "headline": "Oxbow Advisors LLC Makes New $8.16 Million Investment in Corteva, Inc. $CTVA - MarketBeat",
+      "headline": "Great Lakes Advisors LLC Purchases Shares of 61,037 Corteva, Inc. $CTVA - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOclIxRi1QOThNeGx4bTNjMnBkUndEWTF3dmNSdy1BSkdXdGh0R0lneUNXUVNBQlU3MWJZUWp5bWFPS0J6RF9wNUNkQ0ZDUXl6blpQc2NQbTd6WkFjT041ZWdSVkNZTHR3OUQtWGk4akc4MldTWEVMdWVzRVMwTUhJRjZaTEo0LU5la3drV3NHNVBieHh2S1E2bHE0NUhZZkhvR1NnSVpkUFd1VHh2ZzBkeVJtQzRDcFRXZkNXX0RvWFJFSTdvY3BLS2E3TWo?oc=5"
-    },
-    {
-      "headline": "UBS cuts Corteva stock price target to $85 on 2027 growth outlook - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmh0eEo3ckNWMU93YkdDLThKdWp1LW5NYVoxTW92VDhrREVyTHJXXzAwcnY0a21UdGlQV2VBSzVRUnJzWE1ETjdVaklwU1pRazNidVMxNEJyMTNuczBnLVAzZExrWTMwOUx0NE5LT2czeWFTd2ZwdEtrcUI4OVY3aldIdHIxYXJYLURZN043dkZqTUo5Y1dwek01UTVrbzU1Qy10OFZnUnJKNHdyVi1hMVdpZ3lsNkpqckJJemtKS2JkVVhRWWNOd1JXRWE?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdnRDWjExUG03ZzJGQktJc2tPSkhMX0Y1U0xVVFNRYnRXRGJBdk5ZTE0tdkxxUHRPZ0trT0dmU09neVlCdDZpRjFEaXBocTF2WGZsamVfS0RhQ21JamZhZGI2U2JLTjJpYW9jWGQ2WW42cEpvc0M5aDJJMy02emJKUU5oODhjZkdvMmdLejZzY1VEWllJYVpPSVFkVHFqUzNoVUtsdVZrNGdJY2pPSHdRRGd2ZTJsN1dLM1NNRXdFcXhoT2dVZlRv?oc=5"
     }
   ],
   "insight": "Tracking Corteva (CTVA)."
