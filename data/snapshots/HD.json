@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:29.770Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:46.518Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    331.45001220703125,
     324.7099914550781,
     332.9800109863281,
     336.0899963378906,
@@ -24,11 +23,10 @@
     337.8800048828125,
     337.489990234375,
     344.29998779296875,
-    334.489990234375
+    334.489990234375,
+    335.6099853515625
   ],
   "6m": [
-    389.67999267578125,
-    390.67999267578125,
     390.2200012207031,
     391.04998779296875,
     383.0400085449219,
@@ -137,6 +135,7 @@
     348.0199890136719,
     338.8699951171875,
     333.0400085449219,
+    331.6000061035156,
     331.45001220703125,
     324.7099914550781,
     332.9800109863281,
@@ -158,10 +157,10 @@
     337.8800048828125,
     337.489990234375,
     344.29998779296875,
-    334.489990234375
+    334.489990234375,
+    335.6099853515625
   ],
   "1y": [
-    397.70001220703125,
     412.7900085449219,
     408.8999938964844,
     407.5400085449219,
@@ -389,6 +388,7 @@
     348.0199890136719,
     338.8699951171875,
     333.0400085449219,
+    331.6000061035156,
     331.45001220703125,
     324.7099914550781,
     332.9800109863281,
@@ -410,18 +410,13 @@
     337.8800048828125,
     337.489990234375,
     344.29998779296875,
-    334.489990234375
+    334.489990234375,
+    335.6099853515625
   ],
-  "lastClose": 334.489990234375,
-  "oneYearReturn": -15.893894903817834,
+  "lastClose": 335.6099853515625,
+  "oneYearReturn": -18.69716359303795,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "The Home Depot Announces Second Quarter Fiscal 2026 Results; Reaffirms Fiscal 2026 Guidance - The Home Depot",
-      "source": "The Home Depot",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1cGJkbzZfUWpYZnhaMVNvZHFlYTgwaWJNSE1CbkpjRG14cllmVkNzTFhHYnlTaS1ETS1uZlJPNzFnbXRkekhCTXBseTZIWlZiNjJ4b080dXUxdFQxTWVBLVltdFBjTk1LOTl4ZW9hTTliUQ?oc=5"
-    },
     {
       "headline": "Bank of America resets Home Depot stock price forecast - thestreet.com",
       "source": "thestreet.com",
@@ -429,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQUJzajB4eklVYTE5M3FteXAyempzN0c5Uk1sMFJlTzMtalNJYnMyazRVaDQyT01NdldpclVNbHZjc3BfM3JnOXRLUG45WHFMM2dBNm9sRVFFcmJrQk0tUl80Y1ptRkVJUk1JUDZKNjQzdzhTZXRmSzh0TXVKZVY5Z2Z1aXYza3VVM3FQMzVRRnc5VUNFcXZDOHJ0cVp1Zw?oc=5"
     },
     {
-      "headline": "Home Depot Stock Rises as Earnings Defy Housing Slump - Barron's",
-      "source": "Barron's",
+      "headline": "Home Depot (HD) Stock Revenue Gains Meet A Profitability Squeeze - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRFAyaExqVDBIRkFKdEFrU0JvYlJtTjRUNl9oRWhxNjF3dEQzTU9OejdjbWhNVE1HX3FhdXVMN2lramtoRHRfQzNRM3Jqd3hYSjdMT0dMYlpONThwWkpOUkdrNkk1WERWd2hTSDhOcTB2ODVMSEFfU1h4Rm9EZVUySERtY1J5RTF1VHlKMEJTMzZaR1pzaElxR3ltckJGUXlYSGxiSGFPa3hHcDQxWC1la1A5Yk1lVHN0UkdDdFdXQ1XSAcYBQVVfeXFMUFdBUEg0OHJZUl9nTFU5amZ2c1hxcW53ZkxGVndEdUVfbFljeWNFUDFnUnZRYWVyVzhvbUtUVGdTTlRxZXFzcmFfbFlGMVZkdmEzVzlsbnREdmJadjZBbnBoLWJqYk1nYk9UeDg5Q1dWczRCeTFfZGxLcFlMdy01dGIxWVpla2x2R1UzOFdGa3JQQTBxN1BYc2p6OVpycnpaWmYtMkVyV1JvdXNhODdSdTJ4TTlJNkVqOVIzV1liLVJvMmdRYlJn?oc=5"
+    },
+    {
+      "headline": "The Home Depot Announces Second Quarter Fiscal 2026 Results; Reaffirms Fiscal 2026 Guidance - The Home Depot",
+      "source": "The Home Depot",
       "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FMG9fa2RUVGFSVHdnaWhqbnIxcWx2WkN3M21yLVNrOS1lSHROaERETHpUaFEtNXBWVnpGNUtDeFZ0LXBDdENEWDF6WmhGRjNheEtsdkdVMG9TNl9vbi1ycmJVOGFJQkNGemlxY20zNXBYcUZJbTVva2R6N2gwUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1cGJkbzZfUWpYZnhaMVNvZHFlYTgwaWJNSE1CbkpjRG14cllmVkNzTFhHYnlTaS1ETS1uZlJPNzFnbXRkekhCTXBseTZIWlZiNjJ4b080dXUxdFQxTWVBLVltdFBjTk1LOTl4ZW9hTTliUQ?oc=5"
     }
   ],
   "insight": "Tracking Home Depot (The) (HD)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:45.445Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:56.855Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    117.97000122070312,
     117.83999633789062,
     119.95999908447266,
     121.88999938964844,
@@ -24,12 +23,10 @@
     124.55999755859375,
     124.54000091552734,
     122.22000122070312,
-    120.58999633789062
+    120.58999633789062,
+    121.1500015258789
   ],
   "6m": [
-    102.19999694824219,
-    103.33000183105469,
-    105.26000213623047,
     104.1500015258789,
     104.61000061035156,
     103.2699966430664,
@@ -138,6 +135,8 @@
     118.25,
     119.06999969482422,
     117.97000122070312,
+    118.58999633789062,
+    118.8499984741211,
     117.83999633789062,
     119.95999908447266,
     121.88999938964844,
@@ -158,10 +157,10 @@
     124.55999755859375,
     124.54000091552734,
     122.22000122070312,
-    120.58999633789062
+    120.58999633789062,
+    121.1500015258789
   ],
   "1y": [
-    107.16999816894531,
     109.88999938964844,
     109.11000061035156,
     109.37999725341797,
@@ -389,6 +388,8 @@
     118.25,
     119.06999969482422,
     117.97000122070312,
+    118.58999633789062,
+    118.8499984741211,
     117.83999633789062,
     119.95999908447266,
     121.88999938964844,
@@ -409,29 +410,30 @@
     124.55999755859375,
     124.54000091552734,
     122.22000122070312,
-    120.58999633789062
+    120.58999633789062,
+    121.1500015258789
   ],
-  "lastClose": 120.58999633789062,
-  "oneYearReturn": 12.522159557929365,
+  "lastClose": 121.1500015258789,
+  "oneYearReturn": 10.2466122474937,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Prudential Financial (PRU) Stock Trades At A Discount To Fair Value While Earnings Stay In Line - Yahoo Finance",
+      "headline": "Are Wall Street Analysts Bullish on Prudential Financial Stock? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX3pBNEhzbUZYV241RzlST3NxTmJkb29qMlRaVDUwVW5RcnRuTXdwUEw1MG1CemtpWjlUZVRDUWxfX0hPX1o4cjE1M2VzVTlEMVlPS2lBM3BNN0E2aml1SzVkbnBrS21HVVVnRjJLeE1lNnQxZnd0QTJSRGU1RVVHaHpOc2l1Q1N1N0prd3kwVm9wSng1ZTM4TW5kNWFqSFdtWXE2TU9oSXBiZw?oc=5"
+    },
+    {
+      "headline": "Prudential's CFO webcast is set for Sept. 16; about $1.6 trillion is under management - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2NBOHoybm80STZiWFZTY1p6VDN6a0pEUE5CaXBsMG14UXdPeWp4NEFoMnZVTXQwRVdXYUxIbE9maVl2RVFVS081bHBhWlRJS1doS3Y0ZVVjek1KVE9wT0E0OUIwRFFIS3R0R1AtRklrZTZRUTJTSVV1YjF1ajB6aXFabmNDQ3Bkel9UNE1BMGFGSHNxZjBCakhxVEJydHhZX0dtTk1rdnBraEpjdTllZVVkMUY2RW8w?oc=5"
+    },
+    {
+      "headline": "Prudential Financial (PRU) Stock Still Looks Cheap With Strong Returns And Earnings Support - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnJ2eG5ISTBWUjhfT3FXNTRqRl9ocWhJZlJ0TnhvUjBiZDUzdk1MTHRpSHlPdWFsaWRZNTc4QjQxeXZmWkFnWnJIYm5waWx4ZFdzRzZ4VXlvTHB3UnNfNFVJbnpFb3pyMG9tanhzaVdGdUNoai1rTzM0Wl9tM3dSNmhmUV9ucl9fOVFTeHh5VUFadTRmbnFTUXRBQXh1OEJHVlhibQ?oc=5"
-    },
-    {
-      "headline": "Prudential Financial Inc preferred stock hits 52-week low at 15.16 USD - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkF6M2c3T1JfNHY5dVdINlZNVjBWMmtudURJSVJQNmdqTjVsWXcxaGx1eHZJSEZLVWhTMzQ0aTV0RXA4NzdzTy1FdTBlNWowdGxVYTV2SURPNElwdzVZV0czZFhLWXdadllYcHVwNENiWEFtQ2dRd25adVNibTVydDZpZG9YSkJFMWU1NFZPajJqSG5WSnc1WUdQTDlhbnN4R2tkX21zWjlCc3c5QXNSSlZxUnNFaTJGQ090QXpDdmVrVE0?oc=5"
-    },
-    {
-      "headline": "Prudential Financial (PRU) Stock Slides As Profit Strength Meets Japan Drag - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV1k1bjd3QzNSVU5xaHo4NnRIOW51d3JuUnZHc2hrMnhxSjY0VUk2bWRYU0ZOX25FeExZeHg1THVrUktpbWp1UkRMSEY5bjZ6ZGNyQWMxM3o2RW5EN0lIa0s1YXgyWTk5ZFdkZmd0ajNiaEZza3lEWEY0dDQ3ODlNTUgzMDN4cUt2NFhZVkstQjBPWmw5S0tEYWxoVy1PUmd6aklIVkpnZk13SC05UnpSbHBuc3FFclRpZ2Y3dHVhUmswX2xvVFFoMGFJbm9LNDJqbE130gHYAUFVX3lxTE1WZ3hpZ2J3T1REUFZVbDhjLXJPNEtXMGJ3ZWVjbG5HZnl1YUFEX2JJd1Z3VmlSb0hfazJ6SE9mRl9tLXd4RzZ1Wi1SeVl0LTZ6akdRbTQ4TW5NOV9LSEs5Uml6ZVZFWGtWVkQ0RG9vUEpvdGgwcTg5TUxJV1ZZdDZEWXRGQXJxTzBTMzBDQ2pWMWtTRzU2SFk0V3oyZ1ZpY0dkcVFFcDBLcG1ncUtNNlMzUGFpY3lScE82ZkxoWTk0QnlVOFRBTEZqZWltUnd6eXRqVElKUXJSTw?oc=5"
+      "when": "2026-08-01",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1FBbzUwaW1oLUZuc0ZJb0RNU0xUcC1GTzVGdWc1X2tBVm56enF1VXhKUGhpbGZLZGFtc21lREU4a19HNS1xcnRyOEh0aVc3VElvemF5N3NYalB0SzdyOEljVUdpNVNFbTdGZ1JuM3Rfb0pxYWJIYW1LQzdvdURwcF9pRTB0bzNsMGtCZzZyNXRuMFpfcWhGNnFNS1YxdU5VVlYw?oc=5"
     }
   ],
   "insight": "Tracking Prudential Financial (PRU)."

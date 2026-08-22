@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:00.669Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:27.401Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    79.80000305175781,
     78.16000366210938,
     79.05999755859375,
     79.16000366210938,
@@ -24,12 +23,10 @@
     75.80999755859375,
     76.12000274658203,
     75.69999694824219,
-    75.75
+    75.75,
+    76.12000274658203
   ],
   "6m": [
-    74.9000015258789,
-    75,
-    78.44000244140625,
     78.80000305175781,
     78.2699966430664,
     79.4000015258789,
@@ -138,6 +135,8 @@
     78.02999877929688,
     80.5,
     79.80000305175781,
+    80.23999786376953,
+    78.25,
     78.16000366210938,
     79.05999755859375,
     79.16000366210938,
@@ -158,10 +157,10 @@
     75.80999755859375,
     76.12000274658203,
     75.69999694824219,
-    75.75
+    75.75,
+    76.12000274658203
   ],
   "1y": [
-    82.58999633789062,
     83.37999725341797,
     82.79000091552734,
     82.58000183105469,
@@ -389,6 +388,8 @@
     78.02999877929688,
     80.5,
     79.80000305175781,
+    80.23999786376953,
+    78.25,
     78.16000366210938,
     79.05999755859375,
     79.16000366210938,
@@ -409,23 +410,24 @@
     75.80999755859375,
     76.12000274658203,
     75.69999694824219,
-    75.75
+    75.75,
+    76.12000274658203
   ],
-  "lastClose": 75.75,
-  "oneYearReturn": -8.281870252066561,
+  "lastClose": 76.12000274658203,
+  "oneYearReturn": -8.707117709263693,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Danske Bank A S Raises Position in American International Group, Inc. $AIG - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaVpRcnVLNVNCVDNkaDNxS2pGMnlvUmJ2RlZBYUR2TjRocjRDNUduQ2JwLWxhN1FzSVFfVkVvdUwwS1NYYTUwTWphNVNjdzI2UXpjSHdUY0lUQko1SlY5Q19pZVg0RFhFQVhDeWdibVZMMldFdjhfN3I0SWlSZmllbGNQSzRzYjV1M0xCTWU0eEdnZHI5WjhGZUdhUndiRmYzOWp5SmNpZFlMX0RWQzlLYVFIRy1JalZWWG1HMzk2MlM4WHZsaVI3aU9mWWM?oc=5"
-    },
     {
       "headline": "American International Group (AIG), What Is Behind The Fresh Attention? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRE5jNUNuYkpsams4MTJLeW1qejBxREtyUXV0OFljbkoxaU5rOTZMdkZaTkdKMWptZHZ3X1Z4dzVpN2N2TC1Ob0Iyam5rZ2oyY3ZOV20wbE5uNXVnM3hjLUt0STA1RXJOVlh3Um0ybVFmNVZTNFdlZXE5dmV6NFBSOGk4X0NZLUx2OHBKOFFZSDhrUlBZRG9fY3BMdG9LUFM2S19yV3BYZHBEYkoxRmpPNGJpSDdyQmJyNUQ2YXhrSEVhTkJQeXA1N1RsalliWHRlZU5pWEJkdHpBd2JESHfSAeMBQVVfeXFMTU8xQTNONExzS043UXZaTFJhOVQ5dGlGd0ZfeDlHNkZCcmE5czFQN0lTTDhFdnNTc0dQeTN4Y2YyMXpxVmNnSTUyc0dGeWlvbmRLVm04TlU1R1BTTjJjdHVTRHVMbjNXdFFQTGdaWC1QVnIyTThHT0hEaXZxSHVIemtmaFN3eGVmb2FKeGpsXzQ0MTRfdDJsS01QYl91STVKalk3YVlld0pPeFlFMFFtUjZfdDg5ZXVSLXVHYXhPalRlUVdlX2RJYjlrLTF0dEtSVHV3OW45YkFUWW9yTWNWdlVQTlE?oc=5"
+    },
+    {
+      "headline": "Ceredex Value Advisors LLC Acquires New Shares in American International Group, Inc. $AIG - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVzJneGRFWEZwYlFzX0ZROTd3Z1hNNi1JRm1PTHpIbXhPdWF0Zm1GS19zTk1ZaU5rQkh0MjNkUHVCRFVPWlExb1VseFh6Q01wMXd0bUdFREVHN0lrMlVQU3JCQkdUdTc0NDNsRFJHVjhaYmgwR3NLSEFveGZianVfNzRSeEJMeV9JNjVKREtVdlk1aHNWQzBaRVRTVHl4U2U4QjFRZGQ0MWVKZUR0blN6elZzT0F5NHZFMWdyMjlfc2FFWkZYdjNkbnM0S2VidEtNVmZybzVxd3RveGp6V3FWNQ?oc=5"
     },
     {
       "headline": "American International Group Inc. stock underperforms Monday when compared to competitors - MarketWatch",

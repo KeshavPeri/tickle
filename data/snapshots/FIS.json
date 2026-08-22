@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:25.039Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:43.427Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    42.27000045776367,
     40.040000915527344,
     41.5099983215332,
     43.15999984741211,
@@ -24,12 +23,10 @@
     41.16999816894531,
     40.95000076293945,
     40.65999984741211,
-    40.58000183105469
+    40.58000183105469,
+    41.34000015258789
   ],
   "6m": [
-    50.59000015258789,
-    50.54999923706055,
-    48.310001373291016,
     46.95000076293945,
     46.79999923706055,
     47.52000045776367,
@@ -138,6 +135,8 @@
     42.619998931884766,
     41.90999984741211,
     42.27000045776367,
+    41.58000183105469,
+    40.540000915527344,
     40.040000915527344,
     41.5099983215332,
     43.15999984741211,
@@ -158,10 +157,10 @@
     41.16999816894531,
     40.95000076293945,
     40.65999984741211,
-    40.58000183105469
+    40.58000183105469,
+    41.34000015258789
   ],
   "1y": [
-    69.55000305175781,
     71.76000213623047,
     71.08000183105469,
     70,
@@ -389,6 +388,8 @@
     42.619998931884766,
     41.90999984741211,
     42.27000045776367,
+    41.58000183105469,
+    40.540000915527344,
     40.040000915527344,
     41.5099983215332,
     43.15999984741211,
@@ -409,29 +410,30 @@
     41.16999816894531,
     40.95000076293945,
     40.65999984741211,
-    40.58000183105469
+    40.58000183105469,
+    41.34000015258789
   ],
-  "lastClose": 40.58000183105469,
-  "oneYearReturn": -41.653486627662964,
+  "lastClose": 41.34000015258789,
+  "oneYearReturn": -42.391305850148534,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Deutsche Bank AG Invests $111.20 Million in Fidelity National Information Services, Inc. $FIS - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLXpKcUFtak5URlljR2djRGV0NVlkZkZ0VFJxM0J5MWFLSWVuNXI5RFZvbzZSbUFDSkwzQ3RjUTlaelB4UEhWeV96VUVZZDZjV2lVWHhiaV94M1dpTDBEcG04TE5aeDZSYUdoaTlyUmthT2M2TkVTTXdnem9STWk5cW1LX0JaWG96Y2U1VXdDNW1wQ1daZlVibGxFVTlmem9STDVZeldwcll4TFVrRUFjU0NadnVFODlMYXAzVUVkbTFvR2RzOHl3N1NXd3VqNjFnZ2dDQWg0TTY4ay1DcmkzTmRnQQ?oc=5"
+      "headline": "Is Fidelity National Information Services (FIS) Cheap Following Its Recent Share Price Slide? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNU10Nnl2bldoV014M0VNN2dHTlBSMWxqTEtvY2NJRXJ4aEVYV2R0S0swejJYQ09MUjBNbldNQXpDOFN2bU81c2tvZ2c4cXJJcXR6YXFuSG8zZF9CU1pVeFBFYnpCSlJnQWU0RnNMdVhEbmJtUUNMWmFPRWkxT1JVem5pQzhaSmhNNlg2VVBxM2x5cUVkSHJTZzRwQklBZG1oNEpfdFh4V0tCa0k?oc=5"
     },
     {
-      "headline": "Fidelity National Information Services (FIS) Could Be 20% Undervalued Following Strong Earnings - simplywall.st",
+      "headline": "Does Fidelity National Information Services (FIS) Trade At A Discount Despite Capital Markets Pressure? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQV0ZrOU40U1lMXzFEM3ZVMUZ0eWV3c3o0czRrQVM0VmYxTllaS1AwUFBkTWkyNWxuMjhQUnBHYndEQks3V3hMMlkzS05xZjVBa2tjX0dFbGZaRDlYdlh5d1FUR19nN0lwWFJGNjJ1SkJNM2V0cTEzUVV0cDVnSWMtV1RFZ2JRdUhHZTczUnJDTEM3MzRyeGVMdVRwWjR3dllLcURNT1h3ZFRoVE44Wl9HcVREblBuaTluT3B5RXM1ZTh3Q1V5Q2hJX2hkSTFZa1gxaWVXS2ZkNW40a3JUNGhHOWZiZjMwTzJ6Qkg1LXdYTktldDN3LUhzLU0tb1LSAYICQVVfeXFMUHpmNlhNblNqSmpscnNQbnNpZkE5MTQ0MDlEMXVhUGMwWndOMllGYUNLZ3g4b2tZa3NYN3gxYUszcl9tQ3lwOURhdFA5dFJSZFFyUUU2MVc3Wm5Na0RlbG02b0RXMWp5cHZPbExoakpmQ2lLV2JoaG5KNzhfOUNyT1gtNXhLU3JNNFpGU0gzWXZhc2ExX2pTYzd4dlJkMHpieDVrdm9lMFpsYkNKbHV4bkZLS2pxSE94b0xlX0xJeXZUMExXc3l4OTBTMkV5UnRuR2xPY0lwY09NYkJ1UC14dVhsRno5N2pUeVZreV9ReTloa1JUZ0treEpNY0hSUjJIUU93?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTFhZLTQ5YU8wMEsyUzh4aFF0S1Axek5SRHVwcnczSXdLRHhWMklsQmtSQ0dWOFcxYUt6enJmZHhSbkE2aDlBYjFWeTVUMDdNdS16YUJ2VDhERTRSZXhReUpyYkZBU0dUeTRvajgwT1I5ZHVpbTBSV3lYSHliMWh0N24xNkYzeUJXdWR2NG9rMk1mVzlOay1QcktlTkdEWVEtb0FhSEtBM2ZzbTllYW12SkpKZGpneUZPVV9Ob0lTTWs4MHJjVkpmNHNBMk1CeTlZSWp5NEMtNVVmWWN2NXMxX3BLZ2IxcVhVY0hDc04wX0N2YUZMWHdWZmNxLTjSAYICQVVfeXFMT21PTTdVSGdTM3lKTjZtTlE1bWh5ZklHNE9mMmJXUENoeGUyVy02Z2NHc2tOb0FOazdxczd4MUwtZ2JSRnhYMDBDeXpVQjJLWnZiaGlDOVhILW4waXYzT2R6NXNjVmJZeGNXWTFHNW9MWDN1QkJCUjlybkpSNWdndjFoSGRjdDNIOGRJbXNZVUZSVDBoSTNHSmpSckd5S05VY2NMcV9fMUlWMGNqbTRrRTl5UE5VdFptZFUwNXF4ZnNjOWt5X3hicUtVSmc2Z0pDUlFjSUQ3dERQM3JJNVB6ZHBmQkNPaTBBYmRERFpnMU83c1NwQUxoM0UwdERIVGdMWTBR?oc=5"
     },
     {
-      "headline": "Fidelity National Information Services Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "headline": "Fidelity National Information Services Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZW5ZNGthWXZnY1ctWnQtaXJYTWxORXhxQXVsR1dGMnh2aFA2d0ZCdFdxcHQtVmE3ZUl1T1FHQ3d3Y2pWZktkSFNIdFU3VEIzc3dYNkhPdGJoSnQ5elM5RVNqWkNxNjRteWtNMFNwZ3VCdEFMMGVVa3MtdkxyRDdQZzJLWHhLcjczMHgtUFR0RUV3blY1bzkwRy1rWkpKS1lQLWVzeHVhcEVRMGEwNFloQndkMC1CNTlLR2pNQkk0eTN0U0JxRlVpYWhXQTU0aVpmTkZuNmRCZ1NWVnhDVUdEejduTVRYTmtmUmVaVF9yOA?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUGFLZFJTYmYzSS01WTcwd0pUQW1xbGg3VnFkeWtqNXNSRlNwQXNDLTVrMmRjc0R3bGxWYnpDcUtDaEJrRHFjQ3FvelJmQnNtTUhOeE9BWlMxVTloaHZHeEdGYjlBVkRXMExOLXF6YjBtdDkyZS1nMnh1bDkxZ2VHbm9KWEZnSjFBZDZQQVRrcmRMakJoSlpIOXA2YVU3TnZ3Nlc0QjFpQ1F5YVhYTXVYYWRyLUxlMlpITzk3Tl9ZOGRxZ0FjWVNCc2R6NFdGSHc1TldtUGVKdTRscmUwMDdZeGZTbVFlNl9Kcnc?oc=5"
     }
   ],
   "insight": "Tracking Fidelity National Information Services (FIS)."

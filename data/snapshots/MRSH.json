@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:40.175Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:53.298Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    181.58999633789062,
     176.39999389648438,
     180.74000549316406,
     183.30999755859375,
@@ -24,11 +23,10 @@
     184.2100067138672,
     186.3699951171875,
     189.1999969482422,
-    190.2100067138672
+    190.2100067138672,
+    192.00999450683594
   ],
   "6m": [
-    175.33999633789062,
-    173,
     173.3300018310547,
     174.05999755859375,
     175.8300018310547,
@@ -138,6 +136,7 @@
     182.17999267578125,
     182.10000610351562,
     181.58999633789062,
+    175.99000549316406,
     176.39999389648438,
     180.74000549316406,
     183.30999755859375,
@@ -158,10 +157,10 @@
     184.2100067138672,
     186.3699951171875,
     189.1999969482422,
-    190.2100067138672
+    190.2100067138672,
+    192.00999450683594
   ],
   "1y": [
-    211.11000061035156,
     210.5500030517578,
     207.00999450683594,
     206.4199981689453,
@@ -390,6 +389,7 @@
     182.17999267578125,
     182.10000610351562,
     181.58999633789062,
+    175.99000549316406,
     176.39999389648438,
     180.74000549316406,
     183.30999755859375,
@@ -410,12 +410,19 @@
     184.2100067138672,
     186.3699951171875,
     189.1999969482422,
-    190.2100067138672
+    190.2100067138672,
+    192.00999450683594
   ],
-  "lastClose": 190.2100067138672,
-  "oneYearReturn": -9.900049185760631,
+  "lastClose": 192.00999450683594,
+  "oneYearReturn": -8.805513310947012,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "How Marsh & McLennan’s Q2 Beat, AI Rollout, and Buybacks Could Shape Marsh & McLennan (MRSH) Investors - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkdJZkU5VF9ETDVGN0hVY0gtbEZXdm1iVjdBVmRpakNIb1NHTHh0V25xQm5UY3ZtNUdoU2NxVkhsVG1lSkhPZGIyVUdoamxvSkd1SW1hQ0txOVZMcXhiRXFITUNRenpzRXA5bFNDODMxMDVnbVI5VjlTWG1GLWJsdnBqdDVLVjJWeTJjYlE2ODRyZlMwMmhzWWRXd3NPOGU3cVBCMHVjZUFNOGhnTFdwcXM1WEIyaGNUblBFcEhJX1NuWFNxNXpKMEZvVkRJSWxPaXRZU2FDdFdfdGduVmw00gHfAUFVX3lxTE5GR0lmRTlUX0RMNUY3SFVjSC1sRld2bWJWN0FWZGlqQ0hvU0dMeHRXbnFCblRjdm01R2hTY3FWSGxUbWVKSE9kYjJVR2hqbG9KR3VJbWFDS3E5VkxxeGJFcUhNQ1F6enNFcDlsU0M4MzEwNWdtUjlWOVNYbUYtYmx2cGp0NUtWMlZ5MmNiUTY4NHJmUzAyaHNZZFd3c084ZTdxUEIwdWNlQU04aGdMV3BxczVYQjJoY1RuUEVwSElfU25YU3E1ekowRm9WRElJbE9pdFlTYUN0V190Z25WbDQ?oc=5"
+    },
     {
       "headline": "Marsh & McLennan Stock: Is Wall Street Bullish or Bearish? - Barchart.com",
       "source": "Barchart.com",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTBQV0Zuc2FUTksxdTQzSFdKOWdxbS10UTJiTUMzRk5BOWMzdnpmM1JseXN2RmgydjNmQkNkUlh0MkxwMWJtU2dxWW9wbzBaVVRMYXo0cG15OVBkWV9oNlVjek81blNocGY1aGFmLUdyZXY4UlRnZ3RqVGdvZk9pZWxWRWROcmFISGgwT0RGblQxaTItQ3BxUGNXWFZRbnM?oc=5"
     },
     {
-      "headline": "Madison Asset Management LLC Purchases Shares of 342,975 Marsh & McLennan Companies, Inc. $MRSH - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc0lnUEhtOFNrbWM3TWkyZDloajVLMVlQRXdYZTgtTXpYejZrY0RrVWFrVlZlU1NtLVc2M3RuQklrbk5LUDR5SnVnQVdPSDNTY0FIWWRfai1PRXhnOGlLMG9qZGhNbjc0Zk5DbW1BaVJwZkVIYlJiWWRuaDNaWHNoRlBIVDR4UXZfRTl2Q2JLZGtwYTlrSEdjcHd4TzMxcW5uYVdISndoN1BSSTk2V0Zpa3k1U2cyejBTb3lLTnBaZ1daNFVuTk9oTDVJak1QQUVwUXhSMjVOOXZnY1FyTldudmZpME8?oc=5"
-    },
-    {
-      "headline": "Marsh McLennan (MRSH) Stock Looks Fully Priced As Q2 Earnings Near - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-04",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSjBKb1lPM3gtNGFiTVFpX25ISDN4WGVGa2VwM3RKQTFfd0JRYjd0elctUnBVUGVETUc3eXRiNnVPWEpURHMzckY1UXpHVWlKUXBWOEhGRVRSM3FIZV9NMjFORFk3RTE5YU52ZWQ4NExub1kwZWV0dzQ3Q1lieXVxS3BIVHpBQm9Ka3kwU3pzYTVOOVhycmdoTHc0RFY?oc=5"
+      "headline": "Resilient Marsh & McLennan stock holds above $190 as new institutional money arrives - Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeW02ZUdhRWV3c1dLR1dFZl9JYU14enZRci1sb19WQjMycVN0SWVka3JBLTRLMDg5OW9VbGlpQWUzTEFpUGVXODdsZEVQbUhlNGpybTNzWUxLZFNEbXQwWjF6VkotNVZEOGNqRGV1V2h0TmUzLWpkQjNFLThEM1FYOGZfakNMMmMxbGNzOTJiLUVPWGxVd0lTWFNQcndEOHUzZk43eG83UnM5eFRlel9MLTRRVFVoVGlzWG5JTkE5clZBZWlIa2dIdmdsMUpueTg?oc=5"
     }
   ],
   "insight": "Tracking Marsh McLennan (MRSH)."

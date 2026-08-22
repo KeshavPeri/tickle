@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:31.184Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:47.500Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    87.81999969482422,
-    86.19999694824219,
     84.52999877929688,
     85.47000122070312,
     84.61000061035156,
     85.70999908447266,
     85.83000183105469,
     85.16999816894531,
+    85.75,
     86.51000213623047,
     89.11000061035156,
     89.58999633789062,
@@ -24,13 +23,10 @@
     89.5199966430664,
     89.2300033569336,
     89.29000091552734,
-    88.45999908447266
+    88.45999908447266,
+    88.5
   ],
   "6m": [
-    79.72000122070312,
-    80.0999984741211,
-    81.0199966430664,
-    81.69000244140625,
     78.43000030517578,
     78.19000244140625,
     77.20999908447266,
@@ -139,12 +135,15 @@
     88.26000213623047,
     87.81999969482422,
     86.19999694824219,
+    85.86000061035156,
+    84.80999755859375,
     84.52999877929688,
     85.47000122070312,
     84.61000061035156,
     85.70999908447266,
     85.83000183105469,
     85.16999816894531,
+    85.75,
     86.51000213623047,
     89.11000061035156,
     89.58999633789062,
@@ -158,10 +157,10 @@
     89.5199966430664,
     89.2300033569336,
     89.29000091552734,
-    88.45999908447266
+    88.45999908447266,
+    88.5
   ],
   "1y": [
-    68.20999908447266,
     69.5999984741211,
     68.47000122070312,
     69.05999755859375,
@@ -389,12 +388,15 @@
     88.26000213623047,
     87.81999969482422,
     86.19999694824219,
+    85.86000061035156,
+    84.80999755859375,
     84.52999877929688,
     85.47000122070312,
     84.61000061035156,
     85.70999908447266,
     85.83000183105469,
     85.16999816894531,
+    85.75,
     86.51000213623047,
     89.11000061035156,
     89.58999633789062,
@@ -408,29 +410,30 @@
     89.5199966430664,
     89.2300033569336,
     89.29000091552734,
-    88.45999908447266
+    88.45999908447266,
+    88.5
   ],
-  "lastClose": 88.45999908447266,
-  "oneYearReturn": 29.687729470457825,
+  "lastClose": 88.5,
+  "oneYearReturn": 27.155175201485626,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "What Are Wall Street Analysts' Target Price for Henry Schein Stock? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZzc3aEpaai1Mcjhld1NpWThWZHplbm85R00taW1WYl9yVEM2dXNOSi1vTzZIendtclI3Y1ZDYktZeDFWUWhyLUNlZGRnWTM0Rmw1aEFIZFFDZWJibjJNYm1jcTdzWlRjRkttejdUaUstV0lFOWZOZUFLbGsyMzhHbUl6S21SbW1MbDZhNElRanp3bENiZERMbEZVRE9EeGZ4VEZpRUVHcERFbl9kS2c?oc=5"
-    },
-    {
-      "headline": "Henry Schein, Inc. (HSIC) Hits Fresh High: Is There Still Room to Run? - Yahoo Finance",
+      "headline": "What Are Wall Street Analysts' Target Price for Henry Schein Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYUdTNVN4SW5ROTVYSFY1b25UZXJYOWhwd0ZTbDJGc1VlSDM2eEFEOVQ1aml6NDNwRURGR0dXRF90SWt4bjZoZkRBYXU2Q3pFX2dhX3h5enJqNDc2dmZGamFkUkJYX0VsVG5BenlCWFlTbE5sbnYtWGJ6OXFEeUV4MWRxdUtaSG1NN3ZfakhUakdTdlBwLWc?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0VCakx1aTB5aEZ3SDZ2VEpDMmRZMEt1MFZSV1pxanVNT1RFNGxsYURIdlo5bzVuRGFrQ1g1SzZBZTkyMDhYMW9tXy1KbWZIUTluQ2pubURUOTJZZzNFMHZMckFfZ0hvYlRqOFNKUzczWmRjaGpSOHVsV0loX0IyNUY0SUVmbVI3MXliQkVNVnoyMnFLcGxzZjV6ZEZZRjA?oc=5"
     },
     {
       "headline": "Henry Schein (NASDAQ:HSIC) Stock Price Expected to Rise, BTIG Research Analyst Says - MarketBeat",
       "source": "MarketBeat",
       "when": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQjAweURTNFppVzBGYkY2ODVNR0UwM0FzLThPVnkxeXV3R2RTTGFpdHRDamplbFFtRXYxTzUtZ2tyeTRIem1qYmNOSWtPVUJTYVBtXzhHQzdFYW5hSmhCNnN1NlROY25GOFhtQ3JCQVBCcE9jZ1JGb3lYZDFCVFhmdnp2dUVyWmprNXJ4ZnI4Y0JiQmlXeDhkbjRmak4wQnYwVWZLSXFaN3lNNnF6Z1NtOFV3aDBkc2hsRTdWamkzMDQyMnAyclN3VWNPeFJhZw?oc=5"
+    },
+    {
+      "headline": "Three Henry Schein Executives Will Become Senior Advisors Oct. 31 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORWtSTE5XMk9oUUwxZUpTOVQwYWJ6cy1CV3JZTkVSUmFOQUdXTDBMaFNMNGJaeHBYdk9ILThjU2hrQnExaElKVmdRWGNyQVg0TWhqaVpLcEowbW0wVElhR2ZmVHlsdU4wSDhNRFNJVUZnM1N1QUptWnhUVFRKYzJtZ0k5Y3FTQW9fbDh3R19xa21ZQQ?oc=5"
     }
   ],
   "insight": "Tracking Henry Schein (HSIC)."

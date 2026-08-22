@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:27.274Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:44.929Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    130.33999633789062,
     130.86000061035156,
     129.30999755859375,
     130.52000427246094,
@@ -24,10 +23,10 @@
     138.9199981689453,
     143.44000244140625,
     147.60000610351562,
-    143.44000244140625
+    143.44000244140625,
+    146.1199951171875
   ],
   "6m": [
-    155.8000030517578,
     151.80999755859375,
     154.97999572753906,
     155.27000427246094,
@@ -158,10 +157,10 @@
     138.9199981689453,
     143.44000244140625,
     147.60000610351562,
-    143.44000244140625
+    143.44000244140625,
+    146.1199951171875
   ],
   "1y": [
-    116.13999938964844,
     114.7699966430664,
     114.1500015258789,
     114.75,
@@ -411,29 +410,30 @@
     138.9199981689453,
     143.44000244140625,
     147.60000610351562,
-    143.44000244140625
+    143.44000244140625,
+    146.1199951171875
   ],
-  "lastClose": 143.44000244140625,
-  "oneYearReturn": 23.50611606270687,
+  "lastClose": 146.1199951171875,
+  "oneYearReturn": 27.315500035797065,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Gilead Sciences (NASDAQ:GILD) Director Sells 5,000 Shares of Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-22",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObzRwWVFCM1FURElRX2ctZWRSYkRMYmdncng4cXV4NUtJM1dzQ3M4dWNDbEpIbVE0bmgwSTNFb3dJb1ZoNTM4YVJMNjVmYmtYU0NDQ044dk14UnVULUtVMTVpeVllcUJnZEtIT0JhN2d1N1dTcmNwczR5bEhsYi1GTXZvQnRfMFpNVm1BYlRFMUxXT1cyTmNyNWNnNFd4dTdhVTg1OGwyMmphMGFUazN1dUg5TlVlYnc?oc=5"
+    },
+    {
+      "headline": "Gilead Sciences director Jeffrey Bluestone sells $725,077 in stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-22",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUQ5UkFzQ0FpX3JPdWFuQmw4cFRlaFlnd2k2VmxOeWt3UUJYVGR5aFdDOHV1aXFwX0FETVktLXdxZ0VuLUVtNlg5NlloQlVoaGZtQTRQVkl2QmRMNHlyMmpwNUJ2TEx6S3F3aEV0WjJxVXpKWV9RVU55OHhaN2Fxc3dOcVZnNVhyV2VISWsxM085Wlprc2xZQmZoM3RLcjJDeGlYN2dDeFcxcVlBZmRYdTFHVWoxUU96bHdUYjJDNnNvTzdJb3B6RA?oc=5"
+    },
     {
       "headline": "Gilead Sciences Stock Climbs 11% On A 7-Day Winning Streak - Trefis",
       "source": "Trefis",
       "when": "2026-08-20",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdUhtSEdMaDhFT1J2MHRhV2FrVDFDbmhlU3MzSkRxRHRWU2dkcFdHWW81THB1Wkxia3FIVF9RN2xLeG92SWgxVmRhd0pnWlk1aWJ5TVpNbzJMWDdld3BqQ3dfU0FQY0Q0UVJVeTktSVNDZlJDTEpLN0I1QVpvTmxpOGlpR1U5Yk9XSUJkQWdfWEFNS0RQdzRqeGRDSlVBM01KQlM1Sy1VaVRxVk9lNTA5dHRieGE0RGg5VUE?oc=5"
-    },
-    {
-      "headline": "Gilead (GILD) Stock Still Looks Below Fair Value As Court Backs HIV Import Block - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTHkxWVZ4aVlwQ0xNMUFQSS1pVVFRUjR0LTVRRE9ueHZycWJwbS1KSTZaQnhRQWdhdVhIclN3RmNwY1VsWDRSOG1IVzZDbWpFNy1YN2hrbjdUUzJIM1gwYWxnR09oTEpzMV9HR2dRbkl6dkJrUGJ6YzdtRHNnQkI1akY2WjBKOC1vVlRQTE9ROGpxbHlaNGwtOTd5aGZvMldkdVRyNVBCb0RPNy1sU2lOZi1DMk9uY2xGVVdNLWtvd1JRUHY3NFh3YTlvdjJKb1VCcEdOblhLdkgtVHk2SUoxVGdFa9IB6AFBVV95cUxPbmx2VV9mUDlPN0tXV3JGNWl6QkZvWXhPak9NejFNNlZyRU82WFF4cVRhaUhCWVpsM0JvaHk1WURBcUU1dFg0dmdJeGFHQkhpOEtXVkgwS3RUMFhVVnF6aHhXTjZoc3NDVGFELXhFRy1IeVBZREJxQWVrWmJveXRrUk5IOFBlMndXVE5vejE2N0ZhYzNrOEVpNGRrSTdjX2pINjRfRXdjcVRsemtCbHBhVEFVQ1dtTTN3TWVVekF0ZC1kWWNKeFlYSVVsQ1FZcTE5OFJEOF9Tb3kwUmxUUF93eHJTc0RGZHVk?oc=5"
-    },
-    {
-      "headline": "Gilead (NASDAQ: GILD) director to sell 5,000 shares in 2026 - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3p2ZXczTzNNUU02OE9fRkQwcGM4QXY5dGhqdEFPcTdDRXhoZXpxNURQNWw1RHJnYnNkazhYR2NtTVl6UHZkTWlod1U1Q2l3Smg2elZNWnJMRzdZZ1RURkNmQUVBSFZrMkF2Mm85Qi01OTM3TTNndkNFckIzbmhBNWdxUWRBS0lNTWVfZlBpRkZEREhMNzhGb2lSVnQ?oc=5"
     }
   ],
   "insight": "Tracking Gilead Sciences (GILD)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:33.814Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:49.114Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    124.2300033569336,
     124.55000305175781,
     128.30999755859375,
     126.98999786376953,
@@ -24,12 +23,10 @@
     129.89999389648438,
     126.66999816894531,
     122.08000183105469,
-    122.94000244140625
+    122.94000244140625,
+    122.0199966430664
   ],
   "6m": [
-    97.08000183105469,
-    99.30999755859375,
-    100.22000122070312,
     106,
     109.83000183105469,
     108.79000091552734,
@@ -138,6 +135,8 @@
     121.66000366210938,
     123.81999969482422,
     124.2300033569336,
+    125.55999755859375,
+    124.51000213623047,
     124.55000305175781,
     128.30999755859375,
     126.98999786376953,
@@ -158,10 +157,10 @@
     129.89999389648438,
     126.66999816894531,
     122.08000183105469,
-    122.94000244140625
+    122.94000244140625,
+    122.0199966430664
   ],
   "1y": [
-    90.55000305175781,
     93.86000061035156,
     91.79000091552734,
     91.43000030517578,
@@ -389,6 +388,8 @@
     121.66000366210938,
     123.81999969482422,
     124.2300033569336,
+    125.55999755859375,
+    124.51000213623047,
     124.55000305175781,
     128.30999755859375,
     126.98999786376953,
@@ -409,12 +410,19 @@
     129.89999389648438,
     126.66999816894531,
     122.08000183105469,
-    122.94000244140625
+    122.94000244140625,
+    122.0199966430664
   ],
-  "lastClose": 122.94000244140625,
-  "oneYearReturn": 35.770290776395136,
+  "lastClose": 122.0199966430664,
+  "oneYearReturn": 30.00212641124696,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "65,390 Shares in Iron Mountain Incorporated $IRM Purchased by OVERSEA CHINESE BANKING Corp Ltd - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWjhqYlBDOFJHTWFZMkNjcU41V3pTS2RHdHp5M3JidWtaLXNxeEN2RzRSZmo2MTdkT05uUWlRMGNMR1hpZ0Y1c000Ymoxak1OS2FnWV9FckpQdHhUOHAyTGNaQThVU19FZEpfNk5SdGFYWmZDNklab1VfdHo1c0F5MHVGSkdWMVYyX3p6M3NLajFaTnJTdnhrS1lZZGExTHhVRHktNENZWnJkcV9CSmZFNll1NV9fUzBLSWV2dUFDX0lqNEpLSVp2WkN6S283Z19RSXFEYXhQRmZENjlpQ0JLNU9Dal8wQ29Q?oc=5"
+    },
     {
       "headline": "Iron Mountain: Data Center Leasing Is The Main Growth Driver (NYSE:IRM) - Seeking Alpha",
       "source": "Seeking Alpha",
@@ -422,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjA4OEpZRzlvNkw3YU5DMkdVeGxjenVrU1p0NlBkMUhKa1RrZkdxRGozZGE3SlpnODNDWk0zVVVSWkZMbVJHN2lRNEVEMGVsWVk0RzNHbkZRT0VtU3RPbUY4UktwbXJUYTBaTlg5THh1MmN1VkxobjVDeVdfaWVmaEV6dWVtbHZwdGNUUk0tdEhZeExnNzhVeTMzQzR5eC1Rd0tfTTNOaTlJZw?oc=5"
     },
     {
-      "headline": "Wealthfront Advisers LLC Buys Shares of 70,478 Iron Mountain Incorporated $IRM - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRklRVXZFaEZ0YUNtb1JRNnFwbjhkMDRUa180YVQwNDVXQWI2YzNMMjl6RUlCdnNUR2lXY3BUNVdhYUNvcEllSTN4c0RZWExxNU53Mk9scFU0Z2w1T2d0RVMzaDFTdk5TdDBpMmRBbEZkM0tETE9DVlhxQkMxZlZUYjd3WFZBRHpfMFZqV1E5cXh3cDM0b2ZWMHZDUUhsMDMwc3VFcmxrbHRFdjItNXlneXBUTkJjYVNNcm5FZDNYSmxQVHc1akFDcGNnaU4zTHBqMlNz?oc=5"
-    },
-    {
-      "headline": "Iron Mountain Stock: Analyst Estimates & Ratings - Yahoo Finance",
+      "headline": "Is Iron Mountain Incorporated (IRM) A Good Stock To Buy Now? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVRyOXRKNU9YcEdQV1ViOTlXYUgtNHlwNE9EWVlVUndzU0JESVNjR2dGcEgzZ1BON09ieGJxZlp1MlRQTm1qcC1aeUhEcFpoVWZIS0xJbkJaYWRQMzBLeUJDcVhzMGtGRXdyM2JhV2NUVnk1Z1FrT0pmNWtvS1FhU2RYUlRsblVNUHdyWEE1R291VGlBb3Vkc3YzUU9jaTM5bm1oWg?oc=5"
+      "when": "2026-06-09",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMTVkRTd1Mnc0d1FmbWNfbUtKbHdDaEdSWmdQTXg5Yi1vNHJ2Sjd5cEpVRzBNdnNjaE9ZTlhqemJsQl9LS1pGUExELXplbW5WdVVqNzd1c2MxdE5Wc2tXQ0Q2ai1JNmFLU284TnpsZWJDNTJ0YS14NkpxZVR0UnBMd0luNmFOdVQ1dkVSRnRMaDA3R2dyTVVCTE1JYkxDZWFyRHc?oc=5"
     }
   ],
   "insight": "Tracking Iron Mountain (IRM)."

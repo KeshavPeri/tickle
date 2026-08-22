@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:23.677Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:42.574Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    148.16000366210938,
-    147.27999877929688,
     145.4199981689453,
     147.7100067138672,
     148.2899932861328,
     152.2100067138672,
     152.85000610351562,
     148.2100067138672,
+    148.0399932861328,
     149.72999572753906,
     149.86000061035156,
     150.0399932861328,
@@ -24,13 +23,10 @@
     146.88999938964844,
     146.9199981689453,
     147.91000366210938,
-    147.25999450683594
+    147.25999450683594,
+    146.80999755859375
   ],
   "6m": [
-    140.00999450683594,
-    140.36000061035156,
-    141.44000244140625,
-    142.47999572753906,
     144.33999633789062,
     146.36000061035156,
     147.83999633789062,
@@ -139,12 +135,15 @@
     150.3300018310547,
     148.16000366210938,
     147.27999877929688,
+    145.5500030517578,
+    145.0500030517578,
     145.4199981689453,
     147.7100067138672,
     148.2899932861328,
     152.2100067138672,
     152.85000610351562,
     148.2100067138672,
+    148.0399932861328,
     149.72999572753906,
     149.86000061035156,
     150.0399932861328,
@@ -158,10 +157,10 @@
     146.88999938964844,
     146.9199981689453,
     147.91000366210938,
-    147.25999450683594
+    147.25999450683594,
+    146.80999755859375
   ],
   "1y": [
-    139.02999877929688,
     142.75,
     140.19000244140625,
     140.55999755859375,
@@ -389,12 +388,15 @@
     150.3300018310547,
     148.16000366210938,
     147.27999877929688,
+    145.5500030517578,
+    145.0500030517578,
     145.4199981689453,
     147.7100067138672,
     148.2899932861328,
     152.2100067138672,
     152.85000610351562,
     148.2100067138672,
+    148.0399932861328,
     149.72999572753906,
     149.86000061035156,
     150.0399932861328,
@@ -408,29 +410,30 @@
     146.88999938964844,
     146.9199981689453,
     147.91000366210938,
-    147.25999450683594
+    147.25999450683594,
+    146.80999755859375
   ],
-  "lastClose": 147.25999450683594,
-  "oneYearReturn": 5.919582679852977,
+  "lastClose": 146.80999755859375,
+  "oneYearReturn": 2.8441313895577935,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Are Wall Street Analysts Predicting Extra Space Storage Stock Will Climb or Sink? - Barchart.com",
+      "source": "Barchart.com",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZzFIaGhQZzNIWkNMRVplOFRscU9FU1dUQmtKanJZZmhGWDViM25kUkR6RXlaN0xvS0Nua0R5TlFPdWZzUWkwNGZwaVI2UWdwcWFsUDdhZ053cUlpTU1OaVVMWmVvV3lUV1lLejZTa1dCbVdUQkRwVWpBMWh0MkYyOG0zczBLZUtqNUl3cV9sQ3JSeGozZzBIdHZmRXRNTEpKRnFJdVRVZXNJNTk3NjJDVjRRQnZHd0VGejNkZlRzUER6Zw?oc=5"
+    },
+    {
+      "headline": "Extra Space Storage (EXR) Stock Could Be Cheap On Cash Flow Yet Fair On Earnings - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVUtSVk1WcVR4YjA5UGk1SmRwbGczR2owaWtSaGpoai1iOWhaREU1eVlTU1lYZHA5LUF1cWxKeDhnVm1ZZUgxaVNzNnN1QmlJT0JJb3dGLWhXQ2p3bHoyU1hjaklmUlZlTEl2YS1FR3M1Sk9mOHZwbmtuTEs2MThTb1pQODc1N0ZpOVpiR3JBb2hSSm05c3o0UmlnVXFlc1NiRVRWRWF5VFBDcVRkdmRBblZteVF3ZkZJeFk0ajZ2cmN4Sk9abkFfU09UMHBhOW5lSlh3UdIB2gFBVV95cUxOUXJIMno1Vkx1VHNmLVV6VUNGdy1Bc1VBY0ZwRVlqZml1VFkwR0Q4U0R1bHl5VnBaNFViS2E5NlFPeGZPYzRkajltOWMtcTZsRlBHbHgxNjBvcmZHa01MbzBHY1l0ek1pcnlkTUVOT3Zva0RyV1pyeVZ5UFlTUEstbTRYSVR5cWRPUS1GeFMwYWtRWVk0U3BjeHhYNXBJOHZWaWV5N1E4VG5UU1p6OVBDOEY2Qk8wSWt3Rk5pbjJkN1pNaWRpa0F2VEtfeC1DQWhOakZkQ3EyQ0x1QQ?oc=5"
+    },
     {
       "headline": "Extra Space Storage (EXR) Stock Could Be Undervalued On Cash Flow Yet Full On Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-20",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW1DMDVEM3ZCVWpxaVpXOHRIN3diUXBudXZFVFhVRkNodDJkWWtOdlpPT2Z4NDNOaVZCYnBDNTNQUEFkRUkxVGp1SVNrWHYxbVJNY19Qak42SUhxVXVVUkZEU3ZEWi15dHZGN2FNMF9HYlZOcE9lZ0txb0hxZ25EdE5kOFlITjZOOTRfN1U4SEJqenV3RU9MU25R?oc=5"
-    },
-    {
-      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
-      "source": "CNN",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zY1FWejZuVzAzRnZTV013UUNuaG4wQzZoUWxkTkx5SFhoNmtyUUNtb0QyUjlvd1VLV3BENDVjeHV6VHpLRzh5TmxIOXJMZms?oc=5"
-    },
-    {
-      "headline": "Extra Space Storage's $1.62 dividend has a Sept. 30 payment date - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGhkdkNmUmx1WE9lUlExbU4tc1ZsbFI1RGswWGxFYVA1UzFGUFBwUkRZaDBVNExpSEY0S3J5WXpKX0dnZXA1QU0yTHlLMGt0WVU2YzRzOTFSOGdoNWY2T1VISFFUVVluM3dBNVJUQ3J2anZiY1RISGVtRzA0ald4VTJjSFB1NHNBY0p1UHhORmQ4akZBY01GWmlDRlZleURramgza0xZSQ?oc=5"
     }
   ],
   "insight": "Tracking Extra Space Storage (EXR)."

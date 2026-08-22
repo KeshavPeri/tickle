@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:24.411Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:43.052Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    315.19000244140625,
     315.6199951171875,
     314.9599914550781,
     310.7900085449219,
@@ -24,11 +23,10 @@
     331.489990234375,
     328.3800048828125,
     328.3800048828125,
-    326.0400085449219
+    326.0400085449219,
+    325.0799865722656
   ],
   "6m": [
-    296.4947509765625,
-    295.8581848144531,
     297.7115173339844,
     301.9500427246094,
     302.41741943359375,
@@ -138,6 +136,7 @@
     312.9800109863281,
     306.2200012207031,
     315.19000244140625,
+    321.0199890136719,
     315.6199951171875,
     314.9599914550781,
     310.7900085449219,
@@ -158,10 +157,10 @@
     331.489990234375,
     328.3800048828125,
     328.3800048828125,
-    326.0400085449219
+    326.0400085449219,
+    325.0799865722656
   ],
   "1y": [
-    181.53102111816406,
     190.81385803222656,
     187.75181579589844,
     186.22079467773438,
@@ -390,6 +389,7 @@
     312.9800109863281,
     306.2200012207031,
     315.19000244140625,
+    321.0199890136719,
     315.6199951171875,
     314.9599914550781,
     310.7900085449219,
@@ -410,29 +410,30 @@
     331.489990234375,
     328.3800048828125,
     328.3800048828125,
-    326.0400085449219
+    326.0400085449219,
+    325.0799865722656
   ],
-  "lastClose": 326.0400085449219,
-  "oneYearReturn": 79.60567099586385,
+  "lastClose": 325.0799865722656,
+  "oneYearReturn": 70.36497764086026,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "symbol__ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5VEVpQW9jal9zaXFNckJxc3BlUmo1WWlLTUFDR1Y2d1JGZHlzSEw5U1ZELURhcDdEaXd2elRBN1RNYnVKSUdTZE15bVNqYUo4?oc=5"
+    },
+    {
+      "headline": "FedEx will pay shareholders a $1.22 cash dividend on Oct. 1 - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHNteFpwS0ZkeVdvOVE5SXYzU3JKU2ZBLUpyMFRNMHdKcVc2Rk84Mmd1TFVXV1ZqVVJPOEJQdXJOSk5ldVVvZl9iOWw1eVU0M1pubHVzcUdoYkFxWE9QWDVpazdtNkZOOE50ZHktb1UyQlRLY1hQX3N2X2trUXk5THRkN2ZlVkt6UEFOV0pTMTlWSlZf?oc=5"
+    },
     {
       "headline": "Are Wall Street Analysts Bullish on FedEx Stock? - Barchart.com",
       "source": "Barchart.com",
       "when": "2026-08-20",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQzdkTzRuT0Z0U3FEanMtX3VpOWM4eFVyR2p4T0xMak5neWFwQmMtaWpXUG8wX1JzVnlaUy15aHR3WVk1bnVJWnZRMzUtbWU4czlYa3dEZVc2U2I1M01vLWdXZTAyU3N4RDc3eVJuaEc3WjZRNXA5WmVhMlllajk0LU44Si11Wmo4cUw1NzZtWkI1MWJ0MUE?oc=5"
-    },
-    {
-      "headline": "FedEx (FDX) Stock May Be 34% Undervalued Despite California Layoffs - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXZpbEE5clVjU1djZVBVeVpqNmd4YmRVd1JlcTF3cUJoWHpXSTZmTmJncEVWRGppaTZnRkw2OEhHUFZadGlUNmVtLWR1bkJ6UmJzdUhMRXI1TmxDeHJGYm1UNTRiSXBIT1lKeFFYbFNpdUZzZDgxQ1lYWkJfd0tEUmNPWUhIanUxVVRPdVdmeVY?oc=5"
-    },
-    {
-      "headline": "FedEx Freight (NYSE:FDXF) Hits New 12-Month Low - What's Next? - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPamhRQ3NTSWV2MFpQZzI4M1RRVGozbm1GQloyQVY4TGZqSnpnUnlxVi1lRGJoeElWSmQ1Qk5KdFlnZlp6V0FuZjNiZjNIMVVzYUpvLVNkYjhQTjBFb19fZnZrUDRpQi1aOGNGVkVMaUVFRHplaGxLV1E0TGk4TjFicWlfWFY5bmJWb1dtSDBXTkhNamJ2N2lITk1KU2ZnRzJVYWIwQ0RyX2FnZkQ3a0E?oc=5"
     }
   ],
   "insight": "Tracking FedEx (FDX)."

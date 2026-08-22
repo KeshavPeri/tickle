@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:47.971Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:58.805Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    228.19000244140625,
     225.1999969482422,
     229.77999877929688,
     231.6699981689453,
@@ -24,12 +23,10 @@
     221.6699981689453,
     220.61000061035156,
     223.17999267578125,
-    219.89999389648438
+    219.89999389648438,
+    218.2899932861328
   ],
   "6m": [
-    196.57000732421875,
-    196.3000030517578,
-    194.77000427246094,
     191.42999267578125,
     196.8300018310547,
     202.00999450683594,
@@ -138,6 +135,8 @@
     228.49000549316406,
     228.6999969482422,
     228.19000244140625,
+    226.7899932861328,
+    226.22000122070312,
     225.1999969482422,
     229.77999877929688,
     231.6699981689453,
@@ -158,10 +157,10 @@
     221.6699981689453,
     220.61000061035156,
     223.17999267578125,
-    219.89999389648438
+    219.89999389648438,
+    218.2899932861328
   ],
   "1y": [
-    173.42999267578125,
     176.55999755859375,
     176.41000366210938,
     176.8300018310547,
@@ -389,6 +388,8 @@
     228.49000549316406,
     228.6999969482422,
     228.19000244140625,
+    226.7899932861328,
+    226.22000122070312,
     225.1999969482422,
     229.77999877929688,
     231.6699981689453,
@@ -409,29 +410,30 @@
     221.6699981689453,
     220.61000061035156,
     223.17999267578125,
-    219.89999389648438
+    219.89999389648438,
+    218.2899932861328
   ],
-  "lastClose": 219.89999389648438,
-  "oneYearReturn": 26.794674037481208,
+  "lastClose": 218.2899932861328,
+  "oneYearReturn": 23.635022827688033,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Diversify Advisory Services LLC Acquires Shares of 5,240 Simon Property Group, Inc. $SPG - MarketBeat",
+      "headline": "Simon Property Group (SPG) Stock Still Looks Undervalued After A 130% Run - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-22",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlpqZ2VfLWNLeHZnUnR2OW1hTER3Smg5bEVpZVJYN0lwQi1SWm5laFdETGo4UElxWDN1X0lLX2FzRVlIQ2U1cFk4LTdKT09hekN0WTZ4bjBCTlVXWHlkOTdaSXpCeG9lT1lqT1hVSU9QR0lULWdvdlFud3Z5X29Rc3ZnUUJWeFZoX1h2TnU2Zk8tb0ZqQW1QdUNRanBjTmhlb090ZDdpajJFOWxRQkdnWnZVOVE5bTJ4YUE4RTltTXNmMG5lcUZvWHJNY2hXNXFtdFB4MWVn0gHbAUFVX3lxTE5LMEUtblJWbkNSNnhqaU5RbUUxRERFOHNNT0xmaW5RWTd3a2hDTHVxYTNEdXpodk5MTTN1Rm8yd2VVbURPclZmc2NrbDBDc2t4ZkswcWtsOTVkOHM5OXdocjRreUg5OFhmSGFhQVJZdFVLT0NLRElud2FsYVhDNV91WXBnOUxNUnRCRS1Xc1dQSDRIcTZFd3dubDUtOXcxXzVMV1prSXJlNDZFNkJvOE8xWXhDSE1mODZ2VllKUUc3bGFncTJGOE53dk4xbS1QRVQzRFlLUkQ3ZmEzUQ?oc=5"
+    },
+    {
+      "headline": "Which Retail Real Estate Stock Has Dominated in 2026: Realty Income, Simon Property Group, or Kimco Realty? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzNDVWR4SEhCY3JGSjAzNUlEeE03dE44WHlhc2FwVnZtRGQyVkhST2drYThsd000bzBQaXRBOThnSXdJSnhicWx3c3ZJOXpfQzl2RlFCMGwwSXNfeTFDeG1vTlNmSVpWd0F5b19rT2lLQkRzeDNjdXgyRTNCdTE0X29rWXVwS194WHlNU2FVNnhnQWNaRWUtNmdzSHk?oc=5"
+    },
+    {
+      "headline": "9,990 Shares in Simon Property Group, Inc. $SPG Acquired by Mystic Asset Management Inc. - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVFVkbjZBUkNZRjB1cW1LZlk5SUZvaTR0UnFqMWVXTDVTYWE5Q0hhWTM4czRsTDVxeGhRcUNGYkZEYWpCX2Y1UnYyRXdyY0NyRHV3V3hRTG5PSWItMVZrWW1DRzd6dWVvYXU5UlI3OHBuTURzTGNSOVNTRkgwN3A0YzlXVHNNc19mR0VEVXJHMXJOMHVNXzF6ZXBBV3lrZkUzYVlXVVdBaWhtTEFucVdDMUdoVGVkYUpjVDI3bllDdWhsNjVINzhZSUo1WnQ1TU8xTlNrVUtBdGdIUzhGcmc?oc=5"
-    },
-    {
-      "headline": "Simon Property Group: Raising Our Fair Value Estimate to $229; Shares Fairly Valued - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd0x5WjhHVVJOZU1LTFNNSnZ5bjBtbTVldmEyamExaFJKcXV1WU5RbEUtSTY0Rlc5UFBPTDBVSENkeTRlMDVrLTlGeERDczBvSGh4Y2N5UGlKbHhaVzdDU0Y4T1lLbnYtWjhiU2RkZWZiUk5nX2syai1tdUxtdUN2cHBxSk04US1fTGdUV3hkMHJiY1NRbjVER0JPdEl6MExxNHU2T2t5dnc0UnoyLTVYYV9ENkpwWkpWSktObkg1N2hDdW5ZWC1PMFZRTFY4UHhKM0pqNlA5N1hRX3pFbWoyUlhoZndRUQ?oc=5"
-    },
-    {
-      "headline": "Are Wall Street Analysts Bullish on Simon Property Stock? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNTQ3Nkk4cW9sd05hZVAxODgycUw3YXk2MVV5ODhVSUNNVXRvLXdPZ1o0X2k5THVHcnVKbGM2ZTQ4TkJHT2pQRFdmU2NzM2FEdEdfUUM4MWNJdVRPR0llOHNGUU50T09uWlA3SVJhdks0c2dVYjBWanY4ZXdvWUMtUnVXRENLd0l6enQyVVZVcm9VbG5zQkFld3VRV2N1OUsxcEE?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQTB1ckhuV3ZzbXFlajF1dndoTW1CaXFFMGc3RzdnY1N4TjQyZ3d6eU9pTm5LSnB1TE10dzRjOFA1SHZvVHcxX3JZSkVaQUNiNWh2M01WX2szdF84TW9sVlV2YjF6X09ldExCZGlPVTA2M2N5aWdUNUpWTk5TRzZsYWY1OTUyRk1Va1YyYms1VUNGZHBLRXV2aDg3M2R0RFNheEs3MVo2REVjMEhQRDREWW1WM2V3NkVsSlp6YmdDanQ2RGRNZEw5UHh2b25CTklaeFNBNENYMnktOHpp?oc=5"
     }
   ],
   "insight": "Tracking Simon Property Group (SPG)."

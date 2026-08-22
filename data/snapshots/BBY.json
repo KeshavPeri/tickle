@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:06.366Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:31.017Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    85.41000366210938,
-    85.12999725341797,
     84.43000030517578,
     85.43000030517578,
     88.44999694824219,
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
+    86.26000213623047,
     85.25,
     86.3499984741211,
     84.5,
@@ -24,13 +23,10 @@
     85.44000244140625,
     87.2699966430664,
     89.20999908447266,
-    85.7300033569336
+    85.7300033569336,
+    85.88999938964844
   ],
   "6m": [
-    70.41000366210938,
-    67.08000183105469,
-    68.04000091552734,
-    67.08000183105469,
     64.87000274658203,
     65.80000305175781,
     66.0999984741211,
@@ -139,12 +135,15 @@
     85.29000091552734,
     85.41000366210938,
     85.12999725341797,
+    85.22000122070312,
+    87.11000061035156,
     84.43000030517578,
     85.43000030517578,
     88.44999694824219,
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
+    86.26000213623047,
     85.25,
     86.3499984741211,
     84.5,
@@ -158,10 +157,10 @@
     85.44000244140625,
     87.2699966430664,
     89.20999908447266,
-    85.7300033569336
+    85.7300033569336,
+    85.88999938964844
   ],
   "1y": [
-    72.38999938964844,
     75.38999938964844,
     74.31999969482422,
     73.66999816894531,
@@ -389,12 +388,15 @@
     85.29000091552734,
     85.41000366210938,
     85.12999725341797,
+    85.22000122070312,
+    87.11000061035156,
     84.43000030517578,
     85.43000030517578,
     88.44999694824219,
     89.47000122070312,
     90.16999816894531,
     87.81999969482422,
+    86.26000213623047,
     85.25,
     86.3499984741211,
     84.5,
@@ -408,10 +410,11 @@
     85.44000244140625,
     87.2699966430664,
     89.20999908447266,
-    85.7300033569336
+    85.7300033569336,
+    85.88999938964844
   ],
-  "lastClose": 85.7300033569336,
-  "oneYearReturn": 18.427965298743654,
+  "lastClose": 85.88999938964844,
+  "oneYearReturn": 13.927576714427884,
   "marketCap": null,
   "topNews": [
     {
@@ -421,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1JEcWdzVmcySFlFeFJJa3lfLXBFRDdBbnFaUTRrMlRmdXhnQUtZZVdoMGtiSFo5b0R0TUd6U3ItQnZqdHMyVmdESHJtVTJfVXF6dnlaZGVVa2xNQUF6UDEzaW5wUHk1R3ZWVmNwNWZHckFXdTl4cnV2Q3A3NDFkaEpnb9IBiAFBVV95cUxNZk5uX0h4LUs2Q0wzdDBsVWJ5cnNRbF9WR0twcXh6VUl5UGg1YUR6cmsxNjFwUFRGWXRHYUd6aUR1VlR1a3N1RHJ4WFIwc2xDd2hwUnJoRVZ6QUZtY2JUZzBBMmFyVkNtV2pBWE1OOUo5SjdMSk1KNFNIMVlqWUUxMnh0ZjUtVUg4?oc=5"
     },
     {
-      "headline": "Best Buy, Dick's, Floor And Decor, RH, and Zumiez Stocks Trade Down, What You Need To Know - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQzhiT1g4azZJeThEaVAzb01xZ3pKM3hFaUI2bnFTSXowcjRDTThxeTN1VGhPNy0tUDFRdnNKQXFXeEQzYUQwQXVwbEthVW9GczBIYWJZdzN4Q3VwSmM0QW90aU9HNGU1WDdfbGF0OUlRQzVEYnM1dkF4RzhPUGJrWXJTcjIzamFqQ3RlOXl1eVVyVWhPZGc?oc=5"
+      "headline": "Is Best Buy (BBY) Still Trading At A Discount Before Q2? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDdhUU50YXIwN0V5ZDJSMGFaVmh1ZWVyUGVoQkoxdXV5OTc4RDRhQTJvUld1aHZJRFhIZmdzUTBzUFEyNXBxZEtvSGhqYzVnT0thVU1PT2poamFvaHVXZk12dVlMOVRIa01INGxFNGJ0dGU1cHlYLU5VY0NTbVFkN1pLdUNEVlJyZU42LUxCQVRkTDVPaGlDT0NWT1JqbHozUGRmNFhrbjVWLW0zd1FtVXFWVnY5QdIBuwFBVV95cUxNVWNkQmw3SUMxYnVhUWNpTjBuSmM5TnR5a21WQzducHc5TE9xX3NXMGdhUzlRRDNXVEZSRUswUFhScDRSVndPLVhzWHBUbDROaEJDQjZZdlg3UkFTUHdiR0oyb1VPcnFZcEJET0d0THRYWGVOZENqVjhrWGdNanduR19QNlpTa25rNlphTTY3a1hfbVBCTDZ5clZOSHBhZV9iZE9tazN6V0dJNTRpVHFLT25JN09sa1FsQkow?oc=5"
     },
     {
-      "headline": "Best Buy Co. Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSzJWMjlKa1dGNFN2TUY4VHFCbzdSQ3Zzd091SEEwZkc3N2tqNjlKSmVKN2lpX2F3UFpTSzB3ZFYya1BrXzhXT3RqbUdMQ0UySjNmRzZKLXYwYTZqOGdabmxXam16UlFlOTFiazBkUGNNeHB4bC02VXlUcXVJN2xvc09CZENmeHduVjNCazVkSEYwR1FHNlRxQjZhNHB4enR4NmVTVk9xVmtmSjRyQ2NvalJWOFhFTGNDV3haZU1Va1VrajF2UXFVcll5MFJFTF9Va1pfVlR5Nzgtcjc4a3hlQTNNY1NuZw?oc=5"
+      "headline": "Best Buy (NYSE: BBY) records new insider share activity - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVJyR3R6X0R6dXBfTllmVjlteEhYZkJmNmhqM3pQTmxtVmtLOUZ1Tk5oRElPQzEzenZFeHZXS194T3VnclBuUmUxRFdhdHFSeDI5RFBsTzgybWNzNXB5RE1KY2ZxT2RhVkt6SjZsZ1h6SHhPa1lWcU9rN2t1dVJjZllDU0dPRmJjMktGY3VDWTNMYk5zRjR4NVp3SlRZZktxNjJ6RTllSzVzenlC?oc=5"
     }
   ],
   "insight": "Tracking Best Buy (BBY)."

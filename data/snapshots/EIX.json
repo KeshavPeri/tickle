@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:20.736Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:40.398Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    78.16999816894531,
     79.63999938964844,
     79.75,
     78.63999938964844,
@@ -24,11 +23,10 @@
     71.30000305175781,
     73.69000244140625,
     73.44000244140625,
-    74.66000366210938
+    74.66000366210938,
+    71.58999633789062
   ],
   "6m": [
-    65.45999908447266,
-    67.05999755859375,
     69.08000183105469,
     71.45999908447266,
     71.41999816894531,
@@ -138,6 +136,7 @@
     77.62999725341797,
     77.25,
     78.16999816894531,
+    80.37999725341797,
     79.63999938964844,
     79.75,
     78.63999938964844,
@@ -158,10 +157,10 @@
     71.30000305175781,
     73.69000244140625,
     73.44000244140625,
-    74.66000366210938
+    74.66000366210938,
+    71.58999633789062
   ],
   "1y": [
-    53.810001373291016,
     55.599998474121094,
     54.5,
     54.91999816894531,
@@ -390,6 +389,7 @@
     77.62999725341797,
     77.25,
     78.16999816894531,
+    80.37999725341797,
     79.63999938964844,
     79.75,
     78.63999938964844,
@@ -410,29 +410,30 @@
     71.30000305175781,
     73.69000244140625,
     73.44000244140625,
-    74.66000366210938
+    74.66000366210938,
+    71.58999633789062
   ],
-  "lastClose": 74.66000366210938,
-  "oneYearReturn": 38.74744797751931,
+  "lastClose": 71.58999633789062,
+  "oneYearReturn": 28.758989752872104,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Edison International stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "Edison International stock underperforms Friday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWmQtQ1QtNnpPX3BLUnVmeE4yNnBPdnZfYnZnS2hkaWNFOUUwQVlIN25DT281aUh4bW04NUNRR2NNbEdRNTBGUEtDOUtKZWV1WlcxMGw3Y1AwaDJCcFRqSndXZ0l2U0FsdFJvQ3R1OTZlZ3Q5ejZPak1yRmhsRnRSTXJLTlIwWWRyNExHTWVYOTlEWWF0ZTUtdFJMSV9Oam12RUlIR1lxTms1SG5xV09Dd3BfMzU1WERrakZvZi1kSlpsNjBIaElodXNzQnFCR0s3RXVkR3lneTdjWVk2bmcwNmlDaU4?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOWVSVmJuWm90TkdkcE9kd0haQnh5YVdoQTl1NzA4aHpWMS03bjRmR0FXV3B1c0xRdXp4QjRXOFotdUpmdks5VDlBYThTaHF2Z05QQmdEZ2o4TG9qVVkxOURVR05HVnNLYVNjNmlCNHhyMXVfbEt2Rm5zcEFQSk80SzhocmF2emJ6amMzY2x3bFFLWWVWbjdIdTJKODdUTXJtRFNDaWlvM3VnZlVRV244X3h5RGVyUkdzdjE5M09HSDg2MVBaLXlPRHhQZmxPZHk5ZXc?oc=5"
     },
     {
-      "headline": "What Are Wall Street Analysts' Target Price for Edison International Stock? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRGwyOG8xOFc0SkhXTmdOMnRFZFVLYjVHZ242bjRTNDZoVm1NSUNEcmVlOUR0SmNoN0l6eEJWRGw4RElkNmM1N3lZY19Dbmwydmw0bDJ6a05pX1pGdTZOOUMyeDdON0twT0VIM3kxekpmb3VERlNPWDhpZ3Jqbm9ZVmpXVVdOWXlLOVU2RTIwRWRPdHhTX2hNWG9XdFJJQnpzVVBmbDU2YzRUOWxzekM0U3paWUQ4ckZf?oc=5"
-    },
-    {
-      "headline": "Danske Bank A S Makes New Investment in Edison International $EIX - MarketBeat",
+      "headline": "Edison International (NYSE:EIX) Stock Price Down 3.4% After Analyst Downgrade - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb28wVGVYaDlhS2FDeDN3LVpYZFBySkRGbnBQZ0xXNlhMbUsxNUxzUUZRVU0zV25MaHh6YmgzYXZYbVhweE9WY1RTVjloVURWU0JqV0hDVk9jSjZxdk8tRHVocUZzeW1hYlJXRjhpNTBuVDhBYVNNTktuUjJsME5jZWp0alRhVVhWVlo2U2lsWDFoRElxVU5BNUUxWnB4Y1RrZGdmX3NKbGFOTXlGMF8zTm5YNkkwUnd6ZU1JeU9STnoxeFk?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWx3LUh2Wlc1R0piNl96UVg5NHhOMmRaQy1vdWE4dGdXQ2c1NVRucWdWOFBFM2ZzQkVULXV3Z05hel9jaUpENVFrVk5sOWs0NnZyd3pwZDUyM3V6d0hPbkdaREw2bVlWa05ySEhrNFFmbHlvSkpZMEoyZ3VTeGZSMFJZcW9wMHJ6SWplbTRRQjBKckk2dGJ3WkJmc0tfVFBWZE5BOUduaTdNYXB0eVA3X09ZaVVIaUtBLWQ0b2tLdjZPNm5L?oc=5"
+    },
+    {
+      "headline": "Edison International (EIX) Shares Fall 4.1% -- What GF Score of 70 Tells Investors - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUNKYVQtQUw4TFZxVFZBaWd4QmVvVXRZR1didXNVMHFPalcyMFBRR0syMkVXLW1HLUk1LUlBbHhxNElVZ3pxUkJiOWVCRHgwc19hY3hRY2loVXNjUFZIX1p2Y05iQVA4TXlhendtVzQtSHFHQ3pXWm1aN19rSmR0MUhtc3k3eTlqbDRnaTMwb2VqUnd6dUdIODZmT2xocS05UXNTYmhKd2M0Tlp3Ul9wZHN4M2Y?oc=5"
     }
   ],
   "insight": "Tracking Edison International (EIX)."

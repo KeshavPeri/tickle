@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:50.854Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:36:00.666Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    117.3499984741211,
-    116.48999786376953,
     114.94999694824219,
     116.5,
     119.20999908447266,
     121.68000030517578,
     118.87000274658203,
     119.27999877929688,
+    111.75,
     113.51000213623047,
     115.79000091552734,
     114.9800033569336,
@@ -24,13 +23,10 @@
     110.45999908447266,
     110.31999969482422,
     112.2300033569336,
-    112.19000244140625
+    112.19000244140625,
+    111.51000213623047
   ],
   "6m": [
-    94.58000183105469,
-    95.80999755859375,
-    96.63999938964844,
-    93.79000091552734,
     93.16000366210938,
     93.76000213623047,
     93.80999755859375,
@@ -139,12 +135,15 @@
     118.87000274658203,
     117.3499984741211,
     116.48999786376953,
+    117.61000061035156,
+    116.01000213623047,
     114.94999694824219,
     116.5,
     119.20999908447266,
     121.68000030517578,
     118.87000274658203,
     119.27999877929688,
+    111.75,
     113.51000213623047,
     115.79000091552734,
     114.9800033569336,
@@ -158,10 +157,10 @@
     110.45999908447266,
     110.31999969482422,
     112.2300033569336,
-    112.19000244140625
+    112.19000244140625,
+    111.51000213623047
   ],
   "1y": [
-    104.52999877929688,
     108.29000091552734,
     107.45999908447266,
     108.55999755859375,
@@ -389,12 +388,15 @@
     118.87000274658203,
     117.3499984741211,
     116.48999786376953,
+    117.61000061035156,
+    116.01000213623047,
     114.94999694824219,
     116.5,
     119.20999908447266,
     121.68000030517578,
     118.87000274658203,
     119.27999877929688,
+    111.75,
     113.51000213623047,
     115.79000091552734,
     114.9800033569336,
@@ -408,29 +410,30 @@
     110.45999908447266,
     110.31999969482422,
     112.2300033569336,
-    112.19000244140625
+    112.19000244140625,
+    111.51000213623047
   ],
-  "lastClose": 112.19000244140625,
-  "oneYearReturn": 7.328043386169549,
+  "lastClose": 111.51000213623047,
+  "oneYearReturn": 2.9734981932587825,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "T. Rowe Price Says Nigeria Attractive Even After 64% Stock Rally - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEE0YTZGckNkSnFQQ3NDbnFIaWpiWTVXX2tnUVN2UEhiMFpqWGd5ejRIeDBzWTItNUJDMDVhUV9IMHpnQ3Z0MzBmQ2k2UjVzZ09YSG5HXy1Ja0d0bWpkNFZMak1VN2N6WDNOMGV3bGNHWUlydjBMU0lXN0o3SkNkN2pFLXJ6aG1WZ2IyamdsdkJyaUVTdU9jc2tuYlgya0V0Vk5PV25BRWFYLUhpOXFFN3dmVQ?oc=5"
+    },
+    {
+      "headline": "T. Rowe Price Looks to Build on Success of Its Fixed-Income Operations With F/m Investments - Morningstar",
+      "source": "Morningstar",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLWRHcG1UNUlnc185a0xyT1RDVDl0NFQxeUpvbU5tWDl1X3huaWo0dkgwLXNuVVJQd2NEeUluUG1QNkI0dmpKbFduaWc0NE5lclRiVmNwcm81QzNkWnJGaFU0eEg3cG5hWVJUYXVEOENRb2RDMDRMcE02Y0dPa0l4c1pUMDFVLWNkNVlOcG9zN2dzWWtKSUg2WjF1cmZKZnMtUkExY2dLcTJYR3M0Y3RFTEVOcmNkR2RjcHoxc3BicTU5UGpKRVZtYjhCakNZazc2b2xzd1k3Wm8?oc=5"
+    },
     {
       "headline": "Weekly Market Recap - T. Rowe Price",
       "source": "T. Rowe Price",
       "when": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2N0MnlXYmpwdTRjaC05NUVxMy1aMi1XZE9XZml1STU2RC04UzVNWEZOVFZXWWtiTjlBZlRTYjdZcUo4SldpaDJHbHVKZUVGb2tTSEJmT21idEhsM1RUdnNjTnBHTXJKb21iZV9tQlYxZ0ZJX3MzcExaTkpraFpMRmdKV0RDRzhwOXRHbjA5bU9PVFpUU2ZqV1VMLURnWnA2?oc=5"
-    },
-    {
-      "headline": "Is T. Rowe Price’s Rich Dividend Masking Deeper Growth Challenges and Client Outflows for TROW? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSGFuc3VxVzJZSk04M0ZoaFV5VWtDak4xQm9jUlhkeFJoR2V5cFB2djNWSFM3VG5YMHBMSnRoOVJHSjF5ZWRuZmZzZ0todkpZb19ZTUVNT1BRTE5NYXM0UW5FMHZXdkhUalJkelkxTFlSWUtkMk9iaFAtTUVsN0YwYlFWWVVBMU1aVG1xbnVxNl96elJ1MG1LMHN2NjhVekwxLVNiVklmbVFrZXc5ajlnZG9oenNhRDFHdWlKX3dMVEtBMGRhUV9ReTJqWEhUZjFsM00wd1k2RkVfYlNuWTU0Y2RqbFMtWjRLS1A00gHrAUFVX3lxTE5IYW5zdXFXMllKTTgzRmhoVXlVa0NqTjFCb2NSWGR4UmhHZXlwUHZ2M1ZIUzdUblgwcExKdGg5UkdKMXllZG5mZnNnS2h2SllvX1lNRU1PUFFMTk1hczRRbkUwdld2SFRqUmR6WTFMWVJZS2QyT2JoUC1NRWw3RjBiUVZZVUExTVpUbXFudXE2X3p6UnUwbUswc3Y2OFV6TDEtU2JWSWZtUWtldzlqOWdkb2h6c2FEMUd1aUpfd0xUS0EwZGFRX1F5MmpYSFRmMWwzTTB3WTZGRV9iU25ZNTRjZGpsUy1aNEtLUDQ?oc=5"
-    },
-    {
-      "headline": "T. Rowe Price announces F/m Investments acquisition, terms undisclosed (TROW:NASDAQ) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXJrV0szRTVacWpUUHRVRzNkUUFtZTJxMExFUEdKOFd3eUxjWmVaWUdfUVp5eVNKcngtQWw3Y2J2bDZDbFR5UDkxWmhqVll0bDk2WkxvdTA3azh6Y29ZWGpCU282WC1vNmROUnBTWmFDZmw0NDUtUjZhQ3Y0bXFIbzg0a24yaUN1cU04VThSSXhLOGs1T3RvcjMyNHdZZWFIbWdsMUw1bk0?oc=5"
     }
   ],
   "insight": "Tracking T. Rowe Price (TROW)."

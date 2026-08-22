@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:07.697Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:32.070Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    68.94000244140625,
     65.73999786376953,
     67.66000366210938,
     69.69999694824219,
@@ -24,12 +23,10 @@
     68.86000061035156,
     69.37000274658203,
     71.48999786376953,
-    72.08000183105469
+    72.08000183105469,
+    72.91999816894531
   ],
   "6m": [
-    68.66999816894531,
-    67.61000061035156,
-    67.0199966430664,
     69.52999877929688,
     68.47000122070312,
     68.83000183105469,
@@ -138,6 +135,8 @@
     69.44000244140625,
     69.3499984741211,
     68.94000244140625,
+    66.63999938964844,
+    65.38999938964844,
     65.73999786376953,
     67.66000366210938,
     69.69999694824219,
@@ -158,10 +157,10 @@
     68.86000061035156,
     69.37000274658203,
     71.48999786376953,
-    72.08000183105469
+    72.08000183105469,
+    72.91999816894531
   ],
   "1y": [
-    96.4000015258789,
     96.66000366210938,
     96.72000122070312,
     96.05000305175781,
@@ -389,6 +388,8 @@
     69.44000244140625,
     69.3499984741211,
     68.94000244140625,
+    66.63999938964844,
+    65.38999938964844,
     65.73999786376953,
     67.66000366210938,
     69.69999694824219,
@@ -409,18 +410,13 @@
     68.86000061035156,
     69.37000274658203,
     71.48999786376953,
-    72.08000183105469
+    72.08000183105469,
+    72.91999816894531
   ],
-  "lastClose": 72.08000183105469,
-  "oneYearReturn": -25.228215051734654,
+  "lastClose": 72.91999816894531,
+  "oneYearReturn": -24.560319256919417,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Brown & Brown Stock Prediction: Where Analysts See the Stock Going by 2027 - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2025-11-07",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZnJxZUVHb2p6cG8zMTNwV1VpOTBOclVDeHVwT1dZWlYyaXhyYUgwTkE5UTR5R3V1a2hMQXdyclNNWFZyZDZoMGw4VGxSOEdwV3hsaW9SNl9rbTBKdUxmQ3l2bElwUmU5MnRodlh6R3VsU3pNTEMwSmw1WHJId3Bva2JrNnNyWHFteC1ndUdJVndOWTY5TEZ2ZWR2SzlCQQ?oc=5"
-    },
     {
       "headline": "Who Owns Brown & Brown? Top Shareholders and Recent Insider Trades - TIKR.com",
       "source": "TIKR.com",
@@ -428,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSEsxQnpPZ241TEVqaEJxY1JIY3ZTVmxtOGw0VjFUSWRVa0tLdTNYVC1UeUc1emR4OGdRd0xKUk4xZzMtZjdfY3AyZFM5TjczcFphVGtCaXF2RDFoU2w1Z2ZYcFE3MHlBQ280Tk9tekl3WjUxUC02cTdUWVRKaGN6WkRxUUo2b3FPVE01UGlZUTR0WmM?oc=5"
     },
     {
-      "headline": "One Brown & Brown Insider Has Reduced Their Stake - simplywall.st",
+      "headline": "Brown & Brown Stock Prediction: Where Analysts See the Stock Going by 2027 - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2025-11-07",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZnJxZUVHb2p6cG8zMTNwV1VpOTBOclVDeHVwT1dZWlYyaXhyYUgwTkE5UTR5R3V1a2hMQXdyclNNWFZyZDZoMGw4VGxSOEdwV3hsaW9SNl9rbTBKdUxmQ3l2bElwUmU5MnRodlh6R3VsU3pNTEMwSmw1WHJId3Bva2JrNnNyWHFteC1ndUdJVndOWTY5TEZ2ZWR2SzlCQQ?oc=5"
+    },
+    {
+      "headline": "Is Brown & Brown (BRO) Starting To Look Interesting After A 49.6% One-Year Rally? - simplywall.st",
       "source": "simplywall.st",
-      "when": "2025-09-15",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaHAtOFBrWW9Oak9EM1NUYlFva1g3aWVkSDFXQ3lwRk1IZ1Z0b0hlR2lvTEZOaGZJeUxsejAwZm1ld2k1ajdIdkFYS2JEVDBlc3pyUzd4Y2lrRU8xbjZWSWNJM0NNbjNSVzBvNnExQ21KUG03aVl5UGM1VkExcFptT2lwenlKdjZpcUpZRDZ0WWtBVXppQkUtQzlFb2dLdUJaVXAtckFndnNiTjZRbm5kRVZadnZod9IBuwFBVV95cUxPdFV5RE5zcFZ1SXk4TTBDNUEzTndqeDdpeG1FSUxhVWZWTlhXMC1hcDVoUWRFeEZsMUNTeGQtOEFxOGVpbGhKWVQ3eFRHV1lDU0lSZDE4d1ZkcllqcnAwWVBQblNtSDNpNzhRUGR3ZE1NTC1tc0I4SXJPWWxZM3lhZ1lGRjY5dzcxUTI5eng1UXItaTlDTnpCaGwyRXFjVDNrUENjU3Qta2dVUk1oZmZCelZWZDdMN0NkdHFJ?oc=5"
+      "when": "2026-05-12",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS0NoYjJvVEZYM043VXpzazdiS3dJV2s3anZfRkRrcFlKc3RQRTZYeDFlRjc2azBmcXlmMl8xZkloZ09CRjhqVm5oZ2dLSy04NXNvMVl0T1pTbjFDMzQ1cm83S09OMW01c1RJSVc1SWZkb0ViQmJxNndXQTJNUlpTYmtRX1hzd1hJUDhWeGlkVmRpRVYtRWZjdEZ6Q05JdDJrazFacFp0NFZoa1JjaWI3RGtleGZHbERabjZVUGpWRlBheFJBQ0HSAcsBQVVfeXFMTnpzSDNwSjZVOGxjSU5tSzhZS1ZxYmp4Rm5mYW52TkxQbmRxVGFHdmNpajJMeGhIMF9ZVmRDZTFzZnlENmxGWUNVdVpnSGtOY1VYNUFSZHZXYzBLUEZVQ3FkWXFVRUJYX20yajFxSzBmUVZzbTB2ZlY3WnNpTUVjOGwzdWE2RGxtRkY2UWpwSnI4SFBoeHB4VGJRTFNaSDQ5ZDNXQzE1SVdIZjlkVDRUZ25TLTBlTkoyT0NCSzRoY0lOU2QycncxX0hvUDQ?oc=5"
     }
   ],
   "insight": "Tracking Brown &amp; Brown (BRO)."

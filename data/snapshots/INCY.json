@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:32.899Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:48.604Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    117.25,
-    115.6500015258789,
     116.69000244140625,
     117.66999816894531,
     118.87000274658203,
     129.92999267578125,
     127.0999984741211,
     122.98999786376953,
+    119.5199966430664,
     118.43000030517578,
     120.5999984741211,
     119.80000305175781,
@@ -24,13 +23,10 @@
     123.5,
     123.47000122070312,
     128.47000122070312,
-    127.22000122070312
+    127.22000122070312,
+    127.80999755859375
   ],
   "6m": [
-    108.38999938964844,
-    109.02999877929688,
-    100.05000305175781,
-    98.83999633789062,
     100.75,
     101.0999984741211,
     101.16000366210938,
@@ -139,12 +135,15 @@
     116.6500015258789,
     117.25,
     115.6500015258789,
+    117.38999938964844,
+    115.79000091552734,
     116.69000244140625,
     117.66999816894531,
     118.87000274658203,
     129.92999267578125,
     127.0999984741211,
     122.98999786376953,
+    119.5199966430664,
     118.43000030517578,
     120.5999984741211,
     119.80000305175781,
@@ -158,10 +157,10 @@
     123.5,
     123.47000122070312,
     128.47000122070312,
-    127.22000122070312
+    127.22000122070312,
+    127.80999755859375
   ],
   "1y": [
-    86.52999877929688,
     85.04000091552734,
     84.76000213623047,
     84,
@@ -389,12 +388,15 @@
     116.6500015258789,
     117.25,
     115.6500015258789,
+    117.38999938964844,
+    115.79000091552734,
     116.69000244140625,
     117.66999816894531,
     118.87000274658203,
     129.92999267578125,
     127.0999984741211,
     122.98999786376953,
+    119.5199966430664,
     118.43000030517578,
     120.5999984741211,
     119.80000305175781,
@@ -408,29 +410,30 @@
     123.5,
     123.47000122070312,
     128.47000122070312,
-    127.22000122070312
+    127.22000122070312,
+    127.80999755859375
   ],
-  "lastClose": 127.22000122070312,
-  "oneYearReturn": 47.02415695762349,
+  "lastClose": 127.80999755859375,
+  "oneYearReturn": 50.293974814923935,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Incyte (INCY) Nears Fair Value, Is The Upside Already Priced In? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUmpRRmI2YkNhRVczUVc2TkZfSGk0bWZZbUpyUHVGa2pwZ080LWtldjYzaHBjVkZDTm1BUjB6QVRjZHZEWWNMMktNM1FMYjBWdXp4QVNzTFJzb2F6M3ROTlM2aFdMUUVndUF4dkFrNHpZWmVQdk8tdk9GNTdkZVRQNnlhOTVFUWszY19pamRFR1ptMzlteHVGUHBoaWhNOEluTVNLNTR4d2ZqTUtySzhka1BXb1R4X2xoVXNkQlR4Y1FGSE45aFhuUmJjN0owN2JLdmppSmxfc9IB3AFBVV95cUxOZmlhd1JOWm5WYkVpQTVIVEV3OEV2cjJubzduNHU2VE1kOEFFN0lBbGUwb0FvZ1JFQnhDUnJFOGo1MWhHTm1Ic1F3LUJ4Mk40VXRhR090YUQ1cEpseExnWmRidl9CUkRjU0picFB4UXdkTmVwTC1SWWtCTnpqdExCNGNjdEJIbF9UbEFibkhxYkJZQlFzUHVlRjEydGt2ZG9LdFBuM1NWZVd3VFFhNjZ6dU56RW0yWWN4bzRuTTRJd296bTZGa21pSmZ5d0FiaG1fX1E3Nm0yMTVydE9m?oc=5"
+    },
+    {
+      "headline": "Incyte Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVhTOW8zbmpKdGVwS2EtX3VQcWVzYVMwOUEwUFBjbXJybGNoSk50YV9oWHVwRTRHbEl3WUhHNzlLV05ST1MwSHBzY0lEZ1VmWk44c0ZBUnl2OERyWVlTVVlpNUxBdk1oMHZ0RGZxWWpSRGIteURWLV9FOXJ3Z0hOLTBYRUphakdxSDBsT0ItYnpQR25WNUFkRXk1Z2JVQQ?oc=5"
+    },
     {
       "headline": "Here’s How Much You Would Have Made Owning Incyte Stock In The Last 20 Years - Benzinga",
       "source": "Benzinga",
       "when": "2026-08-20",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFF6dU9PWkZIN0ZoQ2pjT3BGSUJnY3lEZGJacThvdktVbGl6WW9CelF3VjZpdmxCY2Z2bnlZWHNzazVpOWxBeW5YU0JVdWpRVEJxRXF3NEdNalpVN2dXeGFYNlBjZEtBcDdNRHVlVzVjTjllOEdqTUd3N001bHBlTkgyR0pOaGcxeHRueTJJcXhwZno1emVoUXEyOEhBUG42eFpCU0RpX3dXMHdQSHFzY3B4Vk4?oc=5"
-    },
-    {
-      "headline": "Insider Selling: Incyte (NASDAQ:INCY) Insider Sells $1,356,173.56 in Stock - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVQtQ0Frbkxtb09kNG5DYWlOcFZZUmRQQVRKSWVKMERRa2RheWJrZUx1S0dWZEIxN2FxdEUtSk1FM3lTMmliTjQ1a2JkbVk2Nk1XcTNCQUd4ZUVWTjU3TXJ0TlhPTEltVXhVQ1pIQWhWR01EQ3lRX1QySklHc2JrSlZWYTdXZGk5SWtERUkyUGtfdEk4R2ZmZlE0anozUEVTa0NrR3NXZFIzdW5qdkFKMkI0SXY3WDlWVzQxeA?oc=5"
-    },
-    {
-      "headline": "H.C. Wainwright reiterates Incyte stock rating on cancer trial data - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNi15cElUdlpNSDhyenlaTWtSS1N4MHY2MkQ5a0hweFpaeG12TldKcHloMDZSRTVuYjJySUU0cXdCVVZPaTJvZ0lXQWNhSlFGYlNsTGZpR1BVZGpUQkRZMzlqcEhNZW1jMHdveXdKRXdsVzBMNGp0Z3p2VXpYX2czU08wd3RLZDRjaVVIVHZGc2JvU3RlejBVSVlIdWdQTGRoOHBkblNzVFVOeENHSEpVQ0NOQ3lXSlhQY1d1UE9XYi1qM2c?oc=5"
     }
   ],
   "insight": "Tracking Incyte (INCY)."

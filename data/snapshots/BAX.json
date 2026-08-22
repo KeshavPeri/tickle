@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:05.956Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:30.964Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    22.06999969482422,
     21.670000076293945,
     22.399999618530273,
     23.34000015258789,
@@ -24,12 +23,10 @@
     25.90999984741211,
     25.940000534057617,
     26.639999389648438,
-    26.40999984741211
+    26.40999984741211,
+    26.34000015258789
   ],
   "6m": [
-    21.729999542236328,
-    21.940000534057617,
-    22.270000457763672,
     18.709999084472656,
     19.790000915527344,
     20.739999771118164,
@@ -138,6 +135,8 @@
     23.350000381469727,
     22.610000610351562,
     22.06999969482422,
+    22.209999084472656,
+    21.739999771118164,
     21.670000076293945,
     22.399999618530273,
     23.34000015258789,
@@ -158,10 +157,10 @@
     25.90999984741211,
     25.940000534057617,
     26.639999389648438,
-    26.40999984741211
+    26.40999984741211,
+    26.34000015258789
   ],
   "1y": [
-    23.850000381469727,
     24.540000915527344,
     24.559999465942383,
     24.5,
@@ -389,6 +388,8 @@
     23.350000381469727,
     22.610000610351562,
     22.06999969482422,
+    22.209999084472656,
+    21.739999771118164,
     21.670000076293945,
     22.399999618530273,
     23.34000015258789,
@@ -409,29 +410,30 @@
     25.90999984741211,
     25.940000534057617,
     26.639999389648438,
-    26.40999984741211
+    26.40999984741211,
+    26.34000015258789
   ],
-  "lastClose": 26.40999984741211,
-  "oneYearReturn": 10.733750209628408,
+  "lastClose": 26.34000015258789,
+  "oneYearReturn": 7.334959942571243,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Baxter International (BAX) Taps John Rogers As Chief Financial Officer - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd1JldlR3NzNqcktlTUdmRWtWdVY2dHRuV295M1Bwd1NlVXVxY1hQY1dvaWFNOG1Ma3R5ckZMb0daN1BSMGE2Vmppbm9JYzlNTThBNS1CcmxxLWpiSUVFQXBhUFh6THdLWmUtN1ZrV1VSWDJBSGtXT2xscnIyd1pmNlFXaHRjV1luYThZSTdpQ2twdDgxNlVmbHZCSS00VzQ4a2NEQkdHUGdlOThTRktZeVdQNXUxdmdESzRyT3Y3Q0RXaGZfRUkyaXVLTS1VSjdrT2dmWNIB2gFBVV95cUxNWG9xQmNOVjR4WkZBSjh5QWF0dVdZZ1drYThkNndDY2kyTkVBNjBVUjN2NHBSNlItUjJBUHY2dU00SmtSTnpTN1kybHEwR0xzczdxVEk5UGw1T29pRmNPSF9hWGV0VWs1M0V4eEZuOV9xYlZSYl9WN2RHTC1qdUpwR3Y0UnVDNzhkeGZGajFpNXA5RWpuWDN3cVdVNU1qWExURTNtNGRveXhDbUY2OFpKanRIbzFmRDlZZkcxdFdyb09YeWVad2QxZ1dOTFoxampmdGM2eFBsSVRhZw?oc=5"
-    },
-    {
-      "headline": "1,435,460 Shares in Baxter International Inc. $BAX Acquired by Tocqueville Asset Management L.P. - MarketBeat",
+      "headline": "Mitsubishi UFJ Asset Management Co. Ltd. Takes Position in Baxter International Inc. $BAX - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcEVHbkxkdkM5WEtMdnF2b283MjYwMkF4QWtqeU92dUNQdEw1ODB1LTdOMTEtTHEtS2JVNXpvQnUzdGhoVzRMUzUwMzQ4Ukc1QmxLWkVrb05TM252RlZWdTNISXNueEc4UElodDFLblBfdlk4a3ZzaEJxeXJQN2dpVjJwSHpyTHlzWHNfdHVEQlZNaU1KdUpaN0lsOHpmOERjMW9FU0o4dHhLdDFxVzduUmpVbUM5cTNrcWRidFJLUm56MHFlYVZsV0stWDV6ZHpzaWQ5RUhXbmU2TENpU2ZVX3E2eG1Ndw?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUlZXcFBJaEJvelFfWDVhMF9sTGZIdWxOT29kVVNWZEF1SV9BZlF1aF9PeG9EdnJZVTZDdGxSc0RYWThDSnRoTUhUdFVUZWtsNndiNkI3WU9TUEFmY01pS1dVVE5qWENXcVRWVzFtR1ZBZEhkUnVtZDN4QmtUZ2FGRVBGLVBzakNYal9TUGxaUzNnYnpRTGJQNUFhQzdWZ0J2N1JKRVVhUF9uR2hzTkI2a2FwLXhQZUZjcEZLRzhpckpUSzZjV25MZUpMclo4b1RLSXFtSjFkRHBQdi1YUDRz?oc=5"
     },
     {
       "headline": "BAX News | BAXTER INTERNATIONAL INC (NYSE:BAX) - ChartMill",
       "source": "ChartMill",
       "when": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yTzJlZmJnZm5JLWVxdjlkODAyd25ocW9qd3pLNTBIdzFVdGdkcVJGeGk5OVdxTFctV0laWGFhNDJwZG9WS3hoVTJRZnNyTjVRRW8tM0E3azd0Zw?oc=5"
+    },
+    {
+      "headline": "Why Are Baxter (BAX) Shares Soaring Today - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkxQT2xFaGFaQWtITXprMzBFNjc5UWNka0hwSWoyVFRQMlRwZll1c2JQdXM3b0hTQ25fbVF1eW5jQjYycWs0bzkwd0tDcnQ5UjJ1VFN6RVA2V2NRc3Jwc3pFajBzS2dMcU10cFNwTWYxWGRSb1I2NFdyZTdEXy1GVTBSb01FOS15aUN3TF9iZk8wUHNfSGktR21n?oc=5"
     }
   ],
   "insight": "Tracking Baxter International (BAX)."

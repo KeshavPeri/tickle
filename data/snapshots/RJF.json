@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:46.996Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:57.820Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    168.36000061035156,
-    168.32000732421875,
     166.13999938964844,
     169.3000030517578,
     173.60000610351562,
     177.17999267578125,
     174.16000366210938,
     174.97000122070312,
+    175.97999572753906,
     177.67999267578125,
     178.57000732421875,
     180.5500030517578,
@@ -24,13 +23,10 @@
     179.47999572753906,
     179.3000030517578,
     177.92999267578125,
-    172.35000610351562
+    172.35000610351562,
+    175.1999969482422
   ],
   "6m": [
-    172.13999938964844,
-    173.6699981689453,
-    158.47999572753906,
-    158.60000610351562,
     157.41000366210938,
     158.67999267578125,
     158.02999877929688,
@@ -139,12 +135,15 @@
     169.6999969482422,
     168.36000061035156,
     168.32000732421875,
+    167.92999267578125,
+    168.00999450683594,
     166.13999938964844,
     169.3000030517578,
     173.60000610351562,
     177.17999267578125,
     174.16000366210938,
     174.97000122070312,
+    175.97999572753906,
     177.67999267578125,
     178.57000732421875,
     180.5500030517578,
@@ -158,10 +157,10 @@
     179.47999572753906,
     179.3000030517578,
     177.92999267578125,
-    172.35000610351562
+    172.35000610351562,
+    175.1999969482422
   ],
   "1y": [
-    162.02999877929688,
     165.27000427246094,
     165.89999389648438,
     167.9600067138672,
@@ -389,12 +388,15 @@
     169.6999969482422,
     168.36000061035156,
     168.32000732421875,
+    167.92999267578125,
+    168.00999450683594,
     166.13999938964844,
     169.3000030517578,
     173.60000610351562,
     177.17999267578125,
     174.16000366210938,
     174.97000122070312,
+    175.97999572753906,
     177.67999267578125,
     178.57000732421875,
     180.5500030517578,
@@ -408,29 +410,30 @@
     179.47999572753906,
     179.3000030517578,
     177.92999267578125,
-    172.35000610351562
+    172.35000610351562,
+    175.1999969482422
   ],
-  "lastClose": 172.35000610351562,
-  "oneYearReturn": 6.369195458845718,
+  "lastClose": 175.1999969482422,
+  "oneYearReturn": 6.0083453857790525,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "one8zero8 LLC Takes $857,000 Position in Raymond James Financial, Inc. $RJF - MarketBeat",
+      "headline": "Applied Optoelectronics Launches Up to $600 Million ATM Program With Raymond James and Needham - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNckFQTDdaaFlTVVAtekt5blNORGN4ODZGUWIwVmJVUWJjdDNuZlo3eThlRjEtM2RPb0lSWDAteTZZazg3UjFGcXNESUlFMjhtcFMzZnJEdGg5LXBoTjlpb2xYV1I2TFVIZkNfUXRxNC16RVI2bHdRY1pnSVoxbUdmSWh3NFk0S1Y1cGhLdXJGVmpWWlhZVk9aVklLRGdkcGMzSVVORFJNMkFqY1psUEJ0Sm83MEpxUWw2b3dxUmRqdms4Z1JreExlUUROZHNfaDI4ZEJOdHUtc2wyQW1DQkRUc1dnYWQ3WUsyUlRv?oc=5"
+    },
+    {
+      "headline": "Raymond James Financial Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM1BXTUVrenBNY2lsUjNUSHd2emlqbE5KYVk0SkNDQl9CWWlNb3ZueFZCYUFsWFJmQXFkR1M5bjRPU1UwTUhyVEh0RkRHdE4yWWRDY0Rvanc5alZmX3hEcllMaVdHX1dnY1V0eng2VEt3Q2c2UExkZDhESlJyVDd0VFBmQ2NxM21uT3JpVG9GNVdRQlVZbDVHdWFNMVBQQnppSXJwY0FGdlRtaWJ2NjVQenlTT1pfN3hod21HcEVTOVZwdjUtZjJ4eS1nYm14T3dPMjhnbHdFVV9LVjNJOWc?oc=5"
+    },
+    {
+      "headline": "Oxford Financial Group LTD. LLC Purchases Shares of 7,213 Raymond James Financial, Inc. $RJF - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSGdmUUNoZnNTZzhqZkNlelpUb3pIYk12YVpMZGxhNFZhOXd0cFlhYXBfNWZmSlB1X1JGdjZ2b19VZ3FIdFdlbkN5V1RfWmlUNy02emMzY2liZHNDTFJnLWhqUU5ObFBSR2xjSG5fRmNPTS1FOGNQQWdCUEdFRjhrc2ZkcTJqdkdDUDh1bzcyR0FCdl9HbFJXQVg3RlBSa3FXc0tpclJOaTB3ZzVOamhuMzNZazVQVURxUGpkQ2xtdmQyeTZtM3YxWGZyNA?oc=5"
-    },
-    {
-      "headline": "Raymond James (NYSE: RJF) COO gifts 1,000 company shares - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbEtBR1FMSmRrUmJXQzhJaFBhM1VTamJlRkR4VFVpX1VkS05nQW5ZajdlaEJkNE9odDNFaFE5Q0RqMXVCRXlZUGVBR0NnV3FVeF84QjctbWFDYUNjdkFLMWZma21UWHlqVTlDMl9yX0NLSzkzNXFoSV9aZHRobVBKOGxCVXZXdE1IcEtENEoya0w5dHJ0Yzc0ZEFaaldpU3l6MlZBRUNLWnQ5ckpXNHBkYUxzV1VJQXVXWGItZg?oc=5"
-    },
-    {
-      "headline": "Investment Banking & Brokerage Stocks Q2 Recap: Benchmarking Raymond James (NYSE:RJF) - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVpjRzhyb3NETC1iUGRyMjRsaEtQUHp3MzZhQ1NJc0JBMWZLcXp6V0dudHk2bkxlSzNvdGpUWWVLdVlBMFlqUHdjOEhSNjByYkFhX25KMWpzLTJKN0U4UGJVRHVlY2VNRF8xVXZNVzBsNGdJZ1Q3RWlNY2xIU3NJZklpaXotWGVPQmlPbndkLV93V0VJdHdhMUNsZW00em1Ma29TRlNB?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc3Nsc25zQUZMMnBHVllqTkpnQUV6MlNqbEFvMW5YYmVFaXRWUTFhUFFSUk1CS2ljb01Pc0NZbDdLbEFVWFRCY08wTmlGdUJTN0lfcWFjWUdHdkNadVVyYnZxaGN0TjdNT0dLWTB3TjMySUJvdHRzYml2MXI5c3VmcG1LX28wcGVYTjhJMnFlajdEYkUwWlNYTHBmc3hDLWtUV2plN3VKZkg2TE4xXzVpVURocHZ5TTR5ajhFeENlQV9DQWJYZGMyMWpoNFVZUWtHQU0wSnhmM3pOR0I3Y1ZnbW5R?oc=5"
     }
   ],
   "insight": "Tracking Raymond James Financial (RJF)."

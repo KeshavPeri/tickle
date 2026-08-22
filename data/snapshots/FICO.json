@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:24.986Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:43.394Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    1257.1099853515625,
-    1263.8299560546875,
     1206.18994140625,
     1237.3699951171875,
     1280.5699462890625,
     1336.219970703125,
     1373.0799560546875,
     1139.5400390625,
+    1122.969970703125,
     1045.4599609375,
     1046.989990234375,
     1091.550048828125,
@@ -24,13 +23,10 @@
     1064.4100341796875,
     1078.1199951171875,
     1161.5899658203125,
-    1149.75
+    1149.75,
+    1172.6700439453125
   ],
   "6m": [
-    1391,
-    1372.760009765625,
-    1380.6800537109375,
-    1363.31005859375,
     1337.6400146484375,
     1344.739990234375,
     1351.5999755859375,
@@ -139,12 +135,15 @@
     1241.219970703125,
     1257.1099853515625,
     1263.8299560546875,
+    1227.3399658203125,
+    1221.469970703125,
     1206.18994140625,
     1237.3699951171875,
     1280.5699462890625,
     1336.219970703125,
     1373.0799560546875,
     1139.5400390625,
+    1122.969970703125,
     1045.4599609375,
     1046.989990234375,
     1091.550048828125,
@@ -158,10 +157,10 @@
     1064.4100341796875,
     1078.1199951171875,
     1161.5899658203125,
-    1149.75
+    1149.75,
+    1172.6700439453125
   ],
   "1y": [
-    1361.719970703125,
     1415.9000244140625,
     1423.8699951171875,
     1420.1300048828125,
@@ -389,12 +388,15 @@
     1241.219970703125,
     1257.1099853515625,
     1263.8299560546875,
+    1227.3399658203125,
+    1221.469970703125,
     1206.18994140625,
     1237.3699951171875,
     1280.5699462890625,
     1336.219970703125,
     1373.0799560546875,
     1139.5400390625,
+    1122.969970703125,
     1045.4599609375,
     1046.989990234375,
     1091.550048828125,
@@ -408,17 +410,18 @@
     1064.4100341796875,
     1078.1199951171875,
     1161.5899658203125,
-    1149.75
+    1149.75,
+    1172.6700439453125
   ],
-  "lastClose": 1149.75,
-  "oneYearReturn": -15.566340750196545,
+  "lastClose": 1172.6700439453125,
+  "oneYearReturn": -17.178471380379072,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "56,713 Shares in Fair Isaac Corporation $FICO Bought by Mitsubishi UFJ Asset Management Co. Ltd. - MarketBeat",
+      "headline": "Silvant Capital Management LLC Purchases New Holdings in Fair Isaac Corporation $FICO - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcnpNUlo1MTVObXdkV0hkLUpkUklyNXpsOGl6cGZxalVyVDV2NmdnQW44TGRZaFlla3FEQ2paTURMNWtzaEtqeklIR1ZjSHVKcklIUEJYZEJxQU1SRkk4Mm1VMGhvYjltZ09ES0FLOVJ3TmlTUFVaTHpFQi1GRjdKNUR6a3BvTVRkbVV4OXh0ZzhLRUtVZ291Ymx3QjhtMHF5M2tTb0ctOVhfa0pVVlAzTFpQVkFoRjZvczV4MXdFTDBuM1kySW9nV1AzM2tJd3pnZzlOd2o5SThCamJBUF9fNDh0dDR1cHRC?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT05Ed1d5N0pQclZhTXlaN2JSMjZuOFZNWkFHYUdqSVNhVHZ5dTRtWjJsb0V2b1JORk01LVBkbFBIbU83RVNlci02czRqazdBQ3ZkTnNFb1pXaEdyU003a0dsWHFzU0xrbXhQUk9ZVGkzY2ZCQ1pxdTBWNGt6UkpPNGxJZTFSOHFKM0VDUkh6ZDF0Q2ZYY0ZSZzZ0UUJFQzBPYkFaMWpNRWhTUXh4M3JKdkY3ak5YbzBDUUdyMzNxVzRhdU5RWXJaeGRTbkQ0enNfWjZGNGxVNGNHRDMxU3c?oc=5"
     },
     {
       "headline": "Fair Isaac Corp. stock outperforms competitors on strong trading day - MarketWatch",
@@ -427,10 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTnZ0QURFWHg5elF1bnBGeVQ4VERhR1o1Zmk0VW9KVFlNZ0plSGJnWEJoOFoxNktxNFFlaFBOZXpSaEpwd1FuWVpSUFZrOFdFWXVYbGdremNvY2lOcmNKWHZ0c28ySHp3UlJhNERRZE5YSm5hRHlya1VfMWZlcUJPekF4QVZNeDVDQ3E4LTRrT2NackZEZFRhcTNiTlJnckV5UUk4dXVBcTluVVFnM2VKS2ZjeFRQTHVNMFpYT1Z6ZlkyOVJwSGc?oc=5"
     },
     {
-      "headline": "Fair Isaac (FICO) Stock Jumped, So What Is Driving Attention Now? - Yahoo Finance",
+      "headline": "Why Fair Isaac Corporation (FICO) Stock Is Trading Lower Today - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2tUX0tCSVMtb1pqQnFGcFcySFE2VGdqWEFtejN1bTdDWXVubGJkMEJpM0ZwODJCM2hWdm54bU81RnlxMTJONl93dHluY2hUM2hHSDA3YUdGZXFGRGQtck02R2dtQkk2SlpxdFBZUmlxemtBak1iQ1pJSEdoemphMjNnUXZlQWJuOUlBV2pOU2dULWRmQmFhdg?oc=5"
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdnNUQ3QwT3YzNEY4N0JXR2JJR0VZd3lMLUtfbDM5T19od0M4UXpCMTBKS2RSbExUS3YyTWJicVZBaG9ObDVNU0RCNnlsTzFEQVZxYjU1NklaQ2pITjlaeC1mUE00TzROZm5XMUswaUxZRF9aQmdOcWVoNTlSOEpzcXNQS0JBbEgtSG42VXFOSHIxNkpMaldLaFppV1I?oc=5"
     }
   ],
   "insight": "Tracking Fair Isaac (FICO)."

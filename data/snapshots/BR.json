@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:07.527Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:32.015Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    149.91000366210938,
-    150.02000427246094,
     144.39999389648438,
     148.9199981689453,
     152.77999877929688,
     158.17999267578125,
     159.1999969482422,
     154.77000427246094,
+    153.9499969482422,
     157.33999633789062,
     168.41000366210938,
     163.41000366210938,
@@ -24,13 +23,10 @@
     167.83999633789062,
     169.86000061035156,
     176.02999877929688,
-    178.5
+    178.5,
+    182.17999267578125
   ],
   "6m": [
-    181.91000366210938,
-    181.0500030517578,
-    172.50999450683594,
-    167.5500030517578,
     170.47000122070312,
     173.6999969482422,
     174.1300048828125,
@@ -139,12 +135,15 @@
     153.05999755859375,
     149.91000366210938,
     150.02000427246094,
+    145.00999450683594,
+    144.1199951171875,
     144.39999389648438,
     148.9199981689453,
     152.77999877929688,
     158.17999267578125,
     159.1999969482422,
     154.77000427246094,
+    153.9499969482422,
     157.33999633789062,
     168.41000366210938,
     163.41000366210938,
@@ -158,10 +157,10 @@
     167.83999633789062,
     169.86000061035156,
     176.02999877929688,
-    178.5
+    178.5,
+    182.17999267578125
   ],
   "1y": [
-    260.8299865722656,
     262.17999267578125,
     256.69000244140625,
     257.2900085449219,
@@ -389,12 +388,15 @@
     153.05999755859375,
     149.91000366210938,
     150.02000427246094,
+    145.00999450683594,
+    144.1199951171875,
     144.39999389648438,
     148.9199981689453,
     152.77999877929688,
     158.17999267578125,
     159.1999969482422,
     154.77000427246094,
+    153.9499969482422,
     157.33999633789062,
     168.41000366210938,
     163.41000366210938,
@@ -408,10 +410,11 @@
     167.83999633789062,
     169.86000061035156,
     176.02999877929688,
-    178.5
+    178.5,
+    182.17999267578125
   ],
-  "lastClose": 178.5,
-  "oneYearReturn": -31.564617111021953,
+  "lastClose": 182.17999267578125,
+  "oneYearReturn": -30.513388601291986,
   "marketCap": null,
   "topNews": [
     {
@@ -421,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTV9lSzFmZ1U1VTlZV2s4M3JtWW1IZFpKVVNFb0dYLWFCM2lnOGttcUU3aGlmUy1hOG1WaUd5aDctaGowZkdndy1vb1ZpWXpvX3AyVmFxaXZnS3FPU1VWVjJiWFRNY2QxazlSaXU0TXA4NXRqLWExNE1pam1kaTFWYTQ5UEcwelFOOGRCUTRfdlloMV9hV096U0pR?oc=5"
     },
     {
-      "headline": "Broadridge Financial Solutions Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTNqc04xeUx5VDlMWUdZeHh4cnVSRlhwRHM2VFlmbVdOQ1IwYUhTMlBZWVBqelJYRlBWTVRGVDVrMW1jWl83Q0ZKNlpXVkttNEtENW1lNTNTWnRETkVET3ViNFRXekRzRWRnR1ZNb000RGlId3F3d1FrRTVzUDFWdmp1WlRWRU15OE1oX3hJMmxfUFZhc3ZhOTcxd2J2bGxMWVNiczRQZ2VYSXpnZks1Vzd4bTFjYy1zOXVfYUU0UnpmeGZsVGxheGE4QU9Gb2RGb0pjRGRzYXYtLUJ4WkVQSGE3OU1vY3EyemFVREdoU3NTcWdvWjJZ?oc=5"
-    },
-    {
       "headline": "Why Broadridge Financial Solutions Stock Is Soaring Today - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0JlVUJwd0hFMkJydTJFdGZCZzVPWWluV3FhdzFnaUVlbW4wcTFFam1ZaHhCUEVmNkpjcTV2ZGZHUE1TUTlaQ0kwOFFnOFkydXdSR2Itc0dLcHFOOWlVcy1wU0s5eGRPYjlDTDNMN2NCUHpJdWE3TUVGeE9zS0JmTG9RZ29Wc1k5ZmhKZklGOTBOMll0Mnh4Z3RfQ2FjblhKVnZNR0NRWV8?oc=5"
+    },
+    {
+      "headline": "Broadridge Financial Solutions Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTNqc04xeUx5VDlMWUdZeHh4cnVSRlhwRHM2VFlmbVdOQ1IwYUhTMlBZWVBqelJYRlBWTVRGVDVrMW1jWl83Q0ZKNlpXVkttNEtENW1lNTNTWnRETkVET3ViNFRXekRzRWRnR1ZNb000RGlId3F3d1FrRTVzUDFWdmp1WlRWRU15OE1oX3hJMmxfUFZhc3ZhOTcxd2J2bGxMWVNiczRQZ2VYSXpnZks1Vzd4bTFjYy1zOXVfYUU0UnpmeGZsVGxheGE4QU9Gb2RGb0pjRGRzYXYtLUJ4WkVQSGE3OU1vY3EyemFVREdoU3NTcWdvWjJZ?oc=5"
     }
   ],
   "insight": "Tracking Broadridge Financial Solutions (BR)."

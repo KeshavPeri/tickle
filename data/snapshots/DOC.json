@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:18.539Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:39.066Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    22.290000915527344,
     22.079999923706055,
     22.270000457763672,
     22.520000457763672,
@@ -24,12 +23,10 @@
     20.579999923706055,
     20.440000534057617,
     20.760000228881836,
-    21.200000762939453
+    21.200000762939453,
+    21.399999618530273
   ],
   "6m": [
-    16.84000015258789,
-    17,
-    16.959999084472656,
     16.280000686645508,
     16.700000762939453,
     17.219999313354492,
@@ -138,6 +135,8 @@
     22.329999923706055,
     22.510000228881836,
     22.290000915527344,
+    22.600000381469727,
+    22.190000534057617,
     22.079999923706055,
     22.270000457763672,
     22.520000457763672,
@@ -158,10 +157,10 @@
     20.579999923706055,
     20.440000534057617,
     20.760000228881836,
-    21.200000762939453
+    21.200000762939453,
+    21.399999618530273
   ],
   "1y": [
-    17.280000686645508,
     17.75,
     17.649999618530273,
     17.530000686645508,
@@ -389,6 +388,8 @@
     22.329999923706055,
     22.510000228881836,
     22.290000915527344,
+    22.600000381469727,
+    22.190000534057617,
     22.079999923706055,
     22.270000457763672,
     22.520000457763672,
@@ -409,29 +410,30 @@
     20.579999923706055,
     20.440000534057617,
     20.760000228881836,
-    21.200000762939453
+    21.200000762939453,
+    21.399999618530273
   ],
-  "lastClose": 21.200000762939453,
-  "oneYearReturn": 22.685184725272823,
+  "lastClose": 21.399999618530273,
+  "oneYearReturn": 20.56337813256492,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "HCP Changes Name to Healthpeak Properties - Nareit",
+      "source": "Nareit",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTdTSGNIbG1DSU5BSGg1WXBaT1VNc3Z1b2o1R1N4Wk1pQmEwdndxUnE3WWo2aU9tNm9Gak85VUNPWUNBQVIzSE9HaFU5Rzc3RlVYSjdzUjdKRW8zQWhfTk5xaDJZaXhPS3F2ZDdaMG5LV0pqbkVtZkN4dEU4SUhhdXR4XzExZUxmbkIyRWdjbHdtMlk?oc=5"
+    },
+    {
+      "headline": "Healthpeak Properties Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOM0o2U0hqcDkwWWFiV2RYRWJHLVBnY19aQWowWEl0RUExdzVGOFNLYnM0TFlHMUM1a2VXV3AxTlUwcFpXUHI3TkN2SHgySXpQOEJYc1drYWdYTWc5RF9PcHdnU2FBT2ZhRnZ0WEtBRTdGTU1RRS1kZndhazNYZWlVc180X1dNdVRGbHdsYWFZWHdETmNMNEZNVXBXOERTWnJLc3FBakt4V3dMcVpZdnlvTURXdmdlQXc1YVlYQkJQZ3BtaUYtMHBRYXQ1bnhjSmczZlZGeDZQOGZXV2Y2U0tzS29KWDFTa1FFVFJ0WnZkTlU0ZWdsTjhXeDBlaGtTdkhPRVdZd0I1bGJvNXNFRFE?oc=5"
+    },
     {
       "headline": "Healthpeak Properties (DOC) Stock Looks Below Fair Value Despite Rich Earnings - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-09",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGVaVzdKbEFCRzM1R3FfYVdROTlSWl9hMDJYa0FvUEI5eHFScDZrbDFCT3VNd1dnMFVvb2F1emd0NUtEM2lrc0JsS1FLSWFCb0lsdWl0U0tPWmV6T1QycURnVnZ6UnVCT2Z4VzRHN003anROaWJONmZoTlVYU05nb1lzalhfZUhwZy1lSWU1a3FGcEFvOTBqLUxtLUV6TTNOWXdGMw?oc=5"
-    },
-    {
-      "headline": "How Investors May Respond To Healthpeak Properties (DOC) Strong Q2 Results and Raised 2026 EPS Guidance - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVV9fMTJkenFQQ05ianYtY0t4bHJJY3N1U0x3SlVqTXA1WGdMdVhPUk9wdTYzQTJzMlE4UEM1ZTBNRXVSRGRvSmxOZmhLMWFpU3hRLXJDcFF3MUg3Y1NubVdRQWdZTU5yNmp1a0dXX2VRMFc5TXAyZVpXWWdpRWNmRmR0M2tJZzMxb1lXWHlGUi15NnJoa0VKNDNJdjJ4b3VkZkZPY3dqb05lcTdnY05JUzVfeXl4TFF1dlJxdXFSMlo4NjYwSXptenNza3I2aGRjdWJvZXl2SdIB3AFBVV95cUxQc3JnOUJlcGNXZ3Vickk5MkczNzdKNUlyRVpoRmtPUWxWcTh3blFWS0Y3S1RRMm02S3VqY1ZLai1vcUNEbnQ0YmpxRmhYNlNHVkR5SjBqUXBFUGphazBGSmc4UVZnd3RZTlk3U19JS3YzdFlub0RMTThieTRFV1VCc25kOW9oMUxEaHdCVFhiVkVVSE9Jc3o3dl9ZZU1kZS1POVh0dnIxejVtNUtmaVFxejZISGR1TklCSDBibnZUXzFVbl9mQjdCTVM1d1piTVZVNW9ieXc5c0hiam5E?oc=5"
-    },
-    {
-      "headline": "Healthpeak Properties: This 6% Yielding REIT Has More Room To Run - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnBLbWZiYnY4aWZZcmRJNm9XdnpBR1VLUDlQQUFaRkpEcVdIQ094WVhqZk4zdkdaUkhmRGJOOWhNWWFFcld5LW9DLUMyMWhJZDVuMi1YZEZpckxoM2h0bGt2dUE4c19pZXphU0xiT3FsQXZyUERZTE9uaVpRUUlXZkVFajZRQlMtR1V4NU9iU3oyMTJubFlUOUhKTnEtN2J3WUs2Z2RlMmhHaWVoak41MUpn?oc=5"
     }
   ],
   "insight": "Tracking Healthpeak Properties (DOC)."

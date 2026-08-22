@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:31.220Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:47.520Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    171.4199981689453,
-    171.6999969482422,
     172.13999938964844,
     174.3000030517578,
     180.19000244140625,
     183.38999938964844,
     183.91000366210938,
     177.22999572753906,
+    175.0500030517578,
     177.6699981689453,
     179.0399932861328,
     179.5800018310547,
@@ -24,13 +23,10 @@
     181.05999755859375,
     183.4499969482422,
     188.7899932861328,
-    188.30999755859375
+    188.30999755859375,
+    186.4600067138672
   ],
   "6m": [
-    231.52999877929688,
-    230.5399932861328,
-    229,
-    230.85000610351562,
     226.25999450683594,
     222.5800018310547,
     219.39999389648438,
@@ -139,12 +135,15 @@
     174.72000122070312,
     171.4199981689453,
     171.6999969482422,
+    170.6300048828125,
+    172.3300018310547,
     172.13999938964844,
     174.3000030517578,
     180.19000244140625,
     183.38999938964844,
     183.91000366210938,
     177.22999572753906,
+    175.0500030517578,
     177.6699981689453,
     179.0399932861328,
     179.5800018310547,
@@ -158,10 +157,10 @@
     181.05999755859375,
     183.4499969482422,
     188.7899932861328,
-    188.30999755859375
+    188.30999755859375,
+    186.4600067138672
   ],
   "1y": [
-    179.36000061035156,
     181.42999267578125,
     180.67999267578125,
     183.39999389648438,
@@ -389,12 +388,15 @@
     174.72000122070312,
     171.4199981689453,
     171.6999969482422,
+    170.6300048828125,
+    172.3300018310547,
     172.13999938964844,
     174.3000030517578,
     180.19000244140625,
     183.38999938964844,
     183.91000366210938,
     177.22999572753906,
+    175.0500030517578,
     177.6699981689453,
     179.0399932861328,
     179.5800018310547,
@@ -408,29 +410,30 @@
     181.05999755859375,
     183.4499969482422,
     188.7899932861328,
-    188.30999755859375
+    188.30999755859375,
+    186.4600067138672
   ],
-  "lastClose": 188.30999755859375,
-  "oneYearReturn": 4.989962599122364,
+  "lastClose": 186.4600067138672,
+  "oneYearReturn": 2.772426964198067,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Kentucky Farm Bureau Mutual Insurance Co Buys Shares of 12,500 Hershey Company (The) $HSY - MarketBeat",
+      "headline": "Advisors Capital Management LLC Invests $15.18 Million in Hershey Company (The) $HSY - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWHNQd1NoOFRLSjVJZkx5VndrWm10MmVUMzM0WV9HYWljclI2N0RWcmF5NHFucV95cFpnYk9IcHl6ZHc0MTBYTHVYLWZWamFXTHlydWtJeFNBS090cmQxNC1RYkk3dGM4Y3UtVk5WQ2pINEJNaXlTbUdLeUpmMmV1MVFXdG1RZndfWHhsQ2gwRGx6WmxJVWtQOWc2VVF0Y2VwOHRJU1ZHYW5kRlkzZktFd2JUWFZ0YkFhOXUwdTZvSG02MGF2dXYtM0J1ejBIajNPOUF5Tjk3UmpDZHVsd1hN?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVnJIWl9YYmFYYnBZVFVkUDFpYm1GQjRFZGdRNlpzX1RKa2liWTlsNldLYm56QUlHajVsVmxDRmdKZ085T29vUVIydENmUjV3MGRuaUsxWjdRZW9ZbzdIdlFWQzBELXVra3ZiQUZKYlh0ZVBkRGU0S0s0TlBDTEEzZkpReHM1RXlNamw4UDJ6Y2FQYWpQelZvMzhzWlZOOFZfWnZMRDJPSFh0OUdaU201SkN0TDlKSVpycjJwc1Y1a2hNcG44azdTWl9mSEVKQ0ZWLUtobU9YOA?oc=5"
     },
     {
-      "headline": "BlackRock Inc. Invests $2.30 Billion in Hershey Company (The) $HSY - MarketBeat",
+      "headline": "NFJ Investment Group LLC Makes New $82.25 Million Investment in Hershey Company (The) $HSY - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRDdkY1dydnNDQW5nd0JKYXZXd1BScEM5NDhVYmlKbktjVnItemdjU2dHdjhjcVRiZGpKRWE3czBTU1phend4MlozMUpaQUplY0xjNUdPWGNDYUZsY29Pb1ZNQzgzTXNnMDNDWnZCbHN0b0lLdnNMOVF6dkhKNEtBcy1NbGxaZDZmNUN3WlNjZkdhSjBqR3M5VmVHeHVMTDRIV2owVC1xb2JxNExiUVJzTGhYR293N0xtWlJFTmJn?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdGNyQ0JSdEdqOXU0bW9UTHZtMVNzSVVNXzRBTGYzMlV0ODB2akYzX0hwaHFPWGJpVDUzTXNvWTFUVnpOS2NoZEZ6Uy01ZEZpaWFUUXVsS2ZmbnVwRzFiV2hmYWdEbU1TTFNzWHkzRHZQX3dPcFltTi1zM19vY2duLTgtNGRPRFQ3VG1EMWJMNDJBTTdJMXJVTnJxalNxcXk1WW9GclBwSGtnTURtRm1naGFSdklVaEJEdjBmUm9UWGQ5REFKT2ZLbTMzNkZGejNRRmNieHdYYWxBZzFuWGRF?oc=5"
     },
     {
-      "headline": "Wealthfront Advisers LLC Invests $9.57 Million in Hershey Company (The) $HSY - MarketBeat",
+      "headline": "Paralel Advisors LLC Takes Position in Hershey Company (The) $HSY - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUDNxNmhWenI4UXNlWm9GaVBQNWxGQUVCVTJxTnRKeVpIaURpaFFtMWhlQWQtVDZCNGhFVWF1aUhfb1hmT0J2WTFGYmdXazFkUThZTU9NQjRUVkZHSXBwaWh3NHc0NzVXaGFFc1F5bkdaNmxkQW5uX0ZTUjhzMGQyZ1VDdThVYlZzS0ZFRlkza0ZCR3RoeGdTdkp2b2FrT201WVNHb3NVRGgwb0ItWkJLVzBsOEtjc3RoNWIwWlZ3T1I4TEZkUmFxdGZONkM?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQS1JYV9xRW9QVjZsTktPMlJnQ1hpYkNORXlMdlNRNEpGLW1aSDE2OURVWHl3YThhNXZUbUhyMVF3VnJiMS1TM1FYckFCclVpQUFvVEZZa2ZyRUw5bGIyRjR3UFJvbjQ2TzBla1pmdDhrcWlhZHZoa0VKWVFiS0JBc18wYjdTYlQ5Qk50cUZscmpzRE1WZk9kaWwtQnNDQjgzNGF1cVJoZVVBWkFfZFhCNUUtcUpaZUZPa1JZdXhCZVE?oc=5"
     }
   ],
   "insight": "Tracking Hershey Company (The) (HSY)."

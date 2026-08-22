@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:32.252Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:48.284Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    141.57000732421875,
     143.2100067138672,
     145.7899932861328,
     148.72999572753906,
@@ -24,12 +23,10 @@
     154.30999755859375,
     156.17999267578125,
     157.24000549316406,
-    158.61000061035156
+    158.61000061035156,
+    161.25
   ],
   "6m": [
-    169.47999572753906,
-    164.80999755859375,
-    151.99000549316406,
     149.8300018310547,
     152.27999877929688,
     153.44000244140625,
@@ -138,6 +135,8 @@
     141.75999450683594,
     139.64999389648438,
     141.57000732421875,
+    138.6699981689453,
+    142.52999877929688,
     143.2100067138672,
     145.7899932861328,
     148.72999572753906,
@@ -158,10 +157,10 @@
     154.30999755859375,
     156.17999267578125,
     157.24000549316406,
-    158.61000061035156
+    158.61000061035156,
+    161.25
   ],
   "1y": [
-    179.22999572753906,
     180.6699981689453,
     179.13999938964844,
     178.74000549316406,
@@ -389,6 +388,8 @@
     141.75999450683594,
     139.64999389648438,
     141.57000732421875,
+    138.6699981689453,
+    142.52999877929688,
     143.2100067138672,
     145.7899932861328,
     148.72999572753906,
@@ -409,29 +410,30 @@
     154.30999755859375,
     156.17999267578125,
     157.24000549316406,
-    158.61000061035156
+    158.61000061035156,
+    161.25
   ],
-  "lastClose": 158.61000061035156,
-  "oneYearReturn": -11.504767956661393,
+  "lastClose": 161.25,
+  "oneYearReturn": -10.748878267428545,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Intercontinental Exchange not necessarily considering perps, looking to invest in Polymarket - report - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc1M0V3JUUXAzTGJ4RjNnMEM0eEthYXdKb1FBbzFWcWdFWVk1SWN3cmpxZ3pOcV9OZmF2bG1qS1ltRVMwNGctT2dJSkNSNlE1eW5ZYWtFdzB3U0sxZHl2RmVLNkxtaEtaNVVLWUpNSUNwVDl0UlFTRjR2ZTNNVFlHbzBPQnFVbklRS0FqX0JtNVVaWDFtblVWSjJpVVVIYTlhQTktVFMxYmpjeXlzelZhMjZzcm1JZWYwTVEzSG84ZF9uNFBpUmhnaDl4N1Y1RExQQjFOdA?oc=5"
+      "headline": "Intercontinental Exchange Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVUJaRG1IdDFYckFqMUNpRkN3M2hwYWVTNFRORERUTlI5RS1tcF9RZXg0a05CZWE3QUpqUkdaZ2JzOUVWc2FYMG92VFVUeW9zNEpIUlJqWGpmWDdoMnFEaG9lcFVwNmMxdGE4X0xLSDBvOFU3Q3IxTkxyWkFUeDMyQXZseDBFWjlrR19CSzhlVGlHcmZNU1V2M09LVHM5aGpNWm5TWVFoeHROdXAyMjNHRFdXZ2JKZHZQZEpkN2VtMXJqZkxUcl83WlJnZkFtc0NsTmxmNzRMcGU?oc=5"
     },
     {
-      "headline": "323,573 Shares in Intercontinental Exchange Inc. $ICE Bought by Madison Asset Management LLC - MarketBeat",
+      "headline": "Intercontinental Exchange (NYSE:ICE) CFO Warren Gardiner Sells 2,491 Shares of Stock - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRE10WTlsbExGWEoxX3VJdGs0MVJtM0pRUnNwLU5WRGNLSVJtajJHUUtUWGMtamJjNC00ZzlWYnowN19fNzdtMW5qcGRCT0ZFTjYtakY1Ym9TS3FNQXpvc1Y0RENkSVhDU01wakxpRkZYWUkwRXV2RjJuVVdKNHFRZmE5ODBrOWpLQm85UnVOUk8xRTE5ZkJMQmVBQ3dzZmh3ZHUtQW4tZFo3VkpOZEQxYkhpbGlxWlVyM20zTmVWeTlteTFtV1hhYW5zUjNyMUlxczZWYjFoaVp4Y2djeF9yb0o1NEc?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWHJZQlM5YUdjRFBUUXRqTV8xRE5Ua2tQNUsxckNDeHctQkFxakdPQXNpU0NhWlFza2ZVT2ZUZXFLSDdUOV85V2JyUFdrYnNGQURoYnpHWjk2UWdnZVNPSWdmOXo1VEItUDM4TExScVhxZU5OTkFqM1hkZ1MzdlAxVkVvcFJwXzZXbkxVMTBqejM5X1F6VlNsZ0h3a3E1SVktTUx5Xy1jYkF1bElnTzJlSjJKUzZqcHYwSXJMN3hqNXEyZnp4NlpiTFc0cFh4Z1E?oc=5"
     },
     {
-      "headline": "Did Regulators Just Create a Headwind for Intercontinental Exchange (ICE) Stock? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDJDMkRNU1NPVVRaWmFkalZqVVJUSkVPWWt4Z3ZmcmljN2Y3bnNCbUdCMzNFa2JfT3VKVEd3eU50RktVc2wzaDRPejhLRUI5dC05QTdPSVBDaE1iTl9QVXFtcnJ2aHpOM2VRVEpwU2tmR0VNWTcwV0YzaG1LMEtYc211Q1BiRlhtZGJNX0V4amExOXN1MUtzUDdjNmNTOHppR1E?oc=5"
+      "headline": "Intercontinental Exchange (NYSE: ICE) CFO offloads 2,491 shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ3VaLVJwOHlVNW11T1VuaEhVTzNvbV94V09vR3NDMlg1dFh6NDAtRWxGWHFWSFN2VUpUWjhIM0cwX0U5V2JnLUdXOXU2ZVdYYjhPWjVNWTN5ZEh2SVRjTXdCdktSY0hEQWtTR25GRU9GTDVieXR0dGdQTF9OUXRzUzB0UndVQlNybDVjOFVZMkNDdDZGTnZSWS01QThfVUlCNEs5c0VtS0x2NEFyMWE4OGFkWkoycGhjSTVXbkk3dw?oc=5"
     }
   ],
   "insight": "Tracking Intercontinental Exchange (ICE)."

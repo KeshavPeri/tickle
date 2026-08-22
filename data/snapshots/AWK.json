@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:05.052Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:30.185Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    135.11000061035156,
-    133.64999389648438,
     134.41000366210938,
     134.66000366210938,
     134.55999755859375,
     138.0399932861328,
     138.08999633789062,
     136.80999755859375,
+    134.1699981689453,
     131.3000030517578,
     134.00999450683594,
     134.16000366210938,
@@ -24,13 +23,10 @@
     134.35000610351562,
     136.27000427246094,
     138.7100067138672,
-    137.2100067138672
+    137.2100067138672,
+    135.38999938964844
   ],
   "6m": [
-    124.33000183105469,
-    122.94999694824219,
-    125.02999877929688,
-    123.69000244140625,
     128.3699951171875,
     133.5,
     133.50999450683594,
@@ -139,12 +135,15 @@
     134.3300018310547,
     135.11000061035156,
     133.64999389648438,
+    131.52999877929688,
+    133.8300018310547,
     134.41000366210938,
     134.66000366210938,
     134.55999755859375,
     138.0399932861328,
     138.08999633789062,
     136.80999755859375,
+    134.1699981689453,
     131.3000030517578,
     134.00999450683594,
     134.16000366210938,
@@ -158,10 +157,10 @@
     134.35000610351562,
     136.27000427246094,
     138.7100067138672,
-    137.2100067138672
+    137.2100067138672,
+    135.38999938964844
   ],
   "1y": [
-    145.8699951171875,
     146.1999969482422,
     144.39999389648438,
     143.9499969482422,
@@ -389,12 +388,15 @@
     134.3300018310547,
     135.11000061035156,
     133.64999389648438,
+    131.52999877929688,
+    133.8300018310547,
     134.41000366210938,
     134.66000366210938,
     134.55999755859375,
     138.0399932861328,
     138.08999633789062,
     136.80999755859375,
+    134.1699981689453,
     131.3000030517578,
     134.00999450683594,
     134.16000366210938,
@@ -408,29 +410,30 @@
     134.35000610351562,
     136.27000427246094,
     138.7100067138672,
-    137.2100067138672
+    137.2100067138672,
+    135.38999938964844
   ],
-  "lastClose": 137.2100067138672,
-  "oneYearReturn": -5.936785283610342,
+  "lastClose": 135.38999938964844,
+  "oneYearReturn": -7.3939793325855625,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "American Water Works Co. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSS1XSFgzeFB3cFNGSEg0YWF2Z0NVWTN0VkRxMFJOZ2hJYi1IakJBU25zaXdKRVkyWjNEWjExQjI0ejRrNzUwV0JRZi05YmRCY01oYUwzaXBucDNkdkJ4amFhMFNVZ2RXV05URmlhMllSSEQwaGVvVVljMmhwYTZkbmw1R3VHSVg0UXpBSWdTNl9BMVhoUmlyTEFNTUNULTVFekk1Q2FpUlhOU0pBTlRUV3g4a3g0bVBPc00ya1Z4LWhwck4yc1ZOY0tFcnpzcEZoQThvMXc2aEczdnBKdG1uQ2tnYy1ab3BiVHROX0R3?oc=5"
+    },
+    {
+      "headline": "American Water Works Company (AWK) Could Be 1% Undervalued On Its Rate Growth Narrative - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUThYbVlXSUtVRFlpRHNidldSQUpaMk5IM2RqbDVyRWJiVGh3N1U3QTVWZTF2dXhlS3JMX2pKakZPVXpYakxRT3B3bEk1RkVXZzk0SFlTc1VDbTdvTXBqRksyQWdvUnBocmo2WWtJSEk4eEFrRGZsbzYzWEdsMm5Sc2tfVGlCUjlUZktGVThsM0xaeldidzl0dkhDYnRGNUsycTEyeVZ0d0lvRlJGU0pNMUpFZEsyMEt5RGcyUUJnOHNxZGV1LVl4VWoxSEFLUmo1djRr0gHYAUFVX3lxTE9PeTRZQ2lkbEVkU0xaQ1FGLUVKYVJZVkhZNU9MSFdkYTVkcXZjaFhDTFgtSXFmNjBrOWZCTWpOU09nMDJCd0x4SG9FNmZGQ2MwaFZCQW1uR0FrcS1jRlJjTkxxOU03WkhmZVZYYmdZU2lwbjFUaXFhTTNqOUJzTTR2THpuR185UXFWSDU4U29TQmZ4MVREMEU3Y0J4OGlQYXBXWHR3RHZPcnk3cjRMMDQ1eEtGZks3Q2tIdlBWeXdfV2RFbXBGbEpVU0tEekI3aExBejloZUpFag?oc=5"
+    },
     {
       "headline": "American Water Works Company (AWK), What Is Behind The Fresh Attention? - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeEkwWThRb1NFTnpaWVFfOUw4UTJwN28tWlNacC1JNDVUWlAtcV9XSlZ5aldvUmFMekJFSFkzeTBZWmRCZE9jMWJTUGVEMHFMOFBRRDRkWUJtdzBqb2VocnNqY2JBMUdJQjYxTlV0S01rZy1YdFdORlJ6S0RKQk9vZklMZEswbjE0ZVZXajdGTWxHcC1ZWFZMRWhHUW9IZw?oc=5"
-    },
-    {
-      "headline": "47,612 Shares in American Water Works Company, Inc. $AWK Acquired by Edmond DE Rothschild Holding S.A. - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVDEzcU9EckhHSVNZZUM0MmwweHc5TmpySmpnRXVUZnFTZUJ3WDJnNl82MWVkcWhGUXF5NTNpQklySjRYYlJhME1BZjllN2tZQW5VXzcwYmQzaGlWYV9wX0MyUzVNdUxhclJhUUptMlRVX0hBN05TWmdwNE1jY2dpUC1RSERyQ1VLeFB3c3hxNW5yUzBUYnBYYXRhLWdYSEl5czdzRXdPQWlaUi1GTTNoTi13dEhVczA0czVQUFVTb0lsRmtIOURBaklCNTZ3VlkySUtRQ3F1elVoTUlhSThjdnF4VVlsb3hCUE9IWG1n?oc=5"
-    },
-    {
-      "headline": "American Water Works (NYSE:AWK) Flashes a High-Quality Breakout Setup with Strong Technicals - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZlNEcmlXMmd2S2poV1hQZkhmVnh3bTFFTEc0WUYxTlhpbnFWOV9ITHNLVlV0WHpsaEpRUWVSa29fbXk5VUgweDNZaTBqV2x4Z0RYaDBHM2pBNlpNcEtGSXZORjJPRjkyODZWSDFLWUNHeC02M3FYdVhLVUpzUVRfWGxzeXg5NHJ0WmdQM3ZNZG9aek9BWmQtU0J4bzJhQmVDc29Wbl9QRzNGYlpnOVU5ZXh6Yl9HSEdleFUtNmRjRzZtN0lxajlPdGQ4UFYzdUhwQndSZ196dw?oc=5"
     }
   ],
   "insight": "Tracking American Water Works (AWK)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:51.249Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:36:00.837Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    29.360000610351562,
     30.31999969482422,
     31.020000457763672,
     31.799999237060547,
@@ -24,11 +23,10 @@
     34.68000030517578,
     34.720001220703125,
     35.439998626708984,
-    35.04999923706055
+    35.04999923706055,
+    34.97999954223633
   ],
   "6m": [
-    54.04999923706055,
-    54.529998779296875,
     54.40999984741211,
     55.029998779296875,
     52.689998626708984,
@@ -137,6 +135,7 @@
     31.010000228881836,
     30.510000228881836,
     30.299999237060547,
+    29.639999389648438,
     29.360000610351562,
     30.31999969482422,
     31.020000457763672,
@@ -158,10 +157,10 @@
     34.68000030517578,
     34.720001220703125,
     35.439998626708984,
-    35.04999923706055
+    35.04999923706055,
+    34.97999954223633
   ],
   "1y": [
-    61,
     61.61000061035156,
     61.52000045776367,
     61.689998626708984,
@@ -389,6 +388,7 @@
     31.010000228881836,
     30.510000228881836,
     30.299999237060547,
+    29.639999389648438,
     29.360000610351562,
     30.31999969482422,
     31.020000457763672,
@@ -410,12 +410,19 @@
     34.68000030517578,
     34.720001220703125,
     35.439998626708984,
-    35.04999923706055
+    35.04999923706055,
+    34.97999954223633
   ],
-  "lastClose": 35.04999923706055,
-  "oneYearReturn": -42.54098485727779,
+  "lastClose": 34.97999954223633,
+  "oneYearReturn": -43.2235039836064,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Tractor Supply Stock (TSCO) Opinions on Hedgeye Long Idea - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQazdEcDlkUVlFQ18tY2lJdnR0bDg2ak92SzRwZHI3UWI3djlPUEtjRmJmWklrT1FjekUtUmd0MkJtSFNIN2p6WFoxXzUtOElqM3pLeGNJZ0ZDb0JlOWVQbWVORnV0VW1oQ0g3SGpBRG1KUVVtaVVydkxEUE9fMHVkVWgxMjUyY3FHQV9UaGtZaVE3bzgxSmNRUTlR?oc=5"
+    },
     {
       "headline": "Tractor Supply Stock Outlook: Is Wall Street Bullish or Bearish? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -423,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd0swaXNvSHlOa3BJMmJmZmlYS1BGdm9mRXJVR2Q5bml3UWdYVVJweEhzQmVvRHlQM1k4YV9pUE9MYTNqTmx6Y2J1aXZxWHpYY09sSjJ0YTVrN3FuS2tybjdiYjVHVmlEQ1M4N2pWOGFGbUJUUFk0cVNqUnllcE4tWnBLVnBSRDRXY2N1NU1ubGpvYkFRMVljd285T0pWX2M?oc=5"
     },
     {
-      "headline": "Tractor Supply Co. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORHNGZFBqempQSVZrNEhHVjlBZ2QwV0F1TmxuUkZQOVZCblNUN0h6MGFreHpEWnZnLU55Y0Y1aUVkMzNLWmVCOGVZNGh1VVUxbzNhcmF5OVdQcXUyS3hpYmNKXzF4ZjF6LVIxMEZCNkwxQ3FSTm5uZjQxYV9yVWlOUzNHcm5nZ2F0QjUxNEJtOFB0TjNUTXJNLWFZZm52eDJCUGNaUlZoRWZQemYyYjNTbnlkR202TDVlZURvS0Q2VThLaU8za0tQMkFXSk5pSVYtMENBTVAtajFxQUZoU09XaU54bUF4Zw?oc=5"
-    },
-    {
-      "headline": "Tractor Supply added as a new long idea at Hedgeye (TSCO:NASDAQ) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNEdqQmhVN191aDFtSGJtc1hQeFBPYUExcVZmQ3cxQXZFd1I5MzYtcE1lVGY1OXBjN0VUYnY1bGRCcHRCWm1iMER1bWM4cFVjNUloUFJpa2RES3lhbDlCaGREU2hkdU56UFJyNHBoekxYb0tRR1NhYlZNRzNET1lwRFhlU3hBY1IwSlc4?oc=5"
+      "headline": "Wealthfront Advisers LLC Purchases Shares of 48,719 Tractor Supply Company $TSCO - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcVdMVVFwTlJPQUJuS1lBampXVUZuY1c4b0lyaWYwZmRmRDkxbW04ZjZzVm9GZmYyUXZnOTBQYno5YlREOFk4Z2hfZjc0b0Y0Uk9QWXJNbWNNeGIxUF9IWDYxX0FudGE5YUFpdVpXaXIyMENrOWtQZW1zcV9Da0x3aHA2Z0R3U2hKNGh5SXZHaEZyMEZkcE1sRjBfczRFc1hUTzRzWnZnN0ZYXzkzNmFJY0x5N19tNjRNMUdWdDlQRFJNN1F1MXBybkwzMkxIeGIyRHhwa2tn?oc=5"
     }
   ],
   "insight": "Tracking Tractor Supply (TSCO)."

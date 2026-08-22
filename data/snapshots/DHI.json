@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:17.961Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:38.479Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    149.38999938964844,
-    144.7899932861328,
     142.1199951171875,
     146.75999450683594,
     147.64999389648438,
     151.16000366210938,
     147.16000366210938,
     145.52999877929688,
+    143.05999755859375,
     146.66000366210938,
     150.3699951171875,
     151.4499969482422,
@@ -24,13 +23,10 @@
     148.33999633789062,
     145.67999267578125,
     151.86000061035156,
-    147.3300018310547
+    147.3300018310547,
+    148.35000610351562
   ],
   "6m": [
-    156.27000427246094,
-    153.5,
-    162.27999877929688,
-    163.85000610351562,
     164.58999633789062,
     167.77999877929688,
     166.2899932861328,
@@ -139,12 +135,15 @@
     154.4199981689453,
     149.38999938964844,
     144.7899932861328,
+    143.52000427246094,
+    142.52000427246094,
     142.1199951171875,
     146.75999450683594,
     147.64999389648438,
     151.16000366210938,
     147.16000366210938,
     145.52999877929688,
+    143.05999755859375,
     146.66000366210938,
     150.3699951171875,
     151.4499969482422,
@@ -158,10 +157,10 @@
     148.33999633789062,
     145.67999267578125,
     151.86000061035156,
-    147.3300018310547
+    147.3300018310547,
+    148.35000610351562
   ],
   "1y": [
-    161.8699951171875,
     170.67999267578125,
     168.9600067138672,
     168.3699951171875,
@@ -389,12 +388,15 @@
     154.4199981689453,
     149.38999938964844,
     144.7899932861328,
+    143.52000427246094,
+    142.52000427246094,
     142.1199951171875,
     146.75999450683594,
     147.64999389648438,
     151.16000366210938,
     147.16000366210938,
     145.52999877929688,
+    143.05999755859375,
     146.66000366210938,
     150.3699951171875,
     151.4499969482422,
@@ -408,12 +410,19 @@
     148.33999633789062,
     145.67999267578125,
     151.86000061035156,
-    147.3300018310547
+    147.3300018310547,
+    148.35000610351562
   ],
-  "lastClose": 147.3300018310547,
-  "oneYearReturn": -8.982512957763685,
+  "lastClose": 148.35000610351562,
+  "oneYearReturn": -13.08295496278994,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Berkshire Hathaway Boosts Investment in Homebuilders After Buying Taylor Morrison - Realtor.com",
+      "source": "Realtor.com",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdU9fZ1dpQzV6Wnl3TFE5Ry1DaDJ0WXJlWlpmUEQ4S2NTMjJnMUtOLTBYMlJvNGdlUFdQMk1RVkliOVlub0N5T2xWVHBtYVJ5Mm9saEFnbWZhQXBXSndKUzlqTnJrREVJbWxNazdQZVgyM2hUTVI3TFJ0ajRGRC11MkxWZDctWGNLWFd2aHJKOUFyck56SXh4N080NEJUVFI3WjNyZjdUQ0VMRlYwemxSdENhMA?oc=5"
+    },
     {
       "headline": "D.R. Horton (DHI) Up 6.6% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -421,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0Q1bmpFd1pjNWh2WDNvbWZHSVphVDF0TVlFaldoYTNJWVRWTzNwZzQxbDVxSDFteGtoWkhKZWlGa1ZwVTliVGxabHRHd1U0elFzRUdWelZYbEZlbTNTRzRWSVpUQlExSkVpMklWano1ak9La0R1ejMxV0ZGYVhSeVRzX0x5ajIx?oc=5"
     },
     {
-      "headline": "D.R. Horton’s Index Removal and Softer Trends Could Be A Game Changer For DHI - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeFcwdXl3ZUtVY2o3MHoyRUk4NWRMTTFqZHVvZXZyV0daYkJkRVJvZ2xxdXVIVVVLZDFVU3FBWEQ2MWgtcFZwUTZaYmZlUzV1MzVfd1A3TjZzRkM5Vi0wTlc4Z0ZMUFlHcTZvMVREeXI3MzdwUkxxY0tUY2x4cHZoZzNGaTlSVDFuTi04Q3hyZ0gxVkNOMmdqVjIxTHJYSEM0bHhXRmV4d3A5WUh3ck1NWFZKVzBYMXhQNTRwSl8tZFlPY0FjdWJ6U2s0VTVuclHSAdQBQVVfeXFMTm5vVkoycjN6cTFnWkpqWjcwNDlOY2xUYVdnbnJZSUxOZ3o4cFNiZTc4ckpLYUVweXI1MnhHRkZ2UmZPcXZQUldmNG5rYkFhMXFfUHByUk9kTHZwT1RhN21RXzhGSXUyMFMtNndoOUNYMWJjMzcwTVpXVElCVUVnODVreUJhOXgyeGcwci1YSVBrVjZWbmRIcGsxd2FYUEhIa1JqaVAxb3V3OVVIcVRxVG1jS3dwOHY0VWZvakxTcWFXaVpsNzRkVWdIb3JQcUpHQ3ZQNS0?oc=5"
-    },
-    {
-      "headline": "Berkshire Hathaway Boosts Investment in Homebuilders After Buying Taylor Morrison - Realtor.com",
-      "source": "Realtor.com",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdU9fZ1dpQzV6Wnl3TFE5Ry1DaDJ0WXJlWlpmUEQ4S2NTMjJnMUtOLTBYMlJvNGdlUFdQMk1RVkliOVlub0N5T2xWVHBtYVJ5Mm9saEFnbWZhQXBXSndKUzlqTnJrREVJbWxNazdQZVgyM2hUTVI3TFJ0ajRGRC11MkxWZDctWGNLWFd2aHJKOUFyck56SXh4N080NEJUVFI3WjNyZjdUQ0VMRlYwemxSdENhMA?oc=5"
+      "headline": "D.R. Horton stock holds firm after a $3.2 billion quarter - Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd0g0M2ZiLTVXc2xjbkhGS1ZnNG5rUW9mZUY4aHZnaHNpQUJTMUpqWkI0NFdlc1pYWXVYbWV4M3d2blBBNV9weWhKcHh1Z1d3QUJrLXB6OE9HWVZvYjJXdGV2UDZoUHFSRUtXZE40dERONUJsM3d6QUd1eXg1b2FJZnMyU0VGRGFrV01IZ184aHRIemFjY1RzdzRwZUtjSjkycS1SV3Frb2poZFEtb2otSHNaUFhqS09yRWc?oc=5"
     }
   ],
   "insight": "Tracking D. R. Horton (DHI)."

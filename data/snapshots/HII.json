@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:30.256Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:46.710Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    269.1300048828125,
-    270.0400085449219,
     287.0899963378906,
     287.5899963378906,
     288.25,
     299.8999938964844,
     280.3999938964844,
     319.8999938964844,
+    326.45001220703125,
     325.95001220703125,
     323.05999755859375,
     317.70001220703125,
@@ -24,13 +23,10 @@
     318.3399963378906,
     317.6099853515625,
     311.760009765625,
-    301.3999938964844
+    301.3999938964844,
+    298.20001220703125
   ],
   "6m": [
-    397.7699890136719,
-    405.82000732421875,
-    399.3699951171875,
-    392.70001220703125,
     406.760009765625,
     418.7799987792969,
     417.8299865722656,
@@ -139,12 +135,15 @@
     271.04998779296875,
     269.1300048828125,
     270.0400085449219,
+    268.760009765625,
+    277.2799987792969,
     287.0899963378906,
     287.5899963378906,
     288.25,
     299.8999938964844,
     280.3999938964844,
     319.8999938964844,
+    326.45001220703125,
     325.95001220703125,
     323.05999755859375,
     317.70001220703125,
@@ -158,10 +157,10 @@
     318.3399963378906,
     317.6099853515625,
     311.760009765625,
-    301.3999938964844
+    301.3999938964844,
+    298.20001220703125
   ],
   "1y": [
-    266.4800109863281,
     269.9800109863281,
     270.7200012207031,
     271.739990234375,
@@ -389,12 +388,15 @@
     271.04998779296875,
     269.1300048828125,
     270.0400085449219,
+    268.760009765625,
+    277.2799987792969,
     287.0899963378906,
     287.5899963378906,
     288.25,
     299.8999938964844,
     280.3999938964844,
     319.8999938964844,
+    326.45001220703125,
     325.95001220703125,
     323.05999755859375,
     317.70001220703125,
@@ -408,29 +410,30 @@
     318.3399963378906,
     317.6099853515625,
     311.760009765625,
-    301.3999938964844
+    301.3999938964844,
+    298.20001220703125
   ],
-  "lastClose": 301.3999938964844,
-  "oneYearReturn": 13.10416596761092,
+  "lastClose": 298.20001220703125,
+  "oneYearReturn": 10.452626147249173,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Huntington Ingalls Industries (HII) Stock Could Be A Bargain On Cash Flow And Earnings - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS1ZRVjEzN0JUVU5aRUl0NXpWWVJSWVpGQ3VROEFoelFWTllSSkFWQVVxRTZ6QlRtYXZmaktiNXp0RHZwdEM3a3FZMGs2dmFiUnhUenp1d1VVU1V6M203dUlpNms2TVkyakI5RjdCNzExN21UbVowaG1BeWZYdG5CVU13VEFyMng3UWxOTjRWS2t6UkM1NXh3NzV5bXluSUhIbW1pWmRMWQ?oc=5"
+    },
+    {
+      "headline": "Huntington Ingalls Industries Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaC1BWk92WmFMTEFKRzVUVk9kZDdjNHlBVHJoSlFUbEVwOXlZSzdVT043VWNORktvN2FISkZwTGtmMVZkeTR5RkpXV3V1SjNTVkM4M1BpdE1FRE9TUG9GeEV2Rk56NnNkYjN3cFBSVkIwbWlHbkZZQzZ3b1Z6QTR2dWIwYzJvOGNOel90ano2TWozeFpPVmZ3N0RuSFZ5cnBrdlhlVklaRDhkTmNxdDc0VG9TNzhkM3VZN29KQUpBck5CWEl5ZzRoOGRGRU5kYmJBTFpyQzF4dTZsVUJPQ0ZGMDhyVQ?oc=5"
+    },
     {
       "headline": "Huntington Ingalls Industries (HII) Stock Still Looks Below Fair Value Despite A 63% Gain - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-21",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNE5KOHk5NG5oRFBBandpUUk4RTIwdUFpcm51VmtJNk1IVjFOeDI5SGk4Q3JJNzIyUUpndnAzMlZIZi1CYmQ3S29kQ1loNzF4dVNLVmk3WUFrNU9GeHU2dkRlNHUwZUFDV1lwUGNjVGtaVE1SVmgtUmlrV0ltbnA4WVp5blpwVll1Mm1rXzMxZGI3ZURhT1lrMmhtWkpBSUlaNmc1NVhuMnN0MTVjdmx5N1gzLWtKQTRuanNhT1BlVWUwRDl5UjRJNWw2YUNLdHZTcEsyOGhocmhHWFhQOXlmY1JVSm7SAeoBQVVfeXFMTjhmT0NTM2hQeGZCVFkyVUhpVDVvVzZwME9HVkFxeklaQmVWUFJRQ01hRUM3UE9SQWZuNTJTUUVockJDSzRsd0ljSHZFMHZjTU00RkpJNUQ0alR5dkIzNHZ0dVBUMjRXdExPRzR1OTNCbTl3NzhBb0MtdHdLNXRxVUs3OG5tOTJSak1qQjhxRnBMRmhIX19IVDY0WWRUZU1Hd0dBdnV4QlgtSTNYNFdSNkZ5RUM5ZkliMUxrSEM2QWpCYzdoelpnOEh1ZFNkSEgxVTBrY2NZSGwycXo1Z3otckU1RGR4Y3JFWlZB?oc=5"
-    },
-    {
-      "headline": "Huntington Ingalls Industries Inc (HII) Stock Down 3.3% but Stil - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ0JWRnpzQzJaUlRFQ2s0N2JwMmY4SzRQbVJiUVVTNFFQdnYyb0VEWFkwZ0pIeUgySjNKTmptMU9rem41WGRadGRaMktMdnNITmN6T1Rmc09uT3dXRFU1WHo2bXA2ZUh2ZWc0ekg3SS13MUU1Rm1sM2ZUMXpZa0xhZEpNTC1hWmxxdVlGQjRNeW14LWdyTnBxaHRDTFlIb1ZnTHNwZWE0b3ozT3F6cjZudUZnZDh5dmNrU0FiWWkzcFl4b01H?oc=5"
-    },
-    {
-      "headline": "Huntington Ingalls Industries Inc. stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPemxkNEwzOFJzNTRjVVk3ZXdhWlNSMC1wZkZGQWpCRDFFSEhhMGtsZW1IdDUxNGg1bWlOX2hwd3lPWDRGUk1wU0dGWUF2cWJwRG42SE9ueXQza0w4emRlNmFIbDQ5VVV4dy1taVBSNDVCR3NybVN2M3ZGTHQyRlBNbzdtM1UzNXhLazloN29LMzVYYzlCdm1Kbko2anFZRVNxamZ4emJ0OHJGR1F2YjdlVEFVOWF5TVdLbk9QSTlCMzBvT3hyNWlUZ3NMLUVVMHVKZ3JNbWhYMkZLQVJCQzNoUk85WUVBR2laRFNqaGY5aklkRHE2dGgtUkVGZw?oc=5"
     }
   ],
   "insight": "Tracking Huntington Ingalls Industries (HII)."

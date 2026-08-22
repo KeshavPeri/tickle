@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:09.417Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:33.092Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    138.6199951171875,
     135.5500030517578,
     139.4600067138672,
     143.8800048828125,
@@ -24,12 +23,10 @@
     147.9600067138672,
     147.3000030517578,
     155.07000732421875,
-    151.7899932861328
+    151.7899932861328,
+    152.10000610351562
   ],
   "6m": [
-    170.97999572753906,
-    170.3300018310547,
-    149.49000549316406,
     136.27999877929688,
     142.30999755859375,
     141.24000549316406,
@@ -138,6 +135,8 @@
     143.69000244140625,
     140.9600067138672,
     138.6199951171875,
+    138.27000427246094,
+    137.08999633789062,
     135.5500030517578,
     139.4600067138672,
     143.8800048828125,
@@ -158,10 +157,10 @@
     147.9600067138672,
     147.3000030517578,
     155.07000732421875,
-    151.7899932861328
+    151.7899932861328,
+    152.10000610351562
   ],
   "1y": [
-    159.1199951171875,
     164.41000366210938,
     164.97999572753906,
     163.4199981689453,
@@ -389,6 +388,8 @@
     143.69000244140625,
     140.9600067138672,
     138.6199951171875,
+    138.27000427246094,
+    137.08999633789062,
     135.5500030517578,
     139.4600067138672,
     143.8800048828125,
@@ -409,29 +410,30 @@
     147.9600067138672,
     147.3000030517578,
     155.07000732421875,
-    151.7899932861328
+    151.7899932861328,
+    152.10000610351562
   ],
-  "lastClose": 151.7899932861328,
-  "oneYearReturn": -4.606587516330894,
+  "lastClose": 152.10000610351562,
+  "oneYearReturn": -7.4873774614669415,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "CBRE Group (CBRE) Is Up 5.2% After Broader AI Role And Leasing Strength Data - simplywall.st",
+      "headline": "CoStar Stock And Other Property Platform Names Shaped By New York Tax Changes - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNl9kRm93eFEyRENNRGx4Z19rVlFsMlZsa0VOaHJhVmdNdWxBZGl2TkRyUXJKYXE4aUtzSTZ2b1JJZ2ZqWUE2bC1NRFYwN0g2R0lTQVJKM1FnVmEtMW5lTmhuQXhneVB5Yy1pamhzOENaVVFtNFZtNVVTYTRiWTFQeU5WVkZYaW1pRWtfcDB3Sk4zVnBjMWpFOVBUckxnVWVtVXBONm9OYlhXNW1ZZm0xSHZoVGc1Vmk5MzFkRGZza2JPU0FCRTNsN3haMU5aQm9ibVZHQkYxMU1IR2pXZEpPaW1mcVVIajdreGNScHM4RFZfaUHSAfMBQVVfeXFMTTZfZEZvd3hRMkRDTURseGdfa1ZRbDJWbGtFTmhyYVZnTXVsQWRpdk5EclFySmFxOGlLc0k2dm9SSWdmallBNmwtTURWMDdINkdJU0FSSjNRZ1ZhLTFuZU5obkF4Z3lQeWMtaWpoczhDWlVRbTRWbTVVU2E0YlkxUHlOVlZGWGltaUVrX3Awd0pOM1ZwYzFqRTlQVHJMZ1VlbVVwTjZvTmJYVzVtWWZtMUh2aFRnNVZpOTMxZERmc2tiT1NBQkUzbDd4WjFOWkJvYm1WR0JGMTFNSEdqV2RKT2ltZnFVSGo3a3hjUnBzOERWX2lB?oc=5"
-    },
-    {
-      "headline": "Here’s How Much You Would Have Made Owning CBRE Group Stock In The Last 15 Years - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekU3Z0p6dUFXSUpVTy1Wb1UwUHljQm5NZUgzLTJqNTl1ZE9HcWFfZU5ERnRoeDNKc29Jb2puVkM4QjUzd0hmSUZpLW9qc0ZYRl9fd2ItRlM2Ti1lVVdwZVpEZktZUmVvV3YxMWkxT01nVExKdkQ0YUdVc3FNSDA5ODg2ZE9Rb1EyZTktcFhtVnlmMWo0V1pRNVgtdm0yemRQTzA5bHBUMFdtRG1sem8zd1hLbU9BUTRneUE?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQTFPZmVLYkU3RmNXSnJXYlFNR2UzcTV5V2VaU25CY05uQkw0ZmM1dnNxaXVhR1VVWjVJS0tLQ0ZNLUVPSUFmTDFNME5iVG9hdTJzcFhxSVpUUHc5Y0tzbEZSNm1lQWZqOGxGcTZZNlFyblVnN0MxMnB3Z1pMRjJBYktSVzcxTkNoNjBWWk0wSk1HTUUxMUo5VHpUM0VIQ2lWZ1ZuLWE3M29DejlDMHQtRzJXTXh4S0lsa05wdzZnOEtJeVY0bTJiUUpzOE9KVUtHTnhHOS0tZEtLQUdQYmRncU9ydjlrSmhYdDhkclN0NDhtT0HSAfMBQVVfeXFMTUExT2ZlS2JFN0ZjV0pyV2JRTUdlM3E1eVdlWlNuQmNObkJMNGZjNXZzcWl1YUdVVVo1SUtLS0NGTS1FT0lBZkwxTTBOYlRvYXUyc3BYcUlaVFB3OWNLc2xGUjZtZUFmajhsRnE2WTZRcm5VZzdDMTJwd2daTEYyQWJLUlc3MU5DaDYwVlpNMEpNR01FMTFKOVR6VDNFSENpVmdWbi1hNzNvQ3o5QzB0LUcyV014eEtJbGtOcHc2ZzhLSXlWNG0yYlFKczhPSlVLR054RzktLWRLS0FHUGJkZ3FPcnY5a0poWHQ4ZHJTdDQ4bU9B?oc=5"
     },
     {
       "headline": "CBRE Group (CBRE) Stock Sees Modest Fair Value Lift As Analysts Turn More Positive - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-15",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYTJXTk4wSUptbldiQUd1SHlTSWMzc3VkV2hKMHRVQl9FMjVBQW56ckIxQWwyUFF5akFwYjl0cGR5SlRPUXlmaGtMcjlVbUkzMlhfWHdwX0FPdE1DejNDYlUxUmRiZEVXa1lhUUNQYmR3UHdOeUNObVdmV09aaXZ4X0VSaFk5OGhjdnRObzhNdmlaR3Q5YkE?oc=5"
+    },
+    {
+      "headline": "CBRE Group Inc. Cl A stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWnc0cWZLX0tKTDRNNC1HXzltWU1WTDdWSVBxM1Q3VTZDOVV0VGszcGZ4QVZQQWs2b0hwNXFVaVVLUWo2czJ0UVh3QnZNQzY2U29ELWlSVUR5YjJsai13UXI0bDUxVjFUWjA2Wm1lUXZrYTNRSXlWaUl0QUUwbkFBZFpVNEtyeXpRTXhWcmVDczBNWUdXMnFmc0l3VWZ5LWJGZU55VXJQd1hEVGFJUTZaNzI4QnQzazZURjNXVXB6TTcwQnhrSUZrem4yZ0xqbVpSTUE1SWdac3NKQ0ZlRHJUNlRnYw?oc=5"
     }
   ],
   "insight": "Tracking CBRE Group (CBRE)."

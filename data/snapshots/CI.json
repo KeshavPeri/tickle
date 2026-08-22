@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:10.968Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:34.320Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    283.94000244140625,
     286.2900085449219,
     289.57000732421875,
     291.0199890136719,
@@ -24,12 +23,10 @@
     275.3299865722656,
     278.5,
     277.45001220703125,
-    274.4100036621094
+    274.4100036621094,
+    277.510009765625
   ],
   "6m": [
-    294.3999938964844,
-    287.80999755859375,
-    294.7300109863281,
     287.6099853515625,
     291.44000244140625,
     290.7099914550781,
@@ -138,6 +135,8 @@
     283.82000732421875,
     281.45001220703125,
     283.94000244140625,
+    290.489990234375,
+    284.8500061035156,
     286.2900085449219,
     289.57000732421875,
     291.0199890136719,
@@ -158,10 +157,10 @@
     275.3299865722656,
     278.5,
     277.45001220703125,
-    274.4100036621094
+    274.4100036621094,
+    277.510009765625
   ],
   "1y": [
-    300.95001220703125,
     304.3500061035156,
     300.760009765625,
     300.32000732421875,
@@ -389,6 +388,8 @@
     283.82000732421875,
     281.45001220703125,
     283.94000244140625,
+    290.489990234375,
+    284.8500061035156,
     286.2900085449219,
     289.57000732421875,
     291.0199890136719,
@@ -409,29 +410,30 @@
     275.3299865722656,
     278.5,
     277.45001220703125,
-    274.4100036621094
+    274.4100036621094,
+    277.510009765625
   ],
-  "lastClose": 274.4100036621094,
-  "oneYearReturn": -8.81874313620706,
+  "lastClose": 277.510009765625,
+  "oneYearReturn": -8.818792771360023,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Etsy upgraded, TJX downgraded: Wall Street's top analyst calls - Yahoo Finance",
+      "headline": "Cigna Group stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSW1jaWNhaXRPVUdlcTN3QktidDdocElWZ2lfREI3ZjRuUFBPa3hEalZ0Q3BHemtMTW8xekNRM212b0tZdE5nendVYkxfb2o3VnkxU0Vkc09MRG1FRElYeVdhekFaU1E4OGRneHU4cHBTZHJQcElXM2Q4VzZIa0pLSHpmaW1YSnFBVjFUZ09lQjY4MVRCSklUdURQLTNMSjhRLU5OeHY0VXVUUlhoR2JUZUo4NjFCUUNETjRid0pBR2dDQVo5TG9VS3hUeVF4VWl3NnFxQlFqMVdreHhWcXRkTWozc2ZmeEFVdTBsbVpBeGlMb0FPdVJ4VA?oc=5"
+    },
+    {
+      "headline": "Is Cigna (CI) Using AI Automation And Rebate‑Free Pharmacy To Redefine Its Core Strategy? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanVienVnV0xLbTFzTWdFandHalY1OFdqU0d3Z1RwOWo1d0o2VE9CU2tiWWNURjZGOGhoZ3AwVVNRQ3JfTS1kUHJOS2tYUk9kRzRRV0RoSHdCWEZjdlZhMmRiNG9CZlpBTWxUWUhlVVpwOWIyZ2xTSlU3WEpnbnE3U0lWWTZ4djBrWHV5SktKZFlWZGlKUXMyWVRIRG96YlVpSWU1dzhvZ0wtRk5sNHRrUVNndzJGakFNUkpTUUN2TGl2bUE0dHlZMS13c3LSAcwBQVVfeXFMTWp1Ynp1Z1dMS20xc01nRWp3R2pWNThXalNHd2dUcDlqNXdKNlRPQlNrYlljVEY2RjhoaGdwMFVTUUNyX00tZFByTktrWFJPZEc0UVdEaEh3QlhGY3ZWYTJkYjRvQmZaQU1sVFlIZVVacDliMmdsU0pVN1hKZ25xN1NJVlk2eHYwa1h1eUpLSmRZVmRpSlFzMllUSERvemJVaUllNXc4b2dMLUZObDR0a1FTZ3cyRmpBTVJKU1FDdkxpdm1BNHR5WTEtd3Ny?oc=5"
+    },
+    {
+      "headline": "Here's Why Investors Should Stay Neutral on Cigna Stock for Now - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSVoxeWhlWW81VkVCai1MYy02djRuVUVfZVYtOGJvRVE3YXFoUGZzR2d3eXR2RjI3ZXlfaDl5R1Z1TjZHM0dSQmE0aU96UFBmUUZtcmxsZHBkMGVNTE9POThsTGl3Nk9ZMDFtWTVnajZPWC1FTWV2bjBnWW82LWhmOUI1blRjTlFiMEtlUG9GRlE4b3dPdk5uODc0Tk80QnJqX1k2YQ?oc=5"
-    },
-    {
-      "headline": "Cigna Group (NYSE: CI) exec logs phantom stock awards - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3RPNFZqOV83YU1YNnpHVThPc3pRNFlqN3BoNmNremtLSEFFeUpaNFhfZEF6VThvLV94SE82c19TSW02QlBNYVluZTJLb09FZUJrVnhRSFFBVGhLZHFoYVNVQWxJandPYVlocWczcnN5Nl9ZRzIwd0xVeERGenpncVloMkpaREJzQUhhZmhESnRYWDdLVml6dDJDeHFsdUxFS0FXdEFn?oc=5"
-    },
-    {
-      "headline": "Cigna Group (NYSE:CI) Insider Nicole Jones Sells 2,677 Shares - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbG9ncmlQYW9TNFpQek9CV1JvRE1UQ0pzN0kzXzlhbWtkRm10endQSWFkQ2tqcTd2eEJpbWUxWFFwUzF0UFNkUDYyN2czemRnV3FSTXF0N0ZzLVJNVUVObFVBT2tvMFg3ZHQ5LUlST2trTV9RamlGWmZvS1BlQjZBS1F6enBadFI3TzhiSW8zNDBwdzRJVjRSMm5jcHBzdU9Bejdya3ZGQmhtaWlhdGV2bg?oc=5"
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVlc3WGJjV0pndEhuV1NQdTUzQmNjTmlONFpxUk93bGVDdUM4RjFsZmh2MVN0VVZIUHNFUWVYcEJaRk9XbDNyaGRsYWdZTTZXMV9PejAtbzcwbXViY3FGbEdrTEVRTVlXby1UYVdoZUstcS12Wld2NklqYzY4QW9aMXdRMm1NNzIzZDlsRkRKQ3BBYXFfREM0dA?oc=5"
     }
   ],
   "insight": "Tracking Cigna (CI)."

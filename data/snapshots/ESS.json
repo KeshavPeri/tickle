@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:22.283Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:41.582Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    292.92999267578125,
-    293.8299865722656,
     293.20001220703125,
     293.4599914550781,
     290.67999267578125,
     294.5199890136719,
     296.79998779296875,
     281.8599853515625,
+    284.1400146484375,
     285.8800048828125,
     287.2099914550781,
     288.0400085449219,
@@ -24,13 +23,10 @@
     283.05999755859375,
     283.7099914550781,
     287.3599853515625,
-    287.7099914550781
+    287.7099914550781,
+    289
   ],
   "6m": [
-    258.05999755859375,
-    257.79998779296875,
-    262.510009765625,
-    261.4100036621094,
     251.36000061035156,
     251.16000366210938,
     253.35000610351562,
@@ -139,12 +135,15 @@
     297.4200134277344,
     292.92999267578125,
     293.8299865722656,
+    294.010009765625,
+    293.07000732421875,
     293.20001220703125,
     293.4599914550781,
     290.67999267578125,
     294.5199890136719,
     296.79998779296875,
     281.8599853515625,
+    284.1400146484375,
     285.8800048828125,
     287.2099914550781,
     288.0400085449219,
@@ -158,10 +157,10 @@
     283.05999755859375,
     283.7099914550781,
     287.3599853515625,
-    287.7099914550781
+    287.7099914550781,
+    289
   ],
   "1y": [
-    262.760009765625,
     266.75,
     265.4599914550781,
     264.7699890136719,
@@ -389,12 +388,15 @@
     297.4200134277344,
     292.92999267578125,
     293.8299865722656,
+    294.010009765625,
+    293.07000732421875,
     293.20001220703125,
     293.4599914550781,
     290.67999267578125,
     294.5199890136719,
     296.79998779296875,
     281.8599853515625,
+    284.1400146484375,
     285.8800048828125,
     287.2099914550781,
     288.0400085449219,
@@ -408,29 +410,30 @@
     283.05999755859375,
     283.7099914550781,
     287.3599853515625,
-    287.7099914550781
+    287.7099914550781,
+    289
   ],
-  "lastClose": 287.7099914550781,
-  "oneYearReturn": 9.49534965830906,
+  "lastClose": 289,
+  "oneYearReturn": 8.341143392689784,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "BlackRock Inc. Invests $2.17 Billion in Essex Property Trust, Inc. $ESS - MarketBeat",
+      "headline": "Deutsche Bank AG Takes Position in Essex Property Trust, Inc. $ESS - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZks0R2c0M0l4Z3h1UDlydWJjZ3NHaG9VeGRsV1BwSXJFTGdvVlpmWm8tanpYOWVTQVEwNGJUNG1TVF91VkZ2cnVrSzFhR05KR3F6c3hIbTk0UEtTWno1a1p5U3FJOHdKRVdqNFN6Znc4ZERUWlZOS054YjAxbEJldlJGTHM2TDgzM0YzUExkYWp2RFBmY0Jnb3VNeXU3bzBBMXlRQ01CdFdLZGJOOGhlYlJjdEp6bHVXMnFfSlNlcnQwZHhm?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLXE5dVJpQ1BUbENPeGVaRTBLZ043Mlk0U2VrQUxjRTg5eHJFREZmTTcxWkpRNFpxZk9uSG1EU1F4OGIzaDEtanliSWVMYkpINTZkS3VUYmdaeDVVSWxGS0k5cUpVdV9saVRsdFdUR21TYUxSNFlDS0ZYZ2doZjdoNDZqT1lTQXd1S1AyQUpPTDlKc0otb3hjeTZDWFkxRFJpS2JRZW9IS2U5ZjQ4Mm0yWjk5alBXVUVOYW1xZGFHdl8xUQ?oc=5"
     },
     {
-      "headline": "Essex Property Trust Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "headline": "Essex Property Trust Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeUpYLWF5aTlmMERadXBTQ1F3ajdGNHFNbnZQMDl0NV9Wc2RpdV9EdnNHR3Bvc01RbHJydUNONzd0dDBWUVFiMFZmQVZmWjRRcXlkNVE1alJYNzBjQWhIR1FKSFZnNThQNDlRcE9xNkZDTXQ0UW84Z1p5NHEwODdYSWR3T1JMVTZFcEFkelFmOGZfWGJ3dU5tY0gxdGhWY3IzQmpDaHVNWlFDMmpkNzUxaHNzam81U2k5WncyR3ZoMDZTTkRuWmpVODAxOWhoQ1JXZl9OWjgtaEJNMW93VnlGN3U1TWduaDlvQy1sNkRuaw?oc=5"
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTzJZQUJ6eU1saEVxbDZqVXJpQjdEMFdyZ0ZIZmpKTHM2RVpqNjdwejNjNVhfdC01UG5MNXlEanYySEFfXzhxcVAtNHlBUTFGOVhoWHFFbzloVzBNNThYTlR4WUZKN1ZBeXMtT2JxZE1CczV5X0VQcG5ydHQtbERDWm1aekRoOEtMRENCaEpyTzNEOGlJZ3ViazVCU3F2QTU4Qmp1VHpDVlllUmdKbDRjT1hCUW1lWDZPSVBxQlVOOXdqSHBXQ1U3THpCSkNwRElCQkhEN3dtVjFGcmVuTW1RNnZseENUMTVuSkE?oc=5"
     },
     {
-      "headline": "Essex Property Trust (ESS) Tops Q2 FFO and Revenue Estimates - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR09yRU5DVG1VcllhR3NScmRGTnJOSzlRQ2ZJcEpkRV9XNVdNTTU2WGxseGFiZjNMLWRsalJ0S3BMTHh3ZnNOZm1OWG5ld2lMV0h4eGc4QUhLWWNwbV91YkI2b0xFbEN5Qmg1alExYXlxN2J5QWxOYVFWbXNaVXZFZy1fNjI3VVhmZUVUWDZUX3g5c3YxdXc?oc=5"
+      "headline": "Essex Property Trust stock holds firm after a $4.08 EPS beat - Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSDNoZmNFN3hFdzA5V3dYb0VtdVhQc2hKSTV3MDZpeldsWHRxcFNnbVZEUkVRMEpvMkZWdnZ1MElZZkhnUE9lT3NydXlTaWxJQTdWV3QzT0hXQ0o0YVhLVDdWOTkzTTZhY1JmUVZRQXFiQTBRTHIzQWlCQktKbUVFMFFkRUk1UUg3T05CY1JkZkZBUVo1cHg1YW0zTHkyUkFkejJEbm9MVUZLYkNKNWZ1WUp4WU1WZVlYOFVTaFRuSQ?oc=5"
     }
   ],
   "insight": "Tracking Essex Property Trust (ESS)."

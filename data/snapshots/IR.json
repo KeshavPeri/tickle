@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:33.833Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:48.976Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    80.18000030517578,
     84.30999755859375,
     84.4000015258789,
     84.66000366210938,
@@ -24,12 +23,10 @@
     82.30999755859375,
     80.7699966430664,
     81.13999938964844,
-    79.33000183105469
+    79.33000183105469,
+    80.51000213623047
   ],
   "6m": [
-    98.38999938964844,
-    97.80000305175781,
-    96.75,
     94.20999908447266,
     98.5199966430664,
     98.76000213623047,
@@ -138,6 +135,8 @@
     84.77999877929688,
     82.23999786376953,
     80.18000030517578,
+    80.9000015258789,
+    83.54000091552734,
     84.30999755859375,
     84.4000015258789,
     84.66000366210938,
@@ -158,10 +157,10 @@
     82.30999755859375,
     80.7699966430664,
     81.13999938964844,
-    79.33000183105469
+    79.33000183105469,
+    80.51000213623047
   ],
   "1y": [
-    77.44999694824219,
     80.62999725341797,
     79.68000030517578,
     81.12999725341797,
@@ -389,6 +388,8 @@
     84.77999877929688,
     82.23999786376953,
     80.18000030517578,
+    80.9000015258789,
+    83.54000091552734,
     84.30999755859375,
     84.4000015258789,
     84.66000366210938,
@@ -409,10 +410,11 @@
     82.30999755859375,
     80.7699966430664,
     81.13999938964844,
-    79.33000183105469
+    79.33000183105469,
+    80.51000213623047
   ],
-  "lastClose": 79.33000183105469,
-  "oneYearReturn": 2.42737889850255,
+  "lastClose": 80.51000213623047,
+  "oneYearReturn": -0.14882192890365417,
   "marketCap": null,
   "topNews": [
     {
@@ -422,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2xNN0pLV3ZZZnUyN0dUdXhtcG9hbk02eDRkZzY1WWdfVmY4QkZXczZWOWt6VEFZWmNqWjZTM0Jtd0FMd3g0U3pORnJQZGgxRmdBZ2tJcHMwODNYdHhXNV9EUjVNeHVXcmhtRUxWY2hfNGxRMUxzX09wLTFKdHRZaUpmMWhKQ2hDeFFXQUhIaEhObGVOVTFrUHNzdEtfYUxSZFNicUVCdjYwRUs0STU4?oc=5"
     },
     {
-      "headline": "Ingersoll Rand Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeFZraE94eld1V3hSMXB0cmtFd2JndVVSQjlNRHBEVFFpazc4bXBwU0U1ZTBBbl9teV9SNHJyQUR5WFFfMjI2d0o5d1dhVmFmdFExWERHUWxKRXYwWVZ3NnZmOXJnUzllSkwxZ2JEWVFPZzRZOFVBalF2SC01c0xVWUxoQXhYNTk0dnpFWEM4WUZFQXpRLVhpX1E2QmJqVnFHcGRjaWFCWTczUU13dm5Dak40M2JpdGRvbWZpM3lRN25BWXVFTHRuVXI5eFBnZTV1?oc=5"
+      "headline": "Ingersoll Rand (NYSE: IR) exec vests 483 RSUs, 156 shares withheld - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFBUSXUtdDc5dGhnRjFvLTVOMnl0TkpQU1JxdEYwb2Q0eW50WFY5b0JuMDU0MC1xMmk2NkFBYXRPVFAtWllfeWRrUXBTeWxGOE9XdzdwMXJEMjhfNV9nenZYZ1V1Mlp2eEUzLTB3NmJZakpIU1l5T0JUMEFObklucW56OW5nZ1JLdWpoX1ljSjdQNVF3c0lZR1VJRi1nMG1CTkE2R0FhQUhCN2lHYno0?oc=5"
     },
     {
-      "headline": "BlackRock Inc. Purchases New Stake in Ingersoll Rand Inc. $IR - MarketBeat",
+      "headline": "13,446 Shares in Ingersoll Rand Inc. $IR Acquired by Portfolio Design Labs LLC - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHd4M1hIYXZWYVROTS1CNXltQVF3SC1xYW1zSHJoSXFhNThCeEVoR1BQWTl2a3pOOTZkTHNKNW1MR1BhOWV2bHhvRmxETXZDc3BwbEhtNUV4N000d0NOMGlPcUhydWRsZ2pJWmFYSlJLY2Q5aUlteW5IbjJZb3BjUEkxbkNqdGFBSG9HY1dmYnJPU1ljZFltTkJmYU1lLXJmWVRSLVUyTHdMOEVnQnhsN3czbGFlXy1KTVp3?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2t5QnNfTTZwTzY2bk9XQVNDOGp1bG8yTUZEN3Vnakp1Ylhvc2tLQWhqVFFsLTNFRlpWQVIyckQ2NFBSaUZkdU5scEFpQTJkb1FQWUx4a3hiZEhDcU1fLTNWT1I3YWZ3UWZ5ZVhEemdPZV9PT0R6UWQwRi1HOXlvNGJGcUlaVXpVZVpISnUwTVROa0ZwbnJsS2c2bzlRVm8wQzNMdmU4a18tYnhmYkhSdWRFc2l4bUFZNTk1ZWx2OGZEMFl6clg0WXJlU3VnakF3Nnc?oc=5"
     }
   ],
   "insight": "Tracking Ingersoll Rand (IR)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:44:58.568Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:25.887Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    140.0500030517578,
     137.57000732421875,
     141.10000610351562,
     146.86000061035156,
@@ -24,10 +23,10 @@
     179.2899932861328,
     183.25,
     186.38999938964844,
-    185
+    185,
+    187.3000030517578
   ],
   "6m": [
-    119.55000305175781,
     115.95999908447266,
     121.3499984741211,
     124.2300033569336,
@@ -158,10 +157,10 @@
     179.2899932861328,
     183.25,
     186.38999938964844,
-    185
+    185,
+    187.3000030517578
   ],
   "1y": [
-    126.43000030517578,
     129.9199981689453,
     128.14999389648438,
     126.88999938964844,
@@ -411,12 +410,19 @@
     179.2899932861328,
     183.25,
     186.38999938964844,
-    185
+    185,
+    187.3000030517578
   ],
-  "lastClose": 185,
-  "oneYearReturn": 46.32602986114719,
+  "lastClose": 187.3000030517578,
+  "oneYearReturn": 44.16564477486885,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Airbnb Inc. Cl A stock rises Friday, outperforms market - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVjAxS3FiSGNCRm15NV9OMm0yR2dCdXlZT0wzZTNfaEVqRUtiZW1oYURqY3p3N29GNFZHN3ZrbFpuQzVkeHBRTmQ4VFF5RUJyaU96RmQxVmM1R3JVVlFyYnFjWnBkbVZmZTVTVTlkaGd3d2R0S2Y2dW1JQ2NOT0VlS2dyNzl1SmdyeGhtaDBCalFRQkZsM3VVT3M0b2V4NjMyNlpWX0hiS3FrbkpVWUxiMmhxQloyY0dkTnBaVzQzV0tpeWJod3VnbVBVUQ?oc=5"
+    },
     {
       "headline": "Why Airbnb stock isn't far from a record high - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcl8xSmlZdmh6VkhxSjFkUkRXUTI4OUcwS0VUamN6d0xLd182X0pUXzAtNDJUVE05UVNqUDRXMlNvdEN2M3M4X1JSODk0Wl9TcmZHUmtDSFh5ek4wcS01ZXhINW55cFZDdTl6UWJxUUhUZ3BLOEdsck0yRTViYVMxQ2NvMUNoM2c4WkpSeG9wbko0MUJ1aGYxN29EZkRRTE5PejlqdDB2eDdlTlpJ?oc=5"
     },
     {
-      "headline": "Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter - CNBC",
-      "source": "CNBC",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WTXItN0NubHhVQV82dWU2VmxfWGxJRDROX2xucWd5TDdqSVV4NktPOFo3MFIwZ082S1hseXFJXzFCS1U3RVBEWWNJY3dSOFZXY282R3ZiX05LeGcxZFRfVU9OUTcxSkY2aUJEZHBOQS1KRGRJ0gF6QVVfeXFMTUJPcXQyRThmcG9Uc2E5S2RuZ1dPUWRiU3M2Z19uc19EMkF4amZNU1Z1UUNqNXpuR0U0RmRoeTNYekFQTXVRTG43dW9mcXJTX1o2MmFWSVNqSUNMSld6UDA0THRDX3JJcjk1WXNjOU9LOFBrNXVyRmJPNnc?oc=5"
-    },
-    {
-      "headline": "Airbnb Stock Rallies On Earnings Beat. AI Paying Off, Says CEO. - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "when": "2026-08-07",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42NEtRZUN3bHZNOEZCOXdfNE9iZzgwcHBNYzFmTEY5QUNqVXZfN0ZPRmgwRTJkdHcxSXNra1NxekdmeUcteVBJSUU0b3I2dE5SWloySXliZll4X0gwdzZsbjc1RWlROUNuSk9TMlROS3dPT2ZYZktnbUQyb2Q?oc=5"
+      "headline": "Nathan Blecharczyk Sells 2,738 Shares of Airbnb (NASDAQ:ABNB) Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEptZHpmNnhEbldrME5YZG0xRkptT0lPVEJVb1RrcXpoRklWSWJTaExGQ1h3cEcycXBDOEhLT21BWUdBZzRUdXJQNzdrNGx1MEFDUF9Ld3prUXBuY182NFBXWVM5UTJlOGRRbXh2MkVfSFdScmdBQXdiUldBY3BsbktYR21IWDFEWTlla1dGeGJLUjZqUzRSSV9RbS1sN05YX1lPRnowc0JJcHVvYjlQRmw0SDVCTFhn?oc=5"
     }
   ],
   "insight": "Tracking Airbnb (ABNB)."

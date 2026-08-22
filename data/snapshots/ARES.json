@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:04.291Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:29.733Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    121.2699966430664,
     121.27999877929688,
     126.51000213623047,
     127.76000213623047,
@@ -24,12 +23,10 @@
     141.33999633789062,
     140.30999755859375,
     143.10000610351562,
-    140.22999572753906
+    140.22999572753906,
+    141.25
   ],
   "6m": [
-    137.25,
-    136.99000549316406,
-    137.3800048828125,
     133.94000244140625,
     133.8800048828125,
     130.41000366210938,
@@ -138,6 +135,8 @@
     125.43000030517578,
     125.68000030517578,
     121.2699966430664,
+    120.77999877929688,
+    119.56999969482422,
     121.27999877929688,
     126.51000213623047,
     127.76000213623047,
@@ -158,10 +157,10 @@
     141.33999633789062,
     140.30999755859375,
     143.10000610351562,
-    140.22999572753906
+    140.22999572753906,
+    141.25
   ],
   "1y": [
-    178.25999450683594,
     181.07000732421875,
     178.1300048828125,
     178.92999267578125,
@@ -389,6 +388,8 @@
     125.43000030517578,
     125.68000030517578,
     121.2699966430664,
+    120.77999877929688,
+    119.56999969482422,
     121.27999877929688,
     126.51000213623047,
     127.76000213623047,
@@ -409,18 +410,13 @@
     141.33999633789062,
     140.30999755859375,
     143.10000610351562,
-    140.22999572753906
+    140.22999572753906,
+    141.25
   ],
-  "lastClose": 140.22999572753906,
-  "oneYearReturn": -21.334006479978036,
+  "lastClose": 141.25,
+  "oneYearReturn": -21.99149815734982,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Ares Management Stock And the Private Credit Shift Investors Cannot Ignore - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUEhLWWk2dmtBZGdic1VFMFYyZmg3QjdEVG1Zc1ZNaTFLSGpxbzBkeksyZEV0U0lDRUhhSHVJeFJ6S3dJLURCTXlBSjd0c3JRM0hnRDdwbHJocHpmQmFtcmJsUmR5ajBvX3JQNjk2MFlyUmdnRl9Md3QxU0ZWTWlDM2MtelRHUFhUY2pFMFY3N2RQZi1iSnJVTlF2YUVjWVJBc0Rmd2FRUGNLak1xTGd1X0FEU3hrODJHdTcyVk5MZDhHUjgyTmoxMVVLZDg0Rkk4c3VnLWVjM3UxSlB4LWpabUhyVFRlNWlW0gHuAUFVX3lxTFBVTEU3ZVdyRmlFNlY4cVlzWW96a0EzcFV2YXVDRzBMcFNQN2ZHQTBkR3N2eTVybWVaYkdnOEZoYVU2Mk5JY3ZmN0w4NFF3SDBDVThVazl2WWpqbnY4dTROcGYyeGNmeFItT2g0Q1BBZmlqSE9WeDlNVVBjU3J5Tmp1cHRHZ1ZDTWFyblVJOVZOcnk2U0w0ZWx3cnhQeWZOc2tXal82bm14MUhUbzVDLUxNMjcwNXYyWUV4RjR1RzVYSHViNnpTaXVWNFNvSG05bE9oMmNZdTR3VE5faWhUd0E4V09JUHFNbENfcVZDSkE?oc=5"
-    },
     {
       "headline": "Handelsbanken Fonder AB Reduces Stake in Ares Management Corporation $ARES - MarketBeat",
       "source": "MarketBeat",
@@ -428,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSDN3ZDYzNExMd2xmOUJScDV3TlM4SVVDZjFSYjFjRU1PbjBQNnM4MVBZOTlvQVB1YS1VVmo5ekVSRHlnWjVFR2FGVG84VFlZWEtzMklNVnFueC1QZF9jS0FkTG1yNlRneDN4by1fMGZmTS1XeU9XX0kxM0VfSm5mZ2NqUk0tZ3FETDd0RUljUnVqWVdELTNIM0FLSFdJWC00MmNHRnlwU0VSRGdWMmpacGhlLWhiYnY0RWRsRlI3WGtod0dTZlNxMVdoZUdvUGs?oc=5"
     },
     {
-      "headline": "Ares Management Stock Is Down 14% This Year & The Street’s Target Hasn’t Moved Since March. What’s Next? - TIKR.com",
-      "source": "TIKR.com",
-      "when": "2026-08-13",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMUZwaDVzVmlMeWE4MUFNRDlnbDRjd0g4aF9ma2Yzd25mY25jM29TdV9PellxRkgyTm0zY0syZ0RaMEJWbDVzY0pKZTBYeC1MQk5vZjZBX3VyN3I0bGQtSDR5MDJCRXpqT3NBeWhVaWdfMHM4RnBrQl9CaXVWOXJHLUM0TTd5QW9veEYzVElZdXpxQnBBWnRlVU04WFFHdW9adFhjdmNZa0hVZVY2NTVhSjZ0Q1dqbXo3enRoQkF6OA?oc=5"
+      "headline": "Does Outperformance in Revenue and Earnings Growth Change The Bull Case For Ares Management (ARES)? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeFcyclFUal9KNGlQMS1RTjR1TjZHSkk0dzcwZzYxZ1FsbzV0UHkzQTBGWG03MkFkSS1nczNYOVlOdGRibEgxczhMeTVkTHI1eWJMUlFHMHNjeldMdjZ2YXlQQ2FyWkEtWWNSV0lZYm9vOHZRQk1OZUF3VnB5c3MyNHVxRF9LcXBBejlGTmFhNjU5SHFUZ25Cc2hDLWlXYnpORmMxRXZGbHNCa25EbjJ6Yms2U3V5UHluT2N2NGJMQWp3XzlMbmNzMk56VU1hREJZS25leHJsUlpHVHdGRkdB0gHkAUFVX3lxTFBCTHJBbEF5d09taHNnU0VkZVdWS09QbEZhcWo0b1VVRjBxdEUxMUdUQlROcWlQTDE4WElINkRrUDdob0ROV284b2lCQmU1ZVVkYjRQN0NkVnpGSW5jNjJNclBtWFNZMnZUY1AxYU1tMXJUendva0doY25uV25rMEJGUDVkemZSQl9jNmwyV0FHa3FCUnVadEwtY0gxYVV5cW5lQnlwTE14S0N0a3VSVGZpS2otd1czMkJXVm5WdE90MFItdzB3NWItRDZDZ3NwNnpBUm9fYWxFZ3BIVnBpUWhEa0ZaNg?oc=5"
+    },
+    {
+      "headline": "Ares Management (ARES) Q2 Earnings Meet Estimates - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-07-31",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGt1MHBka29kU09XZVRDLThnVWpCR0dfOGNnLUJ0YnRCSnNCSUNZbDlqTVhaZ0EyREw5dWtCaE1wQkw2eXdMTm1aR2RRbXFiWmhURlJrQThYYkxQLWwybnZxcUN5Q0diNURJMTBUbGNNdmNpMFpQQWZ1UzNBdjhZaGtPZTcwUldLQlItYktBaE1EZHUzUVBkb1lEMUtMQQ?oc=5"
     }
   ],
   "insight": "Tracking Ares Management (ARES)."

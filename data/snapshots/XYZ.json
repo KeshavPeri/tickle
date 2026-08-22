@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:54.784Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:36:03.554Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    79.29000091552734,
     76.48999786376953,
     77.1500015258789,
     81.23999786376953,
@@ -24,12 +23,10 @@
     80.19999694824219,
     79.43000030517578,
     80.93000030517578,
-    80.08000183105469
+    80.08000183105469,
+    82.16000366210938
   ],
   "6m": [
-    56.779998779296875,
-    57.29999923706055,
-    53.810001373291016,
     49.09000015258789,
     49.79999923706055,
     50.810001373291016,
@@ -138,6 +135,8 @@
     81.5199966430664,
     79.94000244140625,
     79.29000091552734,
+    80.37999725341797,
+    77.45999908447266,
     76.48999786376953,
     77.1500015258789,
     81.23999786376953,
@@ -158,10 +157,10 @@
     80.19999694824219,
     79.43000030517578,
     80.93000030517578,
-    80.08000183105469
+    80.08000183105469,
+    82.16000366210938
   ],
   "1y": [
-    74.08999633789062,
     79.12000274658203,
     79.08000183105469,
     78.77999877929688,
@@ -389,6 +388,8 @@
     81.5199966430664,
     79.94000244140625,
     79.29000091552734,
+    80.37999725341797,
+    77.45999908447266,
     76.48999786376953,
     77.1500015258789,
     81.23999786376953,
@@ -409,29 +410,30 @@
     80.19999694824219,
     79.43000030517578,
     80.93000030517578,
-    80.08000183105469
+    80.08000183105469,
+    82.16000366210938
   ],
-  "lastClose": 80.08000183105469,
-  "oneYearReturn": 8.084769590008325,
+  "lastClose": 82.16000366210938,
+  "oneYearReturn": 3.8422659378113724,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Block Stock Rips Toward Best Day In 4 Years After Layoffs: Jack Dorsey Concedes Pandemic Over-Hiring - Stocktwits",
-      "source": "Stocktwits",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVmNqemdoLTNoWEgwRnhiSzFjU0J3MW1Va0NFRUVKQkxGUThpeFdyR0xtaE1UN0hVcFlsVDM4emxkOGF6dFQ1TGRuNzBDUDg3dEpkeS1uZjBLRFU1UlczZGd4Mm9CSHpaTlhOSDY4SUlBYURNc00yeTkzTlptdXNpQnlvS1FtYk4xRVI0bnNPUFpUdHlWT0ZFLVZhOWJhbFRXTjNYZlg3UzlFbDRMNmpXZl8tYUtxejZkdkpMV0FHRm8ydw?oc=5"
+      "headline": "H&R Block Inc. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM3g0dlFHLTJWR1JsZXZFbS1nNmcyZ2s4MWFkYXI5TFVzSUdwRXZ2REV5VEc3LV81SXlJRS16YkF5UVdyZ3BIMmFhSnV3S3NuREtfbkJYOTZ0Nnh3dTVRYUVkSVJSUk45b1BhVjIxX21MWXhjYjZKVzFuY2lnZHhrOUMyYjFMWE92VERVZy1LczFkQkVQUHRicWgxTklQdUt3a00zZzZsdW4zT01QMEt2MEtUcmVCeXlZMFVvN0RSZG4wV3BDTXEwOXhZNk1EeEhaeFZmWGNJdmtZMzdsUVpjN0VGVQ?oc=5"
     },
     {
-      "headline": "Block (NYSE:XYZ) Combines Strong Growth with a Promising Technical Setup - ChartMill",
-      "source": "ChartMill",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHhzajJVRlE0Rk5kai1mN1dSQXBsZ3VocG51bDl0SXI0bXBqUFdkeGFHdjEyRUpuWlVxa0RXRDlaUEFvU29JWkdBLXR1bDJiaVZ5MW9ETmdvUGZYQWhMVHlzMVhlcHRpVkhXdU5ycWVyRWowSXhtUExsdmRadTIteGhpQjV3d2tqanRhUnY2T1M3em83Ul9adUlzNnI1MlQtUEY2OU92VEhyWElfNU9CRE9jd0g4VVRNOElGeg?oc=5"
+      "headline": "Cathie Wood's Ark Invest scoops up $15 million in Block Inc shares as stock dips 3% - The Block",
+      "source": "The Block",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY1FZeXVaY2VJbnc4czZBbzZ3bFFkdzdJRHhEeFJINFFqYS03UUJUazhUb0FWc3dSYWo2YS1Ob3EybWlDVGlDTFYyU0lyR1FBODNfLVhtR3pIMXBTdUlsOXRTZWtHQ3E3QTNYNU9oendLZnNPS1NfYm1JTnBzZTF2SXItcDFzMVY1ekNsOWg4V2k5V2hPa2pJa3dGamJDNEk?oc=5"
     },
     {
-      "headline": "MSH Capital Advisors LLC Acquires Shares of 17,578 Block, Inc. $XYZ - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNODV5S3cwY1RGZ1BlZXp3TEI0ekI0cDdFWVVHMVI2OUsycHpCZlRiZTF5LUhzWER6eGFaREZGMFRiOElzVVF0dXVnWVU2VGhPckNjeW9aZUhmMlAxb1l5WmJ4RWdVWnNMNmQxMi1LcVdFVC1nUXhON1kyUDl5aHVGb0xKVVNmRGo3RlVobjhTdzZ0aGFjdThDcHdmaUQ5RmdSLW9veUJFaXFkYUVjblQzN3Rlenp5b1Q5ZXFuMk1sSE1hUQ?oc=5"
+      "headline": "What Should Investors Do With XYZ Stock Ahead of Q2 Earnings? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1VjN0ZSS1d4WDJhVnJibmJ2Uy1jdks0UEpacV8zd1U1SHg4WTB3ZW95cVdQWk43UkdtUzVZWWx5eU9fYUhEbjBwOWY4YUtENHBOSzlYQWtEdFd3aUs0c29LWVZXRS0tR25QOTRaMlRNT2FHYWxNb1VuNGtXbGVGMEVxWEZKRWpMVV84R2UteUQ0dDJkdWRhYw?oc=5"
     }
   ],
   "insight": "Tracking Block, Inc. (XYZ)."

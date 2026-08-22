@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:00.302Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:27.116Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    130.47999572753906,
     134.9199981689453,
     135.5399932861328,
     133.58999633789062,
@@ -24,11 +23,10 @@
     126.52999877929688,
     126.3499984741211,
     126.2699966430664,
-    125.69999694824219
+    125.69999694824219,
+    120.94000244140625
   ],
   "6m": [
-    121.2300033569336,
-    122.25,
     126.43000030517578,
     129.94000244140625,
     130.24000549316406,
@@ -138,6 +136,7 @@
     132.13999938964844,
     131.0500030517578,
     130.47999572753906,
+    133.07000732421875,
     134.9199981689453,
     135.5399932861328,
     133.58999633789062,
@@ -158,10 +157,10 @@
     126.52999877929688,
     126.3499984741211,
     126.2699966430664,
-    125.69999694824219
+    125.69999694824219,
+    120.94000244140625
   ],
   "1y": [
-    113.13999938964844,
     114.0199966430664,
     113.01000213623047,
     112.62999725341797,
@@ -390,6 +389,7 @@
     132.13999938964844,
     131.0500030517578,
     130.47999572753906,
+    133.07000732421875,
     134.9199981689453,
     135.5399932861328,
     133.58999633789062,
@@ -410,29 +410,30 @@
     126.52999877929688,
     126.3499984741211,
     126.2699966430664,
-    125.69999694824219
+    125.69999694824219,
+    120.94000244140625
   ],
-  "lastClose": 125.69999694824219,
-  "oneYearReturn": 11.101288338651791,
+  "lastClose": 120.94000244140625,
+  "oneYearReturn": 6.069115946391893,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Johnson Financial Group Inc. Acquires Shares of 29,849 American Electric Power Company, Inc. $AEP - MarketBeat",
+      "headline": "Why American Electric Power (AEP) Stock Is Down Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXIxcUpVY1BzVWJKaHVIcTlacExvdjRhTWtwSXJ6dWNRaTVicjNrVXNJSGRuVVVzZjRzbTVkeWc4Z3p5NnQzcGcxdm1ob2c2WW1vejJ3Tnp1Rkl0anFZSzJOVml3b25aS1IxOTAyRDJ1c1hYbnE2UUNBNGM3bFZyU3ZUbGxnWDhxSmYwWlRkeGw3aTN5?oc=5"
+    },
+    {
+      "headline": "American Electric Power Co Inc (AEP) Stock Down 3.8% but Still O - GuruFocus",
+      "source": "GuruFocus",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMllFR0NZM3lzWWJ2blpDUmFfMGF3RlFkUE9hZ1FTanRZZjgxWDFSN21EdXVEZGRCbm5EenM1REkzaVFmbnlQenFDZ21TM0Z4SlF2c2xuaEZDYzRiejdwSl9SUmhUank4cXVpcWZibjc2Ty14ZHBKYVJjXzVJVlo0V1YzSzBSbWJkSG1WRFgtQlotS3ZfYlcxQ3lELWk5QXU1OFotOXU5WUFzWVlZTEdzdzZzVUxZRHBjMk5XcEF1aG8?oc=5"
+    },
+    {
+      "headline": "American Electric Power (NASDAQ:AEP) Given New $135.00 Price Target at Morgan Stanley - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSU5fb0kxdnc0OWFQdGp2S3RHT2NHdlhKWkpFZHdyMTAyblNkdC1Odkc5VGNFaWZISG1GVU9yTlFVS1Y5d0ptWlR0RlRRWEFOcnVQbTZGMmlwNks5VF80M2JIMjJTUkpCSDFQRlhyeTNIMzJvVGJOWTVoc1Fwa2syVUplUGx5bUo0SkY3bXN4WXRCcEpDNnExZUptcjFMVGVtV2JDbTVWWmxaWWZ5a0lRUWJuTUFWVm8xMXo4dEtldVpzMHdhZ1NMNFpIeUNBYkFOclpNZTdwV0dUUnBOUGk3aEJXZ2hVUWpO?oc=5"
-    },
-    {
-      "headline": "American Electric Power Company (AEP) Could Be 12% Overvalued As Icahn Cuts His Stake - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWlBQWdRVjVFYXpoWlRtbG1PMVdMTG1TbTBRN3drQ3F2MWdPNFR5SWZOYWFMcUZtYkQwYXZNYUpNRlRKTTZVeTVsMFJuYTI1MkNfRXlQOGdVTG5YM2l3T2RJaGRCdkc3b29iUl9IbEFYRUJvX2xXS01tWjh3bV9IZFVXeGJkVWdWbFN1al84Vzc1ai15NHZWQVZHRlVRQ0taeFE?oc=5"
-    },
-    {
-      "headline": "How Investors Are Reacting To American Electric Power Company (AEP) SB Energy-Funded Ohio Grid Expansion Plan - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYlNJNnJydjdSRjBlVFAtMFZXRXRkV3V2UlNrVHdpU2toZ2c0emo4V3FXa3lpUmZGNmNHYWlCSkJaQl94Z2NxZlRYeGotZEFteFBGSFRTZFdlSjRPZkgxQzlVbjhWd0xmc2dtZ1Z0ajJGbzBQMTRhMVFRcldndzVxQ1FGOWZsd2VvVWlrdHZEWUphNzRaRWllUXdhamFadUFKZi1RaVFQX0YwYjh3amt1R1NOdHJDUFV4djJ0ZkFIV1Z5QVZJLTRjY1dRdkhHa2lTa1dFMFROYWIxTEdvY3dV0gHfAUFVX3lxTE5iU0k2cnJ2N1JGMGVUUC0wVldFdGRXdXZSU2tUd2lTa2hnZzR6ajhXcVdreWlSZkY2Y0dhaUJKQlpCX3hnY3FmVFh4ai1kQW14UEZIVFNkV2VKNE9mSDFDOVVuOFZ3TGZzZ21nVnRqMkZvMFAxNGExUVFyV2d3NXFDUUY5Zmx3ZW9VaWt0dkRZSmE3NFpFaWVRd2FqYVp1QUpmLVFpUVBfRjBiOHdqa3VHU050ckNQVXh2MnRmQUhXVnlBVkktNGNjV1F2SEdraVNrV0UwVE5hYjFMR29jd1U?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2docnhjdENTWERhZ2k2TXRnVFVPdHAzM0FYeVlOUnQ0MXNSb3ZiNTNKdWkxMTdIVW5icTJkdklUdDVjRU03WktOb0RfajNSM3FoS1hKbDByTGdCSWJjWWF5NFJYOXhNRVdLc3d3cklsOEJBdTVxM1Y1V0VPSl9BQUtDZXZEQzg5WEk2WEp2dXJQWHZnLUhKRjYzUXFObjBPVUt5LTVpVURGQktGbnRmM3o3M1VmZVo0Ym1kZml0N09Ib2ZDekMxbjZ6bk1FVUU?oc=5"
     }
   ],
   "insight": "Tracking American Electric Power (AEP)."

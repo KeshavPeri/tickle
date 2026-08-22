@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:44.684Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:56.430Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    123.18000030517578,
     124.66999816894531,
     128.75,
     130.58999633789062,
@@ -24,12 +23,10 @@
     128.49000549316406,
     126.05000305175781,
     130.67999267578125,
-    127.66999816894531
+    127.66999816894531,
+    129
   ],
   "6m": [
-    132.3699951171875,
-    137.3300018310547,
-    139.32000732421875,
     138.88999938964844,
     142.55999755859375,
     141.5800018310547,
@@ -138,6 +135,8 @@
     129.02000427246094,
     126.08000183105469,
     123.18000030517578,
+    124.26000213623047,
+    126.75,
     124.66999816894531,
     128.75,
     130.58999633789062,
@@ -158,10 +157,10 @@
     128.49000549316406,
     126.05000305175781,
     130.67999267578125,
-    127.66999816894531
+    127.66999816894531,
+    129
   ],
   "1y": [
-    125.37000274658203,
     132.3300018310547,
     132.27999877929688,
     131.1300048828125,
@@ -389,6 +388,8 @@
     129.02000427246094,
     126.08000183105469,
     123.18000030517578,
+    124.26000213623047,
+    126.75,
     124.66999816894531,
     128.75,
     130.58999633789062,
@@ -409,12 +410,19 @@
     128.49000549316406,
     126.05000305175781,
     130.67999267578125,
-    127.66999816894531
+    127.66999816894531,
+    129
   ],
-  "lastClose": 127.66999816894531,
-  "oneYearReturn": 1.8345659822728098,
+  "lastClose": 129,
+  "oneYearReturn": -2.516437531154946,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "PulteGroup (PHM) Stock Looks Reasonable With Shares Below Fair Value - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWtVcmRDNG9RV3hPMWlZRTRHTkIzMGc0UHd0c3pPYVRObU94VWE1NXQtYW9WQktJWnN5U1FZQkU2YXAzei1NdzBwM3dkVVVva1FfMzN2S052RmNkaVE2MzZNM1VxTXBVbG9qRENmNVNZdFYwaEhWbTQ5ZXdMTGJOX2VfVktJRFRNbjIySmpfS19YdU1sb3k3ZXZCZUY2Q0N4T3gzcA?oc=5"
+    },
     {
       "headline": "PulteGroup (PHM) Stock Is Up, What You Need To Know - StockStory",
       "source": "StockStory",
@@ -422,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeTB6U1k4WUNRT2dxUGxkUm5hRGYwSDYzY2t3bWVsdUx3RUJyMXdQUGtTYjJYdnJKdU4yczdoZDhsemZmZzg0cWthWGhIejhZLTFQSkszbFFiQjhlRURFR3oxRmgtU09BWWNxc29yM1U2N3JsMlBJN2pxcDJfQ1ptb3lTaUppdnVKN01sVnk5emR6Q0ozUjV4bmFjdUZQUndjby1HVHFtZzk2Mms?oc=5"
     },
     {
-      "headline": "Pultegroup stock rating reaffirmed at Citizens on demand trends - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTEkyWF9nWi1ZazhQWjd1S3BXS0FESU9WOEhMVkFTd3dHUHFwaWtaVVZLYXkxN054SU5NZTEyN0hsdWJxM1VPSHpydXFtdTJVVUg0VjJKbHJCaG5oT1pyZWJYRUM0UnZxS0czV1RTUHJnc29mWTllZEt6UmJjZ3F1dlVaVU9qeXJUc1cwLXc3ODVxbXFPRkU2ajBlaWZ3V0ktRkFTQzdDblVmN215WWp0bGhCRWlzN0ZLLWZrSjdWLVd2VTB4dWhsMkwwMA?oc=5"
-    },
-    {
-      "headline": "PulteGroup Inc (PHM) Stock Up 3.7% but GF Value Says Overvalued -- GF Score: 93/100 - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdU5jbENXakhCVjl4TTZIbnFKODNRQTNGQXF4MDc4OUFYa25SS1Z3REJJQ21pbmhUeDRuazhUMmlQSkR0REYwTXpiQXR0LXZua2pmRm5ISkJBMm50UXNtRVlNZ2JKSld2OWM2eFVtcS0xVDI3VHBXQ0xsNHo1VWxWR2E0OG5wZ3pJenhvOWZleEtfYUYyR3MyazBIcXNrRDIxVWR4V1pFbmhHemJEZVVFZ09BOA?oc=5"
+      "headline": "PulteGroup Inc. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSjBqcXVNZTlCZzdzVlBFZ0RvTjZKbHpmZkRFa3VCel9faWFtd1BITDFFMnh2QVM0YnhRVzdXV3lSYkdqcXRDWEtqY2FLemp5ak1pR2JrNXF4RE10aUV1QlFMSHp3R19xcm5YQlBYd09jU2g0bmpSV0lVVFc2Z2UtRmh1Z2w0enQ1QVpyemxVNlJDeVpiMUJOSWxxUWcybVdkYllQVHRBNkNKUGlMY2FvWThyRzBicVVkZ01jdEF1TWt6SGMzQk12Y0o3cFhzbFlOT2lJY0d0RHpUMXpLSXZXVnRCVzE?oc=5"
     }
   ],
   "insight": "Tracking PulteGroup (PHM)."

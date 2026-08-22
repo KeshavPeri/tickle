@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:44.328Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:56.094Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    113.94999694824219,
-    112.05999755859375,
     107.31999969482422,
     109.4000015258789,
     111.29000091552734,
     114.08999633789062,
     113.18000030517578,
     113.94999694824219,
+    113.69999694824219,
     115.12999725341797,
     115.25,
     114.8499984741211,
@@ -24,13 +23,10 @@
     112.97000122070312,
     113.13999938964844,
     111.63999938964844,
-    110.54000091552734
+    110.54000091552734,
+    110.75
   ],
   "6m": [
-    97.33999633789062,
-    95.93000030517578,
-    93.63999938964844,
-    92.80999755859375,
     90.51000213623047,
     90.38999938964844,
     91.9800033569336,
@@ -139,12 +135,15 @@
     113.12000274658203,
     113.94999694824219,
     112.05999755859375,
+    109.56999969482422,
+    108.25,
     107.31999969482422,
     109.4000015258789,
     111.29000091552734,
     114.08999633789062,
     113.18000030517578,
     113.94999694824219,
+    113.69999694824219,
     115.12999725341797,
     115.25,
     114.8499984741211,
@@ -158,10 +157,10 @@
     112.97000122070312,
     113.13999938964844,
     111.63999938964844,
-    110.54000091552734
+    110.54000091552734,
+    110.75
   ],
   "1y": [
-    78.66999816894531,
     80.72000122070312,
     80.27999877929688,
     80.55000305175781,
@@ -389,12 +388,15 @@
     113.12000274658203,
     113.94999694824219,
     112.05999755859375,
+    109.56999969482422,
+    108.25,
     107.31999969482422,
     109.4000015258789,
     111.29000091552734,
     114.08999633789062,
     113.18000030517578,
     113.94999694824219,
+    113.69999694824219,
     115.12999725341797,
     115.25,
     114.8499984741211,
@@ -408,29 +410,30 @@
     112.97000122070312,
     113.13999938964844,
     111.63999938964844,
-    110.54000091552734
+    110.54000091552734,
+    110.75
   ],
-  "lastClose": 110.54000091552734,
-  "oneYearReturn": 40.510999730978256,
+  "lastClose": 110.75,
+  "oneYearReturn": 37.202673841876454,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Wealthfront Advisers LLC Purchases Shares of 71,257 Principal Financial Group, Inc. $PFG - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUHExdzBFTlFwTE9kMDd3QjhXMWVyRkxIUjNnc2QyMnlrbEhZckNOdndqb0pBcUJNYktHeG0ySE9WelFSaXNaVXFQUnRNSV9ZcndkVjU1ZEo5WHVaM3hWdFJmMXZzM0tMR3paTVV3YUZpXy05Y0M2dDY3Vkx2aE9FOWRQMmtQT0NmMU1RU3VfLW1LeE0temhhUk5RaUZ3bjl2MnBuWmhxd3FxT2Q3RnJCa2ZLTXlpTlpHenFKR0RyY3dhM0ZobzZUMnZqbkFiWmswMDhGMWVKWnkwZ2llbmc?oc=5"
-    },
-    {
-      "headline": "Principal Financial Group Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSkFkLURzcTZhdmVWZDFtdlc0czBfZ3dtc253RzgtN2dkSDBNRHh0eXdKUlZ2YWlyODExRmU3NHVXWnAyU2xPUlRZY29PMUNVUHZqSHpRbFdIT0R1Y3BhSHJscDVzYnc3WjNPY0NJLTVpNUZ3V1MxcjlzN0FYYnVuOTdldnNzNlF2LWpTcWRRYVNfZV84a3lHcXBIdTRiaDhuYlNnLTFLRV9ZWjZ6bkNtWlRlcTc3cl9paEg4RVF3bl93UTRWSU9qejMtaEJnaVhFaDNrSWNFRmt2NGE5VnhObkhWU2drX1RHQnNJWGc3WVFNRWVJd3dtZFF3?oc=5"
-    },
-    {
-      "headline": "Principal Financial Group (PFG) Stock Looks Overvalued on Current Earnings Expectations - Yahoo Finance",
+      "headline": "Principal Financial Group (PFG) Stock Fair Value Edges Higher After Analyst Commentary - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-07-23",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamFTWUQzQUFFaUhielVjTXd6WENOakNNTGVVV19XVlN1RS1Mb1JybEx0SUtCbHB0Y19WcFlCZC1xZldQaHNqcmNpU20zbGpNbVRFS0U2bzAyYUJlVkpzcDVtMGdjUjRQVVhYNmdmZFhodzRKUU80RVZlTllmb3Zkay1IS3J2S0dyNC1QQkRXUlhlcHNFN3dIMkk1UDFubXNjdEE?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEpIOFN6RWF5cUpVejBmZWg0MkhPNmRLLUNRUzFfdENqcWRFdlhER2hjOW5sRmtHeXhCRnhqSkI0TjBIemh6UEJLUUNjLXIxenBmRjBpZWdONkNFWHc4MzVEeVI5bHlrUkh5VFpQZXhOZGFjSlJqTkZRdUdDMTF4UnktRnRSSFBqaHV1MmlraG93T1ZrZXFMR0EwMnQ1elBfOXc?oc=5"
+    },
+    {
+      "headline": "Danske Bank A S Makes New Investment in Principal Financial Group, Inc. $PFG - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPalA5cmxtUjVJOUU1dU8temg4RGtERFFqOWVQNVExUW5KOHJQenJCUFYtYnpqVUtIX2IzbnQ1bC0xQkFPUlJraHVQamlPS0NzdFpEZjVveEo5OTczWXRCTEJtM1QzWFlvS0VWMXJDRmxJcG9oQ2J6dHZMa0E2aDV6T3dnVWlKa2JrUmdVcDJxcGRuS1o0TFFzak9CcTVVNDlfWUVnRmlldDA3dFIyX25LODJhdlZJM2Uzc3loTjhKd3NjSkJEb2otMXFWdW5aZE0?oc=5"
+    },
+    {
+      "headline": "Principal Financial Group (PFG) Rallies As Fair Value Debate Tightens - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3FxMXN2X2JkRERUWnFENVBXX3hjbksxS2ZuLWNkc3JYNXNZaUZYb0RXRWFYU2RLSF9RUTJlYWNXWlBwS0Nma3FVM2JJV1lwdWJxS3huSXA1Ukk3UTJjWEhGd1Q0NWpwTEJGVnNnWHlnMms2dDNxRXdBODRtSjhMenp3RXlWTWhwNDY5aTdhMVZ5SFAyTUtwY21HR3pONGZyaENRMQ?oc=5"
     }
   ],
   "insight": "Tracking Principal Financial Group (PFG)."

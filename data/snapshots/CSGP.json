@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:14.861Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:37.016Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    29.68000030517578,
     27.139999389648438,
     27.65999984741211,
     29.170000076293945,
@@ -24,12 +23,10 @@
     31.350000381469727,
     31.3799991607666,
     33.72999954223633,
+    32.2599983215332,
     32.2599983215332
   ],
   "6m": [
-    50.959999084472656,
-    50.849998474121094,
-    47.869998931884766,
     45.029998779296875,
     44.9900016784668,
     45.7400016784668,
@@ -138,6 +135,8 @@
     30.3700008392334,
     29.780000686645508,
     29.68000030517578,
+    28.5,
+    27.690000534057617,
     27.139999389648438,
     27.65999984741211,
     29.170000076293945,
@@ -158,10 +157,10 @@
     31.350000381469727,
     31.3799991607666,
     33.72999954223633,
+    32.2599983215332,
     32.2599983215332
   ],
   "1y": [
-    88.36000061035156,
     91.22000122070312,
     90.51000213623047,
     89.37000274658203,
@@ -389,6 +388,8 @@
     30.3700008392334,
     29.780000686645508,
     29.68000030517578,
+    28.5,
+    27.690000534057617,
     27.139999389648438,
     27.65999984741211,
     29.170000076293945,
@@ -409,18 +410,13 @@
     31.350000381469727,
     31.3799991607666,
     33.72999954223633,
+    32.2599983215332,
     32.2599983215332
   ],
   "lastClose": 32.2599983215332,
-  "oneYearReturn": -63.490269240951235,
+  "oneYearReturn": -64.63495078948593,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Why CoStar Group (CSGP) Stock Is Down Today - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSXhBOEIyYVpZNWFkTEVSQlRXc2xEVjAtRXVfZ21oaklFTVdQVC1uaUlpQ1JMbF9fZW1xUWZPZlFacUJJdVlFdlZwZmYyMGxlN0hWanJBM2x6Sy13dTNSVUYxdTdDYmJ3UnJ1bUJXSE5FQUFxSEE1MkxEU1BMTkN4Z0Rqb1lHRDg?oc=5"
-    },
     {
       "headline": "Is Wall Street Bullish or Bearish on CoStar Group Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -428,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3hQUGwxV0J3N181M2V3OXVydlJvck90bi1GYVNjVTZVOWZ6SFgyeS1aMUFUWWVrbTF6QS1UV2lLRmpJeGszWmlXMWlsZG5KNi16ZUtZQVBaMTRHVTlvSDBjOE9BU3B5WjM3amRwT0dYR092S19abV9lYm1WZlJBVGxQdzN0Y1U3XzBfSzBnTU4ybkFjWW95N2J1WW5iUGlZ?oc=5"
     },
     {
-      "headline": "CoStar Group (CSGP) Stock Looks Undervalued Despite Mixed Valuation Signals - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Why CoStar Group (CSGP) Stock Is Down Today - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSXhBOEIyYVpZNWFkTEVSQlRXc2xEVjAtRXVfZ21oaklFTVdQVC1uaUlpQ1JMbF9fZW1xUWZPZlFacUJJdVlFdlZwZmYyMGxlN0hWanJBM2x6Sy13dTNSVUYxdTdDYmJ3UnJ1bUJXSE5FQUFxSEE1MkxEU1BMTkN4Z0Rqb1lHRDg?oc=5"
+    },
+    {
+      "headline": "CoStar Group stock price target maintained at $35 by Citizens - Investing.com",
+      "source": "Investing.com",
       "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQ2JBRC1PU09wRnRLcW81TldQU29ncS01dV9RdmlTTnBzbkpzYWtuYXgzcVpvalZFMmdzOXdvLWpJaVRfWjVobi1hNlA0R0xsTTQ1c2ZPUkVCYktteENSa0tlNFdHWEM3WG1TUmxRSEhmdFNIWE5xeTB4NVpxeV9CTy1VT0w1STJsOFNBaGNUdDllWmQzX1VmVDBMM0NxWG5qa1pySVZwVFQ1Z1FFUXZnS2x6dTdpMFgwUGxheEdQbFFWaW5jRFdvV0d0NVpYNHlCalBVQldhVGZ3ckFFSWN1Q0c2V3JoYmtUa3F5Qi1rdlFvUEHSAfgBQVVfeXFMUDJibWRUVHp4VndnVjV3cXA5Sk03Y1FIYzh1LTI5U09rSnBEazk2ckxaNWotTG1Pem11VE9EQ1BTdWctVU5uNEY5dE1JOWt2OEVobDdrTFpXdmFpQWV0YXZORTJkMDhqdWFYZm9zRFZ0RjBPVHN1SU9mVjBsUnRJRXZvSGJZX2ZIZWxJM0JGbUh1OHFkNHZNNkltU2RmZXZETjRQYjAwRFp2Yk83Ri0tQ0N3Umt2Nk9keHZnWHc4M3BBUTQwczI4ZGFPRnRJOFRrVnlRSnQ1dWl2cVBEcjFoQmpzWHpJZE9VU2MydDdrVkl3M2JieldTbFc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYnFmendweW45ZExTTVRBeW1zNlFSRjBjZUJ6aHBLWndkSEVnd1BmQXVHSUpjaThybkc2Tm5WTzdWS3pvWGowRW1BeXVMLUQzOEJ6VHVLRUdaeHFKM2E4dDRYVENYS3pMeXJObm9YNUotbTBSSWFJSzI3UkU5QUtuOGd5RE1DRC0wQmxFeHU1SHUxZGpzNHhZdlFuTkp6T3Vkam5rUVBzbU1VbmFLRy1mLW41RDVLRVcxdnN6Wg?oc=5"
     }
   ],
   "insight": "Tracking CoStar Group (CSGP)."

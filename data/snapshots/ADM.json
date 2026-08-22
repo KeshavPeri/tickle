@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:44:59.647Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:26.647Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    87.31999969482422,
     86.3499984741211,
     85.91999816894531,
     83.19000244140625,
@@ -24,11 +23,10 @@
     81.29000091552734,
     82.44999694824219,
     80.76000213623047,
-    81.69999694824219
+    81.69999694824219,
+    80.30000305175781
   ],
   "6m": [
-    68.62000274658203,
-    69.30000305175781,
     69.5,
     69.51000213623047,
     68.56999969482422,
@@ -137,6 +135,7 @@
     83,
     85.9000015258789,
     85.66999816894531,
+    86.19999694824219,
     87.31999969482422,
     86.3499984741211,
     85.91999816894531,
@@ -158,10 +157,10 @@
     81.29000091552734,
     82.44999694824219,
     80.76000213623047,
-    81.69999694824219
+    81.69999694824219,
+    80.30000305175781
   ],
   "1y": [
-    61.119998931884766,
     62.91999816894531,
     64.20999908447266,
     62.81999969482422,
@@ -389,6 +388,7 @@
     83,
     85.9000015258789,
     85.66999816894531,
+    86.19999694824219,
     87.31999969482422,
     86.3499984741211,
     85.91999816894531,
@@ -410,29 +410,30 @@
     81.29000091552734,
     82.44999694824219,
     80.76000213623047,
-    81.69999694824219
+    81.69999694824219,
+    80.30000305175781
   ],
-  "lastClose": 81.69999694824219,
-  "oneYearReturn": 33.671463311530516,
+  "lastClose": 80.30000305175781,
+  "oneYearReturn": 27.622386186575802,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is Archer Daniels Midland (ADM) Stock Outpacing Its Consumer Staples Peers This Year? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORDA2MWJkSGJpYnlHYzhETVRrYWhZc2o1ZlFYLVFLcm02Wkt4cnFiOTd0LUFnejFYU3ctQ3ZPOXp6ZnZoaTFBalRJdzBJWG1VOTByeGlYZTU1RlNOSk81ZlFha3dpcUk4b0xVcHFZTzdscTdHR09PN2thX3JoM2tXaTB2X09SSlVJaGFYVmgtSy1lNjVIdTljb2ZadHNzUQ?oc=5"
+    },
+    {
+      "headline": "Archer Daniels Midland Co. stock underperforms Friday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRXFlX1Z5UWx3Q1p6cFRfeTlNd1JCaUU4WEI5Q1VxTV9fVlBCUHM5NWk2TXJRUFRSdUhZNjFCMlZWTzZmdUk1NlpqWEpocmVpeERWdXUteDBzNm1nNzRVa2pXMUI5TUxURUhNVENVd3Z4OWR4UjJWeU8yOEd6VFcwYUtZWFNlX0dhZ3daT29ONzBPSk1faTExQVlRbmNVWC1CbFlyaUg5UHNxcTJQamZ2OUgyVks2cVZudEhxaGZKMkJUQ0xHRkpKMF81T1lsRnJIbUJBel9RRDRDU09OcUUzVHRaLW1XajhsTElPUEVxU3Q?oc=5"
+    },
     {
       "headline": "13,976 Shares in Archer Daniels Midland Company $ADM Bought by First National Bank of Omaha - MarketBeat",
       "source": "MarketBeat",
       "when": "2026-08-20",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQVFudlloMHAxalBjbzdnS2hGSWU1SDJvVU1vMXVUelQxVXBlLVUyNW5Fa1J1d0NYOXBEaTZnT3ZNbm90dE0yc3JGZlVYSmtveTBFZTFyUi1pTWJSSU5reHZGMEY2dDVMaXRMbnc2V3FNN0E0bXRLUk11UUFZYk5laUxLUWlEZ19YYVU2alhRUGNvLVRWSlluODd1c1BSTTZ6MWwzWTdpZ3lRSEJJYkNpa0hvS0huNGtKZnZKUlFNNVF6bm8xZXI2dUUwZDd6eUFYOU5VTUFFQ2czYmlIUzAtczB5Rjc?oc=5"
-    },
-    {
-      "headline": "Archer Daniels Midland Co. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTEZnV0RfYmVqOFFzWU5CS2Z0ZDNfSVBTNmNHS0NrRkFPZjQ4bEFrMjBId1lrUmtPSEVCOUNydENLUWpBaGRDcnpNX3ByQXR6SVdpUWdOUVNLRjlOUmo1bHBSdE1vLVVPZHFwRG43YTRISVVzSEY5SU5BX0tGdE5mLXVnMHVuUWVNaXpNYnBpUEdWWWhqc1FuRTJ2d1JVQzZQVEJ3eTdXUjlzdzlIOEVZaVlFUHdVZVdDaUVjamJaTFBfSF9xS2tld1NteFI4Nm9HTU41NFFOSnI5ZFBRY25PY2hTN0IxcU90eWZ2bGhZUHlBRFB4?oc=5"
-    },
-    {
-      "headline": "Archer Daniels Midland (ADM) Stock May Be 36% Undervalued After Raised Outlook - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNlB1dVlWWDFhaEliTWc0anlzTklFeXNqYklwYUUxZ0hNaXVmM2RlaEFfVlZ6amdBNlRZaFUzVDVGY1FjeUphQTJISFR5LWpxWVZWNnFjR2Z3YnV4RVhsdmMtY2x4OUhHVzg1WE1IX3lpd3o0M1FYRE93QUlzRUlvUTJKNEhUX1BOVS1WTTFma0xvdWhSZDZkS1Q3YUhTdw?oc=5"
     }
   ],
   "insight": "Tracking Archer Daniels Midland (ADM)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:41.417Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:54.088Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    91.87000274658203,
     90.41999816894531,
     92.08999633789062,
     93.94000244140625,
@@ -24,12 +23,10 @@
     96.68000030517578,
     96.70999908447266,
     96.3499984741211,
-    97.55000305175781
+    97.55000305175781,
+    98.22000122070312
   ],
   "6m": [
-    86.30000305175781,
-    82.51000213623047,
-    80.41999816894531,
     79.01000213623047,
     79.47000122070312,
     80.23999786376953,
@@ -138,6 +135,8 @@
     94.25,
     91.63999938964844,
     91.87000274658203,
+    90.23999786376953,
+    90.9000015258789,
     90.41999816894531,
     92.08999633789062,
     93.94000244140625,
@@ -158,10 +157,10 @@
     96.68000030517578,
     96.70999908447266,
     96.3499984741211,
-    97.55000305175781
+    97.55000305175781,
+    98.22000122070312
   ],
   "1y": [
-    93.95999908447266,
     94.75,
     94.31999969482422,
     94.9000015258789,
@@ -389,6 +388,8 @@
     94.25,
     91.63999938964844,
     91.87000274658203,
+    90.23999786376953,
+    90.9000015258789,
     90.41999816894531,
     92.08999633789062,
     93.94000244140625,
@@ -409,29 +410,30 @@
     96.68000030517578,
     96.70999908447266,
     96.3499984741211,
-    97.55000305175781
+    97.55000305175781,
+    98.22000122070312
   ],
-  "lastClose": 97.55000305175781,
-  "oneYearReturn": 3.820779057328047,
+  "lastClose": 98.22000122070312,
+  "oneYearReturn": 3.6622704176286276,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Nasdaq Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "NDAQ Stock Price and Chart — NASDAQ:NDAQ - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDbWdDVllaRUVfU084WGo2WjJLMzJQc3pXdGNCVzZ6SjJvVVVvNEtvZHpOaVpNM0ZHSGlLT0NBcTFqYlRONEFlN0IyRWZUclh6TF8tb2NsTmxwVEpX?oc=5"
+    },
+    {
+      "headline": "NDAQ Stock Quote Price and Forecast - CNN",
+      "source": "CNN",
       "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT1pUNjVMbHFsMGhBMGYzb2RJOEg2QlJwX0sySGNTcS1aT3pJMEp5NE13M0VtamRWck5jTVZndUtJamNzVEhuUGlNRkNMaFY3OGNtWnFDMDM3S3hoQzByaWhaSTJ0emp4d0NlMU4wWXRpVXhxeU5YdVkxeEpvS1lETDc0OEpEUnVyQzJoOV9GVnR5UHFhY0pzOVhZZ21Kc3VKMFczVWVrYWgybUh3WDI2Q3o5VXZBWDFsQ3dGeHZsaXpON0NPendLeXdZdGZoOG5yVDJfNzV5UVBmLTNXYlhJRmNmUkZHRXVPaVpaclVjb2FqOEtNeW5rbTZR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sSlFlaGZfR0QyQklzWGh4NjBMdVFwZllYWUN0NzZ3MklUa2ZUR05fcC1pQXFZZ0M3Tm9KSEt0dVkwLV84Ulc2UWdGSlRTSWRi?oc=5"
     },
     {
-      "headline": "Nasdaq, Inc. (NDAQ) Latest Press Releases & Corporate News - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VWXU1UEp4eVBrODBfZmRGaGtQNmpuRm5HdEtKaTZwa0NmblowWEV1SFk2VlYzUHpRYUNpcjBDV25qRlZDaHc4Vk1TaTRPbkRaYldZOTlTMGgtc3MwM2pocVNn?oc=5"
-    },
-    {
-      "headline": "94,245 Shares in Nasdaq, Inc. $NDAQ Purchased by Edmond DE Rothschild Holding S.A. - MarketBeat",
+      "headline": "Portfolio Design Labs LLC Makes New $1.46 Million Investment in Nasdaq, Inc. $NDAQ - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc2p5SkFCX3dWQ3E0RHE0NElNdDZpSDF1bklCemUwenZYNzI5SW83ZVZSb1NXZ3daNks5YXFTRUlGR2tSbmkyNkt3VXk5T0VNNnltRXdwOTFSWFY0MVNScm4tXzY2VFZZa2t0Rk9jaktXUXpKRFRSd29ZeThqQWo3Q0lwWVViOVlvS0xydW5UdllBWUFsdTJGSFowNzJRSDV4eEtOZGJMdGZjR3I2cjAtNlRORk9UZjhuRm5waGFHcEtUOERDLUh1X0ppR0RzM0VNQ0d3?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMG1uOHR1RXQ1ekw3aXpQOHVDd25GdXh3T1lHSlBjMEI1c2ZydGt1RUtqV1dQUlByZVA5SWRhb3gyeUhDOXo5VEptYUQxdGNtdGpzeVRYU3BUSmw2ZWtTVERvWS1MT05PNElGVkxOeTF3NzM5Q2Z0bGhVeUg1ZGJFVlNQWFFIbkVYZnYweFBaYlk2TlphTUFKZnF3RThKUFBCbzY1dE9lUkVTWFpzS1QyLVdoX3h1cGRSdjFoZDVRYWpyWGNDV180MHRxQk5CcmdEc2JmdQ?oc=5"
     }
   ],
   "insight": "Tracking Nasdaq, Inc. (NDAQ)."

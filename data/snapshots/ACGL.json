@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:44:59.066Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:26.187Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    101.83000183105469,
     100.0999984741211,
     103.36000061035156,
     103.87999725341797,
@@ -24,12 +23,10 @@
     97.80999755859375,
     98.91000366210938,
     98.52999877929688,
-    99.30999755859375
+    99.30999755859375,
+    99.38999938964844
   ],
   "6m": [
-    96.05999755859375,
-    97.8499984741211,
-    98.61000061035156,
     99.8499984741211,
     98.37999725341797,
     98.87999725341797,
@@ -138,6 +135,8 @@
     100.04000091552734,
     101.3499984741211,
     101.83000183105469,
+    100.55000305175781,
+    98.62999725341797,
     100.0999984741211,
     103.36000061035156,
     103.87999725341797,
@@ -158,10 +157,10 @@
     97.80999755859375,
     98.91000366210938,
     98.52999877929688,
-    99.30999755859375
+    99.30999755859375,
+    99.38999938964844
   ],
   "1y": [
-    93.54000091552734,
     93.41000366210938,
     91.87999725341797,
     90.9000015258789,
@@ -389,6 +388,8 @@
     100.04000091552734,
     101.3499984741211,
     101.83000183105469,
+    100.55000305175781,
+    98.62999725341797,
     100.0999984741211,
     103.36000061035156,
     103.87999725341797,
@@ -409,18 +410,13 @@
     97.80999755859375,
     98.91000366210938,
     98.52999877929688,
-    99.30999755859375
+    99.30999755859375,
+    99.38999938964844
   ],
-  "lastClose": 99.30999755859375,
-  "oneYearReturn": 6.168480421843363,
+  "lastClose": 99.38999938964844,
+  "oneYearReturn": 6.401879341714205,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "If You Invested $1000 In Arch Capital Group Stock 5 Years Ago, You Would Have This Much Today - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLTN6YTRoUWFvaUFuTjRYc19MTEI4V2xDR0lHU0o0OUxTaHppWnd1dEoxUXZDOEg4X0NtYXRyaTVYUmFQTktRd1Z5WEJsdlFSNDZYVHI1MzFCbjBWN1p3QlVCV3lqZ2pGSktHbG5XUzA4U1d0TXhYaHpOY2FvOEt6WE54bFBDcDdHUHBxOFptSVhaWFptVG02TGhMV1lVTEpHVkQwd0ctV3oyYUhYYVhoV2RrbXlQU0ptRTI2LWNwU2ZxRFJrYUpF?oc=5"
-    },
     {
       "headline": "Arch Capital’s (ACGL) Valuation Supports Strategic Capital Allocation - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -428,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmRreTRpZ3Vkc2dZeHhjTXZKd0RoRWVQSXBCR1QydzVGaDktOElmY3EzR0JmU0xzV0dFU0xkZ2dPOEZnWVg2Yl9xdWE2RG5EUkNsSi1oNzI5V04zSmJrMy1sdktCajllT0dKRnBJUHFIN1U2ZTVzUlIzTGlrVFJiNjI4djJwYWdfOFpQYWRsZ29SM3QtRmxBWVF1Vm1vTkd1S2Rv?oc=5"
     },
     {
-      "headline": "Arch Capital Group (NASDAQ:ACGL) CFO Francois Morin Sells 11,010 Shares of Stock - MarketBeat",
-      "source": "MarketBeat",
+      "headline": "If You Invested $1000 In Arch Capital Group Stock 5 Years Ago, You Would Have This Much Today - Benzinga",
+      "source": "Benzinga",
       "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZVNjU25iVnJENFBWOS01TUxBLUlnd18zZ1E0dnBHN1R3bEg2OE5HNU5hOGdISVBoVzNORVpmU1ZVZDR4RmJQR2dPZ2MwM0xiclVUdlVrdGdBQ0NUa0Qtcm9Ob09PbGdDNVNBZkVIdmVkUm5RSzJEQnhyc1hEc1Z3TzVhc1MzN0JENTBwZkplSkR1TTRPX1FzVVU2WmRHclFhaHZvQTBiS2J0WWJSaXJKanpDNVZSbGkzY0ZHYTcxVWctZ0FKYVJNOU1R?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLTN6YTRoUWFvaUFuTjRYc19MTEI4V2xDR0lHU0o0OUxTaHppWnd1dEoxUXZDOEg4X0NtYXRyaTVYUmFQTktRd1Z5WEJsdlFSNDZYVHI1MzFCbjBWN1p3QlVCV3lqZ2pGSktHbG5XUzA4U1d0TXhYaHpOY2FvOEt6WE54bFBDcDdHUHBxOFptSVhaWFptVG02TGhMV1lVTEpHVkQwd0ctV3oyYUhYYVhoV2RrbXlQU0ptRTI2LWNwU2ZxRFJrYUpF?oc=5"
+    },
+    {
+      "headline": "Arch Capital Group Ltd. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMEh0czNiX2ZvcGNCQVBQZVFpLUd3QV9PbXJ6MzNHSUtIR1h6Z3lLQWI4RWltM1U3bkxPWDhPLWkwQzlWR1k1b2tEQ3hPeGRKaVAtSEp5TGM0bVFRS21GTGo5NjhGTmtLTUJ0VF8wMzVlZk10SXBRdmR6cS0wYlFpTDRhT01nUVhqN0Q3WlI3eHJreng5U1JhTGQ0a3dtMmUwUkxXcnctb0tVT2VMMWhkdjkxUkNqcVY4LWtUMnU0YnBFWkp6UnloZjlCeGItUVBVRjZpODR0Y0VLNmtfMXR1Q2xPTmxQbzQ?oc=5"
     }
   ],
   "insight": "Tracking Arch Capital Group (ACGL)."

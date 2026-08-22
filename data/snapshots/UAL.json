@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:52.013Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:36:01.583Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    117.26000213623047,
     115.3499984741211,
     118.2699966430664,
     120.56999969482422,
@@ -24,11 +23,10 @@
     122.26000213623047,
     118.72000122070312,
     115.77999877929688,
-    111.70999908447266
+    111.70999908447266,
+    113.16999816894531
   ],
   "6m": [
-    116.36000061035156,
-    113.94000244140625,
     109.30000305175781,
     109.29000091552734,
     114.0199966430664,
@@ -137,6 +135,7 @@
     118.80999755859375,
     115.41000366210938,
     117.5199966430664,
+    117.69999694824219,
     117.26000213623047,
     115.3499984741211,
     118.2699966430664,
@@ -158,10 +157,10 @@
     122.26000213623047,
     118.72000122070312,
     115.77999877929688,
-    111.70999908447266
+    111.70999908447266,
+    113.16999816894531
   ],
   "1y": [
-    97.19000244140625,
     102.9800033569336,
     102.33999633789062,
     104.12999725341797,
@@ -389,6 +388,7 @@
     118.80999755859375,
     115.41000366210938,
     117.5199966430664,
+    117.69999694824219,
     117.26000213623047,
     115.3499984741211,
     118.2699966430664,
@@ -410,29 +410,30 @@
     122.26000213623047,
     118.72000122070312,
     115.77999877929688,
-    111.70999908447266
+    111.70999908447266,
+    113.16999816894531
   ],
-  "lastClose": 111.70999908447266,
-  "oneYearReturn": 14.939804793008621,
+  "lastClose": 113.16999816894531,
+  "oneYearReturn": 9.895119906621785,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "United Airlines Falls as Fuel-Cost Concerns Likely Weigh on Airline Shares - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS3NZRWxKdWFrOFFYcUdBd21lbGFraHNWR29GeDd6V1MtRzNRRzE2Vm1jMkxIeThIdnZMNnZvRFp3V1pkWVFzeGFiM3RWd0RBb2tlT3NjVlM0U1JGNWZqWVIyd2tiaFd4WnlYVmtrcnQ3NXhGRkRpNEs2S2RZMEhqaEtHUUVBcXMzdnF2d2UtY3JkTEt0OFlBdkpsYnVvT0dTU1Y0QWltbWdkdmM?oc=5"
-    },
-    {
-      "headline": "United Airlines Holdings Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "headline": "United Airlines Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOURQZUs2OXNabjJMeDBRQXVfYjlXal9NQ0FqS0VkZFNiaGFqYjhvRUxDT3ZqSkZnZ3piM2JrV1JfZDNVSGlma1NzTVdZN1dSbFpGQThZTE05WlJQMlo1MXo3VHNVN0l6eFBZMGVEQjZ5TWFWa2lZSEVyLUNRbXBiMGxSdG93SzFVWlBOWHJUYk1lSThoeWVJRXVETFhMVVdZRTNUMkJlUDRPazl3QkFiUDV3aDZXcU50Z3k4dGJGeG5aY2ZpZGZrSXpfSGdMbU5uS3ExSk5ieGYtR3IydWNvakhEeW9uNWtGSmZTWTU5V0FVb2g0?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaEpWZnU5SzV6dlRUR1F1MmFCazQ5Zmk2Y1JOc3NaUno2RGpEYkNTLUxDRG9nVWpGaG41eGNRQlJlcXVhWjhLMmNtVzJGbnFNVmdYSlF5SjNTTlgwQ2NZZk0yVFAzZUN5dFZRVldCdFVyaXg1V1pWbl82bEkxazhPRUNES0xnbm5McHVkd2h0M3BkRllJalpwcFNXcWJLRnE0VmUtSzRFTGJxLVRDSEMzYVpwSmpKaFYyZmpnR3Eyek1CeEpWYTdsY2I2REJ2SXF4V19XMWk2Skc5S184dU91WmJuZ0VJNFdfNVl6MmkyNA?oc=5"
     },
     {
-      "headline": "A Look at United Airlines Holdings Inc (UAL) After 3.5% Decline -- GF Value $93.47 vs Price $111.71 - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSGdXS05Ib0RVa240RWpjc3MtLVhMaVY2WkY4TUVJYm9YLXdBSlV0ZDZkcXhUWklVX2d3dTM2dFFpRHdqN1BnR0lQbkc1UngyZnk1Q1FzRVBBemFWaml6T2NweXVITGY4Q1BGaGVYZGlCNWU2cm1wQjh0N3VyUWdxT3NaZ0xPS0t5WHNrQkdCSlhqNm9wZGRZTEF0SkxSajloRWhwdm9uWktIa0dibVdhZmN4TGh4RzBYS0RJZVRsMERLSmlGaUE?oc=5"
+      "headline": "United Airlines (NASDAQ: UAL) director gives 50,000 shares to charity - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa0wyMVQxZnRZU0E2NEJuNDN4eU43bWhBVmQwZjdlMmV3ME5rUW5NOW5iR3JoMGd6a2pSd29pU3d5cTVpcmVkVU5SSkpEY21QQVJ2aDZvVGg3TVQ1WmlpR0U4RFk4SUVCdlQ3VG0zZkRfSWd3b3VPX1pINVRQZ1lHc2JTMXc4RmtGalJmOXFvTzA5M1NwbWRFWXU4LUk1U0phdmt5Q0pMWlFKYTl5ZVB6WGxSUkdaSklBeHJoSW1B?oc=5"
+    },
+    {
+      "headline": "Meeder Advisory Services Inc. Buys New Shares in United Airlines Holdings Inc $UAL - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQ1Z4NFdPMU5jSl9GaXQ3TXpnb2IxaS1EbkJhVWstakVSV0Zib0FRN3dRMldqQi1lakxVcU1sTUxWdWFlZW9sUUFOWWVzU2hRTC1XN1N4VkZJdHJocUpmQkZaU0tocEE4dFhhd0c1NE1Pd0Z3Tk1WQXpsZWZtTkZVVWpJd3A2VENJbzNwWDVQY0RNaUZrc0xNUnN3dUFmdEFZMC1rNEtKZGRORnJ2elBZQkx4cjgtQXhxSHRlak1DSmdxSlowek1hT3F1MlVITGljOEZCTDBVc1U?oc=5"
     }
   ],
   "insight": "Tracking United Airlines Holdings (UAL)."

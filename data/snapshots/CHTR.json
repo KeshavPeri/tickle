@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:10.978Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:34.241Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    131.3699951171875,
-    129.16000366210938,
     126.5,
     123.30999755859375,
     131.61000061035156,
     139.97000122070312,
     145.1999969482422,
     142,
+    144.97999572753906,
     144.10000610351562,
     153.07000732421875,
     153.1699981689453,
@@ -24,13 +23,10 @@
     144.10000610351562,
     148.35000610351562,
     152.47000122070312,
-    147.75999450683594
+    147.75999450683594,
+    150.1699981689453
   ],
   "6m": [
-    231.13999938964844,
-    238.25,
-    248.19000244140625,
-    241.07000732421875,
     238.0800018310547,
     239.08999633789062,
     237.00999450683594,
@@ -139,12 +135,15 @@
     133.3300018310547,
     131.3699951171875,
     129.16000366210938,
+    127.79000091552734,
+    129.22000122070312,
     126.5,
     123.30999755859375,
     131.61000061035156,
     139.97000122070312,
     145.1999969482422,
     142,
+    144.97999572753906,
     144.10000610351562,
     153.07000732421875,
     153.1699981689453,
@@ -158,10 +157,10 @@
     144.10000610351562,
     148.35000610351562,
     152.47000122070312,
-    147.75999450683594
+    147.75999450683594,
+    150.1699981689453
   ],
   "1y": [
-    267.9800109863281,
     277.5799865722656,
     273.44000244140625,
     266.6700134277344,
@@ -389,12 +388,15 @@
     133.3300018310547,
     131.3699951171875,
     129.16000366210938,
+    127.79000091552734,
+    129.22000122070312,
     126.5,
     123.30999755859375,
     131.61000061035156,
     139.97000122070312,
     145.1999969482422,
     142,
+    144.97999572753906,
     144.10000610351562,
     153.07000732421875,
     153.1699981689453,
@@ -408,10 +410,11 @@
     144.10000610351562,
     148.35000610351562,
     152.47000122070312,
-    147.75999450683594
+    147.75999450683594,
+    150.1699981689453
   ],
-  "lastClose": 147.75999450683594,
-  "oneYearReturn": -44.86156114294122,
+  "lastClose": 150.1699981689453,
+  "oneYearReturn": -45.90027904268602,
   "marketCap": null,
   "topNews": [
     {
@@ -421,16 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWWhsYnhqNWctdW8yYTEwbFRGLWZBekFqeGF2SkxoX25RTldoUFV0YTgwa000eWdKRy1aT0hTR3ZrTHNEbFZGYUc5NTFZS2x5ajctMndCR3E3SjMyaEdLUXZiZjFheDE0VU5WeDg2Y1FUQmk3RktXWkh3ZmFvekYxRzdaSEhBdnhYX1FybXFKZl9waFNa?oc=5"
     },
     {
-      "headline": "Charter Closes Its $34.5B Cox Deal. Why the Stock Is Sinking. - Barron's",
-      "source": "Barron's",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQTUtzVkR6SkdYZFBuWjVIekZ1UjlOZzdvVjNLQU9uV3FTSUEzUFhoeUY0S3dfdGY3RHpsdTRDeEtuZVQzOHVPSk5pMHkySHhFYjRlSTFBcHlhZVJ3WS1iQmVvZVc2c3RMemM4NUFta3dzd3FQLV8xa3lB?oc=5"
+      "headline": "CHTR Stock Edges Higher As $1.4M Insider Buy Stokes Retail Interest - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeG5rU09qRmJZT0RHZERpdTB1VWxiSUNfQzU0N0pHSU5hU0dRZG5FVF9zQk9xV1poaWlUYS1OR2VneHRIY3lVMUNlMThGNFVQRk1rRzR4QXFMa3NQcEJNUThCN2VmT25hSEs0NWN2ME5yaG5MNWNuemhsYzl3ekxrVmV3SmcwLVFKLUFxOTUwT1ZoVnJDSWtDX1NrMkVMZlMtSnJLZWU0Qnd6NUwzWUk3VWRpSFZmc3dQTEJLZjFqUGZ1V2dLMmY3SkJ3?oc=5"
     },
     {
-      "headline": "Why is Charter Communications stock sliding today? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGl5eWtyeGMxYXByR3lfdjRkU015VmJVaHQ5WnFSNE5qb2xWTzdGT1FLOG4zb3JYQmlzcGVpVklzc1NBMHpOay1kT1VzQ0FUVkhQMWJDNmtER0RDQV9lVmoxd3FsQ3RhSXhBVGlEY09feEFXWXhMTUFsS3NkZ0IwSTYtdkNwdnZCYUJ6cF9QenBKaHJQdHRIMHIwVUQtVTY2cVRvUGpXNXpTYXBrQ1NmeA?oc=5"
+      "headline": "Charter Communications Inc. Cl A stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT3Q2cENOamEtMjZ0M1hfN29UOGFWWG81NjA2dy0xWHdjSUNXWWExSEdENFNyWDNEaVU1WjN4U3V5RXVYMllIcUdzR2FNVEhBTXRoRHZJcjRjNkhLbFBnbVdiSW90V1pBWW4yb295RGNOMHFRNkdKRUxNYzY3OFBiTnYzcldWaWdHS29YVWVfVmZNeFdlQ2MwZXNwOW53aGQzUE5LXzdxLWU1UDg1SmhfZy1NZ08yYkVrSDZKbWpuWFZjV2xXUU1KWVllM3ZpY2RHeE9QczZqMG1nOFE?oc=5"
     }
   ],
   "insight": "Tracking Charter Communications (CHTR)."

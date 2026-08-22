@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:26.168Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:44.089Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    60.9900016784668,
     60.619998931884766,
     62.310001373291016,
     62.91999816894531,
@@ -24,12 +23,10 @@
     60.63999938964844,
     59.45000076293945,
     58.900001525878906,
-    59.400001525878906
+    59.400001525878906,
+    60.08000183105469
   ],
   "6m": [
-    60.70000076293945,
-    61.91999816894531,
-    58.709999084472656,
     56,
     56.900001525878906,
     56.810001373291016,
@@ -138,6 +135,8 @@
     62.45000076293945,
     61.779998779296875,
     60.9900016784668,
+    60.66999816894531,
+    60.25,
     60.619998931884766,
     62.310001373291016,
     62.91999816894531,
@@ -158,10 +157,10 @@
     60.63999938964844,
     59.45000076293945,
     58.900001525878906,
-    59.400001525878906
+    59.400001525878906,
+    60.08000183105469
   ],
   "1y": [
-    47.7599983215332,
     49.310001373291016,
     48.5099983215332,
     48.5099983215332,
@@ -389,6 +388,8 @@
     62.45000076293945,
     61.779998779296875,
     60.9900016784668,
+    60.66999816894531,
+    60.25,
     60.619998931884766,
     62.310001373291016,
     62.91999816894531,
@@ -409,29 +410,30 @@
     60.63999938964844,
     59.45000076293945,
     58.900001525878906,
-    59.400001525878906
+    59.400001525878906,
+    60.08000183105469
   ],
-  "lastClose": 59.400001525878906,
-  "oneYearReturn": 24.37186686226842,
+  "lastClose": 60.08000183105469,
+  "oneYearReturn": 21.841411798453713,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Mitsubishi UFJ Asset Management Co. Ltd. Takes $43.97 Million Position in Fortive Corporation $FTV - MarketBeat",
+      "headline": "Fortive (FTV) Raises Its Dividend, Is The Stock Already Pricey? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFF1Z1ZOTnU0d3MxNGJYaUxMclBVbWt2Wmk0Znd4UDFwbnNidG9RQ3daZjAxYlpweWJ2V2FEUVVWTTRBMTFmSnkxV2dyS2luY3U5WUlRZk5YVW53ai05WVNlUmhzUEQ4dS1HZjU3ZmFNdzBORS1aRXVpNl9yVXctdWJ6MkU1SGxLNE50RjJFVl9FRE5ZelpBSmlQNDV6bWM?oc=5"
+    },
+    {
+      "headline": "Fortive Corp. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOVZsWUs0bTRDaVY1cjkwS3hrRTlFV20xRUhSQjZZYkZXSktQTWZxOXB3NjlBbG41M0ZTeFN3TnQxM3J2Y1hPczFETnF2UkoxVzRCUGd6Vkg2dTdyTWxXZDJ6N3kySkgwQkFITkhINDc0VDlHZ21ReDR5N0NRbV9zNDl2VE93UFRPREVSWWJXaGpVdkh1ZzJHUUNCUkFraUs2N3oxX1BPWVUxbnpxekhfMno2Q080UFo0c3ljeGREdHJQekp0MzJrLXFtMkdCWEFTZkZnbjJzcFFjN3hYNlRjSGVR?oc=5"
+    },
+    {
+      "headline": "Fortive Corporation (NYSE:FTV) Announces Dividend Increase - $0.07 Per Share - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMThiT1ZtRnU5NnQyZnBsOVVsX2JvSUtUVGl6WkNKcElOQVNEX1phUzc5NVdacmQwZDZyczFNcFpiVW1xT3FMX0FpRk5JUDF1Z1NLRGVqcUxUdWlfazMwV0QtM3JFODRIdnk1Q1NyM0FWN1FUbHNacVlKN1R4RkhWbW5vOFh2TmhuQjdTYm9GY2FScWEzNUcxUlpLYkJEc2hjSks4a3p0Z0NPX1pQN1NJRHlSTm9qUkxSU2hjcFpJZjdHTS1lOHBsNFZzQS1kUENsWlItLWJXNm51YnVWYmVSbjExS2dyaUtFYUE?oc=5"
-    },
-    {
-      "headline": "Fortive Raises Quarterly Dividend to $0.07 a Share, Payable Sept. 25 to shareholders of Record Sept. 4 - marketscreener.com",
-      "source": "marketscreener.com",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMDZhM2Q2ZHNYdWZtSV8zRTJLYl94dUY5dHBSZWU2ckpZZmVNQWs0VXRXbUdOMDNpdUgwcTNJOURlbVUzdXhvM3ZFOE1sVzdBUk5jdUFKVkREWUhoRXdlOFFBb1h4QW9hMGwtRDlJcHFrbEQ3V2ktZFYyaTRwazlXLWt5R2FvUFJkdXBIWndWYVRtX0dUTW9uZURzU2ROV21QM0VDMG1RalRLaDVjNUpQVDFvWXhod1BKSHVnYzJFTXJ2OGtYM0lhQWtQWDJRbG1RWDdUQVhnSFI4RXpxOTFEV0tjaw?oc=5"
-    },
-    {
-      "headline": "Fortive (FTV) Stock Looks Undervalued On Cash Flow Yet Overvalued On Earnings - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaXZTTlg0UnFXX25IeEZPZm00TUZXZ1BFUVkyNnJOZE5wblBQWHhPS1I0LXMyZUM3c3FtSjZpXzBhck1fbTFKQUdfRjB0ZE5GcmZKeXk2MmpNRDZHOXFTRmFqUlRRUUZXazQzSHZkekVxZ0dfSzY1ampnc2FLdXpieEF6X3ROYkJGV0FoUjl3aU9UZWo5eUNVa05makRwcjNra0R6RkpQZTNrM0xnWV90SDBzUThaMmhmWE5VRkJQTDVjVTFBRXdN0gHMAUFVX3lxTE81SkZXQW8yQ0g3MU9WeUQwTGMyZ0U5Umc4elRYa3ItdkRxdU9NbWRQRjM4aDBzbUtoT3VUcUxSeks5TEVOR2thZW9US3ZLWC13QXhwdmhaQjVVNmcwR3J1ekp0NG1wclpWcU1PWGFPejQ2Vy1ZWHlhanl4eEdtY0dlbElacWZmb0xBN2c4Q0NFdUx5V0N2eWxiX0dXWF9nZmloZGhNVktLTnh4bnF2b1poSDVNeEhTRlBfZjNUdW5qYXFmeUd6a2hlMUVNRQ?oc=5"
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanJwUGo2bEZMRHltT3NNU0ZOVFFQZ2RycGtaVjktVThBUVpvWUotTEd1TXpTZUJ5QUE3MTdteGluNUk0ZkZVZy1rWEpLQ1pTMENqMGFzcjFyQnNwaE02eDhPUkxjdDREU0h5TGNrRmFJam52LUVwSnQzdFJ4dDFrVEVKRlEwNmZ2NWdqY0pPM04yLV9xU3oyYUhxX1pjbjJ2T0FWcDRvbjBoWm80MTB6XzE0YTRRNkFJVjhKcXpTcmo?oc=5"
     }
   ],
   "insight": "Tracking Fortive (FTV)."

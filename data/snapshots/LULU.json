@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:37.661Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:51.488Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    113.37000274658203,
     110.62999725341797,
     114.27999877929688,
     117.83000183105469,
@@ -24,10 +23,10 @@
     115.73999786376953,
     119.01000213623047,
     119.44999694824219,
-    115.69000244140625
+    115.69000244140625,
+    121.06999969482422
   ],
   "6m": [
-    175.86000061035156,
     169.52999877929688,
     176.4199981689453,
     177.72000122070312,
@@ -158,10 +157,10 @@
     115.73999786376953,
     119.01000213623047,
     119.44999694824219,
-    115.69000244140625
+    115.69000244140625,
+    121.06999969482422
   ],
   "1y": [
-    198.17999267578125,
     207.58999633789062,
     202.44000244140625,
     202.52999877929688,
@@ -411,12 +410,19 @@
     115.73999786376953,
     119.01000213623047,
     119.44999694824219,
-    115.69000244140625
+    115.69000244140625,
+    121.06999969482422
   ],
-  "lastClose": 115.69000244140625,
-  "oneYearReturn": -41.62377297557331,
+  "lastClose": 121.06999969482422,
+  "oneYearReturn": -41.678307321822636,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "lululemon athletica inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN2hkNXRYTHVyQzFMNUZyWnRua3BHdXNyM2JpQWUtSzh6MWVoYlBpMHJFcGFTSFdPTzdhdE5LWUQ5dW83eUszMWYxUlFmUFNSSVpPTGZsZWRJcE9ueFA5Y3ZKODRVYjl2MVdfRldIOWZfdU1tVnNvMHJIQU5qRUVsa0t5eGw3bFRzb0lVWm05bW5lS3VvZXF1U1FYZ3dvS0dyQlFESnpPZERfenpROGh2eHlYMENITTYwQmtWLU9pdUl6QWJIWmhkTG5iSDBieHI1?oc=5"
+    },
     {
       "headline": "Lululemon Athletica (LULU) Stock Faces Fresh Pressure After Soros Fund Exit - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbm9FUEc2MV9UZUkwMzFNUUdKclFodW9qZlJxVWJramo1YjdRWkVfekVodjJmQUhhQkxaTkNSZjhCNFVqajZtblpBdV9ScWhvS0xNcHZhLVBUZFlaYVcwMTNVQkI0ZXNYM2wyOWpLRWtad20zbzVqUlhJWEQ1b0kzbXNuNWFJNEZBSlcydExxQjZrNVRvSGNLT1NpOU9MX1dnUDY0?oc=5"
     },
     {
-      "headline": "Lululemon Shares Slump Amid Sector Sell-Off, Soros Exit - Benzinga",
-      "source": "Benzinga",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaV9wSU5TMndoQWdtM2FkUlBWV01kYWZMYzVmNmtkeHUyTmp6clN5WFZteUpvQkNYOF9nc0N0R3M3cVpQaW5mblNEcm9kZEQtNHVaUGJXUDB3VXc4YjNrR0w0NEY0bnotN0JPZkRuUWRVcWhqNWFPeUVCaU5Ra2RBWktGcjZYYmtQUjUzaTFFa0pfTlpZckJ1QXBTMkZIak1hai1Nc2VEN0I5ZlBFeF9GRnVYMmdoZw?oc=5"
-    },
-    {
-      "headline": "lululemon athletica inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
+      "headline": "Lululemon Athletica Inc (LULU) Stock Down 3.1% -- Now Undervalued? GF Score: 77/100 - GuruFocus",
+      "source": "GuruFocus",
       "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRHBkdEtKYk12bDhMNFkydlNwaUlPYkNsOVJzdkdTZ24xcVFiLVFGQjVYQ0R3bVhpYzJvUVNxQTUxVWpjU2RNcjM1c2dfaWJMQk1DaDNTYko1QlktdnVJMFd5UENfRGNzMktXYUFFcWxUeXRzZ0lwOFpobjdrYXI5NDBkeDFNUGtGQWwyejc2WHpiRWs1V0ZBRC11WEY5MDdrSVFTT08tQUJ3MGlUYkdHT2JWb3hGd21VLTlxQVh5Vk5ralJDUjNKMklTQXNTck9vMzY0UWxJc0ZkdGtHWGFfSGJFZXlzNTB3aDc0ZDN5YW4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMFdlWGVWcEZlOGxWSk9hMmtpVUJOVFJtZVFDM19qaC1FangxXzVxMXBYZXNIQmVydUZqQWNZWFVqNFZxRmpQNU1vQWNha0M5WnZjUjN5Uk5DSG01UkNwd0w5RS1pdUpENWlNam5ZZE9fWThkQlk3QUVHb1c0WThmcExiR21YWjF5YjN0ckY3MGFISXk5VUo5b293a3d2ZmNuamdUYTh5NU5sNk1RVHNBUWN3?oc=5"
     }
   ],
   "insight": "Tracking Lululemon Athletica (LULU)."

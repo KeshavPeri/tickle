@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:05.066Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:30.336Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    510.2799987792969,
-    527.47998046875,
     491.8999938964844,
     502.3399963378906,
     525.47998046875,
     547.6500244140625,
     531.2000122070312,
     525.2999877929688,
+    527.760009765625,
     575.8800048828125,
     607.2000122070312,
     609.489990234375,
@@ -24,13 +23,10 @@
     604.3200073242188,
     619.8499755859375,
     645.719970703125,
-    614.260009765625
+    614.260009765625,
+    627.75
   ],
   "6m": [
-    414.20001220703125,
-    433.7699890136719,
-    446.9700012207031,
-    434.45001220703125,
     435.80999755859375,
     429.6700134277344,
     431.94000244140625,
@@ -139,12 +135,15 @@
     541.75,
     510.2799987792969,
     527.47998046875,
+    511.1700134277344,
+    491.489990234375,
     491.8999938964844,
     502.3399963378906,
     525.47998046875,
     547.6500244140625,
     531.2000122070312,
     525.2999877929688,
+    527.760009765625,
     575.8800048828125,
     607.2000122070312,
     609.489990234375,
@@ -158,10 +157,10 @@
     604.3200073242188,
     619.8499755859375,
     645.719970703125,
-    614.260009765625
+    614.260009765625,
+    627.75
   ],
   "1y": [
-    763.510009765625,
     766.239990234375,
     763.52001953125,
     769.02001953125,
@@ -389,12 +388,15 @@
     541.75,
     510.2799987792969,
     527.47998046875,
+    511.1700134277344,
+    491.489990234375,
     491.8999938964844,
     502.3399963378906,
     525.47998046875,
     547.6500244140625,
     531.2000122070312,
     525.2999877929688,
+    527.760009765625,
     575.8800048828125,
     607.2000122070312,
     609.489990234375,
@@ -408,12 +410,19 @@
     604.3200073242188,
     619.8499755859375,
     645.719970703125,
-    614.260009765625
+    614.260009765625,
+    627.75
   ],
-  "lastClose": 614.260009765625,
-  "oneYearReturn": -19.54787731542843,
+  "lastClose": 627.75,
+  "oneYearReturn": -18.07397055745082,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Axon, Stock Of The Day, Rides Drone Momentum To Buy Point - Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSDdBeWlmanZ1SUZna1JhaXozeWpqQTJsNzY5Sl9BLWZldnQ2cVBfTTY5X2lxWk1tRTRWbHF5VlNKbWFBLWZrdGhwTG52TTJtNmdQTVQ4Z2I2NF9XZ214Z0ZJckVyR1RHNm5BTldZVHk3dkJOdlBXU1lzR3VvRTRsZ0lfb1hNMW1fSmdoaC1ZOUpJc25YeEU5XzlCTFp6ZDluWTNWcXZB?oc=5"
+    },
     {
       "headline": "Axon Enterprise Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -421,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0Rtc2hDLU80T2FqeXhpYU84T3k2aDd2MkFxZGZ3QkV0YmZsREZ5bmxsWTl1VnlsaGlFTW12QmZuT1A0empib051UWIzSmhJYkJHLTlocXN3SExmSFZtTHI5dXNSUGprUk5VeTZ6Qkd3Wk1ZVzM1ZFlhaFExaXJSZG90RzVLN3JkN1lvQk5GUEtmUUdoOU9UR0xyNXVNSG9nb1dMRGhKdnBlNERyZTZ2ZGM5R2ZRSEpGZXJZM2g2Y0NIN1VXTmk4d1RNeHVDT3VZUHRR?oc=5"
     },
     {
-      "headline": "Axon (AXON) Stock May Trade Above Fair Value On Cash Flow But Near Fair Value On Sales - simplywall.st",
+      "headline": "How Investors Are Reacting To Axon Enterprise (AXON) Drone Defense Surging Within Its Growth Story - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTFdoWEpSU0lBWnFsV0hXbU96VFJDRUIwZHJSeHBVdmpzQk5WOTlKUjN5Yzd2SmlHbjA1c0tSX2pSWjhRMG5DdHNIU1ZnSXZmSFl2SnR5MG51WU1POHdKZ09UUXVtbVJodmh1X1pkeklTdFl6UzR1TFdUdzRXVmR2dkZLaDNiMVlNTnZET3hLXzZSeERkTlFNTzJFNG00R3p1V0h4NzdDa0VieEcwekxhOE1idldZMU12T3M0bmFwS3ZIa3JvU2F1aDRQazc5cVN5WU5tatIB2gFBVV95cUxQbTlZU2kyNG1zMGxrWkhCTGNZMk9oNVRHQ0xXWTF2bnN6eXl0eFJBVXBmd0R3bldyWmF0c1dpMElkakRnSUpGTFo4VHlRU2pWa2tNM19vTDc2UzNtYkwtUEFsb05jUHdGbks1a2Ftb3UzYnA5UmdMZ1JROTkzMHRTWG01V2F2Rldid3JlX0FtQ2tOVHZhU0k1UmYzNmVJRjN0VWUwZ1dQYm9ST3dfQXc2dWxzU0QwdS1HTVZlaFFEYVFwdV9qNnBTNXNkT2FaYnN0Ui1ZLVFtclJZUQ?oc=5"
-    },
-    {
-      "headline": "Why Axon Enterprise (AXON) Stock Is Up Today - Moomoo",
-      "source": "Moomoo",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdW5MeEhRbThkYnJhY3pqUjg0QXdYeHlpZG9EQlRFaDJqcnA4SjZia0xqMlpzdnRJRFZQRmJPSFlTSWZaSlByUVZQa0p5M1NpSXMtSXktY2NubnEtdVlxd05rVEdISm9iQzhOR2lENmk2YllMQzJGNHVGMHI2dzRWMUZORk54ZXd0X3lhRw?oc=5"
+      "when": "2026-08-22",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaFlVQkFBQ1RfV25BZDhGNGN0MjUxOUs4MVRIVGl6dW5MdTJ4cmdmLUozSmtIMFV0dndpTmRvSHZJVEw3aGZXWlZ4Q2h1M0ptbWRsM2pDajVSLV9VaDFBTERKTEhNanNPTGV4M2sydU9BSmZPU29KRmF2cDZIak13aGJBUkYxNEs3Mk03cjdfYi1ONVhrM3lGN0RLQ2NSZXlTcV8xcXI4cUJwRjlVd1dOLTdocmFZZHhQbXFuNkZKWnZaSW15OW1OODRvRU5VZC1hQjNpbHdn0gHbAUFVX3lxTE1QZFJFYkVTaWpfYlNodUlxNkRyc1RFVFZQNm9mcEM1aGctTkRENHZ5RFFPNW9XVEtrRzlBbVBJSjJEdFhvdTZWYWota25rTXVEMHFXRGxEUFlsbmxJZDlPRW5FamtZM2IwRjVYb1pDZm5TMmEzZE0weGRuNXZPY3BTb1FXMW9YOGlFTFU1eVFmdVk3RFdCZUhQYTVEeTgzNXpuX2dINXVZRHpDNWlGcDV4T1M4MnVOZ0xRU2xNT2J5czNYM2F3dXk4bXUyd1VUaE1SVWQ4bnBBVU9WQQ?oc=5"
     }
   ],
   "insight": "Tracking Axon Enterprise (AXON)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-21T02:45:03.690Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:29.364Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    118.23999786376953,
     119,
     122.61000061035156,
     124.23999786376953,
@@ -24,12 +23,10 @@
     134.5399932861328,
     133.85000610351562,
     133.6300048828125,
-    129.97999572753906
+    129.97999572753906,
+    132.69000244140625
   ],
   "6m": [
-    133.9499969482422,
-    132.42999267578125,
-    126.94999694824219,
     125.37000274658203,
     125.06999969482422,
     125.1500015258789,
@@ -138,6 +135,8 @@
     123.33999633789062,
     120.47000122070312,
     118.23999786376953,
+    118.4000015258789,
+    119.04000091552734,
     119,
     122.61000061035156,
     124.23999786376953,
@@ -158,10 +157,10 @@
     134.5399932861328,
     133.85000610351562,
     133.6300048828125,
-    129.97999572753906
+    129.97999572753906,
+    132.69000244140625
   ],
   "1y": [
-    134.00999450683594,
     134.1999969482422,
     133.88999938964844,
     134.39999389648438,
@@ -389,6 +388,8 @@
     123.33999633789062,
     120.47000122070312,
     118.23999786376953,
+    118.4000015258789,
+    119.04000091552734,
     119,
     122.61000061035156,
     124.23999786376953,
@@ -409,23 +410,24 @@
     134.5399932861328,
     133.85000610351562,
     133.6300048828125,
-    129.97999572753906
+    129.97999572753906,
+    132.69000244140625
   ],
-  "lastClose": 129.97999572753906,
-  "oneYearReturn": -3.0072374781653335,
+  "lastClose": 132.69000244140625,
+  "oneYearReturn": -1.1251822214409641,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "86,404 Shares in Apollo Global Management Inc. $APO Bought by NewEdge Wealth LLC - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT2dDU25BMHRoM19FWEtoek15YnRCZHA3MXFoSXJiTXo5aTBIcVN6TTdSV0pkUkVLRkdha0lKYWlZM0lKNGNvVUJfczhaTmZyN0Qta3lFM1NaUGs4SU1lU1E1em9YZG42NXhuSGRUNmlYb0dIakw5STdnUElCbm5pMVk4M0hnVDhwalVVcVowaGpZdU9OWDZ6ekhTbURsQWR5MV9yRGlrZ1NiN3NtamtHZUZSYi1IUmJ2ck9xOTBpc1lRbmg4cGlUUm9HamJRUXRRaGRtNw?oc=5"
+      "headline": "Apollo Global Management (APO) Could Be 22% Undervalued Following NVIDIA AI Infrastructure Deal - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-22",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS2Y0SnlsRThQWWV1a2txZnlJUzk0Mmh4NUdvUFhQa3ptR293d1F6QV9YclNVSE5HS3lVOVpJaVlUX3JoSGJzeG9TY0duNHlWSm9QTW5WWjR4dXhNeGlfbHplazF3cUJSdkZQMHV6MnltMEVBbjJqX3ZtUXpsRjJrMVUtTkYwZDZtUnlGNDkxd3gtUnJENkJ6dE0yNWcwbk9fRC1ZaGVNYUJRU2N6djVtOXMyNjBPTGdWYmttZGh4NjlMYXRSYkFfZXNhN3dtRURSN0xRVzgtcXk1SUxCQWtOZzFlVmQ0YnJ4N2fSAe8BQVVfeXFMTlF2dklRamIwVlRHOF9uYTBBLVRiQUhQekFhUkN6OS02ajR3SU5rYksySUxjRDl0cTctazVGZ1BaYUVoaFk5NzdsdGxvakpaLW0xSkNwS2hEV0wzTmVlS3Y2V3J1aGZfRFZucTdQQUg1c1IyMGZvZkF0bDlZbno3NTA3bTVuanYxcThLWld6amVaZnZ5amNhZ2g0S0E2bTlZS1kzN0s1RG01ZG52MGpBNnk1aERQVVVVUkh4RHM1TElsdlBIdFJMTnZQcFZkOG42TVBhZ0dmYk4tMWl1LUJfSXdhWDk0RTJOT0F2WVlPdGM?oc=5"
     },
     {
-      "headline": "Apollo Global Management CFO Kelly Martin sells $422,535 in stock - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObHF0Wm4zZm5TQUxyY0l2OW5POFE3V1ZqYk9KSVFXVmh1QVBtMHFUT2NsaFF1MzI0Z3NEM0NSaGZyREIySExZS3NuX3N0NHRHMi1KYnRoX1ZsVGI1NlFSWDRPbzJJMXdrSjhUODYyQVVSUms4bFM5X0tRdkFnckZrbVJhVmcwT1pJTlhSUEMxS0dhdGFaMXZUbDhUenBVOFdwanFnWVJMTXRFSmNfTzhGR0N3bjV4ckVCRlJPVFhBMFRxbDkxOXdZ?oc=5"
+      "headline": "Danske Bank A S Makes New Investment in Apollo Global Management Inc. $APO - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGlJYklqbjgzODZEQkpVSWQweFYzZEdQNDVuZDlST0s2NHZvcy04MFFMNTJQdTVKNjdEV3dLaXRQZHN0azNoMFhhTjU0dkM1ZW1aakplZkppVFB4TjAwRXp3WktmRUVmcjJDVHRDb3VIQm9ZNEl4LW1XVVY2V2VRakdCZ21uTFpJbGcxaVUwX1M0blhGUnliV0JhWFRjSTJGcHh4NnpuREx0ZG90WTIzNld6eGNSdE1WcUdBMW5YVkh0bFR0Ry02bm5nNTFoZw?oc=5"
     },
     {
       "headline": "If You Invested $100 In Apollo Global Management Stock 5 Years Ago, You Would Have This Much Today - Benzinga",

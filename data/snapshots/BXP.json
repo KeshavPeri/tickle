@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:08.053Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:32.362Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    69.8499984741211,
-    67.9000015258789,
     67.83999633789062,
     69.11000061035156,
     69.20999908447266,
     69.95999908447266,
     72.97000122070312,
     71.66999816894531,
+    70.12000274658203,
     70.41000366210938,
     70.66999816894531,
     70.01000213623047,
@@ -24,13 +23,10 @@
     66.69000244140625,
     66.19000244140625,
     67.22000122070312,
-    67.77999877929688
+    67.77999877929688,
+    67.66999816894531
   ],
   "6m": [
-    64.72000122070312,
-    65.01000213623047,
-    66.0999984741211,
-    61.779998779296875,
     59.06999969482422,
     61.4900016784668,
     60.65999984741211,
@@ -139,12 +135,15 @@
     70.6500015258789,
     69.8499984741211,
     67.9000015258789,
+    68.30999755859375,
+    67.41000366210938,
     67.83999633789062,
     69.11000061035156,
     69.20999908447266,
     69.95999908447266,
     72.97000122070312,
     71.66999816894531,
+    70.12000274658203,
     70.41000366210938,
     70.66999816894531,
     70.01000213623047,
@@ -158,10 +157,10 @@
     66.69000244140625,
     66.19000244140625,
     67.22000122070312,
-    67.77999877929688
+    67.77999877929688,
+    67.66999816894531
   ],
   "1y": [
-    66.41999816894531,
     69.37000274658203,
     69.68000030517578,
     69.4800033569336,
@@ -389,12 +388,15 @@
     70.6500015258789,
     69.8499984741211,
     67.9000015258789,
+    68.30999755859375,
+    67.41000366210938,
     67.83999633789062,
     69.11000061035156,
     69.20999908447266,
     69.95999908447266,
     72.97000122070312,
     71.66999816894531,
+    70.12000274658203,
     70.41000366210938,
     70.66999816894531,
     70.01000213623047,
@@ -408,29 +410,30 @@
     66.69000244140625,
     66.19000244140625,
     67.22000122070312,
-    67.77999877929688
+    67.77999877929688,
+    67.66999816894531
   ],
-  "lastClose": 67.77999877929688,
-  "oneYearReturn": 2.0475770066904806,
+  "lastClose": 67.66999816894531,
+  "oneYearReturn": -2.450633574063799,
   "marketCap": null,
   "topNews": [
     {
       "headline": "BXP Inc. stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWjhJUE92bnBBWjE0NVNJdFppS1RNaFVpa2Y3ajRfcGpOTktjZ0pVZEZyUTlVNWVrcGhmY1YxcnhaNU5laDJ6YlJvTWRVVGRnRjFvSmpNa2xycGZaVFBUd1V2YmE5aWF5WXB6dm5QRXZySGt1ektSeV9xTjEwUGRZV0MxOEhyQ0wwWTR5eG0tWGMxTHZjbEl2N1ZnRkNoQ0VsbkJqcmRJempVTG5WaEVHRU1QUDlkeE5MZnlFUmtfUTUzdXVaWkVJVjgxLXJWSFVtazgw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmw5ZnNYb3Nha0NjcHFpbU9UQVpkaWtrODNqWUtLWjZ4QnpoQTQySXY4TlVZYlh5TElleXE2MVZlSXZNOGw0RTZzU3ppZ1Z1R2xYMTVqS3JqWVQ4QXVYUFAzck83U3FpaFNrZ1BFZmJ2NDRBX2hsZUxKVmRDSngxcDcyZ0JDSG81ZS1MX045endpcVRENWpPNDN3eDRGWGFuaVlWTmNfT2c3Z0ZrOVhzbkZBSV9Qa2NMT0FZ?oc=5"
+    },
+    {
+      "headline": "Is BXP Stock Worth Buying as Leasing Improves but Risks Stay High? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVN6ai1YYzB4azhZOHpBcnhWelpIZEc1bW1TcUZiMEsxWjUyUlRrYS0tZXlNRl84TUtkbzZtUjdkTVJQNm1EbklpLTV5azBLQTRhNHhyY3VpVklQR2JTWjNpS196Wl9XSkRXbjFzdUM4bjBFVW15cjE4Snk0eEZDVGRzbHlrTlBaMWZLM09JYVpoSXA3SVpz?oc=5"
     },
     {
       "headline": "BXP's operating partnership agrees to sell $700 million in notes to help repay $1 billion due in October - Stock Titan",
       "source": "Stock Titan",
       "when": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGxSRWI4WWwyNW1SdmlhSHZsc0V5WjRwd2wxTHVLcV9XcXRVR2NjbndZMUxGM2xCUHpaQURUSFg4el9hTDhSZVhSWWYxWkpJeG4yaGRmZ1ZHQms5M3Jyd0Z5OVBWM0ZDYWNDSFk3ZFZlR2VWUm5rNGVGaHFDZ0xJY0d2akVHZGMySnZWVjVlMUQyNk1NOG9NODNnNjJTQVU1d3Z1Q0E4bzA?oc=5"
-    },
-    {
-      "headline": "Is BXP Stock Worth Buying as Leasing Improves but Risks Stay High? - TradingView",
-      "source": "TradingView",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanVFb3Y0R1hLeGNiNnBxcVdYQmRldWluSGRPRGFPZkNrbE5FdW5GcW1EVHlsSjJhSzRyTVFhTjJDbnVyVXdueHZyV2R3azdXMUJfd3hqNTh4c0ZoNlNIS0QwaEY0UVRmOHNSa2lWM0w0aUxiclhwMHA5c3lVQmJ3Rlg4SFY0LXQxR2tXQWhUVkRuRHJ5QXpzZWV1cG1BZW5zZjVfMXY4dTlHbEpHaGs3cFFIRFVoWUw1MGpNby1n?oc=5"
     }
   ],
   "insight": "Tracking BXP, Inc. (BXP)."

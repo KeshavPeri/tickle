@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-08-21T02:45:24.582Z",
-  "builtDateUTC": "2026-08-21",
+  "builtAt": "2026-08-22T02:35:43.012Z",
+  "builtDateUTC": "2026-08-22",
   "source": "yahoo-finance",
   "1m": [
-    258.0899963378906,
-    255.7899932861328,
     243.9600067138672,
     254.36000061035156,
     265.8999938964844,
     283.8699951171875,
     282.0400085449219,
     263.0299987792969,
+    263.20001220703125,
     269.67999267578125,
     274.489990234375,
     278.0299987792969,
@@ -24,13 +23,10 @@
     276.760009765625,
     285.4100036621094,
     298.1000061035156,
-    300.05999755859375
+    300.05999755859375,
+    299.9100036621094
   ],
   "6m": [
-    207.32000732421875,
-    203.22000122070312,
-    204.80999755859375,
-    193.75999450683594,
     201.9499969482422,
     205.7899932861328,
     190.05999755859375,
@@ -139,12 +135,15 @@
     262.4599914550781,
     258.0899963378906,
     255.7899932861328,
+    246.9499969482422,
+    245.2100067138672,
     243.9600067138672,
     254.36000061035156,
     265.8999938964844,
     283.8699951171875,
     282.0400085449219,
     263.0299987792969,
+    263.20001220703125,
     269.67999267578125,
     274.489990234375,
     278.0299987792969,
@@ -158,10 +157,10 @@
     276.760009765625,
     285.4100036621094,
     298.1000061035156,
-    300.05999755859375
+    300.05999755859375,
+    299.9100036621094
   ],
   "1y": [
-    376.9599914550781,
     381.6199951171875,
     382.6499938964844,
     380,
@@ -389,12 +388,15 @@
     262.4599914550781,
     258.0899963378906,
     255.7899932861328,
+    246.9499969482422,
+    245.2100067138672,
     243.9600067138672,
     254.36000061035156,
     265.8999938964844,
     283.8699951171875,
     282.0400085449219,
     263.0299987792969,
+    263.20001220703125,
     269.67999267578125,
     274.489990234375,
     278.0299987792969,
@@ -408,29 +410,30 @@
     276.760009765625,
     285.4100036621094,
     298.1000061035156,
-    300.05999755859375
+    300.05999755859375,
+    299.9100036621094
   ],
-  "lastClose": 300.05999755859375,
-  "oneYearReturn": -20.40004128810801,
+  "lastClose": 299.9100036621094,
+  "oneYearReturn": -21.411349641149357,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "FactSet Stock Jumps 58% in 6 Months: Here's What You Should Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkJiems3Z2RGRFYtUHVWLWM2emdrYk5XV3hqdDVuNEtVV2c1bHhvWHFsRllDMXg2UTVrTUNneWdES3BMdGFwNFhqVlNFUlZKcDVrTV9TMzM5Q0ozUHhPWXFwSjhDZGN3UHBJbU9ucEF2YlA1dlBON1BJdGhIb3JucVJnTHlwLXhDWjJLelNjM3g5ekU?oc=5"
+    },
+    {
+      "headline": "FactSet Research Systems Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY2d1YUlPYW9acnd2QVA0TFVaT0M1alV6eW1tUlgtaV9pMXhTZ2stVkdLNUFhYjMxaVZlZ19zdWdjMTRQUHdDenlxLXhrNUJHZ3daVFV1UF9nZDJxekE1cV9DYmEyQU9Sc2lORGJ3UTBRSXVjTUEwdlVCYzIxNkk5RFp5MnBuaXBQR005XzctZUtZcWtob1pGNlBoNG85d3QtbTJEMVVXOFgwdlhpX3BId3VYOUlwcHZyUndUcGtkanVUTUJrelpjNkhwNUJmdXA3ejlFdXFIUQ?oc=5"
+    },
     {
       "headline": "Coinbase Stock And Other Trading Platforms for Higher Rates and Market Volatility - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-20",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZjZFRDdZXzQ2YkdoU1ZjMWdTd05GWXZVTEx0MDNiR3lJS3RYWmstUnFsWTltbFI2Q3hVa0dUT19WV2RIVVlVWFZPX0l1cGJCUDcxczZrNHI1UmFiU1VnQ3dBam40RFd3REJDZHBDNi1RaUFHVGtVbGV6bDRfcDg0TDlZaW1RVVJEVXRXZ3pXTE05WUY5eXJPMVB0RTBpWkQycHpfN1o5THBGLURIR2pteWFFeXJMaF9QTHc5U2NmYmRUdnRPT3lOZGZ6UDlOQjhNMkE3VGoydTl0Y3FzdlQ4RXhJZV9oc25oVlV3S3Nn0gHuAUFVX3lxTE5mNkVEN1lfNDZiR2hTVmMxZ1N3TkZZdlVMTHQwM2JHeUlLdFhaay1ScWxZOW1sUjZDeFVrR1RPX1ZXZEhVWVVYVk9fSXVwYkJQNzFzNms0cjVSYWJTVWdDd0FqbjREV3dEQkNkcEM2LVFpQUdUa1VsZXpsNF9wODRMOVlpbVFVUkRVdFdneldMTTlZRjl5ck8xUHRFMGlaRDJwel83WjlMcEYtREhHam15YUV5ckxoX1BMdzlTY2ZiZFR2dE9PeU5kZnpQOU5COE0yQTdUajJ1OXRjcXN2VDhFeEllX2hzbmhWVXdLc2c?oc=5"
-    },
-    {
-      "headline": "FactSet Research Systems Inc. stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON1pQWWpaSVRURUtFUkIydVpEYXpjeVVmQXVoYkhUN1NicDBBTVpzdnc5THZkZ25wcXlGZ01MYkc4WV9pcmg1WEZtQl81bHRRSXlYd3dpRDlNRkdpTnBaZllyRzYxWEN0bTFwVUlvcU1tMDYtTTI2S3hJMDJEb2lyRmgwelZJOEFCYTcwREZXV2ZfbDhVUmJpdzVwWDN4NlZOTm5TVmhPbzF6ZjNPbnNpMHVQM0g1bjFtVnBVYmN4cE1Jbk55S0RvSHdLQ2tkbm1CNlFydHR3V0NlX0Ji?oc=5"
-    },
-    {
-      "headline": "Why Did FactSet Research Systems (FDS) Move Today? - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmt4SHg0S2dhZFZkTF9BTllmNWZYbTJpbkx4V1NZQTAydExSbGg3LUV2ZlU5MmlIYnVCbUUyLUc3Z3I0LWF1SHlxMG9UZndmcmYxeDByM2dpc1BnVFhOS0RXXzRtVzRtdnRmWVFSWDlFSjBvbXFoMXlKdjZHZXV0UFdKUUxGSGM1?oc=5"
     }
   ],
   "insight": "Tracking FactSet (FDS)."
