@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:42.854Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:40:15.196Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    288.3699951171875,
     295.1099853515625,
     302.6400146484375,
     316.1600036621094,
@@ -24,10 +23,10 @@
     327.8999938964844,
     335.4599914550781,
     341.1499938964844,
-    341.989990234375
+    341.989990234375,
+    350.75
   ],
   "6m": [
-    282.9800109863281,
     287.739990234375,
     295.5,
     301.9200134277344,
@@ -158,10 +157,10 @@
     327.8999938964844,
     335.4599914550781,
     341.1499938964844,
-    341.989990234375
+    341.989990234375,
+    350.75
   ],
   "1y": [
-    339.25,
     336.4599914550781,
     333.989990234375,
     330.07000732421875,
@@ -411,29 +410,30 @@
     327.8999938964844,
     335.4599914550781,
     341.1499938964844,
-    341.989990234375
+    341.989990234375,
+    350.75
   ],
-  "lastClose": 341.989990234375,
-  "oneYearReturn": 0.8076610860353722,
+  "lastClose": 350.75,
+  "oneYearReturn": 4.247164271485094,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Willis Towers Watson PLC stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3kydklSSmlSTGNXaG1yYkdUUXF6X21lU0pidUxJSGoyUm5qLURWamVEU0tCSXdSSEtZLWVPLTlpejhiSXFESEdlS0pWZ3dxdzZhQzdxd2p2blZja19yLTBXWlprWG4yaWpsMjZMaDdMQ04xUjZqMmdNVEZ3OHVmdl9mc0RNeHp6c3dkOHNFSU9zTTVPeWwwS1lrSVgydnBXMlVPcC1YV0dieDhkMUs2bVdwTWVtUTcwRldkVG5nYkFsVEFlY2ZhUTlnSGMzenBrVHVaRkNqUUxNUktvOHlEZHJ1cVZDaktrUXc?oc=5"
+    },
+    {
+      "headline": "Unum Stock And Other Interest Rate Sensitive Insurance Names To Watch - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaEdHTmo3cXZDSFJXdjdmQVg1OWVlVEhidFdJa0E2Y3JzdVg2TlAycF8wUFRsWGJSZVRMR3cwSGpQN18xSXFWT0l6Z2d3RWtCcnZPaFlCYWN1UGhmMVcwbmUzRlFOYmZHOFhBMkYwX3h5NmJkRV9lVEhmTC0yZXVsSDRvbnBETFgyeWNJTVlEeHM0ZUJEM1E0S2hXU0d2RXQ2V09BUHQtNUxtTDEwNXhlOUh6dVg0OUpzbDVkbUlaUUw0QUZweGY4bV9IbjhxSG5VUnlmcWlDdXVFWjTSAdsBQVVfeXFMTmhHR05qN3F2Q0hSV3Y3ZkFYNTllZVRIYnRXSWtBNmNyc3VYNk5QMnBfMFBUbFhiUmVUTEd3MEhqUDdfMUlxVk9Jemdnd0VrQnJ2T2hZQmFjdVBoZjFXMG5lM0ZRTmJmRzhYQTJGMF94eTZiZEVfZVRIZkwtMmV1bEg0b25wRExYMnljSU1ZRHhzNGVCRDNRNEtoV1NHdkV0NldPQVB0LTVMbUwxMDV4ZTlIenVYNDlKc2w1ZG1JWlFMNEFGcHhmOG1fSG44cUhuVVJ5ZnFpQ3V1RVo0?oc=5"
+    },
     {
       "headline": "Willis Towers Watson Public (NASDAQ:WTW) Stock Price Expected to Rise, Morgan Stanley Analyst Says - MarketBeat",
       "source": "MarketBeat",
       "when": "2026-08-19",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRGFoNzZuYWJyRXY2WnZSMW5zYktsZjQ5YU1aXzBOY1JYODlCMXFROVo1dkJYX1hGY2g2MmlDdTF2LXRBVWhRR1hoUEdwVHlqbHZHdFRYMUttWkRoanRNeHhVVWliWUhzTVQ2aUNQaElhU0tISlVEUldicmFsa2Y0aU9Idi1wN25zMjhEU0dLelg1VEg5OGxETW5BaThTOUtjTjRjekQ4MmUzOTlWUE1lanl1b0Rrb3FsaGlwNGhrWWszX2I2ZDF2b2NCMWpSYlNHRk4wbW1CbERXRTVSVnlKUzZn?oc=5"
-    },
-    {
-      "headline": "Willis Towers Watson PLC stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZlNQUmJNcl93U0lCNzFsbHhUVEVQLWxRQWZ5OGhrZVYtUmIwQV9yNzc3ZFY1cEFwWVU2RHFWbzFFb2JoQ0hiV1Y2TUd6NGV6ZDBFWmZnZHRUamlLa3VRU0ZSRE1wdEFjYmxXYThWZ2JzcWZmY0p6VEFDZkpRQ1ZkSW15VENpbFFMOEVkRTk4eXZQVUoxNGM3WVk3M0pkRlJCVktSN3dWVHJmZW43a0hSc1BiZzNYQkNBbzdnQVFURlpsTmF5RzVVYlcyTkJGNFlnSUE?oc=5"
-    },
-    {
-      "headline": "Willis Towers Watson (WTW) Stock Gets Fair Value Boost After Analyst Target Revisions - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYmxydmUtdkl5YXc2S0V5MHNmVk0ySy1pek5PeG5BTVdodC1rZkdtdHBrRjVkXzV0RXBsVWcycmt0cVZQdE5XOXdSd25XRjdxdnBzbFc4WEVZWldtWXFGYVgwRHV5ZjZnY1pTdWdNTWFiREVWU2UxQU1WUHVxMlItN2lBWnNTVkd6bGNvNGpDOHBGTmoyLWxqcnFxQQ?oc=5"
     }
   ],
   "insight": "Tracking Willis Towers Watson (WTW)."

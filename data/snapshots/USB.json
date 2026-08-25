@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:41.330Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:40:13.412Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    63.33000183105469,
     63.970001220703125,
     63.4900016784668,
     64.43000030517578,
@@ -24,10 +23,10 @@
     64.79000091552734,
     62.81999969482422,
     61.779998779296875,
-    62.04999923706055
+    62.04999923706055,
+    62.41999816894531
   ],
   "6m": [
-    57.83000183105469,
     57.689998626708984,
     58.16999816894531,
     58.7599983215332,
@@ -158,10 +157,10 @@
     64.79000091552734,
     62.81999969482422,
     61.779998779296875,
-    62.04999923706055
+    62.04999923706055,
+    62.41999816894531
   ],
   "1y": [
-    48.279998779296875,
     48.15999984741211,
     48.56999969482422,
     48.7599983215332,
@@ -411,29 +410,30 @@
     64.79000091552734,
     62.81999969482422,
     61.779998779296875,
-    62.04999923706055
+    62.04999923706055,
+    62.41999816894531
   ],
-  "lastClose": 62.04999923706055,
-  "oneYearReturn": 28.52112842983011,
+  "lastClose": 62.41999816894531,
+  "oneYearReturn": 29.60963116012025,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "U.S. Bancorp (USB) Stock May Be 39% Undervalued On Earnings Strength - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbHJWWVFSMS1ISzBCVHZRSm52OUF3ZmdmUkZ4X0Y4MUx3SVhZSHIzRGdKVEp3ZWdqd1UtSU5yQWkyZjRkTHRKR256bEo1QUUtcjN1empuY24xd1poTkg1a19YU1VnbnlVamhwVmcxT3pRMGRiOEdiT3pEbE82NDNRNFVyMldaYVdSTTFfLXVZakJ3MEg5bng2LUlqc3NPRmlpS0dPZzBBdjlJel9LWkRZRU5fZmZaU1BHSlg0cUJvNjnSAcYBQVVfeXFMTW5RR3kxazRZU1BzTmw3dmd6djJXNEpfdFBRc0NfclcyWG5FaFFydl9DSWNfc1NqcEVvai1SMTdiT1BFcmJCSjB6dXFNNEVrNy13MnFPZEhhNkVwU1BsT3BBbjIzM3Zrcjk4UXdncWxrbkhRWWdTNmJLN3dsUkFEV2cwV2F3eWotR2ZmNE9DOGd3am90TEltYk5vaEFsUkZ1SERGaG0wb3VUY1cwZnlkSjJCSEdhVGZuSkU5Z2pmeHhEdHB6ZEdB?oc=5"
+    },
+    {
+      "headline": "RBC Capital reiterates U.S. Bancorp stock rating on strong momentum - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMkhDUnVQNmZUc2gtUmoycllkQS1YNFBPWE4zbDFXRS12T1NPZkpMNkNQcDloMGlvb3VMT3ZUNWtZVTlab3BURlZNd3JuWm1RMTlrWDdpOHQyb2NaZ0xiX3RsVUktdUtFRS0tZjdoeVkwdXNEMTZGZHlXd0N0MmZOc3RIdU94OUk3Zi0zRFFzLVN4NGs5Y1J3VVl1enRLaVVrZnluZ29wSnkyb3ptTTRzMzEtNllHYjBZeTJMWmdBaW9CTEU?oc=5"
+    },
     {
       "headline": "U.S. Bancorp (USB) Could Be a Great Choice - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-21",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0p6MEpOVjE1ZFY3a01lczVULS12MkZkMVNEZlJ2ZTFwYzJ3QVlKcldMUHM5anZVLUctV2JoNTVXMGJiYXRUM2VzVW02bFd4NC1wcWRMemVJdm8zbFgtNTcwbkp1Y3luTnZJeHBhT1VBdGZMWW5Wbmd6T0F5d0duRS0tR2ZEbXg3LXRROXN4dkd2Y2dQ?oc=5"
-    },
-    {
-      "headline": "U.S. Bancorp stock outperforms competitors despite losses on the day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLS1NaUZfekxJcHE3bEpWYzB4c0JWVmZMczRXMnJVNTl0alF5ODVoZDNkUG9pZVJxblE4LUlyZTBzaVN3UzhxZ194cWw1NXg3ajJUWGFWRXRUY0l5S0ZjWjZ3TXhDUDRmY3VONW10MnhzbGtFTllYR29ac3BELUhWSVdEWnphdWRxdW5aOHdEdTZ1ZThTdHVJMUo1LXRsT3RGQVZDMVhZRXZTd0dDTGZEYUdhUTZvY1NpNlV3aWxvTWl4bGtodFJUcjMzU0t0YWdjSGoxckRLRGozWklXVVE?oc=5"
-    },
-    {
-      "headline": "U.S. Bancorp stock hits all-time high at 65.63 USD - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnZ3eXpvQUZsRlZvaGZaTks2TzRwWWdBVHRUS3pGN2VsN3IyWEE3bDVYemlNN1R1eW1ON1Y5Rmw5MWhsWkNxWGNTTm5mVVNNU1BVbDFfaHdYcE1rX1Z5YkVGYXdmalVtWk5acHR6djJtUmlMb2xYQ1Q2enBIaXNxMjZqa3FaNUVIWEt1bVBzSjk4LWtjVGR1b3Q2eG1pTFVWYWJuU2p3?oc=5"
     }
   ],
   "insight": "Tracking U.S. Bancorp (USB)."

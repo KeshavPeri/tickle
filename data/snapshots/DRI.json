@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:09.951Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:39:43.839Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    194.1199951171875,
     196.30999755859375,
     204.10000610351562,
     206.97999572753906,
@@ -24,10 +23,10 @@
     218.86000061035156,
     221.88999938964844,
     217.9499969482422,
-    221.60000610351562
+    221.60000610351562,
+    225.55999755859375
   ],
   "6m": [
-    212.86000061035156,
     211.5,
     218.66000366210938,
     216.41000366210938,
@@ -158,10 +157,10 @@
     218.86000061035156,
     221.88999938964844,
     217.9499969482422,
-    221.60000610351562
+    221.60000610351562,
+    225.55999755859375
   ],
   "1y": [
-    208.5800018310547,
     205.24000549316406,
     205.97999572753906,
     206.25999450683594,
@@ -411,12 +410,19 @@
     218.86000061035156,
     221.88999938964844,
     217.9499969482422,
-    221.60000610351562
+    221.60000610351562,
+    225.55999755859375
   ],
-  "lastClose": 221.60000610351562,
-  "oneYearReturn": 6.2422112178361475,
+  "lastClose": 225.55999755859375,
+  "oneYearReturn": 9.900600039745413,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Darden Restaurants (NYSE:DRI) Upgraded at Robert W. Baird - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc0ROdU1rRGFDd3l6bGNmM3JoRU9JSVZTb1kzcmp6V1FLdkxHYU5UM0ZXRVZyQ3A0djFqMGxPOWVpOXlQY0g5Qll0cUxMdEVPZWROWFRYN3BQN01PVlRXcWxaV2VCTEY1VFZBd2VPQ3hqTnhNUkJ5S0FaLXdIOWJQbF9HdWJnM0JXQjlQamhlLW0ycldmZGEtcEZrbC1sanljQVV3RjJJNWx3cEU?oc=5"
+    },
     {
       "headline": "Darden Restaurants Just Hit a 52-Week High–Is the Olive Garden Comeback Story Legit? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSm9EWDZ0Z3dmT3pLRWl6SENrbnJ5X0czVDNjOTRWQno5Q2pHRVdwODNYSndwNXhXLVdtOVp2WDJFVlJGVGMxSHFtTUh3cTllZ2ozaXUzRWVoZFNBbURrN1hXYkctTV9XUjE5cFlBUmdUWVlpU29adF91TlBLdk1RMnVBelFSeHJMRFYtc3BsSlVlel9VZEJaWWNzWQ?oc=5"
     },
     {
-      "headline": "Allworth Financial LP Makes New Investment in Darden Restaurants, Inc. $DRI - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQW9SZ2xJdHlTQURIT3BqN1Y0eTBFbHdCZWVPeElPblUtbWNaUEVnU3pRLTdWRWdFUm9Ga2thWUxZNFctWTVKTGJPQ3VhdlJwZVJtVThocGswYXpuZ2dJejFBcF9DOWN5YUtlY0hmMmNzTlloU0M3Zk1XX3oxUzVDMDBxQ3VhRmhFQkU4ejY3Yy01bXd4cGh0Y2NqTlpwcXg2YnU2TVZHLVZ3Nkl5el9IeW1vcjFXaThzYlR0R3BGWmw1V25aZ2lieFljdWlZUQ?oc=5"
-    },
-    {
-      "headline": "Darden Restaurants Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU1RNeFBQWWJsbUpWb2ZobVhQemlPMzJ2TFA0cjBDeV8yd3pXOWFCRU4wcW5aelhiNG0tZDd1Z3BvaEY1MVlyNVYzTHNpYW9HS21uV05jVkM1MFhkVTNWV01QZGhtSUlhTGNic09Yb29qcnZ1bVdFUlpnNkZtZmcxS0xPcGVlcGJqdHAzRmFlY1JsWkF4RFl6TzF6bWYtSHpXY2R1Q2xXbXJFelFJRXhEXzF1bW5wWUlXWmk5OHJpLTdaR2c3VnRvMXZEOWg5TmM?oc=5"
+      "headline": "Darden Restaurants stock climbs after Baird lifts its target - Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYUdmN011cTVCbEtRR0xzZU0wVGl1c0h1dVNaTzhqNEZiU1ZoZzZRdkcwWnNsekRhMmZVLVM2dndGVGZRenlHSmhJTjFmOHh6cDVwT3FHeEQtaVdZLXFVMENYX3JxdUoxLUFmcVlhSUVueDVoRjlpN2hxNG5kS3ZzWXNyMzRZV1F3Q2tzSGRkRW9BZDV5T0JSMUEwV0ZzaEJfMUpma3ZoVncwY2lZTXZIUUtJZHdWMUI4ZmxheXRqVk8?oc=5"
     }
   ],
   "insight": "Tracking Darden Restaurants (DRI)."

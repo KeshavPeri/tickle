@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:45:51.429Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:39:26.200Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    100.75,
     103.05999755859375,
     104.48999786376953,
     107.2699966430664,
@@ -24,10 +23,10 @@
     112.68000030517578,
     114.43000030517578,
     114.13999938964844,
-    116.63999938964844
+    116.63999938964844,
+    116.66999816894531
   ],
   "6m": [
-    111.47000122070312,
     112.68000030517578,
     112.26000213623047,
     113.29000091552734,
@@ -158,10 +157,10 @@
     112.68000030517578,
     114.43000030517578,
     114.13999938964844,
-    116.63999938964844
+    116.63999938964844,
+    116.66999816894531
   ],
   "1y": [
-    132.58999633789062,
     131.8699951171875,
     131.58999633789062,
     131.4600067138672,
@@ -411,29 +410,30 @@
     112.68000030517578,
     114.43000030517578,
     114.13999938964844,
-    116.63999938964844
+    116.63999938964844,
+    116.66999816894531
   ],
-  "lastClose": 116.63999938964844,
-  "oneYearReturn": -12.029562854497275,
+  "lastClose": 116.66999816894531,
+  "oneYearReturn": -11.526501487115828,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Abbott Laboratories (ABT) Could Be 2% Undervalued After Its Formula Settlement - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON0wxVjVrbmxQRW1kSkJXemZDcXlaVTcxaTVXR0pxbXlEcEJ1dzRtNGZkT1pxSVVmZzQtc1h0ZHE0TFgxZkU3RElVZ1U3ZDNrdlFjNkhneHNMTHBoNzgwd1M4dDNVT1NCQmtFYWZRZWIybVZGX0tWMWFaaEZJM2t1Ri1WMFFyNzREbnBFb3N0WWhkVTVGeVBR?oc=5"
-    },
-    {
-      "headline": "Better Dividend King to Buy Right Now: Abbott Labs or Johnson & Johnson? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQkhHVE5LTzFzcUlGM2gtaDVCRmR2emczcXB5S3d0U3YwZzg4bWwyZEo5VHFyZ2Q1UzI1U0VCMGZLVkFzYnBFbFhNemVWWmtuU0loeHVUWGFib19mRi1OWmFtOXFNRXBrQkRzdk1iLTF4cUYwLVlyMXBmZnZtWGJOM1FhVWxRTmxXOEVLdVhvLU9MMC1ZWTdR?oc=5"
-    },
     {
       "headline": "Abbott Laboratories stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
       "when": "2026-08-21",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVzNqTDZCQTZTWWI2WFl6RHdubnpFYXdXZHJITmNvTWd2ZWppdnozWHRXVjI3cTBJTC03T1Y3Uk1wZWN4b1lBOVZ1eENtclRJU0ZsOXFaYXpfMVd3STJYQ2drdjNSN0FwM1Y1OFRMN2c1QjUyci1vakhybHRfZS1OcVAzbUVQLXRmMWg3ejd4TnRGTDBwNzBzUUlnVDZOa1lpb0FOdkd2eXk2QUthXzk1N1g4MVpoVkc2V0ZUN3g2cktaX1A2WTdqbzVrdw?oc=5"
+    },
+    {
+      "headline": "Abbott Laboratories vs. Eli Lilly: Which Healthcare Stock Is a Better Buy in 2026? - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-08-02",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaHdGY3RpNko3Y082YlFNR040S3Q0UHZpdW1kOXZDc1U1TF85RUswMlg5dHhYQ0tJZFFoaU1pVTJMeFVPX1pOTzBnMFdsWHZaeWFWSEpGVjcwck40cms3TGxOSE1HZEdxT21FUzg3SlJ0OWRnb2VIbU9iNWxqZ3k3OGwzNmEzYkptWktJUURFX2FaTlc4cmcwTnNkWG5xUTFNRWdIODFQYUlyRUZyNlFVSkJUcjhrSWtpZnFWam10REZRY3VhbVEyTzdJRGw?oc=5"
+    },
+    {
+      "headline": "Abbott Laboratories (ABT) Stock Analysis: Navigating Growth in the Healthcare Sector with a 13% Revenue Surge - DirectorsTalk Interviews",
+      "source": "DirectorsTalk Interviews",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNnd5QjEydFlRZ0tOVG53bk1ERVVLUE1rS0pOQkhobGR0d3phSTFYYmV2NFViN2NwaFcyTzVBcG90LTUtYkRWRzgyMWs0WHNVaUx3TkJBWGs0YWRpeWNUWUh1bzhxUmMzWWRFX2ZuV1d1eHNzNXVCajJyaDNKcGx1dDRPMXpBN1VYLWZKNGs3SVZrWktzR1J0NkxjNkRSMDZHUGhLbWJ3WDdEeVEzYnFHWmkyQ2g5UC12VUJ4c09DT1l5cGNPYm1KTmJ6SjBlc2NXelpaTExzTUZseUFBdFh5YXZKcHFfQ2JTeVpaYw?oc=5"
     }
   ],
   "insight": "Tracking Abbott Laboratories (ABT)."

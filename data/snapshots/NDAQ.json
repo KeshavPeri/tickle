@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:31.067Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:40:02.837Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    90.41999816894531,
     92.08999633789062,
     93.94000244140625,
     95.95999908447266,
@@ -24,10 +23,10 @@
     96.70999908447266,
     96.3499984741211,
     97.55000305175781,
-    98.22000122070312
+    98.22000122070312,
+    98.79000091552734
   ],
   "6m": [
-    79.01000213623047,
     79.47000122070312,
     80.23999786376953,
     82.12999725341797,
@@ -158,10 +157,10 @@
     96.70999908447266,
     96.3499984741211,
     97.55000305175781,
-    98.22000122070312
+    98.22000122070312,
+    98.79000091552734
   ],
   "1y": [
-    94.75,
     94.31999969482422,
     94.9000015258789,
     94.83999633789062,
@@ -411,12 +410,19 @@
     96.70999908447266,
     96.3499984741211,
     97.55000305175781,
-    98.22000122070312
+    98.22000122070312,
+    98.79000091552734
   ],
-  "lastClose": 98.22000122070312,
-  "oneYearReturn": 3.6622704176286276,
+  "lastClose": 98.79000091552734,
+  "oneYearReturn": 4.739187060184453,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "169,776 Shares in Nasdaq, Inc. $NDAQ Purchased by Varma Mutual Pension Insurance Co - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdVNvSm1aUDVyV1VSZ09zcFp6TEpZUGF3TUlYNllScVBaVW9UcDI2OHZJQmVQS0JBNHRZMkRma0xYWml4YThmVUhQSmg3ajBXQnhRTlFlS3RCSGVpVlNHOFpFN0lpSXR4alNsY2dNRThpVURWTnNTUjU5dTlScDBHNGEzaUFjWElaSXhaM1pNSERZb0h1N0lESHRJWUhNR0FZZjlCWW4yMWpsQ3JEWk1kRi1BSFZpZlBmNDZDeGpKeHo5UnRfZkdqVFlNejdxMzEycmdrY3IzNA?oc=5"
+    },
     {
       "headline": "Nasdaq | Indexes, Exchanges, & Technology - Encyclopedia Britannica",
       "source": "Encyclopedia Britannica",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qbG9sd1hqUlFPc3pOa01wdEtRMExSSTBVS1ZUMnNCZnpYcFNvZTlUU1Y0TUVDVVBlNG9wQW9ZYnJjbWFlNGJuZnh6RDR4VWFt?oc=5"
     },
     {
-      "headline": "Ieq Capital LLC Makes New $10.23 Million Investment in Nasdaq, Inc. $NDAQ - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUERaZkZLakoxdWtnMVJxeFI1dTE2ek4yVVlNbWNpeEZyVURkSjNwdllQVVpJbUxaaEZjMFZMRXlrVC1UbUo0MjFoWTlPeUxyakhvaVFwdlMyR1dSaVRSUllPcTRHUFJtR2lmS0RKMHpzUV9GUVk4bjhtX0RmWE9QR3JoNlhXdnVKYmFOdnBUUzE1X1ZnaGdjMXBZWGRwSExRbE1hazR3Y2p6VXlsYTd6VGc3VkhOVXRUYlRkOEdlMk5aTUJ0bmh0TQ?oc=5"
-    },
-    {
-      "headline": "First Breach, Inc Rings the Nasdaq Stock Market Opening Bell - Nasdaq",
-      "source": "Nasdaq",
+      "headline": "Nasdaq Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObm1rOWthek9seGFGZHNZUE9tS2c5eDQ1Z2FPUG1EbE1fd0pWcEMzTHdNUjhOV25fSDd4RU82LVBfMnlpendIYnljSUpqaVZiamRucHQ1WERTY3hPXzRTbkROcGNETGlqcEpMVVpKbm1lOXZwd3pVdnRUZy04SFNmMV9pM0ZBRkpxOVJfNFVR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT1pUNjVMbHFsMGhBMGYzb2RJOEg2QlJwX0sySGNTcS1aT3pJMEp5NE13M0VtamRWck5jTVZndUtJamNzVEhuUGlNRkNMaFY3OGNtWnFDMDM3S3hoQzByaWhaSTJ0emp4d0NlMU4wWXRpVXhxeU5YdVkxeEpvS1lETDc0OEpEUnVyQzJoOV9GVnR5UHFhY0pzOVhZZ21Kc3VKMFczVWVrYWgybUh3WDI2Q3o5VXZBWDFsQ3dGeHZsaXpON0NPendLeXdZdGZoOG5yVDJfNzV5UVBmLTNXYlhJRmNmUkZHRXVPaVpaclVjb2FqOEtNeW5rbTZR?oc=5"
     }
   ],
   "insight": "Tracking Nasdaq, Inc. (NDAQ)."

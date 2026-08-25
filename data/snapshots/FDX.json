@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:15.115Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:39:48.431Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    315.6199951171875,
     314.9599914550781,
     310.7900085449219,
     312.6400146484375,
@@ -24,10 +23,10 @@
     328.3800048828125,
     328.3800048828125,
     326.0400085449219,
-    325.0799865722656
+    325.0799865722656,
+    334.04998779296875
   ],
   "6m": [
-    297.7115173339844,
     301.9500427246094,
     302.41741943359375,
     308.6865539550781,
@@ -158,10 +157,10 @@
     328.3800048828125,
     328.3800048828125,
     326.0400085449219,
-    325.0799865722656
+    325.0799865722656,
+    334.04998779296875
   ],
   "1y": [
-    190.81385803222656,
     187.75181579589844,
     186.22079467773438,
     187.115234375,
@@ -411,12 +410,19 @@
     328.3800048828125,
     328.3800048828125,
     326.0400085449219,
-    325.0799865722656
+    325.0799865722656,
+    334.04998779296875
   ],
-  "lastClose": 325.0799865722656,
-  "oneYearReturn": 70.36497764086026,
+  "lastClose": 334.04998779296875,
+  "oneYearReturn": 77.92104240211897,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "FedEx Corp. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWFE5V0ZqS2VDVDdBS3RtRkNTZlc4dmkzNW1oWGlObF9lMFhjWnJhMndDQ2tHd21CaU9PV3dMZG01V3JDdU4tWTMxNmtwQ0V3M05fNVNxWVRuMGtoT1lnejZmOTFkWjdfS2pER1B3MWhrZkJRRVZVTFdJMU13QTVpWHhUc0c3VTB6bHVId2ZSc0Izdm9GODV3X083OURqcUo2SUE4bUluTFpHMXcyd2dIVXRaSVpIcWxVdndsR3dKSFlDZHZwRFpCUWp3aEhtQ1duX2FienYycw?oc=5"
+    },
     {
       "headline": "FDX Stock Drops Over 5% As Weak Guidance Overshadows Post-Spin-Off Earnings Win - Stocktwits",
       "source": "Stocktwits",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLWc2MS1PQ01oSHVSM1hzQVFtY2E0d1BSdHZnWmhVaEVuLU9Vc0VWUU0yX0p1a3cwTkZ3dEJVRzFtMXFyV0RXQXhDZG4tSXptS0N2eUNHTlJhYWRjVUJJTFh3N1psdHlOVVhzWGlHTFg2NE1DMGh4SnlGOEtqZWRjY01xamZTc1EtLTNoeFVvbThRZXJhc2s3a3hYXzlYRk54TllIc2F1RGI1eUNEaGUwMG4yLXc1NGRVaEhrVFVYQ2xWTVF1aDZyclF5UnhPUjdP?oc=5"
     },
     {
-      "headline": "Are Wall Street Analysts Bullish on FedEx Stock? - Barchart.com",
-      "source": "Barchart.com",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQzdkTzRuT0Z0U3FEanMtX3VpOWM4eFVyR2p4T0xMak5neWFwQmMtaWpXUG8wX1JzVnlaUy15aHR3WVk1bnVJWnZRMzUtbWU4czlYa3dEZVc2U2I1M01vLWdXZTAyU3N4RDc3eVJuaEc3WjZRNXA5WmVhMlllajk0LU44Si11Wmo4cUw1NzZtWkI1MWJ0MUE?oc=5"
-    },
-    {
-      "headline": "FedEx (FDX) Stock May Be 34% Undervalued Despite California Layoffs - Yahoo Finance",
+      "headline": "Are Wall Street Analysts Bullish on FedEx Stock? - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXZpbEE5clVjU1djZVBVeVpqNmd4YmRVd1JlcTF3cUJoWHpXSTZmTmJncEVWRGppaTZnRkw2OEhHUFZadGlUNmVtLWR1bkJ6UmJzdUhMRXI1TmxDeHJGYm1UNTRiSXBIT1lKeFFYbFNpdUZzZDgxQ1lYWkJfd0tEUmNPWUhIanUxVVRPdVdmeVY?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaEZKYXlkdGlUclpRbVFSNXRZOEY5TXpqUTVIdHpJTnpxQWcwemE5UEwwbEYtaG4zZ2FIZXJvS0lMbkFGYjdRNzdSX3BGRXhfcl9TMXg5eUNtMVItam1sZ0NaV0otVjVXaVBVcVBucDRiYUFVRnJHUFNUUVR5WEw0Z1FFdXFBdGZyRUNmcjl3eERZWElZMjRZaXpacEhDT2V6?oc=5"
     }
   ],
   "insight": "Tracking FedEx (FDX)."

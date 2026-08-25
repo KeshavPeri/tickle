@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:04.946Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:39:38.984Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    120.19999694824219,
     120.26000213623047,
     115.58000183105469,
     114.0999984741211,
@@ -24,10 +23,10 @@
     129.72000122070312,
     130.5800018310547,
     134.88999938964844,
-    134.8699951171875
+    134.8699951171875,
+    133.35000610351562
   ],
   "6m": [
-    110.83000183105469,
     111.43000030517578,
     108.77999877929688,
     110.5199966430664,
@@ -158,10 +157,10 @@
     129.72000122070312,
     130.5800018310547,
     134.88999938964844,
-    134.8699951171875
+    134.8699951171875,
+    133.35000610351562
   ],
   "1y": [
-    96.77999877929688,
     98.18000030517578,
     97.05000305175781,
     97.9000015258789,
@@ -411,29 +410,30 @@
     129.72000122070312,
     130.5800018310547,
     134.88999938964844,
-    134.8699951171875
+    134.8699951171875,
+    133.35000610351562
   ],
-  "lastClose": 134.8699951171875,
-  "oneYearReturn": 39.35730194082087,
+  "lastClose": 133.35000610351562,
+  "oneYearReturn": 35.82196546039915,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "ConocoPhillips stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdU1tem1qNi1ab1dGTjhlOFdzQXZWa3lLUUhHUTJLV0F0ZjJqLTJqRUVvQVlzRHFTNUNCTkMzd1FjRTBwRjlnMlc0S2dpck42VUp2VjB1QjFzWWxWNXQzeU9wUzZZVTd2Zkxfd3NmNElMYmtxQkZPUng1NExfQlBvd2tJSGNRSG1zLWpGMGxHSFVMeEdVMlhHdldjWThjamZBZzkzcS1uVENfWVI3NkFRVHVFZ0VWVkxFVXpaWTI5UzhpRjJTdFFmLWxVb1ctWlNrcmFxRE9OTzB2TFVINkdKVnVR?oc=5"
+    },
+    {
+      "headline": "Which Oil and Gas Stock Has Dominated in 2026: ConocoPhillips, EOG Resources, or Occidental Petroleum? - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ3p6ME8tUDlYOHd3dWsyTC1iLWtSZ2dsbi1rdUV0OS1fdk9qcWhRWUtyeGoydVowaUhkTi1MVV9pdXI5YU9KVDFFVjlicThoS0YwcDZyLWprdDBhRUZJZjJnR041WDhsb2dxV1hNanQxekhCNm12bVdCLXFoS3g3eVlGYjV3aDBhd0dMejIzTUhkLXNwUERlamNWMlJMemtzSFpxU2V4d1RSdHJCS3k0TUtjWElZSWp4a0ItWWNBakNzZDktZnNDT2N3S3FPbk93MDJPbmNieUpTZw?oc=5"
+    },
     {
       "headline": "ConocoPhillips (COP) Stock Looks Like A Bargain On Its 184% Run - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-21",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeS15eGdLUmVVNEVRZ2gwczdhZ05FbE9adGZVbGtXdXJielJpX1hJaVU0eVJtRzVjNHJlOHJ0RXotV0VzT3JxZDJ2NFExakVsTXR4eHpzLWh4UV9kN0l0UFpmMHVxV1cwR0ZTeTZPenkwN29zVHNmUVFfOEkxbm45NkRvS0VGWGJwZG9KWVp4NFFvU2NjWmVEbzg1V1haSFN6cG9vRXl3?oc=5"
-    },
-    {
-      "headline": "Senior VP of Legal Of ConocoPhillips Sold 59% Of Their Shares - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ1lqRFV4bDhBU01nZUJZOE9QLXRBdFIzZEZNOVdXQV80SjdBckhucnBscmtQdWhkZWluWFh1c2xXcWFkQlk4RHUtNE9tY2NzaEw4OFlEZjdkU1NKaGJpNjd1ejhvSFZ4TXlfUzg0TjBzUEVHUzJDMmFScGpkb3JQZTB5YWVDMmhpdVZfbnJTaE9iT2l0bmhkbTJ4dHJ0ZGljWEhuMmhBcVM2Rk9XaEticTdnaWdDTHJxWC1sR0tzQXEzY2tNYS1v0gHMAUFVX3lxTE1aTjYtTlBZemFpZDZlcFlTOUo4RFBkSVlBTHFpc1J5Y2U2MDlkcmNud2N5S19kVE11MXVNNzFVRl9scFdDd3ZTbnFsUEF3N3RleTR6RVlrNWVTa1hXQWhDOTh6WEtOZ2tSZEt4QWJvdUp0UlZuTDFsYmJxcWZkc2RueUdlSlMyamJZek1WNkhMdV9tSmpDOUhFVTJQaExPV1djdjVZLVU4eHJtVWx4UF93Wk5PaFRNY05RcTZjVkhjdEQ2UzZQR3ROYmFHUg?oc=5"
-    },
-    {
-      "headline": "Is ConocoPhillips Stock a Buy as Growth Meets a Premium Valuation? - Eastern Progress",
-      "source": "Eastern Progress",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWXdTYU41RkZpTlQ3Rms0YWw5OU5wRWZuSEktTkVNNTdlQ0xxVGp3MnJNa2xSQ2NmQzJCVjhkeWVVUENrbHdybEtvNlZvdHMtb1g3SHlFU1QySjdPNFRTRHJxTUljU3phbmItVDVYVFBLZ2Z6V3NwUFlDUlVucDhUdGV4OFNRc1E0ZVhOdUxxbUpSVzljZVFFR0cwdWZ6cDVDUlVBWWNVRHBOTnJZVDRQVEx5QlcySlpSZElWM3dMY21QS0pjX1dqZUQ3SUYtVENBTC1oRTNqeFJRMDdpT1dINQ?oc=5"
     }
   ],
   "insight": "Tracking ConocoPhillips (COP)."

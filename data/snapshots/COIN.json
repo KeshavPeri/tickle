@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:04.511Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:39:38.675Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    161.16000366210938,
     158.2899932861328,
     167.49000549316406,
     167.89999389648438,
@@ -24,10 +23,10 @@
     146.22999572753906,
     160.1999969482422,
     172.35000610351562,
-    186.49000549316406
+    186.49000549316406,
+    179.47999572753906
   ],
   "6m": [
-    141.08999633789062,
     164.32000732421875,
     166.02000427246094,
     164.0500030517578,
@@ -158,10 +157,10 @@
     146.22999572753906,
     160.1999969482422,
     172.35000610351562,
-    186.49000549316406
+    186.49000549316406,
+    179.47999572753906
   ],
   "1y": [
-    319.8500061035156,
     306,
     308.4800109863281,
     308.9700012207031,
@@ -411,29 +410,30 @@
     146.22999572753906,
     160.1999969482422,
     172.35000610351562,
-    186.49000549316406
+    186.49000549316406,
+    179.47999572753906
   ],
-  "lastClose": 186.49000549316406,
-  "oneYearReturn": -41.69454371283995,
+  "lastClose": 179.47999572753906,
+  "oneYearReturn": -41.34640662498724,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Why Coinbase (COIN) Stock Is Trading Up Today - Yahoo Finance",
+      "headline": "Stocks making the biggest moves premarket: Alibaba, Marvell, Sandisk, Coinbase and more - CNBC",
+      "source": "CNBC",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWF8yc2NWWnNud3doN004RVBkYU82VXZBZnZvbFNRaEZxaDZQVkdlNkNqb2JxUDN2cGlzM09OOGR5Y0tCRWliZWNsNE9tUjJ5MG5rVWx1WHlYeHlUdml3cUU5LUxOVGxYVTNqQl84Wmt5Vl94LTRDNURnYlFkWGFrX1dwSGE4a1d1NFJpV056bzg1M2ZiT1ZObkY4NUpyZmNHcDRGcg?oc=5"
+    },
+    {
+      "headline": "Coinbase (COIN) debuts tokenized stocks on Base with Apple, Nvidia among first shares - CoinDesk",
+      "source": "CoinDesk",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOXZIQldPQUlDVDdlblo2bWNWREhkamFaQm5uMVl5NU9wN0JQM1JSQXQ2cENYVlhieHFqN0pCMC03MzNhTFpNSFpnZ3NJVmg2Y1hLX0prMGhCT2traWZRYUVBZk53bVZjSmNpRWdrMmppd2syeU9GZGIwVF92dDM2YXU4clRTTTFpMmQzRWgxYjhfb0tqb2J5Zjl6cGlJdW5rN1hKQVhKWkRNVm5xWFJfcnNiejRpTFQ5T0JscHFLb3haRS1hYlpxOXduOUZUZFRXMkRuYw?oc=5"
+    },
+    {
+      "headline": "Coinbase Has Been Choppy All Year: One Analyst Expects Nearly 80% Gains Ahead Anyway - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdThuUTBrSGdWOTY5M3p2ZnJuU0pycWptajgxdmpOcEpZSmlZRHo0RTRqVWxjVWE2N0hrNnZ0MnZvTmlBQ1lnaUlLYzJ5Y2xEVzF5Mnpfay1sc1lKQ1hjYnRWNnlYUXVyOWpFSTByYWx0X1B3cV9ZY1EyZHF2RjJYSGJzUEtzdlJCVVphQjk4ZUZTUWNya2VJWVF6QUc?oc=5"
-    },
-    {
-      "headline": "Coinbase Stock Surged On A Bill Its Own CEO Says It Can Live Without - Trefis",
-      "source": "Trefis",
-      "when": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWNYYjRiZnZMbEFyTlN0d0NiNzBocGNqMWMybnFTUUJkaFR0SFNGWnFtSXVHMVg3NjB1TjNfaFJVdlB2QUZKa3FnQURMY05wcXNoQXNhY2JLOHV6YzNicTdJLThtelk2elpPWm5yX0ZHcUZTREIxdC1lbTlyRWo0RW1Bd090bTJ5d0JNODE0RU92Wk40QUt2dTVjQV9yN0NiVkZ4RXdmYTNFanpWaWZSeEhiMzBfRnV5Z1E?oc=5"
-    },
-    {
-      "headline": "Coinbase Q2 Earnings: Everything Exchange Drives 3rd Consecutive Quarter of Record Crypto Trading Volume Market Share, Revenue Diversification, and Resilience - Coinbase - Investor Relations",
-      "source": "Coinbase - Investor Relations",
-      "when": "2026-07-30",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdmx3dkJkdm1YQnJDWEFGYUhBQ3YtcldXd2wyNC01Wk9PV0o1SjF6ZHptUHZsRkN4RWEyNkZWUndmNEVhQ2xPaTd3YzZoQS00aW5oWEpNVGZNUHM0emh5OE5qVWdVeG1EMEJJNlJxSU8ycldzYkt4ZTBmV1Y0QUNpWUhZLThFNTkwTS05VjFDM3NLWlZoRk81ZVMzbjlvY2h1MVBFcUZsZ0Z1S25rSkpGd21LdnVXRW1ZekJ3UUlxNnFoU0tYb3QxMmtPSVZaRDdQWDltSEF3cmZidFF4LTFjbWdkczRVS3NxcURHSExqdWJNVU1LQTNlekw0NFdjcHd2M1habHJVcGJ6bl90a3Y5TlVmdFNNUGNkTkEzaUNiSjRsTEJTZW42cllWUWxHU3p3a0VPRk9ISDZyc2Y2aTFRaFZSSQ?oc=5"
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHpZQ2xhdnNGUDVqNDNfd1ZjbThsbkpQbzBRWUtyMjR1VDZMRFZVeTZFQXBkek43NEFLVC1saXRxN29KWW5UYmltLTJnMDBxMHFQUEdPMTdsVWh1RHRueVZMc3ZidDBHQms4X0MxV1hJcjR4UnNDdnFtZkRjcnRtWllPVmh2Z1oyb1FVa21IREJqcnZSX2I0WWdjUjFHdU5YTUE?oc=5"
     }
   ],
   "insight": "Tracking Coinbase (COIN)."

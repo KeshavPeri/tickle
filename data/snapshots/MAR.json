@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:28.188Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:40:00.261Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    364.4700012207031,
     374.42999267578125,
     383.05999755859375,
     383.5199890136719,
@@ -24,10 +23,10 @@
     357.3299865722656,
     359.95001220703125,
     356.6000061035156,
-    356.3900146484375
+    356.3900146484375,
+    360.20001220703125
   ],
   "6m": [
-    355.0799865722656,
     353.8900146484375,
     359.94000244140625,
     356,
@@ -158,10 +157,10 @@
     357.3299865722656,
     359.95001220703125,
     356.6000061035156,
-    356.3900146484375
+    356.3900146484375,
+    360.20001220703125
   ],
   "1y": [
-    273.82000732421875,
     268.6000061035156,
     267.8500061035156,
     269.6700134277344,
@@ -411,12 +410,19 @@
     357.3299865722656,
     359.95001220703125,
     356.6000061035156,
-    356.3900146484375
+    356.3900146484375,
+    360.20001220703125
   ],
-  "lastClose": 356.3900146484375,
-  "oneYearReturn": 30.154848117599776,
+  "lastClose": 360.20001220703125,
+  "oneYearReturn": 34.102756523473026,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Marriott International Inc. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVmNzVGJ3WklXTXdMb3lmanhtTnVTVU1qeTZja2hmZXBaT2t4eGhfZl9MNHR6N291Z3BfSkFyeHAyQUZHWVVBUk8tOUdBd2hUNUs3dmZPRENfZ0trQ3M4dHFFQTVVSks0dkcxc2dvdFRXblJGNVdDZlo1RDRyc2t5VVlVYnk5X1YteHZzYjV3RkdzeWl5U1VRVFNFb3NLdC04THI2MVVPM1FkdHBCUnJKQWg3aWhBOGZqWjdiMHczVzlPVXBVRm16c2JwcHBXMmNHQXAtYmUwNVpyRklhVjM3MHFhQXctcHpiWl9yVnJnb05aQlNVWTNEWDVlSHBXakpYa2NDaGpjSVNmYm5u?oc=5"
+    },
     {
       "headline": "Do Wall Street Analysts Like Marriott International Stock? - Barchart.com",
       "source": "Barchart.com",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQll4QXFGVGhBVFNQSldBNXJXdmJHTjNxR1ZLZXFtSjN4c2NmTUJsZXlpRjkwZUVpOGJqVEhJVFZOTk53dGV6V2VPNExBNVpkNW9fc0hZNWx4RXdBV1gwMDZaX3pPdjBfWjNzbEROTjlnY3lHTEZfWHVJZFRrUGF2N0JLRDdCc190UU5ycXpCazZWaFNMYzNkQmpIeFc3dUxyelU4?oc=5"
     },
     {
-      "headline": "Marriott International, Inc. $MAR Shares Sold by Korea Investment CORP - MarketBeat",
+      "headline": "Varma Mutual Pension Insurance Co Sells 14,700 Shares of Marriott International, Inc. $MAR - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdUk4M3lYamxHMXNiVkEyQThrRjBOWTBTWTdfS01Cb0NKUldGdkhteVBRRHZBZTFuTnpBV2ZKTnRRbXVaY3JFUERkdUFaTFo1OFo4YmxEZnFfdnBkejBLOC16dDdrWFF5TlZYN05GYkNjb2poTGRra2RpdDJpU19DTTBvcG5TWll2RDB4R0RvQmcwX04tNFdPTDRKUTR1VmJlSjF3TUVHQlZCZzhOM0Z3cXZRNVRvMGdWVi1qeDF0SFB5al9EbUQw?oc=5"
-    },
-    {
-      "headline": "Marriott International (MAR) Unveils New Expeditions, Is The Stock Fully Priced? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNal92SHJ4X3AwRVRnazJiTUVvci1rcmxSY2VuZUl5djVHcjV2NDRaQzFYblBBUENCMEkyUU1ZUTVtMVd3Z19ic3FubjBfSWUxR0FxWjFoZ1h3dVhoMTl2WjhmR0JiWWE5R0phejdESGwwMFp6QTVlTTgzUXl2dUc5dG82cW1sQWpHVnJEdnBXdW5FN2kyd3RtaDdsb3cwb1dhbkNFZklZQ3NQUWI4c1JaNDBROVJpVWdqc3JxOVk3eGl3LTBDdmxERC1KWFpnYTJXeGFGZU5wLXZGRzVCeGN3VTg0QdIB6AFBVV95cUxPS0xYVms5cXlIZV96UVlIX295TnFCOXFMV29ZMTRxcWkwZUVPSEJDcWlrNXpyZ0R1NEEyUnpKY1djdWRWSXc3N0RlNGkwYkx4UXNxX01qUlU5WXBWV2p1QmFIYTd3Wi1YZ1ppbVFFcFlLVnpUY0tmem1PQWdlaFl2ZzBxSnd4by1Ba3l2cWd0VHJLZHM3a181T2JJVTBHLTE5NlhzOTd1Tzh0WjBTUEF3eXpLVUNSTXAxSDlEQk96UUZUcm5vdVZfelVGMTZjaURjUkkzd2NET0pVdlV0YlBmWmNGQU40QlhT?oc=5"
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR2xpUnlneEF5VE5GVzBsUlB4dzNiOFlmU2djWmxaVHk5QUI4YUZuSHJYT3JHVll4U0VHbkhHM2JFRVp5bGYzc3lQUzVnTkpqbnB4TzdMeVV5ZFpnM25zV0RQdDVYMUtKQnNsN01oQm9UdklFNGNHMWhxQWNUN1ZCajRmY3Z4Rjg0Z2lCLTRCVVhqVmtaRi03VUgwRWZBWldtek0yajhrTjFEVkM5dUUxU0JoallIcGEzNF9JUHZQSDNsVHZwUGR5X1dpbldjMTJwbWdfblFSYUZoSzlTWHM2ag?oc=5"
     }
   ],
   "insight": "Tracking Marriott International (MAR)."

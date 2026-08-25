@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:04.891Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:39:39.136Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    926.0599975585938,
     935.030029296875,
     951.5800170898438,
     966.5800170898438,
@@ -24,10 +23,10 @@
     961.3499755859375,
     956.989990234375,
     933.510009765625,
-    947.739990234375
+    947.739990234375,
+    971.4000244140625
   ],
   "6m": [
-    998.8599853515625,
     1018.47998046875,
     1012.0499877929688,
     996.0800170898438,
@@ -158,10 +157,10 @@
     961.3499755859375,
     956.989990234375,
     933.510009765625,
-    947.739990234375
+    947.739990234375,
+    971.4000244140625
   ],
   "1y": [
-    958.5399780273438,
     941.5800170898438,
     941.3400268554688,
     949.52001953125,
@@ -411,12 +410,19 @@
     961.3499755859375,
     956.989990234375,
     933.510009765625,
-    947.739990234375
+    947.739990234375,
+    971.4000244140625
   ],
-  "lastClose": 947.739990234375,
-  "oneYearReturn": -1.1267122958392315,
+  "lastClose": 971.4000244140625,
+  "oneYearReturn": 3.167017861783422,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Costco Keeps Beating and the Stock Keeps Stalling. Q4 Earnings Are the Next Test - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHhOeXlFVFE4eUpieG5FNXdrUmV0Q3VEaWRkMXFLZzJrS3NrOGpOWjE4WWZDNllpa1VGU1BJc0FTS19PQTJRalJ1cDFzU0oyckhEMTIyWW4zUVpURGlzZXNBZ2tjWU80NlppV0g1MHZlRDliVm8zWThRMGdGb1hhN1NfQTBYM0NJTWl4bkNZNFQ4dDJ3Q0tkMFpTLVZ1MEVOUlhjeEtWVno?oc=5"
+    },
     {
       "headline": "Costco Just Upped Its Dividend by 13.1%. Here's How Much $10,000 Invested Pays Each Year. - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmFWT0kyTGhBMHFVaEZOWkJuRFVmTGRxQl9FSjc2d2NiUnowakM1eFRqMmhhWm80T1RIZnB2UmxldU0zS21jV20wc3BaSi1XUlZlcnI5M3I2dVI0S2VBZnVnbHRiTDQxOHNXYlptUml4SFdzTnY3LVJpWGJTN0NQSDd3RXJTdkJNTDJ4V2V6UmFuNV9GeEdSVTVn?oc=5"
     },
     {
-      "headline": "The Ultimate Growth Stock to Buy With $10,000 Right Now - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnktWEdoUGVKZ2hkYTdmS1FzUFRRZmM4Z2pNbFZTRHc0enpWb2ZxblJ5VnppT2wzZDhZVEdrQm8tbjA4Vzg5bzdnTlhZOVVld0ZNTTFlcGpxYmJ1MV9QWXI5QWxfWXZlcnBibjk5bHhBV2ZoQ2htLVNUTWc3MDhyMU9YWFl2eXVDOVNDS080cTJ2OHNNUE4w?oc=5"
-    },
-    {
-      "headline": "Costco Stock’s Medicare Pilot Targets a Pool Equal to 6% of Its Paid Member Base - TechStock²",
-      "source": "TechStock²",
-      "when": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEVFcHQ0aFF5U2ZmY3FCcEdGdHo1cGt2SjlsQkRvNlYyYmRXQ2ViUlVYS1k3d2dFZUFSSXdrOG5LS3NfcGlJS3lWUEoySTJ0OE10UFNQSFZaYkR6eU5qYzFiUjJuNE1mYTRHN0JwRDdmZ0IwdkduaUNrZHlvNkMySGtIaFlXeWFhbWlWb0JSRndUTThLZTlPYVN1Skw1Q1lE?oc=5"
+      "headline": "Costco Wholesale (COST) Following AI Shopping Traffic Growth And Refunds, Is It Fully Valued? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQzNIOHJLbkNxMXBkOGlYUmFUY0tqNnFYRkM3bmdBNWh2UVVnQ2tuYks0YzFHeVBMcEl5WlVadXh5ekpZMkVXeDZwV3EyUTNWVXROVDBMVXZtRkdFQ19SeHZLZ2ZuUmp2T2FJTmRXQUxhVTMwN2YyT25mY1FVd3dzNENjYjhKYkdtMVpibWFTZ2pBa2FOWDR3OTJ4TkU2MkItZ0dSVHdXaGV6dWtuRGlFZlVmSGtfRUpBMGMwY3RCVHFSc2paaHdWTTdMMTdqNEdNUW5oaWVZQzJBSVBlQ1HSAeMBQVVfeXFMT01uaFk2TDRjY0RCLWExWmxkUmoweERKRlJXR2YxVXpLRGEydlB4X0JLdUQ0Q0p0d0lVRXlsLThNU05IUkZmUjVaaTJxeEo0MW5jcHRtVF9LMV9zLTZUUU93eXlwUFhiRW1ramZBVl82Skd1MWtIVF9GeUdMSEVfbVJ3cUtsZGlRcTl6OEt3T2VYRUFTSFEyd3NrdjhsdEZzZnhJUUFoX0RwRVJRQU1rb2E3bC03UU9QdXN3Z2hGbVBSOFBpZUNNaFcyYUh4UzlhWW5ob1J3UGdHRFdjckpxOHhlQmc?oc=5"
     }
   ],
   "insight": "Tracking Costco (COST)."

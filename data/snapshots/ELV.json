@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:11.695Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:39:45.418Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    379.30999755859375,
     377.67999267578125,
     378.3599853515625,
     385.7300109863281,
@@ -24,10 +23,10 @@
     398.2699890136719,
     398.45001220703125,
     396.2799987792969,
-    400.5400085449219
+    400.5400085449219,
+    402.6300048828125
   ],
   "6m": [
-    336.0400085449219,
     346.79998779296875,
     344.7799987792969,
     346.239990234375,
@@ -158,10 +157,10 @@
     398.2699890136719,
     398.45001220703125,
     396.2799987792969,
-    400.5400085449219
+    400.5400085449219,
+    402.6300048828125
   ],
   "1y": [
-    316.54998779296875,
     314,
     310.0299987792969,
     309.80999755859375,
@@ -411,12 +410,19 @@
     398.2699890136719,
     398.45001220703125,
     396.2799987792969,
-    400.5400085449219
+    400.5400085449219,
+    402.6300048828125
   ],
-  "lastClose": 400.5400085449219,
-  "oneYearReturn": 26.532940764756752,
+  "lastClose": 402.6300048828125,
+  "oneYearReturn": 28.226116204717357,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Elevance Health Stock Outlook: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXlOMWE5RWVhMnVucnVsa2phNmNqQ01kTGVaTU9tMG5UX2R3M2ZBdnhramVLNUMwbzY0dFRUSjVFOHdQTVF0TkNkSlF1OURjbTJHb050TWg0a2VzLVYya19KT0otS0p0Q3g3dWllLTVoRnA4VE4xTXZ5d2N3S1o5TWhIMmxBWWlNeVFXYVFuc2h0TElWeEkxOS1XZTllYkoz?oc=5"
+    },
     {
       "headline": "Elevance Health Inc. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRTB2d0FPcE9ZckEtd0tWSDZJX3VUX2M5dV8zWFNRQWJEUW5lUUJXUm9iUjd3Mm5GNVh5VUs1MURMYmY5dkRkOFRzQjNVR1RSZVhIUDFBS1hrbmEyU29rR0gySmJiQkI1MXNIZ0xOeW9ZdkxHN2t0aE9JZ0lMSERoelIzTTNDN0FBRlhXODB0WUFWYks2TjU2cTFWcjk1Nkl5dlZ4ZHhjRURuaXF5eU9wdzloVEQzczFIS2g3aXJRNkZ5NUNfdE5WdUZqR0dEdjFWeFo1NXpDU0daWV92cnRCUXM4LXpGc3gtLUdv?oc=5"
     },
     {
-      "headline": "Elevance Health (ELV) Stock Still Looks Reasonable After A 43% Run - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-07-22",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWk5VLTlxMmJua2h2aGQ1WFpEZkM0bzFNaTducW5FQVpDVnc4UWJiOGUxVm1WbDFpdDZRcDUzNVM5VGdrZllKNU9mTUJKTXhJRFdVSEVLOC05bWVvV054Vm1vUmVXeFRkMHVzeGRLUm9vS2NTMTJTcmFvWHZnS2pYRS15Vk9aU3RVMG5FdEJTRUQxWTd5Y2JrS2hHUDI?oc=5"
-    },
-    {
-      "headline": "Elevance Health (ELV) Could Be 11% Below Fair Value As Carelon Growth Draws Focus - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc2ZPa252QjU1eUFyZFNaeWRtNjZQVmttWVpINkEwb2VHS09tYUYwVzNuV0NPYmFJYWZkdVd2TGF5R284TmpkUlJ1eDA2WnhUX2Y1OWxqeGFBYWVVYU1heEY1c3YtZXpiSlRoR2ZYcUdoNU5OamtnT01MUGZOLWpfWjd2R2NNMmFiOUJwSjl4cEtXSmdqbGVBeHpIMUZxVExDTEpfcXZWY0RMTG4xNjhaM1ByRFRjVjJXMFhocTNEN1plTmEtVHhrcnI0SkbSAdIBQVVfeXFMTVV1b3hYNHIteEo0aDkyN085cjRKT2UxYnRtdmZwdkRPRHhkU2N2RmVRZUZacmU5Y3NWUDBjS3lKUG5FQkRNbUZWWHQ5ZEgwODlXV0Q3eXJDRGVnTXp0ZWZPR2FMaHJhSjFZWEhoQjhiSHVjUFM2OVVsQlhNa1h4SlJpaFZIaXJ0dHg2ZUY5a0o2Sm94Sl9OQUEzOTlsbkRJb3g5VjJWWDRsVVpvSUthQWtqbUJ5SnJJUGMxQ2J4ZDVuRkxIYlJjck8zQ3l2Z1doaGFR?oc=5"
+      "headline": "Elevance Health CEO Snaps Up Stock After Post-Earnings Slide - Barron's",
+      "source": "Barron's",
+      "when": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0ZfUWNxSTNHTDREVmp2aG9Wc1JERTdqR2VESEpZZ0c3UXdaZmc0ZFFPZVQzT29zWU9HTGx1YWQ2RXNnOG9nd1FGcDMtYXRLY0E5eUM5Mk1Ha2ZVOXpvZ1lzb3ZKQ1dMNDl0djZfcEg0S2FuVDBGS0dqRU9ySjd3bnVB?oc=5"
     }
   ],
   "insight": "Tracking Elevance Health (ELV)."

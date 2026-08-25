@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:29.830Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:40:01.960Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    215.17999267578125,
     214.47999572753906,
     214.55999755859375,
     211.5800018310547,
@@ -24,10 +23,10 @@
     217.5500030517578,
     214.22999572753906,
     207.4499969482422,
-    214.1999969482422
+    214.1999969482422,
+    214.0800018310547
   ],
   "6m": [
-    168.05999755859375,
     171.14999389648438,
     171.5399932861328,
     176.58999633789062,
@@ -158,10 +157,10 @@
     217.5500030517578,
     214.22999572753906,
     207.4499969482422,
-    214.1999969482422
+    214.1999969482422,
+    214.0800018310547
   ],
   "1y": [
-    148.02000427246094,
     147.64999389648438,
     148.97000122070312,
     149.3800048828125,
@@ -411,12 +410,19 @@
     217.5500030517578,
     214.22999572753906,
     207.4499969482422,
-    214.1999969482422
+    214.1999969482422,
+    214.0800018310547
   ],
-  "lastClose": 214.1999969482422,
-  "oneYearReturn": 44.710168062124566,
+  "lastClose": 214.0800018310547,
+  "oneYearReturn": 44.99154126693943,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Morgan Stanley Gains 45.1% in a Year: Should You Buy MS Stock Now? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcEg1SlFfemJDVEQ4RHVHZVVOTlZLZmJGQl9TdEQxaUpXUWRGNmhXSFZ0RWtQSGJZc3BlbHZKcTFlbjg2ZnIwX2tTZGp3ZVFWMzlTdjhwVTFlSjdwWkJ2MGNjNVV2c2dFQnY5dHZPTDFvUlFvel8zdUkwNC10dm94eTNPemJ6TEhLMUxEby05VXZmWXlt?oc=5"
+    },
     {
       "headline": "Earnings Growth Bolster Equities - Morgan Stanley",
       "source": "Morgan Stanley",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObXRnVEl0enF1TXpVbU5FbG4xbXp5TlRVUG84ZTdMSzV3QnhkbjBlU1RqRlItMXd2NjZWbzhMRk52TlF5bWR4WW5neFBva0gtNXYtUFpCRUxOUmRyd0pkX3B0SFIxanZaOXNyVGdxZkhYVUtoVVZwVGl1OEVGUTZDN1IwVGp6VjhOOHFSckltbFhCb1Yy?oc=5"
     },
     {
-      "headline": "Why Morgan Stanley Stock Rocked the Market Today - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXdfaHlpdmJldU1CTFVLdklhRWdtdnlrcnU2d2RwN29CUUJRZ2VYdHJGWHZRd0k5T0J4bmNTenhGbzRLMEJ0Q284WVpYSTZKWldZS3ZBTl9rMUJ1NDJGUzNDa3drcW8xVUZCaURnS1l5bGNMNUxMa0RJLS1NTHREVUdyeFAtcUJNOWNmNWhTcGNyS1Y2ZE9mQXJtTko?oc=5"
-    },
-    {
-      "headline": "Inside Morgan Stanley’s XRP Shuffle: Three New ETFs and a Much Bigger SPAC Position - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "when": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQUg4Z28yYmlCQ202b2dGY1NFS2hiVjZ6VE1kcHltenFzdk5fODR5V2JCbWZzV0ptX0RGbmRWYzREXzdPSHpGNUFGc2tfeGdlUXpTbkRPaE5OeVI5d2IzNVNvR3dKak1iZ1VzVXFSQ0E5OFNLZFZvT0E3N3VTaXZkZHVsRDdvak5TM183SVc5Y1gzak9LM2VLZGpMSnhNbW54VFRTMG14ZnpvZTNLUVBNMnlFYmIxcVhZX0pSWDZIdUFORFE?oc=5"
+      "headline": "Morgan Stanley (MS) Just Gave Investors Something To Think About - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRjNtelZqQlc3b3cwZWdtOGdNcmlZaTBIMVBkNzVsdTNMMy1CTGJQbmQ5OHpuYWdWX05mOGdMVGsyS3NSQVhpQVBUWUdiVzNMTXpPREhhMlRRbTdPR0xSdlkwRTlfM0Y5YndVYmR3NnYxVV8zZlpMX3oyMk1RTHdWamMzckZmV1BWdExXZ01ERGdQQ1ZhODBtNGdXc1g5MGFpb1JHdlU4cWVxTnZhUHVMZmc1emxPZF9XQXFJV0FtNzZTcDh4SFhWTlo1b3M4OTUxeDVuaEVYUzNseUXSAeABQVVfeXFMTWdJUThFTGNhelFBVzNid3dFb1RCcjZJaFRmZ0Q0aVc1dGhYWVh0SDlGZXJOUFBjQmNXeW4yVXAyb3E4NThDeHNaWG5MOWh0a0Nvb2ZtQTRaQ3lWSkltY3d3Z3FnbkdNUUtEXzA4OEpiUG9halVHVThUTWthbnhLRzBYTWFpU1hJRVRXdWQtUXNKR0FuWE5zekYxajk1SEE0eWJyblg4QWI2RXJMMlhiSzNJSHpGbFRBNWNRVm1oSDRFUm84T1ZJY1dGUkVmQmRkcTdfenpSZ1FJblJEX3lvdjA?oc=5"
     }
   ],
   "insight": "Tracking Morgan Stanley (MS)."

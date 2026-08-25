@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:19.281Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:39:52.281Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    1074.719970703125,
     1061.22998046875,
     1048.22998046875,
     1033.3399658203125,
@@ -24,10 +23,10 @@
     1040.469970703125,
     1021.6500244140625,
     1001.9500122070312,
-    1039.280029296875
+    1039.280029296875,
+    1036.280029296875
   ],
   "6m": [
-    904.5499877929688,
     905.1400146484375,
     916.0399780273438,
     933.72998046875,
@@ -158,10 +157,10 @@
     1040.469970703125,
     1021.6500244140625,
     1001.9500122070312,
-    1039.280029296875
+    1039.280029296875,
+    1036.280029296875
   ],
   "1y": [
-    741.8900146484375,
     738.7899780273438,
     748.9500122070312,
     749.6699829101562,
@@ -411,12 +410,19 @@
     1040.469970703125,
     1021.6500244140625,
     1001.9500122070312,
-    1039.280029296875
+    1039.280029296875,
+    1036.280029296875
   ],
-  "lastClose": 1039.280029296875,
-  "oneYearReturn": 40.08545859582205,
+  "lastClose": 1036.280029296875,
+  "oneYearReturn": 40.26720179175477,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Is The Goldman Sachs Group (GS) Stock Outpacing Its Finance Peers This Year? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0pZZjVFQXRubm5KWkJrcWxFVGdWeXJXaXhGaGlzelJXQ1RhMlJNeFM0NFkxemktXzVGSklsQ3BrbW1LMlVTb0ZBOGtuY0lmT3BNU0hGVTVpbUI4dWh1eGxTSUlCXzNYOEJUZGFINjVNMFdFdHI2MHNJVzNpSGxBeWZDNWFhQkRheHM3d1NNODZzcFJ6dUFJRg?oc=5"
+    },
     {
       "headline": "European Stocks Defy Global Shocks with Strong Earnings Growth - Goldman Sachs",
       "source": "Goldman Sachs",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWNWVlI0NDU5LS1NMHJZMzF1cWlGbk5fN0YyODNSWndMbnNKN0hOYUFwcUNGQzE1dWFTRnhkYW9rQ05CYlgwTHA3aVB3cGNvRWY3Y2R3eWV5OXpYVHVhQzVhWnN4aHZfdWRGTGM4d3kwcDNIVjFmdHBzV1VOaFlpM1RUSkpUNU83ZWhucXk3UnptOEVFRXFMTUpJbUpuRFRuYnpJdXNrU3EzRFJSekE?oc=5"
     },
     {
-      "headline": "Goldman Sachs (GS) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXV4S2xhV2xKd1YwbjRFbjV4V1NvZFBrOW1nRWVfRE9sYXF6VmZuMk5kVFFNMWlvRlpSbGo4WENOYkdQQkZzTzdQVUFKUy1XV2JYR2JiNHpOLVpMejBrdkNBQ2pFTVZNR2pQVGNDQ3YxTXRYSjQ3dm9vN24zeHM0clZVNjJ2cXdDdGNiNHhSMG43Q09GZnNoQw?oc=5"
-    },
-    {
-      "headline": "Goldman Sachs spots huge twist ahead of Nvidia’s earnings - thestreet.com",
-      "source": "thestreet.com",
-      "when": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbVVoUVVtdnI1LTJFb3BCQjZ0MDRaWGxXclBCTnZvQm84Sk5sSkdyR1g1WEFMa3AzcEVEd2xJVzBHamRqNFlCb1QtWGM2aFJnZWZWV2w4S3FpSmdiNFpKWGQxMEtDdmRiQndFZnBxRjZfR2IyN1puSkJaSmZJSWJPcFdiVHpKSnowRThZSjlhYzExLXdWeW9jc1d3UlVqdw?oc=5"
+      "headline": "Goldman Sachs Group (GS), Why Is Fresh Attention Building Now? - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT0FlMFlUckF5NTVjckY1UUwtX3lFNndPTzFZclQzQkhETmpDY2pUTlNicjJxcnhwZ3pkNnk3QVdiUWpiNE5NUm5PTGRpNERtV25HVEZqMVZpbkRtaG9kZXdlZVpZQ0RVSzFUZ2MydXY1UEFJNkE4RDZ0UDVJQjltZDQxS2w3UU9TT3hyMEtQaV92bW9IcVBuTFJOS0JieWI3OGVteXd5U1VMTERmaXFCSkZaS0tuMGktcm9ETUcyTl9UdFJtVWpuLTJLZlhIMmRBdFgwYTAzX3pnT0llbXlV0gHkAUFVX3lxTE1nY1lzNWhoWFB2N29QSEs4NDd0NUdrVVpTQk01NTFyQUtzc1lHVm5SQUx0LTF0SkZUc1p4bTQ1OGstb0QzdHgxVm1xUy11aWNRWVVBbmNpSDVNNjR4SUstcXhwLTBVY1FFREZKWWY1R3JvNDUwVERaakVlSGtWU3Z3M2JWMnpDVUxEWmpxYVZvcUluRklkYS1TSzFNNDdYNTRJUDY3TElJS3JIR0ZTcXY0LVU2M1J1Sk9JUlhTdUUyZkRiOFBYdWFQUjBNZzZ0Rk5UMVZqazZPYldNdXdDVHYxRkN1Ug?oc=5"
     }
   ],
   "insight": "Tracking Goldman Sachs (GS)."

@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:45:58.048Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:39:32.751Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    21.670000076293945,
     22.399999618530273,
     23.34000015258789,
     24.3700008392334,
@@ -24,10 +23,10 @@
     25.940000534057617,
     26.639999389648438,
     26.40999984741211,
-    26.34000015258789
+    26.34000015258789,
+    26.489999771118164
   ],
   "6m": [
-    18.709999084472656,
     19.790000915527344,
     20.739999771118164,
     21.8700008392334,
@@ -158,10 +157,10 @@
     25.940000534057617,
     26.639999389648438,
     26.40999984741211,
-    26.34000015258789
+    26.34000015258789,
+    26.489999771118164
   ],
   "1y": [
-    24.540000915527344,
     24.559999465942383,
     24.5,
     24.530000686645508,
@@ -411,12 +410,19 @@
     25.940000534057617,
     26.639999389648438,
     26.40999984741211,
-    26.34000015258789
+    26.34000015258789,
+    26.489999771118164
   ],
-  "lastClose": 26.34000015258789,
-  "oneYearReturn": 7.334959942571243,
+  "lastClose": 26.489999771118164,
+  "oneYearReturn": 7.858307602376513,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "How Baxter’s Finance Leadership Overhaul and Debt Moves Will Impact Baxter International (BAX) Investors - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaU1vcm5Nd240cHpWLTFSNnd1ZTktNnlLT2cybHk5OGVyblZaS0c2c2RSNjRVMm9BVEdxUllsaWJ4UG40UTREQXA1SS14RXk1QzA0SFpXN0ZrbW9RTU10bjBReWZuaFNDR05KNWo0UlByWTl1ZE5OSzJ0OHNWY1l5WW0wWkdsSUFBSXhOS3EyR3RwVWV4UWViNFhRWkZVU0Nyam5pc3RGSWcwdkYzelRHd21FZEFRMEgxcmdZckNmcnJ3emxFM0NxVFVlTHZXT0FIY1JwNHhqT1rSAdgBQVVfeXFMUGlNb3JuTXduNHB6Vi0xUjZ3dWU5LTZ5S09nMmx5OThlcm5WWktHNnNkUjY0VTJvQVRHcVJZbGlieFBuNFE0REFwNUkteEV5NUMwNEhaVzdGa21vUU1NdG4wUXlmbmhTQ0dOSjVqNFJQclk5dWROTksydDhzVmNZeVltMFpHbElBQUl4TktxMkd0cFVleFFlYjRYUVpGVVNDcmpuaXN0RklnMHZGM3pUR3dtRWRBUTBIMXJnWXJDZnJyd3psRTNDcVRVZUx2V09BSGNScDR4ak9a?oc=5"
+    },
     {
       "headline": "Why Baxter International Stock Skyrocketed by 19% This Week - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUTA4R3JqWUhsWTZ4TzJoV2NqTnFQV1BOUzRqUVZ6RllFMzFsZTlDcDROUGZQbWhXeGZLbDhEcnBVUWJHT0tZVlBSU0hSbnQyY2xzdWlhNGd6c0Z3WTlYSXNMbzV2T3Rfb2VFcDhFWnBiVnd1SFlmbGhocjB3Tjl2MS1VR0FUTVVIM0lHaGw2NV9ORlFkR2VZaFZWWjlUc3NwU3hHWldMamNQcXM?oc=5"
     },
     {
-      "headline": "Is Baxter International (BAX) A Bargain On Its CFO Change And Turnaround Moves? - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "BAX News | BAXTER INTERNATIONAL INC (NYSE:BAX) - ChartMill",
+      "source": "ChartMill",
       "when": "2026-08-22",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeTlNYWxtdkRXZmk1aUliaWJGRFYzX2NkVHlyQUJCV2VWNll3SVI5SXVKa2V0VVk2LVNZX3FfZmtmNHA4bDdQZ0RpRXpLOXl6VTYyekVnTE4zVDIwLVRzaWV2UG1LYVZxOTFaaWlaNXZySS0xRXFnNFFqeUdZRHNMd1JPTHp3ZlAtNjF6aE54T21ONUZtZjlMRVRzQlI2bHc0bTJIM05tQUZXY1VNNExUM1VzdEJvR3lEbC1GejdOWG9BV094bDlRdHI3cWNQc0xOT2t30gHYAUFVX3lxTFB0ZVZ0eDVBZGZHeGZqZVgybTZYQ1BEdmgxNEdibElqWVpjVFJvMF9OZXBtUzFWZWw0STFZR0lMTE8zclZFTXlGdzZ2WXBOOTJFaU9pRUZaX3h5ZDlNUmVseEpmMFdDR3lTeVNDbHVMVFRRODBOWHlBMkRMSmxJdDJEdjZzQXNjZ2dfeVl6Z1lDWmYycE1fNmpvRjdsMS1idWsyUlJGRXBvWVlVc2ZXMk5sd3c2dHZibllhbTV2eW5ubUdxUEtCMkEyV291OHBZSVFqRVFzVlVOSQ?oc=5"
-    },
-    {
-      "headline": "Why Baxter International Stock Skyrocketed by 19% This Week - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-07-31",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVpUVDJfY2h4X2x6QXNPbkZGSGNMTmdGOVE0cDctb0lDeHVJUmtqODNxd3AyZTVvQXdnRTdpMUk1X3FSeUZ5LXdjSm4wVXRyQXRfdDNyd0tEdWREVHc2ejZNNjVCZlAtUWZDendfOG1ocU9HQWtETmZSa1JvXzJ1ZU1YT0p1QjhkWjZxUjQ4RWNNZUY4dkhiRw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yTzJlZmJnZm5JLWVxdjlkODAyd25ocW9qd3pLNTBIdzFVdGdkcVJGeGk5OVdxTFctV0laWGFhNDJwZG9WS3hoVTJRZnNyTjVRRW8tM0E3azd0Zw?oc=5"
     }
   ],
   "insight": "Tracking Baxter International (BAX)."

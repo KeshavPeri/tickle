@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:27.970Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:40:00.119Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    176.05999755859375,
     177.24000549316406,
     179.39999389648438,
     180.8699951171875,
@@ -24,10 +23,10 @@
     179.83999633789062,
     184.19000244140625,
     182.02000427246094,
-    181.82000732421875
+    181.82000732421875,
+    184.58999633789062
   ],
   "6m": [
-    154.8699951171875,
     158.27000427246094,
     157.52999877929688,
     155.77999877929688,
@@ -158,10 +157,10 @@
     179.83999633789062,
     184.19000244140625,
     182.02000427246094,
-    181.82000732421875
+    181.82000732421875,
+    184.58999633789062
   ],
   "1y": [
-    165.72000122070312,
     165.83999633789062,
     166.6199951171875,
     165.57000732421875,
@@ -411,29 +410,30 @@
     179.83999633789062,
     184.19000244140625,
     182.02000427246094,
-    181.82000732421875
+    181.82000732421875,
+    184.58999633789062
   ],
-  "lastClose": 181.82000732421875,
-  "oneYearReturn": 9.715185846561699,
+  "lastClose": 184.58999633789062,
+  "oneYearReturn": 11.306078397275058,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Live Nation (NYSE: LYV) officer plans $533K stock sale - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjltMjdoRzR5eHF2WjlLRU1YU3MxZG1FdVdLbDM1ZTEzSklocGotN3l5Ylc1cy1UcEVva2o2OG1fN3FPNHBVMVNvaFBxS2JnVm5ILVBiN1k4RUZZN2QwcnRwcTRZNTVBbHlaUC1JMTNSSkRzbEVtM1V2RlFYY0hraWs1WnJuX2M3U1NCcDYxMlFZV1NPUnVXYVkxZEMzR2lYNmhvc1g1WUI?oc=5"
+    },
+    {
+      "headline": "531,508 Shares in Live Nation Entertainment, Inc. $LYV Bought by Connor Clark & Lunn Investment Management Ltd. - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdWtUNUd1WF9GSTIzUGNlb0pLRTRhdVJiYU9xNEtKUnlubEJSWFc5S2dWbzRTcnR2SHZKdVhNWllOOW44aXc0d3lwZFJaQkNmMGIxdUhaT3ZPdHI0WXlQTUNGdTM3b1hhRm9neW1QV3hZWHJxblFVZHRQRXRoWTgzc1RQNDk5VTk5Wl8yMjZHMVNxT1pabVhvX0hWcmhVX3BmbmxIV2pCbnlGV2o3QzJGUUM4bWs4UTVMRk9wMmJYVm05dDkyTFRqTWRJVHNIU0xrNUs2RC1mU0pWckFWSVFodEFGY2N4NklQd3E0NEZjSTNfNm1EUnhLLQ?oc=5"
+    },
     {
       "headline": "Live Nation Entertainment (LYV) Could Be 10% Undervalued Following Its Recent Pullback - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-21",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlJva2NRRXlEbHlTZ2pObWJYVGhnblFSNTdVaHNWZmR4b1lKY3Z0dnFyMWRnVDZNRnZyUGQ2RDlzaUhRYk4yaHNlUEsyYmxXemFabUctb2dWeHpadXhYVXBCdnN3cDV6SXZWSENwTXZJdVZaOU5FeW5sc0thTzRxM09yNTdvcXVLSHZCaXNSOF9vUkZMTC1CaTJGSV9yVkduTkE?oc=5"
-    },
-    {
-      "headline": "Live Nation (LYV) Stock Looks Fairly Valued As Its 114% Run Continues - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-22",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjJiRHBlbk9kZkhnRjNNejJrYUtlU1JBZm1QMlNmWGxINmZvRWRPRWhuQ0dsajBqTjlpYWRGb09UNkNfalpyczJ1QjVYaDkzcHdYRVZtelMzU1lkZWNKWWdvSWJlUHBiWk43bUlMQnBtLXctUDB0V0FXOFNlUFVCeDNBSVRSMmtTdEFZN0J4UmpJY0ctUFl4WWJzYl9YYUpET2t4ZnQyRWE3UHV3Vk9tbUdRWXJIanRkeU55S2VOYVgzZjJLMnQ5ZXRaM2hfMEU4QmZ1NdIB2gFBVV95cUxOZDkyT1JPamlWdVhfc1gxcWdKNmtub0pVXy1SZHlQbHFlTTdpeERTUzZxSXhpakI5ZnhUVS1qVm1SS0pKZ0FoWFlSQWFMY0xuQVVfMkJSRUU1Z3g3LVNPYXlvbmR4ZFZBSmlFQmh3c2hsZzVTYVlwNm5zV0FtOTdyLU9BSG1fTkswdDZHWkgtVWd3WDFTLTk4bVhpY1NGLUJJWU5iVkVoNndsWXV0UWoteTRNU3ItS2dUM2U2bEp3U1RCNU82S19tM1pnVk1pSW1aSjNRYjFaQkNGZw?oc=5"
-    },
-    {
-      "headline": "Live Nation Entertainment Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQelJMdEdBYThyaDM5Y05kNWlVcEVVNE42M3FXNS1vQ0s0TlJqNlRLNDdpcHJJTngwMWp4SmJVczJtTnBXblVhMk9IeWs3SnFUQ2hXRlUxcTc4WVdDSHdaVTlEWWpnZjBkeU1xRkxfUlR4MUx3emxrV1FfRVZLaE96VnAxV1dhSkVqYlhlZVAxWmI5NHlZZkVoZmI1OHRKUnEzOE5zOUFUWjdUTkFtcDRaYlNMSXhQVnJsWkppUHBLYVNVb1REM0xyQ2x1Nll3cHRtNWNMSUpyOWtfTElJcUFuRQ?oc=5"
     }
   ],
   "insight": "Tracking Live Nation Entertainment (LYV)."

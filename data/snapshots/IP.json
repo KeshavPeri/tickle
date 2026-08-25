@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:23.814Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:39:56.294Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    37.90999984741211,
     42.15999984741211,
     42.40999984741211,
     44.09000015258789,
@@ -24,10 +23,10 @@
     40.04999923706055,
     41.060001373291016,
     40.36000061035156,
-    41.4900016784668
+    41.4900016784668,
+    41.040000915527344
   ],
   "6m": [
-    49.16999816894531,
     49.099998474121094,
     49.04999923706055,
     48.47999954223633,
@@ -158,10 +157,10 @@
     40.04999923706055,
     41.060001373291016,
     40.36000061035156,
-    41.4900016784668
+    41.4900016784668,
+    41.040000915527344
   ],
   "1y": [
-    48.88999938964844,
     49.38999938964844,
     48.779998779296875,
     48.369998931884766,
@@ -411,12 +410,19 @@
     40.04999923706055,
     41.060001373291016,
     40.36000061035156,
-    41.4900016784668
+    41.4900016784668,
+    41.040000915527344
   ],
-  "lastClose": 41.4900016784668,
-  "oneYearReturn": -15.136015143310585,
+  "lastClose": 41.040000915527344,
+  "oneYearReturn": -16.906253446666685,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "International Paper Co. stock underperforms Monday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdld1R3ZRcFZQZ3JKUU5mRmxsZU9heDQ4MDF3YUludDZPOFM5WXlQRUd5MlcxVU9BZzU3ZkJ0cXFScGl1b2dGR3FaUHhBNkZ2al80Q1dsS3FVWHRtV0p4YmNWX3BMcVZYNy01ai0teDNwSW5LT2RHSEdqZEYtdjM5SWI5T1M1R3R1b1hOSmhOd3JYZU5VanhnUXczQ0lvRktOM2NVWVhITGNXRzR1UERtazlXa3RKcVg5Um1OZDFaTXYtNWVyNWdXRW1IdFoxaVVxa2JRdjduMW9xaEJiZzB0b2p1TjFpTEFvbU8zMw?oc=5"
+    },
     {
       "headline": "International Paper (IP) Stock Still Looks Like A Bargain On Price Hike Scrutiny - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTRhZ2xQRTNWVnBOcVBoeFM3ellhMlZDalQ2U0c1R05GN1ZXek1NY3pBRmJLVWpTSUVFQTIxR1lhNHpyd0E0cHV4N09YNU1Zb2QyLW81STYyYzhWNEFpcEVSMjRPMmVCV2wwVkYwVUIyeU4ya09kVzFCWThrbC1yV09uSS05eHpiWjl5T0RuWlN0WHZfd1JQd3kzMGNRQ1RY?oc=5"
     },
     {
-      "headline": "International Paper (IP) Rides A Profit Turnaround Narrative, Is The Stock Trading At A Discount? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWks5eDJ5Tk9NRVZjLXhUY3VqMzZqMndwNEtLaHN3WHd0MFNtX0RCM21JR3VGa08wTjZ4V1EtaDRieWwzLXlTdnNzVDltUzcwcWQwcnZEazlyLWFreFdfQUw3NC1pU0FteG1MTUpsdFlCbUFQRHI2amhRNXlVdjNYNzd2YVNGZjUzVjNHdkpYSWdCaGV0akNYdmM5YlRsTlZ6LXIzSzBmaDJ6Y3dUQWVCMmVMWGE0YmduemdZUUQ3ZWd5LWg1RUdyal9SWjRZZ3Bh0gHWAUFVX3lxTE5OSy1wcGUwNHNxTTE2MnBxMzlZcUxrVEpZY004NnI4TkF6ZXZUR0VpdUVkWjNNNjRqT0QzRzdCOG1oZ09IR3YxTkItNjBGazV6a2VMVmNOWEtSeUJJSjVUTGNmb0R6c0hreDVzbjVCRVVudm04SXo5WnJSaGlGNERfWUFibXV3WUlEZE02a3BRR0Yxa0FGdXQxaEhnRndKeHRMVjlhTzJtQzZpUWtQN2J0ZHE2SEkzUDhQajNkTHJhQ19ldnJwdVU5VVM1T1RJZ24yZG5RcVE?oc=5"
-    },
-    {
-      "headline": "International Paper Co. stock outperforms competitors on strong trading day - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMHhrN3lKV29nTEFrUXBuREF6XzhXZERxX2N5SWVCMDFOb2tSSk1La0hIZDJ3Y0szSEdIYWVfZGRLdGg5cGlmUmhfaWdpOFM1YlowNk9wd3pIWVJkRkFsZ0xPZ0dEWjZ4eTlYTk9IYWd6eVpvNElpYmNNaEEyc2tBejFQN0lYVVJjRXpQcHFHcTRXcGdIcDhKaTNvaHRmZVBXMW5EbUtVWFV6Q3pWS3RFUWlkdW01Qm91MnEtRVdjdHNfUzk2TG15bTZRVVhmbHNKTURHN1I2NkRZY3J5eUJrWnJPSUFBX0k?oc=5"
+      "headline": "International Paper: H2 Recovery Looks Too Ambitious, Sell Rating Confirmed (NYSE:IP) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcEZRMkxEVG9mWHRxSGJfLVR2ZENfYXlSQ0lTRWRkbHBQNWp4UW04R1lyVEEzSDAzRmdKdURsaXBxZ19FYWFDMnV2dEUzMzFiVmxsdXlmZXZCQWZVVVBPbU84RUFpeDRoc3FuNHQ4TzFTZ0dzQWFuNHRDYVRoWkF0VFUxazlDZlRkT3R6VnRpTHhjUVZXVXQtN2poS28tREsxanhSVFdWVUVGZEtEWTZZZVIzc3k?oc=5"
     }
   ],
   "insight": "Tracking International Paper (IP)."

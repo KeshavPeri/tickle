@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-24T02:46:25.428Z",
-  "builtDateUTC": "2026-08-24",
+  "builtAt": "2026-08-25T02:39:57.810Z",
+  "builtDateUTC": "2026-08-25",
   "source": "yahoo-finance",
   "1m": [
-    22.719999313354492,
     22.649999618530273,
     22.510000228881836,
     22.6299991607666,
@@ -24,10 +23,10 @@
     22.790000915527344,
     22.100000381469727,
     21.850000381469727,
+    21.8700008392334,
     21.8700008392334
   ],
   "6m": [
-    21.760000228881836,
     21.700000762939453,
     21.690000534057617,
     21.940000534057617,
@@ -158,10 +157,10 @@
     22.790000915527344,
     22.100000381469727,
     21.850000381469727,
+    21.8700008392334,
     21.8700008392334
   ],
   "1y": [
-    18.979999542236328,
     19.020000457763672,
     19.299999237060547,
     19.389999389648438,
@@ -411,29 +410,30 @@
     22.790000915527344,
     22.100000381469727,
     21.850000381469727,
+    21.8700008392334,
     21.8700008392334
   ],
   "lastClose": 21.8700008392334,
-  "oneYearReturn": 15.226561468381123,
+  "oneYearReturn": 14.984228774328972,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "KeyCorp stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "headline": "KeyCorp stock outperforms competitors despite losses on the day - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQanR6dktuTWxEMHZpNEtqVUstd2xOWTFDY0tYS2w2Y3JyZk1BYlVYUFVnWlVIcE1YVWRtcjB0TjBrVldNeWc3eXdqUWRzSS1tS1ZpTWZ6aUo5cE1yT1NDTi0zemRxSGZDWU5FVzc4WGZILTN6RWNYOE9OX3ctaHNXR2NjWnpWSVFpLTlMNDNjNDAzY25Id3E1dndyQVBlOVpYY2tfZnVPdkhBNU5EczVzLVRNZHp0aVZBckU3NE5QTUZyZw?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeE1vc2lBRktBRmc3UGNhWTdJd09ROFp0M3pVaUNYdWowQmFWdWtkZWlxVTJjbzNiY2hmRGxrTjlkYVNWelBnN0doREdpT1RRX0J2NWkzMng3NmNQNmZqZDVkb29WcTFkYl8wYzk2d01GbHdWX1VlSXYzY19TY2lfbW5QTzJJaDY2R3h2ODNOTC1tcXk2MEY3N0VUdFcxR2xSamZ5SVZ4Nkw3c1RUQVlDbkF1dVZGcDAyN1JjUFJCQWlSMG81aWZFRXRoTmNYNXFHVE1XaThPLTM?oc=5"
+    },
+    {
+      "headline": "KeyCorp stock holds steady as investors weigh recent fundamentals - Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUk45RVJQbWplN29rNXpCcTVTekhicHhQUXIyRWRwVVhCWVJnRjlfV1lRd1d2NXdUOE5hbFhGTVZxcUR6V1h2YjRrVm95a25Ga1RhcFgyUndxajBUVllZbFp6dkRtRlpiSVdSUzZBeDhrVDZiOVZjb2FGd2Y5ZGhxVEZZY3UwT2J2S2xWVjdrc2M1RVhmNXA1N2hoM01NZ3hUSjlQN2NiN1loSThFLUduMlFVb3Y5MTQycTB4V2R4RVl1enFCM1hn?oc=5"
     },
     {
       "headline": "KeyCorp (KEY) Stock Looks Discounted To Fair Value While Earnings Price In Caution - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFdoY3FEdkxucU5QU1ItT29KM0hpQUJIVHZ0TEhaTE9pMUlSNjk5NjNtNUp1T0hjSjZySnpXYWtqWW8yODBPRVpQWmppeFJOQnJiWVktSUdUX3FNSGVncmZvZFI3TjBGUTFfWnp0UXZhaDFuaS1KdFRabUNOck12MGhWci1VdWU0V3dObHEtTE1HMHgtcXhIb1d4bG00OEl6?oc=5"
-    },
-    {
-      "headline": "KEYCORP PROVIDES NOTICE OF REDEMPTION OF SERIES D PREFERRED STOCK - PR Newswire",
-      "source": "PR Newswire",
-      "when": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW5fRF95TGRFZEJqcjVnTVlxR2VyVGp2NHFVNV9ETlhDT2w1dlh4NHBLRF9QRzNSQzVKb1dVWWppTG5wZ1lJTnJHem9kT1JITUlkUlo3WjAyQUlBbkY1bWEwTUVWVUk0UTl2d25XeHZTVVdIUWVBbE1iUG03c0NNM2RzMU5jd0RLZnIyVXNPMWhyNmJlMkxjYzNSMlhQQ0dJZldicWt1alVjanhjTm5oQWVuTVY0QV9sWi1wNm9B?oc=5"
     }
   ],
   "insight": "Tracking KeyCorp (KEY)."
