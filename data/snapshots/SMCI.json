@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:40:08.518Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:48:32.012Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    30.100000381469727,
     29.809999465942383,
     28.450000762939453,
     25.700000762939453,
@@ -24,10 +23,10 @@
     36.58000183105469,
     36.5,
     37.2400016784668,
-    35.16999816894531
+    35.16999816894531,
+    38.459999084472656
   ],
   "6m": [
-    30.540000915527344,
     30.110000610351562,
     29.709999084472656,
     32.15999984741211,
@@ -158,10 +157,10 @@
     36.58000183105469,
     36.5,
     37.2400016784668,
-    35.16999816894531
+    35.16999816894531,
+    38.459999084472656
   ],
   "1y": [
-    44.06999969482422,
     44.36000061035156,
     44.7599983215332,
     43.970001220703125,
@@ -411,29 +410,30 @@
     36.58000183105469,
     36.5,
     37.2400016784668,
-    35.16999816894531
+    35.16999816894531,
+    38.459999084472656
   ],
-  "lastClose": 35.16999816894531,
-  "oneYearReturn": -20.195147691194933,
+  "lastClose": 38.459999084472656,
+  "oneYearReturn": -13.300273770740482,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Supermicro (SMCI) Stock Looks Cheap Even As AI Demand Stays Strong - Yahoo Finance",
+      "headline": "Super Micro Surges 8% as Taiwan Indicts Employees but Not the Company, Dell Climbs 4% - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRko2QzRHdmVYQlJUNzF5a0NSVjVCSFVPbUtvRmFrMjNRQWx3dnlablVHRXViRy1oZjQxTXRiWlQ3MXhBS19EUHhUSWcxcHhjdTktS3k2TFFXN19KdkVnWTdaa3V4WWYzd3B2ZnNVbkZFLWZPWnFFV0xkbXRDQWFtY2EtUzdLVDNrQ1FZdkxIWGFyVmwzUHg0?oc=5"
+    },
+    {
+      "headline": "Why Super Micro Computer Rallied Today - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmw3T05rUlZkZG1KbllqQmpyLXRsTE5jNU9XV1Q2eFZkQk1hdjFCS1VScXo0bGVfSm83YXlWZVlkTXV3NWdkb3BURndVNXZYc001bzRjdHpvclJGMk5JbWJwYWt0RElnVmdGanRscUp1YkdnOWwxODVsNFY3Z0FqT2JHQXZNNVh1?oc=5"
+    },
+    {
+      "headline": "Super Micro (SMCI) Stock Trades Down, Here Is Why - Yahoo Finance",
       "source": "Yahoo Finance",
       "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSHlsSDFVTHZvM19UQjVlQ3JkS0owT3VDMGNOMFMyRFV0a2lvWm1jY0VrTExyc1gzQ2xDYWd3UGJRcE9iUnYtSkpWWWJWX2RPU3dhRWFYQktpT0toMGJMaldNR2dzdXJCaURnX1MzMFpOR3o5TUx0UnYySVBMNWJvTl95b2ZLeWtIMkFSeGNqQzcxZURjSzBxWXE4eDgtdms?oc=5"
-    },
-    {
-      "headline": "Supermicro adopts all recommendations after an export compliance review - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR252Mmwtb1R1VjVwTDY0eU9aRDJWZTc0YVduTEVaMlpFa1lVWXJMYTFqa3lzV01CVDJ2NWR5UmR3RkkxRVVkWW1PY0tRLUtuc1pYTE14OFJCLVdNRTd5ekxOdmEtVGdLaV9TSVJCcGdHc3NSbXFFRlp2UE9uNTZPbGtnM3lkbXp6RnlJUGttSGZiTm9CVFMwVzVCS2F3TE1zT3VpQUxncVcwSWVMdDhYMy1UXzN5S3VjbHZ3?oc=5"
-    },
-    {
-      "headline": "Here’s How Much Supermicro Stock Is Expected to Move After Earnings - Investopedia",
-      "source": "Investopedia",
-      "when": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUnNsRFVURGhWd1NrTnVJai15ODc3Yk91Q1E1VW1oVTllNDY1TW5LdGFWWHRYNkFpdDNrNmtpUVI5ZkVGTmlhZTNGM1Itd0RwYzhuMGFzZ1RpV01sUTRyLTVqVEJ3YkU5ZnJWWVFOM1pjaTlyekpScmtQTlU5OXc0TkNGZEJWSEhaVHY5Mmt2R1R2YVBPeGd6ZHo2YXpIV2ttVW8zVHRpYWNDVHFwd0gyUDBNdkN4R0hsYVlCWXpDNkF6U05zeUJlOHU3VQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNFNZNDRIWmJoaDd4MmswR185eFdxa19nVVREcDB2VllsMTJpLXFlVkZfTlBSVjdzVjBNQ1hOcUlLRVlTbk4tcFQ3QnVaVkhEaUxWaWhUaFFOcVRUcDFBMXJycnZjcmp4RWFjbDExaklYa3U4bDRFV2FyOW1YQk9JaG9CMzVlRFMtUVFyR2pJY196SmtOUWdGbmdR?oc=5"
     }
   ],
   "insight": "Tracking Supermicro (SMCI)."

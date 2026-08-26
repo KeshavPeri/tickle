@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:39:53.348Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:48:17.316Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    332.9800109863281,
     336.0899963378906,
     344.4700012207031,
     338.2699890136719,
@@ -24,10 +23,10 @@
     344.29998779296875,
     334.489990234375,
     335.6099853515625,
-    337.42999267578125
+    337.42999267578125,
+    337.8800048828125
   ],
   "6m": [
-    391.04998779296875,
     383.0400085449219,
     383.5199890136719,
     378.5799865722656,
@@ -158,10 +157,10 @@
     344.29998779296875,
     334.489990234375,
     335.6099853515625,
-    337.42999267578125
+    337.42999267578125,
+    337.8800048828125
   ],
   "1y": [
-    408.8999938964844,
     407.5400085449219,
     408.239990234375,
     407.45001220703125,
@@ -411,29 +410,30 @@
     344.29998779296875,
     334.489990234375,
     335.6099853515625,
-    337.42999267578125
+    337.42999267578125,
+    337.8800048828125
   ],
-  "lastClose": 337.42999267578125,
-  "oneYearReturn": -17.478601684400175,
+  "lastClose": 337.8800048828125,
+  "oneYearReturn": -17.09280124688199,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "5 Undervalued Stocks to Rent, Not Buy - Morningstar",
-      "source": "Morningstar",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSmJ6bGtlVktYaXR0SVF6djlYZS10R0ZzQVN1NWNrcHdrTE1KWFc1bHlnbV9PWmlPcHpFaThXQ2FUWTJBYUlDX2RSUzdHSndpTE5jOGJIaDhHSmRTdjhxQnJ1UjViSUhacWlMRFBpMllIQVlUY0kweHNlcUNsRmlMV2VuUzdUdS1tRWlaNW0yWjVfbDQ?oc=5"
+      "headline": "If You'd Invested $1,000 in Home Depot 15 Years Ago, Here's How Much You'd Have Today - The Motley Fool",
+      "source": "The Motley Fool",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX283QXFaNlczZjZseUQyaVBDYjNub2VKMl9Qa1FtdTk2Vmc3SFdvQldUWU50ZVpTVllFZTRLd3BmVFBfQzNNNy04cVBYdGdLSnk4UjY4QUEycFVkeXVsRXBLblNMOS1vX0xrd2tlNy14TmIyU0lwZlpBY3czMVdkcjhwS1VWNEh0UXgySzl6bW1qTVVoM2w1Tg?oc=5"
     },
     {
-      "headline": "Home Depot (HD) Could Be 13% Undervalued After Q2 Earnings Beat - simplywall.st",
+      "headline": "1 Reason Home Depot's 17-Year Dividend Streak Makes It a Buy This Week - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNWlvOGdEcVdPRGtCMGNkQ2FBSUctSk91RmZyV19FaEpHcW1oQU16bkQ0cWwyZ3Vxbm1iWTFuZEpId1NPYWpTUlFoWGd5UzJfMHpsY3pNeGhwOEhOYWQ5d1h1cm1tNGNnUElfaXFIVzdWaFFjTHMtU0NpdzR1SXlzMlcxUENGbGhQdVdhcHE4RzFZOS1YU19jb3haWEpWTDJoXy1NS0ZUWURxWDZjMkFtNkFCcmotV0Qza01ZVnJpOG1KSFBrbUp4dS1rT3FodWFnWlBEYWdFSklTejVINFF4cmJnYnlnQlk?oc=5"
+    },
+    {
+      "headline": "Home Depot (HD) Stock May Be Overvalued On Cash Flow While Earnings Look Fair - simplywall.st",
       "source": "simplywall.st",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR2s4UjJZN3A0c2FWb2pkSTUxM3dxT05neEN2U2tWYzF0ZmhnN0FySzhwWVJkQlBsVjg0WGM0amxuN2d6SWdCOS1tTnM5bmVvamdvSFU5YTQ1a0F0TjU0NlhaUjh4RTkwZDVCMms0Yy0yaDhPUTROdTFnc0dGcFN4NHpLTHZHSzFqMzhLbjk3WWNBcDBTaEJTT29peHFYbGdfdUEtODl4QzJfcElrbTN3akNvcXcwYm43OGRPWmZoQUNZVjdJbGfSAcYBQVVfeXFMUEdrOFIyWTdwNHNhVm9qZEk1MTN3cU9OZ3hDdlNrVmMxdGZoZzdBcks4cFlSZEJQbFY4NFhjNGpsbjdneklnQjktbU5zOW5lb2pnb0hVOWE0NWtBdE41NDZYWlI4eEU5MGQ1QjJrNGMtMmg4T1E0TnUxZ3NHRnBTeDR6S0x2R0sxajM4S245N1ljQXAwU2hCU09vaXhxWGxnX3VBLTg5eEMyX3BJa20zd2pDb3F3MGJuNzhkT1pmaEFDWVY3SWxn?oc=5"
-    },
-    {
-      "headline": "Home Depot Stock Rises After $47.9 Billion Earnings Beat - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1ZyTlFMQjI2TzY1YkRZYy1UN2l6WEFQX3ppWGlULTBVMmh0Yng4Yy13YTM4b2Fvb0NKV2FUQ1dqeTdkeWsyOE5PRDM4eC0xSGZ5X09GTTQtcHN0S1J2YjN5TWM0RGxJM3Q2Vk5qenFDblBlc3FybENIUjF0RmNwSEE1OER5MXJQTnBlR2taSV8waGN4?oc=5"
+      "when": "2026-08-20",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU0pUVHhoa0Y1RnlQUndmLXAxS3BHVVJsZGE1VzkzRXgxU3lJUVloT08yME9WVnFVQ1dRNzYxaEJwd283SDhaTURQODJId3J6Y1loTFY4dWd1NmxSbzhVZ1VmUWhqUllpQ3cxQXVPSmpKNnRBWGQtS0lpc3BYcG1yUmFyNjJNUE8xa2MxeHFXYUpOSDNpbXNrRzhhT2ZPT0xmT2RlM3ZFd2lLRmJsQzhUcm1uZERKQUtmazF6WWpFdTHSAcYBQVVfeXFMTnp5b1htS1pqQlo0OGpfVXBfY0NYWUlheDRNeGd4cC1NbVQ0NFZHaVpXbURxaFBwbTdvTWVwWUF0d3B1MmJlTkFBQ1FhNjlnUlZ5NjB6SGhJUGdYb2FLamNwb0RKQnFMYXlVVTFYZ3o1bXpwZFBVTXFUejROUlg3WDh0Ym45MEhXT1hrSmNGNjd1Qm5HMzNhT2tuNFRpeG9iYm94dWxtb19aMUU4QTdBX3NiemRNR1hRS2hfUWk2SzQ5MTBoaEF3?oc=5"
     }
   ],
   "insight": "Tracking Home Depot (The) (HD)."

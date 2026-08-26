@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:39:56.834Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:48:20.797Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    140.5,
     147.4499969482422,
     155.83999633789062,
     165.64999389648438,
@@ -24,10 +23,10 @@
     192.82000732421875,
     193.67999267578125,
     195.89999389648438,
-    202.77999877929688
+    202.77999877929688,
+    195.7899932861328
   ],
   "6m": [
-    158.5800018310547,
     156.3000030517578,
     161.25,
     156.94000244140625,
@@ -158,10 +157,10 @@
     192.82000732421875,
     193.67999267578125,
     195.89999389648438,
-    202.77999877929688
+    202.77999877929688,
+    195.7899932861328
   ],
   "1y": [
-    241.47000122070312,
     243.1300048828125,
     246.36000061035156,
     247.72999572753906,
@@ -411,29 +410,30 @@
     192.82000732421875,
     193.67999267578125,
     195.89999389648438,
-    202.77999877929688
+    202.77999877929688,
+    195.7899932861328
   ],
-  "lastClose": 202.77999877929688,
-  "oneYearReturn": -16.022695260619006,
+  "lastClose": 195.7899932861328,
+  "oneYearReturn": -19.471069241123633,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Gartner Inc. stock outperforms competitors on strong trading day - MarketWatch",
+      "headline": "Gartner Stock Gains 28% in 3 Months: Here's What You Should Know - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaURyRGQzQUhGZGlLYlJQd1IzTVpCeGhtd091R3ZZSlB3RlY5WEZYaDFfNE1SVnladDF5c18wZEc4elg5YkdlYW5oTWZGd2tlU2FRT3RudkJKX016dGIyXzZKM2UtaXZvZVhrVE5zb0FBY3hBSTFqUWx1TTRXYjJxbjlhdjliSVBsNk9DSzVHa3dsRTQ?oc=5"
+    },
+    {
+      "headline": "Gartner Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRUUwSnRNNXBRSmlPcnBLOHhfOWc1cHVIMFBaQWVZZElaOGdhczBOR095OHlGQTZMVFdVTXNtR1oydUwwQnI4UWZTNnMxTmhmV1huZnMyekswVW5LQnpMOGxMLS1QQVF3MFFPbWRTMjNJZTg5bE5IbHZ6UG13TGFUU2o0aGNyZ3JNTXBmUFdXcTE0SXRFSVN5UXdtQ2FPQUZqd19EUENDZlJOZnZ3Sm80WWpsOFhwSmNjYjlfcGxuTHlKQ014dXVHVkFOcF8tbFo1aUtBVE5EMmo?oc=5"
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1k0M05GRmw2WmVDVWI2VWxic2E3ZzdYQ1pUb3dDcEw4cFZzZU84S3BsOGlsSHZoZzZsUnJPVXpyQ2d3N3RLaW5NSENjTkUzYWFiQ3pON1lnV0F3NjBZS1o1eTVzWUtmRHotXzc1NjlHQlRZSHpVaElhekJsLW9EY1k4WEdvZWtVYWZnWnp0bk5zM21fNUttT3pkdHpBYlhGSzFGaVE1bURQM3BrLUdDLWVaYTY0R2l6V3dnWXpKVnlkNXYyVFByRTlsOGJpbTdISjVWQ1huU2doNmhGNG5r?oc=5"
     },
     {
-      "headline": "Gartner Inc (IT) Shares Surge 3.5% -- What GF Score of 81 Tells Investors - GuruFocus",
-      "source": "GuruFocus",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSEJtVS0yQ0Q3YVktcmtqNnVOUC1JZXpKSVlEWGNMX2NiYko1VVA3TkxpMU1RLTdOV3JOdXo3LTBoMjFCNG1IdDhOMl9FX1Z3M05tcDFBZzNDQ1ZxUEhnZmVEWWx0cmZhM1Z3dXdRTERud0tSemhqczhTajJ0RGs5d2txajlyLUxrY3dfa3E3SWNSdTdQS0hCQmhGQXp2RWdJXzNMMk1nR2Q?oc=5"
-    },
-    {
-      "headline": "Why Gartner Inc. Stock Is Soaring Today - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2d0aFlxaFZNaVRMbzRNVG1mcG5fcG5FOEVUeHc5bVRrY2FPQjFsSnpoSUdHRzNEZjdra2ZTLU5tNFpfdUdSS0lsMUFpYTUyejNrVjJIeDE3SmxhRkQycmxzVlY2SnNrT0U0bzFPS09ZLVN0N3phcmNfTGtaSXg5aE9DWkk0bm1V?oc=5"
+      "headline": "Gartner Stock Gains 28% in 3 Months: Here's What You Should Know - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQemdnUl9oZmEzOGxramJhRnQzSTJPUVJvb1pfcGk0Y1NMUnR3ekVMN0x6aVVGa3pOdkkxLU1QUS1SNUhlbVV0UmYtY2lfYzFNWUdCVnNCWTVWUkdIbFZMVktVbWhFQmdFdFUwYTd2R1B0WEllTUxBNENjZ3RqYllJN2s0MWxwZE8zYnUxUkd3VDc2UTRiRDdZM3UyS0FjMFg1VjFjbzdoVDlXUUFHNm9KbGpFVWNsaTg1QlE?oc=5"
     }
   ],
   "insight": "Tracking Gartner (IT)."

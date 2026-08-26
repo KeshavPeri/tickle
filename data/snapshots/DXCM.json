@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:39:44.307Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:48:09.125Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    71.54000091552734,
     73.37000274658203,
     74.8499984741211,
     75.13999938964844,
@@ -24,10 +23,10 @@
     89.87999725341797,
     90.22000122070312,
     92.33999633789062,
-    91.05999755859375
+    91.05999755859375,
+    89.16000366210938
   ],
   "6m": [
-    70.0199966430664,
     70.43000030517578,
     72.80000305175781,
     72.2699966430664,
@@ -158,10 +157,10 @@
     89.87999725341797,
     90.22000122070312,
     92.33999633789062,
-    91.05999755859375
+    91.05999755859375,
+    89.16000366210938
   ],
   "1y": [
-    75.95999908447266,
     76.12000274658203,
     76.37999725341797,
     75.08000183105469,
@@ -411,29 +410,30 @@
     89.87999725341797,
     90.22000122070312,
     92.33999633789062,
-    91.05999755859375
+    91.05999755859375,
+    89.16000366210938
   ],
-  "lastClose": 91.05999755859375,
-  "oneYearReturn": 19.878881853762103,
+  "lastClose": 89.16000366210938,
+  "oneYearReturn": 17.13084661720256,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Dexcom (NASDAQ: DXCM) chair sells 26,756 shares around $90 - Stock Titan",
+      "headline": "DexCom Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+      "source": "MarketWatch",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRGw3QW1rbXJVOXRBOXdvRXRwX3gtSWdySk9Tc280eVlyOVhDOHFyWkF6YkdUSEdKMTVVaVFRd3EwM194V1R0VXEyMTYwV1dId3ZkR0o2YkpmaHdJQmtBSlp6MXkzaEJIcGFSVDJ0S25CN0ZWSnRXb1lQcmNQdFFlQjlnWkNaMkpMYnVfb0lSQi1PV21aU2VpcTlfSHU4V0hGMklLVENabDB0dTlOX1JSMm1UcmlCUThGU2l1bmx0Zms3WVNYd1owcEprZDRMcXVJZ3BpSW5fUVVVeUk3aVE?oc=5"
+    },
+    {
+      "headline": "Dexcom (NASDAQ: DXCM) HR chief holds 128,608 shares - Stock Titan",
       "source": "Stock Titan",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXlxYVVNMEtUTXJDUXNMcHJvc1ZBTG1XS1RpUklXeFlnRUwwOWRYbW1uc0JJZjl4Zzd2QUtFSDZ5X0ZqWmVVZ0dBaE0zQ2dWVUNPWm05UVBkbGtfbklxNW9pQVhULXpObTlQQkgxY1IxY0RVaEJWVlRwSkpmNkotQXBGaWd2MEJhZnFzVy1wcDYtSUZmcGJyYWZkWjYzdFI1QnktcUxXVQ?oc=5"
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNejBfQjJtMXZFZ3FscmVBdG9OUWJzMzVtWEp5RmY3ZmlQUWg3N0RWdUJWS0t0Mm9FUHRSNGhwQVIwZms2OUVLLVE4NjEyM2dHSXBrVkx2NUEtdEwwd09tREdOLUVYZEV1TnBzY25HWU93Y19xUjNhelY4eFJzQ2ttMFExOGt6UWxtd2pyRmtfY0xnUndCd2cxWFJCV3F6dm5nS1BPLW9zTQ?oc=5"
     },
     {
-      "headline": "DexCom (DXCM) Stock Sees Fair Value Lift After Analyst Target Increases - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmxyZXVtVUhsNkdhSEJkTWtWZ2RMQmRBT29KQWcwMWwtLUpqTWVBeDR1WXJlMlZ0V1BWMUtxYng4YXljeWZvbjR1Uk5aRDBVUUJFNmFfaHpwWGtkYUZrX252OW1CLWo0d05oaFVMNll6U2lleFlqcE9NVGZOT1duS2t4NVhVS3dBR2hrUDdad0E1Q2ctdlhz?oc=5"
-    },
-    {
-      "headline": "DexCom stock hits 52-week high at 91.99 USD - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmRqREJ2LWloNHhCSWRrYXpCWk5MbHZETjhzVi0tTmpzSUVxLWFudUU3YWVvYUNiU2FDeWZTREdWMFZicWc2djdwYi0xb09tZ0Rnb2o1MGVBUVBMbEt3emtPak5VNEd1Y1Q4aFI1SHZoODE1R0VZUkV0d3ZBc2ZtbTh3emEweUZGOUhadkVBcUNEdUhxVVk5OGV6alFjdFU?oc=5"
+      "headline": "Abbott vs. DexCom: Which CGM Stock Is the Better Buy Now? - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEQ4MFNZRTJEd09zbEstSEYxZUo1OHZUYjl4Y1NTR3FxZkxnbjVJeGRLWjRRaWlWelV2bWV2cXFBOUtuSjBJbVFFdmZ5X1pVSXpnTWJqTGZrbl9ramRHQ3VOdWtHWGdnNjVkUEl3ano3UVQ0OS1uSmhHZzRrajFvVkxxd1hxZDZQNlpSc2s1Rjh3aEdCMkpKVWY3VlNQam9fVEVoZVduRTZ6bmY0Wlhz?oc=5"
     }
   ],
   "insight": "Tracking Dexcom (DXCM)."

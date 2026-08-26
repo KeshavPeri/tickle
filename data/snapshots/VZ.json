@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:40:14.010Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:48:36.535Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    46.380001068115234,
     47.31999969482422,
     48.189998626708984,
     47.220001220703125,
@@ -24,10 +23,10 @@
     49.36000061035156,
     49.189998626708984,
     49.45000076293945,
-    50.150001525878906
+    50.150001525878906,
+    50.25
   ],
   "6m": [
-    49.0099983215332,
     48.93000030517578,
     48.04999923706055,
     48.63999938964844,
@@ -158,10 +157,10 @@
     49.36000061035156,
     49.189998626708984,
     49.45000076293945,
-    50.150001525878906
+    50.150001525878906,
+    50.25
   ],
   "1y": [
-    44.22999954223633,
     43.959999084472656,
     44.27000045776367,
     43.93000030517578,
@@ -411,12 +410,19 @@
     49.36000061035156,
     49.189998626708984,
     49.45000076293945,
-    50.150001525878906
+    50.150001525878906,
+    50.25
   ],
-  "lastClose": 50.150001525878906,
-  "oneYearReturn": 13.384585224762258,
+  "lastClose": 50.25,
+  "oneYearReturn": 14.308464619029232,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Verizon Just Signed Its Second Google Deal. Is the Stock Still a Buy Near Its High? - TIKR.com",
+      "source": "TIKR.com",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUo2d3VVZC1GOW9GQWhzczB1WnNXSFYzYXk0YTVnNDB2ZE1OMThYcThZUUFmUGxrU2lENFVGbHpJREZwa2NtZF94YVU4UktBX2JSd3FyVmxSZ2lDa3FPb2MwVkM1d2czT1M2Yy1EZUVoU1RMWVJHM2FDcHNQUlozRGdod0JTQU1lX2RtRGlMYXRMT3EyTy00TGMyTmhSaS1ESDU5cTJJMmNBUVE?oc=5"
+    },
     {
       "headline": "After Earnings, Is Verizon Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
       "source": "Morningstar",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWm1SenJwaUJINGFuWkJMX0lZVEhRcC10QXhxOTFlQjhhSVRkTXJsZkZkMXdtOFhXSFlEVFI5Qjl5b2Q0NWdHU1BON3RlTjJ5eHl1UldOQWVqdWRzNFk2YTJZcHF2OGd1QkVyMGZPOWg5dUlJQXJNdnFNRXQyZm5aSWJaZXNkWThTX3NPM2ZwTXRtOG1oaEwzSnlTNA?oc=5"
     },
     {
-      "headline": "Verizon Communications (NYSE:VZ) Shares Up 1.4% - What's Next? - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORGc5bGRCNnd2eWg3OHRRQTVUNlVEWHJObXB3SXl1QjhiX1YtNzd0ZHhETlozeXFpZDZqaVBYZVQyUXlGbVRYcnN1YU9oTW0ydnMxb192cGM0QjJPcHFJbUE2T252Z09SWFZvMHJma3NwTVNfSmNHLTBYbVZRYzBXSTZRXzJWSlpMeWxVeDRJS092NEhnRzdUNE1RYW5DN3I3Y3ExZzhCYmNWN0U?oc=5"
-    },
-    {
-      "headline": "Verizon stock trades near 52-week high as AI partnership and Q2 2026 metrics shape outlook - Ad-hoc-news.de",
-      "source": "Ad-hoc-news.de",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNX09ReDZCOENLcV9NaHMwdVFldnotWW9ScjZGNGs4cVh4R1pJc0ZpMnFuZjFUTkp3X3pUYVFjQkgzeWdZTlNTdjBTTzQyOE5vakQyVW53eThRSFZ4NGtXUkVqdG1XUk0tNVRSTzJCcEEtRlpseEpFT2FtdV9kbHR6UWVhS0dIQU8wbmRzZVA2cWVPYzBQc0x6OXhtV3JRUW9TcHEtSTdCc1N4MDZtZVhkQ3BOQWVzMlNFNG1NWmQ5SmNlZjRvZi1FNkgydw?oc=5"
+      "headline": "VZ, T, TMUS Shares Under Pressure — SpaceX's Starlink Mobile Service Push Rattles Telecom Stocks - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT3A3aHpjeDBXRE5lR2RURU9xOW9DZEhNQTJLZGhNRDluUHJsSjY4d2hNUlM4MDMwbGJIRDhVXzVKZnYwalltSF9jRlZwTU5wREFmUnFzcTdvbXdaTkswb3ZVelVKa1JxMEVsRVRYTEV6MDlXdFNTWlJOd25oNDR3YUk0MzNJSERZR3pLVWg2ZDVGYWt1WDZmYXZiRG44ZzdUcUtPbzYxMnd6cTZ6WlBZVjVGSlJuREZOTjhpeWNxbEcwQXg2bzZidkhaZHhKcGljcFVvWkl6Q1ZvOUxCOG9pZ2c0VWFfcXZMZXA1Ym9R?oc=5"
     }
   ],
   "insight": "Tracking Verizon (VZ)."

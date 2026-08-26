@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:39:58.759Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:48:22.823Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    56.869998931884766,
     57.97999954223633,
     59.189998626708984,
     59.869998931884766,
@@ -24,10 +23,10 @@
     56.27000045776367,
     56.31999969482422,
     57.900001525878906,
-    59.08000183105469
+    59.08000183105469,
+    58.45000076293945
   ],
   "6m": [
-    71.25,
     69.66000366210938,
     68.86000061035156,
     67.62999725341797,
@@ -158,10 +157,10 @@
     56.27000045776367,
     56.31999969482422,
     57.900001525878906,
-    59.08000183105469
+    59.08000183105469,
+    58.45000076293945
   ],
   "1y": [
-    70.13999938964844,
     68.98999786376953,
     67.9800033569336,
     67.45999908447266,
@@ -411,12 +410,19 @@
     56.27000045776367,
     56.31999969482422,
     57.900001525878906,
-    59.08000183105469
+    59.08000183105469,
+    58.45000076293945
   ],
-  "lastClose": 59.08000183105469,
-  "oneYearReturn": -15.768459730306231,
+  "lastClose": 58.45000076293945,
+  "oneYearReturn": -15.277572731112105,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Why Everyone Is Watching Kroger (KR) Today - simplywall.st",
+      "source": "simplywall.st",
+      "when": "2026-08-26",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNTBzMjlyV05ZQnAwSHNRVEhIQWZhSlA0Um5PWVRRRmp0aTU5Nzd0VzlzR0dFcFJ4WHNPeXNpamQtUVd0SHM5WlB1UEJHRFJ0R2NIX3VESVROSTBmc0NDM29nUkNsWWZ1bHhOa0xvS25HcjlVdFBJWXRhMkFESTVzNHhhT1ZuOXZEMUkxbTRaTzZaU3N6cHloM0ZTRkMwdVBqLXJfa1hwRURtcUIwRERxX9IBtgFBVV95cUxNTXFMSGFXaXQ3bzZoYWtVSDJaeWNXZ1Q4bk53R3BEOGVSYUhfbldlRElfVEl2SUNPbnJIeVhzd2dWdkZ4ZGxPSUtKbGNXZHlmUGhEWG1sQzlGV1BiOWNqVVFJTkw1YzVucy13bE1majVxRHZhS21mcGNUMEZrUG1ZaENIQXdHYUxDS3N0b0s4OGZSLVVMOUlpemhnd0g0bzBiLVRKQkxZSXlndTlwU3J1RHJhcTRRUQ?oc=5"
+    },
     {
       "headline": "Kroger (KR) Stock Looks Reasonable As ECommerce Leadership Changes Start - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVGxQZjlHX3BoaF8yUGkyNlpYUXZPMWNzMlRjaVNYS0hfaUxzeFhQNG1fWEpNMkZ3MG5DYmQwMTJmZWZIQVBmTEVkWnh1VEc5b0ptUlZyQlZDM3hLT0p2cUxVd3VUT1hEelhHbDVVZXpqbnFUb2hOdTdkUlV4VF9sTEhfN281aUtyOE1VcWNiVDJVakJNSm9PcjdaSXUxdw?oc=5"
     },
     {
-      "headline": "One Kroger order can now bring groceries and prescriptions to your door - Stock Titan",
-      "source": "Stock Titan",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNmItQkRkeC0yUmVLRWVmd0xGLWV5NUhDVl9MN040dFlZeVRPTTVGQldybG1XRUhQS2c0UGx3RC1HSGw3ZC1jbTh2ZWJKa2lRZzZubnNrdzlDTEs1QlRqaWdPRVBvR0NLRXh1dC15WWUzY3lxS1JzM0Itend6SVViQ2czYlJRd1dYeTZ2RVlkd1RVYmpZTlB4TndOcEh3cjY3YUl6ZjdtM1NIV3FOUnBtTmRSU3R2UQ?oc=5"
-    },
-    {
-      "headline": "Is Kroger’s (KR) eCommerce Hire and Fresh-Greens Push Quietly Reframing Its Turnaround Story? - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNl9XZWJLV3htaE9GZWFIWDZRc3B2ejc1MjVaUmd2Qm9mdDZ5VGJ0Q25YSDhzTDc2OHZQM3NQVlkyZFBpbkszUzg2WWpFa0VUUnp6eGRaQXotTWVtRHg2aUNIQjg5TVR0ZFZ6QW5QbC0wajB1bUpDczBJZ2x6Zk5PZVpTaXp5V1cxWWdnWmZpTXFHWGZXQzVDOEVqM3ZBWTFqai1QSUFmT01mVmpvOW5NRnNpWUFubDh2Q2EzXzNQcW1YTTJqWld4MFE4X09lVjVU0gHQAUFVX3lxTFA2X1dlYktXeG1oT0ZlYUhYNlFzcHZ6NzUyNVpSZ3ZCb2Z0NnlUYnRDblhIOHNMNzY4dlAzc1BWWTJkUGluSzNTODZZakVrRVRSenp4ZFpBei1NZW1EeDZpQ0hCODlNVHRkVnpBblBsLTBqMHVtSkNzMElnbHpmTk9lWlNpenlXVzFZZ2daZmlNcUdYZldDNUM4RWozdkFZMWpqLVBJQWZPTWZWam85bk1Gc2lZQW5sOHZDYTNfM1BxbVhNMmpaV3gwUThfT2VWNVQ?oc=5"
+      "headline": "Kroger stock holds steady as dividend and analyst targets support valuation - Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeGZ4Z2NSV1VCNzBaM2JPaEN5SzZKanZ6UmdVSGM0bG9FSTlJT214dlhJWV94YkV3NWc2eUJvS3F5ZFc1ZjZ5TVlQWHFfdFVkSzlGZUtuaTJNWXNYMjg4Sll4ODBfN21NMW5MaDdBcUdYNGdEdUZlUmdVd2FhRmFjY1RuTkZqWXVQaGZwSlRfWHExSDNHeGFtZDR3ZWlYR2M3LXBnYlE4NW5UZFBTSFpYYzNMclV0a3pyWE9EMVNXTDVDZnJETUgw?oc=5"
     }
   ],
   "insight": "Tracking Kroger (KR)."

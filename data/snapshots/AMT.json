@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:39:29.467Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:47:55.711Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    166.6699981689453,
     166.74000549316406,
     171.5,
     179.25999450683594,
@@ -24,10 +23,10 @@
     174.49000549316406,
     175.72000122070312,
     175.8000030517578,
-    178.38999938964844
+    178.38999938964844,
+    178.57000732421875
   ],
   "6m": [
-    192.10000610351562,
     193.08999633789062,
     186.6199951171875,
     184.7899932861328,
@@ -158,10 +157,10 @@
     174.49000549316406,
     175.72000122070312,
     175.8000030517578,
-    178.38999938964844
+    178.38999938964844,
+    178.57000732421875
   ],
   "1y": [
-    211.1199951171875,
     207.4499969482422,
     203.27000427246094,
     202.55999755859375,
@@ -411,12 +410,19 @@
     174.49000549316406,
     175.72000122070312,
     175.8000030517578,
-    178.38999938964844
+    178.38999938964844,
+    178.57000732421875
   ],
-  "lastClose": 178.38999938964844,
-  "oneYearReturn": -15.503029786151448,
+  "lastClose": 178.57000732421875,
+  "oneYearReturn": -13.921422052962892,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Rajesh Kalathur Acquires 2,829 Shares of American Tower (NYSE:AMT) Stock - MarketBeat",
+      "source": "MarketBeat",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcFA1SGZYMmt3cDRfaExiUFZoZDhDZ2pTQW80c2FGazVUVTZkWVk2Q3NxcVoyb3NMSWJWTkpIVWhlLVR2SUtrOU9iQjRqN2k4ZFRrSnRyYWFieHFxWThGNmFfQ00zXy1CTHdfdTVBWWt3SUJmREctazlQdXJsNTJyektJRFAtdWI4OXFQREtlVHpNVUVuOGxfbTg2Ti1iVjNtc3kzQXVpWEQ0aEZWdWd4N2J0RXQza3ZsMllxTHV5UXNvZFBYMkR1RmJYNA?oc=5"
+    },
     {
       "headline": "American Tower (AMT) Stock May Trade At A 40% Discount To Fair Value - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaXVOcndMUk1HZE83SFJ0WTJkZ2o2RmZlVGJyUG50d0VhN0dTNTRKUnlZMjBMbUJaclJhRVZGZkQ2SXF4akJScktXREFqalBHQzdOUVBTY1lnazB2czdSR3pHclNScXZ0OWRKZlJYMkgxVGV4R3lQQkN5eUxpVmtXbHNDaEhBazFKd0Zxa1RsYjBjemdHTWdnNg?oc=5"
     },
     {
-      "headline": "OMERS ADMINISTRATION Corp Buys 155,327 Shares of American Tower Corporation $AMT - MarketBeat",
-      "source": "MarketBeat",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTnZfYUpCMF95OERycUpRcXV6dmRVakdOYm05VFk5WTlzU0NBWlRwdTBnRXpxT2xwekRSNEVqYTJ3TWZUbXJnNG9Bd3h1VjM5Qkc0Uk9tUHBJRmRvM0pQRXdwTnQ0cEhjMzRVSzBGMlJGcHJQVXVvQ3JWRS14dUdtczZJeHNBQ3Joc2JOM2RaOXhYMHZfbmhlVDFaa2FsYUpFbmc4U0s0dTBOQlNYU21ZU0FsQXQyczQzaHhJUmJCek5CWVpNTGV5TGFyRHViRndjM01VY3h3?oc=5"
-    },
-    {
-      "headline": "How Investors Are Reacting To American Tower (AMT) After Barclays Highlights CoreSite’s Rising Importance - simplywall.st",
-      "source": "simplywall.st",
-      "when": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRjRmbEc0Zmd5MkpUVGtfeTRpSjB5U3Y3YWdlT25aQWNwVjJmTTVVUjhXY0Uzc2lVWllqc2lVblpEcEVpV0lwVWNGcmNBazltTzZEWHZDTTFhT3dwTUZueGl2bWdxbm4zNy1waEZwZlUyNlI0QVVoRVExWGRidXVTZkUyLXR3NWdxQlNsc3RHbzhKMXhOR3JIMmV3QXhXeEtGUmFfc19vaDJiYjk5ZlN0UmxfS2IweThiajhCVU1VTDB0aUUzbWJNTktmbzdZQdIB0wFBVV95cUxPVm85OHdYUVQ2Zm9iZmJzdWE4bDdadEdyQWFBcHlsT0dzamV0VGlKckNndVpfTWdjVE9IZW5HMUFlV0lCSXBoYUx4TDEyNnZjTnozSDlmV2lPa19iQUpTRWFaTTVpTVRTOFAycEdqczJidDh0YUR0cXc2TFBtQ1lHSkU2Zkc1dWkxeE5rTmFESkdlbElXX0hLY3p0N0RYTGdNemRiU0pJNHBqbF9qNkQ5eWhxcFlfd1d6VVFpZnhYNFV5QzQ5dmRyVVpITDZwU2ZYbWxj?oc=5"
+      "headline": "American Tower (NYSE: AMT) director now holds 7,765 shares - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSFI3ZG5mZ0VWUVR6akU2UUswdlpIc2F3WHJnYUNROU1wWldFb3FOeVQ1ZGdmczNUMlJ5cURQcGljZTNzY21kT1F1OVVCU0xnS2hHZGNTaTJFb1I5YTJuamFwWXBNU0NqaG1TeDAydHB3OFNjUDNLRjloM3BzRmZfNHFPUUdkeEdHa0djU3pkeW9oSjV4SWlVbWtHVTRMQURmb1VkZ1d6WVZhLThxcnhmQ2haZkFWUQ?oc=5"
     }
   ],
   "insight": "Tracking American Tower (AMT)."

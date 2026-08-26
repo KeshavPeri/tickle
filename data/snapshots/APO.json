@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:39:30.655Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:47:56.516Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    122.61000061035156,
     124.23999786376953,
     124.69000244140625,
     119.7699966430664,
@@ -24,10 +23,10 @@
     133.6300048828125,
     129.97999572753906,
     132.69000244140625,
-    132.7899932861328
+    132.7899932861328,
+    133.17999267578125
   ],
   "6m": [
-    125.06999969482422,
     125.1500015258789,
     125.36000061035156,
     118.33999633789062,
@@ -158,10 +157,10 @@
     133.6300048828125,
     129.97999572753906,
     132.69000244140625,
-    132.7899932861328
+    132.7899932861328,
+    133.17999267578125
   ],
   "1y": [
-    133.88999938964844,
     134.39999389648438,
     135.72000122070312,
     136.38999938964844,
@@ -411,29 +410,30 @@
     133.6300048828125,
     129.97999572753906,
     132.69000244140625,
-    132.7899932861328
+    132.7899932861328,
+    133.17999267578125
   ],
-  "lastClose": 132.7899932861328,
-  "oneYearReturn": -0.821574507827409,
+  "lastClose": 133.17999267578125,
+  "oneYearReturn": -0.9077390447225591,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Hackers Breach Apollo Global (APO) Right as Assets Hit $1 Trillion - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkxGN19BcUhzcmlWSC11Y0R1MWR6ZVVOMnpxQVdXa2lxRGtLaXYyZFFhLUdhY3ZJeW9mNFAtX1lHVE9lRlNDQlQ0YjJwbU1NM0NWSGliQ3FsbkdfUG9nTXZiWm5tZGFEdi01VGhWdHpPTXRmQ1dhNnZYUEt3ZllNR1FmdWZrSFhZQkhid2Fsem93QThSSVliaFZzaVFxQQ?oc=5"
-    },
-    {
-      "headline": "96,101 Shares in Apollo Global Management Inc. $APO Purchased by Varma Mutual Pension Insurance Co - MarketBeat",
+      "headline": "112,385 Shares in Apollo Global Management Inc. $APO Bought by RDST Capital LLC - MarketBeat",
       "source": "MarketBeat",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORGxlTV9YMk5MOWpFM2Z0THY2RWpzYkd0M2Y1eHJjZHQ4MzVRRURvZE5LLTNzZzhoYTJmcXlmQlVYQUx0b3NjMzVrU3JidkhEb0Uza3NobU9WNldRdmZMZWJ3dlNLOWo0aklxMUFibWl0TDJvdHBiZ1VTUm5GVWl3SHhFV1lKSmVBRnZPZlRxU0hOYTcxbjlFU1ROdENWc2tFa29BdFhiczgwaTk1OUVNSDlCdVkyQlI1bUowd1BXc2RCMEVONERLTDFhVV9ocFkyTFdZMGt0Q3VhRE9WRjloNFlHWDhJa2dWTFRxSA?oc=5"
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU1V6MW1DTE1DMW9EYTRYb3hDcFV0aUpaUmdfOUp6SF9CbjAtYkI2VmF3WlpWdEs1eDFmeXN6X2ZHM0hRajFuclhqX04tZHNEU25DZTYyYkN1MVEtYnVlcWxlSUFneV94X3pCQzZyUUE0Z3IyOF9rSWlLVXdkaHRDMEZkVmUxSXEzZ0lic2o2VWhxcUxMSEtOQURJZ3NtM25kRW9XQ3NfZ1BwT1NmaUU1YmY1dXNGVTRXajJGY0U2NDRhZFhrMU9pVUUtRlhyRDQ0Vzgw?oc=5"
     },
     {
       "headline": "Apollo Global Management (APO) Could Be 22% Undervalued Following NVIDIA AI Infrastructure Deal - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-22",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS2Y0SnlsRThQWWV1a2txZnlJUzk0Mmh4NUdvUFhQa3ptR293d1F6QV9YclNVSE5HS3lVOVpJaVlUX3JoSGJzeG9TY0duNHlWSm9QTW5WWjR4dXhNeGlfbHplazF3cUJSdkZQMHV6MnltMEVBbjJqX3ZtUXpsRjJrMVUtTkYwZDZtUnlGNDkxd3gtUnJENkJ6dE0yNWcwbk9fRC1ZaGVNYUJRU2N6djVtOXMyNjBPTGdWYmttZGh4NjlMYXRSYkFfZXNhN3dtRURSN0xRVzgtcXk1SUxCQWtOZzFlVmQ0YnJ4N2fSAe8BQVVfeXFMTlF2dklRamIwVlRHOF9uYTBBLVRiQUhQekFhUkN6OS02ajR3SU5rYksySUxjRDl0cTctazVGZ1BaYUVoaFk5NzdsdGxvakpaLW0xSkNwS2hEV0wzTmVlS3Y2V3J1aGZfRFZucTdQQUg1c1IyMGZvZkF0bDlZbno3NTA3bTVuanYxcThLWld6amVaZnZ5amNhZ2g0S0E2bTlZS1kzN0s1RG01ZG52MGpBNnk1aERQVVVVUkh4RHM1TElsdlBIdFJMTnZQcFZkOG42TVBhZ0dmYk4tMWl1LUJfSXdhWDk0RTJOT0F2WVlPdGM?oc=5"
+    },
+    {
+      "headline": "Hackers Breach Apollo Global (APO) Right as Assets Hit $1 Trillion - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkxGN19BcUhzcmlWSC11Y0R1MWR6ZVVOMnpxQVdXa2lxRGtLaXYyZFFhLUdhY3ZJeW9mNFAtX1lHVE9lRlNDQlQ0YjJwbU1NM0NWSGliQ3FsbkdfUG9nTXZiWm5tZGFEdi01VGhWdHpPTXRmQ1dhNnZYUEt3ZllNR1FmdWZrSFhZQkhid2Fsem93QThSSVliaFZzaVFxQQ?oc=5"
     }
   ],
   "insight": "Tracking Apollo Global Management (APO)."

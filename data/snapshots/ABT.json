@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:39:26.200Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:47:52.909Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    103.05999755859375,
     104.48999786376953,
     107.2699966430664,
     108,
@@ -24,10 +23,10 @@
     114.43000030517578,
     114.13999938964844,
     116.63999938964844,
-    116.66999816894531
+    116.66999816894531,
+    116.12999725341797
   ],
   "6m": [
-    112.68000030517578,
     112.26000213623047,
     113.29000091552734,
     112.19000244140625,
@@ -158,10 +157,10 @@
     114.43000030517578,
     114.13999938964844,
     116.63999938964844,
-    116.66999816894531
+    116.66999816894531,
+    116.12999725341797
   ],
   "1y": [
-    131.8699951171875,
     131.58999633789062,
     131.4600067138672,
     131.3699951171875,
@@ -411,12 +410,19 @@
     114.43000030517578,
     114.13999938964844,
     116.63999938964844,
-    116.66999816894531
+    116.66999816894531,
+    116.12999725341797
   ],
-  "lastClose": 116.66999816894531,
-  "oneYearReturn": -11.526501487115828,
+  "lastClose": 116.12999725341797,
+  "oneYearReturn": -11.748612747716168,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Abbott (NYSE: ABT) insider plans 2026 stock sale after option exercise - Stock Titan",
+      "source": "Stock Titan",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa1RXcXFRdXVTOGtvR2lYeDRoNEMyRnFvbDJxbHlrZlFYNU0yczdQclhyRlZDcFVHQmRSUDYxMHlfX3ktYXN6bDdTZnVPTTl2U0Y4LWNwTjc0TEVDYTZxcXI4RWp1MnhLX0xkVUNrRkJuYWxQTmlSR05WcVVSRXdudmg1UU5mVkJPTXF6UFBQMFprREZNSzZHdXZZWQ?oc=5"
+    },
     {
       "headline": "Abbott Laboratories stock outperforms competitors on strong trading day - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVzNqTDZCQTZTWWI2WFl6RHdubnpFYXdXZHJITmNvTWd2ZWppdnozWHRXVjI3cTBJTC03T1Y3Uk1wZWN4b1lBOVZ1eENtclRJU0ZsOXFaYXpfMVd3STJYQ2drdjNSN0FwM1Y1OFRMN2c1QjUyci1vakhybHRfZS1OcVAzbUVQLXRmMWg3ejd4TnRGTDBwNzBzUUlnVDZOa1lpb0FOdkd2eXk2QUthXzk1N1g4MVpoVkc2V0ZUN3g2cktaX1A2WTdqbzVrdw?oc=5"
     },
     {
-      "headline": "Abbott Laboratories vs. Eli Lilly: Which Healthcare Stock Is a Better Buy in 2026? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-02",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaHdGY3RpNko3Y082YlFNR040S3Q0UHZpdW1kOXZDc1U1TF85RUswMlg5dHhYQ0tJZFFoaU1pVTJMeFVPX1pOTzBnMFdsWHZaeWFWSEpGVjcwck40cms3TGxOSE1HZEdxT21FUzg3SlJ0OWRnb2VIbU9iNWxqZ3k3OGwzNmEzYkptWktJUURFX2FaTlc4cmcwTnNkWG5xUTFNRWdIODFQYUlyRUZyNlFVSkJUcjhrSWtpZnFWam10REZRY3VhbVEyTzdJRGw?oc=5"
-    },
-    {
-      "headline": "Abbott Laboratories (ABT) Stock Analysis: Navigating Growth in the Healthcare Sector with a 13% Revenue Surge - DirectorsTalk Interviews",
-      "source": "DirectorsTalk Interviews",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNnd5QjEydFlRZ0tOVG53bk1ERVVLUE1rS0pOQkhobGR0d3phSTFYYmV2NFViN2NwaFcyTzVBcG90LTUtYkRWRzgyMWs0WHNVaUx3TkJBWGs0YWRpeWNUWUh1bzhxUmMzWWRFX2ZuV1d1eHNzNXVCajJyaDNKcGx1dDRPMXpBN1VYLWZKNGs3SVZrWktzR1J0NkxjNkRSMDZHUGhLbWJ3WDdEeVEzYnFHWmkyQ2g5UC12VUJ4c09DT1l5cGNPYm1KTmJ6SjBlc2NXelpaTExzTUZseUFBdFh5YXZKcHFfQ2JTeVpaYw?oc=5"
+      "headline": "Abbott vs. DexCom: Which CGM Stock Is the Better Buy Now? - TradingView",
+      "source": "TradingView",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEQ4MFNZRTJEd09zbEstSEYxZUo1OHZUYjl4Y1NTR3FxZkxnbjVJeGRLWjRRaWlWelV2bWV2cXFBOUtuSjBJbVFFdmZ5X1pVSXpnTWJqTGZrbl9ramRHQ3VOdWtHWGdnNjVkUEl3ano3UVQ0OS1uSmhHZzRrajFvVkxxd1hxZDZQNlpSc2s1Rjh3aEdCMkpKVWY3VlNQam9fVEVoZVduRTZ6bmY0Wlhz?oc=5"
     }
   ],
   "insight": "Tracking Abbott Laboratories (ABT)."

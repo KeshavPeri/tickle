@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:39:53.878Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:48:17.923Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    94.91000366210938,
     95.6500015258789,
     92.76000213623047,
     89.83999633789062,
@@ -24,10 +23,10 @@
     95.7699966430664,
     95.0999984741211,
     108.12999725341797,
-    103.62000274658203
+    103.62000274658203,
+    112.08999633789062
   ],
   "6m": [
-    75.97000122070312,
     75.44000244140625,
     75.20999908447266,
     75.6500015258789,
@@ -158,10 +157,10 @@
     95.7699966430664,
     95.0999984741211,
     108.12999725341797,
-    103.62000274658203
+    103.62000274658203,
+    112.08999633789062
   ],
   "1y": [
-    107.94000244140625,
     108.80000305175781,
     102.91999816894531,
     103.69000244140625,
@@ -411,29 +410,30 @@
     95.7699966430664,
     95.0999984741211,
     108.12999725341797,
-    103.62000274658203
+    103.62000274658203,
+    112.08999633789062
   ],
-  "lastClose": 103.62000274658203,
-  "oneYearReturn": -4.002223084226139,
+  "lastClose": 112.08999633789062,
+  "oneYearReturn": 3.0238908031718648,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Robinhood Stock Surges 13.2% in a Week: What's Behind the Rally? - Yahoo Finance",
+      "headline": "Moderna, Nvidia, Apple, Dick’s, Robinhood, AMD, and More Stocks That Explain Today’s Market - Barron's",
+      "source": "Barron's",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15aVIwOEh5T2s3eGtOdWw4NmpxQ3RHM1YxdVZQbXo2NmduR0cxWHZpd2RueG5kM0kwZ2JpSzFuRnRTeXlydWlxbGtyaTVHblZmQ3I5UFExUVAteW1OS1EyOVNNWkg?oc=5"
+    },
+    {
+      "headline": "Why Is Robinhood (HOOD) Stock Rocketing Higher Today - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbll2b1gwR3dPbGFwck1MYnlINi12R2hiOHlJOWRYYnZCaFNYN2JrVHRfSUlWUkFRZG1idEFPOGJaLXN3WmRILVpPbElzdjZPTGx6Q3JmdDhsRXVjZXR3VmlwMnlWOGwzWHA3MWJfWEdtMVYwaTZQWXBCamIyZWM3NkhhZXBXVUNqc0xaZnhIRXdkNzdaektz?oc=5"
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFBRMzlzRDVzT2N4OWpiVm1JdHQzTzAtcm1HT3hOemxYRGNDUm8tNmxRamMzbjR4UXhYSFl0QTV0XzhsRHBjcmNlQXFyZ1F1eHdOeVhJeGRkMEJMR09DRGpQMm9aX3duQ2pndkFoRHp2bFYzdk9SYmlrYXhwamp1WU1KaDl2Z2gtYnJTUms3SGtQNHM2S3RzM0xsdjlpRzVZ?oc=5"
     },
     {
-      "headline": "Could This Brokerage Stock Help Make You a Millionaire? - The Motley Fool",
-      "source": "The Motley Fool",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQjE1eG9ySU1wOHZGSWpBMlk4WjNOYkhQM1FiMXl5bzJHYU9ObDB4b2dNSXcwemg5VFBzNGVVRjQwLUd1R1ZxNzZEcDVleDhIcVlLRWdhVElDVzB5QmZkQUJzcWRXcENpVUtCZ1d2N2VOTlIxc01wa2VySU1uRjFzVWlPNEtzY2h6a1Q5WE1oUmVYS09KMGxaWQ?oc=5"
-    },
-    {
-      "headline": "Robinhood crypto exposure: rocket fuel or anchor? - Investing.com",
-      "source": "Investing.com",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXpQNThDTmgxNXpucTRXeDFhLUY0emNhTWVWakMydVJVeVhIQ0RzNWJUVlRHdkw5Q21wRWZvRHcyazF0dlMydHB2RUNfc1FiMm9RV3lHS0U5UmdrdHFUU1NzTDRod042dFlhelhySl9BTWdaNXNSSHhudU5EaC12UEVTaTZaakdkLTBrelJEZzdTdllJRlFYUEszS25zWDZ1OE4tWlVwWlRubEF1Mnc?oc=5"
+      "headline": "Robinhood Markets climbs 8%, resuming a rally from late last week (HOOD:NASDAQ) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2gyX2xqNzEyUmdSbTUzLWJubHl6WjZTUC16bk9Cb1VqUG9JZW9BWjQyalpUWllZclFVc2plTXBsdE5jQzJ2Q1ppb2JVSzVZRkttS0ZWZVkxdmRoSnBTaXhvbU5MUXgta0t6b1JwNDdaRmdIMnpxQUlDQ0F2WmtaMVdFQnF1ZWdGZ3ZYVEVWRTA4UGM5QXR1YThSQ3FzR1htWVcw?oc=5"
     }
   ],
   "insight": "Tracking Robinhood Markets (HOOD)."

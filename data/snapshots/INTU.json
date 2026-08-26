@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:39:56.026Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:48:20.164Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    296.3299865722656,
     303.9100036621094,
     312.989990234375,
     333.1300048828125,
@@ -24,10 +23,10 @@
     362.4700012207031,
     361.8699951171875,
     367,
-    369.9200134277344
+    369.9200134277344,
+    357.4599914550781
   ],
   "6m": [
-    399.3999938964844,
     379.1700134277344,
     389.57000732421875,
     381.5400085449219,
@@ -158,10 +157,10 @@
     362.4700012207031,
     361.8699951171875,
     367,
-    369.9200134277344
+    369.9200134277344,
+    357.4599914550781
   ],
   "1y": [
-    656.9600219726562,
     659.5399780273438,
     663.1699829101562,
     668.2000122070312,
@@ -411,29 +410,30 @@
     362.4700012207031,
     361.8699951171875,
     367,
-    369.9200134277344
+    369.9200134277344,
+    357.4599914550781
   ],
-  "lastClose": 369.9200134277344,
-  "oneYearReturn": -43.692157657177646,
+  "lastClose": 357.4599914550781,
+  "oneYearReturn": -45.801618800390855,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Intuit (INTU) Stock Could Be A Bargain After A 44% Fall - Yahoo Finance",
+      "headline": "Intuit Sees Slowing Revenue Growth as It Fights AI Competition. The Stock Sinks. - Barron's",
+      "source": "Barron's",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95dkgxRE9XRUdsVDg4QV90N0MySjl5TGp6cW5HdndFak00TnRzS01tbmVDdWI2R3dPVWpZdy1FdnBoWElZYUo5aGN6MjZreEhkMWNCdmpPTEFndDAxQTJIQ1lGNEVpZ0xkX1NJc0tZSFdlbU1PWDZfZQ?oc=5"
+    },
+    {
+      "headline": "Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions' - Yahoo Finance",
       "source": "Yahoo Finance",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYnduWmVkSHBGUEJKbDRBb2UzdDFCaUlBSHUzTjZzVE44VExUS2lxeURVdDhUUFF2TW5kQXJYbWt6bmRtTW9OZDYxcW82alFQc1UxdjVRRVRkS3hJNGxmZEpUb1FsLXdiY0NheU1ybE1XWksxaWFWUWtKbW44VU9wXzBSYVo0eElJZ05DNkMwRV9kZGo2TWJlWm51SnU?oc=5"
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWV3Z3ZvOUo2RzVfNVQ4a2JvcTRPcnhGRHM3UlZKQlM4NE0xTjZkdjBwRmpiYzlaTUU0MjZjejNzV0Q3ZHBTSzZkTnNFRW5oMXlSazNZUVY3MUNLVm5vWjV5UWZITzRhRXJIV2hIMDBQZkxPQmEzYk9najk4ZHdFenlMc1hHTWRqLTJoLXVn?oc=5"
     },
     {
-      "headline": "Intuit Stock Nearly Halved While Its Operating Margin Kept Climbing - Trefis",
-      "source": "Trefis",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX0tuSTNDUHhnemZrMXNLSk1vT2NLanZyaHVtQk5GY0pKd1NFbjFiOGRKalI3NE1sYld1QjVkR1BsdlVBLWxyaXpTaWdxVENkM2NaT0Y3N19Ka0N5RkFDbWVESzJUWlAzenhCWGN6TmlKNVJfWUR4V1diSDNUOUprSUpXcW1ia3U3ajdNX09ic1lnLTFlcExEZkxRUTFzd2FEempsTi1JN29qUDNwWTBBeGYwYUJNTHQ5S1JOOFpQc1pYX2gyYVFZ?oc=5"
-    },
-    {
-      "headline": "Intuit Inc. Investors Have Until September 8th to Seek Lead Plaintiff Role with Bragar Eagel & Squire, P.C. - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUnZ6SklmRExBaWVGVzNzbm1UampBOHFWWGdobFNRbUNVYWVBa3I3WWZUd201VWphdVJtdldkNlpnS2hqZllINHFUT09ncHJ1ck13Nzdaay1EcmJDdjdxVmtzMnVUS0d2R1lwbGpoOUduWGJWXzRNYWNWTWlvQmtJX1loU0lvS1p0a1pid2NBd3pJWWsxN1FaQ19CTk9FTWNpTmhCVUo2SHRLMDZRUDVwLXU0S1I4ajBoMm94UXktajdaaVdoaXgzd1RpNVlVMDljcnlUMVhpb1VLN3pDU3dIeGlZOFRhbDRSTHhTWUwtMHdnMEJTdTJCU0NZc1NaNnR6aEE5Zw?oc=5"
+      "headline": "Why is Intuit stock plunging today? - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQllOWnExUFFNTWpfRk80N0ppTV8tZ2p5OEJNR084Y0UzWF9QZ18xbXJrYXN0RlMwazdrMWtWZmpWaWwxbnpfSEZCcWJKRkJ4YzJaRDZPZV9ULUNWZU5pWkM5X2ViajFVclpIdjh5dkt2X1Z5bXpSZjM3QkFaMTBYcDJvTnU0R2ZmX0pMU09zMTdyc0FySExPVXgzeUg?oc=5"
     }
   ],
   "insight": "Tracking Intuit (INTU)."

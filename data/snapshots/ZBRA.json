@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:40:15.657Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:48:37.879Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    259.9200134277344,
     264.5899963378906,
     284.3999938964844,
     282.9800109863281,
@@ -24,10 +23,10 @@
     354.6499938964844,
     360.5199890136719,
     368.510009765625,
-    363.29998779296875
+    363.29998779296875,
+    360.5199890136719
   ],
   "6m": [
-    264.6199951171875,
     260.760009765625,
     252.52000427246094,
     251.74000549316406,
@@ -158,10 +157,10 @@
     354.6499938964844,
     360.5199890136719,
     368.510009765625,
-    363.29998779296875
+    363.29998779296875,
+    360.5199890136719
   ],
   "1y": [
-    319.54998779296875,
     320.5799865722656,
     321.42999267578125,
     322,
@@ -411,18 +410,13 @@
     354.6499938964844,
     360.5199890136719,
     368.510009765625,
-    363.29998779296875
+    363.29998779296875,
+    360.5199890136719
   ],
-  "lastClose": 363.29998779296875,
-  "oneYearReturn": 13.691128671970068,
+  "lastClose": 360.5199890136719,
+  "oneYearReturn": 12.458669946448111,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "Zebra Technologies Corp. Cl A stock underperforms Monday when compared to competitors - MarketWatch",
-      "source": "MarketWatch",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaWt2UUVMeGdXbUVEdDVhbTZpS21xem5OZDl5Sl93VTg5R0xFcWRKMUZvbHBIRzhsWFRUR1htUk9Jdnd6dXpQazVzd3czYmRsWERGa2JMSDZGTzFJMFdBcGo4LU8yS2tVN2dza0FrbDdoY0k2U2R0WWRReDlpOHRRQ2ZPSFR3Y0J1a0pIWi1kRU9Rc1EyclZraG9UUzNQMHc1NmYtekdObjhUQ21mVjRrTU80YURaMTl4c21YWGVsWFNDWDgyM1k0TnlNTHF0R1k4clNMcW1ZU1JobW94bWxNUXNhYTdqV0x6QzNPLTVUOWNsTVBa?oc=5"
-    },
     {
       "headline": "Zebra Technologies Stock Jumped 20% Today on the Best Problem in Tech - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2p2MXhXT1RTSmtac1Q0dXVfVDZ5NmF2MjZrNjhoV051OGhMWmszUjBtZXZlbXRFYkhPY3NRNFktVmxWVHNDcWpKd3NIeGdNbUxwdVRpU2k0VnE4UlJsUWE0aVFYRzNYVm9kU0c5UzhzanE3VjAwNENNdHQtWDYwbU5ZcXJpbEw3SzlDY0haelVCY3FfSEJoR0c2WXVQbnJp?oc=5"
     },
     {
-      "headline": "Does Zebra Technologies' (ZBRA) Testing Focus Hint at a Durable, Acquisition-Light Growth Strategy? - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Zebra Technologies Corp. Cl A stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRzAzUi02TV9kQ1d4Z1RiVUh2QXZBMjVSZWNoYzJwR2xsSWg1dGstTjEta2VvTW1wTlZKclYzRnFsekUxMnQ3RmNWZ19tRkVCblRMTFQ2d0R3QXJwc0xvOVJhSnlQMjQtSmJvSjBJb09jMW1XOUxXNU9CTkdNY1NISENCTjBieVRMQUktVDY5ajVTaTI4cld5aEtyaHJzM2t3M2QwbjN4MHA2QlBFckVQdzZiNllXZWZnZENOR1VhaW1jZGR4TlA2T0NUZFFnUdIB0wFBVV95cUxPLVNVeVI4RUdpMW40cU1kNHp2ZWpYWXJzR3ZPYjFqWTJSb1UwRTZhZ3FEdUhPcmVmRjQxNU16R3hXSHgxZzFSeUhoWXdKVUxjaXhlYU5xZ2lvWXZCZkJYUUVvN2tqNnFOQWJ5WHhxRXc5UWctS1kwZFAweFNyUzVLU1lNLWRDNDZzRW5UaWp6ZzFVbDFjeE4xQVRCcXlXdXNyYXNObzlzbkpoOG50elE4Ym4ybVZoUllqQnNEQnZncUZLUmpVbS1OZU1BUkUwSGJzbU5V?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNnBrRmxLMC1aNHBqcTY5WE5FWE5xZ3FIQ0hqcmhGTm9pdHJhWV9aZGEzRGJzUm1yREtuaUVxcUlQS0FZQkR2RFVLb3B3c0hzcW02eVc3TkFKSlFnR3pWMjBjaHctZkg5WTVzSGt6dkZCaXppVy1GVS1ibkpTcHlFNWozYkJYZnVGaEZSZjZjbi1NTjhDSTE2ZG9GV3lnN0FpTXlBNGxacTdyUmVZVVdxREF2d2JETUlTYkREWUZFYUQyUXNzQ0l4OTkyMU91a282SjZfMm9xczVDaWhxMFNuZzl3U3o0RjJQWHJWTWZqSQ?oc=5"
+    },
+    {
+      "headline": "Zebra Technologies stock holds gains as partner launches new label inspection platform - Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTZGNFIxT1dOVEptM1Z1LUlVZ1RPeG1UZjhuQm91RFhLSU9uQ2F4VUQ3cFVKNDhfRzBuX1R4NFBaTTAzRjBTcTNzZGFJbDYxR0pIT2hCQ0FqbF9feWpRd0lRb2lKamxQai1uRThEWFJjYVdFWGItV1hxN2duVDd6NG55dWVleHZjcFEwcVk3eno5anBFSW83b2RQMVdycS1vQktaMVByNFQ4bllHQ0RqbzNxc3VRWVdlM25OSi0zMFhVWmFpZ3lhSg?oc=5"
     }
   ],
   "insight": "Tracking Zebra Technologies (ZBRA)."

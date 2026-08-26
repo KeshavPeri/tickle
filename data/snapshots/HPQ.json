@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:39:54.081Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:48:18.309Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    25.75,
     26.549999237060547,
     28.290000915527344,
     28.40999984741211,
@@ -24,10 +23,10 @@
     29.940000534057617,
     29.469999313354492,
     29.709999084472656,
-    28.579999923706055
+    28.579999923706055,
+    29.520000457763672
   ],
   "6m": [
-    19.260000228881836,
     18.489999771118164,
     18.350000381469727,
     18.34000015258789,
@@ -158,10 +157,10 @@
     29.940000534057617,
     29.469999313354492,
     29.709999084472656,
-    28.579999923706055
+    28.579999923706055,
+    29.520000457763672
   ],
   "1y": [
-    27.5,
     27.010000228881836,
     27.110000610351562,
     28.350000381469727,
@@ -411,12 +410,19 @@
     29.940000534057617,
     29.469999313354492,
     29.709999084472656,
-    28.579999923706055
+    28.579999923706055,
+    29.520000457763672
   ],
-  "lastClose": 28.579999923706055,
-  "oneYearReturn": 3.9272724498401987,
+  "lastClose": 29.520000457763672,
+  "oneYearReturn": 9.29285526698326,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "HP Eyes Fresh Low After Dialing Back FY Profit View As Rising Memory Costs Bite - Stocktwits",
+      "source": "Stocktwits",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFFjN0JVVTlfSkRUdkxXY0JoUjdRZ3R2Wmh2S2xfZ0pXUlR6Qm43RktZWFUzVkdzV2I1RFQxaWFGbmVBVzhIZGNJZWVBNW9xb0haRUZtSFZ2dzBCbFNkUktDbnJhUThPWXE4STMzeFZLRWhGZWRkdlZJNExDU1drTHFfWEp6ZzJsSGxLQUU4MzBKOXF2QWtUYkdkWkpUTE0?oc=5"
+    },
     {
       "headline": "HP Inc. stock underperforms Monday when compared to competitors - MarketWatch",
       "source": "MarketWatch",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUdBQVlqbUVXR2gza0FkS1JjMW5uRjNFXy1SY3VLdmh0M3ZPSXBUcEt3TTJOUUN0aXZRbTdZeGstYmk4b1FXdHMzTGpDT2h4djlPMG5VN1k5SXlQcFplc2s1Z0hyR0pxd1dBZGZWNno3bkxQcEg4NWhCdG96Z2VOSFV3UjRhTEsyMG1iM19YT1dvdzROR05BUEo5cFplbDR6TEtXWUN5STBVdi1lcl9RQTJRR1F0emF5em5PRjRYVQ?oc=5"
     },
     {
-      "headline": "HP Inc (HPQ) Shares Fall 3.8% -- What GF Score of 76 Tells Inves - GuruFocus",
+      "headline": "Is It Too Late to Buy HP Inc (HPQ) After 3.3% Rally? GF Value Says Undervalued - GuruFocus",
       "source": "GuruFocus",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEdNUWE3RGItdEVWM0IyVDNkeWloSWRLU3ZuQXMtTDBNY2FGZVMtZ1NDMDdrWXdzQVdISk9YZWhWbWNvd3JhTjBnN3dZNTU0VVYtSm40aGpqY19JZ0dZUTlGMVZOVEs3VXJDemdJa094cWVJUnJac29jVXhydWhLdVRQR2E0dE1rekMzVEtlZTRMTEJIcEU2N3BEN21ZTThLZVE?oc=5"
-    },
-    {
-      "headline": "HP Inc expected to post earnings of 69 cents a share - Earnings Preview - TradingView",
-      "source": "TradingView",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYU44eW9BOWxXTFZXbUNVaUtRdXFYSmdTVVNVcDlmRzczRWdCenJqUjBoN2tWVzY2ZnJpZjQ3UHdqcDNjN3JSMjFlcHRlQXRFekNRcjVjbWlTNVEzZ1c1V3pkRE8tQ1NyQkxSTjR2UkZrOWliYmRSaWRPMGxxck1tNzFLWU4zaTc5dGwzYVp1TlA2Ni1FNlU2dzEydl9oYm5zalhldUlNT3hkbndXWjdwMmFOejdBY0JkTnprcUxHM2dIQ0pBa3o2QVdUZXN0aU83TDlpQXpR?oc=5"
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOVhsRy1GckVHZE9SVTJJZ2o0SXR6TF95Z19ES2FTZ1pVd2lLVXlwbTVuV3RodEtrMkl0SnFpc3JxWktRa2JET0MtblVGQnZhbTRNYWgwUDF1QTJQc0JFNzRMa04yNFhKZXFGR1RSSzc4bERWRjhkNWt0VzMwUzdZLWNlN0F1N0dvcmduWDFZV2FZMXNpRTJZRTl3bUwteFhYbVBQVXhDTjJSMGI4OV9idVBB?oc=5"
     }
   ],
   "insight": "Tracking HP Inc. (HPQ)."

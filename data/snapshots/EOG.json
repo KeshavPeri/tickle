@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:39:45.737Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:48:10.585Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    146.38999938964844,
     140.30999755859375,
     139.63999938964844,
     145.94000244140625,
@@ -24,10 +23,10 @@
     149.47999572753906,
     152.19000244140625,
     153.0500030517578,
-    150.2100067138672
+    150.2100067138672,
+    146.8300018310547
   ],
   "6m": [
-    120.7300033569336,
     119.75,
     122.2699966430664,
     123.87000274658203,
@@ -158,10 +157,10 @@
     149.47999572753906,
     152.19000244140625,
     153.0500030517578,
-    150.2100067138672
+    150.2100067138672,
+    146.8300018310547
   ],
   "1y": [
-    121.43000030517578,
     121.30000305175781,
     122.87999725341797,
     124.33999633789062,
@@ -411,18 +410,13 @@
     149.47999572753906,
     152.19000244140625,
     153.0500030517578,
-    150.2100067138672
+    150.2100067138672,
+    146.8300018310547
   ],
-  "lastClose": 150.2100067138672,
-  "oneYearReturn": 23.700902854617468,
+  "lastClose": 146.8300018310547,
+  "oneYearReturn": 21.04698939570794,
   "marketCap": null,
   "topNews": [
-    {
-      "headline": "EOG Resources Stock Climbs 8.2% On A 6-Day Winning Streak - Trefis",
-      "source": "Trefis",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQelV6ZlFiZk1kUjVfaDE3ZWpqQXhTbVg4OHpCWXRmdU5pOFBPQXpYQWNSbk5oSHBIcldpQ3pKVlYxeDRrNVZoVUFSTXowUUNBQjE3MzVPV2lndjFEUHY1M0REMHFaWmZ6eVlDSzd0WUUyTXJLMWV5UGJJSlVISUZNdVFLOThmYTdBeTRhWElaUWFlS0ZTRVJVb0JrWU1XYlFjT3NWUWEwTFJxdjdybThadkozb3BKTFE?oc=5"
-    },
     {
       "headline": "Which Oil and Gas Stock Has Dominated in 2026: ConocoPhillips, EOG Resources, or Occidental Petroleum? - 24/7 Wall St.",
       "source": "24/7 Wall St.",
@@ -430,10 +424,16 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ3p6ME8tUDlYOHd3dWsyTC1iLWtSZ2dsbi1rdUV0OS1fdk9qcWhRWUtyeGoydVowaUhkTi1MVV9pdXI5YU9KVDFFVjlicThoS0YwcDZyLWprdDBhRUZJZjJnR041WDhsb2dxV1hNanQxekhCNm12bVdCLXFoS3g3eVlGYjV3aDBhd0dMejIzTUhkLXNwUERlamNWMlJMemtzSFpxU2V4d1RSdHJCS3k0TUtjWElZSWp4a0ItWWNBakNzZDktZnNDT2N3S3FPbk93MDJPbmNieUpTZw?oc=5"
     },
     {
-      "headline": "EOG Resources (EOG) Stock Still Looks A Bargain On Earnings Yet Fully Priced On Returns - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-22",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWJFLWhzcWpUaUM2MWp1X0tpZnhvSEVQNUQ4cGVERmRxLWxVcUU0Z29yM3pGS01xY2tqaDZMUTN5SmxmRXBVbEN3cm1od3drR1ZsUDNNNGlVSkR3Rnp1NWtLVnBheXhUSVpIRE9HNnNqMVVTUW5icjRBTThvN1l1Vm5BZkVzUXp4TWlmWGFoTUVuMGlXUThxUWZ3?oc=5"
+      "headline": "EOG Resources: Failing To Keep Its Word Or Playing It Safe? (NYSE:EOG) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTExuMkVTcFZQbHdIUTB5azVoM1ZIWUQxSmROeHdrVEU5czZvYVZHYng0a2dZYkYtMENlc2h6b0ljWkpaczFxTzNMLVJCOEYyRC12azVacG9YTkh5ZWF1enJ5bzdCZkRUam1uZFBRWGdGQ19XYVJXUlhMOXFRamY2a25JdkplWjc4bTkzT1k0S3ZiLVZzNGI5aTM5Rk9JTDg?oc=5"
+    },
+    {
+      "headline": "EOG Resources CEO Ezra Jacob discloses sale of $5.5M shares - TipRanks",
+      "source": "TipRanks",
+      "when": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEE3MElLYTczWTY3ZndDRDdMMmVLZEpobEJPWHpmQUNMOHVqVDlwYmpDUkJ4OE5CekNmZXoyaFJIQzU1Yk5SalNIOV9BLVkyQXpVY3MtT1I5SWJTdjRoYVVRM3FmMkUyR2Zra1ZQbVluNkRnUFNzLUROb3Bha0dMcy1wS2h3QlViN19mQ1BLV3U4WjNxcVZOdk1wY3l3RUtiUXJkUWNDSWQ0TVVh?oc=5"
     }
   ],
   "insight": "Tracking EOG Resources (EOG)."

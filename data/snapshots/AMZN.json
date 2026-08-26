@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:39:29.608Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:47:55.647Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    232.11000061035156,
     231.38999938964844,
     230.86000061035156,
     226.64999389648438,
@@ -24,10 +23,10 @@
     265.8399963378906,
     260.1099853515625,
     258.6300048828125,
-    262.07000732421875
+    262.07000732421875,
+    261.05999755859375
   ],
   "6m": [
-    198.7899932861328,
     201.14999389648438,
     204.7899932861328,
     204.86000061035156,
@@ -158,10 +157,10 @@
     265.8399963378906,
     260.1099853515625,
     258.6300048828125,
-    262.07000732421875
+    262.07000732421875,
+    261.05999755859375
   ],
   "1y": [
-    227.94000244140625,
     228.7100067138672,
     229.1199951171875,
     231.60000610351562,
@@ -411,12 +410,19 @@
     265.8399963378906,
     260.1099853515625,
     258.6300048828125,
-    262.07000732421875
+    262.07000732421875,
+    261.05999755859375
   ],
-  "lastClose": 262.07000732421875,
-  "oneYearReturn": 14.973240553327571,
+  "lastClose": 261.05999755859375,
+  "oneYearReturn": 14.144545448419644,
   "marketCap": null,
   "topNews": [
+    {
+      "headline": "Prediction: Amazon Stock Could Be the Sleeper Winner of the AI Boom - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTk2TDNzbDRPTHo0N3RoQlN1cUZLVEpMSXc4UE81b0NENlBzbzcyTzlXTS1MVEVzU1JqN2R0TW5UTGlsSExJUmJrSGdwLTVtQ2djeHk4SkgyQnVnaTI0dlZyeUVSaE5SaURKb1RKR2NhZEpvNEZ6U3RzM0RXSDJ5ZzVmYnROOHBhN1BaUHZpRk51dENEanVqNUltWWtBNmZ4alZmV1JPcFZpcGhtc040?oc=5"
+    },
     {
       "headline": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years? - The Motley Fool",
       "source": "The Motley Fool",
@@ -424,16 +430,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdHhXWllPejZCcmRYcFVUbWI1RXJwUnRzSENtMl9hUjNzeTRJY0pGS2p1UVNlemF0QkRveklYdmEyVjl5Tkx4RWJIREw5ZDVmdXB4N1N3T201T19nZDBoSUdTYjFWaHFseC1hcmlOQlFwdjVuaU41YlhXckhmVTdLVUdkWEJncXVpUjFSeXRvOHdfc0FnZkRxcA?oc=5"
     },
     {
-      "headline": "Huge News For Amazon Stock Fans - TradingView",
-      "source": "TradingView",
-      "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdXY3Z1EyNzFzUFNDa1J1bi1FT256WHRTcXUxcFV6cEFoZGJmQXdrSjBOQWloWC1yYVM2dnFrUkt5YWxGNy1lUjBCdk1nRG55bzUwbGNmcHFpRGV3WjB1YlpscGY1WHVjajVOZ0NXVGlpZFZYamkwT1QyTjBlSzFzOHIxRHlzczhvZzF1Qm9lcmlMT3NHQkE?oc=5"
-    },
-    {
-      "headline": "Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying Opportunity? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "when": "2026-08-22",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmNKM1doMUpaczhjNmQzeWp4eVZhSE0yQVVMemp3eURHWldCcE1hNmRhWWhmcVk5YWJ2QjY2VHg2MWpGX194OTNSMjRwTndRQXJuc19fNWtMVlpZVXk5OTdFenI2QWkwNVRWUm9VN3JWSHRscXp0bERnZUtMVHhEMVNRaXdHMjNocmwtMnhNdkJrQzNiVmhMTnhIdTc5ZUZxbzRr?oc=5"
+      "headline": "Amazon Web Services CEO Matthew Garman sells $3.77 million in AMZN stock - Investing.com",
+      "source": "Investing.com",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOFlad0taUFlqVU9vYkpBY0FjLW1pdUZwUWUwM0JoS2Utcmx4dFpydHNTTWRiM1RwQXV2cWRFLXpPUUFZaG9weWF3dWQ5c095OTNqcHNxbWV4TzVrNENkb0hCajF2MXdMWUduVk1pMVhHWmdZRXgwRnFrTm1XTzh5aDlyTUVJcFV1NEpHRGdDUFNpQ1otM1JpSF9EV3UyX3VjMkFlLUhzcEZsYm84QlFFeUpXT3dfUThaOGluZGJhNkNwU1plcHhzRzFJeHNuYjV6?oc=5"
     }
   ],
   "insight": "Tracking Amazon (AMZN)."

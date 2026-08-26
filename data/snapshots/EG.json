@@ -1,9 +1,8 @@
 {
-  "builtAt": "2026-08-25T02:39:45.155Z",
-  "builtDateUTC": "2026-08-25",
+  "builtAt": "2026-08-26T02:48:09.861Z",
+  "builtDateUTC": "2026-08-26",
   "source": "yahoo-finance",
   "1m": [
-    385.1199951171875,
     389.3399963378906,
     398.70001220703125,
     393.8900146484375,
@@ -24,10 +23,10 @@
     363.92999267578125,
     368.3599853515625,
     370.05999755859375,
-    376.7900085449219
+    376.7900085449219,
+    375.3900146484375
   ],
   "6m": [
-    338.0299987792969,
     346.0299987792969,
     345.510009765625,
     342.92999267578125,
@@ -158,10 +157,10 @@
     363.92999267578125,
     368.3599853515625,
     370.05999755859375,
-    376.7900085449219
+    376.7900085449219,
+    375.3900146484375
   ],
   "1y": [
-    341.32000732421875,
     338.7200012207031,
     343.3399963378906,
     339.8800048828125,
@@ -411,29 +410,30 @@
     363.92999267578125,
     368.3599853515625,
     370.05999755859375,
-    376.7900085449219
+    376.7900085449219,
+    375.3900146484375
   ],
-  "lastClose": 376.7900085449219,
-  "oneYearReturn": 10.392007634937816,
+  "lastClose": 375.3900146484375,
+  "oneYearReturn": 10.826054940830296,
   "marketCap": null,
   "topNews": [
     {
-      "headline": "Korea Investment CORP Takes Position in Everest Group, Ltd. $EG - MarketBeat",
+      "headline": "Callan Family Office LLC Makes New Investment in Everest Group, Ltd. $EG - MarketBeat",
       "source": "MarketBeat",
+      "when": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ0szT0dqRG5HUElvQlNNTmZlbnZiRURseko5N2J3ZklMOTNEWkR5ODJ0dzBkcUN6QVZOcE5pQVpKaW03QVRKT3FGQks2eHVKWUwtZnozTHJCcVF3VUZwb1FNOWNSMmE1blVMd25OMy1rRzFkQTRIMVFpSkpMbktKVXVmdGhGZzR5S0RxcjdiTGlEdGFrTnJ0UlBidEVDNWpiVzZuUWRoWFJ0WVh2d3dNdm1yZXhhalFSM0x4bkhKbElOMWwyRC1qQW5B?oc=5"
+    },
+    {
+      "headline": "Everest Group Ltd. stock outperforms competitors on strong trading day - MarketWatch",
+      "source": "MarketWatch",
       "when": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQekdPdGFMUExhQ0pfMEZnektWeERSSVlzeklPbl8waHlLRl9raUhjZlpZQklWTmtVQVFXOFhNV1JkYlV4ZmZtaDNpWFBqcjhUbzNfUHZqRm5HdUl2bE9HYzZaMjA1NGtld2RLai1GcVk1QVozTHFxLWVRb3BmNTZwcktQb3ZhcGZpYkRubkZJVnl1Y040dkkwWHlHWmtzaFk4ZHg0QnR3dWdGWW5ldk9WbnZNSGQ1STgtbElQWklB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVU9EcGlfb0NNdDI1RGVOUWR6aU9XTGFicTQxM2JmcURhR05HSFdJRXhZdGVPUU5jMGp0VmVQd3RqTndCbDNHLXpOenlzaWJDYjk0RHBSUU9YUmo5TktFcWx3ejIxLWVTQXJsaGZwSGNQbC1leEtxRm5fWHBBNEZQT3M4WlBpbTNocFEwNVNlVVdiSWlzcl9kYWlZWmRidkpqc2lfRjBHTExQX29SR0tDUnRPX0ZoV09CMThTTFJvcG5xb3l3d29ETA?oc=5"
     },
     {
       "headline": "Is Everest Group (EG) Undervalued After Slower Sales And Earnings Raised New Doubts? - simplywall.st",
       "source": "simplywall.st",
       "when": "2026-08-23",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOE1iSGtvMk9rUEhYU1BENUE0eEdmR0pHb3pyMUJzTFUyOWJ6ck1vR0JCMGN4WndDTUw4Rkc0NzBjaTgwWTNZWkNpNjJ1YktRVWpHd1dSMlFtUGpRNDV6QkhMelpsTFVZSE05NlhMWlRXdFlZNFEwOFpXOTc0VzZVOERNM016U0hOR0tWT0tHYjdTYnZPTEFOUFVPR1JpT0xBQi0wT1R0QjhTM3hvSUtpMzk2aWo5dE1HNnFKVWFjd3BHMW1ONzB0WdIBzgFBVV95cUxPdGh1dkxvZ1VzeWItN0Q1Z3JubTNMaXRlQm9tYnp2eUZqTlpud1RxLTNLYzV3R1pDcWR4M2hYeFE4dXRiY3pmWElCaHRnM0NIZnpSNU1DM3RYZFNuekkxZVFrLTFfYlRmOTFzVTJfRElzZVc0VkdwdzdNT0lFODd5QWpFTElPZ3dwUmU2UHBzN0s4Y0FoNGVMQU9yYW42Z01ha0lHZGY3NXJJczc5OF82Wk4wTkhjN2pBVThEOVl0Znp2WHJDT3lmZVVTY3g2QQ?oc=5"
-    },
-    {
-      "headline": "Everest Group (EG) Surpasses Q2 Earnings Estimates - Eastern Progress",
-      "source": "Eastern Progress",
-      "when": "2026-08-22",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaW43NndPNEc1QWVabEVsXzNxN2pqdExkYVpMcjdFMmJON0lkemk0RXhXOUtfLWpRYmtiUDctcndVUDJXd0NMTUJ4b044MlB1MUNkOUlsSUNxNVBWeXZWN2RVYnBFMEtUeXZ3cUtWOWF0R0l5SnhTcW90Zkh3R094enhURDFCSktuYmRmQXNxQ0JuWkhiM0RqdHF2TUU3NnVTUlpHTnZuMXZ1bjYzb3U5THkyMFliZzVLdUdEd1JuaERVZHJnTHpNQTFR?oc=5"
     }
   ],
   "insight": "Tracking Everest Group (EG)."
